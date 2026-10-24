@@ -54,7 +54,7 @@ Tên *Linhir* cũng được dùng để chỉ đoạn hợp lưu của Gilrain 
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sông Gilrain hình thành ranh giới giữa khu vực <a href="../D/Dor-en-Ernil.md" title="Dor-en-Ernil">Dor-en-Ernil</a> và Hạ <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> thuộc khu vực miền Trung <a href="Gondor.md" title="Gondor">Gondor</a>. Con sông là lãnh địa của cô hầu sông hiền lành Roamingstar, một trong Năm chị em, sống ở vùng sông nước. Roamingstar đã ru cô hầu Tiên <a href="../N/Nimrodel.md" title="Nimrodel">Nimrodel</a> ngủ bằng bài hát của mình và do đó vô tình khiến Tiên mất đi người cô yêu, <a href="../A/Amroth.md" title="Amroth">Amroth</a>, một bi kịch mà cô hầu sông vẫn cảm thấy tội lỗi trong <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>. Khi đó cô và các chị gái của mình được nhiều người coi là huyền thoại, nhưng khi được tìm kiếm sự trợ giúp Gondor, cô đã đưa ra bằng cách ngăn chặn Người chết tàn nhẫn băng qua sông của cô vào Lebennin.</dd></dl>
 

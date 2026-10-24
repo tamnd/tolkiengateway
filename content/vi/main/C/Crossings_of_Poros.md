@@ -38,7 +38,7 @@ Túrin II đánh bại quân xâm lược Haradrim nhờ sự trợ giúp của 
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>:
+<b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>:
 
 <dl><dd>Một tấm thảm thêu mô tả chỗ đứng cuối cùng của Folcred và Fastred được tìm thấy trong <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a> và có thể mua được để sử dụng trong nhà của người chơi.</dd></dl>
 

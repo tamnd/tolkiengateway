@@ -55,7 +55,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Siriondil là con trai của [Calimmacil](../C/Calimmacil.md), và là cháu trai của Vua [Narmacil II](../N/Narmacil_II.md) (d. [T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md)) và do đó, là anh em họ xa của Vua [Ondoher](../O/Ondoher.md) của Gondor. Có lẽ ông ta được đặt theo tên của tổ tiên [Siriondil](<Siriondil_(King_of_Gondor).md>), một cựu Vua của [Gondor](../G/Gondor.md). Ở [T.A.](../T/Third_Age.md) [1883](../T/Third_Age_1883.md) ông có một con trai, [Earnil](../E/Eärnil_II.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Siriondil là con trai của [Calimmacil](../C/Calimmacil.md), và là cháu trai của Vua [Narmacil II](../N/Narmacil_II.md) (d. [T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md)) và do đó, là anh em họ xa của Vua [Ondoher](../O/Ondoher.md) của Gondor. Có lẽ ông được đặt theo tên của tổ tiên [Siriondil](<Siriondil_(King_of_Gondor).md>), một cựu Vua của [Gondor](../G/Gondor.md). Ở [T.A.](../T/Third_Age.md) [1883](../T/Third_Age_1883.md) ông có một con trai, [Earnil](../E/Eärnil_II.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 Sau khi [Ondoher](../O/Ondoher.md) và các con trai của ông bị giết trong trận chiến chống lại [Wainriders](../W/Wainriders.md) ở [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md), [năm sau](../T/Third_Age_1945.md) Eärnil đã được bầu làm Vua Gondor thứ ba mươi hai.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 

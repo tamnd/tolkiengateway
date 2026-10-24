@@ -38,7 +38,7 @@ images:
 
 **George R. R. Martin** (sinh [20 tháng Chín](../_/20_September.md), [1948](../_/1948.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một tác giả người Mỹ chủ yếu viết truyện giả tưởng và khoa học viễn tưởng. Ông được biết đến nhiều nhất với <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire" title="wikipedia:A Song of Ice and Fire">A Song of Ice and Fire</a></i>, một loạt tiểu thuyết giả tưởng sử thi chịu ảnh hưởng từ các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Adam Roberts](../A/Adam_Roberts.md) nhận ra những ảnh hưởng rõ ràng của Tolkien đối với công việc của Martin, nhưng coi ông ta là "kẻ phản đốiTolkien", với *Song* là một <a class="extiw" href="http://en.wikipedia.org/wiki/grimdark" title="wikipedia:grimdark">phản ứng đen tối</a> đối với chủ nghĩa lý tưởng của Tolkien.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Adam Roberts](../A/Adam_Roberts.md) nhận ra những ảnh hưởng rõ ràng của Tolkien đối với công việc của Martin, nhưng coi ông là "kẻ phản đốiTolkien", với *Song* là một <a class="extiw" href="http://en.wikipedia.org/wiki/grimdark" title="wikipedia:grimdark">phản ứng đen tối</a> đối với chủ nghĩa lý tưởng của Tolkien.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Bộ phim *Song* đã được chuyển thể thành phim truyền hình <i><a class="extiw" href="http://en.wikipedia.org/wiki/Game_of_Thrones" title="wikipedia:Game of Thrones">Game of Thrones</a></i>, với một số diễn viên và đoàn làm phim từ [*The Lord of the Rings* bộ ba phim](<../T/The_Lord_of_the_Rings_(film_series).md>) tham gia vào loạt phim, chẳng hạn như diễn viên [Sean Bean](../S/Sean_Bean.md) và [Weta Digital](../W/Weta_Digital.md) cung cấp hiệu ứng hình ảnh.
 
@@ -68,6 +68,6 @@ Bộ phim *Song* đã được chuyển thể thành phim truyền hình <i><a c
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">James Hibberd (12 July 2012)</span>. <span class="cite-web-article"><a class="external text" href="http://shelf-life.ew.com/2011/07/12/george-martin-talks-a-dance-with-dragons/" rel="noreferrer noopener" target="_blank">&#34;EW interview: George R.R. Martin talks &#39;A Dance With Dragons&#39;&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.ew.com/" rel="noreferrer noopener" target="_blank">Entertainment Weekly</a></span>. <span class="cite-web-accessed">Retrieved 20 June 2012</span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../A/Adam_Roberts.md" title="Adam Roberts">Adam Roberts</a> (<a href="../_/2014.md" title="2014">2014</a>), <i>Get Started in: Writing Science Fiction and  Fantasy</i>, Hachette UK, p. 42</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../A/Adam_Roberts.md" title="Adam Roberts">Adam Roberts</a> (<a href="../_/2014.md" title="2014">2014</a>), <i>Get Started in: Writing Science Fiction and Fantasy</i>, Hachette UK, p. 42</span>
 </li>
 </ol></div>

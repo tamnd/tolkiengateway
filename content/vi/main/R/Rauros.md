@@ -76,7 +76,7 @@ Trong một bản thảo khác, cái tên *Rauros(se)* được cho là bao gồ
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Rauros.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/The_Lord_of_the_Rings_Online_-_Rauros.jpg/250px-The_Lord_of_the_Rings_Online_-_Rauros.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/The_Lord_of_the_Rings_Online_-_Rauros.jpg/375px-The_Lord_of_the_Rings_Online_-_Rauros.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/17/The_Lord_of_the_Rings_Online_-_Rauros.jpg/500px-The_Lord_of_the_Rings_Online_-_Rauros.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Rauros in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Từ <a href="../N/Nen_Hithoel.md" title="Nen Hithoel">Nen Hithoel</a> trong vùng đất <a href="Rhovanion.md" title="Rhovanion">Rhovanion</a> có thể nhìn thấy phần trên của Rauros. Đi theo <a href="../N/North_Stair.md" title="North Stair">Cầu thang phía Bắc</a> về phía nam sẽ chuyển người chơi đến vùng đất <a href="../G/Gondor.md" title="Gondor">Gondor</a>, từ đó có thể quan sát được toàn bộ Rauros.</dd></dl>
 

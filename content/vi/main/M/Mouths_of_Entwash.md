@@ -37,7 +37,7 @@ Sự xâm nhập của Entwash lớn đến mức Anduin không thể chở hế
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bờ phía tây của Mouths Entwash nằm trong khu vực "Beacon Hills" của vùng "Far <a class="mw-redirect" href="../A/Anorien.md" title="Anorien">Anorien</a>", trong khi phần lớn hơn vẫn không thể tiếp cận được và chỉ có thể quan sát được từ trên đỉnh <a href="../R/Rauros.md" title="Rauros">Rauros</a>.</dd></dl>
 

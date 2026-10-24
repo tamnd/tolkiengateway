@@ -58,7 +58,7 @@ Có lẽ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng t�
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/54/The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg/300px-The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/54/The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg/450px-The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/54/The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg/600px-The_Lord_of_the_Rings_Online_-_Sarn_Ford.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Sarn Ford in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sarn Ford nằm ở rìa phía tây của khu vực <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a> trong trò chơi. Nó được viếng thăm vào <a href="../_/26_September.md" title="26 September">26 tháng Chín</a> khi Biệt đội do Halbarad chỉ huy vẫn đang hồi phục sau cuộc tấn công.</dd></dl>
 

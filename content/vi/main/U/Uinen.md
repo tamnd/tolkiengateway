@@ -60,7 +60,7 @@ Người ta kể rằng mái tóc của cô trải dài trên khắp mặt nư�
 
 ## Lịch sử {#History}
 
-Đầu lịch sử của [Arda](../A/Arda.md), Ossë đã bị [Morgoth](../M/Morgoth.md) làm hư hỏng nhưng [Aulë](../A/Aulë.md) đã cầu xin Uinen thuyết phục ông ta quay trở lại phục vụ Ulmo.<sup id="cite_ref-vala_1-2" class="reference"><a href="#cite_note-vala-1">[1]</a></sup>
+Đầu lịch sử của [Arda](../A/Arda.md), Ossë đã bị [Morgoth](../M/Morgoth.md) làm hư hỏng nhưng [Aulë](../A/Aulë.md) đã cầu xin Uinen thuyết phục ông quay trở lại phục vụ Ulmo.<sup id="cite_ref-vala_1-2" class="reference"><a href="#cite_note-vala-1">[1]</a></sup>
 
 [Teleri](../T/Teleri.md) của [Olwë](../O/Olwë.md) có rất nhiều tình cảm với Uinen, vì cô và Ossë đã kết bạn với họ ở bờ sông [Sirion](../S/Sirion.md) trong [Tháng ba vĩ đại](../G/Great_March.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -72,7 +72,7 @@ Uinen khóc thương các thủy thủ Teleri sau vụ tàn sát người thân 
 
 Có hai cách giải thích cho tên *Uinen*. Trong *[The Etymologies](../T/The_Etymologies.md)*, phần tử đầu tiên đến từ gốc UY-. Một số từ khác theo bổ đề này có nghĩa là "rong biển", mặc dù bản thân tên Uinen không được giải thích.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Một ghi chú sau đó liên quan đến tên thay vào đó gợi ý rằng nó là một tên có nguồn gốc không phảiElvish ([Valarin](../V/Valarin.md)) không rõ nghĩa.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng *Uinen* có chứa phần tử *[nen](../N/Nén.md)* ("nước").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Không rõ liệu ông ta có quyền truy cập vào các bản thảo chưa được xuất bản của cha mình để chứng thực cho gợi ý này hay ông ta đã suy đoán về vấn đề này.
+[Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý rằng *Uinen* có chứa phần tử *[nen](../N/Nén.md)* ("nước").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Không rõ liệu ông có quyền truy cập vào các bản thảo chưa được xuất bản của cha mình để chứng thực cho gợi ý này hay ông đã suy đoán về vấn đề này.
 
 ## Phả hệ {#Genealogy}
 

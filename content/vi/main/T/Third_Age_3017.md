@@ -31,8 +31,8 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 ## Tháng 2/Tháng 3 {#February/March}
 
 - Trên đường tới Mirkwood, Aragorn băng qua [Anduin](../A/Anduin.md) được hỗ trợ bởi [Beornings](../B/Beornings.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
-- [Gandalf](../G/Gandalf.md) ghé thăm [Minas Tirith](../M/Minas_Tirith.md) và đọc [cuộn Isildur](../S/Scroll_of_Isildur.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Sau đó ông ta rời đi [ Shire](The_Shire.md).<sup id="cite_ref-council_5-0" class="reference"><a href="#cite_note-council-5">[4]</a></sup>
-- Trên đường đi về phía bắc, Gandalf nhận được tin từ [Lothlórien](../L/Lothlórien.md) rằng Aragorn đi ngang qua cùng với Gollum bị bắt và thay đổi lộ trình để gặp ông ta.<sup id="cite_ref-council_5-1" class="reference"><a href="#cite_note-council-5">[4]</a></sup>
+- [Gandalf](../G/Gandalf.md) ghé thăm [Minas Tirith](../M/Minas_Tirith.md) và đọc [cuộn Isildur](../S/Scroll_of_Isildur.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Sau đó ông rời đi [ Shire](The_Shire.md).<sup id="cite_ref-council_5-0" class="reference"><a href="#cite_note-council-5">[4]</a></sup>
+- Trên đường đi về phía bắc, Gandalf nhận được tin từ [Lothlórien](../L/Lothlórien.md) rằng Aragorn đi ngang qua cùng với Gollum bị bắt và thay đổi lộ trình để gặp ông.<sup id="cite_ref-council_5-1" class="reference"><a href="#cite_note-council-5">[4]</a></sup>
 
 ## Tháng 3 {#March}
 

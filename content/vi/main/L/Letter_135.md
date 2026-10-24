@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Một nhà in đã ước tính rằng để thu hồi chi phí *The Lord of the Rings* sẽ phải có giá tối thiểu là £3 10s và sẽ đắt hơn nếu được chia thành hai tập. Ý kiến ​​thứ hai đang được tìm kiếm từ một nhà in khác. Tolkien hối hận vì đã tạo ra một con quái vật to lớn như vậy trong những ngày không thuận lợi và cảm ơn Rayner vì mọi rắc rối của ông. Tolkien hy vọng rằng quyết định có tiếp tục xuất bản tác phẩm hay không sẽ sớm được đưa ra vì sự không chắc chắn đè nặng trong lòng anh. Ông ta không thể coi nó là một thảm họa và chuyển sang những thứ khác cũng như không thể phát triển các vật phẩm liên quan như bản đồ.
+Một nhà in đã ước tính rằng để thu hồi chi phí *The Lord of the Rings* sẽ phải có giá tối thiểu là £3 10s và sẽ đắt hơn nếu được chia thành hai tập. Ý kiến ​​thứ hai đang được tìm kiếm từ một nhà in khác. Tolkien hối hận vì đã tạo ra một con quái vật to lớn như vậy trong những ngày không thuận lợi và cảm ơn Rayner vì mọi rắc rối của ông. Tolkien hy vọng rằng quyết định có tiếp tục xuất bản tác phẩm hay không sẽ sớm được đưa ra vì sự không chắc chắn đè nặng trong lòng anh. Ông không thể coi nó là một thảm họa và chuyển sang những thứ khác cũng như không thể phát triển các vật phẩm liên quan như bản đồ.
 
 Tolkien gọi con số ước tính đưa ra là rất lớn đối với bất kỳ cuốn sách nào, hỏi rằng nếu họ xuất bản ở mức giá đó thì họ sẽ in bao nhiêu và họ sẽ phải bán bao nhiêu để có được lợi nhuận? Tolkien tuyên bố rằng có rất nhiều người khao khát giá vé như vậy, thích thú với thời gian dài và sẵn sàng trả tiền cho nó. Tuy nhiên, anh không muốn mạo hiểm đoán số lượng những người này.
 

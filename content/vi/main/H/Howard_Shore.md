@@ -35,7 +35,7 @@ infobox:
 
 **Howard Leslie Shore** ([18 tháng 10](../_/18_October.md), [1946](../_/1946.md)), là nhà soạn nhạc từng đoạt giải thưởng. Ông đã sáng tác nhạc phim cho [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>) và [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>).
 
-Ông cũng xuất hiện với vai trò khách mời trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Ông ta là một trong những [Rohan người lính](../R/Rohirrim.md) uống rượu trong trò chơi uống rượu mà [Legolas](../L/Legolas.md) đã đánh bại [Gimli](../G/Gimli.md).
+Ông cũng xuất hiện với vai trò khách mời trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*. Ông là một trong những [Rohan người lính](../R/Rohirrim.md) uống rượu trong trò chơi uống rượu mà [Legolas](../L/Legolas.md) đã đánh bại [Gimli](../G/Gimli.md).
 
 Vào năm 2020, có thông tin cho rằng Howard Shore đang đàm phán với Amazon để soạn nhạc cho loạt phim truyền hình *[The Lord of the Rings: The Rings of Power‎](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cuối cùng, ông đã viết và soạn nhạc chủ đề chính cho loạt phim, trong khi phần còn lại của phần nhạc do [Bear McCreary](../B/Bear_McCreary.md) sáng tác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

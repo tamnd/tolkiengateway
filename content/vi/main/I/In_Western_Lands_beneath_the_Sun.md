@@ -52,7 +52,7 @@ giữa mái tóc phân nhánh của họ.
 </p>
 </div>
 
-Sam bắt đầu hát lại câu “Vượt lên trên mọi ngọn tháp mạnh mẽ và cao lớn” nhưng đột ngột dừng lại khi anh tưởng mình có thể nghe thấy một giọng nói yếu ớt trả lời. Giọng nói dừng lại nhưng sau đó anh nghe thấy tiếng bước chân của [Snaga](<../S/Snaga_(orc_of_Mordor).md>) đang đến gần. Giọng nói của Sam, rõ ràng không phải của một [Tiên](../E/Elves.md), đã thu hút [orc](../O/Orcs.md), khiến nó phải im lặng Frodo. Snaga mang theo một chiếc thang giúp ông ta có thể đến được căn phòng cuối cùng phía trên, ngay sau đó là Sam.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sam bắt đầu hát lại câu “Vượt lên trên mọi ngọn tháp mạnh mẽ và cao lớn” nhưng đột ngột dừng lại khi anh tưởng mình có thể nghe thấy một giọng nói yếu ớt trả lời. Giọng nói dừng lại nhưng sau đó anh nghe thấy tiếng bước chân của [Snaga](<../S/Snaga_(orc_of_Mordor).md>) đang đến gần. Giọng nói của Sam, rõ ràng không phải của một [Tiên](../E/Elves.md), đã thu hút [orc](../O/Orcs.md), khiến nó phải im lặng Frodo. Snaga mang theo một chiếc thang giúp ông có thể đến được căn phòng cuối cùng phía trên, ngay sau đó là Sam.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -60,7 +60,7 @@ Donald Swann đã viết nhạc cho bài hát này, có thể tìm thấy trong 
 
 Stephen Oliver cũng viết nhạc cho bài hát cho vở kịch của Đài BBC. Nó được hát trong câu chuyện bởi Bill Nighy (được gọi là William Nighy) và trên BBC Record bởi nhà phê bình rượu vang, Oz Clarke.
 
-Trong vở opera *[Beren and Lúthien](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>)*của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md), bài thơ này được tặng cho các nhân vật chính, với Lúthien hát khổ đầu tiên và Beren khổ thứ hai khi cô phát hiện ra ông ta trong hang ổ của [Sauron](../S/Sauron.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong vở opera *[Beren and Lúthien](<../B/Beren_and_Lúthien,_Op._47_(Opera).md>)*của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md), bài thơ này được tặng cho các nhân vật chính, với Lúthien hát khổ đầu tiên và Beren khổ thứ hai khi cô phát hiện ra ông trong hang ổ của [Sauron](../S/Sauron.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

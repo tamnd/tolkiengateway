@@ -54,7 +54,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Golfimbul dẫn đầu một nhóm Orc trong cuộc xâm lược [Shire](../T/The_Shire.md) ở [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Bandobras Took](../B/Bandobras_Took.md) gặp Golfimbul tại [Northfarthing](../N/Northfarthing.md) của [ Shire](../T/The_Shire.md) và đánh bại hắn trong [Trận chiến Greenfields](../B/Battle_of_Greenfields.md). Trong trận chiến, Bandobras, người đủ lớn để cưỡi ngựa, lao tới Golfimbul và dùng gậy đập vào đầu ông ta. Đầu của Golfimbul bay trong không khí khoảng 100 thước và rơi xuống một cái hang thỏ. Người ta nói rằng đây là cách trò chơi [golf](Golf.md) được phát minh.<sup id="cite_ref-HParty_1-1" class="reference"><a href="#cite_note-HParty-1">[1]</a></sup>
+Golfimbul dẫn đầu một nhóm Orc trong cuộc xâm lược [Shire](../T/The_Shire.md) ở [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Bandobras Took](../B/Bandobras_Took.md) gặp Golfimbul tại [Northfarthing](../N/Northfarthing.md) của [ Shire](../T/The_Shire.md) và đánh bại hắn trong [Trận chiến Greenfields](../B/Battle_of_Greenfields.md). Trong trận chiến, Bandobras, người đủ lớn để cưỡi ngựa, lao tới Golfimbul và dùng gậy đập vào đầu ông. Đầu của Golfimbul bay trong không khí khoảng 100 thước và rơi xuống một cái hang thỏ. Người ta nói rằng đây là cách trò chơi [golf](Golf.md) được phát minh.<sup id="cite_ref-HParty_1-1" class="reference"><a href="#cite_note-HParty-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -78,7 +78,7 @@ Jim Allan gợi ý rằng *Golfimbul* có nguồn gốc từ Scandinavia, có ng
 
 ### Trò chơi {#Games}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong <a class="mw-redirect" href="../B/Brockenborings.md" title="Brockenborings">Brockenborings</a> có một bức tượng bằng gỗ mô tả Bandobras đang đứng trong tư thế chơi gôn trên đầu của Golfimbul. Mỗi mùa xuân, <a href="../T/The_Shire.md" title="The Shire"> Shire</a> kỷ niệm Ngày Bullroarer Took khi Hobbit đặt các bình đựng đồ uống dưới bức tượng của ông để vinh danh ông.</dd></dl>
 

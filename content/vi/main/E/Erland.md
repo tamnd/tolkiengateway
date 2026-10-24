@@ -51,7 +51,7 @@ Erland là Ủy viên Hội đồng của [Dale](../D/Dale.md) vào cuối [Kỷ
 
 ### Tham gia Hội đồng Elrond {#Participation_in_the_Council_of_Elrond}
 
-Trong Hội đồng, Erland ngồi giữa [Farin](<../F/Farin_(dwarven_emissary).md>) và [Boromir](../B/Boromir.md). Khi Boromir đứng dậy và kể lại giấc mơ bí ẩn của mình, Erland nhìn anh đầy lo lắng. Ông ta lùi lại khi [Gimli](../G/Gimli.md) bị ném về phía sau sau khi cố gắng phá hủy [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) bằng rìu của mình.
+Trong Hội đồng, Erland ngồi giữa [Farin](<../F/Farin_(dwarven_emissary).md>) và [Boromir](../B/Boromir.md). Khi Boromir đứng dậy và kể lại giấc mơ bí ẩn của mình, Erland nhìn anh đầy lo lắng. Ông lùi lại khi [Gimli](../G/Gimli.md) bị ném về phía sau sau khi cố gắng phá hủy [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) bằng rìu của mình.
 
 Hội đồng nổ ra khi các thành viên bất đồng về việc phải làm gì với [Chiếc Nhẫn Chúa](../T/The_One_Ring.md). Erland đứng dậy và bắt đầu la hét. Cuộc tranh cãi nảy lửa của Hội đồng tiếp tục diễn ra cho đến khi [Frodo Baggins](../F/Frodo_Baggins.md), [Shire-hobbit](../S/Shire-hobbits.md), người đã mang Chiếc nhẫn đến Rivendell, tình nguyện mang Chiếc nhẫn đến Mordor và phá hủy nó. Erland quan sát tám người khác đề nghị tham gia Frodo trong nhiệm vụ của ông. Anh ngồi xuống và nhìn Chúa Elrond lồng tiếng Frodo và tám người bạn đồng hành của mình "[The Fellowship of the Ring](../F/Fellowship_of_the_Ring.md)".
 

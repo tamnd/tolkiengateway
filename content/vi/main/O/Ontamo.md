@@ -49,7 +49,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ontamo là bạn thân của những người đồng hương Númenor [Isildur](../I/Isildur.md) và [Valandil](<../V/Valandil_(The_Rings_of_Power).md>), những người mà anh đã tham gia huấn luyện để trở thành một phần của Đội cận vệ Númenor <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sea_Guard&amp;action=edit&amp;redlink=1" title="Sea Guard (page does not exist)">Biển</a>. Ông ta đã đính hôn với một phụ nữ Númenor tên là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mairen_(Rings_of_Power)&amp;action=edit&amp;redlink=1" title="Mairen (Rings of Power) (page does not exist)">Mairen</a>.
+Ontamo là bạn thân của những người đồng hương Númenor [Isildur](../I/Isildur.md) và [Valandil](<../V/Valandil_(The_Rings_of_Power).md>), những người mà anh đã tham gia huấn luyện để trở thành một phần của Đội cận vệ Númenor <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sea_Guard&amp;action=edit&amp;redlink=1" title="Sea Guard (page does not exist)">Biển</a>. Ông đã đính hôn với một phụ nữ Númenor tên là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mairen_(Rings_of_Power)&amp;action=edit&amp;redlink=1" title="Mairen (Rings of Power) (page does not exist)">Mairen</a>.
 
 Isildur cố tình lãng phí cơ hội trở thành Vệ binh Biển của mình bằng cách thất bại trong nhiệm vụ trên tàu huấn luyện thiếu sinh quân để thay vào đó anh có thể theo đuổi chính nghĩa của những người trung thành như anh trai mình [Anárion](../A/Anárion.md). Do sự tự phá hoại của Isildur, Thuyền trưởng phụ trách việc đào tạo của họ đã sa thải không chỉ Isildur mà cả Ontamo và Valandil nữa. Ontamo rất buồn vì điều này nhưng, không giống như Valandil, anh vẫn là bạn với Isildur.
 
@@ -57,7 +57,7 @@ Sau khi [Nimloth](<../N/Nimloth_(tree).md>) bắt đầu ngừng bàn đạp, N�
 
 Cả ba sau đó đến Trung Địa và chiến đấu bên cạnh lực lượng viễn chinh, đánh bại [Orc](Orcs.md) của Adar tại [Tirharad](../T/Tirharad.md). Suy ngẫm về trận chiến, Ontamo nhận thấy mình không có hứng thú với chiến tranh. Điều bất hạnh lớn nhất của anh là bạo lực sẽ xảy ra nhiều hơn, khi [Orodruin](../M/Mount_Doom.md) nổ ra ngay sau đó, dẫn đến sự hủy hoại của Tirharad.
 
-Ontamo đã tham gia Valandil và Isildur trong nỗ lực cứu hộ sau vụ phun trào. Ông ta đã bị đè chết khi một tòa nhà đang cháy sụp đổ trong những nỗ lực này.
+Ontamo đã tham gia Valandil và Isildur trong nỗ lực cứu hộ sau vụ phun trào. Ông đã bị đè chết khi một tòa nhà đang cháy sụp đổ trong những nỗ lực này.
 
 ## Từ nguyên {#Etymology}
 

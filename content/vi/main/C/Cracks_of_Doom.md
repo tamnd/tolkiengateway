@@ -78,7 +78,7 @@ Mặc dù Tolkien không còn nhớ tên hay các chi tiết của câu chuyện
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Sammath_Naur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/49/The_Lord_of_the_Rings_Online_-_Sammath_Naur.jpg/300px-The_Lord_of_the_Rings_Online_-_Sammath_Naur.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/49/The_Lord_of_the_Rings_Online_-_Sammath_Naur.jpg/450px-The_Lord_of_the_Rings_Online_-_Sammath_Naur.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/49/The_Lord_of_the_Rings_Online_-_Sammath_Naur.jpg/600px-The_Lord_of_the_Rings_Online_-_Sammath_Naur.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Sammath Naur in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đoạn hồi tưởng mô tả quá trình tạo ra The Nhẫn Chúa cho thấy một lò rèn nhẫn Sauron tuyệt vời bên trong Sammath Naur. Người chơi không thể truy cập vị trí này và chỉ được truy cập một lần nữa, trong Phiên chơi mô tả sự phá hủy của Chiếc nhẫn, trong đó người chơi điều khiển <a href="../G/Gollum.md" title="Gollum">Gollum</a>.</dd></dl>
 

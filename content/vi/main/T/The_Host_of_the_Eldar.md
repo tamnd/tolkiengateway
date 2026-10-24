@@ -45,7 +45,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Những người đàn ông [Rohan](../R/Rohan.md) tiếp tục chuẩn bị sẵn sàng cho trận chiến sắp tới. [Aragorn](../A/Aragorn.md) ngồi xuống và nhìn thấy một cậu bé cầm kiếm gần đó. Ông ta bảo cậu bé cho ông ta xem thanh kiếm. Khi Aragorn kiểm tra thanh kiếm, cậu bé nói với anh rằng tên cậu là [Haleth](<../H/Haleth_(film_character).md>), con trai của [Háma](../H/Háma.md), và những người đàn ông đó đang nói rằng trận chiến sắp tới là vô vọng. Aragorn trả lại thanh kiếm cho ông ta và nói với ông ta rằng *"there is always hope"*.
+Những người đàn ông [Rohan](../R/Rohan.md) tiếp tục chuẩn bị sẵn sàng cho trận chiến sắp tới. [Aragorn](../A/Aragorn.md) ngồi xuống và nhìn thấy một cậu bé cầm kiếm gần đó. Ông bảo cậu bé cho ông xem thanh kiếm. Khi Aragorn kiểm tra thanh kiếm, cậu bé nói với anh rằng tên cậu là [Haleth](<../H/Haleth_(film_character).md>), con trai của [Háma](../H/Háma.md), và những người đàn ông đó đang nói rằng trận chiến sắp tới là vô vọng. Aragorn trả lại thanh kiếm cho ông và nói với ông rằng *"there is always hope"*.
 
 Khi Aragorn đang chuẩn bị chiến đấu trong nhà, [Legolas](../L/Legolas.md) bước vào và xin lỗi ông vì [đã tuyệt vọng về tình huống trước đó](The_Glittering_Caves.md). Aragorn mỉm cười và nói với anh rằng không có gì phải tha thứ cả. Khi [Gimli](../G/Gimli.md) khoác chiếc áo lưới quá dài đối với ông, ông nhận xét rằng chính là *"a little tight across the chest"*. Đúng lúc đó, họ nghe thấy một tiếng còi.
 

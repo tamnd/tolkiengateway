@@ -56,7 +56,7 @@ Nhà của ông ở [Wold](../T/The_Wold.md), vùng đồng cỏ hoang dã ở b
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Widfara đến từ <a class="mw-redirect" href="Wold.md" title="Wold">Wold</a>. Khi một vùng xa xôi của Wildermore ngừng gửi tin nhắn, <a href="../H/Harding_(rider_of_Rohan).md" title="Harding (rider of Rohan)">Harding</a> cử một nhóm tay đua đến kiểm tra họ, bao gồm cả Wídfara. Cả nhóm bị phục kích và một số ít người sống sót bị phân tán. Con ngựa Windfoot của Widfara bị giết và bản thân ông cũng bị thương, sau đó ông từ từ đi bộ đến làng Scylfig. Ở đó, anh được tìm thấy bởi nhóm của người chơi, <a href="../G/Gléowine.md" title="Gléowine">Gléowine</a> và <a href="../H/Horn_(rider_of_Rohan).md" title="Horn (rider of Rohan)">Horn</a>.</dd>
 <dd>Widfara sau đó đã bình phục vết thương và quay trở lại <a class="mw-redirect" href="Wold.md" title="Wold">Wold</a> đúng lúc để trả lời cuộc tập hợp của Rohirrim. Ông đi cùng người của Harding đến nơi được triệu tập và gặp lại người chơi trong <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Rừng Drúadan</a>. Ông sống sót sau <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a>.</dd></dl>

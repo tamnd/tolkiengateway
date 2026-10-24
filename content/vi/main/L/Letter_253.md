@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã trả lời [Rayner Unwin](../R/Rayner_Unwin.md) về thư từ trước đó về việc xuất bản *[Tree and Leaf](../T/Tree_and_Leaf.md)* và các vấn đề liên quan. [Stanley Unwin](../S/Stanley_Unwin.md) không thích tựa đề này, nhưng Rayner thì thích. Rayner cũng đã yêu cầu ông ta thiết kế bìa trước phù hợp, rõ ràng là thứ gì đó có hình một cái cây. Tolkien bác bỏ ý tưởng của Rayner lấy một hình ảnh từ một bản thảo thời Trung cổ, đơn giản vì - theo những gì ông biết - không có những hình ảnh như vậy. Ông có nhiều hình ảnh khác nhau của riêng mình, vì ông thường xuyên vẽ những cái cây "thần thoại" khi thiết kế mẫu.
+Tolkien đã trả lời [Rayner Unwin](../R/Rayner_Unwin.md) về thư từ trước đó về việc xuất bản *[Tree and Leaf](../T/Tree_and_Leaf.md)* và các vấn đề liên quan. [Stanley Unwin](../S/Stanley_Unwin.md) không thích tựa đề này, nhưng Rayner thì thích. Rayner cũng đã yêu cầu ông thiết kế bìa trước phù hợp, rõ ràng là thứ gì đó có hình một cái cây. Tolkien bác bỏ ý tưởng của Rayner lấy một hình ảnh từ một bản thảo thời Trung cổ, đơn giản vì - theo những gì ông biết - không có những hình ảnh như vậy. Ông có nhiều hình ảnh khác nhau của riêng mình, vì ông thường xuyên vẽ những cái cây "thần thoại" khi thiết kế mẫu.
 
 Các tác phẩm khác - *[The Silmarillion](../T/The_Silmarillion.md)*, <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Green Knight</a></i> - đang tiến triển, mặc dù các sự kiện gần đây đã gây ra một số chậm trễ. <br>
 

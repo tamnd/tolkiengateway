@@ -74,7 +74,7 @@ Sau khi hoàn thành *[The Lord of the Rings](The_Lord_of_the_Rings.md)*, Tolkie
 - **[Canto X](../L/Lay_of_Leithian_Canto_X.md)** - liên quan đến phần thứ hai của Beren and Lúthien và trận chiến với Celegorm và Curufin
 - **[Canto XI](../L/Lay_of_Leithian_Canto_XI.md)** - liên quan đến sự tái hợp của Beren and Lúthien và cách tiếp cận [Thangorodrim](Thangorodrim.md)
 - **[Canto XII](../L/Lay_of_Leithian_Canto_XII.md)** - liên quan đến trận chiến [Fingolfin](../F/Fingolfin.md) và [Morgoth](../M/Morgoth.md) và sự mê hoặc của [Carcharoth](../C/Carcharoth.md)
-- **[Canto XIII](../L/Lay_of_Leithian_Canto_XIII.md)** - liên quan đến điệu nhảy của Lúthien trước Morgoth, sự phù phép của ông ta và việc đánh cắp Silmaril
+- **[Canto XIII](../L/Lay_of_Leithian_Canto_XIII.md)** - liên quan đến điệu nhảy của Lúthien trước Morgoth, sự phù phép của ông và việc đánh cắp Silmaril
 - **[Canto XIV](../L/Lay_of_Leithian_Canto_XIV.md)** - liên quan đến chuyến bay của Beren and Lúthien và cơn thịnh nộ của Carcharoth
 
 ### Những đoạn không được viết {#Unwritten_cantos}
@@ -91,7 +91,7 @@ Tolkien tái chế các phần của phiên bản cũ của Lay, đáng chú ý 
 
 **Bố cục gốc**
 
-> *his silver lances long and keen;*<br> *ánh sáng sao trên tấm khiên của ông ta đã bị bắt,*<br>
+> *his silver lances long and keen;*<br> *ánh sáng sao trên tấm khiên của ông đã bị bắt,*<br>
 
 > *...There might and glory, wealth untold*<br> *Were wielded from his ivory throne*<br> *In many-pillared halls of stone.*<br> *There beryl, pearl, and opal pale*<br> *And metal wrought like fishes' mail*<br> *Buckler and corslet, axe and sword*<br> *Và những ngọn giáo lấp lánh được cất giữ trong kho*<br> *Tất cả những thứ này ông có và ít yêu chúng hơn*<br> *Than a maiden once in Elfinesse...*<br>
 

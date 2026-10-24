@@ -83,7 +83,7 @@ Sự kiện xảy ra vào ngày 3 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) đến [Weathertop](../W/Weathertop.md) và đánh dấu một hòn đá. Vào ban đêm, ông ta bị tấn công ở đó bởi [Kỵ sĩ Đen](../N/Nazgûl.md). Ông ta trốn thoát được với bốn Kỵ sĩ phía sau.
+    - [Gandalf](../G/Gandalf.md) đến [Weathertop](../W/Weathertop.md) và đánh dấu một hòn đá. Vào ban đêm, ông bị tấn công ở đó bởi [Kỵ sĩ Đen](../N/Nazgûl.md). Ông trốn thoát được với bốn Kỵ sĩ phía sau.
     - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi về hướng [Weathertop](../W/Weathertop.md). Họ nhìn thấy những tia sáng từ trận chiến tại Weathertop khi họ rời khỏi [Đầm lầy Midwater](../M/Midgewater_Marshes.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
     - Quý I<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

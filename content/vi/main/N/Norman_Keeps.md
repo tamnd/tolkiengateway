@@ -29,7 +29,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-*Norman Keeps* không phải tên thật của ông mà là biệt danh mà [Lowdham](../A/Alwin_Arundel_Lowdham.md) và [Frankley](../P/Philip_Frankley.md) đặt cho ông từ <a class="extiw" href="http://en.wikipedia.org/wiki/Keeps" title="wikipedia:Keeps">Keeps</a> mà ông đã đề cập. Ông ta là thợ cắt tóc của họ, là một người đàn ông tử tế và thông minh vừa phải, nhưng đối với ông ta, mọi thứ mà "<a class="extiw" href="http://en.wikipedia.org/wiki/Dark_Ages" title="wikipedia:Dark Ages">Dark Kỷ nguyên</a>" đại diện đều là "<a class="extiw" href="http://en.wikipedia.org/wiki/Keeps" title="wikipedia:Keeps">Norman Keeps</a>", "<a class="extiw" href="http://en.wikipedia.org/wiki/King_James" title="wikipedia:King James">Them Jameses</a>", "The Squires" và "The People".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Norman Keeps* không phải tên thật của ông mà là biệt danh mà [Lowdham](../A/Alwin_Arundel_Lowdham.md) và [Frankley](../P/Philip_Frankley.md) đặt cho ông từ <a class="extiw" href="http://en.wikipedia.org/wiki/Keeps" title="wikipedia:Keeps">Keeps</a> mà ông đã đề cập. Ông là thợ cắt tóc của họ, là một người đàn ông tử tế và thông minh vừa phải, nhưng đối với ông, mọi thứ mà "<a class="extiw" href="http://en.wikipedia.org/wiki/Dark_Ages" title="wikipedia:Dark Ages">Dark Kỷ nguyên</a>" đại diện đều là "<a class="extiw" href="http://en.wikipedia.org/wiki/Keeps" title="wikipedia:Keeps">Norman Keeps</a>", "<a class="extiw" href="http://en.wikipedia.org/wiki/King_James" title="wikipedia:King James">Them Jameses</a>", "The Squires" và "The People".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

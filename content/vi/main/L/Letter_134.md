@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nóng lòng muốn xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* càng sớm càng tốt vì anh cho rằng đây là một tác phẩm tuyệt vời nhưng không hoàn hảo. Ông ta chỉ có một bản mà ông ta không dám đăng và dự định dành vài ngày để chỉnh sửa lần cuối. Ông sẽ rút lui khỏi sự ồn ào và hôi hám của Holywell để đến ngôi nhà nhỏ của con trai mình<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> ở Chilterntop để thực hiện công việc. Sau khi trở về vào ngày 10 tháng Chín, Tolkien đề nghị mang gánh nặng của Rayner đến gặp Rayner hoặc, như Rayner đã tử tế gợi ý, Rayner có thể đến thăm ông ta.
+Tolkien nóng lòng muốn xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* càng sớm càng tốt vì anh cho rằng đây là một tác phẩm tuyệt vời nhưng không hoàn hảo. Ông chỉ có một bản mà ông không dám đăng và dự định dành vài ngày để chỉnh sửa lần cuối. Ông sẽ rút lui khỏi sự ồn ào và hôi hám của Holywell để đến ngôi nhà nhỏ của con trai mình<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> ở Chilterntop để thực hiện công việc. Sau khi trở về vào ngày 10 tháng Chín, Tolkien đề nghị mang gánh nặng của Rayner đến gặp Rayner hoặc, như Rayner đã tử tế gợi ý, Rayner có thể đến thăm ông.
 
 Gần đây Tolkien đã thực hiện một số băng ghi âm các bộ phận của *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông đã rất ngạc nhiên về tính hiệu quả của chúng trong việc đọc thuộc lòng và khả năng kể chuyện của ông, đồng thời khẳng định rằng ông đã làm rất tốt [Gollum](../G/Gollum.md) và [Treebeard](../T/Treebeard.md). BBC có thể quan tâm?
 

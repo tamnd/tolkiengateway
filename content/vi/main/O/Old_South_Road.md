@@ -28,11 +28,11 @@ Nó hình thành nên **[Con đường Bắc-Nam](../N/North-South_Road.md)** v�
 
 Tên "Đường Nam Cũ" chỉ xuất hiện trong [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md) ban đầu, như một phần mở rộng của Greenway về phía nam ngoài Tharbad. Sau Tharbad, dòng của nó bị chấm và biến mất, cho thấy (cùng với tên "Cũ") rằng có lẽ nó đã bị [Kỷ Đệ Tam](../T/Third_Age.md) sau này phá hỏng và không vượt quá Enedwaith. Con đường và tên cũng xuất hiện trên *[A Map of Middle-earth](../A/A_Map_of_Middle-earth.md)* của [Pauline Baynes](../P/Pauline_Baynes.md).
 
-Trong khi chỉnh sửa *[Unfinished Tales](../U/Unfinished_Tales.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) đã vẽ *[The West of Middle-earth at the End of the Third Age](../T/The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md)*. Trong bản đồ đó, ông ta "khôi phục" bằng cách ngoại suy toàn bộ lộ trình của Con đường Lớn, nối các đường bị gián đoạn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, nhãn "Đường Nam cũ" biến mất và được thay thế bằng nhãn tổng quát hơn "Con đường Bắc-Nam", ám chỉ toàn bộ tuyến đường được khôi phục.<sup id="cite_ref-utmap_2-1" class="reference"><a href="#cite_note-utmap-2">[2]</a></sup>
+Trong khi chỉnh sửa *[Unfinished Tales](../U/Unfinished_Tales.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) đã vẽ *[The West of Middle-earth at the End of the Third Age](../T/The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md)*. Trong bản đồ đó, ông "khôi phục" bằng cách ngoại suy toàn bộ lộ trình của Con đường Lớn, nối các đường bị gián đoạn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, nhãn "Đường Nam cũ" biến mất và được thay thế bằng nhãn tổng quát hơn "Con đường Bắc-Nam", ám chỉ toàn bộ tuyến đường được khôi phục.<sup id="cite_ref-utmap_2-1" class="reference"><a href="#cite_note-utmap-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2010: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2010: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đường Nam Cũ chạy về phía đông từ <a href="../T/Tharbad.md" title="Tharbad">Tharbad</a> qua các khu vực <a href="../S/Swanfleet.md" title="Swanfleet">Swanfleet</a>, <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a> và <a href="../D/Dunland.md" title="Dunland">Dunland</a>, kết thúc tại <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Cạnh cạn Isen</a>. Con đường có nhiều đoạn cây cối um tùm nhưng phần đá nguyên thủy hình thành nên nó vẫn không thể nhầm lẫn.</dd></dl>
 

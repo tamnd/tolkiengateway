@@ -31,7 +31,7 @@ Một Easterling người được gọi là [Wainriders](../W/Wainriders.md) b�
 
 Nhiều năm sau, Wainriders lên kế hoạch đột kích [Calenardhon](../C/Calenardhon.md) khắp [Undeeps](../U/Undeeps.md). Lãnh chúa Marhwini đã gửi tin nhắn tới Vua Calimehtar cảnh báo ông về điều này, đồng thời thông báo cho ông rằng những người nô lệ Người phương Bắc cũng đang chuẩn bị một cuộc nổi dậy nếu Wainriders tham gia vào chiến tranh.
 
-Nhanh nhất có thể trong [T.A.](../T/Third_Age.md) [1899](../T/Third_Age_1899.md) Calimehtar dẫn đầu một đội quân về phía bắc từ [Ithilien](../I/Ithilien.md). Ông ta cũng bí mật cử kỵ binh qua Undeeps.
+Nhanh nhất có thể trong [T.A.](../T/Third_Age.md) [1899](../T/Third_Age_1899.md) Calimehtar dẫn đầu một đội quân về phía bắc từ [Ithilien](../I/Ithilien.md). Ông cũng bí mật cử kỵ binh qua Undeeps.
 
 ## Trận chiến {#The_Battle}
 

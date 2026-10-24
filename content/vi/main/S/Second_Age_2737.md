@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Tar-Alcarin](../T/Tar-Alcarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- [Tar-Calmacil](../T/Tar-Calmacil.md) trở thành [Vua của Númenor](../K/King_of_Númenor.md); [Người của Nhà Vua](../K/King's_Men.md) gọi ông ta là Ar-Belzagar.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Tar-Calmacil](../T/Tar-Calmacil.md) trở thành [Vua của Númenor](../K/King_of_Númenor.md); [Người của Nhà Vua](../K/King's_Men.md) gọi ông là Ar-Belzagar.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -51,7 +51,7 @@ Trong [Gnomish](Gnomish.md), từ chỉ "vàng" là *glôr* (*glôriol* có ngh�
 
 <dl><dd>Vàng được đặt tên <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> <i>Mal</i> trong sách và được cho là có giá trị Người Lùn cao hơn tất cả các kim loại khác, ngoại trừ mithril. Tiên tộc, người đánh giá cao vẻ đẹp của nó hơn là giá trị của nó, đã sử dụng nó trong hợp kim, Người Lùn sẽ có thể làm được điều gì đó nếu họ sẵn lòng. Có thể trộn với <a href="../M/Metals_in_Middle-earth_Role_Playing.md#Other_metals" title="Metals in Middle-earth Role Playing">bạch kim</a> để trở thành vàng trắng.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Quặng vàng có thể được khai thác bởi các chuyên gia thăm dò ở <a href="../L/Lone-lands.md" title="Lone-lands">Vùng đất đơn độc</a>, <a href="../N/North_Downs.md" title="North Downs">North Downs</a>, <a href="../E/Evendim.md" title="Evendim">Evendim</a>, <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> và <a href="../T/The_Yondershire.md" title="The Yondershire">Yondershire</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 

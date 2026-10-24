@@ -75,7 +75,7 @@ Người Rohirrim gọi các hang động ở Aglarond là *Glǽmscrafu*<sup id=
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hornburg đã được thêm vào cùng với bản mở rộng <i>Helm&#39;s Deep</i> vào năm 2013. Phiên bản "chính" được đặt theo trình tự thời gian ngay trước Trận Hornburg, nhưng người chơi cũng có quyền truy cập vào một phiên bản có giao diện khác lấy bối cảnh sau trận chiến.</dd></dl>
 

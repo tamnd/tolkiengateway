@@ -83,7 +83,7 @@ Tên gọi này không chỉ một vùng khí hậu đặc trưng bởi mặt tr
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Anórien được chia thành hai khu vực trong trò chơi. "Cũ Anórien" bao gồm <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">cánh đồng Pelennor</a> và các vùng đất nằm ngay phía bắc - "Talath Anor". Các vùng đất từ ​​ <a href="../G/Grey_Wood.md" title="Grey Wood">Grey Wood</a> đến <a href="../H/Halifirien.md" title="Halifirien">Halifirien</a> được gọi là "Far Anorien", chúng bao gồm <a class="mw-redirect" href="../D/Druadan_Forest.md" title="Druadan Forest">Rừng Druadan</a> và thị trấn <a href="../G/Gondor.md" title="Gondor">Gondor</a> "Ost Rimmon" nằm dưới ngọn hải đăng <a href="../M/Min-Rimmon.md" title="Min-Rimmon">Min-Rimmon</a>.</dd></dl>
 

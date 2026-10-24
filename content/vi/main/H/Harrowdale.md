@@ -38,7 +38,7 @@ Trong [Cuộc Chiến Nhẫn](../W/War_of_the_Ring.md), lãnh chúa của Harrow
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Harrowdale được coi là một phần của khu vực "Kingstead" của <a href="../W/Westemnet.md" title="Westemnet">Westemnet</a>. Trong trường hợp <a href="../D/Dúnhere.md" title="Dúnhere">Dúnhere</a> vắng mặt, nó được lãnh đạo bởi vợ ông là Ellen Fremedon, tên được lấy từ <i>Beowulf</i>.</dd></dl>
 

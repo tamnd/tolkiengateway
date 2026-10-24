@@ -64,7 +64,7 @@ Các lớp nhân vật có trong *Trò chơi phiêu lưu nhập vai Chúa tể n
 
 - **Quý tộc**: Là người do xuất thân, giàu có, thành đạt hay tương tự, được coi là có địa vị cao trong xã hội, được mọi người tôn trọng và kính trọng. Boromir, Denethor, Aragorn, Celeborn và thậm chí Frodo, ít nhất một phần, thuộc về thứ tự này.
 
-- **Kẻ lừa đảo**: Một người sống và làm việc bằng trí thông minh và đôi bàn tay khéo léo của mình, thường làm những mục tiêu đáng ngờ hoặc ngoài vòng pháp luật. Ông ta có thể là gián điệp cho Kẻ Thù, một kẻ săn tìm kho báu chuyên nghiệp, hoặc đơn giản là một người thích sự tinh vi và xảo quyệt hơn là chiến tranh và đổ máu. Bilbo, trong cuộc phiêu lưu ngắn ngủi của mình với Thorin và đồng đội, đã trở thành thành viên của tổ chức này. Gríma Wormtongue cũng là một kẻ lừa đảo.
+- **Kẻ lừa đảo**: Một người sống và làm việc bằng trí thông minh và đôi bàn tay khéo léo của mình, thường làm những mục tiêu đáng ngờ hoặc ngoài vòng pháp luật. Ông có thể là gián điệp cho Kẻ Thù, một kẻ săn tìm kho báu chuyên nghiệp, hoặc đơn giản là một người thích sự tinh vi và xảo quyệt hơn là chiến tranh và đổ máu. Bilbo, trong cuộc phiêu lưu ngắn ngủi của mình với Thorin và đồng đội, đã trở thành thành viên của tổ chức này. Gríma Wormtongue cũng là một kẻ lừa đảo.
 
 - **Chiến binh**: Những người như lính canh, binh lính và cung thủ được huấn luyện để chiến đấu bằng vũ khí. Đây là thứ tự phổ biến nhất được mô tả trong *The Lord of the Rings* và có thể cũng như vậy trong hầu hết các biên niên sử. Nó bao gồm Aragorn, Boromir, Éomer, Éowyn, hầu hết Rohirrim, Beregond, Thân vương Imrahil và cuối cùng là Merry và Pippin.
 

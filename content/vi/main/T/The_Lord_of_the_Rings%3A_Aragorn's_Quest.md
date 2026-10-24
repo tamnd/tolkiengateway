@@ -74,7 +74,7 @@ Con trai của Sam, [Frodo Gamgee](../F/Frodo_Gardner.md), chạy khắp nơi [H
 
 ## Cách chơi {#Gameplay}
 
-Người chơi điều khiển [Frodo Gamgee](../F/Frodo_Gardner.md) trong thế giới trung tâm của [Shire](../S/Shire.md), nơi ông ta có thể nói chuyện với mọi người và thực hiện các nhiệm vụ đơn giản. Khi ngồi cùng bố, người chơi có thể điều khiển Aragorn trong bối cảnh giống như trong truyện cổ tích. Người chơi Wii cũng có thể điều khiển [Gandalf](../G/Gandalf.md) làm nhân vật thứ hai.
+Người chơi điều khiển [Frodo Gamgee](../F/Frodo_Gardner.md) trong thế giới trung tâm của [Shire](../S/Shire.md), nơi ông có thể nói chuyện với mọi người và thực hiện các nhiệm vụ đơn giản. Khi ngồi cùng bố, người chơi có thể điều khiển Aragorn trong bối cảnh giống như trong truyện cổ tích. Người chơi Wii cũng có thể điều khiển [Gandalf](../G/Gandalf.md) làm nhân vật thứ hai.
 
 Aragorn sẽ sử dụng kiếm, khiên, cung và giáo và có thể cưỡi ngựa.
 

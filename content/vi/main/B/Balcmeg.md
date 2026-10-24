@@ -47,7 +47,7 @@ infobox:
 
 Balcmeg được coi là *"một chiến binh vĩ đại trong số <a class="new" href="https://tolkiengateway.net/w/index.php?title=Orclim&amp;action=edit&amp;redlink=1" title="Orclim (page does not exist)">Orclim</a>"*.<sup id="cite_ref-Appendix_2-0" class="reference"><a href="#cite_note-Appendix-2">[2]</a></sup>
 
-Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Balcmeg nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrog](Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Balcmeg cuối cùng đã bị giết bởi Tuor, kẻ đã chặt đôi ông ta bằng chiếc rìu [Dramborleg](../D/Dramborleg.md) trong quá trình đó.<sup id="cite_ref-LT2Gondolin_3-0" class="reference"><a href="#cite_note-LT2Gondolin-3">[3]</a></sup>
+Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Balcmeg nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrog](Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Balcmeg cuối cùng đã bị giết bởi Tuor, kẻ đã chặt đôi ông bằng chiếc rìu [Dramborleg](../D/Dramborleg.md) trong quá trình đó.<sup id="cite_ref-LT2Gondolin_3-0" class="reference"><a href="#cite_note-LT2Gondolin-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

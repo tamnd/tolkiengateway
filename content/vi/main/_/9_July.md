@@ -69,6 +69,6 @@ Sự kiện xảy ra vào ngày 9 tháng 7.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md):
-    - Tin tức về kẻ thù đang tấn công từ phía đông nam đến [Eärnil](../E/Eärnil_II.md). Ông ta và Quân đội miền Nam của mình đã vào vị trí và dự định gặp [Wainriders](../W/Wainriders.md) ở sông [Poros](../P/Poros.md).
+    - Tin tức về kẻ thù đang tấn công từ phía đông nam đến [Eärnil](../E/Eärnil_II.md). Ông và Quân đội miền Nam của mình đã vào vị trí và dự định gặp [Wainriders](../W/Wainriders.md) ở sông [Poros](../P/Poros.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

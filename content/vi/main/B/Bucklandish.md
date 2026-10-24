@@ -34,7 +34,7 @@ Các Stoors có các phần tử [Celtic](../C/Celtic.md) trong tên phản ánh
 
 <dl><dd><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> được mô tả là "kẻ kỳ quặc" về ngôn ngữ của nhóm: giọng của ông khác biệt rõ rệt so với Hobbit khác được thấy trên màn ảnh, một điều gì đó là một phát minh giữa diễn viên <a href="../D/Dominic_Monaghan.md" title="Dominic Monaghan">Dominic Monaghan</a> và các huấn luyện viên phương ngữ, để phản ánh nguồn gốc độc đáo của ông.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>Để phù hợp với việc Tolkien sử dụng Celtic cho các phần tử không phải<a href="../W/Westron.md" title="Westron">Westron</a>, các ký tự Stoor trong Dunland thường được thấy cùng với tên <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

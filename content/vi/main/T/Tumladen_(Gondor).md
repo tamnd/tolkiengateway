@@ -31,7 +31,7 @@ Tumladen là tên [Sindarin](../S/Sindarin.md).<sup id="cite_ref-UI_3-1" class="
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tumladen được đặt tại Thượng <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> ở phía Đông <a href="../G/Gondor.md" title="Gondor">Gondor</a>. Dòng sông <a href="../S/Sirith.md" title="Sirith">Sirith</a> chảy qua đó. "Imladir" là Đội trưởng Đội cận vệ của Tumladen, nhưng vào những ngày trước <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a>, "Quý bà Terenis", em gái của Quản lý <a href="../D/Denethor.md" title="Denethor">Denethor</a>, đã cư trú tại Tumladen và nắm giữ quyền lực thực sự trong thung lũng.</dd></dl>
 

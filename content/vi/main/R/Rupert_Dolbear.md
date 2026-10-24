@@ -50,7 +50,7 @@ Rupert Dolbear là một nhà nghiên cứu hóa học đã tốt nghiệp tại
 
 ## Cảm hứng {#Inspiration}
 
-Có một cửa hàng hóa học ở [Oxford](../O/Oxford.md) tên là *Dolbear &amp; Goodall* và [Christopher Tolkien](../C/Christopher_Tolkien.md) nhớ lại rằng [cha](../J/J.R.R._Tolkien.md) của anh thấy điều này đặc biệt hấp dẫn và có thể Tolkien nhận thấy ở nhà hóa học Dolbear một sự phù hợp hài hước với [Robert Havard](Robert_Havard.md) hoặc với Havard khi ông định giới thiệu ông ta, vì trong một trong những bản thảo ông viết *Havard* bên dưới *Dolbear*, chỉ ra rằng Dolbear, với mái tóc và bộ râu màu đỏ và biệt danh của ông trong Câu lạc bộ, có thể được coi là một kiểu nhại lại Havard.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Có một cửa hàng hóa học ở [Oxford](../O/Oxford.md) tên là *Dolbear &amp; Goodall* và [Christopher Tolkien](../C/Christopher_Tolkien.md) nhớ lại rằng [cha](../J/J.R.R._Tolkien.md) của anh thấy điều này đặc biệt hấp dẫn và có thể Tolkien nhận thấy ở nhà hóa học Dolbear một sự phù hợp hài hước với [Robert Havard](Robert_Havard.md) hoặc với Havard khi ông định giới thiệu ông, vì trong một trong những bản thảo ông viết *Havard* bên dưới *Dolbear*, chỉ ra rằng Dolbear, với mái tóc và bộ râu màu đỏ và biệt danh của ông trong Câu lạc bộ, có thể được coi là một kiểu nhại lại Havard.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

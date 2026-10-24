@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Tar-Ancalimë](../T/Tar-Ancalimë.md) kết hôn với [Hallacar](../H/Hallacar.md), con trai của [Hallatan](../H/Hallatan.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Khoảng năm nay [Sauron](Sauron.md), hoảng sợ trước sức mạnh ngày càng tăng của [người Númenor](../N/Númenóreans.md), đã chọn [Mordor](../M/Mordor.md) làm vùng đất để xây dựng thành thành trì. Ông ta bắt đầu xây dựng [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Khoảng năm nay [Sauron](Sauron.md), hoảng sợ trước sức mạnh ngày càng tăng của [người Númenor](../N/Númenóreans.md), đã chọn [Mordor](../M/Mordor.md) làm vùng đất để xây dựng thành thành trì. Ông bắt đầu xây dựng [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

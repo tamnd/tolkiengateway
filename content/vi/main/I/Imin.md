@@ -80,7 +80,7 @@ infobox:
 
 Imin và [Iminyë](Iminyë.md) đi lang thang cùng với hai Người cha khác và vợ/chồng của họ, [Tata](../T/Tata.md) và [Tatië](../T/Tatië.md), [Enel](../E/Enel.md) và [Enelyë](../E/Enelyë.md), cho đến khi họ tìm thấy một nhóm 12 người đang ngủ Tiên tộc mà ông mang theo. Gia tộc đó được đặt theo tên của ông [Minyar](../M/Minyar.md), "Những người đầu tiên".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Cuivienyarna](../C/Cuivienyarna.md), Imin được miêu tả là người kiêu ngạo, do anh là người Tiên thức tỉnh đầu tiên. Trong quá trình này, ông ta được cho là đang tìm kiếm thêm Tiên người theo dõi cho bang hội của mình và cuối cùng chỉ còn lại ít nhất.
+Trong [Cuivienyarna](../C/Cuivienyarna.md), Imin được miêu tả là người kiêu ngạo, do anh là người Tiên thức tỉnh đầu tiên. Trong quá trình này, ông được cho là đang tìm kiếm thêm Tiên người theo dõi cho bang hội của mình và cuối cùng chỉ còn lại ít nhất.
 
 Sau đó, ông từ chối nhận Tiên tộc nhóm khác mà họ tìm thấy với hy vọng tìm được nhóm nào đó lớn hơn nhóm mà các Cha khác đã tuyên bố. Tuy nhiên, bất chấp những mong đợi của anh, họ không tìm thấy ai khác và gia tộc của anh chỉ còn 14 thành viên.
 

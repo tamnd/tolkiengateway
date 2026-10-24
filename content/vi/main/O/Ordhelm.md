@@ -13,7 +13,7 @@ categories:
   - "Old English names"
 ---
 
-**Ordhelm** là con trai của [Orodreth](Orodreth.md) trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-Ord_1-0" class="reference"><a href="#cite_note-Ord-1">[1]</a></sup> Không có thông tin nào khác về ông ta.
+**Ordhelm** là con trai của [Orodreth](Orodreth.md) trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md).<sup id="cite_ref-Ord_1-0" class="reference"><a href="#cite_note-Ord-1">[1]</a></sup> Không có thông tin nào khác về ông.
 
 ## Từ nguyên {#Etymology}
 

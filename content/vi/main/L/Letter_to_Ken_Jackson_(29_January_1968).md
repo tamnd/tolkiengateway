@@ -21,7 +21,7 @@ images:
 
 Vào [29 tháng 1](../_/29_January.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Ken Jackson**.,<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-TL_2-0" class="reference"><a href="#cite_note-TL-2">[2]</a></sup> đó là thạc sĩ sinh học tại New College School.
 
-- **Tiêu đề:** Trả lời bạn đọc về việc xin phép đặt tên cho ngôi nhà của mình là "[Bag End](../B/Bag_End.md)". Tolkien nhận xét rằng ông ta không bịa ra cái tên này; Bag End là tên địa phương của ngôi nhà của dì anh [Jane Neave](../J/Jane_Neave.md).<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Tiêu đề:** Trả lời bạn đọc về việc xin phép đặt tên cho ngôi nhà của mình là "[Bag End](../B/Bag_End.md)". Tolkien nhận xét rằng ông không bịa ra cái tên này; Bag End là tên địa phương của ngôi nhà của dì anh [Jane Neave](../J/Jane_Neave.md).<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 - **Mô tả:** Một trang, đánh máy chữ ký.<sup id="cite_ref-TL_2-1" class="reference"><a href="#cite_note-TL-2">[2]</a></sup>
 - **Ấn bản:** Một đoạn trích nhỏ được [Colin Duriez](../C/Colin_Duriez.md) xuất bản trong *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, tr. 455.
 

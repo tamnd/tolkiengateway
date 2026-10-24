@@ -45,7 +45,7 @@ Họ là một tập hợp con của [Ilkorindi](../I/Ilkorindi.md), Tiên tộc
 
 ### Tû và Hisildi {#Tû_and_the_Hisildi}
 
-[fay](../F/Fay.md) [Tû](<../T/Tû_(king_of_the_Hisildi).md>), một pháp sư có khả năng thực hiện [ma thuật](../M/Magic.md) hơn bất kỳ sinh vật nào khác, ngoại trừ những người sống ở [Valinor](../V/Valinor.md), cũng là một kẻ lang thang, và trong một lần đi lang thang, ông ta đã tình cờ gặp [Ilkorindi](../I/Ilkorindi.md), [Tiên tộc](../E/Elves.md) của [Palisor](../P/Palisor.md). Những Tiên tộc sống ở đó ngay lập tức bị thu hút bởi ông, như ông đã dạy họ và hướng dẫn họ những kiến ​​thức sâu sắc - cuối cùng, ông đã trở thành một vị vua hùng mạnh trong số họ.
+[fay](../F/Fay.md) [Tû](<../T/Tû_(king_of_the_Hisildi).md>), một pháp sư có khả năng thực hiện [ma thuật](../M/Magic.md) hơn bất kỳ sinh vật nào khác, ngoại trừ những người sống ở [Valinor](../V/Valinor.md), cũng là một kẻ lang thang, và trong một lần đi lang thang, ông đã tình cờ gặp [Ilkorindi](../I/Ilkorindi.md), [Tiên tộc](../E/Elves.md) của [Palisor](../P/Palisor.md). Những Tiên tộc sống ở đó ngay lập tức bị thu hút bởi ông, như ông đã dạy họ và hướng dẫn họ những kiến ​​thức sâu sắc - cuối cùng, ông đã trở thành một vị vua hùng mạnh trong số họ.
 
 Những câu chuyện Ilkorin sau này gọi ông là *[Lord of Gloaming](../L/Lord_of_Gloaming.md)*, và tất cả Ilkorindi dưới sự cai trị của ông được gọi là <i><b>Hisildi</b></i> hoặc *twilight people*.<sup id="cite_ref-Nuin_1-2" class="reference"><a href="#cite_note-Nuin-1">[1]</a></sup>
 
@@ -61,7 +61,7 @@ Tuy nhiên, một người hầu của [Melko](../M/Melko.md) tên là [Fankil](
 
 ### Hậu quả {#Aftermath}
 
-May mắn thay, một Ilkorin tên là [Tareg](../T/Tareg.md) rõ ràng đã trốn thoát được, và nghe tin đồn [Noldoli](../N/Noldoli.md) trở về chiến đấu ở Melko ở Tây Bắc, ông ta ngay lập tức quyết định hành quân đến đó.
+May mắn thay, một Ilkorin tên là [Tareg](../T/Tareg.md) rõ ràng đã trốn thoát được, và nghe tin đồn [Noldoli](../N/Noldoli.md) trở về chiến đấu ở Melko ở Tây Bắc, ông ngay lập tức quyết định hành quân đến đó.
 
 Cuối cùng, về Tû, vị vua thần tiên của Hisildi, người ta nói rằng sau sự sinh sôi nảy nở của Con Người và sự phát triển về tầm vóc của chúng, ông đã "nhạt nhòa trước [Mặt Trời](../S/Sun.md) và ẩn náu trong những hang động không đáy".<sup id="cite_ref-Gil_2-2" class="reference"><a href="#cite_note-Gil-2">[2]</a></sup>
 

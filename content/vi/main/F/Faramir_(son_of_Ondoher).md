@@ -63,9 +63,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi cha và anh trai [Artamir](../A/Artamir.md) của ông ta tham chiến với [Wainriders](../W/Wainriders.md), Faramir được cho là ở lại [Minas Anor](../M/Minas_Anor.md) với tư cách là [nhiếp chính của Gondor](../R/Regent_of_Gondor.md), theo phong tục, là người thứ hai nối ngôi.
+Khi cha và anh trai [Artamir](../A/Artamir.md) của ông tham chiến với [Wainriders](../W/Wainriders.md), Faramir được cho là ở lại [Minas Anor](../M/Minas_Anor.md) với tư cách là [nhiếp chính của Gondor](../R/Regent_of_Gondor.md), theo phong tục, là người thứ hai nối ngôi.
 
-Không hài lòng với vai trò đó, Faramir cải trang tiến ra giữa [Éothéod](../_/Éothéod.md). Tuy nhiên, anh đã bị bắt cùng một nhóm trong số họ khi họ rút lui về phía [Đầm lầy Chết](../D/Dead_Marshes.md). Thủ lĩnh [của Éothéod](../L/Leader_of_the_Éothéod.md) đã đến cứu họ nhưng Faramir đã chết trong vòng tay của ông ta. Sau khi khám xét thi thể ông ta phát hiện ra người lính chết chính là Thân vương của Gondor.
+Không hài lòng với vai trò đó, Faramir cải trang tiến ra giữa [Éothéod](../_/Éothéod.md). Tuy nhiên, anh đã bị bắt cùng một nhóm trong số họ khi họ rút lui về phía [Đầm lầy Chết](../D/Dead_Marshes.md). Thủ lĩnh [của Éothéod](../L/Leader_of_the_Éothéod.md) đã đến cứu họ nhưng Faramir đã chết trong vòng tay của ông. Sau khi khám xét thi thể ông phát hiện ra người lính chết chính là Thân vương của Gondor.
 
 Thủ lĩnh đã gia nhập [Minohtar](../M/Minohtar.md) ở đầu [Đường phía Bắc](../N/North_Road.md) ở [Ithilien](../I/Ithilien.md). Minohtar đang chuẩn bị nhắn tin gửi hoàng tử thì được tin hoàng tử đã tử trận.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
@@ -93,7 +93,7 @@ Thủ lĩnh đã gia nhập [Minohtar](../M/Minohtar.md) ở đầu [Đường p
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Faramir_(son_of_Ondoher).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/The_Lord_of_the_Rings_Online_-_Faramir_%28son_of_Ondoher%29.jpg/300px-The_Lord_of_the_Rings_Online_-_Faramir_%28son_of_Ondoher%29.jpg" decoding="async" loading="lazy" width="300" height="691" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/ba/The_Lord_of_the_Rings_Online_-_Faramir_%28son_of_Ondoher%29.jpg 1.5x" data-file-width="430" data-file-height="990"/></a><figcaption>Faramir&#39;s shade in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Faramir bị cha nguyền rủa vì đã không để anh làm con và làm người thừa kế. <a href="../U/Undead.md" title="Undead">Bóng tối</a> của anh vẫn lang thang ở Wastes of <a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a> gần Ondoher's Folly, ngọn đồi nơi cha anh đã bị giết.</dd></dl>
 

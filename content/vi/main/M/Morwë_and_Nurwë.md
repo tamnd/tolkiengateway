@@ -64,7 +64,7 @@ Tên *Morwë* và *Nurwë* có trong [Quenya](../Q/Quenya.md) nhưng chúng khô
 
 *Morwë* có thể được tạo thành từ gốc [MOR](MOR~34024.md)- ("đen, tối, bóng tối") + hậu tố *[-wë](../_/-wë.md)*, một thành phần phổ biến (nếu không phải luôn là nam tính) trong các tên [Elvish](../E/Elvish.md) cổ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[5]</a></sup>
 
-*Nurwë* cũng có hậu tố *-wë* nhưng phần đầu tiên trong tên của ông ta không rõ ràng.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[6]</a></sup>
+*Nurwë* cũng có hậu tố *-wë* nhưng phần đầu tiên trong tên của ông không rõ ràng.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[6]</a></sup>
 
 ## Ghi chú {#Notes}
 

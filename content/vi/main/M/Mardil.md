@@ -73,7 +73,7 @@ infobox:
 
 Trong [T.A.](../T/Third_Age.md) [2029](../T/Third_Age_2029.md), Mardil kế vị cha mình [Vorondil](../V/Vorondil.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> làm Quản gia của Gondor (một truyền thống bắt đầu từ ông nội của ông [Pelendur](../P/Pelendur.md)).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>.
 
-Khi Eärnil II chết trong [T.A.](../T/Third_Age.md) [2043](../T/Third_Age_2043.md) và Eärnur lên ngôi, Vua của [Minas Morgul](Minas_Morgul.md) ( [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md)) đã thách đấu ông ta một trận chiến. Mardil đã có thể kiềm chế cơn thịnh nộ của Eärnur vào thời điểm đó, nhưng trong [T.A.](../T/Third_Age.md) [2050](../T/Third_Age_2050.md) Vua của Morgul đã đổi mới thử thách của mình, thêm vào những lời chế nhạo rằng Eärnur đã tạo thêm điểm yếu của tuổi tác cho những người yếu ớt khi còn trẻ. Mardil bất lực trong việc ngăn cản Eärnur cưỡi ngựa tới Minas Morgul; ông ta và người hộ tống nhỏ của ông ta không bao giờ được nhắc đến nữa.<sup id="cite_ref-Eärnur_7-0" class="reference"><a href="#cite_note-Eärnur-7">[7]</a></sup>
+Khi Eärnil II chết trong [T.A.](../T/Third_Age.md) [2043](../T/Third_Age_2043.md) và Eärnur lên ngôi, Vua của [Minas Morgul](Minas_Morgul.md) ( [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md)) đã thách đấu ông một trận chiến. Mardil đã có thể kiềm chế cơn thịnh nộ của Eärnur vào thời điểm đó, nhưng trong [T.A.](../T/Third_Age.md) [2050](../T/Third_Age_2050.md) Vua của Morgul đã đổi mới thử thách của mình, thêm vào những lời chế nhạo rằng Eärnur đã tạo thêm điểm yếu của tuổi tác cho những người yếu ớt khi còn trẻ. Mardil bất lực trong việc ngăn cản Eärnur cưỡi ngựa tới Minas Morgul; ông và người hộ tống nhỏ của ông không bao giờ được nhắc đến nữa.<sup id="cite_ref-Eärnur_7-0" class="reference"><a href="#cite_note-Eärnur-7">[7]</a></sup>
 
 Eärnur chết mà không có người thừa kế. Hậu duệ hoàng gia ngày càng ít và không có người tranh giành ngai vàng có [Númenórean](../N/Númenórean.md) thuần huyết, hoặc tất cả đều chấp nhận yêu sách của họ, và mọi người lo sợ về một [Xung đột họ hàng](../K/Kin-strife~3650.md) mới sẽ tàn phá vương quốc. Như vậy, theo mặc định, Mardil bắt đầu dòng cai trị Quan Chấp chính của Gondor.<sup id="cite_ref-Eärnur_7-1" class="reference"><a href="#cite_note-Eärnur-7">[7]</a></sup>
 
@@ -115,7 +115,7 @@ Biệt danh *Voronwë* của ông là [Quenya](../Q/Quenya.md) nghĩa là "Sự 
 		</li>
 </ul>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mardil xuất hiện trong đoạn hồi tưởng mô tả số phận của Vua Eärnur. Trong đoạn hồi tưởng, người đưa tin của Minas Morgul đã thành công trong việc thực hiện thử thách thứ hai của Vua Phù thủy bằng cách tiết lộ <a href="../W/Wights.md" title="Wights">cuộc chiến</a> của Egalmoth Lãnh chúa của <a class="mw-redirect" href="Minas_Ithil.md" title="Minas Ithil">Minas Ithil</a>, anh họ của Mardil, khiến Quản gia phải quay đi trong đau buồn và ghê tởm đủ lâu để Eärnur chấp nhận thử thách.</dd></dl>
 

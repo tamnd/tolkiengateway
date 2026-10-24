@@ -128,7 +128,7 @@ Một ghi chép khác cho biết *Durinn* là một trong những Người Lùn 
 
 <dl><dd>Trong đoạn mở đầu, Durin III xuất hiện cùng với sáu Lãnh chúa khác đang nhận <a href="../S/Seven_Rings.md" title="Seven Rings">Nhẫn</a> của họ. Ông chỉ được xác định là Durin trên <a class="mw-redirect" href="Decipher_Card.md" title="Decipher Card">Thẻ giải mã</a>.</dd></dl>
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">The Lord of the Rings Trực tuyến: Số phận của Gundabad</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">The Lord of the Rings Online: Số phận của Gundabad</a></i>:</b>
 
 <dl><dd>Durin III xuất hiện thoáng qua trong một đoạn hồi tưởng ở thời đại Kỷ Đệ Nhị, phong ấn <a class="mw-redirect" href="../W/West-gate.md" title="West-gate">Phương Tây-gate</a> sau <a href="../S/Sack_of_Eregion.md" title="Sack of Eregion">Cuộc cướp phá Eregion</a>. Ông cũng được cho là đã triệu tập Kỷ Đệ Tứ Cuộc họp của Bảy Nhà Người Lùn tại Mount Gundabad. Tên của Chiếc nhẫn quyền lực của ông được đặt là Angya, hay Handórm trong ngôn ngữ của người lùn.</dd></dl>
 

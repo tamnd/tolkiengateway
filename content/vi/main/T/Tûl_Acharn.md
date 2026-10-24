@@ -12,11 +12,11 @@ categories:
   - "Sindarin texts"
 ---
 
-<i><b>Tûl Acharn!</b></i> là cụm từ mà [Húrin](../H/Húrin.md) hét lên với [Lorgan](../L/Lorgan.md) trong [Hithlum](../H/Hithlum.md) sau khi ông ta được [Morgoth](../M/Morgoth.md) thả ra khỏi [Angband](../A/Angband.md).
+<i><b>Tûl Acharn!</b></i> là cụm từ mà [Húrin](../H/Húrin.md) hét lên với [Lorgan](../L/Lorgan.md) trong [Hithlum](../H/Hithlum.md) sau khi ông được [Morgoth](../M/Morgoth.md) thả ra khỏi [Angband](../A/Angband.md).
 
 ## Lịch sử {#History}
 
-Sau [Eastron](<../E/Easterlings_(First_Age).md>), [Lorgan](../L/Lorgan.md), bảo [Húrin](../H/Húrin.md) rời đi [Hithlum](../H/Hithlum.md) và chúc ông ta khỏi bệnh, Húrin hét lên cụm từ "*Tûl Acharn*", cảnh báo Lorgan rằng ông ta không phải là người cuối cùng của [Edain](../E/Edain.md), bất kể số phận của ông ta như thế nào.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau [Eastron](<../E/Easterlings_(First_Age).md>), [Lorgan](../L/Lorgan.md), bảo [Húrin](../H/Húrin.md) rời đi [Hithlum](../H/Hithlum.md) và chúc ông khỏi bệnh, Húrin hét lên cụm từ "*Tûl Acharn*", cảnh báo Lorgan rằng ông không phải là người cuối cùng của [Edain](../E/Edain.md), bất kể số phận của ông như thế nào.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

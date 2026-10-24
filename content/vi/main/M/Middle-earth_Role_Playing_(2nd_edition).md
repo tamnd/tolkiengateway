@@ -47,7 +47,7 @@ infobox:
 
 Trò chơi nhập vai giả tưởng lấy bối cảnh ở Thế giới của J.R.R. Tolkien
 
-*" Đôi mắt của họ nhìn vào ông ta và xuyên qua ông ta, khi họ lao về phía ông ta. Tuyệt vọng, ông ta rút thanh kiếm của mình ra và dường như nó lóe lên màu đỏ, như thể đó là một thanh củi lửa. Hai nhân vật dừng lại. Người thứ ba cao hơn những người khác... Một tay, ông ta cầm một thanh trường kiếm, và tay kia cầm một con dao; cả con dao và bàn tay cầm nó phát ra ánh sáng nhợt nhạt. Ông ta lao về phía trước và chém xuống Frodo."* - The Fellowship of the Ring.
+*" Đôi mắt của họ nhìn vào ông và xuyên qua ông, khi họ lao về phía ông. Tuyệt vọng, ông rút thanh kiếm của mình ra và dường như nó lóe lên màu đỏ, như thể đó là một thanh củi lửa. Hai nhân vật dừng lại. Người thứ ba cao hơn những người khác... Một tay, ông cầm một thanh trường kiếm, và tay kia cầm một con dao; cả con dao và bàn tay cầm nó phát ra ánh sáng nhợt nhạt. Ông lao về phía trước và chém xuống Frodo."* - The Fellowship of the Ring.
 
 Trong trò chơi nhập vai, bạn đóng vai một nhân vật trong một "cuốn tiểu thuyết sống. Middle-earth Role Playing (MERP) và các sách nguồn đi kèm của nó cung cấp cấu trúc và khuôn khổ cho việc nhập vai trong bối cảnh giả tưởng vĩ đại nhất mọi thời đại... Trung Địa của J.R.R. Tolkien.
 

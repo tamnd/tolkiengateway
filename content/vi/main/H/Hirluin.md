@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông là một trong nhiều lãnh đạo của Con Người đã đưa các công ty đến với [Minas Tirith](../M/Minas_Tirith.md); trong đội ngũ của ông ta có ba trăm người mặc áo xanh dũng cảm.<sup id="cite_ref-MT_2-2" class="reference"><a href="#cite_note-MT-2">[2]</a></sup> Một tuần sau, ông ta chiến đấu trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), lao tới sự trợ giúp của [Éomer](../_/Éomer.md) và [Rohirrim](../R/Rohirrim.md), trên chiếc xe tải chở [Imrahil](../I/Imrahil.md) của [Dol Amroth](../D/Dol_Amroth.md), [Húrin của Keys](<Húrin_(Warden_of_the_Keys).md>) và [Forlong của Lossarnach](../F/Forlong.md).<sup id="cite_ref-Battle_3-1" class="reference"><a href="#cite_note-Battle-3">[3]</a></sup> Ông ta bị giết cánh đồng trước Thành phố.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Ông là một trong nhiều lãnh đạo của Con Người đã đưa các công ty đến với [Minas Tirith](../M/Minas_Tirith.md); trong đội ngũ của ông có ba trăm người mặc áo xanh dũng cảm.<sup id="cite_ref-MT_2-2" class="reference"><a href="#cite_note-MT-2">[2]</a></sup> Một tuần sau, ông chiến đấu trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), lao tới sự trợ giúp của [Éomer](../_/Éomer.md) và [Rohirrim](../R/Rohirrim.md), trên chiếc xe tải chở [Imrahil](../I/Imrahil.md) của [Dol Amroth](../D/Dol_Amroth.md), [Húrin của Keys](<Húrin_(Warden_of_the_Keys).md>) và [Forlong của Lossarnach](../F/Forlong.md).<sup id="cite_ref-Battle_3-1" class="reference"><a href="#cite_note-Battle-3">[3]</a></sup> Ông bị giết cánh đồng trước Thành phố.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -62,7 +62,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hirluin gặp nhau lần đầu ở <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> không lâu trước <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a>, uống rượu trong một quán rượu và nhớ lại những ngày tháng tuổi trẻ của họ với người bạn tốt <a href="../F/Forlong.md" title="Forlong">Forlong</a>. Sau đó, cả hai người đều lãnh đạo lực lượng phòng thủ của Thành phố Trắng, chiến đấu trên bức tường cùng với những người bảo vệ khác. Khi đội quân Rohirrim đến, cả hai người đều lao ra ngoài cổng thành và cùng nhau đối mặt với kẻ thù trước khi Hirluin bị giết trước mặt bạn mình.</dd></dl>
 

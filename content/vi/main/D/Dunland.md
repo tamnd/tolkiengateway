@@ -85,7 +85,7 @@ Tên gọi *Dunland* chứa yếu tố *dunn*.<sup id="cite_ref-OfMen_3-1" class
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dunland_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/60/The_Lord_of_the_Rings_Online_-_Dunland_map.jpg/300px-The_Lord_of_the_Rings_Online_-_Dunland_map.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/60/The_Lord_of_the_Rings_Online_-_Dunland_map.jpg/450px-The_Lord_of_the_Rings_Online_-_Dunland_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/60/The_Lord_of_the_Rings_Online_-_Dunland_map.jpg/600px-The_Lord_of_the_Rings_Online_-_Dunland_map.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Map of Dunland from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>.</figcaption></figure>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vùng Dunland bao gồm Dunland riêng cũng như <a href="../G/Gap_of_Rohan.md" title="Gap of Rohan">Gap of Rohan</a> và <a href="../N/Nan_Curunír.md" title="Nan Curunír">Nan Curunír</a>. Tuy nhiên, phạm vi phía bắc của lãnh thổ Dunlending, bao gồm cả nơi <a href="../T/Thrór.md" title="Thrór">Thrór</a> và người dân của ông định cư, lại nằm trong vùng <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>.</dd></dl>
 

@@ -89,7 +89,7 @@ Amlaith cai trị trong 85 năm, và được con trai ông là [Beleg](<../B/Be
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trước khi di dời người dân của mình từ Annuminas đến Fornost, Amlaith đã yêu cầu <a href="../S/Spirit_of_Lake_Evendim.md" title="Spirit of Lake Evendim">Gwindeth</a>, <a href="../R/River-woman.md" title="River-woman">Nữ thần sông</a> của <a class="mw-redirect" href="../N/Nenuial.md" title="Nenuial">Nenuial</a>, nâng mực nước hồ lên trên các bức tường của Annuminas và cho phép lũ lụt bảo tồn những kho báu còn sót lại ở đây.</dd></dl>
 

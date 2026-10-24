@@ -42,7 +42,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Albert Dreary là một người đàn ông say rượu ở [Bree](../B/Bree.md) bên ngoài [Prancing Pony quán trọ](../P/Prancing_Pony_Inn.md). Khi [Frodo Baggins](../F/Frodo_Baggins.md) và bốn người [Hobbit](../H/Hobbits.md) khác vào thị trấn, người ta thấy ông ta đang nhai cà rốt ầm ĩ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Albert Dreary là một người đàn ông say rượu ở [Bree](../B/Bree.md) bên ngoài [Prancing Pony quán trọ](../P/Prancing_Pony_Inn.md). Khi [Frodo Baggins](../F/Frodo_Baggins.md) và bốn người [Hobbit](../H/Hobbits.md) khác vào thị trấn, người ta thấy ông đang nhai cà rốt ầm ĩ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

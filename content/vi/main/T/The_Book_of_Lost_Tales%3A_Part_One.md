@@ -81,7 +81,7 @@ Trong những Câu chuyện này, người ta tìm thấy những câu chuyện 
 
 Mặc dù chúng có lịch sử tương tự nhau nhưng *Tales* rất khác với *The Silmarillion*. Thứ nhất, *Tales* phức tạp và chi tiết hơn *The Silmarillion*: chúng được viết theo phong cách ít trang trọng hơn nhưng cổ xưa hơn và bao gồm nhiều từ và cụm từ lỗi thời. Thứ hai, sự tương tác giữa các chủng tộc Tiên khác nhau rất khác nhau: những Noldoli bị lưu đày (hoặc "Gnomes", Noldor trong lịch sử sau này) phải chịu thất bại quyết định sớm hơn nhiều và trở thành nô lệ của kẻ thù mà họ tìm cách trừng phạt.
 
-Trong câu chuyện khung của cuốn sách, một Người phàm đến thăm Elvish Đảo [Tol Eressëa](Tol_Eressëa.md), nơi ông ta tìm hiểu lịch sử của cư dân ở đó. Trong các phiên bản trước, người đàn ông này có tên là [Eriol](../E/Eriol.md) và có nguồn gốc Bắc Âu mơ hồ. Trong các phiên bản sau, ông trở thành [Ælfwine](../_/Ælfwine.md), một người Anh thời Trung cổ.
+Trong câu chuyện khung của cuốn sách, một Người phàm đến thăm Elvish Đảo [Tol Eressëa](Tol_Eressëa.md), nơi ông tìm hiểu lịch sử của cư dân ở đó. Trong các phiên bản trước, người đàn ông này có tên là [Eriol](../E/Eriol.md) và có nguồn gốc Bắc Âu mơ hồ. Trong các phiên bản sau, ông trở thành [Ælfwine](../_/Ælfwine.md), một người Anh thời Trung cổ.
 
 ## Nội dung {#Contents}
 

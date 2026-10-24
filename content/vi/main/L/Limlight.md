@@ -63,7 +63,7 @@ Thành phần đầu tiên của tên là từ dạng [Elvish](../E/Elvish.md) h
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sông Limlight tạo thành ranh giới phía nam của vùng "Sông Lớn". Nó đặt tên cho "Limlight Hẻm núi" ở bờ phía bắc, "Limlight Glade" ở phía <a class="mw-redirect mw-disambig" href="../F/Fangorn.md" title="Fangorn">Fangorn</a> và "Limlight Thác" mà qua đó đổ thẳng xuống bên dưới. Sau đó, con sông chảy qua "Stangard", một thị trấn quân sự Rohirrim nằm ngoài biên giới của <a href="../R/Rohan.md" title="Rohan">Rohan</a>. Cuối cùng nó gia nhập <a href="../A/Anduin.md" title="Anduin">Anduin</a> tại đầm lầy "Rushgore".</dd></dl>
 

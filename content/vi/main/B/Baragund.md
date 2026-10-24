@@ -53,7 +53,7 @@ infobox:
 
 Baragund là con trai của [Bregolas](Bregolas.md). Ông chỉ có một con gái, [Morwen](../M/Morwen.md), với một người vợ giấu tên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Baragund và anh trai Belegund tham gia [Dagor Bragollach](../D/Dagor_Bragollach.md) dưới sự chỉ huy của chú họ [Barahir](Barahir.md). Họ sống sót nhưng bị đánh trả.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cùng với Barahir và mười người khác, họ thành lập một ban nhạc nhỏ và sống [ngoài vòng pháp luật](Bëorings.md) ở [Dorthonion](../D/Dorthonion.md), gần [Tarn Aeluin](../T/Tarn_Aeluin.md).
 
-Họ sống ẩn náu một thời gian cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md) bắt được [Gorlim](../G/Gorlim.md) và buộc ông ta phải cung cấp địa điểm nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích nó và đã thành công. Baragund và những kẻ ngoài vòng pháp luật đã bị giết. Chỉ có [Beren](Beren.md) sống sót vì ông ta đã đi công tác xa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Họ sống ẩn náu một thời gian cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md) bắt được [Gorlim](../G/Gorlim.md) và buộc ông phải cung cấp địa điểm nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích nó và đã thành công. Baragund và những kẻ ngoài vòng pháp luật đã bị giết. Chỉ có [Beren](Beren.md) sống sót vì ông đã đi công tác xa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

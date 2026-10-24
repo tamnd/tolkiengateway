@@ -140,7 +140,7 @@ Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã được truyền cảm 
 
 <dl><dd>Hobbit đầu tiên bên ngoài <a href="Bag_End.md" title="Bag End">Bag End</a> kể lại câu chuyện của Bandobras, tiếp theo là lời buộc tội rằng những người hobbit trẻ tuổi không biết đủ về lịch sử của họ.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Máy chủ thử nghiệm công khai được đặt tên là Bullroarer theo tên Bandobras Took.</dd></dl>
 

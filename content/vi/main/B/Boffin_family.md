@@ -67,7 +67,7 @@ Tên **Boffin** là sự chuyển thể sang tiếng Anh của [Westron](../W/We
 
 ## Ở những câu chuyện khác {#In_other_stories}
 
-Trong truyện ngắn minh họa *[Mr. Bliss](../M/Mr._Bliss.md)*, viên cảnh sát địa phương là Trung sĩ Boffin, người - theo lệnh của [Gaffer Gamgee](../G/Gaffer_Gamgee.md) - tìm cách nhốt ông Bliss như một tên trộm vì không trả tiền mua xe của ông ta. Trung sĩ Boffin còn có một người con trai tên là [Sam](../S/Sam.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[4]</a></sup>
+Trong truyện ngắn minh họa *[Mr. Bliss](../M/Mr._Bliss.md)*, viên cảnh sát địa phương là Trung sĩ Boffin, người - theo lệnh của [Gaffer Gamgee](../G/Gaffer_Gamgee.md) - tìm cách nhốt ông Bliss như một tên trộm vì không trả tiền mua xe của ông. Trung sĩ Boffin còn có một người con trai tên là [Sam](../S/Sam.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[4]</a></sup>
 
 <span></span>
 

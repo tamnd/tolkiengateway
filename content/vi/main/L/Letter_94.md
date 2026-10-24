@@ -38,7 +38,7 @@ Tolkien rất vui vì [Christopher](../C/Christopher_Tolkien.md) đã gửi nhi�
 
 Thời tiết là một trong những sự kiện chính của lễ Giáng sinh. Một làn sương mù dày đặc đã đóng băng và tạo ra sương muối mà trước đây anh chỉ có thể nhớ được ba lần trong đời. Một trong những sự kiện đáng yêu nhất của thiên nhiên miền Bắc, Tolkien, mô tả thế giới sương mù im lặng mờ ảo với đồ trang sức bằng sương muối, mạng nhện giăng lưới và hoa văn kim cương. Ngày hôm sau mặt trời ló dạng và tất cả đều đẹp đến nghẹt thở. Dưới ánh trăng, đó là hình ảnh của một thế giới hoặc thời gian khác.
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Anthony_Eden" title="wikipedia:Anthony Eden">Ông. Eden</a> tại Hạ viện đã bày tỏ sự đau buồn trước những sự việc xảy ra ở Hy Lạp, "ngôi nhà của nền dân chủ". Ông ta không biết hay không thành thật, hỏi Tolkien. Trong tiếng Hy Lạp, nó không phải là một từ tán thành mà gần như là "sự cai trị của đám đông". Các quốc gia Hy Lạp vĩ đại, đặc biệt là Athens vào thời kỳ có nghệ thuật và quyền lực cao, gần như là những chế độ độc tài.
+<a class="extiw" href="http://en.wikipedia.org/wiki/Anthony_Eden" title="wikipedia:Anthony Eden">Ông. Eden</a> tại Hạ viện đã bày tỏ sự đau buồn trước những sự việc xảy ra ở Hy Lạp, "ngôi nhà của nền dân chủ". Ông không biết hay không thành thật, hỏi Tolkien. Trong tiếng Hy Lạp, nó không phải là một từ tán thành mà gần như là "sự cai trị của đám đông". Các quốc gia Hy Lạp vĩ đại, đặc biệt là Athens vào thời kỳ có nghệ thuật và quyền lực cao, gần như là những chế độ độc tài.
 
 <dl><dt>Trong ấn bản mở rộng</dt></dl>
 

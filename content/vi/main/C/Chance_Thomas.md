@@ -30,7 +30,7 @@ sort_keys:
 - [2003](../_/2003.md): *[The Lord of the Rings: War of the Ring](../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md)* (nhà soạn nhạc)
 - [2007](../_/2007.md): *[The Lord of the Rings Online: Shadows of Angmar](<../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md>)* (nhà soạn nhạc)
 - [2008](../_/2008.md): *[The Lord of the Rings Online: Mines of Moria](<../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md>)* (nhà soạn nhạc)
-- [2012](../_/2012.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings_Online:_Riders_of_Rohan_(soundtrack)&amp;action=edit&amp;redlink=1" title="The Lord of the Rings Online: Riders of Rohan (soundtrack) (page does not exist)">The Lord of the Rings Trực tuyến: Riders of Rohan (nhạc phim)</a></i> (nhà soạn nhạc)
+- [2012](../_/2012.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings_Online:_Riders_of_Rohan_(soundtrack)&amp;action=edit&amp;redlink=1" title="The Lord of the Rings Online: Riders of Rohan (soundtrack) (page does not exist)">The Lord of the Rings Online: Riders of Rohan (nhạc phim)</a></i> (nhà soạn nhạc)
 
 ## Trích dẫn {#Quotes}
 

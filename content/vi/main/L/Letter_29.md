@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết thư cho [Stanley Unwin](../S/Stanley_Unwin.md) liên quan đến yêu cầu của Rütten & Loening Verlag. Nhà xuất bản ở Đức này đã yêu cầu có thể có một bản dịch tiếng Đức và yêu cầu Tolkien cung cấp *Bestätigung*, xác nhận rằng ông ta là người Aryan. Tolkien hỏi Unwin liệu họ làm điều này cho tất cả những người mà họ muốn dịch tác phẩm hay đó là vì cái tên nghe có vẻ tiếng Đức của ông. Mặc dù ông có thể đưa ra xác nhận như vậy nhưng ông đã từ chối làm như vậy.
+Tolkien đã viết thư cho [Stanley Unwin](../S/Stanley_Unwin.md) liên quan đến yêu cầu của Rütten & Loening Verlag. Nhà xuất bản ở Đức này đã yêu cầu có thể có một bản dịch tiếng Đức và yêu cầu Tolkien cung cấp *Bestätigung*, xác nhận rằng ông là người Aryan. Tolkien hỏi Unwin liệu họ làm điều này cho tất cả những người mà họ muốn dịch tác phẩm hay đó là vì cái tên nghe có vẻ tiếng Đức của ông. Mặc dù ông có thể đưa ra xác nhận như vậy nhưng ông đã từ chối làm như vậy.
 
 Ông đã lập [hai bản thảo](Letter_30.md) để trả lời Rütten & Loening, đồng thời hỏi ý kiến ​​​​của Unwin vì ông không muốn đóng cửa bản dịch tiếng Đức nếu không có sự đồng ý của Unwin.
 

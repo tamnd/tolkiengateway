@@ -26,13 +26,13 @@ images:
 
 **Đại Vương** là danh hiệu được [Dúnedain](../D/Dúnedain.md) sử dụng cho người cai trị cuối cùng của họ. Thông thường, "Đại Vương" sẽ ám chỉ một vị vua cai trị các vị vua và lãnh chúa cấp dưới khác, nhưng điều này không nhất thiết đúng với Đại Vương của Dúnedain.
 
-Trong thư của [Gil-galad](../G/Gil-galad's_letter.md), [Tar-Meneldur](../T/Tar-Meneldur.md) Vua thứ năm của [Númenor](../N/Númenor.md), được gọi là "Đại Vương",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mặc dù ông ta không có người cai trị nào khác dưới sự phục vụ của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+Trong thư của [Gil-galad](../G/Gil-galad's_letter.md), [Tar-Meneldur](../T/Tar-Meneldur.md) Vua thứ năm của [Númenor](../N/Númenor.md), được gọi là "Đại Vương",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mặc dù ông không có người cai trị nào khác dưới sự phục vụ của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## Cõi lưu vong {#Realms_in_Exile}
 
 Tuy nhiên, việc sử dụng danh hiệu này phổ biến hơn xuất hiện sau [Kỷ Đệ Nhị](../S/Second_Age.md), với việc thành lập [Các vương quốc lưu vong](../R/Realms_in_Exile.md) ở [Trung Địa](../M/Middle-earth.md). Trong những năm đầu tiên, Hai Vương quốc [Arnor](../A/Arnor.md) và [Gondor](../G/Gondor.md) được hình thành dưới sự cai trị tối thượng của một người, [Elendil](../E/Elendil.md), người cư trú tại [Annúminas](../A/Annúminas.md) với tư cách là Đại Vương. Vương quốc phía Nam Gondor được các con trai của ông cùng cai trị nhưng chỉ dưới quyền bá chủ của ông.
 
-Với cái chết của Elendil trước Sauron trong [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md), con trai lớn của ông [Isildur](../I/Isildur.md) đã kế thừa Vương quyền tối cao. Tuy nhiên, Isildur chỉ cai trị được hai năm, trước khi ông ta bị lạc vào [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md) trước khi ông ta thực sự có thể nắm quyền cai trị vương quốc song sinh của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Với cái chết của Elendil trước Sauron trong [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md), con trai lớn của ông [Isildur](../I/Isildur.md) đã kế thừa Vương quyền tối cao. Tuy nhiên, Isildur chỉ cai trị được hai năm, trước khi ông bị lạc vào [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md) trước khi ông thực sự có thể nắm quyền cai trị vương quốc song sinh của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ### Từ chối {#Decline}
 

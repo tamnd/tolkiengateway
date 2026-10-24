@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã có được sự xa hoa khác thường khi nằm trên giường với bánh mì nướng, mứt cam tự làm và lá thư gần đây của Christopher. Ông ta chỉ ngủ chập chờn do tiếng còi báo động của cuộc không kích và sau đó tỉnh dậy để làm những công việc lặt vặt. Ông đã không nếm thử bia kể từ thứ Năm.
+Tolkien đã có được sự xa hoa khác thường khi nằm trên giường với bánh mì nướng, mứt cam tự làm và lá thư gần đây của Christopher. Ông chỉ ngủ chập chờn do tiếng còi báo động của cuộc không kích và sau đó tỉnh dậy để làm những công việc lặt vặt. Ông đã không nếm thử bia kể từ thứ Năm.
 
 Tiếp tục bức thư vào ngày 26 tháng 4, Tolkien báo cáo rằng họ đang thực hiện một số công việc của người thực thi, giảng bài tồi, nhìn thấy Lewises và [Charles Williams](../C/Charles_Williams.md), cắt cỏ, viết thư và đấu tranh với "The Ring". Anh cần biết mỗi đêm mặt trăng mọc muộn bao nhiêu khi gần tròn và cách hầm một con thỏ. Sau một cuộc họp ngắn ở trường đại học lập kỷ lục, anh phải đối mặt với một trong những con gà mái của mình.
 

@@ -28,7 +28,7 @@ infobox:
 
 ## Nền {#Background}
 
-Bar-en-Nibin-noeg, Ngôi nhà của [Người Lùn Nhỏ](../P/Petty-dwarves.md), là quê hương của [Mîm](../M/Mîm.md) và các con trai ông [Ibun](../I/Ibun.md) và [Khîm](../K/Khîm.md). Khi họ đang kiếm ăn, họ bị nhóm tội phạm của Túrin tấn công và Mîm bị bắt nhưng ông ta đã mặc cả lấy mạng sống của mình và đòi tiền chuộc ngôi nhà của mình trên [Amon Rûdh](../A/Amon_Rûdh.md), từ đó trở thành Bar-en-Danwedh, [Nhà tiền chuộc](../H/House_of_Ransom.md).
+Bar-en-Nibin-noeg, Ngôi nhà của [Người Lùn Nhỏ](../P/Petty-dwarves.md), là quê hương của [Mîm](../M/Mîm.md) và các con trai ông [Ibun](../I/Ibun.md) và [Khîm](../K/Khîm.md). Khi họ đang kiếm ăn, họ bị nhóm tội phạm của Túrin tấn công và Mîm bị bắt nhưng ông đã mặc cả lấy mạng sống của mình và đòi tiền chuộc ngôi nhà của mình trên [Amon Rûdh](../A/Amon_Rûdh.md), từ đó trở thành Bar-en-Danwedh, [Nhà tiền chuộc](../H/House_of_Ransom.md).
 
 Túrin và những kẻ ngoài vòng pháp luật đã sớm gia nhập Tiên Beleg, và họ đặt tên vùng đất là "Dor-Cúarthol" theo tên Beleg cung tên [Belthronding](../B/Belthronding.md) và [Mũ Rồng của Dor-lómin](../D/Dragon-helm_of_Dor-lómin.md) được đeo bởi Túrin. Dưới sự lãnh đạo của họ, những kẻ ngoài vòng pháp luật đã quấy rối các lực lượng Morgoth tiến vào vùng đất của họ. Tuy nhiên, khi đeo Mũ Rồng Túrin đã tiết lộ bản thân Morgoth, và anh bắt đầu lo sợ sức mạnh ngày càng tăng của Túrin "rằng lời nguyền mà anh đặt lên anh sẽ trở nên vô hiệu, và anh sẽ thoát khỏi sự diệt vong đã được thiết kế cho anh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -36,7 +36,7 @@ Túrin và những kẻ ngoài vòng pháp luật đã sớm gia nhập Tiên Be
 
 ### Mở đầu {#Prelude}
 
-Mîm ngày càng bất mãn với sự hiện diện của những kẻ ngoài vòng pháp luật và Beleg tại nhà của mình và theo thời gian, lòng căm thù Tiên đã khiến ông ta đưa ra quyết tâm xấu xa. Ông cùng con trai tìm kiếm Orc xung quanh khu vực và cho họ biết vị trí nơi ẩn náu của những kẻ ngoài vòng pháp luật với điều kiện ngôi nhà của ông phải được để lại cho chính ông và Beleg phải sống sót để đối phó với chính mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+Mîm ngày càng bất mãn với sự hiện diện của những kẻ ngoài vòng pháp luật và Beleg tại nhà của mình và theo thời gian, lòng căm thù Tiên đã khiến ông đưa ra quyết tâm xấu xa. Ông cùng con trai tìm kiếm Orc xung quanh khu vực và cho họ biết vị trí nơi ẩn náu của những kẻ ngoài vòng pháp luật với điều kiện ngôi nhà của ông phải được để lại cho chính ông và Beleg phải sống sót để đối phó với chính mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ### Trận chiến {#Battle}
 
@@ -48,7 +48,7 @@ Cuối cùng chỉ còn lại Túrin, Beleg và mười người đàn ông và 
 
 ### Hậu quả {#Aftermath}
 
-Sau khi Orc rời đi Angband với Túrin Beleg bị bỏ lại một mình dưới sự thương xót của Mîm, và khi ông ta đang chuẩn bị hành hạ Tiên thì một Andróg trọng thương đã đâm kiếm vào Người Lùn và ông ta hét lên rồi bỏ chạy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 3]</a></sup> Andróg cắt Beleg tự do và chết và ngay sau đó Beleg lên đường đi tìm và bỏ chạy. lần theo dấu vết của Orc để giải cứu Túrin. Người sống sót duy nhất còn lại là [Andvír](../A/Andvír.md), con trai của [Andróg](../A/Andróg.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[2]</a></sup>
+Sau khi Orc rời đi Angband với Túrin Beleg bị bỏ lại một mình dưới sự thương xót của Mîm, và khi ông đang chuẩn bị hành hạ Tiên thì một Andróg trọng thương đã đâm kiếm vào Người Lùn và ông hét lên rồi bỏ chạy.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 3]</a></sup> Andróg cắt Beleg tự do và chết và ngay sau đó Beleg lên đường đi tìm và bỏ chạy. lần theo dấu vết của Orc để giải cứu Túrin. Người sống sót duy nhất còn lại là [Andvír](../A/Andvír.md), con trai của [Andróg](../A/Andróg.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 

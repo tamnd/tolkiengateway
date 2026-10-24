@@ -54,7 +54,7 @@ Harding đã chiến đấu và hy sinh trong [Trận chiến trên Cánh đồn
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Các tay đua của Rohan</a></i>:</b>
 
 <dl><dd>Harding là "Aldor của <a href="../E/Eastemnet.md" title="Eastemnet">Eastemnet</a>", cai trị tất cả phương Đông Rohan thay mặt cho Vua. Ông sống ở làng "Harwick", khu định cư chính của <a href="../T/The_Wold.md" title="The Wold">the Wold</a>, nơi ông cũng là Reeve. Con trai ông "Léodwig" cùng với <a href="../W/Wídfara.md" title="Wídfara">Wídfara</a> đã biến mất ở tỉnh xa xôi "Wildermore" và Harding cử người chơi cùng những người bạn đồng hành <a href="../G/Gléowine.md" title="Gléowine">Gléowine</a> và <a href="Horn_(rider_of_Rohan).md" title="Horn (rider of Rohan)">Horn</a> đi tìm họ. Người chơi tìm thấy cả hai đều bị thương nhưng còn sống và cuối cùng họ quay trở lại Harwick. Harding sau đó chết trên <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">cánh đồng Pelennor</a> sau khi tiêu diệt nhiều kẻ thù.</dd></dl>
 

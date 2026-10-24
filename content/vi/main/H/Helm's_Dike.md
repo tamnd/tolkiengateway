@@ -56,13 +56,13 @@ Khi những người chiến thắng nghỉ ngơi, những người đã bị đ
 
 ## Từ nguyên {#Etymology}
 
-Yếu tố *Helm* trong tên *Helm's Dike* đề cập đến tên của một người đàn ông tên là Helm.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Hẻm núi đằng sau Hornburg được gọi là Helm's Deep sau khi Vua [Helm](Helm.md) của Rohan tìm nơi ẩn náu ở Hornburg khi vương quốc của ông ta bị xâm chiếm bởi kẻ chiếm đoạt [Wulf](../W/Wulf.md) và Dunlending.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Kết quả là như vậy có thể phần tử *Helm* trong tên *Helm's Dike* cũng đề cập đến Vua Helm của Rohan.
+Yếu tố *Helm* trong tên *Helm's Dike* đề cập đến tên của một người đàn ông tên là Helm.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Hẻm núi đằng sau Hornburg được gọi là Helm's Deep sau khi Vua [Helm](Helm.md) của Rohan tìm nơi ẩn náu ở Hornburg khi vương quốc của ông bị xâm chiếm bởi kẻ chiếm đoạt [Wulf](../W/Wulf.md) và Dunlending.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Kết quả là như vậy có thể phần tử *Helm* trong tên *Helm's Dike* cũng đề cập đến Vua Helm của Rohan.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/250px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/375px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/62/The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg/500px-The_Lord_of_the_Rings_Online_-_Deeping-coomb.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Helm&#39;s Dike in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dike của Helm là một trong năm chiến trường chính trong đại diện của <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Trận Hornburg</a> trong trò chơi.</dd></dl>
 

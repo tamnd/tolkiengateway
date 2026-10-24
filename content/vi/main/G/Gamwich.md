@@ -46,7 +46,7 @@ Gamwich được "dịch" từ [Hobbitish](../H/Hobbitish.md) <i><a class="new" 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gamwich là một trong bốn khu định cư của "<a href="../T/The_Yondershire.md" title="The Yondershire">the Yondershire</a>", ở vùng tây bắc hoang dã của Shire. Nó được khai thác vào năm <a href="../T/Third_Age_2498.md" title="Third Age 2498">Kỷ Đệ Tam 2498</a> và nổi tiếng với nghề săn bắn.</dd></dl>
 

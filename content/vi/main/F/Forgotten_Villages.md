@@ -33,7 +33,7 @@ Khoảng [T.A.](../T/Third_Age.md) [1300](../T/Third_Age_1300.md) vương quốc
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Phần còn lại của quá trình di chuyển Hobbit có thể được tìm thấy trong <a href="../E/Eriador.md" title="Eriador">Eriador</a>. Trong <a href="../A/Angle.md" title="Angle">Angle</a>, những cái hố mục nát và bị bỏ hoang từ lâu của <a href="../S/Stoors.md" title="Stoors">Stoors</a> nằm gọn trong các góc của cảnh quan. Ở phía bắc trong <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a> tồn tại một ngôi làng Hobbit biệt lập "Hoarhallow".</dd></dl>
 

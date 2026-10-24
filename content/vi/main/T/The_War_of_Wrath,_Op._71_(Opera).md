@@ -77,29 +77,29 @@ Elbereth và chủ nhà của Valar đang ngồi trong Vòng Phán xét chờ ch
 
 <br> **Tầm nhìn (Cảnh một)**
 
-Círdan, một trong những Tiên tộc du hành xuyên Trung Địa để vượt qua Valinor, bị trì hoãn vì đang tìm kiếm người bạn mất tích Thingol của mình. Ông ta đến bờ quá muộn để lên tàu và thề sẽ đóng con tàu của riêng mình để vượt qua.  Ulmo, Chúa tể của Nước, xuất hiện với ông ta trong một linh ảnh và bảo ông ta hãy chờ đợi và chờ đợi thời cơ để lời tiên tri về Eärendil trở thành hiện thực.  Ông ta cho ông ta xem hình ảnh một con tàu màu trắng đang lướt trên không và tỏa sáng như một ngôi sao.  Círdan mủi lòng và ở lại.
+Círdan, một trong những Tiên tộc du hành xuyên Trung Địa để vượt qua Valinor, bị trì hoãn vì đang tìm kiếm người bạn mất tích Thingol của mình. Ông đến bờ quá muộn để lên tàu và thề sẽ đóng con tàu của riêng mình để vượt qua.  Ulmo, Chúa tể của Nước, xuất hiện với ông trong một linh ảnh và bảo ông hãy chờ đợi và chờ đợi thời cơ để lời tiên tri về Eärendil trở thành hiện thực.  Ông cho ông xem hình ảnh một con tàu màu trắng đang lướt trên không và tỏa sáng như một ngôi sao.  Círdan mủi lòng và ở lại.
 
 <br> *Các sự kiện từ cảnh 4 đến phần kết của Fëanor diễn ra giữa các cảnh này.*
 
 <br> **Việc thẩm vấn (Cảnh hai)**
 
-Trong vương quốc ẩn giấu của Doriath, Melian Nữ hoàng yêu cầu Galadriel kể cho bà nghe lý do khiến Noldor bị đày đến Trung Địa. Galadriel không muốn tiết lộ tất cả và sẽ không nói về Vụ Giết Người Thân.  Melian cảnh báo Thingol rằng những tranh chấp giữa các hoàng tử của Noldor sẽ đe dọa vương quốc của ông ta, và những người con trai của Fëanor không đáng tin cậy. Cô thấy trước rằng sự xuất hiện của Con Người, và đặc biệt là một người đàn ông, sẽ sớm thay đổi vận mệnh của cả hai chủng tộc.
+Trong vương quốc ẩn giấu của Doriath, Melian Nữ hoàng yêu cầu Galadriel kể cho bà nghe lý do khiến Noldor bị đày đến Trung Địa. Galadriel không muốn tiết lộ tất cả và sẽ không nói về Vụ Giết Người Thân.  Melian cảnh báo Thingol rằng những tranh chấp giữa các hoàng tử của Noldor sẽ đe dọa vương quốc của ông, và những người con trai của Fëanor không đáng tin cậy. Cô thấy trước rằng sự xuất hiện của Con Người, và đặc biệt là một người đàn ông, sẽ sớm thay đổi vận mệnh của cả hai chủng tộc.
 
-<br> *Các sự kiện của Beren and Lúthien, The Children of Húrin và tất cả ngoại trừ phần kết của The Fall of Gondolin diễn ra giữa các cảnh này.​ Trong lúc đó, con sói lớn Carcharoth, bị phát điên bởi Silmaril vẫn đang cháy bên trong mình, phá vỡ Vành đai Melian và bắt đầu nổi cơn thịnh nộ qua Doriath.  Ông ta bị giết và Mablung lấy viên ngọc ra khỏi bụng và trả nó về Thingol sau Doriath.*
+<br> *Các sự kiện của Beren and Lúthien, The Children of Húrin và tất cả ngoại trừ phần kết của The Fall of Gondolin diễn ra giữa các cảnh này.​ Trong lúc đó, con sói lớn Carcharoth, bị phát điên bởi Silmaril vẫn đang cháy bên trong mình, phá vỡ Vành đai Melian và bắt đầu nổi cơn thịnh nộ qua Doriath.  Ông bị giết và Mablung lấy viên ngọc ra khỏi bụng và trả nó về Thingol sau Doriath.*
 
 <br> **Tàn tích Doriath (Cảnh ba)**
 
-Melian bắt đầu cảm thấy khả năng kiểm soát các sự kiện của mình đang tuột dốc; và các Con trai của Fëanor, lưu tâm đến Lời Thề của họ để giữ Silmaril không cho bất kỳ ai trừ chính họ, phát hiện ra rằng một trong những tác phẩm sáng tạo của cha họ được giữ bởi Thingol ở Doriath.  Vào lễ hội Vua, khi Thingol đang đi săn bên ngoài Vành đai Melian, họ phục kích và giết chết ông ta.  Điều này tạo ra sự gián đoạn đủ lớn đối với sức mạnh của Melian để họ vượt qua rào cản của bà và tiến vào Doriath.  Họ bắt đầu cuộc cướp phá Vương quốc một cách tàn bạo và tàn nhẫn để tìm kiếm Viên ngọc.  Khi đến gần phòng ngai vàng Melian nhanh chóng đưa cháu gái Elwing của bà rời khỏi thành phố cùng với Silmaril.  các Con trai của Fëanor đột nhập vào phòng ngai vàng và đưa ra Melian cái đầu của chồng cô.  Vào thời điểm đó, cô từ bỏ mọi sự bảo vệ của vương quốc và rời khỏi nhà của mình, không bị những kẻ tấn công cản trở.  Sau đó các Con trai của Fëanor phát hiện ra rằng Silmaril không còn ở đó nữa và vương quốc bị phá hủy.
+Melian bắt đầu cảm thấy khả năng kiểm soát các sự kiện của mình đang tuột dốc; và các Con trai của Fëanor, lưu tâm đến Lời Thề của họ để giữ Silmaril không cho bất kỳ ai trừ chính họ, phát hiện ra rằng một trong những tác phẩm sáng tạo của cha họ được giữ bởi Thingol ở Doriath.  Vào lễ hội Vua, khi Thingol đang đi săn bên ngoài Vành đai Melian, họ phục kích và giết chết ông.  Điều này tạo ra sự gián đoạn đủ lớn đối với sức mạnh của Melian để họ vượt qua rào cản của bà và tiến vào Doriath.  Họ bắt đầu cuộc cướp phá Vương quốc một cách tàn bạo và tàn nhẫn để tìm kiếm Viên ngọc.  Khi đến gần phòng ngai vàng Melian nhanh chóng đưa cháu gái Elwing của bà rời khỏi thành phố cùng với Silmaril.  các Con trai của Fëanor đột nhập vào phòng ngai vàng và đưa ra Melian cái đầu của chồng cô.  Vào thời điểm đó, cô từ bỏ mọi sự bảo vệ của vương quốc và rời khỏi nhà của mình, không bị những kẻ tấn công cản trở.  Sau đó các Con trai của Fëanor phát hiện ra rằng Silmaril không còn ở đó nữa và vương quốc bị phá hủy.
 
 <br> *Những người sống sót của tất cả các vương quốc vĩ đại Beleriand, Nargothrond, Gondolin và Doriath, cùng với các thành viên còn lại của các Gia tộc vĩ đại của Con Người hiện đang bị cô lập ở Bờ biển phía Tây của Trung Địa, phần lớn ở Các Cảng Sirion, nơi Tuor đóng vai trò là Chúa tể của những kẻ lưu vong.  Phần đất còn lại hiện đã bị lực lượng của Morgoth chiếm giữ và cuộc chiến chống lại hắn hầu như đã thất bại.  Tuor đi về phía tây để tìm kiếm sự trợ giúp từ Valar chống lại Morgoth và không bao giờ nhận được tin tức gì nữa.*
 
 <br> **Người thủy thủ (Cảnh bốn)**
 
-Eärendil hiện đã kết hôn với Elwing và họ có hai con trai sinh đôi, Elrond và Elros.  Tình hình ở Trung Địa hiện đang rất nguy kịch và anh không còn cách nào khác ngoài việc dũng cảm vượt biển và cố gắng tìm kiếm Thánh địa để nhờ sự trợ giúp của Valar.  Círdan hỗ trợ anh đóng một con tàu, Vingelot, để vượt biển và anh từ biệt gia đình mình.  Những bùa chú do Valar đặt có nghĩa là con tàu của ông ta sẽ bị mất tích trên biển.
+Eärendil hiện đã kết hôn với Elwing và họ có hai con trai sinh đôi, Elrond và Elros.  Tình hình ở Trung Địa hiện đang rất nguy kịch và anh không còn cách nào khác ngoài việc dũng cảm vượt biển và cố gắng tìm kiếm Thánh địa để nhờ sự trợ giúp của Valar.  Círdan hỗ trợ anh đóng một con tàu, Vingelot, để vượt biển và anh từ biệt gia đình mình.  Những bùa chú do Valar đặt có nghĩa là con tàu của ông sẽ bị mất tích trên biển.
 
 <br> **Chuyến du hành của Eärendil (Cảnh năm)**
 
-các Con trai của Fëanor cố gắng chiếm lấy Silmaril từ Elwing mà bà đã giấu kín. Elrond và Elros cố gắng chạy trốn nhưng Elwing bị mắc kẹt ở rìa vách đá.  Khi Curufin cố gắng lấy viên ngọc từ tay cô, cô đã ném mình xuống biển, và khi đuổi theo cô, ông ta đã chết trên sóng. Ulmo can thiệp và đưa bà bay cao như một con chim biển lên boong tàu của Eärendil. Cùng với Silmaril được buộc trên trán của Eärendil, cả hai người một lần nữa lên đường tới Valinor và lần này nhờ sức mạnh của nó, họ đã thành công.
+các Con trai của Fëanor cố gắng chiếm lấy Silmaril từ Elwing mà bà đã giấu kín. Elrond và Elros cố gắng chạy trốn nhưng Elwing bị mắc kẹt ở rìa vách đá.  Khi Curufin cố gắng lấy viên ngọc từ tay cô, cô đã ném mình xuống biển, và khi đuổi theo cô, ông đã chết trên sóng. Ulmo can thiệp và đưa bà bay cao như một con chim biển lên boong tàu của Eärendil. Cùng với Silmaril được buộc trên trán của Eärendil, cả hai người một lần nữa lên đường tới Valinor và lần này nhờ sức mạnh của nó, họ đã thành công.
 
 <br> **Sự phán xét (Cảnh sáu)**
 
@@ -107,7 +107,7 @@ Eönwë sứ giả của Valar đấu thầu Eärendil và vợ ông chào mừn
 
 <br> **Cuộc chiến thịnh nộ (Cảnh bảy)**
 
-Cuộc tấn công của Valar đến với Morgoth, và vương quốc của ông ta bị lãng phí.  Ông ta cố gắng kháng cự bằng cách gửi những con rồng có cánh khổng lồ vào cuộc chiến nhưng Eärendil, hiện đang ở trên con tàu trên không của ông ta, đến để tiêu diệt lũ quái thú. Morgoth cuối cùng bị bắt, xiềng xích và gửi vào Hư Không.  Hai Silmaril còn lại được lấy từ vương miện của ông ta bởi Eönwë.
+Cuộc tấn công của Valar đến với Morgoth, và vương quốc của ông bị lãng phí.  Ông cố gắng kháng cự bằng cách gửi những con rồng có cánh khổng lồ vào cuộc chiến nhưng Eärendil, hiện đang ở trên con tàu trên không của ông, đến để tiêu diệt lũ quái thú. Morgoth cuối cùng bị bắt, xiềng xích và gửi vào Hư Không.  Hai Silmaril còn lại được lấy từ vương miện của ông bởi Eönwë.
 
 <br> **Người Silmaril Hãy nghỉ ngơi (Cảnh 8)**
 
@@ -115,7 +115,7 @@ Maglor và Maedhros, hai người còn lại trong các Con trai của Fëanor, 
 
 <br> **The Những Chiếc Nhẫn Quyền Năng (Cảnh Chín)**
 
-Sauron, người hầu còn sống sót của Morgoth, cố gắng quyến rũ Tiên tộc bằng gợi ý rằng với sức mạnh sáng tạo của mình, họ nên tìm cách khiến Trung Địa trở nên hạnh phúc như vương quốc xa xôi của Valar. Nhưng ông ta đã lừa dối họ, và khi ông ta rèn chiếc Nhẫn Chúa để trở thành chủ nhân, giọng nói của Morgoth vang lên thông báo về sự diệt vong của Tiên tộc.
+Sauron, người hầu còn sống sót của Morgoth, cố gắng quyến rũ Tiên tộc bằng gợi ý rằng với sức mạnh sáng tạo của mình, họ nên tìm cách khiến Trung Địa trở nên hạnh phúc như vương quốc xa xôi của Valar. Nhưng ông đã lừa dối họ, và khi ông rèn chiếc Nhẫn Chúa để trở thành chủ nhân, giọng nói của Morgoth vang lên thông báo về sự diệt vong của Tiên tộc.
 
 <br> **Sự suy tàn (Phần kết)**
 

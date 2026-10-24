@@ -154,7 +154,7 @@ Trong *[The History of The Hobbit](../T/The_History_of_The_Hobbit.md)*, một t�
 
 ### Trò chơi {#Games}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bolg xuất hiện hai lần ngắn gọn trong mô tả của trò chơi về Trận Azanulbizar và cả hai lần ông đều bỏ trốn mà không chiến đấu.</dd></dl>
 

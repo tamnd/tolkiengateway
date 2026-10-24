@@ -93,7 +93,7 @@ Ngay trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), các Hobbit [Fro
 
 <dl><dd>Khu Rừng Cổ gồm hai cấp độ trò chơi: trước và sau cuộc chạm trán với <a href="Old_Man_Willow.md" title="Old Man Willow">Ông già Liễu</a>. Những con đường trong rừng đang dịch chuyển và việc đi đến đích không hề dễ dàng như tưởng tượng.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Khu Rừng Cổ được thể hiện toàn bộ trong trò chơi: từ biên giới phía đông của <a href="../B/Buckland.md" title="Buckland">Buckland</a> và <a href="../B/Bonfire_Glade.md" title="Bonfire Glade">Bonfire Glade</a> cho đến Nhà của <a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a> và lối vào Barrow-Downs.</dd></dl>
 

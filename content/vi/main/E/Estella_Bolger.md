@@ -58,7 +58,7 @@ infobox:
 
 Estella là con thứ hai của [Odovacar Bolger](../O/Odovacar_Bolger.md) và [Rosamunda Took](../R/Rosamunda_Took.md). Cô đã có mặt tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).
 
-Anh trai của cô, [Fredegar](../F/Fredegar_Bolger.md), rất quen với [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> và Estella cuối cùng đã kết hôn với ông ta sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Anh trai của cô, [Fredegar](../F/Fredegar_Bolger.md), rất quen với [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> và Estella cuối cùng đã kết hôn với ông sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

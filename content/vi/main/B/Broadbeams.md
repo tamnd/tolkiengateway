@@ -55,7 +55,7 @@ Tuy nhiên, luôn có một số Người Lùn ở phía đông của Dãy Núi 
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Broadbeams.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/The_Lord_of_the_Rings_Online_-_Broadbeams.jpg/300px-The_Lord_of_the_Rings_Online_-_Broadbeams.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/The_Lord_of_the_Rings_Online_-_Broadbeams.jpg/450px-The_Lord_of_the_Rings_Online_-_Broadbeams.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/The_Lord_of_the_Rings_Online_-_Broadbeams.jpg/600px-The_Lord_of_the_Rings_Online_-_Broadbeams.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The &#34;Landorrim&#34; in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><a href="../D/Dwarves_of_the_Blue_Mountains.md" title="Dwarves of the Blue Mountains">Người Lùn bản địa của Dãy Núi Xanh</a> lần đầu tiên được giới thiệu dưới hình dạng gia tộc phản diện "<a href="../D/Dourhands.md" title="Dourhands">Dourhand</a>", nhưng bản cập nhật sau đó đã giới thiệu Gia tộc thực sự tương ứng với Broadbeams: <b>Landorrim</b>, "<i>long allies of Durin&#39;s Folk</i>". Biểu ngữ của họ mô tả một cái cây có thân và cành to.</dd></dl>
 

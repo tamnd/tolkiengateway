@@ -56,7 +56,7 @@ infobox:
 
 ## Mô tả {#Description}
 
-Những mô tả về diện mạo của Ferny chỉ giới hạn ở việc ông ta là một "người Bree-lander da ngăm"<sup id="cite_ref-FRI9_1-0" class="reference"><a href="#cite_note-FRI9-1">[1]</a></sup> hoặc một "gã da ngăm khinh khỉnh."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Những mô tả về diện mạo của Ferny chỉ giới hạn ở việc ông là một "người Bree-lander da ngăm"<sup id="cite_ref-FRI9_1-0" class="reference"><a href="#cite_note-FRI9-1">[1]</a></sup> hoặc một "gã da ngăm khinh khỉnh."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -132,7 +132,7 @@ Trong một bản thảo trước đó của [The Scouring of the Shire](../T/Th
 
 <dl><dd>Bill là một trong những vị khách tại <i>Prancing Pony</i>, người không muốn bị Hobbit làm phiền. Sau đó, anh đối đầu với Strider trên đường phố và bị giết.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bill Ferny gặp phải ở một số điểm trong trò chơi, gieo rắc sự tinh nghịch khắp <a href="Bree-land.md" title="Bree-land">Bree-land</a>. Tại một thời điểm, ông cố gắng tạo dựng một liên minh giữa Con Người của Sharkey và một nhóm <a href="../O/Orcs.md" title="Orcs">Orc</a> từ <a href="../A/Angmar.md" title="Angmar">Angmar</a> đã bị cắt đứt, nhưng sự sắp xếp đó đã thất bại do sự can thiệp của Biệt đội Dunedain.</dd></dl>
 

@@ -41,11 +41,11 @@ infobox:
 
 Là con trai của [Olo Proudfoot](../O/Olo_Proudfoot.md), lúc 11 tuổi, Sancho đã có mặt tại [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md) của chú [Bilbo](../B/Bilbo_Baggins.md), cùng với cha và ông nội [Odo](../O/Odo_Proudfoot.md).<sup id="cite_ref-AppC_1-1" class="reference"><a href="#cite_note-AppC-1">[1]</a></sup>
 
-Ngày hôm sau, vào ngày [23 tháng Chín](../_/23_September.md), [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), anh đã đến [Bag End](../B/Bag_End.md) để tìm kiếm kho báu mà anh nghe tin đồn. [Frodo](../F/Frodo_Baggins.md) chỉ có thể ngăn ông ta lại, nhưng không phải sau khi Sancho đã bắt đầu khai quật phòng đựng thức ăn, nơi anh nghĩ mình đã nghe thấy tiếng vang.<sup id="cite_ref-Party_2-0" class="reference"><a href="#cite_note-Party-2">[2]</a></sup>
+Ngày hôm sau, vào ngày [23 tháng Chín](../_/23_September.md), [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), anh đã đến [Bag End](../B/Bag_End.md) để tìm kiếm kho báu mà anh nghe tin đồn. [Frodo](../F/Frodo_Baggins.md) chỉ có thể ngăn ông lại, nhưng không phải sau khi Sancho đã bắt đầu khai quật phòng đựng thức ăn, nơi anh nghĩ mình đã nghe thấy tiếng vang.<sup id="cite_ref-Party_2-0" class="reference"><a href="#cite_note-Party-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Sancho bị các luật sư của Frodo(ở giai đoạn đó gọi là Bingo), [Iago Grubb](../I/Iago_Grubb.md) và [Folco Burrowes](../F/Folco_Burrowes.md) đuổi ra khỏi nhà khi ông ta cố cướp tủ đựng thức ăn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Sancho bị các luật sư của Frodo(ở giai đoạn đó gọi là Bingo), [Iago Grubb](../I/Iago_Grubb.md) và [Folco Burrowes](../F/Folco_Burrowes.md) đuổi ra khỏi nhà khi ông cố cướp tủ đựng thức ăn.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

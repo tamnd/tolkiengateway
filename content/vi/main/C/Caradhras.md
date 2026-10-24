@@ -114,7 +114,7 @@ Tên gọi này là tiếng [Sindarin](../S/Sindarin.md) và có nghĩa là "Red
 
 <dl><dd>Hội quyết định đi theo Đèo Caradhas khi nhận ra rằng lối đi về phía Nam đang bị theo dõi sau khi họ bị một đàn lớn <i><a href="Crebain.md" title="Crebain">crebain</a></i> phát hiện. Khi đi qua Đoạn đường, một trận bão tuyết xuất hiện, kèm theo thứ mà Legolas gọi là "<i>...a fell voice on the air.</i>", mà Gandalf nói rằng "<i>It is Saruman.</i>" Nó cho thấy rằng Saruman đã triệu tập một cơn bão lớn để quấy rối Hiệp hội trên Đèo, cho đến khi một tia sét đánh xuống ngọn núi gây ra một trận tuyết lở chôn vùi Công ty trong tuyết. Lúc này, Boromir nói hãy quay lại và lấy Gap of Rohan, Aragorn nói rằng điều đó sẽ đưa Công ty đến quá gần Isengard, trong khi Gimli đề nghị "<i>...go <a href="../M/Moria.md" title="Moria">under the mountain</a>.</i>" Gandalf có Frodo quyết định, với tư cách là Người cầm chuông và Frodo chọn Moria làm lối đi. Ngoài ra, trong <a href="../M/Magic.md" title="Magic">chính tả</a> của mình, Saruman còn đề cập đến tên <a href="../N/Neo-Elvish.md" title="Neo-Elvish">neo-Quenya</a> của Caradhras là <i>Carnirassë</i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Caradhras được đặc trưng trong vùng <a href="../E/Eregion.md" title="Eregion">Eregion</a>. Bão tuyết rất mạnh ở khu vực này và một trận tuyết lở đã ngăn cản việc di chuyển tiếp tục đến các vùng đất phía đông.</dd></dl>
 

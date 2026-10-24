@@ -45,7 +45,7 @@ Tolkien tin rằng mình sẽ không “làm mưa làm gió” những công vi�
 
 Bản đồ thật đáng lo ngại Tolkien. Ông cảm thấy rằng cần có các bản đồ về [ Shire](../T/The_Shire.md), [Gondor](../G/Gondor.md) và toàn bộ lĩnh vực hành động. Ông có chúng nhưng không ở dạng có thể sao chép được và sẽ cố gắng vẽ chúng ngay khi có thể.
 
-Lúc này Tolkien nói rằng ông ta phải cưỡng bức <a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Green Knight</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[notes 4]</a></sup>
+Lúc này Tolkien nói rằng ông phải cưỡng bức <a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Green Knight</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[notes 4]</a></sup>
 
 Quên mất vấn đề Công khai, ông yêu cầu Rayner xin lỗi Bộ thay cho ông. Ông đã cố gắng làm điều gì đó, tạo ra khoảng 300 từ văn bản và bao gồm cả nó. Ông cũng đã xin lời giới thiệu từ người bạn của mình, [George Sayer](../G/George_Sayer.md), độc giả bình thường nhất và yêu thích tác phẩm của ông mà ông biết, và ông đã cung cấp một đoạn văn dài 95 từ. Ông đã làm Tolkien ngạc nhiên với điều mà ông gọi là lời khen ngợi quá mức. Ông gọi Tolkien là "nhà thơ vĩ đại nhất còn sống", Tolkien cho rằng những câu thơ của mình "đạt tiêu chuẩn", và [C.S. Lewis](../C/C.S._Lewis.md) đã coi chúng là toàn bộ những kẻ nghèo khổ, đáng tiếc và lạc lõng. Ông đã từng cố gắng giải thích “ngắn gọn” tất cả những gì về nó cho một người bạn và nhận ra rằng ông đã viết được 41 trang và 10.000 từ.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[notes 5]</a></sup>
 

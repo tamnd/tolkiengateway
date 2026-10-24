@@ -28,11 +28,11 @@ Bóng Tối cũng được quan sát bởi [Rohirrim](../R/Rohirrim.md) đang t�
 
 Vào ngày này [Faramir](../F/Faramir.md) đã được [Gandalf](../G/Gandalf.md) và [Imrahil](../I/Imrahil.md) giải cứu bên ngoài [Đại Môn Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) và [Aragorn II](../A/Aragorn.md) dẫn [Người chết Con Người](../O/Oathbreakers.md) và [Đại đội Xám](../G/Grey_Company.md) vượt sông [Ringló](../R/Ringló.md).<sup id="cite_ref-Great_3-2" class="reference"><a href="#cite_note-Great-3">[3]</a></sup>
 
-Chiếc Bóng Tối cuối cùng đã bị gió tây nam<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[note 1]</a></sup> xua đi vào sáng ngày [15 tháng 3](../_/15_March.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup> khi [Aragorn](../A/Aragorn.md) và những người bạn đồng hành của ông ta đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
+Chiếc Bóng Tối cuối cùng đã bị gió tây nam<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[note 1]</a></sup> xua đi vào sáng ngày [15 tháng 3](../_/15_March.md),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup> khi [Aragorn](../A/Aragorn.md) và những người bạn đồng hành của ông đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ngày Bất Minh trải dài trên bốn khu vực trong trò chơi, bao gồm tất cả <a href="../G/Gondor.md" title="Gondor">Gondor</a> phía đông <a href="../C/Calembel.md" title="Calembel">Calembel</a>, <a href="../A/Anórien.md" title="Anórien">Anórien</a>, Nam <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>, <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> và chính <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. Bầu trời ở những khu vực đó vĩnh viễn tối tăm, ban ngày trong trò chơi gần như không thể phân biệt được với ban đêm. Những người dân bình thường của Gondor mà người chơi gặp trong thời gian này hầu như đều tuyệt vọng về ý nghĩa của điều bất hạnh mới này đối với họ.</dd></dl>
 

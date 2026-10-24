@@ -77,7 +77,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Đắm chìm trong công việc phi thường của một nhà sáng tạo thế giới! Độc đáo trong lịch sử văn học, J. R. R. Tolkien đã viết hàng nghìn văn bản thơ, truyện kể và suy đoán trong suốt cuộc đời mình, những văn bản này khi tập hợp lại với nhau sẽ tạo nên cả một vũ trụ. Bộ sưu tập này sẽ đưa bạn tham quan những khu vực nổi tiếng nhất – vùng *The Lord of the Rings* và *The Hobbit* – và những vùng đất ít được khám phá nhất, tiết lộ kho tàng khái niệm của chúng. Cuối cùng, nó sẽ cho bạn thấy một tác giả rất khác với những gì mà những cuộc phiêu lưu vĩ đại mà ông ta dàn dựng có thể gợi ý.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Đắm chìm trong công việc phi thường của một nhà sáng tạo thế giới! Độc đáo trong lịch sử văn học, J. R. R. Tolkien đã viết hàng nghìn văn bản thơ, truyện kể và suy đoán trong suốt cuộc đời mình, những văn bản này khi tập hợp lại với nhau sẽ tạo nên cả một vũ trụ. Bộ sưu tập này sẽ đưa bạn tham quan những khu vực nổi tiếng nhất – vùng *The Lord of the Rings* và *The Hobbit* – và những vùng đất ít được khám phá nhất, tiết lộ kho tàng khái niệm của chúng. Cuối cùng, nó sẽ cho bạn thấy một tác giả rất khác với những gì mà những cuộc phiêu lưu vĩ đại mà ông dàn dựng có thể gợi ý.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

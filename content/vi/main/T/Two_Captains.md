@@ -27,12 +27,12 @@ images:
 
 Hai Đội trưởng là hai người bảo vệ [Dor-Cúarthol](../D/Dor-Cúarthol.md) và là thủ lĩnh của [Đại đội Cũ](../G/Gaurwaith.md). Danh hiệu này lần đầu tiên được trao cho cả [Beleg](../B/Beleg.md) và [Túrin](Túrin.md) bởi [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md) không có thủ lĩnh, những người sau khi nhận thấy mình bị thất bại trong các trận chiến và thất bại đã đến [Dor-Cúarthol](../D/Dor-Cúarthol.md) tìm kiếm Cung và Helm được cho là đã ngã xuống trong nhiều trận chiến trong [Dimbar](../D/Dimbar.md).<sup id="cite_ref-Captains_1-1" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup>
 
-Sau khi lực lượng đi theo của Hai Đội trưởng đã trở thành một lực lượng lớn, tin đồn đã lan tới [Nargothrond](../N/Nargothrond.md) về sự thành công của họ trong việc cản trở và chống lại lực lượng của Angband. Đến mức chính [Vua của Nargothrond](../K/King_of_Nargothrond.md), [Orodreth](../O/Orodreth.md), đã cử sứ giả đến Hai Thuyền trưởng, đề nghị trợ giúp bất kỳ vấn đề nào mà họ cần ngoài vũ khí. Tuy nhiên, bất chấp điều này, ông ta không chỉ cấm Hai Thuyền trưởng đặt chân đến Nargothrond mà còn buộc họ không được lái xe [Orc](../O/Orcs.md) để làm như vậy.<sup id="cite_ref-Captains_1-2" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
+Sau khi lực lượng đi theo của Hai Đội trưởng đã trở thành một lực lượng lớn, tin đồn đã lan tới [Nargothrond](../N/Nargothrond.md) về sự thành công của họ trong việc cản trở và chống lại lực lượng của Angband. Đến mức chính [Vua của Nargothrond](../K/King_of_Nargothrond.md), [Orodreth](../O/Orodreth.md), đã cử sứ giả đến Hai Thuyền trưởng, đề nghị trợ giúp bất kỳ vấn đề nào mà họ cần ngoài vũ khí. Tuy nhiên, bất chấp điều này, ông không chỉ cấm Hai Thuyền trưởng đặt chân đến Nargothrond mà còn buộc họ không được lái xe [Orc](../O/Orcs.md) để làm như vậy.<sup id="cite_ref-Captains_1-2" class="reference"><a href="#cite_note-Captains-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tuy nhiên, rất có khả năng Orodreth cuối cùng có lẽ đã hủy bỏ tuyên bố này, vì có khả năng ông ta sẽ không bao giờ cho phép Túrin được nhận vào Nargothrond, chứ đừng nói đến việc cho phép ông ta trở thành ủy viên hội đồng trưởng của mình, nếu không.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Tuy nhiên, rất có khả năng Orodreth cuối cùng có lẽ đã hủy bỏ tuyên bố này, vì có khả năng ông sẽ không bao giờ cho phép Túrin được nhận vào Nargothrond, chứ đừng nói đến việc cho phép ông trở thành ủy viên hội đồng trưởng của mình, nếu không.</span>
 </li>
 </ol></div></span>
 

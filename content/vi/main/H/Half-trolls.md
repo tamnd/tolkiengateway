@@ -81,11 +81,11 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), một nhân vật trong
 
 <dl><dd><i>Half Trolls</i> là những "người Mahûd" của Far Harad đã được thay đổi kích thước và sức mạnh của Olog-hai của Sauron. Vào cuối Kỷ Đệ Tam, khi Sauron bị tiêu diệt, sức mạnh của họ giảm dần và họ cũng rơi vào bóng tối.<sup id="cite_ref-WP_6-0" class="reference"><a href="#cite_note-WP-6">[6]</a></sup> Các đơn vị bao gồm "Half Troll Warband" và "Half Troll of Far Harad".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd><i>Half-Troll Marauders</i> là con lai của Troll và Orc. Những sinh vật này đóng vai trò là đơn vị pikemen cho phe Goblin.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Trong <a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">gói mở rộng sau này</a>, <i>Half Troll Swordsmen</i> đã có sẵn.<sup id="cite_ref-WP_6-1" class="reference"><a href="#cite_note-WP-6">[6]</a></sup></dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bán troll xuất hiện dưới dạng một loại sinh vật thuộc loại Troll lai với dòng máu của <a href="../M/Men.md" title="Men">Con Người</a>. Họ có sức mạnh và vẻ ngoài <a href="../T/Trolls.md" title="Trolls">Troll</a> nhưng cũng rất tinh ranh và thông minh. <a href="../S/Sauron.md" title="Sauron">Sauron</a> đã ban tặng Half-troll cho Haradrim như một món quà. Half-troll có thể được tìm thấy trên khắp các khu vực khác nhau của <a href="../G/Gondor.md" title="Gondor">Gondor</a> và <a href="../A/Anórien.md" title="Anórien">Anórien</a>, chiến đấu cùng với Con Người của <a href="Harad.md" title="Harad">Harad</a> và <a class="mw-redirect" href="../C/Corsairs.md" title="Corsairs">Corsairs</a> của <a href="../U/Umbar.md" title="Umbar">Umbar</a>.</dd></dl>
 

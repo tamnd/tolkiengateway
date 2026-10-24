@@ -75,7 +75,7 @@ Bởi [1956](../_/1956.md) Tolkien đã được thông báo về "một ngôi n
 <dl><dd><b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b></dd>
 <dd>Mallorn trees are the core buildings in the <a href="../E/Elves.md" title="Elves">elven</a> faction, as they produce resources needed for constructing buildings and recruiting troops. When a mallorn tree reaches level 3, a tower is automatically constructed atop of the tree, where an elven archer is placed.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gỗ của cây này trước đây có thể được những người đi rừng tối cao tìm kiếm nhưng sau đó đã bị loại khỏi trò chơi.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></dd></dl>
 

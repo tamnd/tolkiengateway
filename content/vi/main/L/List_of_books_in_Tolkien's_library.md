@@ -84,7 +84,7 @@ Khoảng ba trăm cuốn đã được tặng cho Thư viện Khoa Tiếng Anh v
 ### *Dictionary in Englysshe and Welshe* {#Dictionary_in_Englysshe_and_Welshe}
 
 - 1877: *Dictionary in Englysshe and Welshe*, bởi <a class="extiw" href="http://en.wikipedia.org/wiki/William_Salesbury" title="wikipedia:William Salesbury">Wyllyam Salesbury</a>. Luân Đôn.
-- Mô tả: Phiên bản fax, Phần I-IV. Chứa [một trang ghi chú bản thảo](../M/Manuscript_notes_in_Dictionary_in_Englysshe_and_Welshe.md) của Tolkien.<sup id="cite_ref-TW_9-0" class="reference"><a href="#cite_note-TW-9">[9]</a></sup><sup id="cite_ref-Add_10-0" class="reference"><a href="#cite_note-Add-10">[10]</a></sup> Tolkien ghi chú bên trong cuốn sách rằng nó đến với ông ta từ T. Shankland vào ngày [ngày 9 tháng 5](../_/9_May.md) [1907](../_/1907.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+- Mô tả: Phiên bản fax, Phần I-IV. Chứa [một trang ghi chú bản thảo](../M/Manuscript_notes_in_Dictionary_in_Englysshe_and_Welshe.md) của Tolkien.<sup id="cite_ref-TW_9-0" class="reference"><a href="#cite_note-TW-9">[9]</a></sup><sup id="cite_ref-Add_10-0" class="reference"><a href="#cite_note-Add-10">[10]</a></sup> Tolkien ghi chú bên trong cuốn sách rằng nó đến với ông từ T. Shankland vào ngày [ngày 9 tháng 5](../_/9_May.md) [1907](../_/1907.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ### *Diplomatarium Islandicum* {#Diplomatarium_Islandicum}
 

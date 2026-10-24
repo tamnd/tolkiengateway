@@ -28,7 +28,7 @@ Sau khi [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) bị phá hủy, *[Cormarë
 
 <dl><dd>Ngoài ngày Tam nguyện và <a href="../Y/Yule.md" title="Yule">Trung đông</a>, <a href="../N/Númenor.md" title="Númenor">Númenor</a> còn có lễ thu hoạch muộn được gọi là <i>Serkerë</i> (<a href="../Q/Quenya.md" title="Quenya">Q.</a> “Ngày máu”) vào ngày 12 <a href="../H/Hithui.md" title="Hithui">Hithui</a> (ngày 1 tháng 11). Động vật bị giết thịt để bảo quản cho mùa đông và người chết được tưởng nhớ. Trong <a href="../G/Gondor.md" title="Gondor">Gondor</a>, các ưu đãi tại Thánh lễ <a href="../M/Mindolluin.md" title="Mindolluin">Mindolluin</a> đã được thêm vào, dẫn đến bữa tiệc được đổi tên thành <i>Airilaitalë</i> (<a href="../Q/Quenya.md" title="Quenya">Q.</a> “Hallowmas”). Ngoài tổ tiên đã khuất, sự sụp đổ của Númenor giờ đây cũng được tưởng nhớ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trò chơi có năm sự kiện theo mùa: Lễ hội mùa xuân, Lễ hội giữa mùa hè, Hội chợ nông dân, Lễ hội thu hoạch và Lễ hội Yule. <a href="../D/Durin&#39;s_Day.md" title="Durin&#39;s Day">Ngày Durin</a> và <a href="../_/22_September.md" title="22 September">sinh nhật</a> của <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> và Frodo cũng được đánh dấu trong trò chơi.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

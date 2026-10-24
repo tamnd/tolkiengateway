@@ -52,7 +52,7 @@ Trong [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md), [Orc](../O/Orcs.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hội trường Kỷ Đệ Nhị là trung tâm của "Nud-melek". Ngày nay những cột hình cây của nó trở nên cằn cỗi. Tuy nhiên, trong đoạn hồi tưởng ở <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1981.md" title="Third Age 1981">1981</a>, các cột và trần nhà được bao phủ bởi những chiếc lá trang trí công phu.</dd></dl>
 

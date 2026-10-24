@@ -39,7 +39,7 @@ infobox:
 
 Khi [Herendil](../H/Herendil.md) thông báo với cha anh rằng mặc dù hai người họ đều mang dòng máu của các vị vua, nhưng đồng nghiệp của anh đã gọi anh bằng những cái tên như "Terendul" ngày hôm trước và buộc tội anh là "nửa-Noldo",<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup> [Elendil](../E/Elendil.md) phản ứng bằng cách nói rằng việc Herendil lấy con trai của ông như tên của chính cha mình, Valandil, nghĩa là *"God-friend"*.<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Sau đó. Elendil nói với con trai mình rằng ông ta không thể bị những người hầu của [Morgoth](../M/Morgoth.md) làm hư hỏng vì Valandil cha ông ta là "người đứng đầu các nhà thông thái của [Númenor](../N/Númenor.md).<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Sau đó. Elendil nói với con trai mình rằng ông không thể bị những người hầu của [Morgoth](../M/Morgoth.md) làm hư hỏng vì Valandil cha ông là "người đứng đầu các nhà thông thái của [Númenor](../N/Númenor.md).<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -79,7 +79,7 @@ Bản đồ tương ứng trong tập bản đồ *[Journeys of Frodo](../J/Jour
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Great_East_Road.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2a/The_Lord_of_the_Rings_Online_-_Great_East_Road.jpg/250px-The_Lord_of_the_Rings_Online_-_Great_East_Road.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/The_Lord_of_the_Rings_Online_-_Great_East_Road.jpg/375px-The_Lord_of_the_Rings_Online_-_Great_East_Road.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/The_Lord_of_the_Rings_Online_-_Great_East_Road.jpg/500px-The_Lord_of_the_Rings_Online_-_Great_East_Road.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>The Great East Road in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đại Lộ phía Đông chạy qua các vùng <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a>, <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>, <a href="../L/Lone-lands.md" title="Lone-lands">Vùng đất đơn độc</a> và <a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a>.</dd></dl>
 

@@ -67,7 +67,7 @@ Một cộng tác viên thường xuyên khác là [Robert Foster](../R/Robert_F
 
 Sáu năm sau, trong [1983](../_/1983.md), Chris Gilson hồi sinh *Parma*. Ông vẫn giữ nguyên tên ban đầu, mặc dù thực tế là việc tăng thêm tài liệu Quenya đã đưa ra bản dịch chính xác là *Parma Eldalambion*. Gilson đã xuất bản *Parma* bên ngoài Hiệp hội Ngôn ngữ học,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nhưng sau khi [Elvish Hiệp hội Ngôn ngữ học](../E/Elvish_Linguistic_Fellowship.md) (E.L.F.) được thành lập, nó đã gắn liền với tổ chức đó.
 
-Trong [1991](../_/1991.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) đã chấp thuận cho *Parma* xuất bản văn bản gốc bởi Tolkien, đặc biệt là các văn bản ngôn ngữ dài mà ông ta không thể tìm thấy chỗ đứng trong *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [1991](../_/1991.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) đã chấp thuận cho *Parma* xuất bản văn bản gốc bởi Tolkien, đặc biệt là các văn bản ngôn ngữ dài mà ông không thể tìm thấy chỗ đứng trong *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Trong khi đó, *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* cũng bắt đầu xuất bản các văn bản gốc của Tolkien. Giờ đây, cả hai đều được biên tập bởi cùng một nhóm và *Parma* chuyên về danh sách từ dài hơn, trong khi *Vinyar Tengwar* xuất bản các bài tiểu luận của Tolkien.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

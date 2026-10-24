@@ -98,7 +98,7 @@ Trong những bản thảo đầu tiên của *[The Lord of the Rings](../T/The_
 
 <dl><dd>Mặc dù không xuất hiện trong <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> loạt phim</a> nhưng Decipher đã sản xuất một tấm thiệp mô tả nhân vật.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Duinhir là Lãnh chúa của <a href="../B/Blackroot_Vale.md" title="Blackroot Vale">Blackroot Vale</a> có trụ sở ở thị trấn Morlad. Duinhir hoàn toàn suy sụp khi cả hai con trai của ông đều chết trong <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a> nhưng vẫn tham gia cuộc hành quân của Đạo quân Phương Tây hướng tới <a href="../B/Black_Gate.md" title="Black Gate">Cổng Đen</a>. Khi bước vào <a href="Dagorlad.md" title="Dagorlad">Dagorlad</a>, ý chí của ông hoàn toàn thất bại và ông trở thành một trong những kẻ yếu tim, rời khỏi vật chủ chính với sự cho phép của <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>. Sau đó Duinhir dẫn những người đó tới <a href="../C/Cair_Andros.md" title="Cair Andros">Cair Andros</a>, nơi họ giải phóng hòn đảo khỏi lực lượng của <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</dd></dl>
 

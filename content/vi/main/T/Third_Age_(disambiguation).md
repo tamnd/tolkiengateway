@@ -18,7 +18,7 @@ images:
 
 ## Trung Địa {#Middle-earth}
 
-- **[Kỷ Đệ Tam](Third_Age.md)**, thời đại giữa sự sụp đổ đầu tiên của [Sauron](../S/Sauron.md) và sự hủy diệt cuối cùng của ông ta.
+- **[Kỷ Đệ Tam](Third_Age.md)**, thời đại giữa sự sụp đổ đầu tiên của [Sauron](../S/Sauron.md) và sự hủy diệt cuối cùng của ông.
     - [Bất kỳ năm nào trong Kỷ Đệ Tam](../../category/T/Third_Age_years.md).
 
 ## Sách {#Books}

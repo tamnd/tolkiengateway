@@ -39,7 +39,7 @@ infobox:
 
 **Öshül-küllösh** là thác nước trên [Ellor Eshúrizel](../E/Ellor_Eshúrizel.md) theo [Michael George Ramer](../M/Michael_George_Ramer.md) ở *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)*.<sup id="cite_ref-History_1-0" class="reference"><a href="#cite_note-History-1">[1]</a></sup>
 
-[Nicholas Guildford](../N/Nicholas_Guildford.md) đã báo cáo trong [Notion Club Giấy tờ](../N/Notion_Club_Papers.md) rằng [Alwin Arundel Lowdham](../A/Alwin_Arundel_Lowdham.md) đã tuyên bố rằng sau cuộc họp, Ramer đã tiết lộ với ông ta rằng ông ta đã nghĩ rằng Öshül-küllösh có nghĩa là "*Falling Water*".<sup id="cite_ref-History_1-1" class="reference"><a href="#cite_note-History-1">[1]</a></sup>
+[Nicholas Guildford](../N/Nicholas_Guildford.md) đã báo cáo trong [Notion Club Giấy tờ](../N/Notion_Club_Papers.md) rằng [Alwin Arundel Lowdham](../A/Alwin_Arundel_Lowdham.md) đã tuyên bố rằng sau cuộc họp, Ramer đã tiết lộ với ông rằng ông đã nghĩ rằng Öshül-küllösh có nghĩa là "*Falling Water*".<sup id="cite_ref-History_1-1" class="reference"><a href="#cite_note-History-1">[1]</a></sup>
 
 <span></span>
 

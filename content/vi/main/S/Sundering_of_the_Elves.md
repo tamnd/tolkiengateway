@@ -61,7 +61,7 @@ Sau [Tắt Valinor](../D/Darkening_of_Valinor.md), hầu hết Noldor quay trở
 
 ### Thingol {#Thingol}
 
-Thingol là một ngoại lệ đối với sự trùng lặp thông thường của các danh mục Calaquendi với Amanyar và Moriquendi với Úmanyar. Điều này là do ông ta là một trong ba Tiên đại sứ ban đầu của Valinor và đã nhìn thấy ánh sáng của Hai Cây, nhưng không hoàn thành Đại Hành Trình và chưa bao giờ cư trú tại Valinor. Như vậy, riêng anh vừa là Calaquendë vừa là Úmanya.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Thingol là một ngoại lệ đối với sự trùng lặp thông thường của các danh mục Calaquendi với Amanyar và Moriquendi với Úmanyar. Điều này là do ông là một trong ba Tiên đại sứ ban đầu của Valinor và đã nhìn thấy ánh sáng của Hai Cây, nhưng không hoàn thành Đại Hành Trình và chưa bao giờ cư trú tại Valinor. Như vậy, riêng anh vừa là Calaquendë vừa là Úmanya.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cuộc hội ngộ của Tiên tộc {#Reunions_of_the_Elves}
 

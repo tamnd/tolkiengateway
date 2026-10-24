@@ -41,7 +41,7 @@ infobox:
 
 Ba cuộc phiêu lưu ở cấp độ thấp đến trung bình, mỗi cuộc phiêu lưu có thể tự đứng vững và có thể được thiết lập trong vài phút.
 
-Từ trung tâm của Black Wood, Cannaigh giả âm mưu nổi loạn - nhưng ông ta và các đồng minh của mình đã bất hòa. Đã đến lúc thu thập phần thưởng trên đầu ông ta. Bạn có đủ dũng cảm để đối mặt với Cuộc chạm trán tại Traith-chefudoc không?
+Từ trung tâm của Black Wood, Cannaigh giả âm mưu nổi loạn - nhưng ông và các đồng minh của mình đã bất hòa. Đã đến lúc thu thập phần thưởng trên đầu ông. Bạn có đủ dũng cảm để đối mặt với Cuộc chạm trán tại Traith-chefudoc không?
 
 Cướp biển từ phía nam đi thuyền từ một bến cảng ẩn giấu trên bờ biển Dark Cape. Cướp bóc, mạng sống và một con tàu đang bị đe dọa. Bạn có dám thách thức những kẻ Biển-raider ở Minas Thonfalon không?
 

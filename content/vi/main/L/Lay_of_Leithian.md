@@ -95,7 +95,7 @@ từ bàn tay sắt đến bàn tay phàm trần.
 
 Khoảnh khắc này cũng là trung tâm của cốt truyện xuyên suốt của *[The Silmarillion](../T/The_Silmarillion.md)*, trong đó viên ngọc được sử dụng để mang lại hy vọng cho các dân tộc sống rải rác ở Trung Địa và cuối cùng được người thủy thủ [Eärendil](../E/Eärendil.md) đặt lên thiên đường như một dấu hiệu cho sự cứu rỗi sắp tới của họ.
 
-Do đó, tên của bài thơ có thể là một nỗ lực nhằm nhấn mạnh tầm quan trọng của Lay so với những câu chuyện khác từ thời đại đầu tiên. Mặc dù danh dự, lòng dũng cảm và sự báo thù đã thúc đẩy chủ nhà Tiên tiến tới cuộc chiến với [Morgoth](../M/Morgoth.md), nhưng chỉ có tình yêu mới có thể vượt qua mọi trở ngại để giành được [Silmaril](../S/Silmaril.md) từ vương miện của ông ta.
+Do đó, tên của bài thơ có thể là một nỗ lực nhằm nhấn mạnh tầm quan trọng của Lay so với những câu chuyện khác từ thời đại đầu tiên. Mặc dù danh dự, lòng dũng cảm và sự báo thù đã thúc đẩy chủ nhà Tiên tiến tới cuộc chiến với [Morgoth](../M/Morgoth.md), nhưng chỉ có tình yêu mới có thể vượt qua mọi trở ngại để giành được [Silmaril](../S/Silmaril.md) từ vương miện của ông.
 
 ## Lịch sử thế giới thực {#Real_world_history}
 

@@ -51,7 +51,7 @@ Nếu họ thắc mắc tại sao Tolkien lại nhận họ vào một cái hố
 
 *Tolkien, tall and strongly built*
 
-Tolkien phản đối, nói rằng ông ta không cao (số đo 5 ft 8 ½) và có thân hình rất nhỏ với bàn tay đặc biệt nhỏ. Hầu hết cuộc đời ông rất gầy, nhưng từ đầu sáu mươi ông đã trở nên "mũm mĩm".
+Tolkien phản đối, nói rằng ông không cao (số đo 5 ft 8 ½) và có thân hình rất nhỏ với bàn tay đặc biệt nhỏ. Hầu hết cuộc đời ông rất gầy, nhưng từ đầu sáu mươi ông đã trở nên "mũm mĩm".
 
 *Tolkien cho một vài Oxford bạn bè đọc* [The Hobbit](../T/The_Hobbit.md)*. Một người, Mẹ bề trên của một ký túc xá nữ, đã cho một sinh viên, Susan Dagnall mượn…* Tolkien kể lại chi tiết về sự tiến bộ của *The Hobbit*: Mẹ Linh mục là bề trên của một tu viện ở <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cherwell_Edge&amp;action=edit&amp;redlink=1" title="Cherwell Edge (page does not exist)">Cherwell Edge</a>; ký túc xá dành cho sinh viên nữ chưa tốt nghiệp là một trong những chức năng của nó. Anh đã cho cô [M.E. Griffiths](../E/Elaine_Griffiths.md) mượn truyện, học trò cũ của Tolkien và là bạn đang sống tại ký túc xá. Bà đã cho Susan Dagnall, người mà bà đang dạy kèm, mượn nó. Nó được Mẹ Bề trên cho mượn, nhưng đó là phần phụ trong hành trình của cuốn sách. Susan Dagnall là người có mối liên hệ với [Allen và Unwin](../A/Allen_and_Unwin.md). Đáng buồn thay, cô đã qua đời không lâu sau khi kết hôn trong một vụ tai nạn xe hơi.
 
@@ -65,7 +65,7 @@ Tolkien cảm thấy việc đề cập đến "sự phát minh ra Ngôn ngữ" 
 
 *"Khi bạn phát minh ra một ngôn ngữ," ông nói, "ít nhiều thì bạn cũng nắm bắt được nó một cách bất ngờ. Bạn nói boo-hoo và điều đó có nghĩa gì đó."*
 
-Tolkien cho biết anh không nhớ chính xác mình đã nói gì nhưng không chắc anh đã nói những điều như thế này, trái ngược với những ý kiến ​​đã cân nhắc. Một nhà phát minh không bắt được tiếng động trong không khí; nó xuất phát từ thiết bị ngôn ngữ của ông ta và các mối liên hệ với các từ khác. Bản thân những âm thanh của giọng hát chẳng có ý nghĩa gì nếu không có sự quy kết của tâm trí con người.
+Tolkien cho biết anh không nhớ chính xác mình đã nói gì nhưng không chắc anh đã nói những điều như thế này, trái ngược với những ý kiến ​​đã cân nhắc. Một nhà phát minh không bắt được tiếng động trong không khí; nó xuất phát từ thiết bị ngôn ngữ của ông và các mối liên hệ với các từ khác. Bản thân những âm thanh của giọng hát chẳng có ý nghĩa gì nếu không có sự quy kết của tâm trí con người.
 
 *Middle-earth…corresponds spiritually to Nordic Europe.*
 
@@ -81,9 +81,9 @@ Tolkien nói rõ rằng anh không nghĩ đoạn văn Saruman là hay nhất tro
 
 Tolkien gọi đây là sự thật trái ngược. Thứ nhất, tiếng Bắc Âu không phải là một thuật ngữ ngôn ngữ, mà dường như tiếng Đức mới là thuật ngữ đó. Thứ hai, sở thích của ông đối với ngôn ngữ Đức không liên quan gì đến lịch sử họ của ông. Cha và họ hàng của ông là những người cực kỳ "người Anh" và tỏ ra không quan tâm đến ngôn ngữ học. Niềm đam mê ngôn ngữ của anh bắt nguồn từ mẹ anh, một người Suffield.
 
-<i><a class="extiw" href="http://en.wikipedia.org/wiki/Dante_Alighieri" title="wikipedia:Dante Alighieri">Dante</a>..."không thu hút tôi. Ông ta đầy ác ý và ác ý. Tôi không quan tâm đến những mối quan hệ nhỏ nhặt của ông ta với những người nhỏ mọn ở những thành phố nhỏ."</i>
+<i><a class="extiw" href="http://en.wikipedia.org/wiki/Dante_Alighieri" title="wikipedia:Dante Alighieri">Dante</a>..."không thu hút tôi. Ông đầy ác ý và ác ý. Tôi không quan tâm đến những mối quan hệ nhỏ nhặt của ông với những người nhỏ mọn ở những thành phố nhỏ."</i>
 
-Tolkien cho biết việc anh nhắc đến Dante là quá đáng và thực sự không hề có ý định bị so sánh với ông ta. Ông đã nói rằng có một vài chỗ "nhỏ nhen" là một khuyết điểm đáng buồn.
+Tolkien cho biết việc anh nhắc đến Dante là quá đáng và thực sự không hề có ý định bị so sánh với ông. Ông đã nói rằng có một vài chỗ "nhỏ nhen" là một khuyết điểm đáng buồn.
 
 *"Bây giờ tôi không đọc nhiều, ngoại trừ truyện cổ tích."*
 
@@ -95,7 +95,7 @@ Tolkien xin lỗi vì dường như đã nói ra sự phù phiếm. Thực ra t�
 
 *Tolkien…là một trong những “cộng tác viên chính” của Kinh thánh Jerusalem mới được dịch.*
 
-Người biên tập cuốn Kinh thánh Jerusalem đã dành cho ông ta một sự lịch sự không đáng có, Tolkien, vì ông ta chỉ được tư vấn về một số điểm trong phong cách và chỉ trích một số đóng góp của người khác. Ông chỉ hoàn thành "Jonah", một trong những cuốn sách ngắn nhất trước khi từ chức vì áp lực công việc khác.
+Người biên tập cuốn Kinh thánh Jerusalem đã dành cho ông một sự lịch sự không đáng có, Tolkien, vì ông chỉ được tư vấn về một số điểm trong phong cách và chỉ trích một số đóng góp của người khác. Ông chỉ hoàn thành "Jonah", một trong những cuốn sách ngắn nhất trước khi từ chức vì áp lực công việc khác.
 
 <span></span>
 

@@ -57,7 +57,7 @@ Cuốn sách bao gồm một bức thư từ [J.R.R. Tolkien](../J/J.R.R._Tolkie
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Vai trò của người tái tạo thần thoại là C. S. Lewis bị hiểu lầm nhiều nhất, và tầm quan trọng của ông ta nằm ở đó. Của ông là cường độ thi ca nhìn thấy tất cả địa ngục bị một con bướm nuốt chửng mà không gây hại gì. Tác phẩm của ông là những câu chuyện ngụ ngôn và huyền thoại thể hiện những yếu tố rất thực tế của cuộc sống mà không thể hiểu hoặc nắm bắt được trong hơn một khoảnh khắc.
+Vai trò của người tái tạo thần thoại là C. S. Lewis bị hiểu lầm nhiều nhất, và tầm quan trọng của ông nằm ở đó. Của ông là cường độ thi ca nhìn thấy tất cả địa ngục bị một con bướm nuốt chửng mà không gây hại gì. Tác phẩm của ông là những câu chuyện ngụ ngôn và huyền thoại thể hiện những yếu tố rất thực tế của cuộc sống mà không thể hiểu hoặc nắm bắt được trong hơn một khoảnh khắc.
 
 Nghiên cứu năm 1969 của White là nghiên cứu đầu tiên xem xét toàn bộ kho tài liệu của Lewis và là nghiên cứu đầu tiên đưa ra một thư mục phong phú như vậy. Ngoài những trợ giúp vô giá này dành cho các học giả Lewis, White bổ sung thêm quá trình đào tạo của riêng mình về thần học và phê bình văn học cũng như sự nhạy cảm trước sự phức tạp của nghệ sĩ và nhà tôn giáo. Cách giải thích của ông về những niềm tin phức tạp được tìm thấy trong tác phẩm của Lewis làm cho nghiên cứu này có ý nghĩa quan trọng đối với thần học cũng như đối với thế giới văn học.
 

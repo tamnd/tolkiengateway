@@ -51,7 +51,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Gorkil là một kẻ cai trị bù nhìn được [Sauron](../S/Sauron.md) sử dụng để thống trị các bộ tộc và liên minh khác nhau giữa [Orc của Dãy Núi](../O/Orcs_of_the_Misty_Mountains.md). Từ thành trì của mình ở [Ettenmoors](../E/Ettenmoors.md), Goblin Vua đã đe dọa [Dân tộc Tự do](../F/Free_peoples~19934.md) ở [Miền Bắc](../E/Eriador.md) và thu thập được một lượng lớn người đi theo. Sau một cuộc giao tranh tại pháo đài của ông ta, lực lượng của [Glóin](Glóin.md) và [Glorfindel](Glorfindel.md) đã chấm dứt triều đại của Yêu tinh Vua, và đội quân Orc bị phân tán.
+Gorkil là một kẻ cai trị bù nhìn được [Sauron](../S/Sauron.md) sử dụng để thống trị các bộ tộc và liên minh khác nhau giữa [Orc của Dãy Núi](../O/Orcs_of_the_Misty_Mountains.md). Từ thành trì của mình ở [Ettenmoors](../E/Ettenmoors.md), Goblin Vua đã đe dọa [Dân tộc Tự do](../F/Free_peoples~19934.md) ở [Miền Bắc](../E/Eriador.md) và thu thập được một lượng lớn người đi theo. Sau một cuộc giao tranh tại pháo đài của ông, lực lượng của [Glóin](Glóin.md) và [Glorfindel](Glorfindel.md) đã chấm dứt triều đại của Yêu tinh Vua, và đội quân Orc bị phân tán.
 
 ## Phép thuật {#Spells}
 

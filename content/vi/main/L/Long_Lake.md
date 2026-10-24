@@ -47,7 +47,7 @@ Trước khi [Người Lùn](../D/Dwarves.md) bị lưu đày khỏi [Moria](../
 		</li>
 </ul>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Long Lake đã được thêm vào cùng với bản cập nhật <i>Strongholds of the North</i> vào năm 2018. Các khu vực xung quanh lấy bối cảnh ngay sau <a href="../B/Battle_of_Dale.md" title="Battle of Dale">Trận Dale</a>, với Con Người và Người Lùn được xây dựng lại sau cuộc bao vây và tàn quân của <a class="mw-redirect" href="../E/Easterling.md" title="Easterling">Easterling</a> vẫn ẩn nấp xung quanh.</dd></dl>
 

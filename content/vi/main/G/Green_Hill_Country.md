@@ -64,7 +64,7 @@ Từ [Tuckborough](../T/Tuckborough.md), một con đường chạy về phía �
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Green Hill Country là một khu vực ở phần phía nam của Shire bao gồm <a href="../W/Woodhall.md" title="Woodhall">Woodhall</a> và <a href="../W/Woody_End.md" title="Woody End">Woody End</a>.</dd></dl>
 

@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Aragorn](../A/Aragorn.md) lang thang [Golden Hall](../G/Golden_Hall.md) vào ban đêm. Ông ta đi ngang qua [Pippin](../P/Pippin.md), người sau khi trằn trọc và quay người đã tỉnh dậy.
+[Aragorn](../A/Aragorn.md) lang thang [Golden Hall](../G/Golden_Hall.md) vào ban đêm. Ông đi ngang qua [Pippin](../P/Pippin.md), người sau khi trằn trọc và quay người đã tỉnh dậy.
 
 Aragorn thấy [Éowyn](Éowyn.md) đang ngủ và đắp chăn cho bà. Cô tỉnh dậy và kể cho anh nghe về giấc mơ của mình, trong đó cô nhìn thấy *"một làn sóng lớn, vượt qua những vùng đất xanh tươi và vượt lên trên những ngọn đồi"*, nơi cô đang đứng. Aragorn an ủi bà trong lúc đau khổ trước khi bà chìm vào giấc ngủ lần nữa.
 

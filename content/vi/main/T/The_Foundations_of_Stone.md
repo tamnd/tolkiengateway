@@ -43,7 +43,7 @@ Gandalf và Balrog cùng rơi xuống, chiến đấu, vào một vực sâu dư
 
 Cuộc đối đầu ở Cầu Khazad-dûm bám sát câu chuyện ở chương [ Cầu Khazad-dûm](The_Bridge_of_Khazad-dûm.md) từ *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* khá chặt chẽ. Việc Gandalf rơi xuống vực thẳm cùng với Balrog phản ánh phần đầu câu chuyện của Gandalf trong chương [Kỵ sĩ trắng](The_White_Rider.md) từ *[The Two Towers](The_Two_Towers.md)*: "*Tôi đã ngã từ lâu, và ông cũng ngã theo tôi. Ngọn lửa của ông là về tôi. Tôi bị bỏng. Sau đó chúng tôi lao xuống vùng nước sâu và tất cả đều tối tăm*."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Điểm khác biệt chính so với nguyên liệu nguồn là thể hiện mùa thu này tách biệt với mùa thu này [Trận chiến trên đỉnh](../B/Battle_of_the_Peak.md), sẽ được trình chiếu sau.
 
-Frodo không mơ về cuộc chiến của Gandalf với Balrog trong sách. Tuy nhiên, trong *The Fellowship of the Ring*, ông ta có một giấc mơ tưởng tượng về việc Gandalf bị giam cầm trong [Orthanc](../O/Orthanc.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Frodo không mơ về cuộc chiến của Gandalf với Balrog trong sách. Tuy nhiên, trong *The Fellowship of the Ring*, ông có một giấc mơ tưởng tượng về việc Gandalf bị giam cầm trong [Orthanc](../O/Orthanc.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -38,7 +38,7 @@ Vào [ngày 1 tháng 6](../_/1_June.md) Unwin đã cho biết Tolkien rằng kho
 
 ## Tóm tắt {#Summary}
 
-Tolkien cảm ơn Unwin vì tin an ủi. Mặc dù giải thưởng của Mỹ Tolkien nói rằng anh đang gặp khó khăn về tài chính, điều này sẽ càng tăng lên khi anh bỏ học bổng nghiên cứu ở tháng Chín. Để kiếm sống, ông ta có thể phải quay trở lại guồng quay thi cử (làm giám khảo bên ngoài cho các trường đại học khác). Tolkien đồng ý với lời chỉ trích của Rayner (giống như nhận xét của [C.S. Lewis](../C/C.S._Lewis.md)) mặc dù cá nhân ông thích “cuộc nói chuyện của người hobbit”. Tolkien liệt kê nhiều dự án và nhiệm vụ khác nhau đã khiến anh không thể viết lách và có thể phải làm như vậy trong nhiều tháng.
+Tolkien cảm ơn Unwin vì tin an ủi. Mặc dù giải thưởng của Mỹ Tolkien nói rằng anh đang gặp khó khăn về tài chính, điều này sẽ càng tăng lên khi anh bỏ học bổng nghiên cứu ở tháng Chín. Để kiếm sống, ông có thể phải quay trở lại guồng quay thi cử (làm giám khảo bên ngoài cho các trường đại học khác). Tolkien đồng ý với lời chỉ trích của Rayner (giống như nhận xét của [C.S. Lewis](../C/C.S._Lewis.md)) mặc dù cá nhân ông thích “cuộc nói chuyện của người hobbit”. Tolkien liệt kê nhiều dự án và nhiệm vụ khác nhau đã khiến anh không thể viết lách và có thể phải làm như vậy trong nhiều tháng.
 
 Trong phần tái bút, Tolkien giải thích rằng câu trả lời của ông đã bị trì hoãn do việc bầu Linh mục [Adam Fox](../A/Adam_Fox.md) làm Giáo sư Thơ. Lewis và Tolkien đã đề cử Fox và ông đã giành chiến thắng, đánh bại một Hiệp sĩ và một Lãnh chúa cao quý, điều mà Tolkien gọi là “chiến thắng công khai đầu tiên của chúng tôi trước đặc quyền đã được thiết lập”. <br>
 

@@ -12,7 +12,7 @@ categories:
   - "Languages"
 ---
 
-**Gautisk** hoặc **Gautish**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một [ngôn ngữ](../L/Languages.md) thuộc loại tiếng Đức được phát minh bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào đầu những năm 1910, mà có thể ông ta muốn nghĩ ra ngôn ngữ này cho người Gaut ở miền nam Thụy Điển, những người được xác định là Geats của <i><a class="mw-redirect mw-disambig" href="../B/Beowulf.md" title="Beowulf">Beowulf</a></i>.
+**Gautisk** hoặc **Gautish**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một [ngôn ngữ](../L/Languages.md) thuộc loại tiếng Đức được phát minh bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào đầu những năm 1910, mà có thể ông muốn nghĩ ra ngôn ngữ này cho người Gaut ở miền nam Thụy Điển, những người được xác định là Geats của <i><a class="mw-redirect mw-disambig" href="../B/Beowulf.md" title="Beowulf">Beowulf</a></i>.
 
 ## Nguồn tài liệu {#Source_materials}
 

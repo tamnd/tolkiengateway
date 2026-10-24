@@ -57,7 +57,7 @@ Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) cố gắng lấy ví của bọn tro
 
 ## Nền {#Background}
 
-[Người hâm mộ](Tolkien_fandom.md) cho rằng chiếc ví có lẽ không phải do quỷ lùn tạo ra mà là nó đã bị đánh cắp và có nguồn gốc từ [người lùn](../D/Dwarves.md) hoặc [yêu tinh](../E/Elves.md) do nó có khả năng nói.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> [Elrond](../E/Elrond.md) chắc chắn đã đoán rằng lũ quỷ lùn đã cướp được một số đồ từ [Moria](../M/Moria.md), mặc dù ông ta đang đề cập cụ thể đến [Glamdring](../G/Glamdring.md) và [Orcrist](../O/Orcrist.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+[Người hâm mộ](Tolkien_fandom.md) cho rằng chiếc ví có lẽ không phải do quỷ lùn tạo ra mà là nó đã bị đánh cắp và có nguồn gốc từ [người lùn](../D/Dwarves.md) hoặc [yêu tinh](../E/Elves.md) do nó có khả năng nói.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> [Elrond](../E/Elrond.md) chắc chắn đã đoán rằng lũ quỷ lùn đã cướp được một số đồ từ [Moria](../M/Moria.md), mặc dù ông đang đề cập cụ thể đến [Glamdring](../G/Glamdring.md) và [Orcrist](../O/Orcrist.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

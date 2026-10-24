@@ -80,7 +80,7 @@ Sự kiện xảy ra vào ngày 15 tháng 8
     - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Treebeard](../T/Treebeard.md) trả tự do cho [Saruman](../S/Saruman.md) khỏi sự giam cầm của ông ta trong [Orthanc](../O/Orthanc.md).<sup id="cite_ref-AppChief_1-0" class="reference"><a href="#cite_note-AppChief-1">[1]</a></sup>
+    - [Treebeard](../T/Treebeard.md) trả tự do cho [Saruman](../S/Saruman.md) khỏi sự giam cầm của ông trong [Orthanc](../O/Orthanc.md).<sup id="cite_ref-AppChief_1-0" class="reference"><a href="#cite_note-AppChief-1">[1]</a></sup>
 
 <span></span>
 

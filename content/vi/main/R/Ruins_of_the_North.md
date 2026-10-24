@@ -49,7 +49,7 @@ infobox:
 
 ## Lễ tân {#Reception}
 
-Trong bài đánh giá cho [Other Minds 17](../O/Other_Minds_17.md), Thomas Morwinsky có cảm xúc lẫn lộn về *Ruins of the North*, nhận thấy rằng mặc dù đã đưa vào một số kịch bản không khí tuyệt vời nhưng "những thiếu sót trong truyền thuyết Trung Địa phần nào làm hỏng sự thú vị". Chúng bao gồm việc trả lại [Vua Phù thủy](../W/Witch-king.md) cho Angmar, trong khi [Glorfindel](../G/Glorfindel.md) nói rằng "ông ta sẽ không trở lại vùng đất này", một biệt thự Dúnadan ở Weather Hills mặc dù Aragorn nói rằng " Con Người của Phương Tây không sống ở đây", cũng như việc lạm dụng quá nhiều xác sống giống người khiến ông ta nhớ lại cách sử dụng tương tự trong [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-otherminds_1-0" class="reference"><a href="#cite_note-otherminds-1">[1]</a></sup> <span></span>
+Trong bài đánh giá cho [Other Minds 17](../O/Other_Minds_17.md), Thomas Morwinsky có cảm xúc lẫn lộn về *Ruins of the North*, nhận thấy rằng mặc dù đã đưa vào một số kịch bản không khí tuyệt vời nhưng "những thiếu sót trong truyền thuyết Trung Địa phần nào làm hỏng sự thú vị". Chúng bao gồm việc trả lại [Vua Phù thủy](../W/Witch-king.md) cho Angmar, trong khi [Glorfindel](../G/Glorfindel.md) nói rằng "ông sẽ không trở lại vùng đất này", một biệt thự Dúnadan ở Weather Hills mặc dù Aragorn nói rằng " Con Người của Phương Tây không sống ở đây", cũng như việc lạm dụng quá nhiều xác sống giống người khiến ông nhớ lại cách sử dụng tương tự trong [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-otherminds_1-0" class="reference"><a href="#cite_note-otherminds-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

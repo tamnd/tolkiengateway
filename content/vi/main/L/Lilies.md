@@ -28,7 +28,7 @@ images:
 
 <dl><dd><i><b>Ladylock</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Finhiril</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Herifindë</i>), còn được gọi là <i>Hanging Lily</i>, là một loại cây giống rêu màu xanh xám treo trên những cành cây rụng lá cổ thụ. Nó có thể được đặt trong nước nóng một thời gian ngắn và sau đó đặt lên vết thương để cầm máu. Được sấy khô và pha như trà, nó có thể đánh thức bệnh nhân khỏi cơn hôn mê do <a href="../P/Plants_in_Middle-earth_Role_Playing.md#Saewedhil" title="Plants in Middle-earth Role Playing">saewedhil</a> gây ra.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><i><b>Lily-of-the-Valley</b></i>, một loại cây có hoa nhỏ màu trắng, có thể được trồng bởi những người nông dân tập sự<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>, trong khi các học giả có thể sử dụng lá của nó để tạo ra thuốc nhuộm và sơn với nhiều sắc thái xanh lục khác nhau.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Một <i><b>wood lily</b></i> là một bông hoa màu đỏ mà người chơi kiếm được làm phần thưởng trong quá trình thực hiện nhiệm vụ của mình.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 

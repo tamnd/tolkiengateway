@@ -46,7 +46,7 @@ infobox:
 
 Với nó, ông đã bảo vệ biên giới Vua [Thingol](../T/Thingol.md) từ lâu, và khi rời [Doriath](../D/Doriath.md) để tìm kiếm người bạn [Túrin](../T/Túrin.md) của mình, ông đã mang nó theo. Khi ông tìm thấy ông, cùng nhau, từ hội trường của [Mîm](../M/Mîm.md) ở [Amon Rûdh](../A/Amon_Rûdh.md), họ đã thành lập vương quốc [Dor-Cúarthol](../D/Dor-Cúarthol.md) - Vùng đất của Cung và Helm - với ông là 'Cung'.
 
-Khi cả hai bị [Orc](../O/Orcs.md) phản bội, Beleg đã đi giải thoát bạn mình, nhưng trong một ngã rẽ bi thảm của số phận Túrin đã nhầm ông ta là kẻ thù và giết chết ông ta. Quá đau buồn, Túrin đã đào một ngôi mộ cho Beleg và chôn cất Belthronding bên cạnh người chủ quá cố của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi cả hai bị [Orc](../O/Orcs.md) phản bội, Beleg đã đi giải thoát bạn mình, nhưng trong một ngã rẽ bi thảm của số phận Túrin đã nhầm ông là kẻ thù và giết chết ông. Quá đau buồn, Túrin đã đào một ngôi mộ cho Beleg và chôn cất Belthronding bên cạnh người chủ quá cố của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

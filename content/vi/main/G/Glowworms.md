@@ -54,7 +54,7 @@ Một số con đom đóm được nhìn thấy phát sáng quanh chỗ rẽ c�
 		</li>
 </ul>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>"Glow-worm" là một loại quái vật được tìm thấy trong Dark Delvings của Moria và trong Sảnh Ánh Sáng ở Mirkwood,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> được miêu tả là một con sâu phát sáng khổng lồ và được phân loại là "Người thu thập thông tin về nhện và côn trùng".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 

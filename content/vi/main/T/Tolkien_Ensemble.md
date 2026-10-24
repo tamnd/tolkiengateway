@@ -53,7 +53,7 @@ Theo <a class="external text" href="https://www.facebook.com/thetolkienensemble/
 <li><a href="../A/At_Dawn_in_Rivendell.md" title="At Dawn in Rivendell">At Dawn in Rivendell</a> (<a href="../_/2003.md" title="2003">2003</a>)
 <dl><dd><i>Kurt Ravn, Morten Ernst Lassen, Peter Hall, Tom McEwan, Caspar Reiff, the Copenhagen Chamber Choir Camerata, Copenhagen Young Strings. Recitation by <a href="../C/Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a>.</i></dd></dl></li>
 <li><a href="../L/Leaving_Rivendell.md" title="Leaving Rivendell">Ra đi Rivendell</a>: Những bài hát, bài thơ chọn lọc trong Chúa tể những chiếc nhẫn (<a href="../_/2005.md" title="2005">2005</a>)
-<dl><dd><i>Jørgen Ditlevsen, Kurt Ravn,  Nick Keir, the Danish National Chamber Choir/DR, the Danish Radio Sinfonietta/DR. Recitation by Christopher Lee.</i></dd></dl></li>
+<dl><dd><i>Jørgen Ditlevsen, Kurt Ravn, Nick Keir, the Danish National Chamber Choir/DR, the Danish Radio Sinfonietta/DR. Recitation by Christopher Lee.</i></dd></dl></li>
 <li><a href="../C/Complete_Songs_and_Poems.md" title="Complete Songs and Poems">Complete Songs and Poems</a> (<a href="../_/2006.md" title="2006">2006</a>)
 <dl><dd><i>Tổng hợp tất cả các album trước đó.</i></dd></dl></li>
 <li><a href="The_Best_of_The_Tolkien_Ensemble.md" title="The Best of The Tolkien Ensemble">The Best of The Tolkien Ensemble</a> (<a href="../_/2008.md" title="2008">2008</a>)

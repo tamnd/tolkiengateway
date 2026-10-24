@@ -90,7 +90,7 @@ Trên [Bản đồ đầu tiên của The Lord of the Rings](../T/The_First_Map_
 		</li>
 </ul>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Celebrant được Người Lùn gọi là "<b>Kibil-nâla</b>". Khi chảy qua <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>, dòng sông được bao phủ bởi những chiếc lá <a href="../M/Mallorn.md" title="Mallorn">ngồi xanh</a> vàng.</dd></dl>
 

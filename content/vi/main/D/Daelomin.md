@@ -37,7 +37,7 @@ Trong *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và *[Col
 
 Daelomin rất hung bạo, thậm chí đến mức ăn thịt cả mẹ và con gái của mình, khiến nam Rồng phải cảnh giác với cô. Chỉ có Iereca, anh trai của Khuzadrepa, từng giao phối với bà. Mặc dù vậy, bà thường đi săn trò chơi hơn là tấn công các khu định cư.
 
-Hang ổ của bà ta nằm trên đỉnh Dancing Spire, giữa Anvilmount và [Núi Gondmaeglom](../S/Scatha.md#Portrayal_in_adaptations) ở [Dãy Núi Xám](../G/Grey_Mountains.md). Ở đó, bà có một kho báu nhỏ nhưng sang trọng gồm những chiến lợi phẩm từ thời trẻ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-bio_2-0" class="reference"><a href="#cite_note-bio-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Hang ổ của bà nằm trên đỉnh Dancing Spire, giữa Anvilmount và [Núi Gondmaeglom](../S/Scatha.md#Portrayal_in_adaptations) ở [Dãy Núi Xám](../G/Grey_Mountains.md). Ở đó, bà có một kho báu nhỏ nhưng sang trọng gồm những chiến lợi phẩm từ thời trẻ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-bio_2-0" class="reference"><a href="#cite_note-bio-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

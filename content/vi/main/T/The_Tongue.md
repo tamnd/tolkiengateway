@@ -32,7 +32,7 @@ Bản thân Lưỡi là mũi phía đông nam của Angle (hoặc Egladil) ở [
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Lưỡi không được xác định bằng tên mà hiện diện dưới dạng dòng chảy của <a href="../C/Celebrant.md" title="Celebrant">Celebrant</a> vào <a href="../A/Anduin.md" title="Anduin">Anduin</a>.</dd></dl>
 

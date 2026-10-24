@@ -59,7 +59,7 @@ Sau thất bại của [Sauron](../S/Sauron.md), tin tức về lễ đăng quan
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Min-Rimmon nằm phía trên Ost Rimmon, một thị trấn Gondor nhỏ nhưng đáng gờm. Vì lý do này, đèn hiệu của nó được bảo trì tốt nhất trong số tất cả các đèn hiệu phía bắc.</dd></dl>
 

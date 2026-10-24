@@ -36,7 +36,7 @@ Tuy nhiên, trong mọi vấn đề quan trọng trong nước hay đối ngoạ
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hội đồng bao gồm các Người quản lý và Đội trưởng của Thành phố. Những người cai ngục là những người của Burg, của Kho bạc, của Green, của <a href="../W/Warden_of_the_Houses_of_Healing.md" title="Warden of the Houses of Healing">Ngôi nhà chữa bệnh</a>, của Ngôi nhà truyền thuyết, <a href="../W/Warden_of_the_Keys.md" title="Warden of the Keys">Chìa khóa</a>, của Luật pháp, Cửa hàng và Giếng. Các Thủ lĩnh là những người đồn trú, Thành cổ, Tường ngoài, Cổng phía Nam và Tidings. Khuyến nghị Hội đồng bắt đầu theo Vua <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> sau khi chiến tranh kết thúc.</dd></dl>
 

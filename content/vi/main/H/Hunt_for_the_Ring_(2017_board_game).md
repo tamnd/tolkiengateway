@@ -32,7 +32,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Trò chơi là một cuộc chiến đấu trí và đưa bạn vào một cuộc hành trình mới xuyên qua Trung Địa. Một người chơi phải đưa Frodo Baggins — [Người Mang Nhẫn](../R/Ringbearer.md) — và những người bạn Hobbit của ông ta từ nhà của họ ở [Shire](../S/Shire.md) đến thánh địa Rivendell, nơi số phận của Chiếc Nhẫn Chúa sẽ được quyết định. Sử dụng bí mật và sự giúp đỡ của các đồng minh hùng mạnh, Người Mang Nhẫn phải thoát khỏi sự truy đuổi của [Nazgûl](../N/Nazgûl.md), Nazgûl khủng khiếp, được điều khiển bởi tối đa bốn người chơi khác. Những người chơi Ma Nhẫn làm việc cùng nhau để tìm Frodo và thu hồi Chiếc nhẫn cho [Chúa tể Bóng tối](../S/Sauron.md) của họ, trong khi Người Mang Nhẫn bí mật theo dõi đường đi của hắn trước tiên từ [Hobbiton](Hobbiton.md) đến [Bree](../B/Bree.md), sau đó từ Bree đến Rivendell, trên một bảng trò chơi hai mặt.
+Trò chơi là một cuộc chiến đấu trí và đưa bạn vào một cuộc hành trình mới xuyên qua Trung Địa. Một người chơi phải đưa Frodo Baggins — [Người Mang Nhẫn](../R/Ringbearer.md) — và những người bạn Hobbit của ông từ nhà của họ ở [Shire](../S/Shire.md) đến thánh địa Rivendell, nơi số phận của Chiếc Nhẫn Chúa sẽ được quyết định. Sử dụng bí mật và sự giúp đỡ của các đồng minh hùng mạnh, Người Mang Nhẫn phải thoát khỏi sự truy đuổi của [Nazgûl](../N/Nazgûl.md), Nazgûl khủng khiếp, được điều khiển bởi tối đa bốn người chơi khác. Những người chơi Ma Nhẫn làm việc cùng nhau để tìm Frodo và thu hồi Chiếc nhẫn cho [Chúa tể Bóng tối](../S/Sauron.md) của họ, trong khi Người Mang Nhẫn bí mật theo dõi đường đi của hắn trước tiên từ [Hobbiton](Hobbiton.md) đến [Bree](../B/Bree.md), sau đó từ Bree đến Rivendell, trên một bảng trò chơi hai mặt.
 
 <br>
 

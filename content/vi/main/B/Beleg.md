@@ -76,7 +76,7 @@ infobox:
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Ông rất cao lớn  và có tứ chi tốt,<br/>nhưng có chu vi nhỏ bé,  và nhẹ nhàng trên mặt đất<br/>bước chân của ông rơi xuống  khi ông tiến về phía họ,<br/>tất cả đều mặc đồ màu xám , xanh lá cây và nâu—<br/>một đứa con trai của vùng hoang dã  không muốn có cha mẹ.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">Túrin Son of Húrin &amp; Glórund the Dragon</a></i>, vv.196-200</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">Túrin Son of Húrin &amp; Glórund Dragon</a></i>, vv.196-200</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Beleg Cúthalion** là một người [Sinda](../S/Sinda.md) phục vụ Vua [Elu Thingol](../T/Thingol.md) của [Doriath](../D/Doriath.md). Ông được xem là cung thủ và thợ săn giỏi nhất thời đại mình. Ông trở thành bạn và huynh đệ đồng ngũ của [Túrin](../T/Túrin.md), trước khi trở thành nạn nhân của [úmarth](../_/Úmarth.md) bao trùm Túrin.

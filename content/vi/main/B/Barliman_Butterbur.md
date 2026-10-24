@@ -166,7 +166,7 @@ Trong phiên bản đầu tiên của các sự kiện tại Prancing Pony, đư
 
 <dl><dd>Giọng của Barliman Butterbur được cung cấp bởi Július Satinský.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Barliman là một nhân vật không thể chơi được và có thể tìm thấy tại <a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">the Prancing Pony</a>. Người chơi gặp ông trong Tập I <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">Shadows of Angmar</a></i>, Quyển I: "Khuấy động trong Bóng Tối".</dd></dl>
 

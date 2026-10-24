@@ -55,7 +55,7 @@ Tên <i><b>Harding</b></i> xuất phát từ [tiếng Anh cổ](../O/Old_English
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Xét rằng Harding là cháu trai của con trai cả Samwise, lẽ ra ông ta phải trở thành người thừa kế của Samwise và là người đứng đầu <a class="mw-redirect" href="../G/Gardner_Family~66367.md" title="Gardner Family">Gia đình Gardner</a>, và có lẽ sẽ được thừa kế <a href="../B/Bag_End.md" title="Bag End">Bag End</a>, do đó có tên gọi như vậy.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Xét rằng Harding là cháu trai của con trai cả Samwise, lẽ ra ông phải trở thành người thừa kế của Samwise và là người đứng đầu <a class="mw-redirect" href="../G/Gardner_Family~66367.md" title="Gardner Family">Gia đình Gardner</a>, và có lẽ sẽ được thừa kế <a href="../B/Bag_End.md" title="Bag End">Bag End</a>, do đó có tên gọi như vậy.</span>
 </li>
 </ol></div></span>
 

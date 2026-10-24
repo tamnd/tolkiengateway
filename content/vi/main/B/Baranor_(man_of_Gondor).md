@@ -54,7 +54,7 @@ infobox:
 
 Baranor xuất thân từ một dòng [người Gondor](../G/Gondorians.md) [Ithilien](../I/Ithilien.md) sau đó chuyển đến các thung lũng của [Dãy Núi Trắng](../W/White_Mountains.md), rất có thể là ở [Lossarnach](../L/Lossarnach.md).
 
-Ông ta có một người con trai, [Beregond](Beregond.md), một anh hùng trong [cuộc vây hãm Minas Tirith](../S/Siege_of_Minas_Tirith.md), và dường như cũng đã cư trú tại thành phố đó.
+Ông có một người con trai, [Beregond](Beregond.md), một anh hùng trong [cuộc vây hãm Minas Tirith](../S/Siege_of_Minas_Tirith.md), và dường như cũng đã cư trú tại thành phố đó.
 
 ## Từ nguyên {#Etymology}
 
@@ -78,7 +78,7 @@ Baranor có thể được đặt theo tên [tên Người đàn ông cùng tên
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Baranor được tìm thấy ở <a class="mw-redirect" href="../A/Arnach.md" title="Arnach">Arnach</a>, thành phố <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a>, nơi đóng vai trò là trụ sở của Lãnh chúa <a href="../F/Forlong.md" title="Forlong">Forlong</a>. Baranor là Đội trưởng Đội cận vệ của Thành phố, lãnh đạo việc bảo vệ thành phố khi Chúa của ông vắng mặt.</dd></dl>
 

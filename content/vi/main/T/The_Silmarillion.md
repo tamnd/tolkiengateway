@@ -73,7 +73,7 @@ infobox:
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Silmarillion_1977.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3a/The_Silmarillion_1977.png/320px-The_Silmarillion_1977.png" decoding="async" loading="lazy" width="320" height="479" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/3a/The_Silmarillion_1977.png 1.5x" data-file-width="334" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Silmarillion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/15_September.md" title="15 September">15 September</a> <a href="../_/1977.md" title="1977">1977</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng; bìa mềm; bản cao cấp; sách nói</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">365</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048231398" title="Special:BookSources/0048231398">0048231398</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a> (1976)</td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="The_Inklings_(book).md" title="The Inklings (book)">The Inklings: C.S. Lewis, J.R.R. Tolkien, Charles Williams, and Their Friends</a> (1978)</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="The_Silmarillion%252FPublication_history_and_gallery.md" title="The Silmarillion/Publication history and gallery">Lịch sử xuất bản và thư viện</a></td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><i>Silmarillion</i> là lịch sử của Cuộc chiến của những người lưu vong Tiên tộc chống lại Kẻ Thù, tất cả đều diễn ra ở Tây Bắc thế giới (Trung Địa). Một số câu chuyện về chiến thắng và bi kịch bị cuốn vào đó; nhưng nó kết thúc bằng thảm họa, và sự diệt vong của Thế giới Cổ đại, thế giới của <i>First Age</i> lâu dài.
+<p><i>Silmarillion</i> thuật lại Cuộc chiến của các Tiên tộc lưu vong chống lại Kẻ Thù, diễn ra hoàn toàn ở vùng tây bắc thế giới (Trung Địa). Tác phẩm bao gồm nhiều câu chuyện về chiến thắng và bi kịch, nhưng kết thúc bằng thảm họa và sự cáo chung của Thế giới Cổ đại, thế giới kéo dài suốt <i>Kỷ Đệ Nhất</i>.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien in <a href="../L/Letter_131.md" title="Letter 131">Letter 131</a> to <a href="../M/Milton_Waldman.md" title="Milton Waldman">Milton Waldman</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -135,7 +135,7 @@ Nó bao gồm lịch sử của thế giới [Arda](../A/Arda.md) từ khi [Eä]
 
 Trên trang tiêu đề có một dòng chữ được viết bằng các ký tự [Tengwar](Tengwar.md), nội dung như sau:
 
-<dl><dd>"<i>Những câu chuyện về Kỷ Đệ Nhất khi Morgoth cư trú tại Trung Địa và Tiên tộc đã gây chiến với ông để giành lại <a href="../S/Silmarils.md" title="Silmarils">Silmaril</a> kèm theo sự sụp đổ của Númenor và lịch sử của <a href="../R/Rings_of_Power.md" title="Rings of Power">Những Chiếc Nhẫn Quyền Năng</a> và Kỷ Đệ Tam mà trong đó những câu chuyện này đi đến hồi kết.</i>"</dd></dl>
+<dl><dd>"<i>Những câu chuyện về Kỷ Đệ Nhất, khi Morgoth ngự trị ở Trung Địa và Tiên tộc tiến hành chiến tranh chống lại hắn để đoạt lại các <a href="../S/Silmarils.md" title="Silmarils">Silmaril</a>, tiếp nối là câu chuyện về sự sụp đổ của Númenor, lịch sử <a href="../R/Rings_of_Power.md" title="Rings of Power">Những Chiếc Nhẫn Quyền Năng</a> và Kỷ Đệ Tam, nơi những câu chuyện này đi đến hồi kết.</i>"</dd></dl>
 
 ## Tổng quan {#Overview}
 
@@ -181,7 +181,7 @@ Ngoài tài liệu nguồn và các bản nháp trước đó của một số p
 
 ## Lịch sử xuất bản và bộ sưu tập hình ảnh {#Publication_history_and_gallery}
 
-<dl><dd><i>Vui lòng xem <a href="The_Silmarillion%252FPublication_history_and_gallery.md" title="The Silmarillion/Publication history and gallery">Lịch sử xuất bản và thư viện</a>.</i></dd></dl>
+<dl><dd><i>Vui lòng xem <a href="The_Silmarillion%252FPublication_history_and_gallery.md" title="The Silmarillion/Publication history and gallery">Lịch sử xuất bản và bộ sưu tập hình ảnh</a>.</i></dd></dl>
 
 ## Xem thêm {#See_also}
 
@@ -221,20 +221,20 @@ Ngoài tài liệu nguồn và các bản nháp trước đó của một số p
 <tr>
 <th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px; width: 80px;">Minh họa bên trong
 </th>
-<td style="font-size: 90%"><a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1993-nay) · Francis Mosley (<a href="The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1997-nay) · <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1998-nay)
+<td style="font-size: 90%"><a href="../D/Denis_Gordeev.md" title="Denis Gordeev">Denis Gordeev</a> (1993-đến nay) · Francis Mosley (<a href="The_Folio_Society.md" title="The Folio Society">The Folio Society</a>: 1997-đến nay) · <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> (1998-đến nay)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Chỉ có hình minh họa bìa
 </th>
-<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-nay) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1983-1991) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1992-1995)
+<td style="font-size: 90%"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (1937-đến nay) · <a href="../R/Roger_Garland.md" title="Roger Garland">Roger Garland</a> (1983-1991) · <a href="../J/John_Howe.md" title="John Howe">John Howe</a> (1992-1995)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Sách hướng dẫn <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Cẩm nang sách của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách do Tolkien viết hoặc chủ yếu do Tolkien viết</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách do Tolkien viết hoặc chủ yếu dựa trên bản thảo của ông</b>
 </td></tr>
 <tr>
 <th width="50px" align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">On <a href="../A/Arda.md" title="Arda">Arda</a>
@@ -246,7 +246,7 @@ Ngoài tài liệu nguồn và các bản nháp trước đó của một số p
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Edited by <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a class="mw-selflink selflink">The Silmarillion</a></i> · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> · <i><a href="The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></i> loạt<br/>(i.<i><a href="The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> · ii.<i><a href="The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i> · iii.<i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · vi.<i><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> · vii.<i><a href="The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> · viii.<i><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> · ix.<i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> · x.<i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i> · xi.<i><a href="The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> · xii.<i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · <i><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Index</a></i>) ·<br/><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> · <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> · <i><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a class="mw-selflink selflink">The Silmarillion</a></i> · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> · bộ sách <i><a href="The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></i><br/>(i.<i><a href="The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> · ii.<i><a href="The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i> · iii.<i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · vi.<i><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> · vii.<i><a href="The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> · viii.<i><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> · ix.<i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> · x.<i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i> · xi.<i><a href="The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> · xii.<i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · <i><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Mục lục</a></i>) ·<br/><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> · <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> · <i><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i>
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Do người khác biên tập
@@ -309,7 +309,7 @@ Ngoài tài liệu nguồn và các bản nháp trước đó của một số p
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tạp chí ngôn ngữ học
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> số phát hành khác nhau · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> số phát hành 11-23
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> các số phát hành khác nhau · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> các số 11-23
 </td></tr>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Bộ sưu tập tác phẩm nghệ thuật<br/>và bản thảo

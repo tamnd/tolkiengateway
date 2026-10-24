@@ -60,7 +60,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Elphir là con trai lớn trong bốn người con của [Imrahil](../I/Imrahil.md). Ông ta sinh năm [T.A.](../T/Third_Age.md) [2987](../T/Third_Age_2987.md) và đã là đàn ông vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nhưng không có chiến tích nào của ông ta được ghi nhận. Ông có hai anh trai, [Ercirion](Erchirion.md) và [Amrothos](../A/Amrothos.md), và một em gái, [Lothíriel](../L/Lothíriel.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Elphir là con trai lớn trong bốn người con của [Imrahil](../I/Imrahil.md). Ông sinh năm [T.A.](../T/Third_Age.md) [2987](../T/Third_Age_2987.md) và đã là đàn ông vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nhưng không có chiến tích nào của ông được ghi nhận. Ông có hai anh trai, [Ercirion](Erchirion.md) và [Amrothos](../A/Amrothos.md), và một em gái, [Lothíriel](../L/Lothíriel.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Sau khi ông qua đời vào năm [Kỷ Đệ Tứ](../F/Fourth_Age.md) [67](../F/Fourth_Age_67.md), ông được con trai là [Alphros](../A/Alphros.md) kế vị.<sup id="cite_ref-DolAmroth_1-1" class="reference"><a href="#cite_note-DolAmroth-1">[1]</a></sup>
 

@@ -46,12 +46,12 @@ Sự khác biệt giữa huyền thoại của ông và những gì Tolkien nói
 
 Một trong những [Aulë](../A/Aulë.md) vĩ đại, đã "ngã" theo một nghĩa nào đó. Nóng lòng muốn gặp các Con, ông đã cố gắng *make* con theo sự hiểu biết không hoàn hảo của mình về chủng loại của chúng. Sau khi anh sinh ra mười ba (người lớn nhất một mình và sáu người có vợ), Chúa nói với anh một cách giận dữ nhưng thương xót, biết rằng Aulë đã khiến họ không phải thống trị mà chia sẻ tình yêu của anh dành cho Đấng duy nhất và những vật liệu tạo nên thế giới. The One khiển trách Aulë vì đã cố gắng chiếm đoạt quyền năng của Đấng Tạo Hóa. Anh không thể mang lại sức sống độc lập cho các tác phẩm của mình, chúng chỉ có ý chí và sự vận động của Aulë và chỉ có thể báo cáo cho anh suy nghĩ của chính mình.
 
-Đau buồn và ăn năn, Aulë hạ mình xuống, cầu xin sự tha thứ và chuẩn bị phá hủy những sáng tạo của mình. Nhưng người lớn nhất nao núng và thu mình lại, khiến ông ta rất ngạc nhiên và Aulë nghe thấy tiếng cười của [Ilúvatar](../I/Ilúvatar.md). Nhìn thấy sự khiêm nhường của Aulë, Đấng đã thương xót và đưa những hình ảnh của anh vào thiết kế của mình, ban cho chúng sự sống. Tuy nhiên, chúng đã chìm vào giấc ngủ dài cho đến khi những đứa trẻ khác thức dậy.
+Đau buồn và ăn năn, Aulë hạ mình xuống, cầu xin sự tha thứ và chuẩn bị phá hủy những sáng tạo của mình. Nhưng người lớn nhất nao núng và thu mình lại, khiến ông rất ngạc nhiên và Aulë nghe thấy tiếng cười của [Ilúvatar](../I/Ilúvatar.md). Nhìn thấy sự khiêm nhường của Aulë, Đấng đã thương xót và đưa những hình ảnh của anh vào thiết kế của mình, ban cho chúng sự sống. Tuy nhiên, chúng đã chìm vào giấc ngủ dài cho đến khi những đứa trẻ khác thức dậy.
 
 ## Lưu ý {#Note}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">In a side note, Tolkien said that the Elvish and uncorrupted <a class="mw-redirect" href="../N/Númenórean.md" title="Númenórean">Númenórean</a> view was that a &#34;good&#34; man would die voluntarily by surrender with trust before being compelled.  He then discussed the Assumption of Mary.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">In a side note, Tolkien said that the Elvish and uncorrupted <a class="mw-redirect" href="../N/Númenórean.md" title="Númenórean">Númenórean</a> view was that a &#34;good&#34; man would die voluntarily by surrender with trust before being compelled. He then discussed the Assumption of Mary.</span>
 </li>
 </ol></div>
 

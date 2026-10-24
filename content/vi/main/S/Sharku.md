@@ -49,7 +49,7 @@ infobox:
 
 Sharku là thủ lĩnh kỳ cựu của một nhóm cướp bóc Warg-riders hoạt động sâu vào các vương quốc [Gondor](../G/Gondor.md) và [Rohan](../R/Rohan.md), gieo rắc sự hoảng loạn và sợ hãi cho kẻ thù của [Saruman](Saruman.md).
 
-Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông ta đã ủng hộ [Pháp sư](../W/Wizards.md), [Saruman](Saruman.md) bị hỏng. Ông ta được giao nhiệm vụ phục kích đoàn quân [Rohirrim](../R/Rohirrim.md) phụ nữ và trẻ em đang rút lui từ [Edoras](../E/Edoras.md) về nơi an toàn [Helm's Deep](../H/Helm's_Deep.md). [Théoden](../T/Théoden.md) và người bảo vệ của ông ta, với sự giúp đỡ của [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md), đã chống đỡ được cuộc tấn công. Tuy nhiên, trong trận chiến, Aragorn bị vướng vào dây nịt của Warg của Sharku và cả con thú và người kiểm lâm đều rơi xuống một vách đá. Sharku, bị trọng thương, chỉ sống sót đủ lâu để hả hê về cái chết rõ ràng của Aragorn đối với Legolas và Gimli.
+Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông đã ủng hộ [Pháp sư](../W/Wizards.md), [Saruman](Saruman.md) bị hỏng. Ông được giao nhiệm vụ phục kích đoàn quân [Rohirrim](../R/Rohirrim.md) phụ nữ và trẻ em đang rút lui từ [Edoras](../E/Edoras.md) về nơi an toàn [Helm's Deep](../H/Helm's_Deep.md). [Théoden](../T/Théoden.md) và người bảo vệ của ông, với sự giúp đỡ của [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md), đã chống đỡ được cuộc tấn công. Tuy nhiên, trong trận chiến, Aragorn bị vướng vào dây nịt của Warg của Sharku và cả con thú và người kiểm lâm đều rơi xuống một vách đá. Sharku, bị trọng thương, chỉ sống sót đủ lâu để hả hê về cái chết rõ ràng của Aragorn đối với Legolas và Gimli.
 
 ## Từ nguyên {#Etymology}
 

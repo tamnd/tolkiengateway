@@ -36,7 +36,7 @@ Tên có nghĩa là "gỗ lợn rừng". Phần tử đầu tiên đến từ [t
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Everholt nằm ở phía đông <a href="../A/Aldburg.md" title="Aldburg">Aldburg</a> và phía tây nam <a href="../F/Fenmarch.md" title="Fenmarch">Fenmarch</a>. Có thể tìm thấy một con <a class="mw-redirect" href="../B/Boar_of_Everholt.md" title="Boar of Everholt">Great Boar</a> đang đi lang thang trong rừng.</dd></dl>
 

@@ -12,7 +12,7 @@ categories:
   - "Armies"
 ---
 
-Đại đội của **Vua**, còn được gọi là Kỵ sĩ của **Vua**, là [Éored](../_/Éored.md) đầu tiên trong số [Kỵ sĩ của Rohan](../R/Riders_of_Rohan.md), những người đã chiến đấu bên cạnh chính Vua. Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), họ được dẫn đầu bởi [Déorwine](../D/Déorwine.md), người cùng với sáu người khác của Công ty đã gục ngã cùng [vua](../T/Théoden.md) ở [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó, khi [Éomer](../_/Éomer.md) đến [Minas Tirith](../M/Minas_Tirith.md) để dẫn đầu đám tang của Vua Théoden quay lại [Rohan](../R/Rohan.md), ông ta đã đưa Công ty của Vua với ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Đại đội của **Vua**, còn được gọi là Kỵ sĩ của **Vua**, là [Éored](../_/Éored.md) đầu tiên trong số [Kỵ sĩ của Rohan](../R/Riders_of_Rohan.md), những người đã chiến đấu bên cạnh chính Vua. Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), họ được dẫn đầu bởi [Déorwine](../D/Déorwine.md), người cùng với sáu người khác của Công ty đã gục ngã cùng [vua](../T/Théoden.md) ở [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó, khi [Éomer](../_/Éomer.md) đến [Minas Tirith](../M/Minas_Tirith.md) để dẫn đầu đám tang của Vua Théoden quay lại [Rohan](../R/Rohan.md), ông đã đưa Công ty của Vua với ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -53,7 +53,7 @@ infobox:
 
 Cô không theo [Noldor lưu vong](../E/Exile_of_the_Noldor.md) mà sống giữa [Vanyar](../V/Vanyar.md) với mẹ mình.<sup id="cite_ref-Finwe_1-0" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup>
 
-Người ta nói rằng họ đã đau buồn cho đến khi [Manwë](../M/Manwë.md) được cho là đã khôi phục lại Finwë sự sống,<sup id="cite_ref-Finwe_1-1" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup> nhưng ông ta có thể không làm vậy, vì thực tế rất ít người biết về những gì đã xảy ra trong [Aman](../A/Aman.md) sau sự ra đi của Noldor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Người ta nói rằng họ đã đau buồn cho đến khi [Manwë](../M/Manwë.md) được cho là đã khôi phục lại Finwë sự sống,<sup id="cite_ref-Finwe_1-1" class="reference"><a href="#cite_note-Finwe-1">[1]</a></sup> nhưng ông có thể không làm vậy, vì thực tế rất ít người biết về những gì đã xảy ra trong [Aman](../A/Aman.md) sau sự ra đi của Noldor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

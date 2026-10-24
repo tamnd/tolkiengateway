@@ -14,7 +14,7 @@ sort_keys:
   "Leaf by Niggle": "Parish, Mr."
 ---
 
-**Ông. Giáo xứ** là một ký tự trong *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. Ông ta là hàng xóm của [Niggle](../N/Niggle.md) và là chồng của [Bà. Giáo xứ](Mrs._Parish.md). Parish là một ông già, người nhờ người hàng xóm làm một số việc nhà cho mình. Vì Niggle là một người tốt nên ông đồng ý, mặc dù ông thích vẽ tranh hơn. Parish chưa bao giờ hiểu được nghệ thuật của mình.
+**Ông. Giáo xứ** là một ký tự trong *[Leaf by Niggle](../L/Leaf_by_Niggle.md)*. Ông là hàng xóm của [Niggle](../N/Niggle.md) và là chồng của [Bà. Giáo xứ](Mrs._Parish.md). Parish là một ông già, người nhờ người hàng xóm làm một số việc nhà cho mình. Vì Niggle là một người tốt nên ông đồng ý, mặc dù ông thích vẽ tranh hơn. Parish chưa bao giờ hiểu được nghệ thuật của mình.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

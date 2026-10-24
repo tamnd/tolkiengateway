@@ -39,7 +39,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-*"Where are we, Gandalf?" he asked.* *" Ở vương quốc Gondor," vị phù thủy trả lời...* *" Pippin lại buồn ngủ và không mấy chú ý đến việc Gandalf kể cho ông ta nghe về phong tục của Gondor, và việc Chúa Thành phố đã xây dựng các đèn hiệu trên đỉnh những ngọn đồi xa xôi dọc theo cả hai biên giới của dãy núi lớn và duy trì các trạm gác ở những điểm này, nơi những con ngựa tươi tắn luôn sẵn sàng chở những người cưỡi ngựa đi làm việc vặt cho ông ta như thế nào tới Rohan ở miền Bắc, hoặc Belfalas ở miền Nam."* - The Return of the King
+*"Where are we, Gandalf?" he asked.* *" Ở vương quốc Gondor," vị phù thủy trả lời...* *" Pippin lại buồn ngủ và không mấy chú ý đến việc Gandalf kể cho ông nghe về phong tục của Gondor, và việc Chúa Thành phố đã xây dựng các đèn hiệu trên đỉnh những ngọn đồi xa xôi dọc theo cả hai biên giới của dãy núi lớn và duy trì các trạm gác ở những điểm này, nơi những con ngựa tươi tắn luôn sẵn sàng chở những người cưỡi ngựa đi làm việc vặt cho ông như thế nào tới Rohan ở miền Bắc, hoặc Belfalas ở miền Nam."* - The Return of the King
 
 *Southern Gondor: The Land* thể hiện các tỉnh ven biển của Gondor bằng màu sắc sống động và chi tiết. Con đường quê khiêm tốn và đường cao tốc nổi tiếng; sự rải rác của trang viên, thôn, làng, thị trấn qua đồi và thung lũng; bố trí các ngọn hải đăng, đồn gác, nơi trú ẩn và thành trì; sự lên xuống của nguy hiểm và phiêu lưu - tất cả đều góp phần tạo nên khu vực thú vị này.
 

@@ -75,7 +75,7 @@ Fang có nghĩa là "răng nanh" nhưng cũng là một động từ tiếng Anh
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Fang, cùng với <a href="../W/Wolf_(dog).md" title="Wolf (dog)">Wolf</a> và <a href="../G/Grip.md" title="Grip">Grip</a>, được tìm thấy bên cạnh <a href="Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> trong <a href="../B/Bamfurlong.md" title="Bamfurlong">Bamfurlong</a>. Những chú chó có thể được tương tác với nhau trong trò chơi "Chicken Play" và cũng là một phần của trò chơi nhỏ "Maggot's Mushroom Hunt" của lễ hội.</dd></dl>
 

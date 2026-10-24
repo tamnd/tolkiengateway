@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Ulmo](../U/Ulmo.md) gửi cảnh báo cuối cùng tới [Gondolin](../G/Gondolin.md), hiện chỉ còn lại cảnh báo đó; nhưng Vua [Turgon](../T/Turgon.md) thề sẽ không liên minh với bất kỳ [con trai nào của Fëanor](../S/Sons_of_Fëanor.md) sau [vụ giết người thân](../S/Second_Kinslaying.md) ở [Doriath](../D/Doriath.md).<sup id="cite_ref-Years_1-0" class="reference"><a href="#cite_note-Years-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [Maeglin](../M/Maeglin.md) bị [Orc](../O/Orcs.md) bắt trên đồi và đưa đến [Angband](../A/Angband.md).<sup id="cite_ref-Years_1-1" class="reference"><a href="#cite_note-Years-1">[1]</a></sup> Sau khi [Morgoth](../M/Morgoth.md) hứa Maeglin quyền lãnh chúa của Gondolin và sở hữu [Idril](../I/Idril.md), ông ta phản bội Thành Phố Ẩn Giấu để đến với [Chúa tể Bóng tối](../D/Dark_Lord.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [Maeglin](../M/Maeglin.md) bị [Orc](../O/Orcs.md) bắt trên đồi và đưa đến [Angband](../A/Angband.md).<sup id="cite_ref-Years_1-1" class="reference"><a href="#cite_note-Years-1">[1]</a></sup> Sau khi [Morgoth](../M/Morgoth.md) hứa Maeglin quyền lãnh chúa của Gondolin và sở hữu [Idril](../I/Idril.md), ông phản bội Thành Phố Ẩn Giấu để đến với [Chúa tể Bóng tối](../D/Dark_Lord.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

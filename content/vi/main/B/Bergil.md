@@ -55,7 +55,7 @@ infobox:
 
 Bergil sinh vào khoảng [T.A.](../T/Third_Age.md) [3009](../T/Third_Age_3009.md) và là con trai cả của [Beregond](Beregond.md) của [Gondor](../G/Gondor.md). Ông có ít nhất một người em trai, [Borlas](Borlas.md).
 
-Một cậu bé thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), cậu đã đi cùng [Pippin Took](../P/Peregrin_Took.md) khi lần đầu tiên cậu đến thành phố [Minas Tirith](../M/Minas_Tirith.md). Ông ta dẫn Pippin đến [Đại cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) để xem những người từ các tỉnh khác nhau của Gondor đang đến [Pelennor](../P/Pelennor.md) để tiếp viện cho thành phố trước [cuộc bao vây](../S/Siege_of_Gondor.md) sắp xảy ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một cậu bé thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), cậu đã đi cùng [Pippin Took](../P/Peregrin_Took.md) khi lần đầu tiên cậu đến thành phố [Minas Tirith](../M/Minas_Tirith.md). Ông dẫn Pippin đến [Đại cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md) để xem những người từ các tỉnh khác nhau của Gondor đang đến [Pelennor](../P/Pelennor.md) để tiếp viện cho thành phố trước [cuộc bao vây](../S/Siege_of_Gondor.md) sắp xảy ra.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Bergil đã phục vụ [Nhà chữa lành](../H/Houses_of_Healing.md) trong [Trận chiến trên Cánh đồng Pelennor](Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông đã tìm thấy *athelas* cho [Aragorn](../A/Aragorn.md), được sử dụng để chữa lành [Faramir](../F/Faramir.md), [Éowyn](../_/Éowyn.md) và [Meriadoc](../M/Meriadoc_Brandybuck.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -87,7 +87,7 @@ Bergil đã phục vụ [Nhà chữa lành](../H/Houses_of_Healing.md) trong [Tr
 
 <dl><dd>Giọng nói của Bergil được cung cấp bởi Viktor Petrov.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bergil được tìm thấy lần đầu tiên trước trận chiến <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, nơi anh và những người bạn của mình đưa người chơi tham gia một loạt cuộc phiêu lưu khắp thành phố. Sau <a class="mw-redirect" href="Battle_of_Pelennor_Fields.md" title="Battle of Pelennor Fields">Trận cánh đồng Pelennor</a>, anh và người chơi được giúp <a href="../I/Ioreth.md" title="Ioreth">Ioreth</a> tìm kiếm <i><a href="../A/Athelas.md" title="Athelas">athelas</a></i>.</dd></dl>
 

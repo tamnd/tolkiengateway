@@ -53,7 +53,7 @@ Người [Gondor](../G/Gondorians.md) có lẽ đã sử dụng tên gọi *Corm
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg/250px-The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg/375px-The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg/500px-The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Field of Cormallen in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hai phiên bản của Cánh đồng Cormallen tồn tại trong trò chơi. Trước <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Trận Morannon</a>, cánh đồng này là một trảng nguyên hoang sơ chỉ có thú hoang ở gần đó. Sau khi Nhẫn Chúa bị phá hủy, chiến trường trở nên nhộn nhịp với các hoạt động với đầy lều và đình nơi các chiến sĩ của Rohan và Gondor ăn mừng chiến thắng.</dd></dl>
 

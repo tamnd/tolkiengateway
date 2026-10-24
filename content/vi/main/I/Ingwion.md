@@ -67,7 +67,7 @@ Ingwion sinh ra tại [Cuiviénen](../C/Cuiviénen.md) trước [Đại Hành Tr
 
 Vài nghìn năm sau, ông đã dẫn dắt [Vanyar](../V/Vanyar.md) [Đạo quân Phương Tây](../H/Host_of_the_Valar.md) đến [Trung Địa](../M/Middle-earth.md) chiến đấu trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-Van_7-1" class="reference"><a href="#cite_note-Van-7">[6]</a></sup>
 
-Không có gì khác được biết về số phận của ông ta, trong hoặc sau chiến tranh.
+Không có gì khác được biết về số phận của ông, trong hoặc sau chiến tranh.
 
 ## Từ nguyên {#Etymology}
 
@@ -108,7 +108,7 @@ Theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) từ
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Mặc dù Ingwion không xuất hiện trong <i><a class="mw-redirect" href="../S/Silmarillion.md" title="Silmarillion">Silmarillion</a></i>đã xuất bản, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> đã kết luận rằng việc bỏ sót nhân vật này là do lỗi của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">ông ta bố</a>.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Mặc dù Ingwion không xuất hiện trong <i><a class="mw-redirect" href="../S/Silmarillion.md" title="Silmarillion">Silmarillion</a></i>đã xuất bản, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> đã kết luận rằng việc bỏ sót nhân vật này là do lỗi của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">ông bố</a>.</span>
 </li>
 <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Thông tin này đến từ <i>The Nature of Middle-earth</i>, từ một văn bản hẹn hò c. 1959, trong đó nhân vật Ingwion được gọi là <i>Ingwil</i>. Ở đó, ngoài việc là con trai của Ingwë và Ilwen, anh còn là anh trai của <a href="Indis.md" title="Indis">Indis</a>, vợ thứ hai của <a href="../F/Finwë.md" title="Finwë">Finwë</a> - mặc dù trong hầu hết các văn bản khác, cô được miêu tả là em gái của Ingwë hoặc cháu gái của anh. Trong văn bản đó, Ingwil còn có một người em khác không rõ tên.</span>
 </li>

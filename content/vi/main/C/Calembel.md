@@ -47,7 +47,7 @@ Vào [9 tháng 3](../_/9_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_A
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Calembel là trụ sở của Lãnh chúa <a href="../A/Angbor.md" title="Angbor">Angbor</a>, người được Thân vương <a href="../I/Imrahil.md" title="Imrahil">Imrahil</a> giao nhiệm vụ bảo vệ vùng đất khỏi bọn Corsairs của <a href="../U/Umbar.md" title="Umbar">Umbar</a> khi các Lãnh chúa khác của Gondor cưỡi ngựa đến bảo vệ <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. Quyết định đứng lên chống lại Corsairs ở <a href="../L/Linhir.md" title="Linhir">Linhir</a>, Angbor để con trai mình là Drambor phụ trách Calembel, nơi làm nơi ẩn náu cho cư dân của ngôi làng Lothgobel gần đó khi nó bị Corsairs tấn công.</dd></dl>
 

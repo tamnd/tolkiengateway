@@ -173,7 +173,7 @@ Bạn xử lý vấn đề văn học cấp hai ở các quốc gia khác nhau n
 - Sau khi chỉnh sửa Smith của Wootton Major, bạn thấy tác phẩm đó có liên quan như thế nào đến truyền thuyết?
 - Bạn xem The Hobbit liên quan đến The Lord of the Rings và huyền thoại "Silmarillion" như thế nào?
 - Đã có nhiều tranh luận giữa bạn và Tom Shippey về cách đọc và diễn giải Smith của Wootton Major tốt nhất. Theo ý kiến ​​của bạn, SoWM hoạt động như một câu chuyện ngụ ngôn tốt đến mức nào?
-- Trong một trích dẫn khá khó hiểu xuất hiện trong cáo phó Tolkien, Robert Murray gợi ý rằng sau khi Tolkien đưa cho ông ta bản sao Smith của Wootton Major, Tolkien đã nói, "Đây là một phản bác nhỏ đối với \[C.S.\] Lewis mà tôi đã viết" (The Tablet 879). Bạn nghĩ ông có ý gì khi nói điều này?
+- Trong một trích dẫn khá khó hiểu xuất hiện trong cáo phó Tolkien, Robert Murray gợi ý rằng sau khi Tolkien đưa cho ông bản sao Smith của Wootton Major, Tolkien đã nói, "Đây là một phản bác nhỏ đối với \[C.S.\] Lewis mà tôi đã viết" (The Tablet 879). Bạn nghĩ ông có ý gì khi nói điều này?
 - Làm việc trên Smith of Wootton Major như thế nào?
 - Bạn có cảm thấy Simth of Wootton Major cần được chú ý hơn không?
 - Bạn có viết cuốn sách mới nào về Tolkien không?

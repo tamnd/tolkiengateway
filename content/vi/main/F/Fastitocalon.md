@@ -34,9 +34,9 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pauline_Baynes_-_Fastitocalon_Chapterhead.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Pauline_Baynes_-_Fastitocalon_Chapterhead.jpeg/250px-Pauline_Baynes_-_Fastitocalon_Chapterhead.jpeg" decoding="async" loading="lazy" width="250" height="94" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7c/Pauline_Baynes_-_Fastitocalon_Chapterhead.jpeg 1.5x" data-file-width="274" data-file-height="103"/></a><figcaption>Fastitocalon - Illustration by <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></figcaption></figure>
 
-**Fastitocalon** là một con quái vật biển huyền thoại, dường như là con cuối cùng của [Cá Rùa](../T/Turtle-fish.md) hùng mạnh. Ông ta chỉ được nhắc đến trong câu [Hobbit](../H/Hobbits.md).<sup id="cite_ref-poem_1-0" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
+**Fastitocalon** là một con quái vật biển huyền thoại, dường như là con cuối cùng của [Cá Rùa](../T/Turtle-fish.md) hùng mạnh. Ông chỉ được nhắc đến trong câu [Hobbit](../H/Hobbits.md).<sup id="cite_ref-poem_1-0" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
 
-Fastitocalon có kích thước bằng một hòn đảo nhỏ và thảm thực vật thường mọc trên lưng ông ta khi không bị ngập nước, làm tăng thêm vẻ ngoài lừa dối của ông ta như một hòn đảo thực sự. Vì kích thước khổng lồ của nó, các thủy thủ đã lật ngửa nó và chỉ chết đuối khi nó lặn dưới nước.<sup id="cite_ref-poem_1-1" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
+Fastitocalon có kích thước bằng một hòn đảo nhỏ và thảm thực vật thường mọc trên lưng ông khi không bị ngập nước, làm tăng thêm vẻ ngoài lừa dối của ông như một hòn đảo thực sự. Vì kích thước khổng lồ của nó, các thủy thủ đã lật ngửa nó và chỉ chết đuối khi nó lặn dưới nước.<sup id="cite_ref-poem_1-1" class="reference"><a href="#cite_note-poem-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

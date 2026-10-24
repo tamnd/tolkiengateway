@@ -31,7 +31,7 @@ images:
 
 Đoạn kết bị lược bỏ cuối cùng đã được xuất bản trên *[Sauron Defeated](../S/Sauron_Defeated.md)*, kể câu chuyện về [Sam](../S/Samwise_Gamgee.md) và các con của ông vào năm 16 tuổi [Kỷ Đệ Tứ](../F/Fourth_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào thời điểm này, chỉ có tám trong số mười ba đứa con của Sam được sinh ra, [Daisy](../D/Daisy_Gardner.md) là đứa con út.
 
-Một đêm nọ, Sam tập hợp các con quanh đống lửa để kể cho chúng nghe về lá thư ông nhận được, từ Vua Elessar phương xa. Nó màu đen, chữ màu vàng và được bọc trong lụa. Trong thư, Elessar chào Samwise và các con của ông, đồng thời nói với họ rằng ông sẽ cưỡi ngựa đến [Miền Bắc](../F/Fornost_Erain.md). Ông sẽ gặp tất cả những người quan tâm trên [Cầu Baranduin](../B/Brandywine_Bridge.md). Ông ta sẽ không vào [vùng Shire](../T/The_Shire.md) vì bản thân ông ta đã cấm Con Người vào vùng đất Hobbit'.
+Một đêm nọ, Sam tập hợp các con quanh đống lửa để kể cho chúng nghe về lá thư ông nhận được, từ Vua Elessar phương xa. Nó màu đen, chữ màu vàng và được bọc trong lụa. Trong thư, Elessar chào Samwise và các con của ông, đồng thời nói với họ rằng ông sẽ cưỡi ngựa đến [Miền Bắc](../F/Fornost_Erain.md). Ông sẽ gặp tất cả những người quan tâm trên [Cầu Baranduin](../B/Brandywine_Bridge.md). Ông sẽ không vào [vùng Shire](../T/The_Shire.md) vì bản thân ông đã cấm Con Người vào vùng đất Hobbit'.
 
 ## Phiên bản {#Versions}
 

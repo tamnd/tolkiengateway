@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Sauron](Sauron.md) tìm cách dụ dỗ [Eldar](../E/Eldar.md). [Gil-galad](../G/Gil-galad.md) từ chối điều trị với ông ta; nhưng các thợ rèn của [Eregion](../E/Eregion.md) đã chiến thắng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Sauron](Sauron.md) tìm cách dụ dỗ [Eldar](../E/Eldar.md). [Gil-galad](../G/Gil-galad.md) từ chối điều trị với ông; nhưng các thợ rèn của [Eregion](../E/Eregion.md) đã chiến thắng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Bọn [người Númenor](../N/Númenóreans.md) bắt đầu tạo nơi trú ẩn vĩnh viễn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

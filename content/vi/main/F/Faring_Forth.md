@@ -75,7 +75,7 @@ Thay vì Faring Forth như được hình dung trong các văn bản trên, [Far
 
 #### Ælfwine và Ing {#Ælfwine_and_Ing}
 
-Phần còn lại của Tiên tộc, sau cuộc chiến với Con Người tà ác, đã chuyển đến Luthany, nơi được cai trị bởi một vị vua [Mannish](../M/Men.md) tên là [Ing](../I/Ing.md)<sup id="cite_ref-Ing_12-0" class="reference"><a href="#cite_note-Ing-12">[8]</a></sup> - ông ta, không giống như hầu hết Con Người khác, rất thân thiện với Tiên tộc, đó là lý do tại sao hầu hết Tiên tộc của các Vùng đất vĩ đại đều chuyển đến vùng đất của ông ta.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[9]</a></sup>
+Phần còn lại của Tiên tộc, sau cuộc chiến với Con Người tà ác, đã chuyển đến Luthany, nơi được cai trị bởi một vị vua [Mannish](../M/Men.md) tên là [Ing](../I/Ing.md)<sup id="cite_ref-Ing_12-0" class="reference"><a href="#cite_note-Ing-12">[8]</a></sup> - ông, không giống như hầu hết Con Người khác, rất thân thiện với Tiên tộc, đó là lý do tại sao hầu hết Tiên tộc của các Vùng đất vĩ đại đều chuyển đến vùng đất của ông.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[9]</a></sup>
 
 Tuy nhiên, sau sự biến mất của Ing và các cuộc xâm lược tiếp theo của Con Người không thân thiện, phần lớn Tiên tộc trên đảo đã chuyển đến Tol Eressëa.<sup id="cite_ref-Sec_14-0" class="reference"><a href="#cite_note-Sec-14">[10]</a></sup>
 

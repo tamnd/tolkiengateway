@@ -58,7 +58,7 @@ Asfaloth đã được Glorfindel cưỡi trong quá trình tìm kiếm [Aragorn
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trả lời câu hỏi của [Rhona Beare](../R/Rhona_Beare.md) năm 1958, Tolkien thừa nhận rằng Glorfindel sẽ không sử dụng dây cương và bit khi cưỡi Asfaloth; thay vào đó ông ta sẽ chỉ sử dụng một chiếc mũ trang trí có chùm lông, đồ trang sức và những chiếc chuông nhỏ. Anh đảm bảo với cô rằng anh sẽ đổi *bridle and bit* thành *headstall* trong các phiên bản sau, một sự thay đổi đã được thực hiện.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trả lời câu hỏi của [Rhona Beare](../R/Rhona_Beare.md) năm 1958, Tolkien thừa nhận rằng Glorfindel sẽ không sử dụng dây cương và bit khi cưỡi Asfaloth; thay vào đó ông sẽ chỉ sử dụng một chiếc mũ trang trí có chùm lông, đồ trang sức và những chiếc chuông nhỏ. Anh đảm bảo với cô rằng anh sẽ đổi *bridle and bit* thành *headstall* trong các phiên bản sau, một sự thay đổi đã được thực hiện.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -76,7 +76,7 @@ Trả lời câu hỏi của [Rhona Beare](../R/Rhona_Beare.md) năm 1958, Tolki
 
 <dl><dd>Asfaloth là con ngựa của Glorfindel. Ông gửi nó để mang Frodo tới Rivendell.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Với Glorfindel được thêm vào, Asfaloth giờ đây là ngựa của Glorfindel khi được cưỡi. Con ngựa của Arwen, cũng màu trắng, không có tên.</dd></dl>
 

@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Gondolin](../G/Gondolin.md) đã hoàn thành và [Turgon](../T/Turgon.md) bí mật loại bỏ người của mình khỏi [Nevrast](../N/Nevrast.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Trước khi [Turgon](../T/Turgon.md) rời đi [Vinyamar](../V/Vinyamar.md), [Ulmo](../U/Ulmo.md) đến gặp anh và hướng dẫn Turgon bỏ lại áo giáp và một thanh kiếm. Chúng sẽ được [một chiến binh tương lai](../T/Tuor.md) đeo như một biểu tượng để cảnh báo ông ta về Ngày tận thế sắp xảy ra.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Trước khi [Turgon](../T/Turgon.md) rời đi [Vinyamar](../V/Vinyamar.md), [Ulmo](../U/Ulmo.md) đến gặp anh và hướng dẫn Turgon bỏ lại áo giáp và một thanh kiếm. Chúng sẽ được [một chiến binh tương lai](../T/Tuor.md) đeo như một biểu tượng để cảnh báo ông về Ngày tận thế sắp xảy ra.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

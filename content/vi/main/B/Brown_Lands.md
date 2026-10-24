@@ -63,7 +63,7 @@ Ngay cả vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), khi [Đoàn Hộ Nh�
 		</li>
 </ul>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một phần của Brown Lands có thể truy cập được trên Anduin từ <a href="../F/Field_of_Celebrant.md" title="Field of Celebrant">Cánh đồng Celebrant</a>, nơi lưu trữ các trại của <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> chuẩn bị tấn công <a class="mw-redirect" href="../W/Wold.md" title="Wold">Wold</a>. Nó chứa Khu vườn Entwives, bị bỏ hoang và hoang tàn từ lâu.</dd></dl>
 

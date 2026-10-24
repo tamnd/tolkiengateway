@@ -827,7 +827,7 @@ Thay vào đó, sự xuất hiện của Marach ở Beleriand được ghi là 3
 
 ### Y.S. 402 {#Y.S._402}
 
-Trận chiến này chỉ được tham chiếu trong Grey Annals chứ không phải trong bất kỳ tài liệu nào được viết sau khi Tolkien đẩy lùi sự xuất hiện của Con Người trong Beleriand về 310, điều này đã sửa đổi hầu hết các mục Grey Annals' liên quan đến Con Người trước Dagor Bragollach. Nhiều đặc điểm của biên niên sử này tạo ra sự khác biệt với các phiên bản sau này. Bëor đã tham gia trận chiến này hai năm sau khi người của ông ta tiến vào Beleriand vào năm 400, và 18 năm trước khi các gia tộc khác của Edain đến vào năm 420, trong khi ở niên đại muộn hơn, tất cả Edain đã cư trú tại Beleriand ít nhất 89 năm và Bëor sẽ chết trước đó 47 năm. Điều này không nhất thiết có nghĩa là Tolkien không có ý định đưa sự kiện này vào phiên bản cuối cùng của mình, nhưng nếu ông làm vậy thì không có dấu hiệu nào cho thấy sự kiện có thể đã được chuyển sang năm nào hoặc những con số nào có thể có liên quan.
+Trận chiến này chỉ được tham chiếu trong Grey Annals chứ không phải trong bất kỳ tài liệu nào được viết sau khi Tolkien đẩy lùi sự xuất hiện của Con Người trong Beleriand về 310, điều này đã sửa đổi hầu hết các mục Grey Annals' liên quan đến Con Người trước Dagor Bragollach. Nhiều đặc điểm của biên niên sử này tạo ra sự khác biệt với các phiên bản sau này. Bëor đã tham gia trận chiến này hai năm sau khi người của ông tiến vào Beleriand vào năm 400, và 18 năm trước khi các gia tộc khác của Edain đến vào năm 420, trong khi ở niên đại muộn hơn, tất cả Edain đã cư trú tại Beleriand ít nhất 89 năm và Bëor sẽ chết trước đó 47 năm. Điều này không nhất thiết có nghĩa là Tolkien không có ý định đưa sự kiện này vào phiên bản cuối cùng của mình, nhưng nếu ông làm vậy thì không có dấu hiệu nào cho thấy sự kiện có thể đã được chuyển sang năm nào hoặc những con số nào có thể có liên quan.
 
 ### Y.S. 422 {#Y.S._422}
 
@@ -835,7 +835,7 @@ Biên niên sử này tạo ra sự khác biệt với niên đại hậu-Grey A
 
 ### Y.S. 456 và Y.S. 473 {#Y.S._456_and_Y.S._473}
 
-Tuyên bố Gil-galad được gửi đến Cảng vào năm 456 được viết khi Tolkien được coi Gil-galad là con trai của Fingon. Khi Tolkien coi Gil-galad là con trai của Finrod Felagund, ông ta đã vội vàng ghi chú rằng Gil-galad đã bị đuổi đi khi Finrod rời khỏi Nargothrond cùng với Beren, hoặc khi Orodreth trục xuất Celegorm và Curufin khỏi Nargothrond.<sup id="cite_ref-WJ15_281-0" class="reference"><a href="#cite_note-WJ15-281">[32]</a></sup> Trong cả hai trường hợp, mẹ của Gil-galad đều đi cùng ông ta. Trong "Lời cuối cùng về chủ đề" của Tolkien, trong đó Gil-galad là con trai của Orodreth và anh trai của Finduilas, ông ta chỉ viết rằng "Gil-galad đã trốn thoát và cuối cùng đến miệng của Sirion".<sup id="cite_ref-282" class="reference"><a href="#cite_note-282">[13.3]</a></sup>
+Tuyên bố Gil-galad được gửi đến Cảng vào năm 456 được viết khi Tolkien được coi Gil-galad là con trai của Fingon. Khi Tolkien coi Gil-galad là con trai của Finrod Felagund, ông đã vội vàng ghi chú rằng Gil-galad đã bị đuổi đi khi Finrod rời khỏi Nargothrond cùng với Beren, hoặc khi Orodreth trục xuất Celegorm và Curufin khỏi Nargothrond.<sup id="cite_ref-WJ15_281-0" class="reference"><a href="#cite_note-WJ15-281">[32]</a></sup> Trong cả hai trường hợp, mẹ của Gil-galad đều đi cùng ông. Trong "Lời cuối cùng về chủ đề" của Tolkien, trong đó Gil-galad là con trai của Orodreth và anh trai của Finduilas, ông chỉ viết rằng "Gil-galad đã trốn thoát và cuối cùng đến miệng của Sirion".<sup id="cite_ref-282" class="reference"><a href="#cite_note-282">[13.3]</a></sup>
 
 Tương tự, Gil-galad chỉ được mô tả là du hành cùng Cirdan tới Đảo Balar sau Sự sụp đổ của Falas trong phiên bản *Silmarillion* đã xuất bản của đoạn văn liên quan.
 
@@ -849,9 +849,9 @@ Trong *Grey Annals*, chính [Blodren](../B/Blodren.md) là người phản bội
 
 ### Y.S. 502 {#Y.S._502}
 
-Trong phiên bản cuối cùng của *The Tale of Years*,<sup id="cite_ref-VD_255-1" class="reference"><a href="#cite_note-VD-255">[25]</a></sup> Húrin lấy kho báu từ Nargothrond đến Menegroth ở Y.S. 501, dựa trên hầu hết các phiên bản của câu chuyện, Mím cũng bị giết vào năm đó. Tuy nhiên *Wanderings of Hurin* thể hiện rõ ràng ở chỗ cái chết của Mím xảy ra vào năm Y.S. 502, điều này cho thấy rằng đó cũng là năm Húrin và người của ông ta đã giành được kho báu Nargothrond, tương đương với việc thu được Nauglamír trong phiên bản *Silmarillion* đã xuất bản. Do đó, việc đúc kho báu dưới chân Thingol cũng sẽ phải diễn ra ở Y.S. 502.
+Trong phiên bản cuối cùng của *The Tale of Years*,<sup id="cite_ref-VD_255-1" class="reference"><a href="#cite_note-VD-255">[25]</a></sup> Húrin lấy kho báu từ Nargothrond đến Menegroth ở Y.S. 501, dựa trên hầu hết các phiên bản của câu chuyện, Mím cũng bị giết vào năm đó. Tuy nhiên *Wanderings of Hurin* thể hiện rõ ràng ở chỗ cái chết của Mím xảy ra vào năm Y.S. 502, điều này cho thấy rằng đó cũng là năm Húrin và người của ông đã giành được kho báu Nargothrond, tương đương với việc thu được Nauglamír trong phiên bản *Silmarillion* đã xuất bản. Do đó, việc đúc kho báu dưới chân Thingol cũng sẽ phải diễn ra ở Y.S. 502.
 
-Phiên bản tương tự của *The Tale of Years* đặt cái chết của Thingol vào Y.S. 503, năm xảy ra cuộc xâm lược Doriath của Người Lùn. Trong *Silmarillion* được xuất bản, cái chết của Thingol trùng hợp với cuộc cãi vã của ông ta với Người Lùn, mà *The Tale of Years* đặt trong Y.S. 502.
+Phiên bản tương tự của *The Tale of Years* đặt cái chết của Thingol vào Y.S. 503, năm xảy ra cuộc xâm lược Doriath của Người Lùn. Trong *Silmarillion* được xuất bản, cái chết của Thingol trùng hợp với cuộc cãi vã của ông với Người Lùn, mà *The Tale of Years* đặt trong Y.S. 502.
 
 ### Y.S. 503 {#Y.S._503}
 

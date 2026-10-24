@@ -70,7 +70,7 @@ Carl có lẽ được đặt theo tên tổ tiên của ông, [Carl, con trai c
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Carl_Cotton.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/29/The_Lord_of_the_Rings_Online_-_Carl_Cotton.jpg/120px-The_Lord_of_the_Rings_Online_-_Carl_Cotton.jpg" decoding="async" loading="lazy" width="120" height="207" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/29/The_Lord_of_the_Rings_Online_-_Carl_Cotton.jpg/180px-The_Lord_of_the_Rings_Online_-_Carl_Cotton.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/29/The_Lord_of_the_Rings_Online_-_Carl_Cotton.jpg/240px-The_Lord_of_the_Rings_Online_-_Carl_Cotton.jpg 2x" data-file-width="360" data-file-height="620"/></a><figcaption>Nibs Cotton in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nibs Cotton chỉ xuất hiện tại trang trại của gia đình anh trong Lễ hội mùa xuân hàng năm, trong thời gian đó anh tham gia vào một nhiệm vụ trong lễ hội. Ông có một con mèo cưng tên là Waldy.</dd></dl>
 

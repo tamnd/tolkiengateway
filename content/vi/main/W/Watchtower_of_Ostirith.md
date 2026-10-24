@@ -51,7 +51,7 @@ Một thời gian sau [Chiến tranh Beleriand](Wars_of_Beleriand.md), một đ�
 
 Vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), quân Tiên tộc đóng tại Ostirith đã bị một nhóm [Orc](../O/Orcs.md) hoạt động trong [Southlands](../M/Mordor.md) của [Trung Địa](../M/Middle-earth.md) bắt giữ. Cùng lúc đó, [Bronwyn](../B/Bronwyn.md) dẫn dân làng [Tirharad](../T/Tirharad.md) tìm nơi trú ẩn tại tòa tháp. Nhiều người tị nạn khác cũng chạy trốn đến đó, chẳng hạn như dân làng [Iorbad](../I/Iorbad.md).
 
-Cuối cùng, Arondir được thả ra khỏi trại Orc theo sự cho phép của thủ lĩnh Orc, [Adar](../A/Adar.md), để yêu cầu [Con Người](../M/Men.md) tại Tháp Canh thề trung thành với ông ta hoặc rời khỏi Southlands.
+Cuối cùng, Arondir được thả ra khỏi trại Orc theo sự cho phép của thủ lĩnh Orc, [Adar](../A/Adar.md), để yêu cầu [Con Người](../M/Men.md) tại Tháp Canh thề trung thành với ông hoặc rời khỏi Southlands.
 
 Khi Arondir gửi thông điệp, một số dân làng, bao gồm [Rowan](<../R/Rowan_(The_Rings_of_Power).md>) và [Waldreg](Waldreg.md), rời khỏi Tháp Canh cũ để quỳ gối trước Adar. Những dân làng còn lại dưới quyền Bronwyn lên kế hoạch chiến đấu khi Orc chắc chắn sẽ đến tấn công họ.
 

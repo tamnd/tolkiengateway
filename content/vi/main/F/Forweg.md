@@ -47,7 +47,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Anh rời bỏ chiến trường [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) ("Trận chiến không nước mắt") và chạy trốn vào miền Nam sống ngoài vòng pháp luật. Ông ta trở thành thủ lĩnh của [Gaurwaith](../G/Gaurwaith.md), một ban nhạc ngoài vòng pháp luật và cho phép [Túrin Turambar](../T/Túrin.md) tham gia cùng họ sau khi Túrin rời đi [Doriath](../D/Doriath.md).
+Anh rời bỏ chiến trường [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) ("Trận chiến không nước mắt") và chạy trốn vào miền Nam sống ngoài vòng pháp luật. Ông trở thành thủ lĩnh của [Gaurwaith](../G/Gaurwaith.md), một ban nhạc ngoài vòng pháp luật và cho phép [Túrin Turambar](../T/Túrin.md) tham gia cùng họ sau khi Túrin rời đi [Doriath](../D/Doriath.md).
 
 Một ngày mùa xuân năm sau khi Túrin trở thành thành viên của Gaurwaith, Forweg và [Andróg](../A/Andróg.md) biến mất khỏi trại của họ. Bực tức trước trại tồi tàn của bọn ngoài vòng pháp luật Túrin lang thang vào rừng. Đột nhiên anh nhìn thấy một phụ nữ trẻ sợ hãi chạy ra khỏi bụi cây phỉ và ngã xuống đất. Túrin rút kiếm và giết chết một trong những kẻ truy đuổi cô, hóa ra là Forweg. Túrin sau đó quay trở lại với những kẻ sống ngoài vòng pháp luật khác và giành lấy băng đội trưởng mà họ đã gia nhập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -81,11 +81,11 @@ Sự kiện xảy ra vào ngày 11 tháng 10
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg/300px-Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg" decoding="async" loading="lazy" width="300" height="207" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg/450px-Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg 1.5x, https://tolkiengateway.net/w/images/6/65/Ted_Nasmith_-_Fifth_Day_After_Weathertop.jpg 2x" data-file-width="530" data-file-height="366"/></a><figcaption><i>Fifth Day After Weathertop</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - Tại [Vinyamar](../V/Vinyamar.md), [Ulmo](../U/Ulmo.md) nói chuyện với [Tuor](../T/Tuor.md) và hướng dẫn ông ta đến [Gondolin](../G/Gondolin.md) để gửi tin nhắn cho [Turgon](../T/Turgon.md).
+    - Tại [Vinyamar](../V/Vinyamar.md), [Ulmo](../U/Ulmo.md) nói chuyện với [Tuor](../T/Tuor.md) và hướng dẫn ông đến [Gondolin](../G/Gondolin.md) để gửi tin nhắn cho [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
-    - [Glorfindel](../G/Glorfindel.md) xua đuổi ba [Kỵ sĩ](../N/Nazgûl.md) rời khỏi [Cây Cầu Cuối Cùng](../L/Last_Bridge.md) [Mitheithel](../M/Mitheithel.md) và truy đuổi họ về phía tây. Anh gặp hai người khác đang chạy trốn về phía nam. Ông ta để lại một viên beryl trên Cầu. Ông ta bắt đầu tìm kiếm những du khách.
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông ta vào [Weathertop](../W/Weathertop.md).
+    - [Glorfindel](../G/Glorfindel.md) xua đuổi ba [Kỵ sĩ](../N/Nazgûl.md) rời khỏi [Cây Cầu Cuối Cùng](../L/Last_Bridge.md) [Mitheithel](../M/Mitheithel.md) và truy đuổi họ về phía tây. Anh gặp hai người khác đang chạy trốn về phía nam. Ông để lại một viên beryl trên Cầu. Ông bắt đầu tìm kiếm những du khách.
+    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông vào [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
     - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

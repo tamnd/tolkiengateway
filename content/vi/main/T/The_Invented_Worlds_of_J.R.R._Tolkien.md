@@ -56,7 +56,7 @@ infobox:
 - Minh họa - Isengard & Orthanc.
 - Trang bản thảo - bao gồm bản phác thảo sớm nhất về dòng chữ và dấu hiệu trên Cánh cửa Durin.
 - Trang bản thảo - Bài thơ Chiếc nhẫn bằng nét chữ đặc trưng của Tolkien, và cả bằng chữ tengwar.
-- Minh họa - Một trang của Mr. Bliss - Thế là ở ngã rẽ tiếp theo ông ta rẽ ngoặt sang phải và đâm thẳng vào Mr.Day.
+- Minh họa - Một trang của Mr. Bliss - Thế là ở ngã rẽ tiếp theo ông rẽ ngoặt sang phải và đâm thẳng vào Mr.Day.
 - Trang bản thảo - bao gồm sơ đồ Minas Tirith và sơ đồ địa hình của thành phố và các ngọn núi xung quanh.
 - Minh họa - Một [thư mật từ Tolkien gửi Cha Francis Morgan](../L/Letter_to_Father_Francis_Morgan.md).
 - Minh họa - Tranh hang động từ Những bức thư Giáng sinh của Cha.

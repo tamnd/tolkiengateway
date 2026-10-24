@@ -28,7 +28,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Caras Gaer đóng vai trò là nơi dàn dựng cho các âm mưu của Bóng tối Pháp sư trong [Trung Địa](../M/Middle-earth.md). Từ đây ông ta ra lệnh cho [Gaudrim](../G/Gaudrim.md) và [Mystics](../M/Mystics.md) chặn và bắt giữ [The Stranger](../T/The_Stranger.md).
+Caras Gaer đóng vai trò là nơi dàn dựng cho các âm mưu của Bóng tối Pháp sư trong [Trung Địa](../M/Middle-earth.md). Từ đây ông ra lệnh cho [Gaudrim](../G/Gaudrim.md) và [Mystics](../M/Mystics.md) chặn và bắt giữ [The Stranger](../T/The_Stranger.md).
 
 ## Từ nguyên {#Etymology}
 

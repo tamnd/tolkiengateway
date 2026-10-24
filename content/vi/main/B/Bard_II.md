@@ -82,7 +82,7 @@ Khi có tin từ phía nam về việc [Sauron](../S/Sauron.md) bị phá hủy,
 		</li>
 </ul>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vua Bard II có thể được tìm thấy trong Great-keep of <a href="../D/Dale.md" title="Dale">Dale</a>. Ông vẫn còn là một cậu bé và cai trị với sự giúp đỡ của mẹ mình, Nữ hoàng Nhiếp chính Erna. Ông có một em trai, Thân vương Bryn.</dd></dl>
 

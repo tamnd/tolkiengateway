@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Với sự trợ giúp của [Ulmo](../U/Ulmo.md), [Turgon](../T/Turgon.md) đi lên [Sirion](../S/Sirion.md) và khám phá thung lũng ẩn giấu của [Tumladen](../T/Tumladen.md). Ông ta dự định tạo ra thành phố [Gondolin](../G/Gondolin.md), một thành phố tương tự như [Tirion](../T/Tirion.md) trên [Túna](../T/Túna.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Với sự trợ giúp của [Ulmo](../U/Ulmo.md), [Turgon](../T/Turgon.md) đi lên [Sirion](../S/Sirion.md) và khám phá thung lũng ẩn giấu của [Tumladen](../T/Tumladen.md). Ông dự định tạo ra thành phố [Gondolin](../G/Gondolin.md), một thành phố tương tự như [Tirion](../T/Tirion.md) trên [Túna](../T/Túna.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

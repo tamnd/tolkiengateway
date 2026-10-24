@@ -25,7 +25,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, &#34;The House of Eorl&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Snow-troll** là thuật ngữ dùng để mô tả [Vua](../K/King_of_Rohan.md) [Helm](../H/Helm.md) của [Rohan](../R/Rohan.md) khi ông ta lẻn vào trại của kẻ thù của mình ở [T.A.](../T/Third_Age.md) [2759](../T/Third_Age_2759.md) trong cuộc vây hãm [Suthburg](../H/Hornburg.md) ở [Mùa Đông Dài](../L/Long_Winter.md).<sup id="cite_ref-appendix_1-0" class="reference"><a href="#cite_note-appendix-1">[1]</a></sup>
+**Snow-troll** là thuật ngữ dùng để mô tả [Vua](../K/King_of_Rohan.md) [Helm](../H/Helm.md) của [Rohan](../R/Rohan.md) khi ông lẻn vào trại của kẻ thù của mình ở [T.A.](../T/Third_Age.md) [2759](../T/Third_Age_2759.md) trong cuộc vây hãm [Suthburg](../H/Hornburg.md) ở [Mùa Đông Dài](../L/Long_Winter.md).<sup id="cite_ref-appendix_1-0" class="reference"><a href="#cite_note-appendix-1">[1]</a></sup>
 
 Không có tài liệu tham khảo nào khác được biết đến về thuật ngữ quỷ tuyết trong các tác phẩm của J.R.R. Tolkien, vì vậy không thể biết liệu chúng có tồn tại trong [Arda](../A/Arda.md) hay không, ngay cả dưới dạng văn hóa dân gian. Đoạn văn trong đó thuật ngữ xuất hiện được ghi chú là đoạn trích từ một trong [nguồn](../../category/B/Books_and_documents_within_the_legendarium.md) bao gồm [Shire bản ghi](../R/Red_Book_of_Westmarch.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
 
@@ -61,11 +61,11 @@ Không có tài liệu tham khảo nào khác được biết đến về thuậ
 
 <dl><dd>Tuyết Troll là những sinh vật lớn (cao 10-12 ft), màu trắng xám và quý hiếm, săn mồi ở <a href="../N/Northern_Waste.md" title="Northern Waste">các vùng phía bắc</a> của Trung Địa. Chúng biến thành những cột xỉ băng giá nếu tiếp xúc với Mặt Trời.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: Trận chiến vì Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: The Battle for Middle-earth II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
 
 <dl><dd>Snow Troll là đơn vị có thể chơi được trong phe <a href="../A/Angmar.md" title="Angmar">Angmar</a>. Họ là một trong những đơn vị mạnh nhất, không chỉ trong phe đó mà còn trong toàn bộ trò chơi. Họ được trang bị cuốc, mũ bảo hiểm và khiên nhỏ. Quỷ tuyết cũng có thể được sử dụng trong phần <i>Create-a-hero</i>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Trực tuyến: Bóng tối của Angmar</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Online: Bóng tối của Angmar</a></i>:</b>
 
 <dl><dd>Một con Quỷ Tuyết đã chiến đấu trong đội quân của <a href="Skorgrím_Dourhand.md" title="Skorgrím Dourhand">Skorgrím Dourhand</a> trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Battle_of_Edhelion&amp;action=edit&amp;redlink=1" title="Battle of Edhelion (page does not exist)">Trận chiến Edhelion</a>. Ông phá hủy cổng thành và cố gắng giết <a href="../D/Dorongúr_Whitethorn.md" title="Dorongúr Whitethorn">Dorongúr Whitethorn</a> và người chơi, nhưng đã bị <a href="../E/Elrond.md" title="Elrond">Elrond</a> giết chết trước khi ông có thể hoàn thành nỗ lực của mình.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup> Những con quỷ lùn tuyết khác được tìm thấy ở vùng <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>.</dd></dl>
 

@@ -64,7 +64,7 @@ Có thể những sinh vật này có liên quan đến họ dế Gryllidae.<sup
 
 <dl><dd>Trong bộ bài có tên <i>The Nîn-in-Eilph</i>, "Neekerbreekers" là tên của một lá bài kẻ thù có thể khiến người chơi gây hai sát thương cho đồng minh bị điều khiển nếu sử dụng.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><a class="external text" href="https://lotro-wiki.com/wiki/Neekerbreekers" rel="noreferrer noopener" target="_blank">Neekerbreekers</a> xuất hiện ở nhiều địa điểm trên khắp <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>. Trong khi hầu hết đều tỏ ra thù địch, một Neekerbreeker tên <a class="external text" href="https://lotro-wiki.com/wiki/Sniken" rel="noreferrer noopener" target="_blank">Sniken</a> đã bị <a href="../B/Bree-landers.md" title="Bree-landers">Bree-lander</a> tên là <a class="external text" href="https://lotro-wiki.com/wiki/Roderick_Neeker-friend" rel="noreferrer noopener" target="_blank">Roderik Neeker-friend</a> bắt làm thú cưng. Roderick <a class="external text" href="https://lotro-wiki.com/wiki/Quest:Neeker-friend" rel="noreferrer noopener" target="_blank">giao nhiệm vụ</a> cho nhân vật người chơi đi săn cánh liềm để cung cấp thức ăn cho Sniken. Khi Roderick cố gắng cho Snicken ăn đôi cánh, tay của ông gần như bị cố ý cắn đứt.</dd></dl>
 

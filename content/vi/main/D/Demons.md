@@ -37,7 +37,7 @@ Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu c�
 
 <dl><dd>Có sự phân biệt giữa "quỷ sống" và "quỷ địa điểm". Loại trước có một cơ thể và bao gồm những sinh vật nhỏ hơn và lớn hơn Balrog, <i>Helegrogs</i> ("quỷ băng") và <i>Dindair</i> ("bóng im lặng", ác quỷ bóng tối). Ác quỷ địa điểm (<i>bandúrhoth</i>, "người của nhà tù bóng tối") là vô hình và "<i>cannot be physically battled</i>", một ví dụ là Caradhras Kẻ tàn ác.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><i>Regmyl</i> (hát. <i>Rogmul</i>) là những linh hồn quỷ lửa, được triệu tập theo ý muốn của một Balrog.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 

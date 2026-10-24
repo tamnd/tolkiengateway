@@ -278,7 +278,7 @@ Trong một bản thảo về niên đại được viết năm [1959](../_/1959
 
 <dl><dd>Gil-galad xuất hiện thoáng qua ở cấp độ đầu tiên của trò chơi với tư cách là một nhân vật không thể chơi được, nơi ông có nét giống <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> của <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">đối tác trong phim</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gil-galad xuất hiện trong một số đoạn hồi tưởng mô tả <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">Cuộc chiến của Liên minh Cuối cùng</a>. Số phận cuối cùng của ông trong sách chính xác hơn so với phiên bản điện ảnh, cho thấy <a href="../E/Elendil.md" title="Elendil">Elendil</a> và Gil-galad đều chiến đấu và đánh bại Sauron bằng cái giá là mạng sống của họ.</dd></dl>
 

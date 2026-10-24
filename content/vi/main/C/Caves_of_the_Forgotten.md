@@ -47,7 +47,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Bị quyến rũ bởi [Sauron](../S/Sauron.md), [Vua của Númenor](../K/King_of_Númenor.md), [Ar-Pharazôn](../A/Ar-Pharazôn.md) bị thuyết phục rằng ông ta có quyền chiếm lấy vùng đất của [Aman](../A/Aman.md) từ chính [Valar](../V/Valar.md). Ông ta lên đường cùng với một [hạm đội lớn](../G/Great_Armament.md), đổ bộ lên Cõi Thiêng và một đội quân người Númenor cắm trại gần ngọn đồi [Túna](../T/Túna.md) ở [Calacirya](Calacirya.md) của [Pelóri Dãy Núi](../P/Pelóri.md).<sup id="cite_ref-Akallabeth_1-1" class="reference"><a href="#cite_note-Akallabeth-1">[1]</a></sup>
+Bị quyến rũ bởi [Sauron](../S/Sauron.md), [Vua của Númenor](../K/King_of_Númenor.md), [Ar-Pharazôn](../A/Ar-Pharazôn.md) bị thuyết phục rằng ông có quyền chiếm lấy vùng đất của [Aman](../A/Aman.md) từ chính [Valar](../V/Valar.md). Ông lên đường cùng với một [hạm đội lớn](../G/Great_Armament.md), đổ bộ lên Cõi Thiêng và một đội quân người Númenor cắm trại gần ngọn đồi [Túna](../T/Túna.md) ở [Calacirya](Calacirya.md) của [Pelóri Dãy Núi](../P/Pelóri.md).<sup id="cite_ref-Akallabeth_1-1" class="reference"><a href="#cite_note-Akallabeth-1">[1]</a></sup>
 
 Lúc đó [Manwë](../M/Manwë.md), Elder Vua, đã từ bỏ quyền lực của mình đối với [Arda](../A/Arda.md) và kêu gọi [Ilúvatar](../I/Ilúvatar.md), người sau đó [đã phá vỡ thế giới](Changing_of_the_World.md). Hạm đội của họ và thậm chí cả [hòn đảo](../E/Elenna.md) quê hương của họ đã rơi vào một vực thẳm mở ra giữa [Númenor](../N/Númenor.md) và Vương quốc Phước lành.<sup id="cite_ref-Akallabeth_1-2" class="reference"><a href="#cite_note-Akallabeth-1">[1]</a></sup>
 

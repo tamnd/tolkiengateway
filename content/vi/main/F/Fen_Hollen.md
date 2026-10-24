@@ -31,7 +31,7 @@ images:
 
 Được canh giữ bởi một người khuân vác, cánh cửa còn được gọi là **Cửa đóng** vì nó chỉ mở cho đám tang hoặc cho những người trông coi lăng mộ và có mã thông báo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào khoảng thời gian [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [Beregond](../B/Beregond.md) đã giết người khuân vác để cứu [Faramir](Faramir.md) bị thương và lấy chìa khóa của ông ta. Sau khi khóa Cửa lại, [Gandalf](../G/Gandalf.md) đưa chìa khóa cho người bị thương [Faramir](Faramir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào khoảng thời gian [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [Beregond](../B/Beregond.md) đã giết người khuân vác để cứu [Faramir](Faramir.md) bị thương và lấy chìa khóa của ông. Sau khi khóa Cửa lại, [Gandalf](../G/Gandalf.md) đưa chìa khóa cho người bị thương [Faramir](Faramir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -39,7 +39,7 @@ Vào khoảng thời gian [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [B
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Fen Hollen bị đóng trong phiên bản trước trận chiến của Minas Tirith. Sau trận chiến, cánh cửa dẫn vào Phố Im lặng để tang được mở ra.</dd></dl>
 

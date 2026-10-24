@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Mùa thu {#Autumn}
 
-- [Vua](../K/Kings_of_Arthedain.md) [Arvedui](../A/Arvedui.md) của [Arthedain](../A/Arthedain.md) gửi tin tới [Vua](../K/Kings_of_Gondor.md) [Eärnil II](../E/Eärnil_II.md) của [Gondor](../G/Gondor.md) rằng họ đang đấu tranh chống lại mối đe dọa của [Angmar](../A/Angmar.md). Eärnil gửi một hạm đội về phía bắc mang theo con trai ông ta [Eärnur](../E/Eärnur.md) cùng một đội quân.<sup id="cite_ref-AppA_1-0" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
+- [Vua](../K/Kings_of_Arthedain.md) [Arvedui](../A/Arvedui.md) của [Arthedain](../A/Arthedain.md) gửi tin tới [Vua](../K/Kings_of_Gondor.md) [Eärnil II](../E/Eärnil_II.md) của [Gondor](../G/Gondor.md) rằng họ đang đấu tranh chống lại mối đe dọa của [Angmar](../A/Angmar.md). Eärnil gửi một hạm đội về phía bắc mang theo con trai ông [Eärnur](../E/Eärnur.md) cùng một đội quân.<sup id="cite_ref-AppA_1-0" class="reference"><a href="#cite_note-AppA-1">[1]</a></sup>
 
 <span></span>
 

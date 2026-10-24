@@ -77,4 +77,4 @@ Sự kiện xảy ra vào ngày 24 tháng 1.
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
-    - [Gollum](../G/Gollum.md) bị [Uglúk](../U/Uglúk.md) bắt giữ. Ông ta sau đó đã trốn thoát. [Saruman](../S/Saruman.md) gửi quân tiếp viện đến Uglúk; quân của ông ta bây giờ mạnh khoảng 180 người.
+    - [Gollum](../G/Gollum.md) bị [Uglúk](../U/Uglúk.md) bắt giữ. Ông sau đó đã trốn thoát. [Saruman](../S/Saruman.md) gửi quân tiếp viện đến Uglúk; quân của ông bây giờ mạnh khoảng 180 người.

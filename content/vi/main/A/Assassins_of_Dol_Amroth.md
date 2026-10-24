@@ -47,7 +47,7 @@ infobox:
 
 Ba cuộc phiêu lưu ở cấp độ thấp đến trung bình, mỗi cuộc phiêu lưu có thể tự đứng vững và có thể được thiết lập trong vài phút.
 
-Một hiệp sĩ nổi tiếng đã bị giết trên bến cảng Dol Amroth ngay trước mắt bạn. Kẻ tấn công ông ta, một người đàn ông cao lớn mặc áo choàng màu xám, chạy trốn vào nhà kho bỏ hoang sau lưng ông ta. Bạn có đủ dũng cảm để trả thù cho Vụ án giết người trên bến tàu không?
+Một hiệp sĩ nổi tiếng đã bị giết trên bến cảng Dol Amroth ngay trước mắt bạn. Kẻ tấn công ông, một người đàn ông cao lớn mặc áo choàng màu xám, chạy trốn vào nhà kho bỏ hoang sau lưng ông. Bạn có đủ dũng cảm để trả thù cho Vụ án giết người trên bến tàu không?
 
 Những tên cướp mặc áo choàng xám bí ẩn đuổi theo bạn qua những con đường nông thôn đến cổng của một trang viên hoang vắng. Nhưng nó có bị bỏ hoang không? Một chiến binh ma quái với một đàn chó săn và một thanh kiếm cổ xưa bước đi trong các sảnh đầy mạng nhện. Bạn có thể sống sót qua những nguy hiểm của A Home bằng Biển không?
 

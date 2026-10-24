@@ -73,7 +73,7 @@ Cuốn sách ban đầu được minh họa bởi [Pauline Baynes](../P/Pauline_
 
 ## Tổng quan {#Overview}
 
-Cuốn sách bắt đầu như một nỗ lực nhằm giải thích ý nghĩa của [Thần tiên](../F/Faery.md) bằng câu chuyện về một người đầu bếp và chiếc bánh của ông ta, và Tolkien ban đầu nghĩ sẽ gọi nó là *The Great Cake*. Nó được dự định là một phần lời tựa của Tolkien cho câu chuyện cổ tích nổi tiếng của [George MacDonald](../G/George_MacDonald.md) *[The Golden Key](../T/The_Golden_Key.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien câu chuyện đã phát triển thành một câu chuyện theo đúng nghĩa của nó.
+Cuốn sách bắt đầu như một nỗ lực nhằm giải thích ý nghĩa của [Thần tiên](../F/Faery.md) bằng câu chuyện về một người đầu bếp và chiếc bánh của ông, và Tolkien ban đầu nghĩ sẽ gọi nó là *The Great Cake*. Nó được dự định là một phần lời tựa của Tolkien cho câu chuyện cổ tích nổi tiếng của [George MacDonald](../G/George_MacDonald.md) *[The Golden Key](../T/The_Golden_Key.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien câu chuyện đã phát triển thành một câu chuyện theo đúng nghĩa của nó.
 
 *Smith of Wootton Major* chứa mô típ chủ đề "Thần tiên" về người du hành đến một vùng đất nằm ngoài thế giới bình thường và thường nằm ngoài tầm với của con người. Do đó, Smith có thể được ví như [Beren](../B/Beren.md) trong lĩnh vực [Thingol](../T/Thingol.md), hoặc [Eärendil](../E/Eärendil.md) hành trình tới [Valinor](../V/Valinor.md), hoặc chuyến thăm của [Ælfwine](../_/Ælfwine.md) tới [Tol Eressëa](../T/Tol_Eressëa.md).
 

@@ -14,7 +14,7 @@ categories:
   - "Third Age characters"
 ---
 
-**Northiligand** là lãnh chúa của [người dân](../G/Gondorian.md) vùng [Đồng bằng](../E/Ethir_Anduin.md) trong những bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông ta được nhắc đến trong một bản phác thảo cùng với [Benrodir](../B/Benrodir.md) và [Inram](../I/Inram.md) với tư cách là một trong những thủ lĩnh của [Gondor](../G/Gondor.md) đã đến trợ giúp [Minas Tirith](../M/Minas_Tirith.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin gì khác về ông ta, vì ông ta không xuất hiện ở nơi nào khác trong [huyền thoại](../L/Legendarium.md).
+**Northiligand** là lãnh chúa của [người dân](../G/Gondorian.md) vùng [Đồng bằng](../E/Ethir_Anduin.md) trong những bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông được nhắc đến trong một bản phác thảo cùng với [Benrodir](../B/Benrodir.md) và [Inram](../I/Inram.md) với tư cách là một trong những thủ lĩnh của [Gondor](../G/Gondor.md) đã đến trợ giúp [Minas Tirith](../M/Minas_Tirith.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin gì khác về ông, vì ông không xuất hiện ở nơi nào khác trong [huyền thoại](../L/Legendarium.md).
 
 ## Từ nguyên {#Etymology}
 

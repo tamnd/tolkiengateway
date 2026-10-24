@@ -19,9 +19,9 @@ categories:
 
 Ở [Gondor](../G/Gondor.md), loại tiền tệ chính là [Castar](../C/Castar.md); một đồng xu bạc nhỏ được gọi là [Tharni](../T/Tharni.md) có giá trị bằng 1/4 đồng Castar.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Azog](../A/Azog.md) ném một chiếc ví tiền vào [Nár](../N/Nár.md) có chứa "vài đồng xu có giá trị nhỏ" (mà Người Lùn sau đó đã nhét vào miệng cái đầu bị chặt của Azog sau thất bại của ông ta).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Azog](../A/Azog.md) ném một chiếc ví tiền vào [Nár](../N/Nár.md) có chứa "vài đồng xu có giá trị nhỏ" (mà Người Lùn sau đó đã nhét vào miệng cái đầu bị chặt của Azog sau thất bại của ông).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) lao ra khỏi cửa để gặp [Thorin](../T/Thorin.md) và nhóm người lùn của ông ta tại [Green Rồng Inn](../G/Green_Dragon~72852.md), ông ta thấy mình đang ở bên ngoài mà không có "mũ, gậy chống hay bất kỳ *money* hay bất cứ thứ gì mà ông ta thường mang theo khi ra ngoài".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Khi [Bilbo Baggins](../B/Bilbo_Baggins.md) lao ra khỏi cửa để gặp [Thorin](../T/Thorin.md) và nhóm người lùn của ông tại [Green Rồng Inn](../G/Green_Dragon~72852.md), ông thấy mình đang ở bên ngoài mà không có "mũ, gậy chống hay bất kỳ *money* hay bất cứ thứ gì mà ông thường mang theo khi ra ngoài".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Sau cái chết của [Smaug](../S/Smaug.md) và sự tàn phá của [Esgaroth](../E/Esgaroth.md) người dân đã phẫn nộ với [Chủ nhân của Thị trấn Hồ](Master_of_Lake-town.md) và tuyên bố: "Chúng ta đã chán ngấy các ông già và *money-counters*!" Những người khác hô vang "Cùng cung thủ (nghĩa là [Bard](../B/Bard.md)) và hạ gục *Moneybags*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -29,7 +29,7 @@ Phần lớn số vàng và bạc của Người Lùn-đám Smaug dường như 
 
 Tiền được đề cập liên quan đến thị trấn buôn bán [Bree](../B/Bree.md). Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), một con ngựa con được coi là có giá trị khoảng bốn [đồng xu bạc](../S/Silver_pennies.md). Người chủ khá giả của [Prancing Pony](../P/Prancing_Pony.md), [Barliman Butterbur](../B/Barliman_Butterbur.md) coi việc mất 30 xu bạc là một tổn thất đáng kể.<sup id="cite_ref-Knife_6-0" class="reference"><a href="#cite_note-Knife-6">[6]</a></sup> Một miếng vàng được coi là phần thưởng đặc biệt xa hoa khi có tin vui.
 
-Khi [Aragorn](../A/Aragorn.md) và bốn hobbit cắm trại ở bên hông [Weathertop](../W/Weathertop.md), [Sam](../S/Samwise_Gamgee.md) đi lang thang đến rìa thung lũng. Ngay sau đó ông ta sợ hãi chạy lại và nói: "Tôi không được ra ngoài thung lũng này vì bất kỳ *money* nào."<sup id="cite_ref-Knife_6-1" class="reference"><a href="#cite_note-Knife-6">[6]</a></sup>
+Khi [Aragorn](../A/Aragorn.md) và bốn hobbit cắm trại ở bên hông [Weathertop](../W/Weathertop.md), [Sam](../S/Samwise_Gamgee.md) đi lang thang đến rìa thung lũng. Ngay sau đó ông sợ hãi chạy lại và nói: "Tôi không được ra ngoài thung lũng này vì bất kỳ *money* nào."<sup id="cite_ref-Knife_6-1" class="reference"><a href="#cite_note-Knife-6">[6]</a></sup>
 
 ## Thông tin cơ bản {#Background_Information}
 

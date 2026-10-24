@@ -27,7 +27,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Một số [Tiên Xanh](../G/Green-elves.md) chạy trốn [Morgoth](../M/Morgoth.md) định cư trong một khu rừng có sông chảy vào [Baranduin](../B/Baranduin.md). Họ đặt tên cho vùng đất này là *Siremyn-galador* ([S.](Sindarin.md) “Đất cây đồi chảy”), và tự đặt tên cho mình là Sirannar. Chiến binh Merethorn đã đoàn kết dân tộc này chống lại những người hầu của Morgoth đang lang thang trên các vùng đất. Sau [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), ông ta thề trung thành với [Gil-galad](../G/Gil-galad.md) và kết hôn với một người phụ nữ Noldo tên là Elindiel.
+Một số [Tiên Xanh](../G/Green-elves.md) chạy trốn [Morgoth](../M/Morgoth.md) định cư trong một khu rừng có sông chảy vào [Baranduin](../B/Baranduin.md). Họ đặt tên cho vùng đất này là *Siremyn-galador* ([S.](Sindarin.md) “Đất cây đồi chảy”), và tự đặt tên cho mình là Sirannar. Chiến binh Merethorn đã đoàn kết dân tộc này chống lại những người hầu của Morgoth đang lang thang trên các vùng đất. Sau [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), ông thề trung thành với [Gil-galad](../G/Gil-galad.md) và kết hôn với một người phụ nữ Noldo tên là Elindiel.
 
 Sirannar chưa bao giờ xây dựng bất kỳ thị trấn nào và Merethorn đã đi khắp vương quốc của mình, thiết lập triều đình ở bất cứ nơi nào ông cần.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Con Người bắt đầu đơn giản hóa tên thành “Sirigalë”, và cư dân của nó là những người đầu tiên trong số [Nandor](../N/Nandor.md) được gọi là [Silvan Tiên tộc](Silvan_Elves.md).
 

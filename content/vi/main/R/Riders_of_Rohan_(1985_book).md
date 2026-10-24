@@ -57,7 +57,7 @@ Gói này bao gồm RIDERS OF ROHAN trong 3 giai đoạn riêng biệt:
 - *bao gồm bố cục cho Helm's Deep, Edoras, Dunharrow và Harrowdale*
 - *thông tin về Vidugavia, Frumgar, Fram the Rồng-slayer, Wormtongue, Helm, Theoden, Eomer và Eowyn*
 
-Hầu hết mọi thứ về Người phương Bắc đã thay đổi sau khi họ có được ngựa: phương pháp săn bắn, tôn giáo, mối quan hệ của họ với những Con Người - Con Người khác không sở hữu ngựa. Tuy nhiên, thái độ của họ đối với Chúa tể Bóng tối vẫn không thay đổi. Họ khinh thường ông ta và những sáng tạo của ông ta, cũng như tất cả Con Người tà ác tôn thờ bóng tối ... và họ vẫn không tin vào phép thuật và các pháp sư, bất kể họ tuyên bố đứng về phía nào.
+Hầu hết mọi thứ về Người phương Bắc đã thay đổi sau khi họ có được ngựa: phương pháp săn bắn, tôn giáo, mối quan hệ của họ với những Con Người - Con Người khác không sở hữu ngựa. Tuy nhiên, thái độ của họ đối với Chúa tể Bóng tối vẫn không thay đổi. Họ khinh thường ông và những sáng tạo của ông, cũng như tất cả Con Người tà ác tôn thờ bóng tối ... và họ vẫn không tin vào phép thuật và các pháp sư, bất kể họ tuyên bố đứng về phía nào.
 
 Kỵ Sĩ ROHAN bao gồm:
 

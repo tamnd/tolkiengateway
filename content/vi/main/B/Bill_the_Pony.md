@@ -111,7 +111,7 @@ Sam cưỡi Bill khi đi cùng [Frodo](../F/Frodo_Baggins.md) trong chuyến đi
 
 <dl><dd>Một chú ngựa con đi cùng <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Đoàn Hộ Nhẫn</a> từ <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> đến Cánh cửa Durin. Ở đó, nó được phát hành bởi <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>. Cả Aragorn và Sam đều gọi nó là "Hóa đơn".</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Có thể tìm thấy Bill bị thất lạc ngay phía tây Moria. Có một nhiệm vụ trong đó người chơi phải hộ tống Bill đến nơi an toàn khỏi bầy sói.</dd></dl>
 

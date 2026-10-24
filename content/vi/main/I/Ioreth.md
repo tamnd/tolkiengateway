@@ -78,7 +78,7 @@ Giống như "[Cờ bạc](../G/Gamling.md)", nó được lựa chọn đặc b
 
 <dl><dd>Giọng của Ioreth được cung cấp bởi Vilma Jamnická.</dd></dl>
 
-<b>2015<i>: </i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a><i>:</i></b><i></i>
+<b>2015<i>: </i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a><i>:</i></b><i></i>
 
 <dl><dd>Ioreth được tìm thấy trong Nhà chữa bệnh sau trận chiến, nơi cô yêu cầu người chơi hỗ trợ cô trộn các loại thảo mộc và đưa thuốc cho những người bị thương.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

@@ -49,11 +49,11 @@ infobox:
 <p class="tg-quote-footer"><cite>Frodo to Faramir</cite></p>
 </blockquote>
 
-Faramir dành thời gian để cân nhắc những gì Frodo đã nói trước khi quyết định tiếp tục chuyển tiếp tới Osgiliath. Cảnh phim kết thúc với cảnh Frodo cầu xin ông ta được thả ra.
+Faramir dành thời gian để cân nhắc những gì Frodo đã nói trước khi quyết định tiếp tục chuyển tiếp tới Osgiliath. Cảnh phim kết thúc với cảnh Frodo cầu xin ông được thả ra.
 
 ## Sự khác biệt {#Differences}
 
-Trong sách, [Faramir](../F/Faramir.md) không lấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) thành [Osgiliath](Osgiliath.md). Khi phát hiện ra Frodo đang mang [Chiếc nhẫn](../T/The_One_Ring.md), ông ta đã nói với hai [Hobbit](../H/Hobbits.md) rằng ông ta sẽ không cố lấy nó,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và chia tay họ tại [Henneth Annûn](../H/Henneth_Annûn.md), nơi họ đi về phía [Thung lũng Morgul](../M/Morgul_Vale.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong sách, [Faramir](../F/Faramir.md) không lấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) thành [Osgiliath](Osgiliath.md). Khi phát hiện ra Frodo đang mang [Chiếc nhẫn](../T/The_One_Ring.md), ông đã nói với hai [Hobbit](../H/Hobbits.md) rằng ông sẽ không cố lấy nó,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và chia tay họ tại [Henneth Annûn](../H/Henneth_Annûn.md), nơi họ đi về phía [Thung lũng Morgul](../M/Morgul_Vale.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

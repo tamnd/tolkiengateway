@@ -44,7 +44,7 @@ Khi [Kỵ sĩ Đen](../N/Nazgûl.md) đến Greenway để tìm kiếm [Một ch
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Andrath là khu vực nổi bật trong <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> và chứa "Hồ Halecatch" nổi bật. "Tàn tích bảo vệ phía Nam" trên <a href="../G/Greenway.md" title="Greenway">Greenway</a> chia thành phía bắc và phía nam Andrath, phía sau thuộc khu vực <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a> trong trò chơi.</dd></dl>
 

@@ -66,7 +66,7 @@ Elentir là một ký tự được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) t�
 - Trong văn bản *(c)*, Elentir yêu Zimrahil, cô yêu anh, và họ chuẩn bị đính hôn thì... Tại thời điểm này, văn bản bị bỏ rơi này kết thúc nhưng có vẻ như Zimrahil sẽ sớm chuyển sang Pharazôn.<sup id="cite_ref-Page162_4-0" class="reference"><a href="#cite_note-Page162-4">[4]</a></sup>
 - Trong văn bản *(d)*không có Elentir và câu chuyện về tình yêu của Zimrahil dành cho Pharazôn.<sup id="cite_ref-Page162_4-1" class="reference"><a href="#cite_note-Page162-4">[4]</a></sup>
 
-Christopher kết luận rằng *(b)* và *(c)* không phải là sự mở rộng trên *(a)* mà chỉ đơn giản là sự lặp lại, và rằng *(d)* thể hiện sự từ bỏ cuối cùng đối với phiên bản thay thế của sự kết hợp giữa Míriel và Pharazôn. Với việc quay trở lại khái niệm ban đầu về một cuộc hôn nhân cưỡng bức, nhân vật Elentir không cần thiết nên ông ta biến mất.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Christopher kết luận rằng *(b)* và *(c)* không phải là sự mở rộng trên *(a)* mà chỉ đơn giản là sự lặp lại, và rằng *(d)* thể hiện sự từ bỏ cuối cùng đối với phiên bản thay thế của sự kết hợp giữa Míriel và Pharazôn. Với việc quay trở lại khái niệm ban đầu về một cuộc hôn nhân cưỡng bức, nhân vật Elentir không cần thiết nên ông biến mất.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

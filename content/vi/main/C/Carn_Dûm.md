@@ -85,11 +85,11 @@ Một giả thuyết khác cho rằng tên này đại khái có nghĩa là "ph�
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Carn_Dûm.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/ca/The_Lord_of_the_Rings_Online_-_Carn_D%C3%BBm.jpg/300px-The_Lord_of_the_Rings_Online_-_Carn_D%C3%BBm.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/ca/The_Lord_of_the_Rings_Online_-_Carn_D%C3%BBm.jpg/450px-The_Lord_of_the_Rings_Online_-_Carn_D%C3%BBm.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/ca/The_Lord_of_the_Rings_Online_-_Carn_D%C3%BBm.jpg/600px-The_Lord_of_the_Rings_Online_-_Carn_D%C3%BBm.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Carn Dum in <i>The Lord of the Rings Online</i></figcaption></figure>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: Trận chiến vì Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: The Battle for Middle-earth II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
 
 <dl><dd>Carn Dûm là thủ đô của <a href="../A/Angmar.md" title="Angmar">Angmar</a>. Chiến dịch bắt đầu với việc xây dựng và bị bao vây một lần bởi <a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a>. Carn Dûm cũng có thể chơi được trong phần giao tranh của trò chơi.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Carn Dum nằm trong khu vực Angmar của trò chơi và vừa là trọng tâm chính của cốt truyện vừa là ngục tối cuối cùng của trò chơi cho bản phát hành ban đầu của trò chơi. Nó được cai trị bởi cái bóng của Angmar đã quay trở lại thành phố này dưới hình dạng Vua <a class="mw-redirect" href="../M/Mordirith.md" title="Mordirith">Mordirith giả</a>, Người quản lý của Angmar.</dd></dl>
 

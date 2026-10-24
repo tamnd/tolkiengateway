@@ -29,7 +29,7 @@ Nơi ẩn náu của [Edhellond](../E/Edhellond.md), phía tây nam nơi giao nh
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cobas Haven chứa một hòn đảo nhỏ hơn Tol Aduial nằm ở phía bắc Dol Amroth và một hòn đảo lớn hơn Tol Fennas ngay phía tây thành phố.</dd></dl>
 

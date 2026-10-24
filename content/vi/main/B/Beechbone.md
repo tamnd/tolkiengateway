@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào [3 tháng 3](../_/3_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông ta bị vướng vào một tia lửa bốc lên từ [Saruman](../S/Saruman.md) từ bên dưới [Vòng Isengard](../R/Ring_of_Isengard.md), nhưng cái kết rực lửa của ông ta đã đưa đồng đội của ông ta Ent lên đến đỉnh điểm cơn giận hủy diệt của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [3 tháng 3](../_/3_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông bị vướng vào một tia lửa bốc lên từ [Saruman](../S/Saruman.md) từ bên dưới [Vòng Isengard](../R/Ring_of_Isengard.md), nhưng cái kết rực lửa của ông đã đưa đồng đội của ông Ent lên đến đỉnh điểm cơn giận hủy diệt của họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

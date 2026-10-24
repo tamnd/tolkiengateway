@@ -30,7 +30,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## ? {#?}
 
-- [Túrin](../T/Túrin.md), đang tìm kiếm [Finduilas](Finduilas.md), đến khu rừng [Brethil](../B/Brethil.md) và phát hiện ra rằng [Finduilas](Finduilas.md) đã bị lũ Orc giết chết. Ông ta ở lại Brethil và lấy tên là *Turambar*.<sup id="cite_ref-GA_4-0" class="reference"><a href="#cite_note-GA-4">[4]</a></sup>
+- [Túrin](../T/Túrin.md), đang tìm kiếm [Finduilas](Finduilas.md), đến khu rừng [Brethil](../B/Brethil.md) và phát hiện ra rằng [Finduilas](Finduilas.md) đã bị lũ Orc giết chết. Ông ở lại Brethil và lấy tên là *Turambar*.<sup id="cite_ref-GA_4-0" class="reference"><a href="#cite_note-GA-4">[4]</a></sup>
 - [Mablung Thợ săn](../M/Mablung.md) dẫn đầu một nhóm từ [Doriath](../D/Doriath.md) đến [Nargothrond](../N/Nargothrond.md); nó bị [Glaurung](../G/Glaurung.md) phục kích và [Niënor Níniel](../N/Niënor.md) và [Morwen Eledhwen](../M/Morwen_Eledhwen.md) bị lạc trong tự nhiên.<sup id="cite_ref-GA_4-1" class="reference"><a href="#cite_note-GA-4">[4]</a></sup>
 - Niënor bị bùa mê của Glaurung và quên mất danh tính của mình. Bà được [Túrin Turambar](../T/Túrin.md) tìm thấy và đến [Brethil](../B/Brethil.md).<sup id="cite_ref-GA_4-2" class="reference"><a href="#cite_note-GA-4">[4]</a></sup>
 

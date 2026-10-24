@@ -37,7 +37,7 @@ images:
 
 **Con lợn rừng lớn của Everholt** là một [con lợn rừng](../B/Boars.md) khổng lồ sinh sống ở [Everholt](../E/Everholt.md), một phần của [Rừng Firien](../F/Firien_Wood.md),<sup id="cite_ref-Folca_1-0" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup> xung quanh chân [Halifirien](../H/Halifirien.md) ở [Dãy Núi Trắng](../W/White_Mountains.md).
 
-[Folca](../F/Folca.md), [Vua Rohan](../K/King_of_Rohan.md) thứ mười ba, cũng là một thợ săn nổi tiếng, đã quyết tâm săn lùng và tiêu diệt con thú. Ông ta đã thành công, nhưng đã chết trong quá trình đó do vết thương do con lợn rừng gây ra từ ngà voi trong [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md).<sup id="cite_ref-Folca_1-1" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup>
+[Folca](../F/Folca.md), [Vua Rohan](../K/King_of_Rohan.md) thứ mười ba, cũng là một thợ săn nổi tiếng, đã quyết tâm săn lùng và tiêu diệt con thú. Ông đã thành công, nhưng đã chết trong quá trình đó do vết thương do con lợn rừng gây ra từ ngà voi trong [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md).<sup id="cite_ref-Folca_1-1" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -71,7 +71,7 @@ images:
 
 <dl><dd>Một tấm thảm thêu kể lại cuộc săn lùng <b>Lợn rừng Everholt</b> của Folca được treo ở <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một đoạn hồi tưởng cho thấy cuộc săn lùng của Vua <a href="../F/Folca.md" title="Folca">Folca</a> và cuộc tiêu diệt lẫn nhau của ông với <b>Heo rừng Everholt</b>. Một tấm thảm mô tả nó cũng được tìm thấy trong <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>. Một nhóm <a href="../W/White_Mountains.md" title="White Mountains">Dãy Núi Trắng</a> <a href="../O/Orcs.md" title="Orcs">orc</a> chứng kiến ​​sự kiện này và bị ấn tượng bởi sinh vật đã tiêu diệt kẻ thù lớn nhất của họ, họ bắt đầu tự tạo kiểu dáng theo loài lợn rừng, kết hợp ngà và xương lợn rừng vào áo giáp của họ.</dd></dl>
 

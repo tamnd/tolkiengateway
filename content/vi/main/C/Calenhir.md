@@ -31,7 +31,7 @@ Tên của nó dường như có nghĩa là "Dòng sông xanh" trong [Sindarin](
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Calenhir thuộc khu vực <a href="../A/Anfalas.md" title="Anfalas">Anfalas</a>, ranh giới trong trò chơi của <a href="../P/Pinnath_Gelin.md" title="Pinnath Gelin">Pinnath Gelin</a> bắt đầu ngay phía bắc so với nguồn gốc của nó.</dd></dl>
 

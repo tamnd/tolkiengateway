@@ -176,7 +176,7 @@ Người chơi truy đuổi lũ Orc và Uruk-hai xuyên qua khu rừng Fangorn. 
 
 #### Minas Tirith - Đỉnh Tường {#Minas_Tirith_-_Top_of_the_Wall}
 
-Người chơi phải di chuyển lên xuống các bức tường của Minas Tirith, đánh sập các thang bao vây (sử dụng nút O) và tiêu diệt bất kỳ kẻ thù nào trên đỉnh bức tường. Ông ta luôn phải đảm bảo rằng đồng hồ vượt mức càng thấp càng tốt, bởi vì người chơi sẽ thất bại nếu có quá nhiều kẻ thù bám trên tường. Thỉnh thoảng, các tháp bao vây sẽ xuất hiện và người chơi phải bắn máy phóng vào (chỉ các tháp bên trái) hoặc bắn trực tiếp. Khi người chơi phá hủy tháp bao vây thứ tư (tháp này sẽ đáp xuống tường bất kể thế nào), một đoạn cắt cảnh sẽ hiển thị những kẻ troll sử dụng Grond. Cấp độ kết thúc khi người chơi đi xuống cầu thang xuống sân.
+Người chơi phải di chuyển lên xuống các bức tường của Minas Tirith, đánh sập các thang bao vây (sử dụng nút O) và tiêu diệt bất kỳ kẻ thù nào trên đỉnh bức tường. Ông luôn phải đảm bảo rằng đồng hồ vượt mức càng thấp càng tốt, bởi vì người chơi sẽ thất bại nếu có quá nhiều kẻ thù bám trên tường. Thỉnh thoảng, các tháp bao vây sẽ xuất hiện và người chơi phải bắn máy phóng vào (chỉ các tháp bên trái) hoặc bắn trực tiếp. Khi người chơi phá hủy tháp bao vây thứ tư (tháp này sẽ đáp xuống tường bất kể thế nào), một đoạn cắt cảnh sẽ hiển thị những kẻ troll sử dụng Grond. Cấp độ kết thúc khi người chơi đi xuống cầu thang xuống sân.
 
 **Thất bại như thế nào:** Người chơi chết hoặc tường bị tràn.
 
@@ -196,19 +196,19 @@ Người chơi, với tư cách là Aragorn, Legolas hoặc Gimli, phải tìm �
 
 #### Vua của Người Chết {#King_of_the_Dead}
 
-Bây giờ người chơi phải một mình chiến đấu với Vua của Người chết. Vua tấn công bằng đòn tấn công ba đòn hoặc bằng cách triệu hồi binh lính chết. Sau khi cạn kiệt khoảng một nửa sức khỏe, ông ta bắt đầu thổi một luồng gió cực mạnh vào người chơi (người phải cúi xuống sau những tảng đá) và đòn tấn công ba đòn của ông ta trở thành đòn tấn công năm đòn. Sau khi Vua bị đánh bại, người chơi phải thoát khỏi ngọn núi đang sụp đổ và đánh bại bất kỳ bóng ma nào trên đường đi của mình.
+Bây giờ người chơi phải một mình chiến đấu với Vua của Người chết. Vua tấn công bằng đòn tấn công ba đòn hoặc bằng cách triệu hồi binh lính chết. Sau khi cạn kiệt khoảng một nửa sức khỏe, ông bắt đầu thổi một luồng gió cực mạnh vào người chơi (người phải cúi xuống sau những tảng đá) và đòn tấn công ba đòn của ông trở thành đòn tấn công năm đòn. Sau khi Vua bị đánh bại, người chơi phải thoát khỏi ngọn núi đang sụp đổ và đánh bại bất kỳ bóng ma nào trên đường đi của mình.
 
 **Thất bại như thế nào:** Người chơi chết hoặc hang động đổ sập vào người chơi.
 
 #### Cổng phía Nam {#The_Southern_Gate}
 
-Người chơi phải vượt qua cổng phía Nam để giúp đỡ Rohirrim tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Tuy nhiên, thật không may, ông ta phải chiến đấu chống lại hàng trăm Uruk và Orc đang phục kích. Hai con quỷ lùn cũng đang rình rập. Người chơi phải bắn ba máy phóng, hai máy vào tháp và một máy vào con troll để lên đến đỉnh cổng. Sau khi đánh bại con quỷ khổng lồ ở trên đỉnh, ông ta phải tiêu diệt [Mumak](../M/Mûmak.md) bằng cách bắn vào áo giáp của nó và cho nổ tung nó. Sau đó ông ta phải mở cổng. Cấp độ kết thúc khi người chơi sống sót qua được cổng.
+Người chơi phải vượt qua cổng phía Nam để giúp đỡ Rohirrim tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Tuy nhiên, thật không may, ông phải chiến đấu chống lại hàng trăm Uruk và Orc đang phục kích. Hai con quỷ lùn cũng đang rình rập. Người chơi phải bắn ba máy phóng, hai máy vào tháp và một máy vào con troll để lên đến đỉnh cổng. Sau khi đánh bại con quỷ khổng lồ ở trên đỉnh, ông phải tiêu diệt [Mumak](../M/Mûmak.md) bằng cách bắn vào áo giáp của nó và cho nổ tung nó. Sau đó ông phải mở cổng. Cấp độ kết thúc khi người chơi sống sót qua được cổng.
 
 **Thất bại như thế nào:** Người chơi chết.
 
 #### cánh đồng Pelennor {#Pelennor_Fields}
 
-Người chơi ngay lập tức được đưa vào trận chiến toàn diện chiến đấu với nhiều [Easterlings](../E/Easterlings.md) và [Uruks](../U/Uruk.md) cùng với [Rohirrim](../R/Rohirrim.md). Họ phải chiến đấu cho đến khi 60 kẻ thù bị tiêu diệt. Sau đó, [Merry](../M/Meriadoc_Brandybuck.md) và [Éowyn](../_/Éowyn.md) sẽ tham gia cuộc chiến. [Mumakil](../M/Mumakil.md) cũng sẽ tham gia chiến trường. Người chơi phải tiêu diệt Mumakil đang đến tìm Éowyn và Merry (Mumak sẽ tự động giết họ nếu nó đến đó và nhiệm vụ sẽ thất bại) bằng cách phá hủy áo giáp của nó và cho nổ tung nó trước khi quá muộn. Theo định kỳ, [Vua Phù thủy](../W/Witch-king.md) sẽ cưỡi [Thú vật ngã](../F/Fell_Beast~21258.md) của mình xuống để tấn công Merry và Éowyn. Người chơi phải bắn Vua Phù thủy cho đến khi nó bay đi. Quá trình này sẽ lặp lại cho đến khi Fell Beast của Vua Phù thủy bị tiêu diệt. Éowyn sẽ giết chết ông ta, và người chết sẽ đến tiêu diệt đội quân tà ác.
+Người chơi ngay lập tức được đưa vào trận chiến toàn diện chiến đấu với nhiều [Easterlings](../E/Easterlings.md) và [Uruks](../U/Uruk.md) cùng với [Rohirrim](../R/Rohirrim.md). Họ phải chiến đấu cho đến khi 60 kẻ thù bị tiêu diệt. Sau đó, [Merry](../M/Meriadoc_Brandybuck.md) và [Éowyn](../_/Éowyn.md) sẽ tham gia cuộc chiến. [Mumakil](../M/Mumakil.md) cũng sẽ tham gia chiến trường. Người chơi phải tiêu diệt Mumakil đang đến tìm Éowyn và Merry (Mumak sẽ tự động giết họ nếu nó đến đó và nhiệm vụ sẽ thất bại) bằng cách phá hủy áo giáp của nó và cho nổ tung nó trước khi quá muộn. Theo định kỳ, [Vua Phù thủy](../W/Witch-king.md) sẽ cưỡi [Thú vật ngã](../F/Fell_Beast~21258.md) của mình xuống để tấn công Merry và Éowyn. Người chơi phải bắn Vua Phù thủy cho đến khi nó bay đi. Quá trình này sẽ lặp lại cho đến khi Fell Beast của Vua Phù thủy bị tiêu diệt. Éowyn sẽ giết chết ông, và người chết sẽ đến tiêu diệt đội quân tà ác.
 
 **Cách thất bại:** Người chơi chết, Vua Phù thủy giết Éowyn và Merry hoặc Mumak nghiền nát họ.
 
@@ -240,21 +240,21 @@ Phần thứ hai đơn giản hơn nhưng khó hơn; chỉ có một con đườ
 
 <dl><dt>Phần thứ ba</dt></dl>
 
-Người chơi bây giờ phải chiến đấu với Shelob. Bà bắt đầu bằng những cú đâm có thể đỡ đòn, nhưng đôi khi sẽ lao vào một góc và triệu hồi nhện để tấn công người chơi. Cách duy nhất (và cách dễ dàng nhất) là tấn công Shelob cho đến khi bà ta bị đánh bại. Frodo sẽ bị bắt bởi hai con Orc, kết thúc màn chơi.
+Người chơi bây giờ phải chiến đấu với Shelob. Bà bắt đầu bằng những cú đâm có thể đỡ đòn, nhưng đôi khi sẽ lao vào một góc và triệu hồi nhện để tấn công người chơi. Cách duy nhất (và cách dễ dàng nhất) là tấn công Shelob cho đến khi bà bị đánh bại. Frodo sẽ bị bắt bởi hai con Orc, kết thúc màn chơi.
 
 **Thất bại như thế nào:** Người chơi chết.
 
 #### Cirith Ungol {#Cirith_Ungol}
 
-Người chơi phải chiến đấu với nhiều đám Orc, những kẻ đang gây chiến với nhau nhưng sẽ tập trung sự chú ý vào người chơi khi họ phát hiện ra ông ta (Lưu ý: Kẻ thù dường như không thực sự giết nhau, vì vậy người chơi có quyền làm như vậy nếu muốn.) Phần đầu tiên của nhiệm vụ liên quan đến việc tiêu diệt ít nhất 80 kẻ thù, có thể được thực hiện thông qua nhiều con đường và chuỗi hành động khác nhau. Sau khi hoàn thành việc này, người chơi phải điều hướng cấp độ cho đến khi hiển thị một cảnh ngắn cho thấy những con Orc còn lại đang chạy trốn đến một cây cầu. Sau khi bắn một ballista và phá hủy một phần của cấp độ, người chơi phải lao qua cầu, bắt đầu phần thứ hai của cấp độ (nếu người chơi qua cầu quá chậm, người chơi sẽ chết.)
+Người chơi phải chiến đấu với nhiều đám Orc, những kẻ đang gây chiến với nhau nhưng sẽ tập trung sự chú ý vào người chơi khi họ phát hiện ra ông (Lưu ý: Kẻ thù dường như không thực sự giết nhau, vì vậy người chơi có quyền làm như vậy nếu muốn.) Phần đầu tiên của nhiệm vụ liên quan đến việc tiêu diệt ít nhất 80 kẻ thù, có thể được thực hiện thông qua nhiều con đường và chuỗi hành động khác nhau. Sau khi hoàn thành việc này, người chơi phải điều hướng cấp độ cho đến khi hiển thị một cảnh ngắn cho thấy những con Orc còn lại đang chạy trốn đến một cây cầu. Sau khi bắn một ballista và phá hủy một phần của cấp độ, người chơi phải lao qua cầu, bắt đầu phần thứ hai của cấp độ (nếu người chơi qua cầu quá chậm, người chơi sẽ chết.)
 
-Phần thứ hai là trận đấu trùm ngắn với Gorbag. Ban đầu, người chơi không thể gây sát thương cho ông ta, nhưng bằng cách sử dụng những ngọn giáo trong phòng, người chơi có thể ném một ngọn giáo để phá vỡ khiên của ông ta và một ngọn giáo khác để làm ông ta choáng váng, trong thời gian đó đồng hồ đo mạng sống của ông ta sẽ xuất hiện. Lưu ý rằng có thể hạ gục ông ta và sử dụng chiêu thức kết liễu, nhưng nó sẽ không giết chết ngay lập tức (nó sẽ chỉ gây sát thương). Khi Gorbag ​​bị đánh bại, cấp độ sẽ kết thúc.
+Phần thứ hai là trận đấu trùm ngắn với Gorbag. Ban đầu, người chơi không thể gây sát thương cho ông, nhưng bằng cách sử dụng những ngọn giáo trong phòng, người chơi có thể ném một ngọn giáo để phá vỡ khiên của ông và một ngọn giáo khác để làm ông choáng váng, trong thời gian đó đồng hồ đo mạng sống của ông sẽ xuất hiện. Lưu ý rằng có thể hạ gục ông và sử dụng chiêu thức kết liễu, nhưng nó sẽ không giết chết ngay lập tức (nó sẽ chỉ gây sát thương). Khi Gorbag ​​bị đánh bại, cấp độ sẽ kết thúc.
 
 **Cách thất bại:** Người chơi chết hoặc người chơi rơi ở cây cầu dẫn đến phần thứ hai của màn chơi.
 
 #### Crack of Doom {#Crack_of_Doom}
 
-Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và Frodo chống lại Gollum. Gollum chỉ có các đòn tấn công cận chiến, nhưng các đòn tấn công vuốt và nhảy của ông ta có thể khá nguy hiểm nếu không kịp phòng thủ. Để gây sát thương Gollum, người chơi phải dụ ông ta đến rìa của bục, chém ông ta, hạ gục ông ta bằng đòn tấn công O và kết thúc combo bằng một chiêu thức kết liễu. (Lưu ý: Điều này tương tự như chiêu thức Phán xét cuối cùng.) Người chơi phải sử dụng quy trình này tổng cộng sáu lần; mỗi lần, lại có thêm chướng ngại vật như đá rơi và dung nham chảy ra trên nền tảng. Sau khi hoàn thành combo tiêu diệt Gollum thứ sáu, Gollum rơi xuống dung nham và Chiếc nhẫn bị phá hủy.
+Cấp độ này về cơ bản là một trận đấu trùm: đó là Sam và Frodo chống lại Gollum. Gollum chỉ có các đòn tấn công cận chiến, nhưng các đòn tấn công vuốt và nhảy của ông có thể khá nguy hiểm nếu không kịp phòng thủ. Để gây sát thương Gollum, người chơi phải dụ ông đến rìa của bục, chém ông, hạ gục ông bằng đòn tấn công O và kết thúc combo bằng một chiêu thức kết liễu. (Lưu ý: Điều này tương tự như chiêu thức Phán xét cuối cùng.) Người chơi phải sử dụng quy trình này tổng cộng sáu lần; mỗi lần, lại có thêm chướng ngại vật như đá rơi và dung nham chảy ra trên nền tảng. Sau khi hoàn thành combo tiêu diệt Gollum thứ sáu, Gollum rơi xuống dung nham và Chiếc nhẫn bị phá hủy.
 
 **Thất bại như thế nào:** Người chơi chết.
 

@@ -45,7 +45,7 @@ Trong những ngày trước [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thuật ngữ "Đăng nhanh" được sử dụng riêng. Đây là dịch vụ chuyển thư của Shire và chịu trách nhiệm chuyển thư kịp thời và bí mật mà Hobbit viết cho nhau với số lượng lớn. Người chơi có thể tham gia Đăng nhanh và hỗ trợ họ thực hiện nhiều đợt giao hàng khác nhau giữa các thị trấn và làng của Shire.</dd></dl>
 

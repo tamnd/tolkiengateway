@@ -59,7 +59,7 @@ infobox:
 </p>
 <a href="../D/Daybreak_Game_Company.md" title="Daybreak Game Company">Daybreak Game Company</a> (2016-Present)</td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data">Microsoft Windows, OS X (Beta)</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data">April 24, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trực tuyến</b></i> (thường được viết tắt là **LOTRO** hoặc **LotRO**) là một MMORPG (Trò chơi nhập vai trực tuyến nhiều người chơi) dành cho PC và OS X diễn ra trong thế giới [Arda](../A/Arda.md) trong thời gian *[The Lord of the Rings](The_Lord_of_the_Rings.md).*. Ban đầu nó được đặt tên là **The Lord of the Rings Trực tuyến: Shadows of Angmar**, nhưng với những bản cập nhật sau này, phụ đề đó đã bị loại bỏ.
+<i><b>The Lord of the Rings Online</b></i> (thường được viết tắt là **LOTRO** hoặc **LotRO**) là một MMORPG (Trò chơi nhập vai trực tuyến nhiều người chơi) dành cho PC và OS X diễn ra trong thế giới [Arda](../A/Arda.md) trong thời gian *[The Lord of the Rings](The_Lord_of_the_Rings.md).*. Ban đầu nó được đặt tên là **The Lord of the Rings Online: Shadows of Angmar**, nhưng với những bản cập nhật sau này, phụ đề đó đã bị loại bỏ.
 
 Người chơi sẽ vào vai những nhà thám hiểm của [Dân tộc Tự do](../F/Free_peoples~19934.md) của [Trung Địa](../M/Middle-earth.md). Các sự kiện của trò chơi diễn ra đồng thời với các sự kiện của *[The Lord of the Rings](The_Lord_of_the_Rings.md)* nhưng phần lớn trò chơi xoay quanh các sự kiện xảy ra ở nơi khác hoặc theo sau các sự kiện trong sách. Trò chơi lấy cảm hứng từ những con người, địa điểm và sự kiện chỉ được đề cập trong sách, kết hợp những điều này với các khái niệm ban đầu để mở rộng trên những phần Trung Địa Tolkien thì không. Chuỗi nhiệm vụ chính của trò chơi, được gọi là Epic Quests, được chia thành các tập, sách và chương, mô phỏng cấu trúc của *The Lord of the Rings*.
 
@@ -240,7 +240,7 @@ Giao diện người chơi cho phép các khía cạnh khác của trò chơi nh
 
 ### Ký tự gốc chính {#Major_original_characters}
 
-- **[Amarthiel](../A/Amarthiel.md)** phục vụ [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) trong triều đại đầu tiên của ông ta trên [Angmar](../A/Angmar.md)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> và đeo [chiếc nhẫn nhỏ hơn](../L/Lesser_rings.md) Narchuil. Cô bị Narmeleth giết chết tại [Trận Fornost](../B/Battle_of_Fornost.md) và linh hồn cô lang thang [Trung Địa](../M/Middle-earth.md) trong hơn một nghìn năm. Cô đã chiếm hữu được Narmeleth và cải trang thành Sara Oakheart. Cuối cùng, bà đã lộ diện sau khi đánh bại [Mordirith](../M/Mordirith.md) bởi Golodir và trở thành Nhiếp chính của Angmar.
+- **[Amarthiel](../A/Amarthiel.md)** phục vụ [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) trong triều đại đầu tiên của ông trên [Angmar](../A/Angmar.md)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> và đeo [chiếc nhẫn nhỏ hơn](../L/Lesser_rings.md) Narchuil. Cô bị Narmeleth giết chết tại [Trận Fornost](../B/Battle_of_Fornost.md) và linh hồn cô lang thang [Trung Địa](../M/Middle-earth.md) trong hơn một nghìn năm. Cô đã chiếm hữu được Narmeleth và cải trang thành Sara Oakheart. Cuối cùng, bà đã lộ diện sau khi đánh bại [Mordirith](../M/Mordirith.md) bởi Golodir và trở thành Nhiếp chính của Angmar.
 
 - **[Andraste](../A/Andraste.md)** là một nữ [Đàn ông](../M/Men.md) phục vụ [Vua Phù thủy](../W/Witch-king.md).
 - **[Jon Brackenbrook](../J/Jon_Brackenbrook.md)** là một [Người](../M/Men.md) từng là đội trưởng của [Archet](../A/Archet.md).
@@ -256,7 +256,7 @@ Giao diện người chơi cho phép các khía cạnh khác của trò chơi nh
 - **Narmeleth** là một Tiên thiếu nữ của [Rivendell](../R/Rivendell.md) và là con gái của Laerdan. Cô đã giết [Amarthiel](../A/Amarthiel.md) trong [Trận Fornost](../B/Battle_of_Fornost.md) và bị linh hồn của cô chiếm hữu hơn một nghìn năm sau.
 - **Mundo Sackville-Baggins** là một [Hobbit](../H/Hobbits.md) người bị xác định nhầm là có chiếc nhẫn.
 - **William Skunkwood** là thủ lĩnh của [Blackwolds](../B/Blackwolds.md).
-- **[Skorgrím Dourhand](../S/Skorgrím_Dourhand.md)** là một người lùn và là thủ lĩnh của [Dourhands](../D/Dourhands.md). Ông ta đã bị giết trong Trận Edhelion. Xác của ông ta được Ivar the Bloodhand sử dụng làm phương tiện, kẻ sở hữu nó với một linh hồn sa ngã để lừa Dourhands liên minh với lực lượng [Angmar](../A/Angmar.md).
+- **[Skorgrím Dourhand](../S/Skorgrím_Dourhand.md)** là một người lùn và là thủ lĩnh của [Dourhands](../D/Dourhands.md). Ông đã bị giết trong Trận Edhelion. Xác của ông được Ivar the Bloodhand sử dụng làm phương tiện, kẻ sở hữu nó với một linh hồn sa ngã để lừa Dourhands liên minh với lực lượng [Angmar](../A/Angmar.md).
 - **[Sambrog](../S/Sambrog.md)** là Wight-lord của [Barrow-downs](../B/Barrow-downs.md).
 
 ### Nhóm gốc {#Original_Groups}
@@ -685,7 +685,7 @@ Người chơi có thể đăng ký VIP, cấp quyền truy cập vào một lư
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh từ The Lord of the Rings Trực tuyến](../../category/I/Images_from_The_Lord_of_the_Rings_Online.md)
+- [Hình ảnh từ The Lord of the Rings Online](../../category/I/Images_from_The_Lord_of_the_Rings_Online.md)
 
 ## Liên kết ngoài {#External_links}
 

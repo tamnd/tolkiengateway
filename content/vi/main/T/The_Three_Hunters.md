@@ -45,7 +45,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Aragorn](../A/Aragorn.md) nằm trên mặt đất, tai áp xuống đất, lắng nghe tiếng bước chân xa xăm của kẻ thù mà họ đang theo dõi. Ông ta nói với [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) rằng tốc độ của [Uruk-hai](../U/Uruk-hai.md) [những kẻ bắt giữ Merry và Pippin](<The_Breaking_of_the_Fellowship_(scene).md>) đã tăng lên và họ nên khẩn trương lên. Ba Thợ Săn tiếp tục đi theo dấu vết của Uruk-hai, cho đến khi Aragorn đột ngột dừng lại, khi ông ta tìm thấy một [chiếc trâm cài yêu tinh](../E/Elven_brooch.md) trên mặt đất, giống như chiếc trâm cài mà họ đeo trên [Tiên áo choàng](../E/Elven_cloaks.md) mà họ được [Galadriel](../G/Galadriel.md) tặng làm quà ở [Lothlórien](../L/Lothlórien.md).
+[Aragorn](../A/Aragorn.md) nằm trên mặt đất, tai áp xuống đất, lắng nghe tiếng bước chân xa xăm của kẻ thù mà họ đang theo dõi. Ông nói với [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) rằng tốc độ của [Uruk-hai](../U/Uruk-hai.md) [những kẻ bắt giữ Merry và Pippin](<The_Breaking_of_the_Fellowship_(scene).md>) đã tăng lên và họ nên khẩn trương lên. Ba Thợ Săn tiếp tục đi theo dấu vết của Uruk-hai, cho đến khi Aragorn đột ngột dừng lại, khi ông tìm thấy một [chiếc trâm cài yêu tinh](../E/Elven_brooch.md) trên mặt đất, giống như chiếc trâm cài mà họ đeo trên [Tiên áo choàng](../E/Elven_cloaks.md) mà họ được [Galadriel](../G/Galadriel.md) tặng làm quà ở [Lothlórien](../L/Lothlórien.md).
 
 <blockquote class="tg-quote noexcerpt">
 <p>Chẳng phải lá <a class="mw-redirect" href="../L/Lórien.md" title="Lórien">Lórien</a> rơi một cách nhàn rỗi đâu.

@@ -53,7 +53,7 @@ Như được minh họa trong hình minh họa của chính [Tolkien](../../fil
 
 ## Lịch sử {#History}
 
-Người ta không biết [Đại bàng vĩ đại](../G/Great_Eagle.md) và mười lăm thủ lĩnh của ông ta<sup id="cite_ref-chieftains_3-0" class="reference"><a href="#cite_note-chieftains-3">[3]</a></sup> lần đầu tiên định cư Thềm Lớn khi nào.
+Người ta không biết [Đại bàng vĩ đại](../G/Great_Eagle.md) và mười lăm thủ lĩnh của ông<sup id="cite_ref-chieftains_3-0" class="reference"><a href="#cite_note-chieftains-3">[3]</a></sup> lần đầu tiên định cư Thềm Lớn khi nào.
 
 Vào [19 tháng 7](../_/19_July.md) năm [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Đại Bàng](Eagles.md) của con mắt đã giải cứu [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) khỏi ngọn cây tại nơi gặp nhau của [Goblin](../O/Orcs.md) và [Warg](../W/Wargs.md). Sau đó, [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Dori](../D/Dori.md) được đưa đến một trong những "mắt đại bàng" của miền Bắc trước khi Đại bàng đưa họ đến đó ra lệnh đưa họ đến Thềm Lớn để xem Đại bàng lớn. Khi đến Thềm Lớn, Thorin và Đoàn tùy tùng được Đại bàng cho phép đốt lửa nấu thịt thỏ, thỏ rừng và cừu. nơi họ đã qua đêm.<sup id="cite_ref-Pan_1-2" class="reference"><a href="#cite_note-Pan-1">[1]</a></sup>
 
@@ -63,7 +63,7 @@ Ngày hôm sau, sau khi được tiết lộ rằng Đại Bàng đã giải c�
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Eagle&#39;s_Eyrie.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f3/The_Lord_of_the_Rings_Online_-_Eagle%27s_Eyrie.jpg/250px-The_Lord_of_the_Rings_Online_-_Eagle%27s_Eyrie.jpg" decoding="async" loading="lazy" width="250" height="142" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f3/The_Lord_of_the_Rings_Online_-_Eagle%27s_Eyrie.jpg/375px-The_Lord_of_the_Rings_Online_-_Eagle%27s_Eyrie.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f3/The_Lord_of_the_Rings_Online_-_Eagle%27s_Eyrie.jpg/500px-The_Lord_of_the_Rings_Online_-_Eagle%27s_Eyrie.jpg 2x" data-file-width="1906" data-file-height="1079"/></a><figcaption>The Eyrie in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Eyrie nằm trong "Wolf-denes" của <a href="../V/Vales_of_Anduin.md" title="Vales of Anduin">Thung lũng Anduin</a>. Nó không thể được truy cập từ bên dưới và người chơi sẽ đến thăm nó sau khi được một chú Đại bàng thân thiện mang theo.</dd></dl>
 

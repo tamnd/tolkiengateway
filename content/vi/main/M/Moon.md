@@ -64,7 +64,7 @@ Tilion dẫn đường cho cuộc tấn công của ông tiến lên bầu trờ
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Darryl_Elliott_-_Moon.jpg.md"><img src="https://tolkiengateway.net/w/images/c/c6/Darryl_Elliott_-_Moon.jpg" decoding="async" loading="lazy" width="288" height="244" class="mw-file-element" data-file-width="288" data-file-height="244"/></a><figcaption><i>Moon</i> by Darryl Elliott</figcaption></figure>
 
-Theo truyền thuyết về [Tiên tộc](../E/Elves.md), Tilion là một người lái tàu không vững vàng, đôi khi sống quá lâu dưới lòng đất hoặc xuất hiện trên bầu trời cùng lúc với Mặt Trời. Ông ta bị thu hút bởi Mặt Trời mới tươi sáng, được phóng từ Valinor ngay sau tàu của chính ông ta,<sup id="cite_ref-Sil_1-2" class="reference"><a href="#cite_note-Sil-1">[1]</a></sup> và việc ông ta đến quá gần người bạn đồng hành rực lửa của mình được cho là nguyên nhân khiến khuôn mặt của Mặt Trăng trở nên tối sầm.
+Theo truyền thuyết về [Tiên tộc](../E/Elves.md), Tilion là một người lái tàu không vững vàng, đôi khi sống quá lâu dưới lòng đất hoặc xuất hiện trên bầu trời cùng lúc với Mặt Trời. Ông bị thu hút bởi Mặt Trời mới tươi sáng, được phóng từ Valinor ngay sau tàu của chính ông,<sup id="cite_ref-Sil_1-2" class="reference"><a href="#cite_note-Sil-1">[1]</a></sup> và việc ông đến quá gần người bạn đồng hành rực lửa của mình được cho là nguyên nhân khiến khuôn mặt của Mặt Trăng trở nên tối sầm.
 
 Theo truyền thống,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Melkor sẽ khám phá cách phá vỡ [Cánh Cửa Đêm](../D/Door_of_Night.md) và sẽ phá hủy cả Mặt Trời và Mặt Trăng.
 

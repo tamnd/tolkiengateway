@@ -35,7 +35,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào [10 tháng 3](../_/10_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> [Beregond](../B/Beregond.md), một thành viên của [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md), đã trở về [Minas Tirith](../M/Minas_Tirith.md) từ Causeway Pháo đài mà ông ta đã được cử đến từ thành phố qua cánh đồng Pelennor.<sup id="cite_ref-Siege_2-1" class="reference"><a href="#cite_note-Siege-2">[2]</a></sup>
+Vào [10 tháng 3](../_/10_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> [Beregond](../B/Beregond.md), một thành viên của [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md), đã trở về [Minas Tirith](../M/Minas_Tirith.md) từ Causeway Pháo đài mà ông đã được cử đến từ thành phố qua cánh đồng Pelennor.<sup id="cite_ref-Siege_2-1" class="reference"><a href="#cite_note-Siege-2">[2]</a></sup>
 
 Ngày hôm sau, [11 tháng 3](../_/11_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> [Quản lý Gondor](../S/Steward_of_Gondor.md) [Denethor](../D/Denethor.md) cử con trai út [Faramir](../F/Faramir.md) đi [bảo vệ](../F/Faramir's_defence_of_Osgiliath.md) cuộc vượt sông [Anduin](../A/Anduin.md) lúc Osgiliath chống lại <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morgul-host&amp;action=edit&amp;redlink=1" title="Morgul-host (page does not exist)">Morgul-host</a> để tiêu diệt quân địch kẻ tấn công trước khi rút lui về Minas Tirith.
 
@@ -49,7 +49,7 @@ Trong bản thảo trước đó về phần sau này trở thành chương [ Cu
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Pháo đài Causeway canh giữ con đường phía tây ra khỏi thành phố. Trong phiên bản thành phố đóng vai trò là bản đồ người chơi đấu với quái vật, chúng là thành trì của Dân tộc Tự do và người chơi kẻ thù không thể tiếp cận được.</dd></dl>
 

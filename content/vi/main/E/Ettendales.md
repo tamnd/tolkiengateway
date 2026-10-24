@@ -27,7 +27,7 @@ langlinks:
 
 ## Lịch sử {#History}
 
-Sáng [17 tháng 10](../_/17_October.md), [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ở trong trại [Rhudaur](../R/Rhudaur.md) trên thềm đá có tường đá phía sau [Strider](../A/Aragorn.md) nói với [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng họ đã đi quá xa về phía bắc và cần tìm đường quay lại phía nam. Ông đề cập rằng nếu họ tiếp tục đi theo cùng một hướng, họ sẽ tiến vào Ettendales xa về phía bắc của Rivendell. Strider nói rằng Ettendales là một đất nước quỷ lùn và ít được ông ta biết đến.<sup id="cite_ref-Flight_2-2" class="reference"><a href="#cite_note-Flight-2">[2]</a></sup>
+Sáng [17 tháng 10](../_/17_October.md), [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ở trong trại [Rhudaur](../R/Rhudaur.md) trên thềm đá có tường đá phía sau [Strider](../A/Aragorn.md) nói với [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) rằng họ đã đi quá xa về phía bắc và cần tìm đường quay lại phía nam. Ông đề cập rằng nếu họ tiếp tục đi theo cùng một hướng, họ sẽ tiến vào Ettendales xa về phía bắc của Rivendell. Strider nói rằng Ettendales là một đất nước quỷ lùn và ít được ông biết đến.<sup id="cite_ref-Flight_2-2" class="reference"><a href="#cite_note-Flight-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

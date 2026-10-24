@@ -39,7 +39,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông ta sống ở các sườn núi phía trên và phía tây của [Isengard](../I/Isengard.md), vì vậy ông ta và người dân của mình phải chịu đựng nhiều nhất dưới bàn tay của [Saruman](Saruman.md) khi cướp bóc [Orc](../O/Orcs.md). Sau khi nhiều người dân và đàn cây của ông ta bị tiêu diệt và ông ta bị thương, Skinbark di chuyển lên cao trên sườn dốc để ở bên những [bạch dương](../B/Birches.md) mà ông ta yêu thích nhất và không chịu xuống.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông sống ở các sườn núi phía trên và phía tây của [Isengard](../I/Isengard.md), vì vậy ông và người dân của mình phải chịu đựng nhiều nhất dưới bàn tay của [Saruman](Saruman.md) khi cướp bóc [Orc](../O/Orcs.md). Sau khi nhiều người dân và đàn cây của ông bị tiêu diệt và ông bị thương, Skinbark di chuyển lên cao trên sườn dốc để ở bên những [bạch dương](../B/Birches.md) mà ông yêu thích nhất và không chịu xuống.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -75,7 +75,7 @@ infobox:
 
 <dl><dd>Vỏ ngoài được mô tả trên thẻ <i>Skibark</i>, được minh họa bởi <a href="../G/Gail_McIntosh.md" title="Gail McIntosh">Gail McIntosh</a>. Ông có những tác dụng sau:</dd></dl>
 
-> Không thể bị tấn công bởi các cuộc tấn công tự động hoặc các mối nguy hiểm gắn liền với trang web của ông ta. Loại bỏ Skinbark nếu công ty của ông ta chuyển đến một địa điểm không nằm trong: Fangorn, Rohan, Gap of Isen, Wold &Foothills, Anduin Vales hoặc Redhorn Gap.
+> Không thể bị tấn công bởi các cuộc tấn công tự động hoặc các mối nguy hiểm gắn liền với trang web của ông. Loại bỏ Skinbark nếu công ty của ông chuyển đến một địa điểm không nằm trong: Fangorn, Rohan, Gap of Isen, Wold &Foothills, Anduin Vales hoặc Redhorn Gap.
 
 <b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 

@@ -29,7 +29,7 @@ Trong một bài thơ, [Tom Bombadil](../T/Tom_Bombadil.md) bị kéo xuống s�
 
 ### Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><b>Những thiếu nữ trên sông</b> là những linh hồn trông coi vùng nước <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>, người ta cho rằng họ sẽ có mặt bất cứ khi nào một dòng sông chảy. <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a> là Thiếu nữ sông của <a href="../W/Withywindle.md" title="Withywindle">Withywindle</a> và những người khác có thể được tìm thấy đang quan sát <a class="mw-redirect" href="../M/Midgewater.md" title="Midgewater">Midgewater</a>, <a class="mw-redirect" href="../M/Mitheithel.md" title="Mitheithel">Mitheithel</a>, <a href="../G/Gladden_River.md" title="Gladden River">Gladden</a>, <a href="../G/Gilrain.md" title="Gilrain">Gilrain</a>, <a href="../S/Serni.md" title="Serni">Serni</a>, <a href="../C/Celos.md" title="Celos">Celos</a>, <a href="../S/Sirith.md" title="Sirith">Sirith</a> và <a href="../E/Erui.md" title="Erui">Erui</a>. Một số lộ diện một cách công khai, số khác thì kín đáo và chỉ tiết lộ bản thân với Wise và con cháu của <a href="../N/Númenóreans.md" title="Númenóreans">người Númenor</a>, những người đã biết đến River-girls từ xa xưa. Nhưng một số đã phát điên vì máu đổ trên vùng biển của họ, hoặc thậm chí bị giết bởi những người hầu của Kẻ Thù, những người sau đó đã khoác lên mình vẻ ngoài xinh đẹp của họ.</dd></dl>
 

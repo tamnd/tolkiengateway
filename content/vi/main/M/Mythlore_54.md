@@ -69,7 +69,7 @@ infobox:
 #### Đánh giá {#Reviews}
 
 - *A Cry Like a Bell.* Madeleine L'Engle. Được đánh giá bởi Nancy-Lou Patterson.
-- *C.S. Lewis: Con người và Chúa của ông ta.* Richard Harries. Được đánh giá bởi Nancy-Lou Patterson.
+- *C.S. Lewis: Con người và Chúa của ông.* Richard Harries. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis, Mere Christian.* Kathryn Lindskoog. Được đánh giá bởi Nancy-Lou Patterson.
 - *The Screwtape Letters.* C.S. Lewis. Được đánh giá bởi Nancy-Lou Patterson.
 

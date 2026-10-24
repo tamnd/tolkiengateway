@@ -92,7 +92,7 @@ Sự kiện xảy ra vào ngày 24 tháng Chín.
     - Họ trốn trong gốc cây, ăn nhẹ và nghỉ ngơi, rồi tiếp tục hoạt động khi màn đêm buông xuống.
     - [Gildor Inglorion](../G/Gildor.md) và [những người bạn đồng hành của ông](../W/Wandering_Companies.md) trở về sau cuộc hành hương đến *[palantír](../E/Elostirion-stone.md)* của [Tower Hills](../T/Tower_Hills.md) đến [Rivendell](../R/Rivendell.md).
     - Khamûl cảm nhận được chiếc nhẫn một lần nữa và truy đuổi Frodo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-    - Frodo, Sam và Pippin chạm trán với [Nazgûl](../N/Nazgûl.md) gần [Woody End](../W/Woody_End.md); ông ta bỏ chạy vì [tiếng tụng kinh](../E/Elven_Hymn_to_Elbereth.md) của Yêu tinh đang đến gần. Trại Hobbit với Yêu tinh.
+    - Frodo, Sam và Pippin chạm trán với [Nazgûl](../N/Nazgûl.md) gần [Woody End](../W/Woody_End.md); ông bỏ chạy vì [tiếng tụng kinh](../E/Elven_Hymn_to_Elbereth.md) của Yêu tinh đang đến gần. Trại Hobbit với Yêu tinh.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 
 <span></span>

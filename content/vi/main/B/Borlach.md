@@ -55,7 +55,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Borlach và người thân của ông ta phục vụ [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md), anh cả [các Con trai của Fëanor](../S/Sons_of_Fëanor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia giết các con trai của [Ulfang](../U/Ulfang.md) trước khi chính ông ta bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Borlach và người thân của ông phục vụ [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md), anh cả [các Con trai của Fëanor](../S/Sons_of_Fëanor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia giết các con trai của [Ulfang](../U/Ulfang.md) trước khi chính ông bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

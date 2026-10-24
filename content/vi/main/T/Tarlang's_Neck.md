@@ -34,7 +34,7 @@ images:
 
 ## Lịch sử {#History}
 
-Một truyền thuyết địa phương của [người dân bản địa](../P/Pre-Númenóreans.md) của [Gondor](../G/Gondor.md) kể về [người khổng lồ](../G/Giants.md) và một trong số họ tên là [Tarlang](Tarlang.md) đã bị vấp và gãy cổ. Những người khổng lồ khác đã không dọn dẹp cơ thể của ông ta mà thay vào đó đã hợp nhất vào vùng đất. Cổ của người khổng lồ trở thành Cổ của Tarlang, đầu [Dol Tarlang](../D/Dol_Tarlang.md) của ông ta và những viên đá ông ta đang mang [Cûl Veleg](../C/Cûl_Veleg.md) và [Cûl Bîn](../C/Cûl_Bîn.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Một truyền thuyết địa phương của [người dân bản địa](../P/Pre-Númenóreans.md) của [Gondor](../G/Gondor.md) kể về [người khổng lồ](../G/Giants.md) và một trong số họ tên là [Tarlang](Tarlang.md) đã bị vấp và gãy cổ. Những người khổng lồ khác đã không dọn dẹp cơ thể của ông mà thay vào đó đã hợp nhất vào vùng đất. Cổ của người khổng lồ trở thành Cổ của Tarlang, đầu [Dol Tarlang](../D/Dol_Tarlang.md) của ông và những viên đá ông đang mang [Cûl Veleg](../C/Cûl_Veleg.md) và [Cûl Bîn](../C/Cûl_Bîn.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Tarlang's Neck là một phần của tuyến đường mà qua đó [Aragorn](../A/Aragorn.md) và [Đại đội Xám](../G/Grey_Company.md) dẫn đầu [Đội quân của Người chết](../A/Army_of_the_Dead~6352.md) trong hành trình giải cứu [Minas Tirith](../M/Minas_Tirith.md) ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -46,7 +46,7 @@ Tarlang's Neck là một phần của tuyến đường mà qua đó [Aragorn](.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tarlang's Neck là một khu vực nhỏ nằm giữa <a href="../B/Blackroot_Vale.md" title="Blackroot Vale">Blackroot Vale</a> và <a href="../L/Lamedon.md" title="Lamedon">Lamedon</a> ở phía Tây <a href="../G/Gondor.md" title="Gondor">Gondor</a>.</dd></dl>
 

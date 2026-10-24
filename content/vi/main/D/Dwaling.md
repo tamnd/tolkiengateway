@@ -44,13 +44,13 @@ infobox:
 
 Ở có vẻ là một dạng biện chứng của <i><a class="extiw" href="http://en.wiktionary.org/wiki/dwelling" title="wiktionary:dwelling">ở</a></i>.
 
-Trong một ghi chú dành cho người dịch, Tolkien nói, nhưng không nói rõ liệu đó có phải là ý định của ông ta hay không, rằng *Dwaling* "nên" là một cách hình thành địa danh thông thường của tên một khu định cư, "hậu duệ của *Dwale*". *Dwale* sẽ là biệt hiệu của một Hobbit cụ thể và tên này bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *dwale*, "ngu ngốc".<sup id="cite_ref-lviii_2-0" class="reference"><a href="#cite_note-lviii-2">[2]</a></sup>
+Trong một ghi chú dành cho người dịch, Tolkien nói, nhưng không nói rõ liệu đó có phải là ý định của ông hay không, rằng *Dwaling* "nên" là một cách hình thành địa danh thông thường của tên một khu định cư, "hậu duệ của *Dwale*". *Dwale* sẽ là biệt hiệu của một Hobbit cụ thể và tên này bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *dwale*, "ngu ngốc".<sup id="cite_ref-lviii_2-0" class="reference"><a href="#cite_note-lviii-2">[2]</a></sup>
 
 Điều đáng chú ý là *dull* và *dwale* ([Gothic](../G/Gothic.md): *dwals* "ngốc") là cùng nguồn gốc của Tol- in [**Tol**kien](../T/Tolkien.md) (tiếng Đức: <i><b>toll</b>kühn</i>, "ngốc nghếch").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tolkien đã dịch tên của chính mình sang tiếng Gothic là *Dwalakōneis*.<sup id="cite_ref-lviii_2-1" class="reference"><a href="#cite_note-lviii-2">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dwaling is the northernmost settlement of the Shire, located within the in-game <a href="../E/Evendim.md" title="Evendim">Evendim</a> region. It is the first Shire settlement to be overrun by southern ruffians, who have already moved in and began pusing out the Hobbits by October of <a href="../T/Third_Age_3018.md" title="Third Age 3018">Third Age 3018</a>.</dd></dl>
 

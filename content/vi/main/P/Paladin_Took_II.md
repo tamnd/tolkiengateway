@@ -80,7 +80,7 @@ Paladin là hậu duệ trực tiếp của [Old Took](../G/Gerontius_Took.md), 
 
 ### Cuộc chiến Nhẫn {#War_of_the_Ring}
 
-Paladin không bao giờ đồng ý với nỗ lực của [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) nhằm chiếm lấy [ Shire](../T/The_Shire.md) vì ông ta tin rằng nếu có ai đến gặp "Tù trưởng" thì đó phải là [Thain hợp pháp của Shire](../T/Thain_of_the_Shire.md), do đó Paladin và người Tooks khác đã đứng lên chống lại Lotho và [Ruffians](../R/Ruffians.md) của ông ta. Những [Tooks](../T/Took_Family.md) ẩn náu trong những nơi trú ẩn sâu của [Great Smials](../G/Great_Smials.md), và những kẻ lưu manh không thể bắt được chúng, và nếu tìm thấy bất kỳ kẻ lưu manh nào ở [Tookland](../T/Tookland.md) thì chúng sẽ bị bắn chết, một hành động khiến những kẻ lưu manh trở nên khắc nghiệt hơn.<sup id="cite_ref-Scouring_4-0" class="reference"><a href="#cite_note-Scouring-4">[4]</a></sup>
+Paladin không bao giờ đồng ý với nỗ lực của [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) nhằm chiếm lấy [ Shire](../T/The_Shire.md) vì ông tin rằng nếu có ai đến gặp "Tù trưởng" thì đó phải là [Thain hợp pháp của Shire](../T/Thain_of_the_Shire.md), do đó Paladin và người Tooks khác đã đứng lên chống lại Lotho và [Ruffians](../R/Ruffians.md) của ông. Những [Tooks](../T/Took_Family.md) ẩn náu trong những nơi trú ẩn sâu của [Great Smials](../G/Great_Smials.md), và những kẻ lưu manh không thể bắt được chúng, và nếu tìm thấy bất kỳ kẻ lưu manh nào ở [Tookland](../T/Tookland.md) thì chúng sẽ bị bắn chết, một hành động khiến những kẻ lưu manh trở nên khắc nghiệt hơn.<sup id="cite_ref-Scouring_4-0" class="reference"><a href="#cite_note-Scouring-4">[4]</a></sup>
 
 Vào thời điểm này, con trai của Paladin [Peregrin](Peregrin_Took.md) và [ba hobbit khác](../T/Travellers.md), đều đã bị mất tích trong [Khu Rừng Cổ](../O/Old_Forest.md). Sự trở lại của họ thật bất ngờ, nhưng Paladin hoàn toàn chấp nhận đề nghị đánh đuổi Ruffians của họ. Ông cử một trăm Tooks cùng con trai đến [Trận Bywater](../B/Battle_of_Bywater.md) và chỉ huy số quân còn lại dọn dẹp khu vực phía nam làng.<sup id="cite_ref-Scouring_4-1" class="reference"><a href="#cite_note-Scouring-4">[4]</a></sup>
 
@@ -129,7 +129,7 @@ Tên *Paladin* có nguồn gốc từ tiếng Latin *palatinus*, có nghĩa là 
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thain Paladin Took II được tìm thấy tại <a href="../G/Great_Smials.md" title="Great Smials">Great Smials</a> ở <a href="../T/Tuckborough.md" title="Tuckborough">Tuckborough</a>. Ông yêu cầu người chơi hỗ trợ một số vấn đề địa phương.</dd></dl>
 

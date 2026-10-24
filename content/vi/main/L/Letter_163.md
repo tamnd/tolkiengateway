@@ -63,7 +63,7 @@ Sau thành công của *The Hobbit* Tolkien được yêu cầu viết phần ti
 
 ### Diễn biến không lường trước được {#Unforeseen_Developments}
 
-Tolkien phản ánh nhiều lần trong bức thư này về tính chất không thể đoán trước của quá trình sáng tạo. Ông giải thích rằng nhiều khía cạnh của câu chuyện dường như đã bộc lộ với ông khi ông viết, điều này thường khiến ông ngạc nhiên. Ông ta mô tả [Strider](../S/Strider.md) xuất hiện bất ngờ như thế nào trong [The Prancing Pony](../T/The_Prancing_Pony.md); "Strider ngồi trong góc quán trọ thật là sốc, tôi chẳng biết ông ta là ai hơn Frodo". Tương tự, các yếu tố chính khác, chẳng hạn như [Mỏ Moria](../M/Mines_of_Moria.md) và [Lothlórien](Lothlórien.md), xuất hiện một cách tự nhiên khi câu chuyện tiến triển.
+Tolkien phản ánh nhiều lần trong bức thư này về tính chất không thể đoán trước của quá trình sáng tạo. Ông giải thích rằng nhiều khía cạnh của câu chuyện dường như đã bộc lộ với ông khi ông viết, điều này thường khiến ông ngạc nhiên. Ông mô tả [Strider](../S/Strider.md) xuất hiện bất ngờ như thế nào trong [The Prancing Pony](../T/The_Prancing_Pony.md); "Strider ngồi trong góc quán trọ thật là sốc, tôi chẳng biết ông là ai hơn Frodo". Tương tự, các yếu tố chính khác, chẳng hạn như [Mỏ Moria](../M/Mines_of_Moria.md) và [Lothlórien](Lothlórien.md), xuất hiện một cách tự nhiên khi câu chuyện tiến triển.
 
 Ông thừa nhận đã cảm thấy bối rối trước một số khía cạnh nhất định trong công việc của chính mình, chẳng hạn như [Palantíri](../P/Palantíri.md), điều này chỉ trở nên rõ ràng đối với ông khi câu chuyện mở ra, nhận xét; "Tôi không biết gì về Palantíri, mặc dù lúc viên đá Orthanc được ném ra khỏi cửa sổ, tôi đã nhận ra nó".
 

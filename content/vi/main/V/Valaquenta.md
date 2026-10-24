@@ -83,7 +83,7 @@ Khi xuống Arda, Valar, theo sau là Ainur có sức mạnh thấp hơn, [Maiar
 
 ### Của Kẻ Thù {#Of_the_Enemies}
 
-Trong số những kẻ thù có Melkor, [Sauron](../S/Sauron.md) và [Balrog](../B/Balrogs.md), những linh hồn bị ông ta dụ dỗ và rơi vào hận thù.
+Trong số những kẻ thù có Melkor, [Sauron](../S/Sauron.md) và [Balrog](../B/Balrogs.md), những linh hồn bị ông dụ dỗ và rơi vào hận thù.
 
 ## Từ nguyên {#Etymology}
 

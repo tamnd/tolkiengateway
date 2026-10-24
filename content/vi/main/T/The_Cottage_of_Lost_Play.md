@@ -52,9 +52,9 @@ Nhiều sự kiện trọng đại được nhắc đến ở đây nhưng khôn
 
 Câu chuyện được ghi lại trong Sách bài tập cấp trung học có nhãn *The Cottage of Lost Play, trong đó có \[the\] Book of Lost Tales* và được viết bởi [Edith Tolkien](../E/Edith_Tolkien.md), là một bản sao khá đẹp của bản thảo gốc bằng bút chì có thể được viết vào mùa đông năm [1916](../_/1916.md)-[17](../_/1917.md).
 
-Eriol được mô tả là *"Son of Eärendel"* nhưng điều này không có nghĩa là ông ta là hậu duệ của [Eärendel](../E/Eärendel.md); nếu một chùm tia từ ngôi sao Eärendel rơi vào một đứa trẻ mới sinh, đứa trẻ đó sẽ bị coi là “đứa con của Eärendel” và trở thành kẻ lang thang không ngừng nghỉ.
+Eriol được mô tả là *"Son of Eärendel"* nhưng điều này không có nghĩa là ông là hậu duệ của [Eärendel](../E/Eärendel.md); nếu một chùm tia từ ngôi sao Eärendel rơi vào một đứa trẻ mới sinh, đứa trẻ đó sẽ bị coi là “đứa con của Eärendel” và trở thành kẻ lang thang không ngừng nghỉ.
 
-Bên cạnh cuốn sổ này là một cuốn sổ tay nhỏ có nhãn *Story of Eriol’s life*, trong số đó có những thứ giải thích về gia phả của ông. Ông ta có nguồn gốc từ thần Woden. Vào thời điểm đến thăm Tol Eressëa có hai con trai tên là [Hengest và Horsa](../H/Hengest_and_Horsa.md), họ là con của người vợ đầu tiên Cwén, người đã chết không rõ nguyên nhân không lâu trước chuyến hành trình tìm Đảo Cô đơn của Eriol.
+Bên cạnh cuốn sổ này là một cuốn sổ tay nhỏ có nhãn *Story of Eriol’s life*, trong số đó có những thứ giải thích về gia phả của ông. Ông có nguồn gốc từ thần Woden. Vào thời điểm đến thăm Tol Eressëa có hai con trai tên là [Hengest và Horsa](../H/Hengest_and_Horsa.md), họ là con của người vợ đầu tiên Cwén, người đã chết không rõ nguyên nhân không lâu trước chuyến hành trình tìm Đảo Cô đơn của Eriol.
 
 Eriol được cho là đến từ *"vùng đất phương Đông phía Bắc Biển"* mà chắc chắn đề cập đến một khu vực của bán đảo Đan Mạch theo [Christopher Tolkien](../C/Christopher_Tolkien.md). Nó cũng chỉ ra rằng Eriol dường như thuộc về thời kỳ trước cuộc xâm lược Anglo-Saxon của Anh.
 

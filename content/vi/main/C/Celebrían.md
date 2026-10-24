@@ -127,7 +127,7 @@ Trong các bản nháp của *[The Tale of Years](../T/The_Tale_of_Years.md)* v�
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Celebrían.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/The_Lord_of_the_Rings_Online_-_Celebr%C3%ADan.jpg/300px-The_Lord_of_the_Rings_Online_-_Celebr%C3%ADan.jpg" decoding="async" loading="lazy" width="300" height="208" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fb/The_Lord_of_the_Rings_Online_-_Celebr%C3%ADan.jpg/450px-The_Lord_of_the_Rings_Online_-_Celebr%C3%ADan.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fb/The_Lord_of_the_Rings_Online_-_Celebr%C3%ADan.jpg/600px-The_Lord_of_the_Rings_Online_-_Celebr%C3%ADan.jpg 2x" data-file-width="980" data-file-height="680"/></a><figcaption>Celebrían in <i>The Lord of the Rings Online</i></figcaption></figure>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Celebrían bị giam giữ tại Shathur-munzu, một tiền đồn của người lùn bị bỏ hoang của <a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a> đã thất thủ.</dd></dl>
 

@@ -56,7 +56,7 @@ Tên *Waymeet* là cách viết hiện đại của dạng cũ hơn, [Waymoot](W
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Waymeet là một khu định cư nhỏ, chỉ bao gồm một số hang hobbit nằm rải rác xung quanh ngã tư đường.</dd></dl>
 

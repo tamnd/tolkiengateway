@@ -32,7 +32,7 @@ images:
 <div class="tg-section-divider"></div>
 <p><br/>
 </p><p><b>Những Bức Tường của Thế Giới</b> là những bức tường bao quanh <a href="../A/Arda.md" title="Arda">Arda</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không rõ cái gì nằm bên ngoài chúng và cái gì chúng ngăn cách.
-</p><p><a href="../N/Nienna.md" title="Nienna">Nienna</a>&#39;s <a href="../H/Halls_of_Nienna.md" title="Halls of Nienna">halls</a> that were &#34;west of <a class="mw-redirect mw-disambig" href="West.md" title="West">West</a>, upon the borders of the world&#34;, had windows that looked outward from the walls of the world.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> 
+</p><p><a href="../H/Halls_of_Nienna.md" title="Halls of Nienna">các hội trường</a> của <a href="../N/Nienna.md" title="Nienna">Nienna</a> nằm ở "phía tây <a class="mw-redirect mw-disambig" href="West.md" title="West">Phương Tây</a>, ở biên giới của thế giới", có cửa sổ nhìn ra các bức tường của thế giới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> 
 </p><p>Sau khi bị đánh bại trong <a href="War_of_Wrath.md" title="War of Wrath">War of Wrath</a>, <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> bị đuổi ra ngoài Bức tường, xuyên qua <a href="../D/Door_of_Night.md" title="Door of Night">Cánh Cửa Đêm</a>, đến <a href="../V/Void.md" title="Void">Vượt thời gian Hư Không</a>, và kể từ khi chúng được canh gác.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>  
 </p>
 <h2><span class="mw-headline" id="Other_versions_of_the_legendarium">Các phiên bản khác của Legendarium</span></h2>

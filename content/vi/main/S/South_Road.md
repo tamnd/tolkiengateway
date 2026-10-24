@@ -37,7 +37,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), trước [Cuộc vây h�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Từ <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, con đường đi qua <a class="mw-redirect mw-disambig" href="../H/Harlond.md" title="Harlond">Harlond</a> và tiếp tục đến <a class="mw-redirect" href="../A/Arnach.md" title="Arnach">Arnach</a>, thị trấn lớn của <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a>. Sau khi băng qua <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a>, con đường chạy qua một ngôi làng nông nghiệp nhỏ "Glaniath" trước khi đến cổng phía đông của <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a>.</dd></dl>
 

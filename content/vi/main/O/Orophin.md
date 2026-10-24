@@ -43,7 +43,7 @@ infobox:
 
 Orophin là anh trai của [Haldir](../H/Haldir.md) và [Rúmil](<../R/Rúmil_(elf_of_Lórien).md>). Ông là một trong những người [Galadhrim](../G/Galadhrim.md) hiếm khi rời khỏi Lothlórien và chỉ nói một chút về [Westron](../W/Westron.md).
 
-Ông ta là một trong ba người cai ngục biên giới phía bắc của Lothlórien được [Học bổng](../F/Fellowship_of_the_Ring.md) gặp khi họ tiến vào [Golden Wood](../L/Lothlórien.md)<sup id="cite_ref-ii6_1-0" class="reference"><a href="#cite_note-ii6-1">[1]</a></sup> vào [15 tháng 1](../_/15_January.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ông là một trong ba người cai ngục biên giới phía bắc của Lothlórien được [Học bổng](../F/Fellowship_of_the_Ring.md) gặp khi họ tiến vào [Golden Wood](../L/Lothlórien.md)<sup id="cite_ref-ii6_1-0" class="reference"><a href="#cite_note-ii6-1">[1]</a></sup> vào [15 tháng 1](../_/15_January.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Vài ngày sau, khi người ta nhìn thấy một nhóm trăm người [Orc](Orcs.md) đi ngang qua [Nimrodel](<../N/Nimrodel_(river).md>), ba anh em đã đi trước và giả giọng nói, dẫn họ vào rừng. Orophin chạy lại cảnh báo Galadhrim và chuẩn bị phục kích, củng cố khu rừng.<sup id="cite_ref-ii6_1-1" class="reference"><a href="#cite_note-ii6-1">[1]</a></sup>
 
@@ -87,7 +87,7 @@ Một khả năng là *Orophin* có nghĩa là "Đỉnh núi", từ *[orod](Orod
 
 <dl><dd>Các thẻ từ <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> bản mở rộng <i>Fellowship of the Ring</i>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> <i>Black Rider</i><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và <i>Rise of Saruman</i><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> xác định một trong những <a href="../G/Galadhrim.md" title="Galadhrim">Tiên tộc</a> của <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a> là Orophin. Ông được miêu tả bởi <a href="../J/Jason_Secto.md" title="Jason Secto">Jason Secto</a>.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Orophin có thể được tìm thấy ở vùng ngoại ô phía tây của <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>, bảo vệ biên giới trước các cuộc tấn công của <a class="mw-redirect" href="Orc.md" title="Orc">orc</a>.</dd></dl>
 

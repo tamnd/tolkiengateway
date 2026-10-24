@@ -23,7 +23,7 @@ hidden_categories:
 
 <dl><dd>Một loại cây Sồi, cụ thể là <i><b>Furry Oak</b></i>, được mô tả trong cuốn sách. Nó được đặt tên theo lông tơ ở mặt dưới lá và mũ quả đấu. Những quả sồi này được <a href="../G/Galadhrim.md" title="Galadhrim">Galadhrim</a> và <a href="../W/Woodmen.md" title="Woodmen">Người Rừng</a> ưa chuộng, những người đã sử dụng chúng để làm bánh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gỗ của cây này có thể được <i>Eastemnet</i> người kiểm lâm ở <a href="../R/Rohan.md" title="Rohan">Rohan</a> tìm kiếm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

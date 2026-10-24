@@ -72,7 +72,7 @@ Mike Ritchie, Stein Stie</td></tr><tr><th scope="row" class="tg-infobox-label">B
 
 ## Tóm tắt {#Synopsis}
 
-Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu, ông ta phái Aragorn đi tìm và bắt giữ sinh vật Gollum, vật chủ cũ của chiếc nhẫn.
+Khi Gandalf biết được sự thật về chiếc nhẫn mà Frodo sở hữu, ông phái Aragorn đi tìm và bắt giữ sinh vật Gollum, vật chủ cũ của chiếc nhẫn.
 
 ## Truyền {#Cast}
 

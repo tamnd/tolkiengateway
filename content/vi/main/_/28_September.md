@@ -78,7 +78,7 @@ Sự kiện xảy ra vào ngày 28 tháng Chín.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông ta đi ngang qua [Barrow-downs](../B/Barrow-downs.md) và bị bắt giữ bởi [Barrow-wight](../B/Barrow-wights.md). [Tom Bombadil](../T/Tom_Bombadil.md) giải cứu họ, tìm và đổi tên năm chú ngựa con của họ, đưa vũ khí cho họ và đề nghị đến thăm [Prancing Pony](../P/Prancing_Pony.md) tại [Bree](../B/Bree.md).
+    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông đi ngang qua [Barrow-downs](../B/Barrow-downs.md) và bị bắt giữ bởi [Barrow-wight](../B/Barrow-wights.md). [Tom Bombadil](../T/Tom_Bombadil.md) giải cứu họ, tìm và đổi tên năm chú ngựa con của họ, đưa vũ khí cho họ và đề nghị đến thăm [Prancing Pony](../P/Prancing_Pony.md) tại [Bree](../B/Bree.md).
     - [Gandalf](../G/Gandalf.md) đạt [Sarn Ford](../S/Sarn_Ford.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
     - Vào ban đêm [Khamûl](../K/Khamûl.md) và [Ringwraith](../R/Ringwraiths.md) từ [Dol Guldur](../D/Dol_Guldur.md) đến [Crickhollow](../C/Crickhollow.md); Khamûl cử [Dol Guldur](../D/Dol_Guldur.md) Ma Nhẫn đi thu thập Ma Nhẫn đã bảo vệ [Cầu Brandywine](../B/Brandywine_Bridge.md) và những con ngựa mà chúng đã bỏ lại. Cả ba Nazgûl sau đó canh chừng Crickhollow suốt đêm cho đến sáng hôm sau.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

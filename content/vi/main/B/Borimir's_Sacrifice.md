@@ -33,13 +33,13 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Sau khi cố gắng thuyết phục [Frodo](../F/Frodo_Baggins.md) mang [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) về [Minas Tirith](../M/Minas_Tirith.md), [Boromir](Boromir.md) quay trở lại phần còn lại của Hiệp hội. Sau khi [Aragorn](../A/Aragorn.md) hỏi ông ta Frodo ở đâu, Boromir thú nhận và nói với ông ta rằng Frodo đã đeo Chiếc nhẫn vào. [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) chạy đi tìm ông ta, với [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) theo sát phía sau. Sau vài lời giận dữ, Aragorn gửi Boromir đi theo những người còn lại, trong khi ông ta mang theo Sam.
+Sau khi cố gắng thuyết phục [Frodo](../F/Frodo_Baggins.md) mang [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) về [Minas Tirith](../M/Minas_Tirith.md), [Boromir](Boromir.md) quay trở lại phần còn lại của Hiệp hội. Sau khi [Aragorn](../A/Aragorn.md) hỏi ông Frodo ở đâu, Boromir thú nhận và nói với ông rằng Frodo đã đeo Chiếc nhẫn vào. [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) chạy đi tìm ông, với [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md) theo sát phía sau. Sau vài lời giận dữ, Aragorn gửi Boromir đi theo những người còn lại, trong khi ông mang theo Sam.
 
-Sam cảm thấy khác hẳn. Vì đôi chân của ông không đủ dài để theo kịp Người, ông bắt đầu nghĩ Frodo có thể đã đi đâu. Suy đoán của ông - Frodo đã lên thuyền - là chính xác, và sau khi suýt chết đuối, ông bị kéo lên tàu bởi một Frodo vẫn vô hình. Khi hai Hobbit tiến sang bờ bên kia, họ bị theo dõi bởi [Gollum](../G/Gollum.md) trên nhật ký của ông ta.
+Sam cảm thấy khác hẳn. Vì đôi chân của ông không đủ dài để theo kịp Người, ông bắt đầu nghĩ Frodo có thể đã đi đâu. Suy đoán của ông - Frodo đã lên thuyền - là chính xác, và sau khi suýt chết đuối, ông bị kéo lên tàu bởi một Frodo vẫn vô hình. Khi hai Hobbit tiến sang bờ bên kia, họ bị theo dõi bởi [Gollum](../G/Gollum.md) trên nhật ký của ông.
 
-Đang tìm kiếm Frodo, Merry và Pippin bị bắt bởi Orc. Boromir đến để cứu họ, nhưng khi họ chạy trốn thì ông ta bị mũi tên xuyên qua. Ông ta cố gắng đứng vững bằng cách dựa vào một cái cây và rút những mũi tên ra. Tuy nhiên, trước khi ông ta có thể tấn công Orc, ông ta lại bị đánh. Trong nỗ lực cuối cùng, ông ta thổi [còi](../G/Great_Horn.md) của mình. Aragorn, Legolas và Gimli nghe thấy tiếng còi liền lao về phía có tiếng còi.
+Đang tìm kiếm Frodo, Merry và Pippin bị bắt bởi Orc. Boromir đến để cứu họ, nhưng khi họ chạy trốn thì ông bị mũi tên xuyên qua. Ông cố gắng đứng vững bằng cách dựa vào một cái cây và rút những mũi tên ra. Tuy nhiên, trước khi ông có thể tấn công Orc, ông lại bị đánh. Trong nỗ lực cuối cùng, ông thổi [còi](../G/Great_Horn.md) của mình. Aragorn, Legolas và Gimli nghe thấy tiếng còi liền lao về phía có tiếng còi.
 
-Khi Boromir thất thủ, Orc mang theo hai chiếc Hobbit và rời đi. Khi Aragorn đến, ông ta chỉ tìm thấy Boromir, người thú nhận đã cố lấy Chiếc nhẫn từ Frodo và ăn năn về hành động của mình. Legolas và Gimli đến nhưng Boromir đã chết.
+Khi Boromir thất thủ, Orc mang theo hai chiếc Hobbit và rời đi. Khi Aragorn đến, ông chỉ tìm thấy Boromir, người thú nhận đã cố lấy Chiếc nhẫn từ Frodo và ăn năn về hành động của mình. Legolas và Gimli đến nhưng Boromir đã chết.
 
 ## Truyền {#Cast}
 

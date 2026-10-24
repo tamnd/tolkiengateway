@@ -58,7 +58,7 @@ infobox:
 
 Một phiên bản rút gọn của nó, dưới tựa đề <i><b><a href="../T/The_End_of_the_Third_Age.md" title="The End of the Third Age">Sự kết thúc của Kỷ Đệ Tam</a></b></i>, tạo thành tập thứ tư của *[The History of The Lord of the Rings](../T/The_History_of_The_Lord_of_the_Rings.md)*, ghi lại quá trình viết của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
-Tập này kết thúc câu chuyện và có *Epilogue* bị từ chối, trong đó [Sam](Sam.md) trả lời các câu hỏi của con ông ta. Nó cũng bao gồm *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)* (một câu chuyện du hành thời gian liên quan đến [Númenor](../N/Númenor.md)), bản nháp của *[Drowning of Anadûnê](../D/Drowning_of_Anadûnê.md)* và tài liệu duy nhất còn tồn tại về ngôn ngữ hư cấu của Tolkien [Adûnaic](../A/Adûnaic.md).
+Tập này kết thúc câu chuyện và có *Epilogue* bị từ chối, trong đó [Sam](Sam.md) trả lời các câu hỏi của con ông. Nó cũng bao gồm *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)* (một câu chuyện du hành thời gian liên quan đến [Númenor](../N/Númenor.md)), bản nháp của *[Drowning of Anadûnê](../D/Drowning_of_Anadûnê.md)* và tài liệu duy nhất còn tồn tại về ngôn ngữ hư cấu của Tolkien [Adûnaic](../A/Adûnaic.md).
 
 Tựa đề *The End of the Third Age* là tựa gốc cho Quyển 6 của *TLotR*, sau đó bị Tolkien loại bỏ.
 

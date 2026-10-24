@@ -46,7 +46,7 @@ Vào năm [Kỷ Đệ Tam](../T/Third_Age.md) [2941](../T/Third_Age_2941.md)<sup
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Beorn&#39;s_Hall.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Beorn%27s_Hall.jpg/250px-The_Lord_of_the_Rings_Online_-_Beorn%27s_Hall.jpg" decoding="async" loading="lazy" width="250" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Beorn%27s_Hall.jpg/375px-The_Lord_of_the_Rings_Online_-_Beorn%27s_Hall.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Beorn%27s_Hall.jpg/500px-The_Lord_of_the_Rings_Online_-_Beorn%27s_Hall.jpg 2x" data-file-width="1920" data-file-height="920"/></a><figcaption>The Beorninghús in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sảnh của Beorn được gọi là "<i>Beorninghús</i>" và là nhà của <a href="../G/Grimbeorn.md" title="Grimbeorn">Grimbeorn</a> và vợ ông là Gírta, các con của họ và đại gia đình. Đây là khu vực xuất phát cho các nhân vật của người chơi <a class="mw-redirect" href="Beorning.md" title="Beorning">Beorning</a>.</dd></dl>
 

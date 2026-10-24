@@ -84,7 +84,7 @@ Sau khi Vua Elessar trở về, giao ước giữa Cirion và Eorl được tái
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Halifirien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/53/The_Lord_of_the_Rings_Online_-_Halifirien.jpg/300px-The_Lord_of_the_Rings_Online_-_Halifirien.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/53/The_Lord_of_the_Rings_Online_-_Halifirien.jpg/450px-The_Lord_of_the_Rings_Online_-_Halifirien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/53/The_Lord_of_the_Rings_Online_-_Halifirien.jpg/600px-The_Lord_of_the_Rings_Online_-_Halifirien.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Halifirien đèn hiệu ở <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bạn có thể nhìn thấy Beacon-hill của Halifirien từ thị trấn Beaconwatch ở Rohan và có thể truy cập từ khu vực Beacon-hills ở Gondor. <a href="../T/Tomb_of_Elendil.md" title="Tomb of Elendil">Ngôi mộ của Elendil</a> vẫn còn nguyên vẹn, mặc dù một số <a href="../V/Variags.md" title="Variags">Variags</a> đã cố gắng tìm đường vào.</dd></dl>
 

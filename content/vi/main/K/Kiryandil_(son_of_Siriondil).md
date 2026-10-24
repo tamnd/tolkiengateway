@@ -41,7 +41,7 @@ Trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=Manuscri
 
 Tuy nhiên, ngay sau đó, nhân vật Kiryandil biến mất hoàn toàn, thay vào đó Eärnil trở thành con trai của Siriondil, con trai của Kalimmakil, con trai của Narmakil II.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup>
 
-Tuy nhiên, cuối cùng, trong phiên bản được xuất bản của *Appendix A*, phả hệ của Eärnil lại một lần nữa thay đổi - ở đó ông ta được mô tả là con trai của Siriondil, con trai của Calimmacil, con trai của [Arciryas](../A/Arciryas.md), một nhân vật mới được tạo ra được hình dung là anh trai của vua Narmacil II.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup>
+Tuy nhiên, cuối cùng, trong phiên bản được xuất bản của *Appendix A*, phả hệ của Eärnil lại một lần nữa thay đổi - ở đó ông được mô tả là con trai của Siriondil, con trai của Calimmacil, con trai của [Arciryas](../A/Arciryas.md), một nhân vật mới được tạo ra được hình dung là anh trai của vua Narmacil II.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

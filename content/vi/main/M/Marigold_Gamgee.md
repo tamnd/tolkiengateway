@@ -84,7 +84,7 @@ Sam dường như có mối quan hệ thân thiết với bà, than thở về v
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Marigold không phải là một NPC thông thường có mặt trong trò chơi mà chỉ xuất hiện trong một nhiệm vụ duy nhất khi lễ hội Yule hàng năm của trò chơi diễn ra. Bà xuất hiện trước mặt <a class="mw-redirect" href="../B/Bag-End.md" title="Bag-End">Bag-End</a> để ký vào bản kiến ​​nghị loại bỏ <a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville-Baggins</a> khỏi vị trí người lập kế hoạch Yule.</dd></dl>
 

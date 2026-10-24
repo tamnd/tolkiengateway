@@ -54,9 +54,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong quá trình sơ tán [Edoras](../E/Edoras.md), [Rohirrim](../R/Rohirrim.md) đề xuất rằng họ nên để Brego ở lại, do ông ta quá láu lỉnh và khó kiểm soát. Tuy nhiên, khi [Aragorn](../A/Aragorn.md) đề nghị giúp đỡ Rohirrim, ông ta có thể khiến con ngựa bình tĩnh lại bằng một số từ trong ngôn ngữ [Sindarin](../S/Sindarin.md) [Elvish](../E/Elvish.md). Trong khi ông ta làm như vậy, [Éowyn](../_/Éowyn.md) thông báo với ông ta rằng Brego thuộc về người anh họ [Théodred](../T/Théodred.md) hiện đã qua đời của cô. Aragorn khuyên chú rể thả Brego ra vì con ngựa đã "nhìn đủ chiến tranh".
+Trong quá trình sơ tán [Edoras](../E/Edoras.md), [Rohirrim](../R/Rohirrim.md) đề xuất rằng họ nên để Brego ở lại, do ông quá láu lỉnh và khó kiểm soát. Tuy nhiên, khi [Aragorn](../A/Aragorn.md) đề nghị giúp đỡ Rohirrim, ông có thể khiến con ngựa bình tĩnh lại bằng một số từ trong ngôn ngữ [Sindarin](../S/Sindarin.md) [Elvish](../E/Elvish.md). Trong khi ông làm như vậy, [Éowyn](../_/Éowyn.md) thông báo với ông rằng Brego thuộc về người anh họ [Théodred](../T/Théodred.md) hiện đã qua đời của cô. Aragorn khuyên chú rể thả Brego ra vì con ngựa đã "nhìn đủ chiến tranh".
 
-Sau đó, khi [Aragorn](../A/Aragorn.md) được cho là đã chết và mất tích, chính Brego đã tìm thấy thi thể bất tỉnh của Aragorn,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đưa ông ta đến Hornburg trong khi bằng cách nào đó vẫn tìm được thời gian để cho ông ta thấy [Saruman](../S/Saruman.md) đội quân [Uruk-hai](../U/Uruk-hai.md) từ [Orthanc](../O/Orthanc.md) đang tiếp cận nhanh chóng.
+Sau đó, khi [Aragorn](../A/Aragorn.md) được cho là đã chết và mất tích, chính Brego đã tìm thấy thi thể bất tỉnh của Aragorn,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> đưa ông đến Hornburg trong khi bằng cách nào đó vẫn tìm được thời gian để cho ông thấy [Saruman](../S/Saruman.md) đội quân [Uruk-hai](../U/Uruk-hai.md) từ [Orthanc](../O/Orthanc.md) đang tiếp cận nhanh chóng.
 
 Sau [Trận Hornburg](Battle_of_the_Hornburg.md) tại Helm's Deep, Brego một lần nữa gánh chịu Aragorn với tư cách là người cầm lái trên đường tới [Isengard](../I/Isengard.md). Với Aragorn, họ quay lại [Edoras](../E/Edoras.md).
 

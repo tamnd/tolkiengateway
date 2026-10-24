@@ -43,17 +43,17 @@ Lăng mộ của **Balin** là cảnh thứ hai mươi chín của *[The Lord of
 
 ## Tóm tắt {#Synopsis}
 
-Khi cuộc hành trình qua [Moria](../M/Moria.md) tiếp tục, [Gimli](../G/Gimli.md) đột nhiên nhìn thấy thứ gì đó khiến anh phải bỏ chạy về phía trước. Phần còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md) theo sau, để tìm Gimli quỳ gối và khóc trước một chiếc quan tài. [Gandalf](../G/Gandalf.md) đọc dòng chữ: "Nơi an nghỉ [Balin](Balin.md), con trai của [Fundin](../F/Fundin.md), Chúa tể Moria." Đưa mũ và cây trượng của mình cho [Pippin](../P/Peregrin_Took.md), ông ta lấy một cuốn sách cũ và bắt đầu đọc nó.
+Khi cuộc hành trình qua [Moria](../M/Moria.md) tiếp tục, [Gimli](../G/Gimli.md) đột nhiên nhìn thấy thứ gì đó khiến anh phải bỏ chạy về phía trước. Phần còn lại của [Học bổng](../F/Fellowship_of_the_Ring.md) theo sau, để tìm Gimli quỳ gối và khóc trước một chiếc quan tài. [Gandalf](../G/Gandalf.md) đọc dòng chữ: "Nơi an nghỉ [Balin](Balin.md), con trai của [Fundin](../F/Fundin.md), Chúa tể Moria." Đưa mũ và cây trượng của mình cho [Pippin](../P/Peregrin_Took.md), ông lấy một cuốn sách cũ và bắt đầu đọc nó.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Họ đã chiếm được cây cầu và sảnh thứ hai. Chúng ta đã chặn các cánh cổng nhưng không thể giữ chúng được lâu. Mặt đất rung chuyển. Trống... trống trong sâu. Chúng tôi không thể thoát ra được. Một Bóng Tối di chuyển trong bóng tối. Chúng tôi không thể thoát ra được. Họ đang đến.
 </p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Pippin bất ngờ chạm vào một trong những bộ xương người lùn, khiến nó ngã nhào xuống giếng và gây ra tiếng động lớn. Mọi người co rúm người lại và gồng mình khi tiếng ồn ào vang vọng khắp khu mỏ, nhưng dường như không có gì xảy ra. Gandalf khó chịu lấy lại mũ và cây trượng từ Pippin và trừng phạt ông ta, nhưng im lặng khi trống bắt đầu đánh.
+Pippin bất ngờ chạm vào một trong những bộ xương người lùn, khiến nó ngã nhào xuống giếng và gây ra tiếng động lớn. Mọi người co rúm người lại và gồng mình khi tiếng ồn ào vang vọng khắp khu mỏ, nhưng dường như không có gì xảy ra. Gandalf khó chịu lấy lại mũ và cây trượng từ Pippin và trừng phạt ông, nhưng im lặng khi trống bắt đầu đánh.
 
 [Sting](../S/Sting.md) đột nhiên bắt đầu phát sáng màu xanh lam, khiến [Sam](../S/Samwise_Gamgee.md) và [Frodo](../F/Frodo_Baggins.md) nhận ra rằng lũ Orc đang đến gần. [Boromir](Boromir.md) nhanh chóng cố gắng đóng cửa lăng mộ lại nhưng suýt bị trúng hai mũi tên của lũ Orc. Hiệp hội chuẩn bị cho trận chiến, Boromir mỉa mai lưu ý rằng họ có [Cave Troll](../C/Cave-trolls.md). [Legolas](../L/Legolas.md) ném rìu chặn cửa, sau đó họ lùi lại, mọi người rút vũ khí ra chiến đấu. Gimli gầm gừ, mạnh dạn tuyên bố rằng vẫn còn một người lùn trong Moria còn thở.
 
-Lũ Orc nhanh chóng phá cửa và trận chiến bắt đầu. Hiệp hội giữ vững lập trường của mình, nhưng sự xuất hiện bất ngờ của Cave-Troll đã lật ngược tình thế. Trong cuộc chiến, Frodo dường như bị xiên bởi một ngọn giáo từ Cave-Troll, nó sớm bị giết bởi Fellowship. Frodo được tiết lộ là không hề hấn gì, đã được cứu nhờ [Áo khoác Mithril](../M/Mithril-coat.md) do [Bilbo](Bilbo_Baggins.md) trao cho ông ta.
+Lũ Orc nhanh chóng phá cửa và trận chiến bắt đầu. Hiệp hội giữ vững lập trường của mình, nhưng sự xuất hiện bất ngờ của Cave-Troll đã lật ngược tình thế. Trong cuộc chiến, Frodo dường như bị xiên bởi một ngọn giáo từ Cave-Troll, nó sớm bị giết bởi Fellowship. Frodo được tiết lộ là không hề hấn gì, đã được cứu nhờ [Áo khoác Mithril](../M/Mithril-coat.md) do [Bilbo](Bilbo_Baggins.md) trao cho ông.
 
 Nghe thấy có nhiều quân Orc đến gần, Gandalf nhanh chóng ra lệnh cho mọi người chạy trốn đến [Cầu Khazad-dûm](Bridge_of_Khazad-dûm.md), nhưng họ chưa đi được bao xa trước khi bị lũ Orc bao vây hoàn toàn. Một tiếng gầm gừ bất ngờ từ xa khiến bọn Orc khiếp sợ và chúng bỏ chạy. Gandalf nhận ra [Balrog](Balrog.md) đang đến gần và nhanh chóng ra lệnh cho mọi người chạy.

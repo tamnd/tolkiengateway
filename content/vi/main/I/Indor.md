@@ -53,7 +53,7 @@ infobox:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [các phiên bản đầu tiên](../T/The_Book_of_Lost_Tales.md) của [huyền thoại](../L/Legendarium.md), **Indor** là cha của [Peleg](../P/Peleg.md), đến lượt là cha của [Tuor](../T/Tuor.md). Vì vậy, giống như Tuor ông ta có lẽ thuộc về [Nhà Thiên Nga](../H/House_of_the_Swan.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong *[The Silmarillion](../T/The_Silmarillion.md)* Tuor ông nội của ông ta là [Galdor Người Cao](<../G/Galdor_(Lord_of_Dor-lómin).md>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [các phiên bản đầu tiên](../T/The_Book_of_Lost_Tales.md) của [huyền thoại](../L/Legendarium.md), **Indor** là cha của [Peleg](../P/Peleg.md), đến lượt là cha của [Tuor](../T/Tuor.md). Vì vậy, giống như Tuor ông có lẽ thuộc về [Nhà Thiên Nga](../H/House_of_the_Swan.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong *[The Silmarillion](../T/The_Silmarillion.md)* Tuor ông nội của ông là [Galdor Người Cao](<../G/Galdor_(Lord_of_Dor-lómin).md>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

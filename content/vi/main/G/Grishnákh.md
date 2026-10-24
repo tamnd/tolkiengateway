@@ -140,7 +140,7 @@ Dạng tên gọi trước đó của *Grishnákh* được [Tolkien](../T/Tolki
 
 <dl><dd>Giọng của Grishnákh được cung cấp bởi Eduard Vitek.</dd></dl>
 
-<b><a href="../_/2004.md" title="2004">2004</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
+<b><a href="../_/2004.md" title="2004">2004</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
 
 <dl><dd>Grishnákh là thủ lĩnh của phe tà ác. Ông được lồng tiếng bởi <a href="../D/David_Lodge.md" title="David Lodge">David Lodge</a>.</dd></dl>
 

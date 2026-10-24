@@ -82,7 +82,7 @@ Sau trận chiến, những Người Lùn còn lại đã xây dựng các giàn
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Frerin xuất hiện trong một đoạn hồi tưởng mở rộng mô tả <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a> cho thấy cái chết cuối cùng của ông. Tại <a class="mw-redirect" href="../T/Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Thorin Hội trường</a> ở <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a> sân lớn nhất được đặt tên là "Frerin's Court" để vinh danh ông.</dd></dl>
 

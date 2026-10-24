@@ -25,7 +25,7 @@ langlinks:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cuộc [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md) kết thúc khi [Valar](../V/Valar.md) tấn công vào tuyến phòng thủ cuối cùng. [Melkor](../M/Morgoth.md) gửi [Balrog](../B/Balrogs.md) của mình khi ẩn náu ở độ sâu của [Utumno](../U/Utumno.md).<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
-- [Tulkas](../T/Tulkas.md) - nhà vô địch của Valar - bắt giữ [Melkor](../M/Morgoth.md), trói ông ta bằng [Angainor](../A/Angainor.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
+- [Tulkas](../T/Tulkas.md) - nhà vô địch của Valar - bắt giữ [Melkor](../M/Morgoth.md), trói ông bằng [Angainor](../A/Angainor.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 
 <span></span>
 

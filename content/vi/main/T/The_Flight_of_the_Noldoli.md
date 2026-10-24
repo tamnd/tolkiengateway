@@ -36,7 +36,7 @@ sort_keys:
 
 ## Tóm tắt {#Synopsis}
 
-Câu chuyện của [Lindo](../L/Lindo.md) tiếp tục. Sau khi [Melko](../M/Melko.md) trốn thoát, [Fëanor](../F/Fëanor.md) đã nói chuyện với [Noldoli](../N/Noldoli.md) ở [Kôr](../K/Kôr.md) và thúc giục họ theo ông ta ra khỏi [Valinor](../V/Valinor.md). Nhiều người đã tham gia cùng ông, và mặc dù [Nólemë](../N/Nólemë.md) đã khuyên họ chống lại điều này nhưng họ vẫn quyết tâm đi. Nólemë, không muốn xa cách người dân của mình, đã cùng họ rời khỏi Kôr và đến những ngôi nhà ven biển của [Solosimpi](../S/Solosimpi.md).
+Câu chuyện của [Lindo](../L/Lindo.md) tiếp tục. Sau khi [Melko](../M/Melko.md) trốn thoát, [Fëanor](../F/Fëanor.md) đã nói chuyện với [Noldoli](../N/Noldoli.md) ở [Kôr](../K/Kôr.md) và thúc giục họ theo ông ra khỏi [Valinor](../V/Valinor.md). Nhiều người đã tham gia cùng ông, và mặc dù [Nólemë](../N/Nólemë.md) đã khuyên họ chống lại điều này nhưng họ vẫn quyết tâm đi. Nólemë, không muốn xa cách người dân của mình, đã cùng họ rời khỏi Kôr và đến những ngôi nhà ven biển của [Solosimpi](../S/Solosimpi.md).
 
 Tiếp theo văn bản này là một đoạn ngắn gọn được gạch chân bởi [Tolkien](Tolkien.md), trong đó mô tả việc Noldoli đến nơi trú ẩn của [Cópas](../A/Alqualondë.md) và việc họ chiếm giữ các con tàu của Solosimpi để sử dụng cho phụ nữ và trẻ em của chính họ.
 

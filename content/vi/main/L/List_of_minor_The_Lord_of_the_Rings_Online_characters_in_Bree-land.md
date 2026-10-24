@@ -72,7 +72,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Argirion {#Argirion}
 
-**Argirion** là thuyền phó của Gilminuial, con tàu của [Rangers](../R/Rangers_of_the_North.md) cung cấp cho [Wardens của Annúminas](../W/Wardens_of_Annúminas.md).<sup id="cite_ref-shipwrecked_mariners_4-0" class="reference"><a href="#cite_note-shipwrecked_mariners-4">[4]</a></sup> Khi một cơn bão phá hủy con tàu, Argirion và <a class="mw-selflink-fragment" href="#Mindambeth">Mindambeth</a>, người chỉ huy khu phố, đã bị chết đuối gần [Buckland](../B/Buckland.md). Ông ta yêu cầu bạn đi theo [Baranduin](../B/Baranduin.md) về phía bắc để tìm con tàu bị chết đuối và tìm hiểu số phận của các thuyền viên khác, đặc biệt là [Aranhir](List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Evendim.md#Aranhir), thuyền trưởng của tàu Gilminuial.<sup id="cite_ref-shipwrecked_mariners_4-1" class="reference"><a href="#cite_note-shipwrecked_mariners-4">[4]</a></sup>
+**Argirion** là thuyền phó của Gilminuial, con tàu của [Rangers](../R/Rangers_of_the_North.md) cung cấp cho [Wardens của Annúminas](../W/Wardens_of_Annúminas.md).<sup id="cite_ref-shipwrecked_mariners_4-0" class="reference"><a href="#cite_note-shipwrecked_mariners-4">[4]</a></sup> Khi một cơn bão phá hủy con tàu, Argirion và <a class="mw-selflink-fragment" href="#Mindambeth">Mindambeth</a>, người chỉ huy khu phố, đã bị chết đuối gần [Buckland](../B/Buckland.md). Ông yêu cầu bạn đi theo [Baranduin](../B/Baranduin.md) về phía bắc để tìm con tàu bị chết đuối và tìm hiểu số phận của các thuyền viên khác, đặc biệt là [Aranhir](List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Evendim.md#Aranhir), thuyền trưởng của tàu Gilminuial.<sup id="cite_ref-shipwrecked_mariners_4-1" class="reference"><a href="#cite_note-shipwrecked_mariners-4">[4]</a></sup>
 
 ## Cal Sprigley {#Cal_Sprigley}
 
@@ -80,7 +80,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Cây kế len {#Constable_Thistlewool}
 
-**Constable Thistlewool** là cảnh sát của [Archet](../A/Archet.md) và có thể được tìm thấy tại cơ sở huấn luyện của nó.<sup id="cite_ref-ReferenceA_1-4" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông ta là bạn của <a class="mw-selflink-fragment" href="#Cal_Sprigley">Cal Sprigley</a>, một nông dân ở phía nam Archet-Dale.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+**Constable Thistlewool** là cảnh sát của [Archet](../A/Archet.md) và có thể được tìm thấy tại cơ sở huấn luyện của nó.<sup id="cite_ref-ReferenceA_1-4" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông là bạn của <a class="mw-selflink-fragment" href="#Cal_Sprigley">Cal Sprigley</a>, một nông dân ở phía nam Archet-Dale.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Cuthbert Rook {#Cuthbert_Rook}
 
@@ -92,7 +92,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Gạch bùn Dirk {#Dirk_Mudbrick}
 
-**Dirk Mudbrick** là thành viên đồn trú của [Archet](../A/Archet.md). Vị trí ban đầu của ông là ở Cổng Phương Tây của Archet nhưng vì ông bình luận quá nhiều về chiến lược của [Thuyền trưởng Brackenbrook](../C/Captain_Brackenbrook.md) nên ông đã bị chuyển đến một trang trại ở Archet-Dale.<sup id="cite_ref-Spies_8-0" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Trong khi ông đang bảo vệ trang trại cừu chống lại bầy sói, ông đã nhìn thấy nhiều [Blackwolds](../B/Blackwolds.md) đi qua thung lũng.<sup id="cite_ref-Spies_8-1" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Ông cử người chơi đến vào Archet-Dale để giết một trong số họ và mang lại mệnh lệnh cho họ. Một trong những mệnh lệnh này mô tả hành vi phản bội của [Calder Cob](../C/Calder_Cob.md) và một cuộc đột kích theo kế hoạch chống lại Archet.<sup id="cite_ref-Spies_8-2" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Ông ta ngay lập tức gửi các mệnh lệnh Blackwold cho Thuyền trưởng Brackenbrook và chiến đấu trong cuộc tấn công của Archet.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Khi quân đồn trú của Archet đẩy quân Blackwold trở lại Blackwold Roost, ông ta là một trong những người đã bị giết.<sup id="cite_ref-ReferenceC_10-0" class="reference"><a href="#cite_note-ReferenceC-10">[10]</a></sup>
+**Dirk Mudbrick** là thành viên đồn trú của [Archet](../A/Archet.md). Vị trí ban đầu của ông là ở Cổng Phương Tây của Archet nhưng vì ông bình luận quá nhiều về chiến lược của [Thuyền trưởng Brackenbrook](../C/Captain_Brackenbrook.md) nên ông đã bị chuyển đến một trang trại ở Archet-Dale.<sup id="cite_ref-Spies_8-0" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Trong khi ông đang bảo vệ trang trại cừu chống lại bầy sói, ông đã nhìn thấy nhiều [Blackwolds](../B/Blackwolds.md) đi qua thung lũng.<sup id="cite_ref-Spies_8-1" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Ông cử người chơi đến vào Archet-Dale để giết một trong số họ và mang lại mệnh lệnh cho họ. Một trong những mệnh lệnh này mô tả hành vi phản bội của [Calder Cob](../C/Calder_Cob.md) và một cuộc đột kích theo kế hoạch chống lại Archet.<sup id="cite_ref-Spies_8-2" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Ông ngay lập tức gửi các mệnh lệnh Blackwold cho Thuyền trưởng Brackenbrook và chiến đấu trong cuộc tấn công của Archet.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Khi quân đồn trú của Archet đẩy quân Blackwold trở lại Blackwold Roost, ông là một trong những người đã bị giết.<sup id="cite_ref-ReferenceC_10-0" class="reference"><a href="#cite_note-ReferenceC-10">[10]</a></sup>
 
 ## Edgar Standish {#Edgar_Standish}
 
@@ -100,7 +100,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Fastred Hang {#Fastred_Burrows}
 
-**Fastred Burrows** là người huấn luyện trộm ở [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-8" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Theo yêu cầu của [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>), ông ta dạy người chơi thêm về lớp học của mình trong phần Bree-land Giới thiệu.<sup id="cite_ref-ReferenceB_2-3" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
+**Fastred Burrows** là người huấn luyện trộm ở [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-8" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Theo yêu cầu của [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>), ông dạy người chơi thêm về lớp học của mình trong phần Bree-land Giới thiệu.<sup id="cite_ref-ReferenceB_2-3" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
 
 ## Fenton Marshly {#Fenton_Marshly}
 
@@ -112,7 +112,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Hodor Thornberry {#Hodor_Thornberry}
 
-**Hodor Thornberry** là một [Hobbit](../H/Hobbits.md) người buôn bán vũ khí đến từ [Archet](../A/Archet.md). Ông ta bán cả hai tay làm vũ khí hai tay.<sup id="cite_ref-ReferenceA_1-11" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
+**Hodor Thornberry** là một [Hobbit](../H/Hobbits.md) người buôn bán vũ khí đến từ [Archet](../A/Archet.md). Ông bán cả hai tay làm vũ khí hai tay.<sup id="cite_ref-ReferenceA_1-11" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
 
 ## Holey Sprigley {#Holey_Sprigley}
 
@@ -124,7 +124,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Kate Henseed {#Kate_Henseed}
 
-**Kate Henseed** là nhà cung cấp nữ của [Archet](../A/Archet.md)<sup id="cite_ref-ReferenceA_1-14" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>, người thông báo cho người chơi rằng [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>) đang tìm kiếm ông ta.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+**Kate Henseed** là nhà cung cấp nữ của [Archet](../A/Archet.md)<sup id="cite_ref-ReferenceA_1-14" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>, người thông báo cho người chơi rằng [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>) đang tìm kiếm ông.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 ## Đuổi ruồi dịu nhẹ {#Mildred_Catchfly}
 
@@ -136,15 +136,15 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Nate Whisperwood {#Nate_Whisperwood}
 
-**Nate Whisperwood** là nam thợ săn của [Archet](../A/Archet.md). Ông ta có thể được tìm thấy bên trong Hunter's Lodge.<sup id="cite_ref-ReferenceA_1-16" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông ta đã chiến đấu trong cuộc tấn công của Archet và bị giết khi bảo vệ Hunter's Lodge.<sup id="cite_ref-ReferenceC_10-1" class="reference"><a href="#cite_note-ReferenceC-10">[10]</a></sup>
+**Nate Whisperwood** là nam thợ săn của [Archet](../A/Archet.md). Ông có thể được tìm thấy bên trong Hunter's Lodge.<sup id="cite_ref-ReferenceA_1-16" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông đã chiến đấu trong cuộc tấn công của Archet và bị giết khi bảo vệ Hunter's Lodge.<sup id="cite_ref-ReferenceC_10-1" class="reference"><a href="#cite_note-ReferenceC-10">[10]</a></sup>
 
 ## Ngà Máu Cũ {#Old_Bloodtusk}
 
-**Old Bloodtusk** là một con lợn rừng ở [Archet-dale](../A/Archet.md) giữa Trang trại của <a class="mw-selflink-fragment" href="#Cal_Sprigley">Cal Sprigley</a>và [Blackwold's Roost](../B/Blackwold's_Roost.md). Ông ta sống trong hang ổ của mình, được xây dựng trong một gốc cây già mục nát.<sup id="cite_ref-Old_Bloodtusk_15-0" class="reference"><a href="#cite_note-Old_Bloodtusk-15">[15]</a></sup> Ông ta luôn đi đến các bức tường của Trang trại Cal Sprigley để tìm kiếm thức ăn. Một ngày nọ, ông ta đi vào trang trại và giết chết một người nông dân. Sau đó, Cal Sprigley cử người chơi đến Old Bloodtusk's Den để giết ông ta.<sup id="cite_ref-Old_Bloodtusk_15-1" class="reference"><a href="#cite_note-Old_Bloodtusk-15">[15]</a></sup>
+**Old Bloodtusk** là một con lợn rừng ở [Archet-dale](../A/Archet.md) giữa Trang trại của <a class="mw-selflink-fragment" href="#Cal_Sprigley">Cal Sprigley</a>và [Blackwold's Roost](../B/Blackwold's_Roost.md). Ông sống trong hang ổ của mình, được xây dựng trong một gốc cây già mục nát.<sup id="cite_ref-Old_Bloodtusk_15-0" class="reference"><a href="#cite_note-Old_Bloodtusk-15">[15]</a></sup> Ông luôn đi đến các bức tường của Trang trại Cal Sprigley để tìm kiếm thức ăn. Một ngày nọ, ông đi vào trang trại và giết chết một người nông dân. Sau đó, Cal Sprigley cử người chơi đến Old Bloodtusk's Den để giết ông.<sup id="cite_ref-Old_Bloodtusk_15-1" class="reference"><a href="#cite_note-Old_Bloodtusk-15">[15]</a></sup>
 
 ## Otto tên cướp {#Otto_the_Brigand}
 
-**Otto the Brigand** là thủ lĩnh của [bọn cướp](../B/Blackwolds.md) đã tấn công [Archet](../A/Archet.md).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Ông ta bị giam giữ bởi [Calder Cob](../C/Calder_Cob.md) nhưng được giải thoát trong Cuộc tấn công Archet nơi ông ta bắt Amdir làm tù nhân đến nơi ẩn náu của họ.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Khi người chơi và [Aragorn](../A/Aragorn.md) tấn công Blackwolds ở Ost Baranor, ông ta bị biến thành một bóng ma của [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+**Otto the Brigand** là thủ lĩnh của [bọn cướp](../B/Blackwolds.md) đã tấn công [Archet](../A/Archet.md).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Ông bị giam giữ bởi [Calder Cob](../C/Calder_Cob.md) nhưng được giải thoát trong Cuộc tấn công Archet nơi ông bắt Amdir làm tù nhân đến nơi ẩn náu của họ.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Khi người chơi và [Aragorn](../A/Aragorn.md) tấn công Blackwolds ở Ost Baranor, ông bị biến thành một bóng ma của [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
 
 ## Máy cắt tỉa chốt {#Peg_Pruner}
 
@@ -152,7 +152,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Trung sĩ Redroot {#Sergeant_Redroot}
 
-**Trung sĩ Redroot** là thành viên đồn trú của [Đại úy Brackenbrook](../C/Captain_Brackenbrook.md). Ban đầu ông ta được bố trí ở cổng [Archet](../A/Archet.md)<sup id="cite_ref-ReferenceA_1-18" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> nhưng đã bị đưa ra đường giữa Archet và [Combe](../C/Combe.md).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+**Trung sĩ Redroot** là thành viên đồn trú của [Đại úy Brackenbrook](../C/Captain_Brackenbrook.md). Ban đầu ông được bố trí ở cổng [Archet](../A/Archet.md)<sup id="cite_ref-ReferenceA_1-18" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> nhưng đã bị đưa ra đường giữa Archet và [Combe](../C/Combe.md).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
 
 ## Bộ yên ngựa màu xanh lam {#Teal_Saddler}
 
@@ -164,7 +164,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Will Wheatley {#Will_Wheatley}
 
-**Will Wheatley** là <a class="mw-selflink-fragment" href="#Cal_Sprigley">nông dân của Cal Sprigley</a>và có thể được tìm thấy tại trang trại của Cal Sprigley ở phía nam [Archet](../A/Archet.md)-Dale.<sup id="cite_ref-ReferenceA_1-21" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông ta đã chiến đấu trong cuộc tấn công của Archet và bị giết bởi [Blackwolds](../B/Blackwolds.md) gần [Blackwold's Roost](../B/Blackwold's_Roost.md).<sup id="cite_ref-ReferenceC_10-2" class="reference"><a href="#cite_note-ReferenceC-10">[10]</a></sup>
+**Will Wheatley** là <a class="mw-selflink-fragment" href="#Cal_Sprigley">nông dân của Cal Sprigley</a>và có thể được tìm thấy tại trang trại của Cal Sprigley ở phía nam [Archet](../A/Archet.md)-Dale.<sup id="cite_ref-ReferenceA_1-21" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông đã chiến đấu trong cuộc tấn công của Archet và bị giết bởi [Blackwolds](../B/Blackwolds.md) gần [Blackwold's Roost](../B/Blackwold's_Roost.md).<sup id="cite_ref-ReferenceC_10-2" class="reference"><a href="#cite_note-ReferenceC-10">[10]</a></sup>
 
 ## Thư viện hình ảnh {#Image_Gallery}
 

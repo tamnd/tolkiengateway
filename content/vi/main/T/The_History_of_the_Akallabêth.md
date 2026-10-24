@@ -77,7 +77,7 @@ Người đầu tiên, được chỉ định (a), Ar-Pharazôn có vẻ đẹp 
 
 Ở trang được chỉ định (b), một tài liệu rất thô sơ, Míriel vẫn say mê Pharazôn, nhưng điều này xảy ra khi cô đã đính hôn với Elentir.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Ở trang (c) Míriel yêu Elentir và *soon to be* đã đính hôn với ông ta. Văn bản này đã bị bỏ đi trước khi vai trò của Pharazôn được mô tả.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Ở trang (c) Míriel yêu Elentir và *soon to be* đã đính hôn với ông. Văn bản này đã bị bỏ đi trước khi vai trò của Pharazôn được mô tả.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 Ở trang (d) tình yêu của Míriel dành cho Pharazôn không còn nữa. Xem xét bốn trang Christopher tin rằng cha anh đã bắt đầu nghi ngờ rằng cuộc hôn nhân trái với ý muốn của Míriel và phác thảo phiên bản mới này, nhưng cuối cùng lại bỏ nó. Khi làm như vậy, anh trai Elentir của Amandil đã biến mất.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 

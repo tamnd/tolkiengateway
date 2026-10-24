@@ -36,9 +36,9 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Sau khi trời tối, [Pippin](../P/Pippin.md) lục lọi những vũ khí mà ông ta nhận được khi phục vụ [Quản gia](../S/Steward.md). Ông nói với hy vọng rằng ông không chắc mình sẽ phải chiến đấu, nhưng [Gandalf](../G/Gandalf.md) có phần khó chịu nói với ông rằng ông sẽ phải làm như những gì được yêu cầu bây giờ. Pippin kể cho Gandalf về sự lo lắng của ông khi chờ đợi trận chiến và hỏi ông liệu có hy vọng nào để [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) hoàn thành nhiệm vụ của họ không. Gandalf mỉm cười với ông ta và nói "Chỉ là hy vọng ngu ngốc thôi".
+Sau khi trời tối, [Pippin](../P/Pippin.md) lục lọi những vũ khí mà ông nhận được khi phục vụ [Quản gia](../S/Steward.md). Ông nói với hy vọng rằng ông không chắc mình sẽ phải chiến đấu, nhưng [Gandalf](../G/Gandalf.md) có phần khó chịu nói với ông rằng ông sẽ phải làm như những gì được yêu cầu bây giờ. Pippin kể cho Gandalf về sự lo lắng của ông khi chờ đợi trận chiến và hỏi ông liệu có hy vọng nào để [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) hoàn thành nhiệm vụ của họ không. Gandalf mỉm cười với ông và nói "Chỉ là hy vọng ngu ngốc thôi".
 
-Khi thuật sĩ và hobbit nhìn về phía [Mordor](../M/Mordor.md), Gandalf mô tả đội quân sẽ tấn công [Gondor](../G/Gondor.md). Đang tìm kiếm những điều tích cực, Pippin nói "Chúng tôi có Pháp sư Trắng. Điều đó phải được tính cho điều gì đó". Gandalf im lặng một lúc trước khi nói với ông ta rằng [Sauron](../S/Sauron.md) vẫn chưa tiết lộ người hầu nguy hiểm nhất của ông ta: [Vua Phù thủy của Angmar](../W/Witch-king_of_Angmar~30551.md), kẻ mà Pippin biết là [Nazgûl](../N/Nazgûl.md) đã đâm Frodo vào [Weathertop](../W/Weathertop.md).
+Khi thuật sĩ và hobbit nhìn về phía [Mordor](../M/Mordor.md), Gandalf mô tả đội quân sẽ tấn công [Gondor](../G/Gondor.md). Đang tìm kiếm những điều tích cực, Pippin nói "Chúng tôi có Pháp sư Trắng. Điều đó phải được tính cho điều gì đó". Gandalf im lặng một lúc trước khi nói với ông rằng [Sauron](../S/Sauron.md) vẫn chưa tiết lộ người hầu nguy hiểm nhất của ông: [Vua Phù thủy của Angmar](../W/Witch-king_of_Angmar~30551.md), kẻ mà Pippin biết là [Nazgûl](../N/Nazgûl.md) đã đâm Frodo vào [Weathertop](../W/Weathertop.md).
 
 ## Sự khác biệt {#Differences}
 

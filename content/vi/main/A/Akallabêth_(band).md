@@ -28,7 +28,7 @@ infobox:
 
 ## Thành viên {#Members}
 
-- Phù thủy-Vua - mọi thứ
+- Vua Phù thủy - mọi thứ
 
 ## Danh sách đĩa {#Discography}
 

@@ -44,7 +44,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nicholas Guildford là một nhà khảo cổ học và là phóng viên của Câu lạc bộ, người đã tốt nghiệp tại Đại học Lincoln. Ông ta hiếm khi được ghi nhận là đã đọc bất cứ điều gì cho Câu lạc bộ, và sau đó điều đó không được báo cáo; nhưng có vẻ như ông đã viết vài cuốn tiểu thuyết.<sup id="cite_ref-Foreword_1-0" class="reference"><a href="#cite_note-Foreword-1">[1]</a></sup>
+Nicholas Guildford là một nhà khảo cổ học và là phóng viên của Câu lạc bộ, người đã tốt nghiệp tại Đại học Lincoln. Ông hiếm khi được ghi nhận là đã đọc bất cứ điều gì cho Câu lạc bộ, và sau đó điều đó không được báo cáo; nhưng có vẻ như ông đã viết vài cuốn tiểu thuyết.<sup id="cite_ref-Foreword_1-0" class="reference"><a href="#cite_note-Foreword-1">[1]</a></sup>
 
 Trong một cuộc họp, sau khi [Michael George Ramer](../M/Michael_George_Ramer.md) đọc xong câu chuyện của mình, Guildford đã chỉ trích nó vì không có một phương pháp di chuyển xuyên không gian thuyết phục, cho rằng con người rất khó hoặc thậm chí không thể (bằng xương bằng thịt) đến được một hành tinh khác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

@@ -55,7 +55,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), người dân và gia s�
 
 ### Sau trận chiến {#After_the_Battle}
 
-Sau trận chiến, cỏ bắt đầu mọc trở lại trên các cánh đồng. [Snowmane's Howe](../S/Snowmane's_Howe.md), nơi chôn cất [con ngựa](../S/Snowmane.md) của [Théoden](../T/Théoden.md), trở nên đặc biệt xanh tươi. Vị trí nơi Vua Phù thủy và con chiến mã của ông ta bị giết bị nhuộm đen và không có ngọn cỏ nào mọc lên trên mặt đất cháy xém.<sup id="cite_ref-Fields_5-2" class="reference"><a href="#cite_note-Fields-5">[5]</a></sup>
+Sau trận chiến, cỏ bắt đầu mọc trở lại trên các cánh đồng. [Snowmane's Howe](../S/Snowmane's_Howe.md), nơi chôn cất [con ngựa](../S/Snowmane.md) của [Théoden](../T/Théoden.md), trở nên đặc biệt xanh tươi. Vị trí nơi Vua Phù thủy và con chiến mã của ông bị giết bị nhuộm đen và không có ngọn cỏ nào mọc lên trên mặt đất cháy xém.<sup id="cite_ref-Fields_5-2" class="reference"><a href="#cite_note-Fields-5">[5]</a></sup>
 
 Vào [1 tháng 5](../_/1_May.md) [3019](../T/Third_Age_3019.md) lễ đăng quang của [Vua Elessar](../A/Aragorn.md) đã diễn ra, những người Gondor và [Rohan](../R/Rohan.md) đã tập trung tại cánh đồng Pelennor để chứng kiến ​​​​sự kiện.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

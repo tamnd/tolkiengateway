@@ -36,7 +36,7 @@ Vào tối [23 tháng Chín](../_/23_September.md) [T.A.](../T/Third_Age.md) [30
 
 <dl><dd><a href="../R/Robin_Smallburrow.md" title="Robin Smallburrow">Robin Smallburrow</a> sống tại số 9, đường Hill, mặc dù tất cả những ngôi nhà và hang ổ khác trên phố được cho là nằm trên <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Con đường dẫn từ <a href="Hobbiton.md" title="Hobbiton">Hobbiton</a> đến <a href="../O/Overhill.md" title="Overhill">Overhill</a> và tiếp tục đến <a class="mw-redirect" href="../B/Brockenborings.md" title="Brockenborings">Brockenborings</a>.</dd></dl>
 

@@ -49,7 +49,7 @@ Theo [David Salo](../D/David_Salo.md) cái tên có nghĩa là "đại sảnh tr
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Woodhall.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/The_Lord_of_the_Rings_Online_-_Woodhall.jpg/300px-The_Lord_of_the_Rings_Online_-_Woodhall.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cb/The_Lord_of_the_Rings_Online_-_Woodhall.jpg/450px-The_Lord_of_the_Rings_Online_-_Woodhall.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cb/The_Lord_of_the_Rings_Online_-_Woodhall.jpg/600px-The_Lord_of_the_Rings_Online_-_Woodhall.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Woodhall in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Woodhall nằm trong một thung lũng nhỏ, giáp với những khu rừng cao chót vót ở phía bắc và phía tây.</dd></dl>
 

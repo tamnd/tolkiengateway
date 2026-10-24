@@ -63,7 +63,7 @@ Có một <a class="extiw" href="http://en.wikipedia.org/wiki/Frogmore" title="w
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Frogmorton nằm trong một khu vực đầm lầy, nơi thực sự có thể tìm thấy rất nhiều loài ếch.</dd></dl>
 

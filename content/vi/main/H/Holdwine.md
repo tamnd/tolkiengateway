@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/Holdwine"
 ---
 
-**Holdwine của Shire** là tên được đặt cho [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) trong số [Rohirrim](../R/Rohirrim.md) bởi Vua [Éomer](../_/Éomer.md) và được họ sử dụng để ghi lại những việc làm của ông ta trong biên niên sử của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Holdwine của Shire** là tên được đặt cho [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) trong số [Rohirrim](../R/Rohirrim.md) bởi Vua [Éomer](../_/Éomer.md) và được họ sử dụng để ghi lại những việc làm của ông trong biên niên sử của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

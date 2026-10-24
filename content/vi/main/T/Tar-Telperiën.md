@@ -86,7 +86,7 @@ Tar-Telperiën "sẽ không kết hôn với đàn ông" và tồn tại lâu d�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2024: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2024: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tar-Telperiën đã ra lệnh xây dựng một bức tường khổng lồ bao quanh hoàn toàn mũi <a href="../U/Umbar.md" title="Umbar">Umbar</a> (lúc đó được người Numenorians gọi là <i>Vëalondë</i>) để bảo vệ nó khỏi các dân tộc <a href="../H/Harad.md" title="Harad">Harad</a> đến phương Đông. "Bức tường Telperiën" sẽ đánh dấu phạm vi xa nhất của các lãnh thổ <a class="mw-redirect" href="../N/Numenor.md" title="Numenor">Numenor</a> và sau đó là <a href="../G/Gondor.md" title="Gondor">Gondor</a> ở <a class="mw-redirect" href="../H/Haradwaith.md" title="Haradwaith">Haradwaith</a>, mặc dù hàng thiên niên kỷ trôi qua cuối cùng đã khiến nó trở thành công trình phòng thủ vô dụng.</dd></dl>
 

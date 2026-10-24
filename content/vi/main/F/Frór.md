@@ -106,7 +106,7 @@ Anh trai của Frór là [Thrór](../T/Thrór.md) sau đó trở thành [Vua c�
 
 <dl><dd><a href="../D/Decipher.md" title="Decipher">Giải mã</a> đặt tên cho nhiều nhân vật chưa được đặt tên trong <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, bao gồm cả những người ở hội đồng. Một thẻ có tên là "Frór, Gimli's Kinsman", tuy nhiên Người Lùn được mô tả không phải là nhân vật trong phim. Decipher đã sử dụng một bức ảnh có kích thước gấp đôi của Gimli <a class="new" href="https://tolkiengateway.net/w/index.php?title=Brett_Beattie&amp;action=edit&amp;redlink=1" title="Brett Beattie (page does not exist)">Brett Beattie</a> trong <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Hội đồng Elrond</a> và giới thiệu ông như thể ông là một nhân vật khác. Điều này không tương thích với phim, vì chỉ có bốn Người Lùn được nhìn thấy trong Hội đồng và "Frór" đang ở vị trí của Gimli.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong <a class="mw-redirect" href="../D/Dáin&#39;s_Halls~64102.md" title="Dáin&#39;s Halls">Thikil-gundu</a>, "The Steel Keep", tiết lộ rằng Frór, cùng với một số người lùn đã chết khác, đã được sống lại dưới dạng xác sống của người lùn và hiện đang rình rập các sảnh của Steel Keep. Ông chạm trán với Công ty của <a href="../D/Dori.md" title="Dori">Dori</a> bên trong Afhân-binnîn, "The Lore Trove".</dd></dl>
 

@@ -39,7 +39,7 @@ Tuy nhiên, Tolkien cho biết ông sẵn sàng chơi bóng nếu họ cởi m�
 
 <dl><dt>Trong ấn bản mở rộng</dt></dl>
 
-Ở hai đoạn ở giữa Tolkien phê bình cốt truyện đề xuất, cho rằng tệ về điểm và chất lượng nói chung kém. Ông không hài lòng với nó theo bất kỳ cách nào. Ông ta *could* chấp nhận một phần trong số đó nếu có triển vọng thu được lợi nhuận tài chính lớn, nhưng vì không có nên tốt hơn là nó nên được thực hiện với tiêu chuẩn cao hơn.
+Ở hai đoạn ở giữa Tolkien phê bình cốt truyện đề xuất, cho rằng tệ về điểm và chất lượng nói chung kém. Ông không hài lòng với nó theo bất kỳ cách nào. Ông *could* chấp nhận một phần trong số đó nếu có triển vọng thu được lợi nhuận tài chính lớn, nhưng vì không có nên tốt hơn là nó nên được thực hiện với tiêu chuẩn cao hơn.
 
 <br>
 

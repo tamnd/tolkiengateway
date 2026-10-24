@@ -60,11 +60,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Elmo và các anh trai của ông ta là hậu duệ trực tiếp từ con trai cả đến con trai cả từ [Enel](Enel.md), người đầu tiên trong số [Nelyar](../N/Nelyar.md) [thức tỉnh](../A/Awakening_of_the_Elves.md). Không giống như những người anh trai của mình được sinh ra vào thời điểm Tiên tộc được tìm thấy bởi [Valar](../V/Valar.md), Elmo được sinh ra vào thời điểm [Đại Hành Trình](../G/Great_Journey.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Elmo và các anh trai của ông là hậu duệ trực tiếp từ con trai cả đến con trai cả từ [Enel](Enel.md), người đầu tiên trong số [Nelyar](../N/Nelyar.md) [thức tỉnh](../A/Awakening_of_the_Elves.md). Không giống như những người anh trai của mình được sinh ra vào thời điểm Tiên tộc được tìm thấy bởi [Valar](../V/Valar.md), Elmo được sinh ra vào thời điểm [Đại Hành Trình](../G/Great_Journey.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Ông vẫn ở lại Beleriand sau khi Elwë bị mất tích ở [Nan Elmoth](../N/Nan_Elmoth.md) và Olwë khởi hành đi [Valinor](../V/Valinor.md). Sau khi Elwë trở về, Elmo vẫn ở bên và được anh yêu quý.<sup id="cite_ref-UTG_3-0" class="reference"><a href="#cite_note-UTG-3">[3]</a></sup>
 
-Vì cháu trai của Elmo [Celeborn](../C/Celeborn.md) được coi là hoàng tử của [Doriath](../D/Doriath.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nên có khả năng Elmo cũng là hoàng tử. Không biết liệu ông ta có sống sót sau [bao tải Doriath](../S/Sack_of_Doriath.md) hay số phận của ông ta sẽ ra sao. Không có hành động cụ thể nào được gán cho Elmo,<sup id="cite_ref-UTG_3-1" class="reference"><a href="#cite_note-UTG-3">[3]</a></sup> và ông chủ yếu được chú ý bởi con cháu của mình: Celeborn, một trong những quý tộc Sindar, và [Nimloth](../N/Nimloth_of_Doriath.md), từng là Nữ hoàng của Doriath trong thời gian ngắn, khi bà kết hôn với [Dior](../D/Dior.md), người kế vị của Thingol.
+Vì cháu trai của Elmo [Celeborn](../C/Celeborn.md) được coi là hoàng tử của [Doriath](../D/Doriath.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nên có khả năng Elmo cũng là hoàng tử. Không biết liệu ông có sống sót sau [bao tải Doriath](../S/Sack_of_Doriath.md) hay số phận của ông sẽ ra sao. Không có hành động cụ thể nào được gán cho Elmo,<sup id="cite_ref-UTG_3-1" class="reference"><a href="#cite_note-UTG-3">[3]</a></sup> và ông chủ yếu được chú ý bởi con cháu của mình: Celeborn, một trong những quý tộc Sindar, và [Nimloth](../N/Nimloth_of_Doriath.md), từng là Nữ hoàng của Doriath trong thời gian ngắn, khi bà kết hôn với [Dior](../D/Dior.md), người kế vị của Thingol.
 
 ## Từ nguyên {#Etymology}
 
@@ -99,9 +99,9 @@ Nói cách khác, trong các văn bản sau này, Celeborn là [Teler của Aman
 
 ### Newwë {#Nelwë}
 
-Trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)* xuất hiện một ký tự tên là **Nelwë**. Ở đó, ông ta được thể hiện là tổ tiên của [Celeborn](../C/Celeborn.md) (từng là [Tiên](../F/Falmari.md) của [Aman](../A/Aman.md) trong phiên bản lịch sử này của ông ta) và là em trai của [Elwë](../T/Thingol.md), [Olwë](../O/Olwë.md) và [Eärwen](Eärwen.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 1]</a></sup><sup id="cite_ref-Nelw_11-0" class="reference"><a href="#cite_note-Nelw-11">[10]</a></sup>
+Trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)* xuất hiện một ký tự tên là **Nelwë**. Ở đó, ông được thể hiện là tổ tiên của [Celeborn](../C/Celeborn.md) (từng là [Tiên](../F/Falmari.md) của [Aman](../A/Aman.md) trong phiên bản lịch sử này của ông) và là em trai của [Elwë](../T/Thingol.md), [Olwë](../O/Olwë.md) và [Eärwen](Eärwen.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 1]</a></sup><sup id="cite_ref-Nelw_11-0" class="reference"><a href="#cite_note-Nelw-11">[10]</a></sup>
 
-Tuy nhiên, toàn bộ văn bản mà ông ta xuất hiện đã bị gạch bỏ và bị từ chối.<sup id="cite_ref-Nelw_11-1" class="reference"><a href="#cite_note-Nelw-11">[10]</a></sup> Mặc dù [Tolkien](../T/Tolkien.md) không đề cập rõ ràng ở bất kỳ đâu rằng tính cách của *Nelwë* tương đương với tính cách của *Elmo*, hay nói cách khác là người kế thừa văn học của cái sau, ông ta vẫn hoàn thành vai trò tương tự như một tổ tiên của Celeborn, trong đó mối quan hệ họ hàng của Celeborn và Thingol được xây dựng một cách chính xác hơn.
+Tuy nhiên, toàn bộ văn bản mà ông xuất hiện đã bị gạch bỏ và bị từ chối.<sup id="cite_ref-Nelw_11-1" class="reference"><a href="#cite_note-Nelw-11">[10]</a></sup> Mặc dù [Tolkien](../T/Tolkien.md) không đề cập rõ ràng ở bất kỳ đâu rằng tính cách của *Nelwë* tương đương với tính cách của *Elmo*, hay nói cách khác là người kế thừa văn học của cái sau, ông vẫn hoàn thành vai trò tương tự như một tổ tiên của Celeborn, trong đó mối quan hệ họ hàng của Celeborn và Thingol được xây dựng một cách chính xác hơn.
 
 #### Từ nguyên {#Etymology_2}
 

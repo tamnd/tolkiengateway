@@ -34,7 +34,7 @@ Việc sử dụng *Tolkein* đầu tiên được ghi nhận bắt nguồn từ
 
 Trong [1922](../_/1922.md), người bán sách [Oxford](../O/Oxford.md) <a class="extiw" href="http://en.wikipedia.org/wiki/Basil_Blackwell" title="wikipedia:Basil Blackwell">Basil Blackwell</a> trong *[Fifty New Poems for Children: An Anthology Selected from Books Recently Published](../F/Fifty_New_Poems_for_Children.md)* có đưa bài thơ *[Goblin Feet](../G/Goblin_Feet.md)* mà ông gán cho một J.R.R. Tolkein. Tên xuất hiện trong mục lục, phía trên bài thơ và trong mục lục.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau đó, cái tên này đã được sử dụng, theo Tolkien, bởi các thư ký trường đại học, ngân hàng và luật sư,<sup id="cite_ref-L324_3-0" class="reference"><a href="#cite_note-L324-3">[3]</a></sup> và ít nhiều tất cả những người đã viết thư cho ông ta.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sau đó, cái tên này đã được sử dụng, theo Tolkien, bởi các thư ký trường đại học, ngân hàng và luật sư,<sup id="cite_ref-L324_3-0" class="reference"><a href="#cite_note-L324-3">[3]</a></sup> và ít nhiều tất cả những người đã viết thư cho ông.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xuất xứ {#Origin}
 

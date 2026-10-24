@@ -14,7 +14,7 @@ categories:
   - "Third Age characters"
 ---
 
-**Folco Burrowes**<sup id="cite_ref-burrowes_1-0" class="reference"><a href="#cite_note-burrowes-1">[1]</a></sup> là một trong những luật sư của [Frodo](Frodo.md) tại *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)* (ở giai đoạn viết văn lúc đó Frodo được gọi là Bingo). Folco, cùng với luật sư khác của Bingo, [Iago Grubb](../I/Iago_Grubb.md), đẩy [Sancho Proudfoot](../S/Sancho_Proudfoot.md) ra khi ông ta cố gắng khai quật phòng đựng thức ăn tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-Shadow_2-0" class="reference"><a href="#cite_note-Shadow-2">[2]</a></sup> <span></span>
+**Folco Burrowes**<sup id="cite_ref-burrowes_1-0" class="reference"><a href="#cite_note-burrowes-1">[1]</a></sup> là một trong những luật sư của [Frodo](Frodo.md) tại *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)* (ở giai đoạn viết văn lúc đó Frodo được gọi là Bingo). Folco, cùng với luật sư khác của Bingo, [Iago Grubb](../I/Iago_Grubb.md), đẩy [Sancho Proudfoot](../S/Sancho_Proudfoot.md) ra khi ông cố gắng khai quật phòng đựng thức ăn tại [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-Shadow_2-0" class="reference"><a href="#cite_note-Shadow-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

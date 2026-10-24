@@ -51,7 +51,7 @@ Madril là một Ranger có kinh nghiệm. Ông đã giúp [Faramir](../F/Farami
 
 Bất chấp những nghi ngờ ban đầu, lũ Orc đã tổ chức một cuộc tấn công. Madril cử trinh sát đến [Cair Andros](../C/Cair_Andros.md) để xem liệu có hoạt động nào của kẻ thù ở miền Bắc hay không. Tuy nhiên, lũ Orc đã vượt qua [Anduin](../A/Anduin.md) ở Osgiliath bằng thuyền, và người của Faramir đã bất ngờ bị bắt.
 
-Lũ Orc đã áp đảo quân Gondor và theo lời khuyên của Madril, Faramir kêu gọi rút lui. Trong cuộc gọi, Madril bị thương nặng. Ông ta bị bỏ lại trong cuộc sơ tán. Khi ông nằm hấp hối, [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>) dùng giáo đâm ông khiến ông tử vong ngay lập tức.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Lũ Orc đã áp đảo quân Gondor và theo lời khuyên của Madril, Faramir kêu gọi rút lui. Trong cuộc gọi, Madril bị thương nặng. Ông bị bỏ lại trong cuộc sơ tán. Khi ông nằm hấp hối, [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>) dùng giáo đâm ông khiến ông tử vong ngay lập tức.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

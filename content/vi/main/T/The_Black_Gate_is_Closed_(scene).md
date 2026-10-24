@@ -45,9 +45,9 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) leo lên vách đá cho đến khi nhìn ra [Cổng Đen](../B/Black_Gate.md). [Gollum](../G/Gollum.md) cảm thấy khó chịu và Frodo quyết tâm đi vào. Họ nhìn thấy một quân đoàn [Easterlings](../E/Easterlings.md) đang tiến về phía Cổng Đen, được mở ra bởi [troll](Trolls.md). Sam bám vào một tảng đá để nhìn rõ hơn nhưng nó lại rơi xuống sườn đồi khiến ông ta ngã. Hai Easterlings nhìn thấy một số náo động trên sườn đồi và di chuyển để điều tra. Frodo tiếp cận Sam người đang mắc kẹt; ông ta che cả hai người bằng [Tiên chiếc áo choàng](../E/Elven_cloak.md) của mình, khiến họ trông như một tảng đá lớn. Những người phương Đông vô tình đứng trên [Hobbit](../H/Hobbits.md), không thấy có gì kỳ lạ nên quay lại dẫn quân hành quân vào [Mordor](../M/Mordor.md).
+[Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) leo lên vách đá cho đến khi nhìn ra [Cổng Đen](../B/Black_Gate.md). [Gollum](../G/Gollum.md) cảm thấy khó chịu và Frodo quyết tâm đi vào. Họ nhìn thấy một quân đoàn [Easterlings](../E/Easterlings.md) đang tiến về phía Cổng Đen, được mở ra bởi [troll](Trolls.md). Sam bám vào một tảng đá để nhìn rõ hơn nhưng nó lại rơi xuống sườn đồi khiến ông ngã. Hai Easterlings nhìn thấy một số náo động trên sườn đồi và di chuyển để điều tra. Frodo tiếp cận Sam người đang mắc kẹt; ông che cả hai người bằng [Tiên chiếc áo choàng](../E/Elven_cloak.md) của mình, khiến họ trông như một tảng đá lớn. Những người phương Đông vô tình đứng trên [Hobbit](../H/Hobbits.md), không thấy có gì kỳ lạ nên quay lại dẫn quân hành quân vào [Mordor](../M/Mordor.md).
 
-Khi những Easterlings cuối cùng bước vào Cổng Đen, Frodo định chạy vào Mordor trước khi Cổng có thể đóng lại, nhưng Gollum đã ngăn ông ta lại.
+Khi những Easterlings cuối cùng bước vào Cổng Đen, Frodo định chạy vào Mordor trước khi Cổng có thể đóng lại, nhưng Gollum đã ngăn ông lại.
 
 <blockquote class="tg-quote noexcerpt">
 <p>KHÔNG! KHÔNG! Không có chủ nhân! Họ bắt bạn! Họ bắt bạn! Đừng mang nó cho ông. Ông muốn thứ quý giá. Ông luôn luôn tìm kiếm nó. Và điều quý giá là muốn quay lại với anh.
@@ -55,7 +55,7 @@ Khi những Easterlings cuối cùng bước vào Cổng Đen, Frodo định ch�
 <p class="tg-quote-footer"><cite>Gollum</cite></p>
 </blockquote>
 
-Frodo cố gắng đi đến Cổng một lần nữa, nhưng Gollum lại ngăn ông ta lại, tuy nhiên lần này, ông ta nói với Frodo rằng có một con đường khác vào Mordor – một con đường đen tối và bí mật hơn. Frodo hỏi ông ta có thực sự có đường khác vào Mordor không.
+Frodo cố gắng đi đến Cổng một lần nữa, nhưng Gollum lại ngăn ông lại, tuy nhiên lần này, ông nói với Frodo rằng có một con đường khác vào Mordor – một con đường đen tối và bí mật hơn. Frodo hỏi ông có thực sự có đường khác vào Mordor không.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Đúng. Có một con đường...và một số cầu thang...và sau đó...một đường hầm.

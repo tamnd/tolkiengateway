@@ -60,7 +60,7 @@ Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/T
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Eilenach.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Eilenach.jpg/300px-The_Lord_of_the_Rings_Online_-_Eilenach.jpg" decoding="async" loading="lazy" width="300" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Eilenach.jpg/450px-The_Lord_of_the_Rings_Online_-_Eilenach.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_Online_-_Eilenach.jpg/600px-The_Lord_of_the_Rings_Online_-_Eilenach.jpg 2x" data-file-width="1620" data-file-height="1080"/></a><figcaption>Eilenach in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vua <a href="../T/Théoden.md" title="Théoden">Théoden</a> và các tay đua của ông dừng lại bên dưới Eilenach trên đường đi qua <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Rừng Drúadan</a>. Người chơi và <a href="../H/Herefara.md" title="Herefara">Herefara</a> tuần tra Eilenach để đảm bảo rằng nó không có kẻ thù.</dd></dl>
 

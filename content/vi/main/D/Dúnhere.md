@@ -58,9 +58,9 @@ infobox:
 
 Dúnhere là cháu trai của [Erkenbrand](../E/Erkenbrand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông là thủ lĩnh của dân tộc [Harrowdale](../H/Harrowdale.md) và là chúa tể của Harrowdale.<sup id="cite_ref-Muster_2-0" class="reference"><a href="#cite_note-Muster-2">[2]</a></sup>
 
-Ông ta phục vụ dưới quyền [Grimbold](../G/Grimbold.md) trong [Trận chiến của Fords Isen](../B/Battles_of_the_Fords_of_Isen.md). Grimbold bố trí tất cả các kỵ binh có sẵn ngựa dưới sự chỉ huy của Dúnhere để yểm trợ cho cuộc rút lui của lực lượng của ông ta về phía nam trong đêm sau [Trận Fords lần thứ hai ở Isen](../S/Second_Battle_of_the_Fords_of_Isen.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ông phục vụ dưới quyền [Grimbold](../G/Grimbold.md) trong [Trận chiến của Fords Isen](../B/Battles_of_the_Fords_of_Isen.md). Grimbold bố trí tất cả các kỵ binh có sẵn ngựa dưới sự chỉ huy của Dúnhere để yểm trợ cho cuộc rút lui của lực lượng của ông về phía nam trong đêm sau [Trận Fords lần thứ hai ở Isen](../S/Second_Battle_of_the_Fords_of_Isen.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Dúnhere không đi cùng [Gandalf](../G/Gandalf.md) và Erkenbrand đến [Trận Hornburg](../B/Battle_of_the_Hornburg.md) mà thay vào đó đi đến [Edoras](../E/Edoras.md). [Gandalf](../G/Gandalf.md) khuyên ông ta và các đội trưởng khác tập hợp các tay đua của Rohan ở Harrowdale và đợi Vua [Théoden](../T/Théoden.md) ở đó, thay vì ở bãi đất trống xung quanh Edoras và đốt càng ít đám cháy càng tốt. Vài ngày sau, [Théoden](../T/Théoden.md) và những tay đua còn lại tập trung ở đó để thực hiện chuyến đi đến [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Muster_2-1" class="reference"><a href="#cite_note-Muster-2">[2]</a></sup>
+Dúnhere không đi cùng [Gandalf](../G/Gandalf.md) và Erkenbrand đến [Trận Hornburg](../B/Battle_of_the_Hornburg.md) mà thay vào đó đi đến [Edoras](../E/Edoras.md). [Gandalf](../G/Gandalf.md) khuyên ông và các đội trưởng khác tập hợp các tay đua của Rohan ở Harrowdale và đợi Vua [Théoden](../T/Théoden.md) ở đó, thay vì ở bãi đất trống xung quanh Edoras và đốt càng ít đám cháy càng tốt. Vài ngày sau, [Théoden](../T/Théoden.md) và những tay đua còn lại tập trung ở đó để thực hiện chuyến đi đến [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Muster_2-1" class="reference"><a href="#cite_note-Muster-2">[2]</a></sup>
 
 Dúnhere bị giết ở [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Ông được nhớ đến trong [Bài hát về các gò đất ở Mundburg](../S/Song_of_the_Mounds_of_Mundburg.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -81,7 +81,7 @@ Dúnhere bị giết ở [Trận chiến trên Cánh đồng Pelennor](../B/Batt
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dúnhere là Chúa tể của <a href="Dunharrow.md" title="Dunharrow">Dunharrow</a> và một ngôi làng nhỏ <a href="../U/Underharrow.md" title="Underharrow">Underharrow</a> gần đó. Ông để vợ mình là Ellen Fremedon phụ trách trước khi khởi hành cùng <a href="../E/Erkenbrand.md" title="Erkenbrand">Erkenbrand</a> đến Fords. Người chơi nhìn thấy Dúnhere ngay trước trận <a class="mw-redirect" href="../B/Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">trận Helm&#39;s Deep</a> nhưng không có cơ hội tương tác với ông. Họ không gặp nhau đàng hoàng cho đến <a class="mw-redirect" href="Druadan_Forest.md" title="Druadan Forest">Rừng Druadan</a> vào ngày trước khi quân Rohirrim đến <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. Dúnhere bị giết bởi một mũi tên trong trận <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">trận cánh đồng Pelennor</a>.</dd></dl>
 

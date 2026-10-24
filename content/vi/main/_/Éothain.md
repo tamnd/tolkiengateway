@@ -94,7 +94,7 @@ infobox:
 
 <dl><dd>Tên Éothain được đặt cho <a href="Éothain_(film_character).md" title="Éothain (film character)">một nhân vật khác</a>, nhưng một thẻ từ <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> xác định một trong những tay đua của Éomer là Éothain.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Éothain là em họ của Éomer. Ông được gặp lần đầu tiên tại thị trấn <a href="../E/Entwash_Vale.md" title="Entwash Vale">Entwash Vale</a> của Eaworth với tư cách là một phần của <a href="Éored.md" title="Éored">éored</a> của Éomer. Sau đó, ông trở về quê nhà <a href="../A/Aldburg.md" title="Aldburg">Aldburg</a>, nơi ông giao nhiệm vụ cho người chơi chuẩn bị cho việc phòng thủ.</dd></dl>
 

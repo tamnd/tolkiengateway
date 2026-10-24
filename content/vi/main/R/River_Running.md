@@ -53,7 +53,7 @@ Trong phiên bản sớm nhất của bản đồ sẽ trở thành [Bản đồ
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_River_Running.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b0/The_Lord_of_the_Rings_Online_-_River_Running.jpg/250px-The_Lord_of_the_Rings_Online_-_River_Running.jpg" decoding="async" loading="lazy" width="250" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b0/The_Lord_of_the_Rings_Online_-_River_Running.jpg/375px-The_Lord_of_the_Rings_Online_-_River_Running.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b0/The_Lord_of_the_Rings_Online_-_River_Running.jpg/500px-The_Lord_of_the_Rings_Online_-_River_Running.jpg 2x" data-file-width="1600" data-file-height="1080"/></a><figcaption>River Running in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nguồn gốc của River Running có thể được tìm thấy trong chính <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>, nơi nó chảy trong một kênh trước khi ra khỏi núi.</dd></dl>
 

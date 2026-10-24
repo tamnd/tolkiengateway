@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Cảnh phim bắt đầu bằng cảnh [Sméagol](../G/Gollum.md) kiểm tra một con sâu khi đang câu cá cùng [Déagol](../D/Déagol.md) trên một chiếc thuyền sông giữa một khu rừng yên bình. Déagol móc vào một con cá lớn kéo ông ta xuống nước. Ở đó, ông ta nhìn thấy một tia vàng lấp lánh một nửa dưới lòng sông và bị mê hoặc bởi nó, ông ta chộp lấy nó.
+Cảnh phim bắt đầu bằng cảnh [Sméagol](../G/Gollum.md) kiểm tra một con sâu khi đang câu cá cùng [Déagol](../D/Déagol.md) trên một chiếc thuyền sông giữa một khu rừng yên bình. Déagol móc vào một con cá lớn kéo ông xuống nước. Ở đó, ông nhìn thấy một tia vàng lấp lánh một nửa dưới lòng sông và bị mê hoặc bởi nó, ông chộp lấy nó.
 
 Khi ngoi lên mặt nước và quay trở lại bờ, anh phát hiện trên tay mình một [chiếc nhẫn](The_One_Ring.md) bằng vàng trơn, dính đầy bùn. Một Sméagol vui vẻ đến với Déagol, nhưng khi nhìn thấy chiếc nhẫn, ngay lập tức thèm nó và nói *"Hôm nay là sinh nhật của tôi và tôi muốn nó"*. Déagol từ chối và cả hai bắt đầu đánh nhau. Sméagol dùng vũ lực giết chết Déagol để làm điều đó. Lấy nó ra khỏi bàn tay vô hồn của Déagol, một vẻ vui mừng thuần khiết thoáng qua trên khuôn mặt Sméagol. *"My precious!"* anh nói trước khi đeo chiếc nhẫn vào lần đầu tiên và biến mất.
 
@@ -43,7 +43,7 @@ Cảnh chuyển sang cảnh một Sméagol hoàn toàn phụ thuộc vào chiế
 
 ## Sự khác biệt {#Differences}
 
-Cảnh này bám sát lời kể của [Sméagol](../G/Gollum.md) và [Déagol](../D/Déagol.md) được [Gandalf](../G/Gandalf.md) kể với [Frodo](../F/Frodo_Baggins.md) trong chương sách [ Bóng Tối của Quá khứ](The_Shadow_of_the_Past.md) rất chặt chẽ cả về cách kể chuyện lẫn lời thoại (sau khi Déagol nổi lên từ dưới nước). Hai [Stoor-hobbit](../S/Stoors.md) quả thực đã đi câu cá, Déagol bị kéo xuống nước và tìm thấy [chiếc nhẫn](The_One_Ring.md), và Sméagol bóp cổ ông ta để lấy nó.<sup id="cite_ref-FRShadow_1-0" class="reference"><a href="#cite_note-FRShadow-1">[1]</a></sup> Cảnh này *differs* từ tài liệu nguồn nằm trong nội dung *not* được đưa vào, chủ yếu đề cập đến việc Sméagol sử dụng chiếc nhẫn một cách có mục đích khi trở về với gia đình ông ta, trước khi bị trục xuất bởi bà của ông. Điều này dẫn đến việc ông ta cuối cùng phải chịu [Dãy Núi Sương Mù](../M/Misty_Mountains.md).<sup id="cite_ref-FRShadow_1-1" class="reference"><a href="#cite_note-FRShadow-1">[1]</a></sup>
+Cảnh này bám sát lời kể của [Sméagol](../G/Gollum.md) và [Déagol](../D/Déagol.md) được [Gandalf](../G/Gandalf.md) kể với [Frodo](../F/Frodo_Baggins.md) trong chương sách [ Bóng Tối của Quá khứ](The_Shadow_of_the_Past.md) rất chặt chẽ cả về cách kể chuyện lẫn lời thoại (sau khi Déagol nổi lên từ dưới nước). Hai [Stoor-hobbit](../S/Stoors.md) quả thực đã đi câu cá, Déagol bị kéo xuống nước và tìm thấy [chiếc nhẫn](The_One_Ring.md), và Sméagol bóp cổ ông để lấy nó.<sup id="cite_ref-FRShadow_1-0" class="reference"><a href="#cite_note-FRShadow-1">[1]</a></sup> Cảnh này *differs* từ tài liệu nguồn nằm trong nội dung *not* được đưa vào, chủ yếu đề cập đến việc Sméagol sử dụng chiếc nhẫn một cách có mục đích khi trở về với gia đình ông, trước khi bị trục xuất bởi bà của ông. Điều này dẫn đến việc ông cuối cùng phải chịu [Dãy Núi Sương Mù](../M/Misty_Mountains.md).<sup id="cite_ref-FRShadow_1-1" class="reference"><a href="#cite_note-FRShadow-1">[1]</a></sup>
 
 <span></span>
 

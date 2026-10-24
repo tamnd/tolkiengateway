@@ -76,7 +76,7 @@ Sự kiện xảy ra vào ngày 16 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) thức dậy và nghe thấy [Orc](../O/Orcs.md) di chuyển ngang qua [flet](../F/Flet.md) nơi ông ta đang ngủ, cùng với Gollum đang trèo lên thân cây.
+    - [Frodo](../F/Frodo_Baggins.md) thức dậy và nghe thấy [Orc](../O/Orcs.md) di chuyển ngang qua [flet](../F/Flet.md) nơi ông đang ngủ, cùng với Gollum đang trèo lên thân cây.
     - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) được dẫn qua [Lórien](../L/Lothlórien.md).
     - Quý cuối cùng của Mặt Trăng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

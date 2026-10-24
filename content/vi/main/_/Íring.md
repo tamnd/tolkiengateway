@@ -31,7 +31,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Íring được <a class="extiw" href="http://en.wikipedia.org/wiki/Anglo-Saxons" title="wikipedia:Anglo-Saxons">Anglo-Saxon</a> Vua [Watol](../W/Watol.md) ủy quyền xây dựng một con đường xuyên qua vùng đất của mình, công việc mà ông đã thực hiện trong suốt bảy năm. Tuy nhiên, các con trai của Watol, [Wætlingas](../W/Wætlingas.md), tức giận trước sự kiêu ngạo của ông ta, và do đó đã đánh cược rằng họ có thể xây dựng một con đường thậm chí còn tốt hơn chỉ trong ba năm.
+Íring được <a class="extiw" href="http://en.wikipedia.org/wiki/Anglo-Saxons" title="wikipedia:Anglo-Saxons">Anglo-Saxon</a> Vua [Watol](../W/Watol.md) ủy quyền xây dựng một con đường xuyên qua vùng đất của mình, công việc mà ông đã thực hiện trong suốt bảy năm. Tuy nhiên, các con trai của Watol, [Wætlingas](../W/Wætlingas.md), tức giận trước sự kiêu ngạo của ông, và do đó đã đánh cược rằng họ có thể xây dựng một con đường thậm chí còn tốt hơn chỉ trong ba năm.
 
 Vì vậy, Íring đã nhờ cha mình Ír giúp đỡ, và vì Ír liên minh với [Orc](../O/Orcs.md) của Íwerin nên ông đã gửi "tất cả các loại tệ nạn bí mật" để ngăn chặn bước tiến của Wætlingas.
 

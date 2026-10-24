@@ -39,7 +39,7 @@ Trong một lá thư năm 1971 gửi [Roger Lancelyn Green](../R/Roger_Lancelyn_
 
 <dl><dd>Lá bài "Hobgoblins" được phát hành thành hai phiên bản: một cho bộ mở rộng <i><a href="../M/Middle-earth%253A_The_Dragons.md" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a></i> (ảnh minh họa của Ron Chironna) và một cho <i><a href="../M/Middle-earth%253A_The_Lidless_Eye.md" title="Middle-earth: The Lidless Eye">Middle-earth: The Lidless Eye</a></i> (ảnh minh họa của Heather Hudson).</dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hobgoblin là một giống <a href="../O/Orcs.md" title="Orcs">Orc-loại</a> lớn có ngà được tìm thấy ở <a href="../G/Grey_Mountains.md" title="Grey Mountains">Dãy Núi Xám</a>. Họ không phải là đầy tớ của <a href="../S/Sauron.md" title="Sauron">Sauron</a> mà thay vào đó thuộc về <b>Bọn Frost</b>, tín đồ của <a class="mw-redirect" href="../D/Dragon.md" title="Dragon">rồng</a> Hrímil Frost-heart. Hrímil bị giam trong ngục tối <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a> vì từ chối từ bỏ một trong những <a href="../S/Seven_Rings.md" title="Seven Rings">Bảy Chiếc Nhẫn</a> mà cô đã nuốt. Vì điều này, Frost-horde và tất cả hobgoblin đều căm ghét Sauron và những kẻ đi theo hắn, chỉ liên minh với họ trong thời gian ngắn như một phần của sự lừa dối nhằm thực hiện kế hoạch của riêng họ.</dd></dl>
 

@@ -46,7 +46,7 @@ Léod là tác phẩm độc đáo dành cho phim *[The Lord of the Rings: The T
 
 ## Lịch sử {#History}
 
-Léod là [Người](../R/Rohirrim.md) của [Rohan](../R/Rohan.md) trong [Kỷ Đệ Tam](../T/Third_Age.md). Ông ta làm chủ trang trại và người chăn nuôi ở [Westfold](../W/Westfold.md) của [Rohan](../R/Rohan.md).
+Léod là [Người](../R/Rohirrim.md) của [Rohan](../R/Rohan.md) trong [Kỷ Đệ Tam](../T/Third_Age.md). Ông làm chủ trang trại và người chăn nuôi ở [Westfold](../W/Westfold.md) của [Rohan](../R/Rohan.md).
 
 Dự đoán trước một cuộc tấn công vào thủ đô [Edoras](../E/Edoras.md), [Théoden](../T/Théoden.md) [Vua](../K/King_of_Rohan.md) cùng Rohirrim bỏ chạy đến pháo đài [thủ đô Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md). Khi [Aragorn](../A/Aragorn.md) báo cáo rằng [Saruman phe Trắng](../S/Saruman.md) đã cử một lực lượng hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) tấn công Hornburg, Théoden đã ra lệnh cho mọi người đàn ông và chàng trai khỏe mạnh có khả năng cầm vũ khí chuẩn bị cho trận chiến. Léod dự tính dùng rìu để chiến đấu. Khi quân Uruk đến, ông đã chiến đấu trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md).
 

@@ -49,7 +49,7 @@ Silinde là một Tiên của [ Kỷ Đệ Tam](../T/Third_Age.md) và là bạn
 
 Trong Hội đồng, ông đã trao đổi với Saelbeth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Hội đồng quay sang ủng hộ Chaos khi các thành viên của nó bất đồng về việc phải làm gì với [Chiếc Nhẫn Chúa](../T/The_One_Ring.md). Lời tuyên bố của [Gimli](../G/Gimli.md)"Tôi sẽ chết trước khi nhìn thấy Chiếc nhẫn trong tay một [Tiên](../E/Elves.md)" là giọt nước tràn ly đối với Silinde và ông ta đứng dậy và bắt đầu la hét.
+Hội đồng quay sang ủng hộ Chaos khi các thành viên của nó bất đồng về việc phải làm gì với [Chiếc Nhẫn Chúa](../T/The_One_Ring.md). Lời tuyên bố của [Gimli](../G/Gimli.md)"Tôi sẽ chết trước khi nhìn thấy Chiếc nhẫn trong tay một [Tiên](../E/Elves.md)" là giọt nước tràn ly đối với Silinde và ông đứng dậy và bắt đầu la hét.
 
 Tiếng la hét giận dữ của Hội đồng tiếp tục diễn ra cho đến khi [Frodo Baggins](../F/Frodo_Baggins.md), [Shire-hobbit](Shire-hobbits.md), người đã mang Chiếc nhẫn đến Rivendell, tình nguyện mang Chiếc nhẫn đến Mordor và phá hủy nó. Silinde lùi lại để [Gandalf the Grey](../G/Gandalf.md) đi qua và đề nghị đi cùng Frodo. Anh quan sát những người khác tình nguyện tham gia Frodo vào nhiệm vụ của mình. Anh ngồi xuống và nhìn Chúa Elrond lồng tiếng Frodo và tám người bạn đồng hành của mình "[The Fellowship of the Ring](../F/Fellowship_of_the_Ring.md)".
 

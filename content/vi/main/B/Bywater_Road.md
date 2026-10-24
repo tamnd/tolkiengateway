@@ -56,7 +56,7 @@ Vào [3 tháng 11](../_/3_November.md) [S.R.](../S/Shire_Reckoning.md) [1419](..
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đường Bywater nối <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a> với <a href="Bywater.md" title="Bywater">Bywater</a>.</dd></dl>
 

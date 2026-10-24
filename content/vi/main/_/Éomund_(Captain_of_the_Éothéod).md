@@ -41,7 +41,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md), ông ta cưỡi ngựa cùng lãnh chúa [Eorl the Young](../E/Eorl.md) của mình để trợ giúp [người Gondor](../G/Gondor.md) trong [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md). Sau chiến thắng trước [Balchoth](../B/Balchoth.md), Éomund đã chứng kiến ​​ [Lời Thề](../O/Oath_of_Eorl.md) Eorl thề với [Cirion](../C/Cirion.md), [Quản lý của Gondor](../S/Steward_of_Gondor.md), và giúp tổ chức [Rohan](../R/Rohan.md) mới thành lập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md), ông cưỡi ngựa cùng lãnh chúa [Eorl the Young](../E/Eorl.md) của mình để trợ giúp [người Gondor](../G/Gondor.md) trong [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md). Sau chiến thắng trước [Balchoth](../B/Balchoth.md), Éomund đã chứng kiến ​​ [Lời Thề](../O/Oath_of_Eorl.md) Eorl thề với [Cirion](../C/Cirion.md), [Quản lý của Gondor](../S/Steward_of_Gondor.md), và giúp tổ chức [Rohan](../R/Rohan.md) mới thành lập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

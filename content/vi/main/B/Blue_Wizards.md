@@ -169,7 +169,7 @@ Hai Pháp sư Xanh chưa từng xuất hiện trực tiếp trong bất kỳ b�
 
 <dl><dd>Hai Pháp sư lẽ ra đã được miêu tả trong "sự chèn thêm một hoặc hai cảnh quay của các pháp sư đến, có thể không có lời thoại, như một đoạn hồi tưởng nhanh." <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> đã tạo bản phác thảo các đạo cụ cầm tay cho Pháp sư, bao gồm cả nhân viên của họ. Đạo cụ được thực hiện và trang phục được "hoàn thiện" trước khi lên ý tưởng.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[13]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bộ tộc Khundolar của <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> trong số họ có "Đẳng cấp Xanh" gồm các phù thủy. Chủ nhân của họ, "Yirokhsar the Blue", đã cấm những người theo ông hành quân cùng lực lượng của Chúa tể Bóng tối, nhưng nhiều người vẫn tham gia cùng các vị vua của họ, những người đã nằm dưới sự thống trị của <a href="../S/Sauron.md" title="Sauron">Sauron</a>. Ngoài ra, các Easterlings của Jangovar coi Sauron như một vị thần, nhưng lại bối rối tại sao chủ nhân của họ, "Yetkeyin the Violet", lại từ chối tuân theo Sauron.</dd></dl>
 

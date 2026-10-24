@@ -64,7 +64,7 @@ infobox:
 
 Folca là con trai của Vua [Walda](../W/Walda.md), sinh ra vào thời điểm đất nước của anh vẫn còn bị tàn phá bởi [Orc](../O/Orcs.md)<sup id="cite_ref-Walda_2-0" class="reference"><a href="#cite_note-Walda-2">[2]</a></sup> kẻ đã xâm lược Rohan sau [Chiến tranh Người Lùn và Orc](../W/War_of_Dwarves_and_Orcs.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Vào thời điểm ông nội [Brytta](../B/Brytta.md) qua đời, người ta tin rằng Rohan đã được giải phóng khỏi Orc. Tuy nhiên, một số Orc vẫn còn, và trong [2851](../T/Third_Age_2851.md) chỉ sau 9 năm cai trị, Walda và tất cả những người bạn đồng hành của ông đã bị Orc giết chết khi họ đi từ [Dunharrow](../D/Dunharrow.md) trên những con đường núi.<sup id="cite_ref-Walda_2-1" class="reference"><a href="#cite_note-Walda-2">[2]</a></sup>
 
-Folca là một thợ săn cừ khôi, nhưng ông ta thề sẽ không săn thú hoang chừng nào còn Orc trong Rohan. Trong suốt cuộc đời của ông ta, tất cả các đồn giữ của lũ Orc trong Rohan đều bị phá hủy.<sup id="cite_ref-Folca_1-1" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup>
+Folca là một thợ săn cừ khôi, nhưng ông thề sẽ không săn thú hoang chừng nào còn Orc trong Rohan. Trong suốt cuộc đời của ông, tất cả các đồn giữ của lũ Orc trong Rohan đều bị phá hủy.<sup id="cite_ref-Folca_1-1" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup>
 
 Sau khi Rohan được dọn sạch Orc, Folca đã đến [Firienwood](Firienholt.md) để săn [Heo Rừng Everholt](../B/Boar_of_Everholt.md) vĩ đại. Ông đã giết được con lợn rừng nhưng bị trọng thương do ngà của con thú.<sup id="cite_ref-Folca_1-2" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup> Ông được chôn trong gò đất thứ tư ở phía đông của cánh đồng Barrow<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> ở bên trái con đường tiếp cận Edoras<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> từ phía tây bắc.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Folca được kế vị bởi con trai ông [Folcwine](Folcwine.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
@@ -115,7 +115,7 @@ Không có ghi chú nào về các sự kiện xảy ra trong cuộc đời củ
 
 <dl><dd>Một tấm thảm kể lại cuộc đi săn của Folca được treo ở <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Folca xuất hiện trong một đoạn hồi tưởng mô tả việc ông giết lẫn nhau với <a class="mw-redirect" href="../B/Boar_of_Everholt.md" title="Boar of Everholt">Heo rừng Everholt</a>. Một tấm thảm mô tả sự kiện này cũng được tìm thấy trong <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 

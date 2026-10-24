@@ -101,7 +101,7 @@ Hướng Nam (từ Phương Tây đến phương Đông);
 
 ### Nguồn gốc {#Origins}
 
-Một truyền thuyết địa phương của [người dân bản địa](../P/Pre-Númenóreans.md) của [Gondor](../G/Gondor.md) kể về việc [những người khổng lồ](../G/Giants.md) tạo ra những ngọn núi để ngăn [Con Người](../M/Men.md) xâm nhập vào vùng đất của họ bởi [Biển](../B/Belegaer.md). Một trong số họ, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stiffneck&amp;action=edit&amp;redlink=1" title="Stiffneck (page does not exist)">Stiffneck</a> hoặc [Tarlang](../T/Tarlang.md) đã chết ở đó và một số đỉnh là [cổ](../T/Tarlang's_Neck.md) và [đầu](../D/Dol_Tarlang.md) của ông ta; những viên đá ông ta mang theo được gọi là [Cûl Veleg](../C/Cûl_Veleg.md) và [Cûl Bîn](../C/Cûl_Bîn.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Một truyền thuyết địa phương của [người dân bản địa](../P/Pre-Númenóreans.md) của [Gondor](../G/Gondor.md) kể về việc [những người khổng lồ](../G/Giants.md) tạo ra những ngọn núi để ngăn [Con Người](../M/Men.md) xâm nhập vào vùng đất của họ bởi [Biển](../B/Belegaer.md). Một trong số họ, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Stiffneck&amp;action=edit&amp;redlink=1" title="Stiffneck (page does not exist)">Stiffneck</a> hoặc [Tarlang](../T/Tarlang.md) đã chết ở đó và một số đỉnh là [cổ](../T/Tarlang's_Neck.md) và [đầu](../D/Dol_Tarlang.md) của ông; những viên đá ông mang theo được gọi là [Cûl Veleg](../C/Cûl_Veleg.md) và [Cûl Bîn](../C/Cûl_Bîn.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Cư dân {#Inhabitants}
 
@@ -109,7 +109,7 @@ Trong suốt lịch sử, Dãy Núi Trắng chủ yếu là nơi sinh sống c�
 
 Người Drúedain sống dọc theo rìa phía bắc của nó, để lại [Púkel-men](../P/Púkel-men.md) tại [Starkhorn](../S/Starkhorn.md) và [Drúwaith Iaur](../D/Drúwaith_Iaur.md). Họ tái định cư tại một khu rừng mà sau này được đặt theo tên của họ: [Tawar in-Drúedain](../D/Drúadan_Forest.md).
 
-Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Dãy Núi Trắng là nơi cư trú của những người có liên quan đến Dunlendings từng là người hầu của [Sauron](../S/Sauron.md). Họ đã thề trung thành với [Isildur](../I/Isildur.md), nhưng lại phản bội ông ta và bị nguyền rủa: họ được biết đến với cái tên [Những kẻ vi phạm lời thề](../O/Oathbreakers.md).
+Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Dãy Núi Trắng là nơi cư trú của những người có liên quan đến Dunlendings từng là người hầu của [Sauron](../S/Sauron.md). Họ đã thề trung thành với [Isildur](../I/Isildur.md), nhưng lại phản bội ông và bị nguyền rủa: họ được biết đến với cái tên [Những kẻ vi phạm lời thề](../O/Oathbreakers.md).
 
 Thung lũng ở phía nam nằm dưới sự cai trị của [Vua Gondor](../K/Kings_of_Gondor.md) và các lãnh chúa của [Blackroot Vale](../B/Blackroot_Vale.md), [Ringló Vale](../R/Ringló_Vale.md), [Tumladen](<../T/Tumladen_(Gondor).md>) và [Lossarnach](../L/Lossarnach.md) là những thái ấp trung thành.<sup id="cite_ref-rkmap_3-0" class="reference"><a href="#cite_note-rkmap-3">[3]</a></sup>
 
@@ -135,7 +135,7 @@ Trong dự thảo của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations_2}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dãy Núi Trắng là những đặc điểm nổi bật trên đường chân trời của <a href="../R/Rohan.md" title="Rohan">Rohan</a> và <a href="../G/Gondor.md" title="Gondor">Gondor</a> đồng thời cũng chứa một số thành trì của người lùn. "Furukzahar" của người lùn <a href="../B/Blacklocks.md" title="Blacklocks">Temámir</a> nằm ngay phía bắc của <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a>, trong khi "Zigil-jâbal" và "Kechel" không rõ lòng trung thành nằm ở phía tây của Dãy Núi Trắng và chưa có trong trò chơi.</dd></dl>
 

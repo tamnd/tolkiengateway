@@ -38,7 +38,7 @@ Người ta không bao giờ giải thích được liệu cá rùa là một ch
 
 <dl><dd>Lá bài "Fell Turtle", được phát hành trong bộ <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">METW</a></i>, là Sinh vật Nguy hiểm.</dd></dl>
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><i>Dread-turtles</i>, loài bò sát khổng lồ có mai nhọn, có thể được lấy cảm hứng từ Cá Rùa. Loài rùa đáng sợ lớn nhất được tìm thấy ở <a href="../R/Rohan.md" title="Rohan">Rohan</a> được gọi là Fastitocalon.</dd></dl>
 

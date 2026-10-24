@@ -507,7 +507,7 @@ images:
 
 ## Primhock {#Primhock}
 
-<i><b>Primhock</b></i> ([S.](../S/Sindarin.md) *Nembarch*, [Q.](../Q/Quenya.md) *Parcanen*), còn được gọi là *Waterstay* hoặc *Thirstbane*, là một loại cây bụi được tìm thấy trong các khu rừng rụng lá. Nhai lá Primhock trong mười phút sẽ khiến người tiêu dùng giữ nước trong ba ngày. Ông ta không thể đổ mồ hôi hoặc tiết nước bọt, và nước tiểu của ông ta sẽ rất cô đặc. Việc sử dụng tiếp mà không bù nước sẽ dẫn đến tổn thương thận.<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[69]</a></sup>
+<i><b>Primhock</b></i> ([S.](../S/Sindarin.md) *Nembarch*, [Q.](../Q/Quenya.md) *Parcanen*), còn được gọi là *Waterstay* hoặc *Thirstbane*, là một loại cây bụi được tìm thấy trong các khu rừng rụng lá. Nhai lá Primhock trong mười phút sẽ khiến người tiêu dùng giữ nước trong ba ngày. Ông không thể đổ mồ hôi hoặc tiết nước bọt, và nước tiểu của ông sẽ rất cô đặc. Việc sử dụng tiếp mà không bù nước sẽ dẫn đến tổn thương thận.<sup id="cite_ref-74" class="reference"><a href="#cite_note-74">[69]</a></sup>
 
 ## Làm lại {#Rewk}
 

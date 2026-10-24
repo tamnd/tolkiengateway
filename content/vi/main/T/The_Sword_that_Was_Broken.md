@@ -44,7 +44,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Khi [Aragorn](../A/Aragorn.md) ngồi và đọc gần bệ đỡ các mảnh [Narsil](../N/Narsil.md), [Boromir](../B/Boromir.md) tiến đến và nghiên cứu một cách nghiêm túc bức tranh vẽ [Isildur](../I/Isildur.md) giơ thanh kiếm gãy của mình lên ở [Sauron](../S/Sauron.md). Ông ta để ý đến Aragorn và hỏi ông ta là ai. Đáp lại, Aragorn nói với anh rằng anh là bạn của [Gandalf](../G/Gandalf.md). Boromir mỉm cười và quay về phía lưỡi kiếm gãy. Ông ta ngạc nhiên nhặt chuôi kiếm lên và kiểm tra nó, nhưng nhận thấy Aragorn đang nhìn chằm chằm vào mình nên vội vàng đánh rơi nó và cho rằng nó "không hơn gì một vật gia truyền bị hỏng".
+Khi [Aragorn](../A/Aragorn.md) ngồi và đọc gần bệ đỡ các mảnh [Narsil](../N/Narsil.md), [Boromir](../B/Boromir.md) tiến đến và nghiên cứu một cách nghiêm túc bức tranh vẽ [Isildur](../I/Isildur.md) giơ thanh kiếm gãy của mình lên ở [Sauron](../S/Sauron.md). Ông để ý đến Aragorn và hỏi ông là ai. Đáp lại, Aragorn nói với anh rằng anh là bạn của [Gandalf](../G/Gandalf.md). Boromir mỉm cười và quay về phía lưỡi kiếm gãy. Ông ngạc nhiên nhặt chuôi kiếm lên và kiểm tra nó, nhưng nhận thấy Aragorn đang nhìn chằm chằm vào mình nên vội vàng đánh rơi nó và cho rằng nó "không hơn gì một vật gia truyền bị hỏng".
 
 Sau khi Boromir khởi hành, Aragorn nhặt chuôi kiếm và trả nó về vị trí trên bệ. [Arwen](../A/Arwen.md) tiến lại gần và nói "Tại sao bạn lại sợ hãi quá khứ? Bạn là người thừa kế của Isildur chứ không phải chính Isildur. Bạn không bị ràng buộc bởi số phận của ông." Aragorn bày tỏ mối lo ngại về sức mạnh của mình, nhưng cô trấn an anh rằng anh sẽ đánh bại kẻ ác tương tự mà Isildur phải đối mặt khi thời cơ đến.
 

@@ -134,7 +134,7 @@ Sau khi [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) tiếp �
 
 <dl><dd>Haldir dẫn đầu một trung đoàn gồm Tiên cung thủ từ Lórien đến <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Trận Helm&#39;s Deep</a>, nơi cuối cùng ông bị giết, cùng với hầu hết các cung thủ của mình.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Haldir is first met on a talan on the western border of <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>. He frequently serves as the intermediary between the player and <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> during the epic story.</dd></dl>
 

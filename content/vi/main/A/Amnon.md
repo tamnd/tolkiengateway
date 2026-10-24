@@ -22,7 +22,7 @@ Trong phiên bản đầu tiên của [Lời nguyền của Mandos](../D/Doom_of
 
 ## Cảm hứng {#Inspiration}
 
-Trong Kinh thánh, Amnon là đứa con cả độc ác của vua David. [Tolkien](../J/J.R.R._Tolkien.md) chắc chắn đã biết đến nhân vật này (vì ông ta là một người Công giáo), và thật tò mò khi suy đoán về việc ông ta đặc biệt chọn cái tên này như thế nào trong các tác phẩm trước đây của ông ta.
+Trong Kinh thánh, Amnon là đứa con cả độc ác của vua David. [Tolkien](../J/J.R.R._Tolkien.md) chắc chắn đã biết đến nhân vật này (vì ông là một người Công giáo), và thật tò mò khi suy đoán về việc ông đặc biệt chọn cái tên này như thế nào trong các tác phẩm trước đây của ông.
 
 <span></span>
 

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã đọc <i><a class="extiw" href="http://en.wikipedia.org/wiki/Studies_in_Words" title="wikipedia:Studies in Words">Nghiên cứu về từ ngữ</a></i>mới nhất của [C.S. Lewis](../C/C.S._Lewis.md) và nhận xét rằng sự ngốc nghếch nặng nề của Lewis đã trở thành một thói quen cố định. May mắn thay, Tolkien cho biết, ông đã không được nhắc đến. Ông ta đã viết một bài phân tích dài về \*BHŪ, trong đó Lewis chỉ sử dụng chín dòng đầu tiên và bác bỏ phần còn lại với lý do "chúng tôi không có một chút bằng chứng nào".
+Tolkien đã đọc <i><a class="extiw" href="http://en.wikipedia.org/wiki/Studies_in_Words" title="wikipedia:Studies in Words">Nghiên cứu về từ ngữ</a></i>mới nhất của [C.S. Lewis](../C/C.S._Lewis.md) và nhận xét rằng sự ngốc nghếch nặng nề của Lewis đã trở thành một thói quen cố định. May mắn thay, Tolkien cho biết, ông đã không được nhắc đến. Ông đã viết một bài phân tích dài về \*BHŪ, trong đó Lewis chỉ sử dụng chín dòng đầu tiên và bác bỏ phần còn lại với lý do "chúng tôi không có một chút bằng chứng nào".
 
 Phần hay nhất, Tolkien nghĩ, là nhận xét khôn ngoan ở trang cuối cùng: "…những dịp mà chúng ta muốn viết một bài đánh giá gay gắt nhất lại chính là những dịp mà chúng ta tốt hơn hết nên giữ im lặng." Tolkien đã bình luận *Ergo silebo*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 

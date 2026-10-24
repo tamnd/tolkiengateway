@@ -48,7 +48,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Gárulf là kỵ sĩ trong *[Éored](../_/Éored.md)* của [Éomer](../_/Éomer.md), [Thống chế thứ ba của Riddermark](../T/Third_Marshal_of_the_Riddermark.md). *Éored* [của ông ta đã tấn công và tàn sát](../A/Ambush_at_Fangorn_Forest.md) [Uruk-hai](../U/Uruk-hai.md) của [Uglúk](../U/Uglúk.md) dưới mái hiên của [Rừng Fangorn](../F/Fangorn_Forest.md), nơi Gárulf bị giết. Con ngựa [Hasufel](../H/Hasufel.md) của anh đã được [Aragorn](../A/Aragorn.md) tặng cho Éomer khi họ gặp nhau lần đầu ở [Wold](../T/The_Wold.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Gárulf là kỵ sĩ trong *[Éored](../_/Éored.md)* của [Éomer](../_/Éomer.md), [Thống chế thứ ba của Riddermark](../T/Third_Marshal_of_the_Riddermark.md). *Éored* [của ông đã tấn công và tàn sát](../A/Ambush_at_Fangorn_Forest.md) [Uruk-hai](../U/Uruk-hai.md) của [Uglúk](../U/Uglúk.md) dưới mái hiên của [Rừng Fangorn](../F/Fangorn_Forest.md), nơi Gárulf bị giết. Con ngựa [Hasufel](../H/Hasufel.md) của anh đã được [Aragorn](../A/Aragorn.md) tặng cho Éomer khi họ gặp nhau lần đầu ở [Wold](../T/The_Wold.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

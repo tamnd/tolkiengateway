@@ -69,6 +69,6 @@ infobox:
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.sociedadtolkien.org/blog/2022/12/18/regreso-hobbiton-8x10/" rel="noreferrer noopener" target="_blank">Regreso a Hobbiton 8×10: Especial MorgulCon</a> at <a class="external text" href="https://www.sociedadtolkien.org" rel="noreferrer noopener" target="_blank">sociedadtolkien.org</a> (accessed 24 September 2024)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://ilcerchio.it/tolkien-e-l-italia-il-mio-viaggio-in-italia.html.html" rel="noreferrer noopener" target="_blank">Tolkien  l&#39;Italia - Il mio viaggio in Italia</a> from <a class="external text" href="https://ilcerchio.it" rel="noreferrer noopener" target="_blank">ilcerchio.it</a>(accessed 27 March 2023)</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://ilcerchio.it/tolkien-e-l-italia-il-mio-viaggio-in-italia.html.html" rel="noreferrer noopener" target="_blank">Tolkien l&#39;Italia - Il mio viaggio in Italia</a> from <a class="external text" href="https://ilcerchio.it" rel="noreferrer noopener" target="_blank">ilcerchio.it</a>(accessed 27 March 2023)</span>
 </li>
 </ol></div>

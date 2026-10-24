@@ -57,7 +57,7 @@ Các vị vua và hoàng hậu được miêu tả là:
 
 1\. [Elros Tar-Minyatur](../E/Elros.md)<br> 2. [Tar-Vardamir](../V/Vardamir.md)<br> 3. [Tar-Amandil](Tar-Amandil.md) <br> 4. [Tar-Elendil](Tar-Elendil.md) <br> 5. [Tar-Meneldur](Tar-Meneldur.md) <br> 6. [Tar-Aldarion](Tar-Aldarion.md) <br> 7. [Tar-Ancalimë](Tar-Ancalimë.md) <br> 8. [Tar-Anárion](Tar-Anárion.md) <br> 9. [Tar-Súrion](Tar-Súrion.md) <br> 10. [Tar-Telperiën](Tar-Telperiën.md) <br> 11. [Tar-Minastir](Tar-Minastir.md) <br> 12. [Tar-Ciryatan](Tar-Ciryatan.md) <br> 13. [Tar-Atanamir](Tar-Atanamir.md) <br> 14. [Tar-Ancalimon](Tar-Ancalimon.md) <br> 15. [Tar-Telemmaitë](Tar-Telemmaitë.md) <br> 16. [Tar-Vanimeldë](Tar-Vanimeldë.md) ¹ <br> 17. [Tar-Alcarin](Tar-Alcarin.md) <br> 18. [Ar-Belzagar](../A/Ar-Belzagar.md) <br> 19. [Ar-Abattârik](../A/Ar-Abattârik.md) <br> 20. [Ar-Adûnakhôr](../A/Ar-Adûnakhôr.md) <br> 21. [Ar-Zimrathôn](../A/Ar-Zimrathôn.md) <br> 22. [Ar-Sakalthôr](../A/Ar-Sakalthôr.md) <br> 23. [Ar-Gimilzôr](../A/Ar-Gimilzôr.md) <br> 24. [Tar-Palantir](Tar-Palantir.md) <br> 25. [Ar-Pharazôn](../A/Ar-Pharazôn.md) <br>
 
-¹Sau Tar-Vanimeldë, chồng cô [Tar-Anducal](Tar-Anducal.md) đi theo, nhưng ông ta đã tuyên bố bất hợp pháp Vương quyền của Númenor nên không được tính.
+¹Sau Tar-Vanimeldë, chồng cô [Tar-Anducal](Tar-Anducal.md) đi theo, nhưng ông đã tuyên bố bất hợp pháp Vương quyền của Númenor nên không được tính.
 
 ## Xem thêm {#See_also}
 

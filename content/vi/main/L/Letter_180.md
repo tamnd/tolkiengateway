@@ -39,7 +39,7 @@ Tolkien chắc chắn rằng tất cả những điều này thật nhàm chán 
 
 Tolkien đã đề nghị xuất bản *[The Silmarillion](../T/The_Silmarillion.md)* nhiều năm trước nhưng đã bị từ chối. Từ cú đánh này đã đến *The Lord of the Rings*. Các hobbit đã được chào đón và bản thân anh cũng yêu họ, yêu những điều tầm thường và giản dị cũng như quý phái. Sự phong tước Vịt con xấu xí cho Frodo khiến trái tim anh cảm động nhất. Lẽ ra ông phải viết câu chuyện như [Gandalf](../G/Gandalf.md) đã nói. Từ một "lời giới thiệu" mà ông viết cho *[The Hobbit](../T/The_Hobbit.md)*, đề cập đến khoảng thời gian giữa Ngày xưa và Sự thống trị của Con Người, "Sự sụp đổ của [Númenor](../N/Númenor.md)" đã xuất hiện từ một "phức hợp" ẩn nào đó. Khi [Faramir](../F/Faramir.md) nói về hình ảnh của Làn sóng lớn, ông đã nói Tolkien. (Faramir là nhân vật giống anh nhất, Tolkien nói, ngoại trừ việc anh thiếu thứ mà tất cả các nhân vật của anh đều sở hữu – lòng dũng cảm.)
 
-Tolkien lưu ý rằng *The Lord of the Rings* đã thành công đến mức ông ta bị bắt nạt một cách tích cực khi đưa *The Silmarillion* vào hình thức hoặc bất cứ điều gì khác.
+Tolkien lưu ý rằng *The Lord of the Rings* đã thành công đến mức ông bị bắt nạt một cách tích cực khi đưa *The Silmarillion* vào hình thức hoặc bất cứ điều gì khác.
 
 ## Ghi chú {#Notes}
 

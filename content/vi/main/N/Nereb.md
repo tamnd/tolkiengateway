@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Nereb"
 ---
 
-**Nereb** (đảo ngược tên *Beren*) là tên [orc](../O/Orcs.md) mà [Beren](../B/Beren.md) tự nhận khi cải trang trong [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md). Người bạn đồng hành của ông ta, [Finrod Felagund](../F/Finrod.md), tự gọi mình là [Dungalef](../D/Dungalef.md).<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
+**Nereb** (đảo ngược tên *Beren*) là tên [orc](../O/Orcs.md) mà [Beren](../B/Beren.md) tự nhận khi cải trang trong [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md). Người bạn đồng hành của ông, [Finrod Felagund](../F/Finrod.md), tự gọi mình là [Dungalef](../D/Dungalef.md).<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
 
 <span></span>
 

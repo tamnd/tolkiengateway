@@ -35,7 +35,7 @@ infobox:
 
 ## Ghi chú {#Notes}
 
-Tiến sĩ Firor của Đại học Johns Hopkins chưa được [Christopher Tolkien](../C/Christopher_Tolkien.md) hoặc [Humphrey Carpenter](../H/Humphrey_Carpenter.md) xác định danh tính. Tiến sĩ Firor duy nhất được JHU tuyển dụng vào thời điểm đó là <a class="external text" href="http://medicalarchives.jhmi.edu/sgml/firor.html" rel="noreferrer noopener" target="_blank">Warfield Monroe Firor</a>, một giáo sư Y khoa. Công việc kinh doanh của ông ta với Inklings là gì vẫn chưa được biết. <br>
+Tiến sĩ Firor của Đại học Johns Hopkins chưa được [Christopher Tolkien](../C/Christopher_Tolkien.md) hoặc [Humphrey Carpenter](../H/Humphrey_Carpenter.md) xác định danh tính. Tiến sĩ Firor duy nhất được JHU tuyển dụng vào thời điểm đó là <a class="external text" href="http://medicalarchives.jhmi.edu/sgml/firor.html" rel="noreferrer noopener" target="_blank">Warfield Monroe Firor</a>, một giáo sư Y khoa. Công việc kinh doanh của ông với Inklings là gì vẫn chưa được biết. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

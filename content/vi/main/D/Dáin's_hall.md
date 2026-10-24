@@ -45,7 +45,7 @@ Người ta biết rất ít về hội trường này ngoại trừ việc vào
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Được thành lập bởi <a href="../T/Thorin_I.md" title="Thorin I">Thorin I</a> nó được gọi là "Grárik" hay "Vương quốc Xám". Thủ đô của nó là "Thikil-gundu, Tháp thép", một pháo đài có từ trước vương quốc và cũng được người lùn "Zhélruka" của <a href="../R/Rhûn.md" title="Rhûn">phương Đông</a> tuyên bố chủ quyền.</dd></dl>
 

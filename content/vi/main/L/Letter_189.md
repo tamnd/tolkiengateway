@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã trả lời một độc giả, bà M. Wilson, người dường như đã nói với ông ta về sự quan tâm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nhận được từ trẻ em. Tolkien đã nhận thấy điều đó và nghĩ rằng thật đáng tiếc vì đây là cuốn sách được viết dành cho đối tượng độc giả trưởng thành hơn và họ sẽ phải đọc lại để hiểu hết. Bản thân Tolkien không thích đọc lại sách lắm; "sự mới mẻ của những điều chưa đọc" lớn hơn khả năng tìm thấy sự đánh giá sâu sắc hơn đối với ông. <br>
+Tolkien đã trả lời một độc giả, bà M. Wilson, người dường như đã nói với ông về sự quan tâm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nhận được từ trẻ em. Tolkien đã nhận thấy điều đó và nghĩ rằng thật đáng tiếc vì đây là cuốn sách được viết dành cho đối tượng độc giả trưởng thành hơn và họ sẽ phải đọc lại để hiểu hết. Bản thân Tolkien không thích đọc lại sách lắm; "sự mới mẻ của những điều chưa đọc" lớn hơn khả năng tìm thấy sự đánh giá sâu sắc hơn đối với ông. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

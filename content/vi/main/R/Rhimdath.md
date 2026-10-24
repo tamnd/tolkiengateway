@@ -45,7 +45,7 @@ Sông Rhimdath không có tên trên [Bản đồ Wilderland](../M/Map_of_Wilder
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bắt nguồn từ <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>, Rhimdath tạo thành một hồ lớn trên núi trước khi tụt xuống phía dưới và tiếp tục chảy về phía đông. Hồ là quê hương của "Lyndelby", một ngôi làng <a href="../F/Fallohides.md" title="Fallohides">Fallohides</a> vẫn biệt lập với thế giới rộng lớn hơn và được bảo vệ bởi <a href="../G/Great_Eagles.md" title="Great Eagles">Great Đại Bàng</a> người duy trì bí mật của nó.</dd></dl>
 

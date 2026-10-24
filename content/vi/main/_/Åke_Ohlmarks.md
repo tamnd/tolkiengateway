@@ -52,7 +52,7 @@ Không phải tất cả các nhận xét về bản dịch của Ohlmarks đề
 
 Tuy nhiên, những lời chỉ trích tiêu cực lấn át sự tích cực.<sup id="cite_ref-Beregond_4-2" class="reference"><a href="#cite_note-Beregond-4">[4]</a></sup> Vào những năm 1970, Ohlmarks trở nên tức giận khi [Christopher Tolkien](../C/Christopher_Tolkien.md) viết rằng ông sẽ chỉ cho phép dịch *[The Silmarillion](../T/The_Silmarillion.md)* sang tiếng Thụy Điển nếu Ohlmarks không được kết nối với nó.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Hai năm trước khi ông qua đời, Ohlmarks đã đổ lỗi cho [Tolkien người hâm mộ Thụy Điển](../T/Tolkien_fandom.md) về vụ cháy nhà của ông và viết *[Tolkien och den svarta magin](../T/Tolkien_och_den_svarta_magin.md)*, "Tolkien và Ma thuật đen". Trong đó, ông ta đã dựng lên một thuyết âm mưu tuyên bố Tolkien và [Hội Tolkien](../T/The_Tolkien_Society.md) thực hành ma thuật đen và thuyết huyền bí của Đức Quốc xã.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Hai năm trước khi ông qua đời, Ohlmarks đã đổ lỗi cho [Tolkien người hâm mộ Thụy Điển](../T/Tolkien_fandom.md) về vụ cháy nhà của ông và viết *[Tolkien och den svarta magin](../T/Tolkien_och_den_svarta_magin.md)*, "Tolkien và Ma thuật đen". Trong đó, ông đã dựng lên một thuyết âm mưu tuyên bố Tolkien và [Hội Tolkien](../T/The_Tolkien_Society.md) thực hành ma thuật đen và thuyết huyền bí của Đức Quốc xã.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 Trong [2004](2004.md), bản dịch tiếng Thụy Điển mới của *The Lord of the Rings*, do [Erik Andersson](../E/Erik_Andersson.md) thực hiện, đã được xuất bản.<sup id="cite_ref-Beregond_4-3" class="reference"><a href="#cite_note-Beregond-4">[4]</a></sup>
 

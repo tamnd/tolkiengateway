@@ -57,7 +57,7 @@ infobox:
 
 Théoden cùng ông đi đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Con chiến mã đã bị giết chết khi bị [Vua Phù thủy](../W/Witch-king.md) phi tiêu đen tấn công và ngã xuống Vua khiến nó bị thương nặng.<sup id="cite_ref-v6_1-2" class="reference"><a href="#cite_note-v6-1">[1]</a></sup>
 
-Người tuyết, còn được gọi là *Théoden's Bane* và *Master's Bane*, được chôn trong vùng trũng nơi ông ta rơi xuống và được gọi là [Snowmane's Howe](Snowmane's_Howe.md).<sup id="cite_ref-v6_1-3" class="reference"><a href="#cite_note-v6-1">[1]</a></sup>
+Người tuyết, còn được gọi là *Théoden's Bane* và *Master's Bane*, được chôn trong vùng trũng nơi ông rơi xuống và được gọi là [Snowmane's Howe](Snowmane's_Howe.md).<sup id="cite_ref-v6_1-3" class="reference"><a href="#cite_note-v6-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -103,7 +103,7 @@ Người tuyết, còn được gọi là *Théoden's Bane* và *Master's Bane*,
 
 <dl><dd><a href="../T/Théoden.md" title="Théoden">Théoden</a> cưỡi Người Tuyết trong <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a>. Ông phát biểu và lao vào trận chiến với ông. Trong trận chiến, <a href="../F/Fell_beasts.md" title="Fell beasts">Quái thú</a> của <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> cắn Snowmane và ném ông đi với <a href="../T/Théoden.md" title="Théoden">Théoden</a> vẫn còn trên lưng, nghiền nát ông. Snowmane nằm bất động, có lẽ đã chết.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Snowmane đi cùng Théoden tới <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Trận Hornburg</a> và được cưỡi trên chuyến tấn công cuối cùng ra khỏi pháo đài. Ông đã ngã vào <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">cánh đồng Pelennor</a> đúng như mô tả trong sách.</dd></dl>
 

@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Bruno là con trai của [Blanco](Blanco_Bracegirdle.md) và [Primrose](../P/Primrose_Boffin.md). Ông ta có một cô em gái, [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md) khét tiếng, và hai đứa con, [Hugo](../H/Hugo_Bracegirdle.md) và [Hilda](../H/Hilda_Bracegirdle.md).<sup id="cite_ref-Boffin_1-0" class="reference"><a href="#cite_note-Boffin-1">[1]</a></sup>
+Bruno là con trai của [Blanco](Blanco_Bracegirdle.md) và [Primrose](../P/Primrose_Boffin.md). Ông có một cô em gái, [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md) khét tiếng, và hai đứa con, [Hugo](../H/Hugo_Bracegirdle.md) và [Hilda](../H/Hilda_Bracegirdle.md).<sup id="cite_ref-Boffin_1-0" class="reference"><a href="#cite_note-Boffin-1">[1]</a></sup>
 
 Bruno đã tham dự [Tiệc chia tay của Bilbo](Bilbo's_Farewell_Party.md).<sup id="cite_ref-Boffin_1-1" class="reference"><a href="#cite_note-Boffin-1">[1]</a></sup>
 

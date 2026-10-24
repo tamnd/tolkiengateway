@@ -33,7 +33,7 @@ infobox:
 
 Tolkien cảm ơn dì đã trả lại mấy bài thơ chú gửi cho dì. Anh rất thích đào chúng lên và lục lại những thứ đã bị lãng quên một nửa, đặc biệt là khi anh còn có những việc khác buồn tẻ hơn lẽ ra anh phải làm.
 
-Tolkien cho biết ông không có hứng thú với việc viết cho trẻ em. Làm như vậy là một sai lầm, vô ích đối với kẻ ngu ngốc và có hại cho người có năng khiếu. Ông ta chỉ mắc lỗi một lần, ở phần đầu của *[The Hobbit](../T/The_Hobbit.md)*. Anh đã phải suy nghĩ về những ảo tưởng của mình về “truyện cổ tích” khi soạn bài giảng và điều đó có lợi cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Nó không được viết cho trẻ em hay bất kỳ loại người nào mà cho chính nó. Đối với những đứa trẻ đã đọc hoặc nghe nó, ông hy vọng nó sẽ làm tăng vốn từ vựng của chúng.
+Tolkien cho biết ông không có hứng thú với việc viết cho trẻ em. Làm như vậy là một sai lầm, vô ích đối với kẻ ngu ngốc và có hại cho người có năng khiếu. Ông chỉ mắc lỗi một lần, ở phần đầu của *[The Hobbit](../T/The_Hobbit.md)*. Anh đã phải suy nghĩ về những ảo tưởng của mình về “truyện cổ tích” khi soạn bài giảng và điều đó có lợi cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Nó không được viết cho trẻ em hay bất kỳ loại người nào mà cho chính nó. Đối với những đứa trẻ đã đọc hoặc nghe nó, ông hy vọng nó sẽ làm tăng vốn từ vựng của chúng.
 
 Các từ *plenilune* và *argent* đều đẹp trước khi được hiểu, Tolkien nói, và gặp tốt nhất trong bối cảnh sống hơn là trong từ điển. Trẻ em là một tập hợp những người chưa trưởng thành, giống như con người, khác nhau về tầm với và khả năng mở rộng tầm với đó. Việc giới hạn vốn từ vựng của bạn ở những gì được cho là nằm trong tầm tay của họ chỉ đơn giản là ngăn cản những người có năng khiếu mở rộng kiến ​​thức của họ.
 

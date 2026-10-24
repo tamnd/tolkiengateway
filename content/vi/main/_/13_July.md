@@ -77,7 +77,7 @@ Sự kiện xảy ra vào ngày 13 tháng 7
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md):
-    - Trong giai đoạn cuối của [Thảm họa Morannon](../D/Disaster_of_the_Morannon.md), [Minohtar](../M/Minohtar.md) bị giết bởi một mũi tên và lực lượng của ông ta bị đánh tan tác.
+    - Trong giai đoạn cuối của [Thảm họa Morannon](../D/Disaster_of_the_Morannon.md), [Minohtar](../M/Minohtar.md) bị giết bởi một mũi tên và lực lượng của ông bị đánh tan tác.
     - [Eärnil](../E/Eärnil_II.md) đến chiến trường và giành chiến thắng trong [Trận chiến trại](../B/Battle_of_the_Camp.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).

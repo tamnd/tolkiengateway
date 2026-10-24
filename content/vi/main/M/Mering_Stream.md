@@ -61,7 +61,7 @@ Tên có nghĩa là "dòng ranh giới". *Mering* đại diện cho [tiếng Anh
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Chỉ có thể truy cập Mering Stream từ phía <a href="../R/Rohan.md" title="Rohan">Rohan</a> vì phía <a href="../G/Gondor.md" title="Gondor">Gondor</a> bị chặn bởi những vách đá và lau sậy không thể vượt qua. Cách duy nhất để qua sông là đi qua một pháo đài được canh gác, nơi cũng chuyển người chơi giữa <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a> sang <a href="../G/Gondor.md" title="Gondor">Gondor</a> vùng đất trong trò chơi, một quá trình chuyển đổi rất đáng chú ý vì tất cả Gondor đều được bao phủ trong <a href="../D/Dawnless_Day.md" title="Dawnless Day">Ngày không bình minh</a> tại thời điểm đó, bất kể điều kiện ánh sáng ban ngày ở phía Rohan. Thị trấn Rohirrim "Beaconwatch" nằm bên bờ sông, với tầm nhìn thoáng đãng ra <a class="mw-redirect" href="../F/Firien_Wood.md" title="Firien Wood">Firien Wood</a> và <a href="../H/Halifirien.md" title="Halifirien">Halifirien</a>.</dd></dl>
 

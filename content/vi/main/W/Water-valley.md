@@ -30,7 +30,7 @@ The Water-thung lũng là thung lũng của [Nước](../T/The_Water.md).<sup id
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Water-thung lũng nằm ở hai bên bờ <a href="../T/The_Water.md" title="The Water">Nước</a>.</dd></dl>
 

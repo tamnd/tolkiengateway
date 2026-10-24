@@ -84,7 +84,7 @@ Nó là sự kết hợp của *frum* ("đầu tiên")<sup id="cite_ref-15" clas
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Frumgar xuất hiện trong đoạn hồi tưởng kể lại lịch sử của <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a>. Ông kết bạn với <a href="../D/Dwarves.md" title="Dwarves">người lùn</a> và <a href="../W/Wizards.md" title="Wizards">Pháp sư</a> khi còn trẻ, và quyết định chuyển người của mình đến Giếng của <a class="mw-redirect" href="../L/Langflood.md" title="Langflood">Langflood</a> một phần được thúc đẩy bởi việc vợ ông bị giết trong một cuộc đột kích <a href="../O/Orcs.md" title="Orcs">Orc</a>. Chính ông đã đặt cho <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> cái tên miền bắc của mình bằng cách gọi ông là Wandalb, " Tiên của Cây đũa phép".</dd></dl>
 

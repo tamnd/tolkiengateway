@@ -52,13 +52,13 @@ Lần đề cập tiếp theo của ông là trong [Tối của Valinor](../D/Da
 
 ### Lịch sử sau này {#Later_history}
 
-Theo một văn bản, khi Melko thoát khỏi cảnh giam cầm thứ hai (sau [Tháng Ba Giải phóng](../M/March_of_Liberation.md)), ông ta đã đến [Tol Eressëa](Tol_Eressëa.md) để gieo rắc sự bất hòa giữa [Gnomes](../G/Gnomes.md) và [Solosimpi](../S/Solosimpi.md), những người đã cử người đến giúp đỡ [Valinor](../V/Valinor.md). Tuy nhiên, sự trợ giúp duy nhất đến từ Valar là của Tulkas, người đã bí mật cử con trai mình là Telimektar đến Tol Eressëa để hỗ trợ họ.
+Theo một văn bản, khi Melko thoát khỏi cảnh giam cầm thứ hai (sau [Tháng Ba Giải phóng](../M/March_of_Liberation.md)), ông đã đến [Tol Eressëa](Tol_Eressëa.md) để gieo rắc sự bất hòa giữa [Gnomes](../G/Gnomes.md) và [Solosimpi](../S/Solosimpi.md), những người đã cử người đến giúp đỡ [Valinor](../V/Valinor.md). Tuy nhiên, sự trợ giúp duy nhất đến từ Valar là của Tulkas, người đã bí mật cử con trai mình là Telimektar đến Tol Eressëa để hỗ trợ họ.
 
-Ở đó, Telimektar, với sự giúp đỡ của [Ingil](../I/Ingil.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> con trai của [Inwë](../I/Inwë.md), đã gây bất ngờ cho Melko và làm bị thương ông ta, đồng thời đuổi theo ông ta lên [Cây thông Tavrobel](../P/Pine_of_Tavrobel.md) đến tận [Ilwë](../I/Ilwë.md). Tuy nhiên, Melko tiếp tục tấn công các [Mặt Trời](../S/Sun.md) và [các ngôi sao](../S/Stars.md), và cuối cùng đã gây ra cái chết của [Urwendi](../U/Urwendi.md) người lái tàu Mặt Trời.
+Ở đó, Telimektar, với sự giúp đỡ của [Ingil](../I/Ingil.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> con trai của [Inwë](../I/Inwë.md), đã gây bất ngờ cho Melko và làm bị thương ông, đồng thời đuổi theo ông lên [Cây thông Tavrobel](../P/Pine_of_Tavrobel.md) đến tận [Ilwë](../I/Ilwë.md). Tuy nhiên, Melko tiếp tục tấn công các [Mặt Trời](../S/Sun.md) và [các ngôi sao](../S/Stars.md), và cuối cùng đã gây ra cái chết của [Urwendi](../U/Urwendi.md) người lái tàu Mặt Trời.
 
 Cuối cùng, Valar quyết định chặt cây Thông vĩ đại, khiến Melko bị mắc kẹt ngoài thế giới.
 
-Tuy nhiên, Telimektar và Ingil phải ở lại trên bầu trời, canh gác không ngừng nghỉ cho đến khi Melko trở lại [Great End](../G/Great_End.md). Ở đó, [Varda](../V/Varda.md) định kỳ đưa cho ông ta [các ngôi sao](../S/Stars.md) để thay thế những ngôi sao mà Melko phá hủy và để nhắc nhở thế giới về chiếc đồng hồ của Valar- và chòm sao <a class="extiw" href="http://en.wikipedia.org/wiki/Orion_(constellation)" title="wikipedia:Orion (constellation)">Orion</a> sau đó được coi là hình ảnh của ông ta trên bầu trời.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Tuy nhiên, Telimektar và Ingil phải ở lại trên bầu trời, canh gác không ngừng nghỉ cho đến khi Melko trở lại [Great End](../G/Great_End.md). Ở đó, [Varda](../V/Varda.md) định kỳ đưa cho ông [các ngôi sao](../S/Stars.md) để thay thế những ngôi sao mà Melko phá hủy và để nhắc nhở thế giới về chiếc đồng hồ của Valar- và chòm sao <a class="extiw" href="http://en.wikipedia.org/wiki/Orion_(constellation)" title="wikipedia:Orion (constellation)">Orion</a> sau đó được coi là hình ảnh của ông trên bầu trời.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

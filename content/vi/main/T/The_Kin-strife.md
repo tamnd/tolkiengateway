@@ -58,7 +58,7 @@ Xung đột Kin bao gồm:
 - PELARGIR - trung tâm của chế độ Kẻ chiếm đoạt, nơi Vệ binh Hoàng gia và Côr Aran - cả hai đều trung thành với Castamir - thường xuyên đối đầu nhau trong các cuộc đụng độ kình địch hơn là hợp tác với nhau.
 - UMBAR - pháo đài của những người theo chủ nghĩa truyền thống ủng hộ Gondor sự tham gia vào miền Nam, tuy nhiên lại đầy xung đột: Quạ chiến đấu với Quạ trên các địa điểm trên đất liền và trên biển.
 - LOND ERNIL - nơi trú ẩn của Thân vương Belfalas người chống lại sự cai trị của Kẻ Tiếm Quyền và do đó là mục tiêu đầu tiên của Castamir cho vụ ám sát bí mật.
-- OSGILIATH - bị Castamir hủy hoại và biến thành nhà tù rộng lớn dành cho kẻ thù của ông ta; những cư dân bất mãn âm mưu nổi dậy chống lại Vua giả.
+- OSGILIATH - bị Castamir hủy hoại và biến thành nhà tù rộng lớn dành cho kẻ thù của ông; những cư dân bất mãn âm mưu nổi dậy chống lại Vua giả.
 - MINAS ANOR - ban đầu trung lập trong cuộc xung đột dân sự, nhưng đứng về phía Castamir sau sự sụp đổ của Osgiliath; nhiều người trung thành với Eldacar biến đô thị chiến lược thành bất cứ thứ gì ngoại trừ nơi an toàn cho người chỉ huy đồn trú.
 - MINAS ITHIL - được cai trị bởi Kẻ Tiếm Quyền chỉ bằng vũ lực, Thành phố Mặt Trăng sẽ tước bỏ quyền kiểm soát của Castamir trong vòng vài giờ mà không gặp phải mối đe dọa từ thanh kiếm của quân đồn trú.
 - THE PALE RIDERS - Người phương Đông lên kế hoạch giết Vua người lưu vong để nhận phần thưởng là ngựa và vũ khí từ Castamir - liệu các anh hùng của chúng ta có thể ngăn chặn âm mưu này không?

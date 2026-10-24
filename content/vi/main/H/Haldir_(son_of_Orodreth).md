@@ -29,9 +29,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gnomes.md" title="Gnomes">Gnome</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Haldir</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../N/Nargothrond.md" title="Nargothrond">Nargothrond</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Gia đình</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cha mẹ</th><td class="tg-infobox-data"><a href="../O/Orodreth.md" title="Orodreth">Orodreth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Anh chị em</th><td class="tg-infobox-data"><a href="../O/Orodlin_(son_of_Orodreth).md" title="Orodlin (son of Orodreth)">Orodlin</a>, <a href="../F/Finduilas.md" title="Finduilas">Finduilas</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr></tbody></table>
 
-**Haldir**, trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), là con trai lớn của [Orodreth](../O/Orodreth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta đã bị [lũ Orc](../O/Orcs.md) bẫy và treo lên cây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Haldir**, trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), là con trai lớn của [Orodreth](../O/Orodreth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông đã bị [lũ Orc](../O/Orcs.md) bẫy và treo lên cây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Grey Annals](../G/Grey_Annals.md) ông ta được đề cập là đã bị giết vào năm [F.A.](../F/First_Age.md) [488](../F/First_Age_488.md) trong một ghi chú đã bị gạch bỏ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Grey Annals](../G/Grey_Annals.md) ông được đề cập là đã bị giết vào năm [F.A.](../F/First_Age.md) [488](../F/First_Age_488.md) trong một ghi chú đã bị gạch bỏ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

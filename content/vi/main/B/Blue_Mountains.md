@@ -119,13 +119,13 @@ Vào Kỷ Đệ Nhị, loài Người ở Trung Địa gọi Ered Luin là **Dã
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Dãy Núi Xanh được coi là địa điểm diễn ra cuộc chiến giữa Người Lùn và <a href="../D/Drogoth.md" title="Drogoth">Drogoth</a>.</dd></dl>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg/300px-The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg/450px-The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg/600px-The_Lord_of_the_Rings_Online_-_Ered_Luin_map.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Map of Ered Luin from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>.</figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dãy Núi Xanh xuất hiện dưới dạng vùng cực tây của trò chơi, Ered Luin. Ered Luin là khu vực dành cho người mới bắt đầu dành cho bốn chủng tộc của trò chơi: Tiên tộc, <a href="../C/Calaquendi.md" title="Calaquendi">High Elves</a>, Người Lùn và người lùn "<a href="../S/Stout-axe.md" title="Stout-axe">Stout-axe</a>". Cốt truyện của khu vực này dựa trên cuộc xung đột trong giai đoạn đầu của <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a> giữa Tiên tộc và Longbeards đồng minh và một nhóm lừa đảo Người Lùn được gọi là <a href="../D/Dourhands.md" title="Dourhands">Dourhands</a> và đồng minh của họ, "Blue Crag" <a href="../O/Orcs.md" title="Orcs">Goblin</a>.</dd></dl>
 

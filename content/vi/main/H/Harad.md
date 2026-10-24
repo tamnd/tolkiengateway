@@ -67,7 +67,7 @@ infobox:
 
 Vào [thời nguyên thủy](../D/Days_before_days.md) của [Arda](../A/Arda.md), vùng đất phía nam Trung Địa được chiếu sáng bởi một trong [hai ngọn đèn hùng mạnh](../T/Two_Lamps.md), tên là [Ormal](../O/Ormal.md), trên đỉnh một cây cột hùng vĩ. Ormal được tạo ra bởi [Aulë](../A/Aulë.md), được lấp đầy bởi [Varda](../V/Varda.md) và được tôn vinh bởi [Manwë](../M/Manwë.md) ở phía nam thế giới trong khi [Valar](../V/Valar.md) vẫn cư trú trên [Almaren](../A/Almaren.md). Cả hai ngọn đèn cuối cùng đã bị phá hủy bởi một cuộc tấn công của [Melkor](../M/Morgoth.md),<sup id="cite_ref-Rend_1-0" class="reference"><a href="#cite_note-Rend-1">[1]</a></sup> và sự phá hủy của Ormal đã tạo ra miền nam Biển Ringil.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong khoảng thời gian Melkor sinh ra những con quái vật đủ hình dạng và chủng loại gây rắc rối cho [Endor](../E/Endor.md), vương quốc của ông ta trải rộng từ [Utumno](../U/Utumno.md) đến vùng đất phía nam Trung Địa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong khoảng thời gian Melkor sinh ra những con quái vật đủ hình dạng và chủng loại gây rắc rối cho [Endor](../E/Endor.md), vương quốc của ông trải rộng từ [Utumno](../U/Utumno.md) đến vùng đất phía nam Trung Địa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ### Kỷ Đệ Nhất {#First_Age}
 

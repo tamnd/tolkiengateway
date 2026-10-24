@@ -12,7 +12,7 @@ categories:
   - "Materials"
 ---
 
-**Đồng** là kim loại quen thuộc với các thợ rèn ở [Trung Địa](../M/Middle-earth.md). [Mahtan](../M/Mahtan.md), cha của [Nerdanel](../N/Nerdanel.md) (vợ của [Fëanor](../F/Fëanor.md)), đã đánh giá kim loại này cao hơn vàng. Ông ta đeo một dải đồng trên đầu và được biết đến với cái tên *[Urundil](../U/Urundil.md)* hay "người yêu đồng".<sup id="cite_ref-Note61_1-0" class="reference"><a href="#cite_note-Note61-1">[1]</a></sup> Có những đồ vật bằng đồng và đồng thau trong kho tích trữ của [Barrow-downs](../B/Barrow-downs.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Đồng** là kim loại quen thuộc với các thợ rèn ở [Trung Địa](../M/Middle-earth.md). [Mahtan](../M/Mahtan.md), cha của [Nerdanel](../N/Nerdanel.md) (vợ của [Fëanor](../F/Fëanor.md)), đã đánh giá kim loại này cao hơn vàng. Ông đeo một dải đồng trên đầu và được biết đến với cái tên *[Urundil](../U/Urundil.md)* hay "người yêu đồng".<sup id="cite_ref-Note61_1-0" class="reference"><a href="#cite_note-Note61-1">[1]</a></sup> Có những đồ vật bằng đồng và đồng thau trong kho tích trữ của [Barrow-downs](../B/Barrow-downs.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -28,7 +28,7 @@ Từ gốc [RUN](../R/RUN.md) có nghĩa là "đỏ, rực sáng" xuất hiện 
 
 <dl><dd>Đồng được đặt tên <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> <i>Paer</i> trong sách. Nó phổ biến ở <a href="../E/Eriador.md" title="Eriador">Eriador</a>, đặc biệt là <a href="../R/Rhudaur.md" title="Rhudaur">Rhudaur</a>. Trong <a href="../M/Moria.md" title="Moria">Moria</a> nó được sử dụng để lót các bồn rửa và đường dẫn nước, trong khi Con Người được sử dụng cho chậu, chảo, máng xối, mái nhà, hệ thống dây điện và thậm chí cả các bức tượng. Trong <a href="../T/Tharbad.md" title="Tharbad">Tharbad</a> đồng có nguồn gốc từ người lùn đã được sử dụng làm tiền đúc trước các cuộc chiến tranh với <a href="../A/Angmar.md" title="Angmar">Angmar</a>. Chỉ có <a href="../N/Noldor.md" title="Noldor">Noldor</a> được ghi nhận là có tính kim loại cao.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Quặng đồng có thể được khai thác bởi những người tìm kiếm tập sự ở <a href="../S/Swanfleet.md" title="Swanfleet">Swanfleet</a>, <a href="../B/Blue_Mountains.md" title="Blue Mountains">Ered Luin</a>, <a href="../T/The_Shire.md" title="The Shire">the Shire</a> và <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 

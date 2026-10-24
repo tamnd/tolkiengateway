@@ -59,7 +59,7 @@ Hãy dừng quay và tìm tôi?<sup id="cite_ref-hobbit_1-1" class="reference"><
 
 ## Lịch sử {#History}
 
-[Bilbo Baggins](../B/Bilbo_Baggins.md) đã hát bài thơ này để đánh lạc hướng [những con nhện](../S/Spiders.md) trong khi cố gắng cứu [Thorin](../T/Thorin.md) và [những người bạn đồng hành](../T/Thorin_and_Company.md) của ông ta trong [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-hobbit_1-2" class="reference"><a href="#cite_note-hobbit-1">[1]</a></sup>
+[Bilbo Baggins](../B/Bilbo_Baggins.md) đã hát bài thơ này để đánh lạc hướng [những con nhện](../S/Spiders.md) trong khi cố gắng cứu [Thorin](../T/Thorin.md) và [những người bạn đồng hành](../T/Thorin_and_Company.md) của ông trong [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-hobbit_1-2" class="reference"><a href="#cite_note-hobbit-1">[1]</a></sup>
 
 ## Nền {#Background}
 

@@ -59,9 +59,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong Cuộc chiến [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md), Aratan và anh trai [Ciryon](../C/Ciryon.md) đã không tham gia vào [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md). Isildur đã cử hai anh em này đến gặp người [Minas Ithil](../M/Minas_Ithil.md) để bảo vệ [Cirith Dúath](../C/Cirith_Dúath.md) và ngăn chặn khả năng đột phá của [Sauron](../S/Sauron.md) nếu ông ta thoát khỏi vòng vây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong Cuộc chiến [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md), Aratan và anh trai [Ciryon](../C/Ciryon.md) đã không tham gia vào [Cuộc vây hãm Barad-dûr](../S/Siege_of_Barad-dûr.md). Isildur đã cử hai anh em này đến gặp người [Minas Ithil](../M/Minas_Ithil.md) để bảo vệ [Cirith Dúath](../C/Cirith_Dúath.md) và ngăn chặn khả năng đột phá của [Sauron](../S/Sauron.md) nếu ông thoát khỏi vòng vây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md), Ciryon là người anh đầu tiên gục ngã; Aratan bị trọng thương khi cố gắng cứu ông ta. Sau khi Aratan bị thương, [Elendur](<../E/Elendur_(son_of_Isildur).md>) đã khuyên cha anh đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và trốn thoát.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md), Ciryon là người anh đầu tiên gục ngã; Aratan bị trọng thương khi cố gắng cứu ông. Sau khi Aratan bị thương, [Elendur](<../E/Elendur_(son_of_Isildur).md>) đã khuyên cha anh đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và trốn thoát.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -87,7 +87,7 @@ Trong các bản thảo đầu tiên, Aratan được đặt tên là "Eärnur".
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ba người con trai lớn của Isildur xuất hiện trong một đoạn hồi tưởng kéo dài trong <a href="../S/Siege_of_Barad-dûr.md" title="Siege of Barad-dûr">Cuộc vây hãm Barad-dûr</a> vào năm <a href="../S/Second_Age_3440.md" title="Second Age 3440">S.A. 3440</a>. Tuy nhiên, vì giấy phép của trò chơi không bao gồm các tác phẩm mà chúng được đặt tên nên chúng chỉ được gọi bằng bí danh thời chiến, nhằm che giấu mối quan hệ họ hàng của họ với Vua. Aratan sử dụng tên "Ornaher" làm bí danh của mình.</dd></dl>
 

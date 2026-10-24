@@ -80,7 +80,7 @@ Hai văn bản được đề cập là "<a class="extiw" href="http://en.wikipe
 
 <dl><dt>Summary</dt></dl>
 
-“Mảnh vỡ” kể phần đầu câu chuyện. Hnæf, một vị vua trẻ, nhận thấy quân của mình đang bị tấn công. Sáu mươi người đàn ông trong comitatus của ông ta bị mắc kẹt bên trong một hội trường. Một cuộc chiến xảy ra giữa sáu mươi người đàn ông và những kẻ tấn công, được mô tả là *eotenas*. Trận chiến kéo dài năm ngày và chỉ sau đó, người Đan Mạch đầu tiên mới chết.
+“Mảnh vỡ” kể phần đầu câu chuyện. Hnæf, một vị vua trẻ, nhận thấy quân của mình đang bị tấn công. Sáu mươi người đàn ông trong comitatus của ông bị mắc kẹt bên trong một hội trường. Một cuộc chiến xảy ra giữa sáu mươi người đàn ông và những kẻ tấn công, được mô tả là *eotenas*. Trận chiến kéo dài năm ngày và chỉ sau đó, người Đan Mạch đầu tiên mới chết.
 
 "Đoạn" là một đoạn văn trong *Beowulf* (dòng 1063-1159). Ở Heorot, một thi sĩ nói với Hrothgar và những vị khách của ông về những người Đan Mạch huy hoàng. Viễn cảnh nằm ở Hildeburh, em gái của Hnæf và là vợ của Finn. Cả Hnæf và con trai của Hildeburh cùng với Finn đều đã ngã xuống, cùng với hầu hết các hiệp sĩ của Finn. Hiện vẫn chưa rõ liệu Finn có tham gia vào cuộc chiến hay không. Tuyệt vọng, Finn cầu xin một món hời. Như Tolkien đã nêu, đây khó có thể là một món hời:
 
@@ -88,7 +88,7 @@ Hai văn bản được đề cập là "<a class="extiw" href="http://en.wikipe
 - Người Đan Mạch đang chiếm giữ cung điện hoàng gia của ông và ông không muốn đốt nó để đưa họ ra ngoài.
 - Finn chắc hẳn vừa cảm thấy tội lỗi vừa xấu hổ vì mối thù truyền kiếp của mình đã giết chết Hnæf, anh rể và cũng là khách của anh.
 
-Cuối cùng, Hengest bị buộc phải phá bỏ lời thề với Finn và giết ông ta. Họ mang Hildeburh và nhiều kho báu của ông về Đan Mạch. Tolkien coi việc phá bỏ lời thề này là nguyên nhân chính khiến Hengest “đuổi” sang Anh.
+Cuối cùng, Hengest bị buộc phải phá bỏ lời thề với Finn và giết ông. Họ mang Hildeburh và nhiều kho báu của ông về Đan Mạch. Tolkien coi việc phá bỏ lời thề này là nguyên nhân chính khiến Hengest “đuổi” sang Anh.
 
 <dl><dt>Mối quan hệ với truyền thuyết</dt></dl>
 

@@ -66,7 +66,7 @@ Pervinca là con thứ ba và là con gái út của [Thain](../T/Thain.md) [Pal
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Pervinca_Took.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/The_Lord_of_the_Rings_Online_-_Pervinca_Took.jpg/150px-The_Lord_of_the_Rings_Online_-_Pervinca_Took.jpg" decoding="async" loading="lazy" width="150" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b4/The_Lord_of_the_Rings_Online_-_Pervinca_Took.jpg/225px-The_Lord_of_the_Rings_Online_-_Pervinca_Took.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b4/The_Lord_of_the_Rings_Online_-_Pervinca_Took.jpg/300px-The_Lord_of_the_Rings_Online_-_Pervinca_Took.jpg 2x" data-file-width="460" data-file-height="980"/></a><figcaption>Pervinca Took in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Pervinca được tìm thấy tại <a href="../G/Great_Smials.md" title="Great Smials">Great Smials</a> ở <a href="../T/Tuckborough.md" title="Tuckborough">Tuckborough</a>. Cô cảm thấy mệt mỏi với những bài học về lịch sử gia đình của người họ hàng <a href="../A/Adelard_Took.md" title="Adelard Took">Adelard Took</a> và giúp đỡ anh em họ Isembard và Imbert giở trò đồi bại với ông.</dd></dl>
 

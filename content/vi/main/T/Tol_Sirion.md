@@ -52,7 +52,7 @@ Việc mất Tol Sirion đã tạo điều kiện cho [Orc](../O/Orcs.md) xâm c
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Tol_Sirion.jpg.md" title="&#39;Tol Sirion&#39; by J.R.R. Tolkien[4]."><img alt="&#39;Tol Sirion&#39; by J.R.R. Tolkien[4]." src="https://tolkiengateway.net/w/images/thumb/5/5e/J.R.R._Tolkien_-_Tol_Sirion.jpg/92px-J.R.R._Tolkien_-_Tol_Sirion.jpg" decoding="async" loading="lazy" width="92" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5e/J.R.R._Tolkien_-_Tol_Sirion.jpg/139px-J.R.R._Tolkien_-_Tol_Sirion.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5e/J.R.R._Tolkien_-_Tol_Sirion.jpg/185px-J.R.R._Tolkien_-_Tol_Sirion.jpg 2x" data-file-width="600" data-file-height="779"/></a></span></div>
 			<div class="gallerytext">
-<p>&#39;Tol Sirion&#39; by  J.R.R. Tolkien<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>.
+<p>&#39;Tol Sirion&#39; by J.R.R. Tolkien<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>.
 </p>
 			</div>
 		</li>

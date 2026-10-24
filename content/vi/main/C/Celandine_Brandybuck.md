@@ -60,7 +60,7 @@ Celandine là hậu duệ của [Bậc thầy của Sảnh Buckland](../M/Master
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đầu trò chơi, Celandine và <a href="../M/Mundo_Sackville-Baggins.md" title="Mundo Sackville-Baggins">Mundo Sackville-Baggins</a> bị bọn cướp <a href="../B/Blackwolds.md" title="Blackwolds">Blackwold</a> bắt giữ. Sau đó, họ được <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> giải cứu và đưa đến làng <a href="../A/Archet.md" title="Archet">Archet</a> nơi ông để họ lại với người chơi. Sau cuộc tấn công của Archet bởi Blackwolds, cô trở về nhà ở <a href="../N/Newbury.md" title="Newbury">Newbury</a> ở <a href="../B/Buckland.md" title="Buckland">Buckland</a>.</dd></dl>
 

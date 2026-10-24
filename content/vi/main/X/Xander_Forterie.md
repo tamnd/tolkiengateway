@@ -22,7 +22,7 @@ sort_keys:
 
 **Xander Forterie** là một nghệ sĩ trang điểm và nhà điêu khắc người Hà Lan, người điều hành studio Unreal cùng với đối tác kinh doanh Rogier Samuels. Cả hai đều làm việc cho [Weta Workshop](../W/Weta_Workshop.md) cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
-Forterie đã nghiên cứu các bộ phận giả của sinh vật trong cả ba bộ phim và thực hiện một số tượng nhỏ [Sideshow Collectibles](../S/Sideshow_Collectibles.md). Ông ta cũng xuất hiện trong [đoạn mở đầu](../P/Prologue%253A_One_Ring_to_Rule_Them_All....md) của *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* với tư cách là một trong bảy lãnh chúa Người Lùn.
+Forterie đã nghiên cứu các bộ phận giả của sinh vật trong cả ba bộ phim và thực hiện một số tượng nhỏ [Sideshow Collectibles](../S/Sideshow_Collectibles.md). Ông cũng xuất hiện trong [đoạn mở đầu](../P/Prologue%253A_One_Ring_to_Rule_Them_All....md) của *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* với tư cách là một trong bảy lãnh chúa Người Lùn.
 
 ## Liên kết ngoài {#External_links}
 

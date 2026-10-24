@@ -81,4 +81,4 @@ Sự kiện xảy ra vào ngày 17 tháng 3.
         - [Vua Brand](../B/Brand.md) và [Vua Dain Ironfoot](../D/Dáin_Ironfoot.md) chết.
         - Nhiều [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) và [Người Dale](../M/Men_of_Dale.md) chạy trốn vào [Erebor](../L/Lonely_Mountain.md) và bị bao vây.
     - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đi về phía bắc dọc theo [Morgai](../M/Morgai.md).
-    - [Shagrat](../S/Shagrat.md) mang áo choàng, áo giáp và thanh kiếm của [Frodo](../F/Frodo_Baggins.md) đến [Barad-dûr](../B/Barad-dûr.md), nơi ông ta bị giết.
+    - [Shagrat](../S/Shagrat.md) mang áo choàng, áo giáp và thanh kiếm của [Frodo](../F/Frodo_Baggins.md) đến [Barad-dûr](../B/Barad-dûr.md), nơi ông bị giết.

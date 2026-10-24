@@ -354,15 +354,15 @@ Trong ngôn ngữ [Adûnaic](../A/Adûnaic.md) được mô tả trong *[The Not
 
 <dl><dd><a href="../B/Bob_Papenbrook.md" title="Bob Papenbrook">Bob Papenbrook</a> lồng tiếng cho Gimli, Đơn vị Anh hùng của phe Người Tự do. Lần xuất hiện đầu tiên của anh là gần Ngọn Núi Cô Đơn, nơi anh và những người lùn khác chiến đấu với lũ Orc và sau đó kích hoạt một máy phóng khổng lồ.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Gimil là Đơn vị Anh hùng của phe Rohan trong các cuộc giao tranh, mặc dù ông đồng hành cùng Hiệp hội trong chế độ cốt truyện.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Gimli hiện là Anh hùng của phe Người Lùn.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gimli lần đầu tiên gặp các nhân vật Người Lùn trong phần giới thiệu diễn ra ở <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a>, ngay trước Nhiệm vụ tìm kiếm Erebor. Sau đó, tất cả các nhân vật gặp ông ở Rivendell nơi Gimli đồng hành cùng họ trong một nhiệm vụ tới <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>. Người chơi bắt kịp Gimli tại một số điểm trong cuộc hành trình của Hiệp hội và cũng chiến đấu bên cạnh Gimli trong <a href="Glittering_Caves.md" title="Glittering Caves">Hang động lấp lánh</a> trong <a class="mw-redirect" href="../B/Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">Trận chiến Helm&#39;s Deep</a>, <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a> và ở miền Bắc <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a> trong cuộc hành quân của <a href="../A/Army_of_the_West.md" title="Army of the West">Quân đội Phương Tây</a> về phía <a href="../B/Black_Gate.md" title="Black Gate">Cổng Đen</a>. Sau sự sụp đổ của <a href="../S/Sauron.md" title="Sauron">Sauron</a>, Gimli và Legolas tham gia cùng đội quân <a href="Gondor.md" title="Gondor">Gondor</a> khám phá và bảo vệ Vùng đất Bóng Tối. Ở đó, Gimli tìm thấy một tộc người lùn thuộc phương Đông đã bị Chúa tể Bóng tối sử dụng làm nô lệ lành nghề trong nhiều thế kỷ. Ông dẫn những người sống sót đến <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a> và đảm bảo Vua <a href="../T/Thorin_Stonehelm.md" title="Thorin Stonehelm">Thorin Stonehelm</a> cho phép họ cư trú trong sảnh của ông, trước khi quay trở lại phía nam <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> để dự đám cưới của Aragorn và <a href="../A/Arwen.md" title="Arwen">Arwen</a>.</dd></dl>
 

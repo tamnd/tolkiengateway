@@ -18,7 +18,7 @@ sort_keys:
   "Third Age characters": "Ghan"
 ---
 
-**Ghân** là cha của thủ lĩnh nổi tiếng của [Kỷ Đệ Tam](../T/Third_Age.md) [Drúedain](../D/Drúedain.md), [Ghân-buri-Ghân](Ghân-buri-Ghân.md), rõ ràng là bắt nguồn từ tên của chính ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ghân** là cha của thủ lĩnh nổi tiếng của [Kỷ Đệ Tam](../T/Third_Age.md) [Drúedain](../D/Drúedain.md), [Ghân-buri-Ghân](Ghân-buri-Ghân.md), rõ ràng là bắt nguồn từ tên của chính ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

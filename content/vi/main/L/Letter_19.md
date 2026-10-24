@@ -38,7 +38,7 @@ Bức thư này đã được gửi tới [Stanley Unwin](../S/Stanley_Unwin.md)
 
 ## Tóm tắt {#Summary}
 
-Bất chấp đánh giá trái chiều rõ ràng này, Tolkien vẫn hài lòng vì *Silmarillion* không bị từ chối thẳng tay, hy vọng rằng một ngày nào đó ông có thể xuất bản "điều vô lý riêng tư và được yêu thích" của mình. Ông ta ít hài lòng hơn với sự so sánh "[Celtic](../C/Celtic.md)", bảo vệ những cái tên được phát minh của mình là "mạch lạc và nhất quán và được tạo ra dựa trên hai [liên quan](../T/The_Lhammas.md) [ngôn ngữ](../Q/Qenya.md) [công thức](../N/Noldorin.md), để chúng đạt được một thực tế mà những nhà phát minh tên khác không hoàn toàn đạt được theo cảm nhận của tôi". Tổng quát hơn Tolkien đã bác bỏ quan điểm cho rằng thần thoại của ông theo cách nào đó là 'Celtic':
+Bất chấp đánh giá trái chiều rõ ràng này, Tolkien vẫn hài lòng vì *Silmarillion* không bị từ chối thẳng tay, hy vọng rằng một ngày nào đó ông có thể xuất bản "điều vô lý riêng tư và được yêu thích" của mình. Ông ít hài lòng hơn với sự so sánh "[Celtic](../C/Celtic.md)", bảo vệ những cái tên được phát minh của mình là "mạch lạc và nhất quán và được tạo ra dựa trên hai [liên quan](../T/The_Lhammas.md) [ngôn ngữ](../Q/Qenya.md) [công thức](../N/Noldorin.md), để chúng đạt được một thực tế mà những nhà phát minh tên khác không hoàn toàn đạt được theo cảm nhận của tôi". Tổng quát hơn Tolkien đã bác bỏ quan điểm cho rằng thần thoại của ông theo cách nào đó là 'Celtic':
 
 <blockquote class="tg-quote noexcerpt">
 <p>Tôi biết Celtic nhiều thứ (nhiều thứ bằng ngôn ngữ gốc của họ là tiếng Ireland và tiếng Wales), và cảm thấy có một sự chán ghét nhất định đối với chúng: phần lớn là vì sự vô lý cơ bản của chúng. Chúng có màu sắc tươi sáng nhưng lại giống như một cửa sổ kính màu vỡ được lắp ráp lại một cách thiếu thiết kế. Trên thực tế, họ 'điên' như độc giả của bạn nói - nhưng tôi không tin là mình như vậy.
@@ -51,7 +51,7 @@ Tuy nhiên Tolkien đã nhận ra rằng *Silmarillion* ở dạng hiện tại 
 
 <dl><dt>Trong ấn bản mở rộng</dt></dl>
 
-Hai đoạn gần đầu đã được khôi phục. Tolkien lưu ý rằng Arthur Ransome đã viết thư cho ông ta để hỏi thăm và chỉ có *The Silmarillion* mới có thể trả lời ông ta. Ông thảo luận về một số thư từ khác, và đặc biệt, cảm thấy "bị nghiền nát" bởi những lời chỉ trích của Richard Hughes liên quan đến các hình minh họa của *The Hobbit*.
+Hai đoạn gần đầu đã được khôi phục. Tolkien lưu ý rằng Arthur Ransome đã viết thư cho ông để hỏi thăm và chỉ có *The Silmarillion* mới có thể trả lời ông. Ông thảo luận về một số thư từ khác, và đặc biệt, cảm thấy "bị nghiền nát" bởi những lời chỉ trích của Richard Hughes liên quan đến các hình minh họa của *The Hobbit*.
 
 <br>
 

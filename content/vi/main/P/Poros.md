@@ -59,7 +59,7 @@ Tuy nhiên, trong *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-eart
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mặc dù món chính nếu Poros chưa có trong trò chơi, nhưng dòng chảy vào <a href="../A/Anduin.md" title="Anduin">Anduin</a> của nó có thể được quan sát gần <a href="Pelargir.md" title="Pelargir">Pelargir</a>. Nó được người dân <a href="../N/Near_Harad.md" title="Near Harad">Near Harad</a> gọi là "Kaskûr".</dd></dl>
 

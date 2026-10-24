@@ -34,7 +34,7 @@ Cái tên này không bao giờ được đánh bóng, nhưng nó có thể có 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong "[Bản đồ Beleriand và các vùng đất phía Bắc](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md)" ở *[The Silmarillion](../T/The_Silmarillion.md)* hòn đảo được hiển thị nhưng không có tên. Trong *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) nói về [Bản đồ *Silmarillion* thứ hai](../T/The_Second_'Silmarillion'_Map.md) rằng qua nhiều năm, nó đã bị bao phủ bởi những thay đổi và bổ sung về tên và tính năng. Trên tờ 1 của bản đồ này, hòn đảo mang tên "Ened" - liên quan đến cái tên Christopher nói rằng ông ta không thể phát ra ánh sáng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong "[Bản đồ Beleriand và các vùng đất phía Bắc](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md)" ở *[The Silmarillion](../T/The_Silmarillion.md)* hòn đảo được hiển thị nhưng không có tên. Trong *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) nói về [Bản đồ *Silmarillion* thứ hai](../T/The_Second_'Silmarillion'_Map.md) rằng qua nhiều năm, nó đã bị bao phủ bởi những thay đổi và bổ sung về tên và tính năng. Trên tờ 1 của bản đồ này, hòn đảo mang tên "Ened" - liên quan đến cái tên Christopher nói rằng ông không thể phát ra ánh sáng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

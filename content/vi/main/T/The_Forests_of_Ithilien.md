@@ -45,7 +45,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Gollum](../G/Gollum.md) liều lĩnh trượt trên dòng suối cạn, đuổi theo một con cá. [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) theo sát phía sau. Sam hét với Gollum, nói *"Này Stinker, đừng đi quá xa!"* Frodo hỏi ông ta tại sao ông ta luôn gọi tên Gollum và đối xử không tốt với ông ta. Đáp lại, Sam nói với Frodo rằng Gollum là kẻ nói dối và chỉ muốn lấy [Chiếc nhẫn](The_One_Ring.md). Frodo cân nhắc và nói với Sam rằng muốn giúp đỡ Gollum; *"Tôi phải tin rằng ông có thể quay lại"*, Frodo nói về Gollum. Sam không tin điều đó là có thể, và Frodo gắt gỏng với ông ta, nói rằng ông ta không biết gì về tình huống này. Một lúc sau, cơn giận của Frodo tan biến và anh xin lỗi Sam. Hơi ngạc nhiên trước điều này, Sam nói với anh rằng sự tức giận của Frodo là do ảnh hưởng của Chiếc nhẫn và anh cần phải chiến đấu với nó. Trong cơn tức giận mới, Frodo quay lại.
+[Gollum](../G/Gollum.md) liều lĩnh trượt trên dòng suối cạn, đuổi theo một con cá. [Frodo](../F/Frodo.md) và [Sam](../S/Sam.md) theo sát phía sau. Sam hét với Gollum, nói *"Này Stinker, đừng đi quá xa!"* Frodo hỏi ông tại sao ông luôn gọi tên Gollum và đối xử không tốt với ông. Đáp lại, Sam nói với Frodo rằng Gollum là kẻ nói dối và chỉ muốn lấy [Chiếc nhẫn](The_One_Ring.md). Frodo cân nhắc và nói với Sam rằng muốn giúp đỡ Gollum; *"Tôi phải tin rằng ông có thể quay lại"*, Frodo nói về Gollum. Sam không tin điều đó là có thể, và Frodo gắt gỏng với ông, nói rằng ông không biết gì về tình huống này. Một lúc sau, cơn giận của Frodo tan biến và anh xin lỗi Sam. Hơi ngạc nhiên trước điều này, Sam nói với anh rằng sự tức giận của Frodo là do ảnh hưởng của Chiếc nhẫn và anh cần phải chiến đấu với nó. Trong cơn tức giận mới, Frodo quay lại.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Tôi biết mình phải làm gì Sam. Chiếc Nhẫn đã được giao phó cho tôi. Đó là nhiệm vụ của tôi. Của tôi! Của riêng tôi!
@@ -53,4 +53,4 @@ infobox:
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a> to <a class="mw-redirect" href="../S/Sam.md" title="Sam">Sam</a></cite></p>
 </blockquote>
 
-Sam đứng sững sờ khi Frodo lao qua ông ta. Ông gọi cho Frodo và nói *"Bạn không biết mình nghe giống ai à?"*
+Sam đứng sững sờ khi Frodo lao qua ông. Ông gọi cho Frodo và nói *"Bạn không biết mình nghe giống ai à?"*

@@ -61,7 +61,7 @@ Mặc dù có tiếng Anh cổ nhưng tên này không được hiểu là [Roha
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/65/The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg/300px-The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/65/The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg/450px-The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/65/The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg/600px-The_Lord_of_the_Rings_Online_-_Carach_Angren.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Isenmouthe in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Isenmouthe đã bị đắm trong vụ phun trào của <a href="../M/Mount_Doom.md" title="Mount Doom">Núi Diệt Vong</a> và sự phá hủy của Nhẫn Chúa.</dd></dl>
 

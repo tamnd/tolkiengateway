@@ -61,4 +61,4 @@ Sức mạnh của cuộc tấn công ban đầu này mạnh đến mức họ �
 
 Để hỗ trợ anh trai mình, Turgon đã đưa lực lượng của mình vào cuộc chiến, và Fingon, Húrin, Huor và Turgon gặp nhau giữa trận chiến sau một thời gian dài chia tay. Nhưng với lực lượng của Maedhros được định tuyến, nhiều [Orc](../O/Orcs.md) do [Gothmog](<../G/Gothmog_(balrog).md>) chỉ huy đã tấn công Tiên tộc và những người từ phía đông, và họ bị áp đảo.
 
-Fingon thất thủ trước Gothmog, nhưng Turgon, theo lời khuyên của Huor, đã rút lui, được bảo vệ bởi tàn quân của Nhà Hador. Tại [Đầm lầy Serech](../F/Fen_of_Serech.md), Huor thất thủ, nhưng Húrin bị địch bắt sống và bị thiệt hại nặng nề; và ông ta bị kéo đến Angband.
+Fingon thất thủ trước Gothmog, nhưng Turgon, theo lời khuyên của Huor, đã rút lui, được bảo vệ bởi tàn quân của Nhà Hador. Tại [Đầm lầy Serech](../F/Fen_of_Serech.md), Huor thất thủ, nhưng Húrin bị địch bắt sống và bị thiệt hại nặng nề; và ông bị kéo đến Angband.

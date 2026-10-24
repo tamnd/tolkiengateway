@@ -70,7 +70,7 @@ Căn phòng rộng, vuông vức và chỉ được chiếu sáng lờ mờ.<sup
 <li>Chỉ có một cánh cửa thích hợp được hiển thị rõ ràng dẫn vào căn phòng, thay vì hai cánh cửa được mô tả trong sách. Cánh cửa này trong phim cũng được làm bằng gỗ chứ không phải bằng đá. Tuy nhiên, có một cánh cửa bị đập vỡ ở phía sau căn phòng, với cửa sổ chiếu sáng ngôi mộ của Balin phía trên, khiến Hội đồng hành phải chạy ra ngoài.</li>
 <li>Một cái giếng cũng được đưa vào bố cục, ngay bên dưới trục ánh sáng. Cái giếng này được tìm thấy ở <a class="new" href="https://tolkiengateway.net/w/index.php?title=Well-chamber&amp;action=edit&amp;redlink=1" title="Well-chamber (page does not exist)">buồng giếng</a><sup id="cite_ref-chronology_4-0" class="reference"><a href="#cite_note-chronology-4">[4]</a></sup> ở ngã tư trong cuốn sách, nhưng đã được cấy vào đây để phục vụ mục đích quan trọng hơn.</li></ul></dd></dl>
 
-<br> <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<br> <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Phòng Mazarbul là vị trí cuối cùng trong trận chiến giành <a href="../T/Twenty-first_Hall.md" title="Twenty-first Hall">Đại sảnh thứ Hai mươi mốt</a>, một trong ba trận chiến mà Đội quân đồn trú sắt chiến đấu Orc để đánh đuổi chúng ra khỏi <a href="../M/Moria.md" title="Moria">Khazad-dûm</a> trong <a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Mỏ Moria</a>, Quyển V: "Drums in the Deep".</dd></dl>
 

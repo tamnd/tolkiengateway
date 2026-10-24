@@ -51,6 +51,6 @@ Một số chàng trai và cô gái ở Ulgarstat, một ngôi làng ở bìa r�
 
 Một thương gia ở thị trấn Lake đã bị mất một đoàn lữ hành Troll dọc theo Con Người-i-Naugrim. Bạn sẽ đối mặt với Tereg đáng sợ để lấy lại hàng hóa của Master Eolsen và khám phá số phận của những người làm thuê của hắn trong Trouble With Troll chứ?
 
-Một chiến binh Beorning đã biết về việc dâng phần mười cho Necromancer từ Orc cuối cùng mà ông ta đã giết khi đang du hành Mirkwood. Bạn sẽ đi cùng Grimbold vào rừng để đánh cắp kho báu trước khi nó đi vào thành trì của Necromancer trong Chuyến tàu thập phân chứ?
+Một chiến binh Beorning đã biết về việc dâng phần mười cho Necromancer từ Orc cuối cùng mà ông đã giết khi đang du hành Mirkwood. Bạn sẽ đi cùng Grimbold vào rừng để đánh cắp kho báu trước khi nó đi vào thành trì của Necromancer trong Chuyến tàu thập phân chứ?
 
 Chiến đấu với lũ Nhện khổng lồ, Troll, Orc của Fhahoz-Blogrum khi bạn tấn công Cư dân của Rừng Đen trong ba cuộc phiêu lưu sắp kết thúc này.

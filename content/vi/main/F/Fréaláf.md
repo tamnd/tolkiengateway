@@ -109,7 +109,7 @@ Trong lễ đăng quang của ông, [Pháp sư](../W/Wizard.md) [Saruman](../S/S
 		</li>
 </ul>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một tấm thảm mô tả Fréaláf giết chóc Wulf được tìm thấy trong <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a> và có thể mua được để sử dụng trong nhà của người chơi.</dd></dl>
 

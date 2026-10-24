@@ -25,7 +25,7 @@ Sau [Kỷ Đệ Nhị](../S/Second_Age.md), Cirth đã bị [Tengwar](../T/Tengw
 
 [Thráin I](../T/Thráin_I.md) đến [Erebor](../L/Lonely_Mountain.md) và thành lập vương quốc người lùn của mình. Ở đó, [Angerthas Moria](Angerthas_Moria.md) đã được sửa đổi thêm và một số mới đã được thêm vào, nhưng một số lại được hoàn nguyên về cách sử dụng Elvish, do đó tạo ra biến thể Angerthas Erebor. Chế độ này đã được sử dụng trong Westron bởi Người Lùn.
 
-Khi [Balin](../B/Balin.md) cố gắng tái chiếm Moria, những người theo dõi ông ta đã sử dụng tập lệnh này. Dòng chữ phía dưới của [Balin Lăng mộ](../B/Balin's_Tomb.md) được viết bằng Westron, cũng như [Sách Mazarbul](../B/Book_of_Mazarbul.md).
+Khi [Balin](../B/Balin.md) cố gắng tái chiếm Moria, những người theo dõi ông đã sử dụng tập lệnh này. Dòng chữ phía dưới của [Balin Lăng mộ](../B/Balin's_Tomb.md) được viết bằng Westron, cũng như [Sách Mazarbul](../B/Book_of_Mazarbul.md).
 
 ## Đặc điểm {#Characteristics}
 

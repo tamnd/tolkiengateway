@@ -48,7 +48,7 @@ Vào [18 tháng 3](../_/18_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Causeway là con đường ngắn dẫn từ "Cổng Mặt Trời" của <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> đến <a href="Causeway_Forts.md" title="Causeway Forts">Causeway Pháo đài</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> Nó là một phần của <a href="../G/Great_West_Road.md" title="Great West Road">Great West Road</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></dd></dl>
 

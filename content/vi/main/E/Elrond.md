@@ -420,7 +420,7 @@ Lưu ý rằng trong phần mô tả này, ông không được xác định là
 
 <dl><dd>Nói cách khác, phía bắc Cuộc chiến Nhẫn, Rivendell là căn cứ hoạt động chính của Glóin và Glorfindel. Như vậy, Elrond là nguồn của các nhiệm vụ và lời khuyên, đồng thời đóng vai trò là người kể chuyện trong suốt trò chơi (Hugo Weaving đảm nhận vai trò này). Elrond là nhân vật có thể điều khiển được trong cuộc tấn công vào <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Elrond là một nhân vật không thể chơi được và có thể tìm thấy trong thư viện của Ngôi nhà giản dị cuối cùng ở Rivendell. Trong Đoạn mở đầu Tiên lấy bối cảnh hàng trăm năm trước Cuộc chiến Nhẫn, ông tham gia vào một trận chiến tại nơi ẩn náu của Edhellion, ở phía bắc <a class="mw-redirect" href="Ered_Luin.md" title="Ered Luin">Ered Luin</a>. Elrond tham gia rất nhiều vào cốt truyện gốc của trò chơi và các nhân vật thường xuyên được yêu cầu quay trở lại với ông sau khi phát hiện ra những dấu hiệu rắc rối của Kẻ Thù hoặc đạt được những chiến thắng đáng chú ý.</dd></dl>
 

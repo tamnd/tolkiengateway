@@ -138,7 +138,7 @@ Tolkien từng đề cập rằng sự tồn tại của những dấu tích ng�
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Buckland.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ad/The_Lord_of_the_Rings_Online_-_Buckland.jpg/250px-The_Lord_of_the_Rings_Online_-_Buckland.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/The_Lord_of_the_Rings_Online_-_Buckland.jpg/375px-The_Lord_of_the_Rings_Online_-_Buckland.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ad/The_Lord_of_the_Rings_Online_-_Buckland.jpg/500px-The_Lord_of_the_Rings_Online_-_Buckland.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>Buckland in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mặc dù toàn bộ phần Buckland được xác định bởi đường viền của <a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a> đều có trong trò chơi, nhưng phần phía nam đã được rào chắn và không thể tiếp cận được.</dd></dl>
 

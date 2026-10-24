@@ -51,7 +51,7 @@ Phần cực nam của Con đường không rõ ràng,<sup id="cite_ref-General_
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Con đường có thể đi từ <a href="../C/Cross-roads.md" title="Cross-roads">Ngã Tư</a> đến biên giới <a href="../S/South_Gondor.md" title="South Gondor">South Gondor</a>. Ở đó, con đường bị chặn bởi một trại chiến tranh <a href="Haradrim.md" title="Haradrim">haradrim</a> chặn đường đi, vì Harondor không có mặt trong trò chơi.</dd></dl>
 

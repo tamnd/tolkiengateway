@@ -58,7 +58,7 @@ Pearl là con cả của [Thain](../T/Thain.md) [Paladin Took II](Paladin_Took_I
 
 Ở [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md) bà là khách ở [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-Took_1-1" class="reference"><a href="#cite_note-Took-1">[1]</a></sup>
 
-Một buổi sáng ở [S.R.](../S/Shire_Reckoning.md) [1402](../T/Third_Age_3002.md), người hầu của Lalia hơi bất cẩn trong phong tục chăm sóc người già Hobbit, và bà mẫu hệ đã bay qua bậc thang dẫn đến cái chết của cô. Có tin đồn rộng rãi rằng Pearl chính là người phục vụ được đề cập. Để thể hiện sự không hài lòng chính thức, Pearl đã bị loại khỏi buổi lễ gia nhập của [Ferumbras](../F/Ferumbras_Took_III.md), người đã chờ đợi để trở thành người đứng đầu gia tộc từ khá lâu (ông ta đã Thain kể từ cái chết của cha mình). Tuy nhiên, sau đó người ta phát hiện cô đeo một chiếc vòng cổ ngọc trai được cho là vật gia truyền của gia đình Took.<sup id="cite_ref-L214_2-1" class="reference"><a href="#cite_note-L214-2">[2]</a></sup>
+Một buổi sáng ở [S.R.](../S/Shire_Reckoning.md) [1402](../T/Third_Age_3002.md), người hầu của Lalia hơi bất cẩn trong phong tục chăm sóc người già Hobbit, và bà mẫu hệ đã bay qua bậc thang dẫn đến cái chết của cô. Có tin đồn rộng rãi rằng Pearl chính là người phục vụ được đề cập. Để thể hiện sự không hài lòng chính thức, Pearl đã bị loại khỏi buổi lễ gia nhập của [Ferumbras](../F/Ferumbras_Took_III.md), người đã chờ đợi để trở thành người đứng đầu gia tộc từ khá lâu (ông đã Thain kể từ cái chết của cha mình). Tuy nhiên, sau đó người ta phát hiện cô đeo một chiếc vòng cổ ngọc trai được cho là vật gia truyền của gia đình Took.<sup id="cite_ref-L214_2-1" class="reference"><a href="#cite_note-L214-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

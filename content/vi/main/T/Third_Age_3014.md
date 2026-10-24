@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Théoden](Théoden.md) bắt đầu đổ bệnh, và cố vấn của ông ta, [Gríma Wormtongue](../G/Gríma.md), bắt đầu giành được quyền lực đối với Vua.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Théoden](Théoden.md) bắt đầu đổ bệnh, và cố vấn của ông, [Gríma Wormtongue](../G/Gríma.md), bắt đầu giành được quyền lực đối với Vua.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

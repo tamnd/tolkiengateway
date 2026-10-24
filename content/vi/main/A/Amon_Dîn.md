@@ -79,7 +79,7 @@ Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/T
 
 <dl><dd>Đèn hiệu trên Amon Dîn được hiển thị là đèn hiệu thứ hai được thắp sáng sau đèn hiệu ngay phía trên thành phố Minas Tirith.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ngọn hải đăng trên Amon Dîn nằm ở phía đông bắc của <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Rừng Drúadan</a>. Đến ngày 13 tháng 3, lũ Orc đã thiết lập một cuộc phong tỏa trên con đường bên dưới Amon Dîn, chặn đường đi của những người cưỡi <a href="../T/Théoden.md" title="Théoden">Théoden</a>. Họ tuần tra khu vực xung quanh và đã tắt đèn hiệu. Mặc dù các Kỵ sĩ của Rohan đã lên đường, người chơi vẫn được yêu cầu thắp lại đèn hiệu.</dd></dl>
 

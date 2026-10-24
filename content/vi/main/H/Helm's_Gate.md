@@ -35,7 +35,7 @@ Vào ngày [3](../_/3_March.md)-[4 tháng 3](../_/4_March.md) [T.A.](../T/Third_
 
 ## Từ nguyên {#Etymology}
 
-Yếu tố *Helm* trong tên *Helm's Gate* đề cập đến tên của một người đàn ông tên là Helm.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Hẻm núi đằng sau Hornburg được gọi là Helm's Deep sau khi Vua [Helm](Helm.md) của Rohan tìm nơi ẩn náu ở Hornburg khi vương quốc của ông ta bị xâm chiếm bởi kẻ chiếm đoạt [Wulf](../W/Wulf.md) và Dunlending.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Kết quả là như vậy có thể phần tử *Helm* trong *Helm's Gate* cũng tham chiếu đến Vua Helm của Rohan.
+Yếu tố *Helm* trong tên *Helm's Gate* đề cập đến tên của một người đàn ông tên là Helm.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Hẻm núi đằng sau Hornburg được gọi là Helm's Deep sau khi Vua [Helm](Helm.md) của Rohan tìm nơi ẩn náu ở Hornburg khi vương quốc của ông bị xâm chiếm bởi kẻ chiếm đoạt [Wulf](../W/Wulf.md) và Dunlending.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Kết quả là như vậy có thể phần tử *Helm* trong *Helm's Gate* cũng tham chiếu đến Vua Helm của Rohan.
 
 <span></span>
 

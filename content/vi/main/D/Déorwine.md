@@ -53,7 +53,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Déorwine thay thế Háma ở vị trí hậu vệ khi Háma bị giết ở [Helm's Deep](../H/Helm's_Deep.md). Ông ta và sáu người dưới quyền chỉ huy của ông ta (<a class="mw-redirect mw-disambig" href="../H/Harding.md" title="Harding">Harding</a>, [Guthláf](../G/Guthláf.md), [Herefara](../H/Herefara.md), [Herubrand](../H/Herubrand.md), <a class="mw-redirect mw-disambig" href="../H/Horn.md" title="Horn">Horn</a> và [Fastred](<../F/Fastred_(rider_of_Rohan).md>)) đã bị giết tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Déorwine thay thế Háma ở vị trí hậu vệ khi Háma bị giết ở [Helm's Deep](../H/Helm's_Deep.md). Ông và sáu người dưới quyền chỉ huy của ông (<a class="mw-redirect mw-disambig" href="../H/Harding.md" title="Harding">Harding</a>, [Guthláf](../G/Guthláf.md), [Herefara](../H/Herefara.md), [Herubrand](../H/Herubrand.md), <a class="mw-redirect mw-disambig" href="../H/Horn.md" title="Horn">Horn</a> và [Fastred](<../F/Fastred_(rider_of_Rohan).md>)) đã bị giết tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -73,11 +73,11 @@ Déorwine thay thế Háma ở vị trí hậu vệ khi Háma bị giết ở [H
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd></dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Các tay đua của Rohan</a></i>:</b>
 
 <dl><dd>Déorwine is a member of <a href="../T/Théoden.md" title="Théoden">Théoden</a>&#39;s royal guard and is first found in <a href="../E/Edoras.md" title="Edoras">Edoras</a> and later in <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>. The player next meets him in the <a href="Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a> on their way to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. During the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> Déorwine is killed when the <a class="mw-redirect" href="../W/Witch-King~20091.md" title="Witch-King">Witch-King</a> of <a href="../A/Angmar.md" title="Angmar">Angmar</a> attacks King Théoden.</dd></dl>
 

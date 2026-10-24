@@ -28,7 +28,7 @@ langlinks:
     url: "https://kontu.wiki/Neithan"
 ---
 
-<i><b>neithan</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "kẻ bị tước đoạt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi [Túrin](../T/Túrin.md) sống giữa [Gaurwaith](../G/Gaurwaith.md), ông ta đã sử dụng nó cùng với bí danh "Kẻ sai trái".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>neithan</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "kẻ bị tước đoạt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi [Túrin](../T/Túrin.md) sống giữa [Gaurwaith](../G/Gaurwaith.md), ông đã sử dụng nó cùng với bí danh "Kẻ sai trái".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

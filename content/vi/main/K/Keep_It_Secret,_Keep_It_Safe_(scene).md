@@ -37,7 +37,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Sau khi [Bilbo](../B/Bilbo_Baggins.md) rời đi, Gandalf, quan tâm hơn nữa, điều tra nhanh chiếc Nhẫn trước khi thoáng nhìn thấy hình ảnh [con mắt rực lửa](../S/Sauron.md) và lùi lại vì sợ hãi. [Frodo](../F/Frodo.md) đi vào [Bag End](../B/Bag_End.md) để tìm Bilbo, chỉ thấy [Gandalf](../G/Gandalf.md) ngồi trước lò sưởi. Gandalf xác nhận rằng Bilbo thực sự đã rời khỏi [The Shire](../T/The_Shire.md), đồng thời ông ta cũng thông báo Frodo rằng ông ta hiện là chủ nhân của Bag End đồng thời là người thừa kế [chiếc nhẫn](../O/One_Ring.md) ma thuật của Bilbo. Tuy nhiên, Gandalf cảnh báo ông ta không nên sử dụng nó mà thay vào đó hãy giấu Chiếc nhẫn đi. Gandalf sau đó quay người rời đi, thông báo với Frodo rằng ông ta phải xem xét vấn đề kỹ hơn. Sau khi cầu xin ông ta đừng sử dụng Chiếc nhẫn một lần nữa, Gandalf biến mất trong màn đêm.
+Sau khi [Bilbo](../B/Bilbo_Baggins.md) rời đi, Gandalf, quan tâm hơn nữa, điều tra nhanh chiếc Nhẫn trước khi thoáng nhìn thấy hình ảnh [con mắt rực lửa](../S/Sauron.md) và lùi lại vì sợ hãi. [Frodo](../F/Frodo.md) đi vào [Bag End](../B/Bag_End.md) để tìm Bilbo, chỉ thấy [Gandalf](../G/Gandalf.md) ngồi trước lò sưởi. Gandalf xác nhận rằng Bilbo thực sự đã rời khỏi [The Shire](../T/The_Shire.md), đồng thời ông cũng thông báo Frodo rằng ông hiện là chủ nhân của Bag End đồng thời là người thừa kế [chiếc nhẫn](../O/One_Ring.md) ma thuật của Bilbo. Tuy nhiên, Gandalf cảnh báo ông không nên sử dụng nó mà thay vào đó hãy giấu Chiếc nhẫn đi. Gandalf sau đó quay người rời đi, thông báo với Frodo rằng ông phải xem xét vấn đề kỹ hơn. Sau khi cầu xin ông đừng sử dụng Chiếc nhẫn một lần nữa, Gandalf biến mất trong màn đêm.
 
 ## Sự khác biệt {#Differences}
 

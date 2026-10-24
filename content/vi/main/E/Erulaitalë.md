@@ -21,7 +21,7 @@ sort_keys:
   "Quenya names": "Erulaitale"
 ---
 
-<i><b>Erulaitalë</b></i> là một trong [Ba lời cầu nguyện](../T/Three_Prayers.md) mà [Các vị vua](../K/King_of_Númenor.md) và [Các nữ hoàng](../R/Ruling_Queen_of_Númenor.md) của [Númenor](../N/Númenor.md) và người dân của họ đã thực hiện [Eru](../I/Ilúvatar.md). Nó được quan sát thấy vào [Giữa mùa hè](../M/Midsummer.md). *Erulaitalë* là một buổi lễ khen ngợi Eru vì những tác phẩm của ông. Trong buổi lễ này, người cai trị Númenor và người dân của ông ta đã lên [Meneltarma](../M/Meneltarma.md) và thực hiện lễ hiến tế không đổ máu trên đỉnh của nó.
+<i><b>Erulaitalë</b></i> là một trong [Ba lời cầu nguyện](../T/Three_Prayers.md) mà [Các vị vua](../K/King_of_Númenor.md) và [Các nữ hoàng](../R/Ruling_Queen_of_Númenor.md) của [Númenor](../N/Númenor.md) và người dân của họ đã thực hiện [Eru](../I/Ilúvatar.md). Nó được quan sát thấy vào [Giữa mùa hè](../M/Midsummer.md). *Erulaitalë* là một buổi lễ khen ngợi Eru vì những tác phẩm của ông. Trong buổi lễ này, người cai trị Númenor và người dân của ông đã lên [Meneltarma](../M/Meneltarma.md) và thực hiện lễ hiến tế không đổ máu trên đỉnh của nó.
 
 Trong buổi cầu nguyện, ba Đại Bàng vĩ đại sẽ bay lượn trên Ngọn Núi phía trên mọi người. người Númenor gọi họ là [Nhân chứng của Manwë](../W/Witnesses_of_Manwë.md) và tin rằng sự hiện diện của họ thể hiện sự chấp thuận của [Trưởng lão Vua](Elder_King.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -88,7 +88,7 @@ Nhiều năm sau, người anh em họ của Dáin là [Thorin](../T/Thorin.md) 
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Các nhân vật của người chơi Người Lùn có thể chọn Dãy Đồi Sắt làm nền, mặc dù điều này chỉ nhằm mục đích thẩm mỹ và không ảnh hưởng đến câu chuyện hoặc cơ chế của trò chơi.</dd>
 <dd>Người Lùn của Dãy Đồi Sắt lần đầu tiên xuất hiện dưới dạng nhân vật không phải người chơi trong bản mở rộng <a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Mỏ Moria</a> dưới dạng "Iron Garrison", một đoàn thám hiểm do con trai và cháu trai của <a href="../B/Bifur.md" title="Bifur">Bifur</a> và <a href="../B/Bofur.md" title="Bofur">Bofur</a> dẫn đầu nhằm cố gắng xâm chiếm Moria và điều tra số phận của <a href="../B/Balin.md" title="Balin">Balin</a>.</dd></dl>

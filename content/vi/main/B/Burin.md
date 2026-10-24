@@ -18,7 +18,7 @@ categories:
 
 ## Lịch sử {#History}
 
-Nhân vật này lần đầu tiên được nhắc đến với cái tên Frár, người đã tham dự [Hội đồng Elrond](../C/Council_of_Elrond.md) cùng với [Glóin](../G/Glóin.md). Ông ta được đổi thành Burin, con trai của [Balin](Balin.md), người sau này sẽ tham gia [Học bổng](../F/Fellowship_of_the_Ring.md) trong nhiệm vụ của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi ý tưởng đó bị loại bỏ và [Gimli](../G/Gimli.md) được tạo ra thay cho ông ta, tên này được sử dụng cho cha của Balin, nhưng tên đó đã bị loại bỏ để chuyển sang [Fundin](../F/Fundin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nhân vật này lần đầu tiên được nhắc đến với cái tên Frár, người đã tham dự [Hội đồng Elrond](../C/Council_of_Elrond.md) cùng với [Glóin](../G/Glóin.md). Ông được đổi thành Burin, con trai của [Balin](Balin.md), người sau này sẽ tham gia [Học bổng](../F/Fellowship_of_the_Ring.md) trong nhiệm vụ của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi ý tưởng đó bị loại bỏ và [Gimli](../G/Gimli.md) được tạo ra thay cho ông, tên này được sử dụng cho cha của Balin, nhưng tên đó đã bị loại bỏ để chuyển sang [Fundin](../F/Fundin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -92,7 +92,7 @@ Một phiên bản bản thảo muộn có đề cập rằng Calimehtar (đánh
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Tower_of_Ecthelion.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cd/The_Lord_of_the_Rings_Online_-_Tower_of_Ecthelion.jpg/250px-The_Lord_of_the_Rings_Online_-_Tower_of_Ecthelion.jpg" decoding="async" loading="lazy" width="250" height="147" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cd/The_Lord_of_the_Rings_Online_-_Tower_of_Ecthelion.jpg/375px-The_Lord_of_the_Rings_Online_-_Tower_of_Ecthelion.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cd/The_Lord_of_the_Rings_Online_-_Tower_of_Ecthelion.jpg/500px-The_Lord_of_the_Rings_Online_-_Tower_of_Ecthelion.jpg 2x" data-file-width="1840" data-file-height="1080"/></a><figcaption>The Tower of Ecthelion in &#39;<a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a><i></i></figcaption></figure>
 
-<b>2015: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tháp Ecthelion hiện diện trong tất cả các phiên bản khác nhau của Minas Tirith, được đặt theo trình tự thời gian tại các điểm khác nhau trong <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_3019.md" title="Third Age 3019">3019</a>.</dd></dl>
 

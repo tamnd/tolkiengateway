@@ -57,23 +57,23 @@ infobox:
 
 ## Lịch sử {#History}
 
-Nguồn gốc của Old Man Willow rất mơ hồ. Ông ta có thể là một [Ent](../E/Ents.md) đã trở thành giống cây, hoặc có thể là [Huorn](../H/Huorns.md), vì Khu Rừng Cổ ban đầu là một phần của khu rừng nguyên sinh giống như [Fangorn](../F/Fangorn_Forest.md).
+Nguồn gốc của Old Man Willow rất mơ hồ. Ông có thể là một [Ent](../E/Ents.md) đã trở thành giống cây, hoặc có thể là [Huorn](../H/Huorns.md), vì Khu Rừng Cổ ban đầu là một phần của khu rừng nguyên sinh giống như [Fangorn](../F/Fangorn_Forest.md).
 
-Great Willow có trái tim độc ác và từ đó mà phần lớn sự căm ghét của Rừng đối với những sinh vật biết đi xuất hiện.<sup id="cite_ref-OMW_2-0" class="reference"><a href="#cite_note-OMW-2">[2]</a></sup> Bất chấp sức mạnh của ông ta, [Tom Bombadil](../T/Tom_Bombadil.md), người gọi ông ta là **Người Liễu già xám**, có quyền lực đối với ông ta và kiểm soát cái ác nhiều nhất có thể hoặc sẵn lòng.
+Great Willow có trái tim độc ác và từ đó mà phần lớn sự căm ghét của Rừng đối với những sinh vật biết đi xuất hiện.<sup id="cite_ref-OMW_2-0" class="reference"><a href="#cite_note-OMW-2">[2]</a></sup> Bất chấp sức mạnh của ông, [Tom Bombadil](../T/Tom_Bombadil.md), người gọi ông là **Người Liễu già xám**, có quyền lực đối với ông và kiểm soát cái ác nhiều nhất có thể hoặc sẵn lòng.
 
 Vào [26 tháng Chín](../_/26_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ông già Willow sử dụng phép thuật lên [Hobbit](../H/Hobbits.md), [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md), [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md), khiến chúng cảm thấy buồn ngủ. Merry và Pippin tựa vào thân cây ngủ thiếp đi, trong khi Frodo ngồi trên gốc cây đung đưa chân trong nước trước khi cũng chìm vào giấc ngủ. Cây mắc kẹt Merry và Pippin trong các vết nứt trên thân cây và đổ Frodo xuống dòng nước.
 
-Sam đã chống lại được bùa chú và giải cứu Frodo khỏi dòng nước. Họ cùng nhau cố gắng cứu Merry và Pippin bằng cách đốt lửa ở gốc cây, nhưng điều này chỉ khiến Ông già Willow tức giận, ông ta đe dọa sẽ giết những người hobbit bị mắc kẹt. Họ đã được cứu nhờ sự xuất hiện kịp thời của Tom Bombadil, người biết "giai điệu dành cho ông".<sup id="cite_ref-OMW_2-1" class="reference"><a href="#cite_note-OMW-2">[2]</a></sup>
+Sam đã chống lại được bùa chú và giải cứu Frodo khỏi dòng nước. Họ cùng nhau cố gắng cứu Merry và Pippin bằng cách đốt lửa ở gốc cây, nhưng điều này chỉ khiến Ông già Willow tức giận, ông đe dọa sẽ giết những người hobbit bị mắc kẹt. Họ đã được cứu nhờ sự xuất hiện kịp thời của Tom Bombadil, người biết "giai điệu dành cho ông".<sup id="cite_ref-OMW_2-1" class="reference"><a href="#cite_note-OMW-2">[2]</a></sup>
 
 ### Di sản {#Legacy}
 
-Trong một [bài thơ](../T/The_Adventures_of_Tom_Bombadil.md) hư cấu bắt nguồn từ [Buckland](../B/Buckland.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ông già Willow hát Tom Bombadil để ru ngủ và nhốt ông ta vào một vết nứt. Sau đó, ông ta nói chuyện với Tom, trừng phạt ông ta vì đã theo dõi ông ta và cù ông ta bằng chiếc lông vũ của mình. Tom ra lệnh cho Ông già Willow thả ông ta ra và ông ta làm ngay lập tức.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong một [bài thơ](../T/The_Adventures_of_Tom_Bombadil.md) hư cấu bắt nguồn từ [Buckland](../B/Buckland.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ông già Willow hát Tom Bombadil để ru ngủ và nhốt ông vào một vết nứt. Sau đó, ông nói chuyện với Tom, trừng phạt ông vì đã theo dõi ông và cù ông bằng chiếc lông vũ của mình. Tom ra lệnh cho Ông già Willow thả ông ra và ông làm ngay lập tức.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
 Trong *[The Return of the Shadow](../T/The_Return_of_the_Shadow.md)*, trong văn bản đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, sự việc với Ông già Willow có [Bingo Bolger-Baggins](../F/Frodo_Baggins.md) và [Odo](../P/Peregrin_Took.md) nằm tựa vào gốc cây. [Frodo](../S/Samwise_Gamgee.md) là người bị đẩy xuống sông trong khi [Marmaduke Brandybuck](../M/Meriadoc_Brandybuck.md) là người kháng cự được bùa chú.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Sau đó, tại nhà của Tom Bombadil, Tom kể lại truyền thuyết về Ông già Liễu. Ông ta được mô tả là "linh hồn khát nước màu xám trên trái đất" đã "bị giam cầm trong Liễu vĩ đại nhất của rừng".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Sau đó, tại nhà của Tom Bombadil, Tom kể lại truyền thuyết về Ông già Liễu. Ông được mô tả là "linh hồn khát nước màu xám trên trái đất" đã "bị giam cầm trong Liễu vĩ đại nhất của rừng".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

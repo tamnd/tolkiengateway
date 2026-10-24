@@ -27,7 +27,7 @@ infobox:
 
 **Galhir** là một [người](../M/Men.md) của [Brethil](../B/Brethil.md) và là một trong những người bảo vệ mà [Hardang](../H/Hardang.md), [Halad](../H/Halad.md) của [Haladin](../H/Haladin.md), đã giao nhiệm vụ canh gác [Haudh-en-Elleth](../H/Haudh-en-Elleth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Sau đó, khi Hardang muốn cử [Manthor](../M/Manthor.md) đi trong khi ông ta xử lý Húrin, ông ta bảo ông ta hãy đi cho đến khi Đội trưởng [Avranc](../A/Avranc.md) đến nhận quyền chỉ huy (đây là sự thăng tiến ngay tại chỗ của Avranc). Manthor ngay lập tức thôi việc ở Hardang và tuyên bố rằng ông đã để Galhir, "một người thợ rừng lớn tuổi và khôn ngoan hơn" hơn Avranc chỉ huy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau đó, khi Hardang muốn cử [Manthor](../M/Manthor.md) đi trong khi ông xử lý Húrin, ông bảo ông hãy đi cho đến khi Đội trưởng [Avranc](../A/Avranc.md) đến nhận quyền chỉ huy (đây là sự thăng tiến ngay tại chỗ của Avranc). Manthor ngay lập tức thôi việc ở Hardang và tuyên bố rằng ông đã để Galhir, "một người thợ rừng lớn tuổi và khôn ngoan hơn" hơn Avranc chỉ huy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

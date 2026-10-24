@@ -59,7 +59,7 @@ Aldburg được [Eorl](../E/Eorl.md) xây dựng sau khi Rohan được [Rohirr
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Aldburg.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/af/The_Lord_of_the_Rings_Online_-_Aldburg.jpg/300px-The_Lord_of_the_Rings_Online_-_Aldburg.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/af/The_Lord_of_the_Rings_Online_-_Aldburg.jpg/450px-The_Lord_of_the_Rings_Online_-_Aldburg.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/af/The_Lord_of_the_Rings_Online_-_Aldburg.jpg/600px-The_Lord_of_the_Rings_Online_-_Aldburg.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Aldburg in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>Aldburg is the capital town of the <a href="../E/Eastfold.md" title="Eastfold">Eastfold</a>, ruled by Éomer in times of peace. After Éomer departed for war, the defence of Aldburg fell to his steward Arcil, who often disagreed with Éomer&#39;s cousin, <a href="../_/Éothain.md" title="Éothain">Éothain</a>.</dd></dl>
 

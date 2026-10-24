@@ -21,7 +21,7 @@ images:
 
 **Kine of Araw** là một loài [bò](../C/Cows.md) sống ở các cánh đồng [Rhûn](../R/Rhûn.md) gần [Biển Rhûn](../S/Sea_of_Rhûn.md). Những con bò này khỏe mạnh và hoang dã hơn bất kỳ con bò nào khác trong [Trung Địa](../M/Middle-earth.md).
 
-Kine nổi tiếng là mỏ đá của [Vorondil](../V/Vorondil.md) Thợ săn, tổ tiên của [Quyền thống trị Quan Chấp chính của Gondor](../R/Ruling_Steward.md). Chính ông ta đã cắt một chiếc sừng từ một trong những con thú này và từ nó tạo thành một chiếc sừng đi săn; [Great Horn](../G/Great_Horn.md), được con trai cả của Người quản lý cầm quyền mang theo từ thời [Vorondil](../V/Vorondil.md) trở đi. Người thừa kế cuối cùng sở hữu Great Horn là [Boromir](../B/Boromir.md), người đã chứng kiến ​​nó bị vỡ làm đôi trong trận chiến với [Orc](../O/Orcs.md) bên dưới [Amon Hen](../A/Amon_Hen.md).<sup id="cite_ref-V1_1-0" class="reference"><a href="#cite_note-V1-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Kine nổi tiếng là mỏ đá của [Vorondil](../V/Vorondil.md) Thợ săn, tổ tiên của [Quyền thống trị Quan Chấp chính của Gondor](../R/Ruling_Steward.md). Chính ông đã cắt một chiếc sừng từ một trong những con thú này và từ nó tạo thành một chiếc sừng đi săn; [Great Horn](../G/Great_Horn.md), được con trai cả của Người quản lý cầm quyền mang theo từ thời [Vorondil](../V/Vorondil.md) trở đi. Người thừa kế cuối cùng sở hữu Great Horn là [Boromir](../B/Boromir.md), người đã chứng kiến ​​nó bị vỡ làm đôi trong trận chiến với [Orc](../O/Orcs.md) bên dưới [Amon Hen](../A/Amon_Hen.md).<sup id="cite_ref-V1_1-0" class="reference"><a href="#cite_note-V1-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

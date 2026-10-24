@@ -43,7 +43,7 @@ Tolkien traced the first presentations of "Errantry": It had been read at a lite
 
 *The Silmarillion* và *The Lord of the Rings* vẫn ở nguyên vị trí của chúng, Tolkien nói, cả hai đều bám đầy bụi. Ông nói rằng ông đã sửa đổi quan điểm của mình và nói rằng có còn hơn không. Ông sẽ sẵn lòng xem xét việc xuất bản một phần nội dung, một phần vì việc nghỉ hưu sắp tới trông giống như nghèo đói hơn là nhàn hạ. Khi có thời gian, ông sẽ cố gắng xử lý các mảnh Silmarillion. The Lord of the Rings có thể được xuất bản không?
 
-Tolkien biết Rayner đã lấy vợ và lương tâm cắn rứt vì không viết thư. Ông ta bị một cơn bệnh viêm xơ cơ và viêm dây thần kinh ở cánh tay khủng khiếp và không thể viết được trong một tháng. Anh vẫn đang theo đuổi những ngày tháng đã mất. Thật may mắn khi có những người bạn kiên quyết không để người ta rơi vào tình trạng im lặng vĩnh viễn.
+Tolkien biết Rayner đã lấy vợ và lương tâm cắn rứt vì không viết thư. Ông bị một cơn bệnh viêm xơ cơ và viêm dây thần kinh ở cánh tay khủng khiếp và không thể viết được trong một tháng. Anh vẫn đang theo đuổi những ngày tháng đã mất. Thật may mắn khi có những người bạn kiên quyết không để người ta rơi vào tình trạng im lặng vĩnh viễn.
 
 Tolkien đính kèm phiên bản sửa đổi duy nhất của "Errantry".
 

@@ -71,7 +71,7 @@ Theo một phiên bản cuối cùng của [huyền thoại](../L/Legendarium.md
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Bài viết này giả định rằng Gilitīro là Teler của Aman do tên của ông ta được nêu ở <a href="../T/Telerin.md" title="Telerin">Telerin</a> trước tiên.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Bài viết này giả định rằng Gilitīro là Teler của Aman do tên của ông được nêu ở <a href="../T/Telerin.md" title="Telerin">Telerin</a> trước tiên.</span>
 </li>
 </ol></div></span>
 

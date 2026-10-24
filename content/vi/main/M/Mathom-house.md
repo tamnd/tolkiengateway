@@ -56,7 +56,7 @@ infobox:
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nhà Mathom là một khu vực bị hạn chế danh tiếng. Người chơi phải hoàn thành một số nhiệm vụ cho <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> trong số <a href="../T/The_Shire.md" title="The Shire">The Shire</a> và chuyển <a class="mw-redirect" href="Mathom.md" title="Mathom">toán học</a> được trao cho "Hội Toán học" trước khi họ được công nhận cho những nỗ lực của mình và được phép tham gia. Bên trong, bạn có thể khám phá nhiều điều tò mò khác nhau và mua một số trong số đó.</dd></dl>
 

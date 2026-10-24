@@ -27,7 +27,7 @@ infobox:
 
 ### Mở đầu {#Prelude}
 
-Trong 5 năm qua [Balin](Balin.md) và Người Lùn khác từ Erebor đã khám phá Moria sau khi chiếm lại và xâm chiếm nó. Tuy nhiên vào ngày 10 tháng 11 năm 2994 Orc quân thực dân bất ngờ tấn công ở [Thung lũng Dimrill](../D/Dimrill_Dale.md); giết chết Lãnh chúa Balin khi ông ta đang nhìn vào [Mirrormere](../M/Mirrormere.md), và mặc dù bị cấm đóng cửa nhưng cuối cùng vẫn chiếm được [Cổng Đông](../G/Great_Gates.md) và [Sảnh đầu tiên](../F/First_Hall.md) từ Người Lùn.<sup id="cite_ref-Bridge_2-3" class="reference"><a href="#cite_note-Bridge-2">[2]</a></sup>
+Trong 5 năm qua [Balin](Balin.md) và Người Lùn khác từ Erebor đã khám phá Moria sau khi chiếm lại và xâm chiếm nó. Tuy nhiên vào ngày 10 tháng 11 năm 2994 Orc quân thực dân bất ngờ tấn công ở [Thung lũng Dimrill](../D/Dimrill_Dale.md); giết chết Lãnh chúa Balin khi ông đang nhìn vào [Mirrormere](../M/Mirrormere.md), và mặc dù bị cấm đóng cửa nhưng cuối cùng vẫn chiếm được [Cổng Đông](../G/Great_Gates.md) và [Sảnh đầu tiên](../F/First_Hall.md) từ Người Lùn.<sup id="cite_ref-Bridge_2-3" class="reference"><a href="#cite_note-Bridge-2">[2]</a></sup>
 
 ### Trận chiến {#The_Battle}
 
@@ -37,7 +37,7 @@ Người ta biết rất ít về trận chiến diễn ra như thế nào. Tuy 
 
 ### Hậu quả {#Aftermath}
 
-Một thời gian sau trận chiến, Óin được cử đi cùng với hơn bốn người khác để xem liệu những người sống sót có thể thoát ra khỏi [Cánh cửa Durin](../D/Doors_of_Durin.md) hay không. Ông ta đã bị giết bởi [Người canh gác dưới nước](../W/Watcher_in_the_Water.md) và chỉ có bốn người quay trở lại Phòng Mazarbul sau năm ngày. Chính tại đó, những người thực dân đã [đứng vững cuối cùng](../L/Last_Stand_of_Balin's_Colony.md). Bị bao vây, rất ít người và không có hy vọng trốn thoát, họ đã bỏ mạng.<sup id="cite_ref-Bridge_2-6" class="reference"><a href="#cite_note-Bridge-2">[2]</a></sup>
+Một thời gian sau trận chiến, Óin được cử đi cùng với hơn bốn người khác để xem liệu những người sống sót có thể thoát ra khỏi [Cánh cửa Durin](../D/Doors_of_Durin.md) hay không. Ông đã bị giết bởi [Người canh gác dưới nước](../W/Watcher_in_the_Water.md) và chỉ có bốn người quay trở lại Phòng Mazarbul sau năm ngày. Chính tại đó, những người thực dân đã [đứng vững cuối cùng](../L/Last_Stand_of_Balin's_Colony.md). Bị bao vây, rất ít người và không có hy vọng trốn thoát, họ đã bỏ mạng.<sup id="cite_ref-Bridge_2-6" class="reference"><a href="#cite_note-Bridge-2">[2]</a></sup>
 
 <span></span>
 

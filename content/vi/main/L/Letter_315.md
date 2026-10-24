@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien gầm gừ rằng ông ta *not* đang tiến bộ rất nhanh với *[The Silmarillion](../T/The_Silmarillion.md)*. Vợ anh, dù rất dũng cảm, nhưng đang thất bại trong cuộc chiến chống lại tuổi tác, khuyết tật và nỗi đau. Tolkien đã trải qua nhiều năm và có nhiều gián đoạn trong công việc kinh doanh. Ông chủ yếu cố gắng phối hợp danh pháp các phần của *The Silmarillion* với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Những câu chuyện vẫn nảy mầm từ những cái tên nhưng đó là một công việc hết sức khó khăn và phức tạp. Ông muốn chuyển một số nó sang dạng có thể đọc được và phác thảo phần còn lại cho những người khác. Anh cũng muốn có thời gian để ghi lại những kỷ niệm thời thơ ấu và người thân của mình.
+Tolkien gầm gừ rằng ông *not* đang tiến bộ rất nhanh với *[The Silmarillion](../T/The_Silmarillion.md)*. Vợ anh, dù rất dũng cảm, nhưng đang thất bại trong cuộc chiến chống lại tuổi tác, khuyết tật và nỗi đau. Tolkien đã trải qua nhiều năm và có nhiều gián đoạn trong công việc kinh doanh. Ông chủ yếu cố gắng phối hợp danh pháp các phần của *The Silmarillion* với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Những câu chuyện vẫn nảy mầm từ những cái tên nhưng đó là một công việc hết sức khó khăn và phức tạp. Ông muốn chuyển một số nó sang dạng có thể đọc được và phác thảo phần còn lại cho những người khác. Anh cũng muốn có thời gian để ghi lại những kỷ niệm thời thơ ấu và người thân của mình.
 
 <br>
 

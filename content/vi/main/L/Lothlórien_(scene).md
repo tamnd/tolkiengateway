@@ -61,6 +61,6 @@ Khi Aragorn cầu xin Haldir giúp đỡ họ, Frodo thấy các thành viên kh
 <p class="tg-quote-footer"><cite>Boromir to Frodo, of Gandalf</cite></p>
 </blockquote>
 
-Frodo suy nghĩ về những lời này, và trong khi làm như vậy, Haldir nói với Hội rằng họ sẽ đi theo ông ta.
+Frodo suy nghĩ về những lời này, và trong khi làm như vậy, Haldir nói với Hội rằng họ sẽ đi theo ông.
 
 ## Sự khác biệt {#Differences}

@@ -45,7 +45,7 @@ Taurnil là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: Th
 
 ## Lịch sử {#History}
 
-Tauril là một [Tiên](../E/Elves.md) cung thủ của [nhóm Kỷ Đệ Tam](Third_Age.md). Ông ta có đôi mắt sắc bén và khả năng ngắm bắn chính xác đã giúp ông ta tước vũ khí của kẻ thù ở tầm xa.
+Tauril là một [Tiên](../E/Elves.md) cung thủ của [nhóm Kỷ Đệ Tam](Third_Age.md). Ông có đôi mắt sắc bén và khả năng ngắm bắn chính xác đã giúp ông tước vũ khí của kẻ thù ở tầm xa.
 
 Khi [Rohirrim](../R/Rohirrim.md), dưới sự lãnh đạo của [Théoden](Théoden.md) [Vua](../K/King_of_Rohan.md), rút ​​lui về [ Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md), [Saruman phe Trắng](../S/Saruman.md) đã cử một đội quân hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) đến tấn công họ. Khi Chúa [Elrond](../E/Elrond.md) của [Rivendell](../R/Rivendell.md) và Quý bà [Galadriel](../G/Galadriel.md) và Chúa [Celeborn](../C/Celeborn.md) của Lothlórien biết được điều này, họ đã quyết định tôn vinh lòng trung thành lâu đời giữa [Con Người](../M/Men.md) và [Tiên tộc](../E/Elves.md). Họ cử một lực lượng liên hợp gồm Tiên tộc, do [Haldir](../H/Haldir.md) chỉ huy, để hỗ trợ Rohirrim trong trận chiến chống lại quân Uruk. Tauril là một phần của lực lượng này được gửi đến Hornburg. Khi trận chiến bắt đầu, Tauril bắn mũi tên vào Uruk-hai.
 

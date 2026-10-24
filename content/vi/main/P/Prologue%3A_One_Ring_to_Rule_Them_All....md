@@ -39,14 +39,14 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Cảnh này cho thấy quá trình rèn Những Chiếc Nhẫn Quyền Năng, rèn Chiếc nhẫn Một, Trận chiến Liên minh Cuối cùng khi Isildur cắt ngón tay của [Sauron](../S/Sauron.md) có Chiếc nhẫn trên đó, sự hư hỏng của Isildur và cái chết của ông ta. Sau đó, cảnh chuyển sang các sự kiện từ *[The Hobbit](../T/The_Hobbit.md)*, cho thấy [Bilbo Baggins](../B/Bilbo_Baggins.md) tìm thấy Chiếc nhẫn trong Hang động của Gollum.
+Cảnh này cho thấy quá trình rèn Những Chiếc Nhẫn Quyền Năng, rèn Chiếc nhẫn Một, Trận chiến Liên minh Cuối cùng khi Isildur cắt ngón tay của [Sauron](../S/Sauron.md) có Chiếc nhẫn trên đó, sự hư hỏng của Isildur và cái chết của ông. Sau đó, cảnh chuyển sang các sự kiện từ *[The Hobbit](../T/The_Hobbit.md)*, cho thấy [Bilbo Baggins](../B/Bilbo_Baggins.md) tìm thấy Chiếc nhẫn trong Hang động của Gollum.
 
 ## Sự khác biệt {#Differences}
 
 - Địa điểm: Trong phim, trận chiến diễn ra trên sườn núi Núi Diệt Vong, trong khi trong sách nó diễn ra gần [Barad-dur](../B/Barad-dur.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Chiến đấu với Sauron: Trong phim [Elendil](../E/Elendil.md) ngay lập tức bị Sauron giết chết, và [Gil-galad](../G/Gil-galad.md) thậm chí không xuất hiện để chiến đấu với ông ta. Trong sách Elendil và Gil-galad chiến đấu với Sauron và chết sau một trận chiến dài.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Chiến đấu với Sauron: Trong phim [Elendil](../E/Elendil.md) ngay lập tức bị Sauron giết chết, và [Gil-galad](../G/Gil-galad.md) thậm chí không xuất hiện để chiến đấu với ông. Trong sách Elendil và Gil-galad chiến đấu với Sauron và chết sau một trận chiến dài.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Thiếu sót:
-- [Anarion](../A/Anarion.md) không được nhắc đến, cũng như cái chết của ông ta.
+- [Anarion](../A/Anarion.md) không được nhắc đến, cũng như cái chết của ông.
 - [Númenor](../N/Númenor.md) không được đề cập và trên thực tế nó chỉ được nhắc đến một lần trong toàn bộ bộ ba.
 Các con trai của - Isildur không xuất hiện trong [Trận chiến Gladden Fields](../B/Battle_of_the_Gladden_Fields.md).
 - Chiến dịch của Liên minh Cuối cùng bị nén lại đáng kể, bỏ qua 7 năm bao vây Barad-dûr, hoặc ít nhất chỉ hiển thị phần kết.

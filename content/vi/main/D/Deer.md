@@ -34,7 +34,7 @@ Thuật ngữ Sindarin <i><a class="new" href="https://tolkiengateway.net/w/inde
 
 <dl><dd>Trong Phiên bản mở rộng của bộ phim, khi những người hobbit cắm trại ở rìa <a href="../M/Midgewater_Marshes.md" title="Midgewater Marshes">Đầm lầy Midwater</a>, Aragorn rời xa họ một lúc và trở về vào ban đêm, mang theo một con nai nhỏ mà ông đã săn và bắt được. Con hươu chết dùng để quay cảnh này được mua từ một trang trại New Zealand nuôi hươu bỏ hoang để lấy thịt.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hươu được tìm thấy ở nhiều nơi trong Trung Địa. Chúng thường không hung dữ, nhưng một số sẽ đánh nhau nếu người chơi đe dọa chúng. Hươu yếu hơn sẽ bỏ chạy khi bị tấn công.</dd></dl>
 

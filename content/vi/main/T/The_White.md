@@ -14,7 +14,7 @@ sort_keys:
   "Epithets": "White, The"
 ---
 
-**The White** là một danh hiệu rõ ràng được sử dụng để biểu thị người đứng đầu [Pháp sư](../W/Wizards.md) ở [Trung Địa](../M/Middle-earth.md), ban đầu được đặt bởi [Saruman](../S/Saruman.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng được [Gandalf](../G/Gandalf.md) tuyên bố sau khi ông ta trở về.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**The White** là một danh hiệu rõ ràng được sử dụng để biểu thị người đứng đầu [Pháp sư](../W/Wizards.md) ở [Trung Địa](../M/Middle-earth.md), ban đầu được đặt bởi [Saruman](../S/Saruman.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng được [Gandalf](../G/Gandalf.md) tuyên bố sau khi ông trở về.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Danh hiệu này cũng được đặt (với nghĩa đen hơn) cho [Celebdil](../C/Celebdil.md), ngọn núi phủ tuyết phía trên [Khazad-dûm](../M/Moria.md) nơi [Tháp Durin](../D/Durin's_Tower.md) được xây dựng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

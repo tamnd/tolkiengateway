@@ -73,7 +73,7 @@ J.R.R. Tolkien lưu ý rằng gia đình Bolger có phong tục sử dụng nh�
 
 <dl><dd>Thẻ <a href="../D/Decipher.md" title="Decipher">Giải mã</a> xác định một trong các Hobbit tại Bữa tiệc của Bilbo ở <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> là Filibert Bolger. Tuy nhiên, trong phim, người ta cũng thấy người hobbit đó đang cổ vũ khi <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> gọi "<a class="mw-redirect" href="../G/Grubb_Family~66393.md" title="Grubb Family">Grubbs</a>!".</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Filibert Bolger sống ở <a href="../N/Needlehole.md" title="Needlehole">Needlehole</a>. Ông yêu cầu người chơi tìm con bò bị lạc trong <a href="../R/Rushock_Bog.md" title="Rushock Bog">Rushock Bog</a>.</dd></dl>
 

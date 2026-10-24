@@ -47,7 +47,7 @@ Pengedhel là tác phẩm độc đáo dành cho phim *[The Lord of the Rings: T
 
 ## Lịch sử {#History}
 
-Pengedhel là một [Galadhrim](../G/Galadhrim.md) sống ở [Naith](../N/Naith.md) của [Lothlórien](../L/Lothlórien.md). Ông ta là một chiến binh lành nghề, có thể sử dụng một mũi tên như một ngọn giáo ngắn.
+Pengedhel là một [Galadhrim](../G/Galadhrim.md) sống ở [Naith](../N/Naith.md) của [Lothlórien](../L/Lothlórien.md). Ông là một chiến binh lành nghề, có thể sử dụng một mũi tên như một ngọn giáo ngắn.
 
 Khi [Rohirrim](../R/Rohirrim.md), dưới sự lãnh đạo của [Théoden](../T/Théoden.md) [Vua](../K/King_of_Rohan.md), rút ​​lui về [ Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md), [Saruman phe Trắng](../S/Saruman.md) đã cử một đội quân hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) đến tấn công họ. Khi Chúa [Elrond](../E/Elrond.md) của [Rivendell](../R/Rivendell.md) và Quý bà [Galadriel](../G/Galadriel.md) và Chúa [Celeborn](../C/Celeborn.md) của Lothlórien biết được điều này, họ đã quyết định tôn vinh lòng trung thành lâu đời giữa [Con Người](../M/Men.md) và [Tiên tộc](../E/Elves.md). Họ cử một lực lượng liên hợp gồm Tiên tộc, do [Haldir](../H/Haldir.md) chỉ huy, để hỗ trợ Rohirrim trong trận chiến chống lại quân Uruk. Pengedhel là một phần của lực lượng này được gửi đến Hornburg.
 

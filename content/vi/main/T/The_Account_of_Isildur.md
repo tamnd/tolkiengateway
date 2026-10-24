@@ -40,7 +40,7 @@ Tại vùng đất [Mordor](../M/Mordor.md), [Gollum](../G/Gollum.md) bị tra t
 
 Gandalf rời khỏi [Frodo](../F/Frodo.md) và [Shire](../S/Shire.md), băng qua [Trung Địa](../M/Middle-earth.md) đến vùng đất [Gondor](../G/Gondor.md), hy vọng được nhìn thấy kho lưu trữ của [Minas Tirith](../M/Minas_Tirith.md). Gandalf đến và bắt đầu xem xét các cuộn giấy khác nhau trong kho lưu trữ. Không lâu sau, ông tìm thấy một tác phẩm do chính [Isildur](../I/Isildur.md) sáng tác, người cuối cùng nhìn thấy [Chiếc nhẫn duy nhất](../O/One_Ring.md) trước khi nó biến mất. Isildur mô tả hình dáng của Chiếc nhẫn và các chữ cái bốc lửa xuất hiện như thế nào khi Chiếc nhẫn được nung nóng. Gandalf nhận ra mình phải kiểm tra chiếc nhẫn của Frodo bằng cách dùng lửa.
 
-Một Ringwraith được hiển thị đang yêu cầu [Hobbit](../H/Hobbit.md) cho "Baggins." The Hobbit lo lắng nói với ông ta rằng Bagginses sống ở [Hobbiton](../H/Hobbiton.md).
+Một Ringwraith được hiển thị đang yêu cầu [Hobbit](../H/Hobbit.md) cho "Baggins." The Hobbit lo lắng nói với ông rằng Bagginses sống ở [Hobbiton](../H/Hobbiton.md).
 
 ## Sự khác biệt {#Differences}
 

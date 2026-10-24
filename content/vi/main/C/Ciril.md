@@ -39,7 +39,7 @@ Theo [Tolkien](../J/J.R.R._Tolkien.md), cái tên *Ciril*/*Kiril* có thể bắ
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ciril đổ từ <a href="../W/White_Mountains.md" title="White Mountains">Dãy Núi Trắng</a> vào vùng đầm lầy "Tathrendalf" mà từ đó cuối cùng nó nổi lên thành một dòng suối duy nhất. Nó đi qua <a href="Calembel.md" title="Calembel">Calembel</a> với đất nông nghiệp và ngọn hải đăng của "Maegond" trước khi gia nhập <a href="../R/Ringló.md" title="Ringló">Ringló</a>.</dd></dl>
 

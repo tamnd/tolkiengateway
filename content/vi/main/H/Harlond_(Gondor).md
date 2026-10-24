@@ -53,7 +53,7 @@ Vào [15 tháng 3](../_/15_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong phiên bản gốc của <a href="../G/Gondor.md" title="Gondor">Gondor</a>, Harlond đã được thêm vào như một phần của <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> với khu vực phía Đông <a href="../G/Gondor.md" title="Gondor">Gondor</a>. Nó đã bị <a href="../M/Minas_Morgul.md" title="Minas Morgul">Morgul</a>-<a href="../O/Orcs.md" title="Orcs">orc</a> chiếm giữ, những kẻ đã phong tỏa con đường khi <a href="../S/Siege_of_Gondor.md" title="Siege of Gondor">Cuộc vây hãm Gondor</a> bắt đầu. Phiên bản Harlond này chứa đầy lều và động cơ vây hãm của kẻ thù, với các nhiệm vụ tập trung vào việc tiêu diệt lực lượng của kẻ thù. Trong <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">trận chiến cánh đồng Pelennor</a>, người chơi gặp <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và <a href="../G/Grey_Company.md" title="Grey Company">Grey Company</a> khi họ xuống tàu và chiến đấu cùng họ trên khắp thành phố. Sau chiến tranh, Harlond đang trong quá trình được xây dựng lại, với nhiệm vụ tập trung vào việc hỗ trợ khôi phục và đổi mới.</dd></dl>
 

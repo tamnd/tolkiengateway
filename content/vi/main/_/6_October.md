@@ -80,8 +80,8 @@ Sự kiện xảy ra vào ngày 6 tháng 10
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - Du khách leo núi [Weathertop](../W/Weathertop.md) vào buổi trưa. Họ tìm thấy viên đá của [Gandalf](../G/Gandalf.md).
-    - Trại dưới quyền Weathertop bị đột kích vào ban đêm và [Frodo](../F/Frodo_Baggins.md) bị tấn công bởi [Vua Phù thủy](../W/Witch-king.md) kẻ cố gắng đâm vào tim ông ta bằng một lưỡi kiếm Morgul sẽ khiến ông ta trở thành một hồn ma. Frodo đeo Nhẫn và bị thương ở vai.
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông ta vào [Weathertop](../W/Weathertop.md).
+    - Trại dưới quyền Weathertop bị đột kích vào ban đêm và [Frodo](../F/Frodo_Baggins.md) bị tấn công bởi [Vua Phù thủy](../W/Witch-king.md) kẻ cố gắng đâm vào tim ông bằng một lưỡi kiếm Morgul sẽ khiến ông trở thành một hồn ma. Frodo đeo Nhẫn và bị thương ở vai.
+    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông vào [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - Khi vượt qua [Ford of Bruinen](../F/Ford_of_Bruinen.md), Frodo cảm thấy cơn đau đầu tiên trở lại từ vết đâm của mình.<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>

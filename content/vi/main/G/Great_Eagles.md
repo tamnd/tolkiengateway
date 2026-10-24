@@ -67,7 +67,7 @@ Họ có khả năng nói và thường giúp đỡ [Con Người](../M/Men.md),
 
 Theo lệnh của Manwë, Chúa tể của Đại Bàng, [Thorondor](../T/Thorondor.md), đã canh giữ tầm mắt của mình trên đỉnh [Thangorodrim](../T/Thangorodrim.md), những ngọn núi lửa phía trên [Angband](../A/Angband.md) trong một thời gian.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> Khi ông sống ở đó, Thorondor đã giúp [Fingon](../F/Fingon.md) giải cứu [Maedhros](../M/Maedhros.md).
 
-Thorondor bị thương ở mặt Morgoth sau trận chiến của Morgoth với [Fingolfin](../F/Fingolfin.md), và ông ta đã khiêng thi thể của Fingolfin về [Echoriath](../E/Echoriath.md), nơi ông ta được chôn cất bởi Fingon. Nhiều năm sau, ba Đại Bàng Vĩ đại đến trợ giúp [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), đưa họ rời khỏi Thangorodrim sau khi cả hai đã cạn kiệt sức lực trong [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Thorondor bị thương ở mặt Morgoth sau trận chiến của Morgoth với [Fingolfin](../F/Fingolfin.md), và ông đã khiêng thi thể của Fingolfin về [Echoriath](../E/Echoriath.md), nơi ông được chôn cất bởi Fingon. Nhiều năm sau, ba Đại Bàng Vĩ đại đến trợ giúp [Beren](../B/Beren.md) và [Lúthien](../L/Lúthien.md), đưa họ rời khỏi Thangorodrim sau khi cả hai đã cạn kiệt sức lực trong [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 Người của Thorondor sau đó đã bỏ tầm mắt tới [Crissaegrim](../C/Crissaegrim.md), một phần của [Echoriad](../E/Echoriad.md) gần [Gondolin](Gondolin.md). Ở đó, họ trở thành bạn của [Turgon](../T/Turgon.md), mang đến cho anh tin tức và ngăn chặn các điệp viên ra khỏi biên giới của họ. Vì có sự giám hộ của họ, [Orc](../O/Orcs.md) không thể tiếp cận những ngọn núi gần đó<sup id="cite_ref-Silm-TFG_8-0" class="reference"><a href="#cite_note-Silm-TFG-8">[7]</a></sup> hoặc khúc cạn quan trọng của [Brithiach](../B/Brithiach.md) ở phía nam.<sup id="cite_ref-Tuor_9-0" class="reference"><a href="#cite_note-Tuor-9">[8]</a></sup>
 
@@ -83,7 +83,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), một cặp Đại Bàng có một
 
 Nhiều Đại Bàng sống trên những ngọn đồi xung quanh [Sorontil](../S/Sorontil.md) ở phía bắc hòn đảo.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup>
 
-Những đám mây bão hình đại bàng, được gọi là "Đại Bàng của Chúa tể Phương Tây", được gửi bởi Manwë khi ông ta cố gắng lý luận hoặc đe dọa người Númenor.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup>
+Những đám mây bão hình đại bàng, được gọi là "Đại Bàng của Chúa tể Phương Tây", được gửi bởi Manwë khi ông cố gắng lý luận hoặc đe dọa người Númenor.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup>
 
 ### Kỷ Đệ Tam {#Third_Age}
 
@@ -144,19 +144,19 @@ Trong một c. [1970](../_/1970.md) văn bản, "những con đại bàng biết
 
 Một số độc giả đã đặt câu hỏi tại sao Đại Bàng đơn giản không mang Frodo vào Mordor và thả [Một chiếc nhẫn](../T/The_One_Ring.md) vào Núi Diệt Vong, hoặc ít nhất là hỗ trợ Hội trong một phần của cuộc hành trình, chẳng hạn như giúp họ tránh [Cổng Redhorn](../R/Redhorn_Gate.md) và [Moria](../M/Moria.md).
 
-Trong [Thư 210](../L/Letter_210.md), Tolkien nói rằng Đại Bàng "không phải taxi" và nhắc lại rằng nhiệm vụ của Hiệp hội phụ thuộc vào sự bí mật, do đó, cần phải mô tả một hành trình đi bộ dài gian khổ để duy trì cách tiếp cận lén lút của họ. Tolkien còn tuyên bố thêm rằng Đại Bàng nên được sử dụng cẩn thận như một thiết bị cốt truyện và mô tả chúng như một "chiếc máy nguy hiểm" mà ông ta nên sử dụng một cách tiết kiệm.<sup id="cite_ref-letter210_30-0" class="reference"><a href="#cite_note-letter210-30">[29]</a></sup>
+Trong [Thư 210](../L/Letter_210.md), Tolkien nói rằng Đại Bàng "không phải taxi" và nhắc lại rằng nhiệm vụ của Hiệp hội phụ thuộc vào sự bí mật, do đó, cần phải mô tả một hành trình đi bộ dài gian khổ để duy trì cách tiếp cận lén lút của họ. Tolkien còn tuyên bố thêm rằng Đại Bàng nên được sử dụng cẩn thận như một thiết bị cốt truyện và mô tả chúng như một "chiếc máy nguy hiểm" mà ông nên sử dụng một cách tiết kiệm.<sup id="cite_ref-letter210_30-0" class="reference"><a href="#cite_note-letter210-30">[29]</a></sup>
 
 Tolkien đã viết về Đại Bàng bằng thuật ngữ rõ ràng về [thảm họa bạch đàn](../E/Eucatastrophe.md) trong [Thư 89](../L/Letter_89.md), trong đó ông mô tả việc họ đến để cứu thế giới trong *The Hobbit*.<sup id="cite_ref-letter89_31-0" class="reference"><a href="#cite_note-letter89-31">[30]</a></sup> Vì bản chất của thảm họa bạch đàn là bất ngờ nên Đại Bàng theo thiết kế sẽ không và không thể được các nhân vật khác coi là những lựa chọn sẵn có hoặc khả thi để thực hiện.
 
-Hơn nữa, Đại Bàng Vĩ đại sẽ khá rõ ràng và không có khả năng tự vệ trước Sauron, những kẻ có thể nhìn thấy họ đến từ xa và khiến họ nhanh chóng suy ra kế hoạch của họ. Nazgûl và các quân đoàn cung thủ [Những con thú dữ](../F/Fell_beasts.md) và/hoặc Sauron của họ cùng các cỗ máy bao vây của ông ta rất có thể đã ngăn chặn nỗ lực phát hiện Đại Bàng ở vùng lân cận Mordor. Vì vậy, cần có một nhóm nhỏ đi bộ để giảm thiểu rủi ro thu hút sự chú ý.
+Hơn nữa, Đại Bàng Vĩ đại sẽ khá rõ ràng và không có khả năng tự vệ trước Sauron, những kẻ có thể nhìn thấy họ đến từ xa và khiến họ nhanh chóng suy ra kế hoạch của họ. Nazgûl và các quân đoàn cung thủ [Những con thú dữ](../F/Fell_beasts.md) và/hoặc Sauron của họ cùng các cỗ máy bao vây của ông rất có thể đã ngăn chặn nỗ lực phát hiện Đại Bàng ở vùng lân cận Mordor. Vì vậy, cần có một nhóm nhỏ đi bộ để giảm thiểu rủi ro thu hút sự chú ý.
 
 ## Cảm hứng {#Inspiration}
 
-Bức vẽ con đại bàng trên vách đá của Tolkien xuất hiện trong một số ấn bản của *The Hobbit*. Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), tác giả đã vẽ bức tranh này dựa trên bức tranh vẽ một chú Đại bàng vàng chưa trưởng thành của Archibald Thorburn mà Christopher đã tìm thấy cho ông trong *The Birds of the British Isles* của T.A. Coward. Tuy nhiên, việc Tolkien sử dụng mô hình này không nhất thiết có nghĩa là gà của ông ta có màu Vàng Đại Bàng thông thường.
+Bức vẽ con đại bàng trên vách đá của Tolkien xuất hiện trong một số ấn bản của *The Hobbit*. Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), tác giả đã vẽ bức tranh này dựa trên bức tranh vẽ một chú Đại bàng vàng chưa trưởng thành của Archibald Thorburn mà Christopher đã tìm thấy cho ông trong *The Birds of the British Isles* của T.A. Coward. Tuy nhiên, việc Tolkien sử dụng mô hình này không nhất thiết có nghĩa là gà của ông có màu Vàng Đại Bàng thông thường.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản sớm nhất về sự sụp đổ của Gondolin, vua của Đại Bàng, Thorndor (sau này Thorondor), không có tình yêu với Melko (sau này Melkor) vì ông ta đã bắt được nhiều Đại Bàng và tra tấn chúng để lấy những từ thần kỳ giúp ông ta có thể bay (để thách thức Manwë giành quyền chỉ huy trên không). Khi Đại Bàng từ chối tiết lộ những lời thần kỳ, Melko đã cắt đôi cánh của mình để tạo thành một đôi cho chính mình, "nhưng không thành công".<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup>
+Trong phiên bản sớm nhất về sự sụp đổ của Gondolin, vua của Đại Bàng, Thorndor (sau này Thorondor), không có tình yêu với Melko (sau này Melkor) vì ông đã bắt được nhiều Đại Bàng và tra tấn chúng để lấy những từ thần kỳ giúp ông có thể bay (để thách thức Manwë giành quyền chỉ huy trên không). Khi Đại Bàng từ chối tiết lộ những lời thần kỳ, Melko đã cắt đôi cánh của mình để tạo thành một đôi cho chính mình, "nhưng không thành công".<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

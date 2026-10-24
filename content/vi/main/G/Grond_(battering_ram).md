@@ -109,7 +109,7 @@ Grond là một con cừu đực có hình dạng đầu sói. Nó được làm
 
 <dl><dd>Con cừu đực mang hình dáng của toàn bộ cơ thể con sói, thay vì chỉ có đầu của nó. <a href="Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a> đã gọi nó đến sau khi một đòn tấn công nhỏ hơn tỏ ra vô ích trước những cánh cổng lớn.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Grond đã gặp phải trong Nhiệm vụ sử thi "Sức mạnh của Sauron Quyển 3: Chương 8: Gothmog Xuất hiện". Người chơi đã làm hỏng nhẹ con ram lớn, khiến việc sử dụng nó bị trì hoãn trong trận chiến sắp tới. Sự xuất hiện của <a class="mw-redirect mw-disambig" href="Gothmog.md" title="Gothmog">Gothmog</a> buộc người chơi phải rút lui trước khi có thể gây thêm thiệt hại.</dd></dl>
 

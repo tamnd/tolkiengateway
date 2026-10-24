@@ -52,7 +52,7 @@ Vị trí của Mount Gram chưa bao giờ được xác định và ngọn núi
 
 [Tale of Years](../A/Appendix_B.md) đề cập rằng trong [T.A.](../T/Third_Age.md) [2740](../T/Third_Age_2740.md) "Orc *renew* cuộc xâm lược Eriador của họ", rõ ràng đề cập đến [những cuộc xâm lược của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md), được đề cập trong các mục ngay trước đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> " [Goblin](../O/Orcs.md#Orcs_and_Goblins) của Mount Gram" đã xâm chiếm Shire ở [2747](../T/Third_Age_2747.md) rõ ràng là một làn sóng tiếp theo của chúng.
 
-Đây hẳn là lý do tại sao [Robert Foster](../R/Robert_Foster.md) coi Gram là một trong những Dãy Núi Sương Mù, mặc dù ông ta không trích dẫn nguồn cụ thể hoặc lý do để làm như vậy.<sup id="cite_ref-Foster_1-1" class="reference"><a href="#cite_note-Foster-1">[1]</a></sup>
+Đây hẳn là lý do tại sao [Robert Foster](../R/Robert_Foster.md) coi Gram là một trong những Dãy Núi Sương Mù, mặc dù ông không trích dẫn nguồn cụ thể hoặc lý do để làm như vậy.<sup id="cite_ref-Foster_1-1" class="reference"><a href="#cite_note-Foster-1">[1]</a></sup>
 
 Mặt khác, [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) (cũng không có lời giải thích) đã đặt nó trên một mỏm đất ở [Ettenmoors](../E/Ettenmoors.md).<sup id="cite_ref-Atlas_2-1" class="reference"><a href="#cite_note-Atlas-2">[2]</a></sup>
 
@@ -76,7 +76,7 @@ Có một Mount Gram ở Albania.
 
 <dl><dd>Mount Gram nằm ở phía Bắc của <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>, Phương Tây của <a href="Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>, Tây Nam của <a class="mw-redirect" href="Mount_Gundabad.md" title="Mount Gundabad">Mount Gundabad</a> và ngay phía Nam của <a href="Mountains_of_Angmar.md" title="Mountains of Angmar">Dãy núi Angmar</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mount Gram nằm ở <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>, khu vực Người chơi đấu với Người chơi duy nhất của trò chơi. Dưới chân nó là "Gramsfoot", trại chiến <a href="../A/Angmar.md" title="Angmar">Angmar</a> là thành trì duy nhất của những người chơi Ác ma và Dân tộc Tự do không thể vào được.</dd></dl>
 

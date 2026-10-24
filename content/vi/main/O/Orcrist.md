@@ -68,7 +68,7 @@ Orc gọi là thanh kiếm **Biter**.<sup id="cite_ref-hill_1-0" class="referenc
 
 ## Lịch sử {#History}
 
-Với tư cách là "bạn đời" của thanh kiếm Glamdring của Vua [Turgon](../T/Turgon.md), Orcrist có thể do ông ta hoặc một lãnh chúa cấp cao của [Gondolindrim](../G/Gondolindrim.md) trong đoàn tùy tùng của Vua sinh ra.
+Với tư cách là "bạn đời" của thanh kiếm Glamdring của Vua [Turgon](../T/Turgon.md), Orcrist có thể do ông hoặc một lãnh chúa cấp cao của [Gondolindrim](../G/Gondolindrim.md) trong đoàn tùy tùng của Vua sinh ra.
 
 Orcrist "đã giết hàng trăm yêu tinh vào thời đó, khi các yêu tinh công bằng của Gondolin săn lùng chúng trên những ngọn đồi hoặc chiến đấu trước bức tường của chúng".<sup id="cite_ref-hill_1-1" class="reference"><a href="#cite_note-hill-1">[1]</a></sup> Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Rog](../R/Rog.md), [Duilin](../D/Duilin_of_Gondolin.md), [Egalmoth](../E/Egalmoth.md), [Tuor](../T/Tuor.md) và Những ngôi nhà của [Ecthelion](../E/Ecthelion.md) phòng thủ ở cổng trước bức tường. [Ecthelion](../E/Ecthelion.md) dẫn đầu một cuộc tấn công dẫn đến cái chết của hàng nghìn [orc](Orcs.md), khiến tên tuổi của anh trở thành nỗi kinh hoàng đối với chủng tộc của họ, trước khi chiến đấu với [Gothmog](<../G/Gothmog_(balrog).md>).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 

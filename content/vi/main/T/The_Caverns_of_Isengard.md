@@ -102,6 +102,6 @@ infobox:
 </td></tr>
 <tr>
 <td>[02:30]</td>
-<td>i  na</td>
+<td>i na</td>
 <td>i na!
 </td></tr></tbody></table>

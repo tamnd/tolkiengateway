@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien lưu ý rằng Công ty Houghton Mifflin đã gửi cho ông ta bản in thử của *Tree and Leaf*, với một bức tranh khối về một cái cây là sự kết hợp giữa một con hải quỳ mập mạp và một quả hạt dẻ Tây Ban Nha bị ô nhiễm, dán đầy những dòng chữ xấu xí không đứng đắn. Việc trả lại cho họ đúng hạn đã khiến ông phải trả giá đắt và điều đó đã góp phần tạo ra sự gay gắt nhất định trong những nhận xét của ông đối với họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Tolkien lưu ý rằng Công ty Houghton Mifflin đã gửi cho ông bản in thử của *Tree and Leaf*, với một bức tranh khối về một cái cây là sự kết hợp giữa một con hải quỳ mập mạp và một quả hạt dẻ Tây Ban Nha bị ô nhiễm, dán đầy những dòng chữ xấu xí không đứng đắn. Việc trả lại cho họ đúng hạn đã khiến ông phải trả giá đắt và điều đó đã góp phần tạo ra sự gay gắt nhất định trong những nhận xét của ông đối với họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Lưu ý {#Note}
 

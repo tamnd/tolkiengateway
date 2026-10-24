@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 3 tháng 3
 ## Trên Trái đất {#On_Earth}
 
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 159](../L/Letter_159.md), đề cập đến [Charles Williams](../C/Charles_Williams.md).
-- **[1973](1973.md)** - Một [hóa đơn thuốc lá](<../C/Cigar_bill_(3_March_1972).md>) được gửi đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trên đó ông ta viết nguệch ngoạc một ghi chú.
+- **[1973](1973.md)** - Một [hóa đơn thuốc lá](<../C/Cigar_bill_(3_March_1972).md>) được gửi đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trên đó ông viết nguệch ngoạc một ghi chú.
 - <b><a href="1983.md" title="1983">1983</a> - <i><a class="mw-redirect" href="../T/The_Monsters_and_the_Critics.md" title="The Monsters and the Critics">The Monsters and the Critics</a></i> được xuất bản ở Anh.</b>
 
 ## Trong Arda {#In_Arda}

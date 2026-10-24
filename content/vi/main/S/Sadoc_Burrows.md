@@ -48,7 +48,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Không có nhiều thông tin về quá khứ của Sadoc. Vào một thời điểm cuối [Kỷ Đệ Nhị](Second_Age.md), ông ta đã mất vợ mình, [Daffodil Burrows](../D/Daffodil_Burrows.md), vào tay [Sói](../W/Wolves.md) trong lần di cư trước đó. Sadoc đang sở hữu một cuốn sách Star-book độc nhất vô nhị được những Người tìm đường trước đó truyền lại cho ông ta. Ông ta sử dụng nó để hỗ trợ đoàn lữ hành của mình di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác.
+Không có nhiều thông tin về quá khứ của Sadoc. Vào một thời điểm cuối [Kỷ Đệ Nhị](Second_Age.md), ông đã mất vợ mình, [Daffodil Burrows](../D/Daffodil_Burrows.md), vào tay [Sói](../W/Wolves.md) trong lần di cư trước đó. Sadoc đang sở hữu một cuốn sách Star-book độc nhất vô nhị được những Người tìm đường trước đó truyền lại cho ông. Ông sử dụng nó để hỗ trợ đoàn lữ hành của mình di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác.
 
 Trước khi bắt đầu mùa thu, Sadoc đã tổ chức <a class="new" href="https://tolkiengateway.net/w/index.php?title=Harvest_Festival&amp;action=edit&amp;redlink=1" title="Harvest Festival (page does not exist)">Lễ hội thu hoạch</a> để chuẩn bị cho cuộc di cư từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
 
@@ -58,7 +58,7 @@ Sau khi việc [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md) vi phạm quy tắ
 
 Trong quá trình di cư, Stranger chứng tỏ mình đáng tin cậy với Sadoc khi ngăn cản ba con sói làm bữa ăn cho [Malva Meadowgrass](../M/Malva_Meadowgrass.md), Elanor và [Poppy Proudfellow](../P/Poppy_Proudfellow.md). Tuy nhiên, mặc dù đã cố gắng chữa lành [Grove](../G/Grove.md) khỏi những mảnh vụn của vụ phun trào [Orodruin](../M/Mount_Doom.md), hành động này gần như gây hại cho Elanor và [Dilly Brandyfoot](../D/Dilly_Brandyfoot.md).
 
-Sau đó, sau khi xe của đoàn lữ hành bị [Mystics](../M/Mystics.md) đốt cháy, những người đang cố gắng truy đuổi Người lạ, Sadoc tổ chức một công ty gồm có Elanor, Poppy và [Marigold Brandyfoot](../M/Marigold_Brandyfoot.md) để trả thù và cảnh báo Người lạ. Tuy nhiên, mặc dù đã đánh bại Mystics tại [phương Đông Bight](../E/East_Bight.md), Nomad vẫn khiến Sadoc bị trọng thương. Mặc dù ông ta đã có đủ thời gian để trả thù một chút trước khi The Stranger trục xuất các nhà thần bí. Khi mặt trời mọc vào buổi sáng hôm đó, Sadoc chết khi cảm nhận được điều đó trên da, tin rằng trong lòng mình sẽ sớm gặp lại vợ mình.
+Sau đó, sau khi xe của đoàn lữ hành bị [Mystics](../M/Mystics.md) đốt cháy, những người đang cố gắng truy đuổi Người lạ, Sadoc tổ chức một công ty gồm có Elanor, Poppy và [Marigold Brandyfoot](../M/Marigold_Brandyfoot.md) để trả thù và cảnh báo Người lạ. Tuy nhiên, mặc dù đã đánh bại Mystics tại [phương Đông Bight](../E/East_Bight.md), Nomad vẫn khiến Sadoc bị trọng thương. Mặc dù ông đã có đủ thời gian để trả thù một chút trước khi The Stranger trục xuất các nhà thần bí. Khi mặt trời mọc vào buổi sáng hôm đó, Sadoc chết khi cảm nhận được điều đó trên da, tin rằng trong lòng mình sẽ sớm gặp lại vợ mình.
 
 <span></span>
 

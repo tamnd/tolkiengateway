@@ -100,7 +100,7 @@ Trong phiên bản xuất bản của *[The Return of the King](../T/The_Return_
 		</li>
 </ul></center>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Lothíriel xuất hiện lần đầu trong "Con đường đến Gondor", cuốn sách đầu tiên của Tập 4 của <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>, và có thể tìm thấy trong Đại Sảnh Thân vương trong Dol Amroth.</dd></dl>
 

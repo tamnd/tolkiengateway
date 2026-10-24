@@ -60,7 +60,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào những ngày còn cây ở [Valinor](../V/Valinor.md), Tilion từng là thợ săn của đại đội [Oromë](../O/Oromë.md). Mặc dù thường xuyên đạp xe cùng Oromë nhưng ông đã dành phần lớn thời gian rảnh rỗi ở [Lórien](<../L/Lórien_(Valinor).md>), dưới ánh sáng của [Telperion](Telperion.md). Tilion yêu thích bạc (thậm chí anh còn dùng [cung](../B/Bow.md) bạc) và cầu xin được chăm sóc [Mặt Trăng](../M/Moon.md). [Valar](../V/Valar.md) đã giao cho anh nhiệm vụ này. Ông ta được cho là kém hùng mạnh hơn [Arien](../A/Arien.md), Maia được chọn để hướng dẫn [Mặt Trời](../S/Sun.md).
+Vào những ngày còn cây ở [Valinor](../V/Valinor.md), Tilion từng là thợ săn của đại đội [Oromë](../O/Oromë.md). Mặc dù thường xuyên đạp xe cùng Oromë nhưng ông đã dành phần lớn thời gian rảnh rỗi ở [Lórien](<../L/Lórien_(Valinor).md>), dưới ánh sáng của [Telperion](Telperion.md). Tilion yêu thích bạc (thậm chí anh còn dùng [cung](../B/Bow.md) bạc) và cầu xin được chăm sóc [Mặt Trăng](../M/Moon.md). [Valar](../V/Valar.md) đã giao cho anh nhiệm vụ này. Ông được cho là kém hùng mạnh hơn [Arien](../A/Arien.md), Maia được chọn để hướng dẫn [Mặt Trời](../S/Sun.md).
 
 Tilion đôi khi rất liều lĩnh và không phải lúc nào cũng đi đúng đường, khiến cho Mặt Trăng đôi khi xuất hiện trên bầu trời cùng lúc với Mặt Trời hoặc hoàn toàn không xuất hiện.
 

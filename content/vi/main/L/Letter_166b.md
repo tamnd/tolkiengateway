@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien giải quyết các truy vấn cuối cùng từ máy in về việc xuất bản *[The Return of the King](../T/The_Return_of_the_King.md)*. Ông ta thừa nhận đã nhận được tin nhắn của [Rayner Unwin](../R/Rayner_Unwin.md), mặc dù dịch vụ bưu chính không đáng tin cậy. Tolkien bày tỏ sự không thể đưa ra câu trả lời chắc chắn cho các câu hỏi của nhà in khi ở xa Oxford, lưu ý tầm quan trọng của việc xem lại văn bản cuối cùng mà ông ta không có quyền truy cập trực tiếp.
+Tolkien giải quyết các truy vấn cuối cùng từ máy in về việc xuất bản *[The Return of the King](../T/The_Return_of_the_King.md)*. Ông thừa nhận đã nhận được tin nhắn của [Rayner Unwin](../R/Rayner_Unwin.md), mặc dù dịch vụ bưu chính không đáng tin cậy. Tolkien bày tỏ sự không thể đưa ra câu trả lời chắc chắn cho các câu hỏi của nhà in khi ở xa Oxford, lưu ý tầm quan trọng của việc xem lại văn bản cuối cùng mà ông không có quyền truy cập trực tiếp.
 
 Ông tuyên bố rằng ông sẽ quay lại Oxford trước tối Chủ nhật và sẽ liên hệ với nhà xuất bản qua điện thoại vào sáng thứ Hai để giải quyết mọi vấn đề còn lại. <br>
 

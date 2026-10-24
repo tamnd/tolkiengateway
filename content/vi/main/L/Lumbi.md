@@ -38,7 +38,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau khi Melko bị lật đổ bởi [Tulkas](../T/Tulkas.md) trong [trận chiến](../B/Battle_of_the_Silent_Pools.md) ở [Hồ im lặng](../A/Aelin-uial.md) trong [First Farthing Forth](../W/War_of_Wrath.md), lâu đài Lumbi được dùng để giam giữ ông ta sau khi ông ta bị trói và xiềng xích. Lumbi được bảo vệ bởi [Gorgumoth](../G/Gorgumoth.md), [chó săn](../H/Hounds.md) của [Mandos](../M/Mandos.md).<sup id="cite_ref-Lum_1-1" class="reference"><a href="#cite_note-Lum-1">[1]</a></sup>
+Sau khi Melko bị lật đổ bởi [Tulkas](../T/Tulkas.md) trong [trận chiến](../B/Battle_of_the_Silent_Pools.md) ở [Hồ im lặng](../A/Aelin-uial.md) trong [First Farthing Forth](../W/War_of_Wrath.md), lâu đài Lumbi được dùng để giam giữ ông sau khi ông bị trói và xiềng xích. Lumbi được bảo vệ bởi [Gorgumoth](../G/Gorgumoth.md), [chó săn](../H/Hounds.md) của [Mandos](../M/Mandos.md).<sup id="cite_ref-Lum_1-1" class="reference"><a href="#cite_note-Lum-1">[1]</a></sup>
 
 Vào một thời điểm nào đó không rõ sau đó, [Tevildo](../T/Tevildo.md) đã gặm nhấm mối ràng buộc của Melko cho đến khi cuối cùng, nhiều thế kỷ sau, Melko được thả ra khỏi ngục tù. Sau đó, Melko bị [Cây thông Tavrobel](../P/Pine_of_Tavrobel.md) truy đuổi trên [Telimektar](../T/Telimektar.md).<sup id="cite_ref-pine_2-0" class="reference"><a href="#cite_note-pine-2">[2]</a></sup>
 

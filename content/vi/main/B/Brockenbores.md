@@ -41,7 +41,7 @@ Tên của địa điểm này được đặt là 'Brockenbores' trong văn b�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Brockenborings không chỉ là những đường hầm mà còn là một thị trấn lớn đúng nghĩa, với một quán trọ, một khu chợ, nhiều hang hobbit và trang trại ở phía bắc và phía đông. Nó nằm ở rìa phía đông của một khu rừng và ở rìa phía nam của <a href="../G/Greenfields.md" title="Greenfields">Greenfields</a>.</dd></dl>
 

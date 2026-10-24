@@ -307,11 +307,11 @@ Nguồn gốc Telerin của Celeborn sẽ khiến hai người trở thành anh 
 
 <dl><dd>Celeborn rời đi Valinor cùng với Galadriel và những Người Mang Nhẫn khác, thay vì ở lại phía sau như trong sách.</dd></dl>
 
-<b><a href="../_/2006.md" title="2006">2006</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b><a href="../_/2006.md" title="2006">2006</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Celeborn chỉ xuất hiện trong chiến dịch "Ác ma", khi ông bị giết bởi Lực lượng Sauron.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sau sự sụp đổ của <a href="../T/Thangorodrim.md" title="Thangorodrim">Thangorodrim</a>, Celeborn dành những năm đầu của <a href="../S/Second_Age.md" title="Second Age">Kỷ Đệ Nhị</a> để săn lùng những người hầu còn sống sót của <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>. Ông chạm trán với <a href="../S/Shelob.md" title="Shelob">Shelob</a> ở <a href="../E/Ephel_Dúath.md" title="Ephel Dúath">Ephel Dúath</a> và cuối cùng đã bẫy được bà bằng cách đặt Ánh sáng của <a href="../E/Eärendil.md" title="Eärendil">Eärendil</a> ở lối ra của <a href="../S/Shelob&#39;s_Lair.md" title="Shelob&#39;s Lair">Hang ổ của Shelob</a>, nhốt bà bên trong trong nhiều thế kỷ. :Trong đoạn hồi tưởng kéo dài mô tả <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">Cuộc chiến của Liên minh Cuối cùng</a>, Celeborn có thể được tìm thấy trong Echad-in-Edhil ở <a href="../M/Mordor.md" title="Mordor">Mordor</a> bên cạnh <a href="../A/Amroth.md" title="Amroth">Amroth</a>, Chúa tể của <a class="mw-redirect" href="../L/Lórien.md" title="Lórien">Lórien</a>.</dd></dl>
 

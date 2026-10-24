@@ -36,7 +36,7 @@ images:
 
 High Hay được trồng sau khi xây dựng [Buckland](../B/Buckland.md) ([T.A.](../T/Third_Age.md) [2340](../T/Third_Age_2340.md)) nhưng trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) nhiều thế hệ.
 
-Khi [Frodo](../F/Frodo_Baggins.md) và [những người hobbit du hành](../T/Travellers.md) của ông ta đi từ [Bag End](../B/Bag_End.md) đến [Rivendell](../R/Rivendell.md), [Merry](../M/Meriadoc_Brandybuck.md) kể rằng từ lâu, cây cối đã tấn công Hàng rào bằng cách trồng ngay cạnh nó và nghiêng qua nó. Để đáp trả, người Bucklanders đã chặt hàng trăm cây để đốt một đống lửa lớn ở [Bonfire Glade](../B/Bonfire_Glade.md) và đốt một dải đất dài cạnh Hay ở phía đông của nó.<sup id="cite_ref-Old_Forest_1-0" class="reference"><a href="#cite_note-Old_Forest-1">[1]</a></sup>
+Khi [Frodo](../F/Frodo_Baggins.md) và [những người hobbit du hành](../T/Travellers.md) của ông đi từ [Bag End](../B/Bag_End.md) đến [Rivendell](../R/Rivendell.md), [Merry](../M/Meriadoc_Brandybuck.md) kể rằng từ lâu, cây cối đã tấn công Hàng rào bằng cách trồng ngay cạnh nó và nghiêng qua nó. Để đáp trả, người Bucklanders đã chặt hàng trăm cây để đốt một đống lửa lớn ở [Bonfire Glade](../B/Bonfire_Glade.md) và đốt một dải đất dài cạnh Hay ở phía đông của nó.<sup id="cite_ref-Old_Forest_1-0" class="reference"><a href="#cite_note-Old_Forest-1">[1]</a></sup>
 
 ### Diện mạo {#Appearance}
 
@@ -46,7 +46,7 @@ Khi [Frodo](../F/Frodo_Baggins.md) và [những người hobbit du hành](../T/T
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_High_Hay.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/The_Lord_of_the_Rings_Online_-_High_Hay.jpg/250px-The_Lord_of_the_Rings_Online_-_High_Hay.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/The_Lord_of_the_Rings_Online_-_High_Hay.jpg/375px-The_Lord_of_the_Rings_Online_-_High_Hay.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/The_Lord_of_the_Rings_Online_-_High_Hay.jpg/500px-The_Lord_of_the_Rings_Online_-_High_Hay.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>The High Hay in ]<i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>High Hay tạo thành một vành đai bao quanh <a href="../B/Buckland.md" title="Buckland">Buckland</a> chỉ có hai lối đi: <a href="../B/Buckland_Gate.md" title="Buckland Gate">Buckland Cổng</a> và đường hầm dẫn vào chính <a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a>.</dd></dl>
 

@@ -69,7 +69,7 @@ Cái tên này có thể có nghĩa là "Con trai của Andy".<sup id="cite_ref-
 		</li>
 </ul>
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Anson Roper sống ở <a href="../T/Tighfield.md" title="Tighfield">Tighfield</a> và thực tế đang kinh doanh sản xuất dây thừng.</dd></dl>
 

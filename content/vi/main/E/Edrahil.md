@@ -59,7 +59,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Edrahil là thủ lĩnh của mười [Tiên tộc](Elves.md) vẫn trung thành với [Finrod Felagund](../F/Finrod.md) vào thời điểm ông lên đường cùng [Beren](../B/Beren.md) trên [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md). Ông chính là người đã nâng chiếc vương miện bị vứt xuống của Finrod và yêu cầu trao nó cho một người quản gia cho đến khi nhà vua quay trở lại. Sau đó, ông ta chết trong ngục tối của [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md), bị [người sói](../W/Werewolf.md) ăn thịt, cùng với những người bạn đồng hành của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Edrahil là thủ lĩnh của mười [Tiên tộc](Elves.md) vẫn trung thành với [Finrod Felagund](../F/Finrod.md) vào thời điểm ông lên đường cùng [Beren](../B/Beren.md) trên [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md). Ông chính là người đã nâng chiếc vương miện bị vứt xuống của Finrod và yêu cầu trao nó cho một người quản gia cho đến khi nhà vua quay trở lại. Sau đó, ông chết trong ngục tối của [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md), bị [người sói](../W/Werewolf.md) ăn thịt, cùng với những người bạn đồng hành của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

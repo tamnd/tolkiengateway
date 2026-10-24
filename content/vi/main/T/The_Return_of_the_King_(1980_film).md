@@ -171,7 +171,7 @@ Sau một thời gian tìm kiếm Frodo trong Núi Diệt Vong, Sam phát hiện
 - [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md) bị bỏ qua.
 - [Éomer](../_/Éomer.md) bị bỏ qua. Người tấn công bên sườn Théoden dẫn vào [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), sau đó sẽ có mặt trong [Cuộc tranh luận cuối cùng](../L/Last_Debate.md), và sau đó tấn công bên sườn Aragorn trong cuộc hành quân đến [Cổng Đen](../B/Black_Gate.md) có thể là Éomer.
 - [Faramir](../F/Faramir.md) bị bỏ qua. Một người đàn ông, có thể là Faramir, trao đổi ánh nhìn với [Éowyn](../_/Éowyn.md) trong lễ đăng quang của [Aragorn](../A/Aragorn.md).
-Sự thiếu sót của - Faramir có nghĩa là [Denethor](../D/Denethor.md) chỉ cố gắng tự sát. Denethor ra lệnh cho lính canh giúp đỡ ông ta và người ta không nhìn thấy ông ta nữa, có lẽ ông ta đã thành công trong nỗ lực tự sát.
+Sự thiếu sót của - Faramir có nghĩa là [Denethor](../D/Denethor.md) chỉ cố gắng tự sát. Denethor ra lệnh cho lính canh giúp đỡ ông và người ta không nhìn thấy ông nữa, có lẽ ông đã thành công trong nỗ lực tự sát.
 - Người [Nazgûl](../N/Nazgûl.md) cưỡi ngựa có cánh chứ không phải [Những con thú dữ](../F/Fell_beasts.md), ngoại trừ [Vua Phù thủy](../W/Witch-king.md) sau này cưỡi ngựa có cánh để chiến đấu Éowyn.
 - Thay vì bị [Vua Phù thủy](../W/Witch-king.md) tấn công và rơi xuống, [Snowmane](../S/Snowmane.md) lại giật mình khi thấy một đám mây đen đến từ [Mordor](../M/Mordor.md) và hất [Théoden](Théoden.md) ra khỏi lưng. Théoden chết do va chạm với mặt đất.
 - Những [Những lời tuyên thệ](../O/Oathbreakers.md) bị bỏ qua.

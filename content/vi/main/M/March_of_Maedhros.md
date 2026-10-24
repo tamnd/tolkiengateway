@@ -47,7 +47,7 @@ Khu vực này bao gồm nhiều dãy đồi và đồng bằng. Những ngọn 
 
 ## Lịch sử {#History}
 
-Nó được củng cố bởi Maedhros sau khi ông ta chuyển những người anh em của mình và người dân của họ xa hơn về phía đông ra khỏi [Hithlum](../H/Hithlum.md) để tránh bất kỳ mối thù nào với bà con của họ. Ông đã thành lập vào ngày Himring. Nó thường xuyên bị tấn công bởi lực lượng của Angband trong suốt [Kỷ Đệ Nhất](../F/First_Age.md) trong các Trận chiến Beleriand, nói chung là vì nó thiếu công sự tự nhiên, cho đến khi cuối cùng nó bị tràn ngập trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Nó được củng cố bởi Maedhros sau khi ông chuyển những người anh em của mình và người dân của họ xa hơn về phía đông ra khỏi [Hithlum](../H/Hithlum.md) để tránh bất kỳ mối thù nào với bà con của họ. Ông đã thành lập vào ngày Himring. Nó thường xuyên bị tấn công bởi lực lượng của Angband trong suốt [Kỷ Đệ Nhất](../F/First_Age.md) trong các Trận chiến Beleriand, nói chung là vì nó thiếu công sự tự nhiên, cho đến khi cuối cùng nó bị tràn ngập trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

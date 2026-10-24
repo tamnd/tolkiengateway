@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Eva_Maria_Toker_-_Roheryn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/eb/Eva_Maria_Toker_-_Roheryn.jpg/320px-Eva_Maria_Toker_-_Roheryn.jpg" decoding="async" loading="lazy" width="320" height="269" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/eb/Eva_Maria_Toker_-_Roheryn.jpg/480px-Eva_Maria_Toker_-_Roheryn.jpg 1.5x, https://tolkiengateway.net/w/images/e/eb/Eva_Maria_Toker_-_Roheryn.jpg 2x" data-file-width="586" data-file-height="492"/></a><figcaption>&#34;Roheryn&#34; by <a href="../../category/I/Images_by_Eva_Maria_Toker.md" title="Category:Images by Eva Maria Toker">Eva Maria Toker</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Horses.md" title="Horses">Ngựa</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Roheryn</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../A/Arnor.md" title="Arnor">Arnor</a>, <a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trực thuộc</th><td class="tg-infobox-data"><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Roheryn.md" title="Category:Images of Roheryn">Images of Roheryn</a></td></tr></tbody></table>
 
-**Roheryn** là [con ngựa](../H/Horses.md) của [Aragorn](../A/Aragorn.md), được [Rangers](Rangers_of_the_North.md) mang đến cho ông ta từ phía bắc trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và được cho là một món quà từ quý cô [Arwen Evenstar](../A/Arwen.md).<sup id="cite_ref-Appendix_2-0" class="reference"><a href="#cite_note-Appendix-2">[2]</a></sup>
+**Roheryn** là [con ngựa](../H/Horses.md) của [Aragorn](../A/Aragorn.md), được [Rangers](Rangers_of_the_North.md) mang đến cho ông từ phía bắc trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và được cho là một món quà từ quý cô [Arwen Evenstar](../A/Arwen.md).<sup id="cite_ref-Appendix_2-0" class="reference"><a href="#cite_note-Appendix-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -62,7 +62,7 @@ infobox:
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Roheryn có thể được tìm thấy ở chuồng ngựa ở <a href="Rivendell.md" title="Rivendell">Rivendell</a>.</dd></dl>
 

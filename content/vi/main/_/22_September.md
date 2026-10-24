@@ -95,7 +95,7 @@ Sự kiện xảy ra vào ngày 22 tháng Chín.
 - [T.A.](../T/Third_Age.md) [2968](../T/Third_Age_2968.md):
     - [Frodo Baggins](../F/Frodo_Baggins.md) ra đời.
 - [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md):
-    - [Bilbo](../B/Bilbo_Baggins.md) bước sang tuổi 111 và tổ chức [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md), tại đó ông thông báo ý định rời khỏi [ Shire](../T/The_Shire.md). Ông ta để lại [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và khởi hành<sup id="cite_ref-party_1-0" class="reference"><a href="#cite_note-party-1">[1]</a></sup> cùng với [Nar](<../N/Nar_(companion_of_Bilbo).md>), [Anar](<../A/Anar_(dwarf).md>) và [Hannar](../H/Hannar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+    - [Bilbo](../B/Bilbo_Baggins.md) bước sang tuổi 111 và tổ chức [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md), tại đó ông thông báo ý định rời khỏi [ Shire](../T/The_Shire.md). Ông để lại [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và khởi hành<sup id="cite_ref-party_1-0" class="reference"><a href="#cite_note-party-1">[1]</a></sup> cùng với [Nar](<../N/Nar_(companion_of_Bilbo).md>), [Anar](<../A/Anar_(dwarf).md>) và [Hannar](../H/Hannar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
     - [Frodo](../F/Frodo_Baggins.md) bước sang tuổi 33 và trưởng thành. Ông thừa kế [Bag End](../B/Bag_End.md) và tất cả những gì Bilbo để lại.<sup id="cite_ref-party_1-1" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
 - [T.A.](../T/Third_Age.md) [3002](../T/Third_Age_3002.md)
     - Frodo tổ chức sinh nhật và tôn vinh Bilbo trong “Bữa tiệc trăm cân” của ông, với 20 khách mời.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>

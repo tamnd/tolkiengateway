@@ -135,7 +135,7 @@ Trong một bản thảo ban đầu của chương "[The Steward and the King](.
 
 <dl><dd>Giọng của Ghân-buri-Ghân được cung cấp bởi Ján Króner.</dd></dl>
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ghân-buri-Ghân có hai con trai, đứa nhỏ là Khôr-buri-Ghân và đứa lớn nhất Bhai-buri-Ghân vừa bị <a href="../O/Orcs.md" title="Orcs">orc</a> giết chết, đó là động lực thúc đẩy anh ra tay giúp đỡ người ngoài. Người chơi là người đầu tiên khám phá ra Woses và sau một thời gian giành được sự tin tưởng của Ghân-buri-Ghân, chính người chơi sẽ dẫn ông đến công ty của Vua <a href="../T/Théoden.md" title="Théoden">Théoden</a>.</dd></dl>
 

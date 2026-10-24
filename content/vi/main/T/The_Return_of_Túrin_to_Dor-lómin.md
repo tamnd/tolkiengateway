@@ -57,6 +57,6 @@ Trong sâu thẳm mùa đông, [Túrin](Túrin.md) đội mũ trùm đầu và i
 
 Ở đó Túrin thách thức Brodda và rút ra [Anglachel](../A/Anglachel.md) đặt lưỡi đắng của nó vào cổ họng của Easterling; ông yêu cầu Aerin kể tất cả những gì bà biết về Morwen. Cô kể về sự áp bức đen tối của Brodda đối với Morwen và ngôi nhà của cô, đến mức cô đã bỏ trốn cách đây năm mùa, khi các vùng đất ở phía nam được giữ rộng mở và tự do nhờ sức mạnh của [Blacksword](../B/Black_Sword.md). Và Túrin cười khi kề thanh kiếm đó vào cổ họng Brodda.
 
-Sau đó Brodda bị giết khi Túrin ném ông ta và cổ ông ta bị gãy, đám nô lệ trong nhà nổi dậy và tất cả những người Phục sinh đều bị giết. Sau cơn thịnh nộ, Aerin cầu xin Túrin hãy nhanh chóng rời đi, vì nhiều [Những người đến](../I/Incomers.md), là họ hàng của Brodda, sẽ sớm đến; nhưng bản thân Aerin sẽ không đi cùng quân nổi dậy, vì bà vẫn ở lại đại sảnh và đốt nó khi Túrin đã rời đi.
+Sau đó Brodda bị giết khi Túrin ném ông và cổ ông bị gãy, đám nô lệ trong nhà nổi dậy và tất cả những người Phục sinh đều bị giết. Sau cơn thịnh nộ, Aerin cầu xin Túrin hãy nhanh chóng rời đi, vì nhiều [Những người đến](../I/Incomers.md), là họ hàng của Brodda, sẽ sớm đến; nhưng bản thân Aerin sẽ không đi cùng quân nổi dậy, vì bà vẫn ở lại đại sảnh và đốt nó khi Túrin đã rời đi.
 
 Phiến quân đã cắm trại suốt mùa đông tại một nơi trú ẩn trên núi, và Túrin để họ ở đó để anh đi tìm mẹ và em gái.

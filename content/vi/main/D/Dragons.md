@@ -216,7 +216,7 @@ Rồng cũng xuất hiện trong *[Letters from Father Christmas](../L/Letters_f
 
 <dl><dd><i>Dragon</i>, có khả năng thở ra lửa và bay, là kẻ thù mạnh mẽ của những người chơi giỏi.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[32]</a></sup> Trò chơi còn có <i>Cave Drake</i> dưới lòng đất, một con quái vật to lớn nhưng nhanh nhẹn và là kẻ thù tự nhiên của Người Lùn.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[33]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><i>Dragon-kind</i> bao gồm một số loại: <i>Cold-</i>, <i>Fire-</i> và <i>Shadow-drakes</i>, <i>Fire-worms</i>, <i>Rock-worms</i> và nhiều loại khác. Các loài thú liên quan bao gồm <i>salamander</i>, một giống rồng yếu hơn và đơn giản hơn, <i>dragonet</i> có kích thước lùn và <i>avanc</i> giống rùa.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[34]</a></sup></dd></dl>
 

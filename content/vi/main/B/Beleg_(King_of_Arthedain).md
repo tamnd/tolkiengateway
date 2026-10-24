@@ -65,7 +65,7 @@ Beleg cai trị [Arthedain](../A/Arthedain.md) trong 83 năm, và được con t
 
 ## Từ nguyên {#Etymology}
 
-*Beleg* là tên [Sindarin](../S/Sindarin.md). Nó có nghĩa là "lớn", "vĩ đại" hoặc "lớn",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> có thể ám chỉ đến tầm vóc của ông ta (mặc dù ông ta có thể đơn giản được đặt theo tên [Tiên](../E/Elves.md) nổi tiếng của [Kỷ Đệ Nhất](../F/First_Age.md) người có cùng tên này, [Beleg Strongbow](Beleg.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>).
+*Beleg* là tên [Sindarin](../S/Sindarin.md). Nó có nghĩa là "lớn", "vĩ đại" hoặc "lớn",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> có thể ám chỉ đến tầm vóc của ông (mặc dù ông có thể đơn giản được đặt theo tên [Tiên](../E/Elves.md) nổi tiếng của [Kỷ Đệ Nhất](../F/First_Age.md) người có cùng tên này, [Beleg Strongbow](Beleg.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>).
 
 ## Phả hệ {#Genealogy}
 

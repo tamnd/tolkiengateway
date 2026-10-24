@@ -45,7 +45,7 @@ infobox:
 
 Trong [F.A.](../F/First_Age.md) [472](../F/First_Age_472.md), trước [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), đội quân [Morgoth](../M/Morgoth.md) được cử đi rút quân [Fingon](../F/Fingon.md) đã được dàn dựng phía trên [Sirion](../S/Sirion.md), từ dòng Rivil tràn vào đến các bức tường của [Eithel Sirion](../E/Eithel_Sirion.md) ở phía bắc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong giai đoạn sau của Nirnaeth Arnoediad, Vua [Turgon](../T/Turgon.md) rút lui xuống [Đèo Sirion](../P/Pass_of_Sirion.md). Cuộc trốn thoát của ông ta thành công vì [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) hình thành một hậu quân sử dụng Rivil làm phòng thủ. Đoàn quân [Angband](../A/Angband.md) bắc cầu qua con suối bằng xác của những người đã chết. Huor bị giết bên cạnh Rivil và Húrin bị bắt.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong giai đoạn sau của Nirnaeth Arnoediad, Vua [Turgon](../T/Turgon.md) rút lui xuống [Đèo Sirion](../P/Pass_of_Sirion.md). Cuộc trốn thoát của ông thành công vì [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) hình thành một hậu quân sử dụng Rivil làm phòng thủ. Đoàn quân [Angband](../A/Angband.md) bắc cầu qua con suối bằng xác của những người đã chết. Huor bị giết bên cạnh Rivil và Húrin bị bắt.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

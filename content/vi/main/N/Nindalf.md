@@ -57,7 +57,7 @@ Vào [16 tháng 2](../_/16_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Th
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Có thể nhìn thấy Nindalf từ trên đỉnh Rauros và từ Miệng của Entwash ngang qua Anduin. Tuy nhiên, bản thân khu vực này không thể được khám phá.</dd></dl>
 

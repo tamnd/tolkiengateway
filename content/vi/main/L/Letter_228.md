@@ -39,7 +39,7 @@ Tolkien có thiện cảm với bất kỳ nhà xuất bản nước ngoài nào
 
 Tolkien không đồng ý rằng các Phụ lục mang lại cho tác phẩm một cái nhìn "có tính học thuật", tin rằng chúng đóng vai trò quan trọng trong việc tạo ra hiệu ứng tổng thể của một hiện thực lịch sử. Từ hàng trăm lá thư, có thể thấy rằng các Phụ lục đóng vai trò rất lớn trong việc tạo niềm vui cho người đọc và lôi kéo độc giả thư viện mua tác phẩm.
 
-Tolkien quan tâm đến doanh số bán sách bản tiếng Anh của ông ở những quốc gia đã xuất hiện bản dịch. Ông cảm thấy rằng bản gốc là sự bảo vệ duy nhất của ông trước các dịch giả vì ông không thể kiểm soát công việc của họ. Các dịch giả đã mắc phải những sai lầm rất kỳ lạ, vì ông ta sẽ ở trong hoàn cảnh của họ, làm việc dưới áp lực về thời gian có hạn.
+Tolkien quan tâm đến doanh số bán sách bản tiếng Anh của ông ở những quốc gia đã xuất hiện bản dịch. Ông cảm thấy rằng bản gốc là sự bảo vệ duy nhất của ông trước các dịch giả vì ông không thể kiểm soát công việc của họ. Các dịch giả đã mắc phải những sai lầm rất kỳ lạ, vì ông sẽ ở trong hoàn cảnh của họ, làm việc dưới áp lực về thời gian có hạn.
 
 Ví dụ: Tolkien chỉ ra cách dịch sai của Tiến sĩ Ohlmark<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> về “bàn chân của họ có đế bằng da cứng và được phủ một lớp lông xoăn dày”<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> là “bàn chân của họ có đế *lông*cứng và được phủ một lớp lông dày chữa bệnh”. Điều này tạo ra hình ảnh những người hobbit mặc trang phục có mái tóc rối với những chiếc đệm có đệm lông vũ, điều này càng trở nên lố bịch hơn vì Ohlmark cho rằng người hobbit được mô phỏng theo cư dân của Headington.
 
@@ -50,7 +50,7 @@ Mặc dù không phản đối thông tin tiểu sử nhưng ông tuyên bố r�
 ## Ghi chú {#Notes}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a> translated <i>The Lord of the Rings</i> into Swedish and added his own biographical article about Tolkien.  See <a href="Letter_229.md" title="Letter 229">Letter 229</a> for more of Tolkien&#39;s reaction to this article.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a> translated <i>The Lord of the Rings</i> into Swedish and added his own biographical article about Tolkien. See <a href="Letter_229.md" title="Letter 229">Letter 229</a> for more of Tolkien&#39;s reaction to this article.</span>
 </li>
 </ol></div>
 

@@ -37,7 +37,7 @@ infobox:
 
 *"Vì vậy, khi Eldacar kế vị cha mình, đã xảy ra chiến tranh ở Gondor. nhưng Eldacar không tỏ ra dễ dàng để thoát khỏi di sản của mình. Vào dòng dõi Gondor anh đã bổ sung thêm tinh thần dũng cảm của Người phương Bắc. Anh đẹp trai và dũng cảm, không hề có dấu hiệu già đi nhanh chóng hơn cha mình...*
 
-*Cuối cùng ông ta bị bao vây ở Osgiliath, và cầm cự được lâu, cho đến khi cái đói và lực lượng lớn hơn của quân nổi dậy đẩy ông ta ra ngoài, khiến thành phố chìm trong biển lửa. Trong cuộc bao vây và đốt cháy đó, Tháp Đá Osgiliath đã bị phá hủy, và palantír bị chìm trong nước."* - The Return of the King
+*Cuối cùng ông bị bao vây ở Osgiliath, và cầm cự được lâu, cho đến khi cái đói và lực lượng lớn hơn của quân nổi dậy đẩy ông ra ngoài, khiến thành phố chìm trong biển lửa. Trong cuộc bao vây và đốt cháy đó, Tháp Đá Osgiliath đã bị phá hủy, và palantír bị chìm trong nước."* - The Return of the King
 
 Trong trò chơi nhập vai, bạn đảm nhận vai một nhân vật trong cuốn tiểu thuyết "sống". Middle-earth Role Playing (MERP) và các sách nguồn đi kèm của nó cung cấp khuôn khổ cho việc nhập vai trong bối cảnh giả tưởng vĩ đại nhất mọi thời đại... Trung Địa của J.R.R. Tolkien.
 

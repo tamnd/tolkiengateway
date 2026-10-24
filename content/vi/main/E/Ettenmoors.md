@@ -135,7 +135,7 @@ Tên gọi *Ettenmoors* tương tự như vùng đất <a class="external text" 
 
 <dl><dd>Ettenmoors là quê hương của những <i><a href="Etten.md" title="Etten">Ettens</a></i> trông giống <a href="../H/Hill-trolls.md" title="Hill-trolls">Quỷ đồi</a> nhưng chúng sở hữu "không phải một mà là hai cái đầu dài".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ettenmoors là khu vực diễn ra cuộc chơi giữa Người chơi và Người chơi quái vật, đưa "Đội quân <a href="../A/Angmar.md" title="Angmar">Angmar</a>" chống lại "Đội quân Coldfells" của <a class="mw-redirect" href="../F/Free_Peoples.md" title="Free Peoples">Những người dân tự do</a>. Hai phe đều có một căn cứ chính mà phe đối lập không thể xâm nhập và một căn cứ phụ có thể bị tấn công nhưng không thể chiếm được. Giữa chúng là năm điểm kiểm soát chính: khu lưu giữ "Lugazag", "Tirith Rhaw" và "Tol Ascarnen", "Mỏ Isendeep" và "Trại gỗ Grimwood"; cũng như một số tiền đồn nhỏ hơn, tất cả đều có thể bị chiếm bởi một trong hai bên.</dd></dl>
 

@@ -33,7 +33,7 @@ Ngoài ra còn có các từ dành cho "cừu non": *eulë* ("cừu con nhỏ" l
 
 <dl><dd>Cừu được tìm thấy trên các cánh đồng xung quanh <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cừu được tìm thấy khắp <a href="../T/The_Shire.md" title="The Shire"> Shire</a> và <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>.</dd></dl>
 

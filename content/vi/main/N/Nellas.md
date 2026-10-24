@@ -60,9 +60,9 @@ Chính từ những lời dạy của Nellas mà Túrin đã học được [Dor
 
 Tuy nhiên, cuối cùng, khi Túrin trưởng thành, anh chuyển sự chú ý sang chiến tranh, và vì Nellas không muốn mạo hiểm dưới mái nhà bằng đá của [Menegroth](../M/Menegroth.md) nên Túrin cuối cùng đã ngừng gặp bà hoàn toàn. Tuy nhiên, Nellas vẫn tiếp tục theo dõi anh, mặc dù hiện tại cô vẫn ở ẩn.<sup id="cite_ref-Doriath_1-3" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
 
-Sau khi Túrin vô tình giết chết [Saeros](../S/Saeros.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> chính lời kể của Nellas đã giúp ông ta được Vua và cha nuôi [Thingol](../T/Thingol.md) tha thứ (mặc dù ông ta không biết điều này vì đã tự đày ải bản thân khỏi Doriath).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sau khi Túrin vô tình giết chết [Saeros](../S/Saeros.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> chính lời kể của Nellas đã giúp ông được Vua và cha nuôi [Thingol](../T/Thingol.md) tha thứ (mặc dù ông không biết điều này vì đã tự đày ải bản thân khỏi Doriath).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Một thời gian sau, khi [Beleg](../B/Beleg.md) đem tin được ân xá cho Túrin,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> ông ta dường như không nhớ nhiều về Nellas nên Beleg khiển trách ông ta.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Một thời gian sau, khi [Beleg](../B/Beleg.md) đem tin được ân xá cho Túrin,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> ông dường như không nhớ nhiều về Nellas nên Beleg khiển trách ông.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -54,7 +54,7 @@ Những [Uruks](../U/Uruk-hai.md), mang theo hai tù nhân ([Meriadoc Brandybuck
 
 Vào thời điểm ba bên đi đến thỏa thuận, các kỵ sĩ của [Rohan](../R/Rohan.md) đã bắt kịp Orc và Uruk (do không giết được một trong những trinh sát của họ) và truy đuổi họ xuyên qua Rohan. Trong cơn hoảng loạn, phần lớn Núi-Orc bỏ chạy về phía trước, nhưng bị suy nhược do ánh nắng chói chang và bị quân Isengarders bỏ mặc cho đến chết khi họ đến được mái hiên của [Rừng Fangorn](../F/Fangorn_Forest.md).
 
-Tại đó, Rohirrim phát động cuộc tấn công cuối cùng và tàn sát tất cả Orc và Uruk-hai có mặt. Bản thân Éomer đã đấu tay đôi với [Uglúk](../U/Uglúk.md), thủ lĩnh của Isengarders và giết chết ông ta.
+Tại đó, Rohirrim phát động cuộc tấn công cuối cùng và tàn sát tất cả Orc và Uruk-hai có mặt. Bản thân Éomer đã đấu tay đôi với [Uglúk](../U/Uglúk.md), thủ lĩnh của Isengarders và giết chết ông.
 
 ## Hậu quả {#Aftermath}
 

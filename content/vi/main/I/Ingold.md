@@ -75,7 +75,7 @@ Chưa đầy năm ngày sau khi Gandalf đi qua, một đội quân từ [phươ
 
 <dl><dd>Thẻ từ <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> xác định một trong các người Gondor của Minas Tirith là Ingold.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Lần đầu tiên Ingold gặp người bảo vệ cổng phía bắc của <a href="../R/Rammas_Echor.md" title="Rammas Echor">Ramas Echor</a>, nơi ông giao nhiệm vụ cho người chơi làm chậm bước tiến của kẻ thù và đẩy lùi các cuộc tấn công vào bức tường, nhưng cuối cùng phải rút lui về Minas Tirith. Sau sự sụp đổ của <a href="../S/Sauron.md" title="Sauron">Sauron</a>, anh trở thành một phần của đội quân Gondor có nhiệm vụ tiến vào Vùng đất đen và đối phó với cái ác còn sót lại bên trong. Sau khi Vua <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> giao cho Quản gia <a href="../F/Faramir.md" title="Faramir">Faramir</a> thanh tẩy tà ác <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>, Ingold và người của ông băng qua cao nguyên <a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a> và tiến vào <a href="../M/Morgul_Vale.md" title="Morgul Vale">Thung lũng Morgul</a> từ phía đông.</dd></dl>
 

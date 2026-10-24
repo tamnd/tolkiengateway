@@ -97,7 +97,7 @@ Nghĩa đen của *Ethraid Engrin* là "các khúc cạn bằng sắt" (*[ethrai
 		</li>
 </ul>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>Hai phiên bản khác nhau của Fords tồn tại trong trò chơi. Khi tiếp cận từ hướng <a href="../D/Dunland.md" title="Dunland">Dunland</a> ở phía tây, Fords bị giữ bởi lực lượng <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> do <a href="../G/Grimbold.md" title="Grimbold">Grimbold</a> chỉ huy để đề phòng <a href="First_Battle_of_the_Fords_of_Isen.md" title="First Battle of the Fords of Isen">Trận chiến thứ nhất của Fords Isen</a> mà người chơi tham gia. Khi tiếp cận từ hướng <a href="../W/Westfold.md" title="Westfold">Westfold</a> ở phía đông, Fords đang ở sau <a href="../S/Second_Battle_of_the_Fords_of_Isen.md" title="Second Battle of the Fords of Isen">Kỷ Đệ Nhị Trận chiến của Fords Isen</a>, với tất cả Rohirrim quân phòng thủ bị phân tán hoặc bị giết và <a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a> những kẻ cướp bóc đang lục soát thi thể của những người đã ngã xuống.</dd></dl>
 

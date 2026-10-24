@@ -42,7 +42,7 @@ Cuối cùng, [Sam](../S/Sam.md) bước vào, đứng ở ngưỡng cửa. Khi 
 
 ## Sự khác biệt {#Differences}
 
-Các sự kiện trong cảnh này tương ứng với các phần của chương [The Cánh đồng Cormallen](The_Field_of_Cormallen.md). Trong sách, các sự kiện được kể dưới góc nhìn của Sam, người thức dậy trên giường ở [Ithilien](../I/Ithilien.md) bên cạnh Frodo, với Gandalf trông chừng họ. Ông ta đã ngủ và thức dậy vào " [ngày 8 tháng 4](../_/8_April.md) ở [lịch Shire](../S/Shire-reckoning.md)", theo Gandalf. Hai hobbit được đoàn tụ với những thành viên còn lại của Hội đồng hành trong rừng, nơi Aragorn cúi đầu trước họ và ca ngợi họ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> (giống như ông làm trong cảnh sau, [The Return of the King](<The_Return_of_the_King_(scene).md>)).
+Các sự kiện trong cảnh này tương ứng với các phần của chương [The Cánh đồng Cormallen](The_Field_of_Cormallen.md). Trong sách, các sự kiện được kể dưới góc nhìn của Sam, người thức dậy trên giường ở [Ithilien](../I/Ithilien.md) bên cạnh Frodo, với Gandalf trông chừng họ. Ông đã ngủ và thức dậy vào " [ngày 8 tháng 4](../_/8_April.md) ở [lịch Shire](../S/Shire-reckoning.md)", theo Gandalf. Hai hobbit được đoàn tụ với những thành viên còn lại của Hội đồng hành trong rừng, nơi Aragorn cúi đầu trước họ và ca ngợi họ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> (giống như ông làm trong cảnh sau, [The Return of the King](<The_Return_of_the_King_(scene).md>)).
 
 ## Ghi chú {#Notes}
 

@@ -42,7 +42,7 @@ Yếu tố *-barton*, phổ biến trong các địa danh tiếng Anh ([tiếng 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Oatbarton nằm trong khu vực <a href="../E/Evendim.md" title="Evendim">Evendim</a> trong trò chơi, ngay bên ngoài khu vực Shire, mặc dù đây chỉ là sự khác biệt về lối chơi. Đây là một thị trấn nông nghiệp với trang trại Northcotton lớn nhất nằm ngay phía tây thị trấn. <a href="../H/Halfast_Gamgee.md" title="Halfast Gamgee">Halfast Gamgee</a> sống ở Oatbarton.</dd></dl>
 

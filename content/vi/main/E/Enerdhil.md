@@ -53,7 +53,7 @@ Tuy nhiên, theo một truyền thuyết khác, Elessar ban đầu vẫn ở bê
 
 Trong ghi chú cuối cùng, Enerdhil đã được thay thế hoàn toàn, với cả Elessar thứ nhất và thứ hai đều được thực hiện bởi Celebrimbor.<sup id="cite_ref-Elessar_1-3" class="reference"><a href="#cite_note-Elessar-1">[1]</a></sup>
 
-Việc có thể có hai Elessars khiến Enerdhil phù hợp với thần thoại, vì cái đầu tiên có thể do ông ta tạo ra và [cái thứ hai](Elfstone.md) bởi Celebrimbor, tuy nhiên ngay cả điều này cũng chưa được giải quyết rõ ràng.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Việc có thể có hai Elessars khiến Enerdhil phù hợp với thần thoại, vì cái đầu tiên có thể do ông tạo ra và [cái thứ hai](Elfstone.md) bởi Celebrimbor, tuy nhiên ngay cả điều này cũng chưa được giải quyết rõ ràng.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Xem thêm {#See_also}
 

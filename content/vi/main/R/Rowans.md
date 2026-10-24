@@ -34,7 +34,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gỗ của cây này có thể được khai thác bởi những người học nghề lâm nghiệp ở <a href="../S/Swanfleet.md" title="Swanfleet">Swanfleet</a>, <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>, <a href="../T/The_Shire.md" title="The Shire">The Shire</a> và <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

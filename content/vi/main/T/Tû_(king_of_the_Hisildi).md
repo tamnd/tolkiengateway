@@ -58,7 +58,7 @@ Ký tự ban đầu được gọi là *Túvo*, trước khi được đổi th�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản trước của câu chuyện, Tû (được gọi là *Túvo* trong văn bản đó) được cho là đã gặp Melko tại [đại sảnh của Mandos](../H/Halls_of_Mandos.md) trong thời gian Melko bị giam giữ và bị ông ta làm hư hỏng. Túvo được cho là đã học được "nhiều [ma thuật](../M/Magic.md) đen tối" từ Melko, và sau [sự tối tăm của Valinor](../D/Darkening_of_Valinor.md), ông ta đã đến Great Lands nơi ông ta thiết lập một "vương quyền phù thủy".<sup id="cite_ref-Glo_5-1" class="reference"><a href="#cite_note-Glo-5">[5]</a></sup>
+Trong các phiên bản trước của câu chuyện, Tû (được gọi là *Túvo* trong văn bản đó) được cho là đã gặp Melko tại [đại sảnh của Mandos](../H/Halls_of_Mandos.md) trong thời gian Melko bị giam giữ và bị ông làm hư hỏng. Túvo được cho là đã học được "nhiều [ma thuật](../M/Magic.md) đen tối" từ Melko, và sau [sự tối tăm của Valinor](../D/Darkening_of_Valinor.md), ông đã đến Great Lands nơi ông thiết lập một "vương quyền phù thủy".<sup id="cite_ref-Glo_5-1" class="reference"><a href="#cite_note-Glo-5">[5]</a></sup>
 
 Tuy nhiên, trong các văn bản sau này, nhân vật Tû đã mất đi những ý nghĩa tiêu cực này,<sup id="cite_ref-Glo_5-2" class="reference"><a href="#cite_note-Glo-5">[5]</a></sup> và thay vào đó trở thành người bảo vệ Tiên tộc và Con Người.<sup id="cite_ref-Thu_3-1" class="reference"><a href="#cite_note-Thu-3">[3]</a></sup>
 

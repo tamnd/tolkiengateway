@@ -18,7 +18,7 @@ images:
 
 Vào [21 tháng 6](../_/21_June.md) [1971](../_/1971.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Brian Miller](../B/Brian_Miller.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Mô tả:** lá thư dài 1 trang, được đánh máy (có thể do thư ký của ông ta) và ký tên trên tiêu đề thư do Tolkien cung cấp cho [George Allen &amp; Unwin](../G/George_Allen_and_Unwin.md).
+- **Mô tả:** lá thư dài 1 trang, được đánh máy (có thể do thư ký của ông) và ký tên trên tiêu đề thư do Tolkien cung cấp cho [George Allen &amp; Unwin](../G/George_Allen_and_Unwin.md).
 
 ## Nội dung {#Contents}
 

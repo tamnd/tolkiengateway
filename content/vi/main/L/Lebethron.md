@@ -40,7 +40,7 @@ Theo một nguồn sau này, *lebethron* là một từ [Númenórean Sindarin](
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gỗ của cây này có thể được khai thác bởi những người thợ rừng thủ công ở <a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a>, <a href="../E/Evendim.md" title="Evendim">Evendim</a>, <a href="../A/Angmar.md" title="Angmar">Angmar</a>, <a href="Lone-lands.md" title="Lone-lands">Vùng đất đơn độc</a> và <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

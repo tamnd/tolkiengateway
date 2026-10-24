@@ -87,7 +87,7 @@ Phiên bản trước đó của thứ sau này trở thành Appendix A và phi�
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Towers_of_the_Teeth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/43/The_Lord_of_the_Rings_Online_-_Towers_of_the_Teeth.jpg/150px-The_Lord_of_the_Rings_Online_-_Towers_of_the_Teeth.jpg" decoding="async" loading="lazy" width="150" height="185" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/43/The_Lord_of_the_Rings_Online_-_Towers_of_the_Teeth.jpg/225px-The_Lord_of_the_Rings_Online_-_Towers_of_the_Teeth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/43/The_Lord_of_the_Rings_Online_-_Towers_of_the_Teeth.jpg/300px-The_Lord_of_the_Rings_Online_-_Towers_of_the_Teeth.jpg 2x" data-file-width="878" data-file-height="1080"/></a><figcaption>Tháp Răng trong <i>The Lord of the Rings Online</i> (Narchhost ở nền trước)</figcaption></figure>
 
-<b><a href="../_/2017.md" title="2017">2017</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2017.md" title="2017">2017</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cả Narchhost và Carchhost đều bị người chơi xâm nhập với sự trợ giúp của Rangers ngay trước Trận chiến Cổng Đen. Các tòa tháp được kết nối bằng một đường hầm dưới lòng đất như một phần của mạng lưới hố và hố lớn tồn tại bên dưới Morannon.</dd></dl>
 

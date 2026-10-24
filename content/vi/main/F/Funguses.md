@@ -84,7 +84,7 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 <dl><dd><b>Norrog</b> là một loại nấm hang màu nâu sưng húp, có vị chát. Ngay cả khi không chuẩn bị trước, một số ít cũng có thể nuôi sống Con người trong một ngày. Được chuẩn bị đúng cách, nó sẽ tăng cường sức sống và mang lại khả năng phục hồi. Orc thường dùng mùi vị của nó để che giấu chất độc.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong trò chơi, nhiều sinh vật, phổ biến nhất là <a href="../O/Orcs.md" title="Orcs">Orc-loại</a>, <a href="../S/Spiders.md" title="Spiders">Nhện</a> và <a href="../T/Trolls.md" title="Trolls">Troll</a>, bị nhiễm nấm từ <a class="external text" href="https://lotro-wiki.com/wiki/Foundations_of_Stone" rel="noreferrer noopener" target="_blank">Nền tảng Đá</a>. Những sinh vật này được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Globsnaga&amp;action=edit&amp;redlink=1" title="Globsnaga (page does not exist)">Globsnaga</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></dd></dl>
 

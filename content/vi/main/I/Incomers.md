@@ -21,7 +21,7 @@ langlinks:
 
 **Những người đến** đề cập đến [Easterling](<../E/Easterlings_(First_Age).md>) những kẻ tiếm quyền cai trị vùng đất [Dor-lómin](../D/Dor-lómin.md) được [Morgoth](../M/Morgoth.md) cấp cho họ sau sự phản bội của họ trong [Trận chiến của những giọt nước mắt không đếm được](../N/Nirnaeth_Arnoediad.md). Đó là một thuật ngữ được sử dụng bởi tàn dư của [Nhà Hador](../H/House_of_Hador.md) còn lại là nông nô và nô lệ dưới sự chuyên chế của [Brodda](../B/Brodda.md) của Nhà [Ulfang](../U/Ulfang.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Quý cô [Aerin](../A/Aerin.md) đã sử dụng thuật ngữ này trong cuộc gặp với [Túrin](../T/Túrin.md) [Mormegil](../M/Mormegil.md) sau khi ông ta cướp phá Sảnh Brodda.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Quý cô [Aerin](../A/Aerin.md) đã sử dụng thuật ngữ này trong cuộc gặp với [Túrin](../T/Túrin.md) [Mormegil](../M/Mormegil.md) sau khi ông cướp phá Sảnh Brodda.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

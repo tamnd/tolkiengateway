@@ -37,7 +37,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Chiếc [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) đi ngang qua bờ nơi có [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md) đứng. Aragorn yêu cầu dừng lại, tuyên bố không được vào [Gondor](../G/Gondor.md). Họ cười nhạo ông ta và hỏi "Anh là ai mà từ chối cho chúng tôi đi qua?" Aragorn bảo Legolas bắn cảnh cáo, Gimli huých vào mũi [Legolas](../B/Bow_of_the_Galadhrim.md). Mũi tên trúng vào những người đàn ông và Gimli bảo họ chuẩn bị lên máy bay. Người cầm đầu cười và hỏi: "Anh và quân của ai". Aragorn trả lời, "Đội quân này" và [Những kẻ vi phạm lời thề](../O/Oathbreakers.md) bước ra khỏi núi và tấn công con tàu.
+Chiếc [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) đi ngang qua bờ nơi có [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md), [Gimli](../G/Gimli.md) đứng. Aragorn yêu cầu dừng lại, tuyên bố không được vào [Gondor](../G/Gondor.md). Họ cười nhạo ông và hỏi "Anh là ai mà từ chối cho chúng tôi đi qua?" Aragorn bảo Legolas bắn cảnh cáo, Gimli huých vào mũi [Legolas](../B/Bow_of_the_Galadhrim.md). Mũi tên trúng vào những người đàn ông và Gimli bảo họ chuẩn bị lên máy bay. Người cầm đầu cười và hỏi: "Anh và quân của ai". Aragorn trả lời, "Đội quân này" và [Những kẻ vi phạm lời thề](../O/Oathbreakers.md) bước ra khỏi núi và tấn công con tàu.
 
 ## Sự khác biệt {#Differences}
 

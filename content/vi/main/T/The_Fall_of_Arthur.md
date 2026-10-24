@@ -158,7 +158,7 @@ Trong [tiểu sử Tolkien](../J/J.R.R._Tolkien%253A_A_Biography.md) năm 1977 c
 
 Sách có một số lỗi chính tả:
 
-- Theo Nelson Goering tại nhóm facebook của Hiệp hội Tolkien: "ở dòng 182, chúng ta biết rằng 'hosemen đã vội vã'. Bây giờ tôi đang tự hỏi vai trò của người quản lý vòi là gì. Có lẽ đó là một loại cận vệ, người đi cùng hiệp sĩ của mình để đảm bảo ông ta luôn có chiếc quần sạch sẽ, khô ráo, được ủi kỹ. Hoặc có lẽ đó là thứ gì đó cao quý hơn, một trật tự hiệp sĩ cao được đánh dấu bằng chiếc quần ống rộng thanh lịch của họ".<sup id="cite_ref-Facebook_6-0" class="reference"><a href="#cite_note-Facebook-6">[6]</a></sup>
+- Theo Nelson Goering tại nhóm facebook của Hiệp hội Tolkien: "ở dòng 182, chúng ta biết rằng 'hosemen đã vội vã'. Bây giờ tôi đang tự hỏi vai trò của người quản lý vòi là gì. Có lẽ đó là một loại cận vệ, người đi cùng hiệp sĩ của mình để đảm bảo ông luôn có chiếc quần sạch sẽ, khô ráo, được ủi kỹ. Hoặc có lẽ đó là thứ gì đó cao quý hơn, một trật tự hiệp sĩ cao được đánh dấu bằng chiếc quần ống rộng thanh lịch của họ".<sup id="cite_ref-Facebook_6-0" class="reference"><a href="#cite_note-Facebook-6">[6]</a></sup>
 
 - Nelson Goering cũng cho biết "Canto II, dòng 76 bị viết sai. Nó nói 'Ông vội vã về nhà, và lệnh triệu tập của chủ nhà', nhưng phải là 'Ông vội vã về nhà, / và lệnh triệu tập của chủ nhà'".<sup id="cite_ref-Facebook_6-1" class="reference"><a href="#cite_note-Facebook-6">[6]</a></sup>
 

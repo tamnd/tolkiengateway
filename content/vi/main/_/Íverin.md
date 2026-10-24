@@ -43,7 +43,7 @@ infobox:
 
 Trong Faring Forth, một cuộc thám hiểm vĩ đại của [Tiên tộc](../E/Elves.md) Tol Eressëa nhằm giải cứu đồng loại của họ ở [Great Lands](../G/Great_Lands.md), hòn đảo Tol Eressëa đã được kéo qua [Đại dương](../B/Belegaer.md) từ Phương Tây và thả neo gần bờ của Great Lands.
 
-[Vala](../V/Valar.md) [Ossë](../O/Ossë.md), tức giận vì việc nhổ bỏ hòn đảo mà chính ông ta đã đặt vào vị trí của nó từ Phương Tây cách đây nhiều năm, đã cố gắng kéo nó trở lại [Valinor](../V/Valinor.md). Tuy nhiên, hòn đảo đã tan rã và phần phía tây của nơi từng là Tol Eressëa trở thành hòn đảo của riêng nó, được Tiên tộc đặt tên là Íverin, nhưng cuối cùng được *Ireland* gọi là [Con Người](../M/Men.md).<sup id="cite_ref-Osse_3-1" class="reference"><a href="#cite_note-Osse-3">[3]</a></sup>
+[Vala](../V/Valar.md) [Ossë](../O/Ossë.md), tức giận vì việc nhổ bỏ hòn đảo mà chính ông đã đặt vào vị trí của nó từ Phương Tây cách đây nhiều năm, đã cố gắng kéo nó trở lại [Valinor](../V/Valinor.md). Tuy nhiên, hòn đảo đã tan rã và phần phía tây của nơi từng là Tol Eressëa trở thành hòn đảo của riêng nó, được Tiên tộc đặt tên là Íverin, nhưng cuối cùng được *Ireland* gọi là [Con Người](../M/Men.md).<sup id="cite_ref-Osse_3-1" class="reference"><a href="#cite_note-Osse-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

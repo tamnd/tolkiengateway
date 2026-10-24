@@ -63,7 +63,7 @@ Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu c�
 
 <dl><dd>Gollum ném con cá có tên "Xiphiidae" vào <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> Nó trở thành vũ khí nguy hiểm nhất của Aragorn. Xiphiidae là cá kiếm. Cá kiếm là loài cá nước mặn, nhưng ở đây vấn đề đó bị bỏ qua.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Trực tuyến: Bóng tối của Angmar</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">The Lord of the Rings Online: Bóng tối của Angmar</a></i>:</b>
 
 <dl><dd>Trong cuốn thứ mười ba, "Doom of the Last-Vua", câu cá đã trở thành một "sở thích", trò tiêu khiển của người chơi.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 

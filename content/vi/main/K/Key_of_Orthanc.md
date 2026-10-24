@@ -44,7 +44,7 @@ Theo thời gian, trong khi vẫn giữ chìa khóa của Orthanc, các Quản g
 
 Một tuần trước [22 tháng 8](../_/22_August.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> khi [Vua Elessar](../A/Aragorn.md) và công ty đến Orthanc, Saruman đã khởi hành Isengard cùng với [Gríma Wormtongue](../G/Gríma.md). Tuy nhiên, trước khi rời đi, [Treebeard](../T/Treebeard.md) bắt anh khóa tháp và giao chìa khóa của Orthanc.<sup id="cite_ref-Partings_1-1" class="reference"><a href="#cite_note-Partings-1">[1]</a></sup>
 
-Sau sự sụp đổ của [Sauron](../S/Sauron.md), một trong những nhiệm vụ đầu tiên của [Vua Elessar](../A/Aragorn.md) trong việc sắp xếp lại vương quốc của mình là khôi phục Orthanc. Ông ta ra lệnh rằng *[palantír](../P/Palantíri.md)* được thu hồi từ Saruman phải được trả lại cho tòa tháp. Có quyền truy cập bằng chìa khóa Orthanc, tòa tháp đã bị khám xét và nhiều bí mật được tiết lộ.<sup id="cite_ref-Isen_4-2" class="reference"><a href="#cite_note-Isen-4">[4]</a></sup> <span></span>
+Sau sự sụp đổ của [Sauron](../S/Sauron.md), một trong những nhiệm vụ đầu tiên của [Vua Elessar](../A/Aragorn.md) trong việc sắp xếp lại vương quốc của mình là khôi phục Orthanc. Ông ra lệnh rằng *[palantír](../P/Palantíri.md)* được thu hồi từ Saruman phải được trả lại cho tòa tháp. Có quyền truy cập bằng chìa khóa Orthanc, tòa tháp đã bị khám xét và nhiều bí mật được tiết lộ.<sup id="cite_ref-Isen_4-2" class="reference"><a href="#cite_note-Isen-4">[4]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -26,11 +26,11 @@ Nokes đã nấu ăn đầy đủ, một phần vì ông đã quan sát Alf làm
 
 Chắt của Nokes là [Tim of Townsend](../T/Tim_of_Townsend.md), người mà [Smith Smithson](../S/Smith_Smithson.md) đã chọn trở thành người tiếp theo sau mình nhận được ngôi sao Fay. Smith cho rằng Tim khá khác biệt so với ông cố của mình, Alf cũng chia sẻ quan điểm này.
 
-Ở tuổi sáu mươi Nokes nghỉ hưu, ngày càng béo và lười biếng. Gần cuối tuổi tám mươi, Alf ghé qua khi Nokes đang gật gù trên ghế sau bữa tối. Nokes đã nói chuyện với Alf về ngôi sao Fay đã biến mất khỏi Great Cake của ông vì ông đã bận tâm về nó suốt nhiều năm. Sau khi đoán sai về người đã nuốt ngôi sao, Alf nói với anh rằng con trai người thợ rèn đã làm như vậy, điều mà Nokes không tin. Thay vào đó ông ta buộc tội Alf đã bóp nát ngôi sao trước khi chiếc Bánh được nướng.
+Ở tuổi sáu mươi Nokes nghỉ hưu, ngày càng béo và lười biếng. Gần cuối tuổi tám mươi, Alf ghé qua khi Nokes đang gật gù trên ghế sau bữa tối. Nokes đã nói chuyện với Alf về ngôi sao Fay đã biến mất khỏi Great Cake của ông vì ông đã bận tâm về nó suốt nhiều năm. Sau khi đoán sai về người đã nuốt ngôi sao, Alf nói với anh rằng con trai người thợ rèn đã làm như vậy, điều mà Nokes không tin. Thay vào đó ông buộc tội Alf đã bóp nát ngôi sao trước khi chiếc Bánh được nướng.
 
-Alf sau đó nói với ông già thô lỗ rằng ông ta là một kẻ lừa đảo già vô dụng, mập mạp, nhàn rỗi và ranh mãnh. Nokes nổi giận trước lời khiển trách của Alf, và trịch thượng nói rằng nếu Alf có bất kỳ người bạn thần tiên nào trong bếp thì người đó nên đến vẫy cây đũa phép nhỏ của mình và khiến ông gầy đi trở lại. Alf sau đó tiết lộ rằng ông là Vua của Thần tiên. Run rẩy, Nokes cầu xin Alf đừng làm hại mình. Alf sau đó đã chấp nhận điều ước được gầy đi của Nokes và đưa ông ta vào giấc ngủ.
+Alf sau đó nói với ông già thô lỗ rằng ông là một kẻ lừa đảo già vô dụng, mập mạp, nhàn rỗi và ranh mãnh. Nokes nổi giận trước lời khiển trách của Alf, và trịch thượng nói rằng nếu Alf có bất kỳ người bạn thần tiên nào trong bếp thì người đó nên đến vẫy cây đũa phép nhỏ của mình và khiến ông gầy đi trở lại. Alf sau đó tiết lộ rằng ông là Vua của Thần tiên. Run rẩy, Nokes cầu xin Alf đừng làm hại mình. Alf sau đó đã chấp nhận điều ước được gầy đi của Nokes và đưa ông vào giấc ngủ.
 
-Khi tỉnh dậy, Nokes quyết định rằng mình đã có một giấc mơ khủng khiếp. Lo sợ nhiều hơn những giấc mơ như vậy, Nokes hầu như không dám ăn và sớm sụt cân. Da và quần áo của ông ta treo lủng lẳng trên người ông ta và bọn trẻ gọi ông ta là Thằng Già Xương. Do sụt cân nên Nokes đã sống được rất lâu, vừa tròn một thế kỷ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi tỉnh dậy, Nokes quyết định rằng mình đã có một giấc mơ khủng khiếp. Lo sợ nhiều hơn những giấc mơ như vậy, Nokes hầu như không dám ăn và sớm sụt cân. Da và quần áo của ông treo lủng lẳng trên người ông và bọn trẻ gọi ông là Thằng Già Xương. Do sụt cân nên Nokes đã sống được rất lâu, vừa tròn một thế kỷ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -57,7 +57,7 @@ Khi tỉnh dậy, Nokes quyết định rằng mình đã có một giấc mơ k
 
 ## Cảm hứng {#Inspiration}
 
-Truyện ngắn *Smith of Wootton Major* được Tolkien hình thành khi đang cố gắng viết lời giới thiệu cho cuốn sách của [George MacDonald](../G/George_MacDonald.md). Khi [Clyde S. Kilby](../C/Clyde_S._Kilby.md) hỏi Tolkien liệu câu chuyện có đề cập đến MacDonald không, ông ta phủ nhận, nhưng Kilby nhận thấy rằng Old Nokes có thể đại diện cho quan điểm Tolkien của MacDonald: nhân vật chỉ quan tâm đến việc làm cho bọn trẻ vui vẻ với những công thức nấu ăn cũ và một nữ hoàng cổ tích làm bằng đường, bỏ qua ý nghĩa thực sự của ngôi sao trong chiếc bánh hoặc gặp gỡ Nữ hoàng Tiên thực sự.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Truyện ngắn *Smith of Wootton Major* được Tolkien hình thành khi đang cố gắng viết lời giới thiệu cho cuốn sách của [George MacDonald](../G/George_MacDonald.md). Khi [Clyde S. Kilby](../C/Clyde_S._Kilby.md) hỏi Tolkien liệu câu chuyện có đề cập đến MacDonald không, ông phủ nhận, nhưng Kilby nhận thấy rằng Old Nokes có thể đại diện cho quan điểm Tolkien của MacDonald: nhân vật chỉ quan tâm đến việc làm cho bọn trẻ vui vẻ với những công thức nấu ăn cũ và một nữ hoàng cổ tích làm bằng đường, bỏ qua ý nghĩa thực sự của ngôi sao trong chiếc bánh hoặc gặp gỡ Nữ hoàng Tiên thực sự.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

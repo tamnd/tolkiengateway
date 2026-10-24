@@ -68,7 +68,7 @@ Hướng đi và vị trí của Morthond đã thay đổi rất nhiều trong q
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Morthond bắt nguồn từ chính <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Con đường của Người chết</a>, từ đó chảy ra <a href="../B/Blackroot_Vale.md" title="Blackroot Vale">Blackroot Vale</a>. Sau khi chảy qua một loạt thác nước, nó chảy qua một khu vực được gọi là "<a href="../T/Tarlang.md" title="Tarlang">Vương miện của Tarlang</a>" trước khi nhập vào <a href="../R/Ringló.md" title="Ringló">Ringló</a>.</dd></dl>
 

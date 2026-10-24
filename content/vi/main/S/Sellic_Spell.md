@@ -28,9 +28,9 @@ Nhân vật chính trong Sellic Spell có tên là Beewolf, cái tên được c
 
 ## Câu chuyện và nhân vật {#Story_and_Characters}
 
-Beewolf đáng chú ý ở chỗ ông ta không sử dụng kiếm hoặc rìu, thích vật lộn với kẻ thù của mình, cho đến sau chiến thắng trước Grinder và mẹ ông ta, ông ta cuối cùng đã nhận món quà là một thanh kiếm do Unfriend chế tạo từ nhà vua.
+Beewolf đáng chú ý ở chỗ ông không sử dụng kiếm hoặc rìu, thích vật lộn với kẻ thù của mình, cho đến sau chiến thắng trước Grinder và mẹ ông, ông cuối cùng đã nhận món quà là một thanh kiếm do Unfriend chế tạo từ nhà vua.
 
-Trong Sellic Spell, Beewolf đến để chiến đấu với Grinder cùng với hai chiến binh khác: Handshoe và Ashwood, và mỗi người lần lượt thay nhau ngủ trong hành lang. Handshoe và Ashwood đều bị giết, nhưng Beewolf, người cuối cùng trong ba người thực hiện được chiến công, vật lộn với Grinder và làm gãy cánh tay của ông ta.
+Trong Sellic Spell, Beewolf đến để chiến đấu với Grinder cùng với hai chiến binh khác: Handshoe và Ashwood, và mỗi người lần lượt thay nhau ngủ trong hành lang. Handshoe và Ashwood đều bị giết, nhưng Beewolf, người cuối cùng trong ba người thực hiện được chiến công, vật lộn với Grinder và làm gãy cánh tay của ông.
 
 Sellic Spell cũng khác với phiên bản Beowulf của câu chuyện ở chỗ trong bản chỉnh sửa cuối cùng của câu chuyện Tolkien, mẹ của Grinder không đến hội trường để trả thù cho con trai mình: thay vào đó, Beewolf đi theo Grinder đến hang ổ của hắn và tìm thấy cô ở đó. Bà được mô tả là một mụ phù thủy chiến đấu bằng bùa chú.
 

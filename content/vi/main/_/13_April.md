@@ -77,5 +77,5 @@ Sự kiện xảy ra vào ngày 13 tháng 4.
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) di chuyển về phía [Trường Celebrant](../F/Field_of_Celebrant.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Vào buổi sáng [Gandalf](../G/Gandalf.md) kiểm tra Chiếc nhẫn của [Bilbo](../B/Bilbo_Baggins.md) và xác định từ dòng chữ trên đó rằng đó là [Chiếc nhẫn duy nhất](../T/The_One_Ring.md). Ông ta kể cho [Frodo](../F/Frodo_Baggins.md) về [lịch sử của Chiếc nhẫn](../T/The_One_Ring.md#History) và Frodo tình nguyện rời khỏi [ Shire](../T/The_Shire.md) để bảo vệ Chiếc nhẫn.
+    - Vào buổi sáng [Gandalf](../G/Gandalf.md) kiểm tra Chiếc nhẫn của [Bilbo](../B/Bilbo_Baggins.md) và xác định từ dòng chữ trên đó rằng đó là [Chiếc nhẫn duy nhất](../T/The_One_Ring.md). Ông kể cho [Frodo](../F/Frodo_Baggins.md) về [lịch sử của Chiếc nhẫn](../T/The_One_Ring.md#History) và Frodo tình nguyện rời khỏi [ Shire](../T/The_Shire.md) để bảo vệ Chiếc nhẫn.
     - [Samwise Gamgee](../S/Samwise_Gamgee.md) bị bắt quả tang Gandalf nghe lén và (vui vẻ) buộc phải đi cùng Frodo.

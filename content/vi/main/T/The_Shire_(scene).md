@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Gandalf vào [Shire](../S/Shire.md), hát lời bài hát "[The Road Goes Ever On](<The_Road_Goes_Ever_On_(song).md>)". Ông ta bị phục kích bởi [Frodo](../F/Frodo.md), kẻ đang háo hức chờ đợi Gandalf đến. Gandalf tiến sâu hơn vào Shire, đi tới [Hobbiton](../H/Hobbiton.md). Frodo thông báo cho Gandalf về các sự kiện gần đây, chẳng hạn như hành vi gây rắc rối của Bilbo.
+Gandalf vào [Shire](../S/Shire.md), hát lời bài hát "[The Road Goes Ever On](<The_Road_Goes_Ever_On_(song).md>)". Ông bị phục kích bởi [Frodo](../F/Frodo.md), kẻ đang háo hức chờ đợi Gandalf đến. Gandalf tiến sâu hơn vào Shire, đi tới [Hobbiton](../H/Hobbiton.md). Frodo thông báo cho Gandalf về các sự kiện gần đây, chẳng hạn như hành vi gây rắc rối của Bilbo.
 
 Trong phiên bản mở rộng, Bilbo có một cơn hoảng loạn ngắn ngủi khi nghĩ rằng mình đã đánh mất <a class="mw-redirect mw-disambig" href="../R/Ring.md" title="Ring">Chiếc nhẫn</a>, chỉ để phát hiện ra nó nằm trong túi của mình. Lời tường thuật của Bilbo từ cảnh trước cũng hoàn tất.
 

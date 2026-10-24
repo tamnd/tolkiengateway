@@ -152,7 +152,7 @@ Hơn nữa, khái niệm này dường như còn dựa trên những hòn đảo
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
 <dl><dd><b>September 1: <i><a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">A Shadow of the Past</a></i>:</b>
-<dl><dd>Valinor được hiển thị ở đoạn mở đầu. Trong cảnh này, nhân vật đứng ở tiền cảnh là <a href="../F/Finrod.md" title="Finrod">Finrod</a>, nhìn qua một thành phố tráng lệ có thể là <a href="Valimar.md" title="Valimar">Valimar</a>, trong khi ở hậu cảnh có thể nhìn thấy <a class="mw-redirect" href="../T/Two_Trees.md" title="Two Trees">Hai Cây</a> với ánh sáng bao la.</dd></dl></dd></dl>
+<dl><dd>Valinor xuất hiện trong phân cảnh mở đầu. Trong cảnh này, nhân vật đứng ở tiền cảnh là <a href="../F/Finrod.md" title="Finrod">Finrod</a>, đang ngắm nhìn một thành phố tráng lệ, có thể là <a href="Valimar.md" title="Valimar">Valimar</a>, trong khi ở hậu cảnh có thể thấy <a class="mw-redirect" href="../T/Two_Trees.md" title="Two Trees">Hai Cây</a> tỏa ra ánh sáng rực rỡ.</dd></dl></dd></dl>
 
 <span></span>
 

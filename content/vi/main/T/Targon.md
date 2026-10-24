@@ -74,7 +74,7 @@ Targon làm việc tại nhà kho và xưởng bơ cho [Đội Cận vệ Thành
 
 <dl><dd>Một thẻ từ <i><a href="The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i> xác định một trong những người lính Gondor đi cùng <a href="../F/Faramir.md" title="Faramir">Faramir</a> là Targon.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Targon có thể được tìm thấy ở cấp độ thứ sáu của trận chiến <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>. Ông không có lời thoại và không đóng vai trò gì trong cốt truyện.</dd></dl>
 

@@ -191,11 +191,11 @@ Trong một đoạn bị loại bỏ khỏi Lời tựa của *[The End of Bovad
 
 <dl><dd>Người khổng lồ bằng đá là những sinh vật giống golem xuất hiện ở cấp độ thứ tư, ném đá vào Bilbo khi ông cố gắng di chuyển dọc theo con đường núi. Chúng hoàn toàn được làm bằng đá và đá của chúng rất nguy hiểm.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>"Người khổng lồ núi" là những sinh vật to lớn và mạnh mẽ trong phe Yêu tinh, với làn da có vảy màu nâu. Họ có thể ném đá ở khoảng cách rất xa và đóng vai trò là đơn vị pháo binh của phe.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một số bộ tộc khổng lồ xuất hiện trong trò chơi, bao gồm <i>Stone-giants</i>, Yêu tinh (còn được gọi là Jorthkyn hoặc Người đất) và Người khổng lồ băng. Trong khi một số là sinh vật của kẻ thù, một số khác vẫn giữ thái độ trung lập và có thể kết bạn với người chơi.</dd></dl>
 

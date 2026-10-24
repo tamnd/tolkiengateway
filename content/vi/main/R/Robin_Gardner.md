@@ -37,7 +37,7 @@ Robin Gardner là con thứ mười hai của [Samwise Gamgee](../S/Samwise_Gamg
 
 ## Từ nguyên {#Etymology}
 
-<i><a class="extiw" href="http://en.wikipedia.org/wiki/Robin" title="wikipedia:Robin">Robin</a></i> là một loại chim. Ông ta có thể được đặt theo tên của [Robin Smallburrow](Robin_Smallburrow.md).
+<i><a class="extiw" href="http://en.wikipedia.org/wiki/Robin" title="wikipedia:Robin">Robin</a></i> là một loại chim. Ông có thể được đặt theo tên của [Robin Smallburrow](Robin_Smallburrow.md).
 
 <span></span>
 

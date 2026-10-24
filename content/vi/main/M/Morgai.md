@@ -82,7 +82,7 @@ Vào [15 tháng 3](../_/15_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third
 		</li>
 </ul>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Người Morgai tách đồng bằng "Talath Urui" về phía đông khỏi thung lũng "Lhingris" nằm giữa Morgai và <a href="../E/Ephel_Dúath.md" title="Ephel Dúath">Ephel Dúath</a>.</dd></dl>
 

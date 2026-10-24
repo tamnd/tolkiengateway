@@ -196,7 +196,7 @@ Là họ hàng xa của Thorin Oakenshield, Dori là anh cả trong số các an
 
 <dl><dd>Dori có bộ râu dài màu nâu không có ria mép. Ông không xuất hiện trong trò chơi cho đến <a href="../L/Lake-town.md" title="Lake-town">Thị trấn Hồ</a>, mặc dù ông có thể được nhìn thấy trên cây linh sam với Bilbo, giống như cảnh trong sách.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dori là một nhân vật không thể chơi được, là "Người tìm kiếm tích trữ cao" chính thức của <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>. Ông bị bắt cùng với những viên đá quý mà ông mang đến Người Lùn của Othrikar bởi Dourhands. Người chơi phải giải cứu ông trong Tập I, Quyển III, Chương 4 "Giải phóng Dori". Ông cũng xuất hiện trong dòng nhiệm vụ Giới thiệu Người Lùn, tại Cổng của Thorin. Mãi về sau, sau sự kiện Sự sụp đổ của <a href="../S/Sauron.md" title="Sauron">Sauron</a>, ông được tìm thấy ở nhiều nơi khác nhau trong Erebor và dẫn đầu một đoàn thám hiểm vào <a href="../G/Grey_Mountains.md" title="Grey Mountains">Ered Mithrin</a> để cứu anh trai mình <a href="../N/Nori.md" title="Nori">Nori</a>.</dd></dl>
 

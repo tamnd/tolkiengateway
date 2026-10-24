@@ -50,7 +50,7 @@ A *hayward* là cán bộ địa phương có nhiệm vụ kiểm tra hàng rào
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Found at the <a href="../B/Buckland_Gate.md" title="Buckland Gate">Gate of Buckland</a>, Shirriff Hob Hayward asks the player to invetigate a disturbance within the <a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>.</dd></dl>
 

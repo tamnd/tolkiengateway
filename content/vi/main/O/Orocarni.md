@@ -53,7 +53,7 @@ Tên *Orocarni* là [Quenya](../Q/Quenya.md) và được dịch là 'Red Dãy N
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thiếu quyền đối với tên "Orocarni", trò chơi có đề cập đến "Ered Cernin", một dãy núi ở phương Đông là quê hương của các gia tộc <a href="../I/Ironfists.md" title="Ironfists">Zhélruka</a> và <a href="../S/Stonefoots.md" title="Stonefoots">Abnúzhu</a> của Người Lùn.</dd></dl>
 

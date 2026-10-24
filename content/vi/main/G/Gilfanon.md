@@ -57,7 +57,7 @@ Tên trước đây của ông là <i><b>Ailios</b></i>, tên này hầu như đ
 
 Theo một bản phác thảo, Gilfanon yêu cầu Eriol viết ra tất cả những câu chuyện mà ông đã nghe trong Tol Eressëa trước khi uống [limpë](../L/Limpë.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Christopher giải thích rằng điều này và tất cả các chi tiết về Gilfanon (như là một trong [Noldoli](../N/Noldoli.md)) đều khớp với [Pengolodh](../P/Pengolodh.md), vì vậy Gilfanon sẽ là nguồn gốc văn học của ông.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Trong [đoạn văn xuôi theo sau Lost Tales](../P/Prose_Fragments_Following_the_Lost_Tales.md), có một [Gilfanon](<Gilfanon_(elf_of_Alqaluntë).md>) được đề cập là Tiên của [Alqaluntë](../A/Alqaluntë.md), nhưng Christopher chắc chắn rằng ông ta không thể là Gilfanon của [Tavrobel](../T/Tavrobel.md), nên có lẽ Tolkien đã đổi tên.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong [đoạn văn xuôi theo sau Lost Tales](../P/Prose_Fragments_Following_the_Lost_Tales.md), có một [Gilfanon](<Gilfanon_(elf_of_Alqaluntë).md>) được đề cập là Tiên của [Alqaluntë](../A/Alqaluntë.md), nhưng Christopher chắc chắn rằng ông không thể là Gilfanon của [Tavrobel](../T/Tavrobel.md), nên có lẽ Tolkien đã đổi tên.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

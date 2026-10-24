@@ -80,7 +80,7 @@ Người ta cho rằng [Bucklebury Ferry](Bucklebury_Ferry.md) nằm cách Cầu
 		</li>
 </ul>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cầu Brandywine là một điểm mốc trong Bridgefields. Nói chuyện với một nhân vật gần cây cầu sẽ bắt đầu nhiệm vụ "Câu chuyện về những thủy thủ bị đắm tàu".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 

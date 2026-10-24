@@ -149,7 +149,7 @@ Cũng có khả năng ông là con trai của một nhân vật được cho là
 
 <dl><dd>Trò chơi điện tử này có cả <a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a> và <a href="Glorfindel.md" title="Glorfindel">Glorfindel</a>. Tom dường như không biết gì về việc Frodo mang theo Chiếc nhẫn, nhưng Glorfindel thì biết - ông được Elrond cử đi. Elrond đã nhận được một tin nhắn, nhưng tin nhắn này đến từ ai thì vẫn chưa được tiết lộ.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gildor xuất hiện ngắn gọn trong phần giới thiệu Hobbit về <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">Shadows of Angmar</a></i> điều khiển <a href="../N/Nazgûl.md" title="Nazgûl">Kỵ Sĩ Đen</a> trong <a href="../T/The_Shire.md" title="The Shire">the Shire</a>. Ông cũng xuất hiện tại ngôi làng hobbit <a href="../T/Tighfield.md" title="Tighfield">Tighfield</a>, giao lưu với trẻ em trong làng.</dd>
 <dd>Sau này ông cũng là người đại diện cho Tiên tộc cho Hội đồng của miền Bắc trong cuốn sách thứ ba về <i>Shadows of Angmar</i>: "The Hội đồng của miền Bắc". Bên cạnh cốt truyện hoành tráng, người chơi có thể tìm thấy ông ở nơi ẩn náu Tiên Lin Giliath gần Esteldín trong <a href="../N/North_Downs.md" title="North Downs">North Downs</a>.</dd></dl>

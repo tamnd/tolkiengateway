@@ -37,7 +37,7 @@ infobox:
 
 Tin tức đến lúc Tolkien đang vội nên anh không cảm ơn họ sớm hơn.
 
-Nếu biết “bom tấn” sớm hơn Tolkien cho biết ông đã nghiêm túc suy nghĩ đến việc nghỉ hưu vào tháng 7 sắp tới và sẽ từ chối thêm hai năm nữa. Bây giờ ông ta sẽ bị phạt vì tiếp tục làm việc, tương đương với mức lương của ông ta, trừ khi người đại diện thuế thu nhập của ông ta tỏ ra u ám quá mức về khoản tiền mới này. Ngoài ra, trong thời gian còn tại chức, thực tế là không thể tiếp tục *[The Silmarillion](../T/The_Silmarillion.md)*. Nó đã không hoạt động kể từ mùa thu năm ngoái mặc dù anh hy vọng sẽ quay lại với nó vào cuối tháng Sáu. Ông cũng bị ốm và mắc chứng viêm khớp khiến việc ngồi lâu rất đau đớn.
+Nếu biết “bom tấn” sớm hơn Tolkien cho biết ông đã nghiêm túc suy nghĩ đến việc nghỉ hưu vào tháng 7 sắp tới và sẽ từ chối thêm hai năm nữa. Bây giờ ông sẽ bị phạt vì tiếp tục làm việc, tương đương với mức lương của ông, trừ khi người đại diện thuế thu nhập của ông tỏ ra u ám quá mức về khoản tiền mới này. Ngoài ra, trong thời gian còn tại chức, thực tế là không thể tiếp tục *[The Silmarillion](../T/The_Silmarillion.md)*. Nó đã không hoạt động kể từ mùa thu năm ngoái mặc dù anh hy vọng sẽ quay lại với nó vào cuối tháng Sáu. Ông cũng bị ốm và mắc chứng viêm khớp khiến việc ngồi lâu rất đau đớn.
 
 Mặc dù đau khổ vì bị tước đoạt nhiều năm nhưng Tolkien vẫn thấy phấn chấn trước báo cáo bán hàng, cho cả bản thân anh và cho Allen và Unwin. Ông nói rằng họ đã tử tế và kiên nhẫn và nếu không có sự khuyến khích của họ *The Lord of the Rings* thì bản thảo vẫn là một đống. Có rất nhiều điều để nói về "những hình thức thành công văn học thô thiển hơn" như một nhà phê bình chế nhạo đã nói về trường hợp "thô thiển hơn" của một tác giả khác. <br>
 

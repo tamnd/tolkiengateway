@@ -40,7 +40,7 @@ Vào ngày 5 tháng 5, [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một con đường chạy từ <a href="../F/Forannest.md" title="Forannest">Cổng Bắc</a> của <a href="../R/Rammas_Echor.md" title="Rammas Echor">Rammas Echor</a> đến <a href="../G/Great_Gates.md" title="Great Gates">Cổng Lớn</a> của <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> nhưng không được xác định tên.</dd></dl>
 

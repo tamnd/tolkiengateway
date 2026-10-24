@@ -41,7 +41,7 @@ Như trong [Rushey](../R/Rushey.md), phần cuối <i><a class="extiw" href="htt
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đảo Girdley từng là ngọn đồi dẫn đường của <a href="../A/Arnor.md" title="Arnor">Arnor</a>, nhưng đã bị bỏ hoang sau khi <a href="../T/The_Shire.md" title="The Shire">Shire</a> được thành lập. Nó nằm ở biên giới với khu vực trong trò chơi <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>. Mặc dù được xác định là một điểm ưa thích nhưng không có nhiệm vụ nào diễn ra ở đó cũng như không có kẻ thù nào.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

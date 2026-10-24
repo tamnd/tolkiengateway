@@ -134,7 +134,7 @@ Cả <a class="extiw" href="http://en.wikipedia.org/wiki/Roland" title="wikipedi
 
 <dl><dd>Denethor lấy lại quyền sở hữu chiếc Sừng và đưa nó cho <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Sừng của Gondor là một trong những sức mạnh của Boromir. Nó làm suy yếu các đơn vị địch ở gần.<sup id="cite_ref-bfme_21-0" class="reference"><a href="#cite_note-bfme-21">[21]</a></sup></dd></dl>
 

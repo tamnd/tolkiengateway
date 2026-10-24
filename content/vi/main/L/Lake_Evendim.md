@@ -73,7 +73,7 @@ Hồ Evendim là bản dịch của [Sindarin](../S/Sindarin.md) *Nenuial*, ngh�
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Evendim.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_Online_-_Evendim.jpg/300px-The_Lord_of_the_Rings_Online_-_Evendim.jpg" decoding="async" loading="lazy" width="300" height="177" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_Online_-_Evendim.jpg/450px-The_Lord_of_the_Rings_Online_-_Evendim.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_Online_-_Evendim.jpg/600px-The_Lord_of_the_Rings_Online_-_Evendim.jpg 2x" data-file-width="836" data-file-height="492"/></a><figcaption>Evendim in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mặc dù có thể bơi qua nhưng việc di chuyển nhanh qua Hồ Evendim (nằm ở vùng <a href="../E/Evendim.md" title="Evendim">Evendim</a>) được cung cấp bởi một số người chèo thuyền.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 

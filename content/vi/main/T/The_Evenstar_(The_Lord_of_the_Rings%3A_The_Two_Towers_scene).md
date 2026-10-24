@@ -46,7 +46,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Đêm trên hành trình từ [Edoras](../E/Edoras.md) đến [Helm's Deep](../H/Helm's_Deep.md), [Aragorn](../A/Aragorn.md) ngồi hút tẩu, trầm ngâm. Cảnh chuyển sang cảnh hồi tưởng Aragorn nằm trên giường trong [Rivendell](../R/Rivendell.md). Nhìn thấy Arwen ngồi phía trên mình, ông ta tuyên bố cảnh tượng đó là một giấc mơ. Mỉm cười, Arwen trả lời chắc hẳn đó là một giấc mơ đẹp và cúi xuống khi họ trao nhau nụ hôn sâu. Sau khi tách ra, họ nhìn vào mắt nhau, Arwen bảo anh đi ngủ, hôn anh lần nữa rồi đứng dậy khỏi giường ngắm hoàng hôn. Tuy nhiên, Aragorn không thể ngủ được và thay vào đó nói với bà "Em đã từng nói với anh rằng ngày này sẽ đến." Đáp lại, cô nói với anh rằng con đường của anh là đi cùng với [Frodo](../F/Frodo.md). Khi họ đứng cùng nhau, ông bày tỏ sự không chắc chắn của mình. Cô chạm vào [ngôi sao chẵn](../E/Elfstone.md) đeo trên cổ anh và an ủi anh khi anh nghi ngờ.
+Đêm trên hành trình từ [Edoras](../E/Edoras.md) đến [Helm's Deep](../H/Helm's_Deep.md), [Aragorn](../A/Aragorn.md) ngồi hút tẩu, trầm ngâm. Cảnh chuyển sang cảnh hồi tưởng Aragorn nằm trên giường trong [Rivendell](../R/Rivendell.md). Nhìn thấy Arwen ngồi phía trên mình, ông tuyên bố cảnh tượng đó là một giấc mơ. Mỉm cười, Arwen trả lời chắc hẳn đó là một giấc mơ đẹp và cúi xuống khi họ trao nhau nụ hôn sâu. Sau khi tách ra, họ nhìn vào mắt nhau, Arwen bảo anh đi ngủ, hôn anh lần nữa rồi đứng dậy khỏi giường ngắm hoàng hôn. Tuy nhiên, Aragorn không thể ngủ được và thay vào đó nói với bà "Em đã từng nói với anh rằng ngày này sẽ đến." Đáp lại, cô nói với anh rằng con đường của anh là đi cùng với [Frodo](../F/Frodo.md). Khi họ đứng cùng nhau, ông bày tỏ sự không chắc chắn của mình. Cô chạm vào [ngôi sao chẵn](../E/Elfstone.md) đeo trên cổ anh và an ủi anh khi anh nghi ngờ.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Ae ú-esteliach nad... estelio han. Estelio ammen. <br/> (Nếu bạn không tin gì khác... hãy tin vào điều này. Hãy tin tưởng chúng tôi.)
@@ -58,7 +58,7 @@ Aragorn nắm lấy tay cô và họ hôn nhau.
 
 Đoạn hồi tưởng kết thúc và Aragorn đang bước qua [Rohan](../R/Rohan.md) với [Éowyn](../_/Éowyn.md), ngôi sao chẵn treo trên cổ ông. Éowyn hỏi anh về người phụ nữ đã tặng anh viên ngọc.
 
-Aragorn nhớ lại việc nói chuyện với [Elrond](../E/Elrond.md) trước khi khởi hành từ Rivendell với [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md). Elrond van xin anh hãy để Arwen đi đến Valinor nơi tình yêu của cô dành cho anh sẽ trường tồn mãi mãi. Aragorn chỉ ra rằng nó sẽ chỉ là bộ nhớ ở đó. Elrond nghiêm khắc nói với Aragorn rằng ông sẽ không để con gái mình [chết](../G/Gift_of_Men.md). Aragorn nghỉ phép Elrond và chuẩn bị tham gia Học bổng. Arwen xuất hiện từ một con đường phụ và hỏi tại sao ông ta lại cố gắng rời đi mà không bị chú ý. Ông nói với bà rằng ông sẽ không quay lại.
+Aragorn nhớ lại việc nói chuyện với [Elrond](../E/Elrond.md) trước khi khởi hành từ Rivendell với [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md). Elrond van xin anh hãy để Arwen đi đến Valinor nơi tình yêu của cô dành cho anh sẽ trường tồn mãi mãi. Aragorn chỉ ra rằng nó sẽ chỉ là bộ nhớ ở đó. Elrond nghiêm khắc nói với Aragorn rằng ông sẽ không để con gái mình [chết](../G/Gift_of_Men.md). Aragorn nghỉ phép Elrond và chuẩn bị tham gia Học bổng. Arwen xuất hiện từ một con đường phụ và hỏi tại sao ông lại cố gắng rời đi mà không bị chú ý. Ông nói với bà rằng ông sẽ không quay lại.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Tôi đang làm điều đó với bạn. Hae o auth...a nîr...a naeth. <br/> (Bạn có cơ hội cho một cuộc sống khác. Tránh xa chiến tranh...nỗi đau...tuyệt vọng.) <br/><br/> Tôi là phàm nhân. Bạn thật Tiên-tốt bụng.
@@ -66,6 +66,6 @@ Aragorn nhớ lại việc nói chuyện với [Elrond](../E/Elrond.md) trước
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> to <a href="../A/Arwen.md" title="Arwen">Arwen</a></cite></p>
 </blockquote>
 
-Anh nói với cô rằng tình yêu của họ không gì khác hơn là một giấc mơ và cố gắng trả lại ngôi sao chẵn cho cô. Cô nói rằng cô không tin ông ta và kiên quyết yêu cầu ông ta giữ viên ngọc, nói rằng đó là một món quà.
+Anh nói với cô rằng tình yêu của họ không gì khác hơn là một giấc mơ và cố gắng trả lại ngôi sao chẵn cho cô. Cô nói rằng cô không tin ông và kiên quyết yêu cầu ông giữ viên ngọc, nói rằng đó là một món quà.
 
 Đoạn hồi tưởng kết thúc và Éowyn tách Aragorn khỏi ký ức của ông. Anh trả lời câu hỏi trước đó của cô bằng cách nói với cô rằng người phụ nữ đã tặng anh viên ngọc đang đi đến [Valinor](../V/Valinor.md) cùng với [họ hàng của bà](../E/Elves.md).

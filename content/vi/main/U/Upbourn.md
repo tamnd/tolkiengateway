@@ -55,7 +55,7 @@ Như [Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý, *up-* được sử dụng 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayals_in_Adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>Upbourn là một ngôi làng nhỏ nằm ngay phía bắc <a href="Underharrow.md" title="Underharrow">Underharrow</a> và được cai trị bởi <a href="../D/Dúnhere.md" title="Dúnhere">Dúnhere</a>, Lãnh chúa của <a href="../H/Harrowdale.md" title="Harrowdale">Harrowdale</a>. Điều bất thường đối với trò chơi là nó không có NPC nhà cung cấp cũng như người giao nhiệm vụ và ngoài một chuyến thăm ngắn ngủi của người chơi không có vai trò gì trong cốt truyện.</dd></dl>
 

@@ -46,8 +46,8 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) nằm bất động vào ban đêm, dường như đang ngủ trong [Emyn Muil](../E/Emyn_Muil.md) khi [Gollum](../G/Gollum.md) bò xuống vách đá về phía họ. Ông ta gọi họ là kẻ trộm và nói "họ đã đánh cắp [nó](The_One_Ring.md) từ chúng tôi!" Khi anh đến gần họ, hai người hobbit lao tới và tóm lấy anh. Ông ta chống trả một cách ác độc cho đến khi Frodo rút [Sting](../S/Sting.md) và giữ nó vào cổ họng Gollum, khiến ông ta ngừng chiến đấu với những người Hobbit.
+[Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) nằm bất động vào ban đêm, dường như đang ngủ trong [Emyn Muil](../E/Emyn_Muil.md) khi [Gollum](../G/Gollum.md) bò xuống vách đá về phía họ. Ông gọi họ là kẻ trộm và nói "họ đã đánh cắp [nó](The_One_Ring.md) từ chúng tôi!" Khi anh đến gần họ, hai người hobbit lao tới và tóm lấy anh. Ông chống trả một cách ác độc cho đến khi Frodo rút [Sting](../S/Sting.md) và giữ nó vào cổ họng Gollum, khiến ông ngừng chiến đấu với những người Hobbit.
 
-Cảnh chuyển sang ngày, trong đó Frodo và Sam dẫn đầu Gollum bởi [dây thừng Tiên](../E/Elven_rope~74291.md) mà họ gắn quanh cổ ông. Ông ta hét lên trong đau đớn, nói rằng vết bỏng và " [Tiên tộc](../E/Elves.md) khó chịu đã vặn nó", và cầu xin họ cởi nó ra khỏi ông ta; ông ta thề trên chiếc nhẫn "sẽ phục vụ chủ nhân của vật quý giá". Sam không tin nhưng Frodo chấp nhận điều này, tháo sợi dây ra khỏi cổ Gollum và bảo ông ta dẫn họ đến [Cổng Đen](../B/Black_Gate.md).
+Cảnh chuyển sang ngày, trong đó Frodo và Sam dẫn đầu Gollum bởi [dây thừng Tiên](../E/Elven_rope~74291.md) mà họ gắn quanh cổ ông. Ông hét lên trong đau đớn, nói rằng vết bỏng và " [Tiên tộc](../E/Elves.md) khó chịu đã vặn nó", và cầu xin họ cởi nó ra khỏi ông; ông thề trên chiếc nhẫn "sẽ phục vụ chủ nhân của vật quý giá". Sam không tin nhưng Frodo chấp nhận điều này, tháo sợi dây ra khỏi cổ Gollum và bảo ông dẫn họ đến [Cổng Đen](../B/Black_Gate.md).
 
-Gollum chạy qua Emyn Muil, tranh cãi với chính mình về việc quay lại Mordor. Ngay khi Sam tin rằng mình đã bỏ chạy, Gollum xuất hiện trở lại với hai hobbit và bảo họ đi theo ông ta.
+Gollum chạy qua Emyn Muil, tranh cãi với chính mình về việc quay lại Mordor. Ngay khi Sam tin rằng mình đã bỏ chạy, Gollum xuất hiện trở lại với hai hobbit và bảo họ đi theo ông.

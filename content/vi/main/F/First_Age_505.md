@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Biết [Silmaril](../S/Silmaril.md) nằm trong [Doriath](../D/Doriath.md), [các Con trai của Fëanor](../S/Sons_of_Fëanor.md) tổ chức hội đồng; [Maedhros](../M/Maedhros.md) kiềm chế anh em của mình.<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
-- [Vua](../K/King_of_Doriath.md) [Dior](../D/Dior.md) nhận được một tin nhắn, trong đó yêu cầu trả lại Viên ngọc để sở hữu [Nhà Fëanor](../H/House_of_Fëanor.md), nhưng ông ta không đưa ra câu trả lời.<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Vua](../K/King_of_Doriath.md) [Dior](../D/Dior.md) nhận được một tin nhắn, trong đó yêu cầu trả lại Viên ngọc để sở hữu [Nhà Fëanor](../H/House_of_Fëanor.md), nhưng ông không đưa ra câu trả lời.<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

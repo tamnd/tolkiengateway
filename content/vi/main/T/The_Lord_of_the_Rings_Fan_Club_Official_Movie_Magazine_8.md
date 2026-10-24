@@ -64,7 +64,7 @@ infobox:
 - **32** NGƯỜI DODGER NGHỆ THUẬT - Phỏng vấn Billy Boyd.
     - Bàn trà trong tay, nam diễn viên người Scotland đã nói chuyện rất lâu với chúng tôi về công việc của ông trong The Lord of the Rings - dự án phim lớn đầu tiên của ông - bao gồm nhiều tình bạn lâu dài có được từ thời ông tham gia New Zealand và việc ông đảm nhận mối quan hệ giữa Merry, Pippin và Treebeard.
 - **42** NGƯỜI ĐÀN ÔNG MẶT NẠ SẮT
-    - Sala Baker người New Zealand đã rất vui mừng khi The Lord of the Rings các nhà làm phim loại ông ta khỏi hàng ngũ diễn viên đóng thế và diễn viên "nền" để đe dọa Sauron, nhân vật phản diện cuối cùng của bộ ba phim.
+    - Sala Baker người New Zealand đã rất vui mừng khi The Lord of the Rings các nhà làm phim loại ông khỏi hàng ngũ diễn viên đóng thế và diễn viên "nền" để đe dọa Sauron, nhân vật phản diện cuối cùng của bộ ba phim.
 - **48** VẬT PHẨM - Tiên Vũ khí và Áo giáp
     - Vũ khí và áo giáp được tạo ra cho các chiến binh Tiên The Fellowship of the Ring và The Two Towers nổi bật với sự khởi sắc giàu trí tưởng tượng và sự chú ý tỉ mỉ đến từng chi tiết, đánh dấu mọi thứ do Richard Taylor và Weta Workshop tạo ra.
 - **60** The Lord of the Rings NGƯỜI Kể Chuyện

@@ -56,6 +56,6 @@ Vairë bắt đầu một câu chuyện riêng có tựa đề *The Haven of the
 
 *Sự dệt nên Ngày, Tháng và Năm*: [Danuin](../D/Danuin.md) (Ngày), [Ranuin](../R/Ranuin.md) (Tháng) và [Fanuin](../F/Fanuin.md) (Năm) - con trai của [Aluin](../A/Aluin.md), Thời gian, người lớn tuổi nhất [Ainur](../A/Ainur.md), người ở bên ngoài thế giới - xuất hiện trong Valinor và lần lượt tạo ra những sợi dây vô hình để ràng buộc, Mặt Trời, Mặt Trăng và cả Mặt Trời và Mặt Trăng. Những sợi dây làm cho Mặt Trời và Mặt Trăng chuyển động đều đặn, và họ đưa dây cho Manwë Súlimo. Valar lo ngại rằng thời gian được đo lường và mọi thứ sẽ đi đến hồi kết.
 
-Một lời tiên tri cuối cùng nói rằng Melko sẽ tìm cách khiến [Ilinsor](../I/Ilinsor.md) và [Urwendi](../U/Urwendi.md) chống lại nhau và khiến họ biến mất sau cánh cổng, nhưng [Fionwë Úrion](../F/Fionwë.md) (con trai của Manwë), người yêu Urwendi, sẽ đánh bại ông ta.
+Một lời tiên tri cuối cùng nói rằng Melko sẽ tìm cách khiến [Ilinsor](../I/Ilinsor.md) và [Urwendi](../U/Urwendi.md) chống lại nhau và khiến họ biến mất sau cánh cổng, nhưng [Fionwë Úrion](../F/Fionwë.md) (con trai của Manwë), người yêu Urwendi, sẽ đánh bại ông.
 
 <br>

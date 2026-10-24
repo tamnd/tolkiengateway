@@ -36,7 +36,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Là trinh sát từ [Lothlórien](../L/Lothlórien.md), ông là anh trai của chiến binh Idrial. Ông ta, cùng với một công ty nhỏ, được cử từ Lórien để điều tra các hoạt động của [Orc](../O/Orcs.md) ở biên giới vương quốc của họ. Anh chạm trán với một nhóm bốn người — một người lùn, hai người đàn ông và em gái của ông ta — trong rãnh [Eastemnet](../E/Eastemnet.md) và hỗ trợ họ chống lại [Uruk-hai](../U/Uruk-hai.md) của [Saruman](../S/Saruman.md), cũng như giải cứu một đại đội cận vệ hoàng gia khỏi [Rohan](../R/Rohan.md). Khi đến biên giới của vùng đất này, Aranel rời công ty nhưng lưu ý với Idrial rằng họ sẽ đoàn tụ trong tương lai.
+Là trinh sát từ [Lothlórien](../L/Lothlórien.md), ông là anh trai của chiến binh Idrial. Ông, cùng với một công ty nhỏ, được cử từ Lórien để điều tra các hoạt động của [Orc](../O/Orcs.md) ở biên giới vương quốc của họ. Anh chạm trán với một nhóm bốn người — một người lùn, hai người đàn ông và em gái của ông — trong rãnh [Eastemnet](../E/Eastemnet.md) và hỗ trợ họ chống lại [Uruk-hai](../U/Uruk-hai.md) của [Saruman](../S/Saruman.md), cũng như giải cứu một đại đội cận vệ hoàng gia khỏi [Rohan](../R/Rohan.md). Khi đến biên giới của vùng đất này, Aranel rời công ty nhưng lưu ý với Idrial rằng họ sẽ đoàn tụ trong tương lai.
 
 <span></span>
 

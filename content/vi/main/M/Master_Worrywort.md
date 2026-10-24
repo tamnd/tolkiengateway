@@ -38,11 +38,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi đang bán củ gần chợ tại quán trọ [Green Rồng](../G/Green_Dragon~72852.md), Master Worrywort đã gặp phải [Bilbo Baggins](../B/Bilbo_Baggins.md). Bilbo vừa gặp [Gandalf](../G/Gandalf.md) và đã từ chối lời đề nghị tham gia một chuyến phiêu lưu của [Pháp sư](../W/Wizards.md). Bilbo hỏi Worrywort liệu ông ta có nhìn thấy Pháp sư xung quanh không, và Worrywort trả lời là chưa. Bilbo rồi lập tức bỏ chạy sau khi phát hiện ra thứ mà ông ta cho là chiếc mũ của Gandalf.
+Khi đang bán củ gần chợ tại quán trọ [Green Rồng](../G/Green_Dragon~72852.md), Master Worrywort đã gặp phải [Bilbo Baggins](../B/Bilbo_Baggins.md). Bilbo vừa gặp [Gandalf](../G/Gandalf.md) và đã từ chối lời đề nghị tham gia một chuyến phiêu lưu của [Pháp sư](../W/Wizards.md). Bilbo hỏi Worrywort liệu ông có nhìn thấy Pháp sư xung quanh không, và Worrywort trả lời là chưa. Bilbo rồi lập tức bỏ chạy sau khi phát hiện ra thứ mà ông cho là chiếc mũ của Gandalf.
 
 Sau đó, khi [Bilbo](../B/Bilbo_Baggins.md) đang chuẩn bị đi thực hiện [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md), Master Worrywort đã hỏi ông rằng ông sẽ đi đâu.
 
-Sau cuộc phiêu lưu của Bilbo, Worrywort là người đầu tiên thừa nhận ông ta khi ông ta quay trở lại Shire. Ông ta giải thích với Bilbo rằng do ông ta đi lâu quá nên được cho là đã chết. Do đó, tất cả tài sản của Bilbo đã được bán đấu giá, một trong số đó Master Worrywort đang mang về nhà.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau cuộc phiêu lưu của Bilbo, Worrywort là người đầu tiên thừa nhận ông khi ông quay trở lại Shire. Ông giải thích với Bilbo rằng do ông đi lâu quá nên được cho là đã chết. Do đó, tất cả tài sản của Bilbo đã được bán đấu giá, một trong số đó Master Worrywort đang mang về nhà.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

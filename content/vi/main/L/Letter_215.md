@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien được yêu cầu đóng góp cho một hội nghị chuyên đề được đăng trên tờ New Statesman. Ông ta được đưa cho một danh sách các câu hỏi mà họ hy vọng ông ta sẽ cân nhắc. Tolkien bắt đầu trả lời một cách dài dòng để giải quyết nhiều câu hỏi của họ, nhưng quyết định chỉ gửi lời hối tiếc của mình trong một bức thư ngắn.
+Tolkien được yêu cầu đóng góp cho một hội nghị chuyên đề được đăng trên tờ New Statesman. Ông được đưa cho một danh sách các câu hỏi mà họ hy vọng ông sẽ cân nhắc. Tolkien bắt đầu trả lời một cách dài dòng để giải quyết nhiều câu hỏi của họ, nhưng quyết định chỉ gửi lời hối tiếc của mình trong một bức thư ngắn.
 
 ### Thư đã gửi {#The_sent_letter}
 
@@ -41,9 +41,9 @@ Tolkien được yêu cầu đóng góp cho một hội nghị chuyên đề đ�
 
 Tolkien bắt đầu bằng việc nói rằng tất cả những gì ông phải nói về việc viết cho trẻ em là trong "[Về truyện cổ tích](../O/On_Fairy-Stories.md)". *[The Hobbit](../T/The_Hobbit.md)* được xuất bản một cách vội vàng và không có sự cân nhắc kỹ lưỡng, khi ông vẫn còn theo quan niệm rằng “truyện cổ tích” chỉ dành cho trẻ em và lúc đó ông đã có con riêng. Mong muốn nói chuyện với trẻ em không liên quan gì đến câu chuyện hay sự thôi thúc viết nó của ông. Ông vui mừng nói rằng những đứa trẻ thông minh đã coi những nơi mà địa chỉ dành cho trẻ em là những nhược điểm. Khi viết *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* ông đã suy nghĩ nhiều hơn về bố cục và không đề cập đến trẻ em hay bất kỳ tầng lớp người nào khác. Đó là một câu chuyện dài thú vị thuộc loại mà ông đương nhiên thích thú.
 
-Ông không quan tâm đến trẻ em và chắc chắn không viết thư cho chúng. Ông viết truyện cổ tích vì ông muốn viết loại truyện này chứ không phải loại truyện khác. Đó là cách dễ dàng nhất để ông bình luận về thế giới. Ông ta không ý thức được bất kỳ sự đàn áp nào tác động lên mình trong cuộc sống đời thường. Rất nhiều người lớn thích những câu chuyện của ông nên ông không cần phải trốn sang khán giả khác.
+Ông không quan tâm đến trẻ em và chắc chắn không viết thư cho chúng. Ông viết truyện cổ tích vì ông muốn viết loại truyện này chứ không phải loại truyện khác. Đó là cách dễ dàng nhất để ông bình luận về thế giới. Ông không ý thức được bất kỳ sự đàn áp nào tác động lên mình trong cuộc sống đời thường. Rất nhiều người lớn thích những câu chuyện của ông nên ông không cần phải trốn sang khán giả khác.
 
-“Bình luận về thế giới” không nhằm mục đích nghe có vẻ trang trọng. Ông ta không có mục đích giáo khoa cũng như không có ý định ngụ ngôn, và không thích câu chuyện ngụ ngôn.
+“Bình luận về thế giới” không nhằm mục đích nghe có vẻ trang trọng. Ông không có mục đích giáo khoa cũng như không có ý định ngụ ngôn, và không thích câu chuyện ngụ ngôn.
 
 Mối liên hệ của *The Hobbit* với phần tiếp theo là vì *The Hobbit* là bài tiểu luận đầu tiên của ông về một câu chuyện phức tạp đã ấp ủ trong tâm trí ông trong nhiều năm. Nó được gửi đến trẻ em chỉ vì anh có con và được nuôi dạy để tin rằng có một mối liên hệ đặc biệt giữa trẻ em và truyện cổ tích. Ông nghi ngờ về mối liên hệ nhưng quy ước rất mạnh mẽ. *The Hobbit* bắt đầu theo một cách kỳ lạ, thậm chí hài hước nhưng dần dần chuyển sang một điều gì đó nghiêm túc, quan trọng, nhất quán và mang tính lịch sử hơn.
 

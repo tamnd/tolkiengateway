@@ -122,7 +122,7 @@ Trong bài hát *[In the Willow-meads of Tasarinan](../I/In_the_Willow-meads_of_
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Rừng Fangorn được hiện thực hóa trong trò chơi không phải dưới dạng một khu vực đơn lẻ mà dưới dạng một chuỗi các khu vực liên tiếp ở năm khu vực trò chơi khác nhau. Từ đông bắc đến tây nam là: Limlight Hẻm núi phía nam sông <a href="../L/Limlight.md" title="Limlight">Limlight</a> ở vùng "<a href="../A/Anduin.md" title="Anduin">Great River</a>", Balewood ở vùng "Wildermore", Eaves of Fangorn ở vùng "<a href="../E/Eastemnet.md" title="Eastemnet">phương Đông Rohan</a>", Entwood ở vùng "<a href="../W/Westemnet.md" title="Westemnet">Phương Tây Rohan</a>" và Cạnh của Fangorn ở <a href="../N/Nan_Curunír.md" title="Nan Curunír">Nan Curunír</a> (là một phần của vùng <a href="../D/Dunland.md" title="Dunland">Dunland</a>). Một số khu vực này được kết nối với nhau nhưng có những bước nhảy đáng kể trong phạm vi cấp độ của kẻ thù. Khi theo diễn biến tự nhiên của câu chuyện chính, người chơi sẽ đến thăm từng khu vực này vào những thời điểm khác nhau và không theo thứ tự được mô tả.</dd></dl>
 

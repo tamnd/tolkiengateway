@@ -86,7 +86,7 @@ Sự kiện xảy ra vào ngày 30 tháng Chín.
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Crickhollow](../C/Crickhollow.md) bị ba [Kỵ sĩ đen](../N/Nazgûl.md) đột kích vào đầu giờ và [Fatty Bolger](../F/Fredegar_Bolger.md) báo động cho ngôi làng. Các Kỵ Sĩ Đen bỏ chạy.
     - [Quán trọ](../P/Prancing_Pony.md) tại [Bree](../B/Bree.md) đồng loạt bị đột kích nhưng Kỵ sĩ đen chỉ tìm thấy những chiếc gối trên giường của Người Hobbit. Những chú ngựa con bị lạc.
-    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông ta mua [Bill the Pony](../B/Bill_the_Pony.md) từ [Bill Ferny](../B/Bill_Ferny.md) và để Bree cùng với [Strider](../A/Aragorn.md).
+    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông mua [Bill the Pony](../B/Bill_the_Pony.md) từ [Bill Ferny](../B/Bill_Ferny.md) và để Bree cùng với [Strider](../A/Aragorn.md).
     - [Gandalf](../G/Gandalf.md) đến [Crickhollow](../C/Crickhollow.md) và nhìn thấy áo choàng của Frodo ở bên ngoài. Mất hy vọng, anh đến Bree vào ban đêm. Anh gặp [Barliman Butterbur](../B/Barliman_Butterbur.md), người xin lỗi và nói với anh rằng những người Hobbit đã rời đi cùng Strider.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 

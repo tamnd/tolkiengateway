@@ -73,11 +73,11 @@ Tiếng kêu được dịch là "Những chiếc rìu của Người Lùn! Ngư
 
 <dl><dd>Người Lùn <a href="Balfor.md" title="Balfor">Balfor</a> hét lên <i>Baruk-Khazâd</i> khi được thả ra khỏi nơi giam giữ của yêu tinh.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
 
 <dl><dd>Người Lùn binh lính sẽ hét lên, cùng với các cụm từ khác, "Baruk Khazâd" và "Khazâd ai-mênu", khi được lệnh chiến đấu.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Người chơi chơi với Người Lùn sẽ hét lên <i>Baruk Khazâd!</i> khi thực hiện một số kỹ năng nhất định, trong khi nhân vật Stout-axe hét cả <i>Baruk Khazad!</i> và <i>Khazad ai-menu!</i>.</dd></dl>
 

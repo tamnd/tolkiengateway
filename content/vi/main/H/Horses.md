@@ -93,7 +93,7 @@ Các từ trong những ngôn ngữ thời kỳ đầu của [Tolkien](../J/J.R.
 <dl><dd><a href="../B/Boromir.md" title="Boromir">Boromir</a> đến Rivendell trên lưng ngựa, trong khi trong tiểu thuyết, ông bị mất ngựa trước khi đến nơi ẩn náu của yêu tinh.</dd>
 <dd><a href="../B/Brego_(horse).md" title="Brego (horse)">Brego</a> là con ngựa do <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> cưỡi.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ngựa là phương tiện di chuyển chính của Dân tộc Tự do Trung Địa. Ở cấp độ 35, người chơi có thể có quyền sở hữu thú cưỡi của riêng mình. Chúng có thể được mua tại Trang trại Ngựa Bree và ở nhiều địa điểm khác có đủ danh tiếng.</dd></dl>
 

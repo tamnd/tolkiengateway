@@ -182,7 +182,7 @@ Trong *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*, ở 
 
 <dl><dd>Mặc dù Anárion không xuất hiện trong <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> loạt phim</a> nhưng Decipher đã tạo ra một tấm thẻ cho nhân vật.</dd></dl>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Anárion xuất hiện trong một đoạn hồi tưởng kéo dài trong <a href="../S/Siege_of_Barad-dûr.md" title="Siege of Barad-dûr">Cuộc vây hãm Barad-dûr</a> vào năm <a href="../S/Second_Age_3440.md" title="Second Age 3440">S.A. 3440</a>, ngay trước khi anh qua đời.</dd></dl>
 

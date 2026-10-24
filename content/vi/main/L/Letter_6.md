@@ -34,7 +34,7 @@ infobox:
 
 ## Nền {#Background}
 
-[Joseph Wright](../J/Joseph_Wright.md), cựu Giáo sư ngữ văn của Tolkien, đã viết một bài báo về <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Ngài Gawain và Hiệp sĩ Xanh</a></i>. [Vợ ông ta](../E/Elizabeth_Mary_Wright.md) đã gửi Tolkien bản in của bài báo đó.
+[Joseph Wright](../J/Joseph_Wright.md), cựu Giáo sư ngữ văn của Tolkien, đã viết một bài báo về <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Ngài Gawain và Hiệp sĩ Xanh</a></i>. [Vợ ông](../E/Elizabeth_Mary_Wright.md) đã gửi Tolkien bản in của bài báo đó.
 
 ## Tóm tắt {#Summary}
 

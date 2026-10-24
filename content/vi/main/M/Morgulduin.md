@@ -38,7 +38,7 @@ Có ý kiến ​​​​cho rằng *Morgulduin* là tên [Sindarin](../S/Sinda
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Morgulduin bắt nguồn từ <a href="Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a> trong các bể chứa nước trước đây của thành phố, giờ bị biến thành "Eithel Gwaur", giếng bẩn thỉu. Cô gái sông "Rauniel" của nó đã bị giết và ăn thịt bởi một sinh vật hiện đang sống trong đó và làm ô nhiễm lãnh địa của bà. Sự hư hỏng của dòng sông là không thể nhầm lẫn dọc theo dòng chảy của nó, ngay cả sau khi nó chảy ra khỏi <a href="Morgul_Vale.md" title="Morgul Vale">Thung lũng Morgul</a> vào <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>, chỉ có dòng chảy mạnh mẽ của chính <a href="../A/Anduin.md" title="Anduin">Anduin</a> mới có thể làm loãng dòng nước bị nhiễm độc một cách an toàn.</dd></dl>
 

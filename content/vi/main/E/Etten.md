@@ -19,7 +19,7 @@ images:
 
 **Etten** là một thuật ngữ khó hiểu trong [Westron](../W/Westron.md) có lẽ ám chỉ những quái vật như [Troll](../T/Trolls.md) hoặc [Ogres](../O/Ogres.md).<sup id="cite_ref-nomen_1-0" class="reference"><a href="#cite_note-nomen-1">[1]</a></sup><sup id="cite_ref-drout_2-0" class="reference"><a href="#cite_note-drout-2">[2]</a></sup>
 
-[Ettenmoors](Ettenmoors.md) và [Ettendales](Ettendales.md) là một phần của Ettenmoors,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> có lẽ được đặt theo tên của những sinh vật này. Ettenmoors còn được gọi là **troll-fells**,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> có lẽ vì khu vực này là nơi sinh sống của troll.<sup id="cite_ref-NM_5-0" class="reference"><a href="#cite_note-NM-5">[5]</a></sup> [Aragorn](../A/Aragorn.md) đã đề cập rằng Ettendales là vùng đất của troll và ít được ông ta biết đến.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Cụ thể [troll đồi](../H/Hill-trolls.md) đã được nhìn thấy ở [vùng đất phía bắc](../C/Coldfells.md) của [Rivendell](../R/Rivendell.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+[Ettenmoors](Ettenmoors.md) và [Ettendales](Ettendales.md) là một phần của Ettenmoors,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> có lẽ được đặt theo tên của những sinh vật này. Ettenmoors còn được gọi là **troll-fells**,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> có lẽ vì khu vực này là nơi sinh sống của troll.<sup id="cite_ref-NM_5-0" class="reference"><a href="#cite_note-NM-5">[5]</a></sup> [Aragorn](../A/Aragorn.md) đã đề cập rằng Ettendales là vùng đất của troll và ít được ông biết đến.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Cụ thể [troll đồi](../H/Hill-trolls.md) đã được nhìn thấy ở [vùng đất phía bắc](../C/Coldfells.md) của [Rivendell](../R/Rivendell.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -33,7 +33,7 @@ Trong khi viết *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.m
 
 ## Cảm hứng {#Inspiration}
 
-Không có dấu hiệu nào cho thấy Tolkien dự định "ettens" của mình có hai đầu hoặc rằng ông ta đã kết nối chúng với những người khổng lồ bằng đá.
+Không có dấu hiệu nào cho thấy Tolkien dự định "ettens" của mình có hai đầu hoặc rằng ông đã kết nối chúng với những người khổng lồ bằng đá.
 
 [C.S. Lewis](../C/C.S._Lewis.md) đã giới thiệu <a class="external text" href="https://narnia.fandom.com/wiki/Ettin" rel="noreferrer noopener" target="_blank">Ettins</a> của <a class="external text" href="https://narnia.fandom.com/wiki/Ettinsmoor" rel="noreferrer noopener" target="_blank">Ettinsmoor</a> tại *The Silver Chair*. Các ettins là những người khổng lồ, một số có hai đầu; họ chơi trò chơi Cockshies, ném đá vào hẻm núi, giống như [những người khổng lồ bằng đá](../G/Giants.md) trong *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
@@ -49,7 +49,7 @@ Trong nhiều bối cảnh giả tưởng, bao gồm một số [bản chuyển 
 
 <dl><dd><i>Ettens</i> giống <a href="../H/Hill-trolls.md" title="Hill-trolls">Quỷ đồi</a> nhưng chúng sở hữu "không phải một mà là hai cái đầu dài". Những sinh vật đơn độc, là kết quả của một thí nghiệm cổ xưa của <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>, hầu như chỉ sống trong Ettenmoors.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><i>Ettens</i> là một chủng tộc troll, chủ yếu có nguồn gốc từ vùng <a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a>. Họ mặc áo choàng bằng da động vật để tạo ảo giác rằng họ có hai đầu.</dd></dl>
 

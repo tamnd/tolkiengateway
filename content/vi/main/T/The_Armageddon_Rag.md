@@ -41,7 +41,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Nhà báo ngầm một thời Sandy Blair đã rời xa cội nguồn cấp tiến của mình vào những năm 60—cho đến khi vụ sát hại kỳ quái và tàn bạo một triệu phú quảng bá nhạc rock đã lôi kéo ông ta quay trở lại. Khi Sandy bắt đầu điều tra tội phạm, anh thấy mình đang trong một chuyến du hành bí ẩn kỳ diệu về những đam mê bị dồn nén của thế hệ mình. Vì một đấng cứu thế mới đã hồi sinh ban nhạc rock huyền thoại một thời Nazgûl—nhưng với nhịp điệu mới mang tính chất tận thế, cầu nguyện cho ma quỷ, kiểm soát tâm trí và cái chết, chỉ Sandy mới có thể thay đổi kịp thời. . . .
+Nhà báo ngầm một thời Sandy Blair đã rời xa cội nguồn cấp tiến của mình vào những năm 60—cho đến khi vụ sát hại kỳ quái và tàn bạo một triệu phú quảng bá nhạc rock đã lôi kéo ông quay trở lại. Khi Sandy bắt đầu điều tra tội phạm, anh thấy mình đang trong một chuyến du hành bí ẩn kỳ diệu về những đam mê bị dồn nén của thế hệ mình. Vì một đấng cứu thế mới đã hồi sinh ban nhạc rock huyền thoại một thời Nazgûl—nhưng với nhịp điệu mới mang tính chất tận thế, cầu nguyện cho ma quỷ, kiểm soát tâm trí và cái chết, chỉ Sandy mới có thể thay đổi kịp thời. . . .
 
 ## Liên kết ngoài {#External_links}
 

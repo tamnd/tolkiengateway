@@ -24,7 +24,7 @@ images:
 
 Không có thông tin gì về nguồn gốc của Blackwolds. Tuy nhiên, có ngụ ý rằng họ là một nhóm Người từ [Bree-land](Bree-land.md) đã cắt đứt quan hệ với phần còn lại của [các dân tộc tự do](../F/Free_peoples~19934.md). Không rõ điều gì đã thúc đẩy họ làm vậy.
 
-Nhóm này do William Skunkwood lãnh đạo, và hắn đã liên minh nhóm này với các lực lượng của Angmar. Sau cái chết của William, [Éogan](../_/Éogan.md) tiếp quản vị trí lãnh đạo nhóm. Ông ta cũng bị giết. Sau cái chết của ông ta, Blackwolds tan rã và cắt đứt quan hệ với Angmar.
+Nhóm này do William Skunkwood lãnh đạo, và hắn đã liên minh nhóm này với các lực lượng của Angmar. Sau cái chết của William, [Éogan](../_/Éogan.md) tiếp quản vị trí lãnh đạo nhóm. Ông cũng bị giết. Sau cái chết của ông, Blackwolds tan rã và cắt đứt quan hệ với Angmar.
 
 ## Lịch sử {#History}
 

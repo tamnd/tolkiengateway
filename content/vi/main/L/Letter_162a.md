@@ -31,7 +31,7 @@ infobox:
 
 Tolkien gửi [Rayner Unwin](../R/Rayner_Unwin.md) lời xin lỗi về sự chậm trễ do việc hoàn thành [Các phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) cho *[The Return of the King](../T/The_Return_of_the_King.md)*. Ông bày tỏ sự không hài lòng kéo dài với các phụ lục bất chấp sự chấp thuận của Unwin. Tolkien khen ngợi độ chính xác của các máy in, lưu ý đến việc hiếm khi có lỗi in từ và sự siêng năng của người hiệu đính, người thậm chí còn sửa các lỗi của mình theo trình tự thời gian [Númenórean](../N/Númenórean.md).
 
-Ông đề cập đến sự tự tin của mình trong việc tránh được sự chậm trễ đáng kể trong việc vượt qua các trang kiểm tra nhưng chia sẻ mối lo ngại của ông về ngày đi du lịch sắp tới. Để quản lý những kỳ vọng, Tolkien nói rằng ông dự định đi vắng vào cả tháng 6 và tháng 8, mặc dù ông hy vọng khoảng thời gian sau sẽ không ảnh hưởng đến quá trình. Ông ta gợi ý về một vụ mất tích bí mật để tránh sụp đổ và đề nghị cung cấp địa chỉ để gửi bằng chứng hoặc các thông tin liên lạc cần thiết khác liên quan đến *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. <br>
+Ông đề cập đến sự tự tin của mình trong việc tránh được sự chậm trễ đáng kể trong việc vượt qua các trang kiểm tra nhưng chia sẻ mối lo ngại của ông về ngày đi du lịch sắp tới. Để quản lý những kỳ vọng, Tolkien nói rằng ông dự định đi vắng vào cả tháng 6 và tháng 8, mặc dù ông hy vọng khoảng thời gian sau sẽ không ảnh hưởng đến quá trình. Ông gợi ý về một vụ mất tích bí mật để tránh sụp đổ và đề nghị cung cấp địa chỉ để gửi bằng chứng hoặc các thông tin liên lạc cần thiết khác liên quan đến *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -81,7 +81,7 @@ Người ta nói rằng nhiều Nandor đã ở lại Atyamar trong hàng nghìn
 
 ## Tên khác {#Other_names}
 
-Trong các phiên bản trước của truyền thuyết, nhân vật ban đầu được đặt tên là <i><b>Dan</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:note 14</sup> Sau này được sửa thành <i><b>Dân</b></i> trong ngôn ngữ của dân tộc mình, nhưng ông ta được biết đến với cái tên <i><b>Nano</b></i> nếu không.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§62</sup> The ý nghĩa của những cái tên này không được làm sáng tỏ.
+Trong các phiên bản trước của truyền thuyết, nhân vật ban đầu được đặt tên là <i><b>Dan</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:note 14</sup> Sau này được sửa thành <i><b>Dân</b></i> trong ngôn ngữ của dân tộc mình, nhưng ông được biết đến với cái tên <i><b>Nano</b></i> nếu không.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§62</sup> The ý nghĩa của những cái tên này không được làm sáng tỏ.
 
 ## Phả hệ {#Genealogy}
 

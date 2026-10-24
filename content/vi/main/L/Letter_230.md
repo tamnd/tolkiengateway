@@ -35,7 +35,7 @@ infobox:
 
 [Rhona Beare](../R/Rhona_Beare.md) đã có một số câu hỏi về hai tập đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và Tolkien đã trả lời:
 
-Lời khoe khoang của - Aragorn rằng ông ta là [Númenor](../N/Númenor.md) "không hòa nhập" ám chỉ dòng dõi tổ tiên bên nội của ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Lời khoe khoang của - Aragorn rằng ông là [Númenor](../N/Númenor.md) "không hòa nhập" ám chỉ dòng dõi tổ tiên bên nội của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - [Treebeard](../T/Treebeard.md) đã sử dụng Elvish cổ theo phong cách [Entish](../E/Entish.md) trong các bài hát của mình chứ không phải âm thanh Entish. Tolkien liệt kê các yếu tố trong bài hát của ông kèm theo bản dịch.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

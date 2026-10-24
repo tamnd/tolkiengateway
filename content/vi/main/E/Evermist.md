@@ -39,7 +39,7 @@ Sau cái chết của Lindor, Óleth nắm quyền lãnh đạo Noldor còn lạ
 
 Thung lũng họ đặt tên là Evermist, và hòn đảo ở trung tâm Mistmere họ đặt tên là Tol Ely ([S.](../S/Sindarin.md) “Đảo của những ảo ảnh”). Tại đây, Óleth tái thành lập Dòng Con đường Im lặng với tên gọi Cuiviémar. Ở trung tâm của nó có một hồ nước tên là Hithaelin (Mistmere), trong đó có một hòn đảo nhỏ tên là Tol Ely, Isle of Visions.
 
-Mặc dù Evermist đã bị bùa mê che giấu, Celebring vẫn truy đuổi những kẻ chạy trốn đến tận biên giới thánh địa của chúng. Không thể nhanh chóng xuyên thủng hàng phòng thủ của nó và bị Sauron triệu hồi về phía nam, Celebring tuy nhiên đã thực hiện một hành động ác ý cuối cùng: ông ta đánh thức những con rồng đang ngủ say trong Ered Rhívamar. Nhiều người trong số Noldor đã thiệt mạng, bao gồm cả chính Óleth. Cô đã được kế vị bởi người chữa lành Nestador.
+Mặc dù Evermist đã bị bùa mê che giấu, Celebring vẫn truy đuổi những kẻ chạy trốn đến tận biên giới thánh địa của chúng. Không thể nhanh chóng xuyên thủng hàng phòng thủ của nó và bị Sauron triệu hồi về phía nam, Celebring tuy nhiên đã thực hiện một hành động ác ý cuối cùng: ông đánh thức những con rồng đang ngủ say trong Ered Rhívamar. Nhiều người trong số Noldor đã thiệt mạng, bao gồm cả chính Óleth. Cô đã được kế vị bởi người chữa lành Nestador.
 
 Dưới sự hướng dẫn của Nestador, cuối cùng họ đã có thể ngăn chặn được lũ rồng. Sau đó, trong một nghi thức hát ở Tol Ely, [Irmo](../I/Irmo.md) đã tiết lộ cho Hội quán một vị trí thích hợp để ghi khắc tất cả các bài hát thần chú của họ. Vị trí này trong [Bleak Dãy Núi](../B/Bleak_Mountains.md) sẽ được gọi là *Orod Certhas* (S. “Núi Rune”).<sup id="cite_ref-history_1-1" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
 

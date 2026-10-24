@@ -34,7 +34,7 @@ Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời đi [Lot
 
 Khi [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md) đặt ông vào thuyền chôn cất, chiếc thắt lưng vàng lấp lánh quanh eo ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau này, [Faramir](../F/Faramir.md) một đêm nọ nhìn thấy chiếc thuyền [Anduin](../A/Anduin.md) và Boromir nằm chết ở đó, chỉ còn chiếc thắt lưng là thứ duy nhất anh không nhận ra. [Frodo](../F/Frodo_Baggins.md) khai với Faramir rằng chiếc thắt lưng đã được trao cho ông ta vào Lórien nên xác định chính xác người chết là Boromir.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau này, [Faramir](../F/Faramir.md) một đêm nọ nhìn thấy chiếc thuyền [Anduin](../A/Anduin.md) và Boromir nằm chết ở đó, chỉ còn chiếc thắt lưng là thứ duy nhất anh không nhận ra. [Frodo](../F/Frodo_Baggins.md) khai với Faramir rằng chiếc thắt lưng đã được trao cho ông vào Lórien nên xác định chính xác người chết là Boromir.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -63,7 +63,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông ta là con trai của [Turambar](<../T/Turambar_(King_of_Gondor).md>), nhà chinh phục vĩ đại của [Easterlings](../E/Easterlings.md). Tuy nhiên, triều đại của Atanatar không mấy suôn sẻ và ông được con trai [Siriondil](<../S/Siriondil_(King_of_Gondor).md>) kế vị.<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
+Ông là con trai của [Turambar](<../T/Turambar_(King_of_Gondor).md>), nhà chinh phục vĩ đại của [Easterlings](../E/Easterlings.md). Tuy nhiên, triều đại của Atanatar không mấy suôn sẻ và ông được con trai [Siriondil](<../S/Siriondil_(King_of_Gondor).md>) kế vị.<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

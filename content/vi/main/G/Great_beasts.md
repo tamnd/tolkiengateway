@@ -56,7 +56,7 @@ Không thể nói chắc chắn rằng những con thú to lớn được sử d
 
 <dl><dd>Trong trò chơi điện tử này, thiết kế cơ bản của những con thú lớn từ <i>The Lord of the Rings</i> của Peter Jackson được giữ nguyên. Tuy nhiên, một ý tưởng mới được đưa ra: những sinh vật được gọi là "những con thú lớn" ban đầu được Người Lùn sử dụng trong Dãy Núi Sương Mù làm động vật kéo dưới lòng đất (được mô tả là nhỏ hơn nhiều so với Sauron những con thú gánh nặng). Người Lùn gọi họ là <i>yurgs</i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>In the Mordor expansion pack, the great beasts were given the name <b>Sulokil</b>. They were depicted as being horned, stony-skinned beasts that were a local subspecies of <a href="../K/Kine_of_Araw.md" title="Kine of Araw">Aurochs</a>. Despite living in the &#34;Dor Amarth&#34; region of <a href="../P/Plateau_of_Gorgoroth.md" title="Plateau of Gorgoroth">Plateau of Gorgoroth</a> and being used as beasts of burden by <a href="../S/Sauron.md" title="Sauron">Sauron</a>, the Sulokil were docile unless provoked.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> According to <a href="../I/Ingold.md" title="Ingold">Ingold</a>, their meat was &#34;rather good when cooked and seasoned&#34;.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 

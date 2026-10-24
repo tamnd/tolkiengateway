@@ -111,7 +111,7 @@ Về nguồn gốc của nửa orc, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đ�
 
 <dl><dd>Half-orc và Greater Half-orc là Orc Phe, có thể chơi được bởi Fallen Pháp sư.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bán orc được phân loại là một trong các loại Orc, cùng với Orc, Goblin, <a href="Hobgoblins.md" title="Hobgoblins">Hobgoblins</a> và Uruk. Những tên cướp nửa orc được tìm thấy ở <a href="../L/Lone-lands.md" title="Lone-lands">Vùng đất cô độc</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Chúng được liên kết với <a href="../S/Saruman.md" title="Saruman">Saruman</a> và có thể được tìm thấy ở hầu hết mọi khu vực mà hắn có ảnh hưởng. Những nửa orc của hắn ở <a href="../E/Eriador.md" title="Eriador">Eriador</a> bao gồm nhiều người ở <a href="../D/Dunland.md" title="Dunland">Dunland</a>, <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>, <a href="../E/Eregion.md" title="Eregion">Eregion</a>, Vùng đất cô độc và <a href="../A/Andrath.md" title="Andrath">Andrath</a> ở Bree-land. Một số lượng nhỏ bán orc có thể được tìm thấy ở tận Nan Gurth ở <a href="../A/Angmar.md" title="Angmar">Angmar</a>. Những nửa Orc của ông cũng có thể được tìm thấy ở <a href="../R/Rohan.md" title="Rohan">Rohan</a> xa về phía đông như Sutcrofts ở <a href="../E/Eastemnet.md" title="Eastemnet">Eastemnet</a>.</dd></dl>
 

@@ -112,13 +112,13 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <td>a, ä</td>
 <td><span title="Pronunciation in IPA" class="IPA">a</span></td>
 <td><a href="../A/Aragorn.md" title="Aragorn"><b>A</b>r<b>a</b>gorn</a></td>
-<td>Âm <i>a</i> trong Sindarin gần giống với âm <i>a</i> trong từ <i>father</i> của tiếng Anh hoặc âm <i>a</i> trong từ <i>mambo</i> của tiếng Tây Ban Nha nhất. Cả hai cách phát âm đều được chấp nhận.
+<td>Âm <i>a</i> trong sːindarin gần giống với âm <i>a</i> trong từ <i>father</i> của tiếng Anh hoặc âm <i>a</i> trong từ <i>mambo</i> của tiếng Tây Ban Nha nhất. Cả hai cách phát âm đều được chấp nhận.
 </td></tr>
 <tr>
 <td>á</td>
 <td><span title="Pronunciation in IPA" class="IPA">aː</span></td>
 <td> </td>
-<td>Âm <i>á</i> trong Sindarin chỉ dài hơn âm <i>a</i> một chút, nhưng ngoài điểm đó ra, cách phát âm không thay đổi.
+<td>Âm <i>á</i> trong sːindarin chỉ dài hơn âm <i>a</i> một chút, nhưng ngoài điểm đó ra, cách phát âm không thay đổi.
 </td></tr>
 <tr>
 <td>â</td>

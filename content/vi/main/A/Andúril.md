@@ -187,11 +187,11 @@ Những thanh kiếm bị gãy rồi được rèn lại cũng xuất hiện tro
 <dl><dd>Trong <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">phiên bản mở rộng</a>, <a href="../M/Mouth_of_Sauron.md" title="Mouth of Sauron">Miệng của Sauron</a> gọi lưỡi dao là Elvish; đây có thể là sự ám chỉ đến việc rèn lại nó hoặc là một sai lầm của người viết.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd>
 <dd>Về mặt thiết kế, Andúril không khác biệt đáng kể so với phiên bản tiền nhiệm Narsil. Sự khác biệt đáng chú ý duy nhất là dòng chữ Elvish chạy dọc theo chiều dài của lưỡi kiếm.</dd></dl>
 
-<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
+<b><a href="../_/2003.md" title="2003">2003</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
 
 <dl><dd>Andúril được thể hiện dưới dạng bản nâng cấp vĩnh viễn có tên "Andúril's Fury" dành cho Aragorn, người được thể hiện dưới dạng đơn vị anh hùng. Nó làm cho thanh kiếm của ông phát sáng trắng cũng như tăng sát thương đáng kể, kèm theo sát thương cộng thêm đối với Anh hùng, Bóng ma và Nazgûl của kẻ thù.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Người chơi trải nghiệm quá trình rèn lại Narsil trong phần nhiệm vụ có tên "The Blade that was Broken". Người chơi bắt đầu tìm kiếm mảnh Silithair cuối cùng, những viên kim cương sáng ngời được chế tạo bởi Tiên tộc của ngôi nhà <a href="../F/Fëanor.md" title="Fëanor">Fëanor</a> ngày xưa, để Tiên thợ rèn của Imladris rèn lại thanh kiếm thành Andúril.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 

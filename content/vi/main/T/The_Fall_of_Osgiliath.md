@@ -42,7 +42,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Những người lính của [Minas Tirith](../M/Minas_Tirith.md) chiến đấu với [Orc](../O/Orcs.md). [Madril](../M/Madril.md) nói với [Faramir](../F/Faramir.md) rằng họ không thể chống trả được nữa, nếu không tất cả sẽ chết. Faramir ra lệnh cho quân rút về Minas Tirith. [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>) giết Madril bằng một ngọn giáo khi ông ta nằm trên mặt đất. Trong khi những người lính rút lui, họ bị tấn công bởi [Nazgûl](../N/Nazgûl.md).
+Những người lính của [Minas Tirith](../M/Minas_Tirith.md) chiến đấu với [Orc](../O/Orcs.md). [Madril](../M/Madril.md) nói với [Faramir](../F/Faramir.md) rằng họ không thể chống trả được nữa, nếu không tất cả sẽ chết. Faramir ra lệnh cho quân rút về Minas Tirith. [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>) giết Madril bằng một ngọn giáo khi ông nằm trên mặt đất. Trong khi những người lính rút lui, họ bị tấn công bởi [Nazgûl](../N/Nazgûl.md).
 
 Gandalf và [Shadowfax](../S/Shadowfax.md) xuất phát từ Minas Tirith và chặn Nazgûl để giúp những người lính quay trở lại Minas Tirith một cách an toàn. Bên trong các bức tường, Faramir tiếp cận Gandalf với thông tin rằng lũ Orc đã phá vỡ hàng phòng ngự của chúng và chiếm lấy [Osgiliath](../O/Osgiliath.md). [Irolas](../I/Irolas.md) nói thêm rằng [Denethor](../D/Denethor.md) đã thấy trước những sự kiện đó sẽ xảy ra và Gandalf nói thêm rằng người quản lý đã thấy trước và không làm gì cả.
 

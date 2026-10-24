@@ -24,7 +24,7 @@ Nólemë (sau này là [Finwë](../F/Finwë.md) và sau đó là cha của Turgo
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Cái chết và sự mạo phạm của Nólemë sẽ phát triển thành cái chết của [Fingon](../F/Fingon.md), hiện là anh trai của Turgon, trong Trận chiến của những giọt nước mắt không đếm được.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, cũng có một điểm tương đồng lớn với cái chết của Fingolfin: Morgoth thi thể của ông ta bị gãy, nhưng cơ thể này đã được [Thorondor](../T/Thorondor.md) cứu và đưa đến Turgon, người đã tạo ra một [Cairn](../F/Fingolfin's_Cairn.md) cho cha mình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Cái chết và sự mạo phạm của Nólemë sẽ phát triển thành cái chết của [Fingon](../F/Fingon.md), hiện là anh trai của Turgon, trong Trận chiến của những giọt nước mắt không đếm được.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, cũng có một điểm tương đồng lớn với cái chết của Fingolfin: Morgoth thi thể của ông bị gãy, nhưng cơ thể này đã được [Thorondor](../T/Thorondor.md) cứu và đưa đến Turgon, người đã tạo ra một [Cairn](../F/Fingolfin's_Cairn.md) cho cha mình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

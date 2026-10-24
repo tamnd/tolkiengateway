@@ -61,7 +61,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Lungorthin chỉ được nhắc đến một lần trong *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*; sau khi [Húrin](../H/Húrin.md) bị [Morgoth](../M/Morgoth.md) bắt, Lungorthin đã đánh vào miệng ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Lungorthin chỉ được nhắc đến một lần trong *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*; sau khi [Húrin](../H/Húrin.md) bị [Morgoth](../M/Morgoth.md) bắt, Lungorthin đã đánh vào miệng ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -79,7 +79,7 @@ Tên <i><b>Lungorthin</b></i> có trong [Noldorin](../N/Noldorin.md), theo *[Eld
 
 Trong phiên bản đầu tiên của Tolkien của *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%BArin_son_of_H%C3%BArin_%26_Glorund_the_Dragon&amp;action=edit&amp;redlink=1" title="Túrin son of Húrin &amp; Glorund the Dragon (page does not exist)">Túrin con trai của Húrin & Glorund the Rồng</a></i>, "Lungorthin, Chúa tể của Balrog" không có tên và chủng tộc, thay vào đó được gọi là một *thane of Morgoth* vô danh, kẻ đã đánh Húrin vào miệng.
 
-Không có tài liệu tham khảo nào về Lungorthin trong [J.R.R. Tolkien's](../J/J.R.R._Tolkien.md) sau này [huyền thoại](Legendarium.md) và do đó, Lungorthin có thể đã bị loại bỏ vì ông ta chưa bao giờ xuất hiện trong bất kỳ bài viết nào của Tolkien sau *The Lay of the Children of Húrin*.
+Không có tài liệu tham khảo nào về Lungorthin trong [J.R.R. Tolkien's](../J/J.R.R._Tolkien.md) sau này [huyền thoại](Legendarium.md) và do đó, Lungorthin có thể đã bị loại bỏ vì ông chưa bao giờ xuất hiện trong bất kỳ bài viết nào của Tolkien sau *The Lay of the Children of Húrin*.
 
 <span></span>
 

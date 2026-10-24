@@ -73,11 +73,11 @@ Trong những phiên bản đầu của <a class="mw-redirect mw-disambig" href=
 
 <dl><dd>Hobbit đầu tiên bên ngoài <a href="Bag_End.md" title="Bag End">Bag End</a> kể lại câu chuyện của Bandobras, tiếp theo là lời buộc tội rằng những người hobbit trẻ tuổi không biết đủ về lịch sử của họ.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Trong chiến dịch tà ác, Goblin bao vây (và chinh phục) Shire như một phần của cuộc trả thù; Trận chiến Cánh đồng Xanh vẫn chưa bị lãng quên.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong <a class="external text" href="https://lotro-wiki.com/wiki/Category:Shire_Epic_Prologue_Quests" rel="noreferrer noopener" target="_blank">Shire Nhiệm vụ mở đầu sử thi</a>, một nhóm <a class="mw-redirect" href="../G/Goblins.md" title="Goblins">Goblin</a> do <a class="external text" href="https://lotro-wiki.com/wiki/Lubach" rel="noreferrer noopener" target="_blank">Lubach</a> dẫn đầu, đã bị <a class="external text" href="https://lotro-wiki.com/wiki/Éogan" rel="noreferrer noopener" target="_blank">Éogan</a> thuyết phục xâm chiếm Shire bằng cách tuyên bố rằng Lubach là người thừa kế của Golfimbul.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 

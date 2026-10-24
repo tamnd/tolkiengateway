@@ -96,7 +96,7 @@ Một chi tiết bị bỏ sót trong phần mô tả chiếc thuyền thiên ng
 
 <dl><dd><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> cưỡi Thiên nga trước khi trao quà cho <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Đoàn Hộ Nhẫn</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Có thể nhìn thấy một con tàu thiên nga dọc theo bờ <a href="../C/Celebrant.md" title="Celebrant">Celebrant</a>, một con sông nhỏ chảy từ <a href="../M/Mirrormere.md" title="Mirrormere">Mirrormere</a> đến <a href="../A/Anduin.md" title="Anduin">Anduin</a>, gần phụ lưu đến Anduin ở <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>.</dd></dl>
 

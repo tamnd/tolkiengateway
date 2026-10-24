@@ -28,7 +28,7 @@ Vào [8 tháng 1](../_/8_January.md) [T.A.](../T/Third_Age.md) [3019](../T/Third
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dãy Hollin chạy qua phía bắc <a href="../E/Eregion.md" title="Eregion">Eregion</a>. Tại điểm cực tây của nó có một tháp canh Tiên. Để đạt được nó rất khó, đòi hỏi một số câu đố nhảy và trao giải thành tích ẩn cũng như danh hiệu trong trò chơi.</dd></dl>
 

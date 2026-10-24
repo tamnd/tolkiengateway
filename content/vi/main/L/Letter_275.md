@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Auden](../W/W.H._Auden.md) đã yêu cầu Tolkien đóng góp cho <i><a class="extiw" href="http://en.wikipedia.org/wiki/Festschrift" title="wikipedia:Festschrift">festschrift</a></i> nhân dịp [Nevill Coghill](../N/Nevill_Coghill.md) nghỉ hưu. Ông ta cũng hỏi liệu Tolkien có biết rằng một "Hội Tolkien New York" đã được thành lập hay không, vì sợ rằng nó sẽ chứa đầy những kẻ mất trí. Tolkien không có gì dành cho *festschrift* và hy vọng rằng cuốn sách sẽ có một nơi đơn giản để ghi lại những lời chúc tốt đẹp. Điều duy nhất ông từng viết về Nevill là:
+[Auden](../W/W.H._Auden.md) đã yêu cầu Tolkien đóng góp cho <i><a class="extiw" href="http://en.wikipedia.org/wiki/Festschrift" title="wikipedia:Festschrift">festschrift</a></i> nhân dịp [Nevill Coghill](../N/Nevill_Coghill.md) nghỉ hưu. Ông cũng hỏi liệu Tolkien có biết rằng một "Hội Tolkien New York" đã được thành lập hay không, vì sợ rằng nó sẽ chứa đầy những kẻ mất trí. Tolkien không có gì dành cho *festschrift* và hy vọng rằng cuốn sách sẽ có một nơi đơn giản để ghi lại những lời chúc tốt đẹp. Điều duy nhất ông từng viết về Nevill là:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Ông Neville Judson Coghill<br/>

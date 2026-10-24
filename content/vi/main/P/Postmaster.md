@@ -29,7 +29,7 @@ langlinks:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vị trí này thuộc về "Postmaster Proudfoot", người được tìm thấy ở <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a> ngay bên cạnh <a href="../M/Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Thị trưởng</a> <a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> và tham gia vào nhiều nhiệm vụ liên quan đến các dịch vụ của <a href="../Q/Quick_Post.md" title="Quick Post">Đăng nhanh</a>.</dd></dl>
 

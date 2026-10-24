@@ -76,7 +76,7 @@ Thậm chí vào [Kỷ Đệ Tứ](../F/Fourth_Age.md), người Lùn vẫn sinh
 
 <dl><dd>Trong khi <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin và Đoàn tùy tùng</a> bị lạc ở <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>, <a href="../B/Bofur.md" title="Bofur">Bofur</a> tìm thấy một túi đựng thuốc lá của người lùn trên mặt đất, anh nhận ra đó là túi đựng thuốc lá từ Người Lùn của Dãy Núi Xanh. <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> nói với ông rằng chính chiếc túi của ông đã rơi trước đó và họ đang đi vòng tròn.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Các nhân vật của người chơi Người Lùn có thể chọn Dãy Núi Xanh làm nền, mặc dù điều này chỉ nhằm mục đích thẩm mỹ và không ảnh hưởng đến câu chuyện hoặc cơ chế của trò chơi.</dd></dl>
 

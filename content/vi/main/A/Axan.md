@@ -16,7 +16,7 @@ categories:
   - "Metaphysics"
 ---
 
-<i><b>axan</b></i> (pl. <i><b>axani</b></i>) là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "luật lệ, quy tắc, điều răn, chủ yếu xuất phát từ [Eru](../I/Ilúvatar.md)". Thuật ngữ này đề cập đến luật do Ilúvatar thiết lập mà những sinh vật thấp kém hơn được hướng dẫn tuân theo nhưng có thể chọn không tuân theo. *axani* tương phản với *[únati](../_/Únat.md)*, là những định luật vật lý không thể phá vỡ. [Melkor](../M/Melkor.md) từ chối chấp nhận bất kỳ *axani* nào ràng buộc ông ta, nhưng ông ta rất thất vọng khi không thể vi phạm *únati*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>axan</b></i> (pl. <i><b>axani</b></i>) là một danh từ [Quenya](../Q/Quenya.md) có nghĩa là "luật lệ, quy tắc, điều răn, chủ yếu xuất phát từ [Eru](../I/Ilúvatar.md)". Thuật ngữ này đề cập đến luật do Ilúvatar thiết lập mà những sinh vật thấp kém hơn được hướng dẫn tuân theo nhưng có thể chọn không tuân theo. *axani* tương phản với *[únati](../_/Únat.md)*, là những định luật vật lý không thể phá vỡ. [Melkor](../M/Melkor.md) từ chối chấp nhận bất kỳ *axani* nào ràng buộc ông, nhưng ông rất thất vọng khi không thể vi phạm *únati*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

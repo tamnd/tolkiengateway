@@ -113,7 +113,7 @@ Theo nhiều cách, Meduseld được lấy cảm hứng từ [Anglo-Saxon](../O
 		</li>
 </ul>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Meduseld có một loạt phòng bên cạnh có lối vào từ sảnh chính. Bên trong đại sảnh treo những tấm thảm kể về lịch sử của Rohan và các biểu ngữ của nhiều thị trấn, tỉnh.</dd></dl>
 

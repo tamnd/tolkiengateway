@@ -111,7 +111,7 @@ Vào buổi sáng ngày [8 tháng 3](../_/8_March.md), Frodo, Sam và Gollum đ�
 		</li>
 </ul>
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Người chơi không truy cập Henneth Annûn cho đến sau <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a>. Các chỉ huy của <a href="../A/Army_of_the_West.md" title="Army of the West">Quân đội Phương Tây</a> dừng chân tại nơi trú ẩn trong cuộc hành quân về phía <a href="../B/Black_Gate.md" title="Black Gate">Cổng Đen</a>.</dd></dl>
 

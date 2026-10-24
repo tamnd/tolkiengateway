@@ -94,7 +94,7 @@ Có thể niềm say mê cung tên của Tolkien bắt nguồn từ những câu
 
 <dl><dd>Cung, giống như tất cả vũ khí trong phim, được thiết kế trong quá trình tiền sản xuất bởi các nghệ sĩ như <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a>, với sự hỗ trợ từ <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> và <a href="../J/John_Howe.md" title="John Howe">John Howe</a>. Phần lớn chúng được làm thủ công bởi các nhân viên của <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta Workshop</a>.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Các cuộc đua được thấy sử dụng cung bao gồm Con Người, Tiên tộc và Orc. Trong <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i>, <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> sử dụng <a href="../C/Cross-bows.md" title="Cross-bows">nỏ</a> khi bắt đầu <a class="mw-redirect" href="Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">Trận Helm&#39;s Deep</a> (không chuẩn đối với lũ Orc).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cung được cung cấp cho nhân vật của người chơi dưới dạng vũ khí tầm xa cầm tay.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Ngoài ra còn có nỏ, ít phổ biến hơn.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></dd></dl>
 

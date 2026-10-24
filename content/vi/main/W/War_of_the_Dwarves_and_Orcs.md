@@ -51,11 +51,11 @@ Trong [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md), [Erebor](../L/Lo
 
 ### Mở đầu {#Prelude}
 
-Thrór rơi vào tuyệt vọng sau nhiều năm sống trong cảnh nghèo khó, hoặc có lẽ [Chiếc nhẫn](../R/Rings_of_Power.md) mà ông ta đeo cuối cùng đã gây ra tác hại xấu cho người mang nó.<sup id="cite_ref-Durin_3-1" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup> Dù thế nào đi nữa, ông ta quyết định để lại người dân của mình ở [2790](../T/Third_Age_2790.md)<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> để tìm kiếm và nhìn vào điện thờ tổ tiên của [Khazad-dûm](../M/Moria.md). Cùng với người bạn [Nár](../N/Nár.md), họ băng qua [Đèo Redhorn](../R/Redhorn_Pass.md) và đi xuống [Cổng Đông của Moria](../G/Great_Gates.md) nơi Thrór tự mình đi vào một mình, bất chấp lời cảnh báo của Nár người vẫn ở lại trong thung lũng.
+Thrór rơi vào tuyệt vọng sau nhiều năm sống trong cảnh nghèo khó, hoặc có lẽ [Chiếc nhẫn](../R/Rings_of_Power.md) mà ông đeo cuối cùng đã gây ra tác hại xấu cho người mang nó.<sup id="cite_ref-Durin_3-1" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup> Dù thế nào đi nữa, ông quyết định để lại người dân của mình ở [2790](../T/Third_Age_2790.md)<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> để tìm kiếm và nhìn vào điện thờ tổ tiên của [Khazad-dûm](../M/Moria.md). Cùng với người bạn [Nár](../N/Nár.md), họ băng qua [Đèo Redhorn](../R/Redhorn_Pass.md) và đi xuống [Cổng Đông của Moria](../G/Great_Gates.md) nơi Thrór tự mình đi vào một mình, bất chấp lời cảnh báo của Nár người vẫn ở lại trong thung lũng.
 
-Thrór bị [Azog](../A/Azog.md) thủ lĩnh [Orc](../O/Orcs.md) của Moria bắt và giết chết, và sau vài ngày, đầu của Thrór được khắc tên của Azog và xác chết bị ném ra ngoài cổng nơi Nár tìm thấy. Ông ta còn sống để phục vụ như một sứ giả cho Người Lùn mà Azog hiện tự xưng là Vua của Moria, và tránh xa.
+Thrór bị [Azog](../A/Azog.md) thủ lĩnh [Orc](../O/Orcs.md) của Moria bắt và giết chết, và sau vài ngày, đầu của Thrór được khắc tên của Azog và xác chết bị ném ra ngoài cổng nơi Nár tìm thấy. Ông còn sống để phục vụ như một sứ giả cho Người Lùn mà Azog hiện tự xưng là Vua của Moria, và tránh xa.
 
-Khi Nár trở về với con trai của nhà vua Thráin, ông ta đã kể cho ông ta nghe về <a class="new" href="https://tolkiengateway.net/w/index.php?title=Murder_of_Thr%C3%B3r&amp;action=edit&amp;redlink=1" title="Murder of Thrór (page does not exist)">vụ sát hại cha mình</a> và lời cảnh báo của Orc. Trong bảy ngày không ăn không ngủ, vị vua mới ngồi cho đến khi đứng và kêu lên "Việc này không thể chịu đựng được!"<sup id="cite_ref-Durin_3-2" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
+Khi Nár trở về với con trai của nhà vua Thráin, ông đã kể cho ông nghe về <a class="new" href="https://tolkiengateway.net/w/index.php?title=Murder_of_Thr%C3%B3r&amp;action=edit&amp;redlink=1" title="Murder of Thrór (page does not exist)">vụ sát hại cha mình</a> và lời cảnh báo của Orc. Trong bảy ngày không ăn không ngủ, vị vua mới ngồi cho đến khi đứng và kêu lên "Việc này không thể chịu đựng được!"<sup id="cite_ref-Durin_3-2" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
 
 Từ năm 2790 đến [2793](../T/Third_Age_2793.md),<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> [Longbeards](../L/Longbeards.md) đã ứng phó với thảm kịch này bằng cách <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mustering_of_the_Dwarves&amp;action=edit&amp;redlink=1" title="Mustering of the Dwarves (page does not exist)">tập hợp một đội quân</a>và kêu gọi các Nhà khác của Người Lùn tham chiến.
 
@@ -83,7 +83,7 @@ Kết quả của những mất mát đó là [Orc của Dãy Núi Sương Mù](
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cuộc xung đột được gọi là "<i>Sixth</i> Cuộc chiến của Người Lùn và Orc". " Cuộc chiến giữa Người Lùn và Orc thứ năm" được đề cập là đã được kích hoạt bởi việc Vua <a href="../T/Thorin_I.md" title="Thorin I">Thorin I</a> bị Orc tiêu diệt trong <a href="../G/Grey_Mountains.md" title="Grey Mountains">Dãy Núi Xám</a>. Liên minh của nhiều Nhà được gọi là "Gabil'akkâ, Quân đội Thống nhất của Người Lùn", và chủ nhà do Thráin tập hợp đặc biệt là "Haban'akkâ".</dd></dl>
 

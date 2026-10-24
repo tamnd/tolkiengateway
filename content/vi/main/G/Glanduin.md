@@ -60,7 +60,7 @@ Sau khi *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được xuất
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayals_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Con sông Glanduin tạo thành ranh giới giữa các khu vực trong trò chơi <a href="../E/Eregion.md" title="Eregion">Eregion</a> và <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>. Nó chảy qua <a href="../O/Ost-in-Edhil.md" title="Ost-in-Edhil">Mirobel và Caras Gelebren</a> và chia thành nhiều dòng trước khi nhập với <a class="mw-redirect" href="../M/Mitheithel.md" title="Mitheithel">Mitheithel</a> tại Wadewater của <a href="../S/Swanfleet.md" title="Swanfleet">Swanfleet</a>.</dd></dl>
 

@@ -36,13 +36,13 @@ images:
 
 [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) chuyển người đeo nó đến "thế giới ma quái", trong đó người đeo có thể nhìn thấy hình dạng của những người khác. Mặc dù người mặc có vẻ vô hình nhưng trên thực tế, họ sẽ được nhìn thấy bởi các sinh vật của cõi Vô hình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-Ford_5-0" class="reference"><a href="#cite_note-Ford-5">[5]</a></sup>
 
-Ngoài ra, [Con dao Morgul](../M/Morgul-knife.md) đã đâm Frodo có khả năng đưa ông ta vĩnh viễn đến cõi Vô hình;<sup id="cite_ref-Meet_3-1" class="reference"><a href="#cite_note-Meet-3">[3]</a></sup> trong khi Frodo đang chịu tác dụng của nó, ông ta có thể nhìn thấy hình dạng [phát sáng](../L/Light_of_Valinor.md) thực sự của [Glorfindel](../G/Glorfindel.md).<sup id="cite_ref-Ford_5-1" class="reference"><a href="#cite_note-Ford-5">[5]</a></sup>
+Ngoài ra, [Con dao Morgul](../M/Morgul-knife.md) đã đâm Frodo có khả năng đưa ông vĩnh viễn đến cõi Vô hình;<sup id="cite_ref-Meet_3-1" class="reference"><a href="#cite_note-Meet-3">[3]</a></sup> trong khi Frodo đang chịu tác dụng của nó, ông có thể nhìn thấy hình dạng [phát sáng](../L/Light_of_Valinor.md) thực sự của [Glorfindel](../G/Glorfindel.md).<sup id="cite_ref-Ford_5-1" class="reference"><a href="#cite_note-Ford-5">[5]</a></sup>
 
-[Tom Bombadil](../T/Tom_Bombadil.md) có thể nhìn thấy Frodo đeo Chiếc nhẫn;<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> liệu điều này có ám chỉ rằng ông ta sống ở cả hai cõi hay không thì vẫn chưa rõ ràng.
+[Tom Bombadil](../T/Tom_Bombadil.md) có thể nhìn thấy Frodo đeo Chiếc nhẫn;<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> liệu điều này có ám chỉ rằng ông sống ở cả hai cõi hay không thì vẫn chưa rõ ràng.
 
 Thế giới vô hình cũng tồn tại trong [Sảnh của Mandos](../H/Halls_of_Mandos.md). Ở đó linh hồn của những người đã chết trong Trung Địa sẽ cư trú cho đến khi họ gặp những số phận khác nhau. Eldar có thể, theo thời gian, được tái hiện, nếu họ chọn giống như Finrod đã làm và sống lại trong Aman.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-Beren_8-0" class="reference"><a href="#cite_note-Beren-8">[8]</a></sup> Người Lùn sẽ đợi trong Mandos, trong các sảnh riêng biệt giữa họ, cho đến khi Arda được làm lại.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Và Con Người sẽ cư trú ở đó một thời gian chờ đợi trước khi nhận được số phận đưa họ vượt quá giới hạn phạm vi của Arda, cho đến Âm nhạc của các Ainur thứ hai.<sup id="cite_ref-Beren_8-1" class="reference"><a href="#cite_note-Beren-8">[8]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Những linh hồn không nghe theo tiếng gọi của Mandos có thể vẫn ở lại Trung Địa như một phần của Đấng vô hình. Mặc dù [Vua Phù thủy](../W/Witch-king.md), với tư cách là người mang Chiếc nhẫn quyền lực, đã triệu hồi [barrow-wights](../B/Barrow-wights.md) đến [Barrow-downs](../B/Barrow-downs.md),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> vẫn nghi ngờ rằng ông ta có thể gọi các linh hồn trở lại từ sảnh của Mandos.
+Những linh hồn không nghe theo tiếng gọi của Mandos có thể vẫn ở lại Trung Địa như một phần của Đấng vô hình. Mặc dù [Vua Phù thủy](../W/Witch-king.md), với tư cách là người mang Chiếc nhẫn quyền lực, đã triệu hồi [barrow-wights](../B/Barrow-wights.md) đến [Barrow-downs](../B/Barrow-downs.md),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> vẫn nghi ngờ rằng ông có thể gọi các linh hồn trở lại từ sảnh của Mandos.
 
 ## Thế giới ma quỷ {#Wraith-world}
 
@@ -56,7 +56,7 @@ Những linh hồn không nghe theo tiếng gọi của Mandos có thể vẫn �
 
 [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) là một trong những phương tiện có thể phần nào lôi kéo một người vào thế giới ma quái. [Con Người](../M/Men.md) đã trở thành [Nazgûl](../N/Nazgûl.md), dường như đã tồn tại hai mặt ở ranh giới giữa hai thế giới: thế giới [được nhìn thấy](../S/Seen.md) của chúng ta và thế giới ma quái. Sau nhiều thế kỷ, chúng mờ dần và mặc dù chúng có một phần hình dạng trong thực tế của chúng ta nhưng chúng lại tồn tại vững chắc hơn trong Cái vô hình.
 
-[những lưỡi kiếm](../M/Morgul-knife.md) của họ dường như đã được sử dụng để khủng bố những người hầu của họ, như Gorbag ​​đã chứng thực, và nếu mảnh vỡ của một lưỡi kiếm như vậy chạm vào trái tim của Frodo, ông ta sẽ không chỉ biến thành một tồn tại vô hình mà còn thành người hầu ma quái của một Nazgûl.<sup id="cite_ref-Meet_3-3" class="reference"><a href="#cite_note-Meet-3">[3]</a></sup>
+[những lưỡi kiếm](../M/Morgul-knife.md) của họ dường như đã được sử dụng để khủng bố những người hầu của họ, như Gorbag ​​đã chứng thực, và nếu mảnh vỡ của một lưỡi kiếm như vậy chạm vào trái tim của Frodo, ông sẽ không chỉ biến thành một tồn tại vô hình mà còn thành người hầu ma quái của một Nazgûl.<sup id="cite_ref-Meet_3-3" class="reference"><a href="#cite_note-Meet-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

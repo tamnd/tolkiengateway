@@ -84,7 +84,7 @@ trong [T.A.](../T/Third_Age.md) [1250](../T/Third_Age_1250.md) cha của Valacar
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Một bản thảo muộn về nội dung sau này trở thành mục nhập cho Minalcar, Valacar và Eldacar trong Appendix A trong ấn bản thứ hai của The Lord of the Rings, cũng đề cập rằng Romendakil đã chấp thuận cuộc hôn nhân vì ông ta muốn tránh chọc giận Người phương Bắc và gây ra sự thù địch với Vidugavia mà việc từ chối cuộc hôn nhân sẽ gây ra. Nó cũng đề cập rằng Minalkcar đã gọi Valakar trở lại Gondor ở [T.A.](../T/Third_Age.md) [1240](../T/Third_Age_1240.md) và một gia đình gồm những người đàn ông và phụ nữ quý tộc của Người phương Bắc đã đi cùng Valakar cùng vợ con của ông ta đến Gondor. Người ta còn đề cập thêm rằng Valakar đã đặt tên Eldakar cho con trai mình để sử dụng công khai trong Gondor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Một bản thảo muộn về nội dung sau này trở thành mục nhập cho Minalcar, Valacar và Eldacar trong Appendix A trong ấn bản thứ hai của The Lord of the Rings, cũng đề cập rằng Romendakil đã chấp thuận cuộc hôn nhân vì ông muốn tránh chọc giận Người phương Bắc và gây ra sự thù địch với Vidugavia mà việc từ chối cuộc hôn nhân sẽ gây ra. Nó cũng đề cập rằng Minalkcar đã gọi Valakar trở lại Gondor ở [T.A.](../T/Third_Age.md) [1240](../T/Third_Age_1240.md) và một gia đình gồm những người đàn ông và phụ nữ quý tộc của Người phương Bắc đã đi cùng Valakar cùng vợ con của ông đến Gondor. Người ta còn đề cập thêm rằng Valakar đã đặt tên Eldakar cho con trai mình để sử dụng công khai trong Gondor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

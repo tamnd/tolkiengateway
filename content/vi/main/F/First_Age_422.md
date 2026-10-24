@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Belegund](../B/Belegund.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- [Fingolfin](Fingolfin.md) cân nhắc việc tấn công [Morgoth](../M/Morgoth.md), nhưng [Noldor](../N/Noldor.md) khác, có nội dung ngày càng phát triển, đã chậm bắt đầu một cuộc tấn công tốn kém; kế hoạch của ông ta vì vậy đã bị trì hoãn và trở nên vô ích<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Fingolfin](Fingolfin.md) cân nhắc việc tấn công [Morgoth](../M/Morgoth.md), nhưng [Noldor](../N/Noldor.md) khác, có nội dung ngày càng phát triển, đã chậm bắt đầu một cuộc tấn công tốn kém; kế hoạch của ông vì vậy đã bị trì hoãn và trở nên vô ích<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

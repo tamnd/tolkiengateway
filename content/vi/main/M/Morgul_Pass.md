@@ -44,7 +44,7 @@ Phiên bản trước của chương mà sau này trở thành chương Những 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đèo Morgul được bảo vệ bởi một cánh cổng lớn tên là "Fennas Gost". Sau khi <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a> Fennas Gost bị phong ấn theo lệnh của <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a>, người đã tự rào chắn bên trong <a href="Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>. Sau đó nó đã bị Ithilien kiểm lâm của <a href="../W/White_Company.md" title="White Company">Đại đội Trắng</a> buộc phải mở ra.</dd></dl>
 

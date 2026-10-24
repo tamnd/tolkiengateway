@@ -62,7 +62,7 @@ infobox:
 
 Turgon là con trai của Quản gia [Túrin II](Túrin_II.md). Không giống như triều đại của cha ông (và của con trai ông), sự cai trị của ông rõ ràng là hòa bình và không có biến cố, vì không có sự kiện quan trọng nào trong Gondor được ghi lại trong suốt 39 năm đó.
 
-Tuy nhiên, thời kỳ cai trị của ông ta đã gần kết thúc, vào năm [T.A.](Third_Age.md) [2951](Third_Age_2951.md), khi [Sauron](../S/Sauron.md) tuyên bố công khai vào năm [Mordor](../M/Mordor.md); ông tập trung quyền lực của mình ở đó và bắt đầu xây dựng lại [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tuy nhiên, thời kỳ cai trị của ông đã gần kết thúc, vào năm [T.A.](Third_Age.md) [2951](Third_Age_2951.md), khi [Sauron](../S/Sauron.md) tuyên bố công khai vào năm [Mordor](../M/Mordor.md); ông tập trung quyền lực của mình ở đó và bắt đầu xây dựng lại [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Con trai ông [Ecthelion](../E/Ecthelion_II.md) kế vị ngai vàng.
 

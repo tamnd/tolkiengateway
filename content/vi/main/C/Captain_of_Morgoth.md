@@ -39,7 +39,7 @@ infobox:
 
 Đội trưởng của Morgoth đã được lệnh đảm bảo rằng lực lượng của Fingon được đưa vào trận chiến càng sớm càng tốt bằng mọi biện pháp cần thiết để Fingon không thể có cơ hội đánh bại quân chủ lực của [Morgoth](../M/Morgoth.md).
 
-Khi Orc của ông ta hành quân đến [Eithel Sirion](../E/Eithel_Sirion.md) trong tầm nhìn của [Barad Eithel](../B/Barad_Eithel.md), Đội trưởng của Morgoth đã cử những người cưỡi ngựa mang theo [thẻ parley](<../G/Gelmir_(son_of_Guilin).md>) tới các bức tường của công trình phụ. Khi đến đó, sứ giả của các kỵ sĩ đã chặt đứt tay chân của Gelmir và khiến ông ta chết.
+Khi Orc của ông hành quân đến [Eithel Sirion](../E/Eithel_Sirion.md) trong tầm nhìn của [Barad Eithel](../B/Barad_Eithel.md), Đội trưởng của Morgoth đã cử những người cưỡi ngựa mang theo [thẻ parley](<../G/Gelmir_(son_of_Guilin).md>) tới các bức tường của công trình phụ. Khi đến đó, sứ giả của các kỵ sĩ đã chặt đứt tay chân của Gelmir và khiến ông chết.
 
 Trong khi các sứ giả và các kỵ sĩ đã thiệt mạng dưới sự chỉ huy của [đại đội của Gwindor](../G/Gwindor.md) [](../E/Elves.md), vẫn chưa biết liệu Thuyền trưởng của Morgoth có bị giết hay không.<sup id="cite_ref-Fifth_1-1" class="reference"><a href="#cite_note-Fifth-1">[1]</a></sup>
 

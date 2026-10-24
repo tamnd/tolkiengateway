@@ -34,7 +34,7 @@ infobox:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Patrick_Browne_23_May_1972.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/29/Patrick_Browne_23_May_1972.jpg/300px-Patrick_Browne_23_May_1972.jpg" decoding="async" loading="lazy" width="300" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/29/Patrick_Browne_23_May_1972.jpg 1.5x" data-file-width="400" data-file-height="600"/></a><figcaption></figcaption></figure>
 
-Tolkien nói với Ngài Patrick Browne về cái giá của sự nổi tiếng và quan điểm của ông về việc trở thành một nhân vật được sùng bái: điều đó không hề dễ chịu chút nào. Nó làm cho ông ta cảm thấy nhỏ bé và thiếu thốn, mặc dù ông ta cảm thấy hãnh diện.
+Tolkien nói với Ngài Patrick Browne về cái giá của sự nổi tiếng và quan điểm của ông về việc trở thành một nhân vật được sùng bái: điều đó không hề dễ chịu chút nào. Nó làm cho ông cảm thấy nhỏ bé và thiếu thốn, mặc dù ông cảm thấy hãnh diện.
 
 ## Ghi chú {#Notes}
 

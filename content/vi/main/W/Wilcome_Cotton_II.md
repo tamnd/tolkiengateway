@@ -73,7 +73,7 @@ Từ [tiếng Anh cổ](../O/Old_English.md) *willa* "niềm vui" + *cuma* "khá
 
 <dl><dd>Wilcome sống ở số 5, ngõ Nam, ở <a href="../B/Bywater.md" title="Bywater">Bywater</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Jolly Cotton có thể được tìm thấy trong trang trại của gia đình ông, làm việc đất cùng với anh trai Nick. Ông không đóng vai trò gì trong cốt truyện.</dd></dl>
 

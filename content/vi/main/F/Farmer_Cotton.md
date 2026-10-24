@@ -114,7 +114,7 @@ Vào một thời điểm nào đó trong hai năm tiếp theo, từ [13 tháng 
 
 <dl><dd>Một Hobbit có quả bí ngô lớn từ <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> được <a href="../D/Decipher.md" title="Decipher">Decipher</a> xác định là Tolman Cotton.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tom sống cùng gia đình tại một trang trại ngay phía bắc Bywater và cạnh Three Farthing Stone. Trong Hội chợ Nông dân, bạn có thể tìm thấy ông tại lều nấm gần Three Farthing Stone đang trò chuyện với <a href="Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> và <a class="mw-redirect" href="../H/Hamfast_Gamgee.md" title="Hamfast Gamgee">Hamfast Gamgee</a>.</dd></dl>
 

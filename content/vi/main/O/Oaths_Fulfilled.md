@@ -44,4 +44,4 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md) băng qua chiến trường [cánh đồng Pelennor](../P/Pelennor_Fields.md) và tìm thấy [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md). [Vua của Người chết](../K/King_of_the_Dead.md) yêu cầu được thả ra, nhưng Gimli phản đối, "*Rất hữu ích trong tình thế khó khăn những chàng trai này, mặc dù thực tế là họ đã chết.*" Vua của Người chết nhắc nhở Aragorn rằng ông ta đã hứa với ông ta và Aragorn tôn trọng lời hứa của ông ta.
+[Gandalf](../G/Gandalf.md) và [Pippin](../P/Peregrin_Took.md) băng qua chiến trường [cánh đồng Pelennor](../P/Pelennor_Fields.md) và tìm thấy [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md). [Vua của Người chết](../K/King_of_the_Dead.md) yêu cầu được thả ra, nhưng Gimli phản đối, "*Rất hữu ích trong tình thế khó khăn những chàng trai này, mặc dù thực tế là họ đã chết.*" Vua của Người chết nhắc nhở Aragorn rằng ông đã hứa với ông và Aragorn tôn trọng lời hứa của ông.

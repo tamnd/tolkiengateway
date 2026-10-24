@@ -32,7 +32,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mái vòm Ngôi sao nằm ở phía bắc thành phố. Sau <a href="../S/Sauron&#39;s_attack_on_Osgiliath.md" title="Sauron&#39;s attack on Osgiliath">Sauron cuộc tấn công vào Osgiliath</a> ở <a href="../T/Third_Age_3018.md" title="Third Age 3018">T.A. 3018</a>, lực lượng của ông đã đánh sập cây cầu dẫn đến Mái vòm Ngôi sao từ phía tây, biến nó thành thành trì của họ. Sau đó trong <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, Mái vòm đóng vai trò là chỗ đậu cho một trong những <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> mà người chơi đối đầu trong phòng palantír trong phiên bản nhóm. Sau khi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morgul-host&amp;action=edit&amp;redlink=1" title="Morgul-host (page does not exist)">Morgul-host</a> di chuyển đến <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">cánh đồng Pelennor</a>, một số <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers của Ithilien</a> vẫn ẩn náu bên trong cống của thành phố và bị cắt đứt khỏi lực lượng còn lại của <a href="../G/Gondor.md" title="Gondor">Gondor</a>, lẻn vào Dome of Stars và quan sát <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">trận chiến cánh đồng Pelennor</a> từ trên đỉnh của nó.</dd></dl>
 

@@ -60,7 +60,7 @@ infobox:
 
 Người ta biết rất ít về cuộc đời của ông trong [Hòa bình Cảnh giác](../W/Watchful_Peace.md), ngoài việc ông kế vị cha mình khi Aravir qua đời vào năm 2319. Có khả năng là thời gian cai trị ngắn ngủi của ông không mấy suôn sẻ, với những trận chiến nhỏ để giải phóng vùng đất của tà ác.
 
-Thật vậy, sau khi cai trị với tư cách Thủ lĩnh chỉ được tám năm, cuộc đời của ông ta đã bị cắt ngắn vào [T.A.](../T/Third_Age.md) [2327](../T/Third_Age_2327.md), khi ông ta bị giết bởi [những con sói](../W/Wolves.md) man rợ ở [Eriador](../E/Eriador.md) (vốn luôn là mối nguy hiểm ở vùng đất đó). Ông được kế vị bởi con trai ông [Araglas](Araglas.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Thật vậy, sau khi cai trị với tư cách Thủ lĩnh chỉ được tám năm, cuộc đời của ông đã bị cắt ngắn vào [T.A.](../T/Third_Age.md) [2327](../T/Third_Age_2327.md), khi ông bị giết bởi [những con sói](../W/Wolves.md) man rợ ở [Eriador](../E/Eriador.md) (vốn luôn là mối nguy hiểm ở vùng đất đó). Ông được kế vị bởi con trai ông [Araglas](Araglas.md).<sup id="cite_ref-North_2-1" class="reference"><a href="#cite_note-North-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -69,7 +69,7 @@ infobox:
 
 Sau khi gia nhập Beleriand theo sự đấu thầu của [Morgoth](../M/Morgoth.md), Ulfang và các con trai của ông [Uldor](Uldor.md), [Ulfast](Ulfast.md) và [Ulwarth](Ulwarth.md) đã tham gia dịch vụ của [Caranthir](../C/Caranthir.md). Họ được cấp đất để ở tại [Đông Beleriand](../E/East_Beleriand.md).<sup id="cite_ref-Fin_2-1" class="reference"><a href="#cite_note-Fin-2">[2]</a></sup>
 
-Tuy nhiên, [các con trai của Fëanor](../S/Sons_of_Fëanor.md) không hề hay biết, Ulfang đã bí mật làm thuê cho Morgoth, và các con trai của ông ta đã phản bội [Eldar](../E/Eldar.md) và [Edain](../E/Edain.md) trong [Trận chiến không nước mắt](../B/Battle_of_Unnumbered_Tears.md) thảm khốc.<sup id="cite_ref-Battle_3-0" class="reference"><a href="#cite_note-Battle-3">[3]</a></sup>
+Tuy nhiên, [các con trai của Fëanor](../S/Sons_of_Fëanor.md) không hề hay biết, Ulfang đã bí mật làm thuê cho Morgoth, và các con trai của ông đã phản bội [Eldar](../E/Eldar.md) và [Edain](../E/Edain.md) trong [Trận chiến không nước mắt](../B/Battle_of_Unnumbered_Tears.md) thảm khốc.<sup id="cite_ref-Battle_3-0" class="reference"><a href="#cite_note-Battle-3">[3]</a></sup>
 
 Nhưng dù Morgoth giành chiến thắng trong trận chiến đó, cả ba người con trai của Ulfang đều bị giết ở đó.<sup id="cite_ref-Battle_3-1" class="reference"><a href="#cite_note-Battle-3">[3]</a></sup>
 
@@ -89,7 +89,7 @@ Tên trước đó của nhân vật là *Ulband*,<sup id="cite_ref-5" class="re
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Mặc dù Ulfang là kẻ chủ mưu phản bội các Easterlings, nhưng ông ta không được nhắc đến là đã tham gia trận chiến, và người ta lưu ý rằng con trai ông ta Uldor là kẻ cầm đầu cuộc phản bội.
+Mặc dù Ulfang là kẻ chủ mưu phản bội các Easterlings, nhưng ông không được nhắc đến là đã tham gia trận chiến, và người ta lưu ý rằng con trai ông Uldor là kẻ cầm đầu cuộc phản bội.
 
 Trong phụ lục *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)* trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Genealogies&amp;action=edit&amp;redlink=1" title="The Genealogies (page does not exist)">Gia phả</a></i> (có niên đại từ đầu [1930](../_/1930.md)), có ghi rằng Ulfand the Swart (tên trước đây của *Ulfang*) sinh năm 100 và mất năm 170.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 

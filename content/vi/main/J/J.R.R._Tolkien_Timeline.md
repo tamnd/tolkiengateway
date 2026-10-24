@@ -78,7 +78,7 @@ Bài viết này nhằm mục đích liệt kê những sự kiện chính trong
 ## [1910](../_/1910.md) {#1910}
 
 - [Tháng 1](January.md): Tolkien và anh trai chuyển đến nhà của Thomas Macsherry tại số 4 đường Highfield.
-- [21 tháng 1](../_/21_January.md): Tolkien và Edith có một cuộc gặp bí mật, điều mà Cha Francis biết được. Ông ta cấm Tolkien mọi liên lạc với Edith cho đến khi ông ta 21 tuổi.
+- [21 tháng 1](../_/21_January.md): Tolkien và Edith có một cuộc gặp bí mật, điều mà Cha Francis biết được. Ông cấm Tolkien mọi liên lạc với Edith cho đến khi ông 21 tuổi.
 - [Tháng 12](../D/December.md): Tolkien giành được học bổng của Exeter College, Oxford.
 
 ## [1911](../_/1911.md) {#1911}

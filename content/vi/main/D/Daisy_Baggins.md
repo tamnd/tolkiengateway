@@ -63,7 +63,7 @@ Daisy là con gái của [Dudo Baggins](Dudo_Baggins.md), sinh năm [S.R.](../S/
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007 <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007 <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Daisy Boffin thường xuất hiện trong <a href="../B/Bywater.md" title="Bywater">Bywater</a> với tư cách là nhà cung cấp không có dòng sản phẩm độc đáo. Trong Lễ hội Yule hàng năm, bà được tìm thấy tại <a class="mw-redirect" href="../P/Party_Tree.md" title="Party Tree">Cây tiệc tùng</a> nơi bà yêu cầu người chơi hỗ trợ chuẩn bị cho lễ kỷ niệm.</dd></dl>
 

@@ -176,7 +176,7 @@ Beregond có tổ tiên là những người đến từ các thung lũng của 
 
 <dl><dd>Beregond là một chiến binh có thể chơi được.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Beregond lần đầu gặp nhau ở vòng thứ bảy của <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> ngay trước trận chiến. Người chơi hỗ trợ Beregond và anh trai của mình thực hiện nhiệm vụ xung quanh Merethrond và các nhà khách. Vì hành động giết chết hai lính canh trong khi cứu mạng <a href="../F/Faramir.md" title="Faramir">Faramir</a>, <a href="../A/Aragorn.md" title="Aragorn">Vua Elessar</a> đã trục xuất Beregond cư trú tại <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, mặc dù ông và vợ Gilithel vẫn được phép tham dự đám cưới của Aragorn và <a href="../A/Arwen.md" title="Arwen">Arwen</a>. Sau khi Vua Elessar buộc tội Quản gia <a href="../F/Faramir.md" title="Faramir">Faramir</a> thanh tẩy tà ác của <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a> và <a href="../M/Morgul_Vale.md" title="Morgul Vale">Thung lũng Morgul</a>, Beregond gia nhập Công ty Trắng và có thể được tìm thấy trong một trại bên ngoài Thành phố Chết.</dd></dl>
 

@@ -64,7 +64,7 @@ Trong phiên bản trước đó của cây gia phả của gia tộc Brandybuck
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Doderic Brandybuck đã mạo hiểm vào <a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a> cùng với người bạn Rollo, con trai của <a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a>. <a href="../S/Saradoc_Brandybuck.md" title="Saradoc Brandybuck">Saradoc Brandybuck</a> yêu cầu người chơi tìm chúng và gửi lại.</dd></dl>
 

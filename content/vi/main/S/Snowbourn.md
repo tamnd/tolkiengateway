@@ -52,7 +52,7 @@ Sau [Trận Hornburg](../B/Battle_of_the_Hornburg.md), Vua [Théoden](../T/Théo
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sau khi đi qua <a href="../U/Underharrow.md" title="Underharrow">Underharrow</a> khi chảy qua <a href="../H/Harrowdale.md" title="Harrowdale">Harrowdale</a>, Snowbourn trở nên tương đối yên tĩnh, có một số cây cầu và bến cạn tạo thành điểm băng qua. Ngay phía tây của <a href="../E/Edoras.md" title="Edoras">Edoras</a> nó được nối với nhánh chính của nó, sông "Woodwell". Nơi nó nối với <a href="../E/Entwash.md" title="Entwash">Entwash</a> là thị trấn Snowbourn, duy nhất trong tất cả <a href="../R/Rohan.md" title="Rohan">Rohan</a> vì các tòa nhà Rohirric rõ ràng bao quanh một pháo đài đá <a href="../G/Gondor.md" title="Gondor">Gondor</a> cũ.</dd></dl>
 

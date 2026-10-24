@@ -64,7 +64,7 @@ Tolkien viết cho con trai mình là [Michael](../M/Michael_Tolkien.md) rằng 
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Celebdil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_Online_-_Celebdil.jpg/300px-The_Lord_of_the_Rings_Online_-_Celebdil.jpg" decoding="async" loading="lazy" width="300" height="174" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_Online_-_Celebdil.jpg/450px-The_Lord_of_the_Rings_Online_-_Celebdil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_Online_-_Celebdil.jpg/600px-The_Lord_of_the_Rings_Online_-_Celebdil.jpg 2x" data-file-width="1490" data-file-height="862"/></a><figcaption>Celebdil và <a href="../D/Durin&#39;s_Tower.md" title="Durin&#39;s Tower">Tháp Durin</a> nhìn từ <a href="../M/Mirrormere.md" title="Mirrormere">Mirrormere</a> ở<i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Trực tuyến: Mỏ Moria</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mỏ Moria</a></i>:</b>
 
 <dl><dd>Người chơi có thể đến thăm vách đá Zirakzigil, nơi hiện đang cư trú thi thể của <i>Durin&#39;s Bane</i>. Ngoài ra, một khu vực rộng lớn của mỏ được mệnh danh là <b>Silvertine Lodes</b> - do nằm bên dưới Silvertine.</dd></dl>
 

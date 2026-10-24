@@ -238,7 +238,7 @@ Faramir, theo lời Tolkien, là người “khiêm nhường, công tâm, hết
 
 <dl><dd>Giọng nói của Faramir được cung cấp bởi Jozef Vajda. Nam diễn viên này cũng từng đóng vai anh trai của Faramir Boromir trước đó trong loạt phim phát thanh.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vai trò của Faramir trong Cuộc chiến Nhẫn tương đối nhỏ trong trò chơi, vì khi đạt đến Minas Tirith Faramir thì người chơi đã bị thương và đang sốt. Lần xuất hiện nổi bật đầu tiên của anh phải đến lễ đăng quang của Vua Elessar. Sau đó, Aragorn giao cho Quản lý và Biệt đội của Ithilien thanh tẩy tà ác của Minas Morgul và Thung lũng Morgul. Faramir lãnh đạo Biệt đội thành lập một số trại bên ngoài thành phố chết. Cuối cùng, ông gia nhập đội của <a href="../D/Damrod.md" title="Damrod">Damrod</a> bên trong các bức tường Minas Morgul, làm việc để chống lại cái ác ở các tầng trên của thành phố.</dd></dl>
 

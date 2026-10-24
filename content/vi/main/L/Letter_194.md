@@ -37,7 +37,7 @@ Tuy nhiên, trong một cuộc trò chuyện riêng Tolkien muốn biết tại 
 
 Trong khi Tolkien cảm thấy hãnh diện và hài lòng khi được mọi người chú ý đến cuốn sách, ông hỏi tại sao lại trình bày nó theo hình thức này? Nghệ thuật đọc cũ hơn sẽ tốt hơn kịch, tập trung vào đối thoại và loại bỏ bối cảnh. Tolkien kêu gọi sự chú ý đến hai điểm: Cảnh nến xác chết đã bị cắt đến mức không hiệu quả và sự ăn năn gần như của [Gollum](../G/Gollum.md) gần như biến mất. Cả khung cảnh và nhân vật đều trở nên phẳng lặng. Một người kể chuyện sẽ thú vị hơn với người nghe và công bằng hơn với tác giả.
 
-Tolkien thừa nhận thiếu kinh nghiệm trong lĩnh vực này. Ông ta không chỉ trích văn bản của Tiller mà thở dài vì điều gì đó khác. Nhưng liệu một câu chuyện được kể bằng sử thi có thể được diễn lại thành công thành một vở kịch không? <br>
+Tolkien thừa nhận thiếu kinh nghiệm trong lĩnh vực này. Ông không chỉ trích văn bản của Tiller mà thở dài vì điều gì đó khác. Nhưng liệu một câu chuyện được kể bằng sử thi có thể được diễn lại thành công thành một vở kịch không? <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -57,7 +57,7 @@ Khi đến [Valinor](../V/Valinor.md), cô và anh trai Makar đã định cư �
 
 Khi [Tiên tộc](../E/Elves.md) thức dậy và Valar mời họ đến sống giữa các vị thần, cô đã ủng hộ Makar trong việc phản đối những người còn lại trong số họ, nói rằng Valinor được chế tạo chỉ dành cho Valar.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Cô cùng với anh trai mình và những người còn lại trong Valar truy đuổi Melko và những người hầu của ông ta, những người đang trốn thoát khỏi Valinor sau khi [Hai Cây](../T/Two_Trees.md) bị phá hủy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cô cùng với anh trai mình và những người còn lại trong Valar truy đuổi Melko và những người hầu của ông, những người đang trốn thoát khỏi Valinor sau khi [Hai Cây](../T/Two_Trees.md) bị phá hủy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

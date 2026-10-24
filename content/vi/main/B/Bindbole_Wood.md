@@ -44,7 +44,7 @@ Ngay cả chính Tolkien cũng nhắc đến *Bindbale* trong một ghi chú vi�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Rừng Bindbole gần như bắt đầu ngay phía bắc của <a class="mw-redirect" href="../T/The_Hill.md" title="The Hill">the Hill</a> và trải dài về phía đông đến <a class="mw-redirect" href="Brockenborings.md" title="Brockenborings">Brockenborings</a>. <a href="../O/Overhill.md" title="Overhill">Overhill</a> nằm hoàn toàn trong Rừng Bindbole, trên con đường duy nhất nối Brockenborings với <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a>.</dd></dl>
 

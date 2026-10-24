@@ -87,7 +87,7 @@ Vào thành phố bằng [Đường Morgul](Morgul-road.md), chạy từ Osgilia
 
 Sau sự tàn phá của [Númenor](../N/Númenor.md), [Isildur](../I/Isildur.md) và [Anárion](../A/Anárion.md), những người con trai của [Elendil](../E/Elendil.md) đã đổ bộ vào [Gondor](../G/Gondor.md). Isildur được xây dựng Minas Ithil gần biên giới miền núi [Mordor](Mordor.md) từ đó ông sẽ cai trị thái ấp [Ithilien](../I/Ithilien.md); trong khi Anárion xây dựng [Minas Anor](Minas_Anor.md) để cai trị thái ấp [Anórien](../A/Anórien.md). Minas Ithil chứa [Ithil-stone](../I/Ithil-stone.md), một *[palantír](../P/Palantíri.md).*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Khi [Sauron](../S/Sauron.md) quay trở lại sau khi thoát khỏi sự hủy diệt của [Númenor](../N/Númenor.md), ông ta đã tấn công những người lưu vong của Númenor, và lực lượng của ông ta [đã tấn công Minas Ithil](../F/First_Fall_of_Minas_Ithil.md) như một cơn bão. Khi [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md) đánh bại Sauron vào năm [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md), Minas Ithil đã được khôi phục làm tháp canh.
+Khi [Sauron](../S/Sauron.md) quay trở lại sau khi thoát khỏi sự hủy diệt của [Númenor](../N/Númenor.md), ông đã tấn công những người lưu vong của Númenor, và lực lượng của ông [đã tấn công Minas Ithil](../F/First_Fall_of_Minas_Ithil.md) như một cơn bão. Khi [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md) đánh bại Sauron vào năm [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md), Minas Ithil đã được khôi phục làm tháp canh.
 
 ### Kỷ Đệ Tam {#Third_Age}
 
@@ -95,7 +95,7 @@ Sau khi đánh bại [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/A
 
 Minas Ithil đã bị chiếm giữ bởi những sinh vật sa ngã, và nó biến thành một nơi hôi hám, xấu xa. Kết quả là nó được gọi là Minas Morgul, theo [tiếng Gondor](../G/Gondor_Sindarin.md) có nghĩa là "Tháp ma thuật hắc ám". Nhiều [người Gondor](../G/Gondorians.md) bỏ trốn khỏi [Ithilien](../I/Ithilien.md).<sup id="cite_ref-gondor_9-0" class="reference"><a href="#cite_note-gondor-9">[9]</a></sup>
 
-Từ Minas Morgul Chúa tể Nazgûl đã hai lần thách thức kẻ thù cũ của mình, Vua [Eärnur](../E/Eärnur.md). Cuối cùng Eärnur cưỡi ngựa cùng các hiệp sĩ của mình chống lại Morgul. Ông ta không bao giờ quay trở lại, kết thúc dòng dõi [Những vị vua của Gondor](../K/Kings_of_Gondor.md).<sup id="cite_ref-ta_7-2" class="reference"><a href="#cite_note-ta-7">[7]</a></sup><sup id="cite_ref-gondor_9-1" class="reference"><a href="#cite_note-gondor-9">[9]</a></sup>
+Từ Minas Morgul Chúa tể Nazgûl đã hai lần thách thức kẻ thù cũ của mình, Vua [Eärnur](../E/Eärnur.md). Cuối cùng Eärnur cưỡi ngựa cùng các hiệp sĩ của mình chống lại Morgul. Ông không bao giờ quay trở lại, kết thúc dòng dõi [Những vị vua của Gondor](../K/Kings_of_Gondor.md).<sup id="cite_ref-ta_7-2" class="reference"><a href="#cite_note-ta-7">[7]</a></sup><sup id="cite_ref-gondor_9-1" class="reference"><a href="#cite_note-gondor-9">[9]</a></sup>
 
 Trong [Hòa bình thận trọng](../W/Watchful_Peace.md), các lãnh chúa của Morgul đã bí mật nhân giống [Uruk-hai](../U/Uruk-hai.md), và trong [T.A.](../T/Third_Age.md) [2475](../T/Third_Age_2475.md) những sinh vật này đã tấn công và áp đảo Ithilien.
 
@@ -107,7 +107,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), máy chủ từ Minas Mo
 
 Sau trận chiến, [Quân đội Phương Tây](../A/Army_of_the_West.md) đã đánh sập cây cầu dẫn đến [Thung lũng Morgul](Morgul_Vale.md) và đốt cháy các cánh đồng của nó. Họ không gặp phải sự phản đối nào vì toàn bộ quân đồn trú của thành phố đã bị giết trong Trận chiến.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Sau Cuộc chiến Nhẫn, [Faramir](../F/Faramir.md) được tạo ra [Thân vương của Ithilien](../P/Prince_of_Ithilien.md) bởi Vua [Elessar](../A/Aragorn.md), người đã khuyên ông ta nên chuyển đến nơi ở của mình ở [Emyn Arnen](../E/Emyn_Arnen.md) phía đông nam Minas Tirith vì "Minas Ithil ở Thung lũng Morgul sẽ bị phá hủy hoàn toàn, và mặc dù nó có thể được dọn sạch trong thời gian tới, nhưng không ai có thể sống ở đó trong nhiều năm dài".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Người ta không biết liệu thành phố có bao giờ được xây dựng lại hay không.
+Sau Cuộc chiến Nhẫn, [Faramir](../F/Faramir.md) được tạo ra [Thân vương của Ithilien](../P/Prince_of_Ithilien.md) bởi Vua [Elessar](../A/Aragorn.md), người đã khuyên ông nên chuyển đến nơi ở của mình ở [Emyn Arnen](../E/Emyn_Arnen.md) phía đông nam Minas Tirith vì "Minas Ithil ở Thung lũng Morgul sẽ bị phá hủy hoàn toàn, và mặc dù nó có thể được dọn sạch trong thời gian tới, nhưng không ai có thể sống ở đó trong nhiều năm dài".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Người ta không biết liệu thành phố có bao giờ được xây dựng lại hay không.
 
 ## Từ nguyên {#Etymology}
 
@@ -158,7 +158,7 @@ Trong các bản dự thảo trước đó, Minas Morgul được gọi là Mina
 
 <b><a href="../_/2017.md" title="2017">2017</a>: <i><a href="Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Trung Địa: Bóng Tối chiến tranh</a></i>:</b>
 
-<b><a href="../_/2019.md" title="2019">2019</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2019.md" title="2019">2019</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong cuộc hành quân của Đạo quân Phương Tây về phía <a href="../B/Black_Gate.md" title="Black Gate">Cổng Đen</a> <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> đã phá hủy cây cầu dẫn ra Minas Morgul để ngăn chặn quân của <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> bị tấn công từ bên sườn. Sau sự sụp đổ của Sauron, hành động này vô tình có tác dụng bảo vệ Thành phố Chết khỏi bất kỳ cuộc tấn công nào từ phía tây. Sau lễ đăng quang của Aragorn, Vua Elessar giao cho người quản lý <a href="../F/Faramir.md" title="Faramir">Faramir</a> và <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers của Ithilien</a> nhiệm vụ đòi lại <a href="Morgul_Vale.md" title="Morgul Vale">Thung lũng Morgul</a> và dọn sạch Thành phố Chết.</dd></dl>
 

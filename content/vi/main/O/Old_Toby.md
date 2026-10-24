@@ -66,7 +66,7 @@ Tên [Westron](../W/Westron.md) chính hãng là <i><a class="new" href="https:/
 
 <dl><dd><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> kể lại giấc mơ của mình cho <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> ở <a href="../F/Fangorn_Forest.md" title="Fangorn Forest">Rừng Fangorn</a>. Trong giấc mơ của anh, họ hút một thùng lớn chứa đầy cỏ tẩu và Pippin nôn mửa. Ông nói 'Tôi sẵn sàng đánh đổi bất cứ thứ gì để ngửi thấy mùi Old Toby.'</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Khói từ Old Toby Pipe-weed có hình dạng một trái tim lớn với một chiếc nhẫn bên trong.</dd></dl>
 

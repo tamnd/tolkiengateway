@@ -56,7 +56,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Aldor bắn mũi tên sớm và giết chết một người lính [Uruk-hai](../U/Uruk-hai.md), khiến [Orc quân](../O/Orcs.md) tấn công pháo đài. Người ta không biết liệu ông ta có sống sót sau trận chiến hay không.
+Aldor bắn mũi tên sớm và giết chết một người lính [Uruk-hai](../U/Uruk-hai.md), khiến [Orc quân](../O/Orcs.md) tấn công pháo đài. Người ta không biết liệu ông có sống sót sau trận chiến hay không.
 
 <span></span>
 

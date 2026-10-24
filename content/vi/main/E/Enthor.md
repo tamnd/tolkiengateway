@@ -39,7 +39,7 @@ infobox:
 
 **Enthor** là chồng của [Hiril](../H/Hiril.md), con gái của [Halmir](../H/Halmir.md) [Thủ lĩnh của Brethil](../C/Chieftain_of_Brethil.md), đồng thời là cha của [Meleth](../M/Meleth.md), mẹ của [Hunthor](../H/Hunthor.md) và [Manthor](../M/Manthor.md).<sup id="cite_ref-Enthor_1-0" class="reference"><a href="#cite_note-Enthor-1">[1]</a></sup>
 
-Có khả năng là Enthor hoặc con rể [Agathor](../A/Agathor.md) của ông ta là hậu duệ của [Nhà Hador](../H/House_of_Hador.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Có khả năng là Enthor hoặc con rể [Agathor](../A/Agathor.md) của ông là hậu duệ của [Nhà Hador](../H/House_of_Hador.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

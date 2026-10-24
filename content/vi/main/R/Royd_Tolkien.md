@@ -46,7 +46,7 @@ infobox:
 
 Royd Tolkien đóng vai [Ranger](Rangers_of_Ithilien.md) trong *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [người chôn cất](Rangers_of_Ithilien.md) của [Vua Phù thủy](../W/Witch-king.md) trong Phiên bản mở rộng của *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Ông nói rằng ông không biết liệu mình đã từng gặp ông cố của mình hay chưa nhưng chị gái ông, Amanda lớn hơn một tuổi, có một bức ảnh với ông. Ông ta sở hữu một bản sao có chữ ký của *[The Hobbit](../T/The_Hobbit.md)*, với dòng chữ "Gửi Royd, JRR Tolkien".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ông nói rằng ông không biết liệu mình đã từng gặp ông cố của mình hay chưa nhưng chị gái ông, Amanda lớn hơn một tuổi, có một bức ảnh với ông. Ông sở hữu một bản sao có chữ ký của *[The Hobbit](../T/The_Hobbit.md)*, với dòng chữ "Gửi Royd, JRR Tolkien".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cây phả hệ {#Family_Tree}
 

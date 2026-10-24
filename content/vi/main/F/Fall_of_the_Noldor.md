@@ -35,11 +35,11 @@ images:
 
 ## Lịch sử {#History}
 
-Khi [Fëanor](Fëanor.md) dẫn [Noldor](../N/Noldor.md) đến [Lưu vong](../E/Exile.md), ông ta đã đến nơi trú ẩn [Alqualondë](../A/Alqualondë.md) để lấy các con tàu của [Teleri](../T/Teleri.md). Khi lãnh chúa của họ [Olwë](../O/Olwë.md) từ chối, Fëanor đã dẫn đầu một cuộc tấn công được gọi là [Tàn sát họ hàng](../K/Kinslaying_at_Alqualondë.md), trong đó máu của nhiều Noldor và Teleri đã đổ ra, trước khi lên đường cùng những con tàu mà ông ta cần phải quay trở lại [Trung Địa](../M/Middle-earth.md).
+Khi [Fëanor](Fëanor.md) dẫn [Noldor](../N/Noldor.md) đến [Lưu vong](../E/Exile.md), ông đã đến nơi trú ẩn [Alqualondë](../A/Alqualondë.md) để lấy các con tàu của [Teleri](../T/Teleri.md). Khi lãnh chúa của họ [Olwë](../O/Olwë.md) từ chối, Fëanor đã dẫn đầu một cuộc tấn công được gọi là [Tàn sát họ hàng](../K/Kinslaying_at_Alqualondë.md), trong đó máu của nhiều Noldor và Teleri đã đổ ra, trước khi lên đường cùng những con tàu mà ông cần phải quay trở lại [Trung Địa](../M/Middle-earth.md).
 
 Vì sự kiện này nên [Valar](../V/Valar.md) đã lên án Noldor"ngã ngựa"; một sứ giả (có lẽ chính [Mandos](../M/Mandos.md)) đã xuất hiện với họ ở [Araman](../A/Araman.md) và tuyên bố [Sự diệt vong của Noldor](../D/Doom_of_Mandos.md) và nguyền rủa những ai không ăn năn.
 
-[Maglor](../M/Maglor.md) là con trai thứ hai của Fëanor, và có mặt tại Kinslaying, mặc dù lịch sử không ghi lại vai trò của ông ta trong trận chiến. Ông cũng nổi tiếng là [nghệ sĩ biểu diễn](../M/Minstrels.md) và ca sĩ vĩ đại nhất trong Noldor, và sau đó ông đã sáng tác một bài hát than thở về những mất mát ở Alqualondë. Tên của nó là *[Noldolantë](../N/Noldolantë.md)*, cái tên được dịch là "Sự sụp đổ của Noldor".
+[Maglor](../M/Maglor.md) là con trai thứ hai của Fëanor, và có mặt tại Kinslaying, mặc dù lịch sử không ghi lại vai trò của ông trong trận chiến. Ông cũng nổi tiếng là [nghệ sĩ biểu diễn](../M/Minstrels.md) và ca sĩ vĩ đại nhất trong Noldor, và sau đó ông đã sáng tác một bài hát than thở về những mất mát ở Alqualondë. Tên của nó là *[Noldolantë](../N/Noldolantë.md)*, cái tên được dịch là "Sự sụp đổ của Noldor".
 
 <span></span>
 

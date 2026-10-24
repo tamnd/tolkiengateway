@@ -29,7 +29,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Carandrian là bạn của Quickbeam, và là một trong những Ent đã tham gia [Trận Isengard](../B/Battle_of_Isengard.md); trong trận chiến, ông ta bị thương bởi một chiếc rìu, điều này khiến những người còn lại trong Ent vô cùng tức giận.<sup id="cite_ref-War_1-1" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
+Carandrian là bạn của Quickbeam, và là một trong những Ent đã tham gia [Trận Isengard](../B/Battle_of_Isengard.md); trong trận chiến, ông bị thương bởi một chiếc rìu, điều này khiến những người còn lại trong Ent vô cùng tức giận.<sup id="cite_ref-War_1-1" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

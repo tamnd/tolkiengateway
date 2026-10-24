@@ -77,9 +77,9 @@ Sự kiện xảy ra vào ngày 2 tháng 3
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) nằm ở cuối [Đầm lầy Chết](../D/Dead_Marshes.md).
-    - [Gandalf](../G/Gandalf.md) đến [Edoras](../E/Edoras.md) và chữa lành [Théoden](../T/Théoden.md). [Éomer](Éomer.md) được thả ra và Théoden lại giữ [thanh kiếm của ông ta](../H/Herugrim.md).
+    - [Gandalf](../G/Gandalf.md) đến [Edoras](../E/Edoras.md) và chữa lành [Théoden](../T/Théoden.md). [Éomer](Éomer.md) được thả ra và Théoden lại giữ [thanh kiếm của ông](../H/Herugrim.md).
     - [Wormtongue](../G/Gríma.md) bị trục xuất và sau đó được nhìn thấy dẫn Orc về phía bắc.
-    - Gandalf được mệnh danh là chúa tể của [Rohan](../R/Rohan.md) và [Shadowfax](../S/Shadowfax.md) chính thức chuyển giao cho ông ta. [Rohirrim](../R/Rohirrim.md) đi về phía tây chống lại [Saruman](../S/Saruman.md).
+    - Gandalf được mệnh danh là chúa tể của [Rohan](../R/Rohan.md) và [Shadowfax](../S/Shadowfax.md) chính thức chuyển giao cho ông. [Rohirrim](../R/Rohirrim.md) đi về phía tây chống lại [Saruman](../S/Saruman.md).
     - [Trận vượt sông thứ hai của Isen](../S/Second_Battle_of_the_Fords_of_Isen.md), [Erkenbrand](../E/Erkenbrand.md) bị đánh bại.
     - [Entmoot](../E/Entmoot.md) kết thúc vào buổi chiều.
     - Cuộc hành quân [Ent](../E/Ents.md) vào [Isengard](../I/Isengard.md) và đến đó vào ban đêm.

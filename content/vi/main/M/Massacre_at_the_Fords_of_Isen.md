@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Các tay đua của Rohan](../R/Riders_of_Rohan.md) chạm trán xác người của Rohan và ngựa tại [Ford của Isen](../F/Fords_of_Isen.md). Éomer hướng dẫn họ tìm kiếm [Théodred](../T/Théodred.md), con trai của Vua [Théoden](../T/Théoden.md). Ông ta nhận ra [Bàn tay trắng](../W/White_Hand.md) của [Saruman](../S/Saruman.md) được vẽ trên áo giáp của lũ Orc. Họ tìm thấy Théodred bị thương nặng nhưng còn sống và đưa ông ta đến [Edoras](../E/Edoras.md).
+[Các tay đua của Rohan](../R/Riders_of_Rohan.md) chạm trán xác người của Rohan và ngựa tại [Ford của Isen](../F/Fords_of_Isen.md). Éomer hướng dẫn họ tìm kiếm [Théodred](../T/Théodred.md), con trai của Vua [Théoden](../T/Théoden.md). Ông nhận ra [Bàn tay trắng](../W/White_Hand.md) của [Saruman](../S/Saruman.md) được vẽ trên áo giáp của lũ Orc. Họ tìm thấy Théodred bị thương nặng nhưng còn sống và đưa ông đến [Edoras](../E/Edoras.md).
 
 ## Sự khác biệt {#Differences}
 

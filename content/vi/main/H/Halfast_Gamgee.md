@@ -54,7 +54,7 @@ infobox:
 
 Halfast là con trai của [Halfred](Halfred_of_Overhill.md), chú của [Samwise Gamgee](../S/Samwise_Gamgee.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông làm việc cho [Mr. Boffin](../B/Boffin_Family~66342.md) ở [Overhill](../O/Overhill.md) và thường lên [Northfarthing](../N/Northfarthing.md) để săn.
 
-Ông ta nổi tiếng với những câu chuyện hoang dã về những điều ông ta nhìn thấy. Theo báo cáo, ông ta đã gặp phải một "[Người cây](../T/Tree-men.md)" khi đi săn bên ngoài [North Moors](../N/North_Moors.md).
+Ông nổi tiếng với những câu chuyện hoang dã về những điều ông nhìn thấy. Theo báo cáo, ông đã gặp phải một "[Người cây](../T/Tree-men.md)" khi đi săn bên ngoài [North Moors](../N/North_Moors.md).
 
 Sam đã đề cập đến tin đồn này với [Ted Sandyman](../T/Ted_Sandyman.md) trong khi thảo luận về những tin tức kỳ lạ được nghe trong [Shire](../T/The_Shire.md) xung quanh [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -83,7 +83,7 @@ Cái tên này có thể xuất phát từ [tiếng Anh cổ](../O/Old_English.m
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hal Gamgee sống ở thị trấn Oatbarton ở <a href="../N/Northfarthing.md" title="Northfarthing">Northfarthing</a> <a href="../T/The_Shire.md" title="The Shire">The Shire</a>, trong trò chơi nằm trong vùng <a href="../E/Evendim.md" title="Evendim">Evendim</a>.</dd></dl>
 

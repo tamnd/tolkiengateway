@@ -77,7 +77,7 @@ Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), Warg xuất hi�
 
 Bọn Warg nghĩ rằng Người Lùn là đồng minh của Người Rừng nên đã bao vây trảng rừng và không cho chúng đi xuống. Gandalf sau đó sử dụng [ma thuật](../M/Magic.md) của mình để thắp sáng những quả thông và ném chúng vào Warg cho đến khi hắn đuổi chúng ra ngoài. Những con sói bốc cháy chạy vào rừng và đốt cháy ở một số nơi, vì trời đang là mùa hè, và ở sườn phía đông của dãy núi này đã có một thời gian ít mưa. Tuy nhiên, những người bảo vệ ở dưới gốc cây vẫn không biến mất. Cuối cùng Goblin xuất hiện và thắp sáng những cái cây mà Người Lùn đang ở cho đến khi [Đại Bàng](../E/Eagles.md) đến giải cứu họ.<sup id="cite_ref-H6_2-2" class="reference"><a href="#cite_note-H6-2">[2]</a></sup>
 
-Goblin và Warg nhất quyết đi tìm ban nhạc, vì Gandalf đã giết [Yêu tinh vĩ đại](../G/Great_Goblin.md) và cũng đốt mũi con sói trưởng. Họ đã đi xa tới tận nhà của [Beorn](../B/Beorn.md), nhưng ông ta đã bắt được một cặp và nhét đầu con yêu tinh ra ngoài cổng và đóng đinh bộ da warg vào một cái cây ngay bên ngoài<sup id="cite_ref-Queer_7-0" class="reference"><a href="#cite_note-Queer-7">[7]</a></sup>
+Goblin và Warg nhất quyết đi tìm ban nhạc, vì Gandalf đã giết [Yêu tinh vĩ đại](../G/Great_Goblin.md) và cũng đốt mũi con sói trưởng. Họ đã đi xa tới tận nhà của [Beorn](../B/Beorn.md), nhưng ông đã bắt được một cặp và nhét đầu con yêu tinh ra ngoài cổng và đóng đinh bộ da warg vào một cái cây ngay bên ngoài<sup id="cite_ref-Queer_7-0" class="reference"><a href="#cite_note-Queer-7">[7]</a></sup>
 
 Warg xuất hiện một lần nữa, được cưỡi bởi Goblin, tại [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-H17_1-1" class="reference"><a href="#cite_note-H17-1">[1]</a></sup> Sau đó, Warg đã biến mất khỏi rừng, nên những người đàn ông ra nước ngoài mà không hề sợ hãi.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
@@ -93,7 +93,7 @@ Trong danh sách tiếng Anh cổ tương đương với [Elvish](../E/Elvish.md
 
 ## Cảm hứng và ảnh hưởng {#Inspiration_and_influences}
 
-Trong tiếng Bắc Âu cổ thần thoại, chiến binh (*vargr*, từ đồng nghĩa với "sói", *ulfr*) đặc biệt là sói <a class="extiw" href="http://en.wikipedia.org/wiki/Fenrir" title="wikipedia:Fenrir">Fenrir</a> và các con trai của ông ta <a class="extiw" href="http://en.wikipedia.org/wiki/Skoll" title="wikipedia:Skoll">Skoll</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Hati" title="wikipedia:Hati">Hati</a>.
+Trong tiếng Bắc Âu cổ thần thoại, chiến binh (*vargr*, từ đồng nghĩa với "sói", *ulfr*) đặc biệt là sói <a class="extiw" href="http://en.wikipedia.org/wiki/Fenrir" title="wikipedia:Fenrir">Fenrir</a> và các con trai của ông <a class="extiw" href="http://en.wikipedia.org/wiki/Skoll" title="wikipedia:Skoll">Skoll</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Hati" title="wikipedia:Hati">Hati</a>.
 
 Tolkien đã đề cập trong một lá thư rằng tình tiết chiến tranh trong *[The Hobbit](../T/The_Hobbit.md)* "một phần bắt nguồn từ một cảnh" trong tiểu thuyết của <a class="extiw" href="http://en.wikipedia.org/wiki/Samuel_Rutherford_Crockett" title="wikipedia:Samuel Rutherford Crockett">S. R. Crockett</a> <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Black_Douglas&amp;action=edit&amp;redlink=1" title="The Black Douglas (page does not exist)">The Black Douglas</a></i>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
@@ -234,7 +234,7 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 
 <dl><dd>Warg được miêu tả là những con sói lớn. Chúng chỉ xuất hiện trong các đoạn cắt cảnh và không thể chiến đấu được.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Warg, bao gồm Warg do <a href="../O/Orcs.md" title="Orcs">Orc và Goblin</a> cưỡi, là kẻ thù chung được tìm thấy trong suốt trò chơi. "Warg Stalker" là một trong những lớp Người chơi Quái vật có sẵn để chiến đấu giữa Người chơi và Người chơi Quái vật trong <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>. Monster Player Warg dựa vào khả năng tàng hình để phục kích người chơi và một số Warg do máy tính điều khiển cũng thể hiện khả năng này.</dd></dl>
 

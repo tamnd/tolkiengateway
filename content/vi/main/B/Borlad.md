@@ -55,7 +55,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Borlad, giống như cha và các anh trai của mình, gia nhập [Beleriand](Beleriand.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md) và phục vụ cho [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia vào việc tàn sát các con trai của [Ulfang](../U/Ulfang.md) trước khi chính ông ta bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Borlad, giống như cha và các anh trai của mình, gia nhập [Beleriand](Beleriand.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md) và phục vụ cho [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia vào việc tàn sát các con trai của [Ulfang](../U/Ulfang.md) trước khi chính ông bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

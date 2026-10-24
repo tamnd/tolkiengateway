@@ -43,7 +43,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nằm trong khu vực <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> phía Đông <a href="../G/Gondor.md" title="Gondor">Gondor</a>, thung lũng Imloth Melui cũng có một thị trấn cùng thời. Con sông <a href="../E/Erui.md" title="Erui">Erui</a> chảy qua thung lũng, chia đôi thành phố. Trong <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a> nơi đây tiếp nhận nhiều người tị nạn từ Thành phố Trắng, chủ yếu là phụ nữ, trẻ em và người già. Trong thời gian Chúa <a href="../F/Forlong.md" title="Forlong">đi vắng</a>, nó được cai trị bởi vợ ông là Lady Vanyalos, em gái của Quản gia <a href="../D/Denethor.md" title="Denethor">Denethor</a>.</dd></dl>
 

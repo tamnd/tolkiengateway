@@ -48,7 +48,7 @@ Những người truyền thuyết không phải là một hội riêng biệt h
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bậc thầy truyền thuyết là một lớp có thể chơi được trong MMORPG của Turbine dành cho các chủng tộc Con Người và Tiên tộc. Các bậc thầy truyền thuyết trong bản chuyển thể này đóng vai trò hỗ trợ, sử dụng phép thuật để cải thiện hiệu suất của đồng minh.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

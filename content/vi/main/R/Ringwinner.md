@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Sormuksenottaja"
 ---
 
-**Ringwinner** là một trong những cái tên mà [Bilbo Baggins](../B/Bilbo_Baggins.md) sử dụng cho chính mình khi con rồng [Smaug](../S/Smaug.md) hỏi ông ta là ai, vì ông ta muốn biết tên thông thường của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bilbo đã tìm thấy [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) trên sàn của một đường hầm trong [orc](../O/Orcs.md)-nơi giam giữ [Dãy Núi Sương Mù](../M/Misty_Mountains.md) trước khi chạm trán với Smaug.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ringwinner** là một trong những cái tên mà [Bilbo Baggins](../B/Bilbo_Baggins.md) sử dụng cho chính mình khi con rồng [Smaug](../S/Smaug.md) hỏi ông là ai, vì ông muốn biết tên thông thường của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bilbo đã tìm thấy [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) trên sàn của một đường hầm trong [orc](../O/Orcs.md)-nơi giam giữ [Dãy Núi Sương Mù](../M/Misty_Mountains.md) trước khi chạm trán với Smaug.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

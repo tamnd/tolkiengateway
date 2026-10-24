@@ -30,10 +30,10 @@ images:
 
 **Cổng Isengard** là một cửa ngõ vững chắc bảo vệ đường hầm hình vòm duy nhất trong bức tường đá rộng bao quanh [Isengard](../I/Isengard.md) và [Orthanc](../O/Orthanc.md). Nó nằm ở phía nam tuyến phòng thủ của Isengard, tiếp cận bởi một con đường cao tốc cổ xưa. Ít nhất là vào thời [Saruman](../S/Saruman.md) làm chủ của Isengard, cánh cổng được canh gác nghiêm ngặt, mặc dù cuối cùng nó đã bị quân xâm lược [Ent](../E/Ents.md) đánh sập.
 
-Theo một số tài liệu cơ bản, Saruman đã ban cho Cổng của mình những thuộc tính đặc biệt. Cho dù bằng cơ chế hay phép thuật nào đó, ông ta vẫn có thể truyền giọng nói nổi tiếng của mình qua chính Cánh cổng và do đó giao tiếp với những người bên ngoài phòng thủ của mình mà không khiến bản thân gặp nguy hiểm.
+Theo một số tài liệu cơ bản, Saruman đã ban cho Cổng của mình những thuộc tính đặc biệt. Cho dù bằng cơ chế hay phép thuật nào đó, ông vẫn có thể truyền giọng nói nổi tiếng của mình qua chính Cánh cổng và do đó giao tiếp với những người bên ngoài phòng thủ của mình mà không khiến bản thân gặp nguy hiểm.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cổng Isengard được bảo vệ bởi hai Troll vĩ đại có thể giết chết một người chơi ở cấp độ của họ chỉ trong hai đòn và cần hàng tá người chơi trở lên để hạ gục họ.</dd></dl>

@@ -98,7 +98,7 @@ Trong triều đại của Eldarion, Vua Gondor, các sự kiện của [Cuộc 
 
 Borlas cảm thấy mệt mỏi với cuộc trò chuyện, nhưng Saelon mong muốn tiếp tục cuộc thảo luận của họ về bản chất của cái ác đang gia tăng. Saelon tuyên bố rằng không thể nào ký ức về trò nghịch ngợm thời thơ ấu của Saelon đã bắt đầu cuộc thảo luận của họ về Cây Hắc Ám, nói rằng ông hẳn đã nghe nói về [Herumor](<../H/Herumor_(The_New_Shadow).md>). Saelon tiếp tục nói rằng ngày càng có nhiều người không hài lòng với những ngày sau cái chết của Đại Vua. Borlas hỏi kế hoạch của tình trạng bất ổn ngày càng gia tăng là gì, Saelon hỏi làm thế nào Borlas biết được tên của Herumor ngay từ đầu. Sau một số bất đồng về việc ai sẽ trả lời trước, Saelon đề nghị nói với Borlas tất cả những gì ông muốn biết liệu ông có tham gia cùng ông sau khi màn đêm buông xuống hay không. Với lời đề nghị này, Saelon rời khỏi khu vườn của Borlas.
 
-Bị bỏ lại một mình, Borlas nghĩ về con trai mình [Berelach](../B/Berelach.md), một người bạn của Saelon, và tin tức về [Ethir Anduin](../E/Ethir.md) những con tàu biến mất. Ông ta trở về nhà của mình, dường như ngửi thấy mùi Ác ma cũ quay trở lại thế giới.
+Bị bỏ lại một mình, Borlas nghĩ về con trai mình [Berelach](../B/Berelach.md), một người bạn của Saelon, và tin tức về [Ethir Anduin](../E/Ethir.md) những con tàu biến mất. Ông trở về nhà của mình, dường như ngửi thấy mùi Ác ma cũ quay trở lại thế giới.
 
 ## Liên kết ngoài {#External_links}
 

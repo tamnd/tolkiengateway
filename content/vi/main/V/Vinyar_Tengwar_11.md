@@ -48,7 +48,7 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Bìa: "'Bây giờ tôi quả thực là một tên trộm', ông ta nghĩ vậy" - Adam Christensen
+- Bìa: "'Bây giờ tôi quả thực là một tên trộm', ông nghĩ vậy" - Adam Christensen
 - E.L.F. News
 - Thư gửi *VT*
 

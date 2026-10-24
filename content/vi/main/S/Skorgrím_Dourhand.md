@@ -53,7 +53,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Skorgrím Dourhand là hậu duệ của các lãnh chúa lùn cổ đại, người cai trị một trong những vương quốc vĩ đại [Dãy Núi Xanh](../B/Blue_Mountains.md), một vương quốc đã rơi vào cảnh hoang tàn từ lâu. Người dân của ông trở nên phân tán và suy giảm về số lượng, nhưng nghèo đói và ô nhục đã nuôi dưỡng trong họ lòng tham lam và ham muốn quyền lực lớn lao. Khi Tiên tộc của [Mithlond](../G/Grey_Havens.md) thành lập nơi ẩn náu của [Edhelion](../E/Edhelion.md), ở Dãy Núi Xanh, Skorgrím đã tìm cách cướp di vật và kho báu của họ. Ông ta tập hợp những người còn sót lại của mình và bao vây Edhelion. Tệ hơn nữa, ông ta đã trả tiền [Goblin](../G/Goblins.md) và [Troll](../T/Trolls.md) để hỗ trợ ông ta, một điều mà không một Người Lùn danh dự nào nghĩ tới. Những đường lối xấu xa của hắn đã khiến hắn bị hủy hoại, mặc dù Edhelion cũng đã bị mất tích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Skorgrím Dourhand là hậu duệ của các lãnh chúa lùn cổ đại, người cai trị một trong những vương quốc vĩ đại [Dãy Núi Xanh](../B/Blue_Mountains.md), một vương quốc đã rơi vào cảnh hoang tàn từ lâu. Người dân của ông trở nên phân tán và suy giảm về số lượng, nhưng nghèo đói và ô nhục đã nuôi dưỡng trong họ lòng tham lam và ham muốn quyền lực lớn lao. Khi Tiên tộc của [Mithlond](../G/Grey_Havens.md) thành lập nơi ẩn náu của [Edhelion](../E/Edhelion.md), ở Dãy Núi Xanh, Skorgrím đã tìm cách cướp di vật và kho báu của họ. Ông tập hợp những người còn sót lại của mình và bao vây Edhelion. Tệ hơn nữa, ông đã trả tiền [Goblin](../G/Goblins.md) và [Troll](../T/Trolls.md) để hỗ trợ ông, một điều mà không một Người Lùn danh dự nào nghĩ tới. Những đường lối xấu xa của hắn đã khiến hắn bị hủy hoại, mặc dù Edhelion cũng đã bị mất tích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### Thuật thuật {#Necromancy}
 
@@ -61,9 +61,9 @@ Sáu trăm năm sau, Ivar Bàn tay máu, một Gaunt-lord và một pháp sư h�
 
 ### Dịch vụ cho Angmar {#Service_to_Angmar}
 
-Trong hai năm tiếp theo, Skorgrím vẫn ở Ered Luin, tái xuất hiện khi ông ta cố gắng khơi dậy một cuộc chiến bằng cách thuê yêu tinh đột nhập và đánh cắp kho báu của Râu dài từ [Sảnh của Thorin](../T/Thorin's_Halls.md) và bắt cóc hoàng tử Yêu tinh Avorthal, buộc tội mỗi hành vi vi phạm ở phía bên kia. Rất may, sự lừa dối của ông ta đã bị phát hiện và lực lượng tổng hợp của [Dwalin](../D/Dwalin.md) và Dorongúr Whitethorn đã tấn công và đánh đuổi Skorgrím khỏi thung lũng Rath Teraig.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong hai năm tiếp theo, Skorgrím vẫn ở Ered Luin, tái xuất hiện khi ông cố gắng khơi dậy một cuộc chiến bằng cách thuê yêu tinh đột nhập và đánh cắp kho báu của Râu dài từ [Sảnh của Thorin](../T/Thorin's_Halls.md) và bắt cóc hoàng tử Yêu tinh Avorthal, buộc tội mỗi hành vi vi phạm ở phía bên kia. Rất may, sự lừa dối của ông đã bị phát hiện và lực lượng tổng hợp của [Dwalin](../D/Dwalin.md) và Dorongúr Whitethorn đã tấn công và đánh đuổi Skorgrím khỏi thung lũng Rath Teraig.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Skorgrím trốn đến [vùng đất Bree](../B/Bree-land.md), nơi ông ta phục vụ cho [Nazgûl](../N/Nazgûl.md) một thời gian, trước khi được [Dãy Núi Sương Mù](../M/Misty_Mountains.md) gửi đến [Vua Phù thủy](../W/Witch-king.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Skorgrím trốn đến [vùng đất Bree](../B/Bree-land.md), nơi ông phục vụ cho [Nazgûl](../N/Nazgûl.md) một thời gian, trước khi được [Dãy Núi Sương Mù](../M/Misty_Mountains.md) gửi đến [Vua Phù thủy](../W/Witch-king.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ### Sự hủy diệt cuối cùng {#Final_Destruction}
 

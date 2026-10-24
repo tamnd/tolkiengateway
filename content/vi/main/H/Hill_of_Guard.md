@@ -34,7 +34,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thông thường không thể tiếp cận được, Hill of Guard có thể được quan sát trong một nhiệm vụ mà người chơi đi cùng Vua <a class="mw-redirect mw-disambig" href="../E/Elessar.md" title="Elessar">Elessar</a> tới cây non của <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">Cây Trắng</a>.</dd></dl>
 

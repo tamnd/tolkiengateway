@@ -44,7 +44,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Othrondir là người quen của [Borlas](../B/Borlas.md) của [Pen-arduin](../P/Pen-arduin.md), người mà ông đã kể về một số tin đồn liên quan đến tình trạng bất ổn nhất định ở [Gondor](../G/Gondor.md). Ông ta cũng là người đầu tiên sử dụng từ "canker", rõ ràng là ám chỉ những người theo dõi bí mật của "[Dark Tree](../D/Dark_Tree.md)" đang trỗi dậy trong năm [Kỷ Đệ Tứ](../F/Fourth_Age.md) [220](../F/Fourth_Age_220.md).<sup id="cite_ref-Canker_1-0" class="reference"><a href="#cite_note-Canker-1">[1]</a></sup> dưới sự lãnh đạo của ai đó tên là [Herumor](<../H/Herumor_(The_New_Shadow).md>).<sup id="cite_ref-Canker_1-1" class="reference"><a href="#cite_note-Canker-1">[1]</a></sup>
+Othrondir là người quen của [Borlas](../B/Borlas.md) của [Pen-arduin](../P/Pen-arduin.md), người mà ông đã kể về một số tin đồn liên quan đến tình trạng bất ổn nhất định ở [Gondor](../G/Gondor.md). Ông cũng là người đầu tiên sử dụng từ "canker", rõ ràng là ám chỉ những người theo dõi bí mật của "[Dark Tree](../D/Dark_Tree.md)" đang trỗi dậy trong năm [Kỷ Đệ Tứ](../F/Fourth_Age.md) [220](../F/Fourth_Age_220.md).<sup id="cite_ref-Canker_1-0" class="reference"><a href="#cite_note-Canker-1">[1]</a></sup> dưới sự lãnh đạo của ai đó tên là [Herumor](<../H/Herumor_(The_New_Shadow).md>).<sup id="cite_ref-Canker_1-1" class="reference"><a href="#cite_note-Canker-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -16,7 +16,7 @@ sort_keys:
 
 **Aulëan** là ngành ngôn ngữ của [Khuzdul](../K/Khuzdul.md), ngôn ngữ của [Người Lùn](../D/Dwarves.md). Ở đó nó tương phản với [Oromëan](../O/Oromëan.md), nhánh ngôn ngữ của các ngôn ngữ [Elvish](../E/Elvish.md) như [Qenya](../Q/Qenya.md), [Kornoldorin](../K/Kornoldorin.md) và [Ilkorin](../I/Ilkorin.md). Aulëan được đặt tên theo truyền thống [Người Lùn](../K/Khuzdul.md) được nghĩ ra bởi [Aulë](Aulë.md) Smith, [Vala](../V/Valar.md) người đã tạo ra [Người Lùn](../D/Dwarves.md).
 
-Khái niệm này sau đó đã bị loại bỏ, mặc dù *[Silmarillion](../T/The_Silmarillion.md)* được xuất bản có đề cập rằng Aule đã bắt đầu dạy bảy [Tổ phụ của người Lùn](../F/Fathers_of_the_Dwarves.md) trước khi [Eru](../I/Ilúvatar.md) mắng ông ta.
+Khái niệm này sau đó đã bị loại bỏ, mặc dù *[Silmarillion](../T/The_Silmarillion.md)* được xuất bản có đề cập rằng Aule đã bắt đầu dạy bảy [Tổ phụ của người Lùn](../F/Fathers_of_the_Dwarves.md) trước khi [Eru](../I/Ilúvatar.md) mắng ông.
 
 ## Xem thêm {#See_also}
 

@@ -43,7 +43,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Bereg là con trai của [Baranor](<Baranor_(son_of_Baran).md>) và là chắt của [Bëor](Bëor.md) Người Cũ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta đã lãnh đạo cuộc bạo động của [Con Người](../M/Men.md) tại trại của họ ở [Estolad](../E/Estolad.md). Trong [F.A.](../F/First_Age.md) [369](../F/First_Age_369.md) ông đã dẫn đầu một nghìn Con Người Nhà Bëor đi về phía nam ra khỏi [Beleriand](Beleriand.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Bereg là con trai của [Baranor](<Baranor_(son_of_Baran).md>) và là chắt của [Bëor](Bëor.md) Người Cũ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông đã lãnh đạo cuộc bạo động của [Con Người](../M/Men.md) tại trại của họ ở [Estolad](../E/Estolad.md). Trong [F.A.](../F/First_Age.md) [369](../F/First_Age_369.md) ông đã dẫn đầu một nghìn Con Người Nhà Bëor đi về phía nam ra khỏi [Beleriand](Beleriand.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Số phận của ông và những người theo ông không rõ nhưng họ đã đạt được [Eriador](../E/Eriador.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

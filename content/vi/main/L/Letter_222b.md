@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết thư cho Unwin để thông báo rằng công việc dịch *Sir Gawain and the Green Knight* và *Pearl* của ông phải tạm dừng trong khi ông đang đánh máy *The Silmarillion*. Ông ta cũng cho biết rằng ông ta có ý định quay lại bản dịch của *Gawain* và *Pearl* nhưng trước đó vài ngày, ông ta đã nhận được bằng chứng về *[Ancrene Wisse](../A/Ancrene_Wisse.md)*. <br>
+Tolkien đã viết thư cho Unwin để thông báo rằng công việc dịch *Sir Gawain and the Green Knight* và *Pearl* của ông phải tạm dừng trong khi ông đang đánh máy *The Silmarillion*. Ông cũng cho biết rằng ông có ý định quay lại bản dịch của *Gawain* và *Pearl* nhưng trước đó vài ngày, ông đã nhận được bằng chứng về *[Ancrene Wisse](../A/Ancrene_Wisse.md)*. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

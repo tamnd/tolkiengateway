@@ -51,7 +51,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup></cite></p>
 </blockquote>
 
-Khi xong việc, Treebeard nhận thấy hai hobbit đã ngủ quên. Ông ta đặt chúng xuống đất, bảo chúng ngủ và nói rằng có "nhiều thứ để gọi", và rằng "sự héo úa của tất cả các khu rừng đang đến gần".
+Khi xong việc, Treebeard nhận thấy hai hobbit đã ngủ quên. Ông đặt chúng xuống đất, bảo chúng ngủ và nói rằng có "nhiều thứ để gọi", và rằng "sự héo úa của tất cả các khu rừng đang đến gần".
 
 ## Ghi chú {#Notes}
 

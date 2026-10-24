@@ -41,7 +41,7 @@ Cách [Minas Tirith](../M/Minas_Tirith.md) khoảng 50 dặm về phía nam, con
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Giao lộ Erui được tìm thấy ở phía Đông Gondor và nối Thượng <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> với <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a>. Trong <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, pháo đài bị ám ảnh bởi bộ giáp <a href="../G/Gondorians.md" title="Gondorians">Gondor</a> cổ xưa hoạt động bằng nước dưới sự chỉ huy của Cô hầu gái sông giận dữ, Cô đơn, ngăn cản <a href="../H/Haradrim.md" title="Haradrim">Haradrim</a> xâm lược băng qua. Cô Đơn đã tự mình hoạt hình hóa bộ giáp thất lạc từ lâu của <a href="Castamir.md" title="Castamir">Castamir</a> trước khi được các chị gái của cô trấn an.</dd></dl>
 

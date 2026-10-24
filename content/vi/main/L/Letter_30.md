@@ -34,7 +34,7 @@ infobox:
 
 Rütten & Loening Verlag, một nhà xuất bản ở Đức, đã hỏi về khả năng dịch cuốn *[The Hobbit](../T/The_Hobbit.md)*, đồng thời hỏi về tổ tiên và tính chất Aryan của ông.
 
-Tolkien trả lời rằng ông nghĩ vấn đề về chủng tộc Aryan của ông không phải là điều họ đang theo đuổi. Họ rất muốn biết liệu ông ta có phải là người Do Thái hay không. Ông nói với họ rằng ông không phải vậy - nhưng ông hối hận vì mình không mang dòng máu Do Thái. Ông tiếp tục tuyên bố rằng mặc dù ông là người Anh trong nhiều thế hệ, nhưng ông vẫn mang họ Đức của mình với niềm tự hào, ngay cả trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md). Nhưng nếu chính trị và văn học hòa quyện với nhau như vậy, có thể sẽ đến lúc ông không còn tự hào về di sản nước Đức.
+Tolkien trả lời rằng ông nghĩ vấn đề về chủng tộc Aryan của ông không phải là điều họ đang theo đuổi. Họ rất muốn biết liệu ông có phải là người Do Thái hay không. Ông nói với họ rằng ông không phải vậy - nhưng ông hối hận vì mình không mang dòng máu Do Thái. Ông tiếp tục tuyên bố rằng mặc dù ông là người Anh trong nhiều thế hệ, nhưng ông vẫn mang họ Đức của mình với niềm tự hào, ngay cả trong [Chiến tranh thế giới thứ nhất](../W/World_War_I.md). Nhưng nếu chính trị và văn học hòa quyện với nhau như vậy, có thể sẽ đến lúc ông không còn tự hào về di sản nước Đức.
 
 Tolkien kết thúc bức thư với tuyên bố rằng, mặc dù nhà xuất bản chỉ tuân theo luật pháp của nước mình nhưng họ không thể mong đợi người nước ngoài tuân theo những quy định này.
 

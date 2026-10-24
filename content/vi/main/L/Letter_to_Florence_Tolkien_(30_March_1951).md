@@ -21,7 +21,7 @@ Vào [30 tháng 3](../_/30_March.md) [1951](../_/1951.md), Tolkien đã viết m
 
 ## Lịch sử {#History}
 
-Derdziński kể rằng ông ta biết đến sự tồn tại của bức thư thông qua việc liên lạc với cháu gái của người nhận, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Charlaine_Tolkien&amp;action=edit&amp;redlink=1" title="Charlaine Tolkien (page does not exist)">Charlaine Tolkien</a>, người đã liên hệ với ông ta qua ancestry.com. Bản gốc dường như đã thất lạc nhưng bản ghi chép do Florence viết tay vẫn được bảo tồn.
+Derdziński kể rằng ông biết đến sự tồn tại của bức thư thông qua việc liên lạc với cháu gái của người nhận, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Charlaine_Tolkien&amp;action=edit&amp;redlink=1" title="Charlaine Tolkien (page does not exist)">Charlaine Tolkien</a>, người đã liên hệ với ông qua ancestry.com. Bản gốc dường như đã thất lạc nhưng bản ghi chép do Florence viết tay vẫn được bảo tồn.
 
 ## Liên kết ngoài {#External_links}
 

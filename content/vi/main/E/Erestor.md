@@ -60,7 +60,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Erestor, là cố vấn trưởng của gia đình [Elrond](Elrond.md) vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), đã tham gia [Hội đồng Elrond](../C/Council_of_Elrond.md). Ông ta không ủng hộ ý tưởng phá hủy [Chiếc nhẫn](../T/The_One_Ring.md), thay vào đó ông ta thích ý tưởng bảo vệ nó khỏi [Sauron](../S/Sauron.md), có lẽ với sự trợ giúp của [Iarwain ben-adar](../T/Tom_Bombadil.md). Đề nghị của ông đã bị [Glorfindel](../G/Glorfindel.md) cũng như [Galdor](../G/Galdor_of_the_Havens.md) phản đối vì họ không tin rằng Iarwain có đủ sức mạnh để thách thức Sauron.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Erestor, là cố vấn trưởng của gia đình [Elrond](Elrond.md) vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), đã tham gia [Hội đồng Elrond](../C/Council_of_Elrond.md). Ông không ủng hộ ý tưởng phá hủy [Chiếc nhẫn](../T/The_One_Ring.md), thay vào đó ông thích ý tưởng bảo vệ nó khỏi [Sauron](../S/Sauron.md), có lẽ với sự trợ giúp của [Iarwain ben-adar](../T/Tom_Bombadil.md). Đề nghị của ông đã bị [Glorfindel](../G/Glorfindel.md) cũng như [Galdor](../G/Galdor_of_the_Havens.md) phản đối vì họ không tin rằng Iarwain có đủ sức mạnh để thách thức Sauron.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Erestor tháp tùng [Arwen](../A/Arwen.md) tới đám cưới của cô với [Aragorn](../A/Aragorn.md) ở [Gondor](../G/Gondor.md) ở [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -70,7 +70,7 @@ Tên *Erestor* có trong [Sindarin](../S/Sindarin.md) nhưng nghĩa không rõ r
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phần giới thiệu sớm nhất về Erestor, ông ta là một trong ba cố vấn của Elrond(hai người còn lại không được nêu tên); cả ba đều là họ hàng của Elrond, "của một người nửa yêu tinh mà Tiên tộc đặt tên cho con của [Lúthien](../L/Lúthien.md)". Trong một bản cập nhật tiếp theo, hai người còn lại đã được biến thành Tiên-lãnh chúa vô danh của Rivendell, với Erestor là nửa-Tiên duy nhất còn lại và là họ hàng của Elrond.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, Erestor không bao giờ được gọi là nửa-Tiên trong văn bản hoàn chỉnh.
+Trong phần giới thiệu sớm nhất về Erestor, ông là một trong ba cố vấn của Elrond(hai người còn lại không được nêu tên); cả ba đều là họ hàng của Elrond, "của một người nửa yêu tinh mà Tiên tộc đặt tên cho con của [Lúthien](../L/Lúthien.md)". Trong một bản cập nhật tiếp theo, hai người còn lại đã được biến thành Tiên-lãnh chúa vô danh của Rivendell, với Erestor là nửa-Tiên duy nhất còn lại và là họ hàng của Elrond.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, Erestor không bao giờ được gọi là nửa-Tiên trong văn bản hoàn chỉnh.
 
 Trong lần lựa chọn ban đầu cho Chín trong số Đoàn Hộ Nhẫn, Erestor phải đại diện cho một nửa-Tiên tộc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -106,7 +106,7 @@ Ban đầu, chỉ có Elrond, [Galadriel](../G/Galadriel.md) và [Celeborn](../C
 
 <dl><dd>Một thẻ từ bản mở rộng <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></i>: <i>Realms of the Elf Lords</i> xác định <a href="Elves.md" title="Elves">Tiên</a> ngồi cạnh <a href="Elrond.md" title="Elrond">Elrond</a> tại <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Cunci</a> là Erestor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Ông được miêu tả bởi <a href="../J/Jonathan_Harding.md" title="Jonathan Harding">Jonathan Harding</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trước khi Hiệp hội rời khỏi <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, Erestor đã tham gia vào một nhiệm vụ dành riêng cho các nhân vật Tiên. Sau <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, anh tham gia đoàn rước từ Rivendell đi đến <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> để dự đám cưới của Quý cô <a href="../A/Arwen.md" title="Arwen">Arwen</a>.</dd></dl>
 

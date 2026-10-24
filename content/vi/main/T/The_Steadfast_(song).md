@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Steadfast** là ca khúc thứ 20 trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](../B/Blind_Guardian.md). Bài hát đề cập đến [Morgoth](../M/Morgoth.md) và lời nguyền của [Húrin](../H/Húrin.md) và người thân của ông ta vì đã từ chối tiết lộ thành phố ẩn giấu của [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**The Steadfast** là ca khúc thứ 20 trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](../B/Blind_Guardian.md). Bài hát đề cập đến [Morgoth](../M/Morgoth.md) và lời nguyền của [Húrin](../H/Húrin.md) và người thân của ông vì đã từ chối tiết lộ thành phố ẩn giấu của [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

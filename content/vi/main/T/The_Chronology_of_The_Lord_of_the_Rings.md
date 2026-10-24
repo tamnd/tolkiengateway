@@ -62,7 +62,7 @@ Niên đại cung cấp những hiểu biết mới không xuất hiện trong c
 
 <dl><dd>"<i>Shagrat mang áo khoác mithril và các chiến lợi phẩm khác đến Barad-dȗr; nhưng bị giết bởi Sauron</i>".</dd></dl>
 
-Một sự thật ẩn giấu khác cho thấy rằng, trong khi Hiệp hội đang tạm dừng ở Lothlórien vào Thứ Ba, ngày 24 tháng 1, [Gollum](../G/Gollum.md) ẩn nấp ở biên giới của quốc gia đó; và ở đó ông ta bị [Uglúk](../U/Uglúk.md) và Isengarders bắt giữ. Mục Niên đại có tiêu đề Gollum:
+Một sự thật ẩn giấu khác cho thấy rằng, trong khi Hiệp hội đang tạm dừng ở Lothlórien vào Thứ Ba, ngày 24 tháng 1, [Gollum](../G/Gollum.md) ẩn nấp ở biên giới của quốc gia đó; và ở đó ông bị [Uglúk](../U/Uglúk.md) và Isengarders bắt giữ. Mục Niên đại có tiêu đề Gollum:
 
 <dl><dd>"<i>Gollum bị Uglúk bắt, nhưng trốn thoát sau khi tiết lộ rằng Hobbit trong số Shire đã đi cùng Gandalf, và điều đó được cho là đủ để khiến Uglúk chắc chắn rằng Ring đã ở cùng Công ty</i>".</dd></dl>
 

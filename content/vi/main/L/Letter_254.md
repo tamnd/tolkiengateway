@@ -32,7 +32,7 @@ infobox:
 
 Tyndall đã đến <a class="extiw" href="http://en.wikipedia.org/wiki/King_Edward%27s_School,_Birmingham" title="wikipedia:King Edward&#39;s School, Birmingham">Vua Edward's</a> ở Birmingham với Tolkien và đã viết về khoảng thời gian họ ở đó cùng nhau. Tolkien rất vui khi nhận được phản hồi từ ông.
 
-Tolkien nhớ lại lớp học thứ IV cũ của họ và <a class="new" href="https://tolkiengateway.net/w/index.php?title=R.W._Reynolds&amp;action=edit&amp;redlink=1" title="R.W. Reynolds (page does not exist)">Dickie</a>, một giáo viên dạy mẫu kém hứng thú, người đã khiến lịch sử Hy Lạp và La Mã trở nên nhàm chán (nhưng ông vẫn là một con người thú vị và Tolkien giữ ông như một người bạn). Tolkien nói rằng ông ta đã cư xử không đúng mực, cũng như [Christopher Wiseman](../C/Christopher_Wiseman.md), một hình mẫu về tính chính trực và nghiêm túc của hiệu trưởng sau này.
+Tolkien nhớ lại lớp học thứ IV cũ của họ và <a class="new" href="https://tolkiengateway.net/w/index.php?title=R.W._Reynolds&amp;action=edit&amp;redlink=1" title="R.W. Reynolds (page does not exist)">Dickie</a>, một giáo viên dạy mẫu kém hứng thú, người đã khiến lịch sử Hy Lạp và La Mã trở nên nhàm chán (nhưng ông vẫn là một con người thú vị và Tolkien giữ ông như một người bạn). Tolkien nói rằng ông đã cư xử không đúng mực, cũng như [Christopher Wiseman](../C/Christopher_Wiseman.md), một hình mẫu về tính chính trực và nghiêm túc của hiệu trưởng sau này.
 
 Tuyên bố có trí nhớ hình ảnh mờ nhạt về các cuộc hẹn hò, Tolkien tin rằng Tyndall là đàn anh của mình và bỏ học trước. Tolkien đã ở tại Vua Edward cho đến khi anh gần 20 tuổi và lúc đó bạn bè của anh đều là học sinh dưới một hoặc hai tuổi. Ông nhớ lại chuyến đi đến Oxford với sự mới lạ đó, một chiếc ô tô do Dickie lái vào năm 1911.
 

@@ -89,7 +89,7 @@ Sự kiện xảy ra vào ngày 26 tháng Chín.
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - Người Hobbit để [Fredegar Bolger](../F/Fredegar_Bolger.md) quay lại [Crickhollow](../C/Crickhollow.md) để mạo danh Frodo. Họ nhập [Khu Rừng Cổ](../O/Old_Forest.md).
-    - Họ chạm trán với [Ông già Willow](../O/Old_Man_Willow.md) và được cứu bởi [Tom Bombadil](../T/Tom_Bombadil.md) người đã đưa họ đến nhà ông ta. Frodo mơ về Gandalf.
+    - Họ chạm trán với [Ông già Willow](../O/Old_Man_Willow.md) và được cứu bởi [Tom Bombadil](../T/Tom_Bombadil.md) người đã đưa họ đến nhà ông. Frodo mơ về Gandalf.
     - Hai [Nazgûl](../N/Nazgûl.md) đến [Bree](../B/Bree.md) từ đường Nam.
     - [Gandalf](../G/Gandalf.md) lao nhanh về phía [The Shire](../T/The_Shire.md) trên [Shadowfax](../S/Shadowfax.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

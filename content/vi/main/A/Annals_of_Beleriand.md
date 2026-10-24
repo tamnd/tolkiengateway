@@ -25,7 +25,7 @@ Những điều này và [Biên niên sử của Valinor](Annals_of_Valinor.md) 
 
 ## Lịch sử thế giới thực {#Real_world_history}
 
-[Tolkien](../T/Tolkien.md) bắt đầu viết Biên niên sử này cùng với Biên niên sử của Valinor như những tác phẩm song song với [Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>), để giúp ông ta xử lý lịch sử phức tạp của [Kỷ Đệ Nhất](../F/First_Age.md). Vì vậy, có nhiều phiên bản khác nhau gắn liền với phiên bản hiện tại của Silmarillion mà ông đang viết vào lúc này.
+[Tolkien](../T/Tolkien.md) bắt đầu viết Biên niên sử này cùng với Biên niên sử của Valinor như những tác phẩm song song với [Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>), để giúp ông xử lý lịch sử phức tạp của [Kỷ Đệ Nhất](../F/First_Age.md). Vì vậy, có nhiều phiên bản khác nhau gắn liền với phiên bản hiện tại của Silmarillion mà ông đang viết vào lúc này.
 
 - "[Biên niên sử đầu tiên của Beleriand](../T/The_Earliest_Annals_of_Beleriand.md)", viết vào đầu những năm 1930. Được xuất bản trong *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)*.
 - "[Biên niên sử sau này của Beleriand](../T/The_Later_Annals_of_Beleriand.md)", viết vào cuối những năm 1930. Được xuất bản trong *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*.
