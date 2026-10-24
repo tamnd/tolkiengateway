@@ -44,15 +44,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Holman the greenhanded</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Holman of Hobbiton</td></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Gardener</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2810.md" title="Third Age 2810">1210</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Greenhand_Family~66392.md" title="Greenhand Family">Greenhand</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../R/Rowan.md" title="Rowan">Rowan</a>, <a href="Halfred_Greenhand.md" title="Halfred Greenhand">Halfred</a>, <a href="../E/Erling.md" title="Erling">Erling</a>, <a href="Hending.md" title="Hending">Hending</a> and <a href="../R/Rose_(daughter_of_Holman).md" title="Rose (daughter of Holman)">Rose</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Holman tay xanh** là người làm vườn nổi tiếng của [the Shire](../T/The_Shire.md).
+**Holman bàn tay xanh** là một người làm vườn nổi tiếng ở [the Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Holman xứ [Hobbiton](Hobbiton.md) có năm người con; [Rowan](../R/Rowan.md), [Halfred](Halfred_Greenhand.md), [Erling](../E/Erling.md), [Hending](Hending.md) và [Rose](<../R/Rose_(daughter_of_Holman).md>). Ông đã truyền lại các kỹ năng và nghề thủ công của mình cho con trai cả, Halfred, người đã đặt họ [Greenhand](../G/Greenhand_Family~66392.md) theo biệt danh của cha mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Holman ở [Hobbiton](Hobbiton.md) có năm người con: [Rowan](../R/Rowan.md), [Halfred](Halfred_Greenhand.md), [Erling](../E/Erling.md), [Hending](Hending.md) và [Rose](<../R/Rose_(daughter_of_Holman).md>). Ông truyền lại những kỹ năng và nghề thủ công của mình cho người con trai cả, Halfred, người đã tạo ra họ [Greenhand](../G/Greenhand_Family~66392.md) từ biệt danh của cha mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Holman có nghĩa là "người lỗ" và khác với họ trong tiếng Anh ngoài đời thực<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup> chứa *holm* "đảo sông" chứ không phải *hol* "hố".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Holman có nghĩa là “người sống trong hang”, và khác với họ tiếng Anh ngoài đời thực<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>, vốn chứa từ *holm* “đảo trên sông” thay vì *hol* “lỗ”.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 
