@@ -204,35 +204,35 @@ Khoa học của ông còn mở rộng sang các lĩnh vực sinh học. Ngườ
 
 Được coi là mạnh hơn Gandalf (ít nhất là trước khi Gandalf"tái sinh"), công bằng mà nói thì ông cũng sẽ sử dụng phép thuật rõ ràng tương tự như Gandalf, chẳng hạn như ánh sáng nhân tạo, khóa bùa chú, tạo lửa, v.v.
 
-Saruman, đi trên con đường hoang tàn giống như Sauron, đã cố gắng rèn cho mình một chiếc Nhẫn Quyền năng. Ông đã đeo chiếc nhẫn này trong Cuộc chiến Nhẫn mà ông đã tiết lộ khi tự gọi mình là "Saruman người [Thợ làm nhẫn](../R/Ring-maker.md)".<sup id="cite_ref-FRCouncil_16-2" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup> Ông có kiến ​​thức và truyền thuyết tuyệt vời về những chiếc nhẫn ma thuật được tạo ra bởi Sauron và bởi Tiên-thợ rèn, mặc dù tại thời điểm này toàn bộ nghệ thuật chế tạo nhẫn đã bị thất lạc và chỉ có Sauron biết đến và vì vậy kiến ​​thức về nghề thủ công của Saruman vẫn chưa đầy đủ. Người ta cho rằng Chiếc nhẫn của Saruman tương đương với một trong những chiếc nhẫn có sức mạnh thấp hơn và mọi chi tiết về sức mạnh này đều không được đề cập. Người ta cũng cho rằng nó cũng mất đi sức mạnh, nếu có, khi Chiếc Nhẫn Chúa bị phá hủy, vì nghề chế tạo nhẫn của Saruman vẫn dựa trên Sauron. Khi Gandalf được tặng Narya, Chiếc Nhẫn Lửa Saruman biết được món quà và rất phẫn nộ với nó. Đây có thể là một lý do khác khiến Saruman mong muốn có một chiếc nhẫn cho riêng mình.
+Saruman, cũng đi trên con đường dẫn đến diệt vong như Sauron, đã tìm cách tự rèn cho mình một Nhẫn Quyền Năng. Ông đeo chiếc nhẫn này trong Cuộc chiến Nhẫn và tiết lộ nó khi tự xưng là "Saruman, [Thợ Rèn Nhẫn](../R/Ring-maker.md)".<sup id="cite_ref-FRCouncil_16-2" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup> Ông có kiến thức sâu rộng và hiểu biết uyên thâm về những chiếc nhẫn phép thuật do Sauron và các thợ rèn Tiên tộc chế tác. Tuy nhiên, vào thời điểm ấy, bí quyết chế tác nhẫn hoàn chỉnh đã thất truyền và chỉ Sauron còn nắm giữ, vì vậy Saruman chưa nắm vững nghệ thuật này. Người ta cho rằng Nhẫn của Saruman có sức mạnh tương đương một trong những chiếc nhẫn cấp thấp; không có thông tin nào về những năng lực cụ thể của nó. Người ta cũng cho rằng chiếc nhẫn này đã mất đi sức mạnh, nếu vốn có sức mạnh, khi Nhẫn Chúa bị phá hủy, bởi nghệ thuật chế tác nhẫn của Saruman vẫn dựa trên những hiểu biết bắt nguồn từ Sauron. Khi Gandalf được trao Narya, Nhẫn Lửa, Saruman biết chuyện và bất mãn vì điều đó. Đây có thể là một lý do khác khiến Saruman muốn sở hữu một chiếc nhẫn của riêng mình.
 
 ### Tính cách {#Personality}
 
 Saruman giống Gandalf không chỉ về ngoại hình mà ban đầu còn có phần giống về cách cư xử, nhưng không giống như Gandalf, Saruman kiêu hãnh, thậm chí kiêu căng, và về điểm này thì ông giống Sauron hơn. Ông tự coi mình là người quyền lực nhất trong Istari, thể hiện sự khinh thường rõ ràng đối với Radagast người Da nâu, ủng hộ sự khoan dung của Người khôn ngoan và Tiên tộc, đồng thời hoàn toàn coi thường Con Người thấp hơn. Saruman không phải là kẻ ngốc (mặc dù ông coi Radagast là một kẻ ngu ngốc); ông nhận ra sức mạnh của Gandalf, và cuối cùng coi ông như một người ngang hàng, và sau đó là cấp trên, khiến ông rất đau khổ. Ông trở nên ghen tị với Gandalf, cuối cùng tự thuyết phục bản thân rằng Gandalf đang âm mưu chống lại ông, điều này biện minh cho âm mưu của chính ông chống lại Gandalf và phần còn lại của Bạch Hội Đồng, cũng như cả Nhân dân Tự do của Trung Địa. Cuối cùng, chương trình nghị sự cuối cùng của Saruman không khác mấy so với Sauron, ở chỗ bản thân ông cuối cùng đã tìm cách trở thành bạo chúa của Trung Địa; bất kể là ở bên chủ nhân mới hay (tốt hơn) là một mình - nếu ông đạt được Chiếc nhẫn đầu tiên.
 
-Saruman có thể đã thực hiện đúng sứ mệnh của mình ngay từ đầu và thực sự tin tưởng vào việc ngăn chặn sự quay trở lại của Bóng Tối, nhưng niềm tự hào và sự kiêu ngạo sau này của ông (cũng như sự ghen tị với Gandalf và sự thống trị của Sauron) đã biến ông thành kẻ phản bội chính nghĩa mà ông từng phục vụ. Sự phản bội của Saruman không phải đột ngột mà lớn dần theo thời gian khi Sauron sử dụng lòng tham quyền lực, sự ngưỡng mộ sức mạnh và sự đố kỵ của Saruman làm công cụ kiểm soát, cho đến khi Saruman cuối cùng đã thuyết phục bản thân rằng mình không thể đi theo con đường nào khác và giờ đã quá muộn để ăn năn. Đến cuối cùng Pháp sư đồi bại chỉ tin vào lời khuyên của chính mình và những lời lừa dối của Chúa tể Bóng tối. Những niềm tin sai lầm này đã khiến Saruman không có được cơ hội chuộc lỗi cuối cùng, và vì chắc chắn ông đã nhận ra điều này sau những điều khoản thực sự hào phóng của Gandalf nên ông chỉ trở nên cay đắng hơn và tràn ngập cơn thịnh nộ vì thất bại, đổ lỗi cho Gandalf nhiều hơn bất kỳ ai khác về sự sa sút của mình.
+Có lẽ ban đầu Saruman vẫn trung thành với sứ mệnh của mình và thực sự tin rằng cần ngăn chặn Bóng Tối trở lại. Tuy nhiên, lòng kiêu hãnh rồi dần biến thành thói ngạo mạn, cùng với sự ghen ghét Gandalf và việc bị Sauron khống chế, đã biến hắn thành kẻ phản bội chính nghĩa mà mình từng phụng sự. Sự phản bội của Saruman không xảy ra đột ngột mà dần hình thành theo thời gian, khi Sauron lợi dụng ham muốn quyền lực, sự tôn sùng sức mạnh và lòng đố kỵ của Saruman làm công cụ khống chế hắn. Cuối cùng, Saruman tự thuyết phục mình rằng hắn không còn con đường nào khác để lựa chọn và giờ đã quá muộn để ăn năn. Cho đến tận phút cuối, vị Pháp sư đã sa ngã chỉ tin vào phán đoán của bản thân và những lời dối trá của Chúa tể Bóng tối. Những niềm tin sai lầm ấy khiến Saruman bỏ lỡ cơ hội chuộc lỗi cuối cùng. Hẳn hắn đã nhận ra điều đó sau khi Gandalf đưa ra những điều kiện khoan dung thực sự, nhưng thay vì hối cải, hắn càng thêm cay đắng, ngập trong cơn giận dữ vì thất bại và đổ lỗi cho Gandalf hơn bất kỳ ai khác về sự sụp đổ của chính mình.
 
 ## Chính trị {#Politics}
 
 ### Con Người {#Men}
 
-Saruman "chủ yếu lui tới giữa Con Người". Hắn luôn tìm kiếm quyền lực, và quyền lực ấy nằm trong tay các vương quốc của Con Người.
+Saruman “phần lớn thời gian hoạt động giữa Con Người”. Ông luôn tìm cách giành lấy quyền lực, và quyền lực ấy nằm trong tay các vương quốc của Con Người.
 
-Không có ghi chép nào nói về những chuyến hành trình đầu tiên của ông về phương Đông; sau khi trở về, ông trở thành người hầu của Gondor, nhận chìa khóa Orthanc từ Beren với tư cách người trông coi Orthanc. Khi Gondor suy yếu, ông tuyên bố chiếm hữu Orthanc mà không đưa ra bất kỳ tuyên bố chính thức nào (hay vấp phải sự phản đối từ Gondor), nhưng trên danh nghĩa vẫn là đồng minh của Gondor và Rohan.<sup id="cite_ref-AppEorl_11-2" class="reference"><a href="#cite_note-AppEorl-11">[11]</a></sup>
+Không có ghi chép nào về những chuyến hành trình đầu tiên của ông đến phương Đông. Sau khi trở về, ông trở thành người phục vụ Gondor và được Beren trao chìa khóa Orthanc khi nhậm chức người trông coi tòa tháp. Khi Gondor suy yếu, ông tự chiếm Orthanc làm của riêng mà không có tuyên bố chính thức nào và cũng không gặp sự phản đối từ Gondor. Dù vậy, trên danh nghĩa ông vẫn là đồng minh của Gondor và Rohan.<sup id="cite_ref-AppEorl_11-2" class="reference"><a href="#cite_note-AppEorl-11">[11]</a></sup>
 
-Khi quay sang phản bội, Saruman chiêu mộ người chủ yếu từ Dunland cùng các đặc vụ từ những vùng đất khác, biến những mối oán hận cũ thành chất xúc tác cho lòng thù hận mới. Người Dunlendings bị dụ dỗ bằng những câu chuyện xưa rằng họ từng sinh sống ở [Calenardhon](../C/Calenardhon.md) trước khi người *Strawheads* đến. Người Dunlendings trở thành binh lính của hắn, và dường như hắn cũng đã sử dụng một số người trong họ để tạo ra [Half-orcs](../H/Half-orcs.md).
+Khi quay sang phản bội, Saruman chiêu mộ người chủ yếu từ Dunland, cùng các tay sai từ những vùng đất khác, khơi lại những mối oán thù cũ để nuôi dưỡng lòng thù hận mới. Các Dunlending bị dụ dỗ bằng những câu chuyện xưa kể rằng tổ tiên họ từng sinh sống ở [Calenardhon](../C/Calenardhon.md) trước khi những kẻ *Strawheads* đến. Các Dunlending trở thành binh lính của hắn, và dường như hắn cũng đã sử dụng một số người trong số họ để tạo ra [Half-orcs](../H/Half-orcs.md).
 
-Gríma Wormtongue đóng vai trò then chốt trong các kế hoạch của Saruman: theo lời khuyên của Saruman, Gríma bắt đầu làm suy yếu nhà vua, khiến nhà vua xa lánh các cố vấn khác, thậm chí cả chính người thân của mình, đến mức trên thực tế Gríma đã trở thành người nắm quyền lãnh đạo Rohan.
+Gríma Wormtongue đóng vai trò then chốt trong các kế hoạch của Saruman: dưới sự chỉ dẫn của Saruman, Gríma bắt đầu làm suy yếu nhà vua, khiến nhà vua ngày càng xa cách các cố vấn khác, thậm chí cả người thân, đến mức trên thực tế Gríma đã trở thành người nắm quyền lãnh đạo Rohan.
 
 ### Tiên tộc {#Elves}
 
-Saruman từng có quan hệ tốt với Tiên tộc và được bầu làm thủ lĩnh của Bạch Hội Đồng, một hội gồm Tiên tộc và Istari liên kết với nhau để chống lại Sauron.
+Saruman từng có quan hệ tốt với Tiên tộc và được bầu làm thủ lĩnh Bạch Hội Đồng, một hội gồm Tiên tộc và Istari cùng hợp sức chống lại Sauron.
 
-Saruman biết rằng Gandalf đã được Círdan Thợ đóng tàu trao cho chiếc Nhẫn Elvish thứ ba, Narya. Điều này càng làm gia tăng lòng ghen tị của ông đối với Gandalf và sự oán giận của ông dành cho Tiên tộc.
+Saruman biết rằng Gandalf đã được Círdan Thợ đóng tàu trao cho chiếc Nhẫn Tiên tộc thứ ba, Narya. Chuyện này càng khiến ông ghen tị với Gandalf và thêm oán giận Tiên tộc.
 
-Saruman ít coi trọng hoặc quan tâm đến Tiên tộc, vốn đang suy tàn, có ít vùng đất và sống kín đáo; dù sở hữu những năng lực kỳ diệu và hai trong số Những Chiếc Nhẫn Quyền Năng, Tiên tộc không hữu dụng cũng chẳng dễ tiếp cận để phục vụ tham vọng của Saruman. Ngoài ra, họ khó bị thao túng hơn các giống loài khác.
+Saruman ít coi trọng hoặc quan tâm đến Tiên tộc, vốn đang suy tàn, chỉ còn ít vùng đất và giữ kín nơi cư ngụ; dù sở hữu những năng lực kỳ diệu và hai trong số Những Chiếc Nhẫn Quyền Năng, Tiên tộc không thể giúp ích cho tham vọng của Saruman, mà ông cũng khó tiếp cận họ. Ngoài ra, họ khó bị thao túng hơn các giống loài khác.
 
-Mặc dù Isengard nằm rất gần [Lothlórien](../L/Lothlórien.md), Saruman hầu như không có liên hệ gì với nơi này. Saruman không bao giờ tin tưởng Galadriel và ông buộc tội bà âm mưu giúp Gandalf để gây bất lợi cho ông.<sup id="cite_ref-Partings_19-1" class="reference"><a href="#cite_note-Partings-19">[19]</a></sup>
+Mặc dù Isengard nằm rất gần [Lothlórien](../L/Lothlórien.md), Saruman hầu như không liên hệ gì với nơi này. Saruman chưa bao giờ tin Galadriel và buộc tội bà ngấm ngầm hậu thuẫn Gandalf để làm phương hại đến ông.<sup id="cite_ref-Partings_19-1" class="reference"><a href="#cite_note-Partings-19">[19]</a></sup>
 
 ### Orc {#Orcs}
 
@@ -240,9 +240,9 @@ Saruman ban đầu dựa vào các bộ lạc Orc ở [Dãy Núi Sương Mù](..
 
 Ông cũng cho [Orc](../O/Orcs_of_Isengard.md) sinh sôi trong các hầm của Isengard, cuối cùng tạo ra các giống lai giữa Orc và Con Người (có thể là người Dunlendings hoặc [Bree-men](../B/Bree-men.md)). Chương trình này dường như còn bao gồm việc cho những Orc to lớn hơn này ăn thịt Con Người như một món khoái khẩu.
 
-Quân đoàn Uruk-hai của ông thể hiện tính kỷ luật cao và lòng trung thành mãnh liệt, bên cạnh những ưu điểm khác như chiều cao, sức mạnh, sức bền và khả năng chống chịu ánh sáng mặt trời. Dường như cũng tồn tại những dạng trung gian giữa Con Người và Uruk-hai, gồm những người mang dòng máu Con Người với ngoại hình mang những đặc điểm Orc ở các mức độ khác nhau, chẳng hạn như [Half-orcs](../H/Half-orcs.md) và [Goblin-men](../G/Goblin-men.md). Theo lời Pippin và Merry, những người này từng thuộc quân đội chính quy của Saruman, nhưng không phải là Uruk-hai, bởi các Hobbit hẳn đã nhận ra chúng từ lần họ bị bắt giữ trước đó.
+Quân đoàn Uruk-hai của ông thể hiện tính kỷ luật cao và lòng trung thành mãnh liệt, bên cạnh những ưu điểm khác như chiều cao, sức mạnh, sức bền và khả năng chống chịu ánh sáng mặt trời. Dường như còn tồn tại những dạng trung gian giữa Con Người và Uruk-hai, gồm những Con Người có ngoại hình mang đặc điểm Orc ở các mức độ khác nhau, chẳng hạn như [Half-orcs](../H/Half-orcs.md) và [Goblin-men](../G/Goblin-men.md). Theo lời Pippin và Merry, những kẻ này từng thuộc đạo quân chính quy của Saruman, nhưng không phải Uruk-hai, vì nếu là Uruk-hai, hẳn các Hobbit đã nhận ra chúng từ lần bị bắt giữ trước đó.
 
-Người hầu của Saruman gọi ông là "[Sharkey](Sharkey.md)" cả ở Isengard lẫn sau này tại The Shire.<sup id="cite_ref-Scouring_22-0" class="reference"><a href="#cite_note-Scouring-22">[22]</a></sup>
+Các tay sai của Saruman gọi hắn là "[Sharkey](Sharkey.md)" cả ở Isengard lẫn sau này tại Shire.<sup id="cite_ref-Scouring_22-0" class="reference"><a href="#cite_note-Scouring-22">[22]</a></sup>
 
 ### Ent/Cây {#Ents/Trees}
 
@@ -250,21 +250,21 @@ Saruman đã tiếp xúc với các Ent ở Rừng Fangorn ngay sau khi ông đ�
 
 Saruman cũng tham vấn Treebeard, nhờ đó tìm hiểu được nhiều tri thức cổ xưa mà các Ent hẳn đã ghi nhớ từ thời cổ đại. Saruman không đáp lại ân huệ này mà chỉ lắng nghe.<sup id="cite_ref-Treebeard_23-1" class="reference"><a href="#cite_note-Treebeard-23">[23]</a></sup>
 
-Các Ent đã sớm nhận ra sự phản trắc của Saruman và trở nên hết sức lo ngại, chủ yếu vì các Orc của Saruman đốn cây ở rìa Fangorn để làm nhiên liệu cho các lò nung ở Isengard, và đôi khi chỉ đơn giản là chặt mà chẳng vì lý do gì.
+Các Ent đã sớm nhận ra sự phản trắc của Saruman và hết sức lo ngại, chủ yếu vì Orc của Saruman đốn cây ở rìa Fangorn để đốt trong các lò nung ở Isengard, đôi khi chỉ để chặt phá vô cớ.
 
-Các Ent dường như cũng có ý thức về trật tự, về việc mọi sự nên diễn ra như thế nào, mà Saruman đã xâm phạm. Việc lai giống giữa Con Người và Orc đặc biệt khiến các Ent lo ngại, hơn hẳn những vấn đề khác mà kẻ thù của Saruman có thể quan tâm. Bản thân hành vi phản trắc của ông cũng khiến họ lo ngại — các Istari vốn được cho là có trách nhiệm đặc biệt.
+Các Ent dường như cũng có ý thức về trật tự và về cách mọi sự nên diễn ra, điều mà Saruman đã xâm phạm. Việc lai giống giữa Con Người và Orc đặc biệt khiến các Ent lo ngại, hơn nhiều so với những mối bận tâm khác mà kẻ thù Saruman có thể có. Chính sự phản trắc của ông cũng khiến họ lo ngại — các Istari vốn được giao một trách nhiệm đặc biệt.
 
-Saruman đã sử dụng các Ent và Rừng Fangorn mà không quan tâm đến hậu quả. Rõ ràng ông đã đánh giá sai năng lực cũng như ý chí hành động của các Ent. Việc này có thể không liều lĩnh như thoạt nhìn, bởi những yếu tố quan trọng góp phần thúc đẩy các Ent hành động là lời khuyên và đề nghị của Gandalf, cùng mối lo ngại về thế lực ngày càng gia tăng của Sauron (và mong muốn hỗ trợ các lực lượng ở tiền tuyến của cuộc chiến là Rohan và Gondor).
+Saruman đã lợi dụng các Ent và Rừng Fangorn mà không quan tâm đến hậu quả. Rõ ràng ông đã đánh giá sai năng lực cũng như ý chí hành động của các Ent. Việc này có thể không liều lĩnh như thoạt nhìn, bởi những yếu tố quan trọng thúc đẩy hành động của các Ent là lời khuyên và đề nghị của Gandalf, cùng mối lo ngại trước thế lực ngày càng gia tăng của Sauron và mong muốn hỗ trợ các lực lượng ở tuyến đầu trong cuộc chiến, gồm Rohan và Gondor.
 
-Saruman rõ ràng có khả năng thấu hiểu suy nghĩ của các Ent khi thấy điều đó có lợi cho mình. Ông đã thuyết phục được Treebeard thả mình khỏi Orthanc bằng cách đánh trúng tâm lý — các Ent không thích việc nhốt bất kỳ sinh vật nào vào lồng.
+Saruman rõ ràng có khả năng thấu hiểu suy nghĩ của các Ent khi thấy điều đó có lợi cho mình. Ông đã thuyết phục được Treebeard thả mình khỏi Orthanc bằng cách khéo léo khai thác đúng điểm yếu trong tâm lý của Treebeard — các Ent không thích ý tưởng nhốt bất kỳ sinh vật nào trong lồng.
 
 ### Hobbit {#Hobbits}
 
-Chủng tộc Hobbit và vùng đất của họ dường như quá tầm thường để Saruman quan tâm, cho đến khi ông chú ý đến sự quan tâm đặc biệt mà Gandalf dành cho họ. Việc theo dõi Gandalf khiến ông dần tập trung ngày càng nhiều vào các Hobbit và The Shire. Có một thời gian, ông thực sự bí mật đến đó để lập bản đồ vùng đất này. Gandalf biết chuyện, nhưng vào thời điểm đó, ông chỉ thấy chuyện này thú vị.
+Chủng tộc Hobbit và vùng đất của họ dường như quá tầm thường để Saruman quan tâm, cho đến khi ông chú ý đến mối quan tâm đặc biệt mà Gandalf dành cho họ. Càng theo dõi Gandalf, ông càng chú ý nhiều hơn đến các Hobbit và The Shire. Trong một thời gian, ông thực sự bí mật đến đó để lập bản đồ vùng đất này. Gandalf biết chuyện, nhưng lúc bấy giờ, ông chỉ thấy buồn cười.
 
-Ông bắt đầu hút thuốc hút tẩu (một thói quen của các Hobbit mà Gandalf đã học theo), cũng một cách bí mật. Nhu cầu thuốc hút tẩu của ông đã mở ra hoạt động buôn bán giữa The Shire và Isengard, còn quyền lực mà tiền bạc có thể đem lại cho ông ở đó, cùng sự tha hóa mà nó có thể gây ra, bắt đầu khiến ông mê mẩn. Một số thuộc hạ của ông bí mật đến đó, còn một số khác thì được Gandalf và [Rangers](../R/Rangers_of_the_North.md) biết đến.
+Ông cũng bí mật bắt đầu hút thuốc lá hút tẩu, một thói quen của các Hobbit mà Gandalf đã học theo. Việc ông tìm mua thuốc lá đã mở ra hoạt động giao thương giữa The Shire và Isengard; quyền lực mà tiền bạc có thể mang lại cho ông tại đó, cùng sự tha hóa mà nó có thể gây ra, bắt đầu khiến ông mê mẩn. Một số tay chân của ông bí mật đến đó, còn một số khác thì Gandalf và [các Tuần Du](../R/Rangers_of_the_North.md) biết đến.
 
-Sự tức giận của ông đối với Hobbit có thể xuất phát từ sự chú ý mà Gandalf dành cho họ. Nó chắc chắn càng được củng cố mạnh mẽ hơn khi anh phát hiện ra rằng Hobbit đã "âm mưu" với Gandalf để giữ Chiếc Nhẫn Chúa khỏi tay anh.
+Sự tức giận của Saruman đối với các Hobbit có thể bắt nguồn từ sự quan tâm mà Gandalf dành cho họ. Cơn giận ấy chắc chắn càng tăng mạnh khi ông phát hiện ra rằng các Hobbit đã “âm mưu” với Gandalf để ngăn không cho ông chiếm đoạt Nhẫn Chúa.
 
 Điều này, cùng với sự cấp bách đột ngột do cuộc săn lùng Người mang nhẫn của các Ma Nhẫn từ The Shire đến Rivendell, đã khiến ông tăng cường hoạt động trong khu vực, dẫn đến việc xây dựng sức mạnh dẫn đến cuộc chinh phục ảo The Shire.
 
@@ -288,11 +288,11 @@ Saruman luôn ghen tị với Gandalf và biết rằng ông đang giữ bí m�
 
 Tuy nhiên, Saruman sử dụng nhiều quyền lực hơn Gandalf, ngay cả với chiếc nhẫn Narya, thể hiện rõ khi ông quản thúc Gandalf ở đỉnh cao của Orthanc. Văn bản không nói rõ liệu Saruman bị mất sức mạnh hay Gandalf có được sức mạnh, nhưng khi Gandalf trở lại với tư cách là "Gandalf [the White](../T/The_White.md)", ông có thể triệu hồi Saruman theo ý muốn, buộc phải giữ ông ở đó và cuối cùng phá vỡ quyền trượng của Saruman(với bất kỳ hàm ý nào có thể có đối với sức mạnh của Saruman).
 
-Bất chấp thái độ khinh thường rõ ràng của mình đối với Người hành hương xám, Saruman đã nhiều lần suýt gạt bỏ lòng kiêu hãnh của mình và cầu xin Gandalf sự thương hại và giúp đỡ. Cuộc gọi gần nhất đến khi Nazgûl (trên đường đến Shire) đến Isengard trong khi Gandalf vẫn bị giam giữ ở đó. Saruman, nhận ra rằng ông có thể đã mất niềm tin Sauron, thực sự đã đến tìm kiếm sự tha thứ của Gandalf, chỉ để tìm thấy người bị bắt giữ trước đây của ông đã mất tích trên đỉnh Orthanc.
+Bất chấp vẻ khinh thường Người hành hương Xám, Saruman đã nhiều lần suýt gạt bỏ lòng kiêu hãnh để cầu xin Gandalf thương xót và giúp đỡ. Lần suýt nữa ấy xảy ra khi Nazgûl, trên đường tới Shire, đến Isengard lúc Gandalf vẫn còn bị giam giữ tại đó. Nhận ra rằng có lẽ Sauron đã không còn tin tưởng mình, Saruman đã đích thân tìm Gandalf để xin tha thứ, nhưng khi lên đỉnh Orthanc, ông không thấy Gandalf, người từng bị ông giam giữ.
 
 ### Động vật {#Animals}
 
-Saruman đã điều khiển được nhiều loài chim, có lẽ đã được Radagast dạy cách thuần hóa chúng. [Crebain](../C/Crebain.md) do thám cho ông và mang lại tin tức cho ông.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Ngoài ra, Orc Saruman tiếp nhận quân đội của ông có [Sói](../W/Wolves.md) hoang dã và thậm chí [Warg](../W/Wargs.md), một loại anh em họ quỷ dữ của trước đây.
+Saruman có thể điều khiển nhiều loài chim, có lẽ vì đã học cách thuần hóa chúng từ Radagast. [Crebain](../C/Crebain.md) do thám và báo tin cho ông.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> Ngoài ra, trong số đám Orc mà Saruman đưa vào quân đội của mình còn có những con [Sói](../W/Wolves.md) hoang và cả [Warg](../W/Wargs.md), một loài họ hàng quỷ dữ với Sói.
 
 ## Từ nguyên {#Etymology}
 
@@ -311,31 +311,31 @@ Saruman đã điều khiển được nhiều loài chim, có lẽ đã được
 </tbody></table>
 </div>
 
-*Saruman* là tên trong các ngôn ngữ [Miền Bắc Con Người](../N/Northmen.md),<sup id="cite_ref-IstariP90_26-0" class="reference"><a href="#cite_note-IstariP90-26">[26]</a></sup> có lẽ có nghĩa là "Người có kỹ năng".<sup id="cite_ref-Eldamo_27-0" class="reference"><a href="#cite_note-Eldamo-27">[27]</a></sup> Thành phần đầu tiên của tên là dạng hiện đại hơn<sup id="cite_ref-Eldamo_27-1" class="reference"><a href="#cite_note-Eldamo-27">[27]</a></sup> *saru*<sup id="cite_ref-Istari6_3-1" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup> của từ [tiếng Anh cổ](../O/Old_English.md) *searu*<sup id="cite_ref-Istari6_3-2" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup><sup id="cite_ref-RC81_28-0" class="reference"><a href="#cite_note-RC81-28">[28]</a></sup> ("thiết bị", "thiết kế", "thiết kế", "nghệ thuật"<sup id="cite_ref-RC81_28-1" class="reference"><a href="#cite_note-RC81-28">[28]</a></sup> hoặc "kỹ năng", "xảo quyệt", "thiết bị xảo quyệt")<sup id="cite_ref-Istari6_3-3" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup>. Phần tử thứ hai là *man*.<sup id="cite_ref-Eldamo_27-2" class="reference"><a href="#cite_note-Eldamo-27">[27]</a></sup>
+*Saruman* là một tên gọi trong các ngôn ngữ của [Người phương Bắc](../N/Northmen.md),<sup id="cite_ref-IstariP90_26-0" class="reference"><a href="#cite_note-IstariP90-26">[26]</a></sup> có lẽ mang nghĩa “Người tài khéo”.<sup id="cite_ref-Eldamo_27-0" class="reference"><a href="#cite_note-Eldamo-27">[27]</a></sup> Thành tố đầu tiên của tên là dạng hiện đại hóa<sup id="cite_ref-Eldamo_27-1" class="reference"><a href="#cite_note-Eldamo-27">[27]</a></sup> *saru*<sup id="cite_ref-Istari6_3-1" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup> của từ *searu* trong [tiếng Anh cổ](../O/Old_English.md),<sup id="cite_ref-Istari6_3-2" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup><sup id="cite_ref-RC81_28-0" class="reference"><a href="#cite_note-RC81-28">[28]</a></sup> mang các nghĩa “mưu kế”, “thiết kế”, “sáng chế”, “nghệ thuật”<sup id="cite_ref-RC81_28-1" class="reference"><a href="#cite_note-RC81-28">[28]</a></sup> hoặc “tài khéo”, “sự khôn khéo”, “mưu kế tinh vi”.<sup id="cite_ref-Istari6_3-3" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup> Thành tố thứ hai là *man*.<sup id="cite_ref-Eldamo_27-2" class="reference"><a href="#cite_note-Eldamo-27">[27]</a></sup>
 
 ## Tên khác {#Other_names}
 
-- <i><b>Curumo</b></i> - ([Q](../Q/Quenya.md):<sup id="cite_ref-Istari6_3-4" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup> "Skilled-one"<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>, phát âm <span title="Pronunciation in IPA" class="IPA">[ˈkurumo]</span>) tên của ông ở [Valinor](../V/Valinor.md), trước khi ông đến [Trung Địa](../M/Middle-earth.md) trong [Kỷ Đệ Tam](../T/Third_Age.md)<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>.
-- <i><b>Curunír</b></i> - ([S](Sindarin.md):<sup id="cite_ref-Istari6_3-5" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup> "Người đàn ông khéo léo"<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>, "Người đàn ông thủ công"<sup id="cite_ref-IstariP90_26-1" class="reference"><a href="#cite_note-IstariP90-26">[26]</a></sup> hoặc "một trong những thiết bị xảo quyệt"<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>. J.R.R. Tolkien sau đó được sử dụng *curunír* làm từ chỉ "[pháp sư](../W/Wizards.md)".<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> Ông còn được gọi là *Curunír' Lân* ("Curunír White")<sup id="cite_ref-IstariP90_26-2" class="reference"><a href="#cite_note-IstariP90-26">[26]</a></sup>
-- **Sharkey** - Tên được sử dụng cho ông bởi [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
-- <i><b>Tarindor</b> -</i> Có nghĩa là "Cao/khôn ngoan(ed)-một", được sử dụng khi ông được gửi đến [Cuiviénen](../C/Cuiviénen.md) cùng với [Năm Hộ vệ](../F/Five_Guardians.md) khác.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>
-- **The Wise** - Danh hiệu được xác nhận bởi Saruman.<sup id="cite_ref-FRCouncil_16-3" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup>
-- **[Người da trắng](../T/The_White.md)** - Chức danh được Saruman tuyên bố với tư cách là người đứng đầu [Istari](../I/Istar.md).<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>
-- **Ring Maker** - Danh hiệu được Saruman giành được trong khi cố gắng lôi kéo [Gandalf](../G/Gandalf.md) về phía mình.<sup id="cite_ref-FRCouncil_16-4" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup>
-- **Có nhiều màu sắc** - Danh hiệu được Saruman giành được trong khi cố gắng lôi kéo Gandalf về phía mình.<sup id="cite_ref-FRCouncil_16-5" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup>
-- **Kẻ giết cây** - Danh hiệu được trao cho Saruman bởi [Quickbeam](../Q/Quickbeam.md).<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
+- <i><b>Curumo</b></i> - ([Q](../Q/Quenya.md):<sup id="cite_ref-Istari6_3-4" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup> “Người tài khéo”<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup>, phát âm <span title="Pronunciation in IPA" class="IPA">[ˈkurumo]</span>) là tên gọi của ông tại [Valinor](../V/Valinor.md), trước khi ông đến [Trung Địa](../M/Middle-earth.md) trong [Kỷ Đệ Tam](../T/Third_Age.md)<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>.
+- <i><b>Curunír</b></i> - ([S](Sindarin.md):<sup id="cite_ref-Istari6_3-5" class="reference"><a href="#cite_note-Istari6-3">[3]</a></sup> “Người tài khéo”<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>, “Người tinh thông nghề”<sup id="cite_ref-IstariP90_26-1" class="reference"><a href="#cite_note-IstariP90-26">[26]</a></sup> hoặc “người có mưu kế tinh vi”<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup>). Về sau, J.R.R. Tolkien dùng *curunír* làm từ chỉ “[pháp sư](../W/Wizards.md)”.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> Ông còn được gọi là *Curunír' Lân* (“Curunír Áo Trắng”).<sup id="cite_ref-IstariP90_26-2" class="reference"><a href="#cite_note-IstariP90-26">[26]</a></sup>
+- **Sharkey** - Tên mà người [Hobbit](../H/Hobbits.md) ở [Shire](../T/The_Shire.md) dùng để gọi ông.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
+- <i><b>Tarindor</b> -</i> Có nghĩa là “Người có trí tuệ cao siêu”, tên được dùng khi ông được phái đến [Cuiviénen](../C/Cuiviénen.md) cùng với năm [Hộ vệ](../F/Five_Guardians.md) còn lại.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup>
+- **The Wise** - Danh hiệu mà Saruman tự nhận.<sup id="cite_ref-FRCouncil_16-3" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup>
+- **[Áo Trắng](../T/The_White.md)** - Danh hiệu mà Saruman tự nhận khi đứng đầu [Istari](../I/Istar.md).<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup>
+- **Người Chế Nhẫn** - Danh hiệu mà Saruman tự nhận khi tìm cách lôi kéo [Gandalf](../G/Gandalf.md) về phe mình.<sup id="cite_ref-FRCouncil_16-4" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup>
+- **Đa Sắc** - Danh hiệu mà Saruman tự nhận khi tìm cách lôi kéo Gandalf về phe mình.<sup id="cite_ref-FRCouncil_16-5" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup>
+- **Kẻ Sát Cây** - Danh hiệu mà [Quickbeam](../Q/Quickbeam.md) đặt cho Saruman.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup>
 
-## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
+## Các dị bản khác của huyền thoại Trung Địa {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản trước của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Saruman chỉ được phác họa như một người hầu xu nịnh của [Sauron](Sauron.md), trong khi đội quân mà ông tập hợp không phải là đối thủ của [Mordor](../M/Mordor.md) mà ngay từ đầu đã làm thuê cho chủ nhân mới của ông. Trong các bản dự thảo khác, [Pháp sư](../W/Wizards.md) phản bội giao [Gandalf](../G/Gandalf.md) cho [Người khổng lồ](../G/Giants.md) [Treebeard](../T/Treebeard.md) độc ác hoặc phản bội ông cho [Kỵ sĩ Đen](../N/Nazgûl.md).<sup id="cite_ref-FRCouncil_16-6" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup>
+Trong những bản thảo đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Saruman chỉ được khắc họa như một kẻ tôi tớ nịnh bợ [Sauron](Sauron.md); đội quân ông tập hợp không nhằm đối đầu với [Mordor](../M/Mordor.md) mà ngay từ đầu đã phục vụ chủ nhân mới của mình. Trong những bản thảo khác, vị [Pháp sư](../W/Wizards.md) phản trắc giao nộp [Gandalf](../G/Gandalf.md) cho [Treebeard](../G/Giants.md), gã [Người khổng lồ](../T/Treebeard.md) độc ác, hoặc phản bội ông bằng cách giao ông cho [Kỵ sĩ Đen](../N/Nazgûl.md).<sup id="cite_ref-FRCouncil_16-6" class="reference"><a href="#cite_note-FRCouncil-16">[16]</a></sup>
 
-Tên cũ của Saruman trong các bản nháp này là Sarumond và Saramund,<sup id="cite_ref-rc_39-0" class="reference"><a href="#cite_note-rc-39">[39]</a></sup> chứa thuật ngữ tiếng Anh *mund* "hand".
+Trong các bản thảo này, những tên gọi trước đó của Saruman là Sarumond và Saramund,<sup id="cite_ref-rc_39-0" class="reference"><a href="#cite_note-rc-39">[39]</a></sup> có chứa từ *mund* trong tiếng Anh, nghĩa là “bàn tay”.
 
 ## Cảm hứng {#Inspiration}
 
-Saruman được sáng tạo và giới thiệu trong câu chuyện nhằm giải thích sự vắng mặt của [Gandalf](../G/Gandalf.md) trong phần đầu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, thay thế [Treebeard](../T/Treebeard.md) làm kẻ bắt giữ [Pháp sư](../W/Wizards.md).<sup id="cite_ref-rc_39-1" class="reference"><a href="#cite_note-rc-39">[39]</a></sup>
+Saruman được tạo ra và đưa vào truyện nhằm giải thích sự vắng mặt của [Gandalf](../G/Gandalf.md) trong phần đầu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, thay [Treebeard](../T/Treebeard.md) trong vai kẻ giam giữ [Pháp sư](../W/Wizards.md).<sup id="cite_ref-rc_39-1" class="reference"><a href="#cite_note-rc-39">[39]</a></sup>
 
-## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
+## Hình tượng trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 285px">
@@ -429,23 +429,23 @@ Saruman được sáng tạo và giới thiệu trong câu chuyện nhằm giả
 
 ### Loạt đài phát thanh {#Radio_series}
 
-<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (loạt đài phát thanh 1955)</a>:</b>
+<b>1955: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (loạt chương trình phát thanh năm 1955)</a>:</b>
 
 <dl><dd>Giọng nói của Saruman được cung cấp bởi <a href="../R/Robert_Farquharson.md" title="Robert Farquharson">Robert Farquharson</a>.</dd></dl>
 
-<b>1979: <a href="../T/The_Lord_of_the_Rings_(1979_radio_series).md" title="The Lord of the Rings (1979 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1979)</a>:</b>
+<b>1979: <a href="../T/The_Lord_of_the_Rings_(1979_radio_series).md" title="The Lord of the Rings (1979 radio series)"><i>The Lord of the Rings</i> (loạt chương trình phát thanh năm 1979)</a>:</b>
 
 <dl><dd>Giọng của Saruman được cung cấp bởi <a href="../J/James_Arrington.md" title="James Arrington">James Arrington</a>.</dd></dl>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt chương trình phát thanh năm 1981)</a>:</b>
 
 <dl><dd><a href="../P/Peter_Howell.md" title="Peter Howell">Peter Howell</a> thủ vai Saruman. Vì loạt phim kể các sự kiện theo trình tự thời gian thay vì sử dụng những đoạn hồi tưởng như trong sách, sự phản bội của Saruman được hé lộ sớm hơn nhiều so với nguyên tác. Các đoạn trích từ "<a href="../T/The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">The Hunt for the Ring</a>" được chuyển thể thành kịch để khắc họa rõ hơn cuộc trốn thoát của Gandalf khỏi Isengard và cuộc truy đuổi của <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a>. Các Hobbit không gặp Saruman trên đường trở về Rivendell. Trong tập cuối, phim có đưa vào tình tiết Saruman bị Wormtongue sát hại tại <a href="../B/Bag_End.md" title="Bag End">Bag End</a>.</dd></dl>
 
-<b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt phim phát thanh Đức năm 1992)</a>:</b>
+<b>1992: <a href="../D/Der_Herr_der_Ringe_(1992_German_radio_series).md" title="Der Herr der Ringe (1992 German radio series)"><i>Der Herr der Ringe</i> (loạt chương trình phát thanh tiếng Đức năm 1992)</a>:</b>
 
 <dl><dd>Saruman do Manfred Steffen thủ vai.</dd></dl>
 
-<b>2001-2003: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
+<b>2001-2003: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (loạt chương trình phát thanh tiếng Slovak năm 2001-2003)</a>:</b>
 
 <dl><dd>Andrej Hryc lồng tiếng cho Saruman. Saruman xuất hiện trong cả ba mùa của loạt phim chuyển thể này, trong đó ông xuất hiện nổi bật nhất ở các tập chuyển thể <i>The Two Towers</i>.</dd></dl>
 
@@ -467,7 +467,7 @@ Saruman được sáng tạo và giới thiệu trong câu chuyện nhằm giả
 
 <dl><dd>Saruman vẫn là đơn vị "Anh hùng" chính của phe Isengard nhưng không có vai trò gì trong cốt truyện.</dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Online: Sự trỗi dậy của Isengard</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Online: Cuộc trỗi dậy của Isengard</a></i>:</b>
 
 <dl><dd>Mặc dù thường xuyên được nhắc đến trong trò chơi kể từ năm 2007, Saruman không xuất hiện trên màn ảnh cho đến năm 2011, khi bản mở rộng <i>Rise of Isengard</i> ra mắt. Nhiều nhiệm vụ trong trò chơi cho thấy tầm ảnh hưởng ngày càng lan rộng của <a href="../W/White_Hand.md" title="White Hand">Bàn tay Trắng</a>: tay sai của Saruman đã có mặt ở Shire từ năm <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3018.md" title="Third Age 3018">3018</a>, cũng như tại <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>, <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>, <a href="../E/Eregion.md" title="Eregion">Eregion</a>, <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>, <a href="../D/Dunland.md" title="Dunland">Dunland</a>, <a href="../G/Gap_of_Rohan.md" title="Gap of Rohan">Gap of Rohan</a>, vùng ven Rừng Fangorn và thậm chí cả <a href="../M/Moria.md" title="Moria">Moria</a>.</dd>
 <dd>Trong cốt truyện của <i>Rise of Isengard</i>, Saruman xuất hiện lần đầu khi tìm cách mua chuộc lòng trung thành của các gia tộc <a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a> bằng của cải, đồng thời giữ vẻ ngoài thân thiện. Ông vẫn giữ kín những việc mình làm ở Rohan, đến mức khi một người <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> thắc mắc về cảnh hoang tàn ở <a href="../N/Nan_Curunír.md" title="Nan Curunír"><i>Nan Curunír</i></a> và sự hiện diện của <a href="../T/Trolls.md" title="Trolls">Troll</a> tại Isengard, Pháp sư dùng giọng nói để thuyết phục người đó rằng tất cả đều vì mục đích chính đáng. Có lần, những kẻ Dunlending phản bội bắt nhân vật người chơi rồi đưa người này đến chỗ Saruman làm quà. Một lần nữa, Pháp sư giữ vẻ ngoài thân thiện và cao quý, tìm cách dò hỏi tung tích của Nhẫn Chúa trước khi nhân vật người chơi trốn thoát.</dd>
