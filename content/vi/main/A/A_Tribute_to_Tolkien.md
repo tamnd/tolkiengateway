@@ -17,9 +17,9 @@ categories:
 Bài viết bao gồm những hồi ức về tác phẩm Tolkien của Murray. Vào khoảng tháng 8 [1973](../_/1973.md), Tolkien, Murray và có lẽ một số người khác đang ăn trưa. Murray viết:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Ronald was maintaining with great vigour over the luncheon table that one of the greatest disasters of European history was the fact that the Goths turned Arian: but for that, their languages, just ready to become classical, would have been enriched not only with a great bible version but also, on Byzantine principles, with a vernacular liturgy, which would have served as a model for all the Germanic peoples and would have given them a native Catholicism which would never break apart. And with that he rose and in splendidly sonorous tones declaimed the Our Father in Gothic.
+<p>Ronald đang khẳng định một cách mạnh mẽ trên bàn ăn trưa rằng một trong những thảm họa lớn nhất của lịch sử châu Âu là việc người Goth chuyển sang Arian: nhưng vì điều đó, ngôn ngữ của họ, vừa sẵn sàng trở thành cổ điển, sẽ được làm phong phú không chỉ với một phiên bản kinh thánh vĩ đại mà còn, theo nguyên tắc Byzantine, với phụng vụ bản địa, vốn sẽ được dùng làm hình mẫu cho tất cả các dân tộc Đức và sẽ mang lại cho họ một đạo Công giáo bản địa sẽ không bao giờ tách rời. Và sau đó, ông đứng dậy và đọc kinh Lạy Cha bằng tiếng Gothic bằng một giọng điệu tuyệt vời.
 </p>
-<p class="tg-quote-footer"><cite>&#34;A Tribute to Tolkien&#34;, pp. 879-80</cite></p>
+<p class="tg-quote-footer"><cite>"Tưởng nhớ Tolkien", trang 879-80</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Tài liệu tham khảo {#References}

@@ -136,7 +136,7 @@ Sau khi [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) tiếp �
 
 <b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
-<dl><dd>Haldir is first met on a talan on the western border of <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>. He  frequently serves as the intermediary between the player and <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> during the epic story.</dd></dl>
+<dl><dd>Haldir is first met on a talan on the western border of <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>. He frequently serves as the intermediary between the player and <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> during the epic story.</dd></dl>
 
 <span></span>
 

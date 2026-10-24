@@ -87,10 +87,10 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 5 {#May}
 
-- **1** - Lễ đăng quang của [Vua Elessar](../A/Aragorn.md), [Elrond](../E/Elrond.md) và [Arwen](../A/Arwen.md) xuất phát từ [Rivendell](../R/Rivendell.md).<sup id="cite_ref-AppB4_11-4" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **8** - [Éomer](../_/Éomer.md) và [Éowyn](../_/Éowyn.md) khởi hành đi Rohan cùng [Elrohir](../E/Elrohir.md) và [Elladan](../E/Elladan.md).<sup id="cite_ref-AppB4_11-5" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **20** - [Elrond](../E/Elrond.md) và [Arwen](../A/Arwen.md) đến [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-AppB4_11-6" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
-- **27** - Đoàn hộ tống Arwen rời đi [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-AppB4_11-7" class="reference"><a href="#cite_note-AppB4-11">[10]</a></sup>
+- **1** - [Vua Elessar](../A/Aragorn.md) đăng quang; [Elrond](../E/Elrond.md) và [Arwen](../A/Arwen.md) khởi hành từ [Rivendell](../R/Rivendell.md).\<sup id="cite_ref-AppB4_11-4" class="reference">\<a href="#cite_note-AppB4-11">[10]\</a>\</sup>
+- **8** - [Éomer](../_/Éomer.md) và [Éowyn](../_/Éowyn.md) lên đường đến Rohan cùng [Elrohir](../E/Elrohir.md) và [Elladan](../E/Elladan.md).\<sup id="cite_ref-AppB4_11-5" class="reference">\<a href="#cite_note-AppB4-11">[10]\</a>\</sup>
+- **20** - [Elrond](../E/Elrond.md) và [Arwen](../A/Arwen.md) đến [Lothlórien](../L/Lothlórien.md).\<sup id="cite_ref-AppB4_11-6" class="reference">\<a href="#cite_note-AppB4-11">[10]\</a>\</sup>
+- **27** - Đoàn hộ tống Arwen rời [Lothlórien](../L/Lothlórien.md).\<sup id="cite_ref-AppB4_11-7" class="reference">\<a href="#cite_note-AppB4-11">[10]\</a>\</sup>
 
 ## Tháng 6 {#June}
 

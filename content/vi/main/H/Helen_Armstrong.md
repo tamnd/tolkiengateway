@@ -134,7 +134,7 @@ sort_keys:
 - [1999](../_/1999.md): [*Amon Hen* 156](../A/Amon_Hen_156.md)
     - "Dấu chân trong luống hoa của tôi"
 - [2000](../_/2000.md): [*The Best of Amon Hen* Phần 1](../T/The_Best_of_Amon_Hen.md)
-    - "Và hãy để mắt đến tên Người lùn đó"
+    - "Và hãy để mắt đến tên Người Lùn đó"
 - [2004](../_/2004.md): [*Amon Hen* 187](../A/Amon_Hen_187.md)
     - "Chúng ta đến từ đâu, hỡi người Hobbit?"
 - [2005](../_/2005.md): [*Amon Hen* 191](../A/Amon_Hen_191.md)

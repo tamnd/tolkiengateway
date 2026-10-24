@@ -48,9 +48,9 @@ infobox:
     value: "Images of Aeglos"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Aeglos</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Aeglos_(disambiguation).md" title="Aeglos (disambiguation)">Aeglos (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Aeglos</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Aeglos_(disambiguation).md" title="Aeglos (disambiguation)">Aeglos (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Audrey_Corman_-_Aiglos.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e7/Audrey_Corman_-_Aiglos.jpg/320px-Audrey_Corman_-_Aiglos.jpg" decoding="async" loading="lazy" width="320" height="267" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Audrey_Corman_-_Aiglos.jpg/480px-Audrey_Corman_-_Aiglos.jpg 1.5x, https://tolkiengateway.net/w/images/e/e7/Audrey_Corman_-_Aiglos.jpg 2x" data-file-width="556" data-file-height="464"/></a><figcaption>&#34;Aiglos&#34; by <a href="../../category/I/Images_by_Audrey_Corman.md" title="Category:Images by Audrey Corman">Audrey Corman</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Weapon</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Aeglos</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pronunciation</th><td class="tg-infobox-data"><i><b><span style="font-variant:small-caps;">eye</span></b>-glos</i></td></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Aiglos</i></td></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">Spear</td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">helping to destroy <a href="../S/Sauron.md" title="Sauron">Sauron</a> during the <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">War of the Last Alliance</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Aeglos.md" title="Category:Images of Aeglos">Images of Aeglos</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Audrey_Corman_-_Aiglos.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e7/Audrey_Corman_-_Aiglos.jpg/320px-Audrey_Corman_-_Aiglos.jpg" decoding="async" loading="lazy" width="320" height="267" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Audrey_Corman_-_Aiglos.jpg/480px-Audrey_Corman_-_Aiglos.jpg 1.5x, https://tolkiengateway.net/w/images/e/e7/Audrey_Corman_-_Aiglos.jpg 2x" data-file-width="556" data-file-height="464"/></a><figcaption>&#34;Aiglos&#34; by <a href="../../category/I/Images_by_Audrey_Corman.md" title="Category:Images by Audrey Corman">Audrey Corman</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Vũ khí</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Aeglos</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát âm</th><td class="tg-infobox-data"><i><b><span style="font-variant:small-caps;">mắt</span></b>-glos</i></td></tr><tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data"><i>Aiglos</i></td></tr><tr><th scope="row" class="tg-infobox-label">Chủ sở hữu</th><td class="tg-infobox-data"><a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngoại hình</th><td class="tg-infobox-data">Spear</td></tr><tr><th scope="row" class="tg-infobox-label">Nổi tiếng vì</th><td class="tg-infobox-data">giúp tiêu diệt <a href="../S/Sauron.md" title="Sauron">Sauron</a> trong <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">Cuộc chiến của Liên minh Cuối cùng</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Aeglos.md" title="Category:Images of Aeglos">Images of Aeglos</a></td></tr></tbody></table>
 
 **Aeglos** là ngọn giáo của Vua [Gil-galad](../G/Gil-galad.md) khiến kẻ thù vô cùng sợ hãi. Nó được [Đại Vương](../H/High_King_of_the_Noldor.md) mang đến [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md), cho đến khi Gil-galad ngã xuống trong trận chiến với chính [Sauron](../S/Sauron.md), trên sườn [Núi Diệt Vong](../M/Mount_Doom.md) [S.A.](../S/Second_Age.md) [3431](../S/Second_Age_3431.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -88,27 +88,27 @@ Trong các phiên bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
 
 <b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Aeglos is a Holy weapon with magical abilities.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<dl><dd>Aeglos là vũ khí thần thánh có khả năng phép thuật.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>Aiglos, only playable by Warriors, gives a direct influence against Elves.</dd></dl>
+<dl><dd>Aiglos, chỉ có Warriors mới có thể chơi được, có ảnh hưởng trực tiếp lên Tiên tộc.</dd></dl>
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Gil-galad is seen wielding the spear. <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a> desgined the weapon.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
+<dl><dd>Gil-galad được nhìn thấy đang cầm ngọn giáo. <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy</a> đã thiết kế ra loại vũ khí này.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
 <b>2017: <i><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Trung Địa: Bóng Tối chiến tranh</a></i>:</b>
 
-<dl><dd>Aeglos is wielded by <a href="../C/Celebrimbor.md" title="Celebrimbor">Celebrimbor</a>&#39;s wraith. The blade bears the inscription: &#34;Gil-galad wields a well made spear / The Orc will fear my point of ice / When he sees me, in fear of death / He will know my name: Aeglos&#34;<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
+<dl><dd>Aeglos được sử dụng bởi hồn ma của <a href="../C/Celebrimbor.md" title="Celebrimbor">Celebrimbor</a>. Lưỡi kiếm có dòng chữ: "Gil-galad cầm một ngọn giáo được chế tạo tốt / Orc sẽ sợ mũi băng của tôi / Khi nhìn thấy tôi, sợ chết / Ông sẽ biết tên tôi: Aeglos"<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
 <b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Gil-galad wields the spear during the <a href="../B/Battle_of_Dagorlad.md" title="Battle of Dagorlad">Battle of Dagorlad</a>. After <a href="../S/Sauron.md" title="Sauron">Sauron</a>&#39;s fall, Aeglos is discovered perched atop a pillar-like pinnacle in the Plateau of <a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a>, where it continues to emit a bright light. It is left as a beacon of hope to those who traverse the scorched plains of <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</dd></dl>
+<dl><dd>Gil-galad cầm giáo trong <a href="../B/Battle_of_Dagorlad.md" title="Battle of Dagorlad">Trận Dagorlad</a>. Sau sự sụp đổ của <a href="../S/Sauron.md" title="Sauron">Sauron</a>, Aeglos được phát hiện nằm trên đỉnh một đỉnh cao giống như cây cột ở Cao nguyên <a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a>, nơi nó tiếp tục phát ra ánh sáng rực rỡ. Nó được để lại như ngọn hải đăng hy vọng cho những người đi qua vùng đồng bằng cháy xém <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</dd></dl>
 
 <b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>: <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_2&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 2 (page does not exist)">Mùa 2</a></b>
 
-<dl><dd>In episode 7, <i><a href="../D/Doomed_to_Die.md" title="Doomed to Die">Doomed to Die</a></i>, Gil-galad wields Aeglos during <a href="../S/Sack_of_Eregion.md" title="Sack of Eregion">the Sack of Eregion</a>.</dd></dl>
+<dl><dd>Trong tập 7, <i><a href="../D/Doomed_to_Die.md" title="Doomed to Die">Doomed to Die</a></i>, Gil-galad sử dụng Aeglos trong <a href="../S/Sack_of_Eregion.md" title="Sack of Eregion">the Cuộc cướp phá Eregion</a>.</dd></dl>
 
 <span></span>
 
@@ -142,12 +142,12 @@ Trong các phiên bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Red Arrow</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="../R/Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

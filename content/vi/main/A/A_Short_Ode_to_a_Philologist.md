@@ -19,54 +19,54 @@ sort_keys:
 ## Bài thơ {#The_poem}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Necessity knows no speech: not even<br/>
-Shakespeare can say<br/>
-What must be said so well as Frisch&#39;s bees convey<br/>
-Vital instructions by ballet,<br/>
-Nor do Jack and Jill, like thrushes,<br/>
-Grow outspoken under May&#39;s compulsion.<br/>
-A scream can be uncontrollable and yawning a rudeness<br/>
-One has to be excused, but free<br/>
-Speech is tautology.<br/>
+<p>Sự cần thiết không biết nói: thậm chí không<br/>
+Shakespeare có thể nói<br/>
+Những điều phải nói hay như đàn ong của Frisch truyền tải<br/>
+Những hướng dẫn quan trọng về múa ba lê,<br/>
+Jack và Jill cũng vậy, giống như loài chim hét,<br/>
+Hãy thẳng thắn phát biểu dưới sự ép buộc của May.<br/>
+Một tiếng hét có thể không thể kiểm soát được và ngáp một cách thô lỗ<br/>
+Người ta phải được tha thứ, nhưng được tự do<br/>
+Lời nói có tính chất lặp lại.<br/>
 <br/>
-Who means <i>Good-morning</i> reveals he is not<br/>
-Napoleon or<br/>
-Napoleon&#39;s cook but quite as born, a first author,<br/>
-Ready in turn to answer for<br/>
-A story he cannot invent<br/>
-And must leave to others to tell with what<br/>
-Prejudice they prefer. Social charmers daren&#39;t invite comment<br/>
-And a chatterbox doesn&#39;t: in<br/>
-Speech, if true, deeds begin.<br/>
+Ý của ai là <i>Good-morning</i> tiết lộ rằng ông không phải<br/>
+Napoléon hoặc<br/>
+Người đầu bếp của Napoléon nhưng đúng là bẩm sinh, một tác giả đầu tiên,<br/>
+Sẵn sàng lần lượt trả lời<br/>
+Một câu chuyện anh không thể bịa ra<br/>
+Và phải để người khác kể lại<br/>
+Định kiến mà họ thích hơn. Những kẻ quyến rũ xã hội không dám mời bình luận<br/>
+Và hộp trò chuyện thì không: in<br/>
+Lời nói nếu đúng thì hành động bắt đầu.<br/>
 <br/>
-If not, there&#39;s International Babel,<br/>
-In which murders<br/>
-Are a sanitary measure and stockbrokers<br/>
-Integrity-ridden for sirs<br/>
-Who think big, where noises abound<br/>
-For throats to hire whose doom is to compel<br/>
-Attention: Its Void costs money, being flood-lit, wired for sound,<br/>
-With banner headlines guaranteed<br/>
-And applause pre-recorded.<br/>
+Nếu không thì có Babel quốc tế,<br/>
+Trong đó án mạng<br/>
+Là biện pháp vệ sinh và môi giới chứng khoán<br/>
+Sự chính trực dành cho các ngài<br/>
+Ai nghĩ lớn, nơi có nhiều tiếng ồn<br/>
+Cho những kẻ thuê cổ họng mà số phận của chúng buộc phải<br/>
+Lưu ý: Hư Không tốn tiền, có đèn chiếu sáng, có dây âm thanh,<br/>
+Với tiêu đề biểu ngữ được đảm bảo<br/>
+Và tiếng vỗ tay được ghi âm trước.<br/>
 <br/>
-But Dame Philology is our Queen still,<br/>
-Quick to comfort<br/>
-Truth-loving hearts in their mother-tongue (to report<br/>
-On the miracles she has wrought<br/>
-In the U.K., the N.E.D.<br/>
-Takes fourteen tomes): She suffers no evil,<br/>
-And a statesman still, so her grace prevent, may keep a treaty,<br/>
-A poor commoner arrive at<br/>
-The Proper Name for his cat.<br/>
+Nhưng Dame Ngữ văn vẫn là Nữ hoàng của chúng ta,<br/>
+Nhanh an ủi<br/>
+Những tấm lòng chân thật bằng tiếng mẹ đẻ (báo cáo<br/>
+Về những điều kỳ diệu Mẹ đã làm<br/>
+Trong U.K., N.E.D.<br/>
+Mất mười bốn tập sách): Bà không chịu đựng điều ác,<br/>
+Còn một chính khách vẫn bị ân sủng ngăn cản, có thể giữ một hiệp ước,<br/>
+Một thường dân nghèo đến<br/>
+Tên riêng cho con mèo của ông.<br/>
 <br/>
-No hero is immortal till he dies<br/>
-Nor is tongue,<br/>
-But a lay of Beowulf&#39;s language, too, can be sung,<br/>
-Ignoble, maybe, to the young,<br/>
-Having no monsters and no gore<br/>
-To speak of, yet not without its beauties<br/>
-For those who have learned to hope: a lot of us are grateful for<br/>
-What J. R. R. Tolkien has done<br/>
-As bard to Anglo-Saxon.
+Không có anh hùng nào là bất tử cho đến khi chết<br/>
+Lưỡi cũng vậy<br/>
+Nhưng cũng có thể hát được một đoạn ngôn ngữ của Beowulf,<br/>
+Có lẽ là hèn hạ đối với giới trẻ<br/>
+Không có quái vật và máu me<br/>
+Nói đến nhưng không phải không có vẻ đẹp<br/>
+Dành cho những người đã học được cách hy vọng: rất nhiều người trong chúng ta biết ơn<br/>
+J. R. R. Tolkien đã làm gì<br/>
+Là người hát rong Anglo-Saxon.
 </p>
 </div>

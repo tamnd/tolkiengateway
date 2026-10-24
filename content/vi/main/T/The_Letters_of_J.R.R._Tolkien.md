@@ -71,26 +71,26 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Letters_1981.jpg.md"><img src="https://tolkiengateway.net/w/images/8/88/Tolkien_Letters_1981.jpg" decoding="async" loading="lazy" width="284" height="450" class="mw-file-element" data-file-width="284" data-file-height="450"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Letters of J.R.R. Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../H/Humphrey_Carpenter.md" title="Humphrey Carpenter">Humphrey Carpenter</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/20_August.md" title="20 August">20 August</a> <a href="../_/1981.md" title="1981">1981</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">463 (first edition)<br/>720 (second edition)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048260053" title="Special:BookSources/0048260053">0048260053</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a> (1980)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Old_English_Exodus.md" title="The Old English Exodus">The Old English Exodus</a> (1982)</td></tr></tbody></table>
 
-<i><b>Những bức thư của J.R.R. Tolkien</b></i> là tập hợp các bức thư, đoạn thư, bản nháp và chú thích cuối thư của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ấn bản đầu tiên có 354 mục, được [Humphrey Carpenter](../H/Humphrey_Carpenter.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập và được xuất bản trong [1981](../_/1981.md).
+<i><b>The Letters of J.R.R. Tolkien</b></i> là tuyển tập các bức thư, những đoạn thư còn sót lại, bản thảo thư và chú thích cuối sách của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ấn bản đầu tiên gồm 354 mục, do [Humphrey Carpenter](../H/Humphrey_Carpenter.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập, và được xuất bản vào năm [1981](../_/1981.md).
 
-Cuốn *Letters* được coi là cuốn tự truyện của Tolkien, vì bản thân ông không viết cuốn nào. Và nó được công nhận rộng rãi như một cuốn sách tham khảo không thể thiếu đối với cả giới học giả Tolkien và người hâm mộ vì nó chứa đựng nhiều thông tin và hiểu biết sâu sắc về các tác phẩm văn học cũng như cuộc sống cá nhân của ông.
+Cuốn *Letters* được coi là cuốn tự truyện của Tolkien, vì chính Tolkien không viết một cuốn tự truyện nào. Tác phẩm này cũng được xem rộng rãi là một tài liệu tham khảo không thể thiếu đối với cả giới học giả Tolkien và người hâm mộ, vì nó chứa đựng nhiều thông tin và những nhận định sâu sắc về các tác phẩm văn học cũng như đời sống cá nhân của ông.
 
 Một chỉ mục đã được cung cấp bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md) kể từ [1995](../_/1995.md).
 
-Phiên bản sửa đổi và mở rộng đã được xuất bản vào [ngày 9 tháng 11](../_/9_November.md), [2023](../_/2023.md). Phiên bản mới bao gồm 154 mục mới, nâng tổng số chữ cái lên 508.
+Một ấn bản chỉnh sửa và bổ sung đã được xuất bản vào ngày [9 tháng 11](../_/9_November.md) năm [2023](../_/2023.md). Ấn bản mới bổ sung 154 mục, nâng tổng số bức thư lên 508.
 
 ## Nội dung {#Contents}
 
-Việc lựa chọn 354 bức thư trong ấn bản gốc bắt đầu từ tháng 10 [1914](../_/1914.md), khi Tolkien còn là sinh viên đại học tại [Đại học Oxford](../U/University_of_Oxford.md), đến [29 tháng 8](../_/29_August.md) [1973](../_/1973.md), bốn ngày trước khi ông qua đời.
+354 bức thư được tuyển chọn trong ấn bản gốc có niên đại từ tháng 10 năm [1914](../_/1914.md), khi Tolkien còn là sinh viên bậc đại học tại [Đại học Oxford](../U/University_of_Oxford.md), đến ngày [29 tháng 8](../_/29_August.md) năm [1973](../_/1973.md), bốn ngày trước khi ông qua đời.
 
-Các chữ cái có thể được chia đại khái thành bốn loại:
+Các bức thư có thể được chia thành bốn nhóm chính:
 
 1. Thư riêng gửi [Edith Tolkien](../E/Edith_Tolkien.md), Christopher Tolkien và những người con khác của ông
-2. Thư về Tolkien làm giáo sư Anglo-Saxon
-3. Thư gửi các nhà xuất bản của ông tại [Allen và Unwin](../A/Allen_and_Unwin.md) giải thích việc ông không đáp ứng được thời hạn và các chủ đề liên quan
+2. Thư về sự nghiệp giảng dạy Anglo-Saxon của Tolkien
+3. Thư gửi nhà xuất bản của ông tại [Allen and Unwin](../A/Allen_and_Unwin.md), giải thích việc ông không thể đáp ứng thời hạn và đề cập đến những vấn đề liên quan
 4. Thư về [Trung Địa](../M/Middle-earth.md)
 
-Danh mục cuối cùng được người hâm mộ Tolkien đặc biệt quan tâm vì nó cung cấp rất nhiều thông tin về Trung Địa mà không thể tìm thấy ở đâu khác trong các tác phẩm do chính Tolkien xuất bản. Người ta nhận xét như thế này:
+Danh mục cuối cùng được người hâm mộ Tolkien đặc biệt quan tâm vì nó cung cấp rất nhiều thông tin về Trung Địa mà không thể tìm thấy ở nơi nào khác trong các tác phẩm do chính Tolkien xuất bản. Điều này được nhận xét như sau:
 
 <blockquote class="tg-quote noexcerpt">
 <p>During the composition and the publication process of his literary works, J.R.R. Tolkien continually corresponded with friends, family members, colleagues, and his publishers, and for years after the publication of <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, with his readers as well. Indeed, many of his letters are direct (inasmuch as Tolkien strove to be direct) answers to questions about which people had written to him. His letters contain much background and expository material that never made it to publication, and also a great deal of explanation of his intent or purpose. He often went to great lengths to clear up readers&#39; misunderstandings. In a few instances, however, Tolkien didn&#39;t actually provide a clear, if any, answer to the question (for example, &#34;Who is <a href="Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>?&#34; or &#34;What happened to the <a href="../E/Entwives.md" title="Entwives">Entwives</a>?&#34;), although he did address these topics in his letters, thus leaving us with at least the final word on the subject from the author himself.
@@ -100,13 +100,13 @@ Danh mục cuối cùng được người hâm mộ Tolkien đặc biệt quan t
 
 ## *Revised and Expanded edition* {#Revised_and_Expanded_edition}
 
-<i><b>Phiên bản sửa đổi và mở rộng</b></i> được xuất bản vào [9 tháng 11](../_/9_November.md), [2023](../_/2023.md), bởi HarperCollins. Trong ấn bản này, 154 chữ cái chưa từng thấy trước đây đã được thêm vào và 45 chữ cái hiện có được cập nhật và mở rộng. Bây giờ tổng số mục đã tăng từ 354 lên 508 và số trang từ 463 lên 720.
+<i><b>Phiên bản sửa đổi và mở rộng</b></i> được xuất bản vào [9 tháng 11](../_/9_November.md), [2023](../_/2023.md), do HarperCollins xuất bản. Trong ấn bản này, 154 bức thư chưa từng được công bố trước đây đã được bổ sung, và 45 bức thư hiện có đã được cập nhật và mở rộng. Theo đó, tổng số mục đã tăng từ 354 lên 508, còn số trang tăng từ 463 lên 720.
 
-Về bản chất nó không phải là "ấn bản thứ hai", mà là "ấn bản đầu tiên được khôi phục hoàn toàn". Theo ghi nhận của người biên tập, trong quá trình xuất bản ấn bản đầu tiên, phần lớn nội dung gốc đã phải cắt bỏ do hạn chế in ấn của thời đó. Do đó, ấn bản mới này mang đến cơ hội khôi phục lại tất cả những gì đã mất và thể hiện những gì các biên tập viên ban đầu đã hình dung về cuốn sách.
+Về bản chất, đây không phải là "ấn bản thứ hai", mà là "ấn bản đầu tiên được khôi phục hoàn toàn". Theo lời người biên tập, trong quá trình xuất bản ấn bản đầu tiên, phần lớn nội dung gốc đã phải bị lược bỏ do những hạn chế về in ấn vào thời đó. Do đó, ấn bản mới này mang đến cơ hội khôi phục tất cả những gì đã bị lược bỏ và thể hiện những gì các biên tập viên ban đầu đã hình dung về cuốn sách.
 
-Hệ thống đánh số của Carpenter vẫn được giữ nguyên, trong khi các chữ cái mới được chèn vào đúng vị trí bằng một chữ cái viết thường, ví dụ: chữ 18a được đặt giữa chữ cái 18 và 19.
+Hệ thống đánh số của Carpenter vẫn được giữ nguyên, trong khi các bức thư mới được chèn vào đúng vị trí bằng cách thêm một chữ cái thường vào số thứ tự, ví dụ: thư 18a được đặt giữa thư 18 và thư 19.
 
-Nó đã giành được [Giải thưởng của Hội Tolkien](The_Tolkien_Society.md) sách hay nhất năm 2024.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tác phẩm đã giành được [Giải thưởng của Hội Tolkien](The_Tolkien_Society.md) cho hạng mục sách hay nhất năm 2024.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 #### Từ nhà xuất bản {#From_the_publisher}
 
@@ -119,7 +119,7 @@ Nó đã giành được [Giải thưởng của Hội Tolkien](The_Tolkien_Soci
 </p>
 </blockquote>
 
-## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
+## Lịch sử xuất bản và bộ sưu tập hình ảnh {#Publication_history_and_gallery}
 
 <dl><dt>UK editions</dt></dl>
 
@@ -186,7 +186,7 @@ Nó đã giành được [Giải thưởng của Hội Tolkien](The_Tolkien_Soci
 ## Xem thêm {#See_also}
 
 - [Người nhận thư](../../category/L/Letter_receivers.md)
-- [Những bức thư không được đăng trong "Những bức thư của J.R.R. Tolkien"](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md)
+- [Những bức thư không được xuất bản trong "The Letters of J.R.R. Tolkien"](../L/Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md)
 - *[J.R.R. Tolkien's Letters to Rhona Beare](../J/J.R.R._Tolkien's_Letters_to_Rhona_Beare.md)*
 
 ## Liên kết ngoài {#External_links}
