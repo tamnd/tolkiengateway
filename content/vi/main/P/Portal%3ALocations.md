@@ -33,13 +33,13 @@ images:
 <div style="text-align: center;font-size:195%;border:none;margin: 0;padding:.1em;color:#000">Locations Portal</div>
 </td>
 <td style="text-align:left;width:100px;font-size:90%;color:#000">
-<ul><li><a class="mw-redirect" href="../A/Adaptations.md" title="Adaptations">Adaptations</a></li>
+<ul><li><a class="mw-redirect" href="../A/Adaptations.md" title="Adaptations">Các tác phẩm chuyển thể</a></li>
 <li><a class="mw-redirect" href="../B/Books.md" title="Books">Sách</a></li>
 <li><a class="mw-redirect" href="../C/Characters.md" title="Characters">Nhân vật</a></li></ul>
 </td>
 <td style="text-align:left;width:100px;font-size:90%;color:#000">
 <ul><li><a class="mw-redirect" href="../C/Collectibles.md" title="Collectibles">Collectibles</a></li>
-<li><a class="mw-redirect" href="../G/Games.md" title="Games">Games</a></li>
+<li><a class="mw-redirect" href="../G/Games.md" title="Games">Trò chơi</a></li>
 <li><a class="mw-redirect" href="../I/Images.md" title="Images">Hình ảnh</a></li></ul>
 </td>
 <td style="width:100px;text-align:left;font-size:90%;color:#000;padding-right:20px;">

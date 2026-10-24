@@ -107,7 +107,7 @@ Vì biểu tượng cá nhân được đặt trong hình thoi và biểu tượ
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Biểu tượng</th>
-<th>Holder</th>
+<th>Người nắm giữ</th>
 <th>Commentary</th>
 <th>Lịch sử xuất bản
 </th></tr>
@@ -122,7 +122,7 @@ Vì biểu tượng cá nhân được đặt trong hình thoi và biểu tượ
 <ul><li><i><a href="../T/The_J.R.R._Tolkien_Calendar_1974.md" title="The J.R.R. Tolkien Calendar 1974">The J.R.R. Tolkien Calendar 1974</a></i> (<a href="../_/1973.md" title="1973">1973</a>), bìa sau</li>
 <li><i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a></i> (<a href="../_/1995.md" title="1995">1995</a>), p. 194, #191</li>
 <li><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> (ấn bản thứ hai, <a href="../_/2021.md" title="2021">2021</a>), #47</li>
-<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), trang 36, 63</li></ul>
+<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), pp. 36, 63</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Finwë_heraldic_device_(II).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4a/J.R.R._Tolkien_-_Finw%C3%AB_heraldic_device_%28II%29.jpg/150px-J.R.R._Tolkien_-_Finw%C3%AB_heraldic_device_%28II%29.jpg" decoding="async" loading="lazy" width="150" height="153" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4a/J.R.R._Tolkien_-_Finw%C3%AB_heraldic_device_%28II%29.jpg/225px-J.R.R._Tolkien_-_Finw%C3%AB_heraldic_device_%28II%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4a/J.R.R._Tolkien_-_Finw%C3%AB_heraldic_device_%28II%29.jpg/300px-J.R.R._Tolkien_-_Finw%C3%AB_heraldic_device_%28II%29.jpg 2x" data-file-width="857" data-file-height="873"/></a><figcaption></figcaption></figure></td>
@@ -134,7 +134,7 @@ Vì biểu tượng cá nhân được đặt trong hình thoi và biểu tượ
 <ul><li><i><a href="../T/The_Silmarillion_Calendar_1978.md" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a></i>, April</li>
 <li><i><a href="../T/The_Silmarillion_Desk_Calendar_1979.md" title="The Silmarillion Desk Calendar 1979">The Silmarillion Desk Calendar 1979</a></i>, May</li>
 <li><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> (<a href="../_/1979.md" title="1979">1979</a>), #47</li>
-<li><i><a href="../T/The_Tolkien_Diary_1992.md" title="The Tolkien Diary 1992">The Tolkien Diary 1992</a></i>, giới thiệu</li></ul>
+<li><i><a href="../T/The_Tolkien_Diary_1992.md" title="The Tolkien Diary 1992">The Tolkien Diary 1992</a></i>, intro</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Fëanor_heraldic_device.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/37/J.R.R._Tolkien_-_F%C3%ABanor_heraldic_device.jpg/150px-J.R.R._Tolkien_-_F%C3%ABanor_heraldic_device.jpg" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/37/J.R.R._Tolkien_-_F%C3%ABanor_heraldic_device.jpg/225px-J.R.R._Tolkien_-_F%C3%ABanor_heraldic_device.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/37/J.R.R._Tolkien_-_F%C3%ABanor_heraldic_device.jpg/300px-J.R.R._Tolkien_-_F%C3%ABanor_heraldic_device.jpg 2x" data-file-width="1363" data-file-height="1363"/></a><figcaption></figcaption></figure></td>
@@ -151,7 +151,7 @@ Vì biểu tượng cá nhân được đặt trong hình thoi và biểu tượ
 <li><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> (<a href="../_/1979.md" title="1979">1979</a>), #47</li>
 <li><i><a href="../T/The_Tolkien_Diary_1992.md" title="The Tolkien Diary 1992">The Tolkien Diary 1992</a></i> (<a href="../_/1991.md" title="1991">1991</a>), 1992-07-17</li>
 <li><i><a href="../J/J.R.R._Tolkien%253A_Life_and_Legend.md" title="J.R.R. Tolkien: Life and Legend">J.R.R. Tolkien: Life and Legend</a></i> (<a href="../_/1992.md" title="1992">1992</a>), p. 66</li>
-<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), trang 53, 96</li></ul>
+<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), pp. 53, 96</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Star_of_the_House_of_Feanor.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6b/J.R.R._Tolkien_-_Star_of_the_House_of_Feanor.png/150px-J.R.R._Tolkien_-_Star_of_the_House_of_Feanor.png" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6b/J.R.R._Tolkien_-_Star_of_the_House_of_Feanor.png/225px-J.R.R._Tolkien_-_Star_of_the_House_of_Feanor.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/6b/J.R.R._Tolkien_-_Star_of_the_House_of_Feanor.png/300px-J.R.R._Tolkien_-_Star_of_the_House_of_Feanor.png 2x" data-file-width="394" data-file-height="394"/></a><figcaption></figcaption></figure></td>
@@ -175,7 +175,7 @@ Vì biểu tượng cá nhân được đặt trong hình thoi và biểu tượ
 <ul><li><i><a href="../T/The_Silmarillion_Calendar_1978.md" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a></i> (<a href="../_/1977.md" title="1977">1977</a>), April</li>
 <li><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> (<a href="../_/1979.md" title="1979">1979</a>), #47</li>
 <li><i><a href="../T/The_Tolkien_Diary_1992.md" title="The Tolkien Diary 1992">The Tolkien Diary 1992</a></i> (<a href="../_/1991.md" title="1991">1991</a>), 1992-04-04</li>
-<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), trang i, 57</li></ul>
+<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), pp. i, 57</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Fingolfin_heraldic_device.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/32/J.R.R._Tolkien_-_Fingolfin_heraldic_device.jpg/150px-J.R.R._Tolkien_-_Fingolfin_heraldic_device.jpg" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/J.R.R._Tolkien_-_Fingolfin_heraldic_device.jpg/225px-J.R.R._Tolkien_-_Fingolfin_heraldic_device.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/J.R.R._Tolkien_-_Fingolfin_heraldic_device.jpg/300px-J.R.R._Tolkien_-_Fingolfin_heraldic_device.jpg 2x" data-file-width="1327" data-file-height="1326"/></a><figcaption></figcaption></figure></td>
@@ -194,7 +194,7 @@ Vì biểu tượng cá nhân được đặt trong hình thoi và biểu tượ
 <li><i><a href="../J/J.R.R._Tolkien%253A_Life_and_Legend.md" title="J.R.R. Tolkien: Life and Legend">J.R.R. Tolkien: Life and Legend</a></i> (<a href="../_/1992.md" title="1992">1992</a>), p. 67</li>
 <li><i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a></i> (<a href="../_/1995.md" title="1995">1995</a>), p. 195, #192</li>
 <li><i><a href="../T/Tolkien%253A_Maker_of_Middle-earth.md" title="Tolkien: Maker of Middle-earth">Tolkien: Maker of Middle-earth</a></i> (<a href="../_/2018.md" title="2018">2018</a>), p. 81, #39</li>
-<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), trang 141, 227</li></ul>
+<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), pp. 141, 227</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Finarfin_Heraldic_Device.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/J.R.R._Tolkien_-_Finarfin_Heraldic_Device.jpg/150px-J.R.R._Tolkien_-_Finarfin_Heraldic_Device.jpg" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/J.R.R._Tolkien_-_Finarfin_Heraldic_Device.jpg/225px-J.R.R._Tolkien_-_Finarfin_Heraldic_Device.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/J.R.R._Tolkien_-_Finarfin_Heraldic_Device.jpg/300px-J.R.R._Tolkien_-_Finarfin_Heraldic_Device.jpg 2x" data-file-width="1000" data-file-height="1000"/></a><figcaption></figcaption></figure></td>
@@ -248,7 +248,7 @@ Vì biểu tượng cá nhân được đặt trong hình thoi và biểu tượ
 <li><i><a href="../T/The_Silmarillion_Desk_Calendar_1979.md" title="The Silmarillion Desk Calendar 1979">The Silmarillion Desk Calendar 1979</a></i> (<a href="../_/1978.md" title="1978">1978</a>), May</li>
 <li><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> (<a href="../_/1979.md" title="1979">1979</a>), #47</li>
 <li><i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a></i> (<a href="../_/1995.md" title="1995">1995</a>), p. 194, #191</li>
-<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), trang 47, 122</li></ul>
+<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), pp. 47, 122</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Lúthien_Tinúviel_heraldic_device_(I).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f0/J.R.R._Tolkien_-_L%C3%BAthien_Tin%C3%BAviel_heraldic_device_%28I%29.jpg/150px-J.R.R._Tolkien_-_L%C3%BAthien_Tin%C3%BAviel_heraldic_device_%28I%29.jpg" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f0/J.R.R._Tolkien_-_L%C3%BAthien_Tin%C3%BAviel_heraldic_device_%28I%29.jpg/225px-J.R.R._Tolkien_-_L%C3%BAthien_Tin%C3%BAviel_heraldic_device_%28I%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f0/J.R.R._Tolkien_-_L%C3%BAthien_Tin%C3%BAviel_heraldic_device_%28I%29.jpg/300px-J.R.R._Tolkien_-_L%C3%BAthien_Tin%C3%BAviel_heraldic_device_%28I%29.jpg 2x" data-file-width="1100" data-file-height="1100"/></a><figcaption></figcaption></figure></td>
@@ -264,11 +264,11 @@ Vì biểu tượng cá nhân được đặt trong hình thoi và biểu tượ
 <li><i><a href="../T/The_Silmarillion_Desk_Calendar_1979.md" title="The Silmarillion Desk Calendar 1979">The Silmarillion Desk Calendar 1979</a></i> (<a href="../_/1978.md" title="1978">1978</a>), December</li>
 <li><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> (<a href="../_/1979.md" title="1979">1979</a>), #47</li>
 <li><i><a href="../T/The_Tolkien_Diary_1992.md" title="The Tolkien Diary 1992">The Tolkien Diary 1992</a></i> (<a href="../_/1991.md" title="1991">1991</a>), 1993-01-01</li>
-<li><i><a href="../J/J.R.R._Tolkien%253A_Life_and_Legend.md" title="J.R.R. Tolkien: Life and Legend">J.R.R. Tolkien: Life and Legend</a></i> (<a href="../_/1992.md" title="1992">1992</a>), trang 77, 85</li>
+<li><i><a href="../J/J.R.R._Tolkien%253A_Life_and_Legend.md" title="J.R.R. Tolkien: Life and Legend">J.R.R. Tolkien: Life and Legend</a></i> (<a href="../_/1992.md" title="1992">1992</a>), pp. 77, 85</li>
 <li><i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a></i> (<a href="../_/1995.md" title="1995">1995</a>), p. 197, #195</li>
 <li><i><a href="../T/Tolkien%253A_Maker_of_Middle-earth.md" title="Tolkien: Maker of Middle-earth">Tolkien: Maker of Middle-earth</a></i> (<a href="../_/2018.md" title="2018">2018</a>), p. 237, #81</li>
-<li><i><a href="../T/Tolkien%253A_Treasures.md" title="Tolkien: Treasures">Tolkien: Treasures</a></i> (<a href="../_/2018.md" title="2018">2018</a>), trang 82-3</li>
-<li><i><a href="../T/Tolkien%253A_Voyage_en_Terre_du_Milieu.md" title="Tolkien: Voyage en Terre du Milieu">Tolkien: Voyage en Terre du Milieu</a></i> (<a href="../_/2019.md" title="2019">2019</a>), tr. 270, #191</li>
+<li><i><a href="../T/Tolkien%253A_Treasures.md" title="Tolkien: Treasures">Tolkien: Treasures</a></i> (<a href="../_/2018.md" title="2018">2018</a>), pp. 82-3</li>
+<li><i><a href="../T/Tolkien%253A_Voyage_en_Terre_du_Milieu.md" title="Tolkien: Voyage en Terre du Milieu">Tolkien: Voyage en Terre du Milieu</a></i> (<a href="../_/2019.md" title="2019">2019</a>), p. 270, #191</li>
 <li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), p. 81</li></ul>
 </td></tr>
 <tr>
@@ -399,7 +399,7 @@ Thiết kế của Con Người có tính đối xứng, nhưng không giống n
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Biểu tượng</th>
-<th>Holder</th>
+<th>Người nắm giữ</th>
 <th>Ghi chú</th>
 <th>Lịch sử xuất bản
 </th></tr>
@@ -413,7 +413,7 @@ Thiết kế của Con Người có tính đối xứng, nhưng không giống n
 <ul><li><i><a href="../T/The_Silmarillion_Calendar_1978.md" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a></i> (<a href="../_/1977.md" title="1977">1977</a>), April</li>
 <li><i><a href="../T/The_Silmarillion_Desk_Calendar_1979.md" title="The Silmarillion Desk Calendar 1979">The Silmarillion Desk Calendar 1979</a></i> (<a href="../_/1978.md" title="1978">1978</a>), January</li>
 <li><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> (<a href="../_/1979.md" title="1979">1979</a>), #47</li>
-<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), trang 131, 216</li></ul>
+<li><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>: Illustrated by J.R.R. Tolkien</i> (<a href="../_/2022.md" title="2022">2022</a>), pp. 131, 216</li></ul>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Hador_heraldic_device.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/J.R.R._Tolkien_-_Hador_heraldic_device.jpg/150px-J.R.R._Tolkien_-_Hador_heraldic_device.jpg" decoding="async" loading="lazy" width="150" height="145" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0d/J.R.R._Tolkien_-_Hador_heraldic_device.jpg/225px-J.R.R._Tolkien_-_Hador_heraldic_device.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0d/J.R.R._Tolkien_-_Hador_heraldic_device.jpg/300px-J.R.R._Tolkien_-_Hador_heraldic_device.jpg 2x" data-file-width="1428" data-file-height="1385"/></a><figcaption></figcaption></figure></td>
@@ -472,7 +472,7 @@ Thiết kế của Con Người có tính đối xứng, nhưng không giống n
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Biểu tượng</th>
-<th>Holder</th>
+<th>Người nắm giữ</th>
 <th>Ghi chú</th>
 <th>Lịch sử xuất bản
 </th></tr>
@@ -494,7 +494,7 @@ Cái đe và cái búa rõ ràng là ám chỉ đến các kỹ năng của <a h
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Biểu tượng</th>
-<th>Holder</th>
+<th>Người nắm giữ</th>
 <th>Ghi chú</th>
 <th>Lịch sử xuất bản
 </th></tr>
@@ -609,7 +609,7 @@ Ngoài những bức vẽ mà ông đã vẽ, Tolkien còn đề cập đến m�
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Biểu tượng</th>
-<th>Holder</th>
+<th>Người nắm giữ</th>
 <th>Ghi chú
 </th></tr>
 <tr>
@@ -665,7 +665,7 @@ Ngoài những bức vẽ mà ông đã vẽ, Tolkien còn đề cập đến m�
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_Stewards_of_Gondor.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/87/Rondador_-_Stewards_of_Gondor.png/120px-Rondador_-_Stewards_of_Gondor.png" decoding="async" loading="lazy" width="120" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/87/Rondador_-_Stewards_of_Gondor.png/180px-Rondador_-_Stewards_of_Gondor.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/87/Rondador_-_Stewards_of_Gondor.png/240px-Rondador_-_Stewards_of_Gondor.png 2x" data-file-width="931" data-file-height="1024"/></a><figcaption></figcaption></figure></td>
-<td><a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Steward of Gondor</a></td>
+<td><a href="../S/Steward_of_Gondor.md" title="Steward of Gondor">Quan nhiếp chính Gondor</a></td>
 <td>Những người quản lý có một biểu ngữ có tên "<i>white without charge</i>".<sup id="cite_ref-RoyalStewards_24-1" class="reference"><a href="#cite_note-RoyalStewards-24">[22]</a></sup>
 </td></tr>
 <tr>
@@ -679,7 +679,7 @@ Ngoài những bức vẽ mà ông đã vẽ, Tolkien còn đề cập đến m�
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Biểu tượng</th>
-<th>Holder</th>
+<th>Người nắm giữ</th>
 <th>Ghi chú
 </th></tr>
 <tr>
@@ -718,7 +718,7 @@ Dưới đây là những trích dẫn mô tả các biểu tượng được c�
 <table class="wikitable sortable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Biểu tượng</th>
-<th>Holder</th>
+<th>Người nắm giữ</th>
 <th>Ghi chú
 </th></tr>
 <tr>
@@ -728,22 +728,22 @@ Dưới đây là những trích dẫn mô tả các biểu tượng được c�
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Wing.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9c/Rondador_-_House_of_the_Wing.png/120px-Rondador_-_House_of_the_Wing.png" decoding="async" loading="lazy" width="120" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9c/Rondador_-_House_of_the_Wing.png/180px-Rondador_-_House_of_the_Wing.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/9c/Rondador_-_House_of_the_Wing.png/240px-Rondador_-_House_of_the_Wing.png 2x" data-file-width="800" data-file-height="880"/></a><figcaption></figcaption></figure></td>
-<td><a href="House_of_the_Wing.md" title="House of the Wing">House of the Wing</a></td>
+<td><a href="House_of_the_Wing.md" title="House of the Wing">Gia tộc Cánh</a></td>
 <td>"<i>[<a href="../T/Tuor.md" title="Tuor">Tuor</a>] bộ áo giáp bạc lấp lánh; và xung quanh ông là đoàn quân của những người mập mạp nhất trong dân gian. Này! Tất cả những người này đều mang đôi cánh giống như <a href="../S/Swans.md" title="Swans">thiên nga</a> hoặc <a href="../G/Gulls.md" title="Gulls">mòng biển</a> trên mũ, và biểu tượng của Cánh Trắng nằm trên khiên của họ</i>".<i><sup id="cite_ref-Gondolin_49-2" class="reference"><a href="#cite_note-Gondolin-49">[47]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:172</sup></i>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Mole.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/78/Rondador_-_House_of_the_Mole.png/120px-Rondador_-_House_of_the_Mole.png" decoding="async" loading="lazy" width="120" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/78/Rondador_-_House_of_the_Mole.png/180px-Rondador_-_House_of_the_Mole.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/78/Rondador_-_House_of_the_Mole.png/240px-Rondador_-_House_of_the_Mole.png 2x" data-file-width="800" data-file-height="880"/></a><figcaption></figcaption></figure></td>
-<td><a href="House_of_the_Mole.md" title="House of the Mole">House of the Mole</a></td>
+<td><a href="House_of_the_Mole.md" title="House of the Mole">Gia tộc Chuột Chũi</a></td>
 <td>"<i>...sable là dây nịt của họ, và họ không có biển hiệu hay biểu tượng, nhưng những chiếc mũ tròn bằng thép của họ được phủ bằng da chuột chũi</i>".<sup id="cite_ref-Gondolin_49-3" class="reference"><a href="#cite_note-Gondolin-49">[47]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:172</sup> "<i>Bây giờ, dấu hiệu của <a class="mw-redirect" href="../M/Meglin.md" title="Meglin">Meglin</a> là một con sable <a class="mw-redirect" href="../M/Mole.md" title="Mole">Nốt ruồi</a></i>".<sup id="cite_ref-Gondolin_49-4" class="reference"><a href="#cite_note-Gondolin-49">[47]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Swallow.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e7/Rondador_-_House_of_the_Swallow.png/120px-Rondador_-_House_of_the_Swallow.png" decoding="async" loading="lazy" width="120" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Rondador_-_House_of_the_Swallow.png/180px-Rondador_-_House_of_the_Swallow.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/Rondador_-_House_of_the_Swallow.png/240px-Rondador_-_House_of_the_Swallow.png 2x" data-file-width="800" data-file-height="880"/></a><figcaption></figcaption></figure></td>
-<td><a href="House_of_the_Swallow.md" title="House of the Swallow">House of the Swallow</a></td>
+<td><a href="House_of_the_Swallow.md" title="House of the Swallow">Nhà Chim Én</a></td>
 <td>"<i>Bây giờ dân Én đội một chiếc quạt lông trên mũ, họ mặc trang phục màu trắng, xanh đậm, tím và đen và có hình đầu mũi tên trên khiên</i>".<sup id="cite_ref-Gondolin_49-5" class="reference"><a href="#cite_note-Gondolin-49">[47]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:173</sup>
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Heavenly_Arch.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e5/Rondador_-_House_of_the_Heavenly_Arch.png/120px-Rondador_-_House_of_the_Heavenly_Arch.png" decoding="async" loading="lazy" width="120" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/Rondador_-_House_of_the_Heavenly_Arch.png/180px-Rondador_-_House_of_the_Heavenly_Arch.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e5/Rondador_-_House_of_the_Heavenly_Arch.png/240px-Rondador_-_House_of_the_Heavenly_Arch.png 2x" data-file-width="1024" data-file-height="1126"/></a><figcaption></figcaption></figure></td>
-<td><a href="House_of_the_Heavenly_Arch.md" title="House of the Heavenly Arch">House of the Heavenly Arch</a></td>
+<td><a href="House_of_the_Heavenly_Arch.md" title="House of the Heavenly Arch">Ngôi nhà Vòm trời</a></td>
 <td>"<i>Nhưng họ của Thiên thần là một dân tộc giàu có vô số, mặc trang phục màu sắc rực rỡ, và cánh tay của họ được trang sức bằng những viên ngọc rực sáng dưới bầu trời. Mỗi tấm khiên của tiểu đoàn đó đều có màu xanh của thiên đường và chủ của nó là một khối ngọc gồm bảy viên đá quý, hồng ngọc, thạch anh tím và ngọc bích, ngọc lục bảo, chrysoprase, topaz và hổ phách, nhưng một viên opal có kích thước lớn được đính trên mũ của họ. <a href="../E/Egalmoth.md" title="Egalmoth">Egalmoth</a> là thủ lĩnh của họ, và mặc một chiếc áo choàng màu xanh có thêu ngôi sao bằng pha lê...</i>".<sup id="cite_ref-Gondolin_49-6" class="reference"><a href="#cite_note-Gondolin-49">[47]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:173</sup>
 </td></tr>
 <tr>
@@ -758,7 +758,7 @@ Dưới đây là những trích dẫn mô tả các biểu tượng được c�
 </td></tr>
 <tr>
 <td><figure class="mw-halign-center" typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Hammer_of_Wrath.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4b/Rondador_-_House_of_the_Hammer_of_Wrath.png/120px-Rondador_-_House_of_the_Hammer_of_Wrath.png" decoding="async" loading="lazy" width="120" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4b/Rondador_-_House_of_the_Hammer_of_Wrath.png/180px-Rondador_-_House_of_the_Hammer_of_Wrath.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4b/Rondador_-_House_of_the_Hammer_of_Wrath.png/240px-Rondador_-_House_of_the_Hammer_of_Wrath.png 2x" data-file-width="800" data-file-height="880"/></a><figcaption></figcaption></figure></td>
-<td><a href="House_of_the_Hammer_of_Wrath.md" title="House of the Hammer of Wrath">House of the Hammer of Wrath</a></td>
+<td><a href="House_of_the_Hammer_of_Wrath.md" title="House of the Hammer of Wrath">Nhà Hammer of Wrath</a></td>
 <td>"<i>Dấu hiệu của dân tộc này là Đe bị tấn công, và một chiếc búa phát ra tia lửa xung quanh nó được đặt trên khiên của họ, và vàng đỏ và sắt đen là niềm vui của họ</i>".<sup id="cite_ref-Gondolin_49-9" class="reference"><a href="#cite_note-Gondolin-49">[47]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:174</sup>
 </td></tr></tbody></table>
 

@@ -51,7 +51,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_1987-hb.png.md" title="1980 hardcover 8th impression"><img alt="1980 hardcover 8th impression" src="https://tolkiengateway.net/w/images/thumb/7/79/Unfinished_Tales_1987-hb.png/78px-Unfinished_Tales_1987-hb.png" decoding="async" loading="lazy" width="78" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/79/Unfinished_Tales_1987-hb.png/117px-Unfinished_Tales_1987-hb.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/79/Unfinished_Tales_1987-hb.png/156px-Unfinished_Tales_1987-hb.png 2x" data-file-width="312" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1980 hardcover 8th impression
+<p>Ấn tượng thứ 8 bìa cứng năm 1980
 </p>
 			</div>
 		</li>
@@ -65,7 +65,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_1987-pb.png.md" title="1982 paperback 9th impression"><img alt="1982 paperback 9th impression" src="https://tolkiengateway.net/w/images/thumb/1/17/Unfinished_Tales_1987-pb.png/82px-Unfinished_Tales_1987-pb.png" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/Unfinished_Tales_1987-pb.png/123px-Unfinished_Tales_1987-pb.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/17/Unfinished_Tales_1987-pb.png/163px-Unfinished_Tales_1987-pb.png 2x" data-file-width="327" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1982 paperback 9th impression
+<p>Ấn tượng thứ 9 bìa mềm năm 1982
 </p>
 			</div>
 		</li>
@@ -89,35 +89,35 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_1993.png.md" title="1993 paperback"><img alt="1993 paperback" src="https://tolkiengateway.net/w/images/thumb/2/2c/Unfinished_Tales_1993.png/82px-Unfinished_Tales_1993.png" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2c/Unfinished_Tales_1993.png/123px-Unfinished_Tales_1993.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/2c/Unfinished_Tales_1993.png/164px-Unfinished_Tales_1993.png 2x" data-file-width="328" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1993 paperback
+<p>Bản bìa mềm năm 1993
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_1998-1.png.md" title="1998 paperback"><img alt="1998 paperback" src="https://tolkiengateway.net/w/images/thumb/0/0f/Unfinished_Tales_1998-1.png/77px-Unfinished_Tales_1998-1.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0f/Unfinished_Tales_1998-1.png/116px-Unfinished_Tales_1998-1.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0f/Unfinished_Tales_1998-1.png/155px-Unfinished_Tales_1998-1.png 2x" data-file-width="310" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1998 paperback
+<p>Bản bìa mềm năm 1998
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_1998-4.png.md" title="1998 paperback 4th impression"><img alt="1998 paperback 4th impression" src="https://tolkiengateway.net/w/images/thumb/3/3f/Unfinished_Tales_1998-4.png/77px-Unfinished_Tales_1998-4.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3f/Unfinished_Tales_1998-4.png/116px-Unfinished_Tales_1998-4.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3f/Unfinished_Tales_1998-4.png/154px-Unfinished_Tales_1998-4.png 2x" data-file-width="309" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1998 paperback 4th impression
+<p>Ấn tượng thứ 4 bìa mềm năm 1998
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_1998-6.png.md" title="1998 paperback 6th impression"><img alt="1998 paperback 6th impression" src="https://tolkiengateway.net/w/images/thumb/b/b8/Unfinished_Tales_1998-6.png/77px-Unfinished_Tales_1998-6.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Unfinished_Tales_1998-6.png/116px-Unfinished_Tales_1998-6.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Unfinished_Tales_1998-6.png/154px-Unfinished_Tales_1998-6.png 2x" data-file-width="309" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1998 paperback 6th impression
+<p>Ấn tượng thứ 6 bìa mềm năm 1998
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_1998-18.png.md" title="1998 paperback 18th impression"><img alt="1998 paperback 18th impression" src="https://tolkiengateway.net/w/images/thumb/9/92/Unfinished_Tales_1998-18.png/77px-Unfinished_Tales_1998-18.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Unfinished_Tales_1998-18.png/116px-Unfinished_Tales_1998-18.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Unfinished_Tales_1998-18.png/154px-Unfinished_Tales_1998-18.png 2x" data-file-width="309" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1998 paperback 18th impression
+<p>Ấn tượng thứ 18 bìa mềm năm 1998
 </p>
 			</div>
 		</li>
@@ -157,21 +157,21 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_2013.png.md" title="2013 hardcover deluxe edition"><img alt="2013 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/7/7b/Unfinished_Tales_2013.png/115px-Unfinished_Tales_2013.png" decoding="async" loading="lazy" width="115" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Unfinished_Tales_2013.png/173px-Unfinished_Tales_2013.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/Unfinished_Tales_2013.png/230px-Unfinished_Tales_2013.png 2x" data-file-width="500" data-file-height="544"/></a></span></div>
 			<div class="gallerytext">
-<p>2013 hardcover deluxe edition
+<p>Phiên bản bìa cứng cao cấp 2013
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_2001.jpeg.md" title="2014 paperback"><img alt="2014 paperback" src="https://tolkiengateway.net/w/images/thumb/f/fd/Unfinished_Tales_2001.jpeg/78px-Unfinished_Tales_2001.jpeg" decoding="async" loading="lazy" width="78" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fd/Unfinished_Tales_2001.jpeg/117px-Unfinished_Tales_2001.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fd/Unfinished_Tales_2001.jpeg/156px-Unfinished_Tales_2001.jpeg 2x" data-file-width="1500" data-file-height="2405"/></a></span></div>
 			<div class="gallerytext">
-<p>2014 paperback
+<p>Bản bìa mềm năm 2014
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_2014.jpeg.md" title="2014 paperback"><img alt="2014 paperback" src="https://tolkiengateway.net/w/images/thumb/2/25/Unfinished_Tales_2014.jpeg/83px-Unfinished_Tales_2014.jpeg" decoding="async" loading="lazy" width="83" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/Unfinished_Tales_2014.jpeg/125px-Unfinished_Tales_2014.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/2/25/Unfinished_Tales_2014.jpeg/167px-Unfinished_Tales_2014.jpeg 2x" data-file-width="1067" data-file-height="1600"/></a></span></div>
 			<div class="gallerytext">
-<p>2014 paperback
+<p>Bản bìa mềm năm 2014
 </p>
 			</div>
 		</li>
@@ -197,28 +197,28 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_2020_deluxe.png.md" title="2020 hardcover deluxe edition"><img alt="2020 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/d/da/Unfinished_Tales_2020_deluxe.png/125px-Unfinished_Tales_2020_deluxe.png" decoding="async" loading="lazy" width="125" height="122" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/da/Unfinished_Tales_2020_deluxe.png/188px-Unfinished_Tales_2020_deluxe.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/da/Unfinished_Tales_2020_deluxe.png/250px-Unfinished_Tales_2020_deluxe.png 2x" data-file-width="500" data-file-height="487"/></a></span></div>
 			<div class="gallerytext">
-<p>2020 hardcover deluxe edition
+<p>Phiên bản bìa cứng cao cấp năm 2020
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_2023.jpeg.md" title="2023 hardcover"><img alt="2023 hardcover" src="https://tolkiengateway.net/w/images/thumb/5/58/Unfinished_Tales_2023.jpeg/125px-Unfinished_Tales_2023.jpeg" decoding="async" loading="lazy" width="125" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/Unfinished_Tales_2023.jpeg/188px-Unfinished_Tales_2023.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/5/58/Unfinished_Tales_2023.jpeg/250px-Unfinished_Tales_2023.jpeg 2x" data-file-width="1080" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>2023 hardcover
+<p>Bản bìa cứng năm 2023
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_2024.jpg.md" title="2024 paperback"><img alt="2024 paperback" src="https://tolkiengateway.net/w/images/thumb/7/7f/Unfinished_Tales_2024.jpg/81px-Unfinished_Tales_2024.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7f/Unfinished_Tales_2024.jpg/122px-Unfinished_Tales_2024.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7f/Unfinished_Tales_2024.jpg/163px-Unfinished_Tales_2024.jpg 2x" data-file-width="1500" data-file-height="2303"/></a></span></div>
 			<div class="gallerytext">
-<p>2024 paperback
+<p>Bản bìa mềm năm 2024
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/U/Unfinished_Tales_2026.jpeg.md" title="2026 hardcover collector&#39;s edition"><img alt="2026 hardcover collector&#39;s edition" src="https://tolkiengateway.net/w/images/thumb/1/17/Unfinished_Tales_2026.jpeg/75px-Unfinished_Tales_2026.jpeg" decoding="async" loading="lazy" width="75" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/Unfinished_Tales_2026.jpeg/112px-Unfinished_Tales_2026.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/1/17/Unfinished_Tales_2026.jpeg/149px-Unfinished_Tales_2026.jpeg 2x" data-file-width="1500" data-file-height="2508"/></a></span></div>
 			<div class="gallerytext">
-<p>2026 hardcover collector&#39;s edition
+<p>Phiên bản sưu tầm bìa cứng năm 2026
 </p>
 			</div>
 		</li>

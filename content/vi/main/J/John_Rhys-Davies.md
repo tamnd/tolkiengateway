@@ -51,7 +51,7 @@ Diễn viên người Anh **John Rhys-Davies** (sinh năm 1944) đóng [Gimli](.
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Có một sự hung hãn tràn đầy năng lượng trong Gimli mà bộ phim cần. Thông thường, những nhân vật phụ này thực sự phải truyền cảm giác tràn đầy năng lượng và sự năng động cho bộ phim để các anh hùng thực sự có thể dành thời gian phản hồi và suy ngẫm và suy ngẫm.
 </p>
-<p class="tg-quote-footer"><cite>John Rhys-Davies, Southland Times, ngày 12 tháng 10 năm 2000</cite></p>
+<p class="tg-quote-footer"><cite>John Rhys-Davies, Southland Times, October 12th, 2000</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Vai trò {#Roles}

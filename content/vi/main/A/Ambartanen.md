@@ -15,7 +15,7 @@ categories:
 
 <i><b>ambartanen</b></i> là [Quenya](../Q/Quenya.md) cho "do bị tiêu diệt", như ví dụ từ [The Silmarillion](../T/The_Silmarillion.md) được hiển thị bên dưới:
 
-<dl><dd><i>Một Túrin Turambar turún' ambartanen</i></dd>
+<dl><dd><i>A Túrin Turambar turún&#39; ambartanen</i></dd>
 <dd>Bậc thầy của sự diệt vong do doom làm chủ<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></dd></dl>
 
 <span></span>

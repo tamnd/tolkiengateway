@@ -32,12 +32,12 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Rory Michael Kinnear</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/17_February.md" title="17 February">17 February</a> <a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm1239499/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Rory Michael Kinnear</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data"><a href="../_/17_February.md" title="17 February">17 February</a> <a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data"><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a> in:<br/><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm1239499/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>There are people who knew it from the books, people who knew it from the films, and there are those who had managed to get to 46 without knowing that much about it at all.
+<p>Có những người biết đến nó từ sách, có những người biết đến nó từ những bộ phim, và có những người đã cố gắng bước tới tuổi 46 mà không hề biết nhiều về nó.
 </p>
-<p class="tg-quote-footer"><cite>Rory Michael Kinnear in an interview with Vanity Fair</cite></p>
+<p class="tg-quote-footer"><cite>Rory Michael Kinnear trong cuộc phỏng vấn với Vanity Fair</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Rory Michael Kinnear** là một diễn viên và nhà viết kịch người Anh. Ông sẽ đóng vai [Tom Bombadil](../T/Tom_Bombadil.md) trong phần thứ hai của loạt phim *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* của [Amazon Studios](../A/Amazon_Studios.md).

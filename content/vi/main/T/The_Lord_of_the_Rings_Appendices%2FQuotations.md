@@ -16,55 +16,55 @@ sort_keys:
 ---
 
 <blockquote class="tg-quote noexcerpt">
-<p>Fëanor was the greatest of the Eldar in arts and lore, but also the proudest and most selfwilled. He wrought the Three Jewels, the <i>Silmarilli</i>, and filled them with the radiance of the Two Trees, Telperion and Laurelin, that gave light to the land of the Valar.
+<p>Fëanor là Eldar vĩ đại nhất về nghệ thuật và truyền thuyết, nhưng cũng là người kiêu hãnh và ích kỷ nhất. Ngài đã chế tác Tam Bảo, <i>Silmarilli</i> và lấp đầy chúng bằng ánh sáng rực rỡ của Hai Cây, Telperion và Laurelin, mang lại ánh sáng cho vùng đất Valar.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Aragorn indeed lived to be two hundred and ten years old, longer than any of his line since King Arvegil; but in Aragorn Elessar the dignity of the kings of old was renewed.
+<p>Aragorn thực sự đã sống đến hai trăm mười tuổi, lâu hơn bất kỳ dòng dõi nào của ông kể từ Vua Arvegil; nhưng trong Aragorn Elessar phẩm giá của các vị vua xưa đã được đổi mới.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Each new Steward indeed took office with the oath &#39;to hold rod and rule in the name of the king, until he shall return.&#39; But these soon became words of ritual little heeded, for the Stewards exercised all the power of the kings. Yet many in Gondor still believed that a king would indeed return in some time to come; and some remembered the ancient line of the North, which it was rumoured still lived on in the shadows. But against such thoughts the Ruling Stewards hardened their hearts. <br/> Nonetheless the Stewards never sat on the ancient throne; and they wore no crown, and held no sceptre. They bore a white rod only as the token of their office; and their banner was white without charge; but the royal banner had been sable, upon which was displayed a white tree in blossom beneath seven stars.
+<p>Mỗi Quản gia mới thực sự đã nhậm chức với lời thề 'sẽ cầm gậy và cai trị nhân danh nhà vua, cho đến khi ông ấy trở lại.' Nhưng những lời này nhanh chóng trở thành những lời lẽ nghi lễ ít được chú ý, vì Quản gia thực thi mọi quyền lực của nhà vua. Tuy nhiên, nhiều người ở Gondor vẫn tin rằng một vị vua thực sự sẽ trở lại trong thời gian tới; và một số nhớ đến dòng dõi cổ xưa của phương Bắc, nơi người ta đồn rằng vẫn còn tồn tại trong bóng tối. Nhưng trước những suy nghĩ như vậy, các Quản gia cầm quyền đã cứng lòng. <br/> Tuy nhiên, Quản gia chưa bao giờ ngồi trên ngai vàng cổ xưa; và họ không đội vương miện và không cầm vương trượng. Họ chỉ mang theo một cây gậy màu trắng để làm dấu hiệu cho chức vụ của họ; và biểu ngữ của họ màu trắng miễn phí; nhưng lá cờ hoàng gia được làm bằng đá sable, trên đó có hình một cái cây màu trắng đang nở hoa dưới bảy ngôi sao.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Then Aragorn, being now the Heir of Isildur, was taken with his mother to dwell in the house of Elrond; and Elrond took the place of his father and came to love him as a son of his own. But he was called Estel, that is &#34;Hope&#34;, and his true name and lineage were kept secret at the bidding of Elrond; for the Wise then knew that the Enemy was seeking to discover the Heir of Isildur, if any remained upon earth.
+<p>Sau đó Aragorn bây giờ là Người thừa kế Isildur, được mẹ đưa về ở trong nhà của Elrond; và Elrond đã thay cha và yêu thương ông như con ruột. Nhưng ông được gọi là Estel, tức là "Hope", tên thật và dòng dõi của ông được giữ bí mật theo lệnh của Elrond; vì Nhà thông thái khi đó biết rằng Kẻ Thù đang tìm cách khám phá Người thừa kế Isildur, nếu còn sót lại trên trái đất.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>But Elrond saw many things and read many hearts. One day, therefore, before the fall of the year he called Aragorn to his chamber, and he said: &#34;Aragorn, Arathorn&#39;s son, Lord of the Dúnedain, listen to me! A great doom awaits you, either to rise above the height of all your fathers since the days of Elendil, or to fall into darkness with all that is left of your kin. Many years of trial lie before you. You shall neither have wife, nor bind any woman to you in troth, until your time comes and you are found worthy of it.&#34;
+<p>Nhưng Elrond đã nhìn thấy nhiều thứ và đọc được nhiều tấm lòng. Do đó, một ngày nọ, trước mùa thu, ông gọi Aragorn tới phòng mình và nói: "Aragorn, con trai của Arathorn, Chúa tể của Dúnedain, hãy nghe ta! Một số phận lớn đang chờ đợi ngươi, hoặc vượt lên trên tầm cao của tất cả những người cha của ngươi kể từ những ngày Elendil, hoặc rơi vào bóng tối với tất cả những gì còn sót lại của dòng họ ngươi. Nhiều năm thử thách đang chờ đợi ngươi. Bạn sẽ không có vợ, cũng không ràng buộc bất kỳ người phụ nữ nào với mình trong troth, cho đến khi thời điểm của bạn đến và bạn thấy mình xứng đáng với điều đó."
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Then Aragorn took leave lovingly of Elrond; and the next day he said farewell to his mother, and to the house of Elrond, and to Arwen, and he went out into the wild. For nearly thirty years he laboured in the cause against Sauron; and he became a friend of Gandalf the Wise, from whom he gained much wisdom. With him he made many perilous journeys, but as the years wore on he went more often alone. His ways were hard and long, and he became somewhat grim to look upon, unless he chanced to smile; and yet he seemed to Men worthy of honour, as a king that is in exile, when he did not hide his true shape. For he went in many guises, and won renown under many names.
+<p>Rồi Aragorn ra đi đầy yêu thương của Elrond; và ngày hôm sau, anh từ biệt mẹ, và ngôi nhà của Elrond, và Arwen, rồi anh đi vào vùng hoang dã. Trong gần ba mươi năm ông đã đấu tranh chống lại Sauron; và ông trở thành bạn của Gandalf Nhà thông thái, người mà ông đã học được rất nhiều trí tuệ. Cùng với ông, ông đã thực hiện nhiều cuộc hành trình đầy nguy hiểm, nhưng theo năm tháng, ông thường đi một mình hơn. Con đường của ông rất khó khăn và dài, và ông trở nên có phần dữ tợn khi nhìn vào, trừ khi ông có cơ hội mỉm cười; vậy mà dường như ông Con Người rất đáng được tôn vinh, như một vị vua lưu vong, khi ông không che giấu hình dạng thật của mình. Vì ông đã xuất hiện dưới nhiều lốt và giành được danh tiếng dưới nhiều cái tên.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Thus he became at last the most hardy of living Men, skilled in their crafts and lore, and was yet more than they; for he was elven-wise, and there was a light in his eyes that when they were kindled few could endure. His face was sad and stern because of the doom that was laid on him, and yet hope dwelt ever in the depths of his heart, from which mirth would arise at times like a spring from the rock.
+<p>Vì vậy, cuối cùng ông đã trở thành Con Người người kiên cường nhất trong cuộc sống, thành thạo các nghề thủ công và truyền thuyết của họ, và còn hơn cả họ; vì ông là một người tiên khôn ngoan, và có một tia sáng trong mắt ông mà khi chúng bừng sáng thì ít ai có thể chịu đựng được. Khuôn mặt anh buồn bã và nghiêm khắc vì số phận đang đè nặng lên anh, nhưng niềm hy vọng vẫn luôn ở trong sâu thẳm trái tim anh, từ đó đôi khi niềm vui sẽ trỗi dậy như một dòng suối từ tảng đá.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Onen i-Estel Edain, ú-chebin estel anim<br/>&#34;I gave Hope to the Dúnedain, I have kept no hope for myself.&#34;
+<p>Onen i-Estel Edain, ú-chebin estel anim<br/>"Tôi đã trao Hy vọng cho Dúnedain, tôi không còn giữ hy vọng nào cho chính mình."
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gilraen.md" title="Gilraen">Gilraen</a> in <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></cite></p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p>We have heard tell that Legolas took Gimli Glóin&#39;s son with him because of their great friendship, greater than any that has been between Elf and Dwarf. If this is true, then it is strange indeed: that a Dwarf should be willing to leave Middle-earth for any love, or that the Eldar should receive him, or that the Lords of the West should permit it. But it is said that Gimli went also out of desire to see again the beauty of Galadriel; and it may be that she, being mighty among the Eldar, obtained this grace for him. More cannot be said of this matter.
+<p>Chúng tôi được biết rằng Legolas đã đưa con trai của Gimli Glóin đi cùng vì tình bạn tuyệt vời của họ, lớn hơn bất kỳ tình bạn nào giữa Tiên và Người Lùn. Nếu điều này là đúng thì quả thực là kỳ lạ: rằng một Người Lùn lại sẵn sàng rời bỏ Trung Địa vì bất kỳ tình yêu nào, hoặc Eldar nên chấp nhận ông, hoặc các Lãnh chúa của Phương Tây nên cho phép điều đó. Nhưng người ta nói rằng Gimli đi cũng vì mong muốn được nhìn thấy lại vẻ đẹp của Galadriel; và có thể bà, người hùng mạnh nhất trong số Eldar, đã giành được ân huệ này cho ông. Không thể nói nhiều hơn về vấn đề này.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a></cite></p>
 </blockquote>

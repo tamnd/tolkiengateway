@@ -28,19 +28,19 @@ Có thể có nhiều cách tiếp cận khác nhau:
 
 - *The Hobbit*
 
-<dl><dd>People can start with <i>The Hobbit</i>, as an easy and lighthearted fantasy story, which <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> published first, without having much backstory and historical details in mind.</dd></dl>
+<dl><dd>Mọi người có thể bắt đầu với <i>The Hobbit</i>, như một câu chuyện giả tưởng dễ dàng và vui vẻ, được xuất bản đầu tiên <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> mà không cần lưu ý nhiều đến cốt truyện và chi tiết lịch sử.</dd></dl>
 
 - *The Lord of the Rings*
 
-<dl><dd>This is the natural sequel of <i>The Hobbit</i> and completes the story. However it has many allusions to the greater world and ancient history of <a href="../A/Arda.md" title="Arda">Arda</a>.</dd></dl>
+<dl><dd>Đây là phần tiếp theo tất nhiên của <i>The Hobbit</i> và hoàn thành câu chuyện. Tuy nhiên nó có nhiều ám chỉ đến thế giới rộng lớn hơn và lịch sử cổ xưa của <a href="../A/Arda.md" title="Arda">Arda</a>.</dd></dl>
 
 - *[The Silmarillion](../T/The_Silmarillion.md)*
 
-<dl><dd>Published after Tolkien&#39;s death, it provides the cosmogony and earlier stories of Arda. It can give the reader insight about the world they already know.</dd></dl>
+<dl><dd>Được xuất bản sau cái chết của Tolkien, nó cung cấp quan điểm vũ trụ và những câu chuyện trước đó về Arda. Nó có thể cung cấp cho người đọc cái nhìn sâu sắc về thế giới mà họ đã biết.</dd></dl>
 
 - *[Unfinished Tales](../U/Unfinished_Tales.md)* / *[The Children of Húrin](../T/The_Children_of_Húrin.md)* / *[Beren and Lúthien](../B/Beren_and_Lúthien.md)* / *[The Fall of Gondolin](../T/The_Fall_of_Gondolin.md)*
 
-<dl><dd>These books provide additional and extensive details about several aspects of the greater history.</dd></dl>
+<dl><dd>Những cuốn sách này cung cấp thêm chi tiết và mở rộng về một số khía cạnh của lịch sử lớn hơn.</dd></dl>
 
 ## Trình tự thời gian sơ bộ {#Rough_chronological_order}
 
@@ -80,7 +80,7 @@ Mặc dù không liên quan trực tiếp đến *The Silmarillion* nhưng đây
 <td>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_the_Beginning_of_Days.md" title="Of the Beginning of Days">Of the Beginning of Days</a></i>
+<td><i><a href="../O/Of_the_Beginning_of_Days.md" title="Of the Beginning of Days">Về buổi đầu của thời gian</a></i>
 </td>
 <td>
 </td></tr>
@@ -115,17 +115,17 @@ Mặc dù không liên quan trực tiếp đến *The Silmarillion* nhưng đây
 <td>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_the_Darkening_of_Valinor.md" title="Of the Darkening of Valinor">Of the Darkening of Valinor</a></i>
+<td><i><a href="../O/Of_the_Darkening_of_Valinor.md" title="Of the Darkening of Valinor">Về sự chìm vào bóng tối của Valinor</a></i>
 </td>
 <td>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Of the Flight of the Noldor</a></i>
+<td><i><a href="../O/Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Về cuộc tháo chạy của Noldor</a></i>
 </td>
 <td>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_the_Sindar.md" title="Of the Sindar">Of the Sindar</a></i>
+<td><i><a href="../O/Of_the_Sindar.md" title="Of the Sindar">Về Sindar</a></i>
 </td>
 <td>
 </td></tr>
@@ -135,22 +135,22 @@ Mặc dù không liên quan trực tiếp đến *The Silmarillion* nhưng đây
 <td>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_Men.md" title="Of Men">Of Men</a></i>
+<td><i><a href="../O/Of_Men.md" title="Of Men">Về Con Người</a></i>
 </td>
 <td>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_the_Return_of_the_Noldor.md" title="Of the Return of the Noldor">Of the Return of the Noldor</a></i>
+<td><i><a href="../O/Of_the_Return_of_the_Noldor.md" title="Of the Return of the Noldor">Về sự trở lại của Noldor</a></i>
 </td>
 <td>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_Beleriand_and_its_Realms~31103.md" title="Of Beleriand and its Realms">Of Beleriand and its Realms</a></i>
+<td><i><a href="../O/Of_Beleriand_and_its_Realms~31103.md" title="Of Beleriand and its Realms">Về Beleriand và các vương quốc</a></i>
 </td>
 <td>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_the_Noldor_in_Beleriand.md" title="Of the Noldor in Beleriand">Of the Noldor in Beleriand</a></i>
+<td><i><a href="../O/Of_the_Noldor_in_Beleriand.md" title="Of the Noldor in Beleriand">Về Noldor ở Beleriand</a></i>
 </td>
 <td>
 </td></tr>
@@ -160,7 +160,7 @@ Mặc dù không liên quan trực tiếp đến *The Silmarillion* nhưng đây
 <td>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_the_Coming_of_Men_into_the_West.md" title="Of the Coming of Men into the West">Of the Coming of Men into the West</a></i>
+<td><i><a href="../O/Of_the_Coming_of_Men_into_the_West.md" title="Of the Coming of Men into the West">Sự xuất hiện của Con Người vào Phương Tây</a></i>
 </td>
 <td>
 </td></tr>
@@ -185,14 +185,14 @@ Mặc dù không liên quan trực tiếp đến *The Silmarillion* nhưng đây
 <td><i>The Children of Húrin</i>
 </td></tr>
 <tr>
-<td><i><a href="../O/Of_the_Ruin_of_Doriath.md" title="Of the Ruin of Doriath">Of the Ruin of Doriath</a></i>
+<td><i><a href="../O/Of_the_Ruin_of_Doriath.md" title="Of the Ruin of Doriath">Về sự sụp đổ của Doriath</a></i>
 </td>
 <td>
 </td></tr>
 <tr>
 <td><i><a href="../O/Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Of Tuor and the Fall of Gondolin</a></i>
 </td>
-<td><i><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a></i>
+<td><i><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Việc Anh Đến Gondolin</a></i>
 </td></tr>
 <tr>
 <td><i><a href="../O/Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md" title="Of the Voyage of Eärendil and the War of Wrath">Of the Voyage of Eärendil and the War of Wrath</a></i>

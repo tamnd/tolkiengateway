@@ -159,7 +159,7 @@ Sự sụp đổ của Númenor không phải là sự kết thúc của Kỷ Đ
 </td>
 <td>
 <ul><li><a href="Sauron.md" title="Sauron">Sauron</a> trả về từ <a class="mw-redirect" href="../E/East.md" title="East">phương Đông</a> (<a href="Second_Age_500.md" title="Second Age 500">c. 500</a>)</li>
-<li>Sauron cấu trúc <a class="mw-redirect" href="../B/Barad-dur.md" title="Barad-dur">Barad-dur</a> (<a href="Second_Age_1000.md" title="Second Age 1000">1000</a>)</li></ul>
+<li>Sauron constructs <a class="mw-redirect" href="../B/Barad-dur.md" title="Barad-dur">Barad-dur</a> (<a href="Second_Age_1000.md" title="Second Age 1000">1000</a>)</li></ul>
 </td></tr>
 <tr>
 <th>thiên niên kỷ thứ 2
@@ -195,7 +195,7 @@ Sự sụp đổ của Númenor không phải là sự kết thúc của Kỷ Đ
 </th>
 <td>
 <ul><li><a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> đổ bộ vào <a class="mw-redirect" href="../H/Haven_of_Umbar.md" title="Haven of Umbar">Nơi ẩn náu của Umbar</a> nhưng Sauron đầu hàng mà không kháng cự (<a href="Second_Age_3261.md" title="Second Age 3261">3261</a>)</li>
-<li><a href="../G/Great_Armament.md" title="Great Armament">Đại Hạm đội</a> tấn công <a href="../V/Valinor.md" title="Valinor">Valinor</a> (<a href="Second_Age_3319.md" title="Second Age 3319">3319</a>)</li>
+<li>The <a href="../G/Great_Armament.md" title="Great Armament">Great Armament</a> assails <a href="../V/Valinor.md" title="Valinor">Valinor</a> (<a href="Second_Age_3319.md" title="Second Age 3319">3319</a>)</li>
 <li><a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">War of the Last Alliance</a> (<a href="Second_Age_3429.md" title="Second Age 3429">3429</a>-<a href="Second_Age_3441.md" title="Second Age 3441">3441</a>)</li></ul>
 </td>
 <td>

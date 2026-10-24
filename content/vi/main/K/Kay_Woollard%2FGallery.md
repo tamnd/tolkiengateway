@@ -209,7 +209,7 @@ Minh họa cho [J.R.R. Tolkien Hội nghị trăm năm](../J/J.R.R._Tolkien_Cent
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_Party_Piece_(full).jpg.md" title="Party Piece: centrefold of the Tolkien Centenary Conference 1992 Programme Book"><img alt="Party Piece: centrefold of the Tolkien Centenary Conference 1992 Programme Book" src="https://tolkiengateway.net/w/images/thumb/2/28/Kay_Woollard_-_Party_Piece_%28full%29.jpg/200px-Kay_Woollard_-_Party_Piece_%28full%29.jpg" decoding="async" loading="lazy" width="200" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/28/Kay_Woollard_-_Party_Piece_%28full%29.jpg/300px-Kay_Woollard_-_Party_Piece_%28full%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/28/Kay_Woollard_-_Party_Piece_%28full%29.jpg/400px-Kay_Woollard_-_Party_Piece_%28full%29.jpg 2x" data-file-width="4794" data-file-height="3416"/></a></span></div>
 			<div class="gallerytext">
-<p>Mảnh Đảng: nếp gấp giữa của <i><a href="../T/Tolkien_Centenary_Conference_1992.md" title="Tolkien Centenary Conference 1992">Tolkien Centenary Conference 1992</a> Programme Book</i>
+<p>Party Piece: centrefold of the <i><a href="../T/Tolkien_Centenary_Conference_1992.md" title="Tolkien Centenary Conference 1992">Tolkien Centenary Conference 1992</a> Programme Book</i>
 </p>
 			</div>
 		</li>

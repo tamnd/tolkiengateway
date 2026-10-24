@@ -39,20 +39,20 @@ Một số đoạn trích từ Niên đại đã được trích dẫn trong *[T
 Trong phiên bản cuối cùng của Chronology, 9 trong số 14 trang ở dạng lưới, 5 trang là tuyến tính. <br>Khoảng thời gian được đề cập trong mỗi trang như sau:
 
 <div style="-moz-column-width: 400px; -webkit-column-width: 400px; column-width: 400px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
-<ul><li>trang 1: <a href="../_/22_September.md" title="22 September">22 tháng Chín</a>, <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="Third_Age_3018.md" title="Third Age 3018">1418</a> - <a href="../_/15_October.md" title="15 October">15 tháng 10</a></li></ul>
-<ul><li>trang 2: <a href="../_/16_October.md" title="16 October">16 tháng 10</a> - <a href="../_/15_January.md" title="15 January">15 tháng 1</a>, <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="Third_Age_3019.md" title="Third Age 3019">1419</a></li></ul>
-<ul><li>trang 3: <a href="../_/15_January.md" title="15 January">15 tháng 1</a> - <a href="../_/22_January.md" title="22 January">22 tháng 1</a></li></ul>
-<ul><li>trang 4: <a href="../_/23_January.md" title="23 January">23 tháng 1</a> - <a href="../_/16_February.md" title="16 February">16 tháng 2</a></li></ul>
-<ul><li>trang 5: <a href="../_/17_February.md" title="17 February">17 tháng 2</a> - <a href="../_/25_February.md" title="25 February">25 tháng 2</a></li></ul>
-<ul><li>trang 6: <a href="../_/26_February.md" title="26 February">26 tháng 2</a> - <a href="../_/29_February.md" title="29 February">29 tháng 2</a></li></ul>
-<ul><li>trang 7: <a href="../_/30_February.md" title="30 February">30 tháng 2</a> - <a href="../_/3_March.md" title="3 March">3 tháng 3</a></li></ul>
-<ul><li>trang 8: <a href="../_/4_March.md" title="4 March">4 tháng 3</a> - <a href="../_/7_March.md" title="7 March">7 tháng 3</a></li></ul>
-<ul><li>trang 9: <a href="../_/8_March.md" title="8 March">8 tháng 3</a> - <a href="../_/12_March.md" title="12 March">12 tháng 3</a></li></ul>
-<ul><li>trang 10: <a href="../_/13_March.md" title="13 March">13 tháng 3</a> - <a href="../_/17_March.md" title="17 March">17 tháng 3</a></li></ul>
-<ul><li>trang 11: <a href="../_/18_March.md" title="18 March">18 tháng 3</a> - <a href="../_/25_March.md" title="25 March">25 tháng 3</a></li></ul>
-<ul><li>trang 12: <a href="../_/8_August.md" title="8 August">8 tháng 8</a> - <a href="../_/10_August.md" title="10 August">10 tháng 8</a></li></ul>
-<ul><li>trang 13: <a href="../_/14_August.md" title="14 August">14 tháng 8</a> - <a href="../_/22_September.md" title="22 September">22 tháng Chín</a></li></ul>
-<ul><li>trang 14: <a href="../_/5_October.md" title="5 October">5 tháng 10</a> - <a href="../_/6_October.md" title="6 October">6 tháng 10</a>, <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="Third_Age_3021.md" title="Third Age 3021">1421</a></li></ul></div>
+<ul><li>page 1: <a href="../_/22_September.md" title="22 September">22 September</a>, <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="Third_Age_3018.md" title="Third Age 3018">1418</a> - <a href="../_/15_October.md" title="15 October">15 October</a></li></ul>
+<ul><li>page 2: <a href="../_/16_October.md" title="16 October">16 October</a> - <a href="../_/15_January.md" title="15 January">15 January</a>, <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="Third_Age_3019.md" title="Third Age 3019">1419</a></li></ul>
+<ul><li>page 3: <a href="../_/15_January.md" title="15 January">15 January</a> - <a href="../_/22_January.md" title="22 January">22 January</a></li></ul>
+<ul><li>page 4: <a href="../_/23_January.md" title="23 January">23 January</a> - <a href="../_/16_February.md" title="16 February">16 February</a></li></ul>
+<ul><li>page 5: <a href="../_/17_February.md" title="17 February">17 February</a> - <a href="../_/25_February.md" title="25 February">25 February</a></li></ul>
+<ul><li>page 6: <a href="../_/26_February.md" title="26 February">26 February</a> - <a href="../_/29_February.md" title="29 February">29 February</a></li></ul>
+<ul><li>page 7: <a href="../_/30_February.md" title="30 February">30 February</a> - <a href="../_/3_March.md" title="3 March">3 March</a></li></ul>
+<ul><li>page 8: <a href="../_/4_March.md" title="4 March">4 March</a> - <a href="../_/7_March.md" title="7 March">7 March</a></li></ul>
+<ul><li>page 9: <a href="../_/8_March.md" title="8 March">8 March</a> - <a href="../_/12_March.md" title="12 March">12 March</a></li></ul>
+<ul><li>page 10: <a href="../_/13_March.md" title="13 March">13 March</a> - <a href="../_/17_March.md" title="17 March">17 March</a></li></ul>
+<ul><li>page 11: <a href="../_/18_March.md" title="18 March">18 March</a> - <a href="../_/25_March.md" title="25 March">25 March</a></li></ul>
+<ul><li>page 12: <a href="../_/8_August.md" title="8 August">8 August</a> - <a href="../_/10_August.md" title="10 August">10 August</a></li></ul>
+<ul><li>page 13: <a href="../_/14_August.md" title="14 August">14 August</a> - <a href="../_/22_September.md" title="22 September">22 September</a></li></ul>
+<ul><li>page 14: <a href="../_/5_October.md" title="5 October">5 October</a> - <a href="../_/6_October.md" title="6 October">6 October</a>, <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="Third_Age_3021.md" title="Third Age 3021">1421</a></li></ul></div>
 
 ## Thông tin mới {#New_information}
 

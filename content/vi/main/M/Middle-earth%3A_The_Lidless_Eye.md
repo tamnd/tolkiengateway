@@ -53,28 +53,28 @@ infobox:
 		<li class="gallerybox" style="width: 86px">
 			<div class="thumb" style="width: 84px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Lidless_Eye_French_Advertisement.jpg.md" title="French advertisement"><img alt="French advertisement" src="https://tolkiengateway.net/w/images/thumb/8/8a/MECCG_The_Lidless_Eye_French_Advertisement.jpg/126px-MECCG_The_Lidless_Eye_French_Advertisement.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8a/MECCG_The_Lidless_Eye_French_Advertisement.jpg/190px-MECCG_The_Lidless_Eye_French_Advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8a/MECCG_The_Lidless_Eye_French_Advertisement.jpg/253px-MECCG_The_Lidless_Eye_French_Advertisement.jpg 2x" data-file-width="4928" data-file-height="7010"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 64px"><div class="gallerytext">
-<p>Quảng cáo bằng tiếng Pháp
+<p>French advertisement
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 86px">
 			<div class="thumb" style="width: 84px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Lidless_Eye_French_Advertisement_2.jpg.md" title="French advertisement"><img alt="French advertisement" src="https://tolkiengateway.net/w/images/thumb/e/e8/MECCG_The_Lidless_Eye_French_Advertisement_2.jpg/126px-MECCG_The_Lidless_Eye_French_Advertisement_2.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/MECCG_The_Lidless_Eye_French_Advertisement_2.jpg/190px-MECCG_The_Lidless_Eye_French_Advertisement_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/MECCG_The_Lidless_Eye_French_Advertisement_2.jpg/253px-MECCG_The_Lidless_Eye_French_Advertisement_2.jpg 2x" data-file-width="4928" data-file-height="7010"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 64px"><div class="gallerytext">
-<p>Quảng cáo bằng tiếng Pháp
+<p>French advertisement
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 84px">
 			<div class="thumb" style="width: 82px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Lidless_Eye_advertisement_(InQuest_22).jpg.md" title="Advertisement"><img alt="Advertisement" src="https://tolkiengateway.net/w/images/thumb/2/2a/MECCG_The_Lidless_Eye_advertisement_%28InQuest_22%29.jpg/123px-MECCG_The_Lidless_Eye_advertisement_%28InQuest_22%29.jpg" decoding="async" loading="lazy" width="82" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/MECCG_The_Lidless_Eye_advertisement_%28InQuest_22%29.jpg/184px-MECCG_The_Lidless_Eye_advertisement_%28InQuest_22%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/MECCG_The_Lidless_Eye_advertisement_%28InQuest_22%29.jpg/246px-MECCG_The_Lidless_Eye_advertisement_%28InQuest_22%29.jpg 2x" data-file-width="4165" data-file-height="6103"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 62px"><div class="gallerytext">
-<p>Advertisement
+<p>Quảng cáo
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 86.666666666667px">
 			<div class="thumb" style="width: 84.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Lidless_Eye_Spanish_Advertisement.jpg.md" title="Spanish advertisement"><img alt="Spanish advertisement" src="https://tolkiengateway.net/w/images/thumb/7/73/MECCG_The_Lidless_Eye_Spanish_Advertisement.jpg/127px-MECCG_The_Lidless_Eye_Spanish_Advertisement.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/73/MECCG_The_Lidless_Eye_Spanish_Advertisement.jpg/191px-MECCG_The_Lidless_Eye_Spanish_Advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/73/MECCG_The_Lidless_Eye_Spanish_Advertisement.jpg/254px-MECCG_The_Lidless_Eye_Spanish_Advertisement.jpg 2x" data-file-width="1414" data-file-height="2000"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 65px"><div class="gallerytext">
-<p>Quảng cáo tiếng Tây Ban Nha
+<p>Spanish advertisement
 </p>
 			</div></div>
 		</li>

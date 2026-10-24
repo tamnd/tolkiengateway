@@ -26,9 +26,9 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>wolf</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Wolf_(disambiguation).md" title="Wolf (disambiguation)">Wolf (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>sói</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Wolf_(disambiguation).md" title="Wolf (disambiguation)">Sói (định hướng)</a></b>.</div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 ** Sói** màu trắng là một loại sói có nguồn gốc từ vùng đất băng giá ở phía bắc [Trung Địa](../M/Middle-earth.md). Chúng thường không được nhìn thấy ở [Eriador](../E/Eriador.md), nhưng dường như vẫn tồn tại giữa vùng tuyết ở [Forodwaith](../N/Northern_Waste.md) và có lẽ xa hơn nữa.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
@@ -50,15 +50,15 @@ Vào năm [T.A.](../T/Third_Age.md) [2911](../T/Third_Age_2911.md), một trong 
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="Wolves.md" title="Wolves">Wolves</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="Wolves.md" title="Wolves">Sói</a></b>
 </td></tr>
 <tr>
-<th style="font-size: 90%;" align="right">Individuals:
+<th style="font-size: 90%;" align="right">Các cá nhân:
 </th>
-<td style="font-size: 90%;"><a href="../C/Carcharoth.md" title="Carcharoth">Carcharoth</a> · <a href="../D/Draugluin.md" title="Draugluin">Draugluin</a> · <a href="../C/Chief_wolf.md" title="Chief wolf">Chief wolf</a> · <a href="../H/Hound_of_Sauron.md" title="Hound of Sauron">Hound of Sauron</a> · (<a class="mw-redirect" href="Wolf-Sauron.md" title="Wolf-Sauron">Wolf-Sauron</a>)
+<td style="font-size: 90%;"><a href="../C/Carcharoth.md" title="Carcharoth">Carcharoth</a> · <a href="../D/Draugluin.md" title="Draugluin">Draugluin</a> · <a href="../C/Chief_wolf.md" title="Chief wolf">Sói trưởng</a> · <a href="../H/Hound_of_Sauron.md" title="Hound of Sauron">Chó săn Sauron</a> · (<a class="mw-redirect" href="Wolf-Sauron.md" title="Wolf-Sauron">Sói-Sauron</a>)
 </td></tr>
 <tr>
-<th style="font-size: 90%;" align="right">Races:
+<th style="font-size: 90%;" align="right">Chủng tộc:
 </th>
 <td style="font-size: 90%;"><a href="Wargs.md" title="Wargs">Wargs</a> · <a href="Werewolves.md" title="Werewolves">Werewolves</a> · <a class="mw-selflink selflink">White Wolves</a>
 </td>

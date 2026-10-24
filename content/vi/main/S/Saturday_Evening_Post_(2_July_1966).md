@@ -41,5 +41,5 @@ infobox:
 
 <small></small>
 
-<ul><small><li><i>An Illustrated Tolkien Bibliography</i> tại Tolkienbooks.net</li>
+<ul><small><li><i>An Illustrated Tolkien Bibliography</i> at Tolkienbooks.net</li>
 </small><li><small><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (2006), <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Chronology</i>, p. 657</small></li></ul>

@@ -55,21 +55,21 @@ Cuốn sách bao gồm lời mở đầu của Tolkien và lời giới thiệu 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Ancrene_Wisse_1962.jpg.md" title="1962 hardcover"><img alt="1962 hardcover" src="https://tolkiengateway.net/w/images/thumb/5/51/Ancrene_Wisse_1962.jpg/87px-Ancrene_Wisse_1962.jpg" decoding="async" loading="lazy" width="87" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/51/Ancrene_Wisse_1962.jpg/130px-Ancrene_Wisse_1962.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/51/Ancrene_Wisse_1962.jpg/173px-Ancrene_Wisse_1962.jpg 2x" data-file-width="750" data-file-height="1081"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1962
+<p>1962 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Ancrene_Wisse_2000.jpeg.md" title="2000 hardcover"><img alt="2000 hardcover" src="https://tolkiengateway.net/w/images/thumb/a/a3/Ancrene_Wisse_2000.jpeg/78px-Ancrene_Wisse_2000.jpeg" decoding="async" loading="lazy" width="78" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/Ancrene_Wisse_2000.jpeg/117px-Ancrene_Wisse_2000.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/Ancrene_Wisse_2000.jpeg/156px-Ancrene_Wisse_2000.jpeg 2x" data-file-width="312" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>2000 bìa cứng
+<p>2000 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Ancrene_Wisse_2013.jpeg.md" title="2013 paperback"><img alt="2013 paperback" src="https://tolkiengateway.net/w/images/thumb/7/7b/Ancrene_Wisse_2013.jpeg/80px-Ancrene_Wisse_2013.jpeg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Ancrene_Wisse_2013.jpeg/120px-Ancrene_Wisse_2013.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/Ancrene_Wisse_2013.jpeg/160px-Ancrene_Wisse_2013.jpeg 2x" data-file-width="352" data-file-height="550"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm 2013
+<p>2013 paperback
 </p>
 			</div>
 		</li>

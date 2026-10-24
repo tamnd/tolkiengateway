@@ -30,7 +30,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Withywindle.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Old_Man_Willow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/300px-J.R.R._Tolkien_-_Old_Man_Willow.jpg" decoding="async" loading="lazy" width="300" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/450px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/600px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 2x" data-file-width="988" data-file-height="691"/></a><figcaption><i>Old Man Willow</i> by J.R.R. Tolkien shows the <b>Withywindle</b> flowing in the background</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Old_Man_Willow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/300px-J.R.R._Tolkien_-_Old_Man_Willow.jpg" decoding="async" loading="lazy" width="300" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/450px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1e/J.R.R._Tolkien_-_Old_Man_Willow.jpg/600px-J.R.R._Tolkien_-_Old_Man_Willow.jpg 2x" data-file-width="988" data-file-height="691"/></a><figcaption><i>Old Man Willow</i> của J.R.R. Tolkien hiển thị <b>Withywindle</b> chạy trong nền</figcaption></figure>
 
 **Withywindle** là một nhánh nhỏ của Sông [Brandywine](../B/Baranduin.md) chảy qua [Khu Rừng Cổ](../O/Old_Forest.md) trên ranh giới của [ Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -64,7 +64,7 @@ Bên cạnh ý nghĩa "cây liễu", cái tên này còn là một cách chơi c
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>As Withywindle flows through the Old Forest, signs of long-abandoned habitation can be found along its shores.</dd></dl>
+<dl><dd>Khi Withywindle chảy qua Khu Rừng Cổ, có thể tìm thấy dấu hiệu của nơi cư trú bị bỏ hoang từ lâu dọc theo bờ biển của nó.</dd></dl>
 
 <span></span>
 

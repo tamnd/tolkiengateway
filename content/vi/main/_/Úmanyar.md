@@ -42,18 +42,18 @@ Một cái tên lịch sử của Úmanyar cuối cùng đã không còn đượ
 Theo định nghĩa được đưa ra trong *The Silmarillion*, Úmanyar bao gồm tất cả những Tiên tộc đã bắt đầu nhưng không hoàn thành Đại Hành Trình:
 
 <blockquote class="tg-quote noexcerpt">
-<p>But others of the Eldar there were who set out indeed upon the westward march, but became lost upon the long road, or turned aside, or lingered on the shores of Middle-earth [...] Those Elves the Calaquendi call the Úmanyar, since they came never to the land of Aman and the Blessed Realm
+<p>Nhưng những người khác trong Eldar thực sự đã lên đường hành quân về phía tây, nhưng bị lạc trên con đường dài, hoặc rẽ sang một bên, hoặc nán lại bờ biển Trung Địa [...] Những Tiên tộc Calaquendi này gọi là Úmanyar, vì họ chưa bao giờ đến vùng đất Aman và Vương quốc Phước lành
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Of the Coming of the Elves and the Captivity of Melkor</a>&#34;</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, "<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Coming_of_the_Elves_and_the_Captivity_of_Melkor.md" title="Of the Coming of the Elves and the Captivity of Melkor">Về sự xuất hiện của Tiên tộc và sự giam cầm của Melkor</a>"</cite></p>
 </blockquote>
 
 Tuy nhiên, định nghĩa trong *The History of Middle-earth* chỉ bao gồm các chủ đề của Thingol:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Moriquendi was now applied to all other Elves, except the Ñoldor and Sindar, that is to Avari or to any kind of Elves that at the time of the coming of the Ñoldor had not long dwelt in Beleriand and were not subjects of Elwë. [...] The old distinction, when made, was represented by the new terms Amanyar &#39;those of Aman&#39;, and Úamanyar or Úmanyar &#39;those not of Aman&#39;
+<p>Moriquendi hiện đã được áp dụng cho tất cả Tiên tộc khác, ngoại trừ Ñoldor và Sindar, tức là cho Avari hoặc bất kỳ loại Tiên tộc nào mà tại thời điểm Ñoldor xuất hiện chưa tồn tại lâu trong Beleriand và không phải là đối tượng của Elwë. [...] Sự khác biệt cũ, khi được thực hiện, được thể hiện bằng các thuật ngữ mới Amanyar 'của Aman', và Úamanyar hoặc Úmanyar 'những điều không phải của Aman'
 </p>
 <p class="tg-quote-footer"><cite>
-<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, &#34;Part Four. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: B. Meanings and use of the various terms applied to the Elves and their varieties in Quenya, Telerin, and Sindarin&#34;</cite></p>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i>, "Phần thứ tư. <a href="../Q/Quendi_and_Eldar.md" title="Quendi and Eldar">Quendi and Eldar</a>: B. Meanings và cách sử dụng các thuật ngữ khác nhau áp dụng cho Tiên tộc và các biến thể của chúng trong Quenya, Telerin và Sindarin"</cite></p>
 </blockquote>
 
 Trong Kỷ Đệ Nhất, đây phần lớn là sự khác biệt không có gì khác biệt, vì có rất ít sự tiếp xúc giữa các quần thể Eldar sống ở các phía đối diện của [Ered Luin](../E/Ered_Luin.md). Sau khi Kỷ Đệ Nhất kết thúc, không có Elwë ai phải phục tùng cũng như không có Beleriand nơi nào để trú ngụ, do đó sự phân biệt càng trở nên mờ nhạt hơn. Thuật ngữ này có thể đã không còn được sử dụng nữa vì nó không được chứng thực trong Kỷ nguyên sau này.
@@ -101,12 +101,12 @@ Trong Kỷ Đệ Nhất, đây phần lớn là sự khác biệt không có gì
 <td style="font-size: 90%;"> <a class="mw-selflink selflink">Úmanyar</a> · <a href="../A/Avari.md" title="Avari">Avari</a> <small><i>(<a href="../C/Cuind.md" title="Cuind">Cuind</a> · <a href="../H/Hwenti.md" title="Hwenti">Hwenti</a> · <a href="../K/Kindi.md" title="Kindi">Kindi</a> · <a href="../K/Kinn-lai.md" title="Kinn-lai">Kinn-lai</a> · <a href="../P/Penni.md" title="Penni">Penni</a> · <a href="../W/Windan.md" title="Windan">Windan</a>)</i></small>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Generations:
+<th style="background:var(--tg-color-surface-3);" align="right">Các thế hệ:
 </th>
 <td style="font-size: 90%;"> <i><a href="../E/Eru-begotten.md" title="Eru-begotten">Eru-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=First-begotten&amp;action=edit&amp;redlink=1" title="First-begotten (page does not exist)">First-begotten</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Elves&amp;action=edit&amp;redlink=1" title="Third Elves (page does not exist)">Third Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Younger_Elves&amp;action=edit&amp;redlink=1" title="Younger Elves (page does not exist)">Younger Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Generations&amp;action=edit&amp;redlink=1" title="Generations (page does not exist)">further Generations</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><i>See also:</i>
+<th style="background:var(--tg-color-surface-3);" align="right"><i>Xem thêm:</i>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Awakening_of_the_Elves.md" title="Awakening of the Elves">Awakening of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Finding_by_Orom%C3%AB&amp;action=edit&amp;redlink=1" title="Finding by Oromë (page does not exist)">Finding by Oromë</a></i> · <i><a href="../S/Sundering_of_the_Elves.md" title="Sundering of the Elves">Sundering of the Elves</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Three_Ambassadors&amp;action=edit&amp;redlink=1" title="Three Ambassadors (page does not exist)">Embassy</a></i> · <i><a href="../G/Great_Journey.md" title="Great Journey">Great Journey</a></i> · <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Dark_Years_of_the_Avari&amp;action=edit&amp;redlink=1" title="Dark Years of the Avari (page does not exist)">Dark Years of the Avari</a></i>
 </td></tr></tbody></table>

@@ -27,15 +27,15 @@ Tên của sáu mùa và những ngày bổ sung của *coranar* là:
 
 <table class="TGtable">
 <tbody><tr>
-<th><a href="../Q/Quenya.md" title="Quenya">Quenya</a> name
+<th><a href="../Q/Quenya.md" title="Quenya">Quenya</a> tên
 </th>
-<th><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> name
+<th><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> tên
 </th>
 <th>English Translation
 </th>
 <th>Length in Days
 </th>
-<th>Relationship to the <a href="../S/Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a>, more or less<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
+<th>Mối quan hệ với <a href="../S/Shire_Calendar.md" title="Shire Calendar">Lịch Shire</a> ít nhiều<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 </th></tr>
 <tr>
 <td><a href="../Y/Yestarë.md" title="Yestarë">Yestarë</a></td>
@@ -47,51 +47,51 @@ Tên của sáu mùa và những ngày bổ sung của *coranar* là:
 <tr>
 <td><a href="../T/Tuilë.md" title="Tuilë">Tuilë</a></td>
 <td><a href="../E/Ethuil.md" title="Ethuil">Ethuil</a></td>
-<td>Spring</td>
+<td>Mùa xuân</td>
 <td>54</td>
-<td><a href="../_/7_April.md" title="7 April">7 April</a> through <a href="../_/30_May.md" title="30 May">30 May</a>
+<td><a href="../_/7_April.md" title="7 April">7 tháng 4</a> đến <a href="../_/30_May.md" title="30 May">30 tháng 5</a>
 </td></tr>
 <tr>
 <td><a href="../L/Lairë.md" title="Lairë">Lairë</a></td>
 <td><a href="../L/Laer.md" title="Laer">Laer</a></td>
 <td>Summer</td>
 <td>72</td>
-<td><a href="../_/1_June.md" title="1 June">1 June</a> through <a href="../_/9_August.md" title="9 August">9 August</a>
+<td><a href="../_/1_June.md" title="1 June">1 tháng 6</a> đến <a href="../_/9_August.md" title="9 August">9 tháng 8</a>
 </td></tr>
 <tr>
 <td><a href="../Y/Yávië.md" title="Yávië">Yávië</a></td>
 <td><a href="../I/Iavas.md" title="Iavas">Iavas</a></td>
 <td>Autumn</td>
 <td>54</td>
-<td><a href="../_/10_August.md" title="10 August">10 August</a> through <a href="../_/3_October.md" title="3 October">3 October</a>
+<td><a href="../_/10_August.md" title="10 August">10 tháng 8</a> đến <a href="../_/3_October.md" title="3 October">3 tháng 10</a>
 </td></tr>
 <tr>
 <td><a href="../E/Enderi.md" title="Enderi">Enderi</a></td>
 <td></td>
 <td>Middle Days</td>
 <td>3 or 6</td>
-<td><a href="../_/4_October.md" title="4 October">4 October</a> through <a href="../_/6_October.md" title="6 October">6 October</a>
+<td><a href="../_/4_October.md" title="4 October">4 tháng 10</a> đến <a href="../_/6_October.md" title="6 October">6 tháng 10</a>
 </td></tr>
 <tr>
 <td><a href="../Q/Quellë.md" title="Quellë">Quellë</a></td>
 <td><a href="../F/Firith.md" title="Firith">Firith</a></td>
 <td>Fading</td>
 <td>54</td>
-<td><a href="../_/7_October.md" title="7 October">7 October</a> through <a href="../_/30_November.md" title="30 November">30 November</a>
+<td><a href="../_/7_October.md" title="7 October">7 tháng 10</a> đến <a href="../_/30_November.md" title="30 November">30 tháng 11</a>
 </td></tr>
 <tr>
 <td><a href="../H/Hrívë.md" title="Hrívë">Hrívë</a></td>
 <td><a href="Rhîw.md" title="Rhîw">Rhîw</a></td>
 <td>Winter</td>
 <td>72</td>
-<td><a href="../_/1_December.md" title="1 December">1 December</a> through <a href="../_/10_February.md" title="10 February">10 February</a>
+<td><a href="../_/1_December.md" title="1 December">1 tháng 12</a> đến <a href="../_/10_February.md" title="10 February">10 tháng 2</a>
 </td></tr>
 <tr>
 <td><a href="../C/Coirë.md" title="Coirë">Coirë</a></td>
 <td><a href="../E/Echuir.md" title="Echuir">Echuir</a></td>
 <td>Stirring</td>
 <td>54</td>
-<td><a href="../_/11_February.md" title="11 February">11 February</a> through <a href="../_/4_April.md" title="4 April">4 April</a>
+<td><a href="../_/11_February.md" title="11 February">11 tháng 2</a> đến <a href="../_/4_April.md" title="4 April">4 tháng 4</a>
 </td></tr>
 <tr>
 <td><a href="../M/Mettarë.md" title="Mettarë">Mettarë</a></td>

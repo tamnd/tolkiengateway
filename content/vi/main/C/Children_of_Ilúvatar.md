@@ -37,7 +37,7 @@ images:
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>...khi chúng tôi gọi bạn là "Những đứa trẻ của Eru" chúng tôi không hề nói nhẹ; [...] và chúng tôi tuyên bố rằng các bạn là họ hàng của chúng tôi, trong mối quan hệ họ hàng gần gũi hơn nhiều (cả <a class="mw-redirect" href="../F/Fëa_and_hröa.md" title="Fëa and hröa">hröa và fëa</a>) so với mối quan hệ gắn kết tất cả các sinh vật khác của Arda và chúng tôi với họ.
 </p>
-<p class="tg-quote-footer"><cite><a href="../F/Finrod.md" title="Finrod">Finrod</a> trong <i><a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i></cite></p>
+<p class="tg-quote-footer"><cite><a href="../F/Finrod.md" title="Finrod">Finrod</a> in the <i><a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Các Con của Ilúvatar**, còn được gọi là **Híni Ilúvataro** hoặc **Eruhíni**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> là hai chủng tộc [Elf](../E/Elves.md) và [Người](../M/Men.md). Sự tồn tại của họ, cùng với [Vũ trụ](../E/Eä.md) nơi họ sẽ sinh sống, đã được hình thành trong [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md), nhưng [Ainur](../A/Ainur.md) không góp phần vào việc tạo ra họ. Chỉ một mình [Ilúvatar](../I/Ilúvatar.md) đã đưa họ vào hiện hữu, và họ có *[fëar](../F/Fëar.md)* (linh hồn) cùng loại với Ainur, dù yếu hơn rất nhiều.

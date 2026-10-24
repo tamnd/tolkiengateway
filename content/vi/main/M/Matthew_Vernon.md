@@ -42,7 +42,7 @@ sort_keys:
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td></td><td><div class="tg-seq-title">Matthew Vernon</div></td><td></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../C/Chris_Crawshaw.md" title="Chris Crawshaw">Chris Crawshaw</a></div></td><td width="45%"><div class="tg-seq-value">Chủ tịch thứ 8 của <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></div><div class="tg-seq-label">20 April 2008 - 8 January 2009</div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../S/Sally_Kennett.md" title="Sally Kennett">Sally Kennett</a></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../C/Chris_Crawshaw.md" title="Chris Crawshaw">Chris Crawshaw</a></div></td><td width="45%"><div class="tg-seq-value">8th Chairman of <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></div><div class="tg-seq-label">20 April 2008 - 8 January 2009</div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../S/Sally_Kennett.md" title="Sally Kennett">Sally Kennett</a></div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

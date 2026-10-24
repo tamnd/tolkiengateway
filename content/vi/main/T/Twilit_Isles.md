@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Twilit_Isles"
 content_sha256: 91b2e28c5d38050b3ce390a02dfa465a286b4a7b7e6a2d67531edde6b554d47f
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Islands west of Tol Eressëa"
+short_description: "Quần đảo phía tây Tol Eressëa"
 categories:
   - "Aman"
   - "Islands"

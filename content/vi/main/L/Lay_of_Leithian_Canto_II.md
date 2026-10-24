@@ -14,23 +14,23 @@ categories:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><a href="Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a> cantos
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><a href="Lay_of_Leithian.md" title="Lay of Leithian">Lay of Leithian</a> khổ
 </th></tr>
 <tr>
 <td>
-<ol><li><b><a href="Lay_of_Leithian_Canto_I.md" title="Lay of Leithian Canto I">Canto I</a></b></li>
-<li><b><a class="mw-selflink selflink">Canto II</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_III.md" title="Lay of Leithian Canto III">Canto III</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_IV.md" title="Lay of Leithian Canto IV">Canto IV</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_V.md" title="Lay of Leithian Canto V">Canto V</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_VI.md" title="Lay of Leithian Canto VI">Canto VI</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_VII.md" title="Lay of Leithian Canto VII">Canto VII</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_VIII.md" title="Lay of Leithian Canto VIII">Canto VIII</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_IX.md" title="Lay of Leithian Canto IX">Canto IX</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_X.md" title="Lay of Leithian Canto X">Canto X</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_XI.md" title="Lay of Leithian Canto XI">Canto XI</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_XII.md" title="Lay of Leithian Canto XII">Canto XII</a></b></li>
-<li><b><a href="Lay_of_Leithian_Canto_XIII.md" title="Lay of Leithian Canto XIII">Canto XIII</a></b></li>
+<ol><li><b><a href="Lay_of_Leithian_Canto_I.md" title="Lay of Leithian Canto I">Khúc ca I</a></b></li>
+<li><b><a class="mw-selflink selflink">Khúc ca II</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_III.md" title="Lay of Leithian Canto III">Khúc ca III</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_IV.md" title="Lay of Leithian Canto IV">Khúc ca IV</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_V.md" title="Lay of Leithian Canto V">Khúc ca V</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VI.md" title="Lay of Leithian Canto VI">Khúc ca VI</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VII.md" title="Lay of Leithian Canto VII">Khúc ca VII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_VIII.md" title="Lay of Leithian Canto VIII">Khúc ca VIII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_IX.md" title="Lay of Leithian Canto IX">Khúc ca IX</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_X.md" title="Lay of Leithian Canto X">Khúc ca X</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XI.md" title="Lay of Leithian Canto XI">Khúc ca XI</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XII.md" title="Lay of Leithian Canto XII">Khúc ca XII</a></b></li>
+<li><b><a href="Lay_of_Leithian_Canto_XIII.md" title="Lay of Leithian Canto XIII">Khúc ca XIII</a></b></li>
 <li><b><a href="Lay_of_Leithian_Canto_XIV.md" title="Lay of Leithian Canto XIV">Canto XIV</a></b></li></ol>
 </td></tr></tbody></table>
 
@@ -41,8 +41,8 @@ categories:
 Canto này có thể được coi là một trong những cantos đen tối và bệnh hoạn nhất, với phần đầu mô tả sống động về nỗi kinh hoàng của Morgoth, một trong những đoạn văn nổi tiếng nhất trong Lay.
 
 <blockquote class="tg-quote noexcerpt">
-<p>There sat a king: no <a href="../E/Elves.md" title="Elves">Elfin</a> race<br/>
-nor mortal blood, nor kindly grace
+<p>Có một vị vua ngồi: không có chủng tộc <a href="../E/Elves.md" title="Elves">Elfin</a><br/>
+cũng không phải máu phàm, cũng không phải ân sủng tử tế
 </p>
 <p class="tg-quote-footer"><cite>vv. 107-108</cite></p>
 </blockquote>
@@ -50,10 +50,10 @@ nor mortal blood, nor kindly grace
 Rồi đến niềm hy vọng của Barahir, và sự vấp ngã của Gorlim Nỗi bất hạnh.
 
 <blockquote class="tg-quote noexcerpt">
-<p>But still there lived in hiding cold<br/>
-undaunted, <a href="../B/Barahir.md" title="Barahir">Barahir</a> the bold<br/>
-of land bereaved, of lordship shorn<br/>
-who once a prince of <a href="../M/Men.md" title="Men">Men</a> was born
+<p>Nhưng vẫn sống ẩn náu lạnh lùng<br/>
+không nản lòng, <a href="../B/Barahir.md" title="Barahir">Barahir</a> táo bạo<br/>
+đất đai bị mất, quyền lãnh chúa bị tước đoạt<br/>
+người từng là hoàng tử của <a href="../M/Men.md" title="Men">Con Người</a> được sinh ra
 </p>
 <p class="tg-quote-footer"><cite>vv. 127-130</cite></p>
 </blockquote>
@@ -62,7 +62,7 @@ Những con quạ ăn thịt làm tăng thêm hiệu ứng kinh hoàng, đồng 
 
 <blockquote class="tg-quote noexcerpt">
 <p><a href="../B/Beleriand.md" title="Beleriand">Beleriand</a>, Beleriand<br/>
-the borders of the faëry land
+biên giới của xứ sở thần tiên
 </p>
 <p class="tg-quote-footer"><cite>vv. 399-400</cite></p>
 </blockquote>

@@ -18,21 +18,21 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Over the land there lies a long shadow, <br/>
-westward reaching wings of darkness. <br/>
-The tower trembles, to the tombs of kings <br/>
-doom aproaches. The dead awaken, <br/>
-for the hour is come for the oathbreakers; <br/>
-at the stone of Erech they shall stand again <br/>
-and hear there a horn in the hills ringing. <br/>
+<p>Trên mặt đất có một cái bóng dài, <br/>
+về phía tây vươn tới đôi cánh của bóng tối. <br/>
+Tháp rung chuyển, đến lăng mộ các vị vua <br/>
+sự diệt vong đang đến gần. Người chết thức tỉnh, <br/>
+vì đã đến giờ của những kẻ bội lời thề; <br/>
+tại hòn đá Erech họ sẽ lại đứng vững <br/>
+và nghe thấy tiếng tù và vang vọng trên đồi. <br/>
 <br/>
-Whose shall the horn be? Who shall call them <br/>
-from grey twilight, the forgotten people? <br/>
-the heir of him to whom the oath they swore. <br/>
-From the North shall he come, need shall drive him. <br/>
-He shall pass the door to the path of the dead. <br/>
+Chiếc sừng sẽ thuộc về ai? Ai sẽ gọi họ là <br/>
+từ hoàng hôn xám xịt, những con người bị lãng quên? <br/>
+người thừa kế của người mà họ đã thề. <br/>
+Từ phương Bắc ông sẽ đến, nhu cầu sẽ đưa ông đi. <br/>
+Ông sẽ vượt qua cánh cửa dẫn đến con đường của người chết. <br/>
 <br/>
-On your knees... <br/>
-The grey company is arriving now...
+Quỳ xuống... <br/>
+Công ty màu xám đang đến...
 </p>
 </div>

@@ -54,15 +54,15 @@ Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với c�
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">
 <th><b>#</b></th>
-<th><b>Name</b></th>
-<th><b>Reign</b></th>
-<th><b>Notes</b>
+<th><b>Tên</b></th>
+<th><b>Triều đại</b></th>
+<th><b>Ghi chú</b>
 </th></tr>
 <tr>
 <td>1.</td>
 <td><a href="../A/Amlaith.md" title="Amlaith">Amlaith</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_861.md" title="Third Age 861">861</a>-<a href="../T/Third_Age_946.md" title="Third Age 946">946</a></td>
-<td>Eldest son of <a href="../E/Eärendur_(King_of_Arnor).md" title="Eärendur (King of Arnor)">Eärendur</a>, tenth King of Arnor.
+<td>Con trai cả của <a href="../E/Eärendur_(King_of_Arnor).md" title="Eärendur (King of Arnor)">Eärendur</a>, thứ mười Vua của Arnor.
 </td></tr>
 <tr>
 <td>2.</td>
@@ -74,13 +74,13 @@ Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với c�
 <td>3.</td>
 <td><a href="../M/Mallor.md" title="Mallor">Mallor</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1029.md" title="Third Age 1029">1029</a>–<a href="../T/Third_Age_1110.md" title="Third Age 1110">1110</a></td>
-<td>Hobbits (<a href="../H/Harfoots.md" title="Harfoots">Harfoots</a>) enter Eriador during his reign. They would later settle the lands of former Arnor and Arthedain.
+<td>Hobbit (<a href="../H/Harfoots.md" title="Harfoots">Harfoots</a>) nhập Eriador trong thời kỳ trị vì của ông. Sau này họ định cư trên các vùng đất Arnor và Arthedain trước đây.
 </td></tr>
 <tr>
 <td>4.</td>
 <td><a href="../C/Celepharn.md" title="Celepharn">Celepharn</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1110.md" title="Third Age 1110">1110</a>–<a href="../T/Third_Age_1191.md" title="Third Age 1191">1191</a></td>
-<td>During his reign, <a href="../F/Fallohides.md" title="Fallohides">Fallohides</a> and <a href="../S/Stoors.md" title="Stoors">Stoors</a> enter Eriador.
+<td>Trong thời gian trị vì của ông, <a href="../F/Fallohides.md" title="Fallohides">Fallohides</a> và <a href="../S/Stoors.md" title="Stoors">Stoors</a> nhập Eriador.
 </td></tr>
 <tr>
 <td>5.</td>
@@ -92,31 +92,31 @@ Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với c�
 <td>6.</td>
 <td><a href="../M/Malvegil.md" title="Malvegil">Malvegil</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1272.md" title="Third Age 1272">1272</a>–<a href="../T/Third_Age_1349.md" title="Third Age 1349">1349</a></td>
-<td>In the beginning of his reign evil came to Arnor. At that time the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> saw an opportunity in the disunion of the <a class="mw-redirect" href="../A/Arnorians.md" title="Arnorians">Arnorians</a> and the realm of <a href="../A/Angmar.md" title="Angmar">Angmar</a> arose in the North.
+<td>Vào đầu triều đại của hắn, cái ác đã đến với Arnor. Vào thời điểm đó <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> nhìn thấy cơ hội trong sự chia rẽ của <a class="mw-redirect" href="../A/Arnorians.md" title="Arnorians">người Arnorian</a> và vương quốc <a href="../A/Angmar.md" title="Angmar">Angmar</a> trỗi dậy ở phía Bắc.
 </td></tr>
 <tr>
 <td>7.</td>
 <td><a href="../A/Argeleb_I.md" title="Argeleb I">Argeleb I</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1349.md" title="Third Age 1349">1349</a>–<a href="../T/Third_Age_1356.md" title="Third Age 1356">1356</a>†</td>
-<td>He claimed lordship of all Arnor, since no descendants of <a href="../I/Isildur.md" title="Isildur">Isildur</a> remained in <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a> or <a href="../R/Rhudaur.md" title="Rhudaur">Rhudaur</a>. He was slain in battle with Angmar and Rhudaur.
+<td>Ông tuyên bố quyền thống trị của tất cả Arnor, vì không có hậu duệ nào của <a href="../I/Isildur.md" title="Isildur">Isildur</a> còn lại ở <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a> hoặc <a href="../R/Rhudaur.md" title="Rhudaur">Rhudaur</a>. Ông đã bị giết trong trận chiến với Angmar và Rhudaur.
 </td></tr>
 <tr>
 <td>8.</td>
 <td><a href="../A/Arveleg_I.md" title="Arveleg I">Arveleg I</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1356.md" title="Third Age 1356">1356</a>–<a href="../T/Third_Age_1409.md" title="Third Age 1409">1409</a>†</td>
-<td>He drove back Angmar from the <a href="../W/Weather_Hills.md" title="Weather Hills">Weather Hills</a> with the help of Cardolan and <a href="../L/Lindon.md" title="Lindon">Lindon</a>. Like his father, he was slain in battle with Angmar and Rhudaur.
+<td>Ông đã lái xe trở về Angmar từ <a href="../W/Weather_Hills.md" title="Weather Hills">Weather Hills</a> với sự trợ giúp của Cardolan và <a href="../L/Lindon.md" title="Lindon">Lindon</a>. Giống như cha mình, ông đã bị giết trong trận chiến với Angmar và Rhudaur.
 </td></tr>
 <tr>
 <td>9.</td>
 <td><a href="../A/Araphor.md" title="Araphor">Araphor</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1409.md" title="Third Age 1409">1409</a>–<a href="../T/Third_Age_1589.md" title="Third Age 1589">1589</a></td>
-<td>He was eighteen years old when he came to the throne. With aid from <a class="mw-redirect" href="../C/Cirdan.md" title="Cirdan">Cirdan</a> he repelled the enemy from <a class="mw-redirect" href="../F/Fornost.md" title="Fornost">Fornost</a> and <a href="../N/North_Downs.md" title="North Downs">North Downs</a>.
+<td>Ông mới mười tám tuổi khi lên ngôi. Với sự trợ giúp của <a class="mw-redirect" href="../C/Cirdan.md" title="Cirdan">Cirdan</a> anh đã đẩy lùi kẻ thù từ <a class="mw-redirect" href="../F/Fornost.md" title="Fornost">Fornost</a> và <a href="../N/North_Downs.md" title="North Downs">North Downs</a>.
 </td></tr>
 <tr>
 <td>10.</td>
 <td><a href="../A/Argeleb_II.md" title="Argeleb II">Argeleb II</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1589.md" title="Third Age 1589">1589</a>–<a href="../T/Third_Age_1670.md" title="Third Age 1670">1670</a></td>
-<td>Many Hobbits migrate from <a href="../B/Bree.md" title="Bree">Bree</a>, and are granted land beyond <a href="../B/Baranduin.md" title="Baranduin">Baranduin</a> by Argeleb II.
+<td>Nhiều Hobbit di cư từ <a href="../B/Bree.md" title="Bree">Bree</a> và được Argeleb II cấp đất ngoài <a href="../B/Baranduin.md" title="Baranduin">Baranduin</a>.
 </td></tr>
 <tr>
 <td>11.</td>
@@ -134,19 +134,19 @@ Các vị vua của [Arthedain](../A/Arthedain.md) có cùng dòng dõi với c�
 <td>13.</td>
 <td><a href="../A/Araval.md" title="Araval">Araval</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1813.md" title="Third Age 1813">1813</a>–<a href="../T/Third_Age_1891.md" title="Third Age 1891">1891</a></td>
-<td>In alliance with the <a href="../E/Elves_of_Lindon.md" title="Elves of Lindon">Elves of Lindon</a> and <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, he won an important victory over the Witch-king of Angmar.
+<td>Liên minh với <a href="../E/Elves_of_Lindon.md" title="Elves of Lindon">Tiên tộc của Lindon</a> và <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, anh đã giành được chiến thắng quan trọng trước Vua Phù thủy của Angmar.
 </td></tr>
 <tr>
 <td>14.</td>
 <td><a href="../A/Araphant.md" title="Araphant">Araphant</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1891.md" title="Third Age 1891">1891</a>–<a href="../T/Third_Age_1964.md" title="Third Age 1964">1964</a></td>
-<td>The long silence and estrangement between <a href="../G/Gondor.md" title="Gondor">Gondor</a> and Arnor comes to an end. Araphant&#39;s son, Arvedui, marries <a href="../F/Fíriel.md" title="Fíriel">Fíriel</a>; the daughter of <a href="../O/Ondoher.md" title="Ondoher">Ondoher</a>, Gondor&#39;s king at the time.
+<td>Sự im lặng kéo dài và sự ghẻ lạnh giữa <a href="../G/Gondor.md" title="Gondor">Gondor</a> và Arnor chấm dứt. con trai Araphant, Arvedui, lấy vợ <a href="../F/Fíriel.md" title="Fíriel">Fíriel</a>; con gái của <a href="../O/Ondoher.md" title="Ondoher">Ondoher</a>, vua của Gondor lúc bấy giờ.
 </td></tr>
 <tr>
 <td>15.</td>
 <td><a href="../A/Arvedui.md" title="Arvedui">Arvedui</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1964.md" title="Third Age 1964">1964</a>–<a href="../T/Third_Age_1974.md" title="Third Age 1974">1974</a>†</td>
-<td>The last king of Arthedain. His son, <a href="../A/Aranarth.md" title="Aranarth">Aranarth</a>, becomes the first of the <a class="mw-redirect" href="../C/Chieftains_of_the_Dúnedain.md" title="Chieftains of the Dúnedain">Chieftains of the Dúnedain</a>.
+<td>Vị vua cuối cùng của Arthedain. Con trai của ông, <a href="../A/Aranarth.md" title="Aranarth">Aranarth</a>, trở thành thủ lĩnh đầu tiên của <a class="mw-redirect" href="../C/Chieftains_of_the_Dúnedain.md" title="Chieftains of the Dúnedain">của Dúnedain</a>.
 </td></tr></tbody></table>
 
 ## Xem thêm {#See_also}

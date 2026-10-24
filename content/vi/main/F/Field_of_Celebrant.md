@@ -38,7 +38,7 @@ Vào [Kỷ Đệ Tam](../T/Third_Age.md) [năm 2510](../T/Third_Age_2510.md)<sup
 
 <b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Field of Celebrant is a landmark in the &#34;Parth Celebrant&#34; area.</dd></dl>
+<dl><dd>Trường Celebrant là một điểm mốc trong khu vực "Parth Celebrant".</dd></dl>
 
 ## Xem thêm {#See_also}
 

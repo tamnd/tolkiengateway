@@ -88,14 +88,14 @@ Vào tháng 7 [2020](../_/2020.md), một bản bìa mềm có chỉnh sửa đ�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/A_Secret_Vice_hardcover.jpg.md" title="2016 hardcover"><img alt="2016 hardcover" src="https://tolkiengateway.net/w/images/thumb/8/86/A_Secret_Vice_hardcover.jpg/80px-A_Secret_Vice_hardcover.jpg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/86/A_Secret_Vice_hardcover.jpg/120px-A_Secret_Vice_hardcover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/86/A_Secret_Vice_hardcover.jpg/160px-A_Secret_Vice_hardcover.jpg 2x" data-file-width="500" data-file-height="781"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2016
+<p>2016 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/A_Secret_Vice_paperback.jpeg.md" title="2020 paperback"><img alt="2020 paperback" src="https://tolkiengateway.net/w/images/thumb/d/d3/A_Secret_Vice_paperback.jpeg/81px-A_Secret_Vice_paperback.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d3/A_Secret_Vice_paperback.jpeg/122px-A_Secret_Vice_paperback.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d3/A_Secret_Vice_paperback.jpeg/163px-A_Secret_Vice_paperback.jpeg 2x" data-file-width="500" data-file-height="768"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm năm 2020
+<p>2020 paperback
 </p>
 			</div>
 		</li>

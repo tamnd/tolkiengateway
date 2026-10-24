@@ -41,7 +41,7 @@ Nó cũng có thể bắt nguồn từ <i>*im-do</i> ("bản thân, bản thể 
 </caption>
 <tbody><tr>
 <th>Word</th>
-<th>Meaning</th>
+<th>Ý nghĩa</th>
 <th>Affix
 </th></tr>
 <tr>
@@ -55,14 +55,14 @@ Nó cũng có thể bắt nguồn từ <i>*im-do</i> ("bản thân, bản thể 
 <td><i>-nen</i> (nhạc cụ)
 </td></tr>
 <tr>
-<td><i>trong nhà</i></td>
+<td><i>indor</i></td>
 <td>Wills<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[note 1]</a></sup></td>
 <td><i>-r</i> (số nhiều)
 </td></tr>
 <tr>
-<td><i>công nghiệp</i></td>
+<td><i>indu-</i></td>
 <td>Dạng lời nói của indo<sup id="cite_ref-pe22_3-6" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup></td>
-<td><a class="external text" href="https://eldamo.org/content/words/word-3198538799.html" rel="noreferrer noopener" target="_blank">động từ bạn</a>
+<td><a class="external text" href="https://eldamo.org/content/words/word-3198538799.html" rel="noreferrer noopener" target="_blank">u-verb</a>
 </td></tr>
 <tr>
 <td><i>induinen</i></td>
@@ -75,7 +75,7 @@ Nó cũng có thể bắt nguồn từ <i>*im-do</i> ("bản thân, bản thể 
 <td><i>-ne</i> (thì quá khứ)
 </td></tr>
 <tr>
-<td><i>vâng vâng</i></td>
+<td><i>indunenyes</i></td>
 <td>“Tôi cố ý”, “Tôi cố ý”<sup id="cite_ref-pe22_3-9" class="reference"><a href="#cite_note-pe22-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:165</sup></td>
 <td><i>-ne</i> (thì quá khứ); <i>-n(ye)</i> "Tôi"; <i>-s</i> (hậu tố đối tượng số ít)
 </td></tr></tbody></table>

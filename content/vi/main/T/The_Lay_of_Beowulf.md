@@ -17,7 +17,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Beowulf</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../B/Beowulf_(disambiguation).md" title="Beowulf (disambiguation)">Beowulf (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Beowulf</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../B/Beowulf_(disambiguation).md" title="Beowulf (disambiguation)">Beowulf (định hướng)</a></b>.</div></div>
 
 <i><b>The Lay of Beowulf</b></i> là một [bài thơ](../../index/P/Poems_by_J.R.R._Tolkien.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), kể lại câu chuyện [Beowulf và Grendel](<../B/Beowulf_(poem).md>) dưới dạng một bản ballad.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bài thơ được xuất bản lần đầu trên tạp chí *[Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md)* năm [2014](../_/2014.md), do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập.
 
@@ -28,14 +28,14 @@ images:
 ## Khổ đầu tiên {#First_stanza}
 
 <div class="poem">
-<p><i>Grendel came forth in the dead of night;<br/>
-the moon in his eyes shone glassy bright,<br/>
-as over the moors he strode in might,<br/>
-   until he came to Heorot.<br/>
-Dark lay the dale, the windows shone;<br/>
-by the wall he lurked and listened long,<br/>
-and he cursed their laughter and cursed their song<br/>
-   and the twanging harps of Heorot.
+<p><i>Grendel xuất hiện trong đêm khuya;<br/>
+vầng trăng trong mắt anh sáng ngời như thủy tinh,<br/>
+khi anh sải bước mạnh mẽ trên đồng hoang,<br/>
+   cho đến khi ông đến Heorot.<br/>
+Thung lũng tối đen, cửa sổ tỏa sáng;<br/>
+Anh nấp bên tường lắng nghe rất lâu<br/>
+và anh nguyền rủa tiếng cười của họ và nguyền rủa bài hát của họ<br/>
+   và những cây đàn hạc rung rinh của Heorot.
 </i></p><i>
 </i></div>
 

@@ -15,15 +15,15 @@ images:
   - "CdxIconFlag.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--green"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7c/CdxIconFlag.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Claimed</div></div><div class="ext-floatingui-content"><a class="mw-redirect" href="https://tolkiengateway.net/wiki/User:LorenzoCB" title="User:LorenzoCB">Quentandil</a> is currently busy with major revisions to this article. Before editing, discuss your intentions on this article&#39;s <a href="https://tolkiengateway.net/wiki/Talk:Turambar_and_the_Foal%C3%B3k%C3%AB" title="Talk:Turambar and the Foalókë">talk page</a>.<blockquote class="tg-quote noexcerpt">
-<p>I oughtn&#39;t to interrupt you, I know. [...] You are very busy, I&#39;m sure.
+<div class="t-maintenance metadata t-maintenance--green"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7c/CdxIconFlag.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Claimed</div></div><div class="ext-floatingui-content"><a class="mw-redirect" href="https://tolkiengateway.net/wiki/User:LorenzoCB" title="User:LorenzoCB">Quentandil</a> hiện đang bận rộn với những sửa đổi lớn cho bài viết này. Trước khi chỉnh sửa, hãy thảo luận ý định của bạn trên <a href="https://tolkiengateway.net/wiki/Talk:Turambar_and_the_Foal%C3%B3k%C3%AB" title="Talk:Turambar and the Foalókë">trang thảo luận</a> của bài viết này.<blockquote class="tg-quote noexcerpt">
+<p>Tôi không nên làm phiền bạn, tôi biết. […] Tôi chắc chắn rằng bạn rất bận rộn.
 </p>
 <p class="tg-quote-footer"><cite><a href="../M/Mr._Parish.md" title="Mr. Parish">Mr. Parish</a></cite></p>
 </blockquote></div></div>
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i> chương
 </th></tr>
 <tr>
 <td>
@@ -31,8 +31,8 @@ images:
 <li><a class="mw-selflink selflink">Turambar and the Foalókë</a></li>
 <li><a href="The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a></li>
 <li><a href="The_Nauglafring.md" title="The Nauglafring">The Nauglafring</a></li>
-<li><a href="The_Tale_of_Eärendel.md" title="The Tale of Eärendel">The Tale of Eärendel</a></li>
-<li><a href="The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">The History of Eriol or Ælfwine</a></li></ol>
+<li><a href="The_Tale_of_Eärendel.md" title="The Tale of Eärendel">Truyện kể về Eärendel</a></li>
+<li><a href="The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">Lịch sử của Eriol hay Ælfwine</a></li></ol>
 </td></tr></tbody></table>
 
 **Turambar and the Foalókë**, còn được gọi là **Câu chuyện về Turambar**, là chương thứ hai của *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*. Nó đại diện cho phiên bản đầu tiên của [Truyện về những đứa trẻ của Húrin](<../N/Narn_i_Chîn_Húrin_(tale).md>).
@@ -41,7 +41,7 @@ images:
 
 Trong đêm thứ hai của [Turuhalmë](Turuhalmë.md), [Ailios](../A/Ailios.md), người đã kể [câu chuyện về Tinúviel](Tale_of_Tinúviel.md), đã vắng mặt nên [Eltas](../E/Eltas.md) là người được yêu cầu kể câu chuyện sau: ông giải thích rằng đây là câu chuyện yêu thích của [Đàn ông](../M/Men.md) và ông đã nghe về nó trước khi đến [Tol Eressëa](Tol_Eressëa.md) trước [sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md).
 
-<h3><span id=".5BThe_capture_of_.C3.9Arin_and_T.C3.BArin.27s_childhood_in_Hisil.C3.B3m.C3.AB.5D"></span><span class="mw-headline" id="[The_capture_of_Úrin_and_Túrin&#39;s_childhood_in_Hisilómë]">[The capture of Úrin and Túrin&#39;s childhood in Hisilómë]</span></h3>
+<h3><span id=".5BThe_capture_of_.C3.9Arin_and_T.C3.BArin.27s_childhood_in_Hisil.C3.B3m.C3.AB.5D"></span><span class="mw-headline" id="[The_capture_of_Úrin_and_Túrin&#39;s_childhood_in_Hisilómë]">[Quay lại tuổi thơ của Úrin và Túrin trong Hisilómë]</span></h3>
 
 Trong cái được gọi là [Trận chiến than thở](../B/Battle_of_Lamentation.md), [Úrin](../_/Úrin.md) và người dân Con Người của ông đã tham gia [Ilkorindi](../I/Ilkorindi.md) trong cuộc chiến chống lại [Melko](../M/Melko.md). Trận chiến thảm khốc đã mang đến sự hủy diệt cho [Noldoli](../N/Noldoli.md), trong đó chỉ có [Turgon](Turgon.md) và người dân của ông ta trốn thoát. Úrin và những người theo ông là Con Người duy nhất không chạy trốn khỏi trận chiến và bị bắt và tra tấn. Melko yêu cầu được biết Turgon đã trốn đi đâu nhưng Úrin không chịu nói. Trong cơn thịnh nộ, Melko đã nguyền rủa Úrin và đồng loại của ông ta, xích ông ta ở một nơi cao ngất giữa núi và ban cho ông ta [khả năng thần kỳ](../M/Magic.md) để ông ta buộc phải nhìn thấy những bất hạnh của gia đình mình từ xa.
 
@@ -71,7 +71,7 @@ Nhờ các trận chiến mở của Túrin, nhiều Gnomes đã gia nhập Rodo
 
 Túrin sau đó đi tìm Galweg nhưng ông ta cũng đã chết. Túrin và Flinding sau đó cố gắng hỗ trợ Failivrin, nhưng Flinding bị giết bằng một mũi tên vào mắt. Glorund buộc Túrin phải trốn ra ngoài bằng hơi thở của nó và làm tê liệt ông ta bằng đôi mắt đầy mê hoặc của nó. Vì vậy, Failivrin đã bị bắt và mang đi trước mặt Túrin, và Glorund tiếp tục chế nhạo ông ta vì sự hèn nhát và số phận đen tối đang ập đến với ông ta. Túrin trả lời, phủ nhận số phận của mình và tự đặt cho mình một cái tên mới: *Turambar*, Kẻ chinh phục số phận. Nhưng con rồng đã đánh lừa tâm trí anh và thuyết phục anh rằng Mavwin và Nienóri đang gặp nguy hiểm ở Hisilómë nên anh đã bỏ Failivrin và đi tìm gia đình. Sau đó Glorund chất đống kho báu vàng của Gnomes trước các hang động và nằm ngủ trước chúng.
 
-<h3><span id=".5BT.C3.BArin.27s_return_to_Hithlum.5D"></span><span class="mw-headline" id="[Túrin&#39;s_return_to_Hithlum]">[Túrin&#39;s return to Hithlum]</span></h3>
+<h3><span id=".5BT.C3.BArin.27s_return_to_Hithlum.5D"></span><span class="mw-headline" id="[Túrin&#39;s_return_to_Hithlum]">[Túrin trở lại Hithlum]</span></h3>
 
 Sau một chuyến đi dài, Turambar đến ngôi nhà cũ của mình ở Hisilómë nhưng nhận thấy nó đã bị hủy hoại theo thời gian và một số người dân địa phương giải thích với anh rằng Orc đã đi lang thang ở những khu vực đó, và họ rất ngạc nhiên khi anh có thể vượt núi mà không bị tấn công. Như đã chỉ ra, Turambar đã đến những vùng đất thịnh vượng hơn nơi mẹ và chị gái anh đã chuyển đến nhiều năm trước, nhưng một lần nữa anh lại thấy ngôi nhà trống rỗng và bị bỏ hoang. Tuyệt vọng, anh bắt đầu khóc, và một người đàn ông đi ngang qua nói với anh rằng Mavwin và Nienóri đã bí mật rời đi hai năm trước, để lại tất cả tài sản của họ cho [Brodda](../B/Brodda.md), lãnh chúa của những vùng đất đó và kết hôn với một người họ hàng của Mavwin, chăm sóc. Tuy nhiên, Brodda đã thêm vật gia truyền của Mavwin vào tài sản của mình và không chăm sóc đất đai và nhà cửa của cô.
 
@@ -109,7 +109,7 @@ Khi Glorund tiếp cận vùng đất của họ để lại con đường hủy
 
 Khi cả nhóm đến nơi Silver Bowl sụp đổ, họ quyết định nghỉ ngơi ở đó, và Níniel cảm thấy bồn chồn và yêu cầu Turambar từ bỏ nhiệm vụ, anh trả lời: "*Không, Níniel của tôi, cả bạn và tôi đều không chết ngày hôm nay, chưa phải ngày mai, bởi tà ác của con rồng hay bởi thanh kiếm của kẻ thù*". Sau khi nghỉ ngơi, họ có thể nhìn thấy khói của con rồng đang ngủ từ xa. Vì vậy, Turambar đã lên kế hoạch chặn Foalókë trong mương suối và tấn công ông ta từ bên dưới khi ông ta cố gắng vượt qua nó. Chỉ có sáu người đàn ông trong nhóm đứng tiến theo Turambar, rồi họ từ biệt. Những người còn lại quay trở lại ngọn đồi gần đó, Níniel đợi ở đó trong nỗi buồn thầm lặng, còn Tamar ngồi cùng cô, hết lòng bảo vệ cô.
 
-<center><big><i>To be continued...</i></big></center>
+<center><big><i>Còn tiếp...</i></big></center>
 
 ## Có nhiều tên Túrin {#The_many_names_of_Túrin}
 

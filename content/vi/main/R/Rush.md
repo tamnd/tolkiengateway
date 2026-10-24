@@ -27,7 +27,7 @@ infobox:
     value: "L-R: Geddy Lee, Neil Peart, Alex Lifeson"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rush.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/Rush.jpg/320px-Rush.jpg" decoding="async" loading="lazy" width="320" height="220" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fb/Rush.jpg/480px-Rush.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fb/Rush.jpg/640px-Rush.jpg 2x" data-file-width="1200" data-file-height="825"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rush</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Toronto, Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Progressive Rock</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">1968-2015</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="http://rush.com%7C" rel="noreferrer noopener" target="_blank">Rush Website</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">L-R: Geddy Lee, Neil Peart, Alex Lifeson</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rush.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/Rush.jpg/320px-Rush.jpg" decoding="async" loading="lazy" width="320" height="220" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fb/Rush.jpg/480px-Rush.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fb/Rush.jpg/640px-Rush.jpg 2x" data-file-width="1200" data-file-height="825"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Ban nhạc</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rush</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin nền</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data">Toronto, Canada</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Progressive Rock</td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian hoạt động</th><td class="tg-infobox-data">1968-2015</td></tr><tr><th scope="row" class="tg-infobox-label">trang web</th><td class="tg-infobox-data"><a class="external text" href="http://rush.com%7C" rel="noreferrer noopener" target="_blank">Rush Website</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thành viên</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành viên hiện tại</th><td class="tg-infobox-data">L-R: Geddy Lee, Neil Peart, Alex Lifeson</td></tr></tbody></table>
 
 **Rush** là một ban nhạc prog-rock người Canada, trong đội hình tồn tại lâu nhất của nhóm bao gồm tay trống và người viết lời chính <a class="extiw" href="http://en.wikipedia.org/wiki/Neil_Peart" title="wikipedia:Neil Peart">Neil Peart</a>, tay bass và ca sĩ <a class="extiw" href="http://en.wikipedia.org/wiki/Geddy_Lee" title="wikipedia:Geddy Lee">Geddy Lee</a>và tay guitar <a class="extiw" href="http://en.wikipedia.org/wiki/Alex_Lifeson" title="wikipedia:Alex Lifeson">Alex Lifeson</a>. Bộ ba đã phát hành hai bài hát dựa trên sáng tác của Tolkien.
 
@@ -40,17 +40,17 @@ Lời bài hát do Peart viết, còn nhạc do Lee sáng tác, người đã h�
 ### Trích lời bài hát {#Lyrics_excerpt}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Elfin songs and endless nights<br/>
-Sweet wine and soft relaxing lights<br/>
-Time will never touch you<br/>
-Here in this enchanted place<br/>
+<p>Những bài hát yêu tinh và những đêm dài bất tận<br/>
+Rượu ngọt và ánh đèn êm dịu<br/>
+Thời gian sẽ không bao giờ chạm tới bạn<br/>
+Ở nơi mê hoặc này<br/>
 <br/>
-You feel there&#39;s something calling you<br/>
-You&#39;re wanting to return<br/>
-To where the misty mountains rise and friendly fires burn<br/>
-A place you can escape the world<br/>
-Where the dark Lord cannot go<br/>
-Peace of mind and sanctuary by loud water&#39;s flow<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bạn cảm thấy có điều gì đó đang gọi bạn<br/>
+Bạn đang muốn quay lại<br/>
+Đến nơi những ngọn núi mù sương vươn lên và những ngọn lửa thân thiện bùng cháy<br/>
+Nơi bạn có thể thoát khỏi thế giới<br/>
+Nơi mà Chúa tể bóng tối không thể tới<br/>
+Yên tâm và tôn nghiêm bên dòng nước lớn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 </div>
 
@@ -61,10 +61,10 @@ Peace of mind and sanctuary by loud water&#39;s flow<sup id="cite_ref-1" class="
 ### Trích lời bài hát {#Lyrics_excerpt_2}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Brooding in the tower<br/>
-Watching over his lands<br/>
-Holding ev&#39;ry creature<br/>
-Helplessly they stand<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<p>Ấp ủ trong tháp<br/>
+Trông chừng vùng đất của anh<br/>
+Giữ mọi sinh vật<br/>
+Họ đứng bất lực<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 </p>
 </div>
 

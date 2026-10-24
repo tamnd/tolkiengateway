@@ -171,7 +171,7 @@ Trong Eregion, Celebrimbor và Elrond xoay quanh các vấn đề. Elrond quay t
 </td></tr>
 <tr>
 <td><a href="../S/Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
-<td><a href="../D/Disa.md" title="Disa">Princess Disa</a>
+<td><a href="../D/Disa.md" title="Disa">Công chúa Disa</a>
 </td></tr>
 <tr>
 <td><a href="../O/Owain_Arthur.md" title="Owain Arthur">Owain Arthur</a></td>

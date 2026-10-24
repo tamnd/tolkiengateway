@@ -41,14 +41,14 @@ infobox:
 		<li class="gallerybox" style="width: 86.666666666667px">
 			<div class="thumb" style="width: 84.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_Against_The_Shadow_Spanish_Advertisement.jpg.md" title="Spanish advertisement"><img alt="Spanish advertisement" src="https://tolkiengateway.net/w/images/thumb/5/55/MECCG_Against_The_Shadow_Spanish_Advertisement.jpg/127px-MECCG_Against_The_Shadow_Spanish_Advertisement.jpg" decoding="async" loading="lazy" width="85" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/55/MECCG_Against_The_Shadow_Spanish_Advertisement.jpg/191px-MECCG_Against_The_Shadow_Spanish_Advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/55/MECCG_Against_The_Shadow_Spanish_Advertisement.jpg/254px-MECCG_Against_The_Shadow_Spanish_Advertisement.jpg 2x" data-file-width="1414" data-file-height="2000"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 65px"><div class="gallerytext">
-<p>Quảng cáo tiếng Tây Ban Nha
+<p>Spanish advertisement
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 83.333333333333px">
 			<div class="thumb" style="width: 81.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_Against_The_Shadow_advertisement_(InQuest_30).jpg.md" title="Advertisement"><img alt="Advertisement" src="https://tolkiengateway.net/w/images/thumb/f/f4/MECCG_Against_The_Shadow_advertisement_%28InQuest_30%29.jpg/122px-MECCG_Against_The_Shadow_advertisement_%28InQuest_30%29.jpg" decoding="async" loading="lazy" width="82" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/MECCG_Against_The_Shadow_advertisement_%28InQuest_30%29.jpg/183px-MECCG_Against_The_Shadow_advertisement_%28InQuest_30%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/MECCG_Against_The_Shadow_advertisement_%28InQuest_30%29.jpg/243px-MECCG_Against_The_Shadow_advertisement_%28InQuest_30%29.jpg 2x" data-file-width="2068" data-file-height="3056"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 62px"><div class="gallerytext">
-<p>Advertisement
+<p>Quảng cáo
 </p>
 			</div></div>
 		</li>

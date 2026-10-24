@@ -20,7 +20,7 @@ infobox:
     value: "2001"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Comic-Con 2001</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">San Diego Convention Center</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">2001</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Comic-Con 2001</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Trung tâm Hội nghị San Diego</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">2001</td></tr></tbody></table>
 
 **San Diego Comic-Con: International** là hội nghị truyện tranh lớn nhất thế giới và luôn làm hài lòng người hâm mộ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bằng nhiều bộ sưu tập và sự kiện liên quan đến Tolkien. Hội nghị năm 2001 này diễn ra trước khi phát hành [The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md) và giới thiệu một loạt các bộ sưu tập liên quan đến phim.
 

@@ -44,12 +44,12 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div class="poem">
-<p>Ôi, bạn ơi, tôi có:<br/>
+<p>O mór henion i dhû:<br/>
 Ely siriar, êl síla<br/>
 Ai! Aníron Undómiel<br/>
 <br/>
 Tiro! Êl eria e mór.<br/>
-I'lîr en êl luitha 'uren.<br/>
+I &#39;lîr en êl luitha &#39;uren.<br/>
 Ai! Aníron...
 </p>
 </div>

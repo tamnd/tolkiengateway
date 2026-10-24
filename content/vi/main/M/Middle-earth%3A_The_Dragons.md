@@ -89,7 +89,7 @@ Andy Butcher, viết cho *Arcane*, cũng đã đánh giá tích cực *The Drago
 		<li class="gallerybox" style="width: 160.66666666667px">
 			<div class="thumb" style="width: 158.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Metd.jpg.md" title="Advertisement"><img alt="Advertisement" src="https://tolkiengateway.net/w/images/thumb/3/3e/Metd.jpg/238px-Metd.jpg" decoding="async" loading="lazy" width="159" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3e/Metd.jpg/357px-Metd.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3e/Metd.jpg/476px-Metd.jpg 2x" data-file-width="500" data-file-height="378"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 139px"><div class="gallerytext">
-<p>Advertisement
+<p>Quảng cáo
 </p>
 			</div></div>
 		</li>

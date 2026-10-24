@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Yellow_Mountains"
 content_sha256: bbf009fea06cfac7fec190632f0dc2c0e5f33646134f47320970cec466a207bd
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Mountain range in the Southlands"
+short_description: "Dãy núi ở vùng đất phía Nam"
 categories:
   - "Eastern lands"
   - "Mountain ranges"
@@ -30,7 +30,7 @@ infobox:
     value: "Mountain range"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Mountain range</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Yellow Mountains</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">South-east of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Mountain range</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Dãy núi</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Dãy núi Vàng</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">South-east of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Loại</th><td class="tg-infobox-data">Dãy núi</td></tr></tbody></table>
 
 **Dãy núi Vàng** là một dãy núi ở phía đông nam của [Trung Địa](../M/Middle-earth.md) trong [Southlands](../D/Dark_Land.md), phần tiếp nối về phía nam của [Red Dãy Núi](../O/Orocarni.md). Cả hai phạm vi đều được tạo khi [Valar](../V/Valar.md) đẩy trung tâm Trung Địa về phía đông để bảo vệ thêm cho [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -40,11 +40,11 @@ Trong [Ambarkanta bản đồ](../A/Ambarkanta_maps.md), Dãy núi Vàng không 
 
 <b>1989: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../S/Shadow_in_the_South.md" title="Shadow in the South">Bóng Tối ở miền Nam</a></i></b>
 
-<dl><dd>The Yellow Mountains (<a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Orolanari</i>, <a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Ered Laranor</i>) were volcanic mountains with black and yellow landforms. They were said to rise to heights of up to 10,000 feet. When <a href="../O/Ormal.md" title="Ormal">Ormal</a> fell, the mountains were swept to the south and east, forming the spine of the utter South.</dd></dl>
+<dl><dd>Các Dãy núi Vàng (<a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Orolanari</i>, <a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Ered Laranor</i>) là những ngọn núi lửa có địa hình màu đen và vàng. Người ta cho rằng chúng có thể tăng lên độ cao tới 10.000 feet. Khi <a href="../O/Ormal.md" title="Ormal">Ormal</a> thất thủ, núi non bị cuốn về phía Nam và phía Đông, tạo thành xương sống của miền Nam hoàn toàn.</dd></dl>
 
-<dl><dd>The mountains&#39; caverns and caves were home to the Mablâd, local <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> who named themselves after the earth&#39;s steam (Mabûl). They guarded the wealth of the mountains: <a href="../S/Silver.md" title="Silver">silver</a>, <a href="../S/Stones_in_Middle-earth_Role_Playing.md#Laen" title="Stones in Middle-earth Role Playing">laen</a>, and <a href="../M/Metals_in_Middle-earth_Role_Playing.md#Eog" title="Metals in Middle-earth Role Playing">eog</a>.<sup id="cite_ref-south_2-0" class="reference"><a href="#cite_note-south-2">[2]</a></sup></dd></dl>
+<dl><dd>Các hang động trên núi là nơi sinh sống của người Mablâd, <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a> địa phương, họ tự đặt tên theo hơi nước của trái đất (Mabûl). Họ canh giữ sự giàu có của những ngọn núi: <a href="../S/Silver.md" title="Silver">bạc</a>, <a href="../S/Stones_in_Middle-earth_Role_Playing.md#Laen" title="Stones in Middle-earth Role Playing">laen</a> và <a href="../M/Metals_in_Middle-earth_Role_Playing.md#Eog" title="Metals in Middle-earth Role Playing">eog</a>.<sup id="cite_ref-south_2-0" class="reference"><a href="#cite_note-south-2">[2]</a></sup></dd></dl>
 
-<dl><dd>There were five notable passes through the Yellow Mountains:</dd></dl>
+<dl><dd>Có năm đường chuyền đáng chú ý qua Dãy núi Vàng:</dd></dl>
 
 1. Elornan Cut, con đèo an toàn ở cực bắc, nằm gần đầu nguồn sông Sireshan.
 2. Cầu thang Pel, một hẻm núi phủ đầy sương mù dễ bị lở đá, nằm giữa Mirëdor và Pel.

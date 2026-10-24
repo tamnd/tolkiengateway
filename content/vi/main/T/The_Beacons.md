@@ -50,7 +50,7 @@ Borlas, một người lính của Gondor, được cảnh báo: đèn hiệu đ
 <td>Raphael Coudert
 </td></tr>
 <tr>
-<td>Gondor mối hàn 2</td>
+<td>Gondor solder 2</td>
 <td>David Juillard
 </td></tr>
 <tr>
@@ -62,11 +62,11 @@ Borlas, một người lính của Gondor, được cảnh báo: đèn hiệu đ
 <td>André-Paul Dalais AKA Dédé
 </td></tr>
 <tr>
-<td>Gondor mối hàn 3</td>
+<td>Gondor solder 3</td>
 <td>
 </td></tr>
 <tr>
-<td>Gondor mối hàn 4</td>
+<td>Gondor solder 4</td>
 <td>
 </td></tr>
 <tr>

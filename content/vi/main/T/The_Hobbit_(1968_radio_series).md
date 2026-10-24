@@ -86,7 +86,7 @@ Bilbo, một [hobbit](../H/Hobbits.md) ở nhà, được [phù thủy](../W/Wiz
 <td><a href="../_/27_October.md" title="27 October">27 October</a>, 1968
 </td></tr>
 <tr>
-<td>A Warm Welcome</td>
+<td>Lời chào đón nồng hậu</td>
 <td><a href="../_/3_November.md" title="3 November">3 November</a>, 1968
 </td></tr>
 <tr>
@@ -153,7 +153,7 @@ Mặc dù kịch bản gần giống với tiểu thuyết gốc, Kilgariff vẫ
 </td></tr>
 <tr>
 <td>Betty Hardy</td>
-<td>Spider
+<td>Nhện
 </td></tr>
 <tr>
 <td><a href="../D/Denys_Hawthorne.md" title="Denys Hawthorne">Denys Hawthorne</a></td>
@@ -173,7 +173,7 @@ Mặc dù kịch bản gần giống với tiểu thuyết gốc, Kilgariff vẫ
 </td></tr>
 <tr>
 <td>Hilda Kriseman</td>
-<td>Spider
+<td>Nhện
 </td></tr>
 <tr>
 <td>Rolf Lefebvre</td>

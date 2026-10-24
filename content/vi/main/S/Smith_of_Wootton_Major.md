@@ -65,7 +65,7 @@ infobox:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>câu chuyện</b>. Đối với bài tiểu luận cùng tên, xem <b><a href="Smith_of_Wootton_Major_essay.md" title="Smith of Wootton Major essay">Bài luận Smith of Wootton Major</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Wootton_Major_1967.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/Wootton_Major_1967.png/320px-Wootton_Major_1967.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a1/Wootton_Major_1967.png 1.5x" data-file-width="353" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Smith of Wootton Major</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a> (ấn bản 2005)</td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data"><a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/9_November.md" title="9 November">9 November</a> <a href="../_/1967.md" title="1967">1967</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng; bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">62</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048231215" title="Special:BookSources/0048231215">0048231215</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Wootton_Major_1967.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/Wootton_Major_1967.png/320px-Wootton_Major_1967.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a1/Wootton_Major_1967.png 1.5x" data-file-width="353" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Thợ rèn ở Wootton Major</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a> (ấn bản 2005)</td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data"><a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen and Unwin</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/9_November.md" title="9 November">9 November</a> <a href="../_/1967.md" title="1967">1967</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng; bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">62</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048231215" title="Special:BookSources/0048231215">0048231215</a></td></tr></tbody></table>
 
 <i><b>Smith of Wootton Major</b></i> là một truyện ngắn được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), xuất bản lần đầu trên tạp chí [1967](../_/1967.md).
 
@@ -101,7 +101,7 @@ Vào [26 tháng 2](../_/26_February.md) [2015](../_/2015.md), ấn bản mở r�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/W/Wootton_Major_1967.png.md" title="1967 hardcover"><img alt="1967 hardcover" src="https://tolkiengateway.net/w/images/thumb/a/a1/Wootton_Major_1967.png/88px-Wootton_Major_1967.png" decoding="async" loading="lazy" width="88" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/Wootton_Major_1967.png/133px-Wootton_Major_1967.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/Wootton_Major_1967.png/176px-Wootton_Major_1967.png 2x" data-file-width="353" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1967
+<p>1967 hardcover
 </p>
 			</div>
 		</li>
@@ -115,21 +115,21 @@ Vào [26 tháng 2](../_/26_February.md) [2015](../_/2015.md), ấn bản mở r�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/W/Wootton_Major_1975.png.md" title="1975 hardcover"><img alt="1975 hardcover" src="https://tolkiengateway.net/w/images/thumb/1/1a/Wootton_Major_1975.png/79px-Wootton_Major_1975.png" decoding="async" loading="lazy" width="79" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1a/Wootton_Major_1975.png/119px-Wootton_Major_1975.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1a/Wootton_Major_1975.png/158px-Wootton_Major_1975.png 2x" data-file-width="316" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1975
+<p>1975 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/W/Wootton_Major_1983.png.md" title="1983 paperback"><img alt="1983 paperback" src="https://tolkiengateway.net/w/images/thumb/d/d8/Wootton_Major_1983.png/77px-Wootton_Major_1983.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d8/Wootton_Major_1983.png/116px-Wootton_Major_1983.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d8/Wootton_Major_1983.png/154px-Wootton_Major_1983.png 2x" data-file-width="308" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm năm 1983
+<p>1983 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/W/Wootton_Major_1990_hardcover.png.md" title="1990 hardcover"><img alt="1990 hardcover" src="https://tolkiengateway.net/w/images/thumb/c/cd/Wootton_Major_1990_hardcover.png/81px-Wootton_Major_1990_hardcover.png" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cd/Wootton_Major_1990_hardcover.png/121px-Wootton_Major_1990_hardcover.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/cd/Wootton_Major_1990_hardcover.png/161px-Wootton_Major_1990_hardcover.png 2x" data-file-width="323" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1990
+<p>1990 hardcover
 </p>
 			</div>
 		</li>
@@ -154,14 +154,14 @@ Vào [26 tháng 2](../_/26_February.md) [2015](../_/2015.md), ấn bản mở r�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Smith_of_Wootton_Major_(edited_by_Verlyn_Flieger).jpg.md" title="2005 hardcover"><img alt="2005 hardcover" src="https://tolkiengateway.net/w/images/thumb/0/08/Smith_of_Wootton_Major_%28edited_by_Verlyn_Flieger%29.jpg/77px-Smith_of_Wootton_Major_%28edited_by_Verlyn_Flieger%29.jpg" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/08/Smith_of_Wootton_Major_%28edited_by_Verlyn_Flieger%29.jpg/115px-Smith_of_Wootton_Major_%28edited_by_Verlyn_Flieger%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/08/Smith_of_Wootton_Major_%28edited_by_Verlyn_Flieger%29.jpg/154px-Smith_of_Wootton_Major_%28edited_by_Verlyn_Flieger%29.jpg 2x" data-file-width="307" data-file-height="499"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2005
+<p>2005 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/W/Wootton_Major_2015.jpeg.md" title="2015 hardcover"><img alt="2015 hardcover" src="https://tolkiengateway.net/w/images/thumb/a/a2/Wootton_Major_2015.jpeg/90px-Wootton_Major_2015.jpeg" decoding="async" loading="lazy" width="90" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a2/Wootton_Major_2015.jpeg/135px-Wootton_Major_2015.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a2/Wootton_Major_2015.jpeg/180px-Wootton_Major_2015.jpeg 2x" data-file-width="500" data-file-height="695"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2015
+<p>2015 hardcover
 </p>
 			</div>
 		</li>

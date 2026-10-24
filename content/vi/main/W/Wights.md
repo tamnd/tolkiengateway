@@ -32,15 +32,15 @@ Nhiều tác phẩm viễn tưởng giả tưởng, trò chơi nhập vai, máy 
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Wights inhabit the graves of Dúnedan nobles, taking their power from a buried lord. Gaming statistics are given for minor, lesser, and major Wights.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Các xác sống sống trong ngôi mộ của các quý tộc Dúnedan, lấy quyền lực từ một lãnh chúa bị chôn vùi. Số liệu thống kê về trò chơi được cung cấp cho các Wight nhỏ, nhỏ hơn và lớn.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
-<dl><dd>Wights (not to be confused with the Barrow-wights appearing in the same game) are one of the three types of <a href="../G/Ghosts.md" title="Ghosts">ghosts</a>. Wights refer to cursed beings, who remain &#34;<i>bound to the will and goals of the one who cursed them</i>&#34; in their after-life. Unlike wraiths and phantoms, wights can possess the remains of other dead people.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
+<dl><dd>Xác sống (đừng nhầm với Barrow-wight xuất hiện trong cùng một trò chơi) là một trong ba loại <a href="../G/Ghosts.md" title="Ghosts">ma</a>. Wights ám chỉ những sinh vật bị nguyền rủa, những người vẫn "<i>bị ràng buộc bởi ý chí và mục tiêu của người đã nguyền rủa họ</i>" ở kiếp sau. Không giống như hồn ma và bóng ma, xác sống có thể chiếm hữu hài cốt của những người đã chết khác.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
 <b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Wights (crypt-wights) are categorized among the creatures called the Dead, &#34;<i>designed to be reminiscent of the wights of the great Barrow-downs in Eriador</i>&#34;.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
+<dl><dd>Các xác sống (crypt-wights) được phân loại vào nhóm sinh vật được gọi là Người chết, "<i>được thiết kế để gợi nhớ đến các xác sống của Barrow-downs vĩ đại trong Eriador</i>".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 

@@ -39,7 +39,7 @@ infobox:
     value: "Images of thrushes"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_When_the_Thrush_Knocks_(II).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg/311px-Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg" decoding="async" loading="lazy" width="311" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg/467px-Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg/622px-Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg 2x" data-file-width="664" data-file-height="1024"/></a><figcaption>&#34;When the Thrush Knocks&#34; by <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a class="mw-redirect" href="../R/Races.md" title="Races">Race</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Thrushes</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Locations</th><td class="tg-infobox-data"><a href="../D/Dale.md" title="Dale">Dale</a><br/><a href="../L/Lake-town.md" title="Lake-town">Lake-town</a><br/><a href="../L/Lonely_Mountain.md" title="Lonely Mountain">The Lonely Mountain</a></td></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Thrush-language&amp;action=edit&amp;redlink=1" title="Thrush-language (page does not exist)">Thrush-language</a></td></tr><tr><th scope="row" class="tg-infobox-label">Members</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Old_thrush&amp;action=edit&amp;redlink=1" title="Old thrush (page does not exist)">Old thrush</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_thrushes.md" title="Category:Images of thrushes">Images of thrushes</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_When_the_Thrush_Knocks_(II).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg/311px-Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg" decoding="async" loading="lazy" width="311" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg/467px-Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg/622px-Ted_Nasmith_-_When_the_Thrush_Knocks_%28II%29.jpg 2x" data-file-width="664" data-file-height="1024"/></a><figcaption>&#34;When the Thrush Knocks&#34; by <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a class="mw-redirect" href="../R/Races.md" title="Races">Chủng tộc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Thrushes</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../D/Dale.md" title="Dale">Dale</a><br/><a href="../L/Lake-town.md" title="Lake-town">Lake-town</a><br/><a href="../L/Lonely_Mountain.md" title="Lonely Mountain">The Lonely Mountain</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Thrush-language&amp;action=edit&amp;redlink=1" title="Thrush-language (page does not exist)">Thrush-language</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thành viên</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Old_thrush&amp;action=edit&amp;redlink=1" title="Old thrush (page does not exist)">Bệnh tưa miệng già</a></td></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_thrushes.md" title="Category:Images of thrushes">Hình ảnh bệnh tưa miệng</a></td></tr></tbody></table>
 
 **Chiên** là loài chim có đốm lớn với niềm yêu thích đặc biệt với ốc sên, chúng loại bỏ vỏ bằng cách đập chúng vào đá. Con chim hét mà [Bilbo Baggins](../B/Bilbo_Baggins.md) và con [Người Lùn](Thorin_and_Company.md) gặp trên [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) có kích thước lớn bất thường và gần như đen với những đốm đen trên ngực màu vàng nhạt.<sup id="cite_ref-Doorstep_1-0" class="reference"><a href="#cite_note-Doorstep-1">[1]</a></sup> [Thorin](Thorin.md) cho biết nó là thành viên của một giống cổ xưa, sống lâu và có phép thuật.<sup id="cite_ref-Inside_2-0" class="reference"><a href="#cite_note-Inside-2">[2]</a></sup>
 
@@ -63,21 +63,21 @@ Trên phiên bản đầu tiên của Bản đồ của Thrór (được [John D
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1977_film)_-_The_Old_Thrush.png.md" title="The Hobbit (1977 film)"><img alt="The Hobbit (1977 film)" src="https://tolkiengateway.net/w/images/thumb/2/23/The_Hobbit_%281977_film%29_-_The_Old_Thrush.png/200px-The_Hobbit_%281977_film%29_-_The_Old_Thrush.png" decoding="async" loading="lazy" width="200" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/The_Hobbit_%281977_film%29_-_The_Old_Thrush.png/299px-The_Hobbit_%281977_film%29_-_The_Old_Thrush.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/The_Hobbit_%281977_film%29_-_The_Old_Thrush.png/399px-The_Hobbit_%281977_film%29_-_The_Old_Thrush.png 2x" data-file-width="959" data-file-height="721"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (1977 film)</a>
+<p><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_Thrush.jpeg.md" title="The Hobbit (comic book)"><img alt="The Hobbit (comic book)" src="https://tolkiengateway.net/w/images/thumb/5/53/David_T._Wenzel_-_Thrush.jpeg/85px-David_T._Wenzel_-_Thrush.jpeg" decoding="async" loading="lazy" width="85" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/53/David_T._Wenzel_-_Thrush.jpeg/128px-David_T._Wenzel_-_Thrush.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/5/53/David_T._Wenzel_-_Thrush.jpeg/170px-David_T._Wenzel_-_Thrush.jpeg 2x" data-file-width="348" data-file-height="612"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (comic book)</a>
+<p><a href="The_Hobbit_(comic_book).md" title="The Hobbit (comic book)"><i>The Hobbit</i> (truyện tranh)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mark_Poole_-_The_Old_Thrush.jpg.md" title="Middle-earth Collectible Card Game"><img alt="Middle-earth Collectible Card Game" src="https://tolkiengateway.net/w/images/thumb/b/b4/Mark_Poole_-_The_Old_Thrush.jpg/176px-Mark_Poole_-_The_Old_Thrush.jpg" decoding="async" loading="lazy" width="176" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b4/Mark_Poole_-_The_Old_Thrush.jpg/263px-Mark_Poole_-_The_Old_Thrush.jpg 1.5x, https://tolkiengateway.net/w/images/b/b4/Mark_Poole_-_The_Old_Thrush.jpg 2x" data-file-width="296" data-file-height="253"/></a></span></div>
 			<div class="gallerytext">
-<p><i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle-earth Collectible Card Game</a></i>
+<p><i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm Trung Địa</a></i>
 </p>
 			</div>
 		</li>
@@ -120,23 +120,23 @@ Trên phiên bản đầu tiên của Bản đồ của Thrór (được [John D
 
 <b>1968: <i><a href="The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)">The Hobbit (loạt phim phát thanh 1968)</a></i>:</b>
 
-<dl><dd>When the thrush informs Bard of Smaug&#39;s weakness, its speech is translated in English with a warbling voice.</dd></dl>
+<dl><dd>Khi con chim hét báo cho Bard điểm yếu của Smaug, giọng nói của nó được dịch sang tiếng Anh với giọng khàn khàn.</dd></dl>
 
 <b>1979: <i><a href="The_Hobbit_(1979_radio_series).md" title="The Hobbit (1979 radio series)">The Hobbit (loạt phim phát thanh 1979)</a></i>:</b>
 
-<dl><dd>Once again, the thrush&#39;s speech is translated into English when he speaks to Bard.</dd></dl>
+<dl><dd>Một lần nữa, lời nói của chim hét được dịch sang tiếng Anh khi nó nói chuyện với Bard.</dd></dl>
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Given gaming statistics, the Thrushes are among Radagast&#39;s principal agents and are friends of the Northmen. The thrush language, which can be learned by Elves and Men but not by Dwarves, is called &#34;Throsel-tunge&#34;.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
+<dl><dd>Dựa trên số liệu thống kê về trò chơi, Thrush là một trong những đặc vụ chính của Radagast và là bạn của Người phương Bắc. Ngôn ngữ của loài chim hét mà Tiên tộc và Con Người có thể học được nhưng Người Lùn thì không, được gọi là "Throsel-tunge".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
 <b>1977: <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit (phim năm 1977)</a></i>:</b>
 
-<dl><dd>The Thrush goes with Bilbo into The Mountain. The Thrush later tells Bard of the dragon&#39;s weakness.</dd></dl>
+<dl><dd>Thrush đi cùng Bilbo vào The Mountain. Sau đó, Thrush kể cho Bard về điểm yếu của con rồng.</dd></dl>
 
 <b>2012-14: <i><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)">The Hobbit (loạt phim)</a></i>:</b>
 
-<dl><dd>Towards the end of <i>An Unexpected Journey</i>, a thrush appears to the Dwarves and it is considered as a sign of hope. The bird flies to the Lonely Mountain and breaks an nut, which wakes Smaug. The same thrush, or another of its species, appears during <i>The Desolation of Smaug</i> where it knocks snails against the gray stone. However, the Thrush does not fly to Lake-town to inform Bard of Smaug&#39;s weakness like in the book, nor is Bard&#39;s family&#39;s ability to understand the Thrush&#39;s language ever addressed.</dd></dl>
+<dl><dd>Đến cuối <i>An Unexpected Journey</i>, một con chim hét xuất hiện ở Người Lùn và được coi là dấu hiệu của hy vọng. Con chim bay đến Ngọn Núi Cô Đơn và làm gãy một chiếc hạt, khiến Smaug thức dậy. Cùng một loài chim hét hoặc một loài khác của nó, xuất hiện trong <i>The Desolation of Smaug</i> khi nó đập ốc sên vào đá xám. Tuy nhiên, Thrush không bay đến Thị trấn Hồ để thông báo cho Bard về điểm yếu của Smaug như trong sách, cũng như khả năng hiểu ngôn ngữ của Thrush của gia đình Bard cũng không được đề cập đến.</dd></dl>
 
 <span></span>
 

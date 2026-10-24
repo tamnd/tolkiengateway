@@ -34,7 +34,7 @@ infobox:
     value: "Roads (instrumental)"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/320px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg" decoding="async" loading="lazy" width="320" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/480px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 1.5x, https://tolkiengateway.net/w/images/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 2x" data-file-width="574" data-file-height="579"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Greatest Adventure</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b><a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">The Hobbit: The Complete Original Soundtrack</a>&#39;</b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../J/Jules_Bass.md" title="Jules Bass">Jules Bass</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data"><a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">1:52</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">22</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../O/Old_Fat_Spider.md" title="Old Fat Spider">Old Fat Spider</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Roads_(instrumental)&amp;action=edit&amp;redlink=1" title="Roads (instrumental) (page does not exist)">Roads (instrumental)</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/mdQ1E3t3Qq0"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/320px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg" decoding="async" loading="lazy" width="320" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg/480px-The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 1.5x, https://tolkiengateway.net/w/images/1/18/The_Hobbit_The_Complete_Original_Soundtrack_-_cover.jpg 2x" data-file-width="574" data-file-height="579"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Greatest Adventure</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data">&#39;<b><a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">The Hobbit: The Complete Original Soundtrack</a>&#39;</b></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../M/Maury_Laws.md" title="Maury Laws">Maury Laws</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/Jules_Bass.md" title="Jules Bass">Jules Bass</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data"><a href="../G/Glenn_Yarbrough.md" title="Glenn Yarbrough">Glenn Yarbrough</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">1:52</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">22</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="../O/Old_Fat_Spider.md" title="Old Fat Spider">Old Fat Spider</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Roads_(instrumental)&amp;action=edit&amp;redlink=1" title="Roads (instrumental) (page does not exist)">Đường (nhạc cụ)</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="youtube" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; fullscreen; gyroscope; picture-in-picture; autoplay" modestbranding="1" allowfullscreen="true" width="288" height="80" src="//www.youtube-nocookie.com/embed/mdQ1E3t3Qq0"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -43,23 +43,23 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Roads go ever, ever on, <br/>
-Over rock and under tree,<br/>
-By caves where never <a href="../S/Sun.md" title="Sun">sun</a> has shown,<br/>
-By streams that never find the sea.<br/>
+<p>Những con đường cứ đi mãi, <br/>
+Trên đá và dưới gốc cây,<br/>
+Bởi những hang động nơi <a href="../S/Sun.md" title="Sun">mặt trời</a> chưa bao giờ ló dạng,<br/>
+Bởi những dòng suối không bao giờ tìm ra biển.<br/>
 <br/>
-Roads go ever, ever on,<br/>
-Under cloud and under <a href="../S/Stars.md" title="Stars">star</a>,<br/>
-Yet feet that wandering have gone<br/>
-Will turn at last to home afar.<br/>
-Over snow by winter sown,<br/>
-And through the merry flowers of June,<br/>
-Over grass and over stone,<br/>
-Under the mountains in <a href="../M/Moon.md" title="Moon">the moon</a>.<br/>
+Những con đường cứ đi mãi,<br/>
+Dưới đám mây và dưới <a href="../S/Stars.md" title="Stars">ngôi sao</a>,<br/>
+Vậy mà đôi chân lang thang đã đi<br/>
+Cuối cùng sẽ quay về nhà xa.<br/>
+Trên tuyết bởi mùa đông gieo hạt,<br/>
+Và qua những bông hoa vui vẻ của tháng Sáu,<br/>
+Trên cỏ và trên đá,<br/>
+Dưới những ngọn núi <a href="../M/Moon.md" title="Moon">trăng</a>.<br/>
 <br/>
-Roads go ever, ever on, <br/>
-Over rock and under tree,<br/>
-By caves where never sun has shown,<br/>
-By streams that never find the sea.
+Những con đường cứ đi mãi, <br/>
+Trên đá và dưới gốc cây,<br/>
+Bởi những hang động nơi mặt trời chưa bao giờ ló dạng,<br/>
+Bởi những dòng suối không bao giờ tìm thấy biển.
 </p>
 </div>

@@ -25,7 +25,7 @@ sort_keys:
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td></td><td><div class="tg-seq-title">Hannah McDonald</div></td><td></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../D/Daniel_Helen.md" title="Daniel Helen">Daniel Helen</a></div></td><td width="45%"><div class="tg-seq-value">Chủ tịch thứ 12 của <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></div><div class="tg-seq-label">23 September 2025 - Present</div></td><td width="27.5%"><div class="tg-seq-value">Incumbent</div><div class="tg-seq-label"></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../D/Daniel_Helen.md" title="Daniel Helen">Daniel Helen</a></div></td><td width="45%"><div class="tg-seq-value">12th Chair of <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></div><div class="tg-seq-label">23 September 2025 - Present</div></td><td width="27.5%"><div class="tg-seq-value">Incumbent</div><div class="tg-seq-label"></div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

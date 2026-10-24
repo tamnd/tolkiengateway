@@ -32,7 +32,7 @@ His focus on teaching has adversely affected his research output.<sup id="cite_r
 W. A. Craigie đã từ chức [Rawlinson và Bosworth Giáo sư của Anglo-Saxon](../R/Rawlinson_and_Bosworth_Professorship_of_Anglo-Saxon.md) tại Trường Anh ngữ Oxford và Tolkien đã viết một lá thư bày tỏ mong muốn quay trở lại đó.<sup id="cite_ref-L7_2-3" class="reference"><a href="#cite_note-L7-2">[2]</a></sup> Tolkien rời Leeds [một cách đột ngột](../L/Letter_8.md) vào [1925](../_/1925.md) khi ông được bầu vào chức vụ Giáo sư, do đó ông thực sự đảm nhiệm cả hai chức vụ cùng một lúc trong suốt thời gian làm việc [1926](../_/1926.md).<sup id="cite_ref-L46_3-3" class="reference"><a href="#cite_note-L46-3">[3]</a></sup> Suy nghĩ về thời gian ở Leeds trong một lá thư sau đó, Tolkien bác bỏ ý kiến cho rằng anh không tận hưởng được thời gian ở đó:
 
 <blockquote class="tg-quote noexcerpt">
-<p>I was devoted to the University of Leeds, which was very good to me, and to the students, whom I left with regret. The present students are among my most attentive readers...<sup id="cite_ref-L229_10-0" class="reference"><a href="#cite_note-L229-10">[10]</a></sup>
+<p>Tôi đã cống hiến hết mình cho Đại học Leeds, ngôi trường rất tốt đối với tôi và với những sinh viên mà tôi đã ra đi trong tiếc nuối. Các sinh viên hiện tại là một trong những độc giả chăm chú nhất của tôi...<sup id="cite_ref-L229_10-0" class="reference"><a href="#cite_note-L229-10">[10]</a></sup>
 </p>
 </blockquote>
 

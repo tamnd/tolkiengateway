@@ -59,9 +59,9 @@ Sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), người N�
 Trong [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md), Vua [Ondoher](../O/Ondoher.md) trong số Gondor đã thiệt mạng cùng các con trai và chỉ còn lại con gái [Fíriel](../F/Fíriel.md) của ông sống sót. Chồng cô [Arvedui](../A/Arvedui.md), người thừa kế ngai vàng của [Arthedain](../A/Arthedain.md), đã viết hai lá thư cho Gondor để yêu cầu giành lấy vương miện của nó. Một phần khiếu nại của ông dựa trên luật Númenórean:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>In Númenor of old the sceptre descended to the eldest child of the king, whether man or woman. It is true that the law has not been observed in the lands of exile ever troubled by war; but such was the law of our people, to which we now refer, seeing that the sons of Ondoher died childless.
+<p>Vào Númenor xưa, vương trượng được truyền cho con cả của nhà vua, dù là nam hay nữ. Đúng là luật pháp đã không được tuân thủ ở những vùng đất lưu vong từng gặp rắc rối bởi chiến tranh; nhưng đó là luật lệ của dân tộc chúng tôi mà bây giờ chúng tôi đề cập đến, vì các con trai của Ondoher đều chết không con.
 </p>
-<p class="tg-quote-footer"><cite>from Arvedui&#39;s second letter to the Council of Gondor</cite></p>
+<p class="tg-quote-footer"><cite>từ lá thư thứ hai của Arvedui gửi đến Hội đồng Gondor</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Gondor không trả lời lá thư thứ hai của Arvedui. Với việc Người quản lý [Pelendur](../P/Pelendur.md) và Hội đồng Gondor đã từ chối yêu cầu của Arvedui, [Eärnil II](../E/Eärnil_II.md) đã đưa ra yêu cầu của mình. Eärnil là Đội trưởng Quân đoàn miền Nam của Gondor và vừa giành được chiến thắng vang dội trước quân [Wainriders](../W/Wainriders.md). Hơn nữa, ông ta còn là hậu duệ thế hệ thứ tư của Vua [Telumehtar Umbardacil](../T/Telumehtar_Umbardacil.md) thuộc dòng dõi nam. Vương miện đã được trao cho ông ta với sự chấp thuận của tất cả Dúnedain Gondor. Bản thân Eärnil dường như coi việc gia nhập của mình là hoàn toàn hợp pháp, vì ông ta đã gửi lời tới Arvedui rằng ông ta đã "nhận được vương miện của Gondor, theo luật pháp và nhu cầu của vương quốc miền Nam."<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>

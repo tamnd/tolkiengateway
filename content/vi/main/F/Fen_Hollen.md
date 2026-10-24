@@ -41,7 +41,7 @@ Vào khoảng thời gian [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md), [B
 
 <b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Fen Hollen is closed in the pre-battle version of Minas Tirith. After the battle, the door is opened to the Silent Street for the mourning.</dd></dl>
+<dl><dd>Fen Hollen bị đóng trong phiên bản trước trận chiến của Minas Tirith. Sau trận chiến, cánh cửa dẫn vào Phố Im lặng để tang được mở ra.</dd></dl>
 
 <span></span>
 

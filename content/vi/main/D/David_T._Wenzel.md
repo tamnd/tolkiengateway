@@ -20,7 +20,7 @@ images:
   - "David_T._Wenzel_-_David_Wenzel.jpg"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_David_Wenzel.jpg.md"><img src="https://tolkiengateway.net/w/images/f/fc/David_T._Wenzel_-_David_Wenzel.jpg" decoding="async" loading="lazy" width="250" height="243" class="mw-file-element" data-file-width="250" data-file-height="243"/></a><figcaption>Chân dung tự họa của David Wenzel</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_David_Wenzel.jpg.md"><img src="https://tolkiengateway.net/w/images/f/fc/David_T._Wenzel_-_David_Wenzel.jpg" decoding="async" loading="lazy" width="250" height="243" class="mw-file-element" data-file-width="250" data-file-height="243"/></a><figcaption>David Wenzel self-portrait</figcaption></figure>
 
 **David Thorn Wenzel** là một họa sĩ minh họa truyện tranh và sách thiếu nhi người Mỹ. Có lẽ ông được biết đến nhiều nhất nhờ phiên bản tiểu thuyết đồ họa của mình về *[The Hobbit](<../T/The_Hobbit_(comic_book).md>)*.
 

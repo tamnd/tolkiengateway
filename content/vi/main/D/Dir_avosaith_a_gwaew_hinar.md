@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright">
   <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
-  <tr><th colspan="2" class="tg-infobox-title"><span>"<i>Dir avosaith a gwaew hinar</i>"</span></th></tr>
+  <tr><th colspan="2" class="tg-infobox-title"><span>&#34;<i>Dir avosaith a gwaew hinar</i>&#34;</span></th></tr>
   <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
   <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Autumn of <a href="../_/1931.md" title="1931">1931</a></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="../T/The_Monsters_and_the_Critics,_and_Other_Essays.md" title="The Monsters and the Critics, and Other Essays">The Monsters and the Critics, and Other Essays</a></i>,<br/><i><a href="../A/A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md" title="A Secret Vice: Tolkien on Invented Languages">A Secret Vice: Tolkien on Invented Languages</a></i>,<br/><i><a href="../T/The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i></td></tr>

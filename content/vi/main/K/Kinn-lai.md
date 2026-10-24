@@ -21,7 +21,7 @@ infobox:
     value: "Immortal"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Kinn-lai</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data">one of the many <a href="../A/Avarin.md" title="Avarin">Avarin</a> languages</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data">Immortal</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Nhân vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Kinn-lai</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin chung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">một trong nhiều ngôn ngữ <a href="../A/Avarin.md" title="Avarin">Avarin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tuổi thọ</th><td class="tg-infobox-data">Bất tử</td></tr></tbody></table>
 
 **Kinn-Lai** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả chính họ. Không biết tên "Kinn-Lai" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari.
 
@@ -41,7 +41,7 @@ infobox:
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd><i>Kinn-lai</i>, an articulation of &#34;Quendi&#34; (the most ancient name of the Elves), is also the name of a tribe of Avari Elves of the jungles of the <a href="../M/Mûmakan.md" title="Mûmakan">Mûmakan</a> in the Utter South of Middle-earth.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd><i>Kinn-lai</i>, một cách phát âm của "Quendi" (tên cổ xưa nhất của Tiên tộc), cũng là tên của một bộ tộc Avari Tiên tộc trong khu rừng rậm của <a href="../M/Mûmakan.md" title="Mûmakan">Mûmakan</a> ở miền Nam Utter của Trung Địa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 <b>2024: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 

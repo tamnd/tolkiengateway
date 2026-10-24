@@ -53,17 +53,17 @@ images:
 <dl><dd><dl><dd>[<a class="mw-selflink selflink">Author&#39;s Note</a>]<br/></dd></dl></dd></dl>
 <ol><li><a href="../A/An_Unexpected_Party.md" title="An Unexpected Party">Cuộc gặp gỡ bất ngờ</a></li>
 <li><a href="../R/Roast_Mutton.md" title="Roast Mutton">Roast Mutton</a></li>
-<li><a href="../A/A_Short_Rest.md" title="A Short Rest">A Short Rest</a></li>
+<li><a href="../A/A_Short_Rest.md" title="A Short Rest">Một kỳ nghỉ ngắn</a></li>
 <li><a href="../O/Over_Hill_and_Under_Hill.md" title="Over Hill and Under Hill">Qua đồi và dưới đồi</a></li>
 <li><a href="../R/Riddles_in_the_Dark.md" title="Riddles in the Dark">Những câu đố trong bóng tối</a></li>
 <li><a href="../O/Out_of_the_Frying-Pan_into_the_Fire.md" title="Out of the Frying-Pan into the Fire">Từ chảo rán vào lửa</a></li>
-<li><a href="../Q/Queer_Lodgings.md" title="Queer Lodgings">Queer Lodgings</a></li>
+<li><a href="../Q/Queer_Lodgings.md" title="Queer Lodgings">Chỗ trọ kỳ lạ</a></li>
 <li><a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Ruồi và nhện</a></li>
-<li><a href="../B/Barrels_Out_of_Bond.md" title="Barrels Out of Bond">Barrels Out of Bond</a></li>
-<li><a href="../A/A_Warm_Welcome.md" title="A Warm Welcome">A Warm Welcome</a></li>
+<li><a href="../B/Barrels_Out_of_Bond.md" title="Barrels Out of Bond">Những thùng hàng được giải phóng</a></li>
+<li><a href="../A/A_Warm_Welcome.md" title="A Warm Welcome">Lời chào đón nồng hậu</a></li>
 <li><a href="../O/On_the_Doorstep.md" title="On the Doorstep">On the Doorstep</a></li>
 <li><a href="../I/Inside_Information.md" title="Inside Information">Thông tin nội bộ</a></li>
-<li><a href="../N/Not_at_Home.md" title="Not at Home">Not at Home</a></li>
+<li><a href="../N/Not_at_Home.md" title="Not at Home">Không có nhà</a></li>
 <li><a href="../F/Fire_and_Water.md" title="Fire and Water">Lửa và Nước</a></li>
 <li><a href="The_Gathering_of_the_Clouds.md" title="The Gathering of the Clouds">Mây tụ</a></li>
 <li><a href="../A/A_Thief_in_the_Night.md" title="A Thief in the Night">Tên trộm trong đêm</a></li>

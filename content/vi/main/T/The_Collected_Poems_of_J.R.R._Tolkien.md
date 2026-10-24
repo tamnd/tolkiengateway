@@ -162,7 +162,7 @@ Cuốn sách chứa "ít nhất 240 bài thơ riêng biệt, tùy thuộc vào c
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Henry_Bradley,_3_Dec.,_1845-23_May,_1923&amp;action=edit&amp;redlink=1" title="Henry Bradley, 3 Dec., 1845-23 May, 1923 (page does not exist)">Úþwita Sceal Ealdgesægenum</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Moonshine:_Verses_in_a_Medieval_Measure&amp;action=edit&amp;redlink=1" title="Moonshine: Verses in a Medieval Measure (page does not exist)">Moonshine</a></li>
 <li><a href="The_Song_of_Ælfwine.md" title="The Song of Ælfwine">The Nameless Land · The Song of Ælfwine</a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lines_Composed_in_a_Village_Inn_on_an_Evening_of_Extraordinary_Liquid_Beauty&amp;action=edit&amp;redlink=1" title="Lines Composed in a Village Inn on an Evening of Extraordinary Liquid Beauty (page does not exist)">Ave atque Vale · Những dòng sáng tác trong một buổi tối · Những dòng sáng tác trong một quán trọ làng</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lines_Composed_in_a_Village_Inn_on_an_Evening_of_Extraordinary_Liquid_Beauty&amp;action=edit&amp;redlink=1" title="Lines Composed in a Village Inn on an Evening of Extraordinary Liquid Beauty (page does not exist)">Ave atque Vale · Lines Composed on an Evening · Lines Composed in a Village Inn</a></li>
 <li><a href="../F/From_One_to_Five.md" title="From One to Five">From One to Five</a></li>
 <li><a href="../R/Ruddoc_Hana.md" title="Ruddoc Hana">Ruddoc Hana</a></li>
 <li><a href="../I/Ides_Ælfscýne.md" title="Ides Ælfscýne">Ides Ælfscýne</a></li>
@@ -183,7 +183,7 @@ Cuốn sách chứa "ít nhất 240 bài thơ riêng biệt, tùy thuộc vào c
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Shadowland&amp;action=edit&amp;redlink=1" title="Shadowland (page does not exist)">Shadowland</a></li>
 <li><a href="The_Mewlips.md" title="The Mewlips">Knocking at the Door · The Mewlips</a></li>
 <li><a href="../F/Fastitocalon_(poem).md" title="Fastitocalon (poem)">Fastitocalon</a></li>
-<li><a href="../A/Adventures_in_Unnatural_History_and_Medieval_Metres,_being_the_Freaks_of_Fisiologus.md" title="Adventures in Unnatural History and Medieval Metres, being the Freaks of Fisiologus">Iumbo, hay Ye Kinde of ye Oliphaunt</a></li>
+<li><a href="../A/Adventures_in_Unnatural_History_and_Medieval_Metres,_being_the_Freaks_of_Fisiologus.md" title="Adventures in Unnatural History and Medieval Metres, being the Freaks of Fisiologus">Iumbo, or Ye Kinde of ye Oliphaunt</a></li>
 <li><a href="../S/Syx_Mynet.md" title="Syx Mynet">Syx Mynet</a></li>
 <li><a href="../L/La,_Huru.md" title="La, Huru">Lá, Húru</a></li>
 <li><a href="../N/Natura_Apis%253A_Morali_Ricardi_Eremite.md" title="Natura Apis: Morali Ricardi Eremite">Natura Apis: Morali Ricardi Eremite</a></li>
@@ -214,7 +214,7 @@ Cuốn sách chứa "ít nhất 240 bài thơ riêng biệt, tùy thuộc vào c
 <li><a href="../_/Éarendel_at_the_Helm.md" title="Éarendel at the Helm">Earendel · Earendel at the Helm</a></li>
 <li><a href="../D/Dir_avosaith_a_gwaew_hinar.md" title="Dir avosaith a gwaew hinar">Dir Avosaith a Gwaew Hinar</a></li>
 <li><a href="The_Last_of_the_Old_Gods.md" title="The Last of the Old Gods">The Last of the Old Gods</a></li>
-<li><a href="../B/Bilbo&#39;s_Last_Song_(at_the_Grey_Havens).md" title="Bilbo&#39;s Last Song (at the Grey Havens)">Vestr um Haf · Bài hát cuối cùng của Bilbo(tại Cảng Xám)</a></li>
+<li><a href="../B/Bilbo&#39;s_Last_Song_(at_the_Grey_Havens).md" title="Bilbo&#39;s Last Song (at the Grey Havens)">Vestr um Haf · Bilbo&#39;s Last Song (at the Grey Havens)</a></li>
 <li><a href="../E/Errantry.md" title="Errantry">Errantry ·</a> <a class="mw-redirect" href="../E/Eärendil_was_a_mariner.md" title="Eärendil was a mariner">Eärendil Was a Mariner · The Short Lay of Earendel: Earendillínwë</a></li>
 <li><a href="The_Homecoming_of_Beorhtnoth_Beorhthelm&#39;s_Son.md" title="The Homecoming of Beorhtnoth Beorhthelm&#39;s Son">The Homecoming of Beorhtnoth Beorhthelm&#39;s Son</a><br/><br/></li></ol>
 </div>
@@ -275,10 +275,10 @@ Cuốn sách chứa "ít nhất 240 bài thơ riêng biệt, tùy thuộc vào c
 <li><a href="../O/Oath_of_Fëanor.md" title="Oath of Fëanor">Be He Foe or Friend, Be He Foul or Clean</a></li>
 <li><a href="../S/Scatha_the_Worm.md" title="Scatha the Worm">Scatha the Worm</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Wilt_thou_learn_the_lore&amp;action=edit&amp;redlink=1" title="Wilt thou learn the lore (page does not exist)">Wilt Thou Learn the Lore</a></li>
-<li><a href="../C/Cat_(poem).md" title="Cat (poem)">Cat</a></li>
+<li><a href="../C/Cat_(poem).md" title="Cat (poem)">Mèo</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=You_Walk_on_Grass&amp;action=edit&amp;redlink=1" title="You Walk on Grass (page does not exist)">You Walk on Grass</a></li>
 <li><a href="../W/When_winter_first_begins_to_bite.md" title="When winter first begins to bite">The Wind So Whirled a Weathercock</a></li>
-<li><a href="Twenty_years_have_flowed_away_down_the_long_river.md" title="Twenty years have flowed away down the long river">Yénion Yukainen Nunn’ ar Anduine Lútie Loar! · Loä Yukainen với Anduinë Sí Valútier</a></li>
+<li><a href="Twenty_years_have_flowed_away_down_the_long_river.md" title="Twenty years have flowed away down the long river">Yénion Yukainen Nunn’ ar Anduine Lútie Loar! · Loä Yukainen avar Anduinë Sí Valútier</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=To_the_University_of_Oxford&amp;action=edit&amp;redlink=1" title="To the University of Oxford (page does not exist)">To the University of Oxford</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Utch!_A_Gardener%27s_Secrets&amp;action=edit&amp;redlink=1" title="Utch! A Gardener&#39;s Secrets (page does not exist)">Gardeners’ Secrets · Utch! A Gardener’s Secrets</a></li>
 <li><a href="The_Complaint_of_Mîm_the_Dwarf.md" title="The Complaint of Mîm the Dwarf">The Complaint of Mîm the Dwarf</a></li>
@@ -299,7 +299,7 @@ Cuốn sách chứa "ít nhất 240 bài thơ riêng biệt, tùy thuộc vào c
 <li>Appendix V. <a href="../B/Bealuwérig.md" title="Bealuwérig">Bealuwérig</a></li>
 <li>Glossary</li>
 <li>Bibliography</li>
-<li>Index</li></ul>
+<li>Mục lục</li></ul>
 </div>
 </td></tr></tbody></table>
 

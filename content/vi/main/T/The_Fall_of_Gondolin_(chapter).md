@@ -49,8 +49,8 @@ images:
 <li><a href="Turambar_and_the_Foalókë.md" title="Turambar and the Foalókë">Turambar and the Foalókë</a></li>
 <li><a class="mw-selflink selflink">The Fall of Gondolin</a></li>
 <li><a href="The_Nauglafring.md" title="The Nauglafring">The Nauglafring</a></li>
-<li><a href="The_Tale_of_Eärendel.md" title="The Tale of Eärendel">The Tale of Eärendel</a></li>
-<li><a href="The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">The History of Eriol or Ælfwine</a></li></ol>
+<li><a href="The_Tale_of_Eärendel.md" title="The Tale of Eärendel">Truyện kể về Eärendel</a></li>
+<li><a href="The_History_of_Eriol_or_Ælfwine_and_the_End_of_the_Tales.md" title="The History of Eriol or Ælfwine and the End of the Tales">Lịch sử của Eriol hay Ælfwine</a></li></ol>
 </td></tr></tbody></table>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Fall_of_Gondolin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a5/J.R.R._Tolkien_-_The_Fall_of_Gondolin.jpg/250px-J.R.R._Tolkien_-_The_Fall_of_Gondolin.jpg" decoding="async" loading="lazy" width="250" height="318" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a5/J.R.R._Tolkien_-_The_Fall_of_Gondolin.jpg/375px-J.R.R._Tolkien_-_The_Fall_of_Gondolin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a5/J.R.R._Tolkien_-_The_Fall_of_Gondolin.jpg/500px-J.R.R._Tolkien_-_The_Fall_of_Gondolin.jpg 2x" data-file-width="822" data-file-height="1047"/></a><figcaption>Một trang từ bản thảo phiên bản đầu tiên</figcaption></figure>

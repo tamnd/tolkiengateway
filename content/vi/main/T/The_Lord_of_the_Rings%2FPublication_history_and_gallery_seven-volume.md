@@ -58,28 +58,28 @@ Năm 1999, HarperCollins phát hành "Ấn bản Thiên niên kỷ" của *The L
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_SV_1999.jpeg.md" title="1999 hardcover boxed set"><img alt="1999 hardcover boxed set" src="https://tolkiengateway.net/w/images/thumb/0/0e/The_Lord_of_the_Rings_SV_1999.jpeg/125px-The_Lord_of_the_Rings_SV_1999.jpeg" decoding="async" loading="lazy" width="125" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0e/The_Lord_of_the_Rings_SV_1999.jpeg/188px-The_Lord_of_the_Rings_SV_1999.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0e/The_Lord_of_the_Rings_SV_1999.jpeg/250px-The_Lord_of_the_Rings_SV_1999.jpeg 2x" data-file-width="1080" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>1999 hardcover boxed set
+<p>Bộ hộp bìa cứng 1999
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_SV_2000.jpg.md" title="2000 paperback boxed set"><img alt="2000 paperback boxed set" src="https://tolkiengateway.net/w/images/thumb/8/8d/The_Lord_of_the_Rings_SV_2000.jpg/90px-The_Lord_of_the_Rings_SV_2000.jpg" decoding="async" loading="lazy" width="90" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8d/The_Lord_of_the_Rings_SV_2000.jpg/135px-The_Lord_of_the_Rings_SV_2000.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8d/The_Lord_of_the_Rings_SV_2000.jpg/180px-The_Lord_of_the_Rings_SV_2000.jpg 2x" data-file-width="360" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>2000 paperback boxed set
+<p>Bộ đóng hộp bìa mềm 2000
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_SV_2001.jpg.md" title="2001 paperback boxed set"><img alt="2001 paperback boxed set" src="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_SV_2001.jpg/91px-The_Lord_of_the_Rings_SV_2001.jpg" decoding="async" loading="lazy" width="91" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_SV_2001.jpg/138px-The_Lord_of_the_Rings_SV_2001.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f7/The_Lord_of_the_Rings_SV_2001.jpg/183px-The_Lord_of_the_Rings_SV_2001.jpg 2x" data-file-width="348" data-file-height="475"/></a></span></div>
 			<div class="gallerytext">
-<p>2001 paperback boxed set
+<p>Bộ đóng hộp bìa mềm năm 2001
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_SV_2012.jpeg.md" title="2012 paperback boxed set"><img alt="2012 paperback boxed set" src="https://tolkiengateway.net/w/images/thumb/b/b9/The_Lord_of_the_Rings_SV_2012.jpeg/95px-The_Lord_of_the_Rings_SV_2012.jpeg" decoding="async" loading="lazy" width="95" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/The_Lord_of_the_Rings_SV_2012.jpeg/143px-The_Lord_of_the_Rings_SV_2012.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/The_Lord_of_the_Rings_SV_2012.jpeg/190px-The_Lord_of_the_Rings_SV_2012.jpeg 2x" data-file-width="380" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>2012 paperback boxed set
+<p>Bộ đóng hộp bìa mềm 2012
 </p>
 			</div>
 		</li>

@@ -15,7 +15,7 @@ images:
   - "United_Artists_logo.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/U/United_Artists_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/08/United_Artists_logo.png/175px-United_Artists_logo.png" decoding="async" loading="lazy" width="175" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/08/United_Artists_logo.png/263px-United_Artists_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/08/United_Artists_logo.png/350px-United_Artists_logo.png 2x" data-file-width="503" data-file-height="410"/></a><figcaption>Last logo of United Artists</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/U/United_Artists_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/08/United_Artists_logo.png/175px-United_Artists_logo.png" decoding="async" loading="lazy" width="175" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/08/United_Artists_logo.png/263px-United_Artists_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/08/United_Artists_logo.png/350px-United_Artists_logo.png 2x" data-file-width="503" data-file-height="410"/></a><figcaption>Logo cuối cùng của United Artists</figcaption></figure>
 
 **United Artists** là một hãng phim Mỹ và là công ty con của [MGM](../M/MGM.md).
 

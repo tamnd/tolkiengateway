@@ -63,7 +63,7 @@ images:
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Composer</th>
+<th>Nhà soạn nhạc</th>
 <th>Piece</th>
 <th>Matrix Runout
 </th>

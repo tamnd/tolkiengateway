@@ -72,7 +72,7 @@ infobox:
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/B/Beor.mp3.md" title="File:Beor.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/B/Beor.mp3.md" title="File:Beor.mp3">Tệp:Beor.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/B/Beor.mp3.md" title="File:Beor.mp3">File:Beor.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -142,5 +142,5 @@ Trong *Grey Annals* bản cũ, Bëor sinh vào năm 370 [F.A.](../F/First_Age.md
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td><div class="tg-seq-label">Sinh</div><div class="tg-seq-value"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_262.md" title="First Age 262">262</a></div></td><td><div class="tg-seq-title">Bëor</div><div class="tg-seq-label"><a href="../H/House_of_Bëor.md" title="House of Bëor">Nhà Bëor</a></div></td><td><div class="tg-seq-label">Qua đời</div><div class="tg-seq-value"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_355.md" title="First Age 355">355</a></div></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-value">Không có</div><div class="tg-seq-label">Chức vụ mới</div></td><td width="45%"><div class="tg-seq-value">Người đứng đầu thứ nhất của <a href="../H/House_of_Bëor.md" title="House of Bëor">Nhà Bëor</a></div><div class="tg-seq-label">Unknown - <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_311.md" title="First Age 311">311</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="Baran.md" title="Baran">Baran</a></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-value">Không có</div><div class="tg-seq-label">Chức vụ mới</div></td><td width="45%"><div class="tg-seq-value">1st Head of the <a href="../H/House_of_Bëor.md" title="House of Bëor">House of Bëor</a></div><div class="tg-seq-label">Unknown - <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_311.md" title="First Age 311">311</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="Baran.md" title="Baran">Baran</a></div></td></tr>
 </tbody></table></div>

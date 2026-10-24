@@ -19,7 +19,7 @@ images:
   - "The_Tolkien_Collector_27.jpg"
 ---
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Collector_27.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/The_Tolkien_Collector_27.jpg/250px-The_Tolkien_Collector_27.jpg" decoding="async" loading="lazy" width="250" height="361" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b4/The_Tolkien_Collector_27.jpg 1.5x" data-file-width="355" data-file-height="513"/></a><figcaption>Cover of issue 27</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Tolkien_Collector_27.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/The_Tolkien_Collector_27.jpg/250px-The_Tolkien_Collector_27.jpg" decoding="async" loading="lazy" width="250" height="361" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b4/The_Tolkien_Collector_27.jpg 1.5x" data-file-width="355" data-file-height="513"/></a><figcaption>Bìa số 27</figcaption></figure>
 
 **The Tolkien Collector** là tạp chí dành cho những người sưu tập [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Tạp chí được biên tập bởi [Christina Scull](../C/Christina_Scull.md) và [Wayne Hammond](../W/Wayne_G._Hammond.md). Nó được thành lập vào mùa thu [1992](../_/1992.md) và vẫn được in cho đến ngày nay mặc dù ít thường xuyên hơn.
 

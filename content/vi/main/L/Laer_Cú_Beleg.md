@@ -18,9 +18,9 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/08/Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg/300px-Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg" decoding="async" loading="lazy" width="300" height="423" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/08/Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg/450px-Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/08/Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg/600px-Maria_Awsejkowa_-_Laer_Cu_Beleg.jpg 2x" data-file-width="1280" data-file-height="1803"/></a><figcaption><i>Laer cu Beleg</i> by <a href="../../category/I/Images_by_Maria_Awsejkowa.md" title="Category:Images by Maria Awsejkowa">Maria Awsejkowa</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>There wondrous wove he  words enchanted,<br/>that woods and water  waked and answered,<br/>the rocks were wrung  with ruth for Beleg.
+<p>Ở đó có một tình yêu kỳ diệu mà ông  những lời nói đầy mê hoặc,<br/>rằng rừng và nước  thức dậy và trả lời,<br/>những tảng đá bị vặn xoắn  với sự tàn nhẫn cho Beleg.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, lines 1659-61</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, dòng 1659-61</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <i><b>Laer Cú Beleg</b></i> là một bài hát được [Túrin](../T/Túrin.md) sáng tác để tưởng nhớ người bạn [Beleg Cúthalion](../B/Beleg.md), người mà anh đã vô tình giết chết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

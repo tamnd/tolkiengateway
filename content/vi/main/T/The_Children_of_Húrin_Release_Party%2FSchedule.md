@@ -20,13 +20,13 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 </td>
 <td>EST
 </td>
-<td>Chủ Nhật (15)
+<td>Sunday (15th)
 </td>
-<td>Thứ Hai (16)
+<td>Monday (16th)
 </td>
-<td>Thứ Ba (17)
+<td>Tuesday (17th)
 </td>
-<td>Thứ Tư (18)
+<td>Wednesday (18th)
 </td></tr>
 <tr>
 <td>0:00
@@ -83,7 +83,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>4:00
 </td>
-<td>12:00 trưa
+<td>12:00pm
 </td>
 <td>
 </td>
@@ -252,7 +252,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>17:00
 </td>
-<td>1 giờ chiều
+<td>1:00pm
 </td>
 <td>
 </td>
@@ -265,7 +265,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>18:00
 </td>
-<td>2 giờ chiều
+<td>2:00pm
 </td>
 <td><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a>
 </td>
@@ -278,7 +278,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>19:00
 </td>
-<td>3 giờ chiều
+<td>3:00pm
 </td>
 <td>
 </td>
@@ -291,7 +291,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>20:00
 </td>
-<td>4 giờ chiều
+<td>4:00pm
 </td>
 <td><a href="../J/Johan_Vanhecke.md" title="Johan Vanhecke">Johan Vanhecke</a>
 </td>
@@ -304,7 +304,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>21:00
 </td>
-<td>5 giờ chiều
+<td>5:00pm
 </td>
 <td>
 </td>
@@ -317,7 +317,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>22:00
 </td>
-<td>6 giờ chiều
+<td>6:00pm
 </td>
 <td><a href="../M/Michael_Martinez.md" title="Michael Martinez">Michael Martinez</a>
 </td>
@@ -330,7 +330,7 @@ Lịch trình dưới đây hiện chỉ bao gồm khách mời, chúng tôi s�
 <tr>
 <td>23:00
 </td>
-<td>7 giờ tối
+<td>7:00pm
 </td>
 <td>
 </td>

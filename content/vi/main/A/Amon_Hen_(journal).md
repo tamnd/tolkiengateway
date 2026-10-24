@@ -60,7 +60,7 @@ Những người đóng góp đáng chú ý cho *Amon Hen* bao gồm: [Christoph
 </th>
 <th>Số cuối cùng
 </th>
-<th>Issues
+<th>Số phát hành
 </th></tr>
 <tr>
 <td data-sort-value="01">1
@@ -147,7 +147,7 @@ Những người đóng góp đáng chú ý cho *Amon Hen* bao gồm: [Christoph
 <tr>
 <td data-sort-value="05.1">5
 </td>
-<td><b>Jessica Yates</b> (nhũ danh Kemball-Cook)
+<td><b>Jessica Yates</b> (née Kemball-Cook)
 </td>
 <td style="text-align:center;" data-sort-value="Amon Hen 033"><a href="Amon_Hen_33.md" title="Amon Hen 33"><i>Amon Hen</i> 33</a>
 </td>

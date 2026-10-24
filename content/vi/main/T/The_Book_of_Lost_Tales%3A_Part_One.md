@@ -124,14 +124,14 @@ Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đ
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lost_Tales_I_1983.png.md" title="1983 hardcover"><img alt="1983 hardcover" src="https://tolkiengateway.net/w/images/thumb/d/d2/Lost_Tales_I_1983.png/80px-Lost_Tales_I_1983.png" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/Lost_Tales_I_1983.png/120px-Lost_Tales_I_1983.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/Lost_Tales_I_1983.png/159px-Lost_Tales_I_1983.png 2x" data-file-width="319" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1983
+<p>1983 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lost_Tales_I_1985.jpeg.md" title="1985 paperback"><img alt="1985 paperback" src="https://tolkiengateway.net/w/images/thumb/3/3b/Lost_Tales_I_1985.jpeg/81px-Lost_Tales_I_1985.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/Lost_Tales_I_1985.jpeg/121px-Lost_Tales_I_1985.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/Lost_Tales_I_1985.jpeg/161px-Lost_Tales_I_1985.jpeg 2x" data-file-width="323" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa mềm năm 1985
+<p>1985 paperback
 </p>
 			</div>
 		</li>

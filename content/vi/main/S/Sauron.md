@@ -170,7 +170,7 @@ Khi biết được những chiến công của [Barahir](../B/Barahir.md) và c
 
 Sau đó, [Finrod Felagund](../F/Finrod.md), Beren và mười người bạn đồng hành rời [Nargothrond](../N/Nargothrond.md) để tìm kiếm các [Silmaril](Silmarils.md). Dù cải trang thành Orc, họ vẫn bị Sauron phát hiện khi tiến vào thung lũng giữa [Ered Wethrin](../E/Ered_Wethrin.md) và [Taur-nu-Fuin](<../T/Taur-nu-Fuin_(Dorthonion).md>); hắn sinh nghi vì các Orc đi qua khu vực này lẽ ra phải trình diện và báo cáo với hắn. Hắn ra lệnh bắt họ và đưa họ đến trước mặt mình. Tại đó, Finrod và Sauron giao đấu bằng những bài ca quyền năng; sức mạnh của cả hai đều lớn lao, nhưng Sauron mạnh hơn. Sau đó, hắn lột bỏ lớp cải trang thành Orc của họ nhưng không nhận ra họ là ai. Hắn ném họ vào một hố tối tăm, nơi từng người một bị một người sói ăn thịt. Dù phải chịu đựng nỗi kinh hoàng này, họ vẫn không chịu phản bội lẫn nhau.<sup id="cite_ref-Beren_15-2" class="reference"><a href="#cite_note-Beren-15">[14]</a></sup>
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Huan_Subdues_Sauron.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Ted_Nasmith_-_Huan_Subdues_Sauron.jpg/300px-Ted_Nasmith_-_Huan_Subdues_Sauron.jpg" decoding="async" loading="lazy" width="300" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/4c/Ted_Nasmith_-_Huan_Subdues_Sauron.jpg 1.5x" data-file-width="450" data-file-height="300"/></a><figcaption><i>Huan subdues Sauron</i> bởi <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Huan_Subdues_Sauron.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Ted_Nasmith_-_Huan_Subdues_Sauron.jpg/300px-Ted_Nasmith_-_Huan_Subdues_Sauron.jpg" decoding="async" loading="lazy" width="300" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/4/4c/Ted_Nasmith_-_Huan_Subdues_Sauron.jpg 1.5x" data-file-width="450" data-file-height="300"/></a><figcaption><i>Huan subdues Sauron</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
 Khi tất cả những người bạn đồng hành đều đã chết, Finrod và Beren là hai người cuối cùng còn sống trong hố của Sauron. Khi một người sói lao vào tấn công Beren, Finrod Felagund dốc toàn bộ sức mạnh để đánh bại nó. Ông đã thành công. Tuy nhiên, ông bị thương chí mạng và chẳng bao lâu sau qua đời. Trong khoảnh khắc đen tối ấy, [Lúthien](../L/Lúthien.md) đến cây cầu của [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md) và cất tiếng hát. Từ tòa tháp tại Minas Tirith, Sauron nhìn thấy Lúthien và nhận ra đó chính là người con gái nổi tiếng của [Melian](../M/Melian.md) và [Thingol](../T/Thingol.md). Hắn muốn bắt bà và giao bà cho Morgoth. Vì thế, hắn phái một con sói đến cây cầu, nhưng nó nhanh chóng bị [Huan](../H/Huan.md) âm thầm giết chết. Hắn phái thêm nhiều con sói nữa, và Huan giết từng con một. Cuối cùng, hắn phái [Draugluin](../D/Draugluin.md), thủy tổ của bầy người sói Angband. Cuộc chiến giữa Huan và Draugluin vô cùng dữ dội. Cuối cùng, Draugluin bỏ chạy và trước khi chết, nó báo với chủ nhân rằng Huan đang ở đó. Theo lời tiên tri, Huan sẽ không chết trước khi chạm trán với con sói vĩ đại nhất, vì vậy Sauron tìm cách trở thành con sói ấy và đánh bại chó săn. Hắn biến thành một người sói, con sói vĩ đại nhất mà thế giới từng chứng kiến vào thời điểm đó, rồi tiến về phía cây cầu. Nỗi kinh hoàng tỏa ra khi hắn tiến đến lớn đến mức ngay cả Huan cũng thoáng lùi bước. Sauron lao vào tấn công Lúthien, nhưng bà phủ tấm mạng ma thuật lên mắt hắn, khiến hắn mệt mỏi và mù lòa. Sau đó, Huan lao vào Sauron và cả hai giao chiến. Chỉ riêng sức mạnh ác độc của Sauron cũng đủ khiến Lúthien suy yếu và gần như bất tỉnh; cuộc chiến diễn ra tàn khốc và kéo dài. Tuy nhiên, hắn không thể khuất phục chó săn của [Valinor](../V/Valinor.md). Hắn bị kẹp chặt trong hàm Huan và không thể thoát ra, ngay cả khi biến thành rắn rồi cuối cùng trở lại hình dạng vốn có. Thay vì từ bỏ thân xác của mình, hắn đầu hàng Lúthien, trao cho bà quyền kiểm soát hòn đảo để đổi lấy tự do. Sau đó, hắn biến thành ma cà rồng và chạy trốn đến [Taur-nu-Fuin](<../T/Taur-nu-Fuin_(Dorthonion).md>), gieo rắc nỗi kinh hoàng khắp khu rừng.<sup id="cite_ref-Beren_15-3" class="reference"><a href="#cite_note-Beren-15">[14]</a></sup>
 
@@ -329,7 +329,7 @@ Con Mắt của Sauron mà Frodo nhìn thấy trong [Gương của Galadriel](..
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/Q/Quenya_-_Sauron.mp3.md" title="File:Quenya - Sauron.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/Q/Quenya_-_Sauron.mp3.md" title="File:Quenya - Sauron.mp3">Tệp:Quenya - Sauron.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/Q/Quenya_-_Sauron.mp3.md" title="File:Quenya - Sauron.mp3">File:Quenya - Sauron.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -355,7 +355,7 @@ Một số giả thuyết về nguồn gốc của tên gọi *Sauron* đã đư
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/S/Sindarin_-_Gorthaur.mp3.md" title="File:Sindarin - Gorthaur.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/S/Sindarin_-_Gorthaur.mp3.md" title="File:Sindarin - Gorthaur.mp3">Tệp:Sindarin - Gorthaur.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/S/Sindarin_-_Gorthaur.mp3.md" title="File:Sindarin - Gorthaur.mp3">File:Sindarin - Gorthaur.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -370,7 +370,7 @@ Một số giả thuyết về nguồn gốc của tên gọi *Sauron* đã đư
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/Q/Quenya_-_Mairon.mp3.md" title="File:Quenya - Mairon.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/Q/Quenya_-_Mairon.mp3.md" title="File:Quenya - Mairon.mp3">Tệp:Quenya - Mairon.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/Q/Quenya_-_Mairon.mp3.md" title="File:Quenya - Mairon.mp3">File:Quenya - Mairon.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -385,7 +385,7 @@ Một số giả thuyết về nguồn gốc của tên gọi *Sauron* đã đư
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/A/Annatar.mp3.md" title="File:Annatar.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/A/Annatar.mp3.md" title="File:Annatar.mp3">Tệp:Annatar.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/A/Annatar.mp3.md" title="File:Annatar.mp3">File:Annatar.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -444,7 +444,7 @@ Trong *[The Hobbit](../T/The_Hobbit.md)*, Necromancer là một thực thể ph�
 Bất chấp việc sử dụng bí danh này, có vẻ như Necromancer ngay từ đầu đã được định dùng để chỉ Sauron, một nhân vật xuất hiện từ những giai đoạn sơ khai nhất trong huyền giới của Tolkien (với tên gọi [Tevildo](../T/Tevildo.md) trong "[The Tale of Tinúviel](../T/The_Tale_of_Tinúviel.md)"). Ngay sau khi *The Hobbit* được xuất bản, Tolkien đã viết:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Mr Baggins bắt đầu như một câu chuyện hài hước giữa những người lùn trong truyện cổ tích Grimm thông thường và không nhất quán, và bị cuốn vào rìa của nó – đến nỗi ngay cả Sauron điều khủng khiếp cũng lộ ra ngoài rìa.
+<p>Câu chuyện về Mr Baggins khởi đầu như một truyện hài giữa những Người Lùn trong truyện cổ tích Grimm theo lối truyền thống nhưng thiếu nhất quán, rồi dần bị kéo vào bên lề câu chuyện ấy – đến nỗi ngay cả Sauron đáng kinh hãi cũng ló mặt ở bên lề.
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Letter_19.md" title="Letter 19">Letter 19</a></cite></p>
 </blockquote>
@@ -487,7 +487,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 - [Shelob](Shelob.md) - Hậu duệ của [Ungoliant](../U/Ungoliant.md) và là người bảo vệ thuận tiện cho việc đi qua Mordor
 - The [Hai người canh gác](../T/Two_Watchers.md) - Những bức tượng bị linh hồn ma quỷ cư trú
 
-<dl><dt>Nhân vật từ các khái niệm cũ hơn</dt></dl>
+<dl><dt>Nhân vật trong những ý tưởng ban đầu</dt></dl>
 
 \- [Naglur-Danlo](../N/Naglur-Danlo.md) - Orc tại Cirith Ungol
 \- [Shagram](Shagram.md) - Lính Orc tại Cirith Ungol
@@ -596,35 +596,35 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 		<li class="gallerybox" style="width: 230px">
 			<div class="thumb" style="width: 225px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Sauron_in_Dúrnost.jpg.md" title="Sauron in Dúrnost within The Lord of the Rings: The Rings of Power"><img alt="Sauron in Dúrnost within The Lord of the Rings: The Rings of Power" src="https://tolkiengateway.net/w/images/thumb/4/44/The_Rings_of_Power_%28TV_series%29_-_Sauron_in_D%C3%BArnost.jpg/225px-The_Rings_of_Power_%28TV_series%29_-_Sauron_in_D%C3%BArnost.jpg" decoding="async" loading="lazy" width="225" height="126" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/The_Rings_of_Power_%28TV_series%29_-_Sauron_in_D%C3%BArnost.jpg/338px-The_Rings_of_Power_%28TV_series%29_-_Sauron_in_D%C3%BArnost.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/The_Rings_of_Power_%28TV_series%29_-_Sauron_in_D%C3%BArnost.jpg/450px-The_Rings_of_Power_%28TV_series%29_-_Sauron_in_D%C3%BArnost.jpg 2x" data-file-width="768" data-file-height="431"/></a></span></div>
 			<div class="gallerytext">
-<p>Sauron ở <a href="../D/Dúrnost.md" title="Dúrnost">Dúrnost</a> trong <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>
+<p>Sauron ở <a href="../D/Dúrnost.md" title="Dúrnost">Dúrnost</a> trong bộ phim <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 230px">
 			<div class="thumb" style="width: 225px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Halbrand_in_Mordor.jpg.md" title="Charlie Vickers as Sauron/Halbrand in Mordor within The Lord of the Rings: The Rings of Power"><img alt="Charlie Vickers as Sauron/Halbrand in Mordor within The Lord of the Rings: The Rings of Power" src="https://tolkiengateway.net/w/images/thumb/c/c9/The_Rings_of_Power_%28TV_series%29_-_Halbrand_in_Mordor.jpg/225px-The_Rings_of_Power_%28TV_series%29_-_Halbrand_in_Mordor.jpg" decoding="async" loading="lazy" width="225" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/The_Rings_of_Power_%28TV_series%29_-_Halbrand_in_Mordor.jpg/338px-The_Rings_of_Power_%28TV_series%29_-_Halbrand_in_Mordor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c9/The_Rings_of_Power_%28TV_series%29_-_Halbrand_in_Mordor.jpg/450px-The_Rings_of_Power_%28TV_series%29_-_Halbrand_in_Mordor.jpg 2x" data-file-width="1200" data-file-height="676"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../C/Charlie_Vickers.md" title="Charlie Vickers">Charlie Vickers</a> trong vai Sauron/<a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> trong <a href="../M/Mordor.md" title="Mordor">Mordor</a> trong <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>
+<p><a href="../C/Charlie_Vickers.md" title="Charlie Vickers">Charlie Vickers</a> trong vai Sauron/<a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> ở <a href="../M/Mordor.md" title="Mordor">Mordor</a> trong bộ phim <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 230px">
 			<div class="thumb" style="width: 225px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Forodwaith_Sauron.webp.md" title="Jack Lowden as Forodwaith Sauron in Dúrnost within The Lord of the Rings: The Rings of Power"><img alt="Jack Lowden as Forodwaith Sauron in Dúrnost within The Lord of the Rings: The Rings of Power" src="https://tolkiengateway.net/w/images/thumb/d/d5/The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Sauron.webp/225px-The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Sauron.webp.png" decoding="async" loading="lazy" width="225" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Sauron.webp/338px-The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Sauron.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Sauron.webp/450px-The_Rings_of_Power_%28TV_series%29_-_Forodwaith_Sauron.webp.png 2x" data-file-width="700" data-file-height="394"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../J/Jack_Lowden.md" title="Jack Lowden">Jack Lowden</a> trong vai <a href="../F/Forodwaith_(people).md" title="Forodwaith (people)">Forodwaith</a> Sauron trong <a href="../D/Dúrnost.md" title="Dúrnost">Dúrnost</a> trong <a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a>
+<p><a href="../J/Jack_Lowden.md" title="Jack Lowden">Jack Lowden</a> trong vai Sauron thời <a href="../F/Forodwaith_(people).md" title="Forodwaith (people)">Forodwaith</a> ở <a href="../D/Dúrnost.md" title="Dúrnost">Dúrnost</a> trong <a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 230px">
 			<div class="thumb" style="width: 225px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Annatar.jpg.md" title="Charlie Vickers as Annatar in Eregion within The Lord of the Rings: The Rings of Power"><img alt="Charlie Vickers as Annatar in Eregion within The Lord of the Rings: The Rings of Power" src="https://tolkiengateway.net/w/images/thumb/6/61/The_Rings_of_Power_%28TV_series%29_-_Annatar.jpg/225px-The_Rings_of_Power_%28TV_series%29_-_Annatar.jpg" decoding="async" loading="lazy" width="225" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/The_Rings_of_Power_%28TV_series%29_-_Annatar.jpg/338px-The_Rings_of_Power_%28TV_series%29_-_Annatar.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/61/The_Rings_of_Power_%28TV_series%29_-_Annatar.jpg/450px-The_Rings_of_Power_%28TV_series%29_-_Annatar.jpg 2x" data-file-width="1280" data-file-height="720"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../C/Charlie_Vickers.md" title="Charlie Vickers">Charlie Vickers</a> vào vai Annatar trong <a href="../E/Eregion.md" title="Eregion">Eregion</a> trong <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>
+<p><a href="../C/Charlie_Vickers.md" title="Charlie Vickers">Charlie Vickers</a> vào vai Annatar ở <a href="../E/Eregion.md" title="Eregion">Eregion</a> trong bộ phim <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 230px">
 			<div class="thumb" style="width: 225px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/SauronDarkLord_ToME.jpg.md" title="Sauron, the Dark Lord card from The Lord of the Rings: Tales of Middle-earth"><img alt="Sauron, the Dark Lord card from The Lord of the Rings: Tales of Middle-earth" src="https://tolkiengateway.net/w/images/thumb/5/5c/SauronDarkLord_ToME.jpg/113px-SauronDarkLord_ToME.jpg" decoding="async" loading="lazy" width="113" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5c/SauronDarkLord_ToME.jpg/170px-SauronDarkLord_ToME.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5c/SauronDarkLord_ToME.jpg/227px-SauronDarkLord_ToME.jpg 2x" data-file-width="1548" data-file-height="2048"/></a></span></div>
 			<div class="gallerytext">
-<p>Sauron, thẻ Chúa tể Bóng tối từ <a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Tales of Middle-earth</a>
+<p>Thẻ Sauron, Chúa tể Bóng tối trong <a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Tales of Middle-earth</a>
 </p>
 			</div>
 		</li>
@@ -634,33 +634,33 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <b>1978: <a href="../T/The_Lord_of_the_Rings\_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
-<dl><dd>Sauron được thể hiện ngắn gọn trong đoạn mở đầu với tư cách là một nhân vật bóng tối đội chiếc mũ bảo hiểm có sừng trong vai trò không nói được.</dd></dl>
+<dl><dd>Sauron xuất hiện thoáng qua trong cảnh mở đầu dưới hình dạng một bóng người mờ ảo đội chiếc mũ trụ có sừng, không có lời thoại.</dd></dl>
 
 <b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
 
-<dl><dd>Sauron do <a href="Sala_Baker.md" title="Sala Baker">Sala Baker</a> thủ vai và lồng tiếng bởi <a href="../A/Alan_Howard.md" title="Alan Howard">Alan Howard</a>. Trong những bộ phim này, ông được miêu tả là một lãnh chúa mặc giáp cao lớn nhưng không khổng lồ cầm một cây chùy khổng lồ (sự pha trộn giữa mô tả mơ hồ của ông bởi Tolkien và hình dáng chi tiết hơn của <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> như được mô tả trong <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>). Trong phim đầu tiên, ông được miêu tả đang điều động một số Tiên tộc và Con Người bằng chùy của mình, trước khi giết <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a> (ngoài màn hình; tuy nhiên, cảnh được mô tả trong hình vẽ ý tưởng được thực hiện cho đoạn mở đầu) và sau đó <a href="../E/Elendil.md" title="Elendil">Elendil</a> trước khi bị <a href="../I/Isildur.md" title="Isildur">Isildur</a> đánh bại bằng cách sử dụng <a href="../N/Narsil.md" title="Narsil">thanh kiếm gãy</a> của cha ông để cắt đứt ngón tay đeo <a href="../T/The_One_Ring.md" title="The One Ring">chiếc Nhẫn Chúa</a>, cũng như ba thanh kiếm khác cùng loại tay. Điều này khiến cơ thể ông phát nổ một cách kỳ lạ, tạo ra một làn sóng xung kích khiến tất cả mọi người trên chiến trường ngã ngửa.</dd></dl>
+<dl><dd>Sauron do <a href="Sala_Baker.md" title="Sala Baker">Sala Baker</a> thủ vai và do <a href="../A/Alan_Howard.md" title="Alan Howard">Alan Howard</a> lồng tiếng. Trong những bộ phim này, hắn được khắc họa là một lãnh chúa cao lớn mặc giáp, cầm cây chùy khổng lồ nhưng không có vóc dáng khổng lồ. Hình tượng này kết hợp những nét miêu tả sơ lược của Tolkien về hắn với hình dáng được mô tả chi tiết hơn của <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> theo miêu tả trong <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>. Trong bộ phim đầu tiên, hắn dùng cây chùy hạ gục một số Tiên tộc và Con Người, rồi giết <a href="../G/Gil-galad.md" title="Gil-galad">Gil-galad</a> (cảnh này không xuất hiện trên màn ảnh, nhưng có trong các bản vẽ ý tưởng thực hiện cho đoạn mở đầu) và sau đó là <a href="../E/Elendil.md" title="Elendil">Elendil</a>, trước khi bị <a href="../I/Isildur.md" title="Isildur">Isildur</a> đánh bại. Isildur dùng <a href="../N/Narsil.md" title="Narsil">thanh kiếm gãy</a> của cha mình chặt đứt ngón tay đeo <a href="../T/The_One_Ring.md" title="The One Ring">Nhẫn Chúa</a> của hắn cùng ba ngón tay khác trên cùng bàn tay. Một cách kỳ lạ, cơ thể hắn phát nổ, tạo ra một làn sóng xung kích hất văng tất cả những người trên chiến trường.</dd></dl>
 
-<dl><dd>Sau này, <a href="Saruman.md" title="Saruman">Saruman</a> ám chỉ <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> rằng Sauron không thể giữ lại hình dạng vật chất của mình và Con mắt là hình dạng linh hồn của ông, một chi tiết không bao giờ được nhắc đến trong tiểu thuyết. Không biết Saruman có trung thực với tuyên bố này hay không, hay ông đã thông tin sai hoặc nói dối (vì ông đã bị tha hóa bởi khao khát quyền lực và Sauron ảnh hưởng).</dd></dl>
+<dl><dd>Sau này, <a href="Saruman.md" title="Saruman">Saruman</a> ngụ ý với <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> rằng Sauron không thể duy trì hình dạng vật chất, còn Con Mắt của Sauron chính là thể dạng tinh giới của hắn. Chi tiết này không hề xuất hiện trong tiểu thuyết. Không rõ Saruman có nói thật hay không, hay ông đã nhận thông tin sai lệch hoặc cố tình nói dối, bởi khi ấy ông đã bị tha hóa bởi lòng ham muốn quyền lực và sự chi phối của Sauron.</dd></dl>
 
-<dl><dd>Để biết hình ảnh Sauron như một con mắt lửa khổng lồ trong những bộ phim này, hãy xem <a href="../E/Eye_of_Sauron.md#Portrayal_in_adaptations" title="Eye of Sauron">Con Mắt của Sauron#Chân dung trong các tác phẩm chuyển thể</a>.</dd></dl>
+<dl><dd>Để tìm hiểu cách Sauron được khắc họa thành một con mắt lửa khổng lồ trong những bộ phim này, xem <a href="../E/Eye_of_Sauron.md#Portrayal_in_adaptations" title="Eye of Sauron">Con Mắt của Sauron#Khắc họa trong các tác phẩm chuyển thể</a>.</dd></dl>
 
 <b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
 
-<dl><dd>Sauron do <a href="../B/Benedict_Cumberbatch.md" title="Benedict Cumberbatch">Benedict Cumberbatch</a> đóng và lồng tiếng, dưới danh tính giả định của ông là Necromancer. Trong những bộ phim này, người ta nói rằng Bạch Hội Đồng không phát hiện ra ông là Sauron cho đến tận sau này, trong các sự kiện của những bộ phim này, trước đó họ tin rằng ông là một con người có kỹ năng phép thuật. Trong những bộ phim này, Sauron ban đầu xuất hiện như một nhân vật bóng tối trước khi mang hình dạng mặc áo giáp như những bộ phim trước. Với ông là con ngươi đen có khe hở, ông phóng ra những ngọn lửa xung quanh mình, tạo ra hình ảnh của Con mắt vĩ đại.</dd></dl>
+<dl><dd>Sauron do <a href="../B/Benedict_Cumberbatch.md" title="Benedict Cumberbatch">Benedict Cumberbatch</a> thủ vai và lồng tiếng trong thân phận giả danh Necromancer. Theo nội dung phim, trước đó Bạch Hội Đồng vẫn tưởng hắn là một người phàm biết sử dụng phép thuật; mãi về sau, trong diễn biến của loạt phim, họ mới phát hiện ra hắn chính là Sauron. Ban đầu, Sauron xuất hiện dưới dạng một bóng hình mờ ảo, trước khi trở lại hình dạng mặc giáp từng xuất hiện trong các bộ phim trước. Ở dạng con ngươi đen với khe dọc, hắn phóng lửa ra xung quanh, tạo thành hình ảnh Con Mắt Vĩ Đại.</dd></dl>
 
 **2017: <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Lego_Batman_Movie" title="wikipedia:The Lego Batman Movie">Phim Người Dơi Lego</a></i>:**
 
-<dl><dd>Trong phim, Sauron, xuất hiện dưới dạng một con mắt rực lửa từ trên đỉnh tòa tháp của mình, nằm trong số những nhân vật phản diện được The Joker tuyển dụng để hỗ trợ cho cuộc chinh phục Thành phố Gotham của hắn. Sức mạnh tầm nhìn của ông chứng tỏ là một trở ngại đối với Batman và những người bạn đồng hành của ông, nhưng cuối cùng ông vô tình bị tiêu diệt bởi đường đạn từ miệng Kraken. Ông được lồng tiếng bởi Jemaine Clement.</dd></dl>
+<dl><dd>Trong phim, Sauron xuất hiện dưới dạng con mắt rực lửa trên đỉnh tháp và nằm trong số những nhân vật phản diện được The Joker chiêu mộ để hỗ trợ hắn chinh phục Gotham City. Khả năng quan sát của Sauron trở thành trở ngại cho Batman và các đồng đội, nhưng cuối cùng hắn vô tình bị tiêu diệt bởi đòn phóng ra từ miệng Kraken. Jemaine Clement lồng tiếng cho hắn.</dd></dl>
 
 ### Truyền hình {#Television}
 
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
 <dl><dd><b>1 September: Episode 1. <i><a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">A Shadow of the Past</a></i>:</b>
-<dl><dd>Sauron xuất hiện giám sát một đội quân <a href="../O/Orcs.md" title="Orcs">Orc</a> tại <a href="../D/Dúrnost.md" title="Dúrnost">Dúrnost</a> trong đoạn mở đầu, do <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> thuật lại. Không có diễn viên nào được ghi nhận cho vai trò cụ thể.</dd></dl></dd></dl>
+<dl><dd>Sauron xuất hiện khi đang chỉ huy một đội quân <a href="../O/Orcs.md" title="Orcs">Orc</a> tại <a href="../D/Dúrnost.md" title="Dúrnost">Dúrnost</a> trong đoạn mở đầu do <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> dẫn chuyện. Không có diễn viên nào được ghi danh cho vai diễn này.</dd></dl></dd></dl>
 
 <dl><dd><b>14 October: Episode 8. <i><a href="../A/Alloyed.md" title="Alloyed">Alloyed</a></i>:</b>
-<dl><dd>Được tiết lộ rằng Sauron đã cải trang thành <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> (do <a href="../C/Charlie_Vickers.md" title="Charlie Vickers">Charlie Vickers đóng</a>) trong suốt thời gian qua. Sau khi bị <a href="../A/Adar_(The_Rings_of_Power).md" title="Adar (The Rings of Power)">Adar</a> cho là "chia đôi", ông đã mang hình dáng của một <a href="../M/Men.md" title="Men">Người đàn ông</a> phàm trần và tự đặt cho mình cái tên Halbrand. Vào một thời điểm nào đó, ông tình cờ nhìn thấy xác của Vua cuối cùng của <a class="mw-redirect" href="Southlands.md" title="Southlands">Southlands</a> và chiếm lấy huy hiệu vì nghĩ rằng nó rất phù hợp với mình.</dd></dl></dd></dl>
+<dl><dd>Sau này, sự thật được hé lộ: Sauron đã giả dạng <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> (do <a href="../C/Charlie_Vickers.md" title="Charlie Vickers">Charlie Vickers</a> thủ vai) ngay từ đầu. Sau khi được cho là đã bị <a href="../A/Adar_(The_Rings_of_Power).md" title="Adar (The Rings of Power)">Adar</a> "xẻ đôi", hắn mang hình dạng một người phàm thuộc giống loài <a href="../M/Men.md" title="Men">Con Người</a> và tự xưng là Halbrand. Vào một thời điểm nào đó, hắn tình cờ phát hiện thi thể vị Vua cuối cùng của <a class="mw-redirect" href="Southlands.md" title="Southlands">Southlands</a> và lấy huy hiệu ấy vì cho rằng nó rất hợp với mình.</dd></dl></dd></dl>
 
 ### Loạt đài phát thanh {#Radio_series}
 
@@ -676,7 +676,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
 
-<dl><dd>Sauron chỉ được đề cập rất ngắn gọn ở phần cuối; <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> và <a href="../E/Elrond.md" title="Elrond">Elrond</a> thảo luận về việc "Necromancer" đã bị đuổi khỏi nơi ở của ông ở phía nam <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a> như thế nào.</dd></dl>
+<dl><dd>Sauron chỉ được nhắc đến rất ngắn gọn ở phần cuối; <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> và <a href="../E/Elrond.md" title="Elrond">Elrond</a> bàn về việc "Necromancer" đã bị trục xuất khỏi sào huyệt ở phía nam <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>.</dd></dl>
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
@@ -702,7 +702,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <b>1993: <i><a href="../J/J.R.R._Tolkien&#39;s_The_Lord_of_the_Rings,_Vol._II%253A_The_Two_Towers.md" title="J.R.R. Tolkien&#39;s The Lord of the Rings, Vol. II: The Two Towers">J.R.R. Tolkien's The Lord of the Rings, Vol. II: The Two Towers</a></i>:</b>
 
-<dl><dd>Sauron được đề cập ở đầu trò chơi, khi <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> giải thích về lịch sử của <a href="../T/The_One_Ring.md" title="The One Ring">the Nhẫn Chúa</a>.</dd></dl>
+<dl><dd>Sauron được nhắc đến ở phần đầu trò chơi, khi <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> giải thích lịch sử của <a href="../T/The_One_Ring.md" title="The One Ring">Nhẫn Chúa</a>.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
@@ -712,13 +712,13 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
-<dl><dd>Sauron và các sự kiện ở phía nam Mirkwood không được đề cập đến. Tuy nhiên, trong khi ở Mirkwood, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> phải đánh bại những sinh vật mà ông gọi là "Tay sai của Necromancer".</dd></dl>
+<dl><dd>Sauron và những sự kiện diễn ra ở phía nam Mirkwood không được nhắc đến. Tuy nhiên, khi ở Mirkwood, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> phải đánh bại những sinh vật mà cậu gọi là "Tay sai của Necromancer".</dd></dl>
 
 <b>2003: <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)"><i>The Lord of the Rings: The Return of the King</i> (trò chơi điện tử)</a>:</b>
 
 <b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Lord of the Rings: Kỷ Đệ Tam</a></i>:</b>
 
-<dl><dd>Vào cuối trò chơi, Berehor và đồng đội (các nhân vật điều khiển được) phải đánh bại con mắt của Sauron bằng cách tấn công vật lý vào đầu <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.</dd></dl>
+<dl><dd>Vào cuối trò chơi, Berethor và đồng đội (các nhân vật mà người chơi có thể điều khiển) phải đánh bại Con Mắt của Sauron bằng cách trực tiếp tấn công hắn trên đỉnh <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.</dd></dl>
 
 <b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
 
@@ -728,9 +728,9 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Sauron, với vỏ bọc công bằng, xuất hiện trong đoạn hồi tưởng về những năm tháng <a href="Second_Age.md" title="Second Age">Kỷ Đệ Nhị</a>. Ông sử dụng tên "Antheron" thay vì "Annatar", tên này chỉ xuất hiện trong các tác phẩm không có giấy phép của trò chơi.</dd>
-<dd>Việc ghé thăm Sauron phòng cá nhân trong <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> dẫn đến hình ảnh của Chúa tể Bóng tối, vẫn còn yếu và đang hồi phục sau thất bại dưới tay <a href="../I/Isildur.md" title="Isildur">Isildur</a>.</dd>
-<dd>Trong một chuỗi hồi tưởng kéo dài về <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">Cuộc chiến của Liên minh Cuối cùng</a>, Sauron gặp chính người chơi trong <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>, người điều khiển một nhân vật lịch sử.</dd></dl>
+<dl><dd>Sauron, trong hình dạng tuấn tú, xuất hiện trong đoạn hồi tưởng về những năm thuộc <a href="Second_Age.md" title="Second Age">Kỷ Đệ Nhị</a>. Hắn sử dụng tên "Antheron" thay vì "Annatar"; tên "Annatar" chỉ xuất hiện trong những tác phẩm nằm ngoài phạm vi bản quyền chuyển thể của trò chơi.</dd>
+<dd>Khi vào phòng riêng của Sauron tại <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, người chơi sẽ nhìn thấy hình ảnh của Chúa tể Bóng tối, lúc này vẫn còn suy yếu và đang hồi phục sau thất bại dưới tay <a href="../I/Isildur.md" title="Isildur">Isildur</a>.</dd>
+<dd>Trong một đoạn hồi tưởng kéo dài về <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">Cuộc chiến của Liên minh Cuối cùng</a>, người chơi, lúc này đang điều khiển một nhân vật lịch sử, chạm trán chính Sauron bên trong <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.</dd></dl>
 
 <b>2009: <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">The Lord of the Rings: Chinh phục</a></i>:</b>
 
@@ -740,21 +740,21 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <b>2012: <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: Trò chơi điện tử</a></i>:</b>
 
-<dl><dd>Sauron xuất hiện trong trận đấu trùm ở cấp độ đầu tiên. Hình dạng trùm của ông xuất hiện dưới dạng một nhân vật CCBS khổng lồ - tương tự như thứ gì đó trong dòng Vương quốc Hiệp sĩ của LEGO. Ông cũng được mở khóa như một nhân vật có thể chơi được sau mức thưởng. Dạng Annatar của ông xuất hiện dưới dạng một nhân vật có thể chơi được trong DLC ​​có thể tải xuống.</dd></dl>
+<dl><dd>Sauron xuất hiện trong trận chiến với trùm ở màn chơi đầu tiên. Dạng trùm của hắn là một mô hình CCBS khổng lồ, tương tự một mẫu thuộc dòng LEGO Knights Kingdom. Người chơi cũng có thể mở khóa nhân vật này sau khi hoàn thành màn chơi thưởng. Dạng Annatar của hắn cũng là một nhân vật có thể điều khiển trong nội dung tải xuống (DLC).</dd></dl>
 
 <b>2012: <i><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Người giám hộ của Trung Địa</a></i>:</b>
 
-<dl><dd>Sauron là "người giám hộ".<sup id="cite_ref-Trailer_79-0" class="reference"><a href="#cite_note-Trailer-79">[76]</a></sup></dd></dl>
+<dl><dd>Sauron là “người bảo vệ”.<sup id="cite_ref-Trailer_79-0" class="reference"><a href="#cite_note-Trailer-79">[76]</a></sup></dd></dl>
 
 <b>2014: <i><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Trung Địa: Bóng Tối trong số Mordor</a></i>:</b>
 
 <b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: Trò chơi điện tử</a></i>:</b>
 
-<dl><dd>Sauron có hai dạng có thể chơi được. Mô hình đầu tiên dựa trên Necromancer nhân vật nhỏ trong bộ LEGO "Dol Guldur Battle" trong khi mô hình thứ hai là phiên bản bốc lửa của hình dạng có thể chơi được của ông trong <a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">trò chơi đầu tiên</a>.</dd></dl>
+<dl><dd>Sauron có hai dạng có thể điều khiển. Dạng đầu tiên dựa trên mô hình nhân vật Necromancer trong bộ LEGO "Dol Guldur Battle", còn dạng thứ hai là phiên bản rực lửa của hình dạng có thể điều khiển của hắn trong <a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">trò chơi đầu tiên</a>.</dd></dl>
 
 **2015: <i><a class="extiw" href="http://en.wikipedia.org/wiki/Lego_Dimensions" title="wikipedia:Lego Dimensions">Kích thước Lego</a></i>:**
 
-<dl><dd>Sauron (do Steven Blum lồng tiếng), xuất hiện dưới dạng nhân vật nhỏ, xâm nhập vào chiều không gian của DC Comics và chiếm lấy Metropolis với sự trợ giúp của Rift Keystone. Ngay sau đó, Sauron sử dụng Keystone Rift để mang Barad-dûr xuyên không gian để đứng trên đỉnh tháp Lexcorp. Khi Batman, Gandalf và Wildstyle đến thành phố để chiếm lại Keystone, Sauron giao chiến với cả ba trên chiếc đĩa Doctor Who Dalek. Cuối cùng, ông bị đánh bại, bị Lord Vortech, nhân vật phản diện chính, kéo qua vết nứt. Sauron bị biến thành khối lập phương và không xuất hiện nữa.</dd></dl>
+<dl><dd>Sauron (do Steven Blum lồng tiếng), xuất hiện dưới dạng mô hình nhân vật LEGO, xâm lấn chiều không gian thuộc DC Comics và chiếm Metropolis nhờ Rift Keystone. Ngay sau đó, Sauron sử dụng Rift Keystone để đưa Barad-dûr xuyên qua các chiều không gian và đặt nó trên đỉnh tháp Lexcorp. Khi Batman, Gandalf và Wildstyle đến thành phố để giành lại Keystone, Sauron giao chiến với cả ba trên chiếc đĩa bay của Dalek trong Doctor Who. Cuối cùng, Sauron bị đánh bại và Lord Vortech, nhân vật phản diện chính, kéo hắn qua một khe nứt không gian. Sauron bị biến thành một khối lập phương rồi không xuất hiện trở lại.</dd></dl>
 
 <b>2017: <i><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Trung Địa: Bóng Tối chiến tranh</a></i>:</b>
 
@@ -764,7 +764,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Sauron được coi là Pháp sư cấp 180 (cấp 360 nếu sử dụng Nhẫn Chúa). Trong số các vật phẩm của ông có Thanh kiếm đen giết Tiên(S. <i>Mormegil</i>), Găng tay giết chóc ("Tae củaNarsil") và vảy đen của da rồng. Trong số các sức mạnh đặc biệt của ông là Sự thống trị (điều khiển những người chơi khác bằng One Eye), khả năng chống lại vũ khí thông thường và khả năng buộc bất kỳ ai trong tầm nhìn của ông phải chống lại nỗi sợ hãi (hoặc nói cách khác là bị đóng băng).</dd></dl>
+<dl><dd>Sauron được xếp là pháp sư cấp 180 (cấp 360 nếu sử dụng Nhẫn Chúa). Trong số các vật phẩm của hắn có Thanh kiếm Đen diệt Tiên (S. <i>Mormegil</i>), Găng tay Tàn sát (“Tai họa của Narsil”) và Lân phiến Đen bằng da rồng. Các sức mạnh đặc biệt của hắn bao gồm Khống chế (điều khiển những người chơi khác bằng Con Mắt Đơn), khả năng chống chịu vũ khí thông thường và khả năng khiến bất kỳ ai trong tầm mắt phải chống cự nỗi sợ, nếu không sẽ bị bất động.</dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm Trung Địa</a></i>:</b>
 
@@ -956,8 +956,8 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td><div class="tg-seq-label">Sinh</div><div class="tg-seq-value"><a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự sáng tạo Ainur</a></div></td><td><div class="tg-seq-title">Sauron</div><div class="tg-seq-label"><a href="../M/Maiar.md" title="Maiar">Maia</a> of <s><a href="../A/Aulë.md" title="Aulë">Aulë</a></s> <a href="../M/Morgoth.md" title="Morgoth">Melkor</a></div></td><td><div class="tg-seq-label">Qua đời</div><div class="tg-seq-value"><a href="../_/25_March.md" title="25 March">25 March</a>, <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a></div></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-value">Vacant</div><div class="tg-seq-label">Nắm giữ lần cuối bởi:<br/><b><a href="../M/Morgoth.md" title="Morgoth">Morgoth</a></b>, c. 1603 năm trước</div></td><td width="45%"><div class="tg-seq-value">thứ 2 <a href="../D/Dark_Lord.md" title="Dark Lord">Chúa tể Bóng tối</a></div><div class="tg-seq-label">c. <a href="Second_Age.md" title="Second Age">S.A.</a> <a href="Second_Age_1600.md" title="Second Age 1600">1600</a> - <a href="../_/25_March.md" title="25 March">25 March</a>, <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value">Không có</div></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-value">Không có</div><div class="tg-seq-label">Đã tạo nhẫn</div></td><td width="45%"><div class="tg-seq-value">thứ nhất <a class="mw-redirect" href="../R/Ring-bearer.md" title="Ring-bearer">Người Mang Nhẫn</a></div><div class="tg-seq-label">c. <a href="Second_Age.md" title="Second Age">S.A.</a> <a href="Second_Age_1600.md" title="Second Age 1600">1600</a> – <a href="Second_Age_3441.md" title="Second Age 3441">3441</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../I/Isildur.md" title="Isildur">Isildur</a></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-value">Vacant</div><div class="tg-seq-label">Người nắm giữ trước đó:<br/><b><a href="../M/Morgoth.md" title="Morgoth">Morgoth</a></b>, khoảng 1603 năm trước</div></td><td width="45%"><div class="tg-seq-value">2nd <a href="../D/Dark_Lord.md" title="Dark Lord">Dark Lord</a></div><div class="tg-seq-label">c. <a href="Second_Age.md" title="Second Age">S.A.</a> <a href="Second_Age_1600.md" title="Second Age 1600">1600</a> - <a href="../_/25_March.md" title="25 March">25 March</a>, <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value">Không có</div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-value">Không có</div><div class="tg-seq-label">Đã tạo nhẫn</div></td><td width="45%"><div class="tg-seq-value">1st <a class="mw-redirect" href="../R/Ring-bearer.md" title="Ring-bearer">Ring-bearer</a></div><div class="tg-seq-label">c. <a href="Second_Age.md" title="Second Age">S.A.</a> <a href="Second_Age_1600.md" title="Second Age 1600">1600</a> – <a href="Second_Age_3441.md" title="Second Age 3441">3441</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../I/Isildur.md" title="Isildur">Isildur</a></div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
@@ -989,7 +989,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 <tr>
 <td align="right" style="background: var(--tg-color-surface-4); width: 110px; padding-right: 4px;" rowspan="2"><b>Khái niệm và địa điểm</b>
 </td>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (được chỉ định trong <i>italics</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự tạo ra Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Thứ tự của Pháp sư</a> (được chỉ định trong <b>bold</b>) · <a href="Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Kỷ Đệ Nhị Âm nhạc của các Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Hội trường vượt thời gian</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Almaren.md" title="Almaren">Almaren</a> · <a href="../A/Aratar.md" title="Aratar">Aratar</a> (được viết bằng <i>chữ nghiêng</i>) · <a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự sáng tạo các Ainur</a> · <a href="../F/Fana.md" title="Fana">Fana</a> · <a href="../M/Máhanaxar.md" title="Máhanaxar">Máhanaxar</a> · <a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Ainulindalë</a> · <a class="mw-redirect" href="../O/Order_of_Wizards.md" title="Order of Wizards">Hội Pháp sư</a> (được viết bằng <b>chữ đậm</b>) · <a href="Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a> · <a href="../T/Timeless_Halls.md" title="Timeless Halls">Điện Vô Thời</a> · <a href="../V/Valarin.md" title="Valarin">Valarin</a> · <a href="../V/Valinor.md" title="Valinor">Valinor</a> · <a href="../V/Valimar.md" title="Valimar">Valimar</a>
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
@@ -1017,7 +1017,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Đặc điểm tự nhiên
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bay_of_Eldanna.md" title="Bay of Eldanna">Vịnh Eldanna</a> · <a href="../B/Bay_of_Rómenna.md" title="Bay of Rómenna">Vịnh Rómenna</a> · <a href="../F/Firth_of_Rómenna.md" title="Firth of Rómenna">Firth of Rómenna</a> · <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hallow of Eru</a> · <a href="../M/Meneltarma.md" title="Meneltarma">Meneltarma</a> (núi) · <a href="../N/Nísinen.md" title="Nísinen">Nísinen</a> (hồ) · <a href="../N/North_Cape.md" title="North Cape">North Cape</a> · <a href="../N/Nunduinë.md" title="Nunduinë">Nunduinë</a> (sông) · <a href="../O/Oromet.md" title="Oromet">Oromet</a> (núi) · <a href="Siril.md" title="Siril">Siril</a> (sông) · <a href="Sorontil.md" title="Sorontil">Sorontil</a> (núi) · <a href="../T/Tarmasundar.md" title="Tarmasundar">Tarmasundar</a> (rặng núi) · <a href="../T/Tompollë.md" title="Tompollë">Tompollë</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../B/Bay_of_Eldanna.md" title="Bay of Eldanna">Vịnh Eldanna</a> · <a href="../B/Bay_of_Rómenna.md" title="Bay of Rómenna">Vịnh Rómenna</a> · <a href="../F/Firth_of_Rómenna.md" title="Firth of Rómenna">Vịnh hẹp Rómenna</a> · <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Thánh địa của Eru</a> · <a href="../M/Meneltarma.md" title="Meneltarma">Meneltarma</a> (núi) · <a href="../N/Nísinen.md" title="Nísinen">Nísinen</a> (hồ) · <a href="../N/North_Cape.md" title="North Cape">Mũi Bắc</a> · <a href="../N/Nunduinë.md" title="Nunduinë">Nunduinë</a> (sông) · <a href="../O/Oromet.md" title="Oromet">Oromet</a> (núi) · <a href="Siril.md" title="Siril">Siril</a> (sông) · <a href="Sorontil.md" title="Sorontil">Sorontil</a> (núi) · <a href="../T/Tarmasundar.md" title="Tarmasundar">Tarmasundar</a> (rặng núi) · <a href="../T/Tompollë.md" title="Tompollë">Tompollë</a>
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thực vật và cây cối
@@ -1027,7 +1027,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Gia bảo
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Aranrúth.md" title="Aranrúth">Aranrúth</a> · <a href="../B/Bow_of_Bregor.md" title="Bow of Bregor">Cung Bregor</a> · <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a> · <a class="mw-redirect" href="../E/Elendilmir.md" title="Elendilmir">Elendilmir</a> · <a href="../N/Narsil.md" title="Narsil">Narsil</a> · "<a href="../N/Númenórean_helmet.md" title="Númenórean helmet">Númenórean mũ bảo hiểm</a>" · <a href="../P/Palantíri.md" title="Palantíri">Palantíri</a> · <a href="../R/Ring_of_Barahir.md" title="Ring of Barahir">Nhẫn Barahir</a> · <a href="Sceptre_of_Annúminas.md" title="Sceptre of Annúminas">Vương trượng Annúminas</a> · <a href="Sceptre_of_Númenor.md" title="Sceptre of Númenor">Vương trượng Númenor</a> · <i><a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_I.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet I.jpg">Carpets</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_II.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet II.jpg">and</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_Tile.jpg.md" title="File:J.R.R. Tolkien - Númenórean Tile.jpg">tile</a></i>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Aranrúth.md" title="Aranrúth">Aranrúth</a> · <a href="../B/Bow_of_Bregor.md" title="Bow of Bregor">Cung của Bregor</a> · <a href="../D/Dramborleg.md" title="Dramborleg">Dramborleg</a> · <a class="mw-redirect" href="../E/Elendilmir.md" title="Elendilmir">Elendilmir</a> · <a href="../N/Narsil.md" title="Narsil">Narsil</a> · “<a href="../N/Númenórean_helmet.md" title="Númenórean helmet">Mũ trụ Númenórean</a>” · <a href="../P/Palantíri.md" title="Palantíri">Palantíri</a> · <a href="../R/Ring_of_Barahir.md" title="Ring of Barahir">Nhẫn của Barahir</a> · <a href="Sceptre_of_Annúminas.md" title="Sceptre of Annúminas">Vương trượng Annúminas</a> · <a href="Sceptre_of_Númenor.md" title="Sceptre of Númenor">Vương trượng Númenor</a> · <i><a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_I.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet I.jpg">Thảm</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_carpet_II.jpg.md" title="File:J.R.R. Tolkien - Númenórean carpet II.jpg">và</a> <a href="../../file/J/J.R.R._Tolkien_-_Númenórean_Tile.jpg.md" title="File:J.R.R. Tolkien - Númenórean Tile.jpg">gạch lát</a></i>
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Khái niệm
@@ -1042,7 +1042,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Văn bản chính
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> ("<a href="../A/Akallabêth.md" title="Akallabêth">Akallabêth</a>") · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> ("<a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">Mô tả về Đảo Númenor</a>" · "<a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>" · "<a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>") · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> ("<a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>" · "<a href="../A/Appendix_B.md" title="Appendix B">Phụ lục B</a>") · <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> ("Cuộc sống của người Númenor" · "Về vùng đất và quái thú của Númenor")
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> ("<a href="../A/Akallabêth.md" title="Akallabêth">Akallabêth</a>") · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> ("<a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of the Island of Númenor</a>" · "<a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis: The Mariner&#39;s Wife</a>" · "<a href="../T/The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros: Kings of Númenor</a>") · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> ("<a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>" · "<a href="../A/Appendix_B.md" title="Appendix B">Phụ lục B</a>") · <i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i> ("Lives of the Númenóreans" · "Of the land and beasts of Númenor")
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
@@ -1058,7 +1058,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt phim</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)">loạt phim <i>The Hobbit</i></a></b>
 </th></tr>
 <tr>
 <td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
@@ -1066,7 +1066,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (<a href="../T/The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">ấn bản mở rộng</a>)· <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (<a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">ấn bản mở rộng</a>) · <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (<a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">ấn bản mở rộng</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i> (<a href="../T/The_Hobbit%253A_An_Unexpected_Journey_(extended_edition).md" title="The Hobbit: An Unexpected Journey (extended edition)">ấn bản mở rộng</a>) · <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i> (<a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md" title="The Hobbit: The Desolation of Smaug (extended edition)">ấn bản mở rộng</a>) · <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i> (<a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_(extended_edition).md" title="The Hobbit: The Battle of the Five Armies (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
@@ -1106,7 +1106,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt phim</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)">loạt phim <i>The Lord of the Rings </i></a></b>
 </th></tr>
 <tr>
 <td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
@@ -1114,7 +1114,7 @@ Một bài tiểu luận sau này đề cập đến thuật chiêu hồn liên 
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">ấn bản mở rộng</a>)· <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">ấn bản mở rộng</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
 <th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc

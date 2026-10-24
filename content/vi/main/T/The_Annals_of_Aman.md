@@ -32,14 +32,14 @@ langlinks:
 <dd><b>Part Three: <a href="The_Later_Quenta_Silmarillion.md" title="The Later Quenta Silmarillion">The Later <i>Quenta Silmarillion</i></a></b></dd></dl>
 <ol><li>Giai đoạn thứ nhất
 <ol><li><a href="../O/Of_the_Valar.md" title="Of the Valar">Về các Valar</a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_Valinor_and_the_Two_Trees&amp;action=edit&amp;redlink=1" title="Of Valinor and the Two Trees (page does not exist)">Of Valinor and the Two Trees</a></li>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_Valinor_and_the_Two_Trees&amp;action=edit&amp;redlink=1" title="Of Valinor and the Two Trees (page does not exist)">Về Valinor và Hai Cây</a></li>
 <li><a class="mw-redirect" href="../O/Of_the_Coming_of_the_Elves.md" title="Of the Coming of the Elves">Về sự xuất hiện của Tiên tộc</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_Thingol_and_Melian_(Morgoth%27s_Ring)&amp;action=edit&amp;redlink=1" title="Of Thingol and Melian (Morgoth&#39;s Ring) (page does not exist)">Of Thingol and Melian</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_Eldanor_and_the_Princes_of_the_Eldali%C3%AB&amp;action=edit&amp;redlink=1" title="Of Eldanor and the Princes of the Eldalië (page does not exist)">Of Eldanor and the Princes of the Eldalië</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_the_Silmarils_and_the_Darkening_of_Valinor&amp;action=edit&amp;redlink=1" title="Of the Silmarils and the Darkening of Valinor (page does not exist)">Of the Silmarils and the Darkening of Valinor</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_the_Flight_of_the_Noldor_(Morgoth%27s_Ring)&amp;action=edit&amp;redlink=1" title="Of the Flight of the Noldor (Morgoth&#39;s Ring) (page does not exist)">Về cuộc tháo chạy của Noldor</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_the_Sun_and_Moon_and_the_Hiding_of_Valinor_(Morgoth%27s_Ring)&amp;action=edit&amp;redlink=1" title="Of the Sun and Moon and the Hiding of Valinor (Morgoth&#39;s Ring) (page does not exist)">Of the Sun and Moon and the Hiding of Valinor</a></li></ol></li>
-<li>The Second Phase
+<li>Giai đoạn thứ hai
 <ol><li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Valaquenta_(Morgoth%27s_Ring)&amp;action=edit&amp;redlink=1" title="The Valaquenta (Morgoth&#39;s Ring) (page does not exist)">The Valaquenta</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Earliest_Version_of_the_Story_of_Finw%C3%AB_and_M%C3%ADriel&amp;action=edit&amp;redlink=1" title="The Earliest Version of the Story of Finwë and Míriel (page does not exist)">The Earliest Version of the Story of Finwë and Míriel</a></li>
 <li><a href="../L/Laws_and_Customs_among_the_Eldar.md" title="Laws and Customs among the Eldar">Luật lệ và phong tục của Eldar</a></li>
@@ -48,8 +48,8 @@ langlinks:
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_the_Silmarils_and_the_Unrest_of_the_Noldor_(Morgoth%27s_Ring)&amp;action=edit&amp;redlink=1" title="Of the Silmarils and the Unrest of the Noldor (Morgoth&#39;s Ring) (page does not exist)">Of the Silmarils and the Unrest of the Noldor</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_the_Darkening_of_Valinor_(Morgoth%27s_Ring)&amp;action=edit&amp;redlink=1" title="Of the Darkening of Valinor (Morgoth&#39;s Ring) (page does not exist)">Về sự chìm vào bóng tối của Valinor</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_the_Rape_of_the_Silmarils&amp;action=edit&amp;redlink=1" title="Of the Rape of the Silmarils (page does not exist)">Of the Rape of the Silmarils</a></li>
-<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_the_Thieves%27_Quarrel&amp;action=edit&amp;redlink=1" title="Of the Thieves&#39; Quarrel (page does not exist)">Of the Thieves&#39; Quarrel</a></li></ol></li></ol>
-<dl><dd><b>Phần thứ tư: <a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></b>
+<li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Of_the_Thieves%27_Quarrel&amp;action=edit&amp;redlink=1" title="Of the Thieves&#39; Quarrel (page does not exist)">Về cuộc tranh cãi giữa những tên trộm</a></li></ol></li></ol>
+<dl><dd><b>Part Four: <a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></b>
 <dl><dd><a href="Tale_of_Adanel.md" title="Tale of Adanel">Truyện kể về Adanel</a></dd></dl></dd>
 <dd><b>Part Five: <a href="../M/Myths_Transformed.md" title="Myths Transformed">Myths Transformed</a></b></dd></dl>
 </td></tr></tbody></table>

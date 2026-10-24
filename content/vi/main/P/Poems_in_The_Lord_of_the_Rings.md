@@ -539,7 +539,7 @@ images:
 </td>
 <td><a href="../R/Ra-hoom-rah!.md" title="Ra-hoom-rah!">Chúng tôi đến, chúng tôi đến với cuộn trống</a>
 </td>
-<td>Ent không xác định
+<td>Unknown ent
 </td>
 <td>Ent
 </td>
@@ -654,7 +654,7 @@ images:
 <tr>
 <td><a href="../O/Oliphaunt_(poem).md" title="Oliphaunt (poem)">Oliphaunt</a>
 </td>
-<td>Màu xám như một con chuột
+<td>Grey as a mouse
 </td>
 <td>hobbit vô danh
 </td>

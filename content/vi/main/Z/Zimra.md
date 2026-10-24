@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/Zimra"
 content_sha256: 6a74002762ee79f00dadfdd27531ffc3f79920a45363c08516387096f6a94f9d
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Adûnaic word"
+short_description: "Adûnaic từ"
 categories:
   - "Adûnaic words"
 hidden_categories:

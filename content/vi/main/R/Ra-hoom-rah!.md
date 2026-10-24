@@ -16,7 +16,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 **Ra-hoom-rah!** là tiếng hét lớn bắt đầu bài hát diễu hành do [Ent](../E/Ents.md) của [Rừng Fangorn](../F/Fangorn_Forest.md) hô vang khi họ hành quân trên [Isengard](../I/Isengard.md). Nó xuất hiện trong chương "[Treebeard](<../T/Treebeard_(chapter).md>)". Tiếng kêu đầu tiên kèm theo âm thanh giống như nhịp lăn và tiếng trống trang trọng.
@@ -24,17 +24,17 @@ images:
 ## Văn bản {#Text}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>We come, we come with roll of drum: ta-runda runda runda rom!<br/>
+<p>Chúng tôi đến, chúng tôi đến với tiếng trống: ta-runda runda runda rom!<br/>
 <br/>
-We come, we come with horn and drum: ta-rūna rūna rūna rom!<br/>
+Chúng tôi đến, chúng tôi đến với kèn và trống: ta-rūna rūna rūna rom!<br/>
 <br/>
-To Isengard! Though Isengard be ringed and barred with doors of stone;<br/>
-Though Isengard be strong and hard, as cold as stone and bare as bone,<br/>
-We go, we go, we go to war, to hew the stone and break the door;<br/>
-For bole and bough are burning now, the furnace roars - we go to war!<br/>
-To land of gloom with tramp of doom, with roll of drum, we come, we come;<br/>
-To Isengard with doom we come!<br/>
-With doom we come, with doom we come!
+Tới Isengard! Dù Isengard bị bao vây và rào chắn bằng cửa đá;<br/>
+Dù Isengard mạnh mẽ và cứng rắn, lạnh lùng như đá và trần trụi như xương<br/>
+Chúng ta đi, chúng ta đi, chúng ta ra trận, đẽo đá phá cửa;<br/>
+Vì thân cây và cành cây đang cháy, lò lửa gầm lên - chúng ta ra trận!<br/>
+Đến vùng đất u ám với bước đi định mệnh, với tiếng trống vang lên, chúng ta đến, chúng ta đến;<br/>
+Đến Isengard với sự diệt vong, chúng tôi đến!<br/>
+Với sự diệt vong chúng ta đến, với sự diệt vong chúng ta đến!
 </p>
 </div>
 
@@ -42,11 +42,11 @@ With doom we come, with doom we come!
 
 <b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)">The Lord of the Rings (loạt phim phát thanh 1981)</a></i>:</b>
 
-<dl><dd>The Ent&#39;s Marching Song is performed by the Ents after they are roused to action by the news of Saruman&#39;s treachery. Merry (portrayed by Richard O&#39;Callaghan) and Pippin (portrayed by John McAndrew) ask Treebeard (portrayed by Stephen Thorne) where they are going, to which Treebeard responds by telling the hobbits that they are heading to Isengard with the intent of &#34;splitting it into splinters, and cracking its walls to rubble&#34;. This is in spite of it likely leading to their own demises. The singing of the ents is portrayed by the <a class="extiw" href="http://en.wikipedia.org/wiki/Ambrosian_Singers" title="wikipedia:Ambrosian Singers">Ambrosian Singers</a> composed by Stephen Oliver.</dd></dl>
+<dl><dd>Bài hát diễu hành của Ent được biểu diễn bởi Ent sau khi họ bị thôi thúc hành động trước tin tức về sự phản bội của Saruman. Merry (do Richard O'Callaghan thủ vai) và Pippin (do John McAndrew thủ vai) hỏi Treebeard (do Stephen Thorne thủ vai) họ sẽ đi đâu, và Treebeard trả lời bằng cách nói với các hobbit rằng họ đang hướng đến Isengard với mục đích "chẻ nó thành từng mảnh và đập vỡ các bức tường của nó thành đống đổ nát". Mặc dù điều này có thể dẫn đến cái chết của chính họ. Tiếng hát của những chú chim được thể hiện bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Ambrosian_Singers" title="wikipedia:Ambrosian Singers">Ca sĩ Ambrosian</a> do Stephen Oliver sáng tác.</dd></dl>
 
 <b>2002: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
 
-<dl><dd>The Ents begin singing the marching song while an infuriated Treebeard (portrayed by Leopold Haverl) leads a brief conversation with Pippin and Merry (portrayed by Robert Roth and Miroslav Noga) about the need to strike against Saruman, bringing retribution and &#34;judgement&#34; for his crimes against Fangorn and the surrounding world. (This dialogue includes Treebeard&#39;s famous line about there being no curse word strong enough in the tongues of Men, Elves or Ents for Saruman&#39;s evil-doing.) The singing of the ents is portrayed by a male choir of the <a class="extiw" href="http://en.wikipedia.org/wiki/Slovak_Radio_Symphonic_Orchestra" title="wikipedia:Slovak Radio Symphonic Orchestra">Slovak Radio Symphonic Orchestra</a>.</dd></dl>
+<dl><dd>Ent bắt đầu hát bài hát diễu hành trong khi Treebeard tức giận (do Leopold Haverl thủ vai) dẫn đầu một cuộc trò chuyện ngắn với Pippin và Merry (do Robert Roth và Miroslav Noga thủ vai) về sự cần thiết phải tấn công Saruman, mang đến sự trừng phạt và "phán xét" cho tội ác của hắn chống lại Fangorn và thế giới xung quanh. (Đoạn hội thoại này bao gồm câu thoại nổi tiếng của Treebeard về việc không có lời nguyền rủa nào đủ mạnh trong ngôn ngữ của Con Người, Tiên tộc hoặc Ent đối với việc làm xấu xa của Saruman.) Tiếng hát của các ent được thể hiện bởi một dàn hợp xướng nam của <a class="extiw" href="http://en.wikipedia.org/wiki/Slovak_Radio_Symphonic_Orchestra" title="wikipedia:Slovak Radio Symphonic Orchestra">Dàn nhạc Giao hưởng Đài phát thanh Slovakia</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 

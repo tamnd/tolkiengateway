@@ -65,7 +65,7 @@ Vào thời điểm diễn ra [War of Wrath](../W/War_of_Wrath.md), chỉ còn l
 <th>Specified?
 </th></tr>
 <tr>
-<td><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, trang 97, 131
+<td><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, pp. 97, 131
 </td>
 <td>Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod, Amras
 </td>

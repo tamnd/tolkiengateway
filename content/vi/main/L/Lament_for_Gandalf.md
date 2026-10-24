@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 Những **những bài hát than thở** là những bài hát [elvish](../E/Elves.md) được hát để than thở cho [Gandalf](../G/Gandalf.md) trong [Lothlórien](Lothlórien.md). Đoạn trích duy nhất từ ​​những bài hát này là "*Mithrandir, Mithrandir, O Pilgrim Grey!*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
@@ -30,13 +30,13 @@ Phần đầu tiên nằm trong [Quenya](../Q/Quenya.md):
 
 Phần thứ hai nằm trong [Sindarin](../S/Sindarin.md):
 
-<dl><dd><i>Mithrandir, Mithrandir, A Randir Vithren</i><br/><i>ú-reniathach i amar galen</i><br/><i>I reniad lín ne mór, nuithannen</i><br/><i>In gwidh ristennin, i fae narchannen</i><br/><i>I lach <a href="../S/Sun.md" title="Sun">Anor</a> ed ardhon gwannen</i><br/><i>Caled veleg, ethuiannen.</i></dd></dl>
+<dl><dd><i>Mithrandir, Mithrandir, A Randir Vithren</i><br/><i>ú-reniathach i amar galen</i><br/><i>I reniad lín ne mór, nuithannen</i><br/><i>In gwidh ristennin, i fae  narchannen</i><br/><i>I lach <a href="../S/Sun.md" title="Sun">Anor</a> ed ardhon gwannen</i><br/><i>Caled veleg, ethuiannen.</i></dd></dl>
 
 ### Bản dịch {#Translation}
 
-<dl><dd><i>Olórin, who once was...</i><br/><i>Sent by the <a href="../V/Valar.md" title="Valar">Lords of the West</a></i><br/><i>To guard the <a href="../M/Middle-earth.md" title="Middle-earth">lands of the East</a></i><br/><i>Wisest of all <a href="../M/Maiar.md" title="Maiar">Maiar</a></i><br/><i>What drove you to leave</i><br/><i>That which you loved?</i></dd></dl>
+<dl><dd><i>Olórin, who once was...</i><br/><i>Được gửi bởi <a href="../V/Valar.md" title="Valar">Các lãnh chúa của Phương Tây</a></i><br/><i>Để bảo vệ vùng đất <a href="../M/Middle-earth.md" title="Middle-earth">của phương Đông</a></i><br/><i>Wisest of all <a href="../M/Maiar.md" title="Maiar">Maiar</a></i><br/><i>What drove you to leave</i><br/><i>That which you loved?</i></dd></dl>
 
-<dl><dd><i>Mithrandir, Mithrandir O Pilgrim Grey</i><br/><i>No more will you wander the green fields of this earth</i><br/><i>Your journey has ended in darkness.</i><br/><i>The bonds cut, the spirit broken</i><br/><i>The <a href="../F/Flame_of_Anor.md" title="Flame of Anor">Flame of Anor</a> has left this <a href="../A/Arda.md" title="Arda">World</a></i><br/><i>A great light, extinguished.</i></dd></dl>
+<dl><dd><i>Mithrandir, Mithrandir O Pilgrim Grey</i><br/><i>Bạn sẽ không lang thang trên những cánh đồng xanh tươi của trái đất này nữa</i><br/><i>Your journey has ended in darkness.</i><br/><i>The bonds cut, the spirit broken</i><br/><i> <a href="../F/Flame_of_Anor.md" title="Flame of Anor">Ngọn lửa Anor</a> đã rời khỏi <a href="../A/Arda.md" title="Arda">Thế giới</a></i><br/><i>A great light, extinguished.</i> này</dd></dl>
 
 Xem thêm *[Frodo's Lament](../F/Frodo's_Lament.md)*, một bài hát khác cho Gandalf.
 

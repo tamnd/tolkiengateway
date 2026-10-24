@@ -71,7 +71,7 @@ infobox:
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/B/Boromir.mp3.md" title="File:Boromir.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/B/Boromir.mp3.md" title="File:Boromir.mp3">Tệp:Boromir.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/B/Boromir.mp3.md" title="File:Boromir.mp3">File:Boromir.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -128,7 +128,7 @@ Nhiều thế kỷ sau, Quản gia [Denethor II](../D/Denethor_II.md) đặt tê
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td><div class="tg-seq-label">Sinh</div><div class="tg-seq-value"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2410.md" title="Third Age 2410">2410</a></div></td><td><div class="tg-seq-title">Boromir (Steward of Gondor)</div><div class="tg-seq-label"><a href="../H/House_of_Húrin.md" title="House of Húrin">Nhà Húrin</a></div></td><td><div class="tg-seq-label">Qua đời</div><div class="tg-seq-value"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2489.md" title="Third Age 2489">2489</a></div></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../D/Denethor_I.md" title="Denethor I">Denethor I</a></div></td><td width="45%"><div class="tg-seq-value"><a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Người quản lý thứ 11 của Gondor</a></div><div class="tg-seq-label"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2477.md" title="Third Age 2477">2477</a> – <a href="../T/Third_Age_2489.md" title="Third Age 2489">2489</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../C/Cirion.md" title="Cirion">Cirion</a></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../D/Denethor_I.md" title="Denethor I">Denethor I</a></div></td><td width="45%"><div class="tg-seq-value"><a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">11th <a class="mw-redirect" href="../R/Ruling_Steward.md" title="Ruling Steward">Ruling Steward of Gondor</a></a></div><div class="tg-seq-label"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2477.md" title="Third Age 2477">2477</a> – <a href="../T/Third_Age_2489.md" title="Third Age 2489">2489</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../C/Cirion.md" title="Cirion">Cirion</a></div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

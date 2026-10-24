@@ -129,7 +129,7 @@ Phần thứ hai của lịch sử <i>Silmarillion</i> sau này liên quan đế
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Morgoth&#39;s_Ring_1993.png.md" title="1993 hardcover"><img alt="1993 hardcover" src="https://tolkiengateway.net/w/images/thumb/7/70/Morgoth%27s_Ring_1993.png/80px-Morgoth%27s_Ring_1993.png" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/Morgoth%27s_Ring_1993.png/120px-Morgoth%27s_Ring_1993.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/70/Morgoth%27s_Ring_1993.png/160px-Morgoth%27s_Ring_1993.png 2x" data-file-width="320" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1993
+<p>1993 hardcover
 </p>
 			</div>
 		</li>

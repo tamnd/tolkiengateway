@@ -28,17 +28,17 @@ images:
   - "Madonna_in_Birmingham_Oratory.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Virgin_Mary&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...there is much else that may be told.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Virgin_Mary&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...còn nhiều điều khác có thể được kể.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Madonna_in_Birmingham_Oratory.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Madonna_in_Birmingham_Oratory.jpg/300px-Madonna_in_Birmingham_Oratory.jpg" decoding="async" loading="lazy" width="300" height="404" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Madonna_in_Birmingham_Oratory.jpg/450px-Madonna_in_Birmingham_Oratory.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/Madonna_in_Birmingham_Oratory.jpg/600px-Madonna_in_Birmingham_Oratory.jpg 2x" data-file-width="966" data-file-height="1301"/></a><figcaption>Madonna statue at the <a href="../B/Birmingham_Oratory.md" title="Birmingham Oratory">Birmingham Oratory</a>, where Tolkien attended mass during his childhood</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Madonna_in_Birmingham_Oratory.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Madonna_in_Birmingham_Oratory.jpg/300px-Madonna_in_Birmingham_Oratory.jpg" decoding="async" loading="lazy" width="300" height="404" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Madonna_in_Birmingham_Oratory.jpg/450px-Madonna_in_Birmingham_Oratory.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/Madonna_in_Birmingham_Oratory.jpg/600px-Madonna_in_Birmingham_Oratory.jpg 2x" data-file-width="966" data-file-height="1301"/></a><figcaption>Tượng Đức Mẹ tại <a href="../B/Birmingham_Oratory.md" title="Birmingham Oratory">Birmingham Nhà nguyện</a>, nơi Tolkien tham dự thánh lễ thời thơ ấu</figcaption></figure>
 
 **Đức Trinh Nữ Maria** là nhân vật chủ chốt trong [Cơ đốc giáo](../C/Christianity.md). Là một người sùng đạo Công giáo La Mã, [Tolkien](../T/Tolkien.md) có sự sùng kính đặc biệt đối với cô, đến mức tuyên bố rằng tất cả "nhận thức của anh về vẻ đẹp vừa uy nghiêm vừa giản dị" đều dựa trên cô.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cảm hứng của cô trong tác phẩm của Tolkien được phản ánh qua những bài thơ, bản dịch lời cầu nguyện và sự phát triển tính cách.
 
-<h2><span id="Appearances_in_Tolkien.27s_work"></span><span class="mw-headline" id="Appearances_in_Tolkien&#39;s_work">Appearances in Tolkien&#39;s work</span></h2>
+<h2><span id="Appearances_in_Tolkien.27s_work"></span><span class="mw-headline" id="Appearances_in_Tolkien&#39;s_work">Xuất hiện trong tác phẩm của Tolkien</span></h2>
 
 - Cầu nguyện trong [Quenya](../Q/Quenya.md)
     - *[Aia María](../A/Aia_María.md)*

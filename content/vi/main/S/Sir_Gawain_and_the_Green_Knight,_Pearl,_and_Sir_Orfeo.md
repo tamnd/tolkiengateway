@@ -102,14 +102,14 @@ Trong [2020](../_/2020.md), một phiên bản có nắp trượt sang trọng �
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Green_Knight,_Pearl_and_Sir_Orfeo_1975.jpg.md" title="1975 hardcover"><img alt="1975 hardcover" src="https://tolkiengateway.net/w/images/thumb/8/85/Green_Knight%2C_Pearl_and_Sir_Orfeo_1975.jpg/84px-Green_Knight%2C_Pearl_and_Sir_Orfeo_1975.jpg" decoding="async" loading="lazy" width="84" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/85/Green_Knight%2C_Pearl_and_Sir_Orfeo_1975.jpg/126px-Green_Knight%2C_Pearl_and_Sir_Orfeo_1975.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/85/Green_Knight%2C_Pearl_and_Sir_Orfeo_1975.jpg/168px-Green_Knight%2C_Pearl_and_Sir_Orfeo_1975.jpg 2x" data-file-width="490" data-file-height="730"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1975
+<p>1975 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Green_Knight,_Pearl_and_Sir_Orfeo_1979.png.md" title="1979 paperback"><img alt="1979 paperback" src="https://tolkiengateway.net/w/images/thumb/3/37/Green_Knight%2C_Pearl_and_Sir_Orfeo_1979.png/80px-Green_Knight%2C_Pearl_and_Sir_Orfeo_1979.png" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/37/Green_Knight%2C_Pearl_and_Sir_Orfeo_1979.png/121px-Green_Knight%2C_Pearl_and_Sir_Orfeo_1979.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/37/Green_Knight%2C_Pearl_and_Sir_Orfeo_1979.png/161px-Green_Knight%2C_Pearl_and_Sir_Orfeo_1979.png 2x" data-file-width="322" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa mềm năm 1979
+<p>1979 paperback
 </p>
 			</div>
 		</li>
@@ -144,7 +144,7 @@ Trong [2020](../_/2020.md), một phiên bản có nắp trượt sang trọng �
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/G/Green_Knight,_Pearl_and_Sir_Orfeo_2021.jpeg.md" title="2021 paperback"><img alt="2021 paperback" src="https://tolkiengateway.net/w/images/thumb/e/ec/Green_Knight%2C_Pearl_and_Sir_Orfeo_2021.jpeg/81px-Green_Knight%2C_Pearl_and_Sir_Orfeo_2021.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ec/Green_Knight%2C_Pearl_and_Sir_Orfeo_2021.jpeg/122px-Green_Knight%2C_Pearl_and_Sir_Orfeo_2021.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ec/Green_Knight%2C_Pearl_and_Sir_Orfeo_2021.jpeg/163px-Green_Knight%2C_Pearl_and_Sir_Orfeo_2021.jpeg 2x" data-file-width="500" data-file-height="767"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm năm 2021
+<p>2021 paperback
 </p>
 			</div>
 		</li>

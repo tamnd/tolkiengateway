@@ -28,7 +28,7 @@ infobox:
     value: "Single player, two/three-player co-operative"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LoTR_ACG_Banner.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/LoTR_ACG_Banner.jpg/320px-LoTR_ACG_Banner.jpg" decoding="async" loading="lazy" width="320" height="163" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/LoTR_ACG_Banner.jpg/480px-LoTR_ACG_Banner.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/LoTR_ACG_Banner.jpg/640px-LoTR_ACG_Banner.jpg 2x" data-file-width="3840" data-file-height="1958"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings: Adventure Card Game</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">Twin Sails Interactive / Antihero Studios</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Twin Sails Interactive / <a href="../F/Fantasy_Flight_Games.md" title="Fantasy Flight Games">Fantasy Flight Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Nintendo Switch, PlayStation 4, Xbox Series X and Series S, Microsoft Windows, Mac (Steam)</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/28_August.md" title="28 August">28 August</a> <a href="../_/2018.md" title="2018">2018</a> (early access) / <a href="../_/29_August.md" title="29 August">29 August</a> <a href="../_/2019.md" title="2019">2019</a> (full)</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Cooperative card-game</td></tr><tr><th scope="row" class="tg-infobox-label">Modes</th><td class="tg-infobox-data">Single player, two/three-player co-operative</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LoTR_ACG_Banner.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/LoTR_ACG_Banner.jpg/320px-LoTR_ACG_Banner.jpg" decoding="async" loading="lazy" width="320" height="163" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/LoTR_ACG_Banner.jpg/480px-LoTR_ACG_Banner.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/LoTR_ACG_Banner.jpg/640px-LoTR_ACG_Banner.jpg 2x" data-file-width="3840" data-file-height="1958"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings: Adventure Card Game</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data">Twin Sails Interactive / Antihero Studios</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Twin Sails Interactive / <a href="../F/Fantasy_Flight_Games.md" title="Fantasy Flight Games">Fantasy Flight Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data">Nintendo Switch, PlayStation 4, Xbox Series X and Series S, Microsoft Windows, Mac (Steam)</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/28_August.md" title="28 August">28 tháng 8</a> <a href="../_/2018.md" title="2018">2018</a> (truy cập sớm) / <a href="../_/29_August.md" title="29 August">29 tháng 8</a> <a href="../_/2019.md" title="2019">2019</a> (đầy đủ)</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Cooperative card-game</td></tr><tr><th scope="row" class="tg-infobox-label">Chế độ</th><td class="tg-infobox-data">Người chơi đơn, hợp tác hai/ba người chơi</td></tr></tbody></table>
 
 <br> **The Lord of the Rings: Trò chơi thẻ bài phiêu lưu** là một trò chơi bài kỹ thuật số được xuất bản vào ngày 28 tháng 8 năm 2018 (truy cập sớm) bởi Twin Sails Interactive (công ty con của Asmodee, công ty mẹ của Fantasy Flight Games). Vào ngày 29 tháng 8 năm 2019, nó được phát hành trên Steam cho Windows và Mac, và cuối năm đó được phát hành trên Nintendo Switch, PlayStation 4, Xbox Series X/Series S.
 
@@ -48,7 +48,7 @@ Các thẻ hành động và vật phẩm khác nhau cũng có một trong bốn
 
 Trong quá trình chơi trò chơi, thông thường chỉ được phép thực hiện một hành động (chẳng hạn như một nhân vật tấn công kẻ thù) hoặc một lá bài được chơi (tặng cho nhân vật một vật phẩm) mỗi lượt trước khi lượt chơi chuyển sang *Sauron*. Nếu nhân vật có đủ điểm Định mệnh, chúng có thể bao gồm việc chọn một hành động từ đồng hồ Định mệnh (lợi ích thay đổi theo từng trò chơi dựa trên kịch bản và vị trí trong kịch bản).
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MithrandirsAdvice.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0a/MithrandirsAdvice.png/300px-MithrandirsAdvice.png" decoding="async" loading="lazy" width="300" height="438" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/MithrandirsAdvice.png/450px-MithrandirsAdvice.png 1.5x, https://tolkiengateway.net/w/images/0/0a/MithrandirsAdvice.png 2x" data-file-width="569" data-file-height="831"/></a><figcaption><i>Example of Lore (green) card allowing the player to draw two cards.</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/MithrandirsAdvice.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0a/MithrandirsAdvice.png/300px-MithrandirsAdvice.png" decoding="async" loading="lazy" width="300" height="438" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/MithrandirsAdvice.png/450px-MithrandirsAdvice.png 1.5x, https://tolkiengateway.net/w/images/0/0a/MithrandirsAdvice.png 2x" data-file-width="569" data-file-height="831"/></a><figcaption><i>Ví dụ về lá bài Lore (màu xanh lá cây) cho phép người chơi rút hai lá bài.</i></figcaption></figure>
 
 ## Liên kết ngoài {#External_links}
 
@@ -56,10 +56,10 @@ Trong quá trình chơi trò chơi, thông thường chỉ được phép thực
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Card Games</a> set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Card_game" title="wikipedia:Card game">Trò chơi bài</a> được cấp phép được đặt trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Collectible Card Games</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Collectible_card_game" title="wikipedia:Collectible card game">Trò chơi thẻ bài sưu tầm</a></b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Middle Earth CCG</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/1998.md" title="1998">1998</a>) • <i><b><a href="The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Lord of the Rings TCG</a></b></i> (<a href="../_/2001.md" title="2001">2001</a>-<a href="../_/2007.md" title="2007">2007</a>)
@@ -71,19 +71,19 @@ Trong quá trình chơi trò chơi, thông thường chỉ được phép thực
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Tales of Middle Earth</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>) • <i><b><a href="../M/Magic%253A_The_Gathering_-_The_Hobbit.md" title="Magic: The Gathering - The Hobbit">The Hobbit</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Living Card Games</a></b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Expandable_card_game" title="wikipedia:Expandable card game">Trò chơi thẻ bài Living Card Games</a></b>
 </td></tr>
 <tr>
-<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a class="mw-selflink selflink">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> digital)
+<td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Card Game</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>-<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a class="mw-selflink selflink">Adventure Card Game</a></b></i> (<a href="../_/2022.md" title="2022">2022</a> kỹ thuật số)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Trick-Taking Game Series</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Loạt trò chơi ăn bài</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Fellowship of the Ring – Trick-Taking Game">Fellowship of the Ring</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_–_Trick-Taking_Game.md" title="The Lord of the Rings: The Two Towers – Trick-Taking Game">Two Towers</a></b></i> (<a href="../_/2026.md" title="2026">2026</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Card Games</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các trò chơi thẻ bài khác</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="The_Lord_of_the_Rings_Tarot.md" title="The Lord of the Rings Tarot">Tarot</a></b></i> (<a href="../_/1997.md" title="1997">1997</a>) • <i><b><a href="The_Hobbit_Card_Game.md" title="The Hobbit Card Game">The Hobbit</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) • <i><b><a href="../W/War_of_the_Ring%253A_The_Card_Game.md" title="War of the Ring: The Card Game">War of the Ring</a></b></i> (<a href="../_/2022.md" title="2022">2022</a>) • <i><b><a href="The_Lord_of_the_Rings%253A_Duel_for_Middle-earth.md" title="The Lord of the Rings: Duel for Middle-earth">Duel for Middle-earth</a></b></i> (<a href="../_/2024.md" title="2024">2024</a>)
@@ -92,7 +92,7 @@ Trong quá trình chơi trò chơi, thông thường chỉ được phép thực
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -125,7 +125,7 @@ Trong quá trình chơi trò chơi, thông thường chỉ được phép thực
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -135,7 +135,7 @@ Trong quá trình chơi trò chơi, thông thường chỉ được phép thực
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a class="mw-selflink selflink">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -145,7 +145,7 @@ Trong quá trình chơi trò chơi, thông thường chỉ được phép thực
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>

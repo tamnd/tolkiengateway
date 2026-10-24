@@ -17,55 +17,55 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Finally free form the chains of the ages <br/>
-The terror of ancient times <br/>
-Disregard the divine sentence <br/>
-Will of Valar disobeyed <br/>
+<p>Cuối cùng cũng được tự do khỏi xiềng xích của mọi thời đại <br/>
+Nỗi kinh hoàng thời xa xưa <br/>
+Bỏ qua câu thần chú <br/>
+Di chúc của Valar không được thực hiện <br/>
 <br/>
-Silent caverns, great kingdom of stone <br/>
-Long ago, fulfilled with life <br/>
-So many ages for the honoured Mahal <br/>
-Now defiled by Morgoth&#39;s tribe <br/>
+Hang động tĩnh lặng, vương quốc đá vĩ đại <br/>
+Đã lâu rồi, mãn nguyện với cuộc sống <br/>
+Quá nhiều thời đại cho Mahal được vinh danh <br/>
+Bây giờ bị bộ tộc của Morgoth làm ô uế <br/>
 <br/>
-Shadowed flames shall breath again <br/>
-The fire of vengeance, the death infernal <br/>
+Ngọn lửa bóng tối sẽ lại thở <br/>
+Ngọn lửa báo thù, cái chết địa ngục <br/>
 <br/>
-Too greedy and weak, too deep they are heading <br/>
-Aule&#39;s people the folk of the stone <br/>
-Reaching something, the forgotten keep <br/>
-Chamber of the cursed demon <br/>
-Call of Mithil charmed their hammers <br/>
-The vain of silver turned red by blood <br/>
-The hidden prison beneath the earth <br/>
-Their doom, Great Balrog released <br/>
-Dwarven warhearts fought with their fury <br/>
-Against this creature of hate <br/>
-Two dead kings and thousands of men <br/>
-Slain by the fiery blade <br/>
+Quá tham lam và yếu đuối, họ đang hướng tới quá sâu <br/>
+Người dân Aule dân tộc đá <br/>
+Đạt được thứ gì đó, vật bị lãng quên <br/>
+Căn phòng của con quỷ bị nguyền rủa <br/>
+Tiếng gọi của Mithil mê hoặc những chiếc búa của họ <br/>
+Chiếc bạc vô dụng nhuộm đỏ máu <br/>
+Nhà tù ẩn giấu dưới lòng đất <br/>
+Sự diệt vong của chúng, Great Balrog đã được giải phóng <br/>
+Người Lùn những trái tim chiến đấu hết mình <br/>
+Chống lại sinh vật đáng ghét này <br/>
+Hai vị vua chết và hàng ngàn người <br/>
+Bị giết bởi lưỡi kiếm lửa <br/>
 <br/>
-Soon it&#39;s over, alle the dwarfs defeated <br/>
-The silence of the carverns stand still <br/>
-Orcs took the command of the caves and depths <br/>
-The darklord has reached his will <br/>
+Chẳng bao lâu nữa mọi chuyện sẽ kết thúc, tất cả các chú lùn đã bị đánh bại <br/>
+Sự im lặng của những thợ khắc vẫn đứng yên <br/>
+Orc nắm quyền chỉ huy các hang động và độ sâu <br/>
+Chúa tể bóng tối đã đạt được ý muốn của mình <br/>
 <br/>
-Centuries went by and Sauron made a mistake <br/>
-He murder of Thor, dwarven king <br/>
-The revenge they swear, there&#39;s no other way <br/>
-Let the storms of war rise again <br/>
-The demon rages in the dungeons of Moria <br/>
-Sill a few went back to those caves <br/>
-They didn&#39;t survive, orcs breed again <br/>
-Hiding from the light of the day <br/>
+Nhiều thế kỷ trôi qua và Sauron đã mắc sai lầm <br/>
+Hắn đã sát hại Thor, vị vua người lùn <br/>
+Việc trả thù họ thề, không còn cách nào khác <br/>
+Hãy để giông bão chiến tranh trỗi dậy lần nữa <br/>
+Con quỷ hoành hành trong ngục tối của Moria <br/>
+Sill một số đã quay trở lại những hang động đó <br/>
+Chúng không sống sót, lũ Orc lại sinh sản <br/>
+Trốn tránh ánh sáng ban ngày <br/>
 <br/>
-All was silent under the stone <br/>
-Until he heroes arrived <br/>
-Demon was slain by the wizard of grey <br/>
-Mithrandir one of the Maiar <br/>
+Tất cả đều im lặng dưới phiến đá <br/>
+Cho đến khi anh hùng đến <br/>
+Ác quỷ đã bị giết bởi phù thủy áo xám <br/>
+Mithrandir một trong Maiar <br/>
 <br/>
-The last battle was fought <br/>
-There were kingdoms no more <br/>
-No heirs to demand their throne <br/>
-One great halls by the children of Aule <br/>
-Sill standing and never shall fall
+Trận chiến cuối cùng đã diễn ra <br/>
+Không còn vương quốc nào nữa <br/>
+Không có người thừa kế ngai vàng <br/>
+Một đại sảnh của những đứa trẻ Aule <br/>
+Bệ đứng và sẽ không bao giờ rơi
 </p>
 </div>

@@ -37,7 +37,7 @@ infobox:
     value: "Middle-earth: The Dragons"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_The_Wizards_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/320px-Middle-earth_The_Wizards_logo.png" decoding="async" loading="lazy" width="320" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/480px-Middle-earth_The_Wizards_logo.png 1.5x, https://tolkiengateway.net/w/images/1/17/Middle-earth_The_Wizards_logo.png 2x" data-file-width="595" data-file-height="237"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi thẻ sưu tập</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà thiết kế</th><td class="tg-infobox-data"><a href="../C/Coleman_Charlton.md" title="Coleman Charlton">Coleman Charlton</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_W._Curtis_III&amp;action=edit&amp;redlink=1" title="John W. Curtis III (page does not exist)">John W. Curtis III</a>, <a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Pete Fenlon</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Hawkins&amp;action=edit&amp;redlink=1" title="Jason Hawkins (page does not exist)">Jason Hawkins</a>, <a href="Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a><sup id="cite_ref-companion_1-0" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Development</th><td class="tg-infobox-data">Coleman Charlton, Mike Reynolds<sup id="cite_ref-companion_1-1" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thẻ</th><td class="tg-infobox-data">484</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">METW</td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Middle-earth%253A_The_Dragons.md" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_The_Wizards_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/320px-Middle-earth_The_Wizards_logo.png" decoding="async" loading="lazy" width="320" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/Middle-earth_The_Wizards_logo.png/480px-Middle-earth_The_Wizards_logo.png 1.5x, https://tolkiengateway.net/w/images/1/17/Middle-earth_The_Wizards_logo.png 2x" data-file-width="595" data-file-height="237"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi thẻ sưu tập</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà thiết kế</th><td class="tg-infobox-data"><a href="../C/Coleman_Charlton.md" title="Coleman Charlton">Coleman Charlton</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=John_W._Curtis_III&amp;action=edit&amp;redlink=1" title="John W. Curtis III (page does not exist)">John W. Curtis III</a>, <a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Pete Fenlon</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Hawkins&amp;action=edit&amp;redlink=1" title="Jason Hawkins (page does not exist)">Jason Hawkins</a>, <a href="Mike_Reynolds.md" title="Mike Reynolds">Mike Reynolds</a><sup id="cite_ref-companion_1-0" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Quá trình phát triển</th><td class="tg-infobox-data">Coleman Charlton, Mike Reynolds<sup id="cite_ref-companion_1-1" class="reference"><a href="#cite_note-companion-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thẻ</th><td class="tg-infobox-data">484</td></tr><tr><th scope="row" class="tg-infobox-label">Abbreviation</th><td class="tg-infobox-data">METW</td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="Middle-earth%253A_The_Dragons.md" title="Middle-earth: The Dragons">Middle-earth: The Dragons</a></td></tr></tbody></table>
 
 **Trung Địa: Pháp sư**, được phát hành vào [1995](../_/1995.md), là bộ cơ bản đầu tiên dành cho *[Middle-earth Collectible Card Game](Middle-earth_Collectible_Card_Game.md)*.
 
@@ -958,7 +958,7 @@ infobox:
 <td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
-<td>Rangers of Ithilien
+<td>Biệt đội Tuần du Ithilien
 </td>
 <td>Phe trong tài nguyên
 </td>
@@ -976,7 +976,7 @@ infobox:
 <td><span class="ext-floatingui-reference">F1</span><span class="ext-floatingui-content">Trong 1 bộ cố định</span>
 </td></tr>
 <tr>
-<td>Riders of Rohan
+<td>Kỵ binh Rohan
 </td>
 <td>Phe trong tài nguyên
 </td>
@@ -1435,7 +1435,7 @@ infobox:
 <td><span class="ext-floatingui-reference">U</span><span class="ext-floatingui-content">Uncommon</span>
 </td></tr>
 <tr>
-<td>Scroll of Isildur
+<td>Cuộn giấy của Isildur
 </td>
 <td>Vật phẩm tài nguyên
 </td>
@@ -1570,7 +1570,7 @@ infobox:
 <td><span class="ext-floatingui-reference">R</span><span class="ext-floatingui-content">Rare</span>
 </td></tr>
 <tr>
-<td>Ash Mountains
+<td>Dãy Núi Tro Tàn
 </td>
 <td>Sự kiện tài nguyên
 </td>
@@ -1894,7 +1894,7 @@ infobox:
 <td><span class="ext-floatingui-reference">CA1</span><span class="ext-floatingui-content">Một lần trên bảng chung</span>
 </td></tr>
 <tr>
-<td>Mirror of Galadriel
+<td>Tấm gương của Galadriel
 </td>
 <td>Sự kiện tài nguyên
 </td>
@@ -2758,7 +2758,7 @@ infobox:
 <td><span class="ext-floatingui-reference">CA2</span><span class="ext-floatingui-content">Hai lần trên bảng chung</span>
 </td></tr>
 <tr>
-<td>Watcher in the Water
+<td>Kẻ Canh Giữ dưới Nước
 </td>
 <td>Sinh vật nguy hiểm
 </td>
@@ -4315,7 +4315,7 @@ infobox:
 <td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Một lần trên bảng thông thường chỉ dành cho bộ tăng cường</span>
 </td></tr>
 <tr>
-<td>Redhorn Gate
+<td>Cửa ải Redhorn
 </td>
 <td>Region
 </td>
@@ -4387,7 +4387,7 @@ infobox:
 <td><span class="ext-floatingui-reference">CB1</span><span class="ext-floatingui-content">Một lần trên bảng thông thường chỉ dành cho bộ tăng cường</span>
 </td></tr>
 <tr>
-<td>Withered Heath
+<td>Hoang mạc Cằn Cỗi
 </td>
 <td>Region
 </td>
@@ -4534,21 +4534,21 @@ Andy Butcher, viết cho *Arcane*, cũng đã đánh giá *The Wizards*, nói r�
 		<li class="gallerybox" style="width: 84px">
 			<div class="thumb" style="width: 82px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Wizards_Advertisement.jpg.md" title="Advertisement"><img alt="Advertisement" src="https://tolkiengateway.net/w/images/thumb/9/91/MECCG_The_Wizards_Advertisement.jpg/123px-MECCG_The_Wizards_Advertisement.jpg" decoding="async" loading="lazy" width="82" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/91/MECCG_The_Wizards_Advertisement.jpg/185px-MECCG_The_Wizards_Advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/91/MECCG_The_Wizards_Advertisement.jpg/246px-MECCG_The_Wizards_Advertisement.jpg 2x" data-file-width="1400" data-file-height="2045"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 62px"><div class="gallerytext">
-<p>Advertisement
+<p>Quảng cáo
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 86px">
 			<div class="thumb" style="width: 84px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECG_The_Wizards_French_Advertisement.jpg.md" title="French advertisement"><img alt="French advertisement" src="https://tolkiengateway.net/w/images/thumb/7/70/MECG_The_Wizards_French_Advertisement.jpg/126px-MECG_The_Wizards_French_Advertisement.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/MECG_The_Wizards_French_Advertisement.jpg/189px-MECG_The_Wizards_French_Advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/70/MECG_The_Wizards_French_Advertisement.jpg/252px-MECG_The_Wizards_French_Advertisement.jpg 2x" data-file-width="4832" data-file-height="6912"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 64px"><div class="gallerytext">
-<p>Quảng cáo bằng tiếng Pháp
+<p>French advertisement
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 86px">
 			<div class="thumb" style="width: 84px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_The_Wizards_French_Advertisement_2.jpg.md" title="French advertisement"><img alt="French advertisement" src="https://tolkiengateway.net/w/images/thumb/a/a7/MECCG_The_Wizards_French_Advertisement_2.jpg/126px-MECCG_The_Wizards_French_Advertisement_2.jpg" decoding="async" loading="lazy" width="84" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/MECCG_The_Wizards_French_Advertisement_2.jpg/190px-MECCG_The_Wizards_French_Advertisement_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/MECCG_The_Wizards_French_Advertisement_2.jpg/253px-MECCG_The_Wizards_French_Advertisement_2.jpg 2x" data-file-width="4928" data-file-height="7010"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 64px"><div class="gallerytext">
-<p>Quảng cáo bằng tiếng Pháp
+<p>French advertisement
 </p>
 			</div></div>
 		</li>
@@ -4562,7 +4562,7 @@ Andy Butcher, viết cho *Arcane*, cũng đã đánh giá *The Wizards*, nói r�
 		<li class="gallerybox" style="width: 76.666666666667px">
 			<div class="thumb" style="width: 74.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg.md" title="Dutch advertisement"><img alt="Dutch advertisement" src="https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/112px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg" decoding="async" loading="lazy" width="75" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/168px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg/224px-Middle-earth_CCG_and_Toys_Dutch_advertisement.jpg 2x" data-file-width="1555" data-file-height="2500"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 55px"><div class="gallerytext">
-<p>Quảng cáo Hà Lan
+<p>Dutch advertisement
 </p>
 			</div></div>
 		</li>

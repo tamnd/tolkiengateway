@@ -81,7 +81,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a class="mw-redirect" href="../A/Arnach.md" title="Arnach">Arnach</a></li>
 <li><a href="../A/Arnor.md" title="Arnor">Arnor</a></li>
 <li><a href="../A/Arthedain.md" title="Arthedain">Arthedain</a></li>
-<li><a class="mw-redirect" href="../A/Ash_Mountains.md" title="Ash Mountains">Ash Mountains</a></li>
+<li><a class="mw-redirect" href="../A/Ash_Mountains.md" title="Ash Mountains">Dãy Núi Tro Tàn</a></li>
 <li><a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a></li>
 <li><a class="mw-redirect" href="../B/Barazinbar.md" title="Barazinbar">Baranzinbar</a><sup id="cite_ref-typo_15-0" class="reference"><a href="#cite_note-typo-15">[note 1]</a></sup></li>
 <li><a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a>, The</li>
@@ -184,7 +184,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../G/Gamwich.md" title="Gamwich">Gamwich</a></li>
 <li><a href="../G/Gap_of_Rohan.md" title="Gap of Rohan">Gap of Rohan</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gilrain_River&amp;action=edit&amp;redlink=1" title="Gilrain River (page does not exist)">Gilrain River</a></li>
-<li><a href="../G/Girdley_Island.md" title="Girdley Island">Girdley Island</a></li>
+<li><a href="../G/Girdley_Island.md" title="Girdley Island">Đảo Girdley</a></li>
 <li><a href="../G/Gladden_Fields.md" title="Gladden Fields">Gladden Fields</a></li>
 <li><a href="../G/Gladden_River.md" title="Gladden River">Gladden River</a></li>
 <li><a href="../G/Gondor.md" title="Gondor">Gondor</a></li>
@@ -192,7 +192,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Great_Burrow&amp;action=edit&amp;redlink=1" title="Great Burrow (page does not exist)">Great Burrow</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[note 2]</a></sup></li>
 <li><a class="mw-redirect" href="../G/Great_East_Road.md" title="Great East Road">Đại Lộ phía Đông</a></li>
 <li><a href="../G/Great_Smials.md" title="Great Smials">Đại Smials</a></li>
-<li><a href="../G/Green_Hill_Country.md" title="Green Hill Country">Green Hill Country</a></li>
+<li><a href="../G/Green_Hill_Country.md" title="Green Hill Country">Vùng Đồi Xanh</a></li>
 <li><a href="../G/Green_Hills.md" title="Green Hills">Green Hills</a></li>
 <li><a href="../G/Greenfields.md" title="Greenfields">Greenfields</a></li>
 <li><a href="../G/Greenholm.md" title="Greenholm">Greenholm</a></li>
@@ -307,7 +307,7 @@ Các vị trí sau xuất hiện trong chỉ mục:<sup id="cite_ref-14" class="
 <li><a href="../R/Rammas_Echor.md" title="Rammas Echor">Rammas Echor</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rast_Rhaen&amp;action=edit&amp;redlink=1" title="Rast Rhaen (page does not exist)">Rast Rhaen</a></li>
 <li><a class="mw-redirect" href="../R/Redhorn.md" title="Redhorn">Redhorn</a></li>
-<li><a href="../R/Redhorn_Gate.md" title="Redhorn Gate">Redhorn Gate</a></li>
+<li><a href="../R/Redhorn_Gate.md" title="Redhorn Gate">Cửa ải Redhorn</a></li>
 <li><a class="mw-redirect" href="../R/Redhorn_Pass.md" title="Redhorn Pass">Đèo Redhorn</a></li>
 <li><a href="../R/Rhimdath.md" title="Rhimdath">Rhimdath</a></li>
 <li><a href="../R/Rhosgobel.md" title="Rhosgobel">Rhosgobel</a></li>

@@ -31,10 +31,10 @@ infobox:
     value: "Oxford"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Robert Havard</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/15_March.md" title="15 March">15 March</a> <a href="../_/1901.md" title="1901">1901</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/17_July.md" title="17 July">17 July</a> <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data"><a href="../U/University_of_Oxford.md#Keble_College" title="University of Oxford">Keble College</a><br/><a href="../U/University_of_Oxford.md#Queen&#39;s_College" title="University of Oxford">Queen&#39;s College</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Physician</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../O/Oxford.md" title="Oxford">Oxford</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Robert Havard</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/15_March.md" title="15 March">15 March</a> <a href="../_/1901.md" title="1901">1901</a></td></tr><tr><th scope="row" class="tg-infobox-label">Qua đời</th><td class="tg-infobox-data"><a href="../_/17_July.md" title="17 July">17 July</a> <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Học vấn</th><td class="tg-infobox-data"><a href="../U/University_of_Oxford.md#Keble_College" title="University of Oxford">Keble College</a><br/><a href="../U/University_of_Oxford.md#Queen&#39;s_College" title="University of Oxford">Queen&#39;s College</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Physician</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../O/Oxford.md" title="Oxford">Oxford</a></td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Dr U.Q. Humphrey<br/>Made poultices of comfrey<br/>If you didn&#39;t pay his bills<br/>He gave you doses of squills
+<p>Tiến sĩ U.Q. Humphrey<br/>Làm thuốc đắp từ cây comfrey<br/>Nếu bạn không thanh toán các hóa đơn của ông ấy<br/>Ông ấy đã đưa cho bạn rất nhiều thuốc bổ
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-I177_1-0" class="reference"><a href="#cite_note-I177-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -53,7 +53,7 @@ Tolkien trở thành hàng xóm thân thiết của Havard khi anh chuyển đ�
 
 Vào [1968](../_/1968.md), Harvard đã nghỉ hưu từ ngành y. Ông chuyển đến <a class="extiw" href="http://en.wikipedia.org/wiki/Isle_of_Wight" title="wikipedia:Isle of Wight">Đảo Wight</a> và mất hầu hết liên lạc với Tolkien, mặc dù ông đã đến thăm ông ấy tại [Woodridings](../W/Woodridings.md) ít nhất hai lần.<sup id="cite_ref-CaG_3-1" class="reference"><a href="#cite_note-CaG-3">[3]</a></sup> Ông mất năm 1985.<sup id="cite_ref-JRRTE_6-1" class="reference"><a href="#cite_note-JRRTE-6">[6]</a></sup>
 
-<h2><span id="In_Tolkien.27s_works"></span><span class="mw-headline" id="In_Tolkien&#39;s_works">In Tolkien&#39;s works</span></h2>
+<h2><span id="In_Tolkien.27s_works"></span><span class="mw-headline" id="In_Tolkien&#39;s_works">Trong tác phẩm của Tolkien</span></h2>
 
 Trong *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)*, Robert Havard được xác định là [Rupert Dolbear](Rupert_Dolbear.md), một nhà hóa học nghiên cứu "được Câu lạc bộ biết đến với cái tên Rufus tàn nhẫn".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 

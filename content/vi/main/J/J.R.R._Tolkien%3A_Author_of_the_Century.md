@@ -71,7 +71,7 @@ Nội dung cuốn sách phần lớn tương tự như *[The Road to Middle-eart
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg.md" title="2000 hardcover &amp; 2001 paperback"><img alt="2000 hardcover &amp; 2001 paperback" src="https://tolkiengateway.net/w/images/thumb/5/51/J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg/82px-J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/51/J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg/124px-J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/51/J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg/165px-J.R.R._Tolkien_Author_of_the_Century_2000_UK.jpg 2x" data-file-width="731" data-file-height="1109"/></a></span></div>
 			<div class="gallerytext">
-<p>2000 bìa cứng &amp; 2001 bìa mềm
+<p>2000 hardcover &amp; 2001 paperback
 </p>
 			</div>
 		</li>
@@ -85,7 +85,7 @@ Nội dung cuốn sách phần lớn tương tự như *[The Road to Middle-eart
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Author_of_the_Century_2026_UK.jpg.md" title="2026 paperback"><img alt="2026 paperback" src="https://tolkiengateway.net/w/images/thumb/3/3c/J.R.R._Tolkien_Author_of_the_Century_2026_UK.jpg/81px-J.R.R._Tolkien_Author_of_the_Century_2026_UK.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3c/J.R.R._Tolkien_Author_of_the_Century_2026_UK.jpg/123px-J.R.R._Tolkien_Author_of_the_Century_2026_UK.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3c/J.R.R._Tolkien_Author_of_the_Century_2026_UK.jpg/163px-J.R.R._Tolkien_Author_of_the_Century_2026_UK.jpg 2x" data-file-width="979" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>2026 bìa mềm
+<p>2026 paperback
 </p>
 			</div>
 		</li>
@@ -102,7 +102,7 @@ Nội dung cuốn sách phần lớn tương tự như *[The Road to Middle-eart
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Author_of_the_Century_2001_US.jpg.md" title="2001 hardcover"><img alt="2001 hardcover" src="https://tolkiengateway.net/w/images/thumb/f/fd/J.R.R._Tolkien_Author_of_the_Century_2001_US.jpg/82px-J.R.R._Tolkien_Author_of_the_Century_2001_US.jpg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fd/J.R.R._Tolkien_Author_of_the_Century_2001_US.jpg/124px-J.R.R._Tolkien_Author_of_the_Century_2001_US.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fd/J.R.R._Tolkien_Author_of_the_Century_2001_US.jpg/165px-J.R.R._Tolkien_Author_of_the_Century_2001_US.jpg 2x" data-file-width="264" data-file-height="400"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 2001
+<p>2001 hardcover
 </p>
 			</div>
 		</li>

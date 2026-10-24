@@ -30,7 +30,7 @@ categories:
 <td><a href="../T/Thomas_M._Honegger.md" title="Thomas M. Honegger">Honegger, Thomas</a>
 </td></tr>
 <tr>
-<td>Alcuin (khoảng 735-804)</td>
+<td>Alcuin (ca. 735-804)</td>
 <td>Smith, William
 </td></tr>
 <tr>
@@ -470,7 +470,7 @@ categories:
 <td>Harper, Amelia
 </td></tr>
 <tr>
-<td>Egypt: Relationship to Númenóreans</td>
+<td>Egypt:  Relationship to Númenóreans</td>
 <td>Walsh, John
 </td></tr>
 <tr>
@@ -1314,7 +1314,7 @@ categories:
 <td><a href="../A/Anders_Stenström.md" title="Anders Stenström">Stenström, Anders &#39;Beregond&#39;</a>
 </td></tr>
 <tr>
-<td>Music in Middle-earth</td>
+<td>Âm nhạc ở Trung Địa</td>
 <td><a href="../B/Bradford_Lee_Eden.md" title="Bradford Lee Eden">Eden, Bradford Lee</a>
 </td></tr>
 <tr>
@@ -1838,7 +1838,7 @@ categories:
 <td><a href="Julaire_Andelin.md" title="Julaire Andelin">Andelin, Julaire</a>
 </td></tr>
 <tr>
-<td>Thu hoạch mùa xuân, A: G. Bache Smith, ed. J.R.R. Tolkien</td>
+<td>Spring Harvest, A: G. Bache Smith, ed. J.R.R. Tolkien</td>
 <td><a href="John_Garth.md" title="John Garth">Garth, John</a>
 </td></tr>
 <tr>
@@ -1982,7 +1982,7 @@ categories:
 <td><a href="../D/Douglas_A._Anderson.md" title="Douglas A. Anderson">Anderson, Douglas A.</a>
 </td></tr>
 <tr>
-<td>Tolkien (nhũ danh Suffield), Mabel (1870-1904)</td>
+<td>Tolkien (née Suffield), Mabel (1870-1904)</td>
 <td><a href="../C/Colin_Duriez.md" title="Colin Duriez">Duriez, Colin</a>
 </td></tr>
 <tr>

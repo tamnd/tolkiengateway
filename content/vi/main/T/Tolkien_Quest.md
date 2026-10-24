@@ -15,7 +15,7 @@ images:
   - "Tolkien_Quest_Logo.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_Quest_Logo.png.md" title="Tolkien Quest logo"><img alt="Tolkien Quest logo" src="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_Quest_Logo.png/250px-Tolkien_Quest_Logo.png" decoding="async" loading="lazy" width="250" height="115" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_Quest_Logo.png/375px-Tolkien_Quest_Logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_Quest_Logo.png/500px-Tolkien_Quest_Logo.png 2x" data-file-width="880" data-file-height="404"/></a><figcaption><i>Tolkien Quest</i> logo</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_Quest_Logo.png.md" title="Tolkien Quest logo"><img alt="Tolkien Quest logo" src="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_Quest_Logo.png/250px-Tolkien_Quest_Logo.png" decoding="async" loading="lazy" width="250" height="115" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_Quest_Logo.png/375px-Tolkien_Quest_Logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_Quest_Logo.png/500px-Tolkien_Quest_Logo.png 2x" data-file-width="880" data-file-height="404"/></a><figcaption>biểu tượng <i>Tolkien Quest</i></figcaption></figure>
 
 **Tolkien Quest** (TQ) là một loạt sách bìa mềm phiêu lưu solo dựa trên Hệ thống *QuestGame*, được xuất bản bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
 
@@ -34,7 +34,7 @@ Hai cuốn sách tiếp theo đã được lên kế hoạch xuất bản vào t
 		<li class="gallerybox" style="width: 234px">
 			<div class="thumb" style="width: 232px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_Quest.jpg.md" title="Advertisement on the back cover of Dragon Magazine #103"><img alt="Advertisement on the back cover of Dragon Magazine #103" src="https://tolkiengateway.net/w/images/thumb/4/49/Tolkien_Quest.jpg/348px-Tolkien_Quest.jpg" decoding="async" loading="lazy" width="232" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/49/Tolkien_Quest.jpg/521px-Tolkien_Quest.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/49/Tolkien_Quest.jpg/695px-Tolkien_Quest.jpg 2x" data-file-width="927" data-file-height="1200"/></a></span></div>
 			<div class="gallerytext">
-<p>Advertisement on the back cover of <a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Dragon Magazine</a> #103
+<p>Quảng cáo trên bìa sau Tạp chí <a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Rồng</a> #103
 </p>
 			</div>
 		</li>

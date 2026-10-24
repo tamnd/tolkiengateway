@@ -61,7 +61,7 @@ infobox:
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The Lord of the Rings là thần thoại. Đó là một câu chuyện cổ tích. Đó là một câu chuyện phiêu lưu. Nó chưa bao giờ xảy ra..ngoại trừ đâu đó trong trái tim chúng ta. Chưa hết, có Hobbiton không gian ba chiều và khói bốc ra từ những cái hố nơi họ sống dưới lòng đất. Và tôi đã tin.
 </p>
-<p class="tg-quote-footer"><cite>Ian McKellen, Lordoftherings.net</cite></p>
+<p class="tg-quote-footer"><cite>Ian McKellen, lordoftherings.net</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">

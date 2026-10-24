@@ -99,7 +99,7 @@ Elfwine là con trai của Vua [Éomer](../_/Éomer.md) của Rohan và [Lothír
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td><div class="tg-seq-label">Sinh</div><div class="tg-seq-value">Early <a href="../F/Fourth_Age.md" title="Fourth Age">Fourth Age</a></div></td><td><div class="tg-seq-title">Elfwine</div><div class="tg-seq-label">Nhà Eorl</div></td><td><div class="tg-seq-label">Qua đời</div><div class="tg-seq-value">không rõ</div></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../_/Éomer.md" title="Éomer">Éomer</a></div></td><td width="45%"><div class="tg-seq-value">Ngày 19 <a class="mw-redirect" href="../K/Kings_of_Rohan.md" title="Kings of Rohan">Vua Rohan</a></div><div class="tg-seq-label"><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_63.md" title="Fourth Age 63">63</a> – ??</div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value">không rõ</div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../_/Éomer.md" title="Éomer">Éomer</a></div></td><td width="45%"><div class="tg-seq-value">19th <a class="mw-redirect" href="../K/Kings_of_Rohan.md" title="Kings of Rohan">King of Rohan</a></div><div class="tg-seq-label"><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_63.md" title="Fourth Age 63">63</a> – ??</div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value">không rõ</div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

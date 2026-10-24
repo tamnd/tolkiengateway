@@ -43,25 +43,25 @@ Tên *Valkotukka* (<i><a class="extiw" href="http://en.wiktionary.org/wiki/valko
 
 <table style="margin:0 auto;" class="collapsible toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>The world of the <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Thế giới của <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i></b>
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Main characters:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Nhân vật chính:
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../F/Father_Christmas.md" title="Father Christmas">Father Christmas</a> · <a href="../N/North_Polar_Bear.md" title="North Polar Bear">North Polar Bear</a> · <a href="../I/Ilbereth.md" title="Ilbereth">Ilbereth</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Other characters:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Nhân vật khác:
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../M/Mr_Cave_Bear.md" title="Mr Cave Bear">Mr Cave Bear</a> · <a href="../G/Green_Brother.md" title="Green Brother">Green Brother</a> · <a href="../G/Grandfather_Yule.md" title="Grandfather Yule">Grandfather Yule</a><br/><a href="../M/Man_in_the_Moon.md" title="Man in the Moon">Man in the Moon</a> · <a href="../P/Paksu.md" title="Paksu">Paksu</a> &amp; <a class="mw-selflink selflink">Valkotukka</a> · <a href="../S/Snow_Man.md" title="Snow Man">Snow Man</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Races &amp; Peoples:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Các chủng tộc và dân tộc:
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../O/Orcs.md#Other_writings" title="Orcs">Goblins</a> · <a href="../G/Green-elves.md#Other_writings" title="Green-elves">Green elves</a> · <a href="../R/Red_Elves.md" title="Red Elves">Red Elves</a> · <a href="../S/Snow-elves.md" title="Snow-elves">Snow-elves</a> · <a href="../S/Snow-men.md" title="Snow-men">Snow-men</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../O/Orcs.md#Other_writings" title="Orcs">Goblin</a> · <a href="../G/Green-elves.md#Other_writings" title="Green-elves">Xanh Tiên tộc</a> · <a href="../R/Red_Elves.md" title="Red Elves">Đỏ Tiên tộc</a> · <a href="../S/Snow-elves.md" title="Snow-elves">Tuyết-Tiên tộc</a> · <a href="../S/Snow-men.md" title="Snow-men">Người tuyết</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Other concepts:
+<th align="right" style="background:var(--tg-color-surface-3); font-size: 90%; padding-left: 4px; padding-right: 4px;">Các khái niệm khác:
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/Arktik.md" title="Arktik">Arktik</a> · <a href="../G/Goblin_Alphabet.md" title="Goblin Alphabet">Goblin Alphabet</a> · <a href="../W/Windbeam.md" title="Windbeam">Windbeam</a>
 </td></tr>

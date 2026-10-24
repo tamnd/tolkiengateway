@@ -74,7 +74,7 @@ Cuốn sách chứa một số lượng lớn các trích đoạn chưa được
 <ul><li>II. <a href="../_/1892.md" title="1892">1892</a>-<a href="../_/1916.md" title="1916">1916</a>: Những năm đầu
 <ul><li>Bloemfontein</li>
 <li>Birmingham</li>
-<li>'Lang riêng.' - và Edith</li>
+<li>&#39;Private lang.&#39; - and Edith</li>
 <li>'T.C., B.S., v.v.'</li>
 <li>Oxford</li>
 <li>Reunion</li>
@@ -91,13 +91,13 @@ Cuốn sách chứa một số lượng lớn các trích đoạn chưa được
 <li>Jack</li>
 <li>Northmoor Road</li>
 <li>Người kể chuyện</li></ul></li></ul>
-<ul><li>V. 1925-1949 (ii): Sự Kỷ Đệ Tam
+<ul><li>V. 1925-1949 (ii): The Third Age
 <ul><li>Enter Mr Baggins</li>
-<li>'Cái Hobbit mới'</li></ul></li></ul>
+<li>&#39;The new Hobbit&#39;</li></ul></li></ul>
 <ul><li>VI. 1949-<a href="../_/1966.md" title="1966">1966</a>: Success
 <ul><li>Đóng sầm cổng</li>
 <li>Một rủi ro lớn</li>
-<li>Tiền mặt hoặc danh tiếng</li></ul></li></ul>
+<li>Cash or kudos</li></ul></li></ul>
 <ul><li>VII. <a href="../_/1959.md" title="1959">1959</a>-<a href="../_/1973.md" title="1973">1973</a>: Những năm qua
 <ul><li>Headington</li>
 <li>Bournemouth</li>
@@ -107,7 +107,7 @@ Cuốn sách chứa một số lượng lớn các trích đoạn chưa được
 <ul><li>A. Simplified bảng phả hệ</li>
 <li>B. Chronology sự kiện</li>
 <li>C. The các bài viết đã công bố của J. R. R. Tolkien</li>
-<li>D. Sources và lời cảm ơn</li></ul></li></ul>
+<li>D. Sources and acknowledgments</li></ul></li></ul>
 </div>
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
@@ -118,14 +118,14 @@ Cuốn sách chứa một số lượng lớn các trích đoạn chưa được
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_A_Biography_1977.png.md" title="1977 hardcover"><img alt="1977 hardcover" src="https://tolkiengateway.net/w/images/thumb/b/b8/Tolkien_A_Biography_1977.png/83px-Tolkien_A_Biography_1977.png" decoding="async" loading="lazy" width="83" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Tolkien_A_Biography_1977.png/125px-Tolkien_A_Biography_1977.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Tolkien_A_Biography_1977.png/166px-Tolkien_A_Biography_1977.png 2x" data-file-width="332" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1977
+<p>1977 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_A_Biography_1978.png.md" title="1978 paperback"><img alt="1978 paperback" src="https://tolkiengateway.net/w/images/thumb/5/53/Tolkien_A_Biography_1978.png/80px-Tolkien_A_Biography_1978.png" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/53/Tolkien_A_Biography_1978.png/121px-Tolkien_A_Biography_1978.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/53/Tolkien_A_Biography_1978.png/161px-Tolkien_A_Biography_1978.png 2x" data-file-width="322" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Sách bìa mềm năm 1978
+<p>1978 paperback
 </p>
 			</div>
 		</li>
@@ -139,7 +139,7 @@ Cuốn sách chứa một số lượng lớn các trích đoạn chưa được
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_A_Biography_1987.png.md" title="1987 paperback"><img alt="1987 paperback" src="https://tolkiengateway.net/w/images/thumb/b/b8/Tolkien_A_Biography_1987.png/80px-Tolkien_A_Biography_1987.png" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Tolkien_A_Biography_1987.png/121px-Tolkien_A_Biography_1987.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Tolkien_A_Biography_1987.png/160px-Tolkien_A_Biography_1987.png 2x" data-file-width="321" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa mềm năm 1987
+<p>1987 paperback
 </p>
 			</div>
 		</li>
@@ -167,7 +167,7 @@ Cuốn sách chứa một số lượng lớn các trích đoạn chưa được
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_A_Biography_2016.jpeg.md" title="2016 paperback"><img alt="2016 paperback" src="https://tolkiengateway.net/w/images/thumb/3/3f/Tolkien_A_Biography_2016.jpeg/81px-Tolkien_A_Biography_2016.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3f/Tolkien_A_Biography_2016.jpeg/123px-Tolkien_A_Biography_2016.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3f/Tolkien_A_Biography_2016.jpeg/163px-Tolkien_A_Biography_2016.jpeg 2x" data-file-width="1013" data-file-height="1551"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm 2016
+<p>2016 paperback
 </p>
 			</div>
 		</li>

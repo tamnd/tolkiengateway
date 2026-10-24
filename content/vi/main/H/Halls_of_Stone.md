@@ -72,7 +72,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../S/Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
-<td><a href="../D/Disa.md" title="Disa">Princess Disa</a>
+<td><a href="../D/Disa.md" title="Disa">Công chúa Disa</a>
 </td></tr>
 <tr>
 <td><a href="../C/Charles_Edwards.md" title="Charles Edwards">Charles Edwards</a></td>
@@ -96,7 +96,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../B/Benjamin_Walker.md" title="Benjamin Walker">Benjamin Walker</a></td>
-<td><a href="../G/Gil-galad.md" title="Gil-galad">High King Gil-galad</a>
+<td><a href="../G/Gil-galad.md" title="Gil-galad">Đại Vương Gil-galad</a>
 </td></tr>
 <tr>
 <td><a href="../R/Robert_Aramayo.md" title="Robert Aramayo">Robert Aramayo</a></td>
@@ -172,7 +172,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Chubb&amp;action=edit&amp;redlink=1" title="William Chubb (page does not exist)">William Chubb</a></td>
-<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=High_Priest&amp;action=edit&amp;redlink=1" title="High Priest (page does not exist)">High Priest</a>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=High_Priest&amp;action=edit&amp;redlink=1" title="High Priest (page does not exist)">Tư tế tối cao</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sam_Parks&amp;action=edit&amp;redlink=1" title="Sam Parks (page does not exist)">Sam Parks</a></td>

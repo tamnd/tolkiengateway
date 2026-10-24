@@ -60,7 +60,7 @@ infobox:
 <td>Cái chết may mắn, ký ức vinh quang<br/>
 </td></tr>
 <tr>
-<td>Nolwa Mahtar<br/>
+<td>Nolwa mahtar<br/>
 </td>
 <td>Người lính dũng cảm<br/>
 </td></tr>

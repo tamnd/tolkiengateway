@@ -13,7 +13,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>[…] this meta-text is sometimes referred to as “<b>fanon</b>.” Within an individual fandom, certain plotlines may be reinvented so many times and by so many people—or alternately may be written so persuasively by a few writers—that they take on the status of fan-produced canon.<sup id="cite_ref-parrish_1-0" class="reference"><a href="#cite_note-parrish-1">[1]</a></sup>
+<p>[…] siêu văn bản này đôi khi được gọi là “<b>fanon</b>.” Trong một cộng đồng người hâm mộ riêng lẻ, một số cốt truyện nhất định có thể được sáng tạo lại rất nhiều lần và bởi rất nhiều người—hoặc có thể được một số nhà văn viết một cách thuyết phục—đến mức chúng trở thành một tác phẩm kinh điển do người hâm mộ sản xuất.<sup id="cite_ref-parrish_1-0" class="reference"><a href="#cite_note-parrish-1">[1]</a></sup>
 </p>
 </blockquote><div class="tg-section-divider"></div></div>
 

@@ -28,7 +28,7 @@ images:
   - "Alan_Lee_-_A_Chance_Meeting.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the chapter in <a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></b>. For the actual quest, see <i><b><a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Quest of Erebor</a></b></i>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>chương trong <a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></b>. Để biết nhiệm vụ thực tế, hãy xem <i><b><a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Quest of Erebor</a></b></i>.</div></div>
 
 <table align="right" cellpadding="6" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2); word-wrap: break-word;border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
@@ -36,29 +36,29 @@ images:
 </th></tr>
 <tr>
 <td><b>Part One: The <a href="../F/First_Age.md" title="First Age">First Age</a></b>
-<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a></li>
+<ul><li><a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Việc Anh Đến Với Gondolin</a></li>
 <li><a href="../N/Narn_i_Hîn_Húrin.md" title="Narn i Hîn Húrin">Narn i Hîn Húrin</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Two: The <a href="../S/Second_Age.md" title="Second Age">Second Age</a></b>
-<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">A Description of Númenor</a></li>
+<ul><li><a href="../A/A_Description_of_the_Island_of_Númenor.md" title="A Description of the Island of Númenor">Mô tả về Númenor</a></li>
 <li><a href="../A/Aldarion_and_Erendis%253A_The_Mariner&#39;s_Wife.md" title="Aldarion and Erendis: The Mariner&#39;s Wife">Aldarion and Erendis</a></li>
-<li><a href="The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">The Line of Elros</a></li>
-<li><a href="The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">History of Galadriel and Celeborn</a></li></ul>
+<li><a href="The_Line_of_Elros%253A_Kings_of_Númenor.md" title="The Line of Elros: Kings of Númenor">Dòng dõi Elros</a></li>
+<li><a href="The_History_of_Galadriel_and_Celeborn.md" title="The History of Galadriel and Celeborn">Lịch sử Galadriel và Celeborn</a></li></ul>
 </td></tr>
 <tr>
 <td><b>Part Three: The <a href="Third_Age.md" title="Third Age">Third Age</a></b>
-<ul><li><a href="The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">Disaster of the Gladden Fields</a></li>
+<ul><li><a href="The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">Thảm họa Cánh đồng Gladden</a></li>
 <li><a href="../C/Cirion_and_Eorl_and_the_Friendship_of_Gondor_and_Rohan.md" title="Cirion and Eorl and the Friendship of Gondor and Rohan">Cirion and Eorl</a></li>
-<li><a class="mw-selflink selflink">The Quest of Erebor</a></li>
-<li><a href="The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">The Hunt for the Ring</a></li>
+<li><a class="mw-selflink selflink">Cuộc truy tìm Erebor</a></li>
+<li><a href="The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">Cuộc truy lùng Nhẫn</a></li>
 <li><a href="The_Battles_of_the_Fords_of_Isen.md" title="The Battles of the Fords of Isen">The Battles of the Fords of Isen</a></li></ul>
 </td></tr>
 <tr>
-<td><b>Part Four</b>
+<td><b>Phần Bốn</b>
 <ul><li><a href="The_Drúedain.md" title="The Drúedain">The Drúedain</a></li>
 <li><a href="The_Istari.md" title="The Istari">The Istari</a></li>
-<li><a href="The_Palantíri.md" title="The Palantíri">The Palantíri</a></li></ul>
+<li><a href="The_Palantíri.md" title="The Palantíri">Palantíri</a></li></ul>
 </td></tr></tbody></table>
 
 **Nhiệm vụ của Erebor** là một bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản sau khi di cảo ở *[Unfinished Tales](../U/Unfinished_Tales.md)* và cả ở hai nơi khác (xem phần "Lịch sử văn bản" bên dưới). Tác phẩm này giải thích cách thức và lý do [Gandalf](../G/Gandalf.md) sắp xếp để chiếm lại [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) (*Erebor* trong [Sindarin](../S/Sindarin.md)), một cuộc phiêu lưu được kể lại từ góc nhìn của [Bilbo Baggins](../B/Bilbo_Baggins.md) một thời gian trước đó trong cuộc phiêu lưu *[The Hobbit](The_Hobbit.md)*.
@@ -69,7 +69,7 @@ images:
 
 ## Tóm tắt {#Synopsis}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_A_Chance_Meeting.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e0/Alan_Lee_-_A_Chance_Meeting.jpg/300px-Alan_Lee_-_A_Chance_Meeting.jpg" decoding="async" loading="lazy" width="300" height="496" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e0/Alan_Lee_-_A_Chance_Meeting.jpg/450px-Alan_Lee_-_A_Chance_Meeting.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e0/Alan_Lee_-_A_Chance_Meeting.jpg/600px-Alan_Lee_-_A_Chance_Meeting.jpg 2x" data-file-width="1021" data-file-height="1688"/></a><figcaption><i>A chance meeting</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_A_Chance_Meeting.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e0/Alan_Lee_-_A_Chance_Meeting.jpg/300px-Alan_Lee_-_A_Chance_Meeting.jpg" decoding="async" loading="lazy" width="300" height="496" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e0/Alan_Lee_-_A_Chance_Meeting.jpg/450px-Alan_Lee_-_A_Chance_Meeting.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e0/Alan_Lee_-_A_Chance_Meeting.jpg/600px-Alan_Lee_-_A_Chance_Meeting.jpg 2x" data-file-width="1021" data-file-height="1688"/></a><figcaption><i>A chance meeting</i> của <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
 Gandalf biết rằng [Smaug](../S/Smaug.md) [Rồng](../D/Dragons.md) có thể gây ra mối đe dọa nghiêm trọng nếu được [Sauron](../S/Sauron.md) sử dụng, sau đó cư trú tại [Dol Guldur](../D/Dol_Guldur.md) ở [Mirkwood](../M/Mirkwood.md). Ông đang suy nghĩ về vấn đề này thì gặp [Thorin](Thorin.md) ở [Bree](../B/Bree.md). Thorin cũng lo ngại về Smaug, nhưng có động cơ khác là trả thù và đòi lại kho báu [Người Lùn](../D/Dwarves.md) trong Ngọn Núi Cô Đơn. Gandalf đã đồng ý giúp đỡ Thorin.
 

@@ -131,28 +131,28 @@ Hammond và Scull mô tả tác phẩm là lập dị, "bất chấp sự phân 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mr_Bliss_1983.jpg.md" title="1982 hardcover"><img alt="1982 hardcover" src="https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/125px-Mr_Bliss_1983.jpg" decoding="async" loading="lazy" width="125" height="89" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/188px-Mr_Bliss_1983.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/90/Mr_Bliss_1983.jpg/250px-Mr_Bliss_1983.jpg 2x" data-file-width="500" data-file-height="355"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1982
+<p>1982 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mr_Bliss_1994.png.md" title="1994 hardcover"><img alt="1994 hardcover" src="https://tolkiengateway.net/w/images/thumb/4/42/Mr_Bliss_1994.png/125px-Mr_Bliss_1994.png" decoding="async" loading="lazy" width="125" height="90" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Mr_Bliss_1994.png/188px-Mr_Bliss_1994.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/42/Mr_Bliss_1994.png/250px-Mr_Bliss_1994.png 2x" data-file-width="500" data-file-height="358"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1994
+<p>1994 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mr_Bliss_2007.jpg.md" title="2007 hardcover"><img alt="2007 hardcover" src="https://tolkiengateway.net/w/images/thumb/e/e3/Mr_Bliss_2007.jpg/101px-Mr_Bliss_2007.jpg" decoding="async" loading="lazy" width="101" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e3/Mr_Bliss_2007.jpg/152px-Mr_Bliss_2007.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e3/Mr_Bliss_2007.jpg/202px-Mr_Bliss_2007.jpg 2x" data-file-width="1210" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2007
+<p>2007 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Mr_Bliss_2011.jpg.md" title="2011 hardcover"><img alt="2011 hardcover" src="https://tolkiengateway.net/w/images/thumb/4/46/Mr_Bliss_2011.jpg/90px-Mr_Bliss_2011.jpg" decoding="async" loading="lazy" width="90" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Mr_Bliss_2011.jpg/135px-Mr_Bliss_2011.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Mr_Bliss_2011.jpg/179px-Mr_Bliss_2011.jpg 2x" data-file-width="1214" data-file-height="1690"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2011
+<p>2011 hardcover
 </p>
 			</div>
 		</li>

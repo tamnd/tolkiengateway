@@ -42,7 +42,7 @@ images:
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Shyangell_-_The_Twelve_Gondolin_Houses.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/Shyangell_-_The_Twelve_Gondolin_Houses.jpg/300px-Shyangell_-_The_Twelve_Gondolin_Houses.jpg" decoding="async" loading="lazy" width="300" height="102" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/Shyangell_-_The_Twelve_Gondolin_Houses.jpg/450px-Shyangell_-_The_Twelve_Gondolin_Houses.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/58/Shyangell_-_The_Twelve_Gondolin_Houses.jpg/600px-Shyangell_-_The_Twelve_Gondolin_Houses.jpg 2x" data-file-width="4843" data-file-height="1654"/></a><figcaption><i>The Twelve Gondolin Houses</i> by <a href="../../category/I/Images_by_Shyangell.md" title="Category:Images by Shyangell">Shyangell</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>This was the fashion and the array of the eleven houses of the Gondothlim with their signs and emblems, and the bodyguard of Tuor, the folk of the Wing, was accounted the twelve...
+<p>Đây là thời trang và cách sắp xếp của mười một gia tộc Gondothlim với các dấu hiệu và biểu tượng của họ, và vệ sĩ của Tuor, dân gian của Cánh, được coi là mười hai...
 </p>
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;<a href="The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -55,82 +55,82 @@ Khi [Gondothlim](../G/Gondothlim.md) biết rằng quân đội của [Melko](..
 
 <table class="wikitable sortable">
 <tbody><tr bgcolor="#F2E6CE">
-<th>Emblem</th>
-<th>House</th>
-<th>Leader</th>
-<th><a href="../H/Heraldry.md" title="Heraldry">Symbols and attributes</a>
+<th>Biểu tượng</th>
+<th>Gia tộc</th>
+<th>Thủ lĩnh</th>
+<th><a href="../H/Heraldry.md" title="Heraldry">Ký hiệu và thuộc tính</a>
 </th></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_King.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/Rondador_-_House_of_the_King.png/50px-Rondador_-_House_of_the_King.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Rondador_-_House_of_the_King.png/75px-Rondador_-_House_of_the_King.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/Rondador_-_House_of_the_King.png/100px-Rondador_-_House_of_the_King.png 2x" data-file-width="612" data-file-height="672"/></a></span></td>
 <td><a href="../H/House_of_the_King.md" title="House of the King">House of the King</a></td>
 <td><a href="Turgon.md#Other_versions_of_the_legendarium" title="Turgon">Turgon</a></td>
-<td><a href="../M/Moon.md" title="Moon">Moon</a>, <a href="../S/Sun.md" title="Sun">Sun</a>, <a href="../S/Scarlet_heart.md" title="Scarlet heart">scarlet heart</a>
+<td><a href="../M/Moon.md" title="Moon">Mặt Trăng</a>, <a href="../S/Sun.md" title="Sun">Mặt Trời</a>, <a href="../S/Scarlet_heart.md" title="Scarlet heart">trái tim đỏ tươi</a>
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Wing.png.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9c/Rondador_-_House_of_the_Wing.png/50px-Rondador_-_House_of_the_Wing.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9c/Rondador_-_House_of_the_Wing.png/75px-Rondador_-_House_of_the_Wing.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/9c/Rondador_-_House_of_the_Wing.png/100px-Rondador_-_House_of_the_Wing.png 2x" data-file-width="800" data-file-height="880"/></a></span></td>
-<td><a href="../H/House_of_the_Wing.md" title="House of the Wing">House of the Wing</a></td>
+<td><a href="../H/House_of_the_Wing.md" title="House of the Wing">Gia tộc Cánh</a></td>
 <td><a href="Tuor.md#Other_versions_of_the_legendarium" title="Tuor">Tuor</a></td>
 <td>White wing
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Mole.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/78/Rondador_-_House_of_the_Mole.png/50px-Rondador_-_House_of_the_Mole.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/78/Rondador_-_House_of_the_Mole.png/75px-Rondador_-_House_of_the_Mole.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/78/Rondador_-_House_of_the_Mole.png/100px-Rondador_-_House_of_the_Mole.png 2x" data-file-width="800" data-file-height="880"/></a></span></td>
-<td><a href="../H/House_of_the_Mole.md" title="House of the Mole">House of the Mole</a></td>
+<td><a href="../H/House_of_the_Mole.md" title="House of the Mole">Gia tộc Chuột Chũi</a></td>
 <td><a class="mw-redirect" href="../M/Meglin.md" title="Meglin">Meglin</a></td>
-<td>(No emblem), moleskin
+<td>(Không có biểu tượng), da chuột chũi
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Swallow.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e7/Rondador_-_House_of_the_Swallow.png/50px-Rondador_-_House_of_the_Swallow.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Rondador_-_House_of_the_Swallow.png/75px-Rondador_-_House_of_the_Swallow.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/Rondador_-_House_of_the_Swallow.png/100px-Rondador_-_House_of_the_Swallow.png 2x" data-file-width="800" data-file-height="880"/></a></span></td>
-<td><a href="../H/House_of_the_Swallow.md" title="House of the Swallow">House of the Swallow</a></td>
+<td><a href="../H/House_of_the_Swallow.md" title="House of the Swallow">Nhà Chim Én</a></td>
 <td><a href="../D/Duilin_(elf_of_Gondolin).md" title="Duilin (elf of Gondolin)">Duilin</a></td>
-<td>Arrowhead, fan of feathers
+<td>Đầu mũi tên, quạt lông vũ
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Heavenly_Arch.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e5/Rondador_-_House_of_the_Heavenly_Arch.png/50px-Rondador_-_House_of_the_Heavenly_Arch.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/Rondador_-_House_of_the_Heavenly_Arch.png/75px-Rondador_-_House_of_the_Heavenly_Arch.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e5/Rondador_-_House_of_the_Heavenly_Arch.png/100px-Rondador_-_House_of_the_Heavenly_Arch.png 2x" data-file-width="1024" data-file-height="1126"/></a></span></td>
-<td><a href="../H/House_of_the_Heavenly_Arch.md" title="House of the Heavenly Arch">House of the Heavenly Arch</a></td>
+<td><a href="../H/House_of_the_Heavenly_Arch.md" title="House of the Heavenly Arch">Ngôi nhà Vòm trời</a></td>
 <td><a href="../E/Egalmoth.md" title="Egalmoth">Egalmoth</a></td>
-<td>Rainbow, opal, jewelled boss
+<td>Cầu vồng, opal, trùm ngọc
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Pillar.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Rondador_-_House_of_the_Pillar.png/50px-Rondador_-_House_of_the_Pillar.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Rondador_-_House_of_the_Pillar.png/75px-Rondador_-_House_of_the_Pillar.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Rondador_-_House_of_the_Pillar.png/100px-Rondador_-_House_of_the_Pillar.png 2x" data-file-width="800" data-file-height="880"/></a></span></td>
 <td><a href="../H/House_of_the_Pillar.md" title="House of the Pillar">House of the Pillar</a></td>
 <td><a href="../P/Penlod.md" title="Penlod">Penlod</a></td>
-<td>A pillar
+<td>Một cây cột
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Tower_of_Snow.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/Rondador_-_House_of_the_Tower_of_Snow.png/50px-Rondador_-_House_of_the_Tower_of_Snow.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/Rondador_-_House_of_the_Tower_of_Snow.png/75px-Rondador_-_House_of_the_Tower_of_Snow.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/Rondador_-_House_of_the_Tower_of_Snow.png/100px-Rondador_-_House_of_the_Tower_of_Snow.png 2x" data-file-width="800" data-file-height="880"/></a></span></td>
 <td><a href="../H/House_of_the_Tower_of_Snow.md" title="House of the Tower of Snow">House of the Tower of Snow</a></td>
 <td>Penlod</td>
-<td>A tower
+<td>Một tòa tháp
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Tree.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/15/Rondador_-_House_of_the_Tree.png/50px-Rondador_-_House_of_the_Tree.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/15/Rondador_-_House_of_the_Tree.png/75px-Rondador_-_House_of_the_Tree.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/15/Rondador_-_House_of_the_Tree.png/100px-Rondador_-_House_of_the_Tree.png 2x" data-file-width="800" data-file-height="880"/></a></span></td>
-<td><a href="../H/House_of_the_Tree.md" title="House of the Tree">House of the Tree</a></td>
+<td><a href="../H/House_of_the_Tree.md" title="House of the Tree">Nhà Cây</a></td>
 <td><a href="../G/Galdor_(elf_of_Gondolin).md" title="Galdor (elf of Gondolin)">Galdor</a></td>
-<td>Tree, iron-studded club, slings
+<td>Cây, gậy sắt, cáp treo
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/H/House_of_the_Golden_Flower.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4a/House_of_the_Golden_Flower.png/50px-House_of_the_Golden_Flower.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4a/House_of_the_Golden_Flower.png/75px-House_of_the_Golden_Flower.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4a/House_of_the_Golden_Flower.png/100px-House_of_the_Golden_Flower.png 2x" data-file-width="800" data-file-height="880"/></a></span></td>
 <td><a href="../H/House_of_the_Golden_Flower.md" title="House of the Golden Flower">House of the Golden Flower</a></td>
 <td><a href="../G/Glorfindel.md#Other_versions_of_the_legendarium" title="Glorfindel">Glorfindel</a></td>
-<td>Rayed sun, golden flower (celandine)
+<td>Nắng chói chang, bông hoa vàng (cây hoàng liên)
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Fountain.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8e/Rondador_-_House_of_the_Fountain.png/50px-Rondador_-_House_of_the_Fountain.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8e/Rondador_-_House_of_the_Fountain.png/75px-Rondador_-_House_of_the_Fountain.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/8e/Rondador_-_House_of_the_Fountain.png/100px-Rondador_-_House_of_the_Fountain.png 2x" data-file-width="1024" data-file-height="1126"/></a></span></td>
 <td><a href="../H/House_of_the_Fountain.md" title="House of the Fountain">House of the Fountain</a></td>
 <td><a href="../E/Ecthelion.md" title="Ecthelion">Ecthelion</a></td>
-<td>Fountain, silver, diamonds, flute
+<td>Đài phun nước, bạc, kim cương, sáo
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Harp.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4b/Rondador_-_House_of_the_Harp.png/50px-Rondador_-_House_of_the_Harp.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4b/Rondador_-_House_of_the_Harp.png/75px-Rondador_-_House_of_the_Harp.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4b/Rondador_-_House_of_the_Harp.png/100px-Rondador_-_House_of_the_Harp.png 2x" data-file-width="800" data-file-height="880"/></a></span></td>
 <td><a href="../H/House_of_the_Harp.md" title="House of the Harp">House of the Harp</a></td>
 <td><a href="../S/Salgant.md" title="Salgant">Salgant</a></td>
-<td>Silver harp, tassels of silver and gold
+<td>Đàn hạc bạc, tua bạc và vàng
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rondador_-_House_of_the_Hammer_of_Wrath.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4b/Rondador_-_House_of_the_Hammer_of_Wrath.png/50px-Rondador_-_House_of_the_Hammer_of_Wrath.png" decoding="async" loading="lazy" width="50" height="55" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4b/Rondador_-_House_of_the_Hammer_of_Wrath.png/75px-Rondador_-_House_of_the_Hammer_of_Wrath.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4b/Rondador_-_House_of_the_Hammer_of_Wrath.png/100px-Rondador_-_House_of_the_Hammer_of_Wrath.png 2x" data-file-width="800" data-file-height="880"/></a></span></td>
-<td><a href="../H/House_of_the_Hammer_of_Wrath.md" title="House of the Hammer of Wrath">House of the Hammer of Wrath</a></td>
+<td><a href="../H/House_of_the_Hammer_of_Wrath.md" title="House of the Hammer of Wrath">Nhà Hammer of Wrath</a></td>
 <td><a href="../R/Rog.md" title="Rog">Rog</a></td>
-<td>Stricken anvil, red gold and black iron, maces
+<td>Đe mạnh, vàng đỏ và sắt đen, chùy
 </td></tr></tbody></table>
 
 Trong hội đồng, gần như tất cả các lãnh chúa đều đồng ý với Tuor rằng người Gondothlim nên rời khỏi thành phố trước khi cuộc bao vây bắt đầu, nhưng Turgon đã bị Meglin và Salgant thuyết phục ở lại chiến đấu trong thành phố mà họ yêu quý. Thế là cả nhà chuẩn bị chiến đấu.<sup id="cite_ref-Fall_1-1" class="reference"><a href="#cite_note-Fall-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:175–6</sup>
@@ -174,51 +174,51 @@ Tên [Gnomish](../G/Gnomish.md) *Gondothlim* dành cho người dân Gondolin sa
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../G/Gondolin.md" title="Gondolin">Realm of Gondolin</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../G/Gondolin.md" title="Gondolin">Vương quốc Gondolin</a></b>
 </th></tr>
 <tr>
 <td align="center" style="background: var(--tg-color-surface-4); font-size: 90%;" colspan="3"><i>Ondolindë</i> · Hidden City · City of Seven Names
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Outside locations
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Địa điểm bên ngoài
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a class="mw-redirect" href="../A/Amon_Gwared.md" title="Amon Gwared">Amon Gwared</a> · <a href="../A/Anghabar.md" title="Anghabar">Anghabar</a> · <a href="../E/Echoriad.md" title="Echoriad">Echoriad</a> (<a href="../C/Crissaegrim.md" title="Crissaegrim">Crissaegrim</a> · <a href="../E/Eithel_Nínui.md" title="Eithel Nínui">Eithel Nínui</a> · <a href="../F/Fingolfin&#39;s_Cairn.md" title="Fingolfin&#39;s Cairn">Fingolfin&#39;s cairn</a>) · <a href="../S/Seven_Gates_of_Gondolin.md" title="Seven Gates of Gondolin">Seven Gates of Gondolin</a> (<a href="../G/Gate_of_Wood.md" title="Gate of Wood">Gate of Wood</a> · <a href="../G/Gate_of_Stone.md" title="Gate of Stone">Gate of Stone</a> · <a href="../G/Gate_of_Bronze.md" title="Gate of Bronze">Gate of Bronze</a> · <a href="../G/Gate_of_Writhen_Iron.md" title="Gate of Writhen Iron">Gate of Writhen Iron</a> · <a href="../G/Gate_of_Silver.md" title="Gate of Silver">Gate of Silver</a> · <a href="../G/Gate_of_Gold.md" title="Gate of Gold">Gate of Gold</a> · <a href="../G/Gate_of_Steel.md" title="Gate of Steel">Gate of Steel</a>) · <a href="../O/Orfalch_Echor.md" title="Orfalch Echor">Orfalch Echor</a> · <a href="Tumladen.md" title="Tumladen">Tumladen</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a class="mw-redirect" href="../A/Amon_Gwared.md" title="Amon Gwared">Amon Gwared</a> · <a href="../A/Anghabar.md" title="Anghabar">Anghabar</a> · <a href="../E/Echoriad.md" title="Echoriad">Echoriad</a> (<a href="../C/Crissaegrim.md" title="Crissaegrim">Crissaegrim</a> · <a href="../E/Eithel_Nínui.md" title="Eithel Nínui">Eithel Nínui</a> · <a href="../F/Fingolfin&#39;s_Cairn.md" title="Fingolfin&#39;s Cairn">Fingolfin's cairn</a>) · <a href="../S/Seven_Gates_of_Gondolin.md" title="Seven Gates of Gondolin">Bảy Cánh Cổng của Gondolin</a> (<a href="../G/Gate_of_Wood.md" title="Gate of Wood">Cổng Gỗ</a> · <a href="../G/Gate_of_Stone.md" title="Gate of Stone">Cổng đá</a> · <a href="../G/Gate_of_Bronze.md" title="Gate of Bronze">Cổng đồng</a> · <a href="../G/Gate_of_Writhen_Iron.md" title="Gate of Writhen Iron">Cổng sắt rèn</a> · <a href="../G/Gate_of_Silver.md" title="Gate of Silver">Cổng bạc</a> · <a href="../G/Gate_of_Gold.md" title="Gate of Gold">Cổng vàng</a> · <a href="../G/Gate_of_Steel.md" title="Gate of Steel">Cổng thép</a>) · <a href="../O/Orfalch_Echor.md" title="Orfalch Echor">Orfalch Echor</a> · <a href="Tumladen.md" title="Tumladen">Tumladen</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Inside locations
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Địa điểm bên trong
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Alley_of_Roses.md" title="Alley of Roses">Alley of Roses</a> · <a href="../A/Arch_of_Inwë.md" title="Arch of Inwë">Arch of Inwë</a> · <a href="../C/Caragdûr.md" title="Caragdûr">Caragdûr</a> · <a href="../F/Fountains_of_the_South.md" title="Fountains of the South">Fountains of the South</a> · <a href="../G/Gar_Ainion.md" title="Gar Ainion">Gar Ainion</a> · <a href="../G/Great_Market.md" title="Great Market">Great Market</a> · <a href="../L/Lesser_Market.md" title="Lesser Market">Lesser Market</a> · <a href="../I/Idril&#39;s_secret_way.md" title="Idril&#39;s secret way">Idril&#39;s secret way</a> · <a href="../S/Square_of_the_Palace.md" title="Square of the Palace">Place of the Fountain</a> · <a href="../P/Place_of_the_Well.md" title="Place of the Well">Place of the Well</a> · <a href="../R/Road_of_Arches.md" title="Road of Arches">Road of Arches</a> · <a href="../R/Road_of_Pomps.md" title="Road of Pomps">Road of Pomps</a> · <a href="Tower_of_the_King.md" title="Tower of the King">Tower of the King</a> · <a href="../W/Way_of_Running_Waters.md" title="Way of Running Waters">Way of Running Waters</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Alley_of_Roses.md" title="Alley of Roses">Ngõ Hoa hồng</a> · <a href="../A/Arch_of_Inwë.md" title="Arch of Inwë">Vòm Inwë</a> · <a href="../C/Caragdûr.md" title="Caragdûr">Caragdûr</a> · <a href="../F/Fountains_of_the_South.md" title="Fountains of the South">Đài phun nước phía Nam</a> · <a href="../G/Gar_Ainion.md" title="Gar Ainion">Gar Ainion</a> · <a href="../G/Great_Market.md" title="Great Market">Chợ lớn</a> · <a href="../L/Lesser_Market.md" title="Lesser Market">Chợ nhỏ hơn</a> · <a href="../I/Idril&#39;s_secret_way.md" title="Idril&#39;s secret way">Idril con đường bí mật</a> · <a href="../S/Square_of_the_Palace.md" title="Square of the Palace">Nơi của Đài phun nước</a> · <a href="../P/Place_of_the_Well.md" title="Place of the Well">Nơi Giếng</a> · <a href="../R/Road_of_Arches.md" title="Road of Arches">Con đường Vòm</a> · <a href="../R/Road_of_Pomps.md" title="Road of Pomps">Con đường Pomps</a> · <a href="Tower_of_the_King.md" title="Tower of the King">Tháp Vua</a> · <a href="../W/Way_of_Running_Waters.md" title="Way of Running Waters">Con đường Nước Chảy</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Objects
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Đồ vật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Anguirel.md" title="Anguirel">Anguirel</a> · <a class="mw-redirect" href="../A/Axe_of_Tuor.md" title="Axe of Tuor">Axe of Tuor</a> · <a href="../C/Crown_of_the_Hidden_Kingdom.md" title="Crown of the Hidden Kingdom">Crown of the Hidden Kingdom</a> · <a href="../E/Elfstone.md" title="Elfstone">Elfstone</a> · <a href="../G/Glamdring.md" title="Glamdring">Glamdring</a> · <a href="../G/Glingal_and_Belthil.md" title="Glingal and Belthil">Glingal and Belthil</a> · <a href="../O/Orcrist.md" title="Orcrist">Orcrist</a> · <a href="../S/Sting.md" title="Sting">Sting</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a class="mw-selflink selflink">Houses</a>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a class="mw-selflink selflink">Các gia tộc</a>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../H/House_of_the_King.md" title="House of the King">House of the King</a> · <a href="../H/House_of_the_Wing.md" title="House of the Wing">House of the Wing</a> · <a href="../H/House_of_the_Mole.md" title="House of the Mole">House of the Mole</a> · <a href="../H/House_of_the_Swallow.md" title="House of the Swallow">House of the Swallow</a> · <a href="../H/House_of_the_Heavenly_Arch.md" title="House of the Heavenly Arch">House of the Heavenly Arch</a> · <a href="../H/House_of_the_Pillar.md" title="House of the Pillar">House of the Pillar</a> · <a href="../H/House_of_the_Tower_of_Snow.md" title="House of the Tower of Snow">House of the Tower of Snow</a> · <a href="../H/House_of_the_Tree.md" title="House of the Tree">House of the Tree</a> · <a href="../H/House_of_the_Golden_Flower.md" title="House of the Golden Flower">House of the Golden Flower</a> · <a href="../H/House_of_the_Fountain.md" title="House of the Fountain">House of the Fountain</a> · <a href="../H/House_of_the_Harp.md" title="House of the Harp">House of the Harp</a> · <a href="../H/House_of_the_Hammer_of_Wrath.md" title="House of the Hammer of Wrath">House of the Hammer of Wrath</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;"><a href="../G/Gondolindrim.md" title="Gondolindrim">People</a>
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;"><a href="../G/Gondolindrim.md" title="Gondolindrim">Nhân vật</a>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../A/Aranwë.md" title="Aranwë">Aranwë</a> · <a href="../A/Aredhel.md" title="Aredhel">Aredhel</a> · <a href="../D/Dark_Guard.md" title="Dark Guard">Dark Guard</a> · <a href="../D/Duilin_(elf_of_Gondolin).md" title="Duilin (elf of Gondolin)">Duilin</a> · <a href="../E/Eärendil.md" title="Eärendil">Eärendil</a> · <a href="../E/Ecthelion.md" title="Ecthelion">Ecthelion</a> · <a href="../E/Egalmoth.md" title="Egalmoth">Egalmoth</a> · <a href="../E/Elemmakil.md" title="Elemmakil">Elemmakil</a> · <a href="../E/Elenwë.md" title="Elenwë">Elenwë</a> · <a href="../E/Enerdhil.md" title="Enerdhil">Enerdhil</a> · <a href="../E/Eöl.md" title="Eöl">Eöl</a> · <a class="mw-redirect" href="../L/Lothlim.md" title="Lothlim">Exiles of Gondolin</a> · <a href="../G/Galdor_(elf_of_Gondolin).md" title="Galdor (elf of Gondolin)">Galdor</a> · <a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a> · <a href="../H/Huor.md" title="Huor">Huor</a> · <a href="../H/Húrin.md" title="Húrin">Húrin</a> · <a href="../H/Hendor.md" title="Hendor">Hendor</a> · <a href="../I/Idril.md" title="Idril">Idril</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Iron_Guards&amp;action=edit&amp;redlink=1" title="Iron Guards (page does not exist)">Iron Guards</a> · <a href="../L/Legolas_(elf_of_Gondolin).md" title="Legolas (elf of Gondolin)">Legolas</a> · <a href="../M/Maeglin.md" title="Maeglin">Maeglin</a> · <a href="../M/Meleth_(nurse).md" title="Meleth (nurse)">Meleth</a> · <a href="../P/Pengolodh.md" title="Pengolodh">Pengolodh</a> · <a href="../P/Penlod.md" title="Penlod">Penlod</a> · <a href="../R/Rog.md" title="Rog">Rog</a> · <a href="../S/Salgant.md" title="Salgant">Salgant</a> · <a href="Tuor.md" title="Tuor">Tuor</a> · <a href="Turgon.md" title="Turgon">Turgon</a> · <a href="../U/Ulmo.md" title="Ulmo">Ulmo</a> · <a href="../V/Voronwë.md" title="Voronwë">Voronwë</a> · <a href="../W/Warden_of_the_Great_Gate.md" title="Warden of the Great Gate">Warden of the Great Gate</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Events
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Sự kiện
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Fall of Gondolin</a> · <a href="../G/Gates_of_Summer.md" title="Gates of Summer">Gates of Summer</a> · <a href="../N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Nirnaeth Arnoediad</a> · <a href="../U/Ulmo&#39;s_warning.md" title="Ulmo&#39;s warning">Ulmo&#39;s warning</a> · <a class="mw-redirect" href="../W/Wanderings_of_Húrin.md" title="Wanderings of Húrin">Wanderings of Húrin</a>
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Sự sụp đổ của Gondolin</a> · <a href="../G/Gates_of_Summer.md" title="Gates of Summer">Cánh cổng mùa hè</a> · <a href="../N/Nirnaeth_Arnoediad.md" title="Nirnaeth Arnoediad">Nirnaeth Arnoediad</a> · <a href="../U/Ulmo&#39;s_warning.md" title="Ulmo&#39;s warning">Ulmo lời cảnh báo</a> · <a class="mw-redirect" href="../W/Wanderings_of_Húrin.md" title="Wanderings of Húrin">Những chuyến lang thang của Húrin</a>
 </td></tr>
 <tr>
-<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Main texts
+<th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px; padding-left: 4px;">Văn bản chính
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">Lost Tale</a> of <a href="The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a> (<a href="../_/1916.md" title="1916">1916</a>-<a href="../_/1920.md" title="1920">20</a>) · <a href="The_Lay_of_the_Fall_of_Gondolin.md" title="The Lay of the Fall of Gondolin">The Lay of the Fall of Gondolin</a> (c. 1920) · <a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a> (<a href="../_/1950.md" title="1950">1950</a>) · <a href="../O/Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Of Tuor and the Fall of Gondolin</a> (<a href="../_/1977.md" title="1977">1977</a>) · <i><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i> (<a href="../_/2018.md" title="2018">2018</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="The_Book_of_Lost_Tales.md" title="The Book of Lost Tales">Lost Tale</a> của <a href="The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a> (<a href="../_/1916.md" title="1916">1916</a>-<a href="../_/1920.md" title="1920">20</a>) · <a href="The_Lay_of_the_Fall_of_Gondolin.md" title="The Lay of the Fall of Gondolin">Sự nằm của Sự sụp đổ của Gondolin</a> (c. 1920) · <a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Việc Ngài Đến với Gondolin</a> (<a href="../_/1950.md" title="1950">1950</a>) · <a href="../O/Of_Tuor_and_the_Fall_of_Gondolin.md" title="Of Tuor and the Fall of Gondolin">Của Tuor và Sự sụp đổ của Gondolin</a> (<a href="../_/1977.md" title="1977">1977</a>) · <i><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)"><a class="mw-selflink selflink">Twelve houses of the Gondothlim</a>
+<th align="center" style="background:var(--tg-color-surface-5)"><a class="mw-selflink selflink">Mười hai gia tộc Gondothlim</a>
 </th></tr>
 <tr>
-<td style="font-size: 90%;" align="center"><a href="../H/House_of_the_King.md" title="House of the King">King</a> (<i>leader: <a href="Turgon.md" title="Turgon">Turgon</a></i>) · <a href="../H/House_of_the_Wing.md" title="House of the Wing">Wing</a> (<i><a href="Tuor.md" title="Tuor">Tuor</a></i>) · <a href="../H/House_of_the_Mole.md" title="House of the Mole">Mole</a> (<i><a href="../M/Maeglin.md" title="Maeglin">Meglin</a></i>) · <a href="../H/House_of_the_Swallow.md" title="House of the Swallow">Swallow</a> (<i><a href="../D/Duilin_(elf_of_Gondolin).md" title="Duilin (elf of Gondolin)">Duilin</a></i>) · <a href="../H/House_of_the_Heavenly_Arch.md" title="House of the Heavenly Arch">Heavenly Arch</a> (<i><a href="../E/Egalmoth.md" title="Egalmoth">Egalmoth</a></i>) · <a href="../H/House_of_the_Pillar.md" title="House of the Pillar">Pillar</a> (<i><a href="../P/Penlod.md" title="Penlod">Penlod</a></i>) · <a href="../H/House_of_the_Tower_of_Snow.md" title="House of the Tower of Snow">Tower of Snow</a> (<i><a href="../P/Penlod.md" title="Penlod">Penlod</a></i>) · <a href="../H/House_of_the_Tree.md" title="House of the Tree">Tree</a> (<i><a href="../G/Galdor_(elf_of_Gondolin).md" title="Galdor (elf of Gondolin)">Galdor</a></i>) · <a href="../H/House_of_the_Golden_Flower.md" title="House of the Golden Flower">Golden Flower</a> (<i><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></i>) · <a href="../H/House_of_the_Fountain.md" title="House of the Fountain">Fountain</a> (<i><a href="../E/Ecthelion.md" title="Ecthelion">Ecthelion</a></i>) · <a href="../H/House_of_the_Harp.md" title="House of the Harp">Harp</a> (<i><a href="../S/Salgant.md" title="Salgant">Salgant</a></i>) · <a href="../H/House_of_the_Hammer_of_Wrath.md" title="House of the Hammer of Wrath">Hammer of Wrath</a> (<i><a href="../R/Rog.md" title="Rog">Rog</a></i>)
+<td style="font-size: 90%;" align="center"><a href="../H/House_of_the_King.md" title="House of the King">Vua</a> (<i>leader: <a href="Turgon.md" title="Turgon">Turgon</a></i>) · <a href="../H/House_of_the_Wing.md" title="House of the Wing">Cánh</a> (<i><a href="Tuor.md" title="Tuor">Tuor</a></i>) · <a href="../H/House_of_the_Mole.md" title="House of the Mole">Nốt ruồi</a> (<i><a href="../M/Maeglin.md" title="Maeglin">Meglin</a></i>) · <a href="../H/House_of_the_Swallow.md" title="House of the Swallow">Én</a> (<i><a href="../D/Duilin_(elf_of_Gondolin).md" title="Duilin (elf of Gondolin)">Duilin</a></i>) · <a href="../H/House_of_the_Heavenly_Arch.md" title="House of the Heavenly Arch">Vòm trời</a> (<i><a href="../E/Egalmoth.md" title="Egalmoth">Egalmoth</a></i>) · <a href="../H/House_of_the_Pillar.md" title="House of the Pillar">Trụ cột</a> (<i><a href="../P/Penlod.md" title="Penlod">Penlod</a></i>) · <a href="../H/House_of_the_Tower_of_Snow.md" title="House of the Tower of Snow">Tháp Tuyết</a> (<i><a href="../P/Penlod.md" title="Penlod">Penlod</a></i>) · <a href="../H/House_of_the_Tree.md" title="House of the Tree">Cây</a> (<i><a href="../G/Galdor_(elf_of_Gondolin).md" title="Galdor (elf of Gondolin)">Galdor</a></i>) · <a href="../H/House_of_the_Golden_Flower.md" title="House of the Golden Flower">Hoa Vàng</a> (<i><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></i>) · <a href="../H/House_of_the_Fountain.md" title="House of the Fountain">Đài phun nước</a> (<i><a href="../E/Ecthelion.md" title="Ecthelion">Ecthelion</a></i>) · <a href="../H/House_of_the_Harp.md" title="House of the Harp">Đàn hạc</a> (<i><a href="../S/Salgant.md" title="Salgant">Salgant</a></i>) · <a href="../H/House_of_the_Hammer_of_Wrath.md" title="House of the Hammer of Wrath">Búa của Phẫn Nộ</a> (<i><a href="../R/Rog.md" title="Rog">Rog</a></i>)
 </td></tr></tbody></table>

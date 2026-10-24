@@ -23,7 +23,7 @@ infobox:
     value: "Galadhrim"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Elven_Brooch.jpg.md"><img src="https://tolkiengateway.net/w/images/0/05/John_Howe_-_Elven_Brooch.jpg" decoding="async" loading="lazy" width="197" height="398" class="mw-file-element" data-file-width="197" data-file-height="398"/></a><figcaption>&#34;Elven Brooch&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Clothing item</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Elven-brooches</span></th></tr><tr><th scope="row" class="tg-infobox-label">Owner</th><td class="tg-infobox-data"><a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a></td></tr><tr><th scope="row" class="tg-infobox-label">Appearance</th><td class="tg-infobox-data">Green leaf veined with silver</td></tr><tr><th scope="row" class="tg-infobox-label">Creator</th><td class="tg-infobox-data"><a href="../G/Galadhrim.md" title="Galadhrim">Galadhrim</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Elven_Brooch.jpg.md"><img src="https://tolkiengateway.net/w/images/0/05/John_Howe_-_Elven_Brooch.jpg" decoding="async" loading="lazy" width="197" height="398" class="mw-file-element" data-file-width="197" data-file-height="398"/></a><figcaption>&#34;Elven Brooch&#34; by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Mặt hàng quần áo</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Elven-brooches</span></th></tr><tr><th scope="row" class="tg-infobox-label">Chủ sở hữu</th><td class="tg-infobox-data"><a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Đoàn Hộ Nhẫn</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngoại hình</th><td class="tg-infobox-data">Lá xanh có gân bạc</td></tr><tr><th scope="row" class="tg-infobox-label">Người sáng tạo</th><td class="tg-infobox-data"><a href="../G/Galadhrim.md" title="Galadhrim">Galadhrim</a></td></tr></tbody></table>
 
 **Tiên-trâm cài** được trao cho tất cả chín thành viên của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) và được sử dụng để buộc [áo choàng có mũ trùm đầu](Elven_cloaks.md) do [Galadriel](../G/Galadriel.md) làm cho họ. Mỗi chiếc trâm cài được tạo hình như một chiếc lá xanh có viền bạc.<sup id="cite_ref-Farewell_1-0" class="reference"><a href="#cite_note-Farewell-1">[1]</a></sup>
 
@@ -43,13 +43,13 @@ Vào [7 tháng 3](../_/7_March.md),<sup id="cite_ref-Great_2-3" class="reference
 
 <b><a href="../_/2001.md" title="2001">2001</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>In the movie, in Scene 41, the members of the Fellowship receive their Elven-cloaks and brooches in Lórien.</dd></dl>
+<dl><dd>Trong phim, ở Cảnh 41, các thành viên của Hiệp hội nhận được Tiên-áo choàng và trâm cài Lórien.</dd></dl>
 
 <b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>In the movie, in Scene 4, one of the <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> smells &#34;manflesh&#34; and the Orcs began to race across <a href="../R/Rohan.md" title="Rohan">Rohan</a>. Unlike the text, Pippin is being carried and he immediately assumes that it is Aragorn whom the Orc smelled. He rips off his brooch and spits it onto the ground. Orc feet are seen pounding the brooch into the dirt.</dd></dl>
+<dl><dd>Trong phim, ở Cảnh 4, một trong những <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> có mùi "thịt người" và Orc bắt đầu chạy đua qua <a href="../R/Rohan.md" title="Rohan">Rohan</a>. Không giống như văn bản, Pippin đang được mang theo và ông ngay lập tức cho rằng Aragorn chính là người mà Orc đã ngửi thấy. Ông xé chiếc trâm cài của mình và nhổ nó xuống đất. Orc người ta nhìn thấy bàn chân đang đập chiếc trâm xuống đất.</dd></dl>
 
-<dl><dd>Later, in Scene 5, Aragorn halts his running and picks up the brooch, and speaks the line about the leaves of Lórien.</dd></dl>
+<dl><dd>Sau đó, ở Cảnh 5, Aragorn ngừng chạy và nhặt chiếc trâm cài lên, rồi nói lời thoại về những chiếc lá của Lórien.</dd></dl>
 
 <span></span>
 

@@ -35,13 +35,13 @@ images:
   - "Rob_Alexander_-_Return_of_the_King.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=King_of_Gondor&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=King_of_Gondor&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gondor_Heraldry.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0a/Gondor_Heraldry.png/250px-Gondor_Heraldry.png" decoding="async" loading="lazy" width="250" height="275" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/Gondor_Heraldry.png/375px-Gondor_Heraldry.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0a/Gondor_Heraldry.png/500px-Gondor_Heraldry.png 2x" data-file-width="800" data-file-height="880"/></a><figcaption>Coat of arms of the Royal <a href="../H/House_of_Anárion.md" title="House of Anárion">House of Anárion</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Gondor_Heraldry.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0a/Gondor_Heraldry.png/250px-Gondor_Heraldry.png" decoding="async" loading="lazy" width="250" height="275" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/Gondor_Heraldry.png/375px-Gondor_Heraldry.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0a/Gondor_Heraldry.png/500px-Gondor_Heraldry.png 2x" data-file-width="800" data-file-height="880"/></a><figcaption>Huy hiệu của Hoàng gia <a href="../H/House_of_Anárion.md" title="House of Anárion">Nhà Anárion</a></figcaption></figure>
 
 **Vua Gondor** là tước hiệu của những người cai trị [Númenórean](../N/Númenórean.md) (sau này gọi là [Dúnedain](../D/Dúnedain.md)) của [Gondor](../G/Gondor.md). Mỗi vị vua cai trị vương quốc theo khuôn khổ luật cổ xưa mà ông là người quản lý (và người phiên dịch) chứ không phải là người tạo ra luật đó.<sup id="cite_ref-politics_1-0" class="reference"><a href="#cite_note-politics-1">[1]</a></sup> Dòng dõi của các vị vua sẽ tồn tại hơn hai nghìn năm, nhưng cuối cùng sẽ thất bại với cái chết được cho là của Eärnur. Vương quyền sau này sẽ được khôi phục bởi Aragorn, hậu duệ giấu mặt của Elendil.
 
@@ -78,15 +78,15 @@ Các vị vua của Gondor có vương miện dùng làm huy hiệu cho chức v
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">
 <th><b>#</b></th>
-<th><b>Name</b></th>
-<th><b>Reign</b></th>
-<th><b>Notes</b>
+<th><b>Tên</b></th>
+<th><b>Triều đại</b></th>
+<th><b>Ghi chú</b>
 </th></tr>
 <tr>
 <td>1.</td>
 <td><a href="../E/Elendil.md" title="Elendil">Elendil</a></td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3320.md" title="Second Age 3320">3320</a> – <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3441.md" title="Second Age 3441">3441</a>†</td>
-<td>Reigned as High King of Gondor with his sons as co-rulers.
+<td>Trị vì là Đại Vương của Gondor với các con trai của ông là người đồng cai trị.
 </td></tr>
 <tr>
 <td>2.</td>
@@ -104,7 +104,7 @@ Các vị vua của Gondor có vương miện dùng làm huy hiệu cho chức v
 <td>3.</td>
 <td><a href="../M/Meneldil.md" title="Meneldil">Meneldil</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2.md" title="Third Age 2">2</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_158.md" title="Third Age 158">158</a></td>
-<td>Son of Anárion. First sole ruler of Gondor
+<td>Con trai của Anárion. Người cai trị duy nhất đầu tiên của Gondor
 </td></tr>
 <tr>
 <td>4.</td>
@@ -158,7 +158,7 @@ Các vị vua của Gondor có vương miện dùng làm huy hiệu cho chức v
 <td>12.</td>
 <td><a href="../T/Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_830.md" title="Third Age 830">830</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_913.md" title="Third Age 913">913</a></td>
-<td>First of the <a href="../S/Ship-kings.md" title="Ship-kings">Ship-kings</a>. Died childless
+<td>Đầu tiên là <a href="../S/Ship-kings.md" title="Ship-kings">Vua tàu</a>. Chết không con
 </td></tr>
 <tr>
 <td>13.</td>
@@ -188,13 +188,13 @@ Các vị vua của Gondor có vương miện dùng làm huy hiệu cho chức v
 <td>17.</td>
 <td><a href="../N/Narmacil_I.md" title="Narmacil I">Narmacil I</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1226.md" title="Third Age 1226">1226</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1294.md" title="Third Age 1294">1294</a></td>
-<td>Second childless king
+<td>Kỷ Đệ Nhị vị vua không con
 </td></tr>
 <tr>
 <td>18.</td>
 <td><a href="../C/Calmacil_(King_of_Gondor).md" title="Calmacil (King of Gondor)">Calmacil</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1294.md" title="Third Age 1294">1294</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1304.md" title="Third Age 1304">1304</a></td>
-<td>Younger brother of Narmacil. His son <a class="mw-redirect" href="../M/Minalcar.md" title="Minalcar">Minalcar</a> ruled as prince-regent from 1240 – 1304
+<td>Em trai của Narmacil. Con trai ông <a class="mw-redirect" href="../M/Minalcar.md" title="Minalcar">Minalcar</a> làm hoàng tử nhiếp chính từ 1240 – 1304
 </td></tr>
 <tr>
 <td>19.</td>
@@ -206,7 +206,7 @@ Các vị vua của Gondor có vương miện dùng làm huy hiệu cho chức v
 <td>20.</td>
 <td><a href="../V/Valacar.md" title="Valacar">Valacar</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1366.md" title="Third Age 1366">1366</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1432.md" title="Third Age 1432">1432</a></td>
-<td>Married <a href="../V/Vidumavi.md" title="Vidumavi">Vidumavi</a>, the daughter of <a href="../V/Vidugavia.md" title="Vidugavia">Vidugavia</a>
+<td>Đã kết hôn <a href="../V/Vidumavi.md" title="Vidumavi">Vidumavi</a>, con gái của <a href="../V/Vidugavia.md" title="Vidugavia">Vidugavia</a>
 </td></tr>
 <tr>
 <td>21.</td>
@@ -218,13 +218,13 @@ Các vị vua của Gondor có vương miện dùng làm huy hiệu cho chức v
 <td>22.</td>
 <td><a href="../C/Castamir.md" title="Castamir">Castamir</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1437.md" title="Third Age 1437">1437</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1447.md" title="Third Age 1447">1447</a>†</td>
-<td>Usurped the throne during the <a href="Kin-strife~3650.md" title="Kin-strife">Kin-strife</a>. Known as the Usurper
+<td>Tiếm đoạt ngai vàng trong <a href="Kin-strife~3650.md" title="Kin-strife">Xung đột họ tộc</a>. Được mệnh danh là kẻ chiếm đoạt
 </td></tr>
 <tr>
 <td>21a.</td>
 <td><a href="../E/Eldacar_(King_of_Gondor).md" title="Eldacar (King of Gondor)">Eldacar</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1447.md" title="Third Age 1447">1447</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1490.md" title="Third Age 1490">1490</a></td>
-<td>Won back the throne with aid from the <a href="../N/Northmen.md" title="Northmen">Northmen</a> and Dúnedain of Gondor
+<td>Giành lại ngai vàng với sự trợ giúp từ <a href="../N/Northmen.md" title="Northmen">Người phương Bắc</a> và Dúnedain Gondor
 </td></tr>
 <tr>
 <td>23.</td>
@@ -248,7 +248,7 @@ Các vị vua của Gondor có vương miện dùng làm huy hiệu cho chức v
 <td>26.</td>
 <td><a href="../T/Telemnar.md" title="Telemnar">Telemnar</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1634.md" title="Third Age 1634">1634</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1636.md" title="Third Age 1636">1636</a></td>
-<td>Died in the <a href="../G/Great_Plague.md" title="Great Plague">Great Plague</a> with all his children
+<td>Chết trong <a href="../G/Great_Plague.md" title="Great Plague">Đại Dịch</a> cùng với tất cả các con của mình
 </td></tr>
 <tr>
 <td>27.</td>
@@ -278,25 +278,25 @@ Các vị vua của Gondor có vương miện dùng làm huy hiệu cho chức v
 <td>31.</td>
 <td><a href="../O/Ondoher.md" title="Ondoher">Ondoher</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1936.md" title="Third Age 1936">1936</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1944.md" title="Third Age 1944">1944</a>†</td>
-<td>Died in battle with his two sons. His daughter <a href="../F/Fíriel.md" title="Fíriel">Fíriel</a> might have been ruling queen but was passed by.
+<td>Chết trong trận chiến với hai con trai của mình. Con gái <a href="../F/Fíriel.md" title="Fíriel">Fíriel</a> của ông có thể đã là hoàng hậu cầm quyền nhưng đã bị bỏ qua.
 </td></tr>
 <tr>
 <td>32.</td>
 <td><a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil II</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1945.md" title="Third Age 1945">1945</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2043.md" title="Third Age 2043">2043</a></td>
-<td>Descendant of Telumehtar Umbardacil. Was crowned after a year of rule by the <a class="mw-redirect" href="../S/Stewards_of_Gondor.md" title="Stewards of Gondor">Steward</a> <a href="../P/Pelendur.md" title="Pelendur">Pelendur</a>
+<td>Hậu duệ của Telumehtar Umbardacil. Được đăng quang sau một năm cầm quyền bởi <a class="mw-redirect" href="../S/Stewards_of_Gondor.md" title="Stewards of Gondor">Quản gia</a> <a href="../P/Pelendur.md" title="Pelendur">Pelendur</a>
 </td></tr>
 <tr>
 <td>33.</td>
 <td><a href="../E/Eärnur.md" title="Eärnur">Eärnur</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2043.md" title="Third Age 2043">2043</a> – <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2050.md" title="Third Age 2050">2050</a>†</td>
-<td>Last King of Gondor. Reign of the Stewards begins
+<td>Cuối cùng Vua Gondor. Triều đại của những người quản lý bắt đầu
 </td></tr>
 <tr>
 <td>34.</td>
 <td><a href="../A/Aragorn.md" title="Aragorn">Elessar</a></td>
 <td><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a> – <a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_120.md" title="Fourth Age 120">120</a></td>
-<td>First High King of the <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">Reunited Kingdom</a>, male-line descendant of Isildur, female-line descendant of Anárion via his ancestor Fíriel
+<td>Đại Vương đầu tiên của <a href="../R/Reunited_Kingdom.md" title="Reunited Kingdom">Vương quốc Thống nhất</a>, hậu duệ nam của Isildur, hậu duệ nữ của Anárion thông qua tổ tiên Fíriel
 </td></tr>
 <tr>
 <td>35.</td>
@@ -305,8 +305,8 @@ Các vị vua của Gondor có vương miện dùng làm huy hiệu cho chức v
 <td>
 </td></tr></tbody></table>
 
-<dl><dd><i>For a detailed family tree of the individual Kings of Gondor until Eärnur, see: <a href="../H/House_of_Anárion.md" title="House of Anárion">House of Anárion</a>.</i></dd>
-<dd><i>† Did not die a natural death</i></dd></dl>
+<dl><dd><i>Để biết cây phả hệ chi tiết của từng vị Vua từ Gondor cho đến Eärnur, hãy xem: <a href="../H/House_of_Anárion.md" title="House of Anárion">Gia tộc Anárion</a>.</i></dd>
+<dd><i>† Không chết một cách tự nhiên</i></dd></dl>
 
 ## Tên khác {#Other_names}
 

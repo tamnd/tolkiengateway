@@ -23,7 +23,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkiengrave.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ec/Tolkiengrave.jpg/200px-Tolkiengrave.jpg" decoding="async" loading="lazy" width="200" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ec/Tolkiengrave.jpg/300px-Tolkiengrave.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ec/Tolkiengrave.jpg/400px-Tolkiengrave.jpg 2x" data-file-width="2048" data-file-height="1536"/></a><figcaption>The Grave of J.R.R and Edith Tolkien</figcaption></figure>
 
-<h2><span id="The_Tolkiens.27_grave"></span><span class="mw-headline" id="The_Tolkiens&#39;_grave">The Tolkiens&#39; grave</span></h2>
+<h2><span id="The_Tolkiens.27_grave"></span><span class="mw-headline" id="The_Tolkiens&#39;_grave">Ngôi mộ của Tolkiens</span></h2>
 
 Edith Tolkien qua đời vào [28 tháng 11](../_/29_November.md), [1971](../_/1971.md), ở tuổi tám mươi hai, và Tolkien được khắc tên *Lúthien* trên đá của bà.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào những ngày chủ nhật sau nhà thờ, ông sẽ đến thăm mộ bà.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Khi Tolkien qua đời 21 tháng sau vì bệnh viêm phổi [2 tháng Chín](../_/2_September.md), [1973](../_/1973.md), tại Ông được chôn trong cùng một ngôi mộ ở tuổi 81, có thêm *Beren* tên,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nên dòng khắc bây giờ là:
 

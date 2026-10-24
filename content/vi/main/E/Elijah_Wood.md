@@ -72,7 +72,7 @@ Dàn diễn viên của loạt phim Rings đã được đề cử giải Diễn
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Đó không phải là một vai diễn bình thường, tôi không cần phải là một con người; Tôi phải là một hobbit. Và có những điều gần như bình thường đối với việc trở thành người hobbit, đó có lẽ là lý do tại sao nó lại hấp dẫn đến vậy.
 </p>
-<p class="tg-quote-footer"><cite>Elijah Wood trên Lordoftherings.net</cite></p>
+<p class="tg-quote-footer"><cite>Elijah Wood on lordoftherings.net</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">

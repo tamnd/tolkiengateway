@@ -30,9 +30,9 @@ infobox:
     value: "12+"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>War of the Ring</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="War_of_the_Ring_(disambiguation).md" title="War of the Ring (disambiguation)">War of the Ring (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Cuộc chiến Nhẫn</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="War_of_the_Ring_(disambiguation).md" title="War of the Ring (disambiguation)">Cuộc chiến Nhẫn (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/WotR_BoardGame_2011.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/320px-WotR_BoardGame_2011.webp.png" decoding="async" loading="lazy" width="320" height="217" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/480px-WotR_BoardGame_2011.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/640px-WotR_BoardGame_2011.webp.png 2x" data-file-width="1200" data-file-height="814"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Board game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>War of the Ring: Second Edition</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Roberto Di Meglio, Marco Maggi, <a href="../F/Francesco_Nepitello.md" title="Francesco Nepitello">Francesco Nepitello</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">John Howe</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/ARES_Games~73366.md" title="ARES Games">ARES Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">2-4</td></tr><tr><th scope="row" class="tg-infobox-label">Ages</th><td class="tg-infobox-data">12+</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/WotR_BoardGame_2011.webp.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/320px-WotR_BoardGame_2011.webp.png" decoding="async" loading="lazy" width="320" height="217" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/480px-WotR_BoardGame_2011.webp.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/WotR_BoardGame_2011.webp/640px-WotR_BoardGame_2011.webp.png 2x" data-file-width="1200" data-file-height="814"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi bàn</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>War of the Ring: Second Edition</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà thiết kế</th><td class="tg-infobox-data">Roberto Di Meglio, Marco Maggi, <a href="../F/Francesco_Nepitello.md" title="Francesco Nepitello">Francesco Nepitello</a></td></tr><tr><th scope="row" class="tg-infobox-label">Họa sĩ minh họa</th><td class="tg-infobox-data">John Howe</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/ARES_Games~73366.md" title="ARES Games">ARES Games</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người chơi</th><td class="tg-infobox-data">2-4</td></tr><tr><th scope="row" class="tg-infobox-label">Kỷ nguyên</th><td class="tg-infobox-data">12+</td></tr></tbody></table>
 
 **Cuộc chiến Nhẫn: Phiên bản thứ hai** là phiên bản nâng cao và cập nhật của [trò chơi board game cùng tên năm 2004](<War_of_the_Ring_(2004_board_game).md>).
 
@@ -62,25 +62,25 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 <table>
 <tbody><tr>
 <td valign="top" align="center" style="font-size:20px;" colspan="2">Free-Peoples</td>
-<td align="center" style="font-size:20px;">Shadow
+<td align="center" style="font-size:20px;">Bóng Tối
 </td></tr>
 <tr>
 <td>
 <table class="wikitable" style="padding: 2px;" width="300px">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<th style="font-size:18px"><a href="../D/Dwarves.md" title="Dwarves">Dwarves</a>
+<th style="font-size:18px"><a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a>
 </th></tr>
 <tr>
-<td>4 x Leader
+<td>4 × Thủ lĩnh
 <p>5 x Elite<br/>
 5 x Regular
 </p>
 </td></tr>
 <tr style="background:var(--tg-color-surface-3)">
-<th style="font-size:18px"><a href="../E/Elves.md" title="Elves">Elves</a>
+<th style="font-size:18px"><a href="../E/Elves.md" title="Elves">Tiên tộc</a>
 </th></tr>
 <tr>
-<td>4 x Leader
+<td>4 × Thủ lĩnh
 <p>10 x Elite<br/>
 5 x Regular
 </p>
@@ -89,7 +89,7 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 <th style="font-size:18px"><a href="../G/Gondor.md" title="Gondor">Gondor</a>
 </th></tr>
 <tr>
-<td>4 x Leader
+<td>4 × Thủ lĩnh
 <p>5 x Elite<br/>
 15 x Regular
 </p>
@@ -101,7 +101,7 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 <th style="font-size:18px"><a href="../N/Northmen.md" title="Northmen">The North</a>
 </th></tr>
 <tr>
-<td>4 x Leader
+<td>4 × Thủ lĩnh
 <p>5 x Elite<br/>
 10 x Regular
 </p>
@@ -110,7 +110,7 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 <th style="font-size:18px"><a href="../R/Rohan.md" title="Rohan">Rohan</a>
 </th></tr>
 <tr>
-<td>4 x Leader
+<td>4 × Thủ lĩnh
 <p>5 x Elite<br/>
 10 x Regular
 </p>
@@ -146,7 +146,7 @@ Mặc dù trò chơi là cuộc thi giữa các Dân tộc Tự do và Bóng T�
 
 ### Nhân vật {#Characters}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_the_Ring_2011_Components.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/300px-War_of_the_Ring_2011_Components.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/450px-War_of_the_Ring_2011_Components.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/600px-War_of_the_Ring_2011_Components.jpg 2x" data-file-width="800" data-file-height="600"/></a><figcaption>Selection of character miniatures and cards</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_the_Ring_2011_Components.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/300px-War_of_the_Ring_2011_Components.jpg" decoding="async" loading="lazy" width="300" height="225" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/450px-War_of_the_Ring_2011_Components.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/War_of_the_Ring_2011_Components.jpg/600px-War_of_the_Ring_2011_Components.jpg 2x" data-file-width="800" data-file-height="600"/></a><figcaption>Lựa chọn các mô hình nhân vật và thẻ bài</figcaption></figure>
 
 Ngoài quân đội dành riêng cho Quốc gia, cả Nhân dân Tự do và Lực lượng Bóng Tối đều phải bố trí các nhân vật độc đáo của mình một cách chiến lược.
 
@@ -229,7 +229,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td>North <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a> [Dwarves]
 </td></tr>
 <tr>
-<td><a href="../O/Old_Forest.md" title="Old Forest">Old Forest</a>
+<td><a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a>
 </td></tr>
 <tr>
 <td><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> [Elves SH]
@@ -264,7 +264,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td><a href="../D/Dol_Amroth.md" title="Dol Amroth">Dol Amroth</a> [Gondor SH]
 </td></tr>
 <tr>
-<td><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Dimrill Dale</a>
+<td><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Thung lũng Dimrill</a>
 </td></tr>
 <tr>
 <td><a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Drúadan Forest</a> [Gondor]
@@ -431,7 +431,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td>Western <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>
 </td></tr>
 <tr>
-<td><a href="Withered_Heath.md" title="Withered Heath">Withered Heath</a>
+<td><a href="Withered_Heath.md" title="Withered Heath">Hoang mạc Cằn Cỗi</a>
 </td></tr>
 <tr>
 <td><a href="Woodland_Realm.md" title="Woodland Realm">Woodland Realm</a> [Elves SH]
@@ -442,7 +442,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 </p>
 <table class="wikitable" style="padding: 2px;" width="250px">
 <tbody><tr>
-<td><a class="mw-redirect" href="../A/Ash_Mountains.md" title="Ash Mountains">Ash Mountains</a>
+<td><a class="mw-redirect" href="../A/Ash_Mountains.md" title="Ash Mountains">Dãy Núi Tro Tàn</a>
 </td></tr>
 <tr>
 <td><a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a> [Sauron SH]
@@ -451,7 +451,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td><a href="../D/Dagorlad.md" title="Dagorlad">Dagorlad</a>
 </td></tr>
 <tr>
-<td><a href="../D/Dead_Marshes.md" title="Dead Marshes">Dead Marshes</a>
+<td><a href="../D/Dead_Marshes.md" title="Dead Marshes">Đầm lầy Chết</a>
 </td></tr>
 <tr>
 <td>East <a class="mw-redirect" href="../H/Harondor.md" title="Harondor">Harondor</a>
@@ -466,7 +466,7 @@ Danh sách các địa điểm được nhóm lại một cách đại khái v�
 <td><a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a> [Sauron]
 </td></tr>
 <tr>
-<td><a href="../H/High_Pass.md" title="High Pass">High Pass</a>
+<td><a href="../H/High_Pass.md" title="High Pass">Đèo Cao</a>
 </td></tr>
 <tr>
 <td><a href="../K/Khand.md" title="Khand">Khand</a> [S&amp;E]

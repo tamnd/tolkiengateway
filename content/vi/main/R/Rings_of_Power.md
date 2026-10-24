@@ -32,12 +32,12 @@ images:
   - "J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Rings of Power</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Rings_of_Power_(disambiguation).md" title="Rings of Power (disambiguation)">Rings of Power (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Những Chiếc Nhẫn Quyền Năng</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Rings_of_Power_(disambiguation).md" title="Rings of Power (disambiguation)">Những Chiếc Nhẫn Quyền Năng (định hướng)</a></b>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Forging_of_the_Ring.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8a/Alan_Lee_-_The_Forging_of_the_Ring.jpg/200px-Alan_Lee_-_The_Forging_of_the_Ring.jpg" decoding="async" loading="lazy" width="200" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8a/Alan_Lee_-_The_Forging_of_the_Ring.jpg/300px-Alan_Lee_-_The_Forging_of_the_Ring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8a/Alan_Lee_-_The_Forging_of_the_Ring.jpg/400px-Alan_Lee_-_The_Forging_of_the_Ring.jpg 2x" data-file-width="622" data-file-height="933"/></a><figcaption><i>The Forging of the Ring</i> by  <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>In those days the smiths of <a href="../O/Ost-in-Edhil.md" title="Ost-in-Edhil">Ost-in-Edhil</a> surpassed all that they had contrived before; and they took thought, and they made Rings of Power. [...] Now the Elves made many rings; but secretly Sauron made <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a> to rule all the others, and their power was bound up with it, to be subject wholly to it and to last only so long as it too should last.
+<p>Vào thời đó, những người thợ rèn ở <a href="../O/Ost-in-Edhil.md" title="Ost-in-Edhil">Ost-in-Edhil</a> đã vượt qua tất cả những gì họ đã nghĩ ra trước đó; và họ đã suy nghĩ và họ đã tạo ra Những Chiếc Nhẫn Quyền Năng. [...] Bây giờ Tiên tộc đã tạo ra nhiều chiếc nhẫn; nhưng Sauron đã bí mật tạo ra <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">Nhẫn Chúa</a> để cai trị tất cả những người khác, và quyền lực của họ gắn liền với nó, hoàn toàn phụ thuộc vào nó và chỉ tồn tại chừng nào nó còn tồn tại.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Of the Rings of Power and the Third Age</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -49,14 +49,14 @@ images:
 Một câu tóm tắt những chiếc Nhẫn Vĩ Đại và quyền sở hữu của chúng được dịch như sau:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Three Rings for the Elven-kings under the sky,<br/>
-Seven for the Dwarf-lords in their halls of stone,<br/>
-Nine for Mortal Men doomed to die,<br/>
-One for the Dark Lord on his dark throne<br/>
-In the Land of Mordor where the Shadows lie<br/>
-One ring to rule them all, one ring to find them,<br/>
-One ring to bring them all and in the darkness bind them<br/>
-In the Land of Mordor where the Shadows lie.
+<p>Ba Chiếc Nhẫn dành cho Tiên-vị vua dưới bầu trời,<br/>
+Bảy cho các Người Lùn-lãnh chúa trong đại sảnh bằng đá của họ,<br/>
+Chín cho phàm nhân Con Người phải chết,<br/>
+Một cho Chúa tể Bóng tối trên ngai vàng đen tối của hắn<br/>
+Ở Vùng đất Mordor nơi Bóng tối ngự trị<br/>
+Một chiếc nhẫn để thống trị tất cả, một chiếc nhẫn để tìm ra chúng,<br/>
+Một chiếc nhẫn để mang tất cả bọn họ lại và trói buộc họ trong bóng tối<br/>
+Ở Vùng đất Mordor nơi Bóng tối ngự trị.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="Ring-verse.md" title="Ring-verse">Ring-verse</a></cite></p>
 </blockquote>
@@ -65,25 +65,25 @@ Ba Chiếc Nhẫn, Bảy và Chín đều được đính đá quý phù hợp, 
 
 ### Chín {#The_Nine}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/Nine_Rings.md" title="Nine Rings">Nine Rings</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../N/Nine_Rings.md" title="Nine Rings">Chín chiếc nhẫn</a></b></div></div>
 
 *Nine Rings* được chia thành những kẻ có trái tim độc ác, những người nhận thấy khả năng của mình ngày càng tăng lên và trở thành phù thủy và Vua trong số Con Người. Chúng có được tuổi thọ nhưng sau đó lụi tàn để trở thành [Nazgûl](../N/Nazgûl.md), Nazgûl, bị thống trị bởi ý chí Sauron.
 
 ### Bảy {#The_Seven}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Seven_Rings.md" title="Seven Rings">Seven Rings</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../S/Seven_Rings.md" title="Seven Rings">Bảy Chiếc Nhẫn</a></b></div></div>
 
 Sauron đã tặng khoảng sáu chiếc Nhẫn cho các vị vua Người Lùn, mặc dù theo truyền thống của Người Lùn thì Tiên tộc đã trao [một chiếc](Ring_of_Thrór.md) cho [Durin III](../D/Durin_III.md). Sauron không thể buộc những người mang Người Lùn phải phục tùng, tuy nhiên những chiếc nhẫn đã khuếch đại đáng kể mong muốn thống trị của các vị vua Người Lùn. Họ trở nên tham lam, thiết lập những kho báu lớn mà cuối cùng mang đến sự hủy diệt cho vương quốc của họ.
 
 ### Ba {#The_Three}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Three_Rings.md" title="Three Rings">Three Rings</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/Three_Rings.md" title="Three Rings">Ba Chiếc Nhẫn</a></b></div></div>
 
 *Three Rings* của Tiên tộc được tạo ra lần cuối, chỉ được rèn bởi [Celebrimbor](../C/Celebrimbor.md) và không bao giờ bị Sauron chạm vào. Tuy nhiên, việc rèn của họ liên quan đến một số nghệ thuật được dạy bởi "Annatar". Vì thế họ cũng bị ràng buộc với Nhẫn Chúa ở một mức độ nào đó. Chúng được đặt tên là [Narya](../N/Narya.md) Nhẫn Lửa, [Nenya](../N/Nenya.md) Nhẫn Nước và [Vilya](../V/Vilya.md) Nhẫn Khí; họ vẫn bị ẩn khỏi Sauron.
 
 ### Người duy nhất {#The_One}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/The_One_Ring.md" title="The One Ring">The One Ring</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../T/The_One_Ring.md" title="The One Ring">Cái Nhẫn Chúa</a></b></div></div>
 
 *One Ring*, được Sauron bí mật rèn trong lòng [Núi Diệt Vong](../M/Mount_Doom.md), có sức mạnh thống trị mười sáu chiếc nhẫn thuộc sở hữu của Người Lùn và Con Người. Quyền cai trị của ông ta đối với những chiếc nhẫn khác vẫn chưa hoàn thiện, nhưng ông ta đã đặt một lượng lớn sức mạnh của mình vào đó khi rèn nó, một điều cần thiết mà sau này đã dẫn đến sự sụp đổ của ông ta dưới tay [Frodo Baggins](../F/Frodo_Baggins.md)'.
 
@@ -119,7 +119,7 @@ The One đã bị mất và được tìm lại cho đến khi nó bị phá h�
 
 Tất cả Những Chiếc Nhẫn Quyền Năng đều có một số thuộc tính chung nhất định. Tiên tộc của Eregion đã tạo ra những chiếc nhẫn để bảo tồn vùng đất của họ, cố gắng làm cho chúng đẹp đẽ như [Valinor](../V/Valinor.md). Vì vậy, sức mạnh chính của các vòng là ngăn chặn và làm giảm tốc độ phân rã và thay đổi. Những chiếc nhẫn cũng tăng sức mạnh tự nhiên của người đeo, dường như mang lại khả năng '[ma thuật](../M/Magic.md)'.<sup id="cite_ref-L131_7-0" class="reference"><a href="#cite_note-L131-7">[7]</a></sup>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jef_Murray_-_In_Her_Father&#39;s_Garden.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/02/Jef_Murray_-_In_Her_Father%27s_Garden.jpg/300px-Jef_Murray_-_In_Her_Father%27s_Garden.jpg" decoding="async" loading="lazy" width="300" height="186" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/02/Jef_Murray_-_In_Her_Father%27s_Garden.jpg/450px-Jef_Murray_-_In_Her_Father%27s_Garden.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/02/Jef_Murray_-_In_Her_Father%27s_Garden.jpg/600px-Jef_Murray_-_In_Her_Father%27s_Garden.jpg 2x" data-file-width="800" data-file-height="496"/></a><figcaption><i>In her father&#39;s garden</i> by <a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jef_Murray_-_In_Her_Father&#39;s_Garden.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/02/Jef_Murray_-_In_Her_Father%27s_Garden.jpg/300px-Jef_Murray_-_In_Her_Father%27s_Garden.jpg" decoding="async" loading="lazy" width="300" height="186" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/02/Jef_Murray_-_In_Her_Father%27s_Garden.jpg/450px-Jef_Murray_-_In_Her_Father%27s_Garden.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/02/Jef_Murray_-_In_Her_Father%27s_Garden.jpg/600px-Jef_Murray_-_In_Her_Father%27s_Garden.jpg 2x" data-file-width="800" data-file-height="496"/></a><figcaption><i>In her father&#39;s garden</i> của <a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></figcaption></figure>
 
 Nhẫn Một là Nhẫn Chúa, nó sẽ cho phép bất cứ ai làm chủ nó có quyền kiểm soát những chiếc nhẫn khác (ngoại trừ Ba), công việc được thực hiện thông qua chúng, đồng thời có thể nhận thức và kiểm soát suy nghĩ của bất kỳ ai đeo chúng. Người đeo Nhẫn Chúa cũng có thể hiểu lời nói bằng những ngôn ngữ mà họ không biết, hoặc ít nhất là [Hắc Ngữ](../B/Black_Speech.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Tuy nhiên, Chiếc nhẫn đã làm hỏng trái tim và tâm trí, khiến người sở hữu nó bị ám ảnh bởi nó.
 
@@ -131,7 +131,7 @@ Bộ ba không làm cho người đeo của họ trở nên vô hình<sup id="ci
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg/300px-J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg/450px-J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg/600px-J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg 2x" data-file-width="1280" data-file-height="1600"/></a><figcaption>The One Ring and the Three in the <a href="../T/The_Lord_of_the_Rings%252FOriginal_dust-jacket_designs.md" title="The Lord of the Rings/Original dust-jacket designs">dust-jacket</a> design for <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg/300px-J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg" decoding="async" loading="lazy" width="300" height="375" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg/450px-J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg/600px-J.R.R._Tolkien_-_The_Fellowship_of_the_Ring_2.jpg 2x" data-file-width="1280" data-file-height="1600"/></a><figcaption>Thiết kế Nhẫn Chúa và Ba trong <a href="../T/The_Lord_of_the_Rings%252FOriginal_dust-jacket_designs.md" title="The Lord of the Rings/Original dust-jacket designs">áo chống bụi</a> dành cho <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
 Trong bản thảo ban đầu của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, có nhiều yếu tố khác nhau liên quan đến Những Chiếc Nhẫn Quyền Năng:<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
@@ -151,25 +151,25 @@ Những chiếc Nhẫn là câu chuyện nền được bổ sung bởi Tolkien,
 
 <b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">Ralph Bakshi <i>The Lord of the Rings</i></a>:</b>
 
-<dl><dd>In the introduction of the movie, the Rings are portrayed as a purely Elven conception and creation, which the Elves generously gave to the Dwarves and Men. It was when Sauron &#39;learned of the Ring-making&#39; when he forged the One Ring.</dd>
-<dd>It contrasts the canonical account according to which the Rings were always a part of Sauron&#39;s plan, and Sauron distributed them to the Dwarves and Men after the Elves turned against him.</dd></dl>
+<dl><dd>Trong phần giới thiệu của bộ phim, những chiếc Nhẫn được miêu tả như một ý tưởng và sự sáng tạo Tiên thuần túy mà Tiên tộc đã hào phóng trao tặng cho Người Lùn và Con Người. Đó là khi Sauron 'biết cách chế tạo chiếc nhẫn' khi ông rèn Nhẫn Chúa.</dd>
+<dd>Nó trái ngược với tài khoản kinh điển theo đó những chiếc Nhẫn luôn là một phần của kế hoạch Sauron và Sauron đã phân phối chúng cho Người Lùn và Con Người sau khi Tiên tộc quay lưng lại với ông.</dd></dl>
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>In the <a href="../P/Prologue%253A_One_Ring_to_Rule_Them_All....md" title="Prologue: One Ring to Rule Them All...">Prologue</a>, narrated by <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>, the 19 initial Rings were shown being given to the <a href="../E/Elves.md" title="Elves">Elves</a>, <a href="../M/Men.md" title="Men">Men</a>, and <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a>. The introduction states that all of these ring-holders were deceived by Sauron, who created the One Ring to rule them all.</dd></dl>
+<dl><dd>Trong <a href="../P/Prologue%253A_One_Ring_to_Rule_Them_All....md" title="Prologue: One Ring to Rule Them All...">Mở đầu</a>, được thuật lại bởi <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>, 19 chiếc Nhẫn ban đầu được cho là được trao cho <a href="../E/Elves.md" title="Elves">Tiên tộc</a>, <a href="../M/Men.md" title="Men">Con Người</a> và <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a>. Phần giới thiệu nói rằng tất cả những người nắm giữ chiếc nhẫn này đã bị lừa bởi Sauron, kẻ đã tạo ra Nhẫn Chúa để cai trị tất cả.</dd></dl>
 
 <b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Alongside the One Ring and the Three, names are also given to the Seven and the Nine:</dd></dl>
+<dl><dd>Bên cạnh Nhẫn Chúa và Bộ Ba, các tên cũng được đặt cho Bộ Bảy và Bộ Chín:</dd></dl>
 
-<dl><dd><ul><li>The Seven rings of the Dwarves are given as Taurya, Sindya, Tínya, Tulcya, Úrya, Vanya, and Angya (the <a href="Ring_of_Thrór.md" title="Ring of Thrór">Ring of Durin</a>).</li></ul></dd></dl>
+<dl><dd><ul><li>Bảy chiếc nhẫn của Người Lùn được ban cho là Taurya, Sindya, Tínya, Tulya, Úrya, Vanya và Angya ( <a href="Ring_of_Thrór.md" title="Ring of Thrór">Nhẫn Durin</a>).</li></ul></dd></dl>
 
-<dl><dd><ul><li>The Nine rings of Men are named Sâkhla, Adâsh, Orôm (the ring of the <a href="../K/Khamûl.md" title="Khamûl">Lieutenant of Dol Guldur</a>), Jûru, Mêbat, Khânto, Sapthân, Nitîr, and Ûri (the ring of the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a>).</li></ul></dd></dl>
+<dl><dd><ul><li>Chín chiếc nhẫn của Con Người được đặt tên là Sâkhla, Adâsh, Orôm (chiếc nhẫn của <a href="../K/Khamûl.md" title="Khamûl">Trung úy của Dol Guldur</a>), Jûru, Mêbat, Khânto, Sapthân, Nitîr và Ûri (chiếc nhẫn của <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a>).</li></ul></dd></dl>
 
 **2022: [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md): Phần một**
 
 <dl><dd><b>Episode 9: <i><a href="../A/Alloyed.md" title="Alloyed">Alloyed</a></i></b></dd>
-<dd>All the lore related to the forging of the Rings of Power under the guidance of <a class="mw-redirect" href="../A/Annatar.md" title="Annatar">Annatar</a> is ignored. No <a href="../L/Lesser_rings.md" title="Lesser rings">lesser rings</a>, nor any of the sixteen Rings is made before the Three Rings. Instead of the Three being the only ones unmarred by Sauron&#39;s intervention, they are the only ones done under <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a>&#39;s guidance. All the <a href="../M/Magic.md" title="Magic">magical craft</a> done by the <a href="../G/Gwaith-i-Mírdain.md" title="Gwaith-i-Mírdain">Elven-smiths</a> is reduced to the magical properties of <a href="../M/Mithril.md" title="Mithril">mithril</a> made up for the series.</dd></dl>
+<dd>Tất cả thông tin liên quan đến việc rèn Những Chiếc Nhẫn Quyền Năng dưới sự hướng dẫn của <a class="mw-redirect" href="../A/Annatar.md" title="Annatar">Annatar</a> đều bị bỏ qua. Không có <a href="../L/Lesser_rings.md" title="Lesser rings">chiếc nhẫn nhỏ hơn</a>, cũng như không có chiếc nhẫn nào trong số mười sáu chiếc Nhẫn được chế tạo trước Ba Chiếc Nhẫn. Thay vì Ba là những người duy nhất không bị ảnh hưởng bởi sự can thiệp của Sauron, họ là những người duy nhất được thực hiện dưới sự hướng dẫn của <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a>. Tất cả <a href="../M/Magic.md" title="Magic">thủ công ma thuật</a> do <a href="../G/Gwaith-i-Mírdain.md" title="Gwaith-i-Mírdain">Tiên-smiths</a> thực hiện đều bị giảm bớt các đặc tính ma thuật của <a href="../M/Mithril.md" title="Mithril">mithril</a> được tạo nên cho bộ truyện.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 
@@ -216,7 +216,7 @@ Những chiếc Nhẫn là câu chuyện nền được bổ sung bởi Tolkien,
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="4" style="background:var(--tg-color-surface-5)"><b><a class="mw-selflink selflink">Rings of Power</a></b>
+<td align="center" colspan="4" style="background:var(--tg-color-surface-5)"><b><a class="mw-selflink selflink">Những Chiếc Nhẫn Quyền Năng</a></b>
 </td></tr>
 <tr>
 <td style="text-align:center;"><b><a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a></b> | <b><a href="../T/Three_Rings.md" title="Three Rings">Three Rings</a></b> <small>(<i><a href="../N/Narya.md" title="Narya">Narya</a></i> · <i><a href="../N/Nenya.md" title="Nenya">Nenya</a></i> · <i><a href="../V/Vilya.md" title="Vilya">Vilya</a></i>)</small> | <b><a href="../S/Seven_Rings.md" title="Seven Rings">Seven Rings</a></b> <small>(<i><a href="Ring_of_Thrór.md" title="Ring of Thrór">Ring of Thrór</a></i>)</small> | <b><a href="../N/Nine_Rings.md" title="Nine Rings">Nine Rings</a></b>

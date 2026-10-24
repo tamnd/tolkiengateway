@@ -25,11 +25,11 @@ sort_keys:
 <tr>
 <td bgcolor="lightgrey"> 
 </td>
-<td bgcolor="lightgrey" style="text-align: center;"><b>Name</b>
+<td bgcolor="lightgrey" style="text-align: center;"><b>Tên</b>
 </td>
-<td bgcolor="lightgrey" style="text-align: center;"><b>Reign</b>
+<td bgcolor="lightgrey" style="text-align: center;"><b>Triều đại</b>
 </td>
-<td style="background:lightgrey; text-align:center"><b>Notes</b>
+<td style="background:lightgrey; text-align:center"><b>Ghi chú</b>
 </td></tr>
 <tr>
 <td>5
@@ -45,7 +45,7 @@ sort_keys:
 </td>
 <td><a href="../E/Erendis.md" title="Erendis">Erendis</a>
 </td>
-<td>Unknown
+<td>Không rõ
 </td>
 <td>Wife of <a href="../T/Tar-Aldarion.md" title="Tar-Aldarion">Tar-Aldarion</a>.
 </td></tr>
@@ -81,7 +81,7 @@ sort_keys:
 </td>
 <td><a href="../I/Inzilbêth.md" title="Inzilbêth">Inzilbêth</a>
 </td>
-<td>Unknown
+<td>Không rõ
 </td>
 <td>Wife of <a href="../A/Ar-Gimilzôr.md" title="Ar-Gimilzôr">Ar-Gimilzôr</a>.
 </td></tr>
@@ -92,5 +92,5 @@ sort_keys:
 </td>
 <td><a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3255.md" title="Second Age 3255">3255</a> - <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_3319.md" title="Second Age 3319">3319</a>
 </td>
-<td>Should have been Ruling Queen of Númenor but <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> took her as his unwilling wife and seized the<br/><a href="../S/Sceptre_of_Númenor.md" title="Sceptre of Númenor">Sceptre of Númenor</a> for himself.
+<td>Lẽ ra phải là Nữ hoàng thống trị của Númenor nhưng <a href="../A/Ar-Pharazôn.md" title="Ar-Pharazôn">Ar-Pharazôn</a> đã lấy cô làm vợ bất đắc dĩ và chiếm lấy<br/><a href="../S/Sceptre_of_Númenor.md" title="Sceptre of Númenor">Vương trượng Númenor</a> cho riêng mình.
 </td></tr></tbody></table>

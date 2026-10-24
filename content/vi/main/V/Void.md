@@ -24,12 +24,12 @@ images:
   - "Šárka_Škorpíková_-_Melkor_reaching_Arda.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Dark</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../D/Dark_(disambiguation).md" title="Dark (disambiguation)">Dark (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Dark</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../D/Dark_(disambiguation).md" title="Dark (disambiguation)">Tối (định hướng)</a></b>.</div></div>
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/Šárka_Škorpíková_-_Melkor_reaching_Arda.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c1/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg/250px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg" decoding="async" loading="lazy" width="250" height="170" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c1/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg/375px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c1/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg/500px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg 2x" data-file-width="1289" data-file-height="877"/></a><figcaption><i>Melkor reaching Arda</i> by <a href="../../category/I/Images_by_Šárka_Škorpíková.md" title="Category:Images by Šárka Škorpíková">Šárka Škorpíková</a></figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/Šárka_Škorpíková_-_Melkor_reaching_Arda.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c1/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg/250px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg" decoding="async" loading="lazy" width="250" height="170" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c1/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg/375px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c1/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg/500px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Melkor_reaching_Arda.jpg 2x" data-file-width="1289" data-file-height="877"/></a><figcaption><i>Melkor reaching Arda</i> bởi <a href="../../category/I/Images_by_Šárka_Škorpíková.md" title="Category:Images by Šárka Škorpíková">Šárka Škorpíková</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Lost and forgotten be, darker than the darkness,<br/>Where gates stand forever shut, till <a href="../A/Arda_Healed.md" title="Arda Healed">the World is mended</a>
+<p>Bị mất đi và bị lãng quên, đen tối hơn cả bóng tối,<br/>Nơi những cánh cổng vĩnh viễn đóng lại, cho đến khi <a href="../A/Arda_Healed.md" title="Arda Healed">Thế giới được hàn gắn</a>
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -95,17 +95,17 @@ Hư Không còn được gọi là:
 <td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> <a class="mw-redirect" href="../C/Cosmology.md" title="Cosmology">Cosmology</a></b>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Constellations</a>
+<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Chòm sao</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Anarríma.md" title="Anarríma">Anarríma</a></i> · <i><a href="../D/Durin&#39;s_Crown.md" title="Durin&#39;s Crown">Durin&#39;s Crown</a></i> · <i><a href="../M/Menelmacar.md" title="Menelmacar">Menelmacar</a></i> · <i><a href="../R/Remmirath.md" title="Remmirath">Remmirath</a></i> · <i><a href="../S/Soronúmë.md" title="Soronúmë">Soronúmë</a></i> · <i><a href="../T/Telumendil.md" title="Telumendil">Telumendil</a></i> · <i><a href="Valacirca.md" title="Valacirca">Valacirca</a></i> · <i><a href="../W/Wilwarin.md" title="Wilwarin">Wilwarin</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="../S/Stars.md" title="Stars">Stars</a>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../S/Stars.md" title="Stars">Diễn viên chính</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Alcarinquë.md" title="Alcarinquë">Alcarinquë</a></i> · <i><a href="../B/Borgil.md" title="Borgil">Borgil</a></i> · <i><a href="../C/Carnil.md" title="Carnil">Carnil</a></i> · <i><a href="../E/Elemmírë.md" title="Elemmírë">Elemmírë</a></i> · <i><a href="../H/Helluin.md" title="Helluin">Helluin</a></i> · <i><a href="../L/Luinil.md" title="Luinil">Luinil</a></i> · <i><a href="../L/Lumbar.md" title="Lumbar">Lumbar</a></i> · <i><a href="../M/Morwinyon.md" title="Morwinyon">Morwinyon</a></i> · <i><a href="../N/Nénar.md" title="Nénar">Nénar</a></i> · <i><a href="../S/Star_of_Eärendil.md" title="Star of Eärendil">Star of Eärendil</a></i> · <i><a href="../T/Til_(star).md" title="Til (star)">Til</a></i> 
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">The Airs
+<th style="background:var(--tg-color-surface-3);" align="right">Các khúc ca
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Aiwenórë.md" title="Aiwenórë">Aiwenórë</a></i> · <i><a href="../F/Fanyamar.md" title="Fanyamar">Fanyamar</a></i> · <i><a href="../I/Ilmen.md" title="Ilmen">Ilmen</a></i> · <i><a href="../M/Menel.md" title="Menel">Menel</a></i> · <i><a href="Vaiya.md" title="Vaiya">Vaiya</a></i> · <i><a href="Veil_of_Arda.md" title="Veil of Arda">Veil of Arda</a></i> · <i><a href="Vista.md" title="Vista">Vista</a></i>
 </td></tr>
@@ -115,7 +115,7 @@ Hư Không còn được gọi là:
 <td style="font-size: 90%"> <i><a href="../A/Arien.md" title="Arien">Arien</a></i> · <i><a href="../M/Moon.md" title="Moon">Moon</a></i> (<i>Isil</i>, <i>Ithil</i>, <i>Rána</i>) · <i><a href="../S/Sun.md" title="Sun">Sun</a></i> (<i>Anar</i>, <i>Anor</i>, <i>Vása</i>) · <i><a href="../T/Tilion.md" title="Tilion">Tilion</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">See also
+<th style="background:var(--tg-color-surface-3);" align="right">Xem thêm
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Abyss.md" title="Abyss">Abyss</a></i> · <i><a href="../A/Arda.md" title="Arda">Arda</a></i> · <i><a href="../C/Circles_of_the_World.md" title="Circles of the World">Circles of the World</a></i> · <i><a href="../E/Eä.md" title="Eä">Eä</a></i> · <i><a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a></i> · <i><a href="../T/Two_Lamps.md" title="Two Lamps">Two Lamps</a></i> · <i><a href="../T/Two_Trees_of_Valinor.md" title="Two Trees of Valinor">Two Trees</a></i> · <i><a class="mw-selflink selflink">Void</a></i>
 </td></tr></tbody></table>

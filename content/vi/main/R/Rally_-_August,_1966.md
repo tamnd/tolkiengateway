@@ -14,7 +14,7 @@ images:
   - "Rally_-_August,_1966.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rally_-_August,_1966.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1d/Rally_-_August%2C_1966.jpg/300px-Rally_-_August%2C_1966.jpg" decoding="async" loading="lazy" width="300" height="388" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/Rally_-_August%2C_1966.jpg/450px-Rally_-_August%2C_1966.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/Rally_-_August%2C_1966.jpg/600px-Rally_-_August%2C_1966.jpg 2x" data-file-width="650" data-file-height="841"/></a><figcaption>Cover</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rally_-_August,_1966.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1d/Rally_-_August%2C_1966.jpg/300px-Rally_-_August%2C_1966.jpg" decoding="async" loading="lazy" width="300" height="388" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1d/Rally_-_August%2C_1966.jpg/450px-Rally_-_August%2C_1966.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1d/Rally_-_August%2C_1966.jpg/600px-Rally_-_August%2C_1966.jpg 2x" data-file-width="650" data-file-height="841"/></a><figcaption>Bìa</figcaption></figure>
 
 **Cuộc biểu tình - Tháng 8 năm 1966** là số tạp chí <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rally&amp;action=edit&amp;redlink=1" title="Rally (page does not exist)">Cuộc biểu tình</a></i>. Số này bao gồm "Những từ nghe giống như lâu đài", một bài tiểu luận về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của [Jared Lobdell](../J/Jared_Lobdell.md).
 

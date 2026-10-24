@@ -28,7 +28,7 @@ images:
 Câu chuyện của cuốn sách đầu tiên, *Out of the Silent Planet*, có chung nguồn gốc với *[The Lost Road](The_Lost_Road.md)* chưa hoàn thành của Tolkien. Hai người đã trò chuyện về những thiếu sót của văn học Khoa học viễn tưởng và Lewis nhận xét rằng "có quá ít điều chúng tôi thực sự thích trong truyện", đề nghị họ thử sức với thể loại này "với tư cách là những người nghiệp dư":<sup id="cite_ref-Letter294_2-0" class="reference"><a href="#cite_note-Letter294-2">[2]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>We... meant each to write an excursionary &#39;Thriller&#39;: a Space-journey and a Time-journey (mine) each discovering Myth.
+<p>Chúng tôi... muốn mỗi người viết một 'Phim kinh dị' du ngoạn: một chuyến du hành Không gian và một chuyến du hành Thời gian (của tôi), mỗi chuyến khám phá Huyền thoại.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-Letter24_3-0" class="reference"><a href="#cite_note-Letter24-3">[3]</a></sup></cite></p>
 </blockquote>
@@ -49,7 +49,7 @@ Tiến sĩ Ransom dường như được mô phỏng một phần dựa trên To
 
 Tolkien đã nhiều lần hạ thấp sự giống nhau này, chỉ thừa nhận rằng cả hai đều là nhà ngữ văn.<sup id="cite_ref-Letter24_3-1" class="reference"><a href="#cite_note-Letter24-3">[3]</a></sup><sup id="cite_ref-Letter77_7-0" class="reference"><a href="#cite_note-Letter77-7">[7]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../P/Professor_Rashbold.md" title="Professor Rashbold">Professor Rashbold</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../P/Professor_Rashbold.md" title="Professor Rashbold">Giáo sư Rashbold</a></div></div>
 
 <span></span>
 

@@ -117,14 +117,14 @@ Phần thứ hai của The Book of Lost Tales bao gồm câu chuyện về Beren
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lost_Tales_II_1984.jpeg.md" title="1984 hardcover"><img alt="1984 hardcover" src="https://tolkiengateway.net/w/images/thumb/2/27/Lost_Tales_II_1984.jpeg/79px-Lost_Tales_II_1984.jpeg" decoding="async" loading="lazy" width="79" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/Lost_Tales_II_1984.jpeg/119px-Lost_Tales_II_1984.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/Lost_Tales_II_1984.jpeg/159px-Lost_Tales_II_1984.jpeg 2x" data-file-width="318" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1984
+<p>1984 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/L/Lost_Tales_II_1986.jpeg.md" title="1986 paperback"><img alt="1986 paperback" src="https://tolkiengateway.net/w/images/thumb/9/92/Lost_Tales_II_1986.jpeg/81px-Lost_Tales_II_1986.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/Lost_Tales_II_1986.jpeg/122px-Lost_Tales_II_1986.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/Lost_Tales_II_1986.jpeg/162px-Lost_Tales_II_1986.jpeg 2x" data-file-width="325" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Sách bìa mềm năm 1986
+<p>1986 paperback
 </p>
 			</div>
 		</li>

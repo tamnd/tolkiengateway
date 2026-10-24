@@ -35,13 +35,13 @@ images:
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="../P/Prose_Fragments_Following_the_Lost_Tales.md" title="Prose Fragments Following the Lost Tales">Prose Fragments</a></li>
+<ol><li><a href="../P/Prose_Fragments_Following_the_Lost_Tales.md" title="Prose Fragments Following the Lost Tales">Các đoạn văn xuôi rời</a></li>
 <li><a href="The_Earliest_&#39;Silmarillion&#39;.md" title="The Earliest &#39;Silmarillion&#39;">The Earliest &#39;Silmarillion&#39;</a></li>
 <li><a href="The_Quenta.md" title="The Quenta">The Quenta</a></li>
 <li><a href="The_First_&#39;Silmarillion&#39;_Map.md" title="The First &#39;Silmarillion&#39; Map">Bản đồ &#39;Silmarillion&#39; đầu tiên</a></li>
 <li><a href="The_Ambarkanta.md" title="The Ambarkanta">The Ambarkanta</a></li>
 <li><a href="The_Earliest_Annals_of_Valinor.md" title="The Earliest Annals of Valinor">Biên niên sử sớm nhất về Valinor</a></li>
-<li><a class="mw-selflink selflink">The Earliest Annals of Beleriand</a></li></ol>
+<li><a class="mw-selflink selflink">Biên niên sử cổ nhất của Beleriand</a></li></ol>
 </td></tr></tbody></table>
 
 **Biên niên sử sớm nhất của Beleriand** là chương thứ bảy của *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*.

@@ -39,15 +39,15 @@ infobox:
     value: "MMORPG"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
-<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
+<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Angmar</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../A/Angmar_(disambiguation).md" title="Angmar (disambiguation)">Angmar (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Angmar</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../A/Angmar_(disambiguation).md" title="Angmar (disambiguation)">Angmar (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/55/The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg/320px-The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/55/The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg 1.5x" data-file-width="340" data-file-height="480"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Online:<br/>Shadows of Angmar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a> (North America and Europe)<br/><a href="../M/Midway_Games.md" title="Midway Games">Midway Games</a><br/><a href="../C/Codemasters.md" title="Codemasters">Codemasters</a> (Europe, till 2010))<br/><a href="../I/IT_Territory.md" title="IT Territory">IT Territory</a> (Russia)<sup id="cite_ref-Korea_and_Russia_1-0" class="reference"><a href="#cite_note-Korea_and_Russia-1">[1]</a></sup><br/><a href="../N/NHN_Corporation.md" title="NHN Corporation">NHN Corporation</a> (South Korea)<sup id="cite_ref-Korea_and_Russia_1-1" class="reference"><a href="#cite_note-Korea_and_Russia-1">[1]</a></sup><br/><a href="../S/Sakura_Internet.md" title="Sakura Internet">Sakura Internet</a> (Japan, till 2009)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/24_April.md" title="24 April">April 24</a>, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/55/The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg/320px-The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/55/The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg 1.5x" data-file-width="340" data-file-height="480"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Online:<br/>Shadows of Angmar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a> (Bắc Mỹ và Châu Âu)<br/><a href="../M/Midway_Games.md" title="Midway Games">Midway Games</a><br/><a href="../C/Codemasters.md" title="Codemasters">Codemasters</a> (Châu Âu, cho đến năm 2010))<br/><a href="../I/IT_Territory.md" title="IT Territory">Lãnh thổ CNTT</a> (Nga)<sup id="cite_ref-Korea_and_Russia_1-0" class="reference"><a href="#cite_note-Korea_and_Russia-1">[1]</a></sup><br/><a href="../N/NHN_Corporation.md" title="NHN Corporation">NHN Corporation</a> (Miền Nam Hàn Quốc)<sup id="cite_ref-Korea_and_Russia_1-1" class="reference"><a href="#cite_note-Korea_and_Russia-1">[1]</a></sup><br/><a href="../S/Sakura_Internet.md" title="Sakura Internet">Sakura Internet</a> (Nhật Bản, đến năm 2009)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/24_April.md" title="24 April">April 24</a>, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
 <i><b>The Lord of the Rings Trực tuyến: Shadows of Angmar</b></i> là phiên bản phát hành ban đầu của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*, đóng vai trò là tập đầu tiên của trò chơi. Ra mắt vào [24 tháng 4](../_/24_April.md) [2007](../_/2007.md), nó bao gồm Tập I của câu chuyện hoành tráng của trò chơi, bao gồm tất cả nội dung và tính năng được giới thiệu qua các bản cập nhật nội dung miễn phí tiếp theo cho đến khi phát hành bản mở rộng *[Moria](The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md)*. [Turbine](Turbine.md) và [Midway Games, Inc.](../M/Midway_Games,_Inc..md) đã ra mắt trò chơi ở Bắc Mỹ, trong khi [Codemasters](../C/Codemasters.md) xử lý phiên bản châu Âu của trò chơi.
 
@@ -59,8 +59,8 @@ Phần lớn hội thoại trong trò chơi hoàn toàn dựa trên văn bản, 
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></td>
@@ -71,11 +71,11 @@ Phần lớn hội thoại trong trò chơi hoàn toàn dựa trên văn bản, 
 <td><a href="../M/Mike_Vaughn.md" title="Mike Vaughn">Mike Vaughn</a>
 </td></tr>
 <tr>
-<td>Additional Voices</td>
+<td>Các giọng lồng tiếng bổ sung</td>
 <td><a href="../B/Brian_Talbot.md" title="Brian Talbot">Brian Talbot</a>
 </td></tr>
 <tr>
-<td>Additional Voices</td>
+<td>Các giọng lồng tiếng bổ sung</td>
 <td><a href="../N/Neil_Kaplan.md" title="Neil Kaplan">Neil Kaplan</a>
 </td></tr>
 </tbody></table>
@@ -293,24 +293,24 @@ Bao gồm các bản cập nhật (<a class="external text" href="http://loreboo
 <th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right" width="150px"><b>Expansions</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right" width="150px"><b>Bản mở rộng</b>
 </td>
 <td style="font-size: 90%;" align="center"><i><a class="mw-selflink selflink">Shadows of Angmar</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Mines of Moria</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">Siege of Mirkwood</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">Rise of Isengard</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">Riders of Rohan</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">Helm&#39;s Deep</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">Mordor</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md" title="The Lord of the Rings Online: Minas Morgul">Minas Morgul</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md" title="The Lord of the Rings Online: War of Three Peaks">War of Three Peaks</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">Fate of Gundabad</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md" title="The Lord of the Rings Online: Before the Shadow">Before the Shadow</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Corsairs_of_Umbar.md" title="The Lord of the Rings Online: Corsairs of Umbar">Corsairs of Umbar</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Legacy_of_Morgoth.md" title="The Lord of the Rings Online: Legacy of Morgoth">Legacy of Morgoth</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Kingdoms_of_Harad.md" title="The Lord of the Rings Online: Kingdoms of Harad">Kingdoms of Harad</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>Storyline</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>Cốt truyện</b>
 </td>
 <td style="font-size: 90%;" align="center"><i><a class="mw-selflink-fragment" href="#Synopsis">Volume I: Shadows of Angmar</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md#Synopsis" title="The Lord of the Rings Online: Mines of Moria">Volume II: Mines of Moria</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King" title="The Lord of the Rings Online: Siege of Mirkwood">Volume III: Allies of the King</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md#Volume_IV:_The_Strength_of_Sauron" title="The Lord of the Rings Online: Helm&#39;s Deep">Volume IV: The Strength of Sauron</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">The Black Book of Mordor</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>See also</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>Xem thêm</b>
 </td>
-<td style="font-size: 90%;" align="center"><a href="../../category/T/The_Lord_of_the_Rings_Online_characters.md" title="Category:The Lord of the Rings Online characters">Characters</a> · <a href="../../category/T/The_Lord_of_the_Rings_Online_locations.md" title="Category:The Lord of the Rings Online locations">Locations</a> · <a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md" title="The Lord of the Rings Online: Shadows of Angmar (soundtrack)"><i>Shadows of Angmar</i> soundtrack</a> · <a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md" title="The Lord of the Rings Online: Mines of Moria (soundtrack)"><i>Mines of Moria</i> soundtrack</a> · &#34;<a href="../K/King_Under_the_Mountain_(minigame).md" title="King Under the Mountain (minigame)">King Under the Mountain</a>&#34; minigame
+<td style="font-size: 90%;" align="center"><a href="../../category/T/The_Lord_of_the_Rings_Online_characters.md" title="Category:The Lord of the Rings Online characters">Nhân vật</a> · <a href="../../category/T/The_Lord_of_the_Rings_Online_locations.md" title="Category:The Lord of the Rings Online locations">Địa điểm</a> · <a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md" title="The Lord of the Rings Online: Shadows of Angmar (soundtrack)"><i>Shadows of Angmar</i> nhạc phim</a> · <a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md" title="The Lord of the Rings Online: Mines of Moria (soundtrack)"><i>Mines of Moria</i> nhạc phim</a> · minigame "<a href="../K/King_Under_the_Mountain_(minigame).md" title="King Under the Mountain (minigame)">Vua Under the Mountain</a>"
 </td></tr></tbody></table>
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -343,7 +343,7 @@ Bao gồm các bản cập nhật (<a class="external text" href="http://loreboo
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -353,7 +353,7 @@ Bao gồm các bản cập nhật (<a class="external text" href="http://loreboo
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -363,7 +363,7 @@ Bao gồm các bản cập nhật (<a class="external text" href="http://loreboo
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>

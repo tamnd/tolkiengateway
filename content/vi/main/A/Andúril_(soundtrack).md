@@ -52,8 +52,8 @@ Lưỡi dao đã gãy,<br/>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Elo! Andúril;<br/>
-Lạch en Annûn<br/>
-Tôi biểu đồ asgannen<br/>
-Kênh quảng cáo
+Lach en Annûn<br/>
+I charthol asgannen<br/>
+Ad echannen
 </p>
 </div>

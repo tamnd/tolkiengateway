@@ -25,32 +25,32 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 <th>Refers to
 </th></tr>
 <tr>
-<td><i>dưa Aletodon</i></td>
-<td>Động vật ăn côn trùng sống trên mặt đất</td>
+<td><i>Aletodon mellon</i></td>
+<td>Ground-dwelling insectivore</td>
 <td>Extinct</td>
 <td><a href="Sindarin.md" title="Sindarin">Sindarin</a>: <i><a href="../M/Mellon.md" title="Mellon">mellon</a></i>
 </td></tr>
 <tr>
 <td><i>Ancalagon trẻ vị thành niên</i></td>
-<td>Giun Priapulid</td>
+<td>Priapulid worm</td>
 <td>Extinct</td>
 <td><a href="../A/Ancalagon.md" title="Ancalagon">Ancalagon</a>
 </td></tr>
 <tr>
 <td><i>Ankalagon saurognathus</i></td>
-<td>Động vật có vú ăn thịt</td>
+<td>Carnivorous mammal</td>
 <td>Extinct</td>
 <td><a href="../A/Ancalagon.md" title="Ancalagon">Ancalagon</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 </td></tr>
 <tr>
 <td><i>Anisonchus eowynae</i><br/><i>Anisonschus athelas</i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup></td>
-<td>Động vật ăn cỏ sống trên mặt đất</td>
+<td>Ground-dwelling herbivore</td>
 <td>Extinct</td>
 <td><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a>, <a href="../A/Athelas.md" title="Athelas">Athelas</a>
 </td></tr>
 <tr>
 <td><i>Anthracosuchus balrogus</i></td>
-<td>Cá sấu Dyrosaurid</td>
+<td>Dyrosaurid crocodyliform</td>
 <td>Extinct</td>
 <td><a href="../B/Balrogs.md" title="Balrogs">Balrog</a>
 </td></tr>
@@ -79,7 +79,7 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 <td><a href="../B/Beorn.md" title="Beorn">Beorn</a>
 </td></tr>
 <tr>
-<td><i>Beorn chân</i></td>
+<td><i>Beorn leggi</i></td>
 <td>Tardigrade</td>
 <td>Extinct</td>
 <td><a href="../B/Beorn.md" title="Beorn">Beorn</a>
@@ -103,14 +103,14 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 <td><a href="../O/Orcs.md" title="Orcs">Orc</a>
 </td></tr>
 <tr>
-<td><i>Bubogonia bomadili</i></td>
-<td>Động vật ăn côn trùng giống chồn</td>
+<td><i>Bubogonia bombadili</i></td>
+<td>Weasel-like insectivore</td>
 <td>Extinct</td>
 <td><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>
 </td></tr>
 <tr>
 <td><i>Claenodon mumak</i><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 6]</a></sup></td>
-<td>Động vật có vú</td>
+<td>Ungulate mammal</td>
 <td>Extinct</td>
 <td><a class="mw-redirect" href="../M/Mûmakil.md" title="Mûmakil">Mûmakil</a>
 </td></tr>
@@ -187,7 +187,7 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 <td><a href="../F/Finarfin.md" title="Finarfin">Finarfin</a>
 </td></tr>
 <tr>
-<td><i>Elachista Gildorella</i></td>
+<td><i>Elachista gildorella</i></td>
 <td>Bướm đêm</td>
 <td>Extant</td>
 <td><a href="../G/Gildor_(outlaw).md" title="Gildor (outlaw)">Gildor</a>
@@ -199,7 +199,7 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 <td><a href="../I/Indis.md" title="Indis">Indis</a>
 </td></tr>
 <tr>
-<td><i>Elachista mộc lan</i></td>
+<td><i>Elachista maglorella</i></td>
 <td>Bướm đêm</td>
 <td>Extant</td>
 <td><a href="../M/Maglor.md" title="Maglor">Maglor</a>
@@ -230,7 +230,7 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 </td></tr>
 <tr>
 <td><i>Frodospira</i></td>
-<td>Động vật chân bụng biển</td>
+<td>Marine gastropod</td>
 <td>Extinct</td>
 <td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a>
 </td></tr>
@@ -248,12 +248,12 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 </td></tr>
 <tr>
 <td><i>Spaeleoleptes gimli</i></td>
-<td>Spider</td>
+<td>Nhện</td>
 <td>Extant</td>
 <td><a href="../G/Gimli.md" title="Gimli">Gimli</a>
 </td></tr>
 <tr>
-<td><i>Gollum suy giảm</i></td>
+<td><i>Gollum attenuatus</i></td>
 <td>Shark<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 10]</a></sup></td>
 <td>Extant</td>
 <td><a href="../G/Gollum.md" title="Gollum">Gollum</a>
@@ -283,7 +283,7 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 <td><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>
 </td></tr>
 <tr>
-<td><i>Litalete ondolinde</i></td>
+<td><i>Litaletes ondolinde</i></td>
 <td>Mammal</td>
 <td>Extinct</td>
 <td><a class="mw-redirect" href="../O/Ondolindë.md" title="Ondolindë">Ondolindë</a>
@@ -295,7 +295,7 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 <td><a href="Sauron.md" title="Sauron">Sauron</a>
 </td></tr>
 <tr>
-<td><i>Macrostyphlus đông lạnh</i></td>
+<td><i>Macrostyphlus frodo</i></td>
 <td>Insect</td>
 <td>Extant</td>
 <td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a>
@@ -319,13 +319,13 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 <td><a href="../M/Míriel.md" title="Míriel">Míriel</a>
 </td></tr>
 <tr>
-<td><i>Mimatuta Morgoth</i></td>
+<td><i>Mimatuta morgoth</i></td>
 <td>Mammal</td>
 <td>Extinct</td>
 <td><a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>
 </td></tr>
 <tr>
-<td><i>Mimatuta thu nhỏ</i></td>
+<td><i>Mimatuta minuial</i></td>
 <td>Mammal</td>
 <td>Extinct</td>
 <td><a href="Sindarin.md" title="Sindarin">Sindarin</a>: <i><a href="../M/Minuial.md" title="Minuial">minuial</a></i>
@@ -350,7 +350,7 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 </td></tr>
 <tr>
 <td><i>Oinia</i> <sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[note 14]</a></sup></td>
-<td>Spider</td>
+<td>Nhện</td>
 <td>Extant</td>
 <td><a href="../_/Óin.md" title="Óin">Óin</a>
 </td></tr>
@@ -373,19 +373,19 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 <td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[note 16]</a></sup>
 </td></tr>
 <tr>
-<td><i>Planois tự mãn</i></td>
+<td><i>Planois smaug</i></td>
 <td>Insect</td>
 <td>Extant</td>
 <td><a href="Smaug.md" title="Smaug">Smaug</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[note 17]</a></sup>
 </td></tr>
 <tr>
-<td><i>Thú mỏ vịt palantir</i></td>
+<td><i>Platymastus palantir</i></td>
 <td>Mammal</td>
 <td>Extinct</td>
 <td><i><a href="../P/Palantíri.md" title="Palantíri">Palantíri</a></i>
 </td></tr>
 <tr>
-<td><i>Protoselene bomadili</i></td>
+<td><i>Protoselene bombadili</i></td>
 <td>Mammal</td>
 <td>Extinct</td>
 <td><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>
@@ -398,7 +398,7 @@ Nhiều **loài** và thậm chí toàn bộ <a class="extiw" href="http://en.wi
 </td></tr>
 <tr>
 <td><i>Sauroniops pachytholus</i></td>
-<td>Khủng long ăn thịt</td>
+<td>Carnivorous dinosaur</td>
 <td>Extinct</td>
 <td><a href="Sauron.md" title="Sauron">Sauron</a>
 </td></tr>

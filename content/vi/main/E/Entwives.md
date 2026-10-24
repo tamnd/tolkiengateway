@@ -29,7 +29,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>‘How very sad!’ said <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a>. ‘How was it that they all died?’<br/>‘They did not die!’ said <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> ‘I never said died. We lost them, I said. We lost them and we cannot find them.’
+<p>‘Thật buồn quá!’ <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> nói. ‘Làm thế nào mà họ đều chết?’<br/>‘Họ không chết!’ nói <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> ‘Tôi chưa bao giờ nói đã chết. Chúng ta đã mất họ, tôi nói. Chúng tôi đã mất họ và không thể tìm thấy họ.”
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/Treebeard.md" title="Treebeard">Treebeard</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -43,7 +43,7 @@ images:
 [Treebeard](../T/Treebeard.md) mô tả các Entwife là "xinh đẹp", đặc biệt là khi còn trẻ. Ông nói như sau về những Entwife và Entmaiden lớn tuổi hơn:
 
 <blockquote class="tg-quote noexcerpt">
-<p>[T]he Entwives were bent and browned by their labour; their hair parched by the sun to the hue of ripe corn and their cheeks like red apples. Yet their eyes were still the eyes of our own people.
+<p>[T]ông Entwives bị cong và sạm đi do lao động của họ; mái tóc khô héo dưới ánh mặt trời chuyển sang màu ngô chín và đôi má như những quả táo đỏ. Tuy nhiên, đôi mắt của họ vẫn là đôi mắt của nhân dân chúng tôi.
 </p>
 </blockquote>
 
@@ -73,7 +73,7 @@ Vào một thời điểm nào đó trước [War of the Ring](../W/War_of_the_R
 
 <b>2024: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
-<dl><dd>In Season 2, an Entwife named <a href="../W/Winterbloom.md" title="Winterbloom">Winterbloom</a> is introduced alongside her husband <a href="../S/Snaggleroot.md" title="Snaggleroot">Snaggleroot</a>.</dd></dl>
+<dl><dd>Trong Phần 2, một Entwife có tên <a href="../W/Winterbloom.md" title="Winterbloom">Winterbloom</a> được giới thiệu cùng với chồng bà <a href="../S/Snaggleroot.md" title="Snaggleroot">Snaggleroot</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 

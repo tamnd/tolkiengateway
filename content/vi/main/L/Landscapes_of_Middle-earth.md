@@ -22,8 +22,8 @@ categories:
 <table class="tracklist wikitable wikitable--stripe">
     <tbody><tr>
       <th class="tlheader" style="width: 20px; text-align: right;">#</th>
-      <th class="tlheader" style="width: 60%;">Title</th><th style="width: 40%;">Original title</th>
-      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Length</th>
+      <th class="tlheader" style="width: 60%;">Danh hiệu</th><th style="width: 40%;">Tiêu đề gốc</th>
+      <th class="tlheader" style="width: 60px; padding-right: 10px; text-align: right;">Chiều dài</th>
     </tr>
         <tr style="background-color: {{{color}}};">
   <td style="padding-right: 10px; text-align: right; vertical-align: center;">1.</td>

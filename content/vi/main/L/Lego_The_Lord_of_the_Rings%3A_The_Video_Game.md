@@ -44,19 +44,19 @@ infobox:
     value: "Action-adventure"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
-<p>The wise will stay here and hope to rebuild our town...
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được viết lại để tuân thủ <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn</a>...<blockquote class="tg-quote noexcerpt">
+<p>Những người khôn ngoan sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></cite></p>
 </blockquote></div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
-<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
+<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/320px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png" decoding="async" loading="lazy" width="320" height="293" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/480px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 1.5x, https://tolkiengateway.net/w/images/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 2x" data-file-width="600" data-file-height="550"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>LEGO: The Lord of the Rings - The Video Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data">Traveller&#39;s Tales</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Warner Bros. Interactive Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_Wii" title="wikipedia:Nintendo Wii">Nintendo Wii</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_DS" title="wikipedia:Nintendo DS">Nintendo DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_3DS" title="wikipedia:Nintendo 3DS">Nintendo 3DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_Vita" title="wikipedia:PlayStation Vita">PlayStation Vita</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><sup id="cite_ref-FB-info_1-0" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">13 November 2012<sup id="cite_ref-FB-info_1-1" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action-adventure</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/320px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png" decoding="async" loading="lazy" width="320" height="293" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png/480px-Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 1.5x, https://tolkiengateway.net/w/images/c/cc/Lego_The_Lord_of_the_Rings_-_The_Video_Game.png 2x" data-file-width="600" data-file-height="550"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>LEGO: The Lord of the Rings - The Video Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data">Traveller&#39;s Tales</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Warner Bros. Interactive Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_3" title="wikipedia:PlayStation 3">PlayStation3</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Xbox_360" title="wikipedia:Xbox 360">Xbox 360</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_Wii" title="wikipedia:Nintendo Wii">Nintendo Wii</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_DS" title="wikipedia:Nintendo DS">Nintendo DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Nintendo_3DS" title="wikipedia:Nintendo 3DS">Nintendo 3DS</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/PlayStation_Vita" title="wikipedia:PlayStation Vita">PlayStation Vita</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Microsoft_Windows" title="wikipedia:Microsoft Windows">Microsoft Windows</a><sup id="cite_ref-FB-info_1-0" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data">13 November 2012<sup id="cite_ref-FB-info_1-1" class="reference"><a href="#cite_note-FB-info-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Action-adventure</td></tr></tbody></table>
 
 **Lego The Lord of the Rings: Trò chơi điện tử** là trò chơi điện tử của [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md) và [Traveller's Tales](../T/Traveller's_Tales.md). Trò chơi dựa trên [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) và được phát hành vào ngày 13 tháng 11 năm 2012.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trò chơi có cốt truyện của [The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md), [The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md) và [The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) nhưng "được mô phỏng lại bằng sự hài hước và sự đa dạng vô tận của cách chơi LEGO".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -74,152 +74,152 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 
 <table class="wikitable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../S/Sean_Astin.md" title="Sean Astin">Sean Astin</a></td>
-<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> (voice) (archive footage)
+<td><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../J/John_Bach.md" title="John Bach">John Bach</a></td>
-<td><a href="../M/Madril.md" title="Madril">Madril</a> (voice) (archive footage)
+<td><a href="../M/Madril.md" title="Madril">Madril</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../S/Sean_Bean.md" title="Sean Bean">Sean Bean</a></td>
-<td><a href="../B/Boromir.md" title="Boromir">Boromir</a> (voice) (archive footage)
+<td><a href="../B/Boromir.md" title="Boromir">Boromir</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../C/Cate_Blanchett.md" title="Cate Blanchett">Cate Blanchett</a></td>
-<td><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> (voice) (archive footage)
+<td><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../O/Orlando_Bloom.md" title="Orlando Bloom">Orlando Bloom</a></td>
-<td><a href="Legolas.md" title="Legolas">Legolas</a> (voice) (archive footage)
+<td><a href="Legolas.md" title="Legolas">Legolas</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../B/Billy_Boyd.md" title="Billy Boyd">Billy Boyd</a></td>
-<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> (voice) (archive footage)
+<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Peregrin Took</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../J/Jed_Brophy.md" title="Jed Brophy">Jed Brophy</a></td>
-<td><a href="../S/Sharku.md" title="Sharku">Sharku</a> (voice) (archive footage)
+<td><a href="../S/Sharku.md" title="Sharku">Sharku</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../B/Brad_Dourif.md" title="Brad Dourif">Brad Dourif</a></td>
-<td><a href="../G/Gríma.md" title="Gríma">Gríma Wormtongue</a> (voice) (archive footage)
+<td><a href="../G/Gríma.md" title="Gríma">Gríma Wormtongue</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../B/Bernard_Hill.md" title="Bernard Hill">Bernard Hill</a></td>
-<td><a href="../T/Théoden.md" title="Théoden">King Théoden</a> (voice) (archive footage)
+<td><a href="../T/Théoden.md" title="Théoden">Vua Théoden</a> (lồng tiếng) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../C/Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a></td>
-<td><a href="../S/Saruman.md" title="Saruman">Saruman the White</a> (voice) (archive footage)
+<td><a href="../S/Saruman.md" title="Saruman">Saruman the White</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../N/Nathaniel_Lees.md" title="Nathaniel Lees">Nathaniel Lees</a></td>
-<td><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> (voice) (archive footage)
+<td><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../J/John_Leigh.md" title="John Leigh">John Leigh</a></td>
-<td><a href="../H/Háma.md" title="Háma">Háma</a> (voice) (archive footage)
+<td><a href="../H/Háma.md" title="Háma">Háma</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a></td>
-<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> (voice) (archive footage)
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../D/Dominic_Monaghan.md" title="Dominic Monaghan">Dominic Monaghan</a></td>
-<td><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> (voice) (archive footage)
+<td><a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Meriadoc Brandybuck</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../V/Viggo_Mortensen.md" title="Viggo Mortensen">Viggo Mortensen</a></td>
-<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> (voice) (archive footage)
+<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Norrel&amp;action=edit&amp;redlink=1" title="Paul Norrel (page does not exist)">Paul Norrel</a></td>
-<td><a href="../K/King_of_the_Dead.md" title="King of the Dead">The King of the Dead</a> (voice) (archive footage)
+<td><a href="../K/King_of_the_Dead.md" title="King of the Dead"> Vua of the Dead</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../M/Miranda_Otto.md" title="Miranda Otto">Miranda Otto</a></td>
-<td><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> (voice) (archive footage)
+<td><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../C/Craig_Parker.md" title="Craig Parker">Craig Parker</a></td>
-<td><a href="../H/Haldir.md" title="Haldir">Haldir</a>/<a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a>/<a href="../G/Guritz.md" title="Guritz">Orc Harbour Master</a> (voice) (archive footage)
+<td><a href="../H/Haldir.md" title="Haldir">Haldir</a>/<a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a>/<a href="../G/Guritz.md" title="Guritz">Orc Harbor Master</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../J/John_Rhys-Davies.md" title="John Rhys-Davies">John Rhys-Davies</a></td>
-<td><a href="../G/Gimli.md" title="Gimli">Gimli</a>/<a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> (voice) (archive footage)
+<td><a href="../G/Gimli.md" title="Gimli">Gimli</a>/<a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a></td>
-<td><a href="../G/Gollum.md" title="Gollum">Gollum</a>/<a href="../W/Witch-king.md" title="Witch-king">The Witch King</a> (voice) (archive footage)
+<td><a href="../G/Gollum.md" title="Gollum">Gollum</a>/<a href="../W/Witch-king.md" title="Witch-king">The Witch Vua</a> (lồng tiếng) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="Liv_Tyler.md" title="Liv Tyler">Liv Tyler</a></td>
-<td><a href="../A/Arwen.md" title="Arwen">Arwen Undómiel</a> (voice) (archive footage)
+<td><a href="../A/Arwen.md" title="Arwen">Arwen Undómiel</a> (lồng tiếng) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../K/Karl_Urban.md" title="Karl Urban">Karl Urban</a></td>
-<td><a href="../_/Éomer.md" title="Éomer">Éomer</a> (voice) (archive footage)
+<td><a href="../_/Éomer.md" title="Éomer">Éomer</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sephen_Ure&amp;action=edit&amp;redlink=1" title="Sephen Ure (page does not exist)">Sephen Ure</a></td>
-<td><a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>/<a href="../G/Gorbag.md" title="Gorbag">Gorbag</a> (voice) (archive footage)
+<td><a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>/<a href="../G/Gorbag.md" title="Gorbag">Gorbag</a> (lồng tiếng) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../D/David_Weatherley.md" title="David Weatherley">David Weatherley</a></td>
-<td><a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> (voice) (archive footage)
+<td><a href="../B/Barliman_Butterbur.md" title="Barliman Butterbur">Barliman Butterbur</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../H/Hugo_Weaving.md" title="Hugo Weaving">Hugo Weaving</a></td>
-<td><a href="../E/Elrond.md" title="Elrond">Elrond</a>/<a href="../I/Isildur.md" title="Isildur">Isildur</a> (voice) (archive footage)
+<td><a href="../E/Elrond.md" title="Elrond">Elrond</a>/<a href="../I/Isildur.md" title="Isildur">Isildur</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../D/David_Wenham.md" title="David Wenham">David Wenham</a></td>
-<td><a href="../F/Faramir.md" title="Faramir">Faramir</a> (voice) (archive footage)
+<td><a href="../F/Faramir.md" title="Faramir">Faramir</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td><a href="../E/Elijah_Wood.md" title="Elijah Wood">Elijah Wood</a></td>
-<td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> (voice) (archive footage)
+<td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> (giọng nói) (đoạn phim lưu trữ)
 </td></tr>
 <tr>
 <td>Kieron Elliott</td>
-<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> (voice)
+<td><a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> (giọng nói)
 </td></tr>
 <tr>
 <td>Gideon Emery</td>
-<td><a href="../O/Orcs.md" title="Orcs">Orcs</a> (voice)
+<td><a href="../O/Orcs.md" title="Orcs">Orc</a> (giọng nói)
 </td></tr>
 <tr>
 <td>Gideon Emery, Chris Edgerly</td>
-<td><a href="../E/Elves.md" title="Elves">Incidental Elves</a> (voice)
+<td><a href="../E/Elves.md" title="Elves">Ngẫu nhiên Tiên tộc</a> (giọng nói)
 </td></tr>
 <tr>
 <td>Jennifer Taylor Lawrence, Anna Vocino</td>
-<td><a href="../H/Hobbits.md" title="Hobbits">Incidental Hobbits</a> (voice)
+<td><a href="../H/Hobbits.md" title="Hobbits">Ngẫu nhiên Hobbit</a> (giọng nói)
 </td></tr>
 <tr>
 <td>Jennifer Taylor Lawrence, Fred Tatasciore</td>
-<td><a href="../D/Dwarves.md" title="Dwarves">Incidental Dwarves</a> (voice)
+<td><a href="../D/Dwarves.md" title="Dwarves">Ngẫu nhiên Người Lùn</a> (giọng nói)
 </td></tr>
 <tr>
 <td>Chris Edgerly, Crispin Freeman, Bob Joles, Yuri Luwenthal</td>
-<td>Character Sound Effects (voice)
+<td>Hiệu ứng âm thanh nhân vật (giọng nói)
 </td></tr>
 <tr>
 <td>Chris Edgerly</td>
-<td><a href="../M/Men.md" title="Men">Incidental Men</a> (voice)
+<td><a href="../M/Men.md" title="Men">Ngẫu nhiên Con Người</a> (giọng nói)
 </td></tr>
 <tr>
 <td>Fred Tatasciore</td>
-<td><a href="../U/Uruk-hai.md" title="Uruk-hai">Incidental Uruk-hai</a> (voice)
+<td><a href="../U/Uruk-hai.md" title="Uruk-hai">Ngẫu nhiên Uruk-hai</a> (giọng nói)
 </td></tr>
 <tr>
 <td>Eric Artell, Steve Blum, Cam Clarke, <a href="../T/Tom_Kane.md" title="Tom Kane">Tom Kane</a>, Jim Meskimen, <a href="Liam_O&#39;Brien.md" title="Liam O&#39;Brien">Liam O&#39;Brien</a>, Jon Olson, Jim Piddock, Eliza Schneider, Keith Szarabajka, Hynden Walch</td>
-<td>Additional Voices
+<td>Các giọng lồng tiếng bổ sung
 </td></tr></tbody></table>
 
 ## Đoạn giới thiệu {#Trailer}
@@ -234,27 +234,27 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 
 <table class="wikitable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<td>Level</td>
-<td>Movie Chapter
+<td>Cấp độ</td>
+<td>Chương phim
 </td></tr>
 <tr>
 <td>Prologue</td>
 <td>Prologue: One Ring to Rule Them All...
 </td></tr>
 <tr>
-<td>The Black Rider</td>
+<td>Kỵ Sĩ Đen</td>
 <td>A Short Cut to Mushrooms<br/>Bucklebury Ferry
 </td></tr>
 <tr>
 <td>Weathertop</td>
-<td>A Knife in the Dark
+<td>Một lưỡi dao trong bóng tối
 </td></tr>
 <tr>
-<td>The Pass of Caradhras</td>
+<td>Đèo Caradhras</td>
 <td>Pass of Caradhras<br/>Moria
 </td></tr>
 <tr>
-<td>The Mines of Moria</td>
+<td>Hầm mỏ Moria</td>
 <td>Balin&#39;s Tomb<br/>The Bridge of Khazad-dûm<br/>Foundations of Stone
 </td></tr>
 <tr>
@@ -266,8 +266,8 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 
 <table class="wikitable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<td>Level</td>
-<td>Movie Chapter
+<td>Cấp độ</td>
+<td>Chương phim
 </td></tr>
 <tr>
 <td>Track Hobbits</td>
@@ -282,7 +282,7 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 <td>The King of the Golden Hall<br/>The King&#39;s Decision<br/>The Wolves of Isengard
 </td></tr>
 <tr>
-<td>The Dead Marshes</td>
+<td>Đầm lầy Chết</td>
 <td>The Passage of the Marshes<br/>Of Herbs and Stewed Rabbit
 </td></tr>
 <tr>
@@ -298,15 +298,15 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 
 <table class="wikitable">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<td>Level</td>
-<td>Movie Chapter
+<td>Cấp độ</td>
+<td>Chương phim
 </td></tr>
 <tr>
 <td>The Secret Stairs</td>
 <td>Minas Morgul<br/>Sam&#39;s Warning<br/>The Stairs of Minas Morgul<br/>The Parting of Sam and Frodo<br/>Shelob&#39;s Lair
 </td></tr>
 <tr>
-<td>The Paths of the Dead</td>
+<td>Những Con đường của Người Chết</td>
 <td>Andúril - Flame of the West<br/>Dwimorberg - The Haunted Mountain<br/>The Paths of the Dead
 </td></tr>
 <tr>
@@ -319,11 +319,11 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 </td></tr>
 <tr>
 <td>The Black Gate</td>
-<td>The Black Gate Opens
+<td>Cổng Đen mở ra
 </td></tr>
 <tr>
-<td>Mount Doom</td>
-<td>&#34;I Can&#39;t Carry it for You... but I Can Carry You.&#34;<br/>Mount Doom<br/>&#34;The Eagles are Coming!&#34;<br/>The Crack of Doom<br/>Sauron Defeated<br/>The End of All Things<br/>The Return of The King
+<td>Núi Diệt Vong</td>
+<td>"Tôi không thể mang nó cho bạn... nhưng tôi có thể mang bạn."<br/>Núi Diệt Vong<br/>"Sự Đại Bàng đang đến!"<br/>Sự Crack of Doom<br/>Sauron Defeated<br/>Sự kết thúc của mọi thứ<br/>Sự trở lại của Vua
 </td></tr></tbody></table>
 
 ## Xem thêm {#See_also}
@@ -354,7 +354,7 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -387,7 +387,7 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="../T/The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="../T/The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="../T/The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -397,7 +397,7 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a class="mw-selflink selflink">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -407,30 +407,30 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> film series</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt phim</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">extended edition</a>)· <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">ấn bản mở rộng</a>)· <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="../M/May_It_Be.md" title="May It Be">May It Be</a>&#34; · &#34;<a href="../G/Gollum&#39;s_Song.md" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="../I/Into_the_West.md" title="Into the West">Into the West</a>&#34;
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Sách ăn theo
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="../T/The_Lord_of_the_Rings_Complete_Visual_Companion.md" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="../T/The_Lord_of_the_Rings_Trilogy_Photo_Guide.md" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="../G/Gollum%253A_How_We_Made_Movie_Magic.md" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="../T/There_and_Back_Again%253A_An_Actor&#39;s_Tale.md" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="../T/The_Art_of_The_Lord_of_the_Rings_(film_book).md" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="../T/The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="../T/The_Lord_of_the_Rings_Location_Guidebook.md" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="../T/The_Lord_of_the_Rings_Location_Guidebook%253A_Travel_Diary.md" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="../T/The_Lord_of_the_Rings_Sketchbook.md" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
 </td></tr>
@@ -450,12 +450,12 @@ Mục tiêu của mỗi cấp độ khác nhau. Một số cấp độ chỉ yê
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="../T/The_Art_of_The_Return_of_the_King.md" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Trò chơi điện tử
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="../T/The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="../T/The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a class="mw-selflink selflink">Lego The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Nhân vật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> · <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> · <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> · <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> · <a href="../B/Boromir.md" title="Boromir">Boromir</a> · <a href="Legolas.md" title="Legolas">Legolas</a> · <a href="../G/Gimli.md" title="Gimli">Gimli</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="../T/Théoden.md" title="Théoden">Théoden</a> · <a href="../_/Éomer.md" title="Éomer">Éomer</a> · <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> · <a href="../D/Denethor.md" title="Denethor">Denethor</a> · <a href="../F/Faramir.md" title="Faramir">Faramir</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../G/Gríma.md" title="Gríma">Gríma</a> · <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> · <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> · <a href="../H/Haldir.md" title="Haldir">Haldir</a> · <a href="Lurtz.md" title="Lurtz">Lurtz</a> · <a href="../S/Sharku.md" title="Sharku">Sharku</a> · <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>
 </td></tr></tbody></table>

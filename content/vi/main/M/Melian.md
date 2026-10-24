@@ -134,7 +134,7 @@ Sự kiêu ngạo của Thingol cuối cùng đã dẫn đến cái chết của
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/S/Sindarin_-_Melian.mp3.md" title="File:Sindarin - Melian.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/S/Sindarin_-_Melian.mp3.md" title="File:Sindarin - Melian.mp3">Tệp:Sindarin - Melian.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/S/Sindarin_-_Melian.mp3.md" title="File:Sindarin - Melian.mp3">File:Sindarin - Melian.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -149,7 +149,7 @@ Sự kiêu ngạo của Thingol cuối cùng đã dẫn đến cái chết của
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/Q/Quenya_-_Melyanna.mp3.md" title="File:Quenya - Melyanna.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/Q/Quenya_-_Melyanna.mp3.md" title="File:Quenya - Melyanna.mp3">Tệp:Quenya - Melyanna.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/Q/Quenya_-_Melyanna.mp3.md" title="File:Quenya - Melyanna.mp3">File:Quenya - Melyanna.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -250,7 +250,7 @@ Trong [huyền thoại](../L/Legendarium.md) Melian đầu tiên được địn
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td><div class="tg-seq-label">Sinh</div><div class="tg-seq-value"><a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Sự sáng tạo Ainur</a></div></td><td><div class="tg-seq-title">Melian</div><div class="tg-seq-label"><a href="Maiar.md" title="Maiar">Maia</a> of <a href="../V/Vána.md" title="Vána">Vána</a>, <a href="../E/Estë.md" title="Estë">Estë</a>, &amp; <a href="../I/Irmo.md" title="Irmo">Irmo</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[1]</a></sup></div></td><td><div class="tg-seq-label">Qua đời</div><div class="tg-seq-value"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_502.md" title="First Age 502">502</a></div></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value">Tước hiệu được xác lập</div></td><td width="45%"><div class="tg-seq-value"><a href="../K/King_of_Doriath.md" title="King of Doriath">Nữ hoàng thứ nhất Doriath</a></div><div class="tg-seq-label"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1152.md" title="Year of the Trees 1152">1152</a> – <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_502.md" title="First Age 502">502</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../N/Nimloth_(elf_of_Doriath).md" title="Nimloth (elf of Doriath)">Nimloth</a> <small>(<i>possibly</i>)</small></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value">Tước hiệu được xác lập</div></td><td width="45%"><div class="tg-seq-value"><a href="../K/King_of_Doriath.md" title="King of Doriath">1st <a href="../K/King_of_Doriath.md" title="King of Doriath">Queen of Doriath</a></a></div><div class="tg-seq-label"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Y.T.</a> <a href="../Y/Year_of_the_Trees_1152.md" title="Year of the Trees 1152">1152</a> – <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_502.md" title="First Age 502">502</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../N/Nimloth_(elf_of_Doriath).md" title="Nimloth (elf of Doriath)">Nimloth</a> <small>(<i>possibly</i>)</small></div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

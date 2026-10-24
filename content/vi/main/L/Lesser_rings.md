@@ -20,11 +20,11 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>In Eregion long ago many Elven-rings were made, magic rings as you call them, and they were, of course, of various kinds: some more potent and some less. The lesser rings were only essays in the craft before it was full-grown, and to the Elven-smiths they were but trifles – yet still to my mind dangerous for mortals.
+<p>Vào Eregion cách đây rất lâu, nhiều chiếc nhẫn Tiên đã được tạo ra, những chiếc nhẫn ma thuật như bạn gọi, và tất nhiên, chúng có nhiều loại khác nhau: một số mạnh hơn và một số kém hơn. Những chiếc nhẫn nhỏ hơn chỉ là những bài tiểu luận về nghề thủ công trước khi nó trưởng thành, và đối với Tiên-thợ rèn thì chúng chỉ là những thứ vặt vãnh – nhưng đối với tôi, chúng vẫn nguy hiểm đối với con người.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Shadow_of_the_Past.md" title="The Shadow of the Past">The Shadow of the Past</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -45,11 +45,11 @@ Trong cuộc trò chuyện với Gandalf ở [Orthanc](../O/Orthanc.md), [Saruma
 
 **1995-1997**: <i><b><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></b></i>
 
-<dl><dd>Several cards describing and depicting lesser rings were released, for example &#34;The Oracle&#39;s Ring&#34;, &#34;Wizard&#39;s Ring&#34;, and &#34;Magic Rings&#34; of different power (lore, stealth, courage, etc.).</dd></dl>
+<dl><dd>Một số thẻ mô tả và mô tả những chiếc nhẫn nhỏ hơn đã được phát hành, ví dụ như "The Oracle's Ring", "Pháp sư's Ring" và "Magic Rings" với các sức mạnh khác nhau (truyền thuyết, khả năng tàng hình, lòng dũng cảm, v.v.).</dd></dl>
 
 <b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd><a class="external text" href="http://lotro-wiki.com/index.php/Narchuil" rel="noreferrer noopener" target="_blank">Narchuil</a> was one of the lesser rings forged by the elven-smiths. It was worn by <a href="../A/Amarthiel.md" title="Amarthiel">Amarthiel</a>.</dd></dl>
+<dl><dd><a class="external text" href="http://lotro-wiki.com/index.php/Narchuil" rel="noreferrer noopener" target="_blank">Narchuil</a> là một trong những chiếc nhẫn nhỏ hơn được rèn bởi thợ rèn yêu tinh. Nó được mặc bởi <a href="../A/Amarthiel.md" title="Amarthiel">Amarthiel</a>.</dd></dl>
 
 ## Liên kết ngoài {#External_links}
 

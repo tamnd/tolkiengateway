@@ -22,32 +22,32 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Quenta Silmarillion</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Quenta_Silmarillion_(disambiguation).md" title="Quenta Silmarillion (disambiguation)">Quenta Silmarillion (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Quenta Silmarillion</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Quenta_Silmarillion_(disambiguation).md" title="Quenta Silmarillion (disambiguation)">Quenta Silmarillion (định hướng)</a></b>.</div></div>
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Quenta_Silmarillion_(Lost_Road)&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...there is much else that may be told.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Quenta_Silmarillion_(Lost_Road)&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...còn nhiều điều khác có thể được kể.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> chương
 </th></tr>
 <tr>
 <td>
-<dl><dd><b>Part One</b></dd></dl>
-<ol><li><a href="../T/The_Early_History_of_the_Legend.md" title="The Early History of the Legend">The Early History of the Legend</a></li>
+<dl><dd><b>Phần Một</b></dd></dl>
+<ol><li><a href="../T/The_Early_History_of_the_Legend.md" title="The Early History of the Legend">Lịch sử ban đầu của truyền thuyết</a></li>
 <li><a href="../T/The_Fall_of_Númenor_(chapter).md" title="The Fall of Númenor (chapter)">The Fall of Númenor</a></li>
 <li><a href="../T/The_Lost_Road.md" title="The Lost Road">The Lost Road</a></li></ol>
 <dl><dd><b>Part Two</b><i></i></dd></dl>
-<ol><li><a href="../T/The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">The Texts and Their Relations</a></li>
+<ol><li><a href="../T/The_Texts_and_Their_Relations.md" title="The Texts and Their Relations">Các văn bản và mối liên hệ giữa chúng</a></li>
 <li><a href="../T/The_Later_Annals_of_Valinor.md" title="The Later Annals of Valinor">The Later Annals of Valinor</a></li>
-<li><a href="../T/The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">The Later Annals of Beleriand</a></li>
+<li><a href="../T/The_Later_Annals_of_Beleriand.md" title="The Later Annals of Beleriand">Biên niên sử muộn của Beleriand</a></li>
 <li><a href="../A/Ainulindalë_(Lost_Road).md" title="Ainulindalë (Lost Road)">Ainulindalë</a></li>
 <li><a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a></li>
 <li><a class="mw-selflink selflink">Quenta Silmarillion</a></li></ol>
-<dl><dd><b>Part Three</b>
+<dl><dd><b>Phần Ba</b>
 <dl><dd><a href="../T/The_Etymologies.md" title="The Etymologies">The Etymologies</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 

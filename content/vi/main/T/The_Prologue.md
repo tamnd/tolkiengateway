@@ -16,7 +16,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Prologue</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../P/Prologue_(disambiguation).md" title="Prologue (disambiguation)">Prologue (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Mở đầu</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../P/Prologue_(disambiguation).md" title="Prologue (disambiguation)">Mở đầu (định hướng)</a></b>.</div></div>
 
 <table class="tginfobox" align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
@@ -24,22 +24,22 @@ images:
 </th></tr>
 <tr>
 <td>
-<ol><li><a class="mw-selflink selflink">The Prologue</a></li>
-<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">The Appendix on Languages</a></li>
-<li><a href="The_Family_Trees.md" title="The Family Trees">The Family Trees</a></li>
-<li><a href="The_Calendars.md" title="The Calendars">The Calendars</a></li>
-<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">The History of the Akallabêth</a></li>
+<ol><li><a class="mw-selflink selflink">Lời mở đầu</a></li>
+<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">Phụ lục về ngôn ngữ</a></li>
+<li><a href="The_Family_Trees.md" title="The Family Trees">Phả hệ</a></li>
+<li><a href="The_Calendars.md" title="The Calendars">Các bộ lịch</a></li>
+<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">Lịch sử Akallabêth</a></li>
 <li><a href="The_Tale_of_Years_of_the_Second_Age.md" title="The Tale of Years of the Second Age">The Tale of Years of the Second Age</a></li>
-<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">The Heirs of Elendil</a></li>
+<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">Những người thừa kế Elendil</a></li>
 <li><a href="The_Tale_of_Years_of_the_Third_Age.md" title="The Tale of Years of the Third Age">The Tale of Years of the Third Age</a></li>
-<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">The Making of Appendix A</a></li>
+<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">Quá trình biên soạn Appendix A</a></li>
 <li><a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a></li>
 <li><a href="The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a></li>
 <li><a href="The_Problem_of_Ros.md" title="The Problem of Ros">The Problem of <i>Ros</i></a></li>
-<li><a href="../L/Last_Writings.md" title="Last Writings">Last Writings</a></li>
+<li><a href="../L/Last_Writings.md" title="Last Writings">Những tác phẩm cuối đời</a></li>
 <li><a href="../D/Dangweth_Pengoloð.md" title="Dangweth Pengoloð">Dangweth Pengoloð</a></li>
-<li><a href="../O/Of_Lembas.md" title="Of Lembas">Of Lembas</a></li>
-<li><a href="The_New_Shadow.md" title="The New Shadow">The New Shadow</a></li>
+<li><a href="../O/Of_Lembas.md" title="Of Lembas">Về Lembas</a></li>
+<li><a href="The_New_Shadow.md" title="The New Shadow">Bóng Tối Mới</a></li>
 <li><a href="Tal-Elmar_(chapter).md" title="Tal-Elmar (chapter)">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 

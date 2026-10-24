@@ -16,7 +16,7 @@ images:
   - "Jenny_Dolfen_-_Tuor_and_Idril_in_Gondolin.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jenny_Dolfen_-_Tuor_and_Idril_in_Gondolin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/63/Jenny_Dolfen_-_Tuor_and_Idril_in_Gondolin.jpg/300px-Jenny_Dolfen_-_Tuor_and_Idril_in_Gondolin.jpg" decoding="async" loading="lazy" width="300" height="501" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/63/Jenny_Dolfen_-_Tuor_and_Idril_in_Gondolin.jpg/450px-Jenny_Dolfen_-_Tuor_and_Idril_in_Gondolin.jpg 1.5x, https://tolkiengateway.net/w/images/6/63/Jenny_Dolfen_-_Tuor_and_Idril_in_Gondolin.jpg 2x" data-file-width="539" data-file-height="900"/></a><figcaption><i>Tuor and Idril in Gondolin</i> by <a href="../J/Jenny_Dolfen.md" title="Jenny Dolfen">Jenny Dolfen</a></figcaption></figure>
@@ -24,7 +24,7 @@ images:
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Nai elen atta siluvat aurenna veryanwesto.
 </p>
-<p class="tg-quote-footer"><cite><a href="../Q/Quenya.md" title="Quenya">Quenya</a> wedding wish by <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><a href="../Q/Quenya.md" title="Quenya">Quenya</a> lời chúc đám cưới của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Chỉ một vài lần trong lịch sử [Arda](../A/Arda.md) có **sự kết hợp của Tiên tộc và Con Người**. Con cháu của những cuộc hôn nhân như vậy được gọi là [Half-elven](../H/Half-elven.md).
@@ -38,7 +38,7 @@ Ngoài ra, theo truyền thuyết địa phương, [Imrazôr](../I/Imrazôr.md),
 [Finduilas](../F/Finduilas.md), công chúa Noldorin của [Nargothrond](../N/Nargothrond.md), yêu [Túrin](../T/Túrin.md) nhưng anh từ chối lời tán tỉnh của cô.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Gwindor](../G/Gwindor.md), lãnh chúa của Nargothrond, đã khuyên cô:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Not fitting is it that the Elder Children of Ilúvatar should wed the Younger; nor is it wise, for they are brief, and soon pass, to leave us in widowhood while the world lasts. Neither will fate suffer it, unless it be once or twice only, for some high cause of doom that we do not perceive.
+<p>Việc Anh Những Người Con của Ilúvatar lấy Em là không phù hợp; cũng không phải là điều khôn ngoan, vì chúng rất ngắn ngủi và sẽ sớm qua đi, để chúng ta ở cảnh góa bụa trong khi thế gian còn tồn tại. Số phận cũng sẽ không chịu đựng điều đó, trừ khi chỉ một hoặc hai lần, vì một nguyên nhân diệt vong cao cả nào đó mà chúng ta không nhận thức được.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;<a href="../T/Túrin_in_Nargothrond.md" title="Túrin in Nargothrond">Túrin in Nargothrond</a>&#34;</cite></p>
 </blockquote>

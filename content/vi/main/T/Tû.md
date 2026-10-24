@@ -15,7 +15,7 @@ sort_keys:
   "Noldorin nouns": "Tu"
 ---
 
-<dl><dd><i>Not to be confused with <a href="Thû.md" title="Thû">Thû</a>.</i></dd></dl>
+<dl><dd><i>Đừng nhầm lẫn với <a href="Thû.md" title="Thû">Thû</a>.</i></dd></dl>
 
 <i><b>tû</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "cơ bắp, gân cốt; sức sống, thể lực".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 

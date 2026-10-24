@@ -22,15 +22,15 @@ Trong bài thơ *[The Adventures of Tom Bombadil](<../T/The_Adventures_of_Tom_Bo
 
 <b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
-<dl><dd><i><b>Sha</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Ningalen</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Nellaica</i>) was a water lily from the bogs of the <a href="../E/Ettendales.md" title="Ettendales">Ettendales</a>, whose powdered flowers enhanced the ability to see at the dark, though at the cost of it also being a strong laxative.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd><i><b>Sha</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Ningalen</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Nellaica</i>) là một loài hoa súng lấy từ đầm lầy ở <a href="../E/Ettendales.md" title="Ettendales">Ettendales</a>, loại hoa có dạng bột giúp tăng cường khả năng nhìn trong bóng tối, mặc dù cái giá của nó cũng là thuốc nhuận tràng mạnh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd><i><b>Marsh lilies</b></i> are a commonly featured plant, with the ones of <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> being available as housing decoration.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<dl><dd><i><b>Marsh lilies</b></i> là một loại cây phổ biến, trong đó cây <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> được dùng để trang trí nhà ở.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
 <b>2012: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a>—<a href="../L/Loremaster&#39;s_Screen_and_Lake-town_Sourcebook.md" title="Loremaster&#39;s Screen and Lake-town Sourcebook">Thị trấn Hồ Sách tham khảo</a></i></b>
 
-<dl><dd>They are described as oval-leaved floating marsh plants, with white or yellow flowers. A drink made using its white flowers induced a restorative sleep. The rarer red water-lily instilled a stronger fighting spirit.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
+<dl><dd>Chúng được mô tả là những cây đầm lầy nổi có lá hình bầu dục, có hoa màu trắng hoặc vàng. Một thức uống làm từ những bông hoa trắng của nó mang lại giấc ngủ phục hồi. Hoa súng màu đỏ quý hiếm đã khơi dậy tinh thần chiến đấu mạnh mẽ hơn.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
 <span></span>
 

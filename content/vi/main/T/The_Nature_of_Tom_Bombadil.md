@@ -16,8 +16,8 @@ images:
   - "Anke_Eißmann_-_Tom_Bombadil.jpg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
-<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
+<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
@@ -25,7 +25,7 @@ images:
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Tom_Bombadil.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/40/Anke_Ei%C3%9Fmann_-_Tom_Bombadil.jpg/250px-Anke_Ei%C3%9Fmann_-_Tom_Bombadil.jpg" decoding="async" loading="lazy" width="250" height="202" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/40/Anke_Ei%C3%9Fmann_-_Tom_Bombadil.jpg/375px-Anke_Ei%C3%9Fmann_-_Tom_Bombadil.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/40/Anke_Ei%C3%9Fmann_-_Tom_Bombadil.jpg/500px-Anke_Ei%C3%9Fmann_-_Tom_Bombadil.jpg 2x" data-file-width="839" data-file-height="677"/></a><figcaption><i>Tom Bombadil</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>He is a strange creature.
+<p>Ông là một sinh vật kỳ lạ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../E/Elrond.md" title="Elrond">Elrond</a> in <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="The_Council_of_Elrond.md" title="The Council of Elrond">The Council of Elrond</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -34,24 +34,24 @@ Nguồn gốc thần thoại của [Tom Bombadil](Tom_Bombadil.md) trong vũ tr�
 
 Những ý tưởng suy đoán về bản chất thực sự của ông ta bao gồm từ một [Tiên](../E/Elves.md) ẩn sĩ thông thái đơn giản đến một [Maia](../M/Maiar.md) hoặc [Vala](../V/Valar.md), thậm chí cả [Ilúvatar](../I/Ilúvatar.md) chính ông ta.
 
-<h2><span id="Tolkien.27s_words"></span><span class="mw-headline" id="Tolkien&#39;s_words">Tolkien&#39;s words</span></h2>
+<h2><span id="Tolkien.27s_words"></span><span class="mw-headline" id="Tolkien&#39;s_words">Lời của Tolkien</span></h2>
 
 Ngay cả khi còn sống, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã được hỏi trực tiếp về Tom, nhưng anh đã bác bỏ những câu hỏi này, cho thấy rõ rằng Tom là một nhân vật sống bí ẩn, một phần của một thế giới rộng lớn hơn, khó hiểu hơn:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Even in a mythical Age there must be some enigmas, as there always are. Tom Bombadil is one (intentionally).
+<p>Ngay cả trong Thời đại thần thoại cũng phải có một số điều bí ẩn, như luôn luôn có. Tom Bombadil là một (cố ý).
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I don&#39;t think Tom needs philosophizing about, and is not improved by it. But many have found him an odd or indeed discordant ingredient.
+<p>Tôi không nghĩ Tom cần phải triết lý và việc đó không cải thiện được gì. Nhưng nhiều người nhận thấy ông là một thành phần kỳ quặc hoặc thực sự không hòa hợp.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-L153_2-0" class="reference"><a href="#cite_note-L153-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Bombadil is just as he is. Just an odd ‘fact’ of that world. He won&#39;t be explained, because as long as you are [...] concentrated on the Ring, he is inexplicable. [A reminder] that the world is so large and manifold that if you take one facet and fix your mind and heart on it, there is always something that does not come in to that story [...] and seems to belong to a larger story.
+<p>Bombadil cũng giống như ông vậy. Chỉ là một 'sự thật' kỳ lạ của thế giới đó. Ông sẽ không được giải thích, bởi vì chỉ cần bạn […] tập trung vào Chiếc nhẫn, ông sẽ không thể giải thích được. [Một lời nhắc nhở] rằng thế giới rộng lớn và đa dạng đến mức nếu bạn nhìn một khía cạnh và tập trung tâm trí cũng như trái tim của mình vào đó, thì luôn có điều gì đó không xuất hiện trong câu chuyện đó […] và dường như thuộc về một câu chuyện lớn hơn.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-coghill_3-0" class="reference"><a href="#cite_note-coghill-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -59,7 +59,7 @@ Ngay cả khi còn sống, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đượ
 Tolkien gợi ý rằng ngay cả trong [thế giới thứ cấp](../S/Secondary_World~65496.md), các nhân vật, chủ yếu là Hobbit, những người tương tác với ông ta đều không nhận thức đầy đủ về bản chất của ông ta.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The <a href="../B/Bucklanders.md" title="Bucklanders">Bucklanders</a> knew Bombadil, though, no doubt, they had as little understanding of his powers as the <a class="mw-redirect" href="../S/Shire-folk.md" title="Shire-folk">Shire-folk</a> had of <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>&#39;s: both were regarded as benevolent persons, mysterious maybe and unpredictable but nonetheless comic.
+<p>Tuy nhiên, những <a href="../B/Bucklanders.md" title="Bucklanders">những người dân vùng Bucklander</a> biết Bombadil, không còn nghi ngờ gì nữa, họ hiểu biết rất ít về sức mạnh của ông giống như những <a class="mw-redirect" href="../S/Shire-folk.md" title="Shire-folk">Shire-dân gian</a> có của <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>: cả hai đều được coi là những người nhân từ, có thể bí ẩn và khó đoán nhưng vẫn hài hước.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>, Preface</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -91,9 +91,9 @@ Sau khi Chiếc Nhẫn Chúa bị phá hủy, Gandalf đến nói chuyện với
 ## Tom là hiện thân của Arda {#Tom_as_the_embodiment_of_Arda}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The spirit of this earth made aware of itself.
+<p>Tinh thần của trái đất này đã nhận thức được chính nó.
 </p>
-<p class="tg-quote-footer"><cite>J.R.R. Tolkien explaining Tom to <a href="../N/Nevill_Coghill.md" title="Nevill Coghill">Nevill Coghill</a><sup id="cite_ref-coghill_3-2" class="reference"><a href="#cite_note-coghill-3">[3]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>J.R.R. Tolkien giải thích về Tom cho <a href="../N/Nevill_Coghill.md" title="Nevill Coghill">Nevill Coghill</a><sup id="cite_ref-coghill_3-2" class="reference"><a href="#cite_note-coghill-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Một lý thuyết cấp tiến và trừu tượng hơn cho rằng ông ta có thể là hiện thân của chính [Arda](../A/Arda.md), một "Cha Thiên nhiên". Tom dù gần gũi với thiên nhiên nhưng cũng có lúc tách mình ra khỏi thiên nhiên. Một ví dụ như vậy là trong Khu Rừng Cổ khi chiến đấu chống lại Old Man Willow và có tính cách khác với Khu Rừng Cổ, được mô tả là đen tối và đầy căm ghét mọi thứ diễn ra tự do. Mặt khác, Tom hát liên tục ngay cả khi chiến đấu với kẻ đánh xe: *"Chưa ai bắt được ông ta, đối với Tom, ông ta là Bậc thầy: Các bài hát của ông ta là những bài hát mạnh mẽ hơn và đôi chân của ông ta nhanh hơn"*.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>

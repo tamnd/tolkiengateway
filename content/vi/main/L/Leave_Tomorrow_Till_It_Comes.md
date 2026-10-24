@@ -17,28 +17,28 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Leave tomorrow till it comes;<br/>
-Sleep will ease your mind.<br/>
-With the dawn, you&#39;ll find<br/>
-Problems realigned a different way<br/>
-Than yesterday.<br/>
+<p>Hãy để ngày mai cho đến khi nó đến;<br/>
+Giấc ngủ sẽ làm dịu tâm trí bạn.<br/>
+Khi bình minh lên, bạn sẽ tìm thấy<br/>
+Vấn đề được sắp xếp lại theo cách khác<br/>
+Hơn ngày hôm qua.<br/>
 <br/>
-Leave tomorrow till it comes;<br/>
-Time is moving fast.<br/>
-Don&#39;t go pushing past;<br/>
-Endings of the day were meant to last<br/>
-Till yesterday.<br/>
+Hãy để ngày mai cho đến khi nó đến;<br/>
+Thời gian đang trôi nhanh.<br/>
+Đừng đi quá khứ;<br/>
+Sự kết thúc của một ngày có ý nghĩa kéo dài<br/>
+Cho tới ngày hôm qua.<br/>
 <br/>
-Tangled dreams unfold,<br/>
-And webs may disappear.<br/>
-Stories are retold,<br/>
-And cloudy thoughts will clear.<br/>
+Những giấc mơ rối rắm mở ra,<br/>
+Và các trang web có thể biến mất.<br/>
+Những câu chuyện được kể lại,<br/>
+Và những suy nghĩ vẩn đục sẽ tan biến.<br/>
 <br/>
-Leave tomorrow till it comes;<br/>
-Sleep will ease your mind.<br/>
-With the dawn, you&#39;ll find<br/>
-Problems realigned a different way<br/>
-Than yesterday...<br/>
-Than yesterday.
+Hãy để ngày mai cho đến khi nó đến;<br/>
+Giấc ngủ sẽ làm dịu tâm trí bạn.<br/>
+Khi bình minh lên, bạn sẽ tìm thấy<br/>
+Vấn đề được sắp xếp lại theo cách khác<br/>
+Hơn ngày hôm qua...<br/>
+Hơn ngày hôm qua.
 </p>
 </div>

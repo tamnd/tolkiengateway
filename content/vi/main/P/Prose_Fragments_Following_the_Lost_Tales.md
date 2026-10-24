@@ -16,17 +16,17 @@ images:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> chương
 </th></tr>
 <tr>
 <td>
-<ol><li><a class="mw-selflink selflink">Prose Fragments</a></li>
+<ol><li><a class="mw-selflink selflink">Các đoạn văn xuôi rời</a></li>
 <li><a href="../T/The_Earliest_&#39;Silmarillion&#39;.md" title="The Earliest &#39;Silmarillion&#39;">The Earliest &#39;Silmarillion&#39;</a></li>
 <li><a href="../T/The_Quenta.md" title="The Quenta">The Quenta</a></li>
-<li><a href="../T/The_First_&#39;Silmarillion&#39;_Map.md" title="The First &#39;Silmarillion&#39; Map">The First &#39;Silmarillion&#39; Map</a></li>
+<li><a href="../T/The_First_&#39;Silmarillion&#39;_Map.md" title="The First &#39;Silmarillion&#39; Map">Bản đồ &#39;Silmarillion&#39; đầu tiên</a></li>
 <li><a href="../T/The_Ambarkanta.md" title="The Ambarkanta">The Ambarkanta</a></li>
-<li><a href="../T/The_Earliest_Annals_of_Valinor.md" title="The Earliest Annals of Valinor">The Earliest Annals of Valinor</a></li>
-<li><a href="../T/The_Earliest_Annals_of_Beleriand.md" title="The Earliest Annals of Beleriand">The Earliest Annals of Beleriand</a></li></ol>
+<li><a href="../T/The_Earliest_Annals_of_Valinor.md" title="The Earliest Annals of Valinor">Biên niên sử sớm nhất về Valinor</a></li>
+<li><a href="../T/The_Earliest_Annals_of_Beleriand.md" title="The Earliest Annals of Beleriand">Biên niên sử cổ nhất của Beleriand</a></li></ol>
 </td></tr></tbody></table>
 
 **Những đoạn văn xuôi Tiếp theo Lost Tales** là chương đầu tiên của *[The Shaping of Middle-earth](../T/The_Shaping_of_Middle-earth.md)*. Các mảnh này được viết vào ngày không xác định, trong khoảng thời gian giữa quá trình tạo *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* và [The Earliest 'Silmarillion'](../T/The_Earliest_'Silmarillion'.md).
@@ -60,7 +60,7 @@ Rõ ràng rằng *Golfin* đây là lần xuất hiện đầu tiên của [Fing
 Đoạn thứ ba là từ một mảnh giấy riêng biệt, một bản phác thảo suy nghĩ lại Lost Tale của [Chuyến bay của Noldoli](../T/The_Flight_of_the_Noldoli.md), được cung cấp đầy đủ ở đây:
 
 <blockquote class="tg-quote noexcerpt">
-<p>The Trees stand dark. The Plain is full of trouble. The Gnomes gather by torchlight in Tûn or Côr; Fëanor laments Bruithwir (Felegron) [emended to (Feleor)] his father, bids Gnomes depart &amp; seek Melko and their treasures —he longs for the <a href="../S/Silmarils.md" title="Silmarils">Silmarils</a>— Finweg &amp; Fingolfin speak against him. The Gnomes shout and prepare to depart. The <a href="../S/Solosimpi.md" title="Solosimpi">Solosimpi</a> refuse: the wise words of Ethlon (Dimlint). Foamriders [?beaches]. The threats of Fëanor to march to Cú nan Eilch. The arch, the lamplit quays; they seize the boats. One <a class="mw-redirect" href="../G/Gilfanon_(elf_of_Alqualondë).md" title="Gilfanon (elf of Alqualondë)">Gilfanon</a> sees his mighty swanwinged swan-feather boat with red oars [?going] &amp; he &amp; his sons run to the arch and threaten the Gnomes. The fight on the arch &amp; Gilfanon&#39;s [?curse] ere they throw him to the waves. The Gnomes reach Fangros &amp; repent — burn the boats.
+<p>Cây cối đứng trong bóng tối. Đồng bằng đầy rắc rối. Gnomes tụ tập dưới ánh đuốc ở Tûn hoặc Côr; Fëanor than thở Bruithwir (Felegron) [được gắn với (Feleor)] cha ông, ra giá Gnomes khởi hành &amp; tìm kiếm Melko và kho báu của họ —ông khao khát <a href="../S/Silmarils.md" title="Silmarils">Silmaril</a>— Finweg &amp; Fingolfin lên tiếng chống lại ông. Tiếng Gnomes hét lên và chuẩn bị khởi hành. Lời từ chối <a href="../S/Solosimpi.md" title="Solosimpi">Solosimpi</a>: lời nói khôn ngoan của Ethlon (Dimlint). Người tạo bọt [?bãi biển]. Lời đe dọa của Fëanor hành quân đến Cú nan Eilch. Cổng vòm, bến cảng có ánh đèn; họ chiếm giữ những chiếc thuyền. Một <a class="mw-redirect" href="../G/Gilfanon_(elf_of_Alqualondë).md" title="Gilfanon (elf of Alqualondë)">Gifanon</a> nhìn thấy chiếc thuyền lông thiên nga hùng mạnh của mình với mái chèo màu đỏ [? going] &amp; ông &amp; các con trai của mình chạy đến vòm và đe dọa Gnomes. Cuộc chiến trên vòm &amp; với [?lời nguyền] của Gilfanon trước khi họ ném ông xuống sóng. Gnomes đến Fangros &amp; ăn năn - đốt thuyền.
 </p>
 </blockquote>
 

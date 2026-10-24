@@ -37,10 +37,10 @@ images:
   - "Ea.mp3"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the universe</b>. For the word, see <b><a href="Ea_(verb).md" title="Ea (verb)">Ea (verb)</a></b>, and for the games developer see <b><a class="mw-redirect" href="EA.md" title="EA">EA</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>vũ trụ</b>. Đối với từ, hãy xem <b><a href="Ea_(verb).md" title="Ea (verb)">Ea (động từ)</a></b> và đối với nhà phát triển trò chơi, hãy xem <b><a class="mw-redirect" href="EA.md" title="EA">EA</a></b>.</div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The kingdom of Arda, and that was but a small realm in the halls of Ea, whose life is <a href="../T/Time.md" title="Time">Time</a>, which flows ever from the first note to the last chord of Eru.
+<p>Vương quốc Arda, và đó chỉ là một vương quốc nhỏ trong đại sảnh của Ea, cuộc sống của nó là <a href="../T/Time.md" title="Time">Thời gian</a>, trôi chảy từ nốt đầu tiên đến hợp âm cuối cùng của Eru.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../A/Annals_of_Aman.md" title="Annals of Aman">Annals of Aman</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -75,7 +75,7 @@ Các [Valar](../V/Valar.md) và [Tiên tộc](Elves.md) nhận thức được r
 <td style="text-align:center"><b><a href="../../file/E/Ea.mp3.md" title="File:Ea.mp3">File:Ea.mp3</a></b></td>
 </tr>
 <tr>
-<td style="font-size: small; padding-bottom: 3px; text-align:center;">By <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Media help</a>)</td>
+<td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
 </tr>
 </tbody></table>
 </div>
@@ -160,17 +160,17 @@ Trong *[Átaremma](../_/Átaremma.md)*, bản dịch Kinh Lạy Cha của [J.R.R
 <td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> <a class="mw-redirect" href="../C/Cosmology.md" title="Cosmology">Cosmology</a></b>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Constellations</a>
+<th style="background:var(--tg-color-surface-3);" align="right"> <a href="../C/Constellations.md" title="Constellations">Chòm sao</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Anarríma.md" title="Anarríma">Anarríma</a></i> · <i><a href="../D/Durin&#39;s_Crown.md" title="Durin&#39;s Crown">Durin&#39;s Crown</a></i> · <i><a href="../M/Menelmacar.md" title="Menelmacar">Menelmacar</a></i> · <i><a href="../R/Remmirath.md" title="Remmirath">Remmirath</a></i> · <i><a href="../S/Soronúmë.md" title="Soronúmë">Soronúmë</a></i> · <i><a href="../T/Telumendil.md" title="Telumendil">Telumendil</a></i> · <i><a href="../V/Valacirca.md" title="Valacirca">Valacirca</a></i> · <i><a href="../W/Wilwarin.md" title="Wilwarin">Wilwarin</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right"><a href="../S/Stars.md" title="Stars">Stars</a>
+<th style="background:var(--tg-color-surface-3);" align="right"><a href="../S/Stars.md" title="Stars">Diễn viên chính</a>
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Alcarinquë.md" title="Alcarinquë">Alcarinquë</a></i> · <i><a href="../B/Borgil.md" title="Borgil">Borgil</a></i> · <i><a href="../C/Carnil.md" title="Carnil">Carnil</a></i> · <i><a href="Elemmírë.md" title="Elemmírë">Elemmírë</a></i> · <i><a href="../H/Helluin.md" title="Helluin">Helluin</a></i> · <i><a href="../L/Luinil.md" title="Luinil">Luinil</a></i> · <i><a href="../L/Lumbar.md" title="Lumbar">Lumbar</a></i> · <i><a href="../M/Morwinyon.md" title="Morwinyon">Morwinyon</a></i> · <i><a href="../N/Nénar.md" title="Nénar">Nénar</a></i> · <i><a href="../S/Star_of_Eärendil.md" title="Star of Eärendil">Star of Eärendil</a></i> · <i><a href="../T/Til_(star).md" title="Til (star)">Til</a></i> 
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">The Airs
+<th style="background:var(--tg-color-surface-3);" align="right">Các khúc ca
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Aiwenórë.md" title="Aiwenórë">Aiwenórë</a></i> · <i><a href="../F/Fanyamar.md" title="Fanyamar">Fanyamar</a></i> · <i><a href="../I/Ilmen.md" title="Ilmen">Ilmen</a></i> · <i><a href="../M/Menel.md" title="Menel">Menel</a></i> · <i><a href="../V/Vaiya.md" title="Vaiya">Vaiya</a></i> · <i><a href="../V/Veil_of_Arda.md" title="Veil of Arda">Veil of Arda</a></i> · <i><a href="../V/Vista.md" title="Vista">Vista</a></i>
 </td></tr>
@@ -180,7 +180,7 @@ Trong *[Átaremma](../_/Átaremma.md)*, bản dịch Kinh Lạy Cha của [J.R.R
 <td style="font-size: 90%"> <i><a href="../A/Arien.md" title="Arien">Arien</a></i> · <i><a href="../M/Moon.md" title="Moon">Moon</a></i> (<i>Isil</i>, <i>Ithil</i>, <i>Rána</i>) · <i><a href="../S/Sun.md" title="Sun">Sun</a></i> (<i>Anar</i>, <i>Anor</i>, <i>Vása</i>) · <i><a href="../T/Tilion.md" title="Tilion">Tilion</a></i>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">See also
+<th style="background:var(--tg-color-surface-3);" align="right">Xem thêm
 </th>
 <td style="font-size: 90%;"> <i><a href="../A/Abyss.md" title="Abyss">Abyss</a></i> · <i><a href="../A/Arda.md" title="Arda">Arda</a></i> · <i><a href="../C/Circles_of_the_World.md" title="Circles of the World">Circles of the World</a></i> · <i><a class="mw-selflink selflink">Eä</a></i> · <i><a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a></i> · <i><a href="../T/Two_Lamps.md" title="Two Lamps">Two Lamps</a></i> · <i><a href="../T/Two_Trees_of_Valinor.md" title="Two Trees of Valinor">Two Trees</a></i> · <i><a href="../V/Void.md" title="Void">Void</a></i>
 </td></tr></tbody></table>

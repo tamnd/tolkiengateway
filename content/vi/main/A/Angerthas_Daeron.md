@@ -82,7 +82,7 @@ Một số chữ cái mới được sử dụng cho các âm Quenya (và các t
 </td>
 <td><em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">o</em>
 </td>
-<td>ôi trời
+<td>gw
 </td>
 <td><em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">T</em>
 </td>
@@ -148,7 +148,7 @@ Một số chữ cái mới được sử dụng cho các âm Quenya (và các t
 </td>
 <td><em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">Q</em>
 </td>
-<td>ôi
+<td>ghw
 </td>
 <td><em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">s</em>
 </td>
@@ -189,7 +189,7 @@ Một số chữ cái mới được sử dụng cho các âm Quenya (và các t
 </td>
 <td><em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">J</em>
 </td>
-<td>thứ
+<td>nd
 </td></tr>
 <tr>
 <td><em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">6</em>
@@ -365,7 +365,7 @@ Vào thời [Kỷ Đệ Nhị](../S/Second_Age.md) [Tengwar](../T/Tengwar.md) l�
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Thuộc về Con Người</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Mannish miền Bắc</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Ngôn ngữ Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="../T/Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
+<td style="font-size: 90%; padding-left: 4px;"><a href="Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Northern Mannish</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Language of Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="../T/Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Dwarvish

@@ -112,21 +112,21 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_in_Translation.jpg.md" title="Tolkien in Translation"><img alt="Tolkien in Translation" src="https://tolkiengateway.net/w/images/thumb/e/ea/Tolkien_in_Translation.jpg/133px-Tolkien_in_Translation.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/Tolkien_in_Translation.jpg/200px-Tolkien_in_Translation.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/Tolkien_in_Translation.jpg/267px-Tolkien_in_Translation.jpg 2x" data-file-width="907" data-file-height="1360"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/Tolkien_in_Translation.md" title="Tolkien in Translation">Tolkien in Translation</a>
+<p><a href="../T/Tolkien_in_Translation.md" title="Tolkien in Translation">Tolkien qua các bản dịch</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_Through_Russian_Eyes.jpg.md" title="Tolkien Through Russian Eyes"><img alt="Tolkien Through Russian Eyes" src="https://tolkiengateway.net/w/images/thumb/f/fa/Tolkien_Through_Russian_Eyes.jpg/133px-Tolkien_Through_Russian_Eyes.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fa/Tolkien_Through_Russian_Eyes.jpg/200px-Tolkien_Through_Russian_Eyes.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fa/Tolkien_Through_Russian_Eyes.jpg/266px-Tolkien_Through_Russian_Eyes.jpg 2x" data-file-width="333" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/Tolkien_Through_Russian_Eyes.md" title="Tolkien Through Russian Eyes">Tolkien Through Russian Eyes</a>
+<p><a href="../T/Tolkien_Through_Russian_Eyes.md" title="Tolkien Through Russian Eyes">Tolkien qua góc nhìn của người Nga</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Translating_Tolkien_-_Text_and_Film.jpg.md" title="Translating Tolkien: Text and Film"><img alt="Translating Tolkien: Text and Film" src="https://tolkiengateway.net/w/images/thumb/b/b3/Translating_Tolkien_-_Text_and_Film.jpg/133px-Translating_Tolkien_-_Text_and_Film.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b3/Translating_Tolkien_-_Text_and_Film.jpg/200px-Translating_Tolkien_-_Text_and_Film.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b3/Translating_Tolkien_-_Text_and_Film.jpg/266px-Translating_Tolkien_-_Text_and_Film.jpg 2x" data-file-width="333" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/Translating_Tolkien%253A_Text_and_Film.md" title="Translating Tolkien: Text and Film">Translating Tolkien: Text and Film</a>
+<p><a href="../T/Translating_Tolkien%253A_Text_and_Film.md" title="Translating Tolkien: Text and Film">Dịch thuật Tolkien: Văn bản và phim</a>
 </p>
 			</div>
 		</li>
@@ -140,7 +140,7 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Reconsidering_Tolkien.jpg.md" title="Reconsidering Tolkien"><img alt="Reconsidering Tolkien" src="https://tolkiengateway.net/w/images/thumb/6/64/Reconsidering_Tolkien.jpg/133px-Reconsidering_Tolkien.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/Reconsidering_Tolkien.jpg/200px-Reconsidering_Tolkien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/Reconsidering_Tolkien.jpg/266px-Reconsidering_Tolkien.jpg 2x" data-file-width="333" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../R/Reconsidering_Tolkien.md" title="Reconsidering Tolkien">Reconsidering Tolkien</a>
+<p><a href="../R/Reconsidering_Tolkien.md" title="Reconsidering Tolkien">Nhìn nhận lại Tolkien</a>
 </p>
 			</div>
 		</li>
@@ -154,28 +154,28 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_and_Modernity_2.jpg.md" title="Tolkien and Modernity 2"><img alt="Tolkien and Modernity 2" src="https://tolkiengateway.net/w/images/thumb/c/ce/Tolkien_and_Modernity_2.jpg/133px-Tolkien_and_Modernity_2.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/ce/Tolkien_and_Modernity_2.jpg/200px-Tolkien_and_Modernity_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/ce/Tolkien_and_Modernity_2.jpg/266px-Tolkien_and_Modernity_2.jpg 2x" data-file-width="333" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/Tolkien_and_Modernity_2.md" title="Tolkien and Modernity 2">Tolkien and Modernity 2</a>
+<p><a href="../T/Tolkien_and_Modernity_2.md" title="Tolkien and Modernity 2">Tolkien và tính hiện đại 2</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Rootsandbranches.jpg.md" title="Roots and Branches"><img alt="Roots and Branches" src="https://tolkiengateway.net/w/images/thumb/1/13/Rootsandbranches.jpg/133px-Rootsandbranches.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/13/Rootsandbranches.jpg/200px-Rootsandbranches.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/13/Rootsandbranches.jpg/267px-Rootsandbranches.jpg 2x" data-file-width="334" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../R/Roots_and_Branches.md" title="Roots and Branches">Roots and Branches</a>
+<p><a href="../R/Roots_and_Branches.md" title="Roots and Branches">Rễ và Cành</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/I/Inside_Language.jpg.md" title="Inside Language"><img alt="Inside Language" src="https://tolkiengateway.net/w/images/thumb/d/d6/Inside_Language.jpg/133px-Inside_Language.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d6/Inside_Language.jpg/200px-Inside_Language.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d6/Inside_Language.jpg/266px-Inside_Language.jpg 2x" data-file-width="333" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../I/Inside_Language.md" title="Inside Language">Inside Language</a>
+<p><a href="../I/Inside_Language.md" title="Inside Language">Ngôn ngữ nội tại</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/H/How_We_Became_Middle-earth.jpg.md" title="How We Became Middle-earth"><img alt="How We Became Middle-earth" src="https://tolkiengateway.net/w/images/thumb/6/66/How_We_Became_Middle-earth.jpg/133px-How_We_Became_Middle-earth.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/How_We_Became_Middle-earth.jpg/200px-How_We_Became_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/How_We_Became_Middle-earth.jpg/266px-How_We_Became_Middle-earth.jpg 2x" data-file-width="333" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../H/How_We_Became_Middle-earth.md" title="How We Became Middle-earth">How We Became Middle-earth</a>
+<p><a href="../H/How_We_Became_Middle-earth.md" title="How We Became Middle-earth">Chúng ta trở thành Trung Địa như thế nào</a>
 </p>
 			</div>
 		</li>
@@ -224,7 +224,7 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Music_in_Middle-earth.jpg.md" title="Music in Middle-earth"><img alt="Music in Middle-earth" src="https://tolkiengateway.net/w/images/thumb/e/e9/Music_in_Middle-earth.jpg/133px-Music_in_Middle-earth.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e9/Music_in_Middle-earth.jpg/200px-Music_in_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e9/Music_in_Middle-earth.jpg/267px-Music_in_Middle-earth.jpg 2x" data-file-width="907" data-file-height="1360"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../M/Music_in_Middle-earth.md" title="Music in Middle-earth">Music in Middle-earth</a>
+<p><a href="../M/Music_in_Middle-earth.md" title="Music in Middle-earth">Âm nhạc ở Trung Địa</a>
 </p>
 			</div>
 		</li>
@@ -280,7 +280,7 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien&#39;s_Poetry.png.md" title="Tolkien&#39;s Poetry"><img alt="Tolkien&#39;s Poetry" src="https://tolkiengateway.net/w/images/thumb/0/08/Tolkien%27s_Poetry.png/133px-Tolkien%27s_Poetry.png" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/08/Tolkien%27s_Poetry.png/200px-Tolkien%27s_Poetry.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/08/Tolkien%27s_Poetry.png/266px-Tolkien%27s_Poetry.png 2x" data-file-width="280" data-file-height="420"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/Tolkien&#39;s_Poetry.md" title="Tolkien&#39;s Poetry">Tolkien&#39;s Poetry</a>
+<p><a href="../T/Tolkien&#39;s_Poetry.md" title="Tolkien&#39;s Poetry">Thơ của Tolkien</a>
 </p>
 			</div>
 		</li>
@@ -308,7 +308,7 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_and_Philosophy.jpg.md" title="Tolkien and Philosophy"><img alt="Tolkien and Philosophy" src="https://tolkiengateway.net/w/images/thumb/f/fa/Tolkien_and_Philosophy.jpg/133px-Tolkien_and_Philosophy.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fa/Tolkien_and_Philosophy.jpg/200px-Tolkien_and_Philosophy.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fa/Tolkien_and_Philosophy.jpg/267px-Tolkien_and_Philosophy.jpg 2x" data-file-width="907" data-file-height="1360"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/Tolkien_and_Philosophy.md" title="Tolkien and Philosophy">Tolkien and Philosophy</a>
+<p><a href="../T/Tolkien_and_Philosophy.md" title="Tolkien and Philosophy">Tolkien và Triết học</a>
 </p>
 			</div>
 		</li>
@@ -336,7 +336,7 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien-_Romanticist_and_Poet.jpg.md" title="J.R.R. Tolkien: Romanticist and Poet"><img alt="J.R.R. Tolkien: Romanticist and Poet" src="https://tolkiengateway.net/w/images/thumb/a/a3/J.R.R._Tolkien-_Romanticist_and_Poet.jpg/133px-J.R.R._Tolkien-_Romanticist_and_Poet.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a3/J.R.R._Tolkien-_Romanticist_and_Poet.jpg/200px-J.R.R._Tolkien-_Romanticist_and_Poet.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a3/J.R.R._Tolkien-_Romanticist_and_Poet.jpg/266px-J.R.R._Tolkien-_Romanticist_and_Poet.jpg 2x" data-file-width="560" data-file-height="840"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../J/J.R.R._Tolkien%253A_Romanticist_and_Poet.md" title="J.R.R. Tolkien: Romanticist and Poet">J.R.R. Tolkien: Romanticist and Poet</a>
+<p><a href="../J/J.R.R._Tolkien%253A_Romanticist_and_Poet.md" title="J.R.R. Tolkien: Romanticist and Poet">J.R.R. Tolkien: Nhà lãng mạn và thi sĩ</a>
 </p>
 			</div>
 		</li>
@@ -350,14 +350,14 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Pagan_Saints_in_Middle-earth.jpg.md" title="Pagan Saints in Middle-earth"><img alt="Pagan Saints in Middle-earth" src="https://tolkiengateway.net/w/images/thumb/0/09/Pagan_Saints_in_Middle-earth.jpg/133px-Pagan_Saints_in_Middle-earth.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/09/Pagan_Saints_in_Middle-earth.jpg/200px-Pagan_Saints_in_Middle-earth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/09/Pagan_Saints_in_Middle-earth.jpg/266px-Pagan_Saints_in_Middle-earth.jpg 2x" data-file-width="560" data-file-height="840"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../P/Pagan_Saints_in_Middle-earth.md" title="Pagan Saints in Middle-earth">Pagan Saints in Middle-earth</a>
+<p><a href="../P/Pagan_Saints_in_Middle-earth.md" title="Pagan Saints in Middle-earth">Các vị thánh ngoại giáo ở Trung Địa</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Music_in_Tolkien&#39;s_Work_and_Beyond.jpg.md" title="Music in Tolkien&#39;s Work and Beyond"><img alt="Music in Tolkien&#39;s Work and Beyond" src="https://tolkiengateway.net/w/images/thumb/2/2d/Music_in_Tolkien%27s_Work_and_Beyond.jpg/133px-Music_in_Tolkien%27s_Work_and_Beyond.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2d/Music_in_Tolkien%27s_Work_and_Beyond.jpg/200px-Music_in_Tolkien%27s_Work_and_Beyond.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2d/Music_in_Tolkien%27s_Work_and_Beyond.jpg/266px-Music_in_Tolkien%27s_Work_and_Beyond.jpg 2x" data-file-width="560" data-file-height="840"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../M/Music_in_Tolkien&#39;s_Work_and_Beyond.md" title="Music in Tolkien&#39;s Work and Beyond">Music in Tolkien&#39;s Work and Beyond</a>
+<p><a href="../M/Music_in_Tolkien&#39;s_Work_and_Beyond.md" title="Music in Tolkien&#39;s Work and Beyond">Âm nhạc trong tác phẩm của Tolkien và hơn thế nữa</a>
 </p>
 			</div>
 		</li>
@@ -378,7 +378,7 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_and_the_Classics.jpg.md" title="Tolkien and the Classics"><img alt="Tolkien and the Classics" src="https://tolkiengateway.net/w/images/thumb/d/d5/Tolkien_and_the_Classics.jpg/133px-Tolkien_and_the_Classics.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/Tolkien_and_the_Classics.jpg/200px-Tolkien_and_the_Classics.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/Tolkien_and_the_Classics.jpg/267px-Tolkien_and_the_Classics.jpg 2x" data-file-width="907" data-file-height="1360"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/Tolkien_and_the_Classics.md" title="Tolkien and the Classics">Tolkien and the Classics</a>
+<p><a href="../T/Tolkien_and_the_Classics.md" title="Tolkien and the Classics">Tolkien và các tác phẩm kinh điển</a>
 </p>
 			</div>
 		</li>
@@ -392,14 +392,14 @@ images:
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth,_or_There_and_Back_Again.jpg.md" title="Middle-earth, or There and Back Again"><img alt="Middle-earth, or There and Back Again" src="https://tolkiengateway.net/w/images/thumb/c/cb/Middle-earth%2C_or_There_and_Back_Again.jpg/133px-Middle-earth%2C_or_There_and_Back_Again.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cb/Middle-earth%2C_or_There_and_Back_Again.jpg/200px-Middle-earth%2C_or_There_and_Back_Again.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cb/Middle-earth%2C_or_There_and_Back_Again.jpg/267px-Middle-earth%2C_or_There_and_Back_Again.jpg 2x" data-file-width="907" data-file-height="1360"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../M/Middle-earth,_or_There_and_Back_Again.md" title="Middle-earth, or There and Back Again">Middle-earth, or There and Back Again</a>
+<p><a href="../M/Middle-earth,_or_There_and_Back_Again.md" title="Middle-earth, or There and Back Again">Trung Địa, hay Chuyến đi đến đó rồi trở về</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 185px">
 			<div class="thumb" style="width: 180px; height: 230px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_and_the_Classical_World.jpg.md" title="Tolkien and the Classical World"><img alt="Tolkien and the Classical World" src="https://tolkiengateway.net/w/images/thumb/9/97/Tolkien_and_the_Classical_World.jpg/133px-Tolkien_and_the_Classical_World.jpg" decoding="async" loading="lazy" width="133" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/Tolkien_and_the_Classical_World.jpg/200px-Tolkien_and_the_Classical_World.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/Tolkien_and_the_Classical_World.jpg/267px-Tolkien_and_the_Classical_World.jpg 2x" data-file-width="907" data-file-height="1360"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../T/Tolkien_and_the_Classical_World.md" title="Tolkien and the Classical World">Tolkien and the Classical World</a>
+<p><a href="../T/Tolkien_and_the_Classical_World.md" title="Tolkien and the Classical World">Tolkien và thế giới cổ điển</a>
 </p>
 			</div>
 		</li>

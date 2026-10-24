@@ -20,7 +20,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
 Trong [1955](../_/1955.md), [Chương trình thứ ba của Đài BBC](../B/BBC.md) đã phát sóng phần xử lý *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* trong sáu tập. Một [năm sau](../_/1956.md), sáu tập trên *[The Two Towers](The_Two_Towers.md)* và *[The Return of the King](The_Return_of_the_King.md)* tiếp theo. Mặc dù chỉ có sáu tập sau được gọi như vậy nhưng toàn bộ loạt phim này đã được gọi là [loạt phim phát thanh](../../category/R/Radio_adaptations.md) năm 1955 của <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i>. Mỗi tập trong số mười hai tập này chỉ được lặp lại một lần, gần như ngay lập tức, từ hai đến năm ngày sau lần phát sóng đầu tiên. Đây là bản chuyển thể đầu tiên của *The Lord of the Rings* và bản chuyển thể [Trung Địa](../M/Middle-earth.md) đầu tiên được biết đến dưới mọi hình thức. Không có bản ghi âm nào của loạt phim này được biết là còn tồn tại. Tuy nhiên, các kịch bản<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và một số thư từ<sup id="cite_ref-L175_2-0" class="reference"><a href="#cite_note-L175-2">[2]</a></sup><sup id="cite_ref-L176_3-0" class="reference"><a href="#cite_note-L176-3">[3]</a></sup> vẫn tồn tại, cũng như một số phần của bản nhạc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -48,8 +48,8 @@ Trong [1955](../_/1955.md), [Chương trình thứ ba của Đài BBC](../B/BBC.
 
 <table class="wikitable mw-collapsible">
 <tbody><tr>
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td>John Baker</td>
@@ -57,7 +57,7 @@ Trong [1955](../_/1955.md), [Chương trình thứ ba của Đài BBC](../B/BBC.
 </td></tr>
 <tr>
 <td>Nicolette Bernard</td>
-<td>Unspecified (presumably <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a>),<sup id="cite_ref-RT1672_8-1" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup> <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a><sup id="cite_ref-RT1675_11-1" class="reference"><a href="#cite_note-RT1675-11">[11]</a></sup>
+<td>Không xác định (có lẽ là <a href="../G/Goldberry.md" title="Goldberry">Goldberry</a>),<sup id="cite_ref-RT1672_8-1" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup> <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a><sup id="cite_ref-RT1675_11-1" class="reference"><a href="#cite_note-RT1675-11">[11]</a></sup>
 </td></tr>
 <tr>
 <td>Oliver Burt</td>
@@ -69,7 +69,7 @@ Trong [1955](../_/1955.md), [Chương trình thứ ba của Đài BBC](../B/BBC.
 </td></tr>
 <tr>
 <td><a href="../F/Frank_Duncan.md" title="Frank Duncan">Frank Duncan</a></td>
-<td><a href="../L/Legolas.md" title="Legolas">Legolas</a>,<sup id="cite_ref-RT1674_10-1" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> <a href="../H/Halbarad.md" title="Halbarad">Halbarad</a>,<sup id="cite_ref-RT1726_15-1" class="reference"><a href="#cite_note-RT1726-15">[15]</a></sup> Additional voices<sup id="cite_ref-RT1672_8-4" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup><sup id="cite_ref-RT1673_9-1" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
+<td><a href="../L/Legolas.md" title="Legolas">Legolas</a>,<sup id="cite_ref-RT1674_10-1" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> <a href="../H/Halbarad.md" title="Halbarad">Halbarad</a>,<sup id="cite_ref-RT1726_15-1" class="reference"><a href="#cite_note-RT1726-15">[15]</a></sup> Giọng nói bổ sung<sup id="cite_ref-RT1672_8-4" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup><sup id="cite_ref-RT1673_9-1" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../V/Valentine_Dyall.md" title="Valentine Dyall">Valentine Dyall</a></td>
@@ -81,11 +81,11 @@ Trong [1955](../_/1955.md), [Chương trình thứ ba của Đài BBC](../B/BBC.
 </td></tr>
 <tr>
 <td><a href="../F/Felix_Felton.md" title="Felix Felton">Felix Felton</a></td>
-<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a>,<sup id="cite_ref-RT1674_10-2" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> Voice of <a href="../S/Sauron.md" title="Sauron">Sauron</a>,<sup id="cite_ref-RT1724_13-3" class="reference"><a href="#cite_note-RT1724-13">[13]</a></sup> <a href="../W/Witch-king.md" title="Witch-king">The Black Captain</a>,<sup id="cite_ref-RT1727_16-2" class="reference"><a href="#cite_note-RT1727-16">[16]</a></sup> Orcs,<sup id="cite_ref-RT1723_12-3" class="reference"><a href="#cite_note-RT1723-12">[12]</a></sup> Additional voices<sup id="cite_ref-RT1672_8-5" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup><sup id="cite_ref-RT1673_9-2" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
+<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a>,<sup id="cite_ref-RT1674_10-2" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> Giọng nói của <a href="../S/Sauron.md" title="Sauron">Sauron</a>,<sup id="cite_ref-RT1724_13-3" class="reference"><a href="#cite_note-RT1724-13">[13]</a></sup> <a href="../W/Witch-king.md" title="Witch-king">Thuyền trưởng áo đen</a>,<sup id="cite_ref-RT1727_16-2" class="reference"><a href="#cite_note-RT1727-16">[16]</a></sup> Orc,<sup id="cite_ref-RT1723_12-3" class="reference"><a href="#cite_note-RT1723-12">[12]</a></sup> Giọng nói bổ sung<sup id="cite_ref-RT1672_8-5" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup><sup id="cite_ref-RT1673_9-2" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../G/Garard_Green.md" title="Garard Green">Garard Green</a></td>
-<td><a href="../E/Elrond.md" title="Elrond">Elrond</a>,<sup id="cite_ref-RT1674_10-3" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a>,<sup id="cite_ref-RT1675_11-3" class="reference"><a href="#cite_note-RT1675-11">[11]</a></sup> Additional voices<sup id="cite_ref-RT1673_9-3" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
+<td><a href="../E/Elrond.md" title="Elrond">Elrond</a>,<sup id="cite_ref-RT1674_10-3" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a>,<sup id="cite_ref-RT1675_11-3" class="reference"><a href="#cite_note-RT1675-11">[11]</a></sup> Giọng nói bổ sung<sup id="cite_ref-RT1673_9-3" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td>Olive Gregg</td>
@@ -109,11 +109,11 @@ Trong [1955](../_/1955.md), [Chương trình thứ ba của Đài BBC](../B/BBC.
 </td></tr>
 <tr>
 <td><a href="../G/Godfrey_Kenton.md" title="Godfrey Kenton">Godfrey Kenton</a></td>
-<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>,<sup id="cite_ref-RT1672_8-8" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup> <a href="../M/Mablung_(ranger_of_Ithilien).md" title="Mablung (ranger of Ithilien)">Mablung</a>,<sup id="cite_ref-RT1675_11-4" class="reference"><a href="#cite_note-RT1675-11">[11]</a></sup> Additional voices<sup id="cite_ref-RT1673_9-4" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
+<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>,<sup id="cite_ref-RT1672_8-8" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup> <a href="../M/Mablung_(ranger_of_Ithilien).md" title="Mablung (ranger of Ithilien)">Mablung</a>,<sup id="cite_ref-RT1675_11-4" class="reference"><a href="#cite_note-RT1675-11">[11]</a></sup> Giọng nói bổ sung<sup id="cite_ref-RT1673_9-4" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../E/Eric_Lugg.md" title="Eric Lugg">Eric Lugg</a></td>
-<td><a href="../G/Gimli.md" title="Gimli">Gimli</a>,<sup id="cite_ref-RT1674_10-4" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> Additional voices<sup id="cite_ref-RT1673_9-5" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
+<td><a href="../G/Gimli.md" title="Gimli">Gimli</a>,<sup id="cite_ref-RT1674_10-4" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> Giọng nói bổ sung<sup id="cite_ref-RT1673_9-5" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../V/Victor_Platt.md" title="Victor Platt">Victor Platt</a></td>
@@ -121,7 +121,7 @@ Trong [1955](../_/1955.md), [Chương trình thứ ba của Đài BBC](../B/BBC.
 </td></tr>
 <tr>
 <td><a href="../D/Derek_Prentice.md" title="Derek Prentice">Derek Prentice</a></td>
-<td><a href="../B/Boromir.md" title="Boromir">Boromir</a>,<sup id="cite_ref-RT1674_10-5" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> <a href="../F/Faramir.md" title="Faramir">Faramir</a>,<sup id="cite_ref-RT1725_14-1" class="reference"><a href="#cite_note-RT1725-14">[14]</a></sup> <a href="../B/Beregond.md" title="Beregond">Beregond</a>,<sup id="cite_ref-RT1726_15-4" class="reference"><a href="#cite_note-RT1726-15">[15]</a></sup> Orcs,<sup id="cite_ref-RT1727_16-4" class="reference"><a href="#cite_note-RT1727-16">[16]</a></sup> Additional voices<sup id="cite_ref-RT1672_8-10" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup><sup id="cite_ref-RT1673_9-6" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
+<td><a href="../B/Boromir.md" title="Boromir">Boromir</a>,<sup id="cite_ref-RT1674_10-5" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> <a href="../F/Faramir.md" title="Faramir">Faramir</a>,<sup id="cite_ref-RT1725_14-1" class="reference"><a href="#cite_note-RT1725-14">[14]</a></sup> <a href="../B/Beregond.md" title="Beregond">Beregond</a>,<sup id="cite_ref-RT1726_15-4" class="reference"><a href="#cite_note-RT1726-15">[15]</a></sup> Orc,<sup id="cite_ref-RT1727_16-4" class="reference"><a href="#cite_note-RT1727-16">[16]</a></sup> Giọng nói bổ sung<sup id="cite_ref-RT1672_8-10" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup><sup id="cite_ref-RT1673_9-6" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td><a href="../B/Bernard_Rebel.md" title="Bernard Rebel">Bernard Rebel</a></td>
@@ -137,7 +137,7 @@ Trong [1955](../_/1955.md), [Chương trình thứ ba của Đài BBC](../B/BBC.
 </td></tr>
 <tr>
 <td><a href="../N/Norman_Shelley.md" title="Norman Shelley">Norman Shelley</a></td>
-<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>,<sup id="cite_ref-RT1674_10-6" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> <a href="Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>,<sup id="cite_ref-RT1672_8-11" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup><sup id="cite_ref-L175_2-1" class="reference"><a href="#cite_note-L175-2">[2]</a></sup> An Old Man,<sup id="cite_ref-RT1723_12-7" class="reference"><a href="#cite_note-RT1723-12">[12]</a></sup> Additional voices<sup id="cite_ref-RT1673_9-7" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>,<sup id="cite_ref-RT1674_10-6" class="reference"><a href="#cite_note-RT1674-10">[10]</a></sup> <a href="Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>,<sup id="cite_ref-RT1672_8-11" class="reference"><a href="#cite_note-RT1672-8">[8]</a></sup><sup id="cite_ref-L175_2-1" class="reference"><a href="#cite_note-L175-2">[2]</a></sup> Một ông già,<sup id="cite_ref-RT1723_12-7" class="reference"><a href="#cite_note-RT1723-12">[12]</a></sup> Giọng nói bổ sung<sup id="cite_ref-RT1673_9-7" class="reference"><a href="#cite_note-RT1673-9">[9]</a></sup>
 </td></tr>
 <tr>
 <td>Roger Snowdon</td>

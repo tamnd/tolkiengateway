@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Wise"
 content_sha256: c093094e493c52591ae8625612f936373f6f016c689326639479e78fa23e7cd3
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Title given to multiple characters"
+short_description: "Tiêu đề được đặt cho nhiều ký tự"
 categories:
   - "Epithets"
 hidden_categories:

@@ -16,7 +16,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 "**Người ta tìm thấy sắt hoặc chặt cây**" là dòng đầu tiên của một bài thơ ngắn được [Gandalf](../G/Gandalf.md) đọc cho [Vua Théoden](../T/Théoden.md), khi được hỏi về nguyên nhân gây ra việc triệu hồi [Huorn](../H/Huorns.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Phải chăng đó là một hành động "[phép thuật](../M/Magic.md)?", Théoden hỏi. Gandalf nói rằng đó là "một sức mạnh cổ xưa hơn rất nhiều" và tiếp tục ngâm thơ. Théoden xác định những dòng thơ của Gandalf là một [câu đố](../R/Riddle-game.md).<sup id="cite_ref-TTIII8_1-0" class="reference"><a href="#cite_note-TTIII8-1">[1]</a></sup>
@@ -38,7 +38,7 @@ Trong số [người hâm mộ](../T/Tolkien_fandom.md), bài thơ thường đ�
 Cần lưu ý rằng Tolkien đã sử dụng lại một cụm từ từ *[The Lay of Aotrou and Itroun](../T/The_Lay_of_Aotrou_and_Itroun.md)*:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>ere fire was found or iron hewn,<br/>when young was mountain under moon.
+<p>Trước khi tìm thấy lửa hoặc đẽo sắt,<br/>khi còn trẻ trên núi dưới ánh trăng.
 </p>
 <p class="tg-quote-footer"><cite>vv. 299-300<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></cite></p>
 </blockquote>

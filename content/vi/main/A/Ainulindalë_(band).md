@@ -47,7 +47,7 @@ infobox:
 <tr>
 <td><a href="../_/2021.md" title="2021">2021</a>
 </td>
-<td><i>Biên niên sử d'Arda</i>
+<td><i>Les chroniques d&#39;Arda</i>
 </td>
 <td>EP
 </td>

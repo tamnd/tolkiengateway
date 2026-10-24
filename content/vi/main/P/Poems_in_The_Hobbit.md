@@ -111,14 +111,14 @@ images:
 <tr>
 <td><a href="../T/The_dragon_is_withered.md" title="The dragon is withered">Con rồng đã khô héo</a>
 </td>
-<td>Elves of Rivendell
+<td>Tiên tộc ở Rivendell
 </td>
 <td>19: <a href="../T/The_Last_Stage.md" title="The Last Stage">The Last Stage</a>
 </td></tr>
 <tr>
 <td><a href="../S/Sing_all_ye_joyful!.md" title="Sing all ye joyful!">Hãy hát lên thật vui vẻ!</a>
 </td>
-<td>Elves of Rivendell
+<td>Tiên tộc ở Rivendell
 </td>
 <td>19: The Last Stage
 </td></tr>

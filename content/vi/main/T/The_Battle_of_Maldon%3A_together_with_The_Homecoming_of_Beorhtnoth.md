@@ -122,14 +122,14 @@ Nó bao gồm một trang bìa màu sao chép một trang từ bản thảo gố
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Battle_of_Maldon_deluxe_CD.png.md" title="2023 hardcover deluxe with CD"><img alt="2023 hardcover deluxe with CD" src="https://tolkiengateway.net/w/images/thumb/2/2d/The_Battle_of_Maldon_deluxe_CD.png/125px-The_Battle_of_Maldon_deluxe_CD.png" decoding="async" loading="lazy" width="125" height="107" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2d/The_Battle_of_Maldon_deluxe_CD.png/188px-The_Battle_of_Maldon_deluxe_CD.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/2d/The_Battle_of_Maldon_deluxe_CD.png/250px-The_Battle_of_Maldon_deluxe_CD.png 2x" data-file-width="769" data-file-height="660"/></a></span></div>
 			<div class="gallerytext">
-<p>2023 bìa cứng cao cấp kèm CD
+<p>2023 hardcover deluxe with CD
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Battle_of_Maldon_2026_pb.jpg.md" title="2026 paperback"><img alt="2026 paperback" src="https://tolkiengateway.net/w/images/thumb/f/fc/The_Battle_of_Maldon_2026_pb.jpg/81px-The_Battle_of_Maldon_2026_pb.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fc/The_Battle_of_Maldon_2026_pb.jpg/122px-The_Battle_of_Maldon_2026_pb.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fc/The_Battle_of_Maldon_2026_pb.jpg/162px-The_Battle_of_Maldon_2026_pb.jpg 2x" data-file-width="975" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>2026 bìa mềm
+<p>2026 paperback
 </p>
 			</div>
 		</li>

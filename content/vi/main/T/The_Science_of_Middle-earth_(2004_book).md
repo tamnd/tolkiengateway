@@ -38,16 +38,16 @@ infobox:
     value: "0-285-63723-1"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the 2004 book</b>. For the collection of essays from 2021, see <b><a href="The_Science_of_Middle-earth_(2021_book).md" title="The Science of Middle-earth (2021 book)">The Science of Middle-earth (2021 book)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>cuốn sách năm 2004</b>. Về tuyển tập các bài tiểu luận từ năm 2021, xem <b><a href="The_Science_of_Middle-earth_(2021_book).md" title="The Science of Middle-earth (2021 book)">Khoa học về Trung Địa (cuốn sách năm 2021)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Science_of_Middle-earth_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/c/cb/The_Science_of_Middle-earth_Cover.jpg" decoding="async" loading="lazy" width="304" height="472" class="mw-file-element" data-file-width="304" data-file-height="472"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Science of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../H/Henry_Gee.md" title="Henry Gee">Henry Gee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Cold Spring Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">256</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-285-63723-1" title="Special:BookSources/0-285-63723-1">0-285-63723-1</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Science_of_Middle-earth_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/c/cb/The_Science_of_Middle-earth_Cover.jpg" decoding="async" loading="lazy" width="304" height="472" class="mw-file-element" data-file-width="304" data-file-height="472"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Science of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../H/Henry_Gee.md" title="Henry Gee">Henry Gee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Cold Spring Press</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">256</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-285-63723-1" title="Special:BookSources/0-285-63723-1">0-285-63723-1</a></td></tr></tbody></table>
 
 <i><b>Khoa học về Trung Địa</b></i> (đôi khi được gọi là *The Science of Middle Earth*) là cuốn sách của nhà sinh vật học [Henry Gee](../H/Henry_Gee.md) nhằm mục đích sử dụng khoa học và logic để giúp giải thích các hiện tượng khác nhau trong [huyền thoại](../L/Legendarium.md) của [Tolkien](../J/J.R.R._Tolkien.md). Phiên bản sửa đổi đã được phát hành dưới dạng sách Kindle vào [13 tháng 12](../_/13_December.md) [2012](../_/2012.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>The author explores just how elves might be able to see much further than humans, why Frodo&#39;s sword turns blue at the sight of evil orcs, how the rings of power do their thing, and just about every other conundrum or piece of &#39;elvish magic&#39; that have puzzled and delighted Tolkien fans for years. Throughout, Gee makes the point that science, fantasy, and nature are really more similar than one might think. Gee writes in a popular tone and style, fully explaining all science concepts and convincingly demonstrating how Tolkien&#39;s world of fantasy makes sense in a very real - scientific - way.
+<p>Tác giả khám phá làm thế nào Tiên tộc có thể nhìn xa hơn con người, tại sao thanh kiếm của Frodo chuyển sang màu xanh khi nhìn thấy lũ Orc độc ác, cách những chiếc nhẫn quyền lực thực hiện nhiệm vụ của chúng và gần như mọi câu hỏi hóc búa hoặc một phần 'ma thuật yêu tinh' đã khiến người hâm mộ Tolkien bối rối và thích thú trong nhiều năm. Xuyên suốt, Gee nhấn mạnh rằng khoa học, giả tưởng và thiên nhiên thực sự giống nhau hơn người ta tưởng. Gee viết với giọng điệu và phong cách phổ biến, giải thích đầy đủ tất cả các khái niệm khoa học và chứng minh một cách thuyết phục thế giới tưởng tượng của Tolkien có ý nghĩa theo cách rất thực tế - khoa học.
 </p>
 </blockquote>
 
@@ -59,13 +59,13 @@ infobox:
 - Giới thiệu
 
 <dl><dd><dl><dd><ol><li>Space, Time and Tolkien</li>
-<li>Inside Language</li>
+<li>Ngôn ngữ nội tại</li>
 <li>Linguistic Convergence</li>
 <li>The Power of the Name</li>
 <li>Holes in the Ground</li>
 <li>Inventing the <a href="../O/Orcs.md" title="Orcs">Orcs</a></li>
 <li>Armies of Darkness</li>
-<li><a href="../E/Ents.md#The_March_of_the_Ents" title="Ents">The Last March of the Ents</a></li>
+<li><a href="../E/Ents.md#The_March_of_the_Ents" title="Ents">Cuộc hành quân cuối cùng của Ent</a></li>
 <li>O for the Wings of a Balrog</li>
 <li>Six Wheels On My <a href="../D/Dragons.md" title="Dragons">Dragon</a></li>
 <li>The Eyes of <a href="../L/Legolas.md" title="Legolas">Legolas Greenleaf</a></li>
@@ -76,7 +76,7 @@ infobox:
 <li>Giant <a href="../S/Spiders.md" title="Spiders">Spiders</a> and &#39;Mammoth&#39; <a href="../O/Oliphaunts.md" title="Oliphaunts">Oliphaunts</a></li>
 <li>Indistinguishable from <a href="../M/Magic.md" title="Magic">Magic</a></li>
 <li>In the Matter of Roots</li>
-<li><a href="The_One_Ring.md" title="The One Ring">The One Ring</a></li>
+<li><a href="The_One_Ring.md" title="The One Ring">Nhẫn Chúa</a></li>
 <li>Science and Fantasy</li></ol></dd></dl></dd></dl>
 
 - Ghi chú cuối

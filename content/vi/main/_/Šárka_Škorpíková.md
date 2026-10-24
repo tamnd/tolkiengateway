@@ -23,7 +23,7 @@ infobox:
     value: "Czech Republic"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Šárka Škorpíková</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Images</th><td class="tg-infobox-data"><a href="../../category/I/Images_by_Šárka_Škorpíková.md" title="Category:Images by Šárka Škorpíková">Gallery</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Czech Republic</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Šárka Škorpíková</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_by_Šárka_Škorpíková.md" title="Category:Images by Šárka Škorpíková">Bộ sưu tập hình ảnh</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Czech Republic</td></tr></tbody></table>
 
 **Šárka Škorpíková** là một nghệ sĩ người Séc. Cô đã xuất bản những bức ảnh của mình trên DeviantArt với tên người dùng SarkaSkorpikova.
 

@@ -53,7 +53,7 @@ Trên trang web trước đây đã liệt kê **tên, nhân vật, địa đi�
 <li>Denethor<br/></li>
 <li>Dernhelm<br/></li>
 <li>Dori<br/></li>
-<li>Dúnadan, làm ơn. Dúnedain<br/></li>
+<li>Dúnadan, pl. Dúnedain<br/></li>
 <li>Dunlendings<br/></li>
 <li>Dwalin<br/></li>
 <li>Elrond (cũng là Elrond Halfelven)<br/></li>
@@ -328,18 +328,18 @@ Trên trang web trước đây đã liệt kê **tên, nhân vật, địa đi�
 <li>athelas (cũng là lá vua)<br/></li>
 <li>Book of Mazarbul<br/></li>
 <li>Cirth (cũng là Chứng nhận)<br/></li>
-<li>nhồi nhét<br/></li>
+<li>cram<br/></li>
 <li>elanor<br/></li>
 <li>Entmoot<br/></li>
-<li>galen<br/></li>
+<li>galenas<br/></li>
 <li>Glamdring (cũng là búa kẻ thù)<br/></li>
 <li>Isildur’s Bane (The One Ring)<br/></li>
 <li>Ithil-stone<br/></li>
-<li>lá vua<br/></li>
+<li>kingsfoil<br/></li>
 <li>Khuzdul<br/></li>
 <li>lembas (cũng là bánh mì đường)<br/></li>
 <li>Elano, xin vui lòng. mellyrn<br/></li>
-<li>toán<br/></li>
+<li>mathom<br/></li>
 <li>miruvor<br/></li>
 <li>mithril<br/></li>
 <li>Narsil (cũng là Thanh kiếm của Elendil)<br/></li>

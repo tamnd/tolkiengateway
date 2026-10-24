@@ -96,7 +96,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Kenji Kamiyama
 </td>
-<td>Andy Serkis (xem 1b)
+<td>Andy Serkis (cf. 1b)
 </td>
 <td>
 </td></tr>
@@ -182,7 +182,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Grant Major
 </td>
-<td>Dan Hennah (xem 5b)
+<td>Dan Hennah (cf. 5b)
 </td>
 <td>Không áp dụng
 </td>
@@ -208,7 +208,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 <tr>
 <td>5c
 </td>
-<td>Đặt trang trí
+<td>Set decorator
 </td>
 <td>Dan Hennah
 </td>
@@ -253,7 +253,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 <tr>
 <td>7a
 </td>
-<td>đạo diễn casting
+<td>Casting directors
 </td>
 <td>Liz Mullane and John Hubbard
 </td>
@@ -289,7 +289,7 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 </td>
 <td>Ken Stott, Orlando Bloom, Serkis, Wood, Lee
 </td>
-<td>Lee (lưu trữ)
+<td>Lee (archival)
 </td>
 <td>Wood
 </td>
@@ -388,13 +388,13 @@ Một số dự án này đã cố gắng liên hệ bản thân với các bộ
 <tr>
 <td>13a
 </td>
-<td>Composer
+<td>Nhà soạn nhạc
 </td>
 <td>Howard Shore
 </td>
 <td>Howard Shore
 </td>
-<td>Stephen Gallager (xem 13b)
+<td>Stephen Gallager (cf. 13b)
 </td>
 <td>
 </td>

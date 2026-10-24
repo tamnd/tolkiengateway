@@ -31,13 +31,13 @@ Nír có ứng dụng rất rộng và có thể đề cập đến bất kỳ l
 </caption>
 <tbody><tr>
 <th>Word</th>
-<th>Meaning</th>
+<th>Ý nghĩa</th>
 <th>Affix
 </th></tr>
 <tr>
-<td><i>avani</i></td>
+<td><i>avanir</i></td>
 <td>“không muốn”;<sup id="cite_ref-osanwe_3-0" class="reference"><a href="#cite_note-osanwe-3">[3]</a></sup>với ý nghĩa chống lại lực</td>
-<td><i>ava-</i> ("phủ định")
+<td><i>ava-</i> (&#34;negation&#34;)
 </td></tr>
 <tr>
 <td><i>nira</i></td>
@@ -45,7 +45,7 @@ Nír có ứng dụng rất rộng và có thể đề cập đến bất kỳ l
 <td><i>-a</i> (hậu tố danh từ tính từ)
 </td></tr>
 <tr>
-<td><i>không có gì</i></td>
+<td><i>nírë</i></td>
 <td>"bắt buộc (nói chung)"<sup id="cite_ref-pe22_165_1-5" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
 <td><i>-rë</i> (danh từ trừu tượng chung)
 </td></tr>
@@ -55,7 +55,7 @@ Nír có ứng dụng rất rộng và có thể đề cập đến bất kỳ l
 <td><i>-n(yë)</i> (aorist ngôi thứ 1 số ít)
 </td></tr>
 <tr>
-<td><i>không có gì</i></td>
+<td><i>nírítë</i></td>
 <td>"mạnh mẽ, tạo lực đẩy hoặc áp lực lớn, lái xe"<sup id="cite_ref-pe22_165_1-6" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
 <td><i>-itë</i> (hậu tố bằng lời có nghĩa là "có khả năng làm, nói chung (và một cách tự nhiên) làm")
 </td></tr>
@@ -81,16 +81,16 @@ Trong [Sindarin](../S/Sindarin.md) NID chuyển về mặt âm vị thành **nî
 </caption>
 <tbody><tr>
 <th>Word</th>
-<th>Meaning</th>
+<th>Ý nghĩa</th>
 <th>Affix
 </th></tr>
 <tr>
-<td>nội tạng</td>
+<td>innas</td>
 <td>"sẽ"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
 <td><i>-as</i> (hậu tố trừu tượng/danh từ)
 </td></tr>
 <tr>
-<td>bạn</td>
+<td>níða</td>
 <td>"quyết tâm"; phát huy ý chí mạnh mẽ vào những mục đích lớn<sup id="cite_ref-pe22_165_1-10" class="reference"><a href="#cite_note-pe22_165-1">[1]</a></sup></td>
 <td><i>-a</i> (hậu tố sở hữu cách)
 </td></tr>

@@ -248,7 +248,7 @@ Sau đó, tám thành viên còn lại của Hiệp hội sẽ dành một chút
 <li><a href="../D/Durin_I.md" title="Durin I">Durin</a> (chỉ được đề cập)</li>
 <li><a href="../H/Hound_of_Sauron.md" title="Hound of Sauron">Hound of Sauron</a></li>
 <li><a href="../N/Narvi.md" title="Narvi">Narvi</a> (chỉ được đề cập)</li>
-<li><a href="../W/Watcher_in_the_Water.md" title="Watcher in the Water">Watcher in the Water</a></li>
+<li><a href="../W/Watcher_in_the_Water.md" title="Watcher in the Water">Kẻ Canh Giữ dưới Nước</a></li>
 <li><a href="../B/Balin.md" title="Balin">Balin</a> (mộ và chỉ đề cập)</li>
 <li><a href="../F/Fundin.md" title="Fundin">Fundin</a> (chỉ được đề cập)</li>
 <li><a href="Thráin.md" title="Thráin">Thráin</a> (chỉ được đề cập)</li>

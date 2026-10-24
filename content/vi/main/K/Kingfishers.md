@@ -15,7 +15,7 @@ images:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Talk less, Fisher Blue! Keep your kindly wishes<br/>Fly off and preen yourself with the bones of fishes!
+<p>Nói ít đi, Fisher Blue! Hãy giữ những lời chúc tốt đẹp của bạn<br/>Hãy bay đi và rỉa lông bằng xương cá!
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a><sup id="cite_ref-Boat_1-0" class="reference"><a href="#cite_note-Boat-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

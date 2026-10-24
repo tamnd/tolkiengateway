@@ -17,7 +17,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Piotr_Fox_Wysocki_-_Last_Elf.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9e/Piotr_Fox_Wysocki_-_Last_Elf.jpg/300px-Piotr_Fox_Wysocki_-_Last_Elf.jpg" decoding="async" loading="lazy" width="300" height="450" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9e/Piotr_Fox_Wysocki_-_Last_Elf.jpg/450px-Piotr_Fox_Wysocki_-_Last_Elf.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9e/Piotr_Fox_Wysocki_-_Last_Elf.jpg/600px-Piotr_Fox_Wysocki_-_Last_Elf.jpg 2x" data-file-width="680" data-file-height="1020"/></a><figcaption><i>Last Elf</i> by Piotr Wysocki</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The Elves have their own labours and their own sorrows, and they are little concerned with the ways of hobbits, or of any other creatures upon earth.
+<p>Những Tiên tộc có công việc và nỗi buồn riêng của họ, và họ ít quan tâm đến cách sống của người hobbit hoặc của bất kỳ sinh vật nào khác trên trái đất.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../G/Gildor_Inglorion.md" title="Gildor Inglorion">Gildor Inglorion</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

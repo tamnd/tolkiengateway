@@ -38,7 +38,7 @@ René van Rossenberg thỉnh thoảng được báo chí Hà Lan phỏng vấn v
 - <a class="external text" href="https://www.boekerij.nl/producten/de-aanhangsels-9789022551356" rel="noreferrer noopener" target="_blank">2016: De Aanhangsels</a>
 - <a class="external text" href="https://www.bol.com/nl/nl/p/in-de-ban-van-de-ring-de-aanhangsels/9300000145370121/?Referrer=ADVNLPPcef6180028b05e6e0065bba51d680003079&amp;utm_source=3079&amp;utm_medium=Affiliates&amp;utm_campaign=CPS&amp;utm_content=txl" rel="noreferrer noopener" target="_blank">2023: De Aanhangsels</a>
 
-<h3><span id="Tolkien.27s_1958_visit_to_Rotterdam"></span><span class="mw-headline" id="Tolkien&#39;s_1958_visit_to_Rotterdam">Tolkien&#39;s 1958 visit to Rotterdam</span></h3>
+<h3><span id="Tolkien.27s_1958_visit_to_Rotterdam"></span><span class="mw-headline" id="Tolkien&#39;s_1958_visit_to_Rotterdam">Chuyến thăm Rotterdam của Tolkien năm 1958</span></h3>
 
 Van Rossenberg cũng phát hiện ra đoạn ghi âm của ["Hobbit Bữa tối" ở Rotterdam](../_/%2522Hobbit_Dinner%2522_in_Rotterdam.md), Hà Lan nơi Tolkien tham gia. Ông đã xuất bản một bài báo về vấn đề này: “Chuyến thăm đặc biệt củaTolkien tới Hà Lan: Một cuộc tái thiết” trên tờ [Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md).
 

@@ -35,31 +35,31 @@ images:
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Timeline of Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Days before days</a>
+<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a class="mw-selflink selflink">Years of the Trees</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a class="mw-selflink selflink">Thời đại Cây Hai Ngọn</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -84,16 +84,16 @@ images:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Later Ages</a> <small>(up to present day)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Sau Kỷ nguyên</a> <small>(tính đến thời điểm hiện tại)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Truyền thuyết phiên bản Round World</a></b>
 </td></tr></tbody></table>
 
 **Những năm của cây**, còn được gọi là **Những ngày hạnh phúc (của Valinor)** là những năm dài trải dài từ ngày thành lập [Valinor](../V/Valinor.md) đến [Tối tăm](../D/Darkening_of_Valinor.md) của nó. Trong thời gian này, Valinor được thắp sáng bởi ánh sáng của [Hai Cây](../T/Two_Trees_of_Valinor.md), nhưng [Trung Địa](../M/Middle-earth.md) nằm trong [Great Bóng Tối](../G/Great_Darkness.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
@@ -108,7 +108,7 @@ Rất lâu trước khi [Tiên tộc](../E/Elves.md) thức tỉnh, [Yavanna](Ya
 
 Thế là bắt đầu một triều đại hòa bình ở Valinor, nhưng Trung Địa chỉ được thắp sáng bằng ánh sao, và [Melkor](../M/Morgoth.md) hoạt động ở sâu trong [Utumno](../U/Utumno.md) ở phía bắc Thế giới và quyền thống trị của nó mở rộng về phía nam, trong khi [Sauron](../S/Sauron.md) được bổ nhiệm làm trung úy ở [Angband](../A/Angband.md), dự đoán một cuộc tấn công từ Phương Tây.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Người ta không cho biết thời gian này kéo dài bao lâu, chỉ là 'thời đại đã kéo dài trên'; thời kỳ này sẽ kéo dài khoảng 10.500 năm. Chính trong khoảng thời gian này [Aulë](../A/Aulë.md) đã tạo ra [Người Lùn](../D/Dwarves.md) và theo chỉ đạo của [Eru](../I/Ilúvatar.md), đặt chúng vào trạng thái ngủ cho đến khi tạo ra [các ngôi sao](../S/Stars.md) và [Sự thức tỉnh của Tiên tộc](../A/Awakening_of_the_Elves.md). Sự kiện sau đánh dấu sự khởi đầu của Kỷ Đệ Nhất.<sup id="cite_ref-Annals_2-2" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:51</sup><sup id="cite_ref-Nature_3-1" class="reference"><a href="#cite_note-Nature-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:123</sup>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Oromë_espies_the_first_Elves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/300px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/450px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/600px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg 2x" data-file-width="850" data-file-height="475"/></a><figcaption><i>Oromë espies the first Elves</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Oromë_espies_the_first_Elves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/300px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/450px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7d/Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg/600px-Anke_Ei%C3%9Fmann_-_Orom%C3%AB_espies_the_first_Elves.jpg 2x" data-file-width="850" data-file-height="475"/></a><figcaption><i>Oromë espies the first Elves</i> của <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 Khi [Oromë](../O/Oromë.md) phát hiện ra rằng Tiên tộc đã thức dậy vào lúc [Cuiviénen](../C/Cuiviénen.md), những thay đổi lớn đã xảy ra. Valar đã bắt đầu cuộc [Trận chiến của các Quyền năng](../B/Battle_of_the_Powers.md) chống lại [Melkor](../M/Morgoth.md); Utumno đã bị phá hủy và Melkor mang theo dây xích đến Valinor. Valar cũng triệu tập Tiên tộc đến cư trú trên vùng đất của họ và nhiều người đã đáp lại lời triệu tập này.
 
@@ -124,14 +124,14 @@ Lịch trình của ngày Valian có thể tóm tắt như sau:<sup id="cite_ref
 
 <table class="wikitable">
 <tbody><tr>
-<th>Valian hour
+<th>giờ Valian
 </th>
-<th>Event
+<th>Sự kiện
 </th></tr>
 <tr>
 <td>Hour 1
 </td>
-<td>Day begins, Telperion&#39;s blooming is already on its second phase
+<td>Ngày bắt đầu, sự nở rộ của Telperion đã ở giai đoạn thứ hai
 </td></tr>
 <tr>
 <td>Hour 2
@@ -141,7 +141,7 @@ Lịch trình của ngày Valian có thể tóm tắt như sau:<sup id="cite_ref
 <tr>
 <td>Hour 3
 </td>
-<td>Telperion reaches his greatest bloom
+<td>Telperion đạt đến độ nở rộ nhất của mình
 </td></tr>
 <tr>
 <td>Hour 4
@@ -156,12 +156,12 @@ Lịch trình của ngày Valian có thể tóm tắt như sau:<sup id="cite_ref
 <tr>
 <td>Hour 6
 </td>
-<td>Laurelin begins to bloom and the lights of the two trees are mingled; at the end of the hour, Telperion ceases.
+<td>Laurelin bắt đầu nở hoa và ánh sáng của hai hàng cây hòa quyện vào nhau; vào cuối giờ, Telperion ngừng hoạt động.
 </td></tr>
 <tr>
 <td>Hour 7
 </td>
-<td>Laurelin continues to bloom while Telperion&#39;s light remains for some time
+<td>Laurelin tiếp tục nở hoa trong khi ánh sáng của Telperion vẫn tồn tại một thời gian
 </td></tr>
 <tr>
 <td>Hour 8
@@ -171,7 +171,7 @@ Lịch trình của ngày Valian có thể tóm tắt như sau:<sup id="cite_ref
 <tr>
 <td>Hour 9
 </td>
-<td>Laurelin reaches her greatest bloom
+<td>Laurelin đạt độ nở rộ nhất
 </td></tr>
 <tr>
 <td>Hour 10
@@ -186,46 +186,46 @@ Lịch trình của ngày Valian có thể tóm tắt như sau:<sup id="cite_ref
 <tr>
 <td>Hour 12
 </td>
-<td>Telperion begins to bloom and the lights of the two trees are mingled; at the end of the hour (and the day), Laurelin ceases.
+<td>Telperion bắt đầu nở hoa và ánh sáng của hai cây hòa quyện vào nhau; vào cuối giờ (và ngày), Laurelin chấm dứt.
 </td></tr></tbody></table>
 
 Các đơn vị thời gian của Cây có thể được tóm tắt là:<sup id="cite_ref-Annals_2-5" class="reference"><a href="#cite_note-Annals-2">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:59</sup>
 
 <table class="wikitable">
 <tbody><tr>
-<th>Valian time units
+<th>Đơn vị thời gian Valian
 </th>
-<th>Description
+<th>Mô tả
 </th>
-<th>Conversion to our time units
+<th>Chuyển đổi sang đơn vị thời gian của chúng tôi
 </th></tr>
 <tr>
-<td>1 Valian hour
+<td>1 giờ Valian
 </td>
-<td>A single segment of the full flowering of both Trees
+<td>Một đoạn hoa nở đầy đủ của cả hai Cây
 </td>
-<td>7 hours of our time
+<td>7 giờ thời gian của chúng ta
 </td></tr>
 <tr>
-<td>1 Valian day
+<td>1 ngày Valian
 </td>
-<td>12 Valian hours or the full flowering of both Trees
+<td>12 giờ Valian hoặc sự nở hoa hoàn toàn của cả hai Cây
 </td>
-<td>(7 x 12) 84 hours of our time or 3.5 of our days
+<td>(7 x 12) 84 giờ thời gian của chúng ta hoặc 3,5 ngày của chúng ta
 </td></tr>
 <tr>
-<td>1 Valian year
+<td>1 năm Valian
 </td>
-<td>1000 Valian days or 12,000 Valian hours
+<td>1000 ngày Valian hoặc 12.000 giờ Valian
 </td>
-<td>(7 x 12,000) 84,000 hours of our time or 3500 of our days, corresponding (84,000 / 8766) to 9 <a href="../C/Coranar.md" title="Coranar">years</a>, 212 days, 18 hours
+<td>(7 x 12.000) 84.000 giờ thời gian của chúng ta hoặc 3500 ngày thời gian của chúng ta, tương ứng (84.000 / 8766) đến 9 <a href="../C/Coranar.md" title="Coranar">năm</a>, 212 ngày, 18 giờ
 </td></tr>
 <tr>
-<td>1 age of the Valar
+<td>1 tuổi của Valar
 </td>
-<td>100 Valian years (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Randa&amp;action=edit&amp;redlink=1" title="Randa (page does not exist)">randa</a>)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+<td>100 năm Valian (<a class="new" href="https://tolkiengateway.net/w/index.php?title=Randa&amp;action=edit&amp;redlink=1" title="Randa (page does not exist)">randa</a>)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 </td>
-<td>958 years, 105 days
+<td>958 năm 105 ngày
 </td></tr></tbody></table>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}

@@ -17,59 +17,59 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>The southern end of the Misty Mountains <br/>
-Waters of Entwash and Limlight <br/>
-There it stands, the mighty wood of great age <br/>
-Hiding secrets from the early years <br/>
-Once so green and great that it reached <br/>
-All over the Eriador <br/>
-Huge tracts of lost lands <br/>
-Beleriand covered by this great vast forest <br/>
+<p>Đầu phía Nam của Dãy Núi Sương Mù <br/>
+Vùng nước Entwash và Limlight <br/>
+Nó đứng đó, khu rừng hùng vĩ có niên đại <br/>
+Che giấu bí mật từ những năm đầu <br/>
+Một thời xanh tươi và vĩ đại đến mức đạt tới <br/>
+Trên khắp Eriador <br/>
+Những vùng đất bị mất khổng lồ <br/>
+Beleriand được bao phủ bởi khu rừng rộng lớn này <br/>
 <br/>
-Creatures hiding in the deepest shadows <br/>
-Keeping the darkest ones away <br/>
-Great guardians, fathers of woods <br/>
-Defending their ancient pride <br/>
-Long ago they wandered the land <br/>
-Nowadays there&#39;s left only a few <br/>
-Others crushed by the armies of unlight <br/>
+Những sinh vật ẩn náu trong bóng tối sâu nhất <br/>
+Tránh xa những kẻ đen tối nhất <br/>
+Những người bảo vệ vĩ đại, cha của rừng <br/>
+Bảo vệ niềm tự hào xa xưa của họ <br/>
+Xưa họ lang thang khắp đất <br/>
+Ngày nay chỉ còn lại một ít <br/>
+Những người khác bị quân đội của sự tối tăm đè bẹp <br/>
 <br/>
-In Fangorn there lives the eldest one <br/>
-The eldest of the ents <br/>
-This forest named after him <br/>
+Ở Fangorn có con cả <br/> sống
+Con lớn nhất <br/>
+Khu rừng này mang tên ông <br/>
 Fangorn, Treebeard <br/>
 <br/>
-The guardian of his lands <br/>
-The oldest being in Arda <br/>
-So much evil he has seen <br/>
-So much shadows in his dreams <br/>
-With his heart full of grief <br/>
-He trusts and still believes <br/>
-To his kingdom so serene <br/>
-For his entlings and him <br/>
+Người bảo vệ vùng đất của mình <br/>
+Người lớn tuổi nhất ở Arda <br/>
+Ông đã thấy quá nhiều điều ác <br/>
+Bao nhiêu bóng tối trong giấc mơ <br/>
+Với trái tim đầy đau buồn <br/>
+Anh tin và vẫn tin <br/>
+Đến vương quốc của anh thật thanh bình <br/>
+Vì quyền lợi của ông và ông <br/>
 <br/>
-Hear me my fellow ents <br/>
-It&#39;s time to march into the battle <br/>
-The evil has raped our lands too much <br/>
-So many brothers gone by the darkness <br/>
+Hãy nghe tôi nói nhé các bạn <br/>
+Đã đến lúc hành quân vào trận chiến <br/>
+Tà ác đã cưỡng hiếp đất đai của chúng ta quá nhiều <br/>
+Biết bao anh em đã đi vào bóng tối <br/>
 <br/>
-Every orc under the banner of the hand <br/>
-Will be crushed by our hate and anger <br/>
-Every Uruk who stands against our power <br/>
-Will be teared apart form his life <br/>
-The white hand of Saruman <br/>
-All his glory soon beaten down <br/>
-All the walls and towers of Isengard <br/>
-Destroyed by the entish wrath <br/>
-Die, die uruk-hai! <br/>
+Mỗi con orc dưới lá cờ của bàn tay <br/>
+Sẽ bị nghiền nát bởi sự căm ghét và giận dữ của chúng ta <br/>
+Mọi Uruk chống lại sức mạnh của chúng ta <br/>
+Sẽ bị xé nát cuộc đời <br/>
+Bàn tay trắng của Saruman <br/>
+Tất cả vinh quang của anh sớm bị đánh bại <br/>
+Tất cả các bức tường và tháp của Isengard <br/>
+Bị tiêu diệt bởi cơn thịnh nộ của thực thể <br/>
+Chết đi, chết đi uruk-hai! <br/>
 <br/>
-The war is over and all is silent <br/>
-Ravens fly to Isengard <br/>
-Tall creatures with the shape of a tree <br/>
-Marching north with victory <br/>
-Their work is now finished <br/>
-Ents have crushed their enemy <br/>
-Dead uruk&#39;s every where <br/>
-Reign of Saruman gone for good<br/>
+Chiến tranh kết thúc và tất cả đều im lặng <br/>
+Quạ bay tới Isengard <br/>
+Những sinh vật cao lớn có hình dáng của một cái cây <br/>
+Tiến quân về phía bắc thắng lợi <br/>
+Công việc của họ hiện đã hoàn thành <br/>
+Ent đã đè bẹp kẻ thù của họ <br/>
+Uruk chết ở mọi nơi <br/>
+Triều đại của Saruman đã vĩnh viễn kết thúc<br/>
 </p>
 </div>

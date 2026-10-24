@@ -158,7 +158,7 @@ Trong quá trình xuất bản *[The Children of Húrin](../T/The_Children_of_H�
 <p>Nhân tiện, có vẻ như chắc chắn từ sự hiểu biết sâu sắc hơn về mối quan hệ của các bản thảo mà cha tôi đã từ chối cái tên <i>Saeros</i> và thay thế nó bằng <i>Orgol</i>, do 'sự ngẫu nhiên ngôn ngữ' trùng khớp với tiếng Anh cổ <i>orgol</i>, <i>orgel</i> 'niềm tự hào'. Nhưng đối với tôi bây giờ có vẻ đã quá muộn để xóa <i>Saeros</i>.
 </p>
 <p class="tg-quote-footer"><cite>
-<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, "Phụ lục 2: Cấu trúc của văn bản", tr. 287</cite></p>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i>, &#34;Appendix 2: The Composition of the Text&#34;, p. 287</cite></p>
 </blockquote>
 
 ## Liên kết ngoài {#External_links}

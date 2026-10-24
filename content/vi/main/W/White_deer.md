@@ -17,13 +17,13 @@ images:
   - "Pascal_Yung_-_Tales_of_the_Hunt.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pascal_Yung_-_Tales_of_the_Hunt.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0b/Pascal_Yung_-_Tales_of_the_Hunt.jpg/300px-Pascal_Yung_-_Tales_of_the_Hunt.jpg" decoding="async" loading="lazy" width="300" height="245" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0b/Pascal_Yung_-_Tales_of_the_Hunt.jpg/450px-Pascal_Yung_-_Tales_of_the_Hunt.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0b/Pascal_Yung_-_Tales_of_the_Hunt.jpg/600px-Pascal_Yung_-_Tales_of_the_Hunt.jpg 2x" data-file-width="1506" data-file-height="1229"/></a><figcaption><i>Tales of the Hunt</i> by Pascal Yung</figcaption></figure>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Suddenly on the path ahead appeared some white deer, a hind and fawns as snowy white as the hart had been dark.
+<p>Đột nhiên trên con đường phía trước xuất hiện một số con nai trắng, một con nai cái và những con nai con có màu trắng như tuyết như con hươu đực có màu đen.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, &#34;<a href="../F/Flies_and_Spiders.md" title="Flies and Spiders">Flies and Spiders</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -48,11 +48,11 @@ Những con vật huyền bí có màu trắng rất phổ biến trong [Celtic]
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>The White Hart is the largest breed of deer found in northwestern Middle-earth (rumoured to have <a href="../F/Fairies.md" title="Fairies">Faerie</a> blood). The suggested Sindarin name of this type of deer was <i>Nimfiara</i> in the early publications from MERP, later revised to <i>Nimmerais</i> (sing. <i>Nimmaras</i>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
+<dl><dd>Hươu đực trắng là giống hươu lớn nhất được tìm thấy ở vùng Tây Bắc Trung Địa (được đồn là có <a href="../F/Fairies.md" title="Fairies">Faerie</a> máu). Tên Sindarin được đề xuất của loại hươu này là <i>Nimfiara</i> trong các ấn phẩm đầu tiên của MERP, sau đó được sửa đổi thành <i>Nimmerais</i> (hát. <i>Nimmaras</i>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
 <b>2013: <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i>:</b>
 
-<dl><dd>The Extended Edition includes a scene in which a white deer appears as the dwarves try to cross the river in Mirkwood. <a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin</a> tries to shoot it down with an arrow but he misses. The deer later flees.</dd></dl>
+<dl><dd>Phiên bản mở rộng bao gồm cảnh một con nai trắng xuất hiện khi những người lùn cố gắng băng qua sông trong Mirkwood. <a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin</a> cố gắng bắn hạ nó bằng một mũi tên nhưng ông bắn trượt. Con nai sau đó bỏ trốn.</dd></dl>
 
 ## Xem thêm {#See_also_2}
 

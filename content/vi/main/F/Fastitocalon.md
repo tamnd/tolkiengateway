@@ -22,10 +22,10 @@ images:
   - "Pauline_Baynes_-_Fastitocalon_Chapterhead.jpeg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the <a href="../T/Turtle-fish.md" title="Turtle-fish">Turtle-fish</a></b>. For the <a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">poem</a>, see <b><a href="Fastitocalon_(poem).md" title="Fastitocalon (poem)">Fastitocalon (poem)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b> <a href="../T/Turtle-fish.md" title="Turtle-fish">Cá rùa</a></b>. Về <a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">bài thơ</a>, xem <b><a href="Fastitocalon_(poem).md" title="Fastitocalon (poem)">Fastitocalon (bài thơ)</a></b>.</div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>There are many monsters in the Sea,<br/>But none so perilous as HE,<br/>Old horny Fastitocalon,<br/> Whose mighty kindred all have gone,<br/>The last of the old <a href="../T/Turtle-fish.md" title="Turtle-fish">Turtle-fish</a>.
+<p>Có rất nhiều quái vật trong Biển,<br/>Nhưng không có con nào nguy hiểm bằng HE,<br/>Fastitocalon già nua sừng sững,<br/> Những đồng loại hùng mạnh của chúng đều đã ra đi,<br/>Con cuối cùng của <a href="../T/Turtle-fish.md" title="Turtle-fish">Cá Rùa</a> già.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>, &#34;<a href="Fastitocalon_(poem).md" title="Fastitocalon (poem)">Fastitocalon</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

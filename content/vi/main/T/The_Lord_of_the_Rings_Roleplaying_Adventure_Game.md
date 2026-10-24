@@ -24,7 +24,7 @@ infobox:
     value: "9781582369501"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg/320px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg/480px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg/640px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg 2x" data-file-width="1530" data-file-height="2040"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Roleplaying Adventure Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../D/Decipher.md" title="Decipher">Decipher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Box with several softcover booklets</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9781582369501" title="Special:BookSources/9781582369501">9781582369501</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg/320px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg/480px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9d/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg/640px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_box.jpg 2x" data-file-width="1530" data-file-height="2040"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Roleplaying Adventure Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../D/Decipher.md" title="Decipher">Giải mã</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Hộp đựng nhiều tập sách bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9781582369501" title="Special:BookSources/9781582369501">9781582369501</a></td></tr></tbody></table>
 
 **Trò chơi phiêu lưu nhập vai Chúa tể những chiếc nhẫn**, đôi khi được gọi là **The Fellowship of the Ring Trò chơi phiêu lưu**, là một trò chơi nhập vai đơn giản hóa được phát hành bởi [Decipher Inc.](../D/Decipher_Inc..md). Đó là phiên bản giới thiệu của *[The Lord of the Rings Roleplaying Game](The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 
@@ -44,21 +44,21 @@ Trò chơi bắt đầu tại cánh cửa phía tây dẫn vào Moria, đưa ng�
 		<li class="gallerybox" style="width: 234px">
 			<div class="thumb" style="width: 232px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_welcome.jpg.md" title="Welcome to Middle-earth booklet"><img alt="Welcome to Middle-earth booklet" src="https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_welcome.jpg/348px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_welcome.jpg" decoding="async" loading="lazy" width="232" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_welcome.jpg/522px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_welcome.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_welcome.jpg/696px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_welcome.jpg 2x" data-file-width="1415" data-file-height="1829"/></a></span></div>
 			<div class="gallerytext">
-<p><i>Welcome to Middle-earth</i> booklet
+<p>tập <i>Welcome to Middle-earth</i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 228px">
 			<div class="thumb" style="width: 226px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_Moria.jpg.md" title="Through the Mines of Moria booklet"><img alt="Through the Mines of Moria booklet" src="https://tolkiengateway.net/w/images/thumb/c/cf/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_Moria.jpg/339px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_Moria.jpg" decoding="async" loading="lazy" width="226" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cf/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_Moria.jpg/508px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_Moria.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cf/The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_Moria.jpg/678px-The_Lord_of_the_Rings_Roleplaying_Adventure_Game_-_Moria.jpg 2x" data-file-width="1442" data-file-height="1914"/></a></span></div>
 			<div class="gallerytext">
-<p><i>Through the Mines of Moria</i> booklet
+<p>tập <i>Through the Mines of Moria</i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 204.66666666667px">
 			<div class="thumb" style="width: 202.66666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/R/Roleplaying_Adventure_Game_magazine_advertisement.jpg.md" title="Magazine advertisement"><img alt="Magazine advertisement" src="https://tolkiengateway.net/w/images/thumb/6/63/Roleplaying_Adventure_Game_magazine_advertisement.jpg/304px-Roleplaying_Adventure_Game_magazine_advertisement.jpg" decoding="async" loading="lazy" width="203" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/63/Roleplaying_Adventure_Game_magazine_advertisement.jpg/456px-Roleplaying_Adventure_Game_magazine_advertisement.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/63/Roleplaying_Adventure_Game_magazine_advertisement.jpg/608px-Roleplaying_Adventure_Game_magazine_advertisement.jpg 2x" data-file-width="969" data-file-height="1434"/></a></span></div>
 			<div class="gallerytext">
-<p>Magazine advertisement
+<p>Quảng cáo trên tạp chí
 </p>
 			</div>
 		</li>
@@ -66,7 +66,7 @@ Trò chơi bắt đầu tại cánh cửa phía tây dẫn vào Moria, đưa ng�
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed <a class="extiw" href="http://en.wikipedia.org/wiki/Role-playing_game" title="wikipedia:Role-playing game">Pen-and-paper RPGs</a> set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a class="extiw" href="http://en.wikipedia.org/wiki/Role-playing_game" title="wikipedia:Role-playing game">Trò chơi nhập vai bằng bút và giấy</a> được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a>:

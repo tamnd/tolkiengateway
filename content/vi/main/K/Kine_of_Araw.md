@@ -17,7 +17,7 @@ images:
   - "Kine_of_Araw.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kine_of_Araw.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fa/Kine_of_Araw.png/300px-Kine_of_Araw.png" decoding="async" loading="lazy" width="300" height="387" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fa/Kine_of_Araw.png 1.5x" data-file-width="310" data-file-height="400"/></a><figcaption><i>Kine of Araw</i> as portrayed in <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kine_of_Araw.png.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fa/Kine_of_Araw.png/300px-Kine_of_Araw.png" decoding="async" loading="lazy" width="300" height="387" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fa/Kine_of_Araw.png 1.5x" data-file-width="310" data-file-height="400"/></a><figcaption><i>Kine of Araw</i> như được mô tả trong <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></figcaption></figure>
 
 **Kine of Araw** là một loài [bò](../C/Cows.md) sống ở các cánh đồng [Rhûn](../R/Rhûn.md) gần [Biển Rhûn](../S/Sea_of_Rhûn.md). Những con bò này khỏe mạnh và hoang dã hơn bất kỳ con bò nào khác trong [Trung Địa](../M/Middle-earth.md).
 

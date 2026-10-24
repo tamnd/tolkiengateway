@@ -111,7 +111,7 @@ Tên Baggins được dịch trong hầu hết các bản dịch *[The Hobbit](.
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Dự định thu hồi túi - cf. Cuộc trò chuyện của Bilbo với Smaug trong The H. [Chương 12] — và có nghĩa là được liên kết (bởi hobbit) với Bag End...
 </p>
-<p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings"><i>Nomenclature</i></a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings"><i>Danh mục thuật ngữ</i></a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <span></span>

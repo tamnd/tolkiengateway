@@ -53,7 +53,7 @@ infobox:
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Tôi chưa bao giờ thảo luận sâu sắc với Peter về tâm lý của Eomer, hoặc cái chết của cha mẹ ông có thể ảnh hưởng đến ông như thế nào khi còn trẻ. Ngoài ra, bất kỳ câu hỏi nào bạn cần hỏi đều được trả lời trong cuốn sách, nơi bạn có thể thấy mảnh ghép của mình phù hợp như thế nào với bức tranh lớn hơn. Đó không phải là điều xa xỉ mà bạn có trong các dự án khác.
 </p>
-<p class="tg-quote-footer"><cite>Karl đô thị, Lordoftherings.net.</cite></p>
+<p class="tg-quote-footer"><cite>Karl Urban, lordoftherings.net.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Giải thưởng {#Awards}

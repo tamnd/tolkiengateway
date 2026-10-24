@@ -80,7 +80,7 @@ Trong Trận chiến của năm đội quân, quân tiếp viện của người
 <td>Peter Debnár <br/> Vlado Černý <br/> Ivan Gogál
 </td></tr>
 <tr>
-<td><a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a></td>
+<td><a href="../G/Great_Goblin.md" title="Great Goblin">Đại yêu tinh</a></td>
 <td>diễn viên không được công nhận <br/> (có vẻ là Karol Čálik)
 </td></tr>
 <tr>

@@ -105,7 +105,7 @@ Các văn bản trước đây đã được xuất bản trong *[The Silmarilli
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Fall_of_Númenor.jpg.md" title="2022 hardcover"><img alt="2022 hardcover" src="https://tolkiengateway.net/w/images/thumb/2/27/The_Fall_of_N%C3%BAmenor.jpg/80px-The_Fall_of_N%C3%BAmenor.jpg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/The_Fall_of_N%C3%BAmenor.jpg/121px-The_Fall_of_N%C3%BAmenor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/The_Fall_of_N%C3%BAmenor.jpg/161px-The_Fall_of_N%C3%BAmenor.jpg 2x" data-file-width="1733" data-file-height="2694"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2022
+<p>2022 hardcover
 </p>
 			</div>
 		</li>

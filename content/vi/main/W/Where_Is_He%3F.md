@@ -37,16 +37,16 @@ infobox:
     value: "Doomed to Die"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
-<p>We have a long way to go, and there is time ahead for thought.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
+<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%253F_(Soundtrack).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5f/The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg 1.5x, https://tolkiengateway.net/w/images/5/5f/The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg 2x" data-file-width="600" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Episode</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Where Is He?</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sanaa_Hamri&amp;action=edit&amp;redlink=1" title="Sanaa Hamri (page does not exist)">Sanaa Hamri</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justin_Doble&amp;action=edit&amp;redlink=1" title="Justin Doble (page does not exist)">Justin Doble</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/19_September.md" title="19 September">19 September</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">65 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt27580495" rel="noreferrer noopener" target="_blank">Profile</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><i><a href="../H/Halls_of_Stone.md" title="Halls of Stone">Halls of Stone</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><i><a href="../D/Doomed_to_Die.md" title="Doomed to Die">Doomed to Die</a></i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%253F_(Soundtrack).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5f/The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg 1.5x, https://tolkiengateway.net/w/images/5/5f/The_Lord_of_the_Rings_The_Rings_of_Power_-_Where_Is_He%3F_%28Soundtrack%29.jpg 2x" data-file-width="600" data-file-height="600"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Tập phim</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Where Is He?</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sanaa_Hamri&amp;action=edit&amp;redlink=1" title="Sanaa Hamri (page does not exist)">Sanaa Hamri</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justin_Doble&amp;action=edit&amp;redlink=1" title="Justin Doble (page does not exist)">Justin Doble</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/19_September.md" title="19 September">19 September</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">65 phút</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt27580495" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i><a href="../H/Halls_of_Stone.md" title="Halls of Stone">Halls of Stone</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i><a href="../D/Doomed_to_Die.md" title="Doomed to Die">Doomed to Die</a></i></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> considers a proposition. <a href="../E/Elendil.md" title="Elendil">Elendil</a> faces <a class="new" href="https://tolkiengateway.net/w/index.php?title=Trial_by_Abyss&amp;action=edit&amp;redlink=1" title="Trial by Abyss (page does not exist)">judgment</a>. <a href="../T/The_Stranger.md" title="The Stranger">The Stranger</a> finds himself at a crossroads. <a href="../S/Sauron.md" title="Sauron">Sauron</a>&#39;s plans bear fruit.
+<p><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> xem xét một đề xuất. <a href="../E/Elendil.md" title="Elendil">Elendil</a> phải đối mặt với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Trial_by_Abyss&amp;action=edit&amp;redlink=1" title="Trial by Abyss (page does not exist)">sự phán xét</a>. <a href="../T/The_Stranger.md" title="The Stranger">Người lạ</a> thấy mình đang ở ngã ba đường. Kế hoạch của <a href="../S/Sauron.md" title="Sauron">Sauron</a> đã có kết quả.
 </p>
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -59,12 +59,12 @@ infobox:
 
 ### Đã ghi có {#Credited}
 
-<dl><dd><i>In order of appearance</i> (in episode credits)</dd></dl>
+<dl><dd><i>In order of appearance</i> (trong phần ghi công của tập)</dd></dl>
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../I/Ismael_Cruz_Córdova.md" title="Ismael Cruz Córdova">Ismael Cruz Córdova</a></td>
@@ -72,7 +72,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../C/Charles_Edwards.md" title="Charles Edwards">Charles Edwards</a></td>
-<td><a href="../C/Celebrimbor.md" title="Celebrimbor">Lord Celebrimbor</a>
+<td><a href="../C/Celebrimbor.md" title="Celebrimbor">Lãnh chúa Celebrimbor</a>
 </td></tr>
 <tr>
 <td><a href="../C/Charlie_Vickers.md" title="Charlie Vickers">Charlie Vickers</a></td>
@@ -100,27 +100,27 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../C/Ciarán_Hinds.md" title="Ciarán Hinds">Ciarán Hinds</a></td>
-<td><a href="../D/Dark_Wizard.md" title="Dark Wizard">Dark Wizard</a>
+<td><a href="../D/Dark_Wizard.md" title="Dark Wizard">Pháp sư Hắc ám</a>
 </td></tr>
 <tr>
 <td><a href="../D/Daniel_Weyman.md" title="Daniel Weyman">Daniel Weyman</a></td>
-<td><a href="../T/The_Stranger.md" title="The Stranger">The Stranger</a>
+<td><a href="../T/The_Stranger.md" title="The Stranger">Kẻ lạ mặt</a>
 </td></tr>
 <tr>
 <td><a href="../O/Owain_Arthur.md" title="Owain Arthur">Owain Arthur</a></td>
-<td><a href="../D/Durin_IV.md" title="Durin IV">Prince Durin IV</a>
+<td><a href="../D/Durin_IV.md" title="Durin IV">Thân vương Durin IV</a>
 </td></tr>
 <tr>
 <td><a href="../S/Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
-<td><a href="../D/Disa.md" title="Disa">Princess Disa</a>
+<td><a href="../D/Disa.md" title="Disa">Công chúa Disa</a>
 </td></tr>
 <tr>
 <td><a href="../C/Cynthia_Addai-Robinson.md" title="Cynthia Addai-Robinson">Cynthia Addai-Robinson</a></td>
-<td><a href="../M/Míriel.md" title="Míriel">Queen Regent Míriel</a>
+<td><a href="../M/Míriel.md" title="Míriel">Nhiếp chính vương hậu Míriel</a>
 </td></tr>
 <tr>
 <td><a href="../P/Peter_Mullan.md" title="Peter Mullan">Peter Mullan</a></td>
-<td><a href="../D/Durin_III.md" title="Durin III">King Durin III</a>
+<td><a href="../D/Durin_III.md" title="Durin III">Vua Durin III</a>
 </td></tr>
 <tr>
 <td><a class="mw-redirect" href="../S/Sam_Hazeldine.md" title="Sam Hazeldine">Sam Hazeldine</a></td>
@@ -192,7 +192,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Chubb&amp;action=edit&amp;redlink=1" title="William Chubb (page does not exist)">William Chubb</a></td>
-<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=High_Priest&amp;action=edit&amp;redlink=1" title="High Priest (page does not exist)">High Priest</a>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=High_Priest&amp;action=edit&amp;redlink=1" title="High Priest (page does not exist)">Tư tế tối cao</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Rupert_Shelbourne&amp;action=edit&amp;redlink=1" title="Rupert Shelbourne (page does not exist)">Rupert Shelbourne</a></td>
@@ -211,8 +211,8 @@ infobox:
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peachy&amp;action=edit&amp;redlink=1" title="Peachy (page does not exist)">Peachy</a></td>
@@ -239,20 +239,20 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> episodes
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> tập
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season One
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ nhất
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">1. A Shadow of the Past</a> <b>·</b> <a href="../A/Adrift.md" title="Adrift">2. Adrift</a> <b>·</b> <a href="../A/Adar_(episode).md" title="Adar (episode)">3. Adar</a> <b>·</b> <a href="../T/The_Great_Wave.md" title="The Great Wave">4. The Great Wave</a> <b>·</b> <a href="../P/Partings.md" title="Partings">5. Partings</a> <b>·</b> <a href="../U/Udûn_(episode).md" title="Udûn (episode)">6. Udûn</a> <b>·</b> <a href="../T/The_Eye.md" title="The Eye">7. The Eye</a> <b>·</b> <a href="../A/Alloyed.md" title="Alloyed">8. Alloyed</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Two
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ hai
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Elven Kings Under the Sky</a> <b>·</b> <a href="Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Where the Stars are Strange</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. The Eagle and the Sceptre</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Eldest</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Halls of Stone</a> <b>·</b> <a class="mw-selflink selflink">14. Where Is He?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Doomed to Die</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Shadow and Flame</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Tiên Những vị vua dưới bầu trời</a> <b>·</b> <a href="Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Nơi những vì sao kỳ lạ</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. Đại bàng và vương trượng</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Anh cả</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Sảnh Đá</a> <b>·</b> <a class="mw-selflink selflink">14. Ông ở đâu?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Định mệnh phải chết</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Bóng Tối và Ngọn lửa</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Three
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ ba
 </th>
 <td style="font-size: 90%; padding-left: 4px;">TBD <b>·</b>
 </td></tr></tbody></table>

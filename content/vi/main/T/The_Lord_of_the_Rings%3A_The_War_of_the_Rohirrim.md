@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Lord_of_the_Rings:_The_War_of_t
 content_sha256: 82316673276f6bc2e2cc7b2bc4ef1982866b2bb5227144d91ea88801617d5368
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "2024 anime film"
+short_description: "phim hoạt hình 2024"
 categories:
   - "Articles to be rewritten"
   - "Films"
@@ -63,7 +63,7 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg/320px-The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg" decoding="async" loading="lazy" width="320" height="474" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg/480px-The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg/640px-The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg 2x" data-file-width="2764" data-file-height="4096"/></a><figcaption>Theatrical poster</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The War of the Rohirrim</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../K/Kenji_Kamiyama.md" title="Kenji Kamiyama">Kenji Kamiyama</a></td></tr><tr><th scope="row" class="tg-infobox-label">Screenplay</th><td class="tg-infobox-data">Phoebe Gittins<br/>Arty Papageorgiou<br/>(screenplay)<br/>Jeffrey Addiss<br/>Will Matthews<br/>(story)</td></tr><tr><th scope="row" class="tg-infobox-label">Based on</th><td class="tg-infobox-data"><i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Joseph Chou</td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../B/Brian_Cox.md" title="Brian Cox">Brian Cox</a><br/><a href="../G/Gaia_Wise.md" title="Gaia Wise">Gaia Wise</a><br/><a href="../L/Luke_Pasqualino.md" title="Luke Pasqualino">Luke Pasqualino</a><br/><a href="../M/Miranda_Otto.md" title="Miranda Otto">Miranda Otto</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laurence_Ubong_Williams&amp;action=edit&amp;redlink=1" title="Laurence Ubong Williams (page does not exist)">Laurence Ubong Williams</a></td></tr><tr><th scope="row" class="tg-infobox-label">Narrator</th><td class="tg-infobox-data"><a href="../M/Miranda_Otto.md" title="Miranda Otto">Miranda Otto</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../S/Stephen_Gallagher.md" title="Stephen Gallagher">Stephen Gallagher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/>Warner Bros. Animation<br/>Sola Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/13_December.md" title="13 December">13 December</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">130 minutes <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">United States<br/>Japan</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt14824600" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg/320px-The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg" decoding="async" loading="lazy" width="320" height="474" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg/480px-The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg/640px-The_Lord_of_the_Rings_The_War_of_the_Rohirrim_Theatrical_Poster.jpg 2x" data-file-width="2764" data-file-height="4096"/></a><figcaption>Áp phích sân khấu</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The War of the Rohirrim</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../K/Kenji_Kamiyama.md" title="Kenji Kamiyama">Kenji Kamiyama</a></td></tr><tr><th scope="row" class="tg-infobox-label">Screenplay</th><td class="tg-infobox-data">Phoebe Gittins<br/>Arty Papageorgiou<br/>(kịch bản)<br/>Jeffrey Addiss<br/>Will Matthews<br/>(câu chuyện)</td></tr><tr><th scope="row" class="tg-infobox-label">Dựa trên</th><td class="tg-infobox-data"><i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Joseph Chou</td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../B/Brian_Cox.md" title="Brian Cox">Brian Cox</a><br/><a href="../G/Gaia_Wise.md" title="Gaia Wise">Gaia Wise</a><br/><a href="../L/Luke_Pasqualino.md" title="Luke Pasqualino">Luke Pasqualino</a><br/><a href="../M/Miranda_Otto.md" title="Miranda Otto">Miranda Otto</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laurence_Ubong_Williams&amp;action=edit&amp;redlink=1" title="Laurence Ubong Williams (page does not exist)">Laurence Ubong Williams</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người dẫn chuyện</th><td class="tg-infobox-data"><a href="../M/Miranda_Otto.md" title="Miranda Otto">Miranda Otto</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../S/Stephen_Gallagher.md" title="Stephen Gallagher">Stephen Gallagher</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a><br/>Warner Bros. Animation<br/>Sola Entertainment</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/13_December.md" title="13 December">13 December</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">130 phút <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">United States<br/>Japan</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt14824600" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 <i><b>The Lord of the Rings: Cuộc chiến của Rohirrim</b></i> là một bộ phim anime giả tưởng dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)* sách của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Bộ phim lấy bối cảnh 250 năm trước các sự kiện của *The Lord of the Rings*, chủ yếu dựa trên [Các Phụ lục](The_Lord_of_the_Rings_Appendices.md) và kể về câu chuyện của [Helm Hammerhand](../H/Helm.md) cũng như lịch sử đằng sau sự thành lập của [Helm's Deep](../H/Hornburg.md).
 
@@ -75,10 +75,10 @@ Theo Deadline: "*Cuộc chiến của Rohirrim tập trung vào một nhân vậ
 
 ## Lô đồ {#Plot}
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
-<p>The wise will stay here and hope to rebuild our town...
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được viết lại để tuân thủ <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn</a>...<blockquote class="tg-quote noexcerpt">
+<p>Những người khôn ngoan sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></cite></p>
 </blockquote></div></div>
 
 [Éowyn](../_/Éowyn.md) kể lại câu chuyện về [Héra](../H/Helm's_daughter.md), một khiên nữ của [Rohan](../R/Rohan.md), con gái của Vua [Helm Hammerhand](../H/Helm_Hammerhand.md), người đã sống gần hai thế kỷ trước khi [Bilbo Baggins](../B/Bilbo_Baggins.md) tình cờ gặp được [One Ring](../O/One_Ring.md).
@@ -102,7 +102,7 @@ Di sản của Helm được trường tồn trong việc đặt tên cho [Helm'
 <table class="wikitable">
 <tbody><tr>
 <th></th>
-<th>Actor</th>
+<th>Diễn viên</th>
 <th>Role(s)
 </th></tr>
 <tr>
@@ -121,7 +121,7 @@ Di sản của Helm được trường tồn trong việc đặt tên cho [Helm'
 <td>3
 </td>
 <td><a href="../M/Miranda_Otto.md" title="Miranda Otto">Miranda Otto</a></td>
-<td><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> (narrator)
+<td><a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> (người kể chuyện)
 </td></tr>
 <tr>
 <td>4
@@ -241,7 +241,7 @@ Di sản của Helm được trường tồn trong việc đặt tên cho [Helm'
 <td>23
 </td>
 <td>Shane Bartle, Zac Bell, David Cox, Adam Rhys Dee, Daniel Denova, Alison Dowling, Daniel Flynn, Stephen Gledhill, Peter Hambleton, Nick Haverson, Oliver Hembrough, Ronny Jhutti, James Ladanyi, Simon Lawson, Anthony Lewis, Jonathan Magnanti, Gary Martin, Neil McCaul, Naomi McDonald, Carmel McGlone, Joshua Miles, Louie Nixon, Hilary Norris, Fergus O&#39;Donnell, Nigel Pilkington, Lyndee-Jane Rutherford, Stephanie Thomas, Martin Tidy, Gemma Wardle, Rob Alderman, Jay Clare, Daniel Entwistle, Keith Robertson, Gavin Newton, Luke Blick, Lewis Collins, Callum Pearson, Adam Taylor, Dan Hyams, Kieran Milne, Matthew Kennedy</td>
-<td>Additional Voices
+<td>Các giọng lồng tiếng bổ sung
 </td></tr></tbody></table>
 
 ### Chưa được công nhận {#Uncredited}
@@ -249,7 +249,7 @@ Di sản của Helm được trường tồn trong việc đặt tên cho [Helm'
 <table class="wikitable">
 <tbody><tr>
 <th></th>
-<th>Actor</th>
+<th>Diễn viên</th>
 <th>Role(s)
 </th></tr>
 <tr>
@@ -266,9 +266,9 @@ Di sản của Helm được trường tồn trong việc đặt tên cho [Helm'
 Bộ phim được công bố vào [10 tháng 6](../_/10_June.md) [2021](../_/2021.md) nhân kỷ niệm 20 năm ngày ra rạp của bộ phim *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*. Bộ phim đã nhận được sự chúc phúc của Peter Jackson.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>All of us at New Line feel a deep affinity for the extraordinary world J.R.R. Tolkien created, so the opportunity to dive back into Middle-earth with the team at Warner Bros. Animation is a dream come true. Fans know Helm’s Deep as the stage for one of the greatest battles ever put to film and, with many of the same creative visionaries involved and the brilliant Kenji Kamiyama at the helm, we couldn’t be more excited to deliver a fresh vision of its history that will invite global audiences to experience the rich, complex saga of Middle-earth in a thrilling new way.
+<p>Tất cả chúng tôi tại New Line đều cảm thấy có mối quan hệ sâu sắc với thế giới phi thường mà J.R.R. Tolkien đã tạo ra, vì vậy cơ hội quay trở lại Trung Địa cùng nhóm tại Warner Bros. Animation là một giấc mơ trở thành hiện thực. Người hâm mộ biết đến Deep của Helm là sân khấu cho một trong những trận chiến vĩ đại nhất từng được đưa lên phim và với sự tham gia của nhiều người có tầm nhìn sáng tạo tương tự và Kenji Kamiyama xuất sắc ở vị trí chỉ đạo, chúng tôi không thể hào hứng hơn khi mang đến một tầm nhìn mới mẻ về lịch sử của nó để mời khán giả toàn cầu trải nghiệm câu chuyện phong phú, phức tạp của Trung Địa theo một cách ly kỳ mới.
 </p>
-<p class="tg-quote-footer"><cite>Carolyn Blackwood, Warner Bros. Pictures Group chief operating officer, and Richard Brener, New Line Cinema president and chief creative officer.<sup id="cite_ref-Variety_8-0" class="reference"><a href="#cite_note-Variety-8">[8]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>Carolyn Blackwood, giám đốc điều hành của Warner Bros. Pictures Group và Richard Brener, chủ tịch kiêm giám đốc sáng tạo của New Line Cinema.<sup id="cite_ref-Variety_8-0" class="reference"><a href="#cite_note-Variety-8">[8]</a></sup></cite></p>
 </blockquote>
 
 ### Phát triển {#Development}
@@ -351,32 +351,32 @@ Phim được phát hành rạp vào [13 tháng 12](../_/13_December.md) [2024](
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
 </th></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
+<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a class="mw-selflink selflink">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
+<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
 </td></tr></tbody></table>

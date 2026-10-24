@@ -164,7 +164,7 @@ Không có tác phẩm nào trong số này tạo thành một câu chuyện ho�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Children_of_Húrin_2007.png.md" title="2007 hardcover"><img alt="2007 hardcover" src="https://tolkiengateway.net/w/images/thumb/a/a1/Children_of_H%C3%BArin_2007.png/81px-Children_of_H%C3%BArin_2007.png" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/Children_of_H%C3%BArin_2007.png/122px-Children_of_H%C3%BArin_2007.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/Children_of_H%C3%BArin_2007.png/163px-Children_of_H%C3%BArin_2007.png 2x" data-file-width="1043" data-file-height="1600"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2007
+<p>2007 hardcover
 </p>
 			</div>
 		</li>
@@ -192,7 +192,7 @@ Không có tác phẩm nào trong số này tạo thành một câu chuyện ho�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Children_of_Húrin_2008.jpeg.md" title="2008 paperback"><img alt="2008 paperback" src="https://tolkiengateway.net/w/images/thumb/8/84/Children_of_H%C3%BArin_2008.jpeg/81px-Children_of_H%C3%BArin_2008.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/84/Children_of_H%C3%BArin_2008.jpeg/122px-Children_of_H%C3%BArin_2008.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/8/84/Children_of_H%C3%BArin_2008.jpeg/162px-Children_of_H%C3%BArin_2008.jpeg 2x" data-file-width="500" data-file-height="770"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm 2008
+<p>2008 paperback
 </p>
 			</div>
 		</li>

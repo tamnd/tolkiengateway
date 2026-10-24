@@ -55,7 +55,7 @@ infobox:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Chán những chiếc nhẫn</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Bored_of_the_Rings_(disambiguation).md" title="Bored of the Rings (disambiguation)">Chán những chiếc nhẫn (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/BoredOfTheRings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cd/BoredOfTheRings.jpg/320px-BoredOfTheRings.jpg" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cd/BoredOfTheRings.jpg 1.5x" data-file-width="342" data-file-height="473"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bored of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Henry N. Beard and Douglas C. Kenney</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Gollancz</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">2003</td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">228</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0575074957" title="Special:BookSources/0575074957">0575074957</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/BoredOfTheRings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cd/BoredOfTheRings.jpg/320px-BoredOfTheRings.jpg" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/c/cd/BoredOfTheRings.jpg 1.5x" data-file-width="342" data-file-height="473"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Chán ngấy những chiếc Nhẫn</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Henry N. Beard and Douglas C. Kenney</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Gollancz</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">2003</td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa mềm</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">228</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0575074957" title="Special:BookSources/0575074957">0575074957</a></td></tr></tbody></table>
 
 <i><b>Chán những chiếc nhẫn</b></i> là một tiểu thuyết ngắn của [Henry N. Beard](../H/Henry_N._Beard.md) và [Douglas C. Kenney](../D/Douglas_C._Kenney.md) nhại lại *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
@@ -82,7 +82,7 @@ Các nhân vật, chủng tộc và địa điểm trong tiểu thuyết đều 
 <tr>
 <td><i>Goodgulf Greyteeth</i>, <a href="../W/Wizards.md" title="Wizards">thầy phù thủy giỏi</a>
 </td>
-<td>"một Rosicrucian bị mất uy tín" và "một Mason cấp độ 32 và Shriner danh dự" (khẩu hiệu của Gulf Oil)
+<td>&#34;a discredited Rosicrucian&#34; and &#34;a 32nd Degree Mason and Honorary Shriner&#34; (Gulf Oil slogan)
 </td>
 <td><i><a href="../G/Gandalf.md" title="Gandalf">Gandalf Greyhame</a></i>
 </td></tr>
@@ -96,7 +96,7 @@ Các nhân vật, chủng tộc và địa điểm trong tiểu thuyết đều 
 <tr>
 <td><i>Dildo Bugger</i>
 </td>
-<td>Dương vật giả; kẻ khốn nạn</td>
+<td>Dildo; bugger</td>
 <td><i><a href="Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></i>
 </td></tr>
 <tr>
@@ -147,7 +147,7 @@ Các nhân vật, chủng tộc và địa điểm trong tiểu thuyết đều 
 <tr>
 <td><i>Gimlet</i>
 </td>
-<td>Cocktail Gimlet.
+<td>Gimlet cocktail.
 </td>
 <td><i><a href="../G/Gimli.md" title="Gimli">Gimli</a></i>
 </td></tr>
@@ -189,7 +189,7 @@ Các nhân vật, chủng tộc và địa điểm trong tiểu thuyết đều 
 <tr>
 <td><i>Goddam</i>
 </td>
-<td>"Mẹ kiếp"
+<td>&#34;God damn&#34;
 </td>
 <td><i><a href="../G/Gollum.md" title="Gollum">Gollum</a></i>
 </td></tr>

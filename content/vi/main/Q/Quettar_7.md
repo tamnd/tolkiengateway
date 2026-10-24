@@ -22,6 +22,6 @@ infobox:
     value: "March 1981"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span><i>Quettar</i>: Issue 7</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Pillinger</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Tolkien Society</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../M/March.md" title="March">March</a> <a href="../_/1981.md" title="1981">1981</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span><i>Quettar</i>: Issue 7</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data">Pillinger</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Hội Tolkien</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../M/March.md" title="March">March</a> <a href="../_/1981.md" title="1981">1981</a></td></tr></tbody></table>
 
 <b><i>Quettar</i>: Số 7</b> là ấn phẩm của *[Quettar](Quettar.md)*, bản tin của nhóm [ngôn ngữ Tolkien Xã hội](../T/The_Tolkien_Society.md) và Tengwar, do Pillinger biên tập và bao gồm cả Tengwar Số bổ sung 4, do Steve Pillinger biên tập.

@@ -23,7 +23,7 @@ infobox:
 
 <table class="tg-infobox floatright">
   <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
-  <tr><th colspan="2" class="tg-infobox-title"><span><i>Sự bảo vệ thống trị nos contra hos Motores bos!</i></span></th></tr>
+  <tr><th colspan="2" class="tg-infobox-title"><span><i>Domine defende nos contra hos Motores bos!</i></span></th></tr>
   <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
   <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Giữa<a href="../_/1957.md" title="1957">1957</a> và đầu <a href="../_/1960.md" title="1960">1960</a><sup id="cite_ref-guidereview_1-0" class="reference"><a href="#cite_note-guidereview-1">[1]</a></sup></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="../T/The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">Mảnh Bovadium: cùng với Nguồn gốc của Bovadium</a></i></td></tr>

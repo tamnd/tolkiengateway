@@ -45,7 +45,7 @@ infobox:
     value: "Official website"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Peril_to_the_Shire.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/The_Peril_to_the_Shire.jpg/320px-The_Peril_to_the_Shire.jpg" decoding="async" loading="lazy" width="320" height="233" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/The_Peril_to_the_Shire.jpg/480px-The_Peril_to_the_Shire.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/The_Peril_to_the_Shire.jpg/640px-The_Peril_to_the_Shire.jpg 2x" data-file-width="1500" data-file-height="1090"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Peril to the Shire</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data">Douglas Dunklin</td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><b>Screenplay:</b><br/>Douglas Dunklin<br/><b>Based on the Writings of:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/></td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Douglas Dunklin<br/><b>Assistant producers:</b><br/>Grace Dunklin and Aaron Brown</td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">Grace Dunklin<br/>Samuel Dunklin<br/>Lauren Leak<br/>Aaron Brown<br/>Ethan Milukas<br/>Evan Stroud<br/>Zach Yokum<br/>Nick Yokum</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Aaron Brown<br/>Zach Yokum</td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">Douglas Dunklin<br/>Grace Dunklin<br/>Aaron Brown<br/>Zach Yokum</td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a><br/><a href="../B/Brobdingnagian_Bards.md" title="Brobdingnagian Bards">Brobdingnagian Bards</a><br/>Lorenna Mckennit<br/>The Rogues<br/>Lauren Leak<br/>Mike and Leeaura Marcum<br/>J Michele Swartz<br/>Grace Dunklin</td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data">Pointy Stick Productions</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">None</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/12_June.md" title="12 June">June 12</a>, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">approx. 210 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">United States</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="https://pointystickproductions.com/peril-to-the-shire/" rel="noreferrer noopener" target="_blank">Official website</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Peril_to_the_Shire.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/The_Peril_to_the_Shire.jpg/320px-The_Peril_to_the_Shire.jpg" decoding="async" loading="lazy" width="320" height="233" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/The_Peril_to_the_Shire.jpg/480px-The_Peril_to_the_Shire.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/The_Peril_to_the_Shire.jpg/640px-The_Peril_to_the_Shire.jpg 2x" data-file-width="1500" data-file-height="1090"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Peril to the Shire</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data">Douglas Dunklin</td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><b>Screenplay:</b><br/>Douglas Dunklin<br/><b>Based on the Writings of:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Douglas Dunklin<br/><b>Trợ lý sản xuất:</b><br/>Grace Dunklin và Aaron Brown</td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data">Grace Dunklin<br/>Samuel Dunklin<br/>Lauren Leak<br/>Aaron Brown<br/>Ethan Milukas<br/>Evan Stroud<br/>Zach Yokum<br/>Nick Yokum</td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Aaron Brown<br/>Zach Yokum</td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data">Douglas Dunklin<br/>Grace Dunklin<br/>Aaron Brown<br/>Zach Yokum</td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a><br/><a href="../B/Brobdingnagian_Bards.md" title="Brobdingnagian Bards">Brobdingnagian Bards</a><br/>Lorenna Mckennit<br/>The Rogues<br/>Lauren Leak<br/>Mike and Leeaura Marcum<br/>J Michele Swartz<br/>Grace Dunklin</td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data">Pointy Stick Productions</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data">Không có</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/12_June.md" title="12 June">June 12</a>, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">khoảng 210 phút</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">Hoa Kỳ</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="https://pointystickproductions.com/peril-to-the-shire/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></td></tr></tbody></table>
 
 **The Peril to the Shire** là một [phim dành cho người hâm mộ](../../category/F/Fan_films.md) do Douglas Dunklin viết kịch bản và đạo diễn, Pointy Stick Productions sản xuất.
 
@@ -102,13 +102,13 @@ Rosie và anh họ của bà cùng với một số người bạn lên đườn
 ## Lễ tân {#Reception}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I had the real blessing of watching Peril to the Shire and I have to say I enjoyed it enormously! I can&#39;t believe the passion and devotion to Tolkien that was behind such a great undertaking.
+<p>Tôi thực sự rất may mắn khi được xem Peril to Shire và tôi phải nói rằng tôi vô cùng thích thú! Tôi không thể tin được niềm đam mê và sự tận tâm với Tolkien lại ẩn sau một công việc vĩ đại như vậy.
 </p>
 <p class="tg-quote-footer"><cite>&#34;Patty&#34; at <i>theonering.net</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>A well thought out storyline. I do like the what was the rest of the world was doing while the Fellowship was off gallivanting about tales. [...] The talents of your elvish singers and harpist also deserve recognition. Your credits [...] complete with popsicle wrangler [...] were a treat as well.
+<p>Một cốt truyện được suy nghĩ kỹ lưỡng. Tôi thực sự thích những gì phần còn lại của thế giới đang làm trong khi Hiệp hội hào hứng kể những câu chuyện. [...] Tài năng của các ca sĩ yêu tinh và người chơi đàn hạc của bạn cũng xứng đáng được công nhận. Phần ghi công của bạn […] hoàn chỉnh với món kem que […] cũng là một điều thú vị.
 </p>
 <p class="tg-quote-footer"><cite>&#34;Sevilodorf&#34; at <i>theonering.net</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -127,7 +127,7 @@ Rosie và anh họ của bà cùng với một số người bạn lên đườn
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>-related fan films</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b>phim của người hâm mộ liên quan đến <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2003</b>
@@ -142,7 +142,7 @@ Rosie và anh họ của bà cùng với một số người bạn lên đườn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2005</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Almost There And Back Again</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../A/Almost_There_And_Back_Again.md" title="Almost There And Back Again">Gần đến nơi rồi lại trở về</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2007</b>
@@ -157,7 +157,7 @@ Rosie và anh họ của bà cùng với một số người bạn lên đườn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2011</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Wings Over Arda: The First Age</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../W/Wings_Over_Arda%253A_The_First_Age.md" title="Wings Over Arda: The First Age">Đôi cánh trên Arda: Kỷ Đệ Nhất</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2013</b>
@@ -167,7 +167,7 @@ Rosie và anh họ của bà cùng với một số người bạn lên đườn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2014</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Tolkien&#39;s Road</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="Tolkien&#39;s_Road.md" title="Tolkien&#39;s Road">Con đường của Tolkien</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2015</b>
@@ -182,7 +182,7 @@ Rosie và anh họ của bà cùng với một số người bạn lên đườn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2017</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">The Siege of Angband</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Angbandin_Saarto&amp;action=edit&amp;redlink=1" title="Angbandin Saarto (page does not exist)">Cuộc vây hãm Angband</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2018</b>
@@ -197,12 +197,12 @@ Rosie và anh họ của bà cùng với một số người bạn lên đườn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2020</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Horn of Gondor</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="../H/Horn_of_Gondor_(fan_film).md" title="Horn of Gondor (fan film)">Tù và Gondor</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2022</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Battles of the Fords of Isen</a></i>
+<td style="font-size: 90%;" align="left"><i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Battles_of_the_Fords_of_Isen_(fan_film)&amp;action=edit&amp;redlink=1" title="Battles of the Fords of Isen (fan film) (page does not exist)">Các trận chiến tại khúc cạn Isen</a></i>
 </td></tr>
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2024</b>
@@ -212,10 +212,10 @@ Rosie và anh họ của bà cùng với một số người bạn lên đườn
 <tr>
 <td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>2025</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">The Beacons</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Beacons.md" title="The Beacons">Các đài hiệu</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Unknown</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3)" align="left"><b>Không rõ</b>
 </td>
-<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">The Legend of Gurthang</a></i>
+<td style="font-size: 90%;" align="left"><i><a href="The_Legend_of_Gurthang.md" title="The Legend of Gurthang">Truyền thuyết về Gurthang</a></i>
 </td></tr></tbody></table>

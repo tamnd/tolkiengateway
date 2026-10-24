@@ -124,28 +124,28 @@ Vì không có ấn bản nào của cuốn sách bao gồm thông tin về tài
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_us_1971.jpeg.md" title="1971 hardcover"><img alt="1971 hardcover" src="https://tolkiengateway.net/w/images/thumb/8/81/Complete_Guide_us_1971.jpeg/81px-Complete_Guide_us_1971.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/81/Complete_Guide_us_1971.jpeg/122px-Complete_Guide_us_1971.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/8/81/Complete_Guide_us_1971.jpeg/162px-Complete_Guide_us_1971.jpeg 2x" data-file-width="305" data-file-height="470"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1971
+<p>1971 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_us_1974.jpeg.md" title="1974 paperback"><img alt="1974 paperback" src="https://tolkiengateway.net/w/images/thumb/0/00/Complete_Guide_us_1974.jpeg/73px-Complete_Guide_us_1974.jpeg" decoding="async" loading="lazy" width="73" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Complete_Guide_us_1974.jpeg/110px-Complete_Guide_us_1974.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/Complete_Guide_us_1974.jpeg/146px-Complete_Guide_us_1974.jpeg 2x" data-file-width="747" data-file-height="1280"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa mềm năm 1974
+<p>1974 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_us_1978.png.md" title="1978 hardcover"><img alt="1978 hardcover" src="https://tolkiengateway.net/w/images/thumb/f/f4/Complete_Guide_us_1978.png/83px-Complete_Guide_us_1978.png" decoding="async" loading="lazy" width="83" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/Complete_Guide_us_1978.png/126px-Complete_Guide_us_1978.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/Complete_Guide_us_1978.png/167px-Complete_Guide_us_1978.png 2x" data-file-width="305" data-file-height="456"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1978
+<p>1978 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_us_1979.jpeg.md" title="1979 paperback"><img alt="1979 paperback" src="https://tolkiengateway.net/w/images/thumb/3/39/Complete_Guide_us_1979.jpeg/74px-Complete_Guide_us_1979.jpeg" decoding="async" loading="lazy" width="74" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/Complete_Guide_us_1979.jpeg/112px-Complete_Guide_us_1979.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/Complete_Guide_us_1979.jpeg/148px-Complete_Guide_us_1979.jpeg 2x" data-file-width="305" data-file-height="513"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa mềm năm 1979
+<p>1979 paperback
 </p>
 			</div>
 		</li>
@@ -159,14 +159,14 @@ Vì không có ấn bản nào của cuốn sách bao gồm thông tin về tài
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_us_2001.jpeg.md" title="2001 paperback"><img alt="2001 paperback" src="https://tolkiengateway.net/w/images/thumb/c/c8/Complete_Guide_us_2001.jpeg/83px-Complete_Guide_us_2001.jpeg" decoding="async" loading="lazy" width="83" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c8/Complete_Guide_us_2001.jpeg/125px-Complete_Guide_us_2001.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c8/Complete_Guide_us_2001.jpeg/167px-Complete_Guide_us_2001.jpeg 2x" data-file-width="305" data-file-height="457"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm năm 2001
+<p>2001 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_us_2003.jpg.md" title="2003 hardcover"><img alt="2003 hardcover" src="https://tolkiengateway.net/w/images/thumb/0/00/Complete_Guide_us_2003.jpg/84px-Complete_Guide_us_2003.jpg" decoding="async" loading="lazy" width="84" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/00/Complete_Guide_us_2003.jpg/127px-Complete_Guide_us_2003.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/00/Complete_Guide_us_2003.jpg/168px-Complete_Guide_us_2003.jpg 2x" data-file-width="472" data-file-height="700"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2003
+<p>2003 hardcover
 </p>
 			</div>
 		</li>
@@ -194,14 +194,14 @@ Vì không có ấn bản nào của cuốn sách bao gồm thông tin về tài
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_uk_1978_hc.jpeg.md" title="1978 hardcover"><img alt="1978 hardcover" src="https://tolkiengateway.net/w/images/thumb/e/e3/Complete_Guide_uk_1978_hc.jpeg/78px-Complete_Guide_uk_1978_hc.jpeg" decoding="async" loading="lazy" width="78" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e3/Complete_Guide_uk_1978_hc.jpeg/118px-Complete_Guide_uk_1978_hc.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e3/Complete_Guide_uk_1978_hc.jpeg/157px-Complete_Guide_uk_1978_hc.jpeg 2x" data-file-width="298" data-file-height="475"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1978
+<p>1978 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_uk_1978_pb.jpeg.md" title="1978 paperback"><img alt="1978 paperback" src="https://tolkiengateway.net/w/images/thumb/c/c5/Complete_Guide_uk_1978_pb.jpeg/84px-Complete_Guide_uk_1978_pb.jpeg" decoding="async" loading="lazy" width="84" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c5/Complete_Guide_uk_1978_pb.jpeg/126px-Complete_Guide_uk_1978_pb.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c5/Complete_Guide_uk_1978_pb.jpeg/168px-Complete_Guide_uk_1978_pb.jpeg 2x" data-file-width="336" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Sách bìa mềm năm 1978
+<p>1978 paperback
 </p>
 			</div>
 		</li>
@@ -222,14 +222,14 @@ Vì không có ấn bản nào của cuốn sách bao gồm thông tin về tài
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_uk_2003.jpeg.md" title="2003 hardcover"><img alt="2003 hardcover" src="https://tolkiengateway.net/w/images/thumb/1/1e/Complete_Guide_uk_2003.jpeg/100px-Complete_Guide_uk_2003.jpeg" decoding="async" loading="lazy" width="100" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1e/Complete_Guide_uk_2003.jpeg/150px-Complete_Guide_uk_2003.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1e/Complete_Guide_uk_2003.jpeg/200px-Complete_Guide_uk_2003.jpeg 2x" data-file-width="400" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2003
+<p>2003 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 155px">
 			<div class="thumb" style="width: 150px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/C/Complete_Guide_uk_2022_hc.jpeg.md" title="2022 hardcover"><img alt="2022 hardcover" src="https://tolkiengateway.net/w/images/thumb/6/69/Complete_Guide_uk_2022_hc.jpeg/80px-Complete_Guide_uk_2022_hc.jpeg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/Complete_Guide_uk_2022_hc.jpeg/121px-Complete_Guide_uk_2022_hc.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/Complete_Guide_uk_2022_hc.jpeg/160px-Complete_Guide_uk_2022_hc.jpeg 2x" data-file-width="1500" data-file-height="2334"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2022
+<p>2022 hardcover
 </p>
 			</div>
 		</li>

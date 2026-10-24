@@ -32,7 +32,7 @@ infobox:
 <table class="tg-infobox floatright">
   <tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Pauline_Baynes_-_Animals.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c1/Pauline_Baynes_-_Animals.jpg/312px-Pauline_Baynes_-_Animals.jpg" decoding="async" loading="lazy" width="312" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c1/Pauline_Baynes_-_Animals.jpg/468px-Pauline_Baynes_-_Animals.jpg 1.5x, https://tolkiengateway.net/w/images/c/c1/Pauline_Baynes_-_Animals.jpg 2x" data-file-width="600" data-file-height="922"/></a><figcaption>Animals - Illustration by <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a></figcaption></figure></td></tr>
   <tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
-  <tr><th colspan="2" class="tg-infobox-title"><span>Cat</span></th></tr>
+  <tr><th colspan="2" class="tg-infobox-title"><span>Mèo</span></th></tr>
   <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
   <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">có thể <a href="../_/1956.md" title="1956">1956</a></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Bản sửa đổi</th><td class="tg-infobox-data">trước <a href="../_/1962.md" title="1962">1962</a></td></tr>

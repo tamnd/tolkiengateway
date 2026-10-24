@@ -38,7 +38,7 @@ Diễn viên và đạo diễn người Úc **John Noble** (sinh năm 1948) đã
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Điều quan trọng nhất về Denethor là ông là một người cha, đó là điều mà tôi có thể liên tưởng rất sâu sắc. Cách tiếp cận mà tôi thực hiện là ông là một người cha quyền lực, một người đàn ông tốt, nhưng ông chắc chắn bị lôi kéo vào sự hủy diệt của chính mình vì nỗi đau buồn của mình.
 </p>
-<p class="tg-quote-footer"><cite>John Noble trên Denethor, Lordoftherings.net</cite></p>
+<p class="tg-quote-footer"><cite>John Noble on Denethor, lordoftherings.net</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Giải thưởng {#Awards}

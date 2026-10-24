@@ -21,28 +21,28 @@ images:
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin-left:15px; border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background-color:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px"><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> chapters
+<th style="background-color:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px"><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> chương
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="The_Childhood_of_Túrin.md" title="The Childhood of Túrin">The Childhood of Túrin</a></li>
-<li><a href="The_Battle_of_Unnumbered_Tears.md" title="The Battle of Unnumbered Tears">The Battle of Unnumbered Tears</a></li>
-<li><a href="The_Words_of_Húrin_and_Morgoth.md" title="The Words of Húrin and Morgoth">The Words of Húrin and Morgoth</a></li>
-<li><a href="The_Departure_of_Túrin.md" title="The Departure of Túrin">The Departure of Túrin</a></li>
+<ol><li><a href="The_Childhood_of_Túrin.md" title="The Childhood of Túrin">Tuổi thơ của Túrin</a></li>
+<li><a href="The_Battle_of_Unnumbered_Tears.md" title="The Battle of Unnumbered Tears">Trận chiến Nước mắt Vô vàn</a></li>
+<li><a href="The_Words_of_Húrin_and_Morgoth.md" title="The Words of Húrin and Morgoth">Lời của Húrin và Morgoth</a></li>
+<li><a href="The_Departure_of_Túrin.md" title="The Departure of Túrin">Sự ra đi của Túrin</a></li>
 <li><a href="Túrin_in_Doriath.md" title="Túrin in Doriath">Túrin in Doriath</a></li>
-<li><a href="Túrin_among_the_Outlaws.md" title="Túrin among the Outlaws">Túrin among the Outlaws</a></li>
-<li><a href="../O/Of_Mîm_the_Dwarf.md" title="Of Mîm the Dwarf">Of Mîm the Dwarf</a></li>
-<li><a href="The_Land_of_Bow_and_Helm.md" title="The Land of Bow and Helm">The Land of Bow and Helm</a></li>
-<li><a href="The_Death_of_Beleg.md" title="The Death of Beleg">The Death of Beleg</a></li>
+<li><a href="Túrin_among_the_Outlaws.md" title="Túrin among the Outlaws">Túrin giữa những kẻ ngoài vòng pháp luật</a></li>
+<li><a href="../O/Of_Mîm_the_Dwarf.md" title="Of Mîm the Dwarf">Về Mîm, Người Lùn</a></li>
+<li><a href="The_Land_of_Bow_and_Helm.md" title="The Land of Bow and Helm">Vùng đất của Bow và Helm</a></li>
+<li><a href="The_Death_of_Beleg.md" title="The Death of Beleg">Cái chết của Beleg</a></li>
 <li><a class="mw-selflink selflink">Túrin in Nargothrond</a></li>
-<li><a href="The_Fall_of_Nargothrond.md" title="The Fall of Nargothrond">The Fall of Nargothrond</a></li>
-<li><a href="The_Return_of_Túrin_to_Dor-lómin.md" title="The Return of Túrin to Dor-lómin">The Return of Túrin to Dor-lómin</a></li>
-<li><a href="The_Coming_of_Túrin_into_Brethil.md" title="The Coming of Túrin into Brethil">The Coming of Túrin into Brethil</a></li>
-<li><a href="The_Journey_of_Morwen_and_Niënor_to_Nargothrond.md" title="The Journey of Morwen and Niënor to Nargothrond">The Journey of Morwen and Niënor</a></li>
+<li><a href="The_Fall_of_Nargothrond.md" title="The Fall of Nargothrond">Sự sụp đổ của Nargothrond</a></li>
+<li><a href="The_Return_of_Túrin_to_Dor-lómin.md" title="The Return of Túrin to Dor-lómin">Túrin trở về Dor-lómin</a></li>
+<li><a href="The_Coming_of_Túrin_into_Brethil.md" title="The Coming of Túrin into Brethil">Túrin đến Brethil</a></li>
+<li><a href="The_Journey_of_Morwen_and_Niënor_to_Nargothrond.md" title="The Journey of Morwen and Niënor to Nargothrond">Hành trình của Morwen và Niënor</a></li>
 <li><a href="../N/Niënor_in_Brethil.md" title="Niënor in Brethil">Niënor in Brethil</a></li>
-<li><a href="The_Coming_of_Glaurung.md" title="The Coming of Glaurung">The Coming of Glaurung</a></li>
-<li><a href="The_Death_of_Glaurung.md" title="The Death of Glaurung">The Death of Glaurung</a></li>
-<li><a href="The_Death_of_Túrin.md" title="The Death of Túrin">The Death of Túrin</a></li></ol>
+<li><a href="The_Coming_of_Glaurung.md" title="The Coming of Glaurung">Sự xuất hiện của Glaurung</a></li>
+<li><a href="The_Death_of_Glaurung.md" title="The Death of Glaurung">Cái chết của Glaurung</a></li>
+<li><a href="The_Death_of_Túrin.md" title="The Death of Túrin">Cái chết của Túrin</a></li></ol>
 </td></tr></tbody></table>
 
 **Túrin trong Nargothrond** là chương thứ mười của *[The Children of Húrin](The_Children_of_Húrin.md)*.
@@ -51,7 +51,7 @@ images:
 
 [Túrin](Túrin.md) được nhận vào hội trường của [Nargothrond](../N/Nargothrond.md) vì ông ta đến cùng với [Gwindor](../G/Gwindor.md), người đã từng hứa hôn với [Finduilas](../F/Finduilas.md), con gái của [Orodreth](../O/Orodreth.md), Vua của Nargothrond. Nhưng không ai nhận ra Gwindor, sự đau khổ đã thay đổi ông ta rất nhiều, vì ông ta đã già đi và bị thương tật. Khi Túrin được hỏi tên, *[Agarwaen](../A/Agarwaen.md)*, con trai của *[Úmarth](../_/Úmarth.md)* (tức là "Vết máu", con trai của "Số phận đen đủi"), anh tự gọi mình, vì anh mong muốn bỏ lại bóng tối phía sau.
 
-<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Reforging_of_Anglachel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/Alan_Lee_-_The_Reforging_of_Anglachel.jpg/300px-Alan_Lee_-_The_Reforging_of_Anglachel.jpg" decoding="async" loading="lazy" width="300" height="468" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/Alan_Lee_-_The_Reforging_of_Anglachel.jpg/450px-Alan_Lee_-_The_Reforging_of_Anglachel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/Alan_Lee_-_The_Reforging_of_Anglachel.jpg/600px-Alan_Lee_-_The_Reforging_of_Anglachel.jpg 2x" data-file-width="994" data-file-height="1550"/></a><figcaption><i>The reforging of Anglachel</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Reforging_of_Anglachel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/Alan_Lee_-_The_Reforging_of_Anglachel.jpg/300px-Alan_Lee_-_The_Reforging_of_Anglachel.jpg" decoding="async" loading="lazy" width="300" height="468" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/Alan_Lee_-_The_Reforging_of_Anglachel.jpg/450px-Alan_Lee_-_The_Reforging_of_Anglachel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/Alan_Lee_-_The_Reforging_of_Anglachel.jpg/600px-Alan_Lee_-_The_Reforging_of_Anglachel.jpg 2x" data-file-width="994" data-file-height="1550"/></a><figcaption><i>The reforging of Anglachel</i> của <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
 Thanh kiếm [Anglachel](../A/Anglachel.md) được rèn mới để các cạnh đen của nó cháy lên ngọn lửa nhạt; và kỹ năng dùng kiếm của Túrin đã giúp anh được [Tiên tộc](../E/Elves.md) tôn trọng, và sau một thời gian, anh trở thành cố vấn của Orodreth; và lời khuyên của ông là hãy đấu tranh Morgoth một cách công khai. Gwindor này đã từng phản đối, đánh dấu rằng ông ta biết mảng [Morgoth](../M/Morgoth.md) - vì ông ta đã thấy rằng sức mạnh của [Angband](../A/Angband.md) lớn hơn tất cả các tập hợp của Tiên tộc và [Con Người](../M/Men.md). Bí mật và lén lút nên là phong cách của họ.
 

@@ -425,7 +425,7 @@ Bilbo gia nhập lại nhóm khi anh gặp họ sau khi nghe Thorin lên tiếng
 </td></tr>
 <tr>
 <td>Terry Notary</td>
-<td><a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a>
+<td><a href="../G/Great_Goblin.md" title="Great Goblin">Đại yêu tinh</a>
 </td></tr>
 <tr>
 <td>Terry Notary</td>

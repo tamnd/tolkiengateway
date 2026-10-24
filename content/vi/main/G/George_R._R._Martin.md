@@ -68,6 +68,6 @@ Bộ phim *Song* đã được chuyển thể thành phim truyền hình <i><a c
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">James Hibberd (12 July 2012)</span>. <span class="cite-web-article"><a class="external text" href="http://shelf-life.ew.com/2011/07/12/george-martin-talks-a-dance-with-dragons/" rel="noreferrer noopener" target="_blank">&#34;EW interview: George R.R. Martin talks &#39;A Dance With Dragons&#39;&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="http://www.ew.com/" rel="noreferrer noopener" target="_blank">Entertainment Weekly</a></span>. <span class="cite-web-accessed">Retrieved 20 June 2012</span></cite></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../A/Adam_Roberts.md" title="Adam Roberts">Adam Roberts</a> (<a href="../_/2014.md" title="2014">2014</a>), <i>Get Started in: Writing Science Fiction and Fantasy</i>, Hachette UK, p. 42</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../A/Adam_Roberts.md" title="Adam Roberts">Adam Roberts</a> (<a href="../_/2014.md" title="2014">2014</a>), <i>Get Started in: Writing Science Fiction and  Fantasy</i>, Hachette UK, p. 42</span>
 </li>
 </ol></div>

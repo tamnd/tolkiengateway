@@ -59,4 +59,4 @@ Bliss học theo Tolkien từ [1946](../_/1946.md) đến [1948](../_/1948.md). 
 
 <small></small>
 
-<ul><small></small><li><small><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> và <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (2006), <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Hướng dẫn cho người đọc</i>, trang 118–9</small></li></ul>
+<ul><small></small><li><small><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a> and <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a> (2006), <i><a href="../T/The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a>: Reader&#39;s Guide</i>, pp. 118–9</small></li></ul>

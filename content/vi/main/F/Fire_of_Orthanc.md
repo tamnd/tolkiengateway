@@ -29,8 +29,8 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jeremy_Paillotin_-_Fire_of_Orthanc.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/Jeremy_Paillotin_-_Fire_of_Orthanc.jpg/250px-Jeremy_Paillotin_-_Fire_of_Orthanc.jpg" decoding="async" loading="lazy" width="250" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Jeremy_Paillotin_-_Fire_of_Orthanc.jpg/375px-Jeremy_Paillotin_-_Fire_of_Orthanc.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/Jeremy_Paillotin_-_Fire_of_Orthanc.jpg/500px-Jeremy_Paillotin_-_Fire_of_Orthanc.jpg 2x" data-file-width="1920" data-file-height="1410"/></a><figcaption>&#34;Fire of Orthanc&#34; by <a href="../../category/I/Images_by_Jeremy_Paillotin.md" title="Category:Images by Jeremy Paillotin">Jeremy Paillotin</a></figcaption></figure>
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Fire_of_Orthanc&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...there is much else that may be told.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=Fire_of_Orthanc&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...còn nhiều điều khác có thể được kể.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -49,35 +49,35 @@ Có thể một chất tương tự đã được lực lượng của [Vua Phù
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Fire_of_Isengard_travelling_from_Orthanc.png.md" title="The Fire of Isengard travelling out of Orthanc - The Lord of the Rings (1978 film)"><img alt="The Fire of Isengard travelling out of Orthanc - The Lord of the Rings (1978 film)" src="https://tolkiengateway.net/w/images/thumb/c/c5/The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard_travelling_from_Orthanc.png/250px-The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard_travelling_from_Orthanc.png" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c5/The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard_travelling_from_Orthanc.png/375px-The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard_travelling_from_Orthanc.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/c5/The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard_travelling_from_Orthanc.png/500px-The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard_travelling_from_Orthanc.png 2x" data-file-width="852" data-file-height="480"/></a></span></div>
 			<div class="gallerytext">
-<p>The Fire of Isengard travelling out of <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> -  <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>
+<p>Ngọn lửa Isengard đi ra khỏi <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> - <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Fire_of_Isengard.png.md" title="The fire of Isengard hitting the wall - The Lord of the Rings (1978 film)"><img alt="The fire of Isengard hitting the wall - The Lord of the Rings (1978 film)" src="https://tolkiengateway.net/w/images/thumb/d/dc/The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard.png/250px-The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard.png" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dc/The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard.png/375px-The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/dc/The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard.png/500px-The_Lord_of_the_Rings_%281978_film%29_-_Fire_of_Isengard.png 2x" data-file-width="851" data-file-height="480"/></a></span></div>
 			<div class="gallerytext">
-<p>The fire of Isengard hitting the wall -  <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a>
+<p>Ngọn lửa Isengard đập vào tường - <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_Saruman_filling_the_fire_of_Orthanc.png.md" title="Saruman filling the fire - The Lord of the Rings: The Two Towers"><img alt="Saruman filling the fire - The Lord of the Rings: The Two Towers" src="https://tolkiengateway.net/w/images/thumb/3/34/The_Lord_of_the_Rings_-_The_Two_Towers_-_Saruman_filling_the_fire_of_Orthanc.png/250px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Saruman_filling_the_fire_of_Orthanc.png" decoding="async" loading="lazy" width="250" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/34/The_Lord_of_the_Rings_-_The_Two_Towers_-_Saruman_filling_the_fire_of_Orthanc.png/375px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Saruman_filling_the_fire_of_Orthanc.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/34/The_Lord_of_the_Rings_-_The_Two_Towers_-_Saruman_filling_the_fire_of_Orthanc.png/500px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Saruman_filling_the_fire_of_Orthanc.png 2x" data-file-width="3840" data-file-height="1598"/></a></span></div>
 			<div class="gallerytext">
-<p>Saruman filling the fire - <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
+<p>Saruman đổ lửa - <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_Placing_the_fire_of_Orthanc.png.md" title="Uruk-hai placing the ball - The Lord of the Rings: The Two Towers"><img alt="Uruk-hai placing the ball - The Lord of the Rings: The Two Towers" src="https://tolkiengateway.net/w/images/thumb/9/92/The_Lord_of_the_Rings_-_The_Two_Towers_-_Placing_the_fire_of_Orthanc.png/250px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Placing_the_fire_of_Orthanc.png" decoding="async" loading="lazy" width="250" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/92/The_Lord_of_the_Rings_-_The_Two_Towers_-_Placing_the_fire_of_Orthanc.png/375px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Placing_the_fire_of_Orthanc.png 1.5x, https://tolkiengateway.net/w/images/thumb/9/92/The_Lord_of_the_Rings_-_The_Two_Towers_-_Placing_the_fire_of_Orthanc.png/500px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Placing_the_fire_of_Orthanc.png 2x" data-file-width="3838" data-file-height="1598"/></a></span></div>
 			<div class="gallerytext">
-<p><a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> placing the ball - <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
+<p><a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> đặt bóng - <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_Fire_of_Orthanc.png.md" title="The Fire is triggered - The Lord of the Rings: The Two Towers"><img alt="The Fire is triggered - The Lord of the Rings: The Two Towers" src="https://tolkiengateway.net/w/images/thumb/c/c9/The_Lord_of_the_Rings_-_The_Two_Towers_-_Fire_of_Orthanc.png/250px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Fire_of_Orthanc.png" decoding="async" loading="lazy" width="250" height="104" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/The_Lord_of_the_Rings_-_The_Two_Towers_-_Fire_of_Orthanc.png/375px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Fire_of_Orthanc.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/c9/The_Lord_of_the_Rings_-_The_Two_Towers_-_Fire_of_Orthanc.png/500px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Fire_of_Orthanc.png 2x" data-file-width="3840" data-file-height="1598"/></a></span></div>
 			<div class="gallerytext">
-<p>The Fire is triggered - <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
+<p>Ngọn lửa được kích hoạt - <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>
 </p>
 			</div>
 		</li>
@@ -99,7 +99,7 @@ Có thể một chất tương tự đã được lực lượng của [Vua Phù
 
 <b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
-<dl><dd>During the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a>, magical projectiles travel out of <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> and fly over <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> cries out &#34;Fire of Isengard!&#34; and one of the projectiles strikes the outer wall of Helm&#39;s Deep, breaching it and allowing the <a href="../O/Orcs.md" title="Orcs">Orcs</a> to enter. The Eorlings retreat to the <a href="../G/Glittering_Caves.md" title="Glittering Caves">Glittering Caves</a>.</dd></dl>
+<dl><dd>Trong <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Trận Hornburg</a>, các viên đạn ma thuật di chuyển ra khỏi <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> và bay qua <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> kêu lên "Lửa của Isengard!" và một trong các viên đạn chạm vào bức tường bên ngoài của Helm&#39;s Deep, chọc thủng nó và cho phép <a href="../O/Orcs.md" title="Orcs">Orc</a> đi vào. Eorling rút lui về <a href="../G/Glittering_Caves.md" title="Glittering Caves">Hang động lấp lánh</a>.</dd></dl>
 
 <b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
@@ -107,13 +107,13 @@ Có thể một chất tương tự đã được lực lượng của [Vua Phù
 
 <b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
 
-<dl><dd>The fire is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Treason of Saruman</i> on the &#34;Devilry of Saruman&#34; card, illustrated by Álvaro Calvo Escudero. The card has the following effects:</dd></dl>
+<dl><dd>Ngọn lửa được mô tả trong bản mở rộng <a href="../_/2015.md" title="2015">2015</a> <i>The Treason of Saruman</i> trên lá bài "Devilry of Saruman", được minh họa bởi Álvaro Calvo Escudero. Thẻ có tác dụng sau:</dd></dl>
 
 > Khi được tiết lộ: Đặt 3 tiến trình vào nhiệm vụ chính (bỏ qua bất kỳ vị trí hoạt động nào). Cho đến cuối vòng, hãy coi hộp văn bản của mỗi nhân vật như thể nó trống (ngoại trừ Đặc điểm).<br>Bóng Tối: Kẻ địch tấn công được +2 Sức tấn công và nhận được Độ dẻo dai 2 cho đến cuối vòng.
 
 <b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Những câu chuyện về Trung Địa</a></i>:</b>
 
-<dl><dd>The fire is depicted on the &#34;Fire of Orthanc&#34; card, illustrated by Jeremy Paillotin. The card has the following effects:</dd></dl>
+<dl><dd>Ngọn lửa được mô tả trên lá bài "Ngọn lửa Orthanc", được minh họa bởi Jeremy Paillotin. Thẻ có tác dụng sau:</dd></dl>
 
 > Phá hủy hiện vật hoặc đất đai của mục tiêu. Sinh vật không bay không thể chặn lượt này.
 

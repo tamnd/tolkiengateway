@@ -15,8 +15,8 @@ images:
   - "Material_icon_-_Construction.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
-<p>We have a long way to go, and there is time ahead for thought.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
+<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
 </p>
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
@@ -34,17 +34,17 @@ Khu vực IV trên giấy gói chứa nội dung chi tiết đoạn hội thoạ
 </th></tr>
 <tr>
 <td>A Rían pent &gt;&gt; Arp &gt;&gt; Arphent Rían Tourna
-<p>man agrorech?
+<p>người đàn ông nông nghiệp?
 <br/>Sí {?a?l il cem &gt;&gt;} il chem
-<br/>{na &gt;&gt;} en i naugrim en ir Ellath
+<br/>{na &gt;&gt;} và naugrim với Ellath
 <br/>{natho &gt;&gt;} thor {a &gt;&gt;} den ammen
 </p>
 </td>
-<td>And said Rían to Tour
-<p>&#39;What have we done?&#39;
-<br/>&#39;Now all [?the earth/hands/hearts]&#39;
-<br/>&#39;of the dwarves [and] of the Elves&#39;
-<br/>&#39;will be [?opposed/?silent] to us&#39;
+<td>Và nói Rían với Tour
+<p>'Chúng ta đã làm gì vậy?'
+<br/>'Bây giờ tất cả [?trái đất/bàn tay/trái tim]'
+<br/>'của người lùn [và] của Tiên tộc'
+<br/>'sẽ [?phản đối/?im lặng] với chúng tôi'
 </p>
 </td></tr></tbody></table>
 

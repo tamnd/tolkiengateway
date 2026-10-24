@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright">
   <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
-  <tr><th colspan="2" class="tg-infobox-title"><span>"<i>Ir Ithil ammen Eruchín</i>"</span></th></tr>
+  <tr><th colspan="2" class="tg-infobox-title"><span>&#34;<i>Ir Ithil ammen Eruchín</i>&#34;</span></th></tr>
   <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
   <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Possibly the <a href="../_/1950.md" title="1950">1950s</a></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>,<br/><i><a href="../V/Vinyar_Tengwar_9.md" title="Vinyar Tengwar 9">Vinyar Tengwar 9</a></i>,<br/><i><a href="../A/A_Gateway_to_Sindarin.md" title="A Gateway to Sindarin">A Gateway to Sindarin</a></i></td></tr>
@@ -53,7 +53,7 @@ Mặc dù Tolkien chưa bao giờ đặt tên cho bài thơ, nhưng nó được
 <td><div class="poem">
 <p>Ir Ithil ammen Eruchín<br/>
       <a href="../M/Menel.md" title="Menel">menel</a>-vîr síla díriel<br/>
-tôi rất thích một buổi dạ tiệc cuối cùng!<br/>
+si loth a galadh lasto dîn!<br/>
       A Hîr Annûn gilthoniel,<br/>
 le linnon im Tinúviel!<sup id="cite_ref-song_1-1" class="reference"><a href="#cite_note-song-1">[1]</a></sup>
 </p>

@@ -23,7 +23,7 @@ images:
 Nguồn gốc của trò chơi này vẫn chưa được biết, ngoại trừ việc nó rất cổ xưa và các quy tắc của nó đã được [Chính quyền](../A/Authorities.md) đồng ý và được tôn trọng như thiêng liêng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Theo [Frodo](../F/Frodo.md), những câu đố dân gian tương tự đã được hỏi bởi những người khác ngoài người Hobbit, mặc dù Bilbo và Gollum đều biết những câu đố giống nhau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>What has roots as nobody sees,<br/>Is taller than trees,<br/>Up, up it goes,<br/>And yet never grows?<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 2]</a></sup>
+<p>Cái gì có rễ mà không ai thấy,<br/>Cao hơn cây,<br/>Lên, cao mãi,<br/>Nhưng chẳng bao giờ lớn lên?<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 2]</a></sup>
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gollum.md" title="Gollum">Gollum</a><sup id="cite_ref-HRiddles_4-0" class="reference"><a href="#cite_note-HRiddles-4">[2]</a></sup></cite></p>
 </blockquote>
@@ -48,21 +48,21 @@ Khi được hỏi về mối liên hệ của *[The Hobbit](../T/The_Hobbit.md)
 
 <b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim năm 1967)</a>:</b>
 
-<dl><dd>Bilbo and Gollum never interact, so there is no opportunity for a riddle-game.</dd></dl>
+<dl><dd>Bilbo và Gollum không bao giờ tương tác với nhau nên không có cơ hội cho trò chơi giải đố.</dd></dl>
 
 <b>1977: <i><a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">Xếp hạng/Bass' The Hobbit</a></i>:</b>
 
-<dl><dd>The encounter is very similar, although 2 exchanges are removed, The Dark Riddle is told via <a href="../G/Gollum&#39;s_Riddle.md" title="Gollum&#39;s Riddle">a song,</a> and Bilbo&#39;s riddle that responds to it is missing. Bilbo Actually does say &#34;Give me some time&#34; but Gollum appears shocked and asks him to repeat that. Bilbo says &#34;I said time! Time!&#34; and Gollum interprets this as his attempt to answer. Bilbo also deliberately asks Gollum what he has in his pocket, to which Gollum willingly surrenders.</dd></dl>
+<dl><dd>Cuộc gặp gỡ rất giống nhau, mặc dù 2 cuộc trao đổi bị loại bỏ, The Dark Riddle được kể qua <a href="../G/Gollum&#39;s_Riddle.md" title="Gollum&#39;s Riddle">một bài hát,</a> và câu đố của Bilbo đáp lại nó bị thiếu. Bilbo Thực ra có nói "Cho tôi chút thời gian" nhưng Gollum tỏ ra sốc và yêu cầu ông nhắc lại điều đó. Bilbo nói "Tôi đã nói thời gian! Thời gian!" và Gollum hiểu đây là nỗ lực trả lời của ông. Bilbo còn cố tình hỏi Gollum trong túi có gì, Gollum sẵn sàng đầu hàng.</dd></dl>
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>The Riddle-Game is skipped, as Bilbo doesn&#39;t even properly encounter Gollum until after the latter notices the absence of the ring.</dd></dl>
+<dl><dd>Trò chơi câu đố bị bỏ qua, vì Bilbo thậm chí không gặp phải Gollum đúng cách cho đến khi người sau nhận thấy sự vắng mặt của chiếc nhẫn.</dd></dl>
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>The exchange occurs simultaneously with the rest of the <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Company&#39;s</a> encounter with the <a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a>, as Bilbo and Gollum agree to play a game of riddles; if Bilbo won Gollum would show him the way out, if Gollum won he would eat Bilbo. Most of the riddles in <i>The Hobbit</i> are asked and answers in similar terms as the book, including Bilbo&#39;s questionable last &#34;riddle&#34;, &#39;what have I got in my pocket?&#39; Gollum fails to answer in three guesses but become enraged when Bilbo refused to tell him what he had in his pocket.</dd>
+<dl><dd>Cuộc trao đổi diễn ra đồng thời với phần còn lại của cuộc chạm trán giữa <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Công ty</a> với <a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a>, khi Bilbo và Gollum đồng ý chơi một trò chơi giải đố; nếu Bilbo thắng Gollum sẽ chỉ đường cho ông, nếu Gollum thắng ông sẽ ăn Bilbo. Hầu hết các câu đố trong <i>The Hobbit</i> đều được hỏi và trả lời theo cách tương tự như trong sách, bao gồm cả "câu đố" cuối cùng đáng nghi vấn của Bilbo, 'tôi có gì trong túi?' Gollum không trả lời được trong ba lần đoán nhưng trở nên tức giận khi Bilbo từ chối nói cho ông biết ông có gì trong túi.</dd>
 <dd><b>2014: <i><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit: The Video Game</a></i>:</b></dd>
-<dd>The scene plays out fairly similar to the film, with the only changes being the presence of the Confused Goblin to account for the multiplayer Lego format and the requirement to build the answer before you can say it in order to have the sequence be playable in the standard Lego form.</dd></dl>
+<dd>Cảnh này diễn ra khá giống với phim, với những thay đổi duy nhất là sự hiện diện của Yêu tinh bối rối để giải thích cho định dạng Lego nhiều người chơi và yêu cầu xây dựng câu trả lời trước khi bạn có thể nói để có thể chơi được trình tự đó ở dạng Lego tiêu chuẩn.</dd></dl>
 
 ## Xem thêm {#See_also}
 

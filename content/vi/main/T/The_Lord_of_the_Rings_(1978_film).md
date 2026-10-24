@@ -58,12 +58,12 @@ infobox:
     value: "Profile"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg/320px-The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg/480px-The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg/640px-The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg 2x" data-file-width="1908" data-file-height="2862"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../R/Ralph_Bakshi.md" title="Ralph Bakshi">Ralph Bakshi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (original novel)<br/><a href="../P/Peter_S._Beagle.md" title="Peter S. Beagle">Peter S. Beagle</a> (screenplay)<br/>Chris Conkling (screenplay)</td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data"><a href="../S/Saul_Zaentz.md" title="Saul Zaentz">Saul Zaentz</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Guard</a><br/><a href="../J/John_Hurt.md" title="John Hurt">John Hurt</a><br/><a href="../M/Michael_Scholes.md" title="Michael Scholes">Michael Scholes</a><br/><a href="../W/William_Squire.md" title="William Squire">William Squire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Timothy Galfas</td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data">Donald W. Ernst<br/>Peter Kirby</td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../L/Leonard_Rosenman.md" title="Leonard Rosenman">Leonard Rosenman</a><br/>Paul Kont</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../U/United_Artists.md" title="United Artists">United Artists</a> (theatrical release)<br/><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a> (home video)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/15_November.md" title="15 November">November 15</a>, <a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">132 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">USA</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Budget</th><td class="tg-infobox-data">$4 million</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="https://www.bakshistudio.com/lord-of-the-rings" rel="noreferrer noopener" target="_blank">Official website</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0077869" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg/320px-The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg/480px-The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg/640px-The_Lord_of_the_Rings_%281978_film%29_-_poster.jpg 2x" data-file-width="1908" data-file-height="2862"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../R/Ralph_Bakshi.md" title="Ralph Bakshi">Ralph Bakshi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (tiểu thuyết gốc)<br/><a href="../P/Peter_S._Beagle.md" title="Peter S. Beagle">Peter S. Beagle</a> (kịch bản)<br/>Chris Conkling (kịch bản)</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data"><a href="../S/Saul_Zaentz.md" title="Saul Zaentz">Saul Zaentz</a></td></tr><tr><th scope="row" class="tg-infobox-label">Starring</th><td class="tg-infobox-data"><a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Guard</a><br/><a href="../J/John_Hurt.md" title="John Hurt">John Hurt</a><br/><a href="../M/Michael_Scholes.md" title="Michael Scholes">Michael Scholes</a><br/><a href="../W/William_Squire.md" title="William Squire">William Squire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data">Timothy Galfas</td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data">Donald W. Ernst<br/>Peter Kirby</td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../L/Leonard_Rosenman.md" title="Leonard Rosenman">Leonard Rosenman</a><br/>Paul Kont</td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../U/United_Artists.md" title="United Artists">United Artists</a> (ra rạp)<br/><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a> (video gia đình)</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/15_November.md" title="15 November">November 15</a>, <a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">132 phút</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">USA</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Ngân sách</th><td class="tg-infobox-data">4 triệu USD</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="https://www.bakshistudio.com/lord-of-the-rings" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0077869" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>One man cast a lingering spell of awe and wonder, of magical innocence overcoming evil, of simple courage conquering fear — he gave us the legend that will live forever in our minds. <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> triumphed with the perception that a single dream is more powerful than a thousand realities. Come to <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, a world beyond the further reaches of your imagination.
+<p>Một người đàn ông đã tạo ra một câu thần chú kéo dài đầy kinh ngạc và ngạc nhiên, về sự ngây thơ kỳ diệu vượt qua cái ác, về lòng dũng cảm đơn giản để chinh phục nỗi sợ hãi - ông đã mang đến cho chúng ta huyền thoại sẽ sống mãi trong tâm trí chúng ta. <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> đã chiến thắng với nhận thức rằng một giấc mơ có sức mạnh hơn cả ngàn hiện thực. Hãy đến với <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>, một thế giới vượt xa sức tưởng tượng của bạn.
 </p>
 <p class="tg-quote-footer"><cite>Tagline</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -109,7 +109,7 @@ Tại Helm's Deep, lực lượng của Théoden chống lại sự tấn công 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
 <th>Voice Actor</th>
-<th>Role
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../C/Christopher_Guard.md" title="Christopher Guard">Christopher Guard</a></td>
@@ -186,216 +186,216 @@ Tại Helm's Deep, lực lượng của Théoden chống lại sự tấn công 
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Character Actor</th>
-<th>Role
+<th>Diễn viên thủ vai nhân vật</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../J/John_A._Neris.md" title="John A. Neris">John A. Neris</a></td>
-<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> (character actor)
+<td><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> (nhân vật diễn viên)
 </td></tr>
 <tr>
 <td><a href="../S/Sharon_Baird.md" title="Sharon Baird">Sharon Baird</a></td>
-<td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> (character actor)
+<td><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> (nhân vật diễn viên)
 </td></tr>
 <tr>
 <td>Michael Lee Gogin</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Paul Gale</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Patrick Sullivan Burke</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td><a href="../B/Billy_Barty.md" title="Billy Barty">Billy Barty</a></td>
-<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> (character actor)
+<td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> (nhân vật diễn viên)
 </td></tr>
 <tr>
 <td>Donn Whyte</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Trey_Wilson&amp;action=edit&amp;redlink=1" title="Trey Wilson (page does not exist)">Trey Wilson</a></td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Albert Ash (Albert Cirimele)</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Patty Maloney</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jere_Rae_Mansfield&amp;action=edit&amp;redlink=1" title="Jere Rae Mansfield (page does not exist)">Jere Rae Mansfield</a> (Jeri Lea Ray)</td>
-<td><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> (character actor)
+<td><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> (nhân vật diễn viên)
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Felix_Silla&amp;action=edit&amp;redlink=1" title="Felix Silla (page does not exist)">Felix Silla</a></td>
-<td><a href="../G/Gollum.md" title="Gollum">Gollum</a> (character actor)
+<td><a href="../G/Gollum.md" title="Gollum">Gollum</a> (nhân vật diễn viên)
 </td></tr>
 <tr>
 <td>Mike Clifford</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Larry Larsen</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Art Hern</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>David Dotson</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Tommy Madden</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Gary Jensen</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aesop_Aquarian&amp;action=edit&amp;redlink=1" title="Aesop Aquarian (page does not exist)">Aesop Aquarian</a></td>
-<td><a href="../G/Gimli.md" title="Gimli">Gimli</a> (character actor)
+<td><a href="../G/Gimli.md" title="Gimli">Gimli</a> (nhân vật diễn viên)
 </td></tr>
 <tr>
 <td>Santy Josol</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Stan Barrett</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>John L.</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Herbie Braha (Herb Braha)</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Sam Laws</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Hank Calia</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Terry Leonard</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Frank Delfino</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Peter Looney</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Russ Earnest</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Dennis Madalone</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Louis Elias</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Robert &#39;Big Buck&#39; Maffei (Buck Maffei)</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Edoardo Faieta (Eddy Fay)</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Jerry Maren</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Carmen Filpi</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Harry Monty</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Ruth Gay</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Frank Morson</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Leonard P. Geer (Lenny Gear)</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Walter_Robles&amp;action=edit&amp;redlink=1" title="Walter Robles (page does not exist)">Walter Robles</a> (Walt Robles)</td>
-<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> (character actor)
+<td><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> (nhân vật diễn viên)
 </td></tr>
 <tr>
 <td>Harriett Gibson</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Mic Rodgers</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Bob Haney</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Angelo Rossitto</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Chuck Hayward</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Peter Risch (Pete Risch)</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Eddie Hice (Eddy Hice)</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Jack Verbois</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Loren Janes</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Gregg Walker</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Lucille Bliss (uncredited)</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr>
 <tr>
 <td>Mel Smith (uncredited)</td>
-<td>Character Actor
+<td>Diễn viên thủ vai nhân vật
 </td></tr></tbody></table>
 
 ### Cảnh {#Scenes}
@@ -506,32 +506,32 @@ Do *The Lord of the Rings chiếu rạp, bản chuyển thể Phần Hai* bị l
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
 </th></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
+<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a class="mw-selflink selflink">The Lord of the Rings</a></i> (1978) · <i><a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Fellowship of the Ring</a></i> (2001) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
+<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
 </td></tr></tbody></table>

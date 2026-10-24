@@ -21,7 +21,7 @@ Mặc dù tuổi của Legolas không bao giờ được nêu trong các bài vi
 Con số tối thiểu 500 năm được rút ra từ kết quả sau — tại một thời điểm trong *The Two Towers*, ông nói rằng những chiếc lá đã rụng trong Mirkwood 500 lần kể từ khi [Meduseld](../M/Meduseld.md) được xây dựng và ông dường như đang mô tả điều đó như thể ông thực sự đã trải qua điều này:
 
 <blockquote class="tg-quote noexcerpt"><p>
-Seven mounds upon the left, and nine upon the right,&#34; said Aragorn. &#34;Many long lives of men it is since the <a href="../M/Meduseld.md" title="Meduseld">golden hall</a> was built.&#34;</p><p>&#34;Five hundred times have the red leaves fallen in Mirkwood in my home since then,&#34; said Legolas, &#34;and but a little while does that seem to us.&#34;</p><p>&#34;But to the Riders of the Mark it seems so long ago,&#34; said Aragorn, &#34;that the raising of this house is but a memory of song, and the years before are lost in the mist of time.
+Bảy gò đất bên trái, và chín gò đất bên phải," Aragorn nói. "Con người đã sống rất lâu kể từ khi <a href="../M/Meduseld.md" title="Meduseld">sảnh vàng</a> được xây dựng."</p><p>Legolas nói: “Đã năm trăm lần lá đỏ rơi xuống Mirkwood trong nhà tôi kể từ đó,” và chúng tôi thấy điều đó chỉ xảy ra một thời gian ngắn.”</p><p>"Nhưng đối với các Kỵ sĩ đất Mark thì có vẻ như đã lâu lắm rồi," Aragorn nói, "việc xây dựng ngôi nhà này chỉ là ký ức về một bài hát, và những năm tháng trước đã mất đi trong sương mù của thời gian.
 </p><p class="tg-quote-footer"><cite><i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_White_Rider.md" title="The White Rider">The White Rider</a>&#34;</cite></p>
 </blockquote>
 
@@ -32,7 +32,7 @@ Nếu Legolas thực sự được sinh ra trong [Kỷ Đệ Tam](../T/Third_Age
 Trong *Laws and Customs Among the Eldar*, Tolkien cũng nêu rõ sự phát triển trí tuệ của trẻ Tiên-nhanh hơn rất nhiều so với trẻ em Mannish. Đến năm đầu tiên, Tiên-trẻ đã có thể đi, nói và thậm chí nhảy múa.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The Eldar grew in bodily form slower than Men, but in mind more swiftly. They learned to speak before they were one year old; and in the same time they learned to walk and to dance, for their wills came soon to the mastery of their bodies. Nonetheless there was less difference between the two Kindreds, Elves and Men, in early youth; and a man who watched elf-children at play might well have believed that they were the children of Men, of some fair and happy people.
+<p>Eldar phát triển ở dạng cơ thể chậm hơn Con Người, nhưng trong tâm trí nhanh hơn. Họ học nói trước khi được một tuổi; và đồng thời họ học cách đi và nhảy, vì ý chí của họ đã sớm làm chủ được cơ thể. Tuy nhiên, có ít sự khác biệt hơn giữa hai Dòng họ, Tiên tộc và Con Người, ở giai đoạn đầu tuổi trẻ; và một người đàn ông theo dõi Tiên-trẻ em chơi đùa có thể đã tin rằng chúng là con của Con Người, của một số người công bằng và hạnh phúc.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;<a class="mw-redirect" href="Laws_and_Customs_Among_the_Eldar~68859.md" title="Laws and Customs Among the Eldar">Laws and Customs Among the Eldar</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -44,7 +44,7 @@ Tuy nhiên, ông có thể chỉ bình luận về những quan điểm trái ng
 Chắc chắn có thể ông già hơn nhiều người hâm mộ tưởng tượng (có thể do ảnh hưởng của Bloom và vai diễn của ông). Trong *The Two Towers*, ông ta gọi Aragorn (sinh [T.A.](../T/Third_Age.md) [2931](../T/Third_Age_2931.md), 87 tuổi ở [3018](../T/Third_Age_3018.md), 88 khi Chiến tranh kết thúc vài tháng sau) và Gimli (sinh [T.A.](../T/Third_Age.md) [2879](../T/Third_Age_2879.md), 139 tuổi ở [3018](../T/Third_Age_3018.md)) là "trẻ em" khi ở [Rừng Fangorn](../F/Fangorn_Forest.md) và nói rằng ông ta không *feel* còn trẻ:
 
 <blockquote class="tg-quote noexcerpt">
-<p>It [the forest] is old, very old,&#34; said the Elf. &#34;So old that almost I feel young <b>again</b>, as I have not felt since I journeyed with you children. It is old and full of memory. I could have been happy here, if I had come in days of peace.
+<p>Nó [khu rừng] già rồi, già lắm rồi,” Tiên nói. “Già đến mức tôi gần như cảm thấy <b>trẻ lại</b>, điều mà tôi chưa bao giờ cảm thấy kể từ khi đồng hành cùng các con. Nó đã cũ và đầy kỷ niệm. Tôi có thể đã hạnh phúc ở đây nếu tôi đến vào những ngày hòa bình.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_White_Rider.md" title="The White Rider">The White Rider</a>&#34;</cite></p>
 </blockquote>
@@ -52,7 +52,7 @@ Chắc chắn có thể ông già hơn nhiều người hâm mộ tưởng tư�
 Ngoài ra, ông ta còn nói về việc chứng kiến ​​những cây sồi phát triển từ quả sồi đến "tuổi tàn lụi", cho thấy rằng trên thực tế, ông ta đã già, mặc dù có thể còn trẻ Tiên tộc (một số loại sồi có thể sống rất lâu):
 
 <blockquote class="tg-quote noexcerpt">
-<p>These are the strangest trees that I ever saw,&#34; [Legolas] said; &#34;and I have seen many an oak grow from acorn to ruinous age. I wish that there were leisure now to walk among them: they have voices, and in time I might come to understand their thought.
+<p>Đây là những cái cây kỳ lạ nhất mà tôi từng thấy,” [Legolas] nói; “và tôi đã thấy nhiều cây sồi mọc từ quả đầu đến tuổi tàn lụi. Tôi ước gì bây giờ có thời gian rảnh rỗi để đi dạo giữa họ: họ có tiếng nói, và đến lúc nào đó tôi có thể hiểu được suy nghĩ của họ.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../T/The_Road_to_Isengard.md" title="The Road to Isengard">The Road to Isengard</a>&#34;</cite></p>
 </blockquote>
@@ -70,7 +70,7 @@ Một số người cho rằng anh là con một; tuy nhiên, ông ta có thể 
 Cha của anh [Thranduil](../T/Thranduil.md) có tóc vàng, nên nhiều người cho rằng Legolas chắc chắn cũng có tóc vàng (thực tế, cả [Ralph Bakshi](../R/Ralph_Bakshi.md) và [Peter Jackson](../P/Peter_Jackson.md) đều khiến ông có tóc vàng). Tuy nhiên, Tolkien mô tả đầu của ông ta là "đen tối" khi ông ta bắn hạ [Ma Ringwraith](../N/Nazgûl.md) của [Thú vật sa ngã](../F/Fell_beasts.md) trong *The Fellowship of the Ring* trong trích dẫn sau, gợi ý điều ngược lại với một số người:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Frodo looked up at the Elf standing tall above him, as he gazed into the night, seeking a mark to shoot at. His head was dark, crowned with sharp white stars that glittered in the black pools of the sky behind.
+<p>Frodo ngước nhìn Tiên đứng cao phía trên mình, anh nhìn vào màn đêm, tìm kiếm mục tiêu để bắn. Đầu ông có màu đen, được đội vương miện bằng những ngôi sao trắng sắc nhọn lấp lánh trên vùng trời đen phía sau.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Great_River.md" title="The Great River">The Great River</a>&#34;</cite></p>
 </blockquote>
@@ -82,7 +82,7 @@ Theo trại này, tóc của ông ta phải có màu nâu sẫm hoặc đen, nh�
 Tên *Legolas Greenleaf* xuất hiện lần đầu trong *[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)*, một trong các chương của *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*, được viết vào đầu [1917](../_/1917.md). Nhân vật chỉ được nhắc đến một lần và không liên quan đến nhân vật được thảo luận ở trên. Vì Lost Tales là hiện thân đầu tiên của thần thoại Tolkien và vào thời điểm *The Lord of the Rings* được viết ra, nhiều thứ đã thay đổi, rất có thể điều này không giống với Tiên và ông ta không được đưa vào *[The Silmarillion](../T/The_Silmarillion.md)* đã xuất bản.
 
 <blockquote class="tg-quote noexcerpt">
-<p>But the others, led by one <b>Legolas Greenleaf</b> of the <a href="../H/House_of_the_Tree.md" title="House of the Tree">house of the Tree</a>, who knew all that plain by day or by dark, and was night-sighted, made much speed over the vale for all their weariness, and halted only after a great march.
+<p>Nhưng những người khác, dẫn đầu bởi một <b>Legolas Greenleaf</b> của <a href="../H/House_of_the_Tree.md" title="House of the Tree">ngôi nhà trên Cây</a>, người biết tất cả những điều đó dù ngày hay đêm, và bị cận thị, đã lao rất nhanh qua thung lũng vì quá mệt mỏi và chỉ dừng lại sau một cuộc hành quân lớn.
 </p>
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i>, &#34;<a href="../T/The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a>&#34;</cite></p>
 </blockquote>

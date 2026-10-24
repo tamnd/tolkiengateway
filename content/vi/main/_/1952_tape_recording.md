@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/1952_tape_recording"
 content_sha256: f26cef8a95c622cbc2c511d47f7f0c25e560e3864006a9c8f7461668397d3b8f
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Audio recording of J.R.R. Tolkien"
+short_description: "Bản ghi âm của J.R.R. Tolkien"
 categories:
   - "Interviews with J.R.R. Tolkien"
 hidden_categories:
@@ -22,7 +22,7 @@ Tolkien đang đi thăm bạn bè (George Sayer và vợ) thì buổi ghi âm To
 Khi đưa ra các lựa chọn từ bản ghi âm vào năm 1975, <a class="extiw" href="http://en.wikipedia.org/wiki/Caedmon_Audio" title="wikipedia:Caedmon Audio">Caedmon</a> đã bao gồm tuyên bố: "*Cũng có một bài thơ chưa bao giờ được xuất bản, 'Tấm gương của Galadriel', ban đầu được dự định đưa vào bộ ba, nhưng đã bị chỉnh sửa*". Ghi chú này là một sai sót nhưng đã được in lại trong những lần phát hành tiếp theo từ Caedmon.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã đưa ra lời giải thích sau đây về ghi chú nhầm lẫn:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Sleeve notes by Ward Botsford and George Sayer. Botsford incorrectly identifies side B, band 16 as an unpublished poem for LR, book 2, ch.7... in fact the verse (<a href="../I/In_Dwimordene,_in_Lórien.md" title="In Dwimordene, in Lórien">In Dwimordene, in Lorien...</a>) was published in LR, bk.3, ch.6
+<p>Ghi chú trên tay áo của Ward Botsford và George Sayer. Botsford xác định không chính xác bên B, nhóm 16 là một bài thơ chưa xuất bản cho LR, quyển 2, ch.7... trên thực tế câu thơ (<a href="../I/In_Dwimordene,_in_Lórien.md" title="In Dwimordene, in Lórien">In Dwimordene, in Lorien...</a>) đã được xuất bản trong LR, bk.3, ch.6
 </p>
 <p class="tg-quote-footer"><cite><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></cite></p>
 </blockquote>
