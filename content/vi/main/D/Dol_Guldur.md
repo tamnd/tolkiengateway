@@ -159,17 +159,17 @@ Trên [Bản đồ đầu tiên của The Lord of the Rings](../T/The_First_Map_
 
 ### Trò chơi {#Games}
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
 
 <dl><dd>Dol Guldur xuất hiện trong cả chiến dịch "Thiện" và "Ác" với tư cách là địa điểm của một chiến trường lớn.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Dol Guldur được chỉ huy bởi <a href="../M/Mouth_of_Sauron.md" title="Mouth of Sauron">Miệng của Sauron</a> chứ không phải <a href="../K/Khamûl.md" title="Khamûl">Khamûl</a>. Dol Guldur (hoặc chính Mordor) cử một đội quân khổng lồ gồm Orc, Haradrim và Troll để tấn công <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>. Cuộc tấn công thất bại và Miệng của Sauron bị giết cùng với toàn bộ lực lượng tấn công. Dol Guldur sau đó bị tấn công bởi một đội quân tổng hợp gồm Tiên tộc và Người Lùn do <a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../A/Arwen.md" title="Arwen">Arwen</a>, <a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a>, <a href="../G/Glóin.md" title="Glóin">Glóin</a> và <a href="Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Chân Sắt</a> chỉ huy. Sau một cuộc đấu tranh lâu dài và gian khổ, Tiên tộc và Người Lùn cuối cùng đã tràn ngập Dol Guldur và tàn phá tà ác trú ngụ ở đó, kết thúc chiến dịch chiến tranh Sauron ở miền Bắc một lần và mãi mãi.</dd></dl>
 
 <dl><dd>Trong Chiến dịch Ác ma, Goblin từ Dol Guldur đã loại bỏ Tiên tộc và Ent bảo vệ Đường Rừng trong Mirkwood.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dol Guldur là điểm trung tâm trong bản mở rộng thứ hai của trò chơi, <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">The Lord of the Rings Online: Siege of Mirkwood</a></i>. Trong cốt truyện của nó, Celeborn và Galadriel tổ chức một chiến dịch quân sự chống lại Dol Guldur trong khi Hiệp hội vẫn cư trú tại Lothlórien (đừng nhầm với trận chiến sau đó trong Cuộc chiến Nhẫn). Mục tiêu được công bố là gieo rắc hỗn loạn vào lực lượng Orc bằng cách tiêu diệt càng nhiều quân, vũ khí và vật tư của họ càng tốt, nhằm trì hoãn một cuộc tấn công không thể tránh khỏi nhằm vào Lothlórien. Tuy nhiên, mục đích thực sự là nhằm đánh lạc hướng Con Mắt của Sauron công ty đang khởi hành xuống bờ biển Anduin.</dd></dl>
 

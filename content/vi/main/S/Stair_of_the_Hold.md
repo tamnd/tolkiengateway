@@ -28,13 +28,13 @@ images:
 
 Cầu thang của Hầm được xây dựng bởi [Con Người](../M/Men_of_the_Mountains.md) đã bị lãng quên từ lâu của [Dãy Núi Trắng](../W/White_Mountains.md) trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md).
 
-Những người đầu tiên của [Rohan](../R/Rohan.md) leo lên Cầu thang Hầm ngục là Vua [Brego](../B/Brego.md) và con trai ông ta [Baldor](../B/Baldor.md).<sup id="cite_ref-Muster_1-1" class="reference"><a href="#cite_note-Muster-1">[1]</a></sup> Brego quay lại vào [T.A.](../T/Third_Age.md) [2569](../T/Third_Age_2569.md) để thử [Con đường của Người chết](../P/Paths_of_the_Dead.md) và không bao giờ quay trở lại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Những người đầu tiên của [Rohan](../R/Rohan.md) leo lên Cầu thang Hầm ngục là Vua [Brego](../B/Brego.md) và con trai ông [Baldor](../B/Baldor.md).<sup id="cite_ref-Muster_1-1" class="reference"><a href="#cite_note-Muster-1">[1]</a></sup> Brego quay lại vào [T.A.](../T/Third_Age.md) [2569](../T/Third_Age_2569.md) để thử [Con đường của Người chết](../P/Paths_of_the_Dead.md) và không bao giờ quay trở lại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md) và [Đại đội Xám](../G/Grey_Company.md) đã leo lên Cầu thang của Pháo đài vào [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) nhưng không đi xuống mà thay vào đó đi theo Con đường của Người chết. [Théoden](../T/Théoden.md) và các tay đua của ông (với [Merry](../M/Meriadoc_Brandybuck.md)) đã lên đường vào [ngày 9 tháng 3](../_/9_March.md) và đi xuống vào [ngày 10](../_/10_March.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cầu thang Dunharrow là địa danh chính trong khu vực "<a href="../K/King&#39;s_Lands.md" title="King&#39;s Lands">Kingstead</a>" của <a href="../W/Westemnet.md" title="Westemnet">Westemnet</a>.</dd></dl>
 

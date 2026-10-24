@@ -49,7 +49,7 @@ Một ngôi nhà trên cây đơn giản nằm dưới bóng của đỉnh núi 
 
 Một kẻ xâm nhập từ Ettenmoors ám ảnh một hang động ở Witbeamwyd. Nông dân báo cáo gia súc bị mất tích. Vào ban đêm, mặt đất rung chuyển với những tiếng động nặng nề, và ánh sáng ban ngày để lộ những dấu chân khổng lồ dài cả thước. Nó có phải là một con Troll quái dị không? Có phải là một con ma? Bạn có thể giải được Câu đố về Ridorthû không?
 
-Một con rồng lửa khổng lồ đã bò ra khỏi bóng tối của phương bắc Dãy Núi Sương Mù. Con đường hủy diệt rực lửa của ông ta dẫn đến Witbeamwyd và tòa thị chính nơi ông ta nằm không bị cản trở. Bạn có thể sánh được với sức mạnh to lớn và hơi thở nóng bỏng của Gerse's Bane không?
+Một con rồng lửa khổng lồ đã bò ra khỏi bóng tối của phương bắc Dãy Núi Sương Mù. Con đường hủy diệt rực lửa của ông dẫn đến Witbeamwyd và tòa thị chính nơi ông nằm không bị cản trở. Bạn có thể sánh được với sức mạnh to lớn và hơi thở nóng bỏng của Gerse's Bane không?
 
 ## Lễ tân {#Reception}
 

@@ -34,13 +34,13 @@ Cha của Fëanor trong phiên bản sau của huyền thoại, [Finwë](../F/Fi
 
 ## Lịch sử {#History}
 
-Vào ngày cuối cùng của bữa tiệc <a class="new" href="https://tolkiengateway.net/w/index.php?title=Double_Mirth&amp;action=edit&amp;redlink=1" title="Double Mirth (page does not exist)">Double Mirth</a>, [Melko](../M/Melko.md) đã đến [Sirnúmen](../S/Sirnúmen.md), nơi có nhiều [Gnomes](../G/Gnomes.md) sống vào thời điểm đó và giết những người canh giữ kho báu; sau đó ông ta tiến hành giết Bruithwir và chiếm đoạt những viên ngọc quý vinh quang nhất của họ, bao gồm cả [Silmaril](../S/Silmarils.md).<sup id="cite_ref-Bru_1-1" class="reference"><a href="#cite_note-Bru-1">[1]</a></sup>
+Vào ngày cuối cùng của bữa tiệc <a class="new" href="https://tolkiengateway.net/w/index.php?title=Double_Mirth&amp;action=edit&amp;redlink=1" title="Double Mirth (page does not exist)">Double Mirth</a>, [Melko](../M/Melko.md) đã đến [Sirnúmen](../S/Sirnúmen.md), nơi có nhiều [Gnomes](../G/Gnomes.md) sống vào thời điểm đó và giết những người canh giữ kho báu; sau đó ông tiến hành giết Bruithwir và chiếm đoạt những viên ngọc quý vinh quang nhất của họ, bao gồm cả [Silmaril](../S/Silmarils.md).<sup id="cite_ref-Bru_1-1" class="reference"><a href="#cite_note-Bru-1">[1]</a></sup>
 
 Ngôi mộ của ông được biết đến với cái tên [Gò của nỗi buồn đầu tiên](../M/Mound_of_the_First_Sorrow.md), được đặt tên như vậy vì tất cả nỗi đau buồn mà cái chết của Bruithwir gây ra sau đó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Bruithwir* rõ ràng là [Gnomish](../G/Gnomish.md), nhưng ý nghĩa của nó không rõ ràng. Ông ta còn được gọi là *Bruithwir go-Maidros* ("Bruithwir con trai của Maidros"), với *[go-](../G/Go-.md)* là tiền tố Gnomish, có nghĩa là "con trai của".<sup id="cite_ref-Mar_4-0" class="reference"><a href="#cite_note-Mar-4">[4]</a></sup>
+Tên *Bruithwir* rõ ràng là [Gnomish](../G/Gnomish.md), nhưng ý nghĩa của nó không rõ ràng. Ông còn được gọi là *Bruithwir go-Maidros* ("Bruithwir con trai của Maidros"), với *[go-](../G/Go-.md)* là tiền tố Gnomish, có nghĩa là "con trai của".<sup id="cite_ref-Mar_4-0" class="reference"><a href="#cite_note-Mar-4">[4]</a></sup>
 
 Tên trước đây của nhân vật là *Maron*.<sup id="cite_ref-Mar_4-1" class="reference"><a href="#cite_note-Mar-4">[4]</a></sup>
 

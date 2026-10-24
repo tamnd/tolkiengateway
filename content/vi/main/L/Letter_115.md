@@ -39,7 +39,7 @@ Tolkien liệt kê ba truyện dài chưa hoàn chỉnh hoặc chưa cập nhậ
 
 ## Phản hồi {#Response}
 
-Trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) thảo luận về bản thảo của bức thư này, trong đó cha anh giải thích về Elvish "Phiên bản Thế giới phẳng" trong truyền thuyết và Phiên bản "[Thế giới tròn](../R/Round_World.md)" của người Mannish trong *[Ainulindale](../A/Ainulindale.md)*. Farrer trả lời ông ta (tháng 10 năm 1948) rằng cô thích [phiên bản Trái đất phẳng](<../A/Ainulindalë_(Lost_Road).md>) hơn, vì "Niềm hy vọng về Thiên đường là điều duy nhất khiến thiên văn học hiện đại có thể chấp nhận được". Christopher đoán rằng phản ứng của cô đã ảnh hưởng đến việc cha anh từ bỏ văn bản "Thế giới tròn" mà ông đang viết.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[1]</a></sup>
+Trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) thảo luận về bản thảo của bức thư này, trong đó cha anh giải thích về Elvish "Phiên bản Thế giới phẳng" trong truyền thuyết và Phiên bản "[Thế giới tròn](../R/Round_World.md)" của người Mannish trong *[Ainulindale](../A/Ainulindale.md)*. Farrer trả lời ông (tháng 10 năm 1948) rằng cô thích [phiên bản Trái đất phẳng](<../A/Ainulindalë_(Lost_Road).md>) hơn, vì "Niềm hy vọng về Thiên đường là điều duy nhất khiến thiên văn học hiện đại có thể chấp nhận được". Christopher đoán rằng phản ứng của cô đã ảnh hưởng đến việc cha anh từ bỏ văn bản "Thế giới tròn" mà ông đang viết.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 

@@ -84,7 +84,7 @@ Việc sử dụng tiếng Anh để đại diện cho Ngôn ngữ Chung trong c
 
 <dl><dd>Mộ của Balin được gọi là <b>Mộ của Balin</b> và không phải là một hình hộp thẳng tắp mà là một ngôi mộ trên cao, được đỡ bởi bốn bức tượng nhỏ Người Lùn ở các góc.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Lăng mộ của Balin có thể được tìm thấy ở Phòng Mazarbul, ngoài <a class="mw-redirect" href="../T/Twenty-First_Hall~21686.md" title="Twenty-First Hall">Sảnh thứ hai mươi mốt</a>. Xác của một người lùn đang dựa vào đó, có thể là <a href="../O/Ori.md" title="Ori">Ori</a>.</dd></dl>
 

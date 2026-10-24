@@ -178,15 +178,15 @@ Trong một dịp khác, Tolkien thừa nhận rằng Ents có lẽ chịu ảnh
 
 <dl><dd>Ent được triệu hồi là sức mạnh ma thuật mạnh nhất dành cho Dân tộc Tự do; sức mạnh của Ent chỉ bằng <a href="../B/Balrogs.md" title="Balrogs">Balrog</a> trên trang Ác ma.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Trong các nhiệm vụ cốt truyện, Ent đang hỗ trợ Merry và Pippin trốn thoát khỏi bọn Uruk cũng như tiêu diệt Isengard đồng thời với Trận chiến Helm&#39;s Deep. Trong chế độ giao tranh, Ent có thể được triệu tập dưới dạng sức mạnh "Phép thuật" bởi tất cả các dân tộc tự do và dưới dạng đơn vị thường trực bởi phe Rohan.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Ent là đơn vị của phe Tiên và có thể được triệu hồi trong các trận chiến.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trước khi phát hành bản mở rộng <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">Rise of Isengard</a></i>, Ent duy nhất xuất hiện trong trò chơi là Longbough, người có thể được tìm thấy trong Eavespires ở <a href="Evendim.md" title="Evendim">Evendim</a>.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[42]</a></sup> Bản mở rộng <i>Rise of Isengard</i> và các bản cập nhật tiếp theo đã giới thiệu nhiều nhân vật Ent hơn, trong số đó có <a href="../Q/Quickbeam.md" title="Quickbeam">Quickbeam</a>, Gnarlstump, Thickbark, Greylimb và Twistroot. Một sinh vật tương tự Ent được gọi là <i>Bog-lurker</i>, được cho là đã hỗ trợ Ent chăm sóc cây cối.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[43]</a></sup></dd></dl>
 

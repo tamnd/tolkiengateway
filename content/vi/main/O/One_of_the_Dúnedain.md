@@ -43,9 +43,9 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Éowyn](../_/Éowyn.md) đi ngang qua khu cắm trại tạm thời mà các du khách từ [Edoras](../E/Edoras.md) đã dựng lên và mời [Gimli](../G/Gimli.md) một ít món hầm. Ông ta lịch sự từ chối, và cô đưa nó cho [Aragorn](../A/Aragorn.md), người này ân cần nhận lấy. Tuy nhiên, khi ăn thìa đầu tiên, ông nhận thấy nó không ngon như ông nghĩ. Bất kể điều này, ông nói với Éowyn nó tốt và khi bà quay lại, ông bắt đầu làm đổ nó.
+[Éowyn](../_/Éowyn.md) đi ngang qua khu cắm trại tạm thời mà các du khách từ [Edoras](../E/Edoras.md) đã dựng lên và mời [Gimli](../G/Gimli.md) một ít món hầm. Ông lịch sự từ chối, và cô đưa nó cho [Aragorn](../A/Aragorn.md), người này ân cần nhận lấy. Tuy nhiên, khi ăn thìa đầu tiên, ông nhận thấy nó không ngon như ông nghĩ. Bất kể điều này, ông nói với Éowyn nó tốt và khi bà quay lại, ông bắt đầu làm đổ nó.
 
-Cô quay lại với Aragorn, người có bàn tay hơi bị bỏng do món hầm đổ ra, và hỏi liệu ông ta có thực sự cưỡi ngựa tham chiến với [Thengel](../T/Thengel.md) như [Théoden](../T/Théoden.md) đã nói với cô hay không.
+Cô quay lại với Aragorn, người có bàn tay hơi bị bỏng do món hầm đổ ra, và hỏi liệu ông có thực sự cưỡi ngựa tham chiến với [Thengel](../T/Thengel.md) như [Théoden](../T/Théoden.md) đã nói với cô hay không.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Vua Théoden có trí nhớ tốt. Lúc đó anh chỉ là một đứa trẻ nhỏ.

@@ -47,7 +47,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau cái chết của cha mình, Haleth đã cầm kiếm để [bảo vệ](../B/Battle_of_the_Hornburg.md) [Hornburg](Hornburg.md). Ông ta sợ hãi, nhưng [Aragorn](../A/Aragorn.md) đã động viên ông ta chút can đảm.
+Sau cái chết của cha mình, Haleth đã cầm kiếm để [bảo vệ](../B/Battle_of_the_Hornburg.md) [Hornburg](Hornburg.md). Ông sợ hãi, nhưng [Aragorn](../A/Aragorn.md) đã động viên ông chút can đảm.
 
 <span></span>
 

@@ -24,11 +24,11 @@ categories:
 
 <dl><dd>Trong phim, <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> sử dụng nỏ khá lớn ở <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, có lẽ do Saruman thiết kế. Các tay nỏ Uruk xuất hiện tương đối ít trong các cảnh trong cuộc bao vây, chủ yếu ở phần đầu và khi cố gắng chinh phục cổng đầu tiên của pháo đài, bắn vào quân phòng thủ qua các khoảng trống trên cánh cổng bị hư hỏng. Họ sử dụng nỏ một cách dễ dàng và chính xác đến chết người. Mặc dù nỏ được nạp lại chậm hơn một chút so với cung, nhưng chúng có một đòn bẩy kéo dài tích hợp, cho phép kéo dây cung nhanh hơn và khiến các công cụ kéo dài bổ sung không cần thiết. Trong đoạn phim tài liệu hậu trường của Phiên bản mở rộng của bộ phim, nghệ sĩ ý tưởng <a href="../J/John_Howe.md" title="John Howe">John Howe</a> và nhà thiết kế sản xuất <a href="../R/Richard_Taylor.md" title="Richard Taylor">Richard Taylor</a> thảo luận ngắn gọn và trình diễn đạo cụ nỏ Uruk do Weta Workshop chế tạo. Howe tiết lộ rằng nguồn cảm hứng cho chiếc nỏ đến từ một thiết kế đầu thế kỷ 16, được tìm thấy trong bản thảo <i>Codex Löffelholz</i> từ Đức.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Những người bắn nỏ Uruk được miêu tả là một đơn vị chiến đấu chết chóc.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nỏ có sẵn cho nhân vật của người chơi dưới dạng vũ khí tầm xa cầm tay. Chúng ít phổ biến hơn cung. Một số lớp nhân vật của người chơi, chẳng hạn như Nhà vô địch, không được phép sử dụng vũ khí.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

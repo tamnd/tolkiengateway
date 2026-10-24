@@ -48,7 +48,7 @@ images:
 
 ## Tóm tắt {#Synopsis}
 
-Chương này trình bày chi tiết các sự kiện xảy ra trong [Valinor](../V/Valinor.md) từ Sự hình thành vạn vật đến khoảng năm 3000 của [Valar](../V/Valar.md), hoặc khoảng 30000 [năm của mặt trời](../Y/Years_of_the_Sun.md). Nó trình bày chi tiết về sự hình thành thế giới, sự xuất hiện của [Tiên tộc](../E/Elves.md), [xiềng xích](../C/Chaining_of_Melkor.md) của [Morgoth](../M/Morgoth.md), sự giải thoát của ông ta và cái chết của [cây](Two_Trees_of_Valinor.md), [Hành quân của Noldor](../E/Exile_of_the_Noldor.md) bắt đầu và phần này kết thúc với sự xuất hiện của lực lượng của [Fingolfin](../F/Fingolfin.md) ở [Trung Địa](../M/Middle-earth.md) và Sự trỗi dậy của [mặt trời](../S/Sun.md).
+Chương này trình bày chi tiết các sự kiện xảy ra trong [Valinor](../V/Valinor.md) từ Sự hình thành vạn vật đến khoảng năm 3000 của [Valar](../V/Valar.md), hoặc khoảng 30000 [năm của mặt trời](../Y/Years_of_the_Sun.md). Nó trình bày chi tiết về sự hình thành thế giới, sự xuất hiện của [Tiên tộc](../E/Elves.md), [xiềng xích](../C/Chaining_of_Melkor.md) của [Morgoth](../M/Morgoth.md), sự giải thoát của ông và cái chết của [cây](Two_Trees_of_Valinor.md), [Hành quân của Noldor](../E/Exile_of_the_Noldor.md) bắt đầu và phần này kết thúc với sự xuất hiện của lực lượng của [Fingolfin](../F/Fingolfin.md) ở [Trung Địa](../M/Middle-earth.md) và Sự trỗi dậy của [mặt trời](../S/Sun.md).
 
 ## Xem thêm {#See_also}
 

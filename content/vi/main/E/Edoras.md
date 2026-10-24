@@ -110,7 +110,7 @@ Trong [tiếng Anh cổ](../O/Old_English.md), *edoras* (dạng số nhiều c�
 
 <dl><dd>Edoras xuất hiện trong phim <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">thứ hai</a> và phim <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">thứ ba</a>. Nó được xây dựng vào <a href="../M/Mount_Sunday.md" title="Mount Sunday">Chủ nhật miền núi</a>.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>Không giống như nhiều khu định cư trong trò chơi có quy mô và mức độ nổi bật nhỏ hơn nhiều, Edoras không được coi là "thủ đô" của khu vực. Điều này là do ở đầu câu chuyện Edoras đã được sơ tán, tất cả cư dân chuyển đến <a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a> và trong phần lớn trò chơi Edoras đều trống rỗng. Thay vào đó, <a href="../A/Aldburg.md" title="Aldburg">Aldburg</a> hoạt động như "nơi định cư thủ đô" của miền Tây Rohan, là trung tâm di chuyển nhanh chóng và nhiều tiện ích dành cho người chơi.</dd></dl>
 

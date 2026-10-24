@@ -61,7 +61,7 @@ infobox:
 
 ### Miền Nam {#The_Southlands}
 
-[Arondir](Arondir.md) thấy mình bị đưa đến một trại nô lệ [Orc](../O/Orc.md) trong chiến hào đâu đó ở [Southlands](../M/Mordor.md), nơi nhiều người khác và Tiên tộc, bao gồm cả Médhor và Revion, đã được đưa đến sau khi bị bắt. Sau khi Revion tranh luận với những người quản lý nhiệm vụ Lurka và Vrath về một cái cây mà Orc muốn đốn hạ, một thủ lĩnh của trại, Magrot, đưa ra Tiên tộc nước trước khi đột ngột giết Médhor trong một trò đùa vì ông ta tình cờ là người cuối cùng uống nước.
+[Arondir](Arondir.md) thấy mình bị đưa đến một trại nô lệ [Orc](../O/Orc.md) trong chiến hào đâu đó ở [Southlands](../M/Mordor.md), nơi nhiều người khác và Tiên tộc, bao gồm cả Médhor và Revion, đã được đưa đến sau khi bị bắt. Sau khi Revion tranh luận với những người quản lý nhiệm vụ Lurka và Vrath về một cái cây mà Orc muốn đốn hạ, một thủ lĩnh của trại, Magrot, đưa ra Tiên tộc nước trước khi đột ngột giết Médhor trong một trò đùa vì ông tình cờ là người cuối cùng uống nước.
 
 Ở cuối tập phim, Arondir, Revion và một số người khác cố gắng nổi dậy trong chiến hào, dùng dây xích của họ trói những người quản lý nhiệm vụ. Arondir cứu Revion khỏi một con chiến binh đang rình rập họ và dùng rễ cây đâm vào cổ Magrot, nhưng Revion bị bắn chết sau một thời gian ngắn trèo ra khỏi trại. Nỗ lực của họ bị dập tắt, và trong khi Arondir bị ghim xuống đất, Lurka bảo một Orc khác triệu hồi Adar. Trước phần ghi công, Adar bước ra Orc cúi chào ông và hô vang tên ông, trong khi khuôn mặt của ông được nhìn thấy mờ ảo.
 
@@ -69,17 +69,17 @@ infobox:
 
 [Galadriel](../G/Galadriel.md) và [Halbrand](../H/Halbrand.md) thấy mình đang ở trên con tàu do [Elendil](../E/Elendil.md) làm thuyền trưởng, hướng tới [Númenor](../N/Númenor.md). Họ đi ngược dòng sông [Siril](../S/Siril.md) và đến thủ đô [Armenelos](Armenelos.md). Tại cung điện cao của thành phố, họ gặp [Nữ hoàng nhiếp chính Míriel](../T/Tar-Míriel.md) và cố vấn trưởng của bà [Thủ tướng Pharazôn](Ar-Pharazôn.md), giữa một đại đội gồm [người Númenor](../N/Númenóreans.md) khác, có lẽ là [Hội đồng của Vương trượng](../C/Council_of_the_Sceptre.md). Galadriel và Halbrand tự giới thiệu, và Míriel từ chối cho phép cả hai - đặc biệt là [Tiên](../E/Elves.md) - quay lại [Trung Địa](../M/Middle-earth.md) theo yêu cầu của Galadriel.
 
-Elendil miễn cưỡng để Galadriel trốn thoát Númenor khi cô nói với anh rằng cô định làm như vậy, nhưng cả hai đã thiết lập tình bạn. Ông ta đưa cô đến [Hall of Lore](../H/Hall_of_Lore.md) của vương quốc, nơi Galadriel phát hiện ra rằng biểu tượng của Sauron mà cô đã nhìn thấy thực chất là một bản đồ nhìn nghiêng, trừu tượng của Southlands, mà Sauron có ý định biến thành một vương quốc mới, cam kết. Vương quốc này sẽ nằm ở Southlands.
+Elendil miễn cưỡng để Galadriel trốn thoát Númenor khi cô nói với anh rằng cô định làm như vậy, nhưng cả hai đã thiết lập tình bạn. Ông đưa cô đến [Hall of Lore](../H/Hall_of_Lore.md) của vương quốc, nơi Galadriel phát hiện ra rằng biểu tượng của Sauron mà cô đã nhìn thấy thực chất là một bản đồ nhìn nghiêng, trừu tượng của Southlands, mà Sauron có ý định biến thành một vương quốc mới, cam kết. Vương quốc này sẽ nằm ở Southlands.
 
 Người ta nhìn thấy một [Isildur](../I/Isildur.md) con trai của Elendil trẻ tuổi trên một con tàu trên biển gần hòn đảo, đang huấn luyện thành thiếu sinh quân hải quân cùng với những người bạn Valandil và Ontamo và những người khác để gia nhập [Biển Đội cận vệ](../G/Guild_of_Venturers.md). Trong chuyến hành trình hiện tại của họ, con trai của Thuyền trưởng, [Imrahil](<../I/Imrahil_(The_Rings_of_Power).md>), được cứu khỏi bị thổi bay xuống biển.
 
-Sau một thời gian ngắn cố gắng nhưng không thể học nghề ở lò rèn, Halbrand cố gắng đánh cắp huy hiệu bang hội từ một người đàn ông tên là Tamar. Khi Tamar và ba người đàn ông khác đối đầu với ông ta để giành lại huy hiệu, Halbrand đã đánh bại tất cả trong một cuộc chiến trên đường phố và sau đó bị bắt. Sau đó, tại nhà tù, Galadriel cố gắng thuyết phục Halbrand một lần nữa đi cùng cô đến Trung Địa để chuộc lại huyết thống của họ, vì Sauron sự chịu đựng là lỗi của Tiên tộc người đã chiến đấu chống lại Morgoth và của [tổ tiên](../U/Ulfang.md) của Halbrand là đồng minh của Morgoth.
+Sau một thời gian ngắn cố gắng nhưng không thể học nghề ở lò rèn, Halbrand cố gắng đánh cắp huy hiệu bang hội từ một người đàn ông tên là Tamar. Khi Tamar và ba người đàn ông khác đối đầu với ông để giành lại huy hiệu, Halbrand đã đánh bại tất cả trong một cuộc chiến trên đường phố và sau đó bị bắt. Sau đó, tại nhà tù, Galadriel cố gắng thuyết phục Halbrand một lần nữa đi cùng cô đến Trung Địa để chuộc lại huyết thống của họ, vì Sauron sự chịu đựng là lỗi của Tiên tộc người đã chiến đấu chống lại Morgoth và của [tổ tiên](../U/Ulfang.md) của Halbrand là đồng minh của Morgoth.
 
 ### Cái Harfoots {#The_Harfoots}
 
 Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots.md), từ [Norfield Glen](../N/Norfield_Glen.md) đến một vườn cây ăn quả tên là [Grove](../G/Grove.md), [Người lạ](../T/The_Stranger.md) vô tình lộ diện trước họ khi họ đang tụ tập để tưởng nhớ những người đã khuất. Bị sốc trước điều này và tức giận vì [Nori](../E/Elanor_Brandyfoot.md) giữ bí mật, Harfoots bàn bạc phải làm gì. Nori lên tiếng phản đối luật pháp của họ liên quan đến người lạ và thế giới bên ngoài. Vì tuổi trẻ của mình, [Sadoc Burrows](../S/Sadoc_Burrows.md) đã tha thứ cho những việc làm của cô.
 
-Ở phía sau đoàn lữ hành vào ngày hôm sau, khởi hành từ khu rừng, [Largo](../L/Largo_Brandyfoot.md) và [Marigold Brandyfoot](../M/Marigold_Brandyfoot.md) cuối cùng đã để Người lạ đi cùng họ sau khi ông ta giúp gia đình bằng chiếc xe ngựa của họ.
+Ở phía sau đoàn lữ hành vào ngày hôm sau, khởi hành từ khu rừng, [Largo](../L/Largo_Brandyfoot.md) và [Marigold Brandyfoot](../M/Marigold_Brandyfoot.md) cuối cùng đã để Người lạ đi cùng họ sau khi ông giúp gia đình bằng chiếc xe ngựa của họ.
 
 ## Truyền {#Cast}
 
@@ -271,7 +271,7 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 - Cảnh 35 - "[Halflings](../H/Halflings.md) vui vẻ tham gia các bữa tiệc và Lễ hội Thu hoạch là một truyền thống nhằm giúp [Harfoots](../H/Harfoots.md) chuẩn bị cho cuộc di cư gian khổ phía trước."
 - Cảnh 38 - "[Harfoots](../H/Harfoots.md) sử dụng hệ thống "chữ" tượng hình sử dụng các ký hiệu để truyền tải ý nghĩa có thể giúp ghi chú các nhịp điệu và bảng biểu tự nhiên quan trọng giúp họ chuẩn bị tốt hơn cho việc di cư trong tương lai."
 - Cảnh 39 - "Thế giới rộng lớn luôn vây quanh [Harfoots](../H/Harfoots.md). Họ dễ bị tổn thương và không thể vượt qua nhiều mối nguy hiểm tồn tại đối với một sinh vật có kích thước nhỏ như họ."
-- Cảnh 40 - "[Sadoc Burrows](../S/Sadoc_Burrows.md) là Người tìm đường của [Harfoot](../H/Harfoot.md) và dẫn đầu đoàn lữ hành. Ông ta sử dụng cuốn sách Star-book độc đáo của mình, được truyền qua nhiều thế hệ, để hướng dẫn [Harfoots](../H/Harfoots.md) đi đúng lộ trình từ thiên đường theo mùa này đến thiên đường tiếp theo."
+- Cảnh 40 - "[Sadoc Burrows](../S/Sadoc_Burrows.md) là Người tìm đường của [Harfoot](../H/Harfoot.md) và dẫn đầu đoàn lữ hành. Ông sử dụng cuốn sách Star-book độc đáo của mình, được truyền qua nhiều thế hệ, để hướng dẫn [Harfoots](../H/Harfoots.md) đi đúng lộ trình từ thiên đường theo mùa này đến thiên đường tiếp theo."
 - Cảnh 44 - "Tình yêu [người Númenor](../N/Númenóreans.md) của [Biển](../S/Sea.md) mở rộng đến tất cả các yếu tố trong nền văn hóa của họ. Bức tượng ở trung tâm căn phòng này là sự nhân cách hóa của chính Biển - vì đây ban đầu không phải là một ngục tối mà được tái sử dụng như một nơi nào đó trong quá khứ."
 - Cảnh 46 - "Mọi thứ mà [Harfoots](../H/Harfoots.md) sở hữu, họ tạo ra hoặc tìm thấy rồi mang theo bên trong xe đẩy - tài sản quý giá nhất của họ."
 - Cảnh 48 - "[Warg](../W/Wargs.md) giống với [sói](../W/Wolves.md) và có liên kết chặt chẽ với [orc](../O/Orcs.md) và Bóng Tối mà chúng phục vụ. (Quyển II, Chương 4)."
@@ -280,7 +280,7 @@ Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amaz
 
 ## Những sai lệch so với nguyên liệu nguồn {#Deviations_from_Source_Material}
 
-Con tàu xuất hiện ở cuối Tập 2 được chứng minh là do Elendil làm thuyền trưởng. Như trong Tập trước, rất khó có khả năng con người sẽ có mặt ở phần Biển Sundering nơi Elendil tìm thấy Galadriel và Halbrand trên bè. [người Númenor](../N/Númenóreans.md) (chủng tộc mà ông ta thuộc về) đặc biệt bị cấm đi thuyền quá xa Phương Tây từ nhà của họ đến mức họ không thể nhìn thấy bờ. Lệnh cấm này được gọi là [Lệnh cấm của Valar](../B/Ban_of_the_Valar.md), mà Elendil có thể đã vi phạm.
+Con tàu xuất hiện ở cuối Tập 2 được chứng minh là do Elendil làm thuyền trưởng. Như trong Tập trước, rất khó có khả năng con người sẽ có mặt ở phần Biển Sundering nơi Elendil tìm thấy Galadriel và Halbrand trên bè. [người Númenor](../N/Númenóreans.md) (chủng tộc mà ông thuộc về) đặc biệt bị cấm đi thuyền quá xa Phương Tây từ nhà của họ đến mức họ không thể nhìn thấy bờ. Lệnh cấm này được gọi là [Lệnh cấm của Valar](../B/Ban_of_the_Valar.md), mà Elendil có thể đã vi phạm.
 
 Những sai lệch khác so với tài liệu nguồn liên quan đến Númenor bao gồm:
 

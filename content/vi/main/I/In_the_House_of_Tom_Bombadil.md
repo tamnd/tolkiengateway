@@ -66,9 +66,9 @@ Lúc này, Goldberry nhận ra Frodo là [Bạn của Tiên tộc](../E/Elf-frie
 <p class="tg-quote-footer"><cite><a href="../G/Goldberry.md" title="Goldberry">Goldberry</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Khi Frodo nhấn mạnh thêm, Goldberry nói thêm rằng Tom là "Bậc thầy của rừng, nước và đồi", nhưng nói thêm rằng đất không "thuộc về" ông ta. Cô giải thích rằng Tom không muốn sở hữu bất cứ thứ gì và anh cũng không sợ bất cứ điều gì.
+Khi Frodo nhấn mạnh thêm, Goldberry nói thêm rằng Tom là "Bậc thầy của rừng, nước và đồi", nhưng nói thêm rằng đất không "thuộc về" ông. Cô giải thích rằng Tom không muốn sở hữu bất cứ thứ gì và anh cũng không sợ bất cứ điều gì.
 
-Sau đó Tom bước vào, đội một chiếc vương miện bằng lá mùa thu. Ông ta dẫn Hobbit vào một căn phòng khác, nơi họ tìm thấy những tấm nệm mềm trên sàn và bốn chậu rửa. Sau khi tắm rửa sạch sẽ, Hobbit trở lại sảnh chính và ăn tối với Tom và Goldberry. Bữa tối diễn ra khá vui vẻ và các Hobbit ngạc nhiên phát hiện ra rằng hát dễ hơn là nói.
+Sau đó Tom bước vào, đội một chiếc vương miện bằng lá mùa thu. Ông dẫn Hobbit vào một căn phòng khác, nơi họ tìm thấy những tấm nệm mềm trên sàn và bốn chậu rửa. Sau khi tắm rửa sạch sẽ, Hobbit trở lại sảnh chính và ăn tối với Tom và Goldberry. Bữa tối diễn ra khá vui vẻ và các Hobbit ngạc nhiên phát hiện ra rằng hát dễ hơn là nói.
 
 ### Giấc mơ kỳ lạ {#Strange_Dreams}
 
@@ -78,11 +78,11 @@ Frodo yêu cầu Tom giải thích Old Man Willow là gì, nhưng Merry và Pipp
 
 Đêm đó, mỗi Hobbit đều có một giấc mơ kỳ lạ, ngoại trừ Sam ngủ ngon lành suốt đêm.
 
-Frodo mơ thấy mặt trăng mọc trên một vòng đồi bao quanh một đồng bằng, với một tòa tháp cao ở trung tâm. Trên đỉnh tòa tháp này có một người có mái tóc trắng đứng, và từ đồng bằng bên dưới vang lên những giọng nói và tiếng hú của bầy sói. Hình người giơ cây trượng lên và gây ra một tia sáng chói. Đột nhiên, một [một con đại bàng hùng mạnh](../G/Great_Eagle.md) sà xuống mặt trăng và giật lấy hình bóng đó khỏi tòa tháp, mang nó đi trong khi những giọng nói bên dưới chuyển thành tiếng than khóc. Frodo liền nghe thấy tiếng vó ngựa từ phía đông tới, nhận ra là [Kỵ sĩ Đen](../B/Black_Riders.md). Điều này đánh thức ông ta, và ông ta nằm trên giường tự hỏi liệu mình có đủ can đảm để tiếp tục cuộc tìm kiếm của mình hay không.
+Frodo mơ thấy mặt trăng mọc trên một vòng đồi bao quanh một đồng bằng, với một tòa tháp cao ở trung tâm. Trên đỉnh tòa tháp này có một người có mái tóc trắng đứng, và từ đồng bằng bên dưới vang lên những giọng nói và tiếng hú của bầy sói. Hình người giơ cây trượng lên và gây ra một tia sáng chói. Đột nhiên, một [một con đại bàng hùng mạnh](../G/Great_Eagle.md) sà xuống mặt trăng và giật lấy hình bóng đó khỏi tòa tháp, mang nó đi trong khi những giọng nói bên dưới chuyển thành tiếng than khóc. Frodo liền nghe thấy tiếng vó ngựa từ phía đông tới, nhận ra là [Kỵ sĩ Đen](../B/Black_Riders.md). Điều này đánh thức ông, và ông nằm trên giường tự hỏi liệu mình có đủ can đảm để tiếp tục cuộc tìm kiếm của mình hay không.
 
 Pippin ngủ ngon lành được một lúc thì mơ thấy mình bị đánh thức bởi tiếng cành cây gõ vào tường và cửa sổ. Anh đột nhiên cảm thấy như thể mình lại ở trong Lão Liễu, người đang cười nhạo sự khốn khổ của anh. Pippin hoảng hốt tỉnh dậy, nhanh chóng nhận ra mình vẫn đang ở trong nhà Tom. Khi cố gắng ngủ lại, anh tưởng tượng mình nghe thấy một giọng nói nhẹ nhàng lặp lại với anh những gì Tom và Goldberry đã nói trước đó, về việc gạt bỏ nỗi sợ hãi và không chú ý đến những tiếng động hàng đêm.
 
-Giấc mơ của Merry bắt đầu bằng tiếng nước chảy. Lúc đầu chỉ là một dòng nước nhỏ giọt, nước nhanh chóng tràn vào xung quanh ngôi nhà, đến mức Merry chắc chắn rằng nó sẽ sớm xuyên qua cửa sổ và nhấn chìm ông ta. Anh bật dậy khỏi giường và nhận ra đó chỉ là một giấc mơ. Khi nằm xuống, anh cũng nghe thấy một giọng nói yếu ớt lặp lại lời đảm bảo của Goldberry rằng không gì có thể vào nhà Tom ngoại trừ ánh sáng của mặt trăng và các vì sao.
+Giấc mơ của Merry bắt đầu bằng tiếng nước chảy. Lúc đầu chỉ là một dòng nước nhỏ giọt, nước nhanh chóng tràn vào xung quanh ngôi nhà, đến mức Merry chắc chắn rằng nó sẽ sớm xuyên qua cửa sổ và nhấn chìm ông. Anh bật dậy khỏi giường và nhận ra đó chỉ là một giấc mơ. Khi nằm xuống, anh cũng nghe thấy một giọng nói yếu ớt lặp lại lời đảm bảo của Goldberry rằng không gì có thể vào nhà Tom ngoại trừ ánh sáng của mặt trăng và các vì sao.
 
 ### Bữa sáng và câu chuyện {#Breakfast_and_Stories}
 
@@ -92,11 +92,11 @@ Người Hobbit ăn sáng một mình. Họ nhìn thấy mưa bên ngoài và nh
 
 Tom từ bên ngoài trở về, có vẻ không bị ảnh hưởng bởi cơn mưa một cách kỳ lạ. Ông nói với Hobbit rằng đây là "ngày giặt giũ" của Goldberry và xác nhận rằng họ không thể tiếp tục trong thời tiết này. Thay vào đó, anh mời họ ngồi xuống và nói chuyện. Ông bắt đầu bằng cách kể cho họ nghe những câu chuyện tuyệt vời về thế giới tự nhiên, thỉnh thoảng hát và thậm chí đứng dậy và nhảy múa.
 
-Những câu chuyện của Tom có ​​nhiều đề cập đến Ông già Willow và The Khu Rừng Cổ. Ông mô tả Khu rừng là cổ xưa và giải thích rằng những cái cây trong đó có trái tim đen tối và lòng căm thù mọi sinh vật biết đi. Ông ta nói rằng Old Man Willow đặc biệt độc ác, hút sức mạnh từ trái đất và lan truyền ảnh hưởng của mình lên gần như tất cả cây cối trong The Khu Rừng Cổ.
+Những câu chuyện của Tom có ​​nhiều đề cập đến Ông già Willow và The Khu Rừng Cổ. Ông mô tả Khu rừng là cổ xưa và giải thích rằng những cái cây trong đó có trái tim đen tối và lòng căm thù mọi sinh vật biết đi. Ông nói rằng Old Man Willow đặc biệt độc ác, hút sức mạnh từ trái đất và lan truyền ảnh hưởng của mình lên gần như tất cả cây cối trong The Khu Rừng Cổ.
 
-Sau đó, Tom kể cho Hobbit về lịch sử của [Barrow Downs](../B/Barrow_Downs~11356.md), mô tả các cuộc chiến tranh diễn ra ở đó và những vị vua được chôn cất cùng với của cải bên trong những gò đất lớn. Ông ta giải thích rằng một linh hồn ma quỷ đã đến từ rất xa và đánh thức xương của họ, điều này đã ám ảnh những chiếc xe mộ kể từ đó. Những người Hobbit vô cùng kinh hãi trước câu chuyện này, chợt nhớ ra những mối nguy hiểm đang rình rập ngay bên ngoài ngôi nhà tiện nghi của Tom.
+Sau đó, Tom kể cho Hobbit về lịch sử của [Barrow Downs](../B/Barrow_Downs~11356.md), mô tả các cuộc chiến tranh diễn ra ở đó và những vị vua được chôn cất cùng với của cải bên trong những gò đất lớn. Ông giải thích rằng một linh hồn ma quỷ đã đến từ rất xa và đánh thức xương của họ, điều này đã ám ảnh những chiếc xe mộ kể từ đó. Những người Hobbit vô cùng kinh hãi trước câu chuyện này, chợt nhớ ra những mối nguy hiểm đang rình rập ngay bên ngoài ngôi nhà tiện nghi của Tom.
 
-Tom cuối cùng cũng bắt đầu nói về những điều thực sự cổ xưa, khi chỉ có [Tiên tộc](../E/Elves.md) lang thang trên vùng đất [Trung Địa](../M/Middle-earth.md). Khi nói, ông bắt đầu gật đầu, và Hobbit dường như thời gian đã đứng yên. Frodo cảm giác như cả ngày trôi qua khi anh im lặng chờ Tom thức dậy, mặc dù anh không cảm thấy đói hay thèm. Cuối cùng, vào ban đêm, Frodo hỏi Tom rằng ông ta là ai. Tom không trả lời trực tiếp câu hỏi mà khẳng định rằng ông ở đó để chứng kiến ​​giọt mưa đầu tiên, sự xuất hiện của Tiên tộc và thậm chí cả sự xuất hiện của [Sauron](../S/Sauron.md) từ "Bên ngoài".
+Tom cuối cùng cũng bắt đầu nói về những điều thực sự cổ xưa, khi chỉ có [Tiên tộc](../E/Elves.md) lang thang trên vùng đất [Trung Địa](../M/Middle-earth.md). Khi nói, ông bắt đầu gật đầu, và Hobbit dường như thời gian đã đứng yên. Frodo cảm giác như cả ngày trôi qua khi anh im lặng chờ Tom thức dậy, mặc dù anh không cảm thấy đói hay thèm. Cuối cùng, vào ban đêm, Frodo hỏi Tom rằng ông là ai. Tom không trả lời trực tiếp câu hỏi mà khẳng định rằng ông ở đó để chứng kiến ​​giọt mưa đầu tiên, sự xuất hiện của Tiên tộc và thậm chí cả sự xuất hiện của [Sauron](../S/Sauron.md) từ "Bên ngoài".
 
 ### Bữa tối và câu hỏi {#Dinner_and_Questions}
 
@@ -114,7 +114,7 @@ Tom bắt đầu hỏi Hobbit nhiều câu hỏi, mặc dù ông có vẻ biết
 
 Tom dường như đã biết được hành trình của Frodo trực tiếp từ [Gildor Inglorion](../G/Gildor_Inglorion.md), người mà Hobbit đã gặp [vài ngày trước](../T/Three_is_Company.md). Trước sự tra hỏi của Tom, Frodo đã kể lại mọi chuyện về [Bilbo](../B/Bilbo_Baggins.md), đồng thời tâm sự về những hy vọng và nỗi lo sợ của bản thân. Khi Frodo đề cập đến Kỵ sĩ Đen, Tom đột nhiên yêu cầu được xem Chiếc nhẫn và Frodo đã đưa cho anh mà không thắc mắc gì.
 
-Tom nhìn qua chiếc Nhẫn, nó dường như ngày càng lớn hơn trong tay anh. Ông đeo nó vào và Hobbit' ngạc nhiên là hoàn toàn không bị ảnh hưởng bởi nó. Anh ném chiếc Nhẫn lên không trung và nó biến mất trong một tia sáng rực rỡ, Frodo thật đau khổ trước khi Tom trao lại nó như thể không có chuyện gì xảy ra. Nghi ngờ có thể đã xảy ra sơ suất nào đó, Frodo tìm cơ hội đeo chiếc Nhẫn vào ngón tay mình để thử. Anh cảm thấy nhẹ nhõm khi phát hiện ra rằng mình đã trở nên vô hình. Tuy nhiên, Tom dường như đã nhìn thấu khả năng tàng hình của ông ta và ra lệnh cho ông ta tháo chiếc nhẫn ra:
+Tom nhìn qua chiếc Nhẫn, nó dường như ngày càng lớn hơn trong tay anh. Ông đeo nó vào và Hobbit' ngạc nhiên là hoàn toàn không bị ảnh hưởng bởi nó. Anh ném chiếc Nhẫn lên không trung và nó biến mất trong một tia sáng rực rỡ, Frodo thật đau khổ trước khi Tom trao lại nó như thể không có chuyện gì xảy ra. Nghi ngờ có thể đã xảy ra sơ suất nào đó, Frodo tìm cơ hội đeo chiếc Nhẫn vào ngón tay mình để thử. Anh cảm thấy nhẹ nhõm khi phát hiện ra rằng mình đã trở nên vô hình. Tuy nhiên, Tom dường như đã nhìn thấu khả năng tàng hình của ông và ra lệnh cho ông tháo chiếc nhẫn ra:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Chào! Hãy đến Frodo, kia! Bạn đang đi đâu vậy? Cũ Tom Bombadil vẫn chưa mù quáng như vậy. Hãy tháo chiếc nhẫn vàng của bạn ra! Bàn tay của bạn sẽ công bằng hơn nếu không có nó.
@@ -126,7 +126,7 @@ Tom nhìn qua chiếc Nhẫn, nó dường như ngày càng lớn hơn trong tay
 
 Tom khuyên Hobbit nên khởi hành sớm vào sáng hôm sau để tận dụng thời tiết nắng đẹp sắp tới. Ông bảo họ đừng đi thẳng về phía bắc từ nhà ông tới [phương Đông Đường](../E/East_Road.md) mà thay vào đó hãy đi qua Barrow Downs.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[notes 1]</a></sup>
 
-Ông ta trấn an họ rằng họ sẽ an toàn miễn là tránh được bất kỳ rào cản nào và luôn vượt qua chúng ở phía tây. Để an toàn hơn, ông còn dạy họ một bài đồng dao để kêu gọi sự giúp đỡ của ông:
+Ông trấn an họ rằng họ sẽ an toàn miễn là tránh được bất kỳ rào cản nào và luôn vượt qua chúng ở phía tây. Để an toàn hơn, ông còn dạy họ một bài đồng dao để kêu gọi sự giúp đỡ của ông:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>ồ! Tom Bombadil, Tom Bombadillo!<br/>Bằng nước, rừng và đồi, bằng sậy và liễu,<br/>Bằng lửa, mặt trời và mặt trăng, hãy lắng nghe và lắng nghe chúng tôi!<br/>Hãy đến, Tom Bombadil, vì nhu cầu của chúng tôi đang ở gần chúng tôi!

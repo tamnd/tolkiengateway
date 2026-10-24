@@ -58,7 +58,7 @@ Tên <a class="extiw" href="http://en.wikipedia.org/wiki/Odoacer" title="wikiped
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Odovacar Bolger là một người chăn nuôi lợn sống ở <a href="../B/Budgeford.md" title="Budgeford">Budgeford</a>. Ông yêu cầu người chơi điều tra tin đồn về một Kỵ Sĩ Đen được nhìn thấy ở trang trại của ông vào ban đêm, nhưng hóa ra đó chỉ đơn giản là một hobbit khác đang chơi khăm.</dd></dl>
 

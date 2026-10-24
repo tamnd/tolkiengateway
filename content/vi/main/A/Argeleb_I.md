@@ -87,7 +87,7 @@ Argeleb chỉ trị vì bảy năm, và sau khi ông qua đời vào [T.A.](../T
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Trong chiến dịch Angmar của <a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">gói mở rộng <i>The Rise of the Witch-king</i></a>, Argeleb đến trợ giúp vương quốc Rhudaur đang gặp khó khăn. Ông đến từ phương Bắc sau khi người chơi phá hủy pháo đài đầu tiên trong số hai pháo đài và phải bị đánh bại để vượt qua cấp độ.</dd></dl>
 

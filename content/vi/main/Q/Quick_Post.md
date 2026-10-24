@@ -24,11 +24,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mithril_Miniatures_-_Hobbit_Quickpost_rider.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c7/Mithril_Miniatures_-_Hobbit_Quickpost_rider.jpg/200px-Mithril_Miniatures_-_Hobbit_Quickpost_rider.jpg" decoding="async" loading="lazy" width="200" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/Mithril_Miniatures_-_Hobbit_Quickpost_rider.jpg/300px-Mithril_Miniatures_-_Hobbit_Quickpost_rider.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/Mithril_Miniatures_-_Hobbit_Quickpost_rider.jpg/400px-Mithril_Miniatures_-_Hobbit_Quickpost_rider.jpg 2x" data-file-width="1280" data-file-height="1280"/></a><figcaption>"<a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> Người đăng bài nhanh" - <i><a href="../M/Mithril_Miniatures.md" title="Mithril Miniatures">Mithril Miniature</a></i></figcaption></figure>
 
-**Đăng nhanh** rõ ràng là cách nhanh nhất để gửi thông tin trong [ Shire](../T/The_Shire.md), có lẽ là một phần của [Dịch vụ nhắn tin](../M/Messenger_Service.md). Khi [Trưởng](../C/Chief_Shirriff.md) nắm quyền kiểm soát Shire, ông ta đã sử dụng dịch vụ Đăng nhanh cũ để thu thập thông tin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Đăng nhanh** rõ ràng là cách nhanh nhất để gửi thông tin trong [ Shire](../T/The_Shire.md), có lẽ là một phần của [Dịch vụ nhắn tin](../M/Messenger_Service.md). Khi [Trưởng](../C/Chief_Shirriff.md) nắm quyền kiểm soát Shire, ông đã sử dụng dịch vụ Đăng nhanh cũ để thu thập thông tin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Quick Post là dịch vụ chuyển thư của Shire và chịu trách nhiệm gửi thư kịp thời và bí mật mà Hobbit viết cho nhau với số lượng lớn. Người chơi có thể tham gia Đăng nhanh và hỗ trợ họ thực hiện nhiều đợt giao hàng khác nhau giữa các thị trấn và làng của Shire.</dd></dl>
 

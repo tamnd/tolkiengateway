@@ -48,7 +48,7 @@ Vào tháng 4 [2006](../_/2006.md), Chiến dịch Người tiêu dùng Anh "Chi
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Bird_and_Baby_Inn_sign.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2b/Bird_and_Baby_Inn_sign.jpg/200px-Bird_and_Baby_Inn_sign.jpg" decoding="async" loading="lazy" width="200" height="137" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/2b/Bird_and_Baby_Inn_sign.jpg 1.5x" data-file-width="214" data-file-height="147"/></a><figcaption>Sign of the Bird and Baby Inn in <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><b>Quán trọ Bird and Baby</b> là trung tâm hoạt động xã hội chính của <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a> và là quán rượu lớn nhất ở <a href="The_Shire.md" title="The Shire"> Shire</a>. Du khách mệt mỏi có thể thưởng thức đồ ăn thức uống và chia sẻ những câu chuyện về cuộc phiêu lưu bên đống lửa. The Bird and Baby cũng cung cấp dịch vụ cắt tóc và chữa bệnh.</dd></dl>
 

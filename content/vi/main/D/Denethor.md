@@ -261,7 +261,7 @@ Denethor có khuôn mặt "chạm khắc"<sup id="cite_ref-Appearance_4-1" class
 
 <dl><dd>Giọng của Denethor được cung cấp bởi Marián Slovák.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vai trò của Denethor trong trò chơi tương đối nhỏ, vì khi người chơi đạt đến <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, <a href="../F/Faramir.md" title="Faramir">Faramir</a> đã bị thương và ý chí của Người quản lý đã thất bại. Một thay đổi đáng chú ý là việc anh hứa hôn Boromir với <a href="../L/Lothíriel.md" title="Lothíriel">Lothíriel</a> của Dol Amroth.</dd></dl>
 

@@ -57,7 +57,7 @@ Theo truyền thống sau này của [Rohirrim](../R/Rohirrim.md), tổ tiên c�
 
 Chính trên Felaróf, Eorl đã đến hỗ trợ [Gondor](../G/Gondor.md) và giành được một chiến thắng nổi tiếng,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> chiến thắng dẫn đến [Quản lý](../R/Ruling_Steward.md) [Cirion](../C/Cirion.md) cấp cho họ vùng đất trống rộng lớn [Calenardhon](../C/Calenardhon.md), sau này được gọi là [Rohan](../R/Rohan.md). Hơn ba mươi năm sau, Felaróf có được tự do trên những đồng cỏ rộng lớn đó, nhưng một cuộc xâm lược mới của [Người phương Đông](../E/Easterlings.md) đã chứng kiến ​​ Eorl một lần nữa lao vào trận chiến. Trong [The Wold](../T/The_Wold.md), vùng cực bắc của Rohan, Eorl và Felaróf gặp nhau và được đặt cùng nhau trong một gò đất nhô lên bên ngoài cổng [Edoras](../E/Edoras.md).
 
-Felaróf thực sự là một con ngựa rất đáng chú ý. Thậm chí còn có ghi chép rằng ông ta có thể hiểu được lời nói của [Con Người](../M/Men.md). Ông lần lượt sinh ra một chủng tộc ngựa tuyệt vời, [Mearas](../M/Mearas.md), theo truyền thống chỉ có thể được cưỡi bởi [Chúa tể đất Mark](../L/Lord_of_the_Mark.md), hậu duệ của Eorl. Chính từ dòng dõi này mà con ngựa [Shadowfax](../S/Shadowfax.md) của [Gandalf](../G/Gandalf.md) đã ra đời, khiến ông ta trở thành hậu duệ của chính Felaróf.<sup id="cite_ref-eorl_1-1" class="reference"><a href="#cite_note-eorl-1">[1]</a></sup>
+Felaróf thực sự là một con ngựa rất đáng chú ý. Thậm chí còn có ghi chép rằng ông có thể hiểu được lời nói của [Con Người](../M/Men.md). Ông lần lượt sinh ra một chủng tộc ngựa tuyệt vời, [Mearas](../M/Mearas.md), theo truyền thống chỉ có thể được cưỡi bởi [Chúa tể đất Mark](../L/Lord_of_the_Mark.md), hậu duệ của Eorl. Chính từ dòng dõi này mà con ngựa [Shadowfax](../S/Shadowfax.md) của [Gandalf](../G/Gandalf.md) đã ra đời, khiến ông trở thành hậu duệ của chính Felaróf.<sup id="cite_ref-eorl_1-1" class="reference"><a href="#cite_note-eorl-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -79,7 +79,7 @@ Felaróf thực sự là một con ngựa rất đáng chú ý. Thậm chí còn
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Felaróf.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d6/The_Lord_of_the_Rings_Online_-_Felar%C3%B3f.jpg/150px-The_Lord_of_the_Rings_Online_-_Felar%C3%B3f.jpg" decoding="async" loading="lazy" width="150" height="131" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d6/The_Lord_of_the_Rings_Online_-_Felar%C3%B3f.jpg/225px-The_Lord_of_the_Rings_Online_-_Felar%C3%B3f.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d6/The_Lord_of_the_Rings_Online_-_Felar%C3%B3f.jpg/300px-The_Lord_of_the_Rings_Online_-_Felar%C3%B3f.jpg 2x" data-file-width="1240" data-file-height="1080"/></a><figcaption>Felaróf in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Felaróf xuất hiện thoáng qua trong đoạn hồi tưởng kể lại lịch sử của <a href="../_/Éothéod.md" title="Éothéod">Éothéod</a>.</dd></dl>
 

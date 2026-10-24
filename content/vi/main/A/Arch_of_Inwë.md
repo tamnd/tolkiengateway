@@ -24,7 +24,7 @@ images:
 
 **Vòm Inwë** được đặt tại [Gondolin](../G/Gondolin.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Đó là lối vào phía tây của [Quảng trường giếng dân gian](../S/Square_of_the_Folkwell.md). Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Galdor](<../G/Galdor_(elf_of_Gondolin).md>) và những người cuối cùng của ông ta đã chiến đấu ở đó chống lại một đám [yêu tinh](../G/Goblins.md) đang đến.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nguồn gốc tên của nó, liên quan đến [Inwë](../I/Ingwë.md#Other_versions_of_the_legendarium), vẫn chưa được biết vì nó chỉ được nhắc đến một lần.
+Đó là lối vào phía tây của [Quảng trường giếng dân gian](../S/Square_of_the_Folkwell.md). Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), [Galdor](<../G/Galdor_(elf_of_Gondolin).md>) và những người cuối cùng của ông đã chiến đấu ở đó chống lại một đám [yêu tinh](../G/Goblins.md) đang đến.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nguồn gốc tên của nó, liên quan đến [Inwë](../I/Ingwë.md#Other_versions_of_the_legendarium), vẫn chưa được biết vì nó chỉ được nhắc đến một lần.
 
 <span></span>
 

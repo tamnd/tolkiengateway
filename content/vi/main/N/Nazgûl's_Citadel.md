@@ -47,5 +47,5 @@ Các tính năng của NAZGÛL'S CITADEL:
 - MÔ TẢ TỪNG PHÒNG về các phòng nhỏ hơn nhưng cần thiết của pháo đài, bao gồm doanh trại, hành lang lộn xộn, Orc chiến trường, thang máy, bể chứa nước và năm Pháo đài Cấp đáng gờm.
 - BỐ CỤC ĐIỂN HÌNH cho vô số loại tháp mọc lên từ sườn của pháo đài trên núi.
 - 4 CUỘC PHIÊU LƯU KHÁC BIỆT ở Ny Chennacatt, bao gồm triển lãm thương mại, nhiệm vụ lén lút đầy rủi ro, bước đột phá táo bạo vào đấu trường của Akhôrahil và thâm nhập vào quân đội của Nazgûl.
-- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về các nhà lãnh đạo nổi bật trong pháo đài, bao gồm cả Nazgûl Đệ Ngũ và vị tướng tài giỏi [Wyatan](../A/Army_of_the_Southern_Dragon.md#Wyatan) của ông ta.
+- THỐNG KÊ VÀ THÔNG TIN CƠ BẢN về các nhà lãnh đạo nổi bật trong pháo đài, bao gồm cả Nazgûl Đệ Ngũ và vị tướng tài giỏi [Wyatan](../A/Army_of_the_Southern_Dragon.md#Wyatan) của ông.
 - THỐNG KÊ cho [Quân đội miền Nam Rồng](../A/Army_of_the_Southern_Dragon.md), đóng quân tại thành giữa các chiến dịch quân sự.

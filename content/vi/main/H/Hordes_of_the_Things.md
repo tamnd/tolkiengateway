@@ -30,7 +30,7 @@ Bộ truyện đã được ra mắt với rất nhiều sự cường điệu. 
 
 Thân vương Veganin đã huy động một đội quân hùng mạnh để bảo vệ Albion, nhưng tất cả đều đổ bệnh; cha của ông Vua Yulfric cho rằng ông đang phóng đại sự nguy hiểm và gợi ý rằng nên cho phép các phong tục nước ngoài (như hiến tế con người). Trong mọi trường hợp, Yulfric quá bận rộn thay quần áo với một thường dân để có thời gian cho công việc quốc gia - người thường dân được đề cập là con gái của người tiều phu.
 
-Pháp sư vĩ đại Radox chiêu mộ anh hùng trẻ tuổi Agar để tìm chiếc sừng hùng mạnh Summontrumpet có thể gọi ra sáu anh hùng trong truyền thuyết. Trước sự thất vọng của Agar, Radox gửi cho ông ta một người bạn đồng hành trong hình dạng của người lùn háu ăn Golin Longshanks, người đang ảo tưởng rằng chương trình rèn luyện chiều cao của Radox đã biến ông ta thành một người khổng lồ.
+Pháp sư vĩ đại Radox chiêu mộ anh hùng trẻ tuổi Agar để tìm chiếc sừng hùng mạnh Summontrumpet có thể gọi ra sáu anh hùng trong truyền thuyết. Trước sự thất vọng của Agar, Radox gửi cho ông một người bạn đồng hành trong hình dạng của người lùn háu ăn Golin Longshanks, người đang ảo tưởng rằng chương trình rèn luyện chiều cao của Radox đã biến ông thành một người khổng lồ.
 
 Bản thân Radox cũng tham dự Đại hội của tất cả Pháp sư, nhưng hầu hết các pháp sư đều quá bận rộn với thức ăn và giải trí nên không bận tâm đến những việc nặng nề về việc tiêu diệt cái ác.
 

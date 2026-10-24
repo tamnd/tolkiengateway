@@ -24,15 +24,15 @@ Tuy nhiên, có rất nhiều công việc và nhiệm vụ trần tục khiến
 
 Trong đầu, Niggle biết rằng ông sắp có một chuyến đi tuyệt vời và ông phải đóng gói và chuẩn bị hành lý của mình.
 
-Ngoài ra, người hàng xóm bên cạnh của Niggle, một người làm vườn tên là Parish, là loại hàng xóm luôn ghé qua và than vãn về sự giúp đỡ mà ông ta cần trong việc này việc nọ. Hơn nữa, Parish bị què chân và có một người vợ ốm yếu, thật lòng cần sự giúp đỡ - Niggle, có trái tim nhân hậu, luôn dành thời gian để giúp đỡ.
+Ngoài ra, người hàng xóm bên cạnh của Niggle, một người làm vườn tên là Parish, là loại hàng xóm luôn ghé qua và than vãn về sự giúp đỡ mà ông cần trong việc này việc nọ. Hơn nữa, Parish bị què chân và có một người vợ ốm yếu, thật lòng cần sự giúp đỡ - Niggle, có trái tim nhân hậu, luôn dành thời gian để giúp đỡ.
 
 Và Niggle còn có những nhiệm vụ công việc cấp bách khác đòi hỏi anh phải chú ý. Rồi chính Niggle cũng bị cảm lạnh dưới mưa khi ra ngoài tìm bác sĩ cho bà Parish và thợ xây mái nhà cho ông Parish. Tuy nhiên, hai ngày sau, bác sĩ đến kịp thời để giải quyết cho cả bà Parish và Niggle. Người xây dựng không bao giờ đến cả.
 
 Hơn một tuần sau, cơn cảm lạnh của Niggle biến mất và anh cố gắng vẽ lại nhưng bị ngăn cản bởi Thanh tra các ngôi nhà, người đe dọa mang bức tranh của Niggle đi để sửa mái nhà của Giáo xứ với lý do "nhà ở là trên hết" là "Đó là luật".
 
-Khi Niggle cố gắng phản đối, ông ta lại bị gián đoạn bởi một người đàn ông mặc đồ hở hang tự xưng là Người lái xe. Người lái xe buộc phải đưa Niggle đi bằng xe ngựa, khiến ông ta có rất ít thời gian để thu dọn đồ đạc. Người lái xe đưa ông ta đến một chuyến tàu, sau đó đưa ông ta qua một đường hầm tối tăm và đến ga xe lửa. Niggle rất ngạc nhiên khi bị một người khuân vác lao ra ngoài đến nỗi quên mất một chiếc túi mà ông đã kịp đóng gói. Do hành lý bị thất lạc, Người khuân vác cuối cùng phải đưa Niggle lên xe cấp cứu đến một nơi gọi là [Bệnh xá Workhouse](../W/Workhouse_Infirmary.md). Niggle mô tả trải nghiệm của anh ở đó giống như một nhà tù, các quan chức và người phục vụ đều không thân thiện và người duy nhất anh từng gặp là một bác sĩ nghiêm khắc. Trong suốt cuộc đời ở đó, lúc đầu anh không ngừng lo lắng về quá khứ, cân nhắc về những lựa chọn trong cuộc đời mình. Cuối cùng, ông đã quen với cuộc sống ở đó và trở nên giỏi trong công việc. Ông trở thành “bậc thầy của thời đại mình”. Nói cách khác, anh đã chiến thắng được tính trì hoãn của mình và trong lòng không còn bồn chồn nữa.
+Khi Niggle cố gắng phản đối, ông lại bị gián đoạn bởi một người đàn ông mặc đồ hở hang tự xưng là Người lái xe. Người lái xe buộc phải đưa Niggle đi bằng xe ngựa, khiến ông có rất ít thời gian để thu dọn đồ đạc. Người lái xe đưa ông đến một chuyến tàu, sau đó đưa ông qua một đường hầm tối tăm và đến ga xe lửa. Niggle rất ngạc nhiên khi bị một người khuân vác lao ra ngoài đến nỗi quên mất một chiếc túi mà ông đã kịp đóng gói. Do hành lý bị thất lạc, Người khuân vác cuối cùng phải đưa Niggle lên xe cấp cứu đến một nơi gọi là [Bệnh xá Workhouse](../W/Workhouse_Infirmary.md). Niggle mô tả trải nghiệm của anh ở đó giống như một nhà tù, các quan chức và người phục vụ đều không thân thiện và người duy nhất anh từng gặp là một bác sĩ nghiêm khắc. Trong suốt cuộc đời ở đó, lúc đầu anh không ngừng lo lắng về quá khứ, cân nhắc về những lựa chọn trong cuộc đời mình. Cuối cùng, ông đã quen với cuộc sống ở đó và trở nên giỏi trong công việc. Ông trở thành “bậc thầy của thời đại mình”. Nói cách khác, anh đã chiến thắng được tính trì hoãn của mình và trong lòng không còn bồn chồn nữa.
 
-Cuối cùng, anh bị bác sĩ nghiêm khắc buộc phải nghỉ ngơi. Trong thời gian nghỉ giải lao đó, ông ta tình cờ nghe được hai giọng nói và cho rằng có “Hội đồng Y tế, hoặc có thể là Tòa án Điều tra, đang sắp diễn ra” về một chủ đề mà Giọng nói Đầu tiên gọi là "vụ án Niggle".
+Cuối cùng, anh bị bác sĩ nghiêm khắc buộc phải nghỉ ngơi. Trong thời gian nghỉ giải lao đó, ông tình cờ nghe được hai giọng nói và cho rằng có “Hội đồng Y tế, hoặc có thể là Tòa án Điều tra, đang sắp diễn ra” về một chủ đề mà Giọng nói Đầu tiên gọi là "vụ án Niggle".
 
 Giọng nói thứ hai đưa ra lập luận rằng thông qua Niggle đã trì hoãn cuộc hành trình của mình cho đến phút cuối cùng, "Trái tim ông đã đặt đúng chỗ".
 
@@ -44,7 +44,7 @@ Giọng nói thứ hai chỉ ra với Giọng nói thứ nhất rằng mặc dù
 
 The First Voice phản ánh rằng Niggle có thể làm được nhiều hơn nếu ông thực sự đặt bức tranh của mình hoàn toàn sang một bên và những bức tranh ông đã hoàn thành, ông coi là sự gián đoạn.
 
-Cuối cùng, Giọng nói thứ hai đưa ra vụ án của Giáo xứ và vụ đi xe đạp làm bằng chứng. Đối với ví dụ đầu tiên, Giọng nói thứ hai khẳng định rằng Niggle không bao giờ mong đợi lòng biết ơn và Parish chưa bao giờ làm bất cứ điều gì cho ông ta. Giọng nói thứ hai gọi việc Niggle đi xe đạp là một sự hy sinh thực sự của Niggle vì ông biết mình sẽ mất cơ hội cuối cùng để hoàn thành công việc của mình và Giáo xứ đã phản ứng thái quá.
+Cuối cùng, Giọng nói thứ hai đưa ra vụ án của Giáo xứ và vụ đi xe đạp làm bằng chứng. Đối với ví dụ đầu tiên, Giọng nói thứ hai khẳng định rằng Niggle không bao giờ mong đợi lòng biết ơn và Parish chưa bao giờ làm bất cứ điều gì cho ông. Giọng nói thứ hai gọi việc Niggle đi xe đạp là một sự hy sinh thực sự của Niggle vì ông biết mình sẽ mất cơ hội cuối cùng để hoàn thành công việc của mình và Giáo xứ đã phản ứng thái quá.
 
 Giọng nói thứ hai chiếm ưu thế và Giọng nói thứ nhất do dự nhượng bộ, cho phép Giọng nói thứ hai đề xuất dành cho Niggle [Đối xử nhẹ nhàng](../G/Gentle_Treatment.md).
 
@@ -58,7 +58,7 @@ Sau khi đạp xe một thời gian dài, khung cảnh xung quanh Niggle ngày c
 
 Tiết lộ mà Niggle trải nghiệm là cảnh tượng [Great Tree](../G/Great_Tree.md) từ bức tranh tuyệt vời của ông. Ngoại trừ điều đó ở đây, Cái cây của ông là thật và đẹp hơn cả những gì ông có thể tạo ra trong hình thức thiếu sót và chưa hoàn thiện trong bức tranh của mình. Anh chứng kiến ​​cành lá ngày càng lớn, tiếng chim hót bay vào rừng và thậm chí anh còn nhìn thấy xa Dãy Núi.
 
-Khi Niggle đi lang thang và khám phá Khu rừng, ông tìm thấy một biến thể của Cây vĩ đại và nhận ra rằng, mặc dù tất cả đã hoàn tất nhưng ông quyết định rằng vẫn còn nhiều việc phải làm ở các khu vực khác nhau của Khu rừng. Ông cũng đi đến kết luận rằng ông không muốn tất cả nơi này trở thành “công viên riêng” của riêng mình mà không có sự giúp đỡ hay lời khuyên. Vì vậy, ông ta quyết định rằng ông ta cần sự giúp đỡ của Mr. Parish và sau vài giây, Niggle tình cờ gặp ông ta và Parish tuyên bố rằng Giọng nói thứ hai đã gửi ông ta.
+Khi Niggle đi lang thang và khám phá Khu rừng, ông tìm thấy một biến thể của Cây vĩ đại và nhận ra rằng, mặc dù tất cả đã hoàn tất nhưng ông quyết định rằng vẫn còn nhiều việc phải làm ở các khu vực khác nhau của Khu rừng. Ông cũng đi đến kết luận rằng ông không muốn tất cả nơi này trở thành “công viên riêng” của riêng mình mà không có sự giúp đỡ hay lời khuyên. Vì vậy, ông quyết định rằng ông cần sự giúp đỡ của Mr. Parish và sau vài giây, Niggle tình cờ gặp ông và Parish tuyên bố rằng Giọng nói thứ hai đã gửi ông.
 
 Sau đó, hai người quyết định hợp tác cùng nhau để nâng cao Khu rừng. Họ xây nhà, làm vườn, trồng hoa.
 
@@ -70,15 +70,15 @@ Tuy nhiên, điều này gây ra xích mích giữa Niggle và Parish, vì Paris
 
 Tại thời điểm này, Niggle chia tay Parish, lên đường đi xuyên qua những ngọn núi, hy vọng khám phá được điều gì nằm ngoài chúng.
 
-Trong khi Niggle đi xuyên núi, ông ta không bao giờ phát hiện ra rằng tên của mình trong đời là chủ đề tranh luận giữa ba người đàn ông khác nhau trong Hội.
+Trong khi Niggle đi xuyên núi, ông không bao giờ phát hiện ra rằng tên của mình trong đời là chủ đề tranh luận giữa ba người đàn ông khác nhau trong Hội.
 
-Một trong những người đàn ông, được gọi là [Ủy viên Tompkins](../C/Councillor_Tompkins.md), khẳng định rằng Niggle chẳng có ích lợi gì cho Xã hội cả. Ông ta bị bác bỏ bởi một hiệu trưởng tên là [Atkins](../A/Atkins.md), người nói rằng điều đó phụ thuộc vào ý nghĩa của Tompkins khi nói “sử dụng”.
+Một trong những người đàn ông, được gọi là [Ủy viên Tompkins](../C/Councillor_Tompkins.md), khẳng định rằng Niggle chẳng có ích lợi gì cho Xã hội cả. Ông bị bác bỏ bởi một hiệu trưởng tên là [Atkins](../A/Atkins.md), người nói rằng điều đó phụ thuộc vào ý nghĩa của Tompkins khi nói “sử dụng”.
 
-Đáp lại, Tompkins giải thích rằng ý của ông ta là sử dụng thực tế và nếu ông ta điều hành đất nước, ông ta sẽ buộc Niggle làm một công việc như rửa bát hoặc “đuổi ông ta đi”.
+Đáp lại, Tompkins giải thích rằng ý của ông là sử dụng thực tế và nếu ông điều hành đất nước, ông sẽ buộc Niggle làm một công việc như rửa bát hoặc “đuổi ông đi”.
 
-Atkins hỏi liệu ông ta có ý rằng ông ta sẽ khiến Niggle bắt đầu cuộc hành trình của mình "trước thời đại" hay không.
+Atkins hỏi liệu ông có ý rằng ông sẽ khiến Niggle bắt đầu cuộc hành trình của mình "trước thời đại" hay không.
 
-Về điều này, Tompkins một lần nữa khẳng định, mặc dù ông chỉ trích Atkins vì đã sử dụng cách diễn đạt này và ông thích cụm từ "Đẩy ông ta qua đường hầm vào Đống rác lớn".
+Về điều này, Tompkins một lần nữa khẳng định, mặc dù ông chỉ trích Atkins vì đã sử dụng cách diễn đạt này và ông thích cụm từ "Đẩy ông qua đường hầm vào Đống rác lớn".
 
 Atkins tiếp tục hỏi liệu ông có thực sự tin rằng bức tranh đó là vô giá trị hay không.
 
@@ -86,7 +86,7 @@ Câu trả lời của Tompkin là ông coi một số bức tranh cũng hữu �
 
 Tại thời điểm này, Atkins bày tỏ sự thương hại của mình đối với Niggle, nhưng cũng tiết lộ rằng ông đã lưu lại một phần của bức tranh: một phần mô tả “một đỉnh núi và một chùm lá”.
 
-Một người đàn ông khác ở gần đó tên là [Perkins](../P/Perkins.md), cố gắng tham gia cuộc trò chuyện. Tuy nhiên, cùng lúc đó, Tompkins cố gắng rời khỏi cuộc trò chuyện. Tuy nhiên, Atkins lên án Tompkins vì đã rời khỏi nhà Niggle bất chấp niềm tin của ông ta.
+Một người đàn ông khác ở gần đó tên là [Perkins](../P/Perkins.md), cố gắng tham gia cuộc trò chuyện. Tuy nhiên, cùng lúc đó, Tompkins cố gắng rời khỏi cuộc trò chuyện. Tuy nhiên, Atkins lên án Tompkins vì đã rời khỏi nhà Niggle bất chấp niềm tin của ông.
 
 Cuộc trò chuyện kết thúc với việc Perkins tiết lộ rằng anh chưa bao giờ biết rằng Niggle đã vẽ.
 
@@ -96,7 +96,7 @@ Người ta tiết lộ rằng mặc dù tên của Niggle không bao giờ đư
 
 The First Voice đề xuất rằng họ phải đặt tên cho khu vực.
 
-Tuy nhiên, Giọng nói thứ hai tuyên bố rằng Người khuân vác đã giải quyết vấn đề từ lâu, khi ông ta thông báo về sự xuất hiện của "Chuyến tàu đến [Giáo xứ Niggle](../N/Niggle's_Parish.md) trong vịnh". Giọng nói thứ hai tuyên bố ngay sau đó họ đã gửi tin nhắn cho Niggle và ông Parish để xem họ nghĩ gì về cái tên này.
+Tuy nhiên, Giọng nói thứ hai tuyên bố rằng Người khuân vác đã giải quyết vấn đề từ lâu, khi ông thông báo về sự xuất hiện của "Chuyến tàu đến [Giáo xứ Niggle](../N/Niggle's_Parish.md) trong vịnh". Giọng nói thứ hai tuyên bố ngay sau đó họ đã gửi tin nhắn cho Niggle và ông Parish để xem họ nghĩ gì về cái tên này.
 
 Giọng nói thứ nhất ép Giọng nói thứ hai nói ra những gì họ nghĩ và được cho biết:
 

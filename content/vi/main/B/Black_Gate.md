@@ -109,7 +109,7 @@ Black Gate còn được gọi là Morannon,<sup id="cite_ref-Closed_3-4" class=
 
 <dl><dd>Cổng Đen hiện diện trong loạt phim. trong <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">phim thứ hai</a> nó xuất hiện dưới dạng một cổng đôi, do Troll vận hành, trong đó <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> và <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> cố gắng đi qua Cổng cho đến khi bị <a href="../G/Gollum.md" title="Gollum">Gollum</a> thuyết phục không làm như vậy. Trong <a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">bộ phim thứ ba</a> Cổng Đen là tâm điểm của <a href="Battle_of_the_Morannon.md" title="Battle of the Morannon">Trận Morannon</a>, và sau khi <a href="../T/The_One_Ring.md" title="The One Ring"> Nhẫn Chúa</a> bị phá hủy, Cổng Đen và <a href="../T/Towers_of_the_Teeth.md" title="Towers of the Teeth">Tháp Răng</a> được coi là sụp đổ.</dd></dl>
 
-<b><a href="../_/2017.md" title="2017">2017</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2017.md" title="2017">2017</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cổng Đen xuất hiện trong trò chơi dưới dạng vị trí của một số nhiệm vụ dẫn đến việc đánh bại <a href="../S/Sauron.md" title="Sauron">Sauron</a>.</dd></dl>
 

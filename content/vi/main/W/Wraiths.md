@@ -60,7 +60,7 @@ Trong một bản dự thảo khác, người ta nói rằng [Những Chiếc Nh
 
 <dl><dd>Ma là loại phổ biến nhất trong ba loại <a href="../G/Ghosts.md" title="Ghosts">ma</a> (loại còn lại là <a href="../P/Phantoms.md" title="Phantoms">bóng ma</a> và <a href="Wights.md" title="Wights">ma</a>). Bóng ma không có hình dạng vật chất, hữu hình và chỉ bao gồm linh hồn của một người mong muốn thực hiện mục tiêu xấu xa sau khi chết.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Wraith đề cập đến loại sinh vật Vô hình bao gồm <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> và nạn nhân của <a href="../M/Morgul-knife.md" title="Morgul-knife">những lưỡi dao Morgul</a>. Những linh hồn còn sót lại, bị nguyền rủa của Con Người chẳng hạn như <a href="../O/Oathbreakers.md" title="Oathbreakers">Người chết Con Người của Dunharrow</a> được gọi là Bóng tối và được phân loại là Người chết. Wraith xuất hiện với tư cách là thủ lĩnh của Kẻ Thù và lực lượng tinh nhuệ ở nhiều khu vực. Những hồn ma thường gặp nhất là Cargûl mặc áo choàng đỏ. Một trong những nhân vật phản diện chính của trò chơi, <a class="mw-redirect" href="../M/Mordirith.md" title="Mordirith">Mordirith</a>, là một hồn ma và là Quản gia của <a href="../A/Angmar.md" title="Angmar">Angmar</a>.</dd></dl>
 

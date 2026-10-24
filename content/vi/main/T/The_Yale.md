@@ -46,7 +46,7 @@ Yale chỉ xuất hiện trong văn bản cũng như trong bản đồ *[A Part 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Yale đề cập đến "Yale-height", một đỉnh đồi có tàn tích <a href="../A/Arnor.md" title="Arnor">Arnorian</a> cũ nằm ở phía đông <a href="../W/Woodhall.md" title="Woodhall">Woodhall</a>.</dd></dl>
 

@@ -59,7 +59,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Được tạo bởi [Celebrimbor](../C/Celebrimbor.md) sau khi *Annatar* rời khỏi [Eregion](../E/Eregion.md), nó không chịu ảnh hưởng của Annatar([Sauron](../S/Sauron.md)) do thực tế là Tiên tộc đã giấu ba chiếc nhẫn của họ với ông ta khi nhận ra ý định của ông ta, nhưng nó vẫn bị ràng buộc với [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
+Được tạo bởi [Celebrimbor](../C/Celebrimbor.md) sau khi *Annatar* rời khỏi [Eregion](../E/Eregion.md), nó không chịu ảnh hưởng của Annatar([Sauron](../S/Sauron.md)) do thực tế là Tiên tộc đã giấu ba chiếc nhẫn của họ với ông khi nhận ra ý định của ông, nhưng nó vẫn bị ràng buộc với [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
 
 Sau khi [Gandalf](../G/Gandalf.md) đến [Trung Địa](../M/Middle-earth.md) vào khoảng [T.A.](../T/Third_Age.md) [1000](../T/Third_Age_1000.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> tại [Cảng Xám](../G/Grey_Havens.md) vào [Lindon](../L/Lindon.md) Círdan đã đưa *Narya* cho Gandalf để hỗ trợ ông trong công việc<sup id="cite_ref-TA_6-1" class="reference"><a href="#cite_note-TA-6">[6]</a></sup>.
 

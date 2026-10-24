@@ -208,11 +208,11 @@ Quá trình công nghiệp hóa Shire dựa trên trải nghiệm của Tolkien 
 
 <dl><dd>The Shire là cấp độ đầu tiên của trò chơi. Không giống như câu chuyện gốc, Bilbo phải thực hiện nhiều nhiệm vụ phụ khác nhau trước khi đến được <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Rồng</a>.</dd></dl>
 
-<b>2006: <i><a href="The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>The Shire là chiến trường xuất hiện trong chiến dịch Ác ma và chế độ giao tranh.</dd></dl>
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>The Shire là một trong những khu vực bắt đầu của trò chơi, nơi Hobbit-các nhân vật bắt đầu, được thể hiện gần như toàn bộ - trên bản đồ gốc bởi Christopher Tolkien chỉ một số phần của <a href="../W/Westfarthing.md" title="Westfarthing">Westfarthing</a> và <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> không được thể hiện. Ngoài ra, một phần của <a href="../N/Northfarthing.md" title="Northfarthing">Northfarthing</a> được đặt trong ranh giới của vùng <a href="../E/Evendim.md" title="Evendim">Evendim</a> nhằm mục đích chơi trò chơi. The Shire là nơi sinh sống của hàng trăm nhân vật không thể chơi được, tham gia vào hàng trăm nhiệm vụ.</dd></dl>
 

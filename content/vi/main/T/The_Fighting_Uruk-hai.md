@@ -32,8 +32,8 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Trong tòa tháp [Orthanc](../O/Orthanc.md) ở [Isengard](../I/Isengard.md), [Saruman](../S/Saruman.md) đang kể cho [Lurtz](../L/Lurtz.md) về cách [Orc](../O/Orcs.md) ra đời. Trước đây Tiên tộc, họ đã bị Thế lực Bóng tối bắt giữ, tra tấn và cắt xẻo thành một dạng sống khủng khiếp, giờ được hoàn thiện bởi Saruman với tên gọi [Uruk-hai](../U/Uruk-hai.md). Sau đó, ông ta hỏi Lurtz ông ta phục vụ ai và ông ta trả lời, "Saruman."
+Trong tòa tháp [Orthanc](../O/Orthanc.md) ở [Isengard](../I/Isengard.md), [Saruman](../S/Saruman.md) đang kể cho [Lurtz](../L/Lurtz.md) về cách [Orc](../O/Orcs.md) ra đời. Trước đây Tiên tộc, họ đã bị Thế lực Bóng tối bắt giữ, tra tấn và cắt xẻo thành một dạng sống khủng khiếp, giờ được hoàn thiện bởi Saruman với tên gọi [Uruk-hai](../U/Uruk-hai.md). Sau đó, ông hỏi Lurtz ông phục vụ ai và ông trả lời, "Saruman."
 
-Theo Isengard, Uruk-hai đã sẵn sàng tham chiến, vẽ mặt bằng [Bàn tay trắng](../W/White_Hand.md) của Saruman, đồng thời trang bị vũ khí và trang bị cho mình. Saruman mang đến cho họ một bài phát biểu sôi nổi, khiến Uruk-hai cổ vũ. Sau đó, ông ta quay sang Lurtz, ra lệnh cho ông ta [một trong những người lai](../F/Frodo_Baggins.md) mang [một món đồ có giá trị lớn](The_One_Ring.md), và chúng phải được mang đến cho ông ta còn sống và nguyên vẹn. Họ phải giết những người khác.
+Theo Isengard, Uruk-hai đã sẵn sàng tham chiến, vẽ mặt bằng [Bàn tay trắng](../W/White_Hand.md) của Saruman, đồng thời trang bị vũ khí và trang bị cho mình. Saruman mang đến cho họ một bài phát biểu sôi nổi, khiến Uruk-hai cổ vũ. Sau đó, ông quay sang Lurtz, ra lệnh cho ông [một trong những người lai](../F/Frodo_Baggins.md) mang [một món đồ có giá trị lớn](The_One_Ring.md), và chúng phải được mang đến cho ông còn sống và nguyên vẹn. Họ phải giết những người khác.
 
 Theo lệnh được đưa ra, Lurtz dẫn đầu Uruk-hai ra khỏi Isengard, bắt đầu cuộc săn lùng [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).

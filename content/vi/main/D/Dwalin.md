@@ -250,7 +250,7 @@ Nổi tiếng là một Chiến binh vĩ đại, Dwalin luôn thẳng thắn bà
 
 <dl><dd>Dwalin là một Người Lùn có râu xanh, người không được nhìn thấy trong trò chơi (trừ các đoạn cắt cảnh) cho đến <a href="../L/Lake-town.md" title="Lake-town">Thị trấn Hồ</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3016.md" title="Third Age 3016">3016</a>, trong phần giới thiệu mặc định cho các nhân vật người chơi Người Lùn và Tiên mới, Dwalin dẫn đầu một nhóm người lùn từ <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Ngọn Núi Cô Đơn</a> đến Sảnh của <a class="mw-redirect" href="../T/Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Thorin</a> để điều tra lý do tại sao Quản gia được bổ nhiệm bởi Thorin, Gormr Doursmith của <a href="Dourhands.md" title="Dourhands">Dourhands</a>, đã ngừng gửi cống phẩm cho <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>. Sau khi hành vi phản bội của Dourhands bị bại lộ và họ bị trục xuất, Dwalin trở thành Quản lý mới của Sảnh Thorin và duy trì vị trí này cho đến <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>.</dd></dl>
 

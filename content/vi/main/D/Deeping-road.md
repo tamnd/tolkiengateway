@@ -35,7 +35,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đường Deeping tách khỏi <a href="../G/Great_West_Road.md" title="Great West Road">Great West Road</a> tại làng "Marton" và chạy về phía nam tới <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>.</dd></dl>
 

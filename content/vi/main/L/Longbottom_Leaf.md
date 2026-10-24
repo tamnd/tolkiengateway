@@ -58,7 +58,7 @@ Các thùng Lá Longbottom được [Saruman](../S/Saruman.md) cất giữ ở [
 
 <dl><dd>Trong cảnh <a href="../F/Flotsam_and_Jetsam_(scene).md" title="Flotsam and Jetsam (scene)">Flotsam và Jetsam</a> của <a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">phiên bản mở rộng</a>, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> và <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> đột kích Phòng chứa đồ của <a href="../S/Saruman.md" title="Saruman">Saruman</a> ở <a href="../I/Isengard.md" title="Isengard">Isengard</a> sau <a href="../B/Battle_of_Isengard.md" title="Battle of Isengard">Tháng 3 năm ngoái của Ent</a>. Họ khám phá những thùng Longbottom Leaf và tranh luận xem có nên chia sẻ nó với <a href="../T/Treebeard.md" title="Treebeard">Treebeard</a> hay không. Cuối cùng, họ quyết định giữ nó cho riêng mình, tinh nghịch đưa ra ý tưởng rằng nó có thể là 'họ hàng xa' của mình.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Khói từ Longbottom Leaf có dạng vòng khói nằm ngang xuất hiện phía sau đầu nhân vật. Hiệu ứng này dường như bị hỏng hoặc bị lỗi. Từ phía trước, chỉ có thể nhìn thấy đám khói dày mặc định.</dd></dl>
 

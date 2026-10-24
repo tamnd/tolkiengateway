@@ -47,11 +47,11 @@ Ratbag là sản phẩm sáng tạo đầu tiên dành cho *[Middle-earth: Shado
 
 ## Lịch sử {#History}
 
-Bên ngoài phía tây của [Durthang](../D/Durthang.md), Ratbag bị trói vào cột và bị đội trưởng của hắn, "Goroth Caragor Tamer", để cho thối rữa. Sau một thời gian trôi qua, người kiểm lâm chỉ được biết đến với cái tên Talion the Gravewalker đã được dụ dỗ và thỏa thuận với uruk. Nếu Talion giúp ông ta trở thành Thống chiến thì ông ta sẽ rút ra [Bàn tay đen của Sauron](../B/Black_Hand.md). Ngoài ra, Ratbag còn thề rằng mọi uruk dưới quyền chỉ huy của ông ta sẽ cản trở nhiệm vụ của Talion. Tuy nhiên, mặc dù vậy, ông ta không thể nói thay mặt các Warchief khác.
+Bên ngoài phía tây của [Durthang](../D/Durthang.md), Ratbag bị trói vào cột và bị đội trưởng của hắn, "Goroth Caragor Tamer", để cho thối rữa. Sau một thời gian trôi qua, người kiểm lâm chỉ được biết đến với cái tên Talion the Gravewalker đã được dụ dỗ và thỏa thuận với uruk. Nếu Talion giúp ông trở thành Thống chiến thì ông sẽ rút ra [Bàn tay đen của Sauron](../B/Black_Hand.md). Ngoài ra, Ratbag còn thề rằng mọi uruk dưới quyền chỉ huy của ông sẽ cản trở nhiệm vụ của Talion. Tuy nhiên, mặc dù vậy, ông không thể nói thay mặt các Warchief khác.
 
-Cuối cùng, sau khi tất cả các Thống chiến khác bị giết, "Búa của Sauron" xuất hiện, hoài nghi rằng trong số tất cả các Thống chiến, Ratbag là người duy nhất còn sống, Người tuyên bố rằng các Thủ chiến khác đã bỏ mạng trong trận chiến. Thật không may cho Ratbag, "Búa Sauron" đã ném Ratbag đi bằng chùy của ông ta, dường như đã giết chết ông ta.
+Cuối cùng, sau khi tất cả các Thống chiến khác bị giết, "Búa của Sauron" xuất hiện, hoài nghi rằng trong số tất cả các Thống chiến, Ratbag là người duy nhất còn sống, Người tuyên bố rằng các Thủ chiến khác đã bỏ mạng trong trận chiến. Thật không may cho Ratbag, "Búa Sauron" đã ném Ratbag đi bằng chùy của ông, dường như đã giết chết ông.
 
-Rất lâu sau đó (trong [Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)) người ta mới tiết lộ rằng Ratbag còn sống và trở thành đồng minh của [Olog](../O/Olog-hai.md) Az-Harto, người mà ông ta gọi là "Ranger". Bằng cách nào đó, hai người họ đã chiếm được pháo đài Sharkburz ở [Nurn](../N/Nurn.md). Đồng thời, họ đã tự tạo nên huyền thoại về mình là một [troll](../T/Trolls.md) hai đầu có tên là "[The Etten](../E/Etten.md)".
+Rất lâu sau đó (trong [Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)) người ta mới tiết lộ rằng Ratbag còn sống và trở thành đồng minh của [Olog](../O/Olog-hai.md) Az-Harto, người mà ông gọi là "Ranger". Bằng cách nào đó, hai người họ đã chiếm được pháo đài Sharkburz ở [Nurn](../N/Nurn.md). Đồng thời, họ đã tự tạo nên huyền thoại về mình là một [troll](../T/Trolls.md) hai đầu có tên là "[The Etten](../E/Etten.md)".
 
 ## Từ nguyên {#Etymology}
 

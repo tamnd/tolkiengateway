@@ -70,7 +70,7 @@ Hồ dài khoảng 20 dặm từ bắc tới nam, và rộng 10 dặm. Hồ đư
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Nen_Hithoel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/34/The_Lord_of_the_Rings_Online_-_Nen_Hithoel.jpg/250px-The_Lord_of_the_Rings_Online_-_Nen_Hithoel.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/34/The_Lord_of_the_Rings_Online_-_Nen_Hithoel.jpg/375px-The_Lord_of_the_Rings_Online_-_Nen_Hithoel.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/34/The_Lord_of_the_Rings_Online_-_Nen_Hithoel.jpg/500px-The_Lord_of_the_Rings_Online_-_Nen_Hithoel.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>Nen Hithoel in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Chỉ có thể truy cập được bờ phía tây của Nen Hithoel trong trò chơi.</dd></dl>
 

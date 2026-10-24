@@ -67,7 +67,7 @@ Thuật ngữ <i><a class="extiw" href="http://en.wiktionary.org/wiki/dwarrowdam
 
 <dl><dd>Một số phụ nữ Người Lùn có thể được nhìn thấy thoáng qua ở đầu phim, khi câu chuyện về sự tàn phá của Erebor được kể lại. Một số phụ nữ có râu, trong khi một số có tóc mai có độ dài khác nhau.</dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sau khi đã được đề cập trước đó, nữ Người Lùn xuất hiện lần đầu tiên tại Erebor, đặc biệt là <a href="Dís.md" title="Dís">Dís</a>. Trong khi một số nhân vật đặc biệt như bà có vẻ ngoài rất nữ tính (nhưng vẫn có râu), hầu hết Người Lùn nữ nữ trong trò chơi đều có chung hình mẫu nhân vật với nam giới. Họ thường có giọng nói nữ tính hơn, nhưng không phải trong mọi trường hợp.</dd></dl>
 

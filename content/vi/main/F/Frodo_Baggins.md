@@ -487,25 +487,25 @@ Trong bản dịch tiếng Đức, ông được gọi là *Frodo Beutlin*; tron
 
 <dl><dd>Frodo xuất hiện trong tất cả các nhiệm vụ dưới góc nhìn của Sam: trốn thoát khỏi <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>, Hang ổ Shelob, Cirith Ungol và Crack of Doom. Sau khi hoàn thành trò chơi, người chơi có thể chơi lại các nhiệm vụ đó dưới góc nhìn của Frodo.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
 
 <dl><dd>Frodo là một đơn vị “Anh Hùng” thuộc Dân Tự Do; khả năng sử dụng Nhẫn Chúa và tàng hình khiến cậu trở thành lựa chọn lý tưởng cho các nhiệm vụ do thám.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Không giống hầu hết các nhân vật khác, Frodo và Sam không xuất hiện trong các trận Skirmish mà chỉ xuất hiện trong chiến dịch cốt truyện.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Frodo và các Hobbit khác không còn là những đơn vị cố định nữa mà giờ đây trở thành hiệu ứng tăng sức mạnh tạm thời dành cho lực lượng Các Dân tộc Tự do.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
-<dl><dd>Frodo gặp nhau lần đầu vào Rivendell, chuẩn bị khởi hành. Sau đó, ông ta được tìm thấy trên Cerin Amroth ở Lothlorien, mệt mỏi vì mất đi <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>. Từ <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a> trở đi, người chơi trải nghiệm hành trình của Frodo trong một loạt Phiên chơi, hoặc chơi dưới dạng Frodo, Sam hoặc <a href="../G/Gollum.md" title="Gollum">Gollum</a>. Người chơi gặp lại Frodo tại <a href="Field_of_Cormallen.md" title="Field of Cormallen">Cánh đồng Cormallen</a>, sau đó phát biểu tại <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và <a href="../A/Arwen.md" title="Arwen">Arwen</a>. Một diễn viên Hobbit đóng vai Frodo Baggins trong vở kịch do Hobbit dàn dựng "Sự biến mất của người điên Baggins". Đáng chú ý, người chơi không được thông báo về nhiệm vụ của Frodo trong một thời gian rất dài, với <a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và những người khác chỉ nói rằng nó "có tầm quan trọng lớn".</dd></dl>
+<dl><dd>Frodo gặp nhau lần đầu vào Rivendell, chuẩn bị khởi hành. Sau đó, ông được tìm thấy trên Cerin Amroth ở Lothlorien, mệt mỏi vì mất đi <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>. Từ <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a> trở đi, người chơi trải nghiệm hành trình của Frodo trong một loạt Phiên chơi, hoặc chơi dưới dạng Frodo, Sam hoặc <a href="../G/Gollum.md" title="Gollum">Gollum</a>. Người chơi gặp lại Frodo tại <a href="Field_of_Cormallen.md" title="Field of Cormallen">Cánh đồng Cormallen</a>, sau đó phát biểu tại <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và <a href="../A/Arwen.md" title="Arwen">Arwen</a>. Một diễn viên Hobbit đóng vai Frodo Baggins trong vở kịch do Hobbit dàn dựng "Sự biến mất của người điên Baggins". Đáng chú ý, người chơi không được thông báo về nhiệm vụ của Frodo trong một thời gian rất dài, với <a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và những người khác chỉ nói rằng nó "có tầm quan trọng lớn".</dd></dl>
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
 
-<dl><dd>Frodo được đề cập là <b>"Frodo Người Mang Nhẫn"</b>, một trong những anh hùng được vinh danh của <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, trong phần giới thiệu trò chơi.<br/>Trong <a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a> <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> kể rằng ông ta đang chờ đợi một <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> với <a href="../T/The_One_Ring.md" title="The One Ring">một gánh nặng quan trọng</a>, điều này đề cập đến Frodo và Chiếc Nhẫn Một.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup></dd>
+<dl><dd>Frodo được đề cập là <b>"Frodo Người Mang Nhẫn"</b>, một trong những anh hùng được vinh danh của <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, trong phần giới thiệu trò chơi.<br/>Trong <a href="../T/The_Prancing_Pony.md" title="The Prancing Pony">The Prancing Pony</a> <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> kể rằng ông đang chờ đợi một <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> với <a href="../T/The_One_Ring.md" title="The One Ring">một gánh nặng quan trọng</a>, điều này đề cập đến Frodo và Chiếc Nhẫn Một.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup></dd>
 <dd>Về sau trong trò chơi, Frodo xuất hiện tại <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, nhưng những lần tương tác với cậu không ảnh hưởng đến cốt truyện chính.</dd></dl>
 
 ## Xem thêm {#See_also}

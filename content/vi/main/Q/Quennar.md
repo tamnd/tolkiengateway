@@ -50,7 +50,7 @@ Quennar được biết là đã cư trú tại [Tirion](../T/Tirion.md) vào th
 
 *Onótimo* rõ ràng có nghĩa là "Người tính toán", bắt nguồn từ động từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Onot-&amp;action=edit&amp;redlink=1" title="Onot- (page does not exist)">onot-</a></i> 'đếm lên' và hậu tố đại lý nam tính *[-mo](../_/-mo.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Vì vậy, danh hiệu đầy đủ của ông ta dường như là "Quennar the Reckoner".
+Vì vậy, danh hiệu đầy đủ của ông dường như là "Quennar the Reckoner".
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

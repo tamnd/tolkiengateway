@@ -82,7 +82,7 @@ Vào ngày [15 tháng 1](../_/15_January.md) năm [3019](../T/Third_Age_3019.md)
 		</li>
 </ul>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ở thời điểm hiện tại, các cổng phương Đông của Moria đã bị hỏng và không có gì đáng chú ý. Tuy nhiên, chúng có thể được nhìn thấy một cách đầy vinh quang trong đoạn hồi tưởng mô tả <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a>.</dd></dl>
 

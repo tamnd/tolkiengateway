@@ -55,7 +55,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Othrod nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrog](../B/Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Othrod cuối cùng đã bị giết bởi Tuor, kẻ dùng rìu của ông ta, [Dramborleg](../D/Dramborleg.md), trong quá trình đó.<sup id="cite_ref-LT2Gondolin_1-1" class="reference"><a href="#cite_note-LT2Gondolin-1">[1]</a></sup>
+Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Othrod nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrog](../B/Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Othrod cuối cùng đã bị giết bởi Tuor, kẻ dùng rìu của ông, [Dramborleg](../D/Dramborleg.md), trong quá trình đó.<sup id="cite_ref-LT2Gondolin_1-1" class="reference"><a href="#cite_note-LT2Gondolin-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -30,7 +30,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cổng chỉ chạy một đoạn ngắn trước khi chia thành hai con đường dẫn về phía cổng phía bắc và phía nam của <a href="../R/Rammas_Echor.md" title="Rammas Echor">Ramas Echor</a>.</dd></dl>
 

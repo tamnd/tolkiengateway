@@ -45,7 +45,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) xuất hiện, Elemmakil rất ngạc nhiên khi thấy người bạn Voronwë lại mang theo một người phàm. Ông ta tuyên bố rằng theo luật, ông ta nên giết ông ta. Voronwë và Tuor trả lời rằng họ đến theo lệnh của [Ulmo](../U/Ulmo.md). Sau đó, Elemmakil đã hướng dẫn cả hai đi qua [Bảy Cánh Cổng](../S/Seven_Gates_of_Gondolin.md) của [Orfalch Echor](../O/Orfalch_Echor.md), cho đến khi ông ta đưa họ đến [Ecthelion của Đài phun nước](Ecthelion.md), sau đó giữ chức [Người canh giữ Cổng Lớn](../W/Warden_of_the_Great_Gate.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) xuất hiện, Elemmakil rất ngạc nhiên khi thấy người bạn Voronwë lại mang theo một người phàm. Ông tuyên bố rằng theo luật, ông nên giết ông. Voronwë và Tuor trả lời rằng họ đến theo lệnh của [Ulmo](../U/Ulmo.md). Sau đó, Elemmakil đã hướng dẫn cả hai đi qua [Bảy Cánh Cổng](../S/Seven_Gates_of_Gondolin.md) của [Orfalch Echor](../O/Orfalch_Echor.md), cho đến khi ông đưa họ đến [Ecthelion của Đài phun nước](Ecthelion.md), sau đó giữ chức [Người canh giữ Cổng Lớn](../W/Warden_of_the_Great_Gate.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

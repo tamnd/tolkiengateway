@@ -37,7 +37,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông ta là một trong những [nhà Cây](../H/House_of_the_Tree.md), một trinh sát dưới quyền [Galdor](<../G/Galdor_(elf_of_Gondolin).md>). Nhờ đôi mắt tinh tường và hiểu biết về vùng núi, anh đã được những [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) trốn thoát chọn làm người dẫn đầu và hướng dẫn họ băng qua [Cristhorn](../C/Cirith_Thoronath.md).<sup id="cite_ref-III_1-0" class="reference"><a href="#cite_note-III-1">[1]</a></sup>
+Ông là một trong những [nhà Cây](../H/House_of_the_Tree.md), một trinh sát dưới quyền [Galdor](<../G/Galdor_(elf_of_Gondolin).md>). Nhờ đôi mắt tinh tường và hiểu biết về vùng núi, anh đã được những [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) trốn thoát chọn làm người dẫn đầu và hướng dẫn họ băng qua [Cristhorn](../C/Cirith_Thoronath.md).<sup id="cite_ref-III_1-0" class="reference"><a href="#cite_note-III-1">[1]</a></sup>
 
 Sau mùa thu, anh chuyển đến [Tol Eressëa](../T/Tol_Eressëa.md), nơi anh được đặt tên là <i><b>Laiqalassë</b></i>.<sup id="cite_ref-IIIn_2-0" class="reference"><a href="#cite_note-IIIn-2">[2]</a></sup>
 

@@ -213,11 +213,11 @@ Một nguồn cảm hứng khả thi (do [David Salo](../D/David_Salo.md)<sup id
 
 <dl><dd>Rivendell là cấp độ thứ năm và là cấp độ đầu tiên không cần phải chiến đấu. Sau khi Frodo được Rivendell đưa đến <a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a>, ông được đánh thức lần đầu bởi <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>; sau đó, <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Hội đồng Elrond</a> bắt đầu. Sau hội đồng, có cơ hội nói chuyện với các NPC - <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>, <a href="../A/Arwen.md" title="Arwen">Arwen</a>, <a href="../B/Boromir.md" title="Boromir">Boromir</a>, <a href="../E/Elrond.md" title="Elrond">Elrond</a>, <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../G/Gimli.md" title="Gimli">Gimli</a>, <a href="../L/Legolas.md" title="Legolas">Legolas</a>, <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a>, <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> và <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a>. Trò chơi tiếp tục bằng cách bước vào một cánh cửa. Sau đó là một đoạn cắt cảnh ngắn trong đó Bilbo tặng <a href="../S/Sting.md" title="Sting">Sting</a> và <i><a href="../M/Mithril.md" title="Mithril">mithril</a></i> áo.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Rivendell là một trong những chiến trường của trò chơi, đồng thời là nơi diễn ra cuộc giao tranh giữa Tiên tộc và Goblin.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Rivendell là một trong những thành phố lớn của trò chơi, nằm giữa Trollshaws và Dãy Núi Sương Mù. Rivendell cũng là một trong những địa điểm người chơi có thể chọn làm quê hương cho nhân vật thuộc Tiên tộc. Ngôi nhà thân thuộc cuối cùng chỉ dinh thự rộng lớn của Elrond, chứ không phải toàn bộ khu trú ẩn Rivendell. Dinh thự nằm ở phía đông Rivendell. Tại đây có thư viện của Elrond, <a href="../H/Hall_of_Fire.md" title="Hall of Fire">Hall of Fire</a>, phường hội học giả và nhiều phòng dành cho khách.</dd></dl>
 

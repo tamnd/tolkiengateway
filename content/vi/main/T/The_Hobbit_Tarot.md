@@ -90,7 +90,7 @@ infobox:
 - *Four of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) tìm kiếm trong đám [Smaug](../S/Smaug.md) ở [Erebor](../L/Lonely_Mountain.md)
 - *Five of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) trong [Mirkwood](../M/Mirkwood.md)
 - *Six of Coins*: [Bilbo](../B/Bilbo_Baggins.md) và [nhóm Người Lùn](Thorin_and_Company.md) đang tìm kiếm thông qua đám [Smaug](../S/Smaug.md) ở [Erebor](../L/Lonely_Mountain.md)
-- *Seven of Coins*: [Bilbo](../B/Bilbo_Baggins.md) cố gắng lấy lại chiếc thùng đầu tiên mà ông ta và [người Người Lùn](Thorin_and_Company.md) đã trốn thoát được [Sảnh của Vua Tiên](../E/Elvenking's_Halls.md)
+- *Seven of Coins*: [Bilbo](../B/Bilbo_Baggins.md) cố gắng lấy lại chiếc thùng đầu tiên mà ông và [người Người Lùn](Thorin_and_Company.md) đã trốn thoát được [Sảnh của Vua Tiên](../E/Elvenking's_Halls.md)
 - *Eight of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) băng qua [Sông Đen](../E/Enchanted_River.md)
 - *Nine of Coins*: [Bilbo](../B/Bilbo_Baggins.md) quyết định giao [ Arkenstone](../A/Arkenstone.md) cho [Bard](../B/Bard.md) và [ Vua Tiên](Thranduil.md)
 - *Ten of Coins*: đám [Smaug](../S/Smaug.md) ở [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)
@@ -128,7 +128,7 @@ infobox:
 - *Eight of Swords*: [ Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) chụp [Thorin](Thorin.md)
 - *Nine of Swords*: [Người Hồ](../L/Lake-men.md), [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) và [Người Lùn](Thorin_and_Company.md) nghe tin quân đội [Goblin](../O/Orcs.md) của [Bolg](../B/Bolg.md) đang đến
 - *Ten of Swords*: Phần thân của [Thorin](Thorin.md)
-- *Page of Swords*: [Bilbo](../B/Bilbo_Baggins.md) tiêu diệt kẻ thù đầu tiên của mình bằng [thanh kiếm](../S/Sting.md): một [con nhện](../S/Spiders.md) của [Mirkwood](../M/Mirkwood.md). Ông ta đặt tên cho thanh kiếm là "[Sting](../S/Sting.md)"
+- *Page of Swords*: [Bilbo](../B/Bilbo_Baggins.md) tiêu diệt kẻ thù đầu tiên của mình bằng [thanh kiếm](../S/Sting.md): một [con nhện](../S/Spiders.md) của [Mirkwood](../M/Mirkwood.md). Ông đặt tên cho thanh kiếm là "[Sting](../S/Sting.md)"
 - *Knight of Swords*: Một [Người hồ](../L/Lake-men.md) bọc thép chuẩn bị cho trận chiến
 - *Queen of Swords*: Một nữ thủ lĩnh [Warg](../W/Wargs.md) thương tiếc sự ra đi của người thân trong [Trận chiến của năm cánh quân](../B/Battle_of_the_Five_Armies.md)
 - *King of Swords*: [Thorin Oakenshield](Thorin.md)

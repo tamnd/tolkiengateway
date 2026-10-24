@@ -54,7 +54,7 @@ Có thể Framsburg đã bị bỏ hoang vào khoảng [T.A.](../T/Third_Age.md)
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Framsburg.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_Online_-_Framsburg.jpg/300px-The_Lord_of_the_Rings_Online_-_Framsburg.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_Online_-_Framsburg.jpg/450px-The_Lord_of_the_Rings_Online_-_Framsburg.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b2/The_Lord_of_the_Rings_Online_-_Framsburg.jpg/600px-The_Lord_of_the_Rings_Online_-_Framsburg.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Framsburg in <i>The Lord of the Rings Online</i></figcaption></figure>
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bạn có thể tham quan và khám phá tàn tích của Framsburg ở vùng "Giếng <a href="../A/Anduin.md" title="Anduin">Langflood</a>".</dd></dl>
 

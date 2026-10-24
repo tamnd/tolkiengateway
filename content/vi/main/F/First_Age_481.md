@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Túrin](../T/Túrin.md) trở thành bạn đồng hành của [Beleg](../B/Beleg.md) và tham gia cùng ông ta trong trận chiến. Túrin đeo [Mũ Rồng của Dor-lómin](../D/Dragon-helm_of_Dor-lómin.md) lần đầu tiên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Túrin](../T/Túrin.md) trở thành bạn đồng hành của [Beleg](../B/Beleg.md) và tham gia cùng ông trong trận chiến. Túrin đeo [Mũ Rồng của Dor-lómin](../D/Dragon-helm_of_Dor-lómin.md) lần đầu tiên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

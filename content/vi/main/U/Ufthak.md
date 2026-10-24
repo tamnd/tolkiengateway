@@ -23,7 +23,7 @@ images:
 
 ## Lịch sử {#History}
 
-Ufthak bị [Shelob](../S/Shelob.md) bắt và đầu độc rồi bị nhốt trong mạng nhện của bà. [Shagrat](../S/Shagrat.md), chỉ huy của ông ta, nhìn thấy ông ta treo cổ ở đó, nhưng không nỗ lực giải thoát ông ta vì ông ta muốn rời khỏi hang động mà không làm Shelob tức giận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ufthak bị [Shelob](../S/Shelob.md) bắt và đầu độc rồi bị nhốt trong mạng nhện của bà. [Shagrat](../S/Shagrat.md), chỉ huy của ông, nhìn thấy ông treo cổ ở đó, nhưng không nỗ lực giải thoát ông vì ông muốn rời khỏi hang động mà không làm Shelob tức giận.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

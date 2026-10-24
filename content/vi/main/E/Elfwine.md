@@ -62,7 +62,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Elfwine là con trai của Vua [Éomer](../_/Éomer.md) của Rohan và [Lothíriel](../L/Lothíriel.md) của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta được cho là có nét giống ông ngoại đáng kinh ngạc, [Imrahil](../I/Imrahil.md), [Thân vương Dol Amroth](../P/Prince_of_Dol_Amroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Elfwine là con trai của Vua [Éomer](../_/Éomer.md) của Rohan và [Lothíriel](../L/Lothíriel.md) của [Dol Amroth](../D/Dol_Amroth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông được cho là có nét giống ông ngoại đáng kinh ngạc, [Imrahil](../I/Imrahil.md), [Thân vương Dol Amroth](../P/Prince_of_Dol_Amroth.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

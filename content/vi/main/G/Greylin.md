@@ -49,7 +49,7 @@ Thành phần thứ hai của tên bắt nguồn từ [tiếng Anh cổ](../O/Ol
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Greylin bắt nguồn từ vùng "Elderslade" nằm ở phía đông của <a href="Gundabad.md" title="Gundabad">Gundabad</a>. Nó chảy về phía nam qua một số thác nước, thác lớn nhất trong số đó là "Reikfoss of Greylin". Cùng với hai thác <a href="../L/Langwell.md" title="Langwell">Langwell</a> từ cùng một độ cao, Reikfoss tạo ra một đám mây sương mù lớn lên không trung, đặt tên cho khu vực xung quanh là: "Misthallow". Hai con sông hợp lại <a href="../F/Framsburg.md" title="Framsburg">Framsburg</a> tạo thành sông Lớn.</dd></dl>
 

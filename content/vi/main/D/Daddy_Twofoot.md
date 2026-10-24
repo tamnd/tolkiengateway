@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md) ở [Hobbiton](../H/Hobbiton.md), ngay cạnh [Hamfast Gamgee](../G/Gaffer_Gamgee.md) và gia đình ông ta. Ông là khách thường xuyên của [Ivy Bush Inn](../I/Ivy_Bush.md), nơi ông có mặt vào một buổi tối đặc biệt ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), khi Hamfast Gamgee chiêu đãi những khách hàng quen của mình bằng kiến ​​thức về [Bag End](../B/Bag_End.md) và "[Mad Baggins](../B/Bilbo_Baggins.md)". Trong cuộc trò chuyện, bố tán thành thái độ khinh thường của [Old Noakes](../O/Old_Noakes.md) đối với [Người vùng Bucklander](../B/Bucklanders.md), coi họ là những người xa lạ kỳ dị.<sup id="cite_ref-ALEP_1-1" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup>
+Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md) ở [Hobbiton](../H/Hobbiton.md), ngay cạnh [Hamfast Gamgee](../G/Gaffer_Gamgee.md) và gia đình ông. Ông là khách thường xuyên của [Ivy Bush Inn](../I/Ivy_Bush.md), nơi ông có mặt vào một buổi tối đặc biệt ở [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md), khi Hamfast Gamgee chiêu đãi những khách hàng quen của mình bằng kiến ​​thức về [Bag End](../B/Bag_End.md) và "[Mad Baggins](../B/Bilbo_Baggins.md)". Trong cuộc trò chuyện, bố tán thành thái độ khinh thường của [Old Noakes](../O/Old_Noakes.md) đối với [Người vùng Bucklander](../B/Bucklanders.md), coi họ là những người xa lạ kỳ dị.<sup id="cite_ref-ALEP_1-1" class="reference"><a href="#cite_note-ALEP-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -96,7 +96,7 @@ Daddy Twofoot sống trong một cái hố ở [Bagshot Row](../B/Bagshot_Row.md
 
 <dl><dd>Daddy Twofoot sống ở Số Hai, <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a> và có thể được nhìn thấy đang ngồi bên ngoài Green Rồng. Không có diễn viên nào được chỉ định cho phần này.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Được tìm thấy tại nơi ở của ông không xa <a href="../B/Bag_End.md" title="Bag End">Bag End</a>, Daddy Twofoot không đóng vai trò gì trong câu chuyện và chỉ cung cấp một vài dòng trong nhiệm vụ lễ hội theo mùa.</dd></dl>
 

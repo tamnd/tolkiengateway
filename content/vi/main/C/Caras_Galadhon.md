@@ -126,7 +126,7 @@ Trong ấn bản đầu tiên của *[The Fellowship of the Ring](../T/The_Fello
 
 <dl><dd>Các cảnh Caras Galadhon khá ngắn gọn, hầu hết chỉ giới hạn ở cảnh Gương của Galadriel.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Caras Galadhon là khu vực sinh sống chính trong Lothlórien, nơi người chơi không thể vào cho đến khi chứng minh được tình bạn của mình với Galadhrim. Bản đồ và bố cục chung của thành phố được sao chép từ bản đồ ở <i><a href="../T/The_Atlas_of_Middle-earth.md" title="The Atlas of Middle-earth">The Atlas of Middle-earth</a></i>. Thành phố có hầu hết các cơ sở chơi game chính và bao gồm một số lượng lớn các đội bay ở các cấp độ khác nhau, được kết nối bằng nhiều thang và cầu thang. Khá khó để điều hướng và do đó, một số nhiệm vụ chỉ bao gồm việc hướng người chơi đến các điểm ưa thích khác nhau, sau đó thách thức ông tìm lại chúng. Nhà của Công ty, Vườn Galadriel và Nhà của Celeborn cũng nằm ở đó.</dd></dl>
 

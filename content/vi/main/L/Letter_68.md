@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã dành cả buổi sáng để viết và có mặt [Minas Morghul](../M/Minas_Morgul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Ông chưa nhận được các bản sao mới được đánh máy để gửi tới Christopher vì ông đang cố gắng và nóng lòng muốn tạo ra những bản sao đẹp. Ông ta bịa một câu từ [Faramir](../F/Faramir.md) đến [Frodo](../F/Frodo_Baggins.md): "Khi em trở lại vùng đất của người sống, và chúng ta kể lại câu chuyện của mình, ngồi bên bức tường phơi nắng, cười nhạo nỗi đau xưa, em sẽ kể cho anh nghe."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
+Tolkien đã dành cả buổi sáng để viết và có mặt [Minas Morghul](../M/Minas_Morgul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Ông chưa nhận được các bản sao mới được đánh máy để gửi tới Christopher vì ông đang cố gắng và nóng lòng muốn tạo ra những bản sao đẹp. Ông bịa một câu từ [Faramir](../F/Faramir.md) đến [Frodo](../F/Frodo_Baggins.md): "Khi em trở lại vùng đất của người sống, và chúng ta kể lại câu chuyện của mình, ngồi bên bức tường phơi nắng, cười nhạo nỗi đau xưa, em sẽ kể cho anh nghe."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 
 ## Ghi chú {#Notes}
 

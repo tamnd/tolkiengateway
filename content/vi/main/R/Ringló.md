@@ -68,7 +68,7 @@ Trong hai phiên bản trước của ghi chú về phần tử *ló* trong tên
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ringló bắt nguồn từ khu vực "Ringló Vale" của khu vực miền Trung <a href="../G/Gondor.md" title="Gondor">Gondor</a> trong trò chơi, chảy qua <a href="../E/Ethring.md" title="Ethring">Ethring</a> trước khi đi vào đúng <a href="../L/Lamedon.md" title="Lamedon">Lamedon</a>.</dd></dl>
 

@@ -18,9 +18,9 @@ categories:
 
 ## Lịch sử {#History}
 
-Sau khi Tuor rời khỏi [Mithrim](../M/Mithrim.md), anh đến bờ biển [Biển](../S/Sea.md) và ngạc nhiên trước những gì mình nhìn thấy. Ở đó, ông đã sống một thời gian trong một vịnh nhỏ phủ đầy đá, nền là cát trắng. Nhưng [Gnomes](../G/Gnomes.md) từ [Dor Lómin](../D/Dor_Lómin.md) bắt đầu gửi gỗ cho ông ta qua con sông ẩn giấu [Glorfalc](../G/Glorfalc.md), vì vậy Tuor có thể tự mình làm một ngôi nhà nhỏ.
+Sau khi Tuor rời khỏi [Mithrim](../M/Mithrim.md), anh đến bờ biển [Biển](../S/Sea.md) và ngạc nhiên trước những gì mình nhìn thấy. Ở đó, ông đã sống một thời gian trong một vịnh nhỏ phủ đầy đá, nền là cát trắng. Nhưng [Gnomes](../G/Gnomes.md) từ [Dor Lómin](../D/Dor_Lómin.md) bắt đầu gửi gỗ cho ông qua con sông ẩn giấu [Glorfalc](../G/Glorfalc.md), vì vậy Tuor có thể tự mình làm một ngôi nhà nhỏ.
 
-Các bức tường được trang trí bằng Tuor hình động vật, chim, cây và hoa. Tác phẩm điêu khắc yêu thích của ông là một con thiên nga, con thiên nga cuối cùng đã trở thành biểu tượng cho [ngôi nhà](../H/House_of_the_Swan.md) của ông. Tuor cư trú ở đó một thời gian, cho đến khi Ulmo bổ nhiệm ông ta với sứ mệnh tiếp cận [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Các bức tường được trang trí bằng Tuor hình động vật, chim, cây và hoa. Tác phẩm điêu khắc yêu thích của ông là một con thiên nga, con thiên nga cuối cùng đã trở thành biểu tượng cho [ngôi nhà](../H/House_of_the_Swan.md) của ông. Tuor cư trú ở đó một thời gian, cho đến khi Ulmo bổ nhiệm ông với sứ mệnh tiếp cận [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

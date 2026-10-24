@@ -31,7 +31,7 @@ infobox:
 
 Mũ ẩn sĩ là một chòm sao được [Nhà thần bí](../M/Mystics.md) công nhận và chỉ có thể nhìn thấy ở đâu đó sâu bên trong [Rhûn](../R/Rhûn.md), "nơi có những ngôi sao kỳ lạ".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[Note 1]</a></sup>
 
-Vào lúc muộn [Kỷ Đệ Nhị](../S/Second_Age.md), một nhóm ba Người thần bí đã đến phía tây từ Rhûn để tìm kiếm [Sauron](../S/Sauron.md). Khi họ tìm thấy [một sinh vật](../T/The_Stranger.md) mà họ tin là Sauron, họ đã kể cho ông nghe về Chiếc Mũ Ẩn Sĩ. Sau đó họ đã bị ông ta đánh bại sau khi nhận ra rằng ông ta là [Istar](../O/Order_of_Wizards.md) chứ không phải Sauron. Cùng với [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md), Istar sau đó khởi hành [Grove](../G/Grove.md) tới [Rhûn](../R/Rhûn.md) để tìm hiểu thêm về chòm sao.
+Vào lúc muộn [Kỷ Đệ Nhị](../S/Second_Age.md), một nhóm ba Người thần bí đã đến phía tây từ Rhûn để tìm kiếm [Sauron](../S/Sauron.md). Khi họ tìm thấy [một sinh vật](../T/The_Stranger.md) mà họ tin là Sauron, họ đã kể cho ông nghe về Chiếc Mũ Ẩn Sĩ. Sau đó họ đã bị ông đánh bại sau khi nhận ra rằng ông là [Istar](../O/Order_of_Wizards.md) chứ không phải Sauron. Cùng với [Elanor Brandyfoot](../E/Elanor_Brandyfoot.md), Istar sau đó khởi hành [Grove](../G/Grove.md) tới [Rhûn](../R/Rhûn.md) để tìm hiểu thêm về chòm sao.
 
 ## Ghi chú {#Notes}
 

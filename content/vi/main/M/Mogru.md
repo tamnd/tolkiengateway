@@ -47,7 +47,7 @@ infobox:
 
 Mogru là một "người đàn ông béo có đôi mắt như thằn lằn", người có nhiều quyền lực trong đồng loại.
 
-Khi nhận được tin dữ về việc những con tàu [Númenórean](../N/Númenóreans.md) tiếp cận từ [Tal-Elmar](<../T/Tal-Elmar_(character).md>) và [Hazad Longbeard](../H/Hazad_Longbeard.md), ông đã chế nhạo họ và từ chối tin vào câu chuyện đó, vì người Númenor đã không đến vùng đất đó trong suốt cuộc đời của ông. Tuy nhiên, theo yêu cầu của họ, anh bước đi một cách khó khăn về phía ngọn đồi nơi anh có thể nhìn thấy [Đại Hải](../B/Belegaer.md). Lúc đó những con tàu mà Tal-Elmar nhìn thấy đã ở quá gần bờ đồi nên không thể phát hiện được. Do ghét Tal-Elmar và cách nói chuyện thẳng thừng với ông ta, không thể hiện sự tôn trọng mà ông ta tin rằng mình xứng đáng, Mogru đã cử Tal-Elmar tới các con tàu với tư cách là một trinh sát.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi nhận được tin dữ về việc những con tàu [Númenórean](../N/Númenóreans.md) tiếp cận từ [Tal-Elmar](<../T/Tal-Elmar_(character).md>) và [Hazad Longbeard](../H/Hazad_Longbeard.md), ông đã chế nhạo họ và từ chối tin vào câu chuyện đó, vì người Númenor đã không đến vùng đất đó trong suốt cuộc đời của ông. Tuy nhiên, theo yêu cầu của họ, anh bước đi một cách khó khăn về phía ngọn đồi nơi anh có thể nhìn thấy [Đại Hải](../B/Belegaer.md). Lúc đó những con tàu mà Tal-Elmar nhìn thấy đã ở quá gần bờ đồi nên không thể phát hiện được. Do ghét Tal-Elmar và cách nói chuyện thẳng thừng với ông, không thể hiện sự tôn trọng mà ông tin rằng mình xứng đáng, Mogru đã cử Tal-Elmar tới các con tàu với tư cách là một trinh sát.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Số phận của Mogru không được biết thêm.
 

@@ -55,7 +55,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông ta sinh ra dưới thời cai trị của ông cố [Aldor](../A/Aldor.md) Già, và ở tuổi 26, đã lên chức cha, khi Aldor cuối cùng qua đời và vương miện được truyền lại cho ông nội của Goldwine [Fréa](../F/Fréa.md).
+Ông sinh ra dưới thời cai trị của ông cố [Aldor](../A/Aldor.md) Già, và ở tuổi 26, đã lên chức cha, khi Aldor cuối cùng qua đời và vương miện được truyền lại cho ông nội của Goldwine [Fréa](../F/Fréa.md).
 
 Goldwine trở thành Vua sau cái chết của cha mình [Fréawine](../F/Fréawine.md) vào năm Kỷ Đệ Tam 2680, khi ông 61 tuổi.
 

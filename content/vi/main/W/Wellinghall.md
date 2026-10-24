@@ -38,7 +38,7 @@ Wellinghall được biết đến nhiều nhất là nơi [Merry](../M/Meriadoc
 
 ## Từ nguyên {#Etymology}
 
-bản dịch của [Treebeard](../T/Treebeard.md)(sang [Ngôn ngữ Chung](Westron.md)) một phần tên nơi ở của ông ta. Nó có nghĩa là "sảnh (dưới hoặc phía sau) dòng chảy ra của lò xo Entwash".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+bản dịch của [Treebeard](../T/Treebeard.md)(sang [Ngôn ngữ Chung](Westron.md)) một phần tên nơi ở của ông. Nó có nghĩa là "sảnh (dưới hoặc phía sau) dòng chảy ra của lò xo Entwash".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -76,7 +76,7 @@ bản dịch của [Treebeard](../T/Treebeard.md)(sang [Ngôn ngữ Chung](Westr
 
 <dl><dd>Tại địa điểm Wellinghall, những người chơi độc ác sẽ phải đối mặt với sự tấn công của Thực vật thức tỉnh.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>Lần đầu tiên được ghé thăm trong đoạn hồi tưởng do <a class="mw-redirect" href="../M/Merry.md" title="Merry">Merry</a> và <a class="mw-redirect" href="../P/Pippin.md" title="Pippin">Pippin</a> thuật lại, Wellinghall trống rỗng trong thời điểm hiện tại sau khi Treebeard chuyển đến <a href="../I/Isengard.md" title="Isengard">Isengard</a>.</dd></dl>
 

@@ -294,11 +294,11 @@ Trong số tất cả các thành viên của Đoàn Người Lùn lên đườn
 
 <dl><dd>Glóin được lồng tiếng bởi một diễn viên không xác định; ông được miêu tả là một người lùn thông minh với bộ râu đen. Ông nhắc đến con trai mình Gimli và Bilbo khiến ông nhớ đến con trai mình như thế nào.</dd></dl>
 
-<b><a href="../_/2006.md" title="2006">2006</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b><a href="../_/2006.md" title="2006">2006</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Glóin là nhân vật chính. Vẫn hiện diện tại Rivendell sau Hội đồng Elrond, ông hợp tác với <a href="Glorfindel.md" title="Glorfindel">Glorfindel</a> trong một chiến dịch xuyên suốt <a href="../E/Eriador.md" title="Eriador">Eriador</a> và <a href="../R/Rhovanion.md" title="Rhovanion">Rhovanion</a>. Ông là một người lùn hung dữ với bộ râu màu nâu đỏ.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong thời gian Cuộc chiến Nhẫn, Glóin giữ chức vụ chính thức là sứ giả của Vua Dưới Núi. Lần xuất hiện đầu tiên theo trình tự thời gian của ông là vai khách mời trong một cảnh ngắn cho thấy sự rời đi của công ty <a class="mw-redirect" href="../T/Thorin_Oakenshield.md" title="Thorin Oakenshield">Thorin Oakenshield</a> khỏi <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>. Sau đó, ông xuất hiện ở <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a> phía bắc <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, nơi sau Hội đồng Elrond Glóin và một số người lùn khác thành lập một trại để đối phó với các mối đe dọa ở <a href="../H/High_Pass.md" title="High Pass">Đèo Cao</a> và <a href="Goblin-town.md" title="Goblin-town">thị trấn yêu tinh</a>.</dd></dl>
 

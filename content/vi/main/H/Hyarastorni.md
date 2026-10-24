@@ -26,7 +26,7 @@ infobox:
 
 **Hyarastorni** là một khu vực ở [Mittalmar](../M/Mittalmar.md), khu vực trung tâm của [Númenor](../N/Númenor.md). Trong thời trị vì của [Tar-Meneldur](../T/Tar-Meneldur.md), chúa tể của Hyarastorni là [Hallatan](Hallatan.md), người được mệnh danh là Chúa tể Cừu vì vùng đồng cỏ của Mittalmar thường được sử dụng để chăn thả cừu.
 
-Vào [S.A.](../S/Second_Age.md) [882](../S/Second_Age_882.md), [Aldarion](../T/Tar-Aldarion.md) đã đến [Nhà Trắng của Erendis](../W/White_House_of_Erendis.md). Ông ta bị đón nhận một cách lạnh lùng đến mức chỉ ở lại một đêm rồi rời đi đến nhà của người anh họ Hallatan. Đến Hyarastorni, Aldarion chứng kiến ​​chuyến trở về quê hương ấm áp mà người bạn đồng hành [Ulbar](../U/Ulbar.md) của anh đang tận hưởng. Trong cơn phẫn nộ và cay đắng, ông ta đã đưa cho vợ của Ulbar một viên ngọc màu đỏ rực vốn dành cho [Erendis](../E/Erendis.md) rồi bỏ đi đến [Armenelos](../A/Armenelos.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [S.A.](../S/Second_Age.md) [882](../S/Second_Age_882.md), [Aldarion](../T/Tar-Aldarion.md) đã đến [Nhà Trắng của Erendis](../W/White_House_of_Erendis.md). Ông bị đón nhận một cách lạnh lùng đến mức chỉ ở lại một đêm rồi rời đi đến nhà của người anh họ Hallatan. Đến Hyarastorni, Aldarion chứng kiến ​​chuyến trở về quê hương ấm áp mà người bạn đồng hành [Ulbar](../U/Ulbar.md) của anh đang tận hưởng. Trong cơn phẫn nộ và cay đắng, ông đã đưa cho vợ của Ulbar một viên ngọc màu đỏ rực vốn dành cho [Erendis](../E/Erendis.md) rồi bỏ đi đến [Armenelos](../A/Armenelos.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

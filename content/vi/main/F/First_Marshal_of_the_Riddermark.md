@@ -24,7 +24,7 @@ Nhiệm vụ của Thống chế thứ nhất là chỉ huy [Người tập hợ
 
 ## Trong Cuộc chiến Nhẫn {#During_the_War_of_the_Ring}
 
-Lên ngôi khi còn khá trẻ, Vua [Théoden](../T/Théoden.md), Vua Rohan thứ mười bảy, đã tự mình lãnh đạo Kỵ sĩ Muster của Edoras, do đó không cần Thống chế thứ nhất, ngay cả trong thời chiến. Sau đó, khi Vua rơi vào quyền lực của [Saruman](../S/Saruman.md), [Gríma Wormtongue](../G/Gríma.md) đã làm việc để đảm bảo rằng không có Nguyên soái thứ nhất nào được bổ nhiệm, để lại khoảng trống quyền lực cho ông ta khai thác. Vì thế mà vào thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) chưa có Nguyên soái thứ nhất của Riddermark.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> <span></span>
+Lên ngôi khi còn khá trẻ, Vua [Théoden](../T/Théoden.md), Vua Rohan thứ mười bảy, đã tự mình lãnh đạo Kỵ sĩ Muster của Edoras, do đó không cần Thống chế thứ nhất, ngay cả trong thời chiến. Sau đó, khi Vua rơi vào quyền lực của [Saruman](../S/Saruman.md), [Gríma Wormtongue](../G/Gríma.md) đã làm việc để đảm bảo rằng không có Nguyên soái thứ nhất nào được bổ nhiệm, để lại khoảng trống quyền lực cho ông khai thác. Vì thế mà vào thời [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) chưa có Nguyên soái thứ nhất của Riddermark.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -39,9 +39,9 @@ infobox:
 
 ## Sự khác biệt {#Differences}
 
-- Trong sách Aragorn đã xem xét Palantír trước khi ông ta đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md) thay vì sau [Cuộc tranh luận cuối cùng](../L/Last_Debate.md).<sup id="cite_ref-Company_2-0" class="reference"><a href="#cite_note-Company-2">[1]</a></sup>
+- Trong sách Aragorn đã xem xét Palantír trước khi ông đi theo [Con đường của người chết](../P/Paths_of_the_Dead.md) thay vì sau [Cuộc tranh luận cuối cùng](../L/Last_Debate.md).<sup id="cite_ref-Company_2-0" class="reference"><a href="#cite_note-Company-2">[1]</a></sup>
 - Aragorn không nói lời nào với Sauron.<sup id="cite_ref-Company_2-1" class="reference"><a href="#cite_note-Company-2">[1]</a></sup>
-- Nếu Aragorn được cho thấy hình ảnh của Arwen thì ông ta sẽ không đề cập đến nó. Thay vào đó, anh đã học được nhiều điều, trong số đó có sự xuất hiện của [Hải tặc Umbar](../C/Corsairs_of_Umbar.md), điều đã thúc đẩy anh đi theo Con đường của Người chết.<sup id="cite_ref-Company_2-2" class="reference"><a href="#cite_note-Company-2">[1]</a></sup>
+- Nếu Aragorn được cho thấy hình ảnh của Arwen thì ông sẽ không đề cập đến nó. Thay vào đó, anh đã học được nhiều điều, trong số đó có sự xuất hiện của [Hải tặc Umbar](../C/Corsairs_of_Umbar.md), điều đã thúc đẩy anh đi theo Con đường của Người chết.<sup id="cite_ref-Company_2-2" class="reference"><a href="#cite_note-Company-2">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 

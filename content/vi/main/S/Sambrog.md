@@ -34,13 +34,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong quá trình nhân vật người chơi truy đuổi [Vua Phù thủy](../W/Witch-king.md) bên trong [Othrongroth](../O/Othrongroth.md), họ đã bước vào một căn phòng ngai vàng rộng lớn với [Chúa tể chiến binh](../B/Barrow-wights.md) Sambrog đang ngồi trên một ngai vàng vĩ đại. Sambrog chào đón và ra lệnh cho nhân vật của người chơi đến gần. Khi thông báo rằng Vua Phù thủy gửi lời chào của mình, Sambrog cho nhân vật của người chơi một khán giả để cung cấp thông tin về ý định của Vua Phù thủy, nhưng ông ta cũng tiết lộ rằng ông ta tin rằng người chơi sẽ không để Othrongroth còn sống để làm hỏng bất cứ điều gì.
+Trong quá trình nhân vật người chơi truy đuổi [Vua Phù thủy](../W/Witch-king.md) bên trong [Othrongroth](../O/Othrongroth.md), họ đã bước vào một căn phòng ngai vàng rộng lớn với [Chúa tể chiến binh](../B/Barrow-wights.md) Sambrog đang ngồi trên một ngai vàng vĩ đại. Sambrog chào đón và ra lệnh cho nhân vật của người chơi đến gần. Khi thông báo rằng Vua Phù thủy gửi lời chào của mình, Sambrog cho nhân vật của người chơi một khán giả để cung cấp thông tin về ý định của Vua Phù thủy, nhưng ông cũng tiết lộ rằng ông tin rằng người chơi sẽ không để Othrongroth còn sống để làm hỏng bất cứ điều gì.
 
-Sambrog tiết lộ nhiều điều cho người chơi một cách khó hiểu, nói rằng trong khi [Chủ nhân](../W/Witch-king.md) của ông ta tìm kiếm sức mạnh cho [Sauron](Sauron.md), các kế hoạch khác cũng đang được thực hiện: [Pale Người Lùn](Skorgrím_Dourhand.md) sẽ xây dựng một đội quân dưới danh nghĩa [Angmar](../A/Angmar.md) khi người gầy gò được gửi đến Agamaur ở [phía đông](../L/Lone-lands.md) để đánh thức một Sức mạnh đang ngủ yên trong vùng nước.
+Sambrog tiết lộ nhiều điều cho người chơi một cách khó hiểu, nói rằng trong khi [Chủ nhân](../W/Witch-king.md) của ông tìm kiếm sức mạnh cho [Sauron](Sauron.md), các kế hoạch khác cũng đang được thực hiện: [Pale Người Lùn](Skorgrím_Dourhand.md) sẽ xây dựng một đội quân dưới danh nghĩa [Angmar](../A/Angmar.md) khi người gầy gò được gửi đến Agamaur ở [phía đông](../L/Lone-lands.md) để đánh thức một Sức mạnh đang ngủ yên trong vùng nước.
 
-Như đã nói, Sambrog kết thúc buổi tiếp kiến ​​của mình với nhân vật người chơi, thông báo rằng cái chết đang chờ đợi họ và ông ta không thể bị đánh bại.
+Như đã nói, Sambrog kết thúc buổi tiếp kiến ​​của mình với nhân vật người chơi, thông báo rằng cái chết đang chờ đợi họ và ông không thể bị đánh bại.
 
-Trong trận chiến, Sambrog triệu hồi [Những linh hồn sa ngã](../W/Wraiths.md), những người di chuyển để chữa lành vết thương cho ông ta.
+Trong trận chiến, Sambrog triệu hồi [Những linh hồn sa ngã](../W/Wraiths.md), những người di chuyển để chữa lành vết thương cho ông.
 
 Cuối cùng, [Tom Bombadil](../T/Tom_Bombadil.md) xuất hiện và hát một bài hát giết chết Sambrog. Sau đó, Bombadil tẩy rửa Othrongroth trước khi đưa nhân vật của người chơi ra khỏi Great Barrow.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-LOTRO_2-0" class="reference"><a href="#cite_note-LOTRO-2">[2]</a></sup>
 

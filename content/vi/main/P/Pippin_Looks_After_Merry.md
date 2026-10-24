@@ -38,11 +38,11 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Pippin](Peregrin_Took.md) tìm kiếm [Merry](../M/Meriadoc_Brandybuck.md). Ông ta thấy ông ta nằm, nửa tỉnh nửa mê, gần một <a class="mw-redirect mw-disambig" href="../O/Oliphaunt.md" title="Oliphaunt">Oliphaunt</a>đã bị giết. Pippin đẩy một tên Orc chết đã rơi xuống Merry và đỡ hắn dậy. Merry thức dậy và nói với Pippin rằng ông ta biết mình sẽ tìm thấy ông ta rồi hỏi liệu Pippin có để ông ta lại không và Pippin trả lời: "Không Merry. Tôi sẽ chăm sóc bạn."
+[Pippin](Peregrin_Took.md) tìm kiếm [Merry](../M/Meriadoc_Brandybuck.md). Ông thấy ông nằm, nửa tỉnh nửa mê, gần một <a class="mw-redirect mw-disambig" href="../O/Oliphaunt.md" title="Oliphaunt">Oliphaunt</a>đã bị giết. Pippin đẩy một tên Orc chết đã rơi xuống Merry và đỡ hắn dậy. Merry thức dậy và nói với Pippin rằng ông biết mình sẽ tìm thấy ông rồi hỏi liệu Pippin có để ông lại không và Pippin trả lời: "Không Merry. Tôi sẽ chăm sóc bạn."
 
 ## Sự khác biệt {#Differences}
 
-- Pippin được [Gandalf](../G/Gandalf.md) cử đi tìm Merry.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta tìm kiếm trong thành phố và tìm thấy ông ta bên trong [Cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md).<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">[2]</a></sup>
+- Pippin được [Gandalf](../G/Gandalf.md) cử đi tìm Merry.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông tìm kiếm trong thành phố và tìm thấy ông bên trong [Cổng Minas Tirith](../G/Great_Gate_of_Minas_Tirith.md).<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">[2]</a></sup>
 - Merry hỏi: "Anh định chôn tôi à?" và Merry trả lời "Không, thực sự là vậy!...Không, chúng tôi sẽ đến Nhà chữa bệnh."<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2">[2]</a></sup>
 
 <span></span>

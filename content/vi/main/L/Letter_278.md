@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã nhận được một bản sao của *Light on C.S. Lewis* và hy vọng rằng Kilby cũng vậy. Thật thú vị, Tolkien nói, nhưng nó đã bỏ sót một trong những điểm cốt yếu trong tính khí của ông ta. [Barfield](../O/Owen_Barfield.md) ở gần nhất trong tầm nhìn của Tolkien. Tolkien đã phải để lại bình luận của mình một cách bí ẩn vì ông không có thời gian để phóng to nó. <br>
+Tolkien đã nhận được một bản sao của *Light on C.S. Lewis* và hy vọng rằng Kilby cũng vậy. Thật thú vị, Tolkien nói, nhưng nó đã bỏ sót một trong những điểm cốt yếu trong tính khí của ông. [Barfield](../O/Owen_Barfield.md) ở gần nhất trong tầm nhìn của Tolkien. Tolkien đã phải để lại bình luận của mình một cách bí ẩn vì ông không có thời gian để phóng to nó. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

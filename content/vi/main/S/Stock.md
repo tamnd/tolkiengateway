@@ -52,7 +52,7 @@ Cái tên này có thể thể hiện sự hiện đại hóa của [tiếng Anh
 
 <dl><dd>Trong phiên bản Game Boy Advance của <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>, bạn có thể truy cập cả Stock và Golden Perch.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Stock nằm trước <a href="../B/Brandywine_Bridge.md" title="Brandywine Bridge">Cầu Brandywine</a>, chào đón du khách đến với quán trọ <i><a class="mw-redirect" href="../T/The_Golden_Perch.md" title="The Golden Perch">The Golden Perch</a></i>.</dd></dl>
 

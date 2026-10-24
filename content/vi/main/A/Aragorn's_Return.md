@@ -44,9 +44,9 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Aragorn](Aragorn.md) cưỡi [Brego](<../B/Brego_(horse).md>) qua vùng đồng bằng [Rohan](../R/Rohan.md). Trên đỉnh dốc, anh nhìn thấy một số lượng lớn [Orc](../O/Orcs.md) hành quân theo đội hình. Bị sốc trước điều này, ông ta cưỡi Brego chạy nước kiệu cho đến khi đạt đến [Helm's Deep](../H/Helm's_Deep.md).
+[Aragorn](Aragorn.md) cưỡi [Brego](<../B/Brego_(horse).md>) qua vùng đồng bằng [Rohan](../R/Rohan.md). Trên đỉnh dốc, anh nhìn thấy một số lượng lớn [Orc](../O/Orcs.md) hành quân theo đội hình. Bị sốc trước điều này, ông cưỡi Brego chạy nước kiệu cho đến khi đạt đến [Helm's Deep](../H/Helm's_Deep.md).
 
-Bên trong pháo đài, tin đồn lan truyền trước Aragorn rằng ông ta còn sống và đã đến. [Gimli](../G/Gimli.md) đến gần và vui mừng khôn xiết khi thấy ông ta còn sống. Ông ta nói cho Aragorn biết [Théoden](../T/Théoden.md) ở đâu và trên đường đến gặp nhà vua, Aragorn gặp [Legolas](../L/Legolas.md), người đã trả lại Evenstar cho ông ta. [Éowyn](../_/Éowyn.md) quan sát điều này từ xa.
+Bên trong pháo đài, tin đồn lan truyền trước Aragorn rằng ông còn sống và đã đến. [Gimli](../G/Gimli.md) đến gần và vui mừng khôn xiết khi thấy ông còn sống. Ông nói cho Aragorn biết [Théoden](../T/Théoden.md) ở đâu và trên đường đến gặp nhà vua, Aragorn gặp [Legolas](../L/Legolas.md), người đã trả lại Evenstar cho ông. [Éowyn](../_/Éowyn.md) quan sát điều này từ xa.
 
 Aragorn mở cửa dẫn vào hội trường nơi có Théoden và nói với anh rằng ít nhất mười nghìn con Orc đang hành quân trên Helm's Deep từ [Isengard](../I/Isengard.md), và chúng sẽ đến nơi khi màn đêm buông xuống, khiến Théoden bị sốc. Để đáp lại điều này, Théoden bắt đầu chuẩn bị Helm's Deep cho trận chiến sắp tới.
 
@@ -56,4 +56,4 @@ Aragorn mở cửa dẫn vào hội trường nơi có Théoden và nói với a
 <p class="tg-quote-footer"><cite><a href="../T/Théoden.md" title="Théoden">Théoden</a></cite></p>
 </blockquote>
 
-Gimli kêu gọi Théoden đừng đánh giá thấp [Uruk-hai](../U/Uruk-hai.md) họ sẽ gặp trong trận chiến, và Aragorn cầu xin ông ta cử các tay đua đi, nói rằng [Gondor](../G/Gondor.md) sẽ đến trợ giúp họ. Trong cơn tức giận, Théoden khẳng định trước đây Gondor chưa từng giúp đỡ Rohan và bây giờ cũng sẽ không làm như vậy. Ông ta tiếp tục chuẩn bị cho trận chiến sắp tới khi một đàn quạ tụ tập phía trên pháo đài.
+Gimli kêu gọi Théoden đừng đánh giá thấp [Uruk-hai](../U/Uruk-hai.md) họ sẽ gặp trong trận chiến, và Aragorn cầu xin ông cử các tay đua đi, nói rằng [Gondor](../G/Gondor.md) sẽ đến trợ giúp họ. Trong cơn tức giận, Théoden khẳng định trước đây Gondor chưa từng giúp đỡ Rohan và bây giờ cũng sẽ không làm như vậy. Ông tiếp tục chuẩn bị cho trận chiến sắp tới khi một đàn quạ tụ tập phía trên pháo đài.

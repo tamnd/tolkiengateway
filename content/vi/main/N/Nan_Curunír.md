@@ -98,15 +98,15 @@ Dạng ban đầu của tên này khi viết *[The Lord of the Rings](../T/The_L
 
 <dl><dd>Thung lũng Nan Curunír xuất hiện trong cả ba phần phim trong bộ ba phim</a> của <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Thung lũng xuất hiện như một phần của bản đồ Isengard.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Thung lũng và Vành đai Isengard xuất hiện một lần nữa, mặc dù mô tả của nó khác với trò chơi đầu tiên.</dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Trực tuyến: Sự trỗi dậy của Isengard</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Online: Sự trỗi dậy của Isengard</a></i>:</b>
 
 <dl><dd>Nan Curunír được coi là một tiểu khu vực của vùng <a href="../D/Dunland.md" title="Dunland">Dunland</a> vì mục đích chơi trò chơi. Thung lũng có rất nhiều Orc, Uruk, Goblin, Warg và Troll và một số chuỗi nhiệm vụ diễn ra ở đó.</dd></dl>
 

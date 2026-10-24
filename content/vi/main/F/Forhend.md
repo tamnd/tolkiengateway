@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Forhend</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Chức vụ</th><td class="tg-infobox-data">Guard</td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../B/Brethil.md" title="Brethil">Brethil</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trực thuộc</th><td class="tg-infobox-data"><a href="../H/House_of_Haleth.md" title="House of Haleth">Nhà Haleth</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Mô tả hình thức</span></th></tr><tr><th scope="row" class="tg-infobox-label">Giới tính</th><td class="tg-infobox-data">Nam</td></tr></tbody></table>
 
-**Forhend** là một [Người đàn ông](../M/Man.md) của [Brethil](../B/Brethil.md) và là một trong những người bảo vệ tại Ngã tư [Taeglin](../T/Taeglin.md). Khi [Húrin](../H/Húrin.md) lần đầu xuất hiện, Forhend sợ hãi và đề nghị đẩy ông ta ra khỏi Brethil ngay lập tức.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Forhend** là một [Người đàn ông](../M/Man.md) của [Brethil](../B/Brethil.md) và là một trong những người bảo vệ tại Ngã tư [Taeglin](../T/Taeglin.md). Khi [Húrin](../H/Húrin.md) lần đầu xuất hiện, Forhend sợ hãi và đề nghị đẩy ông ra khỏi Brethil ngay lập tức.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

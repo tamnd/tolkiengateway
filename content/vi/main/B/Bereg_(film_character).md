@@ -49,7 +49,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi đội quân Tiên đến [Helm's Deep](../H/Helm's_Deep.md), chính Bereg là người ra lệnh mở cổng cho họ. Không rõ liệu ông ta có sống sót sau trận chiến hay không.
+Khi đội quân Tiên đến [Helm's Deep](../H/Helm's_Deep.md), chính Bereg là người ra lệnh mở cổng cho họ. Không rõ liệu ông có sống sót sau trận chiến hay không.
 
 <span></span>
 

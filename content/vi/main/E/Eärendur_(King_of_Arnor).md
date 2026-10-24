@@ -78,7 +78,7 @@ Sau Eärendur, [Các vị vua của Arthedain](../K/Kings_of_Arthedain.md)<sup i
 
 ## Từ nguyên {#Etymology}
 
-*Eärendur* là tên [Quenya](../Q/Quenya.md). Nó có nghĩa là "thủy thủ (chuyên nghiệp)".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Như Paul Strack giải thích, bản dịch sát nghĩa hơn có thể là "Người hầu của Biển". Nó là sự kết hợp của [eär](Eär.md) ("biển") và [-(n)dur](../_/-ndur.md) ("người hầu").<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Không chắc rằng bản thân Eärendur đã cống hiến hết mình cho biển: nhiều khả năng là ông ta được đặt theo tên của một trong hai <a class="mw-disambig" href="Eärendur_(disambiguation).md" title="Eärendur (disambiguation)">Eärendurs</a>trước đó.
+*Eärendur* là tên [Quenya](../Q/Quenya.md). Nó có nghĩa là "thủy thủ (chuyên nghiệp)".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Như Paul Strack giải thích, bản dịch sát nghĩa hơn có thể là "Người hầu của Biển". Nó là sự kết hợp của [eär](Eär.md) ("biển") và [-(n)dur](../_/-ndur.md) ("người hầu").<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Không chắc rằng bản thân Eärendur đã cống hiến hết mình cho biển: nhiều khả năng là ông được đặt theo tên của một trong hai <a class="mw-disambig" href="Eärendur_(disambiguation).md" title="Eärendur (disambiguation)">Eärendurs</a>trước đó.
 
 ## Phả hệ {#Genealogy}
 

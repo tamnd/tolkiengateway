@@ -66,7 +66,7 @@ Trong phiên bản viết tay muộn nhất của cái mà sau này trở thành
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong phiên bản <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a> của trò chơi, nhiều bộ tộc Hillmen vẫn còn lang thang trên vùng đất vào cuối Kỷ Đệ Tam. Chúng bao gồm Corcur của <a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a> và <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a> (hậu duệ của Con Người của Rhudaur), Créoth của <a href="../L/Lone-lands.md" title="Lone-lands">Vùng đất đơn độc</a> và Trév Duvardain của <a href="../A/Angmar.md" title="Angmar">Angmar</a>. Bộ tộc thứ hai của Angmar, Trév Gállorg, tỏ ra thân thiện với <a class="mw-redirect" href="../F/Free_Peoples.md" title="Free Peoples">Dân tộc Tự do</a>. Những tên bộ tộc này là nguyên gốc của trò chơi và không tồn tại trong các tác phẩm của Tolkien.</dd></dl>
 

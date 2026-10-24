@@ -24,7 +24,7 @@ images:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) được cho là đã lấy lại được trí thông minh của mình trong [ Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) sau vết chích của [Shelob](../S/Shelob.md) do bị [Orc](Orcs.md) đưa cho ông ta một bản nháp để chống lại chất độc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong bản phác thảo trước đó, [Frodo Baggins](../F/Frodo_Baggins.md) được cho là đã lấy lại được trí thông minh của mình trong [ Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md) sau vết chích của [Shelob](../S/Shelob.md) do bị [Orc](Orcs.md) đưa cho ông một bản nháp để chống lại chất độc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

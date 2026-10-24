@@ -52,7 +52,7 @@ infobox:
 
 **Túna** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈtuːna]</span>) là ngọn đồi xanh ở [Aman](../A/Aman.md), được nâng lên bởi [Valar](../V/Valar.md) trong [Calacirya](../C/Calacirya.md), trên đó [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md) đã thành lập thành phố công bằng [Tirion](Tirion.md) của họ. Trong [Năm Cây](../Y/Years_of_the_Trees.md) ánh sáng của [Hai Cây](Two_Trees_of_Valinor.md) chiếu xuống mặt phía tây của nó và bóng của nó luôn ở phía đông, chạm tới [Eldamar](../E/Eldamar.md) và [ Biển](The_Sea.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Khi [Eärendil](../E/Eärendil.md) đến Aman người dân thành phố đã đi dự lễ hội ở [Valimar](../V/Valimar.md) nên thành phố vắng tanh. Lo sợ một điều ác nào đó đã xảy đến với Cõi Thánh, ông ta quay đi cho đến khi [Eönwë](../E/Eönwë.md), sứ giả của [Manwë](../M/Manwë.md), gọi ông ta và mời ông ta đến Valimar.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi [Eärendil](../E/Eärendil.md) đến Aman người dân thành phố đã đi dự lễ hội ở [Valimar](../V/Valimar.md) nên thành phố vắng tanh. Lo sợ một điều ác nào đó đã xảy đến với Cõi Thánh, ông quay đi cho đến khi [Eönwë](../E/Eönwë.md), sứ giả của [Manwë](../M/Manwë.md), gọi ông và mời ông đến Valimar.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Một đạo quân [người Númenor](../N/Númenóreans.md) cắm trại xung quanh Túna khi [Ar-Pharazôn](../A/Ar-Pharazôn.md) xâm chiếm Aman.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

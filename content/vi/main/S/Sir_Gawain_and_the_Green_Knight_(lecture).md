@@ -25,7 +25,7 @@ images:
 
 **Sir Gawain và Hiệp sĩ xanh** là bài giảng về [bài thơ tiếng Anh thời trung cổ](<Sir_Gawain_and_the_Green_Knight_(poem).md>), được trình bày bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [W.P. Ker Bài giảng tưởng niệm](../W/W.P._Ker_Lecture.md) tại Đại học Glasgow vào [15 tháng 4](../_/15_April.md) [1953](../_/1953.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó đã được xuất bản trong *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)* và trong một số ấn bản bản dịch của Tolkien *[Sir Gawain and the Green Knight, Pearl, and Sir Orfeo](Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md)*.
 
-Bài giảng tập trung vào Phần thứ ba (phần thứ ba trong bốn phần chính của bài thơ), Tolkien nói thể hiện các chủ đề chính của tác phẩm. Tolkien đặc biệt xem xét sự cám dỗ của Gawain (khi Phu nhân của Lâu đài, vợ của Ngài Bertilak, mời ông ta ngoại tình) cũng như lời thú tội và xá tội sau đó của ông ta.
+Bài giảng tập trung vào Phần thứ ba (phần thứ ba trong bốn phần chính của bài thơ), Tolkien nói thể hiện các chủ đề chính của tác phẩm. Tolkien đặc biệt xem xét sự cám dỗ của Gawain (khi Phu nhân của Lâu đài, vợ của Ngài Bertilak, mời ông ngoại tình) cũng như lời thú tội và xá tội sau đó của ông.
 
 <span></span>
 

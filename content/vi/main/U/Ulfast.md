@@ -86,9 +86,9 @@ Một điều gây tò mò về cái tên *Ulfast* là nó vẫn không thay đ�
 
 ### Các phiên bản trước của *[Nirnaeth](../N/Nirnaeth.md)* {#Earlier_versions_of_the_Nirnaeth}
 
-Theo phiên bản trước đó của truyền thuyết, thay vì bị giết bởi các con trai của [Bór](../B/Bór.md), cả Ulfast và anh trai Ulwar đều sống sót sau Trận chiến nước mắt không đếm được - trên thực tế, họ chính là những người đã giết Bor và các con trai ông ta trong trận chiến.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Theo phiên bản trước đó của truyền thuyết, thay vì bị giết bởi các con trai của [Bór](../B/Bór.md), cả Ulfast và anh trai Ulwar đều sống sót sau Trận chiến nước mắt không đếm được - trên thực tế, họ chính là những người đã giết Bor và các con trai ông trong trận chiến.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
-Tuy nhiên, mặc dù Morgoth đã cam kết trao những vùng đất tốt hơn cho Ulfang, cha của Ulfast, nhưng cuối cùng ông ta đã thất hứa và đày những người còn lại của mình (dưới sự lãnh đạo của Ulfast và Ulwar) đến [Hithlum](../H/Hithlum.md), một vùng đất cằn cỗi và hoang tàn; Morgoth cũng cấm họ du hành đến những vùng đất khác.
+Tuy nhiên, mặc dù Morgoth đã cam kết trao những vùng đất tốt hơn cho Ulfang, cha của Ulfast, nhưng cuối cùng ông đã thất hứa và đày những người còn lại của mình (dưới sự lãnh đạo của Ulfast và Ulwar) đến [Hithlum](../H/Hithlum.md), một vùng đất cằn cỗi và hoang tàn; Morgoth cũng cấm họ du hành đến những vùng đất khác.
 
 Sau đó, người dân Ulfast và Ulwar đã đàn áp dã man những người dân bản địa còn lại của [Hádor](../H/House_of_Hador.md), những người đã sống ở đó trước khi họ đến.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 

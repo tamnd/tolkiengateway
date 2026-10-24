@@ -62,7 +62,7 @@ infobox:
 
 **Salmar**, còn được gọi là **Noldorin**, là một [Vala](../V/Valar.md) trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Ông ta bước vào thế giới với [Ulmo](../U/Ulmo.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và sau đó cư ngụ trong [Valmar](../V/Valmar.md). Ở đó, ông thường chơi nhạc trên đàn hạc và đàn lia, ngồi bên dưới [Laurelin](../L/Laurelin.md) và [Ómar-Amillo](../_/Ómar.md) người anh song sinh của ông sẽ hát khi ông chơi.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Ông bước vào thế giới với [Ulmo](../U/Ulmo.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và sau đó cư ngụ trong [Valmar](../V/Valmar.md). Ở đó, ông thường chơi nhạc trên đàn hạc và đàn lia, ngồi bên dưới [Laurelin](../L/Laurelin.md) và [Ómar-Amillo](../_/Ómar.md) người anh song sinh của ông sẽ hát khi ông chơi.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Khi Valar quyết định lật đổ [Melko](../M/Melko.md) khỏi pháo đài của mình ở [Utumna](../U/Utumna.md), ông đã tham gia cùng những người còn lại trong cuộc tấn công của họ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Một thời gian sau, khi [Tiên tộc](../E/Elves.md) [tỉnh giấc](../A/Awakening_of_the_Elves.md), ông đã thiết lập tình bạn với [Noldoli](../N/Noldoli.md), người mà ông yêu quý.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -114,7 +114,7 @@ Các nhân vật Salmar (Lirillo), Ómar (Amillo) và [Erinti](../E/Erinti.md) c
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Trong thời gian đầu, việc nhập cảnh bị từ chối ở <i><a href="../Q/Qenyaqetsa.md" title="Qenyaqetsa">Qenyaqetsa</a></i>, người ta nói rằng Salmar, cùng với anh trai <a class="mw-redirect" href="../A/Amillo.md" title="Amillo">Amillo</a> và Vala <a class="mw-redirect" href="../E/Erinti.md" title="Erinti">Erinti</a> đã rời đi Valinor sống ở <a href="../T/Tol_Eressëa.md" title="Tol Eressëa">Tol Eressëa</a>, là ba người duy nhất trong số Valar đã làm như vậy.</span>
 </li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Salmar (Noldorin) lẽ ra phải chiến đấu với Melko cùng với <a href="../T/Tulkas.md" title="Tulkas">Tulkas</a> trong <a href="../B/Battle_of_the_Silent_Pools.md" title="Battle of the Silent Pools">Trận chiến ở Silent Pools</a>, trong đó Melko đã bị bắt - nhưng sự hiện diện của ông ta ở đó đã bị tấn công ra ngoài.</span>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Salmar (Noldorin) lẽ ra phải chiến đấu với Melko cùng với <a href="../T/Tulkas.md" title="Tulkas">Tulkas</a> trong <a href="../B/Battle_of_the_Silent_Pools.md" title="Battle of the Silent Pools">Trận chiến ở Silent Pools</a>, trong đó Melko đã bị bắt - nhưng sự hiện diện của ông ở đó đã bị tấn công ra ngoài.</span>
 </li>
 <li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><i>Goldriel</i> được thay thế bằng <i><b>Golthadriel</b></i>, nhưng sau đó cả hai điều khoản đều bị loại bỏ.</span>
 </li>

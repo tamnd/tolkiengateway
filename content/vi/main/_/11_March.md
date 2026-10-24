@@ -81,7 +81,7 @@ Sự kiện xảy ra vào ngày 11 tháng 3
     - [Gollum](../G/Gollum.md) đến thăm [Shelob](../S/Shelob.md), nhưng khi thấy [Frodo](../F/Frodo_Baggins.md) đang ngủ, anh gần như quyết định không theo đuổi kế hoạch lấy lại [Chiếc nhẫn](../T/The_One_Ring.md) của mình.
     - [Denethor](../D/Denethor.md) gửi [Faramir](../F/Faramir.md) đến [Osgiliath](../O/Osgiliath.md).
     - [Aragorn](../A/Aragorn.md) cùng với [Đại đội Grey](../G/Grey_Company.md) và [Người chết Con Người](../O/Oathbreakers.md) đến được [Linhir](../L/Linhir.md) và băng qua [Lebennin](../L/Lebennin.md).
-    - [Aragorn](../A/Aragorn.md) ra giá [Angbor](../A/Angbor.md) của [Lamedon](../L/Lamedon.md) đi theo ông ta đến [Pelargir](../P/Pelargir.md), nơi "[Người thừa kế Isildur](../H/Heir_of_Isildur.md) cần ông ta".
+    - [Aragorn](../A/Aragorn.md) ra giá [Angbor](../A/Angbor.md) của [Lamedon](../L/Lamedon.md) đi theo ông đến [Pelargir](../P/Pelargir.md), nơi "[Người thừa kế Isildur](../H/Heir_of_Isildur.md) cần ông".
     - Chiếc [Rohirrim](../R/Rohirrim.md) di chuyển về phía [Minas Tirith](../M/Minas_Tirith.md).
     - [Miền Đông](../E/Eastemnet.md) [Rohan](../R/Rohan.md) bị xâm chiếm từ phía bắc.
     - Orc [Dol Guldur](../D/Dol_Guldur.md) [tấn công](../A/Assaults_on_Lothlórien.md) [Lothlórien](../L/Lothlórien.md), nhưng họ bị đánh trả.

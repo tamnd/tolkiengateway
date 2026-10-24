@@ -76,9 +76,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Xét về độ dài của nó, Náin nhiều khả năng đã chiến đấu trong phần lớn [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), tuy nhiên chiến công duy nhất của ông ta được ghi lại ở [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md).
+Xét về độ dài của nó, Náin nhiều khả năng đã chiến đấu trong phần lớn [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), tuy nhiên chiến công duy nhất của ông được ghi lại ở [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md).
 
-Trong trận chiến, Náin dẫn đầu quân tiếp viện mới đến [Thung lũng Dimrill](../D/Dimrill_Dale.md), nơi anh chiến đấu đến tận bậc thang [Cổng Đông](../E/East-gate.md) của [Moria](../M/Moria.md), nơi anh đấu tay đôi với [Azog](../A/Azog.md). Nhưng Náin bị mù nửa người vì cơn thịnh nộ và mệt mỏi vì chiến đấu nên ông ta đã dùng hết sức mình vung vào Orc. Azog lao sang một bên và đá vào chân Náin khiến ông ta trượt và gãy chiếc cuốc trên bậc thang. Náin vấp ngã và Azog cố gắng bẻ cổ ông ta, nhưng thư của Người Lùn đã đứng vững được. Tuy nhiên, cú đánh quá mạnh khiến anh Náin bị gãy cổ và ngã xuống.
+Trong trận chiến, Náin dẫn đầu quân tiếp viện mới đến [Thung lũng Dimrill](../D/Dimrill_Dale.md), nơi anh chiến đấu đến tận bậc thang [Cổng Đông](../E/East-gate.md) của [Moria](../M/Moria.md), nơi anh đấu tay đôi với [Azog](../A/Azog.md). Nhưng Náin bị mù nửa người vì cơn thịnh nộ và mệt mỏi vì chiến đấu nên ông đã dùng hết sức mình vung vào Orc. Azog lao sang một bên và đá vào chân Náin khiến ông trượt và gãy chiếc cuốc trên bậc thang. Náin vấp ngã và Azog cố gắng bẻ cổ ông, nhưng thư của Người Lùn đã đứng vững được. Tuy nhiên, cú đánh quá mạnh khiến anh Náin bị gãy cổ và ngã xuống.
 
 Sau trận chiến, thi thể của ông bị thiêu rụi cùng với những [người chết](../B/Burned_Dwarves.md) còn lại trên giàn thiêu bằng gỗ. Sau khi ông qua đời, dòng dõi của hai người anh trai của Grór không thành, và con trai của Náin là [Dáin II Ironfoot](../D/Dáin_Ironfoot.md) trở thành Vua.<sup id="cite_ref-Durin&#39;s_Folk_1-2" class="reference"><a href="#cite_note-Durin&#39;s_Folk-1">[1]</a></sup>
 
@@ -104,7 +104,7 @@ Sau trận chiến, thi thể của ông bị thiêu rụi cùng với những [
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Náin_(son_of_Grór).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2e/The_Lord_of_the_Rings_Online_-_N%C3%A1in_%28son_of_Gr%C3%B3r%29.jpg/300px-The_Lord_of_the_Rings_Online_-_N%C3%A1in_%28son_of_Gr%C3%B3r%29.jpg" decoding="async" loading="lazy" width="300" height="409" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2e/The_Lord_of_the_Rings_Online_-_N%C3%A1in_%28son_of_Gr%C3%B3r%29.jpg/450px-The_Lord_of_the_Rings_Online_-_N%C3%A1in_%28son_of_Gr%C3%B3r%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2e/The_Lord_of_the_Rings_Online_-_N%C3%A1in_%28son_of_Gr%C3%B3r%29.jpg/600px-The_Lord_of_the_Rings_Online_-_N%C3%A1in_%28son_of_Gr%C3%B3r%29.jpg 2x" data-file-width="770" data-file-height="1050"/></a><figcaption>Náin Orcsfoe in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Náin, được gọi là <b>Náin Orcsfoe</b>, xuất hiện trong một đoạn hồi tưởng mở rộng mô tả <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a> và cái chết cuối cùng của ông.</dd></dl>
 

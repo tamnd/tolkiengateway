@@ -31,7 +31,7 @@ infobox:
 
 Herendil là một thợ lặn táo bạo và ông rất tự hào về tài năng của mình. Sau một lần lặn như vậy, cha anh, [Elendil](../E/Elendil.md), nhận thấy rằng anh dường như đã trưởng thành vượt bậc và nói với Herendil rằng anh có tố chất của một người đàn ông tốt.<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Về điều này, Herendil quở trách cha mình, tin rằng nhận xét này là một sự nhạo báng, cho rằng Elendil đã biết rằng ông có chiều cao thấp hơn những người khác cùng tuổi và ông bị dày vò vì điều đó. Herendil đưa ra bằng chứng rằng ông ta chỉ cao ngang vai [Almáriel](../A/Almáriel.md).<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Về điều này, Herendil quở trách cha mình, tin rằng nhận xét này là một sự nhạo báng, cho rằng Elendil đã biết rằng ông có chiều cao thấp hơn những người khác cùng tuổi và ông bị dày vò vì điều đó. Herendil đưa ra bằng chứng rằng ông chỉ cao ngang vai [Almáriel](../A/Almáriel.md).<sup id="cite_ref-P1_1-1" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
 Herendil sau đó đã thông báo với cha mình rằng mặc dù hai người họ đều mang dòng máu của các vị vua, nhưng ngày trước những người bạn cùng lứa của anh đã gọi anh bằng những cái tên như "Terendul" và buộc tội anh là "nửaNoldo." Tuy nhiên, Herendil thừa nhận rằng ít nhất như vậy cũng tốt hơn việc “bị gọi là một nửa Gnome”.<sup id="cite_ref-P1_1-2" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 

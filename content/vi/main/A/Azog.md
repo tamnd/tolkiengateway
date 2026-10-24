@@ -162,7 +162,7 @@ Các lãnh địa dưới lòng đất của Azog ở miền bắc, dù đã b�
 
 ### Trò chơi {#Games}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Azog xuất hiện trong đoạn hồi tưởng mở rộng mô tả phần đầu và phần cuối của <a href="../W/War_of_the_Dwarves_and_Orcs.md" title="War of the Dwarves and Orcs">Cuộc chiến giữa Người Lùn và Orc</a>. Con trai út của Azog là "Komog" bị giết trong hành lang của <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a>, trong khi con trai cả của ông là "Urro" bị giết bởi <a href="../T/Thorin.md" title="Thorin">Thorin</a> trong <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a> trong cùng một cuộc giao chiến khiến ông có tên là "Oakenshield". <a href="../B/Bolg.md" title="Bolg">Bolg</a> sống sót với tư cách là người thừa kế duy nhất của mình bằng cách trốn thoát vào <a href="../M/Moria.md" title="Moria">Moria</a> ngay trước khi Azog bị Dáin giết chết.</dd></dl>
 

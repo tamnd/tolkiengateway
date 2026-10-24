@@ -117,7 +117,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ingwë là một trong những [Minyar](../M/Minyar.md) sinh năm [Cuiviénen](../C/Cuiviénen.md). Ông ta là con trai cả của [Ilion](Ilion.md), đồng thời là hậu duệ của [Imin](Imin.md) và [Iminyë](Iminyë.md), từ con trai cả đến con trai cả. Ông được mọi người yêu mến, và vào một thời điểm nào đó trước [Đại Hành Trình](../G/Great_Journey.md) ông đã kết hôn với [Ilwen](Ilwen.md) và có một số con tại Cuiviénen vào thời điểm [Oromë](../O/Oromë.md) thành lập [Quendi](../Q/Quendi.md).<sup id="cite_ref-Gol_9-0" class="reference"><a href="#cite_note-Gol-9">[9]</a></sup>
+Ingwë là một trong những [Minyar](../M/Minyar.md) sinh năm [Cuiviénen](../C/Cuiviénen.md). Ông là con trai cả của [Ilion](Ilion.md), đồng thời là hậu duệ của [Imin](Imin.md) và [Iminyë](Iminyë.md), từ con trai cả đến con trai cả. Ông được mọi người yêu mến, và vào một thời điểm nào đó trước [Đại Hành Trình](../G/Great_Journey.md) ông đã kết hôn với [Ilwen](Ilwen.md) và có một số con tại Cuiviénen vào thời điểm [Oromë](../O/Oromë.md) thành lập [Quendi](../Q/Quendi.md).<sup id="cite_ref-Gol_9-0" class="reference"><a href="#cite_note-Gol-9">[9]</a></sup>
 
 Khi Oromë mời họ đến [Aman](../A/Aman.md), Ingwë, cùng với [Finwë](../F/Finwë.md) và [Elwë](../E/Elwë_Singollo.md), là những người háo hức đến thăm nhất nên đã đi theo ông với tư cách là đại sứ và du hành đến Cõi Phước lành. Khi đến đó, Ingwë mong muốn được "sống trong sự hiện diện của Varda" và không muốn quay lại [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-Ard_10-0" class="reference"><a href="#cite_note-Ard-10">[10]</a></sup>
 
@@ -186,7 +186,7 @@ Inwë là một trong ba Tiên tộc (hai người còn lại là [Finwë](../F/
 
 Khi Inwë đến Valinor, anh tràn đầy ngạc nhiên và khao khát ánh sáng của [Laurelin](../L/Laurelin.md), một trong những [Hai Cây](../T/Two_Trees.md), và lời nói của anh đã lay động [Yavanna](../Y/Yavanna.md) và [Vána](../V/Vána.md) nên họ đã thuyết phục hầu hết những Valar khác triệu hồi Tiên tộc đến Valinor để sống giữa họ. Vì vậy, Inwë và các đại sứ khác đã được gửi trở lại Koivië-néni và thuyết phục được hầu hết Tiên tộc đến sống cùng với Valar.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[20]</a></sup>
 
-Sau đó, Inwë trở thành thủ lĩnh của [Teleri](../V/Vanyar.md), gia tộc đầu tiên của Tiên tộc và dẫn dắt họ đến Valinor. Ông ta cũng được coi là người lớn tuổi nhất<sup id="cite_ref-Dea_22-0" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> và<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup> vĩ đại nhất trong tất cả Tiên tộc, và sau đó được coi là Vua của tất cả Eldar,<sup id="cite_ref-Gil_24-0" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup> và nhà của ông ta nằm ở điểm cao nhất ở [Kôr](../K/Kôr.md), một thành phố yêu tinh vĩ đại ở Valinor, nơi có [tháp bạc](../M/Mindon_Eldaliéva.md#Other_versions_of_the_legendarium) "bắn lên trời như một cây kim".<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup> Valar cũng tặng cho Inwë một cây giống của một trong những Hai Cây, "nở hoa vĩnh viễn không tàn" trong sân của ông.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup>
+Sau đó, Inwë trở thành thủ lĩnh của [Teleri](../V/Vanyar.md), gia tộc đầu tiên của Tiên tộc và dẫn dắt họ đến Valinor. Ông cũng được coi là người lớn tuổi nhất<sup id="cite_ref-Dea_22-0" class="reference"><a href="#cite_note-Dea-22">[21]</a></sup> và<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup> vĩ đại nhất trong tất cả Tiên tộc, và sau đó được coi là Vua của tất cả Eldar,<sup id="cite_ref-Gil_24-0" class="reference"><a href="#cite_note-Gil-24">[23]</a></sup> và nhà của ông nằm ở điểm cao nhất ở [Kôr](../K/Kôr.md), một thành phố yêu tinh vĩ đại ở Valinor, nơi có [tháp bạc](../M/Mindon_Eldaliéva.md#Other_versions_of_the_legendarium) "bắn lên trời như một cây kim".<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup> Valar cũng tặng cho Inwë một cây giống của một trong những Hai Cây, "nở hoa vĩnh viễn không tàn" trong sân của ông.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup>
 
 Nhiều năm sau, sau [sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Tiên tộc của [Kôr](../K/Kôr.md) nghe về hoàn cảnh khó khăn của những [Gnomes](../G/Gnomes.md) bị [Melko](../M/Melko.md) bắt làm nô lệ và trái với mong muốn của Valar, Inwë đã dẫn họ đến [Great Lands](../G/Great_Lands.md) để gây chiến với Melko.
 
@@ -206,7 +206,7 @@ Trong những phác thảo sau này của *Book of Lost Tales*, trong đó Tol E
 
 Trong quan niệm về truyền thuyết đó, xuất hiện một nhân vật tên là Ing hoặc Ingwë, một [Mannish](../M/Men.md) Vua của Luthany, người giúp đỡ và chào đón Tiên tộc đến vùng đất của mình, sau cuộc chiến của họ với Melko và sau đó, với Con Người không thân thiện ở Great Lands.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[30]</a></sup>
 
-Tuy nhiên, ông ta *not* được đồng nhất với nhân vật Inwë, hoặc nhân vật Ingwë trong truyền thuyết sau này, mặc dù [Christopher Tolkien](../C/Christopher_Tolkien.md) cảm thấy phải có mối liên hệ nào đó giữa hai nhân vật.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup>
+Tuy nhiên, ông *not* được đồng nhất với nhân vật Inwë, hoặc nhân vật Ingwë trong truyền thuyết sau này, mặc dù [Christopher Tolkien](../C/Christopher_Tolkien.md) cảm thấy phải có mối liên hệ nào đó giữa hai nhân vật.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup>
 
 #### Từ nguyên ban đầu {#Early_etymology}
 
@@ -220,7 +220,7 @@ Tên riêng (Gnomish) của ông, theo *[Gnomish Lexicon](../G/Gnomish_Lexicon.m
 
 Dạng Gnomish ban đầu của tên ông là <i><b>Ginweg</b></i>, sau đó đổi thành <i><b>Gim</b></i> hoặc *Githil*.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[36]</a></sup>
 
-Ông ta còn được gọi là <i><b>Tur yan Eldaron</b></i>, nghĩa là "Vua của Tiên tộc" trong Qenya, với <i><b>Tur nan Églathon</b></i> là Gnomish tương đương với nó.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[37]</a></sup>
+Ông còn được gọi là <i><b>Tur yan Eldaron</b></i>, nghĩa là "Vua của Tiên tộc" trong Qenya, với <i><b>Tur nan Églathon</b></i> là Gnomish tương đương với nó.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[37]</a></sup>
 
 Trong *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)*, từ c. [1926](../_/1926.md), tên <i><b>Ing</b></i> được mô tả là dạng Gnomish của *Ingwë*, trái ngược với quan niệm trước đó về việc *Ing* là dạng Qenya bị từ chối của *Inwë*.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[38]</a></sup>
 
@@ -242,7 +242,7 @@ Trong *[Sketch of the Mythology](../S/Sketch_of_the_Mythology.md)*, từ c. [192
 
 Trong *[Lhammas](../L/Lhammas.md)*, một văn bản từ những năm 1930, Ingwë được đề cập là một trong những nguyên bản và là người lớn tuổi nhất của Tiên tộc được [thức tỉnh](../A/Awakening_of_the_Elves.md) tại [Cuiviénen](../C/Cuiviénen.md), và là người đã dẫn dắt người dân của mình, những người đứng đầu được gọi là *Ingwelindar* hoặc *Ingwi*, tới [Aman](../A/Aman.md).<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">[39]</a></sup>
 
-Trong *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* từ c. [1930](../_/1930.md), ông ta vẫn được cho là một trong những thủ lĩnh của Eldar trong [War of Wrath](../W/War_of_Wrath.md) (không giống như trong các phiên bản sau, khi con trai ông ta là Ingwion lãnh đạo họ), và ông ta vẫn được cho là chết trong cuộc chiến đó, như trong truyền thuyết đầu tiên ở *Book of Lost Tales*.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[40]</a></sup>
+Trong *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* từ c. [1930](../_/1930.md), ông vẫn được cho là một trong những thủ lĩnh của Eldar trong [War of Wrath](../W/War_of_Wrath.md) (không giống như trong các phiên bản sau, khi con trai ông là Ingwion lãnh đạo họ), và ông vẫn được cho là chết trong cuộc chiến đó, như trong truyền thuyết đầu tiên ở *Book of Lost Tales*.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[40]</a></sup>
 
 #### Ba vị đại sứ {#The_Three_Ambassadors}
 

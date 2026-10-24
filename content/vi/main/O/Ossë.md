@@ -71,7 +71,7 @@ infobox:
 
 ## Thuộc tính {#Attributes}
 
-Ossë là chư hầu của Ulmo, nhưng ông ta yêu gió và thích các bờ biển và đảo của [Trung Địa](../M/Middle-earth.md)<sup id="cite_ref-s3_1-0" class="reference"><a href="#cite_note-s3-1">[1]</a></sup> hơn vực sâu của chủ nhân mình. Có chút đen tối và bạo lực trong tâm hồn ông ta, có lẽ là sau khi bị [Melkor](../M/Morgoth.md) dụ dỗ, và ông ta thích nổi cơn thịnh nộ trong giông bão bất chấp ý muốn của Ulmo; chỉ có người phối ngẫu của ông ta, [Uinen](../U/Uinen.md), mới có thể kiềm chế được những ham muốn ngông cuồng của ông ta. Anh tuân theo ý muốn của [Mandos](../M/Mandos.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và là bạn của tất cả các thủy thủ, nhưng họ không tin vào tính khí thất thường của anh.<sup id="cite_ref-vala_3-0" class="reference"><a href="#cite_note-vala-3">[3]</a></sup>
+Ossë là chư hầu của Ulmo, nhưng ông yêu gió và thích các bờ biển và đảo của [Trung Địa](../M/Middle-earth.md)<sup id="cite_ref-s3_1-0" class="reference"><a href="#cite_note-s3-1">[1]</a></sup> hơn vực sâu của chủ nhân mình. Có chút đen tối và bạo lực trong tâm hồn ông, có lẽ là sau khi bị [Melkor](../M/Morgoth.md) dụ dỗ, và ông thích nổi cơn thịnh nộ trong giông bão bất chấp ý muốn của Ulmo; chỉ có người phối ngẫu của ông, [Uinen](../U/Uinen.md), mới có thể kiềm chế được những ham muốn ngông cuồng của ông. Anh tuân theo ý muốn của [Mandos](../M/Mandos.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và là bạn của tất cả các thủy thủ, nhưng họ không tin vào tính khí thất thường của anh.<sup id="cite_ref-vala_3-0" class="reference"><a href="#cite_note-vala-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -85,7 +85,7 @@ Khi Ulmo đưa hòn đảo nổi cùng với [Olwë](Olwë.md) và Lindar của 
 
 Cùng với chủ nhân của mình, Ossë thường đến thăm [Nevrast](../N/Nevrast.md) và chân núi [Taras](../T/Taras.md) ở [Trung Địa](../M/Middle-earth.md), và nhiều [Sindar](../S/Sindar.md) đã tập trung đến nơi đó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Sau [Cuộc tàn sát người thân đầu tiên](../F/First_Kinslaying.md), [Olwë](Olwë.md) đã kêu gọi Ossë chống lại [Noldor](../N/Noldor.md), nhưng ông ta đã không đến, vì Valar không muốn cản trở [Chuyến bay của Noldor](../F/Flight_of_the_Noldor.md) bằng bạo lực.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Sau [Cuộc tàn sát người thân đầu tiên](../F/First_Kinslaying.md), [Olwë](Olwë.md) đã kêu gọi Ossë chống lại [Noldor](../N/Noldor.md), nhưng ông đã không đến, vì Valar không muốn cản trở [Chuyến bay của Noldor](../F/Flight_of_the_Noldor.md) bằng bạo lực.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Sau khi [Valar](../V/Valar.md) tuyên bố [Sự diệt vong của Noldor](../D/Doom_of_the_Noldor~13942.md), Ossë đã giúp bảo vệ bờ biển của [Beleriand](../B/Beleriand.md) để ngăn các tàu của Noldor tiếp cận [Valinor](../V/Valinor.md). Những cơn bão của ông đã góp phần đánh đắm tất cả các con tàu mà họ gửi đến, và chỉ có một chiếc [Tiên](../E/Elves.md) trong số thủy thủ đoàn của họ sống sót, theo ý nguyện của Ulmo: [Voronwë](../V/Voronwë.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -106,9 +106,9 @@ Thay vào đó, một ghi chú sau đó liên quan đến cái tên gợi ý r�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản cũ hơn của *[The Silmarillion](../T/The_Silmarillion.md)* cũng như *[Annals of Aman](../A/Annals_of_Aman.md)*, Ossë và vợ/chồng [Uinen](../U/Uinen.md) của ông ta Valar có quyền riêng của họ và thường phản đối ý muốn của Ulmo.
+Trong các phiên bản cũ hơn của *[The Silmarillion](../T/The_Silmarillion.md)* cũng như *[Annals of Aman](../A/Annals_of_Aman.md)*, Ossë và vợ/chồng [Uinen](../U/Uinen.md) của ông Valar có quyền riêng của họ và thường phản đối ý muốn của Ulmo.
 
-Trong bản dịch [tiếng Anh cổ](Old_English.md) của [Eriol](../E/Eriol.md), Ossë được gọi là *Saefrea* ("Biển-ruler"),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> phản ánh địa vị của ông ta là một Vala (Fréa).
+Trong bản dịch [tiếng Anh cổ](Old_English.md) của [Eriol](../E/Eriol.md), Ossë được gọi là *Saefrea* ("Biển-ruler"),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> phản ánh địa vị của ông là một Vala (Fréa).
 
 Theo quan niệm đó, Ossë là nguồn gốc của tên *Balar* trong các địa danh như [Mũi Balar](../C/Cape_Balar.md), [Đảo Balar](../I/Isle_of_Balar.md) và [Vịnh Balar](../B/Bay_of_Balar.md), những nơi anh thường đến thăm và từ đó tất cả [Beleriand](../B/Beleriand.md) đều được đặt tên.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 

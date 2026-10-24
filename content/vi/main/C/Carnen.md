@@ -64,7 +64,7 @@ Có thể con sông có tên như vậy vì lòng sông bao gồm các trầm t�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nguồn gốc của dòng sông Carnen có thể được tìm thấy ở vùng Ironfold. Nó bắt đầu bằng sáu dòng suối chảy vào Dãy Đồi Sắt từ những ngọn núi gần đó, tất cả đều nông và có màu nâu gỉ. Bên kia Dãy Đồi Sắt, các dòng suối cuối cùng hợp lại thành một con sông duy nhất, sau đó đổ xuống qua nhiều thác nước vào khu vực được gọi là "vùng đất Barding", làm sạch trầm tích trước khi chảy xa hơn về phía nam.</dd></dl>
 

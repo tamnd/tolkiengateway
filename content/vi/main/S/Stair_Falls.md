@@ -34,7 +34,7 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Stair_Falls.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/76/The_Lord_of_the_Rings_Online_-_Stair_Falls.jpg/300px-The_Lord_of_the_Rings_Online_-_Stair_Falls.jpg" decoding="async" loading="lazy" width="300" height="156" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/76/The_Lord_of_the_Rings_Online_-_Stair_Falls.jpg/450px-The_Lord_of_the_Rings_Online_-_Stair_Falls.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/76/The_Lord_of_the_Rings_Online_-_Stair_Falls.jpg/600px-The_Lord_of_the_Rings_Online_-_Stair_Falls.jpg 2x" data-file-width="1584" data-file-height="822"/></a><figcaption>Stair Falls in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thác Stair là một cột mốc bên ngoài <a href="../D/Doors_of_Durin.md" title="Doors of Durin">Cánh cửa Durin</a>, hiện đang khô cạn vì <a href="Sirannon.md" title="Sirannon">Sirannon</a> đã bị đập.</dd></dl>
 

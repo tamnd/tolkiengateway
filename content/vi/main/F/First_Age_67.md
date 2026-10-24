@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Thingol](../T/Thingol.md) biết về vụ [Tàn sát](../K/Kinslaying_at_Alqualondë.md) tại [Alqualondë](../A/Alqualondë.md). Ông ta cấm nói [Quenya](../Q/Quenya.md) của [Beleriand](../B/Beleriand.md); [Noldor](../N/Noldor.md) chấp nhận [Sindarin](../S/Sindarin.md) và chỉ nói Quenya riêng tư và trong [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Thingol](../T/Thingol.md) biết về vụ [Tàn sát](../K/Kinslaying_at_Alqualondë.md) tại [Alqualondë](../A/Alqualondë.md). Ông cấm nói [Quenya](../Q/Quenya.md) của [Beleriand](../B/Beleriand.md); [Noldor](../N/Noldor.md) chấp nhận [Sindarin](../S/Sindarin.md) và chỉ nói Quenya riêng tư và trong [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

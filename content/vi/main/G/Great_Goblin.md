@@ -104,7 +104,7 @@ Một hệ quả khác từ cái chết của Đại Quỷ vương là lòng că
 
 <dl><dd>Trong các phiên bản console, Great Goblin được đề cập nhưng chưa bao giờ được nhìn thấy, vì Bilbo bị tách khỏi Người Lùn trước khi họ gặp Great Goblin. Tuy nhiên, ông đã xuất hiện trong phiên bản GBA, ngoại hình của ông rất giống với mô tả trong tiểu thuyết. Trong phiên bản sau, ông ngay lập tức ra lệnh xử tử Thorin và những người khác sau khi Thorin bào chữa cho vụ án của mình, thay vì sau khi tiết lộ rằng ông sở hữu <a href="../O/Orcrist.md" title="Orcrist">Orcrist</a>, trước khi bị giết bởi Gandalf.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nhiều yêu tinh khác giành lấy chiếc áo choàng của Yêu tinh vĩ đại trong <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>. Một trò đùa đang diễn ra trong trò chơi là không ai trong số những người yêu cầu bồi thường có thể đứng vững trước Great Goblin ban đầu; tất cả đều nhanh chóng bị đánh bại và khi con yêu tinh tiếp theo đứng lên giành lấy danh hiệu, chu kỳ vẫn tiếp tục.</dd></dl>
 

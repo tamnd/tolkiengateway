@@ -132,13 +132,13 @@ Trong [T.A.](../T/Third_Age.md) [2480](../T/Third_Age_2480.md) Orc bắt đầu 
 
 Gần lối ra phía đông của thị trấn Goblin, Đại Bàng bố trí [eyrie](../E/Eagle's_Eyrie.md) để canh chừng Orc.<sup id="cite_ref-south_7-2" class="reference"><a href="#cite_note-south-7">[5]</a></sup><sup id="cite_ref-council_11-0" class="reference"><a href="#cite_note-council-11">[9]</a></sup>
 
-[Gandalf](../G/Gandalf.md) tin rằng chính [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) đã xua đuổi người dân [Beorn](../B/Beorn.md) và ông ta hứa sẽ quay lại đó.<sup id="cite_ref-queer_9-1" class="reference"><a href="#cite_note-queer-9">[7]</a></sup>
+[Gandalf](../G/Gandalf.md) tin rằng chính [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) đã xua đuổi người dân [Beorn](../B/Beorn.md) và ông hứa sẽ quay lại đó.<sup id="cite_ref-queer_9-1" class="reference"><a href="#cite_note-queer-9">[7]</a></sup>
 
 [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) đã sử dụng Đèo Cao để vượt qua Dãy Núi Sương Mù và chứng kiến ​​ [Người khổng lồ](../G/Giants.md) bí ẩn. Sau đó họ bị Orc của thị trấn Goblin bắt giữ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[10]</a></sup>
 
 Có vẻ như người của Beorn đã quay lại Dãy Núi. Sau khi Orc bị tiêu diệt, [Beornings](../B/Beornings.md) tiếp tục mở các lối đi của [Ford của Carrock](../F/Ford_of_Carrock.md) và [Đèo Cao](../H/High_Pass.md) để đổi lấy phí cầu đường.<sup id="cite_ref-council_11-1" class="reference"><a href="#cite_note-council-11">[9]</a></sup>
 
-[Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) phải đối mặt với thử thách vượt qua Dãy Núi. Họ quyết định tránh Đèo Cao hoặc Gap of Rohan vì mối đe dọa từ các cuộc tuần tra của Orc và lực lượng của Saruman. Họ cố gắng vượt qua Đèo Redhorn nhưng một trận bão tuyết mạnh đã chặn đường, buộc họ phải hành trình qua Moria. Ở đó [Gandalf](../G/Gandalf.md) bị lạc khi cố gắng ngăn chặn Tai họa của Durin, và sau khi rơi xuống vực thẳm, ông ta đuổi theo đến Người Lùn [Cầu thang vô tận](../E/Endless_Stair.md) và [chiến đấu trên đỉnh](../B/Battle_of_the_Peak.md) Silvertine.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[11]</a></sup>
+[Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) phải đối mặt với thử thách vượt qua Dãy Núi. Họ quyết định tránh Đèo Cao hoặc Gap of Rohan vì mối đe dọa từ các cuộc tuần tra của Orc và lực lượng của Saruman. Họ cố gắng vượt qua Đèo Redhorn nhưng một trận bão tuyết mạnh đã chặn đường, buộc họ phải hành trình qua Moria. Ở đó [Gandalf](../G/Gandalf.md) bị lạc khi cố gắng ngăn chặn Tai họa của Durin, và sau khi rơi xuống vực thẳm, ông đuổi theo đến Người Lùn [Cầu thang vô tận](../E/Endless_Stair.md) và [chiến đấu trên đỉnh](../B/Battle_of_the_Peak.md) Silvertine.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[11]</a></sup>
 
 Người ta nói rằng vào [Kỷ Đệ Tứ](../F/Fourth_Age.md) [Durin VII](../D/Durin_VII.md) đã dẫn dắt Người Lùn quay trở lại Moria.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[12]</a></sup>
 
@@ -162,7 +162,7 @@ Trong bản nháp của chương *The Council of Elrond*, Dãy Núi Sương Mù 
 
 <dl><dd>Hội quyết định lấy <a href="../C/Caradhras.md" title="Caradhras">Vượt qua Caradhras</a> qua Dãy Núi Sương Mù sau khi biết rằng lối đi phía Nam đang bị theo dõi. Một trận bão tuyết do Saruman gây ra buộc Công ty phải di chuyển theo Dãy Núi, xuyên qua <a href="Moria.md" title="Moria">Moria</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dãy Núi Sương Mù xuất hiện dưới dạng cả khu vực trò chơi chính và trong các khu vực trò chơi khác. Vùng "Dãy Núi Sương Mù" bao gồm phần dãy núi tiếp giáp với Thung lũng Rivendell, bao gồm cả <a href="../H/High_Pass.md" title="High Pass">Đèo Cao</a> và <a href="../G/Goblin-town.md" title="Goblin-town">Thị trấn yêu tinh</a>. Dãy núi theo nghĩa rộng hơn cũng có thể được truy cập từ các khu vực khác trong trò chơi, bao gồm đèo Caradhras ở <a href="../E/Eregion.md" title="Eregion">Eregion</a>, khu định cư cũ Người Lùn dưới <a href="../T/Thrór.md" title="Thrór">Thrór</a> ở phía đông <a href="../E/Enedwaith.md" title="Enedwaith">Enedwaith</a>, một ngôi làng trên sườn núi <a href="Methedras.md" title="Methedras">Methedras</a> ở <a href="../D/Dunland.md" title="Dunland">Dunland</a>, vách đá <a class="mw-redirect" href="../Z/Zirakzigil.md" title="Zirakzigil">Zirakzigil</a> ở Moria và sườn phía đông của Dãy Núi trong <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>.</dd></dl>
 

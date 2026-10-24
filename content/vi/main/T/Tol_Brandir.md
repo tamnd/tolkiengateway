@@ -79,7 +79,7 @@ Trong [Bản đồ đầu tiên của The Lord of the Rings](The_First_Map_of_Th
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Tol_Brandir.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c5/The_Lord_of_the_Rings_Online_-_Tol_Brandir.jpg/250px-The_Lord_of_the_Rings_Online_-_Tol_Brandir.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c5/The_Lord_of_the_Rings_Online_-_Tol_Brandir.jpg/375px-The_Lord_of_the_Rings_Online_-_Tol_Brandir.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c5/The_Lord_of_the_Rings_Online_-_Tol_Brandir.jpg/500px-The_Lord_of_the_Rings_Online_-_Tol_Brandir.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Tol Brandir in <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2012: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tol Brandir hiển thị từ <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a> và <a href="../P/Parth_Galen.md" title="Parth Galen">Parth Galen</a>, nhưng đúng với văn bản thì hoàn toàn không thể truy cập được.</dd></dl>
 

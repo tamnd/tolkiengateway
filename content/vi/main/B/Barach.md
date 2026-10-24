@@ -36,7 +36,7 @@ infobox:
 
 **Barach** là một trong những [Dân tộc Haleth](../F/Folk_of_Haleth.md) sống trong Rừng [Brethil](Brethil.md) trong [Kỷ Đệ Nhất](../F/First_Age.md). Anh và gia đình có tình bạn với một [Drúadan](../D/Drúedain.md) tên là [Aghan](../A/Aghan.md), và vào thời điểm [Orc](../O/Orcs.md) đang rình mò trong rừng, [Aghan](../A/Aghan.md) đã canh chừng trang trại của người bạn Barach của anh mỗi đêm.
 
-Câu chuyện của [Hòn đá trung thành](../T/The_Faithful_Stone.md) mô tả những sự kiện diễn ra khi [Aghan](../A/Aghan.md) buộc phải rời bỏ Barach và gia đình anh mà không được bảo vệ trong một thời gian. Thay vào vị trí của ông ta, [Drûg](../D/Drúedain.md) đã để lại một 'đá đồng hồ' được chạm khắc, và Barach không hề biết rằng ông ta đã truyền một phần sức mạnh của chính mình vào đó, để nó có thể thực sự bảo vệ ngôi nhà.
+Câu chuyện của [Hòn đá trung thành](../T/The_Faithful_Stone.md) mô tả những sự kiện diễn ra khi [Aghan](../A/Aghan.md) buộc phải rời bỏ Barach và gia đình anh mà không được bảo vệ trong một thời gian. Thay vào vị trí của ông, [Drûg](../D/Drúedain.md) đã để lại một 'đá đồng hồ' được chạm khắc, và Barach không hề biết rằng ông đã truyền một phần sức mạnh của chính mình vào đó, để nó có thể thực sự bảo vệ ngôi nhà.
 
 Khi [Aghan](../A/Aghan.md) đi vắng, Barach thực sự đã bị tấn công bởi [Orc](../O/Orcs.md), kẻ đã cố đốt nhà của anh. Ngọn lửa đã được dập tắt bởi một Drûg - dường như viên đá đã trở nên sống động - và [Orc](../O/Orcs.md) đã bị đuổi đi. Khi [Aghan](../A/Aghan.md) trở lại vào ngày hôm sau, anh tìm thấy bức chạm khắc bị cháy sém và vỡ, còn Barach thấy rằng bạn mình cũng bị thương - kết quả của việc truyền một phần sức mạnh của anh vào viên đá đồng hồ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

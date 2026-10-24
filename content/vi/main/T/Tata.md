@@ -75,7 +75,7 @@ infobox:
 
 **Tata** là người thứ hai trong số ba [Tiên người cha](../E/Elf-fathers.md) thức dậy lúc [Cuiviénen](../C/Cuiviénen.md) sau [Imin](../I/Imin.md). Vợ của ông là [Tatië](Tatië.md).
 
-Khi ba Người Cha bước đi, Tata, người thứ hai thức dậy, dẫn theo nhóm thứ hai gồm 18 Tiên tộc mà ông tìm thấy. Ông ta cũng lấy nhóm thứ tư gồm 36 Tiên tộc, vì Imin từ chối, mong đợi một nhóm lớn hơn nên đã tập hợp 56 người đồng hành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi ba Người Cha bước đi, Tata, người thứ hai thức dậy, dẫn theo nhóm thứ hai gồm 18 Tiên tộc mà ông tìm thấy. Ông cũng lấy nhóm thứ tư gồm 36 Tiên tộc, vì Imin từ chối, mong đợi một nhóm lớn hơn nên đã tập hợp 56 người đồng hành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Anh trở thành người đứng đầu Clan được đặt theo tên anh [Tatyar](Tatyar.md), "Giây".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

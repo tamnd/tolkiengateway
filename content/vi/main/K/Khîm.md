@@ -49,7 +49,7 @@ infobox:
 
 Một ngày nọ, khi đi du lịch cùng cha và anh trai, cả ba bị [Túrin Turambar](../T/Túrin.md)'s [ban nhạc ngoài vòng pháp luật](../G/Gaurwaith.md) tấn công. Cùng với Ibun, Khîm chạy trốn vào màn sương, nhưng một mũi tên lạc do một trong những kẻ ngoài vòng pháp luật bắn trúng đã bắn trúng anh khi anh chạy trốn. Mặc dù ông đã trốn thoát trở lại hành lang của Mîm bên dưới [Amon Rûdh](../A/Amon_Rûdh.md)—chắc chắn là có sự giúp đỡ của anh trai—vết thương của ông rất nặng và ông đã chết trước khi cha ông quay trở lại.<sup id="cite_ref-Mim_1-1" class="reference"><a href="#cite_note-Mim-1">[1]</a></sup>
 
-Túrin và những người bạn đồng hành của ông ta đến sống trong ngôi nhà của Mîm, nơi được gọi là [Nhà tiền chuộc](../H/House_of_Ransom.md), một phần vì cái chết sớm của Khîm. Cung thủ đã bắn ông ta, một kẻ sống ngoài vòng pháp luật tên [Andróg](../A/Andróg.md), đã bị Mîm nguyền rủa và buộc phải bẻ gãy cây cung của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Túrin và những người bạn đồng hành của ông đến sống trong ngôi nhà của Mîm, nơi được gọi là [Nhà tiền chuộc](../H/House_of_Ransom.md), một phần vì cái chết sớm của Khîm. Cung thủ đã bắn ông, một kẻ sống ngoài vòng pháp luật tên [Andróg](../A/Andróg.md), đã bị Mîm nguyền rủa và buộc phải bẻ gãy cây cung của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

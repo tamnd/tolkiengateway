@@ -41,7 +41,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi quân đội của [Azog](../A/Azog.md) đang tiến đến [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) thông qua các đường hầm do [Sâu sói](../W/Were-worms.md) đào, Ragash cảnh báo Azog rằng quân đội sẽ sẵn sàng tấn công Ngọn núi vào lúc bình minh. Không biết liệu Ragash có sống sót sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md) hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta còn có một người anh trai tên là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Margush&amp;action=edit&amp;redlink=1" title="Margush (page does not exist)">Margush</a>.
+Khi quân đội của [Azog](../A/Azog.md) đang tiến đến [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) thông qua các đường hầm do [Sâu sói](../W/Were-worms.md) đào, Ragash cảnh báo Azog rằng quân đội sẽ sẵn sàng tấn công Ngọn núi vào lúc bình minh. Không biết liệu Ragash có sống sót sau [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md) hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông còn có một người anh trai tên là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Margush&amp;action=edit&amp;redlink=1" title="Margush (page does not exist)">Margush</a>.
 
 <span></span>
 

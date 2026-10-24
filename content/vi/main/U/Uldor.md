@@ -64,7 +64,7 @@ infobox:
 
 **Uldor Kẻ đáng nguyền rủa** là con trai cả<sup><a class="mw-selflink-fragment" href="#Uldor&#39;s_year_of_birth">NB</a></sup> của [Ulfang](Ulfang.md) Kẻ đen tối.<sup id="cite_ref-Ulf_2-0" class="reference"><a href="#cite_note-Ulf-2">[2]</a></sup>
 
-Rất có thể ông ta được gọi là "Kẻ đáng nguyền rủa" do vai trò là kẻ cầm đầu sự phản bội khét tiếng của [dân gian](../F/Folk_of_Uldor.md) của ông ta trong [Trận chiến nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md).
+Rất có thể ông được gọi là "Kẻ đáng nguyền rủa" do vai trò là kẻ cầm đầu sự phản bội khét tiếng của [dân gian](../F/Folk_of_Uldor.md) của ông trong [Trận chiến nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md).
 
 ## Lịch sử {#History}
 

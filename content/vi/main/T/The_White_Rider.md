@@ -45,11 +45,11 @@ infobox:
 
 Câu chuyện bây giờ quay trở lại với ba du khách đang tìm kiếm những người bạn đồng hành bị mất tích của họ. Họ tìm thấy một chiếc lá [Lórien](../L/Lothlórien.md) và những mẩu thức ăn vụn trên cỏ, cũng như những đoạn dây bị cắt. Họ cũng tìm thấy một con dao [Orc](../O/Orcs.md). Họ lần theo dấu chân [Hobbit](../H/Hobbits.md) lên đến bức tường đá [Treebeard](Treebeard.md) và khi leo lên đỉnh, họ lại nhìn thấy một ông già đã xuất hiện trước đó.
 
-Ông già đến gặp họ và tiết lộ mình là [Gandalf](../G/Gandalf.md). Ông ta nói với họ rằng ông già mà họ nhìn thấy trước đó không phải là ông ta mà là [Saruman](../S/Saruman.md). Ông cũng nói với họ rằng những người bạn Hobbit mất tích của họ đã đi cùng [Ent](../E/Ents.md) đến [Isengard](../I/Isengard.md) để chiến đấu với Saruman. Ông nói với [Aragorn](../A/Aragorn.md) rằng ông phải đến giúp đỡ họ.
+Ông già đến gặp họ và tiết lộ mình là [Gandalf](../G/Gandalf.md). Ông nói với họ rằng ông già mà họ nhìn thấy trước đó không phải là ông mà là [Saruman](../S/Saruman.md). Ông cũng nói với họ rằng những người bạn Hobbit mất tích của họ đã đi cùng [Ent](../E/Ents.md) đến [Isengard](../I/Isengard.md) để chiến đấu với Saruman. Ông nói với [Aragorn](../A/Aragorn.md) rằng ông phải đến giúp đỡ họ.
 
-Anh kể cho họ nghe chuyện đã xảy ra khi anh rơi xuống vực thẳm cùng với [Balrog](../B/Balrogs.md) [Tai họa của Durin](../D/Durin's_Bane.md). Gandalf đã bám sát gót chân kẻ thù và Balrog đã đưa ông ta lên đỉnh cao nhất mà từ đó Gandalf đã ném Balrog đến chỗ chết. [Gwaihir](../G/Gwaihir.md), người được Quý cô [Galadriel](../G/Galadriel.md) cử đến, đã tìm thấy Gandalf ở đó. Ông ta đã được đưa đến [Lothlórien](../L/Lothlórien.md), nơi ông ta được mặc đồ trắng và đã được chữa lành. Lời cảnh báo của Quý cô Galadriel được gửi đến cả ba người và họ lên đường.
+Anh kể cho họ nghe chuyện đã xảy ra khi anh rơi xuống vực thẳm cùng với [Balrog](../B/Balrogs.md) [Tai họa của Durin](../D/Durin's_Bane.md). Gandalf đã bám sát gót chân kẻ thù và Balrog đã đưa ông lên đỉnh cao nhất mà từ đó Gandalf đã ném Balrog đến chỗ chết. [Gwaihir](../G/Gwaihir.md), người được Quý cô [Galadriel](../G/Galadriel.md) cử đến, đã tìm thấy Gandalf ở đó. Ông đã được đưa đến [Lothlórien](../L/Lothlórien.md), nơi ông được mặc đồ trắng và đã được chữa lành. Lời cảnh báo của Quý cô Galadriel được gửi đến cả ba người và họ lên đường.
 
-Sau đó, Kỵ sĩ Trắng (Gandalf) triệu tập [Shadowfax](../S/Shadowfax.md), con ngựa mà ông ta đã lấy từ [Théoden](Théoden.md) cùng với hai con khác. Gandalf cưỡi [Gimli](../G/Gimli.md) lên con ngựa của chính mình và họ đi về phía sảnh của Théoden, vua của [Éomer](../_/Éomer.md).
+Sau đó, Kỵ sĩ Trắng (Gandalf) triệu tập [Shadowfax](../S/Shadowfax.md), con ngựa mà ông đã lấy từ [Théoden](Théoden.md) cùng với hai con khác. Gandalf cưỡi [Gimli](../G/Gimli.md) lên con ngựa của chính mình và họ đi về phía sảnh của Théoden, vua của [Éomer](../_/Éomer.md).
 
 ## Thành phần {#Composition}
 

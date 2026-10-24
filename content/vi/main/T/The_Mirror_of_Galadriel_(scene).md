@@ -40,7 +40,7 @@ infobox:
 
 Galadriel hỏi liệu ông có nhìn vào gương không, và Frodo hỏi ông sẽ thấy gì nếu làm vậy. Galadriel giải thích rằng ngay cả người khôn ngoan nhất cũng không thể biết được, vì tấm gương soi ra nhiều thứ - những thứ đã có, những thứ đang tồn tại và những thứ chưa trải qua. Cô đổ nước vào cái bát đặt trên bệ rồi bước lùi lại. Frodo tiến lại gần và nhìn xuống nước.
 
-Lúc đầu ông ta chỉ nhìn thấy hình ảnh phản chiếu của chính mình, nhưng sau đó các hình ảnh thay đổi. Ông thoáng nhìn thấy các thành viên khác của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md). sau đó là [Bag End](../B/Bag_End.md) và [The Shire](The_Shire.md). Đột nhiên, hình ảnh chuyển sang Shire trong biển lửa, lũ Orc tấn công và bắt người Hobbit làm nô lệ, còn Bag End bị bỏ lại trong đống đổ nát.
+Lúc đầu ông chỉ nhìn thấy hình ảnh phản chiếu của chính mình, nhưng sau đó các hình ảnh thay đổi. Ông thoáng nhìn thấy các thành viên khác của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md). sau đó là [Bag End](../B/Bag_End.md) và [The Shire](The_Shire.md). Đột nhiên, hình ảnh chuyển sang Shire trong biển lửa, lũ Orc tấn công và bắt người Hobbit làm nô lệ, còn Bag End bị bỏ lại trong đống đổ nát.
 
 Đột nhiên, [Con Mắt của Sauron](../E/Eye_of_Sauron.md) lấp đầy tấm gương. Frodo không thể rời mắt, [Chiếc nhẫn duy nhất](The_One_Ring.md) tuột khỏi áo và treo lủng lẳng trên tấm gương trước Con mắt. Frodo cuối cùng cũng chộp được chiếc nhẫn và kéo mình ra xa, ngã xuống đất.
 

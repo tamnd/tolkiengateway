@@ -44,7 +44,7 @@ Cuốn sách bao gồm một bức ảnh Tolkien với vợ của Willian Scott 
 - II. Thư từ C.S. Lewis
     - Anne Etkin với Lucy Matthews
     - Thư của C.S. Lewis
-- III. *Homecoming* của Tolkien, manh mối về suy nghĩ và tính cách của ông ta
+- III. *Homecoming* của Tolkien, manh mối về suy nghĩ và tính cách của ông
     - Anne Etkin
 - IV. Giáo sư J.R.R. Tolkien: Người tạo ra Hobbit và Người phát minh ra thần thoại mới
     - [C.S. Lewis](../C/C.S._Lewis.md)

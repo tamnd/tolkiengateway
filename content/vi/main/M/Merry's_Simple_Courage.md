@@ -39,7 +39,7 @@ Quân đội của [Théoden](../T/Théoden.md) được biết từ các trinh 
 
 ## Sự khác biệt {#Differences}
 
-Hầu hết cảnh này chỉ có trong phim. Merry không nhận ra rằng người lái xe đưa ông ta đi cùng, [Dernhelm](../D/Dernhelm.md) chính là Éowyn cho đến khi cô chiến đấu với [Vua Phù thủy](../W/Witch-king.md) trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cuộc trò chuyện này đã không diễn ra, trên thực tế Éowyn nói rất ít với Merry.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Hầu hết cảnh này chỉ có trong phim. Merry không nhận ra rằng người lái xe đưa ông đi cùng, [Dernhelm](../D/Dernhelm.md) chính là Éowyn cho đến khi cô chiến đấu với [Vua Phù thủy](../W/Witch-king.md) trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cuộc trò chuyện này đã không diễn ra, trên thực tế Éowyn nói rất ít với Merry.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

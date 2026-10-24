@@ -143,7 +143,7 @@ Mặc dù *Halbarad* không được chú giải, [David Salo](../D/David_Salo.m
 
 <dl><dd>Halbarad do <a href="../W/Warren_Mahy.md" title="Warren Mahy">Warren Mahy thể hiện</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Halbarad đang chỉ huy <a href="../E/Esteldín.md" title="Esteldín">Esteldín</a>, một thành phố <a href="../D/Dúnedain.md" title="Dúnedain">Dúnedain</a> ẩn trong <a href="../N/North_Downs.md" title="North Downs">North Downs</a>. Sau khi nhận lệnh Elrond truy lùng Aragorn ở Rohan, Halbarad đã tập hợp một đại đội Biệt động quân tiến về phía Nam. Sau khi gặp phải sự chậm trễ ngắn trong Enedwaith, Halbarad đã thành lập được một liên minh với Clan Falcon trong Dunland. Tuy nhiên, Halbarad và đồng đội của anh sớm bị Falcon Clan phản bội và giam cầm. Một số Biệt đội với Halbarad đã trốn thoát được và chẳng bao lâu sau Đại đội Xám được tự do, với cái giá là nhiều sinh mạng. Vào thời điểm họ đến biên giới Rohan, quân số của họ chỉ còn lại 30 người. Tại <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a>, Halbarad hy sinh bản thân để bảo vệ Aragorn khỏi bị <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a> giết chết.</dd></dl>
 

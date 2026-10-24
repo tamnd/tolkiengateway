@@ -62,7 +62,7 @@ infobox:
 
 Mẹ của Argon là [Anairë](Anairë.md) cũng là người Noldor, và các anh trai của ông là [Fingon](../F/Fingon.md) và [Turgon](../T/Turgon.md). Argon và các anh trai của anh cũng chỉ có một chị gái, *[Aredhel](Aredhel.md)* (con gái duy nhất của Fingolfin và Anairë), là chị cả của Argon.
 
-Tên [Quenya](../Q/Quenya.md) của ông ta là <i><b>Arakáno</b></i> ("Chỉ huy cấp cao"), được đặt tên như vậy một phần vì tính cách bốc đồng của ông ta. Argon đặt chân lên [Trung Địa](../M/Middle-earth.md) cùng với cha và các anh chị em của mình nhưng đã bị giết trong [Trận chiến Lammoth](../B/Battle_of_the_Lammoth.md). Argon đã thể hiện mình trong cuộc chiến bằng cách mở đường xuyên qua kẻ thù của mình và giết chết đội trưởng của [Orc](../O/Orcs.md).<sup id="cite_ref-Shibboleth_3-1" class="reference"><a href="#cite_note-Shibboleth-3">[2]</a></sup><sup id="cite_ref-Note_5-0" class="reference"><a href="#cite_note-Note-5">[3]</a></sup>
+Tên [Quenya](../Q/Quenya.md) của ông là <i><b>Arakáno</b></i> ("Chỉ huy cấp cao"), được đặt tên như vậy một phần vì tính cách bốc đồng của ông. Argon đặt chân lên [Trung Địa](../M/Middle-earth.md) cùng với cha và các anh chị em của mình nhưng đã bị giết trong [Trận chiến Lammoth](../B/Battle_of_the_Lammoth.md). Argon đã thể hiện mình trong cuộc chiến bằng cách mở đường xuyên qua kẻ thù của mình và giết chết đội trưởng của [Orc](../O/Orcs.md).<sup id="cite_ref-Shibboleth_3-1" class="reference"><a href="#cite_note-Shibboleth-3">[2]</a></sup><sup id="cite_ref-Note_5-0" class="reference"><a href="#cite_note-Note-5">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -84,7 +84,7 @@ Tên [Quenya](../Q/Quenya.md) của ông ta là <i><b>Arakáno</b></i> ("Chỉ h
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Argon hoàn toàn không xuất hiện trong *[Silmarillion](../T/The_Silmarillion.md)* đã xuất bản, vì ông ta chỉ được biết đến trong các bài viết rất muộn của [Tolkien](../J/J.R.R._Tolkien.md). Nhân vật của anh được phát triển khi Tolkien nghĩ ra các phả hệ. Lúc đầu, ông ta ngã xuống trong trận giao tranh ở [Alqualondë](Alqualondë.md) và sau đó ông ta bỏ mạng khi băng qua [Helkaraxë](../H/Helkaraxë.md) trước khi cái chết của ông ta được ấn định ở [Trận chiến Lammoth](../B/Battle_of_the_Lammoth.md).<sup id="cite_ref-Note_5-1" class="reference"><a href="#cite_note-Note-5">[3]</a></sup>
+Argon hoàn toàn không xuất hiện trong *[Silmarillion](../T/The_Silmarillion.md)* đã xuất bản, vì ông chỉ được biết đến trong các bài viết rất muộn của [Tolkien](../J/J.R.R._Tolkien.md). Nhân vật của anh được phát triển khi Tolkien nghĩ ra các phả hệ. Lúc đầu, ông ngã xuống trong trận giao tranh ở [Alqualondë](Alqualondë.md) và sau đó ông bỏ mạng khi băng qua [Helkaraxë](../H/Helkaraxë.md) trước khi cái chết của ông được ấn định ở [Trận chiến Lammoth](../B/Battle_of_the_Lammoth.md).<sup id="cite_ref-Note_5-1" class="reference"><a href="#cite_note-Note-5">[3]</a></sup>
 
 ## Ghi chú {#Notes}
 

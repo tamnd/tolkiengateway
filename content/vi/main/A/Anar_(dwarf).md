@@ -29,7 +29,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong những phần đầu của chương *[A Long-expected Party](A_Long-expected_Party.md)*, Anar đã được đưa ra một số đoạn hội thoại và phát triển thêm một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi ý định và không tiết lộ tên của ông ta trong cuốn sách cũng như không đưa ra bất kỳ lời thoại nào.
+Trong những phần đầu của chương *[A Long-expected Party](A_Long-expected_Party.md)*, Anar đã được đưa ra một số đoạn hội thoại và phát triển thêm một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi ý định và không tiết lộ tên của ông trong cuốn sách cũng như không đưa ra bất kỳ lời thoại nào.
 
 ## Từ nguyên {#Etymology}
 

@@ -56,11 +56,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông ta là hậu duệ của [Halmir](Halmir.md) của [Nhà Haleth](House_of_Haleth.md), và là con trai của [Hundad](Hundad.md) con trai của [Hundar](Hundar.md).<sup id="cite_ref-Hardang_1-1" class="reference"><a href="#cite_note-Hardang-1">[1]</a></sup> Sau cái chết của Thủ lĩnh của Brethil, [Handir](Handir.md), Hardang đã cố gắng để người anh họ của mình, [Brandir](../B/Brandir.md) tước bỏ ngai vàng để ủng hộ mình. Nhiều người tin rằng Brandir không thích hợp để cai trị và ủng hộ Hardang.
+Ông là hậu duệ của [Halmir](Halmir.md) của [Nhà Haleth](House_of_Haleth.md), và là con trai của [Hundad](Hundad.md) con trai của [Hundar](Hundar.md).<sup id="cite_ref-Hardang_1-1" class="reference"><a href="#cite_note-Hardang-1">[1]</a></sup> Sau cái chết của Thủ lĩnh của Brethil, [Handir](Handir.md), Hardang đã cố gắng để người anh họ của mình, [Brandir](../B/Brandir.md) tước bỏ ngai vàng để ủng hộ mình. Nhiều người tin rằng Brandir không thích hợp để cai trị và ủng hộ Hardang.
 
 Sau cái chết của Brandir, một Thủ lĩnh mới phải được bầu. Vì Brandir không có con nên [Con Người của Brethil](../M/Men_of_Brethil.md) mong muốn em họ của mình [Manthor](../M/Manthor.md) nối nghiệp, tuy nhiên họ có mối quan hệ bởi một cô con gái, và do đó Hardang đã thắng cử. Hardang thăng chức cho Manthor trở thành Đội trưởng Đội cận vệ tại [Đi qua Taeglin](../C/Crossings_of_Taeglin.md).
 
-Trong vòng hai năm kể từ khi Hardang nắm quyền, tin đồn về sự trở lại của [Húrin Thalion](Húrin.md) bắt đầu lan rộng. Hardang không thích [Nhà Hador](House_of_Hador.md) vì ông ta không có quan hệ huyết thống, và khi Húrin trở về, tại [Triển lãm dân gian](../F/Folkmoot_for_Judgement.md), Manthor đã bảo vệ Húrin chống lại Hardang.
+Trong vòng hai năm kể từ khi Hardang nắm quyền, tin đồn về sự trở lại của [Húrin Thalion](Húrin.md) bắt đầu lan rộng. Hardang không thích [Nhà Hador](House_of_Hador.md) vì ông không có quan hệ huyết thống, và khi Húrin trở về, tại [Triển lãm dân gian](../F/Folkmoot_for_Judgement.md), Manthor đã bảo vệ Húrin chống lại Hardang.
 
 Người dân Brethil tức giận trước hành động của Hardang và đốt cháy <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hall_of_the_Chieftains&amp;action=edit&amp;redlink=1" title="Hall of the Chieftains (page does not exist)">Sảnh của các thủ lĩnh</a>. Hardang cố gắng trốn thoát nhưng bị giáo đâm vào lưng và thiệt mạng.
 
@@ -78,7 +78,7 @@ Người dân Brethil tức giận trước hành động của Hardang và đ�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản đầu tiên của câu chuyện, tên của Hardang là Harathor, và chính ông ta, chứ không phải Manthor, mới là anh trai của Hunthor, bạn đồng hành của Túrin.
+Trong các phiên bản đầu tiên của câu chuyện, tên của Hardang là Harathor, và chính ông, chứ không phải Manthor, mới là anh trai của Hunthor, bạn đồng hành của Túrin.
 
 <span></span>
 

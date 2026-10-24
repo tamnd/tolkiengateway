@@ -63,7 +63,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Anh thừa kế vương miện sớm khi cha anh [Rómendacil I](../R/Rómendacil_I.md) bị giết trong cuộc [Easterling](../E/Easterlings.md) xâm lược miền bắc [Ithilien](../I/Ithilien.md). Turambar tìm cách trả thù cho cái chết của cha mình và đã thành công rực rỡ. Ông ta không chỉ tiêu diệt bầy đàn mà còn tiếp tục cuộc chinh phục vào vùng đất của người phương Đông, giành được lãnh thổ mới ở [Rhûn](../R/Rhûn.md) cho [Gondor](../G/Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Anh thừa kế vương miện sớm khi cha anh [Rómendacil I](../R/Rómendacil_I.md) bị giết trong cuộc [Easterling](../E/Easterlings.md) xâm lược miền bắc [Ithilien](../I/Ithilien.md). Turambar tìm cách trả thù cho cái chết của cha mình và đã thành công rực rỡ. Ông không chỉ tiêu diệt bầy đàn mà còn tiếp tục cuộc chinh phục vào vùng đất của người phương Đông, giành được lãnh thổ mới ở [Rhûn](../R/Rhûn.md) cho [Gondor](../G/Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Bởi vì Turambar còn trẻ khi lên ngôi nên thời gian cai trị của ông kéo dài hơn một thế kỷ. Ông là triều đại Gondor dài nhất kể từ thời tổ tiên ông [Meneldil](../M/Meneldil.md). Ông được kế vị bởi con trai mình [Atanatar I](../A/Atanatar_I.md).
 

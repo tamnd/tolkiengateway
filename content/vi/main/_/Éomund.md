@@ -62,7 +62,7 @@ infobox:
 
 Éomund là hậu duệ của [Eofor](../E/Eofor.md), con trai thứ ba của Brego vị vua thứ hai của Rohan, và cư trú tại [Aldburg](../A/Aldburg.md) ở [Eastfold](../E/Eastfold.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Aragorn](../A/Aragorn.md), trong chuyến du hành ở Rohan, đã quen với Éomund.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông đã kết hôn [Théodwyn](../T/Théodwyn.md), em gái của Vua [Théoden](../T/Théoden.md) sau này. Con cái của họ là [Éomer](Éomer.md) và [Éowyn](Éowyn.md), mỗi người đều đóng một vai trò quan trọng trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
-Ông là nguyên soái phụ trách các cuộc hành quân về phía đông, tích cực bảo vệ đàn ngựa trong vùng trước các cuộc tấn công ngày càng gia tăng [Orc](../O/Orcs.md). Ông ta đã bị giết trong [T.A.](../T/Third_Age.md) [3002](../T/Third_Age_3002.md), khi đang theo đuổi một cuộc đột kích như vậy, bởi một lực lượng lớn đang phục kích trong [Emyn Muil](../E/Emyn_Muil.md). Théodwyn lâm bệnh và qua đời ngay sau đó, con cái của họ được Théoden.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nuôi dưỡng.
+Ông là nguyên soái phụ trách các cuộc hành quân về phía đông, tích cực bảo vệ đàn ngựa trong vùng trước các cuộc tấn công ngày càng gia tăng [Orc](../O/Orcs.md). Ông đã bị giết trong [T.A.](../T/Third_Age.md) [3002](../T/Third_Age_3002.md), khi đang theo đuổi một cuộc đột kích như vậy, bởi một lực lượng lớn đang phục kích trong [Emyn Muil](../E/Emyn_Muil.md). Théodwyn lâm bệnh và qua đời ngay sau đó, con cái của họ được Théoden.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nuôi dưỡng.
 
 ## Từ nguyên {#Etymology}
 

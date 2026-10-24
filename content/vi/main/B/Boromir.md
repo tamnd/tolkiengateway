@@ -309,15 +309,15 @@ Nhiều điểm tương đồng đã được đề xuất giữa <a class="exti
 
 <dl><dd>Giọng nói của Boromir được cung cấp bởi Jozef Vajda. Nam diễn viên này sau đó cũng đóng vai anh trai của Boromir Faramir trong loạt phim phát thanh.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Boromir là đơn vị Anh hùng của phe Gondor và cũng xuất hiện trong chiến dịch cốt truyện. Trong một sai lệch đáng chú ý so với câu chuyện gốc, người chơi có thể lưu Boromir trên Amon Hen, trong trường hợp đó ông sẽ đi cùng Ba Thợ Săn vào Rohan, tham gia vào <a href="Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Trận Hornburg</a> và hành trình muộn với Gandalf và Pippin quay lại Gondor. Ông cũng sẽ chiến đấu trong Cuộc vây hãm Gondor và tham gia vào vị trí cuối cùng của Con Người của Phương Tây trong Trận chiến Morannon.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Boromir hiện là Anh hùng Con Người của phe Phương Tây.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Những người chơi gặp nhau lần đầu Boromir tại Rivendell và sau đó gặp lại nhau trong thời gian Hiệp hội ở Lothlorien. Ông cũng có thể được chơi khi đấu với Uruk-hai tại Parth Galen.</dd></dl>
 

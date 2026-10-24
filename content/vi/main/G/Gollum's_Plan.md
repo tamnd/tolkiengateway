@@ -49,7 +49,7 @@ Khi Frodo và Sam đến gần hơn, Gollum trầm ngâm nói "Chúng ta có th�
 <p class="tg-quote-footer"><cite><a href="Gollum.md" title="Gollum">Gollum</a></cite></p>
 </blockquote>
 
-Mỉm cười, Gollum bước ra từ cái cây mà ông ta đang nấp phía sau và nói với Frodo và Sam họ còn một chặng đường dài phải đi trên hành trình của mình và rằng "Sméagol sẽ chỉ đường cho bạn".
+Mỉm cười, Gollum bước ra từ cái cây mà ông đang nấp phía sau và nói với Frodo và Sam họ còn một chặng đường dài phải đi trên hành trình của mình và rằng "Sméagol sẽ chỉ đường cho bạn".
 
 ## Sự khác biệt {#Differences}
 

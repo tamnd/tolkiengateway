@@ -25,7 +25,7 @@ Vào [26 tháng 10](../_/26_October.md) [1958](../_/1958.md), [J.R.R. Tolkien](.
 
 ## Mô tả và trích đoạn {#Description_and_excerpts}
 
-Xin lỗi về chi phí *The Lord of the Rings*, Tolkien lưu ý rằng cuốn sách *"tốn rất nhiều chi phí để sản xuất (khoảng £4.000 bảng Anh), và nhà xuất bản xứng đáng kiếm được một số lợi nhuận từ những gì đối với ông ta, một cuộc phiêu lưu rất mạo hiểm, thành công của nó, tôi nghĩ, đã làm ông ta ngạc nhiên nhiều như bất kỳ ai (có lẽ, ngoại trừ, chính tôi)..."*
+Xin lỗi về chi phí *The Lord of the Rings*, Tolkien lưu ý rằng cuốn sách *"tốn rất nhiều chi phí để sản xuất (khoảng £4.000 bảng Anh), và nhà xuất bản xứng đáng kiếm được một số lợi nhuận từ những gì đối với ông, một cuộc phiêu lưu rất mạo hiểm, thành công của nó, tôi nghĩ, đã làm ông ngạc nhiên nhiều như bất kỳ ai (có lẽ, ngoại trừ, chính tôi)..."*
 
 Thảo luận về nguồn gốc của tác phẩm, tác giả khẳng định *"Tôi không nghiên cứu hay nghiên cứu câu chuyện của mình. Đó là một 'phát minh' từ đầu đến cuối... Nếu là 'tiếng Anh' - (không phải tiếng Anh, làm ơn) - đó là vì tôi là người Anh..."* Tuy nhiên, Tolkien lưu ý rằng *"professional calling as a philologist"* của ông và rằng nghiên cứu về *"early English"* của ông là *"digested"*. Lưu ý rằng phân tích sẽ là *"very complex"* ông cũng gợi ý rằng nó sẽ là *"...not (in my opinion) worth while..."* Tolkien bày tỏ niềm tin của ông rằng *"không ai trong chúng ta có thể thực sự phát minh hoặc 'sáng tạo' trong khoảng trống, chúng ta chỉ có thể tái tạo lại và có lẽ gây ấn tượng với một khuôn mẫu cá nhân trên vật liệu 'tổ tiên'...*
 

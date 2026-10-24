@@ -45,11 +45,11 @@ Các thành viên của [Đoàn Hộ Nhẫn](Fellowship_of_the_Ring.md) được
 
 <dl><dd>Trong phần mở đầu, thuật ngữ "Những dân tộc tự do của Trung Địa" được dùng để mô tả những người đã hình thành <a href="../L/Last_Alliance_of_Elves_and_Men.md" title="Last Alliance of Elves and Men">Liên minh Cuối cùng của Tiên tộc và Con Người</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
 
 <dl><dd>"Người dân tự do" là một trong những phe có thể chơi được, phe còn lại là "Minions of Sauron". Quân đội của nó bao gồm Con Người của <a href="../G/Gondor.md" title="Gondor">Gondor</a> và <a href="../R/Rohan.md" title="Rohan">Rohan</a>, <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a>, <a href="../E/Elves.md" title="Elves">Tiên tộc</a>, <a href="../H/Huorns.md" title="Huorns">Huorn</a> và <a href="../B/Beornings.md" title="Beornings">Beornings</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thuật ngữ "Người tự do" thường được sử dụng để xác định phe "tốt" trong các phiên MonsterPlay. Nó thường được viết tắt là "Freeps".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

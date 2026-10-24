@@ -76,7 +76,7 @@ Trước khi bị giết, Isildur đã nhanh chóng trở thành vua của [Arno
 
 ## Từ nguyên {#Etymology}
 
-*Valandil* là tên [Quenya](../Q/Quenya.md). Nó có nghĩa là "Người yêu của Valar".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Nó là từ ghép của [vala](Valar.md) ("Vala") và [-(n)dil](../_/-ndil.md) ("người yêu", "bạn").<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Có khả năng là ông ta được đặt theo tên của tổ tiên [Valandil](<Valandil_(Lord_of_Andúnië).md>), [Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md) đầu tiên.
+*Valandil* là tên [Quenya](../Q/Quenya.md). Nó có nghĩa là "Người yêu của Valar".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Nó là từ ghép của [vala](Valar.md) ("Vala") và [-(n)dil](../_/-ndil.md) ("người yêu", "bạn").<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Có khả năng là ông được đặt theo tên của tổ tiên [Valandil](<Valandil_(Lord_of_Andúnië).md>), [Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md) đầu tiên.
 
 ## Phả hệ {#Genealogy}
 

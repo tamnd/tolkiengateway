@@ -51,7 +51,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Snowmane's Howe là đài tưởng niệm phiên bản sau trận chiến của <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">cánh đồng Pelennor</a>.</dd></dl>
 

@@ -42,7 +42,7 @@ Họ là những Tiên tộc đầu tiên trong số [Trung Địa](../M/Middle-
 
 [Fingolfin](../F/Fingolfin.md) nắm quyền lãnh chúa ở Hithlum, với hầu hết người dân của ông sống quanh bờ biển Hồ Mithrim,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> và có sự hòa nhập ở mức độ nào đó giữa hai dân tộc. Không rõ Grey-Tiên tộc của Mithrim đã tham gia vào [Cuộc chiến Beleriand](../W/Wars_of_Beleriand.md) dưới Fingolfin và [Fingon](../F/Fingon.md) ở mức độ nào.
 
-[Thingol](../T/Thingol.md) có chút tình cảm với người miền Bắc Sindar, những người ở các vùng gần [Angband](../A/Angband.md) nằm dưới sự thống trị của Morgoth, và bị buộc tội đôi khi vào phục vụ ông ta và cung cấp gián điệp cho ông ta. Sindarin được sử dụng bởi các Con trai của Fëanor cũng là phương ngữ miền Bắc; và họ bị ghét ở Doriath.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Thingol](../T/Thingol.md) có chút tình cảm với người miền Bắc Sindar, những người ở các vùng gần [Angband](../A/Angband.md) nằm dưới sự thống trị của Morgoth, và bị buộc tội đôi khi vào phục vụ ông và cung cấp gián điệp cho ông. Sindarin được sử dụng bởi các Con trai của Fëanor cũng là phương ngữ miền Bắc; và họ bị ghét ở Doriath.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), họ đã che chở cho [Rían](../R/Rían.md);<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> khi cô rời đi Hithlum, một trong những Tiên tộc, [Annael](../A/Annael.md), đã nuôi dưỡng con trai cô [Tuor](../T/Tuor.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 

@@ -16,7 +16,7 @@ categories:
 
 **Công ty trò chơi bình minh** là nhà phát triển trò chơi điện tử có trụ sở tại San Diego. Trong [2016](../_/2016.md), nó trở thành nhà xuất bản của *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* với sự chuyển giao từ [Warner Bros. Interactive Entertainment](../W/Warner_Bros._Interactive_Entertainment.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- <i><b><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></b></i>
+- <i><b><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></b></i>
     - [2017](../_/2017.md): *[The Lord of the Rings Online: Mordor](../T/The_Lord_of_the_Rings_Online%253A_Mordor.md)*
     - [2019](../_/2019.md): *[The Lord of the Rings Online: Minas Morgul](../T/The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md)*
     - [2020](../_/2020.md): *[The Lord of the Rings Online: War of Three Peaks](../T/The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md)*
@@ -26,7 +26,7 @@ categories:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.daybreakgames.com/home" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="http://lotro.turbine.com" rel="noreferrer noopener" target="_blank">The Lord of the Rings Trực tuyến</a>
+- <a class="external text" href="http://lotro.turbine.com" rel="noreferrer noopener" target="_blank">The Lord of the Rings Online</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Daybreak_Game_Company" title="wikipedia:Daybreak Game Company">Công ty trò chơi bình minh</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>

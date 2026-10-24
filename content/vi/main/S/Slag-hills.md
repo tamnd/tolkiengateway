@@ -40,7 +40,7 @@ Tiếp cận Cổng Đen vào [25 tháng 3](../_/25_March.md) [3019](../T/Third_
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đồi xỉ nằm phía trước Cổng Đen, được bao quanh bởi một vũng bùn nông chứa chất độc hại.</dd></dl>
 

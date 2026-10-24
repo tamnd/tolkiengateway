@@ -98,7 +98,7 @@ Sau trận chiến, những người Dunland đầu hàng được Vua Théoden 
 
 <dl><dd>Trong phim, hàng ngàn quân Saruman bao vây pháo đài, được bảo vệ bởi khoảng 300 người (nhiều người trong số họ, trên thực tế, được miêu tả là trẻ em hoặc người lớn tuổi, để tăng thêm sự lo lắng và phản diện cho các sự kiện) mà Rohirrim có thể tập hợp và Tiên Cung thủ nói trên. Khi Legolas nói có "300" Rohirrim ở đó, ông có thể muốn nói <i>at that time</i> vì có nhiều người hơn đang chạy trốn đến pháo đài, bởi vì về mặt hình ảnh, có hơn 300 Rohirrim xuất hiện trên màn hình trong trận chiến. Việc đề cập đến "300 chống lại 10.000" này có lẽ có ý ám chỉ đến Trận chiến Thermopylae cổ đại. Các lực lượng này chịu tổn thất nặng nề, nhưng vẫn cầm cự được cho đến bình minh khi Gandalf đến cùng với hàng nghìn kỵ binh, những người cuối cùng đã lật ngược tình thế trận chiến và buộc lực lượng của Saruman phải rút lui. Những tay đua này được dẫn dắt bởi Éomer trong phim, trong khi họ được dẫn dắt bởi Erkenbrand trong sách.</dd></dl>
 
-<b>2013 : <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">The Lord of the Rings Trực tuyến: Helm's Deep</a></i>:</b>
+<b>2013 : <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">The Lord of the Rings Online: Helm's Deep</a></i>:</b>
 
 <dl><dd>Trận Hornburg là một phần quan trọng trong Cốt truyện sử thi của bản mở rộng này.</dd></dl>
 

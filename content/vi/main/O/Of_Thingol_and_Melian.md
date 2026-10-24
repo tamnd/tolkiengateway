@@ -68,7 +68,7 @@ images:
 
 [Melian](../M/Melian.md), là một [Maia](../M/Maia.md) sống ở [Lórien](<../L/Lórien_(Valinor).md>). Cô là ca sĩ điêu luyện nhất [Valinor](../V/Valinor.md) nhưng cô từng đến thăm [Trung Địa](../M/Middle-earth.md) để lấp đi sự im lặng và dạy chim.
 
-Trong [Đại Hành Trình](../G/Great_Journey.md), [Teleri](../T/Teleri.md) tồn tại ở [Đông Beleriand](../E/East_Beleriand.md) trong khi [Noldor](../N/Noldor.md) ở [xa hơn về phía tây](../N/Neldoreth.md). [Elwë](../E/Elwë.md), thủ lĩnh của Teleri khi đến thăm người bạn [Finwë](../F/Finwë.md) của Noldor, đã bị lạc trong khu rừng [Nan Elmoth](../N/Nan_Elmoth.md) và nhìn thấy Melian đang nhảy múa. Khi nhìn thấy nhau, họ bất động trong nhiều năm sau đó trong trạng thái mê hoặc ngây ngất. Những người theo dõi ông ta không thể tìm thấy ông ta nên quyền lãnh đạo của ông ta đã được [Olwë](Olwë.md) đảm nhận.
+Trong [Đại Hành Trình](../G/Great_Journey.md), [Teleri](../T/Teleri.md) tồn tại ở [Đông Beleriand](../E/East_Beleriand.md) trong khi [Noldor](../N/Noldor.md) ở [xa hơn về phía tây](../N/Neldoreth.md). [Elwë](../E/Elwë.md), thủ lĩnh của Teleri khi đến thăm người bạn [Finwë](../F/Finwë.md) của Noldor, đã bị lạc trong khu rừng [Nan Elmoth](../N/Nan_Elmoth.md) và nhìn thấy Melian đang nhảy múa. Khi nhìn thấy nhau, họ bất động trong nhiều năm sau đó trong trạng thái mê hoặc ngây ngất. Những người theo dõi ông không thể tìm thấy ông nên quyền lãnh đạo của ông đã được [Olwë](Olwë.md) đảm nhận.
 
 Trong những năm sau đó, Elwë được biết đến trong [Sindarin](../S/Sindarin.md) với tên gọi *Elu Thingol*. Anh và Melian trở thành Vua và Nữ hoàng của Sindar, thành lập vương quốc [Doriath](../D/Doriath.md), nơi duy nhất ở Trung Địa có thể nhìn thấy thoáng qua [Ánh sáng của Valinor](../L/Light_of_Valinor.md).
 

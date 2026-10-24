@@ -56,7 +56,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Haleth cố gắng bảo vệ [Edoras](../E/Edoras.md) khỏi [Dunlendings](../D/Dunlendings.md) đã xâm chiếm [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md), nhưng ông ta đã bị giết ngay trước cửa [Meduseld](../M/Meduseld.md), người bảo vệ cuối cùng của nó. [Wulf](../W/Wulf.md) con trai của [Freca](../F/Freca.md) chiếm đoạt ngai vàng trong khi Helm và Háma chạy trốn đến [Helm's Deep](Helm's_Deep.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Haleth cố gắng bảo vệ [Edoras](../E/Edoras.md) khỏi [Dunlendings](../D/Dunlendings.md) đã xâm chiếm [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md), nhưng ông đã bị giết ngay trước cửa [Meduseld](../M/Meduseld.md), người bảo vệ cuối cùng của nó. [Wulf](../W/Wulf.md) con trai của [Freca](../F/Freca.md) chiếm đoạt ngai vàng trong khi Helm và Háma chạy trốn đến [Helm's Deep](Helm's_Deep.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

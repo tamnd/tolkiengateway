@@ -33,7 +33,7 @@ Gia đình Ropers ở lại ngôi nhà tổ tiên của họ ở [Tighfield](../
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayals_in_Adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Có một số Hobbit mang họ Roper trong trò chơi. Một số người quan trọng hơn là Lilabet Roper và Sheldon Roper.</dd></dl>
 

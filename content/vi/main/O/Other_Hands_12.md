@@ -48,7 +48,7 @@ infobox:
     - Harondor có rừng không? - Wesley Frank
     - Chuyện gì đã xảy ra với Blue Pháp sư? - Tommy Martin
     - Ai là Necromancer? - [Chris Seeman](../C/Chris_Seeman.md), [Anders Blixt](../A/Anders_Blixt.md)
-    - Còn Phù thủy-Vua thì sao? - Steffen Solomon, Wesley Frank, [Chris Seeman](../C/Chris_Seeman.md)
+    - Còn Vua Phù thủy thì sao? - Steffen Solomon, Wesley Frank, [Chris Seeman](../C/Chris_Seeman.md)
     - Bản chất của phép thuật trong Trung Địa là gì? - Chris Pheby
 - Đánh giá sản phẩm: Dol Guldur - [Chris Seeman](../C/Chris_Seeman.md)
 - Đánh giá sản phẩm: Angmar - Jason Vester

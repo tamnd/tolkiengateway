@@ -31,7 +31,7 @@ infobox:
 
 Trong một lá thư gửi nhà xuất bản [Allen &amp; Unwin](../A/Allen_&_Unwin.md) của mình, Tolkien phê duyệt một số sửa đổi đối với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, dự kiến ​​sẽ được phát hành trong những tháng tới. Tuy nhiên, anh rất tiếc vì trong năm qua đã không có nhiều thời gian hơn để dành toàn bộ sự quan tâm đến những chi tiết nhỏ này. Tolkien cũng thừa nhận đã phát hiện một số lỗi trong cách trang trí 'chữ runic' của trang tiêu đề nhưng thừa nhận rằng chúng phải được giữ nguyên như cũ.
 
-Ông ta dự đoán sẽ phải đưa ra lời giải thích hoặc lời xin lỗi cho những người giải mã các chữ rune, đề cập đến sự giám sát tương tự đối với các chữ rune trên áo khoác *[The Hobbit](../T/The_Hobbit.md)*. <br>
+Ông dự đoán sẽ phải đưa ra lời giải thích hoặc lời xin lỗi cho những người giải mã các chữ rune, đề cập đến sự giám sát tương tự đối với các chữ rune trên áo khoác *[The Hobbit](../T/The_Hobbit.md)*. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

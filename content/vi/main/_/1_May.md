@@ -81,7 +81,7 @@ Sự kiện xảy ra vào ngày 1 tháng 5
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Aragorn](../A/Aragorn.md) và [Gandalf](../G/Gandalf.md) gặp nhau tại [Sarn Ford](../S/Sarn_Ford.md). Gandalf cho Aragorn biết về kế hoạch rời khỏi [ Shire](../T/The_Shire.md) của [Frodo](../F/Frodo_Baggins.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Crowning_of_the_King&amp;action=edit&amp;redlink=1" title="Crowning of the King (page does not exist)">Đăng quang</a> của [Vua Elessar](../A/Aragorn.md). Ông ta đề nghị [Faramir](../F/Faramir.md) tiếp tục [Người quản lý của Gondor](../S/Stewards_of_Gondor.md).
+    - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Crowning_of_the_King&amp;action=edit&amp;redlink=1" title="Crowning of the King (page does not exist)">Đăng quang</a> của [Vua Elessar](../A/Aragorn.md). Ông đề nghị [Faramir](../F/Faramir.md) tiếp tục [Người quản lý của Gondor](../S/Stewards_of_Gondor.md).
     - Các đại sứ của [Vương quốc dưới núi](../K/Kingdom_Under_the_Mountain~32174.md) và [Vương quốc Dale](../K/Kingdom_of_Dale.md) sẽ có mặt tại [Gondor](../G/Gondor.md) để đăng quang.
     - [Elrond](../E/Elrond.md) và [Arwen](../A/Arwen.md) xuất phát từ [Rivendell](../R/Rivendell.md).
 - [T.A.](../T/Third_Age.md) [3020](../T/Third_Age_3020.md):

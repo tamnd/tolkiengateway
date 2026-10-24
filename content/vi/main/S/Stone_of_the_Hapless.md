@@ -52,7 +52,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi Túrin ra lệnh cho thanh kiếm [Gurthang](../G/Gurthang.md) tước đi mạng sống của ông ta, [Mablung](../M/Mablung.md) và 11 thợ săn [Tiên](../E/Elves.md) cùng với [Con Người](../M/Men.md) từ [Nen Girith](../N/Nen_Girith.md) đã nâng cơ thể ông ta lên, đặt ông ta lên một gò đất cao với các mảnh Gurthang bên cạnh. Sau đó, các mistral của Tiên tộc và Con Người than thở khi một tảng đá xám lớn được đặt trên gò đất. Trong [Runes của Doriath](../A/Angerthas_Daeron.md), Tiên tộc có khắc dòng chữ: *TÚRIN TURAMBAR DAGNIR GLAURUNGA* với dòng chữ *NIËNOR NÍNIEL* bên dưới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi Túrin ra lệnh cho thanh kiếm [Gurthang](../G/Gurthang.md) tước đi mạng sống của ông, [Mablung](../M/Mablung.md) và 11 thợ săn [Tiên](../E/Elves.md) cùng với [Con Người](../M/Men.md) từ [Nen Girith](../N/Nen_Girith.md) đã nâng cơ thể ông lên, đặt ông lên một gò đất cao với các mảnh Gurthang bên cạnh. Sau đó, các mistral của Tiên tộc và Con Người than thở khi một tảng đá xám lớn được đặt trên gò đất. Trong [Runes của Doriath](../A/Angerthas_Daeron.md), Tiên tộc có khắc dòng chữ: *TÚRIN TURAMBAR DAGNIR GLAURUNGA* với dòng chữ *NIËNOR NÍNIEL* bên dưới.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Những ngày sau đó, [Con Người](../M/Men.md) sợ phải ở đó lâu. Một thời gian sau, [Morwen](../M/Morwen.md) tìm thấy tảng đá trong chuyến lang thang vô thức của mình, đọc thì biết các con mình đã chết nhưng không hiểu chết như thế nào và chờ chết bên cạnh tảng đá.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

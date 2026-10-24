@@ -44,7 +44,7 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-*"Vì vào thời điểm đó, vương quốc Angmar nổi lên ở phía Bắc ngoài Ettenmoors. Vùng đất của nó nằm ở hai bên Dãy núi và tập trung nhiều kẻ ác, lũ Orc và những sinh vật sa ngã khác. \[Lãnh chúa của vùng đất đó được biết đến với cái tên Vua phù thủy, nhưng mãi về sau người ta mới biết rằng ông ta thực sự là thủ lĩnh của các Ma Nhẫn, kẻ đã đến phía bắc với mục đích tiêu diệt người Dûnedain ở Arnor, nhìn thấy hy vọng trong sự chia rẽ của họ, trong khi Gondor còn mạnh mẽ.\]"* - Sự trở lại của nhà vua, Phụ lục A
+*"Vì vào thời điểm đó, vương quốc Angmar nổi lên ở phía Bắc ngoài Ettenmoors. Vùng đất của nó nằm ở hai bên Dãy núi và tập trung nhiều kẻ ác, lũ Orc và những sinh vật sa ngã khác. \[Lãnh chúa của vùng đất đó được biết đến với cái tên Vua phù thủy, nhưng mãi về sau người ta mới biết rằng ông thực sự là thủ lĩnh của các Ma Nhẫn, kẻ đã đến phía bắc với mục đích tiêu diệt người Dûnedain ở Arnor, nhìn thấy hy vọng trong sự chia rẽ của họ, trong khi Gondor còn mạnh mẽ.\]"* - Sự trở lại của nhà vua, Phụ lục A
 
 Ngôi nhà sắt, lãnh địa của Vua Phù thủy, là một vùng đất lạnh lẽo, ảm đạm được lang thang bởi các Linh mục Chiến binh mặc áo choàng đen. Những kẻ lang thang nham hiểm này giám sát các nô lệ, lính lính và các bộ tộc Orc phục vụ chủ nhân của Carn Dûm. Nỗi sợ hãi là tay cầm roi và che khuất sự thức tỉnh của họ. Nắng Angmar thưa thớt, cái cay đắng của khí hậu in sâu vào mảnh đất và cư dân nơi đây. Bóng tối lạnh lẽo của Ngôi nhà sắt đe dọa không chỉ nước láng giềng Arthedain, vương quốc kế thừa của Arnor, mà còn đe dọa tất cả các Dân tộc Tự do của Trung Địa.
 

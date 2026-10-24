@@ -26,7 +26,7 @@ Khác với Rúmil, Fëanor coi nguyên âm là âm thanh độc lập chứ kh�
 
 Tuy nhiên Fëanor cũng sử dụng một hệ thống 'bảo thủ' hơn mà dường như đã được chứng minh là phổ biến hơn nhiều; ông giữ ý tưởng của Rúmil về phân tích âm tiết các từ của người Sarati và cũng sử dụng [tehtar](Tehtar.md) (thay vì các chữ cái đầy đủ).<sup id="cite_ref-ApD_2-2" class="reference"><a href="#cite_note-ApD-2">[2]</a></sup>
 
-Mặc dù Fëanor là người nói Quenya nhưng có thể ông ta đã không phát minh ra Tengwar với mục đích cụ thể là Quenya, vì âm vị học Quenya nghiêm ngặt không hoàn toàn phù hợp một cách nhất quán. Nhiều khả năng là Tengwar được tạo ra dưới dạng [mẫu âm vị học chung](Tengwar.md#Structure),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mà sau này ông ta "khớp" các âm thanh Quenya một cách nhất quán nhất có thể
+Mặc dù Fëanor là người nói Quenya nhưng có thể ông đã không phát minh ra Tengwar với mục đích cụ thể là Quenya, vì âm vị học Quenya nghiêm ngặt không hoàn toàn phù hợp một cách nhất quán. Nhiều khả năng là Tengwar được tạo ra dưới dạng [mẫu âm vị học chung](Tengwar.md#Structure),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mà sau này ông "khớp" các âm thanh Quenya một cách nhất quán nhất có thể
 
 ## Lịch sử và sự tiến hóa {#History_and_evolution}
 
@@ -279,7 +279,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 #### Ghi chú {#Notes}
 
 <small><div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Quenya cũng sử dụng chuỗi vòm, Tyelpetéma. Christopher Tolkien, người đã công bố những cái tên, lưu ý rằng những cái tên này được đưa ra theo một số công thức khác nhau và ông ta không thể xác định đâu là công thức tiêu chuẩn. Sự khác biệt duy nhất so với Tincotéma là các chấm ở dưới (đối với tengwar có thân nhô cao) và các chấm quá đậm (đối với tengwar có thân hạ thấp). Những tengwar đó, không có trong bảng, chắc chắn đã bị loại bỏ khỏi các chữ cái tiêu chuẩn.</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Quenya cũng sử dụng chuỗi vòm, Tyelpetéma. Christopher Tolkien, người đã công bố những cái tên, lưu ý rằng những cái tên này được đưa ra theo một số công thức khác nhau và ông không thể xác định đâu là công thức tiêu chuẩn. Sự khác biệt duy nhất so với Tincotéma là các chấm ở dưới (đối với tengwar có thân nhô cao) và các chấm quá đậm (đối với tengwar có thân hạ thấp). Những tengwar đó, không có trong bảng, chắc chắn đã bị loại bỏ khỏi các chữ cái tiêu chuẩn.</span>
 </li>
 <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Bảng chữ cái Fëanore ban đầu chứa một Lớp thân "mở rộng", cả nâng lên và hạ xuống. Việc sử dụng những tengwar đó (nếu có tên thì tất nhiên là không rõ) là để biểu thị những âm thanh có âm thanh. Như chúng ta đã biết, không có ngôn ngữ Amanya nào sở hữu các âm xát, vì các âm xát Nguyên thủy <i>th, ph</i>và <i>kh</i> đã trở thành <i>th, f</i> và <i>ch</i> trong Quenya. Có thể chúng đã được sử dụng để ghi lại Valarin hoặc có thể là các dạng cổ xưa.</span>
 </li>

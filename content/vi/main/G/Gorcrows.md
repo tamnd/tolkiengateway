@@ -44,7 +44,7 @@ images:
 
 <dl><dd><i>Gorcrows</i> được cho là có sải cánh 4 ft và là họ hàng nhỏ hơn của <i><a href="../C/Crebain.md" title="Crebain">crebain</a></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và bị thu hút bởi những thứ sáng bóng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> <i>northern gorcrow</i>, sống ở <a class="mw-redirect" href="../F/Forodwaith_(lands).md" title="Forodwaith (lands)">Forodwaith</a>, được mô tả là phiên bản lớn hơn của gorcrow thông thường. Người <a href="../L/Lossoth.md" title="Lossoth">Lossoth</a> được cho là coi loài gorcrow phương bắc là loài chim mang điềm xấu.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><i>Gore-crows</i> là một loại crebain có nguồn gốc từ <a href="../L/Lone-lands.md" title="Lone-lands">Vùng đất đơn độc</a>. Chúng cũng xuất hiện với số lượng lớn trong Mordor.</dd></dl>
 

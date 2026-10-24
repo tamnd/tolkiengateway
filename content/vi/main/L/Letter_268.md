@@ -32,7 +32,7 @@ infobox:
 
 Một cô A.P. Northey đã hỏi về số phận của [Shadowfax](../S/Shadowfax.md). Tolkien nói với cô rằng, vì *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được viết bởi những người biên niên sử (trong trường hợp này là [Sam](../S/Samwise_Gamgee.md)) nên không cần phải kể hết mọi chuyện. Và Sam, xúc động trước sự ra đi của [Frodo](../F/Frodo_Baggins.md), đã bỏ qua số phận của con chiến mã thân tín của [Gandalf](../G/Gandalf.md). Vì vậy người ta chỉ có thể đoán chuyện gì đã xảy ra, Tolkien lập luận.
 
-Và Tolkien đoán rằng Shadowfax chắc chắn đã đến cùng Gandalf với [Cảng Xám](../G/Grey_Havens.md) và không ở lại phía sau. Nếu ông ta làm vậy thì mọi chuyện sẽ bị chú ý, và xét cho cùng, Shadowfax là một trong những [Mearas](../M/Mearas.md). Những con ngựa đó có nguồn gốc từ [Nahar](../N/Nahar.md), con ngựa của [Béma](../O/Oromë.md), và do đó mang dòng máu từ [Phương Tây](../V/Valinor.md). <br>
+Và Tolkien đoán rằng Shadowfax chắc chắn đã đến cùng Gandalf với [Cảng Xám](../G/Grey_Havens.md) và không ở lại phía sau. Nếu ông làm vậy thì mọi chuyện sẽ bị chú ý, và xét cho cùng, Shadowfax là một trong những [Mearas](../M/Mearas.md). Những con ngựa đó có nguồn gốc từ [Nahar](../N/Nahar.md), con ngựa của [Béma](../O/Oromë.md), và do đó mang dòng máu từ [Phương Tây](../V/Valinor.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

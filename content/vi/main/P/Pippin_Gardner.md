@@ -48,7 +48,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Pippin là con trai thứ ba và con thứ năm của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md), sinh năm [S.R.](../S/Shire_Reckoning.md) [1429](../F/Fourth_Age_8.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta được đặt theo tên [Pippin Took](Peregrin_Took.md) theo gợi ý của [Frodo Baggins](../F/Frodo_Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Pippin là con trai thứ ba và con thứ năm của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md), sinh năm [S.R.](../S/Shire_Reckoning.md) [1429](../F/Fourth_Age_8.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông được đặt theo tên [Pippin Took](Peregrin_Took.md) theo gợi ý của [Frodo Baggins](../F/Frodo_Baggins.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

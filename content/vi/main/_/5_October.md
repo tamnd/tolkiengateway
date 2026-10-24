@@ -82,7 +82,7 @@ Sự kiện xảy ra vào ngày 5 tháng 10
         - Cái chết của [Isildur](../I/Isildur.md) và các con trai [Elendur](<../E/Elendur_(son_of_Isildur).md>), [Aratan](../A/Aratan.md) và [Ciryon](../C/Ciryon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi về phía [Weathertop](../W/Weathertop.md).
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông ta vào [Weathertop](../W/Weathertop.md).
+    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông vào [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Gandalf](../G/Gandalf.md) và [bốn Hobbit](../T/Travellers.md) để lại [Rivendell](../R/Rivendell.md) cho [Bree](../B/Bree.md) và [ Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Elrond](../E/Elrond.md) tiết lộ cho '[Estel](../E/Estel.md)' tên thật và tổ tiên của ông ta, đồng thời giao cho ông ta [Các mảnh vỡ của Narsil](../S/Shards_of_Narsil.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-HS_2-0" class="reference"><a href="#cite_note-HS-2">[2]</a></sup><sup id="cite_ref-error_3-0" class="reference"><a href="#cite_note-error-3">[note 1]</a></sup>
+- [Elrond](../E/Elrond.md) tiết lộ cho '[Estel](../E/Estel.md)' tên thật và tổ tiên của ông, đồng thời giao cho ông [Các mảnh vỡ của Narsil](../S/Shards_of_Narsil.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-HS_2-0" class="reference"><a href="#cite_note-HS-2">[2]</a></sup><sup id="cite_ref-error_3-0" class="reference"><a href="#cite_note-error-3">[note 1]</a></sup>
 - [Arwen](../A/Arwen.md), mới trở về từ [Lothlórien](../L/Lothlórien.md), gặp [Aragorn](../A/Aragorn.md) trong rừng [Imladris](../R/Rivendell.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-HS_2-1" class="reference"><a href="#cite_note-HS-2">[2]</a></sup><sup id="cite_ref-error_3-1" class="reference"><a href="#cite_note-error-3">[note 1]</a></sup>
 - [Aragorn](../A/Aragorn.md) đi vào nơi hoang dã.<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-HS_2-2" class="reference"><a href="#cite_note-HS-2">[2]</a></sup><sup id="cite_ref-error_3-2" class="reference"><a href="#cite_note-error-3">[note 1]</a></sup>
 

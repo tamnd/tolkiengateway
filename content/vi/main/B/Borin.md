@@ -53,7 +53,7 @@ infobox:
 
 Borin là con trai thứ của [Vua](../K/Kings_of_Durin's_Folk.md) [Náin II](../N/Náin_II.md). Thời trẻ, [Gia tộc Durin](../H/House_of_Durin.md) sống trong [con rồng](../D/Dragons.md) bị tai họa [Dãy Núi Xám](../G/Grey_Mountains.md) do anh trai [Dáin I](../D/Dáin_I.md) cai trị.
 
-Khi Vua và con trai ông ta [Frór](../F/Frór.md) bị giết bởi [Cold-drake](../C/Cold-drake.md), dân tộc Durin bị chia rẽ. Borin đi theo Vua [Thrór](../T/Thrór.md) mới quay lại [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md), trong khi những người khác đi theo [Grór](../G/Grór.md) đến [Dãy Đồi Sắt](../I/Iron_Hills.md). Borin sống với [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) dưới [Vua](../K/King_under_the_Mountain.md) Thrór trong suốt quãng đời còn lại của mình.
+Khi Vua và con trai ông [Frór](../F/Frór.md) bị giết bởi [Cold-drake](../C/Cold-drake.md), dân tộc Durin bị chia rẽ. Borin đi theo Vua [Thrór](../T/Thrór.md) mới quay lại [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md), trong khi những người khác đi theo [Grór](../G/Grór.md) đến [Dãy Đồi Sắt](../I/Iron_Hills.md). Borin sống với [Người Lùn Erebor](../D/Dwarves_of_Erebor.md) dưới [Vua](../K/King_under_the_Mountain.md) Thrór trong suốt quãng đời còn lại của mình.
 
 Thông qua con trai ông, [Farin](../F/Farin.md), Borin là tổ tiên của bốn trong số mười ba Người Lùn [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) ([Balin](Balin.md), [Dwalin](../D/Dwalin.md), [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md)) và [Gimli Bạn của Tiên tộc](../G/Gimli.md) của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

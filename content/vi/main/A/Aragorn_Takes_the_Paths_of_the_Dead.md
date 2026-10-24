@@ -44,7 +44,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Khi [Aragorn](Aragorn.md) chuẩn bị ngựa trong đêm để đi đến [Dwimorberg](../D/Dwimorberg.md), [Éowyn](../_/Éowyn.md) cầu xin ông ta ở lại, nói với ông ta rằng ông ta đã mang lại hy vọng cho những người đàn ông. Ông hỏi bà tại sao bà lại đến, bà trả lời: "Bạn không biết à?" Anh dừng lại và nói với cô rằng anh không thể đáp lại tình yêu của cô dành cho anh.
+Khi [Aragorn](Aragorn.md) chuẩn bị ngựa trong đêm để đi đến [Dwimorberg](../D/Dwimorberg.md), [Éowyn](../_/Éowyn.md) cầu xin ông ở lại, nói với ông rằng ông đã mang lại hy vọng cho những người đàn ông. Ông hỏi bà tại sao bà lại đến, bà trả lời: "Bạn không biết à?" Anh dừng lại và nói với cô rằng anh không thể đáp lại tình yêu của cô dành cho anh.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Tôi đã chúc bạn niềm vui kể từ lần đầu tiên tôi nhìn thấy bạn.
@@ -52,6 +52,6 @@ Khi [Aragorn](Aragorn.md) chuẩn bị ngựa trong đêm để đi đến [Dwim
 <p class="tg-quote-footer"><cite><a href="Aragorn.md" title="Aragorn">Aragorn</a> to <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a></cite></p>
 </blockquote>
 
-Ông ta dẫn ngựa đi và gặp [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md), những người nói với ông ta rằng họ sẽ đi cùng ông ta.
+Ông dẫn ngựa đi và gặp [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md), những người nói với ông rằng họ sẽ đi cùng ông.
 
-Người của [Rohan](../R/Rohan.md) theo dõi Aragorn, Legolas và Gimli rời trại. Họ thắc mắc tại sao Aragorn lại rời đi khi trận chiến sắp xảy ra. [Cờ bạc](../G/Gamling.md) nói với họ rằng đó là vì không còn hy vọng. [Théoden](../T/Théoden.md) đi vào nhóm người và nói với họ rằng "ông ta rời đi vì ông ta phải làm", và rằng mặc dù không còn hy vọng chiến thắng trước lực lượng của [Sauron](../S/Sauron.md), nhưng những người của Rohan vẫn sẽ gặp họ trong trận chiến.
+Người của [Rohan](../R/Rohan.md) theo dõi Aragorn, Legolas và Gimli rời trại. Họ thắc mắc tại sao Aragorn lại rời đi khi trận chiến sắp xảy ra. [Cờ bạc](../G/Gamling.md) nói với họ rằng đó là vì không còn hy vọng. [Théoden](../T/Théoden.md) đi vào nhóm người và nói với họ rằng "ông rời đi vì ông phải làm", và rằng mặc dù không còn hy vọng chiến thắng trước lực lượng của [Sauron](../S/Sauron.md), nhưng những người của Rohan vẫn sẽ gặp họ trong trận chiến.

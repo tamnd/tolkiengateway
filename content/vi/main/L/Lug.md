@@ -46,7 +46,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Lug nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrog](../B/Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Lug cuối cùng đã bị giết bởi Tuor, kẻ đã đánh ông ta bằng chiếc rìu [Dramborleg](../D/Dramborleg.md) của ông ta, khiến tay chân của ông ta bị cắt đứt trong quá trình đó.<sup id="cite_ref-LT2Gondolin_2-0" class="reference"><a href="#cite_note-LT2Gondolin-2">[2]</a></sup>
+Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Lug nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrog](../B/Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Lug cuối cùng đã bị giết bởi Tuor, kẻ đã đánh ông bằng chiếc rìu [Dramborleg](../D/Dramborleg.md) của ông, khiến tay chân của ông bị cắt đứt trong quá trình đó.<sup id="cite_ref-LT2Gondolin_2-0" class="reference"><a href="#cite_note-LT2Gondolin-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

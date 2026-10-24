@@ -48,7 +48,7 @@ Theo truyền thống đặt tên của [High Elves](../H/High_Elves.md), một 
 
 - [Kilmessë](../K/Kilmessë.md): một cái tên được một Tiên chọn cho chính mình để ngụy trang hoặc để chỉ những thành tích, tài năng và tiểu sử cá nhân.
 
-*father-name* và *amilessë* là 'tên thật' của Tiên và là tên công khai. *father-name* là tên mà Tiên được sử dụng ở nơi công cộng cho đến khi *epessë* được chọn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Trong *[The Silmarillion](../T/The_Silmarillion.md)*, khi Tiên chưa có *epessë*, phiên bản Sindarin của tên cha hoặc mẹ của ông ta sẽ được sử dụng thay thế.
+*father-name* và *amilessë* là 'tên thật' của Tiên và là tên công khai. *father-name* là tên mà Tiên được sử dụng ở nơi công cộng cho đến khi *epessë* được chọn.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Trong *[The Silmarillion](../T/The_Silmarillion.md)*, khi Tiên chưa có *epessë*, phiên bản Sindarin của tên cha hoặc mẹ của ông sẽ được sử dụng thay thế.
 
 ### Ví dụ {#Examples}
 

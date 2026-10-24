@@ -44,7 +44,7 @@ Cái tên này là một trong những cái tên được [Christopher Tolkien](
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nobottle là một trong bốn khu định cư của "<a href="../T/The_Yondershire.md" title="The Yondershire">the Yondershire</a>", ở vùng tây bắc hoang dã của Shire. Nó nổi tiếng với nhà máy bia, các sản phẩm có nhu cầu cao.</dd></dl>
 

@@ -42,7 +42,7 @@ infobox:
 
 Ainairos là một trong những [Solosimpi](../S/Solosimpi.md) đã trốn thoát khỏi [Kinslaughter tại Alqaluntë](../K/Kinslaying_at_Alqualondë.md) trong đó anh trai anh bị giết. Kết quả của việc này là anh cùng với nhiều người của mình trở nên cay đắng và phẫn uất với [Noldoli](../N/Noldoli.md).
 
-Khi [Manwë](../M/Manwë.md) triệu tập [Valar](../V/Valar.md) và [Tiên tộc](../E/Elves.md) đến một hội đồng về con đường cuối cùng của [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md), Ainairos là người lên tiếng phản đối [Những kẻ lưu vong](../E/Exile_of_the_Noldor.md) và việc che giấu Valinor, và hầu hết những người có mặt ở đó đều đồng ý với ông ta, không muốn [Melko](../M/Melko.md) cũng như Noldoli quay trở lại.<sup id="cite_ref-Ainairos_1-1" class="reference"><a href="#cite_note-Ainairos-1">[1]</a></sup>
+Khi [Manwë](../M/Manwë.md) triệu tập [Valar](../V/Valar.md) và [Tiên tộc](../E/Elves.md) đến một hội đồng về con đường cuối cùng của [Mặt Trời](../S/Sun.md) và [Mặt Trăng](../M/Moon.md), Ainairos là người lên tiếng phản đối [Những kẻ lưu vong](../E/Exile_of_the_Noldor.md) và việc che giấu Valinor, và hầu hết những người có mặt ở đó đều đồng ý với ông, không muốn [Melko](../M/Melko.md) cũng như Noldoli quay trở lại.<sup id="cite_ref-Ainairos_1-1" class="reference"><a href="#cite_note-Ainairos-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

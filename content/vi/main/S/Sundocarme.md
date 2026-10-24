@@ -25,7 +25,7 @@ images:
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Gốc là chữ hoa và hoàn toàn không phải là từ được sử dụng mà đóng vai trò làm sáng tỏ các từ được nhóm lại với nhau và mối liên hệ giữa chúng.
+<p>Các gốc từ được viết bằng chữ in hoa và hoàn toàn không được dùng như những từ ngữ thông thường, mà có tác dụng giải thích các từ được xếp cùng nhóm và thể hiện mối liên hệ giữa chúng.
 </p>
 <p class="tg-quote-footer"><cite>ghi chú của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> trong <i><a class="mw-redirect" href="../Q/Qenya_Lexicon.md" title="Qenya Lexicon">Qenya Lexicon</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

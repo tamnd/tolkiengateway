@@ -33,7 +33,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi [North Polar Bear](../N/North_Polar_Bear.md) bị lạc trong hang động, ông ta được tìm thấy bởi Mr Cave Bear và cố gắng dẫn ông ta ra khỏi hang động. [Goblin](../O/Orcs.md#Other_writings) đã làm mất North Polar Bear bằng cách bắt chước giọng nói của Mr Cave Bear và đánh lừa ông ta. Ông nhận ra rằng cần có ánh sáng nên đã tìm thấy [Ông già Noel](../F/Father_Christmas.md) và thông báo rằng North Polar Bear đã bị mất và đưa ông ấy đến hang động và họ cùng nhau giải cứu ông ấy.<sup id="cite_ref-l32b_2-0" class="reference"><a href="#cite_note-l32b-2">[1]</a></sup>
+Khi [North Polar Bear](../N/North_Polar_Bear.md) bị lạc trong hang động, ông được tìm thấy bởi Mr Cave Bear và cố gắng dẫn ông ra khỏi hang động. [Goblin](../O/Orcs.md#Other_writings) đã làm mất North Polar Bear bằng cách bắt chước giọng nói của Mr Cave Bear và đánh lừa ông. Ông nhận ra rằng cần có ánh sáng nên đã tìm thấy [Ông già Noel](../F/Father_Christmas.md) và thông báo rằng North Polar Bear đã bị mất và đưa ông ấy đến hang động và họ cùng nhau giải cứu ông ấy.<sup id="cite_ref-l32b_2-0" class="reference"><a href="#cite_note-l32b-2">[1]</a></sup>
 
 Khi Ông già Noel phát hiện ra căn hầm của họ đã trống rỗng và một đường hầm đã được đào vào đó (một đường hầm quá nhỏ để họ có thể lọt qua), họ vội vã đi tìm Mr Cave Bear, và trong hang động, họ phát hiện ra rằng đường hầm đã được xây dựng bởi Goblin. Vì North Polar Bear bị thất lạc và quà bị Goblin lấy trộm nên mọi người rất gấp rút chuẩn bị cho Giáng sinh và Mr Cave Bear cùng với các Gnome-các cô đã giúp đỡ.<sup id="cite_ref-l32b_2-1" class="reference"><a href="#cite_note-l32b-2">[1]</a></sup>
 

@@ -44,7 +44,7 @@ infobox:
 
 **Đèo Anach** (từ *[an](An.md)* = "dài") là một con đèo dài và hẹp chạy xuống từ vùng cao nguyên [Dorthonion](../D/Dorthonion.md), cắt về phía tây nam giữa những ngọn núi gần như không thể vượt qua của [Crissaegrim](../C/Crissaegrim.md) và [Ered Gorgoroth](../E/Ered_Gorgoroth.md). Về phía cực nam của nó, nơi nó mở ra vùng đất [Dimbar](../D/Dimbar.md), là các suối của Sông [Mindeb](../M/Mindeb.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong những năm sau của [Kỷ Đệ Nhất](../F/First_Age.md), Dorthonion nằm dưới sự kiểm soát của [Morgoth](../M/Morgoth.md) và cùng với đó là Thẻ Anach. [Orc](../O/Orcs.md) của ông ta bắt đầu sử dụng nó như một con đường đi xuống từ vùng cao nguyên, xây dựng một con đường xuyên qua thung lũng để tiếp cận và quấy rối các vùng đất xa hơn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cuối cùng, họ đã thành công trong việc chinh phục không chỉ [Dimbar](../D/Dimbar.md) mà còn cả các khu vực phía đông chạy dọc biên giới [Doriath](../D/Doriath.md).
+Trong những năm sau của [Kỷ Đệ Nhất](../F/First_Age.md), Dorthonion nằm dưới sự kiểm soát của [Morgoth](../M/Morgoth.md) và cùng với đó là Thẻ Anach. [Orc](../O/Orcs.md) của ông bắt đầu sử dụng nó như một con đường đi xuống từ vùng cao nguyên, xây dựng một con đường xuyên qua thung lũng để tiếp cận và quấy rối các vùng đất xa hơn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cuối cùng, họ đã thành công trong việc chinh phục không chỉ [Dimbar](../D/Dimbar.md) mà còn cả các khu vực phía đông chạy dọc biên giới [Doriath](../D/Doriath.md).
 
 <span></span>
 

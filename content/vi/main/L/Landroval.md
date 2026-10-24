@@ -56,9 +56,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Là hậu duệ của [Thorondor](../T/Thorondor.md), người ta nói rằng Landroval là chư hầu của ông ta trong [Kỷ Đệ Nhất](../F/First_Age.md) và cùng với anh trai [Gwaihir](../G/Gwaihir.md) đã giúp ông ta giải cứu [Beren](../B/Beren.md) và [Lúthien](Lúthien.md) khỏi [Angband](../A/Angband.md).<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
+Là hậu duệ của [Thorondor](../T/Thorondor.md), người ta nói rằng Landroval là chư hầu của ông trong [Kỷ Đệ Nhất](../F/First_Age.md) và cùng với anh trai [Gwaihir](../G/Gwaihir.md) đã giúp ông giải cứu [Beren](../B/Beren.md) và [Lúthien](Lúthien.md) khỏi [Angband](../A/Angband.md).<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup>
 
-Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông ta đứng ngoài cuộc chiến trong phần lớn cuộc xung đột, nhưng ông ta theo anh trai mình đến [Trận Morannon](../B/Battle_of_the_Morannon.md), nơi ông ta và các chư hầu của mình đã giúp lật ngược tình thế.
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông đứng ngoài cuộc chiến trong phần lớn cuộc xung đột, nhưng ông theo anh trai mình đến [Trận Morannon](../B/Battle_of_the_Morannon.md), nơi ông và các chư hầu của mình đã giúp lật ngược tình thế.
 
 Sau khi Chiếc nhẫn bị phá hủy, Landroval, Gwaihir và [Meneldor](../M/Meneldor.md), bay vào [Mordor](../M/Mordor.md) để lấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) từ đống đổ nát của [Núi Diệt Vong](../M/Mount_Doom.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -80,7 +80,7 @@ Sau khi Chiếc nhẫn bị phá hủy, Landroval, Gwaihir và [Meneldor](../M/M
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Landroval.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ab/The_Lord_of_the_Rings_Online_-_Landroval.jpg/300px-The_Lord_of_the_Rings_Online_-_Landroval.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ab/The_Lord_of_the_Rings_Online_-_Landroval.jpg/450px-The_Lord_of_the_Rings_Online_-_Landroval.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ab/The_Lord_of_the_Rings_Online_-_Landroval.jpg/600px-The_Lord_of_the_Rings_Online_-_Landroval.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Landroval in <i>The Lord of the Rings Online</i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Landroval và những người anh em của ông xuất hiện ở một số điểm trong suốt trò chơi. Lần đầu tiên người chơi gặp ông và <a href="../M/Meneldor.md" title="Meneldor">Meneldor</a> ở Đồi Than Khóc phía nam <a class="mw-redirect" href="Lothlorien.md" title="Lothlorien">Lothlorien</a> nơi họ giúp Đại Bàng đối phó với sự xâm nhập của nhện. Sau khi tham gia vào <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Trận Morannon</a>, người chơi gặp lại Đại Bàng một lần nữa sau đó họ đến được <a href="../C/Carrock.md" title="Carrock">Carrock</a>. Sau đó, người chơi gặp lại Landroval tại Giếng <a href="../A/Anduin.md" title="Anduin">Anduin</a>.</dd></dl>
 

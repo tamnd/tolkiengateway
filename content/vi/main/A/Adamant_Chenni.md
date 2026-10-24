@@ -39,7 +39,7 @@ infobox:
 
 ## Từ nhà xuất bản<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> {#From_the_publisher[1]}
 
-Vài thập kỷ sau sự sụp đổ của Olmer và phi đội Grey, những điều kỳ lạ bắt đầu xảy ra ở ngoại ô Vương quốc, khiến Folko Brandybuck và những người bạn của ông ta không thể thoát khỏi, họ nhanh chóng chia tay và đi về phía đông. Đây chính xác là nơi con dao găm hobbit gọi họ bằng sức mạnh ma thuật của nó. Và chính từ đó, Folko có những ảo ảnh kỳ lạ, trong đó ánh sáng còn tàn nhẫn và nguy hiểm hơn bóng tối, rồi đột nhiên xuất hiện như những Defenders of Light đe dọa Trung Địa bằng một sự sụp đổ không thể tránh khỏi.
+Vài thập kỷ sau sự sụp đổ của Olmer và phi đội Grey, những điều kỳ lạ bắt đầu xảy ra ở ngoại ô Vương quốc, khiến Folko Brandybuck và những người bạn của ông không thể thoát khỏi, họ nhanh chóng chia tay và đi về phía đông. Đây chính xác là nơi con dao găm hobbit gọi họ bằng sức mạnh ma thuật của nó. Và chính từ đó, Folko có những ảo ảnh kỳ lạ, trong đó ánh sáng còn tàn nhẫn và nguy hiểm hơn bóng tối, rồi đột nhiên xuất hiện như những Defenders of Light đe dọa Trung Địa bằng một sự sụp đổ không thể tránh khỏi.
 
 <span></span>
 

@@ -23,7 +23,7 @@ langlinks:
 
 ** [Cảnh sát trưởng](../S/Shirriff.md)** đầu tiên của [ Shire](../T/The_Shire.md) là người đứng đầu [Watch](../W/Watch.md). Văn phòng trực thuộc [Chức thị trưởng của Michel Delving](../M/Mayor_of_Michel_Delving.md).<sup id="cite_ref-Ordering_1-0" class="reference"><a href="#cite_note-Ordering-1">[1]</a></sup>
 
-Khi [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) nắm quyền kiểm soát Shire trong thời gian ngắn [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông ta tự gọi mình là [Cảnh sát trưởng](../C/Chief_Shirriff.md).<sup id="cite_ref-Scouring_2-0" class="reference"><a href="#cite_note-Scouring-2">[2]</a></sup>
+Khi [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) nắm quyền kiểm soát Shire trong thời gian ngắn [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông tự gọi mình là [Cảnh sát trưởng](../C/Chief_Shirriff.md).<sup id="cite_ref-Scouring_2-0" class="reference"><a href="#cite_note-Scouring-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

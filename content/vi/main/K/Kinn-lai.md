@@ -43,7 +43,7 @@ infobox:
 
 <dl><dd><i>Kinn-lai</i>, một cách phát âm của "Quendi" (tên cổ xưa nhất của Tiên tộc), cũng là tên của một bộ tộc Avari Tiên tộc trong khu rừng rậm của <a href="../M/Mûmakan.md" title="Mûmakan">Mûmakan</a> ở miền Nam Utter của Trung Địa.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b>2024: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2024: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Kintai.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Kintai.jpg/300px-The_Lord_of_the_Rings_Online_-_Kintai.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Kintai.jpg/450px-The_Lord_of_the_Rings_Online_-_Kintai.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b3/The_Lord_of_the_Rings_Online_-_Kintai.jpg/600px-The_Lord_of_the_Rings_Online_-_Kintai.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Kintai in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 

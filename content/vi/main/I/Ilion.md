@@ -48,7 +48,7 @@ infobox:
 
 **Ilion** là cha của [Ingwë](Ingwë.md), người sau này trở thành Vua của [Vanyar](../V/Vanyar.md). Ông là một trong những [Minyar](../M/Minyar.md), hậu duệ trực tiếp của [Imin](Imin.md) và [Iminyë](Iminyë.md) từ con trai cả đến con trai cả, thuộc thế hệ thứ tư của [Tiên tộc](../E/Elves.md) (tức là chắt của Imin).<sup id="cite_ref-Ilion_1-2" class="reference"><a href="#cite_note-Ilion-1">[1]</a></sup>
 
-Không rõ liệu ông ta có tham gia [Great March](../G/Great_March.md) hay ở lại [Cuiviénen](../C/Cuiviénen.md).
+Không rõ liệu ông có tham gia [Great March](../G/Great_March.md) hay ở lại [Cuiviénen](../C/Cuiviénen.md).
 
 ## Từ nguyên {#Etymology}
 

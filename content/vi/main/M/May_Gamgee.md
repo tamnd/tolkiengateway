@@ -69,7 +69,7 @@ May là con gái thứ hai và là con thứ tư của [Hamfast Gamgee](../G/Gaf
 		</li>
 </ul>
 
-<b><a href="../_/2010.md" title="2010">2010</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2010.md" title="2010">2010</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Trong Lễ hội Thu hoạch, May hiện diện gần Cây Tiệc tùng. Bằng cách nói chuyện với bà, nhiệm vụ "Cuộc giải cứu Hobbit vĩ đại" có thể được bắt đầu, trong đó bà yêu cầu trợ giúp tìm kiếm những người bạn bị thất lạc của mình trong Hang Sóc Ma Ám.</dd></dl>
 

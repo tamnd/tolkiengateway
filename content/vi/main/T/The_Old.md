@@ -21,13 +21,13 @@ langlinks:
 
 **The Old** là danh hiệu của ba [Con Người](../M/Men.md) sống đến tuổi cao: [Bëor](../B/Bëor.md), [Aldor](../A/Aldor.md) của [Rohan](../R/Rohan.md) và [Grimbeorn](../G/Grimbeorn.md) con trai của [Beorn](../B/Beorn.md).
 
-Rõ ràng người trẻ nhất trong ba người là [Grimbeorn](../G/Grimbeorn.md), người được cho là đã cai trị [Thung lũng Anduin](../V/Vales_of_Anduin.md) vào năm [T.A.](Third_Age.md) [3018](Third_Age_3018.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bằng chứng chỉ rõ rằng ông ta được sinh ra sau chuyến thăm của [Bilbo Baggins](../B/Bilbo_Baggins.md) tới cha mình vào [2941](Third_Age_2941.md), vì vậy tuổi của ông ta có thể không quá 77 vào thời điểm ông ta được gọi là 'Ông già'. Tất nhiên, ông ta có thể đã sống lâu hơn thế này.
+Rõ ràng người trẻ nhất trong ba người là [Grimbeorn](../G/Grimbeorn.md), người được cho là đã cai trị [Thung lũng Anduin](../V/Vales_of_Anduin.md) vào năm [T.A.](Third_Age.md) [3018](Third_Age_3018.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bằng chứng chỉ rõ rằng ông được sinh ra sau chuyến thăm của [Bilbo Baggins](../B/Bilbo_Baggins.md) tới cha mình vào [2941](Third_Age_2941.md), vì vậy tuổi của ông có thể không quá 77 vào thời điểm ông được gọi là 'Ông già'. Tất nhiên, ông có thể đã sống lâu hơn thế này.
 
 Bëor là người đầu tiên trong số Con Người chạm trán với [Tiên tộc](../E/Elves.md), sau khi dẫn người của mình vượt qua [Dãy Núi Xanh](../B/Blue_Mountains.md) để vào [Beleriand](../B/Beleriand.md). Vào thời điểm diễn ra cuộc gặp đó, ông 49 tuổi và qua đời sau 44 năm phục vụ [Finrod Felagund](../F/Finrod.md), thọ 93 tuổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Tuy nhiên, người lớn tuổi nhất trong ba người là Aldor, Vua Rohan thứ ba. Ông đã sống hơn một thế kỷ, chính xác là 101 năm, và cai trị vùng đất [Rohirrim](../R/Rohirrim.md) trong không dưới bảy mươi lăm năm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Danh hiệu này cũng được áp dụng cho [Forlong](../F/Forlong.md), [Chúa tể của Lossarnach](../L/Lord_of_Lossarnach.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mặc dù ông ta thường được gọi là '<a class="mw-redirect mw-disambig" href="The_Fat.md" title="The Fat">The Fat</a>'.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
+Danh hiệu này cũng được áp dụng cho [Forlong](../F/Forlong.md), [Chúa tể của Lossarnach](../L/Lord_of_Lossarnach.md),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mặc dù ông thường được gọi là '<a class="mw-redirect mw-disambig" href="The_Fat.md" title="The Fat">The Fat</a>'.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

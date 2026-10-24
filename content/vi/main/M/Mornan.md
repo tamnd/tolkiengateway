@@ -31,7 +31,7 @@ infobox:
 
 Mornan là một thung lũng tối và hẹp nằm dưới bóng của hai ngọn núi cao ở [Ered Nimrais](../W/White_Mountains.md), nằm ngay phía nam của [Edoras](../E/Edoras.md).<sup id="cite_ref-Mornan_2-0" class="reference"><a href="#cite_note-Mornan-2">[2]</a></sup> Phía trên Mornan là một cánh cổng ẩn bên trong một số tảng đá tối tăm dẫn ra từ [Cổng Tử thần Con Người](../G/Gate_of_the_Dead_Men.md).<sup id="cite_ref-Mornan_2-1" class="reference"><a href="#cite_note-Mornan-2">[2]</a></sup><sup id="cite_ref-Passing_3-0" class="reference"><a href="#cite_note-Passing-3">[3]</a></sup>
 
-Vào [8 tháng 3](../_/8_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md) và [Grey Company](../G/Grey_Company.md) đã rời khỏi [Con đường của người chết](../P/Paths_of_the_Dead.md) tại Mornan.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Họ đi đến [Tảng đá Erech](../S/Stone_of_Erech.md) nơi Aragorn, với tư cách là người thừa kế của [Isildur](../I/Isildur.md), đã kêu gọi [Những kẻ vi phạm lời thề](../O/Oathbreakers.md) đi theo ông ta và thực hiện lời cam kết của họ.<sup id="cite_ref-Passing_3-1" class="reference"><a href="#cite_note-Passing-3">[3]</a></sup>
+Vào [8 tháng 3](../_/8_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md) và [Grey Company](../G/Grey_Company.md) đã rời khỏi [Con đường của người chết](../P/Paths_of_the_Dead.md) tại Mornan.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Họ đi đến [Tảng đá Erech](../S/Stone_of_Erech.md) nơi Aragorn, với tư cách là người thừa kế của [Isildur](../I/Isildur.md), đã kêu gọi [Những kẻ vi phạm lời thề](../O/Oathbreakers.md) đi theo ông và thực hiện lời cam kết của họ.<sup id="cite_ref-Passing_3-1" class="reference"><a href="#cite_note-Passing-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -39,7 +39,7 @@ Vào [8 tháng 3](../_/8_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_A
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tên "Mornan" không được sử dụng do hạn chế cấp phép, nhưng Morthond có nguồn gốc từ một thung lũng tối tăm phù hợp với mô tả của nó.</dd></dl>
 

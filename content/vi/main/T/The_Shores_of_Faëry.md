@@ -25,7 +25,7 @@ images:
 
 *Eärendel Kẻ lang thang đi khắp các Đại dương của Thế giới trên con tàu trắng Wingelot của mình đã ngồi lâu trong khi tuổi già của mình trên Đảo Chim biển ở Vùng biển phía Bắc trước khi ông bắt đầu chuyến hành trình cuối cùng.*
 
-*Ông ta đã vượt qua Taniquetil và thậm chí cả Valinor, và ném tiếng sủa của mình qua thanh ở rìa thế giới, và phóng nó vào Đại dương của bầu trời. Không có người nào kể về những cuộc phiêu lưu của ông ta, ngoại trừ việc bị săn đuổi bởi Mặt Trăng quả cầu, ông ta đã chạy trốn trở lại Valinor, và gắn các tòa tháp Kôr trên những tảng đá của Eglamar, ông ta nhìn lại Đại dương của Thế giới. Đối với Eglamar, ông luôn đến vào lúc toàn thể khi Mặt Trăng ra khơi vượt quá Taniquetil và Valinor.*
+*Ông đã vượt qua Taniquetil và thậm chí cả Valinor, và ném tiếng sủa của mình qua thanh ở rìa thế giới, và phóng nó vào Đại dương của bầu trời. Không có người nào kể về những cuộc phiêu lưu của ông, ngoại trừ việc bị săn đuổi bởi Mặt Trăng quả cầu, ông đã chạy trốn trở lại Valinor, và gắn các tòa tháp Kôr trên những tảng đá của Eglamar, ông nhìn lại Đại dương của Thế giới. Đối với Eglamar, ông luôn đến vào lúc toàn thể khi Mặt Trăng ra khơi vượt quá Taniquetil và Valinor.*
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

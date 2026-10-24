@@ -40,7 +40,7 @@ Tolkien rất không hài lòng với sự ngu xuẩn và kém cỏi cùng cực
 ## Ghi chú {#Notes}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tolkien had been sent, at <a class="mw-redirect" href="../A/Allen_and_Unwin.md" title="Allen and Unwin">Allen and Unwin</a>&#39;s expense, to Holland.  He had enjoyed the trip very much.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tolkien had been sent, at <a class="mw-redirect" href="../A/Allen_and_Unwin.md" title="Allen and Unwin">Allen and Unwin</a>&#39;s expense, to Holland. He had enjoyed the trip very much.</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">A synopsis of a proposed animated <i>Lord of the Rings</i>, written by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morton_Grady_Zimmerman&amp;action=edit&amp;redlink=1" title="Morton Grady Zimmerman (page does not exist)">Morton Grady Zimmerman</a>.</span>
 </li>

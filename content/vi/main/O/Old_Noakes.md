@@ -40,7 +40,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Noakes là khách quen của [Ivy Bush](../I/Ivy_Bush.md) và là bạn của [Gaffer](../G/Gaffer_Gamgee.md). Ông đã có mặt tại bữa tiệc của mình ngay trước [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md). Hỏi Gaffer về [Frodo Baggins](../F/Frodo_Baggins.md), ông ta nghĩ rằng mình phải hơn một nửa [một Brandybuck](../B/Brandybuck_Family~66350.md), công khai thắc mắc tại sao [bất kỳ ai](../D/Drogo_Baggins.md) nên tìm [một người vợ](../P/Primula_Brandybuck.md) ở [Buckland](../B/Buckland.md). Khi Gaffer đề cập đến tai nạn của cha mẹ Frodo, Noakes đề cập rằng ông nghe nói họ đi chơi sau bữa tối vào ban đêm và chính trọng lượng của Drogo Baggins' đã làm chìm thuyền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Noakes là khách quen của [Ivy Bush](../I/Ivy_Bush.md) và là bạn của [Gaffer](../G/Gaffer_Gamgee.md). Ông đã có mặt tại bữa tiệc của mình ngay trước [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md). Hỏi Gaffer về [Frodo Baggins](../F/Frodo_Baggins.md), ông nghĩ rằng mình phải hơn một nửa [một Brandybuck](../B/Brandybuck_Family~66350.md), công khai thắc mắc tại sao [bất kỳ ai](../D/Drogo_Baggins.md) nên tìm [một người vợ](../P/Primula_Brandybuck.md) ở [Buckland](../B/Buckland.md). Khi Gaffer đề cập đến tai nạn của cha mẹ Frodo, Noakes đề cập rằng ông nghe nói họ đi chơi sau bữa tối vào ban đêm và chính trọng lượng của Drogo Baggins' đã làm chìm thuyền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

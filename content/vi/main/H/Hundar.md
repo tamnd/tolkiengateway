@@ -43,7 +43,7 @@ infobox:
 
 **Hundar** là một trong những [Haladin](Haladin.md), con trai nhỏ của [Halmir](Halmir.md) và là em trai của [Haldir](<Haldir_(Chieftain_of_the_Haladin).md>), [Hareth](Hareth.md),<sup id="cite_ref-Haladin_1-0" class="reference"><a href="#cite_note-Haladin-1">[1]</a></sup> và [Hiril](Hiril.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Hundar có hai con: một con gái [Hunleth](Hunleth.md) và một con trai [Hundad](Hundad.md).<sup id="cite_ref-Haladin_1-1" class="reference"><a href="#cite_note-Haladin-1">[1]</a></sup>
 
-Sau đó ông ta bị giết trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau đó ông bị giết trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -46,7 +46,7 @@ Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), người ta cho rằng nó đã
 		</li>
 </ul>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cầu thang vô tận có thể được quan sát từ nhiều địa điểm trong <a href="../M/Moria.md" title="Moria">Moria</a>, tạo ra nhiều mức độ cao khác nhau trên môi trường trò chơi phẳng về mặt hình học. Người chơi có thể đi đến chân Cầu thang trong Nền tảng Đá và leo lên một số chuyến bay, chỉ để tìm thấy lối đi tiếp theo bị chặn bởi sự tàn phá để lại sau Balrog.</dd></dl>
 

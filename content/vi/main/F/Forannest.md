@@ -29,7 +29,7 @@ images:
 
 Forannest nằm ở phía tây bắc của Rammas Echor và con đường phía bắc từ [Minas Tirith](../M/Minas_Tirith.md) chạy qua nó nối với [Great West Road](../G/Great_West_Road.md).
 
-Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Gandalf](../G/Gandalf.md) và [Peregrin Took](../P/Peregrin_Took.md) đi qua cánh cổng do [Ingold](../I/Ingold.md) chỉ huy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vài ngày sau, lực lượng của [Sauron](../S/Sauron.md) đến từ [Morannon](../M/Morannon.md), chiếm [Cair Andros](../C/Cair_Andros.md) và chọc thủng Rammas Echor, phá hủy Forannest, Ingold cùng người của ông ta là những người cuối cùng rút lui khỏi bức tường về Minas Tirith.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Gandalf](../G/Gandalf.md) và [Peregrin Took](../P/Peregrin_Took.md) đi qua cánh cổng do [Ingold](../I/Ingold.md) chỉ huy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vài ngày sau, lực lượng của [Sauron](../S/Sauron.md) đến từ [Morannon](../M/Morannon.md), chiếm [Cair Andros](../C/Cair_Andros.md) và chọc thủng Rammas Echor, phá hủy Forannest, Ingold cùng người của ông là những người cuối cùng rút lui khỏi bức tường về Minas Tirith.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Hai ngày sau, [Rohirrim](../R/Rohirrim.md) đi qua Forannest và các lỗ hổng xung quanh nó để tham gia [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -47,7 +47,7 @@ Cái tên *Forannest* chỉ xuất hiện trong bản nháp từ những năm 19
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Forannest chỉ được gọi là "Cổng phía Bắc" trong game. <a href="../I/Ingold.md" title="Ingold">Ingold</a> giám sát trò chơi và giao cho người chơi một số nhiệm vụ để trinh sát và tiêu diệt kẻ thù trước các sinh vật Cuộc vây hãm Gondor một cách nghiêm túc.</dd></dl>
 

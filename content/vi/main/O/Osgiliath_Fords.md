@@ -39,7 +39,7 @@ Cuối cùng, những pháo đài và cây cầu này cùng với phần còn l�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một loạt cầu cạn ở cả phía bắc và phía nam của Cây cầu Lớn đổ nát cung cấp một con đường băng qua <a href="../A/Anduin.md" title="Anduin">Anduin</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

@@ -41,7 +41,7 @@ Trong ngôn ngữ thông thường, *Fanuidhol* được gọi là "Cloudyhead".
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Fanuidhol.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/da/The_Lord_of_the_Rings_Online_-_Fanuidhol.jpg/250px-The_Lord_of_the_Rings_Online_-_Fanuidhol.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/da/The_Lord_of_the_Rings_Online_-_Fanuidhol.jpg/375px-The_Lord_of_the_Rings_Online_-_Fanuidhol.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/da/The_Lord_of_the_Rings_Online_-_Fanuidhol.jpg/500px-The_Lord_of_the_Rings_Online_-_Fanuidhol.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Fanuidhol in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Các sườn phía nam của Fanuidhol có thể được khám phá cả trong thời đại ngày nay và trong đoạn hồi tưởng mô tả <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a> trong <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2799.md" title="Third Age 2799">2799</a>.</dd></dl>
 

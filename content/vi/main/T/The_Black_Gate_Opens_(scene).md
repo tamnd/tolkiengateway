@@ -50,7 +50,7 @@ Các [Thuyền trưởng của Phương Tây](../C/Captains_of_the_West.md) quay
 
 Khi quân đội của [Mordor](../M/Mordor.md) bao vây lực lượng của Phương Tây, [Gandalf](../G/Gandalf.md) có vẻ không chắc chắn. *"Chưa bao giờ tôi nghĩ mình sẽ chết khi chiến đấu bên cạnh một Tiên"*, [Gimli](../G/Gimli.md) nói với [Legolas](../L/Legolas.md). *"Sát cánh cùng một người bạn thì sao?"* Legolas lặng lẽ mỉm cười nói. Cảm động, Gimli nói rằng ông có thể làm được điều đó.
 
-<br> [Sam](../S/Sam.md) nhận ra ánh mắt của [Sauron](../S/Sauron.md) đã bị thu hút và giúp [Frodo](../F/Frodo.md) đứng dậy. Họ đến được những con dốc [Orodruin](../O/Orodruin.md) đã cạn kiệt năng lượng. Frodo không thể đứng vững được, nhìn lên trên và thấy ngọn lửa bốc ra từ Núi Diệt Vong. Ông ta bò được một đoạn ngắn nhưng gục xuống vì kiệt sức.
+<br> [Sam](../S/Sam.md) nhận ra ánh mắt của [Sauron](../S/Sauron.md) đã bị thu hút và giúp [Frodo](../F/Frodo.md) đứng dậy. Họ đến được những con dốc [Orodruin](../O/Orodruin.md) đã cạn kiệt năng lượng. Frodo không thể đứng vững được, nhìn lên trên và thấy ngọn lửa bốc ra từ Núi Diệt Vong. Ông bò được một đoạn ngắn nhưng gục xuống vì kiệt sức.
 
 ## Sự khác biệt {#Differences}
 

@@ -34,7 +34,7 @@ Vào [25 tháng 3](../_/25_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sauron Đường đã bị phá hủy do vụ phun trào của <a href="../M/Mount_Doom.md" title="Mount Doom">Núi Diệt Vong</a>. Cây cầu sắt đã bị sập và <a class="mw-redirect" href="Sammath_Naur.md" title="Sammath Naur">Sammath Naur</a> không thể tiếp cận được từ cảnh quan.</dd></dl>
 

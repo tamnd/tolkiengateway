@@ -46,7 +46,7 @@ infobox:
 
 ## Nền {#Background}
 
-Khi [Con Người](../M/Men.md) tỉnh dậy lần đầu tiên ở [Hildórien](../H/Hildórien.md) [Morgoth](../M/Morgoth.md) đã biết về sự hiện diện của họ và ông ta bí mật rời đi [Angband](../A/Angband.md) với hy vọng quay Con Người chống lại Eldar.<sup id="cite_ref-Men_1-1" class="reference"><a href="#cite_note-Men-1">[1]</a></sup> Tuy nhiên, kế hoạch của ông ta đã không hoàn toàn đạt được.
+Khi [Con Người](../M/Men.md) tỉnh dậy lần đầu tiên ở [Hildórien](../H/Hildórien.md) [Morgoth](../M/Morgoth.md) đã biết về sự hiện diện của họ và ông bí mật rời đi [Angband](../A/Angband.md) với hy vọng quay Con Người chống lại Eldar.<sup id="cite_ref-Men_1-1" class="reference"><a href="#cite_note-Men-1">[1]</a></sup> Tuy nhiên, kế hoạch của ông đã không hoàn toàn đạt được.
 
 Trong [Thời kỳ Hòa bình Dài lâu](../L/Long_Peace.md) [Con thứ](../S/Secondborn.md) bắt đầu băng qua [Ered Lindon](../E/Ered_Lindon.md) và vào [Beleriand](Beleriand.md), nơi họ đã liên lạc với [Eldar](../E/Eldar.md) sống ở đó. Một nhóm trong số Con Người này là [Haladin](../H/Haladin.md) cư trú tại [Thargelion](../T/Thargelion.md) sau những cuộc gặp gỡ không thân thiện với [Tiên Xanh](../G/Green-elves.md).<sup id="cite_ref-Men_1-2" class="reference"><a href="#cite_note-Men-1">[1]</a></sup>
 
@@ -54,11 +54,11 @@ Trong [Thời kỳ Hòa bình Dài lâu](../L/Long_Peace.md) [Con thứ](../S/Se
 
 ### Mở đầu {#Prelude}
 
-Morgoth, nhận thấy rằng ông ta không thể hoàn toàn ghẻ lạnh Tiên tộc và Con Người với nhau, ông ta vô cùng phẫn nộ và cố gắng gây hại cho Con Người nhiều nhất có thể. Ông ta đã gửi một Orc-đột kích đi qua phương Đông để thoát khỏi người nhảy cầu, băng qua Ered Lindon và quay trở lại đường <a class="mw-redirect mw-disambig" href="../D/Dwarf-road.md" title="Dwarf-road">Người Lùn</a> trong bí mật. Họ tiến vào khu rừng phía nam đất của Caranthir và tấn công Haladin.
+Morgoth, nhận thấy rằng ông không thể hoàn toàn ghẻ lạnh Tiên tộc và Con Người với nhau, ông vô cùng phẫn nộ và cố gắng gây hại cho Con Người nhiều nhất có thể. Ông đã gửi một Orc-đột kích đi qua phương Đông để thoát khỏi người nhảy cầu, băng qua Ered Lindon và quay trở lại đường <a class="mw-redirect mw-disambig" href="../D/Dwarf-road.md" title="Dwarf-road">Người Lùn</a> trong bí mật. Họ tiến vào khu rừng phía nam đất của Caranthir và tấn công Haladin.
 
 ### Trận chiến {#Battle}
 
-Người Haladin lúc đó sống trong những ngôi nhà cách xa nhau và chậm đoàn kết để tự vệ. Trong số những người đàn ông đó có một người tên là [Haldad](../H/Haldad.md), 'người là bậc thầy và không biết sợ hãi'. Ông ta tập hợp tất cả những người đàn ông mạnh mẽ, và họ rút lui giữa [Ascar](../A/Ascar.md) và [Gelion](../G/Gelion.md) và xây dựng một [hàng rào](../G/Gelion-Ascar_Stockade.md) xung quanh họ. Haldad đã dẫn dắt tất cả người dân của mình tập hợp lại phía sau hàng rào. Orc tiếp tục tấn công Haladin và bao vây chốt.
+Người Haladin lúc đó sống trong những ngôi nhà cách xa nhau và chậm đoàn kết để tự vệ. Trong số những người đàn ông đó có một người tên là [Haldad](../H/Haldad.md), 'người là bậc thầy và không biết sợ hãi'. Ông tập hợp tất cả những người đàn ông mạnh mẽ, và họ rút lui giữa [Ascar](../A/Ascar.md) và [Gelion](../G/Gelion.md) và xây dựng một [hàng rào](../G/Gelion-Ascar_Stockade.md) xung quanh họ. Haldad đã dẫn dắt tất cả người dân của mình tập hợp lại phía sau hàng rào. Orc tiếp tục tấn công Haladin và bao vây chốt.
 
 [Haldad](../H/Haldad.md) dẫn đầu một cuộc xuất kích chống lại Orc, và tại đây ông đã bị giết cùng với con trai [Haldar](../H/Haldar.md), người đã lao ra cứu thi thể của cha mình khỏi Orc. Haldad có một cô con gái tên là [Haleth](../H/Haleth.md), giống như cha và anh trai song sinh, cô là người dũng cảm và dũng cảm, hiện cô chỉ huy cuộc bảo vệ đồn lũy.
 

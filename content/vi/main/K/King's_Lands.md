@@ -29,7 +29,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Khu vực được gọi là "Kingstead" bao gồm <a href="../H/Harrowdale.md" title="Harrowdale">Harrowdale</a> và <a href="../D/Dunharrow.md" title="Dunharrow">Dunharrow</a>. Nó bao gồm các thôn nhỏ hơn <a href="../U/Upbourn.md" title="Upbourn">Upbourn</a> và <a href="../U/Underharrow.md" title="Underharrow">Underharrow</a> ở phía nam <a href="../E/Edoras.md" title="Edoras">Edoras</a> cũng như hai thị trấn lớn hơn ở phía bắc <a href="../S/Snowbourn.md" title="Snowbourn">Snowbourn</a>: "Middlemead" và <a href="../E/Entwade.md" title="Entwade">Entwade</a>, thị trấn sau này bảo vệ pháo đài cùng tên.</dd></dl>
 

@@ -47,7 +47,7 @@ Barthanan, một người chăn cừu sống ở vùng đất bụi rậm, đang
 
 Janir, một thợ đánh bẫy thường xuyên lui tới Suza Sumar, trở thành nạn nhân của những cơn ác mộng sau khi tình cờ gặp một pháo đài đổ nát. Bạn có liều lĩnh dùng sự điên rồ để ngăn chặn chiến thắng của Ác quỷ trong *The Terror in the Jungle* không?
 
-Manari Akajhi, một học giả trẻ, đang truy tìm dòng dõi của gia đình mình để tìm kiếm nơi an nghỉ thích hợp cho người cha đã khuất của mình. Thật không may, di sản mới được phát hiện của anh đã thu hút sự chú ý của Storm Vua mạnh mẽ. Bạn có phản đối việc Nazgûl ngăn chặn việc bắt giữ ông ta ở *The Eyes of the Dragon* không?
+Manari Akajhi, một học giả trẻ, đang truy tìm dòng dõi của gia đình mình để tìm kiếm nơi an nghỉ thích hợp cho người cha đã khuất của mình. Thật không may, di sản mới được phát hiện của anh đã thu hút sự chú ý của Storm Vua mạnh mẽ. Bạn có phản đối việc Nazgûl ngăn chặn việc bắt giữ ông ở *The Eyes of the Dragon* không?
 
 Đối đầu với Con Người Hoang dã, Baricha, Ác quỷ và Những kẻ hét lên trên sa mạc khi bạn đối mặt với *Hazards of the Harad Wood* trong bốn cuộc phiêu lưu thú vị này.
 

@@ -76,7 +76,7 @@ Khi những cuộc phiêu lưu của Rover kết thúc, Tinker không tin bất 
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mèo được tìm thấy khắp Trung Địa, đặc biệt là ở Bree-land. Có một “cô nàng mèo” có một ngôi nhà toàn mèo. Bậc thầy truyền thuyết cũng có thể nuôi một con mèo cưng không thể chiến đấu.</dd></dl>
 

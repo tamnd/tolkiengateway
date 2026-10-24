@@ -50,7 +50,7 @@ Từ Orc thấp kém nhất của Bàn tay Trắng đến vị tướng hùng m�
 
 - Lịch sử sâu sắc kéo dài từ những ngày Isengard được xây dựng bởi nhà xây dựng bậc thầy Gondor Curugond Lamedon.
 - Mô tả chi tiết về tháp Orthanc, Tường bao của Isengard, hang động mê cung bên dưới cả hai và nhiều địa điểm khác trên khắp Pháp sư's Vale, bao gồm 9 bản đồ đầy màu sắc.
-- Số liệu thống kê đầy đủ về binh lính, người hầu, nô lệ, gián điệp và nhiều người khác làm việc cho Bàn tay trắng - bao gồm cả Saruman chính ông ta và những người thân cận của ông ta.
+- Số liệu thống kê đầy đủ về binh lính, người hầu, nô lệ, gián điệp và nhiều người khác làm việc cho Bàn tay trắng - bao gồm cả Saruman chính ông và những người thân cận của ông.
 - Tất cả thông tin mới về các đường hầm sinh sản nơi Uruk-hai, Half-orc và Orc-spawn khác được tạo ra, bao gồm các lỗi mới như Orc-ancestry và Ill-made.
 
 <span></span>

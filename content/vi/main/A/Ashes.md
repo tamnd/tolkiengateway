@@ -16,7 +16,7 @@ categories:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gỗ của cây tần bì thông thường có thể được kiếm bởi những người đi rừng hành trình ở <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>, <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>, <a href="../B/Barrow-downs.md" title="Barrow-downs">Barrow-downs</a>và <a href="../N/North_Downs.md" title="North Downs">North Downs</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Gỗ của cây tần bì đen có thể được những người đi rừng bậc thầy trong <a href="../M/Misty_Mountains.md" title="Misty Mountains">Sương mù tìm kiếm Núi</a>, <a href="Angmar.md" title="Angmar">Angmar</a>và <a href="../E/Eregion.md" title="Eregion">Ekhu vực</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Gỗ của cây tần bì đen bị gió cuốn đi có thể được <i>Gundabad</i> những người đi rừng ở <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>, <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a>và King's tìm kiếm <a href="../G/Gondor.md" title="Gondor">Gondor</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Gỗ của cây tần bì đen bị gió cuốn đi có thể được tìm kiếm bởi <i>Umbar</i> những người đi rừng ở Ettenmoors, King's Gondor và Outer Gondor.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 

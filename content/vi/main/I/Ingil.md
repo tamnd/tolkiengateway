@@ -89,9 +89,9 @@ Các tên khác cho nhân vật bao gồm: (Qenya) <i><b>Ingilmo</b></i>,<sup id
 
 Trong một trong những phác thảo về phần tiếp theo của *The Book of Lost Tales*, xuất hiện một quan niệm hoàn toàn khác về số phận của Ingil.
 
-Ở đó, người ta kể rằng, khi Melko thoát khỏi cảnh giam cầm thứ hai (sau chuyến thám hiểm của Inwë đến Vùng đất vĩ đại), ông ta đã đến [Tol Eressëa](../T/Tol_Eressëa.md) để gieo rắc sự bất hòa giữa [Gnomes](../G/Gnomes.md) và [Solosimpi](../S/Solosimpi.md), những người đã gửi đến để cầu cứu Valinor. Tuy nhiên, sự trợ giúp duy nhất đến từ Valar là của [Tulkas](../T/Tulkas.md), người đã bí mật gửi con trai mình [Telimektar](../T/Telimektar.md) đến Tol Eressëa để hỗ trợ họ.
+Ở đó, người ta kể rằng, khi Melko thoát khỏi cảnh giam cầm thứ hai (sau chuyến thám hiểm của Inwë đến Vùng đất vĩ đại), ông đã đến [Tol Eressëa](../T/Tol_Eressëa.md) để gieo rắc sự bất hòa giữa [Gnomes](../G/Gnomes.md) và [Solosimpi](../S/Solosimpi.md), những người đã gửi đến để cầu cứu Valinor. Tuy nhiên, sự trợ giúp duy nhất đến từ Valar là của [Tulkas](../T/Tulkas.md), người đã bí mật gửi con trai mình [Telimektar](../T/Telimektar.md) đến Tol Eressëa để hỗ trợ họ.
 
-Ở đó, Telimektar, với sự giúp đỡ của Ingil, đã gây bất ngờ cho Melko và làm ông ta bị thương, đồng thời đuổi theo ông ta lên [Cây thông Tavrobel](../P/Pine_of_Tavrobel.md) đến tận [Ilwë](Ilwë.md). Tuy nhiên, Melko tiếp tục tấn công các [Mặt Trời](../S/Sun.md) và [các ngôi sao](../S/Stars.md), và cuối cùng đã gây ra cái chết của [Urwendi](../U/Urwendi.md) người lái tàu Mặt Trời.
+Ở đó, Telimektar, với sự giúp đỡ của Ingil, đã gây bất ngờ cho Melko và làm ông bị thương, đồng thời đuổi theo ông lên [Cây thông Tavrobel](../P/Pine_of_Tavrobel.md) đến tận [Ilwë](Ilwë.md). Tuy nhiên, Melko tiếp tục tấn công các [Mặt Trời](../S/Sun.md) và [các ngôi sao](../S/Stars.md), và cuối cùng đã gây ra cái chết của [Urwendi](../U/Urwendi.md) người lái tàu Mặt Trời.
 
 Cuối cùng, Valar quyết định chặt cây Thông vĩ đại, khiến Melko bị mắc kẹt ngoài thế giới.
 

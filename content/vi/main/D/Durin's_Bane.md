@@ -179,15 +179,15 @@ Danh tính của Durin's Bane là một Balrog dường như đã là kiến th�
 
 <dl><dd>Người chơi phải hỗ trợ Gandalf trong cuộc chiến với Balrog. Trận chiến này được người chơi trò chơi chú ý vì độ khó và lượng điểm máu rất cao của Balrog.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Nhiều phe Ác ma có thể triệu hồi Balrog, cụ thể là Tai họa của Durin, trong một khoảng thời gian ngắn. Đây là một trong những đơn vị mạnh nhất trong trò chơi, chỉ có thể được triệu tập bằng điểm kinh nghiệm. Nó có thiết kế tương tự như Balrog trong phim.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Giống như phần trước, Balrog có thể được triệu tập bởi các phe phái tà ác.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tên thật của Tai họa của Durin được đặt là "<b>Askâdurs</b>" và được tiết lộ là đã chiến đấu chống lại Người Lùn với tư cách là một phần của quân đội của <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> trong <a href="../F/First_Age.md" title="First Age">Kỷ Đệ Nhất</a>. Nó xuất hiện trong nhiều trường hợp hồi tưởng khác nhau (trong đó người chơi điều khiển các nhân vật lịch sử), thể hiện sự thức tỉnh của ông khi Người Lùn ở <a href="../T/Third_Age_1980.md" title="Third Age 1980">TA 1980</a>, sự sụp đổ của Khazad-dûm <a href="../T/Third_Age_1981.md" title="Third Age 1981">năm sau</a> và Người Lùn việc đồng đội của <a href="../B/Balin.md" title="Balin">Balin</a> chạy trốn khỏi cái ác cổ xưa, cùng nhiều trường hợp khác. Sau khi Gandalf đánh bại ông, thi thể vô hồn của Tai họa của Durin có thể được tìm thấy trên sườn Zirakzigil. Mặc dù người chơi biết rằng Balrog đã chết, một Người hầu khác của Sauron vẫn kiểm tra ý chí và nỗi sợ hãi của họ bằng cách khắc họa ảo ảnh về ông. Trong ảo ảnh, cuộc chiến giữa Gandalf và Balrog trên <a href="../E/Endless_Stair.md" title="Endless Stair">Cầu thang vô tận</a> được tái hiện, cho đến khi nó kết thúc theo hướng ngược lại với sự kiện thực tế: Balrog đánh bại Pháp sư, ném cơ thể vô hồn của mình khỏi Zirakzigil. Người chơi phải đánh bại Balrog để chống lại ảo ảnh.</dd></dl>
 

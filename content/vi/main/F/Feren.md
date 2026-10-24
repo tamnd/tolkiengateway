@@ -43,7 +43,7 @@ Khi phát hiện [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) đã
 
 Sau đó, Feren được [Thranduil](../T/Thranduil.md) cử đến nơi những người tị nạn [Thị trấn Hồ](../L/Lake-town.md) đang ở để triệu hồi [Legolas](../L/Legolas.md) quay lại [Mirkwood](../M/Mirkwood.md), đồng thời thông báo cho [Tauriel](../T/Tauriel.md) rằng vua yêu tinh đã trục xuất cô khỏi vương quốc.
 
-Ông ta cũng là một trong những trung úy của Thranduil trong [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).
+Ông cũng là một trong những trung úy của Thranduil trong [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).
 
 ## Từ nguyên {#Etymology}
 

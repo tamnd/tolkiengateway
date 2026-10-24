@@ -48,7 +48,7 @@ Các Kỵ sĩ xuất hiện từ khu rừng ngay phía bắc Minas Tirith, và W
 
 Théoden buồn bã nhìn sự tàn phá của Minas Tirith.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Đột nhiên, một tia sáng lớn phóng ra từ thành phố với âm thanh bùng nổ. Được tiếp thêm sinh lực, Théoden chỉ huy các Kỵ sĩ của mình vào trận chiến với một tiếng kêu lớn: "Rõ ràng hơn bất kỳ điều gì mà một người phàm từng đạt được." Tiếng hát Rohirrim đã đánh tan Orc và quân đội của Mordor. Chiếc Bóng Tối tan biến theo làn gió trong lành từ biển.
 
-Khi Rohirrim xuất hiện, [Vua Phù thủy](../W/Witch-king.md) cảm nhận được Bóng Tối đang mờ dần và cục diện trận chiến đang chuyển hướng. Ông ta biến mất khỏi cổng thành để bước vào cuộc chiến. Trong khi đó, Théoden giận dữ lao lên phía trước Rohirrim. Thủ lĩnh của [Người miền Nam](../H/Haradrim.md)—đồng minh của [Mordor](../M/Mordor.md)—đã lãnh đạo người của mình chống lại Théoden. Mặc dù đông hơn, Théoden và [Éomer](../_/Éomer.md) vẫn lao qua hàng loạt thanh đao của kẻ thù một cách khéo léo, hạ gục thủ lĩnh của quân miền Nam. <span></span>
+Khi Rohirrim xuất hiện, [Vua Phù thủy](../W/Witch-king.md) cảm nhận được Bóng Tối đang mờ dần và cục diện trận chiến đang chuyển hướng. Ông biến mất khỏi cổng thành để bước vào cuộc chiến. Trong khi đó, Théoden giận dữ lao lên phía trước Rohirrim. Thủ lĩnh của [Người miền Nam](../H/Haradrim.md)—đồng minh của [Mordor](../M/Mordor.md)—đã lãnh đạo người của mình chống lại Théoden. Mặc dù đông hơn, Théoden và [Éomer](../_/Éomer.md) vẫn lao qua hàng loạt thanh đao của kẻ thù một cách khéo léo, hạ gục thủ lĩnh của quân miền Nam. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

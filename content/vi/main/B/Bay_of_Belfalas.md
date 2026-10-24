@@ -50,7 +50,7 @@ Tên gọi *Belfalas* được cấu thành từ [Mannish](../M/Mannish.md) *[be
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vịnh Belfalas hiển thị từ <a href="../A/Anfalas.md" title="Anfalas">Anfalas</a> và từ chính <a href="Belfalas.md" title="Belfalas">Belfalas</a>.</dd></dl>
 

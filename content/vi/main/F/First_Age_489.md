@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Gwindor](../G/Gwindor.md) trốn thoát khỏi [Angband](../A/Angband.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - [Mîm](../M/Mîm.md) phản bội [Túrin](../T/Túrin.md) người bị [orc](../O/Orcs.md) bắt giữ. [Beleg](../B/Beleg.md) truy đuổi lũ Orc và chạm trán Gwindor trên đường.<sup id="cite_ref-Turin_2-0" class="reference"><a href="#cite_note-Turin-2">[2]</a></sup>
-- Túrin được Beleg giải cứu; Túrin giết nhầm Beleg và lấy đi thanh kiếm của ông ta, [Anglachel](../A/Anglachel.md).<sup id="cite_ref-Turin_2-1" class="reference"><a href="#cite_note-Turin-2">[2]</a></sup>
+- Túrin được Beleg giải cứu; Túrin giết nhầm Beleg và lấy đi thanh kiếm của ông, [Anglachel](../A/Anglachel.md).<sup id="cite_ref-Turin_2-1" class="reference"><a href="#cite_note-Turin-2">[2]</a></sup>
 
 <span></span>
 

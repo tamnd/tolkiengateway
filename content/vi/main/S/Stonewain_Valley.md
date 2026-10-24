@@ -59,7 +59,7 @@ Trong [Quenya](../Q/Quenya.md) nó được gọi là <i><b>Nand' Ondolunkava</b
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thung lũng Stonewain kết thúc ở rìa Rừng Drúadan, sau đó con đường tiếp tục đi qua <a href="../G/Grey_Wood.md" title="Grey Wood">Grey Wood</a>. Nó kết thúc tại khu vực "Talath Anor" ở <a class="mw-redirect" href="../A/Anorien.md" title="Anorien">Anorien</a>, phía bắc <a href="../R/Rammas_Echor.md" title="Rammas Echor">Rammas Echor</a>.</dd></dl>
 

@@ -34,13 +34,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien than thở về việc con trai ông ở lại Lực lượng Không quân Hoàng gia, lực lượng mà ông coi là <a class="extiw" href="http://en.wikipedia.org/wiki/Moloch" title="wikipedia:Moloch">Moloch</a> hiện đại (theo nghĩa này, một tổ chức đòi hỏi những hy sinh tốn kém). Sau đó ông ta nói rằng mong muốn của ông ta là vô ích và ông ta vẫn sợ "máy bay chiến tranh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Tolkien than thở về việc con trai ông ở lại Lực lượng Không quân Hoàng gia, lực lượng mà ông coi là <a class="extiw" href="http://en.wikipedia.org/wiki/Moloch" title="wikipedia:Moloch">Moloch</a> hiện đại (theo nghĩa này, một tổ chức đòi hỏi những hy sinh tốn kém). Sau đó ông nói rằng mong muốn của ông là vô ích và ông vẫn sợ "máy bay chiến tranh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 Sau đó ông thảo luận về kế hoạch viết lách của [C.S. Lewis](../C/C.S._Lewis.md) và của chính mình. Lúc đó cả hai đều đang viết văn và đang cân nhắc việc viết một cuốn sách cùng nhau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup>
 
 <dl><dt>Trong ấn bản mở rộng</dt></dl>
 
-Trong đoạn đầu tiên Tolkien nói rằng ông không hài lòng với việc Giáng sinh trở nên nhàm chán và bị thương mại hóa, đồng thời ông có rất nhiều thư để viết. Sau đó, ông ta phàn nàn về một số thứ ở cửa hàng có chất lượng quá thấp và quá đắt.
+Trong đoạn đầu tiên Tolkien nói rằng ông không hài lòng với việc Giáng sinh trở nên nhàm chán và bị thương mại hóa, đồng thời ông có rất nhiều thư để viết. Sau đó, ông phàn nàn về một số thứ ở cửa hàng có chất lượng quá thấp và quá đắt.
 
 ## Ghi chú {#Notes}
 

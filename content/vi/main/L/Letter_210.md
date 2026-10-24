@@ -35,19 +35,19 @@ Tolkien đã được gửi kịch bản cho bộ phim *[The Lord of the Rings](
 
 Đầu tiên, anh xin lỗi vì nghe có vẻ khó chịu hoặc khó chịu, nhưng đó là vì anh cảm thấy câu chuyện được xử lý một cách bất cẩn, thậm chí đôi khi còn thiếu thận trọng. Câu chuyện về cơ bản đã bị rút gọn thành chiến đấu và phép thuật, còn phần cuối của [Người Mang Nhẫn](../R/Ring-bearer.md) đã bị "giết hại".
 
-Các tài liệu tham khảo được tính theo số trang của kịch bản mà Zimmerman (gọi đơn giản là "Z" trong thư) đã gửi cho ông ta.
+Các tài liệu tham khảo được tính theo số trang của kịch bản mà Zimmerman (gọi đơn giản là "Z" trong thư) đã gửi cho ông.
 
 - Trang 2: Pháo hoa và [Gandalf](../G/Gandalf.md). Có cờ và hobbit trong pháo hoa, và Gandalf sẽ bắn tung tóe. Tolkien đã từ chối cả hai.
 
-- Trang 4: [Đại Bàng](../E/Eagles.md). Z, theo Tolkien, đã hoàn toàn hiểu lầm Đại Bàng, và bằng cách để một người - có tên [Radagast](../R/Radagast.md) - xuất hiện trong [ Shire](../T/The_Shire.md), ông ta ít nhiều đã phá hỏng sự bất ngờ về việc Gandalf trốn thoát khỏi [Orthanc](../O/Orthanc.md). Z đã đoán trước những sự kiện trong tương lai mà Tolkien cho rằng không tốt cho câu chuyện.
+- Trang 4: [Đại Bàng](../E/Eagles.md). Z, theo Tolkien, đã hoàn toàn hiểu lầm Đại Bàng, và bằng cách để một người - có tên [Radagast](../R/Radagast.md) - xuất hiện trong [ Shire](../T/The_Shire.md), ông ít nhiều đã phá hỏng sự bất ngờ về việc Gandalf trốn thoát khỏi [Orthanc](../O/Orthanc.md). Z đã đoán trước những sự kiện trong tương lai mà Tolkien cho rằng không tốt cho câu chuyện.
 
 Tolkien cũng đề cập đến dòng thời gian của bộ phim: nó được rút gọn rất nhiều và không tính đến các mùa. Những mùa này rất quan trọng: bắt đầu từ mùa thu, qua mùa đông và kết thúc vào mùa xuân. Trong suy nghĩ của Z, một cơn bão tuyết chắc chắn sẽ xảy ra vào Mùa hè. Mặc dù *The Lord of the Rings* là một câu chuyện cổ tích, "dặm là dặm, ngày là ngày và thời tiết là thời tiết."
 
-- Trang 7: [Tom Bombadil](../T/Tom_Bombadil.md). Ông ta được miêu tả là chủ nhân của [khu rừng](../O/Old_Forest.md), và ngôn ngữ của ông ta rất ngớ ngẩn. [Goldberry](../G/Goldberry.md) cũng vậy; bà sẽ tốt hơn nếu bị bỏ qua.
+- Trang 7: [Tom Bombadil](../T/Tom_Bombadil.md). Ông được miêu tả là chủ nhân của [khu rừng](../O/Old_Forest.md), và ngôn ngữ của ông rất ngớ ngẩn. [Goldberry](../G/Goldberry.md) cũng vậy; bà sẽ tốt hơn nếu bị bỏ qua.
 
-- Trang 8: [Barliman Butterbur](../B/Barliman_Butterbur.md). Ông ta muốn khách "đăng ký", nhưng đăng ký khách sạn không tồn tại, vì [Bree](../B/Bree.md) không có cảnh sát cũng như chính phủ. Ngoài ra, trái ngược với cách xử lý của Z, các phòng đều không được đánh số.
+- Trang 8: [Barliman Butterbur](../B/Barliman_Butterbur.md). Ông muốn khách "đăng ký", nhưng đăng ký khách sạn không tồn tại, vì [Bree](../B/Bree.md) không có cảnh sát cũng như chính phủ. Ngoài ra, trái ngược với cách xử lý của Z, các phòng đều không được đánh số.
 
-- Trang 9: [Aragorn](../A/Aragorn.md) và [Kỵ sĩ Đen](../N/Nazgûl.md). Aragorn và Hobbit còn lại Bree vào ban đêm trong kịch bản của Z. Điều này trái ngược với những gì "cuốn sách-Aragorn" sẽ làm, và Z cho thấy ông ta hoàn toàn hiểu sai vũ khí lớn nhất của các Kỵ sĩ: nỗi sợ hãi. Họ nắm giữ rất ít quyền lực đối với những người dũng cảm, nhưng quyền lực đó và nỗi sợ hãi của họ lớn hơn nhiều vào ban đêm.
+- Trang 9: [Aragorn](../A/Aragorn.md) và [Kỵ sĩ Đen](../N/Nazgûl.md). Aragorn và Hobbit còn lại Bree vào ban đêm trong kịch bản của Z. Điều này trái ngược với những gì "cuốn sách-Aragorn" sẽ làm, và Z cho thấy ông hoàn toàn hiểu sai vũ khí lớn nhất của các Kỵ sĩ: nỗi sợ hãi. Họ nắm giữ rất ít quyền lực đối với những người dũng cảm, nhưng quyền lực đó và nỗi sợ hãi của họ lớn hơn nhiều vào ban đêm.
 
 - Trang 10. [Rivendell](../R/Rivendell.md) và [Narsil](../N/Narsil.md). Đó không phải là một khu rừng lung linh. Đó là [Lothlórien](Lothlórien.md), nó không giống chút nào. Z cũng làm cho nó có thể nhìn thấy được từ [Weathertop](../W/Weathertop.md), mặc dù nó ở cách xa 200 dặm và ở trong một khe núi. Aragorn sẽ không "rút kiếm"; rốt cuộc thì nó đã bị hỏng. Z đã mang lại [Narsil](../N/Narsil.md) ánh sáng thần tiên, đó lại là một [sự mong đợi](../A/Andúril.md) Tolkien không thích.
 
@@ -73,9 +73,9 @@ Tolkien hy vọng lời nói của các nhân vật sẽ được thể hiện v
 
 - Trang 33. [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Điều này rõ ràng chẳng là gì ngoài những cái nhìn thoáng qua. Tolkien nghĩ rằng cái này hoặc cái Ent phải bị loại bỏ vì cả hai đều không được miêu tả đúng cách. Với ý nghĩ về [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), tốt hơn hết là nên bỏ qua trận chiến này.
 
-- Trang 34. [Saruman](../S/Saruman.md) và [Orthanc](../O/Orthanc.md). Z đã tưởng tượng ra một cầu thang khổng lồ “lắc lư” xung quanh Orthanc, và Tolkien không thích điều này. Saruman có giọng nói đầy thôi miên; Tolkien nhận xét rằng cả thuật thôi miên thực sự lẫn thuật thôi miên "khoa học" đều không xuất hiện trong tác phẩm của ông ta. Giọng nói của Saruman có sức thuyết phục chứ không phải thôi miên. Có thể từ chối giọng nói này bằng *free will and reason* (nhấn mạnh trong bản gốc), như [Gimli](../G/Gimli.md) đã làm.
+- Trang 34. [Saruman](../S/Saruman.md) và [Orthanc](../O/Orthanc.md). Z đã tưởng tượng ra một cầu thang khổng lồ “lắc lư” xung quanh Orthanc, và Tolkien không thích điều này. Saruman có giọng nói đầy thôi miên; Tolkien nhận xét rằng cả thuật thôi miên thực sự lẫn thuật thôi miên "khoa học" đều không xuất hiện trong tác phẩm của ông. Giọng nói của Saruman có sức thuyết phục chứ không phải thôi miên. Có thể từ chối giọng nói này bằng *free will and reason* (nhấn mạnh trong bản gốc), như [Gimli](../G/Gimli.md) đã làm.
 
-Vì Z đã cắt bỏ đoạn kết nên ông ta không đưa ra cái chết của Saruman cũng như lý do cái chết của ông ta; do đó, ông ta cũng có thể để ông ta sống. Ông ta sẽ không tự tử như Z đã bảo ông ta làm.
+Vì Z đã cắt bỏ đoạn kết nên ông không đưa ra cái chết của Saruman cũng như lý do cái chết của ông; do đó, ông cũng có thể để ông sống. Ông sẽ không tự tử như Z đã bảo ông làm.
 
 Phần III: Tolkien không buồn trả lời chi tiết về vấn đề này. Nó "hoàn toàn không thể chấp nhận được đối với tôi, xét về tổng thể cũng như chi tiết". Nó chỉ đơn giản là sắp xếp lại một số phần còn lỏng lẻo, và nếu đó là điều Z muốn thì Tolkien thà cuốn sách của ông không bị cắt xén. <br>
 

@@ -37,12 +37,12 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Frodo, Sam, Merry và Pippin ẩn khỏi [Kỵ Sĩ Đen](Black_Rider.md) tìm kiếm [Khu Rừng Cổ](../O/Old_Forest.md). Frodo bảo Merry rằng ông ta phải đến Bree, và Merry bảo ông ta hãy đến [Bến phà Bucklebury](Bucklebury_Ferry.md). Người Hobbit chạy từ Kỵ Sĩ Đen xuyên qua khu rừng khi màn đêm buông xuống. Cuối cùng, Hobbit đến được Phà và hầu như không thể cắt nó ra khỏi bến cảng trước khi Nazgûl đuổi kịp. Khi họ trôi đi, Ma Nhẫn đổi hướng theo dòng sông tới [Cầu Brandywine](Brandywine_Bridge.md), cách đó 20 dặm. Các hobbit sẽ sớm xuống tàu và tìm đường đến Bree.
+Frodo, Sam, Merry và Pippin ẩn khỏi [Kỵ Sĩ Đen](Black_Rider.md) tìm kiếm [Khu Rừng Cổ](../O/Old_Forest.md). Frodo bảo Merry rằng ông phải đến Bree, và Merry bảo ông hãy đến [Bến phà Bucklebury](Bucklebury_Ferry.md). Người Hobbit chạy từ Kỵ Sĩ Đen xuyên qua khu rừng khi màn đêm buông xuống. Cuối cùng, Hobbit đến được Phà và hầu như không thể cắt nó ra khỏi bến cảng trước khi Nazgûl đuổi kịp. Khi họ trôi đi, Ma Nhẫn đổi hướng theo dòng sông tới [Cầu Brandywine](Brandywine_Bridge.md), cách đó 20 dặm. Các hobbit sẽ sớm xuống tàu và tìm đường đến Bree.
 
 ## Sự khác biệt {#Differences}
 
 - Trong cuốn sách, Merry không đi cùng những người hobbit khác trong phần đầu của cuộc hành trình và chỉ gặp họ tại Bến phà Bucklebury.
-- Trong cuốn sách, các hobbit được [Farmer Maggot](../F/Farmer_Maggot.md) đưa đi phà bằng xe ngựa của ông ta sau khi ăn tối tại nhà Maggot.
+- Trong cuốn sách, các hobbit được [Farmer Maggot](../F/Farmer_Maggot.md) đưa đi phà bằng xe ngựa của ông sau khi ăn tối tại nhà Maggot.
 - [Tom Bombadil](../T/Tom_Bombadil.md), [Barrow-wight](Barrow-wight.md) và các sự kiện liên quan đều bị bỏ qua hoàn toàn. Điều này được thực hiện do hạn chế về thời gian và để đơn giản hóa một câu chuyện vốn đã phức tạp. Ngoài [Sự truy quét của Shire](../S/Scouring_of_the_Shire.md), đây có lẽ là thiếu sót lớn nhất trong bất kỳ điều gì trong sách. Một số đoạn hội thoại của Tom Bombadil vẫn tồn tại trong các cảnh khác, nhưng không hề đề cập đến ông. Tương tự như vậy, Barrow-wight hoàn toàn vắng mặt. Hiện vật duy nhất về sự hiện diện của nó là những con dao găm mà [Aragorn](../A/Aragorn.md) sẽ đưa cho Frodo và bạn đồng hành sau này trong phim.
 - Trong sách, Hobbit gần như không hoảng sợ trước chuyến phà và chỉ có một người lái xe từ từ đến bến khi họ đã rời bến.
 - Mặc dù ban đầu cuốn sách tuyên bố rằng Cầu Brandywine cách phà 20 dặm, nhưng điều này đã được sửa thành 10 dặm trong [ấn bản kỷ niệm 50 năm](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>).

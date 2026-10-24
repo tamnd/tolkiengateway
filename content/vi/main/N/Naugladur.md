@@ -53,7 +53,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông ta đã chỉ huy [cuộc tấn công](../B/Battle_in_the_Thousand_Caves.md) chống lại [Menegroth](../M/Menegroth.md) để chiếm [Nauglafring](Nauglafring.md). Sau đó ông ta chiến đấu với [Beren](../B/Beren.md) trong [Trận Sarn Athrad](../B/Battle_of_Sarn_Athrad.md) và lẽ ra đã giết ông ta, nhưng lại vấp ngã và Beren giết chết ông ta để đòi lại Nauglafring. Bằng những lời hấp hối, ông ta nguyền rủa kho báu mà ông ta mang về Nogrod, đã bị Beren vứt xuống sông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ông đã chỉ huy [cuộc tấn công](../B/Battle_in_the_Thousand_Caves.md) chống lại [Menegroth](../M/Menegroth.md) để chiếm [Nauglafring](Nauglafring.md). Sau đó ông chiến đấu với [Beren](../B/Beren.md) trong [Trận Sarn Athrad](../B/Battle_of_Sarn_Athrad.md) và lẽ ra đã giết ông, nhưng lại vấp ngã và Beren giết chết ông để đòi lại Nauglafring. Bằng những lời hấp hối, ông nguyền rủa kho báu mà ông mang về Nogrod, đã bị Beren vứt xuống sông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

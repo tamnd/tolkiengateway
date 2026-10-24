@@ -70,15 +70,15 @@ infobox:
 
 ### Gia đình và sự ra đời {#Family_and_birth}
 
-Không rõ nguồn gốc của Ori, mặc dù ông ta là họ hàng xa của Thorin và là thành viên của [Gia tộc Durin](../H/House_of_Durin.md).<sup id="cite_ref-Durin_4-0" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup> Năm sinh của ông ta cũng không rõ.
+Không rõ nguồn gốc của Ori, mặc dù ông là họ hàng xa của Thorin và là thành viên của [Gia tộc Durin](../H/House_of_Durin.md).<sup id="cite_ref-Durin_4-0" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup> Năm sinh của ông cũng không rõ.
 
-Tuy nhiên, trong lời kể của [Bilbo Baggins](../B/Bilbo_Baggins.md) về nhiệm vụ Erebor ông ta nói rằng hai anh em [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md) là người trẻ nhất trong số mười ba người "khoảng năm mươi tuổi",<sup id="cite_ref-Hill_5-0" class="reference"><a href="#cite_note-Hill-5">[5]</a></sup> và khi Thorin mất tích [Balin](../B/Balin.md) là "anh cả còn lại".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Vì Kíli sinh năm [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md) và Balin sinh năm [2763](../T/Third_Age_2763.md),<sup id="cite_ref-Durin_4-1" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup> điều này sẽ đặt ngày sinh của Ori giữa [2763](../T/Third_Age_2763.md) và c. 2814, và ông ta sẽ ở giữa c. 127 và 178 tuổi trong nhiệm vụ Erebor.
+Tuy nhiên, trong lời kể của [Bilbo Baggins](../B/Bilbo_Baggins.md) về nhiệm vụ Erebor ông nói rằng hai anh em [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md) là người trẻ nhất trong số mười ba người "khoảng năm mươi tuổi",<sup id="cite_ref-Hill_5-0" class="reference"><a href="#cite_note-Hill-5">[5]</a></sup> và khi Thorin mất tích [Balin](../B/Balin.md) là "anh cả còn lại".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Vì Kíli sinh năm [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md) và Balin sinh năm [2763](../T/Third_Age_2763.md),<sup id="cite_ref-Durin_4-1" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup> điều này sẽ đặt ngày sinh của Ori giữa [2763](../T/Third_Age_2763.md) và c. 2814, và ông sẽ ở giữa c. 127 và 178 tuổi trong nhiệm vụ Erebor.
 
 Ori là thành viên của [Gia tộc Durin](../H/House_of_Durin.md) và có lẽ đã sống trong [Dãy Núi Xanh](../B/Blue_Mountains.md) cùng với [Thorin](../T/Thorin.md) sau khi ông bắt đầu sống ở đó sau khi [Thráin II](../T/Thráin.md) bị mất.<sup id="cite_ref-Durin_4-2" class="reference"><a href="#cite_note-Durin-4">[4]</a></sup>
 
 ### Nhiệm vụ của Erebor {#The_Quest_of_Erebor}
 
-Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md),<sup id="cite_ref-TA_7-0" class="reference"><a href="#cite_note-TA-7">[7]</a></sup> Ori là một trong năm Người Lùn thuộc nhóm thứ tư đến [Bag End](../B/Bag_End.md). Ông ta đội một chiếc mũ trùm đầu màu xám. Vào buổi tối khi Thorin kêu nhạc, Ori (cùng với [Dori](../D/Dori.md) và [Nori](../N/Nori.md)) đã thổi sáo.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md),<sup id="cite_ref-TA_7-0" class="reference"><a href="#cite_note-TA-7">[7]</a></sup> Ori là một trong năm Người Lùn thuộc nhóm thứ tư đến [Bag End](../B/Bag_End.md). Ông đội một chiếc mũ trùm đầu màu xám. Vào buổi tối khi Thorin kêu nhạc, Ori (cùng với [Dori](../D/Dori.md) và [Nori](../N/Nori.md)) đã thổi sáo.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 Khi [Gandalf](../G/Gandalf.md) kể câu chuyện về chuyến phiêu lưu của công ty tới [Beorn](../B/Beorn.md), Ori và Nori là cặp Người Lùn thứ hai xuất hiện.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
@@ -121,7 +121,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Đoàn Hộ Nhẫn](../
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Ori được cho là anh em họ của Dori và Nori trong ghi chú của Tolkien năm 1966, bất chấp niềm tin phổ biến rằng ông ta là anh trai của họ. Người ta cũng xác nhận rằng ông ta đội mũ trùm đầu màu xám.<sup id="cite_ref-Person_1-1" class="reference"><a href="#cite_note-Person-1">[1]</a></sup>
+Ori được cho là anh em họ của Dori và Nori trong ghi chú của Tolkien năm 1966, bất chấp niềm tin phổ biến rằng ông là anh trai của họ. Người ta cũng xác nhận rằng ông đội mũ trùm đầu màu xám.<sup id="cite_ref-Person_1-1" class="reference"><a href="#cite_note-Person-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -224,7 +224,7 @@ Em trai của Nori và Dori, Ori là một nghệ sĩ tài năng và người ta
 
 <dl><dd>Không có diễn viên nào được ghi nhận cho vai Ori.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Trực tuyến: Mỏ Moria</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mỏ Moria</a></i>:</b>
 
 <dl><dd>Người chơi điều khiển Ori trong một lần chơi trong phiên có tựa đề <a class="external text" href="https://lotro-wiki.com/index.php/Quest:Instance:_We_Cannot_Get_Out" rel="noreferrer noopener" target="_blank">We Could Get Out</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Nó hiển thị những khoảnh khắc cuối cùng trong chuyến thám hiểm của <a href="../B/Balin.md" title="Balin">Balin</a> trong <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2994.md" title="Third Age 2994">2994</a>, trong đó những người lùn cố gắng đứng vững cuối cùng trong <a href="../C/Chamber_of_Mazarbul.md" title="Chamber of Mazarbul">Phòng Mazarbul</a> và Ori bị giết bởi <a class="external text" href="https://lotro-wiki.com/index.php/Mazog" rel="noreferrer noopener" target="_blank">Mazog</a>, con trai của <a href="../B/Bolg.md" title="Bolg">Bolg</a>.</dd></dl>
 

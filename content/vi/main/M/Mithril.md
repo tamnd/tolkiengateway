@@ -60,7 +60,7 @@ Sau khi [Gimli](../G/Gimli.md) trở thành [Chúa tể của những hang độ
 
 ## Các sản phẩm mithril khác {#Other_mithril_creations}
 
-- [Vingilótë](../V/Vingilótë.md): Con tàu [Eärendil](../E/Eärendil.md) mà ông ta lái lên bầu trời, khiến thế giới có thể nhìn thấy ánh sáng lấp lánh của truesilver dưới dạng Sao Hôm và Sao Mai, theo truyền thuyết, được chế tạo cho ông ta từ mithril và từ thủy tinh yêu tinh.<sup id="cite_ref-Earendil_5-1" class="reference"><a href="#cite_note-Earendil-5">[5]</a></sup>
+- [Vingilótë](../V/Vingilótë.md): Con tàu [Eärendil](../E/Eärendil.md) mà ông lái lên bầu trời, khiến thế giới có thể nhìn thấy ánh sáng lấp lánh của truesilver dưới dạng Sao Hôm và Sao Mai, theo truyền thuyết, được chế tạo cho ông từ mithril và từ thủy tinh yêu tinh.<sup id="cite_ref-Earendil_5-1" class="reference"><a href="#cite_note-Earendil-5">[5]</a></sup>
 - [Ngôi sao của Elendil](../S/Star_of_Elendil.md): Một viên đá quý được đặt trên phi lê mithril là vật gia truyền của [các Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md) của Númenor.<sup id="cite_ref-Gladden_15-0" class="reference"><a href="#cite_note-Gladden-15">[15]</a></sup>
     - Ngôi sao thứ hai của Elendil được tạo ra bởi thợ rèn của [Rivendell](../R/Rivendell.md) sau khi ngôi sao đầu tiên bị mất cùng với Isildur trong [Thảm họa Cánh đồng Gladden](../D/Disaster_of_the_Gladden_Fields.md).<sup id="cite_ref-Gladden_15-1" class="reference"><a href="#cite_note-Gladden-15">[15]</a></sup>
 - Mũ bảo hiểm của [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md) của [Minas Tirith](Minas_Tirith.md), được coi là "vật gia truyền từ thời huy hoàng".<sup id="cite_ref-MT_16-0" class="reference"><a href="#cite_note-MT-16">[16]</a></sup>

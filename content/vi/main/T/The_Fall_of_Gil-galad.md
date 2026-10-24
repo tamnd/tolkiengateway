@@ -51,7 +51,7 @@ giữa Dãy Núi và Biển.
 
 ## Lịch sử {#History}
 
-Theo [Aragorn](../A/Aragorn.md), ban đầu nó được viết bằng ngôn ngữ cổ. Nó có vẻ là một bài thơ dài, kể lại câu chuyện của [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md), ít nhất là đến mức [Gil-galad](../G/Gil-galad.md) hỗ trợ lật đổ [Sauron](../S/Sauron.md), và chính ông ta đã bị giết.
+Theo [Aragorn](../A/Aragorn.md), ban đầu nó được viết bằng ngôn ngữ cổ. Nó có vẻ là một bài thơ dài, kể lại câu chuyện của [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md), ít nhất là đến mức [Gil-galad](../G/Gil-galad.md) hỗ trợ lật đổ [Sauron](../S/Sauron.md), và chính ông đã bị giết.
 
 [Bilbo Baggins](../B/Bilbo_Baggins.md) sau đó đã dịch nó sang [tiếng phổ thông](../W/Westron.md) và dạy nó cho [Samwise Gamgee](../S/Samwise_Gamgee.md) khi còn trẻ, người đã nhầm tưởng rằng Bilbo là người sáng tác.
 

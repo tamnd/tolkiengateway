@@ -252,7 +252,7 @@ Trong các bản thảo của Lord of the Rings, người ta nói rằng Dáin s
 
 <dl><dd>Dáin không có phần nói; ông chỉ xuất hiện trên các phần giấy da.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Dáin là anh hùng của phe Người Lùn. Trong các chiến dịch, ông xuất hiện trong Trận Dale trong Chiến dịch tốt, nơi ông phải sống sót trước sự tấn công dữ dội của quân địch để vượt qua cấp độ.</dd></dl>
 

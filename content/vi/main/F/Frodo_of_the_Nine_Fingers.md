@@ -30,7 +30,7 @@ images:
 
 ## Lịch sử {#History}
 
-Trên [Cánh đồng Cormallen](Field_of_Cormallen.md), một ca sĩ Gondor cầu xin nhà vua cho phép hát. Trước khi chờ [Aragorn](../A/Aragorn.md) rời đi, người hát rong đã thông báo rằng ông ta sẽ kể lại, theo cách của mình, [câu chuyện](../Q/Quest_of_the_Ring.md) "về [Frodo Cửu Ngón](Frodo_Baggins.md) và [Vòng Phán xét](../R/Ring_of_Doom.md)",<sup id="cite_ref-Song_1-1" class="reference"><a href="#cite_note-Song-1">[1]</a></sup> có thể có nghĩa rằng đây là tên của giáo dân, nhưng điều này không rõ ràng.
+Trên [Cánh đồng Cormallen](Field_of_Cormallen.md), một ca sĩ Gondor cầu xin nhà vua cho phép hát. Trước khi chờ [Aragorn](../A/Aragorn.md) rời đi, người hát rong đã thông báo rằng ông sẽ kể lại, theo cách của mình, [câu chuyện](../Q/Quest_of_the_Ring.md) "về [Frodo Cửu Ngón](Frodo_Baggins.md) và [Vòng Phán xét](../R/Ring_of_Doom.md)",<sup id="cite_ref-Song_1-1" class="reference"><a href="#cite_note-Song-1">[1]</a></sup> có thể có nghĩa rằng đây là tên của giáo dân, nhưng điều này không rõ ràng.
 
 Điều này làm [Samwise Gamgee](../S/Samwise_Gamgee.md) hài lòng đến mức ông đã khóc ngay sau khi nghe điều này, và những người nghe còn lại cũng tham gia cùng ông. Giọng nói trong trẻo của người hát rong được cho là xen kẽ giữa một trong các [tiếng tiên](../E/Elvish.md) và [Westron](../W/Westron.md). Lay đã khiến trái tim người nghe tràn ngập niềm vui trước những lời ngọt ngào và họ bắt đầu khóc.<sup id="cite_ref-Song_1-2" class="reference"><a href="#cite_note-Song-1">[1]</a></sup>
 

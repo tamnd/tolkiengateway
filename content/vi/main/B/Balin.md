@@ -311,11 +311,11 @@ Là hậu duệ của giới quý tộc và bản thân cũng là một Lãnh ch
 
 <dl><dd>Không có diễn viên nào được ghi nhận cho vai Balin. Ông là một trong những người lùn lớn tuổi và có bộ râu dài màu trắng. Ông là người trông coi của đội.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[32]</a></sup></dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Lăng mộ của Balin là một trong những mục tiêu của màn đầu tiên trong Chiến dịch Tốt. Một số nhóm Orc, cũng như ba con troll, phải bị tiêu diệt trước khi bức tường bị phá vỡ cho phép tiếp cận hành lang tiếp theo và Cây cầu.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[33]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Young Balin xuất hiện với tư cách khách mời trong một đoạn hồi tưởng mô tả <a href="Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a>. Balin cũ hơn lại xuất hiện một vai khách mời thầm lặng khác trong chuyến khởi hành của Công ty để thực hiện <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Nhiệm vụ Erebor</a>. Ở thời điểm hiện tại, số phận của chuyến thám hiểm Balin ở Moria được khám phá bởi con trai của <a href="Bifur.md" title="Bifur">Bifur</a> và <a href="Bofur.md" title="Bofur">Bofur</a>.</dd></dl>
 

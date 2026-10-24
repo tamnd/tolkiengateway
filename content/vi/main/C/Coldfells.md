@@ -45,7 +45,7 @@ Coldfells nằm ở "phía bắc Rivendell",<sup id="cite_ref-TAaA_1-1" class="r
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Coldfells ở phần đông nam của vùng Ettenmoors nơi diễn ra cuộc chơi giữa người chơi và người chơi. Vùng đất này có một pháo đài tên là Tirith Rhaw có thể được kiểm soát bởi lực lượng của Angmar hoặc Nhân dân Tự do của Trung Địa. Nhân dân Tự do sở hữu hai địa điểm khác trong khu vực mà lực lượng của Angmar không thể kiểm soát được. Các nhân vật không phải người chơi liên kết với Dân tộc Tự do là một phe được gọi là Coldfells.</dd></dl>
 

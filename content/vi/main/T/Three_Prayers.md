@@ -50,7 +50,7 @@ Tuy nhiên, trong những năm sau đó, sự thù địch của người Númen
 
 Tuy nhiên, sau cái chết của Ar-Gimilzôr, Ba lời cầu nguyện đã được tuân thủ một cách chính đáng bởi con trai ông [Tar-Palantir](Tar-Palantir.md), người thuộc [Tín đồ](../F/Faithful.md) và ăn năn về những việc làm của cha mình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Lòng mộ đạo mới này không kéo dài lâu—hầu hết người dân Tar-Palantir không thông cảm với các chính sách của ông và tiếp tục nổi dậy chống lại Valar.
 
-Khi [Ar-Pharazôn](../A/Ar-Pharazôn.md), Vua cuối cùng của Númenor, đưa [Sauron](../S/Sauron.md) đến vùng đất của mình và bị ông ta dụ dỗ tôn thờ [Melkor](../M/Morgoth.md), ông ta đã đi lên Meneltarma và bị trừng phạt bằng cái chết,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> do đó chấm dứt phong tục cúng dường Eru trên đỉnh núi—một truyền thống đã tồn tại khoảng 3.000 năm. Númenor [đã bị tiêu diệt](../D/Downfall_of_Númenor.md) ngay sau đó, và những Tín đồ sống sót đã không tiếp tục nghi thức Ba Lời cầu nguyện trong [Trung Địa](../M/Middle-earth.md).
+Khi [Ar-Pharazôn](../A/Ar-Pharazôn.md), Vua cuối cùng của Númenor, đưa [Sauron](../S/Sauron.md) đến vùng đất của mình và bị ông dụ dỗ tôn thờ [Melkor](../M/Morgoth.md), ông đã đi lên Meneltarma và bị trừng phạt bằng cái chết,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> do đó chấm dứt phong tục cúng dường Eru trên đỉnh núi—một truyền thống đã tồn tại khoảng 3.000 năm. Númenor [đã bị tiêu diệt](../D/Downfall_of_Númenor.md) ngay sau đó, và những Tín đồ sống sót đã không tiếp tục nghi thức Ba Lời cầu nguyện trong [Trung Địa](../M/Middle-earth.md).
 
 ## Xem thêm {#See_also}
 

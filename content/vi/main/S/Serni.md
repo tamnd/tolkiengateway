@@ -53,7 +53,7 @@ Trên [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sông Serni được tìm thấy ở Lower <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> thuộc khu vực miền Trung <a href="../G/Gondor.md" title="Gondor">Gondor</a>. Đúng như tên gọi của nó, nó được rải đầy đá. Có hai pháo đài, pháo đài phía tây ở phía nam thị trấn "Malbarth" và pháo đài phía đông ở phía nam "Ost Anglebed". Serni là lãnh địa của cô hầu sông Grey-eye nghiêm khắc, một trong Năm chị em, mặc dù cô và các chị gái của mình được nhiều người coi là huyền thoại vào thời <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>.</dd></dl>
 

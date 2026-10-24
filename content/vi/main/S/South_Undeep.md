@@ -24,7 +24,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>South Undeep nằm ở phía Bắc Wold, nối hai bờ sông qua một hòn đảo nhỏ giữa sông. Do tình hình chính trị không ổn định ở Rohan, một nhóm <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> đã vượt qua được và thiết lập một trại kiên cố ở bờ tây, từ đó họ tấn công và đốt cháy thị trấn Rohirrim <i>Langhold</i>.</dd></dl>
 

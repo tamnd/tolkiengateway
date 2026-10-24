@@ -102,7 +102,7 @@ Trong các phiên bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
 
 <dl><dd>Aeglos được sử dụng bởi hồn ma của <a href="../C/Celebrimbor.md" title="Celebrimbor">Celebrimbor</a>. Lưỡi kiếm có dòng chữ: "Gil-galad cầm một ngọn giáo được chế tạo tốt / Orc sẽ sợ mũi băng của tôi / Khi nhìn thấy tôi, sợ chết / Ông sẽ biết tên tôi: Aeglos"<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gil-galad cầm giáo trong <a href="../B/Battle_of_Dagorlad.md" title="Battle of Dagorlad">Trận Dagorlad</a>. Sau sự sụp đổ của <a href="../S/Sauron.md" title="Sauron">Sauron</a>, Aeglos được phát hiện nằm trên đỉnh một đỉnh cao giống như cây cột ở Cao nguyên <a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a>, nơi nó tiếp tục phát ra ánh sáng rực rỡ. Nó được để lại như ngọn hải đăng hy vọng cho những người đi qua vùng đồng bằng cháy xém <a href="../M/Mordor.md" title="Mordor">Mordor</a>.</dd></dl>
 

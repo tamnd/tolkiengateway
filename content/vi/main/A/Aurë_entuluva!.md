@@ -21,7 +21,7 @@ images:
 
 ## Lịch sử {#History}
 
-Trước trận chiến, Vua [Fingon](../F/Fingon.md) đã chào đón đội quân của anh trai mình [Turgon](../T/Turgon.md) bằng tiếng kêu: "*[Utúlie'n aurë!](../U/Utúlie'n_aurë!.md) The day has come!*" Chủ quân [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md) từng hy vọng đánh bại [Morgoth](../M/Morgoth.md) nhưng bị đánh bại và buộc phải rút lui khiến nhiều người thiệt mạng. Sau khi lãnh chúa và những người bạn đồng hành của ông ta ngã xuống, Húrin vẫn tiếp tục chiến đấu, dùng rìu giết chết bất kỳ Orc nào đến gần ông ta. Với mỗi cú đánh, ông đều kêu lên: "<i><b>Aurë entuva! Ngày lại đến!</b></i>". Ông ta đã khóc bảy mươi lần trước khi Orc bắt sống ông ta, như Morgoth đã ra lệnh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trước trận chiến, Vua [Fingon](../F/Fingon.md) đã chào đón đội quân của anh trai mình [Turgon](../T/Turgon.md) bằng tiếng kêu: "*[Utúlie'n aurë!](../U/Utúlie'n_aurë!.md) The day has come!*" Chủ quân [Tiên tộc](../E/Elves.md) và [Con Người](../M/Men.md) từng hy vọng đánh bại [Morgoth](../M/Morgoth.md) nhưng bị đánh bại và buộc phải rút lui khiến nhiều người thiệt mạng. Sau khi lãnh chúa và những người bạn đồng hành của ông ngã xuống, Húrin vẫn tiếp tục chiến đấu, dùng rìu giết chết bất kỳ Orc nào đến gần ông. Với mỗi cú đánh, ông đều kêu lên: "<i><b>Aurë entuva! Ngày lại đến!</b></i>". Ông đã khóc bảy mươi lần trước khi Orc bắt sống ông, như Morgoth đã ra lệnh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

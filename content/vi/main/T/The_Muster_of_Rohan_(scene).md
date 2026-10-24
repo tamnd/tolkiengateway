@@ -41,4 +41,4 @@ infobox:
 
 **The Muster của Rohan (cảnh)** là cảnh thứ hai mươi bảy của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ ba mươi tư của [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
 
-[Rohan](../R/Rohan.md) dựng yên để đi tới [Gondor](../G/Gondor.md). [Théoden](Théoden.md) nói với [Merry](../M/Meriadoc_Brandybuck.md) rằng không một kỵ binh nào có thể chịu đựng được ông ta trong trận chiến sắp tới. Khi Rohirrim xuất phát, [Dernhelm](../D/Dernhelm.md) nắm lấy Merry và kéo ông ta lên ngựa của mình, và Merry mỉm cười khi nhận ra đó là [Éowyn](../_/Éowyn.md).
+[Rohan](../R/Rohan.md) dựng yên để đi tới [Gondor](../G/Gondor.md). [Théoden](Théoden.md) nói với [Merry](../M/Meriadoc_Brandybuck.md) rằng không một kỵ binh nào có thể chịu đựng được ông trong trận chiến sắp tới. Khi Rohirrim xuất phát, [Dernhelm](../D/Dernhelm.md) nắm lấy Merry và kéo ông lên ngựa của mình, và Merry mỉm cười khi nhận ra đó là [Éowyn](../_/Éowyn.md).

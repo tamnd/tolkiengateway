@@ -131,7 +131,7 @@ Trong một phiên bản khác về phần mở đầu, kể về sự thù đ�
 
 <dl><dd>Farmer Maggot xuất hiện ở cuối cấp độ Shire.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Farmer Maggot có thể được tìm thấy tại trang trại của ông ở <a href="../B/Bamfurlong.md" title="Bamfurlong">Bamfurlong</a> tại <a href="../M/Marish.md" title="Marish">Marish</a> bên cạnh con trai ông, Hammy Maggot. Ông tham gia vào một số nhiệm vụ nhỏ và lễ hội "Farmer's Faire" hàng năm.</dd></dl>
 

@@ -68,7 +68,7 @@ Ar-Zimrathôn nắm giữ Vương trượng [Númenor](../N/Númenor.md) trong 7
 
 ## Từ nguyên {#Etymology}
 
-*Zimrathôn* có thể có nghĩa là "Người sưu tầm ngọc" hoặc "Nhiều ngọc" trong [Adûnaic](Adûnaic.md), tùy theo cách đọc tên Quenya của ông ta.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ý nghĩa của tiền tố Adûnaic *Ar-* không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "vua" và là dạng tiền tố của *ârû* ("vua") hoặc bắt nguồn từ cùng một gốc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*Zimrathôn* có thể có nghĩa là "Người sưu tầm ngọc" hoặc "Nhiều ngọc" trong [Adûnaic](Adûnaic.md), tùy theo cách đọc tên Quenya của ông.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ý nghĩa của tiền tố Adûnaic *Ar-* không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "vua" và là dạng tiền tố của *ârû* ("vua") hoặc bắt nguồn từ cùng một gốc.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Tên [Quenya](../Q/Quenya.md) của ông, *Hostamir* có thể có nghĩa là "Nhiều Ngọc" hoặc "Người sưu tầm Ngọc" tùy theo *[hosta](../H/Hosta.md)* được đọc dưới dạng danh từ ("nhiều") hay động từ ("thu thập, sưu tầm"); (*[mir](../M/Mir.md)*) nghĩa là "viên ngọc quý".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Giống như tất cả những người cai trị của Númenor có tên được ghi trong Cuộn giấy của các vị vua, tiền tố *tar-* ("cao") đã được thêm vào tên của ông ấy.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 

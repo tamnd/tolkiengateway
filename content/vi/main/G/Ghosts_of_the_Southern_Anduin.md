@@ -45,7 +45,7 @@ Bốn cuộc phiêu lưu ở cấp độ thấp đến trung bình, mỗi cuộc
 
 Bar-en-Tinnen là một thị trấn nhỏ buồn ngủ bên bờ con sông Anduin hùng vĩ. Nhưng bây giờ những cư dân tự mãn phải để mắt tới. Bóng ma ám dòng sông trong đêm sương mù; người khôn ngoan chặn cửa vào lúc mặt trời lặn. Bạn có thể giải mã được bí ẩn của Bóng ma trên sông không?
 
-Bờ sông bị ma ám không phải là sự kiện đáng sợ nhất gần đây. Một chàng trai trẻ, hoảng sợ, ướt sũng và run rẩy, ngã gục trước cửa quán trọ lửa Fen Worm, một trục mũi tên gãy nhô ra từ cánh tay trái của ông ta. Bạn sẽ giúp đánh bại kẻ thù của ông trong The Survivor chứ?
+Bờ sông bị ma ám không phải là sự kiện đáng sợ nhất gần đây. Một chàng trai trẻ, hoảng sợ, ướt sũng và run rẩy, ngã gục trước cửa quán trọ lửa Fen Worm, một trục mũi tên gãy nhô ra từ cánh tay trái của ông. Bạn sẽ giúp đánh bại kẻ thù của ông trong The Survivor chứ?
 
 Con trai người thợ may biến mất sau khi chạm trán với hồn ma sông và kể lại câu chuyện. Bạn sẽ đối mặt với cái ác đen tối nhất để tìm kiếm chàng trai trẻ trong The Edain-in-Arthedur?
 

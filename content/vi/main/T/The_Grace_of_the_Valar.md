@@ -49,4 +49,4 @@ infobox:
 
 Thi thể của [Aragorn](../A/Aragorn.md) trôi về phía hạ lưu trước khi dừng lại ở một bờ đá. [Arwen](../A/Arwen.md) được hiển thị nằm trong [Rivendell](../R/Rivendell.md). Cảnh tượng sau đó quay lại với Aragorn, người đang bất tỉnh. Arwen mờ dần trong tầm nhìn phía trên Aragorn và khi cô nhẹ nhàng hôn anh và nói "Cầu xin ân sủng của [Valar](../V/Valar.md) bảo vệ em", Aragorn mở mắt anh.
 
-[Brego](<../B/Brego_(horse).md>) phát hiện Aragorn nằm bất tỉnh trên bờ sông. Con ngựa thúc vào anh và anh mệt mỏi nắm lấy một phần bờm của Brego, kéo mình đứng dậy. Brego cưỡi ngựa đi cùng ông ta, đưa ông ta về phía [Helm's Deep](../H/Helm's_Deep.md).
+[Brego](<../B/Brego_(horse).md>) phát hiện Aragorn nằm bất tỉnh trên bờ sông. Con ngựa thúc vào anh và anh mệt mỏi nắm lấy một phần bờm của Brego, kéo mình đứng dậy. Brego cưỡi ngựa đi cùng ông, đưa ông về phía [Helm's Deep](../H/Helm's_Deep.md).

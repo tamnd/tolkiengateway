@@ -179,7 +179,7 @@ Khi mới được hình thành ý tưởng, nhân vật này được giới th
 
 <dl><dd>Giọng của Gríma được cung cấp bởi Ivan Gogál.</dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gríma Wormtongue, có kỹ năng Hạt giống nghi ngờ, xuất hiện trong nhiệm vụ ví dụ The Pháp sư's Vale.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 

@@ -62,7 +62,7 @@ Diamond đến từ [Long Cleeve](../L/Long_Cleeve.md), một ngôi làng ở [N
 
 <dl><dd>Mặc dù không được đặt tên trong phim, Hobbit bên cạnh Pippin tại đám cưới của <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> được xác định là Kim cương trên <a class="mw-redirect" href="Decipher_Card.md" title="Decipher Card">Thẻ giải mã</a>. Bà do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Emma_Deakin&amp;action=edit&amp;redlink=1" title="Emma Deakin (page does not exist)">Emma Deakin</a> thủ vai.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup></dd></dl>
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tên thật của bà được đặt là "Adamanda North-took", với biệt danh là Diamond. Mẹ cô, "Rosalinda", là Reeve của "<a href="../T/The_Yondershire.md" title="The Yondershire">the Yondershire</a>".<sup id="cite_ref-Diamond_Hunting_6-0" class="reference"><a href="#cite_note-Diamond_Hunting-6">[5]</a></sup></dd></dl>
 

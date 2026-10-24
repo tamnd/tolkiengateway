@@ -87,7 +87,7 @@ Sự phản bội Isengard đã chính thức bị hủy bỏ vào tháng Chín 
 
 ## Nhạc phim {#Soundtrack}
 
-Brad Spear, người trước đây đã sáng tác nhạc cho trò chơi điện tử *Fellowship of the Ring*, đã sáng tác nhạc gốc cho Treason of Isengard, cũng như các bản nhạc dựa trên chủ đề do [Chance Thomas](../C/Chance_Thomas.md) sáng tác cho *[Middle-earth Online](../M/Middle-earth_Online.md)* (sau này được gọi là *The Lord of the Rings Online*). Một số bản demo âm nhạc đã có sẵn để tải xuống trên trang web - hiện đang ngoại tuyến - www.lotr.com. Một số bản nhạc đã được sử dụng lại cho *The Lord of the Rings: Cuộc chiến Nhẫn* và *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Brad Spear, người trước đây đã sáng tác nhạc cho trò chơi điện tử *Fellowship of the Ring*, đã sáng tác nhạc gốc cho Treason of Isengard, cũng như các bản nhạc dựa trên chủ đề do [Chance Thomas](../C/Chance_Thomas.md) sáng tác cho *[Middle-earth Online](../M/Middle-earth_Online.md)* (sau này được gọi là *The Lord of the Rings Online*). Một số bản demo âm nhạc đã có sẵn để tải xuống trên trang web - hiện đang ngoại tuyến - www.lotr.com. Một số bản nhạc đã được sử dụng lại cho *The Lord of the Rings: War of the Ring* và *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Đoạn giới thiệu {#Trailer}
 

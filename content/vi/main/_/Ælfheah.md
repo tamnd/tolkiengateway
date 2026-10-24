@@ -43,7 +43,7 @@ infobox:
 
 Sau nhiều chuyến hành trình và tìm kiếm [Đảo Tiên tộc](../T/Tol_Eressëa.md), Ælfheah là người đã khuyên Ælfwine chấm dứt hành trình tìm kiếm và trở về nhà; tuy nhiên, ngay sau khi họ phát hiện ra ánh sáng phát ra từ Phương Tây ở [Tol Eressëa](../T/Tol_Eressëa.md) - nhưng một cơn gió tây mạnh đã đẩy họ lùi về phía đông, ngoại trừ Ælfwine họ nhảy ra khỏi tàu và bơi về phía hòn đảo.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Số phận cuối cùng của Ælfheah là không chắc chắn, nhưng rất có thể ông ta đã chết trên biển, vì người ta nói rằng tất cả bảy người bạn đồng hành của Ælfwine rằng cuối cùng "[Ulmo](../U/Ulmo.md) Chúa tể của Biển sau đó đã đưa họ về cho chính mình".<sup id="cite_ref-Elf_1-2" class="reference"><a href="#cite_note-Elf-1">[1]</a></sup>
+Số phận cuối cùng của Ælfheah là không chắc chắn, nhưng rất có thể ông đã chết trên biển, vì người ta nói rằng tất cả bảy người bạn đồng hành của Ælfwine rằng cuối cùng "[Ulmo](../U/Ulmo.md) Chúa tể của Biển sau đó đã đưa họ về cho chính mình".<sup id="cite_ref-Elf_1-2" class="reference"><a href="#cite_note-Elf-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

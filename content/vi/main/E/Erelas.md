@@ -57,7 +57,7 @@ Mặc dù có phong cách [Sindarin](../S/Sindarin.md) nhưng *Erelas* không c�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Erelas nằm ở <a class="mw-redirect" href="../B/Beacon-hills.md" title="Beacon-hills">Beacon-hills</a>, bên kia sông về phía tây từ <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Rừng Drúadan</a>. Ngọn đồi Erelas nhỏ hơn nhiều so với Beacon-hills <a href="../N/Nardol.md" title="Nardol">Nardol</a> và <a href="../M/Min-Rimmon.md" title="Min-Rimmon">Min-Rimmon</a> gần đó. Một ngôi làng nhỏ gồm một vài hộ gia đình nằm ngay phía đông ngọn hải đăng.</dd></dl>
 

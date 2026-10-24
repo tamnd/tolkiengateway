@@ -67,7 +67,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), [Sauron](../S/Sauron.md) thoát kh
 
 Trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md), Sauron thống trị phần lớn [Miền Tây](../W/Westlands.md), đồng thời xúi giục người từ phương Đông tiến về phía tây để cướp bóc. Những cuộc xâm lấn này gây khốn đốn cho [Người Phương Bắc](../N/Northmen.md), những người đã tiến hành chiến tranh chống lại họ và các [Orc](../O/Orcs.md). Khi Sauron bị đánh đuổi trở về [Mordor](../M/Mordor.md), hắn tiếp tục mở rộng lãnh thổ về phía đông, thu nạp thêm thuộc hạ và tín đồ.<sup id="cite_ref-dm_1-2" class="reference"><a href="#cite_note-dm-1">[1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Vào một thời điểm nào đó trong Những Năm Tháng Đen Tối, Sauron trao [một trong những](../N/Nine_Rings.md) [Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) cho [Khamûl](../K/Khamûl.md), một lãnh chúa Người Phương Đông,<sup id="cite_ref-Black_5-0" class="reference"><a href="#cite_note-Black-5">[5]</a></sup> nhờ đó ông ta có được quyền lực và uy thế trong dân tộc mình, trở thành một lãnh chúa hùng mạnh và pháp sư, cho đến khi biến thành một [bóng ma](../W/Wraith.md).<sup id="cite_ref-rings_3-1" class="reference"><a href="#cite_note-rings-3">[3]</a></sup>
+Vào một thời điểm nào đó trong Những Năm Tháng Đen Tối, Sauron trao [một trong những](../N/Nine_Rings.md) [Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md) cho [Khamûl](../K/Khamûl.md), một lãnh chúa Người Phương Đông,<sup id="cite_ref-Black_5-0" class="reference"><a href="#cite_note-Black-5">[5]</a></sup> nhờ đó ông có được quyền lực và uy thế trong dân tộc mình, trở thành một lãnh chúa hùng mạnh và pháp sư, cho đến khi biến thành một [bóng ma](../W/Wraith.md).<sup id="cite_ref-rings_3-1" class="reference"><a href="#cite_note-rings-3">[3]</a></sup>
 
 ### Kỷ Đệ Tam {#Third_Age}
 
@@ -123,7 +123,7 @@ Một số nhóm như Wainrider và Balchoth sở hữu những cỗ xe chiến 
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Những Con Người được Dân tộc Tự do của Phương Tây gọi chung là Easterlings được miêu tả là một số thị tộc có bề ngoài khác biệt và chỉ được thống nhất bởi sức mạnh của <a href="../S/Sauron.md" title="Sauron">Sauron</a>. <b>Khundolar</b> Easterlings tấn công <a class="mw-redirect" href="../W/Wold.md" title="Wold">Wold</a> của <a href="../R/Rohan.md" title="Rohan">Rohan</a> từ <a href="../B/Brown_Lands.md" title="Brown Lands">Brown Lands</a> và cũng chiến đấu về phía Sauron ở <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Trận Morannon</a>. <b>Jangovar</b> Easterlings tấn công <a href="../D/Dale.md" title="Dale">Dale</a> và <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Ngọn Núi Cô Đơn</a> ở phía bắc, và sau khi Sauron đánh bại, phần còn lại của đội quân đó tiếp tục nán lại những vùng đất đó. <b>Sûhalar</b> Easterlings có tầm vóc thấp hơn và được trang bị rìu, đến mức một số người nhầm họ với <a href="../D/Dwarves.md" title="Dwarves">người lùn</a>, quân đội của họ tham gia <a class="mw-redirect" href="../S/Siege_of_Minas_Tirith.md" title="Siege of Minas Tirith">Cuộc vây hãm Minas Tirith</a>.</dd></dl>
 

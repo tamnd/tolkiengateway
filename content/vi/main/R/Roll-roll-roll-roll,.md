@@ -61,7 +61,7 @@ Họ đi xuống, họ lao xuống!<sup id="cite_ref-Barrels_2-1" class="referen
 
 ## Lịch sử {#History}
 
-Sau khi [Bilbo Baggins](../B/Bilbo_Baggins.md) giải phóng [Người Lùn](../T/Thorin_and_Company.md) khỏi phòng giam của chúng trong ngục tối của [Vua Tiên](../T/Thranduil.md), ông ta đã đóng chúng vào thùng chờ chuyển đến vườn nho của [Con Người](../M/Men.md). Một phần của việc vận chuyển các thùng bao gồm việc thả chúng qua cửa sập vào một dòng suối ngầm, đưa chúng ra khỏi hang và đến [Forest River](../F/Forest_River.md) trên đường đến [Thị trấn Hồ](../L/Lake-town.md). Một nhóm Tiên tộc đến lăn những chiếc thùng đến cửa sập và khi làm việc họ đã hát một bài hát.<sup id="cite_ref-Barrels_2-2" class="reference"><a href="#cite_note-Barrels-2">[2]</a></sup>
+Sau khi [Bilbo Baggins](../B/Bilbo_Baggins.md) giải phóng [Người Lùn](../T/Thorin_and_Company.md) khỏi phòng giam của chúng trong ngục tối của [Vua Tiên](../T/Thranduil.md), ông đã đóng chúng vào thùng chờ chuyển đến vườn nho của [Con Người](../M/Men.md). Một phần của việc vận chuyển các thùng bao gồm việc thả chúng qua cửa sập vào một dòng suối ngầm, đưa chúng ra khỏi hang và đến [Forest River](../F/Forest_River.md) trên đường đến [Thị trấn Hồ](../L/Lake-town.md). Một nhóm Tiên tộc đến lăn những chiếc thùng đến cửa sập và khi làm việc họ đã hát một bài hát.<sup id="cite_ref-Barrels_2-2" class="reference"><a href="#cite_note-Barrels-2">[2]</a></sup>
 
 ## Nền {#Background}
 

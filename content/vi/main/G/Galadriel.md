@@ -503,11 +503,11 @@ Christopher Tolkien biết về [quan niệm mới nhất](#Unstained_exile) c�
 
 <dl><dd>Galadriel, được lồng tiếng bởi <a href="../J/Jennifer_Hale.md" title="Jennifer Hale">Jennifer Hale</a>, là người kể chuyện Phần mở đầu và Phần kết, và xuất hiện trong Lothlórien.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Galadriel là đơn vị "Anh hùng" mạnh nhất dành cho Dân tộc Tự do. Nếu quân đội của người chơi phát hiện được <a href="Gollum.md" title="Gollum">Gollum</a> trên chiến trường, hãy lấy Nhẫn Chúa từ người đó và giao nó cho lực lượng của họ, tùy chọn "triệu hồi" Galadriel sẽ mở khóa để nhận được một lượng lớn tài nguyên. Do đó, Quý cô Galadriel được thể hiện là người đầu hàng trước sự hư hỏng của Chiếc nhẫn, tương tự như cảnh tương ứng trong phim <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Được giới thiệu trong <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mines of Moria</a></i>, Galadriel đóng một vai trò nổi bật trong cốt truyện Sử thi với sự hướng dẫn và hỗ trợ. Trong những ngày cuối cùng của <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, Galadriel tập hợp Hội đồng các Lãnh chúa Tiên, nơi họ quyết định đưa quân đội của họ chống lại <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>. Sau khi cô phá bỏ các bức tường của Dol Guldur, Galadriel đồng hành cùng Arwen trên hành trình về phía nam tới đám cưới của cô và họ cùng nhau đến thăm địa điểm <a class="mw-redirect" href="../C/Celebrian.md" title="Celebrian">Celebrian</a> bị giam cầm trong <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>. Sau đó, cô cùng Celeborn tham gia lễ rước nhà <a href="../E/Elrond.md" title="Elrond">Elrond</a> và đi về <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> để dự đám cưới của Arwen và Aragorn.</dd></dl>
 

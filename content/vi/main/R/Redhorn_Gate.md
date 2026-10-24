@@ -30,7 +30,7 @@ Vào [13 tháng Chín](../_/13_September.md) [Celeborn](../C/Celeborn.md), [Gala
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cổng Redhorn nổi bật ở vùng <a href="../E/Eregion.md" title="Eregion">Eregion</a>. Bão tuyết rất mạnh ở khu vực này và một trận tuyết lở đã ngăn cản việc di chuyển tiếp tục đến các vùng đất phía đông.</dd></dl>
 

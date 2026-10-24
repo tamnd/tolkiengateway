@@ -66,7 +66,7 @@ Nữ hoàng của - Tolkien trong *The Lord of the Rings*
     - Bởi: Katarzyna Blacharska
 - *Berserkir*, Bödvar Bjarki và Rồng Fáfnir: Ảnh hưởng của một số truyện cổ Iceland thời trung cổ chọn lọc đối với các tác phẩm dành cho trẻ em của Tolkien
     - Bởi: Renata Leśniakiewicz-Drzymała
-- 'Ông ta đã đến với Chúa để tìm kiếm vinh quang': Tolkien Phê phán lòng dũng cảm phương Bắc và sự bác bỏ các đặc tính anh hùng truyền thống trong "Con trai Beorhtnoth Beorhthelm trở về quê hương"
+- 'Ông đã đến với Chúa để tìm kiếm vinh quang': Tolkien Phê phán lòng dũng cảm phương Bắc và sự bác bỏ các đặc tính anh hùng truyền thống trong "Con trai Beorhtnoth Beorhthelm trở về quê hương"
     - Bởi: [Łukasz Neubauer](../_/Łukasz_Neubauer.md)
 - Chính xác thì Tolkien tranh luận về điều gì trong "*Beowulf*: Quái vật và những kẻ phê bình?" Một nỗ lực tại một chủ nghĩa siêu phê bình
     - Bởi: Andrzej Wicher

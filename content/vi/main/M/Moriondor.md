@@ -24,9 +24,9 @@ Khi [Tiên tộc](../E/Elves.md) lần đầu thức tỉnh vào buổi bình mi
 
 Mặc dù họ nắm giữ địa vị cao hơn Orc bình thường, Moriondor vẫn tuân theo ý muốn của Morgoth và Sauron. Galadriel tin rằng họ chưa bao giờ hành động độc lập với những Thế lực Hắc ám này và, mặc dù có cấp bậc cao hơn nhưng vẫn bị ràng buộc với Chúa tể Bóng tối. Tuy nhiên, quan điểm này sau đó đã được chứng minh là sai. [Adar](<../A/Adar_(The_Rings_of_Power).md>), một thủ lĩnh của Moriondor, đã thiết lập quyền thống trị của riêng mình, chỉ huy một đội quân Orc độc lập và thậm chí còn đối đầu—và tiêu diệt—một Chúa tể Bóng tối tương lai ở phía Bắc.
 
-Chỉ có một người Moriondor được biết đến với cái tên: Adar. Ông ta sống sót sau Cuộc chiến của những viên ngọc vĩ đại và sống sót trong Kỷ Đệ Nhị. Số phận của 12 người còn lại vẫn chưa được biết, mặc dù người ta cho rằng họ đã chết trước khi Kỷ Đệ Nhị bắt đầu.
+Chỉ có một người Moriondor được biết đến với cái tên: Adar. Ông sống sót sau Cuộc chiến của những viên ngọc vĩ đại và sống sót trong Kỷ Đệ Nhị. Số phận của 12 người còn lại vẫn chưa được biết, mặc dù người ta cho rằng họ đã chết trước khi Kỷ Đệ Nhị bắt đầu.
 
-Vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), sau trận chiến [Tirharad](../T/Tirharad.md), Galadriel đã nghi ngờ Adar là một trong những Moriondor khi cô thẩm vấn ông ta. Anh đáp lại bằng sự im lặng, không xác nhận cũng không phủ nhận yêu cầu của cô. Nhiều tuần sau, Adar nói với Halbrand rằng anh từng nằm trong số mười ba Tiên tộc được Morgoth chọn trong Ngày xưa để bị biến thành Orc.
+Vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), sau trận chiến [Tirharad](../T/Tirharad.md), Galadriel đã nghi ngờ Adar là một trong những Moriondor khi cô thẩm vấn ông. Anh đáp lại bằng sự im lặng, không xác nhận cũng không phủ nhận yêu cầu của cô. Nhiều tuần sau, Adar nói với Halbrand rằng anh từng nằm trong số mười ba Tiên tộc được Morgoth chọn trong Ngày xưa để bị biến thành Orc.
 
 ## Từ nguyên {#Etymology}
 

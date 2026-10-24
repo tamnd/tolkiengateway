@@ -45,7 +45,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Cờ bạc](../G/Gamling.md) sẵn sàng [Théoden](../T/Théoden.md) chiến đấu, giúp ông ta mặc áo giáp. Khi làm như vậy, ông ta trấn an nhà vua rằng những người của [Rohan](../R/Rohan.md) sẽ đi theo ông ta, dù thế nào đi chăng nữa. Cảnh này được xen kẽ với một loạt cảnh quay khác, bao gồm cảnh [Uruk-hai](../U/Uruk-hai.md) hành quân về phía [Helm's Deep](../H/Helm's_Deep.md) và những người đàn ông và chàng trai Rohan sẵn sàng tham chiến.
+[Cờ bạc](../G/Gamling.md) sẵn sàng [Théoden](../T/Théoden.md) chiến đấu, giúp ông mặc áo giáp. Khi làm như vậy, ông trấn an nhà vua rằng những người của [Rohan](../R/Rohan.md) sẽ đi theo ông, dù thế nào đi chăng nữa. Cảnh này được xen kẽ với một loạt cảnh quay khác, bao gồm cảnh [Uruk-hai](../U/Uruk-hai.md) hành quân về phía [Helm's Deep](../H/Helm's_Deep.md) và những người đàn ông và chàng trai Rohan sẵn sàng tham chiến.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Ngày đã trôi về phía Tây... sau những ngọn đồi... vào Bóng Tối. Làm sao nó lại thành ra thế này?

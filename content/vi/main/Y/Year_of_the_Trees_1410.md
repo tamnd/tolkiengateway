@@ -19,7 +19,7 @@ categories:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Melkor](../M/Morgoth.md) được phép di chuyển tự do xung quanh [Valinor](../V/Valinor.md). Ông ta bắt đầu giả vờ kết bạn với [Eldar](../E/Eldar.md) và truyền bá những lời dối trá giữa [Tiên tộc](../E/Elves.md); [Vanyar](../V/Vanyar.md) cảnh giác với ông ta, nhưng [Noldor](../N/Noldor.md) lại mong muốn tiếp nhận kiến ​​thức của ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Melkor](../M/Morgoth.md) được phép di chuyển tự do xung quanh [Valinor](../V/Valinor.md). Ông bắt đầu giả vờ kết bạn với [Eldar](../E/Eldar.md) và truyền bá những lời dối trá giữa [Tiên tộc](../E/Elves.md); [Vanyar](../V/Vanyar.md) cảnh giác với ông, nhưng [Noldor](../N/Noldor.md) lại mong muốn tiếp nhận kiến ​​thức của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

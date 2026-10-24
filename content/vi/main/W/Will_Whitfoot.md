@@ -54,9 +54,9 @@ infobox:
 
 Whitfoot được bầu làm Thị trưởng tại [Hội chợ miễn phí](../F/Free_Fair.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), ít nhất là muộn nhất là [S.R.](../S/Shire_Reckoning.md) [1413](../T/Third_Age_3013.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
-Ông ta nổi tiếng là người hobbit béo nhất ở [Westfarthing](Westfarthing.md) và được trìu mến gọi là "Bánh bao bột mì" sau khi ông ta thoát ra khỏi sự sụp đổ của [Town Hole](../T/Town_Hole.md) phủ đầy phấn. [Peregrin Took](../P/Peregrin_Took.md) sau đó đã gây ra nhiều tràng cười cho [Prancing Pony](../P/Prancing_Pony.md) khi kể lại sự việc đó với [Bree-dân gian](../B/Bree-folk.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Ông nổi tiếng là người hobbit béo nhất ở [Westfarthing](Westfarthing.md) và được trìu mến gọi là "Bánh bao bột mì" sau khi ông thoát ra khỏi sự sụp đổ của [Town Hole](../T/Town_Hole.md) phủ đầy phấn. [Peregrin Took](../P/Peregrin_Took.md) sau đó đã gây ra nhiều tràng cười cho [Prancing Pony](../P/Prancing_Pony.md) khi kể lại sự việc đó với [Bree-dân gian](../B/Bree-folk.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
-Ông ta là một trong những nạn nhân đầu tiên của quy định mới của [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) và [Sharkey](../S/Sharkey.md). Ông ta đi phản đối việc Lotho chặt cây nhưng bị [Ruffians](../R/Ruffians.md) bắt giữ trên đường đến [Bag End](../B/Bag_End.md). Ông ta bị nhốt trong [Lỗ khóa](../L/Lockholes.md), và Lotho đã chiếm đoạt chức danh của ông ta.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Ông ta được trả tự do sau [Trận Bywater](../B/Battle_of_Bywater.md), nhưng lúc đầu không phù hợp với nhiệm vụ Thị trưởng, vì vậy [Frodo Baggins](../F/Frodo_Baggins.md) giữ chức Phó Thị trưởng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Ông ta chính thức được phục hồi chức Thị trưởng vào Hội chợ Tự do tiếp theo, vào [Ngày giữa năm](../M/Midyear's_Day.md) của [S.R.](../S/Shire_Reckoning.md) [1420](../T/Third_Age_3020.md).<sup id="cite_ref-Later_5-0" class="reference"><a href="#cite_note-Later-5">[4]</a></sup>
+Ông là một trong những nạn nhân đầu tiên của quy định mới của [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md) và [Sharkey](../S/Sharkey.md). Ông đi phản đối việc Lotho chặt cây nhưng bị [Ruffians](../R/Ruffians.md) bắt giữ trên đường đến [Bag End](../B/Bag_End.md). Ông bị nhốt trong [Lỗ khóa](../L/Lockholes.md), và Lotho đã chiếm đoạt chức danh của ông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> Ông được trả tự do sau [Trận Bywater](../B/Battle_of_Bywater.md), nhưng lúc đầu không phù hợp với nhiệm vụ Thị trưởng, vì vậy [Frodo Baggins](../F/Frodo_Baggins.md) giữ chức Phó Thị trưởng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Ông chính thức được phục hồi chức Thị trưởng vào Hội chợ Tự do tiếp theo, vào [Ngày giữa năm](../M/Midyear's_Day.md) của [S.R.](../S/Shire_Reckoning.md) [1420](../T/Third_Age_3020.md).<sup id="cite_ref-Later_5-0" class="reference"><a href="#cite_note-Later-5">[4]</a></sup>
 
 Will Whitfoot từ chức vào năm [S.R.](../S/Shire_Reckoning.md) [1427](../F/Fourth_Age_6.md) và được kế nhiệm bởi [Samwise Gamgee](../S/Samwise_Gamgee.md).<sup id="cite_ref-Later_5-1" class="reference"><a href="#cite_note-Later-5">[4]</a></sup>
 
@@ -78,7 +78,7 @@ Cái tên "Whitfoot" có nguồn gốc từ "Chân trắng".<sup id="cite_ref-6"
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thị trưởng Will Whitfoot có thể được tìm thấy ở trung tâm của <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a>. Ông cung cấp một số nhiệm vụ ban đầu cho các nhân vật Hobbit và cũng tham gia vào một số lễ hội theo mùa.</dd></dl>
 

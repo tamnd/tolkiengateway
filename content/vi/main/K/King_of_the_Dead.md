@@ -61,9 +61,9 @@ infobox:
 
 Ông là Vua của [Con Người của Dãy Núi](../O/Oathbreakers.md), và khi [Vương quốc lưu vong](../R/Realms_in_Exile.md) được thành lập, ông đã gặp [Isildur](../I/Isildur.md) tại [Erech](../E/Erech.md) và thay mặt cho người dân của mình tuyên thệ trung thành với [Gondor](../G/Gondor.md).
 
-Rồi đến lúc lãnh chúa cũ của họ, [Sauron](../S/Sauron.md) trỗi dậy một lần nữa và Isildur triệu tập họ, nhưng Con Người của Dãy Núi không muốn quay lưng lại với Sauron vì họ tôn thờ ông ta trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md). Isildur nguyền rủa họ vì đã không thực hiện lời thề, rằng sẽ không có Vua nào khác sau ông ta, và họ sẽ không bao giờ tìm thấy sự nghỉ ngơi cho đến khi có người khác gọi đến.
+Rồi đến lúc lãnh chúa cũ của họ, [Sauron](../S/Sauron.md) trỗi dậy một lần nữa và Isildur triệu tập họ, nhưng Con Người của Dãy Núi không muốn quay lưng lại với Sauron vì họ tôn thờ ông trong [Những Năm Tháng Đen Tối](../D/Dark_Years.md). Isildur nguyền rủa họ vì đã không thực hiện lời thề, rằng sẽ không có Vua nào khác sau ông, và họ sẽ không bao giờ tìm thấy sự nghỉ ngơi cho đến khi có người khác gọi đến.
 
-Dân tộc của ông ta ngày càng suy giảm và trong những thế kỷ tiếp theo, [bóng ma](../W/Wraiths.md) của **Vua Người Chết** là một tin đồn đáng sợ đối với [Con Người của Gondor](../G/Gondorians.md) ở phía nam Dãy Núi.
+Dân tộc của ông ngày càng suy giảm và trong những thế kỷ tiếp theo, [bóng ma](../W/Wraiths.md) của **Vua Người Chết** là một tin đồn đáng sợ đối với [Con Người của Gondor](../G/Gondorians.md) ở phía nam Dãy Núi.
 
 Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Aragorn](../A/Aragorn.md) đã đến [Con đường của người chết](../P/Paths_of_the_Dead.md) với tư cách là [Người thừa kế Isildur](../H/Heir_of_Isildur.md) và đề nghị cho họ một cách để chuộc lỗi. Trên đường tới Erech, mọi người vô cùng sợ hãi trước tin Vua của Thần Chết lại xuất hiện, những người phòng thủ cũng như kẻ thù đều bỏ chạy tán loạn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -101,7 +101,7 @@ Những người vi phạm lời thề đã đi theo [Đại đội Xám](../G/G
 
 <dl><dd>Vua of the Dead do <a href="../P/Paul_Norell.md" title="Paul Norell">Paul Norell</a> thủ vai.</dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vua của Người Chết có tên là Rioc. Mặc dù người của ông không muốn chiến đấu <a href="../S/Sauron.md" title="Sauron">Sauron</a> vì họ đã tôn thờ ông, nhưng lý do ông không tôn trọng lời thề với <a href="../I/Isildur.md" title="Isildur">Isildur</a> là vì con gái Bravantel của ông có một đứa con ngoài giá thú với một trong những chiến binh <a class="mw-redirect" href="../N/Númenórean.md" title="Númenórean">Númenórean</a> của ông. Ông lãnh đạo người dân của mình sau khi gia nhập vật chủ của <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và được giải thoát sau khi giải phóng <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a>.</dd></dl>
 

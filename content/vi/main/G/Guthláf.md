@@ -55,7 +55,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ông ta cưỡi ngựa đến giải cứu [Minas Tirith](../M/Minas_Tirith.md) cùng với Chúa của mình trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), và chiến đấu ở đó trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), nơi ông ta bị giết. Ông ta ngã xuống với lá cờ trên tay và nó phải được lấy đi sau khi chết để trao cho [Éomer](../_/Éomer.md). Ông cũng được nhắc đến trong *[Song of the Mounds of Mundburg](../S/Song_of_the_Mounds_of_Mundburg.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông cưỡi ngựa đến giải cứu [Minas Tirith](../M/Minas_Tirith.md) cùng với Chúa của mình trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), và chiến đấu ở đó trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), nơi ông bị giết. Ông ngã xuống với lá cờ trên tay và nó phải được lấy đi sau khi chết để trao cho [Éomer](../_/Éomer.md). Ông cũng được nhắc đến trong *[Song of the Mounds of Mundburg](../S/Song_of_the_Mounds_of_Mundburg.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -82,7 +82,7 @@ Trong [tiếng Anh cổ](../O/Old_English.md) *Guþláf* có nghĩa là "ngườ
 		</li>
 </ul>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Guthláf đã bị <a href="Gríma.md" title="Gríma">Gríma</a> miễn nhiệm với tư cách là người mang biểu ngữ của <a href="../T/Théoden.md" title="Théoden">Théoden</a> và đã trở về nhà, bảo vệ trại gỗ gần làng Imping ở <a href="../E/Eastfold.md" title="Eastfold">Eastfold</a>. Sau <a class="mw-redirect" href="../B/Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">Trận Helm&#39;s Deep</a> Guthláf được Vua phục hồi nhiệm vụ của mình và đi về phía nam tới <a href="Gondor.md" title="Gondor">Gondor</a> bên cạnh ông. Tiếp theo, người chơi gặp ông tại <a class="mw-redirect" href="../D/Druadan_Forest.md" title="Druadan Forest">Rừng Druadan</a>, nơi Rohirrim khởi hành đến <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">cánh đồng Pelennor</a>. Guthláf bị giết khi <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> của <a href="../A/Angmar.md" title="Angmar">Angmar</a> tấn công Vua Théoden.</dd></dl>
 

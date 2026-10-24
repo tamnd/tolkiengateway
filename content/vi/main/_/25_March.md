@@ -84,7 +84,7 @@ Sự kiện xảy ra vào ngày 25 tháng 3
     - Đạo quân Phương Tây bị bao vây bởi kẻ thù trên Đồi Xỉ.
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) đến [Sammath Naur](../C/Cracks_of_Doom.md). [Gollum](../G/Gollum.md) nắm lấy [Chiếc nhẫn](../T/The_One_Ring.md) và rơi vào [Cracks of Doom](../C/Cracks_of_Doom.md).
     - Sự sụp đổ của [Barad-dûr](../B/Barad-dûr.md) và vượt qua [Sauron](../S/Sauron.md).
-    - [Frodo](../F/Frodo.md) và [Samwise](../S/Samwise.md) được nuôi dưỡng bởi [Gwaihir](../G/Gwaihir.md) và những người anh em của ông ta.
+    - [Frodo](../F/Frodo.md) và [Samwise](../S/Samwise.md) được nuôi dưỡng bởi [Gwaihir](../G/Gwaihir.md) và những người anh em của ông.
     - [Faramir](../F/Faramir.md) và [Éowyn](Éowyn.md) quan sát từ các bức tường của [Minas Tirith](../M/Minas_Tirith.md) khi bóng tối được dỡ bỏ khỏi [Mordor](../M/Mordor.md).
     - Một con đại bàng mang tin đến [Minas Tirith](../M/Minas_Tirith.md) về sự sụp đổ của [Sauron](../S/Sauron.md).
     - Bắt đầu năm mới vào [Gondor](../G/Gondor.md).

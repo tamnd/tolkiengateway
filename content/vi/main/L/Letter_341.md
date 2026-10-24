@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đồng ý với Marjorie về mong muốn và sự cần thiết của việc thỉnh thoảng thoát khỏi "cuộc sống cộng đồng". Trường đại học của anh đã đối xử với anh bằng lòng tốt và sự hào phóng, đáp ứng mọi nhu cầu của anh. Họ đã phong ông ta làm Thành viên Danh dự khu dân cư (ông ta nói, ông ta được coi là "trang trí"). Phòng sinh hoạt chung có số lượng gấp ba lần so với khi anh còn là Hội viên tích cực, tiêu chuẩn của họ đã tăng lên rất nhiều và họ đều là những người bạn đồng hành rất tốt.
+Tolkien đồng ý với Marjorie về mong muốn và sự cần thiết của việc thỉnh thoảng thoát khỏi "cuộc sống cộng đồng". Trường đại học của anh đã đối xử với anh bằng lòng tốt và sự hào phóng, đáp ứng mọi nhu cầu của anh. Họ đã phong ông làm Thành viên Danh dự khu dân cư (ông nói, ông được coi là "trang trí"). Phòng sinh hoạt chung có số lượng gấp ba lần so với khi anh còn là Hội viên tích cực, tiêu chuẩn của họ đã tăng lên rất nhiều và họ đều là những người bạn đồng hành rất tốt.
 
-Tuy nhiên Tolkien thường cô đơn và khao khát một sự thay đổi. Sau kỳ học, ông ở một mình trong một ngôi nhà lớn; chỉ có người chăm sóc và vợ ông ta ở dưới tầng hầm. Gặp rắc rối bởi những kẻ xâm nhập và những kẻ bất chính, anh sống sau những cánh cửa khóa kín.
+Tuy nhiên Tolkien thường cô đơn và khao khát một sự thay đổi. Sau kỳ học, ông ở một mình trong một ngôi nhà lớn; chỉ có người chăm sóc và vợ ông ở dưới tầng hầm. Gặp rắc rối bởi những kẻ xâm nhập và những kẻ bất chính, anh sống sau những cánh cửa khóa kín.
 
-Thỉnh thoảng ông ta đã trốn thoát được. Tuy nhiên, ông có nghĩa vụ lịch sự với tư cách là một Thành viên. Chính [Christopher](../C/Christopher_Tolkien.md) đã "tắt máy" liên lạc với Giám thị của trường Cao đẳng Merton để nói rằng cha anh đang tìm kiếm một ngôi nhà trong vô vọng. Người quản lý đã triệu tập một cuộc họp đặc biệt của Cơ quan chủ quản và đã nhất trí bỏ phiếu mời ông ta làm Thành viên khu dân cư. Anh tự nhận mình rất may mắn nhưng chưa “an cư lạc nghiệp”; ông vẫn còn rất bối rối.
+Thỉnh thoảng ông đã trốn thoát được. Tuy nhiên, ông có nghĩa vụ lịch sự với tư cách là một Thành viên. Chính [Christopher](../C/Christopher_Tolkien.md) đã "tắt máy" liên lạc với Giám thị của trường Cao đẳng Merton để nói rằng cha anh đang tìm kiếm một ngôi nhà trong vô vọng. Người quản lý đã triệu tập một cuộc họp đặc biệt của Cơ quan chủ quản và đã nhất trí bỏ phiếu mời ông làm Thành viên khu dân cư. Anh tự nhận mình rất may mắn nhưng chưa “an cư lạc nghiệp”; ông vẫn còn rất bối rối.
 
 ## Lưu ý {#Note}
 

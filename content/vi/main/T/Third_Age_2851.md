@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cuộc [Bạch Hội Đồng](../W/White_Council.md) gặp nhau.<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- [Gandalf](../G/Gandalf.md) thúc giục tấn công [Dol Guldur](../D/Dol_Guldur.md). [Saruman](../S/Saruman.md) (người mong muốn [Chiếc nhẫn duy nhất](../O/One_Ring.md) và hy vọng rằng nó sẽ lộ diện khi có sự hiện diện của [Sauron](../S/Sauron.md)) đã bác bỏ ông ta.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Gandalf](../G/Gandalf.md) thúc giục tấn công [Dol Guldur](../D/Dol_Guldur.md). [Saruman](../S/Saruman.md) (người mong muốn [Chiếc nhẫn duy nhất](../O/One_Ring.md) và hy vọng rằng nó sẽ lộ diện khi có sự hiện diện của [Sauron](../S/Sauron.md)) đã bác bỏ ông.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - [Saruman](../S/Saruman.md) bắt đầu tìm kiếm gần [Gladden Fields](../G/Gladden_Fields.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - [Vua](../K/Kings_of_Rohan.md) [Walda](../W/Walda.md) cùng những người bạn đồng hành của mình đi trên những con đường núi từ [Dunharrow](../D/Dunharrow.md). Họ bị bẫy và giết bởi [lũ Orc](../O/Orcs.md).<sup id="cite_ref-Mark_2-0" class="reference"><a href="#cite_note-Mark-2">[2]</a></sup>
 - [Folca](../F/Folca.md), con trai của Walda, trở thành Vua thứ mười ba của [Rohan](../R/Rohan.md).<sup id="cite_ref-Mark_2-1" class="reference"><a href="#cite_note-Mark-2">[2]</a></sup>

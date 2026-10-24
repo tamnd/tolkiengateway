@@ -56,7 +56,7 @@ Khi [Ent](../E/Ents.md) tấn công [Isengard](Isengard.md), họ đã xây đ�
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Isen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/The_Lord_of_the_Rings_Online_-_Isen.jpg/250px-The_Lord_of_the_Rings_Online_-_Isen.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/The_Lord_of_the_Rings_Online_-_Isen.jpg/375px-The_Lord_of_the_Rings_Online_-_Isen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/58/The_Lord_of_the_Rings_Online_-_Isen.jpg/500px-The_Lord_of_the_Rings_Online_-_Isen.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Isen in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ở phía bắc của <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Cạnh cạn Isen</a>, cả bờ đông và bờ tây của Isen đều có thể khám phá được. Ở phía nam của Fords, chỉ có thể tiếp cận được bờ phía bắc, vì <a href="../W/West-march.md" title="West-march">Phương Tây-march</a> của <a href="../R/Rohan.md" title="Rohan">Rohan</a> hiện không có trong trò chơi.</dd></dl>
 

@@ -50,7 +50,7 @@ Sau đó là một sự nghiệp ổn định với một vài đỉnh cao. Anh 
 
 Sự xuất hiện của Hill trong cả *Titanic* và *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* khiến anh trở thành diễn viên duy nhất xuất hiện trong nhiều hơn một trong ba bộ phim được trao 11 giải Oscar (bộ phim thứ ba là *Ben Hur*) và là một trong ba diễn viên duy nhất đã đóng nhiều hơn một bộ phim có doanh thu hơn 1 tỷ USD (một người khác là [Orlando Bloom](../O/Orlando_Bloom.md) cũng đóng vai chính trong *The Return of the King*, cũng như *Pirates of the Caribbean*). Cả hai phim (và *Gandhi*) đều đoạt giải Phim hay nhất.
 
-Điều trớ trêu là ông ta chết trong cả hai trường hợp đã dẫn đến một số câu chuyện cười về việc phải giết Bernard Hill để kiếm được một tỷ USD.
+Điều trớ trêu là ông chết trong cả hai trường hợp đã dẫn đến một số câu chuyện cười về việc phải giết Bernard Hill để kiếm được một tỷ USD.
 
 Sinh nhật của ông trùng với ngày ra mắt *The Return of the King*.
 

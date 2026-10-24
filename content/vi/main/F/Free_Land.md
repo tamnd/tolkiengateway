@@ -15,7 +15,7 @@ categories:
 
 "**Đất tự do**" là tên gọi chính trị của [ Shire](../T/The_Shire.md) từ [Kỷ Đệ Tứ](Fourth_Age.md) [6](Fourth_Age_6.md) ([S.R.](../S/Shire_Reckoning.md) [1427](Fourth_Age_6.md)).<sup id="cite_ref-App-Later_1-0" class="reference"><a href="#cite_note-App-Later-1">[1]</a></sup>
 
-Sau khi [Arnor](../A/Arnor.md) được tái lập bởi Vua [Elessar](../A/Aragorn.md) ở [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-RK-Field_2-0" class="reference"><a href="#cite_note-RK-Field-2">[2]</a></sup> Vua đã tuyên bố rằng Shire sẽ trở thành Vùng đất Tự do dưới sự bảo vệ của [Vương trượng phương Bắc](../S/Sceptre_of_Annúminas.md). Hơn nữa, ông ta còn tuyên bố rằng không [Con Người](../M/Men.md) nào được phép vào Shire - một chính sách mà ông ta thậm chí còn ủng hộ.<sup id="cite_ref-App-Later_1-1" class="reference"><a href="#cite_note-App-Later-1">[1]</a></sup>
+Sau khi [Arnor](../A/Arnor.md) được tái lập bởi Vua [Elessar](../A/Aragorn.md) ở [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-RK-Field_2-0" class="reference"><a href="#cite_note-RK-Field-2">[2]</a></sup> Vua đã tuyên bố rằng Shire sẽ trở thành Vùng đất Tự do dưới sự bảo vệ của [Vương trượng phương Bắc](../S/Sceptre_of_Annúminas.md). Hơn nữa, ông còn tuyên bố rằng không [Con Người](../M/Men.md) nào được phép vào Shire - một chính sách mà ông thậm chí còn ủng hộ.<sup id="cite_ref-App-Later_1-1" class="reference"><a href="#cite_note-App-Later-1">[1]</a></sup>
 
 <span></span>
 

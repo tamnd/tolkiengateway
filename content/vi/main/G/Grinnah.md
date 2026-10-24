@@ -46,11 +46,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Grinnah dường như là một thành viên quan trọng trong hệ thống cấp bậc của thị trấn Goblin, vì ông ta đã trực tiếp báo cáo với [Great Goblin](Great_Goblin.md) khi họ bắt giữ [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) tại [Front Porch](../F/Front_Porch.md). Ông ta chịu trách nhiệm phát hiện ra [Orcrist](../O/Orcrist.md) trên [Thorin Oakenshield](../T/Thorin.md) và đưa nó cho Yêu tinh vĩ đại, kẻ giận dữ ra lệnh cho cấp dưới của mình giết Thorin. Khi [Gandalf](Gandalf.md) đến giải cứu Người Lùn và họ cầm vũ khí tìm đường thoát thân, Grinnah đã bị [Kíli](../K/Kíli.md) đâm chết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Grinnah dường như là một thành viên quan trọng trong hệ thống cấp bậc của thị trấn Goblin, vì ông đã trực tiếp báo cáo với [Great Goblin](Great_Goblin.md) khi họ bắt giữ [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) tại [Front Porch](../F/Front_Porch.md). Ông chịu trách nhiệm phát hiện ra [Orcrist](../O/Orcrist.md) trên [Thorin Oakenshield](../T/Thorin.md) và đưa nó cho Yêu tinh vĩ đại, kẻ giận dữ ra lệnh cho cấp dưới của mình giết Thorin. Khi [Gandalf](Gandalf.md) đến giải cứu Người Lùn và họ cầm vũ khí tìm đường thoát thân, Grinnah đã bị [Kíli](../K/Kíli.md) đâm chết.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tính cách {#Personality}
 
-Grinnah xảo quyệt và hung ác, nhưng cũng giống như những yêu tinh khác, hắn là một kẻ hèn nhát. Mặc dù có lòng trung thành rõ ràng với Great Goblin, nhưng thực ra ông ta thực sự ghét hắn trong bí mật.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Grinnah xảo quyệt và hung ác, nhưng cũng giống như những yêu tinh khác, hắn là một kẻ hèn nhát. Mặc dù có lòng trung thành rõ ràng với Great Goblin, nhưng thực ra ông thực sự ghét hắn trong bí mật.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

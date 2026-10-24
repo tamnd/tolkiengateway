@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Morgoth](../M/Morgoth.md) tiếp tục tấn công [Hithlum](../H/Hithlum.md).
-    - Lúc [Barad Eithel](../B/Barad_Eithel.md), [Galdor](<../G/Galdor_(Lord_of_Dor-lómin).md>) bị giết và [Húrin](../H/Húrin.md) trở thành [Chúa tể của Dor-lómin](../L/Lord_of_Dor-lómin.md); ông ta lái chiếc Orc lùi ra khỏi bức tường và đâm vào [Anfauglith](../A/Anfauglith.md).<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup><sup id="cite_ref-Ruin_2-0" class="reference"><a href="#cite_note-Ruin-2">[2]</a></sup>
+    - Lúc [Barad Eithel](../B/Barad_Eithel.md), [Galdor](<../G/Galdor_(Lord_of_Dor-lómin).md>) bị giết và [Húrin](../H/Húrin.md) trở thành [Chúa tể của Dor-lómin](../L/Lord_of_Dor-lómin.md); ông lái chiếc Orc lùi ra khỏi bức tường và đâm vào [Anfauglith](../A/Anfauglith.md).<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup><sup id="cite_ref-Ruin_2-0" class="reference"><a href="#cite_note-Ruin-2">[2]</a></sup>
     - [Fingon](Fingon.md) phải đối mặt với một đội quân riêng biệt đang tràn xuống từ phía bắc và đông hơn nên khó có thể cầm chân chúng và trận chiến tràn xuống vùng đồng bằng Hithlum. Tuy nhiên, [Círdan](../C/Círdan.md) đã gửi viện trợ và đổ bộ lực lượng của mình vào [Drengist](../D/Drengist.md), sau đó đổ bộ vào sườn phía tây của [Orc](../O/Orc.md). Orc sau đó tan vỡ và bỏ chạy, bị các cung thủ cưỡi ngựa truy đuổi.<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup><sup id="cite_ref-Ruin_2-1" class="reference"><a href="#cite_note-Ruin-2">[2]</a></sup>
 
 ## Từ 455 đến 462 {#Between_455_and_462}

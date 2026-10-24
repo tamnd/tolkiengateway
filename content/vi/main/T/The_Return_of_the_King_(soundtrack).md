@@ -48,7 +48,7 @@ infobox:
 <dl><dd>Trong <a href="../Q/Quenya.md" title="Quenya">Quenya</a> (được hát bởi Viggo Mortensen):</dd></dl>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Et Eärello Endorenna utúlien.  Sinome maruvan ar Hildinyar tenn’ Ambar-metta!<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>Et Eärello Endorenna utúlien. Sinome maruvan ar Hildinyar tenn’ Ambar-metta!<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 </div>
 

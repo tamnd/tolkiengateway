@@ -66,7 +66,7 @@ Trong một bản thảo ban đầu, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ch
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đại Dịch được tiết lộ là một ác quỷ của <a href="../S/Sauron.md" title="Sauron">Sauron</a>, được tạo ra bởi kẻ đầu độc chính của hắn là Lhaereth the Stained. Nhiều phiên bản khác nhau của nó đã được thử nghiệm trong <a href="../R/Rhûn.md" title="Rhûn">Rhûn</a> trước khi một biến thể phù hợp được tung ra các vùng đất ở phía tây. Tuy nhiên, bất chấp sự tàn phá mà nó mang lại, bệnh dịch hạch vẫn được Sauron coi là một thất bại vì không đủ gây chết người, và Lhaereth đã không còn được sủng ái trong nhiều năm sau đó. Người ta tiết lộ rằng <a href="../R/Rangers_of_the_North.md" title="Rangers of the North">Rangers of the North</a> có thể chữa lành những người bị ảnh hưởng bởi bệnh dịch bằng <a href="../A/Athelas.md" title="Athelas">Kingsfoil</a>. Sau sự sụp đổ của Sauron, người chơi làm việc với hai Biệt đội để ngăn Lhaereth tung ra một biến thể mới và cải tiến của Đại Dịch.</dd></dl>
 

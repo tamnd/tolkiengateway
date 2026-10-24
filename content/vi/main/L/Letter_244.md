@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Về Éowyn, Tolkien cho rằng có thể yêu nhiều người khác giới cùng một lúc, ở một chế độ và cường độ khác nhau. Tình cảm của cô dành cho [Aragorn](../A/Aragorn.md) có lẽ vẫn như cũ ngay cả sau khi anh được tiết lộ là một nhân vật cao quý. Tolkien nhấn mạnh rằng Aragorn là *old*, mà khi không phải là một phẩm chất thể chất (ông ta chưa bị phân hủy theo bất kỳ cách nào) thì có thể đáng báo động hoặc đáng kinh ngạc. Éowyn không có tham vọng về mặt chính trị; bà không thực sự là một người lính hay "amazon" mà là một người phụ nữ dũng cảm có khả năng dũng cảm trong cơn khủng hoảng.
+Về Éowyn, Tolkien cho rằng có thể yêu nhiều người khác giới cùng một lúc, ở một chế độ và cường độ khác nhau. Tình cảm của cô dành cho [Aragorn](../A/Aragorn.md) có lẽ vẫn như cũ ngay cả sau khi anh được tiết lộ là một nhân vật cao quý. Tolkien nhấn mạnh rằng Aragorn là *old*, mà khi không phải là một phẩm chất thể chất (ông chưa bị phân hủy theo bất kỳ cách nào) thì có thể đáng báo động hoặc đáng kinh ngạc. Éowyn không có tham vọng về mặt chính trị; bà không thực sự là một người lính hay "amazon" mà là một người phụ nữ dũng cảm có khả năng dũng cảm trong cơn khủng hoảng.
 
 Tolkien cho biết độc giả giấu tên của mình đã hiểu nhầm Faramir. Faramir đã bị cha mình làm nản lòng, người không chỉ có tính cách nghiêm nghị, kiêu hãnh mà còn là người đứng đầu bang [Númenórean](../N/Númenórean.md) duy nhất còn sống sót. Anh mồ côi mẹ, không chị gái và có một người anh trai “hách dịch”. Ông quen nhường nhịn, không cho ý kiến, nhưng vẫn giữ được quyền chỉ huy đàn ông, bắt nguồn từ những đức tính: Dũng cảm, quyết đoán, khiêm tốn, công bằng, cẩn trọng và rất nhân hậu. Tolkien cảm thấy Faramir hiểu rất rõ Éowyn.
 

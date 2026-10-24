@@ -39,11 +39,11 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Không có gì {#Bogi}
 
-**Bogi** là [Người Lùn](../D/Dwarves.md) từ Erebor. Ông ta là thành viên trong nhóm Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-0" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của ông ta <a class="mw-selflink-fragment" href="#Orodlin">Orodlin</a> và <a class="mw-selflink-fragment" href="#Selur">Selur</a> cử người chơi vào trong Silver Deep Mines để giết một số Cave-claws, những kẻ đang phá hủy vùng đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-0" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
+**Bogi** là [Người Lùn](../D/Dwarves.md) từ Erebor. Ông là thành viên trong nhóm Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-0" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của ông <a class="mw-selflink-fragment" href="#Orodlin">Orodlin</a> và <a class="mw-selflink-fragment" href="#Selur">Selur</a> cử người chơi vào trong Silver Deep Mines để giết một số Cave-claws, những kẻ đang phá hủy vùng đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-0" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
 
 ## Bolli {#Bolli}
 
-**Bolli** là một [Người Lùn](../D/Dwarves.md) đến từ [Erebor](Lonely_Mountain.md), là thành viên của công ty [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin. Ông ta gửi người chơi lùn đến [Nos Grimsong](../N/Nos_Grimsong.md) trong phần Giới thiệu.<sup id="cite_ref-return_lonely_mountain_4-0" class="reference"><a href="#cite_note-return_lonely_mountain-4">[4]</a></sup> Sau khi Gondamon bị [Longbeards](Longbeards.md) chinh phục lại, ông ta trở thành đội trưởng đội cận vệ của Gondamon.<sup id="cite_ref-Goblins_in_the_South_5-0" class="reference"><a href="#cite_note-Goblins_in_the_South-5">[5]</a></sup>
+**Bolli** là một [Người Lùn](../D/Dwarves.md) đến từ [Erebor](Lonely_Mountain.md), là thành viên của công ty [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin. Ông gửi người chơi lùn đến [Nos Grimsong](../N/Nos_Grimsong.md) trong phần Giới thiệu.<sup id="cite_ref-return_lonely_mountain_4-0" class="reference"><a href="#cite_note-return_lonely_mountain-4">[4]</a></sup> Sau khi Gondamon bị [Longbeards](Longbeards.md) chinh phục lại, ông trở thành đội trưởng đội cận vệ của Gondamon.<sup id="cite_ref-Goblins_in_the_South_5-0" class="reference"><a href="#cite_note-Goblins_in_the_South-5">[5]</a></sup>
 
 ## Calthendin {#Calthendin}
 
@@ -51,7 +51,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Dorollas {#Dorollas}
 
-**Dorollas** là một [Tiên](../E/Elves.md) ở Edhelion, người muốn khôi phục Edhelion trở lại vinh quang trước đây và do đó đã gia nhập nhóm Tiên tộc đã cố gắng khôi phục Edhelion vào [T.A.](../T/Third_Age.md) 3016. [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), lãnh đạo của công ty, đã cử người chơi đến Dorollas để hỗ trợ dọn dẹp Edhelion.<sup id="cite_ref-plague_6-0" class="reference"><a href="#cite_note-plague-6">[6]</a></sup> Theo yêu cầu của Dorollas, người chơi giết một số người những con sên sống trong một hồ nước bẩn<sup id="cite_ref-befouled_pool_7-0" class="reference"><a href="#cite_note-befouled_pool-7">[7]</a></sup> và sau đó đưa ông ta đến [Elladan](../E/Elladan.md).<sup id="cite_ref-scouting_8-0" class="reference"><a href="#cite_note-scouting-8">[8]</a></sup>
+**Dorollas** là một [Tiên](../E/Elves.md) ở Edhelion, người muốn khôi phục Edhelion trở lại vinh quang trước đây và do đó đã gia nhập nhóm Tiên tộc đã cố gắng khôi phục Edhelion vào [T.A.](../T/Third_Age.md) 3016. [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), lãnh đạo của công ty, đã cử người chơi đến Dorollas để hỗ trợ dọn dẹp Edhelion.<sup id="cite_ref-plague_6-0" class="reference"><a href="#cite_note-plague-6">[6]</a></sup> Theo yêu cầu của Dorollas, người chơi giết một số người những con sên sống trong một hồ nước bẩn<sup id="cite_ref-befouled_pool_7-0" class="reference"><a href="#cite_note-befouled_pool-7">[7]</a></sup> và sau đó đưa ông đến [Elladan](../E/Elladan.md).<sup id="cite_ref-scouting_8-0" class="reference"><a href="#cite_note-scouting-8">[8]</a></sup>
 
 ## Dúri Búa Đậm {#Dúri_Bold-Hammer}
 
@@ -59,11 +59,11 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Edenithil {#Edenithil}
 
-**Edenithil** là một [Tiên](../E/Elves.md) và cung thủ. Ông là thành viên trong công ty của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), người đã cố gắng khôi phục Edhelion. Trong nỗ lực thất bại này, ông ta đang ở tiền đồn của Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-1" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Khi nỗ lực thất bại, ông ta đã đến [Celondim](../C/Celondim.md).<sup id="cite_ref-Ered_Luin_9-1" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Edenithil** là một [Tiên](../E/Elves.md) và cung thủ. Ông là thành viên trong công ty của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md), người đã cố gắng khôi phục Edhelion. Trong nỗ lực thất bại này, ông đang ở tiền đồn của Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-1" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Khi nỗ lực thất bại, ông đã đến [Celondim](../C/Celondim.md).<sup id="cite_ref-Ered_Luin_9-1" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Edhelben {#Edhelben}
 
-**Edhelben** là một [Tiên](../E/Elves.md) đến từ Edhelion. Cô đã chiến đấu trong Trận chiến Edhelion khi [Dourhands](../D/Dourhands.md) và [Goblin](../O/Orcs.md) tấn công thành phố.<sup id="cite_ref-refuge_10-0" class="reference"><a href="#cite_note-refuge-10">[10]</a></sup> Không biết liệu ông ta có sống sót sau trận chiến hay không.
+**Edhelben** là một [Tiên](../E/Elves.md) đến từ Edhelion. Cô đã chiến đấu trong Trận chiến Edhelion khi [Dourhands](../D/Dourhands.md) và [Goblin](../O/Orcs.md) tấn công thành phố.<sup id="cite_ref-refuge_10-0" class="reference"><a href="#cite_note-refuge-10">[10]</a></sup> Không biết liệu ông có sống sót sau trận chiến hay không.
 
 ## Erynwen {#Erynwen}
 
@@ -75,7 +75,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Gaden của Lindon {#Gaden_of_Lindon}
 
-**Gaden của Lindon** là một [Tiên](../E/Elves.md) của [Lindon](Lindon.md), người đã đồng hành cùng [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) khi ông ta cố gắng khôi phục Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-4" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
+**Gaden của Lindon** là một [Tiên](../E/Elves.md) của [Lindon](Lindon.md), người đã đồng hành cùng [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) khi ông cố gắng khôi phục Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-4" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
 
 ## Gailthin {#Gailthin}
 
@@ -83,11 +83,11 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Glanwen {#Glanwen}
 
-**Glanwen** là người huấn luyện thợ săn [Tiên](../E/Elven.md) ở Edhelion. Bà là thành viên trong công ty của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) đang cố gắng khôi phục Edhelion. Dorongúr Whitethorn gửi người chơi thợ săn đến gặp bà để ông ta có thể cải thiện kỹ năng của mình.<sup id="cite_ref-meditating_1-2" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
+**Glanwen** là người huấn luyện thợ săn [Tiên](../E/Elven.md) ở Edhelion. Bà là thành viên trong công ty của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) đang cố gắng khôi phục Edhelion. Dorongúr Whitethorn gửi người chơi thợ săn đến gặp bà để ông có thể cải thiện kỹ năng của mình.<sup id="cite_ref-meditating_1-2" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
 
 ## Grímr {#Grímr}
 
-**Grímr** là huấn luyện viên [Người Lùn](../D/Dwarves.md) và vô địch tại Tòa án của Frerin. Ông ta là thành viên của đại đội Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-5" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Ông ta đã tư vấn cho người chơi vô địch về hạng vô địch theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-0" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Grímr** là huấn luyện viên [Người Lùn](../D/Dwarves.md) và vô địch tại Tòa án của Frerin. Ông là thành viên của đại đội Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-5" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Ông đã tư vấn cho người chơi vô địch về hạng vô địch theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-0" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Grithur {#Grithur}
 
@@ -95,11 +95,11 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Haerendir {#Haerendir}
 
-**Haerendir** là một [Tiên](../E/Elves.md) đến từ Edhelion, trong Trận chiến Edhelion, ông ta đã bị giết bởi một [Yêu tinh](../O/Orcs.md). Người chơi đã lấy vũ khí của mình trong phần Giới thiệu để tự vệ trước [Dourhands](../D/Dourhands.md) và Goblin.<sup id="cite_ref-refuge_10-1" class="reference"><a href="#cite_note-refuge-10">[10]</a></sup>
+**Haerendir** là một [Tiên](../E/Elves.md) đến từ Edhelion, trong Trận chiến Edhelion, ông đã bị giết bởi một [Yêu tinh](../O/Orcs.md). Người chơi đã lấy vũ khí của mình trong phần Giới thiệu để tự vệ trước [Dourhands](../D/Dourhands.md) và Goblin.<sup id="cite_ref-refuge_10-1" class="reference"><a href="#cite_note-refuge-10">[10]</a></sup>
 
 ## Thanh đánh dấu {#Hithbar}
 
-**Hithbar** là một thợ làm áo giáp [Tiên](../E/Elves.md) bán áo giáp hạng trung. Trong phần Giới thiệu, người ta có thể tìm thấy ông ta ở một tiền đồn gần Edhelion<sup id="cite_ref-Ered_Luin_introduction_2-6" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> nhưng sau khi nỗ lực khôi phục Edhelion của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) không thành công, ông ta đã đến Duilond.<sup id="cite_ref-Ered_Luin_9-4" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Hithbar** là một thợ làm áo giáp [Tiên](../E/Elves.md) bán áo giáp hạng trung. Trong phần Giới thiệu, người ta có thể tìm thấy ông ở một tiền đồn gần Edhelion<sup id="cite_ref-Ered_Luin_introduction_2-6" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> nhưng sau khi nỗ lực khôi phục Edhelion của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) không thành công, ông đã đến Duilond.<sup id="cite_ref-Ered_Luin_9-4" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Laergil {#Laergil}
 
@@ -107,11 +107,11 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Lennasthrieln {#Lennasthrieln}
 
-**Lennasthrieln** là người huấn luyện [Tiên](../E/Elves.md) người giữ rune ở Edhelion trong buổi Giới thiệu. Cô đã tham gia vào nỗ lực khôi phục Edhelion thất bại, cô đã giúp đỡ người chơi thủ môn rune bằng cách dạy ông ta thêm về lớp học của mình theo yêu cầu của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md).<sup id="cite_ref-meditating_1-3" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
+**Lennasthrieln** là người huấn luyện [Tiên](../E/Elves.md) người giữ rune ở Edhelion trong buổi Giới thiệu. Cô đã tham gia vào nỗ lực khôi phục Edhelion thất bại, cô đã giúp đỡ người chơi thủ môn rune bằng cách dạy ông thêm về lớp học của mình theo yêu cầu của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md).<sup id="cite_ref-meditating_1-3" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
 
 ## Tội ác {#Malthendring}
 
-**Malthendring** là một [Tiên](../E/Elves.md) và là huấn luyện viên vô địch trong buổi Giới thiệu. Anh đã tham gia vào nỗ lực của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) nhằm khôi phục thành phố Tiên Edhelion. Người chơi vô địch được Dorongúr Whitethorn cử đến gặp ông ta để tìm hiểu thêm về kỹ năng của một nhà vô địch.<sup id="cite_ref-meditating_1-4" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
+**Malthendring** là một [Tiên](../E/Elves.md) và là huấn luyện viên vô địch trong buổi Giới thiệu. Anh đã tham gia vào nỗ lực của [Dorongúr Whitethorn](../D/Dorongúr_Whitethorn.md) nhằm khôi phục thành phố Tiên Edhelion. Người chơi vô địch được Dorongúr Whitethorn cử đến gặp ông để tìm hiểu thêm về kỹ năng của một nhà vô địch.<sup id="cite_ref-meditating_1-4" class="reference"><a href="#cite_note-meditating-1">[1]</a></sup>
 
 ## Sau đó {#Merethen}
 
@@ -131,7 +131,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Orodlin {#Orodlin}
 
-**Orodlin** là một [Tiên](../E/Elves.md) từ [Rivendell](../R/Rivendell.md) đã đi cùng [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) đến Cổng của Thorin, nơi ông ta được bố trí tại một tiền đồn gần Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-9" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Người Lùn](../D/Dwarves.md) <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông ta cử người chơi Tiên bên trong Silver Deep Mines để tiêu diệt một số Cave-claws, những người đang phá hủy đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-1" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup> Sau đó, ông ta quay trở lại Rivendell, nơi có thể tìm thấy ông ta ở chợ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+**Orodlin** là một [Tiên](../E/Elves.md) từ [Rivendell](../R/Rivendell.md) đã đi cùng [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) đến Cổng của Thorin, nơi ông được bố trí tại một tiền đồn gần Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-9" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Người Lùn](../D/Dwarves.md) <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông cử người chơi Tiên bên trong Silver Deep Mines để tiêu diệt một số Cave-claws, những người đang phá hủy đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-1" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup> Sau đó, ông quay trở lại Rivendell, nơi có thể tìm thấy ông ở chợ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 ## Thông tin {#Otur}
 
@@ -155,7 +155,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Selur {#Selur}
 
-**Selur** là một [Người Lùn](../D/Dwarves.md) trong Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-10" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Theo yêu cầu của <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông ta cử người chơi lùn vào trong Silver Deep Mines để tiêu diệt Cave-claws, những kẻ đang phá hủy vùng đất.<sup id="cite_ref-fear_of_collapse_3-2" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
+**Selur** là một [Người Lùn](../D/Dwarves.md) trong Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-10" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Theo yêu cầu của <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông cử người chơi lùn vào trong Silver Deep Mines để tiêu diệt Cave-claws, những kẻ đang phá hủy vùng đất.<sup id="cite_ref-fear_of_collapse_3-2" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
 
 ## Snorri {#Snorri}
 
@@ -175,15 +175,15 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Tryggwi {#Tryggwi}
 
-**Tryggwi** là [Người Lùn](../D/Dwarves.md) từ [Erebor](Lonely_Mountain.md). Ông ta là thành viên của đại đội [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đến Cổng Thorin. Ông ta là một trong những người bảo vệ của [Dwalin](../D/Dwalin.md).<sup id="cite_ref-Ered_Luin_9-13" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Tryggwi** là [Người Lùn](../D/Dwarves.md) từ [Erebor](Lonely_Mountain.md). Ông là thành viên của đại đội [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đến Cổng Thorin. Ông là một trong những người bảo vệ của [Dwalin](../D/Dwalin.md).<sup id="cite_ref-Ered_Luin_9-13" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Phim truyền hình {#Tvistur}
 
-**Tvistur** là một [Dourhand](../D/Dourhands.md) [Người Lùn](../D/Dwarves.md) và là thợ mỏ ở Silver Deep Mines. Ông ta phớt lờ quy tắc của [Longbeards](Longbeards.md) và khai thác để tìm kiếm di tích của Edhelion. Trong quá trình tìm kiếm, anh đã tìm thấy lối vào Halls of Edhelion nhưng vô tình giải thoát một [Troll đá](../T/Trolls.md); Tvistur quyết định chiến đấu với sinh vật đó nhưng đã bị giết.<sup id="cite_ref-into_the_silver_deep_17-1" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
+**Tvistur** là một [Dourhand](../D/Dourhands.md) [Người Lùn](../D/Dwarves.md) và là thợ mỏ ở Silver Deep Mines. Ông phớt lờ quy tắc của [Longbeards](Longbeards.md) và khai thác để tìm kiếm di tích của Edhelion. Trong quá trình tìm kiếm, anh đã tìm thấy lối vào Halls of Edhelion nhưng vô tình giải thoát một [Troll đá](../T/Trolls.md); Tvistur quyết định chiến đấu với sinh vật đó nhưng đã bị giết.<sup id="cite_ref-into_the_silver_deep_17-1" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
 
 ## Giải thích {#Unnarr}
 
-**Unnarr** là một người lùn đến từ [Erebor](Lonely_Mountain.md) và là đội trưởng đội bảo vệ tại Sảnh của Thorin.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Ông ta là thành viên của đại đội [Người Lùn](../D/Dwarves.md) được [Dwalin](../D/Dwalin.md) cử đi điều tra Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-13" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
+**Unnarr** là một người lùn đến từ [Erebor](Lonely_Mountain.md) và là đội trưởng đội bảo vệ tại Sảnh của Thorin.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Ông là thành viên của đại đội [Người Lùn](../D/Dwarves.md) được [Dwalin](../D/Dwalin.md) cử đi điều tra Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-13" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
 
 ## Thư viện hình ảnh {#Image_Gallery}
 

@@ -33,7 +33,7 @@ infobox:
 
 Tolkien chúc con trai ông gặp nhiều may mắn vào năm 1969. Ông báo cáo rằng thư viện của ông vẫn ổn định sau khi chuyển đi<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và gần như tất cả những thứ tưởng như đã mất (một số thậm chí có từ trước khi chuyển đi) đã được tìm lại.
 
-Một cuốn sách vẫn còn bị thất lạc là [Joe Wright](../J/Joseph_Wright.md) *Gothic Grammar*. Việc tình cờ có được tác phẩm này đã giúp Tolkien mở mang tầm mắt về "ngữ văn Đức". Nó đã góp phần khiến anh có kết quả học tập kém cỏi nhưng lại đưa anh đến gặp trực tiếp Joe già, người đã trở thành một người bạn và cố vấn tốt. Joe Wright đã có nền tảng Tolkien về ngữ văn Hy Lạp và Latinh. Tolkien nói rằng một "giám khảo thiên thần" đã cho ông ta điểm α+ môn Ngữ văn Hy Lạp và điều đó đã cứu lấy thịt xông khói của ông ta, cuối cùng cho phép ông ta chuyển sang "tiếng Anh" khi ông ta không hề thích tiếng Anh.
+Một cuốn sách vẫn còn bị thất lạc là [Joe Wright](../J/Joseph_Wright.md) *Gothic Grammar*. Việc tình cờ có được tác phẩm này đã giúp Tolkien mở mang tầm mắt về "ngữ văn Đức". Nó đã góp phần khiến anh có kết quả học tập kém cỏi nhưng lại đưa anh đến gặp trực tiếp Joe già, người đã trở thành một người bạn và cố vấn tốt. Joe Wright đã có nền tảng Tolkien về ngữ văn Hy Lạp và Latinh. Tolkien nói rằng một "giám khảo thiên thần" đã cho ông điểm α+ môn Ngữ văn Hy Lạp và điều đó đã cứu lấy thịt xông khói của ông, cuối cùng cho phép ông chuyển sang "tiếng Anh" khi ông không hề thích tiếng Anh.
 
 Tolkien đề cập đến việc anh bị viêm khớp nặng ở tay trái, điều này không thể tha thứ cho chữ viết nguệch ngoạc của anh vì tay phải của anh không bị ảnh hưởng.
 

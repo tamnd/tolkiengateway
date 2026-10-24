@@ -49,7 +49,7 @@ Trong suốt quá trình quay phim, ông hoàn toàn nhập vai và chỉ sau kh
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Điều khiến tôi hào hứng khi làm Grima Wormtongue là khi còn trẻ, tôi đã trải qua một khoảng thời gian ở trường nội trú và được chọn rất nhiều. Và có điều gì đó ở Grima, ông đã bị bắt nạt khi còn nhỏ, ông (Grima) rất không tin tưởng, ông rất dễ bị hư hỏng, ông quá xấu xí và ông muốn ai đó, ông muốn yêu ai đó, nhưng ông không thể, bởi vì sẽ không có ai có được ông.
 </p>
-<p class="tg-quote-footer"><cite>Brad Dourif,  ICON 20, March 31st, 2001</cite></p>
+<p class="tg-quote-footer"><cite>Brad Dourif, ICON 20, March 31st, 2001</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Giải thưởng {#Awards}

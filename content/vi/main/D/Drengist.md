@@ -49,7 +49,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-[Fëanor](../F/Fëanor.md) và [Noldor](../N/Noldor.md) đổ bộ xuống vịnh hẹp Drengist, và tàu của họ bị đốt cháy tại [Losgar](../L/Losgar.md), nằm ở cửa ra vịnh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Từ đó, Fëanor và vật chủ của ông ta đâm vào [Hithlum](../H/Hithlum.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nhiều năm sau, cuộc tấn công đầu tiên [của [Morgoth](../M/Morgoth.md) vào Hithlum](../A/Assaults_on_Hithlum.md) đã bị phản công tại đây bởi [Fingolfin](../F/Fingolfin.md), lái Orc xuống biển.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-GA115_5-0" class="reference"><a href="#cite_note-GA115-5">[5]</a></sup>
+[Fëanor](../F/Fëanor.md) và [Noldor](../N/Noldor.md) đổ bộ xuống vịnh hẹp Drengist, và tàu của họ bị đốt cháy tại [Losgar](../L/Losgar.md), nằm ở cửa ra vịnh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Từ đó, Fëanor và vật chủ của ông đâm vào [Hithlum](../H/Hithlum.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nhiều năm sau, cuộc tấn công đầu tiên [của [Morgoth](../M/Morgoth.md) vào Hithlum](../A/Assaults_on_Hithlum.md) đã bị phản công tại đây bởi [Fingolfin](../F/Fingolfin.md), lái Orc xuống biển.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-GA115_5-0" class="reference"><a href="#cite_note-GA115-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

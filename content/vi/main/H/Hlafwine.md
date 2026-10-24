@@ -43,7 +43,7 @@ Hlafwine là tác phẩm độc đáo dành cho phim *[The Lord of the Rings: Th
 
 ## Lịch sử {#History}
 
-Hlafwine là [Người](../R/Rohirrim.md) của [Rohan](../R/Rohan.md) trong [Kỷ Đệ Tam](../T/Third_Age.md). Ông ta làm nông dân ở một ngôi làng.
+Hlafwine là [Người](../R/Rohirrim.md) của [Rohan](../R/Rohan.md) trong [Kỷ Đệ Tam](../T/Third_Age.md). Ông làm nông dân ở một ngôi làng.
 
 Dự đoán trước một cuộc tấn công vào thủ đô [Edoras](../E/Edoras.md), [Théoden](../T/Théoden.md) [Vua](../K/King_of_Rohan.md) cùng Rohirrim bỏ chạy đến pháo đài [thủ đô Hornburg](Hornburg.md) ở [Helm's Deep](Helm's_Deep.md). Khi [Aragorn](../A/Aragorn.md) báo cáo rằng [Saruman phe Trắng](../S/Saruman.md) đã cử một lực lượng hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) tấn công Hornburg, Théoden đã ra lệnh cho mọi người đàn ông và chàng trai khỏe mạnh có khả năng cầm vũ khí chuẩn bị cho trận chiến. Nhiều người đàn ông lớn tuổi đã chuẩn bị nhưng Hlafwine đã quá già, thậm chí so với tiêu chuẩn được hạ thấp của Théoden. Để hỗ trợ, Hlafwine thay vào đó đã chuẩn bị bữa ăn cho những người bảo vệ pháo đài.
 

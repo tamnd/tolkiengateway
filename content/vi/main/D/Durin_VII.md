@@ -96,7 +96,7 @@ Một tài khoản khác nói rằng *Durinn* là một trong những Người L
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thân vương Durin là con trai của Vua <a href="../T/Thorin_Stonehelm.md" title="Thorin Stonehelm">Thorin III Stonehelm</a>. Trong cốt truyện của trò chơi, Người Lùn khác đã được đặt cái tên đó nhưng được chứng minh không phải là Cha của Longbeards được trả về, vì vậy một phần động lực chính của ông là chứng minh liệu ông thực sự là hay sẽ là Durin VII.</dd></dl>
 
@@ -107,7 +107,7 @@ Một tài khoản khác nói rằng *Durinn* là một trong những Người L
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Việc nhắc đến tên Durin như một lời tiên tri trong <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, và cho rằng Phụ lục bắt nguồn từ <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Sách Đỏ</a> (sao chép <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a href="../F/Fourth_Age_171.md" title="Fourth Age 171">171</a>), dường như gợi ý rằng ông ta có thể được sinh ra hoặc xuất hiện sau ngày đó.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Việc nhắc đến tên Durin như một lời tiên tri trong <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, và cho rằng Phụ lục bắt nguồn từ <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Sách Đỏ</a> (sao chép <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a href="../F/Fourth_Age_171.md" title="Fourth Age 171">171</a>), dường như gợi ý rằng ông có thể được sinh ra hoặc xuất hiện sau ngày đó.</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Một phiên bản thay thế của cây phả hệ <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a> cho rằng Durin VII là con trai của Thorin III.</span>
 </li>

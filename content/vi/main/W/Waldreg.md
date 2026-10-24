@@ -43,9 +43,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Waldreg đã bí mật tôn thờ [Sauron](../S/Sauron.md) và mong muốn được trở lại [Trung Địa](../M/Middle-earth.md). Dưới sự hướng dẫn của [Adar](<../A/Adar_(The_Rings_of_Power).md>), ông ta đã kích hoạt một cơ chế tại [Tháp canh Ostirith](Watchtower_of_Ostirith.md), khiến một dòng nước lũ chảy vào núi lửa [Orodruin](../M/Mount_Doom.md). Kết quả là núi lửa phun trào, phá hủy Southlands và tạo ra vùng đất [Mordor](../M/Mordor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Waldreg đã bí mật tôn thờ [Sauron](../S/Sauron.md) và mong muốn được trở lại [Trung Địa](../M/Middle-earth.md). Dưới sự hướng dẫn của [Adar](<../A/Adar_(The_Rings_of_Power).md>), ông đã kích hoạt một cơ chế tại [Tháp canh Ostirith](Watchtower_of_Ostirith.md), khiến một dòng nước lũ chảy vào núi lửa [Orodruin](../M/Mount_Doom.md). Kết quả là núi lửa phun trào, phá hủy Southlands và tạo ra vùng đất [Mordor](../M/Mordor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Waldreg sau đó đã chế nhạo một Sauron bị giam giữ, người mà ông ta tin là [Halbrand](../H/Halbrand.md). Sau khi rời khỏi Sauron với một [Warg](Wargs.md), Sauron nói chuyện với Warg bằng cách sử dụng [Hắc Ngữ](../B/Black_Speech.md) và ra lệnh cho nó giết Waldreg. Ông già sau đó đã bị Warg ăn thịt.
+Waldreg sau đó đã chế nhạo một Sauron bị giam giữ, người mà ông tin là [Halbrand](../H/Halbrand.md). Sau khi rời khỏi Sauron với một [Warg](Wargs.md), Sauron nói chuyện với Warg bằng cách sử dụng [Hắc Ngữ](../B/Black_Speech.md) và ra lệnh cho nó giết Waldreg. Ông già sau đó đã bị Warg ăn thịt.
 
 <span></span>
 

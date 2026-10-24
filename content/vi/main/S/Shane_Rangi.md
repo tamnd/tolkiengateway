@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Rangi, Shane"
 ---
 
-**Shane Rangi** ([Ngày 3 tháng 2](../_/3_February.md), [1969](../_/1969.md)) là một diễn viên đóng thế sinh ra New Zealand và đã đóng nhiều vai khác nhau trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Ông ta được ghi nhận là [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) trong [The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md), "Harad Thủ lĩnh 2" trong [The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) và là thủ lĩnh của bộ phận đóng thế, nhưng dường như không được công nhận là binh sĩ của tất cả các phe phái.
+**Shane Rangi** ([Ngày 3 tháng 2](../_/3_February.md), [1969](../_/1969.md)) là một diễn viên đóng thế sinh ra New Zealand và đã đóng nhiều vai khác nhau trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Ông được ghi nhận là [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) trong [The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md), "Harad Thủ lĩnh 2" trong [The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) và là thủ lĩnh của bộ phận đóng thế, nhưng dường như không được công nhận là binh sĩ của tất cả các phe phái.
 
 ## Liên kết ngoài {#External_links}
 

@@ -97,7 +97,7 @@ Họ nổi tiếng là những người làm bánh tài giỏi, đặc biệt da
 
 <dl><dd>Beorn kể cho <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin và Đoàn tùy tùng</a> rằng trong quá khứ Azog đã săn lùng ông và người của ông để giải trí và kết quả là chỉ còn lại rất ít đồng loại của ông. Đó là một trong những động lực chính của ông để giúp đỡ họ trong <a href="../Q/Quest_of_Erebor.md" title="Quest of Erebor">Nhiệm vụ của họ</a>.</dd></dl>
 
-**2014: [The Lord of the Rings Trực tuyến](../T/The_Lord_of_the_Rings_Online.md):**
+**2014: [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md):**
 
 <dl><dd>Tổ tiên của Beornings đã được dạy nghệ thuật <a href="../S/Skin-changers.md" title="Skin-changers">thay đổi làn da</a> như một món quà của <a href="../R/Radagast.md" title="Radagast">Radagast</a> Brown, "bậc thầy về hình dạng và màu sắc". Những kẻ ác ghen tị với món quà này đã bắt một người thay da và tra tấn ông cho đến khi ông tiết lộ bí mật. Nghe tin, Radagast đau buồn và đổi món quà để không thể dạy được nữa mà chỉ truyền lại cho con cháu. Nhưng hai bộ tộc <a class="mw-redirect" href="../S/Skin-changer.md" title="Skin-changer">Người thay da</a> mới - "Gauredain", người sói và "Ungoledain", người nhện, - vẫn tồn tại và vẫn là kẻ thù cay đắng nhất của Beornings, thậm chí còn hơn cả <a class="mw-redirect" href="../G/Goblins.md" title="Goblins">yêu tinh</a>.</dd></dl>
 

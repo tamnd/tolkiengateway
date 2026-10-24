@@ -51,7 +51,7 @@ Trong một phiên bản lịch sử của Galadriel và Celeborn, con trai [Amr
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cái tên "Emyn Uial" được đặt cho toàn bộ khu vực phía tây <a href="../L/Lake_Evendim.md" title="Lake Evendim">Hồ Evendim</a>. Nửa phía bắc của nó được bao phủ bởi những ngọn đồi và khe núi có rừng, nhưng nửa phía nam hẹp hơn và bằng phẳng hơn.</dd></dl>
 

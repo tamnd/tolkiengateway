@@ -49,7 +49,7 @@ Cuối năm đó, Đại Bàng xuất hiện nhiều giờ trong [Trận chiến
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo đầu tiên của chương "[Từ chảo rán vào lửa](../O/Out_of_the_Frying-Pan_into_the_Fire.md)", Đại bàng lớn được gọi là " **chúa tể đại bàng**" và " **[Chúa tể Đại Bàng](../L/Lord_of_Eagles.md)**" trong khi vết thương do mũi tên của ông được cho là xuất phát từ mũi tên của yêu tinh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong bản thảo đầu tiên của chương "[Queer Nhà nghỉ](../Q/Queer_Lodgings.md)", danh hiệu của Đại bàng vĩ đại đã được đổi thành [Chúa tể Đại Bàng](../L/Lord_of_the_Eagles.md) và ông ta được trao danh hiệu **vua của mọi loài chim**.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong bản thảo đầu tiên của chương "[Từ chảo rán vào lửa](../O/Out_of_the_Frying-Pan_into_the_Fire.md)", Đại bàng lớn được gọi là " **chúa tể đại bàng**" và " **[Chúa tể Đại Bàng](../L/Lord_of_Eagles.md)**" trong khi vết thương do mũi tên của ông được cho là xuất phát từ mũi tên của yêu tinh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong bản thảo đầu tiên của chương "[Queer Nhà nghỉ](../Q/Queer_Lodgings.md)", danh hiệu của Đại bàng vĩ đại đã được đổi thành [Chúa tể Đại Bàng](../L/Lord_of_the_Eagles.md) và ông được trao danh hiệu **vua của mọi loài chim**.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -73,7 +73,7 @@ Trong bản thảo đầu tiên của chương "[Từ chảo rán vào lửa](..
 
 ## Suy đoán {#Speculation}
 
-Người ta thường cho rằng Đại bàng lớn là cùng một cá thể với [Gwaihir](Gwaihir.md), tuy nhiên nhiều khả năng chúng không phải là cùng một cá thể. Trong số một số điểm phân biệt hai loài này, Đại bàng lớn được đề cập là đội vương miện sau *[The Hobbit](../T/The_Hobbit.md)* nhưng không có vương miện nào được đề cập với Gwaihir trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Hơn nữa, Gandalf nói rằng ông ta đã được Gwaihir mang theo ba lần, bao gồm cả việc đi theo [Trận Morannon](../B/Battle_of_the_Morannon.md),<sup id="cite_ref-RKVI4_7-0" class="reference"><a href="#cite_note-RKVI4-7">[7]</a></sup> trong khi con số sẽ ít nhất là năm nếu Gwaihir và Chúa tể của Đại Bàng là một.
+Người ta thường cho rằng Đại bàng lớn là cùng một cá thể với [Gwaihir](Gwaihir.md), tuy nhiên nhiều khả năng chúng không phải là cùng một cá thể. Trong số một số điểm phân biệt hai loài này, Đại bàng lớn được đề cập là đội vương miện sau *[The Hobbit](../T/The_Hobbit.md)* nhưng không có vương miện nào được đề cập với Gwaihir trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Hơn nữa, Gandalf nói rằng ông đã được Gwaihir mang theo ba lần, bao gồm cả việc đi theo [Trận Morannon](../B/Battle_of_the_Morannon.md),<sup id="cite_ref-RKVI4_7-0" class="reference"><a href="#cite_note-RKVI4-7">[7]</a></sup> trong khi con số sẽ ít nhất là năm nếu Gwaihir và Chúa tể của Đại Bàng là một.
 
 Cũng có thể Đại bàng vĩ đại là [Thorondor](../T/Thorondor.md),<sup id="cite_ref-speculation_8-0" class="reference"><a href="#cite_note-speculation-8">[8]</a></sup> cũng mang danh hiệu [Chúa tể của Đại Bàng](../L/Lord_of_the_Eagles.md).
 

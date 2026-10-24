@@ -38,7 +38,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_Beren&#39;s_Trial.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/250px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg" decoding="async" loading="lazy" width="250" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/375px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg/500px-Anke_Ei%C3%9Fmann_-_Beren%27s_Trial.jpeg 2x" data-file-width="855" data-file-height="490"/></a><figcaption><i>Beren&#39;s Trial</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
-[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này lần đầu tiên nói về [Beren](../B/Beren.md) và niềm hạnh phúc của ông. Sau đó, nó kể về sự trở lại của [Lúthien](Lúthien.md) và buổi khiêu vũ của họ, cũng như việc [Dairon](../D/Daeron.md) đã theo dõi họ như thế nào, và vì yêu Lúthien nên ông đã phản bội họ để theo [Thingol](../T/Thingol.md). Vậy thì Lúthien đã dẫn Beren vào [Menegroth](../M/Menegroth.md) như thế nào sau khi Thingol hứa với cô rằng mạng sống của ông ta sẽ được tha. Tại đó, ông ta yêu cầu bàn tay của Lúthien, và Thingol, vì ông ta bị ràng buộc bởi lời thề không làm hại Beren, trong cơn thịnh nộ, ông ta đã đưa ra giá cô dâu là [Silmaril](../S/Silmarils.md). Sau đó Beren cười như chuyện nhỏ rồi rời khỏi hội trường với lời hứa sẽ mang một người về. Canto thứ tư này có thể được coi là sự khởi đầu thực sự của [Nhiệm vụ](../Q/Quest_for_the_Silmaril.md).
+[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này lần đầu tiên nói về [Beren](../B/Beren.md) và niềm hạnh phúc của ông. Sau đó, nó kể về sự trở lại của [Lúthien](Lúthien.md) và buổi khiêu vũ của họ, cũng như việc [Dairon](../D/Daeron.md) đã theo dõi họ như thế nào, và vì yêu Lúthien nên ông đã phản bội họ để theo [Thingol](../T/Thingol.md). Vậy thì Lúthien đã dẫn Beren vào [Menegroth](../M/Menegroth.md) như thế nào sau khi Thingol hứa với cô rằng mạng sống của ông sẽ được tha. Tại đó, ông yêu cầu bàn tay của Lúthien, và Thingol, vì ông bị ràng buộc bởi lời thề không làm hại Beren, trong cơn thịnh nộ, ông đã đưa ra giá cô dâu là [Silmaril](../S/Silmarils.md). Sau đó Beren cười như chuyện nhỏ rồi rời khỏi hội trường với lời hứa sẽ mang một người về. Canto thứ tư này có thể được coi là sự khởi đầu thực sự của [Nhiệm vụ](../Q/Quest_for_the_Silmaril.md).
 
 ## Về Canto {#Concerning_the_Canto}
 
@@ -77,7 +77,7 @@ hai người yêu nhau nhảy múa ngọt ngào
 <p class="tg-quote-footer"><cite>vv. 840-845</cite></p>
 </blockquote>
 
-Và đầu tiên ông ta làm phép khiến khu rừng im lặng, đồng thời đưa ra gợi ý cho Thingol về cuộc gặp.
+Và đầu tiên ông làm phép khiến khu rừng im lặng, đồng thời đưa ra gợi ý cho Thingol về cuộc gặp.
 
 <blockquote class="tg-quote noexcerpt">
 <p>'nhưng các vị vua không nhìn thấy—mặc dù có thể là các nữ hoàng,<br/>
@@ -87,7 +87,7 @@ Một người đã đi đâu, hai người cô đơn bây giờ hãy đi!'
 <p class="tg-quote-footer"><cite>vv. 917-919</cite></p>
 </blockquote>
 
-Vua nhanh chóng hiểu ý của ông ta và trở nên tức giận.
+Vua nhanh chóng hiểu ý của ông và trở nên tức giận.
 
 <blockquote class="tg-quote noexcerpt">
 <p>'...Ông là ai<br/>
@@ -121,7 +121,7 @@ của Beren con trai của Barahir!'
 <p class="tg-quote-footer"><cite>vv. 942-945</cite></p>
 </blockquote>
 
-Lúthien đã Thingol thề không giết hoặc bỏ tù Beren, rồi dẫn ông ta vào trong Menegroth. Tiếp theo là phần mô tả sinh động (xem *[Menegroth](../M/Menegroth.md)*). Beren quá choáng váng để trả lời bất kỳ câu hỏi nào, cho đến khi anh nhìn vào mắt Melian và lấy hết can đảm.
+Lúthien đã Thingol thề không giết hoặc bỏ tù Beren, rồi dẫn ông vào trong Menegroth. Tiếp theo là phần mô tả sinh động (xem *[Menegroth](../M/Menegroth.md)*). Beren quá choáng váng để trả lời bất kỳ câu hỏi nào, cho đến khi anh nhìn vào mắt Melian và lấy hết can đảm.
 
 <blockquote class="tg-quote noexcerpt">
 <p>...và từ đó ánh mắt anh dần dần bị thu hút<br/>
@@ -147,7 +147,7 @@ Ngươi có một đứa con gái, Lúthien.'
 <p class="tg-quote-footer"><cite>vv. 1050-1055</cite></p>
 </blockquote>
 
-Cơn giận ban đầu của Daeron quay trở lại và ông ta đòi tử hình cho Beren. Thingol miễn cưỡng kiềm chế vì lời hứa với con gái, đồng thời dọa sẽ để ông ta lang thang vô định trong Menegroth, không bao giờ tìm được đường ra khỏi hang. Beren công khai so sánh ông ta với Morgoth trong lời tuyên thệ vặn vẹo, và giơ cao [Nhẫn Barahir](../R/Ring_of_Barahir.md). Melian thì thầm với Thingol rằng nó sẽ không rơi vào tay anh Beren sẽ rơi, và Thingol khi đó mới thấy được tình yêu của Lúthien dành cho anh.
+Cơn giận ban đầu của Daeron quay trở lại và ông đòi tử hình cho Beren. Thingol miễn cưỡng kiềm chế vì lời hứa với con gái, đồng thời dọa sẽ để ông lang thang vô định trong Menegroth, không bao giờ tìm được đường ra khỏi hang. Beren công khai so sánh ông với Morgoth trong lời tuyên thệ vặn vẹo, và giơ cao [Nhẫn Barahir](../R/Ring_of_Barahir.md). Melian thì thầm với Thingol rằng nó sẽ không rơi vào tay anh Beren sẽ rơi, và Thingol khi đó mới thấy được tình yêu của Lúthien dành cho anh.
 
 <blockquote class="tg-quote noexcerpt">
 <p>'Đẹp nhất Tiên tộc! Không vui Con Người,<br/>

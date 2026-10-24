@@ -37,7 +37,7 @@ infobox:
 
 MỘT CUỘC PHIÊU LƯU CHƠI VAI TRÒ TUYỆT VỜI dựa trên J.R.R. TRUNG ĐỊA CỦA TOLKIEN
 
-Thời gian ngay trước Cuộc chiến Nhẫn. The Shire đang gặp nguy hiểm trầm trọng. Bạn đang ngồi trong Prancing Pony tại Bree thì một người lạ cao lớn, đội mũ trùm đầu ra hiệu cho bạn tham gia cùng ông ta trong bóng tối ở phía sau quán trọ. Người đàn ông được gọi là Strider đưa ra trước mặt bạn một đề xuất nguy hiểm nhưng quan trọng: cảnh báo Hobbit của Shire về sự xuất hiện sắp xảy ra của Kỵ sĩ Đen, những linh hồn ma quỷ hung dữ đe dọa mọi người dân tốt. Bạn có thể hoàn thành nhiệm vụ và vượt qua Brandywine để cảnh báo Hobbit kịp thời không? Một cuộc phiêu lưu nhập vai nơi bạn kiểm soát vận mệnh của mình!
+Thời gian ngay trước Cuộc chiến Nhẫn. The Shire đang gặp nguy hiểm trầm trọng. Bạn đang ngồi trong Prancing Pony tại Bree thì một người lạ cao lớn, đội mũ trùm đầu ra hiệu cho bạn tham gia cùng ông trong bóng tối ở phía sau quán trọ. Người đàn ông được gọi là Strider đưa ra trước mặt bạn một đề xuất nguy hiểm nhưng quan trọng: cảnh báo Hobbit của Shire về sự xuất hiện sắp xảy ra của Kỵ sĩ Đen, những linh hồn ma quỷ hung dữ đe dọa mọi người dân tốt. Bạn có thể hoàn thành nhiệm vụ và vượt qua Brandywine để cảnh báo Hobbit kịp thời không? Một cuộc phiêu lưu nhập vai nơi bạn kiểm soát vận mệnh của mình!
 
 - Chọn ký tự sẵn sàng chạy
 - Tạo nhân vật của riêng bạn bằng hệ thống QuestGame

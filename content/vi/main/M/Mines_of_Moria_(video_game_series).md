@@ -25,7 +25,7 @@ images:
 
 ## Tóm tắt {#Synopsis}
 
-[Feagwaith](../F/Feagwaith.md), một người đàn ông của [Gondor](../G/Gondor.md), đi vào khu mỏ của Moria để tìm một phần của *[Mithril](Mithril.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-El_Anillo_3-0" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup> Trong phần thứ hai của bộ ba phim, ông ta phải tìm đường thoát khỏi Moria.<sup id="cite_ref-El_Anillo_3-1" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Phần cuối không diễn ra ở [Moria](Moria.md) mà kể về chuyến hành trình của Feagwaith trở về quê hương, Gondor.<sup id="cite_ref-El_Anillo_3-2" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Feagwaith](../F/Feagwaith.md), một người đàn ông của [Gondor](../G/Gondor.md), đi vào khu mỏ của Moria để tìm một phần của *[Mithril](Mithril.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-El_Anillo_3-0" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup> Trong phần thứ hai của bộ ba phim, ông phải tìm đường thoát khỏi Moria.<sup id="cite_ref-El_Anillo_3-1" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Phần cuối không diễn ra ở [Moria](Moria.md) mà kể về chuyến hành trình của Feagwaith trở về quê hương, Gondor.<sup id="cite_ref-El_Anillo_3-2" class="reference"><a href="#cite_note-El_Anillo-3">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

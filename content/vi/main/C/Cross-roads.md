@@ -72,7 +72,7 @@ Trong văn bản có nói rằng bức tượng Vị Vua Sa Ngã có một bộ 
 		</li>
 </ul>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ngã Tư tồn tại ở cả phiên bản trước trận chiến và sau<a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a> của <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>. Trong quá trình <a href="../A/Army_of_the_West.md" title="Army of the West">Đội quân Phương Tây</a> đi qua, người chơi tham gia vào việc trùng tu bức tượng.</dd></dl>
 

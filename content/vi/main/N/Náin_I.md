@@ -73,7 +73,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong thời gian của ông, [Người Lùn](../D/Dwarves.md) [dân tộc Durin](../D/Durin's_folk.md) sống ở [Khazad-dûm](../M/Moria.md), nhưng đã thức tỉnh một [Balrog](../B/Balrog.md). Balrog đã giết cha của Náin và sau đó được biết đến với cái tên [Tai họa của Durin](../D/Durin's_Bane.md). Náin chỉ cai trị trong một năm, cố gắng chống lại Balrog nhưng ngay sau đó ông ta cũng phát hiện ra cái chết của mình vào [1981](../T/Third_Age_1981.md), là Vua thực sự cuối cùng của [Khazad-dûm](../M/Moria.md) cho đến [Durin VII](../D/Durin_VII.md) trong [Kỷ Đệ Tứ](../F/Fourth_Age.md).
+Trong thời gian của ông, [Người Lùn](../D/Dwarves.md) [dân tộc Durin](../D/Durin's_folk.md) sống ở [Khazad-dûm](../M/Moria.md), nhưng đã thức tỉnh một [Balrog](../B/Balrog.md). Balrog đã giết cha của Náin và sau đó được biết đến với cái tên [Tai họa của Durin](../D/Durin's_Bane.md). Náin chỉ cai trị trong một năm, cố gắng chống lại Balrog nhưng ngay sau đó ông cũng phát hiện ra cái chết của mình vào [1981](../T/Third_Age_1981.md), là Vua thực sự cuối cùng của [Khazad-dûm](../M/Moria.md) cho đến [Durin VII](../D/Durin_VII.md) trong [Kỷ Đệ Tứ](../F/Fourth_Age.md).
 
 Dưới sự chỉ đạo của con trai ông [Thráin](../T/Thráin_I.md), [người dân Durin](../D/Durin's_folk.md) đã trốn khỏi quê hương của tổ tiên họ để đến nơi an toàn ở [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md) và [Dãy Núi Xám](../G/Grey_Mountains.md).<sup id="cite_ref-Durin_1-1" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
 
@@ -102,7 +102,7 @@ Dưới sự chỉ đạo của con trai ông [Thráin](../T/Thráin_I.md), [ng�
 
 <dl><dd>Dòng chữ viết trên tường của <a href="../C/Chamber_of_Mazarbul.md" title="Chamber of Mazarbul"> Phòng Mazarbul</a> là dòng chữ <a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a> dịch sang "<a href="../D/Durin_VI.md" title="Durin VI">Durin</a> bị giết bởi <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a>, và Náin con trai của Durin, Tai họa của Durin cũng đã giết ông".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Thân vương Náin xuất hiện trong quá trình <a href="../M/Moria.md" title="Moria">Moria</a> rơi xuống <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a>, trong đó anh trở thành Vua sau khi cha anh <a href="../D/Durin_VI.md" title="Durin VI">Durin VI</a> bị giết. Bên trong <a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a>, có thể tìm thấy tàn tích của Cung điện Nain, được xây dựng trong thời gian trị vì một năm ngắn ngủi của ông.</dd></dl>
 

@@ -88,7 +88,7 @@ Nó nằm ở phần trung tâm của [Dãy Núi Sương Mù](Misty_Mountains.md
 
 ### Ngày của người cao tuổi {#Elder_Days}
 
-Nó được thành lập vào thời xa xưa bởi [Durin](../D/Durin_I.md), người thức dậy lúc [Mount Gundabad](../G/Gundabad.md) ở [Dãy Núi Sương Mù](Misty_Mountains.md). Ông ta đến thung lũng [Azanulbizar](../A/Azanulbizar.md) bên dưới dãy núi. Anh nhìn vào một hồ nước lung linh và thấy [vương miện của các ngôi sao](../D/Durin's_Crown.md) phản chiếu trên mặt nước. Ông đặt tên cho hồ đó là [Kheled-zâram](../K/Kheled-zâram.md), [Mirrormere](Mirrormere.md) và nó vẫn là một nơi được tôn kính trong số Người Lùn tất cả các ngôi nhà kể từ đó, và [Hòn đá Durin](../D/Durin's_Stone.md) đã được dựng lên tại địa điểm diễn ra sự kiện đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nó được thành lập vào thời xa xưa bởi [Durin](../D/Durin_I.md), người thức dậy lúc [Mount Gundabad](../G/Gundabad.md) ở [Dãy Núi Sương Mù](Misty_Mountains.md). Ông đến thung lũng [Azanulbizar](../A/Azanulbizar.md) bên dưới dãy núi. Anh nhìn vào một hồ nước lung linh và thấy [vương miện của các ngôi sao](../D/Durin's_Crown.md) phản chiếu trên mặt nước. Ông đặt tên cho hồ đó là [Kheled-zâram](../K/Kheled-zâram.md), [Mirrormere](Mirrormere.md) và nó vẫn là một nơi được tôn kính trong số Người Lùn tất cả các ngôi nhà kể từ đó, và [Hòn đá Durin](../D/Durin's_Stone.md) đã được dựng lên tại địa điểm diễn ra sự kiện đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Ở đó, trong những hang động phía trên, Durin và [người của ông](../L/Longbeards.md) bắt đầu đào và xây dựng [Cổng Lớn](../G/Great_Gates.md) của Khazad-dûm, và [Sảnh đầu tiên](../F/First_Hall.md) dẫn đến một [cây cầu bắc qua một vực sâu](../B/Bridge_of_Khazad-dûm.md). Từ đó bắt đầu mở rộng, cả lên *Levels* ở trên và *Deeps* ở dưới, đồng thời mở rộng các mỏ ra khỏi khu vực dân cư của thành phố.
 
@@ -136,7 +136,7 @@ Tại một thời điểm nào đó trước hoặc sau thuộc địa, [Aragor
 
 <h4><span id="The_Fellowship.27s_passage"></span><span class="mw-headline" id="The_Fellowship&#39;s_passage">Đoạn văn của học bổng</span></h4>
 
-Khi [Frodo Baggins](../F/Frodo_Baggins.md) khởi hành từ [Rivendell](../R/Rivendell.md) với [Học bổng](../F/Fellowship_of_the_Ring.md), ban đầu họ dự định đi du lịch qua Dãy Núi Sương Mù. Khi họ bị chặn lại bởi tuyết dày trên [Núi Caradhras](../C/Caradhras.md), họ thấy mình bị sói và Orc truy đuổi và bỏ chạy vào Moria để đi xuống dưới những ngọn núi. Ở đó, họ tìm thấy nhật ký của Balin trong [Sách Mazarbul](../B/Book_of_Mazarbul.md) và biết được số phận chuyến thám hiểm của anh. Sau đó, họ bị tấn công bởi một loạt [Troll](../T/Trolls.md) và Orc, và họ phát hiện ra rằng nỗi kinh hoàng trên thực tế là một [Balrog](../B/Balrogs.md) của [Morgoth](Morgoth.md). Gandalf đã chiến đấu với Balrog trên một cây cầu hẹp và đã phá hủy thành công một đoạn cầu khiến Balrog rơi xuống. Khi nó rơi xuống, Balrog dùng dây roi quấn vào chân Gandalf và kéo ông ta theo sau, khiến cả hai lao xuống vực thẳm được bắc qua cây cầu. Những người còn lại của Fellowship đã trốn thoát được Moria và đến được [Lórien](../L/Lothlórien.md) hầu như không hề hấn gì.
+Khi [Frodo Baggins](../F/Frodo_Baggins.md) khởi hành từ [Rivendell](../R/Rivendell.md) với [Học bổng](../F/Fellowship_of_the_Ring.md), ban đầu họ dự định đi du lịch qua Dãy Núi Sương Mù. Khi họ bị chặn lại bởi tuyết dày trên [Núi Caradhras](../C/Caradhras.md), họ thấy mình bị sói và Orc truy đuổi và bỏ chạy vào Moria để đi xuống dưới những ngọn núi. Ở đó, họ tìm thấy nhật ký của Balin trong [Sách Mazarbul](../B/Book_of_Mazarbul.md) và biết được số phận chuyến thám hiểm của anh. Sau đó, họ bị tấn công bởi một loạt [Troll](../T/Trolls.md) và Orc, và họ phát hiện ra rằng nỗi kinh hoàng trên thực tế là một [Balrog](../B/Balrogs.md) của [Morgoth](Morgoth.md). Gandalf đã chiến đấu với Balrog trên một cây cầu hẹp và đã phá hủy thành công một đoạn cầu khiến Balrog rơi xuống. Khi nó rơi xuống, Balrog dùng dây roi quấn vào chân Gandalf và kéo ông theo sau, khiến cả hai lao xuống vực thẳm được bắc qua cây cầu. Những người còn lại của Fellowship đã trốn thoát được Moria và đến được [Lórien](../L/Lothlórien.md) hầu như không hề hấn gì.
 
 Fellowship không hề hay biết, cả Gandalf và Balrog đều sống sót sau cú rơi và chiến đấu một trận ác liệt từ độ sâu Moria đến những ngọn núi phía trên, phá hủy đỉnh [Cầu thang vô tận](../E/Endless_Stair.md) huyền thoại và một phần của đỉnh núi xung quanh trong quá trình này. Gandalf ném chiếc Balrog xuống sườn núi và sống đủ lâu để nhìn nó chết, nhưng câu chuyện của anh vẫn chưa kết thúc.
 
@@ -144,7 +144,7 @@ Trong khi Gandalf đã hạ gục Balrog, Moria vẫn là nơi sinh sống của
 
 ### Lịch sử sau này {#Later_history}
 
-Mặc dù có rất ít thông tin được cung cấp, nhưng việc chiếm lại Khazad-dûm của [Durin VII](../D/Durin_VII.md) dường như đã xảy ra sau [Kỷ Đệ Tứ](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup> Với tư cách là [Vua của Dân tộc Durin](../K/King_of_Durin's_Folk~7047.md), ông ta đã dẫn đầu cuộc quay trở lại thành phố lần cuối. Ông đã thành công; [Gia tộc Durin](../H/House_of_Durin.md) đòi lại quyền thừa kế của họ và những chiếc búa lại vang lên trong đại sảnh bên dưới Dãy Núi Sương Mù cho đến khi cuộc đua Người Lùn kết thúc.<sup id="cite_ref-Fourth_9-0" class="reference"><a href="#cite_note-Fourth-9">[8]</a></sup>
+Mặc dù có rất ít thông tin được cung cấp, nhưng việc chiếm lại Khazad-dûm của [Durin VII](../D/Durin_VII.md) dường như đã xảy ra sau [Kỷ Đệ Tứ](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 1]</a></sup> Với tư cách là [Vua của Dân tộc Durin](../K/King_of_Durin's_Folk~7047.md), ông đã dẫn đầu cuộc quay trở lại thành phố lần cuối. Ông đã thành công; [Gia tộc Durin](../H/House_of_Durin.md) đòi lại quyền thừa kế của họ và những chiếc búa lại vang lên trong đại sảnh bên dưới Dãy Núi Sương Mù cho đến khi cuộc đua Người Lùn kết thúc.<sup id="cite_ref-Fourth_9-0" class="reference"><a href="#cite_note-Fourth-9">[8]</a></sup>
 
 ## Bố cục {#Layout}
 
@@ -230,11 +230,11 @@ Dạng [nguyên thủy Elvish](../P/Primitive_Elvish.md) của *Moria* là *Morn
 
 <dl><dd>Trong các cấp độ Moria, người chơi phần lớn điều khiển Gandalf, thay vào đó chỉ một lần tiêu điểm được chuyển sang Frodo.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Toàn bộ hành trình qua Moria diễn ra ở một cấp độ và có thể hoàn thành trong vài phút. Vị trí mang tính biểu tượng được miêu tả ngay cạnh nhau và cuối cùng, Gandalf đánh bại Balrog và tiếp tục cuộc hành trình với Hiệp hội.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Trực tuyến: Mỏ Moria</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mỏ Moria</a></i>:</b>
 
 <dl><dd><i>Mines of Moria</i> là bản mở rộng lớn đầu tiên của trò chơi, được phát hành vào tháng 11 năm 2008. Gần như toàn bộ Moria đều có trong trò chơi, người chơi có thể tự do hành trình từ Cổng Phương Tây đến Cổng phương Đông và từ Vách đá Zirakzigil đến chính Nền tảng Đá nơi những thứ vô danh trú ngụ.</dd></dl>
 
@@ -253,7 +253,7 @@ Dạng [nguyên thủy Elvish](../P/Primitive_Elvish.md) của *Moria* là *Morn
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Việc nhắc đến tên Durin như một lời tiên tri trong <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, và cho rằng Phụ lục bắt nguồn từ <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Sách Đỏ</a> (sao chép <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a href="../F/Fourth_Age_171.md" title="Fourth Age 171">171</a>), dường như gợi ý rằng ông ta có thể được sinh ra hoặc xuất hiện sau ngày đó.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Việc nhắc đến tên Durin như một lời tiên tri trong <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, và cho rằng Phụ lục bắt nguồn từ <a class="mw-redirect" href="../R/Red_Book.md" title="Red Book">Sách Đỏ</a> (sao chép <a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a href="../F/Fourth_Age_171.md" title="Fourth Age 171">171</a>), dường như gợi ý rằng ông có thể được sinh ra hoặc xuất hiện sau ngày đó.</span>
 </li>
 </ol></div></span>
 

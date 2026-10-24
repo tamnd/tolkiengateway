@@ -32,7 +32,7 @@ Trước Bức tường, có một thung lũng nông leo về phía tây tới m
 
 <dl><dd>Đoàn kết vượt qua Bức tường của Moria trước khi đến Cổng Durin.</dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Trực tuyến: Mỏ Moria</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">The Lord of the Rings Online: Mỏ Moria</a></i>:</b>
 
 <dl><dd>Bức tường của Moria là một tiểu khu vực nhỏ của Eregion, nơi "Iron Garrison", một đoàn thám hiểm của Người Lùn từ <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a> và <a href="../I/Iron_Hills.md" title="Iron Hills">Dãy Đồi Sắt</a>, tìm cách xâm nhập vào <a href="../M/Moria.md" title="Moria">Moria</a>. Người chơi phải đi qua nơi này trước khi tự mình vào Mỏ. Điều này có thể không dễ dàng vì <a href="Watcher_in_the_Water.md" title="Watcher in the Water">Người canh gác dưới nước</a> vẫn ẩn nấp ở vùng nước sâu.</dd></dl>
 

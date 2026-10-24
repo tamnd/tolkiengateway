@@ -55,7 +55,7 @@ Thondir không muốn đến thăm khu vực này không chỉ vì nó đã đư
 
 Sau khi bị [con quỷ tuyết](../S/Snow-trolls.md) tấn công ở Dúrnost và suýt chết, Galadriel ra lệnh cho đại đội tiến xa hơn nữa về phía bắc. Vào lúc này, Thondir và những Tiên tộc khác đã từ chối thực hiện mệnh lệnh của Galadriel và quyết định quay lại Lindon. Galadriel, người không dám một mình dấn thân vào những vùng đó, đã quay lại Lindon cùng công ty của mình.
 
-Khi quay trở lại Lindon, Thondir đã được [Gil-galad](../G/Gil-galad.md) cấp quyền quay lại [Valinor](../V/Valinor.md), điều này sau đó ông ta đã làm.
+Khi quay trở lại Lindon, Thondir đã được [Gil-galad](../G/Gil-galad.md) cấp quyền quay lại [Valinor](../V/Valinor.md), điều này sau đó ông đã làm.
 
 <span></span>
 

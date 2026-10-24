@@ -91,8 +91,8 @@ Sự kiện xảy ra vào ngày 21 tháng Chín.
 - [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md):
     - Thời tiết nhiều mây ở [Hobbiton](../H/Hobbiton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) gặp [Shadowfax](../S/Shadowfax.md) nhưng con ngựa không cho ông ta đến gần. Ông ta đi theo Shadowfax đến tận cánh đồng.
-    - [Frodo](../F/Frodo_Baggins.md) bắt đầu thực sự lo lắng về sự vắng mặt của Gandalf và thường xuyên theo dõi ông ta.
+    - [Gandalf](../G/Gandalf.md) gặp [Shadowfax](../S/Shadowfax.md) nhưng con ngựa không cho ông đến gần. Ông đi theo Shadowfax đến tận cánh đồng.
+    - [Frodo](../F/Frodo_Baggins.md) bắt đầu thực sự lo lắng về sự vắng mặt của Gandalf và thường xuyên theo dõi ông.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Gandalf](../G/Gandalf.md) và [người Hobbit](../T/Travellers.md) đến [Rivendell](../R/Rivendell.md).<sup id="cite_ref-chief_2-0" class="reference"><a href="#cite_note-chief-2">[2]</a></sup>

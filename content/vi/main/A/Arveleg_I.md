@@ -93,7 +93,7 @@ Sau khi ông qua đời, Arveleg được kế vị bởi đứa con trai 18 tu�
 
 <dl><dd>Arveleg được nhận xét là người "thích sự hào hoa và lộng lẫy". <sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Các sự kiện xung quanh Arveleg đóng vai trò quan trọng trong gói mở rộng, <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Rise of the Witch-king</a></i>. Arveleg, do <a href="../C/Cam_Clarke.md" title="Cam Clarke">Cam Clarke</a> lồng tiếng, được miêu tả là sử dụng <a href="Amon_Sûl-stone.md" title="Amon Sûl-stone">palantír của Amon Sûl</a> để đoán trước kế hoạch của Vua Phù thủy. Ông sống sót sau Sự sụp đổ của Amon Sûl và mang theo chiếc palantír, nhưng đã phá hủy nó (và chính ông trong quá trình đó) để ngăn nó rơi vào tay Vua Phù thủy.</dd></dl>
 

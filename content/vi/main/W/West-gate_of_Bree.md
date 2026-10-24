@@ -32,7 +32,7 @@ Cổng **Phương Tây của Bree** là cổng vào [Bree](../B/Bree.md) ở ph�
 
 ## Mô tả {#Description}
 
-Cổng Phương Tây là một trong hai lỗ của hàng rào bao quanh Bree, tại các điểm mà [phương Đông Đường](../E/East_Road.md) vào và ra làng. Là điểm mở cực Tây của Bree, nó nhìn về phía [ Shire](../T/The_Shire.md). Nó được bảo vệ bởi một [Harry Goatleaf](../H/Harry_Goatleaf.md) trong [Cuộc chiến Nhẫn](War_of_the_Ring.md),<sup id="cite_ref-Pony_1-0" class="reference"><a href="#cite_note-Pony-1">[1]</a></sup> mặc dù sau đó ông ta đã tham gia cùng với [Bill Ferny](../B/Bill_Ferny.md) và những người theo [Saruman](../S/Saruman.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vì người ta đề cập rằng cánh cổng kêu lanh canh khi đóng lại nên có vẻ như nó được làm bằng kim loại.<sup id="cite_ref-Pony_1-1" class="reference"><a href="#cite_note-Pony-1">[1]</a></sup>
+Cổng Phương Tây là một trong hai lỗ của hàng rào bao quanh Bree, tại các điểm mà [phương Đông Đường](../E/East_Road.md) vào và ra làng. Là điểm mở cực Tây của Bree, nó nhìn về phía [ Shire](../T/The_Shire.md). Nó được bảo vệ bởi một [Harry Goatleaf](../H/Harry_Goatleaf.md) trong [Cuộc chiến Nhẫn](War_of_the_Ring.md),<sup id="cite_ref-Pony_1-0" class="reference"><a href="#cite_note-Pony-1">[1]</a></sup> mặc dù sau đó ông đã tham gia cùng với [Bill Ferny](../B/Bill_Ferny.md) và những người theo [Saruman](../S/Saruman.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vì người ta đề cập rằng cánh cổng kêu lanh canh khi đóng lại nên có vẻ như nó được làm bằng kim loại.<sup id="cite_ref-Pony_1-1" class="reference"><a href="#cite_note-Pony-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -44,7 +44,7 @@ Sau Cuộc chiến Nhẫn bốn hobbit quay trở lại Bree trên hành trình 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cổng Phương Tây là một trong hai lối vào chính của thị trấn Bree. Đây là một trung tâm chính cho việc di chuyển của người quản lý ổn định tới các địa điểm <a href="../E/Eriador.md" title="Eriador">Eriador</a> phía bắc.</dd></dl>
 

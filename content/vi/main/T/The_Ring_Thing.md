@@ -35,13 +35,13 @@ images:
 
 ## Lô đồ {#Plot}
 
-Chúa tể Bóng tối Sauraus muốn thống trị cả thế giới. Để đạt được điều này, ông nấu một món Fondue khổng lồ ở Mount Chronos. Khi việc đó hoàn thành, ông ta dự định sẽ nướng cả thế giới bằng pho mát.
+Chúa tể Bóng tối Sauraus muốn thống trị cả thế giới. Để đạt được điều này, ông nấu một món Fondue khổng lồ ở Mount Chronos. Khi việc đó hoàn thành, ông dự định sẽ nướng cả thế giới bằng pho mát.
 
-Sauraus từng là một hiệp sĩ bình thường phát điên vì cả 7 Những Chiếc Nhẫn Quyền Năng đều đã được bán hết và ông ta chỉ được tặng một phiếu giảm giá.
+Sauraus từng là một hiệp sĩ bình thường phát điên vì cả 7 Những Chiếc Nhẫn Quyền Năng đều đã được bán hết và ông chỉ được tặng một phiếu giảm giá.
 
-Sauraus "rèn" chiếc nhẫn của riêng mình bằng cách cắt nó ra khỏi pho mát. Trong trận chiến với Sauraus, một nhân vật giống Isildur đã lấy chiếc nhẫn của ông ta. Tuy nhiên, nhân vật này không thể sử dụng chiếc nhẫn và nghiện ma túy. Đây là lúc Stinker - một tác phẩm nhại lại [Gollum](../G/Gollum.md) - xuất hiện. Ông ta đánh cắp chiếc nhẫn từ chủ nhân của nó và trốn thoát.
+Sauraus "rèn" chiếc nhẫn của riêng mình bằng cách cắt nó ra khỏi pho mát. Trong trận chiến với Sauraus, một nhân vật giống Isildur đã lấy chiếc nhẫn của ông. Tuy nhiên, nhân vật này không thể sử dụng chiếc nhẫn và nghiện ma túy. Đây là lúc Stinker - một tác phẩm nhại lại [Gollum](../G/Gollum.md) - xuất hiện. Ông đánh cắp chiếc nhẫn từ chủ nhân của nó và trốn thoát.
 
-Để ngăn chặn Sauraus, hiệp hội đã biết bắt đầu nhiệm vụ của mình. Người đứng đầu luôn là pháp sư Alm Gandy. Trong tiếng Đức *Alm* có nghĩa là một đồng cỏ nằm trên cao. Người cầm nhẫn là một cựu kế toán ngân hàng tên là Freddy nhưng trong suốt bộ phim được đồng nghiệp của ông ta gọi là Frido.
+Để ngăn chặn Sauraus, hiệp hội đã biết bắt đầu nhiệm vụ của mình. Người đứng đầu luôn là pháp sư Alm Gandy. Trong tiếng Đức *Alm* có nghĩa là một đồng cỏ nằm trên cao. Người cầm nhẫn là một cựu kế toán ngân hàng tên là Freddy nhưng trong suốt bộ phim được đồng nghiệp của ông gọi là Frido.
 
 ## Sản xuất {#Production}
 

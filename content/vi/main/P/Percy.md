@@ -33,7 +33,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Chính Percy là người đã kiểm tra [Bard](../B/Bard.md) khi ông ta vào lại Thị trấn Hồ trên sà lan của mình với [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) được cất trong các thùng rượu từ [Vương quốc Rừng](../W/Woodland_Realm.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó, sau khi [Smaug](../S/Smaug.md) phá hủy Thị trấn Hồ, Percy trở thành một trong những trợ lý chính của Bard trong việc hỗ trợ những người tị nạn trong thị trấn, và về cơ bản là của Bard chỉ huy thứ hai của Quân đoàn Con Người trong [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Chính Percy là người đã kiểm tra [Bard](../B/Bard.md) khi ông vào lại Thị trấn Hồ trên sà lan của mình với [Bilbo Baggins](../B/Bilbo_Baggins.md) và [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) được cất trong các thùng rượu từ [Vương quốc Rừng](../W/Woodland_Realm.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó, sau khi [Smaug](../S/Smaug.md) phá hủy Thị trấn Hồ, Percy trở thành một trong những trợ lý chính của Bard trong việc hỗ trợ những người tị nạn trong thị trấn, và về cơ bản là của Bard chỉ huy thứ hai của Quân đoàn Con Người trong [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -31,7 +31,7 @@ Tuy nhiên, sau khi [Đại Dịch](../G/Great_Plague.md) xuất hiện [T.A.](.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Được mệnh danh là "Cây cầu vĩ đại", cây cầu Tharbad đã bị gãy hoàn toàn và hoang tàn.</dd></dl>
 

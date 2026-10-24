@@ -41,7 +41,7 @@ infobox:
 
 Beregar là hậu duệ của [Beleth](Beleth.md), con gái của [Bregolas](Bregolas.md), của [Nhà Bëor](../H/House_of_Bëor.md).<sup id="cite_ref-WJBeor_1-0" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
 
-Ông sống ở vùng [Andustar](../A/Andustar.md) của Númenor. Beregar kết hôn với [Núneth](../N/Núneth.md) và họ có một cô con gái tên là [Erendis](../E/Erendis.md), Beregar đã đưa cô đến dự bữa tiệc được tổ chức khi con trai của [Tar-Meneldur](../T/Tar-Meneldur.md) được tuyên bố là người thừa kế của ông. Ở đó Erendis say mê [Aldarion](../T/Tar-Aldarion.md) và cuối cùng trở thành nữ hoàng của ông ta. Aldarion và Erendis có một cô con gái riêng, và vì vậy Beregar trở thành ông nội của [Nữ hoàng cai trị đầu tiên của Númenor](../R/Ruling_Queen_of_Númenor.md), [Tar-Ancalimë](../T/Tar-Ancalimë.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ông sống ở vùng [Andustar](../A/Andustar.md) của Númenor. Beregar kết hôn với [Núneth](../N/Núneth.md) và họ có một cô con gái tên là [Erendis](../E/Erendis.md), Beregar đã đưa cô đến dự bữa tiệc được tổ chức khi con trai của [Tar-Meneldur](../T/Tar-Meneldur.md) được tuyên bố là người thừa kế của ông. Ở đó Erendis say mê [Aldarion](../T/Tar-Aldarion.md) và cuối cùng trở thành nữ hoàng của ông. Aldarion và Erendis có một cô con gái riêng, và vì vậy Beregar trở thành ông nội của [Nữ hoàng cai trị đầu tiên của Númenor](../R/Ruling_Queen_of_Númenor.md), [Tar-Ancalimë](../T/Tar-Ancalimë.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

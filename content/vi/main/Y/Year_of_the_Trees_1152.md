@@ -19,7 +19,7 @@ categories:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Elwë](../T/Thingol.md) thức tỉnh sau cơn xuất thần và trở thành Vua của [Eldar](../E/Eldar.md) của [Beleriand](../B/Beleriand.md) với [Melian](../M/Melian.md) là Nữ hoàng của mình. Ông ta được biết đến với cái tên Elu Thingol và người của ông ta là [Sindar](../S/Sindar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Elwë](../T/Thingol.md) thức tỉnh sau cơn xuất thần và trở thành Vua của [Eldar](../E/Eldar.md) của [Beleriand](../B/Beleriand.md) với [Melian](../M/Melian.md) là Nữ hoàng của mình. Ông được biết đến với cái tên Elu Thingol và người của ông là [Sindar](../S/Sindar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

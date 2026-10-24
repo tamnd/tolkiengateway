@@ -71,7 +71,7 @@ Từ được dịch là *Rithil-Anamo* trong Quenya của Aman. Từ *rithil*, 
 
 ## Phiên bản khác của truyền thuyết {#Other_version_of_the_legendarium}
 
-Trong [Sau đó *Quenta Silmarillion*](../L/Later_Quenta_Silmarillion.md), khi Melkor đi qua [Aman](../A/Aman.md) và khiến nó tràn ngập bóng tối và nỗi sợ hãi, ông ta bước vào Vòng Phán xét và nguyền rủa nó, làm ô uế ghế phán xét của Manwë và lật đổ ngai vàng của Valar khác.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong [Sau đó *Quenta Silmarillion*](../L/Later_Quenta_Silmarillion.md), khi Melkor đi qua [Aman](../A/Aman.md) và khiến nó tràn ngập bóng tối và nỗi sợ hãi, ông bước vào Vòng Phán xét và nguyền rủa nó, làm ô uế ghế phán xét của Manwë và lật đổ ngai vàng của Valar khác.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

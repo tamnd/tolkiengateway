@@ -18,7 +18,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Wei%C3%9Ffu%C3%9F"
 ---
 
-**Whitfoot** là họ [Hobbit](../H/Hobbits.md) của [Will Whitfoot](Will_Whitfoot.md) và có lẽ là bất kỳ họ hàng nào của ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Whitfoot** là họ [Hobbit](../H/Hobbits.md) của [Will Whitfoot](Will_Whitfoot.md) và có lẽ là bất kỳ họ hàng nào của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Mặc dù họ có vẻ không thuộc tầng lớp thượng lưu nhưng họ cũng khá nổi bật vì một trong số họ là [Thị trưởng Michel Delving](../M/Mayor_of_Michel_Delving.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

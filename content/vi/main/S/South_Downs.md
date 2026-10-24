@@ -44,7 +44,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>South Downs là một khu vực trong vùng <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a>. Nó rải rác những tàn tích của các di tích cổ lớn trong khi cư dân hiện tại duy nhất là những nông dân sống rải rác.</dd></dl>
 

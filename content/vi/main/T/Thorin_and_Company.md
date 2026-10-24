@@ -91,7 +91,7 @@ Thorin tự gọi mình và những người bạn đồng hành Người Lùn c
 
 <dl><dd>Toàn đại đội xuất quân tham gia cùng Người Lùn của Dãy Đồi Sắt đối mặt với những người đàn ông và Tiên tộc. Bảy thành viên của đại đội thiệt mạng hoặc bị trọng thương trong Trận chiến Năm Đạo quân. Hoặc những thứ này, chỉ có Thorin và Bombur được xác định theo tên.</dd></dl>
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>Tất cả các thành viên còn sống sót của Công ty đều xuất hiện trong trò chơi. Sau <a href="../B/Battle_of_Dale.md" title="Battle of Dale">Trận Dale</a>, Người Lùn và <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> bày tỏ lòng kính trọng đối với lăng mộ của Thorin, Fíli và Kíli, hiện nằm cạnh mộ của Vua <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Chân Sắt</a>.</dd></dl>
 

@@ -55,7 +55,7 @@ Vào đêm [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/T
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nardol nằm ngay phía đông con sông ngăn cách Rừng Drúadan với Beacon-hills. Trong quá trình lái Rohirrim, người chơi và <a href="../H/Herefara.md" title="Herefara">Herefara</a> tuần tra Nardol để đảm bảo rằng nó không có kẻ thù.</dd></dl>
 

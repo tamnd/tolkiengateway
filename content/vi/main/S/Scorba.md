@@ -37,9 +37,9 @@ infobox:
 
 Trong *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và *[Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*, **Scorba** Rubine là em trai của [Smaug](Smaug.md).
 
-Cực kỳ ghen tị với người anh trai mạnh mẽ hơn của mình, ông ta đã tìm cách thiết lập hang ổ của riêng mình theo mô phỏng [Erebor](../E/Erebor.md) của Smaug.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Zarak Dûm tỏ ra lý tưởng: đó là một thuộc địa Người Lùn giáp ranh với [Angmar](../A/Angmar.md), đã không chống chọi được với một bệnh dịch sau khi Người Lùn đào sâu vào căn phòng giả kim của [Vua Phù thủy](../W/Witch-king.md) ở [Vực sâu](../U/Under-deeps.md).
+Cực kỳ ghen tị với người anh trai mạnh mẽ hơn của mình, ông đã tìm cách thiết lập hang ổ của riêng mình theo mô phỏng [Erebor](../E/Erebor.md) của Smaug.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Zarak Dûm tỏ ra lý tưởng: đó là một thuộc địa Người Lùn giáp ranh với [Angmar](../A/Angmar.md), đã không chống chọi được với một bệnh dịch sau khi Người Lùn đào sâu vào căn phòng giả kim của [Vua Phù thủy](../W/Witch-king.md) ở [Vực sâu](../U/Under-deeps.md).
 
-Scorba đi săn ở [Angmar](../A/Angmar.md), thường ăn thịt lũ Orc và quỷ lùn, mặc dù ông ta tránh di tích Carn Dûm vì sợ hãi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sự hiện diện của ông ta được Vua Phù thủy chấp nhận, vì ông ta bảo vệ biên giới vương quốc của mình một cách hiệu quả.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Scorba đi săn ở [Angmar](../A/Angmar.md), thường ăn thịt lũ Orc và quỷ lùn, mặc dù ông tránh di tích Carn Dûm vì sợ hãi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sự hiện diện của ông được Vua Phù thủy chấp nhận, vì ông bảo vệ biên giới vương quốc của mình một cách hiệu quả.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Vào đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md), Scorba đã chết và hang ổ của hắn là nơi sinh sống của yêu tinh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
 

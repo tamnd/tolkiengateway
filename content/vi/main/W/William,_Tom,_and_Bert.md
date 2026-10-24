@@ -71,7 +71,7 @@ Vào [ngày 18 tháng 10](../_/18_October.md) [T.A.](../T/Third_Age.md) [3018](.
 
 <h2><span id="William.27s_.22pity.22"></span><span class="mw-headline" id="William&#39;s_&#34;pity&#34;">Sự "thương hại" của William</span></h2>
 
-William hai lần tuyên bố rằng họ nên để Bilbo đi thay vì ăn thịt ông ta, gọi Bilbo là "kẻ khốn nạn", dẫn đến tranh cãi với Bert. Nhận xét của William gây tò mò vì bản chất quỷ lùn là ác quỷ, được tạo ra bởi [Morgoth](../M/Morgoth.md) vào lúc chạng vạng của [Ngày của Người cao tuổi](../E/Elder_Days.md). Tuy nhiên, William được ghi nhận là "đã ăn tối nhiều nhất có thể; ông cũng đã uống rất nhiều bia."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+William hai lần tuyên bố rằng họ nên để Bilbo đi thay vì ăn thịt ông, gọi Bilbo là "kẻ khốn nạn", dẫn đến tranh cãi với Bert. Nhận xét của William gây tò mò vì bản chất quỷ lùn là ác quỷ, được tạo ra bởi [Morgoth](../M/Morgoth.md) vào lúc chạng vạng của [Ngày của Người cao tuổi](../E/Elder_Days.md). Tuy nhiên, William được ghi nhận là "đã ăn tối nhiều nhất có thể; ông cũng đã uống rất nhiều bia."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Trong một [bức thư](../L/Letter_153.md) chưa gửi cho chủ cửa hàng sách Christian <a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Hastings&amp;action=edit&amp;redlink=1" title="Peter Hastings (page does not exist)">Peter Hastings</a>, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã trả lời về chủ đề này:
 
@@ -194,7 +194,7 @@ Trong một [bức thư](../L/Letter_153.md) chưa gửi cho chủ cửa hàng s
 
 <dl><dd>William, Tom và Bert là những 'trùm' đầu tiên của trò chơi, mặc dù chúng không thể chiến đấu trực tiếp; Bilbo phải lẻn quanh lũ troll, chờ chúng quay lại hoặc bỏ đi.</dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Những bức tượng đá của cả ba loài troll có thể được tìm thấy ở vùng hoang dã <a href="../T/Trollshaws.md" title="Trollshaws">Trollshaws</a>.</dd></dl>
 

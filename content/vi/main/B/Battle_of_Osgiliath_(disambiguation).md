@@ -19,7 +19,7 @@ Trận **Trận Osgiliath** có thể đề cập đến:
 - [Anárion phòng thủ Osgiliath](../A/Anárion's_defence_of_Osgiliath.md) trong [Kỷ Đệ Nhị](../S/Second_Age.md), từ [3429](../S/Second_Age_3429.md) đến [3434](../S/Second_Age_3434.md).
 - [Đốt Osgiliath](Burning_of_Osgiliath.md) trong [T.A.](../T/Third_Age.md) [1437](../T/Third_Age_1437.md), trong [Xung đột Kin](../K/Kin-strife~3650.md).
 - [Tàn tích của Osgiliath](../R/Ruin_of_Osgiliath.md) trong [T.A.](../T/Third_Age.md) [2475](../T/Third_Age_2475.md), có sự xuất hiện đầu tiên của [Uruk-hai](../U/Uruk-hai.md).
-- [Sauron tấn công vào Osgiliath](../S/Sauron's_attack_on_Osgiliath.md) vào [20 tháng 6](../_/20_June.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), giúp ông ta kiểm soát phần phía đông của thành phố.
+- [Sauron tấn công vào Osgiliath](../S/Sauron's_attack_on_Osgiliath.md) vào [20 tháng 6](../_/20_June.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), giúp ông kiểm soát phần phía đông của thành phố.
 - [Faramir sự bảo vệ của Osgiliath](../F/Faramir's_defence_of_Osgiliath.md) vào [12 tháng 3](../_/12_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) khi vật chủ Morgul tiến tới [Trận chiến Pelennor](Battle_of_the_Pelennor.md).
 
 <hr style="margin-top:15px;"/>

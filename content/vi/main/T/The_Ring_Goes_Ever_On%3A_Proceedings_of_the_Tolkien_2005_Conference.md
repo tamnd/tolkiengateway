@@ -122,7 +122,7 @@ infobox:
 - Beppe Roncari và Davide Cattaneo: "Tolkien và Cơ đốc giáo"
 - Dean Slavic: "Thế giới ngầm trong tiểu thuyết của Tolkien The Lord of the Rings"
 - [Thomas Fornet-Ponse](Thomas_Fornet-Ponse.md): "Các khái niệm khác nhau về cái ác trong The Lord of the Rings?"
-- Tim McKenzie: "Tôi Thương hại Ngay cả Nô lệ của Ông ta: Tolkien và Thần học về Ác ma"
+- Tim McKenzie: "Tôi Thương hại Ngay cả Nô lệ của Ông: Tolkien và Thần học về Ác ma"
 - Jill Delsigne: "Hobbit, Tolkien, và Chúa: Viết về thảm họa và vấn đề cái ác"
 
 <h3><span id="Section_Nine:_Tolkien.27s_Sources"></span><span class="mw-headline" id="Section_Nine:_Tolkien&#39;s_Sources">Section Nine: Tolkien&#39;s Sources</span></h3>

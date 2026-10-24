@@ -24,7 +24,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>North Undeep nằm ở phía bắc con sông <a href="../L/Limlight.md" title="Limlight">Limlight</a> và do đó thuộc vùng "Great River" trong trò chơi, bên ngoài Rohan. Nó không kết nối trực tiếp <a href="../B/Brown_Lands.md" title="Brown Lands">Brown Lands</a> với <a href="../F/Field_of_Celebrant.md" title="Field of Celebrant">Trường Celebrant</a> mà thay vào đó là với đầm lầy <i>Rushgore</i> nằm giữa chúng. Rohirrim đã xây dựng và bố trí một trại kiên cố <i>Etheburg</i> trên bờ phía đông của Anduin trong Brown Lands để trông chừng North Undeep.</dd></dl>
 

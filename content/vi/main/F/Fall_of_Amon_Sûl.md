@@ -37,7 +37,7 @@ infobox:
 
 ### Mở đầu {#Prelude}
 
-Vào năm 1409, Phù thủy-Vua của Angmar đã dẫn một đội quân lớn vượt sông [Hoarwell](../H/Hoarwell.md) chống lại vùng đất của [Cardolan](../C/Cardolan.md), sau khi bị đánh lui khỏi vùng đất của [Dúnedain](../D/Dúnedain.md) nhiều năm trước.
+Vào năm 1409, Vua Phù thủy của Angmar đã dẫn một đội quân lớn vượt sông [Hoarwell](../H/Hoarwell.md) chống lại vùng đất của [Cardolan](../C/Cardolan.md), sau khi bị đánh lui khỏi vùng đất của [Dúnedain](../D/Dúnedain.md) nhiều năm trước.
 
 ### Cuộc bao vây {#Siege}
 
@@ -45,6 +45,6 @@ Khi lực lượng của Angmar tới Weathertop, họ đã bao vây nó cho đ�
 
 ### Hậu quả {#Aftermath}
 
-Amon Sûl là tiền đồn phòng thủ chính ở [Weather Hills](../W/Weather_Hills.md) và phía bắc Cardolan. Khi nó biến mất, Phù thủy-Vua đã có thể chiếm và tàn phá Cardolan, cũng như củng cố các cuộc chinh phục mới của mình trong [Rhudaur](../R/Rhudaur.md), mà các đồng minh và thần dân <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hill-Men&amp;action=edit&amp;redlink=1" title="Hill-Men (page does not exist)">Hill-Con Người</a> của hắn đã thực hiện, cũng như tiến hành các cuộc tấn công chống lại toàn bộ [Arthedain](../A/Arthedain.md).
+Amon Sûl là tiền đồn phòng thủ chính ở [Weather Hills](../W/Weather_Hills.md) và phía bắc Cardolan. Khi nó biến mất, Vua Phù thủy đã có thể chiếm và tàn phá Cardolan, cũng như củng cố các cuộc chinh phục mới của mình trong [Rhudaur](../R/Rhudaur.md), mà các đồng minh và thần dân <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hill-Men&amp;action=edit&amp;redlink=1" title="Hill-Men (page does not exist)">Hill-Con Người</a> của hắn đã thực hiện, cũng như tiến hành các cuộc tấn công chống lại toàn bộ [Arthedain](../A/Arthedain.md).
 
 Tuy nhiên, mặc dù đã vĩnh viễn chấm dứt mối đe dọa Cardolan, Angmar vẫn không thể lấy đà và bị đẩy ra khỏi thành phố [Fornost](Fornost.md) và [North Downs](../N/North_Downs.md) bởi lực lượng của Vua [Araphor](../A/Araphor.md) mới và Chúa tể [Círdan](../C/Círdan.md) của [Lindon](../L/Lindon.md).

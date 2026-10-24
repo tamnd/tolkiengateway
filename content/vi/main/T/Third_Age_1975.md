@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Sớm {#Early}
 
-- Sau khi được biết từ [Aranarth](../A/Aranarth.md) về [Vua](../K/Kings_of_Arthedain.md) [Arvedui](../A/Arvedui.md), [Cirdan](../C/Cirdan.md) cử một con tàu yêu tinh đến [Forochel](../F/Forochel.md) để giải cứu ông ta.<sup id="cite_ref-eriador_1-0" class="reference"><a href="#cite_note-eriador-1">[1]</a></sup>
+- Sau khi được biết từ [Aranarth](../A/Aranarth.md) về [Vua](../K/Kings_of_Arthedain.md) [Arvedui](../A/Arvedui.md), [Cirdan](../C/Cirdan.md) cử một con tàu yêu tinh đến [Forochel](../F/Forochel.md) để giải cứu ông.<sup id="cite_ref-eriador_1-0" class="reference"><a href="#cite_note-eriador-1">[1]</a></sup>
 
 ## Tháng 3 {#March}
 
@@ -34,7 +34,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Angmar xung đột](../A/Angmar_conflict.md): [Eärnur](../E/Eärnur.md) đưa một hạm đội đến [Lindon](../L/Lindon.md).<sup id="cite_ref-TA_2-2" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-gondor_3-0" class="reference"><a href="#cite_note-gondor-3">[3]</a></sup>
 - [Đạo quân Phương Tây](<../H/Host_of_the_West_(Arnor).md>) đã được lắp ráp; [Glorfindel](../G/Glorfindel.md) với lực lượng từ [Rivendell](../R/Rivendell.md) tham gia cùng họ.<sup id="cite_ref-gondor_3-1" class="reference"><a href="#cite_note-gondor-3">[3]</a></sup>
-- Người [Vua Phù thủy](../W/Witch-king.md) bị đánh bại ở [Trận Fornost](../B/Battle_of_Fornost.md). Ông ta bị truy đuổi đến [Ettenmoors](../E/Ettenmoors.md) nơi Eärnur không thể chiến đấu với ông ta. Ông ta biến mất khỏi phương Bắc.<sup id="cite_ref-TA_2-3" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-gondor_3-2" class="reference"><a href="#cite_note-gondor-3">[3]</a></sup>
+- Người [Vua Phù thủy](../W/Witch-king.md) bị đánh bại ở [Trận Fornost](../B/Battle_of_Fornost.md). Ông bị truy đuổi đến [Ettenmoors](../E/Ettenmoors.md) nơi Eärnur không thể chiến đấu với ông. Ông biến mất khỏi phương Bắc.<sup id="cite_ref-TA_2-3" class="reference"><a href="#cite_note-TA-2">[2]</a></sup><sup id="cite_ref-gondor_3-2" class="reference"><a href="#cite_note-gondor-3">[3]</a></sup>
 
 <span></span>
 

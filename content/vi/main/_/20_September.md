@@ -85,6 +85,6 @@ Sự kiện xảy ra vào ngày 20 tháng Chín.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) giành được quyền truy cập vào [Edoras](../E/Edoras.md) và cảnh báo họ về [Saruman](../S/Saruman.md). [Théoden](../T/Théoden.md) bảo ông ta 'Hãy cưỡi ngựa đi, chỉ cần đi trước khi ngày mai già!'.
+    - [Gandalf](../G/Gandalf.md) giành được quyền truy cập vào [Edoras](../E/Edoras.md) và cảnh báo họ về [Saruman](../S/Saruman.md). [Théoden](../T/Théoden.md) bảo ông 'Hãy cưỡi ngựa đi, chỉ cần đi trước khi ngày mai già!'.
     - Hai chiếc xe đẩy có mái che khởi hành [Bag End](../B/Bag_End.md) đến ngôi nhà mới của [Frodo](../F/Frodo_Baggins.md) ở [Crickhollow](../C/Crickhollow.md). Họ vận chuyển đồ nội thất và hàng hóa mà Frodo chưa bán được qua [Cầu Brandywine](../B/Brandywine_Bridge.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

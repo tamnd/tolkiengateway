@@ -31,13 +31,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien yêu cầu Burns đọc lại tất cả các đoạn văn liên quan đến [Frodo](../F/Frodo_Baggins.md) và [Chiếc nhẫn](../T/The_One_Ring.md). Cô sẽ thấy rằng ông ta hoàn toàn không thể giao nộp Chiếc nhẫn ở điểm sức mạnh tối đa của nó và rằng sự thất bại của ông ta đã được thể hiện hoặc ám chỉ từ xa xưa. Anh rất vinh dự vì đã tự nguyện gánh vác gánh nặng và làm tất cả những gì có thể bằng hết sức lực và tinh thần của mình. Ông ta và Chánh Đạo đã được Mercy cứu rỗi, nhờ giá trị của Lòng Thương Xót và Sự tha thứ.
+Tolkien yêu cầu Burns đọc lại tất cả các đoạn văn liên quan đến [Frodo](../F/Frodo_Baggins.md) và [Chiếc nhẫn](../T/The_One_Ring.md). Cô sẽ thấy rằng ông hoàn toàn không thể giao nộp Chiếc nhẫn ở điểm sức mạnh tối đa của nó và rằng sự thất bại của ông đã được thể hiện hoặc ám chỉ từ xa xưa. Anh rất vinh dự vì đã tự nguyện gánh vác gánh nặng và làm tất cả những gì có thể bằng hết sức lực và tinh thần của mình. Ông và Chánh Đạo đã được Mercy cứu rỗi, nhờ giá trị của Lòng Thương Xót và Sự tha thứ.
 
 Tolkien chỉ vào phần cuối của Kinh Lạy Cha: “Xin chớ để chúng con bị cám dỗ nhưng cứu chúng con khỏi sự dữ”. Luôn có khả năng rơi vào tình huống vượt quá khả năng của mình, khi sự cứu rỗi phụ thuộc vào một điều gì đó dường như không liên quan: sự thánh thiện, khiêm nhường và lòng thương xót chung của người hy sinh. Tolkien khẳng định mình không hề “sắp xếp” cuộc giải thoát trong truyện: nó đã theo logic của câu chuyện. [Gollum](../G/Gollum.md) đã có cơ hội ăn năn nhưng đã rơi khỏi lưỡi dao. Những tù nhân hiện tại đã bị "tẩy não" để ca ngợi những kẻ tra tấn họ dường như không thể được giải thoát, nhưng chúng ta nên đánh giá họ dựa trên ý chí và ý định của họ khi họ vào [Sammath Naur](../S/Sammath_Naur.md) và không yêu cầu họ phải làm những việc bất khả thi.
 
 Tolkien nhấn mạnh: Frodo "thất bại". Sức mạnh của Ác ma cuối cùng không thể bị chống lại bởi những sinh vật nhập thể (và Người viết truyện không phải là một trong số chúng ta).
 
-Tolkien tuyên bố rằng ông ta đã buộc phải xuất bản ngược lại, với sự kết thúc của Ác ma hiện thân rõ ràng và Sự thống trị của Con Người được thiết lập trước khi tất cả thần thoại và truyền thuyết về yêu tinh được đưa ra. Khi đọc theo đúng thứ tự, cả hai phần đều có thể đạt được lợi ích, nhưng ông vẫn đang cố gắng tìm cách để tài liệu trước đó có thể xuất bản được (và ông cũng còn rất nhiều việc khác phải làm). <br>
+Tolkien tuyên bố rằng ông đã buộc phải xuất bản ngược lại, với sự kết thúc của Ác ma hiện thân rõ ràng và Sự thống trị của Con Người được thiết lập trước khi tất cả thần thoại và truyền thuyết về yêu tinh được đưa ra. Khi đọc theo đúng thứ tự, cả hai phần đều có thể đạt được lợi ích, nhưng ông vẫn đang cố gắng tìm cách để tài liệu trước đó có thể xuất bản được (và ông cũng còn rất nhiều việc khác phải làm). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

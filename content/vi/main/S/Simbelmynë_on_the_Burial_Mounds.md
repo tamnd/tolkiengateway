@@ -44,7 +44,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Khi ngôi mộ của [Théodred](../T/Théodred.md) bị phong ấn, vô số bông hoa nhỏ màu trắng — [simbelmynë](Simbelmynë.md) — mọc ở đó. [Théoden](../T/Théoden.md) nhận xét rằng những bông hoa phủ trên mộ tổ tiên của ông giờ đây phủ lên mộ của con trai ông. Ông ta than thở rằng mình nên cai trị [Rohan](../R/Rohan.md) trong thời kỳ đen tối. [Gandalf](../G/Gandalf.md) an ủi anh khi anh đang chìm trong đau buồn.
+Khi ngôi mộ của [Théodred](../T/Théodred.md) bị phong ấn, vô số bông hoa nhỏ màu trắng — [simbelmynë](Simbelmynë.md) — mọc ở đó. [Théoden](../T/Théoden.md) nhận xét rằng những bông hoa phủ trên mộ tổ tiên của ông giờ đây phủ lên mộ của con trai ông. Ông than thở rằng mình nên cai trị [Rohan](../R/Rohan.md) trong thời kỳ đen tối. [Gandalf](../G/Gandalf.md) an ủi anh khi anh đang chìm trong đau buồn.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Không có cha mẹ nào phải chôn cất con mình.

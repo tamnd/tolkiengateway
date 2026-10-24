@@ -147,7 +147,7 @@ Tiên tộc, nam và nữ của Lake Town, Orc, Người Lùn, Warg & Nhện
 
 <br> 1             MỘT BÊN BÊN BẤT NGỜ
 
-Cảnh một          Tại vùng đất yên bình của Shire, người hobbit Bilbo Baggins đang ngồi bên ngoài cửa trước hút tẩu thuốc buổi sáng thì phù thủy Gandalf đến, tìm kiếm ai đó để tham gia vào một 'cuộc phiêu lưu' mà ông ta đang tổ chức. Người hobbit bối rối và hoảng sợ lắp bắp từ chối, nhưng lại để bản thân bị áp lực phải đưa ra lời mời gọi trà vào ngày hôm sau.
+Cảnh một          Tại vùng đất yên bình của Shire, người hobbit Bilbo Baggins đang ngồi bên ngoài cửa trước hút tẩu thuốc buổi sáng thì phù thủy Gandalf đến, tìm kiếm ai đó để tham gia vào một 'cuộc phiêu lưu' mà ông đang tổ chức. Người hobbit bối rối và hoảng sợ lắp bắp từ chối, nhưng lại để bản thân bị áp lực phải đưa ra lời mời gọi trà vào ngày hôm sau.
 
 Tuy nhiên, Cảnh Hai          Bilbo thật kinh hoàng khi một tập hợp gồm mười hai người lùn đến trước khi Gandalf xuất hiện, bao gồm cả Thorin Oakenshield những Vua bị lưu đày dưới Ngọn Núi Cô Đơn. Những người lùn hát về niềm khao khát quê hương và Thorin giải thích việc họ bị con rồng Smaug chiếm đoạt, kẻ đã đánh cắp kho báu của họ. Bilbo cho phép mình bị lôi kéo tham gia nhiệm vụ của họ.
 
@@ -163,9 +163,9 @@ Cảnh Hai          Trên núi, cả nhóm trú ẩn sau cơn bão trong m�
 
 Cảnh ba       Tại đây, Yêu tinh vĩ đại nổi cơn thịnh nộ khi nhìn thấy thanh kiếm của Thorin, nhưng bị giết bởi Gandalf, kẻ đã dẫn cả nhóm đi vào đường hầm để tìm cách trốn thoát. Bilbo một mình bị bỏ rơi, và khi tìm kiếm trên mặt đất, anh tìm thấy một chiếc nhẫn mà anh bỏ vào túi.
 
-Cảnh Bốn         Bilbo đi đến chân núi và gặp Gollum người thách ông ta chơi một trò chơi đố hứa hẹn sẽ chỉ cho ông ta lối thoát nếu ông ta thua. Nhưng khi Bilbo hỏi trong túi có gì thì Gollum không trả lời được; và chỉ khi tìm kiếm chiếc nhẫn của mình, ông mới nhận ra rằng nó đã mất tích. Trong cuộc trò chuyện, ông ta tiết lộ rằng chiếc nhẫn mang lại khả năng tàng hình cho người đeo nó và Bilbo có thể theo dõi ông ta mà không bị phát hiện khi ông ta lao tới chặn đường trốn thoát của người hobbit.
+Cảnh Bốn         Bilbo đi đến chân núi và gặp Gollum người thách ông chơi một trò chơi đố hứa hẹn sẽ chỉ cho ông lối thoát nếu ông thua. Nhưng khi Bilbo hỏi trong túi có gì thì Gollum không trả lời được; và chỉ khi tìm kiếm chiếc nhẫn của mình, ông mới nhận ra rằng nó đã mất tích. Trong cuộc trò chuyện, ông tiết lộ rằng chiếc nhẫn mang lại khả năng tàng hình cho người đeo nó và Bilbo có thể theo dõi ông mà không bị phát hiện khi ông lao tới chặn đường trốn thoát của người hobbit.
 
-Cảnh Năm          Bilbo có cơ hội giết Gollum, nhưng thương hại nên anh kiềm chế và né tránh, bị truy đuổi bởi những lời nguyền của Gollum. Ông ta cũng tìm cách trốn tránh những người bảo vệ lũ Orc và trốn thoát khỏi đường hầm.
+Cảnh Năm          Bilbo có cơ hội giết Gollum, nhưng thương hại nên anh kiềm chế và né tránh, bị truy đuổi bởi những lời nguyền của Gollum. Ông cũng tìm cách trốn tránh những người bảo vệ lũ Orc và trốn thoát khỏi đường hầm.
 
 Cảnh Sáu             Trên sườn núi, những người lùn và Gandalf đang tranh cãi về việc họ nên làm gì để tìm kiếm người hobbit mất tích khi Bilbo tham gia cùng họ; nhưng ông không nói gì về chiếc nhẫn. Sói người ta nghe thấy tiếng hú, và cả nhóm trốn thoát lên cây khi lũ Orc tham gia truy đuổi và ca hát chế nhạo. Chỉ khi đại bàng từ trên núi lao xuống thì cả đoàn mới có thể trốn thoát.
 
@@ -173,9 +173,9 @@ Cảnh Bảy      Những con đại bàng đồng ý chở cả nhóm rời 
 
 <br> 3             NHÀ CHỜ QUÁI VẤN
 
-Cảnh Một          Những con đại bàng đưa đoàn đến chỗ vượt Sông Lớn, nơi Gandalf tiết lộ rằng ông ta sẽ phải để họ đi làm 'công việc khẩn cấp' khác khi họ đến khu rừng Mirkwood. Trong lúc chờ đợi, anh sẽ đưa họ đi tìm sự trợ giúp.
+Cảnh Một          Những con đại bàng đưa đoàn đến chỗ vượt Sông Lớn, nơi Gandalf tiết lộ rằng ông sẽ phải để họ đi làm 'công việc khẩn cấp' khác khi họ đến khu rừng Mirkwood. Trong lúc chờ đợi, anh sẽ đưa họ đi tìm sự trợ giúp.
 
-Cảnh Hai          Gandalf và Bilbo đến nhà của Béorn, một người thay đổi làn da, người dần dần chấp nhận sự hiện diện của những người lùn khi họ kể cho ông ta nghe về những cuộc phiêu lưu của họ trên núi và việc giết chết Yêu tinh vĩ đại. Ông ta cho họ mượn ngựa để đưa họ đến Mirkwood và khuyên họ nên đi con đường nào xuyên rừng.
+Cảnh Hai          Gandalf và Bilbo đến nhà của Béorn, một người thay đổi làn da, người dần dần chấp nhận sự hiện diện của những người lùn khi họ kể cho ông nghe về những cuộc phiêu lưu của họ trên núi và việc giết chết Yêu tinh vĩ đại. Ông cho họ mượn ngựa để đưa họ đến Mirkwood và khuyên họ nên đi con đường nào xuyên rừng.
 
 Đoạn kết             Những người lùn hát một bài hát về cơn gió thổi quanh Ngọn Núi Cô Đơn và hang ổ của Smaug con rồng.
 
@@ -185,13 +185,13 @@ Cảnh Ba       Đến biên giới của Mirkwood, Gandalf để những ng
 
 <br> 4             RUỒI VÀ NHỆN
 
-Cảnh Một          Trong rừng, những người lùn nhìn thấy ánh sáng xa xa và bị lôi cuốn vào một bữa tiệc Tiên; nhưng khi họ cố gắng tìm kiếm sự giúp đỡ, họ bất ngờ thấy mình chìm trong bóng tối và bị lạc. Bilbo một lần nữa bị bỏ lại một mình, nhưng đã giết được một con nhện đang tìm cách bắt ông ta bằng thanh kiếm mà bây giờ ông ta gọi là Sting.
+Cảnh Một          Trong rừng, những người lùn nhìn thấy ánh sáng xa xa và bị lôi cuốn vào một bữa tiệc Tiên; nhưng khi họ cố gắng tìm kiếm sự giúp đỡ, họ bất ngờ thấy mình chìm trong bóng tối và bị lạc. Bilbo một lần nữa bị bỏ lại một mình, nhưng đã giết được một con nhện đang tìm cách bắt ông bằng thanh kiếm mà bây giờ ông gọi là Sting.
 
-Cảnh hai          Ông ta tìm thấy những người lùn bị trói trong tủ đựng thức ăn của lũ nhện, nhưng bằng cách chế nhạo những con nhện, ông ta đã lôi kéo được chúng đi theo mình để truy đuổi – chỉ để những người lùn sau đó bị Rừng Tiên tộc bắt giữ.
+Cảnh hai          Ông tìm thấy những người lùn bị trói trong tủ đựng thức ăn của lũ nhện, nhưng bằng cách chế nhạo những con nhện, ông đã lôi kéo được chúng đi theo mình để truy đuổi – chỉ để những người lùn sau đó bị Rừng Tiên tộc bắt giữ.
 
-Cảnh ba       Vua Tiên thẩm vấn Thorin trước rồi Balin, nhưng không thể khám phá ra mục đích của họ trong rừng là gì. Ông ta ra lệnh giam giữ những người lùn cho đến khi họ cung cấp thông tin, nhưng Bilbo việc sử dụng chiếc nhẫn tàng hình của mình để lẻn vào mà không bị nhìn thấy.
+Cảnh ba       Vua Tiên thẩm vấn Thorin trước rồi Balin, nhưng không thể khám phá ra mục đích của họ trong rừng là gì. Ông ra lệnh giam giữ những người lùn cho đến khi họ cung cấp thông tin, nhưng Bilbo việc sử dụng chiếc nhẫn tàng hình của mình để lẻn vào mà không bị nhìn thấy.
 
-Cảnh Bốn         Trong ngục tối, đội trưởng đội bảo vệ và quản gia đang ăn mừng khi Bilbo đánh cắp được chìa khóa và thả những người lùn.  Ông ta đóng chúng vào thùng để chuyển xuống sông, và những người khuân vác Tiên vui vẻ gửi chúng xuống nước.
+Cảnh Bốn         Trong ngục tối, đội trưởng đội bảo vệ và quản gia đang ăn mừng khi Bilbo đánh cắp được chìa khóa và thả những người lùn.  Ông đóng chúng vào thùng để chuyển xuống sông, và những người khuân vác Tiên vui vẻ gửi chúng xuống nước.
 
 Cảnh Năm          Đến Lake Town, cả nhóm được chào đón bởi Bard khi người đứng đầu đội bảo vệ được đưa đến gặp Master, người đề nghị hỗ trợ họ bất chấp sự hoài nghi của ông rằng họ sẽ có thể đánh bại Smaug.
 
@@ -201,21 +201,21 @@ Cảnh Một          Thorin đứng trên sườn Dãy núi Cô Đơn tìm
 
 Cảnh Hai          Đi xuống trung tâm Ngọn Núi, Bilbo vô hình có thể trò chuyện với Smaug, phát hiện ra điểm yếu trong lớp vảy bọc thép của mình và trốn tránh bị bắt, nhưng không phải trước khi con rồng nhận ra rằng những kẻ đột kích chắc chắn đã nhận được sự giúp đỡ từ những người ở Lake Town.
 
-Cảnh Ba       Bilbo trốn thoát trở lại chỗ những người lùn trên sườn núi và nói với những người lùn về việc ông ta phát hiện ra lỗ hổng của Smaug do loài tưa miệng nghe lén được; nhưng con rồng lên đường đến Lake Town để trả thù.
+Cảnh Ba       Bilbo trốn thoát trở lại chỗ những người lùn trên sườn núi và nói với những người lùn về việc ông phát hiện ra lỗ hổng của Smaug do loài tưa miệng nghe lén được; nhưng con rồng lên đường đến Lake Town để trả thù.
 
-Cảnh Bốn         Bard kích động các cung thủ của Lake Town chống lại con rồng đang cướp bóc, nhưng phải đến khi con chim hét nói với ông ta về điểm yếu của Smaug thì mũi tên của ông ta mới có thể tìm ra dấu vết và giết chết con thú. Người dân của Thị trấn Hồ, do Chủ nhân của họ lãnh đạo, than thở về việc nơi ở của họ bị phá hủy, nhưng Bard tuyên bố rằng ông ta sẽ tìm cách tái lập vương quốc Dale của tổ tiên mình trong bóng tối của Ngọn núi mà giờ đây ông ta mong đợi sẽ bị bỏ hoang.
+Cảnh Bốn         Bard kích động các cung thủ của Lake Town chống lại con rồng đang cướp bóc, nhưng phải đến khi con chim hét nói với ông về điểm yếu của Smaug thì mũi tên của ông mới có thể tìm ra dấu vết và giết chết con thú. Người dân của Thị trấn Hồ, do Chủ nhân của họ lãnh đạo, than thở về việc nơi ở của họ bị phá hủy, nhưng Bard tuyên bố rằng ông sẽ tìm cách tái lập vương quốc Dale của tổ tiên mình trong bóng tối của Ngọn núi mà giờ đây ông mong đợi sẽ bị bỏ hoang.
 
 Cảnh Năm          Bilbo thuyết phục những người lùn rằng họ chỉ có thể trốn thoát qua những hang động thấp hơn của ngọn núi, bất chấp sự nguy hiểm của con rồng. Họ miễn cưỡng đồng ý.
 
-Cảnh thứ sáu             Bước vào hang rồng một lần nữa, Bilbo tìm thấy Arkenstone, trái tim của Ngọn núi và viên ngọc quý nhất trong kho tích trữ, và ông ta được bao bọc bởi Thorin trong bộ giáp của người lùn. Chim hét xuất hiện trở lại để thông báo cho họ về cái chết của con rồng, nhưng cảnh báo họ rằng những người khác ngoài họ hiện đang tìm cách chiếm hữu kho báu: không chỉ Bard tìm cách khắc phục thiệt hại mà Người Hồ phải gánh chịu mà còn cả Tiên tộc của Mirkwood. Thorin phái chim đi tìm sự trợ giúp từ người anh họ Dáin và chuẩn bị cho một cuộc bao vây.
+Cảnh thứ sáu             Bước vào hang rồng một lần nữa, Bilbo tìm thấy Arkenstone, trái tim của Ngọn núi và viên ngọc quý nhất trong kho tích trữ, và ông được bao bọc bởi Thorin trong bộ giáp của người lùn. Chim hét xuất hiện trở lại để thông báo cho họ về cái chết của con rồng, nhưng cảnh báo họ rằng những người khác ngoài họ hiện đang tìm cách chiếm hữu kho báu: không chỉ Bard tìm cách khắc phục thiệt hại mà Người Hồ phải gánh chịu mà còn cả Tiên tộc của Mirkwood. Thorin phái chim đi tìm sự trợ giúp từ người anh họ Dáin và chuẩn bị cho một cuộc bao vây.
 
 <br> 6             MÂY BẬT
 
-Cảnh một          Những người lùn đang hát mừng chiến thắng về vương quốc đã giành lại được của họ thì Balin bước vào để thông báo rằng quân đội của cả Bard và Vua Tiên hiện đã đến. Để đàm phán với họ Thorin từ chối đàm phán dưới sự ép buộc, và Bilbo bị canh gác. Khi Bard lén lút tiếp cận, Bilbo đưa cho ông ta Arkenstone để hỗ trợ cho việc thương lượng.
+Cảnh một          Những người lùn đang hát mừng chiến thắng về vương quốc đã giành lại được của họ thì Balin bước vào để thông báo rằng quân đội của cả Bard và Vua Tiên hiện đã đến. Để đàm phán với họ Thorin từ chối đàm phán dưới sự ép buộc, và Bilbo bị canh gác. Khi Bard lén lút tiếp cận, Bilbo đưa cho ông Arkenstone để hỗ trợ cho việc thương lượng.
 
-Cảnh Hai          Sáng hôm sau Thorin vẫn tiếp tục có hiệu lực cho đến khi Bard đưa ra Arkenstone để đổi lấy tiền bồi thường; và khi ông ta phát hiện ra rằng chính Bilbo là người đã đưa viên ngọc cho họ, cơn giận dữ của ông ta chỉ được ngăn chặn khi có sự xuất hiện bất ngờ của Gandalf, người thay mặt anh chàng hobbit cầu thay. Dáin bây giờ đứng đầu một đội quân người lùn, và đột nhiên xung đột nổ ra khi lực lượng tập hợp bị tấn công bởi lũ Orc và yêu tinh cũng đang tìm cách cướp bóc. Trận chiến diễn ra ác liệt và Thorin bị thương nặng trong lúc giằng co. Bilbo, nhìn thấy đàn đại bàng từ xa lao tới, bị đá rơi choáng váng.
+Cảnh Hai          Sáng hôm sau Thorin vẫn tiếp tục có hiệu lực cho đến khi Bard đưa ra Arkenstone để đổi lấy tiền bồi thường; và khi ông phát hiện ra rằng chính Bilbo là người đã đưa viên ngọc cho họ, cơn giận dữ của ông chỉ được ngăn chặn khi có sự xuất hiện bất ngờ của Gandalf, người thay mặt anh chàng hobbit cầu thay. Dáin bây giờ đứng đầu một đội quân người lùn, và đột nhiên xung đột nổ ra khi lực lượng tập hợp bị tấn công bởi lũ Orc và yêu tinh cũng đang tìm cách cướp bóc. Trận chiến diễn ra ác liệt và Thorin bị thương nặng trong lúc giằng co. Bilbo, nhìn thấy đàn đại bàng từ xa lao tới, bị đá rơi choáng váng.
 
-Cảnh Ba       Gandalf tìm thấy người hobbit bất tỉnh trên chiến trường và đưa ông ta đến Thorin với người mà ông ta đã hòa giải trước khi vua lùn chết. Dáin hiện được tuyên bố là Vua Dưới Núi vì thi hài của Thorin được an táng một cách trang trọng.
+Cảnh Ba       Gandalf tìm thấy người hobbit bất tỉnh trên chiến trường và đưa ông đến Thorin với người mà ông đã hòa giải trước khi vua lùn chết. Dáin hiện được tuyên bố là Vua Dưới Núi vì thi hài của Thorin được an táng một cách trang trọng.
 
 Cảnh Bốn         Trở lại Tiên tộc vui vẻ trong Rivendell, Gandalf và Bilbo được ca ngợi bởi Elrond và sau này được chỉ định là Bạn của Tiên tộc. Họ lắng nghe tiếng hát Tiên tộc khi màn đêm buông xuống, và trong cảnh cuối đầy mộng mơ, Bilbo được nhìn thấy đang trở về nhà với những trải nghiệm phong phú của mình.
 

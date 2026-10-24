@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 8 tháng 7.
 - **[1915](1915.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết bài thơ *[The Shores of Elfland](../T/The_Shores_of_Elfland.md)*.
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 137e](../L/Letter_137e.md).
 - **[1963](1963.md)** - Bài viết "[Tiếng Anh và tiếng Wales](../E/English_and_Welsh.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản tại *[Angles and Britons: O'Donnell Lectures](../A/Angles_and_Britons.md)*.
-- **[1969](1969.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chẩn đoán túi mật bị viêm hoặc bị bệnh. Tiến sĩ Denis Tolhurst cấm ông ta tiêu thụ chất béo (đặc biệt là bơ) và thậm chí tệ hơn là rượu.
+- **[1969](1969.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chẩn đoán túi mật bị viêm hoặc bị bệnh. Tiến sĩ Denis Tolhurst cấm ông tiêu thụ chất béo (đặc biệt là bơ) và thậm chí tệ hơn là rượu.
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Norman Power](../L/Letter_to_Norman_Power.md).
 - **[1999](1999.md)** - [Tolkien Sự kiện](../T/Tolkien_Thing.md) đầu tiên được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Cologne" title="wikipedia:Cologne">Cologne</a>.
 - **[2010](2010.md)** - *[Tolkien Calendar 2011](../T/Tolkien_Calendar_2011.md)* được xuất bản.

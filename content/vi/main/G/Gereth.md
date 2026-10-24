@@ -16,7 +16,7 @@ categories:
 
 **Gereth** là một [Gnome](Gnome.md) đã giúp [Elwing](../E/Elwing.md) thoát khỏi [sự tàn phá của Artanor](../S/Second_Kinslaying.md) bởi [các con trai của Fëanor](../S/Sons_of_Fëanor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Ông ta cùng với [Evranin](../E/Evranin.md), y tá của Elwing, cũng đã tìm cách buôn lậu [Nauglafring](../N/Nauglafring.md) ra khỏi Artanor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông cùng với [Evranin](../E/Evranin.md), y tá của Elwing, cũng đã tìm cách buôn lậu [Nauglafring](../N/Nauglafring.md) ra khỏi Artanor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

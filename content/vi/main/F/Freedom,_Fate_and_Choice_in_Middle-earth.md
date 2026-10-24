@@ -49,7 +49,7 @@ infobox:
 - "Tiếng nói của âm nhạc - Mô hình ý chí tự do trong Trung Địa của Tolkien" của Troels Forchhammer
 - "Số phận và tự do trong thế giới của Tolkien: Nghịch lý không thể giải quyết?" bởi [Charles E. Noad](../C/Charles_Noad.md)
 - "Lời thề của những đứa trẻ Ilúvatar trong Cuộc chiến Nhẫn" của Anne Marie Gazzolo
-- "Ai đã tạo ra số phận của Frodo? Tiên tộc hay chính ông ta?" của Sultana Raza
+- "Ai đã tạo ra số phận của Frodo? Tiên tộc hay chính ông?" của Sultana Raza
 - "Frodo's Fate" (thơ) của Sultana Raza
 
 <br clear="all"/>

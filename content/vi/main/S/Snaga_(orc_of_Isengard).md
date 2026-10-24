@@ -47,7 +47,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../U/Uglúk.md" title="Uglúk">Uglúk</a> in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, <i><a href="../T/The_Uruk-hai.md" title="The Uruk-hai">The Uruk-hai</a></i> </cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Một [Orc](../O/Orcs.md), được gọi là **Snaga**, là một trinh sát dưới sự chỉ huy của [Uglúk](../U/Uglúk.md) và là thành viên của một đại đội đang đưa [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đến [Isengard](../I/Isengard.md). Ông ta đã bị giết khi các tay đua của [Éomer](../_/Éomer.md) tấn công trại của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một [Orc](../O/Orcs.md), được gọi là **Snaga**, là một trinh sát dưới sự chỉ huy của [Uglúk](../U/Uglúk.md) và là thành viên của một đại đội đang đưa [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đến [Isengard](../I/Isengard.md). Ông đã bị giết khi các tay đua của [Éomer](../_/Éomer.md) tấn công trại của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

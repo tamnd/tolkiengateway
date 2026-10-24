@@ -52,7 +52,7 @@ Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) ngày 18 tháng 10 [T.A.]
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo của *[The Hobbit](The_Hobbit.md)*, Công ty đã tìm thấy một thứ khác trong hang ổ của Troll ngoài ba thanh kiếm - họ cũng tìm thấy chìa khóa của [Cửa Sau](../B/Back_Door.md) của [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md), mặc dù lúc đó họ không biết điều đó.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Gandalf đã giữ chiếc chìa khóa trong hang và đưa nó cho Thorin ngay trước khi ông ta rời Công ty tại cổng [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Bật [Ngày Durin](../D/Durin's_Day.md) chính Bilbo đã nhớ lại chiếc chìa khóa troll và họ thấy rằng đó là chiếc chìa khóa phù hợp để mở cửa.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Trong bản thảo của *[The Hobbit](The_Hobbit.md)*, Công ty đã tìm thấy một thứ khác trong hang ổ của Troll ngoài ba thanh kiếm - họ cũng tìm thấy chìa khóa của [Cửa Sau](../B/Back_Door.md) của [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md), mặc dù lúc đó họ không biết điều đó.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Gandalf đã giữ chiếc chìa khóa trong hang và đưa nó cho Thorin ngay trước khi ông rời Công ty tại cổng [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Bật [Ngày Durin](../D/Durin's_Day.md) chính Bilbo đã nhớ lại chiếc chìa khóa troll và họ thấy rằng đó là chiếc chìa khóa phù hợp để mở cửa.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -72,7 +72,7 @@ Trong bản thảo của *[The Hobbit](The_Hobbit.md)*, Công ty đã tìm thấ
 
 <dl><dd>Trong trò chơi, hang ổ của Troll được Bilbo khám phá và ngụ ý rằng nó được xây dựng bởi <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a>.</dd></dl>
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hang ổ Troll', cùng với Stone Troll' Glade, nằm trong khu vực Trollshaws. Hang động không thể tiếp cận được.</dd></dl>
 

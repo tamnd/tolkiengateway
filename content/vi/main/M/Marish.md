@@ -57,7 +57,7 @@ Những [Shire-dân cư](../S/Shire-hobbits.md) ở vùng này thận trọng h�
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Marish.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a1/The_Lord_of_the_Rings_Online_-_Marish.jpg/250px-The_Lord_of_the_Rings_Online_-_Marish.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a1/The_Lord_of_the_Rings_Online_-_Marish.jpg/375px-The_Lord_of_the_Rings_Online_-_Marish.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a1/The_Lord_of_the_Rings_Online_-_Marish.jpg/500px-The_Lord_of_the_Rings_Online_-_Marish.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Marish in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Marish tạo thành điểm cuối phía đông nam của khu vực Shire trong trò chơi, vì <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> không có trong trò chơi.</dd></dl>
 

@@ -50,7 +50,7 @@ Khi [Isildur](../I/Isildur.md) cắt chiếc nhẫn ra khỏi tay Sauron, nó r�
 
 [Gandalf](../G/Gandalf.md) lần đầu tiên biết đến dòng chữ này khi anh đọc [tài khoản](../S/Scroll_of_Isildur.md) mà Isildur đã viết trước khi hành quân về phía bắc đến [cái chết](../D/Disaster_of_the_Gladden_Fields.md) và sự mất mát của Chiếc nhẫn.<sup id="cite_ref-Council_2-2" class="reference"><a href="#cite_note-Council-2">[2]</a></sup> Sau đó, khi Gandalf đốt nóng chiếc nhẫn [Bilbo Baggins](../B/Bilbo_Baggins.md) đã tìm thấy và chuyển cho [Frodo](../F/Frodo_Baggins.md), dòng chữ xuất hiện, khiến anh không còn nghi ngờ gì rằng đó chính là Chiếc nhẫn Một.<sup id="cite_ref-Shadow_5-1" class="reference"><a href="#cite_note-Shadow-5">[5]</a></sup>
 
-Rất lâu trước đó, khi tạo ra Chiếc Nhẫn Chúa, những người thợ rèn [Eregion](../E/Eregion.md) đã rèn [Những Chiếc Nhẫn Quyền Năng](Rings_of_Power.md) chiếc kia đã nghe thấy trong tâm trí họ giọng nói của [Sauron](../S/Sauron.md), đọc thuộc lòng các từ đó. Sau đó, họ nhận ra kế hoạch của ông ta, tháo nhẫn ra khỏi ngón tay của họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Rất lâu trước đó, khi tạo ra Chiếc Nhẫn Chúa, những người thợ rèn [Eregion](../E/Eregion.md) đã rèn [Những Chiếc Nhẫn Quyền Năng](Rings_of_Power.md) chiếc kia đã nghe thấy trong tâm trí họ giọng nói của [Sauron](../S/Sauron.md), đọc thuộc lòng các từ đó. Sau đó, họ nhận ra kế hoạch của ông, tháo nhẫn ra khỏi ngón tay của họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Bản dịch {#Translation}
 
@@ -140,7 +140,7 @@ Ba vị dành cho Tiên-vị vua của đất, biển và bầu trời<br/>
 
 <dl><dd>Những lời của Dòng chữ trên chiếc nhẫn trong Hắc Ngữ được hô vang trong đoạn phim mở đầu và được trích dẫn nhiều lần trong suốt trò chơi, đặc biệt là khi đánh lạc hướng kẻ thù khi có thể nghe thấy từ "Ash Nazg" đang được Wraith thì thầm.</dd></dl>
 
-<b>2017: <i><a class="mw-redirect" href="../L/Lord_of_the_Rings_Online.md#Mordor_Expansion" title="Lord of the Rings Online">The Lord of the Rings Trực tuyến: Mordor</a></i>:</b>
+<b>2017: <i><a class="mw-redirect" href="../L/Lord_of_the_Rings_Online.md#Mordor_Expansion" title="Lord of the Rings Online">The Lord of the Rings Online: Mordor</a></i>:</b>
 
 <dl><dd>Lời của Ring-verse trong Hắc Ngữ, cùng với tên Sauron được sử dụng làm lời bài hát trong ca khúc "Chant for Sauron", sáng tác bởi <a href="../C/Chance_Thomas.md" title="Chance Thomas">Chance Thomas</a>. Bản thân bài hát này đã có trong trò chơi kể từ bản mở rộng <i><a class="mw-redirect" href="../L/Lord_of_the_Rings_Online.md#Mines_of_Moria_Expansion" title="Lord of the Rings Online">Mines of Moria</a></i>, được sử dụng làm nhạc nền trong trận đấu trùm chống lại Caerlûg ở Nala-dûm, nhưng lần đầu tiên được phát hành dưới dạng nhạc nền chính thức với bản mở rộng <i>Mordor</i>.</dd></dl>
 

@@ -20,7 +20,7 @@ images:
 
 **Vua Tòa án** đề cập đến các tòa án của [Các vị vua của Númenor](King_of_Númenor.md) ở [Armenelos](../A/Armenelos.md), nơi [Nimloth](<../N/Nimloth_(tree).md>), <a class="mw-disambig" href="../W/White_Tree_(disambiguation).md" title="White Tree (disambiguation)">Cây Trắng</a> của Númenor đã phát triển.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Sau khi [Sauron](../S/Sauron.md) bị đưa về [Númenor](../N/Númenor.md) và bắt đầu nắm được quyền lực trên [Ar-Pharazôn](../A/Ar-Pharazôn.md), ông đã thúc giục nhà vua chặt bỏ Nimloth. Khi [Isildur](../I/Isildur.md) biết được mục đích của Sauron, một đêm nọ, ông ta vào Tòa án Vua, một mình và cải trang, và lấy một quả trên cây. Isildur đã phải đấu tranh để thoát khỏi tòa án; sau đó nhà vua nhượng bộ Sauron và cho chặt cây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi [Sauron](../S/Sauron.md) bị đưa về [Númenor](../N/Númenor.md) và bắt đầu nắm được quyền lực trên [Ar-Pharazôn](../A/Ar-Pharazôn.md), ông đã thúc giục nhà vua chặt bỏ Nimloth. Khi [Isildur](../I/Isildur.md) biết được mục đích của Sauron, một đêm nọ, ông vào Tòa án Vua, một mình và cải trang, và lấy một quả trên cây. Isildur đã phải đấu tranh để thoát khỏi tòa án; sau đó nhà vua nhượng bộ Sauron và cho chặt cây.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

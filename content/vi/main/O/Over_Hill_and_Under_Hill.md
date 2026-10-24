@@ -41,7 +41,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Gandalf](../G/Gandalf.md) dẫn mười ba người lùn và người hobbit lên [Dãy Núi Sương Mù](../M/Misty_Mountains.md) - được sự giúp đỡ của [Elrond](../E/Elrond.md) và lời khuyên của ông ta - với mục đích tìm ra lối đi phù hợp.
+[Gandalf](../G/Gandalf.md) dẫn mười ba người lùn và người hobbit lên [Dãy Núi Sương Mù](../M/Misty_Mountains.md) - được sự giúp đỡ của [Elrond](../E/Elrond.md) và lời khuyên của ông - với mục đích tìm ra lối đi phù hợp.
 
 Vào một đêm đặc biệt lạnh lẽo và giông bão của [Thứ Hai](../M/Monday.md),<sup id="cite_ref-H_06.304_1-1" class="reference"><a href="#cite_note-H_06.304-1">[1]</a></sup> trên núi cao, [Người khổng lồ đá](../G/Giants.md) đang ném đá như một trò chơi; [Thorin](../T/Thorin.md) đặc biệt khó chịu với nơi họ quyết định định cư, và cuối cùng [Kíli](../K/Kíli.md) và [Fíli](../F/Fíli.md) được đưa đi tìm nơi trú ẩn tốt hơn. Ngay sau đó họ quay lại và nói với những người khác rằng họ đã tìm thấy một hang động khô có kích thước vừa phải, có chỗ cho tất cả mọi người kể cả ngựa con. Tất cả họ đều đến được hang động và Gandalf thắp cây đũa phép của mình để khám phá toàn bộ hang động.
 

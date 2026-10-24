@@ -30,7 +30,7 @@ infobox:
 
 **The Lord of the Rings MUSH II** là một <a class="extiw" href="http://en.wikipedia.org/wiki/MUSH" title="wikipedia:MUSH">MUSH</a> được tạo bởi [Christopher Anderson](../C/Christopher_Anderson.md).
 
-Trò chơi diễn ra trong [Kỷ Đệ Tứ](../F/Fourth_Age.md), trong Vương quyền của [Aragorn](../A/Aragorn.md). Ông ta cử một nhóm nhà thám hiểm - những người chơi - đến [phía đông](../R/Rhûn.md) để tìm kiếm [Blue Pháp sư](../B/Blue_Wizards.md). Việc lập trình bắt đầu vào [1999](../_/1999.md) nhưng nó vẫn chưa được phát hành. Nếu nó sẽ không chắc chắn.
+Trò chơi diễn ra trong [Kỷ Đệ Tứ](../F/Fourth_Age.md), trong Vương quyền của [Aragorn](../A/Aragorn.md). Ông cử một nhóm nhà thám hiểm - những người chơi - đến [phía đông](../R/Rhûn.md) để tìm kiếm [Blue Pháp sư](../B/Blue_Wizards.md). Việc lập trình bắt đầu vào [1999](../_/1999.md) nhưng nó vẫn chưa được phát hành. Nếu nó sẽ không chắc chắn.
 
 ## Liên kết ngoài {#External_links}
 

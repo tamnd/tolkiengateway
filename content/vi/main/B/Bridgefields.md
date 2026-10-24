@@ -29,7 +29,7 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bridgefields là khu vực ở phía đông của Shire xung quanh <a href="Budgeford.md" title="Budgeford">Budgeford</a> và phía nam của <a href="../G/Greenfields.md" title="Greenfields">Greenfields</a>.</dd></dl>
 

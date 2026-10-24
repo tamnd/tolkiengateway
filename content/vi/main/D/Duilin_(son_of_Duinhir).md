@@ -98,7 +98,7 @@ Cùng với anh trai [Derufin](Derufin.md), Duilin theo cha đến [Minas Tirith
 
 <dl><dd>Thẻ Giải mã xác định một trong những <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers</a> của <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a> trong <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i> là Duilin.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Duilin và <a href="Derufin.md" title="Derufin">anh trai</a> là những người đam mê săn bắn. Hai anh em cùng người chơi tiến vào <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> và nhóm đã thành công trong việc gây sát thương <a href="../G/Grond_(battering_ram).md" title="Grond (battering ram)">Grond</a> trước khi chạm trán <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a> và buộc phải rút lui. Cả hai anh em đều chết trong <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a> khi dẫn mûmakil ra khỏi người chơi.</dd></dl>
 

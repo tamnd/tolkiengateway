@@ -41,9 +41,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ragnor chiến đấu trong [Dagor Bragollach](../D/Dagor_Bragollach.md) dưới sự chỉ huy của [Barahir](../B/Barahir.md). Ông ta là thành viên của một nhóm nhỏ những người trung thành với lãnh chúa của họ đã sống sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Những người sống sót đã thành lập một [ban nhạc](../B/Barahir's_outlaws.md) nhỏ và sống ngoài vòng pháp luật ở [Dorthonion](../D/Dorthonion.md), gần [Tarn Aeluin](../T/Tarn_Aeluin.md).
+Ragnor chiến đấu trong [Dagor Bragollach](../D/Dagor_Bragollach.md) dưới sự chỉ huy của [Barahir](../B/Barahir.md). Ông là thành viên của một nhóm nhỏ những người trung thành với lãnh chúa của họ đã sống sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Những người sống sót đã thành lập một [ban nhạc](../B/Barahir's_outlaws.md) nhỏ và sống ngoài vòng pháp luật ở [Dorthonion](../D/Dorthonion.md), gần [Tarn Aeluin](../T/Tarn_Aeluin.md).
 
-Họ sống ẩn náu một thời gian cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md) bắt được [Gorlim](../G/Gorlim.md) và buộc ông ta phải cung cấp địa điểm nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích nó và đã thành công. Ragnor và những kẻ ngoài vòng pháp luật khác đã bị giết. Chỉ có [Beren](../B/Beren.md) sống sót vì ông ta đã đi công tác xa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Họ sống ẩn náu một thời gian cho đến khi đặc vụ của [Morgoth](../M/Morgoth.md) bắt được [Gorlim](../G/Gorlim.md) và buộc ông phải cung cấp địa điểm nơi ẩn náu của họ. [Orc](../O/Orcs.md) được cử đi đột kích nó và đã thành công. Ragnor và những kẻ ngoài vòng pháp luật khác đã bị giết. Chỉ có [Beren](../B/Beren.md) sống sót vì ông đã đi công tác xa.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

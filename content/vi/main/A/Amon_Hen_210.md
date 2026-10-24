@@ -88,7 +88,7 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: Jeff Stevenson
 - Cặp song sinh không thể tin được: [Bilbo Baggins](../B/Bilbo_Baggins.md) và cô Marple
     - Bởi: David Grayson
-- "...ông ta là người khập khiễng và có tài khoản nhỏ..." Khuyết tật và nhục nhã
+- "...ông là người khập khiễng và có tài khoản nhỏ..." Khuyết tật và nhục nhã
     - Bởi: Lin Davies
 - Thư
 Lời cầu xin - [Toán học](../M/Mathoms.md)

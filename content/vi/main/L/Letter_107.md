@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết đã nhận được thư từ [Horus Engels](../H/Horus_Engels.md) về bản dịch tiếng Đức của *The Hobbit*, mặc dù có vẻ như ông ta không đề nghị mình làm người phiên dịch. Các hình minh họa của Engels có những giá trị nhất định nhưng lại quá “bị coi thường” so với sở thích của Tolkien: [Bilbo](../B/Bilbo_Baggins.md) với cái mũi chảy nước dãi và [Gandalf](../G/Gandalf.md) như một hình tượng vui nhộn thô tục thay vì kẻ lang thang Odinic của Tolkien.
+Tolkien cho biết đã nhận được thư từ [Horus Engels](../H/Horus_Engels.md) về bản dịch tiếng Đức của *The Hobbit*, mặc dù có vẻ như ông không đề nghị mình làm người phiên dịch. Các hình minh họa của Engels có những giá trị nhất định nhưng lại quá “bị coi thường” so với sở thích của Tolkien: [Bilbo](../B/Bilbo_Baggins.md) với cái mũi chảy nước dãi và [Gandalf](../G/Gandalf.md) như một hình tượng vui nhộn thô tục thay vì kẻ lang thang Odinic của Tolkien.
 
 Tolkien thông báo với Unwin rằng ông sẽ sớm chuyển đi và hy vọng điều này sẽ giải quyết được những vấn đề trong nước đã lấy đi quá nhiều thời gian. Ông vẫn hy vọng hoàn thành *The Lord of the Rings* trước tháng 1, nói rằng ông đang ở những chương cuối cùng.
 

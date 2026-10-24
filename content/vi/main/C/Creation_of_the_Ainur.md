@@ -32,7 +32,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/Šárka_Škorpíková_-_Eru_Iluvatar_(and_the_Ainur).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/31/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Eru_Iluvatar_%28and_the_Ainur%29.jpg/320px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Eru_Iluvatar_%28and_the_Ainur%29.jpg" decoding="async" loading="lazy" width="320" height="451" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Eru_Iluvatar_%28and_the_Ainur%29.jpg/480px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Eru_Iluvatar_%28and_the_Ainur%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/31/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Eru_Iluvatar_%28and_the_Ainur%29.jpg/640px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Eru_Iluvatar_%28and_the_Ainur%29.jpg 2x" data-file-width="1395" data-file-height="1968"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Sự kiện</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sự sáng tạo Ainur</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin sự kiện</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">The <a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a></td></tr><tr><th scope="row" class="tg-infobox-label">Kết quả</th><td class="tg-infobox-data">Sự tồn tại của <a href="../A/Ainur.md" title="Ainur">Ainur</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thuộc về</th><td class="tg-infobox-data">sáng tạo của <a href="../I/Ilúvatar.md" title="Ilúvatar">Eru</a></td></tr><tr><th scope="row" class="tg-infobox-label">Người tham gia</th><td class="tg-infobox-data">Eru</td></tr><tr><th scope="row" class="tg-infobox-label">Tài liệu tham khảo</th><td class="tg-infobox-data"><i><a href="../A/Ainulindalë.md" title="Ainulindalë">Ainulindalë</a></i></td></tr></tbody></table>
 
-Việc **việc tạo ra Ainur** là một sự kiện lớn trước khi tạo ra [Eä](../E/Eä.md), trong đó [Eru Ilúvatar](../I/Ilúvatar.md) tạo ra [Ainur](../A/Ainur.md) ("Thánh nhân"), những người hầu của ông ta.
+Việc **việc tạo ra Ainur** là một sự kiện lớn trước khi tạo ra [Eä](../E/Eä.md), trong đó [Eru Ilúvatar](../I/Ilúvatar.md) tạo ra [Ainur](../A/Ainur.md) ("Thánh nhân"), những người hầu của ông.
 
 ## Lịch sử {#History}
 
@@ -40,7 +40,7 @@ Ilúvatar đã tạo ra Ainur "ban đầu",<sup id="cite_ref-1" class="reference
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản đầu tiên của câu chuyện, có ghi rõ rằng Ilúvatar "hát trở thành Ainur" và sau đó ông ta định cư tại [khoảng trống](../V/Void.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong phiên bản đầu tiên của câu chuyện, có ghi rõ rằng Ilúvatar "hát trở thành Ainur" và sau đó ông định cư tại [khoảng trống](../V/Void.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

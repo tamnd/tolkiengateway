@@ -53,7 +53,7 @@ Trong phiên bản nháp của "[Những kỵ sĩ của Rohan](../T/The_Riders_o
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ngoài việc có thể nhìn thấy rõ ràng từ bên trong <a href="../I/Isengard.md" title="Isengard">Isengard</a>, sườn phía tây của ngọn núi còn có thể được khám phá là khu vực "Tâl Methedras", nơi có ngôi làng "Tûr Morva" của <a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a>.</dd></dl>
 

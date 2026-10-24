@@ -45,7 +45,7 @@ Vào thời của [Quản lý](../R/Ruling_Steward.md) [Túrin II](../T/Túrin_I
 
 Biệt động quân quyết liệt bảo vệ bí mật nơi ẩn náu của mình. Bản thân hồ bơi không có gì đặc biệt tuy nhiên nó được coi là một trong những ranh giới của nó nên bơi trong đó bị coi là xâm phạm thành trì và phải chịu án tử hình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong khi [Frodo](Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đang ở trong Henneth Annûn, [Gollum](../G/Gollum.md) đang tìm cá thì tình cờ tìm thấy bể bơi. Frodo thuyết phục Faramir tha cho ông ta và thay vào đó để ông ta xuống cứu ông ta.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong khi [Frodo](Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đang ở trong Henneth Annûn, [Gollum](../G/Gollum.md) đang tìm cá thì tình cờ tìm thấy bể bơi. Frodo thuyết phục Faramir tha cho ông và thay vào đó để ông xuống cứu ông.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

@@ -20,7 +20,7 @@ images:
 
 ## Trung Địa {#Middle-earth}
 
-- **[Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), một cái tên khá phổ biến (mặc dù rất phổ biến) dành cho [Người Mang Nhẫn](../R/Ring-bearer.md) và tám người bạn đồng hành của ông ta.**
+- **[Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md), một cái tên khá phổ biến (mặc dù rất phổ biến) dành cho [Người Mang Nhẫn](../R/Ring-bearer.md) và tám người bạn đồng hành của ông.**
 
 ## Sách {#Books}
 

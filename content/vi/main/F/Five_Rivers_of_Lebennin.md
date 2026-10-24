@@ -31,7 +31,7 @@ langlinks:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Năm con sông là Gilrain, Serni, Sirith, Celos và <a href="../E/Erui.md" title="Erui">Erui</a>. Mỗi con sông đều là lãnh địa của River-Maiden, một trong Năm chị em của Lebennin. Vào thời <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, Năm chị em được hầu hết <a href="../M/Men.md" title="Men">Con Người</a> của Lebennin coi là huyền thoại, mặc dù truyền thống để lại những giỏ hoa làm lễ vật cho dòng sông vẫn còn.</dd></dl>
 

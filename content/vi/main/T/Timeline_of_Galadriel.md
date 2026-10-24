@@ -59,7 +59,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### [67](../F/First_Age_67.md) {#67}
 
-- Galadriel được các anh trai của cô đến thăm ở Doriath, và [Thingol](Thingol.md) khiển trách họ đã che giấu câu chuyện <a class="mw-redirect mw-disambig" href="../K/Kinslaying.md" title="Kinslaying">Kinslaying</a> với ông ta. Họ ra đi nhưng cô vẫn ở lại.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+- Galadriel được các anh trai của cô đến thăm ở Doriath, và [Thingol](Thingol.md) khiển trách họ đã che giấu câu chuyện <a class="mw-redirect mw-disambig" href="../K/Kinslaying.md" title="Kinslaying">Kinslaying</a> với ông. Họ ra đi nhưng cô vẫn ở lại.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 ### [102](../F/First_Age_102.md) {#102}
 
@@ -125,7 +125,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### c. [1600](../S/Second_Age_1600.md) {#c._1600}
 
-- Sự phản bội của Sauron bị phát hiện khi ông ta rèn [Chiếc Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-Second_23-3" class="reference"><a href="#cite_note-Second-23">[23]</a></sup>
+- Sự phản bội của Sauron bị phát hiện khi ông rèn [Chiếc Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-Second_23-3" class="reference"><a href="#cite_note-Second-23">[23]</a></sup>
 
 ### [1693](../S/Second_Age_1693.md) {#1693}
 
@@ -178,7 +178,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### [2980](Third_Age_2980.md) {#2980}
 
-- Aragorn bước vào [Lothlórien](../L/Lothlórien.md) sau nhiều chuyến du hành,<sup id="cite_ref-Third_25-8" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1090</sup> được Galadriel thừa nhận, người đã bảo ông ta thay bộ quần áo cũ kỹ và mặc cho ông ta như một hoàng tử đúng nghĩa.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>
+- Aragorn bước vào [Lothlórien](../L/Lothlórien.md) sau nhiều chuyến du hành,<sup id="cite_ref-Third_25-8" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1090</sup> được Galadriel thừa nhận, người đã bảo ông thay bộ quần áo cũ kỹ và mặc cho ông như một hoàng tử đúng nghĩa.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>
 
 ### [3019](Third_Age_3019.md) {#3019}
 
@@ -186,7 +186,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 - [15 tháng 2](../_/15_February.md):<sup id="cite_ref-Great_29-1" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> Galadriel chiếu [Tấm gương của bà](../M/Mirror_of_Galadriel.md) cho Frodo Baggins. Bà bị cám dỗ bởi [Chiếc nhẫn một](../O/One_Ring.md) nhưng từ chối nó.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
 - [16 tháng 2](../_/16_February.md):<sup id="cite_ref-Great_29-2" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> Galadriel tặng [quà](../G/Gifts_of_Galadriel.md) và [lembas](../L/Lembas.md) cho Hội và chào tạm biệt họ bằng cách đọc *[Namárië](../N/Namárië.md)*.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
-- [17 tháng 2](../_/17_February.md): Gandalf được phục sinh được mang đến Lórien bởi [Gwaihir](../G/Gwaihir.md),<sup id="cite_ref-Great_29-3" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> người được gửi bởi Galadriel. Gandalf được nhận trong [Caras Galadhon](../C/Caras_Galadhon.md) và mặc đồ màu trắng. Galadriel đưa cho ông ta [một số thông điệp tiên tri](../G/Galadriel's_messages.md) cho [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md).<sup id="cite_ref-White_32-0" class="reference"><a href="#cite_note-White-32">[32]</a></sup>
+- [17 tháng 2](../_/17_February.md): Gandalf được phục sinh được mang đến Lórien bởi [Gwaihir](../G/Gwaihir.md),<sup id="cite_ref-Great_29-3" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> người được gửi bởi Galadriel. Gandalf được nhận trong [Caras Galadhon](../C/Caras_Galadhon.md) và mặc đồ màu trắng. Galadriel đưa cho ông [một số thông điệp tiên tri](../G/Galadriel's_messages.md) cho [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md).<sup id="cite_ref-White_32-0" class="reference"><a href="#cite_note-White-32">[32]</a></sup>
 
 - [28 tháng 3](../_/28_March.md): Sau [các cuộc tấn công vào Lothlórien](../A/Assaults_on_Lothlórien.md), Celeborn băng qua Anduin và [sự phá hủy Dol Guldur](../F/Fall_of_Dol_Guldur.md) bắt đầu.<sup id="cite_ref-Chief_33-0" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup> Ngay sau đó Galadriel ném các bức tường của Dol Guldur xuống.<sup id="cite_ref-Great_29-4" class="reference"><a href="#cite_note-Great-29">[29]</a></sup>
 

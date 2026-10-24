@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Vua Elessar](../A/Aragorn.md) cưỡi ngựa về phía bắc và dừng lại một thời gian ở [Annúminas](../A/Annúminas.md) bên Hồ [Evendim](../E/Evendim.md). Ông đến [Cầu Brandywine](../B/Brandywine_Bridge.md) và chào bạn bè ở đó. Ông ta trao [Ngôi sao Dúnedain](../S/Star_of_the_Dúnedain.md) cho Chủ nhân [Samwise](../S/Samwise_Gamgee.md), và [Elanor](../E/Elanor_Gardner.md) được phong làm phù dâu cho [Nữ hoàng Arwen](../A/Arwen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Vua Elessar](../A/Aragorn.md) cưỡi ngựa về phía bắc và dừng lại một thời gian ở [Annúminas](../A/Annúminas.md) bên Hồ [Evendim](../E/Evendim.md). Ông đến [Cầu Brandywine](../B/Brandywine_Bridge.md) và chào bạn bè ở đó. Ông trao [Ngôi sao Dúnedain](../S/Star_of_the_Dúnedain.md) cho Chủ nhân [Samwise](../S/Samwise_Gamgee.md), và [Elanor](../E/Elanor_Gardner.md) được phong làm phù dâu cho [Nữ hoàng Arwen](../A/Arwen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Sự ra đời của [Bilbo Gardner](../B/Bilbo_Gardner.md), con thứ mười và con trai thứ năm của [Samwise Gamgee](../S/Samwise_Gamgee.md) và [Rose Cotton](../R/Rose_Cotton.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Cái chết của [Glóin](../G/Glóin.md).<sup id="cite_ref-Durin_3-0" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
 

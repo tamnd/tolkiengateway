@@ -33,7 +33,7 @@ Tên có thể đại diện cho một dạng [Cũ Hobbitish](../O/Old_English.m
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Little Delving là một ngôi làng nhỏ ở phía tây bắc <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a>. Hobbit các nhân vật bắt đầu cuộc hành trình của họ ở đó sau khi kết thúc phần giới thiệu, nhưng sau đó rất ít việc vặt dẫn người chơi quay trở lại Little Delving.</dd></dl>
 

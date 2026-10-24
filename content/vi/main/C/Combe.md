@@ -59,7 +59,7 @@ Tên địa danh [tiếng Wales](../W/Welsh.md) ngoài đời thực <i><a class
 
 <dl><dd>Ngôi làng đã bị thiêu rụi vào <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1409.md" title="Third Age 1409">1409</a>, sau đó nó trở thành nơi Orc được giữ trong hai năm. Phải đến <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1420&amp;action=edit&amp;redlink=1" title="Third Age 1420 (page does not exist)">1420</a> ngôi làng mới được cấp lại đặc quyền.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Combe là một ngôi làng sầm uất được người chơi ghé thăm trong quá trình "Khuấy động trong Bóng Tối". Du khách mệt mỏi có thể thư giãn và uống rượu tại Comb and Wattle Inn. Ngôi làng do Constable Underhill chỉ huy.</dd></dl>
 

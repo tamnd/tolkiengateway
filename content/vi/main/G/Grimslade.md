@@ -47,7 +47,7 @@ Tên *Grimslade* được hiện đại hóa từ [tiếng Anh cổ](../O/Old_En
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayals_in_Adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>Grimslade is a small town in <a href="../W/Westfold.md" title="Westfold">Westfold</a>, located between <a href="../E/Edoras.md" title="Edoras">Edoras</a> and <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a> but closer to the latter. When Grimbold left with Prince <a class="mw-redirect" href="../T/Theodred.md" title="Theodred">Theodred</a> for the <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Fords of Isen</a>, the duties of Grimslade&#39;s Thane fell to his wife Hildith. On <a href="../_/3_March.md" title="3 March">3 March</a> of <a href="../T/Third_Age_3019.md" title="Third Age 3019">Third Age 3019</a> Grimslade is attacked by <a href="../S/Saruman.md" title="Saruman">Saruman</a>&#39;s <a class="mw-redirect" href="../H/Half-orc.md" title="Half-orc">half-orcs</a> who intend to burn it, but the attackers are repelled by the forces of <a href="../E/Elfhelm.md" title="Elfhelm">Elfhelm</a> during their march towards <a href="../E/Edoras.md" title="Edoras">Edoras</a>.</dd></dl>
 

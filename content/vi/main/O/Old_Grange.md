@@ -52,7 +52,7 @@ Grange đã bị phá bỏ trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Được gọi đơn giản là "The Grange", vựa lúa nằm ngay phía nam của <a href="../P/Party_Field.md" title="Party Field">Party Field</a>.</dd></dl>
 

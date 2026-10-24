@@ -37,7 +37,7 @@ Thaurband được đề cập trong một mục nhật ký được mã hóa �
 </p>
 </blockquote>
 
-### The Lord of the Rings Trực tuyến {#The_Lord_of_the_Rings_Online}
+### The Lord of the Rings Online {#The_Lord_of_the_Rings_Online}
 
 Mặc dù địa điểm này không được ghé thăm ở [The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md), Thaurband được nhắc đến trong nhiệm vụ chiến đấu với Gloom of Nurn, [Nazgûl](../N/Nazgûl.md) sống ở đó:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

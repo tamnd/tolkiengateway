@@ -37,7 +37,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Gandalf nằm trên đỉnh của [Orthanc](../O/Orthanc.md). Ông ta tóm lấy một con bướm đêm đang bay ngang qua và truyền một thông điệp đến nó trước khi đuổi nó đi. Bên dưới, vòng [Isengard](../I/Isengard.md) đã được chuyển đổi thành xưởng đúc và nơi sản sinh ra [Orc](../O/Orcs.md) mới và sản xuất thiết bị quy mô lớn. Saruman theo dõi [Uruk-hai](../U/Uruk-hai.md) mới được lai tạo, bao gồm cả một Uruk đáng gờm tên là [Lurtz](../L/Lurtz.md).
+Gandalf nằm trên đỉnh của [Orthanc](../O/Orthanc.md). Ông tóm lấy một con bướm đêm đang bay ngang qua và truyền một thông điệp đến nó trước khi đuổi nó đi. Bên dưới, vòng [Isengard](../I/Isengard.md) đã được chuyển đổi thành xưởng đúc và nơi sản sinh ra [Orc](../O/Orcs.md) mới và sản xuất thiết bị quy mô lớn. Saruman theo dõi [Uruk-hai](../U/Uruk-hai.md) mới được lai tạo, bao gồm cả một Uruk đáng gờm tên là [Lurtz](../L/Lurtz.md).
 
 ## Sự khác biệt {#Differences}
 

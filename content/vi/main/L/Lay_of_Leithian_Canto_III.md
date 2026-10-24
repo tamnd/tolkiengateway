@@ -94,7 +94,7 @@ và bắt và hôn cô hầu gái yêu tinh đó.
 <p class="tg-quote-footer"><cite>vv. 740-745</cite></p>
 </blockquote>
 
-Sau đó là một đoạn không giống với phần còn lại của Lay, trừ khi đó là suy nghĩ thương hại Lúthien của Thingol; một kiểu tiếng kêu của nhà thơ gửi đến người mà ông ta viết về, hỏi bà tại sao lại nhận lấy sự diệt vong của mình và để lại sự bất tử cho loài yêu tinh.
+Sau đó là một đoạn không giống với phần còn lại của Lay, trừ khi đó là suy nghĩ thương hại Lúthien của Thingol; một kiểu tiếng kêu của nhà thơ gửi đến người mà ông viết về, hỏi bà tại sao lại nhận lấy sự diệt vong của mình và để lại sự bất tử cho loài yêu tinh.
 
 <blockquote class="tg-quote noexcerpt">
 <p>MỘT! Lúthien! MỘT! Lúthien!<br/>

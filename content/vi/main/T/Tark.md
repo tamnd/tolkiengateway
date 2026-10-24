@@ -39,7 +39,7 @@ Có ít nhất hai cách giải thích về từ nguyên của *tark*, chỉ hơ
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bất cứ khi nào quân cờ được lật nghiêng về phía Người hầu của Mắt, một con Orc sẽ hét lên "hãy nhìn những con târks yếu ớt chạy!"</dd></dl>
 

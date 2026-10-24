@@ -85,7 +85,7 @@ Trong một ghi chú thảo luận về [Drúedain](../D/Drúedain.md), Tolkien 
 
 <dl><dd><b>Carnestad</b> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> “chữa bệnh đỏ”) được mô tả trong cuốn sách là một loại nấm ngồi xổm có mũ màu đỏ tươi, có nguồn gốc từ <a href="Mirkwood.md" title="Mirkwood">Mirkwood</a>. Nó vô hiệu hóa bệnh tật, hạ sốt và làm giảm các triệu chứng bệnh tật. Tiên tộc bảo vệ các bản vá của mình một cách cẩn thận, trong khi Con Người tìm cách bán chúng và Orc cố gắng từ chối những lợi ích của người khác.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Người chơi là nông dân chuyên nghiệp có thể trồng nấm. Người chơi là đầu bếp có thể chế biến những món này thành bánh nấm, nấm xào và dace xào nấm. Đây là những thực phẩm dành cho nhân vật cấp thấp có thể tăng các đặc điểm khác nhau.</dd></dl>
 

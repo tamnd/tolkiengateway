@@ -47,7 +47,7 @@ Sigewulf là tác phẩm nguyên bản dành cho phim *[The Lord of the Rings: T
 
 Sigewulf là một [Người đàn ông](../R/Rohirrim.md) dũng cảm của [Rohan](../R/Rohan.md) trong [Kỷ Đệ Tam](../T/Third_Age.md).
 
-Dự đoán trước một cuộc tấn công vào thủ đô [Edoras](../E/Edoras.md), [Théoden](../T/Théoden.md) [Vua](../K/King_of_Rohan.md) cùng Rohirrim bỏ chạy đến pháo đài [thủ đô Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md). Khi [Aragorn](../A/Aragorn.md) báo cáo rằng [Saruman phe Trắng](Saruman.md) đã cử một lực lượng hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) tấn công Hornburg, Théoden đã ra lệnh cho mọi người đàn ông và chàng trai khỏe mạnh có khả năng cầm vũ khí chuẩn bị cho trận chiến. Sigewulf được trang bị áo giáp và một thanh kiếm. Ông ta giơ kiếm lên trong trận chiến.
+Dự đoán trước một cuộc tấn công vào thủ đô [Edoras](../E/Edoras.md), [Théoden](../T/Théoden.md) [Vua](../K/King_of_Rohan.md) cùng Rohirrim bỏ chạy đến pháo đài [thủ đô Hornburg](../H/Hornburg.md) ở [Helm's Deep](../H/Helm's_Deep.md). Khi [Aragorn](../A/Aragorn.md) báo cáo rằng [Saruman phe Trắng](Saruman.md) đã cử một lực lượng hơn mười nghìn [Uruk-hai](../U/Uruk-hai.md) tấn công Hornburg, Théoden đã ra lệnh cho mọi người đàn ông và chàng trai khỏe mạnh có khả năng cầm vũ khí chuẩn bị cho trận chiến. Sigewulf được trang bị áo giáp và một thanh kiếm. Ông giơ kiếm lên trong trận chiến.
 
 <span></span>
 

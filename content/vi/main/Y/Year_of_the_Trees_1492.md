@@ -19,9 +19,9 @@ categories:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Melkor](../M/Melkor.md) xuất hiện trong [Formenos](../F/Formenos.md) và nói chuyện với [Fëanor](../F/Fëanor.md), nhưng Fëanor đuổi ông ta đi khi nhận ra rằng Melkor thèm muốn [Silmaril](../S/Silmarils.md).<sup id="cite_ref-AA_1-0" class="reference"><a href="#cite_note-AA-1">[1]</a></sup>
-- [Finwë](../F/Finwë.md) gửi tin nhắn đến [Manwë](../M/Manwë.md) cảnh báo ông ta về những gì đã xảy ra tại Formenos.<sup id="cite_ref-AA_1-1" class="reference"><a href="#cite_note-AA-1">[1]</a></sup>
-- [Oromë](../O/Oromë.md) và [Tulkas](../T/Tulkas.md) lên đường truy đuổi Melkor nhưng ông ta đã đi qua [Calacirya](../C/Calacirya.md) và rời đi [Valinor](../V/Valinor.md).<sup id="cite_ref-AA_1-2" class="reference"><a href="#cite_note-AA-1">[1]</a></sup>
+- [Melkor](../M/Melkor.md) xuất hiện trong [Formenos](../F/Formenos.md) và nói chuyện với [Fëanor](../F/Fëanor.md), nhưng Fëanor đuổi ông đi khi nhận ra rằng Melkor thèm muốn [Silmaril](../S/Silmarils.md).<sup id="cite_ref-AA_1-0" class="reference"><a href="#cite_note-AA-1">[1]</a></sup>
+- [Finwë](../F/Finwë.md) gửi tin nhắn đến [Manwë](../M/Manwë.md) cảnh báo ông về những gì đã xảy ra tại Formenos.<sup id="cite_ref-AA_1-1" class="reference"><a href="#cite_note-AA-1">[1]</a></sup>
+- [Oromë](../O/Oromë.md) và [Tulkas](../T/Tulkas.md) lên đường truy đuổi Melkor nhưng ông đã đi qua [Calacirya](../C/Calacirya.md) và rời đi [Valinor](../V/Valinor.md).<sup id="cite_ref-AA_1-2" class="reference"><a href="#cite_note-AA-1">[1]</a></sup>
 - [Melkor](../M/Melkor.md) gặp [Ungoliant](../U/Ungoliant.md) ở [Avathar](../A/Avathar.md) và họ bắt đầu kế hoạch phá hủy [Hai Cây](../T/Two_Trees.md).<sup id="cite_ref-AA_1-3" class="reference"><a href="#cite_note-AA-1">[1]</a></sup>
 
 <span></span>

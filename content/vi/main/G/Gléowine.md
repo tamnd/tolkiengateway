@@ -75,7 +75,7 @@ Trong những bản thảo đầu tiên, Gléowine được đặt tên là Gleo
 		</li>
 </ul>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gléowine lần đầu tiên bị trục xuất khỏi <a href="../E/Edoras.md" title="Edoras">Edoras</a> theo lệnh của <a href="Gríma.md" title="Gríma">Gríma Wormtongue</a>. Người chơi và Horn sau đó tìm thấy ông đang uống nỗi buồn ở thị trấn <a href="../S/Snowbourn.md" title="Snowbourn">Snowbourn</a>. Gléowine đồng ý đi cùng người chơi và họ phát hiện ra rằng vùng đất đã bị tàn phá bởi ma quỷ <a href="../S/Saruman.md" title="Saruman">Saruman</a>. Họ quay trở lại sau khi <a href="../T/Théoden.md" title="Théoden">Théoden</a> được <a href="Gandalf.md" title="Gandalf">Gandalf</a> chữa lành và Vua đưa Gléowine đi cùng trong chuyến đi tới <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Ford của Isen</a>. Trong <a class="mw-redirect" href="../B/Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">Trận Helm&#39;s Deep</a>, Gléowine tránh xa cuộc chiến và sau đó sáng tác một bài hát về chỗ đứng cuối cùng của người gác cửa Théoden <a href="../H/Háma.md" title="Háma">Háma</a>. Gléowine một lần nữa đồng hành cùng Vua tới <a href="../M/Minas_Tirith.md" title="Minas Tirith">Mundburg</a> và tận mắt chứng kiến ​​cái chết của Vua dưới bàn tay của <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a>.</dd></dl>
 

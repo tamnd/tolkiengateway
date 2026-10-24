@@ -23,7 +23,7 @@ images:
 
 **Én** là một loại chim. Chúng được tham chiếu thường xuyên trong [huyền thoại](../L/Legendarium.md).
 
-- Trong *[The Tale of Tinúviel](../T/The_Tale_of_Tinúviel.md)*, người ta lưu ý rằng [Timpinen](../T/Timpinen.md) sẽ rời khu vực xung quanh [Cottage of Lost Play](../C/Cottage_of_Lost_Play.md) trên một chiếc thuyền ma thuật màu xám trước mùa thu, và những con én đã kéo ông ta đi thật xa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:7</sup>
+- Trong *[The Tale of Tinúviel](../T/The_Tale_of_Tinúviel.md)*, người ta lưu ý rằng [Timpinen](../T/Timpinen.md) sẽ rời khu vực xung quanh [Cottage of Lost Play](../C/Cottage_of_Lost_Play.md) trên một chiếc thuyền ma thuật màu xám trước mùa thu, và những con én đã kéo ông đi thật xa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:7</sup>
 - Trong [Gnomish](../G/Gnomish.md), từ dành cho chim én là *"<a class="mw-redirect mw-disambig" href="../D/Duilin.md" title="Duilin">duilin</a>"*, với [Qenya](../Q/Qenya.md) cùng nguồn gốc là *"[tuilindo](../T/Tuilindo.md)"* được dịch là "ca sĩ mùa xuân"
 
 ## Tài liệu tham khảo {#References}

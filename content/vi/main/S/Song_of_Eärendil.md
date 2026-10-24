@@ -32,9 +32,9 @@ Người ta tin rằng bài hát này là sự làm lại của một bài thơ 
 ## Chia bài thơ {#Division_of_the_poem}
 
 1. Giới thiệu về [Eärendil](../E/Eärendil.md) và việc đóng [con tàu](../V/Vingilot.md) của ông
-2. Mô tả chi tiết về ông ta, dòng cuối cùng được cho là chịu ảnh hưởng của [Aragorn](../A/Aragorn.md)
+2. Mô tả chi tiết về ông, dòng cuối cùng được cho là chịu ảnh hưởng của [Aragorn](../A/Aragorn.md)
 3. Mô tả chuyến đi tìm kiếm [Valinor](../V/Valinor.md) không có kết quả của ông
-4. Làm thế nào [Elwing](../E/Elwing.md) vợ ông ta bay đến chỗ ông ta trong hình dạng một con chim và buộc viên ngọc vào trán ông ta
+4. Làm thế nào [Elwing](../E/Elwing.md) vợ ông bay đến chỗ ông trong hình dạng một con chim và buộc viên ngọc vào trán ông
 5. Làm thế nào ông tìm thấy Valinor
 6. Về việc ông ở đó
 7. Họ đã đóng một con tàu mới cho ông như thế nào và [Elbereth](../V/Varda.md) đã trao cho ông đôi cánh như thế nào
@@ -55,7 +55,7 @@ un<span style="color: green;">đã báo trước</span> ông <span style="color:
 </p>
 </div>
 
-Ở đây "bỏ chạy" có vần với "sped", nhưng ngoài ra, nguyên âm của "foam" cũng giống như nguyên âm đầu tiên của "homeward". Vì vậy, các đơn vị phù hợp là "bọt anh chạy trốn" và "về nhà tăng tốc". Một cặp đơn vị phù hợp khác là "lái ông ta" và "mù quáng". Một cái khác là "không sai lầm" và "\[un\]được báo trước".
+Ở đây "bỏ chạy" có vần với "sped", nhưng ngoài ra, nguyên âm của "foam" cũng giống như nguyên âm đầu tiên của "homeward". Vì vậy, các đơn vị phù hợp là "bọt anh chạy trốn" và "về nhà tăng tốc". Một cặp đơn vị phù hợp khác là "lái ông" và "mù quáng". Một cái khác là "không sai lầm" và "\[un\]được báo trước".
 
 Mô hình đó giống nhau xuyên suốt bài thơ. Trong mỗi bộ bốn dòng, ba âm tiết cuối của dòng đầu tiên khớp với âm tiết thứ hai, thứ ba và thứ tư của dòng thứ hai. Dòng thứ ba và thứ tư có cùng kiểu kết hợp. Và ba âm tiết cuối của dòng thứ hai khớp với ba âm tiết của dòng thứ tư, thường có vần chính xác ở cuối.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 2]</a></sup>
 

@@ -24,7 +24,7 @@ Trong bài thơ *[The Adventures of Tom Bombadil](<../T/The_Adventures_of_Tom_Bo
 
 <dl><dd><i><b>Sha</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Ningalen</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Nellaica</i>) là một loài hoa súng lấy từ đầm lầy ở <a href="../E/Ettendales.md" title="Ettendales">Ettendales</a>, loại hoa có dạng bột giúp tăng cường khả năng nhìn trong bóng tối, mặc dù cái giá của nó cũng là thuốc nhuận tràng mạnh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><i><b>Marsh lilies</b></i> là một loại cây phổ biến, trong đó cây <a href="../L/Lossarnach.md" title="Lossarnach">Lossarnach</a> được dùng để trang trí nhà ở.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

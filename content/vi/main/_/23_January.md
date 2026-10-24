@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 23 tháng 1.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phải đối mặt với Hội đồng y tế ở [Birmingham](../B/Birmingham.md), nhưng ông ta được cho là không đủ sức khỏe để quay lại [chiến tranh](../W/World_War_I.md).
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) phải đối mặt với Hội đồng y tế ở [Birmingham](../B/Birmingham.md), nhưng ông được cho là không đủ sức khỏe để quay lại [chiến tranh](../W/World_War_I.md).
 - **[1939](1939.md)** - [Anh em nhà Hildebrandt](../T/The_Brothers_Hildebrandt.md) ra đời.
 - **[2020](2020.md)** - [Barbara Remington](../B/Barbara_Remington.md), họa sĩ trang bìa trên một số ấn bản ở Mỹ, qua đời.
 - **[2021](2021.md)** - *[Tolkien and the Classical World](../T/Tolkien_and_the_Classical_World.md)* được xuất bản.

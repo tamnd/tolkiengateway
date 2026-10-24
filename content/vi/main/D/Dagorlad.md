@@ -38,7 +38,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dagorlad.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4f/The_Lord_of_the_Rings_Online_-_Dagorlad.jpg/250px-The_Lord_of_the_Rings_Online_-_Dagorlad.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4f/The_Lord_of_the_Rings_Online_-_Dagorlad.jpg/375px-The_Lord_of_the_Rings_Online_-_Dagorlad.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4f/The_Lord_of_the_Rings_Online_-_Dagorlad.jpg/500px-The_Lord_of_the_Rings_Online_-_Dagorlad.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Dagorlad với Mordor ở khoảng cách <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dagorlad là một khu vực thuộc vùng "Waste" nằm ở phía bắc của Cổng Đen.</dd></dl>
 

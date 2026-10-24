@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Kenney, Douglas C."
 ---
 
-**Douglas Clark Kenney** ([10 tháng 12](../_/10_December.md), [1947](../_/1947.md)- [29 tháng 8](../_/29_August.md), [1980](../_/1980.md)) là đồng tác giả của *[Bored of the Rings](<../B/Bored_of_the_Rings_(book).md>)* cùng với cộng tác viên lâu năm Henry Beard. Ông là người sáng tạo và là người đồng sáng lập của *National Lampoon*. Anh viết bài cho tạp chí, chương trình phát thanh, các tác phẩm sân khấu, album hài kịch và chương trình truyền hình đặc biệt *Lemmings: Dead in Concert* cũng như bộ phim đầu tiên *Animal House*. Ông ta chết khi rơi xuống một vách đá ở Hawaii ở tuổi 33.
+**Douglas Clark Kenney** ([10 tháng 12](../_/10_December.md), [1947](../_/1947.md)- [29 tháng 8](../_/29_August.md), [1980](../_/1980.md)) là đồng tác giả của *[Bored of the Rings](<../B/Bored_of_the_Rings_(book).md>)* cùng với cộng tác viên lâu năm Henry Beard. Ông là người sáng tạo và là người đồng sáng lập của *National Lampoon*. Anh viết bài cho tạp chí, chương trình phát thanh, các tác phẩm sân khấu, album hài kịch và chương trình truyền hình đặc biệt *Lemmings: Dead in Concert* cũng như bộ phim đầu tiên *Animal House*. Ông chết khi rơi xuống một vách đá ở Hawaii ở tuổi 33.
 
 ## Liên kết ngoài {#External_links}
 

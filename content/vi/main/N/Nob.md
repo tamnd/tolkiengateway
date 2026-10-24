@@ -56,7 +56,7 @@ infobox:
 
 Nob sống ở cuối [Kỷ Đệ Tam](../T/Third_Age.md) và có lẽ là đầu [Kỷ Đệ Tứ](../F/Fourth_Age.md). Ông làm việc cho [Barliman Butterbur](../B/Barliman_Butterbur.md) tại *[The Prancing Pony](../T/The_Prancing_Pony.md)* với [Bob](../B/Bob.md), nơi ông phục vụ đồ ăn và đáp ứng mọi nhu cầu khác mà khách hàng có thể có.
 
-Vào [tháng Chín 29](../_/29_September.md), [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [bốn Shire-hobbit](../T/Travellers.md) đã đến *The Prancing Pony*.<sup id="cite_ref-Sign_1-1" class="reference"><a href="#cite_note-Sign-1">[1]</a></sup> Khi một trong số họ, [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), mất tích sau một chuyến dạo đêm, Nob tìm thấy ông ta ở gần nhà của [Bill Ferny](../B/Bill_Ferny.md).<sup id="cite_ref-Strider_3-0" class="reference"><a href="#cite_note-Strider-3">[3]</a></sup> Nhận ra [nguy hiểm](Nazgûl.md), Nob giúp Hobbit ngụy trang giường ngủ, canh gác vào ban đêm. Tuy nhiên, quán trọ đã bị tấn công.<sup id="cite_ref-Knife_4-0" class="reference"><a href="#cite_note-Knife-4">[4]</a></sup>
+Vào [tháng Chín 29](../_/29_September.md), [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [bốn Shire-hobbit](../T/Travellers.md) đã đến *The Prancing Pony*.<sup id="cite_ref-Sign_1-1" class="reference"><a href="#cite_note-Sign-1">[1]</a></sup> Khi một trong số họ, [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md), mất tích sau một chuyến dạo đêm, Nob tìm thấy ông ở gần nhà của [Bill Ferny](../B/Bill_Ferny.md).<sup id="cite_ref-Strider_3-0" class="reference"><a href="#cite_note-Strider-3">[3]</a></sup> Nhận ra [nguy hiểm](Nazgûl.md), Nob giúp Hobbit ngụy trang giường ngủ, canh gác vào ban đêm. Tuy nhiên, quán trọ đã bị tấn công.<sup id="cite_ref-Knife_4-0" class="reference"><a href="#cite_note-Knife-4">[4]</a></sup>
 
 Khi bốn hobbit đó trở lại vào [28 tháng 10](../_/28_October.md) [năm sau](../T/Third_Age_3019.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Nob vẫn làm việc ở *The Prancing Pony*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -95,7 +95,7 @@ Trong tiếng Anh lịch sử *nob* là tiếng lóng biểu thị sự thiếu 
 
 <dl><dd>Không có diễn viên lồng tiếng nào được chỉ định cho phần nhỏ này. Vai trò tìm kiếm Merry của anh đã được <a href="../A/Aragorn.md" title="Aragorn">Strider</a> đảm nhận.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nob đang chạy việc vặt bên ngoài <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a> nhưng không đóng vai trò gì trong cốt truyện.</dd></dl>
 

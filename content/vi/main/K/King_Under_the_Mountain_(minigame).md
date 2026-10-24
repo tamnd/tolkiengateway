@@ -32,7 +32,7 @@ infobox:
 
 ## Cách chơi {#Gameplay}
 
-Trò chơi có cả phần chơi đơn và nhiều người chơi, tối đa 6 người có thể tham gia.<sup id="cite_ref-Reminiscence_2-2" class="reference"><a href="#cite_note-Reminiscence-2">[2]</a></sup> Người chơi phải chinh phục tất cả các vùng của [Moria](../M/Moria.md) trong 15 lượt. Một phe bị đánh bại khi ông ta mất tất cả các khu vực của mình. Nếu không phải tất cả các phe phái đều bị đánh bại khi kết thúc trò chơi thì người chơi có nhiều khu vực nhất sẽ thắng.<sup id="cite_ref-Reminiscence_2-3" class="reference"><a href="#cite_note-Reminiscence-2">[2]</a></sup> Sau mỗi lượt, quân tiếp viện sẽ được đặt ngẫu nhiên ở các khu vực khác nhau.<sup id="cite_ref-Lotrolife_1-1" class="reference"><a href="#cite_note-Lotrolife-1">[1]</a></sup>
+Trò chơi có cả phần chơi đơn và nhiều người chơi, tối đa 6 người có thể tham gia.<sup id="cite_ref-Reminiscence_2-2" class="reference"><a href="#cite_note-Reminiscence-2">[2]</a></sup> Người chơi phải chinh phục tất cả các vùng của [Moria](../M/Moria.md) trong 15 lượt. Một phe bị đánh bại khi ông mất tất cả các khu vực của mình. Nếu không phải tất cả các phe phái đều bị đánh bại khi kết thúc trò chơi thì người chơi có nhiều khu vực nhất sẽ thắng.<sup id="cite_ref-Reminiscence_2-3" class="reference"><a href="#cite_note-Reminiscence-2">[2]</a></sup> Sau mỗi lượt, quân tiếp viện sẽ được đặt ngẫu nhiên ở các khu vực khác nhau.<sup id="cite_ref-Lotrolife_1-1" class="reference"><a href="#cite_note-Lotrolife-1">[1]</a></sup>
 
 ## Việc làm {#Deeds}
 

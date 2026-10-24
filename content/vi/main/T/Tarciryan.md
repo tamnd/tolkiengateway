@@ -70,7 +70,7 @@ Tarciryan có lẽ được sinh ra sau năm [T.A.](Third_Age.md) [654](Third_Ag
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tarciryan được nhắc đến trên tấm bảng dành riêng cho Eärnil I Ciryatan ở Cấp Công nhân, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Outer_Circle&amp;action=edit&amp;redlink=1" title="Outer Circle (page does not exist)">Vòng ngoài</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> của <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></dd></dl>
 

@@ -42,7 +42,7 @@ Trong [Mirkwood](../M/Mirkwood.md), những con sóc có màu đen.<sup id="cite
 
 <dl><dd>Sóc đen được mô tả và đưa ra số liệu thống kê trên tạp chí RPG <i>The Hall of Fire</i> (dành cho sử dụng với <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i> của <a href="../D/Decipher.md" title="Decipher">Decipher</a>). Sóc đen được cho là được tạo ra bởi 'ma thuật đen tối' và hoạt động như gián điệp cho <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sóc được tìm thấy khắp Trung Địa. Bậc thầy truyền thuyết cũng có thể nuôi thú cưng sóc không chiến đấu.</dd></dl>
 

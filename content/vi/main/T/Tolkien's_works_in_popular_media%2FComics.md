@@ -55,7 +55,7 @@ Hình minh họa được xuất bản đầu tiên được biết đến theo 
 
 ### Truyện tranh DC {#DC_Comics}
 
-- Trong loạt phim <i><a class="extiw" href="http://en.wikipedia.org/wiki/Blue_Beetle" title="wikipedia:Blue Beetle">Blue Beetle</a></i> năm 2006, "nơi ẩn náu" của người anh hùng cùng tên được gọi là [Hobbiton](../H/Hobbiton.md). Kẻ thù nhỏ của ông ta, Diviner, triệu hồi Ent.
+- Trong loạt phim <i><a class="extiw" href="http://en.wikipedia.org/wiki/Blue_Beetle" title="wikipedia:Blue Beetle">Blue Beetle</a></i> năm 2006, "nơi ẩn náu" của người anh hùng cùng tên được gọi là [Hobbiton](../H/Hobbiton.md). Kẻ thù nhỏ của ông, Diviner, triệu hồi Ent.
 - Trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Secret_Origins" title="wikipedia:Secret Origins">Nguồn gốc bí mật</a></i> #20, Barbara Gordon đọc *[The Lord of the Rings](The_Lord_of_the_Rings.md)* trên máy bay từ Chicago đến Gotham.
 - Nhân vật phản diện <a class="extiw" href="http://en.wikipedia.org/wiki/Legion_of_Super-Heroes" title="wikipedia:Legion of Super-Heroes">Quân đoàn siêu anh hùng</a> Tseln có một con dao bạc "[Mithril](../M/Mithril.md).
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Sasha_Bordeaux" title="wikipedia:Sasha Bordeaux">Sasha Bordeaux</a> đề cập [Legolas](../L/Legolas.md) trong *Checkmate* #4

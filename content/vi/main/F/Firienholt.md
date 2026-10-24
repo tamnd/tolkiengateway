@@ -72,7 +72,7 @@ Tên gọi [Sindarin](../S/Sindarin.md) cổ hơn của khu rừng là <i><b>Ery
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Rừng đã tàn lụi kể từ ngày Eorl, với con đường Phương Tây vĩ đại giờ đây đi khắp nơi về phía bắc của nó.</dd></dl>
 

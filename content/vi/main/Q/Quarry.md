@@ -46,7 +46,7 @@ Từ <a class="extiw" href="http://en.wiktionary.org/wiki/quarry#Etymology_1" ti
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007:<i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007:<i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mỏ đá là một mỏ đá ở Shire, trong thị trấn Scary, hiện đang bị nhện xâm chiếm. Ngoài ra còn có một hang động chứa đầy chúng.</dd></dl>
 

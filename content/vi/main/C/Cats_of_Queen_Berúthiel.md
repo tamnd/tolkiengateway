@@ -46,7 +46,7 @@ Trong phiên bản trước đó của chương sau này trở thành chương [
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Mặc dù những con mèo của Nữ hoàng Berúthiel không xuất hiện trực tiếp nhưng có một loại kẻ thù mà người chơi phải đối mặt được gọi là <b>Mèo gián điệp</b>. Chúng xuất hiện trong cuộc chiến với xác sống <a href="../T/Tarannon_Falastur.md" title="Tarannon Falastur">Tarannon Falastur</a> trong phiên bản Silent Street. Nếu người chơi tấn công Tarannon, những con mèo sẽ phát ra hiệu ứng "Điệp viên cảnh giác", phản ánh 50% sát thương trở lại người chơi.</dd></dl>
 

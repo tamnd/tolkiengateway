@@ -41,7 +41,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Orm dẫn đầu một nhóm Forodwaith trong cuộc bao vây [Kortirion](../K/Kortirion.md), một thành phố nằm ở [Leithian](../L/Leithian.md). Trong một cuộc tấn công, ông ta đã giết cha của [Ælfwine](../_/Ælfwine.md), [Déor](<../D/Déor_(father_of_Ælfwine).md>), người đang dẫn đầu một nhóm "tuyệt vọng" bảo vệ thành phố.<sup id="cite_ref-history_1-1" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
+Orm dẫn đầu một nhóm Forodwaith trong cuộc bao vây [Kortirion](../K/Kortirion.md), một thành phố nằm ở [Leithian](../L/Leithian.md). Trong một cuộc tấn công, ông đã giết cha của [Ælfwine](../_/Ælfwine.md), [Déor](<../D/Déor_(father_of_Ælfwine).md>), người đang dẫn đầu một nhóm "tuyệt vọng" bảo vệ thành phố.<sup id="cite_ref-history_1-1" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
 
 <span></span>
 

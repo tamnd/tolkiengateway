@@ -17,7 +17,7 @@ categories:
 
 ## Lịch sử {#History}
 
-Trong thời gian người du hành [Eriol](../E/Eriol.md) lưu trú tại Cottage of Lost Play, những người trông coi ngôi nhà, [Lindo](../L/Lindo.md) và vợ ông ta [Vairë](<../V/Vairë_(wife_of_Lindo).md>) đã đưa Eriol vào Phòng Gỗ để kể cho ông ta nghe về vùng đất Tol Eressëa. Lindo ngồi trên chiếc ghế cạnh lò sưởi và Vairë dưới chân ông. Cùng với họ, nhiều đứa trẻ cùng lắng nghe những câu chuyện về vùng đất như chúng vẫn thường làm ở mỗi lần rung ba lần [Tombo](../G/Gong_of_the_Children.md), Tiếng chiêng của trẻ em.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+Trong thời gian người du hành [Eriol](../E/Eriol.md) lưu trú tại Cottage of Lost Play, những người trông coi ngôi nhà, [Lindo](../L/Lindo.md) và vợ ông [Vairë](<../V/Vairë_(wife_of_Lindo).md>) đã đưa Eriol vào Phòng Gỗ để kể cho ông nghe về vùng đất Tol Eressëa. Lindo ngồi trên chiếc ghế cạnh lò sưởi và Vairë dưới chân ông. Cùng với họ, nhiều đứa trẻ cùng lắng nghe những câu chuyện về vùng đất như chúng vẫn thường làm ở mỗi lần rung ba lần [Tombo](../G/Gong_of_the_Children.md), Tiếng chiêng của trẻ em.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 ## Mô tả {#Description}
 

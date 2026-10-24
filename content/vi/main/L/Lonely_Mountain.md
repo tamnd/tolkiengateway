@@ -78,7 +78,7 @@ infobox:
 
 Được thành lập bởi [Thráin I](../T/Thráin_I.md) sau khi [Khazad‑dûm](../M/Moria.md) bị mất, Erebor trở thành trung tâm thương mại và thủ công, duy trì mối quan hệ chặt chẽ với thành phố [Con Người](../M/Mannish.md) lân cận là [Dale](../D/Dale.md). Vương quốc đạt đến đỉnh cao dưới thời [Vua Thrór](../T/Thror.md), sự giàu có đã thu hút [con rồng](../D/Dragons.md) [Smaug](../S/Smaug.md) cướp phá ngọn núi và xua đuổi Người Lùn đi đày.
 
-Erebor đã được lấy lại trong [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md), khi [Thorin II Oakenshield](../T/Thorin.md) và những người bạn đồng hành của ông ta lên đến ngọn núi và Smaug bị giết. [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md) theo sau, sau đó [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) khôi phục lại vương quốc. Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Người Lùn và [Con Người](../M/Men.md) của khu vực lại bảo vệ Erebor, tồn tại như một vương quốc Người Lùn được đổi mới thành [Kỷ Đệ Tứ](../F/Fourth_Age.md).
+Erebor đã được lấy lại trong [Nhiệm vụ Erebor](../Q/Quest_of_Erebor.md), khi [Thorin II Oakenshield](../T/Thorin.md) và những người bạn đồng hành của ông lên đến ngọn núi và Smaug bị giết. [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md) theo sau, sau đó [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) khôi phục lại vương quốc. Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Người Lùn và [Con Người](../M/Men.md) của khu vực lại bảo vệ Erebor, tồn tại như một vương quốc Người Lùn được đổi mới thành [Kỷ Đệ Tứ](../F/Fourth_Age.md).
 
 ## Lịch sử {#History}
 
@@ -92,7 +92,7 @@ Erebor lại phát triển thịnh vượng dẫn đến việc thành lập th�
 
 Trong [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md), con rồng [Smaug](../S/Smaug.md) đáp xuống núi, đánh đuổi Người Lùn và phá hủy thị trấn Dale.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Sau đó, Ngọn Núi Cô Đơn bị bỏ trống trong gần hai thế kỷ, chỉ có Smaug chiếm giữ, người ngủ ở căn phòng trong cùng trên một kho báu lớn. Không Người Lùn hoặc Người tiếp cận ngọn núi trong khi con rồng vẫn ở lại.
 
-Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), một công ty nhỏ do Thorin Oakenshield lãnh đạo đã quay trở lại Erebor với mục đích giành lại vương quốc của họ. Sau khi Smaug nhận ra rằng Người Lùn đã được [Người Hồ](Lake-men.md) giúp đỡ, ông ta đã đến thị trấn [Esgaroth](Lake-town.md) của họ với ý định tiêu diệt họ, nhưng lại bị giết bởi một người đàn ông tên [Bard](../B/Bard.md).<sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6">[6]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), một công ty nhỏ do Thorin Oakenshield lãnh đạo đã quay trở lại Erebor với mục đích giành lại vương quốc của họ. Sau khi Smaug nhận ra rằng Người Lùn đã được [Người Hồ](Lake-men.md) giúp đỡ, ông đã đến thị trấn [Esgaroth](Lake-town.md) của họ với ý định tiêu diệt họ, nhưng lại bị giết bởi một người đàn ông tên [Bard](../B/Bard.md).<sup id="cite_ref-:0_6-0" class="reference"><a href="#cite_note-:0-6">[6]</a></sup>
 
 Sau cái chết của Smaug, Ngọn Núi Cô Đơn không được bảo vệ, Thorin và công ty đã có thể lấy lại Erebor và kho báu của nó. Thorin Oakenshield lấy danh hiệu [Vua Dưới Núi](../K/King_under_the_Mountain.md) một thời gian ngắn nhưng lại phải chịu Rồng Bệnh tật, gây ra tranh chấp giữa Thorin, Con Người của Esgaroth và [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md). Một cuộc bao vây của Erebor và sau đó là [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md), trong đó Thorin bị [yêu tinh](../G/Goblins.md) làm bị thương và chết trong núi.
 
@@ -179,7 +179,7 @@ Bên trong Cổng Trước một con đường trải nhựa rộng rãi theo s�
 
 <dl><dd>Người Lùn nhập khi Rồng vẫn còn bên trong. Khi Smaug để ý đến họ, họ dẫn ông đến lò rèn, nơi họ bắt ông khởi động chúng để họ có thể nấu chảy vàng. Số vàng này họ đúc trong một khuôn khổng lồ, tạo thành một bức tượng vàng khổng lồ. Họ lấy khuôn ra, vì chưa khô nên vàng nóng chảy về phía Smaug khiến anh bị thương nặng. Muốn trả thù, anh bay về phía <a class="mw-redirect" href="Lake_town.md" title="Lake town">Thị trấn bên hồ</a>.</dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sau một phần xuất hiện nhỏ mô tả <a class="mw-redirect" href="../S/Siege_of_Erebor.md" title="Siege of Erebor">Cuộc vây hãm Erebor</a>, Erebor thích hợp đã được thêm vào năm 2018 như một phần của vùng đất <a href="../E/Eryn_Lasgalen.md" title="Eryn Lasgalen">Eryn Lasgalen</a> và <a href="../D/Dale.md" title="Dale">Dale</a>. Sau khi phá vỡ vòng vây, giờ đây nó được cai trị bởi Vua <a href="../T/Thorin_Stonehelm.md" title="Thorin Stonehelm">Thorin Stonehelm</a>, người phải đối phó với một số quân địch vẫn còn ở gần vùng đất của hắn. Ngoài sảnh chính của Erebor, người chơi còn có thể tham quan khu sinh hoạt, lăng mộ cũng như một số căn phòng ẩn trong Ngọn núi.</dd></dl>
 

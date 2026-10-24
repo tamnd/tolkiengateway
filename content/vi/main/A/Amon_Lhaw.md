@@ -72,7 +72,7 @@ Trong bản thảo của mình, Tolkien lần đầu tiên viết rằng Amon Lh
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Amon_Lhaw.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/80/The_Lord_of_the_Rings_Online_-_Amon_Lhaw.jpg/250px-The_Lord_of_the_Rings_Online_-_Amon_Lhaw.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/80/The_Lord_of_the_Rings_Online_-_Amon_Lhaw.jpg/375px-The_Lord_of_the_Rings_Online_-_Amon_Lhaw.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/80/The_Lord_of_the_Rings_Online_-_Amon_Lhaw.jpg/500px-The_Lord_of_the_Rings_Online_-_Amon_Lhaw.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Amon Lhaw in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Amon Lhaw có thể được nhìn thấy chi tiết từ Amon Hen nhưng không thể truy cập được, giống như phần còn lại của bờ biển phía đông của <a href="../N/Nen_Hithoel.md" title="Nen Hithoel">Nen Hithoel</a>.</dd></dl>
 

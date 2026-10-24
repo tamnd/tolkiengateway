@@ -99,7 +99,7 @@ Beregond theo sau Beren khi ông qua đời vào [2763](../T/Third_Age_2763.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một tấm thảm thêu mô tả Saruman và Beren được tìm thấy trong <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 

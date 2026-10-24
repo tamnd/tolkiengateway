@@ -29,7 +29,7 @@ Vào ngày [19 tháng Chín](../_/19_September.md) [1962](../_/1962.md), [J.R.R.
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-RG_2-1" class="reference"><a href="#cite_note-RG-2">[2]</a></sup></cite></p>
 </blockquote>
 
-Theo lời của [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien cũng viết rằng ông ta "đã đưa sai tài liệu tham khảo trong *The Hobbit* vì ông ta đã sử dụng phiên bản cũ hơn".<sup id="cite_ref-G_1-3" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
+Theo lời của [Christina Scull](../C/Christina_Scull.md) và [Wayne G. Hammond](../W/Wayne_G._Hammond.md), Tolkien cũng viết rằng ông "đã đưa sai tài liệu tham khảo trong *The Hobbit* vì ông đã sử dụng phiên bản cũ hơn".<sup id="cite_ref-G_1-3" class="reference"><a href="#cite_note-G-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

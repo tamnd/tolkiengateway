@@ -31,7 +31,7 @@ Vào năm [S.R.](../S/Shire_Reckoning.md) [1147](../T/Third_Age_2747.md) đã x�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Greenfields là một vùng đồng bằng rộng lớn ở góc tây bắc của vùng Shire.</dd></dl>
 

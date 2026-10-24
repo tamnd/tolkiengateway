@@ -64,7 +64,7 @@ Trong các phiên bản cũ hơn của *[The Lord of the Rings](../T/The_Lord_of
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Adelard Took là thủ thư ở <a href="../T/Tuckborough.md" title="Tuckborough">Tuckborough</a>.</dd></dl>
 

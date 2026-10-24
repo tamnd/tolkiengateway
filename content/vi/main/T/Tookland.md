@@ -37,7 +37,7 @@ Trong thời gian [Sharkey](../S/Sharkey.md) chiếm đóng, Tooks đã được
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Tookland là một khu vực ở phía nam của vùng Shire trong trò chơi, <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> không xuất hiện trong trò chơi.</dd></dl>
 

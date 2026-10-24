@@ -47,7 +47,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vidugaiva là đồng minh của Vua [Rómendacil II](../R/Rómendacil_II.md) của [Gondor](../G/Gondor.md) và đã giúp đỡ ông ta trong cuộc chiến chống lại [Easterlings](../E/Easterlings.md). Năm [T.A.](../T/Third_Age.md) [1250](../T/Third_Age_1250.md) Thân vương [Valacar](Valacar.md) được cha mình, Vua Rómendacil II, cử đến triều đình Vidugavia với tư cách là đại sứ để học ngôn ngữ, cách cư xử và chính sách của Người phương Bắc. Valacar cuối cùng yêu vùng đất và con người phương Bắc và cưới con gái của Vidugavia [Vidumavi](Vidumavi.md).<sup id="cite_ref-Gondor_2-1" class="reference"><a href="#cite_note-Gondor-2">[2]</a></sup>
+Vidugaiva là đồng minh của Vua [Rómendacil II](../R/Rómendacil_II.md) của [Gondor](../G/Gondor.md) và đã giúp đỡ ông trong cuộc chiến chống lại [Easterlings](../E/Easterlings.md). Năm [T.A.](../T/Third_Age.md) [1250](../T/Third_Age_1250.md) Thân vương [Valacar](Valacar.md) được cha mình, Vua Rómendacil II, cử đến triều đình Vidugavia với tư cách là đại sứ để học ngôn ngữ, cách cư xử và chính sách của Người phương Bắc. Valacar cuối cùng yêu vùng đất và con người phương Bắc và cưới con gái của Vidugavia [Vidumavi](Vidumavi.md).<sup id="cite_ref-Gondor_2-1" class="reference"><a href="#cite_note-Gondor-2">[2]</a></sup>
 
 Vidugavia rõ ràng là cha của những đứa trẻ khác, vì ông cũng là tổ tiên của [Marhari](../M/Marhari.md).<sup id="cite_ref-Children_1-1" class="reference"><a href="#cite_note-Children-1">[1]</a></sup>
 

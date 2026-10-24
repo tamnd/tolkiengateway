@@ -56,7 +56,7 @@ Xác sống được biết đến với nhiều cái tên:
 
 <dl><dd>Undead là một lớp quái vật, bao gồm Ma, Bộ xương, Ghoul và nhiều loài khác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><a class="external text" href="http://lorebook.lotro.com/wiki/Category:The_Dead" rel="noreferrer noopener" target="_blank">Người chết</a> là một loại sinh vật, bao gồm xác sống, linh hồn, bộ xương và nhiều sinh vật khác. Một danh mục liên quan là <a class="external text" href="http://lorebook.lotro.com/wiki/Category:Unseen" rel="noreferrer noopener" target="_blank">The Unseen</a>, bao gồm Nazgûl và các hình bóng liên quan. Một trường hợp xác sống không phải Ác ma tồn tại trong hồn ma của <a href="../A/Arvedui.md" title="Arvedui">Arvedui</a> ở <a href="../F/Forochel.md" title="Forochel">Forochel</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

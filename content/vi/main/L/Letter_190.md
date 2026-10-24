@@ -35,7 +35,7 @@ Tolkien đã được gửi một danh sách [bản dịch](../T/Translated_name
 
 Về bản đồ "*[A Part of the Shire](../A/A_Part_of_the_Shire.md)*", Tolkien nghĩ dịch nó sang "*Een deel von* (sic) *'The Shire'*" là đủ. Do không dịch [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md), Người dịch (từ này được viết hoa xuyên suốt bức thư) đã tự gặp rắc rối; Anglo-Saxon không giống tiếng Hà Lan như Schuchart đã dịch, nó liên quan đến tiếng Anh.
 
-Tolkien đã gửi lại một lá thư có bình luận chi tiết và đề nghị không dịch các bản đồ và giữ nguyên danh pháp cá nhân càng nhiều càng tốt. Ông ta có thể cung cấp một danh sách các từ nguyên có thể được đưa vào.
+Tolkien đã gửi lại một lá thư có bình luận chi tiết và đề nghị không dịch các bản đồ và giữ nguyên danh pháp cá nhân càng nhiều càng tốt. Ông có thể cung cấp một danh sách các từ nguyên có thể được đưa vào.
 
 Yêu cầu quan trọng nhất của Tolkien là từ [hobbit](../H/Hobbits.md) không được thay đổi; không còn "[Hompen](../H/Hompen.md)".
 

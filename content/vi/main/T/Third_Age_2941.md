@@ -39,7 +39,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Bilbo gặp [Gollum](../G/Gollum.md) và tìm thấy [Chiếc Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-TA_3-1" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 - Cuộc [Bạch Hội Đồng](../W/White_Council.md) gặp nhau.<sup id="cite_ref-TA_3-2" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
-- [Saruman](../S/Saruman.md) đồng ý [Tấn công vào Dol Guldur](../A/Attack_on_Dol_Guldur.md), vì giờ đây ông ta muốn ngăn chặn [Sauron](../S/Sauron.md) tìm kiếm [Anduin](../A/Anduin.md).<sup id="cite_ref-TA_3-3" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
+- [Saruman](../S/Saruman.md) đồng ý [Tấn công vào Dol Guldur](../A/Attack_on_Dol_Guldur.md), vì giờ đây ông muốn ngăn chặn [Sauron](../S/Sauron.md) tìm kiếm [Anduin](../A/Anduin.md).<sup id="cite_ref-TA_3-3" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 - [Sauron](../S/Sauron.md) thực hiện xong kế hoạch rồi từ bỏ [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-TA_3-4" class="reference"><a href="#cite_note-TA-3">[3]</a></sup>
 
 ## [tháng Chín](../S/September.md) {#September}

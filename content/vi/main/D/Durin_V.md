@@ -62,7 +62,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Giống như tất cả các Durin sau <a class="mw-redirect mw-disambig" href="Durin.md" title="Durin">Durin I</a>, ông được đặt tên là người đầu tiên trong [Bảy Tổ phụ của người Lùn](../S/Seven_Fathers_of_the_Dwarves.md) vì ông rất giống ông cả về ngoại hình lẫn tính cách. Quả thực, Người Lùn người ta tin rằng ông ta là tái sinh của Durin I, mặc dù điều này có khả thi hay không thì vẫn chưa rõ ràng.
+Giống như tất cả các Durin sau <a class="mw-redirect mw-disambig" href="Durin.md" title="Durin">Durin I</a>, ông được đặt tên là người đầu tiên trong [Bảy Tổ phụ của người Lùn](../S/Seven_Fathers_of_the_Dwarves.md) vì ông rất giống ông cả về ngoại hình lẫn tính cách. Quả thực, Người Lùn người ta tin rằng ông là tái sinh của Durin I, mặc dù điều này có khả thi hay không thì vẫn chưa rõ ràng.
 
 ## Từ nguyên {#Etymology}
 
@@ -90,7 +90,7 @@ Một tài khoản khác nói rằng *Durinn* là một trong những Người L
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Durin_V.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/The_Lord_of_the_Rings_Online_-_Durin_V.jpg/150px-The_Lord_of_the_Rings_Online_-_Durin_V.jpg" decoding="async" loading="lazy" width="150" height="206" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0d/The_Lord_of_the_Rings_Online_-_Durin_V.jpg/225px-The_Lord_of_the_Rings_Online_-_Durin_V.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0d/The_Lord_of_the_Rings_Online_-_Durin_V.jpg/300px-The_Lord_of_the_Rings_Online_-_Durin_V.jpg 2x" data-file-width="843" data-file-height="1156"/></a><figcaption>Durin V in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Câu chuyện của Durin V được mở rộng thông qua một loạt nhiệm vụ. Trong thời gian trị vì của mình, con rồng Thorog đã chiếm Helegrod, một thành phố phía bắc vương quốc của ông nằm gần nguồn <a href="../B/Bruinen.md" title="Bruinen">Bruinen</a>. Durin cầm chiếc rìu Mírdanant, một món quà <a href="../E/Elves.md" title="Elves">Tiên tộc</a> của <a href="../E/Eregion.md" title="Eregion">Eregion</a> tặng tổ tiên của mình, và lãnh đạo một nhóm nhỏ người lùn để giành lại thành phố. Durin và Thorog đã giết nhau, và chỉ có một người lùn trong nhóm của ông sống sót để kể lại câu chuyện.</dd></dl>
 

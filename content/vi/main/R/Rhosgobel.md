@@ -103,7 +103,7 @@ Trong một ghi chú rất muộn về tên của Istari Rhosgobel được cho 
 
 <dl><dd>Rhosgobel xuất hiện trong một cảnh duy nhất, khi <a href="Radagast.md" title="Radagast">Radagast</a> đưa <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> từ <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> đến Rhosgobel sau khi cảnh báo <a href="../W/White_Council.md" title="White Council">Bạch Hội Đồng</a> về sự hiện diện của ông ở đó.</dd></dl>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Rhosgobel, nằm ở vùng <a href="../V/Vales_of_Anduin.md" title="Vales of Anduin">Thung lũng Anduin</a>, là một khu tàn tích lớn nằm ở vùng "Laerlad", từng bị <a class="mw-redirect" href="../W/Wood-elves.md" title="Wood-elves">Tiên rừng</a> chiếm đóng nhưng đã bị bỏ hoang từ lâu. Ngôi nhà nhỏ của <a href="Radagast.md" title="Radagast">Radagast</a> nằm bên trong đống đổ nát, sau một thời gian ngắn bị bộ tộc "Ungoladan" tàn phá sau hậu quả của <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>, đã được Radagast thu hồi và khôi phục nó làm nơi ẩn náu và nơi trú ẩn cho các loài động vật của Trung Địa.</dd></dl>
 

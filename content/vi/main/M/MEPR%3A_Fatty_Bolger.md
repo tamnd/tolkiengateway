@@ -36,7 +36,7 @@ infobox:
 
 ## Nội dung thẻ {#Card_text}
 
-<i><b>Duy nhất.</b></i> Trừ khi ông ta là một trong những nhân vật bắt đầu, ông ta chỉ có thể được đưa vào chơi tại trang chủ của mình. Tất cả các lần kiểm tra tham nhũng của ông ta đều được sửa đổi bằng +1. Ông ta có thể nhấn để hủy cuộc đình công chống lại Hobbit người khác trong công ty của mình.
+<i><b>Duy nhất.</b></i> Trừ khi ông là một trong những nhân vật bắt đầu, ông chỉ có thể được đưa vào chơi tại trang chủ của mình. Tất cả các lần kiểm tra tham nhũng của ông đều được sửa đổi bằng +1. Ông có thể nhấn để hủy cuộc đình công chống lại Hobbit người khác trong công ty của mình.
 
 *"Fatty Bolger đã không hề nhàn rỗi. Ngay khi nhìn thấy những bóng đen bò ra từ khu vườn, ông biết mình phải chạy trốn nếu không sẽ chết."* <i><b>-LotRI</b></i>
 

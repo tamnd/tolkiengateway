@@ -48,7 +48,7 @@ infobox:
 
 Khi họ đi về phía [Pháp sư's Vale](../N/Nan_Curunír.md), một cái bóng bò xuống từ chân [Dãy Núi Sương Mù](../M/Misty_Mountains.md), trong khi từ phía sau họ là một cơn bão [Mordor](../M/Mordor.md). Vào ngày thứ hai, mây đen đã bao trùm họ khi một người cưỡi ngựa tiến đến tìm kiếm [Éomer](../_/Éomer.md) và cảnh báo chủ nhà rút lui về Edoras. Lực lượng Saruman; [Orc](../O/Orcs.md), những người dân vùng đồi hoang dã và [Dunlanders](../D/Dunlendings.md), đã đánh lui [Rohirrim](../R/Rohirrim.md) canh gác vùng băng qua đường và đã giết chết con trai của nhà vua [Théodred](../T/Théodred.md). [Erkenbrand](../E/Erkenbrand.md) của Westfold đã kéo những người còn lại về [Helm's Deep](Helm's_Deep.md).
 
-Gandalf khuyên Vua Théoden hãy đến Helm's Deep ngay bây giờ, trước khi nói rằng ông ta phải rời đi có việc gấp, hứa sẽ quay lại và sẽ gặp họ ở đó.
+Gandalf khuyên Vua Théoden hãy đến Helm's Deep ngay bây giờ, trước khi nói rằng ông phải rời đi có việc gấp, hứa sẽ quay lại và sẽ gặp họ ở đó.
 
 Đội chủ nhà bây giờ quay về hướng nam và tiến về nơi trú ẩn của [Hornburg](Hornburg.md), một pháo đài vĩ đại ban đầu được xây dựng bởi Gondor trước khi Rohan được nhượng lại vùng đất của [Calenardhon](../C/Calenardhon.md). Pháo đài được xây dựng trên nền đá nhô ra ngoài bởi một vách đá từ ngọn núi [Thrihyrne](../T/Thrihyrne.md), bên dưới có một cống rộng mà từ đó Dòng Deeping chảy ra và phía sau có rất nhiều hang động dẫn vào trung tâm của [Dãy Núi Trắng](../W/White_Mountains.md).
 
@@ -68,7 +68,7 @@ Théoden sau đó bắt đầu nghi ngờ sức mạnh của người của mìn
 
 Chương này cùng với năm chương cuối của Quyển III được ông viết trọn vẹn (không phải do đó) trong thời gian rảnh rỗi vào mùa hè và mùa thu [1942](../_/1942.md). Trong các bản thảo tiếp theo của chương, công sự của Vực sâu và trận chiến ngày càng trở nên công phu và phức tạp hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Chương này bao gồm câu thoại của [Gimli](../G/Gimli.md) khét tiếng "Cho đến bây giờ tôi chẳng đẽo được gì ngoài gỗ [kể từ khi tôi rời đi Moria](<../L/Lothlórien_(chapter).md>)", như thể "quên" [Orc](../O/Orcs.md) mà ông ta đã giết trong [Phá vỡ tình bằng hữu](../B/Breaking_of_the_Fellowship.md). Hammond và Scull đã biết rõ sự mâu thuẫn này, nhưng đã quyết định không giải quyết nó trong khi biên tập [Phiên bản kỷ niệm 50 năm](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) vì nó sẽ cần phải viết lại để sửa đổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Chương này bao gồm câu thoại của [Gimli](../G/Gimli.md) khét tiếng "Cho đến bây giờ tôi chẳng đẽo được gì ngoài gỗ [kể từ khi tôi rời đi Moria](<../L/Lothlórien_(chapter).md>)", như thể "quên" [Orc](../O/Orcs.md) mà ông đã giết trong [Phá vỡ tình bằng hữu](../B/Breaking_of_the_Fellowship.md). Hammond và Scull đã biết rõ sự mâu thuẫn này, nhưng đã quyết định không giải quyết nó trong khi biên tập [Phiên bản kỷ niệm 50 năm](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>) vì nó sẽ cần phải viết lại để sửa đổi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

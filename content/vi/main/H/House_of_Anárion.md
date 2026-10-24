@@ -127,7 +127,7 @@ Sau Vua Siriondil là bốn [Vị Vua Thuyền](../S/Ship-kings.md) của Gondor
 #### Ghi chú về giờ ngọ {#Noontide_notes}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Berúthiel, Tarannon&#39;s loveless queen, was eventually put on a boat and sent into exile.  She and Tarannon had no children.</span>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Berúthiel, Tarannon&#39;s loveless queen, was eventually put on a boat and sent into exile. She and Tarannon had no children.</span>
 </li>
 <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Eärnil I drowned with many men and ships in a great storm off the haven of Umbar.</span>
 </li>

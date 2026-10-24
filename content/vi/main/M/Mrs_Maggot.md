@@ -33,7 +33,7 @@ infobox:
 
 **Bà. Maggot** là vợ của [Farmer Maggot](../F/Farmer_Maggot.md). Nhà của họ là trang trại [Bamfurlong](../B/Bamfurlong.md) và họ có ít nhất hai con trai và ba con gái.
 
-Bà Maggot phục vụ [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) khi chồng bà tiếp đón họ. Khi Người nông dân chở [Hobbit](../H/Hobbits.md) ra Bến Phà, bà Maggot đã gửi cho ông ta một giỏ [nấm](Mushrooms.md) với giá Frodo, biết ông ta thích chúng đến mức nào.<sup id="cite_ref-mushroom_1-0" class="reference"><a href="#cite_note-mushroom-1">[1]</a></sup>
+Bà Maggot phục vụ [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) khi chồng bà tiếp đón họ. Khi Người nông dân chở [Hobbit](../H/Hobbits.md) ra Bến Phà, bà Maggot đã gửi cho ông một giỏ [nấm](Mushrooms.md) với giá Frodo, biết ông thích chúng đến mức nào.<sup id="cite_ref-mushroom_1-0" class="reference"><a href="#cite_note-mushroom-1">[1]</a></sup>
 
 <span></span>
 

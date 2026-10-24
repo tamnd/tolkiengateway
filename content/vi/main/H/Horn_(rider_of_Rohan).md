@@ -56,7 +56,7 @@ Horn đã chiến đấu và hy sinh trong [Trận chiến trên Cánh đồng P
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Các tay đua của Rohan</a></i>:</b>
 
 <dl><dd>Horn là một nhân vật nổi bật trong game và đồng hành cùng người chơi trong suốt chuyến hành trình của họ tại Riddermark. Ông là con trai của Reeve xứ <a href="../E/Entwash_Vale.md" title="Entwash Vale">Entwash Vale</a> và là anh trai của Ingyth, người đã hứa hôn của <a href="../T/Théodred.md" title="Théodred">Théodred</a>.</dd></dl>
 

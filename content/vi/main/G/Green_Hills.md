@@ -48,7 +48,7 @@ Vào ngày [23 tháng Chín](../_/23_September.md) [T.A.](../T/Third_Age.md) [30
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Green Hills tạo thành ranh giới phía nam của khu vực trong trò chơi Shire, ngăn cách khu vực có thể chơi được với <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> không được hiện thực hóa trong trò chơi.</dd></dl>
 

@@ -36,7 +36,7 @@ infobox:
 
 Tolkien đã tham dự một cuộc họp [Inklings](../I/Inklings.md) nơi người ta nghe thấy một chương trong cuốn sách của [Warnie Lewis](../W/Warren_Lewis.md) về Louis XIV, cùng với một số đoạn trích từ *Who Goes Home?* của [C.S. Lewis](../C/C.S._Lewis.md)(Tolkien đề xuất nên gọi là *Hugo's Home*).
 
-Thời gian còn lại của ông ta (trừ công việc nhà) đã bị chiếm giữ bởi nỗ lực tuyệt vọng nhằm đưa "Chiếc nhẫn" đến một thời điểm tạm dừng thích hợp, bắt giữ [Frodo](../F/Frodo_Baggins.md), trước khi ông ta buộc phải tiến hành kiểm tra. Bằng cách ngồi hàng giờ đồng hồ, ông đã làm xong và đọc hai chương cuối ("[Hang ổ của Shelob](../S/Shelob's_Lair.md)" và "[Những lựa chọn của Thầy Samwise](../T/The_Choices_of_Master_Samwise.md)") đến C.S. Lewis. Lewis đã cảm động rơi nước mắt khi đọc chương cuối cùng.
+Thời gian còn lại của ông (trừ công việc nhà) đã bị chiếm giữ bởi nỗ lực tuyệt vọng nhằm đưa "Chiếc nhẫn" đến một thời điểm tạm dừng thích hợp, bắt giữ [Frodo](../F/Frodo_Baggins.md), trước khi ông buộc phải tiến hành kiểm tra. Bằng cách ngồi hàng giờ đồng hồ, ông đã làm xong và đọc hai chương cuối ("[Hang ổ của Shelob](../S/Shelob's_Lair.md)" và "[Những lựa chọn của Thầy Samwise](../T/The_Choices_of_Master_Samwise.md)") đến C.S. Lewis. Lewis đã cảm động rơi nước mắt khi đọc chương cuối cùng.
 
 Tên của [Sam](../S/Samwise_Gamgee.md), cho biết Tolkien, không phải là viết tắt của *Samuel* mà là *Samwise*, tiếng Anh cổ có nghĩa là "Half-wit". Tên của cha anh *Ham* có nguồn gốc từ *Hamfast*, tiếng Anh cổ có nghĩa là "Ở nhà". Lớp [Hobbit](../H/Hobbits.md) đó thường có tên rất Saxon. Tolkien lẽ ra sẽ thích *Goodchild* hơn *Gamgee* nếu ông nghĩ Christopher sẽ cho phép điều đó.
 

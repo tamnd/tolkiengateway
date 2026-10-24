@@ -87,7 +87,7 @@ Arvegil cai trị [Arthedain](Arthedain.md) trong bảy mươi ba năm, và đư
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các bản sửa đổi sau năm 1966 của [Appendix A](Appendix_A.md), năm mất của Aragorn được sửa đổi từ Kỷ Đệ Tứ 100 thành [Kỷ Đệ Tứ](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md), khiến ông thọ 210 tuổi (tuổi này được xác nhận rõ ràng trong các bản in sau năm 1993). Việc đề cập đến việc ông ta là người sống lâu nhất trong dòng dõi của mình kể từ Arvegil không thay đổi, mặc dù với sự thay đổi về niên đại này, Aragorn sẽ già hơn Arvegil.
+Trong các bản sửa đổi sau năm 1966 của [Appendix A](Appendix_A.md), năm mất của Aragorn được sửa đổi từ Kỷ Đệ Tứ 100 thành [Kỷ Đệ Tứ](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md), khiến ông thọ 210 tuổi (tuổi này được xác nhận rõ ràng trong các bản in sau năm 1993). Việc đề cập đến việc ông là người sống lâu nhất trong dòng dõi của mình kể từ Arvegil không thay đổi, mặc dù với sự thay đổi về niên đại này, Aragorn sẽ già hơn Arvegil.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

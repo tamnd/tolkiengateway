@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Aldarion](../T/Tar-Aldarion.md) trở lại [Númenor](../N/Númenor.md) sau chuyến hành trình kéo dài 5 năm trên con tàu *[Hirilondë](../H/Hirilondë.md)*.<sup id="cite_ref-Wife_1-0" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
 - Aldarion và [Erendis](../E/Erendis.md) trở nên tách biệt.<sup id="cite_ref-Wife_1-1" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
-- [Tar-Meneldur](../T/Tar-Meneldur.md) đọc một [bức thư](../G/Gil-galad's_letter.md) từ [Gil-galad](../G/Gil-galad.md) cảnh báo ông ta về một cái bóng mới xuất hiện trong phương Đông, một người hầu của Morgoth. Nhà vua quyết định trao Vương trượng cho con trai vào năm sau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Tar-Meneldur](../T/Tar-Meneldur.md) đọc một [bức thư](../G/Gil-galad's_letter.md) từ [Gil-galad](../G/Gil-galad.md) cảnh báo ông về một cái bóng mới xuất hiện trong phương Đông, một người hầu của Morgoth. Nhà vua quyết định trao Vương trượng cho con trai vào năm sau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

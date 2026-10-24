@@ -73,4 +73,4 @@ Sự kiện xảy ra vào ngày 6 tháng 2
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
-    - [Uglúk](../U/Uglúk.md) và đội quân của ông ta tìm kiếm Học bổng ở phía bắc [Rohan](../R/Rohan.md).
+    - [Uglúk](../U/Uglúk.md) và đội quân của ông tìm kiếm Học bổng ở phía bắc [Rohan](../R/Rohan.md).

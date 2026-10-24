@@ -47,7 +47,7 @@ Lấy cảm hứng từ trò chơi board game Cuộc chiến Nhẫn bán chạy 
 
 Trong Cuộc chiến Nhẫn - Trò chơi bài, tối đa 4 người chơi thi đấu thành hai đội, Bóng Tối đấu với Dân tộc Tự do, mỗi người chơi sử dụng một bộ bài cụ thể và khác nhau đại diện cho điểm mạnh và điểm yếu của các phe phái khác nhau tham gia vào cuộc chiến.
 
-Nhân dân Tự do cố gắng hoàn thành nhiệm vụ tiêu diệt [One Ring](../O/One_Ring.md), đồng thời bảo vệ quê hương của họ khỏi đám Sauron xâm lấn và khỏi các đồng minh độc ác của hắn. Người chơi Bóng Tối phải tấn công nhanh chóng và dứt khoát trước khi [Người mang nhẫn](../R/Ring-bearers.md) có thể hoàn thành nhiệm vụ của mình; hoặc cố gắng làm tha hóa [Frodo](../F/Frodo.md) từ từ, tạo cho ông ta những vết thương, sự cực nhọc và nỗi đau buồn vì mất đi những Người bạn đồng hành của mình.
+Nhân dân Tự do cố gắng hoàn thành nhiệm vụ tiêu diệt [One Ring](../O/One_Ring.md), đồng thời bảo vệ quê hương của họ khỏi đám Sauron xâm lấn và khỏi các đồng minh độc ác của hắn. Người chơi Bóng Tối phải tấn công nhanh chóng và dứt khoát trước khi [Người mang nhẫn](../R/Ring-bearers.md) có thể hoàn thành nhiệm vụ của mình; hoặc cố gắng làm tha hóa [Frodo](../F/Frodo.md) từ từ, tạo cho ông những vết thương, sự cực nhọc và nỗi đau buồn vì mất đi những Người bạn đồng hành của mình.
 
 ## Mở rộng {#Expansions}
 

@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Villisiat"
 ---
 
-**Lợn rừng** là loài thú có ngà hung hãn phổ biến ở các vùng rừng. Nổi tiếng nhất trong số những con lợn rừng của [Trung Địa](../M/Middle-earth.md) là [Con lợn rừng Everholt](Boar_of_Everholt.md) vĩ đại, sống dưới những tán cây của [Rừng Firien](../F/Firienholt.md). Con lợn rừng này đã bị săn đuổi bởi Vua [Folca](../F/Folca.md) của [Rohan](../R/Rohan.md) và mặc dù cuối cùng ông ta đã giết chết con mồi của mình nhưng con Vua vẫn bị trọng thương trong cuộc chạm trán.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Lợn rừng** là loài thú có ngà hung hãn phổ biến ở các vùng rừng. Nổi tiếng nhất trong số những con lợn rừng của [Trung Địa](../M/Middle-earth.md) là [Con lợn rừng Everholt](Boar_of_Everholt.md) vĩ đại, sống dưới những tán cây của [Rừng Firien](../F/Firienholt.md). Con lợn rừng này đã bị săn đuổi bởi Vua [Folca](../F/Folca.md) của [Rohan](../R/Rohan.md) và mặc dù cuối cùng ông đã giết chết con mồi của mình nhưng con Vua vẫn bị trọng thương trong cuộc chạm trán.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tên khác {#Other_names}
 
@@ -29,7 +29,7 @@ langlinks:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Lợn rừng được tìm thấy ở nhiều nơi trong Trung Địa, đặc biệt là ở <a href="Bree-land.md" title="Bree-land">Bree-land</a>. Chúng thường không hung dữ nhưng sẽ đánh nhau nếu người chơi đe dọa chúng.</dd></dl>
 

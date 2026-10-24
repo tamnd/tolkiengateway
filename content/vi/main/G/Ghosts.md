@@ -44,7 +44,7 @@ Trong [Gnomish](Gnomish.md), một trong những quan niệm ban đầu của [T
 
 <dl><dd>Ma có ba loại: ma, hồn ma và xác sống.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Những sinh vật ma quái được gọi là Bóng tối trong trò chơi và có nhiều loại bao gồm Lời Thề-breakers (tương tự như <a class="mw-redirect" href="../D/Dead_Men_of_Dunharrow.md" title="Dead Men of Dunharrow">Dead Con Người của Dunharrow</a>), linh hồn sa ngã (những hồn ma tạo hoạt hình cho <a href="../B/Barrow-wights.md" title="Barrow-wights">Barrow-wight</a>), nến Xác chết (giống như của <a href="../D/Dead_Marshes.md" title="Dead Marshes">Đầm lầy Chết</a>) và những linh hồn sông ác độc được gọi là Darkwaters.</dd></dl>
 

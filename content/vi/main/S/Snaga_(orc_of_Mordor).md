@@ -46,9 +46,9 @@ infobox:
 
 Một [Orc](../O/Orcs.md), có địa chỉ là **Snaga**, là một phần của lực lượng đồn trú của [Tháp Cirith Ungol](../T/Tower_of_Cirith_Ungol.md). Anh là một trong số ít người sống sót trong [Trận Cirith Ungol](../B/Battle_of_Cirith_Ungol.md)<sup id="cite_ref-Tower_1-0" class="reference"><a href="#cite_note-Tower-1">[1]</a></sup> vào [14 tháng 3](../_/14_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Snaga đang chạy xuống cầu thang của tòa tháp thì gặp phải thứ mà ông nghĩ là "[Chiến binh Tiên tuyệt vời](Samwise_Gamgee.md)" trên cầu thang. Xoay người, ông ta bỏ chạy trở lại con đường ông ta đã đến. “Chiến binh Tiên vĩ đại” thực chất là [Samwise Gamgee](Samwise_Gamgee.md) người đã đi theo Orc, dù mệt mỏi nhưng vẫn tụt lại phía sau kẻ thù của mình.
+Snaga đang chạy xuống cầu thang của tòa tháp thì gặp phải thứ mà ông nghĩ là "[Chiến binh Tiên tuyệt vời](Samwise_Gamgee.md)" trên cầu thang. Xoay người, ông bỏ chạy trở lại con đường ông đã đến. “Chiến binh Tiên vĩ đại” thực chất là [Samwise Gamgee](Samwise_Gamgee.md) người đã đi theo Orc, dù mệt mỏi nhưng vẫn tụt lại phía sau kẻ thù của mình.
 
-Snaga gặp [Shagrat](Shagrat.md), người đã ra lệnh cho ông ta gửi tin tới [Sauron](Sauron.md) rằng họ đã bắt được một [Halfling](../F/Frodo_Baggins.md). Snaga từ chối và sau một hồi rượt đuổi ngắn, anh đã lên được đỉnh tháp. Tại đây, ông ta dùng roi quất người tù [Frodo Baggins](../F/Frodo_Baggins.md). Ông ta nhanh chóng bị [Samwise Gamgee](Samwise_Gamgee.md) khống chế và rơi qua cửa bẫy và tử vong.<sup id="cite_ref-Tower_1-1" class="reference"><a href="#cite_note-Tower-1">[1]</a></sup>
+Snaga gặp [Shagrat](Shagrat.md), người đã ra lệnh cho ông gửi tin tới [Sauron](Sauron.md) rằng họ đã bắt được một [Halfling](../F/Frodo_Baggins.md). Snaga từ chối và sau một hồi rượt đuổi ngắn, anh đã lên được đỉnh tháp. Tại đây, ông dùng roi quất người tù [Frodo Baggins](../F/Frodo_Baggins.md). Ông nhanh chóng bị [Samwise Gamgee](Samwise_Gamgee.md) khống chế và rơi qua cửa bẫy và tử vong.<sup id="cite_ref-Tower_1-1" class="reference"><a href="#cite_note-Tower-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -59,6 +59,6 @@ Khi trở về, Húrin kết hôn với [Morwen](../M/Morwen.md) và không lâu
 
 Khi Túrin lớn lên, anh ít được yêu thương hơn chị gái và trưởng thành nhanh chóng; ông có tính khí nóng nảy giống cha mình nhưng cũng dễ thương xót. Đáng buồn thay, Lalaith nhanh chóng bị [Hơi thở Ác ma](../E/Evil_Breath.md) tiêu diệt và bỏ mạng, mặc dù vẻ đẹp của cô vẫn không bị lãng quên.
 
-Húrin ít ở nhà và Morwen nghiêm khắc với con cái nên Túrin nhìn về phía người bạn [Sador](../S/Sador.md) để tìm sự an ủi, người còn được gọi là [Hopafoot](../H/Hopafoot.md) vì bàn chân của ông đã bị mất do một cú đánh rìu lệch. Sador là một người hầu thấp kém mà Túrin đã học được nhiều điều mà lẽ ra ông ta nên học hỏi từ mẹ mình; nhưng bà là một người phụ nữ mạnh mẽ và lạnh lùng trong tình cảm.
+Húrin ít ở nhà và Morwen nghiêm khắc với con cái nên Túrin nhìn về phía người bạn [Sador](../S/Sador.md) để tìm sự an ủi, người còn được gọi là [Hopafoot](../H/Hopafoot.md) vì bàn chân của ông đã bị mất do một cú đánh rìu lệch. Sador là một người hầu thấp kém mà Túrin đã học được nhiều điều mà lẽ ra ông nên học hỏi từ mẹ mình; nhưng bà là một người phụ nữ mạnh mẽ và lạnh lùng trong tình cảm.
 
 Khi [Great Kẻ Thù](../G/Great_Enemy.md) lớn lên, Húrin bắt đầu gây chiến khi [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) rời bỏ gia đình mình.

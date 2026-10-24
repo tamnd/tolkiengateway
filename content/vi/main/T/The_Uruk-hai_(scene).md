@@ -53,6 +53,6 @@ Một nhóm [Uruk-hai](../U/Uruk-hai.md) chạy khắp vùng đồng bằng [Roh
 
 Không thể đánh thức Merry, Pippin báo với Uruk-hai rằng bạn mình bị ốm; họ tiến hành cho Merry "một ít thuốc" có chứa chất lỏng màu nâu. Điều này đánh thức Merry người nói với Pippin rằng ông ổn và ông không bị thương.
 
-Một trong những Uruk-hai đánh hơi trong không khí và nói với những người khác rằng ông ta có thể ngửi thấy mùi "Xác thịt con người". Họ nhận ra rằng dấu vết của họ đã bị phát hiện và họ nhanh chóng đi tiếp sau khi dừng lại. Pippin hiểu rằng có khả năng [Aragorn](../A/Aragorn.md) đang theo dõi họ nên ông ta đã lén lút dùng miệng xé chiếc trâm cài hình chiếc lá đang buộc [Tiên áo choàng](../E/Elven_cloaks.md) của mình rồi thả nó xuống sàn, hy vọng sẽ để lại dấu hiệu cho Aragorn biết mình đang đi đúng đường.
+Một trong những Uruk-hai đánh hơi trong không khí và nói với những người khác rằng ông có thể ngửi thấy mùi "Xác thịt con người". Họ nhận ra rằng dấu vết của họ đã bị phát hiện và họ nhanh chóng đi tiếp sau khi dừng lại. Pippin hiểu rằng có khả năng [Aragorn](../A/Aragorn.md) đang theo dõi họ nên ông đã lén lút dùng miệng xé chiếc trâm cài hình chiếc lá đang buộc [Tiên áo choàng](../E/Elven_cloaks.md) của mình rồi thả nó xuống sàn, hy vọng sẽ để lại dấu hiệu cho Aragorn biết mình đang đi đúng đường.
 
 ## Sự khác biệt {#Differences}

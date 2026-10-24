@@ -102,7 +102,7 @@ Một số [Maiar](../M/Maiar.md) gắn liền với Aulë: [Mairon](../S/Sauron
 
 Trong [Khúc ca của các Ainur](../S/Song_of_the_Ainur.md), Aulë suy tưởng phần lớn cấu trúc của Trái Đất.<sup id="cite_ref-ai_2-1" class="reference"><a href="#cite_note-ai-2">[2]</a></sup> Trong thời gian kiến tạo [Arda](Arda.md), Aulë làm việc nhiều với [Manwë](../M/Manwë.md) và [Ulmo](../U/Ulmo.md);<sup id="cite_ref-ai_2-2" class="reference"><a href="#cite_note-ai-2">[2]</a></sup> Aulë tạo nên những vật chất cấu thành [Ambar](Ambar.md), và tham gia nhiều nhất vào việc dựng nên các lục địa và núi non. Vì ông rất giống Melkor, giữa họ đã nảy sinh xung đột, và ông trở nên mệt mỏi vì phải sửa chữa những biến động và rối loạn do Melkor gây ra trong công trình của mình.<sup id="cite_ref-vala_1-2" class="reference"><a href="#cite_note-vala-1">[1]</a></sup> Một trong các [Maiar](../M/Maiar.md) của ông, [Mairon](../M/Mairon.md), đã bị kẻ thù của ông lôi kéo trong những cuộc xung đột thuở ban đầu ấy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Khi [Ossë](../O/Ossë.md) cũng bị Melkor dụ dỗ, Aulë khẩn cầu [Uinen](../U/Uinen.md) làm dịu và kiềm chế ông ta, và vì thế Maia ấy đã trở về với chủ nhân của mình là Ulmo.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Khi [Ossë](../O/Ossë.md) cũng bị Melkor dụ dỗ, Aulë khẩn cầu [Uinen](../U/Uinen.md) làm dịu và kiềm chế ông, và vì thế Maia ấy đã trở về với chủ nhân của mình là Ulmo.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Aulë_and_the_Seven_Fathers.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/Ted_Nasmith_-_Aul%C3%AB_and_the_Seven_Fathers.jpg/300px-Ted_Nasmith_-_Aul%C3%AB_and_the_Seven_Fathers.jpg" decoding="async" loading="lazy" width="300" height="303" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Ted_Nasmith_-_Aul%C3%AB_and_the_Seven_Fathers.jpg/450px-Ted_Nasmith_-_Aul%C3%AB_and_the_Seven_Fathers.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Ted_Nasmith_-_Aul%C3%AB_and_the_Seven_Fathers.jpg/600px-Ted_Nasmith_-_Aul%C3%AB_and_the_Seven_Fathers.jpg 2x" data-file-width="819" data-file-height="826"/></a><figcaption><i>Aulë Prepares to Destroy His Children</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
@@ -156,7 +156,7 @@ Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)* thời kỳ đầu, phiên b�
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Aulë thường xuyên được người lùn triệu tập, mặc dù do trò chơi không có giấy phép cho <i>Silmarillion</i> nên ông được gọi đơn giản là "Người chế tạo đầu tiên".</dd></dl>
 

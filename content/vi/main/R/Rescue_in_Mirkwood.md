@@ -46,7 +46,7 @@ infobox:
 
 MỘT CUỘC PHIÊU LƯU CHƠI VAI TRÒ TUYỆT VỜI dựa trên J.R.R. TRUNG ĐỊA CỦA TOLKIEN
 
-Chiếc Nhẫn bị phá hủy và Sauron bị đánh bại, nhưng sâu trong khu rừng tối tăm Mirkwood, mối nguy hiểm đang rình rập. Bị bắt bởi Orc, một người con trai của giới quý tộc Elvish bị giam giữ trong xiềng xích, ngày tháng của ông ta được đếm từng ngày. Bạn đã được một công chúa Elvish yêu cầu giúp bà tìm anh trai mình và giải thoát ông. Legolas đã đưa ra lời khuyên của mình và Radagast có thể bị thuyết phục cung cấp một con cú giám hộ. Phần thưởng rất lớn - nhưng có đủ lớn để đối mặt với Nhện khổng lồ và một quân đoàn Orc? Chỉ có bạn mới có thể quyết định! Một trò chơi phiêu lưu nhập vai ... nơi bạn kiểm soát vận mệnh của mình!
+Chiếc Nhẫn bị phá hủy và Sauron bị đánh bại, nhưng sâu trong khu rừng tối tăm Mirkwood, mối nguy hiểm đang rình rập. Bị bắt bởi Orc, một người con trai của giới quý tộc Elvish bị giam giữ trong xiềng xích, ngày tháng của ông được đếm từng ngày. Bạn đã được một công chúa Elvish yêu cầu giúp bà tìm anh trai mình và giải thoát ông. Legolas đã đưa ra lời khuyên của mình và Radagast có thể bị thuyết phục cung cấp một con cú giám hộ. Phần thưởng rất lớn - nhưng có đủ lớn để đối mặt với Nhện khổng lồ và một quân đoàn Orc? Chỉ có bạn mới có thể quyết định! Một trò chơi phiêu lưu nhập vai ... nơi bạn kiểm soát vận mệnh của mình!
 
 - Chọn ký tự sẵn sàng chạy
 - Tạo nhân vật của riêng bạn bằng hệ thống QuestGame

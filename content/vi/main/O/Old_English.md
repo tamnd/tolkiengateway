@@ -22,7 +22,7 @@ langlinks:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi không thể (tất nhiên) hiểu tại sao Anglo-Saxon lại có vẻ khó khăn...
+<p>Tất nhiên, tôi không hiểu vì sao tiếng Anglo-Saxon lại có vẻ khó...
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -34,7 +34,7 @@ Anglo-Saxon thường được viết bằng [chữ rune](../R/Runes.md) trướ
 ## Lịch sử {#History}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tôi phải dạy hoặc nói về tiếng Anh cổ cho rất nhiều người trẻ, những người đơn giản là không được trang bị tài năng hoặc nhân cách để nắm bắt hoặc thu lợi từ nó.
+<p>Tôi phải dạy hoặc nói về tiếng Anh cổ cho rất nhiều người trẻ tuổi, những người vốn không có đủ năng lực bẩm sinh hoặc phẩm chất để hiểu được môn học này hay thu được lợi ích từ nó.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -126,7 +126,7 @@ Tolkien lưu ý rằng tên [Stoor](../S/Stoors.md) dựa trên từ trong tiế
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Huyền sử thời kỳ đầu
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Chữ Gnomic</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">Phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Chữ Valmaric</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> · <a href="../G/Gnomic_Letters.md" title="Gnomic Letters">Thư tự Gnomic</a> · <a href="../G/Gondolinic_Runes.md" title="Gondolinic Runes">Chữ rune Gondolinic</a> · <a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a> · <a href="../K/Keladian.md" title="Keladian">Keladian</a> · <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (<a href="../F/Fëanorian_dialect.md" title="Fëanorian dialect">phương ngữ Fëanorian</a> · <a href="../K/Kornoldorin.md" title="Kornoldorin">Kornoldorin</a>) · <a href="Oromëan.md" title="Oromëan">Oromëan</a> · <a href="../Q/Qenya.md" title="Qenya">Qenya</a> · <a href="../V/Valmaric_script.md" title="Valmaric script">Chữ viết Valmaric</a>
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Ngoài huyền sử
@@ -136,8 +136,8 @@ Tolkien lưu ý rằng tên [Stoor](../S/Stoors.md) dựa trên từ trong tiế
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Thế giới thực
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">Tiếng Anh</a> (<a class="mw-selflink selflink">Cổ</a> · <a href="../M/Middle_English.md" title="Middle English">Trung</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Tiếng Phần Lan</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Tiếng Đức</a> · <a href="../G/Gothic.md" title="Gothic">Tiếng Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">tiếng Hebrew</a> · <a href="../L/Latin.md" title="Latin">Tiếng Latinh</a> · <a href="../R/Runes.md" title="Runes">Bảng chữ cái runic</a> · <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../C/Celtic.md" title="Celtic">Celtic</a> · <a href="../M/Modern_English.md" title="Modern English">Tiếng Anh</a> (<a class="mw-selflink selflink">Cổ</a> · <a href="../M/Middle_English.md" title="Middle English">Trung</a> · <a href="../A/AB_language.md" title="AB language">AB</a>) · <a href="../F/Finnish.md" title="Finnish">Tiếng Phần Lan</a> · <a href="../N/North_Germanic_languages.md" title="North Germanic languages">Germanic</a> · <a href="../G/Gothic.md" title="Gothic">Tiếng Gothic</a> · <a href="../H/Hebrew.md" title="Hebrew">tiếng Hebrew</a> · <a href="../L/Latin.md" title="Latin">Tiếng Latinh</a> · <a href="../R/Runes.md" title="Runes">Bảng chữ cái rune</a> · <a href="../W/Welsh.md" title="Welsh">tiếng Wales</a>
 </td></tr>
 <tr>
-<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · "<a href="../A/A_Secret_Vice.md" title="A Secret Vice">Một phó tướng bí mật</a>" (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">book</a></i>) · "<a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a>" · "<a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">Cây lưỡi</a>" · <a href="../S/Sub-creation.md" title="Sub-creation">Sáng tạo phụ</a>
+<td align="center" style="background: var(--tg-color-surface-3); font-size: 90%;" colspan="2"><i><a href="../A/Alphabet_of_Fëanor%253A_Numenian,_or_Westron,_Mode.md" title="Alphabet of Fëanor: Numenian, or Westron, Mode">Alphabet of Fëanor: Numenian, or Westron, Mode</a></i> · &#34;<a href="../A/A_Secret_Vice.md" title="A Secret Vice">A Secret Vice</a>&#34; (<i><a class="mw-redirect" href="../A/A_Secret_Vice_(book).md" title="A Secret Vice (book)">sách</a></i>) · &#34;<a href="../T/The_Lhammas.md" title="The Lhammas">The Lhammas</a>&#34; · &#34;<a href="../T/The_Tree_of_Tongues.md" title="The Tree of Tongues">The Tree of Tongues</a>&#34; · <a href="../S/Sub-creation.md" title="Sub-creation">Sáng tạo thứ cấp</a>
 </td></tr></tbody></table>

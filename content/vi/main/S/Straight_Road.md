@@ -48,7 +48,7 @@ Trong các phiên bản trước của truyền thuyết, [Ælfwine](../_/Ælfwi
 
 ## Các bài viết khác {#Other_writings}
 
-[Smith](Smith_Smithson.md) dường như đã tìm thấy một con đường tương tự về mặt khái niệm, dẫn ông ta đến vùng đất của "[Thần tiên](../F/Faery.md)".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[Smith](Smith_Smithson.md) dường như đã tìm thấy một con đường tương tự về mặt khái niệm, dẫn ông đến vùng đất của "[Thần tiên](../F/Faery.md)".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Xem thêm {#See_also}
 

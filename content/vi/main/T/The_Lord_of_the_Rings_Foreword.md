@@ -30,7 +30,7 @@ images:
 
 **Lời nói đầu** là phần đầu tiên xuất hiện trong <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i>.
 
-Lời nói đầu nổi tiếng là giới thiệu những tiết lộ nhỏ liên quan đến các sự kiện sau này trong câu chuyện, như thể chúng là những sự thật nổi tiếng. Ví dụ, Forword phiên bản đầu tiên đã đề cập đến hậu duệ của Master [Samwise Gamgee](../S/Samwise_Gamgee.md), do đó trấn an rằng ông ta sẽ sống sót sau cuộc phiêu lưu. Các tài liệu tham khảo khác bao gồm việc [Một chiếc nhẫn](../O/One_Ring.md) sẽ không được sử dụng và gợi ý về sự phản bội của [Saruman](../S/Saruman.md).
+Lời nói đầu nổi tiếng là giới thiệu những tiết lộ nhỏ liên quan đến các sự kiện sau này trong câu chuyện, như thể chúng là những sự thật nổi tiếng. Ví dụ, Forword phiên bản đầu tiên đã đề cập đến hậu duệ của Master [Samwise Gamgee](../S/Samwise_Gamgee.md), do đó trấn an rằng ông sẽ sống sót sau cuộc phiêu lưu. Các tài liệu tham khảo khác bao gồm việc [Một chiếc nhẫn](../O/One_Ring.md) sẽ không được sử dụng và gợi ý về sự phản bội của [Saruman](../S/Saruman.md).
 
 ## Ấn bản đầu tiên {#First_edition}
 

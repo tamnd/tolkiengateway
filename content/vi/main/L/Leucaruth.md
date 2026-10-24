@@ -35,7 +35,7 @@ Trong *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và *[Col
 
 Hiếm khi đến hang ổ của mình, cô dành phần lớn thời gian để săn Người Lùn và Orc. Người Lùn đặc biệt là đối tượng khiến cô phẫn nộ: họ đã giết mẹ, chị gái và đứa con gái mới sinh của cô.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Throkmaw, Angurth và [Itangast](../I/Itangast.md) đều tìm cách chiếm lấy bà. Throkmaw là người chiến thắng trong các cuộc đấu tay đôi, và cùng với ông ta, cô đã sinh ra một đứa con duy nhất vào đầu Kỷ Đệ Tam: một con sâu sau này được gọi là Turukulon.<sup id="cite_ref-bio_1-1" class="reference"><a href="#cite_note-bio-1">[1]</a></sup>
+Throkmaw, Angurth và [Itangast](../I/Itangast.md) đều tìm cách chiếm lấy bà. Throkmaw là người chiến thắng trong các cuộc đấu tay đôi, và cùng với ông, cô đã sinh ra một đứa con duy nhất vào đầu Kỷ Đệ Tam: một con sâu sau này được gọi là Turukulon.<sup id="cite_ref-bio_1-1" class="reference"><a href="#cite_note-bio-1">[1]</a></sup>
 
 Leucaruth đã tham gia [Cuộc chiến Người Lùn và Rồng](../W/War_of_the_Dwarves_and_Dragons.md). Trong cuộc tấn công vào thuộc địa Người Lùn của Norr-Dûm vào [T.A.](../T/Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_2580&amp;action=edit&amp;redlink=1" title="Third Age 2580 (page does not exist)">2580</a>, cô đã bị giết bởi [Nain II](../N/Nain_II.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

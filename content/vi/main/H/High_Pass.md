@@ -61,7 +61,7 @@ Trong bản thảo của chương “[The Ring Goes South](../T/The_Ring_Goes_So
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_High_Pass.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/70/The_Lord_of_the_Rings_Online_-_High_Pass.jpg/250px-The_Lord_of_the_Rings_Online_-_High_Pass.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/The_Lord_of_the_Rings_Online_-_High_Pass.jpg/375px-The_Lord_of_the_Rings_Online_-_High_Pass.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/70/The_Lord_of_the_Rings_Online_-_High_Pass.jpg/500px-The_Lord_of_the_Rings_Online_-_High_Pass.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>The High Pass in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đèo Cao có thể được tìm thấy trong vùng Dãy Núi Sương Mù và được chia thành hai khu vực: Đèo Cao phía Bắc và Đèo Cao phía Nam. Đèo vào <a href="../V/Vales_of_Anduin.md" title="Vales of Anduin">Thung lũng Anduin</a> về phía đông đã được mở lại vào <a href="../B/Beornings.md" title="Beornings">Beornings</a> sau <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>.</dd></dl>
 

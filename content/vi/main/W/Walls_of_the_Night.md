@@ -19,7 +19,7 @@ categories:
 
 Ở [phương Đông](../E/East.md) và [Phương Tây](../U/Uttermost_West.md), Ekkaia rộng hơn và khoảng cách với đất liền lớn hơn; [Cánh Cửa Đêm](../D/Door_of_Night.md) là một lối mở ở phía tây. [Cổng buổi sáng](../G/Gates_of_Morning.md) cũng được đề cập, nhưng không biết liệu đây có phải là lối mở tương đương về phía đông trên cùng một Bức tường hay không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Có lẽ Melkor đã chạy trốn qua Bức tường sau khi rút lui khỏi [Cuộc Chiến thứ Nhất](../F/First_War.md). Trong [Mùa Xuân của Arda](../S/Spring_of_Arda.md), ông ta đã vượt qua Bức tường đêm ở phía bắc [Trung Địa](../M/Middle-earth.md) và bí mật xây dựng [Utumno](../U/Utumno.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Có lẽ Melkor đã chạy trốn qua Bức tường sau khi rút lui khỏi [Cuộc Chiến thứ Nhất](../F/First_War.md). Trong [Mùa Xuân của Arda](../S/Spring_of_Arda.md), ông đã vượt qua Bức tường đêm ở phía bắc [Trung Địa](../M/Middle-earth.md) và bí mật xây dựng [Utumno](../U/Utumno.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

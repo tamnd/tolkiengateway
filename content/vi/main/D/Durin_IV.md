@@ -61,7 +61,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Giống như tất cả các Durin sau <a class="mw-redirect mw-disambig" href="Durin.md" title="Durin">Durin I</a>, ông được đặt tên là người đầu tiên trong [Bảy Tổ phụ của người Lùn](../S/Seven_Fathers_of_the_Dwarves.md) vì ông rất giống ông cả về ngoại hình lẫn tính cách. Quả thực Người Lùn người ta tin rằng ông ta là tái sinh của Durin I, mặc dù điều này có khả thi hay không vẫn chưa rõ ràng.<sup id="cite_ref-Durin_1-1" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
+Giống như tất cả các Durin sau <a class="mw-redirect mw-disambig" href="Durin.md" title="Durin">Durin I</a>, ông được đặt tên là người đầu tiên trong [Bảy Tổ phụ của người Lùn](../S/Seven_Fathers_of_the_Dwarves.md) vì ông rất giống ông cả về ngoại hình lẫn tính cách. Quả thực Người Lùn người ta tin rằng ông là tái sinh của Durin I, mặc dù điều này có khả thi hay không vẫn chưa rõ ràng.<sup id="cite_ref-Durin_1-1" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -99,7 +99,7 @@ Một tài khoản khác nói rằng *Durinn* là một trong những Người L
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Durin_IV.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/71/The_Lord_of_the_Rings_Online_-_Durin_IV.jpg/150px-The_Lord_of_the_Rings_Online_-_Durin_IV.jpg" decoding="async" loading="lazy" width="150" height="176" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/71/The_Lord_of_the_Rings_Online_-_Durin_IV.jpg/225px-The_Lord_of_the_Rings_Online_-_Durin_IV.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/71/The_Lord_of_the_Rings_Online_-_Durin_IV.jpg/300px-The_Lord_of_the_Rings_Online_-_Durin_IV.jpg 2x" data-file-width="920" data-file-height="1080"/></a><figcaption>Durin IV in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Durin IV là Vua trị vì của Longbeards trong <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">Cuộc chiến của Liên minh Cuối cùng</a>. Anh và "Thíuda", <a href="../N/Northmen.md" title="Northmen">Người phương Bắc</a> của <a href="../S/Second_Age.md" title="Second Age">Kỷ Đệ Nhị</a>, được giao nhiệm vụ đánh bại một đám <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> hùng mạnh. Họ bị đánh bại và phải rút lui để tái gia nhập phần còn lại của Liên minh trên vùng đồng bằng <a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a> bị bao vây.</dd></dl>
 

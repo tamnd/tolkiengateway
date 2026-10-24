@@ -30,7 +30,7 @@ infobox:
 
 Caudimordax ban đầu thuộc sở hữu của [Bellomarius](../B/Bellomarius.md), kẻ giết rồng vĩ đại nhất của vương quốc. Bellomarius được cho là ông cố ngoại của [Augustus Bonifacius](../A/Augustus_Bonifacius.md), vua của [Vương quốc Trung tâm](../M/Middle_Kingdom.md) khi Giles còn là một nông dân. Dòng dõi gia đình này có thể giải thích tại sao Caudimordax lại nằm trong kho vũ khí của nhà vua, bị loại bỏ và lãng quên.
 
-Sau khi Farmer Giles đuổi được một [người khổng lồ](../T/The_Giant.md) đã đe dọa ngôi làng [Ham](../H/Ham.md), nhà vua nghĩ rằng việc gửi cho ông ta một lời chứng thực và một món quà là phù hợp. Món quà tình cờ là Caudimordax, vì nhà vua nghĩ rằng nó sẽ phù hợp với một người dân quê. Ông đã đúng; Giles rất tự hào về thanh kiếm của mình.
+Sau khi Farmer Giles đuổi được một [người khổng lồ](../T/The_Giant.md) đã đe dọa ngôi làng [Ham](../H/Ham.md), nhà vua nghĩ rằng việc gửi cho ông một lời chứng thực và một món quà là phù hợp. Món quà tình cờ là Caudimordax, vì nhà vua nghĩ rằng nó sẽ phù hợp với một người dân quê. Ông đã đúng; Giles rất tự hào về thanh kiếm của mình.
 
 Tuy nhiên, khi con rồng [Chrysophylax](Chrysophylax.md) giáng xuống [Vương quốc Trung tâm](../M/Middle_Kingdom.md) quan điểm của Giles về việc sở hữu một thanh kiếm đã thay đổi. Khi con rồng đến gần hơn, nó cất vũ khí vào tủ bếp. Nó ở đó cho đến khi con rồng xâm chiếm ngôi làng [Quercetum](../Q/Quercetum.md) gần đó. Khi mục sư của [Ham](../H/Ham.md) nhất quyết muốn nhìn thấy thanh kiếm, Giles đã mang nó ra. Trước sự ngạc nhiên chung của cả hai, lưỡi kiếm đã nhảy ra khỏi vỏ và không chịu tra vào lại. Người phân tích đã mượn thanh kiếm qua đêm để nghiên cứu các dòng chữ trên đó và vỏ của nó.
 
@@ -38,9 +38,9 @@ Cuộc kiểm tra của mục sư đã tiết lộ tên của thanh kiếm. Nh�
 
 Trận đại chiến giữa Farmer Giles và Chrysophylax diễn ra như sau: Giles bất ngờ chạm trán Chrysophylax khi vòng qua một góc nhọn. Con rồng đang ngủ say thức dậy khi con chó [Garm](../G/Garm.md) của Giles sợ hãi bỏ chạy và người nông dân ngã ngựa xuống mương. Chrysophylax nhảy lên khi Giles đánh rơi Caudimordax nhưng người nông dân đã chộp lấy và thanh kiếm lóe thẳng vào mắt con rồng. Sau đó, khi Giles cố gắng đuổi con sâu đi, Caudimordax đã làm bị thương khớp cánh phải của con rồng. Đó là điều tốt nhất mà thanh đại kiếm có thể làm được trong những bàn tay thiếu kinh nghiệm như vậy.
 
-Farmer Giles đã mang theo Caudimordax khi ông ta đi thám hiểm theo lệnh của nhà vua để lấy kho báu Chrysophylax. Trong khi con rồng dễ dàng nuốt chửng hoặc khiến tất cả những người còn lại của nhà vua sợ hãi, thì nó lại bị Giles hạ gục với thanh kiếm nổi tiếng. Lợi dụng lời đe dọa của Caudimordax, Giles đã xúi giục Chrysophylax mang một phần lớn tài sản tích trữ của mình đến làng Ham.
+Farmer Giles đã mang theo Caudimordax khi ông đi thám hiểm theo lệnh của nhà vua để lấy kho báu Chrysophylax. Trong khi con rồng dễ dàng nuốt chửng hoặc khiến tất cả những người còn lại của nhà vua sợ hãi, thì nó lại bị Giles hạ gục với thanh kiếm nổi tiếng. Lợi dụng lời đe dọa của Caudimordax, Giles đã xúi giục Chrysophylax mang một phần lớn tài sản tích trữ của mình đến làng Ham.
 
-Khi Giles đối đầu với Vua Augustus Bonifacius, Caudimordax đã nằm trong tay ông ta. Giles luôn giữ thứ vũ khí nổi tiếng trong tầm tay trong khi con rồng ngự ở làng Ham.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Khi Giles đối đầu với Vua Augustus Bonifacius, Caudimordax đã nằm trong tay ông. Giles luôn giữ thứ vũ khí nổi tiếng trong tầm tay trong khi con rồng ngự ở làng Ham.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

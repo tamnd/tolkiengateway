@@ -29,7 +29,7 @@ Lần đầu tiên nó xuất hiện trong [Maps of Trung Địa](../M/Maps_of_M
 
 ## Trong những điều chỉnh tiếp theo {#In_further_adaptations}
 
-### The Lord of the Rings Trực tuyến {#The_Lord_of_the_Rings_Online}
+### The Lord of the Rings Online {#The_Lord_of_the_Rings_Online}
 
 Trong *[The Lord of the Rings Online: Mordor](../T/The_Lord_of_the_Rings_Online%253A_Mordor.md)*, Seregost xuất hiện như một pháo đài trong vùng đầm lầy của vùng Agarnaith. Trong câu chuyện của trò chơi, nó đóng vai trò là thành trì chính của Lhaereth, một nhà sản xuất thuốc độc đã chế tạo ra [Đại Dịch](../G/Great_Plague.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Do tính phù hợp của cái tên, có thể các nhà phát triển đã đặt tên này một cách độc lập với Reeve.
 

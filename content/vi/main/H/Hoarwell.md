@@ -80,7 +80,7 @@ Trong phiên bản năm 1937 của *[The Hobbit](../T/The_Hobbit.md)*, Hoarwell 
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Hoarwell.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c4/The_Lord_of_the_Rings_Online_-_Hoarwell.jpg/250px-The_Lord_of_the_Rings_Online_-_Hoarwell.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c4/The_Lord_of_the_Rings_Online_-_Hoarwell.jpg/375px-The_Lord_of_the_Rings_Online_-_Hoarwell.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c4/The_Lord_of_the_Rings_Online_-_Hoarwell.jpg/500px-The_Lord_of_the_Rings_Online_-_Hoarwell.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Hoarwell in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hầu hết Hoarwell đều mở để thăm dò, từ các nguồn của nó trong <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a> đến nơi hợp lưu của nó với <a href="../G/Gwathló.md" title="Gwathló">Gwathló</a>. Chỉ một phần của nó giữa Ettenmoors và Trollshaws là không thể truy cập được.</dd></dl>
 

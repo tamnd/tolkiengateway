@@ -45,7 +45,7 @@ Sau chuyến tham quan [Isengard](../I/Isengard.md), nhóm đi cùng Vua [Théod
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayals_in_Adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i></b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></b>
 
 <dl><dd>Một địa danh trong khu vực Heathfells của <a href="../G/Gap_of_Rohan.md" title="Gap of Rohan">Gap of Rohan</a>, Dol Baran là nơi diễn ra cuộc giao tranh giữa lực lượng <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a> và <a href="Dunlendings.md" title="Dunlendings">Dunlending</a>.</dd></dl>
 

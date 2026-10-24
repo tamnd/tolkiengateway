@@ -86,7 +86,7 @@ Người Rohirrim giữ các Khúc cạn Isen; nhưng tổn thất của họ r�
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_First_Battle_of_the_Fords_of_Isen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5f/The_Lord_of_the_Rings_Online_-_First_Battle_of_the_Fords_of_Isen.jpg/250px-The_Lord_of_the_Rings_Online_-_First_Battle_of_the_Fords_of_Isen.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/The_Lord_of_the_Rings_Online_-_First_Battle_of_the_Fords_of_Isen.jpg/375px-The_Lord_of_the_Rings_Online_-_First_Battle_of_the_Fords_of_Isen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5f/The_Lord_of_the_Rings_Online_-_First_Battle_of_the_Fords_of_Isen.jpg/500px-The_Lord_of_the_Rings_Online_-_First_Battle_of_the_Fords_of_Isen.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>First Battle of the Fords of Isen from <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Trực tuyến: Sự trỗi dậy của Isengard</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">The Lord of the Rings Online: Sự trỗi dậy của Isengard</a></i>:</b>
 
 <dl><dd>Trận chiến được tái hiện trong trò chơi, khớp với mô tả trong The Unfinished Tales.</dd></dl>
 

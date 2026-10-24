@@ -32,7 +32,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ngôi nhà của Mírdain nằm ở trung tâm <a href="../O/Ost-in-Edhil.md" title="Ost-in-Edhil">Caras Gelebren</a>. <a href="../S/Sack_of_Eregion.md" title="Sack of Eregion">cú ngã</a> của nó được mô tả trong một đoạn hồi tưởng, trong đó người chơi đóng vai những người phòng thủ.</dd></dl>
 

@@ -47,7 +47,7 @@ infobox:
 
 MỘT TRÒ CHƠI nơi BẠN phiêu lưu ở TRUNG ĐỊA!
 
-Cuộc chiến Nhẫn đã kết thúc nhưng những tệ nạn của quá khứ vẫn còn đọng lại. Bram, một Người Lùn có gia đình đến từ Moria, yêu cầu bạn thực hiện một nhiệm vụ nguy hiểm. Trong những hang động bị bỏ hoang từ lâu của Moria có một tài liệu chứng minh quyền sở hữu của gia đình đối với những vùng đất bị kẻ thù độc ác chiếm đoạt. Bạn có thể lấy lại nó? Gia đình mong muốn khôi phục lại nhân phẩm, danh dự, phú quý; bất kỳ sự giàu có nào được tìm thấy trên đường đi đều là của bạn. Tuy nhiên, tin tức về nhiệm vụ đã đến tai kẻ tiếm quyền Người Lùn, kẻ đe dọa sẽ giết bất kỳ ai thách thức yêu sách của hắn. Bạn có thể đánh bại những âm mưu của ông ta, khôi phục lại đất đai của gia đình và chiếm lấy khối tài sản của riêng mình không? BẠN kiểm soát số phận của mình trong cuốn sách trò chơi thứ ba đầy nguy hiểm này của loạt CÂU HỎI TRUNG ĐỊA!
+Cuộc chiến Nhẫn đã kết thúc nhưng những tệ nạn của quá khứ vẫn còn đọng lại. Bram, một Người Lùn có gia đình đến từ Moria, yêu cầu bạn thực hiện một nhiệm vụ nguy hiểm. Trong những hang động bị bỏ hoang từ lâu của Moria có một tài liệu chứng minh quyền sở hữu của gia đình đối với những vùng đất bị kẻ thù độc ác chiếm đoạt. Bạn có thể lấy lại nó? Gia đình mong muốn khôi phục lại nhân phẩm, danh dự, phú quý; bất kỳ sự giàu có nào được tìm thấy trên đường đi đều là của bạn. Tuy nhiên, tin tức về nhiệm vụ đã đến tai kẻ tiếm quyền Người Lùn, kẻ đe dọa sẽ giết bất kỳ ai thách thức yêu sách của hắn. Bạn có thể đánh bại những âm mưu của ông, khôi phục lại đất đai của gia đình và chiếm lấy khối tài sản của riêng mình không? BẠN kiểm soát số phận của mình trong cuốn sách trò chơi thứ ba đầy nguy hiểm này của loạt CÂU HỎI TRUNG ĐỊA!
 
 Trong chuỗi CÂU HỎI TRUNG ĐỊA bạn có thể
 

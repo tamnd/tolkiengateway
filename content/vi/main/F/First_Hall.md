@@ -46,7 +46,7 @@ Sau sự sụp đổ của [Gandalf](../G/Gandalf.md), các thành viên còn l�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><a href="../B/Bridge_of_Khazad-dûm.md" title="Bridge of Khazad-dûm">Cầu Khazad-dûm</a> hiện đã bị hỏng nên để vào được Sảnh thứ nhất người ta phải thực hiện một hành trình dài và nguy hiểm về phía bắc vực thẳm.</dd></dl>
 

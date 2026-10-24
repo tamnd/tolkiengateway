@@ -81,7 +81,7 @@ Nhà thông thái của dân Marach là [Con Người](../M/Men.md) duy nhất l
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Vốn dĩ [Hador Lórindol](../H/Hador.md) là người đứng đầu dẫn người nhà thứ ba của Edain băng qua Ered Luin vào Beleriand và Adanel là em gái ông ta. Khi gia phả Nhà Hador được thay đổi để Marach là người đứng đầu đầu tiên thì Adanel trở thành bà cố của Hador.
+Vốn dĩ [Hador Lórindol](../H/Hador.md) là người đứng đầu dẫn người nhà thứ ba của Edain băng qua Ered Luin vào Beleriand và Adanel là em gái ông. Khi gia phả Nhà Hador được thay đổi để Marach là người đứng đầu đầu tiên thì Adanel trở thành bà cố của Hador.
 
 Có hai phiên bản của bảng phả hệ cho Nhà Hador. Trong phiên bản đầu tiên của bảng có ghi chú rằng Beren, con trai của Belemir và Adanel, là đứa con thứ năm của họ. Trong phiên bản thứ hai không có đề cập đến những đứa trẻ khác. Phần của phiên bản thứ hai hiển thị ở trên chỉ hiển thị Beren đầu tiên mặc dù các phần tử con khác có thể đã tồn tại.<sup id="cite_ref-WJwest_1-1" class="reference"><a href="#cite_note-WJwest-1">[1]</a></sup>
 

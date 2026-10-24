@@ -160,7 +160,7 @@ Trong chuyến thăm của những người lùn tới [Bag End](../B/Bag_End.md
 
 #### Một bữa tiệc bất ngờ {#An_Unexpected_Party}
 
-Bilbo được cử đến Green Rồng, nhưng trước tiên ông ta phải thu thập đồ dự trữ cho [Bombur](../B/Bombur.md) và thực hiện các công việc khác nhau cho nhiều Hobbit khác nhau.
+Bilbo được cử đến Green Rồng, nhưng trước tiên ông phải thu thập đồ dự trữ cho [Bombur](../B/Bombur.md) và thực hiện các công việc khác nhau cho nhiều Hobbit khác nhau.
 
 #### Thịt cừu nướng {#Roast_Mutton}
 
@@ -168,7 +168,7 @@ Bilbo được gửi đi để điều tra đèn cháy. Màn này giới thiệu
 
 #### Hố quỷ {#Troll-hole}
 
-Bilbo phải khám phá hang troll và tìm chiếc chìa khóa troll cần thiết để mở hang. Được biết, [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) đã xây dựng nhiều hang động trong khu vực (khi nó còn được gọi là [Rhudaur](../R/Rhudaur.md)), và nhiều tay sai của hắn vẫn ẩn náu ở đó. Ông ta tìm thấy Lianna, một Tiên của Mirkwood và một con dao găm mà ông ta đặt tên là [Sting](../S/Sting.md).
+Bilbo phải khám phá hang troll và tìm chiếc chìa khóa troll cần thiết để mở hang. Được biết, [Vua Phù thủy](../W/Witch-king.md) của [Angmar](../A/Angmar.md) đã xây dựng nhiều hang động trong khu vực (khi nó còn được gọi là [Rhudaur](../R/Rhudaur.md)), và nhiều tay sai của hắn vẫn ẩn náu ở đó. Ông tìm thấy Lianna, một Tiên của Mirkwood và một con dao găm mà ông đặt tên là [Sting](../S/Sting.md).
 
 #### Trên đồi và Dưới đồi {#Over_Hill_and_Under_Hill}
 
@@ -182,7 +182,7 @@ Sau khi bị yêu tinh bắt, Bilbo bị tách khỏi phần còn lại của C�
 
 #### Ruồi và Nhện {#Flies_and_Spiders}
 
-Bilbo bị lạc và phải tìm đường vượt qua một con nhện Mirkwood bị nhiễm khuẩn (trong đó ông ta phải chiến đấu với nhiều con nhện độc, cũng như "tay sai của [Necromancer](../N/Necromancer.md)"). Anh gặp Corwin, một người đàn ông Thị trấn Hồ, người có trại bị tấn công. Bilbo có thể lấy lại chiếc nhẫn của anh trai mình cho ông. Sau đó, anh phải giải cứu những người lùn khỏi bị ba con nhện khổng lồ Wrath, Wicked và Wild ăn thịt.
+Bilbo bị lạc và phải tìm đường vượt qua một con nhện Mirkwood bị nhiễm khuẩn (trong đó ông phải chiến đấu với nhiều con nhện độc, cũng như "tay sai của [Necromancer](../N/Necromancer.md)"). Anh gặp Corwin, một người đàn ông Thị trấn Hồ, người có trại bị tấn công. Bilbo có thể lấy lại chiếc nhẫn của anh trai mình cho ông. Sau đó, anh phải giải cứu những người lùn khỏi bị ba con nhện khổng lồ Wrath, Wicked và Wild ăn thịt.
 
 #### Thùng hết hạn {#Barrels_Out_of_Bond}
 
@@ -190,11 +190,11 @@ Bilbo và những người lùn vẫn chưa an toàn khi ra khỏi Mirkwood. Nh�
 
 #### Chào mừng nồng nhiệt {#A_Warm_Welcome}
 
-Bilbo quản lý để đặt Người Lùn vào thùng và trốn thoát đến [Thị trấn Hồ](../L/Lake-town.md). Tại Laketown, [Bard](../B/Bard.md) và [Calamar](../C/Calamar.md), [Bậc thầy của Thị trấn Hồ](../M/Master_of_Lake-town.md), tuyển dụng Bilbo để thực hiện thêm các vụ trộm và gián điệp. Ông ta phải ngăn chặn một tổ chức tội phạm gồm Người Hồ và Orc, những kẻ đã đánh cắp [Mũi tên đen](../B/Black_Arrow~68980.md). Tất cả Người Lùn đều nằm rải rác xung quanh Thị trấn Hồ và nhiều trong số chúng xuất hiện lần đầu tiên ở đây.
+Bilbo quản lý để đặt Người Lùn vào thùng và trốn thoát đến [Thị trấn Hồ](../L/Lake-town.md). Tại Laketown, [Bard](../B/Bard.md) và [Calamar](../C/Calamar.md), [Bậc thầy của Thị trấn Hồ](../M/Master_of_Lake-town.md), tuyển dụng Bilbo để thực hiện thêm các vụ trộm và gián điệp. Ông phải ngăn chặn một tổ chức tội phạm gồm Người Hồ và Orc, những kẻ đã đánh cắp [Mũi tên đen](../B/Black_Arrow~68980.md). Tất cả Người Lùn đều nằm rải rác xung quanh Thị trấn Hồ và nhiều trong số chúng xuất hiện lần đầu tiên ở đây.
 
 #### Thông tin nội bộ {#Inside_Information}
 
-Sau khi rời khỏi Long Lake, Bilbo tìm thấy [lối vào bí mật](../B/Back_Door.md). Sau khi lén lút căng thẳng, Bilbo đã cướp được Cúp Thrór ngay dưới mũi [Smaug](../S/Smaug.md). Smaug nhận thấy và không mấy hài lòng, đồng thời Thorin cử Bilbo quay lại để tìm điểm yếu của con rồng. Sau khi Bilbo thể hiện với "Smaug Người tráng lệ" và tuyên bố mình là "Người cưỡi thùng", Smaug đối đầu với Bilbo và tiến đến Thị trấn Hồ, nơi ông ta gặp cái chết của mình. Khi Rồng không còn, Bilbo phải tìm một số vật phẩm - [Vòng cổ của Girion](../N/Necklace_of_Girion.md), những ngọn giáo của [Bladorthin](../B/Bladorthin.md), viên Ruby của [Gróin](../G/Gróin.md) và một đĩa phục vụ bằng vàng. Sau đó, ông ta phải vượt qua một vực sâu bằng cách làm ngập nó.
+Sau khi rời khỏi Long Lake, Bilbo tìm thấy [lối vào bí mật](../B/Back_Door.md). Sau khi lén lút căng thẳng, Bilbo đã cướp được Cúp Thrór ngay dưới mũi [Smaug](../S/Smaug.md). Smaug nhận thấy và không mấy hài lòng, đồng thời Thorin cử Bilbo quay lại để tìm điểm yếu của con rồng. Sau khi Bilbo thể hiện với "Smaug Người tráng lệ" và tuyên bố mình là "Người cưỡi thùng", Smaug đối đầu với Bilbo và tiến đến Thị trấn Hồ, nơi ông gặp cái chết của mình. Khi Rồng không còn, Bilbo phải tìm một số vật phẩm - [Vòng cổ của Girion](../N/Necklace_of_Girion.md), những ngọn giáo của [Bladorthin](../B/Bladorthin.md), viên Ruby của [Gróin](../G/Gróin.md) và một đĩa phục vụ bằng vàng. Sau đó, ông phải vượt qua một vực sâu bằng cách làm ngập nó.
 
 #### Sự tụ họp của những đám mây {#The_Gathering_of_the_Clouds}
 
@@ -204,7 +204,7 @@ Trong Ngọn Núi Cô Đơn, Thorin chỉ có một nhiệm vụ cho Bilbo: tìm
 
 #### Mây tan {#The_Clouds_Burst}
 
-Cấp độ này là [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md). Bilbo, người đứng cùng Gandalf và Thranduil trên [Ravenhill](../R/Ravenhill.md), tình nguyện mang tin nhắn đến Bard; ông ta sắp bị tấn công từ phía sau. Trong chuyến đi của mình, anh phải cứu Corwin, và Lianna cử anh đi tìm Beorn. Sau một cơn thịnh nộ ngắn, Beorn bị bắt và Bilbo phải giải thoát ông ta bằng cách đá vào nhiều thùng. Sau khi giải phóng Beorn, trò chơi kết thúc: Beorn giết chết Bolg, người ngồi trên một con chiến mã khổng lồ trên một đường kính không thể tiếp cận được.
+Cấp độ này là [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md). Bilbo, người đứng cùng Gandalf và Thranduil trên [Ravenhill](../R/Ravenhill.md), tình nguyện mang tin nhắn đến Bard; ông sắp bị tấn công từ phía sau. Trong chuyến đi của mình, anh phải cứu Corwin, và Lianna cử anh đi tìm Beorn. Sau một cơn thịnh nộ ngắn, Beorn bị bắt và Bilbo phải giải thoát ông bằng cách đá vào nhiều thùng. Sau khi giải phóng Beorn, trò chơi kết thúc: Beorn giết chết Bolg, người ngồi trên một con chiến mã khổng lồ trên một đường kính không thể tiếp cận được.
 
 <dl><dd><i>Sau đó, người kể chuyện bắt đầu phần kết. Laketown được xây dựng lại, Bilbo nhận được phần thưởng và trở về nhà với Beorn và Gandalf. Cả phiên đấu giá Bag End lẫn chuyến thăm <a href="../B/Balin.md" title="Balin">Balin</a> đều không được nêu bật.</i></dd></dl>
 

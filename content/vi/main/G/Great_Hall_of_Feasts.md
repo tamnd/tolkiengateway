@@ -50,7 +50,7 @@ Vào [ngày 18 tháng 7](../J/July_18.md) [T.A.](../T/Third_Age.md) [3019](../T/
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Merethrond có mặt trong cả ba phiên bản chính của Minas Tirith, nhưng nổi bật nhất là vào thời điểm <a href="../M/Mid-year&#39;s_Day.md" title="Mid-year&#39;s Day">Giữa hè</a> khi tổ chức Tiệc sau đám cưới hoàng gia của <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> và <a href="../A/Arwen.md" title="Arwen">Arwen</a>.</dd></dl>
 

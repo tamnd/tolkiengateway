@@ -85,7 +85,7 @@ Tuy nhiên, nhiều Người Lùn không biết số phận của Chiếc Nhẫn
 
 <dl><dd>Chiếc nhẫn của Thrór được đề cập tiếp theo trong Đoạn mở đầu, trong đó Thorin nói với Gandalf rằng Thrór đã đưa cho Thráin chiếc nhẫn của ông trước khi ông tham chiến, có lẽ là Trận Azanulbizar. Tiếp theo, Chiếc nhẫn xuất hiện khi Thráin được Azog đánh bại, trong đó Azog rút một con dao, trước khi cảnh chuyển sang Thráin ở Dol Guldor, mô tả ngón đeo nhẫn bị mất của ông, thông báo cho Gandalf và Khán giả rằng Azog hiện có Chiếc nhẫn của Thráin, hiện thuộc quyền sở hữu của Sauron.</dd></dl>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Chiếc nhẫn của Thrór không xuất hiện mà được đặt tên là "Angya", và được Người Lùn gọi là "Handórm". Gandalf tin rằng nó đã bị phá hủy trong sự sụp đổ của <a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-dûr</a>.</dd></dl>
 

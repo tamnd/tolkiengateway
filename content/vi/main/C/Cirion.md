@@ -127,7 +127,7 @@ Sau khi Cirion qua đời vào năm [2567](../T/Third_Age_2567.md), con trai ôn
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_The_Oath_of_Eorl.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bc/The_Lord_of_the_Rings_Online_-_The_Oath_of_Eorl.jpg/300px-The_Lord_of_the_Rings_Online_-_The_Oath_of_Eorl.jpg" decoding="async" loading="lazy" width="300" height="266" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bc/The_Lord_of_the_Rings_Online_-_The_Oath_of_Eorl.jpg/450px-The_Lord_of_the_Rings_Online_-_The_Oath_of_Eorl.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bc/The_Lord_of_the_Rings_Online_-_The_Oath_of_Eorl.jpg/600px-The_Lord_of_the_Rings_Online_-_The_Oath_of_Eorl.jpg 2x" data-file-width="1110" data-file-height="984"/></a><figcaption><i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i> tapestry: The Oath of Eorl</figcaption></figure>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một bức tượng của Eorl và Cirion được dựng gần nơi họ gặp nhau lần đầu tiên. Một tấm thảm có tên "The Lời thề của Eorl" hiển thị Cirion được tìm thấy ở Mead Hall của <a href="../A/Aldburg.md" title="Aldburg">Aldburg</a>.</dd></dl>
 

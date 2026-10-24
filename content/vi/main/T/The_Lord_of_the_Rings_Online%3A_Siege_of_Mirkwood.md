@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_Siege_of_Mirkwood.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/11/LOTRO_-_Siege_of_Mirkwood.png/320px-LOTRO_-_Siege_of_Mirkwood.png" decoding="async" loading="lazy" width="320" height="166" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/11/LOTRO_-_Siege_of_Mirkwood.png/480px-LOTRO_-_Siege_of_Mirkwood.png 1.5x, https://tolkiengateway.net/w/images/1/11/LOTRO_-_Siege_of_Mirkwood.png 2x" data-file-width="625" data-file-height="325"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Online:<br/>Siege of Mirkwood</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/1_December.md" title="1 December">December 1</a>, <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>The Lord of the Rings Trực tuyến: Cuộc vây hãm Mirkwood</b></i> là bản mở rộng thứ hai cho *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
+<i><b>The Lord of the Rings Online: Cuộc vây hãm Mirkwood</b></i> là bản mở rộng thứ hai cho *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
 
 ## Nội dung {#Contents}
 
@@ -60,7 +60,7 @@ Nhóm Tiên tộc được gọi là Đội cận vệ ẩn giấu đã vượt 
 
 #### Phần kết - Của Tiên tộc và Người Lùn {#Epilogue_-_Of_Elves_and_Dwarves}
 
-Tiên tộc và những người lùn hoàn thành những công việc cuối cùng trên khắp miền nam [Mirkwood](../M/Mirkwood.md). Chiếc rìu Zigilburk lại được chôn ở nơi người lùn tìm thấy để không bao giờ sử dụng sức mạnh của nó nữa. Tiên tộc của Lothlorien cũng tấn công thêm một số đòn vào pháo đài bóng tối, trinh sát ba địa điểm quan trọng và chiếm được một địa điểm. Ngoài ra, Gorothul còn bị thách thức trong một cuộc tấn công khác trong khu vực của ông ta ở Sammath Gul, nơi cuối cùng ông ta bị đánh bại.
+Tiên tộc và những người lùn hoàn thành những công việc cuối cùng trên khắp miền nam [Mirkwood](../M/Mirkwood.md). Chiếc rìu Zigilburk lại được chôn ở nơi người lùn tìm thấy để không bao giờ sử dụng sức mạnh của nó nữa. Tiên tộc của Lothlorien cũng tấn công thêm một số đòn vào pháo đài bóng tối, trinh sát ba địa điểm quan trọng và chiếm được một địa điểm. Ngoài ra, Gorothul còn bị thách thức trong một cuộc tấn công khác trong khu vực của ông ở Sammath Gul, nơi cuối cùng ông bị đánh bại.
 
 ### Tập III: Đồng minh của Vua {#Volume_III:_Allies_of_the_King}
 
@@ -70,7 +70,7 @@ Tiên tộc và những người lùn hoàn thành những công việc cuối c
 
 Quyển 1 đã được phát hành vào [1 tháng 3](../_/1_March.md), [2010](../_/2010.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Elrond](../E/Elrond.md) nhận được một tin nhắn bí ẩn từ [Galadriel](../G/Galadriel.md), yêu cầu ông ta tập hợp [Biệt đội miền Bắc](../R/Rangers_of_the_North.md) và cử họ đến [Rohan](../R/Rohan.md) để giúp đỡ [Aragorn](../A/Aragorn.md). Người chơi được triệu tập đến [Ngôi nhà giản dị cuối cùng](../R/Rivendell.md) và đưa ra danh sách Rangers để chiêu mộ: Radanir, Candaith, Saeradan, Halros, [Halbarad](../H/Halbarad.md), Calenglad, Lothrandir, Corunir và Golodir.
+[Elrond](../E/Elrond.md) nhận được một tin nhắn bí ẩn từ [Galadriel](../G/Galadriel.md), yêu cầu ông tập hợp [Biệt đội miền Bắc](../R/Rangers_of_the_North.md) và cử họ đến [Rohan](../R/Rohan.md) để giúp đỡ [Aragorn](../A/Aragorn.md). Người chơi được triệu tập đến [Ngôi nhà giản dị cuối cùng](../R/Rivendell.md) và đưa ra danh sách Rangers để chiêu mộ: Radanir, Candaith, Saeradan, Halros, [Halbarad](../H/Halbarad.md), Calenglad, Lothrandir, Corunir và Golodir.
 
 Các bản cập nhật bao gồm (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Volume_3_Allies_of_the_King_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 

@@ -94,12 +94,12 @@ images:
 ### 1917 {#1917}
 
 - **[Ngày 12 tháng 1](../_/12_January.md)** - Tolkien thời gian nghỉ phép (để hồi phục sau cơn sốt) kết thúc, nhưng ông còn lâu mới bình phục.<sup id="cite_ref-Garth_1-30" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
-- **[29 tháng 1](../_/29_January.md)** - Tolkien phải đối mặt với Hội đồng y tế vào Birmingham, nhưng ông ta được cho là không đủ sức khỏe để quay lại chiến tranh.<sup id="cite_ref-Garth_1-31" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
+- **[29 tháng 1](../_/29_January.md)** - Tolkien phải đối mặt với Hội đồng y tế vào Birmingham, nhưng ông được cho là không đủ sức khỏe để quay lại chiến tranh.<sup id="cite_ref-Garth_1-31" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[Tháng 2](../F/February.md)** - Tolkien đối mặt với Hội đồng Y khoa thứ hai của mình, nhưng lại bị coi là không đủ khả năng đảm nhận nhiệm vụ.<sup id="cite_ref-Garth_1-32" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[27 tháng 2](../_/27_February.md)** - Tolkien đối mặt với Hội đồng Y tế thứ ba của mình, và một lần nữa thời gian nghỉ phép của ông lại được gia hạn.<sup id="cite_ref-Garth_1-33" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[Ngày 18 tháng 4](../_/18_April.md)** - Tolkien và Wiseman, Anh em song sinh vĩ đại, gặp nhau ở Harrogate và thảo luận về số phận của [Barrovians](../T/T.C.B.S..md) và tương lai của Hội.<sup id="cite_ref-Garth_1-34" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[Ngày 19 tháng 4](../_/19_April.md)** - Tolkien, trong quá trình xác nhận lại, được giao cho Humber Garrison, nhưng không đủ sức khỏe.<sup id="cite_ref-Garth_1-35" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
-- **[Ngày 1 tháng 6](../_/1_June.md)** - Tolkien được coi là đủ sức khỏe để phục vụ trở lại, nhưng ông ta không được bổ nhiệm lại vào Lancashire Fusilliers.<sup id="cite_ref-Garth_1-36" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
+- **[Ngày 1 tháng 6](../_/1_June.md)** - Tolkien được coi là đủ sức khỏe để phục vụ trở lại, nhưng ông không được bổ nhiệm lại vào Lancashire Fusilliers.<sup id="cite_ref-Garth_1-36" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[29 tháng 6](../_/29_June.md)** - J.R.R. Tolkien qua đời vì bệnh viêm dạ dày khi ở Trại Brocton.<sup id="cite_ref-Garth_1-37" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[Ngày 1 tháng 8](../_/1_August.md)** - ["Tea Cake" Barnsley](../T/Thomas_Kenneth_Barnsley.md) bị giết ở Ypres.<sup id="cite_ref-Garth_1-38" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>
 - **[13 tháng 10](../_/13_October.md)**- Tolkien được xác định là không đủ sức khỏe để làm nhiệm vụ trong sáu tháng nhưng có thể làm công việc bàn giấy.<sup id="cite_ref-Garth_1-39" class="reference"><a href="#cite_note-Garth-1">[1]</a></sup>

@@ -32,7 +32,7 @@ Tại [Kỷ Đệ Tứ](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md), trên
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Elrond mang theo Vương trượng Annúminas trong chuyến hành trình tới đám cưới của Arwen ở Minas Tirith.</dd></dl>
 

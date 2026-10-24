@@ -108,7 +108,7 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 2\. Xin chào Eärendil! \[01:36\]
 
-3\. Ông ta đã ở lại đó vì sai lầm \[02:43\]
+3\. Ông đã ở lại đó vì sai lầm \[02:43\]
 
 4\. Liệu phàm nhân bước lên Vùng Đất Bất Tử mà vẫn sống? \[04:39\]
 
@@ -116,7 +116,7 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 6\. Chắc chắn đó là một Silmaril đang tỏa sáng trong Phương Tây \[03:49\]
 
-7\. Nhưng cái chết to lớn đã được đặt lên ông ta \[04:15\]
+7\. Nhưng cái chết to lớn đã được đặt lên ông \[04:15\]
 
 8\. Cảnh 7: Nhưng Morgoth không để ý đến cuộc tấn công xảy ra với mình \[03:54\]
 

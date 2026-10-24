@@ -65,7 +65,7 @@ Entwash là dạng hiện đại hóa của từ <i><b>Entwaesc</b></i> trong [t
 
 ## Khắc họa trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Entwash.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_Entwash.jpg/250px-The_Lord_of_the_Rings_Online_-_Entwash.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_Entwash.jpg/375px-The_Lord_of_the_Rings_Online_-_Entwash.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_Entwash.jpg/500px-The_Lord_of_the_Rings_Online_-_Entwash.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Entwash in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 

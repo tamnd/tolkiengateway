@@ -43,7 +43,7 @@ infobox:
 
 **Littleheart** là [Tiên](../E/Elf.md) Gong cai ngục tại [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md), nơi ông gọi cho Tombo, [Gong of Children](../G/Gong_of_the_Children.md), một lần để triệu tập cư dân dùng bữa và ba lần triệu tập họ để kể chuyện. Trước đây ông đã du hành cùng [Eärendel](../E/Eärendel.md) trên [Wingilot](../W/Wingilot.md) trong chuyến hành trình cuối cùng tới [Kôr](../K/Kôr.md), và chính tiếng chuông của Tombo đã đánh thức [Người ngủ](../S/Sleeper.md) trong [Tháp Ngọc](../T/Tower_of_Pearl.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ngoại hình của ông ta được nhận xét là có "khuôn mặt hao mòn vì thời tiết và đôi mắt xanh vui vẻ, rất mảnh khảnh và nhỏ bé, không thể nói là ông ta năm mươi hay mười nghìn."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ngoại hình của ông được nhận xét là có "khuôn mặt hao mòn vì thời tiết và đôi mắt xanh vui vẻ, rất mảnh khảnh và nhỏ bé, không thể nói là ông năm mươi hay mười nghìn."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Tên thật của ông là **Ilfrin** và ông đã kể những câu chuyện về [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) và [Nauglafring](../N/Nauglafring.md) ở *[The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md)*. Trong câu chuyện về Nauglafring của chính mình, [Gifanon](../G/Gilfanon.md) đã nói rằng chỉ có Littleheart, con trai của [Bronweg](../V/Voronwë.md), đã nhìn thấy Nauglafring và vẫn còn sống.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -53,7 +53,7 @@ infobox:
 
 <dl><dd>Ma cà rồng được mô tả là <a href="../M/Maiar.md" title="Maiar">Maia</a> trước đây là khách quen của những con dơi bình thường, nhưng bị Morgoth làm hư hỏng và biến thành ác quỷ xuất hiện dưới dạng những con dơi cỡ người với "<i>khuôn mặt của Con Người hoặc Phụ nữ gớm ghiếc</i>", có khả năng thay đổi hình dạng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Một sinh vật liên quan cũng được hình dung, <i>Blood-wight</i>, là một xác sống <a href="../M/Men.md" title="Men">Người đàn ông</a> biến hình, hút máu người sống chúng sinh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b><a href="../_/2007.md" title="2007">2007</a>: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một sinh vật mới được tạo ra cho trò chơi, Merrevail (số ít, Morroval) dường như được dựa trên ma cà rồng của Tolkien. Họ là những phụ nữ có cánh dơi đáng sợ với những móng vuốt sắc nhọn. Con đực của loài này là Mervyl (số ít, Morvul).</dd></dl>
 

@@ -121,11 +121,11 @@ Có khả năng [Faramir](../F/Faramir.md) đang nói đến King's Men hoặc B
 
 <dl><dd>Một cây có các họ Con Người liệt kê Umbareans, Saruleans, Elornans, Ciryedain và Mirëdorans là các nhánh phụ của Black người Númenor.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[21]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: Trận chiến vì Trung Địa II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Lord of the Rings: The Battle for Middle-earth II: Sự trỗi dậy của Vua Phù thủy</a></i>:</b>
 
 <dl><dd>người Númenor người da đen sinh sống trên vùng đất <a href="../A/Angmar.md" title="Angmar">Angmar</a> và <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> trung thành với ông để giúp chiến đấu chống lại <a href="../A/Arnor.md" title="Arnor">Arnor</a>. Quân người Númenor Đen là các đơn vị có thể chơi được cũng như các đơn vị tương ứng của chúng, Dark Rangers và Thrall Master.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>người Númenor Đen được miêu tả là phục vụ cho các Trung úy khác nhau của Kẻ Thù. <i>Angmarim</i> sinh sống ở vùng đất xung quanh <a class="mw-redirect" href="../C/Carn_Dum.md" title="Carn Dum">Carn Dum</a> ở Angmar và phục vụ <a class="mw-redirect" href="../M/Mordirith.md" title="Mordirith">Mordirith</a> và sau đó là <a href="../A/Amarthiel.md" title="Amarthiel">Amarthiel</a>. Mãi về sau, <i>Umbarrim</i> Đen người Númenor xuất hiện trong <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> của <a href="../M/Mirkwood.md" title="Mirkwood">Mirkwood</a>. Khi vùng đất <a href="../M/Mordor.md" title="Mordor">Mordor</a> được khám phá sau sự sụp đổ của <a href="../S/Sauron.md" title="Sauron">Sauron</a>, những người sùng bái Númenórean da đen được gọi là <i>Mordorrim</i> được cho là nằm trong số cư dân của nó.</dd></dl>
 

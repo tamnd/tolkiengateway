@@ -26,7 +26,7 @@ images:
 
 ## Lịch sử {#History}
 
-Bài thơ được đưa ra lần đầu trong [bức thư](../G/Gandalf's_letter.md) để lại cho [Frodo](../F/Frodo_Baggins.md) của [Gandalf](../G/Gandalf.md) ở [Bree](../B/Bree.md). Trong bức thư đó, nó xuất hiện như một phần của phần tái bút nhắc nhở Frodo hãy đảm bảo rằng "[Strider](<../S/Strider_(Aragorn).md>)" mà ông gặp là " Strider thật". Bài thơ vì thế xuất hiện trong bối cảnh đó như một phương tiện để nhận dạng Aragorn. Aragorn quả thực sau đó đã trích dẫn hai dòng đầu tiên, không biết bài thơ có trong thư và điều này giúp xác nhận danh tính của ông ta.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bilbo chính ông ta đã đọc lại bài thơ tại [Hội đồng Elrond](../C/Council_of_Elrond.md) khi [Boromir](../B/Boromir.md) tỏ ra nghi ngờ về việc Aragorn tự nhận mình là [Người thừa kế Isildur](../H/Heir_of_Isildur.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Bài thơ được đưa ra lần đầu trong [bức thư](../G/Gandalf's_letter.md) để lại cho [Frodo](../F/Frodo_Baggins.md) của [Gandalf](../G/Gandalf.md) ở [Bree](../B/Bree.md). Trong bức thư đó, nó xuất hiện như một phần của phần tái bút nhắc nhở Frodo hãy đảm bảo rằng "[Strider](<../S/Strider_(Aragorn).md>)" mà ông gặp là " Strider thật". Bài thơ vì thế xuất hiện trong bối cảnh đó như một phương tiện để nhận dạng Aragorn. Aragorn quả thực sau đó đã trích dẫn hai dòng đầu tiên, không biết bài thơ có trong thư và điều này giúp xác nhận danh tính của ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bilbo chính ông đã đọc lại bài thơ tại [Hội đồng Elrond](../C/Council_of_Elrond.md) khi [Boromir](../B/Boromir.md) tỏ ra nghi ngờ về việc Aragorn tự nhận mình là [Người thừa kế Isildur](../H/Heir_of_Isildur.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Bài thơ {#Poem}
 
@@ -36,7 +36,7 @@ Bài thơ được đưa ra lần đầu trong [bức thư](../G/Gandalf's_lette
 
 ## Phân tích {#Analysis}
 
-Dòng đầu tiên rõ ràng là sự viết lại câu tục ngữ truyền thống “<a class="extiw" href="http://en.wikipedia.org/wiki/All_that_glitters_is_not_gold" title="wikipedia:All that glitters is not gold">Tất cả những gì lấp lánh không phải là vàng</a>”, làm thay đổi ý nghĩa của nó. Dòng thứ hai, có lẽ là một trong những dòng trong tác phẩm của Tolkien thường được trích dẫn ngoài ngữ cảnh nhất,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> đề cập đến những chuyến đi của Aragorn. Dòng thứ ba và thứ tư liên quan đến di sản của Aragorn, trong khi dòng còn lại mô tả số phận của ông ta. "Lưỡi dao bị gãy" ám chỉ [Mảnh vỡ của Narsil](../S/Shards_of_Narsil.md), thực sự được làm lại cho Aragorn.
+Dòng đầu tiên rõ ràng là sự viết lại câu tục ngữ truyền thống “<a class="extiw" href="http://en.wikipedia.org/wiki/All_that_glitters_is_not_gold" title="wikipedia:All that glitters is not gold">Tất cả những gì lấp lánh không phải là vàng</a>”, làm thay đổi ý nghĩa của nó. Dòng thứ hai, có lẽ là một trong những dòng trong tác phẩm của Tolkien thường được trích dẫn ngoài ngữ cảnh nhất,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> đề cập đến những chuyến đi của Aragorn. Dòng thứ ba và thứ tư liên quan đến di sản của Aragorn, trong khi dòng còn lại mô tả số phận của ông. "Lưỡi dao bị gãy" ám chỉ [Mảnh vỡ của Narsil](../S/Shards_of_Narsil.md), thực sự được làm lại cho Aragorn.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

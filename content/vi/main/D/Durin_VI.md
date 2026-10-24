@@ -112,7 +112,7 @@ Một ghi chép khác cho biết *Durinn* là một trong những Người Lùn 
 
 <dl><dd>Cuốn sách của <a href="../S/Saruman.md" title="Saruman">Saruman</a> về <a href="../M/Moria.md" title="Moria">Moria</a> có dòng chữ, khi dịch ra, có nội dung "Một <a href="../B/Balrogs.md" title="Balrogs">Balrog</a> của <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> Durin đệ lục đã bị giết do đó tên của nó là: <a href="Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a>".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Chữ viết trên tường của <a href="../C/Chamber_of_Mazarbul.md" title="Chamber of Mazarbul"> Phòng Mazarbul</a> là dòng chữ <a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a> dịch sang "Durin bị giết bởi <a href="Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a> và <a href="../N/Náin_I.md" title="Náin I">Náin</a> con trai của Durin, Tai họa của Durin cũng giết chết ông".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Durin VI xuất hiện trong phiên phát mô tả sự sụp đổ của <a href="../M/Moria.md" title="Moria">Moria</a>. Ông có mặt khi <a href="Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a> tỉnh dậy sau giấc ngủ và là một trong những người đầu tiên bị nó giết chết.</dd></dl>
 

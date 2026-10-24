@@ -42,7 +42,7 @@ infobox:
 
 Óswine là một "người yêu các bài hát" và thân thiện với [Tiên tộc](../E/Elves.md) vẫn còn ở Lúthien, tụ tập chủ yếu ở các vùng đất xung quanh Kortirion, được gọi là [Alalminórë](../A/Alalminórë.md) hay "Vùng đất của [Elms](../E/Elms.md)". Trong thành phố của ông cũng có [Ælfwine](Ælfwine.md), người sau này đã khám phá ra [Tol Eressëa](../T/Tol_Eressëa.md), cũng như cha mẹ ông, [minstrel](../M/Minstrels.md) [Déor](<../D/Déor_(father_of_Ælfwine).md>) và [Éadgifu](Éadgifu.md) của [Lionese](../L/Lionesse.md).
 
-Ông ta đã bị giết trong cuộc bao vây Kortirion bởi những người hung dữ được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Forodwaith_(The_Book_of_Lost_Tales)&amp;action=edit&amp;redlink=1" title="Forodwaith (The Book of Lost Tales) (page does not exist)">Forodwaith</a> (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Vikings" title="wikipedia:Vikings">Người Viking</a>).<sup id="cite_ref-Osw_3-1" class="reference"><a href="#cite_note-Osw-3">[2]</a></sup>
+Ông đã bị giết trong cuộc bao vây Kortirion bởi những người hung dữ được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Forodwaith_(The_Book_of_Lost_Tales)&amp;action=edit&amp;redlink=1" title="Forodwaith (The Book of Lost Tales) (page does not exist)">Forodwaith</a> (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Vikings" title="wikipedia:Vikings">Người Viking</a>).<sup id="cite_ref-Osw_3-1" class="reference"><a href="#cite_note-Osw-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

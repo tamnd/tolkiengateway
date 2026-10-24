@@ -45,7 +45,7 @@ images:
 
 ## *The Hobbit* {#The_Hobbit}
 
-Phiên bản gốc của bài hát được [Bilbo](../B/Bilbo_Baggins.md) đọc lại trong chương cuối của *[The Hobbit](The_Hobbit.md)*, khi kết thúc hành trình trở về [ Shire](The_Shire.md). Khi lên tới đỉnh dốc, ông ta nhìn thấy ngôi nhà của mình ở phía xa, dừng lại và nói như sau:
+Phiên bản gốc của bài hát được [Bilbo](../B/Bilbo_Baggins.md) đọc lại trong chương cuối của *[The Hobbit](The_Hobbit.md)*, khi kết thúc hành trình trở về [ Shire](The_Shire.md). Khi lên tới đỉnh dốc, ông nhìn thấy ngôi nhà của mình ở phía xa, dừng lại và nói như sau:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Những con đường vẫn tiếp tục,<br/>

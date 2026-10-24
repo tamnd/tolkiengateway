@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Maedhros](../M/Maedhros.md) biết rằng [Silmaril](../S/Silmaril.md) đang ở [Cửa sông Sirion](../M/Mouths_of_Sirion.md), nhưng ông ta không hành động ngay lập tức - và từ bỏ [Lời Thề](../O/Oath_of_Fëanor.md) - vì tội lỗi [về hành động của mình](../S/Second_Kinslaying.md) trong [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Maedhros](../M/Maedhros.md) biết rằng [Silmaril](../S/Silmaril.md) đang ở [Cửa sông Sirion](../M/Mouths_of_Sirion.md), nhưng ông không hành động ngay lập tức - và từ bỏ [Lời Thề](../O/Oath_of_Fëanor.md) - vì tội lỗi [về hành động của mình](../S/Second_Kinslaying.md) trong [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

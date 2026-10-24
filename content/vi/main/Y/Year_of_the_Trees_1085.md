@@ -24,7 +24,7 @@ langlinks:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Oromë](../O/Oromë.md) phát hiện ra [Tiên tộc](../E/Elves.md) gần bờ biển [Helcar](../S/Sea_of_Helcar.md); ông đặt tên cho họ là Eldar, Người của các vì sao. Do sự theo dõi và thì thầm của [Melkor](../M/Morgoth.md), một số Eldar sợ Oromë và bỏ chạy khi ông ta đến gần.<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
+- [Oromë](../O/Oromë.md) phát hiện ra [Tiên tộc](../E/Elves.md) gần bờ biển [Helcar](../S/Sea_of_Helcar.md); ông đặt tên cho họ là Eldar, Người của các vì sao. Do sự theo dõi và thì thầm của [Melkor](../M/Morgoth.md), một số Eldar sợ Oromë và bỏ chạy khi ông đến gần.<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 - Vào khoảng thời gian này, có thể [Orc](../O/Orcs.md) đầu tiên đã được tạo, bị hỏng từ Tiên tộc.<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 
 <span></span>

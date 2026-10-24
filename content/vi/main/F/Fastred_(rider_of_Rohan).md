@@ -51,7 +51,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Fastred cưỡi ngựa cùng vua [Théoden](../T/Théoden.md) của mình đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), nơi ông ta bị giết. Tên của ông đã được ghi nhớ trong *[Song of the Mounds of Mundburg](../S/Song_of_the_Mounds_of_Mundburg.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Fastred cưỡi ngựa cùng vua [Théoden](../T/Théoden.md) của mình đến [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), nơi ông bị giết. Tên của ông đã được ghi nhớ trong *[Song of the Mounds of Mundburg](../S/Song_of_the_Mounds_of_Mundburg.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -71,11 +71,11 @@ Fastred cưỡi ngựa cùng vua [Théoden](../T/Théoden.md) của mình đến
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd></dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Các tay đua của Rohan</a></i>:</b>
 
 <dl><dd>Fastred là nhân vật chính trong cốt truyện <a href="../R/Rohan.md" title="Rohan">Rohan</a>. Là một chiến binh vĩ đại, Fastred cũng bướng bỉnh và liều lĩnh, luôn tìm cách trả thù <a href="../O/Orcs.md" title="Orcs">Orc</a> vì cái chết của cha mình. Khi <a href="../_/Éomer.md" title="Éomer">Éomer</a> ra lệnh cho tất cả mọi người từ bỏ <a href="../E/Eastemnet.md" title="Eastemnet">Eastemnet</a> và di chuyển qua sông <a href="../E/Entwash.md" title="Entwash">Entwash</a>, Fastred công khai bất chấp mệnh lệnh của mình, giữ gia đình ở lại thành phố và dẫn đầu các tay đua của mình chống lại các nhóm đột kích của <a href="../M/Mordor.md" title="Mordor">Mordor</a> Orc. Fastred lần tiếp theo người chơi gặp ở <a class="mw-redirect" href="../D/Druadan_Forest.md" title="Druadan Forest">Rừng Druadan</a> trong chuyến đi Rohirrim đến <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, và sau đó ông chiến đấu trong <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a>.</dd></dl>
 

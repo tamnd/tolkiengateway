@@ -40,7 +40,7 @@ infobox:
 
 *Runo MDCCCCXI*
 
-*Lý luận: Lemminkainen phải rời Pohja để đi tìm con rồng PufK, nhưng nó từ chối bắt ông ta. Tuy nhiên, Honka, người đi đường đã cõng ông ta trên lưng và đặt ông ta xuống bờ sông Is-Is. Ông ta tìm đường đến hội trường của Kol và vẫn còn ở đó.*
+*Lý luận: Lemminkainen phải rời Pohja để đi tìm con rồng PufK, nhưng nó từ chối bắt ông. Tuy nhiên, Honka, người đi đường đã cõng ông trên lưng và đặt ông xuống bờ sông Is-Is. Ông tìm đường đến hội trường của Kol và vẫn còn ở đó.*
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Ồ! Kaukomieli sống động</span><br/>

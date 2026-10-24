@@ -21,7 +21,7 @@ sort_keys:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự tham gia của [Aldarion](../T/Tar-Aldarion.md) và [Erendis](../E/Erendis.md).<sup id="cite_ref-Wife_1-0" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
-- Các thủy thủ của [Hiệp hội mạo hiểm](../G/Guild_of_Venturers.md) không hài lòng. Không có sự đồng hành của Aldarion cũng như sự giàu có và quyền lực của ông ta, họ thực hiện những chuyến đi ít hơn và ngắn hơn và hiếm khi đi xa hơn vùng đất [Gil-galad](../G/Gil-galad.md).<sup id="cite_ref-Wife_1-1" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
+- Các thủy thủ của [Hiệp hội mạo hiểm](../G/Guild_of_Venturers.md) không hài lòng. Không có sự đồng hành của Aldarion cũng như sự giàu có và quyền lực của ông, họ thực hiện những chuyến đi ít hơn và ngắn hơn và hiếm khi đi xa hơn vùng đất [Gil-galad](../G/Gil-galad.md).<sup id="cite_ref-Wife_1-1" class="reference"><a href="#cite_note-Wife-1">[1]</a></sup>
 
 <span></span>
 

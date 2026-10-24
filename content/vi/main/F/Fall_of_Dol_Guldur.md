@@ -44,7 +44,7 @@ infobox:
 
 Vào [tháng 3](../M/March.md) của [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), Sauron đã chỉ đạo quân đội của mình ở [Dol Guldur](../D/Dol_Guldur.md) tấn công [Tiên tộc của Lórien](../E/Elves_of_Lórien.md) và [Vương quốc Rừng](../W/Woodland_Realm.md) như một phần của chiến dịch phía bắc của ông trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md). Những đội quân này đã thực hiện ba cuộc tấn công khắp [Anduin](../A/Anduin.md) chống lại [Lórien](../L/Lórien.md). Mặc dù vùng biên giới của khu rừng đã bị tổn hại nặng nề, nhưng tất cả các cuộc tấn công này đều bị đẩy lùi vì lòng dũng cảm của [Galadhrim](../G/Galadhrim.md) là rất lớn và sức mạnh nằm trong rừng quá mạnh để có thể vượt qua trừ khi [Sauron](../S/Sauron.md) đích thân đến đó.<sup id="cite_ref-great_1-0" class="reference"><a href="#cite_note-great-1">[1]</a></sup>
 
-Sau khi [Chiếc nhẫn duy nhất](../O/One_Ring.md) bị phá hủy cùng ngày hôm đó, [Bóng Tối](../S/Shadow.md) của [Sauron](../S/Sauron.md) đã được dỡ bỏ khỏi trái tim kẻ thù của ông ta và nỗi sợ hãi, tuyệt vọng đổ xuống đầu những người hầu và đồng minh của ông ta.<sup id="cite_ref-great_1-1" class="reference"><a href="#cite_note-great-1">[1]</a></sup>
+Sau khi [Chiếc nhẫn duy nhất](../O/One_Ring.md) bị phá hủy cùng ngày hôm đó, [Bóng Tối](../S/Shadow.md) của [Sauron](../S/Sauron.md) đã được dỡ bỏ khỏi trái tim kẻ thù của ông và nỗi sợ hãi, tuyệt vọng đổ xuống đầu những người hầu và đồng minh của ông.<sup id="cite_ref-great_1-1" class="reference"><a href="#cite_note-great-1">[1]</a></sup>
 
 ### Trận chiến {#Battle}
 

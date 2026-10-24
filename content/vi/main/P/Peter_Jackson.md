@@ -84,7 +84,7 @@ infobox:
 - [2003](../_/2003.md): *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* - [Castamir của Umbar](../C/Castamir_of_Umbar.md)
 - [2003](../_/2003.md): *[Bogans](../B/Bogans.md)* - Chính mình
 - [2003](../_/2003.md): *[The Long and Short of It](../T/The_Long_and_Short_of_It.md)* - Tài xế xe buýt
-- [2003](../_/2003.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Quest_Fulfilled&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Quest Fulfilled (page does not exist)">The Lord of the Rings: Nhiệm vụ đã hoàn thành</a></i> - Chính ông ta
+- [2003](../_/2003.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Quest_Fulfilled&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Quest Fulfilled (page does not exist)">The Lord of the Rings: Nhiệm vụ đã hoàn thành</a></i> - Chính ông
 - [2003](../_/2003.md): *[Beyond the Movie - The Lord of the Rings: Return of the King](../B/Beyond_the_Movie%253A_The_Return_of_the_King.md)* - Chính mình
 - [2003](../_/2003.md): *[J.R.R. Tolkien: Origins of Middle-Earth](../J/J.R.R._Tolkien%253A_Origins_of_Middle-Earth.md)* - Chính mình
 - [2003](../_/2003.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=From_Book_to_Script:_Finding_the_Story&amp;action=edit&amp;redlink=1" title="From Book to Script: Finding the Story (page does not exist)">Từ Sách đến Kịch bản: Đi tìm Câu chuyện</a></i> - Chính Ngài
@@ -95,7 +95,7 @@ infobox:
 - [2012](../_/2012.md): *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* - Người Lùn chạy trốn khỏi Smaug
 - [2013](../_/2013.md): *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)* - Người đàn ông của Bree
 - [2014](../_/2014.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Middle-earth:_There_and_Back_Again&amp;action=edit&amp;redlink=1" title="Middle-earth: There and Back Again (page does not exist)">Trung Địa: Có và Trở Lại</a></i> - Chính Ngài
-- [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_Completing_Middle-earth:_A_Six-Part_Saga&amp;action=edit&amp;redlink=1" title="The Hobbit: Completing Middle-earth: A Six-Part Saga (page does not exist)">The Hobbit: Hoàn thành Trung Địa: Truyền thuyết sáu phần</a></i> - Chính ông ta
+- [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_Completing_Middle-earth:_A_Six-Part_Saga&amp;action=edit&amp;redlink=1" title="The Hobbit: Completing Middle-earth: A Six-Part Saga (page does not exist)">The Hobbit: Hoàn thành Trung Địa: Truyền thuyết sáu phần</a></i> - Chính ông
 - [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_Completing_Middle-earth:_A_Seventeen-Year_Journey&amp;action=edit&amp;redlink=1" title="The Hobbit: Completing Middle-earth: A Seventeen-Year Journey (page does not exist)">The Hobbit: Hoàn thành Trung Địa: Hành trình mười bảy năm</a></i> - Chính mình
 
 ## Giải thưởng {#Awards}

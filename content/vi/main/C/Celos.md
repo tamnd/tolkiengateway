@@ -41,7 +41,7 @@ Tên [Sindarin](../S/Sindarin.md) *Celos* bắt nguồn từ [gốc](../S/Sundoc
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sông Celos chia <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> thành Hạ <a href="../L/Lebennin.md" title="Lebennin">Lebennin</a> nằm ở vùng Trung <a href="../G/Gondor.md" title="Gondor">Gondor</a> và Thượng Lebennin ở vùng Đông Gondor. Sông <a href="../S/Sirith.md" title="Sirith">Sirith</a> nối với nó về phía đông, bên dưới <a href="../W/Warning_beacons_of_Gondor.md" title="Warning beacons of Gondor">đèn hiệu</a> của "Sirthanc". Ngôi làng "Erynos" nằm đối diện với cửa sông Sirith, ở bờ phía tây của điểm giao nhau. Phía nam nơi gặp nhau của các con sông, con sông tổng hợp chảy về phía nam qua thành phố <a href="../P/Pelargir.md" title="Pelargir">Pelargir</a> và đổ vào <a href="../A/Anduin.md" title="Anduin">Anduin</a>. Celos là lãnh địa của cô hầu sông vui vẻ "Silverfroth", một trong Năm chị em, mặc dù cô và các chị gái của mình được nhiều người coi là huyền thoại vào thời <a href="../W/War_of_the_Ring.md" title="War of the Ring">Cuộc chiến Nhẫn</a>.</dd></dl>
 

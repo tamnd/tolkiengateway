@@ -51,7 +51,7 @@ Tên *Finglas* rõ ràng được tạo bởi hai phần tử <i><a class="new" 
 
 Phần tử *lock* trong *Leaflock* ở đây có nghĩa là "tóc" vì nó là bản dịch từ tên [Sindarin](../S/Sindarin.md) của ông.<sup id="cite_ref-Nomen_3-0" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
 
-Cái tên rõ ràng ám chỉ việc ông ta "Bao phủ bởi mái tóc lá".<sup id="cite_ref-iii4_1-1" class="reference"><a href="#cite_note-iii4-1">[1]</a></sup>
+Cái tên rõ ràng ám chỉ việc ông "Bao phủ bởi mái tóc lá".<sup id="cite_ref-iii4_1-1" class="reference"><a href="#cite_note-iii4-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -76,7 +76,7 @@ Cái tên rõ ràng ám chỉ việc ông ta "Bao phủ bởi mái tóc lá".<su
 
 <dl><dd><a class="external text" href="http://lotrtcgwiki.com/wiki/lotr15030" rel="noreferrer noopener" target="_blank">Một thẻ</a> trong <a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a> của <a href="../D/Decipher.md" title="Decipher">Decipher</a> xác định một trong các Ent tại <a href="../I/Isengard.md" title="Isengard">Isengard</a> là Leaflock.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Trực tuyến: Các tay đua của Rohan</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">The Lord of the Rings Online: Các tay đua của Rohan</a></i>:</b>
 
 <dl><dd>Leaflock được tìm thấy ở phía Tây Bắc của Rừng Fangorn, gần ranh giới của Rohan.</dd></dl>
 

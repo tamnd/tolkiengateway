@@ -46,4 +46,4 @@ infobox:
 
 Con Người trong số [Rohan](../R/Rohan.md) cố gắng trấn tĩnh một con ngựa đang hoảng loạn trong chuồng. [Aragorn](../A/Aragorn.md) nhìn thấy điều này và được thông báo rằng con ngựa bị điên một nửa. Tuy nhiên, ông từ từ tiếp cận nó và làm nó bình tĩnh lại.
 
-[Éowyn](../_/Éowyn.md) cho ông ta biết tên con ngựa là [Brego](<Brego_(horse).md>) và ông ta thuộc về [Théodred](../T/Théodred.md). Cô nói với anh rằng cô rất ngạc nhiên khi tìm thấy *magic of the [Elves](../E/Elves.md)* trong <a class="mw-redirect mw-disambig" href="../R/Ranger.md" title="Ranger">Ranger</a>. Đáp lại, anh nói với cô rằng anh lớn lên ở [Rivendell](../R/Rivendell.md), và Brego đã chứng kiến ​​đủ chiến tranh và nên được thả tự do.
+[Éowyn](../_/Éowyn.md) cho ông biết tên con ngựa là [Brego](<Brego_(horse).md>) và ông thuộc về [Théodred](../T/Théodred.md). Cô nói với anh rằng cô rất ngạc nhiên khi tìm thấy *magic of the [Elves](../E/Elves.md)* trong <a class="mw-redirect mw-disambig" href="../R/Ranger.md" title="Ranger">Ranger</a>. Đáp lại, anh nói với cô rằng anh lớn lên ở [Rivendell](../R/Rivendell.md), và Brego đã chứng kiến ​​đủ chiến tranh và nên được thả tự do.

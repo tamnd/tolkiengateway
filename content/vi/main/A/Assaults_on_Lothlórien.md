@@ -35,7 +35,7 @@ Nhưng sự xuất hiện của [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) và
 
 ## Tấn công {#Assaults}
 
-Vào [11 tháng 3](../_/11_March.md), các lực lượng từ [Dol Guldur](../D/Dol_Guldur.md) tràn vào rừng trong một cuộc tấn công toàn diện và bị chặn lại bởi sức mạnh của Tiên rừng.<sup id="cite_ref-great_1-1" class="reference"><a href="#cite_note-great-1">[1]</a></sup> Điều này đã được chú ý bởi [Frodo Baggins](../F/Frodo_Baggins.md), người đã nhìn thấy khói bốc lên từ biên giới của Lórien vì ông ta đang đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) tại [Ghế quan sát](../S/Seat_of_Seeing.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào [11 tháng 3](../_/11_March.md), các lực lượng từ [Dol Guldur](../D/Dol_Guldur.md) tràn vào rừng trong một cuộc tấn công toàn diện và bị chặn lại bởi sức mạnh của Tiên rừng.<sup id="cite_ref-great_1-1" class="reference"><a href="#cite_note-great-1">[1]</a></sup> Điều này đã được chú ý bởi [Frodo Baggins](../F/Frodo_Baggins.md), người đã nhìn thấy khói bốc lên từ biên giới của Lórien vì ông đang đeo [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) tại [Ghế quan sát](../S/Seat_of_Seeing.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 Vào [15 tháng 3](../_/15_March.md), đã xảy ra [trận đánh lớn bên ngoài Minas Tirith](../B/Battle_of_the_Pelennor_Fields.md). Cùng lúc đó lực lượng từ Dol Guldur [xâm lược Mirkwood](../B/Battle_under_the_trees.md) và một lần nữa tấn công Lothlórien.<sup id="cite_ref-great_1-2" class="reference"><a href="#cite_note-great-1">[1]</a></sup>
 

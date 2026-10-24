@@ -20,7 +20,7 @@ langlinks:
 
 **Vương miện của Nargothrond** là một chiếc vương miện bạc được [Finrod](../F/Finrod.md) và sau này là [Orodreth](../O/Orodreth.md) đội trong vai trò là [vua](../K/King_of_Nargothrond.md) của [Nargothrond](../N/Nargothrond.md).
 
-Khi người của ông ta nản lòng trước những lời nói của [Celegorm](Celegorm.md) và [Curufin](Curufin.md), Finrod đã tháo vương miện và ném nó xuống đất. Nó đã được [Edrahil](../E/Edrahil.md) nâng lên và theo mệnh lệnh của ông Finrod đã ban tặng nó cho Orodreth.<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+Khi người của ông nản lòng trước những lời nói của [Celegorm](Celegorm.md) và [Curufin](Curufin.md), Finrod đã tháo vương miện và ném nó xuống đất. Nó đã được [Edrahil](../E/Edrahil.md) nâng lên và theo mệnh lệnh của ông Finrod đã ban tặng nó cho Orodreth.<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
 <span></span>
 

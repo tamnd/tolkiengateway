@@ -61,7 +61,7 @@ Ngoài Urd là một số vùng đất ven biển, nhiều vùng trong số đó
 
 ### Uab {#Uab}
 
-**Uab** là vùng ven biển hầu như không có người ở phía bắc Angclax. Chỉ có một số thợ săn Umli cư trú ở đó.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> [Balrog](../B/Balrog.md) [Múar](../M/Múar.md) đã bị mắc kẹt ở đây trong nhiều thế kỷ sau [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), cho đến khi ông ta được giải thoát vào khoảng [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Age_1100&amp;action=edit&amp;redlink=1" title="Second Age 1100 (page does not exist)">1100</a>. Ông đã chinh phục phần lớn khu vực cho đến khi bị Người Lùn đánh bại.<sup id="cite_ref-muar_12-0" class="reference"><a href="#cite_note-muar-12">[12]</a></sup>
+**Uab** là vùng ven biển hầu như không có người ở phía bắc Angclax. Chỉ có một số thợ săn Umli cư trú ở đó.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> [Balrog](../B/Balrog.md) [Múar](../M/Múar.md) đã bị mắc kẹt ở đây trong nhiều thế kỷ sau [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), cho đến khi ông được giải thoát vào khoảng [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Age_1100&amp;action=edit&amp;redlink=1" title="Second Age 1100 (page does not exist)">1100</a>. Ông đã chinh phục phần lớn khu vực cho đến khi bị Người Lùn đánh bại.<sup id="cite_ref-muar_12-0" class="reference"><a href="#cite_note-muar-12">[12]</a></sup>
 
 ### Uax {#Uax}
 

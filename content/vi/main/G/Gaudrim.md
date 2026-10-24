@@ -35,9 +35,9 @@ infobox:
 
 Trong khi phục vụ [Bóng tối Pháp sư](../D/Dark_Wizard.md) cư trú tại [Caras Gaer](../C/Caras_Gaer.md), Gaudrim, dẫn đầu bởi [Brânk](../B/Brânk.md), đã truy đuổi và cố gắng bắt giữ [Kẻ lạ mặt](Gandalf.md) cũng như [Harfoots](../H/Harfoots.md) [Nori Brandyfoot](../E/Elanor_Brandyfoot.md) và [Poppy Proudfellow](../P/Poppy_Proudfellow.md). Họ đã không thành công sau khi [Người lạ](../T/The_Stranger.md) tạo ra một cơn bão cát một cách kỳ diệu khiến Gaudrim phải bỏ chạy.
 
-Các trinh sát của Gaudrim sau đó đến ngôi làng [Stoor](../S/Stoors.md) và tìm thấy cả Nori và Poppy đang ở đó. Brânk đã bắt được hai Harfoots và đồng thời yêu cầu trả tiền cho việc bắt giữ họ, đồng thời đe dọa tính mạng của Nori trong khi Bóng tối Pháp sư đang cố gắng thuyết phục Người lạ tham gia cùng mình. Bóng tối Pháp sư sử dụng phép thuật của mình để đẩy Brânk vào bức tường đá, nơi một cành cây lởm chởm cắm vào sau đầu Gaudrim, dường như muốn giết ông ta.
+Các trinh sát của Gaudrim sau đó đến ngôi làng [Stoor](../S/Stoors.md) và tìm thấy cả Nori và Poppy đang ở đó. Brânk đã bắt được hai Harfoots và đồng thời yêu cầu trả tiền cho việc bắt giữ họ, đồng thời đe dọa tính mạng của Nori trong khi Bóng tối Pháp sư đang cố gắng thuyết phục Người lạ tham gia cùng mình. Bóng tối Pháp sư sử dụng phép thuật của mình để đẩy Brânk vào bức tường đá, nơi một cành cây lởm chởm cắm vào sau đầu Gaudrim, dường như muốn giết ông.
 
-Cái chết rõ ràng của ông ta cho thấy khả năng bạo lực của Bóng tối Pháp sư và khiến Người lạ từ chối gia nhập Liên minh Bóng tối Pháp sư. Số phận của những tay đua Gaudrim còn lại vẫn chưa được biết.
+Cái chết rõ ràng của ông cho thấy khả năng bạo lực của Bóng tối Pháp sư và khiến Người lạ từ chối gia nhập Liên minh Bóng tối Pháp sư. Số phận của những tay đua Gaudrim còn lại vẫn chưa được biết.
 
 ## Đặc điểm {#Characteristics}
 

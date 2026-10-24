@@ -30,7 +30,7 @@ Những ngọn đồi ** Scary** là một dãy đồi nhỏ ở phần phía b�
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Những ngọn đồi nằm xung quanh <a href="../S/Scary.md" title="Scary">Scary</a> và mỏ đá của nó.</dd></dl>
 

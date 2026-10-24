@@ -39,7 +39,7 @@ Trong [Kỷ Đệ Tam](../T/Third_Age.md), [Hobbit](../H/Hobbits.md) của [Shir
 
 Vào năm [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Gandalf](../G/Gandalf.md) đã nhắc đến những chiếc nhẫn này với [Frodo](../F/Frodo_Baggins.md) khi kể lại nguồn gốc của Những Chiếc Nhẫn Quyền Năng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Giả sử, những chiếc nhẫn nhỏ hơn cũng được sứ giả của Sauron nhắc đến, người đã yêu cầu [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) tìm và quay trở lại Sauron "một chiếc nhẫn nhỏ, chiếc nhẫn nhỏ nhất", tức là chiếc nhẫn của Bilbo Baggins.<sup id="cite_ref-Rivendell_2-1" class="reference"><a href="#cite_note-Rivendell-2">[2]</a></sup>
 
-Trong cuộc trò chuyện với Gandalf ở [Orthanc](../O/Orthanc.md), [Saruman](../S/Saruman.md) đã đeo một chiếc nhẫn trên ngón tay và tự nhận mình là '[Người chế tạo nhẫn](../R/Ring-maker.md)'.<sup id="cite_ref-Rivendell_2-2" class="reference"><a href="#cite_note-Rivendell-2">[2]</a></sup> Có thể ông ta thực sự đã rèn một trong những chiếc nhẫn kém hơn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong cuộc trò chuyện với Gandalf ở [Orthanc](../O/Orthanc.md), [Saruman](../S/Saruman.md) đã đeo một chiếc nhẫn trên ngón tay và tự nhận mình là '[Người chế tạo nhẫn](../R/Ring-maker.md)'.<sup id="cite_ref-Rivendell_2-2" class="reference"><a href="#cite_note-Rivendell-2">[2]</a></sup> Có thể ông thực sự đã rèn một trong những chiếc nhẫn kém hơn.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -47,7 +47,7 @@ Trong cuộc trò chuyện với Gandalf ở [Orthanc](../O/Orthanc.md), [Saruma
 
 <dl><dd>Một số thẻ mô tả và mô tả những chiếc nhẫn nhỏ hơn đã được phát hành, ví dụ như "The Oracle's Ring", "Pháp sư's Ring" và "Magic Rings" với các sức mạnh khác nhau (truyền thuyết, khả năng tàng hình, lòng dũng cảm, v.v.).</dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><a class="external text" href="http://lotro-wiki.com/index.php/Narchuil" rel="noreferrer noopener" target="_blank">Narchuil</a> là một trong những chiếc nhẫn nhỏ hơn được rèn bởi thợ rèn yêu tinh. Nó được mặc bởi <a href="../A/Amarthiel.md" title="Amarthiel">Amarthiel</a>.</dd></dl>
 

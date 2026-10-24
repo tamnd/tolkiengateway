@@ -37,7 +37,7 @@ Tolkien cho rằng một phần của niềm đam mê với *The Lord of the Rin
 
 Brogan thích *[goblins](../O/Orcs.md#Orcs_and_Goblins)* hơn *[orcs](../O/Orcs.md)*, điều mà Tolkien cho là một câu hỏi lớn. Cá nhân ông thích Orc hơn. Tolkien vô cùng hối hận khi sử dụng "Tiên tộc" mặc dù ý nghĩa ban đầu của nó là phù hợp. Từ này đã bị Shakespeare hạ thấp một cách thảm hại, một phần và không thể tha thứ được, với những âm bội đáng tiếc. Tolkien hy vọng trong Phụ lục của Tập III<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông có thể làm rõ các thuật ngữ từ một "thời đại bị lãng quên" không có từ tương đương hiện đại chính xác.
 
-Tolkien rất biết ơn Brogan vì dường như chỉ có anh và *Manchester Guardian* mới chú ý đến *verses* trong cuốn sách. Ông ta nói với Brogan rằng [Frodo](../F/Frodo_Baggins.md) không phải là một [Bilbo](../B/Bilbo_Baggins.md) khác và Frodo đã bị tan vỡ bởi nỗi sợ hãi và kinh hoàng. Cả ông và tất cả những người hobbit khác đều không xuất hiện theo kiểu Shire thuần túy.
+Tolkien rất biết ơn Brogan vì dường như chỉ có anh và *Manchester Guardian* mới chú ý đến *verses* trong cuốn sách. Ông nói với Brogan rằng [Frodo](../F/Frodo_Baggins.md) không phải là một [Bilbo](../B/Bilbo_Baggins.md) khác và Frodo đã bị tan vỡ bởi nỗi sợ hãi và kinh hoàng. Cả ông và tất cả những người hobbit khác đều không xuất hiện theo kiểu Shire thuần túy.
 
 Trung Địa chỉ là thế giới cổ xưa của đàn ông. Nó vẫn như vậy kể từ khi bắt đầu Kỷ Đệ Tam, tròn trịa và không thể thoát khỏi, dẫn đến lịch sử thông thường. Nếu bạn đi về phía tây, bạn sẽ chỉ đi vòng quanh địa cầu vì thời gian "thần thoại" của [Valinor](../V/Valinor.md), [Eressëa](../E/Eressëa.md) và [Númenor](../N/Númenor.md) đã biến mất.
 

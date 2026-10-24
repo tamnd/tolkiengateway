@@ -27,7 +27,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Orontor là bạn tốt của [Elendil](../E/Elendil.md), nhưng vào một thời điểm nào đó, ông đã rời đi [Númenor](../N/Númenor.md). Con Người suy đoán rằng ông ta đã làm mất lòng nhà vua và đã bỏ trốn trong một chuyến đi dài. Tuy nhiên, sự thật là ông ta đang thực hiện một nhiệm vụ bí ẩn và có thể sẽ không bao giờ được nhìn thấy nữa hoặc được nhìn thấy lại quá muộn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta đã bỏ lại con gái mình, Fíriel, trong nhà của Elendil, nơi cô bé hát một [bài hát buồn](../F/Fíriel's_song.md) từ cửa sổ trên cao.
+Orontor là bạn tốt của [Elendil](../E/Elendil.md), nhưng vào một thời điểm nào đó, ông đã rời đi [Númenor](../N/Númenor.md). Con Người suy đoán rằng ông đã làm mất lòng nhà vua và đã bỏ trốn trong một chuyến đi dài. Tuy nhiên, sự thật là ông đang thực hiện một nhiệm vụ bí ẩn và có thể sẽ không bao giờ được nhìn thấy nữa hoặc được nhìn thấy lại quá muộn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông đã bỏ lại con gái mình, Fíriel, trong nhà của Elendil, nơi cô bé hát một [bài hát buồn](../F/Fíriel's_song.md) từ cửa sổ trên cao.
 
 ## Từ nguyên {#Etymology}
 
@@ -35,7 +35,7 @@ Orontor là bạn tốt của [Elendil](../E/Elendil.md), nhưng vào một th�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) chỉ ra rằng sứ mệnh của Orontor, "từ đó ông ta có thể không bao giờ quay trở lại", có thể là tiền lệ của chuyến hành trình [Amandil](../A/Amandil.md) đến Phương Tây trong phiên bản cuối cùng của *[Akallabêth](../A/Akallabêth.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) chỉ ra rằng sứ mệnh của Orontor, "từ đó ông có thể không bao giờ quay trở lại", có thể là tiền lệ của chuyến hành trình [Amandil](../A/Amandil.md) đến Phương Tây trong phiên bản cuối cùng của *[Akallabêth](../A/Akallabêth.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

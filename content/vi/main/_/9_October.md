@@ -82,5 +82,5 @@ Sự kiện xảy ra vào ngày 9 tháng 10
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
     - [Glorfindel](../G/Glorfindel.md) và High Elves khác rời khỏi [Rivendell](../R/Rivendell.md) để tìm kiếm [Người Mang Nhẫn](../F/Frodo_Baggins.md).
-    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông ta vào [Weathertop](../W/Weathertop.md).
+    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông vào [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

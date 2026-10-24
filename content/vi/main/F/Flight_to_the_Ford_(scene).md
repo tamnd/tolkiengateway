@@ -37,7 +37,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Vì sức khỏe của [Frodo](Frodo_Baggins.md) suy giảm do vết thương [Morgul](../M/Morgul.md) của ông ta, [Strider](../A/Aragorn.md) hướng dẫn các hobbit tìm kiếm loài cây có tên [Kingsfoil](../A/Athelas.md) để ông ta có thể ngăn chặn dòng chất độc. Strider tự tìm kiếm một lúc trước khi bị một lưỡi dao kề vào cổ tấn công. Khi nhìn lên, người cầm thanh kiếm được tiết lộ là [Arwen](../A/Arwen.md), con gái của [Elrond](../E/Elrond.md), người đang tìm kiếm cả nhóm. Arwen chuyển Frodo sang ngựa của mình và bay theo âm thanh của [Nazgûl](../N/Nazgûl.md).
+Vì sức khỏe của [Frodo](Frodo_Baggins.md) suy giảm do vết thương [Morgul](../M/Morgul.md) của ông, [Strider](../A/Aragorn.md) hướng dẫn các hobbit tìm kiếm loài cây có tên [Kingsfoil](../A/Athelas.md) để ông có thể ngăn chặn dòng chất độc. Strider tự tìm kiếm một lúc trước khi bị một lưỡi dao kề vào cổ tấn công. Khi nhìn lên, người cầm thanh kiếm được tiết lộ là [Arwen](../A/Arwen.md), con gái của [Elrond](../E/Elrond.md), người đang tìm kiếm cả nhóm. Arwen chuyển Frodo sang ngựa của mình và bay theo âm thanh của [Nazgûl](../N/Nazgûl.md).
 
 Nazgûl đuổi theo qua cánh đồng, tụt lại phía sau Arwen. Arwen lọt vào [Ford of Bruinen](Ford_of_Bruinen.md). Nazgûl được kiểm tra bởi dòng sông đang chảy khi con ngựa của cô phi nước đại qua. Arwen thách thức các Kỵ sĩ giành lấy Frodo, nhưng họ chỉ bị choáng váng khi người cầm lái chính bắt đầu băng qua, theo sau là những người khác. Arwen nhanh chóng niệm một câu thần chú khiến dòng sông rung chuyển. Một trận lụt có hình dạng giống như những con ngựa làm từ nước nhanh chóng tràn xuống dòng suối và tấn công các Kỵ sĩ, cuốn trôi họ. Frodo dường như không chịu nổi vết thương và bất tỉnh.
 
@@ -45,5 +45,5 @@ Nazgûl đuổi theo qua cánh đồng, tụt lại phía sau Arwen. Arwen lọt
 
 - Arwen không xuất hiện ở cảnh này trong sách. Sự tham gia của bà đã được giới thiệu trong bộ phim.
 - [Glorfindel](../G/Glorfindel.md) không xuất hiện trong phim vì vai diễn của anh được thay thế bởi Arwen.
-- Frodo tự mình đến được chỗ cạn trong cuốn sách và đủ ý thức để thách thức ý chí của Chín Kỵ Sĩ, không giống như trạng thái suy yếu mà ông ta đang ở trên màn ảnh.
+- Frodo tự mình đến được chỗ cạn trong cuốn sách và đủ ý thức để thách thức ý chí của Chín Kỵ Sĩ, không giống như trạng thái suy yếu mà ông đang ở trên màn ảnh.
 - Elrond và [Gandalf](../G/Gandalf.md) tạo ra cơn lũ cuốn theo Nazgûl chứ không phải Arwen.

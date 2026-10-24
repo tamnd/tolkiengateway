@@ -42,9 +42,9 @@ Một Noldo khác có màu tóc đáng chú ý là [Glorfindel](../G/Glorfindel.
 
 ## Màu mắt {#Eye_colour}
 
-Khi Tolkien mô tả mắt Tiên, chúng có xu hướng màu xám. Điều này chắc chắn đúng với Lúthien và các hậu duệ của cô, bao gồm [Elrond](Elrond.md) và các con của ông ta ([Arwen](../A/Arwen.md), [Elladan](Elladan.md) và [Elrohir](Elrohir.md)).<sup id="cite_ref-Meetings_14-1" class="reference"><a href="#cite_note-Meetings-14">[14]</a></sup><sup id="cite_ref-Beren_17-0" class="reference"><a href="#cite_note-Beren-17">[17]</a></sup> [Voronwë](../V/Voronwë.md), người đã hướng dẫn người đàn ông [Tuor](../T/Tuor.md) đến Gondolin, cũng có đôi mắt màu xám.
+Khi Tolkien mô tả mắt Tiên, chúng có xu hướng màu xám. Điều này chắc chắn đúng với Lúthien và các hậu duệ của cô, bao gồm [Elrond](Elrond.md) và các con của ông ([Arwen](../A/Arwen.md), [Elladan](Elladan.md) và [Elrohir](Elrohir.md)).<sup id="cite_ref-Meetings_14-1" class="reference"><a href="#cite_note-Meetings-14">[14]</a></sup><sup id="cite_ref-Beren_17-0" class="reference"><a href="#cite_note-Beren-17">[17]</a></sup> [Voronwë](../V/Voronwë.md), người đã hướng dẫn người đàn ông [Tuor](../T/Tuor.md) đến Gondolin, cũng có đôi mắt màu xám.
 
-Mặc dù ông ta mang nửa dòng máuNoldorin nhưng [Maeglin](../M/Maeglin.md) được cho là có đôi mắt đen (có thể là từ cha anh [Eöl](Eöl.md), người không thuộc Noldor), trong khi [Olwë](../O/Olwë.md) (anh trai của cha Lúthien [Thingol](../T/Thingol.md) và một vị vua Telerin) có đôi mắt xanh. Màu mắt của hầu hết Tiên tộc khác không được đề cập và do đó sẽ khó khái quát hóa.
+Mặc dù ông mang nửa dòng máuNoldorin nhưng [Maeglin](../M/Maeglin.md) được cho là có đôi mắt đen (có thể là từ cha anh [Eöl](Eöl.md), người không thuộc Noldor), trong khi [Olwë](../O/Olwë.md) (anh trai của cha Lúthien [Thingol](../T/Thingol.md) và một vị vua Telerin) có đôi mắt xanh. Màu mắt của hầu hết Tiên tộc khác không được đề cập và do đó sẽ khó khái quát hóa.
 
 ## Tai nhọn {#Pointed_ears}
 

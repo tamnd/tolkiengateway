@@ -39,7 +39,7 @@ Trong [T.A.](../T/Third_Age.md) [1977](../T/Third_Age_1977.md), [Frumgar](../F/F
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Langwell rơi từ <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a> xuống hồ "Dvergvát" rộng lớn tạo thành hàng rào phòng thủ tự nhiên bên ngoài cổng <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a>. Bên ngoài hồ, Langwell và sông Wyrmsgráf gần đó đều đổ từ độ cao lớn xuống hai thác nước ngoạn mục được gọi chung là "Twainmantle". Cùng với thác nước "Reikfoss of <a href="../G/Greylin.md" title="Greylin">Greylin</a>" gần đó, chúng được gọi là "Ba chị em" và tạo ra một đám mây sương mù lớn lên không trung, đặt tên cho khu vực xung quanh là: "Misthallow".</dd></dl>
 

@@ -4492,7 +4492,7 @@ infobox:
 
 *Middle-earth: The Wizards* là bộ duy nhất được in bằng tiếng Hà Lan mà nhà xuất bản [999 Games](../_/999_Games.md) đã sử dụng tựa tiếng Hà Lan là [The Lord of the Rings](../T/The_Lord_of_the_Rings.md)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 4]</a></sup>mà không tham chiếu đến *The Wizards*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[2]</a></sup>
 
-Ngoài một cái tên khác, nó còn có bao bì khác có hình tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md), mà nhà xuất bản chưa bao giờ cấp phép hợp lệ từ ông ta. Tác phẩm nghệ thuật này cũng được sử dụng làm thẻ khuyến mại và ba bìa để đựng thẻ mà không được phép hoặc trả thù lao.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[3]</a></sup>
+Ngoài một cái tên khác, nó còn có bao bì khác có hình tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md), mà nhà xuất bản chưa bao giờ cấp phép hợp lệ từ ông. Tác phẩm nghệ thuật này cũng được sử dụng làm thẻ khuyến mại và ba bìa để đựng thẻ mà không được phép hoặc trả thù lao.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[3]</a></sup>
 
 ## Lễ tân {#Reception}
 

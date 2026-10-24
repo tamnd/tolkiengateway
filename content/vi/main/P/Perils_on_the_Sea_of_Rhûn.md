@@ -47,6 +47,6 @@ Con tàu nổi tiếng *Ocean Noise* đang bắt đầu chuyến chạy cuối c
 
 Một kẻ bắt cóc bắt cóc Công chúa Herufara và đi đến một tòa tháp đổ nát phía trên vách đá của một bờ biển nguy hiểm. *Ocean Noise* truy đuổi những kẻ phản diện, nhưng chỉ có thể thả neo trong một ngày. Khi thủy triều tiếp theo, thuyền trưởng phải từ bỏ cuộc rượt đuổi và tiếp tục hành trình. Bạn có đủ táo bạo không *To Rescue A Princess*?
 
-Một Court Adept bị dày vò bởi những ảo ảnh đen tối về việc làm xấu xa, và rời khỏi cung điện để tìm kiếm ý nghĩa của chúng - nhưng ông ta bị phát hiện bị sát hại dã man! Chủ nhân Vương quốc gửi các nhà thám hiểm và một công chúa trên *Ocean Noise* để tham khảo ý kiến ​​​​của các pháp sư tại một tòa tháp cổ. Trên hành trình dài lạnh giá đến một bờ biển hoang vắng này, bạn có thể khám phá được bí mật của *The Watch Tower Massacre* không?
+Một Court Adept bị dày vò bởi những ảo ảnh đen tối về việc làm xấu xa, và rời khỏi cung điện để tìm kiếm ý nghĩa của chúng - nhưng ông bị phát hiện bị sát hại dã man! Chủ nhân Vương quốc gửi các nhà thám hiểm và một công chúa trên *Ocean Noise* để tham khảo ý kiến ​​​​của các pháp sư tại một tòa tháp cổ. Trên hành trình dài lạnh giá đến một bờ biển hoang vắng này, bạn có thể khám phá được bí mật của *The Watch Tower Massacre* không?
 
 Đối mặt với những sát thủ, Giáo phái Đêm dài và Sauron tay sai khi bạn dũng cảm đối mặt với *Perils on the Sea of Rhûn* trong 3 cuộc phiêu lưu thú vị này!

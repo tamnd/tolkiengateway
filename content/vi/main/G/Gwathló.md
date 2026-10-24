@@ -120,7 +120,7 @@ Tên gọi của nó trong tiếng [Adûnaic](../A/Adûnaic.md) là *Agathurush*
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Gwathló.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/35/The_Lord_of_the_Rings_Online_-_Gwathl%C3%B3.jpg/250px-The_Lord_of_the_Rings_Online_-_Gwathl%C3%B3.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/35/The_Lord_of_the_Rings_Online_-_Gwathl%C3%B3.jpg/375px-The_Lord_of_the_Rings_Online_-_Gwathl%C3%B3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/35/The_Lord_of_the_Rings_Online_-_Gwathl%C3%B3.jpg/500px-The_Lord_of_the_Rings_Online_-_Gwathl%C3%B3.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Gwathló in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gwathló đóng vai trò là ranh giới giữa các khu vực trong trò chơi của <a href="../S/Swanfleet.md" title="Swanfleet">Swanfleet</a> và <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a>. Nhiều tàn tích <a href="../A/Arnor.md" title="Arnor">Arnorian</a> nằm rải rác trên bờ biển phía bắc <a href="../T/Tharbad.md" title="Tharbad">Tharbad</a>.</dd></dl>
 

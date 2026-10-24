@@ -46,7 +46,7 @@ infobox:
 
 Baranor là hậu duệ của một gia đình quý tộc từ [Númenor](../N/Númenor.md), những người trung thành với [Elendil](../E/Elendil.md). Khi [Valar](../V/Valar.md) tiêu diệt Númenor, họ phải sống lưu vong ở [Trung Địa](../M/Middle-earth.md). Họ sống ở [Arnor](../A/Arnor.md), nơi họ phục vụ [Các vị vua Arnor](../K/Kings_of_Arnor.md) và sau sự sụp đổ của Arnor, [Thủ lĩnh của Dúnedain](../C/Chieftains_of_the_Dúnedain.md).
 
-Baranor sống ở [Angle](../A/Angle.md), nơi ông phục vụ với tư cách là [Ranger](../R/Rangers_of_the_North.md) và có một con trai, Eradan. Vào thời điểm [Aragorn](../A/Aragorn.md) ông ta bị lạc khi đang tuần tra [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Sau đó con trai ông được anh trai Dunhir nhận nuôi.<sup id="cite_ref-Backstory_Eradan_1-1" class="reference"><a href="#cite_note-Backstory_Eradan-1">[1]</a></sup>
+Baranor sống ở [Angle](../A/Angle.md), nơi ông phục vụ với tư cách là [Ranger](../R/Rangers_of_the_North.md) và có một con trai, Eradan. Vào thời điểm [Aragorn](../A/Aragorn.md) ông bị lạc khi đang tuần tra [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Sau đó con trai ông được anh trai Dunhir nhận nuôi.<sup id="cite_ref-Backstory_Eradan_1-1" class="reference"><a href="#cite_note-Backstory_Eradan-1">[1]</a></sup>
 
 ## Cây phả hệ {#Family_Tree}
 

@@ -59,7 +59,7 @@ infobox:
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Sói, cùng với <a href="../F/Fang_(dog).md" title="Fang (dog)">Fang</a> và <a href="../G/Grip.md" title="Grip">Grip</a>, được tìm thấy bên cạnh <a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> trong <a href="../B/Bamfurlong.md" title="Bamfurlong">Bamfurlong</a>. Những chú chó có thể được tương tác với nhau trong trò chơi "Chicken Play" và cũng là một phần của trò chơi nhỏ "Maggot's Mushroom Hunt" của lễ hội.</dd></dl>
 

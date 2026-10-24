@@ -333,7 +333,7 @@ Không có nơi nào khác trong toàn bộ truyền thuyết sử từng xem C�
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Círdan.jpg.md" title="Círdan in The Lord of the Rings Online"><img alt="Círdan in The Lord of the Rings Online" src="https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg/78px-The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg" decoding="async" loading="lazy" width="78" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg/117px-The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg/156px-The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg 2x" data-file-width="520" data-file-height="1000"/></a></span></div>
 			<div class="gallerytext">
-<p>Círdan  in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
+<p>Círdan in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
 </p>
 			</div>
 		</li>
@@ -354,7 +354,7 @@ Không có nơi nào khác trong toàn bộ truyền thuyết sử từng xem C�
 
 <dl><dd>Círdan xuất hiện thoáng qua khi Frodo và Bilbo thực hiện chuyến đi đến vùng đất của Phương Tây.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Círdan appears in several flashbacks depicting the <a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">War of the Last Alliance</a>.</dd></dl>
 

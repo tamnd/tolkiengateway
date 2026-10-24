@@ -22,9 +22,9 @@ Phụ đề (đề cập đến những cơn ác mộng của ông vào tháng 3
 
 ## Tóm tắt {#Summary}
 
-Một người lang thang đi dọc bờ biển và bắt gặp một chiếc vỏ giống như chiếc chuông màu trắng, trong đó ông ta nghe thấy âm thanh của những bến cảng và biển cả xa xôi. Đột nhiên một chiếc thuyền xuất hiện và anh được đưa đến một vùng đất xa lạ ngoài vực sâu, lấp lánh, đẹp đẽ và huyền bí. Ở đó, anh nghe thấy tiếng nhạc xa xa, giọng nói và tiếng bước chân, nhưng khi anh tìm kiếm nguồn gốc của âm thanh, những cư dân bí ẩn của vùng đất đã chạy trốn khỏi anh.
+Một người lang thang đi dọc bờ biển và bắt gặp một chiếc vỏ giống như chiếc chuông màu trắng, trong đó ông nghe thấy âm thanh của những bến cảng và biển cả xa xôi. Đột nhiên một chiếc thuyền xuất hiện và anh được đưa đến một vùng đất xa lạ ngoài vực sâu, lấp lánh, đẹp đẽ và huyền bí. Ở đó, anh nghe thấy tiếng nhạc xa xa, giọng nói và tiếng bước chân, nhưng khi anh tìm kiếm nguồn gốc của âm thanh, những cư dân bí ẩn của vùng đất đã chạy trốn khỏi anh.
 
-Leo lên một gò đất, ông ta tự phụ tự xưng là vua của vùng đất và thách thức người dân của nó tiến ra, nhưng rồi bóng tối bao trùm lấy ông ta và ông ta ngã xuống đất, bị mù và uốn cong. Sau đó, ông lang thang trong rừng già đi. Sau một năm một ngày, suy sụp và mệt mỏi, anh tìm ra biển và lên một con tàu đưa anh trở về quê hương.
+Leo lên một gò đất, ông tự phụ tự xưng là vua của vùng đất và thách thức người dân của nó tiến ra, nhưng rồi bóng tối bao trùm lấy ông và ông ngã xuống đất, bị mù và uốn cong. Sau đó, ông lang thang trong rừng già đi. Sau một năm một ngày, suy sụp và mệt mỏi, anh tìm ra biển và lên một con tàu đưa anh trở về quê hương.
 
 Khi anh về đến nhà, chiếc chuông biển im lặng và anh xa lánh thế giới của chính mình, bị những người anh từng biết hiểu lầm và bỏ rơi.
 

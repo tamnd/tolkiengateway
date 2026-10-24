@@ -112,7 +112,7 @@ Vì không có ấn bản nào của cuốn sách bao gồm thông tin về tài
 
 - **[Dolmed](../D/Dolmed.md)**: Foster gợi ý rằng ngọn núi có lẽ đã bị phá hủy vào cuối [Kỷ Đệ Nhất](../F/First_Age.md) khi [Vịnh Lune](../G/Gulf_of_Lune.md) xuyên thủng [Dãy Núi Xanh](../B/Blue_Mountains.md); mặc dù điều này có thể đúng nhưng văn bản lại không đề cập gì đến nó.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
-- **[Gollum](../G/Gollum.md)**: Foster đề cập rằng [Déagol](../D/Déagol.md) là anh họ của [Sméagol](../S/Sméagol.md) trong khi điều này không được đề cập trong văn bản. Tolkien chỉ đi xa hơn khi cho rằng ông ta "rõ ràng là một người họ hàng (chắc chắn là tất cả các thành viên của cộng đồng nhỏ)"<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+- **[Gollum](../G/Gollum.md)**: Foster đề cập rằng [Déagol](../D/Déagol.md) là anh họ của [Sméagol](../S/Sméagol.md) trong khi điều này không được đề cập trong văn bản. Tolkien chỉ đi xa hơn khi cho rằng ông "rõ ràng là một người họ hàng (chắc chắn là tất cả các thành viên của cộng đồng nhỏ)"<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 - **[Gwaihir](../G/Gwaihir.md)**: Foster tái tạo lại quan niệm của người hâm mộ về việc kết hợp nhân vật [Đại bàng](../G/Great_Eagle.md) của *The Hobbit* với nhân vật của [Gwaihir](../G/Gwaihir.md), trong khi *The Lord of the Rings* không hề ngụ ý rằng Gwaihir là [Chúa tể của Đại Bàng](../L/Lord_of_the_Eagles.md).
 

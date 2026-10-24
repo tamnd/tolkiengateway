@@ -44,7 +44,7 @@ Phần tử đầu tiên *dwimor* cũng được thấy trong các tên *[Dwimor
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Dwimorberg đang thấp thoáng trên lối vào <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Con đường của người chết</a> cả ở <a href="../H/Harrowdale.md" title="Harrowdale">Harrowdale</a> của <a href="../R/Rohan.md" title="Rohan">Rohan</a> và <a href="../B/Blackroot_Vale.md" title="Blackroot Vale">Blackroot Vale</a> của <a href="../G/Gondor.md" title="Gondor">Gondor</a>.</dd></dl>
 

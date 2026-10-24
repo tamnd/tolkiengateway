@@ -40,7 +40,7 @@ Trò chơi cờ bàn này khác thường ở chỗ nó là một trò chơi c�
 
 Chơi trò chơi tập trung vào sự thăng tiến thông qua hàng loạt tình huống tương ứng với các cuộc phiêu lưu trong sách. Người chơi lật các ô và chơi bài để tiến về phía trước, đồng thời thu thập và sử dụng mã thông báo để tránh tiến tới Chúa tể Bóng tối [Sauron](../S/Sauron.md). Trong những tình huống nghiêm trọng, mã thông báo có thể được sử dụng để kêu gọi sự hỗ trợ của [Gandalf](../G/Gandalf.md) hoặc Chiếc nhẫn Chúa có thể được sử dụng để tăng tốc độ tiến bộ với cái giá phải trả là tiến gần hơn tới Sauron.
 
-Người chơi bị loại nếu ở cùng không gian với Sauron hoặc ở phía sau ông ta.
+Người chơi bị loại nếu ở cùng không gian với Sauron hoặc ở phía sau ông.
 
 ## Gói mở rộng {#Expansion_Packs}
 

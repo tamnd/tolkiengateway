@@ -136,7 +136,7 @@ Trong những ghi chú viết bằng bút chì cho chương mà sau này trở t
 
 <dl><dd>Lưu ý rằng trong phim, các bức tượng là Isildur và <a href="../E/Elendil.md" title="Elendil">Elendil</a> (vì hầu hết mọi tham chiếu đến Anárion đều bị cắt khỏi phim <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[note 1]</a></sup>) và tượng Elendil đang cầm <a href="../N/Narsil.md" title="Narsil">Narsil</a> chứ không phải một chiếc rìu.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Argonath là địa danh nổi bật tại khu vực <a href="../E/East_Wall_of_Rohan.md" title="East Wall of Rohan">phương Đông Tường</a> của vùng <a href="../E/Eastemnet.md" title="Eastemnet">Eastemnet</a>.</dd></dl>
 

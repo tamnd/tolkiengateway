@@ -43,7 +43,7 @@ Trung tâm nông trại gồm một ngôi nhà nông trại lớn xây bằng g�
 
 ## Lịch sử {#History}
 
-Khi [Frodo Baggins](../F/Frodo_Baggins.md) còn trẻ và sống tại [Brandy Hall](Brandy_Hall.md), cậu thỉnh thoảng lẻn vào trang trại để hái trộm nấm. Trong chuyến viếng thăm cuối cùng, Maggot đã bắt được Frodo và đánh cậu một trận vì tội ăn trộm. Kể từ đó, Frodo luôn tránh xa nơi này và tránh cả ông ta.
+Khi [Frodo Baggins](../F/Frodo_Baggins.md) còn trẻ và sống tại [Brandy Hall](Brandy_Hall.md), cậu thỉnh thoảng lẻn vào trang trại để hái trộm nấm. Trong chuyến viếng thăm cuối cùng, Maggot đã bắt được Frodo và đánh cậu một trận vì tội ăn trộm. Kể từ đó, Frodo luôn tránh xa nơi này và tránh cả ông.
 
 Vào [ngày 25 tháng 9](../_/25_September.md) năm [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), Frodo, [Sam](../S/Samwise_Gamgee.md) và [Pippin](../P/Peregrin_Took.md) đến Bamfurlong vào buổi chiều. Tại đó, họ gặp Lão nông Maggot và được biết trước đó một [Kỵ Sĩ Đen](../N/Nazgûl.md) đã ghé thăm trang trại và dò hỏi về Baggins. Những hobbit lữ hành vui vẻ nhận lời dùng một bữa tối thịnh soạn trước khi người nông dân dùng xe ngựa chở họ đến [Bến phà Bucklebury](Bucklebury_Ferry.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -63,7 +63,7 @@ Trong ấn bản đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_th
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg/250px-The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg/375px-The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg/500px-The_Lord_of_the_Rings_Online_-_Bamfurlong.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>Bamfurlong in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bamfurlong là điểm mốc nổi bật trong <a href="../M/Marish.md" title="Marish">Marish</a>.</dd></dl>
 

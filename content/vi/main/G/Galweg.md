@@ -31,7 +31,7 @@ infobox:
 
 Galweg là cha của [Failivrin](../F/Failivrin.md), người đã yêu [Túrin](../T/Túrin.md) khi anh và bạn mình [Flinding](../F/Flinding.md) sống trong [hang động của Rodothlim](../N/Nargothrond.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup> được cai trị bởi [Orodreth](../O/Orodreth.md). Ông rất quý Túrin và họ thường giúp đỡ lẫn nhau.<sup id="cite_ref-Gal_1-1" class="reference"><a href="#cite_note-Gal-1">[1]</a></sup>
 
-Galweg đã bị giết trong cuộc tấn công [của [Melko](../M/Melko.md) vào Rodothlim](../F/Fall_of_Nargothrond.md#Other_versions_of_the_legendarium).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Nơi ở của ông ta sau đó bị chiếm giữ bởi [Mîm](../M/Mîm.md) [Người Lùn](../D/Dwarves.md), người sau đó lại bị giết bởi [Úrin](../_/Úrin.md), cha của Túrin.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Galweg đã bị giết trong cuộc tấn công [của [Melko](../M/Melko.md) vào Rodothlim](../F/Fall_of_Nargothrond.md#Other_versions_of_the_legendarium).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Nơi ở của ông sau đó bị chiếm giữ bởi [Mîm](../M/Mîm.md) [Người Lùn](../D/Dwarves.md), người sau đó lại bị giết bởi [Úrin](../_/Úrin.md), cha của Túrin.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

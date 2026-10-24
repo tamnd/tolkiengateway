@@ -131,7 +131,7 @@ Tuy nhiên, ngay cả trước thời điểm này, [Orc phương Đông](../E/E
 
 Sau [Cuộc chiến Thịnh nộ](../W/War_of_Wrath.md), nhiều Orc từng phục vụ Morgoth và sống sót sau thất bại của Morgoth giờ đây không còn thủ lĩnh và hành động liều lĩnh, nhưng vẫn được trang bị vũ khí và tàn ác. Chúng tiến về [Rhovanion](../R/Rhovanion.md) ở phương Đông và bắt đầu quấy phá các vùng đất do [Người Lùn](../D/Dwarves.md) và [Người phương Bắc](../N/Northmen.md) cư trú.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Để đối phó với mối nguy hiểm này, hai dân tộc đã thành lập [Liên minh Người Lùn và Con Người](../A/Alliance_of_Dwarves_and_Men.md)<sup id="cite_ref-relations_18-0" class="reference"><a href="#cite_note-relations-18">[18]</a></sup>
 
-Khoảng năm [S.A.](../S/Second_Age.md) [1000](../S/Second_Age_1000.md) Sauron xuất hiện trở lại, lấy vùng đất [Mordor](../M/Mordor.md) làm lãnh địa và bắt đầu xây dựng [Barad-dûr](../B/Barad-dûr.md). Những người hầu của ông ta trong số Orc-loại vào thời điểm này đều là người phương Bắc. Không chỉ cho đến sau này, ông ta mới tập hợp tất cả chủng tộc hôi hám của họ dưới sự chỉ huy của mình - miễn là ông ta đi giữa Tiên tộc với vẻ ngoài công bằng, [phương Đông Orc](../E/Eastern_Orcs.md) tự trị lâu đời đã phẫn nộ với ông ta.<sup id="cite_ref-Cuv_16-1" class="reference"><a href="#cite_note-Cuv-16">[16]</a></sup> Vẫn trong một thời gian dài Sauron tay sai không đóng một vai trò quan trọng nào, vì Chúa tể Bóng tối đã chọn một cách tinh vi hơn để đưa Nhân dân Tự do dưới sự thống trị của ông ta thông qua tội lỗi thủ đoạn gian trá, mà nhân vật chính là [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md).
+Khoảng năm [S.A.](../S/Second_Age.md) [1000](../S/Second_Age_1000.md) Sauron xuất hiện trở lại, lấy vùng đất [Mordor](../M/Mordor.md) làm lãnh địa và bắt đầu xây dựng [Barad-dûr](../B/Barad-dûr.md). Những người hầu của ông trong số Orc-loại vào thời điểm này đều là người phương Bắc. Không chỉ cho đến sau này, ông mới tập hợp tất cả chủng tộc hôi hám của họ dưới sự chỉ huy của mình - miễn là ông đi giữa Tiên tộc với vẻ ngoài công bằng, [phương Đông Orc](../E/Eastern_Orcs.md) tự trị lâu đời đã phẫn nộ với ông.<sup id="cite_ref-Cuv_16-1" class="reference"><a href="#cite_note-Cuv-16">[16]</a></sup> Vẫn trong một thời gian dài Sauron tay sai không đóng một vai trò quan trọng nào, vì Chúa tể Bóng tối đã chọn một cách tinh vi hơn để đưa Nhân dân Tự do dưới sự thống trị của ông thông qua tội lỗi thủ đoạn gian trá, mà nhân vật chính là [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md).
 
 Khi Sauron xâm chiếm [Eriador](../E/Eriador.md) ở [S.A.](../S/Second_Age.md) [1695](../S/Second_Age_1695.md), đám Orc lại xâm chiếm vùng núi. [Gundabad](../G/Gundabad.md) đã [bị chiếm](../F/Fall_of_Mount_Gundabad.md) và [Ered Mithrin](../E/Ered_Mithrin.md) bị đột kích. Không chỉ có Orc Liên minh chiến đấu mà còn có những [Easterlings](../E/Easterlings.md) man rợ khác.<sup id="cite_ref-relations_18-1" class="reference"><a href="#cite_note-relations-18">[18]</a></sup>
 
@@ -350,7 +350,7 @@ Trong *[The Father Christmas Letters](../T/The_Father_Christmas_Letters.md)*, go
 
 <dl><dd>Do hạn chế về thời gian và một số vấn đề pháp lý, loạt chương trình phát thanh sử dụng các thuật ngữ <i>skirt</i> (phát âm là "skeert") và <i>skirti</i> để chỉ "orc" và "orcs" (một từ mới bắt nguồn từ <i>skřet</i>, <i>skřeti</i>, nghĩa là "Goblin" trong bản dịch tiếng Séc). Một số nhân vật Orc có tên trong phần danh đề; chẳng hạn, <a class="mw-redirect" href="../G/Grishnakh.md" title="Grishnakh">Grishnakh</a> trong <i>The Two Towers</i> do Eduard Vitek thủ vai, còn trong <i>The Return of the King</i>, Jozef Šimonovič thủ vai một chỉ huy Orc ở Mordor quất roi thúc ép Frodo và Sam đang cải trang phải tuân lệnh.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Orc-kind là một chi bao gồm các loài Orc, Goblin, <a href="../H/Hobgoblins.md" title="Hobgoblins">Hobgoblins</a>, <a href="../H/Half-orcs.md" title="Half-orcs">Half-orcs</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Boggarts&amp;action=edit&amp;redlink=1" title="Boggarts (page does not exist)">Boggarts</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bugans&amp;action=edit&amp;redlink=1" title="Bugans (page does not exist)">Bugans</a> và <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a>.</dd></dl>
 
@@ -393,15 +393,15 @@ Trong *[The Father Christmas Letters](../T/The_Father_Christmas_Letters.md)*, go
 		</li>
 </ul>
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: Cuộc chiến Nhẫn</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_War_of_the_Ring.md" title="The Lord of the Rings: War of the Ring">The Lord of the Rings: War of the Ring</a></i>:</b>
 
 <dl><dd>Goblin đã được phân biệt rõ ràng với Orc.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Goblin đã được phân biệt rõ ràng với Orc.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Goblin là một chủng tộc riêng biệt, có thể bắt gặp ở <a href="../E/Evendim.md" title="Evendim">Evendim</a>, <a href="../T/The_Shire.md" title="The Shire">Shire</a>, <a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered Luin</a>, <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>, <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>, <a href="../N/North_Downs.md" title="North Downs">North Downs</a>, <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>, <a href="../A/Angmar.md" title="Angmar">Angmar</a> và <a href="../M/Moria.md" title="Moria">Moria</a>. Chúng có vóc dáng nhỏ bé, thấp hơn <a href="../H/Hobbits.md" title="Hobbits">Hobbit</a> một chút. Ngược lại, Orc có vóc dáng tương đương <a href="../M/Men.md" title="Men">Con Người</a>. Goblin cũng yếu hơn Orc.</dd></dl>
 

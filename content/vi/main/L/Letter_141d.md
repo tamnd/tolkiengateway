@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien bày tỏ sự hài lòng với khả năng đọc và chuyển động được cải thiện của tập thứ hai của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông lưu ý rằng cuốn sách đầu tiên có rất ít sai sót. Ngoài ra, ông ta còn cung cấp địa chỉ của [Gervase Mathew](../G/Gervase_Mathew.md) tại Blackfriars, Oxford, mặc dù ông ta đề cập rằng hiện tại ông ta có thể sẽ đi du lịch nước ngoài.
+Tolkien bày tỏ sự hài lòng với khả năng đọc và chuyển động được cải thiện của tập thứ hai của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ông lưu ý rằng cuốn sách đầu tiên có rất ít sai sót. Ngoài ra, ông còn cung cấp địa chỉ của [Gervase Mathew](../G/Gervase_Mathew.md) tại Blackfriars, Oxford, mặc dù ông đề cập rằng hiện tại ông có thể sẽ đi du lịch nước ngoài.
 
 <br>
 

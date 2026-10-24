@@ -24,7 +24,7 @@ Bargrisar là một Người khổng lồ Đá khét tiếng hung ác và bạo 
 
 Sau khi thành lập liên minh với Sauron, Bargrisar và Agandaûr lên kế hoạch tiêu diệt [Đại Bàng](../E/Eagles.md) và cướp bóc phương Bắc. Họ chiêu mộ một đội quân và dẫn đầu một cuộc tấn công vào Đại Bàng, tàn sát chúng và phá hủy trứng của chúng. Khi họ đang làm như vậy, Gandalf đã cử bộ ba chiến binh - [Eradan](../E/Eradan.md), [Andriel](../A/Andriel.md) và [Farin](../F/Farin.md) - để điều tra việc ẩn náu Troll của Bargrisar.
 
-Bộ ba với sự giúp đỡ của đại bàng [Beleram](Beleram.md) đã tiêu diệt phần lớn quân đội của Bargrisar trước khi hắn sẵn sàng tiêu diệt phần [Con Người](../M/Men.md) còn lại của miền Bắc. Cuối cùng, họ tìm thấy và chiến đấu với Bargrisar, giết chết thành công ông ta sau khi ông ta giả chết và Beleram sà xuống và móc mắt ông ta ra.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+Bộ ba với sự giúp đỡ của đại bàng [Beleram](Beleram.md) đã tiêu diệt phần lớn quân đội của Bargrisar trước khi hắn sẵn sàng tiêu diệt phần [Con Người](../M/Men.md) còn lại của miền Bắc. Cuối cùng, họ tìm thấy và chiến đấu với Bargrisar, giết chết thành công ông sau khi ông giả chết và Beleram sà xuống và móc mắt ông ra.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 ## Tài liệu tham khảo {#References}
 

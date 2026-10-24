@@ -25,7 +25,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong phần đầu của chương "[Bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)", Lofar đã được Bilbo hướng dẫn trao [Chiếc nhẫn](../T/The_One_Ring.md) cho [Frodo Baggins](../F/Frodo_Baggins.md) (lúc đó được gọi là "Bingo").<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Lofar không có tên trong phiên bản đã xuất bản của The Fellowship of the Ring tuy nhiên ông ta có thể là một trong ba Người Lùn bắt đầu với Bilbo cho [Rivendell](../R/Rivendell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong phần đầu của chương "[Bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)", Lofar đã được Bilbo hướng dẫn trao [Chiếc nhẫn](../T/The_One_Ring.md) cho [Frodo Baggins](../F/Frodo_Baggins.md) (lúc đó được gọi là "Bingo").<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> Lofar không có tên trong phiên bản đã xuất bản của The Fellowship of the Ring tuy nhiên ông có thể là một trong ba Người Lùn bắt đầu với Bilbo cho [Rivendell](../R/Rivendell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

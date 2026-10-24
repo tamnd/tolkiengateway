@@ -27,7 +27,7 @@ images:
 
 ## Lịch sử {#History}
 
-Với sự trợ giúp của [Gwindor](../G/Gwindor.md), Beleg đã giải phóng Turin khỏi Orc bị giam cầm trong một cơn giông bão. Tuy nhiên, khi được giải thoát, Turin đã nhầm Beleg với một Orc và sát hại ông ta bằng thanh kiếm của chính Beleg, [Anglachel](../A/Anglachel.md). Khi nhận ra sự kinh hoàng về những gì mình vừa làm, Turin rơi vào trạng thái sốc và để cho Gwindor dẫn mình đến [Hồ Ivrin](../P/Pools_of_Ivrin.md). Khi đến đó, ông ta uống nước trong lành và được chữa lành, và cuối cùng ông ta có thể khóc, than khóc Beleg. Sau đó, ông sáng tác và hát lời than thở này như một hình thức giải thoát nỗi đau buồn, hát to bất kể nguy hiểm.<sup id="cite_ref-Beleg_2-0" class="reference"><a href="#cite_note-Beleg-2">[2]</a></sup>
+Với sự trợ giúp của [Gwindor](../G/Gwindor.md), Beleg đã giải phóng Turin khỏi Orc bị giam cầm trong một cơn giông bão. Tuy nhiên, khi được giải thoát, Turin đã nhầm Beleg với một Orc và sát hại ông bằng thanh kiếm của chính Beleg, [Anglachel](../A/Anglachel.md). Khi nhận ra sự kinh hoàng về những gì mình vừa làm, Turin rơi vào trạng thái sốc và để cho Gwindor dẫn mình đến [Hồ Ivrin](../P/Pools_of_Ivrin.md). Khi đến đó, ông uống nước trong lành và được chữa lành, và cuối cùng ông có thể khóc, than khóc Beleg. Sau đó, ông sáng tác và hát lời than thở này như một hình thức giải thoát nỗi đau buồn, hát to bất kể nguy hiểm.<sup id="cite_ref-Beleg_2-0" class="reference"><a href="#cite_note-Beleg-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

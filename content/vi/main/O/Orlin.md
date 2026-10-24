@@ -26,7 +26,7 @@ infobox:
 
 **Orlin** là một [Người](../M/Man.md) của [Hisilómë](../H/Hithlum.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong [*The Book of Lost Tales*](../T/The_Book_of_Lost_Tales.md).
 
-Ông giống với chính [Turambar](../T/Túrin.md) thông qua [Mavwin](../M/Morwen.md). Khi Turambar đến [sảnh của Brodda](../B/Brodda's_hall.md) và sát hại [lãnh chúa](../B/Brodda.md) để trả thù, Orlin là một trong số ít người có mặt ở đó đã cố gắng bắt giữ Turambar, là người duy nhất bị giết. Khi [Airin](../A/Airin.md) xuất hiện và mọi người chờ đợi phán xét của cô, cô giải thích rằng Turambar thực sự đã phạm tội nghiêm trọng khi giết một người giống mẹ ông ta và trong một phòng tiệc, nhưng để bào chữa cho ông ta, ông ta sẽ chỉ bị kết án lưu đày.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông giống với chính [Turambar](../T/Túrin.md) thông qua [Mavwin](../M/Morwen.md). Khi Turambar đến [sảnh của Brodda](../B/Brodda's_hall.md) và sát hại [lãnh chúa](../B/Brodda.md) để trả thù, Orlin là một trong số ít người có mặt ở đó đã cố gắng bắt giữ Turambar, là người duy nhất bị giết. Khi [Airin](../A/Airin.md) xuất hiện và mọi người chờ đợi phán xét của cô, cô giải thích rằng Turambar thực sự đã phạm tội nghiêm trọng khi giết một người giống mẹ ông và trong một phòng tiệc, nhưng để bào chữa cho ông, ông sẽ chỉ bị kết án lưu đày.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

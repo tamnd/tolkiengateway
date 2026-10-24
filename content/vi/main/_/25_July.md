@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 25 tháng 7
 ## Trên Trái đất {#On_Earth}
 
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 29](../L/Letter_29.md).
-- **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi một [lá thư](../L/Letter_30.md) đầy giận dữ tới một nhà xuất bản ở Đức, sau khi được hỏi liệu ông ta có phải là <a class="extiw" href="http://en.wikipedia.org/wiki/Aryan" title="wikipedia:Aryan">Aryan</a> hay không.
+- **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi một [lá thư](../L/Letter_30.md) đầy giận dữ tới một nhà xuất bản ở Đức, sau khi được hỏi liệu ông có phải là <a class="extiw" href="http://en.wikipedia.org/wiki/Aryan" title="wikipedia:Aryan">Aryan</a> hay không.
 - **[1979](1979.md)** - [Bryan Cogman](../B/Bryan_Cogman.md) ra đời.
 - **[1980](1980.md)** - [Mythcon 11](../M/Mythcon_11.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Nevada,_Reno" title="wikipedia:University of Nevada, Reno">Đại học Nevada</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Reno,_Nevada" title="wikipedia:Reno, Nevada">Reno</a>.
 - **[1987](1987.md)** - [Mythcon 18](../M/Mythcon_18.md) tại [Đại học Marquette](../M/Marquette_University.md), <a class="extiw" href="http://en.wikipedia.org/wiki/Milwaukee" title="wikipedia:Milwaukee">Milwaukee</a>.

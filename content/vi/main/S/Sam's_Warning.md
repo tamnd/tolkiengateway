@@ -42,7 +42,7 @@ Frodo, [Sam](Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) leo cầu thang c�
 ## Sự khác biệt {#Differences}
 
 - Trong các cuốn Sam, Frodo và Gollum đã đạt Hang ổ của Shelob vào cuối [The Two Towers](../T/The_Two_Towers.md).<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
-- Trong sách Sam câu hỏi Gollum nhiều lần về đường hầm nhưng dường như chấp nhận rằng ông ta sẽ không nhận được câu trả lời và không đưa ra cảnh báo như trong cảnh này.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+- Trong sách Sam câu hỏi Gollum nhiều lần về đường hầm nhưng dường như chấp nhận rằng ông sẽ không nhận được câu trả lời và không đưa ra cảnh báo như trong cảnh này.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 <span></span>
 

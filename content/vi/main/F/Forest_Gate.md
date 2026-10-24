@@ -37,7 +37,7 @@ images:
 
 <dl><dd>Cổng rừng có một bức tượng nhỏ vợ của Thranduil, được che phủ bởi rừng cây. Ngoài ra còn có biểu tượng của <a href="../E/Eye_of_Sauron.md" title="Eye of Sauron">Con Mắt của Sauron</a>. <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> rời công ty để điều tra ngôi mộ của <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a>.</dd></dl>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Forest_Gate.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_Online_-_Forest_Gate.jpg/200px-The_Lord_of_the_Rings_Online_-_Forest_Gate.jpg" decoding="async" loading="lazy" width="200" height="148" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_Online_-_Forest_Gate.jpg/300px-The_Lord_of_the_Rings_Online_-_Forest_Gate.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/The_Lord_of_the_Rings_Online_-_Forest_Gate.jpg/400px-The_Lord_of_the_Rings_Online_-_Forest_Gate.jpg 2x" data-file-width="1460" data-file-height="1080"/></a><figcaption>The Forest Gate in <i>The Lord of the Rings Online</i></figcaption></figure>
 

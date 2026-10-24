@@ -57,7 +57,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Giống như tất cả các Durin sau <a class="mw-redirect mw-disambig" href="Durin.md" title="Durin">Durin I</a>, ông được đặt tên là [Cha đầu tiên của Người Lùn](../S/Seven_Fathers_of_the_Dwarves.md) vì ông rất giống ông cả về ngoại hình lẫn phong thái. Quả thực Người Lùn người ta tin rằng ông ta là tái sinh của Durin I, mặc dù điều này có khả thi hay không vẫn chưa rõ ràng.<sup id="cite_ref-AppDurin_1-1" class="reference"><a href="#cite_note-AppDurin-1">[1]</a></sup>
+Giống như tất cả các Durin sau <a class="mw-redirect mw-disambig" href="Durin.md" title="Durin">Durin I</a>, ông được đặt tên là [Cha đầu tiên của Người Lùn](../S/Seven_Fathers_of_the_Dwarves.md) vì ông rất giống ông cả về ngoại hình lẫn phong thái. Quả thực Người Lùn người ta tin rằng ông là tái sinh của Durin I, mặc dù điều này có khả thi hay không vẫn chưa rõ ràng.<sup id="cite_ref-AppDurin_1-1" class="reference"><a href="#cite_note-AppDurin-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -87,7 +87,7 @@ Một tài khoản khác nói rằng *Durinn* là một trong những Người L
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Durin_II.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/25/The_Lord_of_the_Rings_Online_-_Durin_II.jpg/150px-The_Lord_of_the_Rings_Online_-_Durin_II.jpg" decoding="async" loading="lazy" width="150" height="217" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/The_Lord_of_the_Rings_Online_-_Durin_II.jpg/225px-The_Lord_of_the_Rings_Online_-_Durin_II.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/25/The_Lord_of_the_Rings_Online_-_Durin_II.jpg/300px-The_Lord_of_the_Rings_Online_-_Durin_II.jpg 2x" data-file-width="890" data-file-height="1290"/></a><figcaption>Durin II in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 

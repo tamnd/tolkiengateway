@@ -68,7 +68,7 @@ Bản thân Tolkien đã nhận được ít nhất hai yêu cầu cho phép xu�
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">For example, as of August 2010 &#39;Lord of the Rings&#39; was the fourth largest category at <a class="external text" href="http://www.fanfiction.net/" rel="noreferrer noopener" target="_blank">FanFiction.net</a>.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../S/Sumner_Gary_Hunnewell.md" title="Sumner Gary Hunnewell">Sumner Gary Hunnewell</a>, <i><a class="external text" href="http://efanzines.com/TFR/TolkienFandom2ndEd.pdf" rel="noreferrer noopener" target="_blank">Tolkien Fandom Review  from its beginnings to 1964</a></i> (accessed 14 January 2014)</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../S/Sumner_Gary_Hunnewell.md" title="Sumner Gary Hunnewell">Sumner Gary Hunnewell</a>, <i><a class="external text" href="http://efanzines.com/TFR/TolkienFandom2ndEd.pdf" rel="noreferrer noopener" target="_blank">Tolkien Fandom Review from its beginnings to 1964</a></i> (accessed 14 January 2014)</span>
 </li>
 <li id="cite_note-ChillingEffects-4"><span class="mw-cite-backlink"><a href="#cite_ref-ChillingEffects_4-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.chillingeffects.org/fanfic/" rel="noreferrer noopener" target="_blank">Chilling Effects Clearinghouse: Fan Fiction</a>.</span>
 </li>

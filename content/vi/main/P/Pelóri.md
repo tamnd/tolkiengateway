@@ -56,7 +56,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Các Pelóri được [Valar](../V/Valar.md) nuôi dưỡng để chống lại cái ác của [Melkor](../M/Morgoth.md) sau khi ông ta phá hủy nơi ở ban đầu của họ tại [Almaren](../A/Almaren.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Các Pelóri được [Valar](../V/Valar.md) nuôi dưỡng để chống lại cái ác của [Melkor](../M/Morgoth.md) sau khi ông phá hủy nơi ở ban đầu của họ tại [Almaren](../A/Almaren.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Chúng là ngọn núi cao nhất trong tất cả các ngọn núi và ngọn núi cao nhất trong số Pelóri là [Taniquetil](../T/Taniquetil.md), trên đó có [ngôi biệt thự cao](../I/Ilmarin.md) của [Manwë](../M/Manwë.md) và [Varda](../V/Varda.md). Phía sau họ đến Phương Tây, [Ánh sáng](../L/Light.md) của Cây tỏa sáng, nhưng bờ biển hẹp dưới chân phía đông của họ chìm trong bóng tối. Mức cao thứ hai trong Pelóri là [Hyarmentir](../H/Hyarmentir.md) trên [Avathar](../A/Avathar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

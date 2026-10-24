@@ -17,7 +17,7 @@ categories:
 
 Một trong những dạng động từ của nó là *lelya*, có nghĩa là "đi, tiến tới (theo bất kỳ hướng nào), đi du lịch", với thì quá khứ là *lende*.<sup id="cite_ref-wj_2-0" class="reference"><a href="#cite_note-wj-2">[2]</a></sup> Một dạng động từ khác là *lelinye*.<sup id="cite_ref-nm_1-1" class="reference"><a href="#cite_note-nm-1">[1]</a></sup>
 
-Nó khác với "sẵn sàng, đồng ý, đồng ý, đồng ý". Ví dụ: mặc dù một người đàn ông có thể nói “Tôi đồng ý, tôi sẽ” trước một số đề xuất của người khác, nhưng điều đó có thể phù hợp hoặc không phù hợp với mục đích hoặc thiết kế của ông ta.<sup id="cite_ref-nm_1-2" class="reference"><a href="#cite_note-nm-1">[1]</a></sup>
+Nó khác với "sẵn sàng, đồng ý, đồng ý, đồng ý". Ví dụ: mặc dù một người đàn ông có thể nói “Tôi đồng ý, tôi sẽ” trước một số đề xuất của người khác, nhưng điều đó có thể phù hợp hoặc không phù hợp với mục đích hoặc thiết kế của ông.<sup id="cite_ref-nm_1-2" class="reference"><a href="#cite_note-nm-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

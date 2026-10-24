@@ -33,7 +33,7 @@ images:
 
 Trong [Tối của Valinor](../D/Darkening_of_Valinor.md), khi Cây sắp chết, [Valar](../V/Valar.md) đã yêu cầu Fëanor giao nộp Silmaril và bẻ gãy chúng. Bằng ánh sáng thuần khiết mà chúng chứa đựng, Cây cối, như Valar đã nói, có thể được chữa lành trở lại. Tuy nhiên, Fëanor đã từ chối lời cầu nguyện của họ, và khi Valar ra lệnh cho anh từ bỏ những viên ngọc quý (vì ánh sáng mang lại vẻ đẹp và sự thiêng liêng cho chúng là của họ và chỉ được cho anh mượn), anh trở nên ngoan cố và nổi loạn, từ bỏ lòng trung thành với [Manwë](../M/Manwë.md) với tư cách là Trưởng lão Vua của [Arda](../A/Arda.md).<sup id="cite_ref-Concerning_1-2" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup><sup id="cite_ref-Darkening_3-1" class="reference"><a href="#cite_note-Darkening-3">[3]</a></sup>
 
-Đối với Fëanor, Silmaril đã trở thành biểu tượng và công cụ quyền lực của ông ta, và do đó ông ta tự phong cho mình danh hiệu "chúa tể ánh sáng".<sup id="cite_ref-Concerning_1-3" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup>
+Đối với Fëanor, Silmaril đã trở thành biểu tượng và công cụ quyền lực của ông, và do đó ông tự phong cho mình danh hiệu "chúa tể ánh sáng".<sup id="cite_ref-Concerning_1-3" class="reference"><a href="#cite_note-Concerning-1">[1]</a></sup>
 
 <span></span>
 

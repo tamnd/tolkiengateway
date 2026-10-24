@@ -66,7 +66,7 @@ infobox:
 
 Trong những năm đầu [Telumehtar](Telumehtar.md) trị vì [Gondor](../G/Gondor.md), [Hải tặc Umbar](../C/Corsairs_of_Umbar.md) đã đột kích [bờ biển](../O/Outlands.md) của Gondor cho đến tận [Anfalas](../A/Anfalas.md).<sup id="cite_ref-Telumehtar_4-0" class="reference"><a href="#cite_note-Telumehtar-4">[4]</a></sup>
 
-Nhớ lại cái chết của [Minardil](../M/Minardil.md) và cảm thấy đau khổ trước sự xấc xược của Corsairs, Telumehtar quyết tâm chấm dứt những cuộc tấn công này và tập hợp lực lượng của mình. Trong [T.A.](Third_Age.md) [1810](Third_Age_1810.md) ông ta đã chiếm lại [Umbar](../U/Umbar.md) bằng cơn bão<sup id="cite_ref-Telumehtar_4-1" class="reference"><a href="#cite_note-Telumehtar-4">[4]</a></sup> và đánh đuổi bọn Corsairs.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong cuộc chiến đó, hậu duệ cuối cùng của [Castamir](../C/Castamir.md) đã bị giết.<sup id="cite_ref-Telumehtar_4-2" class="reference"><a href="#cite_note-Telumehtar-4">[4]</a></sup>
+Nhớ lại cái chết của [Minardil](../M/Minardil.md) và cảm thấy đau khổ trước sự xấc xược của Corsairs, Telumehtar quyết tâm chấm dứt những cuộc tấn công này và tập hợp lực lượng của mình. Trong [T.A.](Third_Age.md) [1810](Third_Age_1810.md) ông đã chiếm lại [Umbar](../U/Umbar.md) bằng cơn bão<sup id="cite_ref-Telumehtar_4-1" class="reference"><a href="#cite_note-Telumehtar-4">[4]</a></sup> và đánh đuổi bọn Corsairs.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Trong cuộc chiến đó, hậu duệ cuối cùng của [Castamir](../C/Castamir.md) đã bị giết.<sup id="cite_ref-Telumehtar_4-2" class="reference"><a href="#cite_note-Telumehtar-4">[4]</a></sup>
 
 Telumehtar đã thêm biệt danh *Umbardacil* vào tên của mình để kỷ niệm chiến thắng của ông. Umbar được nắm giữ bởi Gondor trong suốt triều đại của Telumehtar.<sup id="cite_ref-Telumehtar_4-3" class="reference"><a href="#cite_note-Telumehtar-4">[4]</a></sup>
 
@@ -74,7 +74,7 @@ Telumehtar đã thêm biệt danh *Umbardacil* vào tên của mình để kỷ 
 
 *[Telumehtar](Telumehtar.md)* là [Quenya](../Q/Quenya.md) tên của chòm sao Orion, nghĩa là ("Chiến binh của bầu trời").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Paul Strack giải thích rằng phần tử ban đầu là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Telum%C3%AB&amp;action=edit&amp;redlink=1" title="Telumë (page does not exist)">telumë</a> ("mái nhà, tán cây; thiên đường, bầu trời") và phần tử thứ hai có thể là *mehtar* hoặc [ohtar](../O/Ohtar.md) ("chiến binh").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Biệt danh *Umbardacil* của ông ta có nghĩa là "Kẻ chinh phục Umbar",<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> là sự kết hợp của *Umbar* + *[-ndacil](../_/-ndacil.md)* ("kẻ chiến thắng, kẻ giết người").<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Biệt danh *Umbardacil* của ông có nghĩa là "Kẻ chinh phục Umbar",<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> là sự kết hợp của *Umbar* + *[-ndacil](../_/-ndacil.md)* ("kẻ chiến thắng, kẻ giết người").<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

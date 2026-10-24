@@ -104,7 +104,7 @@ Trong những bản thảo đầu tiên, Elendur được đặt tên là "Kirya
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Elendur.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/The_Lord_of_the_Rings_Online_-_Elendur.jpg/300px-The_Lord_of_the_Rings_Online_-_Elendur.jpg" decoding="async" loading="lazy" width="300" height="542" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/The_Lord_of_the_Rings_Online_-_Elendur.jpg/450px-The_Lord_of_the_Rings_Online_-_Elendur.jpg 1.5x, https://tolkiengateway.net/w/images/5/59/The_Lord_of_the_Rings_Online_-_Elendur.jpg 2x" data-file-width="570" data-file-height="1030"/></a><figcaption>Elendur in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ba người con trai lớn của Isildur xuất hiện trong một đoạn hồi tưởng kéo dài trong <a href="../S/Siege_of_Barad-dûr.md" title="Siege of Barad-dûr">Cuộc vây hãm Barad-dûr</a> vào năm <a href="../S/Second_Age_3440.md" title="Second Age 3440">S.A. 3440</a>. Tuy nhiên, vì giấy phép của trò chơi không bao gồm các tác phẩm mà chúng được đặt tên nên chúng chỉ được gọi bằng bí danh thời chiến, nhằm che giấu mối quan hệ họ hàng của họ với Vua. Elendur sử dụng tên "Meldaran" làm bí danh của mình.</dd></dl>
 

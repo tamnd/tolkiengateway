@@ -25,7 +25,7 @@ infobox:
 
 **Jäänainen** là một ác quỷ [Maia](../M/Maia.md) được phát minh bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*. Trong [Kỷ Đệ Nhất](../F/First_Age.md), cô liên minh với [Morgoth](../M/Morgoth.md), và cô chạy trốn xa về phía bắc sau [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md). Chờ thời cơ, cô thực hiện những tội ác nhỏ hơn, khơi dậy mối thù hoặc dụ đàn ông đến chỗ chết bằng cách giả dạng một phụ nữ xinh đẹp. Trong [Kỷ Đệ Tam](../T/Third_Age.md), cô sống gần Vịnh Nứt Băng.<sup id="cite_ref-bio_1-1" class="reference"><a href="#cite_note-bio-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Mặc dù những tội ác nhỏ nhặt của cô làm hài lòng [Vua Phù thủy](../W/Witch-king.md), giống như nhiều linh hồn tà ác của [Northern Waste](../N/Northern_Waste.md), nhưng cô không hề khuất phục trước ông ta hoặc [Sauron](../S/Sauron.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tiên tộc miễn nhiễm với sự quyến rũ của cô, nhưng Con Người và Người Lùn rất dễ bị tổn thương.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Mặc dù những tội ác nhỏ nhặt của cô làm hài lòng [Vua Phù thủy](../W/Witch-king.md), giống như nhiều linh hồn tà ác của [Northern Waste](../N/Northern_Waste.md), nhưng cô không hề khuất phục trước ông hoặc [Sauron](../S/Sauron.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tiên tộc miễn nhiễm với sự quyến rũ của cô, nhưng Con Người và Người Lùn rất dễ bị tổn thương.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

@@ -50,7 +50,7 @@ Trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), bể bơi Bywater có
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Bywater_Pool.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a6/The_Lord_of_the_Rings_Online_-_Bywater_Pool.jpg/300px-The_Lord_of_the_Rings_Online_-_Bywater_Pool.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a6/The_Lord_of_the_Rings_Online_-_Bywater_Pool.jpg/450px-The_Lord_of_the_Rings_Online_-_Bywater_Pool.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a6/The_Lord_of_the_Rings_Online_-_Bywater_Pool.jpg/600px-The_Lord_of_the_Rings_Online_-_Bywater_Pool.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>The Bywater Pool in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Bể bơi Bywater là một địa danh quan trọng, vị trí của nó nằm ở trung tâm khu vực trong trò chơi của <a href="../T/The_Shire.md" title="The Shire">the Shire</a>. Đây là địa điểm câu cá hàng đầu và các cuộc thi câu cá đang diễn ra ở đó trong lễ hội Hội chợ Nông dân hàng năm.</dd></dl>
 

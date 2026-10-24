@@ -55,7 +55,7 @@ Qua hàng thiên niên kỷ, số lượng của chúng tăng lên, cho đến k
 
 ## Khắc họa trong các bản chuyển thể {#Portrayal_in_adaptations}
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Cold-drakes xuất hiện trên khắp các vùng đất phía bắc của <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>, đặc biệt là ở <a class="mw-redirect" href="../E/Ered_Mithrin.md" title="Ered Mithrin">Ered Mithrin</a> nơi họ phục vụ "Hrímil Frost-Heart", một con rồng đã ăn thịt một trong những người lùn <a href="../R/Rings_of_Power.md" title="Rings of Power">Những Chiếc Nhẫn Quyền Năng</a>. Sinh vật mạnh nhất của Hrímil, con rồng lạnh lùng "Vethúg Wintermind", là kẻ đã giết Vua <a href="../D/Dáin_I.md" title="Dáin I">Dáin I</a> và con trai hắn <a href="../F/Frór.md" title="Frór">Frór</a> trong Thikil-gundu, "The Steel Keep" (còn được gọi là <a class="mw-redirect" href="../D/Dáin&#39;s_Halls~64102.md" title="Dáin&#39;s Halls">Dáin's Halls</a>). Những con rồng lạnh trong trò chơi thường phóng ra hơi thở băng giá, mặc dù bản chất chính xác của "hơi thở lạnh"<sup id="cite_ref-collectedpoems_1-3" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> của những con rồng lạnh Tolkien vẫn chưa được biết đến.</dd></dl>
 

@@ -88,7 +88,7 @@ Thông qua con trai Glóin, ông cũng là ông nội của [Gimli Bạn của T
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gróin xuất hiện trong một đoạn hồi tưởng kéo dài mô tả <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a>, trong đó ông chiến đấu cùng với các con trai <a href="../_/Óin.md" title="Óin">Óin</a> và <a href="Glóin.md" title="Glóin">Glóin</a> của mình cũng như những người thân còn lại của <a href="../F/Farin.md" title="Farin">Farin</a>.</dd></dl>
 

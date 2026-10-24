@@ -29,7 +29,7 @@ Khu vực này đôi khi được đề cập đến trong phần bổ sung [Bó
 
 ## Lịch sử {#History}
 
-Tumag đã bị chinh phục bởi Imrazôr II của [Elorna](../D/Dominions_of_the_Seven.md#Elorna) vào năm [T.A.](Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_664&amp;action=edit&amp;redlink=1" title="Third Age 664 (page does not exist)">664</a> ngay sau Mag, mặc dù ông ta đã bị ám sát trước khi các lãnh thổ này được hợp nhất.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tumag đã bị chinh phục bởi Imrazôr II của [Elorna](../D/Dominions_of_the_Seven.md#Elorna) vào năm [T.A.](Third_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_664&amp;action=edit&amp;redlink=1" title="Third Age 664 (page does not exist)">664</a> ngay sau Mag, mặc dù ông đã bị ám sát trước khi các lãnh thổ này được hợp nhất.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Giữa [T.A.](Third_Age.md) [2850](Third_Age_2850.md) và [T.A.](Third_Age.md) [2890](Third_Age_2890.md), [Những người hầu của Ngọn lửa Thực sự](../S/Servants_of_the_Real_Fire.md) đã lên nắm quyền ở Mag và Tumag.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

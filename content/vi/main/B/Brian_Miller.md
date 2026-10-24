@@ -37,7 +37,7 @@ infobox:
 
 Miller từng là Giảng viên môn Ngữ văn Anh tại Cao đẳng Oriel và Cao đẳng Brasenose ở Oxford ở [1953](../_/1953.md)-[57](../_/1957.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong thời gian làm việc tại Oxford, Miller cũng đã trở thành một trong những B.Litt của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). (*Bachelor of Literature* hoặc *Bachelor of Letters*) sinh viên (bắt đầu từ [ngày 20 tháng 1](../_/20_January.md), [1952](../_/1952.md)). Trong bốn năm, anh đã làm luận án về [tiếng Anh trung cổ](../M/Middle_English.md) fabliau (truyện tranh tư sản) *Dame Sirith*, được Tolkien và <a class="new" href="https://tolkiengateway.net/w/index.php?title=G.V_Smithers&amp;action=edit&amp;redlink=1" title="G.V Smithers (page does not exist)">G.V Smithers</a> kiểm tra vào [ngày 2 tháng 3](../_/2_March.md), [1956](../_/1956.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Miller và Tolkien dường như vẫn tiếp tục giữ liên lạc. Trong [1971](../_/1971.md), ông ta đã gửi cho Tolkien một bản sao của C.T. Onions' *Modern English Syntax* (bản sửa đổi của Miller, xuất bản cùng năm). Tolkien đã trả lời Miller vào [ngày 21 tháng 6](../_/21_June.md), cảm ơn về món quà (xem thư *[Letter to Brian Miller](../L/Letter_to_Brian_Miller.md)*).
+Miller và Tolkien dường như vẫn tiếp tục giữ liên lạc. Trong [1971](../_/1971.md), ông đã gửi cho Tolkien một bản sao của C.T. Onions' *Modern English Syntax* (bản sửa đổi của Miller, xuất bản cùng năm). Tolkien đã trả lời Miller vào [ngày 21 tháng 6](../_/21_June.md), cảm ơn về món quà (xem thư *[Letter to Brian Miller](../L/Letter_to_Brian_Miller.md)*).
 
 <span></span>
 

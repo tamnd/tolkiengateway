@@ -53,7 +53,7 @@ infobox:
 
 Freca xây dựng một thành trì tại đầu nguồn sông Adorn, nhờ đó có được của cải và quyền lực, trong khi ít quan tâm đến nhà vua, bất chấp việc Helm nhiều lần triệu ông đến dự các cuộc hội nghị của mình.
 
-Vào năm [2754](../T/Third_Age_2754.md) của [Kỷ Đệ Tam](../T/Third_Age.md), Freca đến dự một cuộc hội nghị cùng đoàn tùy tùng đông đảo và đề nghị gả con gái của Helm cho con trai mình là [Wulf](../W/Wulf.md). Helm bác bỏ đề nghị của ông và gọi ông là đồ béo. Freca nổi giận, lăng mạ nhà vua, và sau cuộc hội nghị, Helm đánh Freca mạnh đến mức ông ta chết vì cú đánh ấy. Sau đó, Helm tuyên bố Wulf cùng toàn bộ những người thân cận của Freca là kẻ thù của mình, và đoàn tùy tùng bỏ trốn về phía tây.
+Vào năm [2754](../T/Third_Age_2754.md) của [Kỷ Đệ Tam](../T/Third_Age.md), Freca đến dự một cuộc hội nghị cùng đoàn tùy tùng đông đảo và đề nghị gả con gái của Helm cho con trai mình là [Wulf](../W/Wulf.md). Helm bác bỏ đề nghị của ông và gọi ông là đồ béo. Freca nổi giận, lăng mạ nhà vua, và sau cuộc hội nghị, Helm đánh Freca mạnh đến mức ông chết vì cú đánh ấy. Sau đó, Helm tuyên bố Wulf cùng toàn bộ những người thân cận của Freca là kẻ thù của mình, và đoàn tùy tùng bỏ trốn về phía tây.
 
 Rohan bị xâm lược từ phía đông vào năm [2758](../T/Third_Age_2758.md) của [Kỷ Đệ Tam](../T/Third_Age.md). Nhận thấy cơ hội, một đạo quân [Dunlending](../D/Dunlendings.md) xâm lược từ [Isengard](../I/Isengard.md) và vượt qua sông [Isen](../I/Isen.md). Thủ lĩnh của họ là Wulf, kẻ đã dồn Helm vào [Hornburg](../H/Hornburg.md), chiếm [Edoras](../E/Edoras.md), ngồi tại [Meduseld](../M/Meduseld.md) và tự xưng là vua. Mặc dù Helm và các con trai của ông đều chết trong [Mùa Đông Dài](../L/Long_Winter.md), người cháu gọi ông bằng cậu, [Fréaláf](Fréaláf.md), đã bất ngờ tấn công và giết chết Wulf, đồng thời giành lại Edoras.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -90,7 +90,7 @@ Việc Freca bị giết không bị người dân của ông lãng quên, và t
 		</li>
 </ul>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Một tấm thảm thêu mô tả Helm Hammerhand giết chóc Freca được tìm thấy ở <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 

@@ -68,7 +68,7 @@ infobox:
 
 Fengel là con trai thứ ba và duy nhất còn sống của [Folcwine](Folcwine.md), và trở thành vua sau cái chết của cha mình vào năm [T.A.](../T/Third_Age.md) [2903](../T/Third_Age_2903.md).
 
-Hai anh trai của Fengel, [Folcred](Folcred.md) và [Fastred](<Fastred_(son_of_Folcwine).md>), đã bị giết trong thái ấp [South Gondor](../S/South_Gondor.md) khi chiến đấu vì [Gondor](../G/Gondor.md), và kết quả là Fengel lớn lên khá hư hỏng. Khi trưởng thành, ông ta nổi tiếng vì lòng tham và tình yêu vàng.
+Hai anh trai của Fengel, [Folcred](Folcred.md) và [Fastred](<Fastred_(son_of_Folcwine).md>), đã bị giết trong thái ấp [South Gondor](../S/South_Gondor.md) khi chiến đấu vì [Gondor](../G/Gondor.md), và kết quả là Fengel lớn lên khá hư hỏng. Khi trưởng thành, ông nổi tiếng vì lòng tham và tình yêu vàng.
 
 Con trai ông [Thengel](../T/Thengel.md) bỏ đi Rohan vì bất đồng với cha, thay vào đó sống với gia đình [vợ](../M/Morwen_Steelsheen.md) ở [Gondor](../G/Gondor.md).
 
@@ -94,7 +94,7 @@ Sau hơn 50 năm cai trị, Fengel qua đời vào năm [T.A.](../T/Third_Age.md
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vào mùa đông cuối cùng trong triều đại của ông, Vua Fengel đang đi săn ở phía bắc <a href="../E/Entwade.md" title="Entwade">Entwade</a> thì một người phụ nữ lớn tuổi tên là Wyrgende tình cờ bước vào trại của ông. Fengel đưa cô đi vào màn đêm đen tối và ngày hôm sau người ta tìm thấy cô chết cóng dưới chân một tảng đá cao, nơi cô đã khắc một lời nguyền chống lại ông. Vua Fengel vô cùng tức giận và ra lệnh đốt xác Wyrgende và phá hủy hòn đá, nhưng không người nào trong công ty của ông có thể hơn bà, và mọi chiếc búa và cuốc mà họ đặt vào đá đều vỡ tan khi tiếp xúc. Fengel tự mình dùng kiếm tấn công hòn đá cho đến khi lưỡi kiếm vỡ tan và một mảnh vỡ xuyên qua đùi ông. Vết thương mưng mủ, Vua Fengel chết vì máu nhiễm độc vào ngày đầu xuân.</dd></dl>
 

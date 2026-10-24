@@ -42,13 +42,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Ulrad là bạn của kẻ sống ngoài vòng pháp luật, người đã bắn một mũi tên vào Túrin nhưng bị giết vì mũi tên của hắn bắn trượt. Túrin bị Ulrad thách thức nhưng phải nhường bước khi Túrin tiếp cận ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ulrad là bạn của kẻ sống ngoài vòng pháp luật, người đã bắn một mũi tên vào Túrin nhưng bị giết vì mũi tên của hắn bắn trượt. Túrin bị Ulrad thách thức nhưng phải nhường bước khi Túrin tiếp cận ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Sau khi Túrin trở thành thủ lĩnh của những kẻ ngoài vòng pháp luật bằng cách vô tình giết chết [Forweg](../F/Forweg.md), thủ lĩnh cũ, Ulrad vẫn là một trong những người theo hắn. Khi [Beleg](../B/Beleg.md) bị bắt khi Túrin đi vắng, Ulrad tin rằng Beleg là gián điệp và sau đó cầm một ngọn lửa rực lửa khi những kẻ ngoài vòng pháp luật khác chuẩn bị giết Tiên, mặc dù Túrin việc quay lại đã ngăn cản họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Ulrad du hành cùng những kẻ sống ngoài vòng pháp luật khác tới [Bar-en-Danwedh](../B/Bar-en-Danwedh.md). Mặc dù ông ta là người đã lục soát bao tải của [Mîm](../M/Mîm.md) và không tìm thấy gì, nhưng sau đó ông ta vẫn nghi ngờ hỏi Tiểu lùn tại sao ông ta lại bảo vệ chiếc bao tải như vậy. Mîm trả lời ông ta một cách giận dữ và Ulrad rùng mình trước lời nói này, đồng thời Túrin quở trách kẻ ngoài vòng pháp luật nhút nhát vì luôn nói ra suy nghĩ của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ulrad du hành cùng những kẻ sống ngoài vòng pháp luật khác tới [Bar-en-Danwedh](../B/Bar-en-Danwedh.md). Mặc dù ông là người đã lục soát bao tải của [Mîm](../M/Mîm.md) và không tìm thấy gì, nhưng sau đó ông vẫn nghi ngờ hỏi Tiểu lùn tại sao ông lại bảo vệ chiếc bao tải như vậy. Mîm trả lời ông một cách giận dữ và Ulrad rùng mình trước lời nói này, đồng thời Túrin quở trách kẻ ngoài vòng pháp luật nhút nhát vì luôn nói ra suy nghĩ của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Số phận của Ulrad chưa được biết chắc chắn, nhưng có khả năng ông ta đã bị lạc trong thành trì đó khi nó bị [Orc](../O/Orcs.md) vượt qua.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Số phận của Ulrad chưa được biết chắc chắn, nhưng có khả năng ông đã bị lạc trong thành trì đó khi nó bị [Orc](../O/Orcs.md) vượt qua.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

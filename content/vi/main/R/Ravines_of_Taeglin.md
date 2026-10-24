@@ -17,7 +17,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Death_of_Glaurung.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/31/Alan_Lee_-_The_Death_of_Glaurung.jpg/250px-Alan_Lee_-_The_Death_of_Glaurung.jpg" decoding="async" loading="lazy" width="250" height="176" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/Alan_Lee_-_The_Death_of_Glaurung.jpg/375px-Alan_Lee_-_The_Death_of_Glaurung.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/31/Alan_Lee_-_The_Death_of_Glaurung.jpg/500px-Alan_Lee_-_The_Death_of_Glaurung.jpg 2x" data-file-width="702" data-file-height="495"/></a><figcaption>&#34;The Death of Glaurung&#34; by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
-**Các khe núi của Taeglin** là các khe núi mà Sông [Taeglin](../T/Taeglin.md) đổ vào khi nó men theo mái hiên của [Khu rừng Brethil](../F/Forest_of_Brethil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chúng được [Túrin Turambar](../T/Túrin.md) sử dụng để trèo vào dưới bụng [Glaurung](../G/Glaurung.md) và giết ông ta.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Các khe núi của Taeglin** là các khe núi mà Sông [Taeglin](../T/Taeglin.md) đổ vào khi nó men theo mái hiên của [Khu rừng Brethil](../F/Forest_of_Brethil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chúng được [Túrin Turambar](../T/Túrin.md) sử dụng để trèo vào dưới bụng [Glaurung](../G/Glaurung.md) và giết ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

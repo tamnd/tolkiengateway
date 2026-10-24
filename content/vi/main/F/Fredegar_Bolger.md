@@ -142,7 +142,7 @@ Vai trò của ông vẫn để lại một điểm bất thường nhỏ trong 
 
 <dl><dd>Một <i>Fredregar</i> Bolger sống ở số 10, <a href="../B/Bagshot_Row.md" title="Bagshot Row">Bagshot Row</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Fredegar là một nhân vật không thể chơi được và có thể tìm thấy tại <a href="../C/Crickhollow.md" title="Crickhollow">Crickhollow</a>. Người chơi gặp ông trong Quyển I: "Khuấy động trong Bóng Tối", nơi người chơi lần đầu tiên tìm hiểu về Frodo có <a href="../T/The_One_Ring.md" title="The One Ring"> Nhẫn Chúa</a>.</dd></dl>
 

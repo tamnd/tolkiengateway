@@ -196,7 +196,7 @@ Nhân vật Tídwald, xuất hiện trong bài thơ "[The Homecoming of Beorhtno
 
 <dl><dd>Barrow-wight (đừng nhầm với loại <a href="../G/Ghosts.md" title="Ghosts">ma</a> <i>wights</i> xuất hiện trong cùng một trò chơi) là xác của Con Người bị linh hồn ma quỷ hoạt động.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></dd></dl>
 
-<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd><a href="../S/Sambrog.md" title="Sambrog">Sambrog</a> là Wight-lord của Barrow-downs. Barrow Wights không chỉ giới hạn ở Barrow Downs mà còn trỗi dậy ở nhiều khu vực của Trung Địa, chủ yếu xung quanh tàn tích mục nát của Arnor. Những xác sống có thể được tìm thấy đang ám ảnh những góc tối nhất của Mirkwood cho đến cả tàn tích Tiên chấm Ered Luin. Một nhóm chiến binh ở Dunland thậm chí còn tiến xa hơn khi cố gắng xây dựng đội quân xác sống của riêng mình.</dd></dl>
 

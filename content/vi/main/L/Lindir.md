@@ -71,7 +71,7 @@ Tên *Lindir* dường như được tạo thành từ *[lind](Lind.md)* ("giai 
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Lindir có thể được tìm thấy ở <a href="../H/Hall_of_Fire.md" title="Hall of Fire">Hall of Fire</a> ở <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>. Ông đang trò chuyện với <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> và cả hai đề nghị người chơi tham gia cùng họ trong một <a href="../R/Riddle-game.md" title="Riddle-game">Trò chơi giải đố</a>.</dd></dl>
 

@@ -64,7 +64,7 @@ Con Người đầu tiên cũng thức tỉnh ở vùng viễn đông, nơi họ
 
 Trong [Thứ hai](../S/Second_Age.md) hoặc [Kỷ Đệ Tam](../T/Third_Age.md) quân [Blue Pháp sư](../B/Blue_Wizards.md) đã đi vào vùng sâu của Rhûn, không bao giờ quay trở lại.<sup id="cite_ref-PMLast_9-0" class="reference"><a href="#cite_note-PMLast-9">[9]</a></sup> [Saruman](../S/Saruman.md) có thể đã tham gia cùng họ trước khi quay trở lại và chiếm đóng [Isengard](../I/Isengard.md). Trong [Hòa bình Cảnh giác](../W/Watchful_Peace.md), [Sauron](../S/Sauron.md) đã ẩn náu ở Rhûn trong 400 năm và tập hợp các Easterlings để phục vụ mình; quân Xanh Pháp sư không khám phá được thành trì phía đông của hắn.<sup id="cite_ref-PMLast_9-1" class="reference"><a href="#cite_note-PMLast-9">[9]</a></sup>
 
-Phần lớn phía tây của Rhûn đã bị Gondor chinh phục hai lần, dưới thời các vị vua [Rómendacil I](Rómendacil_I.md) và [Rómendacil II](Rómendacil_II.md), nhưng người Númenor chưa bao giờ có toàn quyền kiểm soát nó. Tây Rhûn cuối cùng đã bị khuất phục trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) dưới sự chỉ huy của [Vua Elessar](../A/Aragorn.md) và con trai ông ta [Eldarion](../E/Eldarion.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Phần lớn phía tây của Rhûn đã bị Gondor chinh phục hai lần, dưới thời các vị vua [Rómendacil I](Rómendacil_I.md) và [Rómendacil II](Rómendacil_II.md), nhưng người Númenor chưa bao giờ có toàn quyền kiểm soát nó. Tây Rhûn cuối cùng đã bị khuất phục trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) dưới sự chỉ huy của [Vua Elessar](../A/Aragorn.md) và con trai ông [Eldarion](../E/Eldarion.md).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## Địa lý {#Geography}
 
@@ -110,7 +110,7 @@ Vì phương hướng chung của <a class="mw-redirect mw-disambig" href="../W/
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Vào <a href="../_/25_March.md" title="25 March">25 tháng 3</a>, ngày mà <a href="../T/The_One_Ring.md" title="The One Ring"> Nhẫn Chúa</a> bị phá hủy, một tai họa không xác định đã xảy ra ở Rhûn. Trong những tuần sau đó, dòng người tị nạn bắt đầu đổ về <a href="../I/Iron_Hills.md" title="Iron Hills">Dãy Đồi Sắt</a> và vùng đất <a href="../D/Dale.md" title="Dale">Dale</a>, mặc dù những nơi đó đã tiến hành chiến tranh chống lại <a href="../E/Easterlings.md" title="Easterlings">Người phương Đông</a> chưa đầy một tháng trước đó. Những người tị nạn sẵn sàng tận dụng cơ hội của mình để chống lại thành kiến ​​và sự thù địch bề ngoài nhắm vào họ từ những người đàn ông và người lùn ở những vùng đất đó, nhưng không ai trong số họ nói chi tiết về chính xác những gì đã xảy ra ở Rhûn, ngoài việc họ hoàn toàn không thể quay trở lại. Tính đến năm 2023, bản thân Rhûn vẫn chưa xuất hiện trong trò chơi.</dd></dl>
 

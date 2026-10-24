@@ -37,7 +37,7 @@ infobox:
 
 **Strider** là một [con ngựa](../P/Ponies.md) được [Frodo Baggins](../F/Frodo_Baggins.md) mua lại vào [Minas Tirith](../M/Minas_Tirith.md). Ông đặt tên nó là "[Strider](Strider.md)" theo biệt danh của chính [Aragorn](../A/Aragorn.md) từ [Eriador](../E/Eriador.md).
 
-Strider cưỡi ngựa cùng Frodo quay trở lại [ Shire](../T/The_Shire.md) ở cuối [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Hai năm sau, ông ta chở ông ta về phía tây trong [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) tới [Cảng Xám](../G/Grey_Havens.md) trên bờ biển [Đại Hải](../B/Belegaer.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Strider cưỡi ngựa cùng Frodo quay trở lại [ Shire](../T/The_Shire.md) ở cuối [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Hai năm sau, ông chở ông về phía tây trong [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) tới [Cảng Xám](../G/Grey_Havens.md) trên bờ biển [Đại Hải](../B/Belegaer.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

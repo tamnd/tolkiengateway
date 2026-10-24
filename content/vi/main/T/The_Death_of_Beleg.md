@@ -57,13 +57,13 @@ Khi [Beleg](../B/Beleg.md) không thể tìm thấy thi thể của [Túrin](Tú
 
 Ở đỉnh cao của [Taur-nu-Fuin](<Taur-nu-Fuin_(Dorthonion).md>) và [Vượt qua của Anach](../P/Pass_of_Anach.md), ông đã bắt gặp hình dạng thu nhỏ của một [Tiên](../E/Elves.md). [Gwindor](../G/Gwindor.md) chính là người vừa mới thoát khỏi hầm mỏ tà ác của [Angband](../A/Angband.md) – chính Tiên đã chiến đấu trong [Trận chiến nước mắt không đếm được](../N/Nirnaeth_Arnoediad.md) và đã bị bắt ngay trước cửa Morgoth.
 
-Ở đó Beleg và Gwindor chứng kiến ​​một đám Orc tràn về phía bắc và ở giữa chúng là Túrin, bị xích và đánh đòn. Những người lính ác đã cắm trại, được canh giữ bởi bầy sói trong một thung lũng sâu; và Beleg âm thầm cầm cây cung vĩ đại của mình bắn chết từng con sói để chúng lẻn vào trung tâm trại. Tại đây, hắn đã bắt giữ Túrin và đưa ông ta đi.
+Ở đó Beleg và Gwindor chứng kiến ​​một đám Orc tràn về phía bắc và ở giữa chúng là Túrin, bị xích và đánh đòn. Những người lính ác đã cắm trại, được canh giữ bởi bầy sói trong một thung lũng sâu; và Beleg âm thầm cầm cây cung vĩ đại của mình bắn chết từng con sói để chúng lẻn vào trung tâm trại. Tại đây, hắn đã bắt giữ Túrin và đưa ông đi.
 
 Bây giờ Beleg cắt đứt mối liên kết của Túrin bằng thanh kiếm [Anglachel](../A/Anglachel.md); nhưng bất hạnh đã ập đến, lưỡi dao trượt và đâm vào chân Túrin. Trong cơn tức giận, tưởng mình sẽ bị lũ Orc hành hạ, Túrin lao tới và nhanh chóng tóm lấy Anglachel, giết chết kẻ tấn công mình, nhưng quá muộn để nhận ra đó là bạn mình Beleg.
 
 Ở đó Túrin đứng sững như đá; vì bạn của ông đã chết trước mặt ông.
 
-Ông ta chỉ được Gwindor đánh thức để giúp chôn cất Beleg, và cây cung hùng mạnh [Belthronding](../B/Belthronding.md) được đặt trên ngực ông ta; nhưng bóng tối Anglachel Túrin đã tự mình đi báo thù Morgoth.
+Ông chỉ được Gwindor đánh thức để giúp chôn cất Beleg, và cây cung hùng mạnh [Belthronding](../B/Belthronding.md) được đặt trên ngực ông; nhưng bóng tối Anglachel Túrin đã tự mình đi báo thù Morgoth.
 
 Sau đó Gwindor mang theo Túrin nỗi đau buồn của ông và họ qua đời về phía tây đến nơi [Eithel Ivrin](../E/Eithel_Ivrin.md) thanh bình và linh thiêng, nơi Túrin rũ bỏ nỗi đau buồn và được chữa lành chứng điên loạn của mình. Ở đó, anh đã hát [Laer Cú Beleg](../L/Laer_Cú_Beleg.md), [Bài hát của cây cung vĩ đại](../S/Song_of_the_Great_Bow.md), để tưởng nhớ người bạn của mình.
 

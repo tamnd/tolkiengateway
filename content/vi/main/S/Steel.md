@@ -22,7 +22,7 @@ categories:
 
 <dl><dd>Thép, còn được gọi là <i>Borang</i> (<a href="Sindarin.md" title="Sindarin">S.</a> “Sắt bền vững”), được giải thích về thành phần trong cuốn sách này. Nó là hợp kim có <i>morasarn</i> (cacbon) và một lượng nhỏ một hoặc nhiều kim loại lẻ. <a href="../M/Mírdain.md" title="Mírdain">mírdain</a> được ghi nhận là vật liệu xấu và thiếu sót, nhưng vẫn tận dụng nó nhiều.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Các chuyên gia thăm dò có thể rèn phôi thép bằng cách sử dụng thỏi sắt và cục than.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

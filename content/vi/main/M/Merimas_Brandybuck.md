@@ -64,7 +64,7 @@ Phần tử đầu tiên, *Meri* cũng xuất hiện trong *[Meriadoc](Meriadoc_
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Merimas Brandybuck có thể được tìm thấy ở <a href="../B/Buckland.md" title="Buckland">Buckland</a>. Ông đóng vai một người bán đồ thủ công trong trò chơi và không có vai trò gì trong cốt truyện.</dd></dl>
 

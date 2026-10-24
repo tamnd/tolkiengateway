@@ -46,7 +46,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào [13 tháng 1](../_/13_January.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), sau khi Gandalf đối đầu với ông ta, các chiến binh dưới quyền ông ta đã nhảy vào Hiệp hội với thủ lĩnh của họ. Mặc dù cái gọi là "Chó săn [Sauron](../S/Sauron.md)" đã bị giết, nhưng không rõ hắn bị giết bởi ai, vì trong cuộc tấn công, [Aragorn](../A/Aragorn.md) đã đâm "một thủ lĩnh to lớn", trong khi [Boromir](../B/Boromir.md) chặt đầu một thủ lĩnh khác và "trái tim của một thủ lĩnh sói vĩ đại" đã bị xuyên thủng bởi mũi tên cuối cùng của [Legolas](../L/Legolas.md), bị lửa đốt cháy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [13 tháng 1](../_/13_January.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), sau khi Gandalf đối đầu với ông, các chiến binh dưới quyền ông đã nhảy vào Hiệp hội với thủ lĩnh của họ. Mặc dù cái gọi là "Chó săn [Sauron](../S/Sauron.md)" đã bị giết, nhưng không rõ hắn bị giết bởi ai, vì trong cuộc tấn công, [Aragorn](../A/Aragorn.md) đã đâm "một thủ lĩnh to lớn", trong khi [Boromir](../B/Boromir.md) chặt đầu một thủ lĩnh khác và "trái tim của một thủ lĩnh sói vĩ đại" đã bị xuyên thủng bởi mũi tên cuối cùng của [Legolas](../L/Legolas.md), bị lửa đốt cháy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

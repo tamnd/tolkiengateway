@@ -92,7 +92,7 @@ Với năm trăm cung thủ của người dân, Derufin và anh trai [Duilin](<
 
 <dl><dd>Một thẻ từ <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i> xác định một trong những người lính Gondor tại <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> là Derufin.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Derufin và <a href="Duilin_(son_of_Duinhir).md" title="Duilin (son of Duinhir)">anh trai</a> là những người đam mê săn bắn. Hai anh em cùng người chơi tiến vào <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> và nhóm đã thành công trong việc gây sát thương <a href="../G/Grond_(battering_ram).md" title="Grond (battering ram)">Grond</a> trước khi chạm trán <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a> và buộc phải rút lui. Cả hai anh em đều chết trong <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Trận chiến trên Cánh đồng Pelennor</a> khi dẫn mûmakil ra khỏi người chơi.</dd></dl>
 

@@ -54,7 +54,7 @@ Gundahar là người đứng đầu [Gia tộc Bolger](../B/Bolger_Family~66348
 
 J.R.R. Tolkien lưu ý rằng gia đình Bolger có phong tục sử dụng những cái tên có âm thanh cao và ông đã biến chúng thành những cái tên cũ có nguồn gốc Frankish và Gothic.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-<i><a class="extiw" href="http://en.wikipedia.org/wiki/Gunther" title="wikipedia:Gunther">Gundahar</a></i> là tên tiếng Đức cổ, bắt nguồn từ các yếu tố *gunda* "chiến tranh" và *heri* "quân đội". Đây là tên của một vị vua Burgundy bán huyền thoại ở thế kỷ thứ 5. Ông ta xuất hiện trong câu chuyện thời trung cổ của Đức *Nibelungenlied*.
+<i><a class="extiw" href="http://en.wikipedia.org/wiki/Gunther" title="wikipedia:Gunther">Gundahar</a></i> là tên tiếng Đức cổ, bắt nguồn từ các yếu tố *gunda* "chiến tranh" và *heri* "quân đội". Đây là tên của một vị vua Burgundy bán huyền thoại ở thế kỷ thứ 5. Ông xuất hiện trong câu chuyện thời trung cổ của Đức *Nibelungenlied*.
 
 <span></span>
 

@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Cái chết của [Tar-Atanamir](../T/Tar-Atanamir.md), người được mệnh danh là "Không muốn" vì ông ta là [Vua](../K/Kings_of_Númenor.md) đầu tiên từ chối hy sinh mạng sống hoặc giao nộp [Quyền trượng](Sceptre_of_Númenor.md) trước khi chết.<sup id="cite_ref-Atanamir_1-0" class="reference"><a href="#cite_note-Atanamir-1">[1]</a></sup>
+- Cái chết của [Tar-Atanamir](../T/Tar-Atanamir.md), người được mệnh danh là "Không muốn" vì ông là [Vua](../K/Kings_of_Númenor.md) đầu tiên từ chối hy sinh mạng sống hoặc giao nộp [Quyền trượng](Sceptre_of_Númenor.md) trước khi chết.<sup id="cite_ref-Atanamir_1-0" class="reference"><a href="#cite_note-Atanamir-1">[1]</a></sup>
 - [Tar-Ancalimon](../T/Tar-Ancalimon.md), con trai của Tar-Atanamir, lấy Vương trượng.<sup id="cite_ref-Ancalimon_2-0" class="reference"><a href="#cite_note-Ancalimon-2">[2]</a></sup>
 - Cuộc nổi dậy và chia rẽ của [người Númenor](../N/Númenóreans.md) bắt đầu.<sup id="cite_ref-Ancalimon_2-1" class="reference"><a href="#cite_note-Ancalimon-2">[2]</a></sup><sup id="cite_ref-SA_3-0" class="reference"><a href="#cite_note-SA-3">[3]</a></sup>
 

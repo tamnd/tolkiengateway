@@ -83,7 +83,7 @@ Hậu tố *-ton*, thường gặp trong các địa danh tiếng Anh, có nghĩ
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Hobbiton.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3f/The_Lord_of_the_Rings_Online_-_Hobbiton.jpg/300px-The_Lord_of_the_Rings_Online_-_Hobbiton.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3f/The_Lord_of_the_Rings_Online_-_Hobbiton.jpg/450px-The_Lord_of_the_Rings_Online_-_Hobbiton.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3f/The_Lord_of_the_Rings_Online_-_Hobbiton.jpg/600px-The_Lord_of_the_Rings_Online_-_Hobbiton.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Hobbiton in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Hobbiton nằm gần trung tâm khu vực Shire trong trò chơi và là điểm gặp gỡ chính của du khách trên đường.</dd></dl>
 

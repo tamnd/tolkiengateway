@@ -46,7 +46,7 @@ images:
 
 ## Tóm tắt {#Synopsis}
 
-[Eriol](../E/Eriol.md) hỏi về việc thả [Melko](../M/Melko.md), và [Meril](../M/Meril-i-Turinqi.md) giải thích rằng việc này xảy ra vào gần cuối thế kỷ thứ ba khi anh bị giam cầm. Vào thời điểm đó, [Manwë](../M/Manwë.md) và [diều hâu](../H/Hawks.md) của anh đã nhìn thấy [Tiên tộc](../E/Elves.md) đầu tiên - khi người dân [Valinor](../V/Valinor.md) biết tin họ đã reo lên vui mừng *I Eldar tulier* - " Eldar đã đến". Manwë quyết định sớm tháo xích Melko, tuy nhiên vẫn để lại xiềng xích và xiềng xích khỏi *[tilkal](Tilkal.md)* trên người ông ta.
+[Eriol](../E/Eriol.md) hỏi về việc thả [Melko](../M/Melko.md), và [Meril](../M/Meril-i-Turinqi.md) giải thích rằng việc này xảy ra vào gần cuối thế kỷ thứ ba khi anh bị giam cầm. Vào thời điểm đó, [Manwë](../M/Manwë.md) và [diều hâu](../H/Hawks.md) của anh đã nhìn thấy [Tiên tộc](../E/Elves.md) đầu tiên - khi người dân [Valinor](../V/Valinor.md) biết tin họ đã reo lên vui mừng *I Eldar tulier* - " Eldar đã đến". Manwë quyết định sớm tháo xích Melko, tuy nhiên vẫn để lại xiềng xích và xiềng xích khỏi *[tilkal](Tilkal.md)* trên người ông.
 
 [Nornorë](../N/Nornorë.md) đưa ba thủ lĩnh của Tiên tộc đến Valinor: đây là [Isil Inwë](../I/Ingwë.md), cai trị [Teleri](../V/Vanyar.md); [Finwë Nólomë](../F/Finwë.md), cai trị [Noldoli](../N/Noldoli.md); và [Tinwë Linto](Thingol.md), cai trị [Solosimpi](../S/Solosimpi.md). Meril giải thích cô là hậu duệ của Inwë, trong khi Finwë là cha của [Turgon](Turgon.md), và Tinwë sau đó ở với [Wendelin](../M/Melian.md) ở [Hisilómë](../H/Hithlum.md).
 

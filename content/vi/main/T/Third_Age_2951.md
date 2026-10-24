@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Sauron](../S/Sauron.md) tuyên bố công khai và tập hợp quyền lực tại [Mordor](../M/Mordor.md). Ông ta bắt đầu xây dựng lại [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-stew_2-0" class="reference"><a href="#cite_note-stew-2">[2]</a></sup>
+- [Sauron](../S/Sauron.md) tuyên bố công khai và tập hợp quyền lực tại [Mordor](../M/Mordor.md). Ông bắt đầu xây dựng lại [Barad-dûr](../B/Barad-dûr.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-stew_2-0" class="reference"><a href="#cite_note-stew-2">[2]</a></sup>
 - Số [người Gondor](../G/Gondorians.md) còn lại của [Ithilien](../I/Ithilien.md) bắt đầu bỏ chạy.<sup id="cite_ref-stew_2-1" class="reference"><a href="#cite_note-stew-2">[2]</a></sup>
 - [Gollum](../G/Gollum.md), người đang ở ngoại ô [Mirkwood](../M/Mirkwood.md), có lẽ đang trên đường đến [Eriador](../E/Eriador.md), cảm nhận được tiếng gọi của [Bóng Tối](../S/Shadow.md) từ phương Nam<sup id="cite_ref-shadow_3-0" class="reference"><a href="#cite_note-shadow-3">[3]</a></sup> và quay về hướng [Mordor](../M/Mordor.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 - [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md) mất dấu vết của Gollum. [Gandalf](../G/Gandalf.md) cũng bỏ bê chuyện đó nhiều năm, bận rộn với những suy nghĩ khác.<sup id="cite_ref-shadow_3-1" class="reference"><a href="#cite_note-shadow-3">[3]</a></sup>

@@ -37,7 +37,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Không có ghi chép trực tiếp nào về Ferumbras I nhưng rõ ràng ông ta là trùng tên với [Ferumbras II](Ferumbras_Took_II.md).<sup id="cite_ref-App|Took_1-0" class="reference"><a href="#cite_note-App|Took-1">[1]</a></sup> Triều đại của Ferumbras I Thain nằm giữa thời kỳ đầu của dòng Took của người Thains vào [S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md) và triều đại của [Isengrim II](../I/Isengrim_Took_II.md), bắt đầu vào [S.R.](../S/Shire_Reckoning.md) [1083](../T/Third_Age_2683.md), sau đó không có khoảng trống nào trong Took gia phả của gia đình.<sup id="cite_ref-App|B2_2-0" class="reference"><a href="#cite_note-App|B2-2">[2]</a></sup>
+Không có ghi chép trực tiếp nào về Ferumbras I nhưng rõ ràng ông là trùng tên với [Ferumbras II](Ferumbras_Took_II.md).<sup id="cite_ref-App|Took_1-0" class="reference"><a href="#cite_note-App|Took-1">[1]</a></sup> Triều đại của Ferumbras I Thain nằm giữa thời kỳ đầu của dòng Took của người Thains vào [S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md) và triều đại của [Isengrim II](../I/Isengrim_Took_II.md), bắt đầu vào [S.R.](../S/Shire_Reckoning.md) [1083](../T/Third_Age_2683.md), sau đó không có khoảng trống nào trong Took gia phả của gia đình.<sup id="cite_ref-App|B2_2-0" class="reference"><a href="#cite_note-App|B2-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

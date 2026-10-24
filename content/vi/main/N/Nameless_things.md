@@ -48,7 +48,7 @@ Gandalf tuyên bố rằng những thứ không tên này trong Arda đã cũ h�
 
 Những thực thể như vậy được cho là "nhầy nhụa hơn cá" và thích sống trong bóng tối. Người ta biết rằng họ đã sinh sống trong các hang động sâu trong lòng núi từ thời [Ngày của Người cao tuổi](../E/Elder_Days.md). Khi [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) đào quanh [Thị trấn yêu tinh](../G/Goblin-town.md), đào những đường hầm mới, mở rộng và nối những đường hầm đã tồn tại, những người chủ ban đầu của chúng đã rút lui xuống vực sâu nhất và ẩn nấp ngoài tầm hiểu biết của họ.<sup id="cite_ref-Riddles_3-0" class="reference"><a href="#cite_note-Riddles-3">[2]</a></sup>
 
-Theo Gandalf, [Tai họa của Durin](../D/Durin's_Bane.md) đã học cách định hướng các đường hầm của những thứ không tên trong thời gian dài ở [Moria](../M/Moria.md). Sau khi cả hai rơi từ [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) xuống một hồ nước ngầm, [Balrog](../B/Balrogs.md) đã bỏ trốn qua những đường hầm này. Gandalf theo đuổi nó chặt chẽ, tin rằng kiến ​​thức của nó về đường hầm là hy vọng trốn thoát duy nhất của ông ta. Cuộc rượt đuổi của họ đã dẫn họ đến chân [Cầu thang vô tận](../E/Endless_Stair.md), nơi họ leo lên và cuối cùng lên đến đỉnh [Zirakzigil](../C/Celebdil.md).<sup id="cite_ref-tWR_1-2" class="reference"><a href="#cite_note-tWR-1">[1]</a></sup>
+Theo Gandalf, [Tai họa của Durin](../D/Durin's_Bane.md) đã học cách định hướng các đường hầm của những thứ không tên trong thời gian dài ở [Moria](../M/Moria.md). Sau khi cả hai rơi từ [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) xuống một hồ nước ngầm, [Balrog](../B/Balrogs.md) đã bỏ trốn qua những đường hầm này. Gandalf theo đuổi nó chặt chẽ, tin rằng kiến ​​thức của nó về đường hầm là hy vọng trốn thoát duy nhất của ông. Cuộc rượt đuổi của họ đã dẫn họ đến chân [Cầu thang vô tận](../E/Endless_Stair.md), nơi họ leo lên và cuối cùng lên đến đỉnh [Zirakzigil](../C/Celebdil.md).<sup id="cite_ref-tWR_1-2" class="reference"><a href="#cite_note-tWR-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -95,7 +95,7 @@ Todd Jensen gợi ý rằng những thứ không tên có thể được lấy c
 
 ### Trò chơi {#Games}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Kẻ Vô Danh là loại sinh vật được phân loại là "Ác ma cổ đại". Chúng có nhiều hình dạng khác nhau, nhưng hầu hết đều có hình người, chỉ là không có mắt hoặc không có đầu. Chúng có thể được tìm thấy trong <a href="../D/Drúadan_Forest.md" title="Drúadan Forest">Rừng Drúadan</a>, đã ra khỏi <a href="../W/White_Mountains.md" title="White Mountains">Dãy Núi Trắng</a> trong <a href="../D/Dawnless_Day.md" title="Dawnless Day">Ngày không bình minh</a>; và bên dưới <a href="../I/Iron_Hills.md" title="Iron Hills">Dãy Đồi Sắt</a>, nơi một đám quái vật của <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a> đã bị phong ấn bởi Người Lùn từ lâu. Tuy nhiên, nơi tập trung nhiều nhất Kẻ Vô Danh lại nằm trong Nền tảng Đá, tầng sâu nhất của Moria. <a href="../W/Watcher_in_the_Water.md" title="Watcher in the Water">Người canh gác dưới nước</a> cũng được phân loại là Kẻ Vô Danh, cũng như "Helchgam", một sinh vật có xúc tu khác, được tìm thấy trong cống rãnh của <a href="../C/Carn_Dûm.md" title="Carn Dûm">Carn Dûm</a>.</dd></dl>
 

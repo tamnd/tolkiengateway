@@ -174,7 +174,7 @@ Tuy nhiên, Tolkien đã nhiều lần gặp những người Gamgee ngoài đ�
 
 <dl><dd>Gaffer xuất hiện hai lần; lúc đầu, ông uống rượu ở Green Rồng, nhưng trong đêm, ông thông báo cho Frodo về Ma Nhẫn đang rình rập Shire. Ông được lồng tiếng bởi <a href="../J/Jim_Piddock.md" title="Jim Piddock">Jim Piddock</a> không được công nhận.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Người ta thấy Hamfast Gamgee đang làm việc trong khu vườn của ông ngay bên ngoài Bag End. Ông chỉ đưa ra một nhiệm vụ Shire theo khu vực nhưng có nhiều câu chuyện liên quan hơn trong các lễ hội theo mùa khác nhau.</dd></dl>
 

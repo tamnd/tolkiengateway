@@ -34,7 +34,7 @@ Nhiều năm sau, [Hiệp hội](../F/Fellowship_of_the_Ring.md) cắm trại qu
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Twenty-First_Hall.jpeg.md"><img src="https://tolkiengateway.net/w/images/4/4d/The_Lord_of_the_Rings_Online_-_Twenty-First_Hall.jpeg" decoding="async" loading="lazy" width="284" height="177" class="mw-file-element" data-file-width="284" data-file-height="177"/></a><figcaption>The Twenty-First Hall in <i>Lord of the Rings Online</i></figcaption></figure>
 
-<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Đại sảnh thứ Hai mươi mốt là căn cứ hoạt động trung tâm của Iron Garrison.</dd></dl>
 

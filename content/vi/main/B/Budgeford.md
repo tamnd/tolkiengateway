@@ -47,7 +47,7 @@ Cái tên 'ford' trong tên của nó dường như bắt nguồn từ một for
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Budgeford.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/33/The_Lord_of_the_Rings_Online_-_Budgeford.jpg/300px-The_Lord_of_the_Rings_Online_-_Budgeford.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/33/The_Lord_of_the_Rings_Online_-_Budgeford.jpg/450px-The_Lord_of_the_Rings_Online_-_Budgeford.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/33/The_Lord_of_the_Rings_Online_-_Budgeford.jpg/600px-The_Lord_of_the_Rings_Online_-_Budgeford.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Budgeford in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Budgeford nằm ngay trên mặt nước là cộng đồng nông dân lớn.</dd></dl>
 

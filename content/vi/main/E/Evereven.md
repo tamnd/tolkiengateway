@@ -26,7 +26,7 @@ Cái tên này dường như ám chỉ đến vùng đất [Valinor](../V/Valino
 
 ## Ý nghĩa {#Meaning}
 
-Theo ý tưởng ban đầu, Eärendil đã thực hiện một hành trình hoành tráng mang ông ta theo một chu kỳ từ Evereven đến [Evernight](Evernight.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Evernoon&amp;action=edit&amp;redlink=1" title="Evernoon (page does not exist)">Evernoon</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Evermorn&amp;action=edit&amp;redlink=1" title="Evermorn (page does not exist)">Evermorn</a>. Phần lớn nội dung này đã bị mất trong hình thức cuối cùng của bài hát, do đó, mặc dù cả hai cái tên Evereven và Evernight đều tồn tại trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), bối cảnh và ý nghĩa của chúng trở nên khó xác định.
+Theo ý tưởng ban đầu, Eärendil đã thực hiện một hành trình hoành tráng mang ông theo một chu kỳ từ Evereven đến [Evernight](Evernight.md), <a class="new" href="https://tolkiengateway.net/w/index.php?title=Evernoon&amp;action=edit&amp;redlink=1" title="Evernoon (page does not exist)">Evernoon</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Evermorn&amp;action=edit&amp;redlink=1" title="Evermorn (page does not exist)">Evermorn</a>. Phần lớn nội dung này đã bị mất trong hình thức cuối cùng của bài hát, do đó, mặc dù cả hai cái tên Evereven và Evernight đều tồn tại trong [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), bối cảnh và ý nghĩa của chúng trở nên khó xác định.
 
 <span></span>
 

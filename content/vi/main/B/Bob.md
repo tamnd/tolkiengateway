@@ -65,7 +65,7 @@ Sau khi [Ruffians](../R/Ruffians.md) vào Bree, Bob nghỉ làm buổi tối đ�
 
 <dl><dd>Bob bị hai tên côn đồ và một con chó săn tấn công tại chuồng ngựa của Prancing Pony. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> cứu ông.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a>:</i></b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a>:</i></b>
 
 <dl><dd>Bob đã đến một khu cắm trại gần Barrow-downs để tìm kiếm con gái Lalia của mình, để lại chuồng ngựa của Pony cho người khác chăm sóc trong thời gian anh hùng đến thăm Bree.</dd></dl>
 

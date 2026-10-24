@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 10 tháng 4
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia hội đồng y tế khám. Ông ta được cho là phù hợp với công việc chung.
+- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia hội đồng y tế khám. Ông được cho là phù hợp với công việc chung.
 - **[1943](1943.md)** - Nhạc sĩ [Bo Hansson](../B/Bo_Hansson.md) ra đời.
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 208](../L/Letter_208.md).
 - **[1969](1969.md)** - J.R.R. Tolkien viết [thư cho bà Mroczkowska](<../L/Letter_to_Mrs_Mroczkowska_(10_April_1969).md>).

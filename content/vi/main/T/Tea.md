@@ -42,7 +42,7 @@ Trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), [Tolkien
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Những người nông dân có thể trồng lá trà và các nhân vật có nghề nấu ăn có thể sản xuất nhiều loại trà (bao gồm Trà đen, Trà xanh, Trà đỏ và Trà trắng).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Trong nhiệm vụ giới thiệu "Trà việt quất ngọt", <a href="../C/Celandine_Brandybuck.md#Portrayal_in_adaptations" title="Celandine Brandybuck">Celandine Brandybuck</a> yêu cầu người chơi thu thập <a class="extiw" href="http://en.wikipedia.org/wiki/Bilberry" title="wikipedia:Bilberry">quả việt quất</a> để làm trà thuốc của mình.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

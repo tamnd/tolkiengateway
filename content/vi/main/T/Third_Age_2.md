@@ -20,7 +20,7 @@ sort_keys:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Isildur](../I/Isildur.md) trồng một cây con của [Cây Trắng](../W/White_Tree_of_Gondor.md) ở [Minas Anor](../M/Minas_Anor.md). Ông ta giao [vương quốc phía Nam](../S/South-kingdom.md) cho [Meneldil](../M/Meneldil.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
+- [Isildur](../I/Isildur.md) trồng một cây con của [Cây Trắng](../W/White_Tree_of_Gondor.md) ở [Minas Anor](../M/Minas_Anor.md). Ông giao [vương quốc phía Nam](../S/South-kingdom.md) cho [Meneldil](../M/Meneldil.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
 
 ## tháng Chín {#September}
 

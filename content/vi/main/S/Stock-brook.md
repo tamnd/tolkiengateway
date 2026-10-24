@@ -68,7 +68,7 @@ Vì nó được đặt tên theo ngôi làng Stock nên ý nghĩa của nó là
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Stockbrook rơi xuống thác nước sau khi đi qua <a href="../W/Woody_End.md" title="Woody End">Woody End</a> và chảy về phía nam <a href="Stock.md" title="Stock">Stock</a> thay vì chảy thẳng qua nó.</dd></dl>
 

@@ -96,7 +96,7 @@ Caradoc là tên của các nhân vật khác nhau trong chuyện tình lãng m�
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Saradoc Brandybuck có thể được tìm thấy bên ngoài <a href="../B/Brandy_Hall.md" title="Brandy Hall">Brandy Hall</a> ở <a href="../B/Buckland.md" title="Buckland">Buckland</a>. Ông cử người chơi đi tìm Doderic Brandybuck trẻ tuổi trong <a href="../O/Old_Forest.md" title="Old Forest">Khu Rừng Cổ</a>.</dd></dl>
 

@@ -70,11 +70,11 @@ Những con gấu trong [Letters from Father Christmas](../L/Letters_from_Father
 
 <dl><dd><a href="Beorn.md" title="Beorn">Beorn</a> chỉ xuất hiện dưới hình dạng một con gấu đen.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Gấu xuất hiện dưới dạng động vật hoang dã trên bản đồ "Mirkwood".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Gấu được tìm thấy ở nhiều nơi trong Trung Địa và có kích thước từ chó lớn đến voi nhỏ. Chúng thường không hung dữ nhưng sẽ đánh nhau nếu người chơi đe dọa chúng. Người chơi là bậc thầy về truyền thuyết có thể sử dụng gấu làm thú cưng chiến đấu.</dd></dl>
 

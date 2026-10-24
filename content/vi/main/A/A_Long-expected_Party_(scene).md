@@ -41,7 +41,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Bữa tiệc bắt đầu. Các hobbit được cho thấy đang vui vẻ với những lễ hội phức tạp mà Bilbo đã sắp xếp. Công phu nhất là màn trình diễn pháo hoa hoành tráng có hình con rồng của [Gandalf](../G/Gandalf.md) được kích hoạt vô tình bởi [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md). Cuối cùng, Bilbo tập hợp những người tham dự lại với nhau và đưa ra thông báo. Ông ta nói với những người hobbit rằng 111 năm là khoảng thời gian quá ngắn để ở giữa họ, nhưng đã đến lúc ông ta phải ra đi. Sau đó ông ta đột ngột biến mất trước sự ngạc nhiên của đám đông.
+Bữa tiệc bắt đầu. Các hobbit được cho thấy đang vui vẻ với những lễ hội phức tạp mà Bilbo đã sắp xếp. Công phu nhất là màn trình diễn pháo hoa hoành tráng có hình con rồng của [Gandalf](../G/Gandalf.md) được kích hoạt vô tình bởi [Merry](../M/Merry.md) và [Pippin](../P/Pippin.md). Cuối cùng, Bilbo tập hợp những người tham dự lại với nhau và đưa ra thông báo. Ông nói với những người hobbit rằng 111 năm là khoảng thời gian quá ngắn để ở giữa họ, nhưng đã đến lúc ông phải ra đi. Sau đó ông đột ngột biến mất trước sự ngạc nhiên của đám đông.
 
 Trong phiên bản mở rộng, một cuộc trò chuyện giữa Bilbo và [Frodo](../F/Frodo.md) được thêm vào để hiển thị lần cuối họ gặp nhau trước khi Bilbo biến mất. [Samwise Gamgee](../S/Samwise_Gamgee.md) cũng xuất hiện. Frodo khuyến khích ông mời [Rosie Cotton](../R/Rosie_Cotton.md) khiêu vũ.
 

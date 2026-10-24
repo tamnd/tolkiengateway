@@ -53,11 +53,11 @@ Các ngôi nhà được bao quanh bởi bãi cỏ và cây cối, nằm gần <
 
 ## Lịch sử {#History}
 
-Khi [Faramir](../F/Faramir.md) được cứu khỏi giàn thiêu [Denethor](../D/Denethor.md), [Gandalf](../G/Gandalf.md) và [Beregond](../B/Beregond.md) đã khiêng ông ta trong quan tài đến Nhà chữa bệnh, với [Pippin](../P/Peregrin_Took.md) theo sau. Ngay sau đó Gandalf và Pippin khởi hành nhưng [Beregond](../B/Beregond.md) sau khi báo cáo với đội trưởng đội cận vệ đã đến các nhà để phục vụ và bảo vệ đội trưởng của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Faramir](../F/Faramir.md) được cứu khỏi giàn thiêu [Denethor](../D/Denethor.md), [Gandalf](../G/Gandalf.md) và [Beregond](../B/Beregond.md) đã khiêng ông trong quan tài đến Nhà chữa bệnh, với [Pippin](../P/Peregrin_Took.md) theo sau. Ngay sau đó Gandalf và Pippin khởi hành nhưng [Beregond](../B/Beregond.md) sau khi báo cáo với đội trưởng đội cận vệ đã đến các nhà để phục vụ và bảo vệ đội trưởng của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Sau đó, Faramir có sự tham gia của [Éowyn](../_/Éowyn.md), [Merry](../M/Meriadoc_Brandybuck.md) và những người khác bị [Đen Bóng Tối](../B/Black_Shadow.md). [Ioreth](../I/Ioreth.md), một trong số ít phụ nữ được phép ở lại thành phố trong thời gian bị bao vây nhờ kỹ năng chữa bệnh của mình, đã lớn tiếng ước ao có được một vị vua vì "Bàn tay của nhà vua là bàn tay của người chữa bệnh". Gandalf nghe thấy liền đưa [Aragorn](../A/Aragorn.md) vào Nhà để chăm sóc người bị thương. Sử dụng *[athelas](../A/Athelas.md)* Aragorn đã có thể hồi sinh Faramir, người đã gọi anh là vua của mình, Éowyn và Merry. Khi Aragorn rời khỏi nhà, anh thấy nhiều người đang đợi anh ở cửa và sau khi ăn xong anh dành gần như cả đêm để chăm sóc những người bị thương.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong khi [Quân đội Phương Tây](../A/Army_of_the_West.md) hành quân đến [Cổng Đen](../B/Black_Gate.md), Phu nhân Éowyn xuất hiện trong Nhà chữa bệnh và cầu xin Quản giáo cho xuất viện. Người quản lý đưa cô đến Faramir, giờ đã có thể đi lại trong vườn của các ngôi nhà, nơi ông ta khuyên cô không nên rời đi. Ngày tháng trôi qua, tình yêu của họ nảy nở và sau sự sụp đổ của [Sauron](../S/Sauron.md), chính tại Houses of Healing, họ đã hoàn thành mục tiêu của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong khi [Quân đội Phương Tây](../A/Army_of_the_West.md) hành quân đến [Cổng Đen](../B/Black_Gate.md), Phu nhân Éowyn xuất hiện trong Nhà chữa bệnh và cầu xin Quản giáo cho xuất viện. Người quản lý đưa cô đến Faramir, giờ đã có thể đi lại trong vườn của các ngôi nhà, nơi ông khuyên cô không nên rời đi. Ngày tháng trôi qua, tình yêu của họ nảy nở và sau sự sụp đổ của [Sauron](../S/Sauron.md), chính tại Houses of Healing, họ đã hoàn thành mục tiêu của mình.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
@@ -72,11 +72,11 @@ Trong khi [Quân đội Phương Tây](../A/Army_of_the_West.md) hành quân đ�
 <dl><dd></dd>
 <dd>Hai cảnh trong Ngôi nhà chữa bệnh đã được đưa vào phiên bản mở rộng: "<a href="../T/The_Houses_of_Healing_(scene).md" title="The Houses of Healing (scene)">Những ngôi nhà chữa bệnh</a>" và "<a href="../T/The_Captain_and_the_White_Lady.md" title="The Captain and the White Lady">Thuyền trưởng và Bạch thư</a>". Phần trước mô tả <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> sự chữa lành <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> và có <a href="../T/The_Houses_of_Healing_(soundtrack).md" title="The Houses of Healing (soundtrack)">một bài hát</a> do <a href="../L/Liv_Tyler.md" title="Liv Tyler">Liv Tyler</a> hát.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <a href="../_/Éomer.md" title="Éomer">Éomer</a> ban đầu không được đưa vào cảnh này, nhưng <a href="../K/Karl_Urban.md" title="Karl Urban">Karl Urban</a> nghĩ rằng nó sẽ phù hợp nếu có ông ở đó.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b><a href="../_/2006.md" title="2006">2006</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b><a href="../_/2006.md" title="2006">2006</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Ngôi nhà chữa bệnh là một phần bổ sung cho pháo đài của phe Con Người. Ở mức 1000, nó là rẻ thứ hai. Nó giảm 20% thời gian và chi phí hồi sinh anh hùng. Trong <a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">gói mở rộng</a>, nó còn chữa lành vết thương cho các đồng minh ở gần.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Nhà chữa bệnh bao gồm ba tòa nhà riêng biệt: "Nhà nghỉ ngơi", "Nhà chữa bệnh" và "Đại sảnh".</dd></dl>
 

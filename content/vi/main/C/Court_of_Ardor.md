@@ -39,7 +39,7 @@ Trong *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, **Tòa �
 
 Một số Tiên tộc, những cư dân đầu tiên của vùng, đã bị những người hầu của Morgoth dụ dỗ hoặc lừa tuyên thệ thực hiện một số nhiệm vụ nhất định để đổi lấy quyền lực và trí tuệ. Tiên những lãnh chúa chống cự đã thành lập Hội Nguyên Tố trong [F.A.](../F/First_Age.md) [50](../F/First_Age_50.md).<sup id="cite_ref-history_1-1" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
 
-Trong số Tiên tộc bị hư hỏng có cặp song sinh tên là Fëatur, trông gần như giống hệt nhau và đã phục vụ Morgoth trong [Angband](../A/Angband.md). Sau khi [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md) bị tiêu diệt, nam Fëatur ăn năn và chết. Valar trả ông ta về Trung Địa, buộc tội chống lại Tòa án như một sự đền tội cho ông ta. Tuy nhiên, em gái anh không hề hay biết, chỉ đơn giản tin rằng anh đã thoát khỏi tình trạng khó khăn được cho là nguyên nhân gây ra cái chết của anh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong số Tiên tộc bị hư hỏng có cặp song sinh tên là Fëatur, trông gần như giống hệt nhau và đã phục vụ Morgoth trong [Angband](../A/Angband.md). Sau khi [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md) bị tiêu diệt, nam Fëatur ăn năn và chết. Valar trả ông về Trung Địa, buộc tội chống lại Tòa án như một sự đền tội cho ông. Tuy nhiên, em gái anh không hề hay biết, chỉ đơn giản tin rằng anh đã thoát khỏi tình trạng khó khăn được cho là nguyên nhân gây ra cái chết của anh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Ghét Mặt Trời và Mặt Trăng, trong [F.A.](../F/First_Age.md) [60](../F/First_Age_60.md) nhà chiêm tinh hư hỏng Ardana được Morgoth giao nhiệm vụ tiêu diệt chúng. Cô đã bị ảo tưởng khi coi chúng là những thực thể tà ác đã xóa sạch các ngôi sao của [Elbereth](../V/Varda.md) và giải thích nhiệm vụ của mình bằng những thuật ngữ như vậy cho những Tiên tộc khác.
 
@@ -57,7 +57,7 @@ Nghi lễ đã bị hủy bỏ vào [F.A.](../F/First_Age.md) <a class="new" hre
 
 Guild of Elements đã thiết lập các tiền đồn xung quanh [S.A.](../S/Second_Age.md) [300](../S/Second_Age_300.md) để giám sát các thành trì bị bỏ hoang của Triều đình, nhưng đến [S.A.](../S/Second_Age.md) [1000](../S/Second_Age_1000.md) việc canh gác đã thất bại. Ardana và Morthaur quay trở lại Thành cổ, và đến [S.A.](../S/Second_Age.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=Second_Age_1300&amp;action=edit&amp;redlink=1" title="Second Age 1300 (page does not exist)">1300</a> họ đã phát triển sức mạnh trở lại, và thậm chí còn tìm cách rèn lại một phiên bản thấp hơn của một trong những đồ tạo tác quý giá của họ, bộ bài ma thuật của Ardana.
 
-Khi [Sauron](../S/Sauron.md) quay trở lại Mordor sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), ông ta đã nhận thức được quyền lực của Tòa án và buộc phải tuân theo ý muốn của mình.<sup id="cite_ref-history_1-3" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
+Khi [Sauron](../S/Sauron.md) quay trở lại Mordor sau [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md), ông đã nhận thức được quyền lực của Tòa án và buộc phải tuân theo ý muốn của mình.<sup id="cite_ref-history_1-3" class="reference"><a href="#cite_note-history-1">[1]</a></sup>
 
 ### Kỷ Đệ Tam {#Third_Age}
 

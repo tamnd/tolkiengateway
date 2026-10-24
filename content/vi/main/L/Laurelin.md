@@ -66,7 +66,7 @@ Laurelin được tạo ra bởi [Valier](../V/Valar.md) [Yavanna](../Y/Yavanna.
 
 Laurelin đã bị tiêu diệt bởi [Melkor](../M/Morgoth.md), kẻ đã sử dụng linh hồn nhện khổng lồ [Ungoliant](../U/Ungoliant.md) cho mục đích xấu xa của mình trong vụ trộm [Silmaril](../S/Silmarils.md), gây ra [Sự tối tăm của Valinor](../D/Darkening_of_Valinor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, thông qua sức mạnh của Nienna và Yavanna, Laurelin đã tạo ra một trái lửa duy nhất trước khi cô chết. Ngọn lửa vàng này được đốt lên trong một con tàu do [Aulë](../A/Aulë.md) và người của ông chế tạo, đồng thời được [Ilmen](../I/Ilmen.md) điều khiển bởi [Maia](../M/Maiar.md) [Arien](../A/Arien.md), tạo ra [Mặt Trời](../S/Sun.md).<sup id="cite_ref-OfSun_3-0" class="reference"><a href="#cite_note-OfSun-3">[3]</a></sup>
 
-Trong [Kỷ Đệ Nhất](../F/First_Age.md), [Turgon](../T/Turgon.md) đã tạo ra các hình ảnh của Hai Cây đứng trước tòa án [Gondolin](../G/Gondolin.md) của ông ta, và hình ảnh được tạo ra để tưởng nhớ Laurelin được gọi là [Glingal](../G/Glingal.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong [Kỷ Đệ Nhất](../F/First_Age.md), [Turgon](../T/Turgon.md) đã tạo ra các hình ảnh của Hai Cây đứng trước tòa án [Gondolin](../G/Gondolin.md) của ông, và hình ảnh được tạo ra để tưởng nhớ Laurelin được gọi là [Glingal](../G/Glingal.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

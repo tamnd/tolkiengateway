@@ -47,9 +47,9 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Faramir](../F/Faramir.md) và [chỉ huy thứ hai](../M/Madril.md) của ông ta thảo luận về việc di chuyển của quân đội của [Sauron](../S/Sauron.md) và [Saruman](../S/Saruman.md). Họ biết [Gondor](../G/Gondor.md) là yếu.
+[Faramir](../F/Faramir.md) và [chỉ huy thứ hai](../M/Madril.md) của ông thảo luận về việc di chuyển của quân đội của [Sauron](../S/Sauron.md) và [Saruman](../S/Saruman.md). Họ biết [Gondor](../G/Gondor.md) là yếu.
 
-Faramir tháo khăn bịt mắt của [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) và nói chuyện với họ, nói rằng người của ông ta nói với ông ta rằng họ là gián điệp. Sam không chấp nhận điều này và Frodo cho Faramir biết tên của họ. Khi được hỏi về *"[skulking friend](../G/Gollum.md)"*của họ, Frodo cho biết anh và Sam đang đi du lịch một mình. Sau đó ông ta nói với Faramir rằng hai người họ đã rời đi [Rivendell](../R/Rivendell.md) cùng với bảy người bạn đồng hành.
+Faramir tháo khăn bịt mắt của [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) và nói chuyện với họ, nói rằng người của ông nói với ông rằng họ là gián điệp. Sam không chấp nhận điều này và Frodo cho Faramir biết tên của họ. Khi được hỏi về *"[skulking friend](../G/Gollum.md)"*của họ, Frodo cho biết anh và Sam đang đi du lịch một mình. Sau đó ông nói với Faramir rằng hai người họ đã rời đi [Rivendell](../R/Rivendell.md) cùng với bảy người bạn đồng hành.
 
 <blockquote class="tg-quote noexcerpt">
 <p><a href="../G/Gandalf.md" title="Gandalf">Một</a> chúng tôi đã mất ở Moria, hai là người thân của tôi, <a href="../G/Gimli.md" title="Gimli">a Người Lùn</a> cũng có, và <a href="../L/Legolas.md" title="Legolas">một Tiên</a>. Và hai Con Người, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>, con trai của <a href="../A/Arathorn_II.md" title="Arathorn II">Arathorn</a> và <a href="../B/Boromir.md" title="Boromir">Boromir</a> của Gondor.
@@ -65,4 +65,4 @@ Hơi ngạc nhiên trước điều này, Faramir nói với họ rằng Boromir
 <p class="tg-quote-footer"><cite><a href="../F/Faramir.md" title="Faramir">Faramir</a></cite></p>
 </blockquote>
 
-Một đoạn hồi tưởng được hiển thị về cảnh Faramir đứng bên bờ sông khi chiếc thuyền tang lễ chứa thi thể của Boromir trôi về phía ông ta. Cảnh phim kết thúc với cảnh Faramir ngồi một mình, tay cầm chiếc sừng [của Gondor](../H/Horn_of_Gondor.md), trầm ngâm suy nghĩ.
+Một đoạn hồi tưởng được hiển thị về cảnh Faramir đứng bên bờ sông khi chiếc thuyền tang lễ chứa thi thể của Boromir trôi về phía ông. Cảnh phim kết thúc với cảnh Faramir ngồi một mình, tay cầm chiếc sừng [của Gondor](../H/Horn_of_Gondor.md), trầm ngâm suy nghĩ.

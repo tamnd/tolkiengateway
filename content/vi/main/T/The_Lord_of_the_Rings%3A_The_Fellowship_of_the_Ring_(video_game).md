@@ -118,11 +118,11 @@ Phần giới thiệu kết thúc bằng một đoạn cắt cảnh cho thấy G
 
 <dl><dt>Hobbiton</dt></dl>
 
-Frodo quyết định phải rời khỏi Shire và bán [Bag End](../B/Bag_End.md) cho [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md). Ông ta thực hiện nhiều nhiệm vụ khác nhau quanh làng; chẳng hạn như sửa cánh gió cho gió của Hal Hornbutter và sửa nhà máy của [Ted Sandyman](Ted_Sandyman.md).
+Frodo quyết định phải rời khỏi Shire và bán [Bag End](../B/Bag_End.md) cho [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md). Ông thực hiện nhiều nhiệm vụ khác nhau quanh làng; chẳng hạn như sửa cánh gió cho gió của Hal Hornbutter và sửa nhà máy của [Ted Sandyman](Ted_Sandyman.md).
 
 <dl><dt>Bywater</dt></dl>
 
-Frodo đề nghị chứng thư Bag End cho Lobelia. Tuy nhiên, ban đầu cô từ chối nói chuyện với Frodo cho đến khi anh rung chuông thị trấn để thông báo cho Robin Smallburrow rằng có sói ở trong Shire. Sau khi làm như vậy, ông ta đã bán được chứng thư cho bà.
+Frodo đề nghị chứng thư Bag End cho Lobelia. Tuy nhiên, ban đầu cô từ chối nói chuyện với Frodo cho đến khi anh rung chuông thị trấn để thông báo cho Robin Smallburrow rằng có sói ở trong Shire. Sau khi làm như vậy, ông đã bán được chứng thư cho bà.
 
 <dl><dt>Vùng Đồi Xanh</dt></dl>
 
@@ -130,7 +130,7 @@ Mặc dù tùy chọn, Frodo có thể chọn tìm dược liệu cho [Old Noake
 
 <dl><dt>Night Hobbiton<sup id="cite_ref-save_1-0" class="reference"><a href="#cite_note-save-1">[1]</a></sup></dt></dl>
 
-Sau khi Frodo quay trở lại Bag End và lấy Chiếc nhẫn Chúa từ nơi cất giấu, ông ta đi xuống nhà Gaffer vào đêm hôm sau để đưa chìa khóa cho ông ta. Anh tình cờ nghe được cuộc trò chuyện giữa mình và một Kỵ Sĩ Đen bí ẩn, người đang tìm kiếm Baggins. Frodo sau khi đưa chìa khóa cho Gaffer, phải lẻn ra khỏi Hobbiton mà không bị Kỵ sĩ Đen tuần tra trên đường phố phát hiện.
+Sau khi Frodo quay trở lại Bag End và lấy Chiếc nhẫn Chúa từ nơi cất giấu, ông đi xuống nhà Gaffer vào đêm hôm sau để đưa chìa khóa cho ông. Anh tình cờ nghe được cuộc trò chuyện giữa mình và một Kỵ Sĩ Đen bí ẩn, người đang tìm kiếm Baggins. Frodo sau khi đưa chìa khóa cho Gaffer, phải lẻn ra khỏi Hobbiton mà không bị Kỵ sĩ Đen tuần tra trên đường phố phát hiện.
 
 <dl><dt>Night Bywater<sup id="cite_ref-save_1-1" class="reference"><a href="#cite_note-save-1">[1]</a></sup></dt></dl>
 
@@ -148,11 +148,11 @@ Frodo phải tìm [Merry](../M/Meriadoc_Brandybuck.md), [Sam](../S/Samwise_Gamge
 
 <dl><dt>Withywindle Path</dt></dl>
 
-Frodo tìm thấy Merry và Pippin được chụp bởi [Old Man Willow](../O/Old_Man_Willow.md). Sau khi [Tom Bombadil](Tom_Bombadil.md) đến hiện trường để giải cứu họ, ông ta nhờ Frodo giúp thu thập hoa loa kèn cho [Goldberry](../G/Goldberry.md). Trên đường đi, nhiều con nhện xuất hiện hơn. Như một phần thưởng, ông ta mang Hobbit về nhà mình, nơi họ có thể hồi phục.
+Frodo tìm thấy Merry và Pippin được chụp bởi [Old Man Willow](../O/Old_Man_Willow.md). Sau khi [Tom Bombadil](Tom_Bombadil.md) đến hiện trường để giải cứu họ, ông nhờ Frodo giúp thu thập hoa loa kèn cho [Goldberry](../G/Goldberry.md). Trên đường đi, nhiều con nhện xuất hiện hơn. Như một phần thưởng, ông mang Hobbit về nhà mình, nơi họ có thể hồi phục.
 
 <dl><dt>The Barrow-downs</dt></dl>
 
-Những người bạn đồng hành của Frodo lại bị lạc và Frodo phải tìm thấy họ trong sương mù của những ngọn núi bị ma ám. Ở chiếc xe đẩy cuối cùng Frodo tìm thấy vũ khí mới của mình, một trong những [Dao găm của Westernesse](../D/Daggers_of_Westernesse.md). Mặc dù nhật ký nhiệm vụ cho người chơi biết rằng con dao này là cần thiết để đánh bại tên Barrow-wight đóng vai trò là <a class="extiw" href="http://en.wikipedia.org/wiki/Boss_(video_games)" title="wikipedia:Boss (video games)">trùm</a>, việc ném nhiều tảng đá vào hắn từ vị trí an toàn trên cao cũng là một mẹo nhỏ. Sau khi "đánh bại" xác sống, Frodo quyết định hát một bài hát do Tom Bombadil dạy cho anh, người đã xuất hiện và hát đi xác sống. Ông ta đưa cho họ thêm dao găm và bảo họ ở lại qua đêm tại *[The Prancing Pony](The_Prancing_Pony.md)*.
+Những người bạn đồng hành của Frodo lại bị lạc và Frodo phải tìm thấy họ trong sương mù của những ngọn núi bị ma ám. Ở chiếc xe đẩy cuối cùng Frodo tìm thấy vũ khí mới của mình, một trong những [Dao găm của Westernesse](../D/Daggers_of_Westernesse.md). Mặc dù nhật ký nhiệm vụ cho người chơi biết rằng con dao này là cần thiết để đánh bại tên Barrow-wight đóng vai trò là <a class="extiw" href="http://en.wikipedia.org/wiki/Boss_(video_games)" title="wikipedia:Boss (video games)">trùm</a>, việc ném nhiều tảng đá vào hắn từ vị trí an toàn trên cao cũng là một mẹo nhỏ. Sau khi "đánh bại" xác sống, Frodo quyết định hát một bài hát do Tom Bombadil dạy cho anh, người đã xuất hiện và hát đi xác sống. Ông đưa cho họ thêm dao găm và bảo họ ở lại qua đêm tại *[The Prancing Pony](The_Prancing_Pony.md)*.
 
 ### Bree {#Bree}
 
@@ -162,13 +162,13 @@ Frodo và những người khác vào quán trọ Prancing Pony và nhận phòn
 
 <dl><dt>Town of Bree</dt></dl>
 
-Rõ ràng là Merry bị thiếu và lối chơi chuyển sang Aragorn. Sau khi tìm kiếm Merry trên những con đường đầy ánh trăng của Bree, ông ta săn lùng các đồ vật để tạo ra Hobbit mồi nhử nhằm đánh lừa Nazgûl vẫn đang bám theo dấu vết của chúng, chiến đấu với sói và những kẻ lưu manh trên đường đi.
+Rõ ràng là Merry bị thiếu và lối chơi chuyển sang Aragorn. Sau khi tìm kiếm Merry trên những con đường đầy ánh trăng của Bree, ông săn lùng các đồ vật để tạo ra Hobbit mồi nhử nhằm đánh lừa Nazgûl vẫn đang bám theo dấu vết của chúng, chiến đấu với sói và những kẻ lưu manh trên đường đi.
 
 ### Weathertop {#Weathertop}
 
 <dl><dt>Weathertop Hill</dt></dl>
 
-Sau khi phát hiện tia sét ở đỉnh [Weathertop](../W/Weathertop.md), Aragorn hộ tống Frodo và Sam lên đỉnh. Trên đường [Warg](../W/Wargs.md) và [Orc](../O/Orcs.md) lần đầu tiên được đưa vào trò chơi. Trên đỉnh đồi, Aragorn phát hiện ra dấu hiệu của một cuộc giằng co và một chữ rune mang chữ "G" và số "3". Ngay sau đó ông ta bị tấn công bởi một [troll](Troll.md). Sau khi đánh bại con troll, Frodo nhận thấy [Kỵ sĩ Đen](../N/Nazgûl.md) trên [phương Đông Đường](../E/East_Road.md) và họ quay trở lại khu cắm trại.
+Sau khi phát hiện tia sét ở đỉnh [Weathertop](../W/Weathertop.md), Aragorn hộ tống Frodo và Sam lên đỉnh. Trên đường [Warg](../W/Wargs.md) và [Orc](../O/Orcs.md) lần đầu tiên được đưa vào trò chơi. Trên đỉnh đồi, Aragorn phát hiện ra dấu hiệu của một cuộc giằng co và một chữ rune mang chữ "G" và số "3". Ngay sau đó ông bị tấn công bởi một [troll](Troll.md). Sau khi đánh bại con troll, Frodo nhận thấy [Kỵ sĩ Đen](../N/Nazgûl.md) trên [phương Đông Đường](../E/East_Road.md) và họ quay trở lại khu cắm trại.
 
 <dl><dt>Một lưỡi dao trong bóng tối</dt></dl>
 
@@ -176,7 +176,7 @@ Trong một đoạn cắt cảnh, Frodo bị [Vua Phù thủy](../W/Witch-king.m
 
 <dl><dt>Troll Shaws</dt></dl>
 
-Aragorn phải dọn sạch khu vực của kẻ thù bao gồm Orc, wargs và một số troll. Khi tất cả kẻ thù bị đánh bại [Glorfindel](../G/Glorfindel.md) xuất hiện; ông ta gửi Frodo đi trên [Asfaloth](../A/Asfaloth.md). Sau khi đứng ở [Ford of Bruinen](../F/Ford_of_Bruinen.md), Frodo gục xuống.
+Aragorn phải dọn sạch khu vực của kẻ thù bao gồm Orc, wargs và một số troll. Khi tất cả kẻ thù bị đánh bại [Glorfindel](../G/Glorfindel.md) xuất hiện; ông gửi Frodo đi trên [Asfaloth](../A/Asfaloth.md). Sau khi đứng ở [Ford of Bruinen](../F/Ford_of_Bruinen.md), Frodo gục xuống.
 
 ### Rivendell {#Rivendell}
 
@@ -200,11 +200,11 @@ Vẫn đóng vai Gandalf, người chơi phải điều khiển một chùm ánh
 
 <dl><dt>2nd Hall</dt></dl>
 
-Frodo và Gimli thấy mình bị tách khỏi phần còn lại của Hiệp hội và phải chiến đấu để vượt qua [Sảnh thứ hai](../S/Second_Hall.md). Người chơi điều khiển Frodo, người phải kéo một số đòn bẩy để nối các cây cầu và mở cửa chính. Mặc dù phần lớn cuộc chiến có thể được giao phó cho Gimli, một số kẻ thù - một số cung thủ, một số Orc - nằm ngoài tầm với của ông ta và phải bị Frodo tránh hoặc tiêu diệt.
+Frodo và Gimli thấy mình bị tách khỏi phần còn lại của Hiệp hội và phải chiến đấu để vượt qua [Sảnh thứ hai](../S/Second_Hall.md). Người chơi điều khiển Frodo, người phải kéo một số đòn bẩy để nối các cây cầu và mở cửa chính. Mặc dù phần lớn cuộc chiến có thể được giao phó cho Gimli, một số kẻ thù - một số cung thủ, một số Orc - nằm ngoài tầm với của ông và phải bị Frodo tránh hoặc tiêu diệt.
 
 <dl><dt>Abyss Fight</dt></dl>
 
-Gandalf chiến đấu với Balrog. Balrog chỉ có thể bị choáng bằng bùa sét, sau đó Gandalf phải đánh ông ta bằng Glamdring. Tuy nhiên, một đòn từ thanh kiếm của Balrog sẽ gây chết người.
+Gandalf chiến đấu với Balrog. Balrog chỉ có thể bị choáng bằng bùa sét, sau đó Gandalf phải đánh ông bằng Glamdring. Tuy nhiên, một đòn từ thanh kiếm của Balrog sẽ gây chết người.
 
 ### Lothlórien {#Lothlórien}
 

@@ -196,15 +196,15 @@ Các dạng [Quenya](../Q/Quenya.md) của *Barad-dûr* là *Taras Lúna* (“Th
 
 <dl><dd>Tòa tháp được nhìn thấy thoáng qua trong cảnh mở đầu. <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> kể lại hình ảnh từ <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">Tấm gương</a> của bà. Nó chỉ được gọi là "Tháp bóng tối của Mordor" và là căn cứ của <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> (ngược lại với <a href="../M/Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a>). Con Mắt của Sauron được miêu tả là một con mắt rực lửa ở trên cùng, nhưng chỉ hiển thị trong tích tắc.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Barad-dûr được hiển thị trong cảnh giới thiệu. Thiết kế của nó tương tự như tòa tháp trong phim. Nó không đóng vai trò gì trong bất kỳ chiến dịch nào và không xuất hiện trên bất kỳ bản đồ nào.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Giống như phiên bản tiền nhiệm, tháp Barad-dûr không đóng vai trò tích cực nào trong trò chơi này. Ở chế độ "Cuộc chiến Nhẫn", nó có thể được nhìn thấy trong lãnh thổ Mordor, nhưng không có trên bản đồ.</dd></dl>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Với sự phá hủy của Nhẫn Chúa, tòa tháp chính của Barad-dûr đã sụp đổ, nhưng nền móng vẫn đứng vững và có rất nhiều Sauron người hầu. Các ngục tối của Barad-dûr, "Mordath", đã lộ ra bầu trời phía trên qua các vết nứt trên mặt đất.</dd></dl>
 

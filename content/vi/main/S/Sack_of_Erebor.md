@@ -32,7 +32,7 @@ Sau khi Vua [Dáin I](../D/Dáin_I.md) bị tiêu diệt bên ngoài [đại s�
 
 ## Trận chiến {#The_Battle}
 
-Một đêm nọ ở [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md), Smaug lao xuống ngọn núi trong biển lửa, khiến Người Lùn và [Người Dale](../M/Men_of_Dale.md) mất cảnh giác. Các chiến binh trên núi bước ra khỏi [cổng lớn](../F/Front_Gate.md) để giao chiến với con rồng nhưng tất cả đều bị giết. Sau đó Smaug tấn công [Dale](../D/Dale.md) mà tất cả các chiến binh của họ đều được gọi nhập ngũ và tiêu diệt hầu hết bọn họ. Sau đó ông ta quay trở lại núi và định tuyến Người Lùn còn lại. Sau đó, ông ta tích lũy tất cả vàng trong núi và biến nó thành nơi ở của mình, chỉ xuất hiện thường xuyên để ăn thịt các thiếu nữ từ Dale, điều này cuối cùng khiến nó bị bỏ hoang.<sup id="cite_ref-Party_2-1" class="reference"><a href="#cite_note-Party-2">[2]</a></sup>
+Một đêm nọ ở [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md), Smaug lao xuống ngọn núi trong biển lửa, khiến Người Lùn và [Người Dale](../M/Men_of_Dale.md) mất cảnh giác. Các chiến binh trên núi bước ra khỏi [cổng lớn](../F/Front_Gate.md) để giao chiến với con rồng nhưng tất cả đều bị giết. Sau đó Smaug tấn công [Dale](../D/Dale.md) mà tất cả các chiến binh của họ đều được gọi nhập ngũ và tiêu diệt hầu hết bọn họ. Sau đó ông quay trở lại núi và định tuyến Người Lùn còn lại. Sau đó, ông tích lũy tất cả vàng trong núi và biến nó thành nơi ở của mình, chỉ xuất hiện thường xuyên để ăn thịt các thiếu nữ từ Dale, điều này cuối cùng khiến nó bị bỏ hoang.<sup id="cite_ref-Party_2-1" class="reference"><a href="#cite_note-Party-2">[2]</a></sup>
 
 ## Hậu quả {#Aftermath}
 

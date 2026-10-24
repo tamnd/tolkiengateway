@@ -45,7 +45,7 @@ infobox:
 
 Một đoạn hồi tưởng được hiển thị về cảnh [Isildur](../I/Isildur.md) cắt [Chiếc nhẫn thống trị](../O/One_Ring.md) khỏi tay [Sauron](../S/Sauron.md) với chuôi kiếm Narsil bị gãy. Sau đó, cảnh quay trở lại [Elrond](../E/Elrond.md) và Arwen trong [Rivendell](../R/Rivendell.md). Cô thúc giục anh rèn lại Narsil, nhưng anh từ chối. Arwen ngồi xuống và đánh rơi cuốn sách của mình. Elrond nắm lấy tay cô và nhận thấy chúng lạnh ngắt. "Cuộc đời của [Eldar](../E/Eldar.md) đang rời bỏ em," anh nói, trông có vẻ lo lắng và ngạc nhiên. Arwen trả lời, "Đây là lựa chọn của tôi. Ada... Dù bạn có muốn hay không thì bây giờ không có con tàu nào có thể chở tôi."
 
-Điều này cuối cùng thúc đẩy Elrond ra lệnh rèn lại Narsil và trao cho Chủng tộc [Con Người](../M/Men.md) cơ hội thứ hai. Ông ta giám sát quá trình rèn lại bằng cách cắt cảnh từ khuôn mặt của ông ta đến quá trình rèn lại. Cảnh kết thúc với việc rèn thanh kiếm cuối cùng.
+Điều này cuối cùng thúc đẩy Elrond ra lệnh rèn lại Narsil và trao cho Chủng tộc [Con Người](../M/Men.md) cơ hội thứ hai. Ông giám sát quá trình rèn lại bằng cách cắt cảnh từ khuôn mặt của ông đến quá trình rèn lại. Cảnh kết thúc với việc rèn thanh kiếm cuối cùng.
 
 ## Sự khác biệt {#Differences}
 

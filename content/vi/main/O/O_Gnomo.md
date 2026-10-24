@@ -35,7 +35,7 @@ infobox:
 
 <i><b>O Gnomo</b></i> là ấn bản tiếng Bồ Đào Nha đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được dịch bởi [Maria Isabel Braga](../M/Maria_Isabel_Braga.md) và [Mário Braga](../M/Mário_Braga.md) và minh họa bởi [António Quadros](../A/António_Quadros.md).
 
-Vào [20 tháng 3](../_/20_March.md) [1963](../_/1963.md), Alina Dadlez đã viết thư cho Tolkien và gửi cho ông ta năm bản *O Gnomo*. Cô xin lỗi vì từ 'hobbit' đã được dịch, vì Tolkien đã gửi thư nói rằng ông thích sử dụng thuật ngữ 'hobito' hơn là 'Gnome' hay 'Gnomo' cho ấn bản tiếng Tây Ban Nha đầu tiên [El hobito](../E/El_hobito.md).<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+Vào [20 tháng 3](../_/20_March.md) [1963](../_/1963.md), Alina Dadlez đã viết thư cho Tolkien và gửi cho ông năm bản *O Gnomo*. Cô xin lỗi vì từ 'hobbit' đã được dịch, vì Tolkien đã gửi thư nói rằng ông thích sử dụng thuật ngữ 'hobito' hơn là 'Gnome' hay 'Gnomo' cho ấn bản tiếng Tây Ban Nha đầu tiên [El hobito](../E/El_hobito.md).<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
 Vào [1966](../_/1966.md), Tolkien có bốn bản sao của cuốn sách trong thư viện riêng của mình.
 

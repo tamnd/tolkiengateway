@@ -56,7 +56,7 @@ Vào năm [3018](../T/Third_Age_3018.md) [Kỷ Đệ Tam](../T/Third_Age.md), m�
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Gladden_River.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/83/The_Lord_of_the_Rings_Online_-_Gladden_River.jpg/250px-The_Lord_of_the_Rings_Online_-_Gladden_River.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/83/The_Lord_of_the_Rings_Online_-_Gladden_River.jpg/375px-The_Lord_of_the_Rings_Online_-_Gladden_River.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/83/The_Lord_of_the_Rings_Online_-_Gladden_River.jpg/500px-The_Lord_of_the_Rings_Online_-_Gladden_River.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>The Gladden River in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2019: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Khi đổ xuống từ <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>, Sông Gladden chảy qua tàn tích của "Kidzul-kâlah", một tiền đồn bị bỏ hoang của <a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a>. Ngay sau đó, con sông tạo thành hồ lớn "Gladdenmere", từ đó đổ vào <a href="Gladden_Fields.md" title="Gladden Fields">Gladden Fields</a> qua thác "Gladden Falls".</dd></dl>
 

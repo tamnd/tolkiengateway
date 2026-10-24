@@ -50,7 +50,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Rúmil là anh trai của [Haldir](../H/Haldir.md) và [Orophin](../O/Orophin.md). Ông ta là một trong ba người cai ngục được [Học bổng](../F/Fellowship_of_the_Ring.md) gặp khi họ bước vào [Golden Wood](../L/Lothlórien.md).<sup id="cite_ref-lorien_1-0" class="reference"><a href="#cite_note-lorien-1">[1]</a></sup>
+Rúmil là anh trai của [Haldir](../H/Haldir.md) và [Orophin](../O/Orophin.md). Ông là một trong ba người cai ngục được [Học bổng](../F/Fellowship_of_the_Ring.md) gặp khi họ bước vào [Golden Wood](../L/Lothlórien.md).<sup id="cite_ref-lorien_1-0" class="reference"><a href="#cite_note-lorien-1">[1]</a></sup>
 
 Đêm hôm đó, sau khi một đại đội [Orc](../O/Orc.md) hùng mạnh tiến vào Lothlórien, để truy đuổi Hiệp hội, hai anh em đã dẫn Orc vào rừng với giọng giả vờ để chuẩn bị cho một cuộc phục kích của đồng bào. Ngày hôm sau, Rúmil và Haldir dẫn đầu Đoàn đi tiếp và làm một cây cầu dây để vượt qua [Celebrant](../C/Celebrant.md). Rúmil vẫn ở lại sau khi những người khác vượt qua, quay lại [Nimrodel](<../N/Nimrodel_(river).md>) để canh chừng.<sup id="cite_ref-lorien_1-1" class="reference"><a href="#cite_note-lorien-1">[1]</a></sup>
 
@@ -94,7 +94,7 @@ Trong bản nháp, ký tự này được gọi là *Rhimbron*, *Rhomrin* và *R
 
 <dl><dd>Rumil là một trong những anh hùng được nêu tên trong quân đội Lothlorien trong Trò chơi chiến đấu chiến lược Trung Địa. Truyền thuyết đi kèm với các quy tắc của ông nói rằng ông nổi tiếng với kỹ năng sử dụng lưỡi kiếm và ông có một khả năng độc nhất buộc kẻ thù phải cuộn lại các trận đấu tay đôi.</dd></dl>
 
-<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Rúmil có thể được tìm thấy ở vùng ngoại ô phía tây của <a class="mw-redirect" href="../L/Lothlorien.md" title="Lothlorien">Lothlorien</a>, bảo vệ biên giới chống lại các cuộc tấn công của <a class="mw-redirect" href="../O/Orc.md" title="Orc">orc</a>.</dd></dl>
 

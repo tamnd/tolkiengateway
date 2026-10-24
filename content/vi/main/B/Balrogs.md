@@ -239,15 +239,15 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungort
 
 <dl><dd>Người chơi hỗ trợ Gandalf trong cuộc chiến với Balrog.</dd></dl>
 
-<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: Trận chiến vì Trung Địa</a></i>:</b>
+<b>2004: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md" title="The Lord of the Rings: The Battle for Middle-earth">The Lord of the Rings: The Battle for Middle-earth</a></i>:</b>
 
 <dl><dd>Balrog là sức mạnh ma thuật mạnh nhất dành cho cả phe Mordor và Isengard và phải đối mặt với tư cách là trùm trong Chiến dịch Tốt. Ngoại hình giống phiên bản điện ảnh.</dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: The Battle for Middle-earth II</a></i>:</b>
 
 <dl><dd>Không giống như trò chơi gốc, Balrog không có sẵn cho phe Isengard mà chỉ dành cho Mordor và phe Goblin mới.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Ngoài <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">Tai họa của Durin</a>, trò chơi còn có một Balrog khác: tên là Thaurlach, ông có thể được tìm thấy ở <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rift_of_N%C3%BBrz_Gh%C3%A2shu&amp;action=edit&amp;redlink=1" title="Rift of Nûrz Ghâshu (page does not exist)">Rạn nứt Nûrz Ghâshu</a>, nơi <a href="../A/Angmar.md" title="Angmar">Angmar</a> gặp <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a>. Ông bỏ trốn khi <a href="../T/Thangorodrim.md" title="Thangorodrim">Thangorodrim</a> bị phá vỡ, nhưng bị theo sau bởi một Glathlírel thời con gái Tiên, người quyết tâm kết liễu ông. Balrog đã trốn tránh cô hàng thiên niên kỷ, cho đến khi cô có thể đối mặt với ông trong trận chiến và đánh bại ông. Thay vì giết Balrog, hai Pháp sư Xanh quyết định giam giữ ông trong Khe nứt, để ông có thể chờ phán quyết vào cuối ngày. Tuy nhiên, vào cuối Kỷ Đệ Tam dây xích của ông bị lỏng ra và một nhóm người chơi được cử đi để đánh bại Balrog suy yếu - điều mà Gandalf đã nhận xét đáng lẽ phải được thực hiện từ lâu.</dd></dl>
 

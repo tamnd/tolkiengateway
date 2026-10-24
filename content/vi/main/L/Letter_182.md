@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien thề sẽ xuất bản một phần lịch sử vĩ đại của mình, nếu được phép. Vì sự thành công đáng ngạc nhiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, ông mong đợi sự từ chối trước đó sẽ được xem xét lại, mặc dù nếu không có [Hobbit](../H/Hobbits.md) thì nó sẽ thiếu sức hấp dẫn tương tự. Thật không may, ông ta không được phép đạt được điều đó. Không có thư ký, anh chìm đắm trong *Lord of the Rings* công việc kinh doanh và nghề nghiệp. Công việc chồng chất khiến những năm cuối nhiệm kỳ trở nên khó chịu, một cách khiến các giáo sư “đi lặng lẽ”.
+Tolkien thề sẽ xuất bản một phần lịch sử vĩ đại của mình, nếu được phép. Vì sự thành công đáng ngạc nhiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, ông mong đợi sự từ chối trước đó sẽ được xem xét lại, mặc dù nếu không có [Hobbit](../H/Hobbits.md) thì nó sẽ thiếu sức hấp dẫn tương tự. Thật không may, ông không được phép đạt được điều đó. Không có thư ký, anh chìm đắm trong *Lord of the Rings* công việc kinh doanh và nghề nghiệp. Công việc chồng chất khiến những năm cuối nhiệm kỳ trở nên khó chịu, một cách khiến các giáo sư “đi lặng lẽ”.
 
-*Lord of the Rings* cũng đã đặt ông ta vào gọng kìm, Tolkien nói. Các đồng nghiệp ngữ văn của ông đã bị sốc trước việc ông sa vào "văn học tầm thường" và ông khẳng định rằng tiếng kêu đó là "bây giờ chúng tôi biết bạn đã lãng phí thời gian của mình như thế nào trong 20 năm". Điều này đã tạo ra áp lực phải làm cho mọi thứ trở nên chuyên nghiệp hơn vốn đã quá hạn từ lâu. Tolkien nói thích cả hai nhưng chỉ có thời gian của một người.
+*Lord of the Rings* cũng đã đặt ông vào gọng kìm, Tolkien nói. Các đồng nghiệp ngữ văn của ông đã bị sốc trước việc ông sa vào "văn học tầm thường" và ông khẳng định rằng tiếng kêu đó là "bây giờ chúng tôi biết bạn đã lãng phí thời gian của mình như thế nào trong 20 năm". Điều này đã tạo ra áp lực phải làm cho mọi thứ trở nên chuyên nghiệp hơn vốn đã quá hạn từ lâu. Tolkien nói thích cả hai nhưng chỉ có thời gian của một người.
 
 Ông đề cập rằng sau khi một số người khác nghỉ hưu, ông đã được giữ lại vị trí giáo sư cấp cao của học viện cũ của mình. Ông đã ngồi trên chiếc ghế này suốt 31 năm và dường như những người duy nhất để ý đến nó là những người muốn có nó. Ông nói, họ sẽ phát hiện ra rằng chiếc ghế đệm thực sự được nhồi bằng cây kế.
 

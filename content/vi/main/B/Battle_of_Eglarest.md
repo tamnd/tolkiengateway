@@ -25,7 +25,7 @@ infobox:
 
 ## Trận chiến {#The_Battle}
 
-Đứng đầu trận chiến là [Ingwion](../I/Ingwion.md), con trai của [Ingwë](../I/Ingwë.md), dẫn đầu [Vanyarin](../V/Vanyar.md) chủ nhà. Tại [Eglarest](../E/Eglarest.md) Ingwion và chủ nhà của ông ta hạ cánh và tìm thấy một đàn [Orc](../O/Orcs.md) xung quanh nó. Sau đó, ông ta và chủ nhà của mình đã đánh đuổi chiếc Orc khỏi bờ biển của [Belegaer](Belegaer.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin chi tiết nào về trận chiến nữa.
+Đứng đầu trận chiến là [Ingwion](../I/Ingwion.md), con trai của [Ingwë](../I/Ingwë.md), dẫn đầu [Vanyarin](../V/Vanyar.md) chủ nhà. Tại [Eglarest](../E/Eglarest.md) Ingwion và chủ nhà của ông hạ cánh và tìm thấy một đàn [Orc](../O/Orcs.md) xung quanh nó. Sau đó, ông và chủ nhà của mình đã đánh đuổi chiếc Orc khỏi bờ biển của [Belegaer](Belegaer.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin chi tiết nào về trận chiến nữa.
 
 <span></span>
 

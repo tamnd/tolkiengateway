@@ -53,15 +53,15 @@ Cây Trắng cũng xuất hiện trên [trang phục của những người th�
 
 ### Đầu tiên Cây Trắng {#First_White_Tree}
 
-Cây Trắng đầu tiên đến từ một loại trái cây mà [Isildur](../I/Isildur.md), với rủi ro cá nhân rất lớn, đã tìm cách đánh cắp từ [Nimloth](<../N/Nimloth_(tree).md>) Hội chợ, Cây Trắng của [Númenor](../N/Númenor.md), trước khi trái đó bị phá hủy theo sự nài nỉ của [Sauron](../S/Sauron.md). Ông ta đã chịu nhiều vết thương trong chuyến công tác này và đã cận kề cái chết, nhưng khi chiếc lá đầu tiên hé mở vào mùa xuân, Isildur đã được chữa lành.
+Cây Trắng đầu tiên đến từ một loại trái cây mà [Isildur](../I/Isildur.md), với rủi ro cá nhân rất lớn, đã tìm cách đánh cắp từ [Nimloth](<../N/Nimloth_(tree).md>) Hội chợ, Cây Trắng của [Númenor](../N/Númenor.md), trước khi trái đó bị phá hủy theo sự nài nỉ của [Sauron](../S/Sauron.md). Ông đã chịu nhiều vết thương trong chuyến công tác này và đã cận kề cái chết, nhưng khi chiếc lá đầu tiên hé mở vào mùa xuân, Isildur đã được chữa lành.
 
-Cây non này đã được mang đến [Trung Địa](../M/Middle-earth.md) trên tàu của Isildur và cuối cùng nó được trồng ở [Minas Ithil](../M/Minas_Ithil.md) trước nhà ông. Nhưng khi Sauron quay trở lại Trung Địa, ông ta đã phát động [cuộc tấn công bất ngờ](../F/First_Fall_of_Minas_Ithil.md) vào [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md) bắt giữ Minas Ithil và đốt cháy Cây Trắng. Isildur trốn thoát, mang theo một cây non.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-rings_5-0" class="reference"><a href="#cite_note-rings-5">[5]</a></sup>
+Cây non này đã được mang đến [Trung Địa](../M/Middle-earth.md) trên tàu của Isildur và cuối cùng nó được trồng ở [Minas Ithil](../M/Minas_Ithil.md) trước nhà ông. Nhưng khi Sauron quay trở lại Trung Địa, ông đã phát động [cuộc tấn công bất ngờ](../F/First_Fall_of_Minas_Ithil.md) vào [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md) bắt giữ Minas Ithil và đốt cháy Cây Trắng. Isildur trốn thoát, mang theo một cây non.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-rings_5-0" class="reference"><a href="#cite_note-rings-5">[5]</a></sup>
 
 ### Thứ hai Cây Trắng {#Second_White_Tree}
 
 Năm [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md), Isildur đã trồng cây giống Cây Trắng tại [Minas Anor](../M/Minas_Anor.md) để tưởng nhớ người anh [Anárion](../A/Anárion.md).<sup id="cite_ref-rings_5-1" class="reference"><a href="#cite_note-rings-5">[5]</a></sup><sup id="cite_ref-B2_6-0" class="reference"><a href="#cite_note-B2-6">[6]</a></sup>
 
-Cây Trắng này kéo dài cho đến [T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md), khi [Đại Dịch](../G/Great_Plague.md) tấn công [Gondor](../G/Gondor.md), giết chết Vua [Telemnar](../T/Telemnar.md) và các con của ông ta cùng nhiều người khác.<sup id="cite_ref-B2_6-1" class="reference"><a href="#cite_note-B2-6">[6]</a></sup>
+Cây Trắng này kéo dài cho đến [T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md), khi [Đại Dịch](../G/Great_Plague.md) tấn công [Gondor](../G/Gondor.md), giết chết Vua [Telemnar](../T/Telemnar.md) và các con của ông cùng nhiều người khác.<sup id="cite_ref-B2_6-1" class="reference"><a href="#cite_note-B2-6">[6]</a></sup>
 
 ### Thứ ba Cây Trắng {#Third_White_Tree}
 

@@ -38,7 +38,7 @@ Hệ thống này hơi giống [Dungeon & Rồng](../D/Dungeons_and_Dragons.md) 
 
 Trong hệ thống trò chơi MERP, các thuộc tính được xếp hạng từ 0 đến 100 và các kỹ năng có thể vượt qua các giới hạn này (dưới 0 hoặc trên 100). Một cuộn tấn công sẽ bao gồm một cuộn phần trăm + xếp hạng kỹ năng + xếp hạng thuộc tính - xếp hạng né tránh của mục tiêu. Kết quả này được tra cứu trên bàn so với loại áo giáp (da/tấm) của nạn nhân. Hầu hết các đòn đánh trong chiến đấu sẽ gây ra 'nghiêm trọng', điểm này sẽ được cuộn và tra cứu trên các bảng riêng biệt. Đối với một số người, những lời phê bình này khá thú vị do tính đa dạng và sáng tạo của chúng, nhưng đối với những người khác, nhiệm vụ cộng trừ các số cao rồi tra bảng là đỉnh cao của trò chơi cuộn chứ không phải nhập vai.
 
-Người sử dụng phép thuật có lợi thế duy nhất trong MERP là họ học được danh sách 10 phép thuật (1 phép thuật mỗi cấp độ) dưới dạng một đơn vị. Khi một nhân vật học được danh sách Chữa bệnh, ông ta sẽ có thể sử dụng các phép thuật chữa bệnh ngày càng tốt hơn khi cấp độ của ông ta tăng lên.
+Người sử dụng phép thuật có lợi thế duy nhất trong MERP là họ học được danh sách 10 phép thuật (1 phép thuật mỗi cấp độ) dưới dạng một đơn vị. Khi một nhân vật học được danh sách Chữa bệnh, ông sẽ có thể sử dụng các phép thuật chữa bệnh ngày càng tốt hơn khi cấp độ của ông tăng lên.
 
 Cài đặt cho trò chơi này có trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) khoảng 1400 năm (phần lớn các mô-đun được đặt vào những năm sau [Đại Dịch](../G/Great_Plague.md), khoảng [Kỷ Đệ Tam](../T/Third_Age.md) 1640) và do đó, nó thể hiện một phiên bản [Trung Địa](Middle-earth.md) khác với phiên bản được thấy trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* hoặc *[The Hobbit](../T/The_Hobbit.md)*.
 

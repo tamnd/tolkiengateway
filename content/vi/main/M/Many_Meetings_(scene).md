@@ -46,4 +46,4 @@ Sau đó, Frodo bắt gặp Sam đang thu dọn đồ đạc. Mặc dù Sam trư
 
 ## Sự khác biệt {#Differences}
 
-Cảnh này là phần tóm tắt của cùng một chương trong cuốn sách. Bữa tiệc Elrond chủ trì trước hội đồng của ông ta bị bỏ qua. Bilbo trong phim có vẻ già hơn một chút so với trong sách, như trong sách, Bilbo có thể quay lại [Dale](../D/Dale.md) và [Erebor](../E/Erebor.md) trong khoảng thời gian giữa chương 1 và 2.
+Cảnh này là phần tóm tắt của cùng một chương trong cuốn sách. Bữa tiệc Elrond chủ trì trước hội đồng của ông bị bỏ qua. Bilbo trong phim có vẻ già hơn một chút so với trong sách, như trong sách, Bilbo có thể quay lại [Dale](../D/Dale.md) và [Erebor](../E/Erebor.md) trong khoảng thời gian giữa chương 1 và 2.

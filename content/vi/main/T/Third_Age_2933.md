@@ -22,7 +22,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) đối đầu với [Orc](../O/Orcs_of_the_Misty_Mountains.md) với [Thủ lĩnh](../C/Chieftains_of_the_Dúnedain.md) của [Dúnedain](../D/Dúnedain_of_Arnor.md) [Arathorn II](../A/Arathorn_II.md). Arathorn bị giết bởi một Orc-mũi tên.<sup id="cite_ref-North_1-0" class="reference"><a href="#cite_note-North-1">[1]</a></sup>
 - [Gilraen](../G/Gilraen.md), vợ của [Arathorn II](../A/Arathorn_II.md), đưa con trai [Aragorn](../A/Aragorn.md) đi [Imladris](../R/Rivendell.md).<sup id="cite_ref-TA_2-0" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
-- [Elrond](../E/Elrond.md) nhận cậu làm con nuôi và đặt tên cho cậu là [Estel](../E/Estel.md) (Hope); tổ tiên của ông ta được giấu kín.<sup id="cite_ref-TA_2-1" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
+- [Elrond](../E/Elrond.md) nhận cậu làm con nuôi và đặt tên cho cậu là [Estel](../E/Estel.md) (Hope); tổ tiên của ông được giấu kín.<sup id="cite_ref-TA_2-1" class="reference"><a href="#cite_note-TA-2">[2]</a></sup>
 - Sự ra đời của [Paladin Took II](../P/Paladin_Took_II.md), con thứ tư và con trai đầu lòng của [Adalgrim Took](../A/Adalgrim_Took.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>

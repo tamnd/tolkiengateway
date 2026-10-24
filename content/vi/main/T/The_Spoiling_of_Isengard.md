@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Tại [Isengard](../I/Isengard.md), Saruman nhìn vào [palantír](../P/Palantír.md) của mình để trò chuyện với Sauron. Sauron hướng dẫn ông ta bắt đầu xây dựng một đội quân "xứng đáng [Mordor](../M/Mordor.md)". Triệu hồi một vài [Orc](../O/Orcs.md) mà ông đã tạo, Saruman nói với họ rằng họ có việc phải làm.
+Tại [Isengard](../I/Isengard.md), Saruman nhìn vào [palantír](../P/Palantír.md) của mình để trò chuyện với Sauron. Sauron hướng dẫn ông bắt đầu xây dựng một đội quân "xứng đáng [Mordor](../M/Mordor.md)". Triệu hồi một vài [Orc](../O/Orcs.md) mà ông đã tạo, Saruman nói với họ rằng họ có việc phải làm.
 
 Gandalf đang nằm trên tòa tháp của [Orthanc](../O/Orthanc.md), bị giam cầm trong khi lũ Orc của Saruman bắt đầu biến Isengard thành một nhà máy đồ sộ. Cây cối xung quanh tòa tháp bị đốn hạ trong khi Saruman đứng nhìn. Isengard bắt đầu trang bị cho chiến tranh.
 

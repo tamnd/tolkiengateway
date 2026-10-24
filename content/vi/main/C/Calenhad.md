@@ -56,7 +56,7 @@ Trong [Unfinished Tales](../U/Unfinished_Tales.md) gợi ý rằng Calenhad có 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>:</b>
 
 <dl><dd>Calenhad nằm ở <a class="mw-redirect" href="../B/Beacon-hills.md" title="Beacon-hills">Beacon-hills</a>, trên một ngọn đồi nhỏ hơn nhiều so với Beacon-hills <a href="../M/Min-Rimmon.md" title="Min-Rimmon">Min-Rimmon</a> và <a href="../H/Halifirien.md" title="Halifirien">Halifirien</a> gần đó. Một ngôi làng nhỏ không tên nằm ở phía nam ngọn hải đăng.</dd></dl>
 
