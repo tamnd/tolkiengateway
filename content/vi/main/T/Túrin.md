@@ -140,7 +140,7 @@ Khi quay trở lại, Túrin đã vô tình gây ra cái chết của [Saeros](.
 
 Trong lúc đó, Beleg Cúthalion xin phép Thingol để đi tìm bạn mình.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup> Beleg tìm thấy Túrin những kẻ sống ngoài vòng pháp luật tại trại của họ, và khi không thể thuyết phục bạn mình rời bỏ những kẻ ngoài vòng pháp luật, ông ta đã rời đi để quay trở lại Doriath.<sup id="cite_ref-Outlaws_7-2" class="reference"><a href="#cite_note-Outlaws-7">[6]</a></sup>
 
-Khi họ bị chia cắt và sau một thời gian dài sống trong tự nhiên, nhóm của Túrin đã bắt được [Mîm](../M/Mîm.md) [Người lùn nhỏ](../P/Petty-dwarves.md). Mîm buộc phải chia sẻ [sảnh](../H/House_of_Ransom.md) của mình trên [Amon Rûdh](../A/Amon_Rûdh.md) với họ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup>
+Khi họ bị chia cắt và sau một thời gian dài sống trong tự nhiên, nhóm của Túrin đã bắt được [Mîm](../M/Mîm.md) [Người Lùn nhỏ](../P/Petty-dwarves.md). Mîm buộc phải chia sẻ [sảnh](../H/House_of_Ransom.md) của mình trên [Amon Rûdh](../A/Amon_Rûdh.md) với họ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup>
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Elena_Kukanova_-_Strongbow_and_Dragonhelm.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/95/Elena_Kukanova_-_Strongbow_and_Dragonhelm.jpg/200px-Elena_Kukanova_-_Strongbow_and_Dragonhelm.jpg" decoding="async" loading="lazy" width="200" height="110" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/95/Elena_Kukanova_-_Strongbow_and_Dragonhelm.jpg/300px-Elena_Kukanova_-_Strongbow_and_Dragonhelm.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/95/Elena_Kukanova_-_Strongbow_and_Dragonhelm.jpg/400px-Elena_Kukanova_-_Strongbow_and_Dragonhelm.jpg 2x" data-file-width="800" data-file-height="441"/></a><figcaption><i>Strongbow and Dragonhelm</i> by <a href="../E/Elena_Kukanova.md" title="Elena Kukanova">Elena Kukanova</a></figcaption></figure>
 
@@ -288,7 +288,7 @@ Sau đó, ông ta lặp lại lời thề của mình: ông ta từ chối nghe 
 
 ### Sigurd {#Sigurd}
 
-<b><a class="extiw" href="http://en.wikipedia.org/wiki/Sigurd" title="wikipedia:Sigurd">Mẹ của Sigurd</a>'</b>kết hôn với một Vua và bản thân Sigurd được một Người lùn nuôi dưỡng. Người lùn kể cho anh nghe về kho báu của con rồng Fafnir (anh trai anh) và làm lại một thanh kiếm gia truyền bị hỏng cho anh. Sigurd giết Fafnir bằng cách đợi ông ta trong một cái hố, dùng kiếm đâm ông ta khi ông ta đi qua nó. Tuy nhiên, số vàng mà ông ta giành được đã bị nguyền rủa.
+<b><a class="extiw" href="http://en.wikipedia.org/wiki/Sigurd" title="wikipedia:Sigurd">Mẹ của Sigurd</a>'</b>kết hôn với một Vua và bản thân Sigurd được một Người Lùn nuôi dưỡng. Người Lùn kể cho anh nghe về kho báu của con rồng Fafnir (anh trai anh) và làm lại một thanh kiếm gia truyền bị hỏng cho anh. Sigurd giết Fafnir bằng cách đợi ông ta trong một cái hố, dùng kiếm đâm ông ta khi ông ta đi qua nó. Tuy nhiên, số vàng mà ông ta giành được đã bị nguyền rủa.
 
 ### Balin {#Balin}
 

@@ -58,7 +58,7 @@ Tolkien cũng lưu ý rằng thuật ngữ "đi trên dây" trong văn bản đ�
 
 <b>2022: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Tighfield&#39;s  is one of the four settlements of &#34;<a href="The_Yondershire.md" title="The Yondershire">the Yondershire</a>&#34;, in the Shire&#39;s wilder north-western reaches.</dd></dl>
+<dl><dd>Tighfield&#39;s is one of the four settlements of &#34;<a href="The_Yondershire.md" title="The Yondershire">the Yondershire</a>&#34;, in the Shire&#39;s wilder north-western reaches.</dd></dl>
 
 ## Ghi chú {#Notes}
 

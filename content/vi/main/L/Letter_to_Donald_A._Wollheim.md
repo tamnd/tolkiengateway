@@ -26,7 +26,7 @@ Vào [10 tháng 2](../_/10_February.md) [1966](../_/1966.md), [J.R.R. Tolkien](.
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr. Wollheim,<br/><br/>I regret the delay in replying to your letter of Jan 27th.  I have been away from home - I was am an advance victim of the influenza epidemic now widespread in this country. Thanks for your expressions of esteem,<br/><br/>Yours Sincerely<br/>J.R.R. Tolkien.<br/><br/>Enclosed:  two copies of the proposed agreement, signed.  Also a copy of an &#39;agreed statement&#39; which I will send out as soon as I hear that it is acceptable. JRRT.
+<p>Dear Mr. Wollheim,<br/><br/>I regret the delay in replying to your letter of Jan 27th. I have been away from home - I was am an advance victim of the influenza epidemic now widespread in this country. Thanks for your expressions of esteem,<br/><br/>Yours Sincerely<br/>J.R.R. Tolkien.<br/><br/>Enclosed: two copies of the proposed agreement, signed. Also a copy of an &#39;agreed statement&#39; which I will send out as soon as I hear that it is acceptable. JRRT.
 </p>
 </blockquote>
 

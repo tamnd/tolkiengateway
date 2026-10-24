@@ -49,7 +49,7 @@ Bản thân các Gói thường chứa một hoặc nhiều bài viết thuộc 
 
 Alan và Michael Perry, những nhà điêu khắc Games Workshop mà công việc của họ đôi khi có nhiều vấn đề, nhận thấy rằng điều đó khuyến khích những người mới tham gia vào sở thích chơi game thu nhỏ.<sup id="cite_ref-Interview_3-0" class="reference"><a href="#cite_note-Interview-3">[3]</a></sup>
 
-Sau khi kết thúc hợp tác, [Mark Latham](../M/Mark_Latham.md), một biên tập viên và nhà văn, và Glenn More, một nhà thiết kế đồ họa, đã được chuyển đến [White Người lùn](../W/White_Dwarf.md), tức là tạp chí của [Games Workshop](../G/Games_Workshop.md). Đây là một điều mà người hâm mộ có triển vọng thấy thú vị, vì họ nhận thấy White Người lùn thiếu chiều sâu trong việc đưa tin về nội dung Chúa tể những chiếc nhẫn.<sup id="cite_ref-GWOnline_4-0" class="reference"><a href="#cite_note-GWOnline-4">[4]</a></sup>
+Sau khi kết thúc hợp tác, [Mark Latham](../M/Mark_Latham.md), một biên tập viên và nhà văn, và Glenn More, một nhà thiết kế đồ họa, đã được chuyển đến [White Người Lùn](../W/White_Dwarf.md), tức là tạp chí của [Games Workshop](../G/Games_Workshop.md). Đây là một điều mà người hâm mộ có triển vọng thấy thú vị, vì họ nhận thấy White Người Lùn thiếu chiều sâu trong việc đưa tin về nội dung Chúa tể những chiếc nhẫn.<sup id="cite_ref-GWOnline_4-0" class="reference"><a href="#cite_note-GWOnline-4">[4]</a></sup>
 
 ## Bằng các ngôn ngữ khác {#In_other_languages}
 

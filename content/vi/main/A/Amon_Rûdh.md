@@ -68,13 +68,13 @@ Amon Rûdh nằm ở rìa phía đông của [vùng đồi hoang cao](../M/Moors
 
 ## Lịch sử {#History}
 
-Có thời Amon Rûdh là nơi cư trú của một cộng đồng Người lùn Nhỏ trong những hang động có thể chứa một trăm người hoặc hơn. Nơi đây có một đại sảnh và một sảnh phụ, cùng nhiều phòng và lối đi khác. Có một ống khói ẩn dành cho bếp lửa, cùng những căn phòng chứa rìu và các dụng cụ khác. Tuy nhiên, số Người lùn Nhỏ đã giảm dần cho đến khi chỉ còn [Mîm](../M/Mîm.md) và các con trai của ông là [Ibun](../I/Ibun.md) và [Khîm](../K/Khîm.md) sống trong nơi ẩn náu trên đỉnh đồi.
+Có thời Amon Rûdh là nơi cư trú của một cộng đồng Người Lùn Nhỏ trong những hang động có thể chứa một trăm người hoặc hơn. Nơi đây có một đại sảnh và một sảnh phụ, cùng nhiều phòng và lối đi khác. Có một ống khói ẩn dành cho bếp lửa, cùng những căn phòng chứa rìu và các dụng cụ khác. Tuy nhiên, số Người Lùn Nhỏ đã giảm dần cho đến khi chỉ còn [Mîm](../M/Mîm.md) và các con trai của ông là [Ibun](../I/Ibun.md) và [Khîm](../K/Khîm.md) sống trong nơi ẩn náu trên đỉnh đồi.
 
-Mîm bị một nhóm những kẻ ngoài vòng pháp luật do Túrin cầm đầu bắt giữ và buộc phải tiết lộ vị trí nơi ẩn náu của mình, nơi từ đó được gọi là <i><b><a class="mw-redirect" href="../B/Bar-en-Danwedh.md" title="Bar-en-Danwedh">Bar-en-Danwedh</a></b></i>, *"Ngôi nhà Chuộc tội"*. Trước đó, nơi này được biết đến với tên <i><b>Bar-en-Nibin-noeg</b></i>, "Ngôi nhà của Người lùn Nhỏ". Khi phát hiện ra rằng Khîm, người đã bị bắn, thực sự đã chết, Túrin hối hận và đề nghị phục vụ Người lùn này; từ đó, ông ta chấp nhận sự hiện diện của những kẻ ngoài vòng pháp luật.
+Mîm bị một nhóm những kẻ ngoài vòng pháp luật do Túrin cầm đầu bắt giữ và buộc phải tiết lộ vị trí nơi ẩn náu của mình, nơi từ đó được gọi là <i><b><a class="mw-redirect" href="../B/Bar-en-Danwedh.md" title="Bar-en-Danwedh">Bar-en-Danwedh</a></b></i>, *"Ngôi nhà Chuộc tội"*. Trước đó, nơi này được biết đến với tên <i><b>Bar-en-Nibin-noeg</b></i>, "Ngôi nhà của Người Lùn Nhỏ". Khi phát hiện ra rằng Khîm, người đã bị bắn, thực sự đã chết, Túrin hối hận và đề nghị phục vụ Người Lùn này; từ đó, ông ta chấp nhận sự hiện diện của những kẻ ngoài vòng pháp luật.
 
 Amon Rûdh trở thành căn cứ hoạt động của những kẻ ngoài vòng pháp luật; với sự xuất hiện của [Beleg](../B/Beleg.md), nơi đây trở thành trung tâm của vùng được gọi là *[Dor-Cúarthol](../D/Dor-Cúarthol.md)*, "Xứ Cung và Mũ" (ám chỉ Hai vị Thủ lĩnh, Beleg và Túrin), một trung tâm kháng chiến chống lại lực lượng của [Morgoth](../M/Morgoth.md). Cuối cùng, vị trí của Túrin bị phát hiện, những kẻ ngoài vòng pháp luật bị [Orcs](../O/Orcs.md) tiêu diệt, và đỉnh đồi thực sự nhuốm máu.<sup id="cite_ref-Mim_3-1" class="reference"><a href="#cite_note-Mim-3">[3]</a></sup>
 
-Amon Rûdh bị nhấn chìm dưới [biển](../B/Belegaer.md) cùng với sự hủy diệt của [Beleriand](../B/Beleriand.md) trong [War of Wrath](../W/War_of_Wrath.md) vào cuối Kỷ nguyên thứ Nhất.
+Amon Rûdh bị nhấn chìm dưới [biển](../B/Belegaer.md) cùng với sự hủy diệt của [Beleriand](../B/Beleriand.md) trong [War of Wrath](../W/War_of_Wrath.md) vào cuối Kỷ Đệ Nhất.
 
 ## Từ nguyên {#Etymology}
 

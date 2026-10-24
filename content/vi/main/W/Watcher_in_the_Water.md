@@ -71,7 +71,7 @@ Trong bản thảo có tựa đề "The Mines of Moria (1): The Chúa tể Moria
 </p>
 </blockquote>
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md) suy đoán rằng điều này liên quan đến việc Gandalf nói với Frodo rằng các xúc tu của Người theo dõi "tất cả đều được dẫn hướng bởi một mục đích".<sup id="cite_ref-fingers_10-2" class="reference"><a href="#cite_note-fingers-10">[10]</a></sup> Sau đó trong bản dự thảo này, Gandalf đã tuyên bố rõ ràng rằng "Người theo dõi đang canh giữ Người lùn cửa",<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>, đây là một tuyên bố không có trong văn bản đã xuất bản. Tolkien sau đó đã thêm tuyên bố của Gimli"rằng Người canh gác đang ngủ, hoặc có vẻ như vậy, ở cuối phía nam của hồ bơi".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+[Christopher Tolkien](../C/Christopher_Tolkien.md) suy đoán rằng điều này liên quan đến việc Gandalf nói với Frodo rằng các xúc tu của Người theo dõi "tất cả đều được dẫn hướng bởi một mục đích".<sup id="cite_ref-fingers_10-2" class="reference"><a href="#cite_note-fingers-10">[10]</a></sup> Sau đó trong bản dự thảo này, Gandalf đã tuyên bố rõ ràng rằng "Người theo dõi đang canh giữ Người Lùn cửa",<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>, đây là một tuyên bố không có trong văn bản đã xuất bản. Tolkien sau đó đã thêm tuyên bố của Gimli"rằng Người canh gác đang ngủ, hoặc có vẻ như vậy, ở cuối phía nam của hồ bơi".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -91,7 +91,7 @@ Trong bản thảo có tựa đề "The Mines of Moria (1): The Chúa tể Moria
 		</li>
 </ul>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The Watcher in the Water is a green, multi-tentacled monster. Only the tentacles can be seen. It takes <a href="../B/Bill_the_Pony.md" title="Bill the Pony">Bill the Pony</a> and pulls the <a href="../D/Doors_of_Durin.md" title="Doors of Durin">Doors of Durin</a> shut once the Fellowship is inside the mountains.</dd></dl>
 

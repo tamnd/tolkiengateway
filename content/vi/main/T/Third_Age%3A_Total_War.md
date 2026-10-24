@@ -73,7 +73,7 @@ Các phe phái có nền văn hóa [Người phương Bắc](../N/Northmen.md):
 
 ### Phe người lùn {#Dwarvish_Factions}
 
-Các phe phái có nền văn hóa [Người lùn](../D/Dwarves.md):
+Các phe phái có nền văn hóa [Người Lùn](../D/Dwarves.md):
 
 - [Người Lùn](../D/Dwarves.md)
 

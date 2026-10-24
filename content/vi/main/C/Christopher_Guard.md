@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Guard, Christopher"
 ---
 
-**Christopher Guard** ([Ngày 5 tháng 12](../_/5_December.md), [1953](../_/1953.md)) là một diễn viên người Anh. Ông lồng tiếng cho [Frodo Baggins](../F/Frodo_Baggins.md) trong [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>). Ông là anh trai của [Dominic Guard](../D/Dominic_Guard.md), người đã chơi [Peregrin Took](../P/Peregrin_Took.md).
+**Christopher Guard** ([Ngày 5 tháng 12](../_/5_December.md), [1953](../_/1953.md)) là một diễn viên người Anh. Ông lồng tiếng cho [Frodo Baggins](../F/Frodo_Baggins.md) trong [*The Lord of the Rings* (phim năm 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>). Ông là anh trai của [Dominic Guard](../D/Dominic_Guard.md), người đã chơi [Peregrin Took](../P/Peregrin_Took.md).
 
 ## Liên kết ngoài {#External_links}
 

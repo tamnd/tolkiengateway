@@ -48,7 +48,7 @@ infobox:
 
 <i><b>Bombadil Goes Boating</b></i> là một bài thơ do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sáng tác và được xuất bản trong *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Là một phần của truyền thuyết về Shire được ghi lại trong [Red Book](../R/Red_Book.md), bài thơ được sáng tác sau [War of the Ring](../W/War_of_the_Ring.md) tại [Buckland](Buckland.md), cho thấy sự am hiểu về địa lý xung quanh vùng này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, bài thơ có lẽ đề cập đến thời điểm trước ngày [22 September](../_/22_September.md) năm [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>, khi những tin tức đáng lo ngại từ khu vực xung quanh biên giới truyền đến [the Shire](../T/The_Shire.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Là một phần của truyền thuyết về Shire được ghi lại trong [Red Book](../R/Red_Book.md), bài thơ được sáng tác sau [War of the Ring](../W/War_of_the_Ring.md) tại [Buckland](Buckland.md), cho thấy sự am hiểu về địa lý xung quanh vùng này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, bài thơ có lẽ đề cập đến thời điểm trước ngày [22 September](../_/22_September.md) năm [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>, khi những tin tức đáng lo ngại từ khu vực xung quanh biên giới truyền đến [Shire](../T/The_Shire.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Tóm lược {#Synopsis}
 

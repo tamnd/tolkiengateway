@@ -174,11 +174,11 @@ Ori được cho là anh em họ của Dori và Nori trong ghi chú của Tolkie
 
 ### Phim {#Films}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim năm 1967)</a>:</b>
 
 <dl><dd>Ori is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed watchman and princess <a href="../M/Mika_Milovana.md" title="Mika Milovana">Mika Milovana</a> of Dale.<sup id="cite_ref-Deitch_14-0" class="reference"><a href="#cite_note-Deitch-14">[14]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>Ori&#39;s voice is provided by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jack_DeLeon&amp;action=edit&amp;redlink=1" title="Jack DeLeon (page does not exist)">Jack DeLeon</a>. However, he only ever speaks in unison with the rest of the Dwarves.</dd></dl>
 

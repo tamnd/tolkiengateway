@@ -35,7 +35,7 @@ Hầu hết các tên không phải tiếng Anh trong *[The Hobbit](../T/The_Hob
 
 Trong cốt truyện được phát triển cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien đã giải thích rằng [Durin's Folk](../D/Durin's_Folk~15256.md), sau khi di cư đến [Erebor](../L/Lonely_Mountain.md), đã sử dụng ngôn ngữ Dale cho tên của họ khi tương tác với [Con Người](../M/Men.md) vì bản chất bí mật của họ đã ngăn cản họ sử dụng [Khuzdul](../K/Khuzdul.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Các tên trong *The Lord of the Rings* như [Gimli](../G/Gimli.md), [Narvi](Narvi.md) và [Forn](../T/Tom_Bombadil.md) cũng là Bắc Âu.
 
-Tolkien không bao giờ cung cấp các dạng tiếng Dalish "gốc", tuy nhiên các bản dịch Bắc Âu phù hợp với ý nghĩa của chúng một cách thuận tiện; ví dụ: Người lùn quan hệ - như cha-con hoặc anh em - có tên có vần điệu hoặc tương tự (cf. [Glóin](../G/Glóin.md)-[Gróin](../G/Gróin.md)-[Óin](../_/Óin.md), [Thrór](../T/Thrór.md)-[Frór](../F/Frór.md)-[Grór](../G/Grór.md), [Fíli](../F/Fíli.md)-[Kíli](../K/Kíli.md) v.v.)<sup id="cite_ref-intro_1-1" class="reference"><a href="#cite_note-intro-1">[1]</a></sup> có thể phản ánh mối quan hệ tương tự ở dạng ban đầu của chúng.
+Tolkien không bao giờ cung cấp các dạng tiếng Dalish "gốc", tuy nhiên các bản dịch Bắc Âu phù hợp với ý nghĩa của chúng một cách thuận tiện; ví dụ: Người Lùn quan hệ - như cha-con hoặc anh em - có tên có vần điệu hoặc tương tự (cf. [Glóin](../G/Glóin.md)-[Gróin](../G/Gróin.md)-[Óin](../_/Óin.md), [Thrór](../T/Thrór.md)-[Frór](../F/Frór.md)-[Grór](../G/Grór.md), [Fíli](../F/Fíli.md)-[Kíli](../K/Kíli.md) v.v.)<sup id="cite_ref-intro_1-1" class="reference"><a href="#cite_note-intro-1">[1]</a></sup> có thể phản ánh mối quan hệ tương tự ở dạng ban đầu của chúng.
 
 Bắc Âu đã sử dụng [Chữ rune](../R/Runes.md) cho hệ thống chữ viết, tuy nhiên Tolkien trong *The Hobbit* đã sử dụng [tiếng Anh cổ](../O/Old_English.md) rune.
 
@@ -63,5 +63,5 @@ Các ngôn ngữ không phải tiếng Đức khác xuất hiện trong [Tolkien
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/North_Germanic_languages" title="wikipedia:North Germanic languages">Các ngôn ngữ German Bắc</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://glaemscrafu.jrrvf.com/english/oldnorse.html" rel="noreferrer noopener" target="_blank">Văn bản và mẫu âm thanh</a> trong [Glǽmscrafu](../G/Glǽmscrafu.md)
-- <a class="external text" href="http://www.heimskringla.no/wiki/Gylfaginning" rel="noreferrer noopener" target="_blank">Văn bản Gylfaginning</a> có tên Người lùn (phần **16** trở xuống)
-- <a class="external text" href="http://en.wikisource.org/wiki/Poetic_Edda/V%C3%B6lusp%C3%A1" rel="noreferrer noopener" target="_blank">Văn bản Voluspa</a> có tên Người lùn (phần **9** trở xuống)
+- <a class="external text" href="http://www.heimskringla.no/wiki/Gylfaginning" rel="noreferrer noopener" target="_blank">Văn bản Gylfaginning</a> có tên Người Lùn (phần **16** trở xuống)
+- <a class="external text" href="http://en.wikisource.org/wiki/Poetic_Edda/V%C3%B6lusp%C3%A1" rel="noreferrer noopener" target="_blank">Văn bản Voluspa</a> có tên Người Lùn (phần **9** trở xuống)

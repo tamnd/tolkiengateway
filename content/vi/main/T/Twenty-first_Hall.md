@@ -24,7 +24,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Twenty-First_Hall.jpeg"
 ---
 
-**Đại sảnh thứ Hai mươi mốt** là một đại sảnh ở [Tầng thứ bảy](../S/Seventh_Level.md) ở [Đầu phía Bắc](../N/North_End.md) của vương quốc [Người lùn](../D/Dwarves.md) [Moria](../M/Moria.md).
+**Đại sảnh thứ Hai mươi mốt** là một đại sảnh ở [Tầng thứ bảy](../S/Seventh_Level.md) ở [Đầu phía Bắc](../N/North_End.md) của vương quốc [Người Lùn](../D/Dwarves.md) [Moria](../M/Moria.md).
 
 <br> Thuộc địa của [Balin](../B/Balin's_Colony~64118.md) đã lấy lại Sảnh từ [Orc](../O/Orcs.md). Có đề cập rằng có "không khí trong lành" và "trục thông thoáng" và cho phép Người Lùn quan sát xung quanh.
 

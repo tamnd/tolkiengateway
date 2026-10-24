@@ -43,7 +43,7 @@ Dự kiến ​​​​được bắt đầu vào [14 tháng 10](../_/14_Octobe
 
 Nhóm bắt đầu với các địa điểm như [Bree](../B/Bree.md) và [Hobbiton](../H/Hobbiton.md), vào thời điểm mà nhiều công cụ mà những người xây dựng Minecraft hiện nay sử dụng vẫn chưa được phát triển.<sup id="cite_ref-pcgamer_1-2" class="reference"><a href="#cite_note-pcgamer-1">[1]</a></sup>
 
-Để chứa được càng nhiều người càng tốt, thế giới có thể được truy cập mà không cần bất kỳ sửa đổi nào của khách hàng. Để nâng cao trải nghiệm, nhóm cung cấp một số gói tài nguyên và trình đổ bóng thông qua trình cài đặt mod chuyên dụng. Các gói tài nguyên có các kiểu Con người, Người lùn, Tiên, Rohan và Mordor.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Để chứa được càng nhiều người càng tốt, thế giới có thể được truy cập mà không cần bất kỳ sửa đổi nào của khách hàng. Để nâng cao trải nghiệm, nhóm cung cấp một số gói tài nguyên và trình đổ bóng thông qua trình cài đặt mod chuyên dụng. Các gói tài nguyên có các kiểu Con người, Người Lùn, Tiên, Rohan và Mordor.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Di sản {#Legacy}
 

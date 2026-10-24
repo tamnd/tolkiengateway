@@ -122,7 +122,7 @@ Trong *[Etymologies](../T/The_Etymologies.md)*, tên *Orchrist* được cho là
 		</li>
 </ul>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>Thorin acquires Glamdring in the trolls&#39; cave. Elrond recognises the sword at first glance, and afterwards identifies Glamdring. The Goblins found Orcrist on Thorin after they captured the Dwarves and Bilbo and it was recognised by the guard who removes it from his person. Thorin&#39;s recovery of it is not depicted.</dd></dl>
 

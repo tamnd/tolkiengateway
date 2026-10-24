@@ -54,7 +54,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../G/Gimli.md" title="Gimli">Gimli</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Ring_Goes_South.md" title="The Ring Goes South">The Ring Goes South</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
 
-**Caradhras**, được [Người lùn](../D/Dwarves.md) gọi là **Kẻ Tàn Nhẫn**, là một trong những đỉnh núi hùng vĩ nhất của [Dãy núi Mù Sương](../M/Misty_Mountains.md). [Cổng Redhorn](../R/Redhorn_Gate.md) là một con đèo chạy dọc theo các sườn phía nam của nó.<sup id="cite_ref-South_1-0" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
+**Caradhras**, được [Người Lùn](../D/Dwarves.md) gọi là **Kẻ Tàn Nhẫn**, là một trong những đỉnh núi hùng vĩ nhất của [Dãy núi Mù Sương](../M/Misty_Mountains.md). [Cổng Redhorn](../R/Redhorn_Gate.md) là một con đèo chạy dọc theo các sườn phía nam của nó.<sup id="cite_ref-South_1-0" class="reference"><a href="#cite_note-South-1">[1]</a></sup>
 
 ## Địa lý {#Geography}
 
@@ -62,9 +62,9 @@ infobox:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tom_Cross_-_Caradhras.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9b/Tom_Cross_-_Caradhras.jpg/300px-Tom_Cross_-_Caradhras.jpg" decoding="async" loading="lazy" width="300" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9b/Tom_Cross_-_Caradhras.jpg/450px-Tom_Cross_-_Caradhras.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9b/Tom_Cross_-_Caradhras.jpg/600px-Tom_Cross_-_Caradhras.jpg 2x" data-file-width="720" data-file-height="301"/></a><figcaption><i>Caradhras</i> by <a href="../T/Tom_Cross.md" title="Tom Cross">Tom Cross</a></figcaption></figure>
 
-Caradhras là ngọn núi cao nhất và nằm ở cực bắc của [Dãy núi Moria](../M/Mountains_of_Moria.md), ba ngọn núi bên dưới đó thành phố [Người lùn](../D/Dwarves.md) vĩ đại [Khazad-dûm](../M/Moria.md) được xây dựng. Hai ngọn núi còn lại là [Celebdil](Celebdil.md) ("Silvertine") và [Fanuidhol](../F/Fanuidhol.md) ("Cloudyhead"). Caradhras được mô tả là "đỉnh núi hùng vĩ, chóp phủ tuyết như bạc, nhưng các sườn trơ trụi dựng đứng". Dưới ánh mặt trời mọc hoặc lặn, nó trông "đỏ sẫm như thể nhuốm máu".
+Caradhras là ngọn núi cao nhất và nằm ở cực bắc của [Dãy núi Moria](../M/Mountains_of_Moria.md), ba ngọn núi bên dưới đó thành phố [Người Lùn](../D/Dwarves.md) vĩ đại [Khazad-dûm](../M/Moria.md) được xây dựng. Hai ngọn núi còn lại là [Celebdil](Celebdil.md) ("Silvertine") và [Fanuidhol](../F/Fanuidhol.md) ("Cloudyhead"). Caradhras được mô tả là "đỉnh núi hùng vĩ, chóp phủ tuyết như bạc, nhưng các sườn trơ trụi dựng đứng". Dưới ánh mặt trời mọc hoặc lặn, nó trông "đỏ sẫm như thể nhuốm máu".
 
-Caradhras được Người lùn gọi là Kẻ Tàn Nhẫn và từ lâu đã mang tiếng xấu. Danh hiệu này được đặt từ rất lâu trước đó, khi cái tên Sauron vẫn chỉ là một lời đồn.<sup id="cite_ref-South_1-1" class="reference"><a href="#cite_note-South-1">[1]</a></sup> Đây là nơi duy nhất ở Trung Địa tìm thấy *[mithril](../M/Mithril.md)*, cũng là nơi [Người lùn](../D/Durin's_Folk~15256.md) đánh thức [Tai họa của Durin](../D/Durin's_Bane.md), [Balrog](../B/Balrogs.md) của [Moria](../M/Moria.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Caradhras được Người Lùn gọi là Kẻ Tàn Nhẫn và từ lâu đã mang tiếng xấu. Danh hiệu này được đặt từ rất lâu trước đó, khi cái tên Sauron vẫn chỉ là một lời đồn.<sup id="cite_ref-South_1-1" class="reference"><a href="#cite_note-South-1">[1]</a></sup> Đây là nơi duy nhất ở Trung Địa tìm thấy *[mithril](../M/Mithril.md)*, cũng là nơi [Người Lùn](../D/Durin's_Folk~15256.md) đánh thức [Tai họa của Durin](../D/Durin's_Bane.md), [Balrog](../B/Balrogs.md) của [Moria](../M/Moria.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên học {#Etymology}
 

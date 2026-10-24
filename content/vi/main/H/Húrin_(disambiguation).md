@@ -34,7 +34,7 @@ images:
     - [Nhà Húrin](House_of_Húrin.md), nhà triều đại của [Quản lý](../S/Stewards_of_Gondor.md) nhà [Gondor](../G/Gondor.md), được đặt theo tên Húrin của [Emyn Arnen](../E/Emyn_Arnen.md).
 - [Húrin Tôi](Húrin_I.md) ([T.A.](../T/Third_Age.md) [2124](../T/Third_Age_2124.md) - [2244](../T/Third_Age_2244.md)), [Người quản lý cầm quyền](../R/Ruling_Steward.md) thứ năm của Gondor.
 - [Húrin II](Húrin_II.md) ([T.A.](../T/Third_Age.md) [2515](../T/Third_Age_2515.md) - [2628](../T/Third_Age_2628.md)), [Người quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười bốn của Gondor.
-- [Húrin the Tall](<Húrin_(Warden_of_the_Keys).md>) (fl. [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), [Người bảo vệ chìa khóa](../W/Warden_of_the_Keys.md) của [Minas Tirith](../M/Minas_Tirith.md) tại thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
+- [Húrin Tall](<Húrin_(Warden_of_the_Keys).md>) (fl. [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), [Người bảo vệ chìa khóa](../W/Warden_of_the_Keys.md) của [Minas Tirith](../M/Minas_Tirith.md) tại thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
 <hr style="margin-top:15px;"/>
 

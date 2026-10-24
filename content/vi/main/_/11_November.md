@@ -86,7 +86,7 @@ Sự kiện xảy ra vào ngày 11 tháng 11
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
     - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md):
-    - A Người lùn (có lẽ [Ori](../O/Ori.md)) viết trong [Sách Mazarbul](../B/Book_of_Mazarbul.md) về cái chết của [Balin](../B/Balin.md) vào ngày hôm trước.
+    - A Người Lùn (có lẽ [Ori](../O/Ori.md)) viết trong [Sách Mazarbul](../B/Book_of_Mazarbul.md) về cái chết của [Balin](../B/Balin.md) vào ngày hôm trước.
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
     - Trăng tròn<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>

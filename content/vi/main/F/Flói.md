@@ -56,7 +56,7 @@ infobox:
 
 Flói là một thành viên của [người Balin](../B/Balin's_folk.md) đã cố gắng giành lại [Moria](../M/Moria.md) ở [T.A.](../T/Third_Age.md) [2989](../T/Third_Age_2989.md). Khi họ tới [Mirrormere](../M/Mirrormere.md), một trận chiến lớn đã diễn ra. Flói dũng cảm đã giết chết vị thủ lĩnh vĩ đại nhưng lại bị giết bởi một mũi tên của [Yêu tinh](../G/Goblin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Mặc dù trái với truyền thống Người lùn,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ông vẫn được chôn dưới bãi cỏ gần Mirrormere. Cái chết của ông được ghi vào [Sách Mazarbul](../B/Book_of_Mazarbul.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Mặc dù trái với truyền thống Người Lùn,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ông vẫn được chôn dưới bãi cỏ gần Mirrormere. Cái chết của ông được ghi vào [Sách Mazarbul](../B/Book_of_Mazarbul.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -16,9 +16,9 @@ sort_keys:
   "Khuzdul": "Iglishmek"
 ---
 
-**Iglishmêk** là một ngôn ngữ [Người lùn](../D/Dwarves.md) sử dụng các cử chỉ-ký hiệu im lặng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-VT39_2-0" class="reference"><a href="#cite_note-VT39-2">[2]</a></sup>
+**Iglishmêk** là một ngôn ngữ [Người Lùn](../D/Dwarves.md) sử dụng các cử chỉ-ký hiệu im lặng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-VT39_2-0" class="reference"><a href="#cite_note-VT39-2">[2]</a></sup>
 
-Được coi là phức tạp và có tổ chức hơn nhiều so với các hệ thống Elvish ([mátengwië](../M/Mátengwië.md)), iglishmêk là ngôn ngữ thứ hai mà Người Lùn bắt đầu học gần như ngay sau khi nói ngôn ngữ đó. Điều này được sử dụng để liên lạc bí mật với nhau khi giao tiếp với người lạ và không giống như sự thống nhất trong ngôn ngữ nói của họ ([Khuzdul](../K/Khuzdul.md)), iglishmêk rất khác nhau giữa các cộng đồng Người lùn. Các cử chỉ rất nhanh chóng và tinh tế và khó có thể bị phát hiện chứ đừng nói đến việc hiểu được bởi những người xem không quen biết. Họ không sẵn lòng dạy điều này hơn ngôn ngữ nói của họ, nhưng một số Noldorin chuyên gia truyền thuyết đã được phép học đủ để hiểu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Được coi là phức tạp và có tổ chức hơn nhiều so với các hệ thống Elvish ([mátengwië](../M/Mátengwië.md)), iglishmêk là ngôn ngữ thứ hai mà Người Lùn bắt đầu học gần như ngay sau khi nói ngôn ngữ đó. Điều này được sử dụng để liên lạc bí mật với nhau khi giao tiếp với người lạ và không giống như sự thống nhất trong ngôn ngữ nói của họ ([Khuzdul](../K/Khuzdul.md)), iglishmêk rất khác nhau giữa các cộng đồng Người Lùn. Các cử chỉ rất nhanh chóng và tinh tế và khó có thể bị phát hiện chứ đừng nói đến việc hiểu được bởi những người xem không quen biết. Họ không sẵn lòng dạy điều này hơn ngôn ngữ nói của họ, nhưng một số Noldorin chuyên gia truyền thuyết đã được phép học đủ để hiểu.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Ví dụ {#Examples}
 

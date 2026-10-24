@@ -33,7 +33,7 @@ infobox:
     value: "Images of Agandaûr"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Agandaûr&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Agandaûr&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTR-WITN-Agandaur2.png.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ad/LOTR-WITN-Agandaur2.png/320px-LOTR-WITN-Agandaur2.png" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/LOTR-WITN-Agandaur2.png/480px-LOTR-WITN-Agandaur2.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/ad/LOTR-WITN-Agandaur2.png/640px-LOTR-WITN-Agandaur2.png 2x" data-file-width="1280" data-file-height="720"/></a><figcaption>&#34;Agandaûr&#34; from <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../B/Black_Númenóreans.md" title="Black Númenóreans">Black Númenóreans</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Agandaûr</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../F/Fornost.md" title="Fornost">Fornost</a><br/><a href="../C/Carn_Dûm.md" title="Carn Dûm">Carn Dûm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../S/Sauron.md" title="Sauron">Sauron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Weaponry</th><td class="tg-infobox-data">Sword</td></tr><tr><th scope="row" class="tg-infobox-label">Steed</th><td class="tg-infobox-data"><a class="mw-redirect" href="../F/Fell_beast.md" title="Fell beast">Fell beast</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Agandaûr.md" title="Category:Images of Agandaûr">Images of Agandaûr</a></td></tr></tbody></table>
 
@@ -45,7 +45,7 @@ infobox:
 
 #### Thời niên thiếu {#Early_life}
 
-Ngày sinh của Agandaûr, cũng như hầu hết các thông tin cá nhân của hắn, đều không được biết đến. Hắn hẳn đã bắt đầu phụng sự Sauron vào một thời điểm nào đó trong [Kỷ nguyên thứ Ba](../T/Third_Age.md). Agandaûr trở thành một chiến binh và pháp sư tài ba, có lẽ đã được chính Sauron dạy dỗ.<sup id="cite_ref-Citadeltower_2-1" class="reference"><a href="#cite_note-Citadeltower-2">[2]</a></sup>
+Ngày sinh của Agandaûr, cũng như hầu hết các thông tin cá nhân của hắn, đều không được biết đến. Hắn hẳn đã bắt đầu phụng sự Sauron vào một thời điểm nào đó trong [Kỷ Đệ Tam](../T/Third_Age.md). Agandaûr trở thành một chiến binh và pháp sư tài ba, có lẽ đã được chính Sauron dạy dỗ.<sup id="cite_ref-Citadeltower_2-1" class="reference"><a href="#cite_note-Citadeltower-2">[2]</a></sup>
 
 #### Cuộc Chiến của Chiếc Nhẫn {#War_of_the_Ring}
 
@@ -67,7 +67,7 @@ Agandaûr là một [Người Númenórean Hắc Ám](../B/Black_Númenóreans.m
 
 ## Cảm hứng {#Inspiration}
 
-Cuộc trò chuyện của Agandaûr với những Người lùn ở Nordinbad được Lãnh chúa Gorin nhắc đến dường như dựa trên cuộc trò chuyện giữa [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) và sứ giả của Sauron được nhắc đến trong *[The Council of Elrond](../T/The_Council_of_Elrond.md)*.
+Cuộc trò chuyện của Agandaûr với những Người Lùn ở Nordinbad được Lãnh chúa Gorin nhắc đến dường như dựa trên cuộc trò chuyện giữa [Dáin Chân Sắt](../D/Dáin_Ironfoot.md) và sứ giả của Sauron được nhắc đến trong *[The Council of Elrond](../T/The_Council_of_Elrond.md)*.
 
 ## Xem thêm {#See_also}
 

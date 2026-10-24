@@ -39,13 +39,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Warren_Mahy_-_Firebeard_dwarf.png.md"><img src="https://tolkiengateway.net/w/images/9/94/Warren_Mahy_-_Firebeard_dwarf.png" decoding="async" loading="lazy" width="260" height="467" class="mw-file-element" data-file-width="260" data-file-height="467"/></a><figcaption>&#34;<a href="../../file/W/Warren_Mahy_-_Firebeard_dwarf.png.md" title="File:Warren Mahy - Firebeard dwarf.png">Firebeard dwarf</a>&#34; by Warren Mahy</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Firebeards</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Locations</th><td class="tg-infobox-data">Either <a href="../B/Belegost.md" title="Belegost">Belegost</a> or <a href="../N/Nogrod.md" title="Nogrod">Nogrod</a> or both, <a class="mw-redirect" href="../K/Khazad-dûm.md" title="Khazad-dûm">Khazad-dûm</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <a href="../B/Blue_Mountains.md" title="Blue Mountains">Blue Mountains</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../B/Broadbeams.md" title="Broadbeams">Broadbeams</a></td></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data"><a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a>, <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Members</th><td class="tg-infobox-data">Either <a href="../A/Azaghâl.md" title="Azaghâl">Azaghâl</a> or <a href="../T/Telchar.md" title="Telchar">Telchar</a> and <a href="../G/Gamil_Zirak.md" title="Gamil Zirak">Gamil Zirak</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Firebeards.md" title="Category:Images of Firebeards">Images of Firebeards</a></td></tr></tbody></table>
 
-**Firebeards** là một trong bảy tộc của [Người lùn](../D/Dwarves.md). Ban đầu, họ có quan hệ thành cặp với [Broadbeams](../B/Broadbeams.md). Tổ tiên của Firebeards là một trong những vị tổ tiên lâu đời nhất (cùng với tổ tiên của [Broadbeams](../B/Broadbeams.md) và [Longbeards](../D/Durin's_Folk~15256.md)) trong số Bảy Tổ tiên của Người lùn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Firebeards** là một trong bảy tộc của [Người Lùn](../D/Dwarves.md). Ban đầu, họ có quan hệ thành cặp với [Broadbeams](../B/Broadbeams.md). Tổ tiên của Firebeards là một trong những vị tổ tiên lâu đời nhất (cùng với tổ tiên của [Broadbeams](../B/Broadbeams.md) và [Longbeards](../D/Durin's_Folk~15256.md)) trong số Bảy Tổ tiên của Người Lùn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Firebeards (cùng với Broadbeams) thức tỉnh tại [Dãy Núi Xanh](../B/Blue_Mountains.md) và sinh sống ở đó suốt lịch sử của dân tộc mình. Hai tộc này đã xây dựng những thành phố Người lùn vĩ đại là [Nogrod](../N/Nogrod.md) và [Belegost](../B/Belegost.md) tại Dãy Núi Xanh, và cư ngụ ở đó trước khi các thành phố bị phá hủy trong [Cuộc chiến Thịnh nộ](../W/War_of_Wrath.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Firebeards (cùng với Broadbeams) thức tỉnh tại [Dãy Núi Xanh](../B/Blue_Mountains.md) và sinh sống ở đó suốt lịch sử của dân tộc mình. Hai tộc này đã xây dựng những thành phố Người Lùn vĩ đại là [Nogrod](../N/Nogrod.md) và [Belegost](../B/Belegost.md) tại Dãy Núi Xanh, và cư ngụ ở đó trước khi các thành phố bị phá hủy trong [Cuộc chiến Thịnh nộ](../W/War_of_Wrath.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Vào [Kỷ nguyên thứ Hai](../S/Second_Age.md), khoảng năm [40](../S/Second_Age_40.md),<sup id="cite_ref-SA_4-0" class="reference"><a href="#cite_note-SA-4">[4]</a></sup> những người thuộc Firebeards và Broadbeams sống tại Nogrod và Belegost đã rời bỏ vùng đất bị tàn phá và đến [Khazad-dûm](../K/Khazad-dûm.md), góp phần gia tăng sự giàu có và quyền lực của nơi này.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào [Kỷ Đệ Nhị](../S/Second_Age.md), khoảng năm [40](../S/Second_Age_40.md),<sup id="cite_ref-SA_4-0" class="reference"><a href="#cite_note-SA-4">[4]</a></sup> những người thuộc Firebeards và Broadbeams sống tại Nogrod và Belegost đã rời bỏ vùng đất bị tàn phá và đến [Khazad-dûm](../K/Khazad-dûm.md), góp phần gia tăng sự giàu có và quyền lực của nơi này.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Tuy nhiên, về sau vẫn luôn có một số Người lùn sinh sống ở phía đông Dãy Núi Xanh.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tuy nhiên, về sau vẫn luôn có một số Người Lùn sinh sống ở phía đông Dãy Núi Xanh.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết huyền sử {#Other_versions_of_the_legendarium}
 
@@ -69,8 +69,8 @@ Không rõ liệu hai tộc có cùng sinh sống tại hai thành phố hay m�
 
 ## Xem thêm {#See_also}
 
-- [Người lùn Nogrod](../D/Dwarves_of_Nogrod.md)
-- [Người lùn Belegost](../D/Dwarves_of_Belegost.md)
+- [Người Lùn Nogrod](../D/Dwarves_of_Nogrod.md)
+- [Người Lùn Belegost](../D/Dwarves_of_Belegost.md)
 
 <span></span>
 

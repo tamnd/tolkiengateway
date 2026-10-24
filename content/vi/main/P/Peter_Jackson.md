@@ -92,7 +92,7 @@ infobox:
 - [2005](../_/2005.md): *[Lord of the Brush](../L/Lord_of_the_Brush.md)* - Chính mình
 - [2005](../_/2005.md): *[Ringers: Lord of the Fans](../R/Ringers%253A_Lord_of_the_Fans.md)* - Chính mình
 - [2005](../_/2005.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Du_kommst_nicht_vorbei_-_Fans_im_Bann_des_Ringes&amp;action=edit&amp;redlink=1" title="Du kommst nicht vorbei - Fans im Bann des Ringes (page does not exist)">Du kommst nicht vorbei - Người hâm mộ im Bann des Ringes</a></i> - Chính ông
-- [2012](../_/2012.md): *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* - Người lùn chạy trốn khỏi Smaug
+- [2012](../_/2012.md): *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)* - Người Lùn chạy trốn khỏi Smaug
 - [2013](../_/2013.md): *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)* - Người đàn ông của Bree
 - [2014](../_/2014.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Middle-earth:_There_and_Back_Again&amp;action=edit&amp;redlink=1" title="Middle-earth: There and Back Again (page does not exist)">Trung Địa: Có và Trở Lại</a></i> - Chính Ngài
 - [2015](../_/2015.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_Completing_Middle-earth:_A_Six-Part_Saga&amp;action=edit&amp;redlink=1" title="The Hobbit: Completing Middle-earth: A Six-Part Saga (page does not exist)">The Hobbit: Hoàn thành Trung Địa: Truyền thuyết sáu phần</a></i> - Chính ông ta

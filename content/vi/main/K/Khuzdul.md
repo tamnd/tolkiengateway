@@ -47,7 +47,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> in <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../T/The_Ring_Goes_South.md" title="The Ring Goes South">The Ring Goes South</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Khuzdul** hay **Người lùn**, là ngôn ngữ bí mật của [Người Lùn](../D/Dwarves.md).
+**Khuzdul** hay **Người Lùn**, là ngôn ngữ bí mật của [Người Lùn](../D/Dwarves.md).
 
 ## Lịch sử {#History}
 
@@ -106,7 +106,7 @@ Các tên khác được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng cho ngôn
 
 Khuzdul dường như có cấu trúc, giống như các ngôn ngữ Semitic, xung quanh các gốc ba phụ âm, chẳng hạn như *kh-z-d*, *b-n-d* và *z-g-l*.
 
-Ngôn ngữ của Người lùn nghe rất giống [tiếng Hebrew](../H/Hebrew.md), và thực sự [Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý một số điểm tương đồng giữa Người Lùn và người Do Thái: cả hai đều "*vừa là người bản xứ vừa là người ngoài hành tinh tại nơi sinh sống của họ, nói các ngôn ngữ của đất nước, nhưng có giọng do ngôn ngữ riêng của họ*...".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+Ngôn ngữ của Người Lùn nghe rất giống [tiếng Hebrew](../H/Hebrew.md), và thực sự [Tolkien](../J/J.R.R._Tolkien.md) đã lưu ý một số điểm tương đồng giữa Người Lùn và người Do Thái: cả hai đều "*vừa là người bản xứ vừa là người ngoài hành tinh tại nơi sinh sống của họ, nói các ngôn ngữ của đất nước, nhưng có giọng do ngôn ngữ riêng của họ*...".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -119,7 +119,7 @@ Ngôn ngữ của Người lùn nghe rất giống [tiếng Hebrew](../H/Hebrew.
 ## Liên kết ngoài {#External_links}
 
 - [Helge Fauskanger](../H/Helge_Fauskanger.md), <i><a class="external text" href="http://www.uib.no/people/hnohf/khuzdul.htm" rel="noreferrer noopener" target="_blank">Khuzdul</a></i>, [Ardalambion](../A/Ardalambion.md)
-- [Magnus Åberg](../M/Magnus_Åberg.md), <i><a class="external text" href="http://www.forodrim.org/daeron/md_khuzdul.html" rel="noreferrer noopener" target="_blank">Phân tích về Người lùn</a></i>, [Mellonath Daeron](../M/Mellonath_Daeron.md)
+- [Magnus Åberg](../M/Magnus_Åberg.md), <i><a class="external text" href="http://www.forodrim.org/daeron/md_khuzdul.html" rel="noreferrer noopener" target="_blank">Phân tích về Người Lùn</a></i>, [Mellonath Daeron](../M/Mellonath_Daeron.md)
 - Jay Lawson, <i><a class="external text" href="http://sites.google.com/site/quasikhuzdul/Home" rel="noreferrer noopener" target="_blank">Quasi-Khuzdul</a></i>
 - <a class="external text" href="http://www.jrrvf.com/~glaemscrafu/english/khuzdul.html" rel="noreferrer noopener" target="_blank">Khuzdul mẫu âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
 

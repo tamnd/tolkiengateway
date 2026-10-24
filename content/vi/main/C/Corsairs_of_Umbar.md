@@ -91,7 +91,7 @@ J.R.R. Tolkien đã viết trên [bản đồ Middle-earth của con trai ông](
 
 <b>2023: <i><a href="../T/The_Lord_of_the_Rings_Online%253A_Corsairs_of_Umbar.md" title="The Lord of the Rings Online: Corsairs of Umbar">The Lord of the Rings Trực tuyến: Hải tặc Umbar</a></i>:</b>
 
-<dl><dd>The Corsairs were led by four brothers who falsely call themselves the Heirs of <a href="Castamir.md" title="Castamir">Castamir</a>. These were Azruthor, Dolgimil, Azgarzôr, and the eldest Balakhôr the Scourge. The player negotiated with a Corsair named Jajax, who ended up siding with the player against the Heirs and their followers.</dd></dl>
+<dl><dd>The Corsairs were led by four brothers who falsely call themselves the Heirs of <a href="Castamir.md" title="Castamir">Castamir</a>. These were Azruthor, Dolgimil, Azgarzôr, and the eldest Balakhôr Scourge. The player negotiated with a Corsair named Jajax, who ended up siding with the player against the Heirs and their followers.</dd></dl>
 
 <span></span>
 

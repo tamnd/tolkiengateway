@@ -51,7 +51,7 @@ Vào [29 tháng 2](../_/29_February.md),<sup id="cite_ref-Great_2-4" class="refe
 
 <b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>In the movie, in Scene 18, Sam slides down the rock-strewn slope before the <a class="mw-redirect" href="../M/Morannon.md" title="Morannon">Gates of Mordor</a>. Frodo races down while two <a href="../H/Haradrim.md" title="Haradrim">Southron</a> soldiers, seeing debris falling down the hill, approach the spot where Sam is half buried.  Frodo reaches Sam, cannot free him before the soldiers arrive, and casts his Elven cloak over the two of them.  We see the two soldiers gazing about, perplexed.  When the camera scans downward a large rock is viewed before them, which is Frodo&#39;s Elven cloak perfectly concealing him and Sam.  After they leave the cloak is thrown aside and Frodo pulls Sam free.</dd></dl>
+<dl><dd>In the movie, in Scene 18, Sam slides down the rock-strewn slope before the <a class="mw-redirect" href="../M/Morannon.md" title="Morannon">Gates of Mordor</a>. Frodo races down while two <a href="../H/Haradrim.md" title="Haradrim">Southron</a> soldiers, seeing debris falling down the hill, approach the spot where Sam is half buried. Frodo reaches Sam, cannot free him before the soldiers arrive, and casts his Elven cloak over the two of them. We see the two soldiers gazing about, perplexed. When the camera scans downward a large rock is viewed before them, which is Frodo&#39;s Elven cloak perfectly concealing him and Sam. After they leave the cloak is thrown aside and Frodo pulls Sam free.</dd></dl>
 
 <span></span>
 

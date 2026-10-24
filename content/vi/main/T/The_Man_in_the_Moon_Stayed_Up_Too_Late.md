@@ -84,7 +84,7 @@ Steven M. Deyo nói bài thơ dựa trên "Bài thơ viết tay của Harley 225
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
-<b>1978: <a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Frodo sings an abridged version of the song at the Prancing Pony before falling off the table and accidentally slipping on the <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">Ring</a> for the first time, causing him to disappear and startle the patrons.</dd></dl>
 
@@ -98,7 +98,7 @@ Steven M. Deyo nói bài thơ dựa trên "Bài thơ viết tay của Harley 225
 
 <b>2006: <a class="mw-redirect" href="The_Lord_of_the_Rings_Musical.md" title="The Lord of the Rings Musical"><i>The Lord of the Rings</i> (âm nhạc)</a>:</b>
 
-<dl><dd>The hobbits sing a version at the Prancing Pony.  The lyrics are quite different.</dd></dl>
+<dl><dd>The hobbits sing a version at the Prancing Pony. The lyrics are quite different.</dd></dl>
 
 <b>2012: <i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 

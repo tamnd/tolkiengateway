@@ -27,14 +27,14 @@ Vào [6 tháng 12](../_/6_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](..
 ## Từ cuộc đấu giá {#From_the_auction}
 
 <blockquote class="tg-quote noexcerpt">
-<p>The Lord of the Rings and its Christian/Catholic underpinnings. Tolkien, a devout Catholic, readily admits to theological elements in his famous trilogy. &#34;There is, in fact, quite a lot of theology included in The Lord of the Rings (I was surprised to find how much when the work was analysed some time ago in a theological periodical), though perhaps it  is made more palatable by a sugar coating.&#34; <sup id="cite_ref-Sothebys_3-2" class="reference"><a href="#cite_note-Sothebys-3">[3]</a></sup>
+<p>The Lord of the Rings and its Christian/Catholic underpinnings. Tolkien, a devout Catholic, readily admits to theological elements in his famous trilogy. &#34;There is, in fact, quite a lot of theology included in The Lord of the Rings (I was surprised to find how much when the work was analysed some time ago in a theological periodical), though perhaps it is made more palatable by a sugar coating.&#34; <sup id="cite_ref-Sothebys_3-2" class="reference"><a href="#cite_note-Sothebys-3">[3]</a></sup>
 </p>
 </blockquote>
 
 ## Bản ghi {#Transcript}
 
 <blockquote class="tg-quote noexcerpt">
-<p>6th December, 1965.<br/><br/>Dear Mr. Rigby,<br/><br/>Thank you very much for your appreciative letter. It gave me much pleasure.<br/><br/>There is, in fact, quite a lot of theology included in The Lord of the Rings (I was surprised to find now much when the work was analysed some time ago in a theological periodical), though perhaps it is made more palatable by a sugar  coating.<br/><br/>With best wishes and thanks.<br/>Yours sincerely,<br/>J. R. R. Tolkien<br/><br/>
+<p>6th December, 1965.<br/><br/>Dear Mr. Rigby,<br/><br/>Thank you very much for your appreciative letter. It gave me much pleasure.<br/><br/>There is, in fact, quite a lot of theology included in The Lord of the Rings (I was surprised to find now much when the work was analysed some time ago in a theological periodical), though perhaps it is made more palatable by a sugar coating.<br/><br/>With best wishes and thanks.<br/>Yours sincerely,<br/>J. R. R. Tolkien<br/><br/>
 </p>
 </blockquote>
 

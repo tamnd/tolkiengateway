@@ -171,11 +171,11 @@ Số phận của họ không được người thân biết và sự im lặng 
 
 ### Phim {#Films}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim năm 1967)</a>:</b>
 
 <dl><dd>Óin is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess <a href="../M/Mika_Milovana.md" title="Mika Milovana">Mika Milovana</a> of Dale.<sup id="cite_ref-Deitch_12-0" class="reference"><a href="#cite_note-Deitch-12">[12]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>No actor is specified for the role of Óin. If he does speak, it is only in unison with rest of the Dwarves.</dd></dl>
 
@@ -185,7 +185,7 @@ Số phận của họ không được người thân biết và sự im lặng 
 
 <dl><dd><blockquote class="tg-quote noexcerpt"></blockquote></dd></dl>
 
-Cùng với anh trai Gloin, Oin là anh em họ xa của Thorin Oakenshield. Là một [Miền Bắc Người lùn](../L/Longbeards.md) dũng cảm, Oin gia nhập [Công ty của Thorin Oakenshield](../T/Thorin_and_Company.md) vì lòng trung thành với người thân của mình và cũng vì anh có một khoản tiền đáng kể đầu tư vào liên doanh. Đọc rất hay với đầu óc ham học hỏi, Oin là người chữa bệnh trong Công ty, thường bôi một loại thuốc mỡ thảo dược do chính mình sáng chế - từ đó được gọi là 'thuốc mỡ' theo tên người tạo ra nó.
+Cùng với anh trai Gloin, Oin là anh em họ xa của Thorin Oakenshield. Là một [Miền Bắc Người Lùn](../L/Longbeards.md) dũng cảm, Oin gia nhập [Công ty của Thorin Oakenshield](../T/Thorin_and_Company.md) vì lòng trung thành với người thân của mình và cũng vì anh có một khoản tiền đáng kể đầu tư vào liên doanh. Đọc rất hay với đầu óc ham học hỏi, Oin là người chữa bệnh trong Công ty, thường bôi một loại thuốc mỡ thảo dược do chính mình sáng chế - từ đó được gọi là 'thuốc mỡ' theo tên người tạo ra nó.
 
 <p class="tg-quote-footer"><cite><a href="../W/Warner_Bros..md" title="Warner Bros.">Warner Bros.</a><sup id="cite_ref-HobbitApp_14-0" class="reference"><a href="#cite_note-HobbitApp-14">[14]</a></sup></cite></p>
 

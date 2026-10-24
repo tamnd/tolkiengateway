@@ -41,7 +41,7 @@ images:
 </p>
 </small></td></tr></tbody></table>
 
-**Cuộc chiến giữa Người lùn và Orc** là một cuộc chiến vĩ đại giữa hai chủng tộc.
+**Cuộc chiến giữa Người Lùn và Orc** là một cuộc chiến vĩ đại giữa hai chủng tộc.
 
 ## Nền {#Background}
 
@@ -53,7 +53,7 @@ Trong [T.A.](../T/Third_Age.md) [2770](../T/Third_Age_2770.md), [Erebor](../L/Lo
 
 Thrór rơi vào tuyệt vọng sau nhiều năm sống trong cảnh nghèo khó, hoặc có lẽ [Chiếc nhẫn](../R/Rings_of_Power.md) mà ông ta đeo cuối cùng đã gây ra tác hại xấu cho người mang nó.<sup id="cite_ref-Durin_3-1" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup> Dù thế nào đi nữa, ông ta quyết định để lại người dân của mình ở [2790](../T/Third_Age_2790.md)<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> để tìm kiếm và nhìn vào điện thờ tổ tiên của [Khazad-dûm](../M/Moria.md). Cùng với người bạn [Nár](../N/Nár.md), họ băng qua [Đèo Redhorn](../R/Redhorn_Pass.md) và đi xuống [Cổng Đông của Moria](../G/Great_Gates.md) nơi Thrór tự mình đi vào một mình, bất chấp lời cảnh báo của Nár người vẫn ở lại trong thung lũng.
 
-Thrór bị [Azog](../A/Azog.md) thủ lĩnh [Orc](../O/Orcs.md) của Moria bắt và giết chết, và sau vài ngày, đầu của Thrór được khắc tên của Azog và xác chết bị ném ra ngoài cổng nơi Nár tìm thấy. Ông ta còn sống để phục vụ như một sứ giả cho Người lùn mà Azog hiện tự xưng là Vua của Moria, và tránh xa.
+Thrór bị [Azog](../A/Azog.md) thủ lĩnh [Orc](../O/Orcs.md) của Moria bắt và giết chết, và sau vài ngày, đầu của Thrór được khắc tên của Azog và xác chết bị ném ra ngoài cổng nơi Nár tìm thấy. Ông ta còn sống để phục vụ như một sứ giả cho Người Lùn mà Azog hiện tự xưng là Vua của Moria, và tránh xa.
 
 Khi Nár trở về với con trai của nhà vua Thráin, ông ta đã kể cho ông ta nghe về <a class="new" href="https://tolkiengateway.net/w/index.php?title=Murder_of_Thr%C3%B3r&amp;action=edit&amp;redlink=1" title="Murder of Thrór (page does not exist)">vụ sát hại cha mình</a> và lời cảnh báo của Orc. Trong bảy ngày không ăn không ngủ, vị vua mới ngồi cho đến khi đứng và kêu lên "Việc này không thể chịu đựng được!"<sup id="cite_ref-Durin_3-2" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
 
@@ -61,7 +61,7 @@ Từ năm 2790 đến [2793](../T/Third_Age_2793.md),<sup id="cite_ref-TA_1-2" c
 
 ### Xung đột ban đầu {#Early_Conflicts}
 
-Năm 2793, chủ Người lùn đã sẵn sàng lên đường tham chiến; tấn công và cướp phá tất cả các Orc-vùng giữ mà họ có thể tìm thấy từ [Mount Gundabad](../G/Gundabad.md) ở phía bắc, đến [Gladden](../G/Gladden_River.md) ở phía nam từng cái một.
+Năm 2793, chủ Người Lùn đã sẵn sàng lên đường tham chiến; tấn công và cướp phá tất cả các Orc-vùng giữ mà họ có thể tìm thấy từ [Mount Gundabad](../G/Gundabad.md) ở phía bắc, đến [Gladden](../G/Gladden_River.md) ở phía nam từng cái một.
 
 Người ta thực sự biết rất ít về cuộc chiến kéo dài sáu năm; tuy nhiên, người ta biết rằng phần lớn cuộc chiến diễn ra dưới lòng đất, trong các hầm mỏ và đường hầm lớn của Dãy Núi Sương Mù, nơi Người Lùn rất xuất sắc trong chiến đấu. Cả hai bên đã chiến đấu không thương tiếc, và Người Lùn được cho là đã hành động tàn nhẫn như Orc mà họ đã chiến đấu.<sup id="cite_ref-Durin_3-3" class="reference"><a href="#cite_note-Durin-3">[3]</a></sup>
 

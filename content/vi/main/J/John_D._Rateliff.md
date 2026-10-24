@@ -69,7 +69,7 @@ infobox:
 - [1986](../_/1986.md): [*Mythlore* 45](../M/Mythlore_45.md)
     - "'And Something Yet Remains to Be Said': Tolkien and Williams"
 - [1988](../_/1988.md): [*Mallorn* 25](../M/Mallorn_25.md)
-    - "Gríma the Wormtongue: Tolkien and His Sources"
+    - "Gríma Wormtongue: Tolkien and His Sources"
 - [1991](../_/1991.md): *[Leaves from the Tree](../L/Leaves_from_the_Tree.md)*
     - "Early Versions of *Farmer Giles of Ham*"
 - [1993](../_/1993.md): [*Mallorn* 30](../M/Mallorn_30.md)
@@ -129,7 +129,7 @@ infobox:
 ## Tài liệu tham khảo {#References}
 
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://sacnoths.blogspot.com/2011/11/tonight-im-in.html" rel="noreferrer noopener" target="_blank">Tonight I&#39;m in . . .</a> at <a class="external text" href="http://sacnoths.blogspot.com/" rel="noreferrer noopener" target="_blank">Sacnoth&#39;s Scriptorium</a>, dated 5 November 2011 (accessed 6 November 2011)</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://sacnoths.blogspot.com/2011/11/tonight-im-in.html" rel="noreferrer noopener" target="_blank">Tonight I&#39;m in. . .</a> at <a class="external text" href="http://sacnoths.blogspot.com/" rel="noreferrer noopener" target="_blank">Sacnoth&#39;s Scriptorium</a>, dated 5 November 2011 (accessed 6 November 2011)</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit: One-volume Edition</a></i> (dustjacket information)</span>
 </li>

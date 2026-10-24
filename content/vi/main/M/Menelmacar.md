@@ -33,7 +33,7 @@ langlinks:
 
 ## Lịch sử {#History}
 
-[Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông ta đã qua đêm với Tiên tộc trong khu rừng của [the Shire](../T/The_Shire.md); Tiên tộc vang lên bài hát khi Menelvagor, [Kiếm sĩ của bầu trời](../S/Swordsman_of_the_Sky.md), bay lên bầu trời và bắt đầu thời gian cho bữa tối, bài phát biểu và niềm vui.<sup id="cite_ref-FR|I3_1-1" class="reference"><a href="#cite_note-FR|I3-1">[1]</a></sup>
+[Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông ta đã qua đêm với Tiên tộc trong khu rừng của [Shire](../T/The_Shire.md); Tiên tộc vang lên bài hát khi Menelvagor, [Kiếm sĩ của bầu trời](../S/Swordsman_of_the_Sky.md), bay lên bầu trời và bắt đầu thời gian cho bữa tối, bài phát biểu và niềm vui.<sup id="cite_ref-FR|I3_1-1" class="reference"><a href="#cite_note-FR|I3-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

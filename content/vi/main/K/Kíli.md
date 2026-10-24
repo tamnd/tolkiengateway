@@ -105,7 +105,7 @@ Trong số 13 Người Lùn, Kíli và Fíli tỏ ra khó chịu khi Bilbo yêu 
 
 Trong khi tìm kiếm kho báu khi cả nhóm đi xuống Erebor, Kíli và Fíli đã có tinh thần phấn chấn đến mức họ lấy những cây đàn hạc vàng ma thuật xuống và chơi nhạc trên chúng.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-Kíli đã bị giết cùng với anh trai của mình trong [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md), trong khi bảo vệ người chú bị trọng thương của họ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Sau cái chết của Thorin, hai anh em sẽ là hậu duệ duy nhất còn lại của dòng dõi [Thrór](../T/Thrór.md). Cái chết của họ đã kết thúc triều đại, và tước hiệu Vua Dưới Núi được truyền lại cho [Dáin II](../D/Dáin_Ironfoot.md). Chính vị thế anh dũng cuối cùng của họ đã khiến mẹ họ trở thành [Người lùn người phụ nữ](../D/Dwarf-women.md) duy nhất được nhắc đến trong gia phả.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+Kíli đã bị giết cùng với anh trai của mình trong [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md), trong khi bảo vệ người chú bị trọng thương của họ.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Sau cái chết của Thorin, hai anh em sẽ là hậu duệ duy nhất còn lại của dòng dõi [Thrór](../T/Thrór.md). Cái chết của họ đã kết thúc triều đại, và tước hiệu Vua Dưới Núi được truyền lại cho [Dáin II](../D/Dáin_Ironfoot.md). Chính vị thế anh dũng cuối cùng của họ đã khiến mẹ họ trở thành [Người Lùn người phụ nữ](../D/Dwarf-women.md) duy nhất được nhắc đến trong gia phả.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -169,11 +169,11 @@ Kíli đã bị giết cùng với anh trai của mình trong [Trận chiến N�
 
 ### Phim {#Films}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim năm 1967)</a>:</b>
 
 <dl><dd>Kíli is omitted. <a href="../T/Thorin.md" title="Thorin">Thorin Oakenshield</a> only travels with an unnamed guard and the princess of Dale.<sup id="cite_ref-Deitch_15-0" class="reference"><a href="#cite_note-Deitch-15">[15]</a></sup></dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>Kíli&#39;s voice is provided by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jack_DeLeon&amp;action=edit&amp;redlink=1" title="Jack DeLeon (page does not exist)">Jack DeLeon</a>. However, he only ever speaks in unison with the rest of the Dwarves.</dd></dl>
 

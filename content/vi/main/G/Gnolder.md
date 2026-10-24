@@ -50,7 +50,7 @@ Chuyến đi của     2. Glorfindel
     5. Nhà Isildur
     6. Chuyển tới Bóng Tối
     7. Tin tức về Narchuil
-    8. Người lùn Thành thạo
+    8. Người Lùn Thành thạo
 - *Gislaved* (2019, bản thử nghiệm)
     1. Längs nissans dalgång
     2. Được làm nô lệ

@@ -226,7 +226,7 @@ Các bản sao có chữ ký của - Tolkien hiện được lưu giữ tại Th
 
 ### *Kurze vergleichende Grammatik der indogermanischen Sprachen* {#Kurze_vergleichende_Grammatik_der_indogermanischen_Sprachen}
 
-- 1904: *Kurze vergleichende Grammatik der indogermanischen Sprachen . Auf Grund des fünfbändigen ' Grundrisses der vergleichenden Grammatik der indogermanischen Sprachen von K. Brugmann und B. Delbrück ' verfasst.*, bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Karl_Brugmann" title="wikipedia:Karl Brugmann">Karl Brugmann</a>. Strassburg: Karl J. Trübner, 1904, XXVIII, 777pp., + 48pp.
+- 1904: *Kurze vergleichende Grammatik der indogermanischen Sprachen. Auf Grund des fünfbändigen ' Grundrisses der vergleichenden Grammatik der indogermanischen Sprachen von K. Brugmann und B. Delbrück ' verfasst.*, bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Karl_Brugmann" title="wikipedia:Karl Brugmann">Karl Brugmann</a>. Strassburg: Karl J. Trübner, 1904, XXVIII, 777pp., + 48pp.
 - Đã ký "JRR Tolkien" trên tờ rơi cùng với chữ ký của các chủ sở hữu trước và sau này khác.<sup id="cite_ref-Thornton_21-0" class="reference"><a href="#cite_note-Thornton-21">[21]</a></sup>
 
 #### Hình ảnh {#Pictures_4}

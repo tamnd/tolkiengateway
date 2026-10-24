@@ -29,7 +29,7 @@ Vào [19 tháng Chín](../_/19_September.md) [1956](../_/1956.md), [J.R.R. Tolki
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr. Tiller,<br/><br/>The Lord of the Rings<br/><br/>I do give my permission &#39;in principle&#39;.  Also you have my sympathy and good wishes in the impossible task!  I imagine that to make any narrative or dramatic sense out of the six ‘fits’, you will have to concentrate on the adventures of Frodo, and virtually cut out ‘Book III’.  However, the task is yours.  I hope that perhaps the series will provide an excuse and opportunity for us to meet again.  I shall be away from Monday next Sept. 24 until October 8th; but anything reaching Merton College up to about October 5th will be forwarded.<br/><br/>Yours sincerely, JRR Tolkien.<br/><br/>P.S.  I have now made arrangements for forwarding anything sent here to Headington, and they may be prompter than College.  JRRT
+<p>Dear Mr. Tiller,<br/><br/>The Lord of the Rings<br/><br/>I do give my permission &#39;in principle&#39;.  Also you have my sympathy and good wishes in the impossible task!  I imagine that to make any narrative or dramatic sense out of the six ‘fits’, you will have to concentrate on the adventures of Frodo, and virtually cut out ‘Book III’.  However, the task is yours. I hope that perhaps the series will provide an excuse and opportunity for us to meet again. I shall be away from Monday next Sept. 24 until October 8th; but anything reaching Merton College up to about October 5th will be forwarded.<br/><br/>Yours sincerely, JRR Tolkien.<br/><br/>P.S. I have now made arrangements for forwarding anything sent here to Headington, and they may be prompter than College. JRRT
 </p>
 </blockquote>
 

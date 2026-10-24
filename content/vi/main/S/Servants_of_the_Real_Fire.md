@@ -22,7 +22,7 @@ infobox:
     value: "Ny Chennacatt"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Servants of the Real Fire&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Servants of the Real Fire&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Organization</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Servants of the Real Fire</span></th></tr><tr><th scope="row" class="tg-infobox-label">Founded</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Third_Age_1449&amp;action=edit&amp;redlink=1" title="Third Age 1449 (page does not exist)">1449</a><sup id="cite_ref-timeline_1-0" class="reference"><a href="#cite_note-timeline-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Founder</th><td class="tg-infobox-data">Arcastur of Pel<sup id="cite_ref-timeline_1-1" class="reference"><a href="#cite_note-timeline-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../N/Ny_Chennacatt.md" title="Ny Chennacatt">Ny Chennacatt</a></td></tr></tbody></table>
 
@@ -47,7 +47,7 @@ Giữa [T.A.](../T/Third_Age.md) [2850](../T/Third_Age_2850.md) và [T.A.](../T/
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Trước thời gian ghi</span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Thời đại thứ nhất và thứ hai</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Kỷ Đệ Nhất và thứ hai</span>
 </li>
 </ol></div></span>
 

@@ -46,7 +46,7 @@ infobox:
 
 ## Cốt truyện {#Story}
 
-Sau thất bại của [Sauron](../S/Sauron.md) và sự hủy diệt của [Barad-dûr](../B/Barad-dûr.md), người chơi phải thu thập những kho báu còn lại của Chúa tể Hắc ám trong những ngục tối tăm của Tòa Tháp, nơi Sauron và các tay sai của hắn đang chờ đợi.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
+Sau thất bại của [Sauron](../S/Sauron.md) và sự hủy diệt của [Barad-dûr](../B/Barad-dûr.md), người chơi phải thu thập những kho báu còn lại của Chúa tể Bóng tối trong những ngục tối tăm của Tòa Tháp, nơi Sauron và các tay sai của hắn đang chờ đợi.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

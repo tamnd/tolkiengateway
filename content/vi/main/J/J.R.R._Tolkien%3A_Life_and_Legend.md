@@ -47,7 +47,7 @@ Một vài ví dụ là: bìa *[Ye Chequers Clubbe Binge](../Y/Ye_Chequers_Clubb
 
 ## Mục lục {#Table_of_content}
 
-<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Life_and_Legend_poster.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/04/Life_and_Legend_poster.jpeg/225px-Life_and_Legend_poster.jpeg" decoding="async" loading="lazy" width="225" height="190" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/Life_and_Legend_poster.jpeg/338px-Life_and_Legend_poster.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/Life_and_Legend_poster.jpeg/450px-Life_and_Legend_poster.jpeg 2x" data-file-width="1209" data-file-height="1023"/></a><figcaption>The catalogue was published with a  poster</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Life_and_Legend_poster.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/04/Life_and_Legend_poster.jpeg/225px-Life_and_Legend_poster.jpeg" decoding="async" loading="lazy" width="225" height="190" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/Life_and_Legend_poster.jpeg/338px-Life_and_Legend_poster.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/Life_and_Legend_poster.jpeg/450px-Life_and_Legend_poster.jpeg 2x" data-file-width="1209" data-file-height="1023"/></a><figcaption>The catalogue was published with a poster</figcaption></figure>
 
 - Giới thiệu
 

@@ -148,7 +148,7 @@ Gollum, cảm thấy bị phản bội bởi sự đồng lõa của Frodo trong
 28. [Những khu rừng Ithilien](The_Forests_of_Ithilien.md)
 29. [Gollum và Sméagol](../G/Gollum_and_Sméagol.md)
 30. [Thảo mộc và thỏ hầm](<../O/Of_Herbs_and_Stewed_Rabbit_(scene).md>) \*\*
-31. [Người lùn Nữ](../D/Dwarf_Women.md) \*\*
+31. [Người Lùn Nữ](../D/Dwarf_Women.md) \*\*
 32. [Một trong những Dúnedain](../O/One_of_the_Dúnedain.md) \*
 33. [Ngôi sao chẵn](<The_Evenstar_(The_Lord_of_the_Rings%253A_The_Two_Towers_scene).md>) \*\*
 34. [Số Sói của Isengard](The_Wolves_of_Isengard.md)

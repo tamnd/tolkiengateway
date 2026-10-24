@@ -105,7 +105,7 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### c. [700](../S/Second_Age_700.md) {#c._700}
 
-- Galadriel và Celeborn tiến về phía đông và đóng quân ở [Eregion](../E/Eregion.md) gần [Moria](../M/Moria.md). Cô tìm kiếm tình bạn của [Người lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md) và [Nandor](../N/Nandor.md) của [Lórinand](../L/Lórinand.md).<sup id="cite_ref-Concerning_22-2" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:236</sup>
+- Galadriel và Celeborn tiến về phía đông và đóng quân ở [Eregion](../E/Eregion.md) gần [Moria](../M/Moria.md). Cô tìm kiếm tình bạn của [Người Lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md) và [Nandor](../N/Nandor.md) của [Lórinand](../L/Lórinand.md).<sup id="cite_ref-Concerning_22-2" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:236</sup>
 
 ### [750](../S/Second_Age_750.md) {#750}
 

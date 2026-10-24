@@ -54,7 +54,7 @@ Nhiều hành động và sự kiện trong tập này nhại lại những hàn
 - Bơ - [Sméagol/Gollum](../G/Gollum.md).
 - Filmore - một học sinh mẫu giáo, người mà các cậu bé gọi là [người lùn](../D/Dwarves.md); [Gimli](../G/Gimli.md).
 - Các học sinh lớp 6 - [Nazgûl](../N/Nazgûl.md), [Orc](../O/Orcs.md) quân đội/Goblin, [Balrog](../B/Balrogs.md).
-- Các cậu bé trốn dưới một gốc rễ khổng lồ trong khi một học sinh lớp sáu cố gắng đánh hơi chúng, nhại lại cuộc chạm trán đầu tiên của Hobbit với [Ringwraith](../N/Nazgûl.md) trong cả [*The Lord of the Rings* (phim 1978)](<The_Lord_of_the_Rings_(1978_film).md>) và *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- Các cậu bé trốn dưới một gốc rễ khổng lồ trong khi một học sinh lớp sáu cố gắng đánh hơi chúng, nhại lại cuộc chạm trán đầu tiên của Hobbit với [Ringwraith](../N/Nazgûl.md) trong cả [*The Lord of the Rings* (phim năm 1978)](<The_Lord_of_the_Rings_(1978_film).md>) và *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 - Trong cảnh các học sinh lớp sáu gặp nhau trên xe đạp, có thể thấy một tòa nhà ở hậu cảnh có dòng chữ "More Doors Doors" (Cửa củaMordor).
 - Trong khi đợi Clyde mở cửa, Cartman nói từ "[mellon](../M/Mellon.md)", mật khẩu của [Cánh cửa Durin](../D/Doors_of_Durin.md).
 - Hội đồng của Clyde tương đương với hội đồng của Elrond. Trong cuộc họp, Stan đứng lên nói: "Tôi sẽ lấy nó."

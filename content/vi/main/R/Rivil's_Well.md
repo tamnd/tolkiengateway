@@ -19,7 +19,7 @@ images:
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/_/Šárka_Škorpíková_-_Rivil&#39;s_Well.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3e/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg/300px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg" decoding="async" loading="lazy" width="300" height="222" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3e/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg/450px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3e/%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg/600px-%C5%A0%C3%A1rka_%C5%A0korp%C3%ADkov%C3%A1_-_Rivil%27s_Well.jpg 2x" data-file-width="1280" data-file-height="948"/></a><figcaption>&#34;Rivil&#39;s Well&#34; by Šárka Škorpíková</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>[Beren] swore. . . an oath of vengeance.  First therefore he pursued the Orcs that had slain his father and his kinsmen, and he found their camp by night at Rivil&#39;s Well. . .
+<p>[Beren] swore. . . an oath of vengeance. First therefore he pursued the Orcs that had slain his father and his kinsmen, and he found their camp by night at Rivil&#39;s Well. . .
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a>, <a href="../O/Of_Beren_and_Lúthien.md" title="Of Beren and Lúthien">Of Beren and Lúthien</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

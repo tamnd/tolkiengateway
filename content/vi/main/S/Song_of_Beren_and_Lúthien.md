@@ -98,7 +98,7 @@ Bài hát sẽ là một đoạn trích được dịch từ *[Lay of Leithian](
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> recites the first five lines, accompanied by <a href="../E/Elves.md" title="Elves">Elven</a> musicians, in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> before he is cut off by <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>&#39;s arrival.</dd></dl>
 

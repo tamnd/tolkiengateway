@@ -54,7 +54,7 @@ Tom phát hiện ra rằng Laura đang có những giấc mơ bí ẩn, dường
 
 "Đắm chìm trong truyền thuyết thời vua Arthur, bí ẩn của truyền thuyết về chiếc chén và âm mưu trong Thế chiến thứ hai, câu chuyện hấp dẫn về cuộc tìm kiếm thánh tích ẩn giấu của một chàng trai trẻ cuối cùng đã khám phá ra kho báu thuộc một loại khác. Sự tôn kính của David Downing đối với C.S. Lewis, J.R.R. Tolkien và Charles Williams đã thành công một cách xuất sắc khi đưa những nhân vật lịch sử này vào cuộc sống giữa một bộ phim kinh dị tâm linh đang diễn ra. Đây là một cuốn sách hấp dẫn và thú vị -- xuyên suốt với sự lãng mạn, hài hước dí dỏm." và những câu hỏi có hậu quả vĩnh cửu." - Marjorie Lamp Mead, Phó Giám đốc, Trung tâm Marion E. Wade, Cao đẳng Wheaton
 
-David C. Downing, Tiến sĩ, là R. W. Schlosser Giáo sư tiếng Anh tại Đại học Elizabethtown ở Pennsylvania. Ông là tác giả của bốn cuốn sách đoạt giải thưởng về C. S. Lewis: Planets in Peril, The Most Reluctant Convert, Into the Region of Awe: Mysticism in C. S. Lewis và Into the Wardcoat: C. S. Lewis và Biên niên sử Narnia . Downing cũng viết tiểu thuyết ngắn cho *Christianity Today* và các tạp chí định kỳ khác.
+David C. Downing, Tiến sĩ, là R. W. Schlosser Giáo sư tiếng Anh tại Đại học Elizabethtown ở Pennsylvania. Ông là tác giả của bốn cuốn sách đoạt giải thưởng về C. S. Lewis: Planets in Peril, The Most Reluctant Convert, Into the Region of Awe: Mysticism in C. S. Lewis và Into the Wardcoat: C. S. Lewis và Biên niên sử Narnia. Downing cũng viết tiểu thuyết ngắn cho *Christianity Today* và các tạp chí định kỳ khác.
 
 ## Liên kết ngoài {#External_links}
 

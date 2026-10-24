@@ -44,7 +44,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập
-- "Kỹ sư Người lùn" của Carl Brodt \[4 pgs; nghề mới với danh sách phép thuật\]
+- "Kỹ sư Người Lùn" của Carl Brodt \[4 pgs; nghề mới với danh sách phép thuật\]
 - "Hệ thống phát triển nhân vật cho MERP" của James Garriss \[2 pgs; một hệ thống phát triển không có lớp\]
 - "Rồng của miền Bắc" của [Chris Seeman](../C/Chris_Seeman.md) \[7 pgs; bao gồm bản đồ 2 trang của Dãy Núi Xám và Withered Heath\]
 - "Những hiệp sĩ của Eärendur," một cuộc phiêu lưu của Eric Dubourg \[8 pgs; đặt trong TA 1409 Eriador\]

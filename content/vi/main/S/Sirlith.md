@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Sirlith&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Sirlith&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 **Sirlith** là con sông ở [Mordor](../M/Mordor.md) chảy từ phía đông ở phần phía bắc của dãy núi, phân nhánh theo hướng tây nam từ [Ered Lithui](../E/Ered_Lithui.md) phía đông của [Barad-dûr](../B/Barad-dûr.md) về phía đông nam vào [Biển của Nurnen](Sea_of_Nurnen.md) trên bờ phía đông của nó. Con sông không có tên trong [bản đồ](../G/General_Map_of_Middle-earth.md) được [Christopher Tolkien](../C/Christopher_Tolkien.md) vẽ dựa trên bản đồ do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vẽ để xuất bản với *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 

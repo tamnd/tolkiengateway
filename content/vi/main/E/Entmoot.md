@@ -49,7 +49,7 @@ infobox:
 
 Trong Cuộc chiến Nhẫn, hai [Hobbit](../H/Hobbits.md) là [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md) đã đến [Rừng Fangorn](../F/Fangorn_Forest.md) và kể cho [Treebeard](../T/Treebeard.md) nghe về sự phản bội của phù thủy [Saruman](../S/Saruman.md).
 
-Sau đó, Treebeard triệu tập một Hội nghị Ent. Do lối suy nghĩ và lời nói chậm rãi của các Ent, hội nghị kéo dài nhiều ngày, từ ngày [30 tháng Hai](../_/30_February.md) đến ngày [2 tháng Ba](../_/2_March.md) năm [3019](../T/Third_Age_3019.md) thuộc [Thời đại thứ Ba](../T/Third_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau đó, Treebeard triệu tập một Hội nghị Ent. Do lối suy nghĩ và lời nói chậm rãi của các Ent, hội nghị kéo dài nhiều ngày, từ ngày [30 tháng Hai](../_/30_February.md) đến ngày [2 tháng Ba](../_/2_March.md) năm [3019](../T/Third_Age_3019.md) thuộc [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Cuộc thảo luận dài và thận trọng dẫn đến quyết định rằng—trước nguy cơ tuyệt chủng dần dần không thể tránh khỏi—họ sẽ tấn công [Isengard](../I/Isengard.md) để trả thù những tổn thất mà các [Orc](../O/Orcs.md) của Saruman đã gây ra cho những cánh rừng do họ chăm sóc. Cuộc hành quân mang tên '[Cuộc hành quân cuối cùng của các Ent](../B/Battle_of_Isengard.md)' này là một sự kiện quan trọng trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-Treebeard_1-1" class="reference"><a href="#cite_note-Treebeard-1">[1]</a></sup>
 

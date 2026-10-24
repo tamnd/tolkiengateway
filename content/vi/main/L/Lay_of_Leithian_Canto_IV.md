@@ -166,7 +166,7 @@ but rocks and steel and Morgoth&#39;s fire<br/>
 from all the powers of Elfinesse<br/>
 do keep the jewel I would possess.<br/>
 Yet bonds like these I hear thee say<br/>
-affright thee not.  Now go thy way!<br/>
+affright thee not. Now go thy way!<br/>
 Bring me one shining Silmaril<br/>
 from Morgoth&#39;s crown, then if she will,<br/>
 may Lúthien set her hand in thine;<br/>

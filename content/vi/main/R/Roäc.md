@@ -134,7 +134,7 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 
 <b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 
-<dl><dd>Roäc does not explicitly appear. However, just prior to the final confrontation with the <a href="../E/Elves_of_Mirkwood.md" title="Elves of Mirkwood">Elven</a> Army assembled before the gates, a raven is seen flying away from the gate of <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>, then just before <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin</a>&#39;s Army of <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> arrives, the raven is seen flying back to <a href="../T/Thorin.md" title="Thorin">Thorin</a> at the gate.  This visually implies that Thorin sent a message with this raven, though it is not explained in dialogue, and the raven itself does not talk.</dd></dl>
+<dl><dd>Roäc does not explicitly appear. However, just prior to the final confrontation with the <a href="../E/Elves_of_Mirkwood.md" title="Elves of Mirkwood">Elven</a> Army assembled before the gates, a raven is seen flying away from the gate of <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Erebor</a>, then just before <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin</a>&#39;s Army of <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> arrives, the raven is seen flying back to <a href="../T/Thorin.md" title="Thorin">Thorin</a> at the gate. This visually implies that Thorin sent a message with this raven, though it is not explained in dialogue, and the raven itself does not talk.</dd></dl>
 
 ## Xem thêm {#See_also}
 

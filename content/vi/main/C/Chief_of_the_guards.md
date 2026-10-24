@@ -65,7 +65,7 @@ infobox:
 
 <dl><dd><a href="../D/David_Brierly.md" title="David Brierly">David Brierly</a> provided the voice of the chief of the guards, who is credited as the <b>Elf Guard</b>.</dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>The chief of the guards is not explicitly identified as such. Instead, he is one of two elves whom Bilbo observes getting drunk, and from whom he takes the ring of keys he uses to free the dwarves.</dd></dl>
 

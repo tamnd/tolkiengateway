@@ -123,21 +123,21 @@ infobox:
 - Túrin giữa những kẻ ngoài vòng pháp luật, phần mười một (3:34)
 - Túrin giữa những kẻ ngoài vòng pháp luật, phần mười hai (2:56)
 
-**Chương VII: [Của Mîm của Người lùn](../O/Of_Mîm_the_Dwarf.md)**
+**Chương VII: [Của Mîm của Người Lùn](../O/Of_Mîm_the_Dwarf.md)**
 
-- Của Mîm cái Người lùn, phần một (2:04)
-- Của Mîm cái Người lùn, phần hai (3:06)
-- Của Mîm cái Người lùn, phần ba (4:58)
-- Của Mîm Người lùn, phần bốn (3:13)
-- Của Mîm cái Người lùn, phần năm (5:42)
-- Của Mîm cái Người lùn, phần sáu (5:35)
-- Của Mîm cái Người lùn, phần bảy (3:50)
+- Của Mîm cái Người Lùn, phần một (2:04)
+- Của Mîm cái Người Lùn, phần hai (3:06)
+- Của Mîm cái Người Lùn, phần ba (4:58)
+- Của Mîm Người Lùn, phần bốn (3:13)
+- Của Mîm cái Người Lùn, phần năm (5:42)
+- Của Mîm cái Người Lùn, phần sáu (5:35)
+- Của Mîm cái Người Lùn, phần bảy (3:50)
 
 ## Đĩa 5 {#Disc_Five}
 
-- Của Mîm cái Người lùn, phần tám (5:39)
-- Của Mîm cái Người lùn, phần chín (4:38)
-- Của Mîm cái Người lùn, phần mười (4:03)
+- Của Mîm cái Người Lùn, phần tám (5:39)
+- Của Mîm cái Người Lùn, phần chín (4:38)
+- Của Mîm cái Người Lùn, phần mười (4:03)
 
 Chương VIII: [Xứ Cung và Helm](The_Land_of_Bow_and_Helm.md)
 

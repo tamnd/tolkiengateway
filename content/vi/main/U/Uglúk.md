@@ -160,7 +160,7 @@ Uglúk là một con orc đen to lớn.<sup id="cite_ref-Uruk_3-4" class="refere
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>An <a href="../O/Orcs_of_Isengard.md" title="Orcs of Isengard">Orc of Isengard</a> sharing Uglúk&#39;s dialogue appears in the film. <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> later tells <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a> that &#34;Uglúk will be back any minute&#34;, indicating that the Orc was meant to be Uglúk. Uglúk scolds a group of Orcs for wasting arrows trying to attack the <a href="../R/Rohirrim.md" title="Rohirrim">Rohirrim</a>. He orders <a href="../S/Snaga_(orc_of_Isengard).md" title="Snaga (orc of Isengard)">Snaga</a> and <a href="../L/Lugdush.md" title="Lugdush">Lugdush</a> to stand guard and bind <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> and Pippin&#39;s legs and to refrain from killing them unless the <a href="../W/Whiteskins.md" title="Whiteskins">Whiteskins</a> break through. An <a href="../O/Orcs_of_Mordor.md" title="Orcs of Mordor">Orc of Mordor</a> quarrels with Uglúk, claiming &#34;You and <a href="../S/Saruman.md" title="Saruman">your stinking Wizard</a>. You got us into this. When I tell them in <a href="../M/Mordor.md" title="Mordor">Mordor</a>...&#34;</dd></dl>
 
@@ -196,7 +196,7 @@ Thứ hai là *Orc-draughts*, được minh họa bởi Daniel Frazier có tác 
 
 <b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
 
-<dl><dd>Uglúk is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Uruk-hai Nightmare</i> on the &#34;Orc-draught&#34; card, illustrated by Rafal Hrynkiewicz . The card has the following effects:</dd></dl>
+<dl><dd>Uglúk is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Uruk-hai Nightmare</i> on the &#34;Orc-draught&#34; card, illustrated by Rafal Hrynkiewicz. The card has the following effects:</dd></dl>
 
 > Nguy hiểm. Tăng đột biến.<br>Khi lộ diện: Loại bỏ một đồng minh mà bạn điều khiển hoặc tăng giá trị truy đuổi lên 1.<br>Bóng Tối: Tiêu diệt nhân vật bạn điều khiển.
 

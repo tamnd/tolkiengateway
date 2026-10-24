@@ -63,7 +63,7 @@ infobox:
 - **Phần B - Lydney người Anh gốc La Mã và tầm quan trọng đáng chú ý của nó đối với Œuvre của Tolkien**
     - Địa điểm khảo cổ Lydney và Tolkien miêu tả Vua là Người chữa lành
     - Các mỏ của Mendip và của Moria, với một số suy ngẫm về Hang ổ của Sâu trắng
-Đồi của     - Người lùn và 'Nhà nguyện củaNgười lùn' ... Vấn đề khai thác cổ xưa ở đó và những ý tưởng cho câu chuyện tiếp theo mà Hoạt động huyền thoại đó có thể đã tạo ra
+Đồi của     - Người Lùn và 'Nhà nguyện củaNgười lùn' ... Vấn đề khai thác cổ xưa ở đó và những ý tưởng cho câu chuyện tiếp theo mà Hoạt động huyền thoại đó có thể đã tạo ra
     - Gạch khảm cổ từ Phương Tây: một số họa tiết 'truyền thống' kiểu La Mã-Anh
 - **Phần C - Miền Bắc và Phương Tây Truyền thống Đức và Cơ đốc giáo**
     - Frothi, Frodo - và Dodo và Odo

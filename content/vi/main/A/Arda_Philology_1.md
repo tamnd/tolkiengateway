@@ -42,7 +42,7 @@ infobox:
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Petri_Tikka&amp;action=edit&amp;redlink=1" title="Petri Tikka (page does not exist)">Petri Tikka</a>: "Sự hoàn thiện của [Quenya](../Q/Quenya.md)"
 - [Nils-Lennart Johannesson](../N/Nils-Lennart_Johannesson.md): "Quenya, [Hắc Ngữ](../B/Black_Speech.md) và Thang đo âm thanh"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Susanne_Vejdemo&amp;action=edit&amp;redlink=1" title="Susanne Vejdemo (page does not exist)">Susanne Vejdemo</a>: "Tolklangs trong thế giới 'thực'"
-- [Magnus Åberg](../M/Magnus_Åberg.md): "Phân tích [Người lùn](../D/Dwarvish.md)", kèm theo [Khuzdul](../K/Khuzdul.md) bảng chú giải thuật ngữ
+- [Magnus Åberg](../M/Magnus_Åberg.md): "Phân tích [Người Lùn](../D/Dwarvish.md)", kèm theo [Khuzdul](../K/Khuzdul.md) bảng chú giải thuật ngữ
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bertrand_Bellet&amp;action=edit&amp;redlink=1" title="Bertrand Bellet (page does not exist)">Bertrand Bellet</a>: "Tình cảm nguyên âm trong [Sindarin](../S/Sindarin.md) và [Noldorin](../N/Noldorin.md)"
 - [Måns Björkman](../M/Måns_Björkman.md): "Kịch bản của [Aman](Aman.md)"
 - [Christopher Gilson](../C/Christopher_Gilson.md): "'[Namárië](../N/Namárië.md)' và Từ vựng của Quenya"

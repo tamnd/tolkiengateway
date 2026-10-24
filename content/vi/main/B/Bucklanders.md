@@ -18,11 +18,11 @@ categories:
 <p class="tg-quote-footer"><cite><a href="../D/Daddy_Twofoot.md" title="Daddy Twofoot">Daddy Twofoot</a> and <a href="../G/Gaffer_Gamgee.md" title="Gaffer Gamgee">Gaffer Gamgee</a><sup id="cite_ref-party_1-0" class="reference"><a href="#cite_note-party-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Cư dân của [Buckland](Buckland.md) ở biên giới phía đông của [the Shire](../T/The_Shire.md) có nguồn gốc từ những người thuộc [Eastfarthing](../E/Eastfarthing.md) đã theo [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md) vượt qua [Brandywine](Brandywine.md), và phần lớn là [Stoors](../S/Stoors.md).<sup id="cite_ref-hobbits_2-0" class="reference"><a href="#cite_note-hobbits-2">[2]</a></sup>
+Cư dân của [Buckland](Buckland.md) ở biên giới phía đông của [Shire](../T/The_Shire.md) có nguồn gốc từ những người thuộc [Eastfarthing](../E/Eastfarthing.md) đã theo [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md) vượt qua [Brandywine](Brandywine.md), và phần lớn là [Stoors](../S/Stoors.md).<sup id="cite_ref-hobbits_2-0" class="reference"><a href="#cite_note-hobbits-2">[2]</a></sup>
 
 Người Bucklanders công nhận [Master of Buckland](../M/Master_of_Buckland.md) là thủ lĩnh của họ. [Brandybucks](Brandybuck_Family~66350.md), hậu duệ của Gorhendad, người sáng lập Buckland, được xem là gia đình quan trọng nhất trong số người Bucklanders; người ta nói rằng các Master có dòng máu [Fallohidish](../F/Fallohides.md) đậm nét, và điều này khiến họ ưa mạo hiểm hơn những người Bucklanders khác.<sup id="cite_ref-hobbits_2-1" class="reference"><a href="#cite_note-hobbits-2">[2]</a></sup>
 
-Trong khi người Hobbit vốn được biết là sợ sông ngòi và thuyền bè, và rất ít người biết bơi (huống chi là ra [the Sea], vốn là biểu tượng của nỗi sợ hãi và cái chết đối với họ, và rất ít người từng nhìn thấy nó), thuyền của người Bucklanders thường được trông thấy trên sông [Brandywine](Brandywine.md), con sông giáp với vùng đất của họ.<sup id="cite_ref-party_1-1" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
+Trong khi người Hobbit vốn được biết là sợ sông ngòi và thuyền bè, và rất ít người biết bơi (huống chi là ra [Sea], vốn là biểu tượng của nỗi sợ hãi và cái chết đối với họ, và rất ít người từng nhìn thấy nó), thuyền của người Bucklanders thường được trông thấy trên sông [Brandywine](Brandywine.md), con sông giáp với vùng đất của họ.<sup id="cite_ref-party_1-1" class="reference"><a href="#cite_note-party-1">[1]</a></sup>
 
 Ở biên giới phía đông của Buckland là khu rừng nguy hiểm [Old Forest](../O/Old_Forest.md), và mối đe dọa thường trực từ những cây cối u tối khiến người Bucklanders cứng cỏi hơn đôi chút so với những người Hobbit điển hình.
 

@@ -54,7 +54,7 @@ infobox:
 
 ### Lực lượng đối lập {#Opposing_Forces}
 
-Đối với các lực [Eriador](../E/Eriador.md), chưa biết con số chính xác. Có thể ước tính rằng, nhiều nhất là mười nghìn [Con Người Arnor](../M/Men_of_Arnor.md) đã có mặt tại thành phố, cùng với có thể là vài nghìn Tiên tộc [Lindon](../L/Lindon.md), [Rivendell](../R/Rivendell.md), [Lothlórien](../L/Lothlórien.md) và năm trăm Hobbit cung thủ từ [the Shire](../T/The_Shire.md).
+Đối với các lực [Eriador](../E/Eriador.md), chưa biết con số chính xác. Có thể ước tính rằng, nhiều nhất là mười nghìn [Con Người Arnor](../M/Men_of_Arnor.md) đã có mặt tại thành phố, cùng với có thể là vài nghìn Tiên tộc [Lindon](../L/Lindon.md), [Rivendell](../R/Rivendell.md), [Lothlórien](../L/Lothlórien.md) và năm trăm Hobbit cung thủ từ [Shire](../T/The_Shire.md).
 
 Lực lượng của [Angmar](../A/Angmar.md) có thể được ước tính vào khoảng từ bốn mươi đến sáu mươi nghìn [Orc](../O/Orcs.md), [Troll](../T/Trolls.md), Ác ma Con Người, Sói và tất cả các loại sinh vật tà ác khác.
 

@@ -54,7 +54,7 @@ infobox:
 - Dugan, Owen và James Krasner. "Súp, Xương và Shakespeare: Quyền tác giả văn học và sự ám chỉ trong Trung Địa."
 - Ostaltsev, Alex (Oleksiy). "Tolkien và Bakhtin: Bản giao hưởng thời gian trong *The Lord of the Rings*."
 - Larsen, Kristine. "Seeing Double: Tolkien and the Indo-European Divine Twins."
-- Kane, Douglas Charles. "Círdan the Shipwright: Tolkien’s Bodhisattva Who Brings Us to the Other Shore."
+- Kane, Douglas Charles. "Círdan Shipwright: Tolkien’s Bodhisattva Who Brings Us to the Other Shore."
 
 #### Tính năng {#Features}
 

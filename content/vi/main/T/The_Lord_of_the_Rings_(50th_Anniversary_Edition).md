@@ -65,7 +65,7 @@ Nhân dịp kỷ niệm 50 năm, cặp đôi đã đề xuất một nỗ lực 
 
 Được giám sát bởi Christopher Tolkien và dựa trên văn bản so sánh mới nhất, cặp đôi này đã sửa các lỗi đánh máy và sửa lỗi văn bản khi chắc chắn rằng văn bản mới nhất phản ánh sở thích của Tolkien. Bất cứ khi nào những điều đó rõ ràng, chính tả và viết hoa đều được quy định. Những lỗi văn bản nghiêm trọng hơn (xem bên dưới) đã được xem xét thận trọng theo từng trường hợp.<sup id="cite_ref-xlii_4-0" class="reference"><a href="#cite_note-xlii-4">[4]</a></sup> Christopher Tolkien đã tích cực "loại bỏ" những mâu thuẫn như vậy khiến người đọc mất tập trung, đồng thời chỉ ra rằng nếu cha anh được thông báo về chúng thì ông sẽ sửa ngay lập tức.<sup id="cite_ref-xliv_1-1" class="reference"><a href="#cite_note-xliv-1">[1]</a></sup>
 
-Một ví dụ về lỗi văn bản là cụm từ "từ vùng đất thấp đến vương quốc Người lùn" (Quyển II, Chương 6) đã được đổi thành "từ vùng đất thấp **của** vương quốc Người lùn" trong lần xuất bản tiếp theo (trong khi Moria không có vùng đất thấp); cặp đôi đã khôi phục nó về nguyên dạng ban đầu.<sup id="cite_ref-xlii_4-1" class="reference"><a href="#cite_note-xlii-4">[4]</a></sup>
+Một ví dụ về lỗi văn bản là cụm từ "từ vùng đất thấp đến vương quốc Người Lùn" (Quyển II, Chương 6) đã được đổi thành "từ vùng đất thấp **của** vương quốc Người Lùn" trong lần xuất bản tiếp theo (trong khi Moria không có vùng đất thấp); cặp đôi đã khôi phục nó về nguyên dạng ban đầu.<sup id="cite_ref-xlii_4-1" class="reference"><a href="#cite_note-xlii-4">[4]</a></sup>
 
 Một số lỗi mà ban biên tập không phát hiện ra hoặc những lỗi mới do lỗi phần mềm đã được sửa chữa thêm khi [2005](../_/2005.md) tái bản.<sup id="cite_ref-xliv_1-2" class="reference"><a href="#cite_note-xliv-1">[1]</a></sup>
 

@@ -69,7 +69,7 @@ Sau khi thất bại trong việc thuyết phục [Gil-galad](Gil-galad.md) và 
 
 Gwaith cùng với "Annatar" đã chế tạo một số chiếc nhẫn vào [S.A.](../S/Second_Age.md) [1500](../S/Second_Age_1500.md). Nhờ tình hữu nghị với người Dwarves, Celebrimbor đã trao cho Vua [Durin III](../D/Durin_III.md) [một Chiếc Nhẫn Quyền Năng](../R/Ring_of_Thrór.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Sau khi Annatar rời đi (thực chất là đến [Mordor](../M/Mordor.md)) vào khoảng [S.A.](../S/Second_Age.md) [1590](../S/Second_Age_1590.md), Celebrimbor đã chế tạo [Ba Chiếc Nhẫn](../T/Three_Rings.md)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>, một phần dựa trên những lời chỉ dạy của "Annatar".
 
-Sau đó, Sauron phản bội họ và rèn [Chiếc Nhẫn Chủ](../T/The_One_Ring.md). Tuy nhiên, Gwaith đã nhận ra âm mưu của hắn và từ chối giao những chiếc nhẫn của họ cho hắn, dẫn đến [Cuộc chiến giữa Tiên tộc và Sauron](../W/War_of_the_Elves_and_Sauron.md). Eregion bị tàn phá vào [S.A.](../S/Second_Age.md) [1697](../S/Second_Age_1697.md), và những người Gwaith sống sót đã đi theo [Elrond](../E/Elrond.md) rút lui về [Rivendell](../R/Rivendell.md).
+Sau đó, Sauron phản bội họ và rèn [Chiếc Nhẫn Chúa](../T/The_One_Ring.md). Tuy nhiên, Gwaith đã nhận ra âm mưu của hắn và từ chối giao những chiếc nhẫn của họ cho hắn, dẫn đến [Cuộc chiến giữa Tiên tộc và Sauron](../W/War_of_the_Elves_and_Sauron.md). Eregion bị tàn phá vào [S.A.](../S/Second_Age.md) [1697](../S/Second_Age_1697.md), và những người Gwaith sống sót đã đi theo [Elrond](../E/Elrond.md) rút lui về [Rivendell](../R/Rivendell.md).
 
 ## Từ nguyên {#Etymology}
 

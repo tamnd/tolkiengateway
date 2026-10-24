@@ -48,7 +48,7 @@ infobox:
 
 Cô đóng vai một đứa trẻ [Hobbit](../H/Hobbits.md) dễ thương lắng nghe những câu chuyện của Biblo trong cảnh Tiệc tùng, một đứa trẻ tị nạn [Rohan](../R/Rohan.md) dễ thương ẩn trong [Hang động lấp lánh](../G/Glittering_Caves.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md) và một đứa trẻ [Gondor](../G/Gondor.md) trong [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md) trong bộ ba phim *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(film_series).md>)*.
 
-Một thập kỷ sau, cô trở lại với bộ ba phim *[The Hobbit](<../T/The_Hobbit_(film_series).md>)*, đóng vai Hobbit Trẻ trung Dễ thương trong [the Shire](../T/The_Shire.md), [Betsy Butterbur](../B/Betsy_Butterbur.md) trong *[The Prancing Pony](../T/The_Prancing_Pony.md)* và Người phụ nữ trong [Thị trấn Hồ](../L/Lake-town.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một thập kỷ sau, cô trở lại với bộ ba phim *[The Hobbit](<../T/The_Hobbit_(film_series).md>)*, đóng vai Hobbit Trẻ trung Dễ thương trong [Shire](../T/The_Shire.md), [Betsy Butterbur](../B/Betsy_Butterbur.md) trong *[The Prancing Pony](../T/The_Prancing_Pony.md)* và Người phụ nữ trong [Thị trấn Hồ](../L/Lake-town.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Vai trò {#Roles}
 

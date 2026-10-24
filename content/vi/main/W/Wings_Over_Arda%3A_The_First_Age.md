@@ -46,7 +46,7 @@ infobox:
 ## Mô tả {#Description}
 
 <blockquote class="tg-quote noexcerpt">
-<p> <i>Wings Over Arda: The First Age</i> is a 2010 drama/fantasy film created and produced by Heart&#39;s Horn Imaginations.  The script was written by Richard Hartshorn, adapted from J.R.R. Tolkien&#39;s <i>The Silmarillion</i> and <i>Unfinished Tales</i>, with some material sourcing <i>The Book(s) of Lost Tales</i> and <i>The Shaping of Middle-earth</i>, as well as the published poetry of Tolkien.  The film follows two stories: the journeys of Tuor and Voronwë as they travel to Gondolin to warn Turgon of Morgoth&#39;s coming, as well as the struggles of Dior and his family as he attempts to renew the glory of Doriath with the power of the Silmaril passed to him by Beren.  The film was shot on an out-of-pocket budget over a short period in late 2010.
+<p> <i>Wings Over Arda: The First Age</i> is a 2010 drama/fantasy film created and produced by Heart&#39;s Horn Imaginations. The script was written by Richard Hartshorn, adapted from J.R.R. Tolkien&#39;s <i>The Silmarillion</i> and <i>Unfinished Tales</i>, with some material sourcing <i>The Book(s) of Lost Tales</i> and <i>The Shaping of Middle-earth</i>, as well as the published poetry of Tolkien. The film follows two stories: the journeys of Tuor and Voronwë as they travel to Gondolin to warn Turgon of Morgoth&#39;s coming, as well as the struggles of Dior and his family as he attempts to renew the glory of Doriath with the power of the Silmaril passed to him by Beren. The film was shot on an out-of-pocket budget over a short period in late 2010.
 </p>
 <p class="tg-quote-footer"><cite>Richard Hartshorn</cite></p>
 </blockquote>

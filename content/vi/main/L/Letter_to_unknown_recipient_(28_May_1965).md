@@ -33,7 +33,7 @@ Vào [28 tháng 5](../_/28_May.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J
 Các dòng được thêm của \[Tolkien:\]
 
 <blockquote class="tg-quote noexcerpt">
-<p>I believe he married a sister of<br/><a href="../F/Fredegar_Bolger.md" title="Fredegar Bolger">Fredegar (Fatty) Bolger</a>, but I<br/>will look into the matter.  I have some<br/>records of the family of the <a class="mw-redirect" href="../B/Bolger_Family~66348.md" title="Bolger Family">Bolgers</a> of <a href="../B/Budgeford.md" title="Budgeford">Budgeford</a>,<br/>whose lands were not far from <a href="../B/Buckland.md" title="Buckland">Buckland</a>, but they were<br/>for lack of space not included.  J. R. R. Tolkien
+<p>I believe he married a sister of<br/><a href="../F/Fredegar_Bolger.md" title="Fredegar Bolger">Fredegar (Fatty) Bolger</a>, but I<br/>will look into the matter. I have some<br/>records of the family of the <a class="mw-redirect" href="../B/Bolger_Family~66348.md" title="Bolger Family">Bolgers</a> of <a href="../B/Budgeford.md" title="Budgeford">Budgeford</a>,<br/>whose lands were not far from <a href="../B/Buckland.md" title="Buckland">Buckland</a>, but they were<br/>for lack of space not included. J. R. R. Tolkien
 </p>
 </blockquote>
 

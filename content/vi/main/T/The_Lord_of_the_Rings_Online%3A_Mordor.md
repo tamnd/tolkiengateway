@@ -64,7 +64,7 @@ infobox:
 
 *Where Dragons Dwell* là bản cập nhật thứ hai mươi ba, được phát hành vào [ngày 9 tháng 10](../_/9_October.md), [2018](../_/2018.md).
 
-- Khu vực mới "Kho chứa Người lùn", bao gồm hai khu vực; [Dãy Đồi Sắt](../I/Iron_Hills.md) và [Ered Mithrin](../E/Ered_Mithrin.md). Một vùng mở rộng [Erebor](../E/Erebor.md) cũng được mở ra.
+- Khu vực mới "Kho chứa Người Lùn", bao gồm hai khu vực; [Dãy Đồi Sắt](../I/Iron_Hills.md) và [Ered Mithrin](../E/Ered_Mithrin.md). Một vùng mở rộng [Erebor](../E/Erebor.md) cũng được mở ra.
 - Một cụm phiên bản mới được giới thiệu, bao gồm hai phiên bản 3 người (Caverns of Thrumfall và Glimmerdeep), một phiên bản sáu người (Thikil-gundu) và một cuộc đột kích 12 người (The Anvil of Winterstith).
 - Sách đen Mordor tiếp tục với hai chương mới khám phá những lĩnh vực mới.
 

@@ -47,7 +47,7 @@ Lịch <i><b>Tolkien 2001</b></i> là lịch Tolkien chính thức được xu�
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>The 21st century’s first Tolkien Calendar features twelve newly commissioned paintings based on The Lord of the Rings by renowned Tolkien artist John Howe.<br/><br/>The Tolkien Calendar 2001 features 13 brand new paintings from John Howe, creator of the famous ‘Gandalf’ jacket and designer on the forthcoming Lord of the Rings Movie Trilogy . The paintings are all based on Tolkien’s classic masterpiece, The Lord of the Rings and the overall design of this year’s calendar features input from the artist himself.
+<p>The 21st century’s first Tolkien Calendar features twelve newly commissioned paintings based on The Lord of the Rings by renowned Tolkien artist John Howe.<br/><br/>The Tolkien Calendar 2001 features 13 brand new paintings from John Howe, creator of the famous ‘Gandalf’ jacket and designer on the forthcoming Lord of the Rings Movie Trilogy. The paintings are all based on Tolkien’s classic masterpiece, The Lord of the Rings and the overall design of this year’s calendar features input from the artist himself.
 </p>
 </blockquote>
 

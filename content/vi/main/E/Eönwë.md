@@ -95,7 +95,7 @@ Sau đó, [Sauron](../S/Sauron.md) đã tỏ lòng tôn kính Eönwë và từ b
 
 ### Tuổi thứ hai {#Second_Age}
 
-Vào buổi bình minh của [Kỷ nguyên thứ hai](../S/Second_Age.md), Eönwë đã đến giữa ba gia tộc trung thành của [Edain](Edain.md) và dạy họ nhiều điều; và họ được ban phước với trí tuệ, sức mạnh và [tuổi thọ](../M/Mortality.md) dài hơn.<sup id="cite_ref-Akallabeth_7-0" class="reference"><a href="#cite_note-Akallabeth-7">[6]</a></sup>
+Vào buổi bình minh của [Kỷ Đệ Nhị](../S/Second_Age.md), Eönwë đã đến giữa ba gia tộc trung thành của [Edain](Edain.md) và dạy họ nhiều điều; và họ được ban phước với trí tuệ, sức mạnh và [tuổi thọ](../M/Mortality.md) dài hơn.<sup id="cite_ref-Akallabeth_7-0" class="reference"><a href="#cite_note-Akallabeth-7">[6]</a></sup>
 
 Những Edain này cuối cùng đã trở thành [Cao Con Người](../H/High_Men.md) của [Númenor](../N/Númenor.md).<sup id="cite_ref-Akallabeth_7-1" class="reference"><a href="#cite_note-Akallabeth-7">[6]</a></sup>
 

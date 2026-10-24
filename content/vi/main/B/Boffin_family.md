@@ -28,7 +28,7 @@ langlinks:
     url: "https://kontu.wiki/Boffin"
 ---
 
-**Gia đình Boffin** là một gia đình nổi bật của [the Shire](../T/The_Shire.md), gắn liền với vùng [Yale](../T/The_Yale.md) trong [Eastfarthing](../E/Eastfarthing.md).<sup id="cite_ref-Boffin_1-0" class="reference"><a href="#cite_note-Boffin-1">[1]</a></sup> Các thành viên quan trọng bao gồm [Berylla Boffin](Berylla_Baggins.md), tổ tiên của cả [Bilbo](Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md), và [Folco Boffin](../F/Folco_Boffin.md), người đã giúp đỡ Frodo trong hành trình của ông từ [Bag End](Bag_End.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Gia đình Boffin** là một gia đình nổi bật của [Shire](../T/The_Shire.md), gắn liền với vùng [Yale](../T/The_Yale.md) trong [Eastfarthing](../E/Eastfarthing.md).<sup id="cite_ref-Boffin_1-0" class="reference"><a href="#cite_note-Boffin-1">[1]</a></sup> Các thành viên quan trọng bao gồm [Berylla Boffin](Berylla_Baggins.md), tổ tiên của cả [Bilbo](Bilbo_Baggins.md) và [Frodo Baggins](../F/Frodo_Baggins.md), và [Folco Boffin](../F/Folco_Boffin.md), người đã giúp đỡ Frodo trong hành trình của ông từ [Bag End](Bag_End.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Gia phả của Boffins ở Yale {#Family_tree_of_the_Boffins_of_Yale}
 

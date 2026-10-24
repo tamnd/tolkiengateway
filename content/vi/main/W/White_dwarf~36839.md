@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "White Dwarf"
 ---
 
-Chuyển hướng tới [Trắng Người lùn](White_Dwarf.md).
+Chuyển hướng tới [Trắng Người Lùn](White_Dwarf.md).

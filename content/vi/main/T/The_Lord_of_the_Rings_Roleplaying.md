@@ -53,7 +53,7 @@ Nó được chia thành hai chương:
 
 Nó bao gồm ba chương:
 
-1. **Sương mù Eriador** có bản đồ và mô tả chi tiết về [Tharbad](Tharbad.md) và cư dân ở đó. Phần còn lại của chương bao gồm [Swanfleet](../S/Swanfleet.md), [Lond Daer](../L/Lond_Daer.md), Người lùn-Halls of Harmelt, Vùng đất đơn độc [Minhiriath](../M/Minhiriath.md), [Eryn Vorn](../E/Eryn_Vorn.md) và tàn tích của [Cardolan](../C/Cardolan.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+1. **Sương mù Eriador** có bản đồ và mô tả chi tiết về [Tharbad](Tharbad.md) và cư dân ở đó. Phần còn lại của chương bao gồm [Swanfleet](../S/Swanfleet.md), [Lond Daer](../L/Lond_Daer.md), Người Lùn-Halls of Harmelt, Vùng đất đơn độc [Minhiriath](../M/Minhiriath.md), [Eryn Vorn](../E/Eryn_Vorn.md) và tàn tích của [Cardolan](../C/Cardolan.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 2. **A Gathering Storm** mô tả những mối đe dọa mà người chơi có thể gặp phải: [Đen người Númenor](../B/Black_Númenóreans.md), đặc vụ của [Bàn tay trắng](../W/White_Hand.md) (những kẻ có thể cản trở hoặc giúp đỡ người chơi) và những kẻ đột kích từ [Dunland](../D/Dunland.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 3. **Các địa danh** cuối cùng liệt kê 12 địa danh, trong đó có [Tháp Trắng](../W/White_Towers.md), [Weathertop](../W/Weathertop.md) và [Mount Gram](../M/Mount_Gram.md), .<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 

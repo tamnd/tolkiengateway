@@ -40,7 +40,7 @@ infobox:
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>A desk diary for the year 2001, containing original paintings based on The Lord of the Rings.<br/><br/>This sumptuous week-to-view desk diary is illustrated with 13 brand new paintings from John Howe, creator of the famous ‘Gandalf’ jacket and designer on the forthcoming Lord of the Rings Movie Trilogy . The paintings are all based on Tolkien’s classic masterpiece, The Lord of the Rings and the overall design of this year’s calendar features input from the artist himself.
+<p>A desk diary for the year 2001, containing original paintings based on The Lord of the Rings.<br/><br/>This sumptuous week-to-view desk diary is illustrated with 13 brand new paintings from John Howe, creator of the famous ‘Gandalf’ jacket and designer on the forthcoming Lord of the Rings Movie Trilogy. The paintings are all based on Tolkien’s classic masterpiece, The Lord of the Rings and the overall design of this year’s calendar features input from the artist himself.
 </p>
 </blockquote>
 

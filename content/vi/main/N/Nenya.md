@@ -103,7 +103,7 @@ Trong phiên bản đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_
 		</li>
 </ul>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The Three Rings are seen in the prologue and are said to have been given to the &#34;tall <a href="../E/Elves.md" title="Elves">Elf</a> kings&#34;. Later in the film, <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> shows Nenya to <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>. As the Ring emanates light, Frodo recites part of the <a href="../R/Ring-inscription.md#Ring-verse" title="Ring-inscription">Ring-verse</a>: &#34;Three Rings for the Elven-kings under the sky&#34;.</dd></dl>
 

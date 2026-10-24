@@ -59,7 +59,7 @@ infobox:
     - Bởi: Bryan Talbot
 - Bài thơ: Đứa trẻ Farie của Crinan Moss
     - Bởi: John Whyllie
-- Câu chuyện Chuyện Người lùn-Người Vợ phần II
+- Câu chuyện Chuyện Người Lùn-Người Vợ phần II
     - Bởi: [Vera Chapman](../V/Vera_Chapman.md)
 - Minh họa: Ban đêm cô ngủ bên đống lửa nhỏ
     - Bởi: Adrian Cuthbert

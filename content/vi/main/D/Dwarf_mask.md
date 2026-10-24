@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarf-masks"
 ---
 
-Chuyển hướng tới [Người lùn-masks](Dwarf-masks.md).
+Chuyển hướng tới [Người Lùn-masks](Dwarf-masks.md).

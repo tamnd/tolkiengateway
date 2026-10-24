@@ -159,7 +159,7 @@ Người ta cho rằng con nhện khổng lồ mà một anh hùng chiến đấ
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Gollum_-_Shelob&#39;s_description.jpeg.md" title="Shelob&#39;s description in The Lord of the Rings: Gollum"><img alt="Shelob&#39;s description in The Lord of the Rings: Gollum" src="https://tolkiengateway.net/w/images/thumb/c/c1/The_Lord_of_the_Rings_Gollum_-_Shelob%27s_description.jpeg/200px-The_Lord_of_the_Rings_Gollum_-_Shelob%27s_description.jpeg" decoding="async" loading="lazy" width="200" height="112" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c1/The_Lord_of_the_Rings_Gollum_-_Shelob%27s_description.jpeg/300px-The_Lord_of_the_Rings_Gollum_-_Shelob%27s_description.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c1/The_Lord_of_the_Rings_Gollum_-_Shelob%27s_description.jpeg/400px-The_Lord_of_the_Rings_Gollum_-_Shelob%27s_description.jpeg 2x" data-file-width="900" data-file-height="506"/></a></span></div>
 			<div class="gallerytext">
-<p>Shelob&#39;s description  in <i><a href="../T/The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></i>
+<p>Shelob&#39;s description in <i><a href="../T/The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></i>
 </p>
 			</div>
 		</li>
@@ -167,7 +167,7 @@ Người ta cho rằng con nhện khổng lồ mà một anh hùng chiến đấ
 
 <b>1981: <i><a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</i></b>
 
-<dl><dd>Shelob was voiced by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jenny_Lee&amp;action=edit&amp;redlink=1" title="Jenny Lee (page does not exist)">Jenny Lee</a>. Lee had no dialogue, but hissed to convey Shelob&#39;s menace, then made a bubbling noise to suggest the passing of her poison into Frodo.  Finally, she made a roaring sound during her fight with Sam to convey her pain when Sam&#39;s thrusts found their mark. When the incident is described to <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, it is claimed that Shelob was killed.</dd></dl>
+<dl><dd>Shelob was voiced by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jenny_Lee&amp;action=edit&amp;redlink=1" title="Jenny Lee (page does not exist)">Jenny Lee</a>. Lee had no dialogue, but hissed to convey Shelob&#39;s menace, then made a bubbling noise to suggest the passing of her poison into Frodo. Finally, she made a roaring sound during her fight with Sam to convey her pain when Sam&#39;s thrusts found their mark. When the incident is described to <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>, it is claimed that Shelob was killed.</dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a>:</i></b>
 

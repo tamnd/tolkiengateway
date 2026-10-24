@@ -46,7 +46,7 @@ Khi được hỏi về mối liên hệ của *[The Hobbit](../T/The_Hobbit.md)
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim năm 1967)</a>:</b>
 
 <dl><dd>Bilbo and Gollum never interact, so there is no opportunity for a riddle-game.</dd></dl>
 

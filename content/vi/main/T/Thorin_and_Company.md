@@ -54,12 +54,12 @@ infobox:
 - [Óin](../_/Óin.md) và [Glóin](../G/Glóin.md), con trai của [Gróin](../G/Gróin.md) (anh em họ của Balin và Dwalin)
 - [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md), anh em, cháu trai của Thorin
 - [Dori](../D/Dori.md), [Nori](../N/Nori.md) và [Ori](../O/Ori.md) (Người Lùn của [Gia tộc Durin](../H/House_of_Durin.md))
-- [Bifur](../B/Bifur.md) cùng với anh em họ [Bofur](../B/Bofur.md) và [Bombur](../B/Bombur.md) (hậu duệ của [Người lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md))<sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
+- [Bifur](../B/Bifur.md) cùng với anh em họ [Bofur](../B/Bofur.md) và [Bombur](../B/Bombur.md) (hậu duệ của [Người Lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md))<sup id="cite_ref-Durin_1-0" class="reference"><a href="#cite_note-Durin-1">[1]</a></sup>
 - Và Bilbo Baggins, một Hobbit của [ Shire](The_Shire.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Họ đã tham gia cùng [Gandalf](../G/Gandalf.md) trong một phần của cuộc hành trình.
 
-Thorin tự gọi mình và những người bạn đồng hành Người lùn của mình là "Thorin và Đoàn tùy tùng" trong dòng mở đầu tin nhắn để lại trên bệ lò sưởi của Bilbo sau [bữa tiệc bất ngờ](../A/An_Unexpected_Party.md) tại [Bag End](../B/Bag_End.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Thorin tự gọi mình và những người bạn đồng hành Người Lùn của mình là "Thorin và Đoàn tùy tùng" trong dòng mở đầu tin nhắn để lại trên bệ lò sưởi của Bilbo sau [bữa tiệc bất ngờ](../A/An_Unexpected_Party.md) tại [Bag End](../B/Bag_End.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -87,7 +87,7 @@ Thorin tự gọi mình và những người bạn đồng hành Người lùn c
 		</li>
 </ul>
 
-<b>1967: <a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1967: <a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>The entire company marches out to join the Dwarves of the Iron Hills in facing the men and elves. Seven members of the company are killed or mortally wounded during the Battle of Five Armies. Or these, only Thorin and Bombur are identified by name.</dd></dl>
 

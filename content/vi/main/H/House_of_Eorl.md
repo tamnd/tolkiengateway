@@ -79,7 +79,7 @@ Eorl là [Lãnh chúa Éothéod](../L/Lord_of_the_Éothéod.md) cuối cùng, h�
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Mahari fell in the rearguard action after the <a href="../B/Battle_of_the_Plains.md" title="Battle of the Plains">Battle of the Plains</a>.</span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Fram slew the dragon <a href="../S/Scatha.md" title="Scatha">Scatha</a> and claimed his hoard.  The Dwarves also claimed the hoard but Fram gave them nothing.  Instead, he sent them a necklace made of Scatha&#39;s teeth.  Some say that the Dwarves killed Fram for this insult.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Fram slew the dragon <a href="../S/Scatha.md" title="Scatha">Scatha</a> and claimed his hoard. The Dwarves also claimed the hoard but Fram gave them nothing. Instead, he sent them a necklace made of Scatha&#39;s teeth. Some say that the Dwarves killed Fram for this insult.</span>
 </li>
 <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Léod died at age 42 (his son was 16) when the horse <a href="../F/Felaróf.md" title="Felaróf">Felaróf</a> threw him and he struck his head upon a rock.</span>
 </li>
@@ -118,9 +118,9 @@ Sau chiến thắng Gondor và [Éothéod](../_/Éothéod.md) tại [Trận chi�
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Brego died of grief one year after his son Baldor disappeared on the <a href="../P/Paths_of_the_Dead.md" title="Paths of the Dead">Paths of the Dead</a>.</span>
 </li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Baldor vowed to tread the Paths of the Dead at the feast held when <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a> was completed.  He never returned.</span>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">Baldor vowed to tread the Paths of the Dead at the feast held when <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a> was completed. He never returned.</span>
 </li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Helm died one night when he was out stalking his enemies.  He was found dead as a stone but with unbent knees, standing upon the Dike near the <a href="Hornburg.md" title="Hornburg">Hornburg</a>.</span>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Helm died one night when he was out stalking his enemies. He was found dead as a stone but with unbent knees, standing upon the Dike near the <a href="Hornburg.md" title="Hornburg">Hornburg</a>.</span>
 </li>
 <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">Freca died from a blow from Helm’s fist.</span>
 </li>
@@ -171,7 +171,7 @@ Thông qua [Morwen of Lossarnach](../M/Morwen_of_Lossarnach.md), cả người t
 </li>
 <li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text">Elfhild died in childbirth.</span>
 </li>
-<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">Théodwyn was born in Rohan.  Not long after Éomund died Théodwyn became ill and died.</span>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text">Théodwyn was born in Rohan. Not long after Éomund died Théodwyn became ill and died.</span>
 </li>
 <li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">Éomund was slain by Orcs on the borders of the Emyn Muil.</span>
 </li>

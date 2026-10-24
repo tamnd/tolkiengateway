@@ -42,7 +42,7 @@ Tolkien nói với anh Rang rằng tên và từ tượng thanh chỉ là thú v
 - [Nazgul](../N/Nazgûl.md) *(sic)*: Từ này cũng được kết nối với một từ Anglo-saxon theo Rang, *gael-naes*. Tolkien chưa bao giờ nghe nói về hợp chất đó và cho biết không có lý do hợp lý nào để kết hợp [Hắc Ngữ](../B/Black_Speech.md) và Anglo-saxon.
 - [Moria](../M/Moria.md): Rang đã nối nó với dãy núi trong Kinh thánh <a class="extiw" href="http://en.wikipedia.org/wiki/Moriah" title="wikipedia:Moriah">Moriah</a>. Tolkien không thấy có mối liên hệ nào giữa việc khai thác [Người Lùn](../D/Dwarves.md) và câu chuyện về Abraham.
 
-Sau lần “làm thẳng” này, Tolkien đã liệt kê những ảnh hưởng bên ngoài vào những cái tên đúng sự thật. Người lùn tên đến từ *[Völuspá](../V/Völuspá.md)*. Rohan chỉ trên danh nghĩa chịu ảnh hưởng của gia đình Normand <a class="extiw" href="http://en.wikipedia.org/wiki/Rohan_(family)" title="wikipedia:Rohan (family)">Rohan</a>.
+Sau lần “làm thẳng” này, Tolkien đã liệt kê những ảnh hưởng bên ngoài vào những cái tên đúng sự thật. Người Lùn tên đến từ *[Völuspá](../V/Völuspá.md)*. Rohan chỉ trên danh nghĩa chịu ảnh hưởng của gia đình Normand <a class="extiw" href="http://en.wikipedia.org/wiki/Rohan_(family)" title="wikipedia:Rohan (family)">Rohan</a>.
 
 - *[Dor](../D/Dor.md)*, "đất", có mối liên hệ gần gũi hơn với <a class="extiw" href="http://en.wikipedia.org/wiki/Labrador" title="wikipedia:Labrador">Labrador</a> so với <a class="extiw" href="http://en.wikipedia.org/wiki/Endor_(village)" title="wikipedia:Endor (village)">Endor</a>trong Kinh thánh. Moria được chọn vì Tolkien thích chiếc nhẫn của <a class="extiw" href="http://en.wikipedia.org/wiki/Soria_Moria_Castle" title="wikipedia:Soria Moria Castle">Lâu đài Soria Moria</a>.
 

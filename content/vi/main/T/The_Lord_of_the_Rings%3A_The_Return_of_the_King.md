@@ -480,7 +480,7 @@ Sự điên rồ của 44. [Denethor](../D/Denethor's_Madness.md)
 </td></tr>
 <tr>
 <td><a href="../M/Michael_Elsworth.md" title="Michael Elsworth">Michael Elsworth</a></td>
-<td><a href="../C/Círdan.md" title="Círdan">Círdan the Shipwright</a>
+<td><a href="../C/Círdan.md" title="Círdan">Círdan Shipwright</a>
 </td></tr>
 <tr>
 <td>Mark Ferguson, Brent McIntyre</td>

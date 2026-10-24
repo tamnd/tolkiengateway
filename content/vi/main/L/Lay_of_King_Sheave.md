@@ -27,7 +27,7 @@ infobox:
     value: "King Sheave, The Notion Club Papers, Notion Club"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the lay in <i><a href="../T/The_Notion_Club_Papers.md" title="The Notion Club Papers">The Notion  Club Papers</a></i></b>. For the titular character, see <b><a href="../K/King_Sheave.md" title="King Sheave">King Sheave</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the lay in <i><a href="../T/The_Notion_Club_Papers.md" title="The Notion Club Papers">The Notion Club Papers</a></i></b>. For the titular character, see <b><a href="../K/King_Sheave.md" title="King Sheave">King Sheave</a></b>.</div></div>
 
 <table class="tg-infobox floatright">
   <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Poems by J.R.R. Tolkien</a></td></tr>

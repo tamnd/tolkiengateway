@@ -101,7 +101,7 @@ Khi họ tiếp tục đi, Pippin trinh sát phía trước với Merry. Họ nh
 
 Họ dùng bữa gần chân một trong những bức tượng troll và Merry đề nghị ai đó hát. Sam cuối cùng cũng mủi lòng và hát cho họ nghe [một bài hát về một con troll](../T/The_Stone_Troll.md) đã đánh cắp một chiếc xương chày từ một ngôi mộ. Sau khi hát xong, Frodo tiết lộ rằng Sam đã dàn dựng ngay tại chỗ.
 
-Cả nhóm đi theo con đường mà họ suy đoán đã được Bilbo, [Gandalf](../G/Gandalf.md) và [mười ba người lùn](../T/Thorin_and_Company.md) sử dụng. Quả thực, họ đã sớm tìm thấy một hòn đá được bao phủ bởi [Người lùn](../D/Dwarves.md) rune, đánh dấu nơi Công ty chôn giấu kho báu Troll. Khi Merry hỏi Frodo liệu phần kho báu đó của Bilbo có còn sót lại gì không, Frodo thầm ước rằng Bilbo đã không mang về nhà chút kho báu nào, ám chỉ The One Ring. Ông ta khai với Merry rằng Bilbo đã cho đi toàn bộ kho báu vì nó đến từ tên cướp Troll.
+Cả nhóm đi theo con đường mà họ suy đoán đã được Bilbo, [Gandalf](../G/Gandalf.md) và [mười ba người lùn](../T/Thorin_and_Company.md) sử dụng. Quả thực, họ đã sớm tìm thấy một hòn đá được bao phủ bởi [Người Lùn](../D/Dwarves.md) rune, đánh dấu nơi Công ty chôn giấu kho báu Troll. Khi Merry hỏi Frodo liệu phần kho báu đó của Bilbo có còn sót lại gì không, Frodo thầm ước rằng Bilbo đã không mang về nhà chút kho báu nào, ám chỉ The One Ring. Ông ta khai với Merry rằng Bilbo đã cho đi toàn bộ kho báu vì nó đến từ tên cướp Troll.
 
 <h3><span id="Glorfindel.27s_aid"></span><span class="mw-headline" id="Glorfindel&#39;s_aid">Glorfindel&#39;s aid</span></h3>
 

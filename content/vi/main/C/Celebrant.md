@@ -51,7 +51,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md), một đạo quân Orc tiến theo Silverlode và quét sạch thuộc địa của các Người lùn cư trú tại [Moria](../M/Moria.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [T.A.](../T/Third_Age.md) [2994](../T/Third_Age_2994.md), một đạo quân Orc tiến theo Silverlode và quét sạch thuộc địa của các Người Lùn cư trú tại [Moria](../M/Moria.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Khoảng [tháng Mười một](../N/November.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md), được [Elrond](../E/Elrond.md) phái đi làm một nhiệm vụ bí mật, xuôi dòng Silverlode vào một "vùng đất xa lạ" và là những người cuối cùng trở về [Rivendell](../R/Rivendell.md), vào [tháng Mười hai](../D/December.md).<sup id="cite_ref-south_2-0" class="reference"><a href="#cite_note-south-2">[2]</a></sup>
 

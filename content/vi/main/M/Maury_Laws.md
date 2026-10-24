@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Laws, Maury"
 ---
 
-**Maury Laws** là một nhà soạn nhạc người Mỹ. Laws đã làm việc cho [Rankin/Bass](../R/Rankin%252FBass.md) trong nhiều năm và sáng tác nhạc cho [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>) và [*The Return of the King* (phim 1980)](<../T/The_Return_of_the_King_(1980_film).md>), bộ phim trước đây đã mang về cho Laws <a class="external text" href="http://www.imdb.com/event/ev0000301/1979?ref_=ttawd_ev_1" rel="noreferrer noopener" target="_blank">đề cử Grammy</a>.
+**Maury Laws** là một nhà soạn nhạc người Mỹ. Laws đã làm việc cho [Rankin/Bass](../R/Rankin%252FBass.md) trong nhiều năm và sáng tác nhạc cho [*The Hobbit* (phim năm 1977)](<../T/The_Hobbit_(1977_film).md>) và [*The Return of the King* (phim năm 1980)](<../T/The_Return_of_the_King_(1980_film).md>), bộ phim trước đây đã mang về cho Laws <a class="external text" href="http://www.imdb.com/event/ev0000301/1979?ref_=ttawd_ev_1" rel="noreferrer noopener" target="_blank">đề cử Grammy</a>.
 
 ## Phim ảnh {#Filmography}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Dwarven realms"
 ---
 
-Chuyển hướng đến [Danh mục:Người lùn vương quốc](../../category/D/Dwarven_realms.md).
+Chuyển hướng đến [Danh mục:Người Lùn vương quốc](../../category/D/Dwarven_realms.md).

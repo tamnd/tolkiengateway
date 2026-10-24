@@ -29,7 +29,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;List of minor The Lord of the Rings Online characters in the Ered Luin&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;List of minor The Lord of the Rings Online characters in the Ered Luin&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ered_Luin.md) được tạo riêng cho [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).
 
@@ -39,11 +39,11 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Không có gì {#Bogi}
 
-**Bogi** là [Người lùn](../D/Dwarves.md) từ Erebor. Ông ta là thành viên trong nhóm Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-0" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của ông ta <a class="mw-selflink-fragment" href="#Orodlin">Orodlin</a> và <a class="mw-selflink-fragment" href="#Selur">Selur</a> cử người chơi vào trong Silver Deep Mines để giết một số Cave-claws, những kẻ đang phá hủy vùng đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-0" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
+**Bogi** là [Người Lùn](../D/Dwarves.md) từ Erebor. Ông ta là thành viên trong nhóm Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Sảnh của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-0" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của ông ta <a class="mw-selflink-fragment" href="#Orodlin">Orodlin</a> và <a class="mw-selflink-fragment" href="#Selur">Selur</a> cử người chơi vào trong Silver Deep Mines để giết một số Cave-claws, những kẻ đang phá hủy vùng đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-0" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
 
 ## Bolli {#Bolli}
 
-**Bolli** là một [Người lùn](../D/Dwarves.md) đến từ [Erebor](Lonely_Mountain.md), là thành viên của công ty [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin. Ông ta gửi người chơi lùn đến [Nos Grimsong](../N/Nos_Grimsong.md) trong phần Giới thiệu.<sup id="cite_ref-return_lonely_mountain_4-0" class="reference"><a href="#cite_note-return_lonely_mountain-4">[4]</a></sup> Sau khi Gondamon bị [Longbeards](Longbeards.md) chinh phục lại, ông ta trở thành đội trưởng đội cận vệ của Gondamon.<sup id="cite_ref-Goblins_in_the_South_5-0" class="reference"><a href="#cite_note-Goblins_in_the_South-5">[5]</a></sup>
+**Bolli** là một [Người Lùn](../D/Dwarves.md) đến từ [Erebor](Lonely_Mountain.md), là thành viên của công ty [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin. Ông ta gửi người chơi lùn đến [Nos Grimsong](../N/Nos_Grimsong.md) trong phần Giới thiệu.<sup id="cite_ref-return_lonely_mountain_4-0" class="reference"><a href="#cite_note-return_lonely_mountain-4">[4]</a></sup> Sau khi Gondamon bị [Longbeards](Longbeards.md) chinh phục lại, ông ta trở thành đội trưởng đội cận vệ của Gondamon.<sup id="cite_ref-Goblins_in_the_South_5-0" class="reference"><a href="#cite_note-Goblins_in_the_South-5">[5]</a></sup>
 
 ## Calthendin {#Calthendin}
 
@@ -55,7 +55,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Dúri Búa Đậm {#Dúri_Bold-Hammer}
 
-**Dúri Bold-Hammer** là một [Người lùn](../D/Dwarves.md) trong Tòa án của Frerin. Dúri là một trong những Người Lùn đi cùng [Dwalin](../D/Dwalin.md) điều tra Cổng của Thorin. Ông là một thợ rèn vũ khí.<sup id="cite_ref-Ered_Luin_9-0" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Dúri Bold-Hammer** là một [Người Lùn](../D/Dwarves.md) trong Tòa án của Frerin. Dúri là một trong những Người Lùn đi cùng [Dwalin](../D/Dwalin.md) điều tra Cổng của Thorin. Ông là một thợ rèn vũ khí.<sup id="cite_ref-Ered_Luin_9-0" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Edenithil {#Edenithil}
 
@@ -87,11 +87,11 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Grímr {#Grímr}
 
-**Grímr** là huấn luyện viên [Người lùn](../D/Dwarves.md) và vô địch tại Tòa án của Frerin. Ông ta là thành viên của đại đội Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-5" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Ông ta đã tư vấn cho người chơi vô địch về hạng vô địch theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-0" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Grímr** là huấn luyện viên [Người Lùn](../D/Dwarves.md) và vô địch tại Tòa án của Frerin. Ông ta là thành viên của đại đội Người Lùn được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-5" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Ông ta đã tư vấn cho người chơi vô địch về hạng vô địch theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-0" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Grithur {#Grithur}
 
-**Grithur** là một [Người lùn](../D/Dwarves.md) thợ rèn áo giáp hạng nhẹ tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-3" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Grithur** là một [Người Lùn](../D/Dwarves.md) thợ rèn áo giáp hạng nhẹ tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-3" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Haerendir {#Haerendir}
 
@@ -123,23 +123,23 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Narl {#Narl}
 
-**Narl** là người huấn luyện [Người lùn](../D/Dwarves.md) người giữ rune trong Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-6" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md), ông đã dạy người chơi lùn về lớp người giữ rune.<sup id="cite_ref-sharpen_your_skills_13-2" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Narl** là người huấn luyện [Người Lùn](../D/Dwarves.md) người giữ rune trong Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-6" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md), ông đã dạy người chơi lùn về lớp người giữ rune.<sup id="cite_ref-sharpen_your_skills_13-2" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Nial {#Nial}
 
-**Nial** là một huấn luyện viên hát rong [Người lùn](../D/Dwarves.md) tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-7" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Ông là thành viên của nhóm Người Lùn được [Dwalin](../D/Dwalin.md) dẫn đầu để điều tra Cổng của Thorin theo lệnh của [Dáin II](../D/Dáin_Ironfoot.md).<sup id="cite_ref-Ered_Luin_introduction_2-8" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Trong phần Giới thiệu, ông đã dạy người chơi lùn về các kỹ năng chơi hát rong theo yêu cầu của [Nos Bài hát Grims](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-3" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Nial** là một huấn luyện viên hát rong [Người Lùn](../D/Dwarves.md) tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-7" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Ông là thành viên của nhóm Người Lùn được [Dwalin](../D/Dwalin.md) dẫn đầu để điều tra Cổng của Thorin theo lệnh của [Dáin II](../D/Dáin_Ironfoot.md).<sup id="cite_ref-Ered_Luin_introduction_2-8" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Trong phần Giới thiệu, ông đã dạy người chơi lùn về các kỹ năng chơi hát rong theo yêu cầu của [Nos Bài hát Grims](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-3" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Orodlin {#Orodlin}
 
-**Orodlin** là một [Tiên](../E/Elves.md) từ [Rivendell](../R/Rivendell.md) đã đi cùng [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) đến Cổng của Thorin, nơi ông ta được bố trí tại một tiền đồn gần Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-9" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Người lùn](../D/Dwarves.md) <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông ta cử người chơi Tiên bên trong Silver Deep Mines để tiêu diệt một số Cave-claws, những người đang phá hủy đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-1" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup> Sau đó, ông ta quay trở lại Rivendell, nơi có thể tìm thấy ông ta ở chợ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+**Orodlin** là một [Tiên](../E/Elves.md) từ [Rivendell](../R/Rivendell.md) đã đi cùng [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) đến Cổng của Thorin, nơi ông ta được bố trí tại một tiền đồn gần Edhelion.<sup id="cite_ref-Ered_Luin_introduction_2-9" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Người Lùn](../D/Dwarves.md) <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông ta cử người chơi Tiên bên trong Silver Deep Mines để tiêu diệt một số Cave-claws, những người đang phá hủy đất bằng cách đào bới.<sup id="cite_ref-fear_of_collapse_3-1" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup> Sau đó, ông ta quay trở lại Rivendell, nơi có thể tìm thấy ông ta ở chợ.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 ## Thông tin {#Otur}
 
-**Otur** là [Người lùn](../D/Dwarves.md) từ Sảnh của [Thorin](../T/Thorin's_Halls.md). Trong phần giới thiệu Ered Luin, ông đã đưa cho người chơi một vũ khí khi họ đi sâu vào Mỏ sâu bạc để tìm kiếm [Tvistur](#Tvistur).<sup id="cite_ref-into_the_silver_deep_17-0" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
+**Otur** là [Người Lùn](../D/Dwarves.md) từ Sảnh của [Thorin](../T/Thorin's_Halls.md). Trong phần giới thiệu Ered Luin, ông đã đưa cho người chơi một vũ khí khi họ đi sâu vào Mỏ sâu bạc để tìm kiếm [Tvistur](#Tvistur).<sup id="cite_ref-into_the_silver_deep_17-0" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
 
 ## Ovi Redforge {#Ovi_Redforge}
 
-**Ovi Redforge** là một thợ rèn hạng trung [Người lùn](../D/Dwarves.md) ở Frerin's Court. Ovi Redforge là thành viên trong nhóm [Người lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_9-8" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Ovi Redforge** là một thợ rèn hạng trung [Người Lùn](../D/Dwarves.md) ở Frerin's Court. Ovi Redforge là thành viên trong nhóm [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_9-8" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Pennastan {#Pennastan}
 
@@ -151,15 +151,15 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Reklar {#Reklar}
 
-**Reklar** là huấn luyện viên thợ săn [Người lùn](../D/Dwarves.md) tại Tòa án của Frerin và là thành viên của đại đội [Người Lùn](../D/Dwarves.md), người được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-11" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md), ông đã dạy người chơi thợ săn về lớp thợ săn trong phần Giới thiệu.<sup id="cite_ref-sharpen_your_skills_13-4" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Reklar** là huấn luyện viên thợ săn [Người Lùn](../D/Dwarves.md) tại Tòa án của Frerin và là thành viên của đại đội [Người Lùn](../D/Dwarves.md), người được [Dáin II](../D/Dáin_Ironfoot.md) cử đi điều tra Cổng Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-11" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup> Theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md), ông đã dạy người chơi thợ săn về lớp thợ săn trong phần Giới thiệu.<sup id="cite_ref-sharpen_your_skills_13-4" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Selur {#Selur}
 
-**Selur** là một [Người lùn](../D/Dwarves.md) trong Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-10" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Theo yêu cầu của <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông ta cử người chơi lùn vào trong Silver Deep Mines để tiêu diệt Cave-claws, những kẻ đang phá hủy vùng đất.<sup id="cite_ref-fear_of_collapse_3-2" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
+**Selur** là một [Người Lùn](../D/Dwarves.md) trong Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-10" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Theo yêu cầu của <a class="mw-selflink-fragment" href="#Bogi">Bogi</a> ông ta cử người chơi lùn vào trong Silver Deep Mines để tiêu diệt Cave-claws, những kẻ đang phá hủy vùng đất.<sup id="cite_ref-fear_of_collapse_3-2" class="reference"><a href="#cite_note-fear_of_collapse-3">[3]</a></sup>
 
 ## Snorri {#Snorri}
 
-**Snorri** là [Người lùn](../D/Dwarves.md) và người huấn luyện người giám hộ tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-11" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Snorri đã dạy người huấn luyện người giám hộ về lớp người giám hộ theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-5" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
+**Snorri** là [Người Lùn](../D/Dwarves.md) và người huấn luyện người giám hộ tại Tòa án của Frerin.<sup id="cite_ref-Ered_Luin_9-11" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup> Snorri đã dạy người huấn luyện người giám hộ về lớp người giám hộ theo yêu cầu của [Nos Grimsong](../N/Nos_Grimsong.md).<sup id="cite_ref-sharpen_your_skills_13-5" class="reference"><a href="#cite_note-sharpen_your_skills-13">[13]</a></sup>
 
 ## Thalchyl {#Thalchyl}
 
@@ -171,15 +171,15 @@ Danh sách này chứa tất cả các ký tự phụ trong [Ered Luin](../E/Ere
 
 ## Torri {#Torri}
 
-**Torri** là cung thủ [Người lùn](../D/Dwarves.md) tại Tòa án của Frerin và là một trong những thành viên của đại đội Người Lùn được [Dwalin](../D/Dwalin.md) dẫn đầu để điều tra Cổng của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-12" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
+**Torri** là cung thủ [Người Lùn](../D/Dwarves.md) tại Tòa án của Frerin và là một trong những thành viên của đại đội Người Lùn được [Dwalin](../D/Dwalin.md) dẫn đầu để điều tra Cổng của Thorin.<sup id="cite_ref-Ered_Luin_introduction_2-12" class="reference"><a href="#cite_note-Ered_Luin_introduction-2">[2]</a></sup>
 
 ## Tryggwi {#Tryggwi}
 
-**Tryggwi** là [Người lùn](../D/Dwarves.md) từ [Erebor](Lonely_Mountain.md). Ông ta là thành viên của đại đội [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đến Cổng Thorin. Ông ta là một trong những người bảo vệ của [Dwalin](../D/Dwalin.md).<sup id="cite_ref-Ered_Luin_9-13" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
+**Tryggwi** là [Người Lùn](../D/Dwarves.md) từ [Erebor](Lonely_Mountain.md). Ông ta là thành viên của đại đội [Người Lùn](../D/Dwarves.md) được [Dáin II](../D/Dáin_Ironfoot.md) cử đến Cổng Thorin. Ông ta là một trong những người bảo vệ của [Dwalin](../D/Dwalin.md).<sup id="cite_ref-Ered_Luin_9-13" class="reference"><a href="#cite_note-Ered_Luin-9">[9]</a></sup>
 
 ## Phim truyền hình {#Tvistur}
 
-**Tvistur** là một [Dourhand](../D/Dourhands.md) [Người lùn](../D/Dwarves.md) và là thợ mỏ ở Silver Deep Mines. Ông ta phớt lờ quy tắc của [Longbeards](Longbeards.md) và khai thác để tìm kiếm di tích của Edhelion. Trong quá trình tìm kiếm, anh đã tìm thấy lối vào Halls of Edhelion nhưng vô tình giải thoát một [Troll đá](../T/Trolls.md); Tvistur quyết định chiến đấu với sinh vật đó nhưng đã bị giết.<sup id="cite_ref-into_the_silver_deep_17-1" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
+**Tvistur** là một [Dourhand](../D/Dourhands.md) [Người Lùn](../D/Dwarves.md) và là thợ mỏ ở Silver Deep Mines. Ông ta phớt lờ quy tắc của [Longbeards](Longbeards.md) và khai thác để tìm kiếm di tích của Edhelion. Trong quá trình tìm kiếm, anh đã tìm thấy lối vào Halls of Edhelion nhưng vô tình giải thoát một [Troll đá](../T/Trolls.md); Tvistur quyết định chiến đấu với sinh vật đó nhưng đã bị giết.<sup id="cite_ref-into_the_silver_deep_17-1" class="reference"><a href="#cite_note-into_the_silver_deep-17">[17]</a></sup>
 
 ## Giải thích {#Unnarr}
 

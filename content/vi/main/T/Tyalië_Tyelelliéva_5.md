@@ -33,7 +33,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập, Sự kiện thiên thể, Tin tức và Ghi chú
-- Thư gửi Biên tập viên của [Ivan Derzhanski](../I/Ivan_Derzhanski.md) (bằng tengwar và Quenya, được dịch ở trang tiếp theo), Rhona Beare (về danh sách từ của Người lùn) và Leonid Korablev
+- Thư gửi Biên tập viên của [Ivan Derzhanski](../I/Ivan_Derzhanski.md) (bằng tengwar và Quenya, được dịch ở trang tiếp theo), Rhona Beare (về danh sách từ của Người Lùn) và Leonid Korablev
 - Nhận xét từ Ivan Derzhanski (về Cổ ngữ của Erebor, động từ -ta và -ya), [Helge Fauskanger](../H/Helge_Fauskanger.md) (về đuôi -eva), từ Lisa Star (các chủ đề khác nhau bao gồm cả rune số nhiều trong Quenya, với trích dẫn từ WJ) và từ Alberto Monteiro về mối liên hệ của Bồ Đào Nha với Adunaic
 - Những hang động được vẽ bởi [Rhona Beare](../R/Rhona_Beare.md) (bài viết về các nguồn khảo cổ của Tolkien về một số hình minh họa trong Thư Giáng sinh của Cha)
 - Tin nóng về kỷ băng hà của Lisa Star

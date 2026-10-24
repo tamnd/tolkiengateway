@@ -56,7 +56,7 @@ infobox:
 
 ## Mô tả {#Description}
 
-**"Từ, Cụm từ và Đoạn văn"** là tập hợp các ghi chú về các ví dụ Quenya, Sindarin, Người lùn, Rohirric và Hắc Ngữ xuất hiện trong *The Lord of the Rings*, với các bản dịch chi tiết và giải thích cú pháp, cùng với phần thảo luận về từ nguyên của các từ và tên khác nhau. Đối với các ví dụ Elvish, các ví dụ này được truy ngược về nguồn gốc Common Eldarin của chúng. Các mục được Tolkien sắp xếp theo thứ tự các từ và cụm từ xuất hiện trong câu chuyện và sự sắp xếp này đã được giữ nguyên trong ấn bản này.
+**"Từ, Cụm từ và Đoạn văn"** là tập hợp các ghi chú về các ví dụ Quenya, Sindarin, Người Lùn, Rohirric và Hắc Ngữ xuất hiện trong *The Lord of the Rings*, với các bản dịch chi tiết và giải thích cú pháp, cùng với phần thảo luận về từ nguyên của các từ và tên khác nhau. Đối với các ví dụ Elvish, các ví dụ này được truy ngược về nguồn gốc Common Eldarin của chúng. Các mục được Tolkien sắp xếp theo thứ tự các từ và cụm từ xuất hiện trong câu chuyện và sự sắp xếp này đã được giữ nguyên trong ấn bản này.
 
 Mặc dù Tolkien chưa bao giờ hoàn thành phần bình luận như kế hoạch ban đầu, nhưng anh vẫn giữ lại danh sách các từ và tên ngắn gọn hơn mà anh đang làm việc; và ông tiếp tục soạn thêm những ghi chú về ngữ pháp và lịch sử của các từ và tên Elvish trong truyện. Nhiều trong số này được đặt cùng với "Từ, Cụm từ và Đoạn văn", và phần bình luận chính đã được bổ sung bằng các ghi chú này trong ấn bản này. Các văn bản này cùng nhau đưa ra bức tranh rõ ràng nhất mà chúng ta có về cách Tolkien hình thành những phát minh ngôn ngữ của ông dưới những hình thức mà chúng được tiết lộ cho độc giả của ông.
 

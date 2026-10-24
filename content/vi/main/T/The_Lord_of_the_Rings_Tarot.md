@@ -66,7 +66,7 @@ Các hướng dẫn đi kèm với các lá bài tarot cũng chứa một bộ q
 - II - *The High Priestess*: [Éowyn](../_/Éowyn.md) (FP)
 - III - *The Empress*: [Galadriel](../G/Galadriel.md) với [Belladonna Took](../B/Belladonna_Took.md) và [Rose Gamgee](../R/Rose_Cotton.md) (FP)
 - IV - *The Emperor*: [Elrond](../E/Elrond.md) từ chối [Chiếc nhẫn duy nhất](The_One_Ring.md) (FP)
-- V - *The Hierophant*: [Saruman](../S/Saruman.md) và [the Palantír](../O/Orthanc-stone.md) (DF)
+- V - *The Hierophant*: [Saruman](../S/Saruman.md) và [Palantír](../O/Orthanc-stone.md) (DF)
 - VI - *The Lovers*: [Aragorn](../A/Aragorn.md) và [Arwen](../A/Arwen.md) (FP)
 - VII - *The Chariot*: [Théoden](Théoden.md) trong trận chiến (FP)
 - VIII - *Strength*: [Số Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md) (FP)

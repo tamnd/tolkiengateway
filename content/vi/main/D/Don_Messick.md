@@ -37,8 +37,8 @@ infobox:
 
 ## Vai trò {#Roles}
 
-- [1977](../_/1977.md): [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>): [Balin](../B/Balin.md), [Chúa tể Đại Bàng](../G/Gwaihir.md), [Yêu tinh](../O/Orcs.md), [Troll](../T/Troll.md)
-- [1980](../_/1980.md): [*The Return of the King* (phim 1980)](<../T/The_Return_of_the_King_(1980_film).md>): [Theoden](../T/Théoden.md), [Miệng của Sauron](../M/Mouth_of_Sauron.md), [Easterling](../E/Easterlings.md)
+- [1977](../_/1977.md): [*The Hobbit* (phim năm 1977)](<../T/The_Hobbit_(1977_film).md>): [Balin](../B/Balin.md), [Chúa tể Đại Bàng](../G/Gwaihir.md), [Yêu tinh](../O/Orcs.md), [Troll](../T/Troll.md)
+- [1980](../_/1980.md): [*The Return of the King* (phim năm 1980)](<../T/The_Return_of_the_King_(1980_film).md>): [Theoden](../T/Théoden.md), [Miệng của Sauron](../M/Mouth_of_Sauron.md), [Easterling](../E/Easterlings.md)
 
 ## Liên kết ngoài {#External_links}
 

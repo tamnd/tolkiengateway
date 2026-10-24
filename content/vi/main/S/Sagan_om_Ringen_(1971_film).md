@@ -130,7 +130,7 @@ Bữa tiệc của - [Bilbo](../B/Bilbo_Baggins.md) [](../B/Bilbo's_Farewell_Par
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh trong Sagan om Ringen (phim 1971)](<../../category/I/Images_from_Sagan_om_Ringen_(1971_film).md>)
+- [Hình ảnh trong Sagan om Ringen (phim năm 1971)](<../../category/I/Images_from_Sagan_om_Ringen_(1971_film).md>)
 
 <span></span>
 

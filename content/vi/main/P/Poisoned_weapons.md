@@ -24,7 +24,7 @@ Người ta nói rằng [Eldar](../E/Eldar.md) chưa bao giờ sử dụng bất
 
 ## Người Lùn {#Dwarves}
 
-Thủ lĩnh của [Người lùn Nhỏ](Petty-dwarves.md),<sup id="cite_ref-foundnargo_9-0" class="reference"><a href="#cite_note-foundnargo-9">[9]</a></sup> [Mîm](../M/Mîm.md), sở hữu một "con dao dài" bí mật có "chữ rune chứa nọc độc" trên đó.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Thủ lĩnh của [Người Lùn Nhỏ](Petty-dwarves.md),<sup id="cite_ref-foundnargo_9-0" class="reference"><a href="#cite_note-foundnargo-9">[9]</a></sup> [Mîm](../M/Mîm.md), sở hữu một "con dao dài" bí mật có "chữ rune chứa nọc độc" trên đó.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 ## Con Người {#Men}
 

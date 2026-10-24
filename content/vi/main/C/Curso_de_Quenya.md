@@ -39,7 +39,7 @@ infobox:
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>&#39;Quenya&#39; is one of the languages ​​created by JRR Tolkien for his Elves. This book seeks to be a full course on this language and is entirely based on information from Tolkien himself. The course is divided into 20 lessons that seek to familiarise the reader  with the pronunciation, vocabulary and grammar of Quenya, without the need of philology and linguistic knowledge. According to Fauskanger, Tolkien did not leave enough so that we could talk casually using Quenya vocabulary, but you can learn to write with relative fluency in the language, e there&#39;s a growing number of texts being written in Quenya by fans and scholars of Tolkien.
+<p>&#39;Quenya&#39; is one of the languages ​​created by JRR Tolkien for his Elves. This book seeks to be a full course on this language and is entirely based on information from Tolkien himself. The course is divided into 20 lessons that seek to familiarise the reader with the pronunciation, vocabulary and grammar of Quenya, without the need of philology and linguistic knowledge. According to Fauskanger, Tolkien did not leave enough so that we could talk casually using Quenya vocabulary, but you can learn to write with relative fluency in the language, e there&#39;s a growing number of texts being written in Quenya by fans and scholars of Tolkien.
 </p>
 </blockquote>
 

@@ -30,7 +30,7 @@ Phần đầu tiên nằm trong [Quenya](../Q/Quenya.md):
 
 Phần thứ hai nằm trong [Sindarin](../S/Sindarin.md):
 
-<dl><dd><i>Mithrandir, Mithrandir, A Randir Vithren</i><br/><i>ú-reniathach i amar galen</i><br/><i>I reniad lín ne mór, nuithannen</i><br/><i>In gwidh ristennin, i fae  narchannen</i><br/><i>I lach <a href="../S/Sun.md" title="Sun">Anor</a> ed ardhon gwannen</i><br/><i>Caled veleg, ethuiannen.</i></dd></dl>
+<dl><dd><i>Mithrandir, Mithrandir, A Randir Vithren</i><br/><i>ú-reniathach i amar galen</i><br/><i>I reniad lín ne mór, nuithannen</i><br/><i>In gwidh ristennin, i fae narchannen</i><br/><i>I lach <a href="../S/Sun.md" title="Sun">Anor</a> ed ardhon gwannen</i><br/><i>Caled veleg, ethuiannen.</i></dd></dl>
 
 ### Bản dịch {#Translation}
 

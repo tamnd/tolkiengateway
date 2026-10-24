@@ -37,7 +37,7 @@ infobox:
 <p>How did I get here<br/>
 What will I find here<br/>
 The field is lost<br/>
-All  hope&#39;s now gone<br/>
+All hope&#39;s now gone<br/>
 <br/>
 I understand<br/>
 There is no chance<br/>

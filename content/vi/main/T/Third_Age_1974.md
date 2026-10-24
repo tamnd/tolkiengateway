@@ -24,7 +24,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Angmar xung đột](../A/Angmar_conflict.md): [Vua Phù thủy](../W/Witch-king.md) vượt quá [Arthedain](../A/Arthedain.md) và chiếm [Fornost](../F/Fornost.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-eriador_2-0" class="reference"><a href="#cite_note-eriador-2">[2]</a></sup>
 - Kết thúc [Vương quốc phương Bắc](../A/Arnor.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-eriador_2-1" class="reference"><a href="#cite_note-eriador-2">[2]</a></sup>
-- [Arvedui](../A/Arvedui.md) bảo vệ [North Downs](../N/North_Downs.md) sau đó chạy trốn đến Người lùn-mỏ của [Dãy Núi Xanh](../B/Blue_Mountains.md) rồi về phía bắc đến [Vịnh Băng Forochel](../I/Icebay_of_Forochel.md).<sup id="cite_ref-eriador_2-2" class="reference"><a href="#cite_note-eriador-2">[2]</a></sup>
+- [Arvedui](../A/Arvedui.md) bảo vệ [North Downs](../N/North_Downs.md) sau đó chạy trốn đến Người Lùn-mỏ của [Dãy Núi Xanh](../B/Blue_Mountains.md) rồi về phía bắc đến [Vịnh Băng Forochel](../I/Icebay_of_Forochel.md).<sup id="cite_ref-eriador_2-2" class="reference"><a href="#cite_note-eriador-2">[2]</a></sup>
 
 <span></span>
 

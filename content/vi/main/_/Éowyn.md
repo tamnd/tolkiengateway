@@ -203,7 +203,7 @@ Cũng giống như MacDuff khiến <a class="external text" href="http://en.wiki
 
 <dl><dd><a class="new" href="https://tolkiengateway.net/w/index.php?title=Olive_Gregg&amp;action=edit&amp;redlink=1" title="Olive Gregg (page does not exist)">Olive Gregg</a> provides the voice of Éowyn.</dd></dl>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Éowyn is briefly seen, but has no lines.</dd></dl>
 
@@ -211,7 +211,7 @@ Cũng giống như MacDuff khiến <a class="external text" href="http://en.wiki
 
 <dl><dd>Éowyn is portrayed by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Karen_Hurley&amp;action=edit&amp;redlink=1" title="Karen Hurley (page does not exist)">Karen Hurley</a>.</dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>Éowyn is voiced by actress <a href="../N/Nellie_Bellflower.md" title="Nellie Bellflower">Nellie Bellflower</a>. She appears unintroduced, but Merry fills Pippin (and so the spectator) in on the details. She is not terribly wounded, and appears healthy beside Faramir at the coronation.</dd></dl>
 

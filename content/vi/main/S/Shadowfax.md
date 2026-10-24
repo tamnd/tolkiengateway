@@ -107,15 +107,15 @@ Nó là một dạng thu gọn của [tiếng Anh cổ](../O/Old_English.md) *Sc
 		</li>
 </ul>
 
-<b>1971: <a href="Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim 1971)</a>:</b>
+<b>1971: <a href="Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim năm 1971)</a>:</b>
 
 <dl><dd>Gandalf flys with <a class="mw-redirect" href="../G/Gwahir.md" title="Gwahir">Gwahir</a> to <a href="../R/Rohan.md" title="Rohan">Rohan</a> and is given permission by <a href="../T/Théoden.md" title="Théoden">the king</a> to take a horse for himself. When looking for one, he discovers Shadowfax, as the men of Rohan call him. Gandalf notes his beauty, speed and the fact that that no man had ever rode him. Gandalf tames him and rides him to the Shire and to the <a class="mw-redirect" href="../P/Prancing_Pony.md" title="Prancing Pony">Prancing Pony</a>. He pursues the <a href="../N/Nazgûl.md" title="Nazgûl">Black Riders</a> to <a href="../W/Weathertop.md" title="Weathertop">Weathertop</a> and rides Shadowfax to <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>.</dd></dl>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Shadowfax is not named in the film, but is implied to be Gandalf&#39;s horse while riding with the Three Hunters to Edoras, and later appearing with Gandalf riding him again during the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a>.</dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>Shadowfax appears as Gandalf&#39;s steed, but is depicted wearing a full harness as opposed to being ridden bareback and without bridle.</dd></dl>
 

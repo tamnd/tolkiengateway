@@ -47,7 +47,7 @@ Sau đó, khi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) c
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">"<a class="extiw" href="http://en.wikipedia.org/wiki/ell" title="wikipedia:ell">ell</a>" là đơn vị đo lường, xấp xỉ chiều dài cánh tay của một người đàn ông.  Vì Sam đo nó "bằng <b>cánh tay</b>" nên nó có thể Hobbit tương đương với một "sải", khoảng cách bằng hai cánh tay của một người đàn ông.  Ell tiếng Anh thường là 45 inch; nếu đây là chiều dài Sam sử dụng thì dây thừng Tiên dài 112,5 feet.  Tuy nhiên, giá trị của đồng tiền này khác nhau đáng kể giữa các quốc gia ở Châu Âu và thậm chí cả ở Anh.</span>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">"<a class="extiw" href="http://en.wikipedia.org/wiki/ell" title="wikipedia:ell">ell</a>" là đơn vị đo lường, xấp xỉ chiều dài cánh tay của một người đàn ông. Vì Sam đo nó "bằng <b>cánh tay</b>" nên nó có thể Hobbit tương đương với một "sải", khoảng cách bằng hai cánh tay của một người đàn ông. Ell tiếng Anh thường là 45 inch; nếu đây là chiều dài Sam sử dụng thì dây thừng Tiên dài 112,5 feet. Tuy nhiên, giá trị của đồng tiền này khác nhau đáng kể giữa các quốc gia ở Châu Âu và thậm chí cả ở Anh.</span>
 </li>
 </ol></div></span>
 

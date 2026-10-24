@@ -61,7 +61,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong thời trị vì của cha mình, Arvegil đã chứng kiến ​​những sự kiện sẽ định hình nên lịch sử của [Trung Địa](../M/Middle-earth.md), bao gồm cả việc thành lập [the Shire](../T/The_Shire.md). Ông đã tám mươi ba tuổi (không phải là độ tuổi lớn đối với một trong những [Dúnedain](../D/Dúnedain.md)) khi quân [Đại Dịch](../G/Great_Plague.md) tràn ra từ phía nam và tàn phá [Eriador](../E/Eriador.md), nhưng nơi ngự trị của các vị vua ở [Fornost](../F/Fornost.md) ở phía bắc ít bị ảnh hưởng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong thời trị vì của cha mình, Arvegil đã chứng kiến ​​những sự kiện sẽ định hình nên lịch sử của [Trung Địa](../M/Middle-earth.md), bao gồm cả việc thành lập [Shire](../T/The_Shire.md). Ông đã tám mươi ba tuổi (không phải là độ tuổi lớn đối với một trong những [Dúnedain](../D/Dúnedain.md)) khi quân [Đại Dịch](../G/Great_Plague.md) tràn ra từ phía nam và tàn phá [Eriador](../E/Eriador.md), nhưng nơi ngự trị của các vị vua ở [Fornost](../F/Fornost.md) ở phía bắc ít bị ảnh hưởng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Arvegil đã sống được một trăm chín mươi năm, lâu hơn bất kỳ hậu duệ nào của ông cho đến [Aragorn](Aragorn.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Tuy nhiên, theo tiêu chuẩn của tổ tiên ông, đây là một cái chết sớm. Trong số tất cả các vị vua phương bắc trước Arvegil - ngoại trừ những người bị giết trong trận chiến - chỉ có hai người sống dưới hai trăm năm: cha ông [Argeleb II](Argeleb_II.md) và ông nội ông [Araphor](Araphor.md).
 

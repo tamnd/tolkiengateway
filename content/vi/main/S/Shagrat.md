@@ -86,7 +86,7 @@ Gorbag ​​thèm muốn chiếc [Áo khoác Mithril](../M/Mithril-coat.md) Fro
 
 <b><a href="../_/1981.md" title="1981">1981</a>: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
-<dl><dd><a href="../C/Chris_Fairbank.md" title="Chris Fairbank">Chris Fairbank</a> played Shagrat.  He is overheard by Sam discussing <a href="Shelob.md" title="Shelob">Shelob</a> with <a href="../G/Gorbag.md" title="Gorbag">Gorbag</a>, and then Sam encounters him again on the stairs in the <a href="../T/Tower_of_Cirith_Ungol.md" title="Tower of Cirith Ungol">Tower of Cirith Ungol</a>.</dd></dl>
+<dl><dd><a href="../C/Chris_Fairbank.md" title="Chris Fairbank">Chris Fairbank</a> played Shagrat. He is overheard by Sam discussing <a href="Shelob.md" title="Shelob">Shelob</a> with <a href="../G/Gorbag.md" title="Gorbag">Gorbag</a>, and then Sam encounters him again on the stairs in the <a href="../T/Tower_of_Cirith_Ungol.md" title="Tower of Cirith Ungol">Tower of Cirith Ungol</a>.</dd></dl>
 
 <b><a href="../_/1989.md" title="1989">1989</a>: <a href="../C/Crack_of_Doom_Software_Adventure.md" title="Crack of Doom Software Adventure"><i>Crack of Doom</i> Phiêu lưu phần mềm<b></b></a></b>
 

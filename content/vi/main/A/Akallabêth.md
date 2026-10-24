@@ -78,7 +78,7 @@ images:
 
 <b><i>Akallabêth</i>: Sự sụp đổ của Númenor</b> là phần thứ tư của *[The Silmarillion](../T/The_Silmarillion.md)*, do [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập từ các văn bản về sau của [cha ông](../J/J.R.R._Tolkien.md).
 
-Tác phẩm kể lại câu chuyện về [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) sau khi những người [Númenórean](../N/Númenóreans.md), hậu duệ của những [Con Người](../M/Men.md) từng trợ giúp [Elves](../E/Elves.md) chiến đấu chống lại [Morgoth](../M/Morgoth.md) vào cuối [Kỷ nguyên thứ Nhất](../F/First_Age.md), dần dần chống lại [Valar](../V/Valar.md), rồi sau đó bị [Sauron](../S/Sauron.md) tha hóa. *Akallabêth* được [Elendil](../E/Elendil.md) viết vào gần cuối [Kỷ nguyên thứ Hai](../S/Second_Age.md) và được lưu giữ tại [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tác phẩm kể lại câu chuyện về [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) sau khi những người [Númenórean](../N/Númenóreans.md), hậu duệ của những [Con Người](../M/Men.md) từng trợ giúp [Elves](../E/Elves.md) chiến đấu chống lại [Morgoth](../M/Morgoth.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md), dần dần chống lại [Valar](../V/Valar.md), rồi sau đó bị [Sauron](../S/Sauron.md) tha hóa. *Akallabêth* được [Elendil](../E/Elendil.md) viết vào gần cuối [Kỷ Đệ Nhị](../S/Second_Age.md) và được lưu giữ tại [Gondor](../G/Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tóm lược {#Synopsis}
 

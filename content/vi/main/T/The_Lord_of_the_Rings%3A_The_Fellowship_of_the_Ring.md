@@ -87,7 +87,7 @@ Bộ phim kể lại cuộc phiêu lưu của [Đoàn Hộ Nhẫn](../F/Fellowsh
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-[Sauron](../S/Sauron.md), chúa tể bóng tối, đã thức tỉnh và đe dọa chinh phục [Trung Địa](../M/Middle-earth.md). Để ngăn chặn cái ác cổ xưa này một lần và mãi mãi, Frodo Baggins phải tiêu diệt [Chiếc Nhẫn Chúa](The_One_Ring.md) trong ngọn lửa của [Núi Diệt Vong](../M/Mount_Doom.md). [Con Người](../M/Men.md), [Hobbit](../H/Hobbits.md), [Pháp sư](../W/Wizards.md), [Tiên](../E/Elves.md) và [Người lùn](../D/Dwarves.md) hình thành một nhóm thông công để giúp ông ta thực hiện nhiệm vụ của mình.
+[Sauron](../S/Sauron.md), chúa tể bóng tối, đã thức tỉnh và đe dọa chinh phục [Trung Địa](../M/Middle-earth.md). Để ngăn chặn cái ác cổ xưa này một lần và mãi mãi, Frodo Baggins phải tiêu diệt [Chiếc Nhẫn Chúa](The_One_Ring.md) trong ngọn lửa của [Núi Diệt Vong](../M/Mount_Doom.md). [Con Người](../M/Men.md), [Hobbit](../H/Hobbits.md), [Pháp sư](../W/Wizards.md), [Tiên](../E/Elves.md) và [Người Lùn](../D/Dwarves.md) hình thành một nhóm thông công để giúp ông ta thực hiện nhiệm vụ của mình.
 
 ## Lô đồ {#Plot}
 
@@ -113,7 +113,7 @@ Khi đang thu thập thảo dược để chữa vết thương đang mưng mủ
 
 Sau khi được Tiên tộc chữa lành ở Rivendell, Frodo đã gặp Gandalf, người từng bị Pháp sư [Saruman](../S/Saruman.md) giam giữ ở [Isengard](../I/Isengard.md). Sau khi biết được sự phản bội của Saruman, cha của Arwen Elrond đã quyết định không giữ Chiếc Nhẫn trong Rivendell. Elrond sau đó nắm giữ [Hội đồng](../C/Council_of_Elrond.md) gồm Tiên tộc, Con Người và Người Lùn nổi bật, tất cả đều tình cờ đến Rivendell vì nhiều mục đích khác nhau không liên quan đến Chiếc nhẫn, cũng như Frodo và Gandalf.
 
-Sau một hồi cân nhắc, Hội đồng quyết định rằng chiếc Nhẫn phải bị phá hủy trong đám cháy ở Núi Diệt Vong. Giữa cuộc tranh cãi liên quan đến chủng tộc nào sẽ chịu trách nhiệm chăm sóc Chiếc nhẫn, Frodo đã tình nguyện mang Chiếc nhẫn đến Mordor. Sau khi nhận trách nhiệm này, anh đã được tham gia cùng với Gandalf, Tiên [Legolas](../L/Legolas.md), Người lùn [Gimli](../G/Gimli.md), Con Người [Boromir](../B/Boromir.md) và Aragorn, cũng như các đồng nghiệp Hobbit Merry, Pippin và Sam. Chín người bạn đồng hành vì thế đã hình thành nên [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).
+Sau một hồi cân nhắc, Hội đồng quyết định rằng chiếc Nhẫn phải bị phá hủy trong đám cháy ở Núi Diệt Vong. Giữa cuộc tranh cãi liên quan đến chủng tộc nào sẽ chịu trách nhiệm chăm sóc Chiếc nhẫn, Frodo đã tình nguyện mang Chiếc nhẫn đến Mordor. Sau khi nhận trách nhiệm này, anh đã được tham gia cùng với Gandalf, Tiên [Legolas](../L/Legolas.md), Người Lùn [Gimli](../G/Gimli.md), Con Người [Boromir](../B/Boromir.md) và Aragorn, cũng như các đồng nghiệp Hobbit Merry, Pippin và Sam. Chín người bạn đồng hành vì thế đã hình thành nên [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md).
 
 ### Moria {#Moria}
 
@@ -467,7 +467,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../M/Michael_Elsworth.md" title="Michael Elsworth">Michael Elsworth</a></td>
-<td><a href="../C/Círdan.md" title="Círdan">Círdan the Shipwright</a>
+<td><a href="../C/Círdan.md" title="Círdan">Círdan Shipwright</a>
 </td></tr>
 <tr>
 <td>Warren Green, Stu Johnson, Peter Lyon</td>
@@ -580,7 +580,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 
 ## Hiệu ứng đặc biệt {#Special_effects}
 
-*The Fellowship of the Ring* sử dụng rộng rãi các hiệu ứng đặc biệt về kỹ thuật số, thực tế và trang điểm xuyên suốt. Một hiệu ứng đáng chú ý xuất hiện trong hầu hết mọi cảnh liên quan đến việc thiết lập tỷ lệ thích hợp để các nhân vật đều có chiều cao phù hợp. Elijah Wood, người đóng vai Frodo, ngoài đời cao 5 ft 6 in (1,68 m); nhưng nhân vật Frodo Baggins chỉ cao gần 4 feet. Nhiều thủ thuật khác nhau đã được sử dụng để coi người hobbit (và Gimli Người lùn) là nhỏ bé. Các diễn viên đóng thế lớn và nhỏ được sử dụng trong một số cảnh nhất định, trong khi toàn bộ bản sao của một số bối cảnh nhất định (đặc biệt là Bag End trong Hobbiton) được xây dựng ở hai tỷ lệ khác nhau để các nhân vật có vẻ ngoài có kích thước phù hợp. Tại một thời điểm trong phim Frodo chạy dọc theo một hành lang ở Bag End, tiếp theo là Gandalf. Elijah Wood và Ian McKellen được quay trong các phiên bản riêng biệt của cùng một hành lang, được xây dựng ở hai quy mô khác nhau và một lia máy quay nhanh sẽ che giấu phần chỉnh sửa giữa hai quy mô. Phối cảnh bắt buộc cũng được sử dụng, khiến có vẻ như những người hobbit thấp đang tương tác với Con Người và Tiên tộc cao hơn. Điều khiến các nhà làm phim ngạc nhiên là việc quỳ gối đã được sử dụng để tạo hiệu ứng tuyệt vời.
+*The Fellowship of the Ring* sử dụng rộng rãi các hiệu ứng đặc biệt về kỹ thuật số, thực tế và trang điểm xuyên suốt. Một hiệu ứng đáng chú ý xuất hiện trong hầu hết mọi cảnh liên quan đến việc thiết lập tỷ lệ thích hợp để các nhân vật đều có chiều cao phù hợp. Elijah Wood, người đóng vai Frodo, ngoài đời cao 5 ft 6 in (1,68 m); nhưng nhân vật Frodo Baggins chỉ cao gần 4 feet. Nhiều thủ thuật khác nhau đã được sử dụng để coi người hobbit (và Gimli Người Lùn) là nhỏ bé. Các diễn viên đóng thế lớn và nhỏ được sử dụng trong một số cảnh nhất định, trong khi toàn bộ bản sao của một số bối cảnh nhất định (đặc biệt là Bag End trong Hobbiton) được xây dựng ở hai tỷ lệ khác nhau để các nhân vật có vẻ ngoài có kích thước phù hợp. Tại một thời điểm trong phim Frodo chạy dọc theo một hành lang ở Bag End, tiếp theo là Gandalf. Elijah Wood và Ian McKellen được quay trong các phiên bản riêng biệt của cùng một hành lang, được xây dựng ở hai quy mô khác nhau và một lia máy quay nhanh sẽ che giấu phần chỉnh sửa giữa hai quy mô. Phối cảnh bắt buộc cũng được sử dụng, khiến có vẻ như những người hobbit thấp đang tương tác với Con Người và Tiên tộc cao hơn. Điều khiến các nhà làm phim ngạc nhiên là việc quỳ gối đã được sử dụng để tạo hiệu ứng tuyệt vời.
 
 Đối với trận chiến giữa Liên minh Cuối cùng và lực lượng Sauron bắt đầu bộ phim, một hệ thống hoạt hình CGI phức tạp, được gọi là Massive, đã được phát triển để cho phép hàng nghìn "nhân vật" hoạt hình riêng lẻ trong chương trình hành động khác nhau. Điều này đã giúp tạo ảo giác về chủ nghĩa hiện thực cho các phân cảnh chiến đấu.
 

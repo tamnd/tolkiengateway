@@ -67,13 +67,13 @@ Armenelos có <a class="new" href="https://tolkiengateway.net/w/index.php?title=
 
 Armenelos được thành lập từ tận cuối [Kỷ nguyên Đầu tiên](../F/First_Age.md), khi [Edain](../E/Edain.md) lần đầu di cư đến hòn đảo này. Có thể [Arandor](Arandor.md) là khu vực đầu tiên mà họ định cư sau khi đổ bộ xuống một vịnh hẹp, nơi về sau dẫn đến cảng [Rómenna](../R/Rómenna.md).
 
-Vào [Kỷ nguyên thứ Hai](../S/Second_Age.md) [32](../S/Second_Age_32.md), lễ đăng quang của Elros tại Armenelos đánh dấu sự khởi đầu của vương quốc [Númenórean](../N/Númenóreans.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Vào [Kỷ Đệ Nhị](../S/Second_Age.md) [32](../S/Second_Age_32.md), lễ đăng quang của Elros tại Armenelos đánh dấu sự khởi đầu của vương quốc [Númenórean](../N/Númenóreans.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 Các Tiên nhân ở [Eressëa](../E/Eressëa.md) đã mang nhiều tặng vật đến Númenor, một trong số đó là cây non của Cây Trắng [Celeborn](<../C/Celeborn_(White_Tree).md>); cây đã lớn lên trong sân điện của Nhà vua tại Armenelos và được đặt tên là [Nimloth](<../N/Nimloth_(tree).md>).<sup id="cite_ref-Akallabeth_2-6" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup>
 
-Vào [Kỷ nguyên thứ Hai](../S/Second_Age.md) [870](../S/Second_Age_870.md), thành phố tổ chức lễ cưới của Người thừa kế Nhà vua [Aldarion](Aldarion.md) và [Erendis](../E/Erendis.md).<sup id="cite_ref-Wife_6-1" class="reference"><a href="#cite_note-Wife-6">[6]</a></sup>
+Vào [Kỷ Đệ Nhị](../S/Second_Age.md) [870](../S/Second_Age_870.md), thành phố tổ chức lễ cưới của Người thừa kế Nhà vua [Aldarion](Aldarion.md) và [Erendis](../E/Erendis.md).<sup id="cite_ref-Wife_6-1" class="reference"><a href="#cite_note-Wife-6">[6]</a></sup>
 
-Gần cuối [Kỷ nguyên thứ Hai](../S/Second_Age.md), [Đền thờ](../T/Temple.md) được xây dựng trong thành phố theo lệnh của cố vấn của [Nhà vua](Ar-Pharazôn.md), [Sauron](../S/Sauron.md); Cây Trắng Nimloth bị thiêu trên bàn thờ của đền, và về sau người ta thực hiện các nghi lễ hiến tế người tại đó.<sup id="cite_ref-Akallabeth_2-7" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup>
+Gần cuối [Kỷ Đệ Nhị](../S/Second_Age.md), [Đền thờ](../T/Temple.md) được xây dựng trong thành phố theo lệnh của cố vấn của [Nhà vua](Ar-Pharazôn.md), [Sauron](../S/Sauron.md); Cây Trắng Nimloth bị thiêu trên bàn thờ của đền, và về sau người ta thực hiện các nghi lễ hiến tế người tại đó.<sup id="cite_ref-Akallabeth_2-7" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup>
 
 Thành phố bị hủy diệt trong [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).<sup id="cite_ref-Akallabeth_2-8" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup>
 

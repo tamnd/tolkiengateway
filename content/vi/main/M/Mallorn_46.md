@@ -66,7 +66,7 @@ infobox:
     - *[The Battle of the Eastern Field](../T/The_Battle_of_the_Eastern_Field.md)*
         - Bởi: [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 - **Bình luận**
-    - "'Bảy chữ ký của nhân chứng bằng mực đỏ'": Luật La Mã ở [the Shire](../T/The_Shire.md)
+    - "'Bảy chữ ký của nhân chứng bằng mực đỏ'": Luật La Mã ở [Shire](../T/The_Shire.md)
         - Bởi: Murray Smith
     - "Dạy và học Tolkien"
         - Bởi: [Dimitra Fimi](../D/Dimitra_Fimi.md)

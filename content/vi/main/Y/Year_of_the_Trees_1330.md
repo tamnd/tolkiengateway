@@ -25,7 +25,7 @@ langlinks:
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Orc](../O/Orcs.md) được nhìn thấy lần đầu tiên vào năm [Beleriand](../B/Beleriand.md), theo biên niên sử được lập vào năm Doriath.<sup id="cite_ref-GA_1-0" class="reference"><a href="#cite_note-GA-1">[1]</a></sup>
-- [Thingol](../T/Thingol.md) thuê [Người lùn](../D/Dwarves.md) thợ rèn - bao gồm [Telchar](../T/Telchar.md) [Nogrod](../N/Nogrod.md) - để rèn vũ khí cho [Sindar](../S/Sindar.md). Kho vũ khí của Thingol hiện có đầy giáo, rìu, mũ trụ và áo giáp.<sup id="cite_ref-GA_1-1" class="reference"><a href="#cite_note-GA-1">[1]</a></sup>
+- [Thingol](../T/Thingol.md) thuê [Người Lùn](../D/Dwarves.md) thợ rèn - bao gồm [Telchar](../T/Telchar.md) [Nogrod](../N/Nogrod.md) - để rèn vũ khí cho [Sindar](../S/Sindar.md). Kho vũ khí của Thingol hiện có đầy giáo, rìu, mũ trụ và áo giáp.<sup id="cite_ref-GA_1-1" class="reference"><a href="#cite_note-GA-1">[1]</a></sup>
 
 <span></span>
 

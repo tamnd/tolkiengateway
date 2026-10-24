@@ -76,7 +76,7 @@ infobox:
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>He was great of growth  and goodly-limbed,<br/>but lithe of girth,  and lightly on the ground<br/>his footsteps fell  as he fared towards them,<br/>all garbed in grey  and green and brown—<br/>a son of the wilderness  who wist no sire.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">Túrin Son of Húrin &amp; Glórund the Dragon</a></i>, vv.196-200</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">Túrin Son of Húrin &amp; Glórund Dragon</a></i>, vv.196-200</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Beleg Cúthalion** là một người [Sinda](../S/Sinda.md) phục vụ Vua [Elu Thingol](../T/Thingol.md) của [Doriath](../D/Doriath.md). Ông được xem là cung thủ và thợ săn giỏi nhất thời đại mình. Ông trở thành bạn và huynh đệ đồng ngũ của [Túrin](../T/Túrin.md), trước khi trở thành nạn nhân của [úmarth](../_/Úmarth.md) bao trùm Túrin.
@@ -101,7 +101,7 @@ Khi Túrin chạy trốn khỏi [Doriath](../D/Doriath.md), Beleg được Thing
 
 Beleg bị [băng cướp ngoài vòng pháp luật](../G/Gaurwaith.md) do Túrin lãnh đạo bắt giữ gần [Amon Rûdh](../A/Amon_Rûdh.md) và tra tấn, vì Túrin không có mặt ở đó. Ông mang lời nhắn của Thingol đến Túrin rằng chàng được tự do trở về Doriath, nhưng Túrin đã khước từ lời đề nghị. Sau khi trở về chỗ Thingol để báo tin, Beleg lại đi vào vùng biên cương phía bắc; khi mùa đông đến, ông một lần nữa lên đường để gia nhập cùng Túrin.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong lúc đó, những kẻ ngoài vòng pháp luật đã chiếm cứ [Bar-en-Danwedh](Bar-en-Danwedh.md), đại sảnh của [Mîm](../M/Mîm.md), [Người lùn Nhỏ](../P/Petty-dwarf.md).
+Trong lúc đó, những kẻ ngoài vòng pháp luật đã chiếm cứ [Bar-en-Danwedh](Bar-en-Danwedh.md), đại sảnh của [Mîm](../M/Mîm.md), [Người Lùn Nhỏ](../P/Petty-dwarf.md).
 
 Cùng với Túrin, trong một thời gian Beleg trở thành [một thủ lĩnh](../T/Two_Captains.md) của những kẻ ngoài vòng pháp luật chống lại [Morgoth](../M/Morgoth.md). Nơi họ cư ngụ được biết đến với tên [Dor-Cúarthol](../D/Dor-Cúarthol.md), "Vùng Đất của Cung và Mũ". Beleg chữa lành vết thương do mũi tên gây ra cho [Andróg](../A/Andróg.md), khiến Mîm căm ghét ông; Mîm vốn không chỉ căm ghét các Tiên, mà Andróg còn là kẻ thù của hắn. Khi Mîm bị Orc bắt, hắn không ngần ngại tiết lộ nơi ẩn náu của những kẻ ngoài vòng pháp luật.
 

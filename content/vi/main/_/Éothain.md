@@ -88,7 +88,7 @@ infobox:
 
 <b><a href="1981.md" title="1981">1981</a>: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh năm 1981)</a>:</b>
 
-<dl><dd><a href="../J/John_Livesey.md" title="John Livesey">John Livesey</a> plays the part of Éothain.  Almost the whole of Éothain&#39;s dialogue from the book is retained in this production.</dd></dl>
+<dl><dd><a href="../J/John_Livesey.md" title="John Livesey">John Livesey</a> plays the part of Éothain. Almost the whole of Éothain&#39;s dialogue from the book is retained in this production.</dd></dl>
 
 <b><a href="2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 

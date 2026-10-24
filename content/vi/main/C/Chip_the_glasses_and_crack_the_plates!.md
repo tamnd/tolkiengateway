@@ -60,11 +60,11 @@ So, carefully! carefully with the plates!
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_That&#39;s_what_Bilbo_Baggins_hates!.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg/250px-The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg" decoding="async" loading="lazy" width="250" height="108" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg/375px-The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg/500px-The_Hobbit_-_An_Unexpected_Journey_-_That%27s_what_Bilbo_Baggins_hates%21.jpg 2x" data-file-width="1888" data-file-height="814"/></a><figcaption>The scene at the conclusion of the singing of &#34;Chip the glasses and crack the plates&#34; in <i>The Hobbit: An Unexpected Journey</i></figcaption></figure>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>&#34;Chip the glasses and crack the plates&#34; was adapted as &#34;<a href="../T/That&#39;s_What_Bilbo_Baggins_Hates.md" title="That&#39;s What Bilbo Baggins Hates">That&#39;s What Bilbo Baggins Hates</a>&#34; and was included in <i><a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">The Hobbit: The Complete Original Soundtrack</a></i>.</dd></dl>
 
-<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
+<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình năm 1985)</a></b>
 
 <dl><dd>The song is sang by the gnomes as in the book, with minor differences from the version written in the book translation that the film is based upon. Most phrases are repeated twice.</dd></dl>
 

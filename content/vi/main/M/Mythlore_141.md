@@ -50,7 +50,7 @@ infobox:
 - Oliver, Matthew. "History in the Margins: Epigraphs and Negative Space in Robin Hobb’s *Assassin’s Apprentice*."
 - Olver, Catherine. "Echoing Ecopoetics: Fantasy Literature's Background Sounds."
 - Brander, Elisabeth. "’Read this Book, and You Will Find all the Grand and Marvelous Things to be Found’: A Song of Ice and Fire and Medieval Travelogues."
-- von Kursell, Mikaela E.S. "Người lùn bị ma ám và (các) anh hùng bên trong: Người anh hùng lãng mạn hiện đại với tư cách là người được truyền cảm hứng thần thánh bên trong nhân cách."
+- von Kursell, Mikaela E.S. "Người Lùn bị ma ám và (các) anh hùng bên trong: Người anh hùng lãng mạn hiện đại với tư cách là người được truyền cảm hứng thần thánh bên trong nhân cách."
 - Peralta, Camilo. "’Delight in Horror’: Charles Williams and Russell Kirk on Hell and the Supernatural."
 - Salter, Gabriel C. "Tellers of Dark Fairy Tales: Common Themes in the Works of C.S. Lewis and Terence Fisher."
 - Mochel-Caballero, Anne-Frédérique. "'Điều gì đã xảy ra với những trận chiến là những chuyện xấu xí?': Những cô gái chiến đấu trong phim *The Chronicles of Narnia*, Chương 1, 2 và 3."

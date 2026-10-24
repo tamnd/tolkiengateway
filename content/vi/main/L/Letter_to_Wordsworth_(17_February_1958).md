@@ -28,7 +28,7 @@ Vào [17 tháng 2](../_/17_February.md) [1958](../_/1958.md), [J.R.R. Tolkien](.
 
 <blockquote class="tg-quote noexcerpt">
 <p>12:45 am Monday 17/2/58<br/>
-My dear Wordsworth,<br/>Tuesday Feb. 25.  Dinner at 7:30. I shall be in my room (Fellows 4) from 7 p.m. onwards.  I cannot guarantee any entertainment, but it will be delightful to see you again. Yours  J.R.R.T.
+My dear Wordsworth,<br/>Tuesday Feb. 25.  Dinner at 7:30. I shall be in my room (Fellows 4) from 7 p.m. onwards. I cannot guarantee any entertainment, but it will be delightful to see you again. Yours J.R.R.T.
 </p>
 </blockquote>
 

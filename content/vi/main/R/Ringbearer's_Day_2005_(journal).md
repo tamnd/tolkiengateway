@@ -22,5 +22,5 @@ categories:
 - Sự kiện cả ngày của Games Workshop
 - Khách mời danh dự & Điểm nổi bật của chương trình
 - Buổi hòa nhạc Lingalad: Lời bài hát
-- Trung Địa Minstrel Hát theo bài "Old Troll" và "Người lùn & Orc" của Glasshammer
+- Trung Địa Minstrel Hát theo bài "Old Troll" và "Người Lùn & Orc" của Glasshammer
 - Quảng cáo & Lời cảm ơn

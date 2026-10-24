@@ -38,7 +38,7 @@ infobox:
 
 ### Kho báu của Glórund {#Treasure_of_Glórund}
 
-Ufedhin là một [Gnome](../G/Gnome.md) rất giàu có sống ở Artanor. Khi [Úrin](../H/Húrin.md) mang kho báu của [Nargothrond](../N/Nargothrond.md) đến trước Tinwelint để trả cho việc "giữ công bằng" cho vợ con mình, Tinwelint, theo lời khuyên của [Gwendelin](../M/Melian.md), đã muốn ném kho báu xuống sông. Tuy nhiên, Ufedhin đã cố gắng thuyết phục ông ta bằng cách khác và do lời nguyền của [Mîm](../M/Mîm.md) Người lùn nên Tinwelint quyết định giữ lại kho báu.
+Ufedhin là một [Gnome](../G/Gnome.md) rất giàu có sống ở Artanor. Khi [Úrin](../H/Húrin.md) mang kho báu của [Nargothrond](../N/Nargothrond.md) đến trước Tinwelint để trả cho việc "giữ công bằng" cho vợ con mình, Tinwelint, theo lời khuyên của [Gwendelin](../M/Melian.md), đã muốn ném kho báu xuống sông. Tuy nhiên, Ufedhin đã cố gắng thuyết phục ông ta bằng cách khác và do lời nguyền của [Mîm](../M/Mîm.md) Người Lùn nên Tinwelint quyết định giữ lại kho báu.
 
 Ufedhin - bạn thân của [Người Lùn](../D/Dwarves.md) của [Nogrod](../N/Nogrod.md) - đã thuyết phục Tinwelint nhờ họ giúp đỡ trong việc định hình lại số vàng. Khi họ đồng ý làm việc cho Tinwelint, ông ta đã gửi một nửa số vàng cho Nogrod vay và giữ lại nửa còn lại, yêu cầu họ làm lại và tạo hình thành nhiều đồ vật khác nhau.
 

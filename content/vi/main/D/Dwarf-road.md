@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarf-road (disambiguation)"
 ---
 
-Chuyển hướng tới [Người lùn-road (định hướng)](<Dwarf-road_(disambiguation).md>).
+Chuyển hướng tới [Người Lùn-road (định hướng)](<Dwarf-road_(disambiguation).md>).

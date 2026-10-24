@@ -41,14 +41,14 @@ Dưới đây là danh sách nhiều tựa truyện tranh:
 - Moria thông báo cổng
 - Mở cổng Moria
 - Người chua nhiều màu
-- Mỏ Người lùn cao
+- Mỏ Người Lùn cao
 - Sự Hội đồng của Trứng cuộn
 - Thấy tin nhắn Đá
 - Chiếc nhẫn duy nhất của Sourone
 - Nhãn dán cản vòng tròn
 - Thanh kiếm gãy của kiêu ngạo
 - Đáng sợ hơn cả Dorcs
-- Người lùn mắt đại bàng
+- Người Lùn mắt đại bàng
 - Rực rỡ Tiên tộc
 - Nhãn dán cản xe Gonedaft
 - Gonedaft từ chối Chiếc Nhẫn

@@ -46,7 +46,7 @@ infobox:
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>Gandalf visits Minas Tirith to discern the identity of Bilbo&#39;s Ring. A brief scene shows him guided to the vaults by a <a href="../G/Gondorians.md" title="Gondorians">Gondorian</a> keeper and reading the scroll, which is an elaborate prop in <a href="../T/Tengwar.md" title="Tengwar">Tengwar</a> calligraphy.  In the film, Gandalf incorrectly gives the year as <a href="Second_Age.md" title="Second Age">S.A.</a> <a href="Second_Age_3434.md" title="Second Age 3434">3434</a>.</dd></dl>
+<dl><dd>Gandalf visits Minas Tirith to discern the identity of Bilbo&#39;s Ring. A brief scene shows him guided to the vaults by a <a href="../G/Gondorians.md" title="Gondorians">Gondorian</a> keeper and reading the scroll, which is an elaborate prop in <a href="../T/Tengwar.md" title="Tengwar">Tengwar</a> calligraphy. In the film, Gandalf incorrectly gives the year as <a href="Second_Age.md" title="Second Age">S.A.</a> <a href="Second_Age_3434.md" title="Second Age 3434">3434</a>.</dd></dl>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>The year 3434 of the Second Age...here follows the account of Isildur, High King of Gondor, and the finding of the ring of power.

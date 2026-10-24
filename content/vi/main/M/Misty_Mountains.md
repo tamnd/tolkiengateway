@@ -69,7 +69,7 @@ Các vùng đất xung quanh Dãy Núi Sương Mù bao gồm một số khu rừ
 
 Đỉnh cực bắc của Dãy Núi Sương Mù có thể được coi là Núi [Gundabad](../G/Gundabad.md),<sup id="cite_ref-map_4-2" class="reference"><a href="#cite_note-map-4">[3]</a></sup> nơi theo truyền thuyết, <a class="mw-redirect mw-disambig" href="../D/Durin.md" title="Durin">Durin</a>, con cả trong bảy [Tổ phụ của người Lùn](../F/Fathers_of_the_Dwarves.md), đã thức dậy. Sau này nó trở thành [thiên đường cho Orc](../O/Orc-holds.md).
 
-Vương quốc [Người lùn](../D/Dwarves.md) lớn nhất ở Trung Địa, [Khazad-dûm](Moria.md), nằm ở điểm giữa của Dãy Núi Sương Mù. Thành phố được xây dựng dưới ba đỉnh núi, được gọi là [Dãy núi Moria](Mountains_of_Moria.md): Redhorn (*[Caradhras](../C/Caradhras.md)* ở Sindarin), Silvertine (*[Celebdil](../C/Celebdil.md)*) và Cloudyhead (*[Fanuidhol](../F/Fanuidhol.md)*).<sup id="cite_ref-south_7-0" class="reference"><a href="#cite_note-south-7">[5]</a></sup> Bên trong Silvertine, Người Lùn đã xây dựng [Cầu thang Vô tận](../E/Endless_Stair.md), một cầu thang từ sâu trong núi lên đến đỉnh núi.
+Vương quốc [Người Lùn](../D/Dwarves.md) lớn nhất ở Trung Địa, [Khazad-dûm](Moria.md), nằm ở điểm giữa của Dãy Núi Sương Mù. Thành phố được xây dựng dưới ba đỉnh núi, được gọi là [Dãy núi Moria](Mountains_of_Moria.md): Redhorn (*[Caradhras](../C/Caradhras.md)* ở Sindarin), Silvertine (*[Celebdil](../C/Celebdil.md)*) và Cloudyhead (*[Fanuidhol](../F/Fanuidhol.md)*).<sup id="cite_ref-south_7-0" class="reference"><a href="#cite_note-south-7">[5]</a></sup> Bên trong Silvertine, Người Lùn đã xây dựng [Cầu thang Vô tận](../E/Endless_Stair.md), một cầu thang từ sâu trong núi lên đến đỉnh núi.
 
 Ngọn núi ở cực nam là [Methedras](Methedras.md), Sindarin có nghĩa là "Đỉnh cuối cùng".<sup id="cite_ref-map_4-3" class="reference"><a href="#cite_note-map-4">[3]</a></sup>
 
@@ -118,7 +118,7 @@ Dãy Núi Sương Mù được tạo ra bởi [Vala](../V/Valar.md) [Melkor](Mor
 
 Người ta nói rằng [gấu](../B/Bears.md) cổ đại sống ở Dãy Núi cho đến khi [Người khổng lồ](../G/Giants.md) đến và những con gấu rời đi vùng đất thấp.<sup id="cite_ref-queer_9-0" class="reference"><a href="#cite_note-queer-9">[7]</a></sup>
 
-Thành phố Người lùn vĩ đại [Khazad-dûm](Moria.md) (sau này gọi là "Hố đen" [Moria](Moria.md)) nằm gần giữa dãy núi. Ở đó [dân tộc Durin](../D/Durin's_folk.md) đã sống hàng nghìn năm với một vương quốc trải rộng đến tận phía bắc Gundabad và xa đến tận phía đông [Dãy Đồi Sắt](../I/Iron_Hills.md).
+Thành phố Người Lùn vĩ đại [Khazad-dûm](Moria.md) (sau này gọi là "Hố đen" [Moria](Moria.md)) nằm gần giữa dãy núi. Ở đó [dân tộc Durin](../D/Durin's_folk.md) đã sống hàng nghìn năm với một vương quốc trải rộng đến tận phía bắc Gundabad và xa đến tận phía đông [Dãy Đồi Sắt](../I/Iron_Hills.md).
 
 Ở mũi phía nam của Dãy Núi Sương Mù, bên dưới Methedras, là [Isengard](../I/Isengard.md), ban đầu là một pháo đài [Gondor](../G/Gondor.md) nhưng sau đó được trao cho [Saruman](../S/Saruman.md).
 
@@ -126,7 +126,7 @@ Vào khoảng [1050](../T/Third_Age_1050.md), [Harfoots](../H/Harfoots.md) di c�
 
 Khi Người Lùn mạnh, các ngọn núi nhìn chung không có Orc, nhưng khi [Bóng Tối](../S/Shadow.md) mạnh, Orc sinh sôi ở Mount Gundabad, trong [Thị trấn yêu tinh](../G/Goblin-town.md), sau đó là chính Moria và mọi nơi ở giữa. Trong [T.A.](../T/Third_Age.md) [1300](../T/Third_Age_1300.md) [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) bắt đầu gia tăng và quấy rối [Người Lùn](../D/Dwarves.md).<sup id="cite_ref-b2_10-0" class="reference"><a href="#cite_note-b2-10">[8]</a></sup>
 
-Sự thức tỉnh của [Tai họa của Durin](../D/Durin's_Bane.md) đã đẩy Người Lùn ra khỏi thành phố của họ. Có vẻ như một số Người Lùn, trước hoặc sau [Cuộc chiến giữa Người lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), cư trú ở sườn phía đông của ngọn núi gần thị trấn Goblin.
+Sự thức tỉnh của [Tai họa của Durin](../D/Durin's_Bane.md) đã đẩy Người Lùn ra khỏi thành phố của họ. Có vẻ như một số Người Lùn, trước hoặc sau [Cuộc chiến giữa Người Lùn và Orc](../W/War_of_the_Dwarves_and_Orcs.md), cư trú ở sườn phía đông của ngọn núi gần thị trấn Goblin.
 
 Trong [T.A.](../T/Third_Age.md) [2480](../T/Third_Age_2480.md) Orc bắt đầu thiết lập các thành trì bí mật trong Dãy Núi chặn tất cả các đường đi đến [Eriador](../E/Eriador.md) từ [Rhovanion](../R/Rhovanion.md), trong khi Sauron sinh sống Moria với các sinh vật của mình.<sup id="cite_ref-b2_10-1" class="reference"><a href="#cite_note-b2-10">[8]</a></sup>
 
@@ -138,7 +138,7 @@ Gần lối ra phía đông của thị trấn Goblin, Đại Bàng bố trí [e
 
 Có vẻ như người của Beorn đã quay lại Dãy Núi. Sau khi Orc bị tiêu diệt, [Beornings](../B/Beornings.md) tiếp tục mở các lối đi của [Ford của Carrock](../F/Ford_of_Carrock.md) và [Đèo Cao](../H/High_Pass.md) để đổi lấy phí cầu đường.<sup id="cite_ref-council_11-1" class="reference"><a href="#cite_note-council-11">[9]</a></sup>
 
-[Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) phải đối mặt với thử thách vượt qua Dãy Núi. Họ quyết định tránh Đèo Cao hoặc Gap of Rohan vì mối đe dọa từ các cuộc tuần tra của Orc và lực lượng của Saruman. Họ cố gắng vượt qua Đèo Redhorn nhưng một trận bão tuyết mạnh đã chặn đường, buộc họ phải hành trình qua Moria. Ở đó [Gandalf](../G/Gandalf.md) bị lạc khi cố gắng ngăn chặn Tai họa của Durin, và sau khi rơi xuống vực thẳm, ông ta đuổi theo đến Người lùn [Cầu thang vô tận](../E/Endless_Stair.md) và [chiến đấu trên đỉnh](../B/Battle_of_the_Peak.md) Silvertine.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[11]</a></sup>
+[Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) phải đối mặt với thử thách vượt qua Dãy Núi. Họ quyết định tránh Đèo Cao hoặc Gap of Rohan vì mối đe dọa từ các cuộc tuần tra của Orc và lực lượng của Saruman. Họ cố gắng vượt qua Đèo Redhorn nhưng một trận bão tuyết mạnh đã chặn đường, buộc họ phải hành trình qua Moria. Ở đó [Gandalf](../G/Gandalf.md) bị lạc khi cố gắng ngăn chặn Tai họa của Durin, và sau khi rơi xuống vực thẳm, ông ta đuổi theo đến Người Lùn [Cầu thang vô tận](../E/Endless_Stair.md) và [chiến đấu trên đỉnh](../B/Battle_of_the_Peak.md) Silvertine.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[11]</a></sup>
 
 Người ta nói rằng vào [Kỷ Đệ Tứ](../F/Fourth_Age.md) [Durin VII](../D/Durin_VII.md) đã dẫn dắt Người Lùn quay trở lại Moria.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[12]</a></sup>
 
@@ -154,7 +154,7 @@ Trong bản nháp của chương *The Council of Elrond*, Dãy Núi Sương Mù 
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b>1967: <a href="../T/The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim năm 1967)</a>:</b>
 
 <dl><dd>The Misty Mountains are renamed the Barricade Mountains, and encircle Mirkwood, which in turn encircles Dale and the Lonely Mountain.</dd></dl>
 

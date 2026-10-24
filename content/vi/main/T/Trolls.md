@@ -262,11 +262,11 @@ Trong *[Sir Gawain and the Green Knight](../S/Sir_Gawain_and_the_Green_Knight,_P
 
 ### Phim {#Films}
 
-<b><a href="../_/1967.md" title="1967">1967</a>: <a href="The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim 1967)</a>:</b>
+<b><a href="../_/1967.md" title="1967">1967</a>: <a href="The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)"><i>The Hobbit</i> (phim năm 1967)</a>:</b>
 
 <dl><dd>The three Trolls&#39; position in the narrative was taken by two creatures called &#34;Groans&#34;.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[50]</a></sup> They had wooden, bark-like skin, and, instead of stone, turned into dead trees when exposed to sunlight.</dd></dl>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The troll that attempts to enter Balin&#39;s Tomb is depicted as a shadowy creature with dark green fur. Unlike in the novel, its feet have toes. It is the only troll seen in the film.</dd></dl>
 

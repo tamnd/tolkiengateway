@@ -70,12 +70,12 @@ Belegaer có một số hòn đảo và quần đảo:
 
 - [Tol Eressëa](../T/Tol_Eressëa.md), Hòn đảo Cô độc nằm gần bờ Aman
 - Quần đảo Chạng vạng hay [Quần đảo Mê hoặc](../E/Enchanted_Isles.md), nằm ngoài khơi Tol Eressëa
-- [Númenor](../N/Númenor.md) (chỉ trong Kỷ thứ Hai)
-- Các Hòn đảo phía Tây (sau Kỷ thứ Nhất)
+- [Númenor](../N/Númenor.md) (chỉ trong Kỷ Đệ Nhị)
+- Các Hòn đảo phía Tây (sau Kỷ Đệ Nhất)
 &#x20;   - [Tol Morwen](../T/Tol_Morwen.md)
 &#x20;   - [Tol Fuin](../T/Tol_Fuin.md)
 &#x20;   - [Himring](../H/Himring.md)
-- [Balar](../I/Isle_of_Balar.md), nằm trong Vịnh Balar (chỉ trong Kỷ thứ Nhất)
+- [Balar](../I/Isle_of_Balar.md), nằm trong Vịnh Balar (chỉ trong Kỷ Đệ Nhất)
 - [Tolfalas](../T/Tolfalas.md), nằm trong Vịnh Belfalas
 - [Ened](../E/Ened.md), nằm trong Vịnh hẹp Drengist
 

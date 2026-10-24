@@ -36,11 +36,11 @@ infobox:
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
 - "MERPCon ở đâu"
     - Bởi Hawke Robinson
-- "Vấn đề của Người lùn-phụ nữ"
+- "Vấn đề của Người Lùn-phụ nữ"
     - Bởi Neville Percy
-- "Tóm tắt lịch sử của các dinh thự Người lùn"
+- "Tóm tắt lịch sử của các dinh thự Người Lùn"
     - Bởi Thomas Morwinsky
-- "Một mật mã cổ ngữ Người lùn"
+- "Một mật mã cổ ngữ Người Lùn"
     - Bởi Neville Percy
 - "Bước chân bạn đi..."
     - Bởi Thomas Morwinksy
@@ -52,7 +52,7 @@ infobox:
     - Bởi Tom Davie
 - "Bản in đẹp"
 - "Giấy phép Creative Commons"
-- "Phụ lục: Bản đồ 'Lược sử các dinh thự Người lùn'"
+- "Phụ lục: Bản đồ 'Lược sử các dinh thự Người Lùn'"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**
     - Bởi: Hawke Robinson

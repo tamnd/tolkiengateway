@@ -13,7 +13,7 @@ categories:
   - "Heirlooms"
 ---
 
-**Bảy kho báu của các vị vua lùn** là kho báu huyền thoại của [Người lùn](../D/Dwarves.md). Cái tên gợi ý rằng mỗi kho báu thuộc về một trong bảy [gia tộc Người lùn](../../category/D/Dwarven_clans.md). Như người ta nói, nền tảng của mỗi kho tích trữ là một chiếc nhẫn vàng, và chúng có lẽ được thu thập nhờ vào [Bảy chiếc nhẫn](Seven_Rings.md) được [Sauron](Sauron.md) trao cho Người lùn vào [Thời đại thứ hai](Second_Age.md).
+**Bảy kho báu của các vị vua lùn** là kho báu huyền thoại của [Người Lùn](../D/Dwarves.md). Cái tên gợi ý rằng mỗi kho báu thuộc về một trong bảy [gia tộc Người Lùn](../../category/D/Dwarven_clans.md). Như người ta nói, nền tảng của mỗi kho tích trữ là một chiếc nhẫn vàng, và chúng có lẽ được thu thập nhờ vào [Bảy chiếc nhẫn](Seven_Rings.md) được [Sauron](Sauron.md) trao cho Người Lùn vào [Kỷ Đệ Nhị](Second_Age.md).
 
 Đến [Kỷ Đệ Tam](../T/Third_Age.md), các kho báu đã bị [Rồng](../D/Dragons.md) cướp bóc và nuốt chửng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

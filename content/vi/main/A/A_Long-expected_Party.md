@@ -81,7 +81,7 @@ Dù đã cố gắng, Lão Gaffer vẫn không thuyết phục được những 
 
 ### Tiệc Sinh nhật {#The_Birthday_Party}
 
-Khi ngày tiệc đến gần, những Người lùn đến Bag End trên một chiếc xe chất đầy các kiện hàng. Họ được [Gandalf](../G/Gandalf.md) đi theo, mang đến những màn pháo hoa nổi tiếng của ông. Gandalf xua một nhóm trẻ em phấn khích đi, hứa rằng chúng sẽ được xem rất nhiều pháo hoa trong bữa tiệc. Sau đó, Bilbo và Gandalf ngồi trong Bag End và bàn về sự kiện sắp tới. Gandalf bảo Bilbo cứ làm theo kế hoạch của mình và nói thành tiếng, tự hỏi ai sẽ cười trước “trò đùa” của Bilbo.
+Khi ngày tiệc đến gần, những Người Lùn đến Bag End trên một chiếc xe chất đầy các kiện hàng. Họ được [Gandalf](../G/Gandalf.md) đi theo, mang đến những màn pháo hoa nổi tiếng của ông. Gandalf xua một nhóm trẻ em phấn khích đi, hứa rằng chúng sẽ được xem rất nhiều pháo hoa trong bữa tiệc. Sau đó, Bilbo và Gandalf ngồi trong Bag End và bàn về sự kiện sắp tới. Gandalf bảo Bilbo cứ làm theo kế hoạch của mình và nói thành tiếng, tự hỏi ai sẽ cười trước “trò đùa” của Bilbo.
 
 Bữa tiệc được tổ chức vào [22 tháng 9](../_/22_September.md), [T.A.](../T/Third_Age.md) [3001](../T/Third_Age_3001.md). Một gian đình lớn đã được dựng trên [Party Tree](../P/Party_Tree.md), một cây sồi cổ thụ phía sau Bag End. Có quà tặng, khiêu vũ, các bài hát, trò chơi, âm nhạc, ba bữa ăn và những màn pháo hoa tuyệt diệu của Gandalf. Để báo hiệu bữa tối tại gian đình, Gandalf bắn một quả pháo hoa đặc biệt lớn, nổ tung thành hình một [con rồng](../D/Dragons.md), để tưởng niệm việc đánh bại con rồng [Smaug](../S/Smaug.md).
 

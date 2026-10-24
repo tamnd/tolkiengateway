@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Plants in The Lord of the Rings Roleplaying Game&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Plants in The Lord of the Rings Roleplaying Game&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 Để làm nổi bật bối cảnh, [The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md) giới thiệu nhiều loại cây và thảo mộc mới được sử dụng cho nhiều mục đích khác nhau, ngoài [sậy](../R/Reeds.md).
 
@@ -25,7 +25,7 @@ images:
 
 ## Lá ăn {#Eater’s_Leaf}
 
-<i><b>Eater's Leaf</b></i> là một loại thảo dược được tìm thấy ở [Khu Rừng Cổ](../O/Old_Forest.md) và có giá trị ở [the Shire](../T/The_Shire.md), đặc biệt là bởi [Brandybucks](../B/Brandybuck_family.md). Nó củng cố hệ thống tiêu hóa, cho phép tiêu thụ nhiều thức ăn và đồ uống mà không bị ảnh hưởng xấu, đồng thời tạo ra khả năng chống lại chất độc.<sup id="cite_ref-secondpage_2-0" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
+<i><b>Eater's Leaf</b></i> là một loại thảo dược được tìm thấy ở [Khu Rừng Cổ](../O/Old_Forest.md) và có giá trị ở [Shire](../T/The_Shire.md), đặc biệt là bởi [Brandybucks](../B/Brandybuck_family.md). Nó củng cố hệ thống tiêu hóa, cho phép tiêu thụ nhiều thức ăn và đồ uống mà không bị ảnh hưởng xấu, đồng thời tạo ra khả năng chống lại chất độc.<sup id="cite_ref-secondpage_2-0" class="reference"><a href="#cite_note-secondpage-2">[2]</a></sup>
 
 ## Bằng {#Equial}
 

@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Chandler, Simon"
 ---
 
-**Simon Chandler** (tên khai sinh [1953](../_/1953.md)) là một diễn viên người Anh từng đóng vai [Merry](../M/Meriadoc_Brandybuck.md) trong [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+**Simon Chandler** (tên khai sinh [1953](../_/1953.md)) là một diễn viên người Anh từng đóng vai [Merry](../M/Meriadoc_Brandybuck.md) trong [*The Lord of the Rings* (phim năm 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 
 ## Liên kết ngoài {#External_links}
 

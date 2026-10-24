@@ -80,7 +80,7 @@ Họ kêu la, khắp nơi cửa sổ đều mở ra và đôi chân vội vã.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>The song, adapted as &#34;<a href="The_Mountain_King&#39;s_Return.md" title="The Mountain King&#39;s Return">The Mountain King&#39;s Return</a>&#34; plays in the background as <a href="Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> meet <a href="../B/Bard.md" title="Bard"> Bard the Bowman</a> in <a href="../L/Lake-town.md" title="Lake-town">Lake-town</a>.</dd></dl>
 
@@ -107,7 +107,7 @@ To songs of yore re-sung.
 </p>
 </div>
 
-<b>1985: <a href="The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
+<b>1985: <a href="The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình năm 1985)</a></b>
 
 <dl><dd>The first three verses are sang in the movie, with considerable changes from the book translation the movie is based upon.</dd></dl>
 

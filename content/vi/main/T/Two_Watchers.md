@@ -140,7 +140,7 @@ Cuối ngày hôm đó, để rời khỏi Tháp, Frodo và Sam lại giơ Phial
 		</li>
 </ul>
 
-<b>1980: <a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> encounters the Watchers while attempting to enter the tower to rescue <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a>. He sets off the alarm, but gets by them by using the <a href="../P/Phial_of_Galadriel.md" title="Phial of Galadriel">Phial of Galadriel</a>. When he and Frodo encounter them once again when trying to leave the tower, they put up more of a resistance to the Phial, but give in when Frodo helps Sam use it.</dd></dl>
 

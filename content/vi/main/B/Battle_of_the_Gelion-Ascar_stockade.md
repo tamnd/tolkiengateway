@@ -54,7 +54,7 @@ Trong [Thời kỳ Hòa bình Dài lâu](../L/Long_Peace.md) [Con thứ](../S/Se
 
 ### Mở đầu {#Prelude}
 
-Morgoth, nhận thấy rằng ông ta không thể hoàn toàn ghẻ lạnh Tiên tộc và Con Người với nhau, ông ta vô cùng phẫn nộ và cố gắng gây hại cho Con Người nhiều nhất có thể. Ông ta đã gửi một Orc-đột kích đi qua phương Đông để thoát khỏi người nhảy cầu, băng qua Ered Lindon và quay trở lại đường <a class="mw-redirect mw-disambig" href="../D/Dwarf-road.md" title="Dwarf-road">Người lùn</a> trong bí mật. Họ tiến vào khu rừng phía nam đất của Caranthir và tấn công Haladin.
+Morgoth, nhận thấy rằng ông ta không thể hoàn toàn ghẻ lạnh Tiên tộc và Con Người với nhau, ông ta vô cùng phẫn nộ và cố gắng gây hại cho Con Người nhiều nhất có thể. Ông ta đã gửi một Orc-đột kích đi qua phương Đông để thoát khỏi người nhảy cầu, băng qua Ered Lindon và quay trở lại đường <a class="mw-redirect mw-disambig" href="../D/Dwarf-road.md" title="Dwarf-road">Người Lùn</a> trong bí mật. Họ tiến vào khu rừng phía nam đất của Caranthir và tấn công Haladin.
 
 ### Trận chiến {#Battle}
 

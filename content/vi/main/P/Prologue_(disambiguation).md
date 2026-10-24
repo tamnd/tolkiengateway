@@ -23,7 +23,7 @@ images:
 
 ## Các bản chuyển thể {#Adaptations}
 
-- *[Prologue: A Ring's Tale](Prologue%253A_A_Ring's_Tale.md)*, cảnh thứ hai của [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
+- *[Prologue: A Ring's Tale](Prologue%253A_A_Ring's_Tale.md)*, cảnh thứ hai của [*The Lord of the Rings* (phim năm 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>).
 - *[Prologue: One Ring to Rule Them All...](Prologue%253A_One_Ring_to_Rule_Them_All....md)*, cảnh đầu tiên của *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)* ([2001](../_/2001.md)).
     - *[Prologue: One Ring to Rule Them All](Prologue%253A_One_Ring_to_Rule_Them_All.md)*, bài hát đầu tiên của *[The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md)*.
 - "Mở đầu", dòng nhiệm vụ đầu tiên trong *[The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)* ([2007](../_/2007.md)).

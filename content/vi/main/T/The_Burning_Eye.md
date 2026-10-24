@@ -33,7 +33,7 @@ Burning Eye có mười hai chủng tộc, trong đó có tám thiện và bốn
 - [Avari Tiên](../A/Avari.md)
 - [Sáng sớm](../B/Beornings.md)
 - [Dúnedain](../D/Dúnedain.md)
-- [Người lùn](../D/Dwarves.md)
+- [Người Lùn](../D/Dwarves.md)
 - [Một nửa Orc](../H/Half_Orcs.md)
 - [Nửa quỷ lùn](../H/Half-trolls.md)
 - [Hobbit](../H/Hobbits.md)

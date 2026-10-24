@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Plants in Middle-earth Role Playing&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Plants in Middle-earth Role Playing&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 Để làm nổi bật bối cảnh, [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) giới thiệu nhiều loại cây và thảo mộc mới được sử dụng cho nhiều mục đích khác nhau, ngoài [hoa huệ](../L/Lilies.md), [rêu](../M/Mosses.md), [cỏ ống](Pipe-weed.md), [sậy](../R/Reeds.md) và [hoa súng](../W/Water-lilies.md).
 
@@ -191,7 +191,7 @@ images:
 
 ## Kèn Trumpet trắng sữa chết người {#Deadly_Milk-White_Trumpet}
 
-<i><b>Kèn Trumpet trắng sữa chết người</b></i> ([S.](../S/Sindarin.md) *Gurnell*, [Q.](../Q/Quenya.md) *Ninqualmé*) , còn được gọi là *Datura*, là một loại cây bụi xâm lấn được tìm thấy ở miền Nam [Mirkwood](../M/Mirkwood.md), có lẽ xuất hiện lần đầu tiên trong Dịch hạch. Mùi của nó, đặc biệt là khi bị dập hoặc thụ phấn, rất nồng. Phấn hoa của nó có thể dẫn đến mù tạm thời và buồn nôn, do đó được sử dụng làm chất độc. Hạt đen đắng của nó là nền tảng của một loại chất độc khác có thể giết chết tất cả trừ Tiên tộc.<sup id="cite_ref-fifthpage_23-5" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[24]</a></sup>
+<i><b>Kèn Trumpet trắng sữa chết người</b></i> ([S.](../S/Sindarin.md) *Gurnell*, [Q.](../Q/Quenya.md) *Ninqualmé*), còn được gọi là *Datura*, là một loại cây bụi xâm lấn được tìm thấy ở miền Nam [Mirkwood](../M/Mirkwood.md), có lẽ xuất hiện lần đầu tiên trong Dịch hạch. Mùi của nó, đặc biệt là khi bị dập hoặc thụ phấn, rất nồng. Phấn hoa của nó có thể dẫn đến mù tạm thời và buồn nôn, do đó được sử dụng làm chất độc. Hạt đen đắng của nó là nền tảng của một loại chất độc khác có thể giết chết tất cả trừ Tiên tộc.<sup id="cite_ref-fifthpage_23-5" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[24]</a></sup>
 
 ## Độ chính xác {#Degík}
 
@@ -303,7 +303,7 @@ images:
 
 ## Grodloth {#Grodloth}
 
-<i><b>Grodloth</b></i> ([S.](../S/Sindarin.md) “Hoa hang động,” [Q.](../Q/Quenya.md) *Rottolótë*) <sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[note 4]</a></sup>, còn được gọi là *Dubur-bulm*, là một loài thực vật quý hiếm được tìm thấy ở những điểm được chiếu sáng trong Người lùn hố sâu. Hoa của nó chữa lành các mô và thậm chí có thể phục hồi sự sống, khiến nó trở thành chủ đề trong truyền thuyết của Người lùn với cái tên “Nước mắt Durin”.<sup id="cite_ref-tenthpage_43-0" class="reference"><a href="#cite_note-tenthpage-43">[39]</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[40]</a></sup>
+<i><b>Grodloth</b></i> ([S.](../S/Sindarin.md) “Hoa hang động,” [Q.](../Q/Quenya.md) *Rottolótë*) <sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[note 4]</a></sup>, còn được gọi là *Dubur-bulm*, là một loài thực vật quý hiếm được tìm thấy ở những điểm được chiếu sáng trong Người Lùn hố sâu. Hoa của nó chữa lành các mô và thậm chí có thể phục hồi sự sống, khiến nó trở thành chủ đề trong truyền thuyết của Người Lùn với cái tên “Nước mắt Durin”.<sup id="cite_ref-tenthpage_43-0" class="reference"><a href="#cite_note-tenthpage-43">[39]</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[40]</a></sup>
 
 <h2><span id="Hart.27s_Glory"></span><span class="mw-headline" id="Hart&#39;s_Glory">Hart&#39;s Glory</span></h2>
 

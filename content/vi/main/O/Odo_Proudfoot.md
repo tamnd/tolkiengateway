@@ -95,7 +95,7 @@ Cái tên *Odo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](..
 		</li>
 </ul>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Odo angrily wiggles his toes as he corrects Bilbo.</dd></dl>
 

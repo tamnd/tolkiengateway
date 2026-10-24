@@ -29,7 +29,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Turner_Mohan_-_Dwarven_women.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/73/Turner_Mohan_-_Dwarven_women.jpg/250px-Turner_Mohan_-_Dwarven_women.jpg" decoding="async" loading="lazy" width="250" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/73/Turner_Mohan_-_Dwarven_women.jpg/375px-Turner_Mohan_-_Dwarven_women.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/73/Turner_Mohan_-_Dwarven_women.jpg/500px-Turner_Mohan_-_Dwarven_women.jpg 2x" data-file-width="2250" data-file-height="1620"/></a><figcaption><i>Dwarven women</i> by <a href="../../category/I/Images_by_Turner_Mohan.md" title="Category:Images by Turner Mohan">Turner Mohan</a></figcaption></figure>
 
-**Người lùn-phụ nữ** là số ít trong số [Người Lùn](Dwarves.md), được giữ bí mật và hiếm khi bị các chủng tộc khác nhìn thấy.<sup id="cite_ref-App_1-0" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
+**Người Lùn-phụ nữ** là số ít trong số [Người Lùn](Dwarves.md), được giữ bí mật và hiếm khi bị các chủng tộc khác nhìn thấy.<sup id="cite_ref-App_1-0" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
 ## Vai trò trong xã hội {#Role_in_society}
 
@@ -39,11 +39,11 @@ Người Lùn muốn phụ nữ của họ được bảo vệ khỏi các chủ
 
 Phụ nữ gia nhập gia đình chồng. Phụ nữ hiếm khi được nêu tên trong gia phả nhưng nếu con trai được coi là trẻ hơn cha mình 110 tuổi thì điều này thường chỉ ra con gái lớn. Em gái của [Thorin](../T/Thorin.md) [Dís](Dís.md) được đặt tên đơn giản vì cái chết anh dũng của các con trai [Fíli](../F/Fíli.md) và [Kíli](../K/Kíli.md).<sup id="cite_ref-WoD_2-0" class="reference"><a href="#cite_note-WoD-2">[2]</a></sup>
 
-[Gimli](../G/Gimli.md) tuyên bố rằng chỉ có khoảng một phần ba dân số của họ là phụ nữ, đó là lý do khiến dân số của chủng tộc này tăng chậm. Hơn nữa, trong khi Người lùn-nam giới đông hơn Người lùn-phụ nữ 2/1, chưa đến một nửa số Người lùn-nam giới thực sự đã kết hôn: thay vào đó, nhiều người thích dành thời gian cho công việc thủ công của mình hơn. Trong khi đó, nhiều Người lùn-phụ nữ cũng chưa bao giờ lấy chồng: có người không muốn hoặc muốn một người không thể hoặc không muốn lấy chồng, trong trường hợp đó họ sẽ không có chồng nào khác.<sup id="cite_ref-App_1-2" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
+[Gimli](../G/Gimli.md) tuyên bố rằng chỉ có khoảng một phần ba dân số của họ là phụ nữ, đó là lý do khiến dân số của chủng tộc này tăng chậm. Hơn nữa, trong khi Người Lùn-nam giới đông hơn Người Lùn-phụ nữ 2/1, chưa đến một nửa số Người Lùn-nam giới thực sự đã kết hôn: thay vào đó, nhiều người thích dành thời gian cho công việc thủ công của mình hơn. Trong khi đó, nhiều Người Lùn-phụ nữ cũng chưa bao giờ lấy chồng: có người không muốn hoặc muốn một người không thể hoặc không muốn lấy chồng, trong trường hợp đó họ sẽ không có chồng nào khác.<sup id="cite_ref-App_1-2" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
 ## Quan niệm sai lầm giữa các chủng tộc khác {#Misconceptions_among_other_races}
 
-Vì sự khan hiếm của Người lùn phụ nữ, sự bí mật và sự giống nhau về ngoại hình với nam giới và việc họ không được nhắc đến nên nhiều [Con Người](../M/Men.md) đã không nhận ra sự tồn tại của họ. Họ tin rằng dân số Người Lùn' chỉ có nam giới, và do đó có một truyền thuyết kể rằng họ được 'sinh ra' bằng cách lớn lên từ đá.<sup id="cite_ref-App_1-3" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
+Vì sự khan hiếm của Người Lùn phụ nữ, sự bí mật và sự giống nhau về ngoại hình với nam giới và việc họ không được nhắc đến nên nhiều [Con Người](../M/Men.md) đã không nhận ra sự tồn tại của họ. Họ tin rằng dân số Người Lùn' chỉ có nam giới, và do đó có một truyền thuyết kể rằng họ được 'sinh ra' bằng cách lớn lên từ đá.<sup id="cite_ref-App_1-3" class="reference"><a href="#cite_note-App-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

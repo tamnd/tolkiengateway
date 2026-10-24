@@ -31,7 +31,7 @@ infobox:
 
 **Billy Barty** ([25 tháng 10](../_/25_October.md) [1924](../_/1924.md) – [23 tháng 12](../_/23_December.md) [2000](../_/2000.md)) là một diễn viên điện ảnh và truyền hình người Mỹ mắc chứng bệnh lùn. Sự nghiệp của ông kéo dài từ những năm 1920 đến những năm 1990. Ông cũng là một nhà hoạt động thay mặt cho những người mắc bệnh lùn và ông đã thành lập "Little People of America" ​​để giúp đỡ những người khác như mình.
 
-Trong [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>), Billy đóng vai kép trong [Bilbo Baggins](Bilbo_Baggins.md) và đóng [Samwise Gamgee](../S/Samwise_Gamgee.md) trong cảnh <a class="extiw" href="http://en.wikipedia.org/wiki/rotoscoping" title="wikipedia:rotoscoping">rotoscopy</a>.
+Trong [*The Lord of the Rings* (phim năm 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>), Billy đóng vai kép trong [Bilbo Baggins](Bilbo_Baggins.md) và đóng [Samwise Gamgee](../S/Samwise_Gamgee.md) trong cảnh <a class="extiw" href="http://en.wikipedia.org/wiki/rotoscoping" title="wikipedia:rotoscoping">rotoscopy</a>.
 
 ## Xem thêm {#See_also}
 

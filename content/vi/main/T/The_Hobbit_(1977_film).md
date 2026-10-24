@@ -230,7 +230,7 @@ Cuối phim, Gandalf tiết lộ với Bilbo rằng ông ta không chỉ biết 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Hobbit_(1977_film)" title="wikipedia:The Hobbit (1977 film)"> The Hobbit (phim 1977)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Hobbit_(1977_film)" title="wikipedia:The Hobbit (1977 film)"> The Hobbit (phim năm 1977)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <i><a class="external text" href="http://www.imdb.com/title/tt0077687/" rel="noreferrer noopener" target="_blank">The Hobbit</a></i> tại <a class="external text" href="http://www.imdb.com/" rel="noreferrer noopener" target="_blank">IMDb</a>
 
 <span></span>

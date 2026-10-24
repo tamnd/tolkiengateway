@@ -20,7 +20,7 @@ sort_keys:
   "The Return of the King (1980 film) cast": "Melendrez, Sonny"
 ---
 
-**Sonny Melendrez** (tên khai sinh [1946](../_/1946.md)) là một diễn viên và người dẫn chương trình phát thanh người Mỹ, người lồng tiếng cho vai [Pippin](../P/Peregrin_Took.md) trong [*The Return of the King* (phim 1980)](<../T/The_Return_of_the_King_(1980_film).md>).
+**Sonny Melendrez** (tên khai sinh [1946](../_/1946.md)) là một diễn viên và người dẫn chương trình phát thanh người Mỹ, người lồng tiếng cho vai [Pippin](../P/Peregrin_Took.md) trong [*The Return of the King* (phim năm 1980)](<../T/The_Return_of_the_King_(1980_film).md>).
 
 ## Liên kết ngoài {#External_links}
 

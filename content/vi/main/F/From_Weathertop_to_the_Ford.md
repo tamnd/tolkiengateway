@@ -79,7 +79,7 @@ Như đã lưu ý trước đó, ban đầu chỉ có một con sông nằm gi�
 
 ## Lưu ý về sông Hoarwell {#Note_on_the_river_Hoarwell}
 
-Ban đầu Hoarwell không được đưa vào câu chuyện. Trong câu chuyện gốc của *[The Hobbit](../T/The_Hobbit.md)*, [Thorin và đồng đội](../T/Thorin_and_Company.md) gặp một dòng sông chảy xiết màu đỏ không tên và băng qua nó tại một bến cạn. Đến phiên bản thứ ba của tác phẩm đó vào năm 1966, dòng sông có một cây cầu đá cổ nhưng Tolkien đã thay đổi rất ít, điều đó có nghĩa là cuộc chạm trán với lũ troll xảy ra rất gần với sông Hoarwell. Trong *The Lord of the Rings*, Aragorn phải mất sáu ngày để đưa người hobbit đến mức mà Người lùn đạt được trong một giờ. Vào năm 1960, Tolkien bắt đầu viết lại*The Hobbit*, lẽ ra sẽ đưa vào chuyến du hành cả ngày giữa dòng sông và lũ quỷ lùn, nhưng ông chưa bao giờ hoàn thành dự án này.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[5]</a></sup>
+Ban đầu Hoarwell không được đưa vào câu chuyện. Trong câu chuyện gốc của *[The Hobbit](../T/The_Hobbit.md)*, [Thorin và đồng đội](../T/Thorin_and_Company.md) gặp một dòng sông chảy xiết màu đỏ không tên và băng qua nó tại một bến cạn. Đến phiên bản thứ ba của tác phẩm đó vào năm 1966, dòng sông có một cây cầu đá cổ nhưng Tolkien đã thay đổi rất ít, điều đó có nghĩa là cuộc chạm trán với lũ troll xảy ra rất gần với sông Hoarwell. Trong *The Lord of the Rings*, Aragorn phải mất sáu ngày để đưa người hobbit đến mức mà Người Lùn đạt được trong một giờ. Vào năm 1960, Tolkien bắt đầu viết lại*The Hobbit*, lẽ ra sẽ đưa vào chuyến du hành cả ngày giữa dòng sông và lũ quỷ lùn, nhưng ông chưa bao giờ hoàn thành dự án này.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[5]</a></sup>
 
 ## Lưu ý về sông Rivendell {#Note_on_the_river_of_Rivendell}
 

@@ -62,7 +62,7 @@ Cùng với con trai út của mình, ông đã gửi thông điệp xấu tới
 
 ## Từ nguyên {#Etymology}
 
-Một số nhà phân tích đã nhận thấy sự giống nhau của *Hazad* với [Người lùn](../K/Khuzdul.md) *[Khazâd](../K/Khazâd.md)*, "Người Lùn" và [Adûnaic](../A/Adûnaic.md) *hazad*, "bảy". Khi đó, tên này sẽ có nghĩa là "Người lùn (có râu, nhỏ hơn)" hoặc "Đứa con thứ bảy", tuy nhiên, điều này vẫn là suy đoán.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Một số nhà phân tích đã nhận thấy sự giống nhau của *Hazad* với [Người Lùn](../K/Khuzdul.md) *[Khazâd](../K/Khazâd.md)*, "Người Lùn" và [Adûnaic](../A/Adûnaic.md) *hazad*, "bảy". Khi đó, tên này sẽ có nghĩa là "Người Lùn (có râu, nhỏ hơn)" hoặc "Đứa con thứ bảy", tuy nhiên, điều này vẫn là suy đoán.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

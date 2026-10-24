@@ -22,7 +22,7 @@ images:
 
 <b>1992-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/The_Grey_Mountains.md" title="The Grey Mountains">Các Dãy Núi Xám</a></i> & <i><a href="../H/Hands_of_the_Healer.md" title="Hands of the Healer">Hands of the Healer</a></i></b>
 
-<dl><dd>The <i><b>Silver Fir</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Celepthon</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Telpesono</i>), also known as <i>Argenak</i>, was a type of fir with silver-green needles, found in the Grey Mountains. Its sap, scraped from an incision in the bark, could be melted and mixed with wine to relieve severe constipation .<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>The <i><b>Silver Fir</b></i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> <i>Celepthon</i>, <a href="../Q/Quenya.md" title="Quenya">Q.</a> <i>Telpesono</i>), also known as <i>Argenak</i>, was a type of fir with silver-green needles, found in the Grey Mountains. Its sap, scraped from an incision in the bark, could be melted and mixed with wine to relieve severe constipation.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 <span></span>
 

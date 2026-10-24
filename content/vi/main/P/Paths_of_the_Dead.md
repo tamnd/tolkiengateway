@@ -73,7 +73,7 @@ Vào thời [Arvedui](../A/Arvedui.md), vị vua cuối cùng của [Arthedain](
 <p>Over the land there lies a long shadow,<br/>
 westward reaching wings of darkness.<br/>
 The Tower trembles; to the tombs of kings<br/>
-doom approaches.  The Dead awaken;<br/>
+doom approaches. The Dead awaken;<br/>
 for the hour is come for the oathbreakers:<br/>
 at the Stone of Erech they shall stand again<br/>
 and hear there a horn in the hills ringing.<br/>

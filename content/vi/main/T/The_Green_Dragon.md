@@ -45,7 +45,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="Ted_Sandyman.md" title="Ted Sandyman">Ted Sandyman</a> in <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="The_Shadow_of_the_Past.md" title="The Shadow of the Past">The Shadow of the Past</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**The Green Rồng** là một trong nhiều nhà trọ của [the Shire](The_Shire.md). Nó nằm ở [Bywater](../B/Bywater.md) trên [Bywater Đường](../B/Bywater_Road.md) và là tòa nhà gần [Hobbiton](../H/Hobbiton.md) nhất,<sup id="cite_ref-Scouring_1-0" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> cách cây cầu bắc qua [Mặt Nước](The_Water.md) dẫn đến [Bag End](../B/Bag_End.md).<sup id="cite_ref-Mutton_2-0" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup> một dặm về phía đông nam. Như vậy, có thể nhìn thấy [Hobbit](../H/Hobbits.md) từ cả hai ngôi làng ở đó.
+**The Green Rồng** là một trong nhiều nhà trọ của [Shire](The_Shire.md). Nó nằm ở [Bywater](../B/Bywater.md) trên [Bywater Đường](../B/Bywater_Road.md) và là tòa nhà gần [Hobbiton](../H/Hobbiton.md) nhất,<sup id="cite_ref-Scouring_1-0" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> cách cây cầu bắc qua [Mặt Nước](The_Water.md) dẫn đến [Bag End](../B/Bag_End.md).<sup id="cite_ref-Mutton_2-0" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup> một dặm về phía đông nam. Như vậy, có thể nhìn thấy [Hobbit](../H/Hobbits.md) từ cả hai ngôi làng ở đó.
 
 ## Lịch sử {#History}
 

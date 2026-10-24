@@ -13,7 +13,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>At the <a href="../G/Grey_Havens.md" title="Grey Havens">Grey Havens</a> dwelt <a class="mw-redirect" href="../C/Círdan_the_Shipwright.md" title="Círdan the Shipwright">Círdan the Shipwright</a>, and some say he dwells there still, until the Last Ship sets sail into the <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">West</a>.
+<p>At the <a href="../G/Grey_Havens.md" title="Grey Havens">Grey Havens</a> dwelt <a class="mw-redirect" href="../C/Círdan_the_Shipwright.md" title="Círdan the Shipwright">Círdan Shipwright</a>, and some say he dwells there still, until the Last Ship sets sail into the <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">West</a>.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a>, <i>Eriador, Arnor, and the Heirs of Isildur</i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -65,7 +65,7 @@ Hiển thị hậu duệ của Elros Tar-Minyatur. Tất cả thông tin trong c
 </li>
 <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Silmarien was the eldest child of Tar-Elendil but since the Sceptre by the law at that time went to the eldest male child, her brother Írimon became king.</span>
 </li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Tar-Aldarion had only one child, a daughter.  He altered the <a href="../L/Law_of_Succession_in_Númenor.md" title="Law of Succession in Númenor">Law of Succession in Númenor</a> so that the eldest daughter of a king could succeed.</span>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Tar-Aldarion had only one child, a daughter. He altered the <a href="../L/Law_of_Succession_in_Númenor.md" title="Law of Succession in Númenor">Law of Succession in Númenor</a> so that the eldest daughter of a king could succeed.</span>
 </li>
 <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">Erendis is said to have perished in water at the haven of <a href="../R/Rómenna.md" title="Rómenna">Rómenna</a>.</span>
 </li>
@@ -122,7 +122,7 @@ Hiển thị hậu duệ của Elros Tar-Minyatur. Tất cả thông tin trong c
 </li>
 <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">Tar-Atanamir the Great was also called &#34;the Unwilling&#34; since he was the first king to refuse to lay down his life or to renounce the Sceptre.</span>
 </li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Herucalmo, the husband of  Tar-Vanimeldë, took the sceptre upon her death, calling himself Tar-Anducal.  He was not counted in the Line of Kings as the 17th ruler.</span>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">Herucalmo, the husband of Tar-Vanimeldë, took the sceptre upon her death, calling himself Tar-Anducal. He was not counted in the Line of Kings as the 17th ruler.</span>
 </li>
 <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text">Tar-Calmacil was the first to be called (by the King&#39;s Men) by his name in Adûnaic: Ar-Belzagar.</span>
 </li>
@@ -130,9 +130,9 @@ Hiển thị hậu duệ của Elros Tar-Minyatur. Tất cả thông tin trong c
 </li>
 <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">Amandil sailed into the West in the year <a href="../S/Second_Age_3316.md" title="Second Age 3316">3316</a>, to seek clemency for Númenor; he was never heard from again.</span>
 </li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">Míriel should have been the fourth Ruling Queen, but upon the death of her father her cousin Pharazôn took her to wife against her will and usurped the sceptre.  She died in the Downfall.</span>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">Míriel should have been the fourth Ruling Queen, but upon the death of her father her cousin Pharazôn took her to wife against her will and usurped the sceptre. She died in the Downfall.</span>
 </li>
-<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">Ar-Pharazôn seized the sceptre from Míriel.  He died in the Downfall.</span>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text">Ar-Pharazôn seized the sceptre from Míriel. He died in the Downfall.</span>
 </li>
 </ol></div>
 

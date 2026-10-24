@@ -49,7 +49,7 @@ infobox:
 
 Bản thân những ngọn đồi là điểm cuối phía tây của [Andram](../A/Andram.md). Chính giữa những ngọn đồi này mà dòng suối [Ringwil](../R/Ringwil.md) dâng lên và đổ xuống sông chính.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ở sườn phía đông dốc phía trên Narog, có một mạng lưới hang động.<sup id="cite_ref-Return_3-0" class="reference"><a href="#cite_note-Return-3">[3]</a></sup>
 
-Vào thời cổ đại, những Hang động Narog này, được gọi là *[Nulukkizdîn](../N/Nulukkizdîn.md)*, từng là nhà của [Người lùn Nhỏ](../P/Petty-dwarves.md) những người đã bí mật cư trú ở đó<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> trước khi [Finrod](../F/Finrod.md) xuất hiện. Chuyện gì đã xảy ra với Petty-Người Lùn vào thời điểm này không được ghi lại, nhưng ít nhất một số đã trốn thoát đến cư trú tại [Amon Rûdh](../A/Amon_Rûdh.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vào thời cổ đại, những Hang động Narog này, được gọi là *[Nulukkizdîn](../N/Nulukkizdîn.md)*, từng là nhà của [Người Lùn Nhỏ](../P/Petty-dwarves.md) những người đã bí mật cư trú ở đó<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> trước khi [Finrod](../F/Finrod.md) xuất hiện. Chuyện gì đã xảy ra với Petty-Người Lùn vào thời điểm này không được ghi lại, nhưng ít nhất một số đã trốn thoát đến cư trú tại [Amon Rûdh](../A/Amon_Rûdh.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

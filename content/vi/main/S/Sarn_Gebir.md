@@ -42,7 +42,7 @@ Trong các bản thảo đầu tiên, Sarn Gebir là tên của vùng cao nguyê
 
 <b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
-<dl><dd>The ambush at the rapids of Sarn Gebir scene was intended to be in the film, to the point that an entire on-location set was built, but was not included in the final cut for one reason: before filming could begin on the set, record-breaking torrential rains and 20 foot high floodwaters washed away the entire set. So complete was the destruction that not even any wreckage of the set was <i>ever</i> found.  Without the time or funding to construct a new set, the scene had to be cut from the script.</dd></dl>
+<dl><dd>The ambush at the rapids of Sarn Gebir scene was intended to be in the film, to the point that an entire on-location set was built, but was not included in the final cut for one reason: before filming could begin on the set, record-breaking torrential rains and 20 foot high floodwaters washed away the entire set. So complete was the destruction that not even any wreckage of the set was <i>ever</i> found. Without the time or funding to construct a new set, the scene had to be cut from the script.</dd></dl>
 
 <b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 

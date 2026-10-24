@@ -227,7 +227,7 @@ Theo định kỳ, dưới dạng các bản phát hành đặc biệt cho sự 
 <tr>
 <td><i>The Ruins of Belegost</i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></td>
 <td>2015</td>
-<td>This scenario involves delving to what remains of <a href="../B/Belegost.md" title="Belegost">Belegost</a> in search of lost artifacts.  The ruins are filled with many perils, including a fire breathing dragon named Naurlhûg.
+<td>This scenario involves delving to what remains of <a href="../B/Belegost.md" title="Belegost">Belegost</a> in search of lost artifacts. The ruins are filled with many perils, including a fire breathing dragon named Naurlhûg.
 </td></tr>
 <tr>
 <td><i>Murder at the Prancing Pony</i><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></td>
@@ -239,13 +239,13 @@ Theo định kỳ, dưới dạng các bản phát hành đặc biệt cho sự 
 <tr>
 <td><i>The Siege of Annúminas</i><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup></td>
 <td>2016</td>
-<td>The scenario was the featured event of GenCon 2016 and the Fellowship Event 2016.  This scenario has the players attempting to save <a href="../A/Annúminas.md" title="Annúminas">Annúminas</a> against the assaulting forces of Angmar.  This scenario introduced &#34;epic multiplayer mode&#34; in which between three and twelve players play on three concurrent stages of the quest.  It was released to retail in 2017.
+<td>The scenario was the featured event of GenCon 2016 and the Fellowship Event 2016.  This scenario has the players attempting to save <a href="../A/Annúminas.md" title="Annúminas">Annúminas</a> against the assaulting forces of Angmar. This scenario introduced &#34;epic multiplayer mode&#34; in which between three and twelve players play on three concurrent stages of the quest. It was released to retail in 2017.
 </td></tr>
 <tr>
 <td><i>Assault on Dol Guldur</i> <sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></td>
 <td>2017</td>
 <td>
-<p>This scenario was the featured event of GenCon 2017 and the Fellowship Event 2017.  Like Siege of Annúminas, it also supports epic multiplayer mode.  In this scenario, the players take on the role the elves played in attacking <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> to defeat the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>.  It was not made available to retailers.
+<p>This scenario was the featured event of GenCon 2017 and the Fellowship Event 2017.  Like Siege of Annúminas, it also supports epic multiplayer mode. In this scenario, the players take on the role the elves played in attacking <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a> to defeat the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>.  It was not made available to retailers.
 </p>
 </td></tr>
 <tr>

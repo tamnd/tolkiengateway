@@ -198,7 +198,7 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 
 ### Phim {#Films}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>Wargs are seen as large wolves ridden by Goblins. They do not have a fear of fire.</dd></dl>
 
@@ -238,7 +238,7 @@ Tolkien cũng lưu ý rằng [Gene Wolfe](../G/Gene_Wolfe.md), một trong nhữ
 
 <dl><dd>Wargs, including Wargs ridden by <a href="../O/Orcs.md" title="Orcs">Orcs and Goblins</a>, are a common enemy found throughout the game. &#34;Warg Stalkers&#34; are one of the Monster Player classes available for Player versus Monster Player combat in the <a href="../E/Ettenmoors.md" title="Ettenmoors">Ettenmoors</a>. Monster Player Wargs rely on stealth to ambush players, and some computer-controlled Wargs also demonstrate this ability.</dd></dl>
 
-<dl><dd>They look and fight rather like <a href="Wolves.md" title="Wolves">Wolves</a>, and both are classified as Beasts, but Wargs are of a distinct type and appearance , being more monstrous than ordinary wolves. Their appearances vary, typically depending on region, and Warg Stalkers can acquire and choose from several such cosmetic appearances.</dd></dl>
+<dl><dd>They look and fight rather like <a href="Wolves.md" title="Wolves">Wolves</a>, and both are classified as Beasts, but Wargs are of a distinct type and appearance, being more monstrous than ordinary wolves. Their appearances vary, typically depending on region, and Warg Stalkers can acquire and choose from several such cosmetic appearances.</dd></dl>
 
 ## Xem thêm {#See_also}
 

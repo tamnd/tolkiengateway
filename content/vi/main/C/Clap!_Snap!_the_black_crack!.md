@@ -45,7 +45,7 @@ And down down to Goblin-town<br/>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>When the <a href="../O/Orcs.md" title="Orcs">Goblins</a> ambush <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> in the cave, they sing a version of the song. It is titled on <a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">the soundtrack</a> &#34;<a href="../D/Down,_Down,_To_Goblin_Town.md" title="Down, Down, To Goblin Town">Down, Down, To Goblin Town</a>&#34;.</dd></dl>
 
@@ -82,7 +82,7 @@ Ho, ho! my lad!
 </p>
 </div>
 
-<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
+<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình năm 1985)</a></b>
 
 <dl><dd>The song is sang by the goblins as they capture the company. It has minor differences from the version written in the book translation that the film is based upon,</dd></dl>
 

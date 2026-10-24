@@ -82,7 +82,7 @@ Các bản cập nhật bao gồm (<a class="external text" href="http://loreboo
 
 Quyển 2 được phát hành vào ngày [10 tháng Chín](../_/10_September.md), [2010](../_/2010.md) tại Bắc Mỹ. ([8 tháng Chín](../_/8_September.md), [2010](../_/2010.md) dành cho người đăng ký). Phim đã bị trì hoãn ở châu Âu vì lý do hợp đồng và cuối cùng đã được phát hành vào [ngày 2 tháng 11](../_/2_November.md), gần hai tháng sau Bắc Mỹ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Công ty Grey](../G/Grey_Company.md) bắt đầu hành trình về phía nam và đến [Enedwaith](../E/Enedwaith.md). [Halbarad](../H/Halbarad.md) đã tạo ra các bản sao giả của [Chiếc nhẫn Barahir](../R/Ring_of_Barahir.md), để câu giờ [Aragorn](../A/Aragorn.md) trong trường hợp một trong những người trong Công ty Xám bị bắt. Trong Enedwaith, họ phát hiện ra một Người lùn cũ và bối rối, [Nár](../N/Nár.md), cha của Ollfardh và là bạn đồng hành của [Thrór](Thrór.md). Trước sự ngạc nhiên của mọi người, ông biết về con đường bí mật mà Công ty đang định đi.
+[Công ty Grey](../G/Grey_Company.md) bắt đầu hành trình về phía nam và đến [Enedwaith](../E/Enedwaith.md). [Halbarad](../H/Halbarad.md) đã tạo ra các bản sao giả của [Chiếc nhẫn Barahir](../R/Ring_of_Barahir.md), để câu giờ [Aragorn](../A/Aragorn.md) trong trường hợp một trong những người trong Công ty Xám bị bắt. Trong Enedwaith, họ phát hiện ra một Người Lùn cũ và bối rối, [Nár](../N/Nár.md), cha của Ollfardh và là bạn đồng hành của [Thrór](Thrór.md). Trước sự ngạc nhiên của mọi người, ông biết về con đường bí mật mà Công ty đang định đi.
 
 Đã bao gồm các bản cập nhật (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Volume_3_Book_2_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 
@@ -112,7 +112,7 @@ Cập nhật bao gồm:
 
 Quyển III được phát hành cùng với **Bản cập nhật 2**, phát hành vào [21 tháng 3](../_/21_March.md) tại Hoa Kỳ và [24 tháng 3](../_/24_March.md) tại Châu Âu.
 
-Trong khi điều tra xem ai có thể tin cậy được và ai không thể, [Rangers](../R/Rangers_of_the_North.md) nhận được tin rằng có một nhóm Kẻ phá lời thề từ Erech ở Enedwaith. Nỗ lực nhắc nhở họ về Lời Thề đến Isildur của họ đã thất bại thảm hại khi Candaith bị giết. [Halbarad](../H/Halbarad.md) muốn dẫn dắt công ty đến [Dunland](../D/Dunland.md), nhưng khi họ rời đi [Nár](../N/Nár.md), Người lùn tiết lộ rằng [Saruman phe Trắng](../S/Saruman.md) đã nhúng tay vào những sự kiện này từ lâu.
+Trong khi điều tra xem ai có thể tin cậy được và ai không thể, [Rangers](../R/Rangers_of_the_North.md) nhận được tin rằng có một nhóm Kẻ phá lời thề từ Erech ở Enedwaith. Nỗ lực nhắc nhở họ về Lời Thề đến Isildur của họ đã thất bại thảm hại khi Candaith bị giết. [Halbarad](../H/Halbarad.md) muốn dẫn dắt công ty đến [Dunland](../D/Dunland.md), nhưng khi họ rời đi [Nár](../N/Nár.md), Người Lùn tiết lộ rằng [Saruman phe Trắng](../S/Saruman.md) đã nhúng tay vào những sự kiện này từ lâu.
 
 Cập nhật bao gồm:
 

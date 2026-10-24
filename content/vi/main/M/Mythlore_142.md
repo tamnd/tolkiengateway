@@ -59,7 +59,7 @@ infobox:
 
 - Croft, Janet Brennan. Biên tập.
 - Burriss, Larry L. Sentience and Sapience in the One Ring: The Reality of Tolkien’s Master Ring.
-- Costabile, Giovanni Carmine. Chiếc Nhẫn Duy Nhất của Vua Solomon.
+- Costabile, Giovanni Carmine. Nhẫn Chúa của Vua Solomon.
 - Flieger, Verlyn. Rồng và Nhà ga xe lửa.
 
 #### Đánh giá {#Reviews}

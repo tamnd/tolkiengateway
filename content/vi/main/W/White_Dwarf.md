@@ -19,7 +19,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/White_Dwarf_365.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4f/White_Dwarf_365.png/300px-White_Dwarf_365.png" decoding="async" loading="lazy" width="300" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4f/White_Dwarf_365.png/450px-White_Dwarf_365.png 1.5x, https://tolkiengateway.net/w/images/4/4f/White_Dwarf_365.png 2x" data-file-width="454" data-file-height="627"/></a><figcaption>Cover of <i>White Dwarf</i> #365, 2010</figcaption></figure>
 
-<i><b>White Người lùn</b></i> (thành lập [1977](../_/1977.md)) là tạp chí trò chơi được xuất bản bởi [Games Workshop](../G/Games_Workshop.md).
+<i><b>White Người Lùn</b></i> (thành lập [1977](../_/1977.md)) là tạp chí trò chơi được xuất bản bởi [Games Workshop](../G/Games_Workshop.md).
 
 ## Lịch sử {#History}
 
@@ -82,8 +82,8 @@ Nhiều số của *White Dwarf* có tài liệu liên quan đến chuyển th�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/White_Dwarf_(magazine)" title="wikipedia:White Dwarf (magazine)">Trắng Người lùn (tạp chí)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- **Bài viết Người lùn trắng** trắng tại <a class="external text" href="https://lexicanum.com/" rel="noreferrer noopener" target="_blank">Lexicanum</a>:
+- <a class="extiw" href="http://en.wikipedia.org/wiki/White_Dwarf_(magazine)" title="wikipedia:White Dwarf (magazine)">Trắng Người Lùn (tạp chí)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- **Bài viết Người Lùn trắng** trắng tại <a class="external text" href="https://lexicanum.com/" rel="noreferrer noopener" target="_blank">Lexicanum</a>:
     - (<a class="external text" href="https://wh40k.lexicanum.com/wiki/White_Dwarf" rel="noreferrer noopener" target="_blank">Warhammer 40.000</a>);
     - (<a class="external text" href="https://whfb.lexicanum.com/wiki/White_Dwarf" rel="noreferrer noopener" target="_blank">Trận chiến giả tưởng Warhammer</a>)
 

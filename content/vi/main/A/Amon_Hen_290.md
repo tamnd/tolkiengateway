@@ -47,7 +47,7 @@ infobox:
 - **9** - Tolkien Kho bạc số 3 của Chad High
 - **12** - “Something Mighty Queer” của Danna Petersen-Deeprose
 - **17** - Đi tìm nét nữ tính trong Tolkien của Kathrin Heierl
-- Giữa: Người lùn Phụ nữ của Kathrin Heierli
+- Giữa: Người Lùn Phụ nữ của Kathrin Heierli
 - **21** - Thùng ríu rít, rên rỉ, càu nhàu của Sultana Raza
 - **22** - “Trung Địa ở Thế giới mới” của Martha Celis-Mendoza và cộng sự.
 - **28** - “Người thực J.R.R. Tolkien: Người đã tạo ra Trung Địa”

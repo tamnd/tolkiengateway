@@ -66,7 +66,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Halbarad trải qua những năm tháng đầu đời canh giữ biên giới của [the Shire](../T/The_Shire.md).
+Halbarad trải qua những năm tháng đầu đời canh giữ biên giới của [Shire](../T/The_Shire.md).
 
 Trong [War of the Ring](../W/War_of_the_Ring.md), Halbarad được phái đi trợ giúp [Aragorn](../A/Aragorn.md), vị [Chieftain](../C/Chieftains_of_the_Dúnedain.md) của mình. Từ [Eriador](../E/Eriador.md), ông dẫn đầu một nhóm gồm ba mươi Kỵ sĩ Du mục, tự xưng là [Grey Company](../G/Grey_Company.md). Cùng cưỡi ngựa với họ còn có [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md), hai người con trai của [Elrond](../E/Elrond.md). Trong đêm giữa ngày [5](../_/5_March.md) và [6 tháng 3](../_/6_March.md), Đội quân gặp Aragorn tại [Dol Baran](../D/Dol_Baran.md). Halbarad trao cho người bà con của mình một lá cờ hiệu, món quà từ [Arwen](../A/Arwen.md), cùng một thông điệp triệu gọi ông đi theo [Paths of the Dead](../P/Paths_of_the_Dead.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

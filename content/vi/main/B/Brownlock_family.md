@@ -24,7 +24,7 @@ langlinks:
     url: "https://kontu.wiki/Ruskokutri"
 ---
 
-**Gia đình Brownlock** là một gia đình [Hobbit](../H/Hobbits.md) từ [the Shire](../T/The_Shire.md). Chỉ có một thành viên được biết đến, [Gilly Brownlock](../G/Gilly_Brownlock.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gia đình Brownlock** là một gia đình [Hobbit](../H/Hobbits.md) từ [Shire](../T/The_Shire.md). Chỉ có một thành viên được biết đến, [Gilly Brownlock](../G/Gilly_Brownlock.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

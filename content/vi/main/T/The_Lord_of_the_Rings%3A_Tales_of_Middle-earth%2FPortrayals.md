@@ -386,7 +386,7 @@ Mỗi thẻ được sắp xếp theo trọng tâm chính của tác phẩm ngh�
 <h2><span class="mw-headline" id="Lindon"><a href="../L/Lindon.md" title="Lindon">Lindon</a></span></h2>
 <ul><li>Inhabitants
 <ul><li><a href="../C/Círdan.md" title="Círdan">Círdan</a>
-<ul><li><a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=620736" rel="noreferrer noopener" target="_blank">Círdan the Shipwright</a></li></ul></li></ul></li>
+<ul><li><a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=620736" rel="noreferrer noopener" target="_blank">Círdan Shipwright</a></li></ul></li></ul></li>
 <li>Other
 <ul><li><a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=620038" rel="noreferrer noopener" target="_blank">Elvish Mariner</a></li></ul></li>
 <li>Locations

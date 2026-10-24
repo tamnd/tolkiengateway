@@ -26,11 +26,11 @@ langlinks:
     url: "https://kontu.wiki/Gamgi"
 ---
 
-**Gia đình Gamgee** là một gia đình lâu đời của [the Shire](../T/The_Shire.md), xuất thân từ làng [Gamwich](Gamwich.md). Một nhánh là [gia đình Roper](../R/Roper_family.md). [Samwise Gamgee](../S/Samwise_Gamgee.md) của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) thuộc về gia đình này, mặc dù chi nhánh của ông đã được đổi tên thành [Gardner](Gardner_family.md) để vinh danh việc ông trồng lại Shire. Một nhánh khác, theo chế độ mẫu hệ, là [gia đình Fairbairn](../F/Fairbairn_family.md).<sup id="cite_ref-long_1-0" class="reference"><a href="#cite_note-long-1">[1]</a></sup>
+**Gia đình Gamgee** là một gia đình lâu đời của [Shire](../T/The_Shire.md), xuất thân từ làng [Gamwich](Gamwich.md). Một nhánh là [gia đình Roper](../R/Roper_family.md). [Samwise Gamgee](../S/Samwise_Gamgee.md) của [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) thuộc về gia đình này, mặc dù chi nhánh của ông đã được đổi tên thành [Gardner](Gardner_family.md) để vinh danh việc ông trồng lại Shire. Một nhánh khác, theo chế độ mẫu hệ, là [gia đình Fairbairn](../F/Fairbairn_family.md).<sup id="cite_ref-long_1-0" class="reference"><a href="#cite_note-long-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-"Gamgee" bắt nguồn từ tên trước đó *[Gammidgy](Gammidgy.md)*, ám chỉ ngôi làng [Gamwich](Gamwich.md) của [the Shire](../T/The_Shire.md). "Gamgee" là bản dịch Anh hóa của [Hobbitish](../H/Hobbitish.md) họ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Galpsi&amp;action=edit&amp;redlink=1" title="Galpsi (page does not exist)">Galpsi</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+"Gamgee" bắt nguồn từ tên trước đó *[Gammidgy](Gammidgy.md)*, ám chỉ ngôi làng [Gamwich](Gamwich.md) của [Shire](../T/The_Shire.md). "Gamgee" là bản dịch Anh hóa của [Hobbitish](../H/Hobbitish.md) họ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Galpsi&amp;action=edit&amp;redlink=1" title="Galpsi (page does not exist)">Galpsi</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cây bố già của Thầy Samwise {#The_Longfather–Tree_of_Master_Samwise}
 

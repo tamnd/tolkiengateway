@@ -22,7 +22,7 @@ sort_keys:
 
 ## Giải thưởng {#Awards}
 
-- [1977](../_/1977.md) - <i><a class="external text" href="http://en.wikipedia.org/wiki/Peabody_Award" rel="noreferrer noopener" target="_blank">Giải Peabody</a></i>, Phim hay nhất, [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>)
+- [1977](../_/1977.md) - <i><a class="external text" href="http://en.wikipedia.org/wiki/Peabody_Award" rel="noreferrer noopener" target="_blank">Giải Peabody</a></i>, Phim hay nhất, [*The Hobbit* (phim năm 1977)](<../T/The_Hobbit_(1977_film).md>)
 
 <span></span>
 

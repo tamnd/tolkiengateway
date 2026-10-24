@@ -52,13 +52,13 @@ infobox:
 ### Bài viết {#Articles}
 
 - [1979](../_/1979.md): [*Amon Hen* 38](../A/Amon_Hen_38.md)
-    - "Một ghi chú về địa lý của [Kỷ nguyên thứ Nhất](../F/First_Age.md)"
+    - "Một ghi chú về địa lý của [Kỷ Đệ Nhất](../F/First_Age.md)"
 - [1982](../_/1982.md): [*Amon Hen* 57](../A/Amon_Hen_57.md)
     - "Và họ vẫn tiếp tục đến"
 - [1988](../_/1988.md): [*Amon Hen* 91](../A/Amon_Hen_91.md)
     - “‘Tolkien được xem xét lại’: Một bài nói chuyện của [Humphrey Carpenter](../H/Humphrey_Carpenter.md) tại Lễ hội Văn học Cheltenham,”
 - [1990](../_/1990.md): [*Mallorn* 27](../M/Mallorn_27.md)
-    - "Một ghi chú về địa lý của Kỷ nguyên thứ Nhất" (in lại từ *Amon Hen* 38)
+    - "Một ghi chú về địa lý của Kỷ Đệ Nhất" (in lại từ *Amon Hen* 38)
 - [1990](../_/1990.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Long-expected_Party:_Progress_Report_1&amp;action=edit&amp;redlink=1" title="A Long-expected Party: Progress Report 1 (page does not exist)"><i>A Long-expected Party: Progress Report</i> 1</a>
     - "Những ngày đầu của Hội Tolkien"
 - [1991](../_/1991.md): *[Leaves from the Tree](../L/Leaves_from_the_Tree.md)*

@@ -34,7 +34,7 @@ infobox:
 
 ## Lô đồ {#Plot}
 
-Trong [Kỷ Đệ Tứ](../F/Fourth_Age.md), được Chúa [Gimli](../G/Gimli.md) triệu tập đến [Dãy Núi Sương Mù](../M/Misty_Mountains.md), một đại đội [Người Lùn](../D/Dwarves.md) được giao nhiệm vụ đòi lại những chiến lợi phẩm bị mất từ ​​quê hương Người lùn của [Moria](../M/Moria.md). Vì [Cánh cửa Durin](../D/Doors_of_Durin.md) không mở nên họ dùng thuốc nổ để đột nhập vào Moria. Sau đó, sàn nhà sụp xuống và nhân vật chính bị mắc kẹt, tìm thấy các rune bóng tối đang bịt kín các cánh cửa đóng lại từ bên trong. Sau đó, nhân vật chính được giao nhiệm vụ tìm đường sang phía bên kia của Moria và cổng phía đông để trốn thoát.
+Trong [Kỷ Đệ Tứ](../F/Fourth_Age.md), được Chúa [Gimli](../G/Gimli.md) triệu tập đến [Dãy Núi Sương Mù](../M/Misty_Mountains.md), một đại đội [Người Lùn](../D/Dwarves.md) được giao nhiệm vụ đòi lại những chiến lợi phẩm bị mất từ ​​quê hương Người Lùn của [Moria](../M/Moria.md). Vì [Cánh cửa Durin](../D/Doors_of_Durin.md) không mở nên họ dùng thuốc nổ để đột nhập vào Moria. Sau đó, sàn nhà sụp xuống và nhân vật chính bị mắc kẹt, tìm thấy các rune bóng tối đang bịt kín các cánh cửa đóng lại từ bên trong. Sau đó, nhân vật chính được giao nhiệm vụ tìm đường sang phía bên kia của Moria và cổng phía đông để trốn thoát.
 
 ## Cách chơi {#Gameplay}
 

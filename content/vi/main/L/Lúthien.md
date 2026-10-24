@@ -176,7 +176,7 @@ Trong các tác phẩm đầu tiên, [Doriathrin](../D/Doriathrin.md) *Luthien* 
 Lúthien phần lớn được lấy cảm hứng từ [Edith Bratt](../E/Edith_Bratt.md) và khi bà qua đời, Tolkien đã yêu cầu con trai mình [Christopher](../C/Christopher_Tolkien.md) khắc *Lúthien* vào bia mộ của bà, vì cậu coi bà là " Lúthien của tôi."<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>I never called Edith &#39;Lúthien&#39; – but she was the source of the story that in time became  the chief pan of the Silmarillion. It was first conceived in a small woodland glade filled with hemlocks at Roos in Yorkshire (where I was for a brief time in command of an outpost of the Humber Garrison in <a href="../_/1917.md" title="1917">1917</a>, and she was able to live with me for a while). In those days her hair was raven, her skin clear, her eyes brighter than you have seen them, and she could sing – and  dance. But the story has gone crooked, &amp; I am left, and I cannot plead before the inexorable Mandos.
+<p>I never called Edith &#39;Lúthien&#39; – but she was the source of the story that in time became the chief pan of the Silmarillion. It was first conceived in a small woodland glade filled with hemlocks at Roos in Yorkshire (where I was for a brief time in command of an outpost of the Humber Garrison in <a href="../_/1917.md" title="1917">1917</a>, and she was able to live with me for a while). In those days her hair was raven, her skin clear, her eyes brighter than you have seen them, and she could sing – and dance. But the story has gone crooked, &amp; I am left, and I cannot plead before the inexorable Mandos.
 </p>
 <p class="tg-quote-footer"><cite><a href="Letter_340.md" title="Letter 340">Letter 340</a></cite></p>
 </blockquote>
@@ -199,7 +199,7 @@ Trước khi tên này được gán cho Tiên-người giúp việc, tên *Lút
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> recites the first five lines of <a href="../S/Song_of_Beren_and_Lúthien.md" title="Song of Beren and Lúthien">the Song of Beren and Lúthien</a>, accompanied by <a href="../E/Elves.md" title="Elves">Elven</a> musicians, in <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a> before he is cut off by <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>&#39;s arrival:</dd></dl>
 

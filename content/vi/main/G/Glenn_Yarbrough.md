@@ -26,7 +26,7 @@ sort_keys:
   "Singers": "Yarbrough, Glenn"
 ---
 
-**Glenn Yarbrough** ([12 tháng 1](../_/12_January.md), [1930](../_/1930.md) - [11 tháng 8](../_/11_August.md), [2016](../_/2016.md)) là nhà soạn nhạc và biểu diễn âm nhạc của [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>) và *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)*. Các bài hát của anh bao gồm "[Cuộc phiêu lưu vĩ đại nhất](../T/The_Greatest_Adventure.md)", "[Frodo of the Nine Fingers](../F/Frodo_of_the_Nine_Fingers.md)" và "[Where There a Whip, There's a Way](../W/Where_There's_a_Whip,_There's_a_Way.md)". Trong *The Return of the King*, anh cũng là người lồng tiếng cho "[Minstrel of Gondor](../M/Minstrel_of_Gondor.md)", một nhân vật hát câu chuyện của bộ phim cho [Bilbo](../B/Bilbo_Baggins.md) và [Elrond](../E/Elrond.md) trong [Rivendell](../R/Rivendell.md).
+**Glenn Yarbrough** ([12 tháng 1](../_/12_January.md), [1930](../_/1930.md) - [11 tháng 8](../_/11_August.md), [2016](../_/2016.md)) là nhà soạn nhạc và biểu diễn âm nhạc của [*The Hobbit* (phim năm 1977)](<../T/The_Hobbit_(1977_film).md>) và *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)*. Các bài hát của anh bao gồm "[Cuộc phiêu lưu vĩ đại nhất](../T/The_Greatest_Adventure.md)", "[Frodo of the Nine Fingers](../F/Frodo_of_the_Nine_Fingers.md)" và "[Where There a Whip, There's a Way](../W/Where_There's_a_Whip,_There's_a_Way.md)". Trong *The Return of the King*, anh cũng là người lồng tiếng cho "[Minstrel of Gondor](../M/Minstrel_of_Gondor.md)", một nhân vật hát câu chuyện của bộ phim cho [Bilbo](../B/Bilbo_Baggins.md) và [Elrond](../E/Elrond.md) trong [Rivendell](../R/Rivendell.md).
 
 ## Danh sách đĩa {#Discography}
 

@@ -93,7 +93,7 @@ infobox:
 
 **Legolas** là một [Silvan Tiên](../S/Silvan_Elves.md) nguồn gốc [Sindarin](../S/Sindar.md), hoàng tử của [Vương quốc Rừng](../W/Woodland_Realm.md) [Mirkwood](../M/Mirkwood.md). Ông nội [Oropher](../O/Oropher.md) của anh là vua của [Sindar](../S/Sindar.md) của [Doriath](../D/Doriath.md), và cha của anh [Thranduil](../T/Thranduil.md) là vua của Mirkwood ([Greenwood the Great](../G/Greenwood_the_Great.md)). Ngày sinh của ông vẫn chưa được biết, cũng như những chiến công đầu tiên của ông. Vai diễn đáng chú ý nhất của anh là vai diễn trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), trong đó anh đại diện cho [Tiên](../E/Elves.md) trong [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md). Những khả năng Tiên của anh, chẳng hạn như thị lực và thính giác siêu việt, đôi chân nhẹ nhàng và khả năng bắn cung điêu luyện, là vô giá đối với tám người bạn đồng hành của anh.
 
-Tình bạn không tưởng của Legolas với [Người lùn](../D/Dwarves.md), [Gimli](../G/Gimli.md) con trai của [Glóin](../G/Glóin.md) được coi là kỳ quặc. Vì tình bạn như vậy rất hiếm giữa hai chủng tộc, do những bất bình lâu dài giữa [Người Lùn](../D/Dwarves.md) và [Tiên tộc](../E/Elves.md) kể từ [Ngày của Người cao tuổi](../E/Elder_Days.md). Và, khó có thể xảy ra vì mối hận thù giữa hai nhà cụ thể của họ về việc đối xử thô bạo với Glóin và phần còn lại của công ty [Thorin Oakenshield](../T/Thorin_Oakenshield.md) đã được Thranduil đưa ra vào một dịp trước đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tình bạn không tưởng của Legolas với [Người Lùn](../D/Dwarves.md), [Gimli](../G/Gimli.md) con trai của [Glóin](../G/Glóin.md) được coi là kỳ quặc. Vì tình bạn như vậy rất hiếm giữa hai chủng tộc, do những bất bình lâu dài giữa [Người Lùn](../D/Dwarves.md) và [Tiên tộc](../E/Elves.md) kể từ [Ngày của Người cao tuổi](../E/Elder_Days.md). Và, khó có thể xảy ra vì mối hận thù giữa hai nhà cụ thể của họ về việc đối xử thô bạo với Glóin và phần còn lại của công ty [Thorin Oakenshield](../T/Thorin_Oakenshield.md) đã được Thranduil đưa ra vào một dịp trước đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -177,7 +177,7 @@ Trước sự thúc giục của Aragorn, Legolas đã ở lại [Minas Tirith](
 
 Vào đầu Kỷ Đệ Tứ Legolas đưa [Tiên tộc về phía nam từ Rừng Xanh](../E/Elves_of_Mirkwood.md), và họ cư trú ở Ithilien, nơi một lần nữa trở thành đất nước công bằng nhất ở tất cả các vùng đất phía tây.<sup id="cite_ref-Durin_22-0" class="reference"><a href="#cite_note-Durin-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1080</sup> Trong thời gian ở Ithilien, Legolas đã nghĩ ra những khu vườn nổi tiếng cho ngôi nhà mới của Thân vương Faramir ở Hills of [Emyn Arnen](../E/Emyn_Arnen.md).<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>
 
-Legolas và [Yêu tinh rừng](../S/Silvan_Elves.md) sau đó đã hợp tác với Gimli và Người lùn để xây dựng lại và cải thiện [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Durin_22-1" class="reference"><a href="#cite_note-Durin-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1080</sup> Sau khi Vua Elessar qua đời ở [Fo.A.](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md), Legolas đã đóng một con tàu màu xám ở Ithilien và đi xuôi dòng Anduin rồi tiến vào vùng [Tây](../A/Aman.md),<sup id="cite_ref-AppB_24-0" class="reference"><a href="#cite_note-AppB-24">[24]</a></sup> được cho là đã đưa Gimli đi cùng.<sup id="cite_ref-Durin_22-2" class="reference"><a href="#cite_note-Durin-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1081</sup><sup id="cite_ref-AppB_24-1" class="reference"><a href="#cite_note-AppB-24">[24]</a></sup>
+Legolas và [Yêu tinh rừng](../S/Silvan_Elves.md) sau đó đã hợp tác với Gimli và Người Lùn để xây dựng lại và cải thiện [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Durin_22-1" class="reference"><a href="#cite_note-Durin-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1080</sup> Sau khi Vua Elessar qua đời ở [Fo.A.](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md), Legolas đã đóng một con tàu màu xám ở Ithilien và đi xuôi dòng Anduin rồi tiến vào vùng [Tây](../A/Aman.md),<sup id="cite_ref-AppB_24-0" class="reference"><a href="#cite_note-AppB-24">[24]</a></sup> được cho là đã đưa Gimli đi cùng.<sup id="cite_ref-Durin_22-2" class="reference"><a href="#cite_note-Durin-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1081</sup><sup id="cite_ref-AppB_24-1" class="reference"><a href="#cite_note-AppB-24">[24]</a></sup>
 
 ## Đặc điểm {#Characteristics}
 
@@ -195,7 +195,7 @@ Tại Rivendell, Legolas mặc trang phục màu xanh lá cây và nâu,<sup id=
 
 ### Tính cách {#Personality}
 
-Legolas thể hiện sự vui vẻ gần như không thể kìm nén được trong suốt hành trình, băng qua Caradhras và cả Đường Người Chết mà không hề do dự hay phàn nàn. Bản chất trẻ trung của ông có thể được nhìn thấy qua cách ông nói về những "người đàn ông mạnh mẽ" trên Caradhras, những người Boromir (nghĩa là chính ông và Aragorn) đã nói rằng có thể tìm ra lối thoát qua tuyết.<sup id="cite_ref-South_4-3" class="reference"><a href="#cite_note-South-4">[4]</a></sup> Ông có lẽ được nhớ đến nhiều nhất với tình bạn với Gimli Người lùn, và chính trong tình bạn này, chúng ta thấy được sự chung thủy cũng như tình yêu cái đẹp của ông. Lời nói của Gimli đã khiến anh cảm động khi người lùn nói về [Hang động lấp lánh](../G/Glittering_Caves.md).<sup id="cite_ref-Road_16-1" class="reference"><a href="#cite_note-Road-16">[16]</a></sup>
+Legolas thể hiện sự vui vẻ gần như không thể kìm nén được trong suốt hành trình, băng qua Caradhras và cả Đường Người Chết mà không hề do dự hay phàn nàn. Bản chất trẻ trung của ông có thể được nhìn thấy qua cách ông nói về những "người đàn ông mạnh mẽ" trên Caradhras, những người Boromir (nghĩa là chính ông và Aragorn) đã nói rằng có thể tìm ra lối thoát qua tuyết.<sup id="cite_ref-South_4-3" class="reference"><a href="#cite_note-South-4">[4]</a></sup> Ông có lẽ được nhớ đến nhiều nhất với tình bạn với Gimli Người Lùn, và chính trong tình bạn này, chúng ta thấy được sự chung thủy cũng như tình yêu cái đẹp của ông. Lời nói của Gimli đã khiến anh cảm động khi người lùn nói về [Hang động lấp lánh](../G/Glittering_Caves.md).<sup id="cite_ref-Road_16-1" class="reference"><a href="#cite_note-Road-16">[16]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -281,11 +281,11 @@ Trong khi viết *The Lord of the Rings*, Tolkien lần đầu tiên coi [Glorfi
 
 <dl><dd><a href="../F/Frank_Duncan.md" title="Frank Duncan">Frank Duncan</a> was the voice of Legolas.</dd></dl>
 
-<b>1971: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim 1971)</a>:</b>
+<b>1971: <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i> (phim năm 1971)</a>:</b>
 
 <dl><dd>Legolas is chosen as the elf representative of the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a>. Legolas walks behind the other members of the Fellowship, as his eyesight is superior.</dd></dl>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Legolas was voiced by <a href="../A/Anthony_Daniels.md" title="Anthony Daniels">Anthony Daniels</a>. In the film, he takes <a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a>&#39;s place in the Flight to the Ford sequence; he meets Strider and the hobbits on their way to <a href="../R/Rivendell.md" title="Rivendell">Rivendell</a>, and sets Frodo on his horse before he is chased by the Nazgûl to the ford of <a href="../B/Bruinen.md" title="Bruinen">Bruinen</a>. Here, he is apparently from Rivendell, because he answers to Elrond; he is not identified as a Wood-elf.</dd></dl>
 
@@ -293,7 +293,7 @@ Trong khi viết *The Lord of the Rings*, Tolkien lần đầu tiên coi [Glorfi
 
 <dl><dd><a href="../J/John_Vickery.md" title="John Vickery">John Vickery</a> provided the voice of Legolas.</dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>Neither Legolas nor Gimli appeared in this film, as they were essentially followers irrelevant to the plot.</dd></dl>
 

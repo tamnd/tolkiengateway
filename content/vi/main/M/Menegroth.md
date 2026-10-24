@@ -66,7 +66,7 @@ infobox:
 
 ## Năm Cây {#Years_of_the_Trees}
 
-Trong thời kỳ [Xây dựng Melkor](../C/Chaining_of_Melkor.md), [Sindar](../S/Sindar.md) đã sống rải rác ở Beleriand, một số tại nơi ẩn náu của [Falas](../F/Falas.md), số khác trong rừng [Region](../R/Region.md) và [Neldoreth](../N/Neldoreth.md), nơi Vua [Thingol](../T/Thingol.md) của họ và nữ hoàng [Melian](Melian.md) của hắn cư trú. Khi Thời đại thứ ba của Melkor bắt đầu bị xiềng xích, Melian đã thúc giục Thingol xây dựng một nơi nhanh chóng cho người dân của họ. Thingol có quan hệ thân thiện với Người Lùn và ông đã ủy quyền cho [Người Lùn Belegost](../D/Dwarves_of_Belegost.md) hỗ trợ xây dựng một pháo đài.
+Trong thời kỳ [Xây dựng Melkor](../C/Chaining_of_Melkor.md), [Sindar](../S/Sindar.md) đã sống rải rác ở Beleriand, một số tại nơi ẩn náu của [Falas](../F/Falas.md), số khác trong rừng [Region](../R/Region.md) và [Neldoreth](../N/Neldoreth.md), nơi Vua [Thingol](../T/Thingol.md) của họ và nữ hoàng [Melian](Melian.md) của hắn cư trú. Khi Kỷ Đệ Tam của Melkor bắt đầu bị xiềng xích, Melian đã thúc giục Thingol xây dựng một nơi nhanh chóng cho người dân của họ. Thingol có quan hệ thân thiện với Người Lùn và ông đã ủy quyền cho [Người Lùn Belegost](../D/Dwarves_of_Belegost.md) hỗ trợ xây dựng một pháo đài.
 
 Theo cách của Người Lùn, họ đào một pháo đài dưới lòng đất vào một ngọn đồi đá bên bờ [Esgalduin](../E/Esgalduin.md), nơi con sông quay về phía tây. Lối vào duy nhất là những cánh cổng cao trên sông, nơi này chạy trong một khe núi sâu và được bắc qua bởi một cây cầu đá. Sau đó, nơi này được gọi là Menegroth, Ngàn Hang Động, bởi vì có rất nhiều hội trường mà Người Lùn đã đẽo từ đá.
 
@@ -86,7 +86,7 @@ Với sự giúp đỡ của Lúthien, Beren đã thành công nhưng cái giá 
 
 Nhiều năm sau, [Húrin Thalion](../H/Húrin_Thalion.md) đã mang đến làm quà, dù trong lòng rất cay đắng, chiếc vòng cổ nổi tiếng của người lùn [Nauglamír](../N/Nauglamír.md) tới Thingol. Thingol sau đó đã bị vẻ đẹp của Silmaril mê hoặc và trong đầu anh đã lên kế hoạch đặt Silmaril thành Nauglamír. Chuyện xảy ra là vào lúc này một đội quân [Người Lùn từ Nogrod](../D/Dwarves_of_Nogrod.md) đang ở trong Menegroth. Thingol đưa ra mức giá cao cho họ nếu họ đặt được viên đá vào Nauglamír. Nhưng khi nhìn thấy viên ngọc quý và chiếc vòng cổ vô song, họ nảy sinh ham muốn và lòng tham muốn sở hữu cả hai. Khi họ đã hoàn thành công việc của mình, họ đã nhận được kho báu; Thingol bị chúng giết và chúng chạy trốn khỏi Menegroth.<sup id="cite_ref-Ruin_2-1" class="reference"><a href="#cite_note-Ruin-2">[2]</a></sup>
 
-Tin tức về sự kiện này lan truyền nhanh chóng và Người Lùn bị truy lùng và giết chết. Hai người trong số họ trốn thoát và kể một câu chuyện quanh co về việc họ bị phản bội và những người anh em của họ bị Tiên tộc tàn sát như thế nào. Người lùn Nogrod nổi lên giận dữ và tập hợp một đội quân lớn. Doriath sẵn sàng đón nhận sự tấn công dữ dội của chúng; Chiếc Thắt lưng đã ra đi kể từ khi Melian, trong nỗi đau buồn sâu sắc trước cái chết của chồng, đã ra đi Trung Địa.<sup id="cite_ref-Ruin_2-2" class="reference"><a href="#cite_note-Ruin-2">[2]</a></sup>
+Tin tức về sự kiện này lan truyền nhanh chóng và Người Lùn bị truy lùng và giết chết. Hai người trong số họ trốn thoát và kể một câu chuyện quanh co về việc họ bị phản bội và những người anh em của họ bị Tiên tộc tàn sát như thế nào. Người Lùn Nogrod nổi lên giận dữ và tập hợp một đội quân lớn. Doriath sẵn sàng đón nhận sự tấn công dữ dội của chúng; Chiếc Thắt lưng đã ra đi kể từ khi Melian, trong nỗi đau buồn sâu sắc trước cái chết của chồng, đã ra đi Trung Địa.<sup id="cite_ref-Ruin_2-2" class="reference"><a href="#cite_note-Ruin-2">[2]</a></sup>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg/300px-Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg" decoding="async" loading="lazy" width="300" height="426" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg/450px-Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg/600px-Henning_Janssen_-_Nauglamir_and_the_Doom_of_Thingol.jpg 2x" data-file-width="837" data-file-height="1189"/></a><figcaption><i>Nauglamir and the Doom of Thingol</i> by <a href="../H/Henning_Janssen.md" title="Henning Janssen">Henning Janssen</a></figcaption></figure>
 
@@ -139,7 +139,7 @@ the nightingales in shining bowers<br/>
 sang o’er the head of Melian,<br/>
 while water for ever dripped and ran<br/>
 from fountains in the rocky floor.<br/>
-There Thingol sat.  His crown he wore<br/>
+There Thingol sat. His crown he wore<br/>
 of green and silver, and round his chair<br/>
 a host in gleaming armor fair...
 </p>

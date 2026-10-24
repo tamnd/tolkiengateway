@@ -36,7 +36,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Khazad Dúm</b></i> là ca khúc thứ tư trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Moria](../M/Moria.md), lâu đài lớn nhất và nổi tiếng nhất của [Người lùn](../D/Dwarves.md). Lời bài hát trích dẫn trực tiếp [câu đố của Strider](../R/Riddle_of_Strider.md) và "[Thế giới còn trẻ, núi xanh](../T/The_world_was_young,_the_mountains_green,.md)".
+<i><b>Khazad Dúm</b></i> là ca khúc thứ tư trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Moria](../M/Moria.md), lâu đài lớn nhất và nổi tiếng nhất của [Người Lùn](../D/Dwarves.md). Lời bài hát trích dẫn trực tiếp [câu đố của Strider](../R/Riddle_of_Strider.md) và "[Thế giới còn trẻ, núi xanh](../T/The_world_was_young,_the_mountains_green,.md)".
 
 ## Lời bài hát {#Lyrics}
 

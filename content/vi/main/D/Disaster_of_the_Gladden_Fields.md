@@ -50,7 +50,7 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../E/Elendur_(son_of_Isildur).md" title="Elendur (son of Isildur)">Elendur</a> in <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../T/The_Disaster_of_the_Gladden_Fields.md" title="The Disaster of the Gladden Fields">The Disaster of the Gladden Fields</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Thảm họa Cánh đồng Gladden**, còn được gọi là **Trận chiến Cánh đồng Gladden**, là một cuộc phục kích nhằm vào [Isildur](../I/Isildur.md) và đội cận vệ riêng của ông vào buổi đầu của [Kỷ nguyên thứ Ba](../T/Third_Age.md).
+**Thảm họa Cánh đồng Gladden**, còn được gọi là **Trận chiến Cánh đồng Gladden**, là một cuộc phục kích nhằm vào [Isildur](../I/Isildur.md) và đội cận vệ riêng của ông vào buổi đầu của [Kỷ Đệ Tam](../T/Third_Age.md).
 
 ## Bối cảnh {#Background}
 

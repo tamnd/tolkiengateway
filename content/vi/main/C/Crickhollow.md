@@ -46,7 +46,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-[Frodo Baggins](../F/Frodo_Baggins.md) được [Gandalf](../G/Gandalf.md) chỉ thị tìm một lý do để rời [Hobbiton](../H/Hobbiton.md) (và [the Shire](../T/The_Shire.md)) rồi gặp ông tại [Bree](../B/Bree.md). Vào mùa hè năm [3018](../T/Third_Age_3018.md) [T.A.](../T/Third_Age.md), [Frodo Baggins](../F/Frodo_Baggins.md) đã mua ngôi nhà này làm cái cớ để rời [Hobbiton](../H/Hobbiton.md) về phía đông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Frodo Baggins](../F/Frodo_Baggins.md) được [Gandalf](../G/Gandalf.md) chỉ thị tìm một lý do để rời [Hobbiton](../H/Hobbiton.md) (và [Shire](../T/The_Shire.md)) rồi gặp ông tại [Bree](../B/Bree.md). Vào mùa hè năm [3018](../T/Third_Age_3018.md) [T.A.](../T/Third_Age.md), [Frodo Baggins](../F/Frodo_Baggins.md) đã mua ngôi nhà này làm cái cớ để rời [Hobbiton](../H/Hobbiton.md) về phía đông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg/300px-Ted_Nasmith_-_Bathing_at_Crickhollow.jpg" decoding="async" loading="lazy" width="300" height="276" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/14/Ted_Nasmith_-_Bathing_at_Crickhollow.jpg 1.5x" data-file-width="450" data-file-height="414"/></a><figcaption><a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> - Bathing at Crickhollow</figcaption></figure>
 

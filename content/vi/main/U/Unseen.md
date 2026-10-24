@@ -74,7 +74,7 @@ Tuy nhiên, trong mô tả của ông về Tiên tộc, những người còn �
 
 <dl><dd>The scenes where Frodo wears the Ring, show a different, dark and ghastly version of reality, indicating that Frodo is shifted to the wraith world, although no explanation is given in dialogue. The effects of the Ring become more clear in the Weathertop scene where he sees the Ringwraiths in clear form while wearing the Ring. Two times when he puts the Ring on, once in Bree and later at <a href="../A/Amon_Hen.md" title="Amon Hen">Amon Hen</a>, he is percieved by the Eye of <a href="../S/Sauron.md" title="Sauron">Sauron</a>.</dd></dl>
 
-<dl><dd>In the book, Frodo under the effect of the Morgul blade sees the luminous form of Glorfindel, but since in the movie he is replaced by <a href="../A/Arwen.md" title="Arwen">Arwen</a>, Frodo is supposed to see the Unseen version of Arwen; while in the Seen realm she wore a traveler&#39;s uniform, Frodo saw her in a white dress  bathed in an aura of light.</dd></dl>
+<dl><dd>In the book, Frodo under the effect of the Morgul blade sees the luminous form of Glorfindel, but since in the movie he is replaced by <a href="../A/Arwen.md" title="Arwen">Arwen</a>, Frodo is supposed to see the Unseen version of Arwen; while in the Seen realm she wore a traveler&#39;s uniform, Frodo saw her in a white dress bathed in an aura of light.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 

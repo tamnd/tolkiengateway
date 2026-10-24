@@ -84,7 +84,7 @@ infobox:
         - Bởi: Richard Gonsowski
         - Bởi: Sophie Watson
 - **Ồ, tôi đã quay lại đây**
-    - "Trên Người Lùn và Người lùn"
+    - "Trên Người Lùn và Người Lùn"
         - Bởi: Thor Ewing
 - **Nghệ thuật nội tâm**
     - Bởi: Michael Afford, [Helen Armstrong](../H/Helen_Armstrong.md), [Catherine Karina Chmiel](../C/Catherine_Karina_Chmiel.md) John Cockshaw, [Jenny Dolfen](../J/Jenny_Dolfen.md), [Anke Eissmann](../A/Anke_Eißmann.md), Thor Ewing, Jay Johnstone, [Jef Murray](../J/Jef_Murray.md)

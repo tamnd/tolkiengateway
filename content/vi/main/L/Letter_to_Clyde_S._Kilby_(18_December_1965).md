@@ -24,6 +24,6 @@ Vào [18 tháng 12](../_/18_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](
 ## Trích xuất {#Extract}
 
 <blockquote class="tg-quote noexcerpt">
-<p>I was deeply touched by [your letter], indeed overwhelmed by your generosity in offering to sacrifice your precious time (and holiday) in helping me. … [Y]our offer under heads 2) and 3) are extremely attractive. … If I had the assistance of a scholar at once sympathetic and yet critical, such as yourself, I feel I might make some of it publishable.  It needs the actual presence of a friend and adviser at one’s side, which is just what you offer.
+<p>I was deeply touched by [your letter], indeed overwhelmed by your generosity in offering to sacrifice your precious time (and holiday) in helping me. … [Y]our offer under heads 2) and 3) are extremely attractive. … If I had the assistance of a scholar at once sympathetic and yet critical, such as yourself, I feel I might make some of it publishable. It needs the actual presence of a friend and adviser at one’s side, which is just what you offer.
 </p>
 </blockquote>

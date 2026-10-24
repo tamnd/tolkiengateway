@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarf Women (scene)"
 ---
 
-Chuyển hướng tới [Người lùn Phụ nữ (cảnh)](<Dwarf_Women_(scene).md>).
+Chuyển hướng tới [Người Lùn Phụ nữ (cảnh)](<Dwarf_Women_(scene).md>).

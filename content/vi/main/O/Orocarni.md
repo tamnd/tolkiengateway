@@ -45,7 +45,7 @@ infobox:
 
 Trên sườn phía tây của Orocarni mọc lên *[Wild Wood](../W/Wild_Wood.md)* và gần một thác nước lớn của con sông chảy vào Nội địa [Biển Helcar](../S/Sea_of_Helcar.md) là vịnh [Cuiviénen](../C/Cuiviénen.md), nơi [Tiên tộc](../E/Elves.md) đầu tiên thức dậy.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Ở rìa phía bắc của chúng, Orocarni đến gần [Ered Engrin](../I/Iron_Mountains.md),<sup id="cite_ref-SMA4_2-1" class="reference"><a href="#cite_note-SMA4-2">[2]</a></sup> tương tự như [Ered Luin](../B/Blue_Mountains.md) ở cực tây bắc.
 
-Vị trí của bốn gia tộc [Người lùn](../D/Dwarves.md) sống trong phương Đông vẫn chưa được xác định; họ có thể đã hoặc chưa cư trú ở Orocarni. Khoảng cách giữa dinh thự của họ trong phương Đông và [Dãy Núi Sương Mù](../M/Misty_Mountains.md), cụ thể là [Gundabad](../G/Gundabad.md), được cho là bằng hoặc lớn hơn khoảng cách của Gundabad với [Dãy Núi Xanh](../B/Blue_Mountains.md) trong Phương Tây.<sup id="cite_ref-Oro_1-1" class="reference"><a href="#cite_note-Oro-1">[1]</a></sup>
+Vị trí của bốn gia tộc [Người Lùn](../D/Dwarves.md) sống trong phương Đông vẫn chưa được xác định; họ có thể đã hoặc chưa cư trú ở Orocarni. Khoảng cách giữa dinh thự của họ trong phương Đông và [Dãy Núi Sương Mù](../M/Misty_Mountains.md), cụ thể là [Gundabad](../G/Gundabad.md), được cho là bằng hoặc lớn hơn khoảng cách của Gundabad với [Dãy Núi Xanh](../B/Blue_Mountains.md) trong Phương Tây.<sup id="cite_ref-Oro_1-1" class="reference"><a href="#cite_note-Oro-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

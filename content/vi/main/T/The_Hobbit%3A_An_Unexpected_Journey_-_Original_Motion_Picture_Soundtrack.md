@@ -37,7 +37,7 @@ infobox:
 2. [Bạn cũ](../O/Old_Friends.md)
 3. [Một bữa tiệc bất ngờ](<../A/An_Unexpected_Party_(soundtrack).md>)
 4. [Rìu hay Kiếm?](../A/Axe_or_Sword%253F.md)
-5. [Dãy Núi Sương Mù](<../M/Misty_Mountains_(soundtrack).md>) - do [Richard Armitage](../R/Richard_Armitage.md) và Người lùn diễn viên thực hiện
+5. [Dãy Núi Sương Mù](<../M/Misty_Mountains_(soundtrack).md>) - do [Richard Armitage](../R/Richard_Armitage.md) và Người Lùn diễn viên thực hiện
 6. [Cuộc phiêu lưu bắt đầu](The_Adventure_Begins.md)
 7. [Thế giới ở phía trước](The_World_is_Ahead.md)
 8. [Một người cổ đại Kẻ Thù](../A/An_Ancient_Enemy.md)

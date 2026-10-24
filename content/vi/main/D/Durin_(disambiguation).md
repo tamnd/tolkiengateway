@@ -43,7 +43,7 @@ images:
 
 ## Mọi người {#People}
 
-- [Durin's Folk](Durin's_Folk~15256.md), gia tộc [Người lùn](Dwarves.md) nổi tiếng nhất trong [Tolkien](../J/J.R.R._Tolkien.md) [huyền thoại](../L/Legendarium.md).
+- [Durin's Folk](Durin's_Folk~15256.md), gia tộc [Người Lùn](Dwarves.md) nổi tiếng nhất trong [Tolkien](../J/J.R.R._Tolkien.md) [huyền thoại](../L/Legendarium.md).
     - [Các vị vua của Dân gian Durin](../K/Kings_of_Durin's_Folk.md), danh hiệu do Durin I và những người kế vị ông nắm giữ, những người cai trị Dân gian Durin.
 
 ## Đối tượng {#Objects}
@@ -54,11 +54,11 @@ images:
 ## Địa điểm {#Places}
 
 - [Cánh cửa Durin](Doors_of_Durin.md), lối vào [Moria](../M/Moria.md), được mở bởi [Gandalf](../G/Gandalf.md) ở *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*.
-- [Tháp Durin](Durin's_Tower.md), một tòa tháp Người lùn được xây dựng trong [Celebdil](../C/Celebdil.md) phía trên [Moria](../M/Moria.md).
+- [Tháp Durin](Durin's_Tower.md), một tòa tháp Người Lùn được xây dựng trong [Celebdil](../C/Celebdil.md) phía trên [Moria](../M/Moria.md).
 
 ## Sự kiện {#Events}
 
-- [Ngày Durin](Durin's_Day.md), ngày đầu tiên trong lịch [Người lùn](Dwarves.md).
+- [Ngày Durin](Durin's_Day.md), ngày đầu tiên trong lịch [Người Lùn](Dwarves.md).
 
 ## Chòm sao {#Constellation}
 

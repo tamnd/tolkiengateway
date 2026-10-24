@@ -49,7 +49,7 @@ Vào năm 2014, [Cubicle 7 Entertainment](../C/Cubicle_7_Entertainment.md) đã 
 
 <blockquote class="tg-quote noexcerpt">
 <p>Smaug has been defeated, the Battle of Five Armies has been won, and Bilbo has returned to the Shire. The War of the Ring is still several generations away. In the relative peace, the Free Peoples of Wilderland look beyond their borders for the first time, establishing trade routes, renewing bonds between their cultures, and bringing prosperity to the region of northern Mirkwood, the Lonely Mountain, and the eastern slopes of the Misty Mountains.
-</p><p>But much danger still remains, and from the Orc-holds of the mountains to the dark and corrupt depths of Mirkwood a darkness waits, recovering its strength, laying its plans, and slowly extending its shadow . . . .
+</p><p>But much danger still remains, and from the Orc-holds of the mountains to the dark and corrupt depths of Mirkwood a darkness waits, recovering its strength, laying its plans, and slowly extending its shadow. . . .
 </p><p><i>The One Ring: Adventures over the Edge of the Wild</i> is the newest fantasy roleplaying game set in the world of The Hobbit<sup>TM</sup> and The Lord of the Rings<sup>TM</sup>. It provides you with everything you need to begin your adventures in Middle-earth, including:
 </p>
 <ul><li>192 page Adventurer&#39;s Book</li>

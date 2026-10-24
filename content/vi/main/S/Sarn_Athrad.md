@@ -34,9 +34,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_Sarn_Athrad.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5a/Alan_Lee_-_Sarn_Athrad.jpg/300px-Alan_Lee_-_Sarn_Athrad.jpg" decoding="async" loading="lazy" width="300" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5a/Alan_Lee_-_Sarn_Athrad.jpg/450px-Alan_Lee_-_Sarn_Athrad.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5a/Alan_Lee_-_Sarn_Athrad.jpg/600px-Alan_Lee_-_Sarn_Athrad.jpg 2x" data-file-width="896" data-file-height="549"/></a><figcaption>Sarn Athrad by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
-**Sarn Athrad** là chỗ cạn đá của Sông [Gelion](../G/Gelion.md) mà [Người lùn đường](../D/Dwarf-road_of_Beleriand.md) từ [Dãy Núi Xanh](../B/Blue_Mountains.md) đi vào [Đông Beleriand](../E/East_Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sarn Athrad** là chỗ cạn đá của Sông [Gelion](../G/Gelion.md) mà [Người Lùn đường](../D/Dwarf-road_of_Beleriand.md) từ [Dãy Núi Xanh](../B/Blue_Mountains.md) đi vào [Đông Beleriand](../E/East_Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Chính tại đây [Trận Sarn Athrad](../B/Battle_of_Sarn_Athrad.md) đã diễn ra giữa [Tiên tộc](../E/Elves.md) và [Người lùn Nogrod](../D/Dwarves_of_Nogrod.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Chính tại đây [Trận Sarn Athrad](../B/Battle_of_Sarn_Athrad.md) đã diễn ra giữa [Tiên tộc](../E/Elves.md) và [Người Lùn Nogrod](../D/Dwarves_of_Nogrod.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pygmies"
 ---
 
-Chuyển hướng đến [Người lùn](Pygmies.md).
+Chuyển hướng đến [Người Lùn](Pygmies.md).

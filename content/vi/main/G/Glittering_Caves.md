@@ -61,11 +61,11 @@ Lối vào hang nằm phía sau [Deeping Wall](../D/Deeping_Wall.md), trong mộ
 
 ## Lịch sử {#History}
 
-Người [Númenórean](../N/Númenóreans.md) đã xây dựng pháo đài Aglarond trong [Kỷ nguyên thứ Hai](../S/Second_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ý nghĩa của tên gọi bằng tiếng Sindarin của pháo đài cho thấy họ đã biết đến sự tồn tại của những hang động này từ trước. Về sau, sau khi [Rohan](../R/Rohan.md) được thành lập, nơi đây được sử dụng làm kho chứa và nơi trú ẩn cho người [Rohirrim](../R/Rohirrim.md) sử dụng [Hornburg](../H/Hornburg.md).
+Người [Númenórean](../N/Númenóreans.md) đã xây dựng pháo đài Aglarond trong [Kỷ Đệ Nhị](../S/Second_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ý nghĩa của tên gọi bằng tiếng Sindarin của pháo đài cho thấy họ đã biết đến sự tồn tại của những hang động này từ trước. Về sau, sau khi [Rohan](../R/Rohan.md) được thành lập, nơi đây được sử dụng làm kho chứa và nơi trú ẩn cho người [Rohirrim](../R/Rohirrim.md) sử dụng [Hornburg](../H/Hornburg.md).
 
 ### Cuộc Chiến Nhẫn {#War_of_the_Ring}
 
-Trong [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md) diễn ra vào ngày [3](../_/3_March.md)–[4 tháng Ba](../_/4_March.md), năm [3019](../T/Third_Age_3019.md) [Kỷ nguyên thứ Ba](../T/Third_Age.md), nhiều phụ nữ, trẻ em và người cao tuổi ở [Westfold](../W/Westfold.md) đã lánh nạn trong Hang Động Lấp Lánh. Gia súc và lương thực cũng được cất giữ tại đây.
+Trong [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md) diễn ra vào ngày [3](../_/3_March.md)–[4 tháng Ba](../_/4_March.md), năm [3019](../T/Third_Age_3019.md) [Kỷ Đệ Tam](../T/Third_Age.md), nhiều phụ nữ, trẻ em và người cao tuổi ở [Westfold](../W/Westfold.md) đã lánh nạn trong Hang Động Lấp Lánh. Gia súc và lương thực cũng được cất giữ tại đây.
 
 Một số [Orc](../O/Orcs.md) lẻn qua một cống thoát nước trong Bức Tường Deeping và tiến vào hẻm núi, nhưng bị quân phòng thủ tiêu diệt hoặc đẩy lui. Sau đó, Bức Tường Deeping bị phá thủng bằng một thiết bị nổ, và quân địch tiến vào Deep. Nhiều người [Rohirrim](../R/Rohirrim.md), trong đó có [Éomer](../_/Éomer.md), bị đẩy lui về Hang Động Lấp Lánh, và Gimli cũng đi cùng họ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

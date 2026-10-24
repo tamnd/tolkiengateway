@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Metals in Middle-earth Role Playing&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Metals in Middle-earth Role Playing&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 Để làm nổi bật bối cảnh, [Middle-earth Role Playing](Middle-earth_Role_Playing.md) giới thiệu nhiều loại kim loại mới lạ mắt ngoài <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bronze&amp;action=edit&amp;redlink=1" title="Bronze (page does not exist)">đồng</a>, [đồng](../C/Copper.md), [galvorn](../G/Galvorn.md), [vàng](../G/Gold.md), [sắt](../I/Iron.md), [mithril](Mithril.md), [bạc](../S/Silver.md) và [thép](../S/Steel.md).
 
@@ -45,7 +45,7 @@ images:
 
 ## Ogamur {#Ogamur}
 
-<i><b>Ogamur</b></i> (S. “Từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gamur&amp;action=edit&amp;redlink=1" title="Gamur (page does not exist)">Gamur</a>”) là một kim loại Người lùn rất linh hoạt. Công thức bắt nguồn từ một ngôi nhà Người lùn phía đông, là một bí mật được bảo vệ chặt chẽ. [Noldor](../N/Noldor.md) buộc phải mua nó vì điều này.<sup id="cite_ref-fourthpage_4-0" class="reference"><a href="#cite_note-fourthpage-4">[4]</a></sup>
+<i><b>Ogamur</b></i> (S. “Từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gamur&amp;action=edit&amp;redlink=1" title="Gamur (page does not exist)">Gamur</a>”) là một kim loại Người Lùn rất linh hoạt. Công thức bắt nguồn từ một ngôi nhà Người Lùn phía đông, là một bí mật được bảo vệ chặt chẽ. [Noldor](../N/Noldor.md) buộc phải mua nó vì điều này.<sup id="cite_ref-fourthpage_4-0" class="reference"><a href="#cite_note-fourthpage-4">[4]</a></sup>
 
 ## Tasarang {#Tasarang}
 

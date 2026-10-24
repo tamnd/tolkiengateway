@@ -75,7 +75,7 @@ Cuộc đi bộ của     - Tolkien
         - Bởi: Anne xứ Briar Ditch (Anne Etkin)
     - Tolkien Bảng chữ cái
         - Bởi: Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
-    - Câu chuyện của những người vợ Người lùn
+    - Câu chuyện của những người vợ Người Lùn
         - Bởi: Belladonna Took ([Vera Chapman](../V/Vera_Chapman.md))
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Mallorn 8</div></div><div class="template-prevnext__linkoverlay"><a href="Mallorn_8.md" title="Mallorn 8">Mallorn 8</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Mallorn 9</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Mallorn 10</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Mallorn_10.md" title="Mallorn 10">Mallorn 10</a></div></div></div>

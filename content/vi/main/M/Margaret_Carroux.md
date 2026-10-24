@@ -42,7 +42,7 @@ Margaret Carroux đã cố gắng nắm bắt phong cách văn học trong tác 
 
 Năm 1991 và [2008](../_/2008.md) phiên bản sửa đổi của *"Carroux-Translation"* đã được xuất bản. Phần đầu tiên do Roswith Krege-Mayer sửa đổi và cải tiến, lần đầu tiên chứa phần đầu tiên của [Phụ lục E](../A/Appendix_E.md) (*Pronunciation of Words and Names*), được dịch bởi [Helmut W. Pesch](../H/Helmut_W._Pesch.md).<sup id="cite_ref-UL_5-2" class="reference"><a href="#cite_note-UL-5">[5]</a></sup>
 
-Trong bản thứ hai, Stephan Askani, biên tập viên của nhà xuất bản Klett-Cotta, và dịch giả Lisa Kuppler đã sửa một số địa danh (một số đã được dịch lại) — đặc biệt là các ngôi làng ở [the Shire](../T/The_Shire.md) — và lỗi chính tả của Elvish hoặc [tiếng Anh cổ](../O/Old_English.md) từ và tên trong văn bản và bài thơ. Các chỉnh sửa dựa trên *Hướng dẫn về tên trong The Lord of the Rings* và phiên bản [HarperCollins](../H/HarperCollins.md) thực tế của *The Lord of the Rings* của [2004](../_/2004.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong bản thứ hai, Stephan Askani, biên tập viên của nhà xuất bản Klett-Cotta, và dịch giả Lisa Kuppler đã sửa một số địa danh (một số đã được dịch lại) — đặc biệt là các ngôi làng ở [Shire](../T/The_Shire.md) — và lỗi chính tả của Elvish hoặc [tiếng Anh cổ](../O/Old_English.md) từ và tên trong văn bản và bài thơ. Các chỉnh sửa dựa trên *Hướng dẫn về tên trong The Lord of the Rings* và phiên bản [HarperCollins](../H/HarperCollins.md) thực tế của *The Lord of the Rings* của [2004](../_/2004.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Carroux và Tolkien {#Carroux_and_Tolkien}
 

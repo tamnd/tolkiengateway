@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Adan"
 ---
 
-<i><b>adan</b></i> là [Sindarin](../S/Sindarin.md) dành cho "[Người đàn ông](../M/Men.md)" (tức là trái ngược với [Tiên](../E/Elves.md), [Người lùn](../D/Dwarves.md), [Hobbit](../H/Hobbits.md), v.v.). Số nhiều là *[Edain](../E/Edain.md)*. Đúng ra, từ này chỉ đề cập đến những Con Người là hậu duệ của [Ba Nhà](../T/Three_Houses_of_the_Edain.md) của Những người bạn Yêu tinh.
+<i><b>adan</b></i> là [Sindarin](../S/Sindarin.md) dành cho "[Người đàn ông](../M/Men.md)" (tức là trái ngược với [Tiên](../E/Elves.md), [Người Lùn](../D/Dwarves.md), [Hobbit](../H/Hobbits.md), v.v.). Số nhiều là *[Edain](../E/Edain.md)*. Đúng ra, từ này chỉ đề cập đến những Con Người là hậu duệ của [Ba Nhà](../T/Three_Houses_of_the_Edain.md) của Những người bạn Yêu tinh.
 
 ## Ví dụ {#Examples}
 

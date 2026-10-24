@@ -44,12 +44,12 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Hình thành ranh giới phía bắc của Rhovanion và Mirkwood, Dãy Núi Xám trải dài bốn trăm dặm: từ Vương quốc Phù thủy của Angmar đến Dãy Đồi Sắt. Bị xuyên thủng bởi Người lùn mìn, Orc hang động và Rồng, Ered Mithrin là một phạm vi lạnh lẽo và đầy điềm báo. Chúng hứa hẹn kho báu và cuộc phiêu lưu, nhưng thường mang đến cái chết không đúng lúc cho những nhà thám hiểm. Đưa chiến dịch Trung Địa của bạn đến rìa Forodwaith lạnh giá và đưa người chơi của bạn băng qua vùng Withered Heath chết chóc; hãy cẩn thận với Rồng!
+Hình thành ranh giới phía bắc của Rhovanion và Mirkwood, Dãy Núi Xám trải dài bốn trăm dặm: từ Vương quốc Phù thủy của Angmar đến Dãy Đồi Sắt. Bị xuyên thủng bởi Người Lùn mìn, Orc hang động và Rồng, Ered Mithrin là một phạm vi lạnh lẽo và đầy điềm báo. Chúng hứa hẹn kho báu và cuộc phiêu lưu, nhưng thường mang đến cái chết không đúng lúc cho những nhà thám hiểm. Đưa chiến dịch Trung Địa của bạn đến rìa Forodwaith lạnh giá và đưa người chơi của bạn băng qua vùng Withered Heath chết chóc; hãy cẩn thận với Rồng!
 
 Dãy Núi Xám bao gồm:
 
 - Bản đồ đủ màu 17" x 22" mô tả phạm vi Dãy Núi Xám và phía Bắc Rhovanion.
 - 9 Cuộc phiêu lưu đầy thử thách, bao gồm một chiến dịch nhỏ gồm 4 cuộc phiêu lưu. Những công việc khó khăn này đưa những người khám phá đi từ đầu này đến đầu kia của Dãy Núi Xám.
-- Bố cục chi tiết của thành phố Người lùn, Norr Dum, pháo đài Orc băng, Kala Dulakurth và vô số địa điểm ám ảnh khác nằm rải rác khắp dãy núi hùng vĩ này.
+- Bố cục chi tiết của thành phố Người Lùn, Norr Dum, pháo đài Orc băng, Kala Dulakurth và vô số địa điểm ám ảnh khác nằm rải rác khắp dãy núi hùng vĩ này.
 - Thông tin chuyên sâu về Rồng và Người Lùn của Dãy Núi Xám và cây thạch nam khô héo.
 - Số liệu thống kê và thông tin cơ bản về nhiều nhân cách và quái vật lang thang ở miền bắc băng giá Trung Địa.

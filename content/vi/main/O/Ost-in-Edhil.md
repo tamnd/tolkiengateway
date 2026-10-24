@@ -110,7 +110,7 @@ Bốn mươi bảy thế kỷ sau, [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_R
 
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
-<dl><dd><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a> does not have the rights to use the name &#34;Ost-in-Edhil&#34;. Thus, while the city of Ost-in-Edhil is featured in the  show, it is not referred to by name, being instead referred to as the <b>City of the Elven-smiths</b>.</dd></dl>
+<dl><dd><a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a> does not have the rights to use the name &#34;Ost-in-Edhil&#34;. Thus, while the city of Ost-in-Edhil is featured in the show, it is not referred to by name, being instead referred to as the <b>City of the Elven-smiths</b>.</dd></dl>
 
 <span></span>
 

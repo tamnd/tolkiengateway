@@ -90,7 +90,7 @@ each other spare.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (phim 1980)</a></i> </b>
+<b>1980: <i><a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King (phim năm 1980)</a></i> </b>
 
 Théoden chỉ nói "*Ride now! Ride to Gondor!*" trước khi tính phí ở Minas Tirith.
 

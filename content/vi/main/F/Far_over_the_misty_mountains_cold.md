@@ -109,11 +109,11 @@ To find our long-forgotten gold.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim năm 1977)</a>:</b>
 
 <dl><dd>Parts of the song are sung by the dwarves of Thorin&#39;s Company when they meet Bilbo for the first time. They sing it again at Bag End, before Bilbo decides to join them on their quest. Finally, the song is reprised after the death of Smaug, during the dwarves&#39; preparations for the defence of Erebor. The song is the last track on the official soundtrack and is titled &#34;<a href="../M/Misty_Mountains_Cold.md" title="Misty Mountains Cold">Misty Mountains Cold</a>&#34;.</dd></dl>
 
-<br> <b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
+<br> <b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình năm 1985)</a></b>
 
 <dl><dd>The song is sang by the dwarves as they are walking through the forest, shortly before being captured by the goblins. Verses 3 through 7 are left out in that version.</dd></dl>
 

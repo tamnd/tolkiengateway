@@ -275,14 +275,14 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Archer_(2009_TV_series)" title="wikipedia:Archer (2009 TV series)">Cung thủ</a> {#Archer}
 
-- Trong tập 3, "Thuê đa dạng", một trong những nhiệm vụ được nhóm đề cập là "Chiến dịch Frodo". Hóa ra đó chỉ là làm nổ tung một chiếc xe chở vũ khí; xem lại cảnh quay, một kỹ thuật viên nhận xét kẻ xấu lẽ ra phải mặc "áo khoác Người lùn [mithril](../M/Mithril.md) của "Bilbo". Kỹ thuật viên muốn tiếp tục giải thích cách chơi chữ của mình nhưng bị cắt ngắn.
+- Trong tập 3, "Thuê đa dạng", một trong những nhiệm vụ được nhóm đề cập là "Chiến dịch Frodo". Hóa ra đó chỉ là làm nổ tung một chiếc xe chở vũ khí; xem lại cảnh quay, một kỹ thuật viên nhận xét kẻ xấu lẽ ra phải mặc "áo khoác Người Lùn [mithril](../M/Mithril.md) của "Bilbo". Kỹ thuật viên muốn tiếp tục giải thích cách chơi chữ của mình nhưng bị cắt ngắn.
 - Một nhân vật lặp lại, Bilbo, là một người đam mê Tolkien và luôn chơi chữ liên quan đến Chúa tể những chiếc nhẫn bất cứ khi nào có thể.
 - Vào cuối Phần 9, lấy bối cảnh [1938](../_/1938.md) thay thế, các nhân vật chính đến chân núi Tarako và ám chỉ đến [Cửa Sau](../B/Back_Door.md) của [Erebor](../E/Erebor.md) và [chim tưa](Thrush.md); khi vào phòng trưng bày, họ tự hỏi liệu [Smaug](../S/Smaug.md) có xuất hiện hay không; họ đề cập đến *The Hobbit* vì đây là một hiện tượng văn hóa nổi tiếng vào năm trước, được tất cả mọi người biết đến, ngoại trừ Noah, người đã bị mắc kẹt trên đảo trong bốn năm và do đó không biết đến cuốn sách.<br>Cuối tập đó là cuộc chiến trên mạch nham thạch với một thần tượng bản địa mạnh mẽ; cuối cùng thần tượng rơi vào dung nham cũng như nhân vật phản diện và nhân vật chính, gợi nhớ đến One Ring và Gollum.
 - Trong tập "Cubert" của Phần 10, các nhân vật chính tìm thấy một khối lập phương bí ẩn trong không gian và người ta tự hỏi liệu nó có được làm từ mithril hay không.
 
 <h3><span id="Avengers:_Earth.27s_Mightiest_Heroes"></span><span class="mw-headline" id="Avengers:_Earth&#39;s_Mightiest_Heroes"><a class="extiw" href="http://en.wikipedia.org/wiki/Avengers:_Earth%27s_Mightiest_Heroes" title="wikipedia:Avengers: Earth&#39;s Mightiest Heroes">Avengers: Earth&#39;s Mightiest Heroes</a></span></h3>
 
-- Trong tập hai "Acts of Vengeance", Thor, Odin và Heimdall điều tra vương quốc Người lùn Nidavellir sau khi Surtur phá hủy nó. Một trong những hệ thống phòng thủ của hang động giống với [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md).
+- Trong tập hai "Acts of Vengeance", Thor, Odin và Heimdall điều tra vương quốc Người Lùn Nidavellir sau khi Surtur phá hủy nó. Một trong những hệ thống phòng thủ của hang động giống với [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md).
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Babylon_5" title="wikipedia:Babylon 5">Babylon 5</a> {#Babylon_5}
 
@@ -540,7 +540,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Portal_(TV_series)" title="wikipedia:Portal (TV series)">Cổng thông tin</a> {#Portal}
 
-- Shorty Người lùn thường xuyên hét lên "Bạn có chiếc rìu của tôi!".
+- Shorty Người Lùn thường xuyên hét lên "Bạn có chiếc rìu của tôi!".
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Powerless_(TV_series)" title="wikipedia:Powerless (TV series)">Bất lực</a> {#Powerless}
 
@@ -593,7 +593,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 - Tập *[The Return of the Fellowship of the Ring to the Two Towers](The_Return_of_the_Fellowship_of_the_Ring_to_the_Two_Towers.md)* là một tập hoàn toàn có chủ đề Tolkien.
 - Trong tập "Go God Go", lũ rái cá chuẩn bị cho chiến tranh theo cách tương tự như Rohirrim trong *The Lord of the Rings: The Two Towers*.
 - Trong "Make Love, Not Warcraft", có thể thấy một bức tượng nhỏ của [Tai họa của Durin](../D/Durin's_Bane.md).
-- Tập 6.14, "Trại tử thần khoan dung" có một số tài liệu tham khảo, cả về phim của Peter Jackson và [*The Hobbit* (phim 1977)](<The_Hobbit_(1977_film).md>).
+- Tập 6.14, "Trại tử thần khoan dung" có một số tài liệu tham khảo, cả về phim của Peter Jackson và [*The Hobbit* (phim năm 1977)](<The_Hobbit_(1977_film).md>).
 
 <dl><dd><dl><dd><dl><dd>In order to get fired for being gay (and sue the school for millions), Mr. Garrisson stuffs Lemmiwinks the gerbil up his assistant&#39;s ass. The gerbil&#39;s voyage inside the assistant is accompanied by a variation of &#34;<a href="The_Greatest_Adventure.md" title="The Greatest Adventure">The Greatest Adventure</a>&#34;:</dd></dl></dd></dl></dd></dl>
 
@@ -810,7 +810,7 @@ So your tale can be told.
 - Có một mob tên là "Gorum" có thể được tìm thấy trong Hang Bloodthorn, Thung lũng Shadowmoon. Ông ta đánh rơi vật phẩm "Vòng gai máu quý giá" khiến người chơi trở nên vô hình khi sử dụng.
 - Một trong những trò đùa biểu cảm bằng giọng nói dành cho nhân vật nam Human là về ý tưởng làm một bộ phim hay. Cốt truyện rất giống với *The Lord of the Rings*.
     - "Vì vậy, tôi có ý tưởng làm một bộ phim hay. Phim kể về hai chú lùn tìm thấy một chiếc vòng tay quyền lực và họ phải mang nó đến Burning Steppes và ném nó vào Cauldron. Họ thành lập Brotherhood of the Bracelet. Trên đường đi, họ bị theo dõi bởi một Murloc tên Gottom, người bị ám ảnh bởi chiếc vòng tay và chín bogeymen đeo vòng tay. Đó có thể là một bộ ba phần, được gọi là 'Kẻ thống trị của Vòng tay'. Phần đầu tiên sẽ là được gọi là 'The Brotherhood of the Bracelet', tiếp theo là 'A Couple of Towers', với cái kết cao trào mang tên 'Này, Vua's Back!'"
-- Ở Draenor có một đống lửa trại với ba yêu tinh tên là "Toom", "Bort" và "Wullim". Họ đang canh giữ một chiếc rương chứa 12 "Người lùn Nhẫn Râu" và "Áo chống trộm".
+- Ở Draenor có một đống lửa trại với ba yêu tinh tên là "Toom", "Bort" và "Wullim". Họ đang canh giữ một chiếc rương chứa 12 "Người Lùn Nhẫn Râu" và "Áo chống trộm".
 - Ở Ghostlands có một nhiệm vụ tên là "Anok'suten", trong đó bạn phải tiêu diệt một đám đông ưu tú (một con nhện) và một trong những phần thưởng khi hoàn thành nhiệm vụ là một thanh kiếm một tay tên là "Stung". Đây là tham chiếu đến [Sting](../S/Sting.md) từ *The Hobbit* và *The Lord of the Rings*.
 - Ở Gnomeregan có một nhiệm vụ mà bạn có thể nhận được tên là "Return of the Ring", một cách chơi chữ của *Return of the King*.
 - Một trong những phần thưởng khi hoàn thành nhiệm vụ, "Thoát khỏi Hang động Winterfin", là "Mrgl Blade" ám chỉ đến [vũ khí](../M/Morgul-knife.md) mà Vua Phù thủy dùng để đâm Frodo vào Weathertop. Lưu ý rằng Aragorn chỉ xác định vũ khí là "Morgul *blade*" trong .

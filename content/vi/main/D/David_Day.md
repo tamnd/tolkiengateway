@@ -78,7 +78,7 @@ Cộng đồng Tolkien nhìn chung khuyên độc giả tránh sử dụng bản
 David Day đã tham dự [Oxonmoot 2004](../O/Oxonmoot_2004.md) nhưng không thanh toán phí tham dự. Trong biên bản cuộc họp ủy ban của [Hội Tolkien](../T/The_Tolkien_Society.md) được tổ chức vào ngày 30 tháng 10 năm 2004 có ghi rằng:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Chris <i>[<a href="../C/Chris_Crawshaw.md" title="Chris Crawshaw">Chris Crawshaw</a>, Chairman]</i> has also written to David Day to ask him to pay his registration for Oxonmoot.  She was instructed by the meeting to keep badgering him about this, since he seems to feel his &#39;celebrity&#39; status exempts him from such mundane details
+<p>Chris <i>[<a href="../C/Chris_Crawshaw.md" title="Chris Crawshaw">Chris Crawshaw</a>, Chairman]</i> has also written to David Day to ask him to pay his registration for Oxonmoot. She was instructed by the meeting to keep badgering him about this, since he seems to feel his &#39;celebrity&#39; status exempts him from such mundane details
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Amon_Hen_191.md" title="Amon Hen 191"><i>Amon Hen</i> 191</a>, p. 19</cite></p>
 </blockquote>

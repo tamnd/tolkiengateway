@@ -33,13 +33,13 @@ images:
 
 Người Mang Nhẫn đầu tiên (ngoài [Sauron](../S/Sauron.md)) là người đầu tiên áp dụng thuật ngữ "quý giá" cho Nhẫn Chúa. Trong [T.A.](../T/Third_Age.md) [2](../T/Third_Age_2.md),<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> [Isildur](../I/Isildur.md), người đã lấy Chiếc nhẫn từ Sauron, đã viết một [cuộn giấy](../S/Scroll_of_Isildur.md) trong đó ông ta mô tả thứ mà ông ta tuyên bố là vật gia truyền của [Vương quốc phía Bắc](../A/Arnor.md). Cuối tài liệu ông viết:
 
-<dl><dd><i>But for my part I will risk no hurt to this thing: of all the works of Sauron the only fair.  It is precious to me, though I buy it with great pain.</i><sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup></dd></dl>
+<dl><dd><i>But for my part I will risk no hurt to this thing: of all the works of Sauron the only fair. It is precious to me, though I buy it with great pain.</i><sup id="cite_ref-Council_2-0" class="reference"><a href="#cite_note-Council-2">[2]</a></sup></dd></dl>
 
 Nhiều thế kỷ sau, vào [2463](../T/Third_Age_2463.md), [Gollum](../G/Gollum.md) đã sở hữu Chiếc nhẫn sau khi sát hại [Déagol](../D/Déagol.md). Trong [2470](../T/Third_Age_2470.md), Gollum trốn trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md), mang theo Chiếc nhẫn vào bóng tối.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Khi ông ta bắt đầu gọi Chiếc nhẫn là "quý giá" thì không rõ ông ta là "quý giá", nhưng đến [2941](../T/Third_Age_2941.md) khi gặp [Bilbo Baggins](../B/Bilbo_Baggins.md) ông ta liên tục nhắc đến "người yêu quý của tôi".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Thật khó để phân biệt liệu Gollum đang ám chỉ Chiếc nhẫn hay chính ông ta khi ông ta sử dụng thuật ngữ này, điều này dường như cho thấy Chiếc nhẫn đã thống trị ông ta đến mức nào. tâm trí.
 
 Vào [22 tháng Chín](../_/22_September.md) [3001](../T/Third_Age_3001.md) Bilbo đã tổ chức [Bữa tiệc chia tay](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup> Sau khi biến mất sau bài phát biểu, ông quay trở lại [Bag End](../B/Bag_End.md) để chuẩn bị những bước cuối cùng để khởi hành từ [ Shire](../T/The_Shire.md). Khi [Gandalf](../G/Gandalf.md) giục ông hobbit già rời khỏi Chiếc Nhẫn để lấy [Frodo](../F/Frodo_Baggins.md), Bilbo trở nên tức giận. Ông thông báo:
 
-<dl><dd><i>It is mine, I tell you. My own.  My precious.  Yes, my precious.</i><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
+<dl><dd><i>It is mine, I tell you. My own. My precious. Yes, my precious.</i><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
 Cuối cùng Gandalf đã thuyết phục được Bilbo từ bỏ Chiếc nhẫn, nhưng hành vi của Bilbo và việc ông ta sử dụng từ "quý giá" đã khiến phù thủy cảnh giác và thôi thúc ông ta điều tra lịch sử chiếc nhẫn ma thuật của Bilbo, dẫn ông ta đến cuộn giấy của Isildur.<sup id="cite_ref-Council_2-1" class="reference"><a href="#cite_note-Council-2">[2]</a></sup>
 

@@ -231,7 +231,7 @@ Sau khi [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) tháp [Orthanc](../O/Or
 
 ### Phim {#Films}
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Prince Isildur is mentioned in the <a class="mw-redirect" href="../P/Prologue%253A_A_Ring&#39;s_Tale_(1978_scene).md" title="Prologue: A Ring&#39;s Tale (1978 scene)">prologue</a>, and he is shown to cut the Ring off Sauron&#39;s hand in battle, rather than from a defeated Sauron.</dd></dl>
 

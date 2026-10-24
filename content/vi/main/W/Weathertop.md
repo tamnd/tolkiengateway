@@ -145,7 +145,7 @@ Trong nhiều thế kỷ, pháo đài vĩ đại một thời vẫn nằm trong 
 		</li>
 </ul>
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>Aragorn and the hobbits do not actually enter the ruins of Weathertop. However, moments before the attack of the Ringwraiths, a tall tower can be seen in the background.</dd></dl>
 

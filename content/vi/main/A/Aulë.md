@@ -137,7 +137,7 @@ Trong *[Etymologies](../T/The_Etymologies.md)* thời kỳ đầu, tên này dư
 
 Trong [Khuzdul](../K/Khuzdul.md), tên của ông là <i><b>Mahal</b></i> ("[Đấng Tạo tác](../T/The_Maker.md)").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Đôi khi ông được gọi là <i><b>Návatar</b></i>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> có lẽ mang nghĩa "Cha của Người lùn" trong Quenya.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Đôi khi ông được gọi là <i><b>Návatar</b></i>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> có lẽ mang nghĩa "Cha của Người Lùn" trong Quenya.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 Trong [Noldorin](../N/Noldorin.md) thời kỳ đầu, tên của ông là <i><b>Gaul</b></i>, thường được gọi là *Belegol* ("Aulë vĩ đại") hoặc *Barthan* ("Đấng chế tác Thế giới").<sup id="cite_ref-Etymologies_6-1" class="reference"><a href="#cite_note-Etymologies-6">[6]</a></sup>
 

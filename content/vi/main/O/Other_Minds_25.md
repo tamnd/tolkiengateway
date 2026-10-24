@@ -48,7 +48,7 @@ infobox:
     - Bởi [Gabriele Quaglia](../G/Gabriele_Quaglia.md)
 - "Hướng dẫn TOR cho Dãy Núi Xanh"
     - Bởi Andrew Laubacher
-- "Thành phố Người lùn của Hargrod - Viên ngọc quý của Dãy Núi Xanh"
+- "Thành phố Người Lùn của Hargrod - Viên ngọc quý của Dãy Núi Xanh"
     - Bởi Andrew Laubacher
 
 - **Tác phẩm nghệ thuật / Bản đồ:**

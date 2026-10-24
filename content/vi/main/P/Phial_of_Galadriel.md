@@ -88,11 +88,11 @@ Như vậy, khi [Gollum](../G/Gollum.md) dẫn Frodo và Sam vào Hang ổ của
 
 ### Phim {#Films}
 
-<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
+<b>1978: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a>:</b>
 
 <dl><dd>The Phial is absent as Galadriel does not give any gifts to the Fellowship.</dd></dl>
 
-<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim 1980)</a>:</b>
+<b>1980: <a href="../T/The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)"><i>The Return of the King</i> (phim năm 1980)</a>:</b>
 
 <dl><dd>The Phial is found by Sam in Frodo&#39;s cloak and is used to pass the Watchers&#39; barrier in Cirith Ungol. Its origins are never touched on in the film, with Sam being unaware of it until finding it. Frodo identifies it as the Phial of Galadriel, but refuses to say anymore about it, claiming that doing so will destroy its powers.</dd></dl>
 

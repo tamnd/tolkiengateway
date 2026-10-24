@@ -83,7 +83,7 @@ infobox:
 
 <b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>Skinbark is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Land of Shadow</i> on the &#34;Skinbark&#34; card, illustrated by Dimitri Bielak . The card has the following effects:</dd></dl>
+<dl><dd>Skinbark is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Land of Shadow</i> on the &#34;Skinbark&#34; card, illustrated by Dimitri Bielak. The card has the following effects:</dd></dl>
 
 > Không thể có tệp đính kèm bị hạn chế. Bước vào trận đấu kiệt sức.<br>Trong khi Skinbark đang tấn công một mình chống lại kẻ thù Orc, kẻ thù đó không tính Phòng thủ của nó.
 

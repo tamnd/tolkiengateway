@@ -93,7 +93,7 @@ infobox:
 - *Seven of Coins*: [Bilbo](../B/Bilbo_Baggins.md) cố gắng lấy lại chiếc thùng đầu tiên mà ông ta và [người Người Lùn](Thorin_and_Company.md) đã trốn thoát được [Sảnh của Vua Tiên](../E/Elvenking's_Halls.md)
 - *Eight of Coins*: [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) băng qua [Sông Đen](../E/Enchanted_River.md)
 - *Nine of Coins*: [Bilbo](../B/Bilbo_Baggins.md) quyết định giao [ Arkenstone](../A/Arkenstone.md) cho [Bard](../B/Bard.md) và [ Vua Tiên](Thranduil.md)
-- *Ten of Coins*: đám [Smaug](../S/Smaug.md) ở [the Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)
+- *Ten of Coins*: đám [Smaug](../S/Smaug.md) ở [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md)
 - *Page of Coins*: [Beorn](../B/Beorn.md) ở dạng [gấu](../B/Bears.md)
 - *Knight of Coins*: [Bard](../B/Bard.md) chuẩn bị bắn [mũi tên đen](../B/Black_arrow.md) vào [Rồng](../D/Dragons.md) [Smaug](../S/Smaug.md)
 - *Queen of Coins*: Một [Quý cô](../L/Lake-men.md) của [Thị trấn Hồ](../L/Lake-town.md)

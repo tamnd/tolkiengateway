@@ -15,7 +15,7 @@ images:
   - "CdxIconInfoFilled.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Woods in Middle-earth Role Playing&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Woods in Middle-earth Role Playing&#34; is a concept which has only appeared in an adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
 Để làm nổi bật khung cảnh, [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) giới thiệu nhiều loại gỗ mới được sử dụng để chế tạo và trồng trọt, ngoài [Ebony](../E/Ebony.md), [Cypresses](../C/Cypresses.md), [Pines](../P/Pines.md), [Beeches](../B/Beeches.md), [Oaks](../O/Oaks.md), [Lebethron](../L/Lebethron.md), [Mellyrn](../M/Mallorn.md) và [Oiolairë](../O/Oiolairë.md) (và các biến thể của chúng được mô tả trên các trang tương ứng).
 

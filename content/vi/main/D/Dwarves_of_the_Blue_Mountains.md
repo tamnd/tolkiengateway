@@ -48,7 +48,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Angelo_Montanini_-_Blue_Mountain_Dwarves.jpg.md"><img src="https://tolkiengateway.net/w/images/f/fc/Angelo_Montanini_-_Blue_Mountain_Dwarves.jpg" decoding="async" loading="lazy" width="260" height="220" class="mw-file-element" data-file-width="260" data-file-height="220"/></a><figcaption>&#34;<a href="../../file/A/Angelo_Montanini_-_Blue_Mountain_Dwarves.jpg.md" title="File:Angelo Montanini - Blue Mountain Dwarves.jpg">Blue Mountain Dwarves</a>&#34; by Angelo Montanini</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Dwarves of the Blue Mountains</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Dwarves of Ered Lindon</td></tr><tr><th scope="row" class="tg-infobox-label">Locations</th><td class="tg-infobox-data"><a href="../B/Blue_Mountains.md" title="Blue Mountains">Blue Mountains</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../U/Union_of_Maedhros.md" title="Union of Maedhros">Union of Maedhros</a>, <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rivalries</th><td class="tg-infobox-data"><a href="../I/Iathrim.md" title="Iathrim">Iathrim</a></td></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data"><a href="../K/Khuzdul.md" title="Khuzdul">Khuzdul</a>, <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>, <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Members</th><td class="tg-infobox-data"><a href="../A/Azaghâl.md" title="Azaghâl">Azaghâl</a>, <a href="../T/Telchar.md" title="Telchar">Telchar</a>, <a href="../G/Gamil_Zirak.md" title="Gamil Zirak">Gamil Zirak</a>, <a href="../F/Fíli.md" title="Fíli">Fíli</a>, <a href="../K/Kíli.md" title="Kíli">Kíli</a></td></tr></tbody></table>
 
-**Người lùn vùng Blue Mountains** là các nền văn hóa [Người lùn](Dwarves.md) khác nhau đã định cư tại [Ered Luin](../E/Ered_Luin.md).
+**Người Lùn vùng Blue Mountains** là các nền văn hóa [Người Lùn](Dwarves.md) khác nhau đã định cư tại [Ered Luin](../E/Ered_Luin.md).
 
 ## Lịch sử {#History}
 
@@ -84,8 +84,8 @@ Thậm chí vào [Kỷ Đệ Tứ](../F/Fourth_Age.md), người Lùn vẫn sinh
 
 ## Xem thêm {#See_also}
 
-- [Người lùn Belegost](Dwarves_of_Belegost.md)
-- [Người lùn Nogrod](Dwarves_of_Nogrod.md)
+- [Người Lùn Belegost](Dwarves_of_Belegost.md)
+- [Người Lùn Nogrod](Dwarves_of_Nogrod.md)
 - [Longbeards](../L/Longbeards.md)
 
 ## Ghi chú {#Notes}

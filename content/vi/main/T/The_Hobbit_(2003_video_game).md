@@ -176,7 +176,7 @@ Sau khi truy cập [Elrond](../E/Elrond.md), [Thorin và Đoàn tùy tùng](Thor
 
 #### Những câu đố trong bóng tối {#Riddles_in_the_Dark}
 
-Sau khi bị yêu tinh bắt, Bilbo bị tách khỏi phần còn lại của Công ty. Cấp độ này giới thiệu [Goblin-town](../G/Goblin-town.md) như một mỏ Người lùn, hoàn chỉnh với thang máy và đường ray xe đẩy tàu lượn siêu tốc. Ở cấp độ này, Bilbo gặp [Balfor](../B/Balfor.md), một Người lùn của [Dãy Đồi Sắt](../I/Iron_Hills.md) và Ugslap, người bảo vệ Yêu tinh. Cấp độ kết thúc với việc Bilbo tìm thấy Chiếc nhẫn.
+Sau khi bị yêu tinh bắt, Bilbo bị tách khỏi phần còn lại của Công ty. Cấp độ này giới thiệu [Goblin-town](../G/Goblin-town.md) như một mỏ Người Lùn, hoàn chỉnh với thang máy và đường ray xe đẩy tàu lượn siêu tốc. Ở cấp độ này, Bilbo gặp [Balfor](../B/Balfor.md), một Người Lùn của [Dãy Đồi Sắt](../I/Iron_Hills.md) và Ugslap, người bảo vệ Yêu tinh. Cấp độ kết thúc với việc Bilbo tìm thấy Chiếc nhẫn.
 
 <dl><dd><i>At this point, an animation starts, depicting the riddle game, followed by a story board telling of Bilbo&#39;s reuniting with the Dwarves. A second animation depicts the hiding in the trees and the rescue by the <a class="mw-redirect" href="../E/Eagles.md" title="Eagles">Eagles</a>. The narrator then summarizes the story from the drop off at the edge of Mirkwood (<a href="../B/Beorn.md" title="Beorn">Beorn</a> is omitted at this stage) to the capture of the Dwarves by the spiders.</i></dd></dl>
 

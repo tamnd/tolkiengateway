@@ -69,7 +69,7 @@ infobox:
     - Bởi: Denis Bridoux
 - Không thể và Sẽ không
     - Bởi: Jeremiah Burms
-- "Bảy cho các lãnh chúa Người lùn trong đại sảnh bằng đá của họ"
+- "Bảy cho các lãnh chúa Người Lùn trong đại sảnh bằng đá của họ"
     - Bởi: Martin Brockett
 - Tác phẩm nghệ thuật: *Seven Rings*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)

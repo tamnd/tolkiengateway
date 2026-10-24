@@ -14,7 +14,7 @@ categories:
   - "Third Age characters"
 ---
 
-**Burin** là một [Người lùn](../D/Dwarves.md) bị [Tolkien](../J/J.R.R._Tolkien.md) bỏ rơi khi đang trong quá trình tạo *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+**Burin** là một [Người Lùn](../D/Dwarves.md) bị [Tolkien](../J/J.R.R._Tolkien.md) bỏ rơi khi đang trong quá trình tạo *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Lịch sử {#History}
 

@@ -15,7 +15,7 @@ sort_keys:
   "Kings of Khazad-dûm": " "
 ---
 
-**Vua của Khazad-dûm** (*[S.](../S/Sindarin.md)* <i><b>Aran Moria</b></i>) là [Vua của Dân tộc Durin](King_of_Durin's_Folk~7047.md) người cai trị từ vị trí của mình tại [Khazad-dûm](../M/Moria.md), thành phố [Người lùn](../D/Dwarves.md) vĩ đại nhất của [Longbeards](../L/Longbeards.md).
+**Vua của Khazad-dûm** (*[S.](../S/Sindarin.md)* <i><b>Aran Moria</b></i>) là [Vua của Dân tộc Durin](King_of_Durin's_Folk~7047.md) người cai trị từ vị trí của mình tại [Khazad-dûm](../M/Moria.md), thành phố [Người Lùn](../D/Dwarves.md) vĩ đại nhất của [Longbeards](../L/Longbeards.md).
 
 Được thành lập vào [Năm Cây](../Y/Years_of_the_Trees.md) trong [Kỷ Đệ Nhất](../F/First_Age.md) bởi [Durin Bất Tử](../D/Durin_the_Deathless.md), vương quốc đã tồn tại hàng nghìn năm trước khi người dân của nó bị đuổi đi lưu vong bởi một [Balrog](../B/Balrog.md) ở [T.A.](../T/Third_Age.md) [1980](../T/Third_Age_1980.md). Tuy nhiên, theo lời tiên tri, [Durin VII](../D/Durin_VII.md) đã giành lại ngai vàng của tổ tiên mình sau [Kỷ Đệ Tứ](../F/Fourth_Age.md) [171](../F/Fourth_Age_171.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 

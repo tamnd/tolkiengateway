@@ -51,7 +51,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Hildibrand là con trai của [the Old Took](../G/Gerontius_Took.md). Ông cũng có một con trai, [Sigismond](../S/Sigismond_Took.md), sinh năm [S.R.](../S/Shire_Reckoning.md) [1290](../T/Third_Age_2890.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Hildibrand là con trai của [Old Took](../G/Gerontius_Took.md). Ông cũng có một con trai, [Sigismond](../S/Sigismond_Took.md), sinh năm [S.R.](../S/Shire_Reckoning.md) [1290](../T/Third_Age_2890.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
