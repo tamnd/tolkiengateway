@@ -22,7 +22,7 @@ infobox:
     value: "37:55"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Lay of Leithian</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Album by <a href="../A/Ainulindale_(band).md" title="Ainulindale (band)"> Ainulindale</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">dark neo-folk/ambient</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">37:55</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Lay of Leithian</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Album by <a href="../A/Ainulindale_(band).md" title="Ainulindale (band)"> Ainulindale</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2004.md" title="2004">2004</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">tân dân gian/môi trường xung quanh đen tối</td></tr><tr><th scope="row" class="tg-infobox-label">Chiều dài</th><td class="tg-infobox-data">37:55</td></tr></tbody></table>
 
 <i><b>The Lay of Leithian</b></i> là album đầu tiên của ban nhạc folk metal Pháp *[Ainulindale](<../A/Ainulindale_(band).md>)*, phát hành năm 2004.
 
@@ -32,9 +32,9 @@ infobox:
 <tbody><tr>
 <th style="background:var(--tg-color-surface-5);">Track Number
 </th>
-<th style="background:var(--tg-color-surface-5);">Name
+<th style="background:var(--tg-color-surface-5);">Tên
 </th>
-<th style="background:var(--tg-color-surface-5);">Length
+<th style="background:var(--tg-color-surface-5);">Chiều dài
 </th></tr>
 <tr>
 <td>1

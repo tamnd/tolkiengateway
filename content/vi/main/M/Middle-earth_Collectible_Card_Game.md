@@ -90,7 +90,7 @@ Các bản mở rộng sau này đã bổ sung thêm khả năng đảm nhận v
 		<li class="gallerybox" style="width: 180px">
 			<div class="thumb" style="width: 178px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/METW_-_Akhôrahil.jpg.md" title="A hazard"><img alt="A hazard" src="https://tolkiengateway.net/w/images/thumb/8/87/METW_-_Akh%C3%B4rahil.jpg/267px-METW_-_Akh%C3%B4rahil.jpg" decoding="async" loading="lazy" width="178" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/87/METW_-_Akh%C3%B4rahil.jpg/401px-METW_-_Akh%C3%B4rahil.jpg 1.5x, https://tolkiengateway.net/w/images/8/87/METW_-_Akh%C3%B4rahil.jpg 2x" data-file-width="420" data-file-height="590"/></a></span></div>
 			<div class="gallerytext">
-<p>Một mối nguy hiểm
+<p>A hazard
 </p>
 			</div>
 		</li>

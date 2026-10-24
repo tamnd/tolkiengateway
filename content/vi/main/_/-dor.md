@@ -18,7 +18,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the lenited <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a>/<a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> suffix</b>. For the the word meaning &#34;land&#34;, see <b><a href="../D/Dôr.md" title="Dôr">dôr</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>hậu tố <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a>/<a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> được lenited</b>. Đối với từ có nghĩa là "đất", xem <b><a href="../D/Dôr.md" title="Dôr">dôr</a></b>.</div></div>
 
 **-dor** là hậu tố [Sindarin](../S/Sindarin.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> có nghĩa là "vua, chúa".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Như đã thấy trong [Noldorin](../N/Noldorin.md) trước đó, từ này thực tế là <i><b>taur</b></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nhưng chỉ có dạng [lenited](../L/Lenition.md) được thấy trong các ví dụ.
 

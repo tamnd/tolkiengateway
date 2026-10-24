@@ -32,7 +32,7 @@ infobox:
 ## Bài thơ {#Poem}
 
 <div class="poem">
-<p><i>Tôi lurg i bauvailun, j'aišäd i raibo,</i>
+<p><i>I lurg i bauvailun, j&#39;aišäd i raibo,</i>
 </p>
 </div>
 

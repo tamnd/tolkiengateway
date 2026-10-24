@@ -152,7 +152,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Chubb&amp;action=edit&amp;redlink=1" title="William Chubb (page does not exist)">William Chubb</a></td>
-<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=High_Priest&amp;action=edit&amp;redlink=1" title="High Priest (page does not exist)">High Priest</a>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=High_Priest&amp;action=edit&amp;redlink=1" title="High Priest (page does not exist)">Tư tế tối cao</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Kirsty_Hoiles&amp;action=edit&amp;redlink=1" title="Kirsty Hoiles (page does not exist)">Kirsty Hoiles</a></td>

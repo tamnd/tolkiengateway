@@ -112,7 +112,7 @@ Bộ truyện bám sát cốt truyện của *[The Hobbit](../T/The_Hobbit.md)* 
 <td>Uta Hallant <br/> Lieselotte Rau
 </td></tr>
 <tr>
-<td><a href="../G/Great_Goblin.md" title="Great Goblin">Great Goblin</a></td>
+<td><a href="../G/Great_Goblin.md" title="Great Goblin">Đại yêu tinh</a></td>
 <td>Heinz Theo Branding
 </td></tr>
 <tr>

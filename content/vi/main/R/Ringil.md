@@ -29,7 +29,7 @@ images:
   - "NOLANOS_-_Helcaraxe.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Ringil</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Ringil_(disambiguation).md" title="Ringil (disambiguation)">Ringil (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Ringil</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Ringil_(disambiguation).md" title="Ringil (disambiguation)">Ringil (định hướng)</a></b>.</div></div>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/NOLANOS_-_Helcaraxe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ae/NOLANOS_-_Helcaraxe.jpg/250px-NOLANOS_-_Helcaraxe.jpg" decoding="async" loading="lazy" width="250" height="296" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ae/NOLANOS_-_Helcaraxe.jpg/375px-NOLANOS_-_Helcaraxe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ae/NOLANOS_-_Helcaraxe.jpg/500px-NOLANOS_-_Helcaraxe.jpg 2x" data-file-width="844" data-file-height="1000"/></a><figcaption><i>Helcaraxe</i> by <a href="../../category/I/Images_by_NOLANOS.md" title="Category:Images by NOLANOS">NOLANOS</a></figcaption></figure>
 
@@ -50,12 +50,12 @@ images:
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Weapons</a> in <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a>&#39;s <a href="../L/Legendarium.md" title="Legendarium">legendarium</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/W/Weapons.md" title="Category:Weapons">Vũ khí</a> trong <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a> của <a class="mw-redirect" href="../T/Tolkien.md" title="Tolkien">Tolkien</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"> <a href="../../category/A/Arrows.md" title="Category:Arrows">Arrows</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Black arrow</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="Red_Arrow.md" title="Red Arrow">Red Arrow</a>
+<td style="font-size: 90%;"> <a href="../B/Black_arrow.md" title="Black arrow">Mũi tên đen</a> · <a href="../D/Dailir.md" title="Dailir">Dailir</a> · <a href="Red_Arrow.md" title="Red Arrow">Mũi tên đỏ</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/A/Axes.md" title="Category:Axes">Axes</a>:

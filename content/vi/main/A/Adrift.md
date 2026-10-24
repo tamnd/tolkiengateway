@@ -169,7 +169,7 @@ Trong khoảnh khắc cuối cùng của tập phim, một con tàu vô danh và
 </td></tr>
 <tr>
 <td><a href="../S/Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
-<td><a href="../D/Disa.md" title="Disa">Princess Disa</a>
+<td><a href="../D/Disa.md" title="Disa">Công chúa Disa</a>
 </td></tr>
 <tr>
 <td><a href="../G/Geoff_Morrell.md" title="Geoff Morrell">Geoff Morrell</a></td>

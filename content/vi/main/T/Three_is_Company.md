@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Three_is_Company"
 content_sha256: 2eafca70d5e41d3068a86ee843039df36b2e573a089298579b305a42be842f2d
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "3rd chapter of the first book of The Fellowship of the Ring"
+short_description: "Chương 3 cuốn sách đầu tiên của The Fellowship of the Ring"
 categories:
   - "The Fellowship of the Ring chapters"
 hidden_categories:
@@ -35,10 +35,10 @@ infobox:
     value: "A Short Cut to Mushrooms"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg/320px-Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg" decoding="async" loading="lazy" width="320" height="202" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg/480px-Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg/640px-Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg 2x" data-file-width="700" data-file-height="441"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Three is Company</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Number</th><td class="tg-infobox-data">3</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Synopsis</span></th></tr><tr><th scope="row" class="tg-infobox-label">Event</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a>, and <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> journey through <a href="The_Shire.md" title="The Shire">the Shire</a>, encounter <a class="mw-redirect" href="../B/Black_Riders.md" title="Black Riders">Black Riders</a> and meet <a href="../G/Gildor.md" title="Gildor">Gildor</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/23_September.md" title="23 September">23</a>-<a href="../_/24_September.md" title="24 September">24 September</a> <a href="Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Shadow_of_the_Past.md" title="The Shadow of the Past">The Shadow of the Past</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../A/A_Short_Cut_to_Mushrooms.md" title="A Short Cut to Mushrooms">A Short Cut to Mushrooms</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/30/Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg/320px-Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg" decoding="async" loading="lazy" width="320" height="202" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/30/Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg/480px-Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/30/Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg/640px-Peter_Xavier_Price_-_Meeting_with_the_Elves.jpg 2x" data-file-width="700" data-file-height="441"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Chapter of <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ba người thành hội</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Số</th><td class="tg-infobox-data">3</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Tóm tắt nội dung</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise</a> và <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> hành trình xuyên qua <a href="The_Shire.md" title="The Shire"> Shire</a>, chạm trán <a class="mw-redirect" href="../B/Black_Riders.md" title="Black Riders">Kỵ sĩ Đen</a> và gặp <a href="../G/Gildor.md" title="Gildor">Gildor</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày</th><td class="tg-infobox-data"><a href="../_/23_September.md" title="23 September">23</a>-<a href="../_/24_September.md" title="24 September">24 September</a> <a href="Third_Age_3018.md" title="Third Age 3018">3018</a></td></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="The_Shadow_of_the_Past.md" title="The Shadow of the Past">Bóng Tối của Quá Khứ</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../A/A_Short_Cut_to_Mushrooms.md" title="A Short Cut to Mushrooms">Đường tắt đến chỗ có nấm</a></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>You ought to go quietly, and you ought to go soon.
+<p>Bạn nên đi lặng lẽ và bạn nên đi sớm.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -86,7 +86,7 @@ Những người Hobbit vẫn ẩn nấp và để Tiên tộc đi qua, nhìn h�
 Frodo hỏi liệu Hobbit có thể mang Tiên tộc đi cùng được không. Tiên tộc cười nhạo đề xuất này, gọi Hobbit là "ngu ngốc". Pippin đột nhiên xen vào và yêu cầu Tiên tộc kể cho họ nghe về Kỵ sĩ Đen. Tiên tộc trở nên nghiêm túc khi họ nghe được câu chuyện về cuộc chạm trán của Hobbit với hai tay đua như vậy. Họ bảo Hobbit đi cùng họ đến một ngọn đồi nhìn ra Woodhall, nơi họ có thể ngủ an toàn suốt đêm. Gildor cầu xin Hobbit đừng tiết lộ bất kỳ bí mật nào. Frodo cảm ơn Gildor và thốt lên lời chúc [Quenya](../Q/Quenya.md) mà anh đã học được từ Bilbo:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><a href="../E/Elen_síla_lúmenn&#39;_omentielvo.md" title="Elen síla lúmenn&#39; omentielvo">Elen síla lúmenn&#39; omentielvo</a>, a star shines on the hour of our meeting.
+<p><a href="../E/Elen_síla_lúmenn&#39;_omentielvo.md" title="Elen síla lúmenn&#39; omentielvo">Elen síla lúmenn' omentielvo</a>, một ngôi sao tỏa sáng vào giờ chúng ta gặp nhau.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -98,7 +98,7 @@ Cả nhóm tiến hành trong sự im lặng hoàn toàn về phía ngọn đồ
 Frodo đã có cuộc trò chuyện dài với Gildor. Họ nói về các sự kiện và lịch sử hiện tại, và Gildor thậm chí còn đề cập rằng ông đã nhìn thấy Bilbo hai lần kể từ khi rời Shire, mặc dù ông không nói rõ hơn. Gildor có vẻ như đã hiểu khái quát về nhiệm vụ của Frodo, mặc dù ông ta không biết bất kỳ chi tiết nào. Ông ta từ chối giải thích về Kỵ sĩ Đen, lập luận rằng nếu Gandalf không nói với Frodo về họ thì tốt hơn hết là ông ta chưa nên biết thì hơn. Frodo phàn nàn về mối nguy hiểm bất ngờ ập đến quê hương anh, nhưng Gildor nhắc nhở anh rằng anh đã chia sẻ vùng đất của mình với những sinh vật đã ở đó lâu hơn Hobbit.
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The wide world is all about you: you can fence yourself in, but you cannot for ever fence it out.
+<p>Thế giới rộng lớn là tất cả về bạn: bạn có thể tự rào mình vào, nhưng bạn không thể rào nó mãi mãi.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../G/Gildor_Inglorion.md" title="Gildor Inglorion">Gildor Inglorion</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -106,7 +106,7 @@ Frodo đã có cuộc trò chuyện dài với Gildor. Họ nói về các sự 
 Frodo nói với Gildor rằng Gandalf đã bỏ lỡ điểm hẹn và đã lâu không gặp, xin Gildor lời khuyên về cách tiếp tục. Gildor tỏ ra khá lo lắng trước tin này nhưng cũng nói với Frodo rằng việc chờ đợi hay tiếp tục là quyết định của ông. Frodo vặn lại bằng câu nói xưa:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Go not to the Elves for counsel, for they will say both no and yes.
+<p>Đừng đến Tiên tộc để được tư vấn, vì họ sẽ nói cả không và có.
 </p>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -114,7 +114,7 @@ Frodo nói với Gildor rằng Gandalf đã bỏ lỡ điểm hẹn và đã lâ
 Điều này khiến Gildor cảm thấy thích thú, cuối cùng anh cũng hài lòng và nói với Frodo rằng có lẽ anh nên tiếp tục lên đường càng sớm càng tốt. Anh giục Frodo đừng đi một mình. Ông vẫn từ chối giải thích về Kỵ sĩ Đen nhưng nhấn mạnh mối nguy hiểm mà họ đặt ra với tư cách là "đầy tớ của Kẻ Thù". Khi Frodo hỏi Gildor để trấn an, Gildor trả lời:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Courage is found in unlikely places.
+<p>Lòng dũng cảm được tìm thấy ở những nơi không ngờ đến.
 </p>
 <p class="tg-quote-footer"><cite><a class="mw-redirect" href="../G/Gildor_Inglorion.md" title="Gildor Inglorion">Gildor Inglorion</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

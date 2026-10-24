@@ -27,7 +27,7 @@ categories:
 <ul><li><a href="../_/1998.md" title="1998">1998</a>: <a class="external text" href="https://web.archive.org/web/20190221184236/http://www.guildcompanion.com:80/scrolls/1998/dec/index.html" rel="noreferrer noopener" target="_blank">December</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191115151519/http://www.guildcompanion.com/scrolls/1998/dec/taurthalion.html" rel="noreferrer noopener" target="_blank">Taurthalion - A Lord of Middle-Earth”</a> by <a href="../J/Joe_Mandala.md" title="Joe Mandala">Joe Mandala</a></li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191113210308/http://www.guildcompanion.com/scrolls/1998/dec/merp_adolesence.html" rel="noreferrer noopener" target="_blank">People of Middle-Earth - Arhunerim, Dunlending, Druadan”</a> by Joe Mandala</li>
-<li>“<a class="external text" href="https://web.archive.org/web/20191115151321/http://www.guildcompanion.com/scrolls/1998/dec/death_on_the_wing.html" rel="noreferrer noopener" target="_blank">Sẵn sàng chạy phiêu lưu - Tử thần trên cánh”</a> của Joe Mandala</li></ul></li>
+<li>“<a class="external text" href="https://web.archive.org/web/20191115151321/http://www.guildcompanion.com/scrolls/1998/dec/death_on_the_wing.html" rel="noreferrer noopener" target="_blank">Ready to Run Adventure - Death on the wing”</a> by Joe Mandala</li></ul></li>
 <li><a href="../_/1999.md" title="1999">1999</a>: <a class="external text" href="https://web.archive.org/web/20191128032519/http://www.guildcompanion.com:80/scrolls/1999/mar/" rel="noreferrer noopener" target="_blank">March</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128001305/http://www.guildcompanion.com/scrolls/1999/mar/gettingstartedmeccg.html" rel="noreferrer noopener" target="_blank">Getting Started with MECCG”</a> by <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nigel_Buckle&amp;action=edit&amp;redlink=1" title="Nigel Buckle (page does not exist)">Nigel Buckle</a></li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128032519/http://www.guildcompanion.com:80/scrolls/1999/mar/balrogreview.html" rel="noreferrer noopener" target="_blank">The Balrog Is Here”</a> (Review) by James Knight</li>
@@ -181,7 +181,7 @@ categories:
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000306/http://www.guildcompanion.com/scrolls/2002/may/pressmeccgevents2002.html" rel="noreferrer noopener" target="_blank">Press Release: MECCG 2002 World Championships and North American Nationals</a></li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000306/http://www.guildcompanion.com/scrolls/2002/may/pressdecipherreleaseschedule.html" rel="noreferrer noopener" target="_blank">Press Release: Decipher RPG Schedule for the year...and beyond!</a></li></ul></li>
 <li><a href="../_/2002.md" title="2002">2002</a>: <a class="external text" href="https://web.archive.org/web/20191128000327/http://www.guildcompanion.com/scrolls/2002/jun/" rel="noreferrer noopener" target="_blank">June</a>
-<ul><li>“<a class="external text" href="https://web.archive.org/web/20191128000327/http://www.guildcompanion.com/scrolls/2002/jun/decks.html" rel="noreferrer noopener" target="_blank">Hazard Deck Prototypes”</a> by Nigel Buckle</li></ul></li>
+<ul><li>“<a class="external text" href="https://web.archive.org/web/20191128000327/http://www.guildcompanion.com/scrolls/2002/jun/decks.html" rel="noreferrer noopener" target="_blank">Hazard Deck Prototypes”</a> by  Nigel Buckle</li></ul></li>
 <li><a href="../_/2002.md" title="2002">2002</a>: <a class="external text" href="https://web.archive.org/web/20191128000209/http://www.guildcompanion.com/scrolls/2002/jul/" rel="noreferrer noopener" target="_blank">July</a>
 <ul><li>“<a class="external text" href="https://web.archive.org/web/20191128000209/http://www.guildcompanion.com/scrolls/2002/jul/onering3.html" rel="noreferrer noopener" target="_blank">The Lure of the Ring, Part Two”</a> (MECCG Deck) by Pierre Jonas Castillo</li>
 <li>“<a class="external text" href="https://web.archive.org/web/20191128000209/http://www.guildcompanion.com/scrolls/2002/jul/pressdecipherproductchamps.html" rel="noreferrer noopener" target="_blank">Press Release: Decipher Seeks Product Champions</a></li></ul></li>
@@ -303,19 +303,19 @@ categories:
 <td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tạp chí chơi game trên máy tính bảng</b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Roleplaying in Middle-earth</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Nhập vai ở Trung Địa</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../O/Other_Hands.md" title="Other Hands">Other Hands</a></b></i> (<a href="../_/1993.md" title="1993">1993</a>-<a href="../_/2001.md" title="2001">2001</a>) • <i><b><a href="../O/Other_Minds.md" title="Other Minds">Other Minds</a></b></i> (<a href="../_/2007.md" title="2007">2007</a>-)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Wargaming in Middle-earth</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Mô phỏng chiến tranh ở Trung Địa</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../B/Battle_Games_in_Middle-earth.md" title="Battle Games in Middle-earth">Battle Games in Middle-earth</a></b></i> (<a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2006.md" title="2006">2006</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Magazines</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các tạp chí khác</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Dragon</a></b></i> (<a href="../_/1976.md" title="1976">1976</a>-<a href="../_/2013.md" title="2013">2013</a>) • <i><b><a href="../W/White_Dwarf.md" title="White Dwarf">White Dwarf</a></b></i> (<a href="../_/1977.md" title="1977">1977</a>-) • <i><b><a href="../I/InQuest.md" title="InQuest">InQuest</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/2007.md" title="2007">2007</a>) • <i><b><a class="mw-selflink selflink">The Guild Companion</a></b></i> (<a href="../_/1998.md" title="1998">1998</a>-<a href="../_/2019.md" title="2019">2019</a>)

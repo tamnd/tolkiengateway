@@ -22,7 +22,7 @@ categories:
 Thông tin chi tiết ban đầu về trò chơi bị hạn chế, nhưng trang web chính thức chứa hình ảnh, hình ảnh của nhóm làm việc trong trò chơi này, diễn đàn, hình nền và tính năng nhật ký của nhà thiết kế (ban đầu chỉ bao gồm các video "hậu trường" hài hước nhằm mục đích chia sẻ chi tiết thiết kế nhưng "vô tình" mất nét hoặc khó hiểu, do đó chỉ đưa ra một đoạn giới thiệu được thiết kế để thu hút sự quan tâm sớm của người hâm mộ). Trang web cũng có một bức thư từ nhà sản xuất điều hành trò chơi Steve Gray:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The action takes place in a massive open world where you can go anywhere you want, and the characters in this world are powered by an incredible simulation AI based on the same technology used by the makers of <i>The Sims 2</i>. The story of the game is built around a series of Story Quests. You can choose to follow specific Story Quests, embark on a range of other types of quests, or set off on your own adventures in the massive open world environment.
+<p>Hành động diễn ra trong một thế giới mở rộng lớn, nơi bạn có thể đi bất cứ nơi nào bạn muốn và các nhân vật trong thế giới này được hỗ trợ bởi AI mô phỏng đáng kinh ngạc dựa trên cùng công nghệ được các nhà sản xuất <i>The Sims 2</i> sử dụng. Câu chuyện của trò chơi được xây dựng xung quanh một loạt Nhiệm vụ Câu chuyện. Bạn có thể chọn theo dõi các Nhiệm vụ Câu chuyện cụ thể, bắt tay vào một loạt các loại nhiệm vụ khác hoặc bắt đầu cuộc phiêu lưu của riêng mình trong môi trường thế giới mở rộng lớn.
 </p>
 <p class="tg-quote-footer"><cite>Steve Gray</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

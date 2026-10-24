@@ -82,7 +82,7 @@ Trong truyện gốc, từ những năm 1950, [J.R.R. Tolkien](../J/J.R.R._Tolki
 <p>Mục tiêu của người Númenor là chiếm giữ vùng đất này và liên minh với 'Những kẻ tàn ác' của phương Bắc để đánh đuổi Người Hắc ám và dàn xếp để đe dọa Vua. (Hay điều này xảy ra trong khi Sauron không có trong Númenor?)
 Nơi này nằm ở cửa sông Isen? hoặc Morthond.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, "XVII. <a class="mw-selflink selflink">Tal-Elmar</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XVII. <a class="mw-selflink selflink">Tal-Elmar</a>&#34;</cite></p>
 </blockquote>
 
 Trong một ghi chú đính kèm sau, đề năm 1968, Tolkien đã thêm những điều sau đây về câu chuyện:
@@ -90,7 +90,7 @@ Trong một ghi chú đính kèm sau, đề năm 1968, Tolkien đã thêm nhữn
 <blockquote class="tg-quote noexcerpt">
 <p>Nó được bắt đầu mà không cần cân nhắc nhiều về mặt địa lý (hoặc tình huống như đã dự kiến ​​trong The Lord of the Rings). Nhưng hoặc nó phải vẫn là một câu chuyện riêng biệt chỉ có mối liên hệ mơ hồ với lịch sử Chúa tể những chiếc nhẫn đã phát triển, hoặc - và tôi nghĩ vậy - nó phải kể lại sự xuất hiện của người Númenor (Những người bạn yêu tinh) trước Sự sụp đổ, và thể hiện sự lựa chọn nơi trú ẩn vĩnh viễn của họ. Vì vậy, địa hình phải phù hợp với cửa Anduin và Langstrand.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, "XVII. <a class="mw-selflink selflink">Tal-Elmar</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i>, &#34;XVII. <a class="mw-selflink selflink">Tal-Elmar</a>&#34;</cite></p>
 </blockquote>
 
 Đáng chú ý, người Númenor bắt đầu xây dựng những nơi trú ẩn lâu dài vào khoảng năm [S.A.](../S/Second_Age.md) [1200](../S/Second_Age_1200.md) và các khu định cư lâu dài bắt đầu vào khoảng [S.A.](../S/Second_Age.md) [1800](../S/Second_Age_1800.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

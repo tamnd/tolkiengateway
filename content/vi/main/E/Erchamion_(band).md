@@ -20,7 +20,7 @@ infobox:
     value: "?-2020"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Erchamion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Chicago, Illinois</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">?-2020</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Ban nhạc</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Erchamion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin nền</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data">Chicago, Illinois</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">kim loại đen</td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian hoạt động</th><td class="tg-infobox-data">?-2020</td></tr></tbody></table>
 
 **Erchamion** là một ban nhạc black metal đến từ Chicago, Illinois.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên của nó bắt nguồn từ Erchamion ("Kẻ một tay"), một biểu tượng của [Beren](../B/Beren.md) được đặt sau khi [Carcharoth](../C/Carcharoth.md) nuốt chửng bàn tay của ông. Bản demo đầu tiên năm 2017 của nó được đặt theo tên của [Thranduil](../T/Thranduil.md), vua của [Mirkwood](../M/Mirkwood.md).
 

@@ -62,7 +62,7 @@ Có thể [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được lấy cảm hứng t
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Có hai người thợ xay [tại Sarehole Mill], hai cha con. Ông già có bộ râu đen nhưng chính cậu con trai mới khiến các cậu bé sợ hãi với bộ quần áo trắng bụi bặm và khuôn mặt sắc sảo. Ronald đặt tên cho ông là 'Người da trắng <a href="../O/Ogres.md" title="Ogres">Yêu tinh</a>'. Khi ông hét lên bảo họ dọn đi, họ sẽ chạy tán loạn ra khỏi sân...
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a>, trang 124-5</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a>, pp. 124-5</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">

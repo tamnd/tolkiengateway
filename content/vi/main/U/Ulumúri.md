@@ -38,9 +38,9 @@ images:
 [Tuor](../T/Tuor.md) đích thân nhìn thấy Ulmo thổi tù và khiến anh nhìn thấy tất cả các vùng nước trên thế giới trong một linh ảnh:
 
 <blockquote class="tg-quote noexcerpt">
-<p>And thereupon Ulmo lifted up a mighty horn, and blew upon it a single great note, to which the roaring of the storm was but a windflaw upon a lake.
+<p>Và sau đó Ulmo nhấc một chiếc tù và hùng mạnh lên và thổi vào nó một nốt nhạc lớn duy nhất, mà tiếng gầm của cơn bão chỉ là một cơn gió trên mặt hồ.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, &#34;<a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Of Tuor and his Coming to Gondolin</a>&#34;</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>, "<a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">Của Tuor và Việc Ngài Đến Gondolin</a>"</cite></p>
 </blockquote>
 
 ## Từ nguyên {#Etymology}

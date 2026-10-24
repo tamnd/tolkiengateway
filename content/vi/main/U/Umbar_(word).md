@@ -18,7 +18,7 @@ images:
   - "Umbar.gif"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Quenya word</b>. For the the Haven south of Gondor, see <b><a href="Umbar.md" title="Umbar">Umbar</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>từ Quenya</b>. Đối với Haven phía nam Gondor, xem <b><a href="Umbar.md" title="Umbar">Umbar</a></b>.</div></div>
 
 <i><b>umbar</b></i> là một danh từ [Quenya](../Q/Quenya.md) được dịch là "số phận".
 

@@ -18,13 +18,13 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">This article or section needs to be <b>cleaned up</b> to conform to a <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standard of article quality</a>.<blockquote class="tg-quote noexcerpt">
-<p>I shan&#39;t call it the end, till we&#39;ve cleared up the mess.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/4/47/Material_icon_-_Mop.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Cleanup</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>dọn dẹp</b> để phù hợp với <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn về chất lượng bài viết</a>.<blockquote class="tg-quote noexcerpt">
+<p>Tôi sẽ không coi đó là sự kết thúc cho đến khi chúng ta dọn dẹp được mớ hỗn độn này.
 </p>
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the music composition for the Lord of the Rings films</b>. For the book about the composition for The Lord of the Rings trilogy, see <b><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>sáng tác âm nhạc cho phim Chúa tể những chiếc nhẫn</b>. Để xem cuốn sách về việc biên soạn bộ ba phim The Lord of the Rings, hãy xem <b><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">Phim Âm nhạc của Chúa tể những chiếc nhẫn</a></b>.</div></div>
 
 Các sáng tác của Howard Shore cho *The Lord of the Rings* và *The Hobbit*, cùng với tác phẩm của Howard, Plan 9, David Long và Stephen Gallagher cho *The War of the Rohirrim*, *The Rings of Power* Phần Một và các dự án khác thể hiện một tác phẩm âm nhạc kịch tính kéo dài khoảng 24 giờ âm nhạc. Âm nhạc này dựa trên các giai điệu dân gian, thường là từng bước; hòa âm ba (mặc dù nhìn chung không ổn định về mặt phím) và dàn nhạc đông đảo, thường được trang trí bằng các nhạc cụ trần tục bên ngoài dàn nhạc đầy đủ.
 
@@ -64,24 +64,24 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tbody><tr>
 <th>#
 </th>
-<th>Name
+<th>Tên
 </th>
-<th>Description
+<th>Mô tả
 </th></tr>
 <tr>
 <td>1
 </td>
-<td><b>&#34;Impediment&#34; theme</b>
+<td><b>Chủ đề “Trở ngại”</b>
 </td>
-<td>This theme is a chromatic arpeggio (A minor: 1-3-5-♭6), sequenced a flat sixth apart. It is usually harmonized in minor triads a flat sixth apart (sometimes retrograded), and this sonority also appears on its own. It is introduced in the <i>Rings of Power</i> titles, where it is transformed as an F Lydian arpeggio (F: 1-3-♯4-5) over chords a minor third apart. The chords then appear in <i>The War of the Rohirrim</i> to depict the antagonists: Gm: iii-i depicting Freca, then G♭m: ♭vi-i under Wulf. The definitive theme appears throughout the live-action films, always representing impediment.
+<td>Chủ đề này là hợp âm rải màu (Giô thứ: 1-3-5-♭6), được sắp xếp theo thứ tự thứ sáu bằng phẳng. Nó thường được hòa âm trong các bộ ba thứ cách nhau một quãng sáu phẳng (đôi khi bị lùi lại), và âm sắc này cũng tự xuất hiện. Nó được giới thiệu trong tiêu đề <i>Rings of Power</i>, trong đó nó được chuyển thành hợp âm rải F Lydian (F: 1-3-♯4-5) trên các hợp âm cách nhau một phần ba thứ. Sau đó, các hợp âm xuất hiện trong <i>The War of the Rohirrim</i> để miêu tả các nhân vật phản diện: Gm: iii-i miêu tả Freca, rồi G♭m: ♭vi-i dưới Wulf. Chủ đề dứt khoát xuất hiện xuyên suốt các bộ phim live-action, luôn tượng trưng cho sự trở ngại.
 </td></tr>
 <tr>
 <td>2
 </td>
 <td><b>Scales</b>
 </td>
-<td>This is one of the basic devices Howard uses throughout the scores. Scalar motion may depict the Hobbits (usually as C: 1-2-3 starting on a quaver) but since scalar motion is inherent in many themes, it is used more generally in the scores, in any key or modality.
-<p>In more dangerous situation, Howard uses clusters or chromatic scales.
+<td>Đây là một trong những thiết bị cơ bản mà Howard sử dụng xuyên suốt các bản nhạc. Chuyển động vô hướng có thể mô tả Hobbit (thường là C: 1-2-3 bắt đầu từ rung động) nhưng vì chuyển động vô hướng vốn có trong nhiều chủ đề nên nó được sử dụng tổng quát hơn trong các bản nhạc, trong bất kỳ phím hoặc thể thức nào.
+<p>Trong tình huống nguy hiểm hơn, Howard sử dụng cụm hoặc thang màu.
 </p>
 </td></tr>
 <tr>
@@ -89,15 +89,15 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Walking Songs</b>
 </td>
-<td>There are two walking songs repeated in the scores: Plan 9 and David Long&#39;s &#34;This Wandering Day&#34; and Fran Walsh&#39;s &#34;The Road Goes Ever On.&#34; The latter always appears with the Hobbits&#39; theme.
+<td>Có hai bài hát đi bộ được lặp lại trong bản nhạc: Plan 9 và "This Wandering Day" của David Long và "The Road Goes Ever On" của Fran Walsh. Cái sau luôn xuất hiện với chủ đề Hobbit'.
 </td></tr>
 <tr>
 <td>4
 </td>
 <td><b>The Ring</b>
 </td>
-<td>This theme is based on the rising and falling minor second. It is stated in strings in a chromaticised F minor, then in A♭ minor, all harmonized in minor triads a minor second apart (F minor to E minor).
-<p>Henceforth, all themes based on minor seconds (usually rising and falling) will depict Sauron and his forces. This rising and falling kernel is also used by itself to depict the forces of evil.
+<td>Chủ đề này dựa trên giây thứ tăng và giảm. Nó được thể hiện bằng các chuỗi ở âm F thứ được đổi màu, sau đó ở A♭ thứ, tất cả đều được hòa âm trong bộ ba thứ cách nhau một giây thứ (F thứ đến E thứ).
+<p>Từ nay trở đi, tất cả các chủ đề dựa trên giây thứ (thường là tăng và giảm) sẽ mô tả Sauron và lực lượng của ông. Hạt nhân phồng lên và xẹp xuống này cũng được chính nó dùng để miêu tả các thế lực tà ác.
 </p>
 </td></tr>
 <tr>
@@ -105,18 +105,18 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Eowyn and Theoden</b>
 </td>
-<td>This theme, voiced in open chords, depicts Eowyn, particularly in her relationship to Theoden.
+<td>Chủ đề này, được lồng tiếng bằng hợp âm mở, mô tả Eowyn, đặc biệt là trong mối quan hệ của cô với Theoden.
 </td></tr>
 <tr>
 <td>6
 </td>
 <td><b>Rohan</b>
 </td>
-<td>This major theme is usually set in A Dorian and played by either <i>hardingfelle</i> or high brass. It has several detachable parts:
-<ul><li><b>Rhythm</b>: The opening unison quavers evoke galloping horse hooves.</li>
-<li><b>Melody</b>: This rises a minor third, then proceeds stepwise along the Dorian mode. In the fullest statements, the consequent phrase concludes with a plagal cadence. In the Pelennor fields, this is reshaped into driving triplets, and these then appear on their own. A countermelody emphasizes the falling and rising major second. Later, the melody is sometimes altered to begin on a major third or even perfect fourth.</li>
-<li><b>Chords:</b> in keeping with the Dorian setting, the theme is usually harmonized in A Dorian: i-IV but in the fullest statements this is expanded to i-VII-III-IV.</li></ul>
-<p>Henceforth, all the themes associated with mankind will be modal, usually incorporating a prominent leap into the melodic contour.
+<td>Chủ đề chính này thường lấy bối cảnh là A Dorian và được chơi bởi <i>hardingfelle</i> hoặc đồng thau cao. Nó có một số bộ phận có thể tháo rời:
+<ul><li><b>Nhịp điệu</b>: Đoạn mở đầu đồng thanh rung chuyển gợi lên tiếng vó ngựa phi nước đại.</li>
+<li><b>Giai điệu</b>: Giai điệu này tăng lên một phần ba thứ, sau đó tiếp tục tăng dần theo chế độ Dorian. Trong những tuyên bố đầy đủ nhất, cụm từ hệ quả kết thúc bằng nhịp điệu đạo văn. Trong các cánh đồng Pelennor, điều này được định hình lại thành các bộ ba lái xe và sau đó chúng tự xuất hiện. Một giai điệu đối âm nhấn mạnh vào giây trưởng giảm và tăng. Sau đó, giai điệu đôi khi được thay đổi để bắt đầu ở quãng ba trưởng hoặc thậm chí là quãng bốn hoàn hảo.</li>
+<li><b>Hợp âm:</b> để phù hợp với bối cảnh Dorian, chủ đề thường được hòa âm trong A Dorian: i-IV nhưng trong các câu đầy đủ nhất, chủ đề này được mở rộng thành i-VII-III-IV.</li></ul>
+<p>Từ đó trở đi, tất cả các chủ đề liên quan đến nhân loại sẽ mang tính hình thức, thường kết hợp một bước nhảy vọt nổi bật vào đường viền giai điệu.
 </p>
 </td></tr>
 <tr>
@@ -124,41 +124,41 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Eowyn</b>
 </td>
-<td>Eowyn&#39;s main theme is first hinted at in Hera&#39;s music. The theme leaps a fifth then proceeds stepwise over C Lydian: I-II-iii. Eowyn&#39;s first two scenes feature a similar progression under a scale, the perfect fifth ironed out. When she rebukes Grima, this theme which had since taken to the minor mode, regains the perfect fifth. Gallagher&#39;s score features other themes unique to it:
-<ul><li>The secondary theme leaps a perfect fifth and major sixth, then subsides in a stepwise figure. It mostly represents Helm and his sons.</li>
-<li>Olwyn is represented by a lyrical idea in thirds.</li>
-<li>Another idea in major and minor seconds represents Hera&#39;s relationship to Helm.</li></ul>
+<td>Chủ đề chính của Eowyn lần đầu tiên được gợi ý trong âm nhạc của Hera. Chủ đề nhảy lên phần năm rồi tiếp tục từng bước qua C Lydian: I-II-iii. Hai cảnh đầu tiên của Eowyn có diễn biến tương tự theo quy mô, cảnh thứ năm hoàn hảo đã được giải quyết. Khi bà quở trách Grima, chủ đề này vốn đã được chuyển sang chế độ thứ yếu, lấy lại được phần thứ năm hoàn hảo. Bản nhạc của Gallagher có các chủ đề khác độc đáo:
+<ul><li>Chủ đề phụ nhảy lên nốt thứ năm hoàn hảo và nốt thứ sáu trưởng, sau đó giảm dần theo hình bậc thang. Nó chủ yếu đại diện cho Helm và các con trai của ông.</li>
+<li>Olwyn được thể hiện bằng ý tưởng trữ tình ở quãng ba.</li>
+<li>Một ý tưởng khác về giây chính và giây thứ thể hiện mối quan hệ của Hera với Helm.</li></ul>
 </td></tr>
 <tr>
 <td>8
 </td>
 <td><b>Ring (Chords)</b>
 </td>
-<td>This theme has three separable components, both representing the Ringwraiths but also danger more generally:
-<ul><li>Rhythm: two paired crotchets</li>
-<li>Chords: This verticalizes the Ring [4] to produce a minor triad with an added ninth. The resolving, minor plagal cadence may also appear by itself.</li>
-<li>Accompaniment: This idea leaps a minor sixth then falls down a minor scale.</li></ul>
+<td>Chủ đề này có ba thành phần có thể tách rời, cả hai đều đại diện cho Nazgûl nhưng cũng có mối nguy hiểm nói chung:
+<ul><li>Nhịp điệu: hai cái móc đôi</li>
+<li>Hợp âm: Điều này làm cho Vòng tròn [4] theo chiều dọc để tạo ra hợp âm ba thứ có thêm quãng thứ chín. Nhịp điệu plagal nhỏ, có độ phân giải cũng có thể tự xuất hiện.</li>
+<li>Nhạc đệm: Ý tưởng này nhảy lên thứ sáu thứ rồi rơi xuống âm giai thứ.</li></ul>
 </td></tr>
 <tr>
 <td>9
 </td>
 <td><b>Horns</b>
 </td>
-<td>Leaps ranging from a minor third to a perfect fifth appear throughout the scores, either in the score or as horn sound effects. Again, since these intervals are shared between multiple themes, they can be used in various contexts. Howard also frequently uses open fifths.
+<td>Các bước nhảy từ nốt thứ ba đến nốt thứ năm xuất hiện xuyên suốt bản nhạc, dưới dạng bản nhạc hoặc dưới dạng hiệu ứng âm thanh còi. Một lần nữa, vì những khoảng thời gian này được chia sẻ giữa nhiều chủ đề nên chúng có thể được sử dụng trong nhiều ngữ cảnh khác nhau. Howard cũng thường xuyên sử dụng phần năm mở.
 </td></tr>
 <tr>
 <td>10
 </td>
 <td><b>Gondor</b>
 </td>
-<td>This theme shares the Dorian setting, but leaps a perfect fifth (recalling Eowyn [5, 7], who will end up in Gondor) on D. Later, Howard will set it in rotary-valve trumpets.
+<td>Chủ đề này chia sẻ bối cảnh Dorian, nhưng nhảy lên vị trí thứ năm hoàn hảo (gợi nhớ đến Eowyn [5, 7], người sẽ kết thúc ở Gondor) trên D. Later, Howard sẽ đặt nó trong những chiếc kèn van quay.
 </td></tr>
 <tr>
 <td>11
 </td>
-<td><b>Rohan lament</b>
+<td><b>Rohan than thở</b>
 </td>
-<td>Versions of this lament (composed by plan 9 and David Long) appear both for Helm (in <i>The War of the Rohirirm</i>) and for Theodred (in <i>The Two Towers</i>).
+<td>Các phiên bản của lời than thở này (do plan 9 và David Long sáng tác) xuất hiện cho cả Helm (trong <i>The War of the Rohirirm</i>) và cho Theodred (trong <i>The Two Towers</i>).
 </td></tr>
 <tr>
 <td>12
@@ -177,26 +177,26 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tr>
 <td>14
 </td>
-<td><b>The Hobbits (main theme)</b>
+<td><b>Người Hobbit (chủ đề chính)</b>
 </td>
 <td>This theme, along with the Ring [4] is the nearest the series has to a main theme. It is almost always set in D pentatonic or C pentatonic, usually in strings, solo clarinet or tin whistle: this latter instrument is replaced by flute in <i>The Return of the King</i>. It is again in detachable parts:
-<ul><li><b>First phrase</b>: This rises through four scale degrees, then falls back down. It is typically harmonized in D: I-IV-I-V.</li>
+<ul><li><b>Cụm từ đầu tiên</b>: Thang này tăng lên theo bốn độ, sau đó lại giảm xuống. Nó thường được hòa âm trong D: I-IV-I-V.</li>
 <li><b>Second phrase</b>: By sequencing the initial stepwise motif upwards and harmonizing it with D: vii-IV-V-I, this part of the theme depicts the Shire as &#34;the place that makes your heart swell when you think about it.&#34;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
 <li><b>Accompaniment</b>: the first part is often accompanied by this bumptious outline in fifths and fourths. Howard omits this when a more sobering effect is called for, but he also uses it on its own.</li></ul>
 </td></tr>
 <tr>
 <td>15
 </td>
-<td><b>The Ring (fragment)</b>
+<td><b>Chiếc Nhẫn (mảnh vỡ)</b>
 </td>
-<td>Howard derives several fragments from the Ring that appear on their own:
-<ul><li>Ascending second: Both in <i>An Unexpected Journey</i> and <i>The Fellowship of the Ring</i>, Bilbo blows smoke rings to the sound of a tritone gliding into the fifth. This recreates the rising minor second that opens the ring [4] but over a major chord: it returns after the Ring&#39;s destruction when characters recall it, reaffirming that the Ring is indeed gone. The figure does also appear in the minor as a more pointed allusion to the Ring throughout the quest.</li>
+<td>Howard lấy được một số mảnh vỡ từ Chiếc nhẫn tự xuất hiện:
+<ul><li>Giây tăng dần: Cả ở <i>An Unexpected Journey</i> và <i>The Fellowship of the Ring</i>, Bilbo thổi các vòng khói theo âm thanh tam cung lướt vào quãng năm. Điều này tái tạo lại giây thứ đang lên mở ra chiếc nhẫn [4] nhưng qua một hợp âm trưởng: nó quay trở lại sau khi Chiếc nhẫn bị phá hủy khi các nhân vật nhớ lại nó, xác nhận lại rằng Chiếc nhẫn thực sự đã biến mất. Hình tượng này cũng xuất hiện ở phần phụ như một sự ám chỉ rõ ràng hơn đến Chiếc nhẫn trong suốt nhiệm vụ.</li>
 <li>Chords: Howard also harmonizes this motion as minor triads a minor second apart, or as a minor triad resolving to a major triad: this latter gesture concludes the prologue of <i>Fellowship of the Ring</i> (E♭: i-I) and both Weathertop (on album) and the walls of Moria are revealed to the sound of fanfares derived from this gesture.</li></ul>
 </td></tr>
 <tr>
 <td>16
 </td>
-<td><b>Bilbo Baggins, first theme</b>
+<td><b>Bilbo Baggins, chủ đề đầu tiên</b>
 </td>
 <td>This theme reshapes the Hobbits&#39; theme to depict Bilbo Baggins. In the announcement trailer, only its first phrase is heard, but in <i>An Unexpected Journey</i> it is sometimes extended into a second phrase which, with its melodic leaps and horn scoring hints at Bilbo&#39;s more outgoing, &#34;Tookish&#34; side. This phrase is later used on its own.
 </td></tr>
@@ -210,28 +210,28 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tr>
 <td>18
 </td>
-<td><b>First Dwarven theme (Thorin):</b>
+<td><b>Chủ đề Người Lùn đầu tiên (Thorin):</b>
 </td>
 <td>The stepwise nature of this theme depicts the influence Bilbo will play in Thorin&#39;s life. As in the announcement trailer, it is often (but not consistently) heard as a countermelody for [17]. The theme is not, however, Thorin&#39;s theme in <i>strictu sensu</i>: it scores most of the establishing montage of Erebor, and several scenes of the company at large. Again, notice the &#34;Dwarven&#34; Am-G harmony.
 </td></tr>
 <tr>
 <td>19
 </td>
-<td><b>Second Dwarven theme, first form</b>
+<td><b>Kỷ Đệ Nhị Người Lùn chủ đề, dạng đầu tiên</b>
 </td>
 <td>This theme is used more generally for the Dwarves (it&#39;s called &#34;The House of Durin&#34; in Howard&#39;s sketches). This first form, heard over the opening titles of <i>An Unexpected Journey</i>, combines the contour of the definitive theme with the pitches of the Ring fragment [15]. It also appears during the eagle rescue (only on album) and when the Dwarves reunite in Erebor after Smaug&#39;s attack.
 </td></tr>
 <tr>
 <td>20
 </td>
-<td><b>Bilbo Baggins, second theme</b>
+<td><b>Bilbo Baggins, chủ đề thứ hai</b>
 </td>
-<td>This theme (A-B-C♯-E-E-G♯-G♯-A-E-C♯-E-D) also appears in the opening titles of <i>An Unexpected Journey</i>. It is also heard, heroically in horns, when Bilbo rescues Thorin.
+<td>Chủ đề này (A-B-C♯-E-E-G♯-G♯-A-E-C♯-E-D) cũng xuất hiện trong tiêu đề mở đầu của <i>An Unexpected Journey</i>. Nó cũng được nghe thấy, một cách anh hùng bằng còi, khi Bilbo giải cứu Thorin.
 </td></tr>
 <tr>
 <td>21
 </td>
-<td><b>First tragic theme (transcendant)</b>
+<td><b>Chủ đề bi thảm đầu tiên (siêu việt)</b>
 </td>
 <td>This theme first appears during the opening shots of <i>An Unexpected Journey</i>: this creates a sense of bookends with an identical statement in the Grey Havens, when Gandalf says farewel to the Hobbits. It also laments Gandalf&#39;s death (Doug Adams calls it &#34;Gandalf&#39;s farewells&#34;) and is embedded into the farewell from Lorien. But it also appears during the final scenes on the slopes of Mount Doom. It is a chord progression atypical of the rest of the score: A♭: vi-IV-I-V. This results in the top voices rising and falling a minor second (cf. [4]) but then falling another major second. Combinations of rising and falling major and minor seconds, as well as minor scales, unite all the themes that depict Sauron&#39;s influence on Middle-earth (also [1]).
 </td></tr>
@@ -240,28 +240,28 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>The Journey Back</b>
 </td>
-<td>This theme, first appearing over the map transition to Erebor, again creates bookends with the map transition from Minas Tirith back to the Shire in <i>The Return of the King</i>. Appearing throughout the denoument of the film, it depicts the journey back from Mordor. It is a rising scale harmonized in chromatic mediants.
+<td>Chủ đề này, lần đầu tiên xuất hiện trong quá trình chuyển đổi bản đồ sang Erebor, một lần nữa tạo ra các liên kết với quá trình chuyển đổi bản đồ từ Minas Tirith trở lại Shire trong <i>The Return of the King</i>. Xuất hiện xuyên suốt phần đầu phim, nó mô tả hành trình trở về từ Mordor. Đó là thang âm tăng dần được hài hòa trong các dải màu trung gian.
 </td></tr>
 <tr>
 <td>23
 </td>
-<td><b>Third Dwarven theme (Erebor)</b>
+<td><b>Kỷ Đệ Tam Người Lùn chủ đề (Erebor)</b>
 </td>
 <td>This theme is three rising horncalls outlining an A Aeolian scale: 1-3, 1-4, 1-5. It subsides in a descending, syncopated pattern that is later also used on its own. Again, it is not Erebor&#39;s theme in <i>stricto sensu</i>: statements of it appear for the company, and for Thorin (it is played diegetically for his obsequies), as well as for the Iron Hill Dwarves. Henceforth, non-melodic Dwarven music will be characterized by its intervallic nature, often parallel fifths.
 </td></tr>
 <tr>
 <td>24
 </td>
-<td><b>Arkenstone, first theme</b>
+<td><b>Arkenstone, chủ đề đầu tiên</b>
 </td>
-<td>In keeping with the intervallic Dwarven style, this theme begins on an open fifth, but then clusters in the chorus [2]. It depicts the mysterious aspect of the stone, but also appears when Gandalf hands Thorin the map and the key: the means towards finding the Arkenstone.
+<td>Để phù hợp với phong cách ngắt quãng Người Lùn, chủ đề này bắt đầu ở quãng năm mở, nhưng sau đó kết hợp thành phần điệp khúc [2]. Nó mô tả khía cạnh bí ẩn của viên đá, nhưng cũng xuất hiện khi Gandalf trao Thorin bản đồ và chìa khóa: phương tiện để tìm thấy Arkenstone.
 </td></tr>
 <tr>
 <td>25
 </td>
-<td><b>Arkenstone, second theme</b>
+<td><b>Arkenstone, chủ đề thứ hai</b>
 </td>
-<td>This syncopated, B minor string figure first appears with [24] but they become increasingly independent as the score continues. In The Battle of the Five Armies, this idea often appears unresolved to depict Thorin&#39;s mounting obsession to retrieve the stone.
+<td>Hình chuỗi B thứ đảo ngược này lần đầu tiên xuất hiện cùng với [24] nhưng chúng ngày càng trở nên độc lập khi bản nhạc tiếp tục. Trong Trận chiến của năm cánh quân, ý tưởng này thường xuất hiện chưa được giải quyết để mô tả nỗi ám ảnh ngày càng tăng của Thorin về việc lấy lại viên đá.
 </td></tr>
 <tr>
 <td>26
@@ -273,119 +273,119 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tr>
 <td>27
 </td>
-<td><b>Smaug, first theme</b>
+<td><b>Smaug, chủ đề đầu tiên</b>
 </td>
-<td>This theme is in three parts:
-<ul><li><b>Melody</b>: The F Phrygian Dominant setting denotes the old age of the Dragon. Henceforth, everything old in Middle earth (Galadriel, Sauron) will be depicted by this mode. The theme emphasizes the rising and falling minor second [4] and augmented second inherent to this mode.</li>
-<li><b>Chords</b>: This progression (F: I-i-I) sequences [15] to depict the Dragon&#39;s breath.</li>
-<li><b>Accompaniment</b>: The theme is accompanied by semiquavers in Gamelan. The ensemble sometimes doubles the melody inharmonically, and lends its texture to the treasure hoard sequence.</li></ul>
+<td>Chủ đề này có ba phần:
+<ul><li><b>Giai điệu</b>: Cài đặt F Phrygian Dominant biểu thị tuổi già của Rồng. Từ nay trở đi, mọi thứ cũ ở Trung Địa (Galadriel, Sauron) sẽ được mô tả bằng chế độ này. Chủ đề nhấn mạnh đến giây thứ tăng và giảm [4] và giây tăng cường vốn có của chế độ này.</li>
+<li><b>Hợp âm</b>: Chuỗi tiến trình (F: I-i-I) [15] này mô tả hơi thở của Rồng.</li>
+<li><b>Đệm</b>: Chủ đề được đi kèm với phần đệm trong Gamelan. Bản hòa tấu đôi khi nhân đôi giai điệu một cách không hài hòa và tạo thêm kết cấu của nó cho chuỗi tích trữ kho báu.</li></ul>
 </td></tr>
 <tr>
 <td>28
 </td>
 <td><b>Dwarvish Wanderers</b>
 </td>
-<td>This scalar figure bemoans the Dwarves&#39; downfall and loss of their homeland. It is also heard when Thorin is struck down by Azog in <i>An Unexpected Journey</i>, and during their arrival to the Hidden Door. It is often combined with a &#34;Dwarven&#34; form of the Impediment arpeggio [1].
+<td>Con số vô hướng này than khóc về sự sụp đổ và mất mát quê hương của Người Lùn. Nó cũng được nghe thấy khi Thorin bị Azog đánh bại trong <i>An Unexpected Journey</i> và khi họ đến Cánh Cửa Ẩn. Nó thường được kết hợp với dạng "Người Lùn" của hợp âm rải Impediment [1].
 </td></tr>
 <tr>
 <td>29
 </td>
-<td><b>Hobbit party music</b>
+<td><b>Hobbit âm nhạc tiệc tùng</b>
 </td>
-<td>This Plan 9 tune embellishes the Hobbits&#39; diatonic harmonies with some light chromaticism. It is heard briefly in the Old Took&#39;s birthday, and in extenso during Bilbo&#39;s Farewell Party.
+<td>Giai điệu Kế hoạch 9 này tô điểm cho hòa âm diatonic Hobbit' bằng một số sắc độ nhẹ. Nó được nghe thoáng qua trong ngày sinh nhật của Old Took và kéo dài trong Tiệc chia tay của Bilbo.
 </td></tr>
 <tr>
 <td>30
 </td>
-<td><b>Hobbits (mysterious variant)</b>
+<td><b>Hobbit (biến thể bí ẩn)</b>
 </td>
-<td>This augments the Shire&#39;s accompaniment [14.3] to the contour of the Impediment theme. It depicts many of the early scenes of <i>An Unexpected Journey</i>, and returns in <i>Fellowship of the Ring</i> when Gandalf glimpses Thorin&#39;s map.
+<td>Điều này làm tăng phần đệm của Shire[14.3] theo đường viền của chủ đề Trở ngại. Nó mô tả nhiều cảnh đầu tiên của <i>An Unexpected Journey</i> và quay lại trong <i>Fellowship of the Ring</i> khi Gandalf nhìn thoáng qua bản đồ của Thorin.
 </td></tr>
 <tr>
 <td>31
 </td>
-<td><b>Hobbits (folk variant)</b>
+<td><b>Hobbit (biến thể dân gian)</b>
 </td>
-<td>This version mostly appears for scenes in Hobbiton, but also in the cornfield in <i>Fellowship of the Ring</i> and, slow and retrograded, in the concert piece <i>Ironfoot</i>. Notice that, on the theme&#39;s first appearance, it concludes with a &#34;fiddle fanfare&#34; as Bilbo realizes it&#39;s the day of the farewell party: another statement of the theme concluding with the same fanfare will score the erecting of the sign to the party in <i>Fellowship of the Ring</i>. It is in two parts:
-<ul><li>Melody: this is a staccato version of the Hobbits theme.</li>
-<li>Accompaniment: This &#34;Um pa-pah&#34; rhyhtm is later used on its own and with other themes. The theme is also accompanied by a tapping on the bodhrain drums which also appears with other themes.</li></ul>
+<td>Phiên bản này chủ yếu xuất hiện trong các cảnh trong Hobbiton, nhưng cũng xuất hiện ở cánh đồng ngô trong <i>Fellowship of the Ring</i> và, chậm và ngược dòng, trong bản hòa nhạc <i>Ironfoot</i>. Lưu ý rằng, trong lần xuất hiện đầu tiên của chủ đề, nó kết thúc bằng một "sự phô trương kỳ lạ" khi Bilbo nhận ra rằng đó là ngày diễn ra bữa tiệc chia tay: một tuyên bố khác về chủ đề kết thúc với cùng một sự phô trương tương tự sẽ ghi điểm việc dựng biển hiệu cho bữa tiệc trong <i>Fellowship of the Ring</i>. Nó có hai phần:
+<ul><li>Giai điệu: đây là phiên bản ngắt âm của chủ đề Hobbit.</li>
+<li>Phần đệm: Vần điệu "Um pa-pah" này sau đó được sử dụng riêng và với các chủ đề khác. Chủ đề này cũng đi kèm với tiếng gõ vào trống bodhrain cũng xuất hiện cùng với các chủ đề khác.</li></ul>
 </td></tr>
 <tr>
 <td>32
 </td>
 <td><b>Smeagol</b>
 </td>
-<td>This theme, which brings out the pitiful Smeagol side of Gollum&#39;s character, is first alluded to when the chords of the second Shire phrase [14.2] turn minor.
+<td>Chủ đề này, làm nổi bật khía cạnh Smeagol đáng thương của nhân vật Gollum, lần đầu tiên được ám chỉ đến khi các hợp âm của cụm từ Shire thứ hai [14.2] chuyển sang thứ.
 </td></tr>
 <tr>
 <td>33
 </td>
 <td><b>First Playful motif</b>
 </td>
-<td>This elides the first pitch of [14.3] and sequences it to create a rhyhtmic figure in perfect fourths that skips the first beat of the measure. It often appears with [32] but both also appear in their own.
+<td>Điều này bỏ qua cao độ đầu tiên của [14.3] và sắp xếp nó để tạo ra một hình có nhịp điệu ở quãng bốn hoàn hảo bỏ qua nhịp đầu tiên của nhịp. Nó thường xuất hiện cùng với [32] nhưng cả hai cũng xuất hiện riêng.
 </td></tr>
 <tr>
 <td>34
 </td>
-<td><b>Hobbits (Playful variant)</b>
+<td><b>Hobbit (Biến thể vui tươi)</b>
 </td>
-<td>This combines two separable elements: a chromatic sequence of the accompaniment [31.2] and a playful form of the original [14]. The full combination only appears in The Two Towers, but the bassline appears more often.
+<td>Điều này kết hợp hai yếu tố có thể tách rời: chuỗi màu sắc của phần đệm [31.2] và hình thức vui tươi của bản gốc [14]. Sự kết hợp đầy đủ chỉ xuất hiện trong The Two Towers, nhưng phần trầm xuất hiện thường xuyên hơn.
 </td></tr>
 <tr>
 <td>35
 </td>
 <td><b>Gandalf the Grey</b>
 </td>
-<td>This wry figure in minor thirds and fourths depicts Gandalf the Grey throughout <i>The Hobbit</i>. It does not appear in <i>Fellowship of the Ring,</i> where Gandalf&#39;s demise is imminent.
+<td>Hình vẽ gượng gạo ở phần ba và phần tư thứ này mô tả Gandalf the Grey xuyên suốt <i>The Hobbit</i>. Nó không xuất hiện ở <i>Fellowship of the Ring,</i> nơi Gandalf sắp chết.
 </td></tr>
 <tr>
 <td>36
 </td>
-<td><b>First playful motif (first variant)</b>
+<td><b>Mô típ vui tươi đầu tiên (biến thể đầu tiên)</b>
 </td>
-<td>This melds [31.2] and [14.3] into a driving figure. It is variously associated with Gandalf&#39;s fireworks (in <i>An Unexpected Journey</i> and <i>Fellowship of the Ring</i>), his Smaug-like firework (the opening credits of <i>The Desolation of Smaug</i> anticipating <i>Fellowship of the Ring</i>) and the mischief of Bilbo (sneaking out of the Farewell Party) and Merry and Pippin, in the cornfield. This latter statement is reprised in the closing credits.
+<td>Điều này kết hợp [31.2] và [14.3] thành một hình dẫn động. Nó được liên kết một cách đa dạng với màn pháo hoa của Gandalf(trong <i>An Unexpected Journey</i> và <i>Fellowship of the Ring</i>), màn pháo hoa giống Smaug của ông (đoạn mở đầu <i>The Desolation of Smaug</i> dự đoán <i>Fellowship of the Ring</i>) và trò nghịch ngợm của Bilbo (lẻn ra khỏi Bữa tiệc chia tay) và Merry và Pippin, trên cánh đồng ngô. Tuyên bố sau này được trình bày lại trong phần tín dụng đóng.
 </td></tr>
 <tr>
 <td>37
 </td>
-<td><b>Fourth Dwarven theme (Dwarrowdelf)</b>
+<td><b>chủ đề Kỷ Đệ Tứ Người Lùn (Người Lùn)</b>
 </td>
-<td>This theme, which will usher the Fellowship into the 21st hall of Dwarrowdelf, is first hinted at when the Dwarves introduce themselves to Bilbo, and again when they are introduced to Beorn. Both these scenes feature a 3-4-5 rise concluding on an open fifth. In <i>Fellowship of the Ring,</i> this is elaborated into a aeolian melody similar to [19], which also appears when the Cave Troll is slain.
+<td>Chủ đề này sẽ đưa Hội vào hội trường thứ 21 của Người Lùn, lần đầu tiên được gợi ý khi Người Lùn giới thiệu bản thân với Bilbo và một lần nữa khi họ được giới thiệu về Beorn. Cả hai cảnh này đều có tỷ số tăng 3-4-5 kết thúc ở hiệp thứ năm mở. Trong <i>Fellowship of the Ring,</i> giai điệu này được xây dựng thành giai điệu aeilian tương tự như [19], cũng xuất hiện khi Cave Troll bị giết.
 </td></tr>
 <tr>
 <td>38
 </td>
 <td><b>Fussy Bilbo</b>
 </td>
-<td>This waltzing, D minor theme contains the same pitches as the Ring, but depicts Bilbo&#39;s out-of-sorts mannerism around the Dwarves. Later, it is applied to the Company in general, as when they emerge into Bard&#39;s house.
+<td>Chủ đề điệu valse, D thứ này có các cao độ giống như Chiếc nhẫn nhưng mô tả phong cách khác thường của Bilbo xung quanh Người Lùn. Sau này, nó được áp dụng cho Công ty nói chung, như khi họ bước vào nhà của Bard.
 </td></tr>
 <tr>
 <td>39
 </td>
-<td><b>Smaug (second theme)</b>
+<td><b>Smaug (chủ đề thứ hai)</b>
 </td>
-<td>This retrogrades Smaug&#39;s original motif, then ascends chromatically: the effect is more subtly sinister and will also depict Thorin&#39;s Dragon Sickness, usually in more discordant string settings. Again, accompanied by major-minor triads built on F and semiquaver figures on Gamelan.
+<td>Mô típ ban đầu của Smaug lùi lại, sau đó tăng dần về màu sắc: hiệu ứng nham hiểm tinh tế hơn và cũng sẽ mô tả Bệnh tật Rồng của Thorin, thường ở các cài đặt chuỗi không phù hợp hơn. Một lần nữa, đi kèm với các bộ ba chính-thứ được xây dựng trên F và các hình bán rung trên Gamelan.
 </td></tr>
 <tr>
 <td>40
 </td>
-<td><b>Fifth Dwarven theme (The Company)</b>
+<td><b>Chủ đề Người Lùn thứ năm (Công ty)</b>
 </td>
-<td>This theme, which appears when Dwalin and Gandalf talk about Thorin&#39;s absence, repeats during the Hidden Door sequence and when the Dwarves retreat before Azog&#39;s forces in <i>The Battle of the Five Armies</i>. It is elaborated upon in the concert piece &#34;The Dwarf Lords.&#34; As originally stated, it takes the melodic Dwarven harmonies and turns them major: A-G.
+<td>Chủ đề này, xuất hiện khi Dwalin và Gandalf nói về sự vắng mặt của Thorin, lặp lại trong chuỗi Cửa Ẩn và khi Người Lùn rút lui trước lực lượng của Azog trong <i>The Battle of the Five Armies</i>. Nó được trình bày chi tiết hơn trong bản hòa nhạc "The Người Lùn Lords." Như đã nêu ban đầu, nó lấy các hòa âm du dương Người Lùn và chuyển chúng thành trưởng: A-G.
 </td></tr>
 <tr>
 <td>41
 </td>
-<td><b>Hobbits, kinetic version</b>
+<td><b>Hobbit, phiên bản động học</b>
 </td>
 <td>This sequences the initial 1-2-3 rise of the Hobbits [14.1] over canonical imitation of the accompaniment [14.3] in quavers and semiquavers. It depicts Bilbo rushing out of his door, and Merry and Pippin rushing through the cornfield.
 </td></tr>
 <tr>
 <td>42
 </td>
-<td><b>Moria danger motif</b>
+<td><b>Moria mô típ nguy hiểm</b>
 </td>
-<td>Two figures depict the dangers of Moria: a minor scale voices in parallel fifths, and a perfect fifth dropping to the tritone.
+<td>Hai hình ảnh mô tả sự nguy hiểm của Moria: âm giai thứ ở quãng năm song song và âm giai thứ năm hoàn hảo giảm xuống tam cung.
 </td></tr>
 <tr>
 <td>43
@@ -397,88 +397,88 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tr>
 <td>44
 </td>
-<td><b>First danger motif (Azog form)</b>
+<td><b>Mô típ nguy hiểm thứ nhất (dạngAzog)</b>
 </td>
-<td>This theme is a pair of descending thirds, therefore a melodic form of the Ring chords. Here, they are major thirds an augmented second apart, thus outlining the Phrygian Dominant mode of Sauron. Azog&#39;s form concludes with a chromatic &#34;barb&#34; evoking his crude prosthetic arm. But it also appears for Azog&#39;s pack, Bolg and later the army he leads to the Erebor valley.
+<td>Chủ đề này là một cặp quãng ba giảm dần, do đó là một dạng du dương của hợp âm Ring. Ở đây, chúng là các phần ba chính cách nhau một giây tăng cường, do đó phác thảo chế độ Phrygian Dominant của Sauron. Hình dạng của Azog kết thúc bằng một "ngạnh" màu sắc gợi lên cánh tay giả thô sơ của ông. Nhưng nó cũng xuất hiện cho đàn của Azog, Bolg và sau đó là đội quân mà ông dẫn đến thung lũng Erebor.
 </td></tr>
 <tr>
 <td>45
 </td>
-<td><b>Second tragic theme</b>
+<td><b>Kỷ Đệ Nhị chủ đề bi thảm</b>
 </td>
-<td>After the battle of Azanulbizar, this theme appears after Thorin&#39;s, answering his rising scale with a falling scale that accomodates upon itself. In doing so, it falls a major second, then falls and rises a minor one. This will appear increasingly by itself in <i>The Battle of the Five Armies,</i> always depicting death and tragedy (for instance, when Legolas speaks about his mother&#39;s death). In Fellowship of the Ring, the notes turn into a figure that rises and drops a minor second, then falls and rises a major second. This always depicts the suffering incurred by the War of the Ring.
+<td>Sau trận chiến Azanulbizar, chủ đề này xuất hiện sau Thorin, trả lời thang đo tăng dần của ông bằng thang đo giảm dần phù hợp với chính nó. Khi làm như vậy, nó rơi xuống một giây chính, sau đó giảm xuống và tăng lên một giây thứ. Điều này sẽ ngày càng xuất hiện nhiều hơn trong <i>The Battle of the Five Armies,</i> luôn miêu tả cái chết và bi kịch (ví dụ, khi Legolas nói về cái chết của mẹ anh). Trong Đoàn Hộ Nhẫn, các nốt biến thành một hình tăng và giảm giây thứ, sau đó giảm xuống và tăng lên giây trưởng. Điều này luôn mô tả những đau khổ mà Cuộc chiến Nhẫn phải gánh chịu.
 </td></tr>
 <tr>
 <td>46
 </td>
-<td><b>Wizards</b>
+<td><b>Pháp sư</b>
 </td>
-<td>Another falling minor scale figure depicts the five Wizards. Naturally, it mostly appears with Gandalf, as when he arrives at Goblintown or during his parting with Bilbo in <i>An Unexpected Journey</i>. But it also appears with Radagast.
+<td>Một hình thu nhỏ khác đang rơi xuống mô tả năm Pháp sư. Đương nhiên, nó chủ yếu xuất hiện cùng với Gandalf, như khi ông đến Goblintown hoặc khi chia tay Bilbo ở <i>An Unexpected Journey</i>. Nhưng nó cũng xuất hiện với Radagast.
 </td></tr>
 <tr>
 <td>47
 </td>
 <td><b>Radagast</b>
 </td>
-<td>This nervous melody in major and minor seconds, only appears on album. But its accompaniments are heard in the film during Radagast&#39;s scenes, as well as when Bilbo escapes Goblintown.
+<td>Giai điệu hồi hộp này ở giây chính và giây thứ, chỉ xuất hiện trong album. Nhưng phần đệm của nó được nghe thấy trong phim trong các cảnh của Radagast, cũng như khi Bilbo trốn thoát khỏi Goblintown.
 </td></tr>
 <tr>
 <td>48
 </td>
 <td><b>Mirkwood</b>
 </td>
-<td>This line also alternates major and mind seconds. It depicts the shadow falling over Mirkwood. In The Desolation of Smaug, it becomes the definitive Mirkwood theme, reshaping [45]. This almost depicts the Elven Road, becoming gradually masked by the texture which features clusters, aleatoric figures, bowed cymbals, portamenti and sprechstimme vocals. Similar textures will appear in other places in the scores, always in relation to confusion and danger.
+<td>Dòng này cũng xen kẽ các giây chính và tâm trí. Nó mô tả cái bóng đổ xuống Mirkwood. Trong Sự tàn phá của Smaug, nó trở thành chủ đề Mirkwood dứt khoát, định hình lại [45]. Điều này gần như mô tả Con đường Tiên, dần dần bị che lấp bởi kết cấu có các cụm, hình tượng nhẹ nhàng, chũm chọe cúi đầu, giọng hát portamenti và sprechstimme. Kết cấu tương tự sẽ xuất hiện ở những nơi khác trong điểm số, luôn liên quan đến sự nhầm lẫn và nguy hiểm.
 </td></tr>
 <tr>
 <td>49
 </td>
-<td><b>First danger motif (Necromancer form)</b>
+<td><b>Mô típ nguy hiểm thứ nhất (dạngNecromancer)</b>
 </td>
-<td>The major thirds an augmented second apart are here played slower, without the chromatic &#34;barb&#34; characteristic of Azog. It depicts Dol Guldur and the Necromancer.
+<td>Ở đây, các phần ba chính cách nhau một giây tăng cường được phát chậm hơn, không có đặc điểm sắc độ "ngựa" của Azog. Nó mô tả Dol Guldur và Necromancer.
 </td></tr>
 <tr>
 <td>50
 </td>
-<td><b>Mirkwood spiders, first theme</b>
+<td><b>Mirkwood nhện, chủ đề đầu tiên</b>
 </td>
-<td>This theme is based on an eight-note tone row, accompanied by clusters. Both also appear in <i>The Desolation of Smaug</i>. Henceforth, all spider music will be atonal, although Denethor merits similar music in the most intense moments.
+<td>Chủ đề này dựa trên một hàng âm tám nốt, kèm theo các cụm. Cả hai cũng xuất hiện trong <i>The Desolation of Smaug</i>. Từ nay trở đi, tất cả nhạc nhện sẽ mang tính âm điệu, mặc dù Denethor xứng đáng là loại nhạc tương tự trong những thời điểm căng thẳng nhất.
 </td></tr>
 <tr>
 <td>51
 </td>
 <td><b>Mountain Trolls</b>
 </td>
-<td>This theme, in waltz time, recalls Bilbo&#39;s fussy theme, but instead arpeggiates a triad with an added tritone. It thus relates to the later Cave Troll, whose represented by a variant of the Moria music which is also echoed when Gollum brings Frodo rabbits.
+<td>Chủ đề này, trong nhịp điệu valse, gợi lại chủ đề phức tạp của Bilbo, nhưng thay vào đó lại hợp âm rải một bộ ba với một tam cung được thêm vào. Do đó, nó liên quan đến Cave Troll sau này, được thể hiện bằng một biến thể của âm nhạc Moria cũng được vang vọng khi Gollum mang đến Frodo những con thỏ.
 </td></tr>
 <tr>
 <td>52
 </td>
-<td><b>Hobbits (developed)</b>
+<td><b>Hobbit (đã phát triển)</b>
 </td>
-<td>Two developments of the Hobbits theme depict the Hobbits&#39; personal growth, loss of innoncence, discovery of compassion and so forth:
+<td>Hai bước phát triển của chủ đề Hobbit mô tả sự phát triển cá nhân của Hobbit, sự mất đi sự hồn nhiên, khám phá lòng trắc ẩn, v.v.:
 <ul><li>A fuller version of the original theme, the harmony filled in to D: I-iii-IV-I-IV-V.</li>
-<li>A melodic development of [14.2] with a gruppeto figure similar to [4]. It depicts Bilbo&#39;s act of compassion towards Gollum, but also scenes that depict the growing maturity and worldliness of the Hobbits in <i>Fellowship of the Ring</i> and <i>The Two Towers.</i></li></ul>
+<li>Sự phát triển giai điệu của [14.2] với hình gruppeto tương tự như [4]. Nó mô tả hành động nhân ái của Bilbo đối với Gollum, nhưng cũng là những cảnh miêu tả sự trưởng thành ngày càng tăng và tính trần tục của Hobbit trong <i>Fellowship of the Ring</i> và <i>The Two Towers.</i></li></ul>
 </td></tr>
 <tr>
 <td>53
 </td>
-<td><b>Second danger motif (first form)</b>
+<td><b>Kỷ Đệ Nhị mô típ nguy hiểm (dạng đầu tiên)</b>
 </td>
 <td>This is another rhythmic figure that skips the first beat, but here outlining a minor scale. It has a more dynamic effect than [49].
 </td></tr>
 <tr>
 <td>54
 </td>
-<td><b>Main evil theme</b>
+<td><b>Chủ đề tà ác chính</b>
 </td>
 <td>This adapts the Ring [4] to the Phrygian Dominant setting of the dragon. Its definitive form is set in muted trumpets and rhaita. Here, <i>cor anglais</i> imitates the rhaita. In <i>The Battle of the Five Armies</i>, a pipe organ produces a similarly reedy sound.
 </td></tr>
 <tr>
 <td>55
 </td>
-<td><b>First Orc theme (Warg riders)</b>
+<td><b>Chủ đề Orc đầu tiên (Người cưỡi ngựa)</b>
 </td>
-<td>This driving, descending minor scale figure depicts Azog company, especially the Warg riders. It appears all through The Hobbit, and then resurfaces in The Two Towers are a descending cluster which first depicts Saruman&#39;s warg riders. Afterwards, it continues to represent the artfulness of the Orc armies.
+<td>Hình thu nhỏ đang lái xe đi xuống này mô tả công ty Azog, đặc biệt là các tay đua Warg. Nó xuất hiện xuyên suốt The Hobbit và sau đó xuất hiện trở lại trong The Two Towers là một cụm giảm dần mô tả các tay đua chiến binh của Saruman. Sau đó, nó tiếp tục thể hiện sự khéo léo của đội quân Orc.
 </td></tr>
 <tr>
 <td>56
@@ -490,37 +490,37 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tr>
 <td>57
 </td>
-<td><b>Rivendell, main theme</b>
+<td><b>Rivendell, chủ đề chính</b>
 </td>
-<td>This theme changes the impediment theme [1] to A major. It is rhythmically altered and overlaid with a melody based on the same pitches. The theme is typically set in female choir and harp over tolling chimes.
+<td>Chủ đề này thay đổi chủ đề trở ngại [1] thành La trưởng. Nó được thay đổi nhịp nhàng và phủ lên một giai điệu dựa trên cùng một cao độ. Chủ đề thường lấy bối cảnh là dàn hợp xướng nữ và đàn hạc trên những chiếc chuông thu phí.
 </td></tr>
 <tr>
 <td>58
 </td>
-<td><b>Rivendell, second theme</b>
+<td><b>Rivendell, chủ đề thứ hai</b>
 </td>
-<td>Two figures depict the interaction of Elrond and Thorin: a diegetic piece that plays as the Dwarves dine at Elrond&#39;s table (this appears in the orchestra, in a martial guise, when Elrond gallops into Rivendell to the Dwarves&#39; chagrin) and a combination of the Rivendell arpeggios and Erebor horncalls.
+<td>Hai hình mô tả sự tương tác giữa Elrond và Thorin: một tác phẩm sôi động được chơi khi Người Lùn dùng bữa tại bàn của Elrond(điều này xuất hiện trong dàn nhạc, trong một chiêu bài võ thuật, khi Elrond phi nước đại vào Rivendell trước sự kinh hoàng của Người Lùn') và sự kết hợp của hợp âm rải Rivendell và Erebor còi.
 </td></tr>
 <tr>
 <td>59
 </td>
-<td><b>First danger motif (Sauron form)</b>
+<td><b>Mô típ nguy hiểm thứ nhất (dạngSauron)</b>
 </td>
-<td>At the sight of Sauron&#39;s mural, the descending thirds turn into minor thirds a minor second apart. This version will continue into The Lord of the Rings. During the Minas Morgul scene, it is inverted into rising thirds.
+<td>Khi nhìn thấy bức tranh tường Sauron, phần ba giảm dần biến thành phần ba thứ cách nhau một giây nhỏ. Phiên bản này sẽ tiếp tục có trong The Lord of the Rings. Trong cảnh Minas Morgul, nó bị đảo ngược thành phần ba tăng dần.
 </td></tr>
 <tr>
 <td>60
 </td>
-<td><b>Second Dwarven theme (definitive)</b>
+<td><b>chủ đề Kỷ Đệ Nhị Người Lùn (dứt khoát)</b>
 </td>
-<td>This theme now acquires its definitive pitches and tonality. Like Thorin&#39;s theme, it ascends but more resolutely in thirds spanning an octave. It then restarts on the low A but only reaches up the seventh scale degree. Notice that Thorin and his line are associated with A minor, as compared to Elrond&#39;s chromaticized A major.
+<td>Chủ đề này bây giờ đã đạt được cao độ và âm sắc dứt khoát. Giống như chủ đề của Thorin, nó tăng dần nhưng kiên quyết hơn ở một phần ba kéo dài một quãng tám. Sau đó nó khởi động lại ở mức A thấp nhưng chỉ đạt đến thang âm thứ bảy. Lưu ý rằng Thorin và dòng của ông được liên kết với âm A thứ, so với âm A trưởng được sắc hóa của Elrond.
 </td></tr>
 <tr>
 <td>61
 </td>
-<td><b>Goblins</b>
+<td><b>Goblin</b>
 </td>
-<td>This theme in low brass over a hammering pattern that shifts time signatures (circling 7/5). It appears in all the goblin scenes and, on album, for their reappearance in <i>The Battle of the Five Armies</i>. Going forward, rhythmic themes particularly in odd time signatures, will be associated with Orcs.
+<td>Chủ đề này bằng đồng thau thấp trên hình búa làm thay đổi ký hiệu thời gian (khoanh tròn 7/5). Nó xuất hiện trong tất cả các cảnh yêu tinh và trong album, khi chúng xuất hiện trở lại trong <i>The Battle of the Five Armies</i>. Trong tương lai, các chủ đề nhịp điệu, đặc biệt là ở nhịp lẻ, sẽ được liên kết với Orc.
 </td></tr>
 <tr>
 <td>62
@@ -534,79 +534,79 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Fishing Song</b>
 </td>
-<td>Gollum sings this song in <i>An Unexpected Journey</i>, <i>The Two Towers</i> and <i>The Return of the King</i>. In the latter, Gollum sings another song in a same vein, when he gloats over Frodo caught in Shelob&#39;s web.
+<td>Gollum hát bài này trong <i>An Unexpected Journey</i>, <i>The Two Towers</i> và <i>The Return of the King</i>. Ở phần sau, Gollum hát một bài hát khác theo phong cách tương tự, khi ông hả hê vì Frodo bị mắc vào mạng nhện của Shelob.
 </td></tr>
 <tr>
 <td>64
 </td>
-<td><b>Smeagol (variant)</b>
+<td><b>Smeagol (biến thể)</b>
 </td>
-<td>The interaction of Smeagol&#39;s theme and the Ring produces several variants: one first appears when Galadriel mentions a &#34;Nameless Fear.&#34; Much later, Gollum&#39;s song emerges out of this process: notice that it is adumbrated by the orchestra beginning in his interaction with Faramir.
+<td>Sự tương tác giữa chủ đề của Smeagol và Chiếc nhẫn tạo ra một số biến thể: một biến thể xuất hiện lần đầu khi Galadriel đề cập đến "Kẻ Vô Danh Nỗi sợ hãi." Mãi về sau, bài hát của Gollum mới xuất hiện từ quá trình này: lưu ý rằng nó được dàn nhạc thể hiện bắt đầu từ sự tương tác của ông với Faramir.
 </td></tr>
 <tr>
 <td>65
 </td>
-<td><b>Eagles</b>
+<td><b>Đại Bàng</b>
 </td>
-<td>A variant of the Nature theme hails the eagles in <i>An Unexpected Journey</i> and <i>The Battle of the Five Armies</i>. The album features another idea that looks forward to the eagles rescuing Sam and Frodo from Mount Doom.
+<td>Một biến thể của chủ đề Thiên nhiên ca ngợi đại bàng trong <i>An Unexpected Journey</i> và <i>The Battle of the Five Armies</i>. Album có một ý tưởng khác mong chờ những chú đại bàng giải cứu Sam và Frodo khỏi Núi Diệt Vong.
 </td></tr>
 <tr>
 <td>66
 </td>
-<td><b>Second Gondor theme (developed)</b>
+<td><b>Kỷ Đệ Nhị Gondor chủ đề (đã phát triển)</b>
 </td>
-<td>This variant, in E minor, appears in the film when Thorin embraces Frodo. This parallels the climax of <i>The Return of the King</i> when Barad dur collapses. It is a transformation of a Gondorian theme that appears in <i>Fellowship of the Ring</i>. It will also appear in Aragorn&#39;s coronation in E major.
+<td>Biến thể này, ở cung E thứ, xuất hiện trong phim khi Thorin ôm lấy Frodo. Điều này tương đương với đỉnh điểm của <i>The Return of the King</i> khi Barad dur sụp đổ. Đó là sự chuyển đổi của chủ đề Gondor xuất hiện trong <i>Fellowship of the Ring</i>. Nó cũng sẽ xuất hiện trong lễ đăng quang của Aragorn ở cung E trưởng.
 </td></tr>
 <tr>
 <td>67
 </td>
-<td><b>Third danger motif</b>
+<td><b>Kỷ Đệ Tam mô típ nguy hiểm</b>
 </td>
-<td>Two figures combine the contour of Saruman&#39;s theme [13] with the Ringwraiths [8.3]:
-<ul><li>Rising figure of [8.3] in the rhythm of [13]. This, first heard in An Unexpected Journey but only on album, will depict the Orc armies that besiege Minas Tirith.</li>
-<li>A combination of the rhythm [8.1] with [13]. This first depicts Merry and Pippin marched along Ugluk&#39;s company, then Frodo and Sam marched disguised in Mordor.</li></ul>
+<td>Hai hình kết hợp đường viền của chủ đề Saruman[13] với Nazgûl [8.3]:
+<ul><li>Con số tăng lên của [8.3] theo nhịp của [13]. Điều này, lần đầu tiên được nghe trong Hành trình bất ngờ nhưng chỉ có trong album, sẽ mô tả các đội quân Orc đang bao vây Minas Tirith.</li>
+<li>Sự kết hợp của nhịp điệu [8.1] với [13]. Điều này đầu tiên mô tả Merry và Pippin hành quân dọc theo đại đội của Ugluk, sau đó Frodo và Sam hành quân cải trang trong Mordor.</li></ul>
 </td></tr>
 <tr>
 <td>68
 </td>
-<td><b>Impediment (variant)</b>
+<td><b>Trở ngại (biến thể)</b>
 </td>
-<td>Howard sometimes sequences the (inverted) impediment chords up or down. This is often combined with other themes, especially the Hobbit accompaniments. This occurs, namely, for both scenes in Bree but also in other contexts.
+<td>Howard đôi khi sắp xếp các hợp âm trở ngại (đảo ngược) lên hoặc xuống. Điều này thường được kết hợp với các chủ đề khác, đặc biệt là phần đệm Hobbit. Điều này xảy ra, cụ thể là đối với cả hai cảnh trong Bree và cả trong các bối cảnh khác.
 </td></tr>
 <tr>
 <td>69
 </td>
 <td><b>Beorn</b>
 </td>
-<td>Yet another variant of the Nature theme depicts Beorn and his lands. Now the Am: i-VI chords depict the tread of the bear&#39;s feet.
+<td>Một biến thể khác của chủ đề Thiên nhiên mô tả Beorn và vùng đất của ông. Bây giờ hợp âm Am: i-VI mô tả bước chân của con gấu.
 </td></tr>
 <tr>
 <td>70
 </td>
-<td><b>Ring chords (second form)</b>
+<td><b>Hợp âm vòng (dạng thứ hai)</b>
 </td>
-<td>The chord is redressed as a sinister, but less overtly threatening soprano solo. It relates to the Ringwraiths entombed in the High Fells. In the film it also appears in Dol Guldur. Later, it is transformed into a rising line built on the same chords, now depicting Mordor&#39;s strident power.
+<td>Hợp âm được sửa lại thành một bản solo giọng nữ cao nham hiểm nhưng ít đe dọa công khai hơn. Nó liên quan đến Nazgûl bị chôn vùi trong High Fells. Trong phim nó cũng xuất hiện trong Dol Guldur. Sau đó, nó được chuyển thành một đường lên được xây dựng trên cùng các hợp âm, hiện mô tả sức mạnh chói tai của Mordor.
 </td></tr>
 <tr>
 <td>71
 </td>
-<td><b>White gems</b>
+<td><b>Đá quý trắng</b>
 </td>
-<td>this theme relates the Woodland Elves to Mirkwood via the minor sixth. Since the gems were fashioned for Thranduil&#39;s wife, the appearance of this theme when Gandalf sees her statue at the Elven gate is apposite.
+<td>chủ đề này liên quan đến Woodland Tiên tộc với Mirkwood thông qua cung thứ sáu. Vì những viên đá quý được chế tác cho vợ của Thranduil nên sự xuất hiện của chủ đề này khi Gandalf nhìn thấy bức tượng của bà ở cổng Tiên là rất phù hợp.
 </td></tr>
 <tr>
 <td>72
 </td>
 <td><b>Legolas</b>
 </td>
-<td>Legolas is associated with an up-tempo version of the Woodland realm theme, but also with string figurations that then adorn the Fellowship theme when he defeats a Mumak in The Return of the King.
+<td>Legolas được liên kết với phiên bản có nhịp độ nhanh hơn của chủ đề Vương quốc Rừng nhưng cũng có các hình tượng chuỗi tô điểm cho chủ đề Tình bạn khi ông đánh bại một Mumak trong The Return of the King.
 </td></tr>
 <tr>
 <td>73
 </td>
 <td><b>Tauriel</b>
 </td>
-<td>This theme is based on a figure that concludes the Woodland realm theme.
+<td>Chủ đề này dựa trên hình vẽ kết thúc chủ đề Vương quốc rừng.
 </td></tr>
 <tr>
 <td>74
@@ -618,9 +618,9 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tr>
 <td>75
 </td>
-<td><b>Impediment (Thranduil form)</b>
+<td><b>Trở ngại (dạngThranduil)</b>
 </td>
-<td>This arpeggio idea contrasts Thranduil&#39;s covetousness with Elrond&#39;s wisdom, and compares him with similar attributes of Thorin&#39;s.
+<td>Ý tưởng hợp âm rải này đối lập sự tham lam của Thranduil với sự khôn ngoan của Elrond và so sánh ông với những thuộc tính tương tự của Thorin.
 </td></tr>
 <tr>
 <td>76
@@ -634,7 +634,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Assertive Bilbo</b>
 </td>
-<td>Beginning as a &#34;Dwarven&#34; version of Bilbo&#39;s fussy theme, applying more to the Dwarves&#39; bewilderment at their own rescue, this becomes the theme of the self-actualized Bilbo who smuggles the Arkenstone to Dale in <i>The Battle of the Five Armies</i>. It also depicts his return to the Shire as a changed person. It is mirrored in &#34;Dwarven&#34; forms of the Hobbit accompaniment figures that accompany the inebriated Gimli in <i>The Return of the King</i>: one last ode to Dwarven music.
+<td>Bắt đầu là phiên bản "Người Lùn" của chủ đề phức tạp của Bilbo, áp dụng nhiều hơn vào sự hoang mang của Người Lùn trong cuộc giải cứu của chính họ, điều này trở thành chủ đề của Bilbo tự hiện thực hóa, người buôn lậu Arkenstone đến Dale trong <i>The Battle of the Five Armies</i>. Nó cũng miêu tả việc anh trở lại Shire với tư cách là một con người đã thay đổi. Nó được phản chiếu dưới dạng "Người Lùn" của các hình đệm Hobbit đi kèm với Gimli say rượu trong <i>The Return of the King</i>: một lời ca ngợi cuối cùng về âm nhạc Người Lùn.
 </td></tr>
 <tr>
 <td>78
@@ -648,7 +648,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Laketown</b>
 </td>
-<td>This theme combines figures similar to Gondor (leaping a perfect fifth on D Dorian, then descending stepwise) and Rohan (semiquaver figure evoking rowing).
+<td>Chủ đề này kết hợp các hình tương tự như Gondor (nhảy một phần năm hoàn hảo trên D Dorian, sau đó giảm dần theo từng bước) và Rohan (hình bán nguyệt gợi lên việc chèo thuyền).
 </td></tr>
 <tr>
 <td>80
@@ -660,7 +660,7 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tr>
 <td>81
 </td>
-<td><b>Bard&#39;s family</b>
+<td><b>gia đình của Bard</b>
 </td>
 <td>First appearing briefly when Bard arrives home, this is a diatonic transformation of the Master&#39;s music, similar to Bilbo&#39;s music.
 </td></tr>
@@ -669,87 +669,87 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Black Arrow</b>
 </td>
-<td>This theme first scores Girion who shares the opening pitches of Bard, his descendent. It depicts the Black Arrow that will slay Smaug.
+<td>Chủ đề này ghi điểm đầu tiên cho Girion người chia sẻ những lời giới thiệu mở đầu của Bard, hậu duệ của ông. Nó mô tả Mũi tên đen sẽ tiêu diệt Smaug.
 </td></tr>
 <tr>
 <td>83
 </td>
 <td><b>Thrain</b>
 </td>
-<td>Thrain is depicted in his deranged form by another danger motif. When he returns to his senses, it is replaced by a slow version of Erebor, punctuated by a harp arpeggio.
+<td>Thrain được miêu tả trong hình dạng loạn trí của mình bằng một mô-típ nguy hiểm khác. Khi ông tỉnh lại, nó được thay thế bằng một phiên bản chậm của Erebor, được ngắt quãng bằng hợp âm rải đàn hạc.
 </td></tr>
 <tr>
 <td>84
 </td>
-<td><b>Second danger motif (second form)</b>
+<td><b>Kỷ Đệ Nhị mô típ nguy hiểm (dạng thứ hai)</b>
 </td>
-<td>still skipping the first beat, this theme now appears in any number of forms. These can be sequenced up, down or at pitch.
-<ul><li><b>Ascending scale:</b>  This is similar to the first form.</li>
-<li><b>Clustering:</b> repeated note, then adding a scale degree on each subsequent measure.</li>
-<li><b>Rising and falling:</b> This most aggressive form uses the opening notes of the Ring, rising and falling a minor second.</li></ul>
+<td>vẫn bỏ qua nhịp đầu tiên, chủ đề này hiện xuất hiện dưới mọi hình thức. Chúng có thể được sắp xếp theo trình tự lên, xuống hoặc theo cao độ.
+<ul><li><b>Tỷ lệ tăng dần:</b> Dạng này tương tự như dạng đầu tiên.</li>
+<li><b>Phân cụm:</b> nốt lặp lại, sau đó thêm thang âm vào từng ô nhịp tiếp theo.</li>
+<li><b>Rung lên và hạ xuống:</b> Hình thức hung hãn nhất này sử dụng các nốt mở đầu của Chiếc nhẫn, tăng lên và hạ xuống một giây thứ.</li></ul>
 </td></tr>
 <tr>
 <td>85
 </td>
-<td><b>Evil (second form)</b>
+<td><b>Cái ác (dạng thứ hai)</b>
 </td>
-<td>This rhythmic augmentation of the original theme is another theme that depicts Sauron at force. Once he is driven out of Dol Guldur, it is deferred until <i>The Return of the King</i> where it depicts the Witch King emerging from Dol Guldur.
+<td>Sự tăng cường nhịp nhàng của chủ đề gốc này là một chủ đề khác mô tả Sauron có hiệu lực. Sau khi ông bị đuổi ra khỏi Dol Guldur, nó sẽ được hoãn lại cho đến <i>The Return of the King</i> nơi nó mô tả Phù thủy Vua xuất hiện từ Dol Guldur.
 </td></tr>
 <tr>
 <td>86
 </td>
 <td><b>Arwen</b>
 </td>
-<td>This theme, which later introduces Arwen in Fellowship of the Ring and again in The Return of the King, first appears in the minor when Tauriel heals Kili. This parallels Arwen healing Frodo. It is a Phrygian line harmonized in F: I-iii.
+<td>Chủ đề này, sau này được giới thiệu trong Arwen trong Đoàn Hộ Nhẫn và một lần nữa trong The Return of the King, xuất hiện lần đầu trong phần nhỏ khi Tauriel chữa lành vết thương cho Kili. Điều này tương đương với Arwen việc chữa lành Frodo. Đó là dòng Phrygian được hòa âm trong F: I-iii.
 </td></tr>
 <tr>
 <td>87
 </td>
-<td><b>Smaug&#39;s death</b>
+<td><b>cái chết của Smaug</b>
 </td>
-<td>This combines all of Smaug&#39;s themes. It depicts his flight to Laketown, and his death. Afterwards, Smaug&#39;s theme is appropriated by the deranged Thorin.
+<td>Điều này kết hợp tất cả các chủ đề của Smaug. Nó mô tả chuyến bay của ông đến Laketown và cái chết của ông. Sau đó, chủ đề của Smaug bị Thorin loạn trí chiếm đoạt.
 </td></tr>
 <tr>
 <td>88
 </td>
-<td><b>Bard the hero</b>
+<td><b>Bard anh hùng</b>
 </td>
-<td>This more heroic theme depicts Bard&#39;s new role as the leader of the exiled Lakemen.
+<td>Chủ đề anh hùng hơn này mô tả vai trò mới của Bard là thủ lĩnh của những người Lakemen bị lưu đày.
 </td></tr>
 <tr>
 <td>89
 </td>
 <td><b>Gundabad</b>
 </td>
-<td>This theme also features the rising and falling minor second. Notice the doubling by twenty didgeridoos.
+<td>Chủ đề này cũng có tính năng giây thứ tăng và giảm. Hãy chú ý đến việc nhân đôi 20 didgeridoos.
 </td></tr>
 <tr>
 <td>90
 </td>
-<td><b>Orcs</b>
+<td><b>Orc</b>
 </td>
-<td>The Gundabad theme is always accompanied by five-four beat. This is reshaped for Saruman&#39;s Uruks (percussion in five beats, usually accented on the first and third). Sauron&#39;s Orcs are depicted by more hectic forms of the same idea (accents varying randomly across the line).
+<td>Chủ đề Gundabad luôn đi kèm nhịp năm bốn. Điều này được định hình lại cho Uruk của Saruman(bộ gõ có năm nhịp, thường được nhấn ở nhịp thứ nhất và nhịp thứ ba). Sauron Orc được mô tả bằng các hình thức sôi động hơn của cùng một ý tưởng (các điểm nhấn thay đổi ngẫu nhiên trên mỗi dòng).
 </td></tr>
 <tr>
 <td>91
 </td>
-<td><b>The Ring chords (transformed)</b>
+<td><b>Hợp âm The Ring (chuyển đổi)</b>
 </td>
-<td>This idea depicts other characters becoming touched by darkness. It is in two parts:
-<ul><li><b>Rising:</b> This inverts a triad with brass adding a ninth to recreate the Ring chord. This appears during the fight in Dol Guldur and Galadriel banishing Sauron. It is hinted at when the Fellowship glimpse Caras Galadhon, and repeats when Galadriel appears wraith-like to Frodo.</li>
-<li><b>Falling:</b> the two big statements then descend down F minor arpeggios as Galadriel reels back from her episode. This also depicts Bilbo reeling from his Gollum-like episode.</li></ul>
+<td>Ý tưởng này mô tả các nhân vật khác bị bóng tối chạm vào. Nó có hai phần:
+<ul><li><b>Rising:</b> Thao tác này đảo ngược hợp âm ba với kèn đồng thêm hợp âm thứ chín để tạo lại hợp âm Ring. Điều này xuất hiện trong trận chiến Dol Guldur và Galadriel trục xuất Sauron. Nó được gợi ý khi Fellowship nhìn thoáng qua Caras Galadhon và lặp lại khi Galadriel xuất hiện giống như bóng ma với Frodo.</li>
+<li><b>Rơi xuống:</b> hai tuyên bố lớn sau đó giảm xuống hợp âm rải F thứ khi Galadriel quay lại tập phim của bà. Điều này cũng mô tả Bilbo quay cuồng với tình tiết giống Gollum của ông.</li></ul>
 </td></tr>
 <tr>
 <td>92
 </td>
-<td><b>Dwarf warriors</b>
+<td><b>Người Lùn chiến binh</b>
 </td>
 <td>The minor sixth of this idea makes this a Dwarven counterpart of the Elvish warrior theme. It is accompanied by unpitched &#34;grunts&#34; from the Dwarven chorus, a texture that already appeared in the Rings of Power opening titles, and will appear again in Moria.
 </td></tr>
 <tr>
 <td>93
 </td>
-<td><b>Mithril shirt</b>
+<td><b>Áo Mithril</b>
 </td>
 <td>This quartal melody depicts the shirt (which was fashioned for an Elven prince). It appears when Thorin gives it Bilbo, and when Bilbo gives it to Frodo.
 </td></tr>
@@ -758,12 +758,12 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Iron Hill Dwarves</b>
 </td>
-<td>This theme is similar to the other major-moded Dwarven theme. The tattoo-like accompaniment evokes the riding of the Dwarven cavalry, and later appears on its own with the chariot.
+<td>Chủ đề này tương tự như chủ đề Người Lùn được sửa đổi chính khác. Phần đệm giống như hình xăm gợi lên cảnh cưỡi ngựa Người Lùn kỵ binh, và sau đó xuất hiện riêng cùng với cỗ xe.
 </td></tr>
 <tr>
 <td>95
 </td>
-<td><b>Tragic theme (transformed)</b>
+<td><b>Chủ đề bi kịch (chuyển đổi)</b>
 </td>
 <td>This reharmonizes the original theme [45] to depict valour and death on the battlefield. It ushers the conflict between Dwarves and Elves, then the offensive against the Orcs, and returns during the sequence where Gandalf and Pippin save Denethor, and the following skirmish in Pelennor.
 </td></tr>
@@ -772,21 +772,21 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>War Beasts</b>
 </td>
-<td>Azog&#39;s horn is answered by this bestial motif, depicting the Trolls and Ogres he fields to the battle.
+<td>Chiếc sừng của Azog được đáp lại bằng mô-típ thú tính này, mô tả Troll và Yêu tinh mà ông đưa ra trận chiến.
 </td></tr>
 <tr>
 <td>97
 </td>
 <td><b>The Fellowship</b>
 </td>
-<td>This theme harmonizes a down-and-up figure in major seconds in D: I-♭III-I and extending it to a nine note phrase. All themes emphasizing a motion of major seconds (usually down and up, concluding on a quaver) will be related to the Fellowship, and this kernel will also appear by itself.
+<td>Chủ đề này hài hòa hình lên xuống ở giây chính trong D: I-♭III-I và mở rộng nó thành cụm từ chín nốt. Tất cả các chủ đề nhấn mạnh đến chuyển động của các giây chính (thường là lên và xuống, kết thúc bằng một rung động) sẽ liên quan đến Hiệp hội và hạt nhân này cũng sẽ tự xuất hiện.
 </td></tr>
 <tr>
 <td>98
 </td>
-<td><b>Third tragic theme</b>
+<td><b>Kỷ Đệ Tam chủ đề bi thảm</b>
 </td>
-<td>This theme, in rising minor seconds an augmented second apart, contrasts Elendil and Isildur&#39;s fall with Boromir&#39;s, and later Denethor&#39;s.
+<td>Chủ đề này, trong những giây tăng dần cách nhau một giây tăng cường, tương phản với sự tụt dốc của Elendil và Isildur với Boromir và Denethor sau đó.
 </td></tr>
 <tr>
 <td>99
@@ -798,14 +798,14 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tr>
 <td>100
 </td>
-<td><b>Journey there</b>
+<td><b>Hành trình đến đó</b>
 </td>
-<td>This theme reshapes the impediment arpeggio melodically. It depicts the journey to Mordor.
+<td>Chủ đề này định hình lại hợp âm rải trở ngại một cách du dương. Nó mô tả hành trình tới Mordor.
 </td></tr>
 <tr>
 <td>101
 </td>
-<td><b>Third danger motif</b>
+<td><b>Kỷ Đệ Tam mô típ nguy hiểm</b>
 </td>
 <td>This percussion quaver figure is the most overtly martial of the danger motifs. It depicts the turncoat Saruman overpowering Gandalf, then the forces Sauron fields in Osgiliath and during the Haradrim attack. It returns for the Mount Doom scene.
 </td></tr>
@@ -814,105 +814,105 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Strider</b>
 </td>
-<td>This figure leaps a perfect fourth, then ascends another step. It thus reorders the pitches of Gondor.
+<td>Con số này nhảy một phần tư hoàn hảo, sau đó tăng thêm một bước nữa. Do đó, nó sắp xếp lại các cao độ của Gondor.
 </td></tr>
 <tr>
 <td>103
 </td>
-<td><b>Tragic theme (Gondor form)</b>
+<td><b>Chủ đề bi kịch (dạngGondor)</b>
 </td>
-<td>This embellishes the theme by appending a perfect fifth. It appears with Boromir&#39;s first meeting with Aragorn, then scenes of Arwen envisioning Aragorn&#39;s mortality and leaving Rivendell.
+<td>Điều này tô điểm cho chủ đề bằng cách thêm phần thứ năm hoàn hảo. Nó xuất hiện với cuộc gặp đầu tiên của Boromir với Aragorn, sau đó là cảnh Arwen hình dung ra cái chết của Aragorn và rời đi Rivendell.
 </td></tr>
 <tr>
 <td>104
 </td>
 <td><b>Diminishment of the Elves</b>
 </td>
-<td>This theme for the scene in Gilraen&#39;s grave, brings the Phrygian Dominant setting of Lothlorien to Rivendell. It also repeats when Aragorn parts with Arwen.
+<td>Chủ đề này cho cảnh trong mộ của Gilraen, mang bối cảnh Phrygian Dominant của Lothlorien đến Rivendell. Nó cũng lặp lại khi Aragorn chia tay với Arwen.
 </td></tr>
 <tr>
 <td>105
 </td>
-<td><b>&#34;Dangerous passes&#34;</b>
+<td><b>“Những đường chuyền nguy hiểm”</b>
 </td>
-<td>This C minor theme depicts members of the Fellowship traversing difficult terrain: Caradhras, the approach to the walls of Moria and – on album – the secret stair.
+<td>Chủ đề C thứ này mô tả các thành viên của Hội đồng hành vượt qua những địa hình khó khăn: Caradhras, cách tiếp cận các bức tường của Moria và – trong album – cầu thang bí mật.
 </td></tr>
 <tr>
 <td>106
 </td>
-<td><b>&#34;Elvish pledge&#34;</b>
+<td><b>"Elvish lời cam kết"</b>
 </td>
-<td>This theme parallels the alliance of Celebrimbor and Narvi (as objectified in the Doors of Durin) with that of Haldir and Aragorn, when he shows up at Helm&#39;s Deep. It is a sequence of chords outlining a whole-tone scale.
+<td>Chủ đề này tương đồng với liên minh của Celebrimbor và Narvi (như được khách quan hóa trong Cánh cửa Durin) với liên minh của Haldir và Aragorn, khi ông xuất hiện tại Helm&#39;s Deep. Đó là một chuỗi các hợp âm phác thảo một thang âm toàn bộ.
 </td></tr>
 <tr>
 <td>107
 </td>
-<td><b>Hobbits (Heroic variant)</b>
+<td><b>Hobbit (Biến thể anh hùng)</b>
 </td>
-<td>This begins as the rhythm of the second phrase of the Fellowship, first heard in the Mazarbul chamber. Its last appearance, ahead of Sam&#39;s battle with Shelob, transforms into figure unique to this fight out of which emerges a heroic form the original Hobbits theme as he galivants around Cirith Ungol. The chords will return in the Mount Doom scenes.
+<td>Điều này bắt đầu như nhịp điệu của cụm từ thứ hai của Hiệp hội, lần đầu tiên được nghe trong căn phòng Mazarbul. Lần xuất hiện cuối cùng của nó, trước trận chiến giữa Sam với Shelob, biến thành nhân vật duy nhất trong cuộc chiến này, từ đó xuất hiện một hình dạng anh hùng theo chủ đề Hobbit ban đầu khi ông dũng cảm xung quanh Cirith Ungol. Hợp âm sẽ trở lại trong cảnh Núi Diệt Vong.
 </td></tr>
 <tr>
 <td>108
 </td>
-<td><b>Durin&#39;s Bane</b>
+<td><b>Tai họa của Durin</b>
 </td>
-<td>By doubling the Moria theme at the octave, Howard Shore creates a sequence of power chords which depict the Balrog in Fellowship of the Ring and again in the opening scene of The Two Towers.
+<td>Bằng cách nhân đôi chủ đề Moria ở quãng tám, Howard Shore tạo ra một chuỗi hợp âm mạnh mô tả Balrog trong Đoàn Hộ Nhẫn và một lần nữa trong cảnh mở đầu của The Two Towers.
 </td></tr>
 <tr>
 <td>109
 </td>
-<td><b>Secondary Gondor theme</b>
+<td><b>Chủ đề phụ Gondor</b>
 </td>
-<td>This is a more lyrical depiction of Gondor. Triumphant forms depict the reforged Anduril.
+<td>Đây là sự mô tả trữ tình hơn về Gondor. Các hình thức chiến thắng mô tả Anduril đã được cải tiến.
 </td></tr>
 <tr>
 <td>110
 </td>
 <td><b>Aragorn</b>
 </td>
-<td>This figure, which sometimes start with the original Strider theme, sequences the opening three notes of the Fellowship upward.
+<td>Hình này, đôi khi bắt đầu bằng chủ đề Strider ban đầu, sắp xếp ba nốt mở đầu của Hiệp hội trở lên.
 </td></tr>
 <tr>
 <td>111
 </td>
-<td><b>Fourth tragic theme</b>
+<td><b>Kỷ Đệ Tứ chủ đề bi thảm</b>
 </td>
-<td>This theme laments Boromir&#39;s death, and returns with every reminiscence of his death. It is also alluded to in scenes with Theoden and the dying Frodo.
+<td>Chủ đề này thương tiếc cái chết của Boromir và quay trở lại với mỗi hồi tưởng về cái chết của ông. Nó cũng được ám chỉ trong những cảnh có Theoden và Frodo hấp hối.
 </td></tr>
 <tr>
 <td>112
 </td>
-<td><b>Impediment theme (third variant)</b>
+<td><b>Chủ đề trở ngại (biến thể thứ ba)</b>
 </td>
-<td>This figure compares Frodo and Sam being stuck in the beginning of The Two Towers, and Merry and Pippin near the end of The Two Towers.
+<td>Hình này so sánh Frodo và Sam bị kẹt ở đầu The Two Towers và Merry và Pippin ở gần cuối The Two Towers.
 </td></tr>
 <tr>
 <td>113
 </td>
-<td><b>Fourth danger motif</b>
+<td><b>Kỷ Đệ Tứ mô típ nguy hiểm</b>
 </td>
-<td>This is a rhythmic variant of the third three notes of the Ringwraiths&#39; accompaniment. In the skirmish with the Southrons in Ithilien (and later in the invasion of Osgiliath) is reduced to a minor third.
+<td>Đây là một biến thể nhịp nhàng của ba nốt thứ ba của phần đệm Nazgûl'. Trong cuộc giao tranh với quân miền Nam ở Ithilien (và sau đó là trong cuộc xâm lược Osgiliath) chỉ còn một phần ba nhỏ.
 </td></tr>
 <tr>
 <td>114
 </td>
-<td><b>Rohan (fragment)</b>
+<td><b>Rohan (đoạn)</b>
 </td>
-<td>This sequences the galloping quavers so the first pitch is a unison, and the second is raised with every iteration. It appears in both early scenes with Eomer, and a similar style of writing is harkened when Aragorn arrives at Helm&#39;s Deep, when he rides out with Theoden and when Eomer is ordered to muster the Rohirrim.
+<td>Điều này sắp xếp trình tự các động tác phi nước đại để cao độ đầu tiên là đồng nhất và cao độ thứ hai được nâng lên sau mỗi lần lặp lại. Nó xuất hiện trong cả hai cảnh đầu với Eomer, và phong cách viết tương tự được thể hiện rõ khi Aragorn đến Helm&#39;s Deep, khi ông đi chơi cùng Theoden và khi Eomer được lệnh tập hợp Rohirrim.
 </td></tr>
 <tr>
 <td>115
 </td>
 <td><b>The Fellowship in Rohan</b>
 </td>
-<td>This leaps a fifth and continues in the countermelody of Rohan, which is based on the Fellowship pitches. It depicts the growing allegiance of the members of the Fellowship and the Rohirrim through The Two Towers. In The Return of the King, this figure is transformed to depict Merry in his new role as squire of Rohan. Although this figure originally leapt a fifth, it is last harkened to when Merry strikes the Witch King with a rarely-heard major sixth.
+<td>Điều này nhảy vọt lên vị trí thứ năm và tiếp tục trong giai điệu đối đáp của Rohan, dựa trên cao độ của Fellowship. Nó mô tả lòng trung thành ngày càng tăng của các thành viên Hiệp hội và Rohirrim đến The Two Towers. Trong The Return of the King, nhân vật này được chuyển đổi để mô tả Merry trong vai trò mới là cận vệ của Rohan. Mặc dù con số này ban đầu đã tăng lên mức thứ năm, nhưng nó được nhắc đến lần cuối khi Merry tấn công Phù thủy Vua bằng cú đánh thứ sáu hiếm khi được nghe thấy.
 </td></tr>
 <tr>
 <td>116
 </td>
 <td><b>The Ents</b>
 </td>
-<td>This theme has two components: major triads a tritone apart, then a tremolando line in bass marimba and contrabassoon voiced in open chords a tritone apart.
+<td>Chủ đề này có hai thành phần: các hợp âm ba trưởng cách nhau một quãng ba âm, sau đó là dòng tremolando trong bass marimba và contrabassoon được lồng tiếng trong các hợp âm mở cách nhau một quãng ba âm.
 </td></tr>
 <tr>
 <td>117
@@ -924,65 +924,65 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 <tr>
 <td>118
 </td>
-<td><b>&#34;Small stones&#34;</b>
+<td><b>"Những viên đá nhỏ"</b>
 </td>
 <td>These chords  (initially F# minor – G major – F# minor – A minor) depict Merry and Pippins effect on Treebeard. Later it assumes a form redolent of Treebeard&#39;s tritone progression. It is last recalled in The Return of the King when Gandalf and Pippin have a quiet moment, but this can only be heard on album.
 </td></tr>
 <tr>
 <td>119
 </td>
-<td><b>The White rider</b>
+<td><b>Kỵ sĩ trắng</b>
 </td>
-<td>This reshaping of the Fellowship theme turns Gandalf, always astride Shadowfax, into &#34;Saruman as he should have been.&#34; After the siege of Gondor, this theme is transformed into reiterated falling and rising major seconds, which eventually become an important component of the Grey Havens scene.
+<td>Việc định hình lại chủ đề Tình bạn này biến Gandalf, luôn cưỡi trên Shadowfax, thành "Saruman như lẽ ra ông phải như vậy." Sau cuộc vây hãm Gondor, chủ đề này được chuyển thành các giây chính tăng và giảm được nhắc lại, cuối cùng trở thành một thành phần quan trọng của cảnh Cảng Xám.
 </td></tr>
 <tr>
 <td>120
 </td>
-<td><b>The Fate of the Ring</b>
+<td><b>Số phận của chiếc Nhẫn</b>
 </td>
-<td>Two figures depict the future of the Ring:
-<ul><li>This reharmonizes [45] in D major, thereby altering the Ring&#39;s theme major. It foreshadows the destruction of the Ring.</li>
-<li>Combination of the various Ring themes, first in canonic imitation, then as a single melodic variant of the evil theme. This foresadows an eventuality in which the Ring returns to its master.</li></ul>
+<td>Hai nhân vật mô tả tương lai của Chiếc Nhẫn:
+<ul><li>Điều này hòa âm lại [45] ở D trưởng, do đó thay đổi chủ đề chính của Ring. Nó báo trước sự hủy diệt của chiếc Nhẫn.</li>
+<li>Sự kết hợp của các chủ đề Chiếc nhẫn khác nhau, đầu tiên là bắt chước kinh điển, sau đó là một biến thể giai điệu duy nhất của chủ đề tà ác. Điều này báo trước khả năng chiếc nhẫn sẽ quay trở lại với chủ nhân của nó.</li></ul>
 </td></tr>
 <tr>
 <td>121
 </td>
 <td><b>Grima</b>
 </td>
-<td>This theme, always in C minor and sometimes in the &#34;Orcish&#34; 5/4, is a dark counterpart to [7] (in the same tonality) and [114],  presenting one static pitch and one rising pitch: minor third, tritone, fifth, and concluding with a minor sixth dropping back into the fifth. It accompanies all of Grima&#39;s scene since Gandalf&#39;s arrival at Meduseld and is even hinted at when he stabs Saruman.
+<td>Chủ đề này, luôn ở cung C thứ và đôi khi ở cung 5/4 "Orcish", là một bản đối chiếu tối với [7] (cùng âm điệu) và [114], trình bày một cao độ tĩnh và một cao độ tăng: quãng ba thứ, tam cung, quãng năm và kết thúc bằng quãng sáu thứ giảm trở lại quãng năm. Nó đi kèm với toàn bộ cảnh của Grima kể từ khi Gandalf đến Meduseld và thậm chí còn được ám chỉ khi ông đâm Saruman.
 </td></tr>
 <tr>
 <td>122
 </td>
 <td><b>Eowyn and Aragorn</b>
 </td>
-<td>Eowyn&#39;s attraction to Aragorn is scored with this F Lydian theme. Notice the &#34;sighing&#34;     appoggiaturas.
+<td>Sức hấp dẫn của Eowyn đối với Aragorn được ghi điểm nhờ chủ đề F Lydian này. Hãy chú ý đến những lời kêu gọi "thở dài".
 </td></tr>
 <tr>
 <td>123
 </td>
 <td><b>Arwen and Aragorn</b>
 </td>
-<td>an E Phrygian reshaping of Aragorn&#39;s theme, accompanied by the Rivendell arpeggio and redolent of sighing appoggiaturas.
+<td>một bản E Phrygian tái định hình chủ đề của Aragorn, đi kèm với hợp âm rải Rivendell và mùi thơm của những tiếng thở dài appoggiaturas.
 </td></tr>
 <tr>
 <td>124
 </td>
-<td><b>Second Orc theme</b>
+<td><b>chủ đề Kỷ Đệ Nhị Orc</b>
 </td>
-<td>Two devices depict the Orc siege: a bollero-like rhyhtm, and a reiterated rhyhtm over third-related chords
+<td>Hai thiết bị mô tả cuộc bao vây Orc: một giai điệu giống bollero và một giai điệu lặp lại trên các hợp âm liên quan đến thứ ba
 </td></tr>
 <tr>
 <td>125
 </td>
-<td><b>Gondor (transformed)</b>
+<td><b>Gondor (đã chuyển đổi)</b>
 </td>
-<td>This version of Gondor, which replaces the descending final notes with Aragorn&#39;s ascending notes, is first heard in the Return of the King trailer. On album, it was hinted in an alternate version of the Fellowship prologue where another ascending version of the theme appeared in D major. Otherwise, this thematic complex - which appears in Gandalf&#39;s ascent to Minas Tirith, and in the Pelennor fields (theatrical cut) - is always heard in D minor until Aragorn&#39;s coronation. Notice that the original descending phrase also appears in the major, but only on album.
+<td>Phiên bản Gondor này thay thế các nốt cuối giảm dần bằng các nốt tăng dần của Aragorn, lần đầu tiên được nghe thấy trong đoạn giới thiệu Return of Vua. Trong album, nó được gợi ý trong một phiên bản thay thế của đoạn mở đầu Fellowship, trong đó một phiên bản tăng dần khác của chủ đề xuất hiện ở cung Rê trưởng. Mặt khác, tổ hợp chủ đề này - xuất hiện trong quá trình Gandalf đi lên Minas Tirith và trong các trường Pelennor (đoạn cắt sân khấu) - luôn được nghe ở cung D thứ cho đến khi Aragorn đăng quang. Lưu ý rằng cụm từ giảm dần ban đầu cũng xuất hiện trong âm trưởng nhưng chỉ trong album.
 </td></tr>
 <tr>
 <td>126
 </td>
-<td><b>Shire (transformed)</b>
+<td><b>Shire (đã chuyển đổi)</b>
 </td>
 <td>throughout The Return of the King, the Shire music and the Fellowship&#39;s become mingled. This initiates a process that culminates in the final Shire scenes: the melody is still the same, but the accompaniment had been reduced to thirds. When Sam returns home, this returns with a transformed melodic line, still in D major. A second transformation occurs at the very end of the fan credits: the perfect cadence on A major complements the A minor-A5 resolution of the Rings of Power titles.
 </td></tr>
@@ -998,14 +998,14 @@ Bản nhạc dựa trên một số lượng lớn các chủ đề liên tưở
 </td>
 <td><b>Denethor and Faramir</b>
 </td>
-<td>The confrontation between Faramir and Denethor, and Faramir&#39;s subsequent march to certain death are scored with this variant of [67].
+<td>Cuộc đối đầu giữa Faramir và Denethor, và cuộc hành quân đến cái chết sau đó của Faramir được ghi điểm bằng biến thể này của [67].
 </td></tr>
 <tr>
 <td>129
 </td>
 <td><b>Shelob</b>
 </td>
-<td>Another near tone-row. It is later spun into a pair of octatonic quadruple figures.
+<td>Một hàng gần giai điệu khác. Sau đó nó được quay thành một cặp hình tứ giác bát giác.
 </td></tr>
 <tr>
 <td>130

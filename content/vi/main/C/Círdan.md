@@ -218,7 +218,7 @@ Círdan duy trì bến cảng ít nhất cho đến đầu [Kỷ Đệ Tứ](../
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/C/Cirdan.mp3.md" title="File:Cirdan.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/C/Cirdan.mp3.md" title="File:Cirdan.mp3">Tệp:Cirdan.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/C/Cirdan.mp3.md" title="File:Cirdan.mp3">File:Cirdan.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -292,7 +292,7 @@ Tuy nhiên, [Carl Hostetter](Carl_Hostetter.md) sau đó nhận xét, trích d�
 <blockquote class="tg-quote noexcerpt">
 <p>Trang bản thảo kết thúc ở giữa câu và không có phần giải thích về thành phần <i>Bel-</i>. Christopher Tolkien viết: "Có lẽ đó là một phần mở rộng mang tính thử nghiệm thuần túy của lịch sử, đã từng bị bỏ rơi; nhưng khẳng định rằng Círdan là một Noldo là rất kỳ lạ. Điều này hoàn toàn trái ngược với toàn bộ truyền thống liên quan đến ông — tuy nhiên nó rất cần thiết cho ý tưởng được phác họa trong đoạn văn này. Có thể chính việc ông nhận ra điều này đã khiến cha tôi bỏ nó giữa chừng."
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a></i>, "Bình luận văn bản <i>Belfalas</i>" <sup id="cite_ref-Weird_35-2" class="reference"><a href="#cite_note-Weird-35">[34]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../T/The_Rivers_and_Beacon-hills_of_Gondor~21248.md" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a></i>, &#34;Commentary on the text <i>Belfalas</i>&#34; <sup id="cite_ref-Weird_35-2" class="reference"><a href="#cite_note-Weird-35">[34]</a></sup></cite></p>
 </blockquote>
 
 Không có nơi nào khác trong toàn bộ truyền thuyết sử từng xem Círdan là một người Noldo.
@@ -333,7 +333,7 @@ Không có nơi nào khác trong toàn bộ truyền thuyết sử từng xem C�
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Círdan.jpg.md" title="Círdan in The Lord of the Rings Online"><img alt="Círdan in The Lord of the Rings Online" src="https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg/78px-The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg" decoding="async" loading="lazy" width="78" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg/117px-The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg/156px-The_Lord_of_the_Rings_Online_-_C%C3%ADrdan.jpg 2x" data-file-width="520" data-file-height="1000"/></a></span></div>
 			<div class="gallerytext">
-<p>Círdan in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
+<p>Círdan  in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i>
 </p>
 			</div>
 		</li>

@@ -31,9 +31,9 @@ infobox:
     value: "978-0553456530"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hordern,_LeMesurier,_Holm_1981_lotr.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/320px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg" decoding="async" loading="lazy" width="320" height="212" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/480px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/640px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 2x" data-file-width="900" data-file-height="596"/></a><figcaption><a href="../M/Michael_Hordern.md" title="Michael Hordern">Michael Hordern</a>, <a href="../J/John_Le_Mesurier.md" title="John Le Mesurier">John Le Mesurier</a> and <a href="../I/Ian_Holm.md" title="Ian Holm">Ian Holm</a>, as <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>.</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Original Airing: <a href="../_/8_March.md" title="8 March">8 March</a> – <a href="../_/30_August.md" title="30 August">30 August</a> <a href="../_/1981.md" title="1981">1981</a><br/>Audio CD: <a href="../_/1_December.md" title="1 December">1 December</a>, <a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Radio broadcast</td></tr><tr><th scope="row" class="tg-infobox-label">Running time</th><td class="tg-infobox-data">13 hours</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0553456530" title="Special:BookSources/978-0553456530">978-0553456530</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hordern,_LeMesurier,_Holm_1981_lotr.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/320px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg" decoding="async" loading="lazy" width="320" height="212" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/480px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg/640px-Hordern%2C_LeMesurier%2C_Holm_1981_lotr.jpg 2x" data-file-width="900" data-file-height="596"/></a><figcaption><a href="../M/Michael_Hordern.md" title="Michael Hordern">Michael Hordern</a>, <a href="../J/John_Le_Mesurier.md" title="John Le Mesurier">John Le Mesurier</a> and <a href="../I/Ian_Holm.md" title="Ian Holm">Ian Holm</a>, as <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> and <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>.</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">Original Airing: <a href="../_/8_March.md" title="8 March">8 March</a> – <a href="../_/30_August.md" title="30 August">30 August</a> <a href="../_/1981.md" title="1981">1981</a><br/>Audio CD: <a href="../_/1_December.md" title="1 December">1 December</a>, <a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Đài phát thanh</td></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">13 giờ</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0553456530" title="Special:BookSources/978-0553456530">978-0553456530</a></td></tr></tbody></table>
 
 Năm 1981, Đài BBC 4 đã phát sóng vở kịch <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i> của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thành 26 phần âm thanh nổi dài nửa giờ.
 
@@ -96,7 +96,7 @@ Một album nhạc phim bao gồm một bộ nhạc của [Stephen Oliver](../S/
 
 ## Sự khác biệt so với cuốn sách {#Differences_from_the_book}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/300px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg" decoding="async" loading="lazy" width="300" height="295" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/450px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/600px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg 2x" data-file-width="1480" data-file-height="1454"/></a><figcaption>Vinyl with the soundtrack by <a href="../S/Stephen_Oliver.md" title="Stephen Oliver">Stephen Oliver</a></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/300px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg" decoding="async" loading="lazy" width="300" height="295" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/450px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d9/The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg/600px-The_Lord_of_the_Rings_1981_Music_by_Stephen_Oliver.jpg 2x" data-file-width="1480" data-file-height="1454"/></a><figcaption>Vinyl với nhạc nền của <a href="../S/Stephen_Oliver.md" title="Stephen Oliver">Stephen Oliver</a></figcaption></figure>
 
 Kịch bản của [Brian Sibley](../B/Brian_Sibley.md) và [Michael Bakewell](../M/Michael_Bakewell.md) đã cố gắng bám sát nguyên tác nhất có thể nhưng vẫn có một số lỗi và thay đổi. Chúng bao gồm:
 
@@ -132,11 +132,11 @@ Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glitter
 
 <table class="wikitable mw-collapsible">
 <tbody><tr>
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
-<td>Narrator</td>
+<td>Người dẫn chuyện</td>
 <td><a href="../G/Gerard_Murphy.md" title="Gerard Murphy">Gerard Murphy</a>
 </td></tr>
 <tr>
@@ -184,7 +184,7 @@ Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glitter
 <td><a href="../A/Andrew_Seear.md" title="Andrew Seear">Andrew Seear</a>
 </td></tr>
 <tr>
-<td><a href="../S/Saruman.md" title="Saruman">Saruman the White</a></td>
+<td><a href="../S/Saruman.md" title="Saruman">Saruman Áo Trắng</a></td>
 <td><a href="../P/Peter_Howell.md" title="Peter Howell">Peter Howell</a>
 </td></tr>
 <tr>
@@ -256,7 +256,7 @@ Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glitter
 <td>Oz Clarke
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="Tolman_Cotton_Senior.md" title="Tolman Cotton Senior">Farmer Cotton</a></td>
+<td><a class="mw-redirect" href="Tolman_Cotton_Senior.md" title="Tolman Cotton Senior">Lão nông Cotton</a></td>
 <td>Alan Dudley
 </td></tr>
 <tr>
@@ -336,7 +336,7 @@ Chuyến thăm - Legolas và Gimli tới [Hang động lấp lánh](../G/Glitter
 <td>Gordon Reid
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">The Mouth of Sauron</a></td>
+<td><a class="mw-redirect" href="The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">Miệng của Sauron</a></td>
 <td><a href="../J/John_Rye.md" title="John Rye">John Rye</a>
 </td></tr>
 <tr>

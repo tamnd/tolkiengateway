@@ -26,9 +26,9 @@ infobox:
     value: "Bilbo's Farewell"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Prologue</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Prologue_(disambiguation).md" title="Prologue (disambiguation)">Prologue (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Mở đầu</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Prologue_(disambiguation).md" title="Prologue (disambiguation)">Mở đầu (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Prologue.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bc/The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg/320px-The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bc/The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg/480px-The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg 1.5x, https://tolkiengateway.net/w/images/b/bc/The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg 2x" data-file-width="640" data-file-height="360"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Scene from <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (1978 film)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Prologue: A Ring&#39;s Tale</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Scene</th><td class="tg-infobox-data">2</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">3:41</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">forging of the <a href="../R/Rings_of_Power.md" title="Rings of Power">Rings</a>,<br/><a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">War of the Last Alliance</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i>None</i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i>Bilbo&#39;s Farewell</i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(1978_film)_-_Prologue.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bc/The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg/320px-The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bc/The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg/480px-The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg 1.5x, https://tolkiengateway.net/w/images/b/bc/The_Lord_of_the_Rings_%281978_film%29_-_Prologue.jpg 2x" data-file-width="640" data-file-height="360"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Cảnh trong <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim năm 1978)</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Prologue: A Ring&#39;s Tale</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Cảnh</th><td class="tg-infobox-data">2</td></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">3:41</td></tr><tr><th scope="row" class="tg-infobox-label">Sự kiện</th><td class="tg-infobox-data">rèn <a href="../R/Rings_of_Power.md" title="Rings of Power">Nhẫn</a>,<br/><a href="../W/War_of_the_Last_Alliance.md" title="War of the Last Alliance">Cuộc chiến của Liên minh Cuối cùng</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i>Không có</i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i>Bilbo&#39;s Farewell</i></td></tr></tbody></table>
 
 <i><b>Mở đầu: Câu chuyện về chiếc nhẫn</b></i> là cảnh thứ hai của [bộ phim năm 1978 *The Lord of the Rings*](<../T/The_Lord_of_the_Rings_(1978_film).md>)*.*
 
@@ -44,8 +44,8 @@ Sauron chiếm lại Nine và biến người đeo chúng thành Nazgûl. Ông p
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td>Narrator (<a href="../G/Gandalf.md" title="Gandalf">Gandalf</a>)</td>
@@ -57,7 +57,7 @@ Sauron chiếm lại Nine và biến người đeo chúng thành Nazgûl. Ông p
 </td></tr>
 <tr>
 <td><a class="mw-redirect" href="../S/Sméagol.md" title="Sméagol">Sméagol</a></td>
-<td><a href="Peter_Woodthorpe.md" title="Peter Woodthorpe">Peter Woodthorpe</a> (voice)
+<td><a href="Peter_Woodthorpe.md" title="Peter Woodthorpe">Peter Woodthorpe</a> (giọng nói)
 </td></tr>
 <tr>
 <td><a href="../I/Isildur.md" title="Isildur">Isildur</a></td>

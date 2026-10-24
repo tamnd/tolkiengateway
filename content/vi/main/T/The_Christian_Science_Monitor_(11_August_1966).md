@@ -24,7 +24,7 @@ infobox:
     value: "Newspaper"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Christian Science Monitor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Boston: The Christian Science Publishing Society</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/11_August.md" title="11 August">11 August</a> <a href="../_/1966.md" title="1966">1966</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Newspaper</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>The Christian Science Monitor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Boston: The Christian Science Publishing Society</td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/11_August.md" title="11 August">11 August</a> <a href="../_/1966.md" title="1966">1966</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Báo</td></tr></tbody></table>
 
 <b><i>The Christian Science Monitor</i> (11 tháng 8 năm 1966)</b> là số của tờ báo <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Christian_Science_Monitor" title="wikipedia:The Christian Science Monitor">The Christian Science Monitor</a></i>.
 

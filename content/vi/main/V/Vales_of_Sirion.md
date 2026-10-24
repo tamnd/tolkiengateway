@@ -13,7 +13,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>&#34;Now thou shalt go at last to Gondolin, Turgon; and I will maintain my power in the Vale of Sirion, and in all the waters therein, so that none shall mark thy going, nor shall any find there the hidden entrance against thy will.&#34;
+<p>"Bây giờ cuối cùng ngươi sẽ đi tới Gondolin, Turgon; và ta sẽ duy trì quyền lực của mình ở Thung lũng Sirion, và trong tất cả các vùng nước ở đó, để không ai có thể đánh dấu đường đi của ngươi, cũng như không ai tìm thấy ở đó lối vào ẩn giấu trái với ý muốn của ngươi."
 </p>
 <p class="tg-quote-footer"><cite><a href="../U/Ulmo.md" title="Ulmo">Ulmo</a>, <i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Noldor_in_Beleriand.md" title="Of the Noldor in Beleriand">Of the Noldor in Beleriand</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

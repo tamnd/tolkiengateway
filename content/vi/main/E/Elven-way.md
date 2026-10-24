@@ -14,7 +14,7 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The only road of old to Moria from the west had lain along the course of a stream, the Sirannon, that ran out from the feet of the cliffs near where the doors had stood.
+<p>Con đường cũ duy nhất đến Moria từ phía tây nằm dọc theo dòng suối, sông Sirannon, chạy ra từ chân những vách đá gần nơi từng có cánh cửa.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../A/A_Journey_in_the_Dark.md" title="A Journey in the Dark">A Journey in the Dark</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

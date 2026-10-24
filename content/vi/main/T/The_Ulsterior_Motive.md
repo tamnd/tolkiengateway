@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Ulsterior_Motive"
 content_sha256: 596f8b1b11e5a0e6b125c1473fb98af8325b83605d9a43f4efa28cbc20fdbab7
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "1964 essay by J.R.R. Tolkien"
+short_description: "Tiểu luận năm 1964 của J.R.R. Tolkien"
 categories:
   - "Unpublished material"
 hidden_categories:
@@ -22,9 +22,9 @@ sort_keys:
 Một vài đoạn trích ngắn từ bản thảo hiện đang bị hạn chế đã được xuất bản trong *C.S. Lewis: A Biography* của A.N. Wilson và *[The Inklings](<The_Inklings_(book).md>)*của [Humphrey Carpenter](../H/Humphrey_Carpenter.md).<sup id="cite_ref-guide_4-0" class="reference"><a href="#cite_note-guide-4">[4]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>It was not for some time that I realized that there was more in the title <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Pilgrim%27s_Regress" title="wikipedia:The Pilgrim&#39;s Regress">Pilgrim&#39;s Regress</a></i> than I had understood (or the author either, maybe). Lewis would regress. He would not re-enter <a href="../C/Christianity.md" title="Christianity">Christianity</a> by a new door, but by the old one: at least in the sense that in taking it up again he would also take up, or reawaken, the prejudices so sedulously planted in boyhood. He would become again a Northern Ireland protestant.
+<p>Phải mất một thời gian, tôi mới nhận ra rằng có nhiều điều trong tiêu đề <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Pilgrim%27s_Regress" title="wikipedia:The Pilgrim&#39;s Regress">Pilgrim&#39;s Regress</a></i> hơn những gì tôi đã hiểu (hoặc có thể là cả tác giả). Lewis sẽ thụt lùi. Ông sẽ không quay trở lại <a href="../C/Christianity.md" title="Christianity">Kitô giáo</a> bằng một cánh cửa mới, mà bằng cánh cửa cũ: ít nhất theo nghĩa là khi tiếp tục theo đuổi nó, ông cũng sẽ tiếp nhận hoặc đánh thức lại những thành kiến ​​đã được gieo trồng một cách quyến rũ trong thời niên thiếu. Ông sẽ lại trở thành một người theo đạo Tin lành ở Bắc Ireland.
 </p>
-<p class="tg-quote-footer"><cite>An excerpt.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>Một đoạn trích.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
 </blockquote>
 
 ## Liên kết ngoài {#External_links}

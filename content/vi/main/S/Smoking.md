@@ -34,7 +34,7 @@ images:
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Trên thực tế, tôi là một Hobbit (về mọi mặt trừ kích thước). […] Tôi hút tẩu...
 </p>
-<p class="tg-quote-footer"><cite><a href="../L/Letter_213.md" title="Letter 213">Letter 213</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../L/Letter_213.md" title="Letter 213">Thư 213</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là một người nghiện thuốc tẩu. Anh cho rằng chứng nghiện của mình xuất phát từ thời thơ ấu, khi anh chứng kiến ​​Cha [Francis Xavier Morgan](../F/Francis_Xavier_Morgan.md) hút tẩu ở một địa điểm cụ thể mỗi lần.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>

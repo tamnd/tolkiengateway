@@ -415,7 +415,7 @@ Cho thấy những thành viên nổi bật của gia tộc Baggins.<sup id="cit
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Sagan_om_Ringen_-_Bilbo_Baggins.png.md" title="Bilbo in Sagan om Ringen"><img alt="Bilbo in Sagan om Ringen" src="https://tolkiengateway.net/w/images/thumb/3/3c/Sagan_om_Ringen_-_Bilbo_Baggins.png/156px-Sagan_om_Ringen_-_Bilbo_Baggins.png" decoding="async" loading="lazy" width="156" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3c/Sagan_om_Ringen_-_Bilbo_Baggins.png/235px-Sagan_om_Ringen_-_Bilbo_Baggins.png 1.5x, https://tolkiengateway.net/w/images/3/3c/Sagan_om_Ringen_-_Bilbo_Baggins.png 2x" data-file-width="291" data-file-height="279"/></a></span></div>
 			<div class="gallerytext">
-<p>Bilbo trong <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i></a>
+<p>Bilbo in <a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)"><i>Sagan om Ringen</i></a>
 </p>
 			</div>
 		</li>

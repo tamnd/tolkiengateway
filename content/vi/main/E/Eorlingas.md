@@ -22,7 +22,7 @@ images:
 Từ này được sử dụng trong lời kêu gọi vũ trang được hô vang bởi Vua [Théoden](../T/Théoden.md) khi [Gandalf](../G/Gandalf.md) đã chữa lành vết thương cho ông ta:<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">[4]</a></sup>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Arise now, arise, Riders of Théoden!<br/>Dire deeds awake, dark it is eastward.<br/>Let horse be bridled, horn be sounded!<br/>Forth Eorlingas!
+<p>Hãy trỗi dậy ngay bây giờ, hãy trỗi dậy, Các kỵ sĩ của Théoden!<br/>Hãy thức tỉnh, trời đã tối ở phía đông.<br/>Hãy buộc ngựa và thổi còi!<br/>Tiến lên Eorlingas!
 </p>
 <p class="tg-quote-footer"><cite>King Théoden</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

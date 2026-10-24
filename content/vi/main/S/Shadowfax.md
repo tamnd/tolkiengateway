@@ -87,7 +87,7 @@ Nó là một dạng thu gọn của [tiếng Anh cổ](../O/Old_English.md) *Sc
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Sagan_om_Ringen_-_Shadowfax.png.md" title="Shadowfax in Sagan om Ringen"><img alt="Shadowfax in Sagan om Ringen" src="https://tolkiengateway.net/w/images/thumb/3/31/Sagan_om_Ringen_-_Shadowfax.png/194px-Sagan_om_Ringen_-_Shadowfax.png" decoding="async" loading="lazy" width="194" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/Sagan_om_Ringen_-_Shadowfax.png/292px-Sagan_om_Ringen_-_Shadowfax.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/31/Sagan_om_Ringen_-_Shadowfax.png/389px-Sagan_om_Ringen_-_Shadowfax.png 2x" data-file-width="1399" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>Shadowfax trong <i><a href="Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)">Sagan om Ringen</a></i>
+<p>Shadowfax in <i><a href="Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)">Sagan om Ringen</a></i>
 </p>
 			</div>
 		</li>

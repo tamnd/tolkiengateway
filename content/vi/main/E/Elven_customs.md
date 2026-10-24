@@ -59,7 +59,7 @@ Một trường hợp rất đặc biệt khác là Amrod. Tên mẹ của ông 
 <tbody><tr>
 <th>Sindarin Name</th>
 <th>Quenya father-name</th>
-<th>Quenya mother-name</th>
+<th>Quenya tên mẹ</th>
 <th>epesse
 </th></tr>
 <tr>

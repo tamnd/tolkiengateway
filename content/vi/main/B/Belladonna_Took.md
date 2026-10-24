@@ -99,7 +99,7 @@ Trong lần đầu tiên xuất hiện trong tác phẩm, Belladonna — cái t�
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Belladonna_Took.png.md" title="Belladonna Took&#39;s portait in The Lord of the Rings: The Fellowship of the Ring"><img alt="Belladonna Took&#39;s portait in The Lord of the Rings: The Fellowship of the Ring" src="https://tolkiengateway.net/w/images/thumb/3/3c/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Belladonna_Took.png/187px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Belladonna_Took.png" decoding="async" loading="lazy" width="187" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/3c/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Belladonna_Took.png 1.5x" data-file-width="258" data-file-height="207"/></a></span></div>
 			<div class="gallerytext">
-<p>Chân dung của Belladonna Took trong <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>
+<p>Belladonna Took&#39;s portait in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>
 </p>
 			</div>
 		</li>

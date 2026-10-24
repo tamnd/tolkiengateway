@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Reiner_Knizia"
 content_sha256: 5ae61650343df7db47a11043c8c4236c3ba083b03a72089af24dd01666aecbb4
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "German board game designer"
+short_description: "Nhà thiết kế trò chơi board game người Đức"
 categories:
   - "Game designers"
   - "People by name"
@@ -28,7 +28,7 @@ infobox:
     value: "Board game designer"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Reiner Knizia</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/16_November.md" title="16 November">16 November</a> <a href="../_/1957.md" title="1957">1957</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Board game designer</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Người</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Reiner Knizia</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/16_November.md" title="16 November">16 November</a> <a href="../_/1957.md" title="1957">1957</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nghề nghiệp</th><td class="tg-infobox-data">Nhà thiết kế trò chơi hội đồng</td></tr></tbody></table>
 
 **Reiner Knizia** (sinh [16 tháng 11](../_/16_November.md) [1957](../_/1957.md)) là nhà thiết kế trò chơi board game sinh ra ở Đức nhưng hiện sống ở Anh. Trong số rất nhiều trò chơi cờ bàn thành công trong sự nghiệp của ông có nhiều trò chơi cờ bàn khác nhau dựa trên các tác phẩm của Tolkien và các bản chuyển thể của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

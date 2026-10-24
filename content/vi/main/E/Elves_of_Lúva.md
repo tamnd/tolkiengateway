@@ -17,33 +17,33 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>From I shore I have known for long <br/>
-I heard enchanting songs <br/>
+<p>Từ bờ tôi đã biết từ lâu <br/>
+Tôi đã nghe những bài hát mê hoặc <br/>
 <br/>
-Meadow was dancing <br/>
-By the flute and the harp <br/>
-The water was silent and so calm <br/>
+Đồng cỏ đang nhảy múa <br/>
+Bằng sáo và đàn hạc <br/>
+Mặt nước tĩnh lặng và êm đềm quá <br/>
 <br/>
-I walked to the path across the sea <br/>
-I walked to the place ever unseen <br/>
-Into the fields and the streams <br/>
-Beyond the land of the dreams <br/>
+Tôi bước tới con đường xuyên biển <br/>
+Tôi bước tới nơi chưa từng thấy <br/>
+Vào cánh đồng và dòng suối <br/>
+Bên kia xứ sở của những giấc mơ <br/>
 <br/>
-Brif moment it took <br/>
-Then faded away <br/>
-I followed their song <br/>
-Followed their way <br/>
-Last sight of the sun <br/>
-Until eventide <br/>
-Showed me the road <br/>
-Served me as guide <br/>
+Khoảnh khắc ngắn ngủi đó <br/>
+Rồi lụi tàn <br/>
+Tôi đã theo dõi bài hát của họ <br/>
+Đi theo họ <br/>
+Nhìn thấy mặt trời lần cuối <br/>
+Cho đến khi chiều tối <br/>
+Chỉ đường cho tôi <br/>
+Phục vụ tôi với tư cách là người hướng dẫn <br/>
 <br/>
-I walked to the path across the sea <br/>
-I walked to the place ever unseen <br/>
-Passing the walls, passing the signs <br/>
-Opening hidden doors of my mind <br/>
+Tôi bước tới con đường xuyên biển <br/>
+Tôi bước tới nơi chưa từng thấy <br/>
+Vượt tường, vượt biển báo <br/>
+Mở ra những cánh cửa tiềm ẩn của tâm hồn <br/>
 <br/>
-On the shore I have known for long <br/>
-I sang enchanting songs
+Trên bờ tôi đã quen từ lâu <br/>
+Tôi đã hát những bài hát mê hoặc
 </p>
 </div>

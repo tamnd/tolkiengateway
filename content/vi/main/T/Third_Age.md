@@ -37,41 +37,41 @@ images:
   - "Quentin_Lowagie_-_Arda_in_the_Third_Age.png"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Third Age</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Third_Age_(disambiguation).md" title="Third Age (disambiguation)">Third Age (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên gọi <b>Kỷ Đệ Tam</b> có thể chỉ nhiều nhân vật, vật phẩm hoặc khái niệm khác nhau. Để xem các nghĩa khác, hãy xem <b><a class="mw-disambig" href="Third_Age_(disambiguation).md" title="Third Age (disambiguation)">Kỷ Đệ Tam (trang định hướng)</a></b>.</div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với ngươi, và ai đã sai ngươi đến?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="Timeline.md" title="Timeline">Timeline of Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Days before days</a>
+<td colspan="3"><b><a href="Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Years of the Trees</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Thời đại Cây Hai Ngọn</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -96,20 +96,20 @@ images:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Later Ages</a> <small>(up to present day)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Các Kỷ nguyên về sau</a> <small>(cho đến ngày nay)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Phiên bản thế giới hình cầu của huyền sử</a></b>
 </td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The Third Age came to its end in the War of the Ring; but the Fourth Age was not held to have begun until Master Elrond departed, and the time was come for the dominion of Men and the decline of all other ‘speaking-peoples’ in Middle-earth.
+<p>Kỷ Đệ Tam kết thúc với Cuộc chiến Nhẫn, nhưng Kỷ Đệ Tứ chỉ được coi là bắt đầu sau khi Elrond ra đi, đồng thời mở ra thời kỳ Con Người thống trị và mọi “dân tộc biết nói” khác ở Trung Địa suy tàn.
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Appendix_B.md" title="Appendix B"><i>Appendix B: The Tale of Years</i></a><i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -132,10 +132,10 @@ Thời đại này kéo dài 3021 năm và chỉ kết thúc khi Sauron cuối c
 </th>
 <th style="text-align:center">Political
 </th>
-<th style="text-align:center">Other
+<th style="text-align:center">Khác
 </th></tr>
 <tr>
-<th>1st millennium
+<th>thiên niên kỷ thứ 1
 </th>
 <td>
 <ul><li><a href="../D/Disaster_of_the_Gladden_Fields.md" title="Disaster of the Gladden Fields">Disaster of the Gladden Fields</a> (<a href="Third_Age_2.md" title="Third Age 2">2</a>)</li></ul>
@@ -147,7 +147,7 @@ Thời đại này kéo dài 3021 năm và chỉ kết thúc khi Sauron cuối c
 <ul><li>Arrival of the <a href="../W/Wizards.md" title="Wizards">Wizards</a> (c. 1000)</li></ul>
 </td></tr>
 <tr>
-<th>2nd millennium
+<th>thiên niên kỷ thứ 2
 </th>
 <td>
 <ul><li><a class="mw-redirect" href="../A/Angmar_War.md" title="Angmar War">Angmar War</a> (<a href="Third_Age_1409.md" title="Third Age 1409">1409</a>-<a href="Third_Age_1974.md" title="Third Age 1974">1974</a>)</li>
@@ -159,13 +159,13 @@ Thời đại này kéo dài 3021 năm và chỉ kết thúc khi Sauron cuối c
 <ul><li>Founding of the <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a> (<a href="Third_Age_1601.md" title="Third Age 1601">1601</a>)</li>
 <li>Dissolution of Arnor (<a href="Third_Age_1974.md" title="Third Age 1974">1974</a>)</li>
 <li>Evacuation of <a href="../M/Moria.md" title="Moria">Moria</a> (<a href="Third_Age_1981.md" title="Third Age 1981">1981</a>)</li>
-<li><a href="Thráin_I.md" title="Thráin I">Thráin I</a> establishes the Kingdom of <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a> (<a href="Third_Age_1999.md" title="Third Age 1999">1999</a>)</li></ul>
+<li><a href="Thráin_I.md" title="Thráin I">Thráin I</a> thành lập Vương quốc <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a> (<a href="Third_Age_1999.md" title="Third Age 1999">1999</a>)</li></ul>
 </td>
 <td>
 <ul><li><a href="../G/Great_Plague.md" title="Great Plague">Great Plague</a> (<a href="Third_Age_1635.md" title="Third Age 1635">1635</a>)</li></ul>
 </td></tr>
 <tr>
-<th>3rd millennium
+<th>thiên niên kỷ thứ 3
 </th>
 <td>
 <ul><li><a href="../S/Second_Fall_of_Minas_Ithil.md" title="Second Fall of Minas Ithil">Second Fall of Minas Ithil</a> (<a href="Third_Age_2002.md" title="Third Age 2002">2002</a>)</li>
@@ -177,25 +177,25 @@ Thời đại này kéo dài 3021 năm và chỉ kết thúc khi Sauron cuối c
 <li><a href="../B/Battle_of_Five_Armies.md" title="Battle of Five Armies">Battle of Five Armies</a> (<a href="Third_Age_2941.md" title="Third Age 2941">2941</a>)</li></ul>
 </td>
 <td>
-<ul><li>Death of <a class="mw-redirect" href="../E/Earnur.md" title="Earnur">Earnur</a> and end of Kingship of <a href="../G/Gondor.md" title="Gondor">Gondor</a> (<a href="Third_Age_2050.md" title="Third Age 2050">2050</a>)</li>
-<li><a href="Thorin_I.md" title="Thorin I">Thorin I</a> leaves Erebor and joins the <a href="../D/Dwarves_of_the_Grey_Mountains.md" title="Dwarves of the Grey Mountains">Dwarves of the Grey Mountains</a> (<a href="Third_Age_2210.md" title="Third Age 2210">2210</a>)</li>
+<ul><li><a class="mw-redirect" href="../E/Earnur.md" title="Earnur">Earnur</a> qua đời, chấm dứt thời kỳ quân chủ ở <a href="../G/Gondor.md" title="Gondor">Gondor</a> (<a href="Third_Age_2050.md" title="Third Age 2050">2050</a>)</li>
+<li><a href="Thorin_I.md" title="Thorin I">Thorin I</a> rời Erebor và gia nhập cộng đồng <a href="../D/Dwarves_of_the_Grey_Mountains.md" title="Dwarves of the Grey Mountains">Người Lùn ở Dãy Núi Xám</a> (<a href="Third_Age_2210.md" title="Third Age 2210">2210</a>)</li>
 <li><a class="mw-redirect" href="../O/Oath_of_Cirion.md" title="Oath of Cirion">Founding</a> of <a href="../R/Rohan.md" title="Rohan">Rohan</a> (<a href="Third_Age_2510.md" title="Third Age 2510">2510</a>)</li>
 <li><a href="Thrór.md" title="Thrór">Thrór</a> re-establishes Erebor (<a href="Third_Age_2590.md" title="Third Age 2590">2590</a>)</li>
-<li><a href="../S/Saruman.md" title="Saruman">Saruman</a> occupies <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> (<a href="Third_Age_2759.md" title="Third Age 2759">2759</a>)</li>
+<li><a href="../S/Saruman.md" title="Saruman">Saruman</a> chiếm <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> (<a href="Third_Age_2759.md" title="Third Age 2759">2759</a>)</li>
 <li><a href="../S/Sack_of_Erebor.md" title="Sack of Erebor">Sack of Erebor</a> (<a href="Third_Age_2770.md" title="Third Age 2770">2770</a>)</li>
-<li>Dwarves establish <a class="mw-redirect" href="Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Thorin&#39;s Halls</a> (<a href="Third_Age_2802.md" title="Third Age 2802">2802</a>)</li>
+<li>Người Lùn lập nên <a class="mw-redirect" href="Thorin&#39;s_Halls.md" title="Thorin&#39;s Halls">Sảnh đường của Thorin</a> (<a href="Third_Age_2802.md" title="Third Age 2802">2802</a>)</li>
 <li>Restoration of <a class="mw-redirect" href="../K/Kingdom_Under_the_Mountain~32174.md" title="Kingdom Under the Mountain">Erebor</a> (<a href="Third_Age_2941.md" title="Third Age 2941">2941</a>)</li>
 <li>Establishent of the <a class="mw-redirect" href="../K/Kingdom_of_Dale.md" title="Kingdom of Dale">Kingdom of Dale</a> (<a href="Third_Age_2944.md" title="Third Age 2944">2944</a>)</li>
 <li><a class="mw-redirect" href="../B/Balin&#39;s_Colony~64118.md" title="Balin&#39;s Colony">Balin&#39;s Colony</a> of Moria (<a href="Third_Age_2989.md" title="Third Age 2989">2989</a>-<a href="Third_Age_2994.md" title="Third Age 2994">2994</a>)</li></ul>
 </td>
 <td>
 <ul><li><a href="../W/Watchful_Peace.md" title="Watchful Peace">Watchful Peace</a> (<a href="Third_Age_2063.md" title="Third Age 2063">2063</a>)</li>
-<li><a href="The_One_Ring.md" title="The One Ring">The One Ring</a> is found (c. <a href="Third_Age_2463.md" title="Third Age 2463">2463</a>)</li>
+<li><a href="The_One_Ring.md" title="The One Ring">Nhẫn Chúa được tìm thấy</a> (khoảng <a href="Third_Age_2463.md" title="Third Age 2463">2463</a>)</li>
 <li><a href="../L/Long_Winter.md" title="Long Winter">Long Winter</a> (<a href="Third_Age_2758.md" title="Third Age 2758">2758</a>)</li>
 <li><a href="../F/Fell_Winter_(Third_Age).md" title="Fell Winter (Third Age)">Fell Winter (Third Age)</a> (<a href="Third_Age_2911.md" title="Third Age 2911">2911</a>)</li></ul>
 </td></tr>
 <tr>
-<th>4th millennium
+<th>thiên niên kỷ thứ 4
 </th>
 <td>
 <ul><li><a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a> (<a href="Third_Age_3018.md" title="Third Age 3018">3018</a>-<a href="Third_Age_3019.md" title="Third Age 3019">3019</a>)</li></ul>
@@ -205,7 +205,7 @@ Thời đại này kéo dài 3021 năm và chỉ kết thúc khi Sauron cuối c
 </td>
 <td>
 <ul><li><a href="../Q/Quest_of_the_Ring.md" title="Quest of the Ring">Quest of the Ring</a> (<a href="Third_Age_3018.md" title="Third Age 3018">3018</a>-<a href="Third_Age_3019.md" title="Third Age 3019">3019</a>)</li>
-<li>Departure of the <a href="../W/White_Ship.md" title="White Ship">White Ship</a> and end of the Third Age (<a href="Third_Age_3021.md" title="Third Age 3021">3021</a>)</li></ul>
+<li>Khởi hành <a href="../W/White_Ship.md" title="White Ship">Con Tàu Trắng</a> và kết thúc Kỷ Đệ Tam (<a href="Third_Age_3021.md" title="Third Age 3021">3021</a>)</li></ul>
 </td></tr></tbody></table>
 
 ## Xem thêm {#See_also}

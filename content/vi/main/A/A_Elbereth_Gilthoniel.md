@@ -56,7 +56,7 @@ images:
 <tr>
 <td><em style="font: normal 1.7em/1.5em &#39;Tengwar Annatar&#39;, &#39;Tengwar Quenya&#39;, &#39;Tengwar Sindarin&#39;, &#39;Tengwar Formal&#39;, &#39;Tengwar Parmaite&#39;, &#39;Tengwar Elfica&#39;">h yl6lj ]sj]7 ljl6]3Á</em>
 </td>
-<td><i>ôi menel aglar elenath!</i>
+<td><i>o menel aglar elenath!</i>
 </td></tr>
 <tr>
 <td><em style="font: normal 1.7em/1.5em &#39;Tengwar Annatar&#39;, &#39;Tengwar Quenya&#39;, &#39;Tengwar Sindarin&#39;, &#39;Tengwar Formal&#39;, &#39;Tengwar Parmaite&#39;, &#39;Tengwar Elfica&#39;">6]d]Ý7l2 q]j]62`V7`lj</em>
@@ -66,7 +66,7 @@ images:
 <tr>
 <td><em style="font: normal 1.7em/1.5em &#39;Tengwar Annatar&#39;, &#39;Tengwar Quenya&#39;, &#39;Tengwar Sindarin&#39;, &#39;Tengwar Formal&#39;, &#39;Tengwar Parmaite&#39;, &#39;Tengwar Elfica&#39;">h s]j]47lt`6 l5h7]3=</em>
 </td>
-<td><i>ôi galadhremmin ennorath, </i>
+<td><i>o galadhremmin ennorath, </i>
 </td></tr>
 <tr>
 <td><em style="font: normal 1.7em/1.5em &#39;Tengwar Annatar&#39;, &#39;Tengwar Quenya&#39;, &#39;Tengwar Sindarin&#39;, &#39;Tengwar Formal&#39;, &#39;Tengwar Parmaite&#39;, &#39;Tengwar Elfica&#39;">e]6.Õjh8= jl j`5]3h6</em>

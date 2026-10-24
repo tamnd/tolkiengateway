@@ -15,7 +15,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Underhill</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Underhill_(disambiguation).md" title="Underhill (disambiguation)">Underhill (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Underhill</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Underhill_(disambiguation).md" title="Underhill (disambiguation)">Underhill (định hướng)</a></b>.</div></div>
 
 **Underhill** là một phần của [Hobbiton](../H/Hobbiton.md) nằm ngay bên dưới [Hobbiton Đồi](../H/Hobbiton_Hill.md). [nụ cười](../H/Hobbit-holes.md) nổi tiếng nhất của nó nằm ngay trong Đồi; [Bag End](../B/Bag_End.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Rõ ràng Underhill có chứa [Hàng Bagshot](../B/Bagshot_Row.md).
 

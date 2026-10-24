@@ -68,7 +68,7 @@ Xem [Danh sách các bài viết](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_a
 </blockquote>
 
 <div style="-moz-column-width: 300px; -webkit-column-width: 300px; column-width: 300px; -moz-column-gap: 15px; -webkit-column-gap: 15px; column-gap: 15px; -webkit-column-rule: 1px solid #cccccc; -moz-column-rule: 1px solid #cccccc; column-rule: 1px solid #cccccc;">
-<ul><li><i>Adaptations</i></li>
+<ul><li><i>Các tác phẩm chuyển thể</i></li>
 <li><i>Nghệ thuật và minh họa</i></li>
 <li><i>Nhân vật trong tác phẩm của Tolkien</i></li>
 <li><i>Lịch sử quan trọng và học bổng</i></li>
@@ -97,14 +97,14 @@ Xem [Danh sách các bài viết](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_a
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Encyclopedia_2006.jpg.md" title="2006 hardcover"><img alt="2006 hardcover" src="https://tolkiengateway.net/w/images/thumb/e/ea/J.R.R._Tolkien_Encyclopedia_2006.jpg/93px-J.R.R._Tolkien_Encyclopedia_2006.jpg" decoding="async" loading="lazy" width="93" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/J.R.R._Tolkien_Encyclopedia_2006.jpg/140px-J.R.R._Tolkien_Encyclopedia_2006.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/J.R.R._Tolkien_Encyclopedia_2006.jpg/187px-J.R.R._Tolkien_Encyclopedia_2006.jpg 2x" data-file-width="448" data-file-height="600"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2006
+<p>2006 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Encyclopedia_2013.jpg.md" title="2013 paperback"><img alt="2013 paperback" src="https://tolkiengateway.net/w/images/thumb/4/45/J.R.R._Tolkien_Encyclopedia_2013.jpg/96px-J.R.R._Tolkien_Encyclopedia_2013.jpg" decoding="async" loading="lazy" width="96" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/45/J.R.R._Tolkien_Encyclopedia_2013.jpg/144px-J.R.R._Tolkien_Encyclopedia_2013.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/45/J.R.R._Tolkien_Encyclopedia_2013.jpg/192px-J.R.R._Tolkien_Encyclopedia_2013.jpg 2x" data-file-width="1000" data-file-height="1300"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm 2013
+<p>2013 paperback
 </p>
 			</div>
 		</li>

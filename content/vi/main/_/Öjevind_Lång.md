@@ -20,7 +20,7 @@ images:
   - "Hurins_barn.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurins_barn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/Hurins_barn.jpg/300px-Hurins_barn.jpg" decoding="async" loading="lazy" width="300" height="439" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6a/Hurins_barn.jpg 1.5x" data-file-width="301" data-file-height="440"/></a><figcaption>The Swedish edition of <i>The Children of Húrin</i></figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hurins_barn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6a/Hurins_barn.jpg/300px-Hurins_barn.jpg" decoding="async" loading="lazy" width="300" height="439" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6a/Hurins_barn.jpg 1.5x" data-file-width="301" data-file-height="440"/></a><figcaption>Ấn bản tiếng Thụy Điển của <i>The Children of Húrin</i></figcaption></figure>
 
 **Öjevind Lång** ([1948](1948.md) - [8 tháng 8](8_August.md) [2011](2011.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là dịch giả người Thụy Điển với hơn 80 cuốn sách.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -46,7 +46,7 @@ images:
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Translators of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">books</a> into Swedish</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Người dịch <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">sách</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> sang tiếng Thụy Điển</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%;"> <b><a href="../R/Roland_Adlerberth.md" title="Roland Adlerberth">Roland Adlerberth</a></b> · <b><a href="../E/Erik_Andersson.md" title="Erik Andersson">Erik Andersson</a></b> · <b><a href="../B/Britt_G._Hallqvist.md" title="Britt G. Hallqvist">Britt G. Hallqvist</a></b> · <b><a class="mw-selflink selflink">Öjevind Lång</a></b> · <b><a href="Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></b> · <b><a href="../T/Tore_Zetterholm.md" title="Tore Zetterholm">Tore Zetterholm</a></b>

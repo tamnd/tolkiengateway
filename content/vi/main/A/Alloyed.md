@@ -151,7 +151,7 @@ Halbrand bước vào làn khói và lửa của [núi lửa](../M/Mount_Doom.md
 </td></tr>
 <tr>
 <td><a href="../B/Benjamin_Walker.md" title="Benjamin Walker">Benjamin Walker</a></td>
-<td><a href="../G/Gil-galad.md" title="Gil-galad">High King Gil-galad</a>
+<td><a href="../G/Gil-galad.md" title="Gil-galad">Đại Vương Gil-galad</a>
 </td></tr>
 <tr>
 <td><a href="../L/Lenny_Henry.md" title="Lenny Henry">Sir Lenny Henry</a></td>

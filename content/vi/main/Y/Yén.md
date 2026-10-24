@@ -26,7 +26,7 @@ langlinks:
 
 <i><b>Yén</b></i> (số nhiều <i><b>yéni</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là [Quenya](../Q/Quenya.md) cho "năm dài" hoặc "năm vĩ đại",<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup> và là đơn vị thời gian được sử dụng bởi [Tiên tộc](../E/Elves.md) của [Trung Địa](../M/Middle-earth.md) sau lần trỗi dậy đầu tiên của [Mặt Trời](../S/Sun.md).<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> So sánh với a [Năm Valian](../V/Valian_Years.md), đơn vị thời gian được sử dụng trong [Valinor](../V/Valinor.md).
 
-<dl><dd>1 <i>yén</i> = 144 solar years = 52,596 days<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
+<dl><dd>1 <i>yén</i> = 144 năm dương lịch = 52.596 ngày<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
 [Tolkien](../J/J.R.R._Tolkien.md) đã sử dụng Năm Valian để đo thời gian trôi qua trong [Ngày Người cao tuổi](../E/Elder_Days.md) như được ghi trong *[Annals of Aman](../T/The_Annals_of_Aman.md)*, nhưng Năm Valian như vậy bằng 9,582 năm dương lịch = 3500 ngày (trong các phiên bản cũ hơn, [*Annals of Valinor*](../T/The_Lost_Road_and_Other_Writings.md), nó bằng 10 năm dương lịch).
 

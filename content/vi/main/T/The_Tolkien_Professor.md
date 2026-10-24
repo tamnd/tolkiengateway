@@ -17,7 +17,7 @@ sort_keys:
   "Websites": "Tolkien Professor, The"
 ---
 
-<iframe src="https://open.spotify.com/embed/episode/1m4xPE1AM065S5AjevHebw" width="300px" height="380px" frameborder="0" allowtransparency="true" allow="encrypted-media" class="spotify"></iframe> <i><b>The Tolkien Professor</b></i> is the name of a podcast and website created by [Corey Olsen](../C/Corey_Olsen.md). [Riddles in the Dark](<../R/Riddles_in_the_Dark_(podcast).md>), a podcast about the forthcoming [*The Hobbit* (film series)](<The_Hobbit_(film_series).md>), forms part of this podcast series.
+<iframe src="https://open.spotify.com/embed/episode/1m4xPE1AM065S5AjevHebw" width="300px" height="380px" frameborder="0" allowtransparency="true" allow="encrypted-media" class="spotify"></iframe> <i><b>The Tolkien Professor</b></i> là tên của podcast và trang web được tạo bởi [Corey Olsen](../C/Corey_Olsen.md). [Những câu đố trong bóng tối](<../R/Riddles_in_the_Dark_(podcast).md>), một podcast về [*The Hobbit* (loạt phim)](<The_Hobbit_(film_series).md>), là một phần của loạt podcast này.
 
 ## Liên kết ngoài {#External_links}
 

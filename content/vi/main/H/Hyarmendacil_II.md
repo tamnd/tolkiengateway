@@ -65,7 +65,7 @@ infobox:
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/H/Hyarmendacil.mp3.md" title="File:Hyarmendacil.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/H/Hyarmendacil.mp3.md" title="File:Hyarmendacil.mp3">Tệp:Hyarmendacil.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/H/Hyarmendacil.mp3.md" title="File:Hyarmendacil.mp3">File:Hyarmendacil.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -128,7 +128,7 @@ Trong một bản thảo muộn về sau này trở thành Appendix A, có đề
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td><div class="tg-seq-label">Sinh</div><div class="tg-seq-value"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1391.md" title="Third Age 1391">1391</a></div></td><td><div class="tg-seq-title">Hyarmendacil II</div><div class="tg-seq-label"><a href="House_of_Anárion.md" title="House of Anárion">Nhà Anárion</a><small><br/>Nhánh thiếu sinh quân <a href="House_of_Elros.md" title="House of Elros">Nhà Elros</a></small></div></td><td><div class="tg-seq-label">Qua đời</div><div class="tg-seq-value"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1621.md" title="Third Age 1621">1621</a></div></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../A/Aldamir.md" title="Aldamir">Aldamir</a></div></td><td width="45%"><div class="tg-seq-value">Ngày 24 <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">Vua Gondor</a></div><div class="tg-seq-label"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1540.md" title="Third Age 1540">1540</a> - <a href="../T/Third_Age_1621.md" title="Third Age 1621">1621</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../M/Minardil.md" title="Minardil">Minardil</a></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../A/Aldamir.md" title="Aldamir">Aldamir</a></div></td><td width="45%"><div class="tg-seq-value">24th <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">King of Gondor</a></div><div class="tg-seq-label"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1540.md" title="Third Age 1540">1540</a> - <a href="../T/Third_Age_1621.md" title="Third Age 1621">1621</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../M/Minardil.md" title="Minardil">Minardil</a></div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

@@ -45,7 +45,7 @@ Việc đặt tên cho Nước có thể là sự nhại lại một số loại
 
 <b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Water originates in the mountains of southerns <a href="../E/Evendim.md" title="Evendim">Evendim</a> and flows past <a href="../L/Long_Cleeve.md" title="Long Cleeve">Long Cleeve</a> and <a href="../N/Nobottle.md" title="Nobottle">Nobottle</a> before reaching <a href="../N/Needlehole.md" title="Needlehole">Needlehole</a>.</dd></dl>
+<dl><dd>The Water bắt nguồn từ vùng núi phía nam <a href="../E/Evendim.md" title="Evendim">Evendim</a> và chảy qua <a href="../L/Long_Cleeve.md" title="Long Cleeve">Long Cleeve</a> và <a href="../N/Nobottle.md" title="Nobottle">Nobottle</a> trước khi đến <a href="../N/Needlehole.md" title="Needlehole">Needlehole</a>.</dd></dl>
 
 <span></span>
 

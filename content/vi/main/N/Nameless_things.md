@@ -80,7 +80,7 @@ Todd Jensen gợi ý rằng những thứ không tên có thể được lấy c
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Rings_of_Power_(TV_series)_-_Worm.jpeg.md" title="The &#34;worm&#34; in The Lord of the Rings: The Rings of Power."><img alt="The &#34;worm&#34; in The Lord of the Rings: The Rings of Power." src="https://tolkiengateway.net/w/images/thumb/3/36/The_Rings_of_Power_%28TV_series%29_-_Worm.jpeg/200px-The_Rings_of_Power_%28TV_series%29_-_Worm.jpeg" decoding="async" loading="lazy" width="200" height="93" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/36/The_Rings_of_Power_%28TV_series%29_-_Worm.jpeg/300px-The_Rings_of_Power_%28TV_series%29_-_Worm.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/3/36/The_Rings_of_Power_%28TV_series%29_-_Worm.jpeg/400px-The_Rings_of_Power_%28TV_series%29_-_Worm.jpeg 2x" data-file-width="1213" data-file-height="567"/></a></span></div>
 			<div class="gallerytext">
-<p>"<i>worm</i>" trong <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>.
+<p>The &#34;<i>worm</i>&#34; in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>.
 </p>
 			</div>
 		</li>

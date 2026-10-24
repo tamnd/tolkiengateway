@@ -19,41 +19,41 @@ categories:
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p><b>Visur Islendinga</b><br/>
 <br/>
-Hvað er svo glatt sem góðra vina fundur,<br/>
-er gleðin skín a vonar hyrri bra?<br/>
+Hvað er svo glatt sem góðra vina Fundur,<br/>
+bạn có muốn mặc áo ngực vonar hyrri không?<br/>
 Eins og a vori laufi skryðist lundur,<br/>
-lifnar og glæðist hugarskætin<br/>
-Og meðan þrúgna gullnu tarin glóa<br/>
-og guða-veigar lífga salaryl,<br/>
-þa er það víst, að beztu blómin gróa<br/>
-í brjóstum, sem að geta fundið til.<br/>
+lifnar và glæðist ômarskætin<br/>
+Tôi nghĩ bạn có thể làm điều đó<br/>
+và guða-veigar lífga lương,<br/>
+đây là một ví dụ, að beztu blómin gróa<br/>
+tôi đang làm việc, tôi có thể kiếm được tiền cho đến khi.<br/>
 <br/>
 Latum því, vinir, vínið andann hressa<br/>
 og vonar-stundu kollum þenna dag<br/>
-og gesti vora biðium guð að blessa<br/>
+og gesti vora biðium guð að phước lành<br/>
 og bezt að snúa öllum þeirra hag.<br/>
 Látun ei sorg né söknuð vínið blanda,<br/>
 þó senn í vina-hópinn komi skörð;<br/>
-en óskum heilla&#39; og heiðurs hverjum landa,<br/>
-sem hejsar aftur vorri fosturjörð. <br/>
+en óskum heilla' và heiðurs hverjum landa,<br/>
+điều này có thể xảy ra sau khi bạn làm điều đó. <br/>
 <br/>
-það er svo tæpt að trúa heimsins glaumi —<br/>
+bạn sẽ phải làm gì với một loại trực khuẩn heimsins glaumi —<br/>
 því tara-döggvar falla studum skjótt,<br/>
 og vinir berast burt á tímans straumi,<br/>
-og blómin fölna&#39; á einni hélu-nótt;<br/>
-því er ost bezt að forðast raup og reiði<br/>
-og rjufa hvorki trygð né vinar-koss,<br/>
-en ef við sjáum sólskins-blett í heiði,<br/>
+og blómin fölna' á einni hélu-itt;<br/>
+ví dụ về điều gì đó có thể xảy ra với bạn và nó<br/>
+và rjufa hvorki trygð né vinar-koss,<br/>
+en ef við sjáum sólskin-blett í heiði,<br/>
 að setjast allir þar og gleðja oss.<br/>
 <br/>
 Latum því, vinir, vínið andann hressa<br/>
 og vonar-stundu köllum þennan dag<br/>
-og gesti vora biðjum guð að blessa<br/>
+og gesti vora biðjum guð að phước lành<br/>
 og bezt að snúa öllum þeirra hag;<br/>
-því meðan þrúgna gullnu tarin glóa <br/>
-og guða-veigar lífga salaryl,<br/>
-þa er það víst, að beztu blómin gróa<br/>
-í brjóstum, sem að geta fundið til. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+ví dụ về việc tôi có thể làm điều đó <br/>
+và guða-veigar lífga lương,<br/>
+đây là một ví dụ, að beztu blómin gróa<br/>
+Tôi đang làm điều đó, nhưng tôi có thể kiếm được một nguồn vốn cho đến nay. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </p>
 </div>
 

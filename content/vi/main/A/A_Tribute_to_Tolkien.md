@@ -19,7 +19,7 @@ Bài viết bao gồm những hồi ức về tác phẩm Tolkien của Murray. 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Ronald đang khẳng định một cách mạnh mẽ trên bàn ăn trưa rằng một trong những thảm họa lớn nhất của lịch sử châu Âu là việc người Goth chuyển sang Arian: nhưng vì điều đó, ngôn ngữ của họ, vừa sẵn sàng trở thành cổ điển, sẽ được làm phong phú không chỉ với một phiên bản kinh thánh vĩ đại mà còn, theo nguyên tắc Byzantine, với phụng vụ bản địa, vốn sẽ được dùng làm hình mẫu cho tất cả các dân tộc Đức và sẽ mang lại cho họ một đạo Công giáo bản địa sẽ không bao giờ tách rời. Và sau đó, ông đứng dậy và đọc kinh Lạy Cha bằng tiếng Gothic bằng một giọng điệu tuyệt vời.
 </p>
-<p class="tg-quote-footer"><cite>"Tưởng nhớ Tolkien", trang 879-80</cite></p>
+<p class="tg-quote-footer"><cite>&#34;A Tribute to Tolkien&#34;, pp. 879-80</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Tài liệu tham khảo {#References}

@@ -36,7 +36,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Rayner_Unwin.gif.md"><img src="https://tolkiengateway.net/w/images/b/bf/Rayner_Unwin.gif" decoding="async" loading="lazy" width="164" height="240" class="mw-file-element" data-file-width="164" data-file-height="240"/></a><figcaption>Rayner Unwin</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>But I have friendly personal relations with Stanley (whom all the same I do not much like) and with his second son Rayner (whom I do like very much).
+<p>Nhưng tôi có quan hệ cá nhân thân thiện với Stanley (người mà tôi không ưa lắm) và với con trai thứ hai của ông ấy là Rayner (người mà tôi rất thích).
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Letter_123.md" title="Letter 123">Letter 123</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

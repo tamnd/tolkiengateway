@@ -78,7 +78,7 @@ infobox:
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/B/Barahir.mp3.md" title="File:Barahir.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/B/Barahir.mp3.md" title="File:Barahir.mp3">Tệp:Barahir.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/B/Barahir.mp3.md" title="File:Barahir.mp3">File:Barahir.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -155,7 +155,7 @@ Trong *Grey Annals* (được viết vào thập niên 1930<sup id="cite_ref-9" 
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td><div class="tg-seq-label">Sinh</div><div class="tg-seq-value"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_400.md" title="First Age 400">400</a></div></td><td><div class="tg-seq-title">Barahir</div><div class="tg-seq-label"><a href="../H/House_of_Bëor.md" title="House of Bëor">Nhà Bëor</a></div></td><td><div class="tg-seq-label">Qua đời</div><div class="tg-seq-value"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_460.md" title="First Age 460">460</a></div></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="Bregolas.md" title="Bregolas">Bregolas</a></div></td><td width="45%"><div class="tg-seq-value">Trưởng ban <a href="../H/House_of_Bëor.md" title="House of Bëor">Nhà Bëor</a> thứ 7</div><div class="tg-seq-label"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_455.md" title="First Age 455">455</a> - <a href="../F/First_Age_460.md" title="First Age 460">460</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="Beren.md" title="Beren">Beren</a></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="Bregolas.md" title="Bregolas">Bregolas</a></div></td><td width="45%"><div class="tg-seq-value">7th Head of the <a href="../H/House_of_Bëor.md" title="House of Bëor">House of Bëor</a></div><div class="tg-seq-label"><a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_455.md" title="First Age 455">455</a> - <a href="../F/First_Age_460.md" title="First Age 460">460</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="Beren.md" title="Beren">Beren</a></div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">

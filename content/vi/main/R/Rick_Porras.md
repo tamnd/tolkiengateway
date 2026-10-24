@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Rick_Porras"
 content_sha256: 15d956af5d16dbe1fd8259d147dc11a015d019fb331dd80ff1438f43ac4324db
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Film producer on The Lord of the Rings"
+short_description: "Nhà sản xuất phim trên The Lord of the Rings"
 categories:
   - "Producers"
   - "American people"

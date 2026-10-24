@@ -19,7 +19,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the journal</b>. For the food, see <b><a href="Lembas.md" title="Lembas">Lembas</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này viết về <b>tạp chí</b>. Về món ăn, xem <b><a href="Lembas.md" title="Lembas">Lembas</a></b>.</div></div>
 
 <i><b>Lembas</b></i> là tên tạp chí của [tiếng Hà Lan Tolkien Society Unquendor](../D/Dutch_Tolkien_Society.md) (Tolkien Genootschap Unquendor). *Lembas* được phát hành bốn đến năm lần một năm. *[Beyond Bree](../B/Beyond_Bree.md)* thường có phần tóm tắt nội dung bằng tiếng Anh.
 

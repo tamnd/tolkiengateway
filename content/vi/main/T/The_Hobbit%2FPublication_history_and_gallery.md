@@ -121,14 +121,14 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1961.png.md" title="1961 paperback"><img alt="1961 paperback" src="https://tolkiengateway.net/w/images/thumb/d/dd/The_Hobbit_1961.png/75px-The_Hobbit_1961.png" decoding="async" loading="lazy" width="75" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/dd/The_Hobbit_1961.png/113px-The_Hobbit_1961.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/dd/The_Hobbit_1961.png/150px-The_Hobbit_1961.png 2x" data-file-width="300" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Sách bìa mềm năm 1961
+<p>1961 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1966_Third_Edition.png.md" title="1966 hardcover third edition"><img alt="1966 hardcover third edition" src="https://tolkiengateway.net/w/images/thumb/c/c7/The_Hobbit_1966_Third_Edition.png/83px-The_Hobbit_1966_Third_Edition.png" decoding="async" loading="lazy" width="83" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/The_Hobbit_1966_Third_Edition.png/125px-The_Hobbit_1966_Third_Edition.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/The_Hobbit_1966_Third_Edition.png/166px-The_Hobbit_1966_Third_Edition.png 2x" data-file-width="332" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Ấn bản thứ ba bìa cứng năm 1966
+<p>Ấn bản thứ ba 1966 hardcover
 </p>
 			</div>
 		</li>
@@ -142,21 +142,21 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1966-ub.png.md" title="1966 paperback"><img alt="1966 paperback" src="https://tolkiengateway.net/w/images/thumb/4/45/The_Hobbit_1966-ub.png/81px-The_Hobbit_1966-ub.png" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/45/The_Hobbit_1966-ub.png/121px-The_Hobbit_1966-ub.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/45/The_Hobbit_1966-ub.png/161px-The_Hobbit_1966-ub.png 2x" data-file-width="323" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Sách bìa mềm năm 1966
+<p>1966 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1972-rsf.png.md" title="1972 paperback"><img alt="1972 paperback" src="https://tolkiengateway.net/w/images/thumb/c/cb/The_Hobbit_1972-rsf.png/82px-The_Hobbit_1972-rsf.png" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cb/The_Hobbit_1972-rsf.png/123px-The_Hobbit_1972-rsf.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/cb/The_Hobbit_1972-rsf.png/163px-The_Hobbit_1972-rsf.png 2x" data-file-width="327" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa mềm năm 1972
+<p>1972 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1975-pb.png.md" title="1975 paperback"><img alt="1975 paperback" src="https://tolkiengateway.net/w/images/thumb/3/3b/The_Hobbit_1975-pb.png/80px-The_Hobbit_1975-pb.png" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/The_Hobbit_1975-pb.png/121px-The_Hobbit_1975-pb.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/The_Hobbit_1975-pb.png/160px-The_Hobbit_1975-pb.png 2x" data-file-width="321" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Sách bìa mềm năm 1975
+<p>1975 paperback
 </p>
 			</div>
 		</li>
@@ -184,7 +184,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1979-pb.png.md" title="1979 paperback"><img alt="1979 paperback" src="https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_1979-pb.png/76px-The_Hobbit_1979-pb.png" decoding="async" loading="lazy" width="76" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_1979-pb.png/114px-The_Hobbit_1979-pb.png 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_1979-pb.png/152px-The_Hobbit_1979-pb.png 2x" data-file-width="305" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Bìa mềm năm 1979
+<p>1979 paperback
 </p>
 			</div>
 		</li>
@@ -209,7 +209,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1981-1.png.md" title="1981 paperback"><img alt="1981 paperback" src="https://tolkiengateway.net/w/images/thumb/2/27/The_Hobbit_1981-1.png/77px-The_Hobbit_1981-1.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/The_Hobbit_1981-1.png/116px-The_Hobbit_1981-1.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/The_Hobbit_1981-1.png/154px-The_Hobbit_1981-1.png 2x" data-file-width="308" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Sách bìa mềm năm 1981
+<p>1981 paperback
 </p>
 			</div>
 		</li>
@@ -237,21 +237,21 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1984-hague.png.md" title="1984 hardcover illust. by M. H."><img alt="1984 hardcover illust. by M. H." src="https://tolkiengateway.net/w/images/thumb/5/5b/The_Hobbit_1984-hague.png/99px-The_Hobbit_1984-hague.png" decoding="async" loading="lazy" width="99" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5b/The_Hobbit_1984-hague.png/149px-The_Hobbit_1984-hague.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/5b/The_Hobbit_1984-hague.png/198px-The_Hobbit_1984-hague.png 2x" data-file-width="397" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa cứng năm 1984. bởi M. H.
+<p>1984 hardcover illust. by M. H.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1987-hague.png.md" title="1987 paperback illust. by M. H."><img alt="1987 paperback illust. by M. H." src="https://tolkiengateway.net/w/images/thumb/7/76/The_Hobbit_1987-hague.png/98px-The_Hobbit_1987-hague.png" decoding="async" loading="lazy" width="98" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/76/The_Hobbit_1987-hague.png/148px-The_Hobbit_1987-hague.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/76/The_Hobbit_1987-hague.png/197px-The_Hobbit_1987-hague.png 2x" data-file-width="394" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa mềm năm 1987. bởi M. H.
+<p>1987 paperback illust. by M. H.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1987-hb.png.md" title="1987 hardcover"><img alt="1987 hardcover" src="https://tolkiengateway.net/w/images/thumb/3/32/The_Hobbit_1987-hb.png/80px-The_Hobbit_1987-hb.png" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/32/The_Hobbit_1987-hb.png/120px-The_Hobbit_1987-hb.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/32/The_Hobbit_1987-hb.png/159px-The_Hobbit_1987-hb.png 2x" data-file-width="319" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1987
+<p>1987 hardcover
 </p>
 			</div>
 		</li>
@@ -310,7 +310,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1992-hague.png.md" title="1992 hardcover illust. by M. H."><img alt="1992 hardcover illust. by M. H." src="https://tolkiengateway.net/w/images/thumb/0/0e/The_Hobbit_1992-hague.png/97px-The_Hobbit_1992-hague.png" decoding="async" loading="lazy" width="97" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0e/The_Hobbit_1992-hague.png/146px-The_Hobbit_1992-hague.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0e/The_Hobbit_1992-hague.png/194px-The_Hobbit_1992-hague.png 2x" data-file-width="388" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa cứng năm 1992. bởi M. H.
+<p>1992 hardcover illust. by M. H.
 </p>
 			</div>
 		</li>
@@ -324,7 +324,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1993-cascades.png.md" title="1993 hardcover"><img alt="1993 hardcover" src="https://tolkiengateway.net/w/images/thumb/7/78/The_Hobbit_1993-cascades.png/81px-The_Hobbit_1993-cascades.png" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/78/The_Hobbit_1993-cascades.png/122px-The_Hobbit_1993-cascades.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/78/The_Hobbit_1993-cascades.png/162px-The_Hobbit_1993-cascades.png 2x" data-file-width="325" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1993
+<p>1993 hardcover
 </p>
 			</div>
 		</li>
@@ -345,7 +345,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1995-1.png.md" title="1995 hardcover"><img alt="1995 hardcover" src="https://tolkiengateway.net/w/images/thumb/e/ec/The_Hobbit_1995-1.png/78px-The_Hobbit_1995-1.png" decoding="async" loading="lazy" width="78" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ec/The_Hobbit_1995-1.png/117px-The_Hobbit_1995-1.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/ec/The_Hobbit_1995-1.png/156px-The_Hobbit_1995-1.png 2x" data-file-width="312" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1995
+<p>1995 hardcover
 </p>
 			</div>
 		</li>
@@ -359,14 +359,14 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1996.png.md" title="1996 paperback"><img alt="1996 paperback" src="https://tolkiengateway.net/w/images/thumb/7/71/The_Hobbit_1996.png/82px-The_Hobbit_1996.png" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/71/The_Hobbit_1996.png/123px-The_Hobbit_1996.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/71/The_Hobbit_1996.png/163px-The_Hobbit_1996.png 2x" data-file-width="327" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm năm 1996
+<p>1996 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1997-1.png.md" title="1997 hardcover illust. by A. L."><img alt="1997 hardcover illust. by A. L." src="https://tolkiengateway.net/w/images/thumb/3/3f/The_Hobbit_1997-1.png/95px-The_Hobbit_1997-1.png" decoding="async" loading="lazy" width="95" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3f/The_Hobbit_1997-1.png/142px-The_Hobbit_1997-1.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3f/The_Hobbit_1997-1.png/189px-The_Hobbit_1997-1.png 2x" data-file-width="379" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa cứng năm 1997. bởi A. L.
+<p>1997 hardcover illust. by A. L.
 </p>
 			</div>
 		</li>
@@ -451,7 +451,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1999-1.png.md" title="1999 paperback"><img alt="1999 paperback" src="https://tolkiengateway.net/w/images/thumb/4/4e/The_Hobbit_1999-1.png/77px-The_Hobbit_1999-1.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/The_Hobbit_1999-1.png/116px-The_Hobbit_1999-1.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/The_Hobbit_1999-1.png/155px-The_Hobbit_1999-1.png 2x" data-file-width="310" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm năm 1999
+<p>1999 paperback
 </p>
 			</div>
 		</li>
@@ -479,14 +479,14 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_2000-pb.png.md" title="2000 paperback illust. by A. L."><img alt="2000 paperback illust. by A. L." src="https://tolkiengateway.net/w/images/thumb/4/44/The_Hobbit_2000-pb.png/95px-The_Hobbit_2000-pb.png" decoding="async" loading="lazy" width="95" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/The_Hobbit_2000-pb.png/142px-The_Hobbit_2000-pb.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/The_Hobbit_2000-pb.png/189px-The_Hobbit_2000-pb.png 2x" data-file-width="379" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa mềm năm 2000. bởi A. L.
+<p>2000 paperback illust. by A. L.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_2001-hb.jpeg.md" title="2001 hardcover"><img alt="2001 hardcover" src="https://tolkiengateway.net/w/images/thumb/e/e2/The_Hobbit_2001-hb.jpeg/86px-The_Hobbit_2001-hb.jpeg" decoding="async" loading="lazy" width="86" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e2/The_Hobbit_2001-hb.jpeg/130px-The_Hobbit_2001-hb.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e2/The_Hobbit_2001-hb.jpeg/172px-The_Hobbit_2001-hb.jpeg 2x" data-file-width="345" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 2001
+<p>2001 hardcover
 </p>
 			</div>
 		</li>
@@ -528,14 +528,14 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_2007.png.md" title="2007 hardcover"><img alt="2007 hardcover" src="https://tolkiengateway.net/w/images/thumb/1/1b/The_Hobbit_2007.png/82px-The_Hobbit_2007.png" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1b/The_Hobbit_2007.png/123px-The_Hobbit_2007.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/1b/The_Hobbit_2007.png/164px-The_Hobbit_2007.png 2x" data-file-width="328" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2007
+<p>2007 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_2008.jpeg.md" title="2008 paperback illust. by A. L."><img alt="2008 paperback illust. by A. L." src="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_2008.jpeg/82px-The_Hobbit_2008.jpeg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_2008.jpeg/124px-The_Hobbit_2008.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_2008.jpeg/164px-The_Hobbit_2008.jpeg 2x" data-file-width="500" data-file-height="760"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa mềm năm 2008. bởi A. L.
+<p>2008 paperback illust. by A. L.
 </p>
 			</div>
 		</li>
@@ -619,7 +619,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_2013-catlin.jpeg.md" title="2013 hardcover illust. by J. C."><img alt="2013 hardcover illust. by J. C." src="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_2013-catlin.jpeg/95px-The_Hobbit_2013-catlin.jpeg" decoding="async" loading="lazy" width="95" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_2013-catlin.jpeg/143px-The_Hobbit_2013-catlin.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/73/The_Hobbit_2013-catlin.jpeg/190px-The_Hobbit_2013-catlin.jpeg 2x" data-file-width="500" data-file-height="657"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa cứng 2013. bởi J. C.
+<p>2013 hardcover illust. by J. C.
 </p>
 			</div>
 		</li>
@@ -688,21 +688,21 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_2017-catlin.jpeg.md" title="2017 paperback illust. by J. C."><img alt="2017 paperback illust. by J. C." src="https://tolkiengateway.net/w/images/thumb/f/f9/The_Hobbit_2017-catlin.jpeg/97px-The_Hobbit_2017-catlin.jpeg" decoding="async" loading="lazy" width="97" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f9/The_Hobbit_2017-catlin.jpeg/146px-The_Hobbit_2017-catlin.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f9/The_Hobbit_2017-catlin.jpeg/194px-The_Hobbit_2017-catlin.jpeg 2x" data-file-width="1506" data-file-height="1939"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa mềm 2017. bởi J. C.
+<p>2017 paperback illust. by J. C.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_2020-hb.jpeg.md" title="2020 hardcover illust. by A. L."><img alt="2020 hardcover illust. by A. L." src="https://tolkiengateway.net/w/images/thumb/5/5e/The_Hobbit_2020-hb.jpeg/80px-The_Hobbit_2020-hb.jpeg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5e/The_Hobbit_2020-hb.jpeg/121px-The_Hobbit_2020-hb.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5e/The_Hobbit_2020-hb.jpeg/161px-The_Hobbit_2020-hb.jpeg 2x" data-file-width="1500" data-file-height="2331"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa cứng 2020. bởi A. L.
+<p>2020 hardcover illust. by A. L.
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_2020-pb.jpeg.md" title="2020 paperback"><img alt="2020 paperback" src="https://tolkiengateway.net/w/images/thumb/b/b5/The_Hobbit_2020-pb.jpeg/82px-The_Hobbit_2020-pb.jpeg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b5/The_Hobbit_2020-pb.jpeg/123px-The_Hobbit_2020-pb.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b5/The_Hobbit_2020-pb.jpeg/164px-The_Hobbit_2020-pb.jpeg 2x" data-file-width="500" data-file-height="763"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm năm 2020
+<p>2020 paperback
 </p>
 			</div>
 		</li>
@@ -744,7 +744,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_2026-jansson.jpg.md" title="2026 hardcover illust. by Tove Jansson"><img alt="2026 hardcover illust. by Tove Jansson" src="https://tolkiengateway.net/w/images/thumb/5/5f/The_Hobbit_2026-jansson.jpg/98px-The_Hobbit_2026-jansson.jpg" decoding="async" loading="lazy" width="98" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/The_Hobbit_2026-jansson.jpg/148px-The_Hobbit_2026-jansson.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5f/The_Hobbit_2026-jansson.jpg/196px-The_Hobbit_2026-jansson.jpg 2x" data-file-width="1167" data-file-height="1486"/></a></span></div>
 			<div class="gallerytext">
-<p>Minh họa bìa cứng năm 2026. của Tove Jansson
+<p>2026 hardcover illust. by Tove Jansson
 </p>
 			</div>
 		</li>
@@ -769,49 +769,49 @@ Trong [1989](../_/1989.md) *The Hobbit* đã được chuyển thể thành bộ
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1989-1.jpeg.md" title="1989 paperback comic vol.1"><img alt="1989 paperback comic vol.1" src="https://tolkiengateway.net/w/images/thumb/d/d3/The_Hobbit_graphic-1989-1.jpeg/82px-The_Hobbit_graphic-1989-1.jpeg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d3/The_Hobbit_graphic-1989-1.jpeg/123px-The_Hobbit_graphic-1989-1.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d3/The_Hobbit_graphic-1989-1.jpeg/164px-The_Hobbit_graphic-1989-1.jpeg 2x" data-file-width="425" data-file-height="647"/></a></span></div>
 			<div class="gallerytext">
-<p>Truyện tranh bìa mềm năm 1989 tập 1
+<p>1989 paperback comic vol.1
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1989-2.jpeg.md" title="1989 paperback comic vol.2"><img alt="1989 paperback comic vol.2" src="https://tolkiengateway.net/w/images/thumb/f/f2/The_Hobbit_graphic-1989-2.jpeg/81px-The_Hobbit_graphic-1989-2.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/The_Hobbit_graphic-1989-2.jpeg/122px-The_Hobbit_graphic-1989-2.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/The_Hobbit_graphic-1989-2.jpeg/162px-The_Hobbit_graphic-1989-2.jpeg 2x" data-file-width="421" data-file-height="647"/></a></span></div>
 			<div class="gallerytext">
-<p>Truyện tranh bìa mềm tập 2 năm 1989
+<p>1989 paperback comic vol.2
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1989-3.jpeg.md" title="1989 paperback comic vol.3"><img alt="1989 paperback comic vol.3" src="https://tolkiengateway.net/w/images/thumb/6/64/The_Hobbit_graphic-1989-3.jpeg/81px-The_Hobbit_graphic-1989-3.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/The_Hobbit_graphic-1989-3.jpeg/123px-The_Hobbit_graphic-1989-3.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/The_Hobbit_graphic-1989-3.jpeg/163px-The_Hobbit_graphic-1989-3.jpeg 2x" data-file-width="422" data-file-height="646"/></a></span></div>
 			<div class="gallerytext">
-<p>Truyện tranh bìa mềm tập 3 năm 1989
+<p>1989 paperback comic vol.3
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1990.jpeg.md" title="1990 paperback one-volume"><img alt="1990 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/0/01/The_Hobbit_graphic-1990.jpeg/80px-The_Hobbit_graphic-1990.jpeg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/The_Hobbit_graphic-1990.jpeg/121px-The_Hobbit_graphic-1990.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/The_Hobbit_graphic-1990.jpeg/160px-The_Hobbit_graphic-1990.jpeg 2x" data-file-width="305" data-file-height="475"/></a></span></div>
 			<div class="gallerytext">
-<p>Một tập bìa mềm năm 1990
+<p>1990 paperback one-volume
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-2006.jpeg.md" title="2006 paperback one-volume"><img alt="2006 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_graphic-2006.jpeg/92px-The_Hobbit_graphic-2006.jpeg" decoding="async" loading="lazy" width="92" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_graphic-2006.jpeg/138px-The_Hobbit_graphic-2006.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_graphic-2006.jpeg/184px-The_Hobbit_graphic-2006.jpeg 2x" data-file-width="500" data-file-height="679"/></a></span></div>
 			<div class="gallerytext">
-<p>Một tập bìa mềm năm 2006
+<p>2006 paperback one-volume
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-2012.jpeg.md" title="2012 paperback one-volume"><img alt="2012 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/f/f0/The_Hobbit_graphic-2012.jpeg/82px-The_Hobbit_graphic-2012.jpeg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f0/The_Hobbit_graphic-2012.jpeg/123px-The_Hobbit_graphic-2012.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f0/The_Hobbit_graphic-2012.jpeg/164px-The_Hobbit_graphic-2012.jpeg 2x" data-file-width="600" data-file-height="916"/></a></span></div>
 			<div class="gallerytext">
-<p>Một tập bìa mềm năm 2012
+<p>2012 paperback one-volume
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-2024.jpg.md" title="2024 paperback one-volume"><img alt="2024 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/7/7f/The_Hobbit_graphic-2024.jpg/81px-The_Hobbit_graphic-2024.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7f/The_Hobbit_graphic-2024.jpg/122px-The_Hobbit_graphic-2024.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7f/The_Hobbit_graphic-2024.jpg/162px-The_Hobbit_graphic-2024.jpg 2x" data-file-width="975" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>Một tập bìa mềm năm 2024
+<p>2024 paperback one-volume
 </p>
 			</div>
 		</li>

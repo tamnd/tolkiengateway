@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Party_Tree"
 content_sha256: d2158397795478401abab6f9977077495a32e60405d1df0ccce54cf772338990
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Great tree in the Party Field of Hobbiton"
+short_description: "Cây đại thụ ở Party Field của Hobbiton"
 categories:
   - "The Shire"
   - "Trees"
@@ -36,7 +36,7 @@ infobox:
 
 ​
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/304px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg" decoding="async" loading="lazy" width="304" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/456px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/608px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg 2x" data-file-width="899" data-file-height="1418"/></a><figcaption>&#34;A Long Expected Party&#34; by <a href="../I/Inger_Edelfeldt.md" title="Inger Edelfeldt">Inger Edelfeldt</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Party Tree</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../P/Party_Field.md" title="Party Field">Party Field</a> (<a href="The_Shire.md" title="The Shire">The Shire</a>)</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/304px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg" decoding="async" loading="lazy" width="304" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/456px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/81/Inger_Edelfeldt_-_A_Long_Expected_Party.jpg/608px-Inger_Edelfeldt_-_A_Long_Expected_Party.jpg 2x" data-file-width="899" data-file-height="1418"/></a><figcaption>&#34;A Long Expected Party&#34; by <a href="../I/Inger_Edelfeldt.md" title="Inger Edelfeldt">Inger Edelfeldt</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Thực vật</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Party Tree</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data"><a href="../P/Party_Field.md" title="Party Field">Party Field</a> (<a href="The_Shire.md" title="The Shire">The Shire</a>)</td></tr></tbody></table>
 
 **Cây tiệc tùng** là một cái cây ở trung tâm [Party Field](../P/Party_Field.md) phía nam của [Bag End](../B/Bag_End.md).
 

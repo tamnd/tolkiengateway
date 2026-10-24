@@ -57,7 +57,7 @@ sort_keys:
 <th align="center" style="background:var(--tg-color-surface-5)" colspan="2">La Feuille de la Compagnie
 </th></tr>
 <tr>
-<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Issues
+<th align="left" style="background:var(--tg-color-surface-3); padding-right: 4px;">Số phát hành
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="../L/La_Feuille_de_la_Compagnie_1.md" title="La Feuille de la Compagnie 1">1</a> · <a href="../L/La_Feuille_de_la_Compagnie_2.md" title="La Feuille de la Compagnie 2">2</a> · <a href="../L/La_Feuille_de_la_Compagnie_3.md" title="La Feuille de la Compagnie 3">3</a>
 </td></tr>

@@ -20,7 +20,7 @@ infobox:
     value: "2003"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Comic-Con 2003</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">San Diego Convention Center</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">2003</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Comic-Con 2003</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Trung tâm Hội nghị San Diego</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">2003</td></tr></tbody></table>
 
 **Comic-Con 2003** là hội nghị [Comic-Con](../C/Comic-Con.md) thường niên được tổ chức tại San Diego vào [2003](../_/2003.md). Vì cùng năm [The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md) được phát hành nên có rất nhiều hoạt động liên quan đến Tolkien.
 

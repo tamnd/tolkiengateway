@@ -54,7 +54,7 @@ infobox:
 		<li class="gallerybox" style="width: 82px">
 			<div class="thumb" style="width: 80px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_Challenge_Decks_ad_(Inquest_36_1998).jpg.md" title="Magazine ad"><img alt="Magazine ad" src="https://tolkiengateway.net/w/images/thumb/5/54/MECCG_Challenge_Decks_ad_%28Inquest_36_1998%29.jpg/120px-MECCG_Challenge_Decks_ad_%28Inquest_36_1998%29.jpg" decoding="async" loading="lazy" width="80" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/54/MECCG_Challenge_Decks_ad_%28Inquest_36_1998%29.jpg/180px-MECCG_Challenge_Decks_ad_%28Inquest_36_1998%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/54/MECCG_Challenge_Decks_ad_%28Inquest_36_1998%29.jpg/240px-MECCG_Challenge_Decks_ad_%28Inquest_36_1998%29.jpg 2x" data-file-width="905" data-file-height="1359"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 60px"><div class="gallerytext">
-<p>Quảng cáo tạp chí
+<p>Magazine ad
 </p>
 			</div></div>
 		</li>

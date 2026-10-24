@@ -125,7 +125,7 @@ Phần thứ hai là ấn bản của The Notion Club Papers. Những giấy t�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Sauron_Defeated_1992.png.md" title="1992 hardcover"><img alt="1992 hardcover" src="https://tolkiengateway.net/w/images/thumb/b/bb/Sauron_Defeated_1992.png/77px-Sauron_Defeated_1992.png" decoding="async" loading="lazy" width="77" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bb/Sauron_Defeated_1992.png/116px-Sauron_Defeated_1992.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/bb/Sauron_Defeated_1992.png/155px-Sauron_Defeated_1992.png 2x" data-file-width="310" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1992
+<p>1992 hardcover
 </p>
 			</div>
 		</li>

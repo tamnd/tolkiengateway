@@ -31,7 +31,7 @@ Entwade là sự hiện đại hóa của [tiếng Anh cổ](../O/Old_English.md
 
 <b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Despite the Entwash being the shallowest in this spot, the Entwade crossing is only made possible by the wooded raft-bridges that connect both banks to a small island in the middle. The crossing itself is guarded by the town also called Entwade on the western bank, and only those granted leave are allowed to cross.</dd></dl>
+<dl><dd>Mặc dù Entwash là nơi nông nhất ở điểm này, việc vượt qua Entwade chỉ có thể thực hiện được nhờ những cây cầu bè bằng gỗ nối cả hai bờ với một hòn đảo nhỏ ở giữa. Bản thân lối đi này được bảo vệ bởi thị trấn còn gọi là Entwade ở bờ tây và chỉ những người được phép đi qua mới được phép đi qua.</dd></dl>
 
 ## Ghi chú {#Notes}
 

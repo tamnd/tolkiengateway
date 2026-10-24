@@ -135,7 +135,7 @@ Trong một nhóm thảo luận trên Facebook, [Renée Vink](../R/Renée_Vink.m
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/B/Beowulf_A_Translation_hardcover.png.md" title="2014 hardcover"><img alt="2014 hardcover" src="https://tolkiengateway.net/w/images/thumb/2/21/Beowulf_A_Translation_hardcover.png/80px-Beowulf_A_Translation_hardcover.png" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/21/Beowulf_A_Translation_hardcover.png/120px-Beowulf_A_Translation_hardcover.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/21/Beowulf_A_Translation_hardcover.png/160px-Beowulf_A_Translation_hardcover.png 2x" data-file-width="1500" data-file-height="2342"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2014
+<p>2014 hardcover
 </p>
 			</div>
 		</li>
@@ -149,7 +149,7 @@ Trong một nhóm thảo luận trên Facebook, [Renée Vink](../R/Renée_Vink.m
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/B/Beowulf_A_Translation_paperback.jpg.md" title="2016 paperback"><img alt="2016 paperback" src="https://tolkiengateway.net/w/images/thumb/6/62/Beowulf_A_Translation_paperback.jpg/82px-Beowulf_A_Translation_paperback.jpg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/62/Beowulf_A_Translation_paperback.jpg/123px-Beowulf_A_Translation_paperback.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/62/Beowulf_A_Translation_paperback.jpg/163px-Beowulf_A_Translation_paperback.jpg 2x" data-file-width="500" data-file-height="765"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm 2016
+<p>2016 paperback
 </p>
 			</div>
 		</li>
@@ -163,7 +163,7 @@ Trong một nhóm thảo luận trên Facebook, [Renée Vink](../R/Renée_Vink.m
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/B/Beowulf_A_Translation_2026.jpeg.md" title="2026 paperback"><img alt="2026 paperback" src="https://tolkiengateway.net/w/images/thumb/4/45/Beowulf_A_Translation_2026.jpeg/81px-Beowulf_A_Translation_2026.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/45/Beowulf_A_Translation_2026.jpeg/122px-Beowulf_A_Translation_2026.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/4/45/Beowulf_A_Translation_2026.jpeg/163px-Beowulf_A_Translation_2026.jpeg 2x" data-file-width="668" data-file-height="1026"/></a></span></div>
 			<div class="gallerytext">
-<p>2026 bìa mềm
+<p>2026 paperback
 </p>
 			</div>
 		</li>

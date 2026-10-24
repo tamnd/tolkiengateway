@@ -37,7 +37,7 @@ Khi [Teleri](../F/Falmari.md) đến [Aman](../A/Aman.md) và cư trú tại [Al
 <blockquote class="tg-quote noexcerpt">
 <p>Chúng tôi đã học được nghề đó không phải từ Noldor mà từ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lords_of_the_Sea&amp;action=edit&amp;redlink=1" title="Lords of the Sea (page does not exist)">Các lãnh chúa của Biển</a>; và những tấm gỗ trắng do chính tay chúng tôi rèn, những cánh buồm trắng do vợ và con gái của chúng tôi dệt… đối với chúng tôi, những thứ này giống như những viên ngọc quý của Noldor: công việc của trái tim chúng tôi, những thứ giống như vậy mà chúng tôi sẽ không làm lại nữa.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, "<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Về chuyến bay của Noldor</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Of the Flight of the Noldor</a>&#34;</cite></p>
 </blockquote>
 
 Fëanor sau đó dẫn đầu Noldor trong một [cuộc tấn công](../K/Kinslaying_at_Alqualondë.md) vào Teleri, dùng vũ lực chiếm giữ các tàu. Fëanor sau đó đã đốt cháy các con tàu ở [Losgar](../L/Losgar.md), phá hủy những con tàu đẹp nhất từng ra khơi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
@@ -70,7 +70,7 @@ Một chi tiết bị bỏ sót trong phần mô tả chiếc thuyền thiên ng
 <p>Hai chiếc Tiên tộc, mặc đồ trắng, lái nó bằng những mái chèo màu đen được thiết kế đến mức các lưỡi chèo gập lại, giống như chân thiên nga, khi chúng bị đẩy về phía trước trong nước.
 </p>
 <p class="tg-quote-footer"><cite>
-<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i>, "XIV. Vĩnh biệt Lórien", tr. 279<sup id="cite_ref-TI_3-1" class="reference"><a href="#cite_note-TI-3">[3]</a></sup></cite></p>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i>, &#34;XIV. Farewell to Lórien&#34;, p. 279<sup id="cite_ref-TI_3-1" class="reference"><a href="#cite_note-TI-3">[3]</a></sup></cite></p>
 </blockquote>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}

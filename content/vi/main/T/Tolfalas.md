@@ -30,7 +30,7 @@ Những con tàu muốn khởi hành Anduin từ Vịnh Belfalas đã đi qua To
 
 ## Từ nguyên {#Etymology}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Steven_White_Jr._-_Belfalas.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/Steven_White_Jr._-_Belfalas.png/300px-Steven_White_Jr._-_Belfalas.png" decoding="async" loading="lazy" width="300" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/Steven_White_Jr._-_Belfalas.png/450px-Steven_White_Jr._-_Belfalas.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/Steven_White_Jr._-_Belfalas.png/600px-Steven_White_Jr._-_Belfalas.png 2x" data-file-width="1500" data-file-height="1000"/></a><figcaption>Bay of Belfalas</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Steven_White_Jr._-_Belfalas.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/38/Steven_White_Jr._-_Belfalas.png/300px-Steven_White_Jr._-_Belfalas.png" decoding="async" loading="lazy" width="300" height="200" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/Steven_White_Jr._-_Belfalas.png/450px-Steven_White_Jr._-_Belfalas.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/Steven_White_Jr._-_Belfalas.png/600px-Steven_White_Jr._-_Belfalas.png 2x" data-file-width="1500" data-file-height="1000"/></a><figcaption>Vịnh Belfalas</figcaption></figure>
 
 *Tol Falas* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "Đảo Bờ", là sự kết hợp rõ ràng giữa *[tol](Tol.md)* ("đảo") và *[falas](../F/Falas.md)* ("bờ biển").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -42,17 +42,17 @@ Cách viết *Tolfalas* được sử dụng trong phiên bản bản đánh má
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>In early Third Age, Tolfalas was settled by fisher-folk from the Ethir. After the Kin-strife, the island was raided by the Corsairs, and became almost deserted until the Fourth Age.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
+<dl><dd>Vào đầu Kỷ Đệ Tam, Tolfalas được cư dân đánh cá từ Ethir đến định cư. Sau cuộc xung đột Kin, hòn đảo bị Corsairs đột kích và gần như bị bỏ hoang cho đến Kỷ Đệ Tứ.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>Players face an attack by Undead at the site of Tolfalas.</dd></dl>
+<dl><dd>Người chơi phải đối mặt với cuộc tấn công của Undead tại địa điểm Tolfalas.</dd></dl>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Tolfalas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_Online_-_Tolfalas.jpg/250px-The_Lord_of_the_Rings_Online_-_Tolfalas.jpg" decoding="async" loading="lazy" width="250" height="127" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_Online_-_Tolfalas.jpg/375px-The_Lord_of_the_Rings_Online_-_Tolfalas.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/The_Lord_of_the_Rings_Online_-_Tolfalas.jpg/500px-The_Lord_of_the_Rings_Online_-_Tolfalas.jpg 2x" data-file-width="1810" data-file-height="920"/></a><figcaption>Tolfalas in <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
 <b>2015: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Tolfalas is visible from the Gondorian coastline but is completely inaccessible.</dd></dl>
+<dl><dd>Tolfalas có thể nhìn thấy được từ bờ biển Gondor nhưng hoàn toàn không thể tiếp cận được.</dd></dl>
 
 <span></span>
 

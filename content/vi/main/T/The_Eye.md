@@ -172,7 +172,7 @@ Southlands chìm trong tro và lửa, giờ đây là nơi ở của loài Orc, 
 </td></tr>
 <tr>
 <td><a href="../S/Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
-<td><a href="../D/Disa.md" title="Disa">Princess Disa</a>
+<td><a href="../D/Disa.md" title="Disa">Công chúa Disa</a>
 </td></tr>
 <tr>
 <td><a href="../L/Lloyd_Owen.md" title="Lloyd Owen">Lloyd Owen</a></td>

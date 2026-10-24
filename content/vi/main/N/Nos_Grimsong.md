@@ -38,6 +38,6 @@ infobox:
 </li>
 <li id="cite_note-sharpen_your_skills-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-sharpen_your_skills_2-0">2.0</a></sup> <sup><a href="#cite_ref-sharpen_your_skills_2-1">2.1</a></sup></span> <span class="reference-text"><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a>, Introduction, <i>Intro: Sharpen your Skills</i></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a>, Introduction, <i>Intro: Restoring the Balance</i></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a>, Introduction, <i>Intro:  Restoring the Balance</i></span>
 </li>
 </ol></div>

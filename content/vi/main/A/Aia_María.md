@@ -31,12 +31,12 @@ images:
 <tbody><tr>
 <td>
 <dl><dd><i>Aia María quanta Eruanno,</i></dd>
-<dd><i>tôi Héru aselye;</i></dd>
+<dd><i>i Héru aselye;</i></dd>
 <dd><i>aistana elye imíca nísi</i></dd>
-<dd><i>ar aistana và yáve mónalyo Yesus.</i></dd>
+<dd><i>ar aistana i yáve mónalyo Yésus.</i></dd>
 <dd><i>Aire María Eruo ontaril</i></dd>
-<dd><i>á hyame ramen úcarindor</i></dd>
-<dd><i>tôi đang làm điều đó.</i></dd>
+<dd><i>á hyame rámen úcarindor</i></dd>
+<dd><i>sí ar lúmesse ya firuvamme.</i></dd>
 <dd><i>Násië.</i></dd></dl>
 </td>
 <td>

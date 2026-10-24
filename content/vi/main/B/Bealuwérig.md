@@ -42,8 +42,8 @@ infobox:
 ### tiếng Anh cổ {#Old_English}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Þa wæs swelswoloð. Các câu trả lời</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">gurron ⁊ gimbledon trên græswǽfan;</span><br/>
+<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Þa wæs swelswoloð. Slíðe tófas</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">gurron ⁊ gimbledon on græswǽfan;</span><br/>
 <span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">mímsæde murnon morgengrófas,</span><br/>
 <span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">⁊ hræðmóman hlúde grǽfon.<sup id="cite_ref-collectedpoems_2-1" class="reference"><a href="#cite_note-collectedpoems-2">[2]</a></sup></span>
 </p>

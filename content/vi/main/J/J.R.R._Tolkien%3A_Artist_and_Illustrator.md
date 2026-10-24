@@ -76,7 +76,7 @@ Raymond Lister, khi đánh giá cuốn sách cho tạp chí văn học *VII*, vi
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Artist_and_Illustrator_1995.jpg.md" title="1995 hardcover"><img alt="1995 hardcover" src="https://tolkiengateway.net/w/images/thumb/c/c7/Artist_and_Illustrator_1995.jpg/93px-Artist_and_Illustrator_1995.jpg" decoding="async" loading="lazy" width="93" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c7/Artist_and_Illustrator_1995.jpg/139px-Artist_and_Illustrator_1995.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c7/Artist_and_Illustrator_1995.jpg/185px-Artist_and_Illustrator_1995.jpg 2x" data-file-width="371" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1995
+<p>1995 hardcover
 </p>
 			</div>
 		</li>
@@ -90,7 +90,7 @@ Raymond Lister, khi đánh giá cuốn sách cho tạp chí văn học *VII*, vi
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/A/Artist_and_Illustrator_2004.png.md" title="2004 hardcover"><img alt="2004 hardcover" src="https://tolkiengateway.net/w/images/thumb/e/e1/Artist_and_Illustrator_2004.png/98px-Artist_and_Illustrator_2004.png" decoding="async" loading="lazy" width="98" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Artist_and_Illustrator_2004.png/148px-Artist_and_Illustrator_2004.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Artist_and_Illustrator_2004.png/197px-Artist_and_Illustrator_2004.png 2x" data-file-width="500" data-file-height="634"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2004
+<p>2004 hardcover
 </p>
 			</div>
 		</li>

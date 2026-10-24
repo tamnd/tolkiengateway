@@ -8,7 +8,7 @@ source_url: "https://tolkiengateway.net/wiki/Wraiths"
 content_sha256: 146f4b70d9fbff683425baa0288e11fd845e512dda9ebb249c3909a2e5f10b38
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Undead beings"
+short_description: "Sinh vật bất tử"
 categories:
   - "Servants of Sauron"
   - "Undead"
@@ -50,19 +50,19 @@ Trong một bản dự thảo khác, người ta nói rằng [Những Chiếc Nh
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>The wraith <b>Gaurithoth</b>, an undead Númenórean lieutenant, serves the Witch-king and haunts a burial mound near the Blue Mountains.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
+<dl><dd>Bóng ma <b>Gaurithoth</b>, một trung úy Númenórean xác sống, phục vụ cho Vua Phù thủy và ám ảnh một ngôi mộ gần Dãy Núi Xanh.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 
 <b>2001: <i><a href="../M/Middle-earth_Strategy_Battle_Game.md" title="Middle-earth Strategy Battle Game">Trung Địa Trò chơi chiến đấu chiến lược</a></i>:</b>
 
-<dl><dd>The <b><a href="../C/Castellans_of_Dol_Guldur.md" title="Castellans of Dol Guldur">Castellans of Dol Guldur</a></b> are wraiths in the service of <a href="../S/Sauron.md" title="Sauron">Sauron</a>. Nameless and with no will of their own, the Castellans are but one facet of that cursed tower’s sleepless malice. Formless, save for the armour that binds them, they stalk the paths about <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, slaying those they find. Each fell to Sauron’s service in a different way; some sought to learn from him as an apprentice does from a master, and others are the eternal remnants of one who has died in agony in Sauron’s dungeons. However they came into the Dark Lord’s service, they are all now bound to his curse and serve him absolutely.</dd></dl>
+<dl><dd><b><a href="../C/Castellans_of_Dol_Guldur.md" title="Castellans of Dol Guldur">Castellans của Dol Guldur</a></b> là những hồn ma phục vụ <a href="../S/Sauron.md" title="Sauron">Sauron</a>. Kẻ Vô Danh và không có ý chí riêng, người Castellan chỉ là một phần trong ác tâm không ngủ của tòa tháp bị nguyền rủa đó. Vô hình, ngoại trừ bộ giáp trói họ, họ rình rập những con đường xung quanh <a href="../D/Dol_Guldur.md" title="Dol Guldur">Dol Guldur</a>, giết chết những ai họ tìm thấy. Mỗi người đều phục vụ Sauron theo một cách khác nhau; một số tìm cách học hỏi từ ông như một người học việc học từ một bậc thầy, và những người khác là tàn tích vĩnh cửu của một người đã chết trong đau đớn trong ngục tối của Sauron. Dù họ đã phục vụ Chúa tể Bóng tối thế nào đi nữa, giờ đây tất cả họ đều bị ràng buộc bởi lời nguyền của hắn và tuyệt đối phục vụ hắn.</dd></dl>
 
 <b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
-<dl><dd>Wraiths are the most common of the three type of <a href="../G/Ghosts.md" title="Ghosts">ghosts</a> (the other being <a href="../P/Phantoms.md" title="Phantoms">phantoms</a> and <a href="Wights.md" title="Wights">wights</a>). The wraith is without a physical, tangible form, and consists only of the soul of a person wishing to fulfil an evil goal after his or her death.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
+<dl><dd>Ma là loại phổ biến nhất trong ba loại <a href="../G/Ghosts.md" title="Ghosts">ma</a> (loại còn lại là <a href="../P/Phantoms.md" title="Phantoms">bóng ma</a> và <a href="Wights.md" title="Wights">ma</a>). Bóng ma không có hình dạng vật chất, hữu hình và chỉ bao gồm linh hồn của một người mong muốn thực hiện mục tiêu xấu xa sau khi chết.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Wraiths refers to the category of Unseen beings that includes the <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> and victims of <a href="../M/Morgul-knife.md" title="Morgul-knife">Morgul blades</a>. The cursed, lingering spirits of Men such as the <a href="../O/Oathbreakers.md" title="Oathbreakers">Dead Men of Dunharrow</a> are called Shades and categorized as The Dead. Wraiths appeared as leaders of the Enemy and elite forces in many areas. The most commonly encountered wraiths were the red-robed Cargûl. One of the game&#39;s main antagonists, <a class="mw-redirect" href="../M/Mordirith.md" title="Mordirith">Mordirith</a>, was a wraith who is the Steward of <a href="../A/Angmar.md" title="Angmar">Angmar</a>.</dd></dl>
+<dl><dd>Wraith đề cập đến loại sinh vật Vô hình bao gồm <a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a> và nạn nhân của <a href="../M/Morgul-knife.md" title="Morgul-knife">những lưỡi dao Morgul</a>. Những linh hồn còn sót lại, bị nguyền rủa của Con Người chẳng hạn như <a href="../O/Oathbreakers.md" title="Oathbreakers">Người chết Con Người của Dunharrow</a> được gọi là Bóng tối và được phân loại là Người chết. Wraith xuất hiện với tư cách là thủ lĩnh của Kẻ Thù và lực lượng tinh nhuệ ở nhiều khu vực. Những hồn ma thường gặp nhất là Cargûl mặc áo choàng đỏ. Một trong những nhân vật phản diện chính của trò chơi, <a class="mw-redirect" href="../M/Mordirith.md" title="Mordirith">Mordirith</a>, là một hồn ma và là Quản gia của <a href="../A/Angmar.md" title="Angmar">Angmar</a>.</dd></dl>
 
 <span></span>
 

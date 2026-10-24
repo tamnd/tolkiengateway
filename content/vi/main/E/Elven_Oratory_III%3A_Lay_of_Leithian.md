@@ -20,7 +20,7 @@ infobox:
     value: "English"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Elven Oratory III: Lay of Leithian</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">by Lind Erebros</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Aug 1, 2015</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Electronic, Classical, Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">47 min 21 sec</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Elven Oratory III: Lay of Leithian</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">by Lind Erebros</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data">Aug 1, 2015</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Electronic, Classical, Folk</td></tr><tr><th scope="row" class="tg-infobox-label">Chiều dài</th><td class="tg-infobox-data">47 min 21 sec</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr></tbody></table>
 
 <i><b>Tiên Oratory III: Lay of Leithian</b></i> là album thứ ba trong ba album [Silmarillion](../S/Silmarillion.md) lấy cảm hứng từ [Lind Erebros](../L/Lind_Erebros.md).
 

@@ -15,7 +15,7 @@ images:
   - "J.R.R._Tolkien_-_Word-extraction.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Word-extraction.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/250px-J.R.R._Tolkien_-_Word-extraction.jpg" decoding="async" loading="lazy" width="250" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/375px-J.R.R._Tolkien_-_Word-extraction.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/500px-J.R.R._Tolkien_-_Word-extraction.jpg 2x" data-file-width="758" data-file-height="960"/></a><figcaption>Tolkien&#39;s manuscript</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Word-extraction.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/250px-J.R.R._Tolkien_-_Word-extraction.jpg" decoding="async" loading="lazy" width="250" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/375px-J.R.R._Tolkien_-_Word-extraction.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/39/J.R.R._Tolkien_-_Word-extraction.jpg/500px-J.R.R._Tolkien_-_Word-extraction.jpg 2x" data-file-width="758" data-file-height="960"/></a><figcaption>bản thảo của Tolkien</figcaption></figure>
 
 **Trích từ** là trò chơi chữ được sáng tạo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và được mô tả dưới dạng bản thảo viết tay c. [1968](../_/1968.md).
 
@@ -27,13 +27,13 @@ Là một nhà ngữ văn giỏi, Tolkien thích trò chơi chữ và ông đã 
 
 <blockquote class="tg-quote noexcerpt">
 <center><b>Word-extraction</b></center><p><br/>
-</p><p>1. A &#39;base-word&#39; is chosen; competitors then extract from it lists of as many shorter words as they can find. Each separate word scores 1 point.<br/>
-</p><p>2. The extracted words must be recognized modern English generally understood or used by literate people.<br/>
-</p><p>3. They must be made only of letters found in the &#39;base-word&#39; and may not use any letter more often than it occurs there.<br/>
-</p><p>4. The whole &#39;base-word&#39; is not counted, but any unchanged part of it that is an English word can be counted: e.g. from <b>extraction</b> one may take <b>tract</b>, <b>traction</b>, <b>extract</b> and score 1 point for each.<br/>
-</p><p>5. A <b>anagram</b> of the &#39;base-word&#39;, however, scores 1 point and in addition is given and extra mark, or marks, according to its length. See note.<br/>
-</p><p>6. Only <b>spelling</b> is concerned. Thus (a) two or more words of identical spelling score 1 point, even if they differ in meaning, and as sometimes happens also in pronunciation; but (b) if a word has more than one recognized spelling, each spelling scores 1 point. For example: <b>ash</b> (tree) and <b>ash</b> (residue of burning) together score only 1 point; similarly <b>éntrance</b> n. and <b>entránce</b> v. But <b>grey</b> and <b>gray</b> score 1 point each.<br/>
-</p><p>7. A dictionary may <b>not</b> be used in compiling lists in competition; but a dictionary may be used in marking the lists, if any competitor disputs the spelling of a word, or its right to be recognized as &#39;modern English&#39;.
+</p><p>1. Một 'từ cơ sở' được chọn; các đối thủ cạnh tranh sau đó trích xuất từ ​​đó danh sách càng nhiều từ ngắn hơn mà họ có thể tìm thấy. Mỗi từ riêng biệt được 1 điểm.<br/>
+</p><p>2. Các từ được trích phải là tiếng Anh hiện đại được người biết chữ hiểu hoặc sử dụng phổ biến.<br/>
+</p><p>3. Chúng chỉ được làm từ các chữ cái có trong 'từ cơ sở' và không được sử dụng bất kỳ chữ cái nào thường xuyên hơn số chữ cái xuất hiện ở đó.<br/>
+</p><p>4. Toàn bộ 'từ cơ sở' không được tính, nhưng bất kỳ phần không thay đổi nào của nó là từ tiếng Anh đều có thể được tính: ví dụ:. từ <b>trích xuất</b> người ta có thể thực hiện <b>rút</b>, <b>rút</b>, <b>trích xuất</b> và ghi 1 điểm cho mỗi lần.<br/>
+</p><p>5. Tuy nhiên, một <b>đảo chữ</b> của 'từ cơ sở' sẽ ghi được 1 điểm và ngoài ra còn được cho thêm điểm hoặc điểm phụ, tùy theo độ dài của nó. Xem ghi chú.<br/>
+</p><p>6. Chỉ liên quan đến <b>chính tả</b>. Do đó (a) hai hoặc nhiều từ có cách viết giống nhau sẽ ghi được 1 điểm, ngay cả khi chúng khác nhau về nghĩa và đôi khi cũng xảy ra trong cách phát âm; nhưng (b) nếu một từ có nhiều cách viết được nhận dạng thì mỗi cách viết sẽ được 1 điểm. Ví dụ: <b>tro</b> (cây) và <b>tro</b> (cặn đốt) cùng nhau chỉ được 1 điểm; tương tự <b>éntrance</b> n. và <b>lối vào</b> v. Nhưng <b>grey</b> và <b>gray</b> mỗi người ghi được 1 điểm.<br/>
+</p><p>7. Từ điển <b>không</b> được sử dụng để biên soạn danh sách thi đấu; nhưng từ điển có thể được sử dụng để đánh dấu danh sách, nếu bất kỳ thí sinh nào phản đối cách viết của một từ hoặc quyền được công nhận là 'tiếng Anh hiện đại'.
 </p>
 </blockquote>
 

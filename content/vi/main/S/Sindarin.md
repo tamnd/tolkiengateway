@@ -116,13 +116,13 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 </td></tr>
 <tr>
 <td>á</td>
-<td><span title="Pronunciation in IPA" class="IPA">Một</span></td>
+<td><span title="Pronunciation in IPA" class="IPA">aː</span></td>
 <td> </td>
 <td>Âm <i>á</i> trong Sindarin chỉ dài hơn âm <i>a</i> một chút, nhưng ngoài điểm đó ra, cách phát âm không thay đổi.
 </td></tr>
 <tr>
 <td>â</td>
-<td><span title="Pronunciation in IPA" class="IPA">Một</span></td>
+<td><span title="Pronunciation in IPA" class="IPA">aːː</span></td>
 <td> </td>
 <td>Sindarin <i>â</i> is pronounced for an even longer duration than Sindarin <i>á</i>, usually in single-syllable words. But it is permissible to pronounce it the same as <i>á</i>.
 </td></tr>
@@ -139,9 +139,9 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <td>Sindarin <i>ai</i> is most like <i>i</i> in English <i>time</i>.  <i>ae</i> is similar to <i>ai</i>, but <i>ai</i> ends at a <i>less</i> open vowel height. J.R.R. Tolkien said that <i>ae</i> and <i>ai</i> can be pronounced the same if a person cannot tell the difference between them.
 </td></tr>
 <tr>
-<td>ôi, ôi</td>
+<td>au, aw</td>
 <td><span title="Pronunciation in IPA" class="IPA">a͡ʊ</span></td>
-<td><a href="../G/Glaurung.md" title="Glaurung">Gl<b>au</b>rung</a>; <a href="../O/Oromë.md#Etymology" title="Oromë">Ar<b>ôi</b></a></td>
+<td><a href="../G/Glaurung.md" title="Glaurung">Gl<b>au</b>rung</a>; <a href="../O/Oromë.md#Etymology" title="Oromë">Ar<b>aw</b></a></td>
 <td>Âm <i>au</i> trong Sindarin gần giống nhất với âm <i>ou</i> trong từ <i>thousand</i> của tiếng Anh hoặc âm <i>ow</i> trong từ <i>cow</i> của tiếng Anh. Âm này không bao giờ được phát âm giống <i>au</i> trong từ <i>cause</i> hoặc <i>aw</i> trong từ <i>law</i> của tiếng Anh. Hai cách viết <i>au</i> và <i>aw</i> biểu thị cùng một âm, nhưng <i>aw</i> thường được dùng ở cuối từ, như trong <i><a href="../O/Oromë.md#Etymology" title="Oromë">Araw</a></i>.
 </td></tr>
 <tr>
@@ -159,7 +159,7 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <tr>
 <td>ch</td>
 <td><span title="Pronunciation in IPA" class="IPA">x</span></td>
-<td><a class="mw-redirect" href="../O/Orch.md" title="Orch">hoặc<b>ch</b></a></td>
+<td><a class="mw-redirect" href="../O/Orch.md" title="Orch">or<b>ch</b></a></td>
 <td>Luôn phát âm như <i>ch</i> trong từ <i>loch</i> của tiếng Scotland. Không bao giờ phát âm như <i>ch</i> trong từ <i>chair</i> của tiếng Anh.
 </td></tr>
 <tr>
@@ -184,7 +184,7 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <td>é</td>
 <td><span title="Pronunciation in IPA" class="IPA">eː</span></td>
 <td> </td>
-<td>Sindarin <i>é</i> được phát âm dài hơn Sindarin <i>e</i> đôi chút, nhưng ngoài ra, cách phát âm vẫn giống hệt.
+<td>Sindarin <i>é</i> được phát âm dài hơn Sindarin <i>e</i> đei chút, nhưng ngoài ra, cách phát âm vẫn giống hệt.
 </td></tr>
 <tr>
 <td>ê</td>
@@ -230,13 +230,13 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 </td></tr>
 <tr>
 <td>í</td>
-<td><span title="Pronunciation in IPA" class="IPA">Tôi</span></td>
+<td><span title="Pronunciation in IPA" class="IPA">iː</span></td>
 <td><a href="../C/Círdan.md" title="Círdan">C<b>í</b>rdan</a></td>
 <td>Sindarin <i>í</i> is pronounced noticeably longer in duration than Sindarin <i>i</i>, and has a different quality. Sindarin <i>í</i> is most like <i>i</i> in English <i>ink</i> or like <i>i</i> in Spanish <i>gringo</i>.  Either pronunciation is suitable.
 </td></tr>
 <tr>
 <td>î</td>
-<td><span title="Pronunciation in IPA" class="IPA">Tôi</span></td>
+<td><span title="Pronunciation in IPA" class="IPA">iːː</span></td>
 <td><a class="mw-redirect" href="../G/Gwîr.md" title="Gwîr">Gw<b>î</b>r</a></td>
 <td>Î trong tiếng Sindarin được phát âm với trường độ dài hơn cả <i>í</i>, thường xuất hiện trong các từ đơn âm tiết. Tuy nhiên, cũng có thể phát âm <i>î</i> giống như <i>í</i>.
 </td></tr>
@@ -261,7 +261,7 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <tr>
 <td>m</td>
 <td><span title="Pronunciation in IPA" class="IPA">m</span></td>
-<td><a href="../M/Mordor.md" title="Mordor"><b>M</b>đơn đặt hàng</a></td>
+<td><a href="../M/Mordor.md" title="Mordor"><b>M</b>ordor</a></td>
 <td> 
 </td></tr>
 <tr>
@@ -273,13 +273,13 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <tr>
 <td>mm</td>
 <td><span title="Pronunciation in IPA" class="IPA">mː</span></td>
-<td><a href="../R/Rammas_Echor.md" title="Rammas Echor">Ra<b>mm</b>như</a></td>
+<td><a href="../R/Rammas_Echor.md" title="Rammas Echor">Ra<b>mm</b>as</a></td>
 <td>Sindarin <i>mm</i> được phát âm dài hơn nữa so với Sindarin <i>m</i>, nhưng ngoài ra, cách phát âm vẫn giống hệt.
 </td></tr>
 <tr>
 <td>n</td>
 <td><span title="Pronunciation in IPA" class="IPA">n</span></td>
-<td><a href="../N/Nevrast.md" title="Nevrast"><b>N</b>tuyệt vời</a></td>
+<td><a href="../N/Nevrast.md" title="Nevrast"><b>N</b>evrast</a></td>
 <td> 
 </td></tr>
 <tr>
@@ -296,8 +296,8 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 </td></tr>
 <tr>
 <td>nn</td>
-<td><span title="Pronunciation in IPA" class="IPA">N</span></td>
-<td><a class="mw-redirect" href="../P/Pelennor.md" title="Pelennor">Pele<b>n</b>hoặc</a></td>
+<td><span title="Pronunciation in IPA" class="IPA">nː</span></td>
+<td><a class="mw-redirect" href="../P/Pelennor.md" title="Pelennor">Pele<b>nn</b>or</a></td>
 <td>Âm Sindarin <i>nn</i> được phát âm với thời lượng còn dài hơn âm Sindarin <i>n</i>, nhưng ngoài sự khác biệt đó, cách phát âm vẫn giống nhau.
 </td></tr>
 <tr>
@@ -309,7 +309,7 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <tr>
 <td>ó</td>
 <td><span title="Pronunciation in IPA" class="IPA">ɔː</span></td>
-<td><a href="../D/Dor-lómin.md" title="Dor-lómin">Dor-l<b>ó</b>phút</a></td>
+<td><a href="../D/Dor-lómin.md" title="Dor-lómin">Dor-l<b>ó</b>min</a></td>
 <td>Âm Sindarin <i>ó</i> được phát âm dài hơn âm Sindarin <i>o</i> một chút, đủ để nhận ra, nhưng ngoài sự khác biệt đó, cách phát âm vẫn giống nhau.
 </td></tr>
 <tr>
@@ -319,7 +319,7 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <td>Ô trong tiếng Sindarin được phát âm với trường độ dài hơn cả <i>ó</i>, thường xuất hiện trong các từ đơn âm tiết. Tuy nhiên, cũng có thể phát âm <i>ô</i> giống như <i>ó</i>.
 </td></tr>
 <tr>
-<td>ôi</td>
+<td>oe</td>
 <td><span title="Pronunciation in IPA" class="IPA">o͡e</span></td>
 <td> </td>
 <td>Trong tiếng Sindarin, <i>oe</i> có cách phát âm tương đối giống <i>oi</i> trong từ <i>join</i> của tiếng Anh. Cách so sánh này không hoàn toàn chính xác, vì <i>oe</i> kết thúc bằng một âm lướt tương tự <i>e</i> trong tiếng Sindarin. Tuy nhiên, đây vẫn là cách phát âm phù hợp, bởi tiếng Sindarin không có âm <i>oi</i> để phân biệt với <i>oe</i>. Ngoài ra, <i>oe</i> cũng giống <i>oe</i> trong cụm từ <i>Aloha ʻOe</i> của tiếng Hawaii.
@@ -351,8 +351,8 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <tr>
 <td>ồ</td>
 <td><span title="Pronunciation in IPA" class="IPA">r̥</span></td>
-<td><a href="../R/Rhovanion.md" title="Rhovanion"><b>Rh</b>vanion</a></td>
-<td>Tiếng Anh không có âm nào tương đương với <i>rh</i> trong tiếng Sindarin. Tuy nhiên, âm này gần giống <i>rh</i> trong tiếng Wales hoặc <a href="../Q/Quenya.md" title="Quenya">Quenya</a> <i>hr</i>. Nếu không có cách nào khác hiệu quả, hãy thử phát âm <i>r</i> bằng cách thì thầm.
+<td><a href="../R/Rhovanion.md" title="Rhovanion"><b>Rh</b>ovanion</a></td>
+<td>Tiếng Anh không có âm nào tương đương với <i>rh</i> trong tiếng sːindarin. Tuy nhiên, âm này gần giống <i>rh</i> trong tiếng Wales hoặc <a href="../Q/Quenya.md" title="Quenya">Quenya</a> <i>hr</i>. Nếu không có cách nào khác hiệu quả, hãy thử phát âm <i>r</i> bằng cách thì thầm.
 </td></tr>
 <tr>
 <td>rr</td>
@@ -387,18 +387,18 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <tr>
 <td>u</td>
 <td><span title="Pronunciation in IPA" class="IPA">ʊ</span></td>
-<td><a href="../C/Curufin.md" title="Curufin">C<b>u</b>r<b>u</b>vây</a></td>
+<td><a href="../C/Curufin.md" title="Curufin">C<b>u</b>r<b>u</b>fin</a></td>
 <td>Sindarin <i>u</i> giống nhất là <i>u</i> trong tiếng Anh <i>put</i> hoặc nguyên âm trong từ <i>good</i>. Nó không bao giờ được phát âm như <i>u</i> trong tiếng Anh <i>gut</i> hoặc như <i>u</i> trong tiếng Anh <i>rude</i>.
 </td></tr>
 <tr>
 <td>ú</td>
-<td><span title="Pronunciation in IPA" class="IPA">bạn</span></td>
+<td><span title="Pronunciation in IPA" class="IPA">uː</span></td>
 <td><a href="../L/Lúthien.md" title="Lúthien">L<b>ú</b>thien</a></td>
 <td>Âm <i>ú</i> trong Sindarin được phát âm dài hơn đôi chút so với âm <i>u</i>, đồng thời có sắc thái âm khác. Âm này được phát âm giống <i>u</i> trong từ tiếng Anh <i>dude</i> hoặc <i>u</i> trong từ tiếng Tây Ban Nha <i>mundo</i>.
 </td></tr>
 <tr>
 <td>û</td>
-<td><span title="Pronunciation in IPA" class="IPA">bạnːː</span></td>
+<td><span title="Pronunciation in IPA" class="IPA">uːː</span></td>
 <td><a href="../B/Barad-dûr.md" title="Barad-dûr">Barad-d<b>û</b>r</a></td>
 <td>Âm <i>û</i> trong tiếng Sindarin được phát âm kéo dài hơn âm <i>ú</i>, thường xuất hiện trong các từ đơn âm tiết. Tuy nhiên, cũng có thể phát âm âm này giống như <i>ú</i>.
 </td></tr>
@@ -457,7 +457,7 @@ Số nhiều trong tiếng Sindarin được đặc trưng bởi \*[i-affection]
 </td></tr>
 <tr>
 <td>e &gt; e</td>
-<td>bereth &gt; bereth
+<td>bereth &gt; berith
 </td></tr>
 <tr>
 <td>i &gt; i</td>
@@ -488,7 +488,7 @@ Số nhiều trong tiếng Sindarin được đặc trưng bởi \*[i-affection]
 </td></tr>
 <tr>
 <td>a &gt; ai, e</td>
-<td>adan &gt; edain, parf &gt; hoàn hảo<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
+<td>adan &gt; edain, parf &gt; perf<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 1]</a></sup>
 </td></tr>
 <tr>
 <td>â &gt; ai</td>
@@ -508,7 +508,7 @@ Số nhiều trong tiếng Sindarin được đặc trưng bởi \*[i-affection]
 </td></tr>
 <tr>
 <td>î &gt; î</td>
-<td>chào &gt; chào
+<td>hîr &gt; hîr
 </td></tr>
 <tr>
 <td>o &gt; y</td>
@@ -516,7 +516,7 @@ Số nhiều trong tiếng Sindarin được đặc trưng bởi \*[i-affection]
 </td></tr>
 <tr>
 <td>ô &gt; ui</td>
-<td>thông tin &gt; thuin
+<td>thôn &gt; thuin
 </td></tr>
 <tr>
 <td>u &gt; y</td>
@@ -524,7 +524,7 @@ Số nhiều trong tiếng Sindarin được đặc trưng bởi \*[i-affection]
 </td></tr>
 <tr>
 <td>û &gt; ui</td>
-<td>bạn &gt;
+<td>dûr &gt; duir
 </td></tr>
 <tr>
 <td>y &gt; y</td>
@@ -535,7 +535,7 @@ Số nhiều trong tiếng Sindarin được đặc trưng bởi \*[i-affection]
 <td>mŷl &gt; mŷl
 </td></tr>
 <tr>
-<td>ôi, o &gt; ôi</td>
+<td>au, o &gt; oe</td>
 <td>aur &gt; oer, nibinnog &gt; nibinnoeg<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 2]</a></sup>
 </td></tr></tbody></table>
 
@@ -545,11 +545,11 @@ Nguyên nhân là hậu tố số nhiều nguyên thủy \*-ī\* (vẫn hiện d
 
 <table rules="all" style="border:1px solid darkgray; border-collapse:collapse" cellpadding="4" cellspacing="0">
 <tbody><tr>
-<td colspan="2" align="center" bgcolor="lightgrey"><b>Trong từ -jā</b>
+<td colspan="2" align="center" bgcolor="lightgrey"><b>In -jā Words</b>
 </td></tr>
 <tr>
 <td>ai &gt; î</td>
-<td>cair &gt; cîr (từ k<b>i</b>rjā)
+<td>cair &gt; cîr (from k<b>i</b>rjā)
 </td></tr>
 <tr>
 <td>ai &gt; î</td>
@@ -557,11 +557,11 @@ Nguyên nhân là hậu tố số nhiều nguyên thủy \*-ī\* (vẫn hiện d
 </td></tr>
 <tr>
 <td>ai &gt; ai</td>
-<td>bain &gt; bain (từ b<b>a</b>njā)
+<td>bain &gt; bain (from b<b>a</b>njā)
 </td></tr>
 <tr>
 <td>ui &gt; ui</td>
-<td>fuir &gt; fuir (từ ph<b>o</b>rjā)
+<td>fuir &gt; fuir (from ph<b>o</b>rjā)
 </td></tr>
 <tr>
 <td>ui &gt; ui</td>
@@ -586,7 +586,7 @@ Bảng sau đây trình bày cách các loại biến đổi khác nhau tác đ�
 </td>
 <td bgcolor="lightgrey"><b>Soft</b>
 </td>
-<td bgcolor="lightgrey"><b>Nasal</b>
+<td bgcolor="lightgrey"><b>Âm mũi</b>
 </td>
 <td bgcolor="lightgrey"><b>Mixed</b>
 </td>
@@ -661,11 +661,11 @@ Bảng sau đây trình bày cách các loại biến đổi khác nhau tác đ�
 </td></tr>
 <tr>
 <td>d(x)...</td>
-<td>đ(x)...</td>
+<td>dh(x)...</td>
 <td>d(x)...</td>
 <td>d(x)...</td>
 <td>d(x)...</td>
-<td>đ(x)...</td>
+<td>dh(x)...</td>
 <td>d(x)...
 </td></tr>
 <tr>
@@ -711,7 +711,7 @@ Bảng sau đây trình bày cách các loại biến đổi khác nhau tác đ�
 <td>r...</td>
 <td>r...</td>
 <td>r...</td>
-<td>ờ...
+<td>rh...
 </td></tr>
 <tr>
 <td>l...</td>
@@ -720,7 +720,7 @@ Bảng sau đây trình bày cách các loại biến đổi khác nhau tác đ�
 <td>l...</td>
 <td>l...</td>
 <td>l...</td>
-<td>ờ...
+<td>lh...
 </td></tr>
 <tr>
 <td>i...</td>
@@ -732,31 +732,31 @@ Bảng sau đây trình bày cách các loại biến đổi khác nhau tác đ�
 <td>ch...
 </td></tr>
 <tr>
-<td>ờ...</td>
-<td>th...</td>
-<td>th...</td>
+<td>rh...</td>
+<td>thr...</td>
+<td>thr...</td>
 <td>&#39;r...</td>
-<td>th...</td>
+<td>thr...</td>
 <td>&#39;r...</td>
-<td>ờ...
+<td>rh...
 </td></tr>
 <tr>
-<td>ờ...</td>
+<td>lh...</td>
 <td>thl...</td>
 <td>thl...</td>
 <td>&#39;l...</td>
 <td>thl...</td>
 <td>&#39;l...</td>
-<td>ờ...
+<td>lh...
 </td></tr>
 <tr>
-<td>ồ...</td>
-<td>chậc...</td>
-<td>chậc...</td>
+<td>hw...</td>
+<td>chw...</td>
+<td>chw...</td>
 <td>&#39;w...</td>
-<td>ồ...</td>
+<td>thw...</td>
 <td>&#39;w...</td>
-<td>ồ...
+<td>hw...
 </td></tr></tbody></table>
 
 Ở đây dấu nháy đơn biểu thị sự bỏ phiếu.
@@ -769,7 +769,7 @@ Các từ bắt đầu bằng \*b-\*, \*d-\* hoặc \*g-\*, có nguồn gốc t�
 </td>
 <td bgcolor="lightgrey"><b>Soft</b>
 </td>
-<td bgcolor="lightgrey"><b>Nasal</b>
+<td bgcolor="lightgrey"><b>Âm mũi</b>
 </td>
 <td bgcolor="lightgrey"><b>Mixed</b>
 </td>
@@ -791,9 +791,9 @@ Các từ bắt đầu bằng \*b-\*, \*d-\* hoặc \*g-\*, có nguồn gốc t�
 <tr>
 <td>d...</td>
 <td>n...</td>
-<td>và...</td>
-<td>và...</td>
-<td>và...</td>
+<td>nd...</td>
+<td>nd...</td>
+<td>nd...</td>
 <td>d...</td>
 <td>d...
 </td></tr>
@@ -878,17 +878,17 @@ Lấy ví dụ, mạo từ chỉ xuất \*i\*, gây ra biến đổi mềm. Khi 
 <td bgcolor="lightgrey">
 </td>
 <td>gin* / len*</td>
-<td>thì*
+<td>dhen*
 </td>
 <td bgcolor="lightgrey">
 </td>
-<td><i><b>từ chối</b></i></td>
+<td><i><b>den</b></i></td>
 <td>din*
 </td></tr>
 <tr>
 <td bgcolor="lightgrey"><b>Possessive</b>
 </td>
-<td><i><b>không</b></i></td>
+<td><i><b>nîn</b></i></td>
 <td><i><b>vîn</b></i> / bîn*
 </td>
 <td bgcolor="lightgrey">
@@ -898,8 +898,8 @@ Lấy ví dụ, mạo từ chỉ xuất \*i\*, gây ra biến đổi mềm. Khi 
 </td>
 <td bgcolor="lightgrey">
 </td>
-<td><i><b>ngày</b></i></td>
-<td>ngày*
+<td><i><b>dîn</b></i></td>
+<td>dîn*
 </td></tr>
 <tr>
 <td bgcolor="lightgrey"><b>Dative</b>
@@ -910,7 +910,7 @@ Lấy ví dụ, mạo từ chỉ xuất \*i\*, gây ra biến đổi mềm. Khi 
 <td bgcolor="lightgrey">
 </td>
 <td>echin* / allen*</td>
-<td>ann*
+<td>annen*
 </td>
 <td bgcolor="lightgrey">
 </td>
@@ -1032,7 +1032,7 @@ Tolkien ban đầu hình dung rằng ngôn ngữ sau này trở thành *Sindarin
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Thuộc về Con Người</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Mannish miền Bắc</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Ngôn ngữ Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="../T/Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
+<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Northern Mannish</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Language of Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="../T/Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Dwarvish

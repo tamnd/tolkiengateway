@@ -54,7 +54,7 @@ Trang trại của dì Jane Neave của - Tolkien, được người dân địa
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Nó [Bag End] là tên địa phương của trang trại [Jane Neave] của dì tôi ở Worcestershire, nằm ở cuối con đường dẫn đến đó và không xa hơn ...
 </p>
-<p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings">Nomenclature</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings">Danh mục thuật ngữ</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Baggins {#Baggins}
@@ -62,7 +62,7 @@ Trang trại của dì Jane Neave của - Tolkien, được người dân địa
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Dự định thu hồi túi - cf. Cuộc trò chuyện của Bilbo với Smaug trong The H. [Chương 12] — và có nghĩa là được liên kết (bởi hobbit) với Bag End ...
 </p>
-<p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings">Nomenclature</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md" title="Guide to the Names in The Lord of the Rings">Danh mục thuật ngữ</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <h2><span id="Bandobras_.27the_Bullroarer.27_Took"></span><span class="mw-headline" id="Bandobras_&#39;the_Bullroarer&#39;_Took">Bandobras &#39;the Bullroarer&#39; Took</span></h2>
@@ -281,7 +281,7 @@ Xem thêm [#Gladden Fields](#Gladden_Fields)
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Trên thực tế, tôi là một Hobbit (về mọi mặt trừ kích thước). Tôi thích những khu vườn, cây cối và những vùng đất nông nghiệp không có máy móc; Tôi hút một điếu thuốc...
 </p>
-<p class="tg-quote-footer"><cite><a href="../L/Letter_213.md" title="Letter 213">Letter 213</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../L/Letter_213.md" title="Letter 213">Thư 213</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">

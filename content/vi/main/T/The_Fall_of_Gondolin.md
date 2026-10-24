@@ -112,7 +112,7 @@ Cuối cùng cũng đến cái kết khủng khiếp. Morgoth biết được th
 </td></tr>
 <tr>
 <td>◦ The Story Told in the <i><a href="The_Earliest_&#39;Silmarillion&#39;.md" title="The Earliest &#39;Silmarillion&#39;">Sketch of the Mythology</a></i></td>
-<td>[<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">Shaping</a></i>, <a href="The_Earliest_&#39;Silmarillion&#39;.md" title="The Earliest &#39;Silmarillion&#39;">ch. 2</a>, §§15-16]
+<td>[<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">Shaping</a></i>, <a href="The_Earliest_&#39;Silmarillion&#39;.md" title="The Earliest &#39;Silmarillion&#39;">ch. 2</a>,  §§15-16]
 </td></tr>
 <tr>
 <td>◦ The Story Told in the <i><a href="The_Quenta.md#Quenta_Noldorinwa" title="The Quenta">Quenta Noldorinwa</a></i></td>
@@ -120,14 +120,14 @@ Cuối cùng cũng đến cái kết khủng khiếp. Morgoth biết được th
 </td></tr>
 <tr>
 <td>◦ <a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">The Last Version</a></td>
-<td>[<i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">UT</a></i>, điểm. 1, <a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">ch. 1</a>]
+<td>[<i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">UT</a></i>, pt. 1, <a href="../O/Of_Tuor_and_his_Coming_to_Gondolin.md" title="Of Tuor and his Coming to Gondolin">ch. 1</a>]
 </td></tr>
 <tr>
 <td>◦ The Evolution of the Story
 </td></tr>
 <tr>
 <td>◦ Conclusion</td>
-<td>[<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">Shaping</a></i>, <a href="The_Earliest_&#39;Silmarillion&#39;.md" title="The Earliest &#39;Silmarillion&#39;">ch. 2</a>, §§17-19]</td>
+<td>[<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">Shaping</a></i>, <a href="The_Earliest_&#39;Silmarillion&#39;.md" title="The Earliest &#39;Silmarillion&#39;">ch. 2</a>,  §§17-19]</td>
 <td>[<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">Shaping</a></i>, <a href="The_Quenta.md#Quenta_Noldorinwa" title="The Quenta">ch. 3</a>, §§17-19]
 </td></tr></tbody></table></dd></dl>
 
@@ -157,7 +157,7 @@ Khi biết tin, [Hội Tolkien](The_Tolkien_Society.md) khẳng định cuốn s
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/F/Fall_of_Gondolin_2018.jpeg.md" title="2018 hardcover"><img alt="2018 hardcover" src="https://tolkiengateway.net/w/images/thumb/a/a9/Fall_of_Gondolin_2018.jpeg/80px-Fall_of_Gondolin_2018.jpeg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a9/Fall_of_Gondolin_2018.jpeg/121px-Fall_of_Gondolin_2018.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a9/Fall_of_Gondolin_2018.jpeg/160px-Fall_of_Gondolin_2018.jpeg 2x" data-file-width="500" data-file-height="778"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2018
+<p>2018 hardcover
 </p>
 			</div>
 		</li>
@@ -178,7 +178,7 @@ Khi biết tin, [Hội Tolkien](The_Tolkien_Society.md) khẳng định cuốn s
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/F/Fall_of_Gondolin_2020.jpeg.md" title="2020 paperback"><img alt="2020 paperback" src="https://tolkiengateway.net/w/images/thumb/7/76/Fall_of_Gondolin_2020.jpeg/81px-Fall_of_Gondolin_2020.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/76/Fall_of_Gondolin_2020.jpeg/122px-Fall_of_Gondolin_2020.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/76/Fall_of_Gondolin_2020.jpeg/163px-Fall_of_Gondolin_2020.jpeg 2x" data-file-width="500" data-file-height="768"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm năm 2020
+<p>2020 paperback
 </p>
 			</div>
 		</li>
@@ -192,7 +192,7 @@ Khi biết tin, [Hội Tolkien](The_Tolkien_Society.md) khẳng định cuốn s
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/F/Fall_of_Gondolin_2023.jpg.md" title="2023 paperback"><img alt="2023 paperback" src="https://tolkiengateway.net/w/images/thumb/b/ba/Fall_of_Gondolin_2023.jpg/82px-Fall_of_Gondolin_2023.jpg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Fall_of_Gondolin_2023.jpg/123px-Fall_of_Gondolin_2023.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/ba/Fall_of_Gondolin_2023.jpg/164px-Fall_of_Gondolin_2023.jpg 2x" data-file-width="1500" data-file-height="2287"/></a></span></div>
 			<div class="gallerytext">
-<p>2023 bìa mềm
+<p>2023 paperback
 </p>
 			</div>
 		</li>

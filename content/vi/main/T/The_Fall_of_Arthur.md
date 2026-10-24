@@ -98,7 +98,7 @@ Trong [tiểu sử Tolkien](../J/J.R.R._Tolkien%253A_A_Biography.md) năm 1977 c
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Fall_of_Arthur_2013_hc.jpg.md" title="2013 hardcover"><img alt="2013 hardcover" src="https://tolkiengateway.net/w/images/thumb/4/43/The_Fall_of_Arthur_2013_hc.jpg/85px-The_Fall_of_Arthur_2013_hc.jpg" decoding="async" loading="lazy" width="85" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/43/The_Fall_of_Arthur_2013_hc.jpg/128px-The_Fall_of_Arthur_2013_hc.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/43/The_Fall_of_Arthur_2013_hc.jpg/170px-The_Fall_of_Arthur_2013_hc.jpg 2x" data-file-width="1023" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2013
+<p>2013 hardcover
 </p>
 			</div>
 		</li>
@@ -119,14 +119,14 @@ Trong [tiểu sử Tolkien](../J/J.R.R._Tolkien%253A_A_Biography.md) năm 1977 c
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Fall_of_Arthur_2015.png.md" title="2015 paperback"><img alt="2015 paperback" src="https://tolkiengateway.net/w/images/thumb/6/66/The_Fall_of_Arthur_2015.png/83px-The_Fall_of_Arthur_2015.png" decoding="async" loading="lazy" width="83" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/66/The_Fall_of_Arthur_2015.png/125px-The_Fall_of_Arthur_2015.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/66/The_Fall_of_Arthur_2015.png/166px-The_Fall_of_Arthur_2015.png 2x" data-file-width="300" data-file-height="450"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm 2015
+<p>2015 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Fall_of_Arthur_2021.jpeg.md" title="2021 paperback"><img alt="2021 paperback" src="https://tolkiengateway.net/w/images/thumb/c/c3/The_Fall_of_Arthur_2021.jpeg/81px-The_Fall_of_Arthur_2021.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c3/The_Fall_of_Arthur_2021.jpeg/122px-The_Fall_of_Arthur_2021.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c3/The_Fall_of_Arthur_2021.jpeg/163px-The_Fall_of_Arthur_2021.jpeg 2x" data-file-width="500" data-file-height="767"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm năm 2021
+<p>2021 paperback
 </p>
 			</div>
 		</li>
@@ -140,7 +140,7 @@ Trong [tiểu sử Tolkien](../J/J.R.R._Tolkien%253A_A_Biography.md) năm 1977 c
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Fall_of_Arthur_2026.jpeg.md" title="2026 paperback"><img alt="2026 paperback" src="https://tolkiengateway.net/w/images/thumb/7/72/The_Fall_of_Arthur_2026.jpeg/82px-The_Fall_of_Arthur_2026.jpeg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/72/The_Fall_of_Arthur_2026.jpeg/123px-The_Fall_of_Arthur_2026.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/72/The_Fall_of_Arthur_2026.jpeg/163px-The_Fall_of_Arthur_2026.jpeg 2x" data-file-width="688" data-file-height="1052"/></a></span></div>
 			<div class="gallerytext">
-<p>2026 bìa mềm
+<p>2026 paperback
 </p>
 			</div>
 		</li>

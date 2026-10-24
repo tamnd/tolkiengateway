@@ -18,7 +18,7 @@ images:
   - "Vilya.gif"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Quenya word and the tengwa</b>. For the Ring of Power, see <b><a href="Vilya.md" title="Vilya">Vilya</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>từ Quenya và tengwa</b>. Về Chiếc nhẫn quyền năng, xem <b><a href="Vilya.md" title="Vilya">Vilya</a></b>.</div></div>
 
 <i><b>vilya</b></i> hoặc <i><b>wilya</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "không khí, bầu trời".<sup id="cite_ref-Names_1-0" class="reference"><a href="#cite_note-Names-1">[1]</a></sup>
 

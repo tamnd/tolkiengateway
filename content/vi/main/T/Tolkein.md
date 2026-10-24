@@ -18,10 +18,10 @@ images:
   - "A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1a/A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg/200px-A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg" decoding="async" loading="lazy" width="200" height="310" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1a/A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg/300px-A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg 1.5x, https://tolkiengateway.net/w/images/1/1a/A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg 2x" data-file-width="306" data-file-height="475"/></a><figcaption><a href="../_/2003.md" title="2003">2003</a> reprint of <i><a href="Tolkien%253A_A_Look_Behind_The_Lord_of_the_Rings.md" title="Tolkien: A Look Behind The Lord of the Rings">Tolkien: A Look Behind The Lord of the Rings</a></i>.</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1a/A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg/200px-A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg" decoding="async" loading="lazy" width="200" height="310" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1a/A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg/300px-A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg 1.5x, https://tolkiengateway.net/w/images/1/1a/A_Look_Behind_The_Lord_of_the_Rings_-_2003_early_cover.jpg 2x" data-file-width="306" data-file-height="475"/></a><figcaption><a href="../_/2003.md" title="2003">2003</a> in lại <i><a href="Tolkien%253A_A_Look_Behind_The_Lord_of_the_Rings.md" title="Tolkien: A Look Behind The Lord of the Rings">Tolkien: A Look Behind The Lord of the Rings</a></i>.</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>My name is TOLKIEN (not -kein)
+<p>Tên tôi là TOLKIEN (không phải -kein)
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> in <a href="../L/Letter_165.md" title="Letter 165">Letter 165</a> (<a href="../_/30_June.md" title="30 June">June 30</a>, <a href="../_/1955.md" title="1955">1955</a>)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -71,7 +71,7 @@ Cái tên *Tolkien* thường gắn liền với người Do Thái. Điều này
 		<li class="gallerybox" style="width: 285px">
 			<div class="thumb" style="width: 280px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Saul_Zaentz_Tolkein_plaque,_Pembroke_College,_by_Daniel_Helen.jpg.md" title="The Pembroke College &#34;Tolkein&#34; plaque."><img alt="The Pembroke College &#34;Tolkein&#34; plaque." src="https://tolkiengateway.net/w/images/thumb/f/f2/Saul_Zaentz_Tolkein_plaque%2C_Pembroke_College%2C_by_Daniel_Helen.jpg/250px-Saul_Zaentz_Tolkein_plaque%2C_Pembroke_College%2C_by_Daniel_Helen.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Saul_Zaentz_Tolkein_plaque%2C_Pembroke_College%2C_by_Daniel_Helen.jpg/375px-Saul_Zaentz_Tolkein_plaque%2C_Pembroke_College%2C_by_Daniel_Helen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Saul_Zaentz_Tolkein_plaque%2C_Pembroke_College%2C_by_Daniel_Helen.jpg/500px-Saul_Zaentz_Tolkein_plaque%2C_Pembroke_College%2C_by_Daniel_Helen.jpg 2x" data-file-width="960" data-file-height="540"/></a></span></div>
 			<div class="gallerytext">
-<p>The Pembroke College &#34;Tolkein&#34; plaque.
+<p>Tấm bảng "Tolkein" của trường Cao đẳng Pembroke.
 </p>
 			</div>
 		</li>

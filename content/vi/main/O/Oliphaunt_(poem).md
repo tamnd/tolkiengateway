@@ -40,7 +40,7 @@ infobox:
   <tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
   <tr><th colspan="2" class="tg-infobox-title"><span>Oliphaunt</span></th></tr>
   <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data"><i>Iumbo, hoặc bạn Kinde of ye Oliphaunt</i></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data"><i>Iumbo, or ye Kinde of ye Oliphaunt</i></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">Before <a href="../_/1927.md" title="1927">1927</a></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Bản sửa đổi</th><td class="tg-infobox-data">April, <a href="../_/1944.md" title="1944">1944</a></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="../S/Stapeldon_Magazine.md" title="Stapeldon Magazine">Stapeldon Magazine</a></i><br/><i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>,<br/><i><a href="../T/The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i>,<br/><i><a href="Oliphaunt_(sheet).md" title="Oliphaunt (sheet)">Oliphaunt</a></i><br/><i><a href="Oliphaunt_(book).md" title="Oliphaunt (book)">Oliphaunt</a></i><br/><i><a href="../T/The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i></td></tr>

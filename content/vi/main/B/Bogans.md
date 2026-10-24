@@ -48,7 +48,7 @@ Trong một sự xoay chuyển kỳ lạ của số phận, hai trong số các 
 </td></tr>
 <tr>
 <td><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></td>
-<td>Himself
+<td>Chính ông
 </td></tr></tbody></table>
 
 <br clear="all"/>

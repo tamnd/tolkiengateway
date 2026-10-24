@@ -16,7 +16,7 @@ images:
   - "Lefnui_River.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lefnui_River.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/25/Lefnui_River.jpg/300px-Lefnui_River.jpg" decoding="async" loading="lazy" width="300" height="222" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/Lefnui_River.jpg/450px-Lefnui_River.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/25/Lefnui_River.jpg/600px-Lefnui_River.jpg 2x" data-file-width="1446" data-file-height="1069"/></a><figcaption>The Lefnui river is shown in red.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lefnui_River.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/25/Lefnui_River.jpg/300px-Lefnui_River.jpg" decoding="async" loading="lazy" width="300" height="222" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/Lefnui_River.jpg/450px-Lefnui_River.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/25/Lefnui_River.jpg/600px-Lefnui_River.jpg 2x" data-file-width="1446" data-file-height="1069"/></a><figcaption>Sông Lefnui được hiển thị bằng màu đỏ.</figcaption></figure>
 
 **Lefnui** là con sông cực tây của miền nam [Gondor](../G/Gondor.md).<sup id="cite_ref-Map_1-0" class="reference"><a href="#cite_note-Map-1">[1]</a></sup>
 

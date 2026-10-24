@@ -128,7 +128,7 @@ Bài hát sẽ là một đoạn trích được dịch từ *[Lay of Leithian](
 <td>Về <a href="../B/Beren.md" title="Beren">ông</a> đúc mái tóc bóng mượt của bà
 </td></tr>
 <tr>
-<td>Một gelebrin thiliol renc.
+<td>A renc gelebrin thiliol.
 </td>
 <td>Và đôi tay như ánh bạc lấp lánh.
 </td></tr></tbody></table>

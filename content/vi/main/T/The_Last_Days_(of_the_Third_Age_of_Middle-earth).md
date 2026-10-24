@@ -85,9 +85,9 @@ infobox:
     value: "Action RPG / Adventure / Strategy"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Third Age</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Third_Age_(disambiguation).md" title="Third Age (disambiguation)">Third Age (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Kỷ Đệ Tam</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Third_Age_(disambiguation).md" title="Third Age (disambiguation)">Kỷ Đệ Tam (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/TLD_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/TLD_logo.png/320px-TLD_logo.png" decoding="async" loading="lazy" width="320" height="80" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/TLD_logo.png/480px-TLD_logo.png 1.5x, https://tolkiengateway.net/w/images/6/68/TLD_logo.png 2x" data-file-width="600" data-file-height="150"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Last Days (of the Third Age of Middle-earth)</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a class="external text" href="https://www.moddb.com/company/tld" rel="noreferrer noopener" target="_blank">The Last Days Team</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">N/A (freeware mod)</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/16_October.md" title="16 October">October 16</a>, <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Action RPG / Adventure / Strategy</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/TLD_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/TLD_logo.png/320px-TLD_logo.png" decoding="async" loading="lazy" width="320" height="80" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/TLD_logo.png/480px-TLD_logo.png 1.5x, https://tolkiengateway.net/w/images/6/68/TLD_logo.png 2x" data-file-width="600" data-file-height="150"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Last Days (of the Third Age of Middle-earth)</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a class="external text" href="https://www.moddb.com/company/tld" rel="noreferrer noopener" target="_blank">The Last Days Team</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data">Không áp dụng (mod phần mềm miễn phí)</td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data"><a href="../_/16_October.md" title="16 October">October 16</a>, <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Action RPG / Adventure / Strategy</td></tr></tbody></table>
 
 <i><b>The Last Days (của Kỷ Đệ Tam của Trung Địa)</b></i> (viết tắt **TLD**) là một mod chuyển đổi tổng thể do người hâm mộ tạo ra (phần mềm miễn phí, phi thương mại) cho các trò chơi trên máy tính <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade" title="wikipedia:Mount &amp; Blade">Mount & Blade</a></i> và <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mount_%26_Blade:_Warband" title="wikipedia:Mount &amp; Blade: Warband">Mount & Blade: Warband</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Bản mod mở rộng này, bao gồm các sự kiện của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), được phát hành lần đầu tiên vào tháng 10 năm 2011 cho *Mount &amp; Blade* và phiên bản *Mount &amp; Blade: Warband* của trò chơi.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -185,7 +185,7 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Minas_Tirith_4_(TLD_Scene_Pack).jpg.md" title="The streets of Minas Tirith"><img alt="The streets of Minas Tirith" src="https://tolkiengateway.net/w/images/thumb/a/a0/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_4_%28TLD_Scene_Pack%29.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_4_%28TLD_Scene_Pack%29.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a0/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_4_%28TLD_Scene_Pack%29.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_4_%28TLD_Scene_Pack%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a0/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_4_%28TLD_Scene_Pack%29.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_4_%28TLD_Scene_Pack%29.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>The streets of Minas Tirith
+<p>Các đường phố Minas Tirith
 </p>
 			</div></div>
 		</li>
@@ -199,21 +199,21 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Pelennor_Fields_2_(TLD_Scene_Pack).jpg.md" title="The Pelennor Fields and countryside outside of Minas Tirith"><img alt="The Pelennor Fields and countryside outside of Minas Tirith" src="https://tolkiengateway.net/w/images/thumb/6/61/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_2_%28TLD_Scene_Pack%29.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_2_%28TLD_Scene_Pack%29.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_2_%28TLD_Scene_Pack%29.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_2_%28TLD_Scene_Pack%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/61/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_2_%28TLD_Scene_Pack%29.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_2_%28TLD_Scene_Pack%29.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>The <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">Pelennor Fields</a> and countryside outside of Minas Tirith
+<p><a href="../P/Pelennor_Fields.md" title="Pelennor Fields">cánh đồng Pelennor</a> và vùng nông thôn bên ngoài Minas Tirith
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Pelennor_Fields_1_(TLD_Scene_Pack).jpg.md" title="The Pelennor Fields and countryside outside of Minas Tirith"><img alt="The Pelennor Fields and countryside outside of Minas Tirith" src="https://tolkiengateway.net/w/images/thumb/e/ed/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_1_%28TLD_Scene_Pack%29.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_1_%28TLD_Scene_Pack%29.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ed/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_1_%28TLD_Scene_Pack%29.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_1_%28TLD_Scene_Pack%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ed/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_1_%28TLD_Scene_Pack%29.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Pelennor_Fields_1_%28TLD_Scene_Pack%29.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>The Pelennor Fields and countryside outside of Minas Tirith
+<p>cánh đồng Pelennor và vùng nông thôn bên ngoài Minas Tirith
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Minas_Tirith_6_(TLD_Scene_Pack).jpg.md" title="Minas Tirith besieged by Mordor"><img alt="Minas Tirith besieged by Mordor" src="https://tolkiengateway.net/w/images/thumb/2/25/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_6_%28TLD_Scene_Pack%29.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_6_%28TLD_Scene_Pack%29.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_6_%28TLD_Scene_Pack%29.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_6_%28TLD_Scene_Pack%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/25/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_6_%28TLD_Scene_Pack%29.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Minas_Tirith_6_%28TLD_Scene_Pack%29.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>Minas Tirith besieged by <a href="../M/Mordor.md" title="Mordor">Mordor</a>
+<p>Minas Tirith bị bao vây bởi <a href="../M/Mordor.md" title="Mordor">Mordor</a>
 </p>
 			</div></div>
 		</li>
@@ -248,14 +248,14 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 162px">
 			<div class="thumb" style="width: 160px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Gondor_soldiers_(heavy_infantry_and_archers)_promo.jpg.md" title="Gondor infantry"><img alt="Gondor infantry" src="https://tolkiengateway.net/w/images/thumb/2/22/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_infantry_and_archers%29_promo.jpg/240px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_infantry_and_archers%29_promo.jpg" decoding="async" loading="lazy" width="160" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/22/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_infantry_and_archers%29_promo.jpg/360px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_infantry_and_archers%29_promo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/22/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_infantry_and_archers%29_promo.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_infantry_and_archers%29_promo.jpg 2x" data-file-width="870" data-file-height="653"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 140px"><div class="gallerytext">
-<p>Gondor infantry
+<p>Gondor bộ binh
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 162px">
 			<div class="thumb" style="width: 160px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Gondor_soldiers_(heavy_cavalrymen)_promo.jpg.md" title="Gondor cavalry"><img alt="Gondor cavalry" src="https://tolkiengateway.net/w/images/thumb/5/5f/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_cavalrymen%29_promo.jpg/240px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_cavalrymen%29_promo.jpg" decoding="async" loading="lazy" width="160" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5f/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_cavalrymen%29_promo.jpg/360px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_cavalrymen%29_promo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5f/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_cavalrymen%29_promo.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_soldiers_%28heavy_cavalrymen%29_promo.jpg 2x" data-file-width="870" data-file-height="653"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 140px"><div class="gallerytext">
-<p>Gondor cavalry
+<p>Gondor kỵ binh
 </p>
 			</div></div>
 		</li>
@@ -269,14 +269,14 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 227.33333333333px">
 			<div class="thumb" style="width: 225.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Erech_promo_2.jpg.md" title="The Stone of Erech and local garrison"><img alt="The Stone of Erech and local garrison" src="https://tolkiengateway.net/w/images/thumb/e/e7/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erech_promo_2.jpg/338px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erech_promo_2.jpg" decoding="async" loading="lazy" width="226" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erech_promo_2.jpg/507px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erech_promo_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e7/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erech_promo_2.jpg/676px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erech_promo_2.jpg 2x" data-file-width="1280" data-file-height="682"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 206px"><div class="gallerytext">
-<p>The Stone of Erech and local garrison
+<p>Tảng đá Erech và đơn vị đồn trú địa phương
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Umbar_Camp_1.jpg.md" title="Camp of the Umbar armies and corsair navy"><img alt="Camp of the Umbar armies and corsair navy" src="https://tolkiengateway.net/w/images/thumb/d/d3/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Umbar_Camp_1.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Umbar_Camp_1.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d3/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Umbar_Camp_1.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Umbar_Camp_1.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d3/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Umbar_Camp_1.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Umbar_Camp_1.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>Camp of the Umbar armies and corsair navy
+<p>Trại của quân đội Umbar và hải quân cướp biển
 </p>
 			</div></div>
 		</li>
@@ -290,7 +290,7 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 162px">
 			<div class="thumb" style="width: 160px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Gondor_Rangers_of_Ithilien_promo_2.jpg.md" title="Rangers of Ithilien"><img alt="Rangers of Ithilien" src="https://tolkiengateway.net/w/images/thumb/d/d7/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_Rangers_of_Ithilien_promo_2.jpg/240px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_Rangers_of_Ithilien_promo_2.jpg" decoding="async" loading="lazy" width="160" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d7/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_Rangers_of_Ithilien_promo_2.jpg/360px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_Rangers_of_Ithilien_promo_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d7/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_Rangers_of_Ithilien_promo_2.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Gondor_Rangers_of_Ithilien_promo_2.jpg 2x" data-file-width="1024" data-file-height="769"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 140px"><div class="gallerytext">
-<p><a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers of Ithilien</a>
+<p><a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Biệt đội Tuần du Ithilien</a>
 </p>
 			</div></div>
 		</li>
@@ -346,7 +346,7 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 162px">
 			<div class="thumb" style="width: 160px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Meduseld_(interior)_promo.png.md" title="Meduseld (Golden Hall) interior"><img alt="Meduseld (Golden Hall) interior" src="https://tolkiengateway.net/w/images/thumb/a/ad/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Meduseld_%28interior%29_promo.png/240px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Meduseld_%28interior%29_promo.png" decoding="async" loading="lazy" width="160" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Meduseld_%28interior%29_promo.png/360px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Meduseld_%28interior%29_promo.png 1.5x, https://tolkiengateway.net/w/images/thumb/a/ad/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Meduseld_%28interior%29_promo.png/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Meduseld_%28interior%29_promo.png 2x" data-file-width="1024" data-file-height="769"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 140px"><div class="gallerytext">
-<p><a href="../M/Meduseld.md" title="Meduseld">Meduseld</a> (Golden Hall) interior
+<p>Nội thất <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a> (Sảnh Vàng)
 </p>
 			</div></div>
 		</li>
@@ -360,7 +360,7 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 162px">
 			<div class="thumb" style="width: 160px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Edoras_and_Meduseld_(exterior)_promo.png.md" title="Bird&#39;s eye view of Meduseld and Edoras"><img alt="Bird&#39;s eye view of Meduseld and Edoras" src="https://tolkiengateway.net/w/images/thumb/b/bd/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Edoras_and_Meduseld_%28exterior%29_promo.png/240px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Edoras_and_Meduseld_%28exterior%29_promo.png" decoding="async" loading="lazy" width="160" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bd/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Edoras_and_Meduseld_%28exterior%29_promo.png/360px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Edoras_and_Meduseld_%28exterior%29_promo.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/bd/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Edoras_and_Meduseld_%28exterior%29_promo.png/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Edoras_and_Meduseld_%28exterior%29_promo.png 2x" data-file-width="1024" data-file-height="769"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 140px"><div class="gallerytext">
-<p>Bird&#39;s eye view of Meduseld and Edoras
+<p>Toàn cảnh Meduseld và Edoras
 </p>
 			</div></div>
 		</li>
@@ -374,7 +374,7 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Elves_fighting_trolls_promo.jpg.md" title="Elves fighting trolls"><img alt="Elves fighting trolls" src="https://tolkiengateway.net/w/images/thumb/0/01/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Elves_fighting_trolls_promo.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Elves_fighting_trolls_promo.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Elves_fighting_trolls_promo.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Elves_fighting_trolls_promo.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Elves_fighting_trolls_promo.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Elves_fighting_trolls_promo.jpg 2x" data-file-width="1600" data-file-height="900"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>Elves fighting trolls
+<p>Tiên tộc chiến đấu với lũ troll
 </p>
 			</div></div>
 		</li>
@@ -430,35 +430,35 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Esgaroth_2.jpg.md" title="The streets of Lake-town"><img alt="The streets of Lake-town" src="https://tolkiengateway.net/w/images/thumb/8/8b/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_2.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_2.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8b/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_2.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8b/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_2.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_2.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>The streets of Lake-town
+<p>Các đường phố Thị trấn Hồ
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Esgaroth_3.jpg.md" title="The streets of Lake-town"><img alt="The streets of Lake-town" src="https://tolkiengateway.net/w/images/thumb/0/03/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_3.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_3.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/03/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_3.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/03/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_3.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Esgaroth_3.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>The streets of Lake-town
+<p>Các đường phố Thị trấn Hồ
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Dale_1.jpg.md" title="The city of Dale"><img alt="The city of Dale" src="https://tolkiengateway.net/w/images/thumb/0/04/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_1.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_1.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_1.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_1.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_1.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_1.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>The city of <a href="../D/Dale.md" title="Dale">Dale</a>
+<p>Thành phố <a href="../D/Dale.md" title="Dale">Dale</a>
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 223.33333333333px">
 			<div class="thumb" style="width: 221.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Dale_3.jpg.md" title="The streets of Dale"><img alt="The streets of Dale" src="https://tolkiengateway.net/w/images/thumb/a/aa/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_3.jpg/332px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_3.jpg" decoding="async" loading="lazy" width="222" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/aa/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_3.jpg/498px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/aa/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_3.jpg/664px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_3.jpg 2x" data-file-width="1920" data-file-height="1041"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 202px"><div class="gallerytext">
-<p>The streets of <a href="../D/Dale.md" title="Dale">Dale</a>
+<p>Các đường phố <a href="../D/Dale.md" title="Dale">Dale</a>
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 223.33333333333px">
 			<div class="thumb" style="width: 221.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Dale_5.jpg.md" title="The streets of Dale"><img alt="The streets of Dale" src="https://tolkiengateway.net/w/images/thumb/3/38/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_5.jpg/332px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_5.jpg" decoding="async" loading="lazy" width="222" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/38/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_5.jpg/498px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_5.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/38/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_5.jpg/664px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Dale_5.jpg 2x" data-file-width="1920" data-file-height="1041"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 202px"><div class="gallerytext">
-<p>The streets of <a href="../D/Dale.md" title="Dale">Dale</a>
+<p>Các đường phố <a href="../D/Dale.md" title="Dale">Dale</a>
 </p>
 			</div></div>
 		</li>
@@ -479,21 +479,21 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 162px">
 			<div class="thumb" style="width: 160px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Erebor_(interior)_3.jpg.md" title="The halls of Erebor"><img alt="The halls of Erebor" src="https://tolkiengateway.net/w/images/thumb/b/b9/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_%28interior%29_3.jpg/240px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_%28interior%29_3.jpg" decoding="async" loading="lazy" width="160" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b9/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_%28interior%29_3.jpg/360px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_%28interior%29_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b9/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_%28interior%29_3.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_%28interior%29_3.jpg 2x" data-file-width="1024" data-file-height="768"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 140px"><div class="gallerytext">
-<p>The halls of <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>
+<p>Hội trường <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 215.33333333333px">
 			<div class="thumb" style="width: 213.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Erebor_1_(TLD_Scene_Pack).jpg.md" title="The halls of Erebor"><img alt="The halls of Erebor" src="https://tolkiengateway.net/w/images/thumb/9/95/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_1_%28TLD_Scene_Pack%29.jpg/320px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_1_%28TLD_Scene_Pack%29.jpg" decoding="async" loading="lazy" width="214" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/95/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_1_%28TLD_Scene_Pack%29.jpg/480px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_1_%28TLD_Scene_Pack%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/95/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_1_%28TLD_Scene_Pack%29.jpg/640px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_1_%28TLD_Scene_Pack%29.jpg 2x" data-file-width="1920" data-file-height="1080"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 194px"><div class="gallerytext">
-<p>The halls of <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>
+<p>Hội trường <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 233.33333333333px">
 			<div class="thumb" style="width: 231.33333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Last_Days_(of_the_Third_Age_of_Middle-earth)_-_Erebor_5_(TLD_Scene_Pack).jpg.md" title="The halls of Erebor"><img alt="The halls of Erebor" src="https://tolkiengateway.net/w/images/thumb/f/f0/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_5_%28TLD_Scene_Pack%29.jpg/347px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_5_%28TLD_Scene_Pack%29.jpg" decoding="async" loading="lazy" width="232" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f0/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_5_%28TLD_Scene_Pack%29.jpg/520px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_5_%28TLD_Scene_Pack%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f0/The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_5_%28TLD_Scene_Pack%29.jpg/694px-The_Last_Days_%28of_the_Third_Age_of_Middle-earth%29_-_Erebor_5_%28TLD_Scene_Pack%29.jpg 2x" data-file-width="1920" data-file-height="997"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 212px"><div class="gallerytext">
-<p>The halls of <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>
+<p>Hội trường <a class="mw-redirect" href="../E/Erebor.md" title="Erebor">Erebor</a>
 </p>
 			</div></div>
 		</li>
@@ -509,7 +509,7 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 72.666666666667px">
 			<div class="thumb" style="width: 70.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/Jan_Pospíšil_-_Bardian_Archer.jpg.md" title="Barding archer"><img alt="Barding archer" src="https://tolkiengateway.net/w/images/thumb/5/5b/Jan_Posp%C3%AD%C5%A1il_-_Bardian_Archer.jpg/106px-Jan_Posp%C3%AD%C5%A1il_-_Bardian_Archer.jpg" decoding="async" loading="lazy" width="71" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5b/Jan_Posp%C3%AD%C5%A1il_-_Bardian_Archer.jpg/159px-Jan_Posp%C3%AD%C5%A1il_-_Bardian_Archer.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5b/Jan_Posp%C3%AD%C5%A1il_-_Bardian_Archer.jpg/212px-Jan_Posp%C3%AD%C5%A1il_-_Bardian_Archer.jpg 2x" data-file-width="381" data-file-height="646"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 51px"><div class="gallerytext">
-<p>Barding archer
+<p>Cung thủ Barding
 </p>
 			</div></div>
 		</li>
@@ -523,14 +523,14 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 76.666666666667px">
 			<div class="thumb" style="width: 74.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/Jan_Pospíšil_-_Lorien_Archer.jpg.md" title="Lorien archer"><img alt="Lorien archer" src="https://tolkiengateway.net/w/images/thumb/9/99/Jan_Posp%C3%AD%C5%A1il_-_Lorien_Archer.jpg/112px-Jan_Posp%C3%AD%C5%A1il_-_Lorien_Archer.jpg" decoding="async" loading="lazy" width="75" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/99/Jan_Posp%C3%AD%C5%A1il_-_Lorien_Archer.jpg/167px-Jan_Posp%C3%AD%C5%A1il_-_Lorien_Archer.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/99/Jan_Posp%C3%AD%C5%A1il_-_Lorien_Archer.jpg/223px-Jan_Posp%C3%AD%C5%A1il_-_Lorien_Archer.jpg 2x" data-file-width="457" data-file-height="736"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 55px"><div class="gallerytext">
-<p>Lorien archer
+<p>cung thủ Lorien
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 198px">
 			<div class="thumb" style="width: 196px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/Jan_Pospíšil_-_TLD_Intro_Rivendell.jpg.md" title="Elven host of Rivendell, &#34;singing the warsongs of old&#34;"><img alt="Elven host of Rivendell, &#34;singing the warsongs of old&#34;" src="https://tolkiengateway.net/w/images/thumb/2/2c/Jan_Posp%C3%AD%C5%A1il_-_TLD_Intro_Rivendell.jpg/294px-Jan_Posp%C3%AD%C5%A1il_-_TLD_Intro_Rivendell.jpg" decoding="async" loading="lazy" width="196" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2c/Jan_Posp%C3%AD%C5%A1il_-_TLD_Intro_Rivendell.jpg/441px-Jan_Posp%C3%AD%C5%A1il_-_TLD_Intro_Rivendell.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2c/Jan_Posp%C3%AD%C5%A1il_-_TLD_Intro_Rivendell.jpg/588px-Jan_Posp%C3%AD%C5%A1il_-_TLD_Intro_Rivendell.jpg 2x" data-file-width="828" data-file-height="507"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 176px"><div class="gallerytext">
-<p>Elven host of Rivendell, &#34;singing the warsongs of old&#34;
+<p>Tiên chủ nhà của Rivendell, "hát khúc ca xưa"
 </p>
 			</div></div>
 		</li>
@@ -558,14 +558,14 @@ Hình ảnh từ tổng số chuyển đổi này.
 		<li class="gallerybox" style="width: 164px">
 			<div class="thumb" style="width: 162px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/Jan_Pospíšil_-_Harondor_Ambush.jpg.md" title="Harondor ambush"><img alt="Harondor ambush" src="https://tolkiengateway.net/w/images/thumb/6/6e/Jan_Posp%C3%AD%C5%A1il_-_Harondor_Ambush.jpg/243px-Jan_Posp%C3%AD%C5%A1il_-_Harondor_Ambush.jpg" decoding="async" loading="lazy" width="162" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6e/Jan_Posp%C3%AD%C5%A1il_-_Harondor_Ambush.jpg/365px-Jan_Posp%C3%AD%C5%A1il_-_Harondor_Ambush.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6e/Jan_Posp%C3%AD%C5%A1il_-_Harondor_Ambush.jpg/487px-Jan_Posp%C3%AD%C5%A1il_-_Harondor_Ambush.jpg 2x" data-file-width="1201" data-file-height="889"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 142px"><div class="gallerytext">
-<p>Harondor ambush
+<p>Cuộc phục kích Harondor
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 96px">
 			<div class="thumb" style="width: 94px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/Jan_Pospisil_-_Haradrim_Camp.jpg.md" title="Haradrim camp"><img alt="Haradrim camp" src="https://tolkiengateway.net/w/images/thumb/f/fd/Jan_Pospisil_-_Haradrim_Camp.jpg/141px-Jan_Pospisil_-_Haradrim_Camp.jpg" decoding="async" loading="lazy" width="94" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fd/Jan_Pospisil_-_Haradrim_Camp.jpg/212px-Jan_Pospisil_-_Haradrim_Camp.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/fd/Jan_Pospisil_-_Haradrim_Camp.jpg/283px-Jan_Pospisil_-_Haradrim_Camp.jpg 2x" data-file-width="627" data-file-height="798"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 74px"><div class="gallerytext">
-<p>Haradrim camp
+<p>trại Haradrim
 </p>
 			</div></div>
 		</li>
@@ -628,7 +628,7 @@ Nhóm phát triển ban đầu của toàn bộ chuyển đổi hoặc các nhó
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Fan-made freeware video game mods and fan games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Các bản mod trò chơi điện tử miễn phí do người hâm mộ tạo ra và trò chơi dành cho người hâm mộ được cài đặt trong <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </th></tr>
 <tr>
 <th style="background: var(--tg-color-surface-3);" align="center"> <i><a class="extiw" href="http://en.wikipedia.org/wiki/Civilization_IV" title="wikipedia:Civilization IV">Civilization IV</a></i> (2005)

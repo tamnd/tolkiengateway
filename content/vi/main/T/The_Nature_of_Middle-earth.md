@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Nature_of_Middle-earth"
 content_sha256: 3ffe901b892c141429feb1a63f5103e6bb4e0eb2e7f76c1b7a4c9010c484a98b
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "2021 book edited by Carl F. Hostetter"
+short_description: "Sách năm 2021 do Carl F. Hostetter biên tập"
 categories:
   - "Books by J.R.R. Tolkien"
   - "Fiction books"
@@ -59,7 +59,7 @@ infobox:
     value: "The Fall of Númenor (2022)"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Nature_of_Middle-earth_hardcover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2b/The_Nature_of_Middle-earth_hardcover.jpg/309px-The_Nature_of_Middle-earth_hardcover.jpg" decoding="async" loading="lazy" width="309" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2b/The_Nature_of_Middle-earth_hardcover.jpg/464px-The_Nature_of_Middle-earth_hardcover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2b/The_Nature_of_Middle-earth_hardcover.jpg/618px-The_Nature_of_Middle-earth_hardcover.jpg 2x" data-file-width="1546" data-file-height="2400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Nature of Middle-earth: Late Writings on the Lands, Inhabitants, and Metaphysics of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2_September.md" title="2 September">2 September</a> <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; deluxe edition</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">464</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0008387923" title="Special:BookSources/0008387923">0008387923</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a> (2018)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Fall_of_Númenor.md" title="The Fall of Númenor">The Fall of Númenor</a> (2022)</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Nature_of_Middle-earth_hardcover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2b/The_Nature_of_Middle-earth_hardcover.jpg/309px-The_Nature_of_Middle-earth_hardcover.jpg" decoding="async" loading="lazy" width="309" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2b/The_Nature_of_Middle-earth_hardcover.jpg/464px-The_Nature_of_Middle-earth_hardcover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2b/The_Nature_of_Middle-earth_hardcover.jpg/618px-The_Nature_of_Middle-earth_hardcover.jpg 2x" data-file-width="1546" data-file-height="2400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Nature of Middle-earth: Late Writings on the Lands, Inhabitants, and Metaphysics of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin xuất bản</span></th></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập viên</th><td class="tg-infobox-data"><a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/2_September.md" title="2 September">2 September</a> <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Định dạng</th><td class="tg-infobox-data">Bìa cứng; phiên bản cao cấp</td></tr><tr><th scope="row" class="tg-infobox-label">Số trang</th><td class="tg-infobox-data">464</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0008387923" title="Special:BookSources/0008387923">0008387923</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a> (2018)</td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="The_Fall_of_Númenor.md" title="The Fall of Númenor">The Fall of Númenor</a> (2022)</td></tr></tbody></table>
 
 <i><b>The Nature of Middle-earth: Những bài viết muộn về vùng đất, cư dân và siêu hình học của Trung Địa</b></i> là tuyển tập các bài viết nhỏ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do [Carl F. Hostetter](../C/Carl_F._Hostetter.md) biên tập và xuất bản trong [2021](../_/2021.md) trong một cuốn sách duy nhất.
 
@@ -68,14 +68,14 @@ Nhiều văn bản của nó thảo luận về nhiều chủ đề khác nhau l
 ## Từ nhà xuất bản {#From_the_publisher}
 
 <blockquote class="tg-quote noexcerpt">
-<p>The first ever publication of J.R.R. Tolkien&#39;s final writings on <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, covering a wide-range of subjects, and the perfect next read for those who have enjoyed <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> and the <i><a href="The_History_of_Middle-earth.md" title="The History of Middle-earth">History of Middle-earth</a></i> series and are hungry for more.
+<p>Lần xuất bản đầu tiên các bài viết cuối cùng của J.R.R. Tolkien về <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>, bao gồm nhiều chủ đề khác nhau và là cuốn sách đọc tiếp theo hoàn hảo cho những ai đã yêu thích <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> và bộ truyện <i><a href="The_History_of_Middle-earth.md" title="The History of Middle-earth">History of Middle-earth</a></i> và đang khao khát tìm hiểu thêm.
 </p>
 </blockquote>
 
 <blockquote class="tg-quote noexcerpt">
-<p><i>The Nature of Middle-earth</i> comprises numerous late (c. 1959-73) and previously unpublished writings by J.R.R. Tolkien on the &#34;nature&#34; of Middle-earth, in both chief senses of that word: both metaphysical and natural/historical.<br/>
-It is for Tolkien fans, readers, and scholars interested in learning more about Tolkien&#39;s own views on Middle-earth. It will appeal in particular to those readers who enjoyed <i>Unfinished Tales</i>, and some of the later volumes of the <i>History of Middle-earth</i>. Indeed, many of the texts to be included are closely associated with materials published in those places, and were sent to Hostetter, specifically, in photocopy by <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> for potential publication.<br/>
-Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>History of Middle-earth</i>, this new book will sit very nicely alongside as an unofficial 14th volume. Of particular note, given the impending <a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Amazon series</a>, are several texts detailing the lands, flora, and fauna of <a href="../N/Númenor.md" title="Númenor">Númenor</a>, and the lives of <a href="../N/Númenóreans.md" title="Númenóreans">Númenóreans</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p><i>The Nature of Middle-earth</i> bao gồm nhiều bài viết muộn (khoảng 1959-73) và chưa được xuất bản trước đó của J.R.R. Tolkien về "bản chất" của Trung Địa, theo cả hai nghĩa chính của từ đó: cả siêu hình và tự nhiên/lịch sử.<br/>
+Nó dành cho những người hâm mộ Tolkien, độc giả và các học giả muốn tìm hiểu thêm về quan điểm riêng của Tolkien về Trung Địa. Nó sẽ đặc biệt thu hút những độc giả đã yêu thích <i>Unfinished Tales</i> và một số tập sau của <i>History of Middle-earth</i>. Thật vậy, nhiều văn bản được đưa vào có liên quan chặt chẽ với các tài liệu được xuất bản ở những nơi đó và đã được gửi đến Hostetter, cụ thể là dưới dạng bản sao <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> để có thể xuất bản.<br/>
+Mặc dù <i>Unfinished Tales</i> là tập thứ mười ba không chính thức của <i>History of Middle-earth</i>, cuốn sách mới này sẽ rất phù hợp với tư cách là tập thứ 14 không chính thức. Đặc biệt lưu ý, dựa trên <a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">loạt phim Amazon</a> sắp ra mắt, có một số văn bản trình bày chi tiết về vùng đất, hệ thực vật và động vật của <a href="../N/Númenor.md" title="Númenor">Númenor</a> cũng như cuộc sống của <a href="../N/Númenóreans.md" title="Númenóreans">người Númenor</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 </blockquote>
 
@@ -85,7 +85,7 @@ Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>
 <ul><li>Foreword</li>
 <li>Editorial Practices</li></ul>
 <ul><li><b>Part One: Time and Ageing</b>
-<ul><li>Introduction</li></ul>
+<ul><li>Giới thiệu</li></ul>
 <ol><li>The Valian Year</li>
 <li>Valinorian Time-Divisions</li>
 <li>Of the Time in Arda</li>
@@ -97,7 +97,7 @@ Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>
 <li>Time-scales and Rates of Growth</li>
 <li>Difficulties in Chronology</li>
 <li>Ageing of Elves</li>
-<li>Concerning the Quendi in their Mode of Life and Growth</li>
+<li>Liên quan đến Quendi trong Phương thức Sống và Phát triển của họ</li>
 <li>Key Dates</li>
 <li>Calculation of the Increase of the Quendi</li>
 <li>A Generational Scheme</li>
@@ -105,16 +105,16 @@ Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>
 <li>Generational Schemes</li>
 <li>Elvish Ages &amp; Númenórean</li>
 <li>Elvish Life-cycles</li>
-<li>Time and its Perception</li>
+<li>Thời gian và nhận thức của nó</li>
 <li>Notes on Elvish Time-reference</li>
 <li><a href="The_Annals_of_Aman.md" title="The Annals of Aman">A Fragment from <i>The Annals of Aman</i></a></li>
 <li><a href="The_Grey_Annals.md" title="The Grey Annals">A Fragment from <i>The Grey Annals</i></a></li></ol></li></ul>
 <ul><li><b>Part Two: Body, Mind, and Spirit</b>
-<ul><li>Introduction</li></ul>
+<ul><li>Giới thiệu</li></ul>
 <ol><li>Beauty and Goodness</li>
 <li>Gender and Sex</li>
 <li>Eldarin Hands, Fingers, and Numerals</li>
-<li>Hair</li>
+<li>Tóc</li>
 <li>Beards</li>
 <li>Descriptions of Characters</li>
 <li>Mind-Pictures</li>
@@ -127,9 +127,9 @@ Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>
 <li>The Visible Forms of the Valar and Maiar</li>
 <li>Elvish Reincarnation</li>
 <li>From <i>The Statute of Finwë and Míriel</i></li>
-<li>Death</li></ol></li></ul>
-<ul><li><b>Part Three: The World, its Lands, and its Inhabitants</b>
-<ul><li>Introduction</li></ul>
+<li>Mất</li></ol></li></ul>
+<ul><li><b>Phần thứ ba: Thế giới, vùng đất và cư dân của nó</b>
+<ul><li>Giới thiệu</li></ul>
 <ol><li>Dark and Light</li>
 <li>The Primal Impulse</li>
 <li>Powers of the Valar</li>
@@ -152,10 +152,10 @@ Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>
 <li>Note on the Dwarf Road</li>
 <li><a href="The_Hunt_for_the_Ring.md" title="The Hunt for the Ring">From <i>The Hunt for the Ring</i></a></li>
 <li><a href="The_Rivers_and_Beacon-hills_of_Gondor~21248.md" title="The Rivers and Beacon-hills of Gondor">The Rivers and Beacon-hills of Gondor</a></li></ol></li></ul>
-<ul><li><b>Appendices</b>
+<ul><li><b>Phụ lục</b>
 <ul><li>Metaphysical and Theological Themes</li>
 <li>Glossary and Index of Quenya Terms</li></ul></li></ul>
-<ul><li>Index</li></ul>
+<ul><li>Mục lục</li></ul>
 </div>
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
@@ -171,7 +171,7 @@ Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Nature_of_Middle-earth_deluxe.jpeg.md" title="2021 hardcover deluxe edition"><img alt="2021 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/d/d4/The_Nature_of_Middle-earth_deluxe.jpeg/125px-The_Nature_of_Middle-earth_deluxe.jpeg" decoding="async" loading="lazy" width="125" height="122" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d4/The_Nature_of_Middle-earth_deluxe.jpeg/188px-The_Nature_of_Middle-earth_deluxe.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d4/The_Nature_of_Middle-earth_deluxe.jpeg/250px-The_Nature_of_Middle-earth_deluxe.jpeg 2x" data-file-width="1500" data-file-height="1461"/></a></span></div>
 			<div class="gallerytext">
-<p>2021 hardcover deluxe edition
+<p>Phiên bản bìa cứng cao cấp năm 2021
 </p>
 			</div>
 		</li>
@@ -185,7 +185,7 @@ Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Nature_of_Middle-earth_2025.jpg.md" title="2025 paperback"><img alt="2025 paperback" src="https://tolkiengateway.net/w/images/thumb/2/27/The_Nature_of_Middle-earth_2025.jpg/81px-The_Nature_of_Middle-earth_2025.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/The_Nature_of_Middle-earth_2025.jpg/122px-The_Nature_of_Middle-earth_2025.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/The_Nature_of_Middle-earth_2025.jpg/162px-The_Nature_of_Middle-earth_2025.jpg 2x" data-file-width="532" data-file-height="819"/></a></span></div>
 			<div class="gallerytext">
-<p>2025 paperback
+<p>Bản bìa mềm năm 2025
 </p>
 			</div>
 		</li>
@@ -217,10 +217,10 @@ Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>A <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> book guide</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Sách hướng dẫn <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Books by or mainly by Tolkien</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách do Tolkien viết hoặc chủ yếu do Tolkien viết</b>
 </td></tr>
 <tr>
 <th width="50px" align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3">On <a href="../A/Arda.md" title="Arda">Arda</a>
@@ -232,76 +232,76 @@ Much as <i>Unfinished Tales</i> forms an unofficial thirteenth volume of the <i>
 <tr>
 <th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Edited by <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> · <i><a href="The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></i> series<br/>(i.<i><a href="The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> · ii.<i><a href="The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i> · iii.<i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · vi.<i><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> · vii.<i><a href="The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> · viii.<i><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> · ix.<i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> · x.<i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i> · xi.<i><a href="The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> · xii.<i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · <i><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Index</a></i>) ·<br/><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> · <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> · <i><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i> · <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> · <i><a href="The_History_of_Middle-earth.md" title="The History of Middle-earth">The History of Middle-earth</a></i> loạt<br/>(i.<i><a href="The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> · ii.<i><a href="The_Book_of_Lost_Tales%253A_Part_Two.md" title="The Book of Lost Tales: Part Two">The Book of Lost Tales: Part Two</a></i> · iii.<i><a href="The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i> · iv.<i><a href="The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> · v.<i><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a></i> · vi.<i><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> · vii.<i><a href="The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a></i> · viii.<i><a href="The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> · ix.<i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> · x.<i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i> · xi.<i><a href="The_War_of_the_Jewels.md" title="The War of the Jewels">The War of the Jewels</a></i> · xii.<i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> · <i><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Index</a></i>) ·<br/><i><a href="The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></i> · <i><a href="../B/Beren_and_Lúthien.md" title="Beren and Lúthien">Beren and Lúthien</a></i> · <i><a href="The_Fall_of_Gondolin.md" title="The Fall of Gondolin">The Fall of Gondolin</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Edited by others
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Do người khác biên tập
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Annotated_Hobbit.md" title="The Annotated Hobbit">The Annotated Hobbit</a></i> · <i><a href="The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a></i> · <i><a class="mw-selflink selflink">The Nature of Middle-earth</a></i> · <i><a href="The_Fall_of_Númenor.md" title="The Fall of Númenor">The Fall of Númenor</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="5">Not on Arda
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="5">Không thuộc Arda
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Short stories<br/>and others
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Truyện ngắn<br/>và những truyện khác
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../L/Leaf_by_Niggle.md" title="Leaf by Niggle">Leaf by Niggle</a></i> · <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i> · <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i> · <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i> ·<br/><i><a href="../M/Mr._Bliss.md" title="Mr. Bliss">Mr. Bliss</a></i> · <i><a href="../R/Roverandom.md" title="Roverandom">Roverandom</a></i> · <i><a href="Tree_and_Leaf.md" title="Tree and Leaf">Tree and Leaf</a></i> (compilation) · <i><a href="Tales_from_the_Perilous_Realm.md" title="Tales from the Perilous Realm">Tales from the Perilous Realm</a></i> (compilation) · <i><a href="The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">The Bovadium Fragments</a></i>
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../L/Leaf_by_Niggle.md" title="Leaf by Niggle">Leaf by Niggle</a></i> · <i><a href="../F/Farmer_Giles_of_Ham.md" title="Farmer Giles of Ham">Farmer Giles of Ham</a></i> · <i><a href="../S/Smith_of_Wootton_Major.md" title="Smith of Wootton Major">Smith of Wootton Major</a></i> · <i><a href="../L/Letters_from_Father_Christmas.md" title="Letters from Father Christmas">Letters from Father Christmas</a></i> ·<br/><i><a href="../M/Mr._Bliss.md" title="Mr. Bliss">Mr. Bliss</a></i> · <i><a href="../R/Roverandom.md" title="Roverandom">Roverandom</a></i> · <i><a href="Tree_and_Leaf.md" title="Tree and Leaf">Tree and Leaf</a></i> (biên soạn) · <i><a href="Tales_from_the_Perilous_Realm.md" title="Tales from the Perilous Realm">Tales from the Perilous Realm</a></i> (biên soạn) · <i><a href="The_Bovadium_Fragments%253A_together_with_The_Origin_of_Bovadium.md" title="The Bovadium Fragments: together with The Origin of Bovadium">The Bovadium Fragments</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Fictional works
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Tác phẩm hư cấu
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Legend_of_Sigurd_and_Gudrún.md" title="The Legend of Sigurd and Gudrún">The Legend of Sigurd and Gudrún</a></i> · <i><a href="The_Fall_of_Arthur.md" title="The Fall of Arthur">The Fall of Arthur</a></i> · <i><a href="The_Story_of_Kullervo.md" title="The Story of Kullervo">The Story of Kullervo</a></i> · <i><a href="The_Lay_of_Aotrou_and_Itroun.md" title="The Lay of Aotrou and Itroun">The Lay of Aotrou and Itroun</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Translations and academic works
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Bản dịch và công trình học thuật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md" title="Sir Gawain and the Green Knight, Pearl, and Sir Orfeo">Sir Gawain and the Green Knight, Pearl, and Sir Orfeo</a></i> · <i><a href="The_Old_English_Exodus.md" title="The Old English Exodus">The Old English Exodus</a></i> · <i><a href="../F/Finn_and_Hengest%253A_The_Fragment_and_the_Episode.md" title="Finn and Hengest: The Fragment and the Episode">Finn and Hengest</a></i> ·<br/><i><a href="The_Monsters_and_the_Critics,_and_Other_Essays.md" title="The Monsters and the Critics, and Other Essays">The Monsters and the Critics, and Other Essays</a></i> · <i><a href="../B/Beowulf_and_the_Critics.md" title="Beowulf and the Critics">Beowulf and the Critics</a></i> · <i><a href="Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien On Fairy-stories</a></i> ·<br/><i><a href="../B/Beowulf%253A_A_Translation_and_Commentary.md" title="Beowulf: A Translation and Commentary">Beowulf: A Translation and Commentary</a></i> · <i><a href="../A/A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md" title="A Secret Vice: Tolkien on Invented Languages">A Secret Vice</a></i> · <i><a href="The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md" title="The Battle of Maldon: together with The Homecoming of Beorhtnoth">The Battle of Maldon</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Letters &amp; poems
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Thư từ và thơ
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i> · <i><a href="The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Other<br/>academic works
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;">Công trình<br/>học thuật khác
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../A/A_Middle_English_Reader_and_Vocabulary.md" title="A Middle English Reader and Vocabulary">A Middle English Vocabulary</a></i> · <i><a href="../S/Sir_Gawain_and_the_Green_Knight_(edition).md" title="Sir Gawain and the Green Knight (edition)">Sir Gawain and the Green Knight</a></i> · <i><a href="../A/Ancrene_Wisse.md" title="Ancrene Wisse">Ancrene Wisse</a></i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Books by other authors</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Sách của các tác giả khác</b>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Books on Arda
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Sách về Arda
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">The Complete Guide to Middle-earth</a></i> · <i><a href="The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: A Reader&#39;s Companion</a></i> ·<br/><i><a href="The_Maps_of_Middle-earth.md" title="The Maps of Middle-earth">The Maps of Middle-earth</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tolkien biographies
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tiểu sử Tolkien
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: A Biography</a></i> · <i><a href="The_Inklings_(book).md" title="The Inklings (book)">The Inklings</a></i> · <i><a href="Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien and the Great War</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Scholarly books
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Sách nghiên cứu học thuật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="The_Road_to_Middle-earth.md" title="The Road to Middle-earth">The Road to Middle-earth</a></i> · <i><a href="The_Keys_of_Middle-earth~15408.md" title="The Keys of Middle-earth">The Keys of Middle-earth</a></i> · <i><a href="The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a></i> ·<br/><i><a href="The_Ring_of_Words.md" title="The Ring of Words">The Ring of Words</a></i> · <i><a href="../A/A_Companion_to_J.R.R._Tolkien.md" title="A Companion to J.R.R. Tolkien">A Companion to J.R.R. Tolkien</a></i> · <i><a href="Tolkien&#39;s_Lost_Chaucer.md" title="Tolkien&#39;s Lost Chaucer">Tolkien&#39;s Lost Chaucer</a></i> · <i><a href="Tolkien&#39;s_Library%253A_An_Annotated_Checklist.md" title="Tolkien&#39;s Library: An Annotated Checklist">Tolkien&#39;s Library</a></i> · <i><a href="The_Great_Tales_Never_End.md" title="The Great Tales Never End">The Great Tales Never End</a></i> · <i><a href="Tolkien_on_Chaucer,_1913-1959.md" title="Tolkien on Chaucer, 1913-1959">Tolkien on Chaucer, 1913-1959</a></i>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Scholarly journals
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tạp chí học thuật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="Tolkien_Studies_(journal).md" title="Tolkien Studies (journal)">Tolkien Studies</a></i> · (<i><a href="The_Chronology_of_The_Lord_of_the_Rings.md" title="The Chronology of The Lord of the Rings">The Chronology</a></i>)
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Other works by Tolkien</b>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3"><b>Các tác phẩm khác của Tolkien</b>
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Linguistic journals
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Tạp chí ngôn ngữ học
 </th>
-<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> various issues · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> issue 11-23
+<td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../V/Vinyar_Tengwar.md" title="Vinyar Tengwar">Vinyar Tengwar</a></i> số phát hành khác nhau · <i><a href="../P/Parma_Eldalamberon.md" title="Parma Eldalamberon">Parma Eldalamberon</a></i> số phát hành 11-23
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Collections of artwork<br/>and manuscripts
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 4px;" colspan="2">Bộ sưu tập tác phẩm nghệ thuật<br/>và bản thảo
 </th>
 <td style="font-size: 90%; padding-left: 4px;" align="center"><i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Pictures by J.R.R. Tolkien</a></i> · <i><a href="../J/J.R.R._Tolkien%253A_Life_and_Legend.md" title="J.R.R. Tolkien: Life and Legend">J.R.R. Tolkien: Life and Legend</a></i> · <i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a></i> ·<br/><i><a href="The_Art_of_The_Hobbit.md" title="The Art of The Hobbit">The Art of The Hobbit</a></i> · <i><a href="The_Art_of_The_Lord_of_the_Rings.md" title="The Art of The Lord of the Rings">The Art of The Lord of the Rings</a></i> · <i><a href="Tolkien%253A_Maker_of_Middle-earth.md" title="Tolkien: Maker of Middle-earth">Tolkien: Maker of Middle-earth</a></i> ·<br/><i><a href="Tolkien%253A_Treasures.md" title="Tolkien: Treasures">Tolkien: Treasures</a></i> · <i><a href="../J/J.R.R._Tolkien%253A_The_Art_of_the_Manuscript.md" title="J.R.R. Tolkien: The Art of the Manuscript">J.R.R. Tolkien: The Art of the Manuscript</a></i>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">For a fuller bibliography of Tolkien, see <a class="external text" href="https://tolkienbooks.net/php/chronindex.php" rel="noreferrer noopener" target="_blank">here</a> or <a class="external text" href="https://www.forodrim.org/bibliography/tbchron.html" rel="noreferrer noopener" target="_blank">here</a>. See also a list of <a href="https://tolkiengateway.net/wiki/User:Luotiansha/3" title="User:Luotiansha/3">all materials by Tolkien</a>.
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Để có thư mục đầy đủ hơn về Tolkien, hãy xem <a class="external text" href="https://tolkienbooks.net/php/chronindex.php" rel="noreferrer noopener" target="_blank">tại đây</a> hoặc <a class="external text" href="https://www.forodrim.org/bibliography/tbchron.html" rel="noreferrer noopener" target="_blank">tại đây</a>. Xem thêm danh sách <a href="https://tolkiengateway.net/wiki/User:Luotiansha/3" title="User:Luotiansha/3">tất cả tài liệu của Tolkien</a>.
 </td></tr></tbody></table>

@@ -18,22 +18,22 @@ categories:
 </th></tr>
 <tr>
 <td>
-<ol><li><a href="The_Prologue.md" title="The Prologue">The Prologue</a></li>
-<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">The Appendix on Languages</a></li>
-<li><a href="The_Family_Trees.md" title="The Family Trees">The Family Trees</a></li>
-<li><a href="The_Calendars.md" title="The Calendars">The Calendars</a></li>
-<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">The History of the Akallabêth</a></li>
+<ol><li><a href="The_Prologue.md" title="The Prologue">Lời mở đầu</a></li>
+<li><a href="The_Appendix_on_Languages.md" title="The Appendix on Languages">Phụ lục về ngôn ngữ</a></li>
+<li><a href="The_Family_Trees.md" title="The Family Trees">Phả hệ</a></li>
+<li><a href="The_Calendars.md" title="The Calendars">Các bộ lịch</a></li>
+<li><a href="The_History_of_the_Akallabêth.md" title="The History of the Akallabêth">Lịch sử Akallabêth</a></li>
 <li><a href="The_Tale_of_Years_of_the_Second_Age.md" title="The Tale of Years of the Second Age">The Tale of Years of the Second Age</a></li>
-<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">The Heirs of Elendil</a></li>
+<li><a href="The_Heirs_of_Elendil.md" title="The Heirs of Elendil">Những người thừa kế Elendil</a></li>
 <li><a class="mw-selflink selflink">The Tale of Years of the Third Age</a></li>
-<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">The Making of Appendix A</a></li>
+<li><a href="The_Making_of_Appendix_A.md" title="The Making of Appendix A">Quá trình biên soạn Appendix A</a></li>
 <li><a href="../O/Of_Dwarves_and_Men.md" title="Of Dwarves and Men">Of Dwarves and Men</a></li>
 <li><a href="The_Shibboleth_of_Fëanor.md" title="The Shibboleth of Fëanor">The Shibboleth of Fëanor</a></li>
 <li><a href="The_Problem_of_Ros.md" title="The Problem of Ros">The Problem of <i>Ros</i></a></li>
-<li><a href="../L/Last_Writings.md" title="Last Writings">Last Writings</a></li>
+<li><a href="../L/Last_Writings.md" title="Last Writings">Những tác phẩm cuối đời</a></li>
 <li><a href="../D/Dangweth_Pengoloð.md" title="Dangweth Pengoloð">Dangweth Pengoloð</a></li>
-<li><a href="../O/Of_Lembas.md" title="Of Lembas">Of Lembas</a></li>
-<li><a href="The_New_Shadow.md" title="The New Shadow">The New Shadow</a></li>
+<li><a href="../O/Of_Lembas.md" title="Of Lembas">Về Lembas</a></li>
+<li><a href="The_New_Shadow.md" title="The New Shadow">Bóng Tối Mới</a></li>
 <li><a href="Tal-Elmar_(chapter).md" title="Tal-Elmar (chapter)">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 

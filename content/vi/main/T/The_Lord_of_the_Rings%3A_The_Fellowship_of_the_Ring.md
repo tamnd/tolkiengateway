@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Lord_of_the_Rings:_The_Fellowsh
 content_sha256: ad129e54094281e3c0fca1d36f0239ab763848c3afdf76677560480c1142fd1b
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "2001 film adaptation"
+short_description: "phim chuyển thể năm 2001"
 categories:
   - "Sourceless"
   - "Articles needing expansion"
@@ -63,15 +63,15 @@ infobox:
     value: "Profile"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với bạn và ai đã gửi cho bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Fellowship of the Ring</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Fellowship of the Ring</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Fellowship_of_the_Ring_(disambiguation).md" title="The Fellowship of the Ring (disambiguation)">The Fellowship of the Ring (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg/320px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg" decoding="async" loading="lazy" width="320" height="475" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg/480px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg/640px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg 2x" data-file-width="1011" data-file-height="1500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Fellowship of the Ring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><b>Book:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Screenplay:</b><br/><a class="mw-redirect" href="../F/Frances_Walsh.md" title="Frances Walsh">Frances Walsh</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a><br/>Peter Jackson<br/>Stephen Sinclair</td></tr><tr><th scope="row" class="tg-infobox-label">Producer</th><td class="tg-infobox-data">Peter Jackson<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Barrie_M._Osborne&amp;action=edit&amp;redlink=1" title="Barrie M. Osborne (page does not exist)">Barrie M. Osborne</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tim_Sanders&amp;action=edit&amp;redlink=1" title="Tim Sanders (page does not exist)">Tim Sanders</a><br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editing</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Gilbert&amp;action=edit&amp;redlink=1" title="John Gilbert (page does not exist)">John Gilbert</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><br/><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/December_19.md" title="December 19">December 19th</a>, <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Theatrical:</b><br/>178 min.<br/><b>Extended Edition:</b><br/>208 min.</td></tr><tr><th scope="row" class="tg-infobox-label">Country</th><td class="tg-infobox-data">New Zealand &amp; USA</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Budget</th><td class="tg-infobox-data">$94 million</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.lordoftherings.net" rel="noreferrer noopener" target="_blank">Official website</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0120737" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg/320px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg" decoding="async" loading="lazy" width="320" height="475" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg/480px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg/640px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_Ensemble_poster.jpg 2x" data-file-width="1011" data-file-height="1500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Fellowship of the Ring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><b>Book:</b><br/><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><br/><b>Screenplay:</b><br/><a class="mw-redirect" href="../F/Frances_Walsh.md" title="Frances Walsh">Frances Walsh</a><br/><a href="../P/Philippa_Boyens.md" title="Philippa Boyens">Philippa Boyens</a><br/>Peter Jackson<br/>Stephen Sinclair</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà sản xuất</th><td class="tg-infobox-data">Peter Jackson<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Barrie_M._Osborne&amp;action=edit&amp;redlink=1" title="Barrie M. Osborne (page does not exist)">Barrie M. Osborne</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tim_Sanders&amp;action=edit&amp;redlink=1" title="Tim Sanders (page does not exist)">Tim Sanders</a><br/><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a></td></tr><tr><th scope="row" class="tg-infobox-label">Cinematography</th><td class="tg-infobox-data"><a href="../A/Andrew_Lesnie.md" title="Andrew Lesnie">Andrew Lesnie</a></td></tr><tr><th scope="row" class="tg-infobox-label">Biên tập</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=John_Gilbert&amp;action=edit&amp;redlink=1" title="John Gilbert (page does not exist)">John Gilbert</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a href="../W/WingNut_Films.md" title="WingNut Films">WingNut Films</a><br/><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Distributor</th><td class="tg-infobox-data"><a href="../N/New_Line_Cinema.md" title="New Line Cinema">New Line Cinema</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/December_19.md" title="December 19">December 19th</a>, <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data"><b>Theatrical:</b><br/>178 min.<br/><b>Extended Edition:</b><br/>208 min.</td></tr><tr><th scope="row" class="tg-infobox-label">Quốc gia</th><td class="tg-infobox-data">New Zealand &amp; USA</td></tr><tr><th scope="row" class="tg-infobox-label">Ngôn ngữ</th><td class="tg-infobox-data">Tiếng Anh</td></tr><tr><th scope="row" class="tg-infobox-label">Ngân sách</th><td class="tg-infobox-data">94 triệu USD</td></tr><tr><th scope="row" class="tg-infobox-label">Trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.lordoftherings.net" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt0120737" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 <i><b>The Lord of the Rings: The Fellowship of the Ring</b></i> là bộ phim đầu tiên trong [*The Lord of the Rings* loạt phim](<The_Lord_of_the_Rings_(film_series).md>) của [Peter Jackson](../P/Peter_Jackson.md). Phim do Peter Jackson đạo diễn, trong khi kịch bản được viết bởi Peter Jackson, [Philippa Boyens](../P/Philippa_Boyens.md), [Fran Walsh](../F/Fran_Walsh.md) và Stephen Sinclair.
 
@@ -81,8 +81,8 @@ Bộ phim kể lại cuộc phiêu lưu của [Đoàn Hộ Nhẫn](../F/Fellowsh
 
 ## Tóm tắt {#Synopsis}
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -194,8 +194,8 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../A/Alan_Howard.md" title="Alan Howard">Alan Howard</a></td>
@@ -231,7 +231,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../P/Peter_Corrigan.md" title="Peter Corrigan">Peter Corrigan</a></td>
-<td><a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho</a> (Extended Edition only)
+<td><a href="../O/Otho_Sackville-Baggins.md" title="Otho Sackville-Baggins">Otho</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../M/Marton_Csokas.md" title="Marton Csokas">Marton Csokas</a></td>
@@ -239,7 +239,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../L/Lori_Dungey.md" title="Lori Dungey">Lori Dungey</a></td>
-<td><a href="../M/Mrs_Bracegirdle.md" title="Mrs Bracegirdle">Mrs. Bracegirdle</a> (Extended Edition only)
+<td><a href="../M/Mrs_Bracegirdle.md" title="Mrs Bracegirdle">Bà. Bracegirdle</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../M/Megan_Edwards.md" title="Megan Edwards">Megan Edwards</a></td>
@@ -255,7 +255,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../N/Norman_Forsey.md" title="Norman Forsey">Norman Forsey</a></td>
-<td><a class="mw-redirect" href="../H/Hamfast_Gamgee.md" title="Hamfast Gamgee">Gaffer Gamgee</a> (Extended Edition only)
+<td><a class="mw-redirect" href="../H/Hamfast_Gamgee.md" title="Hamfast Gamgee">Gaffer Gamgee</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../I/Ian_Holm.md" title="Ian Holm">Ian Holm</a></td>
@@ -263,7 +263,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../W/William_Johnson.md" title="William Johnson">William Johnson</a></td>
-<td><a href="../O/Old_Noakes.md" title="Old Noakes">Old Noakes</a> (Extended Edition only)
+<td><a href="../O/Old_Noakes.md" title="Old Noakes">Old Noakes</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../I/Ian_McKellen.md" title="Ian McKellen">Ian McKellen</a></td>
@@ -279,7 +279,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../B/Brent_McIntyre.md" title="Brent McIntyre">Brent McIntyre</a></td>
-<td><a href="../W/Witch-king.md" title="Witch-king">Witch-king</a>
+<td><a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a>
 </td></tr>
 <tr>
 <td><a href="../P/Peter_McKenzie.md" title="Peter McKenzie">Peter McKenzie</a></td>
@@ -295,7 +295,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../E/Elizabeth_Moody.md" title="Elizabeth Moody">Elizabeth Moody</a></td>
-<td><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia</a> (Extended Edition only)
+<td><a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../V/Viggo_Mortensen.md" title="Viggo Mortensen">Viggo Mortensen</a></td>
@@ -323,11 +323,11 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../B/Brian_Sergent.md" title="Brian Sergent">Brian Sergent</a></td>
-<td><a href="Ted_Sandyman.md" title="Ted Sandyman">Ted Sandyman</a> (Extended Edition only)
+<td><a href="Ted_Sandyman.md" title="Ted Sandyman">Ted Sandyman</a> (Chỉ phiên bản mở rộng)
 </td></tr>
 <tr>
 <td><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a></td>
-<td><a href="../G/Gollum.md" title="Gollum">Gollum</a> (voice)
+<td><a href="../G/Gollum.md" title="Gollum">Gollum</a> (giọng nói)
 </td></tr>
 <tr>
 <td><a href="../H/Harry_Sinclair.md" title="Harry Sinclair">Harry Sinclair</a></td>
@@ -343,7 +343,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../H/Hugo_Weaving.md" title="Hugo Weaving">Hugo Weaving</a></td>
-<td><a href="../E/Elrond.md" title="Elrond">Elrond</a><br/><a href="../I/Isildur.md" title="Isildur">Isildur</a> (voice)
+<td><a href="../E/Elrond.md" title="Elrond">Elrond</a><br/><a href="../I/Isildur.md" title="Isildur">Isildur</a> (giọng nói)
 </td></tr>
 <tr>
 <td><a href="../E/Elijah_Wood.md" title="Elijah Wood">Elijah Wood</a></td>
@@ -362,8 +362,8 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 
 <table class="wikitable mw-collapsible">
 <tbody><tr style="background: var(--tg-color-surface-2);">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../G/Gino_Acevedo.md" title="Gino Acevedo">Gino Acevedo</a>, Xander Forterie, Rich Mayberry</td>
@@ -371,15 +371,15 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td>Betty Adams, Timothy Bartlett, Darcy Beehre, Bob Blackwell, Dave Houma, Timothy Patrick, Jo Surgison, Kate Surgison, John Turner, Josh Widdicombe, Geoffrey Hughes, Bernie Lord</td>
-<td><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>
+<td><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a>
 </td></tr>
 <tr>
 <td>Frazier Anderson, Daniel Andrews, Rodney Bane, Mana Hira Davis, Branko Dordevich, Siaosi Fonua, Winham &#34;Mu&#34; Hammond, <a href="../R/Ralph_Johnson.md" title="Ralph Johnson">Ralph Johnson</a>, Timothy Patrick, Nooroa Poa, Chris Reid, Samuel E. Shore, John Turner, James Waterhouse-Brown, Saeed Zamiri</td>
-<td><a href="../O/Orcs.md" title="Orcs">Orcs</a>
+<td><a href="../O/Orcs.md" title="Orcs">Orc</a>
 </td></tr>
 <tr>
 <td><a href="../S/Sala_Baker.md" title="Sala Baker">Sala Baker</a>, Rachel Clentworth, Mana Hira Davis, Ben Fransham, Winham &#34;Mu&#34; Hammond, Lani Jackson, Sharen Maxwell, David J. Muzzerall, Steve Reinsfield, John Turner, James Waterhouse-Brown, Robert Young</td>
-<td><a href="../O/Orcs.md" title="Orcs">Goblins</a>
+<td><a href="../O/Orcs.md" title="Orcs">Goblin</a>
 </td></tr>
 <tr>
 <td>Daniel Andrews, <a href="../S/Sala_Baker.md" title="Sala Baker">Sala Baker</a>, Sean Button, Ryan Carey, Tack Daniel, Peter Daube, Mana Hira Davis, Shane Dawson, Branko Dordevich, Siaosi Fonua, Ben Fransham, Matthew Gibbons, Winham &#34;Mu&#34; Hammond, <a href="../G/Greg_Lane.md" title="Greg Lane">Greg Lane</a>, Tim McLachlan, Nathan Meister, Dean Morganty, Greg &#34;Danger&#34; Morrison, Andrew Munro, Grant Roa, Vincent Roxburgh, Mike Stearne, Andrew Stehlin, Ken Stratton, Tim Wong</td>
@@ -443,7 +443,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../J/Jed_Brophy.md" title="Jed Brophy">Jed Brophy</a>, Tim McLachlan</td>
-<td><a href="../N/Nazgûl.md" title="Nazgûl">Ringwraiths</a>
+<td><a href="../N/Nazgûl.md" title="Nazgûl">Nazgûl</a>
 </td></tr>
 <tr>
 <td>Riley Brophy, Phoebe Gittins, Taea Hartwell</td>
@@ -467,7 +467,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../M/Michael_Elsworth.md" title="Michael Elsworth">Michael Elsworth</a></td>
-<td><a href="../C/Círdan.md" title="Círdan">Círdan Shipwright</a>
+<td><a href="../C/Círdan.md" title="Círdan">Círdan the Shipwright</a>
 </td></tr>
 <tr>
 <td>Warren Green, Stu Johnson, Peter Lyon</td>
@@ -527,7 +527,7 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td><a href="../S/Shane_Rangi.md" title="Shane Rangi">Shane Rangi</a></td>
-<td><a href="../W/Witch-king.md" title="Witch-king">Witch-king</a>
+<td><a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a>
 </td></tr>
 <tr>
 <td><a href="Thomas_Robins.md" title="Thomas Robins">Thomas Robins</a></td>
@@ -559,19 +559,19 @@ Lăng mộ của 35. [Balin](<../B/Balin's_Tomb_(scene).md>) \*\*
 </td></tr>
 <tr>
 <td>Nikki Webster</td>
-<td><a href="../E/Elves.md" title="Elves">Elf</a>
+<td><a href="../E/Elves.md" title="Elves">Tiên</a>
 </td></tr>
 <tr>
 <td><a href="../A/Andy_Serkis.md" title="Andy Serkis">Andy Serkis</a></td>
-<td><a href="../N/Nazgûl.md" title="Nazgûl">Black Rider</a>, <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> (voices)
+<td><a href="../N/Nazgûl.md" title="Nazgûl">Kỵ Sĩ Đen</a>, <a href="../W/Witch-king.md" title="Witch-king">Vua Phù thủy</a> (giọng nói)
 </td></tr>
 <tr>
 <td><a href="../F/Fran_Walsh.md" title="Fran Walsh">Fran Walsh</a></td>
-<td><a href="../N/Nazgûl.md" title="Nazgûl">Screaming Ringwraith</a> (voice)
+<td><a href="../N/Nazgûl.md" title="Nazgûl">Bóng ma gào thét</a> (giọng nói)
 </td></tr>
 <tr>
 <td>Mike Hopkins</td>
-<td><a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> (voice)
+<td><a href="../F/Farmer_Maggot.md" title="Farmer Maggot">Farmer Maggot</a> (giọng nói)
 </td></tr>
 <tr>
 <td>Augie Davis, Ross Duncan, Jason Fitch, <a href="../M/Micha_Kemp.md" title="Micha Kemp">Micha Kemp</a>, Sandro Kopp, Andrea Russell, Pete Smith, Piripi Waretini, Tim Wong, Andrew Van Klei</td>
@@ -607,17 +607,17 @@ Danh sách các địa điểm quay phim, sắp xếp theo thứ tự xuất hi�
 <td>Upper Hutt
 </td></tr>
 <tr>
-<td><a href="The_Shire.md" title="The Shire">The Shire</a> woods</td>
+<td><a href="The_Shire.md" title="The Shire">The Shire</a> rừng</td>
 <td>Otaki Gorge Road</td>
 <td> 
 </td></tr>
 <tr>
-<td><a href="../B/Bucklebury_Ferry.md" title="Bucklebury Ferry">Bucklebury Ferry</a></td>
+<td><a href="../B/Bucklebury_Ferry.md" title="Bucklebury Ferry">Bến phà Bucklebury</a></td>
 <td>Keeling Farm</td>
 <td>Manukau
 </td></tr>
 <tr>
-<td>Forest near <a href="../B/Bree.md" title="Bree">Bree</a></td>
+<td>Rừng gần <a href="../B/Bree.md" title="Bree">Bree</a></td>
 <td>Takaka Hill</td>
 <td>Nelson
 </td></tr>
@@ -642,12 +642,12 @@ Danh sách các địa điểm quay phim, sắp xếp theo thứ tự xuất hi�
 <td>Nelson
 </td></tr>
 <tr>
-<td><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Dimrill Dale</a></td>
+<td><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Thung lũng Dimrill</a></td>
 <td>Lake Alta</td>
 <td>The Remarkables
 </td></tr>
 <tr>
-<td><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Dimrill Dale</a></td>
+<td><a href="../D/Dimrill_Dale.md" title="Dimrill Dale">Thung lũng Dimrill</a></td>
 <td>Mount Owen</td>
 <td>Nelson
 </td></tr>
@@ -743,55 +743,55 @@ Phiên bản mở rộng của *The Fellowship of the Ring* và bộ phim thứ 
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Licensed screen adaptations of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works</b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b>Chuyển thể màn hình các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> được cấp phép</b>
 </th></tr>
 <tr>
-<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Animation</b>
+<th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;"><b>Phim hoạt hình</b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Hobbit_(1967_film).md" title="The Hobbit (1967 film)">The Hobbit</a></i> (1967) · <i><a href="The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)">The Hobbit</a></i> (1977, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">The Lord of the Rings</a></i> (1978) · <i><a href="The_Return_of_the_King_(1980_film).md" title="The Return of the King (1980 film)">The Return of the King</a></i> (1980, Rankin and Bass) · <i><a href="The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md" title="The Lord of the Rings: The War of the Rohirrim">The War of the Rohirrim</a></i> (2024, New Line Cinema)
 </td></tr>
 <tr>
 <th align="center" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="3"><b>Live-action</b><br/><small>(New Line Cinema)</small>
 </th>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a class="mw-selflink selflink">The Fellowship of the Ring</a></i> (2001) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (2002) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (2003)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> series</a></b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b><a href="The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> loạt</a></b>
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">An Unexpected Journey</a></i> (2012) · <i><a href="The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Desolation of Smaug</a></i> (2013) · <i><a href="The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Battle of the Five Armies</a></i> (2014)
 </td></tr>
 <tr>
-<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Other films</b>
+<th align="right" style="font-size: 90%; background:var(--tg-color-surface-3); padding-left: 4px; padding-right: 4px;"><b>Các phim khác</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, upcoming)
+<td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md" title="The Lord of the Rings: The Hunt for Gollum">The Hunt for Gollum</a></i> (2027, sắp ra mắt)
 </td></tr>
 <tr>
-<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>TV series</b>
+<th align="center" style="font-size: 90%; background:var(--tg-color-surface-4); padding-left: 4px; padding-right: 4px;"><b>Loạt phim truyền hình</b>
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-present)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Rings of Power</a></i> (2022-nay)
 </td></tr></tbody></table>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i> film series</a></b>
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="3"><b><a href="The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings </i>loạt phim</a></b>
 </th></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Source material: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
+<td align="center" style="background:var(--tg-color-surface-4); font-size: 90%;" colspan="3">Nguồn tư liệu: <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> · <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Films
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Phim
 </th>
-<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a class="mw-selflink selflink">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">extended edition</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">extended edition</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">extended edition</a>)
+<td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a class="mw-selflink selflink">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">ấn bản mở rộng</a>)· <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md" title="The Lord of the Rings: The Two Towers (extended edition)">ấn bản mở rộng</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md" title="The Lord of the Rings: The Return of the King (extended edition)">ấn bản mở rộng</a>)
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Music
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Âm nhạc
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack">The Fellowship of the Ring</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack">The Two Towers</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Two Towers - The Complete Recordings">The Complete Recordings</a>) · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md" title="The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack">The Return of the King</a></i> (<a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md" title="The Lord of the Rings: The Return of the King - The Complete Recordings">The Complete Recordings</a>) · &#34;<a href="../M/May_It_Be.md" title="May It Be">May It Be</a>&#34; · &#34;<a href="../G/Gollum&#39;s_Song.md" title="Gollum&#39;s Song">Gollum&#39;s Song</a>&#34; · &#34;<a href="../I/Into_the_West.md" title="Into the West">Into the West</a>&#34;
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Tie-in books
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;" rowspan="4">Sách ăn theo
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">Official Movie Guide</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Making_of_the_Movie_Trilogy.md" title="The Lord of the Rings: The Making of the Movie Trilogy">The Making of the Movie Trilogy</a></i> · <i><a href="The_Lord_of_the_Rings_Complete_Visual_Companion.md" title="The Lord of the Rings Complete Visual Companion">Complete Visual Companion</a></i>  · <i><a href="The_Lord_of_the_Rings_Trilogy_Photo_Guide.md" title="The Lord of the Rings Trilogy Photo Guide">Photo Guide</a></i> · <i><a href="../G/Gollum%253A_How_We_Made_Movie_Magic.md" title="Gollum: How We Made Movie Magic">Gollum: How We Made Movie Magic</a></i> · <i><a href="There_and_Back_Again%253A_An_Actor&#39;s_Tale.md" title="There and Back Again: An Actor&#39;s Tale">There and Back Again: An Actor&#39;s Tale</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Weapons_and_Warfare.md" title="The Lord of the Rings: Weapons and Warfare">Weapons and Warfare</a></i> · <i><a href="The_Art_of_The_Lord_of_the_Rings_(film_book).md" title="The Art of The Lord of the Rings (film book)">The Art of The Lord of the Rings</a></i> · <i><a href="The_Music_of_the_Lord_of_the_Rings_Films.md" title="The Music of the Lord of the Rings Films">The Music of the Lord of the Rings Films</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook.md" title="The Lord of the Rings Location Guidebook">The Lord of the Rings Location Guidebook</a></i> · <i><a href="The_Lord_of_the_Rings_Location_Guidebook%253A_Travel_Diary.md" title="The Lord of the Rings Location Guidebook: Travel Diary">Travel Diary</a></i> · <i><a href="The_Lord_of_the_Rings_Sketchbook.md" title="The Lord of the Rings Sketchbook">Sketchbook</a></i>
 </td></tr>
@@ -811,12 +811,12 @@ Phiên bản mở rộng của *The Fellowship of the Ring* và bộ phim thứ 
 <td style="font-size: 90%; padding-left: 4px;"><i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md" title="The Lord of the Rings: The Return of the King Visual Companion">Visual Companion</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md" title="The Lord of the Rings: The Return of the King Photo Guide">Photo Guide</a></i> · <i><a href="The_Art_of_The_Return_of_the_King.md" title="The Art of The Return of the King">The Art of The Return of the King</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Video games
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px; padding-left: 4px;">Trò chơi điện tử
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers_(video_game).md" title="The Lord of the Rings: The Two Towers (video game)">The Two Towers</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Return of the King</a></i> · <i><a href="The_Lord_of_the_Rings%253A_The_Third_Age.md" title="The Lord of the Rings: The Third Age">The Third Age</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Tactics.md" title="The Lord of the Rings: Tactics">Tactics</a></i> · <i><a href="The_Lord_of_the_Rings%253A_Conquest.md" title="The Lord of the Rings: Conquest">Conquest</a></i> ·  <i><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></i> · <i><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings</a></i>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Characters
+<th align="right" style="background:var(--tg-color-surface-4); padding-right: 4px;">Nhân vật
 </th>
 <td style="font-size: 90%; padding-left: 4px;" colspan="2"><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a> · <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> · <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> · <a href="../M/Meriadoc_Brandybuck.md" title="Meriadoc Brandybuck">Merry</a> · <a href="../P/Peregrin_Took.md" title="Peregrin Took">Pippin</a> · <a href="../G/Gandalf.md" title="Gandalf">Gandalf</a> · <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> · <a href="../B/Boromir.md" title="Boromir">Boromir</a> · <a href="../L/Legolas.md" title="Legolas">Legolas</a> · <a href="../G/Gimli.md" title="Gimli">Gimli</a> · <a href="../E/Elrond.md" title="Elrond">Elrond</a> · <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> · <a href="Théoden.md" title="Théoden">Théoden</a> · <a href="../_/Éomer.md" title="Éomer">Éomer</a> · <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a> · <a href="../S/Saruman.md" title="Saruman">Saruman</a> · <a href="../S/Sauron.md" title="Sauron">Sauron</a> · <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> · <a href="../D/Denethor.md" title="Denethor">Denethor</a> · <a href="../F/Faramir.md" title="Faramir">Faramir</a> · <a href="../G/Gollum.md" title="Gollum">Gollum</a> · <a href="../G/Gríma.md" title="Gríma">Gríma</a> · <a href="Treebeard.md" title="Treebeard">Treebeard</a> · <a href="../C/Celeborn.md" title="Celeborn">Celeborn</a> · <a href="../H/Haldir.md" title="Haldir">Haldir</a> · <a href="../L/Lurtz.md" title="Lurtz">Lurtz</a> · <a href="../S/Sharku.md" title="Sharku">Sharku</a> · <a href="../G/Grishnákh.md" title="Grishnákh">Grishnákh</a>
 </td></tr></tbody></table>

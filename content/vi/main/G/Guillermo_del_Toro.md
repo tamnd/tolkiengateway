@@ -50,7 +50,7 @@ Mặc dù từng tuyên bố rằng mình «yêu thích» The Hobbit, việc Del
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Tôi chưa bao giờ say mê tưởng tượng anh hùng. Không có gì cả. Tôi không thích những anh chàng nhỏ bé và những con rồng, những bàn chân đầy lông, những người hobbit -- Tôi chưa bao giờ thích những thứ đó cả. Tôi không thích kiếm và ma thuật, tôi ghét tất cả những thứ đó.
 </p>
-<p class="tg-quote-footer"><cite>Salon.com, tháng 10 năm 2006 (Phỏng vấn từ tháng 5) <a class="external autonumber" href="http://www.salon.com/ent/audiofile/2006/10/12/conversations_toro/" rel="noreferrer noopener" target="_blank">[3]</a></cite></p>
+<p class="tg-quote-footer"><cite>Salon.com, October 2006 (Interview from May) <a class="external autonumber" href="http://www.salon.com/ent/audiofile/2006/10/12/conversations_toro/" rel="noreferrer noopener" target="_blank">[3]</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Liên kết ngoài {#External_links}

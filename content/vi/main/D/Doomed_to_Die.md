@@ -84,7 +84,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../S/Sophia_Nomvete.md" title="Sophia Nomvete">Sophia Nomvete</a></td>
-<td><a href="Disa.md" title="Disa">Princess Disa</a>
+<td><a href="Disa.md" title="Disa">Công chúa Disa</a>
 </td></tr>
 <tr>
 <td><a href="../R/Robert_Aramayo.md" title="Robert Aramayo">Robert Aramayo</a></td>
@@ -92,7 +92,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../B/Benjamin_Walker.md" title="Benjamin Walker">Benjamin Walker</a></td>
-<td><a href="../G/Gil-galad.md" title="Gil-galad">High King Gil-galad</a>
+<td><a href="../G/Gil-galad.md" title="Gil-galad">Đại Vương Gil-galad</a>
 </td></tr>
 <tr>
 <td><a href="../M/Morfydd_Clark.md" title="Morfydd Clark">Morfydd Clark</a></td>

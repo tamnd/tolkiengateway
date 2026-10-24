@@ -22,8 +22,8 @@ images:
   - "John_Howe_-_Pass_the_Doors_of_Dol_Guldur.jpg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với bạn và ai đã gửi cho bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
@@ -82,7 +82,7 @@ Trong [T.A.](../T/Third_Age.md) [2460](../T/Third_Age_2460.md), Sauron trở l�
 
 <b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd><a href="../E/Elrond.md" title="Elrond">Elrond</a> mentions a &#34;watchful peace&#34; that as of <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a> has lasted for &#34;four hundred years&#34;, referring to the absence of Sauron. In the context of the movie (which is quite different than the canonical chronology), Sauron had been inactive between T.A. 2541 and 2941, when the Necromancer first emerges.</dd></dl>
+<dl><dd><a href="../E/Elrond.md" title="Elrond">Elrond</a> đề cập đến "nền hòa bình thận trọng" tính đến <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2941.md" title="Third Age 2941">2941</a> đã kéo dài được "bốn trăm năm", ám chỉ sự vắng mặt của Sauron. Trong bối cảnh của bộ phim (khá khác với trình tự thời gian kinh điển), Sauron đã không hoạt động trong khoảng thời gian từ T.A. 2541 đến 2941, khi Necromancer lần đầu tiên xuất hiện.</dd></dl>
 
 <span></span>
 
@@ -109,5 +109,5 @@ Trong [T.A.](../T/Third_Age.md) [2460](../T/Third_Age_2460.md), Sauron trở l�
 </ol></div>
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
-<tbody><tr><td width="27.5%"><div class="tg-seq-label">Preceded by</div><div class="tg-seq-value"><a class="mw-redirect" href="../A/Angmar_War.md" title="Angmar War">Angmar War</a></div></td><td width="45%"><div class="tg-seq-value">Major events of <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></div><div class="tg-seq-label"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2063.md" title="Third Age 2063">2063</a> - <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2460.md" title="Third Age 2460">2460</a></div></td><td width="27.5%"><div class="tg-seq-label">Followed by</div><div class="tg-seq-value"><a href="War_of_the_Dwarves_and_Dragons.md" title="War of the Dwarves and Dragons">War of the Dwarves and Dragons</a></div></td></tr>
+<tbody><tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a class="mw-redirect" href="../A/Angmar_War.md" title="Angmar War">Cuộc chiến Angmar</a></div></td><td width="45%"><div class="tg-seq-value">Các sự kiện chính của <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></div><div class="tg-seq-label"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2063.md" title="Third Age 2063">2063</a> - <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2460.md" title="Third Age 2460">2460</a></div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="War_of_the_Dwarves_and_Dragons.md" title="War of the Dwarves and Dragons">Cuộc chiến giữa Người Lùn và Rồng</a></div></td></tr>
 </tbody></table></div>

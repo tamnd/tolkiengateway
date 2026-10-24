@@ -17,8 +17,8 @@ images:
   - "CdxIconReference.svg"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Sources</div></div><div class="ext-floatingui-content">This article or section needs more/new/more-detailed <b><a href="../../help/R/References.md" title="Help:References">sources</a></b> to conform to a higher standard and to provide proof for claims made.<blockquote class="tg-quote noexcerpt">
-<p>Who told you, and who sent you?
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c9/CdxIconReference.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Nguồn</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần <b><a href="../../help/R/References.md" title="Help:References">nguồn</a></b> nhiều/mới/chi tiết hơn để tuân thủ tiêu chuẩn cao hơn và cung cấp bằng chứng cho những tuyên bố được đưa ra.<blockquote class="tg-quote noexcerpt">
+<p>Ai đã nói với bạn và ai đã gửi cho bạn?
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
@@ -29,26 +29,26 @@ images:
 
 "**Hop núi mù sương**"
 
-<dl><dd>The lyrics describe an encounter with the police after getting stoned in the park, culminating in a resolution to leave for the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a> (&#34;<i>I&#39;m packing my bags for the Misty Mountains / Where the spirits go now</i>&#34;).</dd></dl>
+<dl><dd>Lời bài hát mô tả cuộc chạm trán với cảnh sát sau khi bị ném đá trong công viên, đỉnh điểm là quyết định lên đường đến <a href="../M/Misty_Mountains.md" title="Misty Mountains">Dãy Núi Sương Mù</a> ("<i>Tôi đang thu dọn hành lý cho Dãy Núi Sương Mù / Giờ các linh hồn đã đi đâu</i>").</dd></dl>
 
 "**Vượt qua những ngọn đồi và nơi xa xôi**"
 
-<dl><dd>Believed to describe <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> and <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a>&#39;s discovery of the <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">One Ring</a>.</dd></dl>
+<dl><dd>Được cho là mô tả việc <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i> và <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> phát hiện ra <a class="mw-redirect" href="../O/One_Ring.md" title="One Ring">Nhẫn Chúa</a>.</dd></dl>
 
 "**Trận chiến Evermore**"
 
-<dl><dd>Mentions the <a class="mw-redirect" href="../R/Ringwraiths.md" title="Ringwraiths">Ringwraiths</a> and the <a href="../S/Sauron.md" title="Sauron">Dark Lord</a>. It also mentions the &#34;Prince of Peace&#34;, a messianic figure who could be <a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a> or <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>, who &#34;embraced the gloom&#34; and &#34;walked the night alone&#34;. Also mentions a &#34;Queen of Light,&#34; which could allude to <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>.</dd></dl>
+<dl><dd>Đề cập đến <a class="mw-redirect" href="../R/Ringwraiths.md" title="Ringwraiths">Nazgûl</a> và <a href="../S/Sauron.md" title="Sauron">Chúa tể Bóng tối</a>. Nó cũng đề cập đến "Thân vương of Peace", một nhân vật thiên sai có thể là <a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a> hoặc <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a>, người "ôm lấy bóng tối" và "đi trong đêm một mình". Cũng đề cập đến "Nữ hoàng ánh sáng", có thể ám chỉ đến <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>.</dd></dl>
 
 "**Ramble On**"
 
-<dl><dd>Mentions <a href="../G/Gollum.md" title="Gollum">Gollum</a>, the land of <a href="../M/Mordor.md" title="Mordor">Mordor</a>, and &#34;the evil one&#34; (possibly Sauron).</dd></dl>
+<dl><dd>Đề cập đến <a href="../G/Gollum.md" title="Gollum">Gollum</a>, vùng đất của <a href="../M/Mordor.md" title="Mordor">Mordor</a> và "kẻ ác" (có thể là Sauron).</dd></dl>
 
 "**Nấc thang lên thiên đường**"
 
-<dl><dd>Several ambiguous lines have been interpreted as oblique references to the legendarium.
-<dl><dd>&#34;<i>There&#39;s a lady who&#39;s sure / All that glitters is gold</i>&#34; may be a reference to the verse &#34;All that is gold does not glitter&#34; which is repeated several times in the Lord of the Rings.</dd>
-<dd>&#34;<i>There walks a lady we all know / Who shines white light and wants to show / How everything still turns to gold</i>&#34; may refer to Galadriel, though this is disputed.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></dd>
-<dd>&#34;<i>There&#39;s a feeling I get when I look to the <a class="mw-redirect" href="../U/Uttermost_West.md" title="Uttermost West">West</a> / And my spirit is crying for leaving</i>&#34; may refer to Frodo&#39;s brief time in the Shire after the conclusion of the <a href="../Q/Quest_of_the_Ring.md" title="Quest of the Ring">Quest of the Ring</a>.</dd></dl></dd></dl>
+<dl><dd>Một số dòng không rõ ràng đã được hiểu là những tham chiếu gián tiếp đến truyền thuyết.
+<dl><dd>“<i>Có một quý cô chắc chắn/Tất cả những gì lấp lánh đều là vàng</i>” có thể ám chỉ đến câu “Tất cả những gì là vàng thì không lấp lánh” được lặp đi lặp lại nhiều lần trong Chúa tể những chiếc nhẫn.</dd>
+<dd>"<i>Có một người phụ nữ mà chúng ta đều biết / Người tỏa ra ánh sáng trắng và muốn thể hiện / Làm sao mọi thứ vẫn biến thành vàng</i>" có thể ám chỉ Galadriel, mặc dù điều này còn gây tranh cãi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></dd>
+<dd>"<i>Tôi có cảm giác khi nhìn vào <a class="mw-redirect" href="../U/Uttermost_West.md" title="Uttermost West">Phương Tây</a> / Và tâm hồn tôi đang khóc đòi rời đi</i>" có thể ám chỉ khoảng thời gian ngắn ngủi của Frodo trong Shire sau khi kết thúc <a href="../Q/Quest_of_the_Ring.md" title="Quest of the Ring">Quest of the Ring</a>.</dd></dl></dd></dl>
 
 ## Liên kết ngoài {#External_Links}
 

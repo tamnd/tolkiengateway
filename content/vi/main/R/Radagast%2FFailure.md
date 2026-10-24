@@ -21,7 +21,7 @@ Cảm xúc của [Tolkien](../J/J.R.R._Tolkien.md) về việc có Radagast hay 
 Trong nỗ lực tạo ra Chỉ mục cho *[The Return of the King](../T/The_Return_of_the_King.md)* trong [1954](../_/1954.md), Tolkien đã viết một bài luận về [Istari](../W/Wizards.md). Trong đó ông tuyên bố rõ ràng rằng Radagast đã thất bại:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Indeed, of all the Istari, one only remained faithful [Gandalf], and he was the last-comer. For Radagast, the fourth, became enamoured of the many beasts and birds that dwelt in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, and forsook <a href="../E/Elves.md" title="Elves">Elves</a> and <a href="../M/Men.md" title="Men">Men</a>, and spent his days among wild creatures.
+<p>Quả thực, trong tất cả Istari, chỉ có một người duy nhất là chung thủy [Gandalf], và ông là người đến sau cùng. Vì Radagast, người thứ tư, trở nên say mê nhiều loài thú và chim sống ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a>, từ bỏ <a href="../E/Elves.md" title="Elves">Tiên tộc</a> và <a href="../M/Men.md" title="Men">Con Người</a>, và dành cả ngày của mình giữa những sinh vật hoang dã.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-UTIstari_1-0" class="reference"><a href="#cite_note-UTIstari-1">[1]</a></sup></cite></p>
 </blockquote>
@@ -29,7 +29,7 @@ Trong nỗ lực tạo ra Chỉ mục cho *[The Return of the King](../T/The_Ret
 Ông thậm chí còn đi xa đến mức gợi ý rằng chỉ Gandalf quay trở lại [Tối đa Phương Tây](../V/Valinor.md):
 
 <blockquote class="tg-quote noexcerpt">
-<p>Wilt thou learn the lore || that was long secret<br/>of the Five that came || from a far country?<br/>One only returned. || Others never again
+<p>Bạn có muốn tìm hiểu truyền thuyết || đó là bí mật lâu dài<br/>của Năm người đã đến || từ một đất nước xa xôi?<br/>Một người chỉ trở về. || Những người khác không bao giờ nữa
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-UTIstari_1-1" class="reference"><a href="#cite_note-UTIstari-1">[1]</a></sup></cite></p>
 </blockquote>
@@ -45,7 +45,7 @@ Theo [John D. Rateliff](../J/John_D._Rateliff.md), cảm nhận của Tolkien v�
 Quả thực cả hai đều là những sinh vật khá khác biệt so với Saruman:
 
 <blockquote class="tg-quote noexcerpt">
-<p>His [Sauron&#39;s] cynicism ... seemed fully justified in Saruman. Gandalf he did not understand. But certainly he [Sauron] had already become evil, and therefore stupid, enough to imagine that his [Gandalf&#39;s] different behaviour [from Saruman&#39;s] was due simply to weaker intelligence and lack of firm masterful purpose. He [Gandalf] was only [in Sauron&#39;s view] a rather cleverer Radagast - cleverer, because it is more profitable (more productive of power) to become absorbed in the study of people than of animals.
+<p>Sự hoài nghi [Sauron] của ông ... dường như hoàn toàn chính đáng trong Saruman. Gandalf anh không hiểu. Nhưng chắc chắn ông [Sauron] đã trở nên xấu xa, và do đó ngu ngốc, đủ để tưởng tượng rằng hành vi khác biệt của [Gandalf] của ông [với Saruman] chỉ đơn giản là do trí thông minh yếu hơn và thiếu mục đích làm chủ vững chắc. Ông [Gandalf] chỉ [theo quan điểm Sauron] là một Radagast khá thông minh hơn - thông minh hơn, bởi vì sẽ có lợi hơn (sức mạnh hiệu quả hơn) khi say mê nghiên cứu về con người hơn là động vật.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup></cite></p>
 </blockquote>
@@ -59,7 +59,7 @@ Tolkien kể ngắn gọn về một hội đồng của [Valar](../V/Valar.md) 
 Có lẽ bạn có thể tìm thấy hình ảnh rõ ràng nhất về cảm xúc của Tolkien về Radagast trong đoạn trích dẫn này:
 
 <blockquote class="tg-quote noexcerpt">
-<p>He [Gandalf] differed from Radagast and Saruman in that he never turned aside from his appointed mission (&#39;I was the Enemy of Sauron&#39;) and was unsparing of himself. Radagast was fond of beasts and birds, and found them easier to deal with; he did not become proud and domineering, but neglectful and easygoing, and he had very little to do with Elves or Men although obviously resistance to Sauron had to be sought chiefly in their cooperation.
+<p>Ông [Gandalf] khác với Radagast và Saruman ở chỗ ông không bao giờ từ bỏ nhiệm vụ được giao ("Tôi là Kẻ Thù của Sauron') và không hề tiếc nuối bản thân. Radagast thích thú và chim, và thấy chúng dễ đối phó hơn; ông không trở nên kiêu ngạo và độc đoán, mà lơ là và dễ dãi, và ông có rất ít liên quan đến Tiên tộc hoặc Con Người mặc dù rõ ràng sự phản kháng đối với Sauron chủ yếu phải được tìm kiếm trong sự hợp tác của họ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-RC.245_6-0" class="reference"><a href="#cite_note-RC.245-6">[5]</a></sup></cite></p>
 </blockquote>

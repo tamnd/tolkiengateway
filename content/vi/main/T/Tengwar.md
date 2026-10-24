@@ -116,7 +116,7 @@ Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_re
 <th colspan="2" style="width:6em">Labiovelar
 </th></tr>
 <tr>
-<td><b>Tiếng nổ<br/>vô thanh</b>
+<td><b>Voiceless<br/>plosives</b>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">q</span>
 </td>
@@ -135,7 +135,7 @@ Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_re
 <td><big>kʷ</big>
 </td></tr>
 <tr>
-<td><b>Giọng nói<br/>được lồng tiếng</b>
+<td><b>Voiced<br/>plosives</b>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">w</span>
 </td>
@@ -154,15 +154,15 @@ Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_re
 <td><big>gʷ</big>
 </td></tr>
 <tr>
-<td><b>Thuốc nổ<br/>được hút khí</b>
+<td><b>Aspirated<br/>plosives</b>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">Q</span>
 </td>
-<td><big>P</big>
+<td><big>pʰ</big>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">!</span>
 </td>
-<td><big>th</big>
+<td><big>tʰ</big>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">A</span>
 </td>
@@ -173,7 +173,7 @@ Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_re
 <td><big>kʰʷ</big>
 </td></tr>
 <tr>
-<td><b>Thuốc nổ<br/>thoáng khí</b>
+<td><b>Breathy<br/>plosives</b>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">W</span>
 </td>
@@ -192,7 +192,7 @@ Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_re
 <td><big>gʱʷ</big>
 </td></tr>
 <tr>
-<td><b>Âm xát<br/>vô thanh</b>
+<td><b>Voiceless<br/>fricatives</b>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">e</span>
 </td>
@@ -211,7 +211,7 @@ Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_re
 <td><big>xʷ</big>
 </td></tr>
 <tr>
-<td><b>lồng tiếng<br/>âm thanh</b>
+<td><b>Voiced<br/>fricatives</b>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">r</span>
 </td>
@@ -230,7 +230,7 @@ Bảng dưới đây cung cấp các giá trị **lý thuyết**<sup id="cite_re
 <td><big>ɣʷ</big>
 </td></tr>
 <tr>
-<td><b>Mũi vô thanh<br/></b>
+<td><b>Voiceless<br/>nasals</b>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">y</span>
 </td>
@@ -404,7 +404,7 @@ Ngoài ra, Tengwar được gán các giá trị số.
 <tr>
 <th>
 </th>
-<th colspan="8"><b>Additional Tengwar:</b>
+<th colspan="8"><b>Tengwar bổ sung:</b>
 </th></tr>
 <tr>
 <td>
@@ -513,7 +513,7 @@ Lưu ý rằng dấu gạch ngang cho biết khi nào chữ cái được sử d
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">a</span>
 </td>
-<td>ch (như trong <i><b>ch</b>ur<b>ch</b></i>)<br/>Calma/Ché
+<td>ch (as in <i><b>ch</b>ur<b>ch</b></i>)<br/>Calma/Ché
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">z</span>
 </td>
@@ -547,11 +547,11 @@ Lưu ý rằng dấu gạch ngang cho biết khi nào chữ cái được sử d
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">d</span>
 </td>
-<td>sh<br/>Aha/Bà
+<td>sh<br/>Aha/Shé
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">c</span>
 </td>
-<td>ch/h (như trong <i>lo<b>ch</b></i>)<br/>Hwesta/Aha (hoặc Oha)
+<td>ch/h (as in <i>lo<b>ch</b></i>)<br/>Hwesta/Aha (or Oha)
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">4</span>
@@ -568,7 +568,7 @@ Lưu ý rằng dấu gạch ngang cho biết khi nào chữ cái được sử d
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">v</span>
 </td>
-<td>gh<br/>Độc nhất/Agha
+<td>gh<br/>Unque/Agha
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">5</span>
@@ -605,7 +605,7 @@ Lưu ý rằng dấu gạch ngang cho biết khi nào chữ cái được sử d
 <td>’?<br/>’á
 </td></tr>
 <tr>
-<th colspan="8">Additional Tengwar:
+<th colspan="8">Tengwar bổ sung:
 </th></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">7</span>
@@ -652,7 +652,7 @@ Lưu ý rằng dấu gạch ngang cho biết khi nào chữ cái được sử d
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">o</span>
 </td>
-<td>cái gì<br/>Hwesta Sindarinwa/Whí
+<td>wh<br/>Hwesta Sindarinwa/Whí
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">.</span>
 </td>
@@ -682,7 +682,7 @@ Sau đây là một dạng đầy đủ, chủ yếu liên quan đến phía b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">a</span>
 </td>
-<td>ch (như trong <i><b>ch</b>ur<b>ch</b></i>)<br/>Calma/Ché
+<td>ch (as in <i><b>ch</b>ur<b>ch</b></i>)<br/>Calma/Ché
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">z</span>
 </td>
@@ -716,11 +716,11 @@ Sau đây là một dạng đầy đủ, chủ yếu liên quan đến phía b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">d</span>
 </td>
-<td>sh<br/>Aha/Bà
+<td>sh<br/>Aha/Shé
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">c</span>
 </td>
-<td>ch/h (như trong <i>lo<b>ch</b></i><br/>Hwesta/Aha
+<td>ch/h (as in <i>lo<b>ch</b></i><br/>Hwesta/Aha
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">4</span>
@@ -737,7 +737,7 @@ Sau đây là một dạng đầy đủ, chủ yếu liên quan đến phía b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">v</span>
 </td>
-<td>gh<br/>Độc nhất/Agha
+<td>gh<br/>Unque/Agha
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">5</span>
@@ -774,7 +774,7 @@ Sau đây là một dạng đầy đủ, chủ yếu liên quan đến phía b�
 <td>a<br/>&#39;a
 </td></tr>
 <tr>
-<th colspan="8">Additional Tengwar:
+<th colspan="8">Tengwar bổ sung:
 </th></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">7</span>
@@ -821,7 +821,7 @@ Sau đây là một dạng đầy đủ, chủ yếu liên quan đến phía b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">o</span>
 </td>
-<td>cái gì<br/>Hwesta Sindarinwa/Whí
+<td>wh<br/>Hwesta Sindarinwa/Whí
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">.</span>
 </td>
@@ -834,7 +834,7 @@ Sau đây là một dạng đầy đủ, chủ yếu liên quan đến phía b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">~B</span>
 </td>
-<td>tôi-/y-
+<td>i-/y-
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">]</span>
 </td>
@@ -1019,7 +1019,7 @@ Thông tin thêm về phần mềm Tengwar trên trang web <a class="external te
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Thuộc về Con Người</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Mannish miền Bắc</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Ngôn ngữ Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
+<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Northern Mannish</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Language of Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Dwarvish

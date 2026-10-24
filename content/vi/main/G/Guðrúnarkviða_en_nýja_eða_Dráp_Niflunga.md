@@ -23,7 +23,7 @@ infobox:
 
 <table class="tg-infobox floatright">
   <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
-  <tr><th colspan="2" class="tg-infobox-title"><span>Guðrúnarkviða và nýja eða Dráp Niflunga</span></th></tr>
+  <tr><th colspan="2" class="tg-infobox-title"><span>Guðrúnarkviða en nýja eða Dráp Niflunga</span></th></tr>
   <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
   <tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">The New Lay of Gudrún or The Slaying of the Niflungs</td></tr>
   <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">1930s</td></tr>

@@ -21,10 +21,10 @@ images:
   - "Tolkien_1916.jpg"
 ---
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_1916.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/Tolkien_1916.jpg/300px-Tolkien_1916.jpg" decoding="async" loading="lazy" width="300" height="447" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b4/Tolkien_1916.jpg 1.5x" data-file-width="327" data-file-height="487"/></a><figcaption>Tolkien in 1916, wearing his British Army uniform.</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_1916.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b4/Tolkien_1916.jpg/300px-Tolkien_1916.jpg" decoding="async" loading="lazy" width="300" height="447" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b4/Tolkien_1916.jpg 1.5x" data-file-width="327" data-file-height="487"/></a><figcaption>Tolkien năm 1916, mặc quân phục Quân đội Anh.</figcaption></figure>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Who battled have with bloody hands<br/>Through evil times in barren lands,<br/>To whom the voice of guns<br/>Speaks and no longer stuns...
+<p>Ai đã chiến đấu với đôi bàn tay đẫm máu<br/>Qua thời gian ác độc ở vùng đất cằn cỗi,<br/>Tiếng súng<br/>Nói đến và không còn choáng váng...
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Geoffrey_Bache_Smith.md" title="Geoffrey Bache Smith">Geoffrey Bache Smith</a>, <i><a href="../A/A_Spring_Harvest.md" title="A Spring Harvest">A Spring Harvest</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -50,7 +50,7 @@ images:
 
 ## Dòng thời gian {#Timeline}
 
-<dl><dd><b>See also <i><a class="extiw" href="http://en.wikipedia.org/wiki/Timeline_of_World_War_I" title="wikipedia:Timeline of World War I">Timeline of World War I</a></i> at Wikipedia</b></dd></dl>
+<dl><dd><b>Xem thêm <i><a class="extiw" href="http://en.wikipedia.org/wiki/Timeline_of_World_War_I" title="wikipedia:Timeline of World War I">Timeline of World War I</a></i> tại Wikipedia</b></dd></dl>
 
 ### 1914 {#1914}
 

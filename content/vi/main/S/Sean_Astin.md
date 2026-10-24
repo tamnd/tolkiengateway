@@ -94,7 +94,7 @@ Cha mẹ anh đều làm việc trong lĩnh vực điện ảnh: cha anh John As
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Sam là người bạn tốt nhất. Dù dày hay mỏng, anh luôn ở đó. Tôi thấy mình bị thu hút bởi phẩm chất đó trong vai diễn của mình, hướng tới ý tưởng về một người nghiêm túc, trung thành và tử tế.
 </p>
-<p class="tg-quote-footer"><cite>Sean Astin, Lordoftherings.net</cite></p>
+<p class="tg-quote-footer"><cite>Sean Astin, lordoftherings.net</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 ## Giải thưởng {#Awards}

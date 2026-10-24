@@ -408,7 +408,7 @@ Trong suốt thời gian ở Trung Địa, Gandalf thường được nhìn th�
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/G/Gandalf.mp3.md" title="File:Gandalf.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/G/Gandalf.mp3.md" title="File:Gandalf.mp3">Tệp:Gandalf.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/G/Gandalf.mp3.md" title="File:Gandalf.mp3">File:Gandalf.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Ardamir" title="User:Ardamir">Ardamir</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -423,7 +423,7 @@ Trong suốt thời gian ở Trung Địa, Gandalf thường được nhìn th�
 </tr>
 <tr>
 <td rowspan="2"><span class="plainlinks"><span typeof="mw:File"><a href="../../file/Q/Quenya_-_Olórin.mp3.md" title="File:Quenya - Olórin.mp3"><img src="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/38px-Sound-icon.png" decoding="async" loading="lazy" width="38" height="29" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/57px-Sound-icon.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/Sound-icon.png/76px-Sound-icon.png 2x" data-file-width="128" data-file-height="96"/></a></span></span></td>
-<td style="text-align:center"><b><a href="../../file/Q/Quenya_-_Olórin.mp3.md" title="File:Quenya - Olórin.mp3">Tệp:Quenya - Olórin.mp3</a></b></td>
+<td style="text-align:center"><b><a href="../../file/Q/Quenya_-_Olórin.mp3.md" title="File:Quenya - Olórin.mp3">File:Quenya - Olórin.mp3</a></b></td>
 </tr>
 <tr>
 <td style="font-size: small; padding-bottom: 3px; text-align:center;">Bởi <a href="https://tolkiengateway.net/wiki/User:Gilgamesh" title="User:Gilgamesh">Gilgamesh</a>. (<a class="extiw" href="http://en.wikipedia.org/wiki/Media_help" title="wikipedia:Media help">Trợ giúp về phương tiện truyền thông</a>)</td>
@@ -470,7 +470,7 @@ Trong các bản thảo sơ khai của *[The Hobbit](../T/The_Hobbit.md)*, Tolki
 
 ## Nguồn cảm hứng {#Inspiration}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Georg_von_Rosen_-_Oden_som_vandringsman,_1886_(Odin,_the_Wanderer).jpg.md"><img src="https://tolkiengateway.net/w/images/1/1d/Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg" decoding="async" loading="lazy" width="250" height="367" class="mw-file-element" data-file-width="250" data-file-height="367"/></a><figcaption><i>Oden som vandringsman</i> (<i>Odin the Wanderer</i>) của Georg von Rosen</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/G/Georg_von_Rosen_-_Oden_som_vandringsman,_1886_(Odin,_the_Wanderer).jpg.md"><img src="https://tolkiengateway.net/w/images/1/1d/Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg" decoding="async" loading="lazy" width="250" height="367" class="mw-file-element" data-file-width="250" data-file-height="367"/></a><figcaption><i>Oden som vandringsman</i> (<i>Odin the Wanderer</i>) by Georg von Rosen</figcaption></figure>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Josef_Madlener_-_Der_Berggeist.jpg.md"><img src="https://tolkiengateway.net/w/images/9/9d/Josef_Madlener_-_Der_Berggeist.jpg" decoding="async" loading="lazy" width="292" height="399" class="mw-file-element" data-file-width="292" data-file-height="399"/></a><figcaption><i><a href="../D/Der_Berggeist.md" title="Der Berggeist">Der Berggeist</a></i> by <a href="../J/Josef_Madlener.md" title="Josef Madlener">Josef Madlener</a></figcaption></figure>
 
@@ -491,7 +491,7 @@ Tolkien có một tấm bưu thiếp mang nhãn *[Der Berggeist](../D/Der_Bergge
 		<li class="gallerybox" style="width: 255px">
 			<div class="thumb" style="width: 250px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/S/Sagan_om_Ringen_-_Gandalf.png.md" title="Gandalf in Sagan om Ringen"><img alt="Gandalf in Sagan om Ringen" src="https://tolkiengateway.net/w/images/thumb/2/23/Sagan_om_Ringen_-_Gandalf.png/205px-Sagan_om_Ringen_-_Gandalf.png" decoding="async" loading="lazy" width="205" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/Sagan_om_Ringen_-_Gandalf.png/307px-Sagan_om_Ringen_-_Gandalf.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/Sagan_om_Ringen_-_Gandalf.png/410px-Sagan_om_Ringen_-_Gandalf.png 2x" data-file-width="1393" data-file-height="1020"/></a></span></div>
 			<div class="gallerytext">
-<p>Gandalf trong <i><a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)">Sagan om Ringen</a></i>
+<p>Gandalf in <i><a href="../S/Sagan_om_Ringen_(1971_film).md" title="Sagan om Ringen (1971 film)">Sagan om Ringen</a></i>
 </p>
 			</div>
 		</li>

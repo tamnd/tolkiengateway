@@ -29,8 +29,8 @@ Ufthak bị [Shelob](../S/Shelob.md) bắt và đầu độc rồi bị nhốt t
 
 **2003:** <i><b><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md" title="The Lord of the Rings: The Return of the King (video game)">The Lord of the Rings: The Return of the King (trò chơi điện tử)</a></b></i>
 
-<dl><dd>Although not explicitly identified by name, a lone Orc can be found in the &#34;Shelob&#39;s Lair&#34; level, fighting for his life against Shelob&#39;s children in a small, web-filled chamber. While it might not truly be Ufthak himself, it may still be a homage to his fate.</dd>
-<dd>He can be left to fend for himself, but he will start fighting the player if they choose to save him from his attackers.</dd></dl>
+<dl><dd>Mặc dù không được xác định rõ ràng bằng tên, nhưng có thể tìm thấy một Orc đơn độc ở cấp độ "Hang ổ của Shelob", chiến đấu để giành lấy mạng sống của mình chống lại những đứa con của Shelob trong một căn phòng nhỏ đầy mạng nhện. Mặc dù đó có thể không thực sự là bản thân Ufthak, nhưng nó vẫn có thể là sự tôn kính đối với số phận của ông.</dd>
+<dd>Ông có thể bị bỏ lại để tự bảo vệ mình, nhưng ông sẽ bắt đầu chiến đấu với người chơi nếu họ chọn cứu ông khỏi những kẻ tấn công.</dd></dl>
 
 <span></span>
 

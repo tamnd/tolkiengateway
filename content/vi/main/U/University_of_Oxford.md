@@ -24,19 +24,19 @@ images:
   - "Joseph_Wright.jpg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=University_of_Oxford&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=University_of_Oxford&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>What do you take Oxford for, lad? [...] it&#39;s a factory! And what&#39;s it making? I&#39;ll tell you. It&#39;s making fees. Get that in your head, and you&#39;ll begin to understand what goes on.
+<p>Cậu lấy Oxford để làm gì vậy, chàng trai? […] đó là một nhà máy! Và nó đang làm gì thế? Tôi sẽ kể cho bạn nghe. Nó đang thu phí. Hãy ghi nhớ điều đó trong đầu và bạn sẽ bắt đầu hiểu chuyện gì đang diễn ra.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/Joseph_Wright.md" title="Joseph Wright">Joseph Wright</a>&#39;s warning to young <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/Joseph_Wright.md" title="Joseph Wright">Lời cảnh báo của Joseph Wright</a> dành cho giới trẻ <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien&#39;s_bust_at_Exeter.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/J.R.R._Tolkien%27s_bust_at_Exeter.jpg/250px-J.R.R._Tolkien%27s_bust_at_Exeter.jpg" decoding="async" loading="lazy" width="250" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bf/J.R.R._Tolkien%27s_bust_at_Exeter.jpg/375px-J.R.R._Tolkien%27s_bust_at_Exeter.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bf/J.R.R._Tolkien%27s_bust_at_Exeter.jpg/500px-J.R.R._Tolkien%27s_bust_at_Exeter.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Tolkien&#39;s bust at Exeter College</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien&#39;s_bust_at_Exeter.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/J.R.R._Tolkien%27s_bust_at_Exeter.jpg/250px-J.R.R._Tolkien%27s_bust_at_Exeter.jpg" decoding="async" loading="lazy" width="250" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bf/J.R.R._Tolkien%27s_bust_at_Exeter.jpg/375px-J.R.R._Tolkien%27s_bust_at_Exeter.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bf/J.R.R._Tolkien%27s_bust_at_Exeter.jpg/500px-J.R.R._Tolkien%27s_bust_at_Exeter.jpg 2x" data-file-width="1024" data-file-height="768"/></a><figcaption>Tolkien vụ bán thân tại trường Cao đẳng Exeter</figcaption></figure>
 
 **Đại học Oxford** là trường đại học lâu đời nhất ở Vương quốc Anh. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã học và dạy ở đó.
 
@@ -44,7 +44,7 @@ images:
 
 ### Sinh viên {#Student}
 
-<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joseph_Wright.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5e/Joseph_Wright.jpg" decoding="async" loading="lazy" width="205" height="313" class="mw-file-element" data-file-width="205" data-file-height="313"/></a><figcaption>Linguist <a href="../J/Joseph_Wright.md" title="Joseph Wright">Joseph Wright</a>, Tolkien&#39;s tutor at Oxford, mentor and later personal friend.</figcaption></figure>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Joseph_Wright.jpg.md"><img src="https://tolkiengateway.net/w/images/5/5e/Joseph_Wright.jpg" decoding="async" loading="lazy" width="205" height="313" class="mw-file-element" data-file-width="205" data-file-height="313"/></a><figcaption>Nhà ngôn ngữ học <a href="../J/Joseph_Wright.md" title="Joseph Wright">Joseph Wright</a>, gia sư của Tolkien tại Oxford, người cố vấn và sau này là bạn thân.</figcaption></figure>
 
 Khi còn là sinh viên, Tolkien đã thành lập câu lạc bộ văn học *[Apolausticks](../A/Apolausticks.md)* ([1912](../_/1912.md)). Nhiều thành viên cũng tham gia *[Chequers Clubbe](../C/Chequers_Clubbe.md)* hiệp hội ăn uống tại Đại học Exeter do Tolkien và Colin Cullis thành lập tại [1914](../_/1914.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -53,9 +53,9 @@ Tolkien (22) đang là sinh viên đại học khi [Đại chiến](../G/Great_W
 Nhiều năm sau, Joseph Wright viết Tolkien một lá thư giới thiệu, nói rằng
 
 <blockquote class="tg-quote noexcerpt">
-<p>I have known Professor Tolkien intimately since the beginning of his undergraduate days at Oxford, and have greatly admired his keen interest in the philological study of Latin, Greek, and more especially the Germanic Languages. He regularly attended my classes and lectures for two years on Comparative Philology in general, and on Latin, Greek, and Gothic, and I formed a high opinion of his attainments in these subjects...
+<p>Tôi đã biết rõ về Giáo sư Tolkien kể từ những ngày đầu học đại học tại Oxford và rất ngưỡng mộ sự quan tâm sâu sắc của ông đối với việc nghiên cứu ngữ văn về tiếng Latinh, tiếng Hy Lạp và đặc biệt hơn là các ngôn ngữ Đức. Ông thường xuyên tham dự các lớp học và bài giảng của tôi trong hai năm về Ngữ văn so sánh nói chung, cũng như về tiếng Latinh, tiếng Hy Lạp và tiếng Gothic, và tôi đánh giá cao thành tích của ông trong những môn học này...
 </p>
-<p class="tg-quote-footer"><cite>Letter of recommendation on June 25, 1925<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>Thư giới thiệu ngày 25/6/1925<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
 </blockquote>
 
 Lần đó Tolkien đã được trao “Bằng danh dự hạng nhất về Ngôn ngữ và Văn học Anh”.
@@ -78,8 +78,8 @@ Oxford giữ cho ông được kết nối với tư cách là một thành viê
 
 ### Tolkien Chức danh giáo sư {#Tolkien_Professorship}
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=University_of_Oxford&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...there is much else that may be told.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=University_of_Oxford&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...còn nhiều điều khác có thể được kể.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -90,7 +90,7 @@ Oxford giữ cho ông được kết nối với tư cách là một thành viê
 
 Đại học Oxford bao gồm 36 trường cao đẳng là các tập đoàn tự chủ và tự quản trong khuôn viên trường Đại học.
 
-<dl><dd><i>See also: <a class="extiw" href="http://en.wikipedia.org/wiki/Colleges_of_the_University_of_Oxford" title="wikipedia:Colleges of the University of Oxford">Colleges of the University of Oxford</a> at <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a></i></dd></dl>
+<dl><dd><i>Xem thêm: <a class="extiw" href="http://en.wikipedia.org/wiki/Colleges_of_the_University_of_Oxford" title="wikipedia:Colleges of the University of Oxford">Các trường cao đẳng Đại học Oxford</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a></i></dd></dl>
 
 ### Trường Cao đẳng Nhà thờ Chúa Kitô {#Christ_Church_College}
 

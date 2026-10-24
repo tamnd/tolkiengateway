@@ -24,35 +24,35 @@ Các phiên bản nháp của *Oilima Markirya*, cùng với các nhận xét, �
 ## Bản cuối cùng của bài thơ {#Last_version_of_the_poem}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Con Người bạn có thể yêu thích nó<br/>
+<p>Men cenuva fánë cirya<br/>
 métima hrestallo círa,<br/>
-tôi khá tốt<br/>
+i fairi nécë<br/>
 ringa súmaryassë<br/>
-bạn đã đến đây chưa?<br/>
+ve maiwi yaimië?<br/>
 <br/>
 Man tiruva fána cirya,<br/>
 wilwarin wilwa,<br/>
 ëar-celumessen<br/>
-ramainen elvië<br/>
-đó là sự thật,<br/>
-cánh hlápula<br/>
-ramar sisílala,<br/>
-cá fifirula?<br/>
+rámainen elvië<br/>
+ëar falastala,<br/>
+winga hlápula<br/>
+rámar sisílala,<br/>
+cálë fifírula?<br/>
 <br/>
 Man hlaruva rávëa súrë<br/>
-và tauri lillassië,<br/>
+ve tauri lillassië,<br/>
 ninqui carcar yarra<br/>
 isilmë ilcalassë,<br/>
 isilmë pícalassë<br/>
 isilmë lantalassë<br/>
-và loicolícuma;<br/>
-raumo Nurrua,<br/>
+ve loicolícuma;<br/>
+raumo nurrua,<br/>
 undumë rúma?<br/>
 <br/>
 Man cenuva lumbor ahosta<br/>
 Menel acúna<br/>
-ruxal' ambonnar,<br/>
-đó là tình trạng bất tử,<br/>
+ruxal&#39; ambonnar,<br/>
+ëar amortala,<br/>
 undumë hácala,<br/>
 enwina lúmë<br/>
 elenillor pella<br/>
@@ -60,12 +60,12 @@ talta-taltala<br/>
 atalantië mindonnar?<br/>
 <br/>
 Man tiruva rácina cirya<br/>
-buổi sáng vui vẻ<br/>
+ondolissë mornë<br/>
 nu fanyarë rúcina,<br/>
 anar púrëa tihta<br/>
-trục ilcalannar<br/>
-métim' auressë?<br/>
-Man cenuva métim' andúnë?
+axor ilcalannar<br/>
+métim&#39; auressë?<br/>
+Man cenuva métim&#39; andúnë?
 </p>
 </div>
 

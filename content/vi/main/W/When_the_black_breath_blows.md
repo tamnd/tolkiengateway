@@ -17,12 +17,12 @@ categories:
 ## Văn bản {#Text}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>When the <a href="../B/Black_Breath.md" title="Black Breath">black breath</a> blows<br/>
-and death&#39;s shadow grows<br/>
-and all lights pass,<br/>
-come athelas! come athelas!<br/>
-Life to the dying<br/>
-In the king&#39;s hand lying!
+<p>Khi <a href="../B/Black_Breath.md" title="Black Breath">hơi thở đen</a> thổi qua<br/>
+và bóng tối của cái chết lớn dần<br/>
+và tất cả ánh sáng đều vụt qua,<br/>
+đến đây athelas! đến đây athelas!<br/>
+Sự sống cho người hấp hối<br/>
+Nằm trong tay nhà vua!
 </p>
 </div>
 

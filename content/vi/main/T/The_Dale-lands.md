@@ -36,7 +36,7 @@ infobox:
   <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
   <tr><th colspan="2" class="tg-infobox-title"><span>The Dale-lands</span></th></tr>
   <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Mùa xuân,<br/>Vùng sâu trong thung lũng,<br/>Vùng đất Dale,<br/>Valley-Lands,<br/>Trên néolum dalum’</td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">Spring,<br/>Deep in the Vales,<br/>The Dale Lands,<br/>Valley-Lands,<br/>On néolum dalum’</td></tr>
   <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">May, <a href="../_/1910.md" title="1910">1910</a></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Bản sửa đổi</th><td class="tg-infobox-data">Early <a href="../_/1914.md" title="1914">1914</a>,<br/>18 May 1914</td></tr>
   <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i></td></tr>

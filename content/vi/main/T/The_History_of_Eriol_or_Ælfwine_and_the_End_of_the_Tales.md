@@ -37,8 +37,8 @@ images:
 <li><a href="Turambar_and_the_Foalókë.md" title="Turambar and the Foalókë">Turambar and the Foalókë</a></li>
 <li><a href="The_Fall_of_Gondolin_(chapter).md" title="The Fall of Gondolin (chapter)">The Fall of Gondolin</a></li>
 <li><a href="The_Nauglafring.md" title="The Nauglafring">The Nauglafring</a></li>
-<li><a href="The_Tale_of_Eärendel.md" title="The Tale of Eärendel">The Tale of Eärendel</a></li>
-<li><a class="mw-selflink selflink">The History of Eriol or Ælfwine</a></li></ol>
+<li><a href="The_Tale_of_Eärendel.md" title="The Tale of Eärendel">Truyện kể về Eärendel</a></li>
+<li><a class="mw-selflink selflink">Lịch sử của Eriol hay Ælfwine</a></li></ol>
 </td></tr></tbody></table>
 
 **Lịch sử của Eriol hay Ælfwine và Cái kết của những câu chuyện** là chương thứ sáu của *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.

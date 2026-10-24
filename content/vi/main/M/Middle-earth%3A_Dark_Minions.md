@@ -57,14 +57,14 @@ infobox:
 		<li class="gallerybox" style="width: 83.333333333333px">
 			<div class="thumb" style="width: 81.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/MECCG_Dark_Minions_advertisement_(InQuest_22).jpg.md" title="Advertisement"><img alt="Advertisement" src="https://tolkiengateway.net/w/images/thumb/0/01/MECCG_Dark_Minions_advertisement_%28InQuest_22%29.jpg/122px-MECCG_Dark_Minions_advertisement_%28InQuest_22%29.jpg" decoding="async" loading="lazy" width="82" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/MECCG_Dark_Minions_advertisement_%28InQuest_22%29.jpg/184px-MECCG_Dark_Minions_advertisement_%28InQuest_22%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/MECCG_Dark_Minions_advertisement_%28InQuest_22%29.jpg/245px-MECCG_Dark_Minions_advertisement_%28InQuest_22%29.jpg 2x" data-file-width="4168" data-file-height="6122"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 62px"><div class="gallerytext">
-<p>Advertisement
+<p>Quảng cáo
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 92.666666666667px">
 			<div class="thumb" style="width: 90.666666666667px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Medm.jpg.md" title="Advertisement"><img alt="Advertisement" src="https://tolkiengateway.net/w/images/thumb/7/7e/Medm.jpg/136px-Medm.jpg" decoding="async" loading="lazy" width="91" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7e/Medm.jpg/205px-Medm.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7e/Medm.jpg/273px-Medm.jpg 2x" data-file-width="414" data-file-height="546"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 71px"><div class="gallerytext">
-<p>Advertisement
+<p>Quảng cáo
 </p>
 			</div></div>
 		</li>

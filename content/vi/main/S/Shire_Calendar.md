@@ -121,7 +121,7 @@ Trong [Eastfarthing](../E/Eastfarthing.md) tên của Afteryule, Astron và Fore
 </td></tr>
 <tr>
 <td align="center"> </td>
-<td><i><a href="../M/Mid-year&#39;s_Day.md" title="Mid-year&#39;s Day">Mid-year&#39;s Day</a></i></td>
+<td><i><a href="../M/Mid-year&#39;s_Day.md" title="Mid-year&#39;s Day">Ngày giữa năm</a></i></td>
 <td></td>
 <td>21 June</td>
 <td>20 June
@@ -201,7 +201,7 @@ Ngày giữa năm và khi có mặt, Overlithe không có bài tập nào trong 
 <tbody><tr>
 <th>Day Name
 </th>
-<th>Meaning
+<th>Ý nghĩa
 </th>
 <th>Translation in <i>The Lord of the Rings</i>
 </th>

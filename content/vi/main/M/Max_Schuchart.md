@@ -27,7 +27,7 @@ langlinks:
 
 **Max Schuchart**, MBE ([16 tháng 8](../_/16_August.md), [1920](../_/1920.md) - [25 tháng 2](../_/25_February.md), [2005](../_/2005.md)) là một nhà thơ, nhà báo và dịch giả người Hà Lan. Ông đã dịch nhiều tác giả người Anh khác như Oscar Wilde, Terry Goodkind, Richard Adams, Lord Dunsany, William Horwood, Daniel Defoe và Salman Rushdie.
 
-<h2><span id=".22In_de_Ban_van_de_Ring.22"></span><span class="mw-headline" id="&#34;In_de_Ban_van_de_Ring&#34;">"Ở de Ban van de Ring"</span></h2>
+<h2><span id=".22In_de_Ban_van_de_Ring.22"></span><span class="mw-headline" id="&#34;In_de_Ban_van_de_Ring&#34;">&#34;In de Ban van de Ring&#34;</span></h2>
 
 Schuchart là người đầu tiên dịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (bằng [1956](../_/1956.md)-[1957](../_/1957.md)) và là người thứ ba dịch *[The Hobbit](../T/The_Hobbit.md)*. Ông cũng là người đầu tiên dịch *[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)* và *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*. Ông đã viết một cuốn sách nhỏ có tên *[Tolkien: In de Ban van zijn Werk](../T/Tolkien%253A_In_de_Ban_van_zijn_Werk.md)*, về [Tolkien](../J/J.R.R._Tolkien.md), các tác phẩm của ông, chuyến thăm Hà Lan vào [1958](../_/1958.md) và sự tham gia của ông vào việc dịch thuật tiếng Hà Lan của *The Lord of the Rings*.
 

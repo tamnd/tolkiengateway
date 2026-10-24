@@ -24,7 +24,7 @@ infobox:
     value: "500"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Oxonmoot 2020</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Online</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">18-20 September 2020</td></tr><tr><th scope="row" class="tg-infobox-label">Người tham dự</th><td class="tg-infobox-data">500</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Oxonmoot 2020</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin hội nghị</span></th></tr><tr><th scope="row" class="tg-infobox-label">Địa điểm</th><td class="tg-infobox-data">Trực tuyến</td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Ngày tháng</th><td class="tg-infobox-data">18-20 September 2020</td></tr><tr><th scope="row" class="tg-infobox-label">Người tham dự</th><td class="tg-infobox-data">500</td></tr></tbody></table>
 
 **Oxonmoot 2020**, [Oxonmoot](Oxonmoot.md) thường niên lần thứ 47 do [Hội Tolkien](../T/The_Tolkien_Society.md) tổ chức, đã diễn ra trực tuyến [18](../_/18_September.md)-[20 tháng Chín](../_/20_September.md) [2020](../_/2020.md).
 

@@ -29,7 +29,7 @@ infobox:
     value: "The Rotting Horse on the Deadly Ground"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stronghold.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/320px-Stronghold.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/480px-Stronghold.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/640px-Stronghold.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Shadow Lies Frozen on the Hills</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../S/Stronghold.md" title="Stronghold">Stronghold</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">7:01</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">7</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="The_Rotting_Horse_on_the_Deadly_Ground.md" title="The Rotting Horse on the Deadly Ground">The Rotting Horse on the Deadly Ground</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/5UMcNwL2bGEjwYKFDgcFl4"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stronghold.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/320px-Stronghold.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/480px-Stronghold.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/50/Stronghold.jpg/640px-Stronghold.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Shadow Lies Frozen on the Hills</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../S/Stronghold.md" title="Stronghold">Thành trì</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">7:01</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">7</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="The_Rotting_Horse_on_the_Deadly_Ground.md" title="The Rotting Horse on the Deadly Ground">The Rotting Horse on the Deadly Ground</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/5UMcNwL2bGEjwYKFDgcFl4"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -38,25 +38,25 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Farewell we call to the earth and hall<br/>
-Though wind may blow so fast rain may fall<br/>
-We must away ere break of day<br/>
-For over wood, tree and mountain tall.<br/>
+<p>Tạm biệt chúng ta gọi đất và hội trường<br/>
+Dù gió có thổi nhanh thì mưa cũng có thể rơi<br/>
+Chúng ta phải đi trước bình minh<br/>
+Dành cho trên gỗ, trên cây và trên núi.<br/>
 <br/>
-With foes ahead, behind us dread<br/>
-Beneath the sky&#39;s our bed<br/>
-Until at last our toil be passed<br/>
-Our journey&#39;s done with sped<br/>
+Kẻ thù phía trước, nỗi sợ hãi phía sau<br/>
+Dưới bầu trời là chiếc giường của chúng ta<br/>
+Cho đến khi công việc vất vả của chúng ta cuối cùng cũng được vượt qua<br/>
+Cuộc hành trình của chúng ta đã kết thúc với tốc độ<br/>
 <br/>
-Beneath the moon and under a tall star<br/>
-I wandered so far from northern lands<br/>
-Bewildered on enchanting charming ways<br/>
-So far from the days of mortal lands<br/>
+Dưới vầng trăng và dưới một vì sao cao<br/>
+Tôi lang thang rất xa đất phương Bắc<br/>
+Ngẩn ngơ trước những lối quyến rũ đầy mê hoặc<br/>
+Đã xa rồi những ngày đất phàm<br/>
 <br/>
-From gashing of the narrow ice so near<br/>
-Where shadows lie frozen on the hills top<br/>
-From neither heats and burning glowing waste<br/>
-I&#39;m turning in haste and fear.
+Từ vết cắt của lớp băng hẹp quá gần<br/>
+Nơi bóng tối đóng băng trên đỉnh đồi<br/>
+Từ không làm nóng và đốt chất thải phát sáng<br/>
+Tôi đang quay lại một cách vội vàng và sợ hãi.
 </p>
 </div>
 

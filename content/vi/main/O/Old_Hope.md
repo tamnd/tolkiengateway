@@ -19,7 +19,7 @@ categories:
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Những điều này nằm ngoài phạm vi hiểu biết của <a href="../E/Eldar.md" title="Eldar">Eldar</a>, hoặc có thể là của <a href="../V/Valar.md" title="Valar">Valar</a>.
 </p>
-<p class="tg-quote-footer"><cite><a href="../F/Finrod.md" title="Finrod">Finrod</a> trong <i><a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i></cite></p>
+<p class="tg-quote-footer"><cite><a href="../F/Finrod.md" title="Finrod">Finrod</a> in <i><a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Old Hope** là niềm tin của một nhóm [Edain](../E/Edain.md) trong [Kỷ Đệ Nhất](../F/First_Age.md). Họ tin rằng [Eru](../E/Eru.md) sẽ đi vào giới hạn của [Arda](../A/Arda.md) để [chữa lành](../A/Arda_Healed.md) [Marring](../A/Arda_Marred.md) do [Morgoth](../M/Morgoth.md) gây ra đôi khi trong [tương lai](../L/Later_Ages.md).

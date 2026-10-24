@@ -357,43 +357,43 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
 <li>Nhưng không có gì nguy hiểm hơn Cây liễu lớn: trái tim anh đã mục nát, nhưng sức mạnh của anh vẫn xanh; và ông là người xảo quyệt, và là bậc thầy về gió – gió trong rặng liễu</li>
 <li>Nhưng tôi cho rằng trên thực tế, Quendi trong những lịch sử này rất ít giống với Tiên tộc và các Nàng tiên của Châu Âu; và nếu buộc phải hợp lý hóa, tôi nên nói rằng họ thực sự đại diện cho Con Người khả năng thẩm mỹ và sáng tạo được nâng cao đáng kể, vẻ đẹp cao hơn, tuổi thọ cao hơn và sự cao quý – Những đứa con lớn tuổi, phải tàn lụi trước những Người theo sau (Con Người), và cuối cùng chỉ sống bằng dòng máu mỏng manh hòa quyện với dòng máu của Con Người, trong số đó, họ là thực sự duy nhất được coi là 'quý tộc'.</li>
 <li>Orc (theo như tôi nghĩ thì từ này thực ra có nguồn gốc từ tiếng Anh cổ orc 'quỷ', nhưng chỉ vì sự phù hợp về mặt ngữ âm của nó) không có nơi nào được nêu rõ ràng là có nguồn gốc cụ thể nào. Nhưng vì họ là đầy tớ của Thế lực Hắc ám, và sau này là của Sauron, cả hai đều không thể hoặc sẽ tạo ra sinh vật sống, nên họ phải là 'sự tham nhũng'. Chúng không dựa trên kinh nghiệm trực tiếp của tôi; nhưng tôi cho rằng, nợ rất nhiều với truyền thống yêu tinh (yêu tinh được dùng làm bản dịch trong The Hobbit, nơi mà tôi nghĩ rằng orc chỉ xuất hiện một lần), đặc biệt là khi nó xuất hiện trong George MacDonald, ngoại trừ đôi chân mềm mại mà tôi chưa bao giờ tin vào.</li>
-<li>Westernesse – Rc trang. 16</li>
-<li>Bree, gỗ chet – RC trang 16</li>
-<li>Gondor – RC trang. 17-18</li>
-<li>Belfalas – RC trang. 18</li>
-<li>Lune – tr. 19</li>
-<li>Marcho, trắng – RC trang. 19</li>
-<li>Thain – RC trang. 21</li>
-<li>Sullong – RC trang. 23</li>
-<li>Orc –RC trang. 24-26</li>
+<li>Westernesse – Rc pg. 16</li>
+<li>Bree, chetwood – RC pg.16</li>
+<li>Gondor – RC pg. 17-18</li>
+<li>Belfalas – RC pg. 18</li>
+<li>Lune – pg. 19</li>
+<li>Marcho, blanco – RC pg. 19</li>
+<li>Thain – RC pg. 21</li>
+<li>Sullong – RC pg. 23</li>
+<li>Orcs –RC pg. 24-26</li>
 <li>Michel đào sâu (tên) – RC pg. 26</li>
 <li>Mathom (tên) – RC trang. 26</li>
-<li>Cười – RC trang. 27</li>
+<li>Smial – RC pg. 27</li>
 <li>Mụn trắng – RC trang. 28</li>
 <li>Tháng Ba (tên) – RC trang. 28</li>
 <li>“người ta có thể nhìn thấy Biển từ đỉnh tòa tháp đó” – RC pg. 28-29</li>
 <li>”được lợp bằng cỏ khô hoặc rơm rạ, hoặc lợp bằng mái tôn” – RC pg. 29</li>
 <li>Brandybuck (tên) – RC trang. 29</li>
 <li>Oldbuck (tên) – RC trang. 29</li>
-<li>Herblore – RC trang. 30</li>
+<li>Herblore – RC pg. 30</li>
 <li>Tobold (tên) – thuốc lá</li>
-<li>Người thổi còi – RC trang. 31, 760</li>
-<li>Isengrim – RC trang. 31</li>
+<li>Hornblower – RC pg. 31, 760</li>
+<li>Isengrim – RC pg. 31</li>
 <li>Ngựa chồm (tên) – RC pg. 31</li>
 <li>Ngựa chồm lên - <a class="external free" href="http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323" rel="noreferrer noopener" target="_blank">http://www.thepublican.com/story.asp?sectioncode=7&amp;storycode=53323</a></li>
-<li>Xì hơi – RC trang. 32</li>
+<li>Farthing – RC pg. 32</li>
 <li>Boffin (tên) – RC trang. 33</li>
 <li>Norbury (tên) – RC trang. 33</li>
-<li>Shire-moot – RC trang. 34</li>
+<li>Shire-moot – RC pg. 34</li>
 <li>Shirriff (tên) – RC pg. 35</li>
 <li>§51 Barnabas [đã thêm: không] là một ngoại lệ. Barnabas Butterbur là Người của Bree, không phải hobbit. Tôi đặt cho ông cái tên này vì nhiều lý do. Trước hết là chuyện cá nhân. Trên một phiến đá cũ màu xám trong một sân nhà thờ yên tĩnh ở miền nam nước Anh, tôi đã từng nhìn thấy những dòng chữ lớn tên Barnabas Butter. Chuyện đó đã lâu rồi và trước khi tôi nhìn thấy Sách Đỏ, nhưng cái tên đó đã quay trở lại với tôi khi nhân vật chủ quán trọ mập mạp của Bree hiện ra với tôi trong hồ sơ của Frodo. Càng đúng hơn vì tên của ông, phù hợp với loại tên thực vật thường được ưa chuộng trong Bree, thực ra là Butterburr, hoặc trong C.S. Zilbarāpha [&gt; Zilbirāpha]. Thật không may, Barnabas chỉ có một chút tương đồng về mặt ngữ âm với tên thật của chủ quán trọ: Barabatta (hoặc Batti). Đây là biệt danh của ông chủ quán 'The Pony' mà ông đã đặt từ lâu đến nỗi nếu ông có một cái tên nào khác thì cũng bị quên mất: nó có nghĩa là 'kẻ nói nhanh hoặc người lảm nhảm'. Tuy nhiên, khi chuyển đổi Batti Zilbarāpha [&gt; Zilbirāpha] thành Barney Butterbur, tôi không nghĩ mình đã bất công.</li>
 <li>Gondor – Gondwanaland?</li>
-<li>Númenor – Iceland?</li>
+<li>Númenor – iceland?</li>
 <li>“chỉ có một chiếc lông vũ trên mũ của họ” – RC pg. 35</li>
-<li>Ranh giới – RC trang. 35-36</li>
+<li>Bounders – RC pg. 35-36</li>
 <li>Gandalf (tên) – RC trang. 36</li>
 <li>Thorin (tên) – RC trang. 36</li>
-<li>Samwise – RC trang. 39</li>
+<li>Samwise – RC pg. 39</li>
 <li>Sổ đỏ gốc chưa bảo quản – RC pg. 41</li>
 <li>Meriadoc, peregrin, pippin (tên) – RC pg. 42</li>
 <li>Númenor (tên) – RC trang. 42</li>
@@ -403,30 +403,30 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
 <li>Baggins, đầu túi – AH p. 30-31, HotH tr. 45-46</li>
 <li>đầu túi, đầu túi (tên) - AH p. 29</li>
 <li>baggins (tên), cuối bao (tên) - HotH p. 45, cóc cóc đường</li>
-<li>Mười một mốt – RC trang. 52</li>
-<li>Ngọn đồi – RC trang. 52</li>
-<li>Sackville – RC trang. 53</li>
+<li>Eleventy-first – RC pg. 52</li>
+<li>The Hill – RC pg. 52</li>
+<li>Sackville – RC pg. 53</li>
 <li>Sackville-baggins – RC p. 762</li>
-<li>Thanh thiếu niên – RC trang. 54</li>
+<li>Tweens – RC pg. 54</li>
 <li>Gerontius, cũ đã lấy – RC pg. 54, AH tr. 34</li>
-<li>Hamfast – RC trang. 55</li>
-<li>Gamgee – RC trang. 55</li>
-<li>Holman – RC trang. 56</li>
-<li>Hàng ảnh chụp – RC trang. 56</li>
-<li>Noakes – RC trang. 57</li>
-<li>Buckland – RC trang. 57-58</li>
+<li>Hamfast – RC pg. 55</li>
+<li>Gamgee – RC pg. 55</li>
+<li>Holman – RC pg. 56</li>
+<li>Bagshot row – RC pg. 56</li>
+<li>Noakes – RC pg. 57</li>
+<li>Buckland – RC pg. 57-58</li>
 <li>Hobbit phát biểu – RC 58-59</li>
-<li>Gorbadoc – RC trang. 59</li>
-<li>Miller – RC trang. 60</li>
-<li>Warren – RC trang. 60</li>
-<li>Gandalf – RC trang. 61-62, AH tr. 36-39</li>
+<li>Gorbadoc – RC pg. 59</li>
+<li>Miller – RC pg. 60</li>
+<li>Warren – RC pg. 60</li>
+<li>Gandalf – RC pg. 61-62, AH p. 36-39</li>
 <li>bladorthin (proto-gandalf) - HotH p. 51</li>
-<li>Shire – RC trang. 64</li>
+<li>Shire – RC pg. 64</li>
 <li>Pháo hoa của Gandalf– RC pg. 65 ?</li>
 <li>Took, grubb, chubb, burrows, bolger, Bracegirdle, brockhouse, goodbody, người thổi sừng, chân kiêu hãnh – RC pg. 66</li>
 <li>bolger (tên) - HotH1 p. xiv?</li>
-<li>Bánh quy giòn – RC trang. 68</li>
-<li>Vòng lò xo – RC trang. 68</li>
+<li>Crackers – RC pg. 68</li>
+<li>Springle-ring – RC pg. 68</li>
 <li>Núi mù sương – RC trang. 70</li>
 <li>Con đường vẫn tiếp tục – RC pg. 71</li>
 <li>Saruman (tên) – RC p. 81</li>
@@ -434,23 +434,23 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
 <li>Một chiếc nhẫn – RC p. 38, 85, 88-89, Chiếc nhẫn ma thuật <a class="external free" href="http://www.valancourtbooks.com/themagicring.html" rel="noreferrer noopener" target="_blank">http://www.valancourtbooks.com/themagicring.html</a>, HotH p. 48</li>
 <li>Smeagol, deagol – RC p. 86</li>
 <li>Đất nước da đen – <a class="external free" href="http://en.wikipedia.org/wiki/Black_Country" rel="noreferrer noopener" target="_blank">http://en.wikipedia.org/wiki/Black_Country</a></li>
-<li>Ranh giới – RC trang. 753-754</li>
-<li>Buckland – RC trang. 754</li>
-<li>Niềng răng – RC pg. 754</li>
-<li>rượu mạnh – RC trang. 754</li>
-<li>chubb – RC trang. 755</li>
+<li>Bounders – rc pg. 753-754</li>
+<li>Buckland – rc pg. 754</li>
+<li>Bracegirdle – rc pg. 754</li>
+<li>brandybuck – rc pg. 754</li>
+<li>chubb – rc pg. 755</li>
 <li>corsairs – RC trang. 755</li>
 <li>bông – RC trang. 755</li>
 <li><a class="external free" href="http://www.jitterbug.com/origins/lotr.html" rel="noreferrer noopener" target="_blank">http://www.jitterbug.com/origins/lotr.html</a></li>
 <li>tuor làm nô lệ – kullervo làm nô lệ</li>
-<li>những người nội trợ –
+<li>entwives –
 <ul><li>Con gái mùa hè, thiếu nữ phép thuật,</li>
 <li>Mẹ rừng phương Nam,</li>
 <li>Con gái cây thông, Kateyatar,</li>
-<li>Pihlayatar, của cây dương,</li>
+<li>Pihlayatar, of the aspen,</li>
 <li>Alder-maiden, con gái của Tapio,</li>
-<li>Con gái của Glen, Millikki,</li>
-<li>Và cô gái miền núi Tellervo,</li>
+<li>Daughter of the glen, Millikki,</li>
+<li>And the mountain-maid, Tellervo,</li>
 <li>Trong bầy đàn của tôi, hãy là những người bảo vệ,</li>
 <li>ở Kalevala</li></ul></li>
 <li>Goldberry –
@@ -466,15 +466,15 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
 <li>ở Kalevala</li></ul></li>
 <li>Những con chó của Maggot –
 <ul><li>Chỉ để dành một ít bắp cải,</li>
-<li>Dành cho người chăn cừu Kullerwoinen;</li>
+<li>For the herdsman, Kullerwoinen;</li>
 <li>Hãy tách rời một số mảnh vụn lãng phí,</li>
 <li>Những con chó bỏ đi trong bữa tối,</li>
 <li class="mw-empty-elt"></li>
 <li>Silloin Ilmarin emäntä, paimenen pajattaessa,</li>
 <li>Kullervoisen kukkuessa, jo oli vuollut voivatinsa,</li>
-<li>đó là rieskansa reväisnyt, kakkaransa kaivaellut;</li>
+<li>itse rieskansa reväisnyt, kakkaransa kaivaellut;</li>
 <li>keittänyt vetisen vellin, kylmän kaalin Kullervolle,</li>
-<li>jos' oli rakki rasvan syönyt, <b>Musti</b> murkinan pitänyt,</li>
+<li>jos&#39; oli rakki rasvan syönyt, <b>Musti</b> murkinan pitänyt,</li>
 <li><b>Merkki</b> syönyt mielin määrin, <b>Halli</b> haukannut halunsa.</li>
 <li>ở Kalevala</li></ul></li>
 <li>Entwives – Eurydice ?</li>
@@ -496,7 +496,7 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
 <li><a class="external free" href="http://web.archive.org/web/20060108125654/http://www.scandga.org/Insights/2001-02+Winter/Tolkien.htm" rel="noreferrer noopener" target="_blank">http://web.archive.org/web/20060108125654/http://www.scandga.org/Insights/2001-02+Winter/Tolkien.htm</a></li>
 <li>hegel và tolkien - <a class="external free" href="http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1" rel="noreferrer noopener" target="_blank">http://www.lotrplaza.com/forum/display_topic_threads.asp?ForumID=49&amp;TopicID=194948&amp;PagePosition=1&amp;PagePostPosition=1</a></li>
 <li>nazgul - điều đáng chú ý là nasc là từ chỉ 'chiếc nhẫn' trong tiếng Gaelic [Ailen; trong tiếng Scotland thường được viết là nasg]... Tôi không hề thích *Gaelic từ tiếng Ireland cổ trở xuống, như một ngôn ngữ, nhưng tất nhiên nó có mối quan tâm lớn về mặt lịch sử và ngữ văn, và đôi khi tôi đã nghiên cứu nó [Với than ôi! rất ít thành công] ?</li>
-<li>annatar – antaa Phần Lan, anna</li>
+<li>annatar – finnish antaa, anna</li>
 <li>valinor - Valhalla, <a class="external free" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=217644" rel="noreferrer noopener" target="_blank">http://www.lotrplaza.com/forum/forum_posts.asp?TID=217644</a></li>
 <li>tàu arveduis - tàu lemminkäinens</li>
 <li>vàng và bạc - vàng và bạc ở Kalevala</li>
@@ -529,8 +529,8 @@ Bản thân - Tolkien nói về Elrond như một câu chuyện ngụ ngôn về
 <li>Tác dụng của Sampo giống như Nhẫn Chúa gây băng hoại đạo đức và chiến tranh khốc liệt.</li>
 <li><a class="external free" href="http://tolkiensarda.se/new/nummer/magsidor/art28_3.php" rel="noreferrer noopener" target="_blank">http://tolkiensarda.se/new/nummer/magsidor/art28_3.php</a></li>
 <li><a class="external free" href="http://www.theonering.net/features/notes/note8.html" rel="noreferrer noopener" target="_blank">http://www.theonering.net/features/notes/note8.html</a></li>
-<li>noldor – r từ tiếng Thụy Điển?</li>
-<li>Timpinen – Phần Lan</li>
+<li>noldor – r from Swedish?</li>
+<li>Timpinen – finnish</li>
 <li><a class="external free" href="http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=42452&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=13150" rel="noreferrer noopener" target="_blank">http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=42452&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=13150</a></li>
 <li><a class="external free" href="http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=2668&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=1765" rel="noreferrer noopener" target="_blank">http://www.birmingham.gov.uk/GenerateContent?CONTENT_ITEM_ID=2668&amp;CONTENT_ITEM_TYPE=0&amp;MENU_ID=1765</a></li>
 <li>”ông quan tâm đến nguồn gốc và sự khởi đầu” – học bổng p. 30</li></ul>

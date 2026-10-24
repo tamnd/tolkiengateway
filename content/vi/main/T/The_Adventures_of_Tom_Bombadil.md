@@ -149,14 +149,14 @@ Phiên bản [2024](../_/2024.md) bao gồm phần "Giới thiệu về nghệ s
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tom_Bombadil_1962_full.png.md" title="1962 hardcover"><img alt="1962 hardcover" src="https://tolkiengateway.net/w/images/thumb/5/5d/Tom_Bombadil_1962_full.png/125px-Tom_Bombadil_1962_full.png" decoding="async" loading="lazy" width="125" height="98" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/Tom_Bombadil_1962_full.png/188px-Tom_Bombadil_1962_full.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/5d/Tom_Bombadil_1962_full.png/250px-Tom_Bombadil_1962_full.png 2x" data-file-width="997" data-file-height="782"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1962
+<p>1962 hardcover
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tom_Bombadil_1990_hardcover.png.md" title="1990 hardcover"><img alt="1990 hardcover" src="https://tolkiengateway.net/w/images/thumb/b/bb/Tom_Bombadil_1990_hardcover.png/82px-Tom_Bombadil_1990_hardcover.png" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bb/Tom_Bombadil_1990_hardcover.png/123px-Tom_Bombadil_1990_hardcover.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/bb/Tom_Bombadil_1990_hardcover.png/163px-Tom_Bombadil_1990_hardcover.png 2x" data-file-width="327" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1990
+<p>1990 hardcover
 </p>
 			</div>
 		</li>
@@ -170,7 +170,7 @@ Phiên bản [2024](../_/2024.md) bao gồm phần "Giới thiệu về nghệ s
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tom_Bombadil_2014.png.md" title="2014 hardcover"><img alt="2014 hardcover" src="https://tolkiengateway.net/w/images/thumb/f/fd/Tom_Bombadil_2014.png/90px-Tom_Bombadil_2014.png" decoding="async" loading="lazy" width="90" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fd/Tom_Bombadil_2014.png/135px-Tom_Bombadil_2014.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fd/Tom_Bombadil_2014.png/180px-Tom_Bombadil_2014.png 2x" data-file-width="498" data-file-height="693"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2014
+<p>2014 hardcover
 </p>
 			</div>
 		</li>

@@ -31,7 +31,7 @@ infobox:
     value: "Dor Daedeloth"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Summoning_Minas_Morgul.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/320px-Summoning_Minas_Morgul.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/480px-Summoning_Minas_Morgul.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/640px-Summoning_Minas_Morgul.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Legend of the Master-Ring</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../M/Minas_Morgul_(album).md" title="Minas Morgul (album)">Minas Morgul</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Credits</span></th></tr><tr><th scope="row" class="tg-infobox-label">Composed by</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Summoning</a></td></tr><tr><th scope="row" class="tg-infobox-label">Written by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th scope="row" class="tg-infobox-label">Performed by</th><td class="tg-infobox-data">Summoning</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Track Info</span></th></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">5:27</td></tr><tr><th scope="row" class="tg-infobox-label">Track No.</th><td class="tg-infobox-data">10</td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="Through_the_Forest_of_Dol_Guldur.md" title="Through the Forest of Dol Guldur">Through the Forest of Dol Guldur</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../D/Dor_Daedeloth_(song).md" title="Dor Daedeloth (song)">Dor Daedeloth</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Media</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2BFvQGlZZeKra3GCRi76oK"></iframe></span>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Summoning_Minas_Morgul.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/320px-Summoning_Minas_Morgul.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/480px-Summoning_Minas_Morgul.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e1/Summoning_Minas_Morgul.jpg/640px-Summoning_Minas_Morgul.jpg 2x" data-file-width="1200" data-file-height="1200"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Legend of the Master-Ring</span></th></tr><tr><td colspan="2" class="tg-infobox-data"><hr/></td></tr><tr><th scope="row" class="tg-infobox-label">Album</th><td class="tg-infobox-data"><i><a href="../M/Minas_Morgul_(album).md" title="Minas Morgul (album)">Minas Morgul</a></i></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Ghi công</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sáng tác</th><td class="tg-infobox-data"><a href="../S/Summoning.md" title="Summoning">Triệu hồi</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th scope="row" class="tg-infobox-label">Trình bày</th><td class="tg-infobox-data">Triệu hồi</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin bản nhạc</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thời lượng</th><td class="tg-infobox-data">5:27</td></tr><tr><th scope="row" class="tg-infobox-label">Số thứ tự bản nhạc</th><td class="tg-infobox-data">10</td></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><a href="Through_the_Forest_of_Dol_Guldur.md" title="Through the Forest of Dol Guldur">Through the Forest of Dol Guldur</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><a href="../D/Dor_Daedeloth_(song).md" title="Dor Daedeloth (song)">Dor Daedeloth</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Phương tiện truyền thông</span></th></tr><tr><td colspan="2" class="tg-infobox-caption"><figure class="embedvideo" data-service="spotifytrack" style="width:288px"><span class="embedvideo-wrapper" style="height:80px"><iframe class="embedvideo-player" loading="lazy" frameborder="0" allow="encrypted-media" width="288" height="80" src="https://open.spotify.com/embed/track/2BFvQGlZZeKra3GCRi76oK"></iframe></span>
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
@@ -40,28 +40,28 @@ infobox:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Three rings to elven kings<br/>
-Under the sky, seven for the dwarf lords<br/>
-in halls of stone<br/>
-Nine for mortal men<br/>
-doomed to die<br/>
-One for the Dark Lord<br/>
-on his dark throne<br/>
+<p>Ba chiếc nhẫn dành cho các vị vua yêu tinh<br/>
+Dưới bầu trời, bảy cho các chúa lùn<br/>
+trong sảnh đá<br/>
+Chín cho người phàm<br/>
+sắp chết<br/>
+Một cho Chúa tể Bóng tối<br/>
+trên ngai vàng tối tăm của hắn<br/>
 <br/>
-In the land<br/>
-Of Mordor where the shadows lie<br/>
-One Ring to rule them all<br/>
-One Ring to find them<br/>
-One Ring to bring them all<br/>
-And in darkness bind them<br/>
-In the land of Mordor<br/>
-where shadows lie<br/>
+Trên đất<br/>
+Của Mordor nơi bóng tối nằm<br/>
+Nhẫn Chúa để cai trị tất cả<br/>
+Nhẫn Chúa để tìm chúng<br/>
+Nhẫn Chúa để mang tất cả<br/>
+Và trong bóng tối trói buộc chúng<br/>
+Tại vùng đất Mordor<br/>
+nơi bóng tối nằm<br/>
 <br/>
-One Ring to bring them all<br/>
-And in darkness bind them<br/>
-In the land<br/>
-of Mordor<br/>
-where the shadows lie
+Nhẫn Chúa để mang tất cả<br/>
+Và trong bóng tối trói buộc chúng<br/>
+Trên đất<br/>
+của Mordor<br/>
+bóng tối nằm ở đâu
 </p>
 </div>
 

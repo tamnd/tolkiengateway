@@ -106,7 +106,7 @@ sort_keys:
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td></td><td><div class="tg-seq-title">Chris Crawshaw</div></td><td></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../A/Amanda_Campbell.md" title="Amanda Campbell">Amanda Campbell</a></div></td><td width="45%"><div class="tg-seq-value">Chủ tịch thứ 7 của <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></div><div class="tg-seq-label">21 April 1996 - 19 April 2008</div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../M/Matthew_Vernon.md" title="Matthew Vernon">Matthew Vernon</a></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../A/Amanda_Campbell.md" title="Amanda Campbell">Amanda Campbell</a></div></td><td width="45%"><div class="tg-seq-value">7th Chairman of <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></div><div class="tg-seq-label">21 April 1996 - 19 April 2008</div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../M/Matthew_Vernon.md" title="Matthew Vernon">Matthew Vernon</a></div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

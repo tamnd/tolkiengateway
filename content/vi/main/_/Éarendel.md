@@ -20,7 +20,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>two ships in the <a class="mw-redirect" href="../N/Notion_Club_Papers.md" title="Notion Club Papers">Notion Club Papers</a></b>. For the the early name of <a href="../E/Eärendil.md" title="Eärendil">Eärendil</a>, see <b><a class="mw-redirect" href="../E/Eärendel.md" title="Eärendel">Eärendel</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>hai con tàu trong <a class="mw-redirect" href="../N/Notion_Club_Papers.md" title="Notion Club Papers">Notion Club giấy tờ</a></b>. Để biết tên ban đầu của <a href="../E/Eärendil.md" title="Eärendil">Eärendil</a>, hãy xem <b><a class="mw-redirect" href="../E/Eärendel.md" title="Eärendel">Eärendel</a></b>.</div></div>
 
 <i><b>Éarendel</b></i>, là tên tàu của [Éadwine](Éadwine.md). Con tàu cùng với Éadwine đã biến mất vào năm [878 AD](../S/Seventh_Age_878.md) và không tìm thấy dấu vết nào của cả hai.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

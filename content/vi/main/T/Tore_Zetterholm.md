@@ -42,7 +42,7 @@ Có lẽ do một cơ hội kỳ lạ, Zetterholm là một trong những ngư�
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Translators of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">books</a> into Swedish</b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Người dịch <a href="../../index/W/Writings_by_J.R.R._Tolkien.md" title="Index:Writings by J.R.R. Tolkien">sách</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> sang tiếng Thụy Điển</b>
 </td></tr>
 <tr>
 <td style="font-size: 90%;"> <b><a href="../R/Roland_Adlerberth.md" title="Roland Adlerberth">Roland Adlerberth</a></b> · <b><a href="../E/Erik_Andersson.md" title="Erik Andersson">Erik Andersson</a></b> · <b><a href="../B/Britt_G._Hallqvist.md" title="Britt G. Hallqvist">Britt G. Hallqvist</a></b> · <b><a href="../_/Öjevind_Lång.md" title="Öjevind Lång">Öjevind Lång</a></b> · <b><a href="../_/Åke_Ohlmarks.md" title="Åke Ohlmarks">Åke Ohlmarks</a></b> · <b><a class="mw-selflink selflink">Tore Zetterholm</a></b>

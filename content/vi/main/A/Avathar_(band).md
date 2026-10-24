@@ -31,7 +31,7 @@ infobox:
     value: "Jonna Piittala; Daeron; Thalion; Emerwen; Iina; Finduilas; Von Blofeld; Bolg; Dain; Miriel; Dim"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Avathar.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/13/Avathar.png/320px-Avathar.png" decoding="async" loading="lazy" width="320" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/13/Avathar.png/480px-Avathar.png 1.5x, https://tolkiengateway.net/w/images/1/13/Avathar.png 2x" data-file-width="503" data-file-height="360"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Ban nhạc</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin nền</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data">Ojakkala, Finland</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Kim loại đen, <a href="../T/Tolkien_metal.md" title="Tolkien metal">Tolkien kim loại</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian hoạt động</th><td class="tg-infobox-data">2000-nay</td></tr><tr><th scope="row" class="tg-infobox-label">nhãn</th><td class="tg-infobox-data">Không có</td></tr><tr><th scope="row" class="tg-infobox-label">trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.facebook.com/avatharFIN/" rel="noreferrer noopener" target="_blank">trang Facebook</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thành viên</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành viên hiện tại</th><td class="tg-infobox-data">Vua phù thủy<br/>Scatha<br/>Rồng Thợ săn<br/>Anfauglir<br/>Khamûl<br/>Ar-Pharazôn</td></tr><tr><th scope="row" class="tg-infobox-label">Cựu thành viên</th><td class="tg-infobox-data">Jonna Piittala<br/>Daeron<br/>Thalion<br/>Emerwen<br/>Iina<br/>Finduilas<br/>Von Blofeld<br/>Bolg<br/>Dain<br/>Miriel<br/>Dim</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Avathar.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/13/Avathar.png/320px-Avathar.png" decoding="async" loading="lazy" width="320" height="229" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/13/Avathar.png/480px-Avathar.png 1.5x, https://tolkiengateway.net/w/images/1/13/Avathar.png 2x" data-file-width="503" data-file-height="360"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Ban nhạc</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin nền</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nguồn gốc</th><td class="tg-infobox-data">Ojakkala, Finland</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Kim loại đen, <a href="../T/Tolkien_metal.md" title="Tolkien metal">Tolkien kim loại</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thời gian hoạt động</th><td class="tg-infobox-data">2000-nay</td></tr><tr><th scope="row" class="tg-infobox-label">nhãn</th><td class="tg-infobox-data">Không có</td></tr><tr><th scope="row" class="tg-infobox-label">trang web</th><td class="tg-infobox-data"><a class="external text" href="http://www.facebook.com/avatharFIN/" rel="noreferrer noopener" target="_blank">Facebook page</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thành viên</span></th></tr><tr><th scope="row" class="tg-infobox-label">Thành viên hiện tại</th><td class="tg-infobox-data">Vua phù thủy<br/>Scatha<br/>Rồng Thợ săn<br/>Anfauglir<br/>Khamûl<br/>Ar-Pharazôn</td></tr><tr><th scope="row" class="tg-infobox-label">Cựu thành viên</th><td class="tg-infobox-data">Jonna Piittala<br/>Daeron<br/>Thalion<br/>Emerwen<br/>Iina<br/>Finduilas<br/>Von Blofeld<br/>Bolg<br/>Dain<br/>Miriel<br/>Dim</td></tr></tbody></table>
 
 **Avathar** là ban nhạc black metal Phần Lan có tác phẩm lấy cảm hứng từ sáng tác của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Họ coi ban nhạc black metal của Áo [Summoning](../S/Summoning.md) là một trong những nguồn ảnh hưởng âm nhạc chính của họ.
 
@@ -71,7 +71,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i><b>Shadows</b></i>
 </td>
-<td>Full-length
+<td>Phim truyện dài
 </td>
 <td>13
 </td>
@@ -82,7 +82,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i><b>Where Light and Shadow Collide</b></i>
 </td>
-<td>Full-length
+<td>Phim truyện dài
 </td>
 <td>9
 </td>
@@ -181,7 +181,7 @@ Tác phẩm của họ được lấy cảm hứng từ ban nhạc kim loại đ
 </td>
 <td><i><b>Bûrgulu kû-ghâra</b></i>
 </td>
-<td>Full-length
+<td>Phim truyện dài
 </td>
 <td>13
 </td>

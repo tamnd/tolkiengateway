@@ -15,7 +15,7 @@ images:
   - "War_of_Wrath_Cover.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_Wrath_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/300px-War_of_Wrath_Cover.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/450px-War_of_Wrath_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/600px-War_of_Wrath_Cover.jpg 2x" data-file-width="1159" data-file-height="1160"/></a><figcaption>Artwork from the CD release. Used by permission of Ted Nasmith.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/War_of_Wrath_Cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/300px-War_of_Wrath_Cover.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/450px-War_of_Wrath_Cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/War_of_Wrath_Cover.jpg/600px-War_of_Wrath_Cover.jpg 2x" data-file-width="1159" data-file-height="1160"/></a><figcaption>Tác phẩm nghệ thuật từ bản phát hành CD. Được sử dụng với sự cho phép của Ted Nasmith.</figcaption></figure>
 
 Phần năm trong chu kỳ opera của [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md) *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien.*
 

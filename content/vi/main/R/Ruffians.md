@@ -43,15 +43,15 @@ Một trong những thủ lĩnh của bọn côn đồ đã bị giết<sup id="
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd><a href="../J/John_Bott.md" title="John Bott">John Bott</a> portrays one of the Ruffians of the Chief&#39;s Men.</dd></dl>
+<dl><dd><a href="../J/John_Bott.md" title="John Bott">John Bott</a> miêu tả một trong những Ruffians Con Người của Tù trưởng.</dd></dl>
 
 <b>2003: <a class="mw-redirect" href="../P/Pán_prsteňov_(2001-2003_Slovak_radio_series).md" title="Pán prsteňov (2001-2003 Slovak radio series)"><i>Pán prsteňov</i> (Loạt đài tiếng Slovak 2001-2003)</a>:</b>
 
-<dl><dd>The voices of two Ruffians of the Chief&#39;s Men are provided by Martin Vitek and Ivan Laca.</dd></dl>
+<dl><dd>Giọng của hai Ruffians Con Người của Tộc trưởng được cung cấp bởi Martin Vitek và Ivan Laca.</dd></dl>
 
 <b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Ruffians of Sharkey&#39;s Men can be found in regions throughout central <a href="../E/Eriador.md" title="Eriador">Eriador</a>, including <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> and the <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a>. They are classified as &#34;Brigands&#34;, a common type of enemy found across Middle-earth.</dd></dl>
+<dl><dd>Ruffians của Con Người của Sharkey có thể được tìm thấy ở các khu vực trên khắp trung tâm <a href="../E/Eriador.md" title="Eriador">Eriador</a>, bao gồm <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> và <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a>. Chúng được phân loại là "Brigands", một loại kẻ thù phổ biến được tìm thấy trên Trung Địa.</dd></dl>
 
 <span></span>
 

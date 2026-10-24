@@ -62,8 +62,8 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></td>
@@ -118,7 +118,7 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 <td>Milan Lasica
 </td></tr>
 <tr>
-<td><a href="../B/Barrow-wights.md" title="Barrow-wights">barrow-wight</a></td>
+<td><a href="../B/Barrow-wights.md" title="Barrow-wights">xe đẩy</a></td>
 <td>Vladimír Jedľovský
 </td></tr>
 <tr>
@@ -127,7 +127,7 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 </td></tr>
 <tr>
 <td><a href="../H/Harry_Goatleaf.md" title="Harry Goatleaf">Harry Goatleaf</a></td>
-<td>uncredited actor
+<td>diễn viên không được công nhận
 </td></tr>
 <tr>
 <td><a href="../G/Glorfindel.md" title="Glorfindel">Glorfindel</a></td>
@@ -226,7 +226,7 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 <td>Vilma Jamnická
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="../T/The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">The Mouth of Sauron</a></td>
+<td><a class="mw-redirect" href="../T/The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">Miệng của Sauron</a></td>
 <td>Juraj Slezáček
 </td></tr>
 <tr>
@@ -242,15 +242,15 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 <td>Karol Čálik
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian">Ruffian</a> bandit</td>
+<td><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian"><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian">Ruffian</a> bandit</a></td>
 <td>Martin Vitek
 </td></tr>
 <tr>
-<td><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian">Ruffian</a> thug</td>
+<td><a class="mw-redirect" href="../R/Ruffian.md" title="Ruffian">Tên côn đồ</a></td>
 <td>Ivan Laca
 </td></tr>
 <tr>
-<td>Additional voices <br/> and background voices</td>
+<td>Giọng nói bổ sung <br/> và giọng nói nền</td>
 <td>Martin Nahálka <br/> Juraj Hrčka <br/> Milan Ondrík <br/> Martin Fratrič <br/> Martin Gazdík
 </td></tr></tbody></table>
 

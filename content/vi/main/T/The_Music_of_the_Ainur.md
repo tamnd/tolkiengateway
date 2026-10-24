@@ -16,24 +16,24 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Music of the Ainur</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../A/Ainulindalë_(disambiguation).md" title="Ainulindalë (disambiguation)">Ainulindalë (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Âm nhạc của các Ainur</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../A/Ainulindalë_(disambiguation).md" title="Ainulindalë (disambiguation)">Ainulindalë (định hướng)</a></b>.</div></div>
 
 <table align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);padding:10px;"><i><a class="mw-redirect" href="The_Book_of_Lost_Tales_Part_One.md" title="The Book of Lost Tales Part One">The Book of Lost Tales Part One</a></i> chương
 </th></tr>
 <tr>
 <td>
 <ol><li><a href="The_Cottage_of_Lost_Play.md" title="The Cottage of Lost Play">The Cottage of Lost Play</a></li>
-<li><a class="mw-selflink selflink">The Music of the Ainur</a></li>
-<li><a href="The_Coming_of_the_Valar_and_the_Building_of_Valinor.md" title="The Coming of the Valar and the Building of Valinor">The Coming of the Valar</a></li>
+<li><a class="mw-selflink selflink">Âm nhạc của các Ainur</a></li>
+<li><a href="The_Coming_of_the_Valar_and_the_Building_of_Valinor.md" title="The Coming of the Valar and the Building of Valinor">Sự xuất hiện của Valar</a></li>
 <li><a href="The_Chaining_of_Melko.md" title="The Chaining of Melko">The Chaining of Melko</a></li>
-<li><a href="The_Coming_of_the_Elves_and_the_Making_of_Kôr.md" title="The Coming of the Elves and the Making of Kôr">The Coming of the Elves</a></li>
-<li><a href="The_Theft_of_Melko_and_the_Darkening_of_Valinor.md" title="The Theft of Melko and the Darkening of Valinor">The Theft of Melko</a></li>
-<li><a href="The_Flight_of_the_Noldoli.md" title="The Flight of the Noldoli">The Flight of the Noldoli</a></li>
+<li><a href="The_Coming_of_the_Elves_and_the_Making_of_Kôr.md" title="The Coming of the Elves and the Making of Kôr">Sự xuất hiện của Tiên tộc</a></li>
+<li><a href="The_Theft_of_Melko_and_the_Darkening_of_Valinor.md" title="The Theft of Melko and the Darkening of Valinor">Vụ trộm của Melko</a></li>
+<li><a href="The_Flight_of_the_Noldoli.md" title="The Flight of the Noldoli">Cuộc chạy trốn của Noldoli</a></li>
 <li><a href="The_Tale_of_the_Sun_and_Moon.md" title="The Tale of the Sun and Moon">The Tale of the Sun and Moon</a></li>
-<li><a href="The_Hiding_of_Valinor.md" title="The Hiding of Valinor">The Hiding of Valinor</a></li>
-<li><a href="../G/Gilfanon&#39;s_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md" title="Gilfanon&#39;s Tale: The Travail of the Noldoli and the Coming of Mankind">Gilfanon&#39;s Tale</a></li></ol>
+<li><a href="The_Hiding_of_Valinor.md" title="The Hiding of Valinor">Việc che giấu Valinor</a></li>
+<li><a href="../G/Gilfanon&#39;s_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md" title="Gilfanon&#39;s Tale: The Travail of the Noldoli and the Coming of Mankind">Truyện kể của Gilfanon</a></li></ol>
 </td></tr></tbody></table>
 
 ** Âm nhạc của các Ainur** là chương thứ hai của *[The Book of Lost Tales Part One](The_Book_of_Lost_Tales_Part_One.md)*. Chương được chia làm 2 phần: *Mối liên hệ giữa Cottage of Lost Play và (Truyện 2) Âm nhạc của Ainur* và *The Music of Ainur*.
@@ -53,7 +53,7 @@ Họ nhanh chóng đến [một cây thông xanh](../A/Arbour_of_the_Thrushes.md
 Rúmil bắt đầu kể lại câu chuyện mà chỉ Tiên tộc biết từ [Manwë](../M/Manwë.md) Súlimo: Ilúvatar sống một mình, và ông đã hát thành Ainur và dạy họ nhiều điều, coi âm nhạc là điều vĩ đại nhất. Khi họ học chơi và hát nhạc, ông đã đề xuất cho họ một chủ đề tuyệt vời, giải thích rằng họ sẽ tiết lộ trong Bài hát lịch sử mà họ đã nghe và rằng ông đã thắp sáng rực rỡ với [Ngọn lửa bí mật](../S/Secret_Fire.md).
 
 <blockquote class="tg-quote noexcerpt">
-<p>Then the harpists, and the lutanists, the flautists and pipers, the organs and the countless choirs of the Ainur began to fashion the theme of Ilúvatar into great music; and a sound arose of mighty melodies changing and interchanging, mingling and dissolving amid the thunder of harmonies greater than the roar of the great seas, till the places of the dwelling of Ilúvatar and the regions of the Ainur were filled to overflowing with music, and the echo of music, and the echo of the echoes of music which flowed even into the dark an empty spaces far off. Never was there before, nor has there been since, such a music of immeasurable vastness of splendour; though it is said that a mightier far shall be woven before the seat of Ilúvatar by the choirs of both Ainur and the sons of Men after the <a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Great End</a>. Then shall Ilúvatar&#39;s mightiest themes be played aright; for then Ainur and Men will know his mind and heart as well as may be, and all his intent.
+<p>Sau đó, những người chơi đàn hạc, những người chơi đàn luýt, những người thổi sáo và thổi sáo, đàn organ và vô số dàn hợp xướng của Ainur bắt đầu biến chủ đề Ilúvatar thành thứ âm nhạc tuyệt vời; và một âm thanh của những giai điệu hùng mạnh thay đổi và trao đổi, hòa quyện và hòa tan giữa tiếng sấm của hòa âm lớn hơn cả tiếng gầm của biển cả, cho đến khi nơi ở của Ilúvatar và các vùng của Ainur tràn ngập âm nhạc, tiếng vang của âm nhạc, và tiếng vang của tiếng vang của âm nhạc thậm chí chảy vào bóng tối ở một không gian trống rỗng xa xăm. Trước đây chưa bao giờ có và kể từ đó cũng chưa từng có một thứ âm nhạc lộng lẫy vô lượng như vậy; mặc dù người ta nói rằng một vùng đất xa xôi hùng mạnh hơn sẽ được dệt nên trước ghế của Ilúvatar bởi dàn hợp xướng của cả Ainur và các con trai của Con Người sau <a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Great End</a>. Sau đó, các chủ đề mạnh mẽ nhất của Ilúvatar sẽ được phát đúng cách; vì khi đó Ainur và Con Người sẽ biết rõ nhất tâm trí và trái tim cũng như mọi ý định của ông.
 </p>
 </blockquote>
 

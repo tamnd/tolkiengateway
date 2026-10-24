@@ -16,39 +16,39 @@ sort_keys:
 
 <table class="tginfobox" align="right" cellpadding="3" cellspacing="0" style="margin:15px;border:var(--tg-border-base);background-color:var(--tg-color-surface-2);border-radius:var(--tg-border-radius-large);">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> chapters
+<th style="background:var(--tg-color-surface-5);border-top-right-radius:var(--tg-border-radius-large);border-top-left-radius:var(--tg-border-radius-large);padding:10px;"><i><a href="The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i> chương
 </th></tr>
 <tr>
 <td>
-<dl><dd><b>The First Phase</b></dd></dl>
-<ol><li><a href="../A/A_Long-expected_Party_(chapter_in_The_Return_of_the_Shadow).md" title="A Long-expected Party (chapter in The Return of the Shadow)">A Long-expected Party</a></li>
-<li><a href="../F/From_Hobbiton_to_the_Woody_End.md" title="From Hobbiton to the Woody End">From Hobbiton to the Woody End</a></li>
-<li><a href="../O/Of_Gollum_and_the_Ring.md" title="Of Gollum and the Ring">Of Gollum and the Ring</a></li>
-<li><a class="mw-selflink selflink">To Maggot&#39;s Farm and Buckland</a></li>
-<li><a href="The_Old_Forest_and_the_Withywindle.md" title="The Old Forest and the Withywindle">The Old Forest and the Withywindle</a></li>
+<dl><dd><b>Giai đoạn thứ nhất</b></dd></dl>
+<ol><li><a href="../A/A_Long-expected_Party_(chapter_in_The_Return_of_the_Shadow).md" title="A Long-expected Party (chapter in The Return of the Shadow)">Bữa tiệc được mong đợi từ lâu</a></li>
+<li><a href="../F/From_Hobbiton_to_the_Woody_End.md" title="From Hobbiton to the Woody End">Từ Hobbiton đến Woody End</a></li>
+<li><a href="../O/Of_Gollum_and_the_Ring.md" title="Of Gollum and the Ring">Về Gollum và chiếc Nhẫn</a></li>
+<li><a class="mw-selflink selflink">Đến trang trại của Maggot và Buckland</a></li>
+<li><a href="The_Old_Forest_and_the_Withywindle.md" title="The Old Forest and the Withywindle">Khu Rừng Cổ và Withywindle</a></li>
 <li><a href="Tom_Bombadil_(chapter).md" title="Tom Bombadil (chapter)">Tom Bombadil</a></li>
 <li><a href="The_Barrow-wight.md" title="The Barrow-wight">The Barrow-wight</a></li>
-<li><a href="../A/Arrival_at_Bree.md" title="Arrival at Bree">Arrival at Bree</a></li>
-<li><a href="Trotter_and_the_Journey_to_Weathertop.md" title="Trotter and the Journey to Weathertop">Trotter and the Journey to Weathertop</a></li>
-<li><a href="The_Attack_on_Weathertop.md" title="The Attack on Weathertop">The Attack on Weathertop</a></li>
-<li><a href="../F/From_Weathertop_to_the_Ford.md" title="From Weathertop to the Ford">From Weathertop to the Ford</a></li>
+<li><a href="../A/Arrival_at_Bree.md" title="Arrival at Bree">Đến Bree</a></li>
+<li><a href="Trotter_and_the_Journey_to_Weathertop.md" title="Trotter and the Journey to Weathertop">Trotter và hành trình đến Weathertop</a></li>
+<li><a href="The_Attack_on_Weathertop.md" title="The Attack on Weathertop">Cuộc tấn công tại Weathertop</a></li>
+<li><a href="../F/From_Weathertop_to_the_Ford.md" title="From Weathertop to the Ford">Từ Weathertop đến khúc cạn</a></li>
 <li><a href="../A/At_Rivendell.md" title="At Rivendell">At Rivendell</a></li>
 <li>&#39;<a href="../Q/Queries_and_Alterations.md" title="Queries and Alterations">Queries and Alterations</a>&#39;</li></ol>
 <dl><dd><b>The Second Phase</b><i></i></dd></dl>
-<ol><li><a href="../R/Return_to_Hobbiton.md" title="Return to Hobbiton">Return to Hobbiton</a></li>
-<li>Ancient History</li>
-<li>Delays Are Dangerous</li>
-<li>A Short Cut to Mushrooms</li>
-<li>Again from Buckland to the Withywindle</li></ol>
-<dl><dd><b>The Third Phase</b></dd></dl>
-<ol><li>The Journey to Bree</li>
+<ol><li><a href="../R/Return_to_Hobbiton.md" title="Return to Hobbiton">Trở về Hobbiton</a></li>
+<li>Lịch sử cổ đại</li>
+<li>Chậm trễ là nguy hiểm</li>
+<li>Đường tắt đến chỗ có nấm</li>
+<li>Một lần nữa, từ Buckland đến Withywindle</li></ol>
+<dl><dd><b>Giai đoạn thứ ba</b></dd></dl>
+<ol><li>Hành trình đến Bree</li>
 <li>At the Sign of the Prancing Pony</li>
 <li>To Weathertop and Rivendell</li>
-<li>New Uncertainties and New Projections</li></ol>
-<dl><dd><b>The Story Continued</b></dd></dl>
-<ol><li>In the House of Elrond</li>
-<li>The Ring Goes South</li>
-<li>The Mines of Moria</li></ol>
+<li>Những điều bất định mới và những dự phóng mới</li></ol>
+<dl><dd><b>Câu chuyện tiếp diễn</b></dd></dl>
+<ol><li>Tại nhà Elrond</li>
+<li>Chiếc Nhẫn tiến về phương Nam</li>
+<li>Hầm mỏ Moria</li></ol>
 </td></tr></tbody></table>
 
 **Đến trang trại của Maggot và Buckland** là tựa đề của chương thứ tư của *[The Return of the Shadow](The_Return_of_the_Shadow.md)*, cuốn thứ sáu trong bộ *[The History of Middle-earth](The_History_of_Middle-earth.md)* của [Christopher Tolkien](../C/Christopher_Tolkien.md).

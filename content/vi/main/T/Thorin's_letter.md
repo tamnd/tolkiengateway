@@ -18,10 +18,10 @@ images:
   - "J.R.R._Tolkien_-_Bilbo's_contract_tengwar.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Bilbo&#39;s_contract_tengwar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3b/J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg/300px-J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg" decoding="async" loading="lazy" width="300" height="353" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg/450px-J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg/600px-J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg 2x" data-file-width="680" data-file-height="800"/></a><figcaption>The second page of Thorin&#39;s letter in <a href="Tengwar.md" title="Tengwar">tengwar</a>.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Bilbo&#39;s_contract_tengwar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3b/J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg/300px-J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg" decoding="async" loading="lazy" width="300" height="353" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg/450px-J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg/600px-J.R.R._Tolkien_-_Bilbo%27s_contract_tengwar.jpg 2x" data-file-width="680" data-file-height="800"/></a><figcaption>Trang thứ hai trong lá thư của Thorin trong <a href="Tengwar.md" title="Tengwar">tengwar</a>.</figcaption></figure>
 
 **Thorin thư của**,<sup id="cite_ref-Thief_1-0" class="reference"><a href="#cite_note-Thief-1">[1]</a></sup> là một lá thư từ [Thorin và Đoàn tùy tùng](Thorin_and_Company.md) gửi đến [Bilbo Baggins](../B/Bilbo_Baggins.md).<sup id="cite_ref-Mutton_2-0" class="reference"><a href="#cite_note-Mutton-2">[2]</a></sup>
 
@@ -41,20 +41,20 @@ Trong bản thảo lá thư của *[The Hobbit](The_Hobbit.md)* Thorin, được
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<h3><span id="Thorin.27s_letter_in_adaptations"></span><span class="mw-headline" id="Thorin&#39;s_letter_in_adaptations">Thorin&#39;s letter in adaptations</span></h3>
+<h3><span id="Thorin.27s_letter_in_adaptations"></span><span class="mw-headline" id="Thorin&#39;s_letter_in_adaptations">Thư của Thorin trong bản chuyển thể</span></h3>
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_-_An_Unexpected_Journey_-_Bilbo_Baggins_in_Bag_End.jpg.md" title="Bilbo&#39;s contract in The Hobbit: An Unexpected Journey"><img alt="Bilbo&#39;s contract in The Hobbit: An Unexpected Journey" src="https://tolkiengateway.net/w/images/thumb/6/6c/The_Hobbit_-_An_Unexpected_Journey_-_Bilbo_Baggins_in_Bag_End.jpg/200px-The_Hobbit_-_An_Unexpected_Journey_-_Bilbo_Baggins_in_Bag_End.jpg" decoding="async" loading="lazy" width="200" height="133" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/6c/The_Hobbit_-_An_Unexpected_Journey_-_Bilbo_Baggins_in_Bag_End.jpg/300px-The_Hobbit_-_An_Unexpected_Journey_-_Bilbo_Baggins_in_Bag_End.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/6c/The_Hobbit_-_An_Unexpected_Journey_-_Bilbo_Baggins_in_Bag_End.jpg/400px-The_Hobbit_-_An_Unexpected_Journey_-_Bilbo_Baggins_in_Bag_End.jpg 2x" data-file-width="720" data-file-height="480"/></a></span></div>
 			<div class="gallerytext">
-<p>Bilbo&#39;s contract in <i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>
+<p>Hợp đồng của Bilbo trong <i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 235px">
 			<div class="thumb" style="width: 230px; height: 180px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/W/Weta_Workshop_-_Bilbo&#39;s_contract.jpg.md" title="Bilbo&#39;s contract by Weta Workshop"><img alt="Bilbo&#39;s contract by Weta Workshop" src="https://tolkiengateway.net/w/images/thumb/b/b8/Weta_Workshop_-_Bilbo%27s_contract.jpg/132px-Weta_Workshop_-_Bilbo%27s_contract.jpg" decoding="async" loading="lazy" width="132" height="150" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Weta_Workshop_-_Bilbo%27s_contract.jpg/199px-Weta_Workshop_-_Bilbo%27s_contract.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Weta_Workshop_-_Bilbo%27s_contract.jpg/265px-Weta_Workshop_-_Bilbo%27s_contract.jpg 2x" data-file-width="530" data-file-height="600"/></a></span></div>
 			<div class="gallerytext">
-<p>Bilbo&#39;s contract by <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta Workshop</a>
+<p>Hợp đồng Bilbo của <a class="mw-redirect" href="../W/Weta_Workshop.md" title="Weta Workshop">Weta Workshop</a>
 </p>
 			</div>
 		</li>
@@ -62,7 +62,7 @@ Trong bản thảo lá thư của *[The Hobbit](The_Hobbit.md)* Thorin, được
 
 <b><a href="../_/2012.md" title="2012">2012</a>: <i><a href="The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
-<dl><dd>Unlike Tolkien&#39;s version, where Bilbo gets the message first after the departure of the dwarves, <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>&#39;s film version makes Bilbo receive the contract directly from Thorin and Company while still at <a href="../B/Bag_End.md" title="Bag End">Bag End</a>. Furthermore, the contract is much longer in the film version than in <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Weta Workshop has released a replica of Bilbo&#39;s contract as portrayed in the film, hand made by <a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
+<dl><dd>Không giống như phiên bản của Tolkien, nơi Bilbo nhận được tin nhắn đầu tiên sau sự ra đi của những người lùn, phiên bản phim của <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> khiến Bilbo nhận được hợp đồng trực tiếp từ Thorin và Đoàn tùy tùng khi vẫn còn ở <a href="../B/Bag_End.md" title="Bag End">Bag End</a>. Hơn nữa, hợp đồng ở phiên bản phim dài hơn nhiều so với trong <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Weta Workshop đã phát hành bản sao hợp đồng của Bilbo như được miêu tả trong phim, do <a href="../D/Daniel_Reeve.md" title="Daniel Reeve">Daniel Reeve</a> thực hiện.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
 <span></span>
 

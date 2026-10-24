@@ -33,7 +33,7 @@ Trò chơi có ba <a class="extiw" href="http://en.wikipedia.org/wiki/Multiball"
 
 - Thu thập 5000 linh hồn trên "Con đường của người chết" và bắn [Orthanc](../O/Orthanc.md), Barad-Dûr hoặc Gollum Hang động để bắt đầu. Điểm tất cả các giải độc đắc để hoàn thành.
 
-<dl><dt>Other objectives</dt>
+<dl><dt>Mục tiêu khác</dt>
 <dd></dd></dl>
 
 - *Escape the Ringwraiths*

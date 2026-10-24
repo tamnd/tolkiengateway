@@ -59,13 +59,13 @@ Anh cũng từng tham gia loạt phim <a class="extiw" href="http://en.wikipedia
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Lord of the Rings was just so much enjoyment. It was over about the space of a year that I was filming. It&#39;s one of the most enjoyable things I&#39;ve ever done...so emotional.
 </p>
-<p class="tg-quote-footer"><cite>Sean Bean, compleateanbean.com</cite></p>
+<p class="tg-quote-footer"><cite>Sean Bean, compleatseanbean.com</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>Tôi tự hào về Chúa tể những chiếc nhẫn và tôi muốn ở đó để nói với mọi người hãy đến xem và ủng hộ nó. Tôi nghĩ đó là vai diễn một lần trong đời và một bộ phim chỉ có một lần trong đời.
 </p>
-<p class="tg-quote-footer"><cite>Sean Bean, compleateanbean.com</cite></p>
+<p class="tg-quote-footer"><cite>Sean Bean, compleatseanbean.com</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">

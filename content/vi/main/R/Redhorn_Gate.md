@@ -32,7 +32,7 @@ Vào [13 tháng Chín](../_/13_September.md) [Celeborn](../C/Celeborn.md), [Gala
 
 <b>2009: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Redhorn Gate is featured in the region of <a href="../E/Eregion.md" title="Eregion">Eregion</a>. The snowstorms are very strong in this area, and an avalanche prevents further travel to the lands of the east.</dd></dl>
+<dl><dd>Cổng Redhorn nổi bật ở vùng <a href="../E/Eregion.md" title="Eregion">Eregion</a>. Bão tuyết rất mạnh ở khu vực này và một trận tuyết lở đã ngăn cản việc di chuyển tiếp tục đến các vùng đất phía đông.</dd></dl>
 
 <span></span>
 

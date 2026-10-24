@@ -66,21 +66,21 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1972.gif.md" title="1968 paperback 11th impression"><img alt="1968 paperback 11th impression" src="https://tolkiengateway.net/w/images/thumb/b/b5/The_Lord_of_the_Rings_OV_1972.gif/76px-The_Lord_of_the_Rings_OV_1972.gif" decoding="async" loading="lazy" width="76" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b5/The_Lord_of_the_Rings_OV_1972.gif/114px-The_Lord_of_the_Rings_OV_1972.gif 1.5x, https://tolkiengateway.net/w/images/thumb/b/b5/The_Lord_of_the_Rings_OV_1972.gif/152px-The_Lord_of_the_Rings_OV_1972.gif 2x" data-file-width="304" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1968 paperback 11th impression
+<p>Ấn tượng thứ 11 bìa mềm năm 1968
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1973.gif.md" title="1968 paperback 12th impression"><img alt="1968 paperback 12th impression" src="https://tolkiengateway.net/w/images/thumb/7/74/The_Lord_of_the_Rings_OV_1973.gif/76px-The_Lord_of_the_Rings_OV_1973.gif" decoding="async" loading="lazy" width="76" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/The_Lord_of_the_Rings_OV_1973.gif/115px-The_Lord_of_the_Rings_OV_1973.gif 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/The_Lord_of_the_Rings_OV_1973.gif/153px-The_Lord_of_the_Rings_OV_1973.gif 2x" data-file-width="306" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1968 paperback 12th impression
+<p>Ấn tượng thứ 12 bìa mềm năm 1968
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1969.gif.md" title="1969 hardcover deluxe edition"><img alt="1969 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_OV_1969.gif/78px-The_Lord_of_the_Rings_OV_1969.gif" decoding="async" loading="lazy" width="78" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_OV_1969.gif/118px-The_Lord_of_the_Rings_OV_1969.gif 1.5x, https://tolkiengateway.net/w/images/thumb/a/a9/The_Lord_of_the_Rings_OV_1969.gif/156px-The_Lord_of_the_Rings_OV_1969.gif 2x" data-file-width="313" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1969 hardcover deluxe edition
+<p>Phiên bản bìa cứng cao cấp năm 1969
 </p>
 			</div>
 		</li>
@@ -94,7 +94,7 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1979.gif.md" title="1978 paperback film tie-in"><img alt="1978 paperback film tie-in" src="https://tolkiengateway.net/w/images/thumb/c/c3/The_Lord_of_the_Rings_OV_1979.gif/80px-The_Lord_of_the_Rings_OV_1979.gif" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c3/The_Lord_of_the_Rings_OV_1979.gif/120px-The_Lord_of_the_Rings_OV_1979.gif 1.5x, https://tolkiengateway.net/w/images/thumb/c/c3/The_Lord_of_the_Rings_OV_1979.gif/160px-The_Lord_of_the_Rings_OV_1979.gif 2x" data-file-width="320" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1978 paperback film tie-in
+<p>Liên kết phim bìa mềm năm 1978
 </p>
 			</div>
 		</li>
@@ -108,14 +108,14 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1987.gif.md" title="1983 paperback 8th impression"><img alt="1983 paperback 8th impression" src="https://tolkiengateway.net/w/images/thumb/9/94/The_Lord_of_the_Rings_OV_1987.gif/80px-The_Lord_of_the_Rings_OV_1987.gif" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/94/The_Lord_of_the_Rings_OV_1987.gif/121px-The_Lord_of_the_Rings_OV_1987.gif 1.5x, https://tolkiengateway.net/w/images/thumb/9/94/The_Lord_of_the_Rings_OV_1987.gif/161px-The_Lord_of_the_Rings_OV_1987.gif 2x" data-file-width="322" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1983 paperback 8th impression
+<p>Ấn tượng thứ 8 bìa mềm năm 1983
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1989.gif.md" title="1983 paperback 12th impression"><img alt="1983 paperback 12th impression" src="https://tolkiengateway.net/w/images/thumb/5/54/The_Lord_of_the_Rings_OV_1989.gif/80px-The_Lord_of_the_Rings_OV_1989.gif" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/54/The_Lord_of_the_Rings_OV_1989.gif/121px-The_Lord_of_the_Rings_OV_1989.gif 1.5x, https://tolkiengateway.net/w/images/thumb/5/54/The_Lord_of_the_Rings_OV_1989.gif/160px-The_Lord_of_the_Rings_OV_1989.gif 2x" data-file-width="321" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1983 paperback 12th impression
+<p>Ấn tượng thứ 12 bìa mềm năm 1983
 </p>
 			</div>
 		</li>
@@ -152,14 +152,14 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1991-black.gif.md" title="1991 hardcover 11th impression"><img alt="1991 hardcover 11th impression" src="https://tolkiengateway.net/w/images/thumb/2/26/The_Lord_of_the_Rings_OV_1991-black.gif/83px-The_Lord_of_the_Rings_OV_1991-black.gif" decoding="async" loading="lazy" width="83" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/26/The_Lord_of_the_Rings_OV_1991-black.gif/125px-The_Lord_of_the_Rings_OV_1991-black.gif 1.5x, https://tolkiengateway.net/w/images/thumb/2/26/The_Lord_of_the_Rings_OV_1991-black.gif/166px-The_Lord_of_the_Rings_OV_1991-black.gif 2x" data-file-width="332" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1991 hardcover 11th impression
+<p>Ấn tượng thứ 11 bìa cứng năm 1991
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1991-del.gif.md" title="1991 hardcover illust. by A. L. deluxe edition"><img alt="1991 hardcover illust. by A. L. deluxe edition" src="https://tolkiengateway.net/w/images/thumb/a/a5/The_Lord_of_the_Rings_OV_1991-del.gif/81px-The_Lord_of_the_Rings_OV_1991-del.gif" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a5/The_Lord_of_the_Rings_OV_1991-del.gif/122px-The_Lord_of_the_Rings_OV_1991-del.gif 1.5x, https://tolkiengateway.net/w/images/thumb/a/a5/The_Lord_of_the_Rings_OV_1991-del.gif/163px-The_Lord_of_the_Rings_OV_1991-del.gif 2x" data-file-width="326" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1991 hardcover illust. by A. L. deluxe edition
+<p>Minh họa bìa cứng năm 1991. bởi A. L. phiên bản cao cấp
 </p>
 			</div>
 		</li>
@@ -173,7 +173,7 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1994-9-hb.gif.md" title="1994 hardcover 9th impression"><img alt="1994 hardcover 9th impression" src="https://tolkiengateway.net/w/images/thumb/9/9c/The_Lord_of_the_Rings_OV_1994-9-hb.gif/79px-The_Lord_of_the_Rings_OV_1994-9-hb.gif" decoding="async" loading="lazy" width="79" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9c/The_Lord_of_the_Rings_OV_1994-9-hb.gif/119px-The_Lord_of_the_Rings_OV_1994-9-hb.gif 1.5x, https://tolkiengateway.net/w/images/thumb/9/9c/The_Lord_of_the_Rings_OV_1994-9-hb.gif/159px-The_Lord_of_the_Rings_OV_1994-9-hb.gif 2x" data-file-width="318" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1994 hardcover 9th impression
+<p>Ấn tượng thứ 9 bìa cứng năm 1994
 </p>
 			</div>
 		</li>
@@ -187,28 +187,28 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1995-11-pb.gif.md" title="1995 paperback 11th impression"><img alt="1995 paperback 11th impression" src="https://tolkiengateway.net/w/images/thumb/8/8f/The_Lord_of_the_Rings_OV_1995-11-pb.gif/81px-The_Lord_of_the_Rings_OV_1995-11-pb.gif" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8f/The_Lord_of_the_Rings_OV_1995-11-pb.gif/122px-The_Lord_of_the_Rings_OV_1995-11-pb.gif 1.5x, https://tolkiengateway.net/w/images/thumb/8/8f/The_Lord_of_the_Rings_OV_1995-11-pb.gif/162px-The_Lord_of_the_Rings_OV_1995-11-pb.gif 2x" data-file-width="324" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1995 paperback 11th impression
+<p>Ấn tượng thứ 11 bìa mềm năm 1995
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1995-16-pb.gif.md" title="1995 paperback 16th impression"><img alt="1995 paperback 16th impression" src="https://tolkiengateway.net/w/images/thumb/c/cc/The_Lord_of_the_Rings_OV_1995-16-pb.gif/82px-The_Lord_of_the_Rings_OV_1995-16-pb.gif" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/The_Lord_of_the_Rings_OV_1995-16-pb.gif/123px-The_Lord_of_the_Rings_OV_1995-16-pb.gif 1.5x, https://tolkiengateway.net/w/images/thumb/c/cc/The_Lord_of_the_Rings_OV_1995-16-pb.gif/164px-The_Lord_of_the_Rings_OV_1995-16-pb.gif 2x" data-file-width="328" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1995 paperback 16th impression
+<p>Ấn tượng thứ 16 bìa mềm năm 1995
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1995-30-pb.gif.md" title="1995 paperback 30th impression"><img alt="1995 paperback 30th impression" src="https://tolkiengateway.net/w/images/thumb/8/89/The_Lord_of_the_Rings_OV_1995-30-pb.gif/80px-The_Lord_of_the_Rings_OV_1995-30-pb.gif" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/89/The_Lord_of_the_Rings_OV_1995-30-pb.gif/121px-The_Lord_of_the_Rings_OV_1995-30-pb.gif 1.5x, https://tolkiengateway.net/w/images/thumb/8/89/The_Lord_of_the_Rings_OV_1995-30-pb.gif/160px-The_Lord_of_the_Rings_OV_1995-30-pb.gif 2x" data-file-width="321" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1995 paperback 30th impression
+<p>Ấn tượng thứ 30 bìa mềm năm 1995
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_1997.gif.md" title="1997 hardcover deluxe edition"><img alt="1997 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/1/11/The_Lord_of_the_Rings_OV_1997.gif/78px-The_Lord_of_the_Rings_OV_1997.gif" decoding="async" loading="lazy" width="78" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/11/The_Lord_of_the_Rings_OV_1997.gif/118px-The_Lord_of_the_Rings_OV_1997.gif 1.5x, https://tolkiengateway.net/w/images/thumb/1/11/The_Lord_of_the_Rings_OV_1997.gif/157px-The_Lord_of_the_Rings_OV_1997.gif 2x" data-file-width="314" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>1997 hardcover deluxe edition
+<p>Phiên bản bìa cứng cao cấp năm 1997
 </p>
 			</div>
 		</li>
@@ -233,35 +233,35 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2001-film.gif.md" title="2001 paperback film tie-in"><img alt="2001 paperback film tie-in" src="https://tolkiengateway.net/w/images/thumb/3/3a/The_Lord_of_the_Rings_OV_2001-film.gif/81px-The_Lord_of_the_Rings_OV_2001-film.gif" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3a/The_Lord_of_the_Rings_OV_2001-film.gif/121px-The_Lord_of_the_Rings_OV_2001-film.gif 1.5x, https://tolkiengateway.net/w/images/thumb/3/3a/The_Lord_of_the_Rings_OV_2001-film.gif/161px-The_Lord_of_the_Rings_OV_2001-film.gif 2x" data-file-width="323" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>2001 paperback film tie-in
+<p>Liên kết phim bìa mềm năm 2001
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2002-hb.gif.md" title="2002 hardcover film tie-in"><img alt="2002 hardcover film tie-in" src="https://tolkiengateway.net/w/images/thumb/4/47/The_Lord_of_the_Rings_OV_2002-hb.gif/79px-The_Lord_of_the_Rings_OV_2002-hb.gif" decoding="async" loading="lazy" width="79" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/The_Lord_of_the_Rings_OV_2002-hb.gif/119px-The_Lord_of_the_Rings_OV_2002-hb.gif 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/The_Lord_of_the_Rings_OV_2002-hb.gif/158px-The_Lord_of_the_Rings_OV_2002-hb.gif 2x" data-file-width="316" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>2002 hardcover film tie-in
+<p>Liên kết phim bìa cứng năm 2002
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2002-film.gif.md" title="2002 paperback film tie-in"><img alt="2002 paperback film tie-in" src="https://tolkiengateway.net/w/images/thumb/7/71/The_Lord_of_the_Rings_OV_2002-film.gif/81px-The_Lord_of_the_Rings_OV_2002-film.gif" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/71/The_Lord_of_the_Rings_OV_2002-film.gif/122px-The_Lord_of_the_Rings_OV_2002-film.gif 1.5x, https://tolkiengateway.net/w/images/thumb/7/71/The_Lord_of_the_Rings_OV_2002-film.gif/163px-The_Lord_of_the_Rings_OV_2002-film.gif 2x" data-file-width="326" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>2002 paperback film tie-in
+<p>Liên kết phim bìa mềm năm 2002
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2003-film.gif.md" title="2003 paperback film tie-in"><img alt="2003 paperback film tie-in" src="https://tolkiengateway.net/w/images/thumb/0/03/The_Lord_of_the_Rings_OV_2003-film.gif/81px-The_Lord_of_the_Rings_OV_2003-film.gif" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/03/The_Lord_of_the_Rings_OV_2003-film.gif/122px-The_Lord_of_the_Rings_OV_2003-film.gif 1.5x, https://tolkiengateway.net/w/images/thumb/0/03/The_Lord_of_the_Rings_OV_2003-film.gif/162px-The_Lord_of_the_Rings_OV_2003-film.gif 2x" data-file-width="324" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>2003 paperback film tie-in
+<p>Liên kết phim bìa mềm năm 2003
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2003-little.gif.md" title="2003 paperback mini edition"><img alt="2003 paperback mini edition" src="https://tolkiengateway.net/w/images/thumb/8/8c/The_Lord_of_the_Rings_OV_2003-little.gif/88px-The_Lord_of_the_Rings_OV_2003-little.gif" decoding="async" loading="lazy" width="88" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8c/The_Lord_of_the_Rings_OV_2003-little.gif/133px-The_Lord_of_the_Rings_OV_2003-little.gif 1.5x, https://tolkiengateway.net/w/images/thumb/8/8c/The_Lord_of_the_Rings_OV_2003-little.gif/176px-The_Lord_of_the_Rings_OV_2003-little.gif 2x" data-file-width="353" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>2003 paperback mini edition
+<p>Phiên bản mini bìa mềm năm 2003
 </p>
 			</div>
 		</li>
@@ -275,7 +275,7 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2004-del.jpeg.md" title="2004 hardcover deluxe edition"><img alt="2004 hardcover deluxe edition" src="https://tolkiengateway.net/w/images/thumb/7/79/The_Lord_of_the_Rings_OV_2004-del.jpeg/125px-The_Lord_of_the_Rings_OV_2004-del.jpeg" decoding="async" loading="lazy" width="125" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/79/The_Lord_of_the_Rings_OV_2004-del.jpeg/188px-The_Lord_of_the_Rings_OV_2004-del.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/7/79/The_Lord_of_the_Rings_OV_2004-del.jpeg/250px-The_Lord_of_the_Rings_OV_2004-del.jpeg 2x" data-file-width="1080" data-file-height="1080"/></a></span></div>
 			<div class="gallerytext">
-<p>2004 hardcover deluxe edition
+<p>Phiên bản bìa cứng cao cấp năm 2004
 </p>
 			</div>
 		</li>
@@ -318,28 +318,28 @@ Dưới đây là *major* ấn bản một tập **tại Vương quốc Anh** c�
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2021-hb.jpeg.md" title="2021 hardcover illust. by author"><img alt="2021 hardcover illust. by author" src="https://tolkiengateway.net/w/images/thumb/3/3b/The_Lord_of_the_Rings_OV_2021-hb.jpeg/81px-The_Lord_of_the_Rings_OV_2021-hb.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/The_Lord_of_the_Rings_OV_2021-hb.jpeg/122px-The_Lord_of_the_Rings_OV_2021-hb.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/The_Lord_of_the_Rings_OV_2021-hb.jpeg/163px-The_Lord_of_the_Rings_OV_2021-hb.jpeg 2x" data-file-width="1749" data-file-height="2687"/></a></span></div>
 			<div class="gallerytext">
-<p>2021 hardcover illust. by author
+<p>Minh họa bìa cứng năm 2021. theo tác giả
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2021-del.jpeg.md" title="2021 hardcover illust. by author deluxe edition"><img alt="2021 hardcover illust. by author deluxe edition" src="https://tolkiengateway.net/w/images/thumb/1/1a/The_Lord_of_the_Rings_OV_2021-del.jpeg/111px-The_Lord_of_the_Rings_OV_2021-del.jpeg" decoding="async" loading="lazy" width="111" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/1a/The_Lord_of_the_Rings_OV_2021-del.jpeg/168px-The_Lord_of_the_Rings_OV_2021-del.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/1/1a/The_Lord_of_the_Rings_OV_2021-del.jpeg/223px-The_Lord_of_the_Rings_OV_2021-del.jpeg 2x" data-file-width="1600" data-file-height="1793"/></a></span></div>
 			<div class="gallerytext">
-<p>2021 hardcover illust. by author deluxe edition
+<p>Minh họa bìa cứng năm 2021. của tác giả phiên bản cao cấp
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2022-pb.jpeg.md" title="2022 paperback TV tie-in"><img alt="2022 paperback TV tie-in" src="https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_OV_2022-pb.jpeg/79px-The_Lord_of_the_Rings_OV_2022-pb.jpeg" decoding="async" loading="lazy" width="79" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_OV_2022-pb.jpeg/119px-The_Lord_of_the_Rings_OV_2022-pb.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_OV_2022-pb.jpeg/159px-The_Lord_of_the_Rings_OV_2022-pb.jpeg 2x" data-file-width="500" data-file-height="787"/></a></span></div>
 			<div class="gallerytext">
-<p>2022 paperback TV tie-in
+<p>Kết nối TV bìa mềm năm 2022
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_OV_2022-pb-2.jpg.md" title="2022 paperback"><img alt="2022 paperback" src="https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_OV_2022-pb-2.jpg/81px-The_Lord_of_the_Rings_OV_2022-pb-2.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_OV_2022-pb-2.jpg/122px-The_Lord_of_the_Rings_OV_2022-pb-2.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/44/The_Lord_of_the_Rings_OV_2022-pb-2.jpg/163px-The_Lord_of_the_Rings_OV_2022-pb-2.jpg 2x" data-file-width="1500" data-file-height="2301"/></a></span></div>
 			<div class="gallerytext">
-<p>2022 paperback
+<p>Bản bìa mềm năm 2022
 </p>
 			</div>
 		</li>

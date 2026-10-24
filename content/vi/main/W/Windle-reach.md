@@ -23,7 +23,7 @@ images:
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mark_Fisher_-_Withywindle.png.md"><img src="https://tolkiengateway.net/w/images/a/ad/Mark_Fisher_-_Withywindle.png" decoding="async" loading="lazy" width="242" height="290" class="mw-file-element" data-file-width="242" data-file-height="290"/></a><figcaption>Map of the Withywindle</figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Tom came to Withy-weir. Down the river rushing<br/>foamed into Windle-reach, a-bubbling and a-splashing...
+<p>Tom đến Withy-Weir. Xuôi theo dòng sông<br/>bọt vào Windle-reach, a-sủi bọt và bắn tung tóe...
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../B/Bombadil_Goes_Boating.md" title="Bombadil Goes Boating">Bombadil Goes Boating</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

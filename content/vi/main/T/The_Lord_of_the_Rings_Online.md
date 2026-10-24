@@ -9,7 +9,7 @@ source_url: "https://tolkiengateway.net/wiki/The_Lord_of_the_Rings_Online"
 content_sha256: be2b57e354adf76e6859eaeeee0ba097703ab4a9ae482acef435ccaf485f6322
 license: CC BY-SA 4.0
 source: Tolkien Gateway
-short_description: "Multiplayer role-playing video game"
+short_description: "Trò chơi điện tử nhập vai nhiều người chơi"
 categories:
   - "Articles to be rewritten"
   - "The Lord of the Rings Online"
@@ -51,13 +51,13 @@ infobox:
     value: "MMORPG"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/LOTRO_logo.png/320px-LOTRO_logo.png" decoding="async" loading="lazy" width="320" height="152" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/LOTRO_logo.png/480px-LOTRO_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/LOTRO_logo.png/640px-LOTRO_logo.png 2x" data-file-width="826" data-file-height="393"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Online</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc.</a> (2007-2016)
-<a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a> (2016-Present)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../M/Midway_Games.md" title="Midway Games">Midway Games</a> (2007-2010)
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_logo.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/LOTRO_logo.png/320px-LOTRO_logo.png" decoding="async" loading="lazy" width="320" height="152" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/LOTRO_logo.png/480px-LOTRO_logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/LOTRO_logo.png/640px-LOTRO_logo.png 2x" data-file-width="826" data-file-height="393"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Online</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc.</a> (2007-2016)
+<a href="../S/Standing_Stone_Games.md" title="Standing Stone Games">Standing Stone Games</a> (2016-Present)</td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../M/Midway_Games.md" title="Midway Games">Midway Games</a> (2007-2010)
 <p><a class="mw-redirect" href="../W/Warner_Bros._Interactive_Entertainment.md" title="Warner Bros. Interactive Entertainment">Warner Bros. Interactive Entertainment</a> (2010-2016)
 </p>
-<a href="../D/Daybreak_Game_Company.md" title="Daybreak Game Company">Daybreak Game Company</a> (2016-Present)</td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows, OS X (Beta)</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">April 24, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
+<a href="../D/Daybreak_Game_Company.md" title="Daybreak Game Company">Daybreak Game Company</a> (2016-Present)</td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data">Microsoft Windows, OS X (Beta)</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data">April 24, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
 <i><b>The Lord of the Rings Trực tuyến</b></i> (thường được viết tắt là **LOTRO** hoặc **LotRO**) là một MMORPG (Trò chơi nhập vai trực tuyến nhiều người chơi) dành cho PC và OS X diễn ra trong thế giới [Arda](../A/Arda.md) trong thời gian *[The Lord of the Rings](The_Lord_of_the_Rings.md).*. Ban đầu nó được đặt tên là **The Lord of the Rings Trực tuyến: Shadows of Angmar**, nhưng với những bản cập nhật sau này, phụ đề đó đã bị loại bỏ.
 
@@ -67,10 +67,10 @@ Người chơi sẽ vào vai những nhà thám hiểm của [Dân tộc Tự do
 
 ## Phát triển {#Development}
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
-<p>The wise will stay here and hope to rebuild our town...
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được viết lại để tuân thủ <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn</a>...<blockquote class="tg-quote noexcerpt">
+<p>Những người khôn ngoan sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></cite></p>
 </blockquote></div></div>
 
 Quá trình phát triển *The Lord of the Rings Online* bắt đầu vào năm 1998, khi [Sierra](../S/Sierra_Entertainment.md) bắt đầu phát triển trò chơi có tên *Middle-earth Online*. Sau khi [Vivendi Universal Games](../V/Vivendi.md) tiếp quản Sierra vào năm 1999, việc sản xuất trò chơi được chia sẻ với [Turbine](Turbine.md). Turbine đã bảo đảm quyền của toàn bộ trò chơi vào tháng 3 năm 2004,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và nó được đổi tên thành *The Lord of the Rings Online*. Ban đầu nó dựa trên đăng ký, nhưng sau đó trở thành trò chơi miễn phí với đăng ký trả phí và các giao dịch vi mô tùy chọn.
@@ -146,92 +146,92 @@ Giao diện người chơi cho phép các khía cạnh khác của trò chơi nh
 
 <table class="wikitable" style="padding: 2px;">
 <tbody><tr style="background:var(--tg-color-surface-3)">
-<th style="width:200px">Name</th>
-<th>Release Date</th>
-<th>Description
+<th style="width:200px">Tên</th>
+<th>Ngày phát hành</th>
+<th>Mô tả
 </th></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">Shadows of Angmar</a></i></td>
 <td>24 April 2007</td>
-<td>It initially included books I through VIII of Epic Volume I: Shadows of Angmar. Approximately once every two months a major free update was added to <i>The Lord of the Rings Online: Shadows of Angmar</i>. Each update added a new book to the volume, up until the conclusion of the story arc with Book XV: The Ring-forges of Eregion, released on <a href="../_/22_July.md" title="22 July">22 July</a>, <a href="../_/2008.md" title="2008">2008</a>.
+<td>Ban đầu nó bao gồm các cuốn từ I đến VIII của Epic Tập I: Shadows of Angmar. Khoảng hai tháng một lần, một bản cập nhật lớn miễn phí được thêm vào <i>The Lord of the Rings Online: Shadows of Angmar</i>. Mỗi bản cập nhật đều thêm một cuốn sách mới vào tập, cho đến khi kết thúc phần câu chuyện với Quyển XV: The Ring-forges of Eregion, phát hành vào <a href="../_/22_July.md" title="22 July">22 tháng 7</a>, <a href="../_/2008.md" title="2008">2008</a>.
 </td></tr>
 <tr>
-<td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Mines of Moria</a></i></td>
+<td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Hầm mỏ Moria</a></i></td>
 <td>18 November 2008</td>
 <td>Like <i>Shadows of Angmar</i>, <i>Mines of Moria</i> continued to regularly release updates. Updates were less frequent than Shadows of Angmar. The expansion&#39;s story continued through to Book VIII - Scourge of Khazad-dûm, released on <a href="../_/23_June.md" title="23 June">23 June</a>, <a href="../_/2009.md" title="2009">2009</a>, the conclusion of which would not appear until the next expansion.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">Siege of Mirkwood</a></i></td>
 <td>1 December 2009</td>
-<td>Unlike the second expansion this edition was only available via a web-based download. It initially included Book IX and the epilogue of Volume II: Mines of Moria.
-<p>Kate Paiz, Executive Producer for <i>The Lord of the Rings Online</i>, released a letter on 22 October 2010 stating that updates will be more frequent but will not always be accompanied with a new book continuing the epic story.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-</p><p>On <a href="../_/10_September.md" title="10 September">10 September</a>, <a href="../_/2010.md" title="2010">2010</a>, <b>Update 1: Journey to Winter-Home</b> was released, which also marked the transition of the game to a &#34;free-to-play&#34; business model, no longer requiring a regular subscription. It also marked the new reckoning of regular Updates being numbered instead of being marked by the epic story updates they contained.
-</p><p>The last Epic Story update of the expansion was Book III - Echoes of the Dead, released on <a href="../_/21_March.md" title="21 March">21 March</a>, <a href="../_/2011.md" title="2011">2011</a>.
+<td>Không giống như bản mở rộng thứ hai, phiên bản này chỉ có sẵn thông qua tải xuống dựa trên web. Ban đầu nó bao gồm Quyển IX và phần kết của Tập II: Mỏ Moria.
+<p>Kate Paiz, Nhà sản xuất điều hành của <i>The Lord of the Rings Online</i>, đã đưa ra một lá thư vào ngày 22 tháng 10 năm 2010 nói rằng các bản cập nhật sẽ thường xuyên hơn nhưng không phải lúc nào cũng đi kèm với một cuốn sách mới tiếp tục câu chuyện hoành tráng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+</p><p>Vào <a href="../_/10_September.md" title="10 September">10 tháng Chín</a>, <a href="../_/2010.md" title="2010">2010</a>, <b>Bản cập nhật 1: Journey to Winter-Home</b> được phát hành, cũng đánh dấu sự chuyển đổi của trò chơi sang mô hình kinh doanh "chơi miễn phí", không còn yêu cầu đăng ký thông thường. Nó cũng đánh dấu cách tính mới về việc các Bản cập nhật thông thường được đánh số thay vì được đánh dấu bằng các bản cập nhật câu chuyện hoành tráng mà chúng chứa.
+</p><p>Bản cập nhật Epic Story cuối cùng của bản mở rộng là Quyển III - Echoes of the Dead, được phát hành vào <a href="../_/21_March.md" title="21 March">21 tháng 3</a>, <a href="../_/2011.md" title="2011">2011</a>.
 </p>
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">Rise of Isengard</a></i></td>
 <td>27 September 2011</td>
-<td>The expansion was made available as a digital download.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>. It initially included Volume III Book IV - Rise of Isengard, and through updates would reach Book Book VI - Mists of Anduin and have its last update on <a href="../_/14_May.md" title="14 May">14 May</a>, <a href="../_/2012.md" title="2012">2012</a>.
+<td>Bản mở rộng đã được cung cấp dưới dạng bản tải xuống kỹ thuật số.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>. Ban đầu nó bao gồm Tập III Quyển IV - Sự trỗi dậy của Isengard, và thông qua các bản cập nhật sẽ đến Quyển VI - Sương mù của Anduin và có bản cập nhật cuối cùng vào <a href="../_/14_May.md" title="14 May">14 tháng 5</a>, <a href="../_/2012.md" title="2012">2012</a>.
 </td></tr>
 <tr>
-<td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">Riders of Rohan</a></i></td>
+<td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">Kỵ binh Rohan</a></i></td>
 <td>15 October 2012</td>
-<td>The fourth expansion,<sup id="cite_ref-Turbine_5-0" class="reference"><a href="#cite_note-Turbine-5">[5]</a></sup> it would see the Epic Story continue with Books VI- Mists of the Anduin, Book VII - A Fellowship Endangered, Book VIII - Into the Riddermark, Book IX - The Third Marshal and Book X - Snows of Wildermore.
+<td>Bản mở rộng thứ tư,<sup id="cite_ref-Turbine_5-0" class="reference"><a href="#cite_note-Turbine-5">[5]</a></sup> sẽ tiếp tục Câu chuyện sử thi với Sách VI- Mists of the Anduin, Quyển VII - A Fellowship Endangered, Quyển VIII - Into the Riddermark, Quyển IX - The Kỷ Đệ Tam Marshal và Quyển X - Snows of Wildermore.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">Helm&#39;s Deep</a></i></td>
 <td>20 November 2013</td>
-<td>The fifth expansion for <i>The Lord of the Rings Online</i><sup id="cite_ref-TenTonHammer_6-0" class="reference"><a href="#cite_note-TenTonHammer-6">[6]</a></sup>. After the Helm&#39;s Deep expansion, Turbine discontinued releasing annual paid expansions for three years in favor of quarterly updates with content free to VIPs.<sup id="cite_ref-Looking_Ahead_to_2014_7-0" class="reference"><a href="#cite_note-Looking_Ahead_to_2014-7">[7]</a></sup>
-<p>During this three year period, eight major updates introduced many new areas as well as concluding Volume III of the Epic Story with Book XIV - The Waters of Isengard. A new Volume, Volume IV - The Strength of Sauron was introduced, and received content all the way through Book VIII - Battle of the Black Gate.
+<td>Bản mở rộng thứ năm cho <i>The Lord of the Rings Online</i><sup id="cite_ref-TenTonHammer_6-0" class="reference"><a href="#cite_note-TenTonHammer-6">[6]</a></sup>. Sau bản mở rộng Helm&#39;s Deep, Turbine đã ngừng phát hành các bản mở rộng trả phí hàng năm trong ba năm để chuyển sang cập nhật hàng quý với nội dung miễn phí cho VIP.<sup id="cite_ref-Looking_Ahead_to_2014_7-0" class="reference"><a href="#cite_note-Looking_Ahead_to_2014-7">[7]</a></sup>
+<p>Trong khoảng thời gian ba năm này, tám bản cập nhật lớn đã giới thiệu nhiều lĩnh vực mới cũng như kết thúc Tập III của Câu chuyện sử thi với Quyển XIV - The Waters of Isengard. Tập mới, Tập IV - Sức mạnh của Sauron đã được giới thiệu và nhận được nội dung xuyên suốt Quyển VIII - Trận chiến Cổng Đen.
 </p>
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">Mordor</a></i></td>
 <td>2 August 2017</td>
-<td><i>Mordor</i> was the sixth expansion, and the twenty-first update. It marked the return to regular paid expansions after three years of quarterly updates. It included the conclusion of the Epic Story arc with Volume IV, Book IX - The Ring of Power. This seemingly marked the end of the Epic Story arc that first started with the initial release of the game ten years previous in 2007, as well as the (general) conclusion of the adaptation of the story from The Lord of the Rings.
-<p>The expansion also introduced a brand new Epic Story Arc: The Black Book of Mordor, which broke from tradition of the first Epic Story Arc and stopped segmenting Epic Stories into &#34;Volumes&#34; and &#34;Books&#34; and simply broke each story segment into &#34;Chapters&#34;. The expansion initially included four chapters, and would see six more added with additional updates. It&#39;s last update was Update 24, released on <a href="../_/4_June.md" title="4 June">4 June</a>, <a href="../_/2019.md" title="2019">2019</a>.
+<td><i>Mordor</i> là bản mở rộng thứ sáu và là bản cập nhật thứ 21. Nó đánh dấu sự trở lại của các bản mở rộng trả phí thường xuyên sau ba năm cập nhật hàng quý. Nó bao gồm phần kết của Câu chuyện sử thi với Tập IV, Quyển IX - Chiếc nhẫn quyền lực. Điều này dường như đánh dấu sự kết thúc của phần Câu chuyện sử thi lần đầu tiên bắt đầu với việc phát hành trò chơi lần đầu tiên vào mười năm trước vào năm 2007, cũng như kết luận (chung) về việc chuyển thể câu chuyện từ The Lord of the Rings.
+<p>Bản mở rộng cũng giới thiệu một Arc Câu chuyện sử thi hoàn toàn mới: Cuốn sách đen của Mordor, phá vỡ truyền thống của Phần câu chuyện sử thi đầu tiên và ngừng phân đoạn Câu chuyện sử thi thành "Tập" và "Sách" mà chỉ chia từng phân đoạn câu chuyện thành "Chương". Bản mở rộng ban đầu bao gồm bốn chương và sẽ có thêm sáu chương nữa với các bản cập nhật bổ sung. Bản cập nhật cuối cùng của nó là Bản cập nhật 24, được phát hành vào <a href="../_/4_June.md" title="4 June">ngày 4 tháng 6</a>, <a href="../_/2019.md" title="2019">2019</a>.
 </p>
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md" title="The Lord of the Rings Online: Minas Morgul">Minas Morgul</a></i></td>
 <td>5 November 2019</td>
-<td><i>Minas Morgul</i> was the seventh expansion, and the twenty-fifth update. It would conclude the Epic Story arc The Black Book of Mordor and begin a new epic arc: The Legacy of Durin and the Trials of the Dwarves. It would also add a new Volume to the original Epic Story: Volume V - The Peace of Middle-earth, which allows players to be present during the wedding between Aragorn and Arwen, which was included in the last update of the expansion, Update 27, released on <a href="../_/30_June.md" title="30 June">30 June</a>, <a href="../_/2020.md" title="2020">2020</a>.
+<td><i>Minas Morgul</i> là bản mở rộng thứ bảy và là bản cập nhật thứ 25. Nó sẽ kết thúc phần Câu chuyện sử thi Cuốn sách đen của Mordor và bắt đầu một phần sử thi mới: Di ​​sản của Durin và Những thử thách của Người Lùn. Nó cũng sẽ thêm một Tập mới vào Câu chuyện sử thi gốc: Tập V - Hòa bình của Trung Địa, cho phép người chơi có mặt trong đám cưới giữa Aragorn và Arwen, được bao gồm trong bản cập nhật cuối cùng của bản mở rộng, Bản cập nhật 27, phát hành vào <a href="../_/30_June.md" title="30 June">30 tháng 6</a>, <a href="../_/2020.md" title="2020">2020</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md" title="The Lord of the Rings Online: War of Three Peaks">War of Three Peaks</a></i></td>
 <td>20 October 2020</td>
-<td><i>War of Three Peaks</i> was the eighth expansion, (though referred to by developers as a &#34;mini-expansion&#34;). Among other features, it included additions to The Legacy of Durin and the Trials of the Dwarves epic story. The last update of the expansion, Update 30.3 was released on <a href="../_/13_October.md" title="13 October">13 October</a>, <a href="../_/2021.md" title="2021">2021</a>.
+<td><i>War of Three Peaks</i> là bản mở rộng thứ tám, (mặc dù được các nhà phát triển gọi là "bản mở rộng nhỏ"). Trong số các tính năng khác, nó bao gồm các bổ sung cho Di sản của Durin và Thử thách của câu chuyện sử thi Người Lùn. Bản cập nhật cuối cùng của bản mở rộng, Bản cập nhật 30.3 được phát hành vào <a href="../_/13_October.md" title="13 October">13 tháng 10</a>, <a href="../_/2021.md" title="2021">2021</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">Fate of Gundabad</a></i></td>
 <td>10 November 2021</td>
-<td><i>Fate of Gundabad</i>, the ninth expansion and thirty-first update. It concluded the &#34;The Legacy of Durin and the Trials of the Dwarves&#34; Epic Story arc with the remaining seven Chapters. The last update, Update 33 (The Yondershire) was released. <a href="../_/20_April.md" title="20 April">20 April</a>, <a href="../_/2022.md" title="2022">2022</a>
+<td><i>Fate of Gundabad</i>, bản mở rộng thứ chín và bản cập nhật thứ 31. Nó kết thúc phần "Di sản của Durin và những thử thách của Người Lùn" Câu chuyện sử thi với bảy Chương còn lại. Bản cập nhật cuối cùng, Cập nhật 33 (The Yondershire) đã được phát hành. <a href="../_/20_April.md" title="20 April">20 tháng 4</a>, <a href="../_/2022.md" title="2022">2022</a>
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md" title="The Lord of the Rings Online: Before the Shadow">Before the Shadow</a></i></td>
 <td>15 November 2022</td>
-<td><i>Before the Shadow</i>, the thirty-fourth update, was the tenth expansion, and was another &#34;mini-expansion&#34;. It opened a new Epic Story arc: &#34;The Song of Waves and Wind&#34;. Update 37 (The Humble Homes of The Holbytlan) would be it&#39;s last, released on <a href="../_/29_August.md" title="29 August">29 August</a>, <a href="../_/2023.md" title="2023">2023</a>.
+<td><i>Before the Shadow</i>, bản cập nhật thứ ba mươi tư, là bản mở rộng thứ mười và là một "bản mở rộng nhỏ" khác. Nó mở ra một phần Câu chuyện sử thi mới: "Bài hát của sóng và gió". Bản cập nhật 37 (The Humble Homes of The Holbytlan) sẽ là bản cập nhật cuối cùng, được phát hành vào <a href="../_/29_August.md" title="29 August">29 tháng 8</a>, <a href="../_/2023.md" title="2023">2023</a>.
 </td></tr>
 <tr>
-<td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Corsairs_of_Umbar.md" title="The Lord of the Rings Online: Corsairs of Umbar">Corsairs of Umbar</a></i></td>
+<td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Corsairs_of_Umbar.md" title="The Lord of the Rings Online: Corsairs of Umbar">Hải tặc Umbar</a></i></td>
 <td>8 November 2023</td>
-<td><i>Corsairs of Umbar</i>, the thirty-eighth update, was the eleventh expansion. It continued the Epic Story arc &#34;The Song of Waves and Wind&#34;. It&#39;s last update was Update 41 (On the Wing), which released <a href="../_/31_July.md" title="31 July">31 July</a>, <a href="../_/2024.md" title="2024">2024</a>.
+<td><i>Corsairs of Umbar</i>, bản cập nhật thứ ba mươi tám, là bản mở rộng thứ mười một. Nó tiếp tục phần Câu chuyện sử thi "Bài hát của sóng và gió". Bản cập nhật gần đây nhất của nó là Bản cập nhật 41 (On the Wing), được phát hành <a href="../_/31_July.md" title="31 July">31 tháng 7</a>, <a href="../_/2024.md" title="2024">2024</a>.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Legacy_of_Morgoth.md" title="The Lord of the Rings Online: Legacy of Morgoth">Legacy of Morgoth</a></i></td>
 <td>6 November 2024</td>
-<td><i>Legacy of Morgoth</i>, the forty-second update, was the twelfth expansion. It added Chapters 10-13 of the Epic Story arc: &#34;The Song of Waves and Wind&#34;.
+<td><i>Legacy of Morgoth</i>, bản cập nhật thứ 40 giây, là bản mở rộng thứ mười hai. Nó đã thêm các Chương 10-13 của phần Câu chuyện sử thi: "Bài hát của sóng và gió".
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_Kingdoms_of_Harad.md" title="The Lord of the Rings Online: Kingdoms of Harad">Kingdoms of Harad</a></i></td>
 <td>3 December 2025</td>
-<td><i>Kingdoms of Harad</i>, the forty-sixth update, was the thirteenth expansion. It concludes the Epic Story arc: &#34;The Song of Waves and Wind&#34;, and serves as the conclusion to the trilogy of expansions focusing on the Southern regions of Middle-Earth.
+<td><i>Kingdoms of Harad</i>, bản cập nhật thứ 46, là bản mở rộng thứ 13. Nó kết thúc phần Câu chuyện sử thi: "Bài hát của sóng và gió", đồng thời đóng vai trò là phần kết cho bộ ba bản mở rộng tập trung vào các khu vực phía Nam của Trung Địa.
 </td></tr>
 <tr>
 <td style="font-size:18px;"><i><a href="The_Lord_of_the_Rings_Online%253A_The_Wolves_of_Mordor.md" title="The Lord of the Rings Online: The Wolves of Mordor">The Wolves of Mordor</a></i></td>
 <td>21 October 2026</td>
-<td><i>Wolves of Mordor</i>, starts a new series of story arcs, focusing on facing the lupine horrors lands beyond the plateau of <a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a>, into <a class="new" href="https://tolkiengateway.net/w/index.php?title=Draugardh&amp;action=edit&amp;redlink=1" title="Draugardh (page does not exist)">Draugardh</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Heledhris&amp;action=edit&amp;redlink=1" title="Heledhris (page does not exist)">Heledhris</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Parth_Rhavas&amp;action=edit&amp;redlink=1" title="Parth Rhavas (page does not exist)">Parth Rhavas</a> and <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nan_Ogol&amp;action=edit&amp;redlink=1" title="Nan Ogol (page does not exist)">Nan Ogol</a>.
+<td><i>Wolves of Mordor</i>, bắt đầu một loạt mạch truyện mới, tập trung vào việc đối mặt với vùng đất kinh hoàng của loài lupin bên ngoài cao nguyên <a class="mw-redirect" href="../G/Gorgoroth.md" title="Gorgoroth">Gorgoroth</a>, đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Draugardh&amp;action=edit&amp;redlink=1" title="Draugardh (page does not exist)">Draugardh</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Heledhris&amp;action=edit&amp;redlink=1" title="Heledhris (page does not exist)">Heledhris</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Parth_Rhavas&amp;action=edit&amp;redlink=1" title="Parth Rhavas (page does not exist)">Parth Rhavas</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nan_Ogol&amp;action=edit&amp;redlink=1" title="Nan Ogol (page does not exist)">Nan Ogol</a>.
 </td></tr></tbody></table>
 
 ## Bổ sung các yếu tố và sai lệch so với sách {#Added_elements_and_deviations_from_the_book}
@@ -337,24 +337,24 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <table class="wikitable" style="padding: 2px;">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Region</th>
-<th>Name</th>
-<th>Notes</th>
+<th>Tên</th>
+<th>Ghi chú</th>
 <th>Opened
 </th></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../G/Glamdring.md" title="Glamdring">Glamdring</a></td>
 <td></td>
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect" href="../P/Peregrin.md" title="Peregrin">Peregrin</a></td>
 <td>Roleplaying</td>
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../S/Sting.md" title="Sting">Sting</a></td>
 <td></td>
 <td>2025
@@ -378,7 +378,7 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../A/Angmar.md" title="Angmar">Angmar</a></td>
 <td>Legendary (Veil of the Nine)</td>
 <td>2025
@@ -400,12 +400,12 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <table class="wikitable" style="padding: 2px;">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Region</th>
-<th>Name</th>
-<th>Notes</th>
+<th>Tên</th>
+<th>Ghi chú</th>
 <th>Closed
 </th></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../A/Arkenstone.md" title="Arkenstone">Arkenstone</a></td>
 <td>Oceanic (Unofficial)</td>
 <td>2025
@@ -417,13 +417,13 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect" href="../B/Brandywine.md" title="Brandywine">Brandywine</a></td>
 <td></td>
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../C/Crickhollow.md" title="Crickhollow">Crickhollow</a></td>
 <td></td>
 <td>2025
@@ -431,11 +431,11 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <tr>
 <td>[EU]</td>
 <td><a href="../E/Evernight.md" title="Evernight">Evernight</a></td>
-<td>English</td>
+<td>Tiếng Anh</td>
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect mw-disambig" href="../G/Gladden.md" title="Gladden">Gladden</a></td>
 <td></td>
 <td>2025
@@ -447,7 +447,7 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../L/Landroval.md" title="Landroval">Landroval</a></td>
 <td>Roleplay Encouraged</td>
 <td>2025
@@ -471,7 +471,7 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../L/Landroval.md" title="Landroval">Landroval</a></td>
 <td>Roleplay Encouraged</td>
 <td>2025
@@ -489,25 +489,25 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="Treebeard.md" title="Treebeard">Treebeard</a></td>
 <td>Legendary (Slow XP)</td>
 <td>2025
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../S/Shadowfax.md" title="Shadowfax">Shadowfax</a></td>
 <td>Legendary (Fast XP)</td>
 <td>2023<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect" href="../A/Anor.md" title="Anor">Anor</a></td>
 <td>Legendary (Slow XP)</td>
 <td>2022<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect" href="../I/Ithil.md" title="Ithil">Ithil</a></td>
 <td>Legendary (Slow XP)</td>
 <td>2021<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
@@ -517,8 +517,8 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <table class="wikitable" style="padding: 2px;">
 <tbody><tr style="background:var(--tg-color-surface-3)">
 <th>Region</th>
-<th>Name</th>
-<th>Notes</th>
+<th>Tên</th>
+<th>Ghi chú</th>
 <th>Closed
 </th></tr>
 <tr>
@@ -528,7 +528,7 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect" href="../D/Dwarrowdelf.md" title="Dwarrowdelf">Dwarrowdelf</a></td>
 <td></td>
 <td>2016
@@ -540,7 +540,7 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect" href="../E/Elendilmir.md" title="Elendilmir">Elendilmir</a></td>
 <td>Oceanic</td>
 <td>2016
@@ -552,7 +552,7 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../F/Firefoot.md" title="Firefoot">Firefoot</a></td>
 <td></td>
 <td>2016
@@ -560,11 +560,11 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <tr>
 <td>[EU]</td>
 <td><a href="../G/Gilrain.md" title="Gilrain">Gilrain</a></td>
-<td>English</td>
+<td>Tiếng Anh</td>
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect" href="../I/Imladris.md" title="Imladris">Imladris</a></td>
 <td></td>
 <td>2016
@@ -576,7 +576,7 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../M/Meneldor.md" title="Meneldor">Meneldor</a></td>
 <td></td>
 <td>2016
@@ -588,19 +588,19 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../N/Nimrodel.md" title="Nimrodel">Nimrodel</a></td>
 <td></td>
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect" href="../R/Riddermark.md" title="Riddermark">Riddermark</a></td>
 <td></td>
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a class="mw-redirect" href="../S/Silverlode.md" title="Silverlode">Silverlode</a></td>
 <td></td>
 <td>2016
@@ -608,7 +608,7 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <tr>
 <td>[EU]</td>
 <td><a href="../S/Snowbourn.md" title="Snowbourn">Snowbourn</a></td>
-<td>English</td>
+<td>Tiếng Anh</td>
 <td>2016
 </td></tr>
 <tr>
@@ -618,13 +618,13 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../V/Vilya.md" title="Vilya">Vilya</a></td>
 <td></td>
 <td>2016
 </td></tr>
 <tr>
-<td>[US]</td>
+<td>[Hoa Kỳ]</td>
 <td><a href="../W/Windfola.md" title="Windfola">Windfola</a></td>
 <td></td>
 <td>2016
@@ -632,7 +632,7 @@ Vào ngày 1 tháng 8 năm 2024, hai máy chủ Huyền thoại mới đã đư�
 <tr>
 <td>[EU]</td>
 <td><a href="../W/Withywindle.md" title="Withywindle">Withywindle</a></td>
-<td>English</td>
+<td>Tiếng Anh</td>
 <td>2016
 </td></tr>
 <tr>
@@ -781,24 +781,24 @@ Người chơi có thể đăng ký VIP, cấp quyền truy cập vào một lư
 <th align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a class="mw-selflink selflink">The Lord of the Rings Online</a></b>
 </th></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right" width="150px"><b>Expansions</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right" width="150px"><b>Bản mở rộng</b>
 </td>
 <td style="font-size: 90%;" align="center"><i><a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md" title="The Lord of the Rings Online: Shadows of Angmar">Shadows of Angmar</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md" title="The Lord of the Rings Online: Mines of Moria">Mines of Moria</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md" title="The Lord of the Rings Online: Siege of Mirkwood">Siege of Mirkwood</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Rise_of_Isengard.md" title="The Lord of the Rings Online: Rise of Isengard">Rise of Isengard</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Riders_of_Rohan.md" title="The Lord of the Rings Online: Riders of Rohan">Riders of Rohan</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md" title="The Lord of the Rings Online: Helm&#39;s Deep">Helm&#39;s Deep</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">Mordor</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md" title="The Lord of the Rings Online: Minas Morgul">Minas Morgul</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_War_of_Three_Peaks.md" title="The Lord of the Rings Online: War of Three Peaks">War of Three Peaks</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Fate_of_Gundabad.md" title="The Lord of the Rings Online: Fate of Gundabad">Fate of Gundabad</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md" title="The Lord of the Rings Online: Before the Shadow">Before the Shadow</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Corsairs_of_Umbar.md" title="The Lord of the Rings Online: Corsairs of Umbar">Corsairs of Umbar</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Legacy_of_Morgoth.md" title="The Lord of the Rings Online: Legacy of Morgoth">Legacy of Morgoth</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Kingdoms_of_Harad.md" title="The Lord of the Rings Online: Kingdoms of Harad">Kingdoms of Harad</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>Storyline</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>Cốt truyện</b>
 </td>
 <td style="font-size: 90%;" align="center"><i><a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md#Synopsis" title="The Lord of the Rings Online: Shadows of Angmar">Volume I: Shadows of Angmar</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md#Synopsis" title="The Lord of the Rings Online: Mines of Moria">Volume II: Mines of Moria</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Siege_of_Mirkwood.md#Volume_III:_Allies_of_the_King" title="The Lord of the Rings Online: Siege of Mirkwood">Volume III: Allies of the King</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Helm&#39;s_Deep.md#Volume_IV:_The_Strength_of_Sauron" title="The Lord of the Rings Online: Helm&#39;s Deep">Volume IV: The Strength of Sauron</a></i> · <i><a href="The_Lord_of_the_Rings_Online%253A_Mordor.md" title="The Lord of the Rings Online: Mordor">The Black Book of Mordor</a></i>
 </td></tr>
 <tr>
-<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>See also</b>
+<td style="font-size: 90%; background:var(--tg-color-surface-3); padding-right: 5px;" align="right"><b>Xem thêm</b>
 </td>
-<td style="font-size: 90%;" align="center"><a href="../../category/T/The_Lord_of_the_Rings_Online_characters.md" title="Category:The Lord of the Rings Online characters">Characters</a> · <a href="../../category/T/The_Lord_of_the_Rings_Online_locations.md" title="Category:The Lord of the Rings Online locations">Locations</a> · <a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md" title="The Lord of the Rings Online: Shadows of Angmar (soundtrack)"><i>Shadows of Angmar</i> soundtrack</a> · <a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md" title="The Lord of the Rings Online: Mines of Moria (soundtrack)"><i>Mines of Moria</i> soundtrack</a> · &#34;<a href="../K/King_Under_the_Mountain_(minigame).md" title="King Under the Mountain (minigame)">King Under the Mountain</a>&#34; minigame
+<td style="font-size: 90%;" align="center"><a href="../../category/T/The_Lord_of_the_Rings_Online_characters.md" title="Category:The Lord of the Rings Online characters">Nhân vật</a> · <a href="../../category/T/The_Lord_of_the_Rings_Online_locations.md" title="Category:The Lord of the Rings Online locations">Địa điểm</a> · <a href="The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar_(soundtrack).md" title="The Lord of the Rings Online: Shadows of Angmar (soundtrack)"><i>Shadows of Angmar</i> nhạc phim</a> · <a href="The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md" title="The Lord of the Rings Online: Mines of Moria (soundtrack)"><i>Mines of Moria</i> nhạc phim</a> · minigame "<a href="../K/King_Under_the_Mountain_(minigame).md" title="King Under the Mountain (minigame)">Vua Under the Mountain</a>"
 </td></tr></tbody></table>
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -831,7 +831,7 @@ Người chơi có thể đăng ký VIP, cấp quyền truy cập vào một lư
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -841,7 +841,7 @@ Người chơi có thể đăng ký VIP, cấp quyền truy cập vào một lư
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -851,7 +851,7 @@ Người chơi có thể đăng ký VIP, cấp quyền truy cập vào một lư
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>

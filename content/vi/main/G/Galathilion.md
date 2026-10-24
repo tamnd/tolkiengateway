@@ -98,7 +98,7 @@ những chiếc lá của Cây đó;<br/>
 chúng trở nên gần gũi hơn cả những chùm lông cánh thiên nga,<br/>
 dài và mềm mại và công bằng.
 </p>
-<p class="tg-quote-footer"><cite><i><a href="../I/Imram.md" title="Imram">Imram</a></i> (Cái chết của Thánh Brendan), v.v. 67-76</cite></p>
+<p class="tg-quote-footer"><cite><i><a href="../I/Imram.md" title="Imram">Imram</a></i> (The Death of Saint Brendan), vv. 67-76</cite></p>
 </blockquote>
 
 Trong ghi chú [Quenya](../Q/Quenya.md) được xuất bản trong *[Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md)*, cây được gọi bằng tên *[Amalion](../A/Amalion.md)*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup>

@@ -132,7 +132,7 @@ Trong cuốn sách này, Christopher Tolkien đã cố gắng tách câu chuyệ
 </td></tr>
 <tr>
 <td>◦ The <i><a href="../Q/Quenta_Silmarillion_(Lost_Road).md" title="Quenta Silmarillion (Lost Road)">Quenta Silmarillion</a></i></td>
-<td>[<i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">Lost Road</a></i>, điểm. 2, <a href="../Q/Quenta_Silmarillion_(Lost_Road).md" title="Quenta Silmarillion (Lost Road)">ch. 6</a>]
+<td>[<i><a href="../T/The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">Lost Road</a></i>, pt. 2, <a href="../Q/Quenta_Silmarillion_(Lost_Road).md" title="Quenta Silmarillion (Lost Road)">ch. 6</a>]
 </td></tr>
 <tr>
 <td>◦ The Return of Beren and Lúthien According to the <i>Quenta Noldorinwa</i></td>
@@ -172,7 +172,7 @@ Sau Sketch of the Mythology, *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* đ
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/B/Beren_and_Lúthien_2017.png.md" title="2017 hardcover"><img alt="2017 hardcover" src="https://tolkiengateway.net/w/images/thumb/2/28/Beren_and_L%C3%BAthien_2017.png/82px-Beren_and_L%C3%BAthien_2017.png" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/28/Beren_and_L%C3%BAthien_2017.png/123px-Beren_and_L%C3%BAthien_2017.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/28/Beren_and_L%C3%BAthien_2017.png/164px-Beren_and_L%C3%BAthien_2017.png 2x" data-file-width="765" data-file-height="1166"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng 2017
+<p>2017 hardcover
 </p>
 			</div>
 		</li>
@@ -193,7 +193,7 @@ Sau Sketch of the Mythology, *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* đ
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/B/Beren_and_Lúthien_2018.png.md" title="2018 paperback"><img alt="2018 paperback" src="https://tolkiengateway.net/w/images/thumb/7/70/Beren_and_L%C3%BAthien_2018.png/82px-Beren_and_L%C3%BAthien_2018.png" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/Beren_and_L%C3%BAthien_2018.png/123px-Beren_and_L%C3%BAthien_2018.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/70/Beren_and_L%C3%BAthien_2018.png/164px-Beren_and_L%C3%BAthien_2018.png 2x" data-file-width="500" data-file-height="762"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm 2018
+<p>2018 paperback
 </p>
 			</div>
 		</li>
@@ -207,7 +207,7 @@ Sau Sketch of the Mythology, *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)* đ
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/B/Beren_and_Lúthien_2023.jpg.md" title="2023 paperback"><img alt="2023 paperback" src="https://tolkiengateway.net/w/images/thumb/e/e5/Beren_and_L%C3%BAthien_2023.jpg/82px-Beren_and_L%C3%BAthien_2023.jpg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e5/Beren_and_L%C3%BAthien_2023.jpg/123px-Beren_and_L%C3%BAthien_2023.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e5/Beren_and_L%C3%BAthien_2023.jpg/164px-Beren_and_L%C3%BAthien_2023.jpg 2x" data-file-width="1500" data-file-height="2287"/></a></span></div>
 			<div class="gallerytext">
-<p>2023 bìa mềm
+<p>2023 paperback
 </p>
 			</div>
 		</li>

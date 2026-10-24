@@ -79,7 +79,7 @@ Trang này ghi lại những bài thơ chưa được xuất bản trước đâ
 <li>#142.  <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Wanderers:_A_Moral_Lay&amp;action=edit&amp;redlink=1" title="The Wanderers: A Moral Lay (page does not exist)">The Wanderers: A Moral Lay</a></li>
 <li>#143.  <a href="../W/When_little_Louis_came_to_stay.md" title="When little Louis came to stay">Khi bé Louis đến ở</a></li>
 <li>#180.  <a class="new" href="https://tolkiengateway.net/w/index.php?title=You_Walk_on_Grass&amp;action=edit&amp;redlink=1" title="You Walk on Grass (page does not exist)">You Walk on Grass</a></li>
-<li>#182.  <a href="../T/Twenty_years_have_flowed_away_down_the_long_river.md" title="Twenty years have flowed away down the long river">Loä yukainen avar Anduinë sí value:</a></li>
+<li>#182.  <a href="../T/Twenty_years_have_flowed_away_down_the_long_river.md" title="Twenty years have flowed away down the long river">Loä yukainen avar Anduinë sí valútier:</a></li>
 <li>#183.  <a class="new" href="https://tolkiengateway.net/w/index.php?title=To_the_University_of_Oxford&amp;action=edit&amp;redlink=1" title="To the University of Oxford (page does not exist)">To the University of Oxford</a></li>
 <li>#184.  <a class="new" href="https://tolkiengateway.net/w/index.php?title=Utch!_A_Gardener%27s_Secrets&amp;action=edit&amp;redlink=1" title="Utch! A Gardener&#39;s Secrets (page does not exist)">Utch! A Gardener&#39;s Secrets</a></li>
 <li>#187.  <a href="../R/Rosalind_Ramage.md" title="Rosalind Ramage">Rosalind Ramage</a></li>

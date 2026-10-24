@@ -43,7 +43,7 @@ Trong ngôn ngữ thông thường, *Fanuidhol* được gọi là "Cloudyhead".
 
 <b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The southern slopes of Fanuidhol are explorable both in the present day and during the flashback depicting the <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a> in <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2799.md" title="Third Age 2799">2799</a>.</dd></dl>
+<dl><dd>Các sườn phía nam của Fanuidhol có thể được khám phá cả trong thời đại ngày nay và trong đoạn hồi tưởng mô tả <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Trận Azanulbizar</a> trong <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2799.md" title="Third Age 2799">2799</a>.</dd></dl>
 
 <br> <span></span>
 

@@ -38,7 +38,7 @@ infobox:
 <li><a href="../T/Tom_Pickthorn.md" title="Tom Pickthorn">Tom Pickthorn</a> bé nhỏ từ bên kia ngọn đồi</li>
 <p>Two of the Bree-hobbits
 </p>
-<ul><li><a href="../W/Willie_Banks.md" title="Willie Banks">Willie Banks</a> từ phía trên</li>
+<ul><li><a href="../W/Willie_Banks.md" title="Willie Banks">Willie Banks</a> from up-away</li>
 <li>một thành viên của <a href="../U/Underhill_Family.md" title="Underhill Family">Underhill Gia đình</a> từ <a href="Staddle.md" title="Staddle">Staddle</a></li></ul></div><div class="template-flexbox-item" style="--template-flexbox-item-span:1">Không rõ</div></div></td></tr></tbody></table>
 
 Đã có một **cuộc xung đột nhỏ**<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup> **trong [Bree](../B/Bree.md)** giữa [Bree-landers](../B/Bree-landers.md) và [bọn lưu manh](../R/Ruffians.md), xảy ra sớm vào [T.A. 3019](../T/Third_Age_3019.md).

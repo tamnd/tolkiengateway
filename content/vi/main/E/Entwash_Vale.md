@@ -23,7 +23,7 @@ images:
 
 <b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Entwash Vale is one of the four major subdivisions of the <a href="Eastemnet.md" title="Eastemnet">Eastemnet</a>. It is ruled by Reeve Ingbert, rather of <a href="../H/Horn_(rider_of_Rohan).md" title="Horn (rider of Rohan)">Horn</a>, from the town of &#34;Eaworth&#34;.</dd></dl>
+<dl><dd>Entwash Vale là một trong bốn phân khu chính của <a href="Eastemnet.md" title="Eastemnet">Eastemnet</a>. Nó được cai trị bởi Reeve Ingbert, thay vì <a href="../H/Horn_(rider_of_Rohan).md" title="Horn (rider of Rohan)">Horn</a>, từ thị trấn "Eaworth".</dd></dl>
 
 ## Xem thêm {#See_also}
 

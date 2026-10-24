@@ -66,14 +66,14 @@ infobox:
 <th>Paper
 </th></tr>
 <tr>
-<td>Ấn tượng đầu tiên</td>
+<td>1st Impression</td>
 <td><a href="../_/1977.md" title="1977">1977</a></td>
 <td>W&amp;J Mackay Limited</td>
 <td></td>
 <td>
 </td></tr>
 <tr>
-<td>Lần hiển thị thứ 2</td>
+<td>2nd Impression</td>
 <td><a href="../_/1979.md" title="1979">1979</a></td>
 <td></td>
 <td></td>
@@ -119,7 +119,7 @@ infobox:
 <th>Paper
 </th></tr>
 <tr>
-<td>In lần thứ nhất
+<td>1st Printing
 </td>
 <td>1997
 </td>
@@ -130,7 +130,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần thứ 3
+<td>3rd Printing
 </td>
 <td>1999
 </td>
@@ -141,7 +141,7 @@ infobox:
 <td>Balmoral Wove
 </td></tr>
 <tr>
-<td>In lần 2
+<td>2nd Printing
 </td>
 <td>1999
 </td>
@@ -152,7 +152,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 5
+<td>5th Printing
 </td>
 <td>2001
 </td>
@@ -163,7 +163,7 @@ infobox:
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>In lần thứ 4
+<td>4th Printing
 </td>
 <td>2001
 </td>
@@ -174,7 +174,7 @@ infobox:
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>In lần thứ 7
+<td>7th Printing
 </td>
 <td>2002
 </td>
@@ -185,7 +185,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần thứ 6
+<td>6th Printing
 </td>
 <td>2002
 </td>
@@ -196,7 +196,7 @@ infobox:
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>In lần thứ 8
+<td>8th Printing
 </td>
 <td>2004
 </td>
@@ -207,7 +207,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 9
+<td>9th Printing
 </td>
 <td>2006
 </td>
@@ -218,7 +218,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 10
+<td>10th Printing
 </td>
 <td>2007
 </td>
@@ -229,7 +229,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 11
+<td>11th Printing
 </td>
 <td>2008
 </td>
@@ -240,7 +240,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần thứ 12
+<td>12th Printing
 </td>
 <td>2009
 </td>
@@ -251,7 +251,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 14
+<td>14th Printing
 </td>
 <td>2010
 </td>
@@ -262,7 +262,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 13
+<td>13th Printing
 </td>
 <td>2010
 </td>
@@ -273,7 +273,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 15
+<td>15th Printing
 </td>
 <td>2011
 </td>
@@ -284,7 +284,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 16
+<td>16th Printing
 </td>
 <td>2012
 </td>
@@ -295,7 +295,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 17
+<td>17th Printing
 </td>
 <td>2013
 </td>
@@ -306,29 +306,29 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 18
+<td>18th Printing
 </td>
 <td>2016
 </td>
-<td>C&amp;C Offset Printing Co.
+<td>Công ty In Offset C&amp;C
 </td>
 <td>China (Hong Kong)
 </td>
 <td>Yu Long
 </td></tr>
 <tr>
-<td>In lần thứ 19
+<td>19th Printing
 </td>
 <td>2020
 </td>
-<td>C&amp;C Offset Printing Co.
+<td>Công ty In Offset C&amp;C
 </td>
 <td>China (Hong Kong)
 </td>
 <td>Yu Long
 </td></tr>
 <tr>
-<td>In lần thứ 20
+<td>20th Printing
 </td>
 <td>2021
 </td>
@@ -339,7 +339,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 21
+<td>21th Printing
 </td>
 <td>2022
 </td>
@@ -388,7 +388,7 @@ infobox:
 <th>Paper
 </th></tr>
 <tr>
-<td>In lần thứ nhất
+<td>1st Printing
 </td>
 <td>1997
 </td>
@@ -399,7 +399,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần 2
+<td>2nd Printing
 </td>
 <td>1998
 </td>
@@ -410,7 +410,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần thứ 3
+<td>3rd Printing
 </td>
 <td>1999
 </td>
@@ -421,7 +421,7 @@ infobox:
 <td>Balmoral Wove
 </td></tr>
 <tr>
-<td>In lần thứ 4
+<td>4th Printing
 </td>
 <td>2000
 </td>
@@ -432,7 +432,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 5
+<td>5th Printing
 </td>
 <td>2000
 </td>
@@ -443,7 +443,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 6
+<td>6th Printing
 </td>
 <td>2001
 </td>
@@ -454,7 +454,7 @@ infobox:
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>In lần thứ 7
+<td>7th Printing
 </td>
 <td>2002
 </td>
@@ -465,7 +465,7 @@ infobox:
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>In lần thứ 8
+<td>8th Printing
 </td>
 <td>2002
 </td>
@@ -476,7 +476,7 @@ infobox:
 <td>St. Paul&#39;s Wove
 </td></tr>
 <tr>
-<td>In lần thứ 9
+<td>9th Printing
 </td>
 <td>2002
 </td>
@@ -487,7 +487,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần thứ 10
+<td>10th Printing
 </td>
 <td>2004
 </td>
@@ -498,7 +498,7 @@ infobox:
 <td>Cordier Wove
 </td></tr>
 <tr>
-<td>In lần thứ 11
+<td>11th Printing
 </td>
 <td>2004
 </td>
@@ -509,7 +509,7 @@ infobox:
 <td>Gorgeous Wove
 </td></tr>
 <tr>
-<td>In lần thứ 12
+<td>12th Printing
 </td>
 <td>2006
 </td>
@@ -520,7 +520,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần thứ 13
+<td>13th Printing
 </td>
 <td>2007
 </td>
@@ -531,7 +531,7 @@ infobox:
 <td>Cordier Wove
 </td></tr>
 <tr>
-<td>In lần thứ 14
+<td>14th Printing
 </td>
 <td>2010
 </td>
@@ -542,7 +542,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 15
+<td>15th Printing
 </td>
 <td>2013
 </td>
@@ -553,7 +553,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 16
+<td>16th Printing
 </td>
 <td>2013
 </td>
@@ -564,40 +564,40 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 17
+<td>17th Printing
 </td>
 <td>2016
 </td>
-<td>C&amp;C Offset Printing Co.
+<td>Công ty In Offset C&amp;C
 </td>
 <td>China (Hong Kong)
 </td>
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 18
+<td>18th Printing
 </td>
 <td>2018
 </td>
-<td>C&amp;C Offset Printing Co.
+<td>Công ty In Offset C&amp;C
 </td>
 <td>China (Hong Kong)
 </td>
 <td>Yu Long Pure
 </td></tr>
 <tr>
-<td>In lần thứ 19
+<td>19th Printing
 </td>
 <td>2020
 </td>
-<td>C&amp;C Offset Printing Co.
+<td>Công ty In Offset C&amp;C
 </td>
 <td>China (Hong Kong)
 </td>
 <td>Yu Long Pure
 </td></tr>
 <tr>
-<td>In lần thứ 20
+<td>20th Printing
 </td>
 <td>2022
 </td>
@@ -642,7 +642,7 @@ infobox:
 <th>Paper
 </th></tr>
 <tr>
-<td>In lần thứ nhất
+<td>1st Printing
 </td>
 <td>1997
 </td>
@@ -653,7 +653,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần 2
+<td>2nd Printing
 </td>
 <td>2002
 </td>
@@ -664,7 +664,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần thứ 3
+<td>3rd Printing
 </td>
 <td>2003
 </td>
@@ -675,7 +675,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần thứ 4
+<td>4th Printing
 </td>
 <td>2003
 </td>
@@ -686,7 +686,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 5
+<td>5th Printing
 </td>
 <td>2004
 </td>
@@ -697,7 +697,7 @@ infobox:
 <td>Caxton Wove
 </td></tr>
 <tr>
-<td>In lần thứ 6
+<td>6th Printing
 </td>
 <td>
 </td>
@@ -708,7 +708,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 7
+<td>7th Printing
 </td>
 <td>2012
 </td>
@@ -719,7 +719,7 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 8
+<td>8th Printing
 </td>
 <td>2013
 </td>
@@ -730,29 +730,29 @@ infobox:
 <td>Abbey Wove
 </td></tr>
 <tr>
-<td>In lần thứ 9
+<td>9th Printing
 </td>
 <td>2018
 </td>
-<td>C&amp;C Offset Printing Co.
+<td>Công ty In Offset C&amp;C
 </td>
 <td>China (Hong Kong)
 </td>
 <td>Yu Long
 </td></tr>
 <tr>
-<td>In lần thứ 10
+<td>10th Printing
 </td>
 <td>2020
 </td>
-<td>C&amp;C Offset Printing Co.
+<td>Công ty In Offset C&amp;C
 </td>
 <td>China (Hong Kong)
 </td>
 <td>Yu Long Pure
 </td></tr>
 <tr>
-<td>In lần thứ 11
+<td>11th Printing
 </td>
 <td>2021
 </td>
@@ -763,7 +763,7 @@ infobox:
 <td>
 </td></tr>
 <tr>
-<td>In lần thứ 12
+<td>12th Printing
 </td>
 <td>2022
 </td>

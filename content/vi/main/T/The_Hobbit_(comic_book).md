@@ -93,49 +93,49 @@ Các số báo được đóng thành một tập bìa mềm thương mại [199
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1989-1.jpeg.md" title="1989 paperback comic vol.1"><img alt="1989 paperback comic vol.1" src="https://tolkiengateway.net/w/images/thumb/d/d3/The_Hobbit_graphic-1989-1.jpeg/82px-The_Hobbit_graphic-1989-1.jpeg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d3/The_Hobbit_graphic-1989-1.jpeg/123px-The_Hobbit_graphic-1989-1.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d3/The_Hobbit_graphic-1989-1.jpeg/164px-The_Hobbit_graphic-1989-1.jpeg 2x" data-file-width="425" data-file-height="647"/></a></span></div>
 			<div class="gallerytext">
-<p>Truyện tranh bìa mềm năm 1989 tập 1
+<p>1989 paperback comic vol.1
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1989-2.jpeg.md" title="1989 paperback comic vol.2"><img alt="1989 paperback comic vol.2" src="https://tolkiengateway.net/w/images/thumb/f/f2/The_Hobbit_graphic-1989-2.jpeg/81px-The_Hobbit_graphic-1989-2.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f2/The_Hobbit_graphic-1989-2.jpeg/122px-The_Hobbit_graphic-1989-2.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f2/The_Hobbit_graphic-1989-2.jpeg/162px-The_Hobbit_graphic-1989-2.jpeg 2x" data-file-width="421" data-file-height="647"/></a></span></div>
 			<div class="gallerytext">
-<p>Truyện tranh bìa mềm tập 2 năm 1989
+<p>1989 paperback comic vol.2
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1989-3.jpeg.md" title="1989 paperback comic vol.3"><img alt="1989 paperback comic vol.3" src="https://tolkiengateway.net/w/images/thumb/6/64/The_Hobbit_graphic-1989-3.jpeg/81px-The_Hobbit_graphic-1989-3.jpeg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/The_Hobbit_graphic-1989-3.jpeg/123px-The_Hobbit_graphic-1989-3.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/The_Hobbit_graphic-1989-3.jpeg/163px-The_Hobbit_graphic-1989-3.jpeg 2x" data-file-width="422" data-file-height="646"/></a></span></div>
 			<div class="gallerytext">
-<p>Truyện tranh bìa mềm tập 3 năm 1989
+<p>1989 paperback comic vol.3
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-1990.jpeg.md" title="1990 paperback one-volume"><img alt="1990 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/0/01/The_Hobbit_graphic-1990.jpeg/80px-The_Hobbit_graphic-1990.jpeg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/01/The_Hobbit_graphic-1990.jpeg/121px-The_Hobbit_graphic-1990.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/0/01/The_Hobbit_graphic-1990.jpeg/160px-The_Hobbit_graphic-1990.jpeg 2x" data-file-width="305" data-file-height="475"/></a></span></div>
 			<div class="gallerytext">
-<p>Một tập bìa mềm năm 1990
+<p>1990 paperback one-volume
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-2006.jpeg.md" title="2006 paperback one-volume"><img alt="2006 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_graphic-2006.jpeg/92px-The_Hobbit_graphic-2006.jpeg" decoding="async" loading="lazy" width="92" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_graphic-2006.jpeg/138px-The_Hobbit_graphic-2006.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/d/de/The_Hobbit_graphic-2006.jpeg/184px-The_Hobbit_graphic-2006.jpeg 2x" data-file-width="500" data-file-height="679"/></a></span></div>
 			<div class="gallerytext">
-<p>Một tập bìa mềm năm 2006
+<p>2006 paperback one-volume
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-2012.jpeg.md" title="2012 paperback one-volume"><img alt="2012 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/f/f0/The_Hobbit_graphic-2012.jpeg/82px-The_Hobbit_graphic-2012.jpeg" decoding="async" loading="lazy" width="82" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f0/The_Hobbit_graphic-2012.jpeg/123px-The_Hobbit_graphic-2012.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f0/The_Hobbit_graphic-2012.jpeg/164px-The_Hobbit_graphic-2012.jpeg 2x" data-file-width="600" data-file-height="916"/></a></span></div>
 			<div class="gallerytext">
-<p>Một tập bìa mềm năm 2012
+<p>2012 paperback one-volume
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_graphic-2024.jpg.md" title="2024 paperback one-volume"><img alt="2024 paperback one-volume" src="https://tolkiengateway.net/w/images/thumb/7/7f/The_Hobbit_graphic-2024.jpg/81px-The_Hobbit_graphic-2024.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7f/The_Hobbit_graphic-2024.jpg/122px-The_Hobbit_graphic-2024.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7f/The_Hobbit_graphic-2024.jpg/162px-The_Hobbit_graphic-2024.jpg 2x" data-file-width="975" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>Một tập bìa mềm năm 2024
+<p>2024 paperback one-volume
 </p>
 			</div>
 		</li>

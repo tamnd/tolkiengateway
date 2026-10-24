@@ -17,7 +17,7 @@ images:
   - "Starlitjewel.jpg"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Starlitjewel.jpg.md"><img src="https://tolkiengateway.net/w/images/1/15/Starlitjewel.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" data-file-width="300" data-file-height="300"/></a><figcaption><i>The Stalit Jewel</i>, cd cover</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Starlitjewel.jpg.md"><img src="https://tolkiengateway.net/w/images/1/15/Starlitjewel.jpg" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" data-file-width="300" data-file-height="300"/></a><figcaption><i>The Stalit Jewel</i>, bìa cd</figcaption></figure>
 
 <i><b>The Starlit Jewel</b></i> là bản thu âm các bài hát có thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và nhạc của [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md). Album tồn tại trong ba phiên bản khác nhau:
 
@@ -30,7 +30,7 @@ images:
 Năm 1969, Marion Zimmer Bradley đã phổ nhạc bảy bài thơ của Tolkien và gọi chúng là "Tổ khúc Rivendell". Năm 1991, Margaret Davis và Kristoph Klover được thư ký của Bradley yêu cầu sắp xếp, biểu diễn và thu âm "The Rivendell Suite" trên băng cassette làm quà sinh nhật cho Marion Bradley. Họ đã ghi lại:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>...six of Marion&#39;s settings, plus three of Kristoph&#39;s, and Marion was very pleased with the results. Only two copies were ever made of that original cassette. Then, Kristoph and I got to thinking how it might be a good idea to set some more of the songs and see if we could get permission from the Tolkien Estate to release the recording commercially.
+<p>...sáu cách cài đặt của Marion, cộng thêm ba cách của Kristoph, và Marion rất hài lòng với kết quả đạt được. Chỉ có hai bản sao được tạo ra từ chiếc băng gốc đó. Sau đó, Kristoph và tôi nghĩ xem liệu có nên đặt thêm một số bài hát nữa không và xem liệu chúng tôi có thể xin phép Tolkien Estate để phát hành bản ghi âm này vì mục đích thương mại hay không.
 </p>
 <p class="tg-quote-footer"><cite>Interview with Margaret Davis for Strange Horizons, 19 November 2001</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

@@ -147,14 +147,14 @@ Một ấn bản mở rộng đã được xuất bản trong tháng Chín [2008
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Perilous_Realm_2009.jpg.md" title="2009 paperback"><img alt="2009 paperback" src="https://tolkiengateway.net/w/images/thumb/2/2a/Perilous_Realm_2009.jpg/81px-Perilous_Realm_2009.jpg" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/Perilous_Realm_2009.jpg/121px-Perilous_Realm_2009.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/2a/Perilous_Realm_2009.jpg/162px-Perilous_Realm_2009.jpg 2x" data-file-width="758" data-file-height="1172"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa mềm 2009
+<p>2009 paperback
 </p>
 			</div>
 		</li>
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/P/Perilous_Realm_2021.jpg.md" title="2021 hardcover"><img alt="2021 hardcover" src="https://tolkiengateway.net/w/images/thumb/c/cf/Perilous_Realm_2021.jpg/80px-Perilous_Realm_2021.jpg" decoding="async" loading="lazy" width="80" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cf/Perilous_Realm_2021.jpg/120px-Perilous_Realm_2021.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cf/Perilous_Realm_2021.jpg/160px-Perilous_Realm_2021.jpg 2x" data-file-width="960" data-file-height="1500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 2021
+<p>2021 hardcover
 </p>
 			</div>
 		</li>

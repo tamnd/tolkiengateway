@@ -50,7 +50,7 @@ infobox:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/JRRT.jpeg.md"><img src="https://tolkiengateway.net/w/images/7/7d/JRRT.jpeg" decoding="async" loading="lazy" width="159" height="238" class="mw-file-element" data-file-width="159" data-file-height="238"/></a><figcaption>Phiên bản cuối cùng của chữ lồng J.R.R. Tolkien.</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>chữ lồng của J.R.R. Tolkien</span></th></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_J.R.R._Tolkien&#39;s_signature.md" title="Category:Images of J.R.R. Tolkien&#39;s signature">Hình ảnh chữ lồng của J.R.R. Tolkien</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/JRRT.jpeg.md"><img src="https://tolkiengateway.net/w/images/7/7d/JRRT.jpeg" decoding="async" loading="lazy" width="159" height="238" class="mw-file-element" data-file-width="159" data-file-height="238"/></a><figcaption>Phiên bản cuối cùng của chữ lồng J.R.R. Tolkien.</figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien&#39;s monogram</span></th></tr><tr><th scope="row" class="tg-infobox-label">Bộ sưu tập hình ảnh</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_J.R.R._Tolkien&#39;s_signature.md" title="Category:Images of J.R.R. Tolkien&#39;s signature">Images of J.R.R. Tolkien&#39;s monogram</a></td></tr></tbody></table>
 
 Chữ ký và chữ lồng của **J.R.R. Tolkien đồng nghĩa với các tác phẩm của Tolkien và có lịch sử riêng. Cả hai đều là nhãn hiệu đã đăng ký thuộc quyền sở hữu của [Tolkien Estate](../T/Tolkien_Estate.md).
 
@@ -186,7 +186,7 @@ Việc xuất bản *[The Hobbit](../T/The_Hobbit.md)* trong [1937](../_/1937.md
 
 <h3><span id="Final_version_of_Tolkien.27s_monogram"></span><span class="mw-headline" id="Final_version_of_Tolkien&#39;s_monogram">Phiên bản cuối cùng của chữ lồng Tolkien</span></h3>
 
-<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/JRRT.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/JRRT.jpeg/123px-JRRT.jpeg" decoding="async" loading="lazy" width="123" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7d/JRRT.jpeg 1.5x" data-file-width="159" data-file-height="238"/></a><figcaption>Chữ lồng cuối cùng.</figcaption></figure>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/JRRT.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7d/JRRT.jpeg/123px-JRRT.jpeg" decoding="async" loading="lazy" width="123" height="184" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7d/JRRT.jpeg 1.5x" data-file-width="159" data-file-height="238"/></a><figcaption>Final monogram.</figcaption></figure>
 
 Phiên bản cuối cùng của chữ lồng Tolkien xuất hiện trong [1976](../_/1976.md) trên trang tiêu đề của <i><a class="mw-redirect mw-disambig" href="../D/Drawings_by_Tolkien.md" title="Drawings by Tolkien">Các bức vẽ của Tolkien</a></i>, danh mục triển lãm J.R.R. Tolkien cùng tên. Cuộc triển lãm được tổ chức bởi Bảo tàng Ashmolean, Oxford, từ năm 1976 đến [1977](../_/1977.md). Điều kỳ lạ là chữ lồng đã bị đảo ngược theo chiều ngang, đây có thể là lỗi của nhà in sản xuất danh mục.
 
@@ -198,14 +198,14 @@ Hai nhóm bốn dấu chấm đã được thêm vào nhưng được sử dụn
 		<li class="gallerybox" style="width: 99.333333333333px">
 			<div class="thumb" style="width: 97.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1976.png.md" title="The inverted 1976 Tolkien monogram from Drawings by Tolkien."><img alt="The inverted 1976 Tolkien monogram from Drawings by Tolkien." src="https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_Monogram_1976.png/146px-J.R.R._Tolkien_Monogram_1976.png" decoding="async" loading="lazy" width="98" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_Monogram_1976.png/220px-J.R.R._Tolkien_Monogram_1976.png 1.5x, https://tolkiengateway.net/w/images/thumb/f/fe/J.R.R._Tolkien_Monogram_1976.png/293px-J.R.R._Tolkien_Monogram_1976.png 2x" data-file-width="608" data-file-height="747"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 78px"><div class="gallerytext">
-<p>Chữ lồng Tolkien 1976 đảo ngược từ <i><a class="mw-redirect mw-disambig" href="../D/Drawings_by_Tolkien.md" title="Drawings by Tolkien">Drawings by Tolkien</a></i>.
+<p>The inverted 1976 Tolkien monogram from <i><a class="mw-redirect mw-disambig" href="../D/Drawings_by_Tolkien.md" title="Drawings by Tolkien">Drawings by Tolkien</a></i>.
 </p>
 			</div></div>
 		</li>
 		<li class="gallerybox" style="width: 63.333333333333px">
 			<div class="thumb" style="width: 61.333333333333px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Monogram_1980.png.md" title="A 1980 Tolkien monogram on the spine of Unfinished Tales."><img alt="A 1980 Tolkien monogram on the spine of Unfinished Tales." src="https://tolkiengateway.net/w/images/thumb/b/b8/J.R.R._Tolkien_Monogram_1980.png/92px-J.R.R._Tolkien_Monogram_1980.png" decoding="async" loading="lazy" width="62" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/J.R.R._Tolkien_Monogram_1980.png/138px-J.R.R._Tolkien_Monogram_1980.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/J.R.R._Tolkien_Monogram_1980.png/184px-J.R.R._Tolkien_Monogram_1980.png 2x" data-file-width="192" data-file-height="375"/></a></span></div>
 			<div class="gallerytextwrapper" style="width: 42px"><div class="gallerytext">
-<p>Một chữ lồng Tolkien năm 1980 trên gáy của <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>.
+<p>A 1980 Tolkien monogram on the spine of <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i>.
 </p>
 			</div></div>
 		</li>

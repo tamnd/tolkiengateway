@@ -51,7 +51,7 @@ infobox:
 </td>
 <td><i><a href="../T/The_Lay_Of_Leithian_(album).md" title="The Lay Of Leithian (album)">The Lay of Leithian</a></i>
 </td>
-<td>Full-length
+<td>Phim truyện dài
 </td>
 <td>10
 </td>
@@ -62,7 +62,7 @@ infobox:
 </td>
 <td><i><b><a href="../N/Nevrast_(album).md" title="Nevrast (album)"> Nevrast</a></b></i>
 </td>
-<td>Full-length
+<td>Phim truyện dài
 </td>
 <td>8
 </td>

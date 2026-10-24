@@ -84,7 +84,7 @@ sort_keys:
 
 <div class="tg-seq"><table class="tg-seq-table wikitable wikitable--border">
 <tbody><tr class="tg-seq-head"><td></td><td><div class="tg-seq-title">Brin Dunsire</div></td><td></td></tr>
-<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../J/Jonathan_Simons.md" title="Jonathan Simons">Jonathan Simons</a></div></td><td width="45%"><div class="tg-seq-value">Chủ tịch thứ 4 của <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">Hội Tolkien</a></div><div class="tg-seq-label">29 April 1984 - 16 April 1988</div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../A/Alex_Lewis.md" title="Alex Lewis">Alex Lewis</a></div></td></tr>
+<tr><td width="27.5%"><div class="tg-seq-label">Trước đó</div><div class="tg-seq-value"><a href="../J/Jonathan_Simons.md" title="Jonathan Simons">Jonathan Simons</a></div></td><td width="45%"><div class="tg-seq-value">4th Chairman of <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></div><div class="tg-seq-label">29 April 1984 - 16 April 1988</div></td><td width="27.5%"><div class="tg-seq-label">Tiếp theo</div><div class="tg-seq-value"><a href="../A/Alex_Lewis.md" title="Alex Lewis">Alex Lewis</a></div></td></tr>
 </tbody></table></div>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">

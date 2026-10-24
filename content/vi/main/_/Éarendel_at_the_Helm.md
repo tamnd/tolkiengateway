@@ -17,24 +17,24 @@ categories:
 ## Bài thơ {#Poem}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">A white horse in the sun shining,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">A white ship in the sea gliding,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Éarendel at the helm;</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Green waves in the sea moving,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">White froth at the prow spuming</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Glistening in the sun;</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Foam-riders with hair like blossom</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">And pale hands on the sea’s bosom</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Chanting wild songs;</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Taut ropes like harps tingling,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">From far shores a faint singing</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">On islands in the deep;</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">The bent sails in the wind billowing,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">The loud wind in the sails bellowing,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">The road going on for ever,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Éarendel at the helm,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">His eyes shining, the sea gliding,</span><br/>
-<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 4em;">To havens in the West!<sup id="cite_ref-collectedpoems_1-1" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup></span>
+<p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Ngựa trắng tỏa nắng,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Con tàu trắng lướt trên biển,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Éarendel đứng đầu;</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Sóng xanh biển lay động,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Sọt trắng ở mũi tàu</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Lấp lánh dưới nắng;</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Người tạo bọt với mái tóc như bông hoa</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Và bàn tay nhợt nhạt trên lòng biển</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Tụng những khúc ca hoang dã;</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Dây căng như đàn hạc,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Từ bờ xa tiếng hát yếu ớt</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Trên các đảo sâu;</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Những cánh buồm cong trong gió cuồn cuộn,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Gió gào thét trong cánh buồm,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Con đường đi mãi,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Éarendel đứng đầu,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 2em;">Đôi mắt anh sáng ngời, biển lướt đi,</span><br/>
+<span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 4em;">Đến nơi trú ẩn trong Phương Tây!<sup id="cite_ref-collectedpoems_1-1" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup></span>
 </p>
 </div>
 

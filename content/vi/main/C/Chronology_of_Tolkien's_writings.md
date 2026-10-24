@@ -826,7 +826,7 @@ Trong giai đoạn này của cuộc đời, Tolkien đã từ bỏ mọi hy v�
 <td></td>
 <td></td>
 <td></td>
-<td>‘Sự đảo ngược của Manwë và Eru’, ‘<a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a>’ và ‘Sự tái sinh của Tiên tộc’.
+<td>‘The Converse of Manwë and Eru’, ‘<a href="../A/Athrabeth_Finrod_ah_Andreth.md" title="Athrabeth Finrod ah Andreth">Athrabeth Finrod ah Andreth</a>’ and the ‘Reincarnation of Elves’.
 </td></tr>
 <tr>
 <th>1960

@@ -27,13 +27,13 @@ images:
   - "Sage_-_Great_Road.png"
 ---
 
-<dl><dd><i><b>Great Road</b> redirects here. This name sometimes refers to the <b><a href="../E/East_Road.md" title="East Road">East Road</a></b>.</i></dd></dl>
+<dl><dd><i><b>Great Road</b> chuyển hướng đến đây. Tên này đôi khi ám chỉ đến <b><a href="../E/East_Road.md" title="East Road">phương Đông Đường</a></b>.</i></dd></dl>
 
 **Con đường Hoàng gia**,<sup id="cite_ref-Isen_1-0" class="reference"><a href="#cite_note-Isen-1">[1]</a></sup> còn được gọi là **Đại lộ**,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> là một con đường lớn ở [Westlands](../W/Westlands.md) nối [Fornost Erain](../F/Fornost_Erain.md) ở vương quốc phía bắc [Arnor](../A/Arnor.md) với [Minas Tirith](../M/Minas_Tirith.md) và [Osgiliath](../O/Osgiliath.md) ở vương quốc phía nam [Gondor](../G/Gondor.md).<sup id="cite_ref-Isen_1-1" class="reference"><a href="#cite_note-Isen-1">[1]</a></sup>
 
 ## Khóa học {#Course}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sage_-_Great_Road.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/13/Sage_-_Great_Road.png/300px-Sage_-_Great_Road.png" decoding="async" loading="lazy" width="300" height="193" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/13/Sage_-_Great_Road.png/450px-Sage_-_Great_Road.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/13/Sage_-_Great_Road.png/600px-Sage_-_Great_Road.png 2x" data-file-width="667" data-file-height="428"/></a><figcaption>Course of the Great Road (highlighted with red) with its major stops.</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sage_-_Great_Road.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/13/Sage_-_Great_Road.png/300px-Sage_-_Great_Road.png" decoding="async" loading="lazy" width="300" height="193" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/13/Sage_-_Great_Road.png/450px-Sage_-_Great_Road.png 1.5x, https://tolkiengateway.net/w/images/thumb/1/13/Sage_-_Great_Road.png/600px-Sage_-_Great_Road.png 2x" data-file-width="667" data-file-height="428"/></a><figcaption>Lộ trình của Đại lộ (được đánh dấu màu đỏ) với các điểm dừng chính.</figcaption></figure>
 
 Con đường Hoàng gia ban đầu chạy từ Fornost ở Arnor ở cực bắc, về phía nam hàng trăm dặm qua [Eriador](../E/Eriador.md) đi ngang qua [Bree](../B/Bree.md) (nơi nó băng qua [phương Đông-Phương Tây Đường](../E/East_Road.md)), đi qua [Andrath](../A/Andrath.md) giữa [Barrow-downs](../B/Barrow-downs.md) và [South Downs](../S/South_Downs.md) rồi đi theo hướng đông nam qua [Cardolan](../C/Cardolan.md) trên những con đường đắp dài băng qua hàng rào của [Minhiriath](../M/Minhiriath.md) đến cầu<sup id="cite_ref-Glanduin_3-0" class="reference"><a href="#cite_note-Glanduin-3">[3]</a></sup>qua sông [Greyflood](../G/Greyflood.md) tại thành phố [Tharbad](../T/Tharbad.md).<sup id="cite_ref-Map_4-0" class="reference"><a href="#cite_note-Map-4">[4]</a></sup>
 

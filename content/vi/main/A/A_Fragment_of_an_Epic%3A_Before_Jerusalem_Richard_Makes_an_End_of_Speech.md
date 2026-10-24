@@ -30,7 +30,7 @@ infobox:
   <tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
   <tr><th colspan="2" class="tg-infobox-title"><span>A Fragment of an Epic: Before Jerusalem Richard Makes an End of Speech</span></th></tr>
   <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">"Mảnh sử thi" (Thập tự chinh),<br/><i>Richeard Englenacyning maþeleþ fore fyrdum</i></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">&#34;Fragment of Epic&#34; (Crusades),<br/><i>Richeard Englenacyning maþeleþ fore fyrdum</i></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data"><a href="../J/June.md" title="June">June</a> or <a href="../J/July.md" title="July">July</a> of <a href="../_/1911.md" title="1911">1911</a></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Bản sửa đổi</th><td class="tg-infobox-data"><a href="../_/26_January.md" title="26 January">26 January</a> of <a href="../_/1914.md" title="1914">1914</a></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="../T/The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i></td></tr>

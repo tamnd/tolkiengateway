@@ -17,30 +17,30 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Less can be more,<br/>
-And small can be beautiful,<br/>
-For life isn&#39;t all<br/>
-Just big and wonderful.<br/>
+<p>Ít hơn có thể nhiều hơn,<br/>
+Và nhỏ cũng có thể đẹp,<br/>
+Vì cuộc sống không phải là tất cả<br/>
+Vừa lớn vừa tuyệt vời.<br/>
 <br/>
-And what do I need,<br/>
-When you get right down to it?<br/>
-All my cares come from greed,<br/>
-And it&#39;s time that I knew it.<br/>
+Và tôi cần gì,<br/>
+Khi nào bạn bắt tay vào thực hiện được?<br/>
+Mọi quan tâm của tôi đều xuất phát từ lòng tham,<br/>
+Và đã đến lúc tôi phải biết điều đó.<br/>
 <br/>
-Things I can&#39;t do without<br/>
-Are the small things that life is all about.<br/>
+Những điều tôi không thể thiếu<br/>
+Đó là những điều nhỏ nhặt trong cuộc sống.<br/>
 <br/>
-Less can be more,<br/>
-And small can be beautiful,<br/>
-I don&#39;t want it all;<br/>
-Just part of wonderful.<br/>
+Ít hơn có thể nhiều hơn,<br/>
+Và nhỏ cũng có thể đẹp,<br/>
+Tôi không muốn tất cả;<br/>
+Chỉ là một phần tuyệt vời.<br/>
 <br/>
-For what do I need,<br/>
-When you get right down to it?<br/>
-Just a garden and seed,<br/>
-And the love to pursue it.<br/>
+Tôi cần gì,<br/>
+Khi nào bạn bắt tay vào thực hiện được?<br/>
+Chỉ là vườn và hạt giống,<br/>
+Và niềm đam mê theo đuổi nó.<br/>
 <br/>
-Things I can&#39;t do without<br/>
-Are the small things that life is all about.
+Những điều tôi không thể thiếu<br/>
+Đó là những điều nhỏ nhặt trong cuộc sống.
 </p>
 </div>

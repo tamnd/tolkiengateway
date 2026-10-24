@@ -56,7 +56,7 @@ Trong [Kỷ Đệ Tứ](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md)<sup id
 
 <b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Named &#34;the Silent Street&#34;, Rath Dínen is inaccessible in the pre-battle version of Minas Tirith. During the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">battle of the Pelennor Fields</a> <a href="../B/Beregond.md" title="Beregond">Beregond</a> throws the <a href="../F/Fen_Hollen.md" title="Fen Hollen">Fen Hollen</a> open but is followed by the members of &#34;the Withered Tree&#34; conspiracy seeking to overthrow the rule of the Stewards. The players have to battle the Withered Tree within the Silent Street in a group instance before witnessing the end of <a href="../D/Denethor.md" title="Denethor">Denethor</a>. In the after-battle version of Minas Tirith, the Silent Street is opened for the mourning.</dd></dl>
+<dl><dd>Được đặt tên là "Phố im lặng", Rath Dínen không thể truy cập được trong phiên bản trước trận chiến của Minas Tirith. Trong <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">trận chiến cánh đồng Pelennor</a> <a href="../B/Beregond.md" title="Beregond">Beregond</a> đã mở <a href="../F/Fen_Hollen.md" title="Fen Hollen">Fen Hollen</a> nhưng bị theo sau bởi các thành viên của "Cây héo" âm mưu tìm cách lật đổ sự cai trị của Quản gia. Người chơi phải chiến đấu với Cây héo trong Phố Im lặng trong một nhóm trước khi chứng kiến ​​sự kết thúc của <a href="../D/Denethor.md" title="Denethor">Denethor</a>. Trong phiên bản sau trận chiến của Minas Tirith, Phố Im lặng được mở để tang lễ.</dd></dl>
 
 ## Xem thêm {#See_also}
 

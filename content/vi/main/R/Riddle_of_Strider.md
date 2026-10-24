@@ -19,7 +19,7 @@ images:
   - "Christopher_Lee_-_Riddle_of_Strider.wav"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
 **Câu đố về Strider**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một bài thơ được viết bởi [Bilbo Baggins](../B/Bilbo_Baggins.md) để vinh danh người bạn [Dúnadan](../D/Dúnedain.md) khi anh lần đầu tiên tiết lộ danh tính thực sự của mình là [Aragorn](../A/Aragorn.md).
@@ -30,9 +30,9 @@ Bài thơ được đưa ra lần đầu trong [bức thư](../G/Gandalf's_lette
 
 ## Bài thơ {#Poem}
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/a/a8/Christopher_Lee_-_Riddle_of_Strider.wav" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:Christopher_Lee_-_Riddle_of_Strider.wav">https://tolkiengateway.net/wiki/File:Christopher_Lee_-_Riddle_of_Strider.wav</a></audio><figcaption><a href="../C/Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a> reads the Riddle of Strider</figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/a/a8/Christopher_Lee_-_Riddle_of_Strider.wav" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:Christopher_Lee_-_Riddle_of_Strider.wav">https://tolkiengateway.net/wiki/File:Christopher_Lee_-_Riddle_of_Strider.wav</a></audio><figcaption><a href="../C/Christopher_Lee.md" title="Christopher Lee">Christopher Lee</a> đọc Câu đố Strider</figcaption></figure>
 
-<dl><dd><i>All that is gold does not glitter,</i><br/><i>Not all those who wander are lost;</i><br/><i>The old that is strong does not wither,</i><br/><i>Deep roots are not reached by the frost.</i><br/><i>From the ashes a fire shall be woken,</i><br/><i>A light from the shadows shall spring;</i><br/><i>Renewed shall be <a href="../A/Andúril.md" title="Andúril">blade that was broken</a>,</i><br/><i>The crownless again shall be <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">king</a>.</i></dd></dl>
+<dl><dd><i>Tất cả những gì là vàng thì không lấp lánh,</i><br/><i>Không phải tất cả những kẻ lang thang đều lạc lối;</i><br/><i>Cái cũ mạnh mẽ không khô héo,</i><br/><i>Băng giá không thể chạm tới rễ sâu.</i><br/><i>Từ đống tro tàn, một ngọn lửa sẽ được đánh thức,</i><br/><i>Ánh sáng từ bóng tối sẽ đánh thức mùa xuân;</i><br/><i>Được làm mới <a href="../A/Andúril.md" title="Andúril">lưỡi kiếm đã gãy</a>,</i><br/><i>Người không vương miện sẽ lại là <a class="mw-redirect" href="../K/Kings_of_Gondor.md" title="Kings of Gondor">vua</a>.</i></dd></dl>
 
 ## Phân tích {#Analysis}
 
@@ -42,11 +42,11 @@ Dòng đầu tiên rõ ràng là sự viết lại câu tục ngữ truyền th�
 
 <b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
-<dl><dd>Gandalf reads out the Riddle when Frodo reads the letter in Bree.</dd></dl>
+<dl><dd>Gandalf đọc Câu đố khi Frodo đọc chữ cái trong Bree.</dd></dl>
 
 <b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
-<dl><dd>Although the letter is read aloud, the Riddle is absent. Strider simply tells his name after Frodo reads the words &#34;His name is Aragorn&#34;. Later, in Rivendell, Frodo uses the line &#34;the old that is strong does not wither&#34; to refer to Bilbo, and Arwen says &#34;From the ashes a fire shall be woken&#34; when she gives Aragorn Andúril.</dd></dl>
+<dl><dd>Mặc dù bức thư được đọc to nhưng Câu đố vẫn vắng mặt. Strider chỉ cần nói tên của mình sau khi Frodo đọc dòng chữ "Tên ông là Aragorn". Sau này, trong Rivendell, Frodo dùng câu "cái già mạnh không héo" để chỉ Bilbo, và Arwen nói "Từ đống tro tàn, một ngọn lửa sẽ được đánh thức" khi bà cho Aragorn Andúril.</dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
@@ -55,7 +55,7 @@ Dòng đầu tiên rõ ràng là sự viết lại câu tục ngữ truyền th�
 <b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
 <dl><dd><b>September 23: <i><a href="../P/Partings.md" title="Partings">Partings</a></i>:</b>
-<dl><dd>The line &#34;<i>That not all who wonder or wander are lost</i>&#34; is a line within the <a href="../T/This_Wandering_Day.md" title="This Wandering Day">song</a> that was sung in the <a href="Rhovanion_Hills.md" title="Rhovanion Hills">Rhovanion Hills</a> by <a href="../P/Poppy_Proudfellow.md" title="Poppy Proudfellow">Poppy Proudfellow</a> during the <a href="../H/Harfoots.md" title="Harfoots">Harfoot</a> migration from the <a href="../N/Norfield_Glen.md" title="Norfield Glen">Norfield Glen</a> to the <a href="../G/Grove.md" title="Grove">Grove</a>.</dd></dl></dd></dl>
+<dl><dd>Câu "<i>Rằng không phải tất cả những ai thắc mắc hay đi lang thang đều bị lạc</i>" là một câu trong <a href="../T/This_Wandering_Day.md" title="This Wandering Day">bài hát</a> được hát ở <a href="Rhovanion_Hills.md" title="Rhovanion Hills">Rhovanion Hills</a> bởi <a href="../P/Poppy_Proudfellow.md" title="Poppy Proudfellow">Poppy Proudfellow</a> trong cuộc di cư <a href="../H/Harfoots.md" title="Harfoots">Harfoot</a> từ <a href="../N/Norfield_Glen.md" title="Norfield Glen">Norfield Glen</a> đến <a href="../G/Grove.md" title="Grove">Grove</a>.</dd></dl></dd></dl>
 
 ## Xem thêm {#See_also}
 

@@ -37,17 +37,17 @@ On kolmas aika auringon
 ### Tiếng Anh {#English}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>Under the surface<br/>
-In the shadows of Rhûn<br/>
-At the bottom in the sand<br/>
-In the midst of the dark sea<br/>
-rests the strength of heroism<br/>
-In the light<br/>
-In the brightness of a new morning<br/>
-Mist gives way<br/>
-Flees to its territory<br/>
-To its hiding places<br/>
-The sword rises from the depths<br/>
-It&#39;s the third age of the sun
+<p>Dưới bề mặt<br/>
+Trong bóng tối của Rhûn<br/>
+Ở dưới đáy cát<br/>
+Giữa biển đen<br/>
+dựa trên sức mạnh của chủ nghĩa anh hùng<br/>
+Trong ánh sáng<br/>
+Trong ánh sáng của một buổi sáng mới<br/>
+Sương mù nhường chỗ<br/>
+Chạy trốn đến lãnh thổ của nó<br/>
+Đến nơi ẩn náu của nó<br/>
+Thanh kiếm trỗi dậy từ vực sâu<br/>
+Đó là tuổi thứ ba của mặt trời
 </p>
 </div>

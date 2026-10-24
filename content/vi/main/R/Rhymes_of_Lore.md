@@ -20,7 +20,7 @@ categories:
 Trên đường đi [Minas Tirith](../M/Minas_Tirith.md) [Gandalf](../G/Gandalf.md) lẩm bẩm vài vần điệu bằng nhiều thứ tiếng. [Pippin](../P/Peregrin_Took.md) đã có thể rút ra được vài dòng về họ:
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tall ships and <a class="mw-redirect" href="../H/High_Men.md" title="High Men">tall kings</a><br/>Three times three,<br/>What brought they from the <a href="../N/Númenor.md" title="Númenor">foundered land</a> <br/>Over the <a href="../B/Belegaer.md" title="Belegaer">flowing sea</a>? <br/><a href="../S/Seven_Stars.md" title="Seven Stars">Seven stars</a> and <a href="../P/Palantíri.md" title="Palantíri">seven stones</a> <br/>And one <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">white tree</a>.
+<p>Những con tàu cao và <a class="mw-redirect" href="../H/High_Men.md" title="High Men">những vị vua cao lớn</a><br/>Ba lần ba,<br/>Điều gì đã đưa họ từ <a href="../N/Númenor.md" title="Númenor">mảnh đất lập quốc</a> <br/>Bên kia <a href="../B/Belegaer.md" title="Belegaer">biển chảy</a>? <br/><a href="../S/Seven_Stars.md" title="Seven Stars">Bảy ngôi sao</a> và <a href="../P/Palantíri.md" title="Palantíri">bảy viên đá</a> <br/>Và một <a class="mw-redirect mw-disambig" href="../W/White_Tree.md" title="White Tree">cây trắng</a>.
 </p>
 </blockquote>
 

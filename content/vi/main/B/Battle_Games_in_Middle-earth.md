@@ -94,19 +94,19 @@ Sau khi kết thúc hợp tác, [Mark Latham](../M/Mark_Latham.md), một biên 
 <td align="center" colspan="2" style="background: var(--tg-color-surface-5);"><b>Tạp chí chơi game trên máy tính bảng</b>
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Roleplaying in Middle-earth</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Nhập vai ở Trung Địa</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../O/Other_Hands.md" title="Other Hands">Other Hands</a></b></i> (<a href="../_/1993.md" title="1993">1993</a>-<a href="../_/2001.md" title="2001">2001</a>) • <i><b><a href="../O/Other_Minds.md" title="Other Minds">Other Minds</a></b></i> (<a href="../_/2007.md" title="2007">2007</a>-)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Wargaming in Middle-earth</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Mô phỏng chiến tranh ở Trung Địa</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a class="mw-selflink selflink">Battle Games in Middle-earth</a></b></i> (<a href="../_/2002.md" title="2002">2002</a>-<a href="../_/2006.md" title="2006">2006</a>)
 </td></tr>
 <tr>
-<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Other Magazines</b>
+<td align="center" colspan="2" style="background: var(--tg-color-surface-2);"><b>Các tạp chí khác</b>
 </td></tr>
 <tr>
 <td align="center" style="font-size: 90%;">  <i><b><a href="../D/Dragon_Magazine.md" title="Dragon Magazine">Dragon</a></b></i> (<a href="../_/1976.md" title="1976">1976</a>-<a href="../_/2013.md" title="2013">2013</a>) • <i><b><a href="../W/White_Dwarf.md" title="White Dwarf">White Dwarf</a></b></i> (<a href="../_/1977.md" title="1977">1977</a>-) • <i><b><a href="../I/InQuest.md" title="InQuest">InQuest</a></b></i> (<a href="../_/1995.md" title="1995">1995</a>-<a href="../_/2007.md" title="2007">2007</a>) • <i><b><a href="../T/The_Guild_Companion.md" title="The Guild Companion">The Guild Companion</a></b></i> (<a href="../_/1998.md" title="1998">1998</a>-<a href="../_/2019.md" title="2019">2019</a>)

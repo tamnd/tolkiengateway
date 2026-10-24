@@ -56,9 +56,9 @@ Biến thể thứ hai có lẽ<sup class="noprint" style="line-height: 0.4em;">
 <tbody><tr>
 <td><div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Brœðr muno beriaz<br/>
-được rồi, bănom verða,<br/>
+ok at bǫnom verða,<br/>
 muno systrungar<br/>
-sự cố tràn.<br/>
+sifiom spilla.<br/>
 Hart er í heimi,<br/>
 hórdómr mikill.<br/>
 <b>Skeggǫld, skálmǫld,</b><br/>
@@ -66,7 +66,7 @@ hórdómr mikill.<br/>
 <b>Vindǫld, vargǫld,</b><br/>
 <b>áðr verǫld steypiz.</b><br/>
 Mun engi maðr<br/>
-ððrom þyrma.
+ǫðrom þyrma.
 </p>
 </div>
 </td>

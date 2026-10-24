@@ -17,39 +17,39 @@ categories:
 ## Lời bài hát {#Lyrics}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
-<p>One with the light of the stars <br/>
-Woke Firstborns of Ilúvatar <br/>
-One with the trees and the green <br/>
-Planted all the first seeds <br/>
-Hope for the others grief <br/>
-She will come in misery <br/>
-Ever-Young cares the blooms <br/>
-Her sister caused the sun and the moon <br/>
+<p>Một với ánh sáng của những vì sao <br/>
+Đánh thức đứa con đầu lòng của Ilúvatar <br/>
+Một với cây và xanh <br/>
+Đã gieo hết những hạt giống đầu tiên <br/>
+Mong cho người khác đau buồn <br/>
+Bà sẽ đến trong đau khổ <br/>
+Ever-Young chăm sóc những bông hoa <br/>
+Em gái cô đã tạo ra mặt trời và mặt trăng <br/>
 <br/>
-Valier, Queens of the <a href="Valar.md" title="Valar">Valar</a> <br/>
-Sisters and wives of divine <br/>
-Maid singers of the world <br/>
-Composers, creators <br/>
+Valier, Nữ hoàng của <a href="Valar.md" title="Valar">Valar</a> <br/>
+Chị em vợ thần thánh <br/>
+Ca sĩ hầu gái của thế giới <br/>
+Nhà soạn nhạc, nhà sáng tạo <br/>
 <br/>
-One with the laugh and the dance <br/>
-Spirit maiden in the woodlands <br/>
-And one with the gift to heal <br/>
-Gardens of Lórien her realm <br/>
-Weaver from <a href="../T/Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a> <br/>
-Cast the fate of the other dawn <br/>
-All the stories within time <br/>
-In her clouds weaved with pride <br/>
+Một với tiếng cười và điệu nhảy <br/>
+Tiên nữ trong rừng <br/>
+Và một người có năng khiếu chữa bệnh <br/>
+Khu vườn Lórien vương quốc của bà <br/>
+Thợ dệt từ <a href="../T/Timeless_Halls.md" title="Timeless Halls">Hội trường vượt thời gian</a> <br/>
+Đúc số phận của bình minh kia <br/>
+Tất cả những câu chuyện trong thời gian <br/>
+Trong đám mây của bà dệt nên niềm tự hào <br/>
 <br/>
-Highest of <a href="../A/Ainur.md" title="Ainur">Ainur</a> in <a class="mw-redirect" href="../E/Ea~22487.md" title="Ea">Ea</a><br/>
-First from <a href="../I/Ilúvatar.md" title="Ilúvatar">Eru</a>&#39;s hands <br/>
-Masters of Menel <br/>
-Almighty of <a href="../A/Arda.md" title="Arda">Arda</a> <br/>
-<a class="mw-redirect" href="Valier.md" title="Valier">Valier</a>, Queens of the <a href="Valar.md" title="Valar">Valar</a> <br/>
+Cao nhất <a href="../A/Ainur.md" title="Ainur">Ainur</a> ở <a class="mw-redirect" href="../E/Ea~22487.md" title="Ea">Ea</a><br/>
+Đầu tiên từ tay <a href="../I/Ilúvatar.md" title="Ilúvatar">Eru</a> <br/>
+Bậc thầy của Menel <br/>
+Đấng toàn năng <a href="../A/Arda.md" title="Arda">Arda</a> <br/>
+<a class="mw-redirect" href="Valier.md" title="Valier">Valier</a>, Nữ hoàng của <a href="Valar.md" title="Valar">Valar</a> <br/>
 <br/>
-Seven mothers of the earth <br/>
-Concerned with life, tears and time <br/>
-Pure beings of great beauty <br/>
-Loving hearts, joy and majesty <br/>
+Bảy bà mẹ của trái đất <br/>
+Quan tâm đến cuộc sống, nước mắt và thời gian <br/>
+Chúng sinh thanh tịnh có vẻ đẹp tuyệt vời <br/>
+Trái tim yêu thương, niềm vui và sự uy nghiêm <br/>
 <br/>
 <a href="Varda.md" title="Varda">Varda</a>, <a href="../Y/Yavanna.md" title="Yavanna">Yavanna</a>, <a href="../N/Nienna.md" title="Nienna">Nienna</a> <br/>
 <a href="Vána.md" title="Vána">Vána</a>, Nesse, <a class="mw-redirect" href="../E/Este.md" title="Este">Este</a>, <a class="mw-redirect" href="Vaire.md" title="Vaire">Vaire</a><br/>

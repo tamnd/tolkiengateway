@@ -42,7 +42,7 @@ Người hâm mộ muốn tham gia phải trả lời năm câu hỏi:
 
 Khách được hỏi năm câu hỏi tương tự từ Dự án, với câu hỏi thứ sáu được bổ sung:
 
-<dl><dd>6. What Tolkien work, project, or community are you currently working on that we should know about?</dd></dl>
+<dl><dd>6. Bạn hiện đang thực hiện Tolkien công việc, dự án hoặc cộng đồng nào mà chúng tôi nên biết?</dd></dl>
 
 Trong [2021](../_/2021.md), podcast đã nhận được [ Giải thưởng của Hội Tolkien](The_Tolkien_Society_Award.md) cho nội dung trực tuyến hay nhất.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
@@ -54,8 +54,8 @@ Trong [2021](../_/2021.md), podcast đã nhận được [ Giải thưởng củ
 <li><a href="../A/Andrew_Higgins.md" title="Andrew Higgins">Andrew Higgins</a></li>
 <li><a href="../J/James_Tauber.md" title="James Tauber">James Tauber</a></li>
 <li><a href="../S/Shaun_Gunner.md" title="Shaun Gunner">Shaun Gunner</a></li>
-<li><a href="../C/Corey_Olsen.md" title="Corey Olsen">Corey Olsen</a> (part 1)</li>
-<li>Corey Olsen (part 2)</li>
+<li><a href="../C/Corey_Olsen.md" title="Corey Olsen">Corey Olsen</a> (phần 1)</li>
+<li>Corey Olsen (phần 2)</li>
 <li>Mina Lukic</li>
 <li>Dawn Walls-Thuma</li>
 <li>Margaret Killjoy</li>
@@ -97,7 +97,7 @@ Trong [2021](../_/2021.md), podcast đã nhận được [ Giải thưởng củ
 <li>Sonali Chunodkar</li>
 <li>Alicia Fox-Lenz</li>
 <li>Panel on the Music of <i>The Rings of Power</i></li>
-<li><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup></li>
+<li><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[chú ý 1]</a></sup></li>
 <li>Panel on Tolkien, Adaptation, and <i><a class="mw-redirect mw-disambig" href="The_Rings_of_Power.md" title="The Rings of Power">The Rings of Power</a></i></li>
 <li><a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a></li>
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laura_Martin-Gomez&amp;action=edit&amp;redlink=1" title="Laura Martin-Gomez (page does not exist)">Laura Martin-Gomez</a></li>

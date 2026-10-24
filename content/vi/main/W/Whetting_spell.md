@@ -17,10 +17,10 @@ images:
   - "Anke_Eißmann_-_The_last_moments_of_Beleg_Cúthalion.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này mô tả một khái niệm được đề cập trong các tác phẩm của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> nhưng chưa bao giờ được đặt tên rõ ràng.
 </div></div>
 
-<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_The_last_moments_of_Beleg_Cúthalion.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg/300px-Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg" decoding="async" loading="lazy" width="300" height="398" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg/450px-Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/68/Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg/600px-Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg 2x" data-file-width="653" data-file-height="866"/></a><figcaption><i>The last moments of Beleg Cúthalion</i> by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_The_last_moments_of_Beleg_Cúthalion.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/68/Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg/300px-Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg" decoding="async" loading="lazy" width="300" height="398" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/68/Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg/450px-Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/68/Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg/600px-Anke_Ei%C3%9Fmann_-_The_last_moments_of_Beleg_C%C3%BAthalion.jpg 2x" data-file-width="653" data-file-height="866"/></a><figcaption><i>The last moments of Beleg Cúthalion</i> của <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
 **câu thần chú đánh đòn** là một [bài hát ma thuật](../M/Magic.md) được hát bởi [Beleg](../B/Beleg.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*. Câu thần chú đề cập đến một số khái niệm bí ẩn sẽ không bao giờ xuất hiện trong bất kỳ tác phẩm nào khác của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md); bản thân câu thần chú sẽ không xuất hiện trong các phiên bản sau của câu chuyện.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -29,23 +29,23 @@ images:
 Sau khi [Túrin](../T/Túrin.md) bị [Orc](../O/Orcs.md) bắt, người bạn [Beleg](../B/Beleg.md) và [Gnome](../G/Gnome.md) [Flinding](../F/Flinding.md) đã giải cứu anh khỏi trại địch trong khi anh vẫn đang bị xích và bất tỉnh. Khi họ đưa ông ta đến gần, Beleg tìm [thanh kiếm của ông ta](../A/Anglachel.md) để cắt dây xích của Túrin và thì thầm một bài hát ma thuật để mài sắc nó:
 
 <blockquote class="tg-quote noexcerpt">
-<p>There wondrous wove he  words of sharpness,<br/>
-and the names of knives  and Gnomish blades<br/>
-he uttered o&#39;er it:  even Ogbar&#39;s spear<br/>
-and the glaive of Gaurin  whose gleaming stroke<br/>
-did rive the rocks  of Rodrim&#39;s hall;<br/>
-the sword of Saithnar,  and the silver blades<br/>
-of the enchanted children  of chains forged<br/>
-in their deep dungeon;  the dirk of Nargil,<br/>
-the knife of the North  in Nogrod smithied;<br/>
-the sweeping sickle  of the slashing tempest,<br/>
-the lambent lightning&#39;s  leaping falchion<br/>
-even Celeg Aithorn  that shall cleave the world.<br/>
-Then whistling whirled he  the whetted sword-blade<br/>
-and three times three  it threshed the gloom,<br/>
-till flame was kindled  flickering strangely<br/>
-like licking firelight  in the lamp&#39;s glimmer<br/>
-blue and baleful  at the blade&#39;s edges.
+<p>Ông có những lời lẽ sắc bén tuyệt vời,<br/>
+và tên của các loại dao  và Gnomish lưỡi dao<br/>
+ông đã thốt ra điều đó:  thậm chí cả ngọn giáo của Ogbar<br/>
+và thanh đao của Gaurin  có nét vẽ lấp lánh<br/>
+đã đập nát những tảng đá  của đại sảnh Rodrim;<br/>
+thanh kiếm của Saithnar,  và những lưỡi kiếm bạc<br/>
+của những đứa trẻ bị mê hoặc  của những sợi dây xích được rèn<br/>
+trong ngục tối sâu thẳm của họ;  con dao của Nargil,<br/>
+con dao miền Bắc  được rèn ở Nogrod;<br/>
+lưỡi liềm quét của cơn bão chém,<br/>
+cú nhảy chồm lên của tia sét rực rỡ<br/>
+thậm chí cả Celeg Aithorn  người sẽ chia cắt thế giới.<br/>
+Rồi tiếng huýt sáo xoay tròn của ông  lưỡi kiếm được mài giũa<br/>
+và ba lần ba  nó xua tan bóng tối,<br/>
+cho đến khi ngọn lửa được nhóm lên  lấp lánh lạ lùng<br/>
+như liếm ánh lửa  trong ánh đèn le lói<br/>
+màu xanh lam và có hại  ở các cạnh của lưỡi kiếm.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, &#34;II. Beleg&#34;, p. 45, vv. 1207-1223</cite></p>
 </blockquote>

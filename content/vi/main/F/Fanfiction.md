@@ -28,11 +28,11 @@ Hầu hết luật bản quyền quốc gia đều thừa nhận khái niệm *d
 Trong <a class="external text" href="https://www.tolkienestate.com/frequently-asked-questions-and-links/" rel="noreferrer noopener" target="_blank">mục Câu hỏi thường gặp trên trang web của họ</a>, [Tolkien Estate](../T/Tolkien_Estate.md) không khuyến khích người hâm mộ tiểu thuyết dựa trên các tác phẩm của Tolkien:
 
 <blockquote class="tg-quote noexcerpt">
-<p><b>Can I / someone else write / complete / develop my / their own version of one of these unfinished tales ? (or any others)</b><br/>
-The simple answer is NO.<br/>
-You are of course free to do whatever you like for your own private enjoyment, but there is no question of any commercial exploitation of this form of &#34;fan-fiction&#34;.<br/>
-Also, in these days of the Internet, and privately produced collectors’ items for sale on eBay, we must make it as clear as possible that the Tolkien Estate never has, and never will authorize the commercialisation or distribution of any works of this type.<br/>
-The Estate exists to defend the integrity of J.R.R. Tolkien’s writings. Christopher Tolkien&#39;s work as his father’s literary executor has always been to publish as faithfully and honestly as possible his father&#39;s completed and uncompleted works, without adaptation or embellishment.
+<p><b>Tôi / người khác có thể viết / hoàn thành / phát triển phiên bản của riêng mình về một trong những câu chuyện còn dang dở này không? (hoặc bất kỳ ai khác)</b><br/>
+Câu trả lời đơn giản là KHÔNG.<br/>
+Tất nhiên, bạn có thể tự do làm bất cứ điều gì bạn thích vì niềm vui riêng tư của mình, nhưng không có bất kỳ vấn đề khai thác thương mại nào đối với hình thức "fanfic" này.<br/>
+Ngoài ra, trong thời đại Internet hiện nay và các mặt hàng của các nhà sưu tập do tư nhân sản xuất để bán trên eBay, chúng ta phải nói rõ nhất có thể rằng Tolkien Estate không bao giờ có và sẽ không bao giờ cho phép thương mại hóa hoặc phân phối bất kỳ tác phẩm nào thuộc loại này.<br/>
+Di sản tồn tại để bảo vệ tính toàn vẹn của các bài viết của J.R.R. Tolkien. Công việc của Christopher Tolkien với tư cách là người thực thi văn học của cha anh là luôn xuất bản một cách trung thực và trung thực nhất có thể những tác phẩm đã hoàn thành và chưa hoàn thành của cha anh, không chuyển thể hay tô điểm.
 </p>
 </blockquote>
 
@@ -68,7 +68,7 @@ Bản thân Tolkien đã nhận được ít nhất hai yêu cầu cho phép xu�
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">For example, as of August 2010 &#39;Lord of the Rings&#39; was the fourth largest category at <a class="external text" href="http://www.fanfiction.net/" rel="noreferrer noopener" target="_blank">FanFiction.net</a>.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../S/Sumner_Gary_Hunnewell.md" title="Sumner Gary Hunnewell">Sumner Gary Hunnewell</a>, <i><a class="external text" href="http://efanzines.com/TFR/TolkienFandom2ndEd.pdf" rel="noreferrer noopener" target="_blank">Tolkien Fandom Review from its beginnings to 1964</a></i> (accessed 14 January 2014)</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a href="../S/Sumner_Gary_Hunnewell.md" title="Sumner Gary Hunnewell">Sumner Gary Hunnewell</a>, <i><a class="external text" href="http://efanzines.com/TFR/TolkienFandom2ndEd.pdf" rel="noreferrer noopener" target="_blank">Tolkien Fandom Review  from its beginnings to 1964</a></i> (accessed 14 January 2014)</span>
 </li>
 <li id="cite_note-ChillingEffects-4"><span class="mw-cite-backlink"><a href="#cite_ref-ChillingEffects_4-0">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.chillingeffects.org/fanfic/" rel="noreferrer noopener" target="_blank">Chilling Effects Clearinghouse: Fan Fiction</a>.</span>
 </li>

@@ -19,12 +19,12 @@ images:
   - "John_Howe_-_Wolf_Riders.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>wolf</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Wolf_(disambiguation).md" title="Wolf (disambiguation)">Wolf (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>sói</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Wolf_(disambiguation).md" title="Wolf (disambiguation)">Sói (định hướng)</a></b>.</div></div>
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Wolf_Riders.jpg.md"><img src="https://tolkiengateway.net/w/images/b/bc/John_Howe_-_Wolf_Riders.jpg" decoding="async" loading="lazy" width="244" height="341" class="mw-file-element" data-file-width="244" data-file-height="341"/></a><figcaption><i>Wolf Riders</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>He has taken Orcs into his service, and Wolf-riders, and evil Men
+<p>Ông đã đưa Orc vào phục vụ cho mình, cả Người cưỡi sói và Con Người ác quỷ
 </p>
 <p class="tg-quote-footer"><cite><a href="../_/Éomer.md" title="Éomer">Éomer</a> in &#34;<a href="../T/The_Riders_of_Rohan.md" title="The Riders of Rohan">The Riders of Rohan</a>&#34;<sup id="cite_ref-riders_1-0" class="reference"><a href="#cite_note-riders-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -81,23 +81,23 @@ Trong bản thảo đầu tiên của chương "[Flotsam và Jetsam](../F/Flotsa
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>The card <i>Wolf-riders</i> can be played either as a creature or as a short-event, the latter increasing the prowess and strikes of a Wolf attack.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup></dd></dl>
+<dl><dd>Thẻ <i>Wolf-riders</i> có thể được chơi dưới dạng một sinh vật hoặc dưới dạng một sự kiện ngắn, sự kiện sau sẽ tăng sức mạnh và đòn tấn công của Sói.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup></dd></dl>
 
 <b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
-<dl><dd>Saruman refers to the pack of Wolf-riders under the command of <a href="../S/Sharku.md" title="Sharku">Sharku</a> as <b>Warg-riders</b> and sends them to attack the Rohan refugees of Edoras on their way to Helm&#39;s Deep. During the skirmish with Warg-riders, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> falls from a cliff, and is later found by <a href="../B/Brego_(horse).md" title="Brego (horse)">Brego</a>.</dd></dl>
+<dl><dd>Saruman gọi nhóm Người sói dưới sự chỉ huy của <a href="../S/Sharku.md" title="Sharku">Sharku</a> là <b>Warg-riders</b> và cử họ đi tấn công những người tị nạn Rohan của Edoras trên đường đến Helm&#39;s Deep. Trong cuộc giao tranh với Warg-riders, <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> rơi từ vách đá và sau đó được tìm thấy bởi <a href="../B/Brego_(horse).md" title="Brego (horse)">Brego</a>.</dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>The Orc lieutenant <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a> rides a Warg during one scene. Two Warg-riders are seen riding alongside the <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> after the <a href="../O/Olog-hai.md" title="Olog-hai">Olog-hai</a> breach the <a href="../G/Great_Gate_of_Minas_Tirith.md" title="Great Gate of Minas Tirith">Great Gate of Minas Tirith</a>.</dd></dl>
+<dl><dd>Trung úy Orc <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a> cưỡi Warg trong một cảnh. Hai kỵ sĩ Warg được nhìn thấy đang cưỡi ngựa cùng với <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> sau khi <a href="../O/Olog-hai.md" title="Olog-hai">Olog-hai</a> vi phạm <a href="../G/Great_Gate_of_Minas_Tirith.md" title="Great Gate of Minas Tirith">Đại Cổng Minas Tirith</a>.</dd></dl>
 
 <b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
-<dl><dd>In the expansion <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Rise of the Witch-king</a></i>, Thrall Masters can summon <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a> Wolf-Riders.</dd></dl>
+<dl><dd>Trong bản mở rộng <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">The Rise of the Witch-king</a></i>, Thrall Master có thể triệu hồi <a href="../G/Gundabad.md" title="Gundabad">Gundabad</a> Wolf-Rider.</dd></dl>
 
 <b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
 
-<dl><dd>In the film trilogy, <a href="../A/Azog.md" title="Azog">Azog</a> and <a href="../B/Bolg.md" title="Bolg">Bolg</a>, as well as many orcs under their command, are shown to ride Wargs as they pursue <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a>, and later take part in the Battle of the Five Armies.</dd></dl>
+<dl><dd>Trong bộ ba phim, <a href="../A/Azog.md" title="Azog">Azog</a> và <a href="../B/Bolg.md" title="Bolg">Bolg</a>, cũng như nhiều orc dưới sự chỉ huy của họ, được cho là cưỡi Warg khi truy đuổi <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin và Đoàn tùy tùng</a>, và sau đó tham gia Trận chiến của năm đạo quân.</dd></dl>
 
 ## Ghi chú {#Notes}
 

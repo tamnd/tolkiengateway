@@ -332,7 +332,7 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Dead_Ringers_(comedy)" title="wikipedia:Dead Ringers (comedy)">Người đổ chuông chết</a> {#Dead_Ringers}
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../D/Dead_Ringers.md" title="Dead Ringers">Dead Ringers</a></b></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../D/Dead_Ringers.md" title="Dead Ringers">Người đổ chuông chết</a></b></div></div>
 
 <br>
 
@@ -595,43 +595,43 @@ Qua nhiều năm, nhiều **tài liệu tham khảo** bằng hình ảnh và b�
 - Trong "Make Love, Not Warcraft", có thể thấy một bức tượng nhỏ của [Tai họa của Durin](../D/Durin's_Bane.md).
 - Tập 6.14, "Trại tử thần khoan dung" có một số tài liệu tham khảo, cả về phim của Peter Jackson và [*The Hobbit* (phim năm 1977)](<The_Hobbit_(1977_film).md>).
 
-<dl><dd><dl><dd><dl><dd>In order to get fired for being gay (and sue the school for millions), Mr. Garrisson stuffs Lemmiwinks the gerbil up his assistant&#39;s ass. The gerbil&#39;s voyage inside the assistant is accompanied by a variation of &#34;<a href="The_Greatest_Adventure.md" title="The Greatest Adventure">The Greatest Adventure</a>&#34;:</dd></dl></dd></dl></dd></dl>
+<dl><dd><dl><dd><dl><dd>Để bị sa thải vì là người đồng tính (và kiện trường học đòi hàng triệu USD), ông Garrisson nhét con chuột nhảy Lemmiwinks vào mông trợ lý của mình. Hành trình của chú chuột nhảy bên trong người trợ lý đi kèm với một biến thể của "<a href="The_Greatest_Adventure.md" title="The Greatest Adventure">Cuộc phiêu lưu vĩ đại nhất</a>":</dd></dl></dd></dl></dd></dl>
 
 <div style="font-style:italic; margin-left:50px;" class="poem">
-<p>A great adventure<br/>
-Is waiting for you ahead<br/>
-Hurry onward Lemmiwinks<br/>
-Or you will soon be dead<br/>
-The journey before you <br/>
-May be long and filled with woe<br/>
-But you must escape the gay man&#39;s ass<br/>
-So your tale can be told.
+<p>Một cuộc phiêu lưu tuyệt vời<br/>
+Đang chờ đợi bạn ở phía trước<br/>
+Nhanh lên nào Lemmiwinks<br/>
+Hoặc bạn sẽ chết sớm<br/>
+Hành trình phía trước <br/>
+Có thể kéo dài và đầy đau khổ<br/>
+Nhưng bạn phải thoát khỏi cái mông của gã đồng tính<br/>
+Vì vậy, câu chuyện của bạn có thể được kể.
 </p>
 </div>
 
-<dl><dd><dl><dd><dl><dd>The song goes on any time Lemmiwinks&#39; journey is told. When the assistant takes a pepto pill, it falls down his throat and plunges into the stomach like Gandalf and <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">the Balrog</a> did in <i>The Two Towers</i>. In the stomach, Lemmiwinks meets the katatafish, who will only let him pass the oesophagus if he solves a riddle. What the riddle is is never shown.</dd></dl></dd></dl></dd></dl>
+<dl><dd><dl><dd><dl><dd>Bài hát tiếp tục vang lên bất cứ lúc nào cuộc hành trình của Lemmiwinks được kể lại. Khi trợ lý uống một viên pepto, viên thuốc sẽ rơi xuống cổ họng và chui vào dạ dày giống như Gandalf và <a href="../D/Durin&#39;s_Bane.md" title="Durin&#39;s Bane">điều Balrog</a> đã làm ở <i>The Two Towers</i>. Trong dạ dày, Lemmiwinks gặp cá karatafish, kẻ sẽ chỉ cho ông đi qua thực quản nếu ông giải được một câu đố. Câu đố là gì không bao giờ được hiển thị.</dd></dl></dd></dl></dd></dl>
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/Spaceballs:_The_Animated_Series" title="wikipedia:Spaceballs: The Animated Series">Spaceballs: Loạt phim hoạt hình</a> {#Spaceballs:_The_Animated_Series}
 
 - Tập phim "Chúa tể những chiếc nhẫn hành tây" giả mạo *The Lord of the Rings*.
 
-<dl><dd><ul><li>The titular onion ring was baked in a giant deep fryer, modelled after Barad-dûr. It&#39;s in a land called Lardor.</li>
-<li>Barf (dressed as a hobbit) waits nearby, resting against a tree with a strain of grass in his mouth. When hero Lone Starr arrives, he welcomes him with &#34;You&#39;re late&#34;.</li>
-<li>In order to sniff out the Onion Ring (its special power is that its scent can knock out armies), villains President Skroob and <a href="../D/Dee_Bradley_Baker.md" title="Dee Bradley Baker">Dark Helmet</a> use a replica of Barad-Dûr that has a pink nose rather than a <a href="../E/Eye_of_Sauron.md" title="Eye of Sauron">red eye</a>.</li>
-<li>After putting the Ring in the microwave, Lone Starr tells Barf to touch it - but it&#39;s still hot.</li>
-<li>Though set inside rather than on a patio, the &#34;Council of Yogurt&#34; is clearly modelled after the <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Council of Elrond</a>. Barf, the &#34;hobbit&#34;, volunteers, but only because the rest chickens out. The rest decide to tag along, and Yogurt calls them &#34;The Fellowship of the Onion Ring&#34;.</li>
-<li>Yogurt, a Yoda parody, gives everyone &#34;indecipherable code names&#34;. Barf becomes &#34;Barf <a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>&#34;. Lone Starr becomes &#34;Lone Starragorn&#34;, and princess Vespa &#34;Vesperwen&#34;. Yogurt does not give himself a name, but puts on a pointy hat anyway.</li>
-<li>Skroob then refers to Lone Starragorn as &#34;Lone <a href="../A/Arathorn_II.md" title="Arathorn II">Starrathorn</a>&#39;s heir&#34;</li>
-<li>Yogurt and &#34;Dark <a href="../S/Saruman.md" title="Saruman">Heluman</a>&#34; discuss the latter&#39;s fall from grace.</li>
-<li>Dot Matrix, a robot, serves as &#34;<a href="../G/Galadriel.md" title="Galadriel">Galadriot Matrix</a>&#34;. Her <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">mirror</a> is filled with oil.</li>
-<li>On a moonlit hill, Starr speaks to Vespa in an unintelligible gibberish, similar to Elvish. Only it wasn&#39;t another language, he was speaking with his mouth full.</li>
-<li>The team has to cross the treacherous Hot Lard Swamps.</li>
-<li>Dark Helmet mixes up the terms &#34;Dark Army&#34; and &#34;Orc Army&#34;, and created a Dork Army. They birth like the <a class="mw-redirect" href="../U/Uruk-Hai~9489.md" title="Uruk-Hai">Uruk-Hai</a> in <i>The Fellowship of the Ring</i>.</li>
-<li>Upon splitting up, Yogurt yells at Barf to keep the Onion ring secret and safe.</li>
-<li>Barf doubles as Gollum, coveting his <a href="../P/Precious.md" title="Precious">&#34;delicious&#34;</a>. In the end, he bites off his own finger.</li>
-<li>Yogurt flies into Lardor on a newly introduced bird to pick up Barf.</li>
-<li>The <a href="The_Fellowship_Reunited.md" title="The Fellowship Reunited">bed scene</a> is featured.</li>
-<li>Lone Starragorn is crowned with a replica of the Crown of Gondor.</li></ul></dd></dl>
+<dl><dd><ul><li>Chiếc vòng hành tây tiêu chuẩn được nướng trong một chiếc nồi chiên ngập dầu khổng lồ, được mô phỏng theo Barad-dûr. Nó ở vùng đất tên là Lardor.</li>
+<li>Barf (ăn mặc như người Hobbit) đợi gần đó, tựa lưng vào một cái cây với một cọng cỏ trong miệng. Khi anh hùng Lone Starr đến, ông chào đón ông bằng câu "Bạn đến muộn".</li>
+<li>Để đánh hơi được Chiếc nhẫn Hành tây (sức mạnh đặc biệt của nó là mùi hương của nó có thể đánh bại quân đội), những kẻ phản diện là Tổng thống Skroob và <a href="../D/Dee_Bradley_Baker.md" title="Dee Bradley Baker">Mũ bảo hiểm bóng tối</a> sử dụng một bản sao của Barad-Dûr có chiếc mũi màu hồng thay vì <a href="../E/Eye_of_Sauron.md" title="Eye of Sauron">mắt đỏ</a>.</li>
+<li>Sau khi đặt Chiếc nhẫn vào lò vi sóng, Lone Starr bảo Barf chạm vào nó - nhưng nó vẫn còn nóng.</li>
+<li>Mặc dù được đặt bên trong chứ không phải trên sân, "Hội đồng sữa chua" rõ ràng được mô phỏng theo <a href="../C/Council_of_Elrond.md" title="Council of Elrond">Hội đồng Elrond</a>. Barf, "hobbit", tình nguyện, nhưng chỉ vì những người còn lại bỏ đi. Những người còn lại quyết định đi theo và Yogurt gọi họ là "The Fellowship of the Onion Ring".</li>
+<li>Sữa chua, một tác phẩm nhại lại Yoda, mang đến cho mọi người những "mật danh không thể giải mã được". Barf trở thành "Barf <a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a>". Lone Starr trở thành "Lone Starragorn" và công chúa Vespa "Vesperwen". Sữa chua không đặt cho mình một cái tên mà vẫn đội một chiếc mũ nhọn.</li>
+<li>Skroob sau đó gọi Lone Starragorn là "Người thừa kế của Lone <a href="../A/Arathorn_II.md" title="Arathorn II">Starrathorn</a>"</li>
+<li>Sữa chua và "Dark <a href="../S/Saruman.md" title="Saruman">Heluman</a>" thảo luận về sự thất sủng của người sau.</li>
+<li>Dot Matrix, một robot, đóng vai trò là "<a href="../G/Galadriel.md" title="Galadriel">Ma trận Galadriot</a>". <a href="../M/Mirror_of_Galadriel.md" title="Mirror of Galadriel">Tấm gương</a> của bà đầy dầu.</li>
+<li>Trên ngọn đồi ngập ánh trăng, Starr nói chuyện với Vespa bằng một thứ tiếng vô nghĩa khó hiểu, tương tự như Elvish. Chỉ có điều đó không phải là một ngôn ngữ khác, ông đang nói với cái mồm đầy ắp.</li>
+<li>Cả đội phải vượt qua đầm lầy mỡ nóng nguy hiểm.</li>
+<li>Mũ bảo hiểm đen kết hợp các thuật ngữ "Quân đội bóng tối" và "Quân độiOrc" và tạo ra Quân đội Dork. Họ sinh ra như <a class="mw-redirect" href="../U/Uruk-Hai~9489.md" title="Uruk-Hai">Uruk-Hai</a> ở <i>The Fellowship of the Ring</i>.</li>
+<li>Khi chia tay, Yogurt hét vào mặt Barf rằng hãy giữ bí mật và an toàn cho chiếc nhẫn Onion.</li>
+<li>Barf nhân đôi Gollum, thèm muốn <a href="../P/Precious.md" title="Precious">"ngon"</a> của mình. Cuối cùng, ông tự cắn đứt ngón tay của mình.</li>
+<li>Yogurt bay tới Lardor trên một con chim mới được giới thiệu để đón Barf.</li>
+<li><a href="The_Fellowship_Reunited.md" title="The Fellowship Reunited">Cảnh giường chiếu</a> được giới thiệu.</li>
+<li>Lone Starragorn được trao vương miện với bản sao Vương miện của Gondor.</li></ul></dd></dl>
 
 ### <a class="extiw" href="http://en.wikipedia.org/wiki/SpongeBob_SquarePants" title="wikipedia:SpongeBob SquarePants">Quần vuông SpongeBob</a> {#SpongeBob_SquarePants}
 
@@ -730,7 +730,7 @@ So your tale can be told.
 
 ## Trò chơi điện tử {#Video_games}
 
-<h3><span id="Assassin.27s_Creed_series"></span><span class="mw-headline" id="Assassin&#39;s_Creed_series"><a class="extiw" href="http://en.wikipedia.org/wiki/Assassin%27s_Creed" title="wikipedia:Assassin&#39;s Creed">Assassin&#39;s Creed series</a></span></h3>
+<h3><span id="Assassin.27s_Creed_series"></span><span class="mw-headline" id="Assassin&#39;s_Creed_series"><a class="extiw" href="http://en.wikipedia.org/wiki/Assassin%27s_Creed" title="wikipedia:Assassin&#39;s Creed">Loạt phim Assassin's Creed</a></span></h3>
 
 #### <a class="extiw" href="http://en.wikipedia.org/wiki/Assassin%27s_Creed_Origins" title="wikipedia:Assassin&#39;s Creed Origins">Nguồn gốc</a> {#Origins}
 

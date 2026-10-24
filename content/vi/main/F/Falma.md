@@ -22,7 +22,7 @@ categories:
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>i <b>falma</b>linnar imbë met, ar hísië (&#39;on the <b>foaming waves</b> between us, and mist&#39;)
+<p>i <b>falma</b>linnar imbë met, ar hísië ('trên <b>sóng sủi bọt</b> giữa chúng ta và sương mù')
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

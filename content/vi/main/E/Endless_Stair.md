@@ -48,7 +48,7 @@ Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), người ta cho rằng nó đã
 
 <b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Endless Stair can be observed from many locations within <a href="../M/Moria.md" title="Moria">Moria</a>, creating an appearance of various altitude levels on the geometrically flat game environment. Players can access the bottom of the Stair in the Foundations of Stone and climb several flights, only to find the further passage blocked by the destruction left in the Balrog&#39;s wake.</dd></dl>
+<dl><dd>Cầu thang vô tận có thể được quan sát từ nhiều địa điểm trong <a href="../M/Moria.md" title="Moria">Moria</a>, tạo ra nhiều mức độ cao khác nhau trên môi trường trò chơi phẳng về mặt hình học. Người chơi có thể đi đến chân Cầu thang trong Nền tảng Đá và leo lên một số chuyến bay, chỉ để tìm thấy lối đi tiếp theo bị chặn bởi sự tàn phá để lại sau Balrog.</dd></dl>
 
 <span></span>
 
@@ -63,12 +63,12 @@ Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), người ta cho rằng nó đã
 
 <table style="margin: 0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Legendary <a href="../../category/L/Locations.md" title="Category:Locations">locations</a> in <a href="../A/Arda.md" title="Arda">Arda</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b><a href="../../category/L/Locations.md" title="Category:Locations">địa điểm</a> huyền thoại ở <a href="../A/Arda.md" title="Arda">Arda</a></b>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/I/Islands.md" title="Category:Islands">Islands</a>:
 </th>
-<td style="font-size: 90%;"> <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Isle of Meneltarma</a>
+<td style="font-size: 90%;"> <a href="../H/Hallow_of_Eru.md" title="Hallow of Eru">Hòn đảo Meneltarma</a>
 </td></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="right"><a href="../../category/M/Mountains.md" title="Category:Mountains">Mountains</a> and <a href="../../category/H/Hills.md" title="Category:Hills">Hills</a>:
@@ -86,7 +86,7 @@ Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), người ta cho rằng nó đã
 <td style="font-size: 90%;"> <a href="../D/Derrilyn.md" title="Derrilyn">Derrilyn</a>
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="right">Other:
+<th style="background:var(--tg-color-surface-3);" align="right">Khác:
 </th>
 <td style="font-size: 90%;"> <a href="../C/Caves_of_the_Forgotten.md" title="Caves of the Forgotten">Caves of the Forgotten</a> · <a class="mw-redirect" href="../G/Gorbelgod.md" title="Gorbelgod">Gorbelgod</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tong&amp;action=edit&amp;redlink=1" title="Tong (page does not exist)">Tong</a>
 </td></tr>

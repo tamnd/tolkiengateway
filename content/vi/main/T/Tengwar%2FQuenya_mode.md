@@ -61,7 +61,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">1Ö</span>
 </td>
-<td>ty<br/>Telpë
+<td>ty<br/>Tyelpë
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">q</span>
 </td>
@@ -124,7 +124,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">3Í</span>
 </td>
-<td>chuồng<br/>Istyar
+<td>sty<br/>Istyar
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">e</span>
 </td>
@@ -132,7 +132,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">d</span>
 </td>
-<td>ch<br/>Bùa ngải
+<td>ch<br/>Charma
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">c</span>
 </td>
@@ -157,7 +157,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">v</span>
 </td>
-<td>nkw<br/>Không đúng
+<td>nkw<br/>Unquë
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">5</span>
@@ -202,7 +202,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 <td>w<br/>Wilya
 </td></tr>
 <tr>
-<th colspan="10"><b>Additional Tengwar:</b>
+<th colspan="10"><b>Tengwar bổ sung:</b>
 </th></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">7</span>
@@ -215,7 +215,7 @@ Những cái tên này chỉ được biết đến từ bảng Thời đại th
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">u</span>
 </td>
-<td>thứ<br/>Arda
+<td>rd<br/>Arda
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">j</span>
 </td>
@@ -336,7 +336,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">1Ö</span>
 </td>
-<td>ty<br/>Telpë
+<td>ty<br/>Tyelpë
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">a</span>
 </td>
@@ -357,7 +357,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">2Ô</span>
 </td>
-<td>này<br/>Inyo<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[notes2 2]</a></sup>
+<td>ny<br/>Inyo<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[notes2 2]</a></sup>
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">s</span>
 </td>
@@ -378,7 +378,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">3Í</span>
 </td>
-<td>chuồng<br/>Istar
+<td>sty<br/>Istar
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">d</span>
 </td>
@@ -407,7 +407,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">v</span>
 </td>
-<td>nkw<br/>Không đúng
+<td>nkw<br/>Unquë
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">t</span>
@@ -437,7 +437,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">6</span>
 </td>
-<td>r [tiền phụ âm]<br/>Órë
+<td>r [preconsonantal]<br/>Órë
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">6Í</span>
 </td>
@@ -452,16 +452,16 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 <td>w-<br/>Wilya
 </td></tr>
 <tr>
-<th colspan="10">Additional Tengwar:
+<th colspan="10">Tengwar bổ sung:
 </th></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">7</span>
 </td>
-<td>r [liên thanh]<br/>Rómen
+<td>r [intervocalic]<br/>Rómen
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">u</span>
 </td>
-<td>thứ<br/>Arda
+<td>rd<br/>Arda
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">j</span>
 </td>
@@ -582,7 +582,7 @@ Trong [Kỷ Đệ Nhị](../S/Second_Age.md), Quenya được nói và viết b�
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Thuộc về Con Người</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Mannish miền Bắc</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Ngôn ngữ Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
+<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Northern Mannish</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Language of Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Dwarvish

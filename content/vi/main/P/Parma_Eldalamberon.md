@@ -87,7 +87,7 @@ Trong khi đó, *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* cũng bắt đầu xu
 <p>Kể từ số 11, tạp chí đã chuyên xuất bản các tài liệu gốc của Tolkien:
 </p>
 <ul><li><a href="../_/1995.md" title="1995">1995</a>: <a href="Parma_Eldalamberon_11.md" title="Parma Eldalamberon 11"><i>Parma Eldalamberon</i> 11</a>:
-<ul><li><i>I·Lam na·Ngoldathon: Ngữ pháp và từ vựng của Tiếng Gnomish</i></li></ul></li>
+<ul><li><i>I·Lam na·Ngoldathon: The Grammar and Lexicon of The Gnomish Tongue</i></li></ul></li>
 <li><a href="../_/1998.md" title="1998">1998</a>: <a href="Parma_Eldalamberon_12.md" title="Parma Eldalamberon 12"><i>Parma Eldalamberon</i> 12</a>:
 <ul><li><i>Qenyaqetsa: The Qenya Phonology and Lexicon</i></li></ul></li>
 <li><a href="../_/2001.md" title="2001">2001</a>: <a href="Parma_Eldalamberon_13.md" title="Parma Eldalamberon 13"><i>Parma Eldalamberon</i> 13</a>:

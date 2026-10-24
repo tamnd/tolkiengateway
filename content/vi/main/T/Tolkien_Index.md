@@ -14,7 +14,7 @@ images:
   - "TolkienIndex.png"
 ---
 
-<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/T/TolkienIndex.png.md"><img src="https://tolkiengateway.net/w/images/7/77/TolkienIndex.png" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" data-file-width="150" data-file-height="150"/></a><figcaption>The Tolkien Index logo</figcaption></figure>
+<figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/T/TolkienIndex.png.md"><img src="https://tolkiengateway.net/w/images/7/77/TolkienIndex.png" decoding="async" loading="lazy" width="150" height="150" class="mw-file-element" data-file-width="150" data-file-height="150"/></a><figcaption>Logo chỉ mục Tolkien</figcaption></figure>
 
 **Tolkien Chỉ mục** là một trang web phi lợi nhuận nhằm mục đích tạo ra một chỉ mục toàn diện về các tên từ các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (và các bài xã luận liên quan) trên [Trung Địa](../M/Middle-earth.md) chưa có chỉ mục.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Morgan Thomsen](../M/Morgan_Thomsen.md) là chủ sở hữu và người đóng góp chính của trang web, trong khi Daniel Helen là quản trị trang web.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó được thành lập vào ngày [24 Tháng Sáu](../_/24_June.md), [2011](../_/2011.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

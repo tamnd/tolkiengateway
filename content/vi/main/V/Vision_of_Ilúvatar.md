@@ -22,7 +22,7 @@ images:
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/S/Sage_-_Arda_in_the_First_Age.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/51/Sage_-_Arda_in_the_First_Age.png/250px-Sage_-_Arda_in_the_First_Age.png" decoding="async" loading="lazy" width="250" height="212" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/51/Sage_-_Arda_in_the_First_Age.png/375px-Sage_-_Arda_in_the_First_Age.png 1.5x, https://tolkiengateway.net/w/images/5/51/Sage_-_Arda_in_the_First_Age.png 2x" data-file-width="445" data-file-height="377"/></a><figcaption></figcaption></figure>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Behold your Music!
+<p>Kìa âm nhạc của bạn!
 </p>
 <p class="tg-quote-footer"><cite>Ilúvatar to the Ainur</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -32,7 +32,7 @@ images:
 ## Lịch sử {#History}
 
 <blockquote class="tg-quote noexcerpt">
-<p>And they saw a new World made visible before them, and it was globed amid the <a href="Void.md" title="Void">Void</a>, and it was sustained therein, but it was not of it. And as they looked and wondered, this World began to unfold its history, and it seemed to them that it lived and grew
+<p>Và họ nhìn thấy một Thế giới mới hiển hiện trước mắt họ, và nó được bao bọc giữa <a href="Void.md" title="Void">Hư Không</a>, và nó được duy trì ở đó, nhưng nó không thuộc về nó. Và khi họ nhìn và thắc mắc, Thế giới này bắt đầu mở ra lịch sử của nó, và đối với họ dường như nó đã sống và phát triển
 </p>
 <p class="tg-quote-footer"><cite><i>Ainulindale</i></cite></p>
 </blockquote>

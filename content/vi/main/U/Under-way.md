@@ -29,7 +29,7 @@ Khi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) lần đầ
 
 <b><a href="../_/1987.md" title="1987">1987</a>-<a href="../_/1996.md" title="1996">96</a>: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>The <i><a href="../T/The_Tower_of_Cirith_Ungol_and_Shelob&#39;s_Lair.md" title="The Tower of Cirith Ungol and Shelob&#39;s Lair">The Tower of Cirith Ungol and Shelob&#39;s Lair</a></i> adventure module contains a floor plan of Shelob&#39;s Lair that includes the Under-way (spelled Underway there), a description of the mechanism to open the stone block, floor plans of eleven levels of the Tower of Cirith Ungol with the Undergate located on the first level on the side that faces the mountain side and a description of the Undergate in T.A. 1640. It mentions that the Tower of Cirith Ungol is still manned by a Gondorian garrison in T.A. 1640 until the end of the second millennium of the Third Age when the Tower of Cirith Ungol was left uninhabited by the Gondorians.</dd></dl>
+<dl><dd>Mô-đun phiêu lưu <i><a href="../T/The_Tower_of_Cirith_Ungol_and_Shelob&#39;s_Lair.md" title="The Tower of Cirith Ungol and Shelob&#39;s Lair">The Tower of Cirith Ungol và Shelob's Lair</a></i> chứa sơ đồ tầng của Shelob's Lair bao gồm Under-way (đánh vần là Underway ở đó), mô tả cơ chế mở khối đá, sơ đồ tầng mười một tầng của Tháp Cirith Ungol với Undergate nằm ở tầng đầu tiên ở phía đối diện với sườn núi và mô tả về Undergate trong T.A. 1640. Nó đề cập rằng Tháp Cirith Ungol vẫn được đồn trú của người Gondorian quản lý vào T.A. 1640 cho đến cuối thiên niên kỷ thứ hai của Kỷ Đệ Tam khi Tháp Cirith Ungol không còn người Gondorian ở.</dd></dl>
 
 <span></span>
 

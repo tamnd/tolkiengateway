@@ -115,7 +115,7 @@ infobox:
 <td><a href="../M/Minstrels.md" title="Minstrels">The Balladeer</a>
 </td></tr>
 <tr>
-<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Thurl_Ravenscroft&amp;action=edit&amp;redlink=1" title="Thurl Ravenscroft (page does not exist)">Thurl Ravenscroft</a> (không được công nhận)</td>
+<td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Thurl_Ravenscroft&amp;action=edit&amp;redlink=1" title="Thurl Ravenscroft (page does not exist)">Thurl Ravenscroft</a> (uncredited)</td>
 <td><a href="../O/Orcs.md" title="Orcs">Goblin</a>, <a href="../O/Orcs.md" title="Orcs">Orc</a>, <a href="../B/Bolg.md" title="Bolg">Bolg</a>, Chorus
 </td></tr></tbody></table>
 

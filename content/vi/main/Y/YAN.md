@@ -43,6 +43,6 @@ Trong *Qenya Lexicon* xuất hiện từ gốc DẎṆTṆ, với dẫn xuất [
 <td align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>The <a href="../S/Sundocarme.md" title="Sundocarme">Sundocarme</a> &#34;Large &amp; Small&#34; Group</b>
 </td></tr>
 <tr>
-<td style="font-size: 90%;"> <b><a href="../B/BEL~31614.md" title="BEL">BEL, MBEL</a></b> (&#34;large&#34;) · <b><a href="../K/KHAWA.md" title="KHAWA">KHAWA</a></b> · <b><a href="../P/PEYE.md" title="PEYE">PEYE</a></b> · (<b><a href="../P/POL.md" title="POL">POL</a></b>) · <b><a href="../T/TAW.md" title="TAW">TAW</a></b> (&#34;wood&#34;) · <b><a href="../T/TUR~21398.md" title="TUR">TUR</a></b> (&#34;strong, mighty&#34;) · <b><a class="mw-selflink selflink">YAN</a></b> (&#34;wide&#34;)
+<td style="font-size: 90%;"> <b><a href="../B/BEL~31614.md" title="BEL">BEL, MBEL</a></b> ("lớn") · <b><a href="../K/KHAWA.md" title="KHAWA">KHAWA</a></b> · <b><a href="../P/PEYE.md" title="PEYE">PEYE</a></b> · (<b><a href="../P/POL.md" title="POL">POL</a></b>) · <b><a href="../T/TAW.md" title="TAW">TAW</a></b> ("gỗ") · <b><a href="../T/TUR~21398.md" title="TUR">TUR</a></b> ("mạnh mẽ, hùng mạnh") · <b><a class="mw-selflink selflink">YAN</a></b> ("rộng")
 </td></tr>
 </tbody></table>

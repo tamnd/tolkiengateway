@@ -71,7 +71,7 @@ categories:
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">d</span>
 </td>
-<td>ch<br/>Bùa ngải
+<td>ch<br/>Charma
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">c</span>
 </td>
@@ -101,7 +101,7 @@ categories:
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">5</span><sup id="cite_ref-MN_2-1" class="reference"><a href="#cite_note-MN-2">[note 2]</a></sup>
 </td>
-<td>nn<br/>Số
+<td>nn<br/>Númen
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">g</span>
 </td>
@@ -129,7 +129,7 @@ categories:
 <td>-w<br/>Wilya
 </td></tr>
 <tr>
-<th colspan="10"><b>Additional Tengwar:</b>
+<th colspan="10"><b>Tengwar bổ sung:</b>
 </th></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">7</span>
@@ -138,7 +138,7 @@ categories:
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">u</span><sup id="cite_ref-AA_4-0" class="reference"><a href="#cite_note-AA-4">[note 4]</a></sup>
 </td>
-<td>h<br/>Arda
+<td>rh<br/>Arda
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">j</span>
 </td>
@@ -185,7 +185,7 @@ categories:
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">~</span>
 </td>
-<td>Tôi-?
+<td>i-?
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">`</span>
 </td>
@@ -197,7 +197,7 @@ categories:
 </td>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">y+</span>
 </td>
-<td>ồ?
+<td>mh?
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">½</span><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[note 8]</a></sup>
@@ -273,7 +273,7 @@ Tôi Narvi hoan hô. Celebrimbor o Eregion teithant i-thîw hin.</p></blockquote
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">h yl6lj ]sj]7 ljl6]3</span>
 </td>
-<td><i>ôi menel aglar elenath!</i>
+<td><i>o menel aglar elenath!</i>
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">6]d]l7l2 q]j]62`V7`lj</span>
@@ -283,7 +283,7 @@ Tôi Narvi hoan hô. Celebrimbor o Eregion teithant i-thîw hin.</p></blockquote
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">h s]j]47lt`6 l5h7]3</span>
 </td>
-<td><i>ôi galadhremmin ennorath,</i>
+<td><i>o galadhremmin ennorath,</i>
 </td></tr>
 <tr>
 <td><span class="tg-tengwar tg-tengwar--tengwar_eldamar">e]6.Öjh8 jl j5]3h6</span>
@@ -350,7 +350,7 @@ Tôi Narvi hoan hô. Celebrimbor o Eregion teithant i-thîw hin.</p></blockquote
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;"><a href="../M/Mannish.md" title="Mannish">Thuộc về Con Người</a>
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Mannish miền Bắc</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Ngôn ngữ Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
+<td style="font-size: 90%; padding-left: 4px;"><a href="../A/Adûnaic.md" title="Adûnaic">Adûnaic</a> · <a href="../D/Drúadan_language.md" title="Drúadan language">Drúadan</a> · <a href="../D/Dunlendish.md" title="Dunlendish">Dunlendish</a> · <a href="../H/Halethian.md" title="Halethian">Halethian</a> · <a href="../N/Northern_Mannish.md" title="Northern Mannish">Northern Mannish</a> (<a href="../L/Language_of_Dale.md" title="Language of Dale">Language of Dale</a> · <a href="../R/Rohanese.md" title="Rohanese">Rohanese</a>) · <a href="../P/Pre-Númenórean.md" title="Pre-Númenórean">Pre-Númenórean</a> · <a href="Taliska.md" title="Taliska">Taliska</a> · <a class="new" href="https://tolkiengateway.net/w/index.php?title=Skirditaila&amp;action=edit&amp;redlink=1" title="Skirditaila (page does not exist)">Taliskan skirditaila</a> · <a href="../W/Westron.md" title="Westron">Westron</a> (<a href="../B/Bucklandish.md" title="Bucklandish">Bucklandish</a> · <a href="../H/Hobbitish.md" title="Hobbitish">Hobbitish</a>)
 </td></tr>
 <tr>
 <th align="right" style="background: var(--tg-color-surface-3); padding-right: 4px;">Dwarvish

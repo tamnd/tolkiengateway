@@ -54,7 +54,7 @@ Danh hiệu đặc biệt "**Dark Tiên**" được trao cho [Eöl](../E/Eöl.md
 <blockquote class="tg-quote noexcerpt">
 <p>Nhưng bây giờ những cái cây ở Nan Elmoth là những cây cao nhất và đen tối nhất trong Beleriand, và ở đó mặt trời không bao giờ ló dạng; và ở đó Eöl cư trú, kẻ được mệnh danh là Bóng tối Tiên. [...] Ở đó anh sống trong bóng tối sâu thẳm, yêu thích màn đêm và ánh hoàng hôn dưới những vì sao.
 </p>
-<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, "<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Maeglin.md" title="Of Maeglin">Của Maeglin</a>"</cite></p>
+<p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_Maeglin.md" title="Of Maeglin">Of Maeglin</a>&#34;</cite></p>
 </blockquote>
 
 <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup>

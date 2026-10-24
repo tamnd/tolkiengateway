@@ -18,7 +18,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Hope</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../H/Hope_(disambiguation).md" title="Hope (disambiguation)">Hope (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Cái tên <b>Hope</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../H/Hope_(disambiguation).md" title="Hope (disambiguation)">Hy vọng (định hướng)</a></b>.</div></div>
 
 **Estel** là từ trong tiếng [Sindarin](../S/Sindarin.md) có nghĩa là "hy vọng" hoặc "niềm tin".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đây là tên gọi của [Aragorn](../A/Aragorn.md), được đặt cho ông khi mẹ ông là [Gilraen](../G/Gilraen.md) đưa ông đến [Rivendell](../R/Rivendell.md) lúc còn nhỏ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -32,7 +32,7 @@ images:
 ## Khái niệm triết học {#Philosophical_concept}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>&#34;There, peeping among the cloud-wrack above a dark tor high up in the mountains, Sam saw a white star twinkle for a while. The beauty of it smote his heart, as he looked up out of the forsaken land, and hope returned to him. For like a shaft, clear and cold, the thought pierced him that in the end the Shadow was only a small and passing thing: there was light and high beauty for ever beyond its reach.&#34;
+<p>"Ở đó, nhìn giữa đám mây bao phủ phía trên một ngọn núi tối tăm trên núi, Sam nhìn thấy một ngôi sao trắng lấp lánh một lúc. Vẻ đẹp của nó khiến trái tim anh rung động khi anh nhìn lên từ vùng đất bị bỏ hoang và hy vọng quay trở lại với anh. Vì giống như một cái ống, trong và lạnh lẽo, ý nghĩ xuyên qua anh rằng cuối cùng Bóng Tối chỉ là một điều nhỏ bé và chóng qua: có ánh sáng và vẻ đẹp cao cả mãi mãi nằm ngoài tầm với của nó."
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -46,7 +46,7 @@ Estel cũng gắn liền với niềm hy vọng gần gũi hơn trong [Con cái 
 <h2><span id="Estel_in_Arda.27s_History"></span><span class="mw-headline" id="Estel_in_Arda&#39;s_History"><i>Estel</i> in Arda&#39;s History</span></h2>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>&#34;In the armour of Fate there is ever a rift, and in the walls of Doom a breach, until <a class="mw-redirect" href="../T/The_End.md" title="The End">the End</a>. So it shall be while I endure, a secret voice that gainsayeth, and a light where darkness was decreed.&#34;
+<p>"Trong bộ áo giáp của Định mệnh luôn có một vết nứt, và trên các bức tường của Định mệnh luôn có một lỗ thủng, cho đến <a class="mw-redirect" href="../T/The_End.md" title="The End">Tận cùng</a>. Điều đó sẽ xảy ra khi tôi chịu đựng, một giọng nói bí mật phủ nhận và là ánh sáng nơi bóng tối được ra lệnh."
 </p>
 <p class="tg-quote-footer"><cite><a href="../U/Ulmo.md" title="Ulmo">Ulmo</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

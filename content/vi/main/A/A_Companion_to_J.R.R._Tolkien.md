@@ -114,7 +114,7 @@ Cuốn sách trình bày 36 bài tiểu luận của một số Tolkien tác gi�
 <li>40. Games: Playable Arda</li>
 <li>41. Fandom</li></ul></li></ul>
 <ul><li>General Bibliography</li>
-<li>Index</li></ul>
+<li>Mục lục</li></ul>
 </div>
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}

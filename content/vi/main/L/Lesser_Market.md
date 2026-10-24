@@ -23,7 +23,7 @@ images:
   - "Quentandil_-_Gondolin_Map.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quentandil_-_Gondolin_Map.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/300px-Quentandil_-_Gondolin_Map.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/450px-Quentandil_-_Gondolin_Map.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/600px-Quentandil_-_Gondolin_Map.png 2x" data-file-width="3040" data-file-height="3039"/></a><figcaption>Map of Gondolin showing the Lesser Market on the south side</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/Q/Quentandil_-_Gondolin_Map.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/300px-Quentandil_-_Gondolin_Map.png" decoding="async" loading="lazy" width="300" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/450px-Quentandil_-_Gondolin_Map.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/Quentandil_-_Gondolin_Map.png/600px-Quentandil_-_Gondolin_Map.png 2x" data-file-width="3040" data-file-height="3039"/></a><figcaption>Bản đồ Gondolin thể hiện Chợ Nhỏ ở phía nam</figcaption></figure>
 
 **Chợ nhỏ hơn** là chợ ở [Gondolin](../G/Gondolin.md), theo phiên bản đầu tiên của [huyền thoại](Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 

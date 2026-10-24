@@ -89,7 +89,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../C/Ciarán_Hinds.md" title="Ciarán Hinds">Ciarán Hinds</a></td>
-<td><a href="../D/Dark_Wizard.md" title="Dark Wizard">Dark Wizard</a>
+<td><a href="../D/Dark_Wizard.md" title="Dark Wizard">Pháp sư Hắc ám</a>
 </td></tr>
 <tr>
 <td><a href="../M/Maxim_Baldry.md" title="Maxim Baldry">Maxim Baldry</a></td>
@@ -105,7 +105,7 @@ infobox:
 </td></tr>
 <tr>
 <td><a href="../B/Benjamin_Walker.md" title="Benjamin Walker">Benjamin Walker</a></td>
-<td><a href="../G/Gil-galad.md" title="Gil-galad">High King Gil-galad</a>
+<td><a href="../G/Gil-galad.md" title="Gil-galad">Đại Vương Gil-galad</a>
 </td></tr>
 <tr>
 <td><a href="../C/Charles_Edwards.md" title="Charles Edwards">Charles Edwards</a></td>

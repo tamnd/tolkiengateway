@@ -13,9 +13,9 @@ categories:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>This thing all things devours;<br/>Birds, beasts, trees, flowers;<br/>Gnaws iron, bites steel;<br/>Grinds hard stones to meal;<br/>Slays king, ruins town,<br/>And beats mountain down.
+<p>Thứ này nuốt chửng vạn vật;<br/>Chim, thú, cây, hoa;<br/>Gặm sắt, cắn thép;<br/>Nghiền đá cứng thành bột;<br/>Giết vua, hủy diệt thành phố,<br/>Và đập nát núi.
 </p>
-<p class="tg-quote-footer"><cite>Gollum&#39;s riddle<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
+<p class="tg-quote-footer"><cite>câu đố của Gollum<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 **Thời gian** là cuộc sống của [Eä](../E/Eä.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những [Hội trường vượt thời gian](Timeless_Halls.md) và [Hư Không](../V/Void.md) được ngụ ý là nằm ngoài Thời gian. Thời gian bắt đầu bằng Eä và [Valar](../V/Valar.md) giảm dần xuống [Arda](../A/Arda.md).<sup id="cite_ref-ain_3-0" class="reference"><a href="#cite_note-ain-3">[3]</a></sup> Thời gian có lẽ đại diện cho chuỗi các hợp âm được hát bởi [Eru](../E/Eru.md) trong [Ainulindalë](../A/Ainulindalë.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>

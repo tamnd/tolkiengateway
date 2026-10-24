@@ -94,7 +94,7 @@ categories:
 </td>
 <td>Dwarf Guard
 </td>
-<td>Companion • Dwarf
+<td>Nhân vật đồng hành • Người Lùn
 </td>
 <td>Người Lùn
 </td></tr>
@@ -130,7 +130,7 @@ categories:
 </td>
 <td>•Farin, Dwarven Emissary
 </td>
-<td>Companion • Dwarf
+<td>Nhân vật đồng hành • Người Lùn
 </td>
 <td>Người Lùn
 </td></tr>
@@ -139,7 +139,7 @@ categories:
 </td>
 <td>•Gimli, Dwarf of Erebor
 </td>
-<td>Companion • Dwarf
+<td>Nhân vật đồng hành • Người Lùn
 </td>
 <td>Người Lùn
 </td></tr>
@@ -148,7 +148,7 @@ categories:
 </td>
 <td>•Gimli, Son of Gloin
 </td>
-<td>Companion • Dwarf
+<td>Nhân vật đồng hành • Người Lùn
 </td>
 <td>Người Lùn
 </td></tr>
@@ -157,7 +157,7 @@ categories:
 </td>
 <td>•Gimli, Son of Gloin (T)
 </td>
-<td>Companion • Dwarf
+<td>Nhân vật đồng hành • Người Lùn
 </td>
 <td>Người Lùn
 </td></tr>
@@ -319,7 +319,7 @@ categories:
 </td>
 <td>•Arwen, Daughter of Elrond
 </td>
-<td>Companion • Elf
+<td>Bạn đồng hành • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -328,7 +328,7 @@ categories:
 </td>
 <td>•Arwen, Daughter of Elrond (T)
 </td>
-<td>Companion • Elf
+<td>Bạn đồng hành • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -364,7 +364,7 @@ categories:
 </td>
 <td>•Celeborn, Lord of Lorien
 </td>
-<td>Ally • Home 6 • Elf
+<td>Đồng minh • Nhà 6 • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -463,7 +463,7 @@ categories:
 </td>
 <td>•Galadriel, Lady of Light
 </td>
-<td>Ally • Home 6 • Elf
+<td>Đồng minh • Nhà 6 • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -490,7 +490,7 @@ categories:
 </td>
 <td>•Haldir, Elf of the Golden Wood
 </td>
-<td>Companion • Elf
+<td>Bạn đồng hành • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -508,7 +508,7 @@ categories:
 </td>
 <td>•Legolas, Greenleaf
 </td>
-<td>Companion • Elf
+<td>Bạn đồng hành • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -517,7 +517,7 @@ categories:
 </td>
 <td>•Legolas, Greenleaf (T)
 </td>
-<td>Companion • Elf
+<td>Bạn đồng hành • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -526,7 +526,7 @@ categories:
 </td>
 <td>•Legolas, Prince of Mirkwood
 </td>
-<td>Companion • Elf
+<td>Bạn đồng hành • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -544,7 +544,7 @@ categories:
 </td>
 <td>Lorien Elf
 </td>
-<td>Companion • Elf
+<td>Bạn đồng hành • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -562,7 +562,7 @@ categories:
 </td>
 <td>•The Mirror of Galadriel
 </td>
-<td>Possession
+<td>Sở hữu
 </td>
 <td>Tiên
 </td></tr>
@@ -571,7 +571,7 @@ categories:
 </td>
 <td>•Orophin, Lorien Bowman
 </td>
-<td>Ally • Home 6 • Elf
+<td>Đồng minh • Nhà 6 • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -580,7 +580,7 @@ categories:
 </td>
 <td>•Rumil, Elven Protector
 </td>
-<td>Ally • Home 6 • Elf
+<td>Đồng minh • Nhà 6 • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -670,7 +670,7 @@ categories:
 </td>
 <td>•Uruviel, Maid of Lorien
 </td>
-<td>Ally • Home 6 • Elf
+<td>Đồng minh • Nhà 6 • Tiên
 </td>
 <td>Tiên
 </td></tr>
@@ -733,7 +733,7 @@ categories:
 </td>
 <td>•Gandalf&#39;s Cart
 </td>
-<td>Possession
+<td>Sở hữu
 </td>
 <td>Gandalf
 </td></tr>
@@ -886,7 +886,7 @@ categories:
 </td>
 <td>•Aragorn, Ranger of the North
 </td>
-<td>Companion • Man
+<td>Bạn đồng hành • Con Người
 </td>
 <td>Gondor
 </td></tr>
@@ -895,7 +895,7 @@ categories:
 </td>
 <td>•Aragorn, Ranger of the North (T)
 </td>
-<td>Companion • Man
+<td>Bạn đồng hành • Con Người
 </td>
 <td>Gondor
 </td></tr>
@@ -929,7 +929,7 @@ categories:
 <tr bgcolor="#cedff2">
 <td>1R93
 </td>
-<td>Arwen&#39;s Fate
+<td>Số phận của Arwen
 </td>
 <td>Sự kiện
 </td>
@@ -940,7 +940,7 @@ categories:
 </td>
 <td>Athelas
 </td>
-<td>Possession
+<td>Sở hữu
 </td>
 <td>Gondor
 </td></tr>
@@ -958,7 +958,7 @@ categories:
 </td>
 <td>•Boromir, Lord of Gondor
 </td>
-<td>Companion • Man
+<td>Bạn đồng hành • Con Người
 </td>
 <td>Gondor
 </td></tr>
@@ -967,7 +967,7 @@ categories:
 </td>
 <td>•Boromir, Lord of Gondor (T)
 </td>
-<td>Companion • Man
+<td>Bạn đồng hành • Con Người
 </td>
 <td>Gondor
 </td></tr>
@@ -976,7 +976,7 @@ categories:
 </td>
 <td>•Boromir, Son of Denethor
 </td>
-<td>Companion • Man
+<td>Bạn đồng hành • Con Người
 </td>
 <td>Gondor
 </td></tr>
@@ -2749,7 +2749,7 @@ categories:
 </td>
 <td>•Farmer Maggot, Chaser of Rascals
 </td>
-<td>Ally • Home 1 • Hobbit
+<td>Đồng minh • Nhà 1 • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2776,7 +2776,7 @@ categories:
 </td>
 <td>•The Gaffer, Sam&#39;s Father
 </td>
-<td>Ally • Home 1 • Hobbit
+<td>Đồng minh • Nhà 1 • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2812,7 +2812,7 @@ categories:
 </td>
 <td>Hobbit Farmer
 </td>
-<td>Ally • Home 1 • Hobbit
+<td>Đồng minh • Nhà 1 • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2830,7 +2830,7 @@ categories:
 </td>
 <td>Hobbit Party Guest
 </td>
-<td>Ally • Home 1 • Hobbit
+<td>Đồng minh • Nhà 1 • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2857,7 +2857,7 @@ categories:
 </td>
 <td>Longbottom Leaf
 </td>
-<td>Possession
+<td>Sở hữu
 </td>
 <td>Shire
 </td></tr>
@@ -2866,7 +2866,7 @@ categories:
 </td>
 <td>•Master Proudfoot, Distant Relative of Bilbo
 </td>
-<td>Ally • Home 1 • Hobbit
+<td>Đồng minh • Nhà 1 • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -2902,7 +2902,7 @@ categories:
 </td>
 <td>Old Toby
 </td>
-<td>Possession
+<td>Sở hữu
 </td>
 <td>Shire
 </td></tr>
@@ -2938,7 +2938,7 @@ categories:
 </td>
 <td>•Rosie Cotton, Hobbiton Lass
 </td>
-<td>Ally • Home 1 • Hobbit
+<td>Đồng minh • Nhà 1 • Hobbit
 </td>
 <td>Shire
 </td></tr>
@@ -3019,7 +3019,7 @@ categories:
 </td>
 <td>•Thror&#39;s Map
 </td>
-<td>Possession
+<td>Sở hữu
 </td>
 <td>Shire
 </td></tr>
@@ -3035,7 +3035,7 @@ categories:
 <tr bgcolor="#cedff2">
 <td>1U320
 </td>
-<td>East Road
+<td>Đường phía Đông
 </td>
 <td>Trang web
 </td>
@@ -3062,7 +3062,7 @@ categories:
 <tr>
 <td>1U323
 </td>
-<td>Green Hill Country
+<td>Vùng Đồi Xanh
 </td>
 <td>Trang web
 </td>
@@ -3143,7 +3143,7 @@ categories:
 <tr bgcolor="#cedff2">
 <td>1U332
 </td>
-<td>Midgewater Marshes
+<td>Đầm lầy Midgewater
 </td>
 <td>Trang web
 </td>
@@ -3442,7 +3442,7 @@ categories:
 </td>
 <td>•Aragorn, King in Exile
 </td>
-<td>Companion • Man
+<td>Bạn đồng hành • Con Người
 </td>
 <td>Gondor
 </td></tr>

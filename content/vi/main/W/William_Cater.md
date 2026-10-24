@@ -32,8 +32,8 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Stub</div></div><div class="ext-floatingui-content">This article or section is a stub. Please help Tolkien Gateway by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=William_Cater&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...there is much else that may be told.
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Bài sơ khai</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này vẫn còn sơ khai. Hãy giúp Tolkien Gateway bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=William_Cater&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...còn nhiều điều khác có thể được kể.
 </p>
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
@@ -43,7 +43,7 @@ images:
 Trong một bài báo năm 1972 kỷ niệm sinh nhật lần thứ 80 sắp tới của Tolkien, Cater đã đặt ra một biểu thức nổi tiếng sẽ được sử dụng trên máy bọc bụi của ấn bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The English-speaking world is divided into those who have read The Hobbit and The Lord of the Rings and those who are going to read them.
+<p>Thế giới nói tiếng Anh được chia thành những người đã đọc The Hobbit và The Lord of the Rings và những người sẽ đọc chúng.
 </p>
 <p class="tg-quote-footer"><cite>William Cater, The Sunday Times (UK)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

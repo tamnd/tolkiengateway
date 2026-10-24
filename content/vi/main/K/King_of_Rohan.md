@@ -42,7 +42,7 @@ Tất cả các vị vua đều thuộc cùng một triều đại, [Nhà Eorl](
 <tbody><tr>
 <td align="right">1.
 </td>
-<td><a href="../E/Eorl.md" title="Eorl">Eorl</a> <i>the Young</i>, son of <a href="../L/Léod.md" title="Léod">Léod</a>
+<td><a href="../E/Eorl.md" title="Eorl">Eorl</a> <i>the Young</i>, con trai của <a href="../L/Léod.md" title="Léod">Léod</a>
 </td>
 <td align="right"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2510.md" title="Third Age 2510">2510</a> – <a href="../T/Third_Age_2545.md" title="Third Age 2545">2545</a>
 </td></tr>
@@ -105,7 +105,7 @@ Tất cả các vị vua đều thuộc cùng một triều đại, [Nhà Eorl](
 <tr>
 <td>
 </td>
-<td colspan="2"><i>Helm&#39;s two sons were killed by the <a href="../D/Dunlendings.md" title="Dunlendings">Dunlendings</a> during the <a href="../L/Long_Winter.md" title="Long Winter">Long Winter</a>.  <br/>His sister-son, <a href="../F/Fréaláf.md" title="Fréaláf">Fréaláf Hildeson</a>, became the first king of the second line.</i>
+<td colspan="2"><i>Hai con trai của Helm đã bị <a href="../D/Dunlendings.md" title="Dunlendings">Dunlending</a> giết chết trong <a href="../L/Long_Winter.md" title="Long Winter">Mùa Đông Dài</a>.  <br/>Em gái ông <a href="../F/Fréaláf.md" title="Fréaláf">Fréaláf Hildeson</a> trở thành vị vua đầu tiên của dòng thứ hai.</i>
 </td></tr></tbody></table>
 
 ### Dòng thứ hai {#Second_Line}
@@ -170,7 +170,7 @@ Tất cả các vị vua đều thuộc cùng một triều đại, [Nhà Eorl](
 <tr>
 <td>
 </td>
-<td colspan="2"><i>Théoden&#39;s only son, <a href="../T/Théodred.md" title="Théodred">Théodred</a>, was slain at <a href="../F/First_Battle_of_the_Fords_of_Isen.md" title="First Battle of the Fords of Isen">First Battle of the Fords of Isen</a>.  <br/>His sister-son, <a href="../_/Éomer.md" title="Éomer">Éomer</a>, became the first King of the third line.</i>
+<td colspan="2"><i>Con trai duy nhất của Théoden, <a href="../T/Théodred.md" title="Théodred">Théodred</a>, đã bị giết tại <a href="../F/First_Battle_of_the_Fords_of_Isen.md" title="First Battle of the Fords of Isen">Trận chiến thứ nhất của Fords Isen</a>.  <br/>Em gái ông, <a href="../_/Éomer.md" title="Éomer">Éomer</a>, trở thành Vua đầu tiên của dòng thứ ba.</i>
 </td></tr></tbody></table>
 
 ### Dòng thứ ba {#Third_Line}
@@ -188,7 +188,7 @@ Tất cả các vị vua đều thuộc cùng một triều đại, [Nhà Eorl](
 </td>
 <td><a href="../E/Elfwine.md" title="Elfwine">Elfwine</a> <i>the Fair</i>
 </td>
-<td align="right"><a href="../F/Fourth_Age.md" title="Fourth Age">Fo.A.</a> <a href="../F/Fourth_Age_63.md" title="Fourth Age 63">63</a> – <i>unknown</i>
+<td align="right"><a href="../F/Fourth_Age.md" title="Fourth Age">Kỷ Đệ Tứ</a> <a href="../F/Fourth_Age_63.md" title="Fourth Age 63">63</a> – <i>unknown</i>
 </td></tr></tbody></table>
 
 ## Xem thêm {#See_also}

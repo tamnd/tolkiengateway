@@ -127,7 +127,7 @@ Phần liên kết của tập đầu tiên, bao gồm cả trang web tiếng An
 		<li class="gallerybox" style="width: 162px">
 			<div class="thumb" style="width: 160px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/M/Macht_der_Ringe_I_-_Menu.png.md" title="Alternate menu"><img alt="Alternate menu" src="https://tolkiengateway.net/w/images/thumb/4/48/Macht_der_Ringe_I_-_Menu.png/240px-Macht_der_Ringe_I_-_Menu.png" decoding="async" loading="lazy" width="160" height="120" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/48/Macht_der_Ringe_I_-_Menu.png/360px-Macht_der_Ringe_I_-_Menu.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/48/Macht_der_Ringe_I_-_Menu.png/480px-Macht_der_Ringe_I_-_Menu.png 2x" data-file-width="800" data-file-height="600"/></a></span></div>
 			<div class="gallerytext">
-<p>Thực đơn thay thế
+<p>Alternate menu
 </p>
 			</div>
 		</li>

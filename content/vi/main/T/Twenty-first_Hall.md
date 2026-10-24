@@ -36,7 +36,7 @@ Nhiều năm sau, [Hiệp hội](../F/Fellowship_of_the_Ring.md) cắm trại qu
 
 <b>2007: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>The Twenty-first Hall is the central base of operations for the Iron Garrison.</dd></dl>
+<dl><dd>Đại sảnh thứ Hai mươi mốt là căn cứ hoạt động trung tâm của Iron Garrison.</dd></dl>
 
 <span></span>
 

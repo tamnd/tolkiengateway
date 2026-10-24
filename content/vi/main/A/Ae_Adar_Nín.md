@@ -29,7 +29,7 @@ Những ghi chú của Tolkien trên bài thơ viết ở mặt sau tấm bưu t
 <table style="margin-bottom: 10px;">
 <tbody><tr>
 <td>
-<dl><dd><i>Ae Adar nín tôi vi Menel</i></dd>
+<dl><dd><i>Ae Adar nín i vi Menel</i></dd>
 <dd><i>không aer i eneth lín</i></dd>
 <dd><i>tolo i arnad lín</i></dd>
 <dd><i>caro den i innas lín</i></dd>

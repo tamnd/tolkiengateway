@@ -31,7 +31,7 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Field_of_Cormallen.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the field in <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a></b>. For the the chapter in <a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a>, see <b><a href="../T/The_Field_of_Cormallen.md" title="The Field of Cormallen">The Field of Cormallen</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>trường trong <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a></b>. Đối với chương trong <a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a>, xem <b><a href="../T/The_Field_of_Cormallen.md" title="The Field of Cormallen">The Cánh đồng Cormallen</a></b>.</div></div>
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Periannath_on_the_Field_of_Cormallen.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/50/Miriam_Ellis_-_Periannath_on_the_Field_of_Cormallen.jpg/250px-Miriam_Ellis_-_Periannath_on_the_Field_of_Cormallen.jpg" decoding="async" loading="lazy" width="250" height="300" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/50/Miriam_Ellis_-_Periannath_on_the_Field_of_Cormallen.jpg/375px-Miriam_Ellis_-_Periannath_on_the_Field_of_Cormallen.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/50/Miriam_Ellis_-_Periannath_on_the_Field_of_Cormallen.jpg/500px-Miriam_Ellis_-_Periannath_on_the_Field_of_Cormallen.jpg 2x" data-file-width="800" data-file-height="959"/></a><figcaption><i>Periannath on the Field of Cormallen</i> by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure>
 
@@ -55,7 +55,7 @@ Người [Gondor](../G/Gondorians.md) có lẽ đã sử dụng tên gọi *Corm
 
 <b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Two versions of the Field of Cormallen exist in the game. Prior to the <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Battle of the Morannon</a>, the field is a pristine glade with only wild beasts nearby. After the destruction of the One Ring, the field is bustling with activity, full of tents and pavilions where soldiers of Rohan and Gondor celebrate the victory.</dd></dl>
+<dl><dd>Hai phiên bản của Cánh đồng Cormallen tồn tại trong trò chơi. Trước <a href="../B/Battle_of_the_Morannon.md" title="Battle of the Morannon">Trận Morannon</a>, cánh đồng này là một trảng nguyên hoang sơ chỉ có thú hoang ở gần đó. Sau khi Nhẫn Chúa bị phá hủy, chiến trường trở nên nhộn nhịp với các hoạt động với đầy lều và đình nơi các chiến sĩ của Rohan và Gondor ăn mừng chiến thắng.</dd></dl>
 
 <span></span>
 

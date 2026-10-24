@@ -44,7 +44,7 @@ Bản thân Tolkien dường như đã đọc cuốn đầu tiên trong bộ tru
 
 <table style="margin:0 auto;" class="toccolours" align="center">
 <tbody><tr>
-<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a class="mw-selflink selflink">The Firland Saga</a></b>
+<td align="center" colspan="2" style="background:var(--tg-color-surface-5)"><b><a class="mw-selflink selflink">Trường ca Firland</a></b>
 </td></tr>
 <tr>
 <td style="font-size: 90%;" align="center"><i><a href="The_Forgotten_Kingdom.md" title="The Forgotten Kingdom">The Forgotten Kingdom</a></i> · <i><a href="../F/Fear_in_Firland.md" title="Fear in Firland">Fear in Firland</a></i> · <i><a href="../F/Firland_in_Flames.md" title="Firland in Flames">Firland in Flames</a></i>

@@ -45,9 +45,9 @@ infobox:
     value: "Real-time strategy"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>The Lord of the Rings</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>The Lord of the Rings</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="The_Lord_of_the_Rings_(disambiguation).md" title="The Lord of the Rings (disambiguation)">The Lord of the Rings (disambiguation)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9b/The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg/320px-The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9b/The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg/480px-The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg 1.5x, https://tolkiengateway.net/w/images/9/9b/The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg 2x" data-file-width="600" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><small>The Lord of the Rings</small><br/>The Battle for Middle-earth II</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows, Xbox 360</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">2 March 2006</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Real-time strategy</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9b/The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg/320px-The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9b/The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg/480px-The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg 1.5x, https://tolkiengateway.net/w/images/9/9b/The_Lord_of_the_Rings-_The_Battle_for_Middle-earth_II_box.jpg 2x" data-file-width="600" data-file-height="900"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Trò chơi điện tử</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><small>The Lord of the Rings</small><br/>The Battle for Middle-earth II</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Chi tiết</span></th></tr><tr><th scope="row" class="tg-infobox-label">Nhà phát triển</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nhà xuất bản</th><td class="tg-infobox-data"><a href="../E/Electronic_Arts.md" title="Electronic Arts">Electronic Arts</a></td></tr><tr><th scope="row" class="tg-infobox-label">Nền tảng</th><td class="tg-infobox-data">Microsoft Windows, Xbox 360</td></tr><tr><th scope="row" class="tg-infobox-label">Ngày phát hành</th><td class="tg-infobox-data">2 March 2006</td></tr><tr><th scope="row" class="tg-infobox-label">Thể loại</th><td class="tg-infobox-data">Chiến thuật thời gian thực</td></tr></tbody></table>
 
 **The Lord of the Rings: The Battle for Trung Địa II** là trò chơi chiến lược thời gian thực thứ hai của [Electronic Arts](../E/Electronic_Arts.md), được phát hành vào [ngày 2 tháng 3](../_/2_March.md), [2006](../_/2006.md) cho cả PC và Xbox 360. Không giống như [người tiền nhiệm](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth.md), trò chơi lấy bối cảnh chủ yếu ở các khu vực phía bắc của [Trung Địa](../M/Middle-earth.md). Các phe bao gồm [Tiên tộc](../E/Elves.md), [Người Lùn](../D/Dwarves.md), [Con Người của Phương Tây](../D/Dúnedain.md) (sự kết hợp của [Gondor](../G/Gondor.md) và [Rohan](../R/Rohan.md)) và [Goblin](../O/Orcs.md), cùng với [Mordor](../M/Mordor.md) và [Isengard](../I/Isengard.md). Trò chơi bao gồm các trận hải chiến, tiểu đoàn lớn hơn và cách xây dựng căn cứ truyền thống hơn, không giống như phần đầu tiên. Trò chơi có một tính năng đặc biệt là bạn có thể tạo ra anh hùng của riêng mình. Các anh hùng thuộc sáu loại, bao gồm [phù thủy](../W/Wizards.md), [người lùn](../D/Dwarves.md) hoặc người hầu của [Sauron](../S/Sauron.md). Ngoài ra, còn có mười bốn danh mục phụ, chẳng hạn như ẩn sĩ, người điều khiển nhiệm vụ và [troll](Troll.md). Nó có một bộ mở rộng có tên *[The Rise of the Witch-king](The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)*, có [Angmar](../A/Angmar.md) là một phe mới và có những cải tiến chung về lối chơi.
 
@@ -97,16 +97,16 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td>J. Grant Albrecht</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../R/Robin_Atkin_Downes.md" title="Robin Atkin Downes">Robin Atkin Downes</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../D/Dee_Bradley_Baker.md" title="Dee Bradley Baker">Dee Bradley Baker</a></td>
@@ -114,15 +114,15 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td><a href="../G/Greg_Ellis.md" title="Greg Ellis">Greg Ellis</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a class="mw-redirect" href="../S/Steve_Blum.md" title="Steve Blum">Steve Blum</a></td>
-<td><a class="mw-redirect" href="The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">The Mouth of Sauron</a>
+<td><a class="mw-redirect" href="The_Mouth_of_Sauron~36612.md" title="The Mouth of Sauron">Miệng của Sauron</a>
 </td></tr>
 <tr>
 <td>David Boat</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td>S. Scott Bullock</td>
@@ -130,7 +130,7 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td>Jesse Burch</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../J/Jason_Carter.md" title="Jason Carter">Jason Carter</a></td>
@@ -138,11 +138,11 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td>Dan Conroy</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td>Neil Dickson</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../R/Richard_Doyle.md" title="Richard Doyle">Richard Doyle</a></td>
@@ -154,7 +154,7 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td><a href="../P/Peter_Emshwiller.md" title="Peter Emshwiller">Peter Emshwiller</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../C/Crispin_Freeman.md" title="Crispin Freeman">Crispin Freeman</a></td>
@@ -162,7 +162,7 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td>David Fries</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../B/Brian_George.md" title="Brian George">Brian George</a></td>
@@ -174,15 +174,15 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td><a href="../J/James_Horan.md" title="James Horan">James Horan</a></td>
-<td>Additional Voices
+<td>Các giọng lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../R/Roger_Jackson.md" title="Roger Jackson">Roger Jackson</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../N/Nick_Jameson.md" title="Nick Jameson">Nick Jameson</a></td>
-<td>Additional Voices
+<td>Các giọng lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../B/Bob_Joles.md" title="Bob Joles">Bob Joles</a></td>
@@ -190,23 +190,23 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td><a href="../N/Neil_Kaplan.md" title="Neil Kaplan">Neil Kaplan</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../D/Darryl_Kurylo.md" title="Darryl Kurylo">Darryl Kurylo</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td>Adam Leadbeater</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td>Michael Lindsay</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../D/David_Lodge.md" title="David Lodge">David Lodge</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../L/Lewis_MacLeod.md" title="Lewis MacLeod">Lewis MacLeod</a></td>
@@ -218,7 +218,7 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td><a href="../J/Jim_Meskimen.md" title="Jim Meskimen">Jim Meskimen</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../L/Lani_Minella.md" title="Lani Minella">Lani Minella</a></td>
@@ -226,23 +226,23 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td>Mark Moseley</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../N/Nolan_North.md" title="Nolan North">Nolan North</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td>Mical Pedriana</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../P/Phil_Proctor.md" title="Phil Proctor">Phil Proctor</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../B/Brianne_Siddall.md" title="Brianne Siddall">Brianne Siddall</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../I/Isaac_C._Singleton,_Jr..md" title="Isaac C. Singleton, Jr.">Isaac C. Singleton, Jr.</a></td>
@@ -258,19 +258,19 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td>Julian Stone</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td>Fred Tatasciore</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td>Simon Templeman</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../J/Jim_Ward.md" title="Jim Ward">Jim Ward</a></td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../H/Hugo_Weaving.md" title="Hugo Weaving">Hugo Weaving</a></td>
@@ -278,7 +278,7 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 </td></tr>
 <tr>
 <td>Joe Whyte</td>
-<td>Additional voices
+<td>Lồng tiếng bổ sung
 </td></tr>
 <tr>
 <td><a href="../W/Wally_Wingert.md" title="Wally Wingert">Wally Wingert</a></td>
@@ -299,7 +299,7 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 
 <table style="margin: 0 auto; width: 100%;" class="mw-collapsible mw-collapsed toccolours" align="center">
 <tbody><tr>
-<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Licensed video games set in <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a></b>
+<th align="center" colspan="2" style="background:var(--tg-color-surface-5);"><b>Trò chơi điện tử được cấp phép lấy bối cảnh ở <a href="../M/Middle-earth.md" title="Middle-earth">Trung Địa</a></b>
 </th></tr>
 <tr>
 <th style="background:var(--tg-color-surface-3);" align="center"> <a href="../M/Melbourne_House.md" title="Melbourne House">Melbourne House</a>:
@@ -332,7 +332,7 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Aragorn&#39;s_Quest.md" title="The Lord of the Rings: Aragorn&#39;s Quest">Aragorn&#39;s Quest</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">War in the North</a></b></i> (<a href="../_/2011.md" title="2011">2011</a>) · <i><b><a href="../G/Guardians_of_Middle-earth.md" title="Guardians of Middle-earth">Guardians of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>-<a href="../_/2018.md" title="2018">2018</a>) · <i><b><a href="The_Hobbit%253A_Kingdoms_of_Middle-earth.md" title="The Hobbit: Kingdoms of Middle-earth">Kingdoms of Middle-earth</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>)· <i><b><a href="The_Hobbit%253A_Armies_of_The_Third_Age.md" title="The Hobbit: Armies of The Third Age">Armies of The Third Age</a></b></i> (<a href="../_/2013.md" title="2013">2013</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_Mordor.md" title="Middle-earth: Shadow of Mordor">Shadow of Mordor</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>) · <i><b><a href="../M/Middle-earth%253A_Shadow_of_War.md" title="Middle-earth: Shadow of War">Shadow of War</a></b></i> (<a href="../_/2017.md" title="2017">2017</a>) · <i><b><a href="The_Lord_of_the_Rings%253A_Rise_to_War.md" title="The Lord of the Rings: Rise to War">Rise to War</a></b></i> (<a href="../_/2021.md" title="2021">2021</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Glu Games:
+<th style="background:var(--tg-color-surface-3);" align="center">Glu Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Middle-Earth_Defense.md" title="The Lord of the Rings: Middle-Earth Defense">Middle-Earth Defense</a></b></i> (<a href="../_/2010.md" title="2010">2010</a>)
 </td></tr>
@@ -342,7 +342,7 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="../L/Lego_The_Lord_of_the_Rings%253A_The_Video_Game.md" title="Lego The Lord of the Rings: The Video Game">Lego The Lord of the Rings: The Video Game</a></b></i> (<a href="../_/2012.md" title="2012">2012</a>) · <i><b><a href="../L/Lego_The_Hobbit%253A_The_Video_Game.md" title="Lego The Hobbit: The Video Game">Lego The Hobbit</a></b></i> (<a href="../_/2014.md" title="2014">2014</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> Twin Sails Interactive:
+<th style="background:var(--tg-color-surface-3);" align="center">Twin Sails Interactive:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Adventure_Card_Game.md" title="The Lord of the Rings: Adventure Card Game">The Lord of the Rings: Adventure Card Game</a></b></i> (<a href="../_/2018.md" title="2018">2018</a>)
 </td></tr>
@@ -352,7 +352,7 @@ Chiến dịch Ác ma tiếp nối một phiên bản thay thế của Chiến t
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Gollum.md" title="The Lord of the Rings: Gollum">The Lord of the Rings: Gollum</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr>
 <tr>
-<th style="background:var(--tg-color-surface-3);" align="center"> North Beach Games:
+<th style="background:var(--tg-color-surface-3);" align="center">North Beach Games:
 </th>
 <td style="font-size: 90%; padding-left: 7px;"><i><b><a href="The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Return to Moria</a></b></i> (<a href="../_/2023.md" title="2023">2023</a>)
 </td></tr></tbody></table>

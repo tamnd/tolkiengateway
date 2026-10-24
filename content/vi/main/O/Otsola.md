@@ -46,7 +46,7 @@ categories:
 </td></tr>
 <tr>
 <td><i>Falassien</i></td>
-<td>Biển, xem. <a href="../Q/Quenya.md" title="Quenya">Quenya</a> <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Falasse&amp;action=edit&amp;redlink=1" title="Falasse (page does not exist)">falasse</a></i></td>
+<td>The Sea, cf. <a href="../Q/Quenya.md" title="Quenya">Quenya</a> <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Falasse&amp;action=edit&amp;redlink=1" title="Falasse (page does not exist)">falasse</a></i></td>
 <td>&#34;Thursday&#34;
 </td></tr>
 <tr>

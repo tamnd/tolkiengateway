@@ -23,7 +23,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the grandfather of <a href="Ælfwine.md" title="Ælfwine">Ælfwine</a></b>. For the Prince of Gwar, see <b><a href="Óswine_(Prince_of_Gwar)~61512.md" title="Óswine (Prince of Gwar)">Óswine</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này viết về <b>ông nội của <a href="Ælfwine.md" title="Ælfwine">Ælfwine</a></b>. Đối với Thân vương của Gwar, xem <b><a href="Óswine_(Prince_of_Gwar)~61512.md" title="Óswine (Prince of Gwar)">Óswine</a></b>.</div></div>
 
 **Óswine** là cha của [Éadwine](Éadwine.md) và do đó là ông nội của [Ælfwine](Ælfwine.md) Mariner.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

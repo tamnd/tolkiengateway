@@ -28,23 +28,23 @@ Trong [Quenya](../Q/Quenya.md), từ "chuột" là *nyarro* và [Noldorin](../N/
 
 <b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
-<dl><dd>Rats can infect people with the plague through their fleas.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
+<dl><dd>Chuột có thể lây bệnh dịch hạch sang người thông qua bọ chét của chúng.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
 <b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
-<dl><dd>&#34;Morgul-rats&#34; is a Hazard Creature, able to inflict 12 strikes. The breed is described as carrying &#34;<i>the stink of black sorcery in their bite</i>&#34;. &#34;Rats!&#34; is a Hazard Event, forcing a player to discard a minor item of one of the characters, which also become wounded.</dd></dl>
+<dl><dd>"Morgul-rats" là Sinh vật nguy hiểm, có thể gây ra 12 đòn tấn công. Giống chó này được mô tả là mang "<i>mùi hôi thối của ma thuật đen trong vết cắn</i>". "Chuột!" là một Sự kiện Nguy hiểm, buộc người chơi phải vứt bỏ một vật phẩm nhỏ của một trong các nhân vật, vật phẩm này cũng bị thương.</dd></dl>
 
 <b>2000-: <i>Chúa tể của những chiếc nhẫn (trò chơi board game)</i>:</b>
 
-<dl><dd>&#34;Morgul Rats&#34; is a card (with artwork by <a href="../J/John_Howe.md" title="John Howe">John Howe</a>) supplied with the <i>Friends &amp; Foes</i> Expansion (2002) for the <i>Lord of the Rings</i> boardgame.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
+<dl><dd>"Morgul Rats" là một thẻ (có tác phẩm nghệ thuật của <a href="../J/John_Howe.md" title="John Howe">John Howe</a>) được cung cấp cùng với Bản mở rộng <i>Friends &amp; Foes</i> (2002) cho trò chơi boardgame <i>Lord of the Rings</i>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></dd></dl>
 
 <b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
-<dl><dd>As part of the <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> set, one hut was called the &#34;Ratcatcher&#39;s hut&#34;, after a doodle by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> was interpreted as a rat. It was outfitted with several taxidermied rats, but was not featured prominently in the movie.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
+<dl><dd>Là một phần của bộ <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a>, một túp lều được gọi là "Túp lều của Ratcatcher", sau khi một bức vẽ nguệch ngoạc của <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> được hiểu là một con chuột. Nó được trang bị một số con chuột bị đánh thuế, nhưng không xuất hiện nổi bật trong phim.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></dd></dl>
 
 <b>2007-: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
-<dl><dd>Rats are always aggressive. Breeds include Field-rats (found in the Barrow-downs), Harbour-rats (found around Falathlorn in Ered Luin), and Plague-rats.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
+<dl><dd>Chuột luôn hung dữ. Các giống bao gồm Chuột đồng (được tìm thấy ở Barrow-downs), Chuột cảng (được tìm thấy quanh Falathlorn ở Ered Luin) và Chuột dịch hạch.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></dd></dl>
 
 ## Xem thêm {#See_also}
 

@@ -27,9 +27,9 @@ Xung quanh họ, lễ hội [Yuletide](Yuledays.md) kéo dài sáu ngày đã đ
 ## Từ nguyên {#Etymology}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Very best wishes for Yule - J. R. R. Tolkien
+<p>Những lời chúc tốt đẹp nhất dành cho Yule - J. R. R. Tolkien
 </p>
-<p class="tg-quote-footer"><cite>Tolkien to <a class="new" href="https://tolkiengateway.net/w/index.php?title=Richard_Jeffery&amp;action=edit&amp;redlink=1" title="Richard Jeffery (page does not exist)">Richard Jeffery</a> in <a href="../L/Letter_347.md" title="Letter 347">Letter 347</a>, (dated <a href="../_/17_December.md" title="17 December">17 December</a> <a href="../_/1972.md" title="1972">1972</a>)</cite></p>
+<p class="tg-quote-footer"><cite>Tolkien gửi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Richard_Jeffery&amp;action=edit&amp;redlink=1" title="Richard Jeffery (page does not exist)">Richard Jeffery</a> trong <a href="../L/Letter_347.md" title="Letter 347">Thư 347</a>, (ngày <a href="../_/17_December.md" title="17 December">17 tháng 12</a> <a href="../_/1972.md" title="1972">1972</a>)</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 Yule đại diện cho một "bản dịch" của một từ [Hobbitish](../H/Hobbitish.md), nhưng bản thân từ đó không xuất hiện trong [Westron](../W/Westron.md).<sup id="cite_ref-Nomen_4-0" class="reference"><a href="#cite_note-Nomen-4">[3]</a></sup>

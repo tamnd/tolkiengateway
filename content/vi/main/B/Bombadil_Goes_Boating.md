@@ -39,7 +39,7 @@ infobox:
   <tr><td colspan="2" class="tg-infobox-subtitle"><a href="../../index/P/Poems_by_J.R.R._Tolkien.md" title="Index:Poems by J.R.R. Tolkien">Thơ của J.R.R. Tolkien</a></td></tr>
   <tr><th colspan="2" class="tg-infobox-title"><span>Bombadil Goes Boating</span></th></tr>
   <tr><th colspan="2" class="tg-infobox-header"><span>Thông tin về bài thơ</span></th></tr>
-  <tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">mầm bệnh Tom Bombadil<br/><i>The Fliting of Tom Bombadil</i>,<br/><i>The Merry Fliting of Tom Bombadil</i>,<br/><i>The Adventures of Tom Bombadil II: The Merry Fliting</i><br/><i>Fliting</i></td></tr>
+  <tr><th scope="row" class="tg-infobox-label">Tên khác</th><td class="tg-infobox-data">germ of Tom Bombadil<br/><i>The Fliting of Tom Bombadil</i>,<br/><i>The Merry Fliting of Tom Bombadil</i>,<br/><i>The Adventures of Tom Bombadil II: The Merry Fliting</i><br/><i>Fliting</i></td></tr>
   <tr><th scope="row" class="tg-infobox-label">Viết</th><td class="tg-infobox-data">giữa những năm 1930</td></tr>
   <tr><th scope="row" class="tg-infobox-label">Bản sửa đổi</th><td class="tg-infobox-data">1962</td></tr>
   <tr><th scope="row" class="tg-infobox-label">Xuất bản</th><td class="tg-infobox-data"><i><a href="../T/The_Adventures_of_Tom_Bombadil.md" title="The Adventures of Tom Bombadil">The Adventures of Tom Bombadil</a></i><br/><i><a href="../T/The_Collected_Poems_of_J.R.R._Tolkien.md" title="The Collected Poems of J.R.R. Tolkien">The Collected Poems of J.R.R. Tolkien</a></i></td></tr>

@@ -24,7 +24,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Underhill</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Underhill_(disambiguation).md" title="Underhill (disambiguation)">Underhill (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Underhill</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Underhill_(disambiguation).md" title="Underhill (disambiguation)">Underhill (định hướng)</a></b>.</div></div>
 
 **Underhill** là họ phổ biến trong [Hobbit](../H/Hobbits.md). Gia đình Underhill có các chi nhánh ở [Shire](../T/The_Shire.md) và ở [Bree](../B/Bree.md). Đặc biệt, có một gia đình [Bree hobbit](../B/Bree-hobbits.md) sống ở [Staddle](../S/Staddle.md) (phía đông [Bree-hill](../B/Bree-hill.md)) có tên đó.
 
