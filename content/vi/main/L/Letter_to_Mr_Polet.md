@@ -25,7 +25,7 @@ Vào [ngày 1 tháng 1](../_/1_January.md) [1956](../_/1956.md), [J.R.R. Tolkien
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr Polet,<br/><br/>I cannot resist the temptation to disobey your kind command not to answer, and write to thank you for your letter of 22 December.<br/><br/>I am most grateful for your expression of pleasure; and I hope that you will continue to enjoy Vols. ii and iii.<br/><br/>Yours sincerely<br/><br/>J.R.R. Tolkien
+<p>Ông Polet thân mến,<br/><br/>Tôi không thể cưỡng lại sự cám dỗ để không tuân theo mệnh lệnh tử tế của ông là không trả lời và viết thư để cảm ơn ông về bức thư ngày 22 tháng 12.<br/><br/>Tôi rất biết ơn sự bày tỏ vui mừng của ông; và tôi hy vọng rằng bạn sẽ tiếp tục thưởng thức Vols. ii và iii.<br/><br/>Trân trọng<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

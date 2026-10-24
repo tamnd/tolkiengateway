@@ -17,7 +17,7 @@ sort_keys:
 ---
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The <b>fëar</b> of the <a href="../E/Elves.md" title="Elves">Elves</a> and <a href="../M/Men.md" title="Men">Men</a> (and <a href="../D/Dwarves.md" title="Dwarves">Dwarves</a> via <a href="../A/Aulë.md" title="Aulë">Aulë</a>, <a href="../E/Ents.md" title="Ents">Ents</a> via <a href="../Y/Yavanna.md" title="Yavanna">Yavanna</a>) were <b>intrusions</b> into <a href="../E/Eä.md" title="Eä">Eä</a> from <a href="../I/Ilúvatar.md" title="Ilúvatar">outside</a>. As the <a href="../V/Valar.md" title="Valar">Valar</a> were sent into Eä.
+<p><b>fëar</b> của <a href="../E/Elves.md" title="Elves">Tiên tộc</a> và <a href="../M/Men.md" title="Men">Con Người</a> (và <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a> qua <a href="../A/Aulë.md" title="Aulë">Aulë</a>, <a href="../E/Ents.md" title="Ents">Ent</a> qua <a href="../Y/Yavanna.md" title="Yavanna">Yavanna</a>) là <b>các cuộc xâm nhập</b> vào <a href="../E/Eä.md" title="Eä">Eä</a> từ <a href="../I/Ilúvatar.md" title="Ilúvatar">bên ngoài</a>. Vì <a href="../V/Valar.md" title="Valar">Valar</a> đã được gửi vào Eä.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a></i>, &#34;The Primal Impulse&#34;, p. 290</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

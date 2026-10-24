@@ -36,15 +36,15 @@ Trong bản thảo đầu tiên của chương "[Từ chảo rán vào lửa](..
 
 <b>1980: <a href="../D/Der_Hobbit_(1980_German_radio_series).md" title="Der Hobbit (1980 German radio series)"><i>Der Hobbit</i> (loạt phim phát thanh Đức năm 1980)</a>:</b>
 
-<dl><dd>The Lord of the Eagles is played by Friedrich W. Bauschulle.</dd></dl>
+<dl><dd>Chúa tể Đại Bàng do Friedrich W. Bauschulle thủ vai.</dd></dl>
 
 <b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
 
-<dl><dd><a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a> bears the title &#34;Lord of the Eagles&#34;.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></dd></dl>
+<dl><dd><a href="../G/Gwaihir.md" title="Gwaihir">Gwaihir</a> mang danh hiệu "Chúa tể của Đại Bàng".<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup></dd></dl>
 
 <b>2012: <i><a href="Lego.md" title="Lego">LEGO The Hobbit</a></i>:</b>
 
-<dl><dd>Gwaihir is conflated with the Lord of the Eagles.</dd></dl>
+<dl><dd>Gwaihir được kết hợp với Chúa của Đại Bàng.</dd></dl>
 
 <span></span>
 

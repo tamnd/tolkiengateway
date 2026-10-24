@@ -15,7 +15,7 @@ images:
   - "Heraldic_device_of_Forodrim.gif"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Heraldic_device_of_Forodrim.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/Heraldic_device_of_Forodrim.gif/300px-Heraldic_device_of_Forodrim.gif" decoding="async" loading="lazy" width="300" height="359" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fb/Heraldic_device_of_Forodrim.gif 1.5x" data-file-width="334" data-file-height="400"/></a><figcaption>Heraldic device of Forodrim</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Heraldic_device_of_Forodrim.gif.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/Heraldic_device_of_Forodrim.gif/300px-Heraldic_device_of_Forodrim.gif" decoding="async" loading="lazy" width="300" height="359" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fb/Heraldic_device_of_Forodrim.gif 1.5x" data-file-width="334" data-file-height="400"/></a><figcaption>Thiết bị huy hiệu của Forodrim</figcaption></figure>
 
 **Tolkiensällskapet Forodrim** (**Hội Tolkien Forodrim**) được thành lập tại Thụy Điển vào năm [1972](../_/1972.md) và là một trong những [tổ chức người hâm mộ Tolkien](../T/Tolkien_fandom.md) lâu đời nhất.
 

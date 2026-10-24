@@ -23,7 +23,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the feast days of the <a href="../S/Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a></b>. For the month in the <a href="../B/Bree_Calendar.md" title="Bree Calendar">Bree Calendar</a>, see <b><a href="Lithe.md" title="Lithe">Lithe</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này nói về <b>ngày lễ <a href="../S/Shire_Calendar.md" title="Shire Calendar">Lịch Shire</a></b>. Đối với tháng trong <a href="../B/Bree_Calendar.md" title="Bree Calendar">Bree Lịch</a>, hãy xem <b><a href="Lithe.md" title="Lithe">Lithe</a></b>.</div></div>
 
 **Ngày Lithe** hay chỉ **Ngày Lithe** đề cập đến ba (đôi khi là bốn) ngày lễ giữa các tháng [Forelithe](../F/Forelithe.md) và [Afterlithe](../A/Afterlithe.md) của [Lịch Shire](../S/Shire_Calendar.md); về mục đích và chức năng, Lithedays tương đương với *[enderi](../E/Enderi.md)* của [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md).
 

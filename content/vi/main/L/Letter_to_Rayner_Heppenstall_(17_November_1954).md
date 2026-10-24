@@ -24,7 +24,7 @@ Vào [17 tháng 11](../_/17_November.md) [1954](../_/1954.md), [J.R.R. Tolkien](
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>[Tolkien remains] rather in the dark as to how you propose to treat the thing, and what part — if any; but some hint of &#34;background&#34; seems necessary — of the historical notes [included with the verse-drama in <i>Essays and Studies</i>] is to be included (as preface)<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+<p>[Tolkien vẫn còn mù mờ về cách bạn đề xuất xử lý sự việc và phần nào — nếu có; nhưng một số gợi ý về "bối cảnh" có vẻ cần thiết - về các ghi chú lịch sử [có trong kịch-thần trong <i>Essays and Studies</i>] sẽ được đưa vào (làm lời nói đầu)<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 </p>
 </blockquote>
 

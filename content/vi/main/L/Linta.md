@@ -22,7 +22,7 @@ Từ nguyên không rõ ràng, nhưng có lẽ gợi ý về [Gốc](../S/Sundoc
 ## Ví dụ {#Examples}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>Yéni ve <b>lintë</b> yuldar avánier (&#39;The years have passed like <b>swift</b> draughts&#39;)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<p>Yéni ve <b>lintë</b> yuldar avánier ('Năm tháng trôi qua như <b>nhanh chóng</b> bản nháp')<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../N/Namárië.md" title="Namárië">Namárië</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

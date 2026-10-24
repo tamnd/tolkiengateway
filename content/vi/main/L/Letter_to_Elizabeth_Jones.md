@@ -25,7 +25,7 @@ Vào [ngày 13 tháng 1](../_/13_January.md) [1960](../_/1960.md), [J.R.R. Tolki
 ## Từ cuộc đấu giá {#From_the_auction}
 
 <blockquote class="tg-quote noexcerpt">
-<p>[The letter conatains a] printed statement about <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> and a typed paragraph stating that he is &#34;working on a new book which I hope will tell you some of the things you would like to know.&#34;
+<p>[Bức thư có chứa một] tuyên bố được in về <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> và một đoạn đánh máy nói rằng ông đang "làm một cuốn sách mới mà tôi hy vọng sẽ cho bạn biết một số điều bạn muốn biết."
 </p>
 <p class="tg-quote-footer"><cite><sup id="cite_ref-Sothebys_1-2" class="reference"><a href="#cite_note-Sothebys-1">[1]</a></sup></cite></p>
 </blockquote>

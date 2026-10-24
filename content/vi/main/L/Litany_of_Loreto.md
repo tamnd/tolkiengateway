@@ -18,7 +18,7 @@ images:
   - "J.R.R._Tolkien_-_Litany_of_Loreto.png"
 ---
 
-<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Litany_of_Loreto.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/J.R.R._Tolkien_-_Litany_of_Loreto.png/350px-J.R.R._Tolkien_-_Litany_of_Loreto.png" decoding="async" loading="lazy" width="350" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/J.R.R._Tolkien_-_Litany_of_Loreto.png/525px-J.R.R._Tolkien_-_Litany_of_Loreto.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/J.R.R._Tolkien_-_Litany_of_Loreto.png/700px-J.R.R._Tolkien_-_Litany_of_Loreto.png 2x" data-file-width="740" data-file-height="279"/></a><figcaption>Excerpt from the manuscript</figcaption></figure>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Litany_of_Loreto.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/J.R.R._Tolkien_-_Litany_of_Loreto.png/350px-J.R.R._Tolkien_-_Litany_of_Loreto.png" decoding="async" loading="lazy" width="350" height="132" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/J.R.R._Tolkien_-_Litany_of_Loreto.png/525px-J.R.R._Tolkien_-_Litany_of_Loreto.png 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/J.R.R._Tolkien_-_Litany_of_Loreto.png/700px-J.R.R._Tolkien_-_Litany_of_Loreto.png 2x" data-file-width="740" data-file-height="279"/></a><figcaption>Trích từ bản thảo</figcaption></figure>
 
 **Kinh cầu Loreto** là bản dịch chưa hoàn chỉnh của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Litany_of_the_Blessed_Virgin_Mary" title="wikipedia:Litany of the Blessed Virgin Mary">Kinh cầu Loreto</a></i> từ [tiếng Latinh](Latin.md) sang [Quenya](../Q/Quenya.md) do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện vào những năm 1950. Nó được xuất bản trong [*Vinyar Tengwar*, Số 44](../V/Vinyar_Tengwar_44.md), tháng 6 năm 2002 trong [2002](../_/2002.md), được biên tập bởi [Patrick H. Wynne](../P/Patrick_H._Wynne.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md). Nó chỉ bao gồm lời cầu nguyện Ba Ngôi và năm tước hiệu đầu tiên của [Đức Trinh Nữ Maria](../V/Virgin_Mary.md).
 
@@ -42,17 +42,17 @@ Trong [1944](../_/1944.md), Tolkien đã khuyên con trai mình [Christopher](..
 <dd><i>Amille Eruva lisseo arca atarme.</i></dd></dl>
 </td>
 <td>
-<dl><dd><dl><dd>Lord, have mercy on us.</dd>
-<dd>O Christ, have mercy on us</dd>
-<dd>Father of heaven, God, have mercy on us.</dd>
-<dd>O Son of God, Redeemer of the world, God, have mercy on us.</dd>
-<dd>O Holy Spirit, God, have mercy on us.</dd>
-<dd>O Holy Trinity, one God, have mercy on us.</dd>
-<dd>O Holy Mary, pray for us.</dd>
-<dd>Holy Mother of God, pray for us.</dd>
-<dd>Holy Virgin of virgins, pray for us.</dd>
-<dd>Mother of Christ, pray for us.</dd>
-<dd>Mother of divine grace, pray for us.</dd></dl></dd></dl>
+<dl><dd><dl><dd>Lạy Chúa, xin thương xót chúng con.</dd>
+<dd>Lạy Chúa Kitô, xin thương xót chúng con</dd>
+<dd>Lạy Cha Thiên Thượng, xin thương xót chúng con.</dd>
+<dd>Lạy Con Thiên Chúa, Đấng Cứu Chuộc thế giới, xin thương xót chúng con.</dd>
+<dd>Lạy Chúa Thánh Thần, xin thương xót chúng con.</dd>
+<dd>Lạy Chúa Ba Ngôi Chí Thánh, xin thương xót chúng con.</dd>
+<dd>Lạy Thánh Maria, xin cầu cho chúng con.</dd>
+<dd>Lạy Mẹ Thiên Chúa, xin cầu cho chúng con.</dd>
+<dd>Lạy Thánh Trinh Nữ của các trinh nữ, xin cầu cho chúng con.</dd>
+<dd>Lạy Mẹ Chúa Kitô, xin cầu cho chúng con.</dd>
+<dd>Lạy Mẹ đầy ơn thánh, xin cầu cho chúng con.</dd></dl></dd></dl>
 </td></tr></tbody></table>
 
 ## Liên kết ngoài {#External_links}

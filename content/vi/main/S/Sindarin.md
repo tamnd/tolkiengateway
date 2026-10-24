@@ -193,10 +193,10 @@ Sindarin được thiết kế để có hệ thống âm vị giống tiếng [
 <td>Sindarin <i>ê</i> is pronounced for an even longer duration than Sindarin <i>é</i>, usually in single-syllable words. But it is permissible to pronounce it the same as <i>é</i>.
 </td></tr>
 <tr>
-<td>ôi</td>
+<td>ei</td>
 <td><span title="Pronunciation in IPA" class="IPA">ɛ͡ɪ</span></td>
 <td><a href="../G/Gil-galad.md" title="Gil-galad">Er<b>ei</b>nion</a></td>
-<td>Sindarin <i>ei</i> gần giống nhất với <i>ey</i> trong từ <i>grey</i> của tiếng Anh, luôn có âm lướt cuối <i>y</i>.
+<td>sːindarin <i>ei</i> gần giống nhất với <i>ey</i> trong từ <i>grey</i> của tiếng Anh, luôn có âm lướt cuối <i>y</i>.
 </td></tr>
 <tr>
 <td>f</td>

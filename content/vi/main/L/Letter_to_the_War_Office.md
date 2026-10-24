@@ -25,7 +25,7 @@ Vào [2 tháng 1](../_/2_January.md) [1917](../_/1917.md), [J.R.R. Tolkien](../J
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Sir,<br/>I have the honour to report myself for further orders.<br/>My address on Jan 12th. 1917. will be at<br/>185 Monument Road<br/>Edgbaston<br/>Birmingham<br/><br/>I have the honour to be,<br/>Sir,<br/>Your obedient servant.<br/><br/>JRR Tolkien
+<p>Thưa ông,<br/>Tôi rất vinh dự được trình diện để nhận các đơn đặt hàng tiếp theo.<br/>Địa chỉ của tôi vào ngày 12 tháng 1. 1917. sẽ có mặt tại<br/>185 Monument Road<br/>Edgbaston<br/>Birmingham<br/><br/>Tôi rất vinh dự được,<br/>Thưa ngài,<br/>người hầu ngoan ngoãn của ngài.<br/><br/>JRR Tolkien
 </p>
 </blockquote>
 

@@ -28,7 +28,7 @@ Với những tác phẩm nổi tiếng như Chúa tể của những chiếc nh
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Miss Byrne<br/><br/>‘Teenage’ is a long period, and there is a vast gap between one’s thirteenth birthday and one’s twentieth. I can name no book that influenced me deeply as a book. I found certain elements in books that I liked and stored away in memory. During most of this period I was not interested in ‘Literature’. In the early part of this period things I read with most pleasure were most scientific in reference, especially botany and astronomy. My most treasured volume was John’s Flowers of the Field, an account of the flora of the British Isles.<br/><br/>Yours Sincerely<br/>J.R.R. Tolkien
+<p>Cô Byrne thân mến<br/><br/>'Tuổi thiếu niên' là một khoảng thời gian dài và có một khoảng cách rất lớn giữa sinh nhật thứ mười ba và tuổi hai mươi của một người. Tôi không thể kể tên cuốn sách nào có ảnh hưởng sâu sắc đến tôi như cuốn sách. Tôi tìm thấy những chi tiết nhất định trong những cuốn sách mà tôi thích và lưu giữ trong trí nhớ. Trong phần lớn thời gian này, tôi không quan tâm đến 'Văn học'. Vào đầu thời kỳ này, những thứ tôi đọc với niềm vui nhất đều có tính chất khoa học nhất, đặc biệt là thực vật học và thiên văn học. Tập sách quý giá nhất của tôi là Những bông hoa trên cánh đồng của John, kể về hệ thực vật trên Quần đảo Anh.<br/><br/>Trân trọng<br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

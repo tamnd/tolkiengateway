@@ -23,7 +23,7 @@ Vào [12 tháng 12](../_/12_December.md) [1955](../_/1955.md), [J.R.R. Tolkien](
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Tolkien remarked that the reviewer should not have made such a fuss over giving quarters to <a href="../O/Orcs.md" title="Orcs">orcs</a>. &#39;Surely how often &#34;quarter&#34; is given is off the point in a book that breathes Mercy from start to finish: in which the central hero is at last divested of all arms, except his will? &#34;Forgive us our trespasses as we forgive them that trespass against us. Lead us not into temptation, but deliver us from evil&#34;, are words that occur to me, and of which the scene, in the <a href="../C/Cracks_of_Doom.md" title="Cracks of Doom">Sammath Naur</a> was meant to be a &#34;fairy-story&#34; exemplum ...&#39;
+<p>Tolkien nhận xét rằng người đánh giá lẽ ra không nên làm ầm ĩ về việc chia phần tư cho <a href="../O/Orcs.md" title="Orcs">orc</a>. 'Chắc chắn tần suất "một phần tư" được đưa ra là không phù hợp trong một cuốn sách mang hơi thở của Lòng thương xót từ đầu đến cuối: trong đó nhân vật trung tâm cuối cùng bị tước bỏ mọi cánh tay, ngoại trừ ý chí của ông? "Xin tha tội cho chúng tôi như chúng tôi cũng tha kẻ có nợ chúng tôi. Xin chớ để chúng tôi bị cám dỗ mà cứu chúng tôi khỏi điều ác", là những lời tôi chợt nghĩ đến và cảnh trong <a href="../C/Cracks_of_Doom.md" title="Cracks of Doom">Sammath Naur</a> được coi là một ví dụ về "câu chuyện cổ tích" ...'
 </p>
 <p class="tg-quote-footer"><cite><sup id="cite_ref-TS_3-2" class="reference"><a href="#cite_note-TS-3">[3]</a></sup></cite></p>
 </blockquote>

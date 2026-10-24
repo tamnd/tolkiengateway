@@ -94,7 +94,7 @@ Bảng sau đây trình bày cách phát âm của từng chữ cái hoặc cụ
 <tr>
 <td>á
 </td>
-<td>như trong f<b>a</b>ther
+<td>as in f<b>a</b>ther
 </td>
 <td>[ɑː]
 </td>
@@ -137,7 +137,7 @@ Bảng sau đây trình bày cách phát âm của từng chữ cái hoặc cụ
 <td>không bao giờ như trong<b>au</b>ce
 </td></tr>
 <tr>
-<td>ei
+<td>aw
 </td>
 <td>(trong Sindarin) cách viết thông dụng <i>au</i> ở cuối từ
 </td>
@@ -173,7 +173,7 @@ Bảng sau đây trình bày cách phát âm của từng chữ cái hoặc cụ
 <td>Phát âm Hobbit nông thôn cho phép phát âm như trong tiếng Anh r<b>ai</b>n
 </td></tr>
 <tr>
-<td>ôi
+<td>ei
 </td>
 <td>as in <b>ei</b>ght
 </td>
@@ -292,7 +292,7 @@ Bảng sau đây trình bày cách phát âm của từng chữ cái hoặc cụ
 <tr>
 <td>ú
 </td>
-<td>như trong c<b>oo</b>l
+<td>as in c<b>oo</b>l
 </td>
 <td>[uː]
 </td>
@@ -319,7 +319,7 @@ Bảng sau đây trình bày cách phát âm của từng chữ cái hoặc cụ
 <tr>
 <td>ý
 </td>
-<td>(bằng Sindarin) như trong tiếng Pháp l<b>u</b>ne hoặc s<b>ü</b>ß trong tiếng Đức
+<td>(in Sindarin) as in French l<b>u</b>ne or German s<b>ü</b>ß
 </td>
 <td>[yː]
 </td>

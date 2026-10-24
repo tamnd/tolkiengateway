@@ -14,7 +14,7 @@ images:
   - "Feanor_Cover.png"
 ---
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Feanor_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>CD Artwork by permission of Ted Nasmith</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Feanor_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>CD Tác phẩm nghệ thuật được sự cho phép của Ted Nasmith</figcaption></figure>
 
 Bản ghi demo hoàn chỉnh tác phẩm opera của nhà soạn nhạc Paul Corfield Godfrey [Fëanor, Op. 46 (Opera)](<Fëanor,_Op._46_(Opera).md>) từ chu kỳ *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và được Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2022.
 
@@ -72,47 +72,47 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tr>
 <td>3
 </td>
-<td>Then Elbereth beheld the darkness
+<td>Sau đó Elbereth nhìn thấy bóng tối
 </td></tr>
 <tr>
 <td>4
 </td>
-<td>And as a blue fire flickered
+<td>Và như một ngọn lửa xanh bập bùng
 </td></tr>
 <tr>
 <td>5
 </td>
-<td>Many waters flowed down thither
+<td>Nhiều dòng nước chảy về đó
 </td></tr>
 <tr>
 <td>6
 </td>
-<td>Scene Two: Last of all
+<td>Cảnh thứ hai: Cuối cùng
 </td></tr>
 <tr>
 <td>7
 </td>
-<td>This is the counsel of the one
+<td>Đây là lời khuyên của một người
 </td></tr>
 <tr>
 <td>8
 </td>
-<td>This is the noontide
+<td>Đây là buổi trưa
 </td></tr>
 <tr>
 <td>9
 </td>
-<td>Scene Three: In that time was born
+<td>Cảnh thứ ba: Vào thời điểm đó được sinh ra
 </td></tr>
 <tr>
 <td>10
 </td>
-<td>And it came to pass
+<td>Và nó đã xảy ra
 </td></tr>
 <tr>
 <td>11
 </td>
-<td>As three great jewels they were
+<td>Như ba viên ngọc lớn, họ
 </td></tr></tbody></table>
 
 #### Đĩa: 2 {#Disc:_2}
@@ -121,12 +121,12 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tbody><tr>
 <td>1
 </td>
-<td>Scene Four: And Melkor lusted for the Silmarils
+<td>Cảnh 4: Và Melkor thèm khát Silmaril
 </td></tr>
 <tr>
 <td>2
 </td>
-<td>Beware! Small love has the proud son of Miriel
+<td>Hãy coi chừng! Tình yêu nhỏ có cậu con trai đáng tự hào Miriel
 </td></tr>
 <tr>
 <td>3
@@ -141,22 +141,22 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tr>
 <td>5
 </td>
-<td>Scene Five: Beneath the sheer walls of the mountains
+<td>Cảnh thứ năm: Bên dưới những vách núi dựng đứng
 </td></tr>
 <tr>
 <td>6
 </td>
-<td>Do as I bid
+<td>Làm như tôi đặt giá thầu
 </td></tr>
 <tr>
 <td>7
 </td>
-<td>As I promised
+<td>Như tôi đã hứa
 </td></tr>
 <tr>
 <td>8
 </td>
-<td>And even as Feanor and Fingolfin stood
+<td>Và ngay cả khi Feanor và Fingolfin đứng
 </td></tr>
 <tr>
 <td>9
@@ -171,7 +171,7 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tr>
 <td>11
 </td>
-<td>Blood and darkness
+<td>Máu và bóng tối
 </td></tr>
 <tr>
 <td>12
@@ -181,12 +181,12 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tr>
 <td>13
 </td>
-<td>Be he friend or foe
+<td>Là bạn hay thù
 </td></tr>
 <tr>
 <td>14
 </td>
-<td>Against the folly
+<td>Chống lại sự điên rồ
 </td></tr>
 <tr>
 <td>15
@@ -201,27 +201,27 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tr>
 <td>17
 </td>
-<td>You renounce your friendship
+<td>Bạn từ bỏ tình bạn của mình
 </td></tr>
 <tr>
 <td>18
 </td>
-<td>Then swords were drawn
+<td>Rồi những thanh kiếm được rút ra
 </td></tr>
 <tr>
 <td>19
 </td>
-<td>Scene Eight: The way was long
+<td>Cảnh 8: Con đường còn dài
 </td></tr>
 <tr>
 <td>20
 </td>
-<td>Tears unnumbered ye shall shed
+<td>Nước mắt không đếm xuể các ngươi sẽ rơi
 </td></tr>
 <tr>
 <td>21
 </td>
-<td>We have sworn
+<td>Chúng tôi đã thề
 </td></tr>
 <tr>
 <td>22
@@ -231,7 +231,7 @@ Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 <tr>
 <td>23
 </td>
-<td>Now what ships and rowers
+<td>Bây giờ những con tàu và người chèo thuyền
 </td></tr>
 <tr>
 <td>24

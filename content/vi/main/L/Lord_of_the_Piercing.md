@@ -24,8 +24,8 @@ Tác phẩm nhại có sự tham gia của Jack Black và Sarah Michelle Gellar 
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Role</th>
-<th>Actor
+<th>Vai trò</th>
+<th>Diễn viên
 </th></tr>
 <tr>
 <td>Jack the Elf</td>

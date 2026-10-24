@@ -24,11 +24,11 @@ langlinks:
 Shadowmere được nhắc đến trong [Bilbo bài hát](../B/Bilbo_Baggins.md) [bài hát](../E/Eärendil_was_a_mariner.md) của [Eärendil](../E/Eärendil.md) trong [Rivendell](../R/Rivendell.md):<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>where pale as glass<br/>
-beneath the Hill of <a href="../I/Ilmarin.md" title="Ilmarin">Ilmarin</a><br/>
-a-glimmer in a valley sheer<br/>
-the lamplit towers of <a href="../T/Tirion.md" title="Tirion">Tirion</a><br/>
-are mirrored on the Shadowmere.
+<p>nơi nhợt nhạt như thủy tinh<br/>
+bên dưới ngọn đồi <a href="../I/Ilmarin.md" title="Ilmarin">Ilmarin</a><br/>
+a-lấp lánh trong một thung lũng tuyệt đẹp<br/>
+những ngọn tháp thắp đèn <a href="../T/Tirion.md" title="Tirion">Tirion</a><br/>
+được phản ánh trên Shadowmere.
 </p>
 </blockquote>
 
@@ -43,10 +43,10 @@ Vì nó chỉ phản chiếu ánh sáng của thành phố Tirion nên "nó hẳ
 Trong phiên bản đầu tiên của [Galadriel Bài hát](../G/Galadriel's_Song.md), xuất hiện những dòng:
 
 <blockquote class="tg-quote noexcerpt">
-<p>And by the strand of Tirion there grew a golden Tree.<br/>
-Beneath the stars of Ever eve in Eldamar it shone,<br/>
-In Eldamar beside the walls of Elven Tirion.<br/>
-But far away and far away beyond the <b>Shadow-meres</b><i></i>
+<p>Và ở sợi dây Tirion mọc lên một Cây vàng.<br/>
+Dưới những vì sao của đêm trước Eldamar nó tỏa sáng,<br/>
+Ở Eldamar bên cạnh bức tường của Tiên Tirion.<br/>
+Nhưng xa và xa quá <b>Bóng Tối-meres</b><i></i>
 </p>
 </blockquote>
 

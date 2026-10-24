@@ -22,7 +22,7 @@ images:
   - "Quentandil_-_Gnome_Banners.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Lúthien</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Lúthien_(disambiguation).md" title="Lúthien (disambiguation)">Lúthien (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Lúthien</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Lúthien_(disambiguation).md" title="Lúthien (disambiguation)">Lúthien (định hướng)</a></b>.</div></div>
 
 **Lúthien** con trai của [Gelmir](../F/Finwë.md#Other_version_of_the_legendarium) là một [Gnome](../G/Gnome.md), theo phiên bản đầu tiên của [huyền thoại](Legendarium.md) trong một đoạn văn xuôi sau *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Prose_1-0" class="reference"><a href="#cite_note-Prose-1">[1]</a></sup>
 

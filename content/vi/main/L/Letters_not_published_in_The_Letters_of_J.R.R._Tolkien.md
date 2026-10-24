@@ -21,7 +21,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Letters</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Letters_(disambiguation).md" title="Letters (disambiguation)">Letters (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Chữ cái</b> đề cập đến nhiều ký tự, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, hãy xem <b><a class="mw-disambig" href="Letters_(disambiguation).md" title="Letters (disambiguation)">Chữ cái (định hướng)</a></b>.</div></div>
 
 *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* là một tập hợp lớn các chữ cái [Tolkien](../J/J.R.R._Tolkien.md), nhưng nó vẫn chưa hoàn chỉnh. Dưới đây là một số chữ cái không được đưa vào bộ sưu tập hoặc chỉ một phần.
 
@@ -462,7 +462,7 @@ Một vài bức thư của Tolkien gửi <a class="extiw" href="http://en.wikip
 Trong các năm [1953](../_/1953.md)-[72](../_/1972.md), Tolkien tương ứng với <a class="new" href="https://tolkiengateway.net/w/index.php?title=R.W._Burchfield&amp;action=edit&amp;redlink=1" title="R.W. Burchfield (page does not exist)">R.W. Burchfield</a>. Tập thư được lưu giữ tại [Thư viện Bodleian](../B/Bodleian_Library.md):<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>Correspondence between J.R.R. Tolkien and R.W. Burchfield, 1953-72. / <b>Shelfmark:</b> MS. Eng. c. 7284, fols. 1-16. / <b>Extent:</b> 16 leaves. / Comprises ten manuscript, and typescript letters, and one copy letter from Tolkien to Burchfield, relating to Burchfield&#39;s attendance at tutorials, his search for housing in Oxford, his application for funding for his research, his search for an academic post, his congratulations on the publication of The Fellowship of the Ring, an extension for his work on &#39;Ormulum&#39;, and Tolkien&#39;s edition of Ancrene Wisse: The English Text of the Ancrene Riwle, and one letter from Burchfield to Tolkien relating to the printing of Ancrene Wisse. Also a description of the letters by Elizabeth Burchfield, widow of R.W. Burchfield. / <b>Acquisition:</b> Bequest of R.W. Burchfield, per Elizabeth Burchfield, Dec. 2004.
+<p>Thư từ giữa J.R.R. Tolkien và R.W. Burchfield, 1953-72. / <b>Ký hiệu:</b> MS. Anh. c. 7284 nhé các bạn. 1-16. / <b>Độ rộng:</b> 16 lá. / Bao gồm mười bản thảo, thư đánh máy và một bản sao thư từ Tolkien gửi cho Burchfield, liên quan đến việc Burchfield tham dự các buổi hướng dẫn, việc tìm kiếm nhà ở tại Oxford, đơn xin tài trợ cho nghiên cứu của ông, tìm kiếm một vị trí học thuật, lời chúc mừng về việc xuất bản The Fellowship of the Ring, phần mở rộng cho tác phẩm của ông về 'Ormulum', và ấn bản Ancrene Wisse: Văn bản tiếng Anh của Ancrene của Tolkien Riwle, và một lá thư của Burchfield gửi Tolkien liên quan đến việc in ấn Ancrene Wisse. Cũng là phần mô tả những bức thư của Elizabeth Burchfield, góa phụ của R.W. Burchfield. / <b>Mua lại:</b> Tuyên bố của R.W. Burchfield, theo Elizabeth Burchfield, tháng 12 năm 2004.
 </p>
 </blockquote>
 
@@ -475,7 +475,7 @@ Trong các năm [1953](../_/1953.md)-[72](../_/1972.md), Tolkien tương ứng v
 Trong một bài viết trên [*Locus* #149](Locus_149.md) ([1973](../_/1973.md)), tác giả khoa học viễn tưởng <a class="extiw" href="http://en.wikipedia.org/wiki/Sterling_E._Lanier" title="wikipedia:Sterling E. Lanier">Sterling E. Lanier</a> đề cập đến thư từ của ông với Tolkien, bao gồm "hàng chục lá thư". [John D. Rateliff](../J/John_D._Rateliff.md) đã cung cấp đoạn trích sau từ bài viết của Lanier:<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
-<p>His last great legacy to the world, the <i>Silmarillion</i>, has been saved. He wrote me years ago, that it was done in verse! He seemed puzzled in a mild way, that at the time, no publisher seemed interested in it. I recall asking what he was doing for a comic or light element, since no Hobbits existed this early. He agreed this was a problem, but felt it could be solved. I can&#39;t wait.&#34;
+<p>Di sản vĩ đại cuối cùng của ông đối với thế giới, <i>Silmarillion</i>, đã được bảo tồn. Ông đã viết cho tôi cách đây nhiều năm, rằng nó được thực hiện bằng thơ! Ông có vẻ bối rối một cách nhẹ nhàng, rằng vào thời điểm đó, dường như không có nhà xuất bản nào quan tâm đến nó. Tôi nhớ mình đã hỏi ông đang làm gì cho một bộ truyện tranh hoặc yếu tố nhẹ nhàng, vì Hobbit chưa tồn tại sớm như vậy. Ông đồng ý rằng đây là một vấn đề, nhưng cảm thấy nó có thể giải quyết được. Tôi không thể chờ đợi được."
 </p>
 </blockquote>
 
@@ -496,7 +496,7 @@ Tập hợp các lá thư của Tolkien gửi [Hội](../T/The_Society.md) đư�
 Trong bài viết "Tolkien's time in 'Erin'" (sắp xuất bản bản dịch tiếng Ireland của *The Hobbit*), đăng trên *The Irish Times* ngày 17 tháng 3 năm 2012, Tiến sĩ Tom Hogan có đề cập rằng Tolkien:
 
 <blockquote class="tg-quote noexcerpt">
-<p>stayed many times in our house on visits to Ireland. These visits started in the 1950s. He came to Ireland for a couple of weeks each year acting as an external examiner of English in UCD. He worked alongside my late father Jeremiah who was professor of English there at the time. A number of letters from Tolkien to us are in my possession.
+<p>đã ở lại nhà chúng tôi nhiều lần trong những chuyến thăm Ireland. Những chuyến thăm này bắt đầu vào những năm 1950. Ông đến Ireland vài tuần mỗi năm với vai trò là giám khảo bên ngoài môn tiếng Anh tại UCD. Ông làm việc cùng với người cha quá cố của tôi, Jeremiah, giáo sư tiếng Anh ở đó vào thời điểm đó. Một số lá thư Tolkien gửi cho chúng tôi hiện thuộc quyền sở hữu của tôi.
 </p>
 </blockquote>
 

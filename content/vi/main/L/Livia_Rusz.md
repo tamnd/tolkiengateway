@@ -25,7 +25,7 @@ infobox:
     value: "Comics"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Livia Rusz</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/28_September.md" title="28 September">September 28</a>, <a href="../_/1930.md" title="1930">1930</a></td></tr><tr><th scope="row" class="tg-infobox-label">Style</th><td class="tg-infobox-data">Comics</td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Livia Rusz</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh</th><td class="tg-infobox-data"><a href="../_/28_September.md" title="28 September">September 28</a>, <a href="../_/1930.md" title="1930">1930</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phong cách</th><td class="tg-infobox-data">Comics</td></tr></tbody></table>
 
 **Livia Rusz** (còn gọi là Livia Rusz) là một họa sĩ đồ họa người Romania và Hungary, nổi tiếng với các tác phẩm minh họa, truyện tranh và thể loại truyện tranh.
 

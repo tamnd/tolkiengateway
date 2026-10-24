@@ -29,10 +29,10 @@ images:
   - "Decipher_-_Ghân-buri-Ghân.jpg"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a></div></div>
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
-<p>We have a long way to go, and there is time ahead for thought.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
+<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
@@ -41,9 +41,9 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 
 <table class="TGtable" style="width:80%;text-align:center;margin-left:auto;margin-right:auto;">
 <tbody><tr>
-<th style="width:50px;">Image
+<th style="width:50px;">Hình ảnh
 </th>
-<th style="width:150px">Name
+<th style="width:150px">Tên
 </th>
 <th style="width:200px">Game text
 </th>
@@ -53,7 +53,7 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </th>
 <th>Culture
 </th>
-<th style="width:100px">Type
+<th style="width:100px">Loại
 </th>
 <th>Tw
 </th>
@@ -70,52 +70,52 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>•The One Ring,<br/> Isildur&#39;s Bane
 </td>
-<td><b>Response:</b> If bearer is about to take a wound, he wears The One Ring until the regroup phase.
-<p>While wearing The One Ring, each time the Ring-bearer is about to take a wound, add 2 burdens instead.
+<td><b>Phản hồi:</b> Nếu người mang sắp bị thương, ông sẽ đeo Nhẫn Chúa cho đến giai đoạn tập hợp lại.
+<p>Khi đeo Nhẫn Chúa, mỗi lần Người Mang Nhẫn sắp bị thương, thay vào đó hãy thêm 2 gánh nặng.
 </p>
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>The One Ring
+<td>Nhẫn Chúa
 </td>
-<td>N/A
-</td>
-<td>+1
+<td>Không áp dụng
 </td>
 <td>+1
 </td>
-<td>N/A
+<td>+1
+</td>
+<td>Không áp dụng
 </td>
 <td>R
 </td></tr>
 <tr>
 <td><span typeof="mw:File"><a class="mw-file-description" href="../../file/D/Decipher_-_TheOneRing-Isldur&#39;sBane-T.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/03/Decipher_-_TheOneRing-Isldur%27sBane-T.jpg/150px-Decipher_-_TheOneRing-Isldur%27sBane-T.jpg" decoding="async" loading="lazy" width="150" height="209" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/03/Decipher_-_TheOneRing-Isldur%27sBane-T.jpg/225px-Decipher_-_TheOneRing-Isldur%27sBane-T.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/03/Decipher_-_TheOneRing-Isldur%27sBane-T.jpg/300px-Decipher_-_TheOneRing-Isldur%27sBane-T.jpg 2x" data-file-width="357" data-file-height="497"/></a></span>
 </td>
-<td>•The One Ring,<br/> Isildur&#39;s Bane<br/> (Tengwar version)
+<td>•Chiếc nhẫn duy nhất,<br/> Tai ương của Isildur<br/> (phiên bản Tengwar)
 </td>
-<td><b>Response:</b> If bearer is about to take a wound, he wears The One Ring until the regroup phase.
-<p>While wearing The One Ring, each time the Ring-bearer is about to take a wound, add 2 burdens instead.
+<td><b>Phản hồi:</b> Nếu người mang sắp bị thương, ông sẽ đeo Nhẫn Chúa cho đến giai đoạn tập hợp lại.
+<p>Khi đeo Nhẫn Chúa, mỗi lần Người Mang Nhẫn sắp bị thương, thay vào đó hãy thêm 2 gánh nặng.
 </p>
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>The One Ring
+<td>Nhẫn Chúa
 </td>
-<td>N/A
-</td>
-<td>+1
+<td>Không áp dụng
 </td>
 <td>+1
 </td>
-<td>N/A
+<td>+1
+</td>
+<td>Không áp dụng
 </td>
 <td>R
 </td></tr>
@@ -124,25 +124,25 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>The One Ring,<br/> The Ruling Ring
 </td>
-<td><b>Response:</b> If bearer is about to take a wound in a skirmish, he wears The One Ring until the regroup phase.
-<p>While wearing The One Ring, each time the Ring-bearer is about to take a wound during a skirmish, add a burden instead.
+<td><b>Phản hồi:</b> Nếu người mang sắp bị thương trong một cuộc giao tranh, ông sẽ đeo Nhẫn Chúa cho đến giai đoạn tập hợp lại.
+<p>Khi đeo Nhẫn Chúa, mỗi lần Người Mang Nhẫn chuẩn bị bị thương trong một cuộc giao tranh, thay vào đó hãy thêm một gánh nặng.
 </p>
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>The One ring
+<td>Chiếc nhẫn một
 </td>
-<td>N/A
-</td>
-<td>+1
+<td>Không áp dụng
 </td>
 <td>+1
 </td>
-<td>N/A
+<td>+1
+</td>
+<td>Không áp dụng
 </td>
 <td>R
 </td></tr>
@@ -151,23 +151,23 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>Axe Strike
 </td>
-<td><b>Skirmish:</b> Make a Dwarf strength +2 (or +3 if bearing an axe).
+<td><b>Đấu tranh:</b> Tạo sức mạnh Người Lùn +2 (hoặc +3 nếu mang rìu).
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>Free
+<td>Miễn phí
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>0
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
 <td>C
 </td></tr>
@@ -176,23 +176,23 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>Battle Fury
 </td>
-<td><b>Skirmish:</b> Exert a Dwarf to make that Dwarf strength +3 and <b>damage +1</b>.
+<td><b>Đấu súng:</b> Sử dụng Người Lùn để khiến Người Lùn sức mạnh đó +3 và <b>sát thương +1</b>.
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>Free
+<td>Miễn phí
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>0
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
 <td>C
 </td></tr>
@@ -201,23 +201,23 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>Cleaving Blow
 </td>
-<td><b>Skirmish:</b> Make a Dwarf strength +2 and <b>damage +1</b>.
+<td><b>Đấu tranh:</b> Tạo Người Lùn sức mạnh +2 và <b>sát thương +1</b>.
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>Free
+<td>Miễn phí
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>0
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
 <td>C
 </td></tr>
@@ -226,23 +226,23 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>Delving
 </td>
-<td><b>Fellowship:</b> Exert a Dwarf companion to draw 3 cards.
+<td><b>Học bổng:</b> Sử dụng đồng đội Người Lùn rút 3 lá bài.
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>Free
+<td>Miễn phí
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td>
-<td>Event
+<td>Sự kiện
 </td>
 <td>1
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
 <td>C
 </td></tr>
@@ -251,15 +251,15 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>Dwarf Guard
 </td>
-<td>To play, spot a Dwarf.
+<td>Để chơi, hãy đánh dấu Người Lùn.
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>Free
+<td>Miễn phí
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td>
-<td>Companion • Dwarf
+<td>Nhân vật đồng hành • Người Lùn
 </td>
 <td>1
 </td>
@@ -276,23 +276,23 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>Dwarven Armor
 </td>
-<td>Bearer must be a Dwarf.<br/>Bearer may not be overwhelmed unless his strength is tripled.
+<td>Người gánh phải là Người Lùn.<br/>Người gánh không được bị choáng ngợp trừ khi sức mạnh của ông được tăng gấp ba lần.
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>Free
+<td>Miễn phí
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td>
 <td>Possession • Armor
 </td>
 <td>0
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
 <td>C
 </td></tr>
@@ -301,23 +301,23 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>Dwarven Axe
 </td>
-<td>Bearer must be a Dwarf.<br/>Each time a player&#39;s minion loses a skirmish to a bearer, that player discards the top card from his draw deck.
+<td>Người cầm bài phải là Người Lùn.<br/>Mỗi lần tay sai của người chơi thua trong cuộc giao tranh với người cầm bài, người chơi đó sẽ loại bỏ lá bài trên cùng khỏi bộ bài rút của mình.
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>Free
+<td>Miễn phí
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td>
-<td>Possession • Hand Weapon
+<td>Sở hữu • Vũ khí cầm tay
 </td>
 <td>0
 </td>
 <td>2
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
 <td>C
 </td></tr>
@@ -326,23 +326,23 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>Dwarven Hearth
 </td>
-<td>Bearer must be a Dwarf.<br/>When you play this condition, heal bearer up to 2 times. At the start of each of your turns, exert bearer.
+<td>Người mang phải là Người Lùn.<br/>Khi bạn chơi điều kiện này, hồi máu cho người mang tối đa 2 lần. Khi bắt đầu mỗi lượt của bạn, hãy sử dụng sức mạnh của người mang.
 </td>
 <td>The Fellowship of the Ring
 </td>
-<td>Free
+<td>Miễn phí
 </td>
-<td>Dwarven
+<td>Người Lùn
 </td>
-<td>Condition
+<td>Tình trạng
 </td>
 <td>0
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
-<td>N/A
+<td>Không áp dụng
 </td>
 <td>C
 </td></tr>
@@ -351,13 +351,13 @@ Trang này là **danh sách The Lord of the Rings thẻ trò chơi thẻ giao d�
 </td>
 <td>•Ghân-buri-Ghân,<br/> Chieftain of the Woses<br/><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 </td>
-<td>While you can spot 2 other Men, Ghân-buri-Ghân cannot be overwhelmed unless his strength is tripled.
-<p>While at a forest site, Ghân-buri-Ghân is defender <b>+1</b>.
+<td>Trong khi bạn có thể phát hiện ra 2 Con Người khác, Ghân-buri-Ghân không thể bị áp đảo trừ khi sức mạnh của hắn được tăng gấp ba lần.
+<p>Khi ở khu rừng, Ghân-buri-Ghân là người phòng thủ <b>+1</b>.
 </p>
 </td>
 <td>Promo
 </td>
-<td>Free
+<td>Miễn phí
 </td>
 <td>Gandalf
 </td>

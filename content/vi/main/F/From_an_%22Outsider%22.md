@@ -15,7 +15,7 @@ categories:
 **Từ "Người ngoài cuộc"** là tựa đề cuốn hồi ký được viết bởi [James Dundas-Grant](../J/James_Dundas-Grant.md) và được xuất bản lần đầu vào năm *[C.S. Lewis at the Beakfast Table and Other Reminiscences](../R/Remembering_C.S._Lewis.md)* (1979). Mặc dù trước hết là hồi ức về người thầy [C.S. Lewis](../C/C.S._Lewis.md), nhưng Dundas-Grant cũng nhớ lại những kỷ niệm về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Họ gặp nhau lần đầu tại phòng của Lewis ở Oxford vào [1944](../_/1944.md):
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>It was thus I came to meet [C.S. Lewis&#39;s] great friend Tolkien: tall, swept-back grey hair, restless. He read to us parts of his manuscript for <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, asking for criticism.
+<p>Thế là tôi đã gặp được người bạn lớn của [C.S. Lewis] Tolkien: cao lớn, tóc bạc ngược, bồn chồn. Ông đọc cho chúng tôi nghe một phần bản thảo của <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> và yêu cầu phê bình.
 </p>
 <p class="tg-quote-footer"><cite>&#34;From an &#39;Outsider&#39;&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -23,7 +23,7 @@ categories:
 Sau <a class="new" href="https://tolkiengateway.net/w/index.php?title=World_War_II&amp;action=edit&amp;redlink=1" title="World War II (page does not exist)">Chiến tranh thế giới thứ hai</a>, Dundas-Grant gia nhập [Inklings](../I/Inklings.md) tại [Eagle and Child](../E/Eagle_and_Child.md):
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>We met every Tuesday morning over a glass of beer. <a href="../W/Warren_Lewis.md" title="Warren Lewis">Warnie</a>, [C.S. Lewis&#39;s] brother, was there; MacCallum of Pembroke; Father <a href="../G/Gervase_Mathew.md" title="Gervase Mathew">Gervase Mathew</a>, O.P., from Blackfriars; Tolkien of Merton and Havard. Others came and went. We sat in a small back room with a fine coal fire in winter. Back and forth the conversation would flow. Latin tags flying around. Homer quoted in the original to make a point. And Tolkien, jumping up and down, declaiming in <a href="../O/Old_English.md" title="Old English">Anglo-Saxon</a>.
+<p>Chúng tôi gặp nhau vào mỗi sáng thứ Ba bên ly bia. <a href="../W/Warren_Lewis.md" title="Warren Lewis">Warnie</a>, anh trai của [C.S. Lewis], đã ở đó; MacCallum của Pembroke; Cha <a href="../G/Gervase_Mathew.md" title="Gervase Mathew">Gervase Mathew</a>, O.P., từ Blackfriars; Tolkien của Merton và Havard. Những người khác đến và đi. Chúng tôi ngồi trong căn phòng nhỏ phía sau với đống lửa than tốt vào mùa đông. Cuộc trò chuyện qua lại sẽ trôi chảy. Thẻ Latin bay xung quanh. Homer trích dẫn trong bản gốc để đưa ra quan điểm. Và Tolkien, nhảy lên nhảy xuống, kêu lên trong <a href="../O/Old_English.md" title="Old English">Anglo-Saxon</a>.
 </p>
 <p class="tg-quote-footer"><cite>&#34;From an &#39;Outsider&#39;&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

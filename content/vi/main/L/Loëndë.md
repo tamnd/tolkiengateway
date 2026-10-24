@@ -37,7 +37,7 @@ Trong [Tính toán mới](../N/New_Reckoning.md), *loëndë* là phần thứ ha
 
 *Loëndë* là từ ghép của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=End%C3%AB&amp;action=edit&amp;redlink=1" title="Endë (page does not exist)">endë</a></i> “giữa” và dạng hậu tố *-re* của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=R%C3%A9&amp;action=edit&amp;redlink=1" title="Ré (page does not exist)">ré</a></i> “ngày”. Bản dịch trực tiếp của *Loëndë* là ngày giữa nhưng nó thường được dịch là Ngày giữa năm.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../M/Mid-year&#39;s_Day.md" title="Mid-year&#39;s Day">Mid-year&#39;s Day</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../M/Mid-year&#39;s_Day.md" title="Mid-year&#39;s Day">Ngày giữa năm</a></div></div>
 
 <br>
 

@@ -27,7 +27,7 @@ Vào [9 tháng 5](../_/9_May.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.R
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr. Hart,<br/><br/>I find myself unexpectedly able to come to Cambridge this Saturday. I am being driven over by the Warden of Merton, who will be going back on the Sunday, but I shall not myself be obliged to return until some time on Monday. As far as I can see I shall be unoccupied on Sunday. It is very short notice but I wondered if this might be of any interest to you. I have written to Mr. Dufton in the same terms.<br/><br/>Yours sincerely,<br/><br/>J.R.R. Tolkien
+<p>Thưa ông Hart,<br/><br/>Tôi bất ngờ thấy mình có thể đến Cambridge vào thứ bảy này. Tôi đang được Giám đốc Merton chở đến, người sẽ quay lại vào Chủ nhật, nhưng bản thân tôi sẽ không bị buộc phải quay lại cho đến một thời điểm nào đó vào thứ Hai. Theo những gì tôi thấy thì tôi sẽ rảnh vào Chủ nhật. Thông báo này rất ngắn nhưng tôi tự hỏi liệu điều này có khiến bạn quan tâm không. Tôi đã viết thư cho ông Dufton với nội dung tương tự.<br/><br/>Trân trọng,<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

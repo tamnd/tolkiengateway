@@ -24,7 +24,7 @@ Trong thời gian [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>The languages have, of course, changed quite as much as the world and its stories to which they belong, and are now almost an <a href="../E/Ents.md" title="Ents">Entish</a> record of my own linguistic-æsthetic history, hardening at last with age. But you are quite right in your perceptions. <a href="../Q/Quenya.md" title="Quenya">Quenya</a> still retains the traces of the impact upon me of Finnish. <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> was deliberately composed to resemble (with a difference) Welsh, by working similar sound-changes on the simple basic <a href="../E/Eldarin.md" title="Eldarin">Eldarin</a> structure to those exhibited by Brythonic, especially Welsh.
+<p>Tất nhiên, các ngôn ngữ đã thay đổi khá nhiều theo thế giới và những câu chuyện mà chúng thuộc về, và giờ đây gần như là một bản ghi <a href="../E/Ents.md" title="Ents">Entish</a> về lịch sử ngôn ngữ-thẩm mỹ của chính tôi, cuối cùng trở nên cứng rắn hơn theo tuổi tác. Nhưng bạn hoàn toàn đúng trong nhận thức của mình. <a href="../Q/Quenya.md" title="Quenya">Quenya</a> vẫn còn lưu lại dấu vết ảnh hưởng của Phần Lan đối với tôi. <a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> được cố tình sáng tác để giống (với sự khác biệt) tiếng Wales, bằng cách thực hiện các thay đổi âm thanh tương tự trên cấu trúc <a href="../E/Eldarin.md" title="Eldarin">Eldarin</a> cơ bản đơn giản với cấu trúc do Brythonic thể hiện, đặc biệt là tiếng Wales.
 </p>
 <p class="tg-quote-footer"><cite><sup id="cite_ref-PE17_1-3" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup></cite></p>
 </blockquote>

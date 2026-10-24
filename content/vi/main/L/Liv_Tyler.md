@@ -31,26 +31,26 @@ infobox:
     value: "Profile"
 ---
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liv_Tyler.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/57/Liv_Tyler.jpg/320px-Liv_Tyler.jpg" decoding="async" loading="lazy" width="320" height="218" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/57/Liv_Tyler.jpg/480px-Liv_Tyler.jpg 1.5x, https://tolkiengateway.net/w/images/5/57/Liv_Tyler.jpg 2x" data-file-width="625" data-file-height="425"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Liv Tyler</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/1_July.md" title="1 July">July 1</a>, <a href="../_/1977.md" title="1977">1977</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../A/Arwen.md" title="Arwen">Arwen</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="http://www.imdb.com/name/nm0000239/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Liv_Tyler.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/57/Liv_Tyler.jpg/320px-Liv_Tyler.jpg" decoding="async" loading="lazy" width="320" height="218" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/57/Liv_Tyler.jpg/480px-Liv_Tyler.jpg 1.5x, https://tolkiengateway.net/w/images/5/57/Liv_Tyler.jpg 2x" data-file-width="625" data-file-height="425"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Liv Tyler</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin tiểu sử</span></th></tr><tr><th scope="row" class="tg-infobox-label">Sinh–mất</th><td class="tg-infobox-data"><a href="../_/1_July.md" title="1 July">July 1</a>, <a href="../_/1977.md" title="1977">1977</a></td></tr><tr><th scope="row" class="tg-infobox-label">Do ... thủ vai</th><td class="tg-infobox-data"><a href="../A/Arwen.md" title="Arwen">Arwen</a> trong:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="http://www.imdb.com/name/nm0000239/" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr></tbody></table>
 
 **Liv Rundgren Tyler** (sinh năm 1977) đóng vai [Arwen Evenstar](../A/Arwen.md) trong bộ ba [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Bà cũng đã thu âm một bài hát để đưa vào cảnh [Houses of Healing](../H/Houses_of_Healing.md) ở [*The Lord of the Rings: The Return of the King* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
 
 ## Trích dẫn {#Quotes}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>(on Arwen&#39;s and Aragorn&#39;s relationship) &#34;She has to be patient and supportive and let him go off and do the things that he has to do. But she is impatient, too. When you&#39;re in love, you want to spend all your time with that person, and she finds it difficult that they can&#39;t be together.
+<p>(về mối quan hệ của Arwen và Aragorn) "Bà phải kiên nhẫn, hỗ trợ và để ông tự do làm những việc ông phải làm. Nhưng bà cũng thiếu kiên nhẫn. Khi yêu, bạn muốn dành toàn bộ thời gian cho người đó, và bà cảm thấy khó khăn khi họ không thể ở bên nhau.
 </p>
 <p class="tg-quote-footer"><cite>Liv Tyler, <i><a href="../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">The Lord of the Rings: Official Movie Guide</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>It was a very good experience. It wasn&#39;t just to make a movie, it was my life. I was employed at The Lord of the Rings for a year and a half.
+<p>Đó là một trải nghiệm rất tốt. Đó không chỉ là làm một bộ phim, đó là cuộc sống của tôi. Tôi đã làm việc tại The Lord of the Rings được một năm rưỡi.
 </p>
 <p class="tg-quote-footer"><cite>Liv Tyler</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I see it as an honour to be one of only a few women in the picture and to bring the feminine touch to the story.
+<p>Tôi thấy thật vinh dự khi được là một trong số ít phụ nữ trong bức ảnh và mang nét nữ tính vào câu chuyện.
 </p>
 <p class="tg-quote-footer"><cite>Liv Tyler, <i><a href="../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md" title="The Lord of the Rings: Official Movie Guide">The Lord of the Rings: Official Movie Guide</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

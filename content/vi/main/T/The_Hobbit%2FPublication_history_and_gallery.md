@@ -135,7 +135,7 @@ Dưới đây được liệt kê là *major* **ấn bản tại Vương quốc 
 		<li class="gallerybox" style="width: 160px">
 			<div class="thumb" style="width: 155px; height: 155px;"><span typeof="mw:File"><a class="mw-file-description" href="../../file/T/The_Hobbit_1966-longmans.png.md" title="1966 hardcover"><img alt="1966 hardcover" src="https://tolkiengateway.net/w/images/thumb/c/cc/The_Hobbit_1966-longmans.png/81px-The_Hobbit_1966-longmans.png" decoding="async" loading="lazy" width="81" height="125" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/The_Hobbit_1966-longmans.png/122px-The_Hobbit_1966-longmans.png 1.5x, https://tolkiengateway.net/w/images/thumb/c/cc/The_Hobbit_1966-longmans.png/163px-The_Hobbit_1966-longmans.png 2x" data-file-width="326" data-file-height="500"/></a></span></div>
 			<div class="gallerytext">
-<p>bìa cứng năm 1966
+<p>1966 hardcover
 </p>
 			</div>
 		</li>

@@ -39,31 +39,31 @@ images:
 
 <table align="right" cellpadding="6" cellspacing="0" class="tginfobox floatright">
 <tbody><tr>
-<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">History of Arda</a>
+<th style="background:var(--tg-color-surface-5);border-top-left-radius:var(--tg-border-radius-large);border-top-right-radius:var(--tg-border-radius-large);" colspan="3"><a href="../H/History_of_Arda.md" title="History of Arda">Lịch sử Arda</a>
 </th></tr>
 <tr>
-<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../M/Music_of_the_Ainur.md" title="Music of the Ainur">Âm nhạc của các Ainur</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Timeline of Arda</a></b>
-</td></tr>
-<tr>
-<td style="padding-top: 0em; padding-bottom: 0em;">
-</td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Days before days</a>
+<td colspan="3"><b><a href="../T/Timeline.md" title="Timeline">Dòng thời gian Arda</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Years of the Trees</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../D/Days_before_days.md" title="Days before days">Những ngày trước thời đại</a>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Years of the Sun</a>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Trees.md" title="Years of the Trees">Thời đại Cây Hai Ngọn</a>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Ages of the Children of Ilúvatar</a></b>
+<td style="padding-top: 0em; padding-bottom: 0em;">
+</td>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../Y/Years_of_the_Sun.md" title="Years of the Sun">Những năm Mặt Trời</a>
+</td></tr>
+<tr>
+<td colspan="3"><b><a href="../A/Ages.md" title="Ages">Các Kỷ nguyên của Những Người Con của Ilúvatar</a></b>
 </td></tr>
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
@@ -88,20 +88,20 @@ images:
 <tr>
 <td style="padding-top: 0em; padding-bottom: 0em;">
 </td>
-<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Later Ages</a> <small>(up to present day)</small>
+<td colspan="2" style="padding-top: 0em; padding-bottom: 0em;"><a href="../L/Later_Ages.md" title="Later Ages">Sau Kỷ nguyên</a> <small>(tính đến thời điểm hiện tại)</small>
 </td></tr>
 <tr>
 <td colspan="3"><b><a href="../D/Dagor_Dagorath.md" title="Dagor Dagorath">Dagor Dagorath</a></b>
 </td></tr>
 <tr>
-<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Second Music of the Ainur</a></b>
+<td colspan="3"><b><a href="../S/Second_Music_of_the_Ainur.md" title="Second Music of the Ainur">Âm nhạc thứ hai của các Ainur</a></b>
 </td></tr>
 <tr>
-<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">See also: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Round World version of the legendarium</a></b>
+<td align="center" style="background:var(--tg-color-surface-3);border-bottom-left-radius:var(--tg-border-radius-large);border-bottom-right-radius:var(--tg-border-radius-large);" colspan="3">Xem thêm: <b><a href="../R/Round_World_version_of_the_legendarium.md" title="Round World version of the legendarium">Truyền thuyết phiên bản Round World</a></b>
 </td></tr></tbody></table>
 
 <center><div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The First Age ended with the Great Battle, in which the Host of Valinor broke Thangorodrim and overthrew Morgoth. Then most of the Noldor returned into the Far West and dwelt in Eressëa within sight of Valinor; and many of the Sindar went over Sea also.
+<p>Kỷ Đệ Nhất kết thúc bằng Trận chiến vĩ đại, trong đó Đội quân của Valinor đã phá vỡ Thangorodrim và lật đổ Morgoth. Sau đó, phần lớn Noldor quay trở lại Vùng Viễn Phương Tây và cư trú tại Eressëa trong tầm nhìn của Valinor; và nhiều Sindar cũng đã vượt qua Biển.
 </p>
 <p class="tg-quote-footer"><cite><i><a href="../A/Appendix_B.md" title="Appendix B"><i>Appendix B: The Tale of Years</i></a></i><sup id="cite_ref-Years_1-0" class="reference"><a href="#cite_note-Years-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div></center>
@@ -122,8 +122,8 @@ Theo các [loremasters](../L/Lambengolmor.md) của Valinorë, Kỷ Đệ Nhất
 
 ### Những Năm của Cây {#Years_of_the_Trees}
 
-<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Expansion</div></div><div class="ext-floatingui-content">This article or section needs <b>expansion</b> and/or modification. Please help the wiki by <a class="external text" href="https://tolkiengateway.net/w/index.php?title=First_Age&amp;action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.<blockquote class="tg-quote noexcerpt">
-<p>...It is a long tale...
+<div class="t-maintenance metadata"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/e/e2/CdxIconEdit.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Mở rộng</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được <b>mở rộng</b> và/hoặc sửa đổi. Hãy giúp đỡ wiki bằng cách <a class="external text" href="https://tolkiengateway.net/w/index.php?title=First_Age&amp;action=edit" rel="noreferrer noopener" target="_blank">mở rộng nó</a>.<blockquote class="tg-quote noexcerpt">
+<p>...Đó là một câu chuyện dài...
 </p>
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
@@ -134,10 +134,10 @@ Không lâu sau khi các Noldor đến, [Dagor-nuin-Giliath](../D/Dagor-nuin-Gil
 
 ### Những Năm của Mặt Trời {#Years_of_the_Sun}
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Rewrite</div></div><div class="ext-floatingui-content">This article or section needs to be rewritten to comply with Tolkien Gateway&#39;s <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">higher standards</a>...<blockquote class="tg-quote noexcerpt">
-<p>The wise will stay here and hope to rebuild our town...
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2d/CdxIconEditUndo.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Viết lại</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này cần được viết lại để tuân thủ <a href="../../project/M/Manual_of_Style.md" title="Tolkien Gateway:Manual of Style">tiêu chuẩn cao hơn</a>...<blockquote class="tg-quote noexcerpt">
+<p>Những người khôn ngoan sẽ ở lại đây và hy vọng xây dựng lại thị trấn của chúng ta...
 </p>
-<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a></cite></p>
+<p class="tg-quote-footer"><cite><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Chủ nhân Thị trấn Hồ</a></cite></p>
 </blockquote></div></div>
 
 Trong khi đó, các Valar đã xoay xở khôi phục bông hoa bạc cuối cùng và quả vàng cuối cùng của Hai Cây, từ đó tạo ra Mặt Trăng và Mặt Trời để ban cho thế giới một thứ ánh sáng mới; cùng với lần mặt trời mọc đầu tiên, [Sự Tỉnh thức của Con Người](../A/Awakening_of_Men.md), Những Người Con Thứ của Ilúvatar, đã diễn ra tại [Hildórien](../H/Hildórien.md).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup> Giống như các Eldar trước họ, họ bắt đầu di cư về [Phương Tây](../W/Westlands.md), nhưng phần lớn ở lại [Phương Đông](../R/Rhûn.md), hoặc tại [Rhovanion](../R/Rhovanion.md) và [Eriador](../E/Eriador.md).<sup id="cite_ref-Atani_5-1" class="reference"><a href="#cite_note-Atani-5">[5]</a></sup>
@@ -163,7 +163,7 @@ Những sự kiện đánh dấu hồi kết của Kỷ Đệ Nhất là sự s�
 ## Thuật ngữ {#Terminology}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The title of this second part, <i>The War of the Jewels</i>, is an expression that my father often used of the <b>last</b> six centuries of the First Age: the history of Beleriand after the return of Morgoth to Middle-earth and the coming of the Noldor, until its end.
+<p>Tiêu đề của phần thứ hai này, <i>The War of the Jewels</i>, là cách diễn đạt mà cha tôi thường sử dụng trong <b>sáu thế kỷ trước</b> của Kỷ Đệ Nhất: lịch sử của Beleriand sau khi Morgoth trở lại Trung Địa và sự xuất hiện của Noldor, cho đến khi nó kết thúc.
 </p>
 <p class="tg-quote-footer"><cite><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

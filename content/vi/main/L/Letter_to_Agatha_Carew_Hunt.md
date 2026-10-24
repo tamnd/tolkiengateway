@@ -26,7 +26,7 @@ Vào [4 tháng 10](../_/4_October.md) [1965](../_/1965.md), [J.R.R. Tolkien](../
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>I am v sorry that this note was not posted until now 4/10/65. A change of secretary and a load of work suddenly imposed on me by <a href="../A/Ace_Books.md" title="Ace Books">USA &#34;pirates&#34;</a> is responsible. I have just found this in a pile of neglect, clearing up before going away.<br/><br/>Best wishes<br/><br/>J.R.R. Tolkien
+<p>Tôi rất tiếc vì ghi chú này mới được đăng cho đến tận ngày 10/4/65. Việc thay đổi thư ký và khối lượng công việc đột ngột bị <a href="../A/Ace_Books.md" title="Ace Books">"cướp biển"Mỹ</a> áp đặt lên tôi phải chịu trách nhiệm. Tôi vừa tìm thấy cái này trong một đống đồ bỏ quên, dọn dẹp trước khi đi.<br/><br/>Chúc những điều tốt đẹp nhất<br/><br/>J.R.R. Tolkien
 </p>
 </blockquote>
 

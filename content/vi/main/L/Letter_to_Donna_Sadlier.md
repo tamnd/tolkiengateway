@@ -30,7 +30,7 @@ J.R.R. Tolkien Thư đánh máy đã ký. Một trang, 6" x 9", trên tiêu đ�
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p>It was most kind of you to write to me and please do not feel ashamed. As Miss Hall explained, I receive every day of the week, from all parts of the world, requests for autographs; because these requests are so numerous I really have to restrict autographs to family and friends. When you wrote originally, Miss Hill quite rightly told you that my wife had just died, and I am very touched by your kind card.* It was so thoughtful of you and I am very grateful.” [Tolkien has penned an asterisk after the word “card” and, after his signature, has again penned an asterisk and the word “*So” adding, in different type,] “I send you a little autograph slip to put in a copy of my work.”
+<p>Bạn thật tử tế khi viết thư cho tôi và xin đừng cảm thấy xấu hổ. Như cô Hall đã giải thích, tôi nhận được mọi ngày trong tuần, từ khắp nơi trên thế giới, những yêu cầu xin chữ ký; bởi vì những yêu cầu này quá nhiều nên tôi thực sự phải hạn chế chữ ký cho gia đình và bạn bè. Khi bạn viết thư ban đầu, cô Hill đã nói rất đúng với bạn rằng vợ tôi vừa qua đời, và tôi rất cảm động trước tấm thiệp tốt bụng của bạn.* Bạn thật chu đáo và tôi rất biết ơn”. [Tolkien đã viết một dấu hoa thị sau từ “thẻ” và sau chữ ký của ông, lại viết một dấu hoa thị và từ “*So” thêm vào, theo kiểu khác,] “Tôi gửi cho bạn một phiếu chữ ký nhỏ để sao chép tác phẩm của tôi.”
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote>

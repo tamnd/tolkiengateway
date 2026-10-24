@@ -27,6 +27,6 @@ Vào [3 tháng 12](../_/3_December.md) [1965](../_/1965.md), [J.R.R. Tolkien](..
 ## Bản ghi {#Transcript}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr. Lancashire,<br/><br/>Thank you very much for your kind letter. I am always pleased to hear from people who have read and enjoyed my books. I hope they will continue to give you pleasure.<br/>Yours sincerely,<br/>J. R. R. Tolkien<br/><br/>P.S. I much regret that I have no time for a longer answer.
+<p>Kính gửi ông Lancashire,<br/><br/>Cảm ơn ông rất nhiều vì bức thư tử tế của ông. Tôi luôn vui mừng khi được nghe ý kiến ​​từ những người đã đọc và yêu thích sách của tôi. Tôi hy vọng họ sẽ tiếp tục mang lại cho bạn niềm vui.<br/>Trân trọng,<br/>J. R. R. Tolkien<br/><br/>P.S. Tôi rất tiếc vì không có thời gian để trả lời dài hơn.
 </p>
 </blockquote>

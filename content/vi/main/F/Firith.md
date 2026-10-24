@@ -22,7 +22,7 @@ images:
 
 **Firith** là tên [Sindarin](../S/Sindarin.md) chỉ mùa cuối thu và được gọi là [Quellë](../Q/Quellë.md) trong [Quenya](../Q/Quenya.md). Trong [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) nó là mùa thứ tư trong sáu "mùa" và ít nhiều tương ứng với 54 ngày nằm trong khoảng từ [7 tháng 10](../_/7_October.md) đến [30 tháng 11](../_/30_November.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../N/Narbeleth.md" title="Narbeleth">Narbeleth</a></div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Xem thêm: <a href="../N/Narbeleth.md" title="Narbeleth">Narbeleth</a></div></div>
 
 <span></span>
 
@@ -35,20 +35,20 @@ images:
 
 <table style="text-align:center; margin: 0 auto; font-size: 90%" class="mw-collapsible mw-collapsed toccolours" align="center" width="70%">
 <tbody><tr>
-<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Calendar of Imladris</a></b>
+<td align="center" colspan="10" style="background: var(--tg-color-surface-5);"><b><a class="mw-redirect" href="../C/Calendar_of_Imladris.md" title="Calendar of Imladris">Lịch Imladris</a></b>
 </td></tr>
 <tr>
-<th align="center" style="background: var(--tg-color-surface-3);">Meaning:
+<th align="center" style="background: var(--tg-color-surface-3);">Ý nghĩa:
 </th>
-<td>&#39;First Day&#39;</td>
+<td>“Ngày đầu tiên”</td>
 <td>&#39;Spring&#39;</td>
 <td>&#39;Summer&#39;</td>
 <td>&#39;Autumn&#39;</td>
-<td>&#39;Middle Days&#39;</td>
+<td>“Những ngày giữa”</td>
 <td>&#39;Fading&#39;</td>
 <td>&#39;Winter&#39;</td>
 <td>&#39;Stirring&#39;</td>
-<td>&#39;Last Day&#39;
+<td>“Ngày cuối cùng”
 </td></tr>
 <tr>
 <th align="center" style="background: var(--tg-color-surface-3);"><a href="../Q/Quenya.md" title="Quenya">Quenya</a>:

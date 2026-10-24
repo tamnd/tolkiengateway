@@ -21,7 +21,7 @@ Vào [1 tháng 6](../_/1_June.md) [1961](../_/1961.md), [J.R.R. Tolkien](../J/J.
 ## Trích {#Excerpt}
 
 <blockquote class="tg-quote noexcerpt">
-<p>Dear Mr. Broberg,<br/><br/>I much regret that I shall not be in Oxford on the date that you suggest. I shall be away from the 19th June until the 15th July. I shall be in Bournemouth from July 4th. That is easily accessible from London and if the journey is worth the trouble to you merely for the purpose of seeing me I should be glad to give you a short interview. My address will be:<br/><br/> Hotel Miramar<br/>East Overcliff Drive<br/>Bournemouth, Hampshire<br/><br/>Yours sincerely,<br/><br/>J.R.R. Tolkien.
+<p>Thưa ông Broberg,<br/><br/>Tôi rất tiếc vì sẽ không có mặt ở Oxford vào ngày mà ông đề nghị. Tôi sẽ đi vắng từ ngày 19 tháng Sáu đến ngày 15 tháng Bảy. Tôi sẽ ở Bournemouth từ ngày 4 tháng 7. Bạn có thể dễ dàng đến đó từ Luân Đôn và nếu chuyến đi này đáng để bạn phải bận tâm chỉ vì mục đích gặp tôi thì tôi rất vui được trả lời bạn một cuộc phỏng vấn ngắn. Địa chỉ của tôi sẽ là:<br/><br/> Hotel Miramar<br/>phương Đông Overcliff Drive<br/>Bournemouth, Hampshire<br/><br/>Trân trọng,<br/><br/>J.R.R. Tolkien.
 </p>
 </blockquote>
 

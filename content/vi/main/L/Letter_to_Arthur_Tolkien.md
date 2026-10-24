@@ -27,7 +27,7 @@ Vào [14 tháng 2](../_/14_February.md) [1896](../_/1896.md), một [J.R.R. Tolk
 ## Trích {#Excerpt}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>I am so glad I am coming back to see you it is such a long time since we came away from you I hope the ship will bring us all back to you Mamie and <a href="../H/Hilary_Tolkien.md" title="Hilary Tolkien">Baby</a> and me ... I am got such a big man now because I have got a man&#39;s coat and a mans [<i>sic</i>] bodice ... Auntie Gracie [Grace Mountain <i>née</i> Tolkien] has been to see us I walk every day and only ride in my mailcart a little bit ... your loving Ronald.
+<p>Tôi rất vui vì tôi sẽ quay lại gặp bạn đã lâu lắm rồi chúng tôi mới rời xa bạn. Tôi hy vọng con tàu sẽ đưa tất cả chúng tôi trở lại với bạn Mamie, <a href="../H/Hilary_Tolkien.md" title="Hilary Tolkien">Baby</a> và tôi ... Bây giờ tôi đã có một người đàn ông to lớn như vậy vì tôi có một chiếc áo khoác nam và một chiếc vạt áo nam [<i>sic</i>] ... Dì Gracie [Grace Mountain <i>née</i> Tolkien] đã đến gặp chúng tôi. Tôi đi bộ hàng ngày và chỉ đi trên xe chở thư của mình a một chút... Ronald yêu quý của bạn.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

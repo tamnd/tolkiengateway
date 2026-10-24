@@ -33,7 +33,7 @@ Lámatyávë được thực hành khi Tiên tộc [đặt tên cho con cái](..
 ## Cảm hứng {#Inspiration}
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p>The names of persons and places in this story [...] [have] given perhaps more pleasure to more readers than anything else in it.
+<p>Tên của những người và địa điểm trong câu chuyện này […] [đã] có lẽ mang lại nhiều niềm vui cho nhiều độc giả hơn bất kỳ điều gì khác trong đó.
 </p>
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>

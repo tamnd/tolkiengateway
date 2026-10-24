@@ -28,12 +28,12 @@ Vào [25 tháng 1](../_/25_January.md) [1973](../_/1973.md), [J.R.R. Tolkien](..
 ## Phiên âm {#Transcription}
 
 <blockquote class="tg-quote noexcerpt">
-<p> Jan. 25th 1973
-Dear Mr Hunt,<br/>
-Thank you very much for your kind letter; it is most encouraging (to an author) to learn that his books have given pleasure and encouragement. <br/>
-I have had v. dark days of my own in my time, and I do hope that yours will soon now be over.<br/>
-With v. best wishes<br/>
-Yours sincerely<br/>
+<p> Ngày 25 tháng 1 năm 1973
+Thưa ông Hunt,<br/>
+Cảm ơn bạn rất nhiều vì lá thư tử tế của bạn; điều đáng khích lệ nhất (đối với một tác giả) là biết rằng những cuốn sách của ông đã mang lại niềm vui và sự khích lệ. <br/>
+Tôi đã có những ngày đen tối của riêng mình và tôi hy vọng rằng những ngày đó của bạn sẽ sớm kết thúc.<br/>
+Với v. lời chúc tốt đẹp nhất<br/>
+Trân trọng<br/>
 JRR Tolkien.
 </p>
 </blockquote>
