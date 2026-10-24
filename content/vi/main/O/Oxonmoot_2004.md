@@ -32,4 +32,4 @@ infobox:
 
 - <a class="external text" href="http://www.oxonmoot.org/" rel="noreferrer noopener" target="_blank">Trang web Oxonmoot</a>
     - <a class="external text" href="http://www.tolkiensociety.org/oxon/2004/index.html" rel="noreferrer noopener" target="_blank">Trang web Oxonmoot 2004</a>
-- <a class="external text" href="http://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">Trang web của Hiệp hội Tolkien</a>
+- <a class="external text" href="http://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">Hội Tolkien trang web</a>

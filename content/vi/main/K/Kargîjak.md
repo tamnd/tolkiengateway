@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brambles of Mordor"
 ---
 
-Chuyển hướng tới [Brambles of Mordor](../B/Brambles_of_Mordor.md).
+Chuyển hướng tới [Brambles của Mordor](../B/Brambles_of_Mordor.md).

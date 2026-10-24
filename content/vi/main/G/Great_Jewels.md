@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Silmarils"
 ---
 
-Chuyển hướng tới [Silmarils](../S/Silmarils.md).
+Chuyển hướng đến [Silmaril](../S/Silmarils.md).

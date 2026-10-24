@@ -49,11 +49,11 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Học bổng](../F/Fellowship.md) đi vào một khu rừng. [Gimli](../G/Gimli.md) bảo các hobbit hãy ở gần; ông đã nghe nói rằng có một phù thủy Elf vĩ đại sống trong khu rừng đó. Khi ông đang làm như vậy, [Frodo](../F/Frodo_Baggins.md) nghe thấy giọng nói của [Galadriel](../G/Galadriel.md) trong đầu ông, nói với ông rằng ông *"brings [great evil](../T/The_One_Ring.md)"* đang ở cùng ông. Gimli khoe rằng anh sẽ không bị cô gài bẫy, và khi nói xong, anh nhìn thấy những chiếc cung bị hạ gục ngay trước mặt mình, do [Yêu tinh](../E/Elves.md) nhắm tới. Điều này là như nhau đối với tất cả các thành viên của Hiệp hội. [Haldir](../H/Haldir.md) xuất hiện và nói *"tên lùn thở to đến mức chúng tôi có thể bắn hắn trong bóng tối"*.
+[Học bổng](../F/Fellowship.md) đi vào một khu rừng. [Gimli](../G/Gimli.md) bảo các hobbit ở gần; ông đã nghe nói rằng có một phù thủy Tiên vĩ đại sống trong khu rừng đó. Khi đang làm như vậy, [Frodo](../F/Frodo_Baggins.md) nghe thấy giọng nói của [Galadriel](../G/Galadriel.md) trong đầu, nói với anh rằng anh *"brings [great evil](../T/The_One_Ring.md)"* đang ở cùng mình. Gimli khoe rằng anh sẽ không bị cô gài bẫy, và khi anh nói xong, anh nhìn thấy những chiếc cung bị hạ gục ngay trước mặt mình, do [Tiên tộc](../E/Elves.md) nhắm tới. Điều này là như nhau đối với tất cả các thành viên của Hiệp hội. [Haldir](../H/Haldir.md) xuất hiện và nói *"tên lùn thở to đến mức chúng tôi có thể bắn hắn trong bóng tối"*.
 
-Sau đó, Haldir chính thức nhận được Học bổng trên một bục trên cây vào ban đêm. Ông chào đón [Legolas](Legolas.md) và [Aragorn](../A/Aragorn.md) một cách nồng nhiệt ở [Sindarin](../S/Sindarin.md), vì họ đều quen thuộc với ông. Gimli có phần bất bình vì điều này và xúc phạm Haldir, nhưng bị Aragorn khiển trách vì làm như vậy. Haldir nói với họ rằng họ có thể không đi xa hơn vì Frodo đang mang theo [Chiếc nhẫn](../T/The_One_Ring.md).
+Sau đó, Haldir chính thức nhận Học bổng trên bục trong rừng vào ban đêm. Ông chào [Legolas](Legolas.md) và [Aragorn](../A/Aragorn.md) một cách nồng nhiệt trong [Sindarin](../S/Sindarin.md), vì họ đã quen với ông. Gimli có phần bất bình vì điều này và xúc phạm Haldir nhưng lại bị Aragorn khiển trách vì làm như vậy. Haldir nói với họ rằng họ không thể đi xa hơn vì Frodo mang theo [Chiếc nhẫn](../T/The_One_Ring.md).
 
-Khi Aragorn cầu xin Haldir giúp đỡ họ, Frodo thấy các thành viên khác của Hiệp hội đang nhìn anh như thể đang đổ lỗi cho anh về tình trạng khó khăn của họ. [Boromir](../B/Boromir.md) cố gắng an ủi Frodo, nói với anh rằng [Gandalf](../G/Gandalf.md) sẽ không muốn anh từ bỏ hy vọng.
+Khi Aragorn cầu xin Haldir giúp đỡ họ, Frodo thấy các thành viên khác của Hiệp hội nhìn anh như thể đang đổ lỗi cho anh về tình trạng khó khăn của họ. [Boromir](../B/Boromir.md) cố gắng an ủi Frodo, nói với anh rằng [Gandalf](../G/Gandalf.md) không muốn anh từ bỏ hy vọng.
 
 <blockquote class="tg-quote noexcerpt">
 <p>You carry a heavy burden, Frodo. Don&#39;t carry the weight of the dead.
@@ -61,6 +61,6 @@ Khi Aragorn cầu xin Haldir giúp đỡ họ, Frodo thấy các thành viên kh
 <p class="tg-quote-footer"><cite>Boromir to Frodo, of Gandalf</cite></p>
 </blockquote>
 
-Frodo suy nghĩ về những lời này, và trong khi làm như vậy, Haldir nói với Hiệp hội rằng họ phải đi theo ông ta.
+Frodo suy nghĩ về những lời này, và trong khi làm như vậy, Haldir nói với Hội rằng họ sẽ đi theo ông ta.
 
 ## Sự khác biệt {#Differences}

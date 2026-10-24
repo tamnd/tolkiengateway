@@ -49,7 +49,7 @@ Hai tập đầu tiên cũng được phát hành với tựa đề *Die Macht d
 
 ## Tập {#Volumes}
 
-Tập đầu tiên là một trong những cuốn sách bán chạy nhất của nhà xuất bản Topos.<sup id="cite_ref-interview_2-0" class="reference"><a href="#cite_note-interview-2">[2]</a></sup> Nó tự hào có một phòng trưng bày tác phẩm nghệ thuật của [Anke Eißmann](../A/Anke_Eißmann.md) và ở mức độ thấp hơn là [Douglas Carrel](Douglas_Carrel.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Hammersley&amp;action=edit&amp;redlink=1" title="Michael Hammersley (page does not exist)">Michael Hammersley</a>, từ vựng về các nhân vật (khác nhau giữa các phiên bản), bản đồ về Trung Địa, một trò chơi đố vui và danh sách các liên kết web (khác nhau giữa các phiên bản). Một trong những lần lặp lại của từ vựng là sử dụng lại một số hình minh họa của Douglas Carrel.
+Tập đầu tiên là một trong những cuốn bán chạy nhất của nhà xuất bản Topos.<sup id="cite_ref-interview_2-0" class="reference"><a href="#cite_note-interview-2">[2]</a></sup> Nó tự hào có một phòng trưng bày tác phẩm nghệ thuật của [Anke Eißmann](../A/Anke_Eißmann.md) và ở mức độ thấp hơn là [Douglas Carrel](Douglas_Carrel.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Hammersley&amp;action=edit&amp;redlink=1" title="Michael Hammersley (page does not exist)">Michael Hammersley</a>, từ vựng về các ký tự (khác nhau giữa các phiên bản), bản đồ Trung Địa, trò chơi đố vui và danh sách liên kết web (khác nhau giữa các phiên bản). Một trong những lần lặp lại của từ vựng là sử dụng lại một số hình minh họa của Douglas Carrel.
 
 Tập hai cũng có bản đồ nhưng cũng có từ điển, từ vựng về các địa điểm, một trò chơi rất đơn giản trong đó bạn bắn [thú vật sa ngã](../F/Fell_beasts.md), sách dạy nấu ăn và ứng dụng lịch có thể được cài đặt riêng.
 
@@ -260,7 +260,7 @@ Phần liên kết của tập đầu tiên, bao gồm cả trang web tiếng An
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">"Bộ phim Chúa tể của những chiếc nhẫn là trọng tâm của trang web này. Phần "Trò chơi", với các liên kết tải xuống các trò chơi PC có liên quan, mang đến một bổ sung rất thú vị."</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">"The Lord of the Rings phim là trọng tâm của trang web này. Phần "Trò chơi", với các liên kết tải xuống các trò chơi PC có liên quan, mang đến một bổ sung rất thú vị."</span>
 </li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Ngay sau đó, nó mở rộng thành <a href="../L/LOTR_Fanatics_Plaza.md" title="LOTR Fanatics Plaza">LOTR Fanatics Plaza</a></span>
 </li>

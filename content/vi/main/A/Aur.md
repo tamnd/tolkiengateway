@@ -13,4 +13,4 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>aur</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là *sunlight* hoặc *day*.
+<i><b>aur</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là *sunlight* hoặc *day*.

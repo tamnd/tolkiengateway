@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lost Road and Other Writings"
 ---
 
-Chuyển hướng tới [Con đường đã mất và những bài viết khác](../T/The_Lost_Road_and_Other_Writings.md).
+Chuyển hướng đến [The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md).

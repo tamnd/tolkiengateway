@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Downfall of Barad-dûr"
 ---
 
-Chuyển hướng đến [Sự sụp đổ của Barad-dûr](Downfall_of_Barad-dûr.md).
+Chuyển hướng tới [Sự sụp đổ của Barad-dûr](Downfall_of_Barad-dûr.md).

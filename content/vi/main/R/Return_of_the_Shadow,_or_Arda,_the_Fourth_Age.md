@@ -24,23 +24,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/RotS1.png.md"><img src="https://tolkiengateway.net/w/images/thumb/4/41/RotS1.png/320px-RotS1.png" decoding="async" loading="lazy" width="320" height="210" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/41/RotS1.png/480px-RotS1.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/41/RotS1.png/640px-RotS1.png 2x" data-file-width="798" data-file-height="523"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Return of the Shadow, or Arda, the Fourth Age</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">On-line (Telnet)</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/1999.md" title="1999">1999</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/CircleMUD" title="wikipedia:CircleMUD">Circle MUD</a></td></tr></tbody></table>
 
-**Sự trở lại của bóng tối, hay Arda, Thời đại thứ tư** (còn được gọi là *Return of the Shadow*, hay viết tắt là *RotS*) là một MUD lấy bối cảnh ở [Trung địa](../M/Middle-earth.md), hai nghìn năm sau khi [Chiếc nhẫn](../T/The_One_Ring.md) bị phá hủy.<sup id="cite_ref-Background_1-0" class="reference"><a href="#cite_note-Background-1">[1]</a></sup> Trong bùn này [Orc](../O/Orcs.md) và các sinh vật tà ác khác đã quay trở lại [Trung địa](../M/Middle-earth.md) và cái bóng đã quay trở lại [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-Background_1-1" class="reference"><a href="#cite_note-Background-1">[1]</a></sup> Người chơi đấu với nội dung người chơi là một phần quan trọng của bùn này.
+**Sự trở lại của Bóng Tối, hay Arda, Kỷ Đệ Tứ** (còn được gọi là *Return of the Shadow* hoặc viết tắt là *RotS*) là một MUD lấy bối cảnh ở [Trung Địa](../M/Middle-earth.md), hai nghìn năm sau khi [Chiếc Nhẫn](../T/The_One_Ring.md) bị phá hủy.<sup id="cite_ref-Background_1-0" class="reference"><a href="#cite_note-Background-1">[1]</a></sup> Trong lớp bùn này [Orc](../O/Orcs.md) và các sinh vật tà ác khác đã quay trở lại [Trung Địa](../M/Middle-earth.md), và cái bóng đã quay trở lại [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-Background_1-1" class="reference"><a href="#cite_note-Background-1">[1]</a></sup> Nội dung giữa người chơi và người chơi là một phần quan trọng của bùn này.
 
 ## Các cuộc đua {#Races}
 
 Bùn này có bảy chủng tộc có thể chơi được, được chia thành bốn chủng tộc thiện và ba chủng tộc ác.<sup id="cite_ref-Creation_2-0" class="reference"><a href="#cite_note-Creation-2">[2]</a></sup>
 
-### [Các dân tộc tự do](../F/Free_peoples~19934.md) {#Free_peoples}
+### [các Dân tộc Tự do](../F/Free_peoples~19934.md) {#Free_peoples}
 
 - [Con người](../M/Men.md)
 - [Người lùn](../D/Dwarves.md)
-- [Yêu tinh gỗ](../S/Silvan_Elves.md)
+- [Gỗ Tiên](../S/Silvan_Elves.md)
 - [Hobbit](../H/Hobbits.md)
 
 ### Tộc ác {#Evil_Races}
 
-- [Orc Uruk-hai](../U/Uruk-hai.md)
-- [Orc thông thường](../O/Orcs.md)
+- [Uruk-hai Orc](../U/Uruk-hai.md)
+- [Chung Orc](../O/Orcs.md)
 - Uruk-Lhuth
 
 ## Lớp {#Classes}
@@ -61,8 +61,8 @@ Người chơi có thể tạo lớp tùy chỉnh của riêng mình hoặc ch�
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://rotsmud.org" rel="noreferrer noopener" target="_blank">Trang web chính thức</a>
-- <a class="external text" href="https://rotsmud.org/connect" rel="noreferrer noopener" target="_blank">Chơi Return of the Shadow, hay Arda, Thời đại thứ tư</a>
-- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/shadow.html" rel="noreferrer noopener" target="_blank">Sự trở lại của bóng tối hay Arda, Thời đại thứ tư</a> tại Tolkien Games
+- <a class="external text" href="https://rotsmud.org/connect" rel="noreferrer noopener" target="_blank">Play Trả lại Bóng Tối hoặc Arda, Kỷ Đệ Tứ</a>
+- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/shadow.html" rel="noreferrer noopener" target="_blank">Sự trở lại của Bóng Tối hoặc Arda, Kỷ Đệ Tứ</a> tại Trò chơi Tolkien
 
 <span></span>
 

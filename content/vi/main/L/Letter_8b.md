@@ -25,13 +25,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 8b</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/10_August.md" title="10 August">10 August</a> <a href="../_/1936.md" title="1936">1936</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Domestic news, BBC broadcast of <i><a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Pearl</a></i>, completion of <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i></td></tr></tbody></table>
 
-**Thư 8b** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 8b** là một bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-[Christopher Tolkien](../C/Christopher_Tolkien.md), lúc đó 11 tuổi, đang đi nghỉ ở Devon cùng gia đình bạn bè Dorothy và Charlie Moore. Tolkien viết rằng ông rất vui vì thời tiết cho đến kỳ nghỉ lễ vẫn tốt, trái ngược với thời tiết ở London. Ông đề cập đến việc dành thời gian với bạn bè John Binney và [C.L. Wrenn](../C/C.L._Wrenn.md), đồng thời báo cáo rằng [Priscilla](../P/Priscilla_Tolkien.md) đã bị cảm lạnh từ [John](../J/John_Tolkien.md).
+[Christopher Tolkien](../C/Christopher_Tolkien.md), lúc đó 11 tuổi, đang đi nghỉ ở Devon cùng với gia đình bạn bè Dorothy và Charlie Moore. Tolkien viết rằng ông rất vui vì thời tiết cho kỳ nghỉ đến nay vẫn tốt, trái ngược với thời tiết ở London. Ông đề cập đến việc dành thời gian với bạn bè John Binney và [C.L. Wrenn](../C/C.L._Wrenn.md), đồng thời báo cáo rằng [Priscilla](../P/Priscilla_Tolkien.md) đã bị cảm lạnh từ [John](../J/John_Tolkien.md).
 
-Tolkien đề cập đến buổi phát sóng của BBC về bản dịch <i><a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Pearl</a></i>của ông, mà ông nói rằng bản dịch này được thực hiện rất tệ. Ông cũng nói rằng *[The Hobbit](../T/The_Hobbit.md)* "gần như đã hoàn thành và các nhà xuất bản đang kêu gọi điều đó".
+Tolkien đề cập đến buổi phát thanh trên BBC về bản dịch <i><a class="mw-redirect mw-disambig" href="../P/Pearl.md" title="Pearl">Pearl</a></i>của ông, mà ông nói là đã được thực hiện rất tệ. Ông cũng nói rằng *[The Hobbit](../T/The_Hobbit.md)* "gần như đã hoàn thành và các nhà xuất bản đang kêu gọi điều đó".
 
 <br>
 

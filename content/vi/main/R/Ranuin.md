@@ -19,7 +19,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Ranuin"
 ---
 
-**Ranuin** là một [Ainu](../A/Ainur.md) đại diện cho Tháng, người đã đến thăm Valinor cùng với những người anh em của mình. Ông đã tạo ra cho [Manwë](../M/Manwë.md) một sợi dây vô hình trói buộc Mặt trăng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ranuin** là một [Ainu](../A/Ainur.md) đại diện cho Tháng, người đã đến thăm Valinor cùng với các anh trai của mình. Ông đã tạo ra [Manwë](../M/Manwë.md) một sợi dây vô hình để buộc Mặt Trăng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

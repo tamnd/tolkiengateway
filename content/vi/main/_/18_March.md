@@ -68,11 +68,11 @@ Sự kiện xảy ra vào ngày 18 tháng 3
 
 - **[1941](1941.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 44](../L/Letter_44.md).
 - **[1950](1950.md)** - Diễn viên [Brad Dourif](../B/Brad_Dourif.md) ra đời.
-- **[1956](1956.md)** - Tolkien viết [một bức thư cho ông Sam Gamgee](../L/Letter_184.md).
+- **[1956](1956.md)** - Tolkien viết [một lá thư cho Mr Sam Gamgee](../L/Letter_184.md).
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 205a](../L/Letter_205a.md).
 - **[1971](1971.md)** - Tolkien viết [Thư 322](../L/Letter_322.md).
 - **[1989](1989.md)** - Nữ diễn viên [Lily Collins](../L/Lily_Collins.md) ra đời.
-- **[2005](2005.md)** - "Black Rider", tập thứ mười hai trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
+- **[2005](2005.md)** - "Kỵ Sĩ Đen", tập thứ mười hai trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
 - **[2010](2010.md)** - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)* được công bố phát hành vào [2011](2011.md).
 
 ## Trong Arda {#In_Arda}
@@ -80,6 +80,6 @@ Sự kiện xảy ra vào ngày 18 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Quân đội phía Tây](../A/Army_of_the_West.md) hành quân từ [Minas Tirith](../M/Minas_Tirith.md). Sau [Osgiliath](../O/Osgiliath.md), họ kết thúc cuộc hành quân trong ngày nhưng đội tiên phong vẫn tiếp tục đến [Ngã tư](../C/Cross-roads.md). [Aragorn](../A/Aragorn.md) đòi lại vùng đất và khôi phục lại bức tượng Nhà vua bị ô uế.
+    - Đội quân [của Phương Tây](../A/Army_of_the_West.md) hành quân từ [Minas Tirith](../M/Minas_Tirith.md). Sau [Osgiliath](../O/Osgiliath.md), họ kết thúc cuộc hành quân trong ngày nhưng đội tiên phong vẫn tiếp tục tiến đến [Ngã Tư](../C/Cross-roads.md). [Aragorn](../A/Aragorn.md) đòi lại đất và khôi phục lại bức tượng ô uế của Vua.
     - [Orc](../O/Orcs.md) hành quân trên đường từ [Durthang](../D/Durthang.md) đến [Udûn](<../U/Udûn_(valley).md>).
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Sam_Gamgee.md) đã nhìn thấy [Isenmouthe](../C/Carach_Angren.md). Họ bị vượt qua bởi bầy Orc.
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Sam_Gamgee.md) đã lọt vào tầm ngắm của [Isenmouthe](../C/Carach_Angren.md). Họ bị vượt qua bởi bầy Orc.

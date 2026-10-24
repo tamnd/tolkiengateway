@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Collector's Guide"
 ---
 
-Chuyển hướng đến [Hướng dẫn dành cho người sưu tầm Tolkien](Tolkien_Collector's_Guide.md).
+Chuyển hướng tới [Tolkien Hướng dẫn dành cho người sưu tập](Tolkien_Collector's_Guide.md).

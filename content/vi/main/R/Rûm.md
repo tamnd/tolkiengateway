@@ -18,17 +18,17 @@ sort_keys:
   "Great Lands": "Rum"
 ---
 
-**Rûm** là tên của một thành phố cổ kính và vĩ đại của [Con người](../M/Men.md) ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Rum_1-0" class="reference"><a href="#cite_note-Rum-1">[1]</a></sup> Nó được đồng nhất với thành phố <a class="extiw" href="http://en.wikipedia.org/wiki/Rome" title="wikipedia:Rome">Rome</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> được đề cập bởi [Littleheart](../L/Littleheart.md) trong câu chuyện về *[the Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)*, trong đó ông mô tả [bao](../F/Fall_of_Gondolin.md) của [Gondolin](../G/Gondolin.md) thậm chí còn tồi tệ hơn nhiều vụ xảy ra với Rûm, thành phố vĩ đại nhất của loài người.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Rûm** là tên của một thành phố cổ kính và vĩ đại [Con Người](../M/Men.md) ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Rum_1-0" class="reference"><a href="#cite_note-Rum-1">[1]</a></sup> Nó được đồng nhất với thành phố <a class="extiw" href="http://en.wikipedia.org/wiki/Rome" title="wikipedia:Rome">Rome</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> được nhắc đến bởi [Littleheart](../L/Littleheart.md) trong câu chuyện của *[the Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)*, nơi ông mô tả [bao](../F/Fall_of_Gondolin.md) của [Gondolin](../G/Gondolin.md) thậm chí còn tồi tệ hơn nhiều vụ xảy ra với Rûm, thành phố lớn nhất của Con Người.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Cư dân của nó được gọi là <i><b>Rúmhoth</b></i>, một trong những dân tộc <a class="extiw" href="http://en.wikipedia.org/wiki/Roman_conquest_of_Britain" title="wikipedia:Roman conquest of Britain">xâm lược</a> [Tol Eressëa](../T/Tol_Eressëa.md) và trục xuất [Yêu tinh](../E/Elves.md) khỏi đó, thậm chí không tin rằng họ tồn tại.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Cư dân của nó được gọi là <i><b>Rúmhoth</b></i>, một trong những dân tộc <a class="extiw" href="http://en.wikipedia.org/wiki/Roman_conquest_of_Britain" title="wikipedia:Roman conquest of Britain">xâm lược</a> [Tol Eressëa](../T/Tol_Eressëa.md) và trục xuất [Tiên tộc](../E/Elves.md) khỏi đó, thậm chí không tin rằng họ tồn tại.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Trong một trong những *[Early Runic Documents](../E/Early_Runic_Documents.md)*, cùng thời với *The Book of Lost Tales*, cũng có đề cập đến <a class="extiw" href="http://en.wikipedia.org/wiki/Roman_people" title="wikipedia:Roman people">Người La Mã</a> là "những kẻ giết người và tiêu diệt các nàng tiên".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Rûm* có trong [Gnomish](../G/Gnomish.md), rõ ràng là [chuyển thể](../S/Sindarization.md) từ tiếng Latin "Roma", tên được sử dụng bởi cả Yêu tinh và Con người.
+Tên *Rûm* có trong [Gnomish](../G/Gnomish.md), rõ ràng là [sự phỏng theo](../S/Sindarization.md) của tiếng Latin "Roma", tên được sử dụng bởi cả Tiên tộc và Con Người.
 
-Chỉ riêng Yêu tinh đã gọi nó là <i><b>Magbar</b></i>.<sup id="cite_ref-Rum_1-1" class="reference"><a href="#cite_note-Rum-1">[1]</a></sup>
+Riêng Tiên tộc đã gọi nó là <i><b>Magbar</b></i>.<sup id="cite_ref-Rum_1-1" class="reference"><a href="#cite_note-Rum-1">[1]</a></sup>
 
 *Rúmhoth*, tên cư dân của nó, bao gồm *Rûm* + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hoth_(Gnomish_word)&amp;action=edit&amp;redlink=1" title="Hoth (Gnomish word) (page does not exist)">hoth</a></i> ("dân gian, con người").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 

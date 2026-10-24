@@ -31,13 +31,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Battle_of_the_Five_Armies_(1975_board_game).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fd/Battle_of_the_Five_Armies_%281975_board_game%29.jpg/320px-Battle_of_the_Five_Armies_%281975_board_game%29.jpg" decoding="async" loading="lazy" width="320" height="382" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fd/Battle_of_the_Five_Armies_%281975_board_game%29.jpg 1.5x" data-file-width="339" data-file-height="405"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Board game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Battle of the Five Armies</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Larry Smith</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">LORE/JMJ Enterprises (1st ed.); <a href="../T/TSR.md" title="TSR">TSR</a> (2nd &amp; 3rd ed.)</td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/1975.md" title="1975">1975</a> (1st ed.); 1976 (2nd ed.); 1977 (3rd ed.)</td></tr><tr><th scope="row" class="tg-infobox-label">Players</th><td class="tg-infobox-data">2-5</td></tr><tr><th scope="row" class="tg-infobox-label">Ages</th><td class="tg-infobox-data">12+</td></tr></tbody></table>
 
-<i><b>Trận chiến của năm cánh quân</b></i> là một trò chơi board game [1975](../_/1975.md) dựa trên [Trận chiến của năm cánh quân](Battle_of_Five_Armies.md).
+<i><b>Trận chiến của năm đạo quân</b></i> là một trò chơi bảng [1975](../_/1975.md) dựa trên [Trận chiến Năm Đạo quân](Battle_of_Five_Armies.md).
 
-*"Bây giờ bạn có thể xác định kết quả của trận chiến tuyệt vời này. Với tư cách là Tay sai của Ác ma, mục tiêu của bạn là đầu tư và chiếm giữ thành trì Dưới Núi. Với tư cách là Liên minh, những người lùn, yêu tinh và đàn ông đông đảo và bị áp lực mạnh mẽ của bạn phải chống lại sự tấn công dữ dội của lũ yêu tinh và chiến binh hùng mạnh cho đến khi đại bàng và Beorn đến để lật ngược tình thế, nhưng bạn có thể cầm cự được không?"*
+*"Bây giờ bạn có thể xác định kết quả của trận chiến tuyệt vời này. Với tư cách là Tay sai của Ác ma, mục tiêu của bạn là đầu tư và chiếm giữ thành trì Dưới Núi. Với tư cách là Liên minh, những người lùn đông đảo và bị áp đảo của bạn, Tiên tộc và con người phải chống lại sự tấn công dữ dội của lũ yêu tinh và chiến binh hùng mạnh cho đến khi đại bàng và Beorn đến để lật ngược tình thế, nhưng bạn có thể cầm cự được không?"*
 
-Bảng bản đồ bao gồm hai ngọn núi nhô ra từ rìa phía tây của bảng, với thị trấn Dale đổ nát và một con sông chạy từ cổng vào thung lũng giữa chúng. Yêu tinh, đàn ông và người lùn ẩn náu trên các đỉnh núi, còn lũ Orc và sâu bọ tiến vào từ phía đông.
+Bảng bản đồ bao gồm hai ngọn núi nhô ra từ rìa phía tây của bảng, với thị trấn đổ nát Dale và một con sông chảy từ cổng vào thung lũng giữa chúng. Tiên tộc, đàn ông và người lùn ẩn náu trên các đỉnh núi, còn lũ Orc và sâu bọ tiến vào từ phía đông.
 
-Chiến thắng đạt được bằng cách giành chiến thắng hoặc giữ được cổng vào Erebor.
+Chiến thắng đạt được bằng cách giành chiến thắng hoặc giữ cổng tới Erebor.
 
 ## Vấn đề pháp lý {#Legal_issues}
 

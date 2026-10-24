@@ -15,7 +15,7 @@ categories:
 
 **Nermir** là [fays](../F/Fays.md) của đồng cỏ (đồng cỏ),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-Ndr_2-0" class="reference"><a href="#cite_note-Ndr-2">[1]</a></sup> theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
-Họ đến thế giới cùng với [Aulë](../A/Aulë.md) và [Yavanna](../Y/Yavanna.md), cùng với nhiều loại tiên khác.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Họ đến thế giới cùng với [Aulë](../A/Aulë.md) và [Yavanna](../Y/Yavanna.md), cùng với nhiều loại thần tiên khác.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -26,7 +26,7 @@ Từ *nermi* có nguồn gốc từ gốc <a class="new" href="https://tolkienga
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Trong <i><a class="mw-redirect" href="../G/Gnomish_Lexicon.md" title="Gnomish Lexicon">Gnomish Lexicon</a></i>, thay vào đó, họ là những vị thần ám ảnh đồng cỏ <i>và</i> bờ sông.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Thay vào đó, ở <i><a class="mw-redirect" href="../G/Gnomish_Lexicon.md" title="Gnomish Lexicon">Gnomish Lexicon</a></i>, họ là những vị thần ám ảnh đồng cỏ <i>và</i> bờ sông.</span>
 </li>
 </ol></div></span>
 

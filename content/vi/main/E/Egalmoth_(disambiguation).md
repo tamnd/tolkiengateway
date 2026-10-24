@@ -16,7 +16,7 @@ images:
 
 **Egalmoth** là tên [Gnomish](../G/Gnomish.md)/[Sindarin](../S/Sindarin.md) được áp dụng cho:
 
-- **[Egalmoth](Egalmoth.md)**, một [Yêu tinh](Elves.md)-chúa tể của [Gondolin](../G/Gondolin.md).
+- **[Egalmoth](Egalmoth.md)**, một [Tiên](Elves.md)-chúa tể của [Gondolin](../G/Gondolin.md).
 - [Egalmoth](<Egalmoth_(Steward_of_Gondor).md>), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười tám của [Gondor](../G/Gondor.md).
 
 - [Saelon](../S/Saelon.md), được gọi là *Egalmoth* trong các bản thảo đầu tiên.

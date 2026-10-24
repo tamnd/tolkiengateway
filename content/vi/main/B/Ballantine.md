@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ballantine Books"
 ---
 
-Chuyển hướng tới [Sách Ballantine](Ballantine_Books.md).
+Chuyển hướng đến [Ballantine Books](Ballantine_Books.md).

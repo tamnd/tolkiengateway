@@ -24,9 +24,9 @@ images:
 
 **Unwin Hyman Ltd.** là một công ty xuất bản của Anh nổi tiếng với việc xuất bản các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Unwin Hyman Ltd. được thành lập vào năm 1986, là kết quả của sự hợp nhất giữa các nhà xuất bản [Allen & Unwin](../A/Allen_&_Unwin.md) và Bell & Hyman. Robin Hyman trở thành giám đốc điều hành của công ty sau khi thành lập, Allen & Unwin tiếp tục là công ty con có trụ sở tại Úc cho đến khi công ty được [HarperCollins](../H/HarperCollins.md) mua lại vào năm 1990.
+Unwin Hyman Ltd. được thành lập vào năm 1986, là kết quả của sự hợp nhất giữa các nhà xuất bản [Allen &amp; Unwin](../A/Allen_&_Unwin.md) và Bell & Hyman. Robin Hyman trở thành giám đốc điều hành của công ty sau khi thành lập, với Allen &amp; Unwin tiếp tục là công ty con có trụ sở tại Úc cho đến khi công ty được [HarperCollins](../H/HarperCollins.md) mua lại vào năm 1990.
 
-HarperCollins kể từ đó đã bán danh sách sách học thuật của Unwin Hyman cho Routledge. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+HarperCollins đã bán danh sách sách học thuật của Unwin Hyman cho Routledge. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 # Liên kết ngoài {#External_Links}
 

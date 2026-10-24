@@ -33,13 +33,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien rất cảm động và phấn khích trước bức thư tử tế mà bà Farrer đã gửi cho ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> Mặc dù ông đã làm việc trên "[những thứ này](Legendarium.md)" từ năm 1914 chỉ [C.S. Lewis](../C/C.S._Lewis.md) và [Christopher](../C/Christopher_Tolkien.md) của ông muốn đọc chúng và không ai muốn xuất bản chúng. Sau khi cô viết xong, Tolkien thu thập những gì ít nhiều đã hoàn thành (và dễ đọc) để cô đọc. Ông nói rằng "lịch sử bổ ích" hay *[Silmarillion](../T/The_Silmarillion.md)* có thể chấp nhận được nhưng chỉ được sửa đổi một nửa.
+Tolkien rất cảm động và phấn khích trước bức thư tử tế mà bà Farrer đã gửi cho anh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> Mặc dù anh đã làm việc về "[những thứ này](Legendarium.md)" từ năm 1914 nhưng chỉ có [C.S. Lewis](../C/C.S._Lewis.md) và [Christopher](../C/Christopher_Tolkien.md) của anh muốn đọc chúng và không ai muốn xuất bản chúng. Sau khi cô viết xong, Tolkien thu thập những gì ít nhiều đã hoàn thành (và có thể đọc được) để cô đọc. Ông nói rằng "lịch sử bổ ích" hay *[Silmarillion](../T/The_Silmarillion.md)* có thể chấp nhận được nhưng chỉ được sửa đổi một nửa.
 
-Tolkien liệt kê ba câu chuyện dài chưa đầy đủ hoặc chưa cập nhật: *[The Fall of Gondolin](../T/The_Fall_of_Gondolin.md)*, "The Lay of [Beren](../B/Beren.md) và [Lúthien](Lúthien.md)" (câu thơ) và *[The Children of Húrin](../T/The_Children_of_Húrin.md)*. Ông ta đau khổ vì không thể tìm thấy "Những chiếc nhẫn quyền lực".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> Nó, cộng với "[Sự sụp đổ của Númenor](../T/The_Drowning_of_Anadûnê.md)", đã liên kết *Silmarillion* với thế giới Hobbit. Anh hứa sẽ mang về cho cô một số bản thảo độc đáo.
+Tolkien liệt kê ba truyện dài chưa hoàn chỉnh hoặc chưa cập nhật: *[The Fall of Gondolin](../T/The_Fall_of_Gondolin.md)*, "The Lay of [Beren](../B/Beren.md) và [Lúthien](Lúthien.md)" (câu thơ), và *[The Children of Húrin](../T/The_Children_of_Húrin.md)*. Ông đau khổ vì không thể tìm thấy "Những Chiếc Nhẫn Quyền Năng".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 3]</a></sup> Nó, cộng với "[Sự sụp đổ của Númenor](../T/The_Drowning_of_Anadûnê.md)", đã liên kết *Silmarillion* với thế giới Hobbit. Anh hứa sẽ mang về cho cô một số bản thảo độc đáo.
 
 ## Phản hồi {#Response}
 
-In *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) discusses the drafts of this letter, where his father explains the Elvish "Flat World Version" of the legends, and the Mannish "[Round World](../R/Round_World.md) Version" of the *[Ainulindale](../A/Ainulindale.md)*. Farrer replied to him (October 1948) that she liked [the Flat Earth version](<../A/Ainulindalë_(Lost_Road).md>) better, as "The hope of Heaven is the only thing which makes modern astronomy tolerable". Christopher guesses that her response influenced his father to abandon the "Round World" text he was working on.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[1]</a></sup>
+Trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) thảo luận về bản thảo của bức thư này, trong đó cha anh giải thích về Elvish "Phiên bản Thế giới phẳng" trong truyền thuyết và Phiên bản "[Thế giới tròn](../R/Round_World.md)" của người Mannish trong *[Ainulindale](../A/Ainulindale.md)*. Farrer trả lời ông ta (tháng 10 năm 1948) rằng cô thích [phiên bản Trái đất phẳng](<../A/Ainulindalë_(Lost_Road).md>) hơn, vì "Niềm hy vọng về Thiên đường là điều duy nhất khiến thiên văn học hiện đại có thể chấp nhận được". Christopher đoán rằng phản ứng của cô đã ảnh hưởng đến việc cha anh từ bỏ văn bản "Thế giới tròn" mà ông đang viết.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 
@@ -48,7 +48,7 @@ In *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, [Christopher Tolkien](../C/Christ
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Rõ ràng bà đã yêu cầu đọc <i>The Silmarillion</i> và các tài liệu liên quan.</span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Có thể <i><a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Về những chiếc nhẫn quyền lực và Thời đại thứ ba</a></i></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Có thể <i><a href="../O/Of_the_Rings_of_Power_and_the_Third_Age.md" title="Of the Rings of Power and the Third Age">Trong số Những Chiếc Nhẫn Quyền Năng và Kỷ Đệ Tam</a></i></span>
 </li>
 </ol></div></span>
 

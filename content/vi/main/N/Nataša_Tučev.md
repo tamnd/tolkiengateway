@@ -25,4 +25,4 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [2005](../_/2005.md): *[Reconsidering Tolkien](../R/Reconsidering_Tolkien.md)*:
-    - "Con dao, vết chích và chiếc răng: Những biểu hiện của cái bóng trong Chúa tể những chiếc nhẫn"
+    - "Con dao, Sting và Răng: Biểu hiện của Bóng Tối trong The Lord of the Rings"

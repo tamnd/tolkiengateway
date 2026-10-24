@@ -62,7 +62,7 @@ Sự kiện xảy ra vào ngày 1 tháng 4
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1977](1977.md)** - Con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã thành lập tổ chức từ thiện [The Tolkien Trust](../T/The_Tolkien_Trust.md).
+- **[1977](1977.md)** - Các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã thành lập tổ chức từ thiện [The Tolkien Trust](../T/The_Tolkien_Trust.md).
 - **[1984](1984.md)** - *[The Monsters and the Critics](../T/The_Monsters_and_the_Critics.md)* được xuất bản tại Mỹ.<b></b>
 - **[2003](2003.md)** - *[J.R.R. Tolkien: His Life and Works](<../J/J.R.R._Tolkien_(Library_of_Great_Authors).md>)* được xuất bản.
 - **[2006](2006.md)** - *[The Roots of Tolkien's Middle Earth](../T/The_Roots_of_Tolkien's_Middle_Earth.md)* được xuất bản.
@@ -73,4 +73,4 @@ Sự kiện xảy ra vào ngày 1 tháng 4
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi ở [Ithilien](../I/Ithilien.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).

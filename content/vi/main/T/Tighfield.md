@@ -38,9 +38,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Tighfield.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0c/The_Lord_of_the_Rings_Online_-_Tighfield.jpg/320px-The_Lord_of_the_Rings_Online_-_Tighfield.jpg" decoding="async" loading="lazy" width="320" height="180" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0c/The_Lord_of_the_Rings_Online_-_Tighfield.jpg/480px-The_Lord_of_the_Rings_Online_-_Tighfield.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0c/The_Lord_of_the_Rings_Online_-_Tighfield.jpg/640px-The_Lord_of_the_Rings_Online_-_Tighfield.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Tighfield in <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Town/Village</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tighfield</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Town/Village</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Tighfield.md" title="Category:Images of Tighfield">Images of Tighfield</a></td></tr></tbody></table>
 
-**Tighfield** là một ngôi làng hoặc thị trấn nằm ở đâu đó trong [Shire](The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Đó là nhà của một số gia đình, cụ thể là [Gamwich](../G/Gamwich_Family~66369.md) (sau này là [Gammidge](../G/Gammidge_Family~66368.md)) và [gia đình Roper](../R/Roper_family.md).
+**Tighfield** là một ngôi làng hoặc thị trấn nằm ở đâu đó trong [ Shire](The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Đó là nhà của một số gia đình, cụ thể là [Gamwich](../G/Gamwich_Family~66369.md) (sau này là [Gammidge](../G/Gammidge_Family~66368.md)) và [gia đình Roper](../R/Roper_family.md).
 
-[Wiseman Gamwich](../W/Wiseman_Gamwich.md) đến Tighfield khoảng hai trăm năm trước [War of the Ring](../W/War_of_the_Ring.md), và con trai của Wiseman [Hob Gammidge](../H/Hob_Gammidge.md) được ghi nhận là một thợ làm dây thừng, một trong những người thợ làm dây lâu đời ở Tighfield.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+[Wiseman Gamwich](../W/Wiseman_Gamwich.md) đến Tighfield khoảng hai trăm năm trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), và con trai của Wiseman [Hob Gammidge](../H/Hob_Gammidge.md) được ghi nhận là một thợ làm dây thừng, một trong những người thợ làm dây lâu đời ở Tighfield.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 Con trai của Hob [Hobson](../H/Hobson.md), và đến lượt con trai ông [Andwise](../A/Andwise_Roper.md), được cho là đã thực hành nghề <a class="extiw" href="http://en.wikipedia.org/wiki/ropewalk" title="wikipedia:ropewalk">đi trên dây</a> (tức là sân của thợ làm dây) trong nhiều năm.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
@@ -52,18 +52,18 @@ Tên của Tighfield gắn liền với truyền thống làm dây thừng ở �
 
 [Tolkien](../J/J.R.R._Tolkien.md) lưu ý các thành phần tên địa danh hiện đại *tigh, teigh, tye, tey* không liên quan; chúng có nghĩa là "một mảnh đất khép kín" và không xuất hiện như là phần tử đầu tiên trong một tổ hợp.<sup id="cite_ref-Nomen_5-1" class="reference"><a href="#cite_note-Nomen-5">[4]</a></sup>
 
-Tolkien cũng lưu ý rằng thuật ngữ "đi trên dây" trong văn bản đã khiến một số dịch giả của ông nhầm lẫn, đến mức tưởng tượng ra những cây cầu dây.<sup id="cite_ref-Nomen_5-2" class="reference"><a href="#cite_note-Nomen-5">[4]</a></sup>
+Tolkien cũng lưu ý rằng thuật ngữ "đi trên dây" trong văn bản đã khiến nhiều dịch giả của ông nhầm lẫn, đến mức tưởng tượng ra những cây cầu dây.<sup id="cite_ref-Nomen_5-2" class="reference"><a href="#cite_note-Nomen-5">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2022: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2022: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Tighfield&#39;s  is one of the four settlements of &#34;<a href="The_Yondershire.md" title="The Yondershire">the Yondershire</a>&#34;, in the Shire&#39;s wilder north-western reaches.</dd></dl>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Vị trí của Tighfield không xác định vì nó không có trong bản đồ đã xuất bản <i><a href="../A/A_Part_of_the_Shire.md" title="A Part of the Shire">Một phần của Quận</a></i>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Vị trí của Tighfield không xác định vì nó không có trong bản đồ đã xuất bản <i><a href="../A/A_Part_of_the_Shire.md" title="A Part of the Shire">Một phần của Shire</a></i>.</span>
 </li>
 </ol></div></span>
 

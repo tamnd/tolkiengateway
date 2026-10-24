@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1.md" title="Third Age 1">1</a><a href="Third_Age_2.md" title="Third Age 2">2</a><a href="Third_Age_3.md" title="Third Age 3">3</a><a class="mw-selflink selflink">10</a><a href="Third_Age_48.md" title="Third Age 48">48</a><a href="Third_Age_87.md" title="Third Age 87">87</a><a href="Third_Age_109.md" title="Third Age 109">109</a></div></div></div></div></div></div>
 
-**Thời đại thứ 10** (viết tắt là **T.A. 10**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 10 của [Thời thứ ba](Third_Age.md) của [Trung địa](../M/Middle-earth.md).
+**Kỷ Đệ Tam 10** (viết tắt là **T.A. 10**) là [năm thứ 10 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Con trai út và duy nhất còn sống của Isildur](../I/Isildur.md), [Valandil](<../V/Valandil_(King_of_Arnor).md>), bước sang tuổi 21 và trở thành [Vua](../K/Kings_of_Arnor.md) thứ ba của [Arnor](../A/Arnor.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
+Con trai út và duy nhất còn sống của - [Isildur](../I/Isildur.md), [Valandil](<../V/Valandil_(King_of_Arnor).md>), tròn 21 tuổi và trở thành [Vua](../K/Kings_of_Arnor.md) thứ ba của [Arnor](../A/Arnor.md).<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
 
 <span></span>
 

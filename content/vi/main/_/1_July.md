@@ -67,16 +67,16 @@ Sự kiện xảy ra vào ngày 1 tháng 7.
 ## Trên Trái đất {#On_Earth}
 
 - **[1916](1916.md)** – [Robert Gilson](../R/Robert_Gilson.md) là một trong những người đầu tiên trong số 360.000 người Anh thương vong trong [Trận Somme](../B/Battle_of_the_Somme.md) khi anh bị trúng đạn pháo ở <a class="extiw" href="http://en.wikipedia.org/wiki/Ovillers-la-Boisselle" title="wikipedia:Ovillers-la-Boisselle">La Boiselle</a>.
-- <b><a href="1937.md" title="1937">1937</a> - <i><a href="../B/Beowulf%253A_The_Monsters_and_the_Critics.md" title="Beowulf: The Monsters and the Critics">Beowulf: The Monsters and the Critics</a> (ấn bản đầu tiên)</i> được xuất bản.</b>
+- <b><a href="1937.md" title="1937">1937</a> - <i><a href="../B/Beowulf%253A_The_Monsters_and_the_Critics.md" title="Beowulf: The Monsters and the Critics">Beowulf: Quái vật và những nhà phê bình</a> (ấn bản đầu tiên)</i> được xuất bản.</b>
 - **[1952](1952.md)** - Nhạc sĩ [David Arkenstone](../D/David_Arkenstone.md) ra đời.
 - **[1972](1972.md)** - [Mythcon 3](../M/Mythcon_3.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Long_Beach,_California" title="wikipedia:Long Beach, California">Long Beach, California</a>.
 - **[1977](1977.md)** - Nữ diễn viên [Liv Tyler](../L/Liv_Tyler.md) ra đời.
 - **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) tại Jones Hall ở <a class="extiw" href="http://en.wikipedia.org/wiki/Houston" title="wikipedia:Houston">Houston</a>.
 - **[2006](2006.md)** - [Hội nghị tập hợp các học bổng](../T/The_Gathering_of_the_Fellowship.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Toronto" title="wikipedia:Toronto">Toronto</a>.
-- <b><a href="2008.md" title="2008">2008</a> - <i><a href="../T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien Về Truyện Cổ Tích</a></i> được xuất bản.</b>
+- <b><a href="2008.md" title="2008">2008</a> - <i><a href="../T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien Về truyện cổ tích</a></i> được xuất bản.</b>
 - **[2009](2009.md)** - *[Tolkien Calendar 2010](../T/Tolkien_Calendar_2010.md)* và *[Tolkien Diary 2010](../T/Tolkien_Diary_2010.md)* được xuất bản.
 - **[2011](2011.md)** - *[Tolkien Calendar 2012](../T/Tolkien_Calendar_2012.md)* được xuất bản.
-- **[2018](2018.md)** - [Hội thảo Tolkien](../T/The_Tolkien_Society.md) tại khách sạn Hilton, [Leeds](../L/Leeds.md).
+- **[2018](2018.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) Hội thảo tại khách sạn Hilton, [Leeds](../L/Leeds.md).
 
 ## Trong Arda {#In_Arda}
 

@@ -29,35 +29,35 @@ images:
 <p class="tg-quote-footer"><cite><i><a href="../R/Roverandom.md" title="Roverandom">Roverandom</a></i>, [chapter] 4</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Rắn biển**, còn được gọi là **rồng cá**, là một giống [Rồng](../D/Dragons.md) chỉ được đề cập thoáng qua trong các tác phẩm ngôn ngữ [Elvish](../E/Elvish.md).<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> Không có câu chuyện nào kể về sự xuất hiện của chúng trong lịch sử của [Arda](../A/Arda.md).
+**Biển-rắn**, còn được gọi là **rồng cá**, là một giống [Rồng](../D/Dragons.md) chỉ được đề cập thoáng qua trong [Elvish](../E/Elvish.md) tác phẩm ngôn ngữ.<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> Không có câu chuyện nào kể về sự xuất hiện của chúng trong lịch sử [Arda](../A/Arda.md).
 
 ## Từ nguyên {#Etymology}
 
-<i><b>Lingwilókë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "cá-rồng, rắn biển", bao gồm *lingwe* ("cá") và *lókë* ("rồng"). Từ cùng nguồn gốc [Noldorin](../N/Noldorin.md) của *lingwilókë* là <i><b>lhimlug</b></i>, bao gồm *lhim* ("cá") và *lhûg* ("rồng").<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+<i><b>Lingwilókë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "cá-rồng, rắn biển", bao gồm *lingwe* ("cá") và *lókë* ("rồng"). [Noldorin](../N/Noldorin.md) cùng nguồn gốc của *lingwilókë* là <i><b>lhimlug</b></i>, bao gồm *lhim* ("cá") và *lhûg* ("rồng").<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Trong các bài viết khác {#In_other_writings}
 
-Trong *[Roverandom](../R/Roverandom.md)*, một **Rắn biển** cổ đại chỉ được biết đến với cái tên **[Sâu](../D/Dragons.md)** hoặc **[Rắn](Serpents.md)** sống trong một hang động được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pot&amp;action=edit&amp;redlink=1" title="Pot (page does not exist)">Pot</a> ở đáy <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deep_Blue_Sea&amp;action=edit&amp;redlink=1" title="Deep Blue Sea (page does not exist)">Biển Xanh Đậm</a>. Hắn là một sinh vật cực kỳ to lớn và mạnh mẽ, dài hơn trăm dặm, được cho là chỉ cần đi ngang qua thế giới là có thể gây ra bão tố. [Người trên mặt trăng](../M/Man-in-the-Moon.md) đã từng cố gắng phong ấn Rắn biển bằng phép thuật của mình, nhưng phải mất 50 năm mới tạo ra được phép thuật phù hợp và đã thành công, mặc dù vô tình khiến toàn bộ [lục địa](../A/Atlantis.md) chìm xuống. Trong thời gian diễn ra câu chuyện, [Pháp sư](../W/Wizard.md) [Artaxerxes](../A/Artaxerxes.md) đã nhận được <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Complaints&amp;action=edit&amp;redlink=1" title="Complaints (page does not exist)">Khiếu nại</a></i> bằng văn bản về việc Rắn biển được cho là đã thức dậy và di chuyển đến một hang ổ mới nằm trong một hang động rất gần với cung điện của vua cá. Thật không may, khi ông Artaxerxes đến xử lý ông ta, [Roverandom](../R/Rover.md) đã đi theo ông ta và cắn vào đuôi một con cá mập trong toa vỏ sò, gây ra hiệu ứng domino và kết thúc bằng việc con cá mập cuối cùng trong toa cắn con rắn biển. Sự thức tỉnh càng được đẩy nhanh hơn khi ông Artaxerxes cố gắng đưa nó trở lại giấc ngủ, khiến ông mơ thấy mình đang bị núi lửa thiêu sống. Động đất và bão kéo theo khi Rắn biển liên tục lăn lộn cho đến khi nó nói to rằng nó sẽ chỉ ngủ tiếp nếu ông Artaxerxes bị trục xuất. Người Mer chấp nhận các điều kiện của ông ta và trục xuất Pháp sư.<sup id="cite_ref-rover4_2-0" class="reference"><a href="#cite_note-rover4-2">[2]</a></sup> Rắn biển có lẽ đã ngủ lại.
+Trong *[Roverandom](../R/Roverandom.md)*, một **Biển-con rắn** cổ xưa chỉ được gọi là **[Sâu](../D/Dragons.md)** hoặc **[Rắn](Serpents.md)** sống trong một hang động được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Pot&amp;action=edit&amp;redlink=1" title="Pot (page does not exist)">Pot</a> ở đáy <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deep_Blue_Sea&amp;action=edit&amp;redlink=1" title="Deep Blue Sea (page does not exist)">Deep Blue Biển</a>. Hắn là một sinh vật cực kỳ to lớn và mạnh mẽ, dài hơn trăm dặm, được cho là chỉ cần đi ngang qua thế giới là có thể gây ra bão tố. [Người-trong-Mặt Trăng](../M/Man-in-the-Moon.md) đã từng cố gắng phong ấn con rắn Biển bằng phép thuật của mình, nhưng phải mất 50 năm để tạo ra phép thuật phù hợp và đã thành công, mặc dù vô tình khiến toàn bộ [lục địa](../A/Atlantis.md) chìm xuống. Trong thời gian diễn ra câu chuyện, [Pháp sư](../W/Wizard.md) [Artaxerxes](../A/Artaxerxes.md) đã nhận được <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Complaints&amp;action=edit&amp;redlink=1" title="Complaints (page does not exist)">Khiếu nại bằng văn bản</a></i> về việc con rắn Biển được cho là đã thức dậy và di chuyển đến một hang ổ mới nằm trong một hang động rất gần với cung điện của vua cá. Thật không may, khi ông Artaxerxes đến xử lý ông ta, [Roverandom](../R/Rover.md) đã đi theo và cắn vào đuôi một con cá mập trong toa vỏ sò, gây ra hiệu ứng domino và kết thúc là con cá mập cuối cùng trong toa cắn con rắn Biển. Sự thức tỉnh càng được đẩy nhanh hơn khi ông Artaxerxes cố gắng đưa nó trở lại giấc ngủ, khiến ông mơ thấy mình đang bị núi lửa thiêu sống. Động đất và bão kéo theo sau khi con rắn Biển-liên tục lăn lộn cho đến khi nó nói to rằng nó sẽ chỉ ngủ tiếp nếu ông Artaxerxes bị trục xuất. Người Mer chấp nhận các điều khoản của ông ta và trục xuất Pháp sư.<sup id="cite_ref-rover4_2-0" class="reference"><a href="#cite_note-rover4-2">[2]</a></sup> Con rắn Biển có lẽ đã quay trở lại giấc ngủ.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kent_Burles_-_Water_Drakes.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3b/Kent_Burles_-_Water_Drakes.png/300px-Kent_Burles_-_Water_Drakes.png" decoding="async" loading="lazy" width="300" height="408" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/3b/Kent_Burles_-_Water_Drakes.png 1.5x" data-file-width="331" data-file-height="450"/></a><figcaption>Water Drake in <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></i>, by Kent Burles</figcaption></figure>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Water Drakes, or Water Serpents, are drakes who have adapted to a life in freshwater pools or in the ocean. The smaller varieties, who only live in fresh-water, are called Rain-drakes (or Lake-worms), while the larger (who prey in all types of water) are called True Water-drakes or Sea Serpents.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> An individual Water-drake, <i>Séahmatha</i> (meaning &#34;Lake Serpent&#34; in the tongue of the Northmen), inhabits the Long Lake.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>&#34;Sea Serpent&#34; and &#34;Rain-drake&#34; are creatures of the Drake-kind. A unique dragon of the water is <a href="../E/Eärcaraxë.md" title="Eärcaraxë">Eärcaraxë</a>, which may be played keyed to coastal regions and sites.</dd></dl>
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh rắn biển](../../category/I/Images_of_Sea-serpents.md)
+- [Hình ảnh Biển-con rắn](../../category/I/Images_of_Sea-serpents.md)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Sea_serpent" title="wikipedia:Sea serpent">Rắn biển</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Sea_serpent" title="wikipedia:Sea serpent">Biển con rắn</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>
 

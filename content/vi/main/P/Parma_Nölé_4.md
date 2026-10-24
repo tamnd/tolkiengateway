@@ -15,7 +15,7 @@ sort_keys:
   "Parma Nölé": "Parma Nole 04"
 ---
 
-<b><i>Parma Nölé</i> 4</b> là số thứ tư của tạp chí [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, phát hành tháng 10 [2002](../_/2002.md).
+<b><i>Parma Nölé</i> 4</b> là số thứ tư của tạp chí [Miền Bắc phương Đông Tolkien Hiệp hội](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, phát hành tháng 10 [2002](../_/2002.md).
 
 ## Nội dung {#Contents}
 
@@ -26,7 +26,7 @@ sort_keys:
 - Jessica Burke: "Suy nghĩ về huyền thoại"
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "[Sưu tầm trình chiếu](../S/Sideshow_Collectibles.md)/Bài thuyết trình của Heren Istarion: Billy Boyd"
 - Jessica Burke: "Trình chiếu Weta/Heren Istarion: [Viggo Mortensen](../V/Viggo_Mortensen.md)"
-- G.A. Ramos: "Tầm quan trọng của việc trở thành [Pippin](Peregrin_Took.md)"
+- G.A. Ramos: "Tầm quan trọng của sự tồn tại [Pippin](Peregrin_Took.md)"
 - "Phiên bản mới của [The Hobbit](../T/The_Hobbit.md)!"
-- Jessica Burke: "Nhật ký của một người Hobbit"
+- Jessica Burke: "Nhật ký của một Hobbit"
 - Tiểu sử nhân viên

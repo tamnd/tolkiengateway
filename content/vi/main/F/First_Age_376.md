@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_369.md" title="First Age 369">369</a><a href="First_Age_374.md" title="First Age 374">374</a><a href="First_Age_375.md" title="First Age 375">375</a><a class="mw-selflink selflink">376</a><a href="First_Age_380.md" title="First Age 380">380</a><a href="First_Age_386.md" title="First Age 386">386</a><a href="First_Age_389.md" title="First Age 389">389</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 376** (viết tắt là **F.A. 376**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 376 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 376** (viết tắt là **F.A. 376**) là năm [thứ 376 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Marach](../M/Marach.md), người sáng lập [Nhà Marach](../H/House_of_Hador.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- [Haladin](../H/House_of_Haleth.md) định cư ở [Estolad](../E/Estolad.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Các [Haladin](../H/House_of_Haleth.md) ổn định ở [Estolad](../E/Estolad.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

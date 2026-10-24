@@ -16,21 +16,21 @@ sort_keys:
 ---
 
 1. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Prologue_(The_Hobbit_Soundtrack)&amp;action=edit&amp;redlink=1" title="Prologue (The Hobbit Soundtrack) (page does not exist)">Mở đầu</a> - 1:04
-2. <a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Walk_in_the_Shire&amp;action=edit&amp;redlink=1" title="A Walk in the Shire (page does not exist)">Bước dạo ở Quận</a> - 1:02
-3. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Working_in_the_Mill&amp;action=edit&amp;redlink=1" title="Working in the Mill (page does not exist)">Làm việc tại nhà máy</a> - 2:03
-4. <a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Hobbits_Tale_Reprise&amp;action=edit&amp;redlink=1" title="A Hobbits Tale Reprise (page does not exist)">Trở lại câu chuyện về người Hobbit</a> - 0:34
+2. <a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Walk_in_the_Shire&amp;action=edit&amp;redlink=1" title="A Walk in the Shire (page does not exist)">Bước đi trong Shire</a> - 1:02
+3. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Working_in_the_Mill&amp;action=edit&amp;redlink=1" title="Working in the Mill (page does not exist)">Làm việc tại Nhà máy</a> - 2:03
+4. <a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Hobbits_Tale_Reprise&amp;action=edit&amp;redlink=1" title="A Hobbits Tale Reprise (page does not exist)">Một câu chuyện Hobbit Tái diễn</a> - 0:34
 5. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Combat_in_the_Lone_Lands&amp;action=edit&amp;redlink=1" title="Combat in the Lone Lands (page does not exist)">Chiến đấu ở vùng đất đơn độc</a> - 2:19
 6. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Liane%27s_Theme&amp;action=edit&amp;redlink=1" title="Liane&#39;s Theme (page does not exist)">Chủ đề của Liane</a> - 0:47
-7. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Traveling_to_Rivendell&amp;action=edit&amp;redlink=1" title="Traveling to Rivendell (page does not exist)">Du hành tới Rivendell</a> - 0:59
+7. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Traveling_to_Rivendell&amp;action=edit&amp;redlink=1" title="Traveling to Rivendell (page does not exist)">Đi tới Rivendell</a> - 0:59
 8. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Crossing_the_Bridge&amp;action=edit&amp;redlink=1" title="Crossing the Bridge (page does not exist)">Qua Cầu</a> - 1:51
 9. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lost_in_the_Caves&amp;action=edit&amp;redlink=1" title="Lost in the Caves (page does not exist)">Lạc vào Hang Động</a> - 0:42
-10. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Dwarves_at_Work&amp;action=edit&amp;redlink=1" title="Dwarves at Work (page does not exist)">Người lùn làm việc</a> - 0:40
-11. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Combat_in_Mirkwood&amp;action=edit&amp;redlink=1" title="Combat in Mirkwood (page does not exist)">Trận chiến ở Mirkwood</a> - 1:33
-12. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sneaking_through_Elvish_Halls&amp;action=edit&amp;redlink=1" title="Sneaking through Elvish Halls (page does not exist)">Lẻn qua Điện Yêu tinh</a> - 2:55
+10. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Dwarves_at_Work&amp;action=edit&amp;redlink=1" title="Dwarves at Work (page does not exist)">Người Lùn tại nơi làm việc</a> - 0:40
+11. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Combat_in_Mirkwood&amp;action=edit&amp;redlink=1" title="Combat in Mirkwood (page does not exist)">Trận chiến trong Mirkwood</a> - 1:33
+12. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sneaking_through_Elvish_Halls&amp;action=edit&amp;redlink=1" title="Sneaking through Elvish Halls (page does not exist)">Lẻn qua Elvish Hội trường</a> - 2:55
 13. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Battle_of_Lake-Town&amp;action=edit&amp;redlink=1" title="Battle of Lake-Town (page does not exist)">Trận Lake-Town</a> - 2:26
 14. <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Desolation_of_Smaug_(The_Hobbit_Soundtrack)&amp;action=edit&amp;redlink=1" title="The Desolation of Smaug (The Hobbit Soundtrack) (page does not exist)">Sự tàn phá của Smaug</a> - 1:32
-15. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Smaug_Awakens&amp;action=edit&amp;redlink=1" title="Smaug Awakens (page does not exist)">Smaug thức tỉnh</a> - 1:45
-16. <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Battle_of_Five_Armies_(The_Hobbit_Soundtrack)&amp;action=edit&amp;redlink=1" title="The Battle of Five Armies (The Hobbit Soundtrack) (page does not exist)">Trận chiến của năm đạo quân</a> - 2:35
+15. <a class="new" href="https://tolkiengateway.net/w/index.php?title=Smaug_Awakens&amp;action=edit&amp;redlink=1" title="Smaug Awakens (page does not exist)">Smaug Thức tỉnh</a> - 1:45
+16. <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Battle_of_Five_Armies_(The_Hobbit_Soundtrack)&amp;action=edit&amp;redlink=1" title="The Battle of Five Armies (The Hobbit Soundtrack) (page does not exist)">Cái Trận chiến Năm Đạo quân</a> - 2:35
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

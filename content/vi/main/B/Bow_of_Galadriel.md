@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bow of the Galadhrim"
 ---
 
-Chuyển hướng tới [Cung của Galadhrim](Bow_of_the_Galadhrim.md).
+Chuyển hướng đến [Cung của Galadhrim](Bow_of_the_Galadhrim.md).

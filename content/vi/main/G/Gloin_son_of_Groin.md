@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Glóin"
 ---
 
-Chuyển hướng tới [Glóin](Glóin.md).
+Chuyển hướng đến [Glóin](Glóin.md).

@@ -15,7 +15,7 @@ sort_keys:
   "Quenya adjectives": "Yara"
 ---
 
-**Yára** là từ [Quenya](../Q/Quenya.md) cho *old*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc *ancient*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Yára** là từ [Quenya](../Q/Quenya.md) chỉ *old*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc *ancient*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -27,7 +27,7 @@ sort_keys:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md): *[iaur](../I/Iaur.md)*
+- [Sindarin](../S/Sindarin.md): *[iaur](../I/Iaur.md)*
 
 ## Xem thêm {#See_also}
 

@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miss_J.L._Curry_15_July_1964.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7b/Miss_J.L._Curry_15_July_1964.jpg/300px-Miss_J.L._Curry_15_July_1964.jpg" decoding="async" loading="lazy" width="300" height="291" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7b/Miss_J.L._Curry_15_July_1964.jpg 1.5x" data-file-width="361" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-Vào [15 tháng 7](../_/15_July.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi cô J.L. Curry**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [15 tháng 7](../_/15_July.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Cô J.L. Curry**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Mô tả:** 2 trang, 8vo, một bản đồ khí cầu màu xanh nhạt, địa chỉ trên verso, Oxford, không ghi ngày tháng nhưng có dấu bưu điện ngày 15 tháng 7 năm 1964.
 - **Ấn bản:** Các đoạn trích từ bức thư và bản sao chép trong bức ảnh chụp trang cuối cùng của bức thư, xuất hiện trong *[Sotheby's Literature, History &amp; Illustrated Books 10 July 2001](../S/Sotheby's_Literature,_History_and_Illustrated_Books_10_July_2001.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
@@ -29,7 +29,7 @@ Bức thư có chữ ký đẹp được ký về [Walt Disney](../W/Walt_Disney
 
 *"\[...\] Tôi nhận ra tài năng của ông, nhưng đối với tôi, nó dường như luôn bị hư hỏng một cách vô vọng. Mặc dù trong hầu hết các 'bức tranh' từ studio của ông đều có những đoạn đáng ngưỡng mộ hoặc quyến rũ, nhưng tác động của tất cả chúng đối với tôi thật kinh tởm. Một số khiến tôi buồn nôn \[...\]"*
 
-Ông ta cũng cáo buộc Disney thực hiện hoạt động kinh doanh của ông ta "chỉ đơn giản là một kẻ lừa đảo: sẵn sàng và thậm chí mong muốn lừa gạt những người ít kinh nghiệm hơn bằng những thủ đoạn đủ 'hợp pháp' để giúp ông ta thoát khỏi tù"; ông nói thêm rằng công việc riêng của ông nằm trong tay Allen & Unwin ("một công ty có danh tiếng cao nhất"); rằng bản thân ông "không có động cơ lợi nhuận" (mặc dù "đáng ra tôi không nên cân nhắc bất kỳ đề nghị nào từ Disney. Tôi không đến nỗi nghèo đến mức \[...\]"; và rằng ông đã bị trì hoãn vài tuần trong việc hoàn thành bức thư này vì bệnh tật và thiếu thư ký.
+Ông ta cũng cáo buộc Disney thực hiện hoạt động kinh doanh của ông ta "chỉ đơn giản là một kẻ lừa đảo: sẵn sàng và thậm chí mong muốn lừa gạt những người ít kinh nghiệm hơn bằng những thủ đoạn đủ 'hợp pháp' để giúp ông ta thoát khỏi tù"; ông ta nói thêm rằng công việc riêng của ông ta nằm trong tay Allen &amp; Unwin ("một công ty có danh tiếng cao nhất"); rằng bản thân ông "không có động cơ lợi nhuận" (mặc dù "đáng ra tôi không nên cân nhắc bất kỳ đề nghị nào từ Disney. Tôi không đến nỗi nghèo đến mức \[...\]"; và rằng ông đã bị trì hoãn vài tuần trong việc hoàn thành bức thư này vì bệnh tật và thiếu thư ký.
 
 <span></span>
 

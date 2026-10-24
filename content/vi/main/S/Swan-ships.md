@@ -28,11 +28,11 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Donato_Giancola_-_The_Burden_of_Time.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/Donato_Giancola_-_The_Burden_of_Time.jpg/200px-Donato_Giancola_-_The_Burden_of_Time.jpg" decoding="async" loading="lazy" width="200" height="159" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cb/Donato_Giancola_-_The_Burden_of_Time.jpg/300px-Donato_Giancola_-_The_Burden_of_Time.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cb/Donato_Giancola_-_The_Burden_of_Time.jpg/400px-Donato_Giancola_-_The_Burden_of_Time.jpg 2x" data-file-width="2500" data-file-height="1993"/></a><figcaption><i>The Burden of Time</i> by <a href="../D/Donato_Giancola.md" title="Donato Giancola">Donato Giancola</a></figcaption></figure>
 
-**Tàu thiên nga** là những con tàu của [Yêu tinh](../E/Elves.md) được chế tạo để giống với [thiên nga](Swans.md).
+**Tàu thiên nga** là [Tiên](../E/Elves.md) tàu được chế tạo giống với [những con thiên nga](Swans.md).
 
-## Teleri {#The_Teleri}
+## Cái Teleri {#The_Teleri}
 
-Khi [Teleri](../F/Falmari.md) đến [Aman](../A/Aman.md) và cư trú tại [Alqualondë](../A/Alqualondë.md), họ đã đóng những con tàu màu trắng giống như những con thiên nga. Những con tàu này có mắt vàng và tia nước, và mỏ của chúng cũng bằng vàng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Fëanor sau đó đã yêu cầu những con tàu từ Teleri, với mục đích sử dụng chúng để chở anh và [Noldor](../N/Noldor.md) [trở lại Trung Địa](../F/Flight_of_the_Noldor.md). Tuy nhiên, [Olwë](../O/Olwë.md) từ chối giao nộp các con tàu và nói rằng,
+Khi [Teleri](../F/Falmari.md) đến [Aman](../A/Aman.md) và cư trú tại [Alqualondë](../A/Alqualondë.md), họ đã đóng những con tàu màu trắng giống như những con thiên nga. Những con tàu này có mắt vàng và phản lực, và mỏ của chúng cũng bằng vàng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Fëanor sau đó yêu cầu các con tàu từ Teleri, với mục đích dùng chúng để chở mình và [Noldor](../N/Noldor.md) [trở lại Trung Địa](../F/Flight_of_the_Noldor.md). Tuy nhiên, [Olwë](../O/Olwë.md) từ chối giao nộp tàu và nói rằng,
 
 <blockquote class="tg-quote noexcerpt">
 <p>We learned not that craft from the Noldor, but from the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lords_of_the_Sea&amp;action=edit&amp;redlink=1" title="Lords of the Sea (page does not exist)">Lords of the Sea</a>; and the white timbers we wrought with our own hands, and the white sails were woven by our wives and our daughters…these are to us as are the gems of the Noldor: the work of our hearts, whose like we shall not make again.
@@ -40,13 +40,13 @@ Khi [Teleri](../F/Falmari.md) đến [Aman](../A/Aman.md) và cư trú tại [Al
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>: <a href="../O/Of_the_Flight_of_the_Noldor.md" title="Of the Flight of the Noldor">Of the Flight of the Noldor</a>&#34;</cite></p>
 </blockquote>
 
-Fëanor sau đó dẫn đầu Noldor trong một [cuộc tấn công](../K/Kinslaying_at_Alqualondë.md) vào Teleri, dùng vũ lực chiếm giữ các con tàu. Fëanor sau đó đã đốt các con tàu ở [Losgar](../L/Losgar.md), phá hủy những con tàu đẹp nhất từng ra khơi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Fëanor sau đó dẫn đầu Noldor trong một [cuộc tấn công](../K/Kinslaying_at_Alqualondë.md) vào Teleri, dùng vũ lực chiếm giữ các tàu. Fëanor sau đó đã đốt cháy các con tàu ở [Losgar](../L/Losgar.md), phá hủy những con tàu đẹp nhất từng ra khơi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lothlórien {#Lothlórien}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Henning_Janssen_-_Elven_Swan_Gondola.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/Henning_Janssen_-_Elven_Swan_Gondola.jpg/300px-Henning_Janssen_-_Elven_Swan_Gondola.jpg" decoding="async" loading="lazy" width="300" height="204" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0d/Henning_Janssen_-_Elven_Swan_Gondola.jpg/450px-Henning_Janssen_-_Elven_Swan_Gondola.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0d/Henning_Janssen_-_Elven_Swan_Gondola.jpg/600px-Henning_Janssen_-_Elven_Swan_Gondola.jpg 2x" data-file-width="800" data-file-height="545"/></a><figcaption><i>Elven Swan Gondola</i> by Henning Janssen</figcaption></figure>
 
-Yêu tinh của [Lothlórien](../L/Lothlórien.md) đã chế tạo một "sà lan hình thiên nga", có "cổ cong, đôi mắt nạm ngọc và đôi cánh giơ lên ​​một nửa".<sup id="cite_ref-TI_3-0" class="reference"><a href="#cite_note-TI-3">[3]</a></sup>
+Tiên tộc của [Lothlórien](../L/Lothlórien.md) đã chế tạo một "sà lan hình thiên nga", có "cổ cong, mắt nạm ngọc và đôi cánh cụp lên một nửa".<sup id="cite_ref-TI_3-0" class="reference"><a href="#cite_note-TI-3">[3]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <p>They turned a sharp bend in the river, and there, sailing proudly down the stream toward them, they saw a swan of great size. The water rippled on either side of the white breast beneath its curving neck. Its beak shone like burnished gold, and its eyes glinted like jet set in yellow stones; its huge white wings were half lifted. A music came down the river as it drew nearer; and suddenly they perceived that it was a ship, wrought and carved with elven-skill in the likeness of a bird. Two elves clad in white steered it with black paddles. In the midst of the vessel sat Celeborn, and behind him stood Galadriel, tall and white; a circlet of golden flowers was in her hair, and in her hand she held a harp, and she sang.
@@ -58,13 +58,13 @@ Yêu tinh của [Lothlórien](../L/Lothlórien.md) đã chế tạo một "sà l
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Måns_Björkman_-_Dol_Amroth_device.gif.md"><img src="https://tolkiengateway.net/w/images/c/cd/M%C3%A5ns_Bj%C3%B6rkman_-_Dol_Amroth_device.gif" decoding="async" loading="lazy" width="101" height="101" class="mw-file-element" data-file-width="101" data-file-height="101"/></a><figcaption></figcaption></figure>
 
-Biểu tượng của [Hoàng tử Dol Amroth](../P/Prince_of_Dol_Amroth.md) là một lá cờ màu xanh bạc, mang hình một con tàu có mũi thiên nga trên biển.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Biểu tượng của [Thân vương Dol Amroth](../P/Prince_of_Dol_Amroth.md) là một lá cờ màu xanh bạc, mang hình một con tàu có mũi thiên nga trên biển.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_Legendarium}
 
-Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [Aulë](../A/Aulë.md) dường như là người đầu tiên chế tạo "những chiếc bình lớn giống như thân của những con thiên nga".<sup id="cite_ref-LT1_5-0" class="reference"><a href="#cite_note-LT1-5">[5]</a></sup>
+Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, [Aulë](../A/Aulë.md) dường như là người đầu tiên tạo ra "những chiếc bình lớn giống như thân của những con thiên nga".<sup id="cite_ref-LT1_5-0" class="reference"><a href="#cite_note-LT1-5">[5]</a></sup>
 
-Một chi tiết bị bỏ sót trong phần mô tả về con thuyền thiên nga của Lothlórien trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* (do hạn chế về không gian, cân nhắc về mặt văn học hoặc vì ý tưởng đã bị loại bỏ), đã được cung cấp bởi [Christopher Tolkien](../C/Christopher_Tolkien.md):
+Một chi tiết bị bỏ sót trong phần mô tả chiếc thuyền thiên nga của Lothlórien trong *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* (do hạn chế về không gian, cân nhắc về mặt văn học hoặc vì ý tưởng đã bị loại bỏ), đã được cung cấp bởi [Christopher Tolkien](../C/Christopher_Tolkien.md):
 
 <blockquote class="tg-quote noexcerpt">
 <p>Two elves, clad in white, steered it with black paddles so contrived that the blades folded back, as a swan&#39;s foot does, when they were thrust forward in the water.
@@ -92,15 +92,15 @@ Một chi tiết bị bỏ sót trong phần mô tả về con thuyền thiên n
 		</li>
 </ul>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd><a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> rides a Swan-ship prior to giving the <a href="../F/Fellowship_of_the_Ring.md" title="Fellowship of the Ring">Fellowship of the Ring</a> their gifts.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>A Swan-ship can be seen along the banks of <a href="../C/Celebrant.md" title="Celebrant">Celebrant</a>, a small river running from <a href="../M/Mirrormere.md" title="Mirrormere">Mirrormere</a> to <a href="../A/Anduin.md" title="Anduin">Anduin</a>, near the tributary to Anduin in <a href="../L/Lothlórien.md" title="Lothlórien">Lothlórien</a>.</dd></dl>
 
-<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Chúa tể của những chiếc nhẫn: Những chiếc nhẫn quyền lực</a></i>:</b>
+<b>2022: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>:</b>
 
 <dl><dd><b>September 1: <i><a href="../A/A_Shadow_of_the_Past.md" title="A Shadow of the Past">A Shadow of the Past</a></i>:</b>
 <dl><dd>A group of Elf children are seen playing before watching a young <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> build a paper ship. When Galadriel sets the ship to float down a river, the paper changes it&#39;s shape to be that of a Swan-ship. However, the Elf children cause it to sink by throwing stones at it, resulting in Galadriel to try to attack them, only being prevented by her older brother, <a href="../F/Finrod.md" title="Finrod">Finrod</a>, who pulled the swan ship from the river with his dagger.</dd></dl></dd></dl>

@@ -33,11 +33,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a class="extiw" href="http://en.wikipedia.org/wiki/English_people" title="wikipedia:English people">Englishman</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gerard Manface</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Lawyer and Mountaineer</td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data">The <a href="../N/Notion_Club.md" title="Notion Club">Notion Club</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/English_language" title="wikipedia:English language">English</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data">Unknown wife</td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data">Many children</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-Ngài **Gerard Manface** là thành viên của [Câu lạc bộ Notion](../N/Notion_Club.md).
+Ngài **Gerard Manface** là thành viên của [Notion Club](../N/Notion_Club.md).
 
 ## Lịch sử {#History}
 
-Ngài Gerard Manface được đào tạo tại All Souls và trở thành luật sư theo nghề nghiệp. Sở thích chính của ông là leo núi và ông hay đi du lịch. Ông có nhiều con cái và đã viết nhiều sách và truyện chưa xuất bản cho chúng. Ông là một người bạn đặc biệt của [Philip Frankley](../P/Philip_Frankley.md), mặc dù ông không sống ở [Oxford](../O/Oxford.md) và hiếm khi xuất hiện tại [Câu lạc bộ Notion](../N/Notion_Club.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ngài Gerard Manface được đào tạo tại All Souls và trở thành luật sư theo nghề nghiệp. Sở thích chính của ông là leo núi và ông hay đi du lịch. Ông có nhiều con cái và đã viết nhiều sách và truyện chưa xuất bản cho chúng. Ông là một người bạn đặc biệt của [Philip Frankley](../P/Philip_Frankley.md), mặc dù ông không cư trú tại [Oxford](../O/Oxford.md) và hiếm khi xuất hiện tại [Notion Club](../N/Notion_Club.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

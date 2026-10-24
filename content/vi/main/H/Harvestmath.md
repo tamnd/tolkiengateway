@@ -38,11 +38,11 @@ langlinks:
 <dl><dd><dl><dd><dl><dd>*<small><i>Differ from Shire names.</i></small></dd></dl></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-<br> **Harvestmath** là tên của tháng thứ chín trong [Lịch Bree](../B/Bree_Calendar.md) (được sử dụng bởi [Người Hobbit](Hobbits.md) của [Bree](../B/Bree.md)), sau [Thứ Tư](../W/Wedmath.md). Ở [Shire](../S/Shire.md) tháng được gọi là [Halimath](Halimath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<br> **Harvestmath** là tên của tháng thứ chín trong [Bree Lịch](../B/Bree_Calendar.md) (được sử dụng bởi [Hobbit](Hobbits.md) của [Bree](../B/Bree.md)), sau [Thứ Tư](../W/Wedmath.md). Trong [Shire](../S/Shire.md) tháng được gọi là [Halimath](Halimath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên thể hiện sự [hiện đại hóa](Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 9, <i><a class="extiw" href="http://en.wiktionary.org/wiki/h%C3%A6rfestmona%C3%BE" title="wiktionary:hærfestmonaþ">hærfestmōnaþ</a></i> "Harvest-month".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Tên thể hiện sự [hiện đại hóa](Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng Chín, <i><a class="extiw" href="http://en.wiktionary.org/wiki/h%C3%A6rfestmona%C3%BE" title="wiktionary:hærfestmonaþ">hærfestmōnaþ</a></i> "Tháng thu hoạch".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

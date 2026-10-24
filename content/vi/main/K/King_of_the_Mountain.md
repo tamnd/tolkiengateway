@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of the Dead"
 ---
 
-Chuyển hướng tới [Vua Tử Thần](King_of_the_Dead.md).
+Chuyển hướng tới [Vua of the Dead](King_of_the_Dead.md).

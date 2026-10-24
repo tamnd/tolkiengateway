@@ -42,16 +42,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/H/Hither_Shore_9.png.md"><img src="https://tolkiengateway.net/w/images/c/c7/Hither_Shore_9.png" decoding="async" loading="lazy" width="302" height="430" class="mw-file-element" data-file-width="302" data-file-height="430"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hither Shore Band 9<br/><small>Tolkien&#39;s Influence on Fantasy</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Fornet-Ponse.md" title="Thomas Fornet-Ponse">Thomas Fornet-Ponse</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a> (cover art)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../D/Deutsche_Tolkien_Gesellschaft.md" title="Deutsche Tolkien Gesellschaft">Deutsche Tolkien Gesellschaft</a>/Scriptorium Oxoniae</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/3_July.md" title="3 July">3 July</a> <a href="../_/2013.md" title="2013">2013</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">199</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3981061277" title="Special:BookSources/978-3981061277">978-3981061277</a></td></tr></tbody></table>
 
-<b><i>Hither Shore</i> Band 9: <i>Ảnh hưởng của Tolkien đối với truyện giả tưởng</i></b> là tập thứ mười của tạp chí *[Hither Shore](<Hither_Shore_(journal).md>)*.
+<b><i>Hither Shore</i> Band 9: Ảnh hưởng của <i>Tolkien đối với Fantasy</i></b> là tập thứ mười của tạp chí *[Hither Shore](<Hither_Shore_(journal).md>)*.
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
-- Hội thảo Tolkien 2012:
+- Tolkien Hội thảo 2012:
     - "Über die (Un-)Möglichkeit, văn học Einfluss nachzuweisen" của [Thomas Fornet-Ponse](../T/Thomas_Fornet-Ponse.md)
     - "Sự nhất quán bên trong của thực tế: J.R.R. Tolkien, Flannery O'Connor, Michael D. O'Brien, Jonathan Franzen" của Guglielmo Spirito và Emanuele Rimoli
     - "'Monster', Mode und Moneten — 'Völkerromane', ihre Beziehung zu Tolkiens Werk und das Marketing" của Friedhelm Schneidewind
-    - "Một ánh sáng cũ được nhen nhóm: Ảnh hưởng của Tolkien đối với truyện giả tưởng" của Anna Thayer
+    - "Một ánh sáng cũ được nhen nhóm: Ảnh hưởng của Tolkien đối với sự tưởng tượng" của Anna Thayer
     - "Ähnlichkeiten der Fignkonstellationen in *Der Herr der Ringe* và *Harry Potter*" của Anja Stürzer
     - "Rätsel trong *The Hobbit* và trong Walter Moers' *Rumo*" của Antje Rügamer
     - "*The Lord of the Rings* và *Memorias de Idhún*" của Natalia González de la Llana

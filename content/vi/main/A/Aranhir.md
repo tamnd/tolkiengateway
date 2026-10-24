@@ -11,4 +11,4 @@ redirect_target: "List of minor The Lord of the Rings Online characters in Evend
 redirect_fragment: "Aranhir"
 ---
 
-Chuyển hướng đến [Danh sách các nhân vật phụ trong Chúa tể của những chiếc nhẫn trực tuyến trong Evendim](../L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Evendim.md#Aranhir).
+Chuyển hướng đến [Danh sách các ký tự phụ The Lord of the Rings trực tuyến trong Evendim](../L/List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Evendim.md#Aranhir).

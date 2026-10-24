@@ -32,17 +32,17 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Biên tập, Sự kiện Thiên thể, Tin tức và Ghi chú (bao gồm thảo luận về tiếng Ba Tư như một nguồn cho ngôn ngữ Orkish của Tolkien)
-- Atanatárion của Leonid Korablev (thư pháp đẹp bằng văn bản bằng tiếng Sindarin)
-- Báo cáo Bree Moot của Ron Hyde
+- Bài xã luận, Sự kiện Thiên thể, Tin tức và Ghi chú (bao gồm thảo luận về tiếng Ba Tư như một nguồn cho ngôn ngữ Orkish của Tolkien)
+- Atanatárion của Leonid Korablev (thư pháp đẹp của văn bản trong Sindarin)
+- Bree Báo cáo tranh luận của Ron Hyde
 - Haplology của [Rhona Beare](../R/Rhona_Beare.md) (giải thích nó là gì)
-- Hậu tố động từ Quenya -ta và -ya của [Ivan Derzhanski](../I/Ivan_Derzhanski.md) (phản hồi bài viết trong số trước)
-- Danh từ đại chúng Quenya và sở hữu cách riêng của Lisa Star (lý thuyết của tôi về kết thúc -eva)
-- Gnomic Verse của Andy Mariani (thơ ở Quenya)
+- Quenya Hậu tố động từ -ta và -ya của [Ivan Derzhanski](../I/Ivan_Derzhanski.md) (phản hồi bài viết trong số trước)
+- Quenya Danh từ đại chúng và sở hữu cách riêng của Lisa Star (lý thuyết của tôi về kết thúc -eva)
+- Bài thơ Gnomic của Andy Mariani (bài thơ trong Quenya)
 - Dự án Gnomic Verses của Andy Mariani và Lisa Star (thảo luận về dự án đề xuất)
 - Khảo sát phân tích phần cuối -eva (danh sách các bài báo đã xuất bản thảo luận về nó)
-- Các giai đoạn mặt trăng của Leonid Korablev (tác phẩm nghệ thuật với thư pháp tengwar nêu tên các giai đoạn của mặt trăng ở Quenya)
+- Mặt Trăng Các giai đoạn của Leonid Korablev (tác phẩm nghệ thuật với thư pháp tengwar nêu tên các giai đoạn của mặt trăng trong Quenya)
 - A Hill Full, a Hole Full (bài tập về Trang Bas du của bạn, sử dụng -eva kết thúc bằng danh sách từ và hình ảnh)
-- Quỷ khổng lồ ở quầy thanh toán (phim hoạt hình)
+- Troll tại quầy trả phòng (phim hoạt hình)
 
 <center><a href="Tyalië_Tyelelliéva_2.md" title="Tyalië Tyelelliéva 2">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_4.md" title="Tyalië Tyelelliéva 4">Next Issue</a></center>

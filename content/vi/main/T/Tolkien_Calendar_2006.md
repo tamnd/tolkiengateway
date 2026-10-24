@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Calendar_2006.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/The_Hobbit_Calendar_2006.jpg/320px-The_Hobbit_Calendar_2006.jpg" decoding="async" loading="lazy" width="320" height="316" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/The_Hobbit_Calendar_2006.jpg/480px-The_Hobbit_Calendar_2006.jpg 1.5x, https://tolkiengateway.net/w/images/b/ba/The_Hobbit_Calendar_2006.jpg 2x" data-file-width="500" data-file-height="493"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2006</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/4_July.md" title="4 July">4 July</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-00-720813-8" title="Special:BookSources/0-00-720813-8">0-00-720813-8</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-079930-7" title="Special:BookSources/0-06-079930-7">0-06-079930-7</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2005.md" title="Tolkien Calendar 2005">Tolkien Calendar 2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2007.md" title="Tolkien Calendar 2007">Tolkien Calendar 2007</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2006</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [4 tháng 7](../_/4_July.md) [2005](../_/2005.md). Được gắn nhãn là <i><b>Lịch Hobbit</b></i>, nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
+Lịch <i><b>Tolkien 2006</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [4 tháng 7](../_/4_July.md) [2005](../_/2005.md). Được gắn nhãn là <i><b>The Hobbit Lịch</b></i>, nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dựa trên *[The Hobbit](The_Hobbit.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -51,17 +51,17 @@ infobox:
 
 ## Minh họa {#Illustrations}
 
-- Tháng 1 - "[Sảnh của Beorn](<../../file/J/J.R.R._Tolkien_-_Beorn's_Hall_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-0" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
-- Tháng 2 - "[Ba con quỷ khổng lồ bị biến thành đá](<../../file/J/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-1" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
-- Tháng 3 - "[Dãy núi mù sương nhìn về phía Tây từ Eyrie đến Cổng Goblin](<../../file/J/J.R.R._Tolkien_-_The_Misty_Mountains_looking_West_from_the_Eyrie_towards_Goblin_Gate_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-2" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- Tháng 1 - "[Beorn Hội trường](<../../file/J/J.R.R._Tolkien_-_Beorn's_Hall_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-0" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- Tháng 2 - "[Ba Troll bị biến thành Đá](<../../file/J/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-1" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- Tháng 3 - "[ Dãy Núi Sương Mù nhìn Phương Tây từ Eyrie đến Cổng Goblin](<../../file/J/J.R.R._Tolkien_-_The_Misty_Mountains_looking_West_from_the_Eyrie_towards_Goblin_Gate_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-2" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
 - Tháng 4 - "[The Hill: Hobbiton-across-the-Water](<../../file/J/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md>)"
 - Tháng 5 - "[Rivendell](../../file/J/J.R.R._Tolkien_-_Rivendell.jpg.md)"
-- Tháng 6 - "[Bilbo đến Túp lều của Yêu tinh bè](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)"
-- Centrefold - "Bản đồ của Thror và vùng đất hoang dã"
-- Tháng 7 - "[Cổng của Vua Yêu Tinh](<../../file/J/J.R.R._Tolkien_-_The_Elvenking's_Gate_(II)_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-3" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- Tháng 6 - "[Bilbo đến Lều Bè-Tiên tộc](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(II).jpg.md>)"
+- Trung tâm - "Bản đồ của Thror và Wilderland"
+- Tháng 7 - "[Cổng Vua Tiên](<../../file/J/J.R.R._Tolkien_-_The_Elvenking's_Gate_(II)_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-3" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
 - Tháng 8 - "[Thị trấn hồ](<../../file/J/J.R.R._Tolkien_-_Lake_Town_(Colored_by_H._E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_1-4" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
-- Tháng 9 - "[Bilbo thức dậy với ánh nắng ban mai trong mắt ông](../../file/J/J.R.R._Tolkien_-_Bilbo_woke_with_the_early_sun_in_his_eyes.jpg.md)"
-- Tháng 10 - "[Cổng trước](<../../file/J/J.R.R._Tolkien_-_The_Front_Gate_(Colored_by_H.E._Riddett).png.md>)" <sup id="cite_ref-Rid_1-5" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
+- tháng Chín - "[Bilbo Thức Dậy Với Sáng Sớm Mặt Trời Trong Mắt Anh](../../file/J/J.R.R._Tolkien_-_Bilbo_woke_with_the_early_sun_in_his_eyes.jpg.md)"
+- Tháng 10 - "[ Cổng Trước](<../../file/J/J.R.R._Tolkien_-_The_Front_Gate_(Colored_by_H.E._Riddett).png.md>)" <sup id="cite_ref-Rid_1-5" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
 - Tháng 11 - "[Con đường lên núi](<../../file/J/J.R.R._Tolkien_-_The_Mountain-path_(Colored_by_H.E._Riddett).png.md>)" <sup id="cite_ref-Rid_1-6" class="reference"><a href="#cite_note-Rid-1">[note 1]</a></sup>
 - Tháng 12 - "[Cuộc trò chuyện với Smaug](<../../file/J/J.R.R._Tolkien_-_Conversation_with_Smaug_(large).jpg.md>)"
 
@@ -91,8 +91,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94380" rel="noreferrer noopener" target="_blank">Tolkien 2006 - Lịch Hobbit</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/2005_2006.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2005 - 2006</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94380" rel="noreferrer noopener" target="_blank">Tolkien 2006 - The Hobbit Lịch</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/2005_2006.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2005 - 2006</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

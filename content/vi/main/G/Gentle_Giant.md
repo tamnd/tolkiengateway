@@ -23,9 +23,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../V/Viggo_Mortensen.md" title="Viggo Mortensen">Viggo Mortensen</a>, <a class="external text" href="http://tinyurl.com/6mr9vr" rel="noreferrer noopener" target="_blank">YouTube</a>.</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Gentle Giant Studios** là một công ty có trụ sở tại Burbank, California được thành lập bởi nhà làm phim hoạt hình Karl Meyer. Công ty này là công ty tiên phong trong lĩnh vực quét 3-D kỹ thuật số và quét nhiều diễn viên chính trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) khi ở trường quay/địa điểm ở [New Zealand](../N/New_Zealand.md) trong quá trình quay phim.
+**Gentle Giant Studios** là một công ty có trụ sở tại Burbank, California được thành lập bởi nhà làm phim hoạt hình Karl Meyer. Công ty là công ty tiên phong trong lĩnh vực quét 3-D kỹ thuật số và quét nhiều diễn viên chính trong [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>) khi ở trường quay/địa điểm ở [New Zealand](../N/New_Zealand.md) trong quá trình quay phim.
 
-Công ty cũng có một bộ phận sưu tầm, được gọi là **Gentle Giant, Ltd.**. Được thành lập vào năm 2002, họ sản xuất các tượng bán thân nhỏ bằng đá polystone, các mô hình hoạt hình và các bức tượng từ *Chúa tể của những chiếc nhẫn* của Peter Jackson.
+Công ty cũng có một bộ phận sưu tầm, được gọi là **Gentle Giant, Ltd.**. Được thành lập vào năm 2002, họ sản xuất các tượng bán thân nhỏ bằng đá polystone, các mô hình hoạt hình và các bức tượng từ The Lord of the Rings* của *Peter Jackson.
 
 ## Sưu tập {#Collectibles}
 
@@ -33,29 +33,29 @@ Công ty cũng có một bộ phận sưu tầm, được gọi là **Gentle Gia
 
 - Strider Ringbearer - Giới hạn 2000 chiếc - ngày phát hành tháng 2 năm 2007
 - Ringwraith Ringbearer - Giới hạn 2000 chiếc - ngày phát hành tháng 2 năm 2007
-- Gandalf - Giới hạn ở 3.000 chiếc - ngày phát hành tháng 5 năm 2007
+- Gandalf - Giới hạn ở 3.000 chiếc - ngày phát hành Tháng 5 năm 2007
 - Glorfindel - Giới hạn ở 500 miếng - Độc quyền tại San Diego Comic-Con 2007
 
 Như một chương trình khuyến mãi đặc biệt, Gentle Giant Ltd. đã nhét ngẫu nhiên 100 chiếc Nhẫn Một từ [Bộ sưu tập Cao quý](../N/Noble_Collection.md) - Phiên bản Sterling vào các ngăn bí mật của tượng bán thân Strider và Ringwraith.
 
 ### Maquette {#Maquettes}
 
-- Saruman - Giới hạn 1.500 chiếc - ngày phát hành tháng 5 năm 2007
-- Gandalf - Giới hạn 1.500 chiếc - ngày phát hành tháng 6 năm 2007
+- Saruman - Giới hạn 1.500 chiếc - ngày phát hành Tháng 5 năm 2007
+- Gandalf - Giới hạn ở 1.500 chiếc - ngày phát hành tháng 6 năm 2007
 
 ### Bức tượng bán thân nhỏ {#Mini-busts_2}
 
-- Balrog - Giới hạn 3.000 chiếc - ngày phát hành tháng 5 năm 2007
-- Saruman- Giới hạn 3.500 chiếc - ngày phát hành tháng 7 năm 2007
+- Balrog - Giới hạn 3.000 chiếc - ngày phát hành Tháng 5 năm 2007
+- Saruman- Giới hạn ở 3.500 chiếc - ngày phát hành tháng 7 năm 2007
 - Elrond - Giới hạn ở 2.500 chiếc - ngày phát hành tháng 7 năm 2007
-- Sam in Orc Armor - Giới hạn 3000 chiếc - ngày phát hành tháng 9 năm 2007
-- Frodo in Orc Armor - Giới hạn ở 3000 chiếc - ngày phát hành tháng 9 năm 2007
-- Sauron - Phiên bản Size TBD - ngày phát hành cuối năm 2007
+- Sam trong Orc Áo giáp - Giới hạn ở 3000 chiếc - ngày phát hành tháng Chín 2007
+- Frodo trong Orc Áo giáp - Giới hạn ở 3000 chiếc - ngày phát hành tháng Chín 2007
+- Sauron - Kích thước phiên bản TBD - ngày phát hành cuối năm 2007
 - Orc - Kích thước phiên bản TBD - ngày phát hành cuối năm 2007
 
 ### Vụ bán thân kinh điển {#Classics_busts}
 
-- Éowyn - ngày phát hành tháng 3 năm 2008
+- Éowyn - ngày phát hành Tháng 3 năm 2008
 - Gimli - ngày phát hành tháng 3 năm 2008
 - Legolas - ngày phát hành tháng 3 năm 2008
 
@@ -63,7 +63,7 @@ Như một chương trình khuyến mãi đặc biệt, Gentle Giant Ltd. đã n
 
 - Ringwraith on Steed - Kích thước phiên bản TBD - ngày phát hành tháng 10 năm 2007
 - Gilmi - Kích thước phiên bản TBD - ngày phát hành tháng 11 năm 2007
-- Legolas - Kích thước phiên bản TBD - ngày phát hành tháng 1 năm 2008
+- Legolas - Kích thước ấn bản TBD - ngày phát hành tháng 1 năm 2008
 
 ## Xem thêm {#See_also}
 

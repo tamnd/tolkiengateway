@@ -22,7 +22,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Erchamion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Chicago, Illinois</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">?-2020</td></tr></tbody></table>
 
-**Erchamion** là một ban nhạc black metal đến từ Chicago, Illinois.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên của nhóm bắt nguồn từ Erchamion ("Kẻ một tay"), một biệt danh của [Beren](../B/Beren.md) được đặt sau khi [Carcharoth](../C/Carcharoth.md) nuốt chửng bàn tay của ông ta. Bản demo đầu tay năm 2017 của nó được đặt theo tên của [Thranduil](../T/Thranduil.md), vua của [Mirkwood](../M/Mirkwood.md).
+**Erchamion** là một ban nhạc black metal đến từ Chicago, Illinois.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên của nó bắt nguồn từ Erchamion ("Kẻ một tay"), một biểu tượng của [Beren](../B/Beren.md) được đặt sau khi [Carcharoth](../C/Carcharoth.md) nuốt chửng bàn tay của ông. Bản demo đầu tiên năm 2017 của nó được đặt theo tên của [Thranduil](../T/Thranduil.md), vua của [Mirkwood](../M/Mirkwood.md).
 
 ## Danh sách đĩa {#Discography}
 
@@ -31,13 +31,13 @@ infobox:
     2. Dagorlad
     3. Thorin
     4. Bắc Mirkwood
-- Sự điên rồ của Trahald (Demo, 2019)
+- Sự điên rồ của Trahald (Bản demo, 2019)
     1. Câu đố (nhạc cụ)
     2. Hang động
     3. Ngục tối Barad-dur
     4. Gollum
 - Ritualul Antic Al Thuringwethilului (Tách ra, 2019; với Dieseldörf)
-    1. Con Orc hành quân một mình
+    1. Người Orc hành quân một mình
     2. Istari
     3. Yêu tinh trong tuyệt vọng
 

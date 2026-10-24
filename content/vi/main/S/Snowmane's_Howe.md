@@ -47,11 +47,11 @@ infobox:
 <p class="tg-quote-footer"><cite>Carved upon the stone in Snowmane&#39;s Howe</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Snowmane's Howe** là địa điểm trên [Cánh đồng Pelennor](../P/Pelennor_Fields.md) nơi con ngựa của [Vua Théoden](../T/Théoden.md), [Snowmane](Snowmane.md), bị ngã và sau đó được [Rohirrim](../R/Rohirrim.md) chôn cất. Trên chỗ trũng đó, một hòn đá được dựng lên và ở đó cỏ mọc xanh tươi và lâu dài nhất mãi mãi về sau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Snowmane's Howe** là địa điểm trên [cánh đồng Pelennor](../P/Pelennor_Fields.md) nơi con ngựa của [Vua Théoden](../T/Théoden.md), [Snowmane](Snowmane.md), bị ngã và sau đó bị chôn vùi bởi [Rohirrim](../R/Rohirrim.md). Trên chỗ trũng đó, một hòn đá được dựng lên và ở đó cỏ mọc xanh tươi và lâu dài nhất mãi mãi về sau.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2016: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Snowmane&#39;s Howe is a memorial on the post-battle version of the <a href="../P/Pelennor_Fields.md" title="Pelennor Fields">Pelennor Fields</a>.</dd></dl>
 

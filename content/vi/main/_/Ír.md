@@ -24,9 +24,9 @@ sort_keys:
 
 ## Lịch sử {#History}
 
-Ír là cha của [Íring](Íring.md), người được <a class="extiw" href="http://en.wikipedia.org/wiki/Anglo-Saxons" title="wikipedia:Anglo-Saxons">vua Anglo-Saxon</a> [Watol](../W/Watol.md) ủy nhiệm xây dựng một con đường xuyên qua vùng đất của mình và ông đã có thể làm được điều này trong bảy năm. Tuy nhiên, các con trai của Watol, [Wætlingas](../W/Wætlingas.md), phẫn nộ với sự kiêu ngạo của Íring và đánh cược rằng họ có thể xây một con đường thậm chí còn tốt hơn chỉ trong ba năm.
+Ír là cha của [Íring](Íring.md), người được <a class="extiw" href="http://en.wikipedia.org/wiki/Anglo-Saxons" title="wikipedia:Anglo-Saxons">Anglo-Saxon</a> vua [Watol](../W/Watol.md) ủy quyền xây dựng một con đường xuyên qua vùng đất của mình và ông có thể làm được việc này trong bảy năm. Tuy nhiên, các con trai của Watol, [Wætlingas](../W/Wætlingas.md), phẫn nộ với sự kiêu ngạo của Íring và đánh cược rằng họ có thể xây một con đường thậm chí còn tốt hơn chỉ trong ba năm.
 
-Tuy nhiên, Vua Ír, người liên minh với [Orc](../O/Orcs.md) của đảo [Íwerin](Íwerin.md) (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Ireland" title="wikipedia:Ireland">Ireland</a>), đã gửi "tất cả các loại tội ác bí mật" theo lệnh của con trai mình, để ngăn chặn Wætlingas đạt được mục tiêu của họ.<sup id="cite_ref-Ire_1-1" class="reference"><a href="#cite_note-Ire-1">[1]</a></sup>
+Tuy nhiên, Vua Ír, người đã liên minh với [Orc](../O/Orcs.md) đảo [Íwerin](Íwerin.md) (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Ireland" title="wikipedia:Ireland">Ireland</a>), đã gửi "tất cả các loại tội ác bí mật" theo lệnh của con trai mình, để ngăn cản người Wætlingas đạt được mục tiêu của họ.<sup id="cite_ref-Ire_1-1" class="reference"><a href="#cite_note-Ire-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

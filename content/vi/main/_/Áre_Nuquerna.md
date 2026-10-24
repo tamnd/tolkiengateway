@@ -16,13 +16,13 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/E/Esse_nuquerna.gif.md"><img src="https://tolkiengateway.net/w/images/c/ce/Esse_nuquerna.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-<i><b>Áre Nuquerna</b></i> là tên trong [Quenya](../Q/Quenya.md) của chữ cái thứ ba mươi hai trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Về hình thức, nó là chữ cái thứ ba mươi mốt ([Áre](Áre.md)) bị đảo ngược. Nó chủ yếu được sử dụng như một biến thể, đặc biệt là trong các chế độ sử dụng *[tehtar](../T/Tehtar.md)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> xếp chồng và nó đại diện cho **Z**. Tên phương Tây của bức thư này là <i><b>Oza</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>Áre Nuquerna</b></i> là tên trong [Quenya](../Q/Quenya.md) chữ cái thứ ba mươi hai trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Về hình thức, nó là chữ cái thứ ba mươi mốt ([Áre](Áre.md)) đảo ngược. Nó chủ yếu được sử dụng như một biến thể, đặc biệt là trong các chế độ sử dụng *[tehtar](../T/Tehtar.md)*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> xếp chồng và nó đại diện cho **Z**. Tên Westron của bức thư này là <i><b>Oza</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <br>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

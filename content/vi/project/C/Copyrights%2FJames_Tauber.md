@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tauber, James"
 ---
 
-- [James Tauber](../../main/J/James_Tauber.md) đã vui lòng cấp phép sử dụng hình ảnh này trên Cổng Tolkien.
+- [James Tauber](../../main/J/James_Tauber.md) đã vui lòng cấp phép sử dụng hình ảnh này trên Tolkien Gateway.
 - Ngày: [12 tháng 7](../../main/J/July_12.md), [2024](../../main/_/2024.md)
 - Người dùng đã xin phép qua Discord: \[\[User:Hyarion\]

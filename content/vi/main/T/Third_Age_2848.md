@@ -16,14 +16,14 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2845.md" title="Third Age 2845">2845</a><a href="Third_Age_2846.md" title="Third Age 2846">2846</a><a href="Third_Age_2847.md" title="Third Age 2847">2847</a><a class="mw-selflink selflink">2848</a><a href="Third_Age_2849.md" title="Third Age 2849">2849</a><a href="Third_Age_2850.md" title="Third Age 2850">2850</a><a href="Third_Age_2851.md" title="Third Age 2851">2851</a></div></div></div></div></div></div>
 
-**Thời đại thứ ba 2848** (viết tắt là **T.A. 2848**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2848 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2848 còn được gọi là **S.R. 1248** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2848** (viết tắt là **T.A. 2848**) là năm [thứ 2848 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2848 còn được gọi là **S.R. 1248** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Thủ lĩnh](../C/Chieftains_of_the_Dúnedain.md) của [Dúnedain](../D/Dúnedain_of_Arnor.md) [Arathorn I](../A/Arathorn_I.md).<sup id="cite_ref-North_1-0" class="reference"><a href="#cite_note-North-1">[1]</a></sup>
-- [Argonui](../A/Argonui.md), con trai của Arathorn I, trở thành Thủ lĩnh thứ mười ba.<sup id="cite_ref-North_1-1" class="reference"><a href="#cite_note-North-1">[1]</a></sup>
-- Cái chết của [Thain](Thain.md) [Fortinbras đã lấy đi tôi](../F/Fortinbras_Took_I.md).<sup id="cite_ref-Took_2-0" class="reference"><a href="#cite_note-Took-2">[2]</a></sup>
-- [Gerontius Took](../G/Gerontius_Took.md), con trai của Fortinbras Took I, trở thành Thain thứ 26 của [Shire](The_Shire.md).<sup id="cite_ref-Took_2-1" class="reference"><a href="#cite_note-Took-2">[2]</a></sup>
+- [Argonui](../A/Argonui.md), con trai của Arathorn I, trở thành người thứ mười ba Thủ lĩnh.<sup id="cite_ref-North_1-1" class="reference"><a href="#cite_note-North-1">[1]</a></sup>
+- Cái chết của [Thain](Thain.md) [Fortinbras đã cướp đi tôi](../F/Fortinbras_Took_I.md).<sup id="cite_ref-Took_2-0" class="reference"><a href="#cite_note-Took-2">[2]</a></sup>
+- [Gerontius Took](../G/Gerontius_Took.md), con trai của Fortinbras Took I, trở thành Thain thứ hai mươi sáu của [ Shire](The_Shire.md).<sup id="cite_ref-Took_2-1" class="reference"><a href="#cite_note-Took-2">[2]</a></sup>
 
 <span></span>
 

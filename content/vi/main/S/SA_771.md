@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 771"
 ---
 
-Chuyển hướng đến [Thời đại thứ hai 771](Second_Age_771.md).
+Chuyển hướng đến [Kỷ Đệ Nhị 771](Second_Age_771.md).

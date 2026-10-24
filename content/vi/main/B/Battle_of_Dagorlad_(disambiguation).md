@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Dagorlad**, Đồng bằng Chiến trận, được đặt tên như vậy vì số lượng trận chiến diễn ra trên hoặc gần đó:
+**Dagorlad**, Đồng bằng Chiến trận, được đặt tên như vậy dựa trên số lượng trận chiến diễn ra trên hoặc gần đó:
 
 - ** [Trận Dagorlad](Battle_of_Dagorlad.md) ([S.A.](../S/Second_Age.md) [3434](../S/Second_Age_3434.md)), trận chiến đầu tiên được ghi chép trong [Cuộc chiến của Liên minh cuối cùng](../W/War_of_the_Last_Alliance.md).**
 - Một [trận chiến](../S/Second_Battle_of_Dagorlad~64113.md) ([T.A.](../T/Third_Age.md) [1899](../T/Third_Age_1899.md)) không tên giữa [Calimehtar](<../C/Calimehtar_(King_of_Gondor).md>) và [Wainriders](../W/Wainriders.md).

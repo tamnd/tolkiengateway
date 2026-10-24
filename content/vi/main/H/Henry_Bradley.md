@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Bradley, Henry"
 ---
 
-**Henry Bradley** ([3 tháng 12](../_/3_December.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=1845&amp;action=edit&amp;redlink=1" title="1845 (page does not exist)">1845</a> – [23 tháng 5](../_/23_May.md) [1923](../_/1923.md)) là biên tập viên cấp cao của *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)* (OED). Bradley là người giám sát OED của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Henry Bradley** ([3 tháng 12](../_/3_December.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=1845&amp;action=edit&amp;redlink=1" title="1845 (page does not exist)">1845</a> – [23 tháng 5](../_/23_May.md) [1923](../_/1923.md)) là biên tập viên cấp cao của *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)* (OED). Bradley là người giám sát của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ở OED.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Tolkien đã viết cáo phó cho Bradley, đăng trên [*Bản tin của Hiệp hội Nghiên cứu Nhân văn Hiện đại*, Nr. 20](../B/Bulletin_of_the_Modern_Humanities_Research_Association_20.md), tháng 10 năm 1923.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

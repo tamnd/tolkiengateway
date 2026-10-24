@@ -24,13 +24,13 @@ sort_keys:
 
 - [1954](../_/1954.md): *[The Homecoming of Beorhtnoth, Beorhthelm's Son](<../T/The_Homecoming_of_Beorhtnoth,_Beorhthelm's_Son_(radio_play).md>)* - Tidwald
 - [1955](../_/1955.md): *[The Fellowship of the Ring](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*
-    - Tập 3: "Aragorn" - Không xác định
+    - Tập 3: "Aragorn" - Chưa xác định
     - Tập 4: "Nhiều Cuộc Họp" - Chưa xác định
     - Tập 5: "Cổng Moria" - [Bilbo Baggins](../B/Bilbo_Baggins.md)
 - [1956](../_/1956.md): *[The Lord of the Rings](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>)*
     - Tập 1: "Fangorn" - [Orc](../O/Orcs.md)
     - Tập 2: "Rohan và Isengard" - Giọng nói của [Sauron](../S/Sauron.md)
-    - Tập 5: "Minas Tirith và ngọn núi diệt vong" - [Thuyền trưởng áo đen](../W/Witch-king.md)
+    - Tập 5: "Minas Tirith và Núi Diệt Vong" - [Thuyền trưởng áo đen](../W/Witch-king.md)
 
 ## Liên kết ngoài {#External_links}
 

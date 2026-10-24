@@ -18,20 +18,20 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_The_earliest_map.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Christopher_Tolkien_-_The_earliest_map.png/300px-Christopher_Tolkien_-_The_earliest_map.png" decoding="async" loading="lazy" width="300" height="321" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/14/Christopher_Tolkien_-_The_earliest_map.png 1.5x" data-file-width="377" data-file-height="404"/></a><figcaption><i>The earliest map</i> redrawn by Christopher Tolkien</figcaption></figure>
 
-"**Bản đồ sớm nhất**" đề cập đến bản đồ thế giới được hình thành trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, phiên bản sớm nhất của [huyền thoại](../L/Legendarium.md). Bản đồ được sao chép trong *[The Book of Lost Tales Part One](The_Book_of_Lost_Tales_Part_One.md)* (trang 81) được [Christopher Tolkien](../C/Christopher_Tolkien.md) vẽ lại từ bản phác thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "không hơn gì một nét vẽ nguệch ngoạc, bằng bút chì mềm ... với nhiều đặc điểm khó hoặc không thể diễn giải được".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Các đặc điểm được Christopher vẽ lại bao gồm (được liệt kê đại khái từ bắc xuống nam):
+"**Bản đồ sớm nhất**" đề cập đến bản đồ thế giới được hình thành trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*, phiên bản sớm nhất của [huyền thoại](../L/Legendarium.md). Bản đồ được sao chép trong *[The Book of Lost Tales Part One](The_Book_of_Lost_Tales_Part_One.md)* (trang 81) được [Christopher Tolkien](../C/Christopher_Tolkien.md) vẽ lại từ bản phác thảo của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "không hơn gì một nét vẽ nguệch ngoạc, bằng bút chì mềm ... với nhiều đặc điểm khó hoặc không thể diễn giải được".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Các đặc điểm được Christopher vẽ lại bao gồm (được liệt kê đại khái từ Bắc tới Nam):
 
 - Utumna (sau [Utumno](../U/Utumno.md))
 - [Ringil](<../R/Ringil_(tower).md>)
-- [Núi Valinor](../P/Pelóri.md) (được đánh dấu *j*)
-- [miền Mandos](../H/Halls_of_Mandos.md) (được đánh dấu *c*)
+- [Dãy Núi trong số Valinor](../P/Pelóri.md) (được đánh dấu *j*)
+- [tên miền của Mandos](../H/Halls_of_Mandos.md) (được đánh dấu *c*)
 - [Hisilome](../H/Hísilómë.md) (được đánh dấu *g*; [Qenya](../Q/Qenya.md) dạng [Hithlum](../H/Hithlum.md)<sup id="cite_ref-Tumblr_3-0" class="reference"><a href="#cite_note-Tumblr-3">[3]</a></sup>)
-- [Núi Sắt](../I/Iron_Mountains.md) (được đánh dấu f*)*
-- Một dòng sông và một dấu chấm không dấu bên cạnh
-- [Hai cây](Two_Trees_of_Valinor.md) (được đánh dấu *b*)
+- Số [Dãy Núi Sắt](../I/Iron_Mountains.md) (được đánh dấu f*)*
+- Một dòng sông và một dấu chấm không dấu bên cạnh nó
+- [Hai Cây](Two_Trees_of_Valinor.md) (được đánh dấu *b*)
 - [Quần đảo ma thuật](../E/Enchanted_Isles.md) (được đánh dấu *k*)
 - [Kôr](../K/Kôr.md) (được đánh dấu *d*)
 - [Valmar](../V/Valmar.md) (được đánh dấu *a*)
-- [Eruman](../A/Araman.md)/[Arvalin](../A/Avathar.md) (được đánh dấu *h*; sau này là [Avathar](../A/Avathar.md)<sup id="cite_ref-Tumblr_3-1" class="reference"><a href="#cite_note-Tumblr-3">[3]</a></sup>)
+- [Eruman](../A/Araman.md)/[Arvalin](../A/Avathar.md) (được đánh dấu *h*; sau [Avathar](../A/Avathar.md)<sup id="cite_ref-Tumblr_3-1" class="reference"><a href="#cite_note-Tumblr-3">[3]</a></sup>)
 - [Helkar](../H/Helkar.md)
 - [Helkar](../S/Sea_of_Helcar.md)?
 

@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_464.md" title="First Age 464">464</a><a href="First_Age_465.md" title="First Age 465">465</a><a href="First_Age_466.md" title="First Age 466">466</a><a class="mw-selflink selflink">467</a><a href="First_Age_468.md" title="First Age 468">468</a><a href="First_Age_469.md" title="First Age 469">469</a><a href="First_Age_470.md" title="First Age 470">470</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 467** (viết tắt là **F.A. 467**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 467 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 467** (viết tắt là **F.A. 467**) là năm [thứ 467 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Lúthien](../L/Lúthien.md) hy sinh mạng sống và đến [Halls of Mandos](../H/Halls_of_Mandos.md) để cầu xin [Beren](../B/Beren.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Lúthien](../L/Lúthien.md) hy sinh mạng sống và đến [Hội trường Mandos](../H/Halls_of_Mandos.md) để cầu xin [Beren](../B/Beren.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Sự ra đời của [Hunthor](../H/Hunthor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>

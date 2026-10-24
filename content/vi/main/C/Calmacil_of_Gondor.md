@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calmacil (King of Gondor)"
 ---
 
-Chuyển hướng tới [Calmacil (Vua Gondor)](<Calmacil_(King_of_Gondor).md>).
+Chuyển hướng đến [Calmacil (Vua Gondor)](<Calmacil_(King_of_Gondor).md>).

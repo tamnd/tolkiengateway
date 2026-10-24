@@ -23,11 +23,11 @@ images:
   - "Disambig.png"
 ---
 
-**Thorin** là cái tên [Tolkien](../J/J.R.R._Tolkien.md) phỏng theo <i><a class="external text" href="http://en.wikipedia.org/wiki/V%C3%B6lusp%C3%A1" rel="noreferrer noopener" target="_blank">Völuspá</a></i>, một phần của sử thi *Poetic Edda* và nó có nghĩa là "Táo bạo" trong tiếng Bắc Âu cổ. Ở đây *Thorin* có thể tham khảo:
+**Thorin** là cái tên [Tolkien](../J/J.R.R._Tolkien.md) được phỏng theo <i><a class="external text" href="http://en.wikipedia.org/wiki/V%C3%B6lusp%C3%A1" rel="noreferrer noopener" target="_blank">Völuspá</a></i>, một phần của sử thi *Poetic Edda* và nó có nghĩa là "Táo bạo" trong tiếng Bắc Âu cổ. Ở đây *Thorin* có thể tham khảo:
 
-- [Thorin I](Thorin_I.md) ([T.A.](Third_Age.md) [2035](Third_Age_2035.md) - [T.A.](Third_Age.md) [2289](Third_Age_2289.md)), một vị vua [người lùn](../D/Dwarves.md) đã rời bỏ [Erebor](../L/Lonely_Mountain.md) để ủng hộ [Grey Mountains](../G/Grey_Mountains.md).
-- <b><a href="Thorin.md" title="Thorin">Thorin II <i>Oakenshield</i></a> (<a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_2746.md" title="Third Age 2746">2746</a> - <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_2941.md" title="Third Age 2941">2941</a>), bạn đồng hành của <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> trong <i><a href="The_Hobbit.md" title="The Hobbit">Người Hobbit</a></i>.</b>
-- [Thorin III *Stonehelm*](Thorin_Stonehelm.md) (sinh [T.A.](Third_Age.md) [2866](Third_Age_2866.md)), [Vua Dưới Núi](../K/Kings_under_the_Mountain.md) trong [Thời đại thứ tư](../F/Fourth_Age.md).
+- [Thorin I](Thorin_I.md) ([T.A.](Third_Age.md) [2035](Third_Age_2035.md) - [T.A.](Third_Age.md) [2289](Third_Age_2289.md)), một vị vua [người lùn](../D/Dwarves.md) đã để lại [Erebor](../L/Lonely_Mountain.md) ủng hộ [Dãy Núi Xám](../G/Grey_Mountains.md).
+- <b><a href="Thorin.md" title="Thorin">Thorin II <i>Oakenshield</i></a> (<a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_2746.md" title="Third Age 2746">2746</a> - <a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_2941.md" title="Third Age 2941">2941</a>), bạn đồng hành của <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a> trong <i><a href="The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>.</b>
+- [Thorin III *Stonehelm*](Thorin_Stonehelm.md) (sinh [T.A.](Third_Age.md) [2866](Third_Age_2866.md)), [Vua Dưới Núi](../K/Kings_under_the_Mountain.md) trong [Kỷ Đệ Tứ](../F/Fourth_Age.md).
 
 <hr style="margin-top:15px;"/>
 

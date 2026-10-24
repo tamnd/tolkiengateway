@@ -16,18 +16,18 @@ images:
 
 **Sói** là tên phổ biến của một số loài động vật thuộc họ Canidae. Chúng có liên quan đến [chó](../D/Dogs.md) và [chó săn](../H/Hounds.md).
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Sói](<Wolf_(dog).md>), một trong những con chó của [Nông dân Maggot](../F/Farmer_Maggot.md).**
-- [Gaurwaith](../G/Gaurwaith.md), hay Người Sói, một nhóm sống ngoài vòng pháp luật.
+- **[Sói](<Wolf_(dog).md>), một trong những con chó của [Farmer Maggot](../F/Farmer_Maggot.md).**
+- [Gaurwaith](../G/Gaurwaith.md), hay Người Sói, một nhóm người sống ngoài vòng pháp luật.
 - [Sói-Sauron](Wolf-Sauron.md), [Sauron](../S/Sauron.md) ở dạng Sói.
-- [Sói](Wolves.md), sinh vật xấu xa:
-    - [Wargs](Wargs.md) hay Sói hoang, sinh vật của [Rhovanion](../R/Rhovanion.md) và một phần của [Trận chiến của năm đạo quân](../B/Battle_of_Five_Armies.md).
-    - [Người sói](Werewolves.md), trong đó người vĩ đại nhất là [Carcharoth](../C/Carcharoth.md).
-    - [Sói trắng](White_Wolves.md), động vật từ [Forodwaith](<../F/Forodwaith_(lands).md>) đã tấn công [Shire](../T/The_Shire.md) ở [S.R.](../S/Shire_Reckoning.md) [1311](../T/Third_Age_2911.md).
-- [Tiếng sói](Wolf-language.md), ngôn ngữ của chó sói và chó
-- [Người cưỡi sói](Wolf-riders.md), "Orc hoặc sinh vật giống Orc"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cưỡi trên lưng sói.
-- [Wulf](Wulf.md), Người đàn ông [Rohan](../R/Rohan.md) có tổ tiên [Dunlendish](../D/Dunland.md).
+- [Sói](Wolves.md), sinh vật của cái ác:
+    - [Warg](Wargs.md) hoặc Wild Sói, sinh vật của [Rhovanion](../R/Rhovanion.md) và một phần của [Trận chiến Năm Đạo quân](../B/Battle_of_Five_Armies.md).
+    - [Người sói](Werewolves.md), trong đó mạnh nhất là [Carcharoth](../C/Carcharoth.md).
+    - [White Sói](White_Wolves.md), những động vật từ [Forodwaith](<../F/Forodwaith_(lands).md>) đã tấn công [the Shire](../T/The_Shire.md) ở [S.R.](../S/Shire_Reckoning.md) [1311](../T/Third_Age_2911.md).
+- [Tiếng sói](Wolf-language.md), ngôn ngữ của sói và chó
+- [Người cưỡi sói](Wolf-riders.md), "Orc hoặc những sinh vật giống Orclike"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cưỡi trên những con sói.
+- [Wulf](Wulf.md), một Người đàn ông [Rohan](../R/Rohan.md) có tổ tiên [Dunlendish](../D/Dunland.md).
 
 ## Thế giới thực {#Real_World}
 

@@ -43,7 +43,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Skinbark* là bản dịch [Ngôn ngữ chung](../W/Westron.md) (hoặc tiếng Anh) của *Fladrif*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Có vẻ như *Fladrif* được dự định là [Sindarin](Sindarin.md);<sup id="cite_ref-DW_3-0" class="reference"><a href="#cite_note-DW-3">[3]</a></sup> tên được đề cập cùng với tên Sindarin *[Nindalf](../N/Nindalf.md)* khi có được âm /v/ trong *-f* cuối cùng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng *Fladrif* bao gồm các từ chưa được chứng thực \**flâd* ("da") và \**rîf* ("vỏ cây").<sup id="cite_ref-DW_3-1" class="reference"><a href="#cite_note-DW-3">[3]</a></sup>
+*Skinbark* là bản dịch [Ngôn ngữ Chung](../W/Westron.md) (hoặc tiếng Anh) của *Fladrif*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Có vẻ như *Fladrif* được dự định là [Sindarin](Sindarin.md);<sup id="cite_ref-DW_3-0" class="reference"><a href="#cite_note-DW-3">[3]</a></sup> tên được đề cập cùng với tên Sindarin *[Nindalf](../N/Nindalf.md)* khi thu được âm /v/ trong *-f* cuối cùng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng *Fladrif* được tạo thành từ âm khác các từ chưa được chứng thực \**flad* ("da") và \**rîf* ("vỏ cây").<sup id="cite_ref-DW_3-1" class="reference"><a href="#cite_note-DW-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -71,17 +71,17 @@ infobox:
 		</li>
 </ul>
 
-<b><a href="../_/1995.md" title="1995">1995</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm Trung Địa</a></i>: <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Pháp sư</a></i>:</b>
+<b><a href="../_/1995.md" title="1995">1995</a>: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>: <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards"> Pháp sư</a></i>:</b>
 
 <dl><dd>Skinbark is depicted on the <i>Skibark</i> card, illustrated by <a href="../G/Gail_McIntosh.md" title="Gail McIntosh">Gail McIntosh</a>. He has the following effects:</dd></dl>
 
-> Không thể bị tấn công bởi các cuộc tấn công tự động hoặc các mối nguy hiểm gắn liền với trang web của ông ta. Loại bỏ Skinbark nếu công ty của ông ta chuyển đến một địa điểm không có trong: Fangorn, Rohan, Gap of Isen, Wold &Foothills, Anduin Vales hoặc Redhorn Gap.
+> Không thể bị tấn công bởi các cuộc tấn công tự động hoặc các mối nguy hiểm gắn liền với trang web của ông ta. Loại bỏ Skinbark nếu công ty của ông ta chuyển đến một địa điểm không nằm trong: Fangorn, Rohan, Gap of Isen, Wold &Foothills, Anduin Vales hoặc Redhorn Gap.
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>Cards in <a href="../D/Decipher.md" title="Decipher">Decipher</a>&#39;s <a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trading Card Game</a> identify one of the Ents at <a href="../D/Derndingle.md" title="Derndingle">Derndingle</a> and <a href="../I/Isengard.md" title="Isengard">Isengard</a> as Quickbeam.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b><a href="../_/2015.md" title="2015">2015</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>Skinbark is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Land of Shadow</i> on the &#34;Skinbark&#34; card, illustrated by Dimitri Bielak . The card has the following effects:</dd></dl>
 

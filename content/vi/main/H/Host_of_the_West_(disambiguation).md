@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Chủ nhà phương Tây** đề cập đến một số đội quân trong lịch sử của [Trung Địa](../M/Middle-earth.md):
+**Đạo quân Phương Tây** đề cập đến một số đội quân trong lịch sử của [Trung Địa](../M/Middle-earth.md):
 
-- [Chủ nhà của phương Tây](Host_of_the_Valar.md) đầu tiên đề cập đến liên minh vĩ đại đã chiến đấu trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Kỷ nguyên thứ nhất](../F/First_Age.md).
-- [Chủ nhà của phương Tây](<Host_of_the_West_(Arnor).md>) thứ hai đề cập đến đội quân đồng minh của [Yêu tinh](../E/Elves.md), [Đàn ông](../M/Men.md) và [Người Hobbit](Hobbits.md) dưới quyền [Eärnur](../E/Eärnur.md) và [Cirdan](../C/Cirdan.md) đã chiến đấu trong [Trận chiến Fornost](../B/Battle_of_Fornost.md).
-- [Host of the West](../A/Army_of_the_West.md) cuối cùng đề cập đến các lực lượng đồng minh của [Gondor](../G/Gondor.md), [Rohan](../R/Rohan.md) và [Grey Company](../G/Grey_Company.md) khi kết thúc [War of the Ring](../W/War_of_the_Ring.md).
+- Từ [Đạo quân Phương Tây](Host_of_the_Valar.md) đầu tiên đề cập đến liên minh vĩ đại đã chiến đấu trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md).
+- [Đạo quân Phương Tây](<Host_of_the_West_(Arnor).md>) thứ hai đề cập đến đội quân đồng minh của [Tiên tộc](../E/Elves.md), [Con Người](../M/Men.md) và [Hobbit](Hobbits.md) dưới quyền [Eärnur](../E/Eärnur.md) và [Cirdan](../C/Cirdan.md) đã chiến đấu trong [Trận Fornost](../B/Battle_of_Fornost.md).
+- [Đạo quân Phương Tây](../A/Army_of_the_West.md) cuối cùng đề cập đến lực lượng đồng minh của [Gondor](../G/Gondor.md), [Rohan](../R/Rohan.md) và [Đại đội Grey](../G/Grey_Company.md) khi kết thúc [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
 <hr style="margin-top:15px;"/>
 

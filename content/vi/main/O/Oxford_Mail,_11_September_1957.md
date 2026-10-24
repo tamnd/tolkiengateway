@@ -11,4 +11,4 @@ redirect_target: "Oxford Mail"
 redirect_fragment: "11 September 1957"
 ---
 
-Chuyển hướng tới [Thư Oxford](Oxford_Mail.md#11_September_1957).
+Chuyển hướng tới [Oxford Thư](Oxford_Mail.md#11_September_1957).

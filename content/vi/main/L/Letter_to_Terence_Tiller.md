@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Terence Tiller (19 September 1956)"
 ---
 
-Chuyển hướng tới [Thư gửi Terence Tiller (19 tháng 9 năm 1956)](<Letter_to_Terence_Tiller_(19_September_1956).md>).
+Chuyển hướng đến [Thư gửi Terence Tiller (19 tháng Chín 1956)](<Letter_to_Terence_Tiller_(19_September_1956).md>).

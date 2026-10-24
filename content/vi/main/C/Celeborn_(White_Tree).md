@@ -57,13 +57,13 @@ infobox:
 </tbody></table>
 </div>
 
-**Celeborn** là tên của **Cây Trắng** phát triển mạnh mẽ ở [Tol Eressëa](../T/Tol_Eressëa.md). Đó là một cây con của cây [Galathilion](../G/Galathilion.md), được tạo ra theo hình ảnh của [Telperion](../T/Telperion.md), cây lớn nhất trong [Hai Cây Valinor](../T/Two_Trees_of_Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Celeborn** là tên của **Cây Trắng** phát triển mạnh mẽ ở [Tol Eressëa](../T/Tol_Eressëa.md). Đó là một cây con của cây [Galathilion](../G/Galathilion.md), được tạo ra theo hình ảnh của [Telperion](../T/Telperion.md), con cả của [Hai Cây của Valinor](../T/Two_Trees_of_Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Celeborn là tổ tiên của [Nimloth của Númenor](../N/Nimloth_of_Númenor.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và sau đó là tổ tiên của [Cây Trắng của Gondor](../W/White_Tree_of_Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Celeborn là tổ tiên của [Nimloth của Númenor](../N/Nimloth_of_Númenor.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, tổ tiên của [Cây trắng của Gondor](../W/White_Tree_of_Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*[Celeb](Celeb.md)* là tiếng Sindarin có nghĩa là "bạc", trong khi *[orn](../O/Orn.md)* là "cây"; tên của nó có nghĩa là "Cây bạc".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+*[Celeb](Celeb.md)* là Sindarin cho "bạc", trong khi *[orn](../O/Orn.md)* là "cây"; tên của nó có nghĩa là "Cây bạc".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

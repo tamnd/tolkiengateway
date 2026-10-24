@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lake-town"
 ---
 
-Chuyển hướng đến [Thị trấn hồ](Lake-town.md).
+Chuyển hướng đến [Thị trấn Hồ](Lake-town.md).

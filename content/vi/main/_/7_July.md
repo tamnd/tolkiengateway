@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 7 tháng 7.
 
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 74a](../L/Letter_74a.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [Thư 75](../L/Letter_75.md).
-- **[1946](1946.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một tấm bưu thiếp cho G.E. Selby](<../L/Letter_to_G.E._Selby_(7_July_1946).md>).
+- **[1946](1946.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [bưu thiếp cho G.E. Selby](<../L/Letter_to_G.E._Selby_(7_July_1946).md>).
 - **[1960](1960.md)** - [Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư](../L/Letter_to_H.W._Donner.md) gửi [H.W. Donner](../H/H.W._Donner.md).
 - **[2015](2015.md)** - *[Representations of Nature in Middle-earth](../R/Representations_of_Nature_in_Middle-earth.md)* được xuất bản.
 

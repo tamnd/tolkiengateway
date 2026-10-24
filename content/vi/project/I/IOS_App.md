@@ -13,7 +13,7 @@ categories:
   - "Tolkien Gateway"
 ---
 
-**Ứng dụng Tolkien Gateway iOS** là một dự án phát triển sắp tới nhằm đưa Tolkien Gateway vào iPhone. Nếu bạn quan tâm đến việc trợ giúp phát triển, chỉ cần cho chúng tôi biết trên <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway_talk:IOS_App&amp;action=edit&amp;redlink=1" title="Tolkien Gateway talk:IOS App (page does not exist)">trang thảo luận này</a>.
+**Tolkien Gateway Ứng dụng iOS** là một dự án phát triển sắp tới nhằm đưa Tolkien Gateway vào iPhone. Nếu bạn quan tâm đến việc trợ giúp phát triển, chỉ cần cho chúng tôi biết trên <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway_talk:IOS_App&amp;action=edit&amp;redlink=1" title="Tolkien Gateway talk:IOS App (page does not exist)">trang thảo luận này</a>.
 
 ## Xem thêm {#See_also}
 

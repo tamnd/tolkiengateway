@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Holubová, Lída"
 ---
 
-- Lída Holubová đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Lída_Holubová.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Lída Holubová đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Lída_Holubová.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 2 tháng 2 năm 2017
 - Người dùng đã xin phép qua email: [Mith](https://tolkiengateway.net/wiki/User:Mith)

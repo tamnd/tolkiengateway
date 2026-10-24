@@ -22,9 +22,9 @@ langlinks:
     url: "https://kontu.wiki/Kuninkaitten_talo"
 ---
 
-**Nhà của các vị vua** trong [Hallows](Hallows.md) của [Minas Tirith](../M/Minas_Tirith.md) là tòa nhà nơi chôn cất [các vị vua của Gondor](../K/Kings_of_Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nhà của các vị vua** trong [Hallows](Hallows.md) của [Minas Tirith](../M/Minas_Tirith.md) là tòa nhà nơi [các vị vua của Gondor](../K/Kings_of_Gondor.md) được chôn cất.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào [1 tháng 3](../_/1_March.md) [Fo.A.](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md)<sup id="cite_ref-Later_2-0" class="reference"><a href="#cite_note-Later-2">[2]</a></sup> [Aragorn](../A/Aragorn.md) nằm xuống và qua đời, sau khi từ biệt [Eldarion](../E/Eldarion.md) và trao cho ông ta [Vương miện Gondor](../C/Crown_of_Gondor.md) có cánh.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người ta nói rằng giường của [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md) được đặt bên cạnh giường của Aragorn trong Nhà của các vị vua.<sup id="cite_ref-Later_2-1" class="reference"><a href="#cite_note-Later-2">[2]</a></sup>
+Vào [1 tháng 3](../_/1_March.md) [Kỷ Đệ Tứ](../F/Fourth_Age.md) [120](../F/Fourth_Age_120.md)<sup id="cite_ref-Later_2-0" class="reference"><a href="#cite_note-Later-2">[2]</a></sup> [Aragorn](../A/Aragorn.md) đã nằm xuống và qua đời, sau khi từ biệt [Eldarion](../E/Eldarion.md) và trao cho ông [Vương miện có cánh của Gondor](../C/Crown_of_Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người ta nói rằng giường của [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) và [Peregrin Took](../P/Peregrin_Took.md) được đặt bên cạnh giường của Aragorn trong Nhà của các vị Vua.<sup id="cite_ref-Later_2-1" class="reference"><a href="#cite_note-Later-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -34,7 +34,7 @@ infobox:
 
 **InfuseR** là tên nghệ sĩ của nghệ sĩ guitar và nhà soạn nhạc Manos Psarros đến từ Athens. Với hơn ba thập kỷ hoạt động trong làng nhạc metal Hy Lạp, anh đã biểu diễn cùng các ban nhạc như Leprosy, Obsecration, Empty Mirror và DivUrge. Tác phẩm của ông kết hợp các yếu tố giao hưởng và power-metal với cách kể chuyện phức tạp, thường lấy cảm hứng từ văn học giàu tính giả tưởng.
 
-Vào tháng 11 năm 2025, InfuseR phát hành album solo đầu tay lấy cảm hứng từ Tolkien, *A Tale of Tales*, biến truyền thuyết về Trung Địa thành một cuộc hành trình sử thi đầy sống động của metal. Được biết đến với kỹ năng kỹ thuật và tính linh hoạt trong sáng tác, anh đã hợp tác với nhiều nhạc sĩ metal nổi tiếng của Hy Lạp và tiếp tục khám phá các dự án solo đầy tham vọng.
+Vào tháng 11 năm 2025, InfuseR phát hành album solo đầu tay lấy cảm hứng từ Tolkien, *A Tale of Tales*, biến truyền thuyết của Trung Địa thành một cuộc hành trình hoành tráng đầy mê hoặc của metal. Được biết đến với kỹ năng kỹ thuật và tính linh hoạt trong sáng tác, anh đã hợp tác với nhiều nhạc sĩ metal nổi tiếng của Hy Lạp và tiếp tục khám phá các dự án solo đầy tham vọng.
 
 ## Danh sách đĩa {#Discography}
 

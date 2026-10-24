@@ -13,7 +13,7 @@ categories:
   - "Sindarin verbs"
 ---
 
-**cabed** là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "nhảy".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**cabed** là từ [Sindarin](../S/Sindarin.md) có nghĩa là "nhảy".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

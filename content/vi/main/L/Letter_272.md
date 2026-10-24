@@ -30,13 +30,13 @@ infobox:
 
 ## Nền {#Background}
 
-Zillah Sherring đã mua một bản sao *The Fifth Book of Thucydides* đã qua sử dụng với những dòng chữ lạ được viết bởi chủ sở hữu trước đó. Tên của Tolkien nằm trong số những cái tên trên tờ rơi và bà đã viết thư để hỏi ông xem có tác phẩm nào của ông không, chẳng hạn như cái dài ở phía sau.
+Zillah Sherring đã mua một bản sao *The Fifth Book of Thucydides* đã qua sử dụng với những dòng chữ lạ được viết bởi chủ sở hữu trước đó. Tên của Tolkien nằm trong số những cái tên trên tờ rơi và bà đã viết thư để hỏi xem có tác phẩm nào của ông không, chẳng hạn như cái dài ở phía sau.
 
 ## Tóm tắt {#Summary}
 
-Tolkien trả lời rằng cuốn sách thuộc về ông và chữ viết ở trang sau là kiểu Gothic hoặc kiểu mà ông nghĩ có thể là [Gothic](../G/Gothic.md). Ông đã mua cuốn sách <i><a class="extiw" href="http://en.wikipedia.org/wiki/Grammar_of_the_Gothic_Language" title="wikipedia:Grammar of the Gothic Language">Primer of the Gothic Language</a></i> của [Joseph Wright](../J/Joseph_Wright.md) từ một người bạn cùng trường, người đã nhầm nó với một sản phẩm của Hiệp hội Kinh Thánh. Ông đã bị mê hoặc bởi tiếng Gothic và Primer đã cho phép ông chuyển đổi các từ của các ngôn ngữ Đức khác thành chữ viết Gothic. Ông thường viết những dòng chữ "gothic" vào sách, đôi khi với cái tên Gothicized của mình – *Ruginwaldus Dwalakōneis*.
+Tolkien trả lời rằng cuốn sách này thuộc về ông và chữ viết ở trang sau là kiểu Gothic hoặc kiểu mà ông nghĩ là [Gothic](../G/Gothic.md). Ông đã mua cuốn sách <i><a class="extiw" href="http://en.wikipedia.org/wiki/Grammar_of_the_Gothic_Language" title="wikipedia:Grammar of the Gothic Language">Primer of the Gothic Language</a></i> của [Joseph Wright](../J/Joseph_Wright.md) từ một người bạn cùng trường, người đã nhầm nó với một sản phẩm của Hiệp hội Kinh Thánh. Ông đã bị mê hoặc bởi tiếng Gothic và Primer đã cho phép ông chuyển đổi các từ của các ngôn ngữ Đức khác thành chữ viết Gothic. Ông thường viết những dòng chữ "gothic" vào sách, đôi khi với cái tên Gothicized của mình – *Ruginwaldus Dwalakōneis*.
 
-Dòng chữ mà Sherring chép lại và gửi cho Tolkien có lỗi: HNDAI thay vì HVNDA. Bao gồm một số lỗi, điều Tolkien muốn nói trong dòng chữ là:
+Dòng chữ Sherring chép lại và gửi cho Tolkien có lỗi: HNDAI thay vì HVNDA. Kể cả một số lỗi, điều Tolkien muốn nói trong dòng chữ là:
 
 <dl><dd><i>I read the words of these books of Greek history (&#34;year writing&#34;) in the sixth month of this year: thousand, nine hundreds, ten, of Our Lord: in order to gain the prize given every year to the boy knowing most about Thucydides, and this I inscribed in my books on the twelfth of the sixth (month) after I had already ? first read through all the words carefully.</i></dd></dl>
 

@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sindarin_Lexicon.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/de/Sindarin_Lexicon.jpg/320px-Sindarin_Lexicon.jpg" decoding="async" loading="lazy" width="320" height="469" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/d/de/Sindarin_Lexicon.jpg 1.5x" data-file-width="341" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sindarin Lexicon</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Kenneth Chaij</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">60</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0905520181" title="Special:BookSources/0905520181">0905520181</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../P/Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Memorial Fund</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../D/Digging_Potatoes,_Growing_Trees.md" title="Digging Potatoes, Growing Trees">Digging Potatoes, Growing Trees</a> - Volume 3</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../T/The_Best_of_Amon_Hen.md" title="The Best of Amon Hen">The Best of Amon Hen</a> Part 2</td></tr></tbody></table>
 
-<i><b>Từ điển Sindarin</b></i> của Kenneth Chaij là một từ điển [tiếng Sindarin](Sindarin.md) bao gồm các bài viết "Lịch sử ngôn ngữ Sindarin", "Phát âm tiếng Sindarin" và "Tiếng Anh trong tiếng Fëanorean" của David Masson. Cuốn sách được [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) xuất bản tại [2001](../_/2001.md) dưới sự bảo trợ của [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
+<i><b>Sindarin Lexicon</b></i> của Kenneth Chaij là một từ điển [Sindarin](Sindarin.md) bao gồm các bài viết "Lịch sử của ngôn ngữ Sindarin", "Sindarin Phát âm" và "Tiếng Anh trong tiếng Fëanorean" của David Masson. Cuốn sách được xuất bản bởi [Hội Tolkien](../T/The_Tolkien_Society.md) tại [2001](../_/2001.md) dưới sự bảo trợ của [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
 
 ## Tóm tắt {#Summary}
 
@@ -55,11 +55,11 @@ infobox:
 - Lời nói đầu
 - Lời nói đầu
 - Lịch sử ngôn ngữ Sindarin
-- Phát âm tiếng Sindarin
+- Sindarin Phát âm
     - Căng thẳng
     - Phụ âm
     - Nguyên âm
-    - Hai chữ cái
+    - Diphthong
     - Cụm từ đơn giản
 - Sindarin - Từ điển tiếng Anh
     - Ghi chú

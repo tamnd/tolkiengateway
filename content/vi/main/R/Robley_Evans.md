@@ -28,5 +28,5 @@ Giáo sư danh dự môn tiếng Anh **Robley Evans** đã được kết nối 
 
 ### Bài viết {#Articles}
 
-- [1987](../_/1987.md): *[Mythlore 51](../M/Mythlore_51.md)* ([Thần thoại](../M/Mythlore.md))
-    - "Sự sáng tạo thế giới của Tolkien: Sự thoái hóa tái diễn"
+- [1987](../_/1987.md): *[Mythlore 51](../M/Mythlore_51.md)* ([Mythlore](../M/Mythlore.md))
+Sự sáng tạo thế giới của     - "Tolkien: Tái diễn thoái hóa"

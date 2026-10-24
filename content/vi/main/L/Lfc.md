@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letters from Father Christmas"
 ---
 
-Chuyển hướng tới [Những lá thư từ Ông già Noel](Letters_from_Father_Christmas.md).
+Chuyển hướng đến [Letters from Father Christmas](Letters_from_Father_Christmas.md).

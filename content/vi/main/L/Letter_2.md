@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết rằng ông đã có một ngày luyện tập và tham gia các lớp học có phần nhàm chán (với tư cách là một phần của Quân đoàn Huấn luyện Sĩ quan). Tuy nhiên, tại một cuộc họp của Câu lạc bộ tiểu luận: "*Có một bài viết dở nhưng một cuộc thảo luận thú vị. Đó cũng là cuộc họp sáng tác và tôi đọc '[Earendel](../_/Éalá_Éarendel_Engla_Beorhtast.md)' được đánh giá rất tốt.* <br>
+Tolkien viết rằng ông đã có một ngày luyện tập và tham gia các lớp học có phần nhàm chán (với tư cách là một phần của Quân đoàn Huấn luyện Sĩ quan). Tuy nhiên, tại một cuộc họp của Câu lạc bộ Tiểu luận: "*Có một bài viết dở nhưng một cuộc thảo luận thú vị. Đó cũng là cuộc họp sáng tác và tôi đọc '[Earendel](../_/Éalá_Éarendel_Engla_Beorhtast.md)' được đánh giá rất tốt.* <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

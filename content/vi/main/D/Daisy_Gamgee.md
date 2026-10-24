@@ -53,7 +53,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/Daisy" title="wikipedia:Daisy">Daisy</a>, tên một loài hoa, bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *dæges eage* "day's eye".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<a class="extiw" href="http://en.wikipedia.org/wiki/Daisy" title="wikipedia:Daisy">Daisy</a>, tên một loài hoa, bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *dæges eage* "mắt ngày".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Phiên bản [Sindarin](../S/Sindarin.md) của tên là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eirien&amp;action=edit&amp;redlink=1" title="Eirien (page does not exist)">Eirien</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 

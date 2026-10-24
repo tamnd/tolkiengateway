@@ -35,13 +35,13 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Faramir](Faramir.md) dẫn [Frodo](Frodo.md) và [Sam](../S/Sam.md) đến một cái cống mà qua đó họ có thể thoát [Osgiliath](../O/Osgiliath.md) vào rừng. Khi hỏi họ sẽ đi theo con đường nào, Frodo nói với anh rằng, theo [Gollum](../G/Gollum.md), có một con đường gần [Minas Morgul](../M/Minas_Morgul.md) dẫn vào vùng núi giáp với [Mordor](../M/Mordor.md). Hoảng sợ khi nghe thấy điều này, Faramir tóm lấy cổ họng một Gollum đang lẩn trốn, có vẻ tội lỗi và hỏi một cách gay gắt liệu ông ta có đưa người hobbit đi qua [Cirith Ungol](../C/Cirith_Ungol.md) hay không. Gollum xác nhận điều này và Faramir cảnh báo họ không nên đi theo con đường đó, nói rằng một nỗi kinh hoàng đen tối ẩn chứa trong những con đường đó. Tuy nhiên, Frodo nói rằng anh phải đến Mordor. Một lúc sau, Faramir chúc anh và Sam "Hãy đi theo thiện chí của tất cả [Đàn ông](../M/Men.md)".
+[Faramir](Faramir.md) dẫn [Frodo](Frodo.md) và [Sam](../S/Sam.md) đến một cái cống mà qua đó họ có thể thoát ra [Osgiliath](../O/Osgiliath.md) vào rừng. Khi hỏi họ sẽ đi theo con đường nào, Frodo nói với anh rằng, theo [Gollum](../G/Gollum.md), có một con đường gần [Minas Morgul](../M/Minas_Morgul.md) dẫn vào vùng núi giáp ranh với [Mordor](../M/Mordor.md). Hoảng hốt khi nghe thấy điều này, Faramir tóm lấy cổ họng Gollum đang lẩn trốn, có vẻ tội lỗi và hỏi một cách gay gắt liệu ông ta có đưa người hobbit đi qua [Cirith Ungol](../C/Cirith_Ungol.md) hay không. Gollum xác nhận điều này và Faramir cảnh báo họ không nên đi theo con đường đó, nói rằng một nỗi kinh hoàng đen tối ngự trị trong những con đường đó. Tuy nhiên, Frodo nói rằng ông ta phải đến Mordor. Một lúc sau, Faramir chúc anh và Sam “Hãy đi theo thiện chí của mọi người [Con Người](../M/Men.md)”.
 
-Khi hai hobbit biến mất trong cống, Faramir ghim Gollum vào tường và nói với ông ta "Cầu mong cái chết sẽ nhanh chóng tìm đến bạn, nếu bạn làm hại họ", trước khi ném ông ta về phía cống. Gollum khập khiễng đi theo sau hai hobbit. Sam trấn an Gollum rằng Frodo không có ý để Faramir và người của hắn làm tổn thương ông ta. Gollum đồng ý rằng không có cảm giác khó khăn nào cả, và đáp lại, Sam nói với anh rằng ông rất tử tế.
+Khi hai hobbit biến mất trong cống, Faramir ghim Gollum vào tường và nói với ông ta "Cầu cho cái chết sẽ nhanh chóng tìm thấy bạn, nếu bạn làm hại họ", trước khi ném ông ta về phía cống. Gollum khập khiễng đi theo sau hai hobbit. Sam trấn an Gollum rằng Frodo không có ý để Faramir và người của ông ta làm tổn thương ông ta. Gollum đồng ý rằng không có cảm giác khó khăn nào cả, và đáp lại, Sam nói với ông rằng ông rất tử tế.
 
 ## Sự khác biệt {#Differences}
 
-Trong sách, Faramir không dẫn Frodo và Sam đến Osgiliath. Đúng hơn, ông chọn để Frodo và Sam tiếp tục cuộc hành trình đến Minas Morgul khi họ ở [Henneth Annûn](../H/Henneth_Annûn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong sách, Faramir không dẫn Frodo và Sam đến Osgiliath. Đúng hơn, ông chọn để Frodo và Sam tiếp tục hành trình đến Minas Morgul khi họ đang ở [Henneth Annûn](../H/Henneth_Annûn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

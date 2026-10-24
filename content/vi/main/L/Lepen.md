@@ -12,7 +12,7 @@ categories:
   - "Telerin numerals"
 ---
 
-<i><b>lepen</b></i> là từ [Telerin](../T/Telerin.md) cho số "năm".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup><sup id="cite_ref-VT47_2-0" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>lepen</b></i> là từ [Telerin](../T/Telerin.md) chỉ số "năm".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup><sup id="cite_ref-VT47_2-0" class="reference"><a href="#cite_note-VT47-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 ## Xem thêm {#See_also}
 
 - [Quenya](../Q/Quenya.md) *[lempe](Lempe.md)*
-- [Tiếng Sindarin](../S/Sindarin.md) *[leben](Leben.md)*
+- [Sindarin](../S/Sindarin.md) *[leben](Leben.md)*
 - [Noldorin](../N/Noldorin.md) *[lheben](Lheben.md)*
 - [Qenya](../Q/Qenya.md) *[lemin](Lemin.md)*
 - [Gnomish](../G/Gnomish.md) *[elf](<../E/Elf_(Gnomish).md>)*

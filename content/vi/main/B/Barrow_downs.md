@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barrow-downs"
 ---
 
-Chuyển hướng đến [Barrow-down](Barrow-downs.md).
+Chuyển hướng đến [Barrow-downs](Barrow-downs.md).

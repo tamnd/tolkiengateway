@@ -20,7 +20,7 @@ langlinks:
 
 **Mũi Balar** là mũi đất nhỏ nằm ở phía tây nam của [Arvernien](../A/Arvernien.md) và đánh dấu giới hạn phía bắc của [Vịnh Balar](../B/Bay_of_Balar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trên [Bản đồ 'Silmarillion' thứ hai](../T/The_Second_'Silmarillion'_Map.md), phần bổ sung sau này của Tolkien cho thấy tên địa điểm "Nơi trú ẩn của tàu" trên vịnh nhỏ hình thành ở phía đông của Mũi Balar<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
+Trên [Bản đồ 'Silmarillion' thứ hai](../T/The_Second_'Silmarillion'_Map.md), phần bổ sung sau này của Tolkien hiển thị tên địa điểm "Nơi trú ẩn của tàu" trên vịnh nhỏ hình thành ở phía đông Mũi Balar<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>.
 
 <span></span>
 

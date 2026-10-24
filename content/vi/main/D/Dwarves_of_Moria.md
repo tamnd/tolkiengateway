@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarves of Khazad-dûm"
 ---
 
-Chuyển hướng tới [Người lùn ở Khazad-dûm](Dwarves_of_Khazad-dûm.md).
+Chuyển hướng đến [Người lùn Khazad-dûm](Dwarves_of_Khazad-dûm.md).

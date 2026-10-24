@@ -80,11 +80,11 @@ Sự kiện xảy ra vào ngày 30 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Gandalf](../G/Gandalf.md) và [bốn người Hobbit](../T/Travellers.md) rời khỏi [Bree](../B/Bree.md).<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup> Gandalf rời đi để thăm [Tom Bombadil](../T/Tom_Bombadil.md).
+    - [Gandalf](../G/Gandalf.md) và [bốn người Hobbit](../T/Travellers.md) rời đi [Bree](../B/Bree.md).<sup id="cite_ref-chief_1-0" class="reference"><a href="#cite_note-chief-1">[1]</a></sup> Gandalf lên đường thăm [Tom Bombadil](../T/Tom_Bombadil.md).
     - Đêm: Lữ khách đến [Cầu Brandywine](../B/Brandywine_Bridge.md).<sup id="cite_ref-chief_1-1" class="reference"><a href="#cite_note-chief-1">[1]</a></sup>
     - Trăng tròn<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

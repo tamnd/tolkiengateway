@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Burggraf, Charles"
 ---
 
-- Charles Burggraf đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Charles_Burggraf.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Charles Burggraf đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Charles_Burggraf.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 11 tháng 1 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

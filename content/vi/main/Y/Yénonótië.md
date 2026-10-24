@@ -26,8 +26,8 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Yénonótië</b></i> là một tác phẩm tuyệt vời của [Loremaster](../L/Lambengolmor.md) [Quennar](../Q/Quennar.md), trong đó ông giải thích về niên đại của [Valar](../V/Valar.md). Nó bao gồm các cuộc thảo luận về độ dài của [Năm Valian](../V/Valian_Years.md), thời đại của các Valar và [Năm Mặt trời](Years_of_the_Sun.md) của [Thời đại thứ nhất](../F/First_Age.md). Một số tài liệu trong *Yénonótië* sau đó đã được [Pengolodh](../P/Pengolodh.md) trích dẫn trong phần mở rộng của *[Annals of Aman](../T/The_Annals_of_Aman.md)*.
+<i><b>Yénonótië</b></i> là một tác phẩm tuyệt vời của [Loremaster](../L/Lambengolmor.md) [Quennar](../Q/Quennar.md), trong đó ông giải thích về niên đại của [Valar](../V/Valar.md). Nó bao gồm các cuộc thảo luận về độ dài của [Năm Valian](../V/Valian_Years.md), độ tuổi của Valar và [Năm của Mặt Trời](Years_of_the_Sun.md) của [Kỷ Đệ Nhất](../F/First_Age.md). Một số tài liệu trong *Yénonótië* sau đó đã được [Pengolodh](../P/Pengolodh.md) trích dẫn trong phần mở rộng của *[Annals of Aman](../T/The_Annals_of_Aman.md)*.
 
 ## Từ nguyên {#Etymology}
 
-*Yénonótië* có nghĩa là "Tính năm" trong [Quenya](../Q/Quenya.md) (từ các từ *[yén](Yén.md)* '[năm dài](../V/Valian_year.md)' và *onótië*, 'tính toán').
+*Yénonótië* có nghĩa là "Tính năm" trong [Quenya](../Q/Quenya.md) (từ các từ *[yén](Yén.md)* '[năm dài](../V/Valian_year.md)' và *onótië*, 'tính').

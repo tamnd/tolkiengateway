@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Puzzles"
 ---
 
-Chuyển hướng tới [Câu đố về Trung địa](Middle-earth_Puzzles.md).
+Chuyển hướng tới [Trung Địa Câu đố](Middle-earth_Puzzles.md).

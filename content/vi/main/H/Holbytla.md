@@ -22,19 +22,19 @@ langlinks:
     url: "https://kontu.wiki/Holbytla"
 ---
 
-**Holbytla** (pl. **Holbytlan**) có nghĩa là "người xây hố",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> những sinh vật huyền thoại được biết đến trong số [Người phương Bắc](../N/Northmen.md) và [Rohirrim](../R/Rohirrim.md).
+**Holbytla** (pl. **Holbytlan**) có nghĩa là "người xây lỗ",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> những sinh vật huyền thoại được biết đến trong số [Người phương Bắc](../N/Northmen.md) và [Rohirrim](../R/Rohirrim.md).
 
-Truyền thuyết có lẽ bắt nguồn từ thời tổ tiên của họ, [Éothéod](../_/Éothéod.md) đã nhìn thấy và biết đến người Hobbit từ [Thung lũng Anduin](../V/Vales_of_Anduin.md), trước hoặc xung quanh [Những ngày lang thang](../W/Wandering_Days.md) của họ. Từ 'Holbytla', từ '[Hobbit](Hobbits.md)' ở [Westron](../W/Westron.md) được bắt nguồn.<sup id="cite_ref-Road_2-0" class="reference"><a href="#cite_note-Road-2">[2]</a></sup>
+Truyền thuyết có lẽ bắt nguồn từ thời tổ tiên của họ, [Éothéod](../_/Éothéod.md) đã nhìn thấy và biết Hobbit từ [Thung lũng Anduin](../V/Vales_of_Anduin.md), trước hoặc xung quanh [Ngày lang thang](../W/Wandering_Days.md) của họ. Từ 'Holbytla' từ '[Hobbit](Hobbits.md)' trong [Westron](../W/Westron.md) được bắt nguồn.<sup id="cite_ref-Road_2-0" class="reference"><a href="#cite_note-Road-2">[2]</a></sup>
 
 Chỉ có một câu chuyện về họ, đó là họ không xuất hiện trong bất kỳ câu chuyện nào khác. Họ làm rất ít và tránh ánh mắt của đàn ông, có thể biến mất trong nháy mắt; và chúng có thể thay đổi giọng nói của mình để giống với tiếng kêu của các loài chim.
 
-Khi [Théoden](../T/Théoden.md) gặp [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đang đứng canh gác tại [Isengard](../I/Isengard.md) vào [5 tháng 3](../_/5_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> ông đã ngay lập tức kết nối họ với sinh vật trong văn hóa dân gian mặc dù ông lưu ý rằng họ không biết [phun khói](../S/Smoking.md) từ miệng của họ. Peregrin đã sửa lại ông, người nói rằng họ thích thuật ngữ "[Hobbit](Hobbits.md)"<sup id="cite_ref-Road_2-1" class="reference"><a href="#cite_note-Road-2">[2]</a></sup> (*[kuduk](../K/Kuduk.md)*).<sup id="cite_ref-Translation_4-0" class="reference"><a href="#cite_note-Translation-4">[4]</a></sup>
+Khi [Théoden](../T/Théoden.md) gặp [Peregrin Took](../P/Peregrin_Took.md) và [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) đứng gác tại [Isengard](../I/Isengard.md) vào [ngày 5 tháng 3](../_/5_March.md), [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> ông ta ngay lập tức kết nối họ với sinh vật dân gian này mặc dù ông ta lưu ý rằng họ không biết [thở khói](../S/Smoking.md) từ miệng. Peregrin đã sửa lại ông, người nói rằng họ thích thuật ngữ "[Hobbit](Hobbits.md)"<sup id="cite_ref-Road_2-1" class="reference"><a href="#cite_note-Road-2">[2]</a></sup> (*[kuduk](../K/Kuduk.md)*).<sup id="cite_ref-Translation_4-0" class="reference"><a href="#cite_note-Translation-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Holbytla* là bản dịch [tiếng Anh cổ](../O/Old_English.md) của [tiếng Rohan](../R/Rohanese.md) *[Kûd-dûkan](../K/Kûd-dûkan.md)* "người sống trong hang", từ đó chính từ *[Kuduk](../K/Kuduk.md)* đã được bắt nguồn.<sup id="cite_ref-Translation_4-1" class="reference"><a href="#cite_note-Translation-4">[4]</a></sup>
+*Holbytla* là bản dịch [tiếng Anh cổ](../O/Old_English.md) của [Rohanese](../R/Rohanese.md) *[Kûd-dûkan](../K/Kûd-dûkan.md)* "người sống trong hố", từ đó chính từ *[Kuduk](../K/Kuduk.md)* đã được bắt nguồn.<sup id="cite_ref-Translation_4-1" class="reference"><a href="#cite_note-Translation-4">[4]</a></sup>
 
-Holbytla dường như là một từ nguyên có tính chất hồi tố, được phát minh ra để giải thích từ "hobbit", tất nhiên ban đầu đây là nguồn cảm hứng tự phát của Tolkien mà không có lời giải thích đằng sau nó.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Holbytla dường như là một từ nguyên có tính chất hồi tố, được phát minh ra để giải thích từ "hobbit", tất nhiên ban đầu đó là nguồn cảm hứng tự phát của Tolkien mà không có lời giải thích đằng sau nó.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

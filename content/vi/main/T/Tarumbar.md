@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "King of the World"
 ---
 
-Chuyển hướng đến [Vua của thế giới](../K/King_of_the_World.md).
+Chuyển hướng tới [Vua của Thế giới](../K/King_of_the_World.md).

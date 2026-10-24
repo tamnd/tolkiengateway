@@ -28,15 +28,15 @@ infobox:
 
 <i><b>Fumellar</b></i>, **bông hoa ngủ**, là <a class="extiw" href="http://en.wikipedia.org/wiki/Poppy" title="wikipedia:Poppy">hoa anh túc</a> theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Chúng mọc trong khu vườn của [Lórien](<../L/Lórien_(Valinor).md>) ở [Valinor](../V/Valinor.md). *fumellar* được cho là đã phát sáng "màu đỏ trong hoàng hôn". [Vala Lórien](../I/Irmo.md) thường sử dụng chúng trong bùa chú của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Chúng mọc ở các khu vườn của [Lórien](<../L/Lórien_(Valinor).md>) ở [Valinor](../V/Valinor.md). *fumellar* được cho là đã phát sáng "màu đỏ trong hoàng hôn". [Vala Lórien](../I/Irmo.md) thường sử dụng chúng trong bùa chú của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *fumellar* là [Qenya](../Q/Qenya.md): *fúmella*, *fúmellot* có nghĩa là "cây anh túc". Phần tử đầu tiên có liên quan đến *fúmë* ("sleep"; danh từ).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên biến thể [Gnomish](../G/Gnomish.md) của "poppy" là *humilos*, *humlos*, *humethla* và *humloth*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *fumellar* là [Qenya](../Q/Qenya.md): *fúmella*, *fúmellot* có nghĩa là "cây thuốc phiện". Phần tử đầu tiên có liên quan đến *fúmë* ("sleep"; danh từ).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tên biến thể [Gnomish](../G/Gnomish.md) cho "poppy" là *humilos*, *humlos*, *humethla* và *humloth*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các trường hợp khác {#Other_occurences}
 
-Trong các tác phẩm ngôn ngữ ban đầu, *[Tethil](../T/Tethil.md)* là tên [Gnomish](../G/Gnomish.md) cho một loài hoa [fay](../S/Sprites.md) sống trong cây anh túc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong các tác phẩm ngôn ngữ ban đầu, *[Tethil](../T/Tethil.md)* là tên [Gnomish](../G/Gnomish.md) của một loài hoa [fay](../S/Sprites.md) mọc ở cây anh túc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

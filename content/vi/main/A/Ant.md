@@ -13,11 +13,11 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>ant</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là *gift*. Từ này có nguồn gốc từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarmë.md) <a href="ANA.md" title="ANA">ANA<sup>1</sup></a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>ant</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là *gift*. Từ này có nguồn gốc từ [Elvish](../E/Elvish.md) [gốc](../S/Sundocarmë.md) <a href="ANA.md" title="ANA">ANA<sup>1</sup></a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - Có cùng nguồn gốc: [Quenya](../Q/Quenya.md) *[anna](Anna.md)*
 
-Trong [Sindarin](../S/Sindarin.md) sau này, *ant* đã được sửa đổi thành *ann* và *anw*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Sindarin](../S/Sindarin.md) sau này, *ant* được sửa đổi thành *ann* và *anw*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Các dạng lỗi thời: [Noldorin](../N/Noldorin.md) *ant* ban đầu được viết là *ann*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 

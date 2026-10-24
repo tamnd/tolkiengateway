@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>tirion</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "tháp canh, tháp".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>tirion</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "tháp canh, tháp".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -25,7 +25,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[tirith](Tirith.md)*
+- [Sindarin](../S/Sindarin.md) *[tirith](Tirith.md)*
 
 <span></span>
 

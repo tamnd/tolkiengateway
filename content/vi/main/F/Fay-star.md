@@ -43,7 +43,7 @@ Khi Smith lên mười tuổi, ông dậy sớm vào ngày sinh nhật của mì
 
 Với sức mạnh của ngôi sao thần tiên Smith đã đi khám phá vùng đất Thần tiên. Cư dân của vùng đất gọi anh là [Starbrow](../S/Starbrow.md) vì ngôi sao anh đeo. Cuối cùng Smith đã có thể gặp được Nữ hoàng của vùng đất.<sup id="cite_ref-History_1-3" class="reference"><a href="#cite_note-History-1">[1]</a></sup>
 
-Sau nhiều năm, Vua Thần Tiên yêu cầu trả lại ngôi sao thần tiên. Nhà vua là Alf và đã đến lúc ông (hiện là Đầu bếp chính của làng) đặt ngôi sao vào một Chiếc bánh vĩ đại mới để truyền lại cho một đứa trẻ mới. Smith được phép chọn người nhận tiếp theo và chọn [Tim](../T/Tim_of_Townsend.md), con trai của cháu trai ông <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nokes_of_Townsend&amp;action=edit&amp;redlink=1" title="Nokes of Townsend (page does not exist)">Nokes of Townsend</a>, người mặc dù là chắt của Nokes nhưng không hề giống ông. Khi Tim ăn ngôi sao thần tiên Smith có thể nhìn thấy ánh sáng trong mắt ông và thấy cậu bé nhảy múa duyên dáng hơn trước rất nhiều.<sup id="cite_ref-History_1-4" class="reference"><a href="#cite_note-History-1">[1]</a></sup>
+Sau nhiều năm, Vua Thần tiên đã yêu cầu trả lại ngôi sao thần tiên. Vua là Alf và đã đến lúc ông (hiện là Đầu bếp chính của làng) đặt ngôi sao vào một chiếc Bánh Vĩ Đại mới để truyền lại cho một đứa trẻ mới. Smith được phép chọn người nhận tiếp theo và chọn [Tim](../T/Tim_of_Townsend.md), con trai của cháu trai ông <a class="new" href="https://tolkiengateway.net/w/index.php?title=Nokes_of_Townsend&amp;action=edit&amp;redlink=1" title="Nokes of Townsend (page does not exist)">Nokes of Townsend</a>, người mặc dù là chắt của Nokes nhưng không hề giống ông. Khi Tim ăn ngôi sao thần tiên Smith có thể nhìn thấy ánh sáng trong mắt ông và thấy cậu bé nhảy múa duyên dáng hơn trước rất nhiều.<sup id="cite_ref-History_1-4" class="reference"><a href="#cite_note-History-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -55,7 +55,7 @@ Trong bản phác thảo đầu tiên của *[Smith of Wootton Major](../S/Smith
 
 ## Nền {#Background}
 
-Trong một bài tiểu luận có tựa đề "[Smith of Wootton Major](../S/Smith_of_Wootton_Major_essay.md)",<sup id="cite_ref-Essay_2-2" class="reference"><a href="#cite_note-Essay-2">[2]</a></sup> [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã so sánh việc được trao ngôi sao thần tiên với <a class="extiw" href="http://en.wikipedia.org/wiki/On_His_Majesty%27s_Service" title="wikipedia:On His Majesty&#39;s Service">OHMS</a>,<sup id="cite_ref-Essay_2-3" class="reference"><a href="#cite_note-Essay-2">[2]</a></sup> được mô tả trong một ghi chú là viết tắt của "Phục vụ Bệ hạ".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong một bài tiểu luận có tựa đề "[Smith of Wootton Major](../S/Smith_of_Wootton_Major_essay.md)",<sup id="cite_ref-Essay_2-2" class="reference"><a href="#cite_note-Essay-2">[2]</a></sup> [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) so sánh việc được trao ngôi sao thần tiên với <a class="extiw" href="http://en.wikipedia.org/wiki/On_His_Majesty%27s_Service" title="wikipedia:On His Majesty&#39;s Service">OHMS</a>,<sup id="cite_ref-Essay_2-3" class="reference"><a href="#cite_note-Essay-2">[2]</a></sup> được mô tả trong một ghi chú là viết tắt của "Phục vụ Bệ hạ".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

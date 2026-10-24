@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Rings Adventure Game"
 ---
 
-Redirect to [Lord of the Rings Adventure Game](Lord_of_the_Rings_Adventure_Game.md).
+Chuyển hướng tới [Trò chơi phiêu lưu Chúa tể những chiếc nhẫn](Lord_of_the_Rings_Adventure_Game.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Front Gate"
 ---
 
-Chuyển hướng đến [Cổng trước](../F/Front_Gate.md).
+Chuyển hướng đến [Cổng Trước](../F/Front_Gate.md).

@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Dungalef"
 ---
 
-**Dungalef** (đảo chữ của tên "Felagund") là tên [Finrod Felagund](../F/Finrod.md) tự nhận mình trong [Nhiệm vụ tìm kiếm Silmaril](../Q/Quest_for_the_Silmaril.md) khi cải trang thành một [orc](../O/Orcs.md). Người bạn đồng hành của anh, [Beren Erchamion](../B/Beren.md), lấy tên là [Nereb](../N/Nereb.md).<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
+**Dungalef** (đảo chữ của tên "Felagund") là cái tên [Finrod Felagund](../F/Finrod.md) tự đặt cho mình trong [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md) khi cải trang thành một [orc](../O/Orcs.md). Người bạn đồng hành của ông ta, [Beren Erchamion](../B/Beren.md), lấy tên là [Nereb](../N/Nereb.md).<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
 
 <span></span>
 

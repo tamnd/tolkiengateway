@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lúthien (son of Gelmir)"
 ---
 
-Chuyển hướng đến [Lúthien (con trai của Gelmir)](<../L/Lúthien_(son_of_Gelmir).md>).
+Chuyển hướng tới [Lúthien (con trai của Gelmir)](<../L/Lúthien_(son_of_Gelmir).md>).

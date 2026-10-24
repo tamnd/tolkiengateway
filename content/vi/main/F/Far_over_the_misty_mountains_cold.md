@@ -38,7 +38,7 @@ images:
 
 ## Lịch sử {#History}
 
-Khi ở [Bag End](../B/Bag_End.md) sau bữa tiệc bất ngờ, [Thorin](../T/Thorin.md) và [Công ty](../T/Thorin_and_Company.md) mang [nhạc cụ](../M/Musical_instruments.md#Dwarven_musical_instruments) của họ ra và bắt đầu hát. Người ta cho rằng điều này *"giống như một đoạn bài hát của họ, nếu nó có thể giống như bài hát không có nhạc của họ."* Giọng hát mạnh mẽ của họ đã khơi dậy khía cạnh "[Tookish](../T/Tooks.md)" của [Bilbo](../B/Bilbo.md), và trong một khoảnh khắc, khao khát khám phá và phiêu lưu đã đến với anh, mặc dù ý nghĩ cướp bóc [những con rồng](../D/Dragons.md) đã nhanh chóng khôi phục lại bản chất "[Baggins](../B/Baggins.md)" ít phiêu lưu hơn của anh.
+Khi đang ở [Bag End](../B/Bag_End.md) sau bữa tiệc bất ngờ, [Thorin](../T/Thorin.md) và [Công ty](../T/Thorin_and_Company.md) đã mang [nhạc cụ](../M/Musical_instruments.md#Dwarven_musical_instruments) của mình ra và bắt đầu hát. Điều này được cho là *"giống như một đoạn bài hát của họ, nếu nó có thể giống như bài hát không có nhạc của họ."* Giọng hát mạnh mẽ của họ đã khơi dậy khía cạnh "[Tookish](../T/Tooks.md)" của [Bilbo](../B/Bilbo.md), và trong một khoảnh khắc, khao khát khám phá và phiêu lưu đã đến với anh, mặc dù ý nghĩ cướp bóc [những con rồng](../D/Dragons.md) đã nhanh chóng khôi phục lại bản chất "[Baggins](../B/Baggins.md)" ít phiêu lưu hơn của anh.
 
 ## Văn bản {#Text}
 
@@ -97,7 +97,7 @@ To win our harps and gold from him!
 </p>
 </div>
 
-<br>Tối hôm đó, khi Bilbo nằm trên giường cố ngủ, anh vẫn nghe thấy Thorin ngâm nga ở phòng bên cạnh:
+<br>Tối hôm đó, khi Bilbo nằm trên giường cố ngủ, anh vẫn nghe thấy tiếng Thorin vo ve ở phòng bên cạnh:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Far over the misty mountains cold<br/>
@@ -109,11 +109,11 @@ To find our long-forgotten gold.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Parts of the song are sung by the dwarves of Thorin&#39;s Company when they meet Bilbo for the first time. They sing it again at Bag End, before Bilbo decides to join them on their quest. Finally, the song is reprised after the death of Smaug, during the dwarves&#39; preparations for the defence of Erebor. The song is the last track on the official soundtrack and is titled &#34;<a href="../M/Misty_Mountains_Cold.md" title="Misty Mountains Cold">Misty Mountains Cold</a>&#34;.</dd></dl>
 
-<br> <b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>Người Hobbit</i> (phim truyền hình 1985)</a></b>
+<br> <b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
 
 <dl><dd>The song is sang by the dwarves as they are walking through the forest, shortly before being captured by the goblins. Verses 3 through 7 are left out in that version.</dd></dl>
 
@@ -125,7 +125,7 @@ To find our long-forgotten gold.
 
 <dl><dd>Black metal tolkien-based band Summoning adapts the song in this title.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">Người Hobbit: Hành trình bất ngờ</a></i>:</b>
+<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
 <dl><dd>A modified version of the song is sung by <a href="../T/Thorin.md" title="Thorin">Thorin</a> (<a href="../R/Richard_Armitage.md" title="Richard Armitage">Richard Armitage</a>) and the <a href="../T/Thorin_and_Company.md" title="Thorin and Company">rest of the Company</a> during the unexpected party at <a href="../B/Bag_End.md" title="Bag End">Bag End</a>. <a href="../N/Neil_Finn.md" title="Neil Finn">Neil Finn</a> also sings a variation of the song entitled &#34;<a href="../S/Song_of_the_Lonely_Mountain.md" title="Song of the Lonely Mountain">Song of the Lonely Mountain</a>&#34; in the ending credits of the film.</dd></dl>
 
@@ -133,14 +133,14 @@ To find our long-forgotten gold.
 
 - <a class="external text" href="https://www.youtube.com/watch?v=4koD_SN7QXA" rel="noreferrer noopener" target="_blank">Clamavi De Profundis trình bày</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=Erkv1-_xR7U" rel="noreferrer noopener" target="_blank">Geoff Castellucci trình diễn</a>
-- <a class="external text" href="https://www.youtube.com/watch?v=AhqfiGLuWaY" rel="noreferrer noopener" target="_blank">Über die Nebelberge weit gesammt</a> *(Bản trình chiếu từ bản chuyển thể The Hobbit trên đài phát thanh Đức cuối những năm 1970)*
+- <a class="external text" href="https://www.youtube.com/watch?v=AhqfiGLuWaY" rel="noreferrer noopener" target="_blank">Über die Nebelberge weit gesammt</a> *(Bản trình diễn chuyển thể từ đài phát thanh Đức The Hobbit vào cuối những năm 1970)*
 - <a class="external text" href="https://www.youtube.com/watch?v=RaMpnl4DrVM" rel="noreferrer noopener" target="_blank">Rachel Hardy trình bày</a> <i>(Phiên bản viết tắt, sử dụng lời của phim điện ảnh năm 2012 *The Hobbit: An Unexpected Journey*)</i>
 - <a class="external text" href="https://www.youtube.com/watch?v=U9dHIcRlsLI" rel="noreferrer noopener" target="_blank">Phiên bản từ bộ phim truyền hình năm 1985</a>
 
 ## Xem thêm {#See_also}
 
-- [Bài thơ trong Người Hobbit](../P/Poems_in_The_Hobbit.md)
-- [Gió thổi trên bãi thạch thảo khô héo](../T/The_wind_was_on_the_withered_heath.md)
+- [Bài thơ trong The Hobbit](../P/Poems_in_The_Hobbit.md)
+- [Gió thổi trên bãi thạch cao khô héo](../T/The_wind_was_on_the_withered_heath.md)
 
 <span></span>
 

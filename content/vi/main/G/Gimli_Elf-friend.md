@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gimli"
 ---
 
-Chuyển hướng tới [Gimli](Gimli.md).
+Chuyển hướng đến [Gimli](Gimli.md).

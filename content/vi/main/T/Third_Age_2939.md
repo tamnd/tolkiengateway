@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2936.md" title="Third Age 2936">2936</a><a href="Third_Age_2937.md" title="Third Age 2937">2937</a><a href="Third_Age_2938.md" title="Third Age 2938">2938</a><a class="mw-selflink selflink">2939</a><a href="Third_Age_2940.md" title="Third Age 2940">2940</a><a href="Third_Age_2941.md" title="Third Age 2941">2941</a><a href="Third_Age_2942.md" title="Third Age 2942">2942</a></div></div></div></div></div></div>
 
-**Thời đại thứ ba 2939** (viết tắt là **T.A. 2939**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2939 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2939 còn được gọi là **S.R. 1339** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2939** (viết tắt là **T.A. 2939**) là năm [thứ 2939 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2939 còn được gọi là **S.R. 1339** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Saruman](../S/Saruman.md) phát hiện ra rằng những người hầu của [Sauron](../S/Sauron.md) đang tìm kiếm [Anduin](../A/Anduin.md) gần [Gladden Fields](../G/Gladden_Fields.md), và do đó Sauron đã biết về kết cục của [Isildur](../I/Isildur.md). Ông ta hoảng hốt nhưng không nói gì với [Hội đồng Trắng](../W/White_Council.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Saruman](../S/Saruman.md) phát hiện ra rằng người hầu của [Sauron](../S/Sauron.md) đang tìm kiếm [Anduin](../A/Anduin.md) gần [Gladden Fields](../G/Gladden_Fields.md), và Sauron do đó đã biết được kết cục của [Isildur](../I/Isildur.md). Ông ta hoảng hốt nhưng không nói gì với [Bạch Hội Đồng](../W/White_Council.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cái chết của [Thain](Thain.md) [Isumbras Took IV](../I/Isumbras_Took_IV.md).<sup id="cite_ref-Took_2-0" class="reference"><a href="#cite_note-Took-2">[2]</a></sup>
-- [Fortinbras Took II](../F/Fortinbras_Took_II.md), con trai của Isumbras, trở thành Thain thứ 29 của [Shire](The_Shire.md).<sup id="cite_ref-Took_2-1" class="reference"><a href="#cite_note-Took-2">[2]</a></sup>
+- [Fortinbras Took II](../F/Fortinbras_Took_II.md), con trai của Isumbras, trở thành Thain thứ hai mươi chín của [ Shire](The_Shire.md).<sup id="cite_ref-Took_2-1" class="reference"><a href="#cite_note-Took-2">[2]</a></sup>
 
 <span></span>
 

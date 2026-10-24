@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-In a letter to his son [Christopher](../C/Christopher_Tolkien.md), Tolkien discusses his busy schedule, which includes organizing an R.N.-R.A.F. course for about 40 cadets and attending a <a class="external text" href="https://en.wikipedia.org/wiki/Passing%20out%20(military)" rel="noreferrer noopener" target="_blank">Passing Out</a> Parade. He mentions being invited to a Squadron <a class="external text" href="https://en.wikipedia.org/wiki/Smoking%20concert" rel="noreferrer noopener" target="_blank">Smoking Concert</a>, which he feels may not be suitable for his age, and considers visiting the [Inklings](../I/Inklings.md), including [Hugo Dyson](../H/Hugo_Dyson.md), instead. <br>
+Trong bức thư gửi con trai [Christopher](../C/Christopher_Tolkien.md), Tolkien thảo luận về lịch trình bận rộn của mình, bao gồm việc tổ chức một khóa học R.N.-R.A.F. cho khoảng 40 học viên và tham dự một cuộc diễu hành <a class="external text" href="https://en.wikipedia.org/wiki/Passing%20out%20(military)" rel="noreferrer noopener" target="_blank">Passing Out</a>. Ông đề cập đến việc được mời tham dự buổi hòa nhạc <a class="external text" href="https://en.wikipedia.org/wiki/Smoking%20concert" rel="noreferrer noopener" target="_blank">Hút thuốc</a>của Squadron, điều mà ông cảm thấy có thể không phù hợp với lứa tuổi của mình và thay vào đó ông cân nhắc việc đến thăm [Inklings](../I/Inklings.md), bao gồm cả [Hugo Dyson](../H/Hugo_Dyson.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

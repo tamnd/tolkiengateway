@@ -37,7 +37,7 @@ infobox:
 
 <i><b>Les aventures de Tom Bombadil</b></i> là bản dịch tiếng Pháp của *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*. Tác phẩm được Dashiell Hédayat dịch và trình bày dưới dạng song ngữ tiếng Anh và tiếng Pháp.
 
-*Les Aventures de Tom Bombadil* sao chép hai trang bản thảo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Một bao gồm phiên bản của '[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)' và phiên bản một phần và đầy đủ của '[Namárië](../N/Namárië.md)'. Phần còn lại bao gồm các đoạn trích ngắn từ các chương '[Nhiều cuộc họp](../M/Many_Meetings.md)' và '[Hội đồng Elrond](../T/The_Council_of_Elrond.md)' trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ngoài ra còn có bản mô tả viết tay của [Christopher Tolkien](../C/Christopher_Tolkien.md) về hai trang bản thảo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Les Aventures de Tom Bombadil* sao chép hai trang bản thảo bằng [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Một bao gồm phiên bản của '[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)' và phiên bản một phần và đầy đủ của '[Namárië](../N/Namárië.md)'. Phần còn lại bao gồm các đoạn trích ngắn từ các chương '[Nhiều cuộc họp](../M/Many_Meetings.md)' và '[ Hội đồng Elrond](../T/The_Council_of_Elrond.md)' trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Ngoài ra còn có bản sao mô tả viết tay của [Christopher Tolkien](../C/Christopher_Tolkien.md) về hai trang bản thảo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ấn bản, tuyển chọn {#Editions,_selection}
 

@@ -12,12 +12,12 @@ categories:
   - "Roots"
 ---
 
-**SAWA** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) biểu thị "kinh tởm, hôi hám, hèn hạ",<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> hoặc "xấu, không lành mạnh, ốm yếu, khốn khổ".<sup id="cite_ref-PE17b_2-0" class="reference"><a href="#cite_note-PE17b-2">[2]</a></sup>
+**SAWA** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) biểu thị "kinh tởm, hôi hám, hèn hạ",<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> hoặc "xấu, không lành mạnh, ốm yếu, khốn khổ".<sup id="cite_ref-PE17b_2-0" class="reference"><a href="#cite_note-PE17b-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
 - [Quenya](../Q/Quenya.md): *[saura](Saura.md)* ("thô tục, hèn hạ"); *sau-* (tiền tố tìm thấy trong *saucare* "làm hoặc làm mọi việc rất tệ"); *söa* ("rác rưởi")<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
-- [Tiếng Sindarin](Sindarin.md): *[saur](Saur.md)*<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+- [Sindarin](Sindarin.md): *[saur](Saur.md)*<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

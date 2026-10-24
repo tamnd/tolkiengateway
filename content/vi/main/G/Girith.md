@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>girith</b></i> là từ [Sindarin](../S/Sindarin.md), có nghĩa là "run rẩy".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>girith</b></i> là một từ [Sindarin](../S/Sindarin.md), có nghĩa là "run rẩy".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

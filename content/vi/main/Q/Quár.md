@@ -15,15 +15,15 @@ sort_keys:
   "Quenya nouns": "Quar"
 ---
 
-<i><b>quár</b></i>hoặc <i><b>quáre</b></i>, là một từ [Quenya](Quenya.md) có nghĩa là "nắm đấm", giống như một bàn tay nắm chặt quanh một công cụ hoặc nông cụ.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+<i><b>quár</b></i>, hoặc <i><b>quáre</b></i>, là một từ [Quenya](Quenya.md) có nghĩa là "nắm tay", giống như một bàn tay nắm chặt quanh một công cụ hoặc nông cụ.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
-Trong Phụ lục của *[The Silmarillion](../T/The_Silmarillion.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) ghi chú dạng <i><b>quárë</b></i> ("'nắm đấm', thường được dùng có nghĩa là 'bàn tay'").<sup id="cite_ref-EQS_4-0" class="reference"><a href="#cite_note-EQS-4">[4]</a></sup>
+Trong Phụ lục của *[The Silmarillion](../T/The_Silmarillion.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) ghi chú dạng <i><b>quárë</b></i> ("'nắm tay', thường được dùng với nghĩa là 'bàn tay'").<sup id="cite_ref-EQS_4-0" class="reference"><a href="#cite_note-EQS-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong một bản thảo muộn, dạng *quár* là dạng hậu duệ của [Quendian nguyên thủy](../P/Primitive_Quendian.md) *[kwāră](../K/Kwāra.md)*, bắt nguồn từ gốc [KWAR](../K/KWAR.md).<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+Trong một bản thảo muộn, dạng *quár* là dạng hậu duệ của [Primitive Quendian](../P/Primitive_Quendian.md) *[kwāră](../K/Kwāra.md)*, bắt nguồn từ gốc [KWAR](../K/KWAR.md).<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup><sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
-Trong bản thảo trước đó, dạng *quáre* là dạng hậu duệ của [Quendian nguyên thủy](../P/Primitive_Quendian.md) *[kwārē](../K/Kwāra.md)*, bắt nguồn từ gốc [KWAR](../K/KWAR.md).<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+Trong bản thảo trước đó, dạng *quáre* là dạng con của [Primitive Quendian](../P/Primitive_Quendian.md) *[kwārē](../K/Kwāra.md)*, bắt nguồn từ gốc [KWAR](../K/KWAR.md).<sup id="cite_ref-PE17_3-1" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -36,7 +36,7 @@ Trong bản thảo trước đó, dạng *quáre* là dạng hậu duệ của [
 
 ## Phiên bản khác {#Other_versions}
 
-[Tolkien](../J/J.R.R._Tolkien.md) dường như đã từ chối biểu mẫu *quáre*, được sửa đổi thành *quár*.<sup id="cite_ref-VT_2-2" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) dường như đã từ chối biểu mẫu *quáre*, được sửa thành *quár*.<sup id="cite_ref-VT_2-2" class="reference"><a href="#cite_note-VT-2">[2]</a></sup>
 
 Trong phần *[Etymologies](../T/The_Etymologies.md)* xuất hiện các dạng *qár* ("tay"; ?pl. *qari*) và *qáre* ("nắm đấm"), bắt nguồn từ gốc [KWAR](../K/KWAR.md#Other_versions) ("nắm tay, nắm đấm").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

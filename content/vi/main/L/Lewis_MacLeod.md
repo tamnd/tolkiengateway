@@ -22,7 +22,7 @@ sort_keys:
 
 ## Vai trò {#Roles}
 
-- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Hadhod, Tiên nhân lùn, Giọng nói bổ sung
+- [2006](../_/2006.md): *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)*: Hadhod, Người lùn Hiền nhân, Giọng nói bổ sung
 - [2004](../_/2004.md): *[The Lord of the Rings: The Third Age](../T/The_Lord_of_the_Rings%253A_The_Third_Age.md)*: Hadhod, [Sharku](../S/Sharku.md)
 
 ## Liên kết ngoài {#External_links}

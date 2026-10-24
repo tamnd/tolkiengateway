@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bilbo's Farewell Party"
 ---
 
-Chuyển hướng đến [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).
+Chuyển hướng đến [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).

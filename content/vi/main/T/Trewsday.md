@@ -27,13 +27,13 @@ categories:
 <li><a href="../H/Highday.md" title="Highday">Highday</a></li></ol>
 </td></tr></tbody></table>
 
-**Ngày Trews** (dạng cổ xưa *Trewesdei*) là ngày thứ tư trong tuần trong [Lịch Quận](../S/Shire_Calendar.md). Nó đại diện cho ngày [Númenórean](../N/Númenórean.md) *[Orgaladh](../O/Orgaladh.md)*, ban đầu được dành riêng cho cây [Nimloth](../N/Nimloth_of_Númenor.md).<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Ngày Trews** (dạng cổ xưa *Trewesdei*) là ngày thứ tư trong tuần ở [Lịch Shire](../S/Shire_Calendar.md). Nó đại diện cho [Númenórean](../N/Númenórean.md) ngày *[Orgaladh](../O/Orgaladh.md)*, ban đầu được dành riêng cho cây [Nimloth](../N/Nimloth_of_Númenor.md).<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 Sau cuộc cải cách [Isengrim Took II](../I/Isengrim_Took_II.md),<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> những ngày như [ngày 1 tháng 2](../_/1_February.md) và [ngày 1 tháng 8](../_/1_August.md) luôn rơi vào ngày Trewsday.
 
 ## Từ nguyên {#Etymology}
 
-*Trewsday* đại diện cho một dạng [Hobbitish](../H/Hobbitish.md) cổ xưa "Trewesdei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+*Trewsday* đại diện cho dạng [Hobbitish](../H/Hobbitish.md) cổ "Trewesdei", một từ được bảo tồn trong [Yellowskin](../Y/Yellowskin.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 *Trewsday* được dịch là "Thứ Ba " trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-cal_1-3" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 

@@ -86,4 +86,4 @@ Troll turns foe flesh to meat.
 
 ## Liên kết ngoài {#External_links}
 
-<a class="external text" href="https://bearmccreary.com/the-lord-of-the-rings-damrod/" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn: Damrod</a> của [Bear McCreary](../B/Bear_McCreary.md) (một bài blog của nhà soạn nhạc mô tả chi tiết quá trình sáng tác bài hát)
+<a class="external text" href="https://bearmccreary.com/the-lord-of-the-rings-damrod/" rel="noreferrer noopener" target="_blank">The Lord of the Rings: Damrod</a> của [Bear McCreary](../B/Bear_McCreary.md) (một bài blog của nhà soạn nhạc mô tả chi tiết quá trình sáng tác bài hát)

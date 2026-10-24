@@ -12,9 +12,9 @@ categories:
   - "Songs"
 ---
 
-Đây là trang định hướng cho các chế độ thơ được tìm thấy trong các tác phẩm của Tolkien.
+Đây là trang định hướng cho các thể thơ có trong tác phẩm của Tolkien.
 
-Các chế độ thơ thần tiên:
+Elvish Chế độ câu thơ:
 
 1. **[Ann-thennath](../A/Ann-thennath.md)**
 2. **[Linnod](../L/Linnod.md)**

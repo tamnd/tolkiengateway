@@ -24,11 +24,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jenny_Dolfen_-_Amrod_and_Amras,_sons_of_Feanor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/42/Jenny_Dolfen_-_Amrod_and_Amras%2C_sons_of_Feanor.jpg/250px-Jenny_Dolfen_-_Amrod_and_Amras%2C_sons_of_Feanor.jpg" decoding="async" loading="lazy" width="250" height="341" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/42/Jenny_Dolfen_-_Amrod_and_Amras%2C_sons_of_Feanor.jpg/375px-Jenny_Dolfen_-_Amrod_and_Amras%2C_sons_of_Feanor.jpg 1.5x, https://tolkiengateway.net/w/images/4/42/Jenny_Dolfen_-_Amrod_and_Amras%2C_sons_of_Feanor.jpg 2x" data-file-width="400" data-file-height="546"/></a><figcaption>&#34;Amrod and Amras, sons of Feanor&#34; by <a href="../J/Jenny_Dolfen.md" title="Jenny Dolfen">Jenny Dolfen</a></figcaption></figure>
 
-**Cặp song sinh** nổi tiếng có một vai trò quan trọng trong lịch sử của [Arda](../A/Arda.md), cả trong các dòng [Elven](../E/Elves.md), [Half-elven](../H/Half-elven.md) và [Mannish](../M/Men.md).
+**Cặp song sinh** nổi tiếng có một vai trò quan trọng trong lịch sử của [Arda](../A/Arda.md), cả trong các dòng [Tiên](../E/Elves.md), [Half-elven](../H/Half-elven.md) và [Mannish](../M/Men.md).
 
 ## Cặp song sinh được biết đến {#Known_twins}
 
-### Yêu tinh và Bán tiên {#Elven_and_Half-elven}
+### Tiên và Bán Tiên {#Elven_and_Half-elven}
 
 - [Amrod](../A/Amrod.md) và [Amras](../A/Amras.md)
 - [Eluréd](../E/Eluréd.md) và [Elurín](../E/Elurín.md)
@@ -40,7 +40,7 @@ images:
 - [Haleth](../H/Haleth.md) và [Haldar](../H/Haldar.md)
 - [Folcred](../F/Folcred.md) và [Fastred](<../F/Fastred_(son_of_Folcwine).md>)
 
-## Tiếng Elf {#Elvish_language}
+## Elvish ngôn ngữ {#Elvish_language}
 
 Trong [Quenya](../Q/Quenya.md), thuật ngữ này là *ónoni* (hát. *onóna* "sinh đôi", "một trong một cặp sinh đôi"). Từ cùng nguồn gốc [Sindarin](../S/Sindarin.md) là *[gwanûr](../G/Gwanûr.md)*.<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup>
 

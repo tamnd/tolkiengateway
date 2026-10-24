@@ -53,9 +53,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Người của Marach là nhóm đông đảo nhất trong số các nhóm [Đàn ông](Men.md) di chuyển về phía tây qua [Ered Luin](../E/Ered_Luin.md) ở [Kỷ nguyên thứ nhất](../F/First_Age.md) ( [Nhà Hador](../H/House_of_Hador.md)). Do quy mô của đội quân Marach, họ đi cùng nhau và di chuyển chậm – đến mức mặc dù ban đầu Marach dẫn đầu nhưng ông đã bị người của [Bëor](../B/Bëor.md) và [Haladin](../H/Haladin.md) vượt qua. Khi Haladin vượt qua những ngọn núi, họ đã bị chuyển về phía bắc do tình bạn của [Yêu tinh xanh](../G/Green-elves.md). Tuy nhiên, khi người dân Marach đi theo Haladin một năm sau đó, hành quân theo đoàn gồm những người cao lớn và hiếu chiến, Yêu tinh của [Ossiriand](../O/Ossiriand.md) đã tránh đường cho họ.
+Người của Marach là nhóm đông đảo nhất trong số các nhóm [Con Người](Men.md) di chuyển về phía tây qua [Ered Luin](../E/Ered_Luin.md) trong [Kỷ Đệ Nhất](../F/First_Age.md) ( [Nhà Hador](../H/House_of_Hador.md)). Do quy mô của đội quân của Marach, họ đi cùng nhau và di chuyển chậm - đến mức mặc dù ban đầu Marach dẫn đầu nhưng ông đã bị người của [Bëor](../B/Bëor.md) và [Haladin](../H/Haladin.md) vượt qua. Khi Haladin băng qua những ngọn núi, họ đã bị quay về phía bắc do tình bạn của [Tiên Xanh](../G/Green-elves.md). Tuy nhiên, khi người dân Marach đi theo Haladin một năm sau đó, hành quân theo đoàn gồm những người cao lớn, hiếu chiến, Tiên tộc của [Ossiriand](../O/Ossiriand.md) đã tránh đường cho họ.
 
-Người của Marach không lưu lại Ossiriand vì họ đã nghe nói rằng người dân [Bëor](../B/Bëor.md) đã tìm thấy một vùng đất xanh tươi và màu mỡ. Hành quân dọc theo [Con đường của người lùn](../D/Dwarf-road_of_Beleriand.md) họ định cư ở phía nam và phía đông vùng đất của [Baran](../B/Baran.md), con trai của Bëor, trong vùng có tên là [Estolad](../E/Estolad.md).
+Người dân Marach không nán lại Ossiriand vì họ nghe nói người dân [Bëor](../B/Bëor.md) đã tìm được vùng đất xanh tươi và màu mỡ. Hành quân theo [Người lùn đường](../D/Dwarf-road_of_Beleriand.md) họ định cư ở phía nam và phía đông vùng đất [Baran](../B/Baran.md), con trai của Bëor, trong một vùng có tên là [Estolad](../E/Estolad.md).
 
 Hầu hết người dân Marach muốn hành trình xa hơn về phía tây nên [Malach Aradan](Malach.md), con trai của Marach, đã dẫn họ đến sườn phía nam của [Ered Wethrin](../E/Ered_Wethrin.md). Tuy nhiên, Marach đã chọn ở lại Estolad cho đến khi qua đời.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -73,11 +73,11 @@ Hầu hết người dân Marach muốn hành trình xa hơn về phía tây nê
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Ban đầu [Hador Lórindol](../H/Hador.md) là người dẫn dắt người dân của gia tộc thứ ba của Edain băng qua Ered Luin để tiến vào Beleriand; điều này đã được thay đổi để Hador trở thành hậu duệ của Marach thuộc thế hệ thứ tư.<sup id="cite_ref-Hador_1-1" class="reference"><a href="#cite_note-Hador-1">[1]</a></sup>
+Ban đầu là [Hador Lórindol](../H/Hador.md) người dẫn người nhà thứ ba của Edain băng qua Ered Luin vào Beleriand; điều này đã được thay đổi để Hador trở thành hậu duệ của thế hệ thứ tư của Marach.<sup id="cite_ref-Hador_1-1" class="reference"><a href="#cite_note-Hador-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://middle-earth.xenite.org/2013/10/01/what-is-the-meaning-of-marach/" rel="noreferrer noopener" target="_blank">Ý nghĩa của Marach là gì?</a> của [Michael Martinez](Michael_Martinez.md)
+- <a class="external text" href="http://middle-earth.xenite.org/2013/10/01/what-is-the-meaning-of-marach/" rel="noreferrer noopener" target="_blank">Ý nghĩa của Marach là gì?</a> bởi [Michael Martinez](Michael_Martinez.md)
 
 <span></span>
 

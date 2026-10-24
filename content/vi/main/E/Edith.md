@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Edith Tolkien"
 ---
 
-Chuyển hướng tới [Edith Tolkien](Edith_Tolkien.md).
+Chuyển hướng đến [Edith Tolkien](Edith_Tolkien.md).

@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Kaksjalka"
 ---
 
-Gia đình **Twofoot** là một gia đình [Hobbit](../H/Hobbits.md) đến từ [Hobbiton](../H/Hobbiton.md). [Daddy Twofoot](../D/Daddy_Twofoot.md) sống ở [Bagshot Row](../B/Bagshot_Row.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Gia đình **Twofoot** là gia đình của [Hobbit](../H/Hobbits.md) từ [Hobbiton](../H/Hobbiton.md). [Daddy Twofoot](../D/Daddy_Twofoot.md) sống ở [Bagshot Row](../B/Bagshot_Row.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

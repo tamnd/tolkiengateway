@@ -26,7 +26,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[leben](Leben.md)*
+- [Sindarin](../S/Sindarin.md) *[leben](Leben.md)*
 
 <span></span>
 

@@ -34,22 +34,22 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bức thư này được viết cho [Stanley Unwin](../S/Stanley_Unwin.md) của [Allen & Unwin](../A/Allen_and_Unwin.md) ngay sau lần xuất bản đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*. Tolkien hài lòng vì cuốn sách được đón nhận nồng nhiệt, mặc dù ông nghi ngờ rằng hai bài phê bình rực rỡ, không có chữ ký trong *The Times* và *[Times Literary Supplement](../T/Times_Literary_Supplement.md)* được viết bởi [cùng một người đàn ông](../C/C.S._Lewis.md). Ông hơi ngạc nhiên khi lưu ý rằng không có người đánh giá nào chú ý đến việc ông sử dụng số nhiều *dwarves* thay vì *dwarfs* và bày tỏ sự tiếc nuối rằng ông đã không sử dụng từ *dwarrow* ("một từ khá hay, nhưng hơi quá cổ").
+Bức thư này được viết cho [Stanley Unwin](../S/Stanley_Unwin.md) của [Allen &amp; Unwin](../A/Allen_and_Unwin.md) ngay sau lần xuất bản đầu tiên của *[The Hobbit](../T/The_Hobbit.md)*. Tolkien hài lòng vì cuốn sách được đón nhận nồng nhiệt, mặc dù anh nghi ngờ rằng hai bài phê bình rực rỡ, không dấu tên trong *The Times* và *[Times Literary Supplement](../T/Times_Literary_Supplement.md)* được viết bởi [cùng một người đàn ông](../C/C.S._Lewis.md). Ông hơi ngạc nhiên khi lưu ý rằng không có người đánh giá nào chú ý đến việc ông sử dụng số nhiều *dwarves* thay vì *dwarfs* và bày tỏ sự tiếc nuối rằng ông đã không sử dụng từ *dwarrow* ("một từ khá hay, nhưng hơi quá cổ").
 
-Đã có cuộc nói chuyện về phần tiếp theo. Unwin đã ám chỉ rằng sẽ tìm kiếm nhiều câu chuyện về Người Hobbit hơn, nhưng Tolkien cảm thấy ông không còn nhiều điều để nói về họ: "Ông Baggins dường như đã thể hiện rất đầy đủ cả bản chất của Took và Baggins". Tolkien nói rằng ông đã nhận được một lá thư từ một độc giả muốn nghe thêm về [Gandalf](../G/Gandalf.md) và [The Necromancer](../S/Sauron.md), nhưng ông đã từ chối một câu chuyện như vậy vì "quá đen tối" – mặc dù đồng thời ông cũng trầm ngâm rằng "sự hiện diện (ngay cả khi chỉ ở biên giới)... \[là\] điều mang lại cho thế giới tưởng tượng này vẻ chân thật". Tuy nhiên, Tolkien rất phấn khích trước viễn cảnh có phần tiếp theo, hy vọng rằng nó có thể cho phép ông "làm những gì tôi rất mong muốn và không thất bại trong nghĩa vụ tài chính".
+Đã có cuộc nói chuyện về phần tiếp theo. Unwin đã gợi ý rằng sẽ tìm kiếm nhiều câu chuyện có Hobbit hơn, nhưng Tolkien cảm thấy ông không còn nhiều điều để nói về chúng: "Ông Baggins dường như đã thể hiện quá đầy đủ cả khía cạnh Took và Baggins trong bản chất của họ". Tolkien nói rằng ông đã nhận được một lá thư từ một độc giả muốn biết thêm về [Gandalf](../G/Gandalf.md) và [ Necromancer](../S/Sauron.md), nhưng ông đã từ chối một câu chuyện như vậy vì "quá đen tối" – mặc dù đồng thời ông cũng trầm ngâm rằng "sự hiện diện (ngay cả khi chỉ ở biên giới)... \[là\] điều mang lại cho thế giới tưởng tượng này vẻ chân thật". Tuy nhiên Tolkien rất hào hứng với viễn cảnh có phần tiếp theo, hy vọng rằng nó có thể cho phép ông "làm những gì tôi rất mong muốn và không thất bại trong nghĩa vụ tài chính".
 
-Buổi đón tiếp cuốn sách trên [sân nhà](../O/Oxford_University.md) của Tolkien là sự pha trộn giữa sự thích thú và sự ngưỡng mộ đầy tội lỗi:
+Buổi đón tiếp cuốn sách trên [sân nhà](../O/Oxford_University.md) của Tolkien là sự kết hợp giữa sự thích thú và sự ngưỡng mộ đầy tội lỗi:
 
 <blockquote class="tg-quote noexcerpt">
 <p>I think &#39;Oxford&#39; interest is mildly aroused. I am constantly asked how my hobbit is. The attitude is (as I foresaw) not unmixed with surprise and a little pity. My own college is I think good for about six copies, if only in order to find material for teasing me. Appearance in The Times convinced one or two of my more sedate colleagues that they could admit knowledge of my &#39;fantasy&#39; (i.e. indiscretion) without loss of academic dignity. The professor of Byzantine Greek bought a copy, &#39;because first editions of &#34;Alice&#34; are now very valuable&#39;. I did hear that the Regius Professor of Modern History was recently seen reading &#39;The Hobbit&#39;. It is displayed by Parkers but not elsewhere (I think).
 </p>
 </blockquote>
 
-Cuối cùng, Tolkien đã sắp xếp một cuộc gặp với Unwin về việc xuất bản *[Mr. Bliss](../M/Mr._Bliss.md)*.
+Cuối cùng Tolkien đã sắp xếp một cuộc gặp với Unwin về việc xuất bản *[Mr. Bliss](../M/Mr._Bliss.md)*.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Đoạn thứ hai bị bỏ sót đã được phục hồi, trình bày một số giai thoại về gia đình. [Priscilla](../P/Priscilla.md), con gái của Tolkien, ở tuổi 8, đã phân biệt được "nỗi kinh hoàng trong văn học và thực tế", vì mặc dù không gặp rắc rối với rồng và yêu tinh trong các câu chuyện, nhưng cô bé lại sợ hãi trước tay cầm tủ quần áo đến mức phải thay chúng.
+Đoạn thứ hai bị bỏ sót đã được phục hồi, trình bày một số giai thoại về gia đình. [Priscilla](../P/Priscilla.md), con gái của Tolkien, ở tuổi 8 đã phân biệt được "nỗi kinh hoàng trong văn học và thực tế", vì mặc dù không gặp rắc rối với rồng và yêu tinh trong các câu chuyện nhưng cô bé lại sợ hãi trước tay nắm tủ quần áo đến mức phải thay chúng.
 
 <br>
 

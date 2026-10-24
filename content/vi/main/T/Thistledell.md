@@ -35,7 +35,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md), Thistledell là một thung lũng mà một [cộng đồng Harfoot](../H/Harfoots.md) nào đó đã đi qua khi di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác, đặc biệt là từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
+Vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), Thistledell là một thung lũng mà một [cộng đồng Harfoot](../H/Harfoots.md) nào đó đã đi qua khi di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác, đặc biệt là từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
 
 Trong một lần di cư như vậy, gia đình Brandyfoot, [Poppy Proudfellow](../P/Poppy_Proudfellow.md) và [The Stranger](The_Stranger.md) đã đi qua Thistledell trong khi vội vã đuổi theo đoàn lữ hành chính của cộng đồng Harfoot đã vượt xa họ.
 

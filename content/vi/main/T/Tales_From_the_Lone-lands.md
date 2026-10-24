@@ -54,7 +54,7 @@ infobox:
 
 ## Lễ tân {#Reception}
 
-Trong bài đánh giá cho [Other Minds 27](../O/Other_Minds_27.md), José Enrique Vacas de la Rosa khen ngợi cuốn sách về chất lượng sản xuất và lối chơi được cung cấp, nhưng có sự dè dặt mạnh mẽ về mức độ nghiêm trọng của mối đe dọa mà Hill of Fear gây ra cho Eriador. Ông cũng lưu ý rằng mặc dù tài liệu về chơi game nhìn chung rất chi tiết nhưng nhiều địa điểm xuất hiện trong các cuộc phiêu lưu chỉ được mô tả một cách hời hợt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong bài đánh giá cho [Other Minds 27](../O/Other_Minds_27.md), José Enrique Vacas de la Rosa khen ngợi cuốn sách về chất lượng sản xuất và lối chơi được cung cấp, nhưng có sự dè dặt mạnh mẽ về mức độ nghiêm trọng của mối đe dọa mà Hill of Fear đặt ra Eriador. Ông cũng lưu ý rằng mặc dù tài liệu về chơi game nhìn chung rất chi tiết nhưng nhiều địa điểm xuất hiện trong các cuộc phiêu lưu chỉ được mô tả một cách hời hợt.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Bằng các ngôn ngữ khác {#In_other_languages}
 

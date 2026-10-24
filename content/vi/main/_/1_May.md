@@ -66,23 +66,23 @@ Sự kiện xảy ra vào ngày 1 tháng 5
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham dự buổi khám của hội đồng y tế. Ông dành một thời gian ở Trại lính ngự lâm Hornsea.
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia hội đồng y tế khám. Ông dành một thời gian ở Trại lính ngự lâm Hornsea.
 - **[1917](1917.md)** - Nữ diễn viên [Pauline Letts](../P/Pauline_Letts.md) ra đời.
 - **[1946](1946.md)** - Nữ diễn viên [Nellie Bellflower](../N/Nellie_Bellflower.md) ra đời.
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Donna Sadlier](../L/Letter_to_Donna_Sadlier.md).
 - **[2004](2004.md)** - *[There and Back Again: In the Footsteps of J.R.R. Tolkien's England](../T/There_and_Back_Again%253A_In_the_Footsteps_of_J.R.R._Tolkien's_England.md)* được xuất bản.
-- <b><a href="2007.md" title="2007">2007</a> - <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">Lịch sử Người Hobbit</a> tập 1: Ông Baggins</i> được xuất bản.</b>
-- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "Doom of the Last-King" được phát hành ở Châu Âu.
+- <b><a href="2007.md" title="2007">2007</a> - <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a> tập 1: Ông Baggins</i> được xuất bản.</b>
+- **[2008](2008.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "Doom of the Last-Vua" được phát hành ở Châu Âu.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2942](../T/Third_Age_2942.md):
-    - [Bilbo](../B/Bilbo_Baggins.md) và [Gandalf](../G/Gandalf.md) đến [Rivendell](../R/Rivendell.md) sau cuộc phiêu lưu của họ tại [Núi cô đơn](../L/Lonely_Mountain.md).
+    - [Bilbo](../B/Bilbo_Baggins.md) và [Gandalf](../G/Gandalf.md) đến được [Rivendell](../R/Rivendell.md) sau chuyến phiêu lưu của họ tại [Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Aragorn](../A/Aragorn.md) và [Gandalf](../G/Gandalf.md) gặp nhau tại [Sarn Ford](../S/Sarn_Ford.md). Gandalf nói với Aragorn về kế hoạch rời khỏi [Shire](../T/The_Shire.md) của [Frodo](../F/Frodo_Baggins.md).
+    - [Aragorn](../A/Aragorn.md) và [Gandalf](../G/Gandalf.md) gặp nhau tại [Sarn Ford](../S/Sarn_Ford.md). Gandalf cho Aragorn biết về kế hoạch rời khỏi [ Shire](../T/The_Shire.md) của [Frodo](../F/Frodo_Baggins.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Crowning_of_the_King&amp;action=edit&amp;redlink=1" title="Crowning of the King (page does not exist)">Sự đăng quang</a> của [Vua Elessar](../A/Aragorn.md). Ông ta yêu cầu [Faramir](../F/Faramir.md) tiếp tục [Quản lý Gondor](../S/Stewards_of_Gondor.md).
-    - Đại sứ của [Vương quốc dưới núi](../K/Kingdom_Under_the_Mountain~32174.md) và [Vương quốc Dale](../K/Kingdom_of_Dale.md) đang có mặt tại [Gondor](../G/Gondor.md) để dự lễ đăng quang.
-    - [Elrond](../E/Elrond.md) và [Arwen](../A/Arwen.md) khởi hành từ [Rivendell](../R/Rivendell.md).
+    - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Crowning_of_the_King&amp;action=edit&amp;redlink=1" title="Crowning of the King (page does not exist)">Đăng quang</a> của [Vua Elessar](../A/Aragorn.md). Ông ta đề nghị [Faramir](../F/Faramir.md) tiếp tục [Người quản lý của Gondor](../S/Stewards_of_Gondor.md).
+    - Các đại sứ của [Vương quốc dưới núi](../K/Kingdom_Under_the_Mountain~32174.md) và [Vương quốc Dale](../K/Kingdom_of_Dale.md) sẽ có mặt tại [Gondor](../G/Gondor.md) để đăng quang.
+    - [Elrond](../E/Elrond.md) và [Arwen](../A/Arwen.md) xuất phát từ [Rivendell](../R/Rivendell.md).
 - [T.A.](../T/Third_Age.md) [3020](../T/Third_Age_3020.md):
-    - [Samwise Gamgee](../S/Samwise_Gamgee.md) kết hôn với [Rose Cotton](../R/Rose_Cotton.md).
+    - [Samwise Gamgee](../S/Samwise_Gamgee.md) kết hôn với [Bông Hồng](../R/Rose_Cotton.md).

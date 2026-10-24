@@ -13,13 +13,13 @@ categories:
   - "Ilkorindi"
 ---
 
-**Dân tộc Bóng tối**, còn được gọi là <i><b>Úvalear</b></i>,<sup id="cite_ref-Fol_1-0" class="reference"><a href="#cite_note-Fol-1">[1]</a></sup> là những [fays](../F/Fays.md) sinh sống ở [Hisilómë](../H/Hisilómë.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+**Bóng Tối Dân gian**, còn được gọi là <i><b>Úvalear</b></i>,<sup id="cite_ref-Fol_1-0" class="reference"><a href="#cite_note-Fol-1">[1]</a></sup> là những [fay](../F/Fays.md) sinh sống ở [Hisilómë](../H/Hisilómë.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Sau khi [Gnomes](../G/Gnomes.md) đến [Great Lands](../G/Great_Lands.md) trong thời gian [lưu vong](../F/Flight_of_the_Noldor.md), họ đã giao dịch<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup><sup id="cite_ref-Fol_1-1" class="reference"><a href="#cite_note-Fol-1">[1]</a></sup> với Shadow Folk ở Hisilómë, những người mà người ta nói rằng họ không phải là "của [Valar](../V/Valar.md) hay [Melko](../M/Melko.md)", và họ đến từ thời nguyên thủy [void](../V/Void.md) "khi thế giới lần đầu tiên được hình thành".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Sau khi [Gnomes](../G/Gnomes.md) đến [Great Lands](../G/Great_Lands.md) trong thời gian [lưu vong](../F/Flight_of_the_Noldor.md), họ đã giao dịch<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup><sup id="cite_ref-Fol_1-1" class="reference"><a href="#cite_note-Fol-1">[1]</a></sup> với Bóng Tối Dân gian ở Hisilómë, những người mà người ta nói rằng họ không phải là "của [Valar](../V/Valar.md) cũng không phải của [Melko](../M/Melko.md)", và rằng họ đến từ [khoảng trống](../V/Void.md) nguyên thủy "khi thế giới sơ khai thời trang".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản trước của *The Book of Lost Tales*, thuật ngữ "Dân tộc bóng tối" và "dân gian bóng tối" là những cái tên được [Con người](../M/Men.md) đặt trong nỗi sợ hãi cho [Yêu tinh lạc lối](../I/Ilkorindi.md) sống ở Hisilómë trước khi họ đến.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Trong các phiên bản trước của *The Book of Lost Tales*, thuật ngữ "Bóng Tối Dân gian" và "dân gian bóng tối" là những cái tên được [Con Người](../M/Men.md) đặt trong nỗi sợ hãi cho [Những Tiên tộc](../I/Ilkorindi.md) Lạc lối đã sinh sống ở Hisilómë trước khi họ đến.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -28,7 +28,7 @@ Trong các phiên bản trước của *The Book of Lost Tales*, thuật ngữ "
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Thay vào đó, một văn bản trước đó nói rằng Gnomes đã "gặp rắc rối" với Dân tộc Bóng tối.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Thay vào đó, một văn bản trước đó nói rằng Gnomes đã gặp "rắc rối" với Bóng Tối Dân gian.</span>
 </li>
 </ol></div></span>
 

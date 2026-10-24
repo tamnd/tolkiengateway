@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn60.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7c/Mallorn60.jpg/320px-Mallorn60.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7c/Mallorn60.jpg/480px-Mallorn60.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7c/Mallorn60.jpg/640px-Mallorn60.jpg 2x" data-file-width="2480" data-file-height="3507"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 60</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Luke Shelton</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer 2020</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">44</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_59.md" title="Mallorn 59">Mallorn 59</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_61.md" title="Mallorn 61">Mallorn 61</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 60</b> là số thứ sáu mươi của tạp chí thường niên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa hè [2020](../_/2020.md).
+<b><i>Mallorn</i> 60</b> là số thứ sáu mươi của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa hè [2020](../_/2020.md).
 
 ## Nội dung {#Contents}
 
@@ -48,21 +48,21 @@ infobox:
     - "Rivendell"
         - Bởi: Emily Austin
 - **Biên tập**
-    - "Ánh sao trong bóng tối"
+    - "Ánh sao trong Bóng Tối"
         - Bởi: Luke Shelton
 - **Bài viết**
-    - "Càn quét Quận: Sức mạnh toàn diện và sự hàn gắn cộng đồng trong 'Chủ nghĩa Ponoptic' của Foucault và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của Tolkien"
+    - "Săn lùng Shire: Sức mạnh toàn diện và sự chữa lành cộng đồng trong 'Chủ nghĩa Ponoptic' của Foucault và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của Tolkien"
         - Bởi: Garrett Van Curen
     - "Không ở nhà: Không gian danh nghĩa và Bản sắc cá nhân ở *[The Hobbit](../T/The_Hobbit.md)* và *Coraline*"
         - Bởi: Kristen McQuinn
-    - "Tolkien vào kỳ nghỉ"
+    - "Tolkien vào ngày lễ"
         - Bởi: [Andrew Higgins](../A/Andrew_Higgins.md)
-    - "Trong ánh trăng lấp lánh"
+    - "Trong Mặt Trăng Tỏa sáng"
         - Bởi: Martin Beech
 - **Ghi chú**
     - "Danh mục nghệ thuật Tolkien"
         - Bởi: Erik Mueller-Harder
-    - "Ở đó và quay lại? Chuyến thăm ngắn ngủi của Tolkien tới Sussex năm 1904"
+    - "Ở đó và quay lại? Chuyến thăm ngắn gọn của Tolkien tới Sussex năm 1904"
         - Bởi: Mick Henry
     - "Ghi chú về 'Một bữa tiệc thần thánh: Sự thánh thiện ở *The Hobbi*t'"
         - Bởi: N.J.S. Polk
@@ -76,7 +76,7 @@ infobox:
     - *[Tolkien and the Classics](../T/Tolkien_and_the_Classics.md)*
         - Bởi: Tom Hewitt
 - **Bài gửi**
-    - Thư gửi Ban biên tập
+    - Thư gửi Biên tập viên
     - Hướng dẫn dành cho tác giả
 - **Nghệ thuật nội tâm**
     - Bởi: Tamsin Barlow, Donato Giancola, Jay Johnstone, Breana Melvin, Hannah Polk
@@ -85,4 +85,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/61/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/61/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

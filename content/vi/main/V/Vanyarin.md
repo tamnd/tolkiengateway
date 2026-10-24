@@ -17,19 +17,19 @@ categories:
   - "Vanyar"
 ---
 
-**Vanyarin**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc **Vanyarin Quenya** và đôi khi còn được gọi là **Quendya** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈkʷeɲɟa]</span>) là phương ngữ của [Quenya](../Q/Quenya.md) được nói bởi [Vanyar](Vanyar.md) ở [Valimar](Valimar.md), được phân biệt với Noldorin/[Quenya lưu vong](../E/Exilic_Quenya.md).
+**Vanyarin**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc **Vanyarin Quenya** và đôi khi còn được gọi là **Quendya** (phát âm là <span title="Pronunciation in IPA" class="IPA">[ˈkʷeɲɟa]</span>) là phương ngữ của [Quenya](../Q/Quenya.md) được nói bởi [Vanyar](Vanyar.md) ở [Valimar](Valimar.md), được phân biệt với Noldorin/[Exilic Quenya](../E/Exilic_Quenya.md).
 
 ## Lịch sử {#History}
 
-Ngôn ngữ Quenya phát triển ở [Valinor](Valinor.md), nhưng cũng có thể nhận thấy sự tách biệt giữa [Vanyar](Vanyar.md) và [Noldor](../N/Noldor.md), đặc biệt khi xét đến việc Vanyar quyết định từ bỏ [Eldamar](../E/Eldamar.md) và đến gần hơn với [Valar](Valar.md) trong khi Noldor vẫn giữ liên lạc chặt chẽ hơn với [Falmari](../F/Falmari.md) và [ngôn ngữ của họ](../T/Telerin.md).
+Ngôn ngữ Quenya phát triển trong [Valinor](Valinor.md), nhưng cũng có thể nhận thấy sự tách biệt giữa [Vanyar](Vanyar.md) và [Noldor](../N/Noldor.md), đặc biệt khi xem xét rằng Vanyar đã quyết định từ bỏ [Eldamar](../E/Eldamar.md) và đến gần hơn với [Valar](Valar.md) trong khi Noldor vẫn tiếp xúc chặt chẽ hơn với [Falmari](../F/Falmari.md) và [ngôn ngữ của chúng](../T/Telerin.md).
 
-Cách nói của người Vanyar (gần gũi nhất với Valar) có nhiều từ mượn [Valarin](Valarin.md) trong ngôn ngữ của họ.<sup id="cite_ref-P_3-0" class="reference"><a href="#cite_note-P-3">[3]</a></sup> Hơn nữa, phương ngữ của họ bảo thủ hơn phương ngữ của người Noldor có tính cách tân hơn.
+Cách nói của Vanyar (gần giống với Valar), có nhiều [Valarin](Valarin.md) từ mượn trong ngôn ngữ của họ.<sup id="cite_ref-P_3-0" class="reference"><a href="#cite_note-P-3">[3]</a></sup> Hơn nữa, phương ngữ của họ bảo thủ hơn so với phương ngữ của Noldor, những người sáng tạo hơn.
 
-Tuy nhiên, các nhà truyền thuyết Vanyarin sẽ đồng ý với những thay đổi do Noldor đưa ra để được coi là Quenya đích thực trong cộng đồng ngôn ngữ chung của họ.<sup id="cite_ref-V_4-0" class="reference"><a href="#cite_note-V-4">[4]</a></sup> Một trong những thay đổi đó là phụ âm -r trong các từ số nhiều thay vì -i mà Vanyar đã áp dụng.<sup id="cite_ref-P_3-1" class="reference"><a href="#cite_note-P-3">[3]</a></sup>
+Tuy nhiên, các nhà truyền thuyết Vanyarin sẽ đồng ý với những thay đổi do Noldor đưa ra để được coi là Quenya chân thực trong cộng đồng ngôn ngữ chung của họ.<sup id="cite_ref-V_4-0" class="reference"><a href="#cite_note-V-4">[4]</a></sup> Một trong những thay đổi đó là phụ âm -r trong các từ số nhiều thay vì -i mà Vanyar đã sử dụng.<sup id="cite_ref-P_3-1" class="reference"><a href="#cite_note-P-3">[3]</a></sup>
 
-Liên quan đến sự tiến hóa song song của hai ngôn ngữ, chúng ta được biết rằng [Fëanor](../F/Fëanor.md) coi vấn đề thay đổi âm thanh từ *þ* thành *s* bởi người dân của mình như một sự xúc phạm cá nhân đối với ký ức về mẹ anh, người được gọi là [Þerindë](../M/Míriel.md), và phản đối việc đó.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Mặt khác, Vanyar cũng phát âm âm thanh *f-* rất nhẹ nhàng, đe dọa hợp nhất nó với *hw-*, và Fëanor đùa rằng họ sẽ phát âm tên ông là *Hwëanáro*.<sup id="cite_ref-V_4-1" class="reference"><a href="#cite_note-V-4">[4]</a></sup>
+Liên quan đến sự phát triển song song của hai ngôn ngữ, chúng tôi được biết rằng [Fëanor](../F/Fëanor.md) coi vấn đề thay đổi âm thanh *þ* thành *s* của người dân của mình như một sự xúc phạm cá nhân đối với ký ức về người mẹ của ông ta, người được gọi là [Þerindë](../M/Míriel.md), và phản đối việc đó.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Mặt khác, Vanyar cũng phát âm âm thanh *f-* rất nhẹ nhàng, đe dọa hợp nhất nó với *hw-*, và Fëanor đùa rằng họ sẽ phát âm tên anh là *Hwëanáro*.<sup id="cite_ref-V_4-1" class="reference"><a href="#cite_note-V-4">[4]</a></sup>
 
-Kể từ khi người Noldor đến [Trung Địa](../M/Middle-earth.md) và ngôn ngữ của họ được biết đến trong [Sindar](../S/Sindar.md), [Silvan](../S/Silvan_Elves.md) và sau đó là [Dúnedain](../D/Dúnedain.md), Vanyarin được coi là một phương ngữ ít được biết đến, khó nắm bắt, chỉ được nói ở Valinor.
+Kể từ khi Noldor đến [Trung Địa](../M/Middle-earth.md) và ngôn ngữ của họ được biết đến trong [Sindar](../S/Sindar.md), [Silvan](../S/Silvan_Elves.md) và sau đó là [Dúnedain](../D/Dúnedain.md), Vanyarin được coi là một phương ngữ ít được biết đến, khó nắm bắt, chỉ được nói bằng Valinor.
 
 ## Biến thể {#Variations}
 
@@ -56,27 +56,27 @@ Không có nhiều thông tin về sự khác biệt giữa giọng nói của n
 
 ### Ngữ pháp {#Grammar}
 
-Không có gì được biết về sự khác biệt giữa Vanyarin và Noldorin, ngoài việc nó giữ nguyên nguyên âm dài cuối cùng trong đối cách (Eldá, ciryá, v.v.), một đặc điểm đã bị Noldor loại bỏ.
+Không có thông tin nào về sự khác biệt giữa Vanyarin so với Noldorin, ngoài việc nó giữ lại nguyên âm dài cuối cùng trong đối cách (Eldá, ciryá, v.v.), một đặc điểm bị lược bỏ bởi Noldor.
 
-Ban đầu, [Primitive Elvish](../P/Primitive_Elvish.md) hình thành số nhiều với đuôi -î. Người Noldor đã phát minh ra đuôi -r cho những từ kết thúc bằng nguyên âm (Valai > Valar) mà người Vanyar đã áp dụng. Trong tính từ, -i đã được đồng hóa trong Noldorin (vanima > vanimë) nhưng không biết liệu người Vanyar có tuân theo điều này hay không.
+Ban đầu, [Primitive Elvish](../P/Primitive_Elvish.md) hình thành số nhiều với đuôi -î. Noldor đã phát minh ra đuôi -r cho các từ kết thúc bằng nguyên âm (Valai > Valar) mà Vanyar đã sử dụng. Trong tính từ, -i được đồng hóa thành Noldorin (vanima > vanimë) nhưng không biết liệu Vanyar có tuân theo điều này hay không.
 
 ### Từ vựng {#Vocabulary}
 
-Quenya mượn một số từ từ Valarin, chẳng hạn như tên của các Valar và tên *[Máhanaxar](../M/Máhanaxar.md)* và *[Ezellohar](../E/Ezellohar.md)*. Người Vanyar có phong tục này thường xuyên hơn ngay cả trong những từ đơn giản. Một số trong số đó là các từ màu <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ulban&amp;action=edit&amp;redlink=1" title="Ulban (page does not exist)">ulban</a></i> (Q. *[luin](../L/Luin.md)*), <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ezello&amp;action=edit&amp;redlink=1" title="Ezello (page does not exist)">ezello</a></i> (Q. <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laiqua&amp;action=edit&amp;redlink=1" title="Laiqua (page does not exist)">laiqua</a></i>), <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nasar&amp;action=edit&amp;redlink=1" title="Nasar (page does not exist)">nasar</a></i> (Q. *[carnë](../C/Carnë.md)*) và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tulka&amp;action=edit&amp;redlink=1" title="Tulka (page does not exist)">tulka</a></i> (Q. <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Malina&amp;action=edit&amp;redlink=1" title="Malina (page does not exist)">malina</a></i>).
+Quenya mượn một số từ của Valarin, như tên của Valar và tên *[Máhanaxar](../M/Máhanaxar.md)* và *[Ezellohar](../E/Ezellohar.md)*. Vanyar có tùy chỉnh này thường xuyên hơn ngay cả trong những từ đơn giản. Một số trong số đó là các từ màu <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ulban&amp;action=edit&amp;redlink=1" title="Ulban (page does not exist)">ulban</a></i> (Q. *[luin](../L/Luin.md)*), <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ezello&amp;action=edit&amp;redlink=1" title="Ezello (page does not exist)">ezello</a></i> (Q. <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laiqua&amp;action=edit&amp;redlink=1" title="Laiqua (page does not exist)">laiqua</a></i>), <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nasar&amp;action=edit&amp;redlink=1" title="Nasar (page does not exist)">nasar</a></i> (Q. *[carnë](../C/Carnë.md)*) và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tulka&amp;action=edit&amp;redlink=1" title="Tulka (page does not exist)">tulka</a></i> (Q. <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Malina&amp;action=edit&amp;redlink=1" title="Malina (page does not exist)">malina</a></i>).
 
-Một số từ Quenya được biết đến khác được cho là chịu ảnh hưởng từ [Sindarin](../S/Sindarin.md) vốn chỉ xảy ra với những người Noldorin lưu vong. Ví dụ *[orco](../O/Orcs.md)* bắt nguồn từ *[urco](../O/Orcs.md)*, nhưng sau ảnh hưởng từ Sindarin *[orch](../O/Orch.md)*. Những từ như vậy nên được loại trừ khỏi từ vựng Vanyarin.
+Một số từ Quenya đã biết khác được cho là chịu ảnh hưởng từ [Sindarin](../S/Sindarin.md) vốn chỉ xảy ra với những người lưu vong Noldorin. Ví dụ *[orco](../O/Orcs.md)* xuất phát từ *[urco](../O/Orcs.md)*, nhưng sau ảnh hưởng từ Sindarin *[orch](../O/Orch.md)*. Những từ như vậy nên được loại trừ khỏi từ vựng Vanyarin.
 
 ## Từ nguyên {#Etymology}
 
-*Quendya* là tên cổ của từ Quenya mà Tolkien nói vẫn được sử dụng ở Vanyar, do đó họ gọi ngôn ngữ của họ như vậy. Mặc dù nó vẫn bao gồm các phương ngữ của Noldor và Teleri.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+*Quendya* là tên cổ của từ Quenya mà Tolkien nói vẫn được sử dụng trong Vanyar, do đó họ sẽ gọi ngôn ngữ của họ như vậy. Mặc dù nó vẫn bao gồm các phương ngữ của Noldor và Teleri.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, Yêu tinh đầu tiên được gọi là [Lindar](../L/Lindar.md) và ngôn ngữ của họ được gọi là [Qenya](../Q/Qenya.md). Những Yêu tinh khác nói [Old Noldorin](../O/Old_Noldorin.md) (thay cho Quenya) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Solosimpin&amp;action=edit&amp;redlink=1" title="Solosimpin (page does not exist)">Solosimpin</a> (thay vì Telerin).
+Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, Tiên tộc đầu tiên được gọi là [Lindar](../L/Lindar.md) và ngôn ngữ của chúng được gọi là [Qenya](../Q/Qenya.md). Người Tiên tộc còn lại nói [Old Noldorin](../O/Old_Noldorin.md) (thay vì Quenya) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Solosimpin&amp;action=edit&amp;redlink=1" title="Solosimpin (page does not exist)">Solosimpin</a> (thay vì Telerin).
 
 ## Xem thêm {#See_also}
 
-- [Quenya lưu vong](../E/Exilic_Quenya.md)
+- [Người lưu đày Quenya](../E/Exilic_Quenya.md)
 
 ## Liên kết ngoài {#External_links}
 

@@ -65,33 +65,33 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/A_Reader&#39;s_Companion_2005_hardcover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b5/A_Reader%27s_Companion_2005_hardcover.jpg/304px-A_Reader%27s_Companion_2005_hardcover.jpg" decoding="async" loading="lazy" width="304" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b5/A_Reader%27s_Companion_2005_hardcover.jpg 1.5x" data-file-width="317" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: A Reader&#39;s Companion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../W/Wayne_G._Hammond.md" title="Wayne G. Hammond">Wayne G. Hammond</a>, <a href="../C/Christina_Scull.md" title="Christina Scull">Christina Scull</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> (cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/27_December.md" title="27 December">27 December</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">976</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/000720308X" title="Special:BookSources/000720308X">000720308X</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_and_the_Great_War.md" title="Tolkien and the Great War">Tolkien and the Great War</a> (2003)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_J.R.R._Tolkien_Companion_and_Guide.md" title="The J.R.R. Tolkien Companion and Guide">The J.R.R. Tolkien Companion and Guide</a> (2006)</td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn: Người bạn đồng hành của độc giả</b></i> là một cuốn sách nổi tiếng được xuất bản trong [2005](../_/2005.md), bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md). Nó là một tham chiếu có chú thích tới *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của J.R.R. Tolkien.
+<i><b>The Lord of the Rings: Người bạn đồng hành của độc giả</b></i> là một cuốn sách nổi tiếng được xuất bản trong [2005](../_/2005.md), bởi [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md). Nó là một tham chiếu có chú thích tới *[The Lord of the Rings](The_Lord_of_the_Rings.md)* của J.R.R. Tolkien.
 
-Cuốn sách xem xét *The Lord of the Rings* từng chương, đưa ra những hiểu biết sâu sắc về sự phát triển, cấu trúc và ý nghĩa của nó. Nó thảo luận về những ảnh hưởng quan trọng đến sự phát triển của nó, mối liên hệ giữa tác phẩm đó và các tác phẩm khác của Tolkien, những sai sót và mâu thuẫn, những thay đổi đáng kể đối với văn bản cũng như những từ cổ xưa và bất thường được Tolkien sử dụng.
+Cuốn sách xem xét *The Lord of the Rings* từng chương, đưa ra những hiểu biết sâu sắc về sự phát triển, cấu trúc và ý nghĩa của nó. Nó thảo luận về những ảnh hưởng quan trọng đến sự phát triển của nó, mối liên hệ giữa tác phẩm đó và các tác phẩm khác của Tolkien, những sai sót và mâu thuẫn, những thay đổi đáng kể đối với văn bản cũng như những từ cổ xưa và bất thường được sử dụng bởi Tolkien.
 
-Nó chứa nhiều tác phẩm quý hiếm hoặc trước đây chưa được xuất bản của Tolkien, bao gồm các đoạn trích từ "[Niên đại](The_Chronology_of_The_Lord_of_the_Rings.md)", một mục lục chưa hoàn chỉnh và "[Danh pháp](../N/Nomenclature.md)" quan trọng dành cho người dịch sử dụng, xuất hiện lần đầu vào năm 1975 và hiện mới được phiên âm.
+Nó chứa nhiều bài viết hiếm hoặc chưa được xuất bản trước đây của Tolkien, bao gồm các đoạn trích từ "[Niên đại](The_Chronology_of_The_Lord_of_the_Rings.md)", một mục lục chưa hoàn chỉnh và "[Danh pháp](../N/Nomenclature.md)" quan trọng dành cho người dịch sử dụng, xuất hiện lần đầu vào năm 1975 và hiện mới được phiên âm.
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
-- Sơ lược lịch sử Chúa tể của những chiếc nhẫn
+- Tóm tắt lịch sử của The Lord of the Rings
 - Niên đại, Lịch và Mặt trăng
-- Sơ tuyển
-- Bản đồ Chúa tể của những chiếc nhẫn
+- Sơ bộ
+- Bản đồ The Lord of the Rings
 - Lời nói đầu cho lần xuất bản thứ hai
 
 - **Mở đầu**
 
-- **Hiệp hội nhẫn**
+- **The Fellowship of the Ring**
 
-- **Hai tòa tháp**
+- **The Two Towers**
 
-- **Sự trở lại của nhà vua**
+- **The Return of the King**
 
 - **Phụ lục**
 
-- Trích từ một bức thư của J.R.R. Tolkien gửi Milton Waldman, ?Cuối năm 1951
-- Danh pháp Chúa tể của những chiếc nhẫn, bởi J.R.R. Tolkien
+- Trích thư của J.R.R. Tolkien gửi Milton Waldman, ?Cuối năm 1951
+- Danh pháp của The Lord of the Rings, bởi J.R.R. Tolkien
 - Những thay đổi đối với Phiên bản 2004-5
 
 - Danh sách công trình đã tư vấn
@@ -99,23 +99,23 @@ Nó chứa nhiều tác phẩm quý hiếm hoặc trước đây chưa được 
 
 ## Bài viết hiếm hoặc mới {#Rare_or_new_writings}
 
-- "[Danh pháp Chúa tể của những chiếc nhẫn](../N/Nomenclature_of_The_Lord_of_the_Rings.md) mới được phiên âm", ban đầu được xuất bản dưới dạng "Hướng dẫn về những cái tên trong Chúa tể của những chiếc nhẫn" vào năm *[A Tolkien Compass](../A/A_Tolkien_Compass.md)* năm 1975.
+- "[Danh pháp The Lord of the Rings](../N/Nomenclature_of_The_Lord_of_the_Rings.md)" mới được phiên âm, ban đầu được xuất bản dưới dạng "Hướng dẫn về tên trong The Lord of the Rings" trong *[A Tolkien Compass](../A/A_Tolkien_Compass.md)* năm 1975.
 
 - Một phần (được bỏ qua trong *Letters*) trong bức thư quan trọng của Tolkien gửi nhà xuất bản Milton Waldman, có lẽ được viết vào cuối năm 1951, trong đó mô tả *The Lord of the Rings* là một phần của thần thoại lớn hơn của ông.
 
-- Danh mục thuật ngữ Tolkien bắt đầu chuẩn bị cho *The Lord of the Rings* có lẽ vào năm 1953 nhưng chưa bao giờ hoàn thành, nó chỉ bao gồm các địa danh.
+- Chỉ mục thuật ngữ Tolkien bắt đầu chuẩn bị cho *The Lord of the Rings* có lẽ vào năm 1953 nhưng chưa bao giờ hoàn thành, nó chỉ bao gồm các địa danh.
 
 - Trích dẫn từ bản sao kiểm tra *The Lord of the Rings* của Tolkien.
 
-- Một loạt sơ đồ thời gian mà Tolkien sử dụng để theo dõi vị trí và hành động của các nhân vật.
+- Một loạt sơ đồ thời gian Tolkien được sử dụng để theo dõi vị trí và hành động của các nhân vật.
 
 - Nội dung cốt truyện và sơ đồ thời gian bao gồm "[Cuộc săn lùng chiếc nhẫn](The_Hunt_for_the_Ring.md)" (một số trong đó được xuất bản trên *Unfinished Tales*).
 
 ## Lễ tân {#Reception}
 
-[David Bratman](../D/David_Bratman.md), khi đánh giá tác phẩm cho *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*, đã mô tả nó là "đơn giản là... một *Annotated Lord of the Rings* vì lý do khoảng trống đã lược bỏ nội dung của tác phẩm đang được thảo luận", trái ngược với *[The Annotated Hobbit](The_Annotated_Hobbit.md)* của [Douglas A. Anderson](../D/Douglas_A._Anderson.md). Ông lưu ý rằng việc bỏ sót khiến việc nhập các ghi chú vào văn bản trở nên khó khăn: số trang được đưa ra cho ấn bản ba tập Allen và Unwin 1954-1955, và ấn bản một tập năm 2004 của HarperCollins/Houghton Mifflin. Vì nhiều độc giả không có những thứ đó nên nó cũng cung cấp những từ đầu tiên của mỗi đoạn được trích dẫn, mà theo quan điểm của ông thì ít nhất là có thể thực hiện được. Là một ấn bản có chú thích, nó thành công một cách "đáng ngưỡng mộ", Bratman viết, trong việc ghi lại nhiều từ và cụm từ "xứng đáng với những bình luận cụ thể có liên quan" và trong việc cung cấp cho một học giả có khả năng thực hiện nhiệm vụ đó một cách công bằng. Ông lưu ý rằng ở độ dài 900 trang "loại nhỏ", nó có độ dài tương tự như văn bản, trong khi các nhận xét bao gồm từ những chú thích ngắn gọn đến "một bài luận dài 5 trang" về Lady Galadriel, mà ông gọi "bản thân nó là một bài luận chính về chủ đề này".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[David Bratman](../D/David_Bratman.md), khi đánh giá tác phẩm cho *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*, đã mô tả nó là "đơn giản là... một *Annotated Lord of the Rings* vì lý do khoảng trống đã lược bỏ nội dung của tác phẩm đang được thảo luận", trái ngược với *[The Annotated Hobbit](The_Annotated_Hobbit.md)* của [Douglas A. Anderson](../D/Douglas_A._Anderson.md). Ông lưu ý rằng sự thiếu sót này làm cho việc nhập các ghi chú vào văn bản trở nên khó khăn: số trang được đưa ra cho ấn bản ba tập Allen và Unwin 1954-1955, và ấn bản HarperCollins/Houghton Mifflin một tập năm 2004. Vì nhiều độc giả không có những thứ đó nên nó cũng cung cấp những từ đầu tiên của mỗi đoạn được trích dẫn, mà theo quan điểm của ông thì ít nhất là có thể thực hiện được. Là một ấn bản có chú thích, nó thành công một cách "đáng ngưỡng mộ", Bratman viết, trong việc ghi lại nhiều từ và cụm từ "xứng đáng với những bình luận cụ thể có liên quan" và trong việc cung cấp cho một học giả có khả năng thực hiện nhiệm vụ đó một cách công bằng. Ông lưu ý rằng ở độ dài 900 trang "loại nhỏ", nó có độ dài tương tự như văn bản, trong khi các nhận xét bao gồm từ những chú thích ngắn gọn đến "một bài luận dài 5 trang" về Tiên-quý bà Galadriel, mà ông gọi "bản thân nó là một bài luận chính về chủ đề này".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Laura Schmidt, khi đánh giá cuốn sách cho *VII*, viết rằng nhóm học bổng vợ chồng của Hammond và Scull cung cấp thông tin nội bộ về cách *The Lord of the Rings* được xây dựng qua nhiều giai đoạn và hỗ trợ những đoạn văn khó. Họ lưu ý rằng mặc dù có nhiều tài liệu tham khảo khác về Tolkien, nhưng việc có tất cả thông tin trong một tập hợp lý là điều "đáng chú ý" và nó bổ sung tốt cho bộ 12 tập *History of Middle-earth* của Christopher Tolkien và ấn bản kỷ niệm 50 năm của *The Lord of the Rings*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Laura Schmidt, khi đánh giá cuốn sách cho *VII*, viết rằng nhóm học bổng vợ chồng của Hammond và Scull cung cấp thông tin nội bộ về cách *The Lord of the Rings* được xây dựng qua nhiều giai đoạn và hỗ trợ những đoạn văn khó. Họ lưu ý rằng mặc dù có nhiều tài liệu tham khảo Tolkien khác, việc có tất cả thông tin trong một tập hợp lý là điều "đáng chú ý" và nó bổ sung tốt cho 12 tập *History of Middle-earth* của Christopher Tolkien và ấn bản kỷ niệm 50 năm của *The Lord of the Rings*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
 
@@ -151,7 +151,7 @@ Laura Schmidt, khi đánh giá cuốn sách cho *VII*, viết rằng nhóm học
 </ul>
 
 - Ấn bản đầu tiên
-    - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2005](../_/2005.md)), trang 976. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000720308X">ISBN 000720308X</a>
+    - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2005](../_/2005.md)), trang 976. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000720308X">ISBN 000720308X</a>
     - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2005](../_/2005.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000720907X">ISBN 000720907X</a>
 
 - Phiên bản sửa đổi lần thứ nhất
@@ -162,7 +162,7 @@ Laura Schmidt, khi đánh giá cuốn sách cho *VII*, viết rằng nhóm học
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/article/197446" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của [David Bratman](../D/David_Bratman.md), từ [Tolkien Studies vol. 3](Tolkien_Studies%253A_Volume_3.md)
+- <a class="external text" href="https://muse.jhu.edu/article/197446" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của [David Bratman](../D/David_Bratman.md), từ [Tolkien Nghiên cứu tập. 3](Tolkien_Studies%253A_Volume_3.md)
 
 - <a class="external text" href="http://www.hammondandscull.com/addenda/readers.html" rel="noreferrer noopener" target="_blank">Phụ lục và bản sửa đổi cho lần xuất bản đầu tiên (2005)</a>
 - <a class="external text" href="http://www.hammondandscull.com/addenda/readers2.html" rel="noreferrer noopener" target="_blank">Phụ lục và bản sửa đổi cho phiên bản sửa đổi đầu tiên năm 2008)</a>

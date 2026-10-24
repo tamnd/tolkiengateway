@@ -19,7 +19,7 @@ langlinks:
 
 **Một Tổng** là số đo bằng 144 của một thứ gì đó (một chục chục).
 
-Một tổng là số người được mời đến [Tiệc sinh nhật của Bilbo](../B/Bilbo's_Farewell_Party.md) để phù hợp với tổng số tuổi của ông và [Frodo](../F/Frodo_Baggins.md) (111 và 33). Tuy nhiên, khi [Bilbo Baggins](../B/Bilbo_Baggins.md) gọi họ như vậy, nhiều người đã bị xúc phạm vì thuật ngữ "thô thiển" không được sử dụng đúng cách đối với con người.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Một tổng là số người được mời đến dự tiệc sinh nhật của [Bilbo](../B/Bilbo's_Farewell_Party.md) để phù hợp với tổng số tuổi của ông và [Frodo](../F/Frodo_Baggins.md)(111 và 33). Tuy nhiên, khi [Bilbo Baggins](../B/Bilbo_Baggins.md) gọi họ như vậy, nhiều người đã bị xúc phạm vì từ "thô thiển" được sử dụng không đúng cách đối với con người.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

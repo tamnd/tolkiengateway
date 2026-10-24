@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 22 tháng 6
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1911](1911.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và một số học viên khác của Quân đoàn Huấn luyện Sĩ quan của [Trường King Edward](../K/King_Edward's_School.md) xếp hàng tại Lễ đăng quang của <a class="extiw" href="http://en.wikipedia.org/wiki/George_V_of_the_United_Kingdom" title="wikipedia:George V of the United Kingdom">George V</a>. Tolkien đứng gần Cung điện Buckingham.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **[1911](1911.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và một số học viên khác của Quân đoàn Huấn luyện Sĩ quan của [King Edward's School](../K/King_Edward's_School.md) xếp hàng tại Lễ đăng quang của <a class="extiw" href="http://en.wikipedia.org/wiki/George_V_of_the_United_Kingdom" title="wikipedia:George V of the United Kingdom">George V</a>. Tolkien đứng gần Cung điện Buckingham.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **[1920](1920.md)** - Diễn viên lồng tiếng [Paul Frees](../P/Paul_Frees.md) ra đời.
 - **[1932](1932.md)** - Nữ diễn viên [Cân Prunella](../P/Prunella_Scales.md) ra đời.
 - **[1952](1952.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 133](../L/Letter_133.md).
@@ -77,7 +77,7 @@ Sự kiện xảy ra vào ngày 22 tháng 6
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2942](../T/Third_Age_2942.md):
-    - [Bilbo](../B/Bilbo_Baggins.md) quay trở lại [Bag End](../B/Bag_End.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và được biết mình đã được tuyên bố là đã chết.
+    - [Bilbo](../B/Bilbo_Baggins.md) quay lại [Bag End](../B/Bag_End.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và được biết mình đã được tuyên bố là đã chết.
 
 <span></span>
 

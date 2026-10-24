@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finduilas"
 ---
 
-Chuyển hướng tới [Finduilas](Finduilas.md).
+Chuyển hướng đến [Finduilas](Finduilas.md).

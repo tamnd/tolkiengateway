@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Assaults on Hithlum"
 ---
 
-Chuyển hướng đến [Tấn công Hithlum](../A/Assaults_on_Hithlum.md).
+Chuyển hướng đến [Tấn công vào Hithlum](../A/Assaults_on_Hithlum.md).

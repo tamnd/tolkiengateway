@@ -62,21 +62,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Fengel.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/25/The_Lord_of_the_Rings_Online_-_Fengel.jpg/235px-The_Lord_of_the_Rings_Online_-_Fengel.jpg" decoding="async" loading="lazy" width="235" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/25/The_Lord_of_the_Rings_Online_-_Fengel.jpg/352px-The_Lord_of_the_Rings_Online_-_Fengel.jpg 1.5x, https://tolkiengateway.net/w/images/2/25/The_Lord_of_the_Rings_Online_-_Fengel.jpg 2x" data-file-width="470" data-file-height="960"/></a><figcaption>Fengel in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../R/Rohirrim.md" title="Rohirrim">Rohir</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Fengel</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="../K/King_of_Rohan.md" title="King of Rohan">King of Rohan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rohan.md" title="Rohan">Rohan</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../R/Rohanese.md" title="Rohanese">Rohanese</a> and <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2870.md" title="Third Age 2870">2870</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2903.md" title="Third Age 2903">2903</a> - <a href="../T/Third_Age_2953.md" title="Third Age 2953">2953</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2953.md" title="Third Age 2953">2953</a> (aged 83)<br/></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">fifteenth king of <a href="../R/Rohan.md" title="Rohan">Rohan</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Eorl.md" title="House of Eorl">House of Eorl</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Folcwine.md" title="Folcwine">Folcwine</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a class="mw-redirect" href="Folcred.md" title="Folcred">Folcred</a>, <a class="mw-redirect" href="Fastred_(son_of_Folcwine).md" title="Fastred (son of Folcwine)">Fastred</a>, unnamed sister</td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data">Two unnamed daughters,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> <a href="../T/Thengel.md" title="Thengel">Thengel</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Fengel.md" title="Category:Images of Fengel">Images of Fengel</a></td></tr></tbody></table>
 
-**Fengel** ([T.A.](../T/Third_Age.md) [2870](../T/Third_Age_2870.md) - [2953](../T/Third_Age_2953.md)) là [Vua của Rohan](../K/King_of_Rohan.md) thứ mười lăm.
+**Fengel** ([T.A.](../T/Third_Age.md) [2870](../T/Third_Age_2870.md) - [2953](../T/Third_Age_2953.md)) là [Vua Rohan](../K/King_of_Rohan.md) thứ mười lăm.
 
 ## Lịch sử {#History}
 
 Fengel là con trai thứ ba và duy nhất còn sống của [Folcwine](Folcwine.md), và trở thành vua sau cái chết của cha mình vào năm [T.A.](../T/Third_Age.md) [2903](../T/Third_Age_2903.md).
 
-Hai anh trai của Fengel, [Folcred](Folcred.md) và [Fastred](<Fastred_(son_of_Folcwine).md>), đã bị giết ở thái ấp [Nam Gondor](../S/South_Gondor.md) khi đang chiến đấu cho [Gondor](../G/Gondor.md), và kết quả là Fengel lớn lên khá hư hỏng. Khi trưởng thành, ông ta nổi tiếng vì lòng tham và tình yêu vàng.
+Hai anh trai của Fengel, [Folcred](Folcred.md) và [Fastred](<Fastred_(son_of_Folcwine).md>), đã bị giết trong thái ấp [South Gondor](../S/South_Gondor.md) khi chiến đấu vì [Gondor](../G/Gondor.md), và kết quả là Fengel lớn lên khá hư hỏng. Khi trưởng thành, ông ta nổi tiếng vì lòng tham và tình yêu vàng.
 
-Con trai ông [Thengel](../T/Thengel.md) rời Rohan vì bất đồng với cha mình, thay vào đó sống với gia đình [vợ](../M/Morwen_Steelsheen.md) ở [Gondor](../G/Gondor.md).
+Con trai ông [Thengel](../T/Thengel.md) bỏ đi Rohan vì bất đồng với cha, thay vào đó sống với gia đình [vợ](../M/Morwen_Steelsheen.md) ở [Gondor](../G/Gondor.md).
 
 Sau hơn 50 năm cai trị, Fengel qua đời vào năm [T.A.](../T/Third_Age.md) [2953](../T/Third_Age_2953.md), và Thengel miễn cưỡng quay trở lại Rohan.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Fengel* có nghĩa là "hoàng tử" trong [Tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Từ này xuất hiện ở ba vị trí trong *Beowulf.* Từ này có nguồn gốc từ gốc tiếng Đức có nghĩa là "nắm bắt".
+*Fengel* có nghĩa là "hoàng tử" trong [tiếng Anh cổ](../O/Old_English.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Từ này xuất hiện ở ba vị trí trong *Beowulf.* Từ này có nguồn gốc từ tiếng Đức có nghĩa là "nắm bắt".
 
 ## Phả hệ {#Genealogy}
 
@@ -94,14 +94,14 @@ Sau hơn 50 năm cai trị, Fengel qua đời vào năm [T.A.](../T/Third_Age.md
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>In the last winter of his reign, King Fengel was hunting north of the <a href="../E/Entwade.md" title="Entwade">Entwade</a> when an elderly woman named Wyrgende stumbled into his camp. Fengel sent her away into the dark night and the next day she was found frozen to death at the foot of a tall boulder, in which she had carved a curse against him. King Fengel was furious and ordered Wyrgende&#39;s body burned and the stone destroyed, but no man of his company could more her, and every hammer and mattock they set to the stone shattered on contact. Fengel himself assailed the stone with his sword until the blade shattered, and a shard pierced his thigh. The wound festered, and King Fengel died of poisoned blood on the first day of Spring.</dd></dl>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Dưới thời Fengel trong <a href="../A/Appendix_A.md" title="Appendix A">Phụ lục A</a> có ghi: "Thengel, đứa con thứ ba và là con trai duy nhất của ông, rời Rohan khi trưởng thành và sống lâu dài ở Gondor, đồng thời giành được vinh dự khi phục vụ Turgon."</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Dưới thời Fengel ở <a href="../A/Appendix_A.md" title="Appendix A">Appendix A</a> có ghi: "Thengel, đứa con thứ ba và là con trai duy nhất của ông, đã rời đi Rohan khi trưởng thành và sống lâu ở Gondor, đồng thời giành được vinh dự khi phục vụ Turgon."</span>
 </li>
 </ol></div></span>
 

@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stuart_D._Lee.png.md"><img src="https://tolkiengateway.net/w/images/0/0c/Stuart_D._Lee.png" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" data-file-width="320" data-file-height="480"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Stuart D. Lee</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/3_February.md" title="3 February">3 February</a> <a href="../_/1966.md" title="1966">1966</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Oxford, England</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Stuart_D._Lee.md" title="Category:Images of Stuart D. Lee">Images of Stuart D. Lee</a></td></tr></tbody></table>
 
-**Stuart D. Lee** là thành viên Khoa Tiếng Anh và Cao đẳng Merton, đồng thời là Phó <a class="extiw" href="http://en.wikipedia.org/wiki/Chief_information_officer" title="wikipedia:Chief information officer">CIO</a> tại [Đại học Oxford](../U/University_of_Oxford.md). Nghiên cứu và giảng dạy của ông tập trung vào tiếng Anh cổ, văn học Thế chiến thứ nhất và tiểu thuyết [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Stuart D. Lee** là thành viên của Khoa Tiếng Anh và Cao đẳng Merton, đồng thời là Phó <a class="extiw" href="http://en.wikipedia.org/wiki/Chief_information_officer" title="wikipedia:Chief information officer">CIO</a> tại [Đại học Oxford](../U/University_of_Oxford.md). Nghiên cứu và giảng dạy của ông tập trung vào tiếng Anh cổ, văn học về Thế chiến thứ nhất và tiểu thuyết [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -46,12 +46,12 @@ infobox:
 
 ### Bài viết {#Articles}
 
-- [2009](../_/2009.md): <i><a href="../T/Tolkien_Studies%253A_Volume_6.md" title="Tolkien Studies: Volume 6"><i>Nghiên cứu về Tolkien</i>: Tập 6</a></i>
+- [2009](../_/2009.md): <i><a href="../T/Tolkien_Studies%253A_Volume_6.md" title="Tolkien Studies: Volume 6"><i>Tolkien Nghiên cứu</i>: Tập 6</a></i>
     - "J.R.R. Tolkien và Kẻ lang thang: Từ phiên bản đến ứng dụng"
-- [2018](../_/2018.md): <i><a href="../T/Tolkien_Studies%253A_Volume_15.md" title="Tolkien Studies: Volume 15"><i>Nghiên cứu Tolkien</i>: Tập 15</a></i>
-    - "Tolkien ở Oxford' (BBC, 1968): Một sự tái thiết"
+- [2018](../_/2018.md): <i><a href="../T/Tolkien_Studies%253A_Volume_15.md" title="Tolkien Studies: Volume 15"><i>Tolkien Nghiên cứu</i>: Tập 15</a></i>
+    - "Tolkien trong Oxford' (BBC, 1968): Một cuộc tái thiết"
 - [2022](../_/2022.md): *[The Great Tales Never End](../T/The_Great_Tales_Never_End.md)*
-    - "Một cột mốc quan trọng trong lịch sử BBC? Vở kịch Chúa tể những chiếc nhẫn trên đài phát thanh năm 1955-56"
+    - "Một cột mốc quan trọng trong lịch sử BBC? Vở kịch trên đài phát thanh 1955-56 của The Lord of the Rings"
 - [2026](../_/2026.md): *[J.R.R. Tolkien and G.B. Smith: With Wind in our Ears](../J/J.R.R._Tolkien_and_G.B._Smith%253A_With_Wind_in_our_Ears.md)*
     - "G. B. Smith và J. R. R. Tolkien: Hai nhà thơ thời Thế chiến thứ nhất"
 - ???: *Festschrift* (sắp ra mắt)

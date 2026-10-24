@@ -39,17 +39,17 @@ infobox:
 <p class="tg-quote-footer"><cite>Aftermath of the <a href="Battle_of_Bywater.md" title="Battle of Bywater">Battle of Bywater</a><sup id="cite_ref-scouring_1-0" class="reference"><a href="#cite_note-scouring-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Hố chiến** là "một hố cát cũ" gần thị trấn [Bywater](Bywater.md) ở [Shire](../T/The_Shire.md) được dùng làm nơi chôn cất những [những kẻ lưu manh](../R/Ruffians.md) bị giết trong [Trận chiến Bywater](Battle_of_Bywater.md).<sup id="cite_ref-scouring_1-1" class="reference"><a href="#cite_note-scouring-1">[1]</a></sup>
+**Hố chiến đấu** là "một hố cát cũ" gần thị trấn [Bywater](Bywater.md) ở [ Shire](../T/The_Shire.md) được sử dụng làm nơi chôn cất những [Ruffians](../R/Ruffians.md) bị giết trong [Trận Bywater](Battle_of_Bywater.md).<sup id="cite_ref-scouring_1-1" class="reference"><a href="#cite_note-scouring-1">[1]</a></sup>
 
 Trong *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)*, [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) suy đoán rằng Hố Chiến đấu nằm cách thị trấn một đoạn ngắn về phía đông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Vào [ngày 3 tháng 11](../_/3_November.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), 100 [Bọn lưu manh](../R/Ruffians.md) đã chiến đấu chống lại 300 [Người Hobbit](../H/Hobbits.md) trên [Đường Bywater](Bywater_Road.md). Bọn côn đồ đã ngu ngốc bước vào một cái bẫy ở đoạn đường có bờ bao, nơi mà người Hobbit đã dựng rào chắn ở hai đầu. Trong cuộc chiến sau đó, gần bảy mươi [Người đàn ông](../M/Men.md) đã chết. Những người Hobbit chiến thắng chất xác kẻ thù của họ lên xe ngựa và kéo đến một hố cát cũ gần đó để chôn cất, sau này được gọi là Hố Chiến đấu. Mười chín người Hobbit cũng chết trong trận chiến nhưng họ được chôn cất riêng biệt, một cách danh dự tại một ngôi mộ bên sườn đồi phía trên Battle Pit. Một thời gian sau, "một hòn đá lớn" được đặt trên ngôi mộ trên sườn đồi và một khu vườn mọc lên xung quanh nó.<sup id="cite_ref-scouring_1-2" class="reference"><a href="#cite_note-scouring-1">[1]</a></sup>
+Vào [3 tháng 11](../_/3_November.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), 100 [Ruffians](../R/Ruffians.md) đã chiến đấu với 300 [Hobbit](../H/Hobbits.md) trên Đường [Bywater](Bywater_Road.md). Ruffians đã ngu ngốc bước vào một cái bẫy trong phần bờ sông mà Hobbit đã bảo vệ bằng rào chắn ở hai đầu. Trong cuộc chiến sau đó, gần 70 người trong số [Con Người](../M/Men.md) đã chết. Những Hobbit chiến thắng chất xác kẻ thù của họ lên xe ngựa và kéo họ đến một hố cát cũ gần đó để chôn cất, sau này được gọi là Hố Chiến đấu. Mười chín Hobbit cũng chết trong trận chiến nhưng họ được chôn cất riêng biệt, danh dự tại một ngôi mộ bên sườn đồi phía trên Battle Pit. Một thời gian sau, "một hòn đá lớn" được đặt trên ngôi mộ trên sườn đồi và một khu vườn mọc lên xung quanh nó.<sup id="cite_ref-scouring_1-2" class="reference"><a href="#cite_note-scouring-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo đầu tiên của chương "[Cuộc thanh trừng quận](../T/The_Scouring_of_the_Shire.md)", nơi chôn cất của bọn côn đồ ban đầu là "một hố sỏi cũ" mà sau này người Hobbit đặt tên là **Hố chiến**. Trong đợt dự thảo này, không có thương vong về người Hobbit.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong bản thảo đầu tiên của chương "[Cuộc thanh trừng Shire](../T/The_Scouring_of_the_Shire.md)", nơi chôn cất Ruffians ban đầu là "một hố sỏi cũ" mà Hobbit sau này đặt tên là **Hố chiến**. Trong đợt dự thảo này, không có Hobbit thương vong.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

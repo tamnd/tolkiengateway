@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rings of Power (disambiguation)"
 ---
 
-Chuyển hướng đến [Rings of Power (định hướng)](<../R/Rings_of_Power_(disambiguation).md>).
+Chuyển hướng đến [Những Chiếc Nhẫn Quyền Năng (định hướng)](<../R/Rings_of_Power_(disambiguation).md>).

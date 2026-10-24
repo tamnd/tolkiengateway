@@ -19,7 +19,7 @@ sort_keys:
 Vào [2 tháng 1](../_/2_January.md) [1929](../_/1929.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [E.V. Gordon](../E/E.V._Gordon.md)**.
 
 - **Xuất bản:** Không có
-- **Mô tả:** Tolkien viết thư cho E.V. Gordon, đề cập đến kế hoạch của Gordon để bắt đầu một bộ sưu tập tiếng Iceland tại Đại học Leeds và kèm theo các bài hát.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- **Mô tả:** Tolkien viết cho E.V. Gordon, đề cập đến kế hoạch của Gordon để bắt đầu một bộ sưu tập tiếng Iceland tại Đại học Leeds và kèm theo các bài hát.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

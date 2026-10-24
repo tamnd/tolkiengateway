@@ -17,23 +17,23 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/b/b4/CdxIconBold-f.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article displays one of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../category/W/Writing_systems.md" title="Category:Writing systems">writing systems</a>. For optimal viewing, install the following font: <b><a class="external text" href="http://www.tolkiendil.com/telechargements/polices/angerthas_et_runes#cirth_erebor" rel="noreferrer noopener" target="_blank">Cirth Erebor</a> by <a href="../D/Dan_Smith.md" title="Dan Smith">Dan Smith</a></b>.
 </div></div>
 
-**Angerthas Erebor** là một phiên bản của [Runes](../R/Runes.md) được sử dụng trong [Thời đại thứ ba](../T/Third_Age.md).
+**Angerthas Erebor** là phiên bản của [Runes](../R/Runes.md) được sử dụng trong [Kỷ Đệ Tam](../T/Third_Age.md).
 
 ## Lịch sử {#History}
 
-Sau [Kỷ nguyên thứ hai](../S/Second_Age.md), Cirth đã bị [Tengwar](../T/Tengwar.md) biến thành lỗi thời trong số các chủng tộc phương Tây và Cirth chỉ còn được sử dụng bởi [Người lùn](../D/Dwarves.md) và [Đàn ông](../M/Men.md). [Rohirrim](../R/Rohirrim.md) và [Men of Dale](../M/Men_of_Dale.md) sử dụng hai hình thức đơn giản hóa có liên quan. Người lùn thậm chí còn phát triển cả dạng chữ thảo viết bằng bút, vì họ chỉ sử dụng chúng trong mọi hình thức giao tiếp bằng văn bản, ngay cả trên giấy.
+Sau [Kỷ Đệ Nhị](../S/Second_Age.md), Cirth đã bị [Tengwar](../T/Tengwar.md) trở nên lỗi thời ở các chủng tộc phương Tây và Cirth chỉ còn được sử dụng bởi [Người Lùn](../D/Dwarves.md) và [Con Người](../M/Men.md). [Rohirrim](../R/Rohirrim.md) và [Người Dale](../M/Men_of_Dale.md) sử dụng hai dạng đơn giản hóa có liên quan. Người Lùn thậm chí còn phát triển cả dạng chữ thảo viết bằng bút, vì họ chỉ sử dụng chúng trong bất kỳ hình thức giao tiếp bằng văn bản nào, ngay cả trên giấy.
 
-[Thráin I](../T/Thráin_I.md) đến [Erebor](../L/Lonely_Mountain.md) và thành lập vương quốc người lùn của mình. Ở đó, [Angerthas Moria](Angerthas_Moria.md) đã được sửa đổi thêm và một số mới được thêm vào, nhưng một số lại quay trở lại cách sử dụng của người Tiên, do đó tạo ra biến thể Angerthas Erebor. Chế độ này đã được Người lùn sử dụng ở Westron.
+[Thráin I](../T/Thráin_I.md) đến [Erebor](../L/Lonely_Mountain.md) và thành lập vương quốc người lùn của mình. Ở đó, [Angerthas Moria](Angerthas_Moria.md) đã được sửa đổi thêm và một số mới đã được thêm vào, nhưng một số lại được hoàn nguyên về cách sử dụng Elvish, do đó tạo ra biến thể Angerthas Erebor. Chế độ này đã được sử dụng trong Westron bởi Người Lùn.
 
-Khi [Balin](../B/Balin.md) cố gắng tái chiếm Moria, những người theo ông đã sử dụng chữ viết này. Dòng chữ phía dưới [Lăng mộ Balin](../B/Balin's_Tomb.md) được viết bằng tiếng Westron, cũng như [Sách Mazarbul](../B/Book_of_Mazarbul.md).
+Khi [Balin](../B/Balin.md) cố gắng tái chiếm Moria, những người theo dõi ông ta đã sử dụng tập lệnh này. Dòng chữ phía dưới của [Balin Lăng mộ](../B/Balin's_Tomb.md) được viết bằng Westron, cũng như [Sách Mazarbul](../B/Book_of_Mazarbul.md).
 
 ## Đặc điểm {#Characteristics}
 
-Angerthas Erebor cho thấy sự hồi sinh của <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">$</em> và <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">q</em> nhưng thay thế <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">R</em> và <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">T</em> một lần nữa cho *g* và *gh* lần này hoặc dưới dạng biến thể cho vòng tròn ban đầu của chúng.
+Angerthas Erebor cho thấy sự hồi sinh của <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">$</em> và <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">q</em> nhưng được thay thế <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">R</em> và <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">T</em> một lần nữa cho *g* và *gh* lần này hoặc dưới dạng biến thể cho vòng tròn ban đầu của chúng.
 
 Những cải tiến duy nhất chỉ có <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">X</em> và <em style="font-family: &#39;Cirth Erebor&#39;; font-style: normal;">C</em> cho *ps* và *ts*.
 
-Sách Mazarbul cho thấy một số hướng mới về sự kết hợp nguyên âm và nguyên âm đôi.
+Sách Mazarbul hiển thị một số vòng tròn mới cho sự kết hợp nguyên âm và nguyên âm đôi.
 
 Dấu mũ trên biểu thị một phụ âm dài trong khi vạch dưới biểu thị một nguyên âm dài, điều đó có nghĩa là vòng tròn đơn cho các nguyên âm dài hoàn toàn không được sử dụng. Tuy nhiên, có một chữ cái riêng biệt dài *ll*
 

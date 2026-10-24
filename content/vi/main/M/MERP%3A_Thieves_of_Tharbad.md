@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Thieves of Tharbad"
 ---
 
-Chuyển hướng tới [Những tên trộm của Tharbad](../T/Thieves_of_Tharbad.md).
+Chuyển hướng đến [Kẻ trộm Tharbad](../T/Thieves_of_Tharbad.md).

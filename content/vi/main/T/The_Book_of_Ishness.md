@@ -32,9 +32,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Sách của Ishness</b></i> là một cuốn sổ phác thảo, bắt đầu bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 6 tháng 1](../_/6_January.md) [1914](../_/1914.md), nơi ông thu thập các hình minh họa dành cho "các chủ đề giàu trí tưởng tượng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Sách của Ishness</b></i> là một cuốn sổ phác thảo, bắt đầu vào [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 6 tháng 1](../_/6_January.md) [1914](../_/1914.md), nơi ông thu thập các hình minh họa dành cho "các chủ đề giàu trí tưởng tượng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[John D. Rateliff](../J/John_D._Rateliff.md) đã gợi ý rằng việc Tolkien tạo ra từ *ishness* có thể được lấy cảm hứng từ một đoạn văn trong chương 7 của [Lewis Carroll](../L/Lewis_Carroll.md) *Alice's Adventures in Wonderland*: "bạn đã bao giờ nhìn thấy một vật như một hình vẽ của một cái gì đó lớn lao chưa!".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[John D. Rateliff](../J/John_D._Rateliff.md) đã gợi ý rằng việc tạo ra từ *ishness* của Tolkien có thể được lấy cảm hứng từ một đoạn văn trong chương 7 của [Lewis Carroll](../L/Lewis_Carroll.md) *Alice's Adventures in Wonderland*: "bạn đã bao giờ nhìn thấy một vật như một bản vẽ của cái gì đó lớn lao chưa!".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Nhiều bức tranh và bản phác thảo đã được xuất bản trong nhiều bộ sưu tập tác phẩm nghệ thuật khác nhau, chẳng hạn như *[J.R.R. Tolkien: Life and Legend](../J/J.R.R._Tolkien%253A_Life_and_Legend.md)* và *[Tolkien: Maker of Middle-earth](Tolkien%253A_Maker_of_Middle-earth.md)*.
 

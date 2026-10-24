@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Walls of the Sun"
 ---
 
-Chuyển hướng tới [Bức tường mặt trời](Walls_of_the_Sun.md).
+Chuyển hướng đến [Bức tường của Mặt Trời](Walls_of_the_Sun.md).

@@ -24,7 +24,7 @@ Tên của nó trong [Gnomish](../G/Gnomish.md) là <i><b>Tirimbrithla</b></i>, 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [1915](../_/1915.md), trước bất kỳ câu chuyện nào, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết một bài thơ có chủ đề chính là Tháp Ngọc ở Quần đảo Twilit, có tựa đề *[The Happy Mariners](The_Happy_Mariners.md)*, trong đó nêu một số chi tiết về hình dáng của nó: tòa tháp màu trắng, lấp lánh như một ngọn giáo vào buổi tối và nó đứng trên một tảng đá đen.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [1915](../_/1915.md), trước bất kỳ câu chuyện nào, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết một bài thơ có chủ đề chính là Tháp Ngọc ở Quần đảo Twilit, có tựa đề *[The Happy Mariners](The_Happy_Mariners.md)*, trong đó nêu một số chi tiết về hình dáng của nó: tòa tháp màu trắng, lấp lánh như một ngọn giáo vào buổi tối, và nó đứng trên một tảng đá đen.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

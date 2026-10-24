@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fourth Age 220"
 ---
 
-Chuyển hướng tới [Tuổi thứ tư 220](Fourth_Age_220.md).
+Chuyển hướng tới [Kỷ Đệ Tứ 220](Fourth_Age_220.md).

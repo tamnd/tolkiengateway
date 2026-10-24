@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Gardner, Angela"
 ---
 
-**Angela Gardner** là thành viên người Anh của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) và là cựu chủ hiệu sách. Cô được chọn để biên tập [các giấy tờ và thư riêng](../W/Wheelbarrows_at_Dawn.md) của [Hilary Tolkien](../H/Hilary_Tolkien.md), cũng như tuyển tập các câu chuyện của ông, [Đất nước yêu tinh đen trắng](../B/Black_&_White_Ogre_Country.md).
+**Angela Gardner** là thành viên người Anh của [Hội Tolkien](../T/The_Tolkien_Society.md) và từng là chủ hiệu sách. Cô được chọn để biên tập [các giấy tờ và thư từ riêng tư](../W/Wheelbarrows_at_Dawn.md) của [Hilary Tolkien](../H/Hilary_Tolkien.md), cũng như tuyển tập các câu chuyện của anh, [Đất nước yêu tinh đen trắng](../B/Black_&_White_Ogre_Country.md).
 
 ## Thư mục {#Bibliography}
 

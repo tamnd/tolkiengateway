@@ -43,11 +43,11 @@ langlinks:
 <li><a href="../T/Tal-Elmar_(chapter).md" title="Tal-Elmar (chapter)">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 
-**Of Lembas** là chương thứ mười lăm của *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*, tạo thành một phần của bản thảo *[Dangweth Pengoloð](../D/Dangweth_Pengoloð.md)*, được viết giữa [1951](../_/1951.md)-[1959](../_/1959.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Của Lembas** là chương thứ mười lăm của *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*, là một phần của bản thảo *[Dangweth Pengoloð](../D/Dangweth_Pengoloð.md)*, được viết giữa [1951](../_/1951.md)-[1959](../_/1959.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Content}
 
-Giống như phần còn lại của bản thảo, nó được viết với phong cách thư pháp đẹp mắt, mặc dù chất lượng không bằng, chỉ đi kèm với phần văn bản chính bằng tiếng Tiên. Tiêu đề bao gồm câu hỏi [Quenya](../Q/Quenya.md) như một phần của tiêu đề: '*Mana i·coimas in·Eldaron?' maquente Elendil?*. Tolkien đã thêm tiêu đề Quenya để làm cho văn bản đi kèm với *Dangweth Pengoloð* trong đó [Pengolodh](../P/Pengolodh.md) trả lời các câu hỏi của [Ælfwine](../_/Ælfwine.md) (Elendil).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Giống như phần còn lại của bản thảo, nó được viết với phong cách thư pháp đẹp mắt, mặc dù chất lượng không bằng, chỉ đi kèm với phần văn bản chính bằng tiếng Elvish. Tiêu đề bao gồm một câu hỏi [Quenya](../Q/Quenya.md) như một phần của tiêu đề: '*Mana i·coimas in·Eldaron?' maquente Elendil?*. Tolkien đã thêm tiêu đề Quenya để làm cho văn bản đi kèm với *Dangweth Pengoloð* trong đó [Pengolodh](../P/Pengolodh.md) trả lời các câu hỏi của [Ælfwine](../_/Ælfwine.md)(Elendil).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Văn bản {#The_text}
 

@@ -40,33 +40,33 @@ infobox:
 
 ### Xuất xứ {#Origin}
 
-Luthany ban đầu được kết nối với [Great Lands](../G/Great_Lands.md),<sup id="cite_ref-Gre_1-1" class="reference"><a href="#cite_note-Gre-1">[1]</a></sup> và sau [First Faring Forth](../F/First_Faring_Forth.md) và cuộc chiến với [Con người](../M/Men.md) tà ác, [Yêu tinh](../E/Elves.md) vẫn còn ở Great Lands đã chuyển đến Luthany với số lượng lớn do Vua của Luthany là [Ing](../I/Ing.md), một Người thân thiện với Yêu tinh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Luthany ban đầu được kết nối với [Great Lands](../G/Great_Lands.md),<sup id="cite_ref-Gre_1-1" class="reference"><a href="#cite_note-Gre-1">[1]</a></sup> và sau [First Faring Forth](../F/First_Faring_Forth.md) và cuộc chiến với cái ác [Con Người](../M/Men.md) [Tiên tộc](../E/Elves.md) vẫn còn ở Great Lands đã chuyển đến Luthany với số lượng lớn do Vua của Luthany là [Ing](../I/Ing.md), một Người thân thiện với Tiên tộc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ### Eärendel và Ing {#Eärendel_and_Ing}
 
-Vào một thời điểm nào đó [Eärendel](../E/Eärendel.md), đang chạy trốn khỏi [Ossë](../O/Ossë.md), xuất hiện ở Luthany và tìm kiếm sự giúp đỡ của Ing. Đổi lại, Eärendel đưa cho Ing *[limpë](Limpë.md)*, một loại đồ uống khiến anh trở nên bất tử.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> Anh cũng ban phước cho con cháu của Ing và kể cho anh nghe về [Tol Eressëa](../T/Tol_Eressëa.md), một hòn đảo mà Yêu tinh Luthany đến, khơi dậy mong muốn được đi thuyền đến đó của Ing. Có lẽ là do điều này, Ing và nhiều người của ông đã bắt đầu chuyến hành trình đến Tol Eressëa - tuy nhiên, do Ossë tức giận trước sự giúp đỡ của Eärendel của Ing, họ đã bị cuốn vào một cơn bão và bị thổi bay về phía đông, với Ing là người duy nhất sống sót.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Vào một thời điểm nào đó [Eärendel](../E/Eärendel.md), đang chạy trốn khỏi [Ossë](../O/Ossë.md), xuất hiện ở Luthany và tìm kiếm sự giúp đỡ của Ing. Đổi lại, Eärendel đưa cho Ing *[limpë](Limpë.md)*, một loại đồ uống khiến ông ta bất tử.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup> Ông ta cũng ban phước cho con cháu của Ing và kể cho ông ta nghe về [Tol Eressëa](../T/Tol_Eressëa.md), một hòn đảo mà Tiên tộc của Luthany đi tới, khơi dậy mong muốn được đi thuyền đến đó của Ing. Có lẽ vì điều này mà Ing và nhiều người của ông đã bắt đầu chuyến hành trình tới Tol Eressëa - tuy nhiên, do Ossë phẫn nộ trước sự giúp đỡ của Ing về Eärendel, họ đã bị cuốn vào một cơn bão và bị thổi bay về phía đông, với Ing là người duy nhất sống sót.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
-Để đối phó với sự ra đi của Ing và lo sợ về một cuộc xâm lược của những Người đàn ông độc ác, Yêu tinh Luthany đã cắt một <a class="extiw" href="http://en.wikipedia.org/wiki/English_channel" title="wikipedia:English channel">kênh</a> ngăn cách Luthany với phần còn lại của Great Lands, biến nó thành một hòn đảo.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Để đối phó với sự ra đi của Ing và vì lo sợ một cuộc xâm lược của cái ác Con Người, Tiên tộc của Luthany đã cắt một <a class="extiw" href="http://en.wikipedia.org/wiki/English_channel" title="wikipedia:English channel">kênh</a> ngăn cách Luthany với phần còn lại của Great Lands, biến nó thành một hòn đảo.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
-Đảo Luthany đã phải hứng chịu bảy cuộc xâm lược trong lịch sử sau khi Yêu tinh xuất hiện, mỗi cuộc xâm lược đối với Yêu tinh đều tệ hơn lần trước. Cuộc xâm lược áp chót là của [Rúmhoth](../R/Rúmhoth.md) (còn được gọi là <a class="extiw" href="http://en.wikipedia.org/wiki/Romans" title="wikipedia:Romans">Người La Mã</a>), những kẻ thậm chí còn không tin rằng Yêu tinh là có thật, khiến gần như mọi yêu tinh còn lại trên đảo đều phải rời đi.<sup id="cite_ref-Lut_6-0" class="reference"><a href="#cite_note-Lut-6">[5]</a></sup>
+Hòn đảo Luthany đã phải hứng chịu bảy cuộc xâm lược trong lịch sử sau khi Tiên tộc xuất hiện, mỗi cuộc xâm lược đều tệ hơn đối với Tiên tộc so với lần trước. Cuộc xâm lược áp chót là của [Rúmhoth](../R/Rúmhoth.md) (còn được gọi là <a class="extiw" href="http://en.wikipedia.org/wiki/Romans" title="wikipedia:Romans">người La Mã</a>), những người thậm chí còn không tin rằng Tiên tộc là có thật, khiến gần như mọi Tiên còn lại trên đảo đều phải rời đi.<sup id="cite_ref-Lut_6-0" class="reference"><a href="#cite_note-Lut-6">[5]</a></sup>
 
 <h3><span id="England.27s_origins"></span><span class="mw-headline" id="England&#39;s_origins">England&#39;s origins</span></h3>
 
-Tuy nhiên, sau 300 năm<sup id="cite_ref-Lut_6-1" class="reference"><a href="#cite_note-Lut-6">[5]</a></sup> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ingwaiwar&amp;action=edit&amp;redlink=1" title="Ingwaiwar (page does not exist)">Ingwaiwar</a> (người Ing) đã xâm chiếm và thân thiện với Yêu tinh do những lời dạy của Ing - và vì điều này, những gì còn sót lại của Yêu tinh trên đảo tạm thời làm chậm cuộc di cư của họ đến Tol Eressëa, nhiều người trong số họ đã học [Tiếng Anh cổ](../O/Old_English.md), ngôn ngữ của Ingwaiwar, trong thời gian đó thời gian.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Tuy nhiên, sau 300 năm<sup id="cite_ref-Lut_6-1" class="reference"><a href="#cite_note-Lut-6">[5]</a></sup> <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ingwaiwar&amp;action=edit&amp;redlink=1" title="Ingwaiwar (page does not exist)">Ingwaiwar</a> (người Ing) đã xâm lược và thân thiện với Tiên tộc do những lời dạy của Ing - và vì điều này, những gì còn sót lại của Tiên tộc trên đảo tạm thời làm chậm cuộc di cư của họ xuống Tol Eressëa, nhiều người trong số họ đã học [tiếng Anh cổ](../O/Old_English.md), ngôn ngữ của Ingwaiwar, trong thời gian đó.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
-Một thời gian sau, một thủy thủ tên là [Ælfwine](../_/Ælfwine.md), hậu duệ của Ing, sinh ra ở Luthany. Sau đó, anh đã tìm được đường đến Tol Eressëa và tìm hiểu lịch sử của Yêu tinh. Trong một trong những phác thảo của *Book of Lost Tales*, Ælfwine là tác giả của *[Golden Book of Tavrobel](../P/Parma_Kuluina.md)*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Một thời gian sau, một thủy thủ tên là [Ælfwine](../_/Ælfwine.md), hậu duệ của Ing, sinh ra ở Luthany. Sau đó ông đã tìm được cách đến Tol Eressëa và tìm hiểu lịch sử của Tiên tộc. Trong một trong những phác thảo của *Book of Lost Tales*, Ælfwine là tác giả của *[Golden Book of Tavrobel](../P/Parma_Kuluina.md)*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
-Theo một phác thảo khác, Người Tiên đã tiên tri rằng Ing cuối cùng sẽ dẫn họ từ Tol Eressëa trở lại Luthany<sup id="cite_ref-Lut_6-2" class="reference"><a href="#cite_note-Lut-6">[5]</a></sup> trong [Chuyến đi thứ hai](../S/Second_Faring_Forth.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
+Theo một phác thảo khác, Tiên tộc đã tiên tri rằng Ing cuối cùng sẽ dẫn họ từ Tol Eressëa quay trở lại Luthany<sup id="cite_ref-Lut_6-2" class="reference"><a href="#cite_note-Lut-6">[5]</a></sup> trong [Thứ hai Faring Forth](../S/Second_Faring_Forth.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
 
 ## Mô tả {#Description}
 
-Nhiều địa điểm ở Tol Eressëa, chẳng hạn như [Kortirion](../K/Kortirion.md) hoặc [Tavrobel](../T/Tavrobel.md) (Mới), được đặt tên theo những địa điểm cũ hơn ở Luthany (chẳng hạn như [Kortirion the Old](../K/Kortirion_the_Old.md) hoặc [Tavrobel the Old](../T/Tavrobel_the_Old.md)).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup>
+Nhiều địa điểm trong Tol Eressëa, chẳng hạn như [Kortirion](../K/Kortirion.md) hoặc [Tavrobel](../T/Tavrobel.md) (Mới), được đặt tên theo các địa điểm cũ hơn trong Luthany (chẳng hạn như [Kortirion Cái cũ](../K/Kortirion_the_Old.md) hoặc [Tavrobel Cái cũ](../T/Tavrobel_the_Old.md)).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Luthany* có trong [Gnomish](../G/Gnomish.md),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup> có nghĩa là "tình bạn".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup> <i><b>Albion</b></i> cũng xuất hiện dưới dạng tên của Luthany trong một trong các phác thảo.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup>
+Tên *Luthany* nằm trong [Gnomish](../G/Gnomish.md),<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup> có nghĩa là "tình bạn".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup> <i><b>Albion</b></i> cũng xuất hiện dưới dạng tên của Luthany ở một trong các đường viền.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup>
 
-Một dạng trước đây của cái tên này là <i><b>Lúthien</b></i> (trong hầu hết các văn bản khác trong khoảng thời gian này, ý nghĩa của nó là "bạn bè", xuất hiện cùng với *Luthany* = "tình bạn"). Một dạng thay thế, <i><b>Leithian</b></i>, xuất hiện được viết ở trên *Lúthien* trong một trong các văn bản.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup>
+Dạng trước đây của tên này là <i><b>Lúthien</b></i> (trong hầu hết các văn bản khác trong khoảng thời gian này, ý nghĩa của nó là "bạn bè", xuất hiện cùng với *Luthany* = "tình bạn"). Một dạng thay thế, <i><b>Leithian</b></i>, xuất hiện được viết ở trên *Lúthien* trong một trong các văn bản.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[13]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -76,7 +76,7 @@ Một dạng trước đây của cái tên này là <i><b>Lúthien</b></i> (tro
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-Trong phiên bản muộn hơn của [huyền thoại](Legendarium.md) từ [1930](../_/1930.md) (*[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)*), **Leithien** là tên của một trong những hòn đảo được hình thành trong quá trình phá hủy [Beleriand](../B/Beleriand.md) trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md). Sau này nó được gọi là Anh hoặc Anh.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
+Trong phiên bản muộn hơn của [huyền thoại](Legendarium.md) từ [1930](../_/1930.md) (*[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)*), **Leithien** là tên của một trong những hòn đảo được hình thành trong quá trình [Beleriand](../B/Beleriand.md) bị phá hủy trong [War of Wrath](../W/War_of_Wrath.md). Sau này nó được gọi là Anh hoặc Anh.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -85,7 +85,7 @@ Trong phiên bản muộn hơn của [huyền thoại](Legendarium.md) từ [193
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Trong một phác thảo khác, chính Yêu tinh sống ở Luthany đã đưa Ing <i>khập khiễng</i>, cùng với việc Eärendel đến Luthany sau cuộc xâm lược của <a class="mw-redirect" href="../R/Rúmhoth.md" title="Rúmhoth">Rúmhoth</a> đã diễn ra.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Trong một phác thảo khác, chính Tiên tộc sống ở Luthany đã khiến Ing <i>khập khiễng</i>, với Eärendel đến Luthany sau cuộc xâm lược của <a class="mw-redirect" href="../R/Rúmhoth.md" title="Rúmhoth">Rúmhoth</a> đã diễn ra địa điểm.</span>
 </li>
 </ol></div></span>
 

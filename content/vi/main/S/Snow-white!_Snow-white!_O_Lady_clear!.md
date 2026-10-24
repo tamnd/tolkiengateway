@@ -23,7 +23,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Elbereth</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../E/Elbereth_(disambiguation).md" title="Elbereth (disambiguation)">Elbereth (disambiguation)</a></b>.</div></div>
 
-**Tuyết trắng! Bạch Tuyết! O Lady clear!** là bài hát được hát bởi [nhóm](../W/Wandering_Companies.md) của [Yêu tinh](../E/Elves.md), dẫn đầu bởi [Gildor Inglorion](../G/Gildor.md), khi họ đi qua [Shire](../T/The_Shire.md) vào cuối [Thời đại thứ ba](../T/Third_Age.md). Nó đã được nghe thấy bởi [Frodo Baggins](../F/Frodo_Baggins.md), [Samwise Gamgee](Samwise_Gamgee.md) và [Peregrin Took](../P/Peregrin_Took.md). Mặc dù các yêu tinh sẽ hát bằng [Sindarin](Sindarin.md), loại ngôn ngữ mà Frodo chỉ biết một chút, nhưng cậu vẫn có thể hiểu được ý nghĩa của bài hát. Nội dung của nó tương tự như *[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)*.
+**Tuyết trắng! Bạch Tuyết! O Lady clear!** là bài hát được hát bởi [công ty](../W/Wandering_Companies.md) của [Tiên tộc](../E/Elves.md), dẫn đầu bởi [Gildor Inglorion](../G/Gildor.md), khi họ đi qua [ Shire](../T/The_Shire.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md). Nó đã bị [Frodo Baggins](../F/Frodo_Baggins.md), [Samwise Gamgee](Samwise_Gamgee.md) và [Peregrin Took](../P/Peregrin_Took.md) nghe thấy. Mặc dù Tiên tộc lẽ ra đã hát trong [Sindarin](Sindarin.md), trong đó Frodo chỉ biết một chút, ông vẫn có thể hiểu được ý nghĩa của bài hát. Nội dung của nó tương tự như *[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)*.
 
 ## Bài hát {#Song}
 
@@ -65,4 +65,4 @@ In this far land beneath the trees,<br/>
 
 ## Tài liệu tham khảo {#References}
 
-- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, "[Ba là công ty](../T/Three_is_Company.md)"
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)*, "[Ba là Công ty](../T/Three_is_Company.md)"

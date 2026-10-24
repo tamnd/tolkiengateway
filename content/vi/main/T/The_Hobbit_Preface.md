@@ -74,7 +74,7 @@ images:
 
 **Lời mở đầu**, được gắn nhãn **Ghi chú của tác giả** trong một số ấn bản, đề cập đến lời nói đầu không có tiêu đề đặt trước chương đầu tiên của *[The Hobbit](The_Hobbit.md)*.
 
-Lời mở đầu bắt đầu bằng *THE HOBBIT OR THERE AND BACK AGAIN* được viết bằng [Cirth](../C/Cirth.md). Tiến hành thảo luận một số vấn đề liên quan đến từ *[dwarf](../D/Dwarf.md)* và *[orc](../O/Orc.md)*. Sau đó nó đưa ra một mô tả ngắn gọn về hệ thống chữ viết Cirth được sử dụng trong *The Hobbit*. Các chữ cái của [moon-runes](../M/Moon-runes.md), được đọc bởi [Elrond](../E/Elrond.md) ở [Rivendell](../R/Rivendell.md), được cung cấp ở phần cuối.
+Lời mở đầu bắt đầu bằng *THE HOBBIT OR THERE AND BACK AGAIN* được viết bằng [Cirth](../C/Cirth.md). Tiến hành thảo luận một số vấn đề liên quan đến từ *[dwarf](../D/Dwarf.md)* và *[orc](../O/Orc.md)*. Sau đó, nó đưa ra một mô tả ngắn gọn về hệ thống chữ viết Cirth được sử dụng trong *The Hobbit*. Các chữ cái của [moon-runes](../M/Moon-runes.md), được đọc bởi [Elrond](../E/Elrond.md) trong [Rivendell](../R/Rivendell.md), được cung cấp ở phần cuối.
 
 ## Lịch sử {#History}
 

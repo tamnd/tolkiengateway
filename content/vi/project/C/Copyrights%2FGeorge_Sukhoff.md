@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Sukhoff, George"
 ---
 
-- George Sukhoff đã vui lòng cho phép sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_George_Sukhoff.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- George Sukhoff đã vui lòng cho phép sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_George_Sukhoff.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 6 tháng 8 năm 2020
 - Người dùng đã xin phép: [Người dùng:IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

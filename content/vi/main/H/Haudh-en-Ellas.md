@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Haudh-en-Elleth"
 ---
 
-Chuyển hướng tới [Haudh-en-Elleth](Haudh-en-Elleth.md).
+Chuyển hướng đến [Haudh-en-Elleth](Haudh-en-Elleth.md).

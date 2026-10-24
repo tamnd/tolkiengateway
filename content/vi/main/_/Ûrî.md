@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lady of the Sun"
 ---
 
-Chuyển hướng tới [Quý bà Mặt trời](../T/The_Lady_of_the_Sun.md).
+Chuyển hướng đến [Quý cô Mặt Trời](../T/The_Lady_of_the_Sun.md).

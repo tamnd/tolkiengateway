@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Ideal of Kingship in the Writings of Charles Williams, C.S. Lewis, and J.R.R. Tolkien"
 ---
 
-Chuyển hướng đến [Lý tưởng về vương quyền trong các bài viết của Charles Williams, C.S. Lewis và J.R.R. Tolkien](The_Ideal_of_Kingship_in_the_Writings_of_Charles_Williams,_C.S._Lewis,_and_J.R.R._Tolkien.md).
+Chuyển hướng đến [Lý tưởng về vương quyền trong các tác phẩm Charles Williams, C.S. Lewis và J.R.R. Tolkien](The_Ideal_of_Kingship_in_the_Writings_of_Charles_Williams,_C.S._Lewis,_and_J.R.R._Tolkien.md).

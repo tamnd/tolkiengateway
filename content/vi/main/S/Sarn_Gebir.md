@@ -26,13 +26,13 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Sarn_Gebir.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/63/The_Lord_of_the_Rings_Online_-_Sarn_Gebir.jpg/250px-The_Lord_of_the_Rings_Online_-_Sarn_Gebir.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/63/The_Lord_of_the_Rings_Online_-_Sarn_Gebir.jpg/375px-The_Lord_of_the_Rings_Online_-_Sarn_Gebir.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/6/63/The_Lord_of_the_Rings_Online_-_Sarn_Gebir.jpg/500px-The_Lord_of_the_Rings_Online_-_Sarn_Gebir.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Sarn Gebir in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Sarn Gebir** là **Ghềnh** của Sông Lớn [Anduin](../A/Anduin.md). Chúng xuất hiện khi dòng sông chảy qua giữa [Emyn Muil](../E/Emyn_Muil.md), phía trên [Thác Rauros](../R/Rauros.md). Vì chúng là những tảng đá và hốc đá không thể di chuyển nên một con đường cảng đã được xây dựng ở bờ phía tây của con sông, tạo điều kiện thuận lợi cho việc di chuyển bằng thuyền nhẹ từ [Wilderland](../R/Rhovanion.md) đến [Osgiliath](../O/Osgiliath.md), cho đến khi [Orc của Mordor](../O/Orcs_of_Mordor.md) bắt đầu sinh sôi.
+**Sarn Gebir** là **Ghềnh** của Sông Lớn [Anduin](../A/Anduin.md). Chúng xuất hiện khi dòng sông đi qua giữa [Emyn Muil](../E/Emyn_Muil.md), phía trên [thác Rauros](../R/Rauros.md). Vì chúng là những tảng đá và hốc đá không thể đi lại được nên một bến cảng đã được xây dựng ở bờ tây sông, tạo điều kiện thuận lợi cho việc đi lại bằng thuyền nhẹ từ [Wilderland](../R/Rhovanion.md) đến [Osgiliath](../O/Osgiliath.md), cho đến khi [Orc của Mordor](../O/Orcs_of_Mordor.md) bắt đầu nhân lên.
 
-Trong khi [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) điều hướng dòng Anduin, [Aragorn](../A/Aragorn.md) đang chuẩn bị cho Rapids, nhưng họ đã đến nơi sớm hơn anh dự đoán, vào nửa đêm [23 tháng 2](../_/23_February.md). Dòng suối kéo họ về phía bờ phía đông, nơi họ bị phục kích bởi các cung thủ [Orc](../O/Orcs.md) từ [Mordor](../M/Mordor.md). Đoàn đã chèo thuyền ra khỏi ghềnh thác. Trong [ngày hôm sau](../_/24_February.md) họ di chuyển vài dặm đến chân thác ghềnh và tiếp tục chèo thuyền vào sáng [25 tháng 2](../_/25_February.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) điều hướng Anduin, [Aragorn](../A/Aragorn.md) đang chuẩn bị cho Rapids, nhưng họ đã đến được sớm hơn ông ta tính, vào nửa đêm [23 tháng 2](../_/23_February.md). Dòng suối kéo họ về phía bờ đông, nơi họ bị phục kích bởi [Orc](../O/Orcs.md) cung thủ từ [Mordor](../M/Mordor.md). Đoàn đã chèo thuyền ra khỏi ghềnh thác. Trong [ngày hôm sau](../_/24_February.md) họ di chuyển vài dặm đến chân thác ghềnh và tiếp tục chèo thuyền vào sáng [25 tháng 2](../_/25_February.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Sarn Gebir* là tên [Sindarin](Sindarin.md) có nghĩa là "có gai bằng đá".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Sarn Gebir* là tên [Sindarin](Sindarin.md) có nghĩa là "có gai nhọn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -40,11 +40,11 @@ Trong các bản thảo đầu tiên, Sarn Gebir là tên của vùng cao nguyê
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>The ambush at the rapids of Sarn Gebir scene was intended to be in the film, to the point that an entire on-location set was built, but was not included in the final cut for one reason: before filming could begin on the set, record-breaking torrential rains and 20 foot high floodwaters washed away the entire set. So complete was the destruction that not even any wreckage of the set was <i>ever</i> found.  Without the time or funding to construct a new set, the scene had to be cut from the script.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Rapids of Sarn Gebir can be accessed from the <a class="mw-redirect" href="../W/Wold.md" title="Wold">Wold</a> region of <a href="../R/Rohan.md" title="Rohan">Rohan</a>.</dd></dl>
 

@@ -15,11 +15,11 @@ sort_keys:
   "Sindarin nouns": "Annun"
 ---
 
-<i><b>annûn</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "hoàng hôn", và do đó được dùng là "Tây".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>annûn</b></i> là từ [Sindarin](../S/Sindarin.md) chỉ "hoàng hôn", và do đó được dùng là "Phương Tây".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Annûn* có cách viết đặc biệt vì nó được đánh vần bằng dấu mũ (ˆ), mà Tolkien đã sử dụng trong các đơn âm tiết của tiếng Sindarin. Lời giải thích là *annûn* chỉ là một biến thể của *[dûn](../D/Dûn.md)*.
+*Annûn* có cách viết đặc biệt vì nó được đánh vần bằng dấu mũ (ˆ), Tolkien được sử dụng trong các đơn âm tiết của Sindarin. Lời giải thích là *annûn* chỉ là một biến thể của *[dûn](../D/Dûn.md)*.
 
 Sự tiến hóa diễn ra song song với *dûn*, chỉ có điều nó đến từ [OS](../O/OS.md) \**andûne*. [PQ](../P/PQ.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nd%C3%BBn%C3%AA&amp;action=edit&amp;redlink=1" title="Ndûnê (page does not exist)">ndûnê</a></i> ([gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=ND%C3%9B&amp;action=edit&amp;redlink=1" title="NDÛ (page does not exist)">NDÛ</a>) đã phát triển thành một "âm tiết mũi" \**ṇdûnê* phát triển thêm thành nguyên âm đầy đủ \**a-*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

@@ -18,9 +18,9 @@ langlinks:
     url: "https://kontu.wiki/Varjoisa_l%C3%A4hde"
 ---
 
-**Shadowy Spring** nằm ở [Ered Gorgoroth](../E/Ered_Gorgoroth.md), giữa [Đèo Aglon](../P/Pass_of_Aglon.md) và [Dorthonion](../D/Dorthonion.md). Đó là nguồn chung của các con sông [Esgalduin](../E/Esgalduin.md) và [Aros](../A/Aros.md) đã đánh dấu lãnh thổ của [Doriath](../D/Doriath.md).
+**Suối Bóng tối** nằm ở [Ered Gorgoroth](../E/Ered_Gorgoroth.md), giữa [Đèo Aglon](../P/Pass_of_Aglon.md) và [Dorthonion](../D/Dorthonion.md). Đó là nguồn chung của các con sông [Esgalduin](../E/Esgalduin.md) và [Aros](../A/Aros.md), đánh dấu lãnh thổ của [Doriath](../D/Doriath.md).
 
-Trên [bản đồ đi kèm](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md) *[The Silmarillion](../T/The_Silmarillion.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) miêu tả dòng suối của hai con sông là riêng biệt, mặc dù các con sông có chung một dòng suối trên bản đồ đó mà ông dựa vào đó để tạo phiên bản của mình,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và dựa trên lời bình luận về [bản đồ Silmarillion đầu tiên](<../T/The_First_'Silmarillion'_Map_(map).md>) của cha ông, ông thừa nhận chân dung của mình trên bản đồ Silmarillion đã xuất bản là có sai sót.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Trên [bản đồ đi kèm](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md) *[The Silmarillion](../T/The_Silmarillion.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) đã miêu tả dòng suối của hai con sông là riêng biệt, mặc dù các con sông có chung một dòng suối trên bản đồ mà ông dựa vào đó để tạo phiên bản của mình,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và trên lời bình luận về [bản đồ Silmarillion đầu tiên](<../T/The_First_'Silmarillion'_Map_(map).md>) của cha mình, ông thừa nhận cách miêu tả của mình trên bản đồ Silmarillion đã xuất bản là có sai sót.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

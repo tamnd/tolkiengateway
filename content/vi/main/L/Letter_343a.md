@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien bày tỏ hy vọng rằng Glover, giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Mary_Washington" title="wikipedia:University of Mary Washington">Đại học Mary Washington</a>, sẽ tìm được sự hỗ trợ cần thiết cho dự án của mình trong chuyến thăm Anh. Tuy nhiên, Tolkien yêu cầu rõ ràng Glover không thảo luận hoặc hỏi về công việc của [C. S. Lewis](../C/C._S._Lewis.md) hoặc mối quan hệ cá nhân của họ. Ông nói rõ rằng yêu cầu này dựa trên lý do cá nhân chứ không phải vì lý do chuyên môn.
+Tolkien bày tỏ hy vọng rằng Glover, giáo sư tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Mary_Washington" title="wikipedia:University of Mary Washington">Đại học Mary Washington</a>, sẽ tìm được sự hỗ trợ cần thiết cho dự án của mình trong chuyến thăm Anh. Tuy nhiên, Tolkien yêu cầu rõ ràng Glover không thảo luận hoặc tìm hiểu về công việc của [C. S. Lewis](../C/C._S._Lewis.md) hoặc mối quan hệ cá nhân của họ. Ông nói rõ rằng yêu cầu này dựa trên lý do cá nhân chứ không phải vì lý do chuyên môn.
 
-Tolkien cũng ghi nhận những lời tử tế của Glover về tác phẩm của chính ông. Ông lưu ý rằng mặc dù tuổi đã cao nhưng ông vẫn tham gia sâu sắc vào việc hoàn thành các dự án của riêng mình, việc này chiếm gần như toàn bộ thời gian và sức lực của ông. <br>
+Tolkien cũng ghi nhận những lời tốt đẹp của Glover về công việc của chính mình. Ông lưu ý rằng mặc dù tuổi đã cao nhưng ông vẫn tham gia sâu sắc vào việc hoàn thành các dự án của riêng mình, việc này chiếm gần như toàn bộ thời gian và sức lực của ông. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

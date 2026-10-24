@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Teleri"
 ---
 
-Chuyển hướng tới [Teleri](../T/Teleri.md).
+Chuyển hướng đến [Teleri](../T/Teleri.md).

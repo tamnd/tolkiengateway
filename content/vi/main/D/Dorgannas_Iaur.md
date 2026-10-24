@@ -18,11 +18,11 @@ langlinks:
     url: "https://kontu.wiki/Dorgannas_Iaur"
 ---
 
-<i><b>Dorgannas Iaur</b></i> là một cuốn sách truyền thuyết được viết bởi [Torhir Ifant](../T/Torhir_Ifant.md). Cuốn sách chứa "bản mô tả về hình dạng của các vùng đất cổ", và [Ælfwine](../_/Ælfwine.md) trích dẫn từ đó trong bản dịch *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* của ông để làm rõ việc sắp xếp các vương quốc của [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-MB_2-0" class="reference"><a href="#cite_note-MB-2">[2]</a></sup>
+<i><b>Dorgannas Iaur</b></i> là một cuốn sách truyền thuyết được viết bởi [Torhir Ifant](../T/Torhir_Ifant.md). Cuốn sách chứa đựng "bản mô tả về hình dạng của các vùng đất cổ", và [Ælfwine](../_/Ælfwine.md) trích dẫn nó trong bản dịch *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)* của ông để làm rõ việc sắp xếp các vương quốc của [Beleriand](../B/Beleriand.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-MB_2-0" class="reference"><a href="#cite_note-MB-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Dorgannas Iaur* có thể là tên [Sindarin](../S/Sindarin.md), rõ ràng có nghĩa là "tạo hình vùng đất cổ" và bao gồm *[dor](Dor.md)* ("đất") + *cannas* ("định hình") + *[iaur](../I/Iaur.md)* ("cũ").<sup id="cite_ref-MB_2-1" class="reference"><a href="#cite_note-MB-2">[2]</a></sup><sup id="cite_ref-DW_3-0" class="reference"><a href="#cite_note-DW-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Dorgannas Iaur* có thể là tên [Sindarin](../S/Sindarin.md), rõ ràng có nghĩa là "định hình vùng đất xưa" và bao gồm *[dor](Dor.md)* ("đất") + *cannas* ("định hình") + *[iaur](../I/Iaur.md)* ("cũ").<sup id="cite_ref-MB_2-1" class="reference"><a href="#cite_note-MB-2">[2]</a></sup><sup id="cite_ref-DW_3-0" class="reference"><a href="#cite_note-DW-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

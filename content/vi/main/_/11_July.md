@@ -64,11 +64,11 @@ Sự kiện xảy ra vào ngày 11 tháng 7
 ## Trên Trái đất {#On_Earth}
 
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 340](../L/Letter_340.md).
-- **[2005](2005.md)** - [Tolkien Thing VII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2008](2008.md)** - [Tolkien Thing X](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2005](2005.md)** - [Tolkien Điều VII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2008](2008.md)** - [Tolkien Điều X](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

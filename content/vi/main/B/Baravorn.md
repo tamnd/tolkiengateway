@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Baravorn"
 ---
 
-**Baravorn** là bản dịch sang [Sindarin](../S/Sindarin.md) của tên [Hobbitish](../H/Hobbitish.md) *[Ranugad](../R/Ranugad.md)*. [Elessar](../A/Aragorn.md) đã đề cập đến [Samwise Gamgee](../G/Gaffer_Gamgee.md) như vậy trong *[King's Letter](../K/King's_Letter.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Baravorn** là bản dịch sang [Sindarin](../S/Sindarin.md) của tên [Hobbitish](../H/Hobbitish.md) *[Ranugad](../R/Ranugad.md)*. [Elessar](../A/Aragorn.md) có địa chỉ [Samwise Gamgee](../G/Gaffer_Gamgee.md) như trong *[King's Letter](../K/King's_Letter.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

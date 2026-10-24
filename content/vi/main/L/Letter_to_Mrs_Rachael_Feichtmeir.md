@@ -19,11 +19,11 @@ Vào [21 tháng 12](../_/21_December.md) [1955](../_/1955.md), [J.R.R. Tolkien](
 - **Mô tả:** 2 trang, thư viết tay.<sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 - **Chủ đề:** Trả lời thư của người hâm mộ.<sup id="cite_ref-Marq2_2-1" class="reference"><a href="#cite_note-Marq2-2">[2]</a></sup>
 - **Xuất bản:** Không có.
-- **Lưu trữ:** Bức thư gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md) làm quà tặng của bà Rachael Balyeat vào tháng 5 năm 2014.<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+- **Lưu trữ:** Bức thư gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md) do bà Rachael Balyeat tặng vào tháng 5 năm 2014.<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 ## Tóm tắt {#Summary}
 
-Bức thư này là thư trả lời cho lá thư của Rachael Feichtmeir từ [tháng 9](../S/September.md) năm 1955 trả lời các câu hỏi của cô về [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và đưa ra những hiểu biết sâu sắc về quá trình viết của ông.
+Bức thư này là thư trả lời cho bức thư của Rachael Feichtmeir từ [tháng Chín](../S/September.md) năm 1955 trả lời các câu hỏi của cô về [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và đưa ra những hiểu biết sâu sắc về quá trình viết của ông.
 
 <span></span>
 

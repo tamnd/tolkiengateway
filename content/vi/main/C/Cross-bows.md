@@ -12,27 +12,27 @@ categories:
   - "Weapons"
 ---
 
-**Cung chéo** chỉ được biết đến là đã được nhắc đến một lần trong các câu chuyện về [Arda](../A/Arda.md), như một vũ khí do [Númenóreans](../N/Númenóreans.md) nghĩ ra. Mặc dù được sử dụng đặc biệt để bắn [chim](../../category/B/Birds.md) săn mồi, nỏ dường như cũng được sử dụng trong [Númenor](../N/Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nỏ** chỉ được biết đến là đã được nhắc đến một lần trong các câu chuyện về [Arda](../A/Arda.md), như một loại vũ khí do [người Númenor](../N/Númenóreans.md) nghĩ ra. Mặc dù được sử dụng đặc biệt để bắn [chim](../../category/B/Birds.md) săn mồi, nỏ dường như cũng được sử dụng trong [Númenor](../N/Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>As part of the roleplaying game&#39;s extrapolation of Middle-earth&#39;s aspects, crossbows occur as a rarer form of archery weapon. They are used most commonly by the dwarves, who are implied to be their original inventors. They can be sometimes found in the possession of some half-elves and half-trolls as well. Hobbits also occasionally use them, specifically smaller light crossbows. These are referred to as &#34;bracebows&#34;.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>In the film, the <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> use fairly large crossbows at <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, presumably designed by Saruman. The Uruk crossbowmen are featured relatively little in scenes during the siege, mainly at the beginning and while trying to conquer the first gatehouse of the fortress, shooting at the defenders through gaps in the damaged gate. They use their crossbows with ease and deadly accuracy. Though the crossbows are reloaded somewhat slower than a bow, they feature an integrated spanning lever, which allows for faster spanning of the bowstring and makes additional spanning tools unnecessary. In the behind the scenes documentaries of the film&#39;s Extended Edition, concept artist <a href="../J/John_Howe.md" title="John Howe">John Howe</a> and production designer <a href="../R/Richard_Taylor.md" title="Richard Taylor">Richard Taylor</a> briefly discuss and demonstrate the Uruk crossbow props, made by Weta Workshop. Howe reveals that the inspiration for the crossbow came from an early 16th century design, found in the <i>Codex Löffelholz</i> manuscript from Germany.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">Chúa tể của những chiếc nhẫn: Trận chiến vì Trung địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd>Uruk crossbowmen are portrayed as a deadly fighting unit.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Crossbows are available to player characters as handheld ranged weapons. They are less common than bows. Some player character classes, such as the Champion, are not allowed to use the weapon.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">Chúa tể của những chiếc nhẫn: Cuộc chiến ở phương Bắc</a></i>:</b>
+<b>2011: <i><a href="../T/The_Lord_of_the_Rings%253A_War_in_the_North.md" title="The Lord of the Rings: War in the North">The Lord of the Rings: War in the North</a></i>:</b>
 
 <dl><dd>A steel dwarven crossbow is one of the ranged weapons available to the (non-canon) dwarf player character <a href="../F/Farin_(video_game_character).md" title="Farin (video game character)">Farin</a>.</dd></dl>
 
@@ -42,7 +42,7 @@ categories:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://middle-earth.xenite.org/were-there-crossbows-in-middle-earth/" rel="noreferrer noopener" target="_blank">Có nỏ ở Trung Địa không?</a> của [Michael Martinez](../M/Michael_Martinez.md)
+- <a class="external text" href="https://middle-earth.xenite.org/were-there-crossbows-in-middle-earth/" rel="noreferrer noopener" target="_blank">Có nỏ ở Trung Địa?</a> của [Michael Martinez](../M/Michael_Martinez.md)
 
 <span></span>
 

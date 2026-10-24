@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Smaug"
 ---
 
-Chuyển hướng tới [Smaug](../S/Smaug.md).
+Chuyển hướng đến [Smaug](../S/Smaug.md).

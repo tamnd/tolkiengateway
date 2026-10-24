@@ -18,11 +18,11 @@ sort_keys:
   "Tol Eressëa": "Falasse Numea"
 ---
 
-**Falassë Númëa** là bờ biển phía tây của [Tol Eressëa](../T/Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Ở những bờ biển và bãi biển này, [Solosimpi](../S/Solosimpi.md) đi theo đội quân trên [tàu thiên nga](../S/Swanships.md) của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Falassë Númëa** là bờ biển phía tây của [Tol Eressëa](../T/Tol_Eressëa.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Ở những bờ biển và bãi biển này, [Solosimpi](../S/Solosimpi.md) đi theo đội quân trên [tàu thiên nga](../S/Swanships.md) của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Falassë Númëa* có trong [Qenya](../Q/Qenya.md), có nghĩa là "Lướt sóng phương Tây".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó là sự kết hợp của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Falass%C3%AB&amp;action=edit&amp;redlink=1" title="Falassë (page does not exist)">falassë</a></i> ("bờ biển, bãi biển, lướt sóng") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%BAm%C3%ABa&amp;action=edit&amp;redlink=1" title="Númëa (page does not exist)">númëa</a></i> ("ở phía tây, phía tây").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Falassë Númëa* có trong [Qenya](../Q/Qenya.md), nghĩa là "Lướt sóng phương Tây".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó là sự kết hợp của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Falass%C3%AB&amp;action=edit&amp;redlink=1" title="Falassë (page does not exist)">falassë</a></i> ("bờ biển, bãi biển, lướt sóng") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=N%C3%BAm%C3%ABa&amp;action=edit&amp;redlink=1" title="Númëa (page does not exist)">númëa</a></i> ("ở phía tây, phía tây").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

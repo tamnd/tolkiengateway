@@ -19,7 +19,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-Một ** [con bò](../C/Cows.md)** màu trắng "thuộc về [các nàng tiên](../F/Fairies.md)" sống một mình ở [Artanor](../A/Artanor.md), theo một <a class="new" href="https://tolkiengateway.net/w/index.php?title=Further_specimens_of_Angloquenya_Revised&amp;action=edit&amp;redlink=1" title="Further specimens of Angloquenya Revised (page does not exist)">bài thơ</a> mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết bằng [tiếng Anh](../M/Modern_English.md) với bảng chữ cái *Angloquenya*. Mặc dù không có thông tin nào khác về sinh vật này, nhưng có thể bản thân con bò là một sinh vật [Faërie](../F/Faërie.md).<sup id="cite_ref-PE18_1-0" class="reference"><a href="#cite_note-PE18-1">[1]</a></sup>
+Một **con bò [màu trắng](../C/Cows.md)** màu trắng "thuộc về [các nàng tiên](../F/Fairies.md)" sống một mình trong [Artanor](../A/Artanor.md), theo một <a class="new" href="https://tolkiengateway.net/w/index.php?title=Further_specimens_of_Angloquenya_Revised&amp;action=edit&amp;redlink=1" title="Further specimens of Angloquenya Revised (page does not exist)">bài thơ</a> được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết bằng [tiếng Anh](../M/Modern_English.md) với bảng chữ cái *Angloquenya*. Mặc dù không có thông tin nào khác về sinh vật này, nhưng có thể bản thân con bò là một sinh vật [Faërie](../F/Faërie.md).<sup id="cite_ref-PE18_1-0" class="reference"><a href="#cite_note-PE18-1">[1]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <div style="font-style:italic; margin-left:20px;" class="poem">
@@ -37,7 +37,7 @@ Một ** [con bò](../C/Cows.md)** màu trắng "thuộc về [các nàng tiên]
 
 ## Cảm hứng {#Inspiration}
 
-Như [Arden R. Smith](../A/Arden_R._Smith.md) đã lưu ý, "không có gì về một con bò trắng ở Artanor hay [Doriath](../D/Doriath.md) xuất hiện ở nơi khác trong [huyền thoại](../L/Legendarium.md) đã xuất bản, nhưng những con bò trắng như những cư dân của thế giới cổ tích là mô-típ phổ biến trong [thần thoại Celtic](../C/Celtic.md)".<sup id="cite_ref-PE18_1-1" class="reference"><a href="#cite_note-PE18-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Như [Arden R. Smith](../A/Arden_R._Smith.md) đã lưu ý, "không có thông tin nào về con bò trắng trong Artanor hoặc [Doriath](../D/Doriath.md) xuất hiện ở nơi khác trong [truyền thuyết](../L/Legendarium.md) đã xuất bản, nhưng những con bò trắng như những cư dân của thế giới cổ tích là mô-típ phổ biến trong [Celtic](../C/Celtic.md) thần thoại".<sup id="cite_ref-PE18_1-1" class="reference"><a href="#cite_note-PE18-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Govar, Daniel"
 ---
 
-- Daniel Govar đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Daniel_Govar.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Daniel Govar đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Daniel_Govar.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 15 tháng 8 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng:KingAragorn](https://tolkiengateway.net/wiki/User:KingAragorn)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Attack on Dol Guldur"
 ---
 
-Chuyển hướng tới [Tấn công Dol Guldur](Attack_on_Dol_Guldur.md).
+Chuyển hướng tới [Tấn công vào Dol Guldur](Attack_on_Dol_Guldur.md).

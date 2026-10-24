@@ -68,7 +68,7 @@ Sự kiện xảy ra vào ngày 10 tháng 5
 - **[1997](1997.md)** - Ngày thứ hai của [Bree Moot 3](../B/Bree_Moot_3.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Minneapolis" title="wikipedia:Minneapolis">Minneapolis</a>.
 - **[2008](2008.md)** - Nghệ sĩ [Frank Frazetta](../F/Frank_Frazetta.md) qua đời.
 - **[2019](2019.md)** - Phim tiểu sử *[Tolkien](<../T/Tolkien_(film).md>)*được phát hành tại Mỹ.
-- **[2021](2021.md)** - [Houghton Miffin](../H/Houghton_Mifflin_Harcourt.md) được mua lại bởi [HarperCollins](../H/HarperCollins.md).
+- **[2021](2021.md)** - [Houghton Miffin](../H/Houghton_Mifflin_Harcourt.md) được mua bởi [HarperCollins](../H/HarperCollins.md).
 - **[2023](2023.md)** - [The Lord of the Rings: Heroes of Middle-earth](../T/The_Lord_of_the_Rings%253A_Heroes_of_Middle-earth.md) được phát hành trực tuyến.
 
 ## Trong Arda {#In_Arda}

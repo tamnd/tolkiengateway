@@ -31,7 +31,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Army life, <a href="../W/World_War_I.md" title="World War I">World War I</a></td></tr>
 </tbody></table>
 
-<i><b>Nhà nguyện trống</b></i> là một <a class="extiw" href="http://en.wikipedia.org/wiki/War_poetry" title="wikipedia:War poetry">bài thơ chiến tranh</a> chưa hoàn thành được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kể về một người lính đơn độc "trong một nhà nguyện trống rỗng im lặng" nghe thấy tiếng trống và tiếng bước chân bước đến từ khu rừng bên ngoài.<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
+<i><b>Nhà nguyện trống</b></i> là một <a class="extiw" href="http://en.wikipedia.org/wiki/War_poetry" title="wikipedia:War poetry">bài thơ chiến tranh</a> chưa hoàn thành được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về một người lính đơn độc "trong một nhà nguyện trống rỗng im lặng" nghe thấy tiếng trống và tiếng bước chân bước tới từ khu rừng bên ngoài.<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -48,9 +48,9 @@ infobox:
 
 ## Nền {#Background}
 
-Vào khoảng "từ cuối [tháng 7](../J/July.md) đến đầu [tháng 9](../S/September.md)" của [1915](../_/1915.md), Tolkien có thể đã cố gắng viết một bài thơ về trải nghiệm đầu tiên của mình trong cuộc sống quân ngũ. Ông đã viết nó vào một trong những cuốn sổ tay thơ của mình trên bốn trang từ *[The Swallow, and the Traveller on the Plains](../T/The_Swallow,_and_the_Traveller_on_the_Plains.md)* đến *[The Pines of Aryador](../A/A_Song_of_Aryador.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Thỉnh thoảng "từ cuối [tháng 7](../J/July.md) đến đầu [tháng Chín](../S/September.md)" của [1915](../_/1915.md), Tolkien có thể đã cố gắng viết một bài thơ về trải nghiệm đầu tiên của anh trong cuộc sống quân ngũ. Ông đã viết nó vào một trong những cuốn sổ tay thơ của mình trên bốn trang từ *[The Swallow, and the Traveller on the Plains](../T/The_Swallow,_and_the_Traveller_on_the_Plains.md)* đến *[The Pines of Aryador](../A/A_Song_of_Aryador.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [2024](../_/2024.md), đoạn quan trọng nhất được xuất bản vào tháng 9 dưới dạng mục 36 của *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-collectedpoems_1-2" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> Theo một cuộc phỏng vấn do Dalya Alberge của The Guardian thực hiện, [Christina Scull](../C/Christina_Scull.md), một trong những người biên tập bộ sưu tập, nhận thấy bài thơ "rất có ảnh hưởng".<sup id="cite_ref-interview_3-0" class="reference"><a href="#cite_note-interview-3">[3]</a></sup>
+Trong [2024](../_/2024.md), đoạn quan trọng nhất đã được xuất bản trong tháng Chín dưới dạng mục 36 của *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-collectedpoems_1-2" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> Theo một cuộc phỏng vấn do Dalya Alberge của The Guardian thực hiện, [Christina Scull](../C/Christina_Scull.md), một trong những người biên tập bộ sưu tập, nhận thấy bài thơ "rất có ảnh hưởng".<sup id="cite_ref-interview_3-0" class="reference"><a href="#cite_note-interview-3">[3]</a></sup>
 
 Trong phần giới thiệu về *The Collected Poems of J.R.R. Tolkien*, *Empty Chapel* được mô tả là "một tác phẩm đầy ám ảnh mang không khí thời Tiền Raphaelite".<sup id="cite_ref-collectedpoemsintro_4-0" class="reference"><a href="#cite_note-collectedpoemsintro-4">[4]</a></sup> Trong Phụ lục và Corrigenda của họ, Hammond và Scull đã liên kết tâm trạng của bài thơ "với thơ ca Arthurian và nghệ thuật Tiền Raphaelite", nhưng chọn không viết điều này trong *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

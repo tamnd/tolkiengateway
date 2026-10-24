@@ -38,4 +38,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Mount Doom** là bài hát đầu tiên trong đĩa 4 của *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Núi Diệt Vong** là bài hát đầu tiên trong đĩa 4 của *[The Lord of the Rings: The Return of the King - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).

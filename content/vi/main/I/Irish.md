@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celtic"
 ---
 
-Chuyển hướng tới [Celtic](../C/Celtic.md).
+Chuyển hướng đến [Celtic](../C/Celtic.md).

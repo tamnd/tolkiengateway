@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Treasures of Middle-earth"
 ---
 
-Chuyển hướng tới [Kho báu của Trung địa](Treasures_of_Middle-earth.md).
+Chuyển hướng đến [Kho báu của Trung Địa](Treasures_of_Middle-earth.md).

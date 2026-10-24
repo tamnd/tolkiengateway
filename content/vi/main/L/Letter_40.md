@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Michael Tolkien tình nguyện tham gia nghĩa vụ quân sự vào tháng 9 năm 1939. Ông được yêu cầu học một năm tại một trường đại học và sau đó nhập ngũ. Ông vào trường Trinity College, Oxford, nhưng sau đó rời đi vào mùa hè năm 1940 để đào tạo thành xạ thủ phòng không. J.R.R. Tolkien viết rằng ông rất tiếc vì sự nghiệp Varsity của Michael đã bị cắt làm đôi. Tolkien triết lý rằng những gì chúng ta đang làm và làm ở hiện tại mới là điều quan trọng, không phải kế hoạch cho tương lai, nhưng nhận thấy sự thoải mái lạnh lùng đó khi xem xét sự lãng phí thời gian và chủ nghĩa quân phiệt của quân đội. Ông nói rằng sau khi nhập ngũ, ông có rất nhiều thứ để viết và những thứ cần học, nhưng chưa bao giờ nhặt lại được tất cả. <br>
+Michael Tolkien tình nguyện nhập ngũ tháng Chín năm 1939. Người ta bảo ông học một năm ở trường đại học rồi nhập ngũ. Ông vào trường Cao đẳng Trinity, Oxford, nhưng sau đó rời đi vào mùa hè năm 1940 để đào tạo thành xạ thủ phòng không. J.R.R. Tolkien viết rằng ông rất tiếc vì sự nghiệp Varsity của Michael đã bị cắt làm đôi. Tolkien triết lý rằng những gì chúng ta đang làm và làm trong hiện tại mới là điều quan trọng, không phải kế hoạch cho tương lai, nhưng lại thấy sự an ủi lạnh lùng khi xem xét sự lãng phí thời gian và chủ nghĩa quân phiệt của quân đội. Ông nói rằng sau khi nhập ngũ, ông có rất nhiều thứ để viết và những thứ cần học, nhưng chưa bao giờ nhặt lại được tất cả. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

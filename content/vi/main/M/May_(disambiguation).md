@@ -20,9 +20,9 @@ images:
 ## Lịch {#Calendars}
 
 - [Tháng 5](May.md), tháng thứ năm theo lịch Gregory.
-    - [Lótessë](../L/Lótessë.md), tương đương với [Quenya](../Q/Quenya.md).
+    - [Lótessë](../L/Lótessë.md), tương đương [Quenya](../Q/Quenya.md).
     - [Lothron](../L/Lothron.md), tương đương với [Sindarin](../S/Sindarin.md).
-    - [Thrimidge](../T/Thrimidge.md), tên tương đương với Quận.
+    - [Thrimidge](../T/Thrimidge.md), tên Shire tương đương.
 
 ## Nhân vật {#Characters}
 

@@ -21,22 +21,22 @@ images:
 
 **Minstrels** là những người có khả năng sáng tác và hát các bài hát. Mặc dù nhiều người đã hát và một số sáng tác bài hát, nhưng chỉ một số ít trở nên nổi tiếng rộng rãi nhờ các sáng tác âm nhạc của họ. Được biết đến với cái tên:
 
-- [Daeron](../D/Daeron.md) của [Thời đại thứ nhất](../F/First_Age.md), người là ca sĩ triều đình của Vua [Thingol](../T/Thingol.md) của [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- [Dírhaval](../D/Dírhaval.md) của Thời đại thứ nhất, người đã viết *[Narn i Chîn Húrin](<../N/Narn_i_Chîn_Húrin_(tale).md>)*, tác phẩm dài nhất trong số tất cả các tác phẩm đến từ Beleriand.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [Gléowine](../G/Gléowine.md) vào cuối [Kỷ thứ ba](../T/Third_Age.md), là ca sĩ triều đình của Vua [Théoden](../T/Théoden.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- [Glirhuin](../G/Glirhuin.md) của Thời đại thứ nhất, là một [nhà tiên tri](../S/Seer.md) và người chơi đàn hạc, người đã sáng tác một bài hát dự đoán rằng [Hòn đá bất hạnh](../S/Stone_of_the_Hapless.md) sẽ không bao giờ bị ô uế hoặc chìm dưới đáy biển.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- [Maglor](Maglor.md) của Thời đại thứ nhất, là người thứ hai trong số [Những đứa con của Fëanor](../S/Sons_of_Fëanor.md) và nổi tiếng là một nhà thơ và thi sĩ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
-- Một [minstrel](Minstrel_of_Gondor.md) của [Gondor](../G/Gondor.md) vào cuối Thời đại thứ ba đã sáng tác một thiên anh hùng ca kể lại [câu chuyện](../Q/Quest_of_the_Ring.md) "*[of Frodo of the Nine Fingers and the Ring of Doom](../F/Frodo_of_the_Nine_Fingers.md)*".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+- [Daeron](../D/Daeron.md) của [Kỷ Đệ Nhất](../F/First_Age.md), người hát rong của Vua [Thingol](../T/Thingol.md) của [Doriath](../D/Doriath.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Dírhaval](../D/Dírhaval.md) của Kỷ Đệ Nhất, người đã viết *[Narn i Chîn Húrin](<../N/Narn_i_Chîn_Húrin_(tale).md>)*, bài viết dài nhất trong số tất cả các bài viết của Beleriand.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Gléowine](../G/Gléowine.md) của [Kỷ Đệ Tam](../T/Third_Age.md) quá cố, là nghệ sĩ biểu diễn cung đình của Vua [Théoden](../T/Théoden.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [Glirhuin](../G/Glirhuin.md) của Kỷ Đệ Nhất, là một [nhà tiên tri](../S/Seer.md) và người chơi đàn hạc, người đã sáng tác một bài hát dự đoán rằng [Hòn đá của sự xui xẻo](../S/Stone_of_the_Hapless.md) sẽ không bao giờ bị ô uế hoặc chìm dưới đáy biển.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- [Maglor](Maglor.md) của Kỷ Đệ Nhất, là người thứ hai trong [các Con trai của Fëanor](../S/Sons_of_Fëanor.md) và nổi tiếng là một nhà thơ và thi sĩ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- Một [minstrel](Minstrel_of_Gondor.md) của [Gondor](../G/Gondor.md) vào thời kỳ cuối Kỷ Đệ Tam đã sáng tác một bài sử thi kể lại [câu chuyện](../Q/Quest_of_the_Ring.md) "*[of Frodo of the Nine Fingers and the Ring of Doom](../F/Frodo_of_the_Nine_Fingers.md)*".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ [Quenya](../Q/Quenya.md) đầy chất thơ dành cho "người hát rong, người đọc thuộc lòng" là <i><b>quenso</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Một từ [Quenya](../Q/Quenya.md) đầy chất thơ dành cho "minstrel, người đọc thuộc lòng" là <i><b>quenso</b></i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, có "ba cầu thủ ma thuật nhất của Yêu tinh": [Dairon](../D/Dairon.md), [Tifang](../T/Tinfang.md) và [Ivárë](../I/Ivárë.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, có "ba cầu thủ ma thuật nhất Tiên tộc": [Dairon](../D/Dairon.md), [Tifang](../T/Tinfang.md) và [Ivárë](../I/Ivárë.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-Trong *[Lay of Leithian](../L/Lay_of_Leithian.md)*, những nghệ sĩ hát rong vĩ đại nhất của Yêu tinh là Tinfang Gelion, Maglor và Daeron.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trong *[Lay of Leithian](../L/Lay_of_Leithian.md)*, những nghệ sĩ hát rong vĩ đại nhất của Tiên tộc là Tinfang Gelion, Maglor và Daeron.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 <span></span>
 

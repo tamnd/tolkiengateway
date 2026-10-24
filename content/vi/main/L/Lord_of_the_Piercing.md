@@ -18,7 +18,7 @@ Bản nhại này cũng được đưa vào như một Easter Egg trong bản ph
 
 ## Lô đồ {#Plot}
 
-Tác phẩm nhại có sự góp mặt của Jack Black và Sarah Michelle Gellar tại [Hội đồng Elrond](../C/Council_of_Elrond.md). Khi được yêu cầu mang ra [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), Jack thú nhận rằng trong lúc say rượu, anh đã để nó đâm vào vùng kín. Ông thể hiện điều này bằng cách kéo quần xuống. Sau đó, một cuộc thảo luận diễn ra, sau đó nhân vật của Gellar xé chiếc Nhẫn.
+Tác phẩm nhại có sự tham gia của Jack Black và Sarah Michelle Gellar tại [Hội đồng Elrond](../C/Council_of_Elrond.md). Khi được yêu cầu mang ra [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), Jack thú nhận rằng trong lúc say rượu, anh đã để nó đâm vào vùng kín. Ông thể hiện điều này bằng cách kéo quần xuống. Sau đó, một cuộc thảo luận diễn ra, sau đó nhân vật của Gellar xé chiếc Nhẫn.
 
 ## Truyền {#Cast}
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Locricchio, Matthew"
 ---
 
-**Matthew J. Locricchio** ([3 tháng 6](../_/3_June.md), [1947](../_/1947.md)) là một diễn viên người Mỹ. Ông chơi [Éomer](../_/Éomer.md) trong [*The Lord of the Rings* (loạt phim phát thanh năm 1979)](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>).
+**Matthew J. Locricchio** ([3 tháng 6](../_/3_June.md), [1947](../_/1947.md)) là một diễn viên người Mỹ. Ông đã chơi [Éomer](../_/Éomer.md) trong [*The Lord of the Rings* (loạt phim phát thanh năm 1979)](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

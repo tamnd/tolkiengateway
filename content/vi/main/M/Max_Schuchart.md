@@ -29,9 +29,9 @@ langlinks:
 
 <h2><span id=".22In_de_Ban_van_de_Ring.22"></span><span class="mw-headline" id="&#34;In_de_Ban_van_de_Ring&#34;">&#34;In de Ban van de Ring&#34;</span></h2>
 
-Schuchart là người đầu tiên dịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (bằng [1956](../_/1956.md)-[1957](../_/1957.md)) và là người thứ ba dịch *[The Hobbit](../T/The_Hobbit.md)*. Ông cũng là người đầu tiên dịch *[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)* và *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*. Ông đã viết một cuốn sách nhỏ tên là *[Tolkien: In de Ban van zijn Werk](../T/Tolkien%253A_In_de_Ban_van_zijn_Werk.md)*, về [Tolkien](../J/J.R.R._Tolkien.md), các tác phẩm của ông, chuyến thăm Hà Lan vào [1958](../_/1958.md) và sự tham gia của ông vào việc dịch thuật tiếng Hà Lan của *The Lord of the Rings*.
+Schuchart là người đầu tiên dịch *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (bằng [1956](../_/1956.md)-[1957](../_/1957.md)) và là người thứ ba dịch *[The Hobbit](../T/The_Hobbit.md)*. Ông cũng là người đầu tiên dịch *[Bilbo's Last Song](../B/Bilbo's_Last_Song.md)* và *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*. Ông đã viết một cuốn sách nhỏ có tên *[Tolkien: In de Ban van zijn Werk](../T/Tolkien%253A_In_de_Ban_van_zijn_Werk.md)*, về [Tolkien](../J/J.R.R._Tolkien.md), các tác phẩm của ông, chuyến thăm Hà Lan vào [1958](../_/1958.md) và sự tham gia của ông vào việc dịch thuật tiếng Hà Lan của *The Lord of the Rings*.
 
-Schuchart đã sửa lại bản dịch của mình ba lần, trong [1980](../_/1980.md) (kết hợp những thay đổi được thực hiện cho [Ấn bản thứ hai](../T/The_Lord_of_the_Rings.md#Publication_History) của bản gốc và với [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) dưới dạng một tập riêng biệt, bao gồm C, toàn bộ nội dung của D, E và F I lần đầu tiên), trong [1996](../_/1996.md) (bản này được xuất bản [năm tiếp theo](../_/1997.md)) và trong [2003](../_/2003.md) (bao gồm [Phụ lục F](../A/Appendix_F.md) II lần đầu tiên).
+Schuchart đã sửa lại bản dịch của mình ba lần, trong [1980](../_/1980.md) (kết hợp các thay đổi được thực hiện cho [Ấn bản thứ hai](../T/The_Lord_of_the_Rings.md#Publication_History) của bản gốc và với [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) dưới dạng một tập riêng biệt, bao gồm C, toàn bộ văn bản của D, E và F I lần đầu tiên), trong [1996](../_/1996.md) (cuốn sách này được xuất bản [năm tiếp theo](../_/1997.md)) và trong [2003](../_/2003.md) (bao gồm [Phụ lục F](../A/Appendix_F.md) II lần đầu tiên thời gian).
 
 ## Thư mục {#Bibliography}
 
@@ -73,7 +73,7 @@ Schuchart đã sửa lại bản dịch của mình ba lần, trong [1980](../_/
     - *De Smid van Groot-Wolding* (bản dịch mới)
 - [2000](../_/2000.md): *Boer Gilles van Ham*
 - [2001](../_/2001.md): *Brieven* (bản dịch đã được sửa lại)
-- [2001](../_/2001.md): *Chúa tể của những chiếc nhẫn: Het Officiële Filmboek* (*[The Lord of the Rings: Official Movie Guide](../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md)*, bởi [Brian Sibley](../B/Brian_Sibley.md))
+- [2001](../_/2001.md): *The Lord of the Rings: Het Officiële Filmboek* (*[The Lord of the Rings: Official Movie Guide](../T/The_Lord_of_the_Rings%253A_Official_Movie_Guide.md)*, bởi [Brian Sibley](../B/Brian_Sibley.md))
 - [2001](../_/2001.md): *In de Ban van de Ring: De Reisgenoten: Wegwijzer tot Midden-Aarde* (*[The Lord of the Rings: The Fellowship of the Ring Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Visual_Companion.md)*, bởi [Jude Fisher](../J/Jude_Fisher.md))
 - [2002](../_/2002.md): *Roverandom* (*[Roverandom](../R/Roverandom.md)*)
 - [2002](../_/2002.md): *In de ban van de ring: De Twee Torens: Wegwijzer tot Midden-Aarde* (*[The Lord of the Rings: The Two Towers Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md)*, bởi Jude Fisher)
@@ -85,7 +85,7 @@ Schuchart đã sửa lại bản dịch của mình ba lần, trong [1980](../_/
 - [2003](../_/2003.md): *De Smid van Groot-Wolding*
     - (bao gồm cả *Boer Gilles van Ham*)
 - [2003](../_/2003.md): *In de Ban van de Ring: De Terugkeer van de Koning: Wegwijzer tot Midden-Aarde* (*[The Lord of the Rings: The Return of the King Visual Companion](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md)*, bởi Jude Fisher)
-- [2003](../_/2003.md): *Chúa tể của những chiếc nhẫn: De Terugkeer van de Koning: de Officiële Fotogids* (*[The Lord of the Rings: The Return of the King Photo Guide](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md)*, bởi [David Brawn](../D/David_Brawn.md))
+- [2003](../_/2003.md): *The Lord of the Rings: De Terugkeer van de Koning: de Officiële Fotogids* (*[The Lord of the Rings: The Return of the King Photo Guide](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King_Photo_Guide.md)*, bởi [David Brawn](../D/David_Brawn.md))
 
 ### Sách {#Books}
 

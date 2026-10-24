@@ -30,12 +30,12 @@ images:
 
 ### Sách {#Books}
 
-- [2013](../_/2013.md): *Here Be Dragons: Khám phá bối cảnh và bản đồ giả tưởng*
+- [2013](../_/2013.md): *Đây Rồng: Khám phá các cài đặt và bản đồ ảo*
 
 ### Bài viết {#Articles}
 
 - [2009](../_/2009.md): [*Tolkien Studies*: Tập 6](../T/Tolkien_Studies%253A_Volume_6.md)
-    - "Tiếng vọng của *Pearl* trong Phong cảnh Arda"
+    - "Tiếng vang của *Pearl* trong Phong cảnh của Arda"
 
 ## Liên kết ngoài {#External_links}
 

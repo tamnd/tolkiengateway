@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "LOTRO Quest"
 ---
 
-<i><b>LOTRO Quest</b></i> là một podcast dành cho những người chơi *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* tham gia một nhiệm vụ và biến cuộc trò chuyện trong nhóm của họ thành một podcast. It is produced by [Middle-earth Network Radio](../M/Middle-earth_Network.md).
+<i><b>LOTRO Quest</b></i> là một podcast dành cho những người chơi *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)* tham gia một nhiệm vụ và biến cuộc trò chuyện trong nhóm của họ thành một podcast. Nó được sản xuất bởi [Trung Địa Network Radio](../M/Middle-earth_Network.md).
 
 ## Liên kết ngoài {#External_links}
 

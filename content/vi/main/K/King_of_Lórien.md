@@ -16,9 +16,9 @@ sort_keys:
   "Rulers in Middle-earth": "King of Lorien"
 ---
 
-Một danh hiệu cổ xưa dành cho những người cai trị vùng đất [Lothlórien](../L/Lothlórien.md), trong đó [Amroth](../A/Amroth.md) là tước hiệu cuối cùng khi ông từ bỏ nó mà không để lại người thừa kế.
+Một tước vị cổ xưa dành cho những người cai trị vùng đất [Lothlórien](../L/Lothlórien.md), trong đó [Amroth](../A/Amroth.md) là tước hiệu cuối cùng khi ông từ bỏ nó mà không để lại người thừa kế.
 
-Khi [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) đến cai trị Lórien, họ đã từ bỏ danh hiệu "Vua" và "Nữ hoàng" và vẫn được gọi là [Chúa](../L/Lord_of_Lórien.md) và [Phu nhân của Lórien](../L/Lady_of_Lórien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) lên nắm quyền cai trị Lórien, họ đã từ bỏ danh hiệu "Vua" và "Nữ hoàng" và vẫn được gọi là [Chúa](../L/Lord_of_Lórien.md) và [Phu nhân của Lórien](../L/Lady_of_Lórien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Người nắm giữ {#Holders}
 

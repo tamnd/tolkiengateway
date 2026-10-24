@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - Fabio Leone đã vui lòng cho phép [tác phẩm nghệ thuật của ông](../../category/I/Images_by_Fabio_Leone.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 18 tháng 9 năm 2014
+- Ngày: 18 tháng Chín năm 2014
 - Người dùng đã xin phép thông qua deviantArt: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

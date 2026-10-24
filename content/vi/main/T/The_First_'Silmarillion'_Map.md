@@ -36,4 +36,4 @@ images:
 <li><a href="The_Earliest_Annals_of_Beleriand.md" title="The Earliest Annals of Beleriand">The Earliest Annals of Beleriand</a></li></ol>
 </td></tr></tbody></table>
 
-**Bản đồ 'Silmarillion' đầu tiên** là chương thứ tư của *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*. Chương này tái hiện các bản đồ khác nhau liên quan đến [Bản đồ 'Silmarillion' đầu tiên](<The_First_'Silmarillion'_Map_(map).md>), cùng với nhận xét của [Christopher Tolkien](../C/Christopher_Tolkien.md).
+**Bản đồ 'Silmarillion' đầu tiên** là chương thứ tư của *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*. Chương này tái tạo các bản đồ khác nhau được liên kết với [Bản đồ 'Silmarillion' đầu tiên](<The_First_'Silmarillion'_Map_(map).md>), cùng với các nhận xét của [Christopher Tolkien](../C/Christopher_Tolkien.md).

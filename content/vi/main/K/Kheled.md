@@ -13,7 +13,7 @@ categories:
   - "Khuzdul words"
 ---
 
-**kheled** có nghĩa là "thủy tinh" trong [Khuzdul](Khuzdul.md).
+**kheled** có nghĩa là "kính" trong [Khuzdul](Khuzdul.md).
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guest-elves"
 ---
 
-Chuyển hướng tới [Yêu tinh khách](Guest-elves.md).
+Chuyển hướng đến [Khách-Tiên tộc](Guest-elves.md).

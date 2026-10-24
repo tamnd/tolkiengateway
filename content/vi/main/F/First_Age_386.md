@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_375.md" title="First Age 375">375</a><a href="First_Age_376.md" title="First Age 376">376</a><a href="First_Age_380.md" title="First Age 380">380</a><a class="mw-selflink selflink">386</a><a href="First_Age_389.md" title="First Age 389">389</a><a href="First_Age_390.md" title="First Age 390">390</a><a href="First_Age_391.md" title="First Age 391">391</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 386** (viết tắt là **F.A. 386**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 386 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 386** (viết tắt là **F.A. 386**) là năm [thứ 386 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 

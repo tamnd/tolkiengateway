@@ -40,7 +40,7 @@ Trong những năm cuối đời, Oswin sống trong một "ngôi nhà nhỏ ở
 
 ## Từ nguyên {#Etymology}
 
-Tên *Oswin* ([Tiếng Anh cổ](Old_English.md): <a class="mw-disambig" href="../_/Óswine_(disambiguation).md" title="Óswine (disambiguation)">Óswine</a>) chứa các phần tử *os* ("thần") và *wine* ("bạn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cái tên khó chịu của Oswin *Oswald* ([Tiếng Anh cổ](Old_English.md)) chứa các phần tử *os* ("thần") và *weald* ("quyền lực, người cai trị").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên *Oswin* ([tiếng Anh cổ](Old_English.md): <a class="mw-disambig" href="../_/Óswine_(disambiguation).md" title="Óswine (disambiguation)">Óswine</a>) chứa các phần tử *os* ("thần") và *wine* ("bạn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cái tên khó chịu của Oswin *Oswald* ([tiếng Anh cổ](Old_English.md)) chứa các phần tử *os* ("thần") và *weald* ("quyền lực, kẻ thống trị").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

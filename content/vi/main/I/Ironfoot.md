@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dáin Ironfoot"
 ---
 
-Chuyển hướng tới [Dáin Ironfoot](../D/Dáin_Ironfoot.md).
+Chuyển hướng đến [Dáin Chân Sắt](../D/Dáin_Ironfoot.md).

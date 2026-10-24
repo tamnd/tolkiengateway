@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong một bức thư gửi nhà xuất bản [Allen & Unwin](../A/Allen_&_Unwin.md), Tolkien đưa ra hai thiết kế sơ bộ cho áo khoác của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* và *[The Two Towers](../T/The_Two_Towers.md)*. Ông mô tả những thiết kế này là "khái niệm" do thiếu sót về mặt kỹ thuật nhưng gợi ý rằng một nghệ sĩ lành nghề có thể tinh chỉnh hoặc mở rộng chúng.
+Trong một bức thư gửi nhà xuất bản [Allen &amp; Unwin](../A/Allen_&_Unwin.md), Tolkien bao gồm hai thiết kế sơ bộ cho áo khoác của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* và *[The Two Towers](../T/The_Two_Towers.md)*. Ông mô tả những thiết kế này là "khái niệm" do thiếu sót về mặt kỹ thuật nhưng gợi ý rằng một nghệ sĩ lành nghề có thể tinh chỉnh hoặc mở rộng chúng.
 
-Tolkien lưu ý rằng ông đã cung cấp hình thức và ý nghĩa chính xác của [chữ Elf](../T/The_Lord_of_the_Rings.md#Inscriptions) được sử dụng trong các thiết kế. Ông cũng đề cập rằng văn bản bổ sung, chẳng hạn như "*The Lord of the Rings* (Phần I hoặc II)" có thể được thêm vào bìa hoặc đặt ở mặt sau.
+Tolkien lưu ý rằng ông đã cung cấp hình thức và ý nghĩa chính xác của [Elvish chữ](../T/The_Lord_of_the_Rings.md#Inscriptions) được sử dụng trong các thiết kế. Ông cũng đề cập rằng văn bản bổ sung, chẳng hạn như "*The Lord of the Rings* (Phần I hoặc II)" có thể được thêm vào bìa hoặc đặt ở mặt sau.
 
 <br>
 

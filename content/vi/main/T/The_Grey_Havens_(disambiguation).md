@@ -16,11 +16,11 @@ images:
   - "Disambig.png"
 ---
 
-**The Grey Havens** có thể đề cập đến:
+**Các Cảng Xám** có thể đề cập đến:
 
 ## Địa điểm {#Locations}
 
-- *[Grey Havens](../G/Grey_Havens.md)* hoặc *Mithlond*, các bến cảng trên bờ biển phía tây của [Eriador](../E/Eriador.md) ở [Trung Địa](../M/Middle-earth.md).
+- *[Grey Havens](../G/Grey_Havens.md)*, hoặc *Mithlond*, các bến cảng ở bờ biển phía tây của [Eriador](../E/Eriador.md) tại [Trung Địa](../M/Middle-earth.md).
 
 ## Chương {#Chapters}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cracks of Doom"
 ---
 
-Chuyển hướng tới [Cracks of Doom](../C/Cracks_of_Doom.md).
+Chuyển hướng đến [Cracks of Doom](../C/Cracks_of_Doom.md).

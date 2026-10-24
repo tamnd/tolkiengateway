@@ -68,7 +68,7 @@ Sự kiện xảy ra vào ngày 11 tháng 3
 - **[1963](1963.md)** - Nhà sản xuất [Zane Weiner](../Z/Zane_Weiner.md) ra đời.
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 284a](../L/Letter_284a.md).
 - **[1989](1989.md)** - Diễn viên [John Wyse](../J/John_Wyse.md) qua đời.
-- **[2003](2003.md)** - *[At Dawn in Rivendell](../A/At_Dawn_in_Rivendell.md)*, album thứ ba của [Tolkien Ensemble](../T/Tolkien_Ensemble.md), được phát hành (được thu âm vào năm trước). Nó có các bài đọc của [Christopher Lee](../C/Christopher_Lee.md).
+- **[2003](2003.md)** - *[At Dawn in Rivendell](../A/At_Dawn_in_Rivendell.md)*, album thứ ba của [Tolkien Ensemble](../T/Tolkien_Ensemble.md), được phát hành (được thu âm vào năm trước). Nó có các bài đọc thuộc lòng của [Christopher Lee](../C/Christopher_Lee.md).
 - **[2005](2005.md)** - Người vẽ bản đồ [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) qua đời vì biến chứng của bệnh ung thư vú.
 - **[2007](2007.md)** - "[Lễ kỷ niệm một chiếc nhẫn](../T/The_One_Ring_Celebration.md) 2007" ở <a class="extiw" href="http://en.wikipedia.org/wiki/Burbank,_California" title="wikipedia:Burbank, California">Burbank, California</a>.
 - **[2008](2008.md)** - *[Tolkien's The Lord of the Rings – Sources of Inspiration](../T/Tolkien's_The_Lord_of_the_Rings_–_Sources_of_Inspiration.md)* được xuất bản.
@@ -78,10 +78,10 @@ Sự kiện xảy ra vào ngày 11 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) và những người bạn đồng hành của ông đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Gollum](../G/Gollum.md) đến thăm [Shelob](../S/Shelob.md), nhưng khi nhìn thấy [Frodo](../F/Frodo_Baggins.md) đang ngủ, ông ta gần như quyết định không theo đuổi kế hoạch lấy lại [Chiếc nhẫn](../T/The_One_Ring.md) của mình.
-    - [Denethor](../D/Denethor.md) gửi [Faramir](../F/Faramir.md) tới [Osgiliath](../O/Osgiliath.md).
-    - [Aragorn](../A/Aragorn.md) cùng với [Grey Company](../G/Grey_Company.md) và [Dead Men](../O/Oathbreakers.md) đến [Linhir](../L/Linhir.md) và băng qua [Lebennin](../L/Lebennin.md).
-    - [Aragorn](../A/Aragorn.md) ra giá [Angbor](../A/Angbor.md) của [Lamedon](../L/Lamedon.md) đi theo ông ta đến [Pelargir](../P/Pelargir.md), nơi "[Người thừa kế của Isildur](../H/Heir_of_Isildur.md) cần ông ta".
-    - [Rohirrim](../R/Rohirrim.md) đi về hướng [Minas Tirith](../M/Minas_Tirith.md).
-    - [Miền Đông](../E/Eastemnet.md) [Rohan](../R/Rohan.md) bị xâm lược từ phía bắc.
-    - Orc của [Dol Guldur](../D/Dol_Guldur.md) [tấn công](../A/Assaults_on_Lothlórien.md) [Lothlórien](../L/Lothlórien.md), nhưng chúng bị đánh trả.
+    - [Gollum](../G/Gollum.md) đến thăm [Shelob](../S/Shelob.md), nhưng khi thấy [Frodo](../F/Frodo_Baggins.md) đang ngủ, anh gần như quyết định không theo đuổi kế hoạch lấy lại [Chiếc nhẫn](../T/The_One_Ring.md) của mình.
+    - [Denethor](../D/Denethor.md) gửi [Faramir](../F/Faramir.md) đến [Osgiliath](../O/Osgiliath.md).
+    - [Aragorn](../A/Aragorn.md) cùng với [Đại đội Grey](../G/Grey_Company.md) và [Người chết Con Người](../O/Oathbreakers.md) đến được [Linhir](../L/Linhir.md) và băng qua [Lebennin](../L/Lebennin.md).
+    - [Aragorn](../A/Aragorn.md) ra giá [Angbor](../A/Angbor.md) của [Lamedon](../L/Lamedon.md) đi theo ông ta đến [Pelargir](../P/Pelargir.md), nơi "[Người thừa kế Isildur](../H/Heir_of_Isildur.md) cần ông ta".
+    - Chiếc [Rohirrim](../R/Rohirrim.md) di chuyển về phía [Minas Tirith](../M/Minas_Tirith.md).
+    - [Miền Đông](../E/Eastemnet.md) [Rohan](../R/Rohan.md) bị xâm chiếm từ phía bắc.
+    - Orc [Dol Guldur](../D/Dol_Guldur.md) [tấn công](../A/Assaults_on_Lothlórien.md) [Lothlórien](../L/Lothlórien.md), nhưng họ bị đánh trả.

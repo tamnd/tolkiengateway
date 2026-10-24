@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Green Dragon"
 ---
 
-Chuyển hướng tới [Con Rồng Xanh](../T/The_Green_Dragon.md).
+Chuyển hướng tới [The Green Rồng](../T/The_Green_Dragon.md).

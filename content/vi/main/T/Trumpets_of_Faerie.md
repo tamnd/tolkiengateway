@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Trumpets of Faerie"
 ---
 
-Chuyển hướng đến [Tiếng kèn của thần tiên](The_Trumpets_of_Faerie.md).
+Chuyển hướng đến [Tiếng kèn của Faerie](The_Trumpets_of_Faerie.md).

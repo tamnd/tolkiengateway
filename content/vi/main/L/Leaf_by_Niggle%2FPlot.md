@@ -56,7 +56,7 @@ Khi đến nơi, Niggle được chào đón khi nhìn thấy chiếc xe đạp 
 
 Sau khi đạp xe một thời gian dài, khung cảnh xung quanh Niggle ngày càng trở nên quen thuộc hơn cho đến khi anh ngã khỏi xe đạp và nhìn thấy một phát hiện vĩ đại.
 
-Tiết lộ mà Niggle trải nghiệm là cảnh tượng [Great Tree](../G/Great_Tree.md) từ bức tranh tuyệt vời của ông. Ngoại trừ điều đó ở đây, Cái cây của ông là thật và đẹp hơn cả những gì ông có thể tạo ra trong hình thức thiếu sót và chưa hoàn thiện trong bức tranh của mình. Anh chứng kiến ​​những cành lá ngày càng lớn, tiếng chim hót bay vào Rừng và anh thậm chí còn nhìn thấy những ngọn núi xa xăm.
+Tiết lộ mà Niggle trải nghiệm là cảnh tượng [Great Tree](../G/Great_Tree.md) từ bức tranh tuyệt vời của ông. Ngoại trừ điều đó ở đây, Cái cây của ông là thật và đẹp hơn cả những gì ông có thể tạo ra trong hình thức thiếu sót và chưa hoàn thiện trong bức tranh của mình. Anh chứng kiến ​​cành lá ngày càng lớn, tiếng chim hót bay vào rừng và thậm chí anh còn nhìn thấy xa Dãy Núi.
 
 Khi Niggle đi lang thang và khám phá Khu rừng, ông tìm thấy một biến thể của Cây vĩ đại và nhận ra rằng, mặc dù tất cả đã hoàn tất nhưng ông quyết định rằng vẫn còn nhiều việc phải làm ở các khu vực khác nhau của Khu rừng. Ông cũng đi đến kết luận rằng ông không muốn tất cả nơi này trở thành “công viên riêng” của riêng mình mà không có sự giúp đỡ hay lời khuyên. Vì vậy, ông ta quyết định rằng ông ta cần sự giúp đỡ của Mr. Parish và sau vài giây, Niggle tình cờ gặp ông ta và Parish tuyên bố rằng Giọng nói thứ hai đã gửi ông ta.
 
@@ -100,4 +100,4 @@ Tuy nhiên, Giọng nói thứ hai tuyên bố rằng Người khuân vác đã 
 
 Giọng nói thứ nhất ép Giọng nói thứ hai nói ra những gì họ nghĩ và được cho biết:
 
-"Cả hai đều cười. Cười—-Núi vang lên cùng điều đó!"
+"Cả hai đều cười. Cười—-tiếng Dãy Núi vang lên!"

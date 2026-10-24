@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balin's Tomb"
 ---
 
-Chuyển hướng tới [Lăng mộ Balin](../B/Balin's_Tomb.md).
+Chuyển hướng đến Lăng mộ của [Balin](../B/Balin's_Tomb.md).

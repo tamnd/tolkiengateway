@@ -14,19 +14,19 @@ sort_keys:
   "Suffixes": "ings"
 ---
 
-<i><b>-ings</b></i> (hoặc *-ingas*) là hậu tố, được sử dụng trong [huyền thoại](../L/Legendarium.md) để biểu thị những người như vậy. Thường dùng để chỉ những người thuộc về một thủ lĩnh nào đó (hoặc là con cháu của một tổ tiên chung) như Bard (Bardings), hoặc thuộc về một vùng đất nào đó, như Dunland (Dunlendings).
+<i><b>-ings</b></i> (hoặc *-ingas*) là hậu tố, được sử dụng trong [huyền thoại](../L/Legendarium.md) để biểu thị những người như vậy. Thường dùng cho những người thuộc về một lãnh tụ nào đó (hoặc là con cháu của một tổ tiên chung) như Bard (Bardings), hoặc thuộc một vùng đất nhất định, như Dunland (Dunlendings).
 
 ## Ví dụ {#Examples}
 
-- [Thẻ bài](../B/Bardings.md)
-- [Buổi sáng](../B/Beornings.md)
+- [Bardings](../B/Bardings.md)
+- [Beornings](../B/Beornings.md)
 - [Eorlingas](../E/Eorlingas.md)
 - [Helmingas](../H/Helmingas.md)
 - [Cho vay khó khăn](../D/Dunlendings.md)
 
 ## Từ nguyên {#Etymology}
 
-- [Tiếng Anh cổ](../O/Old_English.md) *-ing*, *-ung* (có nguồn gốc từ <a class="extiw" href="http://en.wikipedia.org/wiki/Proto-Germanic_language" title="wikipedia:Proto-Germanic language">tiếng Đức nguyên thủy</a> \**unga*): Hình thành từ phái sinh của danh từ giống đực với ý nghĩa "thuộc về, con trai của".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [tiếng Anh cổ](../O/Old_English.md) *-ing*, *-ung* (có nguồn gốc từ <a class="extiw" href="http://en.wikipedia.org/wiki/Proto-Germanic_language" title="wikipedia:Proto-Germanic language">Proto-Germain</a> \**unga*): Cấu tạo từ phái sinh của danh từ giống đực với ý nghĩa "thuộc về, con trai của".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

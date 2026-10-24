@@ -29,11 +29,11 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../E/E.V._Gordon.md" title="E.V. Gordon">E.V. Gordon</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Ida_Gordon" title="wikipedia:Ida Gordon">Ida Pickles</a></td></tr>
 </tbody></table>
 
-<i><b>Brýdleoþ</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) "như một bài hát cho đám cưới của [E.V. Gordon](../E/E.V._Gordon.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/Ida_Gordon" title="wikipedia:Ida Gordon">Ida Pickles</a>" vào [30 tháng 7](../_/30_July.md)<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> của [1930](../_/1930.md). Tolkien đã tặng bài thơ cho E.V. Gordon và Ida Pickles trong một bản thảo được trang trí bằng các chữ cái Anglo-Saxon màu đỏ và đen.<sup id="cite_ref-guide_2-0" class="reference"><a href="#cite_note-guide-2">[2]</a></sup>
+<i><b>Brýdleoþ</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) "như một bài hát cho đám cưới của [E.V. Gordon](../E/E.V._Gordon.md) và <a class="extiw" href="http://en.wikipedia.org/wiki/Ida_Gordon" title="wikipedia:Ida Gordon">Ida Pickles</a>" vào [30 tháng 7](../_/30_July.md)<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> của [1930](../_/1930.md). Tolkien đã tặng bài thơ cho E.V. Gordon và Ida Pickles dưới dạng bản thảo được trang trí bằng các chữ Anglo-Saxon màu đỏ và đen.<sup id="cite_ref-guide_2-0" class="reference"><a href="#cite_note-guide-2">[2]</a></sup>
 
 ## Khổ đầu tiên {#First_stanza}
 
-### Tiếng Anh cổ {#Old_English}
+### tiếng Anh cổ {#Old_English}
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p><span class="mw-poem-indented" style="display: inline-block; margin-inline-start: 1em;">Forþ namcúþes norþan</span><br/>

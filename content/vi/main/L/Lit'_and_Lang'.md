@@ -19,11 +19,11 @@ images:
 
 <i><b>Lit' và Lang'</b></i> là một bài hát được sáng tác bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *Polly Put the Kettle On*. Nó được xuất bản dưới dạng bài hát thứ 28 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md). (được liệt kê trong mục lục là "Hai kế hoạch nhỏ")
 
-Ban đầu nó chứa các tham chiếu trực tiếp đến [Đại học Leeds](Leeds_University.md) và đã được thay đổi để bỏ qua chúng trong quá trình in. Tolkien đã lưu ý, vào năm 1966, rằng những thay đổi này có tác dụng phụ đáng tiếc là phá vỡ vần điệu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ban đầu nó chứa các tham chiếu trực tiếp đến [Đại học Leeds](Leeds_University.md) và đã được thay đổi để bỏ qua chúng trong quá trình in. Tolkien đã lưu ý, vào năm 1966, rằng những thay đổi này có tác dụng phụ đáng tiếc là làm đứt vần.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <dl><dt>Background</dt></dl>
 
-Tại Khoa Tiếng Anh của Đại học Oxford nơi Tolkien làm việc, việc giảng dạy được chia thành hai luồng. "Lit'" có nghĩa là "Văn học Anh", tức là nghiên cứu các tác phẩm từ Shakespeare đến thời hiện đại, trong khi "Lang'" có nghĩa là "Ngôn ngữ tiếng Anh", nghĩa là nghiên cứu ngữ văn về các văn bản tiếng Anh cổ như *[Beowulf](<../B/Beowulf_(poem).md>)*và tiếng Anh trung cổ, chẳng hạn như <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Green Knight</a></i>. Tolkien và [Gordon](../G/Gordon.md) là những nhà ngữ văn và kiên quyết theo phe "Lang", nhưng họ có thể thấy rằng nó đang lụi tàn.
+Tại Khoa Tiếng Anh tại Đại học Oxford nơi Tolkien công tác, việc giảng dạy được chia thành hai luồng. "Lit'" có nghĩa là "Văn học Anh", tức là nghiên cứu các tác phẩm từ Shakespeare đến thời hiện đại, trong khi "Lang'" có nghĩa là "Ngôn ngữ tiếng Anh", nghĩa là nghiên cứu ngữ văn về tiếng Anh cổ văn bản như *[Beowulf](<../B/Beowulf_(poem).md>)*và tiếng Anh trung cổ, chẳng hạn như <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Green Knight</a></i>. Tolkien và [Gordon](../G/Gordon.md) là những nhà ngữ văn và kiên quyết theo phe "Lang'", nhưng họ có thể thấy rằng nó đang lụi tàn.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

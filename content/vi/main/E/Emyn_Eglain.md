@@ -28,7 +28,7 @@ langlinks:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Emyn Eglain* có nghĩa là "Những ngọn đồi của kẻ bị bỏ rơi (Yêu tinh)" trong [Sindarin](../S/Sindarin.md), từ *[emyn](../A/Amon.md)* ("ngọn đồi") và *[Eglain](../F/Falathrim.md#Names)* ("Người bị bỏ rơi"). Cái tên *Eglamar*, như [Christopher Tolkien](../C/Christopher_Tolkien.md) đã lưu ý, là "một trong những cái tên lâu đời nhất trong \[[J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s\] *[legendarium](../L/Legendarium.md)*" (đối với các ứng dụng khác, xem <a class="mw-disambig" href="Eglamar_(disambiguation).md" title="Eglamar (disambiguation)">Eglamar (định hướng)</a>).<sup id="cite_ref-WJBeleriand_1-1" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup>
+Tên *Emyn Eglain* có nghĩa là "Những ngọn đồi của kẻ bị bỏ rơi (Tiên tộc)" trong [Sindarin](../S/Sindarin.md), từ *[emyn](../A/Amon.md)* ("ngọn đồi") và *[Eglain](../F/Falathrim.md#Names)* ("Kẻ bị bỏ rơi"). Tên *Eglamar*, như được lưu ý bởi [Christopher Tolkien](../C/Christopher_Tolkien.md), là "một trong những tên cổ nhất trong \[[J.R.R. Tolkien](../J/J.R.R._Tolkien.md)'s\] *[legendarium](../L/Legendarium.md)*" (đối với các ứng dụng khác, xem <a class="mw-disambig" href="Eglamar_(disambiguation).md" title="Eglamar (disambiguation)">Eglamar (định hướng)</a>).<sup id="cite_ref-WJBeleriand_1-1" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup>
 
 <span></span>
 

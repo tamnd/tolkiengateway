@@ -13,13 +13,13 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>lalaith</b></i> là danh từ có nghĩa là "tiếng cười" trong [tiếng Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>lalaith</b></i> là danh từ có nghĩa là "tiếng cười" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Có thể từ này có ảnh hưởng từ *[lala](Lala.md)-* trong [Quenya](../Q/Quenya.md), chẳng hạn như trong tên *Lalwendë* hoặc phổ biến hơn là *Lalwen* (thiếu nữ cười).<sup id="cite_ref-Finwe_4-0" class="reference"><a href="#cite_note-Finwe-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:343</sup>
 
-Trong Common Eldarin, gốc của 'cười' là *g*-*lada*-, trong Quenya *lala*-, trong Telerin *glada* và trong Sindarin *glað*.<sup id="cite_ref-Finwe_4-1" class="reference"><a href="#cite_note-Finwe-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:359, Note 29</sup>
+Trong Common Eldarin gốc của 'cười' là *g*-*lada*-, trong Quenya *lala*-, trong Telerin *glada* và trong Sindarin *glað*.<sup id="cite_ref-Finwe_4-1" class="reference"><a href="#cite_note-Finwe-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:359, Note 29</sup>
 
 ## Ví dụ {#Examples}
 

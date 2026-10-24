@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Demura, Artem"
 ---
 
-- <a class="external text" href="https://stargrave.artstation.com/" rel="noreferrer noopener" target="_blank">Artem Demura</a> đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Artem_Demura.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- <a class="external text" href="https://stargrave.artstation.com/" rel="noreferrer noopener" target="_blank">Artem Demura</a> đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Artem_Demura.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: ngày 4 tháng 7 năm 2024
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angerthas Daeron"
 ---
 
-Chuyển hướng tới [Angerthas Daeron](../A/Angerthas_Daeron.md).
+Chuyển hướng đến [Angerthas Daeron](../A/Angerthas_Daeron.md).

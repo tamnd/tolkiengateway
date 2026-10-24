@@ -11,4 +11,4 @@ redirect_target: "The Darkness"
 redirect_fragment: "Great Darkness"
 ---
 
-Chuyển hướng tới [Bóng tối](../T/The_Darkness.md#Great_Darkness).
+Chuyển hướng đến [The Bóng Tối](../T/The_Darkness.md#Great_Darkness).

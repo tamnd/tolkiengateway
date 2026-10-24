@@ -17,18 +17,18 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Underhill</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Underhill_(disambiguation).md" title="Underhill (disambiguation)">Underhill (disambiguation)</a></b>.</div></div>
 
-**Underhill** là một phần của [Hobbiton](../H/Hobbiton.md) nằm ngay bên dưới [Đồi Hobbiton](../H/Hobbiton_Hill.md). [nụ cười](../H/Hobbit-holes.md) nổi tiếng nhất của nó nằm ngay trong Đồi; [Cuối túi](../B/Bag_End.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Rõ ràng là Underhill chứa [Hàng Bagshot](../B/Bagshot_Row.md).
+**Underhill** là một phần của [Hobbiton](../H/Hobbiton.md) nằm ngay bên dưới [Hobbiton Đồi](../H/Hobbiton_Hill.md). [nụ cười](../H/Hobbit-holes.md) nổi tiếng nhất của nó nằm ngay trong Đồi; [Bag End](../B/Bag_End.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Rõ ràng Underhill có chứa [Hàng Bagshot](../B/Bagshot_Row.md).
 
-Vì [Sauron](../S/Sauron.md) đã biết về *[Baggins](../B/Baggins_family.md)* thông qua [Gollum](../G/Gollum.md) và việc sử dụng tên này bên ngoài [Shire](../T/The_Shire.md) sẽ tỏ ra nguy hiểm nên [Gandalf](../G/Gandalf.md) đã bảo [Frodo Baggins](../F/Frodo_Baggins.md) sử dụng tên "[Mr. Underhill](../M/Mr._Underhill.md)" sau khi rời khỏi nhà.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vì [Sauron](../S/Sauron.md) đã biết về *[Baggins](../B/Baggins_family.md)* thông qua [Gollum](../G/Gollum.md) và việc sử dụng tên bên ngoài [ Shire](../T/The_Shire.md) sẽ tỏ ra nguy hiểm nên [Gandalf](../G/Gandalf.md) đã bảo [Frodo Baggins](../F/Frodo_Baggins.md) sử dụng tên "[Mr. Underhill](../M/Mr._Underhill.md)" sau khi rời khỏi nhà.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của Legendarium {#Other_versions_of_the_Legendarium}
 
-Trong bản dự thảo, Underhill là một ngôi làng riêng biệt. Trong bản dự thảo đó, [di chúc của Bilbo](../B/Bilbo's_will.md) có đề cập đến "Dưới đồi gần Hobbiton".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong bản dự thảo, Underhill là một ngôi làng riêng biệt. Trong dự thảo như vậy, di chúc của [Bilbo](../B/Bilbo's_will.md) có đề cập đến "Underhill gần Hobbiton".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Hàng chụp ảnh túi](../B/Bagshot_Row.md)
-- [Gia đình Underhill](Underhill_Family.md)
+- [Underhill Gia đình](Underhill_Family.md)
 
 <span></span>
 

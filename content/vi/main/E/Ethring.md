@@ -35,21 +35,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Ethring.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/Mat%C4%9Bj_%C4%8Cadil_-_Ethring.jpg/320px-Mat%C4%9Bj_%C4%8Cadil_-_Ethring.jpg" decoding="async" loading="lazy" width="320" height="430" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/1b/Mat%C4%9Bj_%C4%8Cadil_-_Ethring.jpg 1.5x" data-file-width="447" data-file-height="600"/></a><figcaption>&#34;Ethring&#34; by Matěj Čadil</figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Bridge</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ethring</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">In <a href="../R/Ringló_Vale.md" title="Ringló Vale">Ringló Vale</a>, east of <a href="../L/Lamedon.md" title="Lamedon">Lamedon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Bridge</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a>: Passing of the <a href="../G/Grey_Company.md" title="Grey Company">Grey Company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Ethring.md" title="Category:Images of Ethring">Images of Ethring</a></td></tr></tbody></table>
 
-**Ethring** là một cây cầu<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> ở phía nam [Gondor](../G/Gondor.md), bắc qua sông [Ringló](../R/Ringló.md).
+**Ethring** là cây cầu<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> ở phía nam [Gondor](../G/Gondor.md), bắc qua sông [Ringló](../R/Ringló.md).
 
 ## Lịch sử {#History}
 
-Ethring là điểm giao cắt chính của sông [Ringló](../R/Ringló.md), dọc theo con đường chính từ [Erech](Erech.md) đến [Pelargir](../P/Pelargir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> [Aragorn](../A/Aragorn.md) và [Những kẻ phá lời thề](../O/Oathbreakers.md) đã vượt sông tại đây trong [Chiến tranh Chiếc nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Ethring là điểm giao cắt chính của sông [Ringló](../R/Ringló.md), dọc theo con đường chính từ [Erech](Erech.md) đến [Pelargir](../P/Pelargir.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> [Aragorn](../A/Aragorn.md) và [Những kẻ phá lời thề](../O/Oathbreakers.md) đã vượt sông ở đây trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Ethring* có lẽ xuất phát từ *[ath](../A/Ath.md)* có nghĩa là "băng qua" (cf. [athrad](../A/Athrad.md) "ford, băng qua"). *Ring* dịch là "lạnh" (xem sông [Ringló](../R/Ringló.md) mà nó có thể ám chỉ đến).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Cái tên *Ethring* có lẽ xuất phát từ *[ath](../A/Ath.md)* có nghĩa là "băng qua" (cf. [athrad](../A/Athrad.md) "ford, băng qua"). *Ring* dịch là "lạnh" (xem dòng sông [Ringló](../R/Ringló.md) mà nó có thể ám chỉ).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Ethring.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c0/The_Lord_of_the_Rings_Online_-_Ethring.jpg/300px-The_Lord_of_the_Rings_Online_-_Ethring.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c0/The_Lord_of_the_Rings_Online_-_Ethring.jpg/450px-The_Lord_of_the_Rings_Online_-_Ethring.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c0/The_Lord_of_the_Rings_Online_-_Ethring.jpg/600px-The_Lord_of_the_Rings_Online_-_Ethring.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Ethring in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Ethring is the only settlement in the <a href="../R/Ringló_Vale.md" title="Ringló Vale">Ringló Vale</a>. During the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>, it is ruled by Lord Borhador, whose seat is in the Crossing-Hall. Due to Borhador&#39;s old age, his son <a href="../D/Dervorin.md" title="Dervorin">Dervorin</a> led the soldiers of the Vale to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> in his stead, while his other son Arvaethor stayed behind and assisted in protecting the Vale.</dd></dl>
 
@@ -60,7 +60,7 @@ Cái tên *Ethring* có lẽ xuất phát từ *[ath](../A/Ath.md)* có nghĩa l
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Biểu tượng được sử dụng trên Bản đồ Gondor cho thấy Ethring chỉ là một cây cầu; không có dấu hiệu nào của một thị trấn hoặc khu định cư gần đó.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Biểu tượng được sử dụng trên Bản đồ của Gondor cho thấy Ethring chỉ là một cây cầu; không có dấu hiệu nào của một thị trấn hoặc khu định cư gần đó.</span>
 </li>
 </ol></div></span>
 

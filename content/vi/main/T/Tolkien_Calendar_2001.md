@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Calendar_2001.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/21/The_Lord_of_the_Rings_Calendar_2001.jpg/320px-The_Lord_of_the_Rings_Calendar_2001.jpg" decoding="async" loading="lazy" width="320" height="317" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/21/The_Lord_of_the_Rings_Calendar_2001.jpg 1.5x" data-file-width="353" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2001</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/John_Howe.md" title="John Howe">John Howe</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/5_June.md" title="5 June">5 June</a> <a href="../_/2000.md" title="2000">2000</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10379-2" title="Special:BookSources/0-261-10379-2">0-261-10379-2</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-105852-1" title="Special:BookSources/0-06-105852-1">0-06-105852-1</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2000.md" title="Tolkien Calendar 2000">Tolkien Calendar 2000</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2002.md" title="Tolkien Calendar 2002">Tolkien Calendar 2002</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2001</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [5 tháng 6](../_/5_June.md) [2000](../_/2000.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và bao gồm một áp phích miễn phí về [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+Lịch <i><b>Tolkien 2001</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [5 tháng 6](../_/5_June.md) [2000](../_/2000.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md) dựa trên *[The Lord of the Rings](The_Lord_of_the_Rings.md)* và bao gồm một áp phích miễn phí về [Trận chiến cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -53,19 +53,19 @@ infobox:
 
 ## Minh họa {#Illustrations}
 
-- Tháng 1 - "[Kỵ sĩ da đen ở Quận](../../file/J/John_Howe_-_Black_Riders_in_the_Shire.jpg.md)"
-- Tháng 2 - "[Gandalf ngã với Balrog](../../file/J/John_Howe_-_Gandalf_Falls_with_the_Balrog.jpg.md)"
+- Tháng 1 - "[Kỵ sĩ Đen vào The Shire](../../file/J/John_Howe_-_Black_Riders_in_the_Shire.jpg.md)"
+- Tháng 2 - "[Gandalf Thất bại với Balrog](../../file/J/John_Howe_-_Gandalf_Falls_with_the_Balrog.jpg.md)"
 - Tháng 3 - "[Kỵ sĩ trong đêm](../../file/J/John_Howe_-_Horseman_in_the_Night.jpg.md)"
-- Tháng 4 - "[Gollum chạy trốn khỏi Yêu tinh ở Mirkwood](../../file/J/John_Howe_-_Gollum_Flees_the_Elves_of_Mirkwood.jpg.md)"
+- Tháng 4 - "[Gollum Chạy trốn khỏi Tiên tộc của Mirkwood](../../file/J/John_Howe_-_Gollum_Flees_the_Elves_of_Mirkwood.jpg.md)"
 - Tháng 5 - "[Thoát khỏi Orthanc](../../file/J/John_Howe_-_Gwaihir_rescues_Gandalf_from_Orthanc.jpg.md)"
-- Tháng 6 - "[Argonath](../../file/J/John_Howe_-_The_Argonath.jpg.md)"
-- Trung tâm - "[Cuộc vây hãm Gondor](../../file/J/John_Howe_-_The_Siege_of_Gondor.jpg.md)"
-- Tháng 7 - "[Cầu Khazad-dûm](../../file/J/John_Howe_-_The_Bridge_of_Khazad-dum.jpg.md)"
+- Tháng 6 - "[ Argonath](../../file/J/John_Howe_-_The_Argonath.jpg.md)"
+- Giữa - "[ Cuộc vây hãm Gondor](../../file/J/John_Howe_-_The_Siege_of_Gondor.jpg.md)"
+- Tháng 7 - "[ Cầu Khazad-dûm](../../file/J/John_Howe_-_The_Bridge_of_Khazad-dum.jpg.md)"
 - Tháng 8 - "[Legolas và Gimli](../../file/J/John_Howe_-_Legolas_and_Gimli_at_Helm's_Deep.jpg.md)"
-- Tháng 9 - "[Shelob sắp nhảy vào Frodo](../../file/J/John_Howe_-_Shelob_About_to_Leap_on_Frodo.jpg.md)"
-- Tháng 10 - "[Sự kết thúc của Thời đại thứ ba](../../file/J/John_Howe_-_The_End_of_All_Things.jpg.md)"
+- tháng Chín - "[Shelob sắp nhảy vào Frodo](../../file/J/John_Howe_-_Shelob_About_to_Leap_on_Frodo.jpg.md)"
+- Tháng 10 - "[Sự kết thúc của Kỷ Đệ Tam](../../file/J/John_Howe_-_The_End_of_All_Things.jpg.md)"
 - Tháng 11 - "[Zirakzigil](../../file/J/John_Howe_-_Zirak-zigil.jpg.md)"
-- Tháng 12 - "[Những thiên đường xám](../../file/J/John_Howe_-_The_Grey_Havens.jpg.md)"
+- Tháng 12 - "[Ngày Cảng Xám](../../file/J/John_Howe_-_The_Grey_Havens.jpg.md)"
 
 ## Biến thể {#Variants}
 
@@ -99,8 +99,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94330" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2001</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1999_2001.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1999 - 2001</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94330" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2001</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/1999_2001.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1999 - 2001</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

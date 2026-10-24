@@ -67,45 +67,45 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></i>, &#34;The Music of the Ainur and the Coming of the Valar&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Tulkas** là một [Vala](../V/Valar.md). Ông ta là Valar hiếu chiến nhất và là vợ của [Nessa](../N/Nessa.md).
+**Tulkas** là [Vala](../V/Valar.md). Ông ta là người hiếu chiến nhất Valar và là vợ của [Nessa](../N/Nessa.md).
 
 ## Thuộc tính {#Attributes}
 
-Tulka mạnh mẽ và nhanh nhẹn đến mức ngài không cần vũ khí hay chiến mã. Ông ta thích thú với những hành động dũng cảm và sức mạnh như đấu vật và chiến đấu. Nhưng ông ta không đáng sợ; ông cười lớn trong thể thao và chiến tranh và cơn giận của ông xua tan [bóng tối](../D/Darkness.md) và mây mù.<sup id="cite_ref-vala_1-1" class="reference"><a href="#cite_note-vala-1">[1]</a></sup><sup id="cite_ref-s1_2-0" class="reference"><a href="#cite_note-s1-2">[2]</a></sup>
+Tulkas mạnh mẽ và nhanh nhẹn đến mức ông ta không cần vũ khí hay chiến mã. Ông ta thích thú với những hành động dũng cảm và sức mạnh như đấu vật và chiến đấu. Nhưng ông ta không đáng sợ; ông cười lớn trong thể thao và chiến tranh và cơn giận của ông xua tan [bóng tối](../D/Darkness.md) và mây mù.<sup id="cite_ref-vala_1-1" class="reference"><a href="#cite_note-vala-1">[1]</a></sup><sup id="cite_ref-s1_2-0" class="reference"><a href="#cite_note-s1-2">[2]</a></sup>
 
 Ông là một người bạn cứng rắn, chậm giận nhưng cũng chậm tha thứ. Tuy nhiên, ông không có tư duy cầu tiến và không học hỏi từ quá khứ; luôn hành động nhanh nhẹn, tư vấn không giỏi.<sup id="cite_ref-vala_1-2" class="reference"><a href="#cite_note-vala-1">[1]</a></sup><sup id="cite_ref-Quenta_3-0" class="reference"><a href="#cite_note-Quenta-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:206</sup>
 
 Da thịt hồng hào, tóc và râu vàng.<sup id="cite_ref-vala_1-3" class="reference"><a href="#cite_note-vala-1">[1]</a></sup>
 
-Tulkas đại diện cho mặt tốt của ‘bạo lực’ trong cuộc chiến chống lại cái ác. Đây là sự thiếu vắng mọi thỏa hiệp mà thậm chí sẽ phải đối mặt với những tệ nạn rõ ràng (chẳng hạn như chiến tranh) thay vì đàm phán; và không (với bất kỳ niềm tự hào nào) nghĩ rằng bất kỳ ai kém hơn Eru có thể khắc phục điều này hoặc viết lại câu chuyện về Arda.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:522</sup>
+Tulkas tượng trưng cho mặt tốt của ‘bạo lực’ trong cuộc chiến chống lại cái ác. Đây là sự thiếu vắng mọi thỏa hiệp mà thậm chí sẽ phải đối mặt với những tệ nạn rõ ràng (chẳng hạn như chiến tranh) thay vì đàm phán; và không (với bất kỳ niềm tự hào nào) nghĩ rằng bất kỳ ai dưới Eru có thể khắc phục điều này hoặc viết lại câu chuyện về Arda.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:522</sup>
 
 ## Lịch sử {#History}
 
-Tulkas được [tạo](../C/Creation_of_the_Ainur.md) bởi [Eru](../E/Eru.md) cùng với [Ainur](../A/Ainur.md) khác và hát trong [Bài hát của Ainur](../S/Song_of_the_Ainur.md) và chọn tham gia [Eä](../E/Eä.md). Linh hồn của ông ta lang thang ở Ea và không tham gia vào việc hình thành [Arda](../A/Arda.md) với các [Valar](../V/Valar.md) khác: Ông ta nghe nói về [Cuộc chiến đầu tiên](../F/First_War.md) của họ với [Melkor](../M/Melkor.md) [1500](../V/Valian_Year_1500.md) [Những năm Valian](../V/Valian_Years.md) sau khi họ đến, và giáng xuống họ từ thiên đường xa xôi. Chúa tể Hắc ám có thể đã tự mình đánh bại các Valar, nhưng khi nghe thấy tiếng cười của Tulkas và chứng kiến ​​cơn thịnh nộ của hắn, Melkor đã bỏ chạy trước hắn.<sup id="cite_ref-s1_2-1" class="reference"><a href="#cite_note-s1-2">[2]</a></sup>
+Tulkas được [tạo](../C/Creation_of_the_Ainur.md) bởi [Eru](../E/Eru.md) cùng với [Ainur](../A/Ainur.md) khác và hát trong [Bài hát của Ainur](../S/Song_of_the_Ainur.md) và chọn tham gia [Eä](../E/Eä.md). Linh hồn của ông ta lang thang ở Ea và không tham gia vào việc hình thành [Arda](../A/Arda.md) với [Valar](../V/Valar.md) khác: Ông ta nghe nói về [Cuộc Chiến thứ Nhất](../F/First_War.md) của họ với [Melkor](../M/Melkor.md) [1500](../V/Valian_Year_1500.md) [Những năm Valian](../V/Valian_Years.md) sau khi họ đến, và hạ xuống họ từ thiên đường xa xôi. Chúa tể Bóng tối có thể đã tự mình đánh bại Valar, nhưng nghe thấy tiếng cười của Tulkas và chứng kiến ​​cơn thịnh nộ của hắn, Melkor đã bỏ chạy trước mặt hắn.<sup id="cite_ref-s1_2-1" class="reference"><a href="#cite_note-s1-2">[2]</a></sup>
 
-Nhờ có ông, các Valar giờ đây đã tiếp tục công việc của mình trong hòa bình và [Mùa xuân Arda](../S/Spring_of_Arda.md) đã bắt đầu. Sau khi [Hai ngọn đèn](Two_Lamps.md) được dựng lên và các Valar đã cư trú lần đầu tiên tại [Almaren](../A/Almaren.md), Tulkas đã kết hôn với [Nessa](../N/Nessa.md) trong một bữa tiệc lớn. Mệt mỏi và hài lòng, ông ta ngủ và Melkor quyết định giờ trả thù đã đến và phá hủy những chiếc đèn, gây ra một trận đại hồng thủy.<sup id="cite_ref-s1_2-2" class="reference"><a href="#cite_note-s1-2">[2]</a></sup>
+Nhờ có ông, Valar giờ đây đã tiếp tục công việc của mình trong hòa bình và [Mùa Xuân của Arda](../S/Spring_of_Arda.md) đã bắt đầu. Sau khi [Hai Ngọn Đèn](Two_Lamps.md) được xây dựng và Valar cư trú lần đầu tiên tại [Almaren](../A/Almaren.md), Tulkas đã kết hôn với [Nessa](../N/Nessa.md) trong một bữa tiệc lớn. Mệt mỏi và hài lòng, ông ta ngủ và Melkor quyết định giờ trả thù đã đến, làm hỏng những chiếc đèn, gây ra thảm họa.<sup id="cite_ref-s1_2-2" class="reference"><a href="#cite_note-s1-2">[2]</a></sup>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Antonio_Vinci_-_Tulkas.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/05/Antonio_Vinci_-_Tulkas.jpg/300px-Antonio_Vinci_-_Tulkas.jpg" decoding="async" loading="lazy" width="300" height="143" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/05/Antonio_Vinci_-_Tulkas.jpg/450px-Antonio_Vinci_-_Tulkas.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/05/Antonio_Vinci_-_Tulkas.jpg/600px-Antonio_Vinci_-_Tulkas.jpg 2x" data-file-width="3310" data-file-height="1575"/></a><figcaption><i>Tulkas</i> by <a href="../../category/I/Images_by_Antonio_Vinci.md" title="Category:Images by Antonio Vinci">Antonio Vinci</a></figcaption></figure>
 
-Sau trận đại hồng thủy, các Valar và người dân của họ đã đến [Valinor](../V/Valinor.md). Dự đoán được [Sự thức tỉnh của Yêu tinh](../A/Awakening_of_the_Elves.md) Tulkas đã thúc giục các Valar khác gây chiến chống lại Melkor.
+Sau trận đại hồng thủy, Valar và người của họ đã đến [Valinor](../V/Valinor.md). Dự đoán trước [Sự thức tỉnh của Tiên tộc](../A/Awakening_of_the_Elves.md) Tulkas đã thúc giục Valar người khác tiến hành chiến tranh chống lại Melkor.
 
 Nhưng khi [Oromë](../O/Oromë.md) thông báo rằng [Những đứa con đầu tiên của Ilúvatar](../E/Elves.md) đã thức tỉnh, Manwë đã triệu tập một hội đồng tại [Ring of Doom](../R/Ring_of_Doom.md) và thông báo ý muốn của Eru rằng, vì lợi ích của Yêu tinh, các Valar sẽ giành lại quyền giám hộ thế giới từ tay Melkor. Tulkas rất vui vì quyết định này. Trong [Trận chiến quyền lực](../B/Battle_of_the_Powers.md), sau một cuộc bao vây kéo dài tại [Utumno](../U/Utumno.md), chính Tulkas đã vật lộn với Melkor và ném thẳng vào mặt ông ta. Tulkas [xiềng xích](../C/Chaining_of_Melkor.md) Melkor bằng sợi xích đầy mê hoặc [Angainor](../A/Angainor.md), được rèn bởi [Aulë](../A/Aulë.md). Trong một thời gian, thế giới thoát khỏi ảnh hưởng của Melkor.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Khi mãn hạn tù, Melkor ăn năn về hành động của mình và được [Manwë](../M/Manwë.md) ân xá; Tulkas thất vọng với quyết định này, luôn không tin tưởng. Nhưng vì đã chiến đấu với Melkor dưới danh nghĩa quyền lực nên anh không thể tự mình nổi dậy và chấp nhận quyết định của Manwë.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Chấp hành xong bản án, Melkor ăn năn hối cải và được [Manwë](../M/Manwë.md) ân xá; Tulkas thất vọng với quyết định này, luôn nghi ngờ. Nhưng vì Melkor đã chiến đấu dưới danh nghĩa quyền lực nên anh không thể tự mình nổi loạn và chấp nhận quyết định của Manwë.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Sau khi những lời dối trá do Melkor lan truyền bị biết đến, Tulkas và Oromë đã tìm kiếm ông ta ở phía bắc Aman, nhưng ông ta đã trốn thoát về phía nam. Và khi Melkor và [Ungoliant](../U/Ungoliant.md) gây ra [Sự tối tăm của Valinor](../D/Darkening_of_Valinor.md), Tulkas và Oromë đã tìm kiếm chúng trong vô vọng, không thể xuyên thủng lớp bùa sáng của Ungoliant.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Ngay sau đó, Tulkas vội vã [Fëanor](../F/Fëanor.md) đưa ra quyết định giao nộp [Silmarils](../S/Silmarils.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Sau khi những lời dối trá của Melkor bị phát hiện, Tulkas và Oromë đã truy lùng ông ta ở phía bắc Aman, nhưng ông ta đã trốn thoát về phía nam. Và khi Melkor và [Ungoliant](../U/Ungoliant.md) gây ra [Sự tối tăm của Valinor](../D/Darkening_of_Valinor.md), Tulkas và Oromë tìm kiếm chúng trong vô vọng, không thể thâm nhập vào bóng tối của Ungoliant.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Ngay sau đó, Tulkas vội vã [Fëanor](../F/Fëanor.md) đưa ra quyết định giao nộp [Silmaril](../S/Silmarils.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-Người ta nói rằng trong [Dagor Dagorath](../D/Dagor_Dagorath.md), Tulkas một lần nữa sẽ chống lại [Melkor](../M/Melkor.md) và sẽ trực tiếp chiến đấu với hắn. Chưa rõ người chiến thắng, nhưng có lẽ là Melkor, Vì [Túrin](Túrin.md) sẽ là người giết Melkor.<sup id="cite_ref-Quenta_3-1" class="reference"><a href="#cite_note-Quenta-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:333</sup>
+Người ta nói rằng trong [Dagor Dagorath](../D/Dagor_Dagorath.md), Tulkas sẽ một lần nữa chống lại [Melkor](../M/Melkor.md) và sẽ trực tiếp chiến đấu với ông ta. Chưa rõ kẻ chiến thắng, Nhưng có lẽ Melkor, Vì [Túrin](Túrin.md) kẻ sẽ giết Melkor.<sup id="cite_ref-Quenta_3-1" class="reference"><a href="#cite_note-Quenta-3">[3]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:333</sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Tulkas* trong [Quenya](../Q/Quenya.md) có nghĩa là "vững chắc, vững chắc".<sup id="cite_ref-Etymologies_9-0" class="reference"><a href="#cite_note-Etymologies-9">[9]</a></sup> <i><b>Tulukhastāz</b></i> ("người có mái tóc vàng")<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 1]</a></sup> là tên [Valarin](../V/Valarin.md) ban đầu của Tulkas.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup>
+Tên *Tulkas* trong [Quenya](../Q/Quenya.md) có nghĩa là "vững chắc, vững vàng".<sup id="cite_ref-Etymologies_9-0" class="reference"><a href="#cite_note-Etymologies-9">[9]</a></sup> <i><b>Tulukhastāz</b></i> ("người có mái tóc vàng")<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 1]</a></sup> là tên ban đầu [Valarin](../V/Valarin.md) của Tulkas.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup>
 
 ## Tên khác {#Other_names}
 
 Ông ta còn được gọi là <i><b>Astaldo</b></i> ([Q](../Q/Quenya.md): "the Valiant").<sup id="cite_ref-vala_1-4" class="reference"><a href="#cite_note-vala-1">[1]</a></sup> *Astaldo* thay thế tên trước đó *Poldórëa*.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[11]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[12]</a></sup><sup id="cite_ref-LT1III_14-0" class="reference"><a href="#cite_note-LT1III-14">[13]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[14]</a></sup>
 
-Trong bản dịch [tiếng Anh cổ](../O/Old_English.md) của [Eriol](../E/Eriol.md), Tulkas được gọi là *Afodfrea* "Người cai trị sức mạnh".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[15]</a></sup>
+Trong các bản dịch [tiếng Anh cổ](../O/Old_English.md) của [Eriol](../E/Eriol.md), Tulkas được gọi là *Afodfrea* "kẻ thống trị sức mạnh".<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[15]</a></sup>
 
 Trong một bản thảo đầu tiên, họ được coi là: <i><b>Ender</b></i>, bắt nguồn từ <i><b>Enderō</b></i> ('\[?virile\] chàng rể trẻ').<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[16]</a></sup>
 
@@ -118,16 +118,16 @@ Trong một bản thảo đầu tiên, họ được coi là: <i><b>Ender</b></i
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một số phiên bản người ta nói rằng Tulkas là những linh hồn không nhập vào [Eä](../E/Eä.md). Trong các phiên bản khác, người ta kể rằng Tulkas là một trong những linh hồn đã đi vào vùng đất rộng lớn của Eä, cho đến khi đến Arda để giúp đỡ Manwë.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[17]</a></sup>
+Trong một số phiên bản người ta nói rằng Tulkas là những linh hồn không nhập vào [Eä](../E/Eä.md). Trong các phiên bản khác, người ta nói rằng Tulkas là một trong những linh hồn đã đi vào vùng đất rộng lớn của Eä, cho đến khi anh đến Arda để giúp đỡ Manwë.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[17]</a></sup>
 
-Trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)* ông không đến cuối cùng và ông còn trẻ nhưng không phải là người trẻ nhất trong số Valar vĩ đại ([Ómar Amillo](../_/Ómar.md)).<sup id="cite_ref-LT1III_14-1" class="reference"><a href="#cite_note-LT1III-14">[13]</a></sup> [Telimektar](Telimektar.md) là con trai của ông.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[18]</a></sup>
+Trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)* ông không đứng cuối và ông còn trẻ nhưng không phải là người trẻ nhất trong số Valar vĩ đại ([Ómar Amillo](../_/Ómar.md) là vậy).<sup id="cite_ref-LT1III_14-1" class="reference"><a href="#cite_note-LT1III-14">[13]</a></sup> [Telimektar](Telimektar.md) là con trai của ông.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[18]</a></sup>
 
 Trong [Noldorin](../N/Noldorin.md), tên ông là <i><b>Tolchas</b></i>.<sup id="cite_ref-Etymologies_9-1" class="reference"><a href="#cite_note-Etymologies-9">[9]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i>Tulukhastāz</i> được cho là bao gồm các yếu tố Valarin <i>tulukha(n)</i> ("màu vàng") và <i>(a)šata-</i> ("tóc trên đầu").</span>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><i>Tulukhastāz</i> được cho là bao gồm các phần tử Valarin <i>tulukha(n)</i> ("màu vàng") và <i>(a)šata-</i> ("tóc trên đầu").</span>
 </li>
 </ol></div></span>
 

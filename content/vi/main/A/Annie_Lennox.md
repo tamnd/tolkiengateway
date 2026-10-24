@@ -35,7 +35,7 @@ Cô cũng thu âm ca khúc "<a class="new" href="https://tolkiengateway.net/w/in
 
 - [2004](../_/2004.md) – <b><a class="external text" href="http://www.goldenglobes.org/" rel="noreferrer noopener" target="_blank">Quả cầu vàng</a></b>, Bài hát gốc hay nhất - Phim điện ảnh, "[Into the West](../I/Into_the_West.md)"
 - 2004 - <b><a class="external text" href="http://www.oscars.org/" rel="noreferrer noopener" target="_blank">Giải Oscar</a></b>, Nhạc hay nhất, Bài hát gốc, "Into the West"
-- [2005](../_/2005.md) – <b><a class="external text" href="http://www.grammy.com/" rel="noreferrer noopener" target="_blank">Grammy</a></b>, Bài hát hay nhất viết cho phim điện ảnh, truyền hình hoặc phương tiện truyền thông hình ảnh khác, "Into The West"
+- [2005](../_/2005.md) – <b><a class="external text" href="http://www.grammy.com/" rel="noreferrer noopener" target="_blank">Grammy</a></b>, Bài hát hay nhất viết cho phim điện ảnh, truyền hình hoặc phương tiện truyền thông hình ảnh khác, "Into The Phương Tây"
 
 ## Liên kết ngoài {#External_links}
 

@@ -70,10 +70,10 @@ Sự kiện xảy ra vào ngày 4 tháng 7.
 - **[1972](1972.md)** – [Thư 339](../L/Letter_339.md) được đăng trên *Daily Telegraph*.
 - **[1972](1972.md)** - [Mythcon 3](../M/Mythcon_3.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Long_Beach,_California" title="wikipedia:Long Beach, California">Long Beach, California</a> kết thúc.
 - **[2006](2006.md)** - [Hội nghị tập hợp các học bổng](../T/The_Gathering_of_the_Fellowship.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Toronto" title="wikipedia:Toronto">Toronto</a>.
-- **[2015](2015.md)** - [Hội thảo Tolkien](../T/The_Tolkien_Society.md) tại khách sạn Hilton, [Leeds](../L/Leeds.md).
+- **[2015](2015.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) Hội thảo tại khách sạn Hilton, [Leeds](../L/Leeds.md).
 - **[2020](2020.md)** - [Hội Tolkien](../T/The_Tolkien_Society.md) Hội thảo được tổ chức trực tuyến do <a class="extiw" href="http://en.wikipedia.org/wiki/COVID-19_pandemic" title="wikipedia:COVID-19 pandemic">đại dịch Covid-19</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Boromir](../B/Boromir.md) khởi hành từ [Minas Tirith](../M/Minas_Tirith.md) để xin lời khuyên tại [Rivendell](../R/Rivendell.md).
+    - [Boromir](../B/Boromir.md) lên đường từ [Minas Tirith](../M/Minas_Tirith.md) để xin tư vấn tại [Rivendell](../R/Rivendell.md).

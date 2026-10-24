@@ -36,6 +36,6 @@ infobox:
 
 - Biên tập: Khảo sát cho biết ... - [Chris Seeman](../C/Chris_Seeman.md)
 - Truyền thông - Nancy Martsch
-- Chuyến phiêu lưu giữa các dân tộc edainic Thời đại thứ hai - [Michael Martinez](../M/Michael_Martinez.md)
+- Phiêu lưu giữa Kỷ Đệ Nhị các dân tộc edainic - [Michael Martinez](../M/Michael_Martinez.md)
 - Giao ước bị phá vỡ - Brian McNeilly
 - Nhật ký của Rastarin - Bridget Buxton

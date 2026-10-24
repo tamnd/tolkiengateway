@@ -31,53 +31,53 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien had been sent the script of <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morton_Grady_Zimmerman&amp;action=edit&amp;redlink=1" title="Morton Grady Zimmerman (page does not exist)">Morton Grady Zimmerman</a>'s proposed film of *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, and Tolkien wrote a lengthy reply on it.
+Tolkien đã được gửi kịch bản cho bộ phim *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morton_Grady_Zimmerman&amp;action=edit&amp;redlink=1" title="Morton Grady Zimmerman (page does not exist)">Morton Grady Zimmerman</a>đề xuất và Tolkien đã viết một câu trả lời dài về nó.
 
-Đầu tiên, anh xin lỗi vì nghe có vẻ khó chịu hoặc khó chịu, nhưng đó là vì anh cảm thấy câu chuyện được xử lý một cách bất cẩn, thậm chí đôi khi còn thiếu thận trọng. Câu chuyện về cơ bản đã được rút gọn thành chiến đấu và ma thuật, và phần cuối cùng của [Người mang nhẫn](../R/Ring-bearer.md) đã bị "sát hại".
+Đầu tiên, anh xin lỗi vì nghe có vẻ khó chịu hoặc khó chịu, nhưng đó là vì anh cảm thấy câu chuyện được xử lý một cách bất cẩn, thậm chí đôi khi còn thiếu thận trọng. Câu chuyện về cơ bản đã bị rút gọn thành chiến đấu và phép thuật, còn phần cuối của [Người Mang Nhẫn](../R/Ring-bearer.md) đã bị "giết hại".
 
 Các tài liệu tham khảo được tính theo số trang của kịch bản mà Zimmerman (gọi đơn giản là "Z" trong thư) đã gửi cho ông ta.
 
-- Trang 2: Pháo hoa và [Gandalf](../G/Gandalf.md). Có những lá cờ và người hobbit trong pháo hoa, và Gandalf hẳn sẽ phải lắp bắp. Tolkien không chấp nhận cả hai.
+- Trang 2: Pháo hoa và [Gandalf](../G/Gandalf.md). Có cờ và hobbit trong pháo hoa, và Gandalf sẽ bắn tung tóe. Tolkien đã từ chối cả hai.
 
-- Trang 4: Những [Những chú đại bàng](../E/Eagles.md). Z, theo Tolkien, đã hoàn toàn hiểu sai về Eagles, và bằng cách để một người - tên là [Radagast](../R/Radagast.md) - xuất hiện ở [the Shire](../T/The_Shire.md), ông ta ít nhiều đã phá hỏng sự bất ngờ về việc Gandalf trốn thoát khỏi [Orthanc](../O/Orthanc.md). Z đã đoán trước những sự kiện trong tương lai, điều mà Tolkien cho rằng không tốt cho câu chuyện.
+- Trang 4: [Đại Bàng](../E/Eagles.md). Z, theo Tolkien, đã hoàn toàn hiểu lầm Đại Bàng, và bằng cách để một người - có tên [Radagast](../R/Radagast.md) - xuất hiện trong [ Shire](../T/The_Shire.md), ông ta ít nhiều đã phá hỏng sự bất ngờ về việc Gandalf trốn thoát khỏi [Orthanc](../O/Orthanc.md). Z đã đoán trước những sự kiện trong tương lai mà Tolkien cho rằng không tốt cho câu chuyện.
 
-Tolkien cũng đề cập đến dòng thời gian của bộ phim: nó bị thu hẹp rất nhiều và không tính đến các mùa. Những mùa này rất quan trọng: bắt đầu từ mùa thu, qua mùa đông và kết thúc vào mùa xuân. Trong suy nghĩ của Z, một cơn bão tuyết chắc chắn sẽ xảy ra vào Mùa hè. Mặc dù *The Lord of the Rings* là một câu chuyện cổ tích, "dặm là dặm, ngày là ngày và thời tiết là thời tiết."
+Tolkien cũng đề cập đến dòng thời gian của bộ phim: nó được rút gọn rất nhiều và không tính đến các mùa. Những mùa này rất quan trọng: bắt đầu từ mùa thu, qua mùa đông và kết thúc vào mùa xuân. Trong suy nghĩ của Z, một cơn bão tuyết chắc chắn sẽ xảy ra vào Mùa hè. Mặc dù *The Lord of the Rings* là một câu chuyện cổ tích, "dặm là dặm, ngày là ngày và thời tiết là thời tiết."
 
 - Trang 7: [Tom Bombadil](../T/Tom_Bombadil.md). Ông ta được miêu tả là chủ nhân của [khu rừng](../O/Old_Forest.md), và ngôn ngữ của ông ta rất ngớ ngẩn. [Goldberry](../G/Goldberry.md) cũng vậy; bà sẽ tốt hơn nếu bị bỏ qua.
 
-- Trang 8: [Bơ Barliman](../B/Barliman_Butterbur.md). Ông ta muốn khách "đăng ký", nhưng đăng ký khách sạn không tồn tại, vì [Bree](../B/Bree.md) không có cảnh sát cũng như chính phủ. Ngoài ra, trái ngược với cách xử lý của Z, các phòng đều không được đánh số.
+- Trang 8: [Barliman Butterbur](../B/Barliman_Butterbur.md). Ông ta muốn khách "đăng ký", nhưng đăng ký khách sạn không tồn tại, vì [Bree](../B/Bree.md) không có cảnh sát cũng như chính phủ. Ngoài ra, trái ngược với cách xử lý của Z, các phòng đều không được đánh số.
 
-- Trang 9: [Aragorn](../A/Aragorn.md) và [Kỵ sĩ áo đen](../N/Nazgûl.md). Aragorn và những người Hobbit rời Bree vào ban đêm theo kịch bản của Z. Điều này trái ngược với những gì "sách-Aragorn" sẽ làm, và Z cho thấy ông ta hoàn toàn hiểu sai vũ khí lớn nhất của các Kỵ sĩ: nỗi sợ hãi. Họ nắm giữ rất ít quyền lực đối với những người dũng cảm, nhưng quyền lực đó và nỗi sợ hãi của họ lớn hơn nhiều vào ban đêm.
+- Trang 9: [Aragorn](../A/Aragorn.md) và [Kỵ sĩ Đen](../N/Nazgûl.md). Aragorn và Hobbit còn lại Bree vào ban đêm trong kịch bản của Z. Điều này trái ngược với những gì "cuốn sách-Aragorn" sẽ làm, và Z cho thấy ông ta hoàn toàn hiểu sai vũ khí lớn nhất của các Kỵ sĩ: nỗi sợ hãi. Họ nắm giữ rất ít quyền lực đối với những người dũng cảm, nhưng quyền lực đó và nỗi sợ hãi của họ lớn hơn nhiều vào ban đêm.
 
-- Trang 10. [Rivendell](../R/Rivendell.md) và [Narsil](../N/Narsil.md). Đó không phải là một khu rừng lung linh. Đó là [Lothlórien](Lothlórien.md), nó không giống chút nào. Z cũng làm cho nó có thể nhìn thấy được từ [Weathertop](../W/Weathertop.md), mặc dù nó ở cách xa 200 dặm và ở trong một khe núi. Aragorn sẽ không "rút kiếm"; rốt cuộc thì nó đã bị hỏng. Z đã mang đến cho [Narsil](../N/Narsil.md) ánh sáng thần tiên, đó là một [sự mong đợi](../A/Andúril.md) khác mà Tolkien không thích.
+- Trang 10. [Rivendell](../R/Rivendell.md) và [Narsil](../N/Narsil.md). Đó không phải là một khu rừng lung linh. Đó là [Lothlórien](Lothlórien.md), nó không giống chút nào. Z cũng làm cho nó có thể nhìn thấy được từ [Weathertop](../W/Weathertop.md), mặc dù nó ở cách xa 200 dặm và ở trong một khe núi. Aragorn sẽ không "rút kiếm"; rốt cuộc thì nó đã bị hỏng. Z đã mang lại [Narsil](../N/Narsil.md) ánh sáng thần tiên, đó lại là một [sự mong đợi](../A/Andúril.md) Tolkien không thích.
 
-- Trang 11. [Thời tiết](../W/Weathertop.md). Aragorn, chứ không phải [Sam](../S/Samwise_Gamgee.md), đã hát *[the Fall of Gil-galad](../T/The_Fall_of_Gil-galad.md)*, điều đó hoàn toàn không phù hợp. Black Riders hét lên trong kịch bản của Z, nhưng Tolkien nói rằng họ giữ một sự im lặng đáng sợ hơn. Sam cắm thanh kiếm của mình vào đùi của Wraith, nhưng nó không vỡ vụn như [Merry](../M/Meriadoc_Brandybuck.md) sau này. Toàn bộ khung cảnh đã được viết lại và nó không làm Tolkien hài lòng chút nào.
+- Trang 11. [Weathertop](../W/Weathertop.md). Aragorn, thay vì [Sam](../S/Samwise_Gamgee.md), đã hát *[the Fall of Gil-galad](../T/The_Fall_of_Gil-galad.md)*, điều này hoàn toàn không phù hợp. Kỵ sĩ Đen hét lên trong kịch bản của Z, nhưng Tolkien nói rằng họ giữ một sự im lặng đáng sợ hơn. Sam cắm thanh kiếm của mình vào đùi của Wraith, nhưng nó không vỡ vụn như [Merry](../M/Meriadoc_Brandybuck.md) sau này. Toàn bộ khung cảnh đã được viết lại và nó không làm Tolkien hài lòng chút nào.
 
-- Trang 15. Chiếc Nhẫn Đi Về Phía Nam. Z một lần nữa cho thấy sự hiểu lầm hoàn toàn của mình về câu chuyện khi để Đại bàng làm taxi.
+- Trang 15. Chiếc Nhẫn Đi Về Phía Nam. Z một lần nữa thể hiện sự hiểu lầm hoàn toàn của mình về câu chuyện khi để Đại Bàng làm taxi.
 
-- Trang 19. [Orc](../O/Orcs.md). Lũ Orc có mỏ và lông vũ, theo Z. Not thì Tolkien cũng vậy, người đã mô tả chúng có hình dạng giống con người.
+- Trang 19. [Orc](../O/Orcs.md). Orc có mỏ và lông vũ, theo Z. Not cũng như Tolkien, người đã mô tả chúng có hình dạng giống con người.
 
-- Trang 20. [Balrog](../D/Durin's_Bane.md). "Z có thể nghĩ rằng ông biết nhiều về Balrogs hơn tôi, nhưng ông không thể mong đợi tôi đồng ý với ông". Balrog này cười, nói và chế nhạo, mặc dù nó không được phép nói gì cả.
+- Trang 20. [ Balrog](../D/Durin's_Bane.md). "Z có thể nghĩ rằng ông biết nhiều về Balrog hơn tôi, nhưng ông không thể mong đợi tôi đồng ý với ông". Balrog này cười, nói và chế nhạo, mặc dù nó không được phép nói gì cả.
 
-- Trang 21. [Lothlórien](Lothlórien.md) và [Galadriel](../G/Galadriel.md). Lothlórien bây giờ là một lâu đài cổ tích và Yêu tinh là những nàng tiên nhỏ bé. Tolkien không hài lòng với sự thay đổi đó cũng như việc bỏ qua sự cám dỗ của Galadriel cũng như tất cả tài liệu đạo đức trong phần còn lại của câu chuyện.
+- Trang 21. [Lothlórien](Lothlórien.md) và [Galadriel](../G/Galadriel.md). Lothlórien bây giờ là một lâu đài cổ tích và Tiên tộc là những nàng tiên nhỏ bé. Tolkien không hài lòng với sự thay đổi đó và việc bỏ qua sự cám dỗ của Galadriel cũng như tất cả tài liệu đạo đức trong phần còn lại của câu chuyện.
 
-- Trang 22. [Lembas](Lembas.md). Đó không phải là "thức ăn đậm đặc", vì những lời giải thích khoa học không có chỗ đứng trong câu chuyện. Chức năng của nó gồm hai phần: giải thích lý do tại sao một chuyến đi dài như vậy lại cần rất ít đồ dự trữ và có ý nghĩa tôn giáo nào đó trong đoạn đường trên Núi Định Mệnh.
+- Trang 22. [Lembas](Lembas.md). Đó không phải là "thức ăn đậm đặc", vì những lời giải thích khoa học không có chỗ đứng trong câu chuyện. Chức năng của nó gồm hai phần: giải thích tại sao một chuyến đi dài như vậy lại cần rất ít lương thực và có ý nghĩa tôn giáo nào đó trong phần Núi Diệt Vong.
 
-Tolkien hy vọng lời nói của các nhân vật sẽ được thể hiện với phong cách và tình cảm phù hợp, và ông không thích sự xuyên tạc họ (và các nhân vật), thậm chí còn tệ hơn việc phá hủy khung cảnh.
+Tolkien hy vọng lời nói của các nhân vật sẽ được thể hiện với phong cách và tình cảm phù hợp, và anh không thích sự xuyên tạc họ (và các nhân vật) thậm chí còn tệ hơn việc phá hoại khung cảnh.
 
 [Phần II](../T/The_Two_Towers.md) và [III](../T/The_Return_of_the_King.md). Phần II cũng gặp phải những vấn đề tương tự như Phần I, và Phần II thậm chí còn tệ hơn. Câu chuyện của cuốn sách được chia thành Hành động chính và Hành động phụ, khác nhau về giọng điệu và khung cảnh và không nên trộn lẫn.
 
-- Trang 31. [Râu cây](<../T/Treebeard_(chapter).md>). Z chắc hẳn không thích cây cối nhiều như Tolkien; tuy nhiên, họ đã đóng một vai trò quan trọng. Z hoàn toàn không giải thích được [Ent](../E/Ents.md) thực sự là gì.
+- Trang 31. [Treebeard](<../T/Treebeard_(chapter).md>). Z chắc hẳn không thích cây cối như Tolkien; tuy nhiên, họ đã đóng một vai trò quan trọng. Z hoàn toàn không giải thích được [Ent](../E/Ents.md) thực sự là gì.
 
-- Trang 31 và 32. [Théoden](../T/Théoden.md) và [Edoras](../E/Edoras.md). Z tỏ ra không hiểu gì về [Rohirrim](../R/Rohirrim.md) "anh hùng" và khiến [Meduseld](../M/Meduseld.md) trông như một khách sạn hoàn chỉnh với cửa sổ kính và phòng riêng.
+- Trang 31 và 32. [Théoden](../T/Théoden.md) và [Edoras](../E/Edoras.md). Z tỏ ra không hiểu gì về [Rohirrim](../R/Rohirrim.md)"anh hùng" và khiến [Meduseld](../M/Meduseld.md) xuất hiện như một khách sạn, hoàn chỉnh với cửa kính và phòng riêng.
 
-- Trang 33. [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Điều này rõ ràng chẳng là gì ngoài những cái nhìn thoáng qua. Tolkien nghĩ rằng điều này hoặc Người Kiến phải ra đi, vì cả hai đều không được miêu tả đúng cách. Với [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), tốt hơn hết là nên bỏ qua trận chiến này.
+- Trang 33. [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Điều này rõ ràng chẳng là gì ngoài những cái nhìn thoáng qua. Tolkien nghĩ rằng cái này hoặc cái Ent phải bị loại bỏ vì cả hai đều không được miêu tả đúng cách. Với ý nghĩ về [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md), tốt hơn hết là nên bỏ qua trận chiến này.
 
-- Trang 34. [Saruman](../S/Saruman.md) và [Orthanc](../O/Orthanc.md). Z đã tưởng tượng ra một cầu thang khổng lồ “lắc lư” xung quanh Orthanc, và Tolkien không thích điều này. Saruman có giọng nói đầy thôi miên; Tolkien nhận xét rằng cả thuật thôi miên thực sự lẫn thuật thôi miên "khoa học" đều không xuất hiện trong tác phẩm của ông. Giọng nói của Saruman có sức thuyết phục chứ không phải thôi miên. Có thể từ chối giọng nói này bằng *free will and reason* (nhấn mạnh trong bản gốc), như [Gimli](../G/Gimli.md) đã làm.
+- Trang 34. [Saruman](../S/Saruman.md) và [Orthanc](../O/Orthanc.md). Z đã tưởng tượng ra một cầu thang khổng lồ “lắc lư” xung quanh Orthanc, và Tolkien không thích điều này. Saruman có giọng nói đầy thôi miên; Tolkien nhận xét rằng cả thuật thôi miên thực sự lẫn thuật thôi miên "khoa học" đều không xuất hiện trong tác phẩm của ông ta. Giọng nói của Saruman có sức thuyết phục chứ không phải thôi miên. Có thể từ chối giọng nói này bằng *free will and reason* (nhấn mạnh trong bản gốc), như [Gimli](../G/Gimli.md) đã làm.
 
-Vì Z đã cắt bỏ đoạn kết nên ông ta không cho biết cái chết của Saruman cũng như lý do cái chết của ông ta; do đó, ông ta cũng có thể để ông ta sống. Ông ta sẽ không tự tử như Z đã bảo ông ta làm.
+Vì Z đã cắt bỏ đoạn kết nên ông ta không đưa ra cái chết của Saruman cũng như lý do cái chết của ông ta; do đó, ông ta cũng có thể để ông ta sống. Ông ta sẽ không tự tử như Z đã bảo ông ta làm.
 
-Phần III: Tolkien không buồn trả lời chi tiết về vấn đề này. Nó "hoàn toàn không thể chấp nhận được đối với tôi, xét về tổng thể cũng như chi tiết". Nó chỉ đơn giản là sắp xếp lại một số phần còn lỏng lẻo, và nếu đó là điều Z muốn, thì Tolkien thà không để cuốn sách của mình bị cắt xén. <br>
+Phần III: Tolkien không buồn trả lời chi tiết về vấn đề này. Nó "hoàn toàn không thể chấp nhận được đối với tôi, xét về tổng thể cũng như chi tiết". Nó chỉ đơn giản là sắp xếp lại một số phần còn lỏng lẻo, và nếu đó là điều Z muốn thì Tolkien thà cuốn sách của ông không bị cắt xén. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

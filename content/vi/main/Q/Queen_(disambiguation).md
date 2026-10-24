@@ -18,17 +18,17 @@ images:
 
 ## Arda {#Arda}
 
-- [Nữ hoàng Gondor](Queen_of_Gondor.md), danh hiệu Nữ hoàng của [Gondor](../G/Gondor.md)
+- [Nữ hoàng của Gondor](Queen_of_Gondor.md), danh hiệu Nữ hoàng của [Gondor](../G/Gondor.md)
     - Nữ hoàng [Berúthiel](../B/Berúthiel.md), Nữ hoàng nổi tiếng của Gondor
-- [Nữ hoàng Númenor](Queen_of_Númenor.md), danh hiệu vợ/chồng của bất kỳ [Vua Númenor](../K/King_of_Númenor.md) nào.
-    - [Nữ hoàng cai trị Númenor](../R/Ruling_Queen_of_Númenor.md), một trong ba nữ hoàng cai trị Númenor với tư cách là Vua.
+- [Nữ hoàng của Númenor](Queen_of_Númenor.md), danh hiệu vợ/chồng của bất kỳ [Vua nào của Númenor](../K/King_of_Númenor.md).
+    - [Nữ hoàng cai trị Númenor](../R/Ruling_Queen_of_Númenor.md), một trong ba nữ hoàng cai trị Númenor với tư cách là một Vua.
 
-- Nữ hoàng của các Valar (Q. *Valatári*), một trong bảy [Valier](../V/Valier.md).
-    - [Nữ hoàng của các vì sao hay Nữ hoàng vì sao, Q. *Elentári*, S. *Elbereth*](../V/Varda.md#Names_and_epithets), danh hiệu của [Varda](../V/Varda.md).
+- Nữ hoàng của Valar (Q. *Valatári*), một trong bảy [Valier](../V/Valier.md).
+    - [Nữ hoàng của các vì sao hay Nữ hoàng của các vì sao, Q. *Elentári*, S. *Elbereth*](../V/Varda.md#Names_and_epithets), danh hiệu của [Varda](../V/Varda.md).
 
 ## Thế giới thực {#Real-world}
 
-- [Margrethe II của Đan Mạch](../M/Margrethe_II_of_Denmark.md), nữ hoàng của Đan Mạch và là họa sĩ minh họa cho tác phẩm *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- [Margrethe II của Đan Mạch](../M/Margrethe_II_of_Denmark.md), nữ hoàng trị vì của Đan Mạch và là họa sĩ minh họa cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <hr style="margin-top:15px;"/>
 

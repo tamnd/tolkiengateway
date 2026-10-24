@@ -28,7 +28,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../B/Bombadil_Goes_Boating.md" title="Bombadil Goes Boating">Bombadil Goes Boating</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Withy-weir** là một <a class="extiw" href="http://en.wikipedia.org/wiki/Weir" title="wikipedia:Weir">đập</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> ở sông [Withywindle](Withywindle.md) phía trên [Windle-reach](Windle-reach.md). [Tom Bombadil](../T/Tom_Bombadil.md) đã vượt qua nó trong chuyến đi thuyền dọc sông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+**Đập Withy** là một <a class="extiw" href="http://en.wikipedia.org/wiki/Weir" title="wikipedia:Weir">đập</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> ở sông [Withywindle](Withywindle.md) phía trên [Tầm gió](Windle-reach.md). [Tom Bombadil](../T/Tom_Bombadil.md) đã vượt qua nó trong chuyến đi thuyền dọc sông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 

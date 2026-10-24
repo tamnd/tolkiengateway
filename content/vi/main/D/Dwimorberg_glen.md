@@ -34,4 +34,4 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Passing_of_the_Grey_Company.md" title="The Passing of the Grey Company">The Passing of the Grey Company</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**glen** tại **[Dwimorberg](Dwimorberg.md)** là một địa điểm ở sườn núi. Ở một đầu là khu rừng [Dimholt](Dimholt.md); bên kia là [Cánh cửa tối](Dark_Door.md).
+**glen** tại **[Dwimorberg](Dwimorberg.md)** là một địa điểm ở sườn núi. Ở một đầu là khu rừng [Dimholt](Dimholt.md); mặt khác, [Cánh Cửa Tối](Dark_Door.md).

@@ -33,9 +33,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cha của họ, Watol đã ủy quyền cho một [Người đàn ông](../M/Men.md) từ [Íwerin](../_/Íwerin.md) tên là [Íring](../_/Íring.md), con trai của Vua [Ír](../_/Ír.md), xây dựng một con đường xuyên qua vùng đất của mình, công việc mà ông đã thực hiện trong suốt bảy năm. Tuy nhiên, người Wætlingas tức giận trước sự kiêu ngạo của Íring, và do đó đánh cược rằng họ có thể xây một con đường thậm chí còn tốt hơn chỉ trong ba năm - có thể do tình bạn của họ với [Yêu tinh](../E/Elves.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> của <a class="extiw" href="http://en.wikipedia.org/wiki/Peak_District" title="wikipedia:Peak District">Péac</a>.
+Cha của họ, Watol đã ủy quyền cho một [Người đàn ông](../M/Men.md) từ [Íwerin](../_/Íwerin.md) tên là [Íring](../_/Íring.md), con trai của Vua [Ír](../_/Ír.md), xây dựng một con đường xuyên qua vùng đất của mình, công việc mà ông đã thực hiện trong suốt bảy năm. Tuy nhiên, gia đình Wætlingas tức giận trước sự kiêu ngạo của Íring, và do đó đánh cược rằng họ có thể xây một con đường thậm chí còn tốt hơn chỉ trong ba năm - có thể do tình bạn của họ với [Tiên tộc](../E/Elves.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> của <a class="extiw" href="http://en.wikipedia.org/wiki/Peak_District" title="wikipedia:Peak District">Péac</a>.
 
-Do đó, Íring đã nhờ cha mình là Vua Ír giúp đỡ, và vì Ír liên minh với [Orc](../O/Orcs.md) của Íwerin, nên ông đã gửi "tất cả các loại tội ác bí mật" để ngăn chặn bước tiến của Wætlingas.
+Vì vậy, Íring đã nhờ cha mình Vua Ír giúp đỡ, và vì Ír liên minh với [Orc](../O/Orcs.md) của Íwerin nên ông đã gửi "tất cả các loại tệ nạn bí mật" để ngăn chặn bước tiến của Wætlingas.
 
 Tuy nhiên, cuối cùng, khi ba năm trôi qua, Íring, "tuyệt vọng với cuộc cá cược của mình", đã giết chết Wætlingas.
 
@@ -45,7 +45,7 @@ Có lẽ đang cố gắng khắc phục tình hình, Íring đã được thầ
 
 ## Cảm hứng {#Inspiration}
 
-Câu chuyện Íring xây dựng một con đường trên thiên đường, sau này được đặt theo tên của Wætlingas *Wæclinga-strǽt* (tức là Phố Watling), là một nỗ lực của [Tolkien](../T/Tolkien.md) nhằm đưa ra câu trả lời, thông qua [thần thoại](../L/Legendarium.md) của chính ông, cho một vấn đề từ nguyên liên quan đến Phố Watling.
+Câu chuyện Íring xây dựng một con đường trên thiên đường, sau này được đặt theo tên của Wætlingas *Wæclinga-strǽt* (tức là Phố Watling), là một nỗ lực của [Tolkien](../T/Tolkien.md) nhằm đưa ra câu trả lời, thông qua [thần thoại](../L/Legendarium.md) của chính mình, cho một vấn đề từ nguyên liên quan đến Phố Watling.
 
 Theo biên niên sử người Anh <a class="extiw" href="http://en.wikipedia.org/wiki/Florence_of_Worcester" title="wikipedia:Florence of Worcester">Florence of Worcester</a>, các con trai của Watol (Wætlingas) đã xây dựng Phố Watling vào năm <a class="extiw" href="http://en.wikipedia.org/wiki/1013" title="wikipedia:1013">1013 sau Công nguyên</a>; ở đó, Florence của Worcester cũng cho biết cái tên *Watling Street* sau đó được áp dụng cho Dải Ngân hà.
 
@@ -53,12 +53,12 @@ Tuy nhiên, Tolkien lập luận rằng *original* ý nghĩa của [tiếng Anh 
 
 Tên *Íringesweg* (hoặc *Iringes weg*) là một tên tiếng Anh cổ khác của Dải Ngân hà mà Tolkien muốn đưa vào thần thoại của mình vào thời điểm này.
 
-Ngoài ra, cái tên *Péac* (nơi Yêu tinh sống) là tên tiếng Anh cổ của Quận Peak ngày nay ở phía tây bắc <a class="extiw" href="http://en.wikipedia.org/wiki/Derbyshire" title="wikipedia:Derbyshire">Derbyshire</a>. *Péac* có thể là tên của một con quỷ, có cùng nguồn gốc với tiếng Anh cổ *Púca* (hoặc *Puck* trong <a class="extiw" href="http://en.wikipedia.org/wiki/English_language" title="wikipedia:English language">tiếng Anh hiện đại</a>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup>
+Ngoài ra, tên *Péac* (nơi Tiên tộc sống) là tên tiếng Anh cổ của Quận Peak ngày nay ở phía tây bắc <a class="extiw" href="http://en.wikipedia.org/wiki/Derbyshire" title="wikipedia:Derbyshire">Derbyshire</a>. *Péac* có thể là tên của một con quỷ, có cùng nguồn gốc với tiếng Anh cổ *Púca* (hoặc *Puck* trong <a class="extiw" href="http://en.wikipedia.org/wiki/English_language" title="wikipedia:English language">tiếng Anh hiện đại</a>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[2]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Ban đầu, văn bản có <i><a href="../G/Gnomes.md" title="Gnomes">Gnomes</a></i> thay vì <i>Yêu tinh</i>.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Ban đầu, văn bản có <i><a href="../G/Gnomes.md" title="Gnomes">Gnomes</a></i> thay vì <i>Tiên tộc</i>.</span>
 </li>
 <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>Manweg</i> là một dạng <a href="../G/Gnomish.md" title="Gnomish">Gnomish</a> của <i>Manwë</i>.</span>
 </li>

@@ -41,7 +41,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vinyar_Tengwar_15.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f7/Vinyar_Tengwar_15.jpg/298px-Vinyar_Tengwar_15.jpg" decoding="async" loading="lazy" width="298" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f7/Vinyar_Tengwar_15.jpg/447px-Vinyar_Tengwar_15.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f7/Vinyar_Tengwar_15.jpg/596px-Vinyar_Tengwar_15.jpg 2x" data-file-width="1809" data-file-height="2913"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vinyar Tengwar 15</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Carl_F._Hostetter.md" title="Carl F. Hostetter">Carl F. Hostetter</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../P/Patrick_H._Wynne.md" title="Patrick H. Wynne">Patrick H. Wynne</a> (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/1991.md" title="1991">1991</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">16</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1054-7606</td></tr></tbody></table>
 
-<i><b>Vinyar Tengwar 15</b></i> là số thứ mười lăm của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Vinyar Tengwar 15</b></i> là số thứ mười lăm của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 14</div></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_14.md" title="Vinyar Tengwar 14">Vinyar Tengwar 14</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 15</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 16</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_16.md" title="Vinyar Tengwar 16">Vinyar Tengwar 16</a></div></div></div>
 
@@ -51,10 +51,10 @@ infobox:
 - E.L.F. News
 - Thư gửi *VT*
 
-- "Thuật ngữ ngôn ngữ Elf" — Taum Santoski
-- "Fëanor đã nói như vậy" — Tom Loback
-- "*Essitalmar*: 'Sự tức giận đặt nhầm chỗ' hoặc Số nhiều trong phương ngữ Sindarin" (cột) — Tom Loback
-- "Chuyển đổi trong bản dịch: 'Chuyển phiên bản' trong tiếng Đức Hobbit, Phần 2" (cột) — Arden R. Smith
+- "Elvish Thuật ngữ ngôn ngữ" — Taum Santoski
+- "Đã nói như vậy Fëanor" — Tom Loback
+- "*Essitalmar*: 'Sự tức giận đặt nhầm chỗ' hoặc Số nhiều trong Sindarin phương ngữ" (cột) — Tom Loback
+- "Chuyển đổi trong bản dịch: 'Chuyển phiên bản' bằng tiếng Đức Hobbit, Phần 2" (cột) — Arden R. Smith
 
 <br>
 

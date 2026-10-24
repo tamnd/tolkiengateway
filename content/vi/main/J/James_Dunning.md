@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Dunning, James"
 ---
 
-**James Dunning** là một nghệ sĩ Tolkien người Mỹ. Tác phẩm nghệ thuật của Dunning đã được giới thiệu trong các ấn phẩm [Mark T. Hooker](../M/Mark_T._Hooker.md) *[A Tolkienian Mathomium](../A/A_Tolkienian_Mathomium.md)*, *[The Hobbitonian Anthology](../T/The_Hobbitonian_Anthology.md)*, *[Tolkien and Welsh](../T/Tolkien_and_Welsh.md)* và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tolkienn%C3%A6um&amp;action=edit&amp;redlink=1" title="The Tolkiennæum (page does not exist)">The Tolkiennæum</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cũng như *2011 Beyond Bree Tolkien Calendar*. Năm 2011, Dunning xuất bản cuốn sách *Quý cô tươi sáng và cơn gió thiên văn*, kể lại cuộc gặp gỡ với Galadriel ở [Trung Địa](../M/Middle-earth.md) đương đại.<sup id="cite_ref-TolkienLibrary_2-0" class="reference"><a href="#cite_note-TolkienLibrary-2">[2]</a></sup>
+**James Dunning** là một nghệ sĩ Tolkien người Mỹ. Tác phẩm nghệ thuật của Dunning đã được giới thiệu trong các ấn phẩm [Mark T. Hooker](../M/Mark_T._Hooker.md) *[A Tolkienian Mathomium](../A/A_Tolkienian_Mathomium.md)*, *[The Hobbitonian Anthology](../T/The_Hobbitonian_Anthology.md)*, *[Tolkien and Welsh](../T/Tolkien_and_Welsh.md)* và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tolkienn%C3%A6um&amp;action=edit&amp;redlink=1" title="The Tolkiennæum (page does not exist)">The Tolkiennæum</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> cũng như *2011 Beyond Bree Tolkien Calendar*. Năm 2011, Dunning xuất bản cuốn sách *Quý cô tươi sáng và cơn gió thiên văn*, kể lại cuộc gặp gỡ với một Galadriel ở [Trung Địa](../M/Middle-earth.md) đương đại.<sup id="cite_ref-TolkienLibrary_2-0" class="reference"><a href="#cite_note-TolkienLibrary-2">[2]</a></sup>
 
 ## Thư mục {#Bibliography}
 
@@ -44,7 +44,7 @@ sort_keys:
 
 ## Giải thưởng {#Awards}
 
-- [2007](../_/2007.md) - **[Giải thưởng Ngọn lửa bất diệt](../I/Imperishable_Flame_Award.md)** Sự sáng tạo lấy cảm hứng từ Tolkien/Inklings, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=40_Years_of_Tolkien_Art&amp;action=edit&amp;redlink=1" title="40 Years of Tolkien Art (page does not exist)">40 năm nghệ thuật Tolkien</a></i>
+- [2007](../_/2007.md) - **[Giải thưởng Ngọn lửa bất diệt](../I/Imperishable_Flame_Award.md)** Tolkien/Inklings-Cảm hứng sáng tạo, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=40_Years_of_Tolkien_Art&amp;action=edit&amp;redlink=1" title="40 Years of Tolkien Art (page does not exist)">40 năm Tolkien Nghệ thuật</a></i>
 
 ## Liên kết ngoài {#External_links}
 

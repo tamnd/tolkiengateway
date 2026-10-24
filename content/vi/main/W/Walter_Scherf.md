@@ -31,7 +31,7 @@ Sau khi học xong, Scherf làm người sắp chữ, nhà báo biên tập, gi�
 
 Từ [1957](../_/1957.md) đến [1982](../_/1982.md) ông là giám đốc <a class="extiw" href="http://en.wikipedia.org/wiki/http://en.wikipedia.or/wiki/International_Youth_Library" title="wikipedia:http://en.wikipedia.or/wiki/International Youth Library">Thư viện Thanh niên Quốc tế</a> ở Munich.
 
-Walter Scherf đã dịch ấn bản tiếng Đức đầu tiên của tác phẩm [The Hobbit](../T/The_Hobbit.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (*Kleiner Hobbit und der große Zauberer*, Paulus Verlag, Recklinghausen [1957](../_/1957.md)). Ấn bản này có các hình minh họa được thực hiện bởi [Horus Engels](../H/Horus_Engels.md). Bản dịch sửa đổi của ông đã được phát hành [1971](../_/1971.md) trên Georg Bitter Verlag dưới tên *Der kleine Hobbit*, ấn bản này có hình ảnh minh họa của [Klaus Ensikat](../K/Klaus_Ensikat.md).
+Walter Scherf đã dịch ấn bản tiếng Đức đầu tiên của [The Hobbit](../T/The_Hobbit.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(*Kleiner Hobbit und der große Zauberer*, Paulus Verlag, Recklinghausen [1957](../_/1957.md)). Ấn bản này có các hình minh họa được thực hiện bởi [Horus Engels](../H/Horus_Engels.md). Bản dịch sửa đổi của ông đã được phát hành [1971](../_/1971.md) trên Georg Bitter Verlag dưới tên *Der kleine Hobbit*, ấn bản này có hình ảnh minh họa của [Klaus Ensikat](../K/Klaus_Ensikat.md).
 
 Sau khi nghỉ hưu vào năm [1982](../_/1982.md), ông tiếp tục nghiên cứu về Giáo dục, Tâm lý học và Văn hóa dân gian mà ông bắt đầu từ những năm 1960. Anh tốt nghiệp khóa [1986](../_/1986.md) với luận án *Die Herausforderung des Dämons: Form und Funktion grausiger Märchen* ("Thử thách của con quỷ: hình thức và chức năng của những câu chuyện cổ tích khủng khiếp").
 

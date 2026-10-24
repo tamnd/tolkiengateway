@@ -31,26 +31,26 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Ông Rang dường như đã viết bức thư này sau khi [J.S. Ryan](../J/John_Ryan.md) xuất bản cuốn "Thần thoại Đức ứng dụng", và đặt một số câu hỏi về những cái tên trong sách của Tolkien. Tolkien đã viết một bức thư trả lời dài nhưng bức thư này chưa bao giờ được gửi đi.
+Ông Rang hình như đã viết bức thư này sau khi [J.S. Ryan](../J/John_Ryan.md) xuất bản cuốn "Thần thoại Đức ứng dụng" và hỏi vài câu về những cái tên trong sách của Tolkien. Tolkien đã viết một bức thư trả lời dài nhưng bức thư này chưa bao giờ được gửi đi.
 
-Tolkien nói với ông Rang rằng tên và từ tượng thanh là thú vui cá nhân của ông và không hề liên quan đến các ngôn ngữ trong thế giới thực. Ông đề cập đến *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)*, ghi chép chuẩn bị cho người dịch, sau đó thảo luận về những thắc mắc và phỏng đoán cụ thể của Rang.
+Tolkien nói với anh Rang rằng tên và từ tượng thanh chỉ là thú vui cá nhân của anh, và không hề có mối liên hệ nào với các ngôn ngữ trong thế giới thực. Ông đề cập đến *[Nomenclature](../G/Guide_to_the_Names_in_The_Lord_of_the_Rings.md)*, ghi chép chuẩn bị cho người dịch, sau đó thảo luận về những thắc mắc và phỏng đoán cụ thể của Rang.
 
 - [Vui mừng](../I/Iris.md) (bông hoa): Được xác định là <i><a class="extiw" href="http://en.wikipedia.org/wiki/Iris_pseudacorus" title="wikipedia:Iris pseudacorus">Iris pseudocorus</a></i>, thay vì <i><a class="extiw" href="http://en.wikipedia.org/wiki/Iris_foetidissima" title="wikipedia:Iris foetidissima">Iris foetidissima</a></i>thông thường.
-- [Gimli](../G/Gimli.md#Etymology): Rang nối nó với một từ Anglo-saxon không được nhắc đến trong thư. Tên của Gimli xuất phát từ một từ Bắc Âu cổ đầy chất thơ, *gimm*, có lẽ có nghĩa là "ngọn lửa".
-- [Legolas](Legolas.md): Rang đã đoán được "Ổ khóa lửa", Tolkien trả lời: "ông ta không phải là [Balrog](../B/Balrogs.md)!". Legolas, như được dịch trong văn bản, có nghĩa là Greenleaf.
-- [Rohan](../R/Rohan.md): Rang tìm thấy tiếng Bắc Âu cổ *rann*, "ngôi nhà". Tolkien viết rằng nguồn gốc của ông không phù hợp với một dân tộc (một phần) vẫn là những người nuôi ngựa du mục. Rohan là [Sindarin](../S/Sindarin.md), nghĩa là "Vùng đất ngựa".
-- [Nazgul](../N/Nazgûl.md) *(sic)*: Từ này cũng được kết nối với một từ Anglo-saxon theo Rang, *gael-naes*. Tolkien chưa bao giờ nghe nói về từ ghép đó và nói rằng không có lý do gì có thể hiểu được để kết hợp [Black Speech](../B/Black_Speech.md) và Anglo-saxon.
-- [Moria](../M/Moria.md): Rang đã nối nó với dãy núi trong Kinh thánh <a class="extiw" href="http://en.wikipedia.org/wiki/Moriah" title="wikipedia:Moriah">Moriah</a>. Tolkien không thấy có mối liên hệ nào giữa việc khai thác [Người lùn](../D/Dwarves.md) và câu chuyện về Abraham.
+- [Gimli](../G/Gimli.md#Etymology): Rang nối nó với một từ Anglo-saxon không được nhắc đến trong thư. Tên của Gimli xuất phát từ một từ tiếng Bắc Âu cổ đầy chất thơ, *gimm*, có lẽ có nghĩa là "ngọn lửa".
+- [Legolas](Legolas.md): Rang đã đoán được "Khóa lửa", Tolkien trả lời: "ông không phải là [Balrog](../B/Balrogs.md)!". Legolas, như được dịch trong văn bản, có nghĩa là Greenleaf.
+- [Rohan](../R/Rohan.md): Rang tìm thấy tiếng Bắc Âu cổ *rann*, "ngôi nhà". Tolkien đã viết rằng nguồn gốc của ông ta không phù hợp với một dân tộc (một phần) vẫn là những người nuôi ngựa du mục. Rohan là [Sindarin](../S/Sindarin.md), nghĩa là "Đất ngựa".
+- [Nazgul](../N/Nazgûl.md) *(sic)*: Từ này cũng được kết nối với một từ Anglo-saxon theo Rang, *gael-naes*. Tolkien chưa bao giờ nghe nói về hợp chất đó và cho biết không có lý do hợp lý nào để kết hợp [Hắc Ngữ](../B/Black_Speech.md) và Anglo-saxon.
+- [Moria](../M/Moria.md): Rang đã nối nó với dãy núi trong Kinh thánh <a class="extiw" href="http://en.wikipedia.org/wiki/Moriah" title="wikipedia:Moriah">Moriah</a>. Tolkien không thấy có mối liên hệ nào giữa việc khai thác [Người Lùn](../D/Dwarves.md) và câu chuyện về Abraham.
 
-Sau lần "làm thẳng" này, Tolkien đã liệt kê những ảnh hưởng bên ngoài vào những cái tên đúng. Tên người lùn đến từ *[Völuspá](../V/Völuspá.md)*. Rohan chỉ trên danh nghĩa chịu ảnh hưởng của gia đình Normandic <a class="extiw" href="http://en.wikipedia.org/wiki/Rohan_(family)" title="wikipedia:Rohan (family)">Rohan</a>.
+Sau lần “làm thẳng” này, Tolkien đã liệt kê những ảnh hưởng bên ngoài vào những cái tên đúng sự thật. Người lùn tên đến từ *[Völuspá](../V/Völuspá.md)*. Rohan chỉ trên danh nghĩa chịu ảnh hưởng của gia đình Normand <a class="extiw" href="http://en.wikipedia.org/wiki/Rohan_(family)" title="wikipedia:Rohan (family)">Rohan</a>.
 
-- *[Dor](../D/Dor.md)*, "đất", có mối liên hệ gần gũi hơn với <a class="extiw" href="http://en.wikipedia.org/wiki/Labrador" title="wikipedia:Labrador">Labrador</a> so với <a class="extiw" href="http://en.wikipedia.org/wiki/Endor_(village)" title="wikipedia:Endor (village)">Endor</a>trong Kinh thánh. Moria được chọn vì Tolkien thích chiếc nhẫn của <a class="extiw" href="http://en.wikipedia.org/wiki/Soria_Moria_Castle" title="wikipedia:Soria Moria Castle">lâu đài Soria Moria</a>.
+- *[Dor](../D/Dor.md)*, "đất", có mối liên hệ gần gũi hơn với <a class="extiw" href="http://en.wikipedia.org/wiki/Labrador" title="wikipedia:Labrador">Labrador</a> so với <a class="extiw" href="http://en.wikipedia.org/wiki/Endor_(village)" title="wikipedia:Endor (village)">Endor</a>trong Kinh thánh. Moria được chọn vì Tolkien thích chiếc nhẫn của <a class="extiw" href="http://en.wikipedia.org/wiki/Soria_Moria_Castle" title="wikipedia:Soria Moria Castle">Lâu đài Soria Moria</a>.
 
-Sau đó, Tolkien đề cập đến một trường hợp ông không hề biết đến việc “vay mượn”. Đối với *[Nazg](../N/Nazg.md)*, Tolkien không biết rằng có một từ Gaelic *nasc*, có nghĩa là "chiếc nhẫn".
+Sau đó, Tolkien đề cập đến một trường hợp ông ta không hề biết về việc “vay”. Đối với *[Nazg](../N/Nazg.md)*, Tolkien không biết rằng có một từ Gaelic *nasc*, có nghĩa là "chiếc nhẫn".
 
-Sự vay mượn thực sự duy nhất là [Eärendil](../E/Eärendil.md), từ một cái tên Anglo-saxon <i><a class="extiw" href="http://en.wikipedia.org/wiki/Aurvandil" title="wikipedia:Aurvandil">Aurvandil</a></i>. Cả hai đều biểu thị Sao Mai, Sao Kim. Vì lúc đó *[The Silmarillion](../T/The_Silmarillion.md)* vẫn chưa được xuất bản nên Tolkien đã viết ngắn gọn về câu chuyện của Ëarendil.
+Sự vay mượn thực sự duy nhất là [Eärendil](../E/Eärendil.md), từ một cái tên Anglo-saxon <i><a class="extiw" href="http://en.wikipedia.org/wiki/Aurvandil" title="wikipedia:Aurvandil">Aurvandil</a></i>. Cả hai đều biểu thị Sao Mai, Sao Kim. Vì lúc đó *[The Silmarillion](../T/The_Silmarillion.md)* chưa được xuất bản nên Tolkien đã viết ngắn gọn về câu chuyện của Ëarendil.
 
-Một ghi chú văn bản đề cập đến văn bản kết thúc bằng một cuộc thảo luận về tôn giáo Númenórean, thật không may, đã bị bỏ qua. <br>
+Một ghi chú văn bản đề cập đến văn bản kết thúc bằng một cuộc thảo luận về tôn giáo Númenórean, đáng tiếc là đã bị bỏ qua. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

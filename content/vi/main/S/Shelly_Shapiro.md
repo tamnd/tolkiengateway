@@ -23,7 +23,7 @@ images:
 
 **Shelly Shapiro** là biên tập viên của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Del_Rey&amp;action=edit&amp;redlink=1" title="Del Rey (page does not exist)">Del Rey</a> Sách chuyên về dòng Chiến tranh giữa các vì sao.
 
-Trước đây, cô từng làm họa sĩ minh họa và vẽ bản đồ cho các tác phẩm hư cấu. Trong [1988](../_/1988.md) cô đã sao chép một số bản đồ của [Trung địa](../M/Middle-earth.md): *[Map of Rohan, Gondor, and Mordor](../M/Map_of_Rohan,_Gondor,_and_Mordor.md)*, *[The West of Middle-earth at the End of the Third Age](../T/The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md)* và *[Númenórë‎](<../N/Númenórë_(map).md>)*.
+Trước đây, cô từng làm họa sĩ minh họa và vẽ bản đồ cho các tác phẩm hư cấu. Trong [1988](../_/1988.md) cô đã sao chép một số bản đồ của [Trung Địa](../M/Middle-earth.md): *[Map of Rohan, Gondor, and Mordor](../M/Map_of_Rohan,_Gondor,_and_Mordor.md)*, *[The West of Middle-earth at the End of the Third Age](../T/The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md)* và *[Númenórë‎](<../N/Númenórë_(map).md>)*.
 
 ## Xem thêm {#See_also}
 

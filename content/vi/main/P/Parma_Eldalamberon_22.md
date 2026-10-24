@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_22.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/22/Parma_Eldalamberon_22.jpg/320px-Parma_Eldalamberon_22.jpg" decoding="async" loading="lazy" width="320" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/22/Parma_Eldalamberon_22.jpg/480px-Parma_Eldalamberon_22.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/22/Parma_Eldalamberon_22.jpg/640px-Parma_Eldalamberon_22.jpg 2x" data-file-width="1275" data-file-height="1650"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 22<br/><small>The Feanorian Alphabet, Part 1; Quenya Verb Structure</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Gilson.md" title="Christopher Gilson">Christopher Gilson</a> and <a href="../A/Arden_R._Smith.md" title="Arden R. Smith">Arden R. Smith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/12_June.md" title="12 June">12 June</a> <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">170</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 22: Bảng chữ cái Feanorian, Phần 1 & Cấu trúc động từ Quenya</b></i> là số thứ 22 của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ và tên của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Parma Eldalamberon 22: Bảng chữ cái Feanorian, Phần 1 & Quenya Cấu trúc động từ</b></i> là số thứ 22 của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, một tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 Bìa trước: bản fax *"Qenya Grammar: Spelling and transcription"* <br>Bìa sau: phần tiếp theo của bản thảo
 
@@ -47,21 +47,21 @@ Bìa trước: bản fax *"Qenya Grammar: Spelling and transcription"* <br>Bìa 
     - Phiên bản A
         - Bảng chữ cái Feanorian - Cách sử dụng Lindarin
         - Sử dụng Parmaqestarin
-        - Cách sử dụng Noldorin hay Feanorian cổ
+        - Cách sử dụng Old Noldorin hoặc Feanorian
         - Cách sử dụng Beleriandic hoặc Exilic
     - Phiên bản A'
         - Chế độ Parmaqestarin
 
-- "Chính tả Qenya" — J.R.R. Tolkien, eds. Christopher Gilson và Arden R. Smith
+- "Qenya Chính tả" — J.R.R. Tolkien, eds. Christopher Gilson và Arden R. Smith
     - Giới thiệu
-    - Ngữ pháp Qenya - Chính tả và Phiên âm
-    - Về cách đánh vần của Ælfwine
+    - Qenya Ngữ pháp - Chính tả và Phiên âm
+    - Về chính tả của Ælfwine
 
-- "Cấu trúc động từ Quenya" — J.R.R. Tolkien, ed. Christopher Gilson
+- "Quenya Cấu trúc động từ" — J.R.R. Tolkien, ed. Christopher Gilson
     - Giới thiệu
-    - Cấu trúc lời nói Quendian & Eldarin thông dụng
-    - Hệ thống ngôn từ Quenya - Cách chia động từ & Cú pháp
-    - Eldarin thông dụng: Cấu trúc động từ
+    - Cấu trúc câu Quendian & Common Eldarin
+    - Quenya Hệ thống lời nói - Cách chia động từ & Cú pháp
+    - Common Eldarin: Cấu trúc động từ
     - Những lưu ý muộn về cấu trúc động từ
 
 - Danh sách từ viết tắt
@@ -70,11 +70,11 @@ Bìa trước: bản fax *"Qenya Grammar: Spelling and transcription"* <br>Bìa 
 
 **"Bảng chữ cái Feanorian, Phần 1"** — Đây là phiên bản sớm nhất và dài nhất của mô tả chi tiết về hệ thống chữ viết này có niên đại từ cuối những năm 1930. Bốn phương thức sử dụng được mô tả để thể hiện các ngôn ngữ được phát minh khác nhau — *Lindarin Qenya, Parmaqestarin, Old Noldorin,* và *Beleriandic* — đối với phương thức thứ hai cũng có phiên bản sửa đổi của văn bản từ những năm 1940. Có các bảng cho từng chế độ với các chữ cái được sử dụng và tên của chúng. Các ví dụ được đưa ra từ các ngôn ngữ khác nhau, bằng tengwar có phiên âm, để minh họa các điểm sử dụng khác nhau và những thay đổi lịch sử nhất định đã ảnh hưởng đến hệ thống chữ viết.
 
-**"Chính tả Qenya"** là phần còn sót lại của "Ngữ pháp Qenya" gần giống với phiên bản đầu tiên của "Bảng chữ cái Feanorian". Nó mô tả cách đánh vần ngôn ngữ viết trong hệ thống chữ viết Feanorian và phiên âm các âm thanh của nó trong bảng chữ cái Latinh theo cách sử dụng Ælfwine. Dựa trên điều này và được Tolkien đặt cùng với nó, là 6 phiên bản của một văn bản ngắn có tên **"Về cách đánh vần của Ælfwine"**. Bản mới nhất trong số này có những sửa đổi có lẽ có từ khoảng năm 1950.
+**"Qenya Chính tả"** là phần còn sót lại của "Qenya Ngữ pháp" gần giống với phiên bản đầu tiên của "Bảng chữ cái Feanorian". Nó mô tả cách đánh vần ngôn ngữ viết trong hệ thống chữ viết Feanorian và phiên âm các âm thanh của nó trong bảng chữ cái Latinh theo cách sử dụng Ælfwine. Dựa trên điều này và được Tolkien đặt cùng với nó, là 6 phiên bản của một văn bản ngắn có tên **"Về chính tả của Ælfwine"**. Bản mới nhất trong số này có những sửa đổi có lẽ có từ khoảng năm 1950.
 
-**"Cấu trúc động từ Quendian & Eldarin thông dụng"** có lẽ có từ những năm 1940. Nó mô tả nền tảng từ nguyên của cấu trúc ngữ pháp của động từ Quenya và các mối liên hệ thời tiền sử của nó với hệ thống lời nói của các ngôn ngữ Tiên khác. Được đặt cùng với nó và có lẽ ban đầu được dự định là phần tiếp theo là **"Hệ thống lời nói Quenya"** Đây là một phần của "Ngữ pháp Quenya" có lẽ đã có từ những năm 1940. Nó mô tả sự hình thành của các gốc và phân từ thì khác nhau của động từ Quenya cũng như các cách biến đổi của chúng đối với số lượng và giọng nói, kèm theo một số ghi chú về cú pháp và một phần về "Động từ bất quy tắc".
+**"Cấu trúc động từ & Common Eldarin"** có lẽ có từ những năm 1940. Nó mô tả nền tảng từ nguyên của cấu trúc ngữ pháp của động từ Quenya và các mối liên hệ thời tiền sử của nó với hệ thống lời nói của các ngôn ngữ Elvish khác. Được đặt cùng với nó và có lẽ ban đầu được dự định là phần tiếp theo là **"Quenya Hệ thống ngôn ngữ"** Đây là một phần của "Quenya Ngữ pháp" có lẽ đã có từ những năm 1940. Nó mô tả sự hình thành của các thân thì và phân từ khác nhau của động từ Quenya cũng như các biến thể của chúng đối với số lượng và giọng nói, kèm theo một số ghi chú về cú pháp và một phần về "Động từ bất quy tắc".
 
-**"Common Eldarin: Cấu trúc động từ"** là bản sửa đổi và xây dựng từ tài liệu Quendian và Common Eldarin, có từ khoảng năm 1950. Đây là phần đồng hành với **"Eldarin thông thường: Cấu trúc danh từ"** được xuất bản trong [*Parma Eldalamberon*, không. 21](Parma_Eldalamberon_21.md), cả hai đều là một phần của ngữ pháp so sánh dự kiến ​​của các ngôn ngữ Eldarin. Vào cuối những năm 1960, Tolkien đã lên kế hoạch sửa đổi thêm những tài liệu này. **"Ghi chú muộn về cấu trúc động từ"** là một tập hợp các văn bản có niên đại từ năm 1969, đề cập đến các quan niệm đã được sửa đổi của Tolkien về biến cách ngôn từ đối với thì, nội dung lời nói và tính từ, biểu thức điều kiện và động từ phủ định.
+**"Common Eldarin: Cấu trúc động từ"** là bản sửa đổi và xây dựng từ tài liệu Quendian và Common Eldarin, có từ khoảng năm 1950. Đây là phần đi kèm với **"Common Eldarin: Cấu trúc danh từ"** được xuất bản trong [*Parma Eldalamberon*, không. 21](Parma_Eldalamberon_21.md), cả hai đều là một phần của ngữ pháp so sánh dự kiến ​​của các ngôn ngữ Eldarin. Vào cuối những năm 1960 Tolkien đã lên kế hoạch sửa đổi thêm những tài liệu này. **"Ghi chú muộn về cấu trúc động từ"** là một tập hợp các văn bản có niên đại từ năm 1969, đề cập đến các quan niệm đã được sửa đổi của Tolkien về sự biến cách ngôn từ đối với thì, nội dung động từ và tính từ, biểu thức điều kiện và động từ phủ định.
 
 ## Liên kết ngoài {#External_links}
 

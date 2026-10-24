@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kilpatrick, Joel"
 ---
 
-- [Hội đồng Nhẫn](../../main/C/Council_of_the_Rings.md) đã vui lòng cho phép họ sử dụng các hình minh họa mà họ đã ủy quyền trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- [Hội đồng of the Rings](../../main/C/Council_of_the_Rings.md) đã vui lòng cho phép họ sử dụng các hình minh họa mà họ đã ủy quyền cho [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: [Ngày 3 tháng 6](../../main/J/June_3.md), [2023](../../main/_/2023.md)
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

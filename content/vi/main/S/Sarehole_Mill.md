@@ -41,11 +41,11 @@ images:
 <p class="tg-quote-footer"><cite><a href="../L/Letter_44.md" title="Letter 44">Letter 44</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<br> **Nhà máy Sarehole** nằm trên Đường Cole Bank, là một nhà máy nước nằm ở Sarehole, [Birmingham](../B/Birmingham.md). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sống cách nhà máy 300 mét từ năm 1896 đến năm 1900, từ 4 đến 8 tuổi. Nhà máy hiện là một bảo tàng do Quỹ Bảo tàng Birmingham điều hành.
+<br> **Nhà máy Sarehole** nằm trên đường Cole Bank, là một nhà máy nước nằm ở Sarehole, [Birmingham](../B/Birmingham.md). [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sống cách nhà máy 300 mét từ năm 1896 đến năm 1900, từ 4 đến 8 tuổi. Nhà máy hiện nay là một bảo tàng do Birmingham Museums Trust điều hành.
 
 ## Lịch sử Nhà máy {#History_of_the_Mill}
 
-Sarehole Mill được xây dựng vào năm 1765 trên địa điểm của một nhà máy thậm chí còn cũ hơn, Biddle's Mill, có từ năm 1540. Sarehole chủ yếu được sử dụng để nghiền ngô. Cha của Matthew Boulton đã thuê trang trại Mill and Sarehole vào năm 1756. Khi cha ông qua đời, Boulton đã sử dụng Mill để chế tạo các nút và cán kim loại cho đến khi ông chuyển hoạt động của mình đến Handsworth vào năm 1761. Vào cuối những năm 1890, Sarehole là nỗi ám ảnh thời thơ ấu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [anh trai ông](../H/Hilary_Tolkien.md), đồng thời nổi tiếng được dùng làm nguồn cảm hứng cho [the Shire](../T/The_Shire.md).
+Sarehole Mill được xây dựng vào năm 1765 trên địa điểm của một nhà máy thậm chí còn cũ hơn, Biddle's Mill, có từ năm 1540. Sarehole chủ yếu được sử dụng để nghiền ngô. Cha của Matthew Boulton đã thuê trang trại Mill and Sarehole vào năm 1756. Khi cha ông qua đời, Boulton đã sử dụng Mill để chế tạo các nút và cán kim loại cho đến khi ông chuyển hoạt động của mình đến Handsworth vào năm 1761. Vào cuối những năm 1890, Sarehole là nỗi ám ảnh thời thơ ấu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [anh trai ông](../H/Hilary_Tolkien.md), đồng thời nổi tiếng được sử dụng làm nguồn cảm hứng cho [ Shire](../T/The_Shire.md).
 
 <br>
 
@@ -59,11 +59,11 @@ Các chàng trai Tolkien đã đặt biệt danh cho người thợ xay trẻ tu
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg/300px-J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg" decoding="async" loading="lazy" width="300" height="399" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg/450px-J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5d/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg/600px-J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg 2x" data-file-width="1156" data-file-height="1539"/></a><figcaption>Hobbiton by JRR Tolkien</figcaption></figure>
 
-Sarehole là hình mẫu cho [the Shire](../T/The_Shire.md), quê hương của [Bilbo Baggins](../B/Bilbo_Baggins.md) ở *[The Hobbit](../T/The_Hobbit.md)*. Đối với Sarehole Mill, đó là nguồn cảm hứng cho [Old Mill](../O/Old_Mill.md). Tolkien dựa trên [Ted Sandyman](../T/Ted_Sandyman.md) (người thợ xay) tính tình xấu tính trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+Sarehole là hình mẫu cho [ Shire](../T/The_Shire.md), ngôi nhà của [Bilbo Baggins](../B/Bilbo_Baggins.md) ở *[The Hobbit](../T/The_Hobbit.md)*. Đối với Sarehole Mill, đó là nguồn cảm hứng cho [Old Mill](../O/Old_Mill.md). Tolkien dựa trên [Ted Sandyman](../T/Ted_Sandyman.md) (người thợ xay) xấu tính ở *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 Khi Tolkien đến thăm Birmingham cùng gia đình ở [1933](../_/1933.md), ông đã than thở về những thay đổi ở Sarehole, vì Birmingham đã tiếp tục phát triển cho đến khi Sarehole chỉ là một vùng ngoại ô trong một thành phố rộng lớn. Năm 1933, phần lớn diện tích này vẫn là đất nông nghiệp nhưng có thêm nhiều nhà cửa và vườn tược.
 
-Tolkien đã đăng ký lời kêu gọi khôi phục Nhà máy và kể từ đó [2005](../_/2005.md) nó đã trở thành một chi nhánh của Bảo tàng và Phòng trưng bày Nghệ thuật thành phố.<sup id="cite_ref-rc_2-0" class="reference"><a href="#cite_note-rc-2">[2]</a></sup> Nhà máy mở cửa cho công chúng từ tháng 4 đến tháng 10 và tổ chức các bữa tiệc ở trường trong suốt cả năm. <span></span>
+Tolkien đã đăng ký lời kêu gọi khôi phục Nhà máy và kể từ đó [2005](../_/2005.md) nó đã trở thành một chi nhánh của Bảo tàng và Phòng trưng bày Nghệ thuật thành phố.<sup id="cite_ref-rc_2-0" class="reference"><a href="#cite_note-rc-2">[2]</a></sup> Nhà máy mở cửa cho công chúng từ tháng 4 đến tháng 10 và tổ chức các bữa tiệc của trường trong suốt cả năm. <span></span>
 
 ## Tài liệu tham khảo {#References}
 
@@ -77,6 +77,6 @@ Tolkien đã đăng ký lời kêu gọi khôi phục Nhà máy và kể từ đ
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.bplphoto.co.uk/TolkiensBirmingham/TolkienSarehole.htm" rel="noreferrer noopener" target="_blank">Birmingham của Tolkien</a>
+- <a class="external text" href="http://www.bplphoto.co.uk/TolkiensBirmingham/TolkienSarehole.htm" rel="noreferrer noopener" target="_blank">Tolkien của Birmingham</a>
 - <a class="external text" href="http://www.birmingham.gov.uk/sarehole.bcc" rel="noreferrer noopener" target="_blank">Nhà máy Sarehole</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Sarehole_Mill" title="wikipedia:Sarehole Mill">Nhà máy Sarehole</a> trên Wikipedia

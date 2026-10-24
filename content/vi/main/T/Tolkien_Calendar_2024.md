@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2024.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e7/Tolkien_Calendar_2024.jpg/320px-Tolkien_Calendar_2024.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e7/Tolkien_Calendar_2024.jpg/480px-Tolkien_Calendar_2024.jpg 1.5x, https://tolkiengateway.net/w/images/e/e7/Tolkien_Calendar_2024.jpg 2x" data-file-width="595" data-file-height="595"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2024</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/15_August.md" title="15 August">15 August</a> <a href="../_/2023.md" title="2023">2023</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">12</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0063329706" title="Special:BookSources/978-0063329706">978-0063329706</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2023.md" title="Tolkien Calendar 2023">Tolkien Calendar 2023</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2025.md" title="Tolkien Calendar 2025">Tolkien Calendar 2025</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2024</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [15 tháng 8](../_/15_August.md) [2023](../_/2023.md). Nó giới thiệu nghệ thuật của [Thời thứ hai](../S/Second_Age.md) của [Alan Lee](../A/Alan_Lee.md) với phần giới thiệu của [Brian Sibley](../B/Brian_Sibley.md), biên tập viên của *[The Fall of Númenor](The_Fall_of_Númenor.md)*.
+Lịch <i><b>Tolkien 2024</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [15 tháng 8](../_/15_August.md) [2023](../_/2023.md). Nó giới thiệu tác phẩm nghệ thuật [Kỷ Đệ Nhị](../S/Second_Age.md) của [Alan Lee](../A/Alan_Lee.md) với phần giới thiệu của [Brian Sibley](../B/Brian_Sibley.md), biên tập viên của *[The Fall of Númenor](The_Fall_of_Númenor.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -50,24 +50,24 @@ infobox:
 
 ## Minh họa {#Illustrations}
 
-- Bìa - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=File:Alan_Lee_-_The_Faithful_escaping_the_Downfall&amp;action=edit&amp;redlink=1" title="File:Alan Lee - The Faithful escaping the Downfall (page does not exist)">Người trung thành thoát khỏi sự sụp đổ</a>"
-- [Tháng 1](../J/January.md) - "[Đoàn quân Valar tiến vào Angbad](../../file/A/Alan_Lee_-_Ruin_of_Angband.jpg.md)"
-- [Tháng 2](../F/February.md) - "[Nhìn về phía Tây từ Andúnië](../../file/A/Alan_Lee_-_Looking_West_from_Andunie.jpg.md)" với phần phụ "[Armenelos](../../file/A/Alan_Lee_-_Armenelos.jpg.md)"
-- [Tháng 3](../M/March.md) - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=File:Alan_Lee_-_Aldarion_departs_N%C3%BAmenor.jpg&amp;action=edit&amp;redlink=1" title="File:Alan Lee - Aldarion departs Númenor.jpg (page does not exist)">Aldarion rời Númenor</a>"
+- Bìa - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=File:Alan_Lee_-_The_Faithful_escaping_the_Downfall&amp;action=edit&amp;redlink=1" title="File:Alan Lee - The Faithful escaping the Downfall (page does not exist)">Người trung thành thoát khỏi Sự sụp đổ</a>"
+- [Tháng 1](../J/January.md) - "[Vật chủ của Valar giáng xuống Angbad](../../file/A/Alan_Lee_-_Ruin_of_Angband.jpg.md)"
+- [Tháng 2](../F/February.md) - "[Đang tìm kiếm Phương Tây từ Andúnië](../../file/A/Alan_Lee_-_Looking_West_from_Andunie.jpg.md)" có phần phụ "[Armenelos](../../file/A/Alan_Lee_-_Armenelos.jpg.md)"
+- [Tháng 3](../M/March.md) - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=File:Alan_Lee_-_Aldarion_departs_N%C3%BAmenor.jpg&amp;action=edit&amp;redlink=1" title="File:Alan Lee - Aldarion departs Númenor.jpg (page does not exist)">Aldarion khởi hành Númenor</a>"
 - [Tháng 4](../A/April.md) - "[Tòa nhà Barad-dûr](../../file/A/Alan_Lee_-_The_building_of_Barad-dur.jpg.md)"
 - [Tháng 5](../M/May.md) - "[Việc rèn những chiếc nhẫn](../../file/A/Alan_Lee_-_The_forging_of_the_Rings.jpg.md)"
-- [Tháng 6](../J/June.md) - "[Galadriel dẫn dắt Yêu tinh đi qua Moria](../../file/A/Alan_Lee_-_Galadriel_in_Moria.jpg.md)"
+- [Tháng 6](../J/June.md) - "[Galadriel dẫn Tiên tộc đến Moria](../../file/A/Alan_Lee_-_Galadriel_in_Moria.jpg.md)"
 - [Tháng 7](../J/July.md) - "[Đền Sauron](../../file/A/Alan_Lee_-_The_Temple_of_Sauron.jpg.md)"
 - [Tháng 8](../A/August.md) - "[Ar-Pharazôn tấn công Valinor](../../file/A/Alan_Lee_-_Ar-Pharazon_assails_Valinor.jpg.md)"
-- [Tháng 9](../S/September.md) - "[Sự sụp đổ của Númenor](../../file/A/Alan_Lee_-_Fall_of_Númenor.jpg.md)" kèm theo nội dung "[Những chú đại bàng và quân đội](../../file/A/Alan_Lee_-_The_Eagles_and_the_Army.jpg.md)"
-- [Tháng 10](../O/October.md) - "[Gil-galad vượt qua dãy núi mù sương](../../file/A/Alan_Lee_-_Gil-Galad_Crosses_the_Misty_Mountains.jpg.md)"
-- [Tháng 11](../N/November.md) - "[Liên minh cuối cùng giữa Yêu tinh và Con người](../../file/A/Alan_Lee_-_The_Last_Alliance_of_Elves_and_Men.jpg.md)"
-- [Tháng 12](../D/December.md) - "[Isildur đánh mất chiếc nhẫn](../../file/A/Alan_Lee_-_Isildur_loses_the_Ring.jpg.md)"
-- [2025](../_/2025.md) - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=File:Alan_Lee_-_The_Faithful_escaping_the_Downfall&amp;action=edit&amp;redlink=1" title="File:Alan Lee - The Faithful escaping the Downfall (page does not exist)">Người trung thành thoát khỏi sự suy sụp</a>"
+- [tháng Chín](../S/September.md) - "[The Fall of Númenor](../../file/A/Alan_Lee_-_Fall_of_Númenor.jpg.md)" có phần phụ "[ Đại Bàng và Quân đội](../../file/A/Alan_Lee_-_The_Eagles_and_the_Army.jpg.md)"
+- [Tháng 10](../O/October.md) - "[Gil-galad Vượt qua Dãy Núi Sương Mù](../../file/A/Alan_Lee_-_Gil-Galad_Crosses_the_Misty_Mountains.jpg.md)"
+- [Tháng 11](../N/November.md) - "[ Liên minh Cuối cùng của Tiên tộc và Con Người](../../file/A/Alan_Lee_-_The_Last_Alliance_of_Elves_and_Men.jpg.md)"
+- [Tháng 12](../D/December.md) - "[Isildur mất Chiếc nhẫn](../../file/A/Alan_Lee_-_Isildur_loses_the_Ring.jpg.md)"
+- [2025](../_/2025.md) - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=File:Alan_Lee_-_The_Faithful_escaping_the_Downfall&amp;action=edit&amp;redlink=1" title="File:Alan Lee - The Faithful escaping the Downfall (page does not exist)">Người trung thành thoát khỏi Sự sụp đổ</a>"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.harpercollins.com/products/tolkien-calendar-2024-j-r-r-tolkien?variant" rel="noreferrer noopener" target="_blank">= 41007163375650 Lịch Tolkien 2024</a> tại HarperCollins
+- <a class="external text" href="https://www.harpercollins.com/products/tolkien-calendar-2024-j-r-r-tolkien?variant" rel="noreferrer noopener" target="_blank">= 41007163375650 Tolkien Lịch 2024</a> lúc HarperCollins
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

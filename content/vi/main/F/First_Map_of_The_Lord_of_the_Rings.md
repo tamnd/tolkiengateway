@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The First Map of The Lord of the Rings"
 ---
 
-Chuyển hướng tới [Bản đồ đầu tiên của Chúa tể những chiếc nhẫn](../T/The_First_Map_of_The_Lord_of_the_Rings.md).
+Chuyển hướng đến [Bản đồ đầu tiên của The Lord of the Rings](../T/The_First_Map_of_The_Lord_of_the_Rings.md).

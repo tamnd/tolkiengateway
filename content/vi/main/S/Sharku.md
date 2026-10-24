@@ -47,13 +47,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sharku là thủ lĩnh kỳ cựu của một nhóm cướp bóc Warg-riders hoạt động sâu vào lãnh thổ của [Gondor](../G/Gondor.md) và [Rohan](../R/Rohan.md), gieo rắc sự hoảng loạn và sợ hãi cho những kẻ thù của [Saruman](Saruman.md).
+Sharku là thủ lĩnh kỳ cựu của một nhóm cướp bóc Warg-riders hoạt động sâu vào các vương quốc [Gondor](../G/Gondor.md) và [Rohan](../R/Rohan.md), gieo rắc sự hoảng loạn và sợ hãi cho kẻ thù của [Saruman](Saruman.md).
 
-Vào thời điểm [Cuộc chiến trên chiếc nhẫn](../W/War_of_the_Ring.md), ông ta đã ủng hộ [Pháp sư](../W/Wizards.md) hư hỏng, [Saruman](Saruman.md). Ông ta được giao nhiệm vụ phục kích đoàn quân [Rohirrim](../R/Rohirrim.md) phụ nữ và trẻ em đang rút lui khỏi [Edoras](../E/Edoras.md) đến nơi an toàn ở [Helm's Deep](../H/Helm's_Deep.md). [Théoden](../T/Théoden.md) và cận vệ của ông ta, với sự giúp đỡ của [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md), đã chống đỡ được cuộc tấn công. Tuy nhiên, trong trận chiến, Aragorn bị vướng vào dây nịt của Sharku's Warg và cả quái thú và người kiểm lâm đều rơi xuống một vách đá. Sharku, bị trọng thương, chỉ sống sót đủ lâu để hả hê về cái chết rõ ràng của Aragorn đối với Legolas và Gimli.
+Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), ông ta đã ủng hộ [Pháp sư](../W/Wizards.md), [Saruman](Saruman.md) bị hỏng. Ông ta được giao nhiệm vụ phục kích đoàn quân [Rohirrim](../R/Rohirrim.md) phụ nữ và trẻ em đang rút lui từ [Edoras](../E/Edoras.md) về nơi an toàn [Helm's Deep](../H/Helm's_Deep.md). [Théoden](../T/Théoden.md) và người bảo vệ của ông ta, với sự giúp đỡ của [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md), đã chống đỡ được cuộc tấn công. Tuy nhiên, trong trận chiến, Aragorn bị vướng vào dây nịt của Warg của Sharku và cả con thú và người kiểm lâm đều rơi xuống một vách đá. Sharku, bị trọng thương, chỉ sống sót đủ lâu để hả hê về cái chết rõ ràng của Aragorn đối với Legolas và Gimli.
 
 ## Từ nguyên {#Etymology}
 
-*[Sharkû](Sharkû.md)* là từ [Bài phát biểu của người da đen](../B/Black_Speech.md) có nghĩa là "Ông già",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> rất có thể đề cập đến [Sharkey](Sharkey.md), cái tên mà Saruman sử dụng khi điều khiển [The Shire](../T/The_Shire.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*[Sharkû](Sharkû.md)* là từ [Hắc Ngữ](../B/Black_Speech.md) có nghĩa là "Ông già",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> rất có thể ám chỉ [Sharkey](Sharkey.md), cái tên Saruman được sử dụng khi ông điều khiển [The Shire](../T/The_Shire.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

@@ -11,4 +11,4 @@ redirect_target: "Olwë"
 redirect_fragment: "Other names"
 ---
 
-Chuyển hướng tới [Olwë](Olwë.md#Other_names).
+Chuyển hướng đến [Olwë](Olwë.md#Other_names).

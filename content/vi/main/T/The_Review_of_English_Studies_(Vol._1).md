@@ -35,7 +35,7 @@ infobox:
 
 <b><i>Tạp chí nghiên cứu tiếng Anh: Tạp chí hàng quý về văn học Anh và ngôn ngữ tiếng Anh</i>, Tập. 1</b> là tập sách năm 1969 tập hợp bốn số *The Review of English Studies* xuất bản trong [1925](../_/1925.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Tập này bao gồm các bài luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) "[Một số đóng góp cho từ điển học tiếng Anh trung cổ](../S/Some_Contributions_to_Middle-English_Lexicography.md)" (từ [*The Review of English Studies*, Tập 1 số 2](<The_Review_of_English_Studies_(Vol._1_No._2).md>)) và "[Huấn luyện viên ngựa của quỷ](The_Devil's_Coach-Horses.md)" (từ [*The Review of English Studies*, Tập 1 số 3](<The_Review_of_English_Studies_(Vol._1_No._3).md>)).
+Tập này bao gồm các bài tiểu luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)"[Một số đóng góp cho từ điển học tiếng Anh trung cổ](../S/Some_Contributions_to_Middle-English_Lexicography.md)" (từ [*The Review of English Studies*, Tập 1 số 2](<The_Review_of_English_Studies_(Vol._1_No._2).md>)) và "[Huấn luyện viên ngựa của quỷ](The_Devil's_Coach-Horses.md)" (từ [*The Review of English Studies*, Tập 1 số 3](<The_Review_of_English_Studies_(Vol._1_No._3).md>)).
 
 <br> <span></span>
 

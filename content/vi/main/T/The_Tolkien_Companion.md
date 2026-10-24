@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Complete Tolkien Companion"
 ---
 
-Chuyển hướng đến [Người bạn đồng hành hoàn chỉnh của Tolkien](The_Complete_Tolkien_Companion.md).
+Chuyển hướng tới [Bộ đồng hành Tolkien hoàn chỉnh](The_Complete_Tolkien_Companion.md).

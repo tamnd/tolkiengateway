@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-<a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Madras" title="wikipedia:University of Madras">Đại học Madras</a>, Ấn Độ đã bổ nhiệm Tolkien làm thành viên Ban giám khảo - mà không hỏi ý kiến ​​Tolkien. Trong đoạn này, Tolkien đã kính cẩn từ chối chức vụ Giám khảo vì ông đã nghỉ hưu và không còn hứng thú với việc giảng dạy và kiểm tra nữa.
+<a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Madras" title="wikipedia:University of Madras">Đại học Madras</a>, Ấn Độ đã bổ nhiệm Tolkien làm thành viên Hội đồng chấm thi - mà không cần tham khảo ý kiến ​​ Tolkien. Ở phần này, Tolkien đã trân trọng từ chối chức vụ Giám khảo vì ông đã nghỉ hưu và không còn hứng thú với việc giảng dạy, kiểm tra nữa.
 
 <br>
 

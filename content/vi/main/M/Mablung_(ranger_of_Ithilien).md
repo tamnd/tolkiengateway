@@ -68,21 +68,21 @@ infobox:
 <p class="tg-quote-footer"><cite>Mablung in <i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../O/Of_Herbs_and_Stewed_Rabbit.md" title="Of Herbs and Stewed Rabbit">Of Herbs and Stewed Rabbit</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Mablung** là [kiểm lâm của Ithilien](../R/Rangers_of_Ithilien.md) trong [War of the Ring](../W/War_of_the_Ring.md).
+**Mablung** là [kiểm lâm của Ithilien](../R/Rangers_of_Ithilien.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
 ## Lịch sử {#History}
 
-Gia đình Mablung đã sống ở [Ithilien](../I/Ithilien.md) trước khi nơi này bị quân [Sauron](../S/Sauron.md) tràn ngập. Vì vậy, anh đã được xếp vào một trong những Biệt đội của Ithilien, những người đột phá đáng tin cậy nhất của [Denethor](../D/Denethor.md).<sup id="cite_ref-Herbs_2-0" class="reference"><a href="#cite_note-Herbs-2">[2]</a></sup>
+Gia đình của Mablung đã sống ở [Ithilien](../I/Ithilien.md) trước khi nơi này bị quân [Sauron](../S/Sauron.md) tràn ngập. Nhờ đó, anh đã được xếp vào một trong những Rangers của Ithilien, những người đột phá đáng tin cậy nhất của [Denethor](../D/Denethor.md).<sup id="cite_ref-Herbs_2-0" class="reference"><a href="#cite_note-Herbs-2">[2]</a></sup>
 
-Cùng với [Damrod](../D/Damrod.md), [Anborn](../A/Anborn.md) và một số người khác, Mablung phục vụ dưới quyền [Thuyền trưởng của Gondor](../C/Captain_of_Gondor.md) [Faramir](../F/Faramir.md), con trai thứ hai của [Quản lý](../S/Steward.md). Họ được cử đi đánh chặn một đội quân [Southrons](../S/Southrons.md) vào tháng 3 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), và ở đó, họ chạm trán [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md). Trong khi đứng canh gác [các hobbit](../H/Hobbits.md) cùng với Damrod, ông đã trò chuyện ngắn gọn với họ. Trong lúc đó, Faramir tiếp tục phục kích Haradrim.<sup id="cite_ref-Herbs_2-1" class="reference"><a href="#cite_note-Herbs-2">[2]</a></sup>
+Cùng với [Damrod](../D/Damrod.md), [Anborn](../A/Anborn.md) và một số người khác, Mablung phục vụ dưới quyền [Thuyền trưởng của Gondor](../C/Captain_of_Gondor.md) [Faramir](../F/Faramir.md), con trai thứ hai của [Quản lý](../S/Steward.md). Họ được cử đi đánh chặn một đội quân [Southrons](../S/Southrons.md) vào tháng 3 [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), và ở đó, họ chạm trán [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md). Trong khi đứng canh gác [các hobbit](../H/Hobbits.md) cùng với Damrod, ông đã trò chuyện ngắn gọn với họ. Trong lúc đó Faramir tiếp tục phục kích Haradrim.<sup id="cite_ref-Herbs_2-1" class="reference"><a href="#cite_note-Herbs-2">[2]</a></sup>
 
-Mablung và Damrod vẫn là người bảo vệ Người mang chiếc nhẫn trong thời gian lưu trú ngắn ngủi tại [Henneth Annûn](../H/Henneth_Annûn.md).<sup id="cite_ref-Window_3-0" class="reference"><a href="#cite_note-Window-3">[3]</a></sup>
+Mablung và Damrod vẫn là người bảo vệ Người Mang Nhẫn trong thời gian ngắn lưu trú tại [Henneth Annûn](../H/Henneth_Annûn.md).<sup id="cite_ref-Window_3-0" class="reference"><a href="#cite_note-Window-3">[3]</a></sup>
 
-Khi Chúa của mình bị thương, Mablung được trao quyền chỉ huy Đội Kiểm lâm sau [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Khi [Quân đội phương Tây](../A/Army_of_the_West.md) hành quân đến [Morannon](Morannon.md), Mablung và quân của ông đã trinh sát con đường và phát hiện ra một cuộc phục kích của [Orc](../O/Orcs.md) và [Easterlings](../E/Easterlings.md) đang ẩn náu ở Ithilien. Cuộc phục kích nhanh chóng bị lật ngược.<sup id="cite_ref-Gate_4-0" class="reference"><a href="#cite_note-Gate-4">[4]</a></sup>
+Với việc Chúa của mình bị thương, Mablung được trao quyền chỉ huy Biệt đội sau [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Khi [Quân đội Phương Tây](../A/Army_of_the_West.md) hành quân trên [Morannon](Morannon.md), Mablung cùng quân của ông đã trinh sát đường đi và phát hiện một cuộc phục kích của [Orc](../O/Orcs.md) và [Easterlings](../E/Easterlings.md) đang ẩn náu trong Ithilien. Cuộc phục kích nhanh chóng bị lật ngược.<sup id="cite_ref-Gate_4-0" class="reference"><a href="#cite_note-Gate-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Mablung được đặt theo tên của [Mablung of the Heavy Hand](Mablung.md), một Thợ săn vĩ đại của [Doriath](../D/Doriath.md).<sup id="cite_ref-Faramir_5-0" class="reference"><a href="#cite_note-Faramir-5">[5]</a></sup> Tên được lấy từ [Doriathrin](../D/Doriathrin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mab&amp;action=edit&amp;redlink=1" title="Mab (page does not exist)">mab</a></i> ("tay") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lung&amp;action=edit&amp;redlink=1" title="Lung (page does not exist)">lung</a></i> ("nặng").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Biệt danh của ông là bản dịch tên của ông<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Mablung được đặt theo tên của [Mablung của Bàn tay hạng nặng](Mablung.md), một Thợ săn vĩ đại của [Doriath](../D/Doriath.md).<sup id="cite_ref-Faramir_5-0" class="reference"><a href="#cite_note-Faramir-5">[5]</a></sup> Tên này được lấy từ [Doriathrin](../D/Doriathrin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mab&amp;action=edit&amp;redlink=1" title="Mab (page does not exist)">mab</a></i> ("tay") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lung&amp;action=edit&amp;redlink=1" title="Lung (page does not exist)">lung</a></i> ("nặng").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Biệt danh của ông là bản dịch của tên ông<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -105,15 +105,15 @@ Mablung được đặt theo tên của [Mablung of the Heavy Hand](Mablung.md),
 		</li>
 </ul>
 
-<b>1956: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1955)</a>:</b>
+<b>1956: <a href="../T/The_Lord_of_the_Rings_(1955_radio_series).md" title="The Lord of the Rings (1955 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1955)</a>:</b>
 
 <dl><dd><a href="../G/Godfrey_Kenton.md" title="Godfrey Kenton">Godfrey Kenton</a> provided the voice of Mablung.<sup id="cite_ref-RT1725_8-0" class="reference"><a href="#cite_note-RT1725-8">[8]</a></sup></dd></dl>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>While not named in the film, a <a class="mw-redirect" href="../D/Decipher_Card.md" title="Decipher Card">Decipher Card</a> identifies one of the Rangers as Mablung.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Mablung and <a href="../D/Damrod.md" title="Damrod">Damrod</a> are first met in <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a> culverts, hiding from the enemy forces above. After the Battle of the Pelennor Fields they are finally able to come out and join the Host of the West on the march towards the <a href="../B/Black_Gate.md" title="Black Gate">Black Gate</a>. After tasking the player with searching for the few foes still in hiding within Osgiliath, Mablung and Damrod journey to <a href="../H/Henneth_Annûn.md" title="Henneth Annûn">Henneth Annûn</a> and rejoin yet more Rangers who have been in hiding since the host of <a href="Minas_Morgul.md" title="Minas Morgul">Minas Morgul</a> ventured out. Mablung tasks the player with scouting approaches to the Camp of the Host in the wastes. After King <a href="../A/Aragorn.md" title="Aragorn">Elessar</a> charges Steward <a href="../F/Faramir.md" title="Faramir">Faramir</a> with cleansing the evil of Minas Morgul and the <a href="Morgul_Vale.md" title="Morgul Vale">Morgul Vale</a>, Mablung with some other Rangers establishes a camp in the pass of <a href="../C/Cirith_Ungol.md" title="Cirith Ungol">Cirith Ungol</a>, where they eventually discover the presence of <a href="../S/Shelob.md" title="Shelob">Shelob</a>.</dd></dl>
 

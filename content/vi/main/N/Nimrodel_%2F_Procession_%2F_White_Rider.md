@@ -12,7 +12,7 @@ categories:
   - "Songs (real-world)"
 ---
 
-**Nimrodel / Procession / White Rider** là một bài hát của ban nhạc progressive rock [Camel](<../C/Camel_(band).md>). Nó xuất hiện trong album thứ hai của ban nhạc <a class="external text" href="https://en.wikipedia.org/wiki/Mirage_(Camel_album)" rel="noreferrer noopener" target="_blank">Mirage</a> phát hành năm 1974. Phần đầu tiên của bài hát có tựa đề **Nimrodel** là một nhạc cụ và dường như đề cập đến luồng trong [Lothlórien](../L/Lothlórien.md). Phần thứ ba có tựa đề **White Rider** là mô tả về [Gandalf](../G/Gandalf.md).
+**Nimrodel / Procession / White Rider** là một bài hát của ban nhạc progressive rock [Camel](<../C/Camel_(band).md>). Nó xuất hiện trong album thứ hai của ban nhạc <a class="external text" href="https://en.wikipedia.org/wiki/Mirage_(Camel_album)" rel="noreferrer noopener" target="_blank">Mirage</a> phát hành năm 1974. Phần đầu tiên của bài hát có tựa đề **Nimrodel** là một nhạc cụ và dường như đề cập đến luồng trong [Lothlórien](../L/Lothlórien.md). Phần thứ ba có tiêu đề **White Rider** là mô tả về [Gandalf](../G/Gandalf.md).
 
 ## Lời bài hát {#Lyrics}
 

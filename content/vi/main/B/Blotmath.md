@@ -45,13 +45,13 @@ langlinks:
 <li><a href="../F/Foreyule.md" title="Foreyule">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-**Blotmath** (phát âm là Blodmath hoặc Blommath) là tháng thứ 11 của [Lịch Quận](../S/Shire_Calendar.md), gần tương ứng với [ngày 22 tháng 10](../_/22_October.md) đến [ngày 20 tháng 11](../_/20_November.md) hiện đại. Nó được gọi là [Đổ máu](Blooting.md) ở [Bree](Bree.md).
+**Blotmath** (phát âm là Blodmath hoặc Blommath) là tháng thứ 11 của [Lịch Shire](../S/Shire_Calendar.md), gần tương ứng với [22 tháng 10](../_/22_October.md) đến [20 tháng 11](../_/20_November.md) hiện đại. Nó được gọi là [Đổ máu](Blooting.md) trong [Bree](Bree.md).
 
-Xảy ra sau vụ thu hoạch, Blotmath là tháng đầu tiên của năm Hobbit ở thời xa xưa. Tuy nhiên, sau khi người Hobbit áp dụng [Sự tính toán của nhà vua](../K/King's_Reckoning.md), Blotmath đã trở thành tháng thứ mười một. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Xảy ra sau vụ thu hoạch, Blotmath là tháng đầu tiên của Hobbit năm ở thời xa xưa. Tuy nhiên, sau khi Hobbit thông qua [Vua Tính toán](../K/King's_Reckoning.md), Blotmath đã trở thành tháng thứ mười một. <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 11, <i><a class="extiw" href="http://en.wiktionary.org/wiki/blotmona%C3%BE" title="wiktionary:blotmonaþ">blotmonaþ</a></i>, có nghĩa là "tháng hy sinh".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 11, <i><a class="extiw" href="http://en.wiktionary.org/wiki/blotmona%C3%BE" title="wiktionary:blotmonaþ">blotmonaþ</a></i>, nghĩa là "tháng hy sinh".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

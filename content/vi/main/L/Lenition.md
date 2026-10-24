@@ -16,11 +16,11 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-**Sự khoan dung** là một khía cạnh âm vị học và ngữ pháp của [Sindarin](../S/Sindarin.md) phản ánh những đột biến âm vị học của ngôn ngữ trong quá trình phát triển của nó từ [tiếng Sindarin cổ](../O/Old_Sindarin.md).
+**Sự khoan dung** là một khía cạnh âm vị học và ngữ pháp của [Sindarin](../S/Sindarin.md) phản ánh những đột biến âm vị học của ngôn ngữ trong quá trình phát triển của nó từ [Old Sindarin](../O/Old_Sindarin.md).
 
 ## Bối cảnh lịch sử {#Historical_background}
 
-Trong quá trình phát triển âm vị học của tiếng Sindarin, lenition (chủ yếu) đề cập đến sự biến đổi của các phụ âm ở giữa, thường xảy ra giữa hai nguyên âm (VCV). Nó ảnh hưởng đến các âm Sindarin cổ **p, t, k, b, d, g, m** và **s**.
+Trong quá trình phát triển âm vị học của Sindarin, sự biến đổi (chủ yếu) đề cập đến sự biến đổi của các phụ âm ở giữa, thường xảy ra giữa hai nguyên âm (VCV). Nó ảnh hưởng đến các âm Old Sindarin **p, t, k, b, d, g, m** và **s**.
 
 Cụ thể hơn, sự phát triển của những âm thanh này có thể được hình dung trong các ví dụ sau:
 
@@ -45,13 +45,13 @@ Cụ thể hơn, sự phát triển của những âm thanh này có thể đư�
 
 ## Ở dạng hợp chất {#In_compounds}
 
-Kết quả là, quá trình này cũng diễn ra trong các từ ghép Old Sindarin, khi chữ cái đầu tiên của một từ không còn đứng đầu trong một từ ghép. Ngay cả trong các hợp chất sau này là Sindarin nguyên chất, sự pha trộn đã được củng cố như một quy luật, hình dung về quá trình pha trộn từ một hợp chất Sindarin cổ trên lý thuyết.
+Kết quả là, quá trình này cũng diễn ra trong các từ ghép Old Sindarin, khi chữ cái đầu tiên của một từ không còn là chữ cái đầu trong một từ ghép. Ngay cả trong các hợp chất sau này có thể là Sindarin tinh khiết, thì sự lention vẫn được củng cố như một quy luật, hình dung về quá trình lention từ một hợp chất Old Sindarin lý thuyết.
 
-Ví dụ: từ *[athrabeth](../A/Athrabeth.md)* "debate, converse (lit. 'across-word')" có thể được phân tích vừa là từ phái sinh của từ OS \*<i>athra<b>p</b>ettha</i> mà còn là từ ghép của các từ Sindarin <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Athra-&amp;action=edit&amp;redlink=1" title="Athra- (page does not exist)">athra-</a></i> "across" + [peth](../P/Peth.md) *"word".*
+Ví dụ: từ *[athrabeth](../A/Athrabeth.md)* "debate, converse (lit. 'across-word')" có thể được phân tích vừa là từ phái sinh của từ OS \*<i>athra<b>p</b>ettha</i> mà còn là từ ghép của Sindarin từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Athra-&amp;action=edit&amp;redlink=1" title="Athra- (page does not exist)">athra-</a></i> "across" + [peth](../P/Peth.md) *"word".*
 
 Thực tế là các âm thanh trên bị đột biến khi được củng cố về mặt y học theo quy luật
 
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Thind&amp;action=edit&amp;redlink=1" title="Thind (page does not exist)">thind</a> + <a class="new" href="https://tolkiengateway.net/w/index.php?title=Coll&amp;action=edit&amp;redlink=1" title="Coll (page does not exist)"><b>c</b>oll</a> > [Thingol](../T/Thingol.md) (< ?OS \*<i>Thinda<b>k</b>ollo</i>)
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Thind&amp;action=edit&amp;redlink=1" title="Thind (page does not exist)">thin</a> + <a class="new" href="https://tolkiengateway.net/w/index.php?title=Coll&amp;action=edit&amp;redlink=1" title="Coll (page does not exist)"><b>c</b>oll</a> > [Thingol](../T/Thingol.md) (< ?OS \*<i>Thinda<b>k</b>ollo</i>)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cair&amp;action=edit&amp;redlink=1" title="Cair (page does not exist)">cair</a> + <a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%A2n&amp;action=edit&amp;redlink=1" title="Tân (page does not exist)"><b>t</b>ân</a> > [Cirdan](../C/Cirdan.md) (< ?OS \*<i>Kiria<b>t</b>âno</i>)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Fanui&amp;action=edit&amp;redlink=1" title="Fanui (page does not exist)">fanui</a> + [**d**ol](../D/Dol.md) > [Fanuidhol](../F/Fanuidhol.md) (< ?OS \*<i>Fanoi<b>d</b>olo</i>)
 - [Edhel](../E/Edhel.md) + [**s**arn](../S/Sarn.md) > [Edhelharn](../E/Edhelharn.md) (< ?OS \*<i>Edelo<b>s</b>arno</i>)
@@ -69,17 +69,17 @@ Thực tế là các âm thanh trên bị đột biến khi được củng cố
 
 ## Cảm hứng {#Inspiration}
 
-Sindarin, lấy cảm hứng từ tiếng Wales, cũng vay mượn rất nhiều từ <a class="external text" href="http://en.wikipedia.org/wiki/Welsh_morphology#Initial_consonant_mutation" rel="noreferrer noopener" target="_blank">hệ thống đột biến</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup> <a class="external text" href="http://en.wikipedia.org/wiki/Lenition#Grammatical_lenition" rel="noreferrer noopener" target="_blank">sự biến đổi ngữ pháp</a> nhìn chung nổi bật trong các ngôn ngữ [Celtic](../C/Celtic.md).
+Sindarin, được lấy cảm hứng từ ngôn ngữ tiếng Wales, cũng vay mượn rất nhiều từ <a class="external text" href="http://en.wikipedia.org/wiki/Welsh_morphology#Initial_consonant_mutation" rel="noreferrer noopener" target="_blank">hệ thống đột biến</a>của nó.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup> Sự hiểu biết <a class="external text" href="http://en.wikipedia.org/wiki/Lenition#Grammatical_lenition" rel="noreferrer noopener" target="_blank">ngữ pháp</a> nhìn chung rất nổi bật trong các ngôn ngữ [Celtic](../C/Celtic.md).
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://folk.uib.no/hnohf/sindarin.htm#mutations" rel="noreferrer noopener" target="_blank">Đột biến mềm</a> từ bài viết [Ardalambion](../A/Ardalambion.md) về Sindarin của [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://folk.uib.no/hnohf/sindarin.htm#mutations" rel="noreferrer noopener" target="_blank">Đột biến mềm</a> từ bài [Ardalambion](../A/Ardalambion.md) về Sindarin của [Helge Fauskanger](../H/Helge_Fauskanger.md)
 - <a class="external text" href="http://www.fa-kuan.muc.de/SINDARIN.RXML" rel="noreferrer noopener" target="_blank">Một số câu hỏi về Sindarin Lenition</a> của Alfred W. Tueting
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-Q-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Q_1-0">1.0</a></sup> <sup><a href="#cite_ref-Q_1-1">1.1</a></sup></span> <span class="reference-text">Sự suy giảm tương tự cũng xảy ra ở <a href="../Q/Quenya.md" title="Quenya">Quenya</a>.</span>
+<li id="cite_note-Q-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Q_1-0">1.0</a></sup> <sup><a href="#cite_ref-Q_1-1">1.1</a></sup></span> <span class="reference-text">Độ mềm tương tự cũng xảy ra ở <a href="../Q/Quenya.md" title="Quenya">Quenya</a>.</span>
 </li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Giai đoạn trung gian từ <i>g</i> đến tuyệt chủng là <a href="../Y/Yogh.md" title="Yogh">yogh</a></span>
 </li>

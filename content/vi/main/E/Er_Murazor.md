@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Er Murazor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Chile / United States</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Blackened melodic death metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2016-present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://ermurazor.bandcamp.com" rel="noreferrer noopener" target="_blank">Bandcamp</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Jared Moran<br/>Kveldulf Bjalfason</td></tr></tbody></table>
 
-**Er Murazor** là một ban nhạc death metal du dương màu đen được thành lập vào năm 2016 bởi các thành viên đến từ Chile và Hoa Kỳ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc lấy tên từ [Er-Mûrazôr](../W/Witch-king.md#Tabletop_Games), tên của Vua phù thủy trong [Nhập vai ở Trung địa](../M/Middle-earth_Role_Playing.md)
+**Er Murazor** là ban nhạc blackmelodic death metal được thành lập vào năm 2016 bởi các thành viên đến từ Chile và Hoa Kỳ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ban nhạc lấy tên từ [Er-Mûrazôr](../W/Witch-king.md#Tabletop_Games), tên của Vua Phù thủy trong [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)
 
 ## Thành viên {#Members}
 
@@ -35,10 +35,10 @@ infobox:
 
 ## Danh sách đĩa {#Discography}
 
-- Hoàng tử ngọn lửa đen (EP, 2016)
+- Thân vương của Ngọn lửa đen (EP, 2016)
     1. Bóng ma bất tử
-    2. Tôi Là Khoảng Không
-    3. Hoàng tử ngọn lửa đen
+    2. Tôi là Hư Không
+    3. Thân vương của Ngọn lửa đen
     4. Dòng dõi đã kết thúc
 
 ## Tài liệu tham khảo {#References}

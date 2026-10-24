@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen83.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/AmonHen83.png/320px-AmonHen83.png" decoding="async" loading="lazy" width="320" height="458" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0d/AmonHen83.png/480px-AmonHen83.png 1.5x, https://tolkiengateway.net/w/images/thumb/0/0d/AmonHen83.png/640px-AmonHen83.png 2x" data-file-width="698" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 83</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Iwan Rhys Morus</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Tony Curtist</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/1987.md" title="1987">1987</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_82.md" title="Amon Hen 82">Amon Hen 82</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_84.md" title="Amon Hen 84">Amon Hen 84</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 83</b> là số thứ 83 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 1 [1987](../_/1987.md).
+<b><i>Amon Hen</i> 83</b> là số thứ 83 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 1 [1987](../_/1987.md).
 
 ## Nội dung {#Contents}
 
@@ -64,13 +64,13 @@ infobox:
     - Bởi: Howard Bates
 - Tác phẩm nghệ thuật: *Lobelia*
     - Bởi: John Trippick
-- Văn hóa của người Hobbit
+- Văn hóa của Hobbit
     - Bởi: Gary Savage
-- Đối phó với Denethor
+- Xử lý Denethor
     - Bởi: S.Meagol
 - Tác phẩm nghệ thuật: *The Bridge of Khazad-dum*
     - Bởi: Richard Green
-- Xưởng Tolkien
+- Tolkien Xưởng
 - Góc của Jessica
     - Bởi: Jessica Yates
 - Thông báo

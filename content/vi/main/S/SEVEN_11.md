@@ -40,7 +40,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - Bài viết nổi bật: Vùng đất bóng tối được quan sát
-- "Charles Williams và truyền thống Arthurian"
+- "Charles Williams và Truyền thống Arthurian"
     - Bởi: Joe H. McClatchey
 - "Kim cương và Kilmeny: MacDonald, Hogg và truyền thống dân gian Scotland"
     - Bởi: William Raeper

@@ -13,39 +13,39 @@ categories:
   - "Copyright"
 ---
 
-Bài viết này liệt kê hầu hết các vụ kiện hoặc hành động pháp lý liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và các tác phẩm của ông.
+Bài viết này liệt kê hầu hết các vụ kiện tụng hoặc khởi kiện liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và các tác phẩm của ông.
 
 ## Tranh chấp tên miền {#Domain_disputes}
 
 ### jrrtolkien.com {#jrrtolkien.com}
 
-- **Tranh chấp:** JRR Tolkien Estate Limited v. Trung tâm điều hành mạng, Alberta Hot Rods <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2003/d2003-0837.html" rel="noreferrer noopener" target="_blank">[1]</a>
+- **Tranh chấp:** JRR Tolkien Estate Limited kiện Trung tâm điều hành mạng, Alberta Hot Rods <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2003/d2003-0837.html" rel="noreferrer noopener" target="_blank">[1]</a>
 - **Tóm tắt:** Không có nỗ lực sử dụng miền phi thương mại nào được thực hiện.
 - **Kết quả:** [Tolkien Estate](../T/Tolkien_Estate.md) giành được quyền kiểm soát miền.
 
 ### tolkien.net {#tolkien.net}
 
 - **Tranh chấp:** JRR Tolkien Estate Limited kiện tolkien.net <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2003/d2003-0833.html" rel="noreferrer noopener" target="_blank">[2]</a>
-- **Tóm tắt:** Chủ sở hữu không hề cố gắng tạo một trang web thực sự liên quan đến Tolkien, do đó người ta cho rằng chủ sở hữu hy vọng kiếm được lợi nhuận bằng cách rất có thể bán miền.
-- **Kết quả:**Gia sản Tolkien giành được quyền kiểm soát miền.
+- **Tóm tắt:** Chủ sở hữu không hề cố gắng tạo một trang web thực tế có liên quan đến Tolkien, do đó người ta cho rằng chủ sở hữu hy vọng kiếm được lợi nhuận bằng cách rất có thể bán miền.
+- **Kết quả:** Tolkien Estate giành được quyền kiểm soát miền.
 
 ### shiremail.com {#shiremail.com}
 
 - **Tranh chấp:** JRR Tolkien Estate kiện Tarrant Costelloe <a class="external autonumber" href="http://www.theregister.co.uk/2004/07/14/one_domain_to_rule_them_all/" rel="noreferrer noopener" target="_blank">[3]</a> <a class="external autonumber" href="http://www.planet-tolkien.com/news/article_84.html" rel="noreferrer noopener" target="_blank">[4]</a>
-- **Tóm tắt:** Dịch vụ email không miễn phí và do đó cố gắng thu lợi từ các tác phẩm của Tolkien.
+- **Tóm tắt:** Dịch vụ email này không miễn phí và do đó cố gắng kiếm lợi từ công việc của Tolkien.
 - **Kết quả:** Tên miền đã hết hạn và hiện chỉ hiển thị quảng cáo.
 
 ### lotrfanclub.com {#lotrfanclub.com}
 
 - **Tranh chấp:** Công ty Saul Zaentz kiện Siarhei Chyzhevich <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2006/d2006-0370.html" rel="noreferrer noopener" target="_blank">[5]</a>
 - **Tóm tắt:** Sau khi [The Lord of the Rings Fan Club](../T/The_Lord_of_the_Rings_Fan_Club.md) bị [Decipher](../D/Decipher.md) đóng cửa, họ đã quên gia hạn tên miền, lotrfanclub.com, sau khi hết hạn, một nội dung khiêu dâm đã chiếm lấy tên miền.
-- **Kết quả:** [Tolkien Enterprises](../M/Middle-earth_Enterprises.md) giành quyền kiểm soát miền.
+- **Kết quả:** [Tolkien Doanh nghiệp](../M/Middle-earth_Enterprises.md) giành quyền kiểm soát miền.
 
 ### hobbit.es {#hobbit.es}
 
-- **Tranh chấp:** Công ty Saul Zaentz kinh doanh với tư cách là Tolkien Enterprises kiện Marc Rodríguez Negro <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2006/des2006-0043.html" rel="noreferrer noopener" target="_blank">[6]</a>
+- **Tranh chấp:** Công ty Saul Zaentz kinh doanh dưới tên Tolkien Enterprises v. Marc Rodríguez Negro <a class="external autonumber" href="http://www.wipo.int/amc/en/domains/decisions/html/2006/des2006-0043.html" rel="noreferrer noopener" target="_blank">[6]</a>
 - **Tóm tắt:** Không phải trang web phi thương mại.
-- **Kết quả:** Tolkien Enterprises giành được quyền kiểm soát miền.
+- **Kết quả:** Tolkien Doanh nghiệp giành quyền kiểm soát miền.
 
 <br>
 
@@ -56,7 +56,7 @@ Bài viết này liệt kê hầu hết các vụ kiện hoặc hành động ph
 (Ryan Lovett)
 
 - **Ngày:** ngày 14 tháng 6 năm 2004
-- **Tranh chấp:** [Tolkien Estate](../T/Tolkien_Estate.md) đã yêu cầu quản trị trang web xóa tất cả bản đồ.
+- **Tranh chấp:** [Tolkien Estate](../T/Tolkien_Estate.md) yêu cầu quản trị trang web xóa tất cả bản đồ.
 - **Kết quả:** Tất cả bản đồ đã bị xóa.
 
 ### tolkienion.com & tolkien-maps.com {#tolkienion.com_&_tolkien-maps.com}
@@ -90,22 +90,22 @@ Bài viết này liệt kê hầu hết các vụ kiện hoặc hành động ph
 
 ### merp.com {#merp.com}
 
-- **Tranh chấp:** [Tolkien Enterprises](../M/Middle-earth_Enterprises.md) đã yêu cầu trang web xóa tất cả tài liệu liên quan đến tài liệu Nhập vai ICE.
+- **Tranh chấp:** [Tolkien Doanh nghiệp](../M/Middle-earth_Enterprises.md) yêu cầu trang web xóa tất cả tài liệu liên quan đến tài liệu Nhập vai ICE.
 - **Kết quả:** Trang web đã tuân thủ và xóa tài liệu.
 
 ### esnips.com {#esnips.com}
 
-- **Tranh chấp:** [Tolkien Estate](../T/Tolkien_Estate.md) đã yêu cầu trang web xóa các bản PDF của [The Hobbit](../T/The_Hobbit.md), [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và [The Silmarillion](../T/The_Silmarillion.md) khỏi trang web của họ. The Estate cũng yêu cầu trang web cung cấp thông tin về tất cả người dùng đã tải sách xuống.
+- **Tranh chấp:** [Tolkien Estate](../T/Tolkien_Estate.md) đã yêu cầu trang web xóa các tệp PDF của [The Hobbit](../T/The_Hobbit.md), [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và [The Silmarillion](../T/The_Silmarillion.md) khỏi trang web của họ. The Estate cũng yêu cầu trang web cung cấp thông tin về tất cả người dùng đã tải sách xuống.
 - **Kết quả:** Trang web tuân thủ, xóa các bản PDF, Estate tiếp tục "một cách lịch sự và kiên quyết" yêu cầu những người tải xuống dừng lại. <a class="external autonumber" href="http://www.bloomberg.com/apps/news?pid=20601102&amp;sid=aI.oEehDIdK8" rel="noreferrer noopener" target="_blank">[7]</a>
 
 ### shirepost.com {#shirepost.com}
 
-- **Tranh chấp:** [Tolkien Enterprises](../M/Middle-earth_Enterprises.md) đã yêu cầu trang web xóa tất cả thông tin liên quan đến Tolkien và ngừng bán tiền xu liên quan đến Tolkien của họ.
+- **Tranh chấp:** [Tolkien Doanh nghiệp](../M/Middle-earth_Enterprises.md) yêu cầu trang web xóa tất cả thông tin liên quan đến Tolkien và ngừng bán đồng tiền liên quan đến Tolkien của họ.
 - **Kết quả:** Trang web ban đầu tuân thủ và ngừng bán tiền xu, sau đó được cấp phép chính thức.
 
 ## Sử dụng hợp pháp tên {#Legal_use_of_names}
 
-- <i><b><a href="../C/Cirith_Ungol_(band).md" title="Cirith Ungol (band)">Cirith Ungol</a></b></i> — Trong [1981](../_/1981.md), khi liên hệ với [Tolkien Enterprises](../M/Middle-earth_Enterprises.md) về việc sử dụng hợp pháp tên ban nhạc của họ, công ty Saul Zeantz đã thông báo cho ban nhạc rằng họ *“không phản đối việc bạn sử dụng thuật ngữ CIRITH UNGOL làm tên nhóm nhạc của bạn với điều kiện bạn không sử dụng bất kỳ tên nào các tên, nhân vật hoặc địa điểm khác từ THE Lord OF THE RINGS hoặc THE HOBBIT trong tài liệu của bạn”.*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- <i><b><a href="../C/Cirith_Ungol_(band).md" title="Cirith Ungol (band)">Cirith Ungol</a></b></i> — Trong [1981](../_/1981.md), khi liên hệ với [Tolkien Enterprises](../M/Middle-earth_Enterprises.md) về việc sử dụng hợp pháp tên ban nhạc của họ, công ty Saul Zeantz đã thông báo cho ban nhạc rằng họ *“không phản đối việc bạn sử dụng thuật ngữ CIRITH UNGOL làm tên nhóm nhạc của bạn với điều kiện bạn không sử dụng bất kỳ tên, nhân vật hoặc địa điểm nào khác từ THE Lord OF THE RINGS hoặc THE HOBBIT trong tài liệu của bạn”.*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Sử dụng trái phép tên {#Illegal_use_of_names}
 
@@ -113,7 +113,7 @@ Bài viết này liệt kê hầu hết các vụ kiện hoặc hành động ph
 
 ## Sách {#Books}
 
-- **The Tolkien Trust và cộng sự kiện Polychron** - Demetrious Polychron bị buộc tội viết và bán phần tiếp theo trái phép của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* có tựa đề "The Fellowship of the King" vào [ngày 1 tháng 6](../J/June_1.md), [2023](../_/2023.md) tại Los Angeles, CA. Trường hợp #2:2023cv04300<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- **The Tolkien Trust et al v. Polychron** - Demetrious Polychron bị buộc tội viết và bán phần tiếp theo trái phép của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* có tựa đề "The Fellowship of the Vua" vào [ngày 1 tháng 6](../J/June_1.md), [2023](../_/2023.md) tại Los Angeles, CA. Trường hợp #2:2023cv04300<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Treasures from the Misty Mountains"
 ---
 
-Chuyển hướng đến [Kho báu từ dãy núi mù sương](Treasures_from_the_Misty_Mountains.md).
+Chuyển hướng tới [Kho báu từ Dãy Núi Sương Mù](Treasures_from_the_Misty_Mountains.md).

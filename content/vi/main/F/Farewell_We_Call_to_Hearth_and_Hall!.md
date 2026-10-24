@@ -14,7 +14,7 @@ images:
   - "J.R.R._Tolkien_-_Farewell_We_Call_to_Hearth_and_Hall!.mp3"
 ---
 
-**Farewell We Call to Hearth and Hall!** là bài hát được hát bởi [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) tại ngôi nhà ở [Crickhollow](../C/Crickhollow.md) sau khi "âm mưu" của những người bạn [Frodo](Frodo_Baggins.md) bị bại lộ. Merry và Pippin đã sáng tác nó cho dịp này, làm mẫu và đặt giai điệu giống với [bài hát của người lùn](Far_over_the_misty_mountains_cold.md) mà [Bilbo](../B/Bilbo_Baggins.md) đã nghe ở [Bag End](../B/Bag_End.md) khi bắt đầu cuộc phiêu lưu của mình. Sau khi nó được hát, Frodo đã khen ngợi bài hát và lấy câu "Chúng ta phải đi trước khi trời sáng" theo đúng nghĩa đen, trước sự thất vọng của Pippin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Farewell We Call to Hearth and Hall!** là bài hát được [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) hát tại ngôi nhà ở [Crickhollow](../C/Crickhollow.md) sau khi "âm mưu" của những người bạn [Frodo](Frodo_Baggins.md) bị bại lộ. Merry và Pippin đã sáng tác nó cho dịp này, làm mẫu và đặt giai điệu giống với [bài hát của người lùn](Far_over_the_misty_mountains_cold.md) mà [Bilbo](../B/Bilbo_Baggins.md) đã nghe trong [Bag End](../B/Bag_End.md) khi bắt đầu cuộc phiêu lưu của mình. Sau khi hát xong, Frodo đã khen ngợi bài hát và lấy câu "Chúng ta phải đi trước bình minh" theo đúng nghĩa đen, trước sự thất vọng của Pippin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Văn bản {#Text}
 

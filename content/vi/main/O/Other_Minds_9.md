@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 9</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson, Neville Percy, Chris Seeman</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">February <a href="../_/2010.md" title="2010">2010</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">68</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 9</b> là số thứ chín của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 2 năm 2010.
+<b><i>Other Minds</i> 9</b> là số thứ chín của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 2 năm 2010.
 
 ## Nội dung {#Contents}
 
@@ -36,18 +36,18 @@ infobox:
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
-- "Thời đại của Sauron"
+- "Thời đại Sauron"
     - Bởi Padraig Timmins
-- "Những người thừa kế của Elessar và Thời đại thứ tư"
+- "Những người thừa kế của Elessar và Kỷ Đệ Tứ"
     - Bởi Thomas Morwinsky
-- "Niên đại thời đại thứ tư"
+- "Một niên đại Kỷ Đệ Tứ"
     - Bởi Tom Davie
 - "Tôn giáo ở Angmar"
     - Bởi Thomas Morwinsky
 - "Bản in đẹp và tuyên bố miễn trừ trách nhiệm"
 - "Giấy phép Creative Commons"
-- "Phụ lục A: Tuổi thọ của người Dúnadan ở Kỷ thứ Tư"
-- "Phụ lục B: Kết thúc thay thế cho 'Những người thừa kế của Elessar và Thời đại thứ tư'"
+- "Appendix A: Dúnadan tuổi thọ trong Kỷ Đệ Tứ"
+- "Phụ lục B: Kết thúc thay thế cho 'Những người thừa kế của Elessar và Kỷ Đệ Tứ'"
 - "Mục lục: Tạp chí Other Minds, Số 1-9"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**

@@ -30,9 +30,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-**Người khôn ngoan** là một nhóm người thuộc nhiều dòng dõi khác nhau của [Những đứa trẻ của Ilúvatar](../C/Children_of_Ilúvatar.md) có kiến ​​thức và hiểu biết sâu rộng về lịch sử cũng như các truyền thuyết khác. Họ rất được kính trọng, nhưng luôn có số lượng ít. Wise có cả nam và nữ; những người là nữ đôi khi được gọi là [Phụ nữ thông thái](Wise-woman.md).
+**Người khôn ngoan** là một nhóm người thuộc nhiều chủng tộc khác nhau của [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md) có kiến ​​thức và hiểu biết sâu rộng về lịch sử cũng như các truyền thuyết khác. Họ rất được kính trọng, nhưng luôn có số lượng ít. Wise có cả nam và nữ; những người là nữ đôi khi được gọi là [Phụ nữ thông thái](Wise-woman.md).
 
-Trong bối cảnh của [Thời đại thứ ba](../T/Third_Age.md), Nhà thông thái chủ yếu đề cập đến Istari và [Eldar](../E/Eldar.md) cao nhất, những người đã thành lập [Hội đồng trắng](White_Council.md) chống lại [bóng tối](../S/Shadow.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong bối cảnh của [Kỷ Đệ Tam](../T/Third_Age.md), Người khôn ngoan chủ yếu đề cập đến Istari và [Eldar](../E/Eldar.md) cao nhất, những người đã thành lập [Bạch Hội Đồng](White_Council.md) chống lại [bóng tối](../S/Shadow.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Những người sau đây thường được coi là một trong những Người Thông Thái:
 
@@ -41,7 +41,7 @@ Những người sau đây thường được coi là một trong những Ngư�
 - [Bëor](../B/Bëor.md)
 - [Celeborn](../C/Celeborn.md)
 - [Elrond](../E/Elrond.md)
-- [Istari](Wizards.md)
+- Cái [Istari](Wizards.md)
 - [Galadriel](../G/Galadriel.md)
 - [Círdan](../C/Círdan.md)
 - [Glorfindel](../G/Glorfindel.md)

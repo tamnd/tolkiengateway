@@ -38,7 +38,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../Q/Quenya.md" title="Quenya">Quenya</a></td></tr>
 </tbody></table>
 
-"**Loä yukainen avar Anduinë sí valútier:**" là dòng mở đầu của một bài thơ được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đọc trong bài phát biểu của ông tại ["Bữa tối Hobbit" ở Rotterdam](../_/%2522Hobbit_Dinner%2522_in_Rotterdam.md) ở [1958](../_/1958.md).<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
+"**Loä yukainen avar Anduinë sí valútier:**" là dòng mở đầu một bài thơ được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đọc trong bài phát biểu của ông tại ["Hobbit Bữa tối" ở Rotterdam](../_/%2522Hobbit_Dinner%2522_in_Rotterdam.md) ở [1958](../_/1958.md).<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_draft_excerpt}
 
@@ -65,7 +65,7 @@ infobox:
 
 ## Nền {#Background}
 
-Tolkien đã đưa ra một bản [Quenya](../Q/Quenya.md) của bài thơ, dự kiến ​​xuất bản vào mùa thu năm [2014](../_/2014.md).<sup id="cite_ref-unearthed_2-1" class="reference"><a href="#cite_note-unearthed-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Thậm chí, [nhóm Lambengolmor](<../L/Lambengolmor_(mailing_list).md>) đã đưa ra một thách thức để tạo lại văn bản Quenya gốc trước khi nó được phát hành.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Mặc dù bản ghi âm và bài thơ đầy đủ bằng tiếng Anh vẫn chưa được xuất bản nhưng văn bản của Elvish đã được xuất bản trên *[The Collected Poems of J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md)*.
+Tolkien đã đưa ra bản kết xuất [Quenya](../Q/Quenya.md) của bài thơ, dự kiến ​​xuất bản vào khoảng mùa thu năm [2014](../_/2014.md).<sup id="cite_ref-unearthed_2-1" class="reference"><a href="#cite_note-unearthed-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Thậm chí, [nhóm Lambengolmor](<../L/Lambengolmor_(mailing_list).md>) đã đưa ra một thách thức để tạo lại văn bản Quenya gốc trước khi nó được phát hành.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Mặc dù bản ghi âm và bài thơ đầy đủ bằng tiếng Anh vẫn chưa được xuất bản, văn bản Elvish đã được xuất bản trong *[The Collected Poems of J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md)*.
 
 <span></span>
 

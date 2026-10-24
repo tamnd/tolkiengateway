@@ -56,17 +56,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Beth_Fajcz_-_Tilion_and_the_Moon.JPG.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ed/Beth_Fajcz_-_Tilion_and_the_Moon.JPG/320px-Beth_Fajcz_-_Tilion_and_the_Moon.JPG" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ed/Beth_Fajcz_-_Tilion_and_the_Moon.JPG/480px-Beth_Fajcz_-_Tilion_and_the_Moon.JPG 1.5x, https://tolkiengateway.net/w/images/thumb/e/ed/Beth_Fajcz_-_Tilion_and_the_Moon.JPG/640px-Beth_Fajcz_-_Tilion_and_the_Moon.JPG 2x" data-file-width="2160" data-file-height="2160"/></a><figcaption><i>Tilion and the Moon</i> by <a href="../B/Beth_Fajcz.md" title="Beth Fajcz">Beth Fajcz</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../M/Maiar.md" title="Maiar">Maia</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tilion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Pronunciation</th><td class="tg-infobox-data"><a href="../Q/Quenya.md" title="Quenya">Q</a>, pron. <span title="Pronunciation in IPA" class="IPA">[ˈtili.on]</span></td></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Guiding the <a href="../M/Moon.md" title="Moon">Moon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">The <a href="../M/Moon.md" title="Moon">Moon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../O/Oromë.md" title="Oromë">Oromë</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../C/Creation_of_the_Ainur.md" title="Creation of the Ainur">Creation of the Ainur</a><br/><a href="Timeless_Halls.md" title="Timeless Halls">Timeless Halls</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Tilion.md" title="Category:Images of Tilion">Images of Tilion</a></td></tr></tbody></table>
 
-**Tilion** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈtili.on]</span>) là một [Maia](../M/Maiar.md) người đã hướng dẫn [Mặt trăng](../M/Moon.md).
+**Tilion** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈtili.on]</span>) là một [Maia](../M/Maiar.md) người đã hướng dẫn [Mặt Trăng](../M/Moon.md).
 
 ## Lịch sử {#History}
 
-Vào những ngày còn cây cối ở [Valinor](../V/Valinor.md), Tilion từng là thợ săn trong nhóm của [Oromë](../O/Oromë.md). Mặc dù thường xuyên cưỡi ngựa cùng Oromë nhưng ông dành phần lớn thời gian rảnh rỗi ở [Lórien](<../L/Lórien_(Valinor).md>), dưới ánh sáng của [Telperion](Telperion.md). Tilion yêu thích bạc (ông thậm chí còn sử dụng [cung](../B/Bow.md) bạc), và ông cầu xin được [Mặt trăng](../M/Moon.md) chăm sóc. [Valar](../V/Valar.md) đã giao nhiệm vụ cho ông ta. Ông ta được cho là kém hùng mạnh hơn [Arien](../A/Arien.md), Maia được chọn để hướng dẫn [Mặt trời](../S/Sun.md).
+Vào những ngày còn cây ở [Valinor](../V/Valinor.md), Tilion từng là thợ săn của đại đội [Oromë](../O/Oromë.md). Mặc dù thường xuyên đạp xe cùng Oromë nhưng ông đã dành phần lớn thời gian rảnh rỗi ở [Lórien](<../L/Lórien_(Valinor).md>), dưới ánh sáng của [Telperion](Telperion.md). Tilion yêu thích bạc (thậm chí anh còn dùng [cung](../B/Bow.md) bạc) và cầu xin được chăm sóc [Mặt Trăng](../M/Moon.md). [Valar](../V/Valar.md) đã giao cho anh nhiệm vụ này. Ông ta được cho là kém hùng mạnh hơn [Arien](../A/Arien.md), Maia được chọn để hướng dẫn [Mặt Trời](../S/Sun.md).
 
-Tilion có lúc liều lĩnh, không phải lúc nào cũng đi đúng đường, khiến Mặt trăng có lúc ở trên bầu trời cùng lúc với Mặt trời, hoặc hoàn toàn không xuất hiện.
+Tilion đôi khi rất liều lĩnh và không phải lúc nào cũng đi đúng đường, khiến cho Mặt Trăng đôi khi xuất hiện trên bầu trời cùng lúc với Mặt Trời hoặc hoàn toàn không xuất hiện.
 
 Anh cũng bị thu hút bởi vẻ đẹp lộng lẫy của Arien và tìm cách đến gần cô, mặc dù "ngọn lửa Anar thiêu rụi anh, và hòn đảo Mặt Trăng chìm trong bóng tối".
 
-[Morgoth](../M/Morgoth.md), kẻ ghét ánh sáng mới, đã gửi [linh hồn bóng tối](../S/Spirits_of_shadows.md) chống lại Tilion, nhưng Tilion đã đánh bại chúng trong một cuộc xung đột ở [Ilmen](../I/Ilmen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Morgoth](../M/Morgoth.md), những người ghét ánh sáng mới, đã gửi [linh hồn bóng tối](../S/Spirits_of_shadows.md) chống lại Tilion, nhưng Tilion đã đánh bại chúng trong một cuộc xung đột ở [Ilmen](../I/Ilmen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -74,7 +74,7 @@ Tên có nghĩa là "Người có sừng", chứa [gốc](../R/Root.md) [TIL](TI
 
 ## Xem thêm {#See_also}
 
-- [Người đàn ông trên mặt trăng](../M/Man_in_the_Moon.md)
+- [Người đàn ông trong Mặt Trăng](../M/Man_in_the_Moon.md)
 - [Silmo](../S/Silmo.md)
 - [Ilinsor](../I/Ilinsor.md)
 

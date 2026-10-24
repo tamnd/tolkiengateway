@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Dạng [Tiên nguyên thủy](../P/Primitive_Elvish.md) được đưa ra dưới dạng *ulgundô* từ ÚLGU.<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+Biểu mẫu [nguyên thủy Elvish](../P/Primitive_Elvish.md) được đưa ra dưới dạng *ulgundô* từ ÚLGU.<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 <span></span>
 

@@ -13,7 +13,7 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>savin</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "Tôi tin" (ám chỉ sự tồn tại hoặc thực tế của một điều gì đó).
+<i><b>savin</b></i> là [Quenya](../Q/Quenya.md) nghĩa là "Tôi tin" (ám chỉ sự tồn tại hoặc thực tế của một điều gì đó).
 
 ## Từ nguyên {#Etymology}
 

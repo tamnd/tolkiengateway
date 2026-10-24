@@ -20,11 +20,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../U/Undeeps.md" title="Undeeps">Undeeps</a></b></div></div>
 
-**South Undeep** là một trong hai khúc cua về phía tây của con sông [Anduin](../A/Anduin.md) nằm giữa [The Wold](../T/The_Wold.md) và [Brown Lands](../B/Brown_Lands.md) (đoạn còn lại là [North Undeep](../N/North_Undeep.md)). South Undeep là khúc cua nhỏ hơn trong hai khúc cua.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cả hai Undeep đều có nhiều bãi nông và bãi cạn rộng giúp quân đội có thể vượt qua dễ dàng,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> điều này đã xảy ra nhiều lần trong lịch sử của [Gondor](../G/Gondor.md) và [Rohan](../R/Rohan.md).
+**South Undeep** là một trong hai khúc cua về phía tây của con sông [Anduin](../A/Anduin.md) nằm giữa [The Wold](../T/The_Wold.md) và [Brown Lands](../B/Brown_Lands.md) (đoạn còn lại là [North Undeep](../N/North_Undeep.md)). Vùng sâu phía Nam là phần nhỏ hơn trong hai khúc cua.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cả hai Undeeps đều có nhiều bãi nông và bãi cạn rộng tạo điều kiện cho quân đội vượt qua dễ dàng,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> đã xảy ra một số lần trong lịch sử của [Gondor](../G/Gondor.md) và [Rohan](../R/Rohan.md).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The South Undeep is located in the northern Wold, connecting two riverbanks through a small island in the middle of the river. Due to the unstable political situation in Rohan, a party of <a href="../E/Easterlings.md" title="Easterlings">Easterlings</a> has been able to take the crossing and establish a fortified camp on the western bank, from which they attack and burn the Rohirrim town of <i>Langhold</i>.</dd></dl>
 

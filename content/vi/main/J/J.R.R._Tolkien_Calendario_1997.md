@@ -43,13 +43,13 @@ infobox:
 - Bản cover của [Luca Michelucci](../L/Luca_Michelucci.md)
 - [Tháng 1](January.md) - Il Cavaliere Nero fiuta la presenza dell'Anello của Gloria Della Rossa
 - [Tháng 2](../F/February.md) - Baccador của Maura Boldi
-- [Tháng 3](../M/March.md) - Gandalf contro il Balrog của Dalmathio Frau
+- [Tháng 3](../M/March.md) - Gandalf điều khiển Balrog của Dalmathio Frau
 - [Tháng 4](../A/April.md) - I Cavalieri Neri, al Guado del Bruinen của Ambra Colombiaani
 - [Tháng 5](../M/May.md) - Gandalf incontra Ombromanto của Giovanni Giurco
 - [Tháng 6](June.md) - Frodo, Sam e Gollum trong viaggio per Mordor của Andrea Rivola
-- [Tháng 7](July.md) - Bình minh trên Mindolluin của Anton Spazzapan
-- [Tháng 8](../A/August.md) - Re Elessar của Domenico Franchi
-- [Tháng 9](../S/September.md) - Mithlond, i Porti Grigi của Alessandro Maccari
+- [Tháng 7](July.md) - Bình minh Mindolluin của Anton Spazzapan
+- [Tháng 8](../A/August.md) - Re Elessar của Domenico Franci
+- [tháng Chín](../S/September.md) - Mithlond, và Porti Grigi của Alessandro Maccari
 - [Tháng 10](../O/October.md) - Il discorso di Feanor ai noldoli của Luca Canova
 - [Tháng 11](../N/November.md) - Una riunione inaspettata của Victor Sneep
 - [Tháng 12](../D/December.md) - Smaug của Michele Mariani

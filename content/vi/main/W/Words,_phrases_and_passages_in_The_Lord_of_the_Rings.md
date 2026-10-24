@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Parma Eldalamberon 17"
 ---
 
-Chuyển hướng tới [Parma Eldalamberon 17](../P/Parma_Eldalamberon_17.md).
+Chuyển hướng đến [Parma Eldalamberon 17](../P/Parma_Eldalamberon_17.md).

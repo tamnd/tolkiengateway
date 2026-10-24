@@ -36,13 +36,13 @@ images:
 <li><b><a href="Lay_of_Leithian_Canto_XIV.md" title="Lay of Leithian Canto XIV">Canto XIV</a></b></li></ol>
 </td></tr></tbody></table>
 
-[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này nói về [Lúthien Tinúviel](Lúthien.md) sau sự ra đi của [Beren](../B/Beren.md) và cách cô đến gặp mẹ mình [Melian](../M/Melian.md) và người bạn [Dairon](../D/Dairon.md), cầu xin sự giúp đỡ, từ tầm nhìn xa đầu tiên và từ âm nhạc thứ hai. Melian nói rằng Beren đang ở trong ngục tối của [Thû](../T/Thû.md), và Dairon từ chối chơi bất kỳ bản nhạc nào. Lần thứ hai Dairon phản bội cô, lần này vì tình yêu, với cha cô [Thingol](../T/Thingol.md), người đã đặt cô vào một ngôi nhà trên cây được canh gác. Nhưng bằng phép thuật, bà đã mọc tóc ra và làm một chiếc áo choàng và sợi dây từ đó "một chiếc váy ma thuật / tất cả đều ướt đẫm trong cơn buồn ngủ". Hạ dây xuống, cô ru lính canh của mình ngủ và trốn thoát.
+[Canto](../C/Cantos_of_the_Lay_of_Leithian.md) này nói về [Lúthien Tinúviel](Lúthien.md) sau sự ra đi của [Beren](../B/Beren.md) và việc cô đến gặp mẹ mình [Melian](../M/Melian.md) và người bạn [Dairon](../D/Dairon.md) để cầu xin sự giúp đỡ, từ tầm nhìn xa đầu tiên và từ âm nhạc thứ hai. Melian nói rằng Beren ở trong ngục tối của [Thû](../T/Thû.md), và Dairon từ chối chơi bất kỳ bản nhạc nào. Lần thứ hai Dairon phản bội cô, lần này vì tình yêu, với cha cô [Thingol](../T/Thingol.md), người đã đặt cô vào một ngôi nhà trên cây được canh gác. Nhưng bằng phép thuật, bà đã mọc tóc ra và làm một chiếc áo choàng và sợi dây từ đó "một chiếc váy ma thuật / tất cả đều ướt đẫm trong cơn buồn ngủ". Hạ dây xuống, cô ru lính canh của mình ngủ và trốn thoát.
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Lúthien_Escapes_the_Treehouse.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/59/Ted_Nasmith_-_L%C3%BAthien_Escapes_the_Treehouse.jpg/250px-Ted_Nasmith_-_L%C3%BAthien_Escapes_the_Treehouse.jpg" decoding="async" loading="lazy" width="250" height="232" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/59/Ted_Nasmith_-_L%C3%BAthien_Escapes_the_Treehouse.jpg/375px-Ted_Nasmith_-_L%C3%BAthien_Escapes_the_Treehouse.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/59/Ted_Nasmith_-_L%C3%BAthien_Escapes_the_Treehouse.jpg/500px-Ted_Nasmith_-_L%C3%BAthien_Escapes_the_Treehouse.jpg 2x" data-file-width="1200" data-file-height="1113"/></a><figcaption><i>Lúthien escapes the Treehouse</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
 ## Về Canto {#Concerning_the_Canto}
 
-Sau khi Beren đi khỏi, khu rừng rơi vào sự im lặng trang trọng:
+Sau khi Beren biến mất, khu rừng rơi vào sự im lặng trang nghiêm:
 
 <blockquote class="tg-quote noexcerpt">
 <p>So days drew on from the mournful day;<br/>
@@ -53,7 +53,7 @@ and Lúthien&#39;s singing both were mute.
 <p class="tg-quote-footer"><cite>vv. 1206-1209</cite></p>
 </blockquote>
 
-Lúthien chỉ lặng lẽ hát khúc nhạc tang tóc này:
+Lúthien chỉ lặng lẽ hát liên khúc tang tóc này:
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;Endless roll the waters past!<br/>
@@ -64,7 +64,7 @@ a heartache and a loneliness.&#39;
 <p class="tg-quote-footer"><cite>vv. 1220-1223</cite></p>
 </blockquote>
 
-Sau khi biết được từ Melian về số phận của Beren, cô tìm kiếm sự an ủi ở Dairon, cầu xin anh tạo ra âm nhạc để xoa dịu trái tim cô.
+Sau khi biết được Melian số phận của Beren, cô tìm kiếm sự an ủi ở Dairon, cầu xin anh tạo ra âm nhạc cho cô để xoa dịu trái tim cô.
 
 <blockquote class="tg-quote noexcerpt">
 <p>On earth she cast her at his side.<br/>
@@ -76,7 +76,7 @@ for light gone dark and laughter dead!&#39;
 <p class="tg-quote-footer"><cite>vv. 1262-1267</cite></p>
 </blockquote>
 
-Nhưng "đối với âm nhạc đã chết thì không có nốt nhạc", Dairon trả lời, mặc dù anh chơi một giai điệu than khóc khiến mọi sinh vật, chim chóc và yêu tinh, quên đi hạnh phúc của mình. Mặc dù Lúthien có nài nỉ anh đi cùng cô để tìm Beren nhưng anh vẫn kiên quyết đáp lại.
+Nhưng "đối với âm nhạc đã chết thì không có nốt nhạc", Dairon trả lời, mặc dù ông chơi một giai điệu than khóc khiến mọi sinh vật, chim chóc và Tiên tộc quên đi hạnh phúc của mình. Dù Lúthien nài nỉ anh đi cùng cô tìm Beren nhưng anh vẫn kiên quyết đáp lại
 
 <blockquote class="tg-quote noexcerpt">
 <p>&#39;Wherefore,&#39; said he, &#39;should Dairon go<br/>
@@ -93,7 +93,7 @@ and deadly wandering into hell.&#39;
 <p class="tg-quote-footer"><cite>vv. 1298-1307</cite></p>
 </blockquote>
 
-Điều này thực sự đã được Dairon làm, vì ông đã cảnh báo về sự điên loạn rõ ràng của Vua Lúthien. Thingol “trong tình yêu giận dữ và nửa sợ hãi” nhốt cô trong một ngôi nhà trên cây, không muốn trói cô vào hang động của mình. Lúthien dù đã tha thứ cho Dairon nhưng vẫn thông cảm cho Beren.
+Điều này thực sự đã xảy ra với Dairon, vì ông đã cảnh báo Vua về sự điên rồ rõ ràng của Lúthien. Thingol “trong tình yêu nửa sợ hãi” nhốt cô vào nhà trên cây, không muốn trói cô vào hang động của hắn. Lúthien, mặc dù đã tha thứ cho Dairon nhưng vẫn thông cảm cho Beren.
 
 <blockquote class="tg-quote noexcerpt">
 <p>Yet long the hours when she must sit<br/>

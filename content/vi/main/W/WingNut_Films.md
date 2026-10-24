@@ -18,7 +18,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/WingNut_Films"
 ---
 
-**WingNut Films** là công ty sản xuất phim của [Peter Jackson](../P/Peter_Jackson.md). Đây là một công ty sản xuất của New Zealand và được thành lập vào năm 1987 bởi Peter Jackson và Michael Stephens.
+**WingNut Films** là công ty sản xuất phim của [Peter Jackson](../P/Peter_Jackson.md). Đây là một công ty sản xuất New Zealand và được thành lập vào năm 1987 bởi Peter Jackson và Michael Stephens.
 
 ## Liên kết ngoài {#External_Links}
 

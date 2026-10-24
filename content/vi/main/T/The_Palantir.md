@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Palantír"
 ---
 
-Chuyển hướng tới [The Palantír](The_Palantír.md).
+Chuyển hướng đến [The Palantír](The_Palantír.md).

@@ -16,7 +16,7 @@ sort_keys:
   "Quenya suffixes": "lya"
 ---
 
-<i><b>-lya</b></i> là hậu tố [Quenya](../Q/Quenya.md) có nghĩa là "thy, your"<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> trong **tielyanna** "trên con đường của bạn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-lya</b></i> là hậu tố [Quenya](../Q/Quenya.md) đại từ có nghĩa là "thy, your"<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> trong **tielyanna** "trên con đường của bạn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

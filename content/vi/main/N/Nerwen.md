@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galadriel"
 ---
 
-Chuyển hướng tới [Galadriel](../G/Galadriel.md).
+Chuyển hướng đến [Galadriel](../G/Galadriel.md).

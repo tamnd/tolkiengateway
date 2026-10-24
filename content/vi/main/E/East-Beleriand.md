@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "East Beleriand"
 ---
 
-Chuyển hướng tới [Đông Beleriand](East_Beleriand.md).
+Chuyển hướng đến [Đông Beleriand](East_Beleriand.md).

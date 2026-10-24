@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Piikki%C3%A4inen"
 ---
 
-**Pickthorn** là họ của một gia đình [Bree-men](../M/Men_of_Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "Little Tom Pickthorn from over the Hill" là một trong ba Men of Bree bị giết khi chiến đấu với bọn côn đồ trong mùa đông năm 1418-1419.
+**Pickthorn** là họ của một gia đình [Bree-men](../M/Men_of_Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "Little Tom Pickthorn from over the Hill" là một trong ba Người Bree bị giết khi chiến đấu với bọn lưu manh trong mùa đông năm 1418-1419.
 
 <span></span>
 

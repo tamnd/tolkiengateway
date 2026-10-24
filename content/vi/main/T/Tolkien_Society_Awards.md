@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Society Awards"
 ---
 
-Chuyển hướng tới [Giải thưởng của Hiệp hội Tolkien](The_Tolkien_Society_Awards.md).
+Chuyển hướng tới [Hội Tolkien Giải thưởng](The_Tolkien_Society_Awards.md).

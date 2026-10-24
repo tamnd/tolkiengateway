@@ -11,4 +11,4 @@ redirect_target: "Elven customs"
 redirect_fragment: "Naming conventions"
 ---
 
-Chuyển hướng tới [phong tục của người Elf](Elven_customs.md#Naming_conventions).
+Chuyển hướng tới [Tiên hải quan](Elven_customs.md#Naming_conventions).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Crossings of Poros"
 ---
 
-Chuyển hướng đến [Vượt qua Poros](Crossings_of_Poros.md).
+Chuyển hướng đến [Đi qua Poros](Crossings_of_Poros.md).

@@ -16,9 +16,9 @@ sort_keys:
   "Elven peoples": "Elves of Eressea"
 ---
 
-**Yêu tinh của Eressëa** là những [Yêu tinh](Elves.md) sống trên đảo [Tol Eressëa](../T/Tol_Eressëa.md) ở [Vịnh Eldamar](../B/Bay_of_Eldamar.md). [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md) được đưa đến [Aman](../A/Aman.md) trên hòn đảo đó, nhưng những Yêu tinh đầu tiên ở lại đó bất kể thời gian là [Teleri](../T/Teleri.md), những người sống trên đảo rất lâu sau khi nó được neo đậu ngoài khơi bờ biển [Aman](../A/Aman.md). Tuy nhiên, sau một thời gian, Teleri rời đi, để sinh sống trên các mảnh đất của [Vương quốc may mắn](../B/Blessed_Realm.md), và đặc biệt là tại thiên đường của [Alqualondë](../A/Alqualondë.md).
+**Tiên tộc của Eressëa** là những [Tiên tộc](Elves.md) cư trú trên đảo [Tol Eressëa](../T/Tol_Eressëa.md) trong [Vịnh Eldamar](../B/Bay_of_Eldamar.md). Các tàu [Vanyar](../V/Vanyar.md) và [Noldor](../N/Noldor.md) đã được đưa đến [Aman](../A/Aman.md) trên hòn đảo đó, nhưng Tiên tộc người đầu tiên ở lại đó bất cứ lúc nào là [Teleri](../T/Teleri.md), những người đã sống trên đảo rất lâu sau khi nó được thả neo ngoài khơi bờ biển của [Aman](../A/Aman.md). Tuy nhiên, sau một thời gian, Teleri rời đi để sinh sống trên các tuyến đường của chính [Cõi Phúc lành](../B/Blessed_Realm.md), và đặc biệt là tại thiên đường của [Alqualondë](../A/Alqualondë.md).
 
-Sau [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) vào cuối [Thời đại thứ nhất](../F/First_Age.md), [Tol Eressëa](../T/Tol_Eressëa.md) một lần nữa được cư trú bởi Yêu tinh, bởi những người lưu vong trở về từ [Trung Địa](../M/Middle-earth.md) định cư ở đó. Thành phố ven biển của họ nằm ở [Avallónë](../A/Avallónë.md) và họ đã xây dựng được tình bạn tuyệt vời với [Númenóreans](../N/Númenóreans.md), ít nhất là trong thời kỳ đầu của [Thời đại thứ hai](../S/Second_Age.md).
+Sau [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md) ở cuối [Kỷ Đệ Nhất](../F/First_Age.md), [Tol Eressëa](../T/Tol_Eressëa.md) lại là nơi cư trú của Tiên tộc, bởi những người lưu vong trở về từ [Trung Địa](../M/Middle-earth.md) định cư ở đó. Thành phố ven biển của họ nằm ở [Avallónë](../A/Avallónë.md) và họ đã xây dựng được tình bạn tuyệt vời với [người Númenor](../N/Númenóreans.md), ít nhất là trong thời gian đầu của [Kỷ Đệ Nhị](../S/Second_Age.md).
 
 <span></span>
 

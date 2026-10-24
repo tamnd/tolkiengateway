@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Gilfadriel"
 ---
 
-- Gilfadriel hay còn gọi là Elendillions đã vui lòng cho phép bà/họ sử dụng [tác phẩm nghệ thuật của bà/của họ](../../category/I/Images_by_Gilfadriel.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Gilfadriel hay còn gọi là Elendillions đã vui lòng cho phép bà/họ sử dụng [tác phẩm nghệ thuật của bà/của họ](../../category/I/Images_by_Gilfadriel.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 11:58, ngày 14 tháng 3 năm 2023 (UTC)
 - Người dùng đã xin phép qua email: [Ar-Zigûr](https://tolkiengateway.net/wiki/User:Ar-Zig%C3%BBr) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:Ar-Zig%C3%BBr))

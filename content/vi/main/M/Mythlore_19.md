@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_19.gif.md"><img src="https://tolkiengateway.net/w/images/e/e7/Mythlore_19.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 19</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gracia Fay Ellwood</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter <a href="../_/1979.md" title="1979">1979</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_18.md" title="Mythlore 18">Mythlore 18</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_20.md" title="Mythlore 20">Mythlore 20</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 19</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol6/iss1/" rel="noreferrer noopener" target="_blank">Tập 6, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 19</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol6/iss1/" rel="noreferrer noopener" target="_blank">Tập 6, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -54,7 +54,7 @@ infobox:
 
 #### Tính năng {#Features}
 
-- Speth, Lee. Cách đối xử ung dung: “Cuộc tìm kiếm một vị vua.” Đánh giá về *The King of Alsander* của James Elroy Flecker. 17.
+- Speth, Lee. Cách đối xử ung dung: “Cuộc tìm kiếm Vua.” Đánh giá về *The King of Alsander* của James Elroy Flecker. 17.
 - Thư. 25.
 - Colvin, George. “Miscellany.” Review of “Forgotten Fantasy” series from Newcastle Publishing; Fantasy and SF criticism series from Borgo Press; *Land of Heroes: A Retelling of the Kalevala* by Ursula Synge; *Quag Kep* by Andre Norton; *A Field Guide to the Little People* by Nancy Arrowsmith and George Moore; *Cloudy With a Chance of Meatballs* by Judy Barrett. 30.
 - Christopher, Joe R. “Sayers and Ousby on Wilkie Collins.” Review of *Wilkie Collins: A Critical and Biographical Study* by Dorothy L. Sayers; *Bloodhounds of Heaven: The Detective in English Fiction from Godwin to Doyle* by Ian Ousby. 31-32.

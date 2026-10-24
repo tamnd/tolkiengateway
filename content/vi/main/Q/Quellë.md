@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Quell%C3%AB"
 ---
 
-**Quellë** là tên [Quenya](Quenya.md) để chỉ mùa "tàn tàn", hay cuối thu, còn được gọi là [Lasse-lanta](../L/Lasse-lanta.md) hay "lá rụng". Ở [Sindarin](../S/Sindarin.md), mùa này được gọi là [Firith](../F/Firith.md); hoặc [Narbeleth](../N/Narbeleth.md), có nghĩa là "mặt trời lặn". Trong [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md), đây là mùa thứ tư trong sáu "mùa" và ít nhiều tương ứng với 54 ngày từ [7 tháng 10](../_/7_October.md) đến [30 tháng 11](../_/30_November.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Quellë** là tên [Quenya](Quenya.md) chỉ mùa "tàn tàn", hay cuối thu, còn gọi là [Lasse-lanta](../L/Lasse-lanta.md) hay "lá rụng". Trong [Sindarin](../S/Sindarin.md), mùa này được gọi là [Firith](../F/Firith.md); hoặc [Narbeleth](../N/Narbeleth.md), có nghĩa là "mặt trời lặn". Trong [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) đây là mùa thứ tư trong sáu "mùa" và ít nhiều tương ứng với 54 ngày từ [7 tháng 10](../_/7_October.md) đến [30 tháng 11](../_/30_November.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

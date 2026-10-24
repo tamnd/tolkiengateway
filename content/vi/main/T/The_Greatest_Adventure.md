@@ -37,7 +37,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Cuộc phiêu lưu vĩ đại nhất**, còn được gọi là **Bản ballad của người Hobbit**, là một bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) và được trình bày bởi [Glenn Yarbrough](../G/Glenn_Yarbrough.md). Đó là bài hát chủ đề cho [1977](../_/1977.md) [phim chuyển thể](<The_Hobbit_(1977_film).md>) của *[The Hobbit](The_Hobbit.md)*. Bài hát đầy đủ được phát vào đêm trước khi nhóm rời Shire và các đoạn trích được phát lại xuyên suốt câu chuyện.
+**Cuộc phiêu lưu vĩ đại nhất**, còn được gọi là **Bản ballad của The Hobbit**, là một bài hát được viết bởi [Maury Laws](../M/Maury_Laws.md) (nhạc) và [Jules Bass](../J/Jules_Bass.md) (lời) và được trình bày bởi [Glenn Yarbrough](../G/Glenn_Yarbrough.md). Đó là bài hát chủ đề cho [1977](../_/1977.md) [phim chuyển thể](<The_Hobbit_(1977_film).md>) của *[The Hobbit](The_Hobbit.md)*. Toàn bộ bài hát được phát vào đêm trước khi nhóm khởi hành từ Shire và các đoạn trích được tái hiện xuyên suốt câu chuyện.
 
 ## Lời bài hát {#Lyrics}
 

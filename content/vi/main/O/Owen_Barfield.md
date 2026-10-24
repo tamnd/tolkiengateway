@@ -40,11 +40,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Owen_Barfield.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/Owen_Barfield.jpg/320px-Owen_Barfield.jpg" decoding="async" loading="lazy" width="320" height="436" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/Owen_Barfield.jpg/480px-Owen_Barfield.jpg 1.5x, https://tolkiengateway.net/w/images/5/5d/Owen_Barfield.jpg 2x" data-file-width="551" data-file-height="750"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Owen Barfield</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/9_November.md" title="9 November">9 November</a>, <a href="../_/1898.md" title="1898">1898</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/14_December.md" title="14 December">14 December</a>, <a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author</td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://owenbarfield.org/" rel="noreferrer noopener" target="_blank">Owen Barfield Literary Estate</a></td></tr></tbody></table>
 
-**Arthur Owen Barfield** ([9 tháng 11](../_/9_November.md) [1898](../_/1898.md) - [14 tháng 12](../_/14_December.md) [1997](../_/1997.md)) là một triết gia và là đồng nghiệp [Hiểu biết](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông không tham dự nhiều cuộc họp của Inklings do sống và làm việc ở London, cách xa [Eagle and Child](../E/Eagle_and_Child.md).
+**Arthur Owen Barfield** ([ngày 9 tháng 11](../_/9_November.md) [1898](../_/1898.md) - [ngày 14 tháng 12](../_/14_December.md) [1997](../_/1997.md)) là một triết gia và là đồng nghiệp [Hiểu biết](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông không tham dự nhiều cuộc họp Inklings do sống và làm việc ở London, cách xa [Đại bàng và trẻ em](../E/Eagle_and_Child.md).
 
 Barfield lập luận rằng ngôn ngữ "thơ mộng" hơn ở những dạng cổ xưa hơn và lưu ý rằng cùng một từ mô tả cả thực tại tinh thần và vật chất đối với những người nói cổ xưa, không tạo ra sự khác biệt. Ví dụ, ông lưu ý rằng trong một số ngôn ngữ, từ "thiên đường" giống như từ "bầu trời".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Tolkien rất yêu thích các tác phẩm của Barfield và quan điểm ngôn ngữ của ông chịu ảnh hưởng nhiều nhất từ ​​Barfield, đặc biệt là quan niệm của ông về sự thống nhất cổ xưa và nguyên bản giữa ý nghĩa và âm thanh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tolkien rất thích các tác phẩm của Barfield và quan điểm ngôn ngữ của ông chịu ảnh hưởng nhiều nhất từ ​​Barfield, đặc biệt là quan niệm của ông về sự thống nhất cổ xưa và nguyên bản giữa ý nghĩa và âm thanh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -99,7 +99,7 @@ Trong một lá thư gửi Barfield, ngày [28 tháng 6](../J/June_28.md), [1936
 
 ## Xem thêm {#See_also}
 
-- [ *[Splintered Light](../S/Splintered_Light.md)* của Verlyn Flieger](../V/Verlyn_Flieger.md), về ảnh hưởng của Barfield trong mối quan hệ với *[The Silmarillion](../T/The_Silmarillion.md)*
+- [Verlyn Flieger](../V/Verlyn_Flieger.md) *[Splintered Light](../S/Splintered_Light.md)*, về ảnh hưởng của Barfield trong mối quan hệ với *[The Silmarillion](../T/The_Silmarillion.md)*
 
 ## Liên kết ngoài {#External_links}
 

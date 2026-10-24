@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Two Towers MUD"
 ---
 
-Chuyển hướng đến [MUD hai tòa tháp](The_Two_Towers_MUD.md).
+Chuyển hướng tới [The Two Towers MUD](The_Two_Towers_MUD.md).

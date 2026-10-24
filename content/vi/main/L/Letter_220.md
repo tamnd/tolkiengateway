@@ -33,7 +33,7 @@ Bức thư gốc gồm hai trang.<sup id="cite_ref-1" class="reference"><a href=
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã nghỉ hưu, hay như ông nói, đã bị “đùn” do giới hạn độ tuổi vào cuối học kỳ trước. Ông gọi đó là một quá trình u sầu, đặc biệt là về mặt tài chính. Mọi thứ sẽ trở nên ít ỏi nếu không có sự trợ giúp của "[Hobbit](../H/Hobbits.md) và tất cả những thứ đó". Được khích lệ bởi lá thư của Mitchison, ông quyết định từ chức khỏi vị trí giám khảo của Đại học Quốc gia Ireland và quay trở lại vấn đề [Sách Đỏ](../R/Red_Book_of_Westmarch.md) và các lịch sử liên quan. <span></span>
+Tolkien đã nghỉ hưu, hay như anh nói, là bị “đuổi” do giới hạn độ tuổi vào cuối học kỳ trước. Ông gọi đó là một quá trình u sầu, đặc biệt là về mặt tài chính. Mọi thứ sẽ trở nên ít ỏi nếu không có sự hỗ trợ của "[Hobbit](../H/Hobbits.md) và tất cả những thứ đó". Được khích lệ bởi lá thư của Mitchison, ông quyết định từ chức khỏi vị trí giám khảo của Đại học Quốc gia Ireland và quay trở lại vấn đề [Sách Đỏ](../R/Red_Book_of_Westmarch.md) và lịch sử liên minh. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

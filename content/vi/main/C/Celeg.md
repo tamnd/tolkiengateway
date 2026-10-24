@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>Celeg</b></i> là tính từ [Sindarin](../S/Sindarin.md) có nghĩa là "nhanh chóng" hoặc "nhanh nhẹn".
+<i><b>Celeg</b></i> là một tính từ [Sindarin](../S/Sindarin.md) có nghĩa là "nhanh chóng" hoặc "nhanh nhẹn".
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ Có lẽ là [OS](../O/OS.md) \**keleka*, từ [PQ](../P/PQ.md) \**kyelekâ*, [R
 
 ## Ví dụ {#Examples}
 
-- [Celegorm](Celegorm.md) = Kẻ đứng dậy vội vàng
+- [Celegorm](Celegorm.md) = Đứng dậy vội vàng
 - [Celduin](../R/River_Running.md)
 
 ## Xem thêm {#See_also}
@@ -35,4 +35,4 @@ Có lẽ là [OS](../O/OS.md) \**keleka*, từ [PQ](../P/PQ.md) \**kyelekâ*, [R
 
 ## Tài liệu tham khảo {#References}
 
-- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](Christopher_Tolkien.md) (ed.), *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*, "[Từ nguyên](../T/The_Etymologies.md)"
+- [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](Christopher_Tolkien.md) (ed.), *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)*, "[The Etymologies](../T/The_Etymologies.md)"

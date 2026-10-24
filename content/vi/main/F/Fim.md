@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-**fim** là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "mảnh mai, mảnh khảnh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> **Ví dụ:**
+**fim** là từ [Sindarin](../S/Sindarin.md) có nghĩa là "mảnh mai, mảnh khảnh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> **Ví dụ:**
 
 - *[Fimbrethil](Fimbrethil.md)*
 

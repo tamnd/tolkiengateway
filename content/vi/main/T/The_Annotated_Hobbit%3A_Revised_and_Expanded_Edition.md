@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Annotated Hobbit"
 ---
 
-Chuyển hướng đến [Người Hobbit được chú thích](The_Annotated_Hobbit.md).
+Chuyển hướng đến [The Annotated Hobbit](The_Annotated_Hobbit.md).

@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 2 tháng 6
 - **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nhận lệnh báo cáo trên Folkestone, chuẩn bị lên tàu.
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Maegraith](../L/Letter_to_Maegraith.md).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 323](../L/Letter_323.md).
-- **[1978](1978.md)** - Học giả Tolkien [Dimitra Fimi](../D/Dimitra_Fimi.md) ra đời.
+- **[1978](1978.md)** - Tolkien học giả [Dimitra Fimi](../D/Dimitra_Fimi.md) ra đời.
 - **[2009](2009.md)** - Phiên bản cao cấp của *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}

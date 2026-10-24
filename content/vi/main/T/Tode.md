@@ -19,13 +19,13 @@ langlinks:
 
 **Tode** là một địa điểm đầm lầy được đề cập trong [Shire](The_Shire.md)-bài thơ *[The Mewlips](The_Mewlips.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nó được đề cập là sau một con đường dài "vượt qua [Dãy Merlock](../M/Merlock_Mountains.md)" và "qua [bóng nhện](../S/Spider.md)"; ngoài ra, không rõ Tode đề cập đến một đầm lầy thực sự ở [Westlands](../W/Westlands.md) hay đó chỉ là một phát minh của nhà thơ.
+Nó được đề cập là sau một chặng đường dài "vượt qua [Merlock Dãy Núi](../M/Merlock_Mountains.md)" và "xuyên qua [con nhện](../S/Spider.md)-bóng tối"; ngoài ra, không rõ Tode đề cập đến một đầm lầy thực sự ở [Westlands](../W/Westlands.md) hay đó chỉ là một phát minh của nhà thơ.
 
-Vì bài thơ mô tả một địa điểm tương tự như [Mirkwood](../M/Mirkwood.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có thể Tode đề cập đến [Đầm lầy dài](../L/Long_Marshes.md) ở cuối [Con đường rừng cũ](../O/Old_Forest_Road.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vì bài thơ mô tả một địa điểm tương tự như [Mirkwood](../M/Mirkwood.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có thể Tode đề cập đến [Đầm lầy dài](../L/Long_Marshes.md) ở cuối con đường [Khu Rừng Cổ](../O/Old_Forest_Road.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-<i><a class="extiw" href="http://en.wiktionary.org/wiki/tode#Middle_English" title="wiktionary:tode">tode</a></i> là cách đánh vần tiếng Anh Trung cổ của "[con cóc](../F/Frog.md)"; nó cũng là một từ có hàm ý xấu xa, vì cóc/ếch được coi là sinh vật ma quỷ, theo Wiktionary (xem liên kết nêu trên). Hơn nữa, <i><a class="extiw" href="http://en.wiktionary.org/wiki/Tode#German" title="wiktionary:Tode">Tode</a></i> cũng là từ [tiếng Đức](../G/Germanic.md) có nghĩa là "cái chết". Mặc dù hai từ này không liên quan với nhau và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) không giải thích cụ thể việc lựa chọn cái tên này, nhưng cả hai cách giải thích đều phù hợp với một đầm lầy đáng ngại. <span></span>
+<i><a class="extiw" href="http://en.wiktionary.org/wiki/tode#Middle_English" title="wiktionary:tode">tode</a></i> là cách đánh vần tiếng Anh Trung cổ của "[con cóc](../F/Frog.md)"; nó cũng là một từ có hàm ý xấu xa, vì cóc/ếch được coi là sinh vật ma quỷ, theo Wiktionary (xem liên kết nêu trên). Hơn nữa, <i><a class="extiw" href="http://en.wiktionary.org/wiki/Tode#German" title="wiktionary:Tode">Tode</a></i> cũng là từ [tiếng Đức](../G/Germanic.md) có nghĩa là "cái chết". Mặc dù hai từ này không liên quan và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) không giải thích cụ thể việc anh chọn cái tên này, nhưng cả hai cách giải thích đều phù hợp với một đầm lầy đáng ngại. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

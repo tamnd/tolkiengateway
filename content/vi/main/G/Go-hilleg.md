@@ -12,7 +12,7 @@ categories:
   - "Mannish words"
 ---
 
-**Go-hilleg** là một từ trong ngôn ngữ [Tiền Númenórean](../P/Pre-Númenórean.md) của [Agar](../A/Agar.md) dùng để chỉ những [những người định cư Númenórean](../N/Númenóreans.md) của [Thời đại thứ hai](../S/Second_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Go-hilleg** là một từ trong ngôn ngữ [Pre-Númenórean](../P/Pre-Númenórean.md) của [Agar](../A/Agar.md) dùng để chỉ những [Númenórean người định cư](../N/Númenóreans.md) của [Kỷ Đệ Nhị](../S/Second_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

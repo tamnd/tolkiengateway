@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High King (disambiguation)"
 ---
 
-Chuyển hướng đến [High King (định hướng)](<High_King_(disambiguation).md>).
+Chuyển hướng đến [Đại Vương (định hướng)](<High_King_(disambiguation).md>).

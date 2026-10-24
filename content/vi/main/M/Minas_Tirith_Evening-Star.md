@@ -24,7 +24,7 @@ images:
 
 ## Lịch sử {#History}
 
-Tạp chí bắt đầu xuất bản vào năm [1967](../_/1967.md), do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Philip_W._Helms&amp;action=edit&amp;redlink=1" title="Philip W. Helms (page does not exist)">Philip thành lập và biên tập W. Helms</a>. Trong [1975](../_/1975.md), nó hợp nhất với <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter-zine&amp;action=edit&amp;redlink=1" title="Letter-zine (page does not exist)">Letter-zine</a></i>, bản tin của [American Tolkien Society](../A/American_Tolkien_Society.md) mới thành lập và được xuất bản bốn lần một năm cho đến ngày nay.
+Tạp chí bắt đầu xuất bản vào năm [1967](../_/1967.md), do <a class="new" href="https://tolkiengateway.net/w/index.php?title=Philip_W._Helms&amp;action=edit&amp;redlink=1" title="Philip W. Helms (page does not exist)">Philip thành lập và biên tập W. Helms</a>. Trong [1975](../_/1975.md), nó hợp nhất với <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Letter-zine&amp;action=edit&amp;redlink=1" title="Letter-zine (page does not exist)">Letter-zine</a></i>, bản tin của [Hiệp hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md) mới thành lập và được xuất bản bốn lần một năm cho đến ngày nay.
 
 Tạp chí bao gồm các bài viết, thơ ca, bài phê bình, tiểu thuyết của người hâm mộ và tác phẩm nghệ thuật, và chỉ dành riêng cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 

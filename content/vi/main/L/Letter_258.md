@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Một chiếc tàu cánh ngầm "Aquastroll" đã được đặt tên là *[Shadowfax](../S/Shadowfax.md)*. Tolkien nói với Rayner rằng ông ước bản quyền có thể bảo vệ những cái tên: việc nghĩ ra những cái tên hay đã khiến ông tốn nhiều thời gian, thậm chí nhiều hơn cả việc viết những dòng thơ. Một số nhà văn đã lưu ý đến ông rằng một chiếc tàu cánh ngầm "quái dị" được đặt tên là *Shadowfax*, thậm chí không có "do bạn cho phép", và Tolkien không hài lòng về điều đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Ông đã quen với tất cả các *[Rivendells](../R/Rivendell.md)*, *[Lóriens](Lothlórien.md)* và *[Imladris](../R/Rivendell.md#Etymology)* được sử dụng trong các ngôi nhà, mặc dù không phải tất cả đều đi kèm với một lá thư có chứa từ "by your Leave".
+Một chiếc tàu cánh ngầm "Aquastroll" đã được đặt tên là *[Shadowfax](../S/Shadowfax.md)*. Tolkien nói với Rayner rằng anh ước bản quyền có thể bảo vệ những cái tên: việc nghĩ ra những cái tên hay đã khiến anh mất nhiều thời gian, thậm chí nhiều hơn cả việc viết những dòng thơ. Một số nhà văn đã lưu ý đến ông rằng một chiếc tàu cánh ngầm "quái dị" được đặt tên là *Shadowfax*, thậm chí không có "do bạn cho phép", và Tolkien không hài lòng về điều đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Ông đã quen với tất cả các *[Rivendells](../R/Rivendell.md)*, *[Lóriens](Lothlórien.md)* và *[Imladris](../R/Rivendell.md#Etymology)* được sử dụng trong các ngôi nhà, mặc dù không phải tất cả đều có kèm theo một lá thư có chứa từ "by your Leave".
 
 ## Liên kết ngoài {#External_links}
 

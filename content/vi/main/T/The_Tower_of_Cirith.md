@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tower of Cirith Ungol (soundtrack)"
 ---
 
-Chuyển hướng tới [Tháp Cirith Ungol (nhạc phim)](<The_Tower_of_Cirith_Ungol_(soundtrack).md>).
+Chuyển hướng tới [ Tháp Cirith Ungol (nhạc phim)](<The_Tower_of_Cirith_Ungol_(soundtrack).md>).

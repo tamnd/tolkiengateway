@@ -40,29 +40,29 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/Kay_Woollard_-_The_Pedlar_of_Medicines.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4d/Kay_Woollard_-_The_Pedlar_of_Medicines.jpg/320px-Kay_Woollard_-_The_Pedlar_of_Medicines.jpg" decoding="async" loading="lazy" width="320" height="233" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4d/Kay_Woollard_-_The_Pedlar_of_Medicines.jpg/480px-Kay_Woollard_-_The_Pedlar_of_Medicines.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4d/Kay_Woollard_-_The_Pedlar_of_Medicines.jpg/640px-Kay_Woollard_-_The_Pedlar_of_Medicines.jpg 2x" data-file-width="1081" data-file-height="787"/></a><figcaption>&#34;The Pedlar of Medicines - Cottages and Cottagers near Hardbottle&#34; by <a href="../K/Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Region</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Northfarthing</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Region</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data"><a href="../B/Battle_of_Greenfields.md" title="Battle of Greenfields">Battle of Greenfields</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_the_Northfarthing.md" title="Category:Images of the Northfarthing">Images of the Northfarthing</a></td></tr></tbody></table>
 
-**Northfarthing** là vùng [Farthing](../F/Farthings.md) lạnh giá phía bắc của [Shire](../T/The_Shire.md).
+**Northfarthing** là vùng [Farthing](../F/Farthings.md) lạnh giá phía bắc của [ Shire](../T/The_Shire.md).
 
 ## Địa lý {#Geography}
 
-Northfarthing là một trong bốn farthing duy nhất không kết thúc ở [Hòn đá Ba Farthing](../T/Three-Farthing_Stone.md); điểm cực nam của nó nằm cách nó khoảng 11 dặm về phía bắc<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và dọc theo biên giới phía bắc của nó là [North Moors](North_Moors.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Northfarthing là cái duy nhất trong bốn cái rắm không kết thúc bằng [Hòn đá ba rắm](../T/Three-Farthing_Stone.md); điểm cực nam của nó nằm cách nó khoảng 11 dặm về phía bắc<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và dọc theo biên giới phía bắc của nó là [North Moors](North_Moors.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Nó có không khí trong lành và thơm ngát; khi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đến [Ithilien](../I/Ithilien.md) lần đầu tiên, không khí của vùng khiến họ nhớ đến vùng cao Northfarthing.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Nó có không khí trong lành và thơm ngát; Khi [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) lần đầu tiên bước vào [Ithilien](../I/Ithilien.md), không khí của vùng khiến họ nhớ đến vùng cao Northfarthing.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-North Moors là nơi duy nhất ở Quận có tuyết rơi dày đặc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+North Moors là nơi duy nhất ở Shire thường xuyên có tuyết rơi dày đặc.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ### Đặc điểm địa lý {#Geographic_features}
 
 Farthing chứa [Bindbole Wood](../B/Bindbole_Wood.md), một con sông (có lẽ là [Norbourn](Norbourn.md)) và Đường [Northway](Northway.md) dẫn đến thị trấn [Oatbarton](../O/Oatbarton.md).
 
-Northfarthing có nhiều đá và các khu định cư như [Hardbottle](../H/Hardbottle.md) được đào sâu hoặc làm từ đá của nó.<sup id="cite_ref-Nomen_5-0" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup>
+Northfarthing là đá và các khu định cư như [Hardbottle](../H/Hardbottle.md) được đào sâu hoặc làm từ đá của nó.<sup id="cite_ref-Nomen_5-0" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup>
 
-Một nhánh của [Gia đình Took](../T/Took_Family.md) được gọi là [North-tooks](North-took_Family.md) sống ở một thị trấn có tên là [Long Cleeve](../L/Long_Cleeve.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Dựa vào hướng bắc (khi hầu hết Took sống ở [Westfarthing](../W/Westfarthing.md)), Long Cleeve có lẽ nằm ở Northfarthing.
+Một nhánh của [Gia đình Took](../T/Took_Family.md) được gọi là [North-tooks](North-took_Family.md) sống ở một thị trấn có tên là [Long Cleeve](../L/Long_Cleeve.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Xét về phía bắc (khi hầu hết Tooks sống ở [Westfarthing](../W/Westfarthing.md)), Long Cleeve có lẽ nằm ở Northfarthing.
 
 ## Lịch sử {#History}
 
-Sự kiện lịch sử đáng chú ý duy nhất từng xảy ra ở Northfarthing là [Trận chiến Greenfields](../B/Battle_of_Greenfields.md) ([T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md)).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Đây là trận chiến duy nhất diễn ra trong ranh giới của Quận cho đến [Trận chiến Bywater](../B/Battle_of_Bywater.md).
+Sự kiện lịch sử đáng chú ý duy nhất từng xảy ra trong Northfarthing là [Trận chiến trên cánh đồng xanh](../B/Battle_of_Greenfields.md) ([T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md)).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Đây là trận chiến duy nhất diễn ra trong ranh giới của Shire cho đến [Trận Bywater](../B/Battle_of_Bywater.md).
 
-Vào khoảng thời gian diễn ra [War of the Ring](../W/War_of_the_Ring.md), [Halfred Gamgee](../H/Halfred_Gamgee.md) chuyển đến Northfarthing.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> <span></span>
+Vào khoảng thời gian [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Halfred Gamgee](../H/Halfred_Gamgee.md) chuyển đến Northfarthing.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

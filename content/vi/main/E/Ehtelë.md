@@ -15,8 +15,8 @@ sort_keys:
   "Quenya nouns": "Ehtele"
 ---
 
-**Ehtelë** là [Quenya](../Q/Quenya.md) cho *issue of water*, *spring*.
+**Ehtelë** là [Quenya](../Q/Quenya.md) dành cho *issue of water*, *spring*.
 
 ## Tài liệu tham khảo {#References}
 
-- [Cuốn sách về những câu chuyện thất lạc Phần thứ hai](../T/The_Book_of_Lost_Tales_Part_Two.md), Phụ lục
+- [The Book of Lost Tales Part Two](../T/The_Book_of_Lost_Tales_Part_Two.md), Phụ lục

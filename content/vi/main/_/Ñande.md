@@ -15,9 +15,9 @@ sort_keys:
   "Quenya nouns": "Nande"
 ---
 
-<i><b>ñande</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "đàn hạc". <i><b>ñandelle</b></i> là một "cây đàn hạc nhỏ".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>ñande</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đàn hạc". <i><b>ñandelle</b></i> là một "cây đàn hạc nhỏ".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng các dạng *nandë* và *nandellë* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng các biểu mẫu *nandë* và *nandellë* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

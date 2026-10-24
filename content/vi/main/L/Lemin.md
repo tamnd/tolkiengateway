@@ -25,7 +25,7 @@ langlinks:
 ## Xem thêm {#See_also}
 
 - [Quenya](../Q/Quenya.md) *[lempe](Lempe.md)*
-- [Kỳ quái](../G/Gnomish.md) *[elf](<../E/Elf_(Gnomish).md>)*
+- [Gnomish](../G/Gnomish.md) *[elf](<../E/Elf_(Gnomish).md>)*
 
 <span></span>
 

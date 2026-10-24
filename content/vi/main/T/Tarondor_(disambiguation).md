@@ -27,7 +27,7 @@ images:
 **Tarondor** có thể đề cập đến:
 
 - [Tarondor](<Tarondor_(King_of_Arnor).md>) ([T.A.](Third_Age.md) [372](Third_Age_372.md) - [602](Third_Age_602.md)), [Vua](../K/Kings_of_Arnor.md) thứ bảy của [Arnor](../A/Arnor.md).
-- [Tarondor](<Tarondor_(King_of_Gondor).md>) ([T.A.](Third_Age.md) [1577](Third_Age_1577.md) - [1798](Third_Age_1798.md)), [Vua](../K/Kings_of_Gondor.md) thứ 27 của [Gondor](../G/Gondor.md), người đã chuyển thủ đô của Gondor từ [Osgiliath](../O/Osgiliath.md) đến [Minas Tirith](../M/Minas_Tirith.md).
+- [Tarondor](<Tarondor_(King_of_Gondor).md>) ([T.A.](Third_Age.md) [1577](Third_Age_1577.md) - [1798](Third_Age_1798.md)), [Vua](../K/Kings_of_Gondor.md) thứ hai mươi bảy của [Gondor](../G/Gondor.md), người đã chuyển vốn của Gondor từ [Osgiliath](../O/Osgiliath.md) sang [Minas Tirith](../M/Minas_Tirith.md).
 
 <hr style="margin-top:15px;"/>
 

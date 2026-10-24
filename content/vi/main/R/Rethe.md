@@ -45,11 +45,11 @@ langlinks:
 <li><a href="../F/Foreyule.md" title="Foreyule">Foreyule</a> (December)</li></ol>
 </td></tr></tbody></table>
 
-Tháng thứ ba của [Lịch Quận](../S/Shire_Calendar.md), nằm giữa [Solmath](../S/Solmath.md) và [Thiên văn](../A/Astron.md), và gần tương ứng với [ngày 21 tháng 2](../_/21_February.md) đến [ngày 22 tháng 3](../_/22_March.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Tháng thứ ba của [Lịch Shire](../S/Shire_Calendar.md), nằm giữa [Solmath](../S/Solmath.md) và [Thiên văn](../A/Astron.md) và gần tương ứng với [ngày 21 tháng 2](../_/21_February.md) đến [22 tháng 3](../_/22_March.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng Ba, <i><a class="extiw" href="http://en.wiktionary.org/wiki/hre%C3%BEmona%C3%BE" title="wiktionary:hreþmonaþ">Hreþmōnaþ</a></i>, có nghĩa là "tháng thô".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cái tên thể hiện sự [hiện đại hóa](../H/Hobbitish.md) của tên [tiếng Anh cổ](../O/Old_English.md) cho tháng 3, <i><a class="extiw" href="http://en.wiktionary.org/wiki/hre%C3%BEmona%C3%BE" title="wiktionary:hreþmonaþ">Hreþmōnaþ</a></i>, nghĩa là "tháng khó khăn".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Ngoài ra, cái tên này có thể có nghĩa là "tháng bão", theo cách đọc của Tiến sĩ Eleanor Parker trong bài bình luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về từ "Hreðmanna" trong [Beowulf: A Translation and Commentary](../B/Beowulf%253A_A_Translation_and_Commentary.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

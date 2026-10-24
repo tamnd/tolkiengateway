@@ -35,4 +35,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Exodus From Edoras** là bài hát thứ năm trong đĩa hai của *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Exodus From Edoras** là ca khúc thứ năm trong đĩa hai của *[The Lord of the Rings: The Two Towers - The Complete Recordings](../T/The_Lord_of_the_Rings%253A_The_Two_Towers_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md).

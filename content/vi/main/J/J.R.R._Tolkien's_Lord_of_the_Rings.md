@@ -34,7 +34,7 @@ Chúa tể của những chiếc nhẫn</b></i> của <i><b>J.R.R. Tolkien là t
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Chưa bao giờ có một bản chuyển thể từ cuốn tiểu thuyết tuyệt vời của Tolkien lại được thực hiện để thu hút trẻ nhỏ (6+). Reiner Knizia đã hoàn toàn thành công trong trò chơi bậc thầy của mình dành cho cả gia đình. Có một phiên bản đơn giản và nâng cao hơn của trò chơi trong hộp, cả hai đều có thể chơi được trên cùng một bảng và sử dụng hầu hết các quân cờ giống nhau.
+Chưa bao giờ có một bản chuyển thể tiểu thuyết hay của Tolkien được thực hiện để thu hút trẻ nhỏ (6+). Reiner Knizia đã hoàn toàn thành công trong trò chơi bậc thầy của mình dành cho cả gia đình. Có một phiên bản đơn giản và nâng cao hơn của trò chơi trong hộp, cả hai đều có thể chơi được trên cùng một bảng và sử dụng hầu hết các quân cờ giống nhau.
 
 Tác phẩm nghệ thuật của các họa sĩ minh họa sách thiếu nhi Dieter và Ingrid Schubert hoàn toàn quyến rũ và phù hợp với lứa tuổi.
 

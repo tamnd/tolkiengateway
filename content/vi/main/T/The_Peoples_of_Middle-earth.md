@@ -69,32 +69,32 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Peoples_of_Middle-earth_1996.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e2/Peoples_of_Middle-earth_1996.png/305px-Peoples_of_Middle-earth_1996.png" decoding="async" loading="lazy" width="305" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/e2/Peoples_of_Middle-earth_1996.png 1.5x" data-file-width="318" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Peoples of Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2_September.md" title="2 September">2 September</a> <a href="../_/1996.md" title="1996">1996</a> (UK)<br/><a href="../_/6_December.md" title="6 December">6 December</a> 1996 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">496</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0261103377" title="Special:BookSources/0261103377">0261103377</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Artist and Illustrator</a> (1995)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">The History of Middle-earth Index</a> (2002)</td></tr></tbody></table>
 
-<i><b>Các dân tộc ở Trung Địa</b></i>, xuất bản năm [1996](../_/1996.md), là tập thứ mười hai và cũng là tập cuối cùng trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>The Peoples of Middle-earth</b></i>, xuất bản năm [1996](../_/1996.md), là tập thứ mười hai và cũng là tập cuối cùng trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Cuốn sách này bao gồm sự phát triển của [Lời mở đầu](The_Prologue.md) và [Phụ lục](The_Lord_of_the_Rings_Appendices.md) của *The Lord of the Rings*, thông tin về các ngôn ngữ [Elvish](../E/Elvish.md) và [ngôn ngữ](../L/Languages.md) khác của Trung Địa do [Pengoloð](../P/Pengolodh.md) cung cấp và hai câu chuyện mà Tolkien chưa hoàn thành: [The New Shadow](The_New_Shadow.md) (phần tiếp theo nhanh chóng bị bỏ rơi của *TLotR*) và một tài khoản [Númenóreans](../N/Númenóreans.md) trong đó [Tal-Elmar](<Tal-Elmar_(character).md>) là nhân vật chính.
+Cuốn sách này bao gồm sự phát triển của [Mở đầu](The_Prologue.md) và [Phụ lục](The_Lord_of_the_Rings_Appendices.md) của *The Lord of the Rings*, thông tin về [Elvish](../E/Elvish.md) các thứ tiếng và [ngôn ngữ](../L/Languages.md) khác của Trung Địa do [Pengoloð](../P/Pengolodh.md) cung cấp và hai câu chuyện Tolkien chưa kết thúc: [Mới Bóng Tối](The_New_Shadow.md) (a phần tiếp theo bị bỏ rơi nhanh chóng của *TLotR*) và một tài khoản [người Númenor](../N/Númenóreans.md) trong đó [Tal-Elmar](<Tal-Elmar_(character).md>) là nhân vật chính.
 
 ## Nội dung {#Contents}
 
 - Lời nói đầu
 
-- <b>Phần thứ nhất: Lời mở đầu và các phụ lục của <i>Chúa tể của những chiếc nhẫn</i></b>
+- <b>Phần thứ nhất: Lời mở đầu và Phụ lục của <i>The Lord of the Rings</i></b>
     - Tôi. "[Mở đầu](The_Prologue.md)"
     - II. "[Phụ lục về ngôn ngữ](The_Appendix_on_Languages.md)"
     - III. "[Cây phả hệ](The_Family_Trees.md)"
     - IV. "[Lịch](The_Calendars.md)"
     - V. "[Lịch sử của Akallabeth](The_History_of_the_Akallabeth.md)"
-    - VI. "[Câu chuyện về những năm tháng thứ hai](The_Tale_of_Years_of_the_Second_Age.md)"
+    - VI. "[The Tale of Years của Kỷ Đệ Nhị](The_Tale_of_Years_of_the_Second_Age.md)"
     - VII. "[Những người thừa kế của Elendil](The_Heirs_of_Elendil.md)"
-    - VIII. "[Câu chuyện về những năm tháng thứ ba](The_Tale_of_Years_of_the_Third_Age.md)"
-    - IX. "[Lập Phụ lục A](The_Making_of_Appendix_A.md)"
+    - VIII. "[The Tale of Years của Kỷ Đệ Tam](The_Tale_of_Years_of_the_Third_Age.md)"
+    - IX. "[Việc tạo ra Appendix A](The_Making_of_Appendix_A.md)"
         - (i) Cõi lưu vong
         - (ii) Câu chuyện về Aragorn và Arwen
-        - (iii) Nhà của Eorl
+        - (iii) Ngôi nhà của Eorl
         - (iv) Dân gian Durin
 
 - **Phần thứ hai: Những bài viết muộn**
-    - X. "[Người lùn và đàn ông](../O/Of_Dwarves_and_Men.md)"
-    - XI. "[Shibboleth của Fëanor](The_Shibboleth_of_Fëanor.md)"
+    - X. "[Of Dwarves and Men](../O/Of_Dwarves_and_Men.md)"
+    - XI. "[The Shibboleth of Fëanor](The_Shibboleth_of_Fëanor.md)"
     - XII. "[Vấn đề của *Ros*](The_Problem_of_Ros.md)"
     - XIII. "[Bài viết cuối cùng](../L/Last_Writings.md)"
 
@@ -102,15 +102,15 @@ Cuốn sách này bao gồm sự phát triển của [Lời mở đầu](The_Pro
     - XIV. "[Dangweth Pengoloð](../D/Dangweth_Pengoloð.md)"
     - XV. "[Của Lembas](../O/Of_Lembas.md)"
 
-- **Phần thứ tư: Những câu chuyện dang dở**
-    - XVI. "[Bóng tối mới](The_New_Shadow.md)"
+- **Phần thứ tư: Unfinished Tales**
+    - XVI. "[Mới Bóng Tối](The_New_Shadow.md)"
     - XVIII. "[Tal-Elmar](<Tal-Elmar_(chapter).md>)"
 
 - Chỉ mục
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển XII có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển XII có nội dung:
 
 <dl><dd>&#34;<i>This is the last volume of the work of Christopher Tolkien in which he has collected a great part of all that his father John Ronald Reuel Tolkien wrote of Middle-earth and Valinor. In this book is traced the devising of the history of the later ages in the Northwest of Middle-earth after the <a href="../W/War_of_Wrath.md" title="War of Wrath">Great Battle</a> and the Fall of <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a>.</i>&#34;</dd></dl>
 
@@ -177,7 +177,7 @@ With the publication of this book, the long history of J.R.R. Tolkien’s creati
     - Ấn bản bìa mềm năm 1997, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365365">ISBN 0007365365</a>
     - Ấn bản bìa mềm năm 2015, in lần thứ 24 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp Centenary](../C/Centenary_Boxed_Sets.md) #4)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #4)
 
 ## Liên kết ngoài {#External_links}
 

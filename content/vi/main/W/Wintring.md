@@ -33,13 +33,13 @@ categories:
 <dl><dd><dl><dd><dl><dd>*<small><i>Differ from Shire names.</i></small></dd></dl></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Wintring** ở [Bree](../B/Bree.md) là tháng thứ mười của [Lịch Bree](../B/Bree_Calendar.md), tương ứng với [Winterfilth](Winterfilth.md) trong [Lịch Shire](../S/Shire_Calendar.md) (tương ứng với [ngày 22 tháng 9](../_/22_September.md) đến [ngày 21 tháng 10](../_/21_October.md) hiện đại).<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Wintring** trong [Bree](../B/Bree.md) là tháng thứ mười của [Bree Lịch](../B/Bree_Calendar.md), tương ứng với [Winterfilth](Winterfilth.md) trong [Lịch Shire](../S/Shire_Calendar.md) (tương ứng với [22 tháng Chín](../_/22_September.md) hiện đại đến [21 tháng 10](../_/21_October.md)).<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 Tên Bree *Wintring* có nghĩa là "Mùa đông".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Người Hobbit ở Quận](../S/Shire-hobbits.md) tin rằng Wintring là sự thay đổi của Bree từ tên cũ.<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+Những [Shire-hobbit](../S/Shire-hobbits.md) tin rằng Wintring là Bree sự thay đổi của tên cũ.<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 <span></span>
 

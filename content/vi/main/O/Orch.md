@@ -11,4 +11,4 @@ redirect_target: "Orcs"
 redirect_fragment: "Orcs in Tolkien's languages"
 ---
 
-Chuyển hướng tới [Orc](Orcs.md#Orcs_in_Tolkien's_languages).
+Chuyển hướng đến [Orc](Orcs.md#Orcs_in_Tolkien's_languages).

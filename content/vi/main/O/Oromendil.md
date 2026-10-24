@@ -49,7 +49,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Oromendil* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng nó có nghĩa là "Người bạn của [Oromë](Oromë.md)" và là sự kết hợp của *Oromë* ("tên của Valar, nghĩa đen là Thổi kèn") và *[-(n)dil](../D/Dil.md)* ("người bạn, người yêu, hết lòng").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Oromendil* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "Bạn của [Oromë](Oromë.md)" và là từ ghép của *Oromë* ("tên của Valar, nghĩa đen là Thổi kèn") và *[-(n)dil](../D/Dil.md)* ("bạn, người yêu, hết lòng").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

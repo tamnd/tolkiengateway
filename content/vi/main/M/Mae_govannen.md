@@ -13,7 +13,7 @@ categories:
   - "Sindarin"
 ---
 
-<i><b>Mae govannen</b></i> là lời chào [Sindarin](../S/Sindarin.md) có nghĩa là "gặp tốt".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được [Glorfindel](../G/Glorfindel.md) nói khi nhận được [Aragorn](../A/Aragorn.md) ở [Rivendell](../R/Rivendell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Mae govannen</b></i> là lời chào [Sindarin](../S/Sindarin.md) mang ý nghĩa "chào mừng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được [Glorfindel](../G/Glorfindel.md) nói khi nhận được [Aragorn](../A/Aragorn.md) trong [Rivendell](../R/Rivendell.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

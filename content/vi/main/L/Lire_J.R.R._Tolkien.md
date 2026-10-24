@@ -35,21 +35,21 @@ infobox:
 - Từ viết tắt des éditions citées
 - Bữa tiệc ra mắt : Une œuvre aux multiples facettes
     - Chương 1 – Une œuvre née des livres et du monde
-    - Chương 2 – Du Journal de Bilbo au Livre Rouge : qui a écrit Le Seigneur des Anneaux ?
+    - Chương 2 – Du tạp chí Bilbo au Livre Rouge : qui a écrit Le Seigneur des Anneaux ?
     - Chương 3 – Những chất biến dạng Miroir : le Livre Rouge, *Le Hobbit* et *Le Seigneur des Anneaux*
-    - Chương 4 – Tolkien phê bình và écrivain : sur *Le Retour de Beorhtnoth*, *Les Enfants de Húrin* và *Le Seigneur des Anneaux*
+    - Chương 4 – Tolkien phê bình và phê bình : sur *Le Retour de Beorhtnoth*, *Les Enfants de Húrin* et *Le Seigneur des Anneaux*
     - Chương 5 – Du mot à la Fiction, Tolkien et la philologie Fictionnelle
     - Chương 6 – Le fils à l'œuvre : J.R.R. Tolkien comme « objet » philologique et center d'une Fiction
 - Bữa tiệc thứ hai : Une œuvre aux mille vies (Tolkien et sa postérité)
-    - Chapitre 1 – « Tolkien juge de [Peter Jackson](../P/Peter_Jackson.md) : trois chuyển thể cinématographiques du *Seigneur des Anneaux* (Z\[immerman\], Bakshi et Jackson) »
+    - Chương 1 – « Tolkien juge de [Peter Jackson](../P/Peter_Jackson.md) : trois chuyển thể cinématographiques du *Seigneur des Anneaux* (Z\[immerman\], Bakshi et Jackson) »
     - Chương 2 – J.R.R. Tolkien est-il un auteur pour la jeunesse ?
     - Chương 3 – La réception de J.R.R. Tolkien en France (1) : 1973-2001
     - Chương 4 – La réception de J.R.R. Tolkien en France (2) : 2001-2014
     - Chương 5 – La Terre du Milieu, một thế giới mở rộng vô tận ?
     - Chương 6 – Les tuteurs de l'arbre : réécritures et pulsations du monde Fictionnel
 - Troisième partie : Đại diện và giải trí du Moyen Âge
-    - Chương 1 – A l’ombre de Tristan : những nhân vật tình yêu chez Tolkien
-    - Chapitre 2 – [Beren](../B/Beren.md), [Túrin](../T/Túrin.md), [Aragorn](../A/Aragorn.md) et la fatalité de l'amour
+    - Chương 1 – A l’ombre de Tristan : những hình ảnh tình yêu chez Tolkien
+    - Chương 2 – [Beren](../B/Beren.md), [Túrin](../T/Túrin.md), [Aragorn](../A/Aragorn.md) et la fatalité de tình yêu
     - Chương 3 – Retour et déroute du roi : bài giảng chính trị d'Arthur chez Tolkien
     - Chương 4 – Vers une autre définition de la royauté : l'ennoblissement et le mérite ([Aragorn](../A/Aragorn.md), Gilles de Ham)
 - Kết luận
@@ -60,7 +60,7 @@ infobox:
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
-Ai đã viết 'Chúa tể của những chiếc nhẫn', câu chuyện của ông diễn ra... ngay cả trước khi phát minh ra chữ viết? Tolkien sẽ đánh giá thế nào về các bộ phim chuyển thể từ tác phẩm của ông, cả mới đây và cũ hơn? Tại sao Vua Arthur lại ẩn mình ở trung tâm vũ trụ hư cấu của mình? Túrin là anh trai của Tristan? Mối liên hệ giữa việc phát minh ra ngôn ngữ và việc phát minh ra thế giới là gì? Bạn nên đọc gì của Tolkien nếu bạn thích The Hobbit và The Lord of the Rings? Tại sao tác giả này thường được xếp vào loại văn học thiếu nhi trong khi ông hầu như chỉ viết dành cho người lớn? Tại sao ông lại có ảnh hưởng lâu dài đến J.K. Rowling và G.R.R. Martin như vậy? Cuốn sách này dựa trên các bài báo được xuất bản riêng biệt, đã được viết lại, cập nhật và sửa đổi để tạo thành một cuốn sách, từng chương, đưa ra một số chìa khóa để hiểu về sự hình thành Trung Địa, một thế giới được đánh dấu bằng trí tưởng tượng dựa trên kiến ​​thức hoàn hảo về các văn bản thời Trung cổ... nhưng cũng để đánh giá cao hơn về truyện giả tưởng hiện đại, vốn nợ Tolkien rất nhiều! Do đó, đây là lời mời gọi tất cả mọi người, người hâm mộ cũng như không phải người hâm mộ, hãy đọc J.R.R. Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Ai đã viết ‘The Lord of the Rings’, câu chuyện của ai diễn ra... ngay cả trước khi phát minh ra chữ viết? Tolkien sẽ đánh giá thế nào về các bộ phim chuyển thể từ tác phẩm của ông, cả gần đây và cũ hơn? Tại sao Vua Arthur lại ẩn mình ở trung tâm vũ trụ hư cấu của mình? Túrin là anh trai của Tristan? Mối liên hệ giữa việc phát minh ra ngôn ngữ và việc phát minh ra thế giới là gì? Bạn nên đọc gì trước Tolkien nếu bạn thích The Hobbit và The Lord of the Rings? Tại sao tác giả này thường được xếp vào loại văn học thiếu nhi trong khi ông hầu như chỉ viết dành cho người lớn? Tại sao ông lại có ảnh hưởng lâu dài đến J.K. Rowling và G.R.R. Martin như vậy? Cuốn sách này dựa trên các bài viết được xuất bản riêng biệt, đã được viết lại, cập nhật và sửa đổi để tạo thành một cuốn sách, từng chương, đưa ra một số chìa khóa để hiểu về việc tạo ra Trung Địa, một thế giới được đánh dấu bằng trí tưởng tượng dựa trên kiến ​​thức hoàn hảo về các văn bản thời Trung cổ... nhưng cũng để đánh giá cao hơn về truyện giả tưởng hiện đại, vốn có rất nhiều nhờ Tolkien! Do đó, đây là lời mời gọi tất cả mọi người, người hâm mộ cũng như không phải người hâm mộ, hãy đọc J.R.R. Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

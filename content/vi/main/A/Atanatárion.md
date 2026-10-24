@@ -16,23 +16,23 @@ sort_keys:
   "Quenya names": "Atanatarion"
 ---
 
-<i><b>Atanatárion</b></i> là một tác phẩm văn học đề cập đến ba "Truyện cổ tích vĩ đại" được viết ra trong [Númenor](../N/Númenor.md) chủ yếu liên quan đến các anh hùng của [Edain](../E/Edain.md) vào cuối [Thời đại thứ nhất](../F/First_Age.md).<sup id="cite_ref-Atan_1-0" class="reference"><a href="#cite_note-Atan-1">[1]</a></sup>
+<i><b>Atanatárion</b></i> là một tác phẩm văn học đề cập đến ba "Truyện cổ tích vĩ đại" được viết ra trong [Númenor](../N/Númenor.md) chủ yếu liên quan đến các anh hùng của [Edain](../E/Edain.md) thời kỳ [Kỷ Đệ Nhất](../F/First_Age.md) quá cố.<sup id="cite_ref-Atan_1-0" class="reference"><a href="#cite_note-Atan-1">[1]</a></sup>
 
-Ba câu chuyện vĩ đại này, sau này được lưu giữ ở [Gondor](../G/Gondor.md), là:<sup id="cite_ref-Atan_1-1" class="reference"><a href="#cite_note-Atan-1">[1]</a></sup>
+Ba câu chuyện vĩ đại này sau này được lưu giữ trong [Gondor](../G/Gondor.md) là:<sup id="cite_ref-Atan_1-1" class="reference"><a href="#cite_note-Atan-1">[1]</a></sup>
 
 1\) <i><b><a href="../L/Lay_of_Leithian.md" title="Lay of Leithian">Narn Beren ion Barahir</a></b></i> ("Truyện về [Beren](../B/Beren.md) con trai của [Barahir](../B/Barahir.md)") hoặc <i><b>Narn e·Dinúviel</b></i> ("Truyện về [Chim sơn ca](../L/Lúthien.md)")
 
-2\) *Narn e·mbar [Hador](../H/Hador.md)* ("Câu chuyện về [Ngôi nhà của Hador](../H/House_of_Hador.md)"), bao gồm:
+2\) *Narn e·mbar [Hador](../H/Hador.md)* ("Câu chuyện về [Nhà Hador](../H/House_of_Hador.md)"), bao gồm:
 
-- a) <i><b><a href="../N/Narn_i_Chîn_Húrin_(tale).md" title="Narn i Chîn Húrin (tale)">Narn i·Chîn Húrin</a></b></i> ("Truyện về những đứa trẻ của [Húrin](../H/Húrin.md)") hoặc <i><b>Narn e·'Rach <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a></b></i> ("Câu chuyện về lời nguyền của Morgoth")
+- a) <i><b><a href="../N/Narn_i_Chîn_Húrin_(tale).md" title="Narn i Chîn Húrin (tale)">Narn i·Chîn Húrin</a></b></i> ("Truyện về những đứa trẻ của [Húrin](../H/Húrin.md)") hoặc <i><b>Narn e·'Rach <a href="../M/Morgoth.md" title="Morgoth">Morgoth</a></b></i> ("Truyện về lời nguyền của Morgoth")
 
 - b) <i><b>Narn en·Êl</b></i> ("Câu chuyện về [Ngôi sao](../E/Eärendil.md)") hoặc <i><b>Narn e·Dant <a href="../G/Gondolin.md" title="Gondolin">Gondolin</a> ar Orthad en·Êl</b></i> ("Câu chuyện về [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md) và Sự trỗi dậy của [Ngôi sao](../S/Star_of_Eärendil.md)")
 
 ## Từ nguyên {#Etymology}
 
-Tựa đề *Atanatárion* là [Quenya](../Q/Quenya.md) dành cho "([Truyền thuyết](../L/Legendarium.md)) của [Những người cha của đàn ông](Atanatári.md)", với phần sau của tựa đề tạo thành dạng số nhiều sở hữu cách của thuật ngữ *Atanatar* ("của những người cha của đàn ông"), trong khi phần "Huyền thoại" của tựa đề được ngụ ý trong tiếng Anh của tên tác phẩm.<sup id="cite_ref-Eldamo_2-0" class="reference"><a href="#cite_note-Eldamo-2">[2]</a></sup>
+Tựa đề *Atanatárion* là [Quenya](../Q/Quenya.md) dành cho "([Legendarium](../L/Legendarium.md)) của [Các Cha của Con Người](Atanatári.md)", với phần sau của tựa đề tạo thành số nhiều sở hữu cách của thuật ngữ *Atanatar* ("của các Cha của Con Người"), trong khi phần "Legendarium" của tựa đề được ngụ ý trong tiếng Anh của tên tác phẩm.<sup id="cite_ref-Eldamo_2-0" class="reference"><a href="#cite_note-Eldamo-2">[2]</a></sup>
 
-Các từ cùng gốc [Sindarin](../S/Sindarin.md) của tiêu đề là <i><b>Nern in Adanath</b></i> và <i><b>Nern in Edenedair</b></i>, trong đó phần "Legendarium" của tiêu đề được dịch rõ ràng,<sup id="cite_ref-Eldamo_2-1" class="reference"><a href="#cite_note-Eldamo-2">[2]</a></sup> với thuật ngữ *Nern* là số nhiều của danh từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Narn_(noun)&amp;action=edit&amp;redlink=1" title="Narn (noun) (page does not exist)">narn</a></i> ("một câu chuyện").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Sindarin](../S/Sindarin.md) cùng nguồn gốc của tiêu đề là <i><b>Nern in Adanath</b></i> và <i><b>Nern in Edenedair</b></i>, trong đó phần "Legendarium" của tiêu đề được dịch rõ ràng,<sup id="cite_ref-Eldamo_2-1" class="reference"><a href="#cite_note-Eldamo-2">[2]</a></sup> với thuật ngữ *Nern* là số nhiều của danh từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Narn_(noun)&amp;action=edit&amp;redlink=1" title="Narn (noun) (page does not exist)">narn</a></i> ("một câu chuyện").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Thành phần {#Composition}
 
@@ -41,11 +41,11 @@ Các từ cùng gốc [Sindarin](../S/Sindarin.md) của tiêu đề là <i><b>N
 ## Xem thêm {#See_also}
 
 - *[Unfinished Tales](../U/Unfinished_Tales.md)* ([1980](../_/1980.md))
-    - [Narn i Hîn Húrin](../N/Narn_i_Hîn_Húrin.md) và [Về Tuor và chuyến đến Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)
+    - [Narn i Hîn Húrin](../N/Narn_i_Hîn_Húrin.md) và [Của Tuor và việc ông sắp đến Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)
 - *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)* ([1985](../_/1985.md))
-    - [Quyền giáo của Leithian](../T/The_Lay_of_Leithian.md) và [Quyền giáo của Leithian được bắt đầu](../T/The_Lay_of_Leithian_Recommenced.md)
-    - [Giai đoạn của những đứa trẻ Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)
-    - [Sự sụp đổ của Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)
+    - [The Lay of Leithian](../T/The_Lay_of_Leithian.md) và [The Lay of Leithian Đã bắt đầu](../T/The_Lay_of_Leithian_Recommenced.md)
+    - [The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)
+    - [Nằm của Sự sụp đổ của Gondolin](../T/The_Lay_of_the_Fall_of_Gondolin.md)
 - *[The Children of Húrin](../T/The_Children_of_Húrin.md)* ([2007](../_/2007.md))
 - *[Beren and Lúthien](../B/Beren_and_Lúthien.md)* ([2017](../_/2017.md))
 - *[The Fall of Gondolin](../T/The_Fall_of_Gondolin.md)* ([2018](../_/2018.md))

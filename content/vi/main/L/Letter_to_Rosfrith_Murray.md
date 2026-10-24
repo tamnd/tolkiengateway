@@ -20,7 +20,7 @@ images:
 
 Vào [14 tháng 12](../_/14_December.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho [Rosfrith Murray](../R/Rosfrith_Murray.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề:** Lời chúc Giáng sinh. Tolkien gửi kèm theo một bản sao có chữ ký của *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*, ấn bản đầu tiên ở Mỹ.
+- **Chủ đề:** Lời chúc Giáng sinh. Tolkien kèm theo bản sao có chữ ký của *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)*, ấn bản đầu tiên ở Mỹ.
 - **Mô tả:** 2 trang, 16 tháng, đã ký.<sup id="cite_ref-TL_2-0" class="reference"><a href="#cite_note-TL-2">[2]</a></sup>
 
 ## Trích đoạn {#Excerpts}

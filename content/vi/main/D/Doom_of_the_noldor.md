@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Doom of Mandos"
 ---
 
-Chuyển hướng đến [Sự diệt vong của Mandos](Doom_of_Mandos.md).
+Chuyển hướng đến [Lời nguyền của Mandos](Doom_of_Mandos.md).

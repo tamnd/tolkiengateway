@@ -29,11 +29,11 @@ images:
   - "Disambig.png"
 ---
 
-**Náin** có thể ám chỉ đến ba [Người lùn](../D/Dwarves.md):
+**Náin** có thể đề cập đến ba [Người Lùn](../D/Dwarves.md):
 
-- [Náin I](Náin_I.md) ([T.A.](../T/Third_Age.md) [1832](../T/Third_Age_1832.md) - [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md)), [Vị vua cuối cùng của Khazad-dûm](../K/Kings_of_Khazad-dûm.md), bị giết bởi [Durin's Bane](../D/Durin's_Bane.md).
-- [Náin II](Náin_II.md) ([T.A.](../T/Third_Age.md) [2338](../T/Third_Age_2338.md) - [T.A.](../T/Third_Age.md) [2585](../T/Third_Age_2585.md)), người cai trị [dân tộc Durin](../D/Durin's_folk.md) từ [Dãy núi Xám](../G/Grey_Mountains.md).
-- [Náin (con trai của Grór)](<Náin_(son_of_Grór).md>) ([T.A.](../T/Third_Age.md) [2665](../T/Third_Age_2665.md) - [T.A.](../T/Third_Age.md) [2799](../T/Third_Age_2799.md)), người đã chiến đấu và hy sinh trong [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md).
+- [Náin I](Náin_I.md) ([T.A.](../T/Third_Age.md) [1832](../T/Third_Age_1832.md) - [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md)), [Vua cuối cùng của Khazad-dûm](../K/Kings_of_Khazad-dûm.md), bị giết bởi [Tai họa của Durin](../D/Durin's_Bane.md).
+- [Náin II](Náin_II.md) ([T.A.](../T/Third_Age.md) [2338](../T/Third_Age_2338.md) - [T.A.](../T/Third_Age.md) [2585](../T/Third_Age_2585.md)), người cai trị [dân tộc Durin](../D/Durin's_folk.md) từ [Dãy Núi Xám](../G/Grey_Mountains.md).
+- [Náin (con trai của Grór)](<Náin_(son_of_Grór).md>) ([T.A.](../T/Third_Age.md) [2665](../T/Third_Age_2665.md) - [T.A.](../T/Third_Age.md) [2799](../T/Third_Age_2799.md)), người đã chiến đấu và hy sinh tại [Trận Azanulbizar](../B/Battle_of_Azanulbizar.md).
 
 <hr style="margin-top:15px;"/>
 

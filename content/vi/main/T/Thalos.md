@@ -27,9 +27,9 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/eaux/beleriand/thalos"
 ---
 
-**Thalos** là con sông thứ hai trong số sáu [con sông](../../category/R/Rivers.md) đổ xuống từ [Blue Mountains](../B/Blue_Mountains.md) qua [Ossiriand](../O/Ossiriand.md) để gặp [Sông Gelion](../G/Gelion.md) vĩ đại, giữa các con sông [Ascar](../A/Ascar.md) và [Legolin](../L/Legolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó nằm ở thung lũng cao ở thượng nguồn của nó rằng [Bëor](../B/Bëor.md) và những người đi theo ông ta, những Người đầu tiên vượt qua [Beleriand](../B/Beleriand.md), đã dựng trại và nơi họ bị [Elf](../N/Noldor.md) Vua [Finrod Felagund](../F/Finrod.md) phát hiện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Thalos** là con sông thứ hai trong số sáu [con sông](../../category/R/Rivers.md) đổ xuống từ [Dãy Núi Xanh](../B/Blue_Mountains.md) qua [Ossiriand](../O/Ossiriand.md) để gặp [Sông Gelion](../G/Gelion.md) vĩ đại, giữa các con sông [Ascar](../A/Ascar.md) và [Legolin](../L/Legolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Chính tại thung lũng cao của dòng thượng nguồn, [Bëor](../B/Bëor.md) và những người theo ông, những người đầu tiên Con Người băng qua [Beleriand](../B/Beleriand.md), dựng trại và nơi họ bị [Tiên](../N/Noldor.md) Vua [Finrod Felagund](../F/Finrod.md) phát hiện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Tên này xuất phát từ từ [Ilkorin](../I/Ilkorin.md) *thalos* ("torrent") được dùng làm tên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Tên này xuất phát từ [Ilkorin](../I/Ilkorin.md) từ *thalos* ("torrent") được dùng làm tên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

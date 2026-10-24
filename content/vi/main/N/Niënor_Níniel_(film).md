@@ -12,7 +12,7 @@ categories:
   - "Fan films"
 ---
 
-<br> <i><b>Niënor Níniel</b></i> là một [2012](../_/2012.md) tác phẩm nghiệp dư của Séc chuyển thể từ các sự kiện từ [The Children of Húrin.](../T/The_Children_of_Húrin.md) Bộ phim ngắn này đi kèm với một sáng tác âm nhạc nguyên gốc kể về câu chuyện của [Túrin](../T/Túrin.md), [Nienor](Nienor.md) và sự thất bại của [Glaurung](../G/Glaurung.md) dưới góc nhìn của Nienor.
+<br> <i><b>Niënor Níniel</b></i> là một tác phẩm [2012](../_/2012.md) chuyển thể nghiệp dư của Séc dựa trên các sự kiện từ [The Children of Húrin.](../T/The_Children_of_Húrin.md) Bộ phim ngắn này đi kèm với một sáng tác âm nhạc nguyên bản kể câu chuyện về [Túrin](../T/Túrin.md), [Nienor](Nienor.md) và sự thất bại của [Glaurung](../G/Glaurung.md) từ góc nhìn của Nienor.
 
 ## Liên kết ngoài {#External_Links}
 

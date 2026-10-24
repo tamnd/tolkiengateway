@@ -36,18 +36,18 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_and_the_Gothic.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8b/Tolkien_and_the_Gothic.jpg/320px-Tolkien_and_the_Gothic.jpg" decoding="async" loading="lazy" width="320" height="448" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8b/Tolkien_and_the_Gothic.jpg/480px-Tolkien_and_the_Gothic.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/8b/Tolkien_and_the_Gothic.jpg/640px-Tolkien_and_the_Gothic.jpg 2x" data-file-width="971" data-file-height="1360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien and the Gothic</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Will_Sherwood&amp;action=edit&amp;redlink=1" title="Will Sherwood (page does not exist)">Will Sherwood</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Luna Press Publishing</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/26_March.md" title="26 March">26 March</a> <a href="../_/2024.md" title="2024">2024</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">134</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9781915556370" title="Special:BookSources/9781915556370">9781915556370</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../P/Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Memorial Fund</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Translating_and_Illustrating_Tolkien.md" title="Translating and Illustrating Tolkien">Translating and Illustrating Tolkien</a></td></tr></tbody></table>
 
-<i><b>Tolkien và Gothic</b></i> là tập hợp các kỷ yếu của hội thảo [Hiệp hội Tolkien](Tolkien_Society.md) năm 2022. Cuốn sách được xuất bản trong [2024](../_/2024.md) là tập thứ 24 trong bộ sách [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
+<i><b>Tolkien và Gothic</b></i> là tập hợp các kỷ yếu của hội thảo [Tolkien Hiệp hội](Tolkien_Society.md) năm 2022. Cuốn sách được xuất bản trong [2024](../_/2024.md) là tập thứ 24 trong bộ sách [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
 
 ## Nội dung {#Contents}
 
 - Lời giới thiệu của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Will_Sherwood&amp;action=edit&amp;redlink=1" title="Will Sherwood (page does not exist)">Will Sherwood</a>
 - "Tolkien's Gothic: Sự hồi sinh đầy chất thơ?" bởi Mahdî Brecq
 - "Hãy coi chừng Melkors mang quà tặng: 'Câu chuyện về Adanel' như tiểu thuyết Gothic" của Kristine Larsen
-- "Eldritch Tolkien: Sự bất khả thi của kiến trúc Gothic ở Trung Địa" của Nick Groom
-- "(Re-)Viết cơ thể (quái dị) trong văn học giả tưởng thế kỷ 20: Cấu trúc của kẻ xa lạ trong Chúa tể của những chiếc nhẫn J.R.R. Tolkien" của Sofia Skeva
-- "Bộ ba của Tolkien: Kỳ lạ sinh thái, Thuyết nhị nguyên kép được nhân cách hóa và Ngôn ngữ của văn học Gothic" của Michael Dunn
-- "Đạo đức sinh học Gothic và Môi trường: Những cơ thể 'đáng sợ' của Trung Địa" của Journee Cotton
-- " 'Khu rừng thật kỳ lạ' – Huyền ảo và Gothic trong Chúa tể những chiếc nhẫn" của D.A.K. Watson
+- "Eldritch Tolkien: Sự bất khả thi của Gothic trong Trung Địa" của Nick Groom
+- "(Re-)Viết cơ thể (quái dị) trong văn học giả tưởng thế kỷ 20: Cấu trúc của người lạ trong J.R.R. Tolkien's The Lord of the Rings" của Sofia Skeva
+Bộ ba của - "Tolkien: Kỳ lạ sinh thái, Thuyết nhị nguyên kép được nhân cách hóa và Ngôn ngữ của văn học Gothic" của Michael Dunn
+- "Đạo đức sinh học Gothic và môi trường: Cơ thể 'đáng sợ' của Trung Địa" của Journee Cotton
+- " 'Khu rừng thật kỳ lạ' – Huyền ảo và Gothic trong The Lord of the Rings" của D.A.K. Watson
 
 ## Từ Nhà xuất bản {#From_the_Publisher}
 

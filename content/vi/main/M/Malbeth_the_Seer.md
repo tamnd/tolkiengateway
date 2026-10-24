@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Malbeth"
 ---
 
-Chuyển hướng đến [Mabeth](Malbeth.md).
+Chuyển hướng đến [Malbeth](Malbeth.md).

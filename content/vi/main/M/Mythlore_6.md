@@ -39,21 +39,21 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_6.gif.md"><img src="https://tolkiengateway.net/w/images/c/ce/Mythlore_6.gif" decoding="async" loading="lazy" width="225" height="291" class="mw-file-element" data-file-width="225" data-file-height="291"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 6</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1970.md" title="1970">1970</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">29</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_5.md" title="Mythlore 5">Mythlore 5</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_7.md" title="Mythlore 7">Mythlore 7</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 6</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol2/iss2/" rel="noreferrer noopener" target="_blank">Tập 2, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 6</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol2/iss2/" rel="noreferrer noopener" target="_blank">Tập 2, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
 #### Tính năng {#Features}
 
-- Chúc ngủ ngon, Glen. Luật sư của Elrond: "Khẳng định những hình ảnh." 3.
-- Zuber, Bernie. Bên kia rượu Brandywine. 3.
+- Chúc ngủ ngon, Glen. Luật sư của Elrond: "Khẳng định hình ảnh." 3.
+- Zuber, Bernie. Trên khắp Brandywine. 3.
 - Alpajpuri. Thế giới của Fanzines. 4.
 - "Charles Williams: Danh sách đọc ngắn." 5.
-- Công văn về thần thoại. 26.
+- Công văn gửi đến Mythlore. 26.
 
 #### Bài viết {#Articles}
 
-- Người lập trình, Mary McDermott. “Trích từ một lá thư về Charles Williams.” 6.
+- Người lập trình, Mary McDermott. "Trích từ một lá thư về Charles Williams." 6.
 - Hannay, Margaret P. "Arthurian and Cosmic Myth in *That Hideous Strength*." 7-9.
 - Peoples, Galen. "The Agnostic in the Whirlwind: The Seven Novels of Charles Williams." 10-15.
 - Williams, Charles. "Letters in Hell." Review of *The Screwtape Letters* by C.S. Lewis. 22.

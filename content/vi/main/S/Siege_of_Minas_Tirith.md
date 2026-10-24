@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Siege of Gondor"
 ---
 
-Chuyển hướng tới [Cuộc vây hãm Gondor](Siege_of_Gondor.md).
+Chuyển hướng đến [Cuộc vây hãm Gondor](Siege_of_Gondor.md).

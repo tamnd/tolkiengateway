@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Hr%C3%ADv%C3%AB"
 ---
 
-**Hrívë** là tên [Quenya](../Q/Quenya.md) của mùa đông và được gọi là [Rhîw](../R/Rhîw.md) trong [Sindarin](../S/Sindarin.md). Trong [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md), đây là mùa thứ năm trong sáu "mùa" và ít nhiều tương ứng với 72 ngày từ [ngày 1 tháng 12](../_/1_December.md) đến [ngày 10 tháng 2](../_/10_February.md) trong [Lịch Quận](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hrívë** là tên [Quenya](../Q/Quenya.md) của mùa đông và được gọi là [Rhîw](../R/Rhîw.md) trong [Sindarin](../S/Sindarin.md). Trong [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) nó là mùa thứ năm trong sáu "mùa" và ít nhiều tương ứng với 72 ngày từ [ngày 1 tháng 12](../_/1_December.md) đến [ngày 10 tháng 2](../_/10_February.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

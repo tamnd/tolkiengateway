@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anders_Blixt.jpg.md"><img src="https://tolkiengateway.net/w/images/1/1b/Anders_Blixt.jpg" decoding="async" loading="lazy" width="289" height="260" class="mw-file-element" data-file-width="289" data-file-height="260"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Anders Blixt</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/20_March.md" title="20 March">20 March</a> <a href="../_/1959.md" title="1959">1959</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Senior Tech Writer, Author &amp; Game Designer<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Sweden</td></tr></tbody></table>
 
-**Anders Blixt** (sinh [20 tháng 3](../_/20_March.md) [1959](../_/1959.md)) là một nhà thiết kế trò chơi tài năng người Thụy Điển. Ông là đồng tác giả của một số phần bổ sung cho trò chơi *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* trong những năm 1990<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và thỉnh thoảng viết về các chủ đề liên quan đến [Tolkien](../J/J.R.R._Tolkien.md)'s [huyền thoại](../L/Legendarium.md) trên blog của mình (bằng tiếng Anh).
+**Anders Blixt** (sinh [20 tháng 3](../_/20_March.md) [1959](../_/1959.md)) là một nhà thiết kế trò chơi tài năng người Thụy Điển. Ông là đồng tác giả của một số phần bổ sung cho trò chơi *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* trong những năm 1990,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và thỉnh thoảng viết về các chủ đề liên quan đến [huyền thoại](../L/Legendarium.md) của [Tolkien](../J/J.R.R._Tolkien.md) tại blog của mình (bằng tiếng Anh).
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -43,11 +43,11 @@ infobox:
 ### Bài viết {#Articles}
 
 - [1993](../_/1993.md): [*Other Hands* 1](../O/Other_Hands_1.md)
-    - "Vượt qua thời đại thứ ba: Nhập vai ở mọi thời đại Arda"
-- [2012](../_/2012.md): *Fenix*, nr. 1
-    - "Midgård Noir" (chiến dịch ở Umbar trong Thời đại thứ tư)
+    - "Vượt xa Kỷ Đệ Tam: Nhập vai ở mọi lứa tuổi Arda"
+- [2012](../_/2012.md): *Fenix*, số. 1
+    - "Midgård Noir" (chiến dịch ở Umbar trong Kỷ Đệ Tứ)
 - [2012](../_/2012.md): *Fenix*, số. 6
-    - "Yxtid, Stormtid!" (về Người lùn trong Cuộc chiến trên chiếc nhẫn)
+    - "Yxtid, Stormtid!" (khoảng Người Lùn trong Cuộc chiến Nhẫn)
 
 ## Liên kết ngoài {#External_links}
 

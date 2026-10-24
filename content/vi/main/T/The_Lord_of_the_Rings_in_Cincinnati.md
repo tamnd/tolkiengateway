@@ -12,4 +12,4 @@ categories:
   - "Stage adaptations"
 ---
 
-**Chúa tể của những chiếc nhẫn ở Cincinatti** là buổi biểu diễn trên sân khấu kéo dài 2 giờ do hơn 200 nhạc sĩ của Dàn nhạc Giao hưởng Cincinnati biểu diễn, trong đó có trình chiếu các bản phác thảo và minh họa tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) và [John Howe](../J/John_Howe.md).
+**The Lord of the Rings in Cincinatti** là buổi biểu diễn trên sân khấu kéo dài 2 giờ do hơn 200 nhạc sĩ của Dàn nhạc Giao hưởng Cincinnati biểu diễn, bao gồm trình chiếu các bản phác thảo tác phẩm nghệ thuật và hình minh họa của [Alan Lee](../A/Alan_Lee.md) và [John Howe](../J/John_Howe.md).

@@ -25,11 +25,11 @@ images:
 
 **Strider** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- "Strider", một lời tán tỉnh của [Aragorn](../A/Aragorn.md) ở phía bắc.
-    - [Telcontar](../T/Telcontar.md), Nhà của [Elessar](../A/Aragorn.md), tạm dịch là "Người đi đường".
-- [Strider](<Strider_(pony).md>), chú ngựa con của [Frodo Baggins](../F/Frodo_Baggins.md) sau [War of the Ring](../W/War_of_the_Ring.md) được đặt theo tên của Aragorn.
+- "Strider", một tiếng vang [Aragorn](../A/Aragorn.md) ở phía bắc.
+    - [Telcontar](../T/Telcontar.md), Ngôi nhà của [Elessar](../A/Aragorn.md), tạm dịch là "Strider".
+- [Strider](<Strider_(pony).md>), chú ngựa con của [Frodo Baggins](../F/Frodo_Baggins.md) theo tên [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) được đặt theo tên của Aragorn.
 
 ## Khác {#Other}
 

@@ -51,19 +51,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tom_Loback_-_Tuor_slays_Othrod.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/88/Tom_Loback_-_Tuor_slays_Othrod.jpg/320px-Tom_Loback_-_Tuor_slays_Othrod.jpg" decoding="async" loading="lazy" width="320" height="478" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/88/Tom_Loback_-_Tuor_slays_Othrod.jpg 1.5x" data-file-width="371" data-file-height="554"/></a><figcaption>&#34;Tuor slays Othrod&#34; by <a href="../T/Tom_Loback.md" title="Tom Loback">Tom Loback</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Orcs.md" title="Orcs">Orc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Othrod</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Osorot</td></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data">Lord of the <a href="Orcs.md" title="Orcs">Orcs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../M/Morgoth.md" title="Morgoth">Melko</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">Slain by <a href="../T/Tuor.md" title="Tuor">Tuor</a> during the <a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Fall of Gondolin</a><br/><a href="../G/Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Clothing</th><td class="tg-infobox-data">Helm<sup id="cite_ref-LT2Gondolin_1-0" class="reference"><a href="#cite_note-LT2Gondolin-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Othrod.md" title="Category:Images of Othrod">Images of Othrod</a></td></tr></tbody></table>
 
-**Othrod** là một *"lord of the [Orcs](Orcs.md)"* đã bị [Tuor](../T/Tuor.md) giết chết ở [Gondolin](../G/Gondolin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Othrod** là một *"lord of the [Orcs](Orcs.md)"* đã bị giết bởi [Tuor](../T/Tuor.md) ở [Gondolin](../G/Gondolin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Othrod nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrogs](../B/Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Othrod cuối cùng đã bị giết bởi Tuor, kẻ dùng rìu [Dramborleg](../D/Dramborleg.md) chặt mũ của ông trong quá trình đó.<sup id="cite_ref-LT2Gondolin_1-1" class="reference"><a href="#cite_note-LT2Gondolin-1">[1]</a></sup>
+Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Othrod nằm trong số những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrog](../B/Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Othrod cuối cùng đã bị giết bởi Tuor, kẻ dùng rìu của ông ta, [Dramborleg](../D/Dramborleg.md), trong quá trình đó.<sup id="cite_ref-LT2Gondolin_1-1" class="reference"><a href="#cite_note-LT2Gondolin-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Othrod* rõ ràng là [Gnomish](../G/Gnomish.md), nhưng nó không được đánh bóng. Cùng nguồn gốc với Qenya là <i><b>Osorot</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Othrod* rõ ràng là [Gnomish](../G/Gnomish.md), nhưng nó không được làm bóng. Từ cùng nguồn gốc Qenya là <i><b>Osorot</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Othrod chưa bao giờ xuất hiện trong bất kỳ tác phẩm nào của Tolkien sau "[Sự sụp đổ của Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)" trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+Othrod chưa bao giờ xuất hiện trong bất kỳ bài viết nào của Tolkien sau "[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)" trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 ## Xem thêm {#See_also}
 

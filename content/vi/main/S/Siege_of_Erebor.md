@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of Dale"
 ---
 
-Chuyển hướng đến [Trận chiến Dale](../B/Battle_of_Dale.md).
+Chuyển hướng đến [Trận Dale](../B/Battle_of_Dale.md).

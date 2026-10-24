@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Hilary Tolkien"
 ---
 
-Chuyển hướng tới [Thư gửi Hilary Tolkien](../L/Letter_to_Hilary_Tolkien.md).
+Chuyển hướng đến [Thư gửi Hilary Tolkien](../L/Letter_to_Hilary_Tolkien.md).

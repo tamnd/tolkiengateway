@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Sacrifice of Faramir (soundtrack)"
 ---
 
-Chuyển hướng tới [Sự hy sinh của Faramir (nhạc phim)](<The_Sacrifice_of_Faramir_(soundtrack).md>).
+Chuyển hướng đến [Sự hy sinh của Faramir (nhạc phim)](<The_Sacrifice_of_Faramir_(soundtrack).md>).

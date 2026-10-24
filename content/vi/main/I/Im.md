@@ -13,7 +13,7 @@ categories:
   - "Sindarin prepositions"
 ---
 
-<i><b>im</b></i> (hoặc <i><b>imm</b></i>) là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "giữa".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>im</b></i> (hoặc <i><b>imm</b></i>) là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "ở giữa".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

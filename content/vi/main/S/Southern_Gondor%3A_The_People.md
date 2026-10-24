@@ -39,24 +39,24 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-*"Có một dân tộc dũng cảm sinh sống giữa núi và biển. Họ được coi là những người Gondor, nhưng máu đã pha trộn, và có những người lùn và da ngăm trong số họ mà con cháu của họ nhiều hơn là những người bị lãng quên sống dưới bóng những ngọn đồi trong Những Năm Đen Tối trước khi các vị vua xuất hiện. Nhưng xa hơn nữa, trong thái ấp vĩ đại Belfalas, Hoàng tử Imrahil cư ngụ trong lâu đài Dol Amroth bên bờ biển, và ông ấy là một người có địa vị cao. dòng máu, và cả dân tộc của ông nữa, những người đàn ông cao lớn và kiêu hãnh với đôi mắt màu xám biển."* - Sự trở lại của nhà vua
+*"Có một dân tộc dũng cảm sống giữa núi và biển. Họ được coi là những người đàn ông Gondor, nhưng máu đã trộn lẫn, và có những người lùn và da ngăm trong số họ mà con cháu của họ nhiều hơn từ những người đàn ông bị lãng quên sống trong bóng tối của những ngọn đồi ở Những Năm Tháng Đen Tối trước khi các vị vua xuất hiện. Nhưng xa hơn nữa, trong thái ấp vĩ đại Belfalas, cư trú Thân vương Imrahil trong lâu đài của mình Dol Amroth bên bờ biển, và ông là người có huyết thống cao, và dân tộc ông cũng vậy, những người đàn ông cao lớn và kiêu hãnh với đôi mắt màu xám biển."* - The Return of the King
 
-Nam Gondor: Người dân kể về các con trai của Elendil, Isildur và Anárion, kể lại việc họ đến bờ biển Endor và trải qua các sự kiện của quốc gia vĩ đại mà họ thành lập ở đó. Người Daen đầu tiên cư trú ở vùng đất Gondor trước các vị vua, tiếp theo là Liên đoàn Pelargirean đi trước các Tín đồ đến vùng đất phía nam của vương quốc. Các Hoàng tử Belfalas, Haruze xứ Harandor, Corsairs xứ Umbar sau này vẫn có những đóng góp cho nền chính trị phức tạp chi phối quyền cai trị có chủ quyền của Gondor. Sự thăng trầm của chiến tranh, thịnh vượng và tham vọng giữa những cư dân đa dạng này tạo tiền đề cho cuộc phiêu lưu.
+Miền Nam Gondor: Người kể về những người con trai của Elendil, Isildur và Anárion, kể lại việc họ đến bờ biển Endor và trải qua những sự kiện của quốc gia vĩ đại mà họ đã thành lập ở đó. Người Daen đầu tiên cư trú ở vùng đất Gondor trước các vị vua, tiếp theo là Liên đoàn Pelargirean đi trước các Tín đồ đến vùng phía nam của vương quốc. Các Hoàng tử của Belfalas, Haruze của Harandor, Hải tặc Umbar sau này vẫn có những đóng góp cho nền chính trị phức tạp chi phối quyền cai trị chủ quyền của Gondor. Sự thăng trầm của chiến tranh, thịnh vượng và tham vọng giữa những cư dân đa dạng này tạo tiền đề cho cuộc phiêu lưu.
 
-Nam Gondor: Con người quay trở lại Thời đại thứ nhất để tiết lộ vương quốc vào thời điểm đó và theo dõi nó qua nhiều thiên niên kỷ cho đến Thời đại thứ tư và triều đại của Aragorn II. Văn hóa, dân tộc, chính trị, tôn giáo và các cá nhân đáng chú ý nhận được thông tin đầy đủ - từ thủ lĩnh của Những người vi phạm lời thề và những viên đá đồng hồ của Woses cho đến lịch mặt trăng của Uinendili và Karma thiêng liêng của Aldarion.
+Miền Nam Gondor: Con người quay trở lại Kỷ Đệ Nhất để tiết lộ vương quốc vào thời điểm đó và theo dõi nó qua nhiều thiên niên kỷ cho đến Kỷ Đệ Tứ và triều đại của Aragorn II. Văn hóa, dân tộc, chính trị, tôn giáo và các cá nhân đáng chú ý nhận được thông tin đầy đủ - từ thủ lĩnh của những người vi phạm lời thề và đá đồng hồ của Woses đến lịch mặt trăng của Uinendili và Karma thiêng liêng của Aldarion.
 
 Mười cuộc phiêu lưu mang tất cả đến cuộc sống sôi động.
 
-Southern Gondor: The People bao gồm số liệu thống kê trò chơi hoàn chỉnh cho MERP và Rolemaster.
+Miền Nam Gondor: The People bao gồm số liệu thống kê trò chơi hoàn chỉnh cho MERP và Rolemaster.
 
-Nam Gondor: Các tính năng của Nhân dân:
+Miền Nam Gondor: Nhân dân có các tính năng:
 
-- HEROES & KINGS - Isildur và Anárion hiện ra to lớn hơn cuộc sống, và những người cai trị theo sau họ cũng không kém cạnh như vậy. Telumehtar chinh phục Umbar đầy nắng. Tarannon, vị Vua Thuyền đầu tiên, đưa Gondor lên đường đến vinh quang đế quốc. Và Aragorn cai trị vương quốc thông qua Cuộc chiến trên chiếc nhẫn.
-- DÚNEDAIN - Những Người Cao Cấp của Phương Tây mang truyền thuyết và văn hóa của quê hương đã mất của họ đến Gondor và hòa quyện những đức tính này với tình yêu sự thật và lòng trung thành.
-- GONDORIANS - Những người nông dân khỏe mạnh chăm sóc đồng ruộng và trồng trọt này tôn kính Yavanna hơn hết các Valar, vì trái đất của bà định hình nhịp sống của họ.
+- HEROES & KINGS - Isildur và Anárion hiện ra lớn hơn cuộc sống, và những người cai trị theo sau họ cũng không kém phần như vậy. Telumehtar chinh phục bóng tối Umbar. Tarannon, vị Vua Thuyền đầu tiên, bắt đầu Gondor trên con đường hướng tới vinh quang đế quốc. Và Aragorn cai trị vương quốc thông qua Cuộc chiến Nhẫn.
+- DÚNEDAIN - The High Con Người của Phương Tây mang truyền thuyết và văn hóa của quê hương đã mất của họ đến Gondor và kết hợp những đức tính này với tình yêu chân lý và lòng trung thành.
+- GONDORIANS - Những người nông dân mạnh mẽ chăm sóc đồng ruộng và trồng trọt này tôn kính Yavanna hầu hết tất cả Valar, vì trái đất của họ định hình nhịp sống của họ.
 - LỄ HỘI - Những ngày huy hoàng cổ xưa của Erukyermë, Erulaitalë và Eruhantalë có được sự đổi mới mang tính kỷ niệm ở Vương quốc Nam.
-- WOSES - Drughu có tổ tiên canh giữ những ngôi nhà của Dân gian Haleth đi lang thang trên vùng đất phía nam Gondor nhiều thời đại trước khi Những người trung thành đến bờ biển Endor.
-- HARUZE - Những người hàng xóm sống trên sa mạc của Gondor đôi khi dành tình bạn cho người Dúnedain và đôi khi cho Umbar thù địch.
+- WOSES - Drughu có tổ tiên canh giữ những ngôi nhà của Dân tộc Haleth đi lang thang trên các vùng đất phía nam Gondor nhiều thời đại trước khi Faithful đến bờ biển Endor.
+- HARUZE - Những người hàng xóm sống trên sa mạc của Gondor đôi khi dành tình bạn của họ cho Dúnedain và đôi khi cho Umbar thù địch.
 - DAEN - Những người đánh xe mặc đồ kẻ sọc này đi theo những di tích kỳ quái của Drughu vào đồng cỏ giữa núi và biển. Ở đó, họ sống hàng thế kỷ, chăn gia súc và rèn đồng thành gương, đồ trang sức và dụng cụ.
-- BOUGHS OF RETURN - Những đồ tạo tác thần bí do người Ainur ban tặng và những di vật đầy mê hoặc từ hòn đảo Númenor đã mất đang chờ đợi người Dúnedain trong hầm, thư viện và khu vườn khi mối nguy hiểm đe dọa.
-- PHIÊU LƯU - Phi hành đoàn trên một chiếc tàu tư nhân và gặp nguy hiểm trên sóng và thủy triều của Vịnh Belfalas! Săn gián điệp Haradan trong các con hẻm của Pelargir! Vạch trần âm mưu của kẻ nổi loạn Daen bất thường! Theo dõi Mûmak bị đánh cắp qua các quán rượu ở Methir trên bờ biển!
+- BUGHS OF RETURN - Những đồ tạo tác thần bí được ban tặng bởi Ainur và những di vật bị phù phép từ hòn đảo đã mất Númenor đang chờ đợi Dúnedain trong kho tiền, thư viện và khu vườn khi nguy hiểm đe dọa.
+- PHIÊU LƯU - Phi hành đoàn trên một chiếc tàu tư nhân và gặp nguy hiểm trên sóng và thủy triều của Vịnh Belfalas! Săn gián điệp Haradan trong ngõ hẻm của Pelargir! Vạch trần âm mưu của kẻ nổi loạn Daen bất thường! Theo dõi Mûmak bị đánh cắp qua các quán rượu ở Methir trên bờ biển!

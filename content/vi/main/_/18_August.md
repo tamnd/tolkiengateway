@@ -67,20 +67,20 @@ Sự kiện xảy ra vào ngày 18 tháng 8
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 148a](../L/Letter_148a.md).
 - **[1973](1973.md)** - [Mythcon 4](../M/Mythcon_4.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Santa_Barbara,_California" title="wikipedia:Santa Barbara, California">Santa Barbara</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1975](1975.md)** - [Mythcon 6](../M/Mythcon_6.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Scripps_College" title="wikipedia:Scripps College">Scripps College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[1992](1992.md)** - [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
+- **[1992](1992.md)** - [Tolkien Hội nghị Thế kỷ](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
 - **[1997](1997.md)** - Sách nói *[Pearl and Sir Orfeo](<../P/Pearl_and_Sir_Orfeo_(audiobook).md>)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do Terry Jones đọc, được xuất bản.
 - **[2000](2000.md)** - [Mythcon 31](../M/Mythcon_31.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hawaii" title="wikipedia:Hawaii">Hawaii</a>.
 - **[2008](2008.md)** - [Mythcon 39](../M/Mythcon_39.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Central_Connecticut_State_University" title="wikipedia:Central Connecticut State University">Đại học bang Central Connecticut</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/New_Britain,_Connecticut" title="wikipedia:New Britain, Connecticut">New Britain</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Connecticut" title="wikipedia:Connecticut">Connecticut</a>.
-- **[2012](2012.md)** - [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md), [Hội nghị Tolkien](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
+- **[2012](2012.md)** - [Sự trở lại của chiếc nhẫn](../T/The_Return_of_the_Ring.md), hội nghị [Tolkien Xã hội](../T/The_Tolkien_Society.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Loughborough_University" title="wikipedia:Loughborough University">Đại học Loughborough</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/England" title="wikipedia:England">Anh</a>.
 - **[2023](2023.md)** - Nhà phát triển trò chơi [Wendell Lariston Hill, Jr.](../W/Wendell_Lariston_Hill,_Jr..md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Chuyến cưỡi ngựa của [Elessar](../A/Aragorn.md), [Gandalf](../G/Gandalf.md), [Celeborn](../C/Celeborn.md), [Galadriel](../G/Galadriel.md), [Hobbit](../T/Travellers.md) và nhiều người khác, cắm trại tại [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Cưỡi [Elessar](../A/Aragorn.md), [Gandalf](../G/Gandalf.md), [Celeborn](../C/Celeborn.md), [Galadriel](../G/Galadriel.md), [Hobbit](../T/Travellers.md) và nhiều chiếc khác, hãy cắm trại tại [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Lực lượng Phòng vệ Dân sự đang tổ chức một cuộc duyệt binh và Tolkien nói rằng ông sẽ tự mình tham gia. Nhưng anh cảm thấy đó là một sự nhạo báng. Chiến tranh vẫn chưa kết thúc, phần đã kết thúc gần như đã bị mất, Chiến tranh luôn thua và Chiến tranh luôn tiếp diễn. Chẳng tốt chút nào khi ngất đi. <br>
+Lực lượng Phòng vệ Dân sự đang tổ chức một cuộc duyệt binh và Tolkien nói rằng ông ta sẽ tự mình tham gia. Nhưng anh cảm thấy đó là một sự nhạo báng. Chiến tranh vẫn chưa kết thúc, phần đã kết thúc gần như đã bị mất, Chiến tranh luôn thua và Chiến tranh luôn tiếp diễn. Chẳng tốt chút nào khi ngất đi. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

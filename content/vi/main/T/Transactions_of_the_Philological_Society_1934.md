@@ -33,7 +33,7 @@ infobox:
 
 <i><b>Giao dịch của Hiệp hội Ngữ văn 1934</b></i> là một tạp chí xuất bản năm 1934.
 
-Nó xuất bản bài tiểu luận "[Chaucer as a Philologist: The Reeve's Tale](../C/Chaucer_as_a_Philologist%253A_The_Reeve's_Tale.md)" của Tolkien. Trong bài giảng (được giảng vào ngày 16 tháng 5 năm 1931) Tolkien thảo luận về việc Chaucer sử dụng phương ngữ tiếng Anh Trung Trung Cổ như một trò đùa ngôn ngữ trong The Reeve's Tale. Bài viết được in lại ở [*Tolkien Studies*: Tập 5](Tolkien_Studies%253A_Volume_5.md) ở [2008](../_/2008.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Nó xuất bản bài luận "[Chaucer as a Philologist: The Reeve's Tale](../C/Chaucer_as_a_Philologist%253A_The_Reeve's_Tale.md)" của Tolkien. Trong bài giảng (phát ngày 16 tháng 5 năm 1931) Tolkien thảo luận về việc Chaucer sử dụng phương ngữ tiếng Anh Trung Trung Cổ như một trò đùa ngôn ngữ trong The Reeve's Tale. Bài viết được in lại ở [*Tolkien Studies*: Tập 5](Tolkien_Studies%253A_Volume_5.md) ở [2008](../_/2008.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

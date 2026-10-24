@@ -61,8 +61,8 @@ infobox:
 - [2003](../_/2003.md) - <b><a class="external text" href="http://ofcs.rottentomatoes.com/" rel="noreferrer noopener" target="_blank">Giải OFCS</a></b>, Dàn nhạc xuất sắc nhất, *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 - 2003 - **Giải thưởng PFCS**, Dàn diễn viên xuất sắc nhất, *Peter Jackson's The Two Towers*
 - [2004](../_/2004.md) - <b><a class="external text" href="http://www.bfca.org/" rel="noreferrer noopener" target="_blank">Giải Sự lựa chọn của các nhà phê bình</a></b>, Dàn diễn viên xuất sắc nhất, *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
-- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Diễn xuất xuất sắc nhất của một nhóm, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, *Sự trở lại của nhà vua của Peter Jackson*
+- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Diễn xuất xuất sắc nhất của một nhóm, *Peter Jackson's The Return of the King*
+- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, The Return of the King* của *Peter Jackson
 
 ## Liên kết ngoài {#External_links}
 

@@ -18,64 +18,64 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/John_Howe_-_Galadriel_01.jpg.md"><img src="https://tolkiengateway.net/w/images/c/c3/John_Howe_-_Galadriel_01.jpg" decoding="async" loading="lazy" width="197" height="404" class="mw-file-element" data-file-width="197" data-file-height="404"/></a><figcaption><i>Galadriel</i> by <a href="../J/John_Howe.md" title="John Howe">John Howe</a></figcaption></figure>
 
-Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** trong suốt [Thời đại](../A/Ages.md). Những ngày quan trọng của người thân cũng được bao gồm. Nhiều ngày tháng và sự kiện được trình bày ở đây không được xác định rõ ràng, nhưng chúng tuân theo câu chuyện được đề xuất trong bài viết chính.
+Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** trong suốt [Kỷ nguyên](../A/Ages.md). Những ngày quan trọng của người thân cũng được bao gồm. Nhiều ngày tháng và sự kiện được trình bày ở đây không được xác định rõ ràng, nhưng chúng tuân theo câu chuyện được đề xuất trong bài viết chính.
 
-## [Thời kỳ đầu tiên](../F/First_Age.md): [Năm Cây](../Y/Years_of_the_Trees.md) {#First_Age:_Years_of_the_Trees}
+## [Kỷ Đệ Nhất](../F/First_Age.md): [Năm Cây](../Y/Years_of_the_Trees.md) {#First_Age:_Years_of_the_Trees}
 
 ### [1362](../Y/Year_of_the_Trees_1362.md) {#1362}
 
-- [Galadriel](../G/Galadriel.md) sinh ra ở [Eldamar](../E/Eldamar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Galadriel](../G/Galadriel.md) sinh vào năm [Eldamar](../E/Eldamar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ### [1490](../Y/Year_of_the_Trees_1490.md) {#1490}
 
-- Tình trạng bất ổn của Noldor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Galadriel mất đi sự bình yên nội tâm mãi mãi.<sup id="cite_ref-Case_3-0" class="reference"><a href="#cite_note-Case-3">[3]</a></sup>
+- Sự bất ổn của Noldor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Galadriel mất đi sự bình yên nội tâm mãi mãi.<sup id="cite_ref-Case_3-0" class="reference"><a href="#cite_note-Case-3">[3]</a></sup>
 
 ### [1495](../Y/Year_of_the_Trees_1495.md) {#1495}
 
-- [Sự đen tối của Valinor](../D/Darkening_of_Valinor.md) và bài phát biểu của [Fëanor](../F/Fëanor.md) trong [Tirion](Tirion.md). Galadriel ủng hộ [Cuộc lưu đày của Noldor](../E/Exile_of_the_Noldor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
-- [Tàn sát người thân ở Alqualondë](../K/Kinslaying_at_Alqualondë.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Galadriel chiến đấu chống lại Fëanor để bảo vệ người thân của mình.<sup id="cite_ref-Case_3-1" class="reference"><a href="#cite_note-Case-3">[3]</a></sup>
+- [Độ tối của Valinor](../D/Darkening_of_Valinor.md) và giọng nói của [Fëanor](../F/Fëanor.md) trong [Tirion](Tirion.md). Galadriel hỗ trợ [Cuộc Lưu đày của Noldor](../E/Exile_of_the_Noldor.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- [Tàn sát người thân Alqualondë](../K/Kinslaying_at_Alqualondë.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Galadriel chiến đấu chống lại Fëanor bảo vệ người thân của mình.<sup id="cite_ref-Case_3-1" class="reference"><a href="#cite_note-Case-3">[3]</a></sup>
 
 ### [1496](../Y/Year_of_the_Trees_1496.md) {#1496}
 
-- [Sự diệt vong của Mandos](../D/Doom_of_Mandos.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> [Finarfin](../F/Finarfin.md) rút lui về [Valinor](../V/Valinor.md), nhưng Galadriel vẫn tiếp tục tiến lên, mong muốn khiến Fëanor không thể sống sót.<sup id="cite_ref-Case_3-2" class="reference"><a href="#cite_note-Case-3">[3]</a></sup>
+- [Lời nguyền của Mandos](../D/Doom_of_Mandos.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> [Finarfin](../F/Finarfin.md) rút lui về [Valinor](../V/Valinor.md), nhưng Galadriel vẫn tiến về phía trước, mong muốn khiến cuộc sống của Fëanor không thể thực hiện được.<sup id="cite_ref-Case_3-2" class="reference"><a href="#cite_note-Case-3">[3]</a></sup>
 
 ### [1497](../Y/Year_of_the_Trees_1497.md) {#1497}
 
-- Fëanor và [những người theo ông ta](../H/House_of_Fëanor.md) bỏ rơi phần còn lại của vật chủ Noldorin ở Aman, đốt cháy những con tàu bị đánh cắp. Galadriel dẫn dắt người dân của mình cùng với [Finrod](../F/Finrod.md), [Fingolfin](../F/Fingolfin.md) và các con trai của ông ta, và họ bắt đầu chuyến du hành khó khăn qua [Helcaraxë](../H/Helcaraxë.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+- Fëanor và [những người theo dõi hắn](../H/House_of_Fëanor.md) bỏ rơi những vật chủ Noldorin còn lại trong Aman, đốt cháy những con tàu bị đánh cắp. Galadriel dẫn dắt người của mình cùng với [Finrod](../F/Finrod.md), [Fingolfin](../F/Fingolfin.md) và các con trai của ông, và họ bắt đầu chuyến hành trình khó khăn xuyên qua [Helcaraxë](../H/Helcaraxë.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ### [1500](../Y/Year_of_the_Trees_1500.md) {#1500}
 
-- [Mặt trăng](../M/Moon.md) mọc lên lần đầu tiên, chiếu sáng đội quân Fingolfin khi đến Vùng đất phía Bắc.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+- [Mặt Trăng](../M/Moon.md) trỗi dậy lần đầu tiên, chiếu sáng đội quân Fingolfin khi đến Vùng đất phía Bắc.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-## [Kỷ nguyên thứ nhất](../F/First_Age.md): [Những năm mặt trời](../Y/Years_of_the_Sun.md) {#First_Age:_Years_of_the_Sun}
+## [Kỷ Đệ Nhất](../F/First_Age.md): [Những năm Mặt Trời](../Y/Years_of_the_Sun.md) {#First_Age:_Years_of_the_Sun}
 
 ### [52](../F/First_Age_52.md) {#52}
 
-- Galadriel và [Finrod](../F/Finrod.md) là khách ở [Doriath](../D/Doriath.md). Finrod sớm khởi hành đến [Hang động Narog](../C/Caves_of_Narog.md), nhưng cô ở lại.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Cô kết bạn với [Celeborn](../C/Celeborn.md) và [Melian](../M/Melian.md).<sup id="cite_ref-Noldor_10-0" class="reference"><a href="#cite_note-Noldor-10">[10]</a></sup>
+- Galadriel và [Finrod](../F/Finrod.md) là khách ở [Doriath](../D/Doriath.md). Finrod sớm khởi hành đến [Hang động Narog](../C/Caves_of_Narog.md), nhưng bà ở lại.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Bà kết bạn với [Celeborn](../C/Celeborn.md) và [Melian](../M/Melian.md).<sup id="cite_ref-Noldor_10-0" class="reference"><a href="#cite_note-Noldor-10">[10]</a></sup>
 
 ### [66](../F/First_Age_66.md) {#66}
 
-- Galadriel được Melian hỏi thăm, và bản chất nổi loạn của cuộc lưu đày Noldor bị vạch trần.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+- Galadriel bị Melian tra hỏi, bản chất nổi loạn của Cuộc Lưu đày của Noldor bị vạch trần.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ### [67](../F/First_Age_67.md) {#67}
 
-- Galadriel được các anh trai của cô đến thăm ở Doriath, và [Thingol](Thingol.md) khiển trách họ vì đã che giấu câu chuyện về <a class="mw-redirect mw-disambig" href="../K/Kinslaying.md" title="Kinslaying">Kinslaying</a> với ông ta. Họ ra đi nhưng cô vẫn ở lại.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
+- Galadriel được các anh trai của cô đến thăm ở Doriath, và [Thingol](Thingol.md) khiển trách họ đã che giấu câu chuyện <a class="mw-redirect mw-disambig" href="../K/Kinslaying.md" title="Kinslaying">Kinslaying</a> với ông ta. Họ ra đi nhưng cô vẫn ở lại.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>
 
 ### [102](../F/First_Age_102.md) {#102}
 
-- [Nargothrond](../N/Nargothrond.md) đã kết thúc và [những đứa con của Finarfin](../C/Children_of_Finarfin.md) được đoàn tụ trong một bữa tiệc ở đó, bao gồm cả Galadriel đến từ Doriath. Cô ở đó một lúc và hỏi Finrod về đời sống tình cảm của anh.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
+- [Nargothrond](../N/Nargothrond.md) đã hoàn thành và [những đứa con của Finarfin](../C/Children_of_Finarfin.md) được đoàn tụ trong một bữa tiệc ở đó, bao gồm cả Galadriel đến từ Doriath. Cô ở đó một lúc và hỏi Finrod về đời sống tình cảm của anh.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>
 
 ### [420](../F/First_Age_420.md) {#420}
 
-- Melian báo trước cho Galadriel về [một Người](../B/Beren.md) sẽ tiến vào Doriath bị thúc đẩy bởi một sự diệt vong lớn hơn [Dây đai của Melian](../G/Girdle_of_Melian.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
+- Melian báo trước Galadriel về [một Người](../B/Beren.md) sẽ xuyên vào Doriath bị di chuyển bởi một số phận lớn hơn [Vành đai Melian](../G/Girdle_of_Melian.md).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 ### [455](../F/First_Age_455.md) {#455}
 
-- [Dagor Bragollach](../D/Dagor_Bragollach.md). Cái chết của [Angrod](../A/Angrod.md) và [Aegnor](../A/Aegnor.md).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
+- [Dagor Bragollach](../D/Dagor_Bragollach.md). Tử vong của [Angrod](../A/Angrod.md) và [Aegnor](../A/Aegnor.md).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>
 
 ### [465](../F/First_Age_465.md) {#465}
 
-- Mùa thu: Cái chết của Finrod khi bị [Sauron](../S/Sauron.md) giam cầm.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
+- Mùa thu: Cái chết của Finrod khi bị [Sauron](../S/Sauron.md) nuôi nhốt.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>
 
 ### [495](../F/First_Age_495.md) {#495}
 
@@ -83,9 +83,9 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### [545](../F/First_Age_545.md) {#545}
 
-- [Vật chủ của Valar](../H/Host_of_the_Valar.md) đến [Beleriand](../B/Beleriand.md),<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Finarfin dẫn đầu Noldor tham gia [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
+- [Chủ nhà của Valar](../H/Host_of_the_Valar.md) đến [Beleriand](../B/Beleriand.md),<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> Finarfin dẫn đầu Noldor cho [Cuộc chiến phẫn nộ](../W/War_of_Wrath.md).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>
 
-## [Tuổi thứ hai](../S/Second_Age.md) {#Second_Age}
+## [Kỷ Đệ Nhị](../S/Second_Age.md) {#Second_Age}
 
 ### c. [1](../S/Second_Age_1.md) {#c._1}
 
@@ -93,54 +93,54 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### 1-20 {#1-20}
 
-- Galadriel và Celeborn rời khỏi [Lindon](../L/Lindon.md) trước khi [Gil-galad](../G/Gil-galad.md) trở thành vua của nó, rõ ràng là nhờ vào ảnh hưởng của bà.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Họ định cư tại [Hồ Nenuial](../L/Lake_Nenuial.md) cùng với nhiều người đi theo.<sup id="cite_ref-Concerning_22-0" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:235</sup>
+- Galadriel và Celeborn rời khỏi [Lindon](../L/Lindon.md) trước khi [Gil-galad](../G/Gil-galad.md) trở thành vua của nó, rõ ràng là nhờ ảnh hưởng của bà.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> Họ định cư tại [Hồ Nenuial](../L/Lake_Nenuial.md) cùng với nhiều người theo dõi.<sup id="cite_ref-Concerning_22-0" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:235</sup>
 
 ### c. [300](../S/Second_Age_300.md) {#c._300}
 
-- Con gái [Celebrían](../C/Celebrían.md) của cô chào đời.<sup id="cite_ref-Scales_20-1" class="reference"><a href="#cite_note-Scales-20">[20]</a></sup>
+- Con gái [Celebrían](../C/Celebrían.md) chào đời.<sup id="cite_ref-Scales_20-1" class="reference"><a href="#cite_note-Scales-20">[20]</a></sup>
 
 ### c. [500](../S/Second_Age_500.md) {#c._500}
 
-- [Sauron](../S/Sauron.md) bắt đầu khuấy động Trung Địa.<sup id="cite_ref-Second_23-0" class="reference"><a href="#cite_note-Second-23">[23]</a></sup> Galadriel xua đuổi tà ác đến từ phương Đông này.<sup id="cite_ref-Concerning_22-1" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:235</sup>
+- [Sauron](../S/Sauron.md) bắt đầu khuấy động Trung Địa.<sup id="cite_ref-Second_23-0" class="reference"><a href="#cite_note-Second-23">[23]</a></sup> Galadriel chứng minh tà ác này đến từ phương Đông.<sup id="cite_ref-Concerning_22-1" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:235</sup>
 
 ### c. [700](../S/Second_Age_700.md) {#c._700}
 
-- Galadriel và Celeborn di chuyển về phía đông và định cư ở [Vùng sinh thái](../E/Eregion.md) gần [Moria](../M/Moria.md). Cô tìm kiếm tình bạn của [Người lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md) và [Nandor](../N/Nandor.md) của [Lórinand](../L/Lórinand.md).<sup id="cite_ref-Concerning_22-2" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:236</sup>
+- Galadriel và Celeborn tiến về phía đông và đóng quân ở [Eregion](../E/Eregion.md) gần [Moria](../M/Moria.md). Cô tìm kiếm tình bạn của [Người lùn Khazad-dûm](../D/Dwarves_of_Khazad-dûm.md) và [Nandor](../N/Nandor.md) của [Lórinand](../L/Lórinand.md).<sup id="cite_ref-Concerning_22-2" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:236</sup>
 
 ### [750](../S/Second_Age_750.md) {#750}
 
-- Vương quốc Ezone được thành lập,<sup id="cite_ref-Second_23-1" class="reference"><a href="#cite_note-Second-23">[23]</a></sup> và việc xây dựng thành phố chính của nó, [Ost-in-Edhil](../O/Ost-in-Edhil.md), được bắt đầu.<sup id="cite_ref-Concerning_22-3" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:236</sup>
+- Vương quốc Eregion được thành lập,<sup id="cite_ref-Second_23-1" class="reference"><a href="#cite_note-Second-23">[23]</a></sup> và việc xây dựng thành phố chính của nó, [Ost-in-Edhil](../O/Ost-in-Edhil.md), được bắt đầu.<sup id="cite_ref-Concerning_22-3" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:236</sup>
 
 ### [883](../S/Second_Age_883.md) {#883}
 
-- Cô có cuộc gặp với Vua [Aldarion](../A/Aldarion.md) khi ông đến [Tharbad](Tharbad.md).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
+- Bà có cuộc gặp với Vua [Aldarion](../A/Aldarion.md) khi ông đến [Tharbad](Tharbad.md).<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
 
 ### [1200](../S/Second_Age_1200.md) {#1200}
 
-- Sauron cố gắng quyến rũ Eldar,<sup id="cite_ref-Second_23-2" class="reference"><a href="#cite_note-Second-23">[23]</a></sup> nhưng lại phát hiện ra Galadriel là kẻ thù chính của mình.<sup id="cite_ref-Concerning_22-4" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:237</sup>
+- Sauron cố gắng quyến rũ Eldar,<sup id="cite_ref-Second_23-2" class="reference"><a href="#cite_note-Second-23">[23]</a></sup> nhưng lại tìm thấy Galadriel kẻ thù chính của mình.<sup id="cite_ref-Concerning_22-4" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:237</sup>
 
 ### [1350](../S/Second_Age_1350.md)-1400 {#1350-1400}
 
-- Sauron di chuyển [Celebrimbor](../C/Celebrimbor.md) và [Gwaith-i-Mírdain](../G/Gwaith-i-Mírdain.md) chống lại Galadriel, người rời Ezone qua Moria để đến Lórinand.<sup id="cite_ref-Concerning_22-5" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:237</sup>
+- Sauron di chuyển [Celebrimbor](../C/Celebrimbor.md) và [Gwaith-i-Mírdain](../G/Gwaith-i-Mírdain.md) chống lại Galadriel, người rời khỏi Eregion qua Moria đến Lórinand.<sup id="cite_ref-Concerning_22-5" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:237</sup>
 
 ### c. [1600](../S/Second_Age_1600.md) {#c._1600}
 
-- Sự phản bội của Sauron bị phát hiện khi hắn rèn [Chiếc Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-Second_23-3" class="reference"><a href="#cite_note-Second-23">[23]</a></sup>
+- Sự phản bội của Sauron bị phát hiện khi ông ta rèn [Chiếc Nhẫn Chúa](The_One_Ring.md).<sup id="cite_ref-Second_23-3" class="reference"><a href="#cite_note-Second-23">[23]</a></sup>
 
 ### [1693](../S/Second_Age_1693.md) {#1693}
 
-- [Ba chiếc nhẫn](Three_Rings.md) được cất giấu<sup id="cite_ref-Second_23-4" class="reference"><a href="#cite_note-Second-23">[23]</a></sup> bởi lời khuyên của Galadriel. Celebrimbor đưa cho bà [Nenya](../N/Nenya.md).<sup id="cite_ref-Concerning_22-6" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:237</sup>
+- Các [Ba Chiếc Nhẫn](Three_Rings.md) được giấu<sup id="cite_ref-Second_23-4" class="reference"><a href="#cite_note-Second-23">[23]</a></sup> theo lời khuyên của Galadriel. Celebrimbor đưa cho bà [Nenya](../N/Nenya.md).<sup id="cite_ref-Concerning_22-6" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:237</sup>
 
 ### [1700](../S/Second_Age_1700.md) {#1700}
 
-- Sauron bị đánh bại với sự giúp đỡ của [Númenor](../N/Númenor.md) sau [Cuộc chiến giữa Yêu tinh và Sauron](../W/War_of_the_Elves_and_Sauron.md) và [Bao vây Ezone](../S/Sack_of_Eregion.md).<sup id="cite_ref-Second_23-5" class="reference"><a href="#cite_note-Second-23">[23]</a></sup>
+- Sauron bị đánh bại với sự giúp đỡ của [Númenor](../N/Númenor.md) sau [Cuộc chiến giữa Tiên tộc và Sauron](../W/War_of_the_Elves_and_Sauron.md) và [Cuộc cướp phá Eregion](../S/Sack_of_Eregion.md).<sup id="cite_ref-Second_23-5" class="reference"><a href="#cite_note-Second-23">[23]</a></sup>
 
 ### c. [1701](../S/Second_Age_1701.md) {#c._1701}
 
-- "Ngay sau" chiến tranh, cô bị ảnh hưởng bởi [khao khát đi biển](../S/Sea-longing.md) và quyết định sống gần Biển. Thay vào đó, cô lần đầu tiên tới Imladris cùng Celebrían để tìm kiếm Celeborn.<sup id="cite_ref-Concerning_22-7" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:240</sup>
-- Ở Imladris cô tham dự [Hội đồng đầu tiên](../W/White_Council.md).<sup id="cite_ref-Concerning_22-8" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:239</sup>
+- "Ngay sau" chiến tranh, cô bị [Biển khao khát](../S/Sea-longing.md) ảnh hưởng và quyết định sống gần Biển. Thay vào đó, trước tiên bà đi đến Imladris với Celebrían, tìm kiếm Celeborn.<sup id="cite_ref-Concerning_22-7" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:240</sup>
+- Vào Imladris bà tham dự [ Hội đồng](../W/White_Council.md) đầu tiên.<sup id="cite_ref-Concerning_22-8" class="reference"><a href="#cite_note-Concerning-22">[22]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:239</sup>
 
-## [Tuổi thứ ba](Third_Age.md) {#Third_Age}
+## [Kỷ Đệ Tam](Third_Age.md) {#Third_Age}
 
 ### [109](Third_Age_109.md) {#109}
 
@@ -148,64 +148,64 @@ Dòng thời gian về cuộc đời của **[Galadriel](../G/Galadriel.md)** tr
 
 ### c. [1100](Third_Age_1100.md) {#c._1100}
 
-- The [Wise](../W/Wise.md) (bao gồm cả Galadriel, một trong những thủ lĩnh Eldar), phát hiện ra một nơi trú ngụ của ác quỷ ở [Dol Guldur](../D/Dol_Guldur.md) và họ tin rằng đó là một trong những [Nazgûl](../N/Nazgûl.md).<sup id="cite_ref-Third_25-1" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1085</sup>
+- Người [Thông thái](../W/Wise.md) (bao gồm Galadriel, một trong những thủ lĩnh Eldar), phát hiện ra một nơi trú ngụ của ác quỷ ở [Dol Guldur](../D/Dol_Guldur.md) và họ tin rằng đó là một trong những [Nazgûl](../N/Nazgûl.md).<sup id="cite_ref-Third_25-1" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1085</sup>
 
 ### [1981](Third_Age_1981.md) {#1981}
 
-- Sau khi [Tai ương của Durin](../D/Durin's_Bane.md) hiện ra, Moria trống rỗng. Nhiều [Yêu tinh Silvan](../S/Silvan_Elves.md) của Lórien bay về phía nam.<sup id="cite_ref-Third_25-2" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
+- Sau khi [Tai họa của Durin](../D/Durin's_Bane.md) xuất hiện, Moria sẽ trống rỗng. Nhiều [Silvan Tiên tộc](../S/Silvan_Elves.md) của Lórien bay về phía nam.<sup id="cite_ref-Third_25-2" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
 - Vào khoảng thời gian này, Galadriel và Celeborn trở thành [Chúa và Phu nhân của Lórien](../L/Lord_and_Lady_of_Lórien.md).<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>
 
 ### [2463](Third_Age_2463.md) {#2463}
 
-- [Hội đồng da trắng](../W/White_Council.md) được thành lập.<sup id="cite_ref-Third_25-3" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
+- [Bạch Hội Đồng](../W/White_Council.md) được hình thành.<sup id="cite_ref-Third_25-3" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
 
 ### [2510](Third_Age_2510.md) {#2510}
 
-- Celebrían khởi hành về miền Tây.<sup id="cite_ref-Third_25-4" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
-- Cô hỗ trợ [Eorl](../E/Eorl.md) và [các kỵ sĩ](../R/Rohirrim.md) của ông ta trong [Trận chiến trên cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md), tạo ra một màn sương trắng xua tan bóng tối khỏi Dol Guldur.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
+- Celebrían khởi hành đến Phương Tây.<sup id="cite_ref-Third_25-4" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1087</sup>
+- Bà hỗ trợ [Eorl](../E/Eorl.md) và [các tay đua](../R/Rohirrim.md) của ông trong [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md), tạo ra một màn sương trắng xua tan bóng tối từ Dol Guldur.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup>
 
 ### [2851](Third_Age_2851.md) {#2851}
 
-- Hội đồng Trắng họp. Ý tưởng tấn công [Dol Guldur](../D/Dol_Guldur.md) bị [Saruman](../S/Saruman.md) bác bỏ.<sup id="cite_ref-Third_25-5" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1088</sup>
+- Cuộc Bạch Hội Đồng gặp nhau. Ý tưởng tấn công [Dol Guldur](../D/Dol_Guldur.md) bị [Saruman](../S/Saruman.md) bác bỏ.<sup id="cite_ref-Third_25-5" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1088</sup>
 
 ### [2941](Third_Age_2941.md) {#2941}
 
-- Hội đồng Trắng họp và [tấn công Dol Guldur](../A/Attack_on_Dol_Guldur.md), trục xuất Sauron.<sup id="cite_ref-Third_25-6" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1089</sup>
+- Con Bạch Hội Đồng gặp và [tấn công Dol Guldur](../A/Attack_on_Dol_Guldur.md), trục xuất Sauron.<sup id="cite_ref-Third_25-6" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1089</sup>
 
 ### [2953](Third_Age_2953.md) {#2953}
 
-- Hội đồng Trắng họp lần cuối, tranh luận về [Nhẫn quyền lực](../R/Rings_of_Power.md).<sup id="cite_ref-Third_25-7" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1089</sup>
+- Các Bạch Hội Đồng gặp nhau lần cuối, tranh luận về [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md).<sup id="cite_ref-Third_25-7" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1089</sup>
 
 ### [2980](Third_Age_2980.md) {#2980}
 
-- Aragorn bước vào [Lothlórien](../L/Lothlórien.md) sau nhiều chuyến du hành,<sup id="cite_ref-Third_25-8" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1090</sup> được Galadriel thừa nhận, người đã bảo anh thay bộ quần áo cũ kỹ và mặc cho anh như một hoàng tử đúng nghĩa.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>
+- Aragorn bước vào [Lothlórien](../L/Lothlórien.md) sau nhiều chuyến du hành,<sup id="cite_ref-Third_25-8" class="reference"><a href="#cite_note-Third-25">[25]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:1090</sup> được Galadriel thừa nhận, người đã bảo ông ta thay bộ quần áo cũ kỹ và mặc cho ông ta như một hoàng tử đúng nghĩa.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup>
 
 ### [3019](Third_Age_3019.md) {#3019}
 
-- [17 tháng 1](../_/17_January.md): Galadriel và Celeborn nhận được [Học bổng Chiếc Nhẫn](../F/Fellowship_of_the_Ring.md) ở Lothlórien.<sup id="cite_ref-Great_29-0" class="reference"><a href="#cite_note-Great-29">[29]</a></sup>
+- [17 tháng 1](../_/17_January.md): Galadriel và Celeborn nhận [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) vào Lothlórien.<sup id="cite_ref-Great_29-0" class="reference"><a href="#cite_note-Great-29">[29]</a></sup>
 
-- [15 tháng 2](../_/15_February.md):<sup id="cite_ref-Great_29-1" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> Galadriel đưa [Tấm gương của mình](../M/Mirror_of_Galadriel.md) cho Frodo Baggins. Bà bị cám dỗ bởi [Chiếc nhẫn một](../O/One_Ring.md) nhưng từ chối nó.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
-- [16 tháng 2](../_/16_February.md):<sup id="cite_ref-Great_29-2" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> Galadriel tặng [quà](../G/Gifts_of_Galadriel.md) và [lembas](../L/Lembas.md) cho Hội, và chào tạm biệt họ bằng cách đọc *[Namárië](../N/Namárië.md)*.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
-- [17 tháng 2](../_/17_February.md): Gandalf hồi sinh được đưa đến Lórien bởi [Gwaihir](../G/Gwaihir.md),<sup id="cite_ref-Great_29-3" class="reference"><a href="#cite_note-Great-29">[29]</a></sup>, người được Galadriel cử đến. Gandalf được đón tại [Caras Galadhon](../C/Caras_Galadhon.md) và mặc đồ trắng. Galadriel đưa cho ông ta [một số thông điệp tiên tri](../G/Galadriel's_messages.md) cho [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md).<sup id="cite_ref-White_32-0" class="reference"><a href="#cite_note-White-32">[32]</a></sup>
+- [15 tháng 2](../_/15_February.md):<sup id="cite_ref-Great_29-1" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> Galadriel chiếu [Tấm gương của bà](../M/Mirror_of_Galadriel.md) cho Frodo Baggins. Bà bị cám dỗ bởi [Chiếc nhẫn một](../O/One_Ring.md) nhưng từ chối nó.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
+- [16 tháng 2](../_/16_February.md):<sup id="cite_ref-Great_29-2" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> Galadriel tặng [quà](../G/Gifts_of_Galadriel.md) và [lembas](../L/Lembas.md) cho Hội và chào tạm biệt họ bằng cách đọc *[Namárië](../N/Namárië.md)*.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
+- [17 tháng 2](../_/17_February.md): Gandalf được phục sinh được mang đến Lórien bởi [Gwaihir](../G/Gwaihir.md),<sup id="cite_ref-Great_29-3" class="reference"><a href="#cite_note-Great-29">[29]</a></sup> người được gửi bởi Galadriel. Gandalf được nhận trong [Caras Galadhon](../C/Caras_Galadhon.md) và mặc đồ màu trắng. Galadriel đưa cho ông ta [một số thông điệp tiên tri](../G/Galadriel's_messages.md) cho [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md).<sup id="cite_ref-White_32-0" class="reference"><a href="#cite_note-White-32">[32]</a></sup>
 
-- [28 tháng 3](../_/28_March.md): Sau [các cuộc tấn công vào Lothlórien](../A/Assaults_on_Lothlórien.md), Celeborn băng qua sông Anduin và [sự hủy diệt Dol Guldur](../F/Fall_of_Dol_Guldur.md) bắt đầu.<sup id="cite_ref-Chief_33-0" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup> Ngay sau khi Galadriel phá hủy các bức tường của Dol Guldur.<sup id="cite_ref-Great_29-4" class="reference"><a href="#cite_note-Great-29">[29]</a></sup>
+- [28 tháng 3](../_/28_March.md): Sau [các cuộc tấn công vào Lothlórien](../A/Assaults_on_Lothlórien.md), Celeborn băng qua Anduin và [sự phá hủy Dol Guldur](../F/Fall_of_Dol_Guldur.md) bắt đầu.<sup id="cite_ref-Chief_33-0" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup> Ngay sau đó Galadriel ném các bức tường của Dol Guldur xuống.<sup id="cite_ref-Great_29-4" class="reference"><a href="#cite_note-Great-29">[29]</a></sup>
 
-- [20 tháng 5](../_/20_May.md): Elrond và Arwen đến Lórien trên đường đến [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Chief_33-1" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
-- [27 tháng 5](../_/27_May.md): Đoàn hộ tống Arwen rời Lórien.<sup id="cite_ref-Chief_33-2" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
+- [20 tháng 5](../_/20_May.md): Elrond và Arwen đến Lórien trên đường tới [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-Chief_33-1" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
+- [27/5](../_/27_May.md): Đoàn hộ tống Arwen rời đi Lórien.<sup id="cite_ref-Chief_33-2" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
 
-- [ngày 6 tháng 9](../_/6_September.md): Celeborn và Galadriel, Gandalf cùng [bốn người Hobbit](Travellers.md) dừng chân dưới [Dãy núi Moria](../M/Mountains_of_Moria.md).<sup id="cite_ref-Chief_33-3" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
-- [13 tháng 9](../_/13_September.md): Celeborn và Galadriel lên đường.<sup id="cite_ref-Chief_33-4" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
+- [6 tháng Chín](../_/6_September.md): Celeborn và Galadriel, Gandalf và [bốn Hobbit](Travellers.md) dừng lại dưới [Dãy núi Moria](../M/Mountains_of_Moria.md).<sup id="cite_ref-Chief_33-3" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
+- [13 tháng Chín](../_/13_September.md): Celeborn và Galadriel đi theo con đường của họ.<sup id="cite_ref-Chief_33-4" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
 
 ### [3021](Third_Age_3021.md) {#3021}
 
-- [22 tháng 9](../_/22_September.md): [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) gặp Frodo và Sam ở [Woody End](../W/Woody_End.md).<sup id="cite_ref-Chief_33-5" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
-- [29 tháng 9](../_/29_September.md): Công ty đến [Grey Havens](../G/Grey_Havens.md). [Ba Người canh giữ](Three_Keepers.md), Bilbo và Frodo rời khỏi Trung địa.<sup id="cite_ref-Chief_33-6" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
+- [22 tháng Chín](../_/22_September.md): [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) gặp Frodo và Sam tại [Woody End](../W/Woody_End.md).<sup id="cite_ref-Chief_33-5" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
+- [29 tháng Chín](../_/29_September.md): Công ty đến [Cảng Xám](../G/Grey_Havens.md). [Ba người giữ](Three_Keepers.md), Bilbo và Frodo rời đi Trung Địa.<sup id="cite_ref-Chief_33-6" class="reference"><a href="#cite_note-Chief-33">[33]</a></sup>
 
-## [Tuổi thứ tư](../F/Fourth_Age.md) {#Fourth_Age}
+## [Kỷ Đệ Tứ](../F/Fourth_Age.md) {#Fourth_Age}
 
 ### [120](../F/Fourth_Age_120.md) {#120}
 
-- Người ta nói rằng [Gimli](../G/Gimli.md) đi thuyền về phía Tây cùng với [Legolas](../L/Legolas.md),<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> có lẽ là nhờ Galadriel.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
+- Người ta nói rằng [Gimli](../G/Gimli.md) ra khơi Phương Tây với [Legolas](../L/Legolas.md),<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup> có lẽ là nhờ Galadriel.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup>
 
 <span></span>
 

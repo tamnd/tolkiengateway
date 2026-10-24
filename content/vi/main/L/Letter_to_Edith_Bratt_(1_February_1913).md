@@ -25,10 +25,10 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/E/Edith_Bratt_1_February_1913.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/95/Edith_Bratt_1_February_1913.jpg/300px-Edith_Bratt_1_February_1913.jpg" decoding="async" loading="lazy" width="300" height="265" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/95/Edith_Bratt_1_February_1913.jpg 1.5x" data-file-width="430" data-file-height="380"/></a><figcaption></figcaption></figure>
 
-Vào [1 tháng 2](../_/1_February.md) [1913](../_/1913.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Edith Bratt](../E/Edith_Tolkien.md)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [1 tháng 2](../_/1_February.md) [1913](../_/1913.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Edith Bratt](../E/Edith_Tolkien.md)**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-- **Chủ đề:** Bức ảnh bưu thiếp mô tả phòng ăn tại [Exeter College](../U/University_of_Oxford.md#Exeter_College) và Tolkien đã đánh dấu vị trí của mình trên bàn bằng chữ "X".
-- **Xuất bản:** Một bản sao của tấm bưu thiếp xuất hiện trong *[The Tolkien Family Album](../T/The_Tolkien_Family_Album.md)*.
+- **Chủ đề:** Bức ảnh bưu thiếp mô tả phòng ăn ở [Exeter College](../U/University_of_Oxford.md#Exeter_College), và Tolkien đã đánh dấu vị trí của ông tại bàn bằng chữ "X".
+- **Xuất bản:** Một bản sao của tấm bưu thiếp đã xuất hiện trong *[The Tolkien Family Album](../T/The_Tolkien_Family_Album.md)*.
 
 <span></span>
 

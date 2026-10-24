@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 8</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson, Neville Percy, Chris Seeman</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">39</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 8</b> là số thứ tám của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 11 năm 2009.
+<b><i>Other Minds</i> 8</b> là số thứ tám của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 11 năm 2009.
 
 ## Nội dung {#Contents}
 
@@ -38,7 +38,7 @@ infobox:
     - Bởi Neville Percy
 - "Cảm giác ma thuật"
     - Bởi Neville Percy
-- "Giữa Canon và Dogma - Phép thuật của con người ở Trung Địa"
+- "Giữa Canon và Dogma - Phép thuật của con người trong Trung Địa"
     - Bởi Daniel Vacaflores
 - "Hành trình trong bóng tối"
     - Bởi Daniel Vacaflores
@@ -50,7 +50,7 @@ infobox:
     - Bởi Padraig Timmins
 - "Bản in đẹp và tuyên bố miễn trừ trách nhiệm"
 - "Giấy phép Creative Commons"
-- "Phụ lục A: Dòng thời gian cho 'Chín Nazgûl'"
+- "Appendix A: Dòng thời gian cho 'The Nine Nazgûl'"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**
     - Bởi: Marc Holmes, Thomas Morwinsky, [Ted Nasmith](../T/Ted_Nasmith.md)

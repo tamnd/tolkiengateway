@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Timeline/Second Age"
 ---
 
-Chuyển hướng đến [Dòng thời gian/Thời đại thứ hai](Timeline%252FSecond_Age.md).
+Chuyển hướng đến [Dòng thời gian/Kỷ Đệ Nhị](Timeline%252FSecond_Age.md).

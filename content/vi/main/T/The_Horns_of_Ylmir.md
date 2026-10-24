@@ -39,9 +39,9 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../U/Ulmo.md" title="Ulmo">Ulmo</a></td></tr>
 </tbody></table>
 
-<i><b>The Horns of Ylmir</b></i> là bài thơ được viết lần đầu bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1914](../_/1914.md) và được xuất bản trong *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*, dưới dạng phụ lục của "[The Quenta](The_Quenta.md)".<sup id="cite_ref-Horns_1-0" class="reference"><a href="#cite_note-Horns-1">[1]</a></sup>
+<i><b>Sừng của Ylmir</b></i> là bài thơ được viết lần đầu bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1914](../_/1914.md) và xuất bản trong *[The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md)*, dưới dạng phụ lục của "[The Quenta](The_Quenta.md)".<sup id="cite_ref-Horns_1-0" class="reference"><a href="#cite_note-Horns-1">[1]</a></sup>
 
-Tiêu đề đề cập đến [Ulumúri](../U/Ulumúri.md), những chiếc ốc xà cừ của [Ulmo](../U/Ulmo.md) mang đến âm nhạc biển và gây ra [khát khao biển cả](../S/Sea-longing.md).
+Tiêu đề đề cập đến [Ulumúri](../U/Ulumúri.md), những chiếc ốc xà cừ [Ulmo](../U/Ulmo.md) mang đến âm nhạc biển và gây ra [khao khát biển cả](../S/Sea-longing.md).
 
 ## Lịch sử sáng tác {#History_of_composition}
 
@@ -49,13 +49,13 @@ Tiêu đề đề cập đến [Ulumúri](../U/Ulumúri.md), những chiếc ố
 
 Phiên bản đầu tiên của bài thơ có tựa đề *The Tides* và đề ngày [4 tháng 12](../_/4_December.md), [1914](../_/1914.md) cùng với ghi chú *On the Cornish Coast*, mặc dù ghi chú trong các bản thảo tiếp theo cho thấy nó được bắt đầu sớm nhất là từ [1910](../_/1910.md) đến [1912](../_/1912.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó được cho là lấy cảm hứng từ chuyến thăm của Tolkien tới Bán đảo Lizard ở Cornwall, vào mùa hè năm 1914, nơi biển để lại ấn tượng lớn cho ông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Phiên bản thứ hai mang tiêu đề *Sea Chant of an Elder Day* (*Fyrndaga Sœléoþ* bằng [tiếng Anh cổ](../O/Old_English.md)) và ngày tháng 3 [1915](../_/1915.md). Nó có một số sửa đổi nhỏ và đã có đoạn mở đầu cáo buộc rằng bài hát được [Tuor](Tuor.md) sáng tác cho con trai ông [Eärendel](../E/Earendil.md) ở [Land of Willows](../L/Land_of_Willows.md).
+Phiên bản thứ hai mang tiêu đề *Sea Chant of an Elder Day* (*Fyrndaga Sœléoþ* trong [tiếng Anh cổ](../O/Old_English.md)) và ngày tháng 3 [1915](../_/1915.md). Nó có một số sửa đổi nhỏ và đã có đoạn mở đầu cáo buộc rằng bài hát được [Tuor](Tuor.md) sáng tác cho con trai ông [Eärendel](../E/Earendil.md) ở [Xứ Liễu](../L/Land_of_Willows.md).
 
-Trong bản sửa đổi thứ ba, tiêu đề cho biết đây là một bài hát "từ [Sự sụp đổ của Gondolin](<The_Fall_of_Gondolin_(chapter).md>)", do đó lẽ ra nó phải được xuất bản trong *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*. Chỉ có một số sửa đổi nhỏ được thực hiện, chẳng hạn như đổi tên *Ulmo* thành *[Ylmir](../Y/Ylmir.md)* (bản dịch [Gnomish](../G/Gnomish.md) của *[Ulmo](../U/Ulmo.md)*) và bao gồm các tham chiếu đến [Ulmo](../U/Ulmo.md) và [Ossë](../O/Ossë.md) trong bài thơ.<sup id="cite_ref-Horns_1-1" class="reference"><a href="#cite_note-Horns-1">[1]</a></sup>
+Trong lần sửa đổi thứ ba, tiêu đề cho biết đây là một bài hát "từ [Sự sụp đổ của Gondolin](<The_Fall_of_Gondolin_(chapter).md>)", do đó lẽ ra nó phải được xuất bản ở *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*. Chỉ có một số sửa đổi nhỏ được thực hiện, như đổi tên *Ulmo* thành *[Ylmir](../Y/Ylmir.md)* (bản dịch [Gnomish](../G/Gnomish.md) của *[Ulmo](../U/Ulmo.md)*) và bao gồm các tham chiếu đến [Ulmo](../U/Ulmo.md) và [Ossë](../O/Ossë.md) trong bài thơ.<sup id="cite_ref-Horns_1-1" class="reference"><a href="#cite_note-Horns-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
-"Tuor nhớ lại trong một bài hát hát cho con trai ông ấy là Eärendil những hình ảnh mà những chiếc tù và của Ylmir từng gọi trước mặt ông ấy vào lúc chạng vạng ở Xứ Liễu."
+"Tuor nhớ lại trong một bài hát hát cho con trai ông nghe Eärendil những hình ảnh mà những chiếc tù và của Ylmir từng gọi trước mặt ông trong ánh chạng vạng ở Xứ Liễu."
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>&#39;Twas in the Land of Willows where the grass is long and green—<br/>
@@ -73,7 +73,7 @@ To great grey waters heaving round the rocks where sea-birds swim.
 
 ## Xem thêm {#See_also}
 
-- [Về Tuor và chuyến đến Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)
+- [Của Tuor và Việc Anh Đến Gondolin](../O/Of_Tuor_and_his_Coming_to_Gondolin.md)
 - [Thơ của J.R.R. Tolkien](../../index/P/Poems_by_J.R.R._Tolkien.md)
 
 <span></span>

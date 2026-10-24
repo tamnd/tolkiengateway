@@ -14,9 +14,9 @@ images:
   - "Alan_Lee_-_Treebeard_2.jpg"
 ---
 
-**Danh sách dài các loài Ent**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một bài hát truyền thuyết được biết đến với [Ent](../E/Ents.md), liệt kê mọi sinh vật sống mà họ biết. Đó là một danh sách bài thơ được [Treebeard](../T/Treebeard.md) đọc vào [29 tháng 2](../_/29_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-Great_2-0" class="reference"><a href="#cite_note-Great-2">[2]</a></sup> với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md).
+**Danh sách dài về Ent**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một bài hát truyền thuyết được biết đến bởi [Ent](../E/Ents.md), liệt kê mọi sinh vật sống mà họ biết. Đó là một danh sách bài thơ được [Treebeard](../T/Treebeard.md) nói vào ngày [29 tháng 2](../_/29_February.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-Great_2-0" class="reference"><a href="#cite_note-Great-2">[2]</a></sup> với [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md).
 
-Danh sách này hẳn là rất cổ xưa, vì Treebeard nói rằng ông đã học được nó khi còn trẻ. Nó có khả năng dài hơn nhiều so với những gì được đọc ở đây.
+Danh sách này hẳn là rất cổ xưa, vì Treebeard đã nói rằng ông đã học được nó khi còn trẻ. Nó có khả năng dài hơn nhiều so với những gì được đọc ở đây.
 
 ## Bài thơ {#Poem}
 
@@ -40,7 +40,7 @@ Swan the whitest, serpent coldest...
 </p>
 </div>
 
-Pippin đề nghị thêm Hobbit vào một dòng mới; *Half-grown hobbits, the hole-dwellers* và nó sẽ nằm cạnh [Man](../M/Men.md), mà Treebeard cho rằng đề xuất đó là *"Not bad, not bad"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau cuộc đàm phán với [Saruman](../S/Saruman.md) tại [Isengard](../I/Isengard.md) vào [5 tháng 3](../_/5_March.md),<sup id="cite_ref-Great_2-1" class="reference"><a href="#cite_note-Great-2">[2]</a></sup> Treebeard tiết lộ rằng ông thực sự đã thêm Người Hobbit vào Danh sách dài:
+Pippin đề xuất thêm Hobbit trên một dòng mới; *Half-grown hobbits, the hole-dwellers* và nó sẽ nằm cạnh [Người đàn ông](../M/Men.md), mà Treebeard nghĩ rằng đề xuất là *"Not bad, not bad"*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau cuộc đấu tranh với [Saruman](../S/Saruman.md) tại [Isengard](../I/Isengard.md) vào [5 tháng 3](../_/5_March.md),<sup id="cite_ref-Great_2-1" class="reference"><a href="#cite_note-Great-2">[2]</a></sup> Treebeard tiết lộ rằng ông thực sự đã thêm Hobbit vào Danh sách dài:
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Ents the earthborn, old as mountains,<br/>

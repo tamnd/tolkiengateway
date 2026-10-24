@@ -37,7 +37,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../F/Fish.md" title="Fish">Fish</a>, <a href="../R/Riddle-game.md" title="Riddle-game">Riddle-game</a></td></tr>
 </tbody></table>
 
-"**Những vùng đất cứng lạnh**" là dòng đầu tiên của [bài thơ](../P/Poems_in_The_Lord_of_the_Rings.md) do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết và được [Gollum](../G/Gollum.md) hát trong *[The Two Towers](The_Two_Towers.md)*.<sup id="cite_ref-towers_1-0" class="reference"><a href="#cite_note-towers-1">[1]</a></sup>
+"**Những vùng đất cứng lạnh**" là dòng đầu tiên của một [bài thơ](../P/Poems_in_The_Lord_of_the_Rings.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được [Gollum](../G/Gollum.md) hát trong *[The Two Towers](The_Two_Towers.md)*.<sup id="cite_ref-towers_1-0" class="reference"><a href="#cite_note-towers-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -50,7 +50,7 @@ they bites our hands,<br/>
 
 ## Lịch sử {#History}
 
-Vào năm [T.A.](Third_Age.md) [2941](Third_Age_2941.md) thuộc [Thời thứ ba](Third_Age.md),<sup id="cite_ref-year_2-0" class="reference"><a href="#cite_note-year-2">[2]</a></sup> một phần của bài thơ đã được [Gollum](../G/Gollum.md) sử dụng làm câu đố khi ông và [Bilbo](../B/Bilbo.md) tham gia vào một [trò chơi đố vui](../R/Riddle-game.md):<sup id="cite_ref-riddles_3-0" class="reference"><a href="#cite_note-riddles-3">[3]</a></sup>
+Vào năm [T.A.](Third_Age.md) [2941](Third_Age_2941.md) [Kỷ Đệ Tam](Third_Age.md),<sup id="cite_ref-year_2-0" class="reference"><a href="#cite_note-year-2">[2]</a></sup> một phần của bài thơ đã được [Gollum](../G/Gollum.md) sử dụng làm câu đố khi anh và [Bilbo](../B/Bilbo.md) tham gia [Trò chơi đố vui](../R/Riddle-game.md):<sup id="cite_ref-riddles_3-0" class="reference"><a href="#cite_note-riddles-3">[3]</a></sup>
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>Alive without breath,<br/>
@@ -60,11 +60,11 @@ All in mail never clinking.<sup id="cite_ref-riddles_3-1" class="reference"><a h
 </p>
 </div>
 
-Vào [ngày 1 tháng 3](../_/1_March.md) [T.A.](Third_Age.md) [3019](Third_Age_3019.md),<sup id="cite_ref-month_4-0" class="reference"><a href="#cite_note-month-4">[4]</a></sup> Gollum, trong khi hướng dẫn [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) đi qua [Đầm lầy Chết](../D/Dead_Marshes.md), thỉnh thoảng cười khúc khích hoặc hát một đoạn bài thơ. Ông ta có thể đã rất thích thú với cảm giác nước "trong dòng suối cạn đá" mà chân ông ta té vào. Có lúc, Gollum ngắt lời mình để ám chỉ đến Trò chơi câu đố nhiều [nhiều thập kỷ trước](../Q/Quest_of_Erebor.md). Tiếng hát của Gollum khiến Samwise suy nghĩ cấp bách hơn về "vấn đề lương thực" và suy đoán rằng Gollum cũng đang nghĩ đến điều này.<sup id="cite_ref-towers_1-2" class="reference"><a href="#cite_note-towers-1">[1]</a></sup>
+Vào [1 tháng 3](../_/1_March.md) [T.A.](Third_Age.md) [3019](Third_Age_3019.md),<sup id="cite_ref-month_4-0" class="reference"><a href="#cite_note-month-4">[4]</a></sup> Gollum, trong khi hướng dẫn [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](../S/Samwise_Gamgee.md) đi qua [Đầm lầy Chết](../D/Dead_Marshes.md), thỉnh thoảng cười khúc khích hoặc hát một đoạn bài thơ. Ông ta có thể đã rất thích thú với cảm giác nước "trong dòng suối cạn đá" mà chân ông ta té vào. Có lúc, Gollum tự ngắt lời để ám chỉ đến trò chơi Riddle nhiều [nhiều thập kỷ trước](../Q/Quest_of_Erebor.md). Tiếng hát của Gollum khiến Samwise phải suy nghĩ cấp bách hơn về "vấn đề lương thực" và suy đoán rằng Gollum cũng đang nghĩ đến điều này.<sup id="cite_ref-towers_1-2" class="reference"><a href="#cite_note-towers-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo đầu tiên của chương này, dòng đầu tiên “Những vùng đất cứng lạnh giá” là phần duy nhất của bài thơ không bị thay đổi.<sup id="cite_ref-ring_5-0" class="reference"><a href="#cite_note-ring-5">[5]</a></sup>
+Trong bản thảo đầu tiên của chương Tolkien, dòng đầu tiên “Những vùng đất cứng lạnh” là phần duy nhất của bài thơ không bị thay đổi.<sup id="cite_ref-ring_5-0" class="reference"><a href="#cite_note-ring-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -72,7 +72,7 @@ Trong bản thảo đầu tiên của chương này, dòng đầu tiên “Nhữ
 
 <dl><dd>Gollum (portrayed by Ibrahim Maiga) sings this ditty during an episode of the second series (season) of the Slovak radio series. The song is accompanied by a nursery rhyme-like melody with some subtle percussions.</dd></dl>
 
-<b>2002: <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>An alternate version of this song is heard in the <a href="The_Forbidden_Pool_(scene).md" title="The Forbidden Pool (scene)">forty-second scene</a> when Gollum catches a fish in the <a href="../F/Forbidden_Pool.md" title="Forbidden Pool">Forbidden Pool</a>:</dd></dl>
 

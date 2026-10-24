@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fathers of the Dwarves"
 ---
 
-Chuyển hướng đến [Cha của người lùn](../F/Fathers_of_the_Dwarves.md).
+Chuyển hướng đến [Tổ phụ của người Lùn](../F/Fathers_of_the_Dwarves.md).

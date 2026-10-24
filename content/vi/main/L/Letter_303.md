@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien mô tả ngắn gọn tầm quan trọng của [Nhà máy Sarehole](../S/Sarehole_Mill.md) và người thợ xay của nó trong thời trẻ của Tolkien, nói rằng người thợ xay và con trai ông là những nhân vật của sự kinh ngạc và kinh hoàng. <br>
+Tolkien mô tả ngắn gọn tầm quan trọng của [Nhà máy Sarehole](../S/Sarehole_Mill.md) và người thợ xay của nó trong thời trẻ của Tolkien, nói rằng người thợ xay và con trai ông ta là những nhân vật của sự kinh ngạc và kinh hoàng. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

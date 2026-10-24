@@ -13,7 +13,7 @@ categories:
   - "Video Game publishers"
 ---
 
-**Trò chơi giả tưởng chiến lược của Úc** là nhà phát hành và quản lý trò chơi của [Úc](../A/Australia.md) [Play-By-Mail ở Trung Địa](../M/Middle-earth_Play-By-Mail.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Trò chơi giả tưởng chiến lược của Úc** là nhà phát hành và quản lý trò chơi của [Úc](../A/Australia.md) [Trung Địa Play-By-Mail](../M/Middle-earth_Play-By-Mail.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

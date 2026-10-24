@@ -22,9 +22,9 @@ images:
 <p class="tg-quote-footer"><cite><i><a class="mw-redirect" href="../E/Eärendillinwë.md" title="Eärendillinwë">Eärendillinwë</a></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Hither Shore** là một thuật ngữ được sử dụng đặc biệt bởi [Yêu tinh](../E/Elves.md) để chỉ những vùng đất phàm trần ở [Trung Địa](../M/Middle-earth.md), một lời nhắc nhở về những bờ biển xa xôi của [Aman](../A/Aman.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Bờ biển này** là một thuật ngữ được sử dụng đặc biệt bởi [Tiên tộc](../E/Elves.md) để chỉ vùng đất phàm trần [Trung Địa](../M/Middle-earth.md), một lời nhắc nhở về những bờ biển xa xôi của [Aman](../A/Aman.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong [Sindarin](../S/Sindarin.md) của [Thời đại thứ nhất](../F/First_Age.md), nó cũng có ý nghĩa cụ thể hơn vì nó được dịch sang ngôn ngữ đó là tên [Nevrast](../N/Nevrast.md), một vùng biển lạnh ở phía tây bắc [Beleriand](../B/Beleriand.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong [Sindarin](../S/Sindarin.md) của [Kỷ Đệ Nhất](../F/First_Age.md), nó cũng có ý nghĩa cụ thể hơn, vì nó được dịch sang ngôn ngữ đó là tên [Nevrast](../N/Nevrast.md), một vùng biển lạnh ở phía tây bắc của [Beleriand](../B/Beleriand.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

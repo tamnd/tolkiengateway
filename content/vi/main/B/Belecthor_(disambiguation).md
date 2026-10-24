@@ -24,9 +24,9 @@ images:
   - "Disambig.png"
 ---
 
-**Belecthor** là [Sindarin](../S/Sindarin.md) có nghĩa là "Đại bàng hùng mạnh" và có thể tham khảo:
+**Belecthor** là [Sindarin](../S/Sindarin.md) dành cho "Đại bàng hùng mạnh" và có thể tham khảo:
 
-- [Belecthor I](Belecthor_I.md) ([T.A.](../T/Third_Age.md) [2545](../T/Third_Age_2545.md) - [2655](../T/Third_Age_2655.md)), [Quản lý cai trị](../R/Ruling_Steward.md) thứ mười lăm của [Gondor](../G/Gondor.md).
+- [Belecthor I](Belecthor_I.md) ([T.A.](../T/Third_Age.md) [2545](../T/Third_Age_2545.md) - [2655](../T/Third_Age_2655.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười lăm của [Gondor](../G/Gondor.md).
 - [Belecthor II](Belecthor_II.md) ([T.A.](../T/Third_Age.md) [2752](../T/Third_Age_2752.md) - [2872](../T/Third_Age_2872.md)), [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ 21 của [Gondor](../G/Gondor.md).
 
 <hr style="margin-top:15px;"/>

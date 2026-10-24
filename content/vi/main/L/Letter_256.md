@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien tiết lộ rằng ông đã bắt đầu một câu chuyện lấy bối cảnh khoảng 100 năm sau khi [Sauron](../S/Sauron.md) qua đời, nhưng nó tỏ ra vừa nham hiểm vừa buồn bã. Trong đó, đàn ông thể hiện sự no nhanh của mình với những điều tốt đẹp. [Người Gondorian](../G/Gondorians.md) trong thời bình đã trở nên bất mãn và bồn chồn. Những triều đại xuất thân từ [Aragorn](../A/Aragorn.md) sẽ chỉ trở thành những vị vua và thống đốc – như [Denethor](../D/Denethor.md) hoặc tệ hơn. Câu chuyện kể về một vụ lộ các âm mưu cách mạng, một trung tâm tôn giáo bí mật của quỷ Satan, và những cậu bé Gondorian đóng vai [Orc](../O/Orcs.md) và đi khắp nơi để gây thiệt hại. Tolkien cho biết lẽ ra ông có thể viết một cuốn "kinh dị" về cốt truyện, việc khám phá và lật đổ nó nhưng điều đó không đáng làm.
+Tolkien tiết lộ rằng ông đã bắt đầu một câu chuyện được đặt vào khoảng 100 năm sau khi [Sauron](../S/Sauron.md) qua đời, nhưng nó tỏ ra vừa nham hiểm vừa buồn bã. Trong đó, đàn ông thể hiện sự no nhanh của mình với những điều tốt đẹp. [người Gondor](../G/Gondorians.md) trong thời bình đã trở nên bất mãn và bồn chồn. Những triều đại xuất thân từ [Aragorn](../A/Aragorn.md) sẽ chỉ trở thành vua và thống đốc – như [Denethor](../D/Denethor.md) hoặc tệ hơn. Câu chuyện kể về một vụ lộ âm mưu cách mạng, một trung tâm tôn giáo bí mật của quỷ Satan, và những cậu bé Gondor chơi trò đóng giả [Orc](../O/Orcs.md) và đi khắp nơi để gây thiệt hại. Tolkien nói rằng lẽ ra ông có thể viết một cuốn "kinh dị" về cốt truyện, việc khám phá và lật đổ nó nhưng điều đó không đáng làm.
 
 <br>
 

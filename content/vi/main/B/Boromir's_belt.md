@@ -26,19 +26,19 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/N/Nino_Vecia_-_Golden_Belt.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/91/Nino_Vecia_-_Golden_Belt.jpg/250px-Nino_Vecia_-_Golden_Belt.jpg" decoding="async" loading="lazy" width="250" height="358" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/9/91/Nino_Vecia_-_Golden_Belt.jpg 1.5x" data-file-width="300" data-file-height="429"/></a><figcaption><i>Golden Belt</i> by Nino Vecia</figcaption></figure>
 
-**Thắt lưng Boromir** đã được [tặng](../G/Gifts_of_Galadriel.md) cho **[Boromir](Boromir.md)** bởi [Galadriel](../G/Galadriel.md). Nó xuất hiện như những chiếc lá vàng nối liền nhau.
+Thắt lưng của **Boromir** đã được [tặng](../G/Gifts_of_Galadriel.md) cho **[Boromir](Boromir.md)** bởi [Galadriel](../G/Galadriel.md). Nó xuất hiện như những chiếc lá vàng nối liền nhau.
 
 ## Lịch sử {#History}
 
-Trước khi [Công ty Nhẫn](../F/Fellowship_of_the_Ring.md) rời khỏi [Lothlórien](../L/Lothlórien.md), mỗi thành viên của công ty đã được [Galadriel](../G/Galadriel.md) tặng một món quà. Boromir đã được trao một chiếc thắt lưng vàng mà ông đã mang theo trong cuộc hành trình cho đến khi [Sự tan rã của Hiệp hội](Breaking_of_the_Fellowship.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trước khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) rời đi [Lothlórien](../L/Lothlórien.md), mỗi thành viên của nhóm đã được [Galadriel](../G/Galadriel.md) tặng một món quà. Boromir đã được trao một chiếc thắt lưng vàng mà ông đã mang theo trong cuộc hành trình cho đến khi [Sự tan rã của Hiệp hội](Breaking_of_the_Fellowship.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Khi [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md) đặt ông vào thuyền chôn cất, chiếc thắt lưng vàng lấp lánh quanh thắt lưng của ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md) và [Legolas](../L/Legolas.md) đặt ông vào thuyền chôn cất, chiếc thắt lưng vàng lấp lánh quanh eo ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Sau đó, [Faramir](../F/Faramir.md) một đêm nhìn thấy chiếc thuyền đi qua [Anduin](../A/Anduin.md) và Boromir nằm chết ở đó, và chiếc thắt lưng là thứ duy nhất anh không nhận ra. [Frodo](../F/Frodo_Baggins.md) nói với Faramir rằng chiếc thắt lưng đã được trao cho ông ta ở Lórien, và do đó xác định rõ ràng người đàn ông đã chết là Boromir.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau này, [Faramir](../F/Faramir.md) một đêm nọ nhìn thấy chiếc thuyền [Anduin](../A/Anduin.md) và Boromir nằm chết ở đó, chỉ còn chiếc thắt lưng là thứ duy nhất anh không nhận ra. [Frodo](../F/Frodo_Baggins.md) khai với Faramir rằng chiếc thắt lưng đã được trao cho ông ta vào Lórien nên xác định chính xác người chết là Boromir.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd><a href="Boromir.md" title="Boromir">Boromir</a> is the only member of the <a class="mw-redirect" href="../F/Fellowship.md" title="Fellowship">Fellowship</a> who does not receive a gift from <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>. He does wear a belt throughout the film, but it is made of leather, not gold. It is possible <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a> wished to convey the mistrust that Galadriel and the rest of the group felt toward him.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 

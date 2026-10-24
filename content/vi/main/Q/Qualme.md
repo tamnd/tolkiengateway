@@ -13,9 +13,9 @@ categories:
   - "Quenya nouns"
 ---
 
-**Qualme** là một thuật ngữ [Quenya](Quenya.md) đề cập đến "cái chết" tự nhiên của [Yêu tinh](../E/Elves.md).
+**Qualme** là thuật ngữ [Quenya](Quenya.md) đề cập đến "cái chết" tự nhiên của [Tiên tộc](../E/Elves.md).
 
-Mặc dù Yêu tinh không già đi nhưng sau hàng thiên niên kỷ trôi qua, cơ thể của họ đã khô héo và "qua đời" cùng với sự biến mất về thể xác.
+Mặc dù Tiên tộc không già đi, nhưng sau hàng thiên niên kỷ trôi qua, cơ thể của họ đã khô héo và "qua đời" cùng với sự biến mất về mặt thể xác.
 
 Nỗi băn khoăn có thể xảy ra một cách tự nhiên hoặc tự nguyện do sự mệt mỏi trong cuộc sống, do một khao khát sâu sắc.
 

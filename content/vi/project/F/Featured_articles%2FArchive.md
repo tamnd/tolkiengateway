@@ -34,8 +34,8 @@ images:
 - *Tolkien Google logo petition*<sup class="noprint" style="line-height: 0.4em;">[<a href="../M/Manual_of_Style.md#Redlinks" title="Tolkien Gateway:Manual of Style"><i>former link</i></a>]</sup> (27 tháng 4 năm 2006 - 29 tháng 5 năm 2006)
 - [Lừa đảo những chiếc nhẫn](../../main/F/Fraud_of_the_Rings.md) (29 tháng 5 năm 2006 - 28 tháng 6 năm 2006)
 - [Cuộc tìm kiếm vĩ đại](https://tolkiengateway.net/wiki/User:Ardamir/Essays/Entwives) (28 tháng 6 năm 2006 - 24 tháng 7 năm 2006)
-- [Comic-Con 2006](../../main/C/Comic-Con_2006.md) (24 tháng 7 năm 2006 - 21 tháng 9 năm 2006)
-- [The Children of Húrin](../../main/T/The_Children_of_Húrin.md) (21 tháng 9 năm 2006 - 1 tháng 6 năm 2008)
+- [Comic-Con 2006](../../main/C/Comic-Con_2006.md) (24 tháng 7 năm 2006 - 21 tháng Chín 2006)
+- [The Children of Húrin](../../main/T/The_Children_of_Húrin.md) (21 tháng Chín 2006 - 1 tháng 6 năm 2008)
 
 ## Đề cử thành công {#Successful_nominations}
 
@@ -54,7 +54,7 @@ images:
 
 <dl><dd>I <b>agree</b>. I&#39;m still not sold on the quality of it, as it still needs a lot of improvement. However it is about time for a new FA and Aragorn II is certainly one of our better ones. --<a href="https://tolkiengateway.net/wiki/User:Hyarion" title="User:Hyarion">Hyarion</a> 03:05, 1 June 2008 (EDT)</dd></dl>
 
-### [Vua phù thủy của Angmar](../../main/W/Witch-king.md) {#Witch-king_of_Angmar}
+### [Vua Phù thủy trong số Angmar](../../main/W/Witch-king.md) {#Witch-king_of_Angmar}
 
 **9 tháng 4 năm 2009 - 6 tháng 12 năm 2009**
 
@@ -70,7 +70,7 @@ images:
 
 <dl><dd><b>Agree</b>. I do think that this article is very well made because it is very well constructed. Also, even though it is a plethora of information it is well ordered. Overall it is a wonderful choice for the featured article.--<a class="new" href="https://tolkiengateway.net/w/index.php?title=User:High_King_Fingolfin&amp;action=edit&amp;redlink=1" title="User:High King Fingolfin (page does not exist)">High King Fingolfin</a> 8:25, 12 July 2008 (EDT)</dd></dl>
 
-### [Sự quyến rũ](../../main/G/Glamdring.md) {#Glamdring}
+### [Glamdring](../../main/G/Glamdring.md) {#Glamdring}
 
 **6 tháng 12 năm 2009 - 28 tháng 2 năm 2011**
 
@@ -137,11 +137,11 @@ Tôi muốn đề cử Thorin. Tôi nghĩ đây là một bài viết hoàn hả
 
 <dl><dd><b>Agree</b>. --<a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith"><span style="color:#2F4F4F"><b>Mith</b></span></a> <small>(<a href="https://tolkiengateway.net/wiki/User_talk:Mith" title="User talk:Mith"><span style="color:#696969"><b>Talk</b></span></a>/<a href="https://tolkiengateway.net/wiki/Special:Contributions/Mith" title="Special:Contributions/Mith"><span style="color:#708090">Contribs</span></a>/<a href="https://tolkiengateway.net/wiki/Special:Editcount/Mith/Edits" title="Special:Editcount/Mith/Edits"><span style="color:#778899">Edits</span></a>)</small> 02:01, 25 December 2018 (UTC)</dd></dl>
 
-### [Ngón tay](../../main/F/Fingon.md) {#Fingon}
+### [Fingon](../../main/F/Fingon.md) {#Fingon}
 
 **3 tháng 7 năm 2020 - 2 tháng 1 năm 2021**
 
-Một bài viết cung cấp lịch sử toàn diện về vị Vua tối cao này, được tham khảo đầy đủ. Sự phát triển của nhân vật được phác thảo đầy đủ, cũng như từ nguyên và phả hệ của nó. Nó đáp ứng tất cả mười tiêu chí được liệt kê ở trên. --<a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith"><span style="color:#2F4F4F"><b>Mith</b></span></a> <small>(<a href="https://tolkiengateway.net/wiki/User_talk:Mith" title="User talk:Mith"><span style="color:#696969"><b>Thảo luận</b></span></a>/<a href="https://tolkiengateway.net/wiki/Special:Contributions/Mith" title="Special:Contributions/Mith"><span style="color:#708090">Đóng góp</span></a>/<a href="https://tolkiengateway.net/wiki/Special:Editcount/Mith/Edits" title="Special:Editcount/Mith/Edits"><span style="color:#778899">Chỉnh sửa</span></a>)</small> 22:11, ngày 26 tháng 12 năm 2018 (UTC)
+Một bài viết cung cấp lịch sử toàn diện về Đại Vương này, được tham chiếu đầy đủ. Sự phát triển của nhân vật được phác thảo đầy đủ, cũng như từ nguyên và phả hệ của nó. Nó đáp ứng tất cả mười tiêu chí được liệt kê ở trên. --<a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith"><span style="color:#2F4F4F"><b>Mith</b></span></a> <small>(<a href="https://tolkiengateway.net/wiki/User_talk:Mith" title="User talk:Mith"><span style="color:#696969"><b>Thảo luận</b></span></a>/<a href="https://tolkiengateway.net/wiki/Special:Contributions/Mith" title="Special:Contributions/Mith"><span style="color:#708090">Đóng góp</span></a>/<a href="https://tolkiengateway.net/wiki/Special:Editcount/Mith/Edits" title="Special:Editcount/Mith/Edits"><span style="color:#778899">Chỉnh sửa</span></a>)</small> 22:11, ngày 26 tháng 12 năm 2018 (UTC)
 
 <dl><dd><b>Agree</b>. A very interesting character and because he is from the Silmarillion rather than the more well known books he is a an ideal choice that could draw a first time visitor into reading more of the wiki. --<a href="https://tolkiengateway.net/wiki/User:JR_Snow" title="User:JR Snow">JR Snow</a> 13:14, 7 June 2019 (UTC)</dd></dl>
 
@@ -176,7 +176,7 @@ Một bài viết kỹ lưỡng bao gồm cốt truyện, nhân vật, lịch s�
 
 **Đồng ý**: Tôi nghĩ sẽ thật tuyệt vời nếu đăng một bài viết về vũ khí, đặc biệt là loại vũ khí có lịch sử ban đầu như vậy. Bài viết rất hấp dẫn và được thực hiện tốt -Sindarinelf
 
-**Đồng ý**. Tôi nghĩ bài viết này được viết rất hay và sẽ rất tuyệt nếu giới thiệu một loại vũ khí, đặc biệt là loại vũ khí quan trọng như Gurthang. -[Ancalagon the Black](https://tolkiengateway.net/wiki/User:Ancalagon_the_Black) 17:40, ngày 4 tháng 10 năm 2020 (UTC)
+**Đồng ý**. Tôi nghĩ bài viết này được viết rất hay và sẽ rất tuyệt nếu giới thiệu một loại vũ khí, đặc biệt là một loại vũ khí quan trọng như Gurthang. -[Ancalagon phe Đen](https://tolkiengateway.net/wiki/User:Ancalagon_the_Black) 17:40, ngày 4 tháng 10 năm 2020 (UTC)
 
 **Đồng ý**. Tôi nghĩ việc giới thiệu một loại vũ khí là một ý tưởng tuyệt vời và đây là một thứ rất quan trọng trong truyền thuyết. Bài viết rõ ràng và mang tính giải trí. -Mithrandir
 
@@ -192,11 +192,11 @@ Bài viết rất rộng rãi với cấu trúc tốt và tất cả các tài l
 <dd>Agree. I quite like the Gondolin article. It&#39;s well sourced and detailed, but not excessively long. I&#39;d be happy to see it featured. --<a href="https://tolkiengateway.net/wiki/User:Grace18" title="User:Grace18">Grace18</a> 22:34, 14 April 2022 (UTC)</dd>
 <dd>Agree with all of the above. A really nice article with a good level of detail in the OVOTL section. --<a href="https://tolkiengateway.net/wiki/User:GondolinFan" title="User:GondolinFan">GondolinFan</a> (<a href="https://tolkiengateway.net/wiki/User_talk:GondolinFan" title="User talk:GondolinFan">talk</a>) 18:13, 29 October 2022 (UTC)</dd></dl>
 
-### [Số](../../main/N/Númenor.md) {#Númenor}
+### [Númenor](../../main/N/Númenor.md) {#Númenor}
 
 **23 tháng 6 năm 2023 - 2 tháng 1 năm 2024**
 
-Đây là một bài viết chất lượng được bất kỳ người hâm mộ Tolkien nào cũng biết đến, nhưng nó có thể thu hút sự quan tâm mới từ những người không phải là người hâm mộ đã xem Rings of Power. (trích từ *Ungoliant \[JR Snow\]* trong [Discord](../C/Chat.md))[Aenorean](https://tolkiengateway.net/wiki/User:Aenorean) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:Aenorean)) 16:52, ngày 21 tháng 6 năm 2023 (UTC)
+Đây là một bài viết chất lượng được bất kỳ người hâm mộ Tolkien nào biết đến nhưng nó có thể thu hút sự quan tâm mới từ những người không phải là người hâm mộ đã xem Những Chiếc Nhẫn Quyền Năng. (trích từ *Ungoliant \[JR Snow\]* trong [Discord](../C/Chat.md))[Aenorean](https://tolkiengateway.net/wiki/User:Aenorean) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:Aenorean)) 16:52, ngày 21 tháng 6 năm 2023 (UTC)
 
 - **Đồng ý**.--[LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:LorenzoCB)) 18:51, ngày 21 tháng 6 năm 2023 (UTC)
 - **Đồng ý** (duh) [JR Snow](https://tolkiengateway.net/wiki/User:JR_Snow) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:JR_Snow)) 20:14, ngày 21 tháng 6 năm 2023 (UTC)
@@ -207,12 +207,12 @@ Bài viết rất rộng rãi với cấu trúc tốt và tất cả các tài l
 
 **2 tháng 1 năm 2024 - 12 tháng 6 năm 2024**
 
-Tôi đang thực hiện một số công việc trên trang [Curufin](../../main/C/Curufin.md) và tôi nghĩ rằng tôi đã hoàn thành nó khá đầy đủ. Tôi muốn có được những suy nghĩ từ người khác mặc dù. [Oberiko](https://tolkiengateway.net/wiki/User:Oberiko) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:Oberiko)) 16:38, ngày 16 tháng 9 năm 2023 (UTC)
+Tôi đang đưa một số công việc vào trang [Curufin](../../main/C/Curufin.md) và tôi nghĩ rằng tôi đã hoàn thành nó khá đầy đủ. Tôi muốn có được những suy nghĩ từ người khác mặc dù. [Oberiko](https://tolkiengateway.net/wiki/User:Oberiko) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:Oberiko)) 16:38, 16 tháng Chín 2023 (UTC)
 
 - **Đồng ý**. Nó được thực hiện rất tốt. <a class="new" href="https://tolkiengateway.net/w/index.php?title=User:Fezzlewig&amp;action=edit&amp;redlink=1" title="User:Fezzlewig (page does not exist)">Fezzlewig</a> ([thảo luận](https://tolkiengateway.net/wiki/User_talk:Fezzlewig)) 16:49, ngày 14 tháng 10 năm 2023 (UTC)
 - **Đồng ý**. Cần một số chỉnh sửa, nhưng nó khá tốt. Ngoài ra tôi chọn nó để giữ cho MP nhất quán theo chủ đề. --[LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:LorenzoCB)) 11:35, ngày 16 tháng 12 năm 2023 (UTC)
 
-### [Đội mũ Hammerhand](../../main/H/Helm_Hammerhand.md) {#Helm_Hammerhand}
+### [Helm Hammerhand](../../main/H/Helm_Hammerhand.md) {#Helm_Hammerhand}
 
 **12 tháng 6 năm 2024 - Hiện tại**
 
@@ -226,9 +226,9 @@ Bài viết này đã được thêm vào như một bài viết nổi bật t�
 
 <dl><dd><b>Undecided</b> - although well-written, I think it needs to be better referenced as we should only show off the <i>very best</i> articles that TG has to offer. --<a href="https://tolkiengateway.net/wiki/User:Mith" title="User:Mith"><span style="color:#2F4F4F"><b>Mith</b></span></a> <small>(<a href="https://tolkiengateway.net/wiki/User_talk:Mith" title="User talk:Mith"><span style="color:#696969"><b>Talk</b></span></a>/<a href="https://tolkiengateway.net/wiki/Special:Contributions/Mith" title="Special:Contributions/Mith"><span style="color:#708090">Contribs</span></a>/<a href="https://tolkiengateway.net/wiki/Special:Editcount/Mith/Edits" title="Special:Editcount/Mith/Edits"><span style="color:#778899">Edits</span></a>)</small> 14:19, 24 September 2010 (UTC)</dd></dl>
 
-### [Người lùn](../../main/D/Dwarves.md) {#Dwarves}
+### [Người Lùn](../../main/D/Dwarves.md) {#Dwarves}
 
-Tôi nghĩ rằng họ không được ghi nhận đủ cũng như không được công nhận đầy đủ - họ là những chủng tộc bị lu mờ nhất trong các chủng tộc lớn trong huyền thoại của Tolkien.
+Tôi nghĩ họ không được đánh giá cao cũng như không được công nhận đầy đủ - họ là những chủng tộc bị lu mờ nhất trong danh sách huyền thoại của Tolkien.
 
 <dl><dd><b>Agree</b> - I don&#39;t know if the banner at the top of the article matters, so if not it has my full support. Otherwise I vote for another Dwarves-related article. -- <a href="https://tolkiengateway.net/wiki/User:Breragor" title="User:Breragor">Breragor</a></dd>
 <dd><b>Undecided</b> - As an article it needs some work, as is clear with the {{sources}} template at the top. However I agree that as a race they are often overlooked. --<small><span style="border: 1px solid #3380CC"><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn"><b><span style="background-color:White; color:#3380CC"> KingAragorn </span></b></a><a href="https://tolkiengateway.net/wiki/User_talk:KingAragorn" title="User talk:KingAragorn"><span style="background-color:#3380CC; color:white"> talk </span></a><a href="https://tolkiengateway.net/wiki/Special:Contributions/KingAragorn" title="Special:Contributions/KingAragorn"><span style="background-color:#3380CC; color:white"> contribs </span></a><a href="https://tolkiengateway.net/wiki/Special:Editcount/KingAragorn" title="Special:Editcount/KingAragorn"><span style="background-color:#3380CC; color:white"> edits </span></a><a href="https://tolkiengateway.net/wiki/Special:EmailUser/KingAragorn" title="Special:EmailUser/KingAragorn"><span style="background-color:#3380CC; color:white"> email </span></a></span></small> 03:32, 22 January 2011 (UTC)</dd>
@@ -236,7 +236,7 @@ Tôi nghĩ rằng họ không được ghi nhận đủ cũng như không đư�
 <dd><b>Agree</b> - I have been personally working on compiling all the information I can find on Dwarves in Tolkiens books, even if it conflicts with itself. Once it is compiled for my personal use I will copy it to this website. -- TolkienScholar91  11:08, 24 January 2011 (UTC)</dd>
 <dd><b>Disagree</b> - See Mith. -- <a href="https://tolkiengateway.net/wiki/User:Ederchil" title="User:Ederchil"><span style="color:#008000"><b>Ederchil</b></span></a> <sup>(<a href="https://tolkiengateway.net/wiki/User_talk:Ederchil" title="User talk:Ederchil"><span style="color:#191970"><b>Talk</b></span></a>/<a href="https://tolkiengateway.net/wiki/Special:Contributions/Ederchil" title="Special:Contributions/Ederchil"><span style="color:#191970">Contribs</span></a>/<a href="https://tolkiengateway.net/wiki/Special:Editcount/Ederchil/Edits" title="Special:Editcount/Ederchil/Edits"><span style="color:#191970">Edits</span></a>)</sup> 20:03, 27 February 2011 (UTC)</dd></dl>
 
-### [Số](../../main/N/Númenor.md) {#Númenor_2}
+### [Númenor](../../main/N/Númenor.md) {#Númenor_2}
 
 Đã hơn một tháng rồi (và có những phiếu "không đồng ý" ở đó ^^) nên tôi nghĩ đã đến lúc phải có một đề cử mới; Númenor.
 

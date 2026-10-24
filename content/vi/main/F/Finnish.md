@@ -24,11 +24,11 @@ images:
 
 **Tiếng Phần Lan** là một ngôn ngữ Finnic thuộc ngữ hệ Uralic ở Bắc Âu và là một trong số ít ngôn ngữ phi Ấn-Âu được sử dụng ở Châu Âu. Nó được nói chủ yếu ở Phần Lan với nhiều người nói ở Thụy Điển, Na Uy và Nga. Các ngôn ngữ Finnic khác bao gồm tiếng Estonia, tiếng Veps và tiếng Karelian.
 
-Ngữ âm của tiếng Phần Lan gây phấn khích [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) mà anh ví như "những chai rượu tuyệt vời có hương vị chưa từng được nếm trước đây" khiến anh "khá say".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ngữ âm của tiếng Phần Lan kích thích [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) mà anh ví như "những chai rượu tuyệt vời có hương vị chưa từng được nếm trước đây" khiến anh "khá say".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nó trở thành nguồn cảm hứng cho ngôn ngữ [Elvish](../E/Elvish.md) mà Tolkien đặt tên là [Qenya](../Q/Qenya.md) (sau này là [Quenya](../Q/Quenya.md)), một ngôn ngữ được thiết kế để mô phỏng vẻ đẹp gợi lên bởi tiếng Phần Lan. Ngoài lĩnh vực âm vị học, một phần nhỏ từ vựng Quenya có lẽ được lấy cảm hứng trực tiếp từ các từ tiếng Phần Lan, xem. Q. <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laps%C3%AB&amp;action=edit&amp;redlink=1" title="Lapsë (page does not exist)">lapsë</a></i> "em yêu",<sup id="cite_ref-ParfEdhellen_2-0" class="reference"><a href="#cite_note-ParfEdhellen-2">[2]</a></sup> có lẽ từ F. <i><a class="extiw" href="http://en.wiktionary.org/wiki/lapsi#Finnish" title="wiktionary:lapsi">lapsi</a></i> "đứa trẻ".
+Nó đã trở thành nguồn cảm hứng cho ngôn ngữ [Elvish](../E/Elvish.md) được Tolkien đặt tên là [Qenya](../Q/Qenya.md) (sau này là [Quenya](../Q/Quenya.md)), một ngôn ngữ được thiết kế để mô phỏng vẻ đẹp mà tiếng Phần Lan gợi lên. Ngoài lĩnh vực âm vị học, một phần nhỏ từ vựng Quenya có lẽ được lấy cảm hứng trực tiếp từ các từ tiếng Phần Lan, xem. Q. <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Laps%C3%AB&amp;action=edit&amp;redlink=1" title="Lapsë (page does not exist)">lapsë</a></i> "em yêu",<sup id="cite_ref-ParfEdhellen_2-0" class="reference"><a href="#cite_note-ParfEdhellen-2">[2]</a></sup> có lẽ từ F. <i><a class="extiw" href="http://en.wiktionary.org/wiki/lapsi#Finnish" title="wiktionary:lapsi">lapsi</a></i> "đứa trẻ".
 
-Tolkien đã sử dụng tiếng Phần Lan chính hãng cho tên của [Paksu](../P/Paksu.md) và [Valkotukka](../V/Valkotukka.md), hai chú gấu Bắc Cực trong *[The Father Christmas Letters](../T/The_Father_Christmas_Letters.md)*. <span></span>
+Tolkien đã sử dụng tiếng Phần Lan chính hãng cho tên của [Paksu](../P/Paksu.md) và [Valkotukka](../V/Valkotukka.md), hai chú gấu Bắc Cực ở *[The Father Christmas Letters](../T/The_Father_Christmas_Letters.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 
@@ -43,5 +43,5 @@ Tolkien đã sử dụng tiếng Phần Lan chính hãng cho tên của [Paksu](
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Finnish" title="wikipedia:Finnish">Tiếng Phần Lan</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="http://glaemscrafu.jrrvf.com/english/finnish.html" rel="noreferrer noopener" target="_blank">Văn bản và mẫu âm thanh</a> tại [Glǽmscrafu](../G/Glǽmscrafu.md)
-- <a class="external text" href="http://www.sci.fi/~alboin/finn_que.htm" rel="noreferrer noopener" target="_blank">Có phải Yêu tinh cấp cao Finno-Ugric không?</a>
-- <a class="external text" href="http://www.sci.fi/~alboin/finnquelinks.htm" rel="noreferrer noopener" target="_blank">Mối quan hệ của Quenya với Phần Lan</a>
+- <a class="external text" href="http://www.sci.fi/~alboin/finn_que.htm" rel="noreferrer noopener" target="_blank">Có phải High Elves Finno-Ugric?</a>
+Mối quan hệ của - <a class="external text" href="http://www.sci.fi/~alboin/finnquelinks.htm" rel="noreferrer noopener" target="_blank">Quenya với Phần Lan</a>

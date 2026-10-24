@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Song of Eärendil"
 ---
 
-Chuyển hướng đến [Bài hát của Eärendil](Song_of_Eärendil.md).
+Chuyển hướng tới [Bài hát của Eärendil](Song_of_Eärendil.md).

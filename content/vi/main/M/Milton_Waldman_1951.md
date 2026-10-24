@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Letter to Milton Waldman"
 ---
 
-Chuyển hướng tới [Thư gửi Milton Waldman](../L/Letter_to_Milton_Waldman.md).
+Chuyển hướng đến [Thư gửi Milton Waldman](../L/Letter_to_Milton_Waldman.md).

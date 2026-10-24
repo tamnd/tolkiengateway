@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Tolrone"
 ---
 
-- Tolrone đã vui lòng cấp cho họ quyền sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Tolrone.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Tolrone đã vui lòng cấp cho họ quyền sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Tolrone.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 12 tháng 8 năm 2020
 - Người dùng đã xin phép qua email: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

@@ -13,13 +13,13 @@ categories:
   - "History of the Shire"
 ---
 
-**Những ngày thân yêu** là thời kỳ nạn đói ở [The Shire](../T/The_Shire.md) sau [Mùa đông dài](../L/Long_Winter.md),<sup id="cite_ref-Hobbits_1-0" class="reference"><a href="#cite_note-Hobbits-1">[1]</a></sup> một mùa đông lạnh giá (kéo dài từ [Tháng 11](../N/November.md) [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md) đến tháng 3 [2759](../T/Third_Age_2759.md))<sup id="cite_ref-Eorl_2-0" class="reference"><a href="#cite_note-Eorl-2">[2]</a></sup> khiến hàng nghìn [Người Hobbit](../H/Hobbits.md) thiệt mạng. Nạn đói tiếp theo kéo dài đến năm [T.A.](../T/Third_Age.md) [2760](../T/Third_Age_2760.md).
+**Những ngày thân yêu** là thời kỳ nạn đói ở [The Shire](../T/The_Shire.md) sau [Mùa Đông Dài](../L/Long_Winter.md),<sup id="cite_ref-Hobbits_1-0" class="reference"><a href="#cite_note-Hobbits-1">[1]</a></sup> một mùa đông lạnh giá (kéo dài từ [tháng 11](../N/November.md) [T.A.](../T/Third_Age.md) [2758](../T/Third_Age_2758.md) đến tháng 3 [2759](../T/Third_Age_2759.md))<sup id="cite_ref-Eorl_2-0" class="reference"><a href="#cite_note-Eorl-2">[2]</a></sup> khiến hàng ngàn [Hobbit](../H/Hobbits.md) chết. Nạn đói tiếp theo kéo dài đến năm [T.A.](../T/Third_Age.md) [2760](../T/Third_Age_2760.md).
 
 ## Xem thêm {#See_also}
 
-- [Mùa đông thu](<../F/Fell_Winter_(Third_Age).md>) ([T.A.](../T/Third_Age.md) [2911](../T/Third_Age_2911.md)-[2912](../T/Third_Age_2912.md))
-- [Đại dịch](../G/Great_Plague.md) ([T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md))
-- [Mùa đông thu](<../F/Fell_Winter_(First_Age).md>) ([F.A.](../F/First_Age.md) [495](../F/First_Age_495.md)-[496](../F/First_Age_496.md))
+- [Mùa Đông Khắc Nghiệt](<../F/Fell_Winter_(Third_Age).md>) ([T.A.](../T/Third_Age.md) [2911](../T/Third_Age_2911.md)-[2912](../T/Third_Age_2912.md))
+- [Đại Dịch](../G/Great_Plague.md) ([T.A.](../T/Third_Age.md) [1636](../T/Third_Age_1636.md))
+- [Mùa Đông Khắc Nghiệt](<../F/Fell_Winter_(First_Age).md>) ([F.A.](../F/First_Age.md) [495](../F/First_Age_495.md)-[496](../F/First_Age_496.md))
 
 <span></span>
 

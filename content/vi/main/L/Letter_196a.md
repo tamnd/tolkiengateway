@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trước khi được xuất bản trong Phiên bản mở rộng của Những bức thư J.R.R. Tolkien trích đoạn đã được phát hành trong [*The J.R.R. Tolkien Companion and Guide: Reader's Guide*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 468). Các đoạn trích khác cũng xuất hiện trong bản ghi lại bài giảng của Michael Tolkien tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_St_Andrews" title="wikipedia:University of St Andrews">Đại học St Andrews</a> (phần 15, 28).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trước khi được xuất bản trong Phiên bản mở rộng của Những bức thư J.R.R. Tolkien trích đoạn đã được phát hành trong [*The J.R.R. Tolkien Companion and Guide: Reader's Guide*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 468). Các đoạn trích khác cũng xuất hiện trong bản ghi bài giảng của Michael Tolkien tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_St_Andrews" title="wikipedia:University of St Andrews">Đại học St Andrews</a> (phần 15, 28).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Bản gốc của bức thư này được lưu giữ tại Thư viện Anh; MS Thêm. 71657.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

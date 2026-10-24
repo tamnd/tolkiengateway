@@ -13,9 +13,9 @@ categories:
   - "Rivers of Beleriand"
 ---
 
-**Thorn Sir** ("Dòng đại bàng") là một con sông theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Nó nằm bên dưới [Cristhorn](../C/Cirith_Thoronath.md), dưới đáy một hẻm núi ở [Dãy núi bao quanh](../E/Encircling_Mountains.md) nơi mà [Glorfindel](../G/Glorfindel.md) và [balrog](../B/Balrogs.md) rơi xuống. Sau trận chiến này, dòng sông bị nhuộm đen bởi máu của balrog trong nhiều ngày.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tên cùng nguồn gốc [Qenya](../Q/Qenya.md) của nó là <i><b>Eäsindi</b></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Thorn Sir** ("Dòng đại bàng") là một con sông theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Nó nằm bên dưới [Cristhorn](../C/Cirith_Thoronath.md), dưới đáy một hẻm núi trong [Vòng vây Dãy Núi](../E/Encircling_Mountains.md) nơi [Glorfindel](../G/Glorfindel.md) và [balrog](../B/Balrogs.md) rơi vào. Sau trận chiến này, dòng sông bị nhuộm đen bởi máu của balrog trong nhiều ngày.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Qenya](../Q/Qenya.md) tên cùng nguồn gốc của nó là <i><b>Eäsindi</b></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Con sông này sau đó được nhắc đến với cái tên **Thornsir** trong [bản vẽ Eärendel](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md) chưa hoàn chỉnh,<sup id="cite_ref-LB_3-0" class="reference"><a href="#cite_note-LB-3">[3]</a></sup> nhưng không được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sử dụng trong bất kỳ văn bản nào khác. <span></span>
+Con sông này sau đó được nhắc đến với cái tên **Thornsir** trong [bản vẽ chưa hoàn chỉnh của Eärendel](../F/Fragment_of_an_alliterative_Lay_of_Eärendel.md),<sup id="cite_ref-LB_3-0" class="reference"><a href="#cite_note-LB-3">[3]</a></sup> nhưng không được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sử dụng trong bất kỳ văn bản nào khác. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

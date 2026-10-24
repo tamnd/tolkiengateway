@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second battle of Dagorlad"
 ---
 
-Chuyển hướng đến [Trận chiến Dagorlad lần thứ hai](Second_battle_of_Dagorlad.md).
+Chuyển hướng đến [Trận chiến thứ hai của Dagorlad](Second_battle_of_Dagorlad.md).

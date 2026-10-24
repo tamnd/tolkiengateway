@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Pinho, Juliana"
 ---
 
-- Juliana Pinho đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Juliana_Pinho.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Juliana Pinho đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Juliana_Pinho.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 24 tháng 7 năm 2015
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

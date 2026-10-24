@@ -34,11 +34,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đang trả lời một bức thư từ con trai ông Michael "Mick" Tolkien, hiện mười sáu tuổi và muốn thay đổi trọng tâm nghiên cứu của mình từ tiếng Hy Lạp sang lịch sử thời trung cổ và hiện đại.
+Tolkien đang trả lời thư của con trai ông Michael "Mick" Tolkien, hiện mười sáu tuổi và muốn thay đổi trọng tâm nghiên cứu của mình từ tiếng Hy Lạp sang lịch sử thời trung cổ và hiện đại.
 
-[Tolkien](../J/JRR_Tolkien.md) nói rằng ông muốn nói chuyện với Welch và Bostock trước khi đưa ra quyết định cuối cùng. Tolkien cảnh báo Michael rằng anh "sẽ vĩnh viễn hối hận về sau" nếu không theo đuổi việc học tiếng Hy Lạp ngay bây giờ và đề nghị đợi một lát trước khi quyết định.
+[Tolkien](../J/JRR_Tolkien.md) nói rằng ông muốn nói chuyện với Welch và Bostock trước khi đưa ra quyết định cuối cùng. Tolkien cảnh báo Michael rằng ông "sẽ vĩnh viễn hối hận về sau" nếu không theo đuổi việc học tiếng Hy Lạp ngay bây giờ và đề nghị đợi một lát trước khi quyết định.
 
-Ông cũng hỏi Michael những cuốn sách nào từ sau năm 410 sau Công Nguyên mà ông đang đọc, vì ông có thể giới thiệu nhiều cuốn khác nếu quan tâm.
+Ông cũng hỏi Michael những cuốn sách nào ông đang đọc từ sau năm 410 sau Công nguyên, vì ông có thể giới thiệu nhiều cuốn khác nếu quan tâm.
 
 Ông kết thúc bức thư bằng một gợi ý về cách cải thiện sức mạnh của cú trái tay trong <a class="extiw" href="http://en.wikipedia.org/wiki/Squash_(sport)" title="wikipedia:Squash (sport)">bóng quần</a>. <br>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mering Stream"
 ---
 
-Chuyển hướng tới [Dòng Mering](../M/Mering_Stream.md).
+Chuyển hướng đến [Mering Stream](../M/Mering_Stream.md).

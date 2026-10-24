@@ -12,9 +12,9 @@ categories:
   - "Websites"
 ---
 
-**Dự án Chúa tể của những chiếc nhẫn** là một trang web nhằm mục đích 'đặt mọi nhân vật trong vũ trụ hư cấu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào một cây phả hệ'.<sup id="cite_ref-LOTRPAbout_1-0" class="reference"><a href="#cite_note-LOTRPAbout-1">[1]</a></sup>
+**The Lord of the Rings Dự án** là một trang web nhằm mục đích 'đặt mọi nhân vật trong vũ trụ hư cấu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào một cây phả hệ'.<sup id="cite_ref-LOTRPAbout_1-0" class="reference"><a href="#cite_note-LOTRPAbout-1">[1]</a></sup>
 
-Ngoài cây gia phả, Dự án Chúa tể những chiếc nhẫn còn có dòng thời gian về các sự kiện quan trọng trong lịch sử của [Trung địa](../M/Middle-earth.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> bản đồ tương tác của Trung địa vào [Thời đại thứ ba](Third_Age.md) và nhiều số liệu thống kê chi tiết khác nhau.
+Ngoài cây phả hệ, Dự án Chúa tể những chiếc nhẫn còn có dòng thời gian về các sự kiện quan trọng trong lịch sử của [Trung Địa](../M/Middle-earth.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> bản đồ tương tác của Trung Địa trong [Kỷ Đệ Tam](Third_Age.md) và nhiều số liệu thống kê chi tiết khác nhau.
 
 Nó được thành lập bởi sinh viên Kỹ thuật Hóa học [Emil Johansson](../E/Emil_Johansson.md).<sup id="cite_ref-LOTRPAbout_1-1" class="reference"><a href="#cite_note-LOTRPAbout-1">[1]</a></sup>
 
@@ -24,10 +24,10 @@ Nó được thành lập bởi sinh viên Kỹ thuật Hóa học [Emil Johanss
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://lotrproject.com/" rel="noreferrer noopener" target="_blank">Trang web của Dự án Chúa tể những chiếc nhẫn</a>
-- <a class="external text" href="http://www.facebook.com/lotrproject" rel="noreferrer noopener" target="_blank">Trang Facebook của Dự án Chúa tể những chiếc nhẫn</a>
-- <a class="external text" href="http://twitter.com/lotrproject" rel="noreferrer noopener" target="_blank">Nguồn cấp dữ liệu Twitter của Dự án Chúa tể những chiếc nhẫn</a>
-- <a class="external text" href="http://lotrproject.tumblr.com/" rel="noreferrer noopener" target="_blank">Tài khoản Tumblr của Dự án Chúa tể những chiếc nhẫn</a>
+- <a class="external text" href="http://lotrproject.com/" rel="noreferrer noopener" target="_blank">The Lord of the Rings Trang web dự án</a>
+- <a class="external text" href="http://www.facebook.com/lotrproject" rel="noreferrer noopener" target="_blank">The Lord of the Rings Trang Facebook của dự án</a>
+- <a class="external text" href="http://twitter.com/lotrproject" rel="noreferrer noopener" target="_blank">The Lord of the Rings Nguồn cấp dữ liệu Twitter của dự án</a>
+- <a class="external text" href="http://lotrproject.tumblr.com/" rel="noreferrer noopener" target="_blank">The Lord of the Rings Tài khoản Tumblr của dự án</a>
 
 <span></span>
 

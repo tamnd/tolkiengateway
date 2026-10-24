@@ -73,4 +73,4 @@ Sự kiện xảy ra vào ngày 16 tháng 6
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Elrohir](../E/Elrohir.md) và [Elladan](../E/Elladan.md), cùng với [Arwen](../A/Arwen.md), khởi hành đến [Gondor](../G/Gondor.md).
+    - [Elrohir](../E/Elrohir.md) và [Elladan](../E/Elladan.md), với [Arwen](../A/Arwen.md), khởi hành cho [Gondor](../G/Gondor.md).

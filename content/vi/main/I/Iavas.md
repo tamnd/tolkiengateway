@@ -26,11 +26,11 @@ langlinks:
     url: "https://kontu.wiki/Iavas"
 ---
 
-**Iavas** là tên [Sindarin](../S/Sindarin.md) để chỉ mùa thu. Đây cũng là tên của mùa thứ ba trong [Lịch của Imladris](../R/Reckoning_of_Rivendell.md); 54 ngày rơi vào khoảng từ [ngày 10 tháng 8](../_/10_August.md) đến [ngày 3 tháng 10](../_/3_October.md) trong [Lịch Quận](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Iavas** là tên [Sindarin](../S/Sindarin.md) chỉ mùa thu. Đây cũng là tên của mùa thứ ba trong [Lịch của Imladris](../R/Reckoning_of_Rivendell.md); 54 ngày rơi vào khoảng thời gian từ [10 tháng 8](../_/10_August.md) đến [3 tháng 10](../_/3_October.md) vào [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này có thể có một từ tiếng Sindarin để chỉ trái cây cộng với phần đuôi trừu tượng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-as&amp;action=edit&amp;redlink=1" title="-as (page does not exist)">-as</a></i>.
+Từ này có thể chứa Sindarin từ chỉ trái cây cộng với phần kết thúc trừu tượng <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-as&amp;action=edit&amp;redlink=1" title="-as (page does not exist)">-as</a></i>.
 
 Từ thực tế chỉ trái cây chưa được biết nhưng rất có thể đó là \**iaf* (cf. Q. <i><a class="mw-redirect" href="../Y/Yáve.md" title="Yáve">yáve</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Yava&amp;action=edit&amp;redlink=1" title="Yava (page does not exist)">yava</a></i>)
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Michael D.C. Drout"
 ---
 
-Chuyển hướng tới [Michael D.C. Drout](Michael_D.C._Drout.md).
+Chuyển hướng đến [Michael D.C. Drout](Michael_D.C._Drout.md).

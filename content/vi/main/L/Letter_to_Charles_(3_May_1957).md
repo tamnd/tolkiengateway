@@ -22,7 +22,7 @@ images:
 
 Vào [3 tháng 5](../_/3_May.md) [1957](../_/1957.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết một lá thư cho **Charles Blackwood**.
 
-- **Chủ đề:** Ngôn ngữ học của người lùn.
+- **Chủ đề:** Người lùn ngôn ngữ học.
 - **Xuất bản:** Không có. Xuất hiện trong một tập của <a class="extiw" href="http://en.wikipedia.org/wiki/Antiques_Roadshow" title="wikipedia:Antiques Roadshow">Antiques Roadshow</a> phát sóng năm 2021.
 
 ## Lịch sử {#History}

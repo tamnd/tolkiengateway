@@ -17,7 +17,7 @@ images:
 **Ragnir** có thể đề cập đến:
 
 - **[Ragnir (ngoài vòng pháp luật)](<Ragnir_(outlaw).md>)**, bạn đồng hành của [Asgon](../A/Asgon.md) và là tín đồ của [Húrin](../H/Húrin.md)
-- **[Ragnir (người hầu)](<Ragnir_(servant).md>)**, người hầu mù của [Morwen](../M/Morwen.md) ở nhà [Húrin](../H/Húrin.md) ở [Dor-lómin](../D/Dor-lómin.md)
+- **[Ragnir (người hầu)](<Ragnir_(servant).md>)**, người hầu mù của [Morwen](../M/Morwen.md) tại nhà của [Húrin](../H/Húrin.md) ở [Dor-lómin](../D/Dor-lómin.md)
 
 <hr style="margin-top:15px;"/>
 

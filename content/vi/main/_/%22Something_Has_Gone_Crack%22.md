@@ -62,34 +62,34 @@ infobox:
 <dl><dt>Section I</dt>
 <dd>The Conduct of War: Reading the Great War in Middle-earth&#39;s Wars</dd></dl>
 
-- "Một đường cong học tập khó khăn: [Tolkien](../J/J.R.R._Tolkien.md) và Quân đội Anh trên sông Somme" của [Tom Shippey](../T/Tom_Shippey.md) và John Bourne
-- "Những sai lầm chiến lược trong các trận đánh lớn thời kỳ thứ nhất: Bình luận của Tolkien về Thế chiến thứ nhất" của Glenn E. Peterson
-- "Cuộc đại chiến ở [Trung địa](../M/Middle-earth.md) – hoặc: Nơi tìm thấy chiến tranh hiện đại ở *The Lord of the Rings*" của Annika Röttinger
+- "Một đường cong học tập dốc: [Tolkien](../J/J.R.R._Tolkien.md) và Quân đội Anh trên Somme" của [Tom Shippey](../T/Tom_Shippey.md) và John Bourne
+- "Những sai lầm chiến lược trong các trận đánh lớn Kỷ Đệ Nhất: Bình luận của Tolkien về Thế chiến thứ nhất" của Glenn E. Peterson
+- "Cuộc chiến vĩ đại ở [Trung Địa](../M/Middle-earth.md) – hoặc: Nơi tìm thấy chiến tranh hiện đại ở *The Lord of the Rings*" của Annika Röttinger
 - "Các khía cạnh của chiến tranh tổng lực trong *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*" của Tal Tovy
 
 <dl><dt>Section II</dt>
 <dd>Biography: The Personal Becomes Art</dd></dl>
 
 - "Những đường đứt gãy bên dưới vết nứt" của John Rosegrant
-- "Tolkien ở Đông Yorkshire, 1917-18: Trảng Hemlock, Hai tòa tháp, Ngôi nhà chữa bệnh và một ngọn hải đăng" của Michael Flowers
+- "Tolkien ở phương Đông Yorkshire, 1917-18: A Hemlock Glade, Hai tòa tháp, Ngôi nhà chữa bệnh và một ngọn hải đăng" của Michael Flowers
 - "Hai nhà thơ trong chiến tranh: J.R.R. Tolkien và Ernst Jünger trong trận chiến Somme, một cách tiếp cận ký hiệu học" của Wilhelm Kuehs
 
 <dl><dt>Section III</dt>
 <dd>Roots of Major Themes in The Legendarium in the Great War</dd></dl>
 
-- "Revenants and Angels: Tolkien, Machen, and Mons" của [John Garth](../J/John_Garth.md)
+- "Revenants và Angels: Tolkien, Machen, và Mons" của [John Garth](../J/John_Garth.md)
 - "'Lo lắng vì im lặng': Một số cộng hưởng có thể có của căng thẳng liên quan đến chiến đấu trong *The Lord of the Rings*" của [Łukasz Neubauer](Łukasz_Neubauer.md)
-- "Tolkien Underground: 'Cuộc chiến Troglodyte' trong *The Hobbit* và *The Lord of the Rings*" của Victoria Holtz Wodzak
+- "Tolkien Dưới lòng đất: 'Cuộc chiến Troglodyte' trong *The Hobbit* và *The Lord of the Rings*" của Victoria Holtz Wodzak
 - "Kể lại cuộc gặp gỡ bị bỏ lỡ với sự mất mát của một thế giới: *The Lord of the Rings*' Lời chứng cho hệ sinh thái hiện đại" của Molly Volanth Hall
-- "Xác thân trong chiến tranh: Căng thẳng thời Trung cổ và hiện đại trong 'The Homecoming'" của Anna Smol
+- "Thi thể trong chiến tranh: Căng thẳng thời Trung cổ và hiện đại trong 'The Homecoming'" của Anna Smol
 
 <dl><dt>Section IV</dt>
 <dd>Alterity: Race, Class, Gender, and Sexuality in War</dd></dl>
 
-- "Những thiên thần chăm sóc và những ngôi nhà chữa lành trong Thế chiến thứ nhất: Ảnh hưởng có thể có của họ đối với *The Lord of the Rings*" của Tolkien" của Lynn Schlesinger
-- "Những người hùng chiến tranh: Tác động của giới tính và chiến tranh trong tác phẩm J.R.R. Tolkien" của Felicity Gilbert
-- "Những phản ánh đương đại về chiến tranh: Mối quan hệ người lính-đầy tớ trong Chúa tể của những chiếc nhẫn và Tu viện Downton" của Alicia Fox-Lenz
-- "'No Englander May Hinder Me': Éowyn the Highland Pipe Major và những điểm nổi bật khác về nhận thức của Tolkien về sự phân chia giới tính, giai cấp và sắc tộc trong thời chiến" của Giovanni Costabile
+- "Những thiên thần chăm sóc và những ngôi nhà chữa lành trong Thế chiến thứ nhất: Ảnh hưởng có thể có của họ đối với Tolkien *The Lord of the Rings*" của Lynn Schlesinger
+- "Sức mạnh Con Người của chiến tranh: Tác động của giới tính và chiến tranh trong công việc của J.R.R. Tolkien" của Felicity Gilbert
+- "Những phản ánh đương đại về chiến tranh: Mối quan hệ người lính-đầy tớ trong The Lord of the Rings và Tu viện Downton" của Alicia Fox-Lenz
+- "'No Englander May Hinder Me': Éowyn Highland Pipe Major và những điểm nổi bật khác về nhận thức của Tolkien về sự phân chia giới tính, giai cấp và sắc tộc trong thời chiến" của Giovanni Costabile
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

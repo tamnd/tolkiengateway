@@ -18,7 +18,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-*Ramdal* là [Sindarin](../S/Sindarin.md) có nghĩa là "Nơi cuối của bức tường", bao gồm *[ram](Ram.md)* ("bức tường") + *[dal](../T/Tal.md)* ("kết thúc").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Ramdal* là [Sindarin](../S/Sindarin.md) nghĩa là "Nơi cuối của bức tường", bao gồm *[ram](Ram.md)* ("bức tường") + *[dal](../T/Tal.md)* ("kết thúc").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Tên cũng được đánh vần là *Rhamdal*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

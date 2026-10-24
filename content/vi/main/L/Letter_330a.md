@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết thư cho con trai mình [Michael](../M/Michael_Tolkien.md) bày tỏ sự thất vọng vì không có thời gian để viết, đồng thời thừa nhận rằng mặc dù một số tác phẩm chưa hoàn thành có tiềm năng đáng kể nhưng ông được khuyên không nên căng thẳng về nó. Ông đề cập rằng việc xuất bản những tác phẩm này có thể dẫn đến sự hủy hoại tài chính do thu nhập của ông bị đánh thuế cao.
+Tolkien viết cho con trai [Michael](../M/Michael_Tolkien.md) bày tỏ sự thất vọng vì không có thời gian để viết, đồng thời thừa nhận rằng mặc dù một số tác phẩm chưa hoàn thành có tiềm năng đáng kể nhưng ông được khuyên không nên căng thẳng về nó. Ông đề cập rằng việc xuất bản những tác phẩm này có thể dẫn đến sự hủy hoại tài chính do thu nhập của ông bị đánh thuế cao.
 
-Tolkien cũng thảo luận về tình trạng bản quyền phim đối với các tác phẩm của ông đã được [United Artists](../U/United_Artists.md) mua. Ông giải thích rằng mặc dù công ty vẫn có nghĩa vụ thanh toán trả góp cho các quyền này nhưng hiện tại họ không thể tài trợ cho việc sản xuất một bộ phim phù hợp với khoản đầu tư của họ. Ông lưu ý rằng United Artists còn khoảng 14 năm để sản xuất một bộ phim trước khi quyền của họ hết hạn, nhưng ông cảm thấy nhẹ nhõm vì không có triển vọng ngay lập tức về việc một bộ phim sẽ được thực hiện. <br>
+Tolkien cũng thảo luận về tình trạng bản quyền phim đối với các tác phẩm của anh đã được [United Artists](../U/United_Artists.md) mua. Ông giải thích rằng mặc dù công ty vẫn có nghĩa vụ thanh toán trả góp cho các quyền này nhưng hiện tại họ không thể tài trợ cho việc sản xuất một bộ phim phù hợp với khoản đầu tư của họ. Ông lưu ý rằng United Artists còn khoảng 14 năm để sản xuất một bộ phim trước khi quyền của họ hết hạn, nhưng ông cảm thấy nhẹ nhõm vì không có triển vọng ngay lập tức về việc một bộ phim sẽ được thực hiện. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

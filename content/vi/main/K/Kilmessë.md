@@ -13,13 +13,13 @@ categories:
   - "Quenya nouns"
 ---
 
-**Kilmessë**, [Quenya](../Q/Quenya.md) nghĩa là "tên tự", là [tên](../E/Essë.md) mà một số [Yêu tinh](../E/Elves.md) bị lưu đày tự đặt cho mình như một cách ngụy trang hoặc để ám chỉ hành động hoặc lịch sử cá nhân của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Kilmessë**, [Quenya](../Q/Quenya.md) nghĩa là "tên tự", là một [tên](../E/Essë.md) mà một số [Tiên tộc](../E/Elves.md) bị lưu đày tự đặt cho mình như một cách ngụy trang, hoặc để ám chỉ những việc làm hoặc lịch sử cá nhân của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ở thời kỳ đầu, việc "đến tuổi" của Yêu tinh khi đạt đến độ trưởng thành về thể chất (quantolië), là một nghi lễ, tại đó essekilmë hay 'tên được chọn' cá nhân của họ được công bố.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ở những độ tuổi đầu tiên, "sự trưởng thành" của một Tiên khi đạt đến độ trưởng thành về thể chất (quantolië), là một nghi lễ, tại đó essekilmë hay 'tên được chọn' cá nhân của họ được công bố.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một tài khoản trong "[Luật pháp và phong tục giữa các Eldar](../L/Laws_and_Customs_Among_the_Eldar~68859.md)" ở *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, kilmessë là cái tên được chọn bởi một đứa trẻ Yêu tinh khi bà hoặc ông có khả năng *lámatyáve*, tức là khi họ thông thạo tiếng mẹ đẻ của mình và cảm thấy thích thú với âm thanh và hình thức của từ. Đó là tên riêng, chỉ được sử dụng bởi các thành viên trong gia đình và bạn bè thân thiết và phản ánh tính cách hoặc tài năng của trẻ. Nó được công bố trong một buổi lễ mang tên *Essecilmë* (chọn tên).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong một tài khoản trong "[Luật và Phong tục trong số Eldar](../L/Laws_and_Customs_Among_the_Eldar~68859.md)" ở *[Morgoth's Ring](../M/Morgoth's_Ring.md)*, kilmessë là tên được chọn bởi một đứa trẻ Tiên khi bà hoặc ông có khả năng *lámatyáve*, tức là khi chúng thông thạo tiếng mẹ đẻ và cảm thấy thích thú với các âm thanh và hình thức của từ. Đó là tên riêng, chỉ được sử dụng bởi các thành viên trong gia đình và bạn bè thân thiết và phản ánh tính cách hoặc tài năng của trẻ. Nó được công bố trong một buổi lễ mang tên *Essecilmë* (chọn tên).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

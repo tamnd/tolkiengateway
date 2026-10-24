@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orc-hunters"
 ---
 
-Chuyển hướng đến [Thợ săn Orc](../O/Orc-hunters.md).
+Chuyển hướng tới [Orc-hunters](../O/Orc-hunters.md).

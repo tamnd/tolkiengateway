@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Ruemmler, John David"
 ---
 
-**John David Ruemmler** là tác giả người Mỹ chuyên viết về trò chơi nhập vai. Vào những năm 1980, Ruemmler làm Giám đốc Sản xuất cho [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md), đóng góp với tư cách là tác giả và biên tập viên cho nhiều sản phẩm liên quan đến [J.R.R. Tolkien](J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**John David Ruemmler** là tác giả người Mỹ chuyên viết về trò chơi nhập vai. Vào những năm 1980, Ruemmler làm Giám đốc sản xuất cho [Vương miện Sắt Doanh nghiệp](../I/Iron_Crown_Enterprises.md), đóng góp với tư cách là tác giả và biên tập viên cho nhiều sản phẩm liên quan đến [J.R.R. Tolkien](J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

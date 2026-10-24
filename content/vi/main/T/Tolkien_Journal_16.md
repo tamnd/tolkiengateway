@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mythlore 9"
 ---
 
-Chuyển hướng tới [Thần thoại 9](../M/Mythlore_9.md).
+Chuyển hướng đến [Mythlore 9](../M/Mythlore_9.md).

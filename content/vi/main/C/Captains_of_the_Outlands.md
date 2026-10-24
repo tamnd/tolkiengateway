@@ -21,18 +21,18 @@ langlinks:
     url: "https://kontu.wiki/Ulkomaiden_P%C3%A4%C3%A4llik%C3%B6t"
 ---
 
-**Thủ lĩnh của [Outlands](../O/Outlands.md)** là những hoàng tử và các thủ lĩnh khác của [Các thái ấp phía Nam](../S/Southern_Fiefs.md) của [Gondor](../G/Gondor.md), những người đã dẫn quân đến bảo vệ [Minas Tirith](../M/Minas_Tirith.md) trong [War of the Ring](../W/War_of_the_Ring.md).
+**Thủ lĩnh của [Outlands](../O/Outlands.md)** là những hoàng tử và các thủ lĩnh khác của [các lãnh địa phía Nam](../S/Southern_Fiefs.md) của [Gondor](../G/Gondor.md), những người đã dẫn quân của họ đến bảo vệ [Minas Tirith](../M/Minas_Tirith.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 
 ## Lịch sử {#History}
 
-Nhìn chung, các Đội trưởng đã dẫn hơn hai nghìn binh sĩ đến Minas Tirith. Trong hàng ngũ của họ có
+Tổng cộng, các Đội trưởng đã dẫn hơn hai nghìn binh sĩ đến Minas Tirith. Trong hàng ngũ của họ có
 
 - [Forlong](../F/Forlong.md), Lãnh chúa của [Lossarnach](../L/Lossarnach.md), cùng hai trăm người được trang bị vũ khí tốt mang theo rìu chiến
 - [Dervorin](../D/Dervorin.md), con trai của lãnh chúa [Ringló Vale](../R/Ringló_Vale.md), với ba trăm người đi bộ
-- [Duinhir](../D/Duinhir.md) cùng các con trai [Duilin](<../D/Duilin_(son_of_Duinhir).md>) và [Derufin](../D/Derufin.md) đến từ vùng cao [Morthond](../M/Morthond.md), dẫn đầu năm trăm cung thủ
-- [Golasgil](../G/Golasgil.md), lãnh chúa của [Anfalas](../A/Anfalas.md), "một hàng dài" với nhiều loại đàn ông được trang bị thiếu thốn ngoại trừ những người đàn ông trong gia đình Golasgil
+- [Duinhir](../D/Duinhir.md) và các con trai [Duilin](<../D/Duilin_(son_of_Duinhir).md>) và [Derufin](../D/Derufin.md) từ vùng cao [Morthond](../M/Morthond.md), dẫn đầu năm trăm cung thủ
+- [Golasgil](../G/Golasgil.md), chúa tể của [Anfalas](../A/Anfalas.md), "một hàng dài" với nhiều loại đàn ông được trang bị thiếu thốn ngoại trừ những người đàn ông trong gia đình Golasgil
 - [Hirluin the Fair](../H/Hirluin.md) từ [Pinnath Gelin](../P/Pinnath_Gelin.md) với ba trăm "người đàn ông mặc áo xanh hào hiệp"
-- [Imrahil](../I/Imrahil.md), Hoàng tử của [Dol Amroth](../D/Dol_Amroth.md), cùng với một đội hiệp sĩ được trang bị đầy đủ áo giáp và bảy trăm binh lính<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Imrahil](../I/Imrahil.md), Thân vương của [Dol Amroth](../D/Dol_Amroth.md), với một đại đội hiệp sĩ được trang bị đầy đủ áo giáp và bảy trăm binh lính<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

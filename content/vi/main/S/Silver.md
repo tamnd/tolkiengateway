@@ -18,26 +18,26 @@ images:
 
 **Bạc** là kim loại màu xám hoặc trắng có độ phản chiếu cao thường được [Tolkien](../J/J.R.R._Tolkien.md) nhắc đến trong [huyền thoại](../L/Legendarium.md) của ông.
 
-Một trong [Hai Cây](../T/Two_Trees.md), [Telperion](../T/Telperion.md), có màu bạc nếu không nói về chất liệu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[Mithril](../M/Mithril.md)* được cho là rất giống bạc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Một trong những [Hai Cây](../T/Two_Trees.md), [Telperion](../T/Telperion.md), có màu bạc nếu không nói về chất liệu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> *[Mithril](../M/Mithril.md)* được cho là rất giống bạc.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Falmari](../F/Falmari.md) đánh giá cao bạc hơn vàng và kỹ năng thợ bạc của họ thậm chí còn được Noldor đánh giá cao.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Falmari](../F/Falmari.md) bạc được đánh giá cao hơn vàng và kỹ năng thợ bạc của họ thậm chí còn được Noldor đánh giá cao.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Một số ví dụ về đồ vật được làm bằng bạc là vương miện của [Elu Thingol](../T/Thingol.md) của [Doriath](../D/Doriath.md), cây đàn hạc bạc của [House of the Harp](../H/House_of_the_Harp.md) ở [Gondolin](../G/Gondolin.md), Cây của [Gondor](../G/Gondor.md), theo [Bilbo Baggins](../B/Bilbo_Baggins.md) [habergeon](../U/Uncommon_words.md) của [Eärendil](../E/Eärendil.md) (nếu đúng thì điều này cho thấy rằng bạc ở [Trung Địa](../M/Middle-earth.md) mạnh hơn trong thế giới thực) và một trong những cánh cổng của Gondolin. Ngoài ra, nó còn thường được nhắc đến trong tiêu đề và tên (ví dụ: [Celeborn](../C/Celeborn.md), *silver-tree*, [Celebrimbor](../C/Celebrimbor.md), *silver-hand* và [Celebrindal](../C/Celebrindal.md), *silver-foot*).
+Một số ví dụ về đồ vật được làm bằng bạc là vương miện của [Elu Thingol](../T/Thingol.md) của [Doriath](../D/Doriath.md), cây đàn hạc bạc của [Ngôi nhà của đàn hạc](../H/House_of_the_Harp.md) trong [Gondolin](../G/Gondolin.md), Cây của [Gondor](../G/Gondor.md), theo [Bilbo Baggins](../B/Bilbo_Baggins.md) [habergeon](../U/Uncommon_words.md) của [Eärendil](../E/Eärendil.md) (điều này, nếu đúng, cho thấy rằng bạc trong [Trung Địa](../M/Middle-earth.md) mạnh hơn trong thế giới thực) và một trong những cánh cổng của Gondolin. Ngoài ra, nó còn thường được tham chiếu trong tiêu đề và tên (ví dụ [Celeborn](../C/Celeborn.md), *silver-tree*, [Celebrimbor](../C/Celebrimbor.md), *silver-hand* và [Celebrindal](../C/Celebrindal.md), *silver-foot*).
 
 ## Tên khác {#Other_names}
 
-- [Tiếng Sindarin](Sindarin.md): *[celeb](../C/Celeb.md)*
+- [Sindarin](Sindarin.md): *[celeb](../C/Celeb.md)*
 - [Quenya](../Q/Quenya.md): *[telpë](../T/Telpë.md)/[tyelpë](../T/Tyelpë.md)*
 - [Telerin](../T/Telerin.md): *[telepi](../T/Telepi.md)*
 - [Khuzdul](../K/Khuzdul.md): *[kibil](../K/Kibil.md)*
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
 <dl><dd>In the book, silver was said to have been so plentiful in <a href="../M/Moria.md" title="Moria">Moria</a> that even Dwarves, who like to hoard it, had more than enough to export it to the Elves. While the Dwarves used it widely, for chalices, plates, cups, mugs, horns, and decorative inlays, the Elves tended to use it primarily for common purposes like utensils, cups, and plates.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Silver ore can be mined by journeyman prospectors in <a href="../B/Blue_Mountains.md" title="Blue Mountains">Ered Luin</a>, <a href="../T/The_Shire.md" title="The Shire">the Shire</a>, <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>, the <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>, and the <a href="../N/North_Downs.md" title="North Downs">North Downs</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Ancient silver ore can be mined by master prospectors in the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>, <a href="../A/Angmar.md" title="Angmar">Angmar</a>, <a href="../F/Forochel.md" title="Forochel">Forochel</a>, and <a href="../E/Eregion.md" title="Eregion">Eregion</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

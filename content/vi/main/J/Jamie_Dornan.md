@@ -35,7 +35,7 @@ infobox:
 
 ## Phim ảnh {#Filmography}
 
-- [2027](../_/2027.md) - *[The Lord of the Rings: The Hunt for Gollum](../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md)* - [Người bước chân](../A/Aragorn.md)
+- [2027](../_/2027.md) - *[The Lord of the Rings: The Hunt for Gollum](../T/The_Lord_of_the_Rings%253A_The_Hunt_for_Gollum.md)* - [Strider](../A/Aragorn.md)
 
 <span></span>
 

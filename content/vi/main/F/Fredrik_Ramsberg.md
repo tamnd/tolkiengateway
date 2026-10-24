@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Ramsberg, Fredrik"
 ---
 
-**Fredrik Ramsberg** là nhà thiết kế trò chơi, cùng với [Johan Berntsson](../J/Johan_Berntsson.md), đã viết và thiết kế trò chơi nhại [Hobbit - Câu chuyện có thật](../H/Hobbit_-_The_True_Story.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Fredrik Ramsberg** là nhà thiết kế trò chơi, cùng với [Johan Berntsson](../J/Johan_Berntsson.md), đã viết và thiết kế trò chơi nhại [Hobbit - The True Story](../H/Hobbit_-_The_True_Story.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -35,15 +35,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Darker_than_the_Darkness.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/00/Darker_than_the_Darkness.jpg/320px-Darker_than_the_Darkness.jpg" decoding="async" loading="lazy" width="320" height="421" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/00/Darker_than_the_Darkness.jpg 1.5x" data-file-width="379" data-file-height="499"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Darker than the Darkness</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Karen Birkner, Matthias Birkner, Dan Henley, Margaret Henley</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a> (cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1991.md" title="1991">1991</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Squarebound Book</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">96</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1-55806-150-9" title="Special:BookSources/1-55806-150-9">1-55806-150-9</a></td></tr></tbody></table>
 
-<i><b>Tối hơn bóng tối</b></i> là tập hợp hai cuộc phiêu lưu bổ sung dành cho *[Lord of the Rings Adventure Game](../L/Lord_of_the_Rings_Adventure_Game.md)*: "Tối hơn bóng tối", được viết bởi Margaret và Dan Henley, và "Bad Men, Full O' Thievery", được viết bởi Matthias và Karen Birkner.
+<i><b>Darker than the Bóng Tối</b></i> là tập hợp hai cuộc phiêu lưu bổ sung dành cho *[Lord of the Rings Adventure Game](../L/Lord_of_the_Rings_Adventure_Game.md)*: "Darker than the Bóng Tối", được viết bởi Margaret và Dan Henley, và "Bad Con Người, Full O' Thievery", được viết bởi Matthias và Karen Birkner.
 
 ## Văn bản bìa sau {#Back_Cover_Text}
 
-Giờ đây, giống như Bilbo (và Frodo), bạn cũng có thể có những cuộc phiêu lưu tuyệt vời - tạm dừng ở Rivendell trước khi đương đầu với những nguy hiểm ẩn nấp trong những ngóc ngách bị lãng quên ở Trung Địa.
+Giờ đây, giống như Bilbo (và Frodo), bạn cũng có thể có những cuộc phiêu lưu tuyệt vời - tạm dừng ở Rivendell trước khi đương đầu với những nguy hiểm ẩn nấp trong những ngóc ngách bị lãng quên của Trung Địa.
 
 **Thử thách đang chờ bạn!**
 
-*"Darker Than The Darkness"* là phần tiếp theo đầu tiên của *Lord of the Rings Adventure Game*™. Ở vùng phía đông nam Bree, bạn phải đánh bại một thế lực đáng sợ hoặc phải đối mặt với số phận còn tệ hơn cả cái chết. Sau đó thách thức Vua cướp cai trị Great East Road.
+*"Darker Than The Darkness"* là phần tiếp theo đầu tiên của *Lord of the Rings Adventure Game*™. Ở vùng trũng phía Đông Nam của Bree, bạn phải đánh bại một thế lực đáng sợ hoặc phải đối mặt với số phận còn tệ hơn cả cái chết. Sau đó thách thức Vua cướp, người cai trị Đại Lộ phía Đông.
 
 **Thật thú vị!**
 
@@ -51,6 +51,6 @@ Tất cả các phần tiếp theo của *Lord of the Rings Adventure Game* đ�
 
 **Sự phấn khích vẫn tiếp tục!**
 
-Hãy tìm kiếm cuộc phiêu lưu tiếp theo khi bạn đã sẵn sàng tận hưởng nhiều niềm vui hơn. *"Over The Misty Mountains Cold"* bắt đầu ở nơi *"Darker than the Darkness"* kết thúc, bộc lộ mối đe dọa mới đe dọa tất cả các Dân tộc Tự do ở Trung Địa.
+Hãy tìm kiếm cuộc phiêu lưu tiếp theo khi bạn đã sẵn sàng tận hưởng nhiều niềm vui hơn. *"Over The Misty Mountains Cold"* bắt đầu ở nơi *"Darker than the Darkness"* kết thúc, bộc lộ mối đe dọa mới đe dọa tất cả các Dân tộc Tự do của Trung Địa.
 
 Khi bạn đã sẵn sàng cho chuyến phiêu lưu hoành tráng hơn trong thế giới của J.R.R. Tolkien, hãy kiểm tra trò chơi hoặc hiệu sách của bạn để tìm *Middle-earth Role Playing*™ bán chạy nhất. Đó là bước tiếp theo hoàn hảo!

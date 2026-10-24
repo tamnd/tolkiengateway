@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sauron's attack on Osgiliath"
 ---
 
-Chuyển hướng đến [Cuộc tấn công của Sauron vào Osgiliath](Sauron's_attack_on_Osgiliath.md).
+Chuyển hướng tới [Sauron tấn công vào Osgiliath](Sauron's_attack_on_Osgiliath.md).

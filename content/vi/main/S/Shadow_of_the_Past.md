@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Shadow of the Past (disambiguation)"
 ---
 
-Chuyển hướng tới [Cái bóng của quá khứ (định hướng)](<Shadow_of_the_Past_(disambiguation).md>).
+Chuyển hướng về [Bóng Tối của Quá khứ (định hướng)](<Shadow_of_the_Past_(disambiguation).md>).

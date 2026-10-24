@@ -20,35 +20,35 @@ sort_keys:
   "People by name": "Ryan, John Sprott"
 ---
 
-**John Sprott Ryan** ([1929](../_/1929.md) – [3 tháng 7](../_/3_July.md) [2022](../_/2022.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là Giáo sư về Văn hóa dân gian và Di sản người New Zealand tại Đại học New England, Hoa Kỳ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông gia nhập trường đại học này lần đầu tiên vào năm 1969 với tư cách là Phó Giáo sư.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ông đã theo học [J.R.R. Tolkien](J.R.R._Tolkien.md) trong chương trình Thạc sĩ của mình tại [Đại học của Oxford](../U/University_of_Oxford.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**John Sprott Ryan** ([1929](../_/1929.md) – [3 tháng 7](../_/3_July.md) [2022](../_/2022.md))<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là Giáo sư New Zealand về Văn hóa dân gian và Di sản tại Đại học New England, Hoa Kỳ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông gia nhập trường đại học này lần đầu tiên vào năm 1969 với tư cách là Phó giáo sư.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ông đã theo học [J.R.R. Tolkien](J.R.R._Tolkien.md) chương trình Thạc sĩ của mình tại trường [Đại học Oxford](../U/University_of_Oxford.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Năm 1992, ông được [Hiệp hội Tolkien Hoa Kỳ](../A/American_Tolkien_Society.md) trao tặng bằng Tiến sĩ Danh dự.
+Năm 1992, ông được [Hiệp hội Tolkien Mỹ](../A/American_Tolkien_Society.md) trao tặng bằng Tiến sĩ danh dự.
 
-Ông giảng dạy và được xuất bản ở nhiều quốc gia, đồng thời là Giáo sư thỉnh giảng về Văn hóa dân gian tại Đại học Sheffield trong cả năm 1995 và 1999. Ông cũng lãnh đạo một phần của Trường học Mùa hè về Nghiên cứu Tolkien tại Đại học Otago vào năm 2007 cho các quốc gia Vành đai Thái Bình Dương.
+Ông giảng dạy và được xuất bản ở nhiều quốc gia và là Giáo sư thỉnh giảng về Văn hóa dân gian tại Đại học Sheffield trong cả hai năm 1995 và 1999. Ông cũng lãnh đạo một phần của Trường học Tolkien Học hè tại Đại học Otago vào năm 2007 cho các quốc gia Vành đai Thái Bình Dương.
 
 ## Thư mục {#Bibliography}
 
 ### Sách {#Books}
 
-- [1969](../_/1969.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien:_Cult_or_Culture&amp;action=edit&amp;redlink=1" title="Tolkien: Cult or Culture (page does not exist)">Tolkien: Sùng bái hay Văn hóa</a>
+- [1969](../_/1969.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien:_Cult_or_Culture&amp;action=edit&amp;redlink=1" title="Tolkien: Cult or Culture (page does not exist)">Tolkien: Tà giáo hay Văn hóa</a>
 - [1992](../_/1992.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Shaping_of_the_Maker_of_Middle-Earth&amp;action=edit&amp;redlink=1" title="The Shaping of the Maker of Middle-Earth (page does not exist)">Sự hình thành của Người tạo ra Trung Địa</a>
 - [2009](../_/2009.md): [Tolkien's View: Windows into his World](../T/Tolkien's_View.md)
-- [2013](../_/2013.md): [Trong Rừng Không Tên](../I/In_the_Nameless_Wood.md)
+- [2013](../_/2013.md): [Trong Kẻ Vô Danh Rừng](../I/In_the_Nameless_Wood.md)
 
 ### Bài viết {#Articles}
 
 - [Amon Hen 61](../A/Amon_Hen_61.md)
     - *Smial*
 - [Amon Hen 65](../A/Amon_Hen_65.md)
-    - *Woses: Người hoang dã hay 'Tàn tích của thời xa xưa'*
+    - *Woses: Hoang dã Con Người hoặc 'Tàn tích của một thời xa xưa'*
 - [Amon Hen 73](../A/Amon_Hen_73.md)
-    - *Berghest là nguồn có thể có cho yêu tinh và ma nhẫn của Tolkien*
+    - *Nguồn tốt nhất có thể cho Goblin và Ring-wraith của Tolkien*
 - [Amon Hen 76](../A/Amon_Hen_76.md)
-    - *Tác động từ vựng sâu hơn của Tolkien đối với Từ điển tiếng Anh Oxford*
+Tác động từ vựng sâu hơn của     - *Tolkien lên Từ điển tiếng Anh Oxford*
 - [Amon Hen 77](../A/Amon_Hen_77.md)
     - *Lexical Impacts 2*
 - [Amon Hen 81](../A/Amon_Hen_81.md)
-    - *Sửa đổi văn bản trong Chúa tể của những chiếc nhẫn*
+    - *Sửa đổi văn bản trong The Lord of the Rings*
 - [Mallorn 16](../M/Mallorn_16.md)
     - *J.R.R. Tolkien: Từ điển học và các sở thích ngôn ngữ học ban đầu khác*
 - [Mallorn 20](../M/Mallorn_20.md)
@@ -62,7 +62,7 @@ Năm 1992, ông được [Hiệp hội Tolkien Hoa Kỳ](../A/American_Tolkien_S
 - [SEVEN 7](../S/SEVEN_7.md)
     - *Tolkien's Concept of Philology as Mythology*
 - [SEVEN 9](../S/SEVEN_9.md)
-    - *Nhận thức giữa thế kỷ về các dân tộc Celtic cổ đại ở 'nước Anh'*
+    - *Nhận thức giữa thế kỷ về các dân tộc cổ đại Celtic 'Anh'*
 - [SEVEN 19](../S/SEVEN_19.md)
     - *J.R.R. Tolkien Giảng dạy và Giảng dạy Chính thức tại Đại học Oxford, 1929-1959*
 

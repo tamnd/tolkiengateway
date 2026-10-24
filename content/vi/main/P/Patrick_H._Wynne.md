@@ -27,27 +27,27 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Patrick_Wynne"
 ---
 
-**Patrick Howard Wynne** là một trong những nhân vật hàng đầu trong [Hiệp hội ngôn ngữ học Elvis](../E/Elvish_Linguistic_Fellowship.md) và là đồng biên tập của *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* (cùng với [Carl F. Hostetter](../C/Carl_F._Hostetter.md), [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Bill hàn](../B/Bill_Welden.md)). Ông đã xuất bản nhiều bài báo liên quan đến các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và ông là một họa sĩ minh họa khá giỏi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng thường xuyên lui tới [danh sách gửi thư Lambengolmor](<../L/Lambengolmor_(mailing_list).md>).
+**Patrick Howard Wynne** là một trong những nhân vật hàng đầu trong [Elvish Hiệp hội Ngôn ngữ học](../E/Elvish_Linguistic_Fellowship.md) và là đồng biên tập của *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)* (cùng với [Carl F. Hostetter](../C/Carl_F._Hostetter.md), [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Bill Welden](../B/Bill_Welden.md)). Ông đã xuất bản nhiều bài báo liên quan đến các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và ông là một họa sĩ minh họa khá giỏi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông cũng thường xuyên lui tới [danh sách gửi thư Lambengolmor](<../L/Lambengolmor_(mailing_list).md>).
 
 ## Thư mục {#Bibliography}
 
 ### Bài viết {#Articles}
 
 - [1985](../_/1985.md): [*Beyond Bree* Tháng 10 năm 1985](../B/Beyond_Bree_October_1985.md)
-    - "Tolkien-san, Yoku Irasshaimashitaf ... Một số quan sát về sự tương đồng giữa tiếng Nhật và tiếng Tiên của J.R.R. Tolkien"
+    - "Tolkien-san, Yoku Irasshaimashitaf ... Một số quan sát về sự tương đồng giữa tiếng Nhật và ngôn ngữ Elvish của J.R.R. Tolkien"
 - [1988](../_/1988.md): *[Vinyar Tengwar 2](../V/Vinyar_Tengwar_2.md)*
-    - "Bằng chứng về giới tính ngữ pháp trong Quenya của bài thơ "Tội phó" và suy nghĩ hiện tại về thì quá khứ"
+    - "Bằng chứng về ngữ pháp giới tính trong Quenya của bài thơ "Tội phó" và suy nghĩ hiện tại về thì quá khứ"
 - [1989](../_/1989.md): *[Parma Eldalamberon 8](Parma_Eldalamberon_8.md)*
-    - "Lý thuyết trường thống nhất của Tiên"
+    - "Lý thuyết trường thống nhất của Elvish"
     - "Phân tích *[Fíriel's Song](../F/Fíriel's_song.md)*"
 - [1990](../_/1990.md): *[Vinyar Tengwar 9](../V/Vinyar_Tengwar_9.md)*
     - "Những lưu ý đối với bản dịch *Lúthien's Song*"
 - [1990](../_/1990.md): *[Vinyar Tengwar 14](../V/Vinyar_Tengwar_14.md)*
-    - "Những người yêu tinh ở Koivienéni: Một câu Quenya mới" (J.R.R. Tolkien; biên tập với [Christopher Gilson](../C/Christopher_Gilson.md))
+    - "The Tiên tộc tại Koivienéni: Một câu Quenya mới" (J.R.R. Tolkien; được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md))
 - [1990](../_/1990.md): *[Parma Eldalamberon 9](Parma_Eldalamberon_9.md)*
     - "Chim và Lá, Hình ảnh và Cấu trúc trong *Narqelion*" (với [Christopher Gilson](../C/Christopher_Gilson.md))
 - [1991](../_/1991.md): *[Mythlore 65](../M/Mythlore_65.md)*
-    - "Những người yêu tinh ở Koivienéni: Một câu Quenya mới" (J.R.R. Tolkien; biên tập với [Christopher Gilson](../C/Christopher_Gilson.md))
+    - "The Tiên tộc tại Koivienéni: Một câu Quenya mới" (J.R.R. Tolkien; được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md))
 - [1991](../_/1991.md): *[Vinyar Tengwar 16](../V/Vinyar_Tengwar_16.md)*
     - "Trường hợp liên kết"
 - [1992](../_/1992.md): *[Vinyar Tengwar 23](../V/Vinyar_Tengwar_23.md)*
@@ -60,7 +60,7 @@ langlinks:
     - "*Trong một cái hố trên mặt đất có một Marbit sống*: Báo cáo tóm tắt về ELFCon III"
     - "Cây bạc và vàng: Hướng dẫn về bản thảo Koivienéni" (với [Christopher Gilson](../C/Christopher_Gilson.md))
 - [1993](../_/1993.md): *[Vinyar Tengwar 28](../V/Vinyar_Tengwar_28.md)*
-    - "Sự suy giảm Bodleian" (J.R.R. Tolkien, biên tập với [Christopher Gilson](../C/Christopher_Gilson.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Sự suy giảm Bodleian" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [1994](../_/1994.md): *[Parma Eldalamberon 10](Parma_Eldalamberon_10.md)*
     - "Hệ thống vụ án Quenya trong các bài viết sau này của J.R.R. Tolkien"
 - [1994](../_/1994.md): *[Vinyar Tengwar 34](../V/Vinyar_Tengwar_34.md)*
@@ -69,49 +69,49 @@ langlinks:
     - "Báo cáo ELFCon IV"
     - "*Morgoth's Ring*: Đánh giá ngôn ngữ học - Phần II" (với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
-    - "Sự phát triển của ngữ pháp trong ngôn ngữ của người yêu tinh" (với [Christopher Gilson](../C/Christopher_Gilson.md))
+    - "Sự phát triển của ngữ pháp trong Tiên tiếng" (với [Christopher Gilson](../C/Christopher_Gilson.md))
 - [1995](../_/1995.md): *[Parma Eldalamberon 11](Parma_Eldalamberon_11.md)*
-    - "Ngữ pháp và từ vựng của lưỡi Gnomish" (J.R.R. Tolkien, biên tập với [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Ngữ pháp và từ vựng của Gnomish Lưỡi" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [1998](../_/1998.md): *[Parma Eldalamberon 12](Parma_Eldalamberon_12.md)*
-    - "Qenyaqetsa: Âm vị học và từ vựng Qenya" (J.R.R. Tolkien, biên tập với [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Qenyaqetsa: Âm vị học và Từ vựng Qenya" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md), [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2000](../_/2000.md): [*SEVEN: An Anglo-American Literary Review*, Tập 17](../S/SEVEN_17.md)
     - "Tolkien và Esperanto" (với [Arden R. Smith](../A/Arden_R._Smith.md))
 - [2000](../_/2000.md): *[Tolkien's Legendarium: Essays on The History of Middle-earth](../T/Tolkien's_Legendarium.md)*
-    - "Ba chế độ thơ thần tiên: *Ann-thennath*, *Minlamad thent / estent* và *Linnod*" (với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Ba Elvish Chế độ câu: *Ann-thennath*, *Minlamad thent / estent* và *Linnod*" (với [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2001](../_/2001.md): *[Parma Eldalamberon 13](Parma_Eldalamberon_13.md)*
-    - "Những mảnh vỡ Noldorin thời kỳ đầu" (J.R.R. Tolkien, biên tập với [Christopher Gilson](../C/Christopher_Gilson.md), [Bill Welden](../B/Bill_Welden.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Các mảnh Noldorin sớm" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md), [Bill Welden](../B/Bill_Welden.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2002](../_/2002.md): *[Vinyar Tengwar 43](../V/Vinyar_Tengwar_43.md)*
-    - "'Lời vui': Năm lời cầu nguyện Công giáo ở Quenya (Phần một)" (J.R.R. Tolkien, biên tập với [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "'Lời Niềm Vui': Năm Lời Cầu Nguyện Công Giáo trong Quenya (Phần Một)" (J.R.R. Tolkien, biên tập với [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2002](../_/2002.md): *[Vinyar Tengwar 44](../V/Vinyar_Tengwar_44.md)*
-    - "'Lời vui': Năm lời cầu nguyện Công giáo ở Quenya (Phần hai)" (J.R.R. Tolkien, biên tập với [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "'Lời Niềm Vui': Năm Lời Cầu Nguyện Công Giáo trong Quenya (Phần Hai)" (J.R.R. Tolkien, biên tập với [Arden R. Smith](../A/Arden_R._Smith.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2003](../_/2003.md): *[Parma Eldalamberon 14](Parma_Eldalamberon_14.md)*
-    - "Những mảnh vỡ Qenya thời kỳ đầu" (J.R.R. Tolkien, biên tập bởi [Christopher Gilson](../C/Christopher_Gilson.md))
+    - "Các mảnh Qenya sớm" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md))
 - [2003](../_/2003.md): *[Vinyar Tengwar 45](../V/Vinyar_Tengwar_45.md)*
-    - "Phụ lục và Điều chỉnh cho *Etymologies* - Phần Một" (J.R.R. Tolkien, chỉnh sửa bởi [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Phụ lục và Điều chỉnh cho *Etymologies* - Phần Một" (J.R.R. Tolkien, được chỉnh sửa bằng [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2003](../_/2003.md): Trang web của Wynne
     - "Anaxartaron Onyalie"
-    - "Đại từ Golddogrin"
+    - "Goldogrin Đại từ"
 - [2004](../_/2004.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Tengwestie&amp;action=edit&amp;redlink=1" title="Tengwestie (page does not exist)">Tengwestie</a>
     - "Thì quá khứ Goldogrin"
-    - "Goldogrin và Qenya có phải là 'nguyên thủy' không?"
+    - "Có phải Goldogrin và Qenya là 'nguyên thủy' không?"
 - [2004](../_/2004.md): *[Vinyar Tengwar 46](../V/Vinyar_Tengwar_46.md)*
-    - "Phụ lục và Corrigenda cho *Etymologies* - Phần thứ hai" (J.R.R. Tolkien, được chỉnh sửa bởi [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
+    - "Phụ lục và Điều chỉnh cho *Etymologies* - Phần thứ hai" (J.R.R. Tolkien, được chỉnh sửa bằng [Carl F. Hostetter](../C/Carl_F._Hostetter.md))
 - [2004](../_/2004.md): *[Parma Eldalamberon 15](Parma_Eldalamberon_15.md)*
     - "Tên và những thay đổi bắt buộc" (người biên tập)
-    - "Danh sách tên tới *The Fall of Gondolin* (J.R.R. Tolkien, được chỉnh sửa bởi [Christopher Gilson](../C/Christopher_Gilson.md))
+    - "Danh sách tên thành *The Fall of Gondolin* (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md))
 - [2005](../_/2005.md): *[Vinyar Tengwar 47](../V/Vinyar_Tengwar_47.md)*
     - "*Eldarin Hands, Fingers &amp; Numerals* và các bài viết liên quan" — Phần thứ nhất (người biên tập)
 - [2005](../_/2005.md): *[Vinyar Tengwar 48](../V/Vinyar_Tengwar_48.md)* (Tháng 12 năm 2005)
     - "*Eldarin Hands, Fingers &amp; Numerals* và các bài viết liên quan" — Phần thứ hai (người biên tập)
 - [2006](../_/2006.md): *[Parma Eldalamberon 16](Parma_Eldalamberon_16.md)*
-    - "Sự suy giảm Qenya" (J.R.R. Tolkien, được chỉnh sửa bởi [Christopher Gilson](../C/Christopher_Gilson.md))
-    - "Danh sách từ Qenya" (J.R.R. Tolkien, được chỉnh sửa bởi [Christopher Gilson](../C/Christopher_Gilson.md))
+    - "Qenya Giảm dần" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md))
+    - "Qenya Danh sách từ" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md))
 - [2007](../_/2007.md): *[Vinyar Tengwar 49](../V/Vinyar_Tengwar_49.md)*
     - "*Eldarin Hands, Fingers &amp; Numerals* và các bài viết liên quan" — Phần thứ ba (người biên tập)
 - [2009](../_/2009.md): *[Parma Eldalamberon 18](Parma_Eldalamberon_18.md)*
-    - "*Tengwesta Qenderinwa*" (J.R.R. Tolkien, được chỉnh sửa bởi [Christopher Gilson](../C/Christopher_Gilson.md))
+    - "*Tengwesta Qenderinwa*" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md))
 - [2013](../_/2013.md): *[Parma Eldalamberon 21](Parma_Eldalamberon_21.md)*
-    - "Cấu trúc danh từ Qenya" (J.R.R. Tolkien, được chỉnh sửa bởi [Christopher Gilson](../C/Christopher_Gilson.md) và [Arden R. Smith](../A/Arden_R._Smith.md))
+    - "Qenya Cấu trúc danh từ" (J.R.R. Tolkien, được chỉnh sửa bằng [Christopher Gilson](../C/Christopher_Gilson.md) và [Arden R. Smith](../A/Arden_R._Smith.md))
 
 ### Các đóng góp khác {#Other_contributions}
 

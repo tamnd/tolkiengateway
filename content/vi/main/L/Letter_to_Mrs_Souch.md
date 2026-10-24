@@ -17,9 +17,9 @@ images:
   - "Souch_8_September_1955_B.jpg"
 ---
 
-Vào [8 tháng 9](../_/8_September.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho bà Souch**.
+Vào ngày [8 tháng Chín](../_/8_September.md) [1955](../_/1955.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho bà Souch**.
 
-- **Ấn bản:** Một đoạn trích được xuất bản trong một bài báo của BBC ngày thứ Tư, ngày 6 tháng 3 năm 2002: <a class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/england/1858273.stm" rel="noreferrer noopener" target="_blank"><i>Bức thư Tolkien được bán với giá £4.800</i></a>. Hình ảnh bức thư được đăng trên *[Leski Auctions: Sport &amp; General Memorabilia, 10th February 2005](Leski_Auctions%253A_Sport_and_General_Memorabilia,_10th_February_2005.md)*.
+- **Ấn bản:** Một đoạn trích được xuất bản trong một bài báo của BBC ngày thứ Tư, ngày 6 tháng 3 năm 2002: <a class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/england/1858273.stm" rel="noreferrer noopener" target="_blank"><i>Tolkien bức thư được bán với giá £4.800</i></a>. Hình ảnh bức thư được đăng trên *[Leski Auctions: Sport &amp; General Memorabilia, 10th February 2005](Leski_Auctions%253A_Sport_and_General_Memorabilia,_10th_February_2005.md)*.
 
 ## Trích {#Excerpt}
 

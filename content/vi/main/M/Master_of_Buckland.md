@@ -24,17 +24,17 @@ langlinks:
     url: "https://kontu.wiki/Bukinmaan_Herra"
 ---
 
-**Chủ nhân của [Buckland](../B/Buckland.md)** là tước hiệu cha truyền con nối của [Bucklander](../B/Bucklanders.md) [Hobbit](../H/Hobbits.md). Với tư cách là người đứng đầu [Gia đình Brandybuck](../B/Brandybuck_Family~66350.md), ông còn được gọi là **Chủ nhân của [Hội trường](../B/Brandy_Hall.md)**.<sup id="cite_ref-con_1-0" class="reference"><a href="#cite_note-con-1">[1]</a></sup> Giống như Thain và [Quản giáo của Westmarch](../W/Warden_of_Westmarch.md), Chủ nhân chỉ có quyền lực danh nghĩa.
+**Bậc thầy của [Buckland](../B/Buckland.md)** là tước hiệu cha truyền con nối của [Bucklander](../B/Bucklanders.md) [Hobbit](../H/Hobbits.md). Với tư cách là người đứng đầu [Gia đình Brandybuck](../B/Brandybuck_Family~66350.md), ông còn được biết đến là **Chủ nhân của [Hội trường](../B/Brandy_Hall.md)**.<sup id="cite_ref-con_1-0" class="reference"><a href="#cite_note-con-1">[1]</a></sup> Giống như Thain và [Quản giáo của Westmarch](../W/Warden_of_Westmarch.md), Master chỉ có quyền lực danh nghĩa.
 
 Theo truyền thống, mỗi Master đều có một biểu tượng gắn liền với tên của họ, chẳng hạn như Gorbadoc Brandybuck "Broadbelt", Saradoc Brandybuck "Scattergold", và nổi tiếng nhất, Meriadoc the Magnificent.
 
 ## Lịch sử {#History}
 
-Master đầu tiên là [Thain](../T/Thain.md) [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md), sau khi ông rời [Shire](../T/The_Shire.md) và chuyển đến Buckland ở [S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md).<sup id="cite_ref-Brandybuck_2-0" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup> Người nắm giữ danh hiệu này được chấp nhận làm lãnh đạo của Buckland và một số trang trại ở [Marish](Marish.md).<sup id="cite_ref-con_1-1" class="reference"><a href="#cite_note-con-1">[1]</a></sup> Sau [Chiến tranh the Ring](../W/War_of_the_Ring.md) ([Fo.A.](../F/Fourth_Age.md) [13](../F/Fourth_Age_13.md)), Vua [Elessar](../A/Aragorn.md) đã phong Chủ nhân của Buckland trở thành một trong những Cố vấn Thị trưởng của [Vương quốc phía Bắc](../A/Arnor.md).<sup id="cite_ref-Later_3-0" class="reference"><a href="#cite_note-Later-3">[3]</a></sup>
+Master đầu tiên là [Thain](../T/Thain.md) [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md), sau khi ông ta rời [ Shire](../T/The_Shire.md) và chuyển đến Buckland ở [S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md).<sup id="cite_ref-Brandybuck_2-0" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup> Người giữ chức danh này đã được chấp nhận làm lãnh đạo của Buckland và một số trang trại trong [Marish](Marish.md).<sup id="cite_ref-con_1-1" class="reference"><a href="#cite_note-con-1">[1]</a></sup> Sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) ([Kỷ Đệ Tứ](../F/Fourth_Age.md) [13](../F/Fourth_Age_13.md)), Vua [Elessar](../A/Aragorn.md) đã phong Chủ nhân của Buckland trở thành một trong những Cố vấn Thị trưởng của [Vương quốc phía Bắc](../A/Arnor.md).<sup id="cite_ref-Later_3-0" class="reference"><a href="#cite_note-Later-3">[3]</a></sup>
 
 ## Danh sách Thạc sĩ {#List_of_Masters}
 
-- [Gorendad Oldbuck](../G/Gorhendad_Oldbuck.md) ([S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md) - ?)<sup id="cite_ref-Brandybuck_2-1" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
+- [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md) ([S.R.](../S/Shire_Reckoning.md) [740](../T/Third_Age_2340.md) - ?)<sup id="cite_ref-Brandybuck_2-1" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
 - [Gormadoc Brandybuck](../G/Gormadoc_Brandybuck.md) (? - [1236](../T/Third_Age_2836.md))<sup id="cite_ref-Brandybuck_2-2" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
 - [Madoc Brandybuck](Madoc_Brandybuck.md) ([S.R.](../S/Shire_Reckoning.md) [1236](../T/Third_Age_2836.md) - [1277](../T/Third_Age_2877.md))<sup id="cite_ref-Brandybuck_2-3" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
 - [Marmadoc Brandybuck](Marmadoc_Brandybuck.md) ([S.R.](../S/Shire_Reckoning.md) [1277](../T/Third_Age_2877.md) - [1310](../T/Third_Age_2910.md))<sup id="cite_ref-Brandybuck_2-4" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
@@ -42,7 +42,7 @@ Master đầu tiên là [Thain](../T/Thain.md) [Gorhendad Oldbuck](../G/Gorhenda
 - [Rorimac Brandybuck](../R/Rorimac_Brandybuck.md) ([S.R.](../S/Shire_Reckoning.md) [1364](../T/Third_Age_2964.md) - [1408](../T/Third_Age_3008.md))<sup id="cite_ref-Brandybuck_2-6" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
 - [Saradoc Brandybuck](../S/Saradoc_Brandybuck.md) ([S.R.](../S/Shire_Reckoning.md) [1408](../T/Third_Age_3008.md) - [1432](../F/Fourth_Age_11.md))<sup id="cite_ref-Brandybuck_2-7" class="reference"><a href="#cite_note-Brandybuck-2">[2]</a></sup>
 - [Meriadoc Brandybuck](Meriadoc_Brandybuck.md) ([S.R.](../S/Shire_Reckoning.md) [1432](../F/Fourth_Age_11.md) - [1484](../F/Fourth_Age_63.md))<sup id="cite_ref-Later_3-1" class="reference"><a href="#cite_note-Later-3">[3]</a></sup>
-- Con trai của Meridoc ([S.R.](../S/Shire_Reckoning.md) [1484](../F/Fourth_Age_63.md) - ?)<sup id="cite_ref-Later_3-2" class="reference"><a href="#cite_note-Later-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+con trai của - Meriadoc([S.R.](../S/Shire_Reckoning.md) [1484](../F/Fourth_Age_63.md) - ?)<sup id="cite_ref-Later_3-2" class="reference"><a href="#cite_note-Later-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
 ## Ghi chú {#Notes}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morgoth's Ring"
 ---
 
-Chuyển hướng tới [Chiếc nhẫn của Morgoth](Morgoth's_Ring.md).
+Chuyển hướng đến [Morgoth's Ring](Morgoth's_Ring.md).

@@ -17,9 +17,9 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">&#34;Plants in Middle-earth Role Playing&#34; is a concept which has only appeared in an  adaptation of the works of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</div></div>
 
-Để làm rõ bối cảnh hơn, [Trò chơi nhập vai vùng Trung Địa](../M/Middle-earth_Role_Playing.md) giới thiệu nhiều loại thực vật và thảo mộc mới được sử dụng cho nhiều mục đích khác nhau, ngoài [hoa huệ](../L/Lilies.md), [rêu](../M/Mosses.md), [cỏ ống](Pipe-weed.md), [sậy](../R/Reeds.md) và [hoa huệ nước](../W/Water-lilies.md).
+Để làm nổi bật bối cảnh, [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md) giới thiệu nhiều loại cây và thảo mộc mới được sử dụng cho nhiều mục đích khác nhau, ngoài [hoa huệ](../L/Lilies.md), [rêu](../M/Mosses.md), [cỏ ống](Pipe-weed.md), [sậy](../R/Reeds.md) và [hoa súng](../W/Water-lilies.md).
 
-[Aloe](../A/Aloe.md) là một loại cây dành riêng cho bản chuyển thể được giới thiệu trong trò chơi Nhập vai ở Trung Địa, nhưng sau đó cũng được sử dụng trong một bản chuyển thể khác.
+[Aloe](../A/Aloe.md) là một loại cây dành riêng cho bản chuyển thể được giới thiệu trong Middle-earth Role Playing, nhưng sau đó cũng được sử dụng trong bản chuyển thể khác.
 
 ## Quay {#Acána}
 
@@ -95,7 +95,7 @@ images:
 
 ## Danh sách Bodez {#Bodezlist}
 
-<i><b>Bodezlist</b></i> ([S.](../S/Sindarin.md) *Sigillas*, [Q.](../Q/Quenya.md) *Sicillassë*), còn được gọi là *Daggerleaf*, là một bụi gai ở [Far Harad](../F/Far_Harad.md). Những chiếc lá giống như lưỡi kiếm của nó rất dễ bị phát hiện vào ban ngày, nhưng vào ban đêm, chúng có thể gây thương tích nghiêm trọng. Phần lõi của cây bao gồm các mô giữ nước mọng nước mà những người du hành sa mạc có kinh nghiệm có thể tìm kiếm thức ăn.<sup id="cite_ref-thirdpage_13-1" class="reference"><a href="#cite_note-thirdpage-13">[11]</a></sup><sup id="cite_ref-page90_14-2" class="reference"><a href="#cite_note-page90-14">[12]</a></sup>
+<i><b>Bodezlist</b></i> ([S.](../S/Sindarin.md) *Sigillas*, [Q.](../Q/Quenya.md) *Sicillassë*), còn gọi là *Daggerleaf*, là một bụi gai ở [Xa Harad](../F/Far_Harad.md). Những chiếc lá giống như lưỡi kiếm của nó rất dễ bị phát hiện vào ban ngày, nhưng vào ban đêm, chúng có thể gây thương tích nghiêm trọng. Phần lõi của cây bao gồm các mô giữ nước mọng nước mà những người du hành sa mạc có kinh nghiệm có thể tìm kiếm thức ăn.<sup id="cite_ref-thirdpage_13-1" class="reference"><a href="#cite_note-thirdpage-13">[11]</a></sup><sup id="cite_ref-page90_14-2" class="reference"><a href="#cite_note-page90-14">[12]</a></sup>
 
 ## Khóa tắc nghẽn {#Boglock}
 
@@ -103,7 +103,7 @@ images:
 
 ## Cỏ đầm lầy {#Bog-land_Grass}
 
-<i><b>Cỏ đầm lầy</b></i> là một loại cỏ dại xâm lấn đã lan rộng từ các đầm lầy ở [The Wold](../T/The_Wold.md) và [Brown Lands](../B/Brown_Lands.md) đến Đồng bằng của [Wilderland](../R/Rhovanion.md). Điều này là do nó không cần nhiều nước như các loại cây đầm lầy khác. Nếu kéo lỏng, cây có thể được dệt thành dây thừng và giỏ không thấm nước.<sup id="cite_ref-thirdpage_13-2" class="reference"><a href="#cite_note-thirdpage-13">[11]</a></sup>
+<i><b>Cỏ vùng đầm lầy</b></i> là một loại cỏ dại xâm lấn đã lan rộng từ các đầm lầy [The Wold](../T/The_Wold.md) và [Brown Lands](../B/Brown_Lands.md) đến Đồng bằng [Wilderland](../R/Rhovanion.md). Điều này là do nó không cần nhiều nước như các loại cây đầm lầy khác. Nếu kéo lỏng, cây có thể được dệt thành dây thừng và giỏ không thấm nước.<sup id="cite_ref-thirdpage_13-2" class="reference"><a href="#cite_note-thirdpage-13">[11]</a></sup>
 
 ## Bộ xương {#Boneset}
 
@@ -111,7 +111,7 @@ images:
 
 ## Boskone {#Boskone}
 
-<i><b>Boskone</b></i> ([S.](../S/Sindarin.md) *Amlothluin*, [Q.](../Q/Quenya.md) *Aldaseron*) là một loài lan màu xanh lam được tìm thấy ở [Rừng Cũ](../O/Old_Forest.md) và [Eryn Vorn](../E/Eryn_Vorn.md), nơi nó mọc giữa những chiếc lá của những cây cao. Lá của nó có thể được sấy khô và nghiền thành bột gây nghiện giúp tăng cường giác quan.<sup id="cite_ref-fourthpage_16-1" class="reference"><a href="#cite_note-fourthpage-16">[14]</a></sup><sup id="cite_ref-page91_17-1" class="reference"><a href="#cite_note-page91-17">[15]</a></sup>
+<i><b>Boskone</b></i> ([S.](../S/Sindarin.md) *Amlothluin*, [Q.](../Q/Quenya.md) *Aldaseron*) là một loài lan màu xanh được tìm thấy ở [Khu Rừng Cổ](../O/Old_Forest.md) và [Eryn Vorn](../E/Eryn_Vorn.md), nơi nó mọc giữa những chiếc lá của những cây cao. Lá của nó có thể được sấy khô và nghiền thành bột gây nghiện giúp tăng cường giác quan.<sup id="cite_ref-fourthpage_16-1" class="reference"><a href="#cite_note-fourthpage-16">[14]</a></sup><sup id="cite_ref-page91_17-1" class="reference"><a href="#cite_note-page91-17">[15]</a></sup>
 
 ## Cái chết hộp {#Boxdeath}
 
@@ -123,7 +123,7 @@ images:
 
 ## Mắt xanh sáng {#Bright_Blue_Eyes}
 
-<i><b>Đôi mắt xanh sáng</b></i> ([S.](../S/Sindarin.md) *Luingil*, [Q.](../Q/Quenya.md) *Luinelen*), còn được gọi là *Bluestar* hoặc *Blu* là một loài hoa dại nhỏ mọc ở vùng đồng bằng Talath Harroch (Miền Rhovanion). Trà pha từ loài hoa này được cho là có tác dụng tăng cường thị lực.<sup id="cite_ref-fourthpage_16-2" class="reference"><a href="#cite_note-fourthpage-16">[14]</a></sup><sup id="cite_ref-page92_18-1" class="reference"><a href="#cite_note-page92-18">[16]</a></sup>
+<i><b>Đôi mắt xanh sáng</b></i> ([S.](../S/Sindarin.md) *Luingil*, [Q.](../Q/Quenya.md) *Luinelen*), còn được gọi là *Bluestar* hoặc *Blu* là một loài hoa dại nhỏ mọc ở vùng đồng bằng Talath Harroch (Miền Nam Rhovanion). Trà pha từ loài hoa này được cho là có tác dụng tăng cường thị lực.<sup id="cite_ref-fourthpage_16-2" class="reference"><a href="#cite_note-fourthpage-16">[14]</a></sup><sup id="cite_ref-page92_18-1" class="reference"><a href="#cite_note-page92-18">[16]</a></sup>
 
 ## Bướm {#Butterfoot}
 
@@ -151,7 +151,7 @@ images:
 
 ## Cicino {#Cicino}
 
-<i><b>Cicino</b></i> ([S.](../S/Sindarin.md) *Onodlas*, [Q.](../Q/Quenya.md) *Ontolassë*) là một loại cây lá chỉ được tìm thấy ở [Rừng Fangorn](../F/Fangorn_Forest.md), nơi [Ent](../E/Ents.md) sử dụng nó để chữa bệnh bạc lá bằng cách ngâm loại thảo mộc này trong nước suối trong mười ngày. Nó giống như bắp cải.<sup id="cite_ref-fourthpage_16-5" class="reference"><a href="#cite_note-fourthpage-16">[14]</a></sup><sup id="cite_ref-page95_22-0" class="reference"><a href="#cite_note-page95-22">[20]</a></sup>
+<i><b>Cicino</b></i> ([S.](../S/Sindarin.md) *Onodlas*, [Q.](../Q/Quenya.md) *Ontolassë*) là một loại cây lá chỉ được tìm thấy ở [Rừng Fangorn](../F/Fangorn_Forest.md), nơi [Ent](../E/Ents.md) dùng nó để chữa bệnh bạc lá bằng cách ngâm thảo mộc trong nước suối trong mười ngày. Nó giống như bắp cải.<sup id="cite_ref-fourthpage_16-5" class="reference"><a href="#cite_note-fourthpage-16">[14]</a></sup><sup id="cite_ref-page95_22-0" class="reference"><a href="#cite_note-page95-22">[20]</a></sup>
 
 ## Quạt gà trống {#Cockfan}
 
@@ -159,15 +159,15 @@ images:
 
 ## Coraco {#Coraco}
 
-<i><b>Coraco</b></i>([S.](../S/Sindarin.md) *Lisdos*, [Q.](../Q/Quenya.md) *Lissetussa*) là một bụi cây trong Rừng Nước Mắt ở Far Harad. Quả của nó là nền tảng của một loại nước trái cây đắt tiền để điều trị vết thương.<sup id="cite_ref-fifthpage_23-0" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup><sup id="cite_ref-page95_22-2" class="reference"><a href="#cite_note-page95-22">[20]</a></sup>
+<i><b>Coraco</b></i>([S.](../S/Sindarin.md) *Lisdos*, [Q.](../Q/Quenya.md) *Lissetussa*) là một bụi cây trong Khu rừng nước mắt ở Far Harad. Quả của nó là nền tảng của một loại nước trái cây đắt tiền để điều trị vết thương.<sup id="cite_ref-fifthpage_23-0" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup><sup id="cite_ref-page95_22-2" class="reference"><a href="#cite_note-page95-22">[20]</a></sup>
 
 ## Creagach-Chnàimh {#Creagach-Chnàimh}
 
-<i><b>Creagach-Chnàimh</b></i> ([S.](../S/Sindarin.md) *Carond*, [Q.](../Q/Quenya.md) *Ondoinatar*), còn được gọi là *Craeg-Cerflun, Stone-bone, also known as* Stone-broke, là một loại cây bụi giống nguyệt quế được tìm thấy ở Blackroot Vale và White Mountains. Nó có vỏ màu bạc và những chiếc lá màu xanh lam mang những bông hoa vàng vào mùa xuân và mùa thu. Việc ép lá sẽ giải phóng sương độc, có thể thu hoạch bằng cách đun sôi lá hoặc rễ.<sup id="cite_ref-fifthpage_23-1" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup><sup id="cite_ref-page95_22-3" class="reference"><a href="#cite_note-page95-22">[20]</a></sup>
+<i><b>Creagach-Chnàimh</b></i> ([S.](../S/Sindarin.md) *Carond*, [Q.](../Q/Quenya.md) *Ondoinatar*), còn được gọi là *Craeg-Cerflun, Stone-bone, also known as* Stone-broke, là một bụi cây giống nguyệt quế được tìm thấy ở Blackroot Vale và Dãy Núi Trắng. Nó có vỏ màu bạc và những chiếc lá màu xanh lam mang những bông hoa vàng vào mùa xuân và mùa thu. Việc ép lá sẽ giải phóng sương độc, có thể thu hoạch bằng cách đun sôi lá hoặc rễ.<sup id="cite_ref-fifthpage_23-1" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup><sup id="cite_ref-page95_22-3" class="reference"><a href="#cite_note-page95-22">[20]</a></sup>
 
 ## Cuildolthor {#Cuildolthor}
 
-<i><b>Cuildolthor</b></i> ([S.](../S/Sindarin.md) “Lifebringer,” [Q.](../Q/Quenya.md) *Cuiletultar*), còn được gọi là *Chebkuilë*, là một loại thảo mộc bám như rêu ở những ngóc ngách cao nhất của Dãy núi Grey. Màu sắc của nó thay đổi theo vòng đời của nó: màu xanh lá cây vào mùa hè (một loại thuốc chữa bệnh rất mạnh nhưng có nguy cơ mất trí nhớ cao) và màu xanh lam vào mùa xuân (gây tử vong). Mặt dưới bạc quanh năm.<sup id="cite_ref-page96_24-0" class="reference"><a href="#cite_note-page96-24">[22]</a></sup>
+<i><b>Cuildolthor</b></i> ([S.](../S/Sindarin.md) “Lifebringer,” [Q.](../Q/Quenya.md) *Cuiletultar*), còn được gọi là *Chebkuilë*, là một loại thảo mộc bám như rêu vào những ngóc ngách cao nhất của Dãy Núi Xám. Màu sắc của nó thay đổi theo vòng đời của nó: màu xanh lá cây vào mùa hè (một loại thuốc chữa bệnh rất mạnh nhưng có nguy cơ mất trí nhớ cao) và màu xanh lam vào mùa xuân (gây tử vong). Mặt dưới bạc quanh năm.<sup id="cite_ref-page96_24-0" class="reference"><a href="#cite_note-page96-24">[22]</a></sup>
 
 ## Culan {#Culan}
 
@@ -187,11 +187,11 @@ images:
 
 ## Dasurion {#Darsurion}
 
-<i><b>Darsurion</b></i> là một bụi cây lá bạc được tìm thấy ở Angmar và Arthedain. Xoa lên da, lá được cho là có tác dụng làm giảm chấn động.<sup id="cite_ref-fifthpage_23-4" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup>
+<i><b>Darsurion</b></i> là một bụi cây có lá bạc được tìm thấy ở Angmar và Arthedain. Xoa lên da, lá được cho là có tác dụng làm giảm chấn động.<sup id="cite_ref-fifthpage_23-4" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup>
 
 ## Kèn Trumpet trắng sữa chết người {#Deadly_Milk-White_Trumpet}
 
-<i><b>Kèn Trumpet Trắng Sữa Chết Người</b></i> ([S.](../S/Sindarin.md) *Gurnell*, [Q.](../Q/Quenya.md) *Ninqualmé*) , còn được gọi là *Datura*, là một loại cây bụi xâm lấn được tìm thấy ở Nam [Mirkwood](../M/Mirkwood.md), có lẽ xuất hiện lần đầu tiên trong Dịch hạch. Mùi của nó, đặc biệt là khi bị dập hoặc thụ phấn, rất nồng. Phấn hoa của nó có thể dẫn đến mù tạm thời và buồn nôn, do đó được sử dụng làm chất độc. Hạt đen đắng của nó là nền tảng của một loại chất độc khác có thể giết chết tất cả trừ Yêu tinh.<sup id="cite_ref-fifthpage_23-5" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[24]</a></sup>
+<i><b>Kèn Trumpet trắng sữa chết người</b></i> ([S.](../S/Sindarin.md) *Gurnell*, [Q.](../Q/Quenya.md) *Ninqualmé*) , còn được gọi là *Datura*, là một loại cây bụi xâm lấn được tìm thấy ở miền Nam [Mirkwood](../M/Mirkwood.md), có lẽ xuất hiện lần đầu tiên trong Dịch hạch. Mùi của nó, đặc biệt là khi bị dập hoặc thụ phấn, rất nồng. Phấn hoa của nó có thể dẫn đến mù tạm thời và buồn nôn, do đó được sử dụng làm chất độc. Hạt đen đắng của nó là nền tảng của một loại chất độc khác có thể giết chết tất cả trừ Tiên tộc.<sup id="cite_ref-fifthpage_23-5" class="reference"><a href="#cite_note-fifthpage-23">[21]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[24]</a></sup>
 
 ## Độ chính xác {#Degík}
 
@@ -205,17 +205,17 @@ images:
 
 <i><b>Draf</b></i> ([S.](../S/Sindarin.md) *Caborbui*, [Q.](../Q/Quenya.md) *Caparpiuta*), còn được gọi là *Seawort*, là một loại cỏ nhỏ được tìm thấy gần các bãi biển. Nó giống như những khối đất sét xanh, có rất ít lá. Tiêu thụ một trong những chiếc lá mặn của nó sẽ phục hồi sức khỏe miễn là người tiêu dùng không thực hiện bất kỳ hoạt động thể chất nào trong giờ tiếp theo.<sup id="cite_ref-p100_30-0" class="reference"><a href="#cite_note-p100-30">[28]</a></sup>
 
-## Cỏ rồng {#Dragon_Grass}
+## Rồng Cỏ {#Dragon_Grass}
 
-<i><b>Cỏ rồng</b></i> ([S.](../S/Sindarin.md) *Lhucthar*, [Q.](../Q/Quenya.md) *Lócesalquë*) là một loại cỏ được tìm thấy ở vùng đất ngập nước lạnh giá có thể cao tới 10 feet. Những chiếc lá dài xào xạc ầm ĩ và thân cây mập mạp của nó khiến việc đi qua khán đài trở nên khó khăn. Hạt có thể được nghiền nhỏ và dùng để giảm đau do bỏng.<sup id="cite_ref-p100_30-1" class="reference"><a href="#cite_note-p100-30">[28]</a></sup>
+<i><b>Rồng Cỏ</b></i> ([S.](../S/Sindarin.md) *Lhucthar*, [Q.](../Q/Quenya.md) *Lócesalquë*) là một loại cỏ được tìm thấy ở vùng đất ngập nước lạnh giá có thể cao tới 10 feet. Những chiếc lá dài xào xạc ầm ĩ và thân cây mập mạp của nó khiến việc đi qua khán đài trở nên khó khăn. Hạt có thể được nghiền nhỏ và dùng để giảm đau do bỏng.<sup id="cite_ref-p100_30-1" class="reference"><a href="#cite_note-p100-30">[28]</a></sup>
 
 ## Kéo {#Dragul}
 
 <i><b>Dragul</b></i> ([S.](../S/Sindarin.md) *Mirloth*, [Q.](../Q/Quenya.md) *Mírelótë*), còn được gọi là *Gem-root*, là một loại cây bụi được tìm thấy trong Forest of Tears. Tên của nó có nghĩa là "đá quý", ám chỉ những bông hoa rực rỡ khi cây bụi nở hoa. Rễ thường được pha như trà để nâng cao nhận thức, nhưng nó lại gây nghiện và nguy hiểm quá mức.<sup id="cite_ref-sixthpage_28-1" class="reference"><a href="#cite_note-sixthpage-28">[26]</a></sup><sup id="cite_ref-p100_30-2" class="reference"><a href="#cite_note-p100-30">[28]</a></sup>
 
-## Ánh sáng của người lùn {#Dwarves’_Eyebright}
+## Người Lùn’ Sáng mắt {#Dwarves’_Eyebright}
 
-<i><b>Ánh mắt của người lùn</b></i> ([S.](../S/Sindarin.md) *Hennaug*, [Q.](../Q/Quenya.md) *Casarcen*), còn được gọi là *Sethrit*, là một loài hoa cỏ nhỏ hình loa kèn có nguồn gốc từ Blackroot Vale. Nó có cánh hoa màu trắng và tím. Khi pha vào trà, nó cải thiện thị lực trong ánh sáng mờ, mặc dù nếu kéo dài lòng trắng mắt có xu hướng chuyển sang màu tím.<sup id="cite_ref-sixthpage_28-2" class="reference"><a href="#cite_note-sixthpage-28">[26]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[29]</a></sup>
+<i><b>Người Lùn’ Eyebright</b></i> ([S.](../S/Sindarin.md) *Hennaug*, [Q.](../Q/Quenya.md) *Casarcen*), còn được gọi là *Sethrit*, là một loài hoa cỏ nhỏ hình loa kèn có nguồn gốc từ Blackroot Vale. Nó có cánh hoa màu trắng và tím. Khi pha vào trà, nó cải thiện thị lực trong ánh sáng mờ, mặc dù nếu kéo dài lòng trắng mắt có xu hướng chuyển sang màu tím.<sup id="cite_ref-sixthpage_28-2" class="reference"><a href="#cite_note-sixthpage-28">[26]</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[29]</a></sup>
 
 ## Dynallca {#Dynallca}
 
@@ -239,7 +239,7 @@ images:
 
 ## Rổ của Elendil {#Elendil’s_Basket}
 
-<i><b>Rổ Elendil</b></i> ([S.](../S/Sindarin.md) *Cargarag*, [Q.](../Q/Quenya.md) *Carnicarca*), còn gọi là *Redreed*, *Poisonbane*, hay *Elendil’s Spear*, là loài hoa vùng lãnh nguyên quý hiếm của miền Bắc. Rễ của nó khi chế biến sẽ làm chậm chất độc và lọc sạch nước hôi.<sup id="cite_ref-sixthpage_28-4" class="reference"><a href="#cite_note-sixthpage-28">[26]</a></sup><sup id="cite_ref-page102_33-2" class="reference"><a href="#cite_note-page102-33">[31]</a></sup>
+<i><b>Elendil's Basket</b></i> ([S.](../S/Sindarin.md) *Cargarag*, [Q.](../Q/Quenya.md) *Carnicarca*), còn gọi là *Redreed*, *Poisonbane*, hay *Elendil’s Spear*, là loài hoa vùng lãnh nguyên quý hiếm của miền Bắc. Rễ của nó khi chế biến sẽ làm chậm chất độc và lọc sạch nước hôi.<sup id="cite_ref-sixthpage_28-4" class="reference"><a href="#cite_note-sixthpage-28">[26]</a></sup><sup id="cite_ref-page102_33-2" class="reference"><a href="#cite_note-page102-33">[31]</a></sup>
 
 ## Estesalquë {#Estesalquë}
 
@@ -255,7 +255,7 @@ images:
 
 ## Feduilas {#Feduilas}
 
-<i><b>Feduilas</b></i> là một loài hoa [Dunland](../D/Dunland.md) có đặc tính thư giãn.<sup id="cite_ref-seventhpage_37-1" class="reference"><a href="#cite_note-seventhpage-37">[34]</a></sup>
+<i><b>Feduilas</b></i> là một loại hoa [Dunland](../D/Dunland.md) có đặc tính thư giãn.<sup id="cite_ref-seventhpage_37-1" class="reference"><a href="#cite_note-seventhpage-37">[34]</a></sup>
 
 ## Lông chim {#Finchfeather}
 
@@ -279,7 +279,7 @@ images:
 
 ## Làm tan băng {#Frostheal}
 
-<i><b>Frostheal</b></i> ([S.](../S/Sindarin.md) *Nesthel*, [Q.](../Q/Quenya.md) *Helnestar*), còn được đặt tên là *Musasormen Lääke*, hoặc *Jojojopo* theo tên một bộ tộc thần thoại cùng tên, là một loại thảo dược có nguồn gốc từ Dãy núi Trắng. Nó được sử dụng để điều trị tê cóng nên được người dân [Calenardhon](../C/Calenardhon.md) đánh giá rất cao.<sup id="cite_ref-seventhpage_37-3" class="reference"><a href="#cite_note-seventhpage-37">[34]</a></sup><sup id="cite_ref-p105_39-2" class="reference"><a href="#cite_note-p105-39">[36]</a></sup>
+<i><b>Frostheal</b></i> ([S.](../S/Sindarin.md) *Nesthel*, [Q.](../Q/Quenya.md) *Helnestar*), cũng được đặt tên là *Musasormen Lääke*, hoặc *Jojojopo* theo tên một bộ tộc thần thoại cùng tên, là một loại thảo mộc từ Dãy Núi Trắng. Nó được sử dụng để điều trị tê cóng nên được người dân [Calenardhon](../C/Calenardhon.md) đánh giá rất cao.<sup id="cite_ref-seventhpage_37-3" class="reference"><a href="#cite_note-seventhpage-37">[34]</a></sup><sup id="cite_ref-p105_39-2" class="reference"><a href="#cite_note-p105-39">[36]</a></sup>
 
 ## Gaifas {#Gaifas}
 
@@ -303,7 +303,7 @@ images:
 
 ## Grodloth {#Grodloth}
 
-<i><b>Grodloth</b></i> ([S.](../S/Sindarin.md) “Hoa hang động,” [Q.](../Q/Quenya.md) *Rottolótë*) <sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[note 4]</a></sup>, còn được gọi là *Dubur-bulm*, là một loại thực vật quý hiếm được tìm thấy ở những điểm được chiếu sáng trong các hang động của Người lùn. Hoa của nó chữa lành các mô và thậm chí có thể phục hồi sự sống, khiến nó trở thành chủ đề trong truyền thuyết của Người lùn với cái tên “Nước mắt Durin”.<sup id="cite_ref-tenthpage_43-0" class="reference"><a href="#cite_note-tenthpage-43">[39]</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[40]</a></sup>
+<i><b>Grodloth</b></i> ([S.](../S/Sindarin.md) “Hoa hang động,” [Q.](../Q/Quenya.md) *Rottolótë*) <sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[note 4]</a></sup>, còn được gọi là *Dubur-bulm*, là một loài thực vật quý hiếm được tìm thấy ở những điểm được chiếu sáng trong Người lùn hố sâu. Hoa của nó chữa lành các mô và thậm chí có thể phục hồi sự sống, khiến nó trở thành chủ đề trong truyền thuyết của Người lùn với cái tên “Nước mắt Durin”.<sup id="cite_ref-tenthpage_43-0" class="reference"><a href="#cite_note-tenthpage-43">[39]</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[40]</a></sup>
 
 <h2><span id="Hart.27s_Glory"></span><span class="mw-headline" id="Hart&#39;s_Glory">Hart&#39;s Glory</span></h2>
 
@@ -331,7 +331,7 @@ images:
 
 <h2><span id="Kalmog.27s_Spoor"></span><span class="mw-headline" id="Kalmog&#39;s_Spoor">Kalmog&#39;s Spoor</span></h2>
 
-<i><b>Kalmog's Spoor</b></i> ([S.](../S/Sindarin.md) *Orchbui*, [Q.](../Q/Quenya.md) *Orcopiuta*), còn được gọi là *Orc Spit*, là loại cây bụi thấp ở sườn phía bắc của Dãy núi Grey. Một lớp bột nhão từ lá của nó được lũ Orc bôi lên vũ khí của chúng, gây ra cảm giác nóng rát và lở loét. Những chiếc gai bạc của nó có thể được rang và nghiền thành thuốc giải độc.<sup id="cite_ref-p113_50-1" class="reference"><a href="#cite_note-p113-50">[46]</a></sup>
+<i><b>Kalmog's Spoor</b></i> ([S.](../S/Sindarin.md) *Orchbui*, [Q.](../Q/Quenya.md) *Orcopiuta*), còn được gọi là *Orc Spit*, là loại cây bụi thấp ở sườn phía bắc của Dãy Núi Xám. Một lớp bột nhão từ lá của nó được Orc bôi lên vũ khí của họ, gây ra cảm giác nóng rát và lở loét. Những chiếc gai bạc của nó có thể được rang và nghiền thành thuốc giải độc.<sup id="cite_ref-p113_50-1" class="reference"><a href="#cite_note-p113-50">[46]</a></sup>
 
 ## Kathkusa {#Kathkusa}
 
@@ -351,11 +351,11 @@ images:
 
 ## Kirtir {#Kirtir}
 
-<i><b>Kirtir</b></i> ([S.](../S/Sindarin.md) *Tallas*, [Q.](../Q/Quenya.md) *Tallassë*), còn được gọi là *Swaintock*, là chồi của một loại cây trồng trên đất cát ở vùng [Gwathló](../G/Gwathló.md), khi tiêu thụ sẽ hoạt động như một chất kích thích mạnh mẽ. Chúng tăng tốc độ nhưng gây kiệt sức, run rẩy và có thể gây tử vong do dùng quá liều.<sup id="cite_ref-ninthpage_52-1" class="reference"><a href="#cite_note-ninthpage-52">[48]</a></sup><sup id="cite_ref-p115_53-0" class="reference"><a href="#cite_note-p115-53">[49]</a></sup>
+<i><b>Kirtir</b></i> ([S.](../S/Sindarin.md) *Tallas*, [Q.](../Q/Quenya.md) *Tallassë*), còn được gọi là *Swaintock*, là chồi của một loại cây trồng trên đất cát xung quanh [Gwathló](../G/Gwathló.md), khi tiêu thụ sẽ hoạt động như một chất kích thích mạnh mẽ. Chúng tăng tốc độ nhưng gây kiệt sức, run rẩy và có thể gây tử vong do dùng quá liều.<sup id="cite_ref-ninthpage_52-1" class="reference"><a href="#cite_note-ninthpage-52">[48]</a></sup><sup id="cite_ref-p115_53-0" class="reference"><a href="#cite_note-p115-53">[49]</a></sup>
 
 ## Kiseoboba {#Kiseoboba}
 
-<i><b>Kiseoboba</b></i> ([S.](../S/Sindarin.md) *Ufaug*, [Q.](../Q/Quenya.md) *fauca*), còn được gọi là *Sourberry*, là một loại cây bụi Far Harad có gai có quả ngăn chặn cảm giác khát. Mục đích sử dụng là để tiết kiệm lượng nước sử dụng, nhưng những du khách thiếu kinh nghiệm có thể mắc phải ảo tưởng sai lầm rằng nước không còn cần thiết nữa.<sup id="cite_ref-ninthpage_52-2" class="reference"><a href="#cite_note-ninthpage-52">[48]</a></sup><sup id="cite_ref-p115_53-1" class="reference"><a href="#cite_note-p115-53">[49]</a></sup>
+<i><b>Kiseoboba</b></i> ([S.](../S/Sindarin.md) *Ufaug*, [Q.](../Q/Quenya.md) *fauca*), còn được gọi là *Sourberry*, là một loại cây bụi xa Harad có quả mọng ngăn chặn cảm giác khát. Mục đích sử dụng là để tiết kiệm lượng nước sử dụng, nhưng những du khách thiếu kinh nghiệm có thể mắc phải ảo tưởng sai lầm rằng nước không còn cần thiết nữa.<sup id="cite_ref-ninthpage_52-2" class="reference"><a href="#cite_note-ninthpage-52">[48]</a></sup><sup id="cite_ref-p115_53-1" class="reference"><a href="#cite_note-p115-53">[49]</a></sup>
 
 ## Klagul {#Klagul}
 
@@ -377,9 +377,9 @@ images:
 
 <i><b>Lisgereg</b></i> ([S.](../S/Sindarin.md) “Blood-sậy,” [Q.](../Q/Quenya.md) *Sercelixë*), còn được gọi là *Rorash* hoặc *Anserkë*, là một loại cây cao giống như sậy có hoa màu nâu được tìm thấy ở các đầm lầy muối và dọc theo bờ biển. Rễ màu nâu của nó có thể bị xé thành hàng nghìn sợi, có tác dụng làm kín vết thương.<sup id="cite_ref-p118_55-0" class="reference"><a href="#cite_note-p118-55">[51]</a></sup>
 
-## Lưỡi của Rồng Nhỏ và Gấu {#Little_Dragon_&_Bear’s_Tongue}
+## Con Rồng & Lưỡi Gấu {#Little_Dragon_&_Bear’s_Tongue}
 
-<i><b>Lưỡi của Rồng Nhỏ và Gấu</b></i> ([S.](../S/Sindarin.md) *Lhúgeg*, [Q.](../Q/Quenya.md) *Morcolambë*), là một loại cỏ núi nhỏ có lá màu đỏ sẫm và hoa màu cam nhạt. Rễ nhạt của nó tiết ra nước màu hơi vàng để chữa vết bỏng, còn lá giã nát có thể bôi lên vết thương để mau lành.<sup id="cite_ref-p118_55-1" class="reference"><a href="#cite_note-p118-55">[51]</a></sup>
+<i><b>Little Rồng & Bear's Tongue</b></i> ([S.](../S/Sindarin.md) *Lhúgeg*, [Q.](../Q/Quenya.md) *Morcolambë*), là một loại thảo mộc miền núi nhỏ có lá màu đỏ sẫm và hoa màu cam nhạt. Rễ nhạt của nó tiết ra nước màu hơi vàng để chữa vết bỏng, còn lá giã nát có thể bôi lên vết thương để mau lành.<sup id="cite_ref-p118_55-1" class="reference"><a href="#cite_note-p118-55">[51]</a></sup>
 
 ## Lạy Chúa và vinh quang {#Lord_’n’_Glory}
 
@@ -387,7 +387,7 @@ images:
 
 ## Lothgalen {#Lothgalen}
 
-<i><b>Lothgalen</b></i><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[note 5]</a></sup> ([S.](../S/Sindarin.md) “Greenflower,” [Q.](../Q/Quenya.md) *Laicalótë*), còn được gọi là *Loth Nenond*, *Nenondo* và *Barag-bulm*, một loại cây nho màu xám từ Moria tiết ra chất lỏng phát sáng chết người. Mặc dù chất lỏng của nó có độc nhưng rễ và dây leo của nó được dùng làm dây thừng cực kỳ chắc chắn.<sup id="cite_ref-eleventhpage_57-0" class="reference"><a href="#cite_note-eleventhpage-57">[52]</a></sup><sup id="cite_ref-p119_58-0" class="reference"><a href="#cite_note-p119-58">[53]</a></sup>
+<i><b>Lothgalen</b></i><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[note 5]</a></sup> ([S.](../S/Sindarin.md) “Greenflower,” [Q.](../Q/Quenya.md) *Laicalótë*), còn được gọi là *Loth Nenond*, *Nenondo* và *Barag-bulm*, một loại dây leo màu xám từ Moria tiết ra chất lỏng phát sáng chết người. Mặc dù chất lỏng của nó có độc nhưng rễ và dây leo của nó được dùng làm dây thừng cực kỳ chắc chắn.<sup id="cite_ref-eleventhpage_57-0" class="reference"><a href="#cite_note-eleventhpage-57">[52]</a></sup><sup id="cite_ref-p119_58-0" class="reference"><a href="#cite_note-p119-58">[53]</a></sup>
 
 ## Lus {#Lus}
 
@@ -395,7 +395,7 @@ images:
 
 ## Cúc ngải {#Madwort}
 
-<i><b>Madwort</b></i> ([S.](../S/Sindarin.md) *Orchrach*, [Q.](../Q/Quenya.md) *Orcoracca*), còn được gọi là *Scra*, là một loại cây bụi có hoa màu vàng có gai nhọn ở Dãy núi Trắng. Những chiếc lá màu nâu xanh của nó có thể được đun sôi thành một thứ chất độc dính, gây điên loạn, rối loạn cảm giác hoặc thậm chí tổn thương não.<sup id="cite_ref-eleventhpage_57-2" class="reference"><a href="#cite_note-eleventhpage-57">[52]</a></sup><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[54]</a></sup>
+<i><b>Madwort</b></i> ([S.](../S/Sindarin.md) *Orchrach*, [Q.](../Q/Quenya.md) *Orcoracca*), còn được gọi là *Scra*, là một bụi cây có gai màu vàng có hoa từ Dãy Núi Trắng. Những chiếc lá màu nâu xanh của nó có thể được đun sôi thành một thứ chất độc dính, gây điên loạn, rối loạn cảm giác hoặc thậm chí tổn thương não.<sup id="cite_ref-eleventhpage_57-2" class="reference"><a href="#cite_note-eleventhpage-57">[52]</a></sup><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">[54]</a></sup>
 
 ## Maiana {#Maiana}
 
@@ -415,7 +415,7 @@ images:
 
 ## Tốt lắm {#Merrig}
 
-<i><b>Merrig</b></i> ([S.](../S/Sindarin.md) *Tosnorn*, [Q.](../Q/Quenya.md) *Querninkë*), còn được gọi là *Maioc*, là một bụi cây có gai xoắn ốc được tìm thấy ở Near Harad và Umbar. Khi đun sôi, gai của nó tạo ra một chất lỏng mà nếu uống nhiều lần hàng ngày sẽ dần dần cải thiện trạng thái tinh thần của một người sau khoảng mười ngày. Dùng lâu sẽ gây nghiện.<sup id="cite_ref-p121_63-1" class="reference"><a href="#cite_note-p121-63">[58]</a></sup>
+<i><b>Merrig</b></i> ([S.](../S/Sindarin.md) *Tosnorn*, [Q.](../Q/Quenya.md) *Querninkë*), còn được gọi là *Maioc*, là một loại cây bụi có gai xoắn ốc được tìm thấy ở Near Harad và Umbar. Khi đun sôi, gai của nó tạo ra một chất lỏng mà nếu uống nhiều lần hàng ngày sẽ dần dần cải thiện trạng thái tinh thần của một người sau khoảng mười ngày. Dùng lâu sẽ gây nghiện.<sup id="cite_ref-p121_63-1" class="reference"><a href="#cite_note-p121-63">[58]</a></sup>
 
 ## Metsästäjän Kukka {#Metsästäjän_Kukka}
 
@@ -455,7 +455,7 @@ images:
 
 ## Nakokasvi {#Nakokasvi}
 
-<i><b>Nakokasvi</b></i> ([S.](../S/Sindarin.md) *Hennan*, [Q.](../Q/Quenya.md) *Hendanna*), là một loại cây nhỏ, màu xám, giống cây kế được tìm thấy ở vùng núi Forochel. Khi rễ màu vàng của nó được ủ thành chất lỏng, nó phục hồi thị lực, đặc biệt được sử dụng để điều trị chứng mù tuyết.<sup id="cite_ref-p124_67-3" class="reference"><a href="#cite_note-p124-67">[62]</a></sup>
+<i><b>Nakokasvi</b></i> ([S.](../S/Sindarin.md) *Hennan*, [Q.](../Q/Quenya.md) *Hendanna*), là một loại cây nhỏ, giống cây kế, màu xám nhạt được tìm thấy ở vùng núi Forochel. Khi rễ màu vàng của nó được ủ thành chất lỏng, nó phục hồi thị lực, đặc biệt được sử dụng để điều trị chứng mù tuyết.<sup id="cite_ref-p124_67-3" class="reference"><a href="#cite_note-p124-67">[62]</a></sup>
 
 ## Nehtelassë {#Nehtelassë}
 
@@ -475,11 +475,11 @@ images:
 
 ## Nimgil {#Nimgil}
 
-<i><b>Nimgil</b></i> ([S.](../S/Sindarin.md) “White Star,” [Q.](../Q/Quenya.md) *Ondocálë*), còn được gọi là *Rockbright*, là một loài hoa màu trắng mọc dọc theo vách núi Mordor. Mật hoa hồi sinh của nó rất được săn đón.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[64]</a></sup>
+<i><b>Nimgil</b></i> ([S.](../S/Sindarin.md) “Sao Trắng,” [Q.](../Q/Quenya.md) *Ondocálë*), còn được gọi là *Rockbright*, là một loài hoa màu trắng mọc dọc theo vách núi Mordor. Mật hoa hồi sinh của nó rất được săn đón.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[64]</a></sup>
 
 ## Oiolassë {#Oiolassë}
 
-<i><b>Oiolassë</b></i> ([S.](../S/Sindarin.md) *Uilas*, [Q.](../Q/Quenya.md) “Everjoy”), còn được gọi là *Say-arana*, là một loại cây thân thảo ven biển ở vùng cực Bắc. Đinh hương của nó có thể được Yêu tinh ăn để bảo vệ bản thân rất nhiều.<sup id="cite_ref-p127_70-0" class="reference"><a href="#cite_note-p127-70">[65]</a></sup>
+<i><b>Oiolassë</b></i> ([S.](../S/Sindarin.md) *Uilas*, [Q.](../Q/Quenya.md) “Everjoy”), còn được gọi là *Say-arana*, là một loại cây thân thảo ven biển ở vùng cực Bắc. Đinh hương của nó có thể được Tiên tộc tiêu thụ để bảo vệ bản thân một cách hiệu quả.<sup id="cite_ref-p127_70-0" class="reference"><a href="#cite_note-p127-70">[65]</a></sup>
 
 ## Olvatári {#Olvatári}
 
@@ -499,7 +499,7 @@ images:
 
 ## Phacalus {#Phacalus}
 
-<i><b>Phacalus</b></i> ([S.](../S/Sindarin.md) *Solchlisg*, [Q.](../Q/Quenya.md) *Sulcalixë*'), còn được gọi là *Fatemaker*, là một loại rễ đầm lầy từ Dunland, ban đầu được sử dụng trong các nghi lễ Breffraen. Nó được dùng để cầm máu, nhưng khi ăn vào, nó có thể tăng cường khả năng tinh thần của một người vĩnh viễn. Điều này có nguy cơ gây độc tính hoặc phản ứng dị ứng chết người.<sup id="cite_ref-twelfthpage_62-4" class="reference"><a href="#cite_note-twelfthpage-62">[57]</a></sup><sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[67]</a></sup>
+<i><b>Phacalus</b></i> ([S.](../S/Sindarin.md) *Solchlisg*, [Q.](../Q/Quenya.md) *Sulcalixë*'), còn được gọi là *Fatemaker*, là một loại rễ cây đầm lầy có nguồn gốc từ Dunland, ban đầu được sử dụng trong các nghi lễ Breffraen. Nó được dùng để cầm máu, nhưng khi ăn vào, nó có thể tăng cường khả năng tinh thần của một người vĩnh viễn. Điều này có nguy cơ gây độc tính hoặc phản ứng dị ứng chết người.<sup id="cite_ref-twelfthpage_62-4" class="reference"><a href="#cite_note-twelfthpage-62">[57]</a></sup><sup id="cite_ref-72" class="reference"><a href="#cite_note-72">[67]</a></sup>
 
 ## Sắc tố {#Pigmint}
 
@@ -527,15 +527,15 @@ images:
 
 ## Rumareth {#Rumareth}
 
-<i><b>Rumareth</b></i> ([S.](../S/Sindarin.md) *Darhereg*, [Q.](../Q/Quenya.md) *Sercelar*), là một loại dây leo dài quấn quanh các cành phía trên của cây sồi và bạch dương. Những chiếc lá lốm đốm màu hồng hình tam giác của nó có thể dùng để đắp lên vết thương để cầm máu, điều mà Người Angmar đã học được từ phương Đông.<sup id="cite_ref-p132_78-1" class="reference"><a href="#cite_note-p132-78">[72]</a></sup>
+<i><b>Rumareth</b></i> ([S.](../S/Sindarin.md) *Darhereg*, [Q.](../Q/Quenya.md) *Sercelar*), là một loại dây leo dài quấn quanh các cành phía trên của cây sồi và bạch dương. Những chiếc lá lốm đốm màu hồng hình tam giác của nó có thể dùng để đắp lên vết thương để cầm máu, điều mà Con Người của Angmar đã học được từ phương Đông.<sup id="cite_ref-p132_78-1" class="reference"><a href="#cite_note-p132-78">[72]</a></sup>
 
 ## Saewedhil {#Saewedhil}
 
-<i><b>~ Saewedhil</b></i> ([S.](../S/Sindarin.md) “Elf-poison,” [Q.](../Q/Quenya.md) *Eldasangwa*), còn được gọi là *Elfbane*, *Equalizer* hoặc *Galenana*, là một bụi cây nhỏ được tìm thấy gần bìa rừng núi cao. Nghiền thành bột, những chiếc lá tròn của nó tạo ra một chất độc tàn khốc giết chết Yêu tinh ngay lập tức và khiến những người khác bị hôn mê kéo dài vài tuần. Chất độc có thể được nhận biết qua mùi nấm nướng. Trà Ladylock được đồn đại là một loại thuốc giải độc, nhưng đối với Yêu tinh thì bất kỳ loại thuốc giải độc nào cũng đến quá muộn.<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[73]</a></sup>
+<i><b>~ Saewedhil</b></i> ([S.](../S/Sindarin.md) “Tiên-poison,” [Q.](../Q/Quenya.md) *Eldasangwa*), còn được gọi là *Elfbane*, *Equalizer* hoặc *Galenana*, là một loại cây bụi nhỏ được tìm thấy gần bìa rừng núi cao. Nghiền thành bột, những chiếc lá tròn của nó tạo ra chất độc tàn khốc giết chết Tiên tộc ngay lập tức và khiến những người khác bị hôn mê kéo dài vài tuần. Chất độc có thể được nhận biết qua mùi nấm nướng. Trà Ladylock được đồn đại là một loại thuốc giải độc, nhưng đối với Tiên tộc thì bất kỳ loại thuốc giải độc nào cũng đã quá muộn.<sup id="cite_ref-79" class="reference"><a href="#cite_note-79">[73]</a></sup>
 
 ## Thuyền {#Sailchas}
 
-<i><b>Sailchas</b></i> ([S.](../S/Sindarin.md) *Galulos*, [Q.](../Q/Quenya.md) *Almalótë*), còn được gọi là *Lucksai* hoặc *Sailcha*, là một loài lan tím của Cardolan. Hoa của nó được dùng làm bùa may mắn.<sup id="cite_ref-13thpage_76-2" class="reference"><a href="#cite_note-13thpage-76">[71]</a></sup><sup id="cite_ref-p133_80-0" class="reference"><a href="#cite_note-p133-80">[74]</a></sup>
+<i><b>Sailchas</b></i> ([S.](../S/Sindarin.md) *Galulos*, [Q.](../Q/Quenya.md) *Almalótë*), còn được gọi là *Lucksai* hoặc *Sailcha*, là một loài lan tím có nguồn gốc từ Cardolan. Hoa của nó được dùng làm bùa may mắn.<sup id="cite_ref-13thpage_76-2" class="reference"><a href="#cite_note-13thpage-76">[71]</a></sup><sup id="cite_ref-p133_80-0" class="reference"><a href="#cite_note-p133-80">[74]</a></sup>
 
 ## Vuốt cát {#Sandclaw}
 
@@ -543,7 +543,7 @@ images:
 
 ## Sarah-Pokes-Đầu bà {#Sarah-Pokes-Her-Head}
 
-<i><b>Sarah-Pokes-Her-Head</b></i> là một loài hoa dại phổ biến ở Mirkwood và những nơi khác. Nó có liên quan đến Jack-in-the-bục giảng. Rễ của nó, được ủ theo chu kỳ mặt trăng, trở nên ngọt ngào và bổ dưỡng, có thể nuôi sống nhiều người trong một tuần.<sup id="cite_ref-13thpage_76-3" class="reference"><a href="#cite_note-13thpage-76">[71]</a></sup>
+<i><b>Sarah-Pokes-Her-Head</b></i> là một loài hoa dại phổ biến ở Mirkwood và các nơi khác. Nó có liên quan đến Jack-in-the-bục giảng. Rễ của nó, được ủ theo chu kỳ mặt trăng, trở nên ngọt ngào và bổ dưỡng, có thể nuôi sống nhiều người trong một tuần.<sup id="cite_ref-13thpage_76-3" class="reference"><a href="#cite_note-13thpage-76">[71]</a></sup>
 
 ## Cá gai {#Seathorn}
 
@@ -587,7 +587,7 @@ images:
 
 ## Cải thảo chân {#Splayfoot_Goodwort}
 
-<i><b>Splayfoot Goodwort</b></i> ([S.](../S/Sindarin.md) *Linithil*, [Q.](../Q/Quenya.md) *Linisil*), còn được gọi đơn giản là *Goodwort*, là một loại cây đầm lầy cao có vỏ hạt chứa hạt màu đen. Bị tiêu hao, họ củng cố niềm tin vào điều tốt nhưng làm mất phương hướng của kẻ ác. Chúng được tìm thấy ở Gladden Fields và đầm lầy ở vùng Undeeps.<sup id="cite_ref-14thpage_35-2" class="reference"><a href="#cite_note-14thpage-35">[32]</a></sup><sup id="cite_ref-86" class="reference"><a href="#cite_note-86">[80]</a></sup>
+<i><b>Splayfoot Goodwort</b></i> ([S.](../S/Sindarin.md) *Linithil*, [Q.](../Q/Quenya.md) *Linisil*), còn được gọi đơn giản là *Goodwort*, là một loại cây đầm lầy cao có vỏ hạt chứa hạt màu đen. Bị tiêu hao, họ củng cố niềm tin vào điều tốt nhưng làm mất phương hướng của kẻ ác. Chúng được tìm thấy trong Gladden Fields và các vũng lầy của Undeeps.<sup id="cite_ref-14thpage_35-2" class="reference"><a href="#cite_note-14thpage-35">[32]</a></sup><sup id="cite_ref-86" class="reference"><a href="#cite_note-86">[80]</a></sup>
 
 <h2><span id="Stag.27s_Purse"></span><span class="mw-headline" id="Stag&#39;s_Purse">Stag&#39;s Purse</span></h2>
 
@@ -631,7 +631,7 @@ images:
 
 ## Tarna đích thực {#True_Tarnas}
 
-<i><b>True Tarnas</b></i> ([S.](../S/Sindarin.md) *Arthond*, [Q.](../Q/Quenya.md) *Arasunda*), còn được gọi là *Greater Tarnas*, là một loài hoa từ Suza Sumar của Far Harad mà củ của nó khi đun sôi sẽ chữa lành tổn thương nội tạng. Chúng khó tìm và thường bị nhầm lẫn với [Nấm phễu](../M/Mushrooms.md#Portrayal_in_adaptations).<sup id="cite_ref-15thpage_91-2" class="reference"><a href="#cite_note-15thpage-91">[84]</a></sup><sup id="cite_ref-p141_93-0" class="reference"><a href="#cite_note-p141-93">[86]</a></sup>
+<i><b>True Tarnas</b></i> ([S.](../S/Sindarin.md) *Arthond*, [Q.](../Q/Quenya.md) *Arasunda*), còn được gọi là *Greater Tarnas*, là một loài hoa từ Suza Sumar of Far Harad có củ khi đun sôi sẽ chữa lành tổn thương nội tạng. Chúng khó tìm và thường bị nhầm lẫn với [Nấm phễu](../M/Mushrooms.md#Portrayal_in_adaptations).<sup id="cite_ref-15thpage_91-2" class="reference"><a href="#cite_note-15thpage-91">[84]</a></sup><sup id="cite_ref-p141_93-0" class="reference"><a href="#cite_note-p141-93">[86]</a></sup>
 
 ## Tulaxar {#Tulaxar}
 
@@ -639,11 +639,11 @@ images:
 
 ## Tyr-Fira {#Tyr-Fira}
 
-<i><b>Tyr-Fira</b></i> ([S.](../S/Sindarin.md) *Gwinguil*, [Q.](../Q/Quenya.md) *Vinyacuilë*), còn được gọi là *Lifegiver*, là một loại thảo mộc của dãy núi Trắng. Theo truyền thuyết, người quá cố có thể đặt một cánh hoa vào miệng để mang lại sự sống.<sup id="cite_ref-15thpage_91-4" class="reference"><a href="#cite_note-15thpage-91">[84]</a></sup><sup id="cite_ref-p141_93-2" class="reference"><a href="#cite_note-p141-93">[86]</a></sup>
+<i><b>Tyr-Fira</b></i> ([S.](../S/Sindarin.md) *Gwinguil*, [Q.](../Q/Quenya.md) *Vinyacuilë*), còn được gọi là *Lifegiver*, là một loại thảo mộc thuộc loài Dãy Núi Trắng. Theo truyền thuyết, người quá cố có thể đặt một cánh hoa vào miệng để mang lại sự sống.<sup id="cite_ref-15thpage_91-4" class="reference"><a href="#cite_note-15thpage-91">[84]</a></sup><sup id="cite_ref-p141_93-2" class="reference"><a href="#cite_note-p141-93">[86]</a></sup>
 
 ## Ul-Naza {#Ul-Naza}
 
-<i><b>Ul-Naza</b></i> ([S.](../S/Sindarin.md) *Baladhroen*, [Q.](../Q/Quenya.md) *Valarunya*), là một loại cây bụi sa mạc quý hiếm được cho là chỉ mọc ở nơi Vala đã đi qua. Nhai lá nhọn béo ngậy của nó chữa khỏi mọi chất độc. Angmar nhập nó từ phương Đông.<sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[87]</a></sup>
+<i><b>Ul-Naza</b></i> ([S.](../S/Sindarin.md) *Baladhroen*, [Q.](../Q/Quenya.md) *Valarunya*), là một loại cây bụi sa mạc quý hiếm được cho là chỉ mọc ở nơi Vala đã đi qua. Nhai lá nhọn béo ngậy của nó chữa khỏi mọi chất độc. Angmar đã nhập nó từ phương Đông.<sup id="cite_ref-94" class="reference"><a href="#cite_note-94">[87]</a></sup>
 
 ## Unikukka {#Unikukka}
 
@@ -679,7 +679,7 @@ images:
 
 ## Thủy tùng quả trắng {#White-Berried_Yew}
 
-<i><b>White-Berry Yew</b></i> ([S.](../S/Sindarin.md) *Nimgurth*, [Q.](../Q/Quenya.md) *Nuruninguë*), còn được gọi là *White Death*, là một loại cây bụi được tìm thấy trong các khu rừng lá kim ở Eriador, đặc biệt là Rhudaur. Những quả mọng chín màu hồng của nó gây ra cái chết không đau đớn và trong lịch sử được sử dụng trong các nghi lễ tự sát.<sup id="cite_ref-16thpage_99-1" class="reference"><a href="#cite_note-16thpage-99">[91]</a></sup><sup id="cite_ref-p144_98-2" class="reference"><a href="#cite_note-p144-98">[90]</a></sup>
+<i><b>Cây thủy tùng trắng</b></i> ([S.](../S/Sindarin.md) *Nimgurth*, [Q.](../Q/Quenya.md) *Nuruninguë*), còn được gọi là *White Death*, là một loại cây bụi được tìm thấy trong các khu rừng lá kim của Eriador, đặc biệt là Rhudaur. Những quả mọng chín màu hồng của nó gây ra cái chết không đau đớn và trong lịch sử được sử dụng trong các nghi lễ tự sát.<sup id="cite_ref-16thpage_99-1" class="reference"><a href="#cite_note-16thpage-99">[91]</a></sup><sup id="cite_ref-p144_98-2" class="reference"><a href="#cite_note-p144-98">[90]</a></sup>
 
 ## Wifwif {#Wifwif}
 
@@ -687,15 +687,15 @@ images:
 
 ## Hoa Lan {#Wight_Orchid}
 
-<i><b>Wight Orchid</b></i> là một loại thảo dược thần bí có nguồn gốc từ những đồng cỏ cao ở Dãy núi Trắng. Rễ của nó khi ăn vào sẽ cho phép linh hồn rời khỏi cơ thể và du hành đi xa. Được sử dụng trong các nghi lễ cổ xưa, nó rất nguy hiểm.<sup id="cite_ref-17thpage_101-0" class="reference"><a href="#cite_note-17thpage-101">[93]</a></sup>
+<i><b>Wight Orchid</b></i> là một loại thảo dược thần bí có nguồn gốc từ những đồng cỏ cao ở Dãy Núi Trắng. Rễ của nó khi ăn vào sẽ cho phép linh hồn rời khỏi cơ thể và du hành đi xa. Được sử dụng trong các nghi lễ cổ xưa, nó rất nguy hiểm.<sup id="cite_ref-17thpage_101-0" class="reference"><a href="#cite_note-17thpage-101">[93]</a></sup>
 
 ## Winclamit {#Winclamit}
 
-<i><b>Winclamit</b></i> ([S.](../S/Sindarin.md) *Calengil*, [Q.](../Q/Quenya.md) *Laicelen*), còn được gọi là *Bloodkeep*, là một loại cây nho đến từ Dãy núi Trắng, mọc giữa những khu rừng vân sam. Quả luộc của nó chữa lành cả những vết thương nặng.<sup id="cite_ref-16thpage_99-2" class="reference"><a href="#cite_note-16thpage-99">[91]</a></sup><sup id="cite_ref-p145_100-1" class="reference"><a href="#cite_note-p145-100">[92]</a></sup>
+<i><b>Winclamit</b></i> ([S.](../S/Sindarin.md) *Calengil*, [Q.](../Q/Quenya.md) *Laicelen*), còn được gọi là *Bloodkeep*, là một loại cây nho có nguồn gốc từ Dãy Núi Trắng, mọc giữa các khu rừng vân sam. Quả luộc của nó chữa lành cả những vết thương nặng.<sup id="cite_ref-16thpage_99-2" class="reference"><a href="#cite_note-16thpage-99">[91]</a></sup><sup id="cite_ref-p145_100-1" class="reference"><a href="#cite_note-p145-100">[92]</a></sup>
 
 ## Witan {#Witan}
 
-<i><b>Witan</b></i> ([S.](../S/Sindarin.md) *Puilas*, [Q.](../Q/Quenya.md) *Piutalassë*) là một loại cây lá đỏ của Forest of Tears ở Far Harad. Lá của nó, bị <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bozishnarod&amp;action=edit&amp;redlink=1" title="Bozishnarod (page does not exist)">Bozishnarod</a>nhai trong trận chiến, đã tạo ra hiệu ứng choáng ngợp. Điều này dẫn đến việc họ đặt cho nó cái tên *Drugo-sreca* (cơ hội thứ hai).<sup id="cite_ref-17thpage_101-1" class="reference"><a href="#cite_note-17thpage-101">[93]</a></sup><sup id="cite_ref-p145_100-2" class="reference"><a href="#cite_note-p145-100">[92]</a></sup>
+<i><b>Witan</b></i> ([S.](../S/Sindarin.md) *Puilas*, [Q.](../Q/Quenya.md) *Piutalassë*) là một loại cây lá đỏ của Forest of Tears in Far Harad. Lá của nó, bị <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bozishnarod&amp;action=edit&amp;redlink=1" title="Bozishnarod (page does not exist)">Bozishnarod</a>nhai trong trận chiến, đã tạo ra hiệu ứng choáng ngợp. Điều này dẫn đến việc họ đặt cho nó cái tên *Drugo-sreca* (cơ hội thứ hai).<sup id="cite_ref-17thpage_101-1" class="reference"><a href="#cite_note-17thpage-101">[93]</a></sup><sup id="cite_ref-p145_100-2" class="reference"><a href="#cite_note-p145-100">[92]</a></sup>
 
 ## Pháp sư {#Witchbriar}
 
@@ -737,11 +737,11 @@ images:
 
 ### Ilyalma {#Ilyalma}
 
-<i><b>Ilyalma</b></i> ([S.](../S/Sindarin.md) *Pangal*, [Q.](../Q/Quenya.md) “Allweal”), còn được gọi là *Gilder Dust*, *Astannûn*, *Númenasto*, hoặc *Pangalu*, là một hỗn hợp thuốc theo một công thức bí mật chỉ một số thầy thuốc Elven và Mannish biết. Khi rắc lên vết thương, nó sẽ chữa lành các cơ quan, động mạch và tĩnh mạch.<sup id="cite_ref-p111_48-2" class="reference"><a href="#cite_note-p111-48">[44]</a></sup>
+<i><b>Ilyalma</b></i> ([S.](../S/Sindarin.md) *Pangal*, [Q.](../Q/Quenya.md) “Allweal”), còn được gọi là *Gilder Dust*, *Astannûn*, *Númenasto*, hoặc *Pangalu*, là một hỗn hợp thuốc theo một công thức bí mật chỉ một số ít Tiên và người chữa lành Mannish biết. Khi rắc lên vết thương, nó sẽ chữa lành các cơ quan, động mạch và tĩnh mạch.<sup id="cite_ref-p111_48-2" class="reference"><a href="#cite_note-p111-48">[44]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Rừng trong vai trò nhập vai ở Trung Địa](../W/Woods_in_Middle-earth_Role_Playing.md)
+- [Rừng ở Middle-earth Role Playing](../W/Woods_in_Middle-earth_Role_Playing.md)
 
 ## Ghi chú {#Notes}
 

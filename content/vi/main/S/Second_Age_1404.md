@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_1320.md" title="Second Age 1320">1320</a><a href="Second_Age_1350.md" title="Second Age 1350">1350</a><a href="Second_Age_1394.md" title="Second Age 1394">1394</a><a class="mw-selflink selflink">1404</a><a href="Second_Age_1474.md" title="Second Age 1474">1474</a><a href="Second_Age_1500.md" title="Second Age 1500">1500</a><a href="Second_Age_1556.md" title="Second Age 1556">1556</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 1404** (viết tắt là **S.A. 1404**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1404 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhị 1404** (viết tắt là **S.A. 1404**) là năm [thứ 1404 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhị](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 

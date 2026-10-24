@@ -16,17 +16,17 @@ sort_keys:
   "Qenya names": "Turuhalme"
 ---
 
-**Turuhalmë**, hay **Lễ ghi nhật ký**, là một ngày lễ [Elves](../E/Elves.md) của [Yule](../Y/Yule.md),<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup> tập trung vào việc mang gỗ đến [Mar Vanwa Tyaliéva](../M/Mar_Vanwa_Tyaliéva.md) để nuôi [Tale-fire](Tale-fire.md), theo phiên bản sớm nhất của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Turuhalmë**, hay **Lễ ghi nhật ký**, là một ngày lễ [Elvish](../E/Elves.md) của [Yule](../Y/Yule.md),<sup id="cite_ref-app_1-0" class="reference"><a href="#cite_note-app-1">[1]</a></sup> tập trung vào việc mang gỗ đến [Mar Vanwa Tyaliéva](../M/Mar_Vanwa_Tyaliéva.md) để nuôi [Tale-fire](Tale-fire.md), theo phiên bản sớm nhất của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Như [Lindo](../L/Lindo.md) mô tả trong [Ngôi nhà của trò chơi lạc lối](../C/Cottage_of_Lost_Play.md), đó là một ngày thể thao trên tuyết và những khúc gỗ được kéo ra từ trong rừng, sau đó là ca hát và uống rượu, sau đó những câu chuyện được kể xung quanh [Lửa truyện cổ tích](Tale-fire.md). Trong đêm nay, [Eriol](../E/Eriol.md) đã nghe câu chuyện về [Trận nạn của Noldoli](../G/Gilfanon's_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md) từ [Ailios](../A/Ailios.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Như [Lindo](../L/Lindo.md) mô tả trong [Ngôi nhà của trò chơi lạc lối](../C/Cottage_of_Lost_Play.md), đó là một ngày thể thao trên tuyết và những khúc gỗ được kéo ra từ trong rừng, sau đó là ca hát và uống rượu, sau đó những câu chuyện được kể xung quanh [Lửa truyện cổ tích](Tale-fire.md). Trong đêm nay, [Eriol](../E/Eriol.md) đã được nghe câu chuyện về [Câu chuyện của Noldoli](../G/Gilfanon's_Tale%253A_The_Travail_of_the_Noldoli_and_the_Coming_of_Mankind.md) từ [Ailios](../A/Ailios.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Turuhalmë* là [Qenya](../Q/Qenya.md) cho "Kéo gỗ", từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Turu&amp;action=edit&amp;redlink=1" title="Turu (page does not exist)">turu</a></i> ("gỗ; chủ yếu là củi") + *halm* ("vẽ"). Các từ cùng gốc [Gnomish](../G/Gnomish.md), <i><b>Duruchalmo</b></i>(<i><b>s</b></i>) và <i><b>Halm na-dhuruthon</b></i>, được gọi là "[Yule](../Y/Yule.md)".<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup> Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)*, người ta nói rằng thuật ngữ cuối cùng đề cập đến buổi sáng sau đêm Yule: *Durufui* hoặc *Tonfui*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Turuhalmë* là [Qenya](../Q/Qenya.md) dành cho "Bản vẽ", từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Turu&amp;action=edit&amp;redlink=1" title="Turu (page does not exist)">turu</a></i> ("gỗ; chủ yếu là củi") + *halm* ("vẽ"). Các từ cùng gốc [Gnomish](../G/Gnomish.md), <i><b>Duruchalmo</b></i>(<i><b>s</b></i>) và <i><b>Halm na-dhuruthon</b></i>, được gọi là "[Yule](../Y/Yule.md)".<sup id="cite_ref-app_1-1" class="reference"><a href="#cite_note-app-1">[1]</a></sup> Trong *[Gnomish Lexicon](../G/Gnomish_Lexicon.md)*, người ta nói rằng thuật ngữ cuối cùng đề cập đến buổi sáng sau đêm Yule: *Durufui* hoặc *Tonfui*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tolkien cũng đã xem xét các thuật ngữ *Halmadhurwion* và *Duruchalm* trong một ghi chú, nhưng đã loại bỏ *Duruchalm*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tolkien cũng đã xem xét các thuật ngữ *Halmadhurwion* và *Duruchalm* trong ghi chú, nhưng đã gạch bỏ *Duruchalm*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

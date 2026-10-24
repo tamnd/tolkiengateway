@@ -66,23 +66,23 @@ Sự kiện xảy ra vào ngày 15 tháng 2.
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1896](1896.md)** - [Arthur Tolkien](../A/Arthur_Tolkien.md), cha của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) qua đời.
-- **[1934](1934.md)** - Bài thơ "[Những cuộc phiêu lưu của Tom Bombadil](<../T/The_Adventures_of_Tom_Bombadil_(poem).md>)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
+- **[1896](1896.md)** - [Arthur Tolkien](../A/Arthur_Tolkien.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cha của qua đời.
+- **[1934](1934.md)** - Bài thơ "[The Adventures of Tom Bombadil](<../T/The_Adventures_of_Tom_Bombadil_(poem).md>)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được đăng trên *The Oxford Magazine*.
 - **[1949](1949.md)** - Học giả [Alexei Kondratiev](../A/Alexei_Kondratiev.md) ra đời.
-- **[1991](1991.md)** – Hội thảo "Hội thảo về các ngôn ngữ của Trung địa" đầu tiên bắt đầu tại nhà của [E.L.F.](../E/Elvish_Linguistic_Fellowship.md) thành viên [Bill Welden](../B/Bill_Welden.md). Nó kéo dài đến [ngày 18 tháng 2](18_February.md).
+- **[1991](1991.md)** – Hội thảo "Hội thảo về các ngôn ngữ của Trung Địa" đầu tiên bắt đầu tại nhà của [E.L.F.](../E/Elvish_Linguistic_Fellowship.md) thành viên [Bill Welden](../B/Bill_Welden.md). Nó kéo dài đến [ngày 18 tháng 2](18_February.md).
 - **[2008](2008.md)** - *[The Lord of the Rings and the Western Narrative Tradition](../T/The_Lord_of_the_Rings_and_the_Western_Narrative_Tradition.md)* được xuất bản
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
-    - [Galadriel](../G/Galadriel.md) cho thấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) [Tấm gương của Galadriel](../M/Mirror_of_Galadriel.md).
-    - Sau cuộc chiến với [Balrog](../D/Durin's_Bane.md), [Gandalf](../G/Gandalf.md) sống lại.
-    - 15 tháng cuối cùng của Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
+    - [Galadriel](../G/Galadriel.md) hiển thị [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) [Gương của Galadriel](../M/Mirror_of_Galadriel.md).
+    - Sau trận chiến với [Balrog](../D/Durin's_Bane.md), [Gandalf](../G/Gandalf.md) sống lại.
+    - Quý cuối cùng của Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong các phiên bản trước, [Câu chuyện về những năm](../A/Appendix_B.md) liệt kê hai sự kiện [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) vào lúc [ngày 14 tháng 2](14_February.md). Vì rõ ràng từ bản tường thuật rằng sự kiện thứ hai xảy ra một ngày trước khi khởi hành vào [16 tháng 2](16_February.md), điều này gây ra vấn đề về niên đại. Trong phần *[50th Anniversary Edition](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>)*, [Hammond](../W/Wayne_G._Hammond.md) và [Scull](../C/Christina_Scull.md) đã quyết định sửa lại Câu chuyện về những năm tháng để chuỗi [Tấm gương Galadriel](../M/Mirror_of_Galadriel.md) xảy ra vào ngày 15 tháng 2. Sự trở lại cuộc sống của [Gandalf](../G/Gandalf.md) cũng được dời sang ngày hôm nay mà không rõ lý do. <span></span>
+Trong các phiên bản trước, [Tale of Years](../A/Appendix_B.md) liệt kê hai sự kiện [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) vào lúc [ngày 14 tháng 2](14_February.md). Vì rõ ràng từ bản tường thuật rằng sự kiện thứ hai xảy ra một ngày trước khi khởi hành vào [16 tháng 2](16_February.md), điều này gây ra vấn đề về niên đại. Trong *[50th Anniversary Edition](<../T/The_Lord_of_the_Rings_(50th_Anniversary_Edition).md>)*, [Hammond](../W/Wayne_G._Hammond.md) và [Scull](../C/Christina_Scull.md) đã quyết định sửa Tale of Years để chuỗi [Mirror của Galadriel](../M/Mirror_of_Galadriel.md) xảy ra vào ngày 15 tháng 2. Việc [Gandalf](../G/Gandalf.md) trở lại cuộc sống cũng được dời sang ngày hôm nay mà không rõ lý do. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

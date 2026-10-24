@@ -14,7 +14,7 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>noa</b></i> là từ [Quenya](../Q/Quenya.md). [Tolkien](../J/J.R.R._Tolkien.md) đã đảo ngược ý nghĩa của nó qua nhiều năm: (1) một bản thảo có "*ekuva nin kare sa noa*", dịch là "Tôi 'có thể' làm điều đó vào ngày mai", trong đó *noa* là "ngày mai"; (2) một bản thảo khác cho biết *noa* ngày hôm qua, từ biểu thức *noa rē* ("ngày xưa").<sup id="cite_ref-VT49_1-0" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
+<i><b>noa</b></i> là [Quenya](../Q/Quenya.md) từ. [Tolkien](../J/J.R.R._Tolkien.md) đã đảo ngược ý nghĩa của nó qua nhiều năm: (1) một bản thảo có "*ekuva nin kare sa noa*", dịch là "Tôi 'có thể' làm điều đó vào ngày mai", trong đó *noa* là "ngày mai"; (2) một bản thảo khác cho biết *noa* ngày hôm qua, từ biểu thức *noa rē* ("ngày xưa").<sup id="cite_ref-VT49_1-0" class="reference"><a href="#cite_note-VT49-1">[1]</a></sup>
 
 [Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *noa*, được phân tích "về cơ bản là một tính từ" (với nghĩa "trước đây" hoặc "ngày hôm qua") có thể hợp lệ [Neo-Quenya](Neo-Quenya.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

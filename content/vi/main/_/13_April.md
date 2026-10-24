@@ -68,14 +68,14 @@ Sự kiện xảy ra vào ngày 13 tháng 4.
 - **[1902](1902.md)** - Diễn viên lồng tiếng [Godfrey Kenton](../G/Godfrey_Kenton.md) ra đời.
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 12](../L/Letter_12.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 60](../L/Letter_60.md).
-- **[1970](1970.md)** - [Tom Shippey](../T/Tom_Shippey.md) nhận được [lá thư](../L/Letter_to_Tom_Shippey.md) từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sau khi có bài phát biểu tại hội nghị theo chủ đề Tolkien.
+- **[1970](1970.md)** - [Tom Shippey](../T/Tom_Shippey.md) nhận được [thư](../L/Letter_to_Tom_Shippey.md) từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sau khi phát biểu tại một hội nghị có chủ đề Tolkien.
 - **[2000](2000.md)** - Một ấn bản khác của *[Tolkien: The Illustrated Encyclopedia](../T/Tolkien%253A_The_Illustrated_Encyclopedia.md)* được xuất bản.
 - **[2005](2005.md)** - Dịch giả người Đức [Wolfgang Krege](../W/Wolfgang_Krege.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) đi tới [Field of Celebrant](../F/Field_of_Celebrant.md).
+    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) di chuyển về phía [Trường Celebrant](../F/Field_of_Celebrant.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Vào buổi sáng [Gandalf](../G/Gandalf.md) kiểm tra Chiếc nhẫn của [Bilbo](../B/Bilbo_Baggins.md) và xác định từ dòng chữ trên đó rằng đó là [Chiếc nhẫn duy nhất](../T/The_One_Ring.md). Ông ta kể cho [Frodo](../F/Frodo_Baggins.md) về [lịch sử của Chiếc nhẫn](../T/The_One_Ring.md#History) và Frodo tình nguyện rời khỏi [Quận](../T/The_Shire.md) để bảo vệ Chiếc nhẫn.
-    - [Samwise Gamgee](../S/Samwise_Gamgee.md) bị Gandalf phát hiện đang nghe lén và (vui vẻ) buộc phải đi cùng Frodo.
+    - Vào buổi sáng [Gandalf](../G/Gandalf.md) kiểm tra Chiếc nhẫn của [Bilbo](../B/Bilbo_Baggins.md) và xác định từ dòng chữ trên đó rằng đó là [Chiếc nhẫn duy nhất](../T/The_One_Ring.md). Ông ta kể cho [Frodo](../F/Frodo_Baggins.md) về [lịch sử của Chiếc nhẫn](../T/The_One_Ring.md#History) và Frodo tình nguyện rời khỏi [ Shire](../T/The_Shire.md) để bảo vệ Chiếc nhẫn.
+    - [Samwise Gamgee](../S/Samwise_Gamgee.md) bị bắt quả tang Gandalf nghe lén và (vui vẻ) buộc phải đi cùng Frodo.

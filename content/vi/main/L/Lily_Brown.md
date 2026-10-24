@@ -80,7 +80,7 @@ Giống như nhiều hobbit nữ,<sup id="cite_ref-2" class="reference"><a href=
 		</li>
 </ul>
 
-<b>2025: <i><a href="../T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Tales of the Shire: Trò chơi "Chúa tể của những chiếc nhẫn"</a></i>:</b>
+<b>2025: <i><a href="../T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Câu chuyện về Shire: Trò chơi "The Lord of the Rings"</a></i>:</b>
 
 <dl><dd>Lily Cotton is an interactive character. She can be invited to meals and, after reaching a milestone, can trade with the player.</dd></dl>
 

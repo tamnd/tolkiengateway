@@ -26,13 +26,13 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_(Colored).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg/300px-J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg" decoding="async" loading="lazy" width="300" height="399" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg/450px-J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/5/5d/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg/600px-J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water_%28Colored%29.jpg 2x" data-file-width="1156" data-file-height="1539"/></a><figcaption><i>The Hill - Hobbiton-across-the-Water</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
-**Đường Hobbiton** là một con đường ở [Quận](../T/The_Shire.md). Nó bắt đầu ở [Bywater](../B/Bywater.md) rẽ nhánh từ [Đường Đông](../E/East_Road.md) và đi qua [Hobbiton](Hobbiton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó có hai hàng cây.
+Đường **Hobbiton** là một con đường ở [the Shire](../T/The_Shire.md). Nó bắt đầu ở [Bywater](../B/Bywater.md) rẽ ra khỏi [phương Đông Đường](../E/East_Road.md) và đi qua [Hobbiton](Hobbiton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được rợp bóng cây.
 
 Trong thời kỳ [Sharkey](../S/Sharkey.md) chiếm đóng, cây cối đã được thay thế bằng những ngôi nhà xấu xí.
 
 ## Nhận dạng {#Identification}
 
-Con Đường được đề cập trong câu chuyện nhưng không được đánh dấu trong *[A Part of the Shire](../A/A_Part_of_the_Shire.md)* và do đó không biết đoạn đường nào là Đường Hobbiton. [Robert Foster](../R/Robert_Foster.md) xác định Con đường này đi qua Hobbiton rồi vòng qua [Đồi](Hobbiton_Hill.md) rồi đến [Overhill](../O/Overhill.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Bách khoa toàn thư về Arda](../E/Encyclopedia_of_Arda.md) xác định con đường này là "ít nhất" đoạn giữa Bywater và Hobbiton.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Con đường được đề cập trong câu chuyện nhưng nó không được đánh dấu trong *[A Part of the Shire](../A/A_Part_of_the_Shire.md)* và do đó không biết phần nào của con đường là Đường Hobbiton. [Robert Foster](../R/Robert_Foster.md) xác định Đường này đi qua Hobbiton rồi vòng qua [Đồi](Hobbiton_Hill.md) và tới [Vượt dốc](../O/Overhill.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Bách khoa toàn thư Arda](../E/Encyclopedia_of_Arda.md) xác định đường là "ít nhất" đoạn giữa Bywater và Hobbiton.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

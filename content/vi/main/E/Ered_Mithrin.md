@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grey Mountains"
 ---
 
-Chuyển hướng đến [Grey Mountains](../G/Grey_Mountains.md).
+Chuyển hướng đến [Dãy Núi Xám](../G/Grey_Mountains.md).

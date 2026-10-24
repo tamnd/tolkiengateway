@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda Unmarred"
 ---
 
-Chuyển hướng tới [Arda Unmarred](Arda_Unmarred.md).
+Chuyển hướng đến [Arda Unmarred](Arda_Unmarred.md).

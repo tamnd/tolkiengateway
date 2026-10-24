@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Brandywine Bridge"
 ---
 
-Chuyển hướng tới [Cầu Brandywine](Brandywine_Bridge.md).
+Chuyển hướng đến [Cầu Brandywine](Brandywine_Bridge.md).

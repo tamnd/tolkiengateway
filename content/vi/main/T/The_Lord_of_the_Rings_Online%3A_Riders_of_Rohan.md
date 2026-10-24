@@ -51,26 +51,26 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_Riders_of_Rohan_-_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5d/LOTRO_-_Riders_of_Rohan_-_logo.jpg/320px-LOTRO_-_Riders_of_Rohan_-_logo.jpg" decoding="async" loading="lazy" width="320" height="171" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/5d/LOTRO_-_Riders_of_Rohan_-_logo.jpg/480px-LOTRO_-_Riders_of_Rohan_-_logo.jpg 1.5x, https://tolkiengateway.net/w/images/5/5d/LOTRO_-_Riders_of_Rohan_-_logo.jpg 2x" data-file-width="530" data-file-height="284"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The Lord of the Rings Online: Riders of Rohan</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a><br/><a href="../C/Codemasters.md" title="Codemasters">Codemasters</a></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/15_October.md" title="15 October">15 October</a> <a href="../_/2012.md" title="2012">2012</a><sup id="cite_ref-Turbine_1-0" class="reference"><a href="#cite_note-Turbine-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn trực tuyến: Riders of Rohan</b></i> là bản mở rộng thứ tư của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Nó bao gồm ba khu vực mới và các tính năng chiến đấu gắn kết, cũng như các bổ sung nhỏ hơn như tăng giới hạn cấp độ từ 75 lên 85. Trò chơi được phát hành vào ngày 15 tháng 10 năm [2012](../_/2012.md).<sup id="cite_ref-Turbine_1-1" class="reference"><a href="#cite_note-Turbine-1">[1]</a></sup>
+<i><b>The Lord of the Rings Trực tuyến: Riders of Rohan</b></i> là bản mở rộng thứ tư của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*. Nó bao gồm ba khu vực mới và các tính năng chiến đấu gắn kết, cũng như các bổ sung nhỏ hơn như tăng giới hạn cấp độ từ 75 lên 85. Trò chơi được phát hành vào ngày 15 tháng 10 năm [2012](../_/2012.md).<sup id="cite_ref-Turbine_1-1" class="reference"><a href="#cite_note-Turbine-1">[1]</a></sup>
 
 ## Cốt truyện {#Storyline}
 
-Câu chuyện trò chơi tập trung vào [Riders of Rohan](../R/Rohirrim.md), [Sự phá vỡ tình bằng hữu](../B/Breaking_of_the_Fellowship.md) và cuộc chiến của [Éomer](../_/Éomer.md) chống lại [Orc](../O/Orcs.md) và [Uruks](../U/Uruks.md) xâm chiếm miền đông [Rohan](../R/Rohan.md).<sup id="cite_ref-Turbine_1-2" class="reference"><a href="#cite_note-Turbine-1">[1]</a></sup> Bản mở rộng *Riders of Rohan* tiếp tục cốt truyện Epic Quest, ban đầu bao gồm các cuốn VII, VIII và IX của *Tập III - Đồng minh của nhà vua*. Những cuốn sách này đưa người chơi vào một nhóm hỗn tạp bao gồm Rohir bị lưu đày, một phụ nữ [Dunlending](../D/Dunlendings.md) và một [Yêu tinh](../E/Elf.md) của [Lothlórien](../L/Lothlórien.md).
+Câu chuyện trong trò chơi tập trung vào [Riders of Rohan](../R/Rohirrim.md), [Sự phá vỡ tình bằng hữu](../B/Breaking_of_the_Fellowship.md) và cuộc chiến của [Éomer](../_/Éomer.md) chống lại [Orc](../O/Orcs.md) và [Uruks](../U/Uruks.md) xâm chiếm miền đông [Rohan](../R/Rohan.md).<sup id="cite_ref-Turbine_1-2" class="reference"><a href="#cite_note-Turbine-1">[1]</a></sup> Bản mở rộng *Riders of Rohan* tiếp tục cốt truyện Epic Quest, ban đầu bao gồm các cuốn VII, VIII và IX của *Tập III - Allies của Vua*. Những cuốn sách này đưa người chơi vào một nhóm hỗn tạp bao gồm Rohir bị lưu đày, một phụ nữ [Dunlending](../D/Dunlendings.md) và một [Tiên](../E/Elf.md) [Lothlórien](../L/Lothlórien.md).
 
 ## Cập nhật {#Updates}
 
-### Cập nhật 9: Chống lại cái bóng {#Update_9:_Against_the_Shadow}
+### Cập nhật 9: Chống lại Bóng Tối {#Update_9:_Against_the_Shadow}
 
 *Against the Shadow* là bản cập nhật thứ chín và được phát hành vào ngày 17 tháng 12 năm 2012.<sup id="cite_ref-Update_9_2-0" class="reference"><a href="#cite_note-Update_9-2">[2]</a></sup>
 
 - Ba phiên bản ba người mới.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- Mở rộng các phiên bản Dol Guldur.
-- Hoàn thành việc cải tạo Moria.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Mở rộng Dol Guldur phiên bản.
+- Hoàn thành Moria cải tiến.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 - Khả năng di chuyển nhanh để hoàn thành nhiệm vụ.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 - Cập nhật về Lễ hội Giáng Sinh.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 - Sửa đổi chiến đấu.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-### Cập nhật 10: Chống lại cái bóng, Phần II {#Update_10:_Against_the_Shadow,_Part_II}
+### Cập nhật 10: Chống lại Bóng Tối, Phần II {#Update_10:_Against_the_Shadow,_Part_II}
 
 *Against the Shadow, Part II* là bản cập nhật thứ mười và được phát hành vào ngày 6 tháng 3 năm 2013.
 
@@ -85,23 +85,23 @@ Câu chuyện trò chơi tập trung vào [Riders of Rohan](../R/Rohirrim.md), [
 
 *Treachery of the White Hand* là bản cập nhật thứ 11 và được phát hành vào ngày 13 tháng 5 năm 2013.<sup id="cite_ref-Update_11_13-0" class="reference"><a href="#cite_note-Update_11-13">[13]</a></sup>
 
-- Quyển X: Snows of Wildermore của **Tập III: Allies of the King** được phát hành.<sup id="cite_ref-Update_11_13-1" class="reference"><a href="#cite_note-Update_11-13">[13]</a></sup>
-- Một vùng mới, Wildermore, nằm trên cao nguyên trước đây không thể tiếp cận ở phía bắc Đông Rohan.<sup id="cite_ref-Update_11_13-2" class="reference"><a href="#cite_note-Update_11-13">[13]</a></sup>
+- Quyển X: Snows of Wildermore của **Tập III: Đồng minh của Vua** được phát hành.<sup id="cite_ref-Update_11_13-1" class="reference"><a href="#cite_note-Update_11-13">[13]</a></sup>
+- Một vùng mới, Wildermore, nằm trên cao nguyên trước đây không thể tiếp cận ở phía bắc của phương Đông Rohan.<sup id="cite_ref-Update_11_13-2" class="reference"><a href="#cite_note-Update_11-13">[13]</a></sup>
 - Cập nhật về chiến đấu bằng thú cưỡi.<sup id="cite_ref-Update_11_13-3" class="reference"><a href="#cite_note-Update_11-13">[13]</a></sup>
-- Hobbit tặng quà, vật phẩm ngẫu nhiên miễn phí hàng ngày với khả năng mở khóa nhiều cuộn hơn bằng xu mithril.<sup id="cite_ref-Update_11_13-4" class="reference"><a href="#cite_note-Update_11-13">[13]</a></sup>
+- Hobbit quà, vật phẩm ngẫu nhiên miễn phí hàng ngày với khả năng mở khóa nhiều cuộn hơn bằng xu mithril.<sup id="cite_ref-Update_11_13-4" class="reference"><a href="#cite_note-Update_11-13">[13]</a></sup>
 - Chợ Lalia, một cửa hàng nơi có thể mua quần áo mỹ phẩm và thuốc nhuộm bằng tiền mithril.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>
 
 ## Khu vực {#Regions}
 
 *Riders of Rohan* thêm một khu vực lớn và hai khu vực nhỏ hơn vào thế giới trò chơi:<sup id="cite_ref-Update6&amp;Riders_15-0" class="reference"><a href="#cite_note-Update6&amp;Riders-15">[15]</a></sup>
 
-- Đồng bằng phía Đông [Rohan](../R/Rohan.md)
+- phương Đông Đồng bằng [Rohan](../R/Rohan.md)
 - [Amon Hen](../A/Amon_Hen.md)
 - [Mái hiên Fangorn](../F/Fangorn_Forest.md)
 
 ## Chiến đấu trên ngựa {#Mounted_Combat}
 
-*Riders of Rohan* cho phép người chơi chiến đấu từ trên lưng ngựa lần đầu tiên. Các nhiệm vụ ban đầu trong [The Wold](The_Wold.md) of East Rohan cho phép người chơi tiếp cận Chiến mã, một giống ngựa đặc biệt được huấn luyện để chiến đấu. Người chơi có thể học các đòn tấn công và thao tác đặc biệt cho chiến mã và thú cưỡi của họ tăng cấp theo kinh nghiệm giống như người chơi. Chiến mã có thể được cưỡi ở hầu hết các khu vực trong trò chơi nhưng các tùy chọn chiến đấu bằng ngựa chỉ có ở Rohan.
+*Riders of Rohan* cho phép người chơi chiến đấu từ trên lưng ngựa lần đầu tiên. Các nhiệm vụ ban đầu trong [The Wold](The_Wold.md) của phương Đông Rohan cung cấp cho người chơi quyền truy cập vào Chiến mã, một giống ngựa đặc biệt được huấn luyện để chiến đấu. Người chơi có thể học các đòn tấn công và thao tác đặc biệt cho chiến mã và thú cưỡi của họ tăng cấp theo kinh nghiệm giống như người chơi. Bạn có thể cưỡi chiến mã ở hầu hết các khu vực trong trò chơi nhưng các tùy chọn chiến đấu bằng thú cưỡi chỉ có ở Rohan.
 
 ## Đoạn giới thiệu {#Trailer}
 

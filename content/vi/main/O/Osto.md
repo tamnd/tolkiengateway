@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>osto</b></i> là danh từ có nghĩa là "thành trì" hoặc "pháo đài" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> So sánh với *[ost](Ost.md)* trong [Sindarin](../S/Sindarin.md).
+<i><b>osto</b></i> là danh từ có nghĩa là "thành trì" hay "pháo đài" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> So sánh với *[ost](Ost.md)* trong [Sindarin](../S/Sindarin.md).
 
 Ví dụ:
 

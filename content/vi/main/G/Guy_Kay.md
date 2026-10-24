@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Guy Gavriel Kay"
 ---
 
-Chuyển hướng tới [Guy Gavriel Kay](Guy_Gavriel_Kay.md).
+Chuyển hướng đến [Guy Gavriel Kay](Guy_Gavriel_Kay.md).

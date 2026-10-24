@@ -13,13 +13,13 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>thoron</b></i> / <i><b>thhôr</b></i> là từ [Sindarin](../S/Sindarin.md) cho "đại bàng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>thoron</b></i> / <i><b>thhôr</b></i> là [Sindarin](../S/Sindarin.md) từ dành cho "đại bàng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
 ### *thoron* {#thoron}
 
-- <i><a class="mw-redirect mw-disambig" href="../A/Arathorn.md" title="Arathorn">Arathorn</a></i> (-*thor(o)n*; một từ nguyên khác với *thorn* 'kiên định' cũng được Tolkien đề cập, xem [Arathorn II](../A/Arathorn_II.md#Etymology))
+- <i><a class="mw-redirect mw-disambig" href="../A/Arathorn.md" title="Arathorn">Arathorn</a></i> (-*thor(o)n*; một từ nguyên khác với *thorn* 'kiên định' cũng được đề cập bởi Tolkien, xem [Arathorn II](../A/Arathorn_II.md#Etymology))
 - *[Thorondir](Thorondir.md)*
 - *[Thorondor](Thorondor.md)*
 - *[Thorongil](Thorongil.md)*

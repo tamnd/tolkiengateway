@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Eng, Nils"
 ---
 
-**Nils Eng** là nhà thiết kế và tác giả trò chơi người Thụy Điển. Ông đã tạo ra trò chơi điện tử [Bilbo](<../B/Bilbo_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Nils Eng** là nhà thiết kế và tác giả trò chơi người Thụy Điển. Ông đã làm ra trò chơi điện tử [Bilbo](<../B/Bilbo_(video_game).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

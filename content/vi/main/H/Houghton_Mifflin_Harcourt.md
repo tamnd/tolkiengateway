@@ -37,17 +37,17 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/H/Houghton_Mifflin_logo.jpg.md"><img src="https://tolkiengateway.net/w/images/9/9c/Houghton_Mifflin_logo.jpg" decoding="async" loading="lazy" width="160" height="64" class="mw-file-element" data-file-width="160" data-file-height="64"/></a><figcaption></figcaption></figure>
 
-**Houghton Mifflin Harcourt**, cho đến năm 2007 còn được gọi là **Công ty Houghton Mifflin**, từ lâu đã nắm giữ quyền xuất bản các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại Hoa Kỳ. [Harper Collins](Harper_Collins.md) (nhà xuất bản châu Âu) cuối cùng đã mua lại nó.
+**Houghton Mifflin Harcourt**, cho đến năm 2007 được gọi là **Houghton Mifflin Công ty**, từ lâu đã nắm giữ quyền xuất bản các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tại Hoa Kỳ. [Harper Collins](Harper_Collins.md) (nhà xuất bản châu Âu) cuối cùng đã mua lại nó.
 
-Vào cuối mùa hè của [1965](../_/1965.md) Tolkien đã gửi bản sửa đổi của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* cho Houghton Mifflin để gia hạn bản quyền hợp pháp tại Hoa Kỳ. Ấn bản thứ hai được phát hành vào năm [1967](../_/1967.md).<sup id="cite_ref-rc_1-0" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
+Vào cuối mùa hè [1965](../_/1965.md) Tolkien đã gửi các bản sửa đổi của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* tới Houghton Mifflin để gia hạn bản quyền hợp pháp tại Hoa Kỳ. Ấn bản thứ hai được phát hành vào năm [1967](../_/1967.md).<sup id="cite_ref-rc_1-0" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
 
 Trong [1987](../_/1987.md) công ty đã được [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md) khuyến khích đồng bộ hóa phiên bản tiêu chuẩn ([1966](../_/1966.md)) của *The Lord of the Rings* với phiên bản tiêu chuẩn của Anh của [Allen và Unwin](../A/Allen_and_Unwin.md), đồng thời kết hợp các chỉnh sửa bổ sung.<sup id="cite_ref-rc_1-1" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
 
-Sau khoảng [1994](../_/1994.md) các phiên bản của *The Lord of the Rings* có một số lỗi mới do quá trình số hóa của HarperCollins; một số trong số chúng sau đó đã được sửa chữa và được HM xuất bản trong [2004](../_/2004.md).<sup id="cite_ref-rc_1-2" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
+Sau khoảng [1994](../_/1994.md), các phiên bản của *The Lord of the Rings* có một số lỗi mới do quá trình số hóa của HarperCollins; một số trong số chúng sau đó đã được sửa chữa và được HM xuất bản trong [2004](../_/2004.md).<sup id="cite_ref-rc_1-2" class="reference"><a href="#cite_note-rc-1">[1]</a></sup>
 
 Vào [16 tháng 1](../_/16_January.md) [2001](../_/2001.md), Houghton Mifflin <a class="external text" href="http://www.tolkien-movies.com/words/2001/01-16-01e.shtml" rel="noreferrer noopener" target="_blank">tuyên bố</a> họ đã giành được quyền xuất bản sách dựa trên [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>). Công ty đã kết hợp với các bộ phận của **Harcourt Brace** vào năm 2007.
 
-Trong [2021](../_/2021.md) HarperCollins đã mua bộ phận sách thương mại của HMH (bao gồm cả quyền của American Tolkien) và vào năm 2022, phần còn lại của công ty đã được Veritas Capital mua lại. Các bản in mới bìa cứng và bìa mềm thương mại của các tác phẩm Tolkien ở Mỹ đã chuyển sang <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Morrow&amp;action=edit&amp;redlink=1" title="William Morrow (page does not exist)">William Morrow</a>, một nhà xuất bản của HarperCollins, vào năm 2022. Một số bản sao của Houghton Mifflin vẫn còn trên kệ hiệu sách cho đến khi hết.
+Trong [2021](../_/2021.md) HarperCollins đã mua bộ phận sổ sách thương mại của HMH (bao gồm cả quyền Tolkien của Mỹ) và vào năm 2022, phần còn lại của công ty đã được Veritas Capital mua lại. Các bản in mới bìa cứng và bìa mềm thương mại của các tác phẩm Tolkien ở Mỹ đã chuyển sang <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_Morrow&amp;action=edit&amp;redlink=1" title="William Morrow (page does not exist)">William Morrow</a>, một nhà xuất bản của HarperCollins, vào năm 2022. Một số Houghton Mifflin bản vẫn còn trên kệ hiệu sách cho đến khi hết.
 
 ## Lịch sử xuất bản {#Publication_history}
 
@@ -73,4 +73,4 @@ Trong [2021](../_/2021.md) HarperCollins đã mua bộ phận sách thương m�
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Houghton_Mifflin_Harcourt" title="wikipedia:Houghton Mifflin Harcourt">Houghton Mifflin Harcourt</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://www.houghtonmifflinbooks.com/features/lordoftheringstrilogy/" rel="noreferrer noopener" target="_blank">Trang web Tolkien chính thức của Houghton Mifflin</a> *dead link*
+- <a class="external text" href="http://www.houghtonmifflinbooks.com/features/lordoftheringstrilogy/" rel="noreferrer noopener" target="_blank">Trang Tolkien chính thức của Houghton Mifflin</a> *dead link*

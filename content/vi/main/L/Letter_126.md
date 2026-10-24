@@ -32,17 +32,17 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien báo cáo với Waldman rằng Ngài [Stanley Unwin](../S/Stanley_Unwin.md) đã đích thân viết thư cho ông để nói với ông rằng lá thư của ông đã đặt ra [Allen và Unwin](../A/Allen_and_Unwin.md) một vấn đề. Unwin đã hỏi liệu hàng triệu từ<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> có thể được chia thành ba hoặc bốn tập tương đối khép kín hay không.
+Tolkien báo cáo với Waldman rằng Ngài [Stanley Unwin](../S/Stanley_Unwin.md) đã viết thư cho riêng ông để nói với ông rằng lá thư của ông đã đặt ra [Allen và Unwin](../A/Allen_and_Unwin.md) một vấn đề. Unwin đã hỏi liệu hàng triệu từ<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> có thể được chia thành ba hoặc bốn tập tương đối khép kín hay không.
 
-Tolkien nhận thấy rằng ý kiến ​​​​của Unwin là khối lượng nội dung của ông không phù hợp để xuất bản, vì ông đã nhấn mạnh rằng *[The Silmarillion](../T/The_Silmarillion.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đi cùng nhau như một câu chuyện dài về Đồ trang sức và những chiếc nhẫn và ông đã quyết tâm coi chúng như một chuyện dài. *The Lord of the Rings* không thể chia được ngoại trừ thành các mảnh nhân tạo. Ông đã nói với Unwin rằng ông sẽ không ngạc nhiên nếu từ chối Saga quái dị.
+Tolkien nhận thấy rằng ý kiến ​​của Unwin là khối lượng nội dung của ông không phù hợp để xuất bản, vì ông đã nhấn mạnh rằng *[The Silmarillion](../T/The_Silmarillion.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đi cùng nhau như một câu chuyện dài về Đồ trang sức và Nhẫn và rằng ông quyết tâm coi chúng là một chuyện dài. *The Lord of the Rings* không thể chia được ngoại trừ thành các mảnh nhân tạo. Ông đã nói với Unwin rằng ông sẽ không ngạc nhiên nếu từ chối Saga quái dị.
 
-Tolkien nói vấn đề nằm ở đó và ông thực sự hy vọng rằng Unwin sẽ bỏ qua mà không yêu cầu bản thảo. Tolkien cảm thấy thời gian không còn nhiều vì ông sẽ sớm quay trở lại với công việc kinh doanh. Unwin cũng đã đề cập rằng *[Farmer Giles](../F/Farmer_Giles_of_Ham.md)* chỉ bán được 2.000 bản và Tolkien đã trả lời rằng ông chưa thấy quảng cáo nào.
+Vấn đề đã nằm ở đó, Tolkien nói, và ông thực sự hy vọng rằng Unwin sẽ bỏ qua mà không đòi hỏi bản thảo. Tolkien cảm thấy thời gian thật ngắn ngủi vì anh sẽ sớm quay trở lại với công việc kinh doanh. Unwin cũng đã đề cập rằng *[Farmer Giles](../F/Farmer_Giles_of_Ham.md)* chỉ bán được 2.000 bản và Tolkien đã trả lời rằng ông chưa thấy quảng cáo nào.
 
-Tolkien đã đề cập rằng ông sẽ chuyển đi vào một ngày không chắc chắn nào đó nhưng Đại học Merton sẽ luôn có thể tìm thấy ông.
+Tolkien đã đề cập rằng ông sẽ chuyển đi vào một ngày không chắc chắn nhưng Merton College luôn có thể tìm thấy ông.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong một câu gần cuối, Tolkien đề cập rằng [Priscilla](../P/Priscilla.md) đã trở về nhà và bà sẽ sớm viết thư.
+Trong một câu gần cuối Tolkien đề cập rằng [Priscilla](../P/Priscilla.md) đã trở về nhà và bà sẽ viết thư sớm.
 
 ## Lưu ý {#Note}
 

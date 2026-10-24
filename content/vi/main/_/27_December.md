@@ -68,9 +68,9 @@ Sự kiện xảy ra vào ngày 27 tháng 12
 
 - **[1965](1965.md)** – [W.H. Auden](../W/W.H._Auden.md) phát biểu tại cuộc họp của Hiệp hội Tolkien New York.
 - **[1967](1967.md)** – Nghệ sĩ [Josef Madlener](../J/Josef_Madlener.md) qua đời.
-- <b><a href="2005.md" title="2005">2005</a> - <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">Chúa tể của những chiếc nhẫn: Người bạn đồng hành của độc giả</a></i> được xuất bản.</b>
+- <b><a href="2005.md" title="2005">2005</a> - <i><a href="../T/The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: Người bạn đồng hành của độc giả</a></i> được xuất bản.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).

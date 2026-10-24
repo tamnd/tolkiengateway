@@ -66,8 +66,8 @@ Sự kiện xảy ra vào ngày 19 tháng 4.
 ## Trên Trái đất {#On_Earth}
 
 - **[1899](1899.md)** - [Nevill Coghill](../N/Nevill_Coghill.md), [Inkling](../I/Inklings.md), ra đời.
-- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trong quá trình xác nhận lại, được giao cho Humber Garrison, nhưng không đủ phù hợp.
-- **[1966](1966.md)** - [Rayner Unwin](../R/Rayner_Unwin.md) viết [một lá thư cho J.R.R. Tolkien](<../L/Letter_to_Rayner_Unwin_(25_April_1966).md>).
+- **[1917](1917.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), trong quá trình xác nhận lại, được giao cho Humber Garrison, nhưng không đủ sức khỏe.
+- **[1966](1966.md)** - [Rayner Unwin](../R/Rayner_Unwin.md) viết [thư gửi J.R.R. Tolkien](<../L/Letter_to_Rayner_Unwin_(25_April_1966).md>).
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Eva Heilborn](../L/Letter_to_Eva_Heilborn.md).
 - **[1981](1981.md)** - Tập thứ bảy của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1995](1995.md)** - Diễn viên [Patrick Gibson](../P/Patrick_Gibson.md) ra đời.

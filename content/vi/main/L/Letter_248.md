@@ -33,7 +33,7 @@ infobox:
 
 Tolkien đã gửi tài liệu [Unwin](../S/Stanley_Unwin.md) cho tuyển tập truyện ngắn sắp được xuất bản. Trong số đó có Lời giới thiệu và tựa đề gợi ý, *[Tree and Leaf](../T/Tree_and_Leaf.md)*.
 
-Tolkien sau đó nói với Unwin rằng ông phải nghỉ làm vì chấn thương ở vai. <br>
+Tolkien sau đó nói với Unwin rằng ông phải nghỉ làm vì bị thương ở vai. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

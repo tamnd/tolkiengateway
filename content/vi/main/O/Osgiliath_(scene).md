@@ -37,11 +37,11 @@ infobox:
            55 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Duration</th><td class="tg-infobox-data">0:38 (theatrical)<br/>
              0:34 (extended)</td></tr><tr><th scope="row" class="tg-infobox-label">Events</th><td class="tg-infobox-data">Faramir leads Frodo and Sam to <a href="Osgiliath.md" title="Osgiliath">Osgiliath</a>.</td></tr><tr><th scope="row" class="tg-infobox-label">Characters</th><td class="tg-infobox-data"><a href="../F/Faramir.md" title="Faramir">Faramir</a>, <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo</a>, <a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><i><a href="../M/Master_Peregrin&#39;s_Plan.md" title="Master Peregrin&#39;s Plan">Master Peregrin&#39;s Plan</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><i><a href="../T/The_Last_March_of_the_Ents.md" title="The Last March of the Ents">The Last March of the Ents</a></i></td></tr></tbody></table>
 
-**Osgiliath** là cảnh thứ 44 của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và là cảnh thứ 55 của [*The Lord of the Rings: The Two Towers* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
+**Osgiliath** là cảnh thứ 44 của *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)* và cảnh thứ 55 của [*The Lord of the Rings: The Two Towers* (extended edition)](<../T/The_Lord_of_the_Rings%253A_The_Two_Towers_(extended_edition).md>).
 
 ## Tóm tắt {#Synopsis}
 
-[Faramir](../F/Faramir.md) và [Rangers of Ithilien](../R/Rangers_of_Ithilien.md) dẫn [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) tới [Osgiliath](Osgiliath.md). Họ nhìn thấy khói bốc lên từ thành phố, cho thấy thành phố đang bị tấn công bởi lực lượng của [Mordor](../M/Mordor.md).
+[Faramir](../F/Faramir.md) và [Ranger của Ithilien](../R/Rangers_of_Ithilien.md) dẫn đầu [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) tới [Osgiliath](Osgiliath.md). Họ nhìn thấy khói bốc lên từ thành phố, cho thấy nó đang bị tấn công bởi lực lượng [Mordor](../M/Mordor.md).
 
 <blockquote class="tg-quote noexcerpt">
 <p><a href="../T/The_One_Ring.md" title="The One Ring">The Ring</a> will not save <a href="../G/Gondor.md" title="Gondor">Gondor</a>. It has only the power to destroy. Please... let me go.
@@ -49,11 +49,11 @@ infobox:
 <p class="tg-quote-footer"><cite>Frodo to Faramir</cite></p>
 </blockquote>
 
-Faramir dành thời gian để xem xét những gì Frodo đã nói trước khi quyết định tiếp tục tiến tới Osgiliath. Cảnh phim kết thúc với việc Frodo cầu xin ông ta hãy thả ông ta ra.
+Faramir dành thời gian để cân nhắc những gì Frodo đã nói trước khi quyết định tiếp tục chuyển tiếp tới Osgiliath. Cảnh phim kết thúc với cảnh Frodo cầu xin ông ta được thả ra.
 
 ## Sự khác biệt {#Differences}
 
-Trong sách, [Faramir](../F/Faramir.md) không đưa [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đến [Osgiliath](Osgiliath.md). Khi phát hiện ra Frodo đang mang [Chiếc nhẫn](../T/The_One_Ring.md), ông đã nói với hai [Người Hobbit](../H/Hobbits.md) rằng ông sẽ không cố lấy nó,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và chia tay họ tại [Henneth Annûn](../H/Henneth_Annûn.md), nơi họ đi về phía [Morgul Vale](../M/Morgul_Vale.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong sách, [Faramir](../F/Faramir.md) không lấy [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) thành [Osgiliath](Osgiliath.md). Khi phát hiện ra Frodo đang mang [Chiếc nhẫn](../T/The_One_Ring.md), ông ta đã nói với hai [Hobbit](../H/Hobbits.md) rằng ông ta sẽ không cố lấy nó,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và chia tay họ tại [Henneth Annûn](../H/Henneth_Annûn.md), nơi họ đi về phía [Thung lũng Morgul](../M/Morgul_Vale.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

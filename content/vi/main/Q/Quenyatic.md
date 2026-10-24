@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tengwar"
 ---
 
-Chuyển hướng tới [Tengwar](../T/Tengwar.md).
+Chuyển hướng đến [Tengwar](../T/Tengwar.md).

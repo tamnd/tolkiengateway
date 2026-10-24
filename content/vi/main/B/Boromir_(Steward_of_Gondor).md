@@ -79,19 +79,19 @@ infobox:
 </tbody></table>
 </div>
 
-**Boromir** ([Tuổi thứ ba](../T/Third_Age.md) 2410<sup id="cite_ref-Elendil_1-0" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> – 2489,<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup> 79 tuổi) là [Quản lý cai trị](../R/Ruling_Steward.md) thứ mười một của [Gondor](../G/Gondor.md).
+**Boromir** ([Kỷ Đệ Tam](../T/Third_Age.md) 2410<sup id="cite_ref-Elendil_1-0" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> – 2489,<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup> thọ 79 tuổi) là [Quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười một của [Gondor](../G/Gondor.md).
 
-Boromir cao quý và có khuôn mặt xinh đẹp, thể chất và ý chí mạnh mẽ; trong thời kỳ hoàng kim của mình, ông là một đội trưởng vĩ đại mà ngay cả [Vua phù thủy](../W/Witch-king.md) cũng phải sợ hãi.<sup id="cite_ref-stew_3-0" class="reference"><a href="#cite_note-stew-3">[3]</a></sup>
+Boromir có gương mặt cao quý, vóc dáng và ý chí mạnh mẽ; trong thời kỳ đỉnh cao của mình, ông là một đội trưởng vĩ đại mà ngay cả [Vua Phù thủy](../W/Witch-king.md) cũng phải sợ hãi.<sup id="cite_ref-stew_3-0" class="reference"><a href="#cite_note-stew-3">[3]</a></sup>
 
 ## Lịch sử {#History}
 
-Boromir là con thứ ba của [Denethor I](../D/Denethor_I.md)<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> trong thời gian vương quốc bị bao vây và [Ithilien](../I/Ithilien.md) đã bị thất thủ trước [Uruk-hai](../U/Uruk-hai.md) hung hãn. Anh kế vị cha mình sau khi ông qua đời vào năm [T.A.](../T/Third_Age.md) [2477](../T/Third_Age_2477.md) và thực hiện nhiều chiến dịch rộng lớn để giành lại đất đai. Bất chấp chiến thắng của mình, Ithilien vẫn bị suy giảm dân số, [Osgiliath](../O/Osgiliath.md) cuối cùng đã bị hủy hoại với cây cầu đá bị gãy.<sup id="cite_ref-stew_3-1" class="reference"><a href="#cite_note-stew-3">[3]</a></sup>
+Boromir là con thứ ba của [Denethor tôi](../D/Denethor_I.md)<sup id="cite_ref-Elendil_1-1" class="reference"><a href="#cite_note-Elendil-1">[1]</a></sup> trong thời gian vương quốc bị bao vây và [Ithilien](../I/Ithilien.md) đã bị tàn phá bởi [Uruk-hai](../U/Uruk-hai.md) khốc liệt. Anh kế vị cha mình sau khi ông qua đời vào năm [T.A.](../T/Third_Age.md) [2477](../T/Third_Age_2477.md) và thực hiện nhiều chiến dịch rộng lớn để giành lại đất đai. Bất chấp chiến thắng của mình, Ithilien vẫn bị suy giảm dân số, [Osgiliath](../O/Osgiliath.md) cuối cùng đã bị hủy hoại với cây cầu đá bị gãy.<sup id="cite_ref-stew_3-1" class="reference"><a href="#cite_note-stew-3">[3]</a></sup>
 
 Trong cuộc chiến đó, ông đã nhận được [vết thương Morgul](../M/Morgul-wounds.md) và bất chấp tất cả sức mạnh và sức mạnh của mình, ông trở nên teo tóp vì đau đớn và chỉ cai trị được 12 năm.<sup id="cite_ref-stew_3-2" class="reference"><a href="#cite_note-stew-3">[3]</a></sup>
 
-Tiếp theo là con trai [Cirion](../C/Cirion.md) khi ông qua đời vào năm 2489.<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
+Tiếp theo là con trai [Cirion](../C/Cirion.md) khi ông qua đời năm 2489.<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 
-Nhiều thế kỷ sau, Quản gia [Denethor II](../D/Denethor_II.md) đặt tên người thừa kế của mình là [Boromir](Boromir.md), theo tên ông.<sup id="cite_ref-stew_3-3" class="reference"><a href="#cite_note-stew-3">[3]</a></sup>
+Nhiều thế kỷ sau, Quản gia [Denethor II](../D/Denethor_II.md) đặt tên cho người thừa kế [Boromir](Boromir.md) theo tên ông.<sup id="cite_ref-stew_3-3" class="reference"><a href="#cite_note-stew-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

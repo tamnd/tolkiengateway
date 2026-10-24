@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hollin ridge"
 ---
 
-Chuyển hướng đến [Sườn núi Hollin](Hollin_ridge.md).
+Chuyển hướng đến [Hollin sườn núi](Hollin_ridge.md).

@@ -24,7 +24,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Otto_Preminger.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3b/Otto_Preminger.jpg/300px-Otto_Preminger.jpg" decoding="async" loading="lazy" width="300" height="404" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3b/Otto_Preminger.jpg/450px-Otto_Preminger.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3b/Otto_Preminger.jpg/600px-Otto_Preminger.jpg 2x" data-file-width="640" data-file-height="862"/></a><figcaption>Otto Preminger</figcaption></figure>
 
-Diễn viên nổi tiếng và đạo diễn được đề cử giải Oscar **Otto Preminger** (1906 – 1986) là người lồng tiếng cho "Elvenking" ([Thranduil](../T/Thranduil.md)) trong phiên bản hoạt hình [Rankin/Bass](../R/Rankin%252FBass.md) của *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)*. Ông sinh ra và lớn lên ở Áo, và giọng nói đặc sệt của ông rất rõ ràng trong phim.
+Diễn viên nổi tiếng và đạo diễn được đề cử giải Oscar **Otto Preminger** (1906 – 1986) là người lồng tiếng cho "Vua Tiên" ([Thranduil](../T/Thranduil.md)) trong phiên bản hoạt hình [Rankin/Bass](../R/Rankin%252FBass.md) của *[The Hobbit](<../T/The_Hobbit_(1977_film).md>)*. Ông sinh ra và lớn lên ở Áo, và giọng nói đặc sệt của ông rất rõ ràng trong phim.
 
 ## Liên kết ngoài {#External_links}
 

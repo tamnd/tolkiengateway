@@ -30,7 +30,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Der Herr der Ringe</b></i> (tiếng Đức: **Chúa tể của những chiếc nhẫn**) là một bộ phim truyền hình <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">tiếng Đức</a> dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng lần đầu trong một loạt phim duy nhất (phần) trong [1992](../_/1992.md), với tổng cộng 30 tập trên đài phát thanh công cộng Đức. Loạt phim phát thanh với đầy đủ các nhân vật này là sản phẩm hợp tác giữa các đài phát thanh công cộng <a class="extiw" href="http://en.wikipedia.org/wiki/S%C3%BCdwestrundfunk" title="wikipedia:Südwestrundfunk">SWR</a> (Südwestrundfunk) và <a class="extiw" href="http://en.wikipedia.org/wiki/Westdeutscher_Rundfunk" title="wikipedia:Westdeutscher Rundfunk">WDR</a> (Westdeutscher Rundfunk), phát sóng lần đầu từ tháng 1 đến tháng 4 năm 1992. Về mặt pháp lý, bản chuyển thể đã được [Tolkien Estate](../T/Tolkien_Estate.md) phê duyệt hoàn toàn.
+<i><b>Der Herr der Ringe</b></i> (tiếng Đức: **The Lord of the Rings**) là một loạt phim phát thanh <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">tiếng Đức</a> dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng lần đầu trong một loạt phim (mùa) trong [1992](../_/1992.md), có tổng cộng 30 tập trên đài phát thanh công cộng Đức. Loạt phim phát thanh với đầy đủ các nhân vật này là sản phẩm hợp tác giữa các đài phát thanh công cộng <a class="extiw" href="http://en.wikipedia.org/wiki/S%C3%BCdwestrundfunk" title="wikipedia:Südwestrundfunk">SWR</a> (Südwestrundfunk) và <a class="extiw" href="http://en.wikipedia.org/wiki/Westdeutscher_Rundfunk" title="wikipedia:Westdeutscher Rundfunk">WDR</a> (Westdeutscher Rundfunk), phát sóng lần đầu từ tháng 1 đến tháng 4 năm 1992. Về mặt pháp lý, bản chuyển thể đã được [Tolkien Estate](../T/Tolkien_Estate.md) phê duyệt hoàn toàn.
 
 Bộ truyện được viết và chuyển thể cho đài phát thanh bởi nhà viết kịch giàu kinh nghiệm trên đài phát thanh Peter Steinbach và do Bernd Lau đạo diễn. Nhạc nền của bộ truyện do Peter Zwetkoff sáng tác. Loạt phim phát thanh *Der Herr der Ringe* bao gồm ba mươi tập, mỗi tập khoảng 25 phút. Bộ phim được phát sóng lần đầu tiên từ tháng 1 đến tháng 4 năm 1992, với tập đầu tiên ra mắt vào ngày 3 tháng 1 năm 1992, nhân kỷ niệm 100 năm ngày sinh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -42,40 +42,40 @@ Bộ phim được phát sóng thành một loạt (mùa) gồm ba mươi tập,
 
 1. *Ein festlicher Abschied* ("Lời chia tay lễ hội")
 2. *Der Ring bleibt bei Frodo* ("Chiếc nhẫn ở lại với Frodo")
-3. *Der Feind regt sich* ("Kẻ thù đang di chuyển")
+3. *Der Feind regt sich* (" Kẻ Thù Đang Di Chuyển")
 4. *Hinaus in die Welt* ("Vào Thế Giới Rộng Rãi")
-5. *Eine nacht unter Elben* ("Một đêm giữa yêu tinh")
+5. *Eine nacht unter Elben* ("Một đêm giữa Tiên tộc")
 6. *Verschwörung der Freunde* ("Âm mưu của những người bạn")
 7. *Süsse Gastfreundschaft* ("Lòng hiếu khách ngọt ngào")
-8. *Ein Waldläufer kommt ins Spiel* ("Một Ranger Vào")
-9. *Der Feind greift an* ("Kẻ thù tấn công")
-10. *Der Rat Elronds* ("Hội đồng Elrond")
-11. *In die Tiefen der Welt* ("Đi sâu vào thế giới")
+8. *Ein Waldläufer kommt ins Spiel* ("Một Ranger bước vào")
+9. *Der Feind greift an* ("Các cuộc tấn công Kẻ Thù")
+10. *Der Rat Elronds* (" Hội đồng củaElrond")
+11. *In die Tiefen der Welt* ("Vào sâu thẳm thế giới")
 12. *Durins Zeiten* ("Thời đại Durin")
 13. *Im Herzen des alten Reiches* ("Trong lòng Vương quốc cũ")
-14. *Frodos Entscheidung* ("Quyết định của Frodo")
+14. *Frodos Entscheidung* ("Quyết định củaFrodo")
 15. *Die Gemeinschaft zerbricht* ("Sự tan vỡ tình bạn")
-16. *Mit Horn und Trommeln* ("Có Kèn và Trống")
+16. *Mit Horn und Trommeln* ("Có kèn và trống")
 17. *Neue Ziele* ("Mục tiêu mới")
 18. *Ein Heer bricht auf* ("Một đội quân đột kích")
-19. *Kampf um die Hornburg* ("Trận chiến Hornburg")
+19. *Kampf um die Hornburg* ("Trận Hornburg")
 20. *Nach Isengart* ("Tới Isengard")
-21. *Sarumans Stimme* ("Giọng của Saruman")
-22. *Eine Falle für alle Hobbits* ("Một cái bẫy dành cho tất cả người Hobbit")
-23. *Der Feind vor der Stadt* ("Kẻ thù trước thành phố")
+21. *Sarumans Stimme* ("Giọng nói củaSaruman")
+22. *Eine Falle für alle Hobbits* ("Một cái bẫy cho tất cả Hobbit")
+23. *Der Feind vor der Stadt* (" Kẻ Thù Trước Thành Phố")
 24. *Zum Tor der Toten* ("Đến Cổng Tử Thần")
 25. *Die Verbündeten sammeln sich* ("Tập hợp đồng minh")
 26. *Feuer in der Stadt* ("Cháy trong thành phố")
-27. *Der Tod des Königs* ("Cái chết của nhà vua")
+27. *Der Tod des Königs* ("Cái chết của Vua")
 28. *Ein Köder für Mordor* ("Mồi cho Mordor")
-29. *Am Schicksalsberg* ("Trên đỉnh núi diệt vong")
+29. *Am Schicksalsberg* ("Bật Núi Diệt Vong")
 30. *Zu guter Letzt* ("Mọi chuyện đều kết thúc tốt đẹp")
 
 ## Lô đồ {#Plot}
 
 Bộ truyện bám sát cốt truyện của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* rất chặt chẽ và rất chân thực. Đáng chú ý, đây là một trong số ít bản chuyển thể từ tiểu thuyết sang một phương tiện khác - có thể là đài phát thanh hoặc phim - lược bỏ rất ít cốt truyện gốc, thậm chí còn giữ lại nhiều nhân vật phụ và thường xuyên bị bỏ qua.
 
-Các sự kiện diễn ra sau [War of the Ring](../W/War_of_the_Ring.md) có phần được viết tắt, đặc biệt là sự ra đi của Grey Havens và Frodo, Bilbo và Gandalf khỏi Trung Địa).
+Các sự kiện được đặt sau [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) được viết tắt một chút, đặc biệt là sự kiện Cảng Xám và Frodo, sự khởi hành của Bilbo và Gandalf từ Trung Địa).
 
 Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gildor, Tom Bombadil, Goldberry, Daddy Twofoot, Farmer Maggot, Háma và Imrahil.
 
@@ -249,11 +249,11 @@ Các nhân vật phụ được chuyển thể từ tiểu thuyết bao gồm Gi
 
 Bộ truyện sử dụng một người kể chuyện trừu tượng bao quát, tương tự như cách tiếp cận của bản chuyển thể *The Hobbit* trên đài phát thanh Đức năm 1980 và bản chuyển thể *The Lord of the Rings* trên đài phát thanh của Anh năm 1981.
 
-Manfred Steffen có vai kép là Gandalf và Saruman.
+Manfred Steffen có vai trò kép là Gandalf và Saruman.
 
 Donata Höffer lồng tiếng cho cả Éowyn và Goldberry.
 
-Bộ truyện có một trong những dàn diễn viên độc đáo nhất so với bất kỳ bộ phim chuyển thể đài Tolkien nào cho đến nay, thậm chí có thể vẫn giữ kỷ lục. Bộ phim sử dụng dàn diễn viên gồm 60 diễn viên đóng vai chính và 36 diễn viên đóng vai phụ.
+Bộ phim này có một trong những dàn diễn viên độc đáo lớn nhất so với bất kỳ bộ phim chuyển thể phát thanh Tolkien nào cho đến nay, thậm chí có thể vẫn giữ kỷ lục. Bộ phim sử dụng dàn diễn viên gồm 60 diễn viên đóng vai chính và 36 diễn viên đóng vai phụ.
 
 ## Tín dụng {#Credits}
 
@@ -278,11 +278,11 @@ Tổng chi phí sản xuất cho loạt radio lên tới gần 500.000 € theo 
 
 ## Bản dịch {#Translation}
 
-Đến nay, đã có hai bản dịch cuốn sách *The Lord of the Rings* sang tiếng Đức được xuất bản. Bản dịch đầu tiên, 1969-1970 của [Margaret Carroux](../M/Margaret_Carroux.md), *Der Herr der Ringe* ("Chúa tể của những chiếc nhẫn"), và bản dịch thứ hai, năm 2000 của [Wolfgang Krege](../W/Wolfgang_Krege.md), có tựa đề tương tự *Der Herr der Ringe*.
+Đến nay, đã có hai bản dịch cuốn sách *The Lord of the Rings* sang tiếng Đức được xuất bản. Bản dịch đầu tiên năm 1969-1970 của [Margaret Carroux](../M/Margaret_Carroux.md), *Der Herr der Ringe* ("The Lord of the Rings") và bản dịch thứ hai năm 2000 của [Wolfgang Krege](../W/Wolfgang_Krege.md), có tựa đề tương tự *Der Herr der Ringe*.
 
 Do năm sản xuất loạt radio *Der Herr der Ringe* nên nó sử dụng thuật ngữ và đoạn trích từ bản dịch lâu đời hơn của Carroux.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Mặc dù loạt phim phát thanh của Đức được khen ngợi vì cách xử lý tài liệu nguồn và thuật ngữ đã dịch, nhưng nó cũng nhận được một số chỉ trích ở mức độ nhất định trong giới người hâm mộ Tolkien ở Đức, vì đôi khi bỏ qua cách phát âm chính xác của một số địa danh và tên cá nhân trong ngôn ngữ do Tolkien xây dựng.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Mặc dù loạt chương trình phát thanh của Đức được khen ngợi vì cách xử lý nguồn tài liệu và thuật ngữ được dịch, nhưng nó cũng nhận được một số chỉ trích ở mức độ nhất định trong giới người hâm mộ Tolkien tiếng Đức, vì đôi khi bỏ qua cách phát âm chính xác của một số địa danh và tên cá nhân trong các ngôn ngữ được xây dựng của Tolkien.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Phát hành {#Releases}
 
@@ -319,5 +319,5 @@ Cho đến nay, loạt đài này đã được phát hành thương mại trên
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Der_Herr_der_Ringe" title="wikipedia:Der Herr der Ringe"><i>Chúa tể của những chiếc nhẫn</i> Loạt phim phát thanh Đức năm 1992</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia tiếng Anh</a>
-- <a class="external text" href="https://www.audible.de/pd/Der-Herr-der-Ringe-Das-Hoerspiel-Hoerbuch/B004IZ4WFW" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn</i> Loạt đài phát thanh Đức năm 1992 có sẵn để mua tại Audible.de</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Der_Herr_der_Ringe" title="wikipedia:Der Herr der Ringe"><i>The Lord of the Rings</i> Chuỗi phát thanh tiếng Đức năm 1992</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia tiếng Anh</a>
+- <a class="external text" href="https://www.audible.de/pd/Der-Herr-der-Ringe-Das-Hoerspiel-Hoerbuch/B004IZ4WFW" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings</i> Dòng đài phát thanh Đức 1992 có sẵn để mua tại Audible.de</a>

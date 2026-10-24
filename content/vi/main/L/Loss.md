@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>mất mát</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "'tuyết', đặc biệt là tuyết rơi và kéo dài".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>mất</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "'tuyết', đặc biệt là tuyết rơi và kéo dài".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

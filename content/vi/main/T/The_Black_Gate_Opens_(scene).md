@@ -42,19 +42,19 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Cổng đen mở** là cảnh thứ năm mươi của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ sáu mươi lăm của [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
+** Cổng Đen Mở** là cảnh thứ năm mươi của *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* và cảnh thứ sáu mươi lăm của [*The Lord of the Rings: The Return of the King* (extended edition)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(extended_edition).md>).
 
 ## Tóm tắt {#Synopsis}
 
-Các [Thuyền trưởng của phương Tây](../C/Captains_of_the_West.md) quay trở lại từ [Cổng đen](../B/Black_Gate.md) về phía binh lính của họ sau cuộc chạm trán với [Miệng Sauron](../M/Mouth_of_Sauron.md). [Aragorn](../A/Aragorn.md) tập hợp đội quân [Đàn ông](../M/Men.md) bằng một bài phát biểu và chuẩn bị sẵn sàng cho trận chiến dường như vô vọng sắp xảy ra. Ông nhận ra nỗi sợ hãi của họ nhưng yêu cầu họ chiến đấu vì tất cả những gì họ yêu quý trên thế giới.
+Các [Thuyền trưởng của Phương Tây](../C/Captains_of_the_West.md) quay trở lại từ [Cổng Đen](../B/Black_Gate.md) về phía binh lính của họ sau cuộc chạm trán với [Miệng của Sauron](../M/Mouth_of_Sauron.md). [Aragorn](../A/Aragorn.md) tập hợp đội quân [Con Người](../M/Men.md) bằng một bài phát biểu và chuẩn bị sẵn sàng cho trận chiến dường như vô vọng sắp xảy ra. Ông nhận ra nỗi sợ hãi của họ nhưng yêu cầu họ chiến đấu vì tất cả những gì họ yêu quý trên thế giới.
 
-Khi quân đội của [Mordor](../M/Mordor.md) bao vây lực lượng phương Tây, [Gandalf](../G/Gandalf.md) có vẻ không chắc chắn. *"Tôi chưa bao giờ nghĩ mình sẽ chết khi chiến đấu bên cạnh một yêu tinh"*, [Gimli](../G/Gimli.md) nói với [Legolas](../L/Legolas.md). *"Sát cánh cùng một người bạn thì sao?"* Legolas lặng lẽ nói, mỉm cười. Cảm động, Gimli nói rằng anh có thể làm được điều đó.
+Khi quân đội của [Mordor](../M/Mordor.md) bao vây lực lượng của Phương Tây, [Gandalf](../G/Gandalf.md) có vẻ không chắc chắn. *"Chưa bao giờ tôi nghĩ mình sẽ chết khi chiến đấu bên cạnh một Tiên"*, [Gimli](../G/Gimli.md) nói với [Legolas](../L/Legolas.md). *"Sát cánh cùng một người bạn thì sao?"* Legolas lặng lẽ mỉm cười nói. Cảm động, Gimli nói rằng ông có thể làm được điều đó.
 
-<br> [Sam](../S/Sam.md) nhận ra rằng ánh mắt của [Sauron](../S/Sauron.md) đã bị thu hút và giúp [Frodo](../F/Frodo.md) đứng dậy. Họ đến được sườn dốc của [Orodruin](../O/Orodruin.md) trong tình trạng cạn kiệt năng lượng. Frodo, không thể đứng vững, nhìn lên trên và nhìn thấy ngọn lửa bốc ra từ Núi Doom. Ông ta bò được một đoạn ngắn nhưng gục xuống vì kiệt sức.
+<br> [Sam](../S/Sam.md) nhận ra ánh mắt của [Sauron](../S/Sauron.md) đã bị thu hút và giúp [Frodo](../F/Frodo.md) đứng dậy. Họ đến được những con dốc [Orodruin](../O/Orodruin.md) đã cạn kiệt năng lượng. Frodo không thể đứng vững được, nhìn lên trên và thấy ngọn lửa bốc ra từ Núi Diệt Vong. Ông ta bò được một đoạn ngắn nhưng gục xuống vì kiệt sức.
 
 ## Sự khác biệt {#Differences}
 
-Bài phát biểu của Aragorn không có trong sách. Sau cuộc chạm trán với [Miệng Sauron](../M/Mouth_of_Sauron.md), Aragorn và Gandalf nắm quyền chỉ huy từ một ngọn đồi. Khi trận chiến bắt đầu, nó được kể theo quan điểm của Pippin. Ông chấp nhận rằng mình sẽ chết, và nhận xét rằng giờ đây ông đã hiểu Denethor hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Bài phát biểu của Aragorn không có trong sách. Sau cuộc chạm trán với [Miệng của Sauron](../M/Mouth_of_Sauron.md), Aragorn và Gandalf nhận quyền chỉ huy từ một ngọn đồi. Khi trận chiến bắt đầu, nó được kể từ góc nhìn của Pippin. Ông chấp nhận rằng mình sẽ chết và đưa ra nhận xét rằng giờ đây ông đã hiểu Denethor hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

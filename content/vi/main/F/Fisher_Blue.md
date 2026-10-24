@@ -22,7 +22,7 @@ images:
 
 ## Lịch sử {#History}
 
-Một ngày nọ, Fisher Blue đang bay trên sông thì gặp [Tom Bombadil](../T/Tom_Bombadil.md) trên thuyền của mình. Ông yêu cầu Tom mang về tin tức về nơi Tom sẽ đến. Tom không muốn trả lời lại. Điều này khiến Fisher Blue vô cùng tức giận đến mức dọa lật thuyền của Tom. Không hài lòng lắm khi nghe điều này Tom nói rằng ông sẽ cắt mỏ của Fisher và dùng nó như một chiếc chong chóng gió. Sau đó Fisher Blue rời đi.
+Một ngày nọ, Fisher Blue đang bay trên sông thì tình cờ gặp [Tom Bombadil](../T/Tom_Bombadil.md) trên thuyền của mình. Ông yêu cầu Tom mang về tin tức về nơi Tom sẽ đến. Tom không muốn trả lời lại. Điều này khiến Fisher Blue vô cùng tức giận đến mức dọa lật thuyền của Tom. Không hài lòng lắm khi nghe điều này Tom nói rằng ông sẽ cắt mỏ của Fisher và dùng nó như một chiếc chong chóng gió. Sau đó Fisher Blue rời đi.
 
 Sau đó, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Otter-folk&amp;action=edit&amp;redlink=1" title="Otter-folk (page does not exist)">Otter-folk</a> tìm thấy thuyền của Tom, neo thuyền dọc theo bờ biển và thả lỏng nó với sự giúp đỡ của Fisher Blue, [Willow-wren](../W/Willow-wren.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Old_Swan&amp;action=edit&amp;redlink=1" title="Old Swan (page does not exist)">Old Swan</a>. Họ đợi Tom đến tìm nhưng lúc họ thả thuyền thì ông đã về nhà nên họ đã đợi rất lâu.<sup id="cite_ref-Bombadil_1-1" class="reference"><a href="#cite_note-Bombadil-1">[1]</a></sup>
 

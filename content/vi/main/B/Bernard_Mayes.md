@@ -37,12 +37,12 @@ infobox:
 
 Mayes theo học tại [Đại học Cambridge](../C/Cambridge.md) nơi anh tốt nghiệp *cum laude* chuyên ngành Ngôn ngữ cổ. Anh gia nhập [BBC](BBC.md) và đồng thời trở thành linh mục trong Giáo hội Anh. Sau đó, ông chuyển đến Hoa Kỳ, nơi ông là chủ tịch sáng lập của Đài phát thanh công cộng quốc gia và nắm giữ một giáo xứ gần San Francisco. Ông ta là một nhà vận động tích cực cho phúc lợi dân sự, tổ chức tư vấn tự tử ở California và vận động cho quyền của <a class="extiw" href="http://en.wikipedia.org/wiki/LGBT" title="wikipedia:LGBT">LGBT</a>, bản thân ông ta là một người đồng tính.
 
-Mayes tham gia vào các vở kịch trên đài phát thanh khi ông, với nền tảng kinh điển của mình, dịch các tác phẩm của <a class="extiw" href="http://en.wikipedia.org/wiki/Homer" title="wikipedia:Homer">Homer</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Aeschylus" title="wikipedia:Aeschylus">Aeschylus</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Plato" title="wikipedia:Plato">Plato</a> từ tiếng Hy Lạp. Sau đó ông còn thực hiện các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và Charles Dickens. Sau một số năm làm giáo sư tại Đại học Virginia ở Charlottesville, Mayes đã nghỉ hưu. Ông trở lại San Francisco trong những năm cuối đời và qua đời ở đó vào năm 2014.
+Mayes tham gia vào các vở kịch trên đài phát thanh khi ông, với nền tảng kinh điển của mình, dịch các tác phẩm của <a class="extiw" href="http://en.wikipedia.org/wiki/Homer" title="wikipedia:Homer">Homer</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Aeschylus" title="wikipedia:Aeschylus">Aeschylus</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/Plato" title="wikipedia:Plato">Plato</a> từ tiếng Hy Lạp. Sau này ông còn làm các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và Charles Dickens. Sau một số năm làm giáo sư tại Đại học Virginia ở Charlottesville, Mayes đã nghỉ hưu. Ông trở lại San Francisco trong những năm cuối đời và qua đời ở đó vào năm 2014.
 
 ## Vai trò {#Roles}
 
 - [1979](../_/1979.md): [*The Hobbit* (loạt phim phát thanh năm 1979)](<../T/The_Hobbit_(1979_radio_series).md>): [Gandalf](../G/Gandalf.md)
-- [1979](../_/1979.md): [*The Lord of the Rings* (loạt phim phát thanh năm 1979)](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>): [Gandalf](../G/Gandalf.md), [Tom Bombadil](../T/Tom_Bombadil.md)
+- [1979](../_/1979.md): [*The Lord of the Rings* (loạt phim phát thanh 1979)](<../T/The_Lord_of_the_Rings_(1979_radio_series).md>): [Gandalf](../G/Gandalf.md), [Tom Bombadil](../T/Tom_Bombadil.md)
 
 ## Thư mục {#Bibliography}
 

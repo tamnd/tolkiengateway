@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arda-sällskapet"
 ---
 
-Chuyển hướng tới [Arda-sällskapet](Arda-sällskapet.md).
+Chuyển hướng đến [Arda-sällskapet](Arda-sällskapet.md).

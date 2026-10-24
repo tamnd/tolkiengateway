@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**WIN** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "trẻ".<sup id="cite_ref-VT47_1-0" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
+**WIN** là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "trẻ".<sup id="cite_ref-VT47_1-0" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -20,9 +20,9 @@ categories:
 
 ## Phiên bản khác {#Other_versions}
 
-Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện gốc đã bị xóa GWIN ("mới, mới"), với các dẫn xuất Quenya *[winya](../V/Vinya.md)* ("mới, tươi, trẻ"), [Noldorin](../N/Noldorin.md) *bîn*. [Tolkien](../J/J.R.R._Tolkien.md) cũng đã thử nghiệm một sản phẩm phái sinh ?[Avarin](../A/Avarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gwinarn&amp;action=edit&amp;redlink=1" title="Gwinarn (page does not exist)">Gwinarn</a></i>. GWIN gốc đã được liên kết với <a class="new" href="https://tolkiengateway.net/w/index.php?title=GWEN&amp;action=edit&amp;redlink=1" title="GWEN (page does not exist)">GWEN</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [*Etymologies*](../T/The_Etymologies.md) xuất hiện gốc đã bị xóa GWIN ("mới, mới"), với các dẫn xuất Quenya *[winya](../V/Vinya.md)* ("mới, tươi, trẻ"), [Noldorin](../N/Noldorin.md) *bîn*. [Tolkien](../J/J.R.R._Tolkien.md) cũng đã thử nghiệm một công cụ phái sinh ?[Avarin](../A/Avarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Gwinarn&amp;action=edit&amp;redlink=1" title="Gwinarn (page does not exist)">Gwinarn</a></i>. GWIN gốc đã được liên kết với <a class="new" href="https://tolkiengateway.net/w/index.php?title=GWEN&amp;action=edit&amp;redlink=1" title="GWEN (page does not exist)">GWEN</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong một bản viết tay gắn liền với bài tiểu luận *Eldarin Hands, Fingers &amp; Numerals* xuất hiện một gốc từ khác đã bị xóa: WINI ("nhỏ"), có lẽ nhằm giải thích Quenya *wine*, *winimo* ("em bé").<sup id="cite_ref-VT47_1-2" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
+Trong một bản viết tay gắn liền với bài tiểu luận *Eldarin Hands, Fingers &amp; Numerals* xuất hiện một gốc từ khác đã bị lược bỏ: WINI ("nhỏ"), có lẽ nhằm giải thích Quenya *wine*, *winimo* ("bé").<sup id="cite_ref-VT47_1-2" class="reference"><a href="#cite_note-VT47-1">[1]</a></sup>
 
 <span></span>
 

@@ -25,7 +25,7 @@ images:
 
 Đầu tháng 7 [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Doris Elizabeth Sykes**.<sup id="cite_ref-HS_1-0" class="reference"><a href="#cite_note-HS-1">[1]</a></sup><sup id="cite_ref-Christies_2-0" class="reference"><a href="#cite_note-Christies-2">[2]</a></sup>
 
-- **Chủ đề:** Thảo luận về những bức tranh minh họa của Syke lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Sykes đã gửi cho Tolkien bộ tranh minh họa thứ hai.<sup id="cite_ref-HS_1-1" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
+- **Chủ đề:** Thảo luận về những bức tranh minh họa của Syke lấy cảm hứng từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Sykes đã gửi Tolkien bộ tranh minh họa thứ hai.<sup id="cite_ref-HS_1-1" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
 - **Mô tả:** Viết tay.<sup id="cite_ref-Christies_2-1" class="reference"><a href="#cite_note-Christies-2">[2]</a></sup>
 - **Xuất bản:** Các trích dẫn từ bức thư và bản sao chép được đưa vào *[Christie's Fine Printed Books and Manuscripts 18 June 2013](../C/Christie's_Fine_Printed_Books_and_Manuscripts_18_June_2013.md)* (tr. 12).<sup id="cite_ref-HS_1-2" class="reference"><a href="#cite_note-HS-1">[1]</a></sup>
 
@@ -41,7 +41,7 @@ Tôi đã cho 'độc giả' khác xem bản vẽ của bạn và phản hồi r
 
 Tôi không nhớ mình đã ghi những gì (Không có thư ký, không có bản sao, trừ khi đánh máy). Nhưng tôi nghĩ thứ bạn cần là một bản sao của cuốn sách. Tôi xin lỗi vì tôi không còn gì cả (hãy lưu bản sao của riêng tôi!); nhưng tôi sẽ làm nếu bạn muốn gửi một số bản sao có thể dùng được. I. một bản sao bị lỗi của Mỹ trang 321–336 bị bỏ qua – nhưng có lẽ nên bổ sung bằng cách sao chép phần còn thiếu từ bản sao thư viện.
 
-\* Hoặc/hoặc một bản sao chứng minh chưa được chỉnh sửa đóng bìa giấy (trừ các bản vẽ của Mordor Gate và Runes)
+\* Hoặc/hoặc một bản sao chứng minh đóng bìa giấy chưa chỉnh sửa (trừ các bản vẽ của Mordor Cổng và Cổ ngữ)
 
 \* II Một bản sao (có một trang bị lỗi) của ấn bản tiếng Anh – lỗi đã được sửa.
 
@@ -57,9 +57,9 @@ JRRT
 
 ## Từ cuộc đấu giá {#From_Auction}
 
-TOLKIEN, John Ronald Reuel (1892-1973). Hai lá thư có chữ ký ('J.R.R. Tolkien') gửi cho Doris Sykes, Merton College, Oxford, và Headington, ngày 28 tháng 1 năm 1956 và n.d., 5½ trang, 4to (lá đầu tiên có dấu nhỏ bằng bút chì đỏ), phong bì.
+TOLKIEN, John Ronald Reuel (1892-1973). Hai lá thư có chữ ký ('J.R.R. Tolkien') gửi cho Doris Sykes, Merton College, Oxford, và Headington, ngày 28 tháng 1 năm 1956 và n.d., 5½ trang, 4to (cuốn đầu tiên có dấu vết nhỏ bằng bút chì đỏ), phong bì.
 
-Thảo luận về các minh họa cho *The Lord of the Rings*: Tolkien trả lời trong lá thư đầu tiên những bức vẽ của người nhận cho tác phẩm mà ông thấy 'cực kỳ tốt ... Ngoài kỹ năng kỹ thuật của họ ... trong nhiều trường hợp, chúng không chỉ phù hợp chặt chẽ với tầm nhìn của tôi mà thậm chí còn làm phong phú thêm nó. Tôi đặc biệt thích thú với Treebeard với Merry và Pippin trong tay; nhưng tất cả các hobbit của bạn đều đáng ngưỡng mộ, kể cả lũ Orc và Gimli. Tôi cũng nghĩ cảnh dưới "Weathertop" và Vua phù thủy rất mạnh mẽ. Nó đã được giải quyết theo cách duy nhất có thể: làm cho Frodo và Nhà vua có thể nhìn thấy được cũng như những Người bạn đồng hành khác trong bóng tối ... Riêng Aragorn không tương ứng chặt chẽ với tầm nhìn của tôi ... Tôi nghĩ ông là người nghiêm khắc hơn, sắc sảo hơn và có khuôn mặt ít "Hy Lạp" hơn và mũi thẳng hơn, La Mã hơn '; Tuy nhiên, Tolkien tiếc nuối nói thêm rằng "triển vọng trước mắt của một ấn bản có minh họa là không tốt". Bức thư thứ hai thảo luận thêm về các bức vẽ và đề nghị gửi một bộ tiểu thuyết bị lỗi (tác giả thiếu bất kỳ bộ tiểu thuyết hoàn hảo nào) để cô Sykes tiếp tục công việc của mình, mặc dù triển vọng xuất bản vẫn còn rất ít.<sup id="cite_ref-Christies_2-2" class="reference"><a href="#cite_note-Christies-2">[2]</a></sup>
+Thảo luận về các minh họa cho *The Lord of the Rings*: Tolkien trả lời trong bức thư đầu tiên các bản vẽ cho tác phẩm của người nhận mà ông ta thấy 'cực kỳ tốt ... Ngoài kỹ năng kỹ thuật của họ ... trong nhiều trường hợp, chúng không chỉ phù hợp chặt chẽ với tầm nhìn của tôi mà thậm chí còn làm phong phú thêm nó. Tôi đặc biệt thích thú với Treebeard với Merry và Pippin trong vòng tay của ông; nhưng tất cả các hobbit của bạn đều đáng ngưỡng mộ, cả lũ orc và Gimli. Tôi cũng nghĩ cảnh dưới "Weathertop" và Phù thủy-Vua thật mạnh mẽ. Nó đã được giải quyết theo cách khả thi duy nhất: làm cho Frodo và Vua hiển thị và những Người bạn đồng hành khác trong bóng tối ... riêng Aragorn không phù hợp chặt chẽ với tầm nhìn của tôi ... Tôi nghĩ về ông nghiêm khắc hơn, sắc sảo hơn và có khuôn mặt ít "Hy Lạp" hơn và mũi thẳng hơn, La Mã hơn'; Tolkien tuy nhiên tiếc nuối thêm rằng 'triển vọng trước mắt của một ấn bản có minh họa là không tốt'. Bức thư thứ hai thảo luận thêm về các bức vẽ và đề nghị gửi một bộ tiểu thuyết bị lỗi (tác giả thiếu bất kỳ bộ tiểu thuyết hoàn hảo nào) để cô Sykes tiếp tục công việc của mình, mặc dù triển vọng xuất bản vẫn còn rất ít.<sup id="cite_ref-Christies_2-2" class="reference"><a href="#cite_note-Christies-2">[2]</a></sup>
 
 ## Thư viện {#Gallery}
 

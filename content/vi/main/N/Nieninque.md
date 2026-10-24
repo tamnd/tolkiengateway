@@ -42,7 +42,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="Nielíqui.md" title="Nielíqui">Niéle</a></td></tr>
 </tbody></table>
 
-<i><b>Nieninque</b></i> là bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào khoảng [26 tháng 6](../_/26_June.md) và [2 tháng 7](../_/2_July.md) ở [1955](../_/1955.md).<sup id="cite_ref-PE16_1-0" class="reference"><a href="#cite_note-PE16-1">[1]</a></sup>
+<i><b>Nieninque</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào khoảng [26 tháng 6](../_/26_June.md) và [2 tháng 7](../_/2_July.md) ở [1955](../_/1955.md).<sup id="cite_ref-PE16_1-0" class="reference"><a href="#cite_note-PE16-1">[1]</a></sup>
 
 ## Bài thơ {#Poem}
 
@@ -82,9 +82,9 @@ with feet like the music of falling leaves.<sup id="cite_ref-arda_2-0" class="re
 
 ## Nền {#Background}
 
-Khoảng trong hoặc trước [1921](../_/1921.md), Tolkien đã viết bản thảo [Qenya](../Q/Qenya.md) sớm nhất của bài thơ <i><b>Nieninqe</b></i> mà sau này được đặt trong một phong bì có dấu bưu điện đề ngày [5 tháng 10](../_/5_October.md) năm 1921 và dán nhãn "Những bài thơ Elfin" hoặc "Những bài thơ Elfin"<sup id="cite_ref-collectedpoems_3-0" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> ở mặt sau. Tolkien sau đó đã tạo thêm ba phiên bản nữa từ năm 1921 đến [1931](../_/1931.md), mỗi phiên bản lần lượt có "chỉ những thay đổi nhỏ" so với các phiên bản trước.<sup id="cite_ref-PE16_1-2" class="reference"><a href="#cite_note-PE16-1">[1]</a></sup>
+Khoảng trong hoặc trước [1921](../_/1921.md), Tolkien đã viết [Qenya](../Q/Qenya.md) bản thảo sớm nhất của bài thơ <i><b>Nieninqe</b></i> mà sau này được đặt trong một phong bì có dấu bưu điện đề ngày [5 tháng 10](../_/5_October.md) năm 1921 và dán nhãn "Những bài thơ Elfin" hoặc "Những bài thơ Elfin"<sup id="cite_ref-collectedpoems_3-0" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> ở mặt sau. Tolkien sau đó đã tạo thêm ba phiên bản nữa từ năm 1921 đến [1931](../_/1931.md), mỗi phiên bản lần lượt có "chỉ những thay đổi nhỏ" so với các phiên bản trước.<sup id="cite_ref-PE16_1-2" class="reference"><a href="#cite_note-PE16-1">[1]</a></sup>
 
-Tolkien có thể đã viết phiên bản thứ tư của bài thơ, hiện có tựa đề <i><b>Nieninque</b></i>,<sup id="cite_ref-collectedpoems_3-1" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> vào mùa thu<sup id="cite_ref-collectedpoems_3-2" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> năm 1931 trước [29 tháng 11](../_/29_November.md) khi Tolkien giảng bài *[A Secret Vice](../A/A_Secret_Vice.md)*.<sup id="cite_ref-PE16_1-3" class="reference"><a href="#cite_note-PE16-1">[1]</a></sup>
+Tolkien có thể đã viết phiên bản thứ tư của bài thơ, hiện có tựa đề <i><b>Nieninque</b></i>,<sup id="cite_ref-collectedpoems_3-1" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> vào mùa thu<sup id="cite_ref-collectedpoems_3-2" class="reference"><a href="#cite_note-collectedpoems-3">[3]</a></sup> năm 1931 trước [29 tháng 11](../_/29_November.md) khi Tolkien thuyết trình *[A Secret Vice](../A/A_Secret_Vice.md)*.<sup id="cite_ref-PE16_1-3" class="reference"><a href="#cite_note-PE16-1">[1]</a></sup>
 
 Trong [1983](../_/1983.md), *Nieninque* được [Christopher Tolkien](../C/Christopher_Tolkien.md) xuất bản sau khi chết trong *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics_and_Other_Essays.md)*.<sup id="cite_ref-monsters_4-0" class="reference"><a href="#cite_note-monsters-4">[4]</a></sup>
 

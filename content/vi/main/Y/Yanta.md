@@ -20,17 +20,17 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/Y/Yanta.gif.md"><img src="https://tolkiengateway.net/w/images/2/22/Yanta.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Yanta* là tên trong [Quenya](../Q/Quenya.md) của chữ cái thứ 35 trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Trong hầu hết các chế độ, nó được sử dụng làm phụ âm và đại diện cho **Y**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, trong [Chế độ Beleriand](../M/Mode_of_Beleriand.md), như được thấy trong dòng chữ trên [Cổng phía Tây](../D/Doors_of_Durin.md) của [Moria](../M/Moria.md), *Yanta* đại diện cho **E**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên phương Tây của chữ này là <i><b>Ai</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Yanta* là tên trong [Quenya](../Q/Quenya.md) chữ cái thứ ba mươi lăm của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Trong hầu hết các chế độ, nó được sử dụng như một phụ âm và đại diện cho **Y**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, trong [Chế độ Beleriand](../M/Mode_of_Beleriand.md), như được thấy trong dòng chữ trên [Phương Tây-gate](../D/Doors_of_Durin.md) của [Moria](../M/Moria.md), *Yanta* đại diện cho **E**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên Westron của chữ cái này là <i><b>Ai</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <br>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YAT&amp;action=edit&amp;redlink=1" title="YAT (page does not exist)">YAT</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YAT&amp;action=edit&amp;redlink=1" title="YAT (page does not exist)">YAT</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_Also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

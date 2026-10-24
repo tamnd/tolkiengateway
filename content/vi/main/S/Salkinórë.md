@@ -22,7 +22,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Salkinórë* ở [Qenya](../Q/Qenya.md). Nó được *[Eldamo](../E/Eldamo.md)* gọi là "Đất cỏ", bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Salki&amp;action=edit&amp;redlink=1" title="Salki (page does not exist)">salki</a></i> hoặc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Salk%C3%AB&amp;action=edit&amp;redlink=1" title="Salkë (page does not exist)">salkë</a></i> ("cỏ") + *[nórë](../N/Nórë.md)* ("đất, quốc gia, gia đình, quốc gia").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Salkinórë* nằm trong [Qenya](../Q/Qenya.md). Nó được *[Eldamo](../E/Eldamo.md)* gọi là "Đất cỏ", bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Salki&amp;action=edit&amp;redlink=1" title="Salki (page does not exist)">salki</a></i> hoặc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Salk%C3%AB&amp;action=edit&amp;redlink=1" title="Salkë (page does not exist)">salkë</a></i> ("cỏ") + *[nórë](../N/Nórë.md)* ("đất, quốc gia, gia đình, quốc gia").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Một tên khác cho địa điểm này là <i><b>Andesalkë</b></i>, bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ande(a)&amp;action=edit&amp;redlink=1" title="Ande(a) (page does not exist)">ande(a)</a></i> ("dài") + *salkë*, nghĩa là "Cỏ dài".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Một dạng trước đó của *Andesalkë* là *Andisalkë*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

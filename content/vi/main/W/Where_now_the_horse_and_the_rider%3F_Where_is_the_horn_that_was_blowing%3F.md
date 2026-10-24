@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lament for the Rohirrim"
 ---
 
-Chuyển hướng đến [Than tiếc cho người Rohirrim](../L/Lament_for_the_Rohirrim.md).
+Chuyển hướng đến [Than thở cho Rohirrim](../L/Lament_for_the_Rohirrim.md).

@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien thích những "ngôi nhà buồn tẻ" - ông đã từng trải qua những học sinh có vẻ buồn tẻ và chậm chạp nhất nước Anh: những nam nữ thanh niên ở Yorkshire thuộc lớp học dưới công lập, có hoàn cảnh vô gia cư, không sách vở và không có văn hóa. Nó không chỉ ra năng lực tinh thần bẩm sinh thực sự của bất kỳ cá nhân nào vì một tỷ lệ lớn đáng ngạc nhiên được chứng minh là "có thể giáo dục được". Trình độ chuyên môn cơ bản là sẵn sàng làm một số công việc để học hỏi ở bất kỳ mức độ thông minh nào. Tolkien tuyên bố rằng dạy học là một công việc mệt mỏi nhất.
+Tolkien ủng hộ những "ngôi nhà buồn tẻ" - anh đã từng trải qua những học sinh có vẻ buồn tẻ và chậm chạp nhất nước Anh: những nam nữ thanh niên ở Yorkshire thuộc tầng lớp dưới công lập, có hoàn cảnh vô gia cư, không sách vở và không có văn hóa. Nó không chỉ ra năng lực tinh thần bẩm sinh thực sự của bất kỳ cá nhân nào vì một tỷ lệ lớn đáng ngạc nhiên được chứng minh là "có thể giáo dục được". Trình độ chuyên môn cơ bản là sẵn sàng làm một số công việc để học hỏi ở bất kỳ mức độ thông minh nào. Tolkien tuyên bố dạy học là một công việc mệt nhọc nhất.
 
-Tuy nhiên, Tolkien thà làm việc để loại bỏ những thứ "buồn tẻ" khỏi "ngôi nhà" hơn là lãng phí công sức cho những người có trí thông minh cao hơn nhưng đã bị hư hỏng, tan rã bởi trường học và môi trường ngày nay (và ma túy). Giảng dạy không phải là công cụ để họ phục hồi chức năng. Thà một cái rễ nhỏ mập mạp mà cuối cùng có thể tạo ra hạt giống còn hơn một cái rễ lớn màu hồng bị ruồi cà rốt thối rữa.
+Tuy nhiên, Tolkien thà nỗ lực loại bỏ những thứ "buồn tẻ" khỏi "ngôi nhà" hơn là lãng phí công sức cho những người có vẻ thông minh hơn nhưng đã bị trường học làm hư hỏng, tan rã và môi trường ngày nay (và ma túy). Giảng dạy không phải là công cụ để họ phục hồi chức năng. Thà một cái rễ nhỏ mập mạp mà cuối cùng có thể tạo ra hạt giống còn hơn một cái rễ lớn màu hồng bị ruồi cà rốt thối rữa.
 
 <br>
 

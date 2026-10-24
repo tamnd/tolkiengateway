@@ -22,7 +22,7 @@ images:
 
 **Bảy ngôi sao** là biểu tượng phổ biến xuyên suốt [Arda](../A/Arda.md).
 
-Nó đề cập đến chòm sao quay qua bầu trời phía bắc vào mỗi đêm trong năm. Đối với [Yêu tinh](../E/Elves.md) thì đây là [Valacirca](../V/Valacirca.md) báo hiệu sự sụp đổ của [Morgoth](../M/Morgoth.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng [Người](../M/Men.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Northern_lands&amp;action=edit&amp;redlink=1" title="Northern lands (page does not exist)">vùng đất phương Bắc</a> gọi nó đơn giản là '[The Wain](../V/Valacirca.md)'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bảy ngôi sao ngày nay được gọi là Cái cày hay The Big Dipper.
+Nó đề cập đến chòm sao quay qua bầu trời phía bắc vào mỗi đêm trong năm. Đối với [Tiên tộc](../E/Elves.md) thì đây là [Valacirca](../V/Valacirca.md) báo hiệu sự sụp đổ của [Morgoth](../M/Morgoth.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng [Con Người](../M/Men.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Northern_lands&amp;action=edit&amp;redlink=1" title="Northern lands (page does not exist)">vùng đất phía Bắc</a> gọi nó đơn giản là '[The Wain](../V/Valacirca.md)'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bảy Ngôi sao ngày nay được gọi là Cái cày hay Bắc Đẩu.
 
 [Cánh cửa Durin](../D/Doors_of_Durin.md) cũng có bảy ngôi sao với vương miện, có thể tượng trưng cho [Vương miện của Durin](../D/Durin's_Crown.md).
 

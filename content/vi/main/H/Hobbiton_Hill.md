@@ -26,17 +26,17 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a0/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water.jpg/200px-J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water.jpg" decoding="async" loading="lazy" width="200" height="260" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a0/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water.jpg/300px-J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a0/J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water.jpg/400px-J.R.R._Tolkien_-_The_Hill_-_Hobbiton-across-the-Water.jpg 2x" data-file-width="1500" data-file-height="1952"/></a><figcaption><i>The Hill - Hobbiton across the Water</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>.</figcaption></figure>
 
-**Đồi Hobbiton**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thường được gọi đơn giản là **Đồi**,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc đồi Hobbiton<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nằm ở phía bắc thị trấn [Hobbiton](Hobbiton.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Bag End](../B/Bag_End.md) được [Bungo Baggins](../B/Bungo_Baggins.md) đào hầm vào ngọn đồi này.<sup id="cite_ref-party_5-0" class="reference"><a href="#cite_note-party-5">[5]</a></sup>
+**Hobbiton Đồi**,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thường được gọi đơn giản là **Đồi**,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc đồi Hobbiton<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> nằm ở phía bắc thị trấn [Hobbiton](Hobbiton.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Bag End](../B/Bag_End.md) được [Bungo Baggins](../B/Bungo_Baggins.md) đào hầm vào ngọn đồi này.<sup id="cite_ref-party_5-0" class="reference"><a href="#cite_note-party-5">[5]</a></sup>
 
-Đất được đào khi đào Bag End *shot* nằm trên rìa của vụ rơi bất ngờ ở sườn đồi xuống đất tạo thành [Hàng Bagshot](../B/Bagshot_Row.md); nó trở thành khu vườn và tường đất của những ngôi nhà khác.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Phần đất được dỡ bỏ trong quá trình đào Bag End bị *shot* vượt ra ngoài rìa của vụ rơi bất ngờ từ sườn đồi xuống đất tạo thành [Hàng Bagshot](../B/Bagshot_Row.md); nó trở thành khu vườn và tường đất của những ngôi nhà khác.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 Một con đường bên ngoài Bag End dẫn đến một cánh cổng và hướng tới [Đường Đồi](Hill_Road.md). Con đường trong vườn dẫn tới chân đồi phía Tây, nơi có hàng rào; phía sau là đồng cỏ, có cổng dẫn vào ngõ hẹp.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Sau khi [Bilbo Baggins](../B/Bilbo_Baggins.md) trở về từ [Truy tìm Erebor](../Q/Quest_for_Erebor.md), [hobbit](Hobbits.md) trẻ hơn tin rằng Ngọn đồi có đầy những đường hầm bí mật chứa đầy kho báu huyền thoại của ông, để giải thích sự giàu có của ông.<sup id="cite_ref-party_5-1" class="reference"><a href="#cite_note-party-5">[5]</a></sup>
+Sau khi [Bilbo Baggins](../B/Bilbo_Baggins.md) trở về từ [Nhiệm vụ tìm kiếm Erebor](../Q/Quest_for_Erebor.md), [hobbit](Hobbits.md) trẻ tuổi tin rằng Đồi có đầy những đường hầm bí mật chứa đầy kho báu huyền thoại của ông ta, để giải thích sự giàu có của ông ta.<sup id="cite_ref-party_5-1" class="reference"><a href="#cite_note-party-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên **Hill of Hobbiton** được sử dụng để viết lại chương đầu tiên của The Hobbit, chương này chưa bao giờ được đưa vào phiên bản đã xuất bản của The Hobbit.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Tên **Đồi Hobbiton** được sử dụng để viết lại chương đầu tiên của The Hobbit, chương này chưa bao giờ được đưa vào phiên bản đã xuất bản của The Hobbit.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
 <span></span>
 

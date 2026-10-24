@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Balrog (disambiguation)"
 ---
 
-Chuyển hướng tới [Balrog (định hướng)](<Balrog_(disambiguation).md>).
+Chuyển hướng đến [Balrog (định hướng)](<Balrog_(disambiguation).md>).

@@ -13,9 +13,9 @@ categories:
   - "Elvish words"
 ---
 
-<i><b>thelion</b></i> là một từ [Elvish](../E/Elvish.md), chỉ xuất hiện dưới dạng một thành phần trong tên *[Ecthelion](../E/Ecthelion.md)* và *Aegthelion*.<sup id="cite_ref-Maeglin_1-0" class="reference"><a href="#cite_note-Maeglin-1">[1]</a></sup>
+<i><b>thelion</b></i> là một từ [Elvish](../E/Elvish.md), chỉ xuất hiện dưới dạng thành phần trong các tên *[Ecthelion](../E/Ecthelion.md)* và *Aegthelion*.<sup id="cite_ref-Maeglin_1-0" class="reference"><a href="#cite_note-Maeglin-1">[1]</a></sup>
 
-[Didier Willis](../D/Didier_Willis.md) lưu ý *thelion* là một danh từ [Sindarin](../S/Sindarin.md) chưa được chứng thực có nghĩa là "người luôn kiên định với mục đích của mình".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Didier Willis](../D/Didier_Willis.md) ghi chú *thelion* là một danh từ [Sindarin](../S/Sindarin.md) chưa được chứng thực có nghĩa là "người luôn kiên định với mục đích của mình".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

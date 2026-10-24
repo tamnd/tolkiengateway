@@ -29,7 +29,7 @@ Có nhiều **ban nhạc** tạo ra âm nhạc lấy cảm hứng từ [Tolkien]
 ### Âm nhạc cổ điển và sơ khai {#Classical_and_Early_Music}
 
 - [Clamavi De Profundis](../C/Clamavi_De_Profundis.md)
-- [Đoàn nhạc Tolkien](../T/Tolkien_Ensemble.md)
+- [Tolkien Tập hợp](../T/Tolkien_Ensemble.md)
 
 ### Âm nhạc dân gian, phim và thế giới {#Folk,_Filk_and_World_Music}
 
@@ -47,11 +47,11 @@ Có nhiều **ban nhạc** tạo ra âm nhạc lấy cảm hứng từ [Tolkien]
 
 - [Âm thanh](../S/Soundestiny.md)
 
-## Những ban nhạc chỉ có mối liên hệ cùng tên với Tolkien {#Bands_that_only_have_a_eponymous_connection_to_Tolkien}
+## Các băng tần chỉ có kết nối cùng tên với Tolkien {#Bands_that_only_have_a_eponymous_connection_to_Tolkien}
 
 ### Bản giao hưởng {#Symphonic}
 
-- <a class="external text" href="https://eyeofmelian.com/" rel="noreferrer noopener" target="_blank">Con mắt của Melian</a>
+- <a class="external text" href="https://eyeofmelian.com/" rel="noreferrer noopener" target="_blank">Mắt của Melian</a>
 
 ### Kim loại {#Metal_2}
 
@@ -60,7 +60,7 @@ Có nhiều **ban nhạc** tạo ra âm nhạc lấy cảm hứng từ [Tolkien]
 - <a class="external text" href="https://www.metal-archives.com/bands/Balrog/6958" rel="noreferrer noopener" target="_blank">Balrog</a> (ban nhạc Pháp)
 - <a class="external text" href="https://www.metal-archives.com/bands/Balrog/50753" rel="noreferrer noopener" target="_blank">Balrog</a> (ban nhạc Ý)
 - <a class="external text" href="https://www.metal-archives.com/bands/Elvenking/387" rel="noreferrer noopener" target="_blank">Vua Tiên</a>
-- <a class="external text" href="https://www.metal-archives.com/bands/Falls_of_Rauros/67357" rel="noreferrer noopener" target="_blank">Thác Rauros</a>
+- <a class="external text" href="https://www.metal-archives.com/bands/Falls_of_Rauros/67357" rel="noreferrer noopener" target="_blank">thác Rauros</a>
 - <a class="external text" href="https://www.metal-archives.com/bands/Gandalf/2528" rel="noreferrer noopener" target="_blank">Gandalf</a> (ban nhạc Phần Lan)
 - <a class="external text" href="https://www.metal-archives.com/bands/Gorgoroth/770" rel="noreferrer noopener" target="_blank">Gorgoroth</a>
 - <a class="external text" href="https://www.metal-archives.com/bands/Isengard/6771" rel="noreferrer noopener" target="_blank">Isengard</a> (ban nhạc Thụy Điển)
@@ -95,4 +95,4 @@ Có nhiều **ban nhạc** tạo ra âm nhạc lấy cảm hứng từ [Tolkien]
 
 - Alexander Melzer, "<a class="external text" href="http://www.metal-observer.com/articles.php?lid=1&amp;sid=8&amp;id=5159" rel="noreferrer noopener" target="_blank">JRR Tolkien - Người tiên phong về kim loại?</a>", tại <i><a class="external text" href="http://www.metal-observer.com/home.php?lid=1" rel="noreferrer noopener" target="_blank">Người quan sát kim loại</a></i>
 - <a class="external text" href="http://www.tolkien-music.com/" rel="noreferrer noopener" target="_blank">Tolkien-Music.com</a>
-- Amy H. Sturgis, "<a class="external text" href="http://www.popthought.com/display_column.asp?DAID=282" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn, Rock On! Sự xem xét âm nhạc của Chúa tể những chiếc nhẫn</a>", tại <i><a class="external text" href="http://www.popthought.com/" rel="noreferrer noopener" target="_blank">PopThought</a></i>
+- Amy H. Sturgis, "<a class="external text" href="http://www.popthought.com/display_column.asp?DAID=282" rel="noreferrer noopener" target="_blank">Chúa tể của những chiếc nhẫn, Rock On! Sự cân nhắc âm nhạc của Chúa tể những chiếc nhẫn</a>", tại <i><a class="external text" href="http://www.popthought.com/" rel="noreferrer noopener" target="_blank">PopThought</a></i>

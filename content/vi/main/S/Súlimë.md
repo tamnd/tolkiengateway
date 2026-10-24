@@ -25,9 +25,9 @@ langlinks:
     url: "https://kontu.wiki/S%C3%BAlim%C3%AB"
 ---
 
-**Súlimë** ([Gwaeron](../G/Gwaeron.md) trong [Sindarin](Sindarin.md)) là tháng thứ ba trong năm trong [Sự tính toán của nhà vua](../K/King's_Reckoning.md) và [Sự tính toán của quản gia](Stewards'_Reckoning.md), và tiếp theo là tháng [Nénimë](../N/Nénimë.md). Trong Cuộc tính toán của nhà vua, nó diễn ra trước tháng [Víressë](../V/Víressë.md) trong khi trong Cuộc tính toán của quản gia, nó diễn ra trước ngày lễ [Tuilérë](../T/Tuilérë.md). Trong cả hai bộ lịch, *Súlimë* đều có 30 ngày, kéo dài từ ngày 62 đến ngày 91 trong năm. Trong [Tính toán mới](../N/New_Reckoning.md), đó là tháng cuối cùng của năm, trước [Mettarë](../M/Mettarë.md) của nó.
+**Súlimë** ([Gwaeron](../G/Gwaeron.md) ở [Sindarin](Sindarin.md)) là tháng thứ ba trong năm trong [Vua's Reckoning](../K/King's_Reckoning.md) và [Stewards' Reckoning](Stewards'_Reckoning.md), và tiếp theo là tháng [Nénimë](../N/Nénimë.md). Trong Vua's Tính toán, nó có trước tháng [Víressë](../V/Víressë.md) trong khi trong Tính toán của Quản lý, nó có trước ngày lễ [Tuilérë](../T/Tuilérë.md). Trong cả hai bộ lịch, *Súlimë* đều có 30 ngày, kéo dài từ ngày 62 đến ngày 91 trong năm. Trong [Tính toán mới](../N/New_Reckoning.md), đó là tháng cuối cùng của năm, trước [Mettarë](../M/Mettarë.md) của nó.
 
-*Súlimë* trong Sự tính toán của Vua và Quản lý tương ứng với [Rethe](../R/Rethe.md) trong [Lịch Quận](Shire_Calendar.md) (khoảng [21 tháng 2](../_/21_February.md) hiện đại đến [22 tháng 3](../_/22_March.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+*Súlimë* trong Cuộc tính toán của Vua và Quản lý tương ứng với [Rethe](../R/Rethe.md) trong [Lịch Shire](Shire_Calendar.md) (khoảng [21 tháng 2](../_/21_February.md) đến [22 tháng 3](../_/22_March.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -24,7 +24,7 @@ Dùng làm hậu tố sở hữu số nhiều.<sup id="cite_ref-1" class="refere
 
 ## -lda<sup>2</sup> {#-lda2}
 
-Được sử dụng như một hậu tố sở hữu số nhiều. Tolkien do dự về nguồn gốc của *-lda*, đầu tiên coi nó là "hậu tố comp\[arative\]" nhưng sau đó lưu ý "Hoặc có thể là một thành ngữ để thêm đại từ vào tính từ = bạn xinh đẹp. -lda, thy, hậu tố của ngôi thứ 2 số ít."<sup id="cite_ref-p55_2-0" class="reference"><a href="#cite_note-p55-2">[2]</a></sup><sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>examples needed</i></a>]</sup>
+Được sử dụng như một hậu tố sở hữu số nhiều. Tolkien do dự về nguồn gốc của *-lda*, đầu tiên coi nó là "một hậu tố comp\[arative\]" nhưng sau đó lưu ý "Hoặc có thể là một thành ngữ để thêm đại từ vào tính từ = bạn xinh đẹp. -lda, thy, hậu tố của ngôi thứ 2 số ít."<sup id="cite_ref-p55_2-0" class="reference"><a href="#cite_note-p55-2">[2]</a></sup><sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>examples needed</i></a>]</sup>
 
 ## -lda<sup>3</sup> {#-lda3}
 

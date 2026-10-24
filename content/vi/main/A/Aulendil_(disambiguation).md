@@ -25,9 +25,9 @@ images:
 
 **Aulendil** có thể đề cập đến:
 
-- [Aulendili](Aulendur.md), học trò của [Aulë](Aulë.md).
+- Các [Aulendili](Aulendur.md), học sinh của [Aulë](Aulë.md).
 - [Aulendil](<Aulendil_(son_of_Vardamir).md>) (sinh [S.A.](../S/Second_Age.md) [213](../S/Second_Age_213.md)), con trai của [Vardamir Nólimon](../V/Vardamir.md).
-- Một bí danh khác được sử dụng bởi [Sauron](../S/Sauron.md) cải trang thành [Annatar](Annatar.md) vào giữa [Thời thứ hai](../S/Second_Age.md).
+- Một bí danh khác được sử dụng bởi [Sauron](../S/Sauron.md) cải trang thành [Annatar](Annatar.md) ở giữa-[Kỷ Đệ Nhị](../S/Second_Age.md).
 
 <hr style="margin-top:15px;"/>
 

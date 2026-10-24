@@ -13,21 +13,21 @@ categories:
   - "Albums"
 ---
 
-<i><b>Sagan om Ringen</b></i> (tiếng Thụy Điển, "The Saga of the Rings", tựa đề *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) là một album [1972](../_/1972.md) của [Bo Hansson](../B/Bo_Hansson.md). Đây là album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) đầu tiên được xuất bản bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Silence_Records" title="wikipedia:Silence Records">Silence Records</a>. Nó nhanh chóng trở nên phổ biến ở Anh và được xuất bản ở đó với tên **Âm nhạc lấy cảm hứng từ Chúa tể những chiếc nhẫn** vào tháng 10 năm 1972.
+<i><b>Sagan om Ringen</b></i> (tiếng Thụy Điển, "The Saga of the Rings", tựa đề *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) là một album [1972](../_/1972.md) của [Bo Hansson](../B/Bo_Hansson.md). Đây là album theo chủ đề [Tolkien](../J/J.R.R._Tolkien.md) đầu tiên được xuất bản bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Silence_Records" title="wikipedia:Silence Records">Silence Records</a>. Nó nhanh chóng trở nên phổ biến ở Anh và được xuất bản ở đó với tên **Âm nhạc lấy cảm hứng từ Chúa tể những chiếc nhẫn** vào tháng 10 năm 1972.
 
 ## Danh sách bản nhạc {#Track_listing}
 
 1. "Första Vandringen" ("Rời khỏi Shire")
-2. "Den Gimmla Skogen och Tom Bombadill" ("Khu rừng già và Tom Bombadil")
+2. "Den Gimmla Skogen och Tom Bombadill" ("The Khu Rừng Cổ và Tom Bombadil")
 3. "I Skuggornas Rike" ("Sương mù trên Barrow-Downs")
-4. "De Svarta Ryttarna och Flykten från Vadstället" ("Những kỵ sĩ da đen và chuyến bay tới chiếc Ford")
-5. "I Elronds Hus och Ringen Vandrar Söderut" ("Tại ngôi nhà của Elrond và chiếc nhẫn đi về phương Nam")
+4. "De Svarta Ryttarna och Flykten från Vadstället" ("The Kỵ sĩ Đen và Chuyến bay tới chiếc Ford")
+5. "I Elronds Hus och Ringen Vandrar Söderut" ("Tại Ngôi nhà của Elrond và Chiếc nhẫn đi về phương Nam")
 6. "En Vandring I Mörkret" ("Hành trình trong bóng tối")
 7. "Lothlorien"
-8. "Skuggfaxe" ("Shadowfax")
-9. "Rohans Horn och Slaget på Pelennors Slätter" ("Những chiếc sừng của Rohan và Trận chiến trên cánh đồng Pelennor")
+8. "Skuggfax" ("Shadowfax")
+9. "Rohans Horn och Slaget på Pelennors Slätter" ("The Horns Of Rohan và Trận chiến cánh đồng Pelennor")
 10. "Drömmar I Läkandets Hus" ("Những giấc mơ trong ngôi nhà chữa lành")
-11. "Hemfärden och Fylke Rensas" ("Trở về quê hương và sự trừng phạt của quận")
+11. "Hemfärden och Fylke Rensas" ("Trở về nhà và sự trừng phạt The Shire")
 12. "De Grå Hamnarna" ("Những bến cảng xám")
 
 ## Đội hình {#Line-up}

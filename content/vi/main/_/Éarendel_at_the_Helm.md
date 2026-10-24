@@ -12,7 +12,7 @@ categories:
   - "Poems by J.R.R. Tolkien"
 ---
 
-<i><b>Éarendel at the Helm</b></i><sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào mùa thu năm 1931 để tham gia bài giảng của ông *[A Secret Vice](../A/A_Secret_Vice.md)*.<sup id="cite_ref-RG_2-0" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
+<i><b>Éarendel at the Helm</b></i><sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> là một bài thơ được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết vào mùa thu năm 1931 để trở thành một phần trong bài giảng của ông *[A Secret Vice](../A/A_Secret_Vice.md)*.<sup id="cite_ref-RG_2-0" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
 
 ## Bài thơ {#Poem}
 
@@ -40,7 +40,7 @@ categories:
 
 ## Nền {#Background}
 
-Tolkien ban đầu viết bài thơ ở Qenya vào mùa thu năm 1931, đặt tên đơn giản là <i><b>Earendel</b></i> và sử dụng nó trong một bài giảng về ngôn ngữ như một ví dụ ban đầu về phát minh ngôn ngữ. Tolkien sau đó đã sửa lại và mở rộng bài thơ bằng tiếng Anh, đặt cho nó tựa đề mới là **Earendel at the Helm** và *Éarendel at the Helm*<sup id="cite_ref-collectedpoems_1-2" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>.<sup id="cite_ref-RG_2-1" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
+Tolkien ban đầu viết bài thơ vào Qenya vào mùa thu năm 1931, đặt tên đơn giản là <i><b>Earendel</b></i> và sử dụng nó trong một bài giảng về ngôn ngữ như một ví dụ ban đầu về phát minh ngôn ngữ. Tolkien sau đó đã sửa đổi và mở rộng bài thơ bằng tiếng Anh, đặt tên mới là **Earendel at the Helm** và *Éarendel at the Helm*<sup id="cite_ref-collectedpoems_1-2" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>.<sup id="cite_ref-RG_2-1" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
 
 Bài thơ in được đăng sau khi di cảo trên trang 216-7 tạp chí *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics_and_Other_Essays.md)* năm 1983.<sup id="cite_ref-RG_2-2" class="reference"><a href="#cite_note-RG-2">[2]</a></sup>
 

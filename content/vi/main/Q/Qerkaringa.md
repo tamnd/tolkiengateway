@@ -20,9 +20,9 @@ categories:
 
 ## Lịch sử {#History}
 
-Vào những ngày mà [Noldoli](../N/Noldoli.md) [chạy trốn](../F/Flight_of_the_Noldor.md) khỏi [Valinor](../V/Valinor.md), một cổ băng được gọi là [Helkaraksë](../H/Helkaraksë.md) trải dài từ vùng đất phía tây qua vùng biển ngăn cách họ với Great Lands. Nó gần như đã đến bờ biển phía đông, nhưng bị ngăn cách bởi Qerkaringa, một dòng nước nguy hiểm. Vịnh xung quanh eo đất và eo biển hẹp đầy băng trôi và dòng chảy nguy hiểm.
+Vào những ngày [Noldoli](../N/Noldoli.md) [chạy trốn](../F/Flight_of_the_Noldor.md) khỏi [Valinor](../V/Valinor.md), một cổ băng gọi là [Helkaraksë](../H/Helkaraksë.md) trải dài từ vùng đất phía tây qua vùng nước ngăn cách họ với Great Lands. Nó gần như đã đến bờ biển phía đông, nhưng bị ngăn cách bởi Qerkaringa, một dòng nước nguy hiểm. Vịnh xung quanh eo đất và eo biển hẹp đầy băng trôi và dòng chảy nguy hiểm.
 
-Sau khi đến bờ biển, Noldoli đã cố gắng vượt vịnh bằng thuyền nhưng không thành công. Người ta không thể vượt qua Helkaraksë vì Qerkaringa, nơi nước và băng tràn qua eo biển khiến nó không thể vượt qua được. Trong khi họ cắm trại trên bờ biển, cái lạnh ngày càng gia tăng và Qerkaringa bị kẹt băng, khiến dòng chảy ngừng hoạt động. Vượt qua lớp băng này, Noldoli đã vượt qua Qerkaringa đầy nguy hiểm để đến bờ biển phía đông, mặc dù nhiều người trong số họ đã bị mất tích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau khi vào bờ, Noldoli đã cố gắng vượt vịnh bằng thuyền nhưng không thành công. Người ta không thể vượt qua Helkaraksë vì Qerkaringa, nơi nước và băng tràn qua eo biển khiến nó không thể vượt qua được. Trong khi họ cắm trại trên bờ biển, cái lạnh ngày càng gia tăng và Qerkaringa bị kẹt băng, khiến dòng chảy ngừng hoạt động. Vượt qua lớp băng này Noldoli đã thực hiện chuyến vượt Qerkaringa nguy hiểm sang bờ biển phía đông, mặc dù nhiều chiếc trong số đó đã bị mất tích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -32,7 +32,7 @@ Phần tử đầu tiên trong tên [Qenya](Qenya.md) *Qerkaringa* có khả nă
 
 Trong bản thảo trước đó của văn bản mô tả khu vực này trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, *Qerkaringa* đề cập đến cổ đất, mặc dù có nêu tên này đôi khi cũng được áp dụng cho âm thanh của nước theo phần mở rộng. [Tolkien](../T/Tolkien.md) sau đó quyết định *Qerkaringa* là nước và gọi là cổ đất *Helkaraksë*. Ông ghi chú lại tên nào thuộc về tên nào ở lề.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong [Silmarillion](../S/Silmarillion.md) đã xuất bản, eo biển đầy băng nguy hiểm giữa [Trung địa](../M/Middle-earth.md) và [Araman](../A/Araman.md) là [Helcaraxë](../H/Helcaraxë.md). Nó đã bị [Fingolfin](../F/Fingolfin.md) vượt qua và [Noldor](../N/Noldor.md) bị [Fëanor](../F/Fëanor.md) bỏ lại.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [Silmarillion](../S/Silmarillion.md) đã xuất bản, eo biển đầy băng nguy hiểm giữa [Trung Địa](../M/Middle-earth.md) và [Araman](../A/Araman.md) là [Helcaraxë](../H/Helcaraxë.md). Nó đã bị [Fingolfin](../F/Fingolfin.md) vượt qua và của [Noldor](../N/Noldor.md) bị [Fëanor](../F/Fëanor.md) bỏ lại.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 

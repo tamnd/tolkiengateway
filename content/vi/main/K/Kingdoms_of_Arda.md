@@ -12,7 +12,7 @@ categories:
   - "Modifications"
 ---
 
-**Kingdoms of Arda** là một chuyển đổi tổng thể của Người chơi & Nhiều người chơi của *Mount &amp; Blade II Bannerlord*, đưa thế giới [Tolkien](../J/J.R.R._Tolkien.md) vào trò chơi. Điều này bao gồm: nhân vật, địa điểm, vũ khí, v.v. từ [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), [The Hobbit](../T/The_Hobbit.md), [The Silmarillion](../T/The_Silmarillion.md) và các tác phẩm khác của Tolkien và phương tiện truyền thông được tạo cho vũ trụ của ông. Hình ảnh chủ yếu được lấy cảm hứng từ phim chuyển thể của [Peter Jackson](../P/Peter_Jackson.md).
+**Kingdoms of Arda** là một chuyển đổi tổng thể của Người chơi & Nhiều người chơi *Mount &amp; Blade II Bannerlord*, đưa thế giới [Tolkien](../J/J.R.R._Tolkien.md) vào trò chơi. Điều này bao gồm: nhân vật, địa điểm, vũ khí, v.v. từ [The Lord of the Rings](../T/The_Lord_of_the_Rings.md), [The Hobbit](../T/The_Hobbit.md), [The Silmarillion](../T/The_Silmarillion.md) và các tác phẩm khác của Tolkien và phương tiện truyền thông được tạo cho vũ trụ của ông. Hình ảnh chủ yếu được lấy cảm hứng từ các bộ phim chuyển thể của [Peter Jackson](../P/Peter_Jackson.md).
 
 Vào tháng 12 năm 2020, bản mod đã giành được giải thưởng 'Sự lựa chọn của người chơi – Bản mod sắp ra mắt hay nhất 2020' trên Moddb.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

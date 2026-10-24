@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Théodred"
 ---
 
-Chuyển hướng tới [Théodred](Théodred.md).
+Chuyển hướng đến [Théodred](Théodred.md).

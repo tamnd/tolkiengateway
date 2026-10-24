@@ -44,9 +44,9 @@ infobox:
 
 <i><b>J.R.R. Tolkien: Nghệ thuật viết tay</b></i> là một catalog triển lãm đi kèm với triển lãm [2022](../_/2022.md) cùng tên.
 
-Triển lãm được tổ chức từ [19 tháng 8](../_/19_August.md) đến [23 tháng 12](../_/23_December.md) [2022](../_/2022.md), do Thư viện tưởng niệm Raynor của [Đại học Marquette](../M/Marquette_University.md) và Bảo tàng nghệ thuật Haggerty phối hợp tổ chức, do Nhà lưu trữ Tolkien [William M. Fliss](../W/William_M._Fliss.md) và Tiến sĩ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sarah_C._Schaefer&amp;action=edit&amp;redlink=1" title="Sarah C. Schaefer (page does not exist)">Sarah C. Schaefer</a>phụ trách.
+Triển lãm được tổ chức từ [19 tháng 8](../_/19_August.md) đến [23 tháng 12](../_/23_December.md) [2022](../_/2022.md), do Thư viện tưởng niệm Raynor của [Đại học Marquette](../M/Marquette_University.md) và Bảo tàng nghệ thuật Haggerty phối hợp tổ chức, do Tolkien Nhà lưu trữ [William M. Fliss](../W/William_M._Fliss.md) và Tiến sĩ <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sarah_C._Schaefer&amp;action=edit&amp;redlink=1" title="Sarah C. Schaefer (page does not exist)">Sarah C. Schaefer</a>phụ trách.
 
-Cuốn sách tái tạo danh sách đồ vật hoàn chỉnh bằng màu sắc, bao gồm 147 món đồ từ bộ sưu tập của Marquette và từ các kho lưu trữ khác, nhiều trong số đó chưa bao giờ được trưng bày hoặc xuất bản.<sup id="cite_ref-MaFB_1-0" class="reference"><a href="#cite_note-MaFB-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cuốn sách cũng được đề cử cho [Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md) cho cuốn sách hay nhất trong [2023](../_/2023.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cuốn sách tái tạo danh sách đồ vật hoàn chỉnh bằng màu sắc, bao gồm 147 món đồ từ bộ sưu tập của Marquette và từ các kho lưu trữ khác, nhiều trong số đó chưa bao giờ được triển lãm hoặc xuất bản.<sup id="cite_ref-MaFB_1-0" class="reference"><a href="#cite_note-MaFB-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó cũng được đề cử [Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md) cho cuốn sách hay nhất trong [2023](../_/2023.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <br>
 
@@ -55,12 +55,12 @@ Cuốn sách tái tạo danh sách đồ vật hoàn chỉnh bằng màu sắc, 
 - Lời nói đầu của Giám đốc
     - của Susan Longhenry
 - "Nghệ thuật viết tay" <small>(Không có trong ấn bản đầu tiên)</small>
-    - của [Simon Tolkien](../S/Simon_Tolkien.md)
+    - bởi [Simon Tolkien](../S/Simon_Tolkien.md)
 - Giới thiệu
     - của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sarah_C._Schaefer&amp;action=edit&amp;redlink=1" title="Sarah C. Schaefer (page does not exist)">Sarah C. Schaefer</a> và [William M. Fliss](../W/William_M._Fliss.md)
-- "Tolkien và truyền thống bản thảo: Sự đối chiếu lại"
+- "Tolkien và Truyền thống bản thảo: Sự đối chiếu lại"
     - bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sarah_C._Schaefer&amp;action=edit&amp;redlink=1" title="Sarah C. Schaefer (page does not exist)">Sarah C. Schaefer</a>
-- "Hành trình xuôi dòng sông lớn của vùng đất hoang dã: Lập bản đồ cho *The Lord of the Rings*"
+- "Hành trình xuôi dòng sông lớn Wilderland: Lập bản đồ cho *The Lord of the Rings*"
     - bởi [William M. Fliss](../W/William_M._Fliss.md)
 
 - Tấm
@@ -110,7 +110,7 @@ The exhibition is accompanied by a 196-page hardbound catalogue that reproduces 
 
 ## Xem thêm {#See_also}
 
-- [Triển lãm Tolkien](../T/Tolkien_exhibitions.md)
+- [Tolkien triển lãm](../T/Tolkien_exhibitions.md)
 
 ## Liên kết ngoài {#External_links}
 
@@ -119,7 +119,7 @@ The exhibition is accompanied by a 196-page hardbound catalogue that reproduces 
 
 ### Phỏng vấn các giám tuyển {#Interviews_with_the_curators}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=L0AUokw3tws&amp;ab_channel=TolkienCollector%27sGuide" rel="noreferrer noopener" target="_blank">Bill Fliss và Sarah Schaefer thảo luận về triển lãm Bản thảo Tolkien sắp diễn ra vào năm 2022</a> trên kênh YouTube của [Tolkien Collector's Guide](../T/Tolkien_Collector's_Guide.md)
+- <a class="external text" href="https://www.youtube.com/watch?v=L0AUokw3tws&amp;ab_channel=TolkienCollector%27sGuide" rel="noreferrer noopener" target="_blank">Bill Fliss và Sarah Schaefer thảo luận về Tolkien Triển lãm bản thảo sắp diễn ra vào năm 2022</a> trên kênh YouTube của [Tolkien Collector's Guide](../T/Tolkien_Collector's_Guide.md)
 - <a class="external text" href="http://podcast.athrabeth.com/2022/12/07/episode-53-interview-with-dr-sarah-schaefer-and-dr-william-fliss-co-curators-of-j-r-r-tolkien-the-art-of-the-manuscript/" rel="noreferrer noopener" target="_blank">Phỏng vấn Tiến sĩ Sarah Schaefer và Tiến sĩ William Fliss, đồng giám tuyển của J. R. R. Tolkien: Nghệ thuật viết tay</a> (tập 53 của podcast [Athrabeth](../A/Athrabeth.md)
 - <a class="external text" href="https://www.tolkcast.de/episode/129-interview-mit-sarah-schaefer-bill-fliss" rel="noreferrer noopener" target="_blank">129 Phỏng vấn Sarah Schaefer & Bill Fliss</a> (tập 129 của [TolkCast](../T/TolkCast.md))
 

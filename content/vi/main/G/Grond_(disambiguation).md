@@ -30,8 +30,8 @@ images:
 
 **Grond** có thể đề cập đến:
 
-- [Grond](<Grond_(Hammer_of_the_Underworld).md>), Hammer of the Underworld, cây chùy được sử dụng bởi [Morgoth](../M/Morgoth.md).
-- [Grond](<Grond_(battering_ram).md>), chiếc búa công phá vĩ đại của [War of the Ring](../W/War_of_the_Ring.md) đã từng phá hủy [Great Gate](Great_Gate_of_Minas_Tirith.md) của [Minas Tirith](../M/Minas_Tirith.md).
+- [Grond](<Grond_(Hammer_of_the_Underworld).md>), Búa của Địa ngục, cây chùy được sử dụng bởi [Morgoth](../M/Morgoth.md).
+- [Grond](<Grond_(battering_ram).md>), chiếc búa đập lớn của [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) dùng để phá vỡ [Đại Môn](Great_Gate_of_Minas_Tirith.md) của [Minas Tirith](../M/Minas_Tirith.md).
 
 <hr style="margin-top:15px;"/>
 

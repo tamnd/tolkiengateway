@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Lair%C3%AB"
 ---
 
-**Lairë** is the [Quenya](../Q/Quenya.md) name for the season of summer, known in [Sindarin](../S/Sindarin.md) as [Laer](Laer.md). Đây cũng là tên của mùa thứ hai trong [Lịch của Imladris](../R/Reckoning_of_Rivendell.md), 72 ngày ít nhiều rơi vào khoảng thời gian từ [ngày 1 tháng 6](../_/1_June.md) đến [ngày 9 tháng 8](../_/9_August.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Lairë** là tên [Quenya](../Q/Quenya.md) chỉ mùa hè, được biết đến trong [Sindarin](../S/Sindarin.md) với tên [Laer](Laer.md). Đây cũng là tên của mùa thứ hai trong [Lịch Imladris](../R/Reckoning_of_Rivendell.md), 72 ngày ít nhiều rơi vào khoảng thời gian từ [1 tháng 6](../_/1_June.md) đến [9 tháng 8](../_/9_August.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

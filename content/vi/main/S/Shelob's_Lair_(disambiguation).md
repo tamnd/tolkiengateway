@@ -14,9 +14,9 @@ images:
   - "Disambig.png"
 ---
 
-**Shelob's Lair** có thể tham khảo:
+**Hang ổ của Shelob** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - **[Hang ổ của Shelob](Shelob's_Lair.md)**, hay *Torech Ungol*, hang ổ của [Shelob](Shelob.md).
 
@@ -33,8 +33,8 @@ images:
 
 ## Khác {#Other}
 
-- [Shelob's Lair (bản thảo)](<Shelob's_Lair_(manuscript).md>), trang nháp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- "Shelob's Lair", bộ [Thẻ giải mã](../D/Decipher_Cards.md) thứ mười tám, được xuất bản vào [tháng 3](../M/March.md) [2007](../_/2007.md).
+- [Hang ổ của Shelob (bản thảo)](<Shelob's_Lair_(manuscript).md>), trang nháp của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- "Hang ổ của Shelob", bộ [Thẻ giải mã](../D/Decipher_Cards.md) thứ mười tám, được xuất bản [Tháng 3](../M/March.md) [2007](../_/2007.md).
 
 <hr style="margin-top:15px;"/>
 

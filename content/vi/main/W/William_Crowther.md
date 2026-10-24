@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Crowther, Willie"
 ---
 
-**William "Willie" Crowther** ([1936](../_/1936.md)) là tác giả của [Tolkien](../J/J.R.R._Tolkien.md) mạnh mẽ chịu ảnh hưởng của Text-Adventure <a class="extiw" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" title="wikipedia:Colossal Cave Adventure">Cuộc phiêu lưu trong hang động khổng lồ</a>, dựa trên đó [Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**William "Willie" Crowther** ([1936](../_/1936.md)) là tác giả của [Tolkien](../J/J.R.R._Tolkien.md) cuộc phiêu lưu văn bản có ảnh hưởng mạnh mẽ <a class="extiw" href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure" title="wikipedia:Colossal Cave Adventure">Cuộc phiêu lưu trong hang động khổng lồ</a>, dựa trên đó [Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

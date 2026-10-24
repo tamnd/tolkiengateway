@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Ehte"
 ---
 
-<i><b>Ehtë</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "giáo".<sup id="cite_ref-EK_1-0" class="reference"><a href="#cite_note-EK-1">[1]</a></sup>
+<i><b>Ehtë</b></i> là [Quenya](../Q/Quenya.md) cho "giáo".<sup id="cite_ref-EK_1-0" class="reference"><a href="#cite_note-EK-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

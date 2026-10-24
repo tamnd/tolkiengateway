@@ -20,7 +20,7 @@ images:
 
 Trong [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho [T.P. ("Tom") Dunning](../T/T.P._Dunning.md)**, học trò cũ của Tolkien.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Bloom_2-0" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup>
 
-- **Mô tả:** Bức thư viết tay, một trang, được chèn lỏng lẻo vào bản sao *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* của Dunning, có chữ ký của Tolkien.<sup id="cite_ref-Bloom_2-1" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup>
+- **Mô tả:** Lá thư viết tay, một trang, được chèn lỏng lẻo vào bản sao *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* của Dunning, có chữ ký của Tolkien.<sup id="cite_ref-Bloom_2-1" class="reference"><a href="#cite_note-Bloom-2">[2]</a></sup>
 - Bức thư và cuốn sách được bán với giá £3.500 (£4.340 bao gồm phí cấp dữ liệu) tại Bloomsbury vào ngày 30 tháng 5 năm 2013.
 
 ## Từ cuộc đấu giá {#From_the_auction}

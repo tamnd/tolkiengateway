@@ -14,14 +14,14 @@ images:
   - "Disambig.png"
 ---
 
-**Mirkwood** có thể đề cập đến:
+**Mirkwood** có thể tham khảo:
 
 ## Arda {#Arda}
 
 - **[Mirkwood](Mirkwood.md)**, khu rừng lớn ở [Rhovanion](../R/Rhovanion.md)
 
-- [Yêu tinh của Mirkwood](../E/Elves_of_Mirkwood.md), [Yêu tinh Silvan](../S/Silvan_Elves.md) của [Vương quốc rừng](../W/Woodland_Realm.md)
-- [Núi Mirkwood](Mountains_of_Mirkwood.md), dãy đồi phía bắc [Mirkwood](Mirkwood.md)
+- [Tiên tộc của Mirkwood](../E/Elves_of_Mirkwood.md), [Silvan Tiên tộc](../S/Silvan_Elves.md) của [Vương quốc Rừng](../W/Woodland_Realm.md)
+- [Dãy Núi thuộc Mirkwood](Mountains_of_Mirkwood.md), dãy đồi phía Bắc [Mirkwood](Mirkwood.md)
 
 ## Sách {#Books}
 

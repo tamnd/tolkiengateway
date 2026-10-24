@@ -41,14 +41,14 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Phần bổ sung này trình bày những vùng đất hoang dã tuyệt đẹp ở rìa Dãy núi Xanh, rào cản giữa thung lũng sông Lhûn và Vương quốc Lindon của Yêu tinh. Numeriador vẫn không bị đe dọa bởi thế lực bóng tối trong nhiều thiên niên kỷ. Tuy nhiên, Vua phù thủy của Angmar biết rõ khu vực này và địa hình rộng mở tiềm ẩn nhiều nguy hiểm hơn vẻ ngoài yên bình của nó.
+Phần bổ sung này trình bày những vùng đất hoang dã xinh đẹp ở rìa Dãy Núi Xanh, ranh giới giữa thung lũng sông Lhûn và Vương quốc Tiên Lindon. Numeriador vẫn không bị đe dọa bởi thế lực bóng tối trong nhiều thiên niên kỷ. Tuy nhiên, Vua Phù thủy của Angmar biết rõ khu vực và địa hình rộng mở tiềm ẩn nhiều nguy hiểm hơn vẻ ngoài yên bình của nó.
 
-Gặp gỡ những người sông dũng cảm, những người Dúnedain bị trục xuất, những Yêu tinh ẩn dật và những Người lùn khôn ngoan của Nan-i-Naugrim khi đi lang thang trong khung cảnh hoang sơ của Numeriador. Những thác nước ầm ầm, những đỉnh núi phủ tuyết và khu rừng sâu với bóng tối chứa đựng những con thú và quái vật bao quanh những ngôi làng và trang trại biệt lập, nơi chỉ những người dũng cảm và dũng cảm mới dám trú ngụ. Rời xa những tiện nghi của nền văn minh, du khách phải đối mặt với những tên cướp cướp bóc, lũ quỷ đói khát và gián điệp của Vua phù thủy trên khắp biên giới này.
+Gặp gỡ những người sông dũng cảm, Dúnedain bị trục xuất, Tiên tộc ẩn dật và Người Lùn sắc sảo của Nan-i-Naugrim khi dạo chơi trong khung cảnh hoang sơ của Numeriador. Những thác nước ầm ầm, những đỉnh núi phủ tuyết và khu rừng sâu với bóng tối chứa đựng những con thú và quái vật bao quanh những ngôi làng và trang trại biệt lập, nơi chỉ những người dũng cảm và dũng cảm mới dám trú ngụ. Rời xa những tiện nghi của nền văn minh, những người du hành phải đối mặt với những tên cướp cướp bóc, Troll đói khát và những điệp viên của Vua Phù thủy trên khắp biên giới này.
 
 ROGUES của Borderlands chứa:
 
 - Bản đồ hai trang đầy màu sắc: mô tả vùng Numeriador
 - Ba cuộc phiêu lưu thú vị: tìm kiếm nguồn vàng huyền thoại và bí ẩn đằng sau căn nhà gỗ bị ám ảnh trong "Truyền thuyết về hang băng"; nắm bắt những kẻ chơi khăm có những trò đùa gây chết người hơn là hài hước trong "No Sense of Humor"; và khám phá bí mật nham hiểm đằng sau xác chết hoạt hình bước đi trong "The Celeglin Barrows"
-- BA KỊCH BẢN BỔ SUNG: phác thảo ngắn gọn về cuộc đụng độ với bọn cướp, cuộc giải cứu một con Đại bàng lớn mới nở và cuộc đi xuống những đại sảnh đổ nát và ngập nước của Belegost
+- BA KỊCH BẢN BỔ SUNG: phác thảo ngắn gọn về cuộc đụng độ với bọn cướp, cuộc giải cứu một con Đại bàng lớn mới nở và cuộc đi xuống những căn phòng đổ nát và ngập nước của Belegost
 - BỐ CỤC CHI TIẾT: của tất cả các địa điểm phiêu lưu
-- THỐNG KÊ: dành cho tất cả thợ săn, người đánh bẫy và quái thú của Numeriador, tất cả NPC, quái vật và Thợ đóng tàu Círdan
+- THỐNG KÊ: dành cho tất cả thợ săn, người đánh bẫy và quái thú của Numeriador, tất cả NPC, quái vật và Círdan Thợ đóng tàu

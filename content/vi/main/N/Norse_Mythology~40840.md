@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Norse mythology"
 ---
 
-Chuyển hướng tới [Thần thoại Bắc Âu](Norse_mythology.md).
+Chuyển hướng đến [thần thoại Bắc Âu](Norse_mythology.md).

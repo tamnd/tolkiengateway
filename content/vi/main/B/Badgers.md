@@ -22,17 +22,17 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a><sup id="cite_ref-FRII4_1-0" class="reference"><a href="#cite_note-FRII4-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Lửng** nổi tiếng ở [Westlands](../W/Westlands.md) vì là những kẻ đào hố xuất sắc.<sup id="cite_ref-FRII4_1-1" class="reference"><a href="#cite_note-FRII4-1">[1]</a></sup> [Đàn ông](../M/Men.md) đã sử dụng bẫy để bắt những con vật này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Lửng** nổi tiếng ở [Westlands](../W/Westlands.md) vì là những kẻ đào hố xuất sắc.<sup id="cite_ref-FRII4_1-1" class="reference"><a href="#cite_note-FRII4-1">[1]</a></sup> [Con Người](../M/Men.md) đã sử dụng bẫy để bắt những con vật này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Một loại lửng bí ẩn có vẻ có tri giác, chỉ được kể trong truyền thuyết, được gọi là [dân lửng](Badger-folk.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Quả thực, [Tom Bombadil](../T/Tom_Bombadil.md) đã kể cho [Frodo Baggins](../F/Frodo_Baggins.md) và những người bạn đồng hành của ông ta vài câu chuyện ngớ ngẩn về cách sống kỳ lạ của những con lửng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Một loại lửng bí ẩn dường như có tri giác, chỉ được kể trong truyền thuyết, được gọi là [dân lửng](Badger-folk.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Quả thực, [Tom Bombadil](../T/Tom_Bombadil.md) đã kể cho [Frodo Baggins](../F/Frodo_Baggins.md) và những người bạn đồng hành của mình một số câu chuyện ngớ ngẩn về cách sống kỳ lạ của loài lửng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Badgers (which are given game statistics) are carnivorous animals of the fauna of Rhovanion. They are timid but can be dangerous if cornered.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd>Badgers (which are given game statistics) can be find in the Shire and throughout Eriador.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

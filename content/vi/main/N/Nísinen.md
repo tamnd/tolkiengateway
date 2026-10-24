@@ -31,7 +31,7 @@ langlinks:
     url: "https://kontu.wiki/N%C3%ADsinen"
 ---
 
-**Nísinen** là một hồ nước dài và mỏng hình thành dọc theo hạ lưu sông [Nunduinë](Nunduinë.md), phía trên nơi trú ẩn của [Eldalondë](../E/Eldalondë.md) trên bờ biển phía tây của [Númenor](Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dọc theo bờ hồ có đủ loại cây có mùi thơm nên hồ có tên - Nísinen xuất phát từ [Elvish](../E/Elvish.md) cho 'nước thơm'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Nísinen** là một hồ nước dài và mỏng hình thành dọc theo hạ lưu sông [Nunduinë](Nunduinë.md), phía trên thiên đường của [Eldalondë](../E/Eldalondë.md) trên bờ biển phía tây của [Númenor](Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dọc theo bờ hồ có đủ loại cây có mùi thơm nên hồ có tên - Nísinen xuất phát từ [Elvish](../E/Elvish.md) có nghĩa là 'thơm' nước'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

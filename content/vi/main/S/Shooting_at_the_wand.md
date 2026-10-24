@@ -12,7 +12,7 @@ categories:
   - "Activities"
 ---
 
-**Bắn súng bằng Đũa phép** là một trò chơi phổ biến ở [the Shire](../T/The_Shire.md) mà [Bilbo Baggins](../B/Bilbo_Baggins.md) đã chơi và ông khá thành thạo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trò chơi bao gồm việc sử dụng một thanh gỗ hẹp làm mục tiêu để bắn cung.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Bắn súng bằng Đũa phép** là một trò chơi phổ biến ở [máy Shire](../T/The_Shire.md) mà [Bilbo Baggins](../B/Bilbo_Baggins.md) đã chơi và cậu ấy khá thành thạo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trò chơi bao gồm việc sử dụng một thanh gỗ hẹp làm mục tiêu để bắn cung.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -28,13 +28,13 @@ images:
 
 **Harfalas** là nửa phía nam của vùng [Falas](../F/Falas.md), nằm ở phía đông nam [Eglamar](<../E/Eglamar_(Falas).md>) và phía tây bắc [Arvernien](../A/Arvernien.md).<sup id="cite_ref-Har_1-0" class="reference"><a href="#cite_note-Har-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vùng Harfalas được đánh dấu trên *[the Second 'Silmarillion' Map](../T/The_Second_'Silmarillion'_Map.md)*,<sup id="cite_ref-Har_1-1" class="reference"><a href="#cite_note-Har-1">[1]</a></sup> tạo thành cơ sở cho [bản đồ Beleriand](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md) trong *[Silmarillion](../S/Silmarillion.md)* được xuất bản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vùng Harfalas được đánh dấu trên *[the Second 'Silmarillion' Map](../T/The_Second_'Silmarillion'_Map.md)*,<sup id="cite_ref-Har_1-1" class="reference"><a href="#cite_note-Har-1">[1]</a></sup> làm cơ sở cho [bản đồ Beleriand](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md) trong *[Silmarillion](../S/Silmarillion.md)* được xuất bản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Tuy nhiên, ngoài việc được dán nhãn trên bản đồ nói trên, Harfalas không bao giờ được nhắc đến nữa, cũng như không xuất hiện trong bất kỳ câu chuyện, biên niên sử hay tiểu luận nào lấy bối cảnh ở [Thời đại thứ nhất](../F/First_Age.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tuy nhiên, ngoài việc được dán nhãn trên bản đồ nói trên, Harfalas không bao giờ được nhắc đến nữa, cũng như không xuất hiện trong bất kỳ câu chuyện, biên niên sử hay tiểu luận nào được đặt trong [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Harfalas* có trong [Sindarin](../S/Sindarin.md), có nghĩa là "Miền Nam [Falas](../F/Falas.md)". Nó là sự kết hợp của dạng tiền tố *[har-](Harn.md)* ("phía nam") + *[falas](../F/Falas.md#Etymology)* ("bờ").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tên *Harfalas* nằm trong [Sindarin](../S/Sindarin.md), nghĩa là "Miền Nam [Falas](../F/Falas.md)". Nó là sự kết hợp của dạng tiền tố *[har-](Harn.md)* ("phía nam") + *[falas](../F/Falas.md#Etymology)* ("bờ").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

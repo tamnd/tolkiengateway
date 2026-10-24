@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "A Tolkien Bestiary"
 ---
 
-Chuyển hướng tới [A Tolkien Bestiary](../A/A_Tolkien_Bestiary.md).
+Chuyển hướng đến [A Tolkien Bestiary](../A/A_Tolkien_Bestiary.md).

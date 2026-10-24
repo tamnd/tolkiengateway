@@ -31,7 +31,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Paul Harold Kocher</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/23_April.md" title="23 April">April 23</a>, <a href="../_/1907.md" title="1907">1907</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/17_July.md" title="17 July">July 17</a>, <a href="../_/1998.md" title="1998">1998</a></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">Ph.D. in English with a minor in Law at Stanford University</td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Professor, author</td></tr></tbody></table>
 
-**Paul H. Kocher** ([23 tháng 4](../_/23_April.md), [1907](../_/1907.md) - [17 tháng 7](../_/17_July.md), [1998](../_/1998.md)) là tác giả và giáo sư tiếng Anh. Ông viết rất nhiều về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cũng như về các khía cạnh của triết học và văn học Anh thời Elizabeth cũng như các sứ mệnh của dòng Phanxicô ở California thế kỷ 18 và 19.
+**Paul H. Kocher** ([23 tháng 4](../_/23_April.md), [1907](../_/1907.md) - [17 tháng 7](../_/17_July.md), [1998](../_/1998.md)) là tác giả và giáo sư tiếng Anh. Ông viết rất nhiều về các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cũng như về các khía cạnh của triết học và văn học Anh thời Elizabeth, cũng như các cuộc truyền giáo dòng Phanxicô ở California thế kỷ 18 và 19.
 
 Sinh ra là Paul Harold Kocher ở Trinidad, sau đó ông chuyển đến New York và trở thành công dân Hoa Kỳ. Ông giảng dạy tại nhiều trường đại học khác nhau trên khắp Hoa Kỳ, nghỉ hưu tại Đại học Stanford vào năm 1970. Giành được Học bổng của [Hiệp hội Thần thoại](../M/Mythopoeic_Society.md) về Giải thưởng Nghiên cứu Mơ hồ năm 1973 cho cuốn sách *[Master of Middle-earth](../M/Master_of_Middle-earth.md)* của ông.
 
@@ -57,14 +57,14 @@ Sinh ra là Paul Harold Kocher ở Trinidad, sau đó ông chuyển đến New Y
 - [1981](../_/1981.md): *[Mythlore 29](../M/Mythlore_29.md)*
     - “J.R.R. Tolkien và George MacDonald.”
 - [1984](../_/1984.md): *[Mythlore 37](../M/Mythlore_37.md)*
-    - “Druedain.”
+    - “Cái Drúedain.”
 - [1985](../_/1985.md) *[Mythlore 43](../M/Mythlore_43.md)*
     - “Ilúvatar và Ngọn lửa bí mật.”
 - [2000](../_/2000.md): *[J.R.R. Tolkien (Modern Critical Views)](<../J/J.R.R._Tolkien_(Modern_Critical_Views).md>)*
     - "Trật tự vũ trụ" (chương in lại từ *[Master of Middle-earth](../M/Master_of_Middle-earth.md)*)
 - [2004](../_/2004.md): *[Understanding The Lord of the Rings](../U/Understanding_The_Lord_of_the_Rings.md)*
-    - "Trung địa: Một thế giới tưởng tượng?" (chương in lại từ *[Master of Middle-earth](../M/Master_of_Middle-earth.md)*)
+    - "Trung Địa: Một thế giới tưởng tượng?" (chương in lại từ *[Master of Middle-earth](../M/Master_of_Middle-earth.md)*)
 
 ## Giải thưởng {#Awards}
 
-- [1973](../_/1973.md): **[Giải thưởng Học bổng Huyền thoại dành cho Nghiên cứu về Inklings](../M/Mythopoeic_Society.md)**, *[Master of Middle-earth](../M/Master_of_Middle-earth.md)*
+- [1973](../_/1973.md): **[Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings](../M/Mythopoeic_Society.md)**, *[Master of Middle-earth](../M/Master_of_Middle-earth.md)*

@@ -25,28 +25,28 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/R/Romen.gif.md"><img src="https://tolkiengateway.net/w/images/3/34/Romen.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Rómen* cũng là tên bằng tiếng Quenya của chữ cái thứ 25 trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_2-1" class="reference"><a href="#cite_note-Names-2">[2]</a></sup> Trong tất cả các chế độ, chữ cái này đại diện cho **R** rung "đầy đủ", không giống như *[Óre](../_/Óre.md)* được sử dụng cho **R** "yếu" chưa được kiểm tra.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> *Rómen* là một trong những chữ được biết đến và sử dụng rộng rãi nhất trong tất cả các Tengwar vì nó chỉ "phía đông" ngay cả trong các ngôn ngữ sử dụng thuật ngữ rất khác.<sup id="cite_ref-Names_2-2" class="reference"><a href="#cite_note-Names-2">[2]</a></sup> Tên tiếng Tây phương của chữ cái này là <i><b>Aro</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Rómen* cũng là tên trong Quenya của chữ cái thứ 25 của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_2-1" class="reference"><a href="#cite_note-Names-2">[2]</a></sup> Trong tất cả các chế độ, chữ cái này biểu thị **R** "đầy đủ", không giống như *[Óre](../_/Óre.md)* được sử dụng cho **R** "yếu" chưa được kiểm tra.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> *Rómen* là một trong những chữ được biết đến và sử dụng rộng rãi nhất trong tất cả các Tengwar vì nó biểu thị "phía đông" ngay cả trong các ngôn ngữ sử dụng thuật ngữ rất khác.<sup id="cite_ref-Names_2-2" class="reference"><a href="#cite_note-Names-2">[2]</a></sup> Tên Westron của chữ cái này là <i><b>Aro</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <br>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [RO](RO.md)+[MEN](../M/MEN~35108.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [RO](RO.md)+[MEN](../M/MEN~35108.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Ở các vùng đất phía Tây của [Trung địa](../M/Middle-earth.md) bốn hướng chính là *[Númen](../N/Númen.md), [Hyarmen](../H/Hyarmen.md), Rómen,* và *[Formen](../F/Formen.md)*, và chúng được đặt tên theo thứ tự này, bắt đầu bằng (và hướng về phía tây). *Hyarmen* nghĩa là vùng bên trái và *Formen* nghĩa là vùng bên phải.<sup id="cite_ref-Names2_6-0" class="reference"><a href="#cite_note-Names2-6">[6]</a></sup>
+Ở vùng đất Phương Tây của [Trung Địa](../M/Middle-earth.md), bốn hướng chính là *[Númen](../N/Númen.md), [Hyarmen](../H/Hyarmen.md), Rómen,* và *[Formen](../F/Formen.md)*, và chúng được đặt tên theo thứ tự này, bắt đầu bằng (và quay mặt về phía tây). *Hyarmen* nghĩa là vùng bên trái và *Formen* nghĩa là vùng bên phải.<sup id="cite_ref-Names2_6-0" class="reference"><a href="#cite_note-Names2-6">[6]</a></sup>
 
 ## Ví dụ {#Examples}
 
-- <i><a href="Rómendacil_I.md" title="Rómendacil I"><b>Rómen</b>dacil</a></i> = "Người chiến thắng phía đông"
+- <i><a href="Rómendacil_I.md" title="Rómendacil I"><b>Rómen</b>dacil</a></i> = "phương Đông-người chiến thắng"
 - <i><a href="Rómenna.md" title="Rómenna"><b>Róme</b>nna</a></i> = "Hướng Đông"
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md): *[rhûn](Rhûn.md)*<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
+- [Sindarin](../S/Sindarin.md): *[rhûn](Rhûn.md)*<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

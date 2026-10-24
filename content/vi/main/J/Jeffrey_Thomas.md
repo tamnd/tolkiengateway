@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Jeffrey Thomas</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/1945.md" title="1945">1945</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../T/Thrór.md" title="Thrór">Thrór</a> in:<br/><i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0859005/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Jeffrey Thomas** là một diễn viên và nhà văn người New Zealand gốc Anh. Anh đóng vai [Thrór](../T/Thrór.md) trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Jeffrey Thomas** là một diễn viên và nhà văn New Zealand gốc Anh. Anh đóng vai [Thrór](../T/Thrór.md) trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

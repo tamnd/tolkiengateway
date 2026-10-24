@@ -13,7 +13,7 @@ categories:
   - "Elven realms"
 ---
 
-**Elvenesse** là một thuật ngữ có ý nghĩa không được xác định rõ ràng, nhưng dường như nó ám chỉ tất cả các vùng đất của [Yêu tinh](Elves.md), cả phía tây và phía đông của [Biển Lớn](../B/Belegaer.md).
+**Elvenesse** là một thuật ngữ có ý nghĩa không được xác định rõ ràng, nhưng dường như nó ám chỉ tất cả các vùng đất của [Tiên tộc](Elves.md), cả phía tây và phía đông của [Đại Hải](../B/Belegaer.md).
 
 ## Từ nguyên {#Etymology}
 

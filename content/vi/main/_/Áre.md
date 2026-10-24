@@ -24,17 +24,17 @@ images:
   - "Essë.gif"
 ---
 
-<i><b>áre</b></i> (thân *ári-*<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>) có nghĩa là "ngày, ánh sáng mặt trời,<sup id="cite_ref-Names_2-0" class="reference"><a href="#cite_note-Names-2">[2]</a></sup> sự ấm áp (đặc biệt là của mặt trời)"<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> trong [Quenya](../Q/Quenya.md).
+<i><b>áre</b></i> (thân *ári-*<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>) có nghĩa là "ngày, ánh sáng mặt trời,<sup id="cite_ref-Names_2-0" class="reference"><a href="#cite_note-Names-2">[2]</a></sup> hơi ấm (đặc biệt là của mặt trời)"<sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> trong [Quenya](../Q/Quenya.md).
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/E/Essë.gif.md"><img src="https://tolkiengateway.net/w/images/2/20/Ess%C3%AB.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Áre* cũng là tên bằng tiếng Quenya của chữ cái thứ 31 trong bảng chữ cái [Tengwar](../T/Tengwar.md). Ở Quenya, chữ cái này ban đầu được đặt tên là *Áze* và được thể hiện bằng **Z** trong chữ viết Quenya, nhưng theo thời gian, âm vị của "z" và "r" được hợp nhất, chữ cái được đổi tên thành *Áre* và nó trở nên không cần thiết. Bức thư này sau đó được đổi tên thành *Essë* và đại diện cho **SS**, nhưng chỉ bằng chữ viết Quenya.<sup id="cite_ref-Names_2-1" class="reference"><a href="#cite_note-Names-2">[2]</a></sup>
+*Áre* cũng là tên trong Quenya chữ cái thứ 31 của bảng chữ cái [Tengwar](../T/Tengwar.md). Trong Quenya chữ cái này ban đầu được đặt tên là *Áze* và được thể hiện là **Z** bằng chữ viết Quenya, nhưng theo thời gian, các âm vị của "z" và "r" đã hợp nhất, chữ cái này được đổi tên thành *Áre* và nó trở nên không cần thiết. Bức thư này sau đó được đổi tên thành *Essë* và đại diện cho **SS**, nhưng chỉ bằng văn bản Quenya.<sup id="cite_ref-Names_2-1" class="reference"><a href="#cite_note-Names-2">[2]</a></sup>
 
 <br>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a href="../A/AR~30509.md" title="AR">AR<sup>1</sup></a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a href="../A/AR~30509.md" title="AR">AR<sup>1</sup></a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các từ liên quan {#Related_words}
 
@@ -49,13 +49,13 @@ Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.m
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[as](../A/As.md)*
+- [Sindarin](../S/Sindarin.md) *[as](../A/As.md)*
 
 ## Phiên bản khác {#Other_versions}
 
-Như đã lưu ý, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đưa ra gốc từ nguyên của từ "ngày" là AR<sup>1</sup>, có nghĩa là những từ đó luôn có chữ cái gốc *r* từ [Quendian nguyên thủy](../P/Primitive_Quendian.md). Tuy nhiên, trong [Phụ lục E](../A/Appendix_E.md) ông cũng đưa ra dạng cổ xưa của *Áre* là *Áze*, không thể dung hòa với từ nguyên cũ hơn vì không có ý nghĩa gì khi Nguyên thủy *r* trở thành *z* cổ xưa và sau đó lại tiến hóa thành Quenya *r* một lần nữa.
+Như đã lưu ý, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã đưa ra gốc từ nguyên của từ "ngày" là AR<sup>1</sup>, có nghĩa là những từ đó luôn có chữ cái gốc *r* từ [Primitive Quendian](../P/Primitive_Quendian.md). Tuy nhiên, trong [Phụ lục E](../A/Appendix_E.md) ông cũng đưa ra dạng cổ xưa của *Áre* là *Áze*, không thể dung hòa với từ nguyên cũ hơn vì không có ý nghĩa gì khi Nguyên thủy *r* trở thành *z* cổ xưa và sau đó lại tiến hóa thành Quenya *r* một lần nữa.
 
-Theo sự hiểu biết của chúng tôi về sự tiến hóa của tiếng Quenya, âm thanh *z* phát triển từ Nguyên thủy *d* hoặc Nguyên thủy *s*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> như trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=SRIS&amp;action=edit&amp;redlink=1" title="SRIS (page does not exist)">SRIS</a> > <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hriz&amp;action=edit&amp;redlink=1" title="Hriz (page does not exist)">hriz</a></i> "tuyết". Điều này, kết hợp với phần tử [Sindarin](../S/Sindarin.md) *[as](../A/As.md)* của *[Asfaloth](../A/Asfaloth.md)* (có nghĩa là "bọt có ánh nắng")<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> cho thấy Tolkien đã thay đổi đạo hàm, bằng cách thay đổi AR gốc thành AS về mặt lý thuyết.
+Theo hiểu biết của chúng tôi về sự phát triển của Quenya, âm *z* phát triển từ Nguyên thủy *d* hoặc Nguyên thủy *s*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> như trong <a class="new" href="https://tolkiengateway.net/w/index.php?title=SRIS&amp;action=edit&amp;redlink=1" title="SRIS (page does not exist)">SRIS</a> > <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hriz&amp;action=edit&amp;redlink=1" title="Hriz (page does not exist)">hriz</a></i> "tuyết". Điều này, kết hợp với phần tử [Sindarin](../S/Sindarin.md) *[as](../A/As.md)* của *[Asfaloth](../A/Asfaloth.md)* (có nghĩa là "bọt có ánh nắng")<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup> cho thấy Tolkien đã thay đổi đạo hàm, bằng cách thay đổi AR gốc thành AS về mặt lý thuyết.
 
 <span></span>
 

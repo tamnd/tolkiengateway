@@ -26,9 +26,9 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo/geographie/eaux/beleriand/ginglith"
 ---
 
-Sông **Ginglith** là sông của [Beleriand](../B/Beleriand.md) và là phụ lưu của [Narog](../N/Narog.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sông **Ginglith** là sông [Beleriand](../B/Beleriand.md) và là phụ lưu của [Narog](../N/Narog.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ginglith có giếng ở [Rừng Núath](../W/Woods_of_Núath.md), dưới gần [Ered Wethrin](../E/Ered_Wethrin.md) ở phía bắc [Tây Beleriand](../W/West_Beleriand.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau khi đi ngang qua vùng đất Tumhalad, nó gặp sông Narog cách [Nargothrond](../N/Nargothrond.md) khoảng 50 dặm về phía bắc.
+Ginglith có giếng ở [Rừng Núath](../W/Woods_of_Núath.md), dưới gần [Ered Wethrin](../E/Ered_Wethrin.md) ở phía bắc [Tây Beleriand](../W/West_Beleriand.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau khi đi qua vùng đất Tumhalad nó gặp Narog cách [Nargothrond](../N/Nargothrond.md) khoảng 50 dặm về phía bắc.
 
 <span></span>
 

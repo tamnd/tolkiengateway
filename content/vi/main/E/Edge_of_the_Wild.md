@@ -22,7 +22,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Edge of the Wild** là ranh giới quốc gia giữa hầu hết [Eriador](Eriador.md), nơi đã hoặc từng là khu định cư và [vùng cao nguy hiểm](Eastern_Eriador.md) dẫn đến [Dãy núi sương mù](../M/Misty_Mountains.md) và [Vùng đất hoang dã](../W/Wilderland.md) xa hơn. Về mặt khái niệm, nó là một tuyến bắc-nam chạy ngay về phía tây của [Cạnh cạn Bruinen](../F/Ford_of_Bruinen.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Khi một tuyến đã đi qua hoặc về phía đông của Edge of the Wild, ngay cả những kế hoạch tốt nhất cũng có thể dễ dàng đi chệch hướng, vì [Gandalf](../G/Gandalf.md) đã biết rõ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Bìa hoang dã** là ranh giới quốc gia giữa hầu hết [Eriador](Eriador.md), vốn đã hoặc từng là khu vực định cư và [vùng cao nguy hiểm](Eastern_Eriador.md) dẫn đến [Dãy Núi Sương Mù](../M/Misty_Mountains.md) và [Wilderland](../W/Wilderland.md) xa hơn. Về mặt khái niệm, nó là đường bắc-nam chạy ngay về phía tây của [Ford of Bruinen](../F/Ford_of_Bruinen.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Khi một người đã đi qua hoặc về phía đông của Edge of the Wild, ngay cả những kế hoạch tốt nhất cũng có thể dễ dàng đi chệch hướng, vì [Gandalf](../G/Gandalf.md) đã biết rõ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

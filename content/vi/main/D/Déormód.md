@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amrod and Amras"
 ---
 
-Chuyển hướng tới [Amrod và Amras](../A/Amrod_and_Amras.md).
+Chuyển hướng đến [Amrod và Amras](../A/Amrod_and_Amras.md).

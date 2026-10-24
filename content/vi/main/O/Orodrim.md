@@ -14,7 +14,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
 <i><b>orodorim</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "chuỗi núi". Nó chỉ được chứng thực bằng tên ghép <i><a href="../T/Thangorodrim.md" title="Thangorodrim">Thang<b>orodrim</b></a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -33,11 +33,11 @@ Từ *orodrim* ("dãy núi") được liệt kê bởi [David Salo](../D/David_S
 
 ## Noldorin {#Noldorin}
 
-<i><b>orodrim</b></i> là từ [Noldorin](../N/Noldorin.md) để chỉ "dãy núi".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
+<i><b>orodrim</b></i> là [Noldorin](../N/Noldorin.md) từ để chỉ "dãy núi".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 
-Trong *[Etymologies](../T/The_Etymologies.md)*, Noldorin *orodrim* có nguồn gốc từ [gốc](../S/Sundocarme.md) [ÓROT](OR~34968.md#Other_versions) ("độ cao, ngọn núi").<sup id="cite_ref-LR_4-1" class="reference"><a href="#cite_note-LR-4">[4]</a></sup> <span></span>
+Trong *[Etymologies](../T/The_Etymologies.md)*, Noldorin *orodrim* xuất phát từ [gốc](../S/Sundocarme.md) [ÓROT](OR~34968.md#Other_versions) ("độ cao, núi").<sup id="cite_ref-LR_4-1" class="reference"><a href="#cite_note-LR-4">[4]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

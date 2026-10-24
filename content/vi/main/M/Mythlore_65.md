@@ -41,7 +41,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_65.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/8e/Mythlore_65.jpg/320px-Mythlore_65.jpg" decoding="async" loading="lazy" width="320" height="419" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/8/8e/Mythlore_65.jpg 1.5x" data-file-width="343" data-file-height="449"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 65</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1991.md" title="1991">1991</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_64.md" title="Mythlore 64">Mythlore 64</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_66.md" title="Mythlore 66">Mythlore 66</a></td></tr></tbody></table>
 
-<b><i>Mythlore</i> 65</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol17/iss3/" rel="noreferrer noopener" target="_blank">Tập 17, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md) và có hình minh họa trang bìa của [Patrick Wynne](../P/Patrick_Wynne.md). Số này đăng lại một bài viết của [Christopher Gilson](../C/Christopher_Gilson.md) và Patrick Wynne từ [*Vinyar Tengwar* 14](../V/Vinyar_Tengwar_14.md): 'The Elves at Koivienéni: A New Quenya Sentence'. Điều này bao gồm một câu [Quenya](../Q/Quenya.md) chưa được xuất bản trước đây được tìm thấy trong một bản thảo tại [Đại học Marquette](Marquette_University.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<b><i>Mythlore</i> 65</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol17/iss3/" rel="noreferrer noopener" target="_blank">Tập 17, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội thần thoại](Mythopoeic_Society.md) xuất bản và có hình minh họa bìa của [Patrick Wynne](../P/Patrick_Wynne.md). Số này đăng lại một bài viết của [Christopher Gilson](../C/Christopher_Gilson.md) và Patrick Wynne từ [*Vinyar Tengwar* 14](../V/Vinyar_Tengwar_14.md): 'The Tiên tộc at Koivienéni: Một Quenya Sentence Mới'. Điều này bao gồm một câu [Quenya](../Q/Quenya.md) chưa được xuất bản trước đây được tìm thấy trong một bản thảo tại [Đại học Marquette](Marquette_University.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
@@ -50,7 +50,7 @@ infobox:
 - Hostetter, Carl F. “Over Middle-earth Sent Unto Men: On the Philological Origins of Tolkien's Eärendel Myth.”
 - GoodKnight, Glen H., Joe R. Christopher, Alexei Kondratiev, and Diana L. Paxson. “The Inklings in America.”
 - Thorson, Stephen. “Lewis and Barfield on Imagination: Part II.”
-- Gilson, Christopher và Patrick Wynne. “Những người yêu tinh ở Koivienéni: Một câu Quenya mới.”
+- Gilson, Christopher và Patrick Wynne. “ Tiên tộc ở Koivienéni: Một câu Quenya mới.”
 - Louis, M. K. “Arthurian Wantons: Language, Lust, and Time in Victorian Poetry and Drama.”
 - Hyde, Paul Nolan. “A Comprehensive Index of Proper Names and Phrases in *The Hobbit*.”
 - Le Guin, Ursula K., Todd Barton, Margaret Chodos-Irvine và George Hersh. “Việc tạo ra *Always Coming Home*.”
@@ -65,7 +65,7 @@ infobox:
 #### Đánh giá {#Reviews}
 
 - *Outline of Romantic Theology.* Charles Williams. Được đánh giá bởi Nancy-Lou Patterson.
-- *The Saga of Volsungs: Sử thi Bắc Âu về Sigurd the Dragon Slayer.* Phần giới thiệu và bản dịch của Jesse L. Byock. Được đánh giá bởi Nancy-Lou Patterson.
+- *The Saga of Volsungs: The Bắc Âu Sử thi về Sigurd the Rồng Slayer.* Phần giới thiệu và bản dịch của Jesse L. Byock. Được đánh giá bởi Nancy-Lou Patterson.
 - *Trẻ em và sách của chúng: Kỷ niệm tác phẩm của Iona và Peter Opie.* Ed. Gillian Avery và Julia Briggs. Được đánh giá bởi Pat Reynold.
 - *The C.S. Lewis Handbook.* Colin Duriez. Được đánh giá bởi Glen GoodKnight.
 - *Let There Be Light. Ill.* Pauline Baynes. Được đánh giá bởi Glen GoodKnight.

@@ -33,16 +33,16 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập, Sự kiện thiên thể, Tin tức và Ghi chú
-- Elbereth và Taniquetil của Tiến sĩ Rhona Beare, (sửa lại văn bản đã xuất bản của Tolkien và nguồn gốc có thể có của khái niệm này)
-- Kẻ hề của Nữ hoàng Beruthiel, được dịch bởi Basil Firsov, (một bài thơ của người Quenya)
-- Sự phát triển của 'Lời than thở của Galadriel' của David Salo, (phân tích ngôn ngữ)
+- Elbereth và Taniquetil của Tiến sĩ Rhona Beare, (chỉnh sửa văn bản đã xuất bản của Tolkien và nguồn gốc có thể có của khái niệm này)
+- Kẻ hề của Nữ hoàng Beruthiel, được dịch bởi Basil Firsov, (một bài thơ Quenya)
+- Phát triển 'Galadriel's Lament' của David Salo, (phân tích ngôn ngữ)
 - Danh sách các phiên bản khảo sát Namaria của Lisa Star
-- Lời tiên tri thứ hai về Mandos của Helge K. Fauskanger, (bản dịch sang tiếng Quenya với tengwar và phần phân tích)
+- The Lời Tiên tri Thứ hai của Mandos của Helge K. Fauskanger, (bản dịch sang Quenya với tengwar và một bản phân tích)
 - Pháp sư của Al McFarland, (tác phẩm nghệ thuật)
-- Báo cáo xuất bản MERP
-- Bức tranh Tolkien của một họa sĩ vô danh
-- Bài tập về nhà ở trang cơ bản, tạo thành số nhiều trong tiếng Sindarin
-- Thể lệ cuộc thi thơ cho Giải thưởng Thơ bằng tiếng Tiên
-- Tempest in a Thimble của Lisa Star, cập nhật về các bản thảo vẫn chưa được xuất bản liên quan đến ngôn ngữ và bảng chữ cái của Tolkien
+- Báo cáo công bố MERP
+- Hình ảnh Tolkien của một nghệ sĩ vô danh
+- Bài tập về nhà cơ bản, tạo thành số nhiều trong Sindarin
+- Thể lệ cuộc thi Thơ cho Giải thưởng Thơ Ngôn ngữ Elvish
+- Tempest in a Thimble của Lisa Star, cập nhật về các bản thảo chưa xuất bản liên quan đến ngôn ngữ và bảng chữ cái của Tolkien
 
 <center><a href="Tyalië_Tyelelliéva_11.md" title="Tyalië Tyelelliéva 11">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_13.md" title="Tyalië Tyelelliéva 13">Next Issue</a></center>

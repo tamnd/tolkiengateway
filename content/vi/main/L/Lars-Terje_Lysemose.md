@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Lysemose, Lars-Terje"
 ---
 
-**Lars-Terje Lysemose** (sinh ra [1974](../_/1974.md)) là một nhà báo, biên tập viên và nhà giáo dục người Đan Mạch. Là thành viên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) vào đầu những năm 1990, ông đã thành lập tổ chức mà ngày nay được gọi là [Imladris, Danmarks Tolkienforening](../I/Imladris,_Danmarks_Tolkienforening.md) (sau đó là Danmarks Tolkienforening) cùng với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Inge_S%C3%B8b%C3%A6k&amp;action=edit&amp;redlink=1" title="Inge Søbæk (page does not exist)">Inge Søbæk</a> vào năm 1993.
+**Lars-Terje Lysemose** (sinh [1974](../_/1974.md)) là một nhà báo, biên tập viên và nhà giáo dục người Đan Mạch. Là thành viên của [Hội Tolkien](../T/The_Tolkien_Society.md) vào đầu những năm 1990, ông đã thành lập tổ chức mà ngày nay được gọi là [Imladris, Danmarks Tolkienforening](../I/Imladris,_Danmarks_Tolkienforening.md) (sau đó là Danmarks Tolkienforening) cùng với <a class="new" href="https://tolkiengateway.net/w/index.php?title=Inge_S%C3%B8b%C3%A6k&amp;action=edit&amp;redlink=1" title="Inge Søbæk (page does not exist)">Inge Søbæk</a> vào năm 1993.
 
 Ông cũng trở thành biên tập viên cho tờ *[Athelas](<../A/Athelas_(journal).md>)*, tạp chí của Hội. Vì [Các phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) không được đưa vào ấn bản tiếng Đan Mạch của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nên Lysemose đã xuất bản bản dịch xuyên suốt một số số của *Athelas*.
 

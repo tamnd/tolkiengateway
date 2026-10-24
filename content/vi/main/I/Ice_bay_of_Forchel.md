@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Icebay of Forochel"
 ---
 
-Chuyển hướng tới [Vịnh băng của Forochel](Icebay_of_Forochel.md).
+Chuyển hướng đến [Vịnh Băng Forochel](Icebay_of_Forochel.md).

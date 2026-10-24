@@ -31,12 +31,12 @@ sort_keys:
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*, mục nhập
     - "Ba Lan: Tiếp đón Tolkien"
 - [2006](../_/2006.md): *[Aiglos](<../A/Aiglos_(journal).md>)* #6
-    - "Đến giải cứu Beowulf"
+    - "Để giải cứu Beowulf"
 - [2007](../_/2007.md): *[Aiglos](<../A/Aiglos_(journal).md>)* #7
     - "Quả thực là ngựa con, người Celt và phân tâm học, hoặc những cõi nguy hiểm" (đánh giá về *[Perilous Realms: Celtic and Norse in Tolkien's Middle-earth](../P/Perilous_Realms%253A_Celtic_and_Norse_in_Tolkien's_Middle-earth.md)* của [Marjorie Burns](Marjorie_Burns.md))
 - [2007](../_/2007.md): *[Aiglos](<../A/Aiglos_(journal).md>)* #8
-    - "Những điệp khúc trong Rivendell và Dark Mattins – Hoặc Tolkien, Yêu tinh và Phụng vụ La Mã "
-    - "*J.R.Bách khoa toàn thư R Tolkien. Học giả và đánh giá phê bình* do Michael biên soạn D.C. Drout" (đánh giá)
+    - "Các điệp ca trong Rivendell và Dark Mattins – Hoặc Tolkien, Tiên tộc, Và Phụng vụ Rôma "
+    - "*J.R.R Tolkien Encyclopedia. Scholarschip và Đánh giá quan trọng* biên tập bởi Michael D.C. Drout" (đánh giá)
 
 ## Liên kết ngoài {#External_links}
 

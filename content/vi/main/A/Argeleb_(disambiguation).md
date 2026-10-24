@@ -24,10 +24,10 @@ images:
   - "Disambig.png"
 ---
 
-**Argeleb** là [Sindarin](../S/Sindarin.md) có nghĩa là "Silver King" (từ *[ar](Ar.md)*, "hoàng gia" và *[celeb](../C/Celeb.md)*, "bạc") và có thể tham khảo:
+**Argeleb** là [Sindarin](../S/Sindarin.md) cho "Bạc Vua" (từ *[ar](Ar.md)*, "hoàng gia" và *[celeb](../C/Celeb.md)*, "bạc") và có thể tham khảo:
 
 - [Argeleb I](Argeleb_I.md) ([T.A.](../T/Third_Age.md) [1226](../T/Third_Age_1226.md) - [1356](../T/Third_Age_1356.md)), [Vua](../K/Kings_of_Arthedain.md) thứ bảy của [Arthedain](Arthedain.md).
-- [Argeleb II](Argeleb_II.md) ([T.A.](../T/Third_Age.md) [1473](../T/Third_Age_1473.md) - [1670](../T/Third_Age_1670.md)), [Vua](../K/Kings_of_Arthedain.md) thứ mười của [Arthedain](Arthedain.md).
+- [Argeleb II](Argeleb_II.md) ([T.A.](../T/Third_Age.md) [1473](../T/Third_Age_1473.md) - [1670](../T/Third_Age_1670.md)), thứ mười [Vua](../K/Kings_of_Arthedain.md) của [Arthedain](Arthedain.md).
 
 <hr style="margin-top:15px;"/>
 

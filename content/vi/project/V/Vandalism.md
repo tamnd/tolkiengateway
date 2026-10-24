@@ -14,7 +14,7 @@ categories:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcuts:<br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:VD&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:VD (page does not exist)">TG:VD</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:VAND&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:VAND (page does not exist)">TG:VAND</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien_Gateway:VANDAL&amp;action=edit&amp;redlink=1" title="Tolkien Gateway:VANDAL (page does not exist)">TG:VANDAL</a></small></th></tr></tbody></table>
 
-Trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md), **sự phá hoại** được định nghĩa là một nỗ lực *deliberate* nhằm phá hoại wiki này, bằng cách hạ thấp chất lượng nội dung của nó hoặc làm hỏng công việc của nó. Phá hoại bị cấm.
+Vào [Tolkien Gateway](../../main/T/Tolkien_Gateway.md), **sự phá hoại** được định nghĩa là một nỗ lực *deliberate* nhằm phá hoại wiki này, bằng cách hạ thấp chất lượng nội dung của nó hoặc làm hỏng công việc của nó. Phá hoại bị cấm.
 
 Nếu bạn gặp một ví dụ về hành vi phá hoại, bạn nên liên hệ ngay với [quản trị viên](../A/Administrators.md), người sẽ có thể nhanh chóng giải quyết vấn đề đó.
 
@@ -50,5 +50,5 @@ Bạn có thể đối phó với hành vi phá hoại bằng những cách sau:
 
 ## Xem thêm {#See_also}
 
-- [Cổng Tolkien:Chính sách xóa](../D/Deletion_policy.md)
-- [Cổng Tolkien:Chính sách chặn](../B/Blocking_policy.md)
+- [Tolkien Gateway:Chính sách xóa](../D/Deletion_policy.md)
+- [Tolkien Gateway:Chính sách chặn](../B/Blocking_policy.md)

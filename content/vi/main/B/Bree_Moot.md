@@ -12,19 +12,19 @@ categories:
   - "Conventions"
 ---
 
-**Bree Moots** là hội nghị được tổ chức bởi [Nhóm lợi ích đặc biệt Mensa Tolkien của Mỹ](../A/American_Mensa_Tolkien_Special_Interest_Group.md).
+**Bree Moots** là các hội nghị được tổ chức bởi [American Mensa Tolkien Nhóm lợi ích đặc biệt](../A/American_Mensa_Tolkien_Special_Interest_Group.md).
 
-## Cuộc tranh luận Bree trước đây {#Past_Bree_Moots}
+## Các cuộc tranh luận Bree trước đây {#Past_Bree_Moots}
 
-1. 1994: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Moot_1&amp;action=edit&amp;redlink=1" title="Bree Moot 1 (page does not exist)">Bree Moot 1</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-2. 1995: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Moot_2&amp;action=edit&amp;redlink=1" title="Bree Moot 2 (page does not exist)">Bree Moot 2</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-3. 1997: [Bree Moot 3](Bree_Moot_3.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-4. 1999: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Moot_4&amp;action=edit&amp;redlink=1" title="Bree Moot 4 (page does not exist)">Bree Moot 4</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
-5. 2001: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Moot_5&amp;action=edit&amp;redlink=1" title="Bree Moot 5 (page does not exist)">Bree Moot 5</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+1. 1994: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Moot_1&amp;action=edit&amp;redlink=1" title="Bree Moot 1 (page does not exist)">Bree Cuộc tranh luận 1</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+2. 1995: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Moot_2&amp;action=edit&amp;redlink=1" title="Bree Moot 2 (page does not exist)">Bree Cuộc tranh luận 2</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+3. 1997: [Bree Cuộc tranh luận 3](Bree_Moot_3.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+4. 1999: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Moot_4&amp;action=edit&amp;redlink=1" title="Bree Moot 4 (page does not exist)">Bree Cuộc tranh luận 4</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+5. 2001: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Moot_5&amp;action=edit&amp;redlink=1" title="Bree Moot 5 (page does not exist)">Bree Cuộc tranh luận 5</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-## Bữa tiệc Bree trước đây {#Past_Bree_Banquets}
+## Các bữa tiệc Bree trước đây {#Past_Bree_Banquets}
 
-1. 2004: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Banquet_1&amp;action=edit&amp;redlink=1" title="Bree Banquet 1 (page does not exist)">Bữa tiệc Bree 1</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+1. 2004: <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bree_Banquet_1&amp;action=edit&amp;redlink=1" title="Bree Banquet 1 (page does not exist)">Bree Tiệc 1</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

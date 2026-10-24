@@ -28,13 +28,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 26</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">77</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 26</b> là số thứ 26 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 12 năm 2022.
+<b><i>Other Minds</i> 26</b> là số thứ 26 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 12 năm 2022.
 
 ## Nội dung {#Contents}
 
 - "Biên tập: Trở về từ vực sâu"
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "Con Đường Mãi Mãi Đi"
+- "The Road Goes Ever On"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
@@ -46,9 +46,9 @@ infobox:
     - Bởi Thomas Morwinsky
 - "Thành trì mới"
     - Bởi Andreas Erdmann
-- "Người hoang dã phương Nam"
+- "Miền Con Người hoang dã của Nam Bộ"
     - Bởi Adam Brown
-- "Thung lũng Combe ở Bree-Land ở đâu?"
+- "Thung lũng Bree-Đất nằm ở đâu trong Combe?"
     - Bởi Kris Goldsmith
 
 - **Tác phẩm nghệ thuật / Bản đồ:**

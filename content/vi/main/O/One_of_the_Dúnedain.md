@@ -43,9 +43,9 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-[Éowyn](../_/Éowyn.md) đi ngang qua một khu trại tạm thời mà những du khách từ [Edoras](../E/Edoras.md) đã dựng lên và mời [Gimli](../G/Gimli.md) một ít món hầm. Anh lịch sự từ chối, và cô đưa nó cho [Aragorn](../A/Aragorn.md), người vui vẻ chấp nhận nó. Tuy nhiên, khi ăn thìa đầu tiên, ông nhận thấy nó không ngon như ông nghĩ. Bất chấp điều này, ông nói với Éowyn rằng nó rất tốt và khi bà quay lại, ông bắt đầu làm đổ nó.
+[Éowyn](../_/Éowyn.md) đi ngang qua khu cắm trại tạm thời mà các du khách từ [Edoras](../E/Edoras.md) đã dựng lên và mời [Gimli](../G/Gimli.md) một ít món hầm. Ông ta lịch sự từ chối, và cô đưa nó cho [Aragorn](../A/Aragorn.md), người này ân cần nhận lấy. Tuy nhiên, khi ăn thìa đầu tiên, ông nhận thấy nó không ngon như ông nghĩ. Bất kể điều này, ông nói với Éowyn nó tốt và khi bà quay lại, ông bắt đầu làm đổ nó.
 
-Cô quay lại phía Aragorn, người đã bị bỏng đôi tay do món hầm đổ ra, và hỏi liệu anh có thực sự cưỡi ngựa tham chiến với [Thengel](../T/Thengel.md) như [Théoden](../T/Théoden.md) đã nói với cô hay không.
+Cô quay lại với Aragorn, người có bàn tay hơi bị bỏng do món hầm đổ ra, và hỏi liệu ông ta có thực sự cưỡi ngựa tham chiến với [Thengel](../T/Thengel.md) như [Théoden](../T/Théoden.md) đã nói với cô hay không.
 
 <blockquote class="tg-quote noexcerpt">
 <p>King Théoden has a good memory. He was only a small child at the time.
@@ -53,4 +53,4 @@ Cô quay lại phía Aragorn, người đã bị bỏng đôi tay do món hầm 
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> to <a href="../_/Éowyn.md" title="Éowyn">Éowyn</a></cite></p>
 </blockquote>
 
-Éowyn bị sốc vì điều này. Aragorn nói với cô rằng ông đã tám mươi bảy tuổi. Cô nhanh chóng nhận ra anh là một trong những [Dúnedain](../D/Dúnedain.md). Ông nói với bà rằng còn lại rất ít người Dúnedain. Lúc này, cô xin lỗi và mời anh ăn món hầm, tiếp tục đứng cạnh anh, khiến anh không còn lựa chọn nào khác ngoài việc phải làm như vậy.
+Éowyn bị sốc vì điều này. Aragorn nói với cô rằng ông đã tám mươi bảy tuổi. Cô nhanh chóng nhận ra anh là một trong những [Dúnedain](../D/Dúnedain.md). Ông nói với bà rằng Dúnedain còn lại rất ít. Lúc này, cô xin lỗi và mời anh ăn món hầm, tiếp tục đứng cạnh anh, khiến anh không còn lựa chọn nào khác ngoài việc phải làm như vậy.

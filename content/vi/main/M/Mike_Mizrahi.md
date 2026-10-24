@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Mike Mizrahi</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../T/Thráin.md" title="Thráin">Thráin</a> in:<br/><i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0594623/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Michael Mizrahi** miêu tả [Thráin](../T/Thráin.md) trong các cảnh hồi tưởng trong [Phiên bản mở rộng](<../T/The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md>) của *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tuy nhiên, ông chỉ có tên trong phần ghi công của *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*, trong đó sự xuất hiện của ông trong phim không được thể hiện rõ ràng, cho thấy rằng các cảnh của ông đã bị cắt hoặc không được đưa vào bản chiếu rạp cuối cùng.
+**Michael Mizrahi** miêu tả [Thráin](../T/Thráin.md) trong các cảnh hồi tưởng trong [Phiên bản mở rộng](<../T/The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md>) của *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tuy nhiên, ông chỉ có tên trong phần ghi công của *[The Hobbit: An Unexpected Journey](../T/The_Hobbit%253A_An_Unexpected_Journey.md)*, trong đó sự xuất hiện của ông trong phim không hiển thị rõ ràng, cho thấy rằng các cảnh của ông đã bị cắt hoặc không được đưa vào bản chiếu rạp cuối cùng.
 
 <span></span>
 
@@ -55,4 +55,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.theonering.net/torwp/2011/03/20/42798-kiwi-actors-jeffrey-thomas-and-mike-mizrahi-cast-as-thror-and-thrain/" rel="noreferrer noopener" target="_blank">Diễn viên Kiwi Jeffrey Thomas và Mike Mizrahi đóng vai Thror và Thrain?</a> trên TheOneRing.net
+- <a class="external text" href="http://www.theonering.net/torwp/2011/03/20/42798-kiwi-actors-jeffrey-thomas-and-mike-mizrahi-cast-as-thror-and-thrain/" rel="noreferrer noopener" target="_blank">Diễn viên Kiwi Jeffrey Thomas và Mike Austin Mizrahi đóng vai Thror và Thrain?</a> trên TheOneRing.net

@@ -14,11 +14,11 @@ sort_keys:
   "Telerin nouns": "Goldorin"
 ---
 
-**Goldórin** là từ [Telerin](../T/Telerin.md) cho "[Noldorin](../N/Noldorin.md)", có nghĩa là [Quenya](../Q/Quenya.md); Teleri chủ yếu biết đến nó qua ngôn ngữ của [Noldor](../N/Noldor.md), vì họ có ít liên hệ với [Vanyar](../V/Vanyar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Goldórin** là từ [Telerin](../T/Telerin.md) của "[Noldorin](../N/Noldorin.md)", có nghĩa là [Quenya](../Q/Quenya.md); Teleri chủ yếu biết đến nó như là cái lưỡi của [Noldor](../N/Noldor.md), vì họ có ít liên hệ với [Vanyar](../V/Vanyar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Yếu tố đầu tiên của từ Goldórin, là dạng ghép của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Golodo&amp;action=edit&amp;redlink=1" title="Golodo (page does not exist)">Golodo</a> "Noldo"; *ó* dài của từ phản ánh nguyên âm cuối dài của từ [tiếng Tiên nguyên thủy](../P/Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91golod%C3%B4&amp;action=edit&amp;redlink=1" title="Ñgolodô (page does not exist)">ñgolodô</a></i>.
+Phần tử đầu tiên của từ Goldórin, là dạng ghép của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Golodo&amp;action=edit&amp;redlink=1" title="Golodo (page does not exist)">Golodo</a> "Noldo"; *ó* dài của từ phản ánh nguyên âm cuối dài của [từ Elvish](../P/Primitive_Elvish.md) nguyên thủy <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%91golod%C3%B4&amp;action=edit&amp;redlink=1" title="Ñgolodô (page does not exist)">ñgolodô</a></i>.
 
 ## Xem thêm {#See_also}
 

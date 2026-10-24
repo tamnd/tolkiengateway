@@ -38,20 +38,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Calendar_1979.jpg.md"><img src="https://tolkiengateway.net/w/images/9/9b/J.R.R._Tolkien_Calendar_1979.jpg" decoding="async" loading="lazy" width="164" height="216" class="mw-file-element" data-file-width="164" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien Calendar 1979</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/George_Allen_and_Unwin.md" title="George Allen and Unwin">George Allen &amp; Unwin</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer (11<sup>7</sup>⁄<sub>8</sub> x 15<sup>1</sup>⁄<sub>8</sub> inches)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0045290059" title="Special:BookSources/0045290059">0045290059</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/The_Silmarillion_Calendar_1978.md" title="The Silmarillion Calendar 1978">The Silmarillion Calendar 1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data">None. Next calendar:<br/><a href="../T/The_J.R.R._Tolkien_Calendar_1984.md" title="The J.R.R. Tolkien Calendar 1984">The J.R.R. Tolkien Calendar 1984</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien Lịch 1979</b></i> là lịch Tolkien chính thức được xuất bản bởi [George Allen & Unwin](../G/George_Allen_and_Unwin.md) vào [1978](../_/1978.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](J.R.R._Tolkien.md) và lời bình luận của [Christopher Tolkien](../C/Christopher_Tolkien.md). Người chụp ảnh bìa là [Billett Potter](../B/Billett_Potter.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Lịch <i><b>J.R.R. Tolkien 1979</b></i> là lịch Tolkien chính thức được xuất bản bởi [George Allen &amp; Unwin](../G/George_Allen_and_Unwin.md) trong [1978](../_/1978.md). Nó có tác phẩm nghệ thuật của [J.R.R. Tolkien](J.R.R._Tolkien.md), với lời bình luận của [Christopher Tolkien](../C/Christopher_Tolkien.md). Người chụp ảnh bìa là [Billett Potter](../B/Billett_Potter.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Minh họa {#Illustrations}
 
-- Tháng Giêng - "Ba con rồng"
+- Tháng Giêng - "Ba Rồng"
 - Tháng 2 - "[Hội trường ở Bag-End, nơi ở của B. Baggins Esquire](<../../file/J/J.R.R._Tolkien_-_The_Hall_at_Bag-End,_Residence_of_B._Baggins_Esquire_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_2-0" class="reference"><a href="#cite_note-Rid-2">[note 1]</a></sup>
 - Tháng 3 - "Mẫu (I)"
-- Tháng 4 - "[Cổng Vua Yêu Tinh (I)](<../../file/J/J.R.R._Tolkien_-_The_Elvenking's_Gate_(I).jpg.md>)"
+- Tháng 4 - "[Cổng Vua Tiên(I)](<../../file/J/J.R.R._Tolkien_-_The_Elvenking's_Gate_(I).jpg.md>)"
 - Tháng 5 - "Cây"
-- Tháng 6 - "[Ba con quỷ khổng lồ bị biến thành đá](<../../file/J/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_2-1" class="reference"><a href="#cite_note-Rid-2">[note 1]</a></sup>
+- Tháng 6 - "[Ba Troll bị biến thành đá](<../../file/J/J.R.R._Tolkien_-_The_Three_Trolls_are_turned_to_Stone_(Colored_by_H.E._Riddett).jpg.md>)" <sup id="cite_ref-Rid_2-1" class="reference"><a href="#cite_note-Rid-2">[note 1]</a></sup>
 - Tháng 7 - "Mẫu (II)"
-- Tháng 8 - "[Bilbo đến Túp lều của Yêu tinh (I)](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(I).jpg.md>)"
-- Tháng 9 - "Thiết kế hoa"
-- Tháng 10 - "[Ruồi độc ác bay quanh núi](../../file/J/J.R.R._Tolkien_-_Smaug_flies_round_the_Mountain.jpg.md)"
+- Tháng 8 - "[Bilbo đến Lều Bè-Tiên tộc (I)](<../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(I).jpg.md>)"
+- tháng Chín - "Thiết Kế Hoa"
+- Tháng 10 - "[Smaug Bay quanh núi](../../file/J/J.R.R._Tolkien_-_Smaug_flies_round_the_Mountain.jpg.md)"
 - Tháng 11 - "[Cây có hoa với hàng diềm](../../file/J/J.R.R._Tolkien_-_Flowering_Tree_with_Friezes.jpg.md)"
 - Tháng 12 - "[Gấu Bắc Cực đã rơi từ trên xuống dưới xuống mũi](../../file/J/J.R.R._Tolkien_-_Polar_Bear_had_fallen_from_top_to_bottom_onto_his_nose.jpg.md)"
 
@@ -69,7 +69,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94140" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien Lịch 1979</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1978_1980.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1978 - 1980</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1978_1980.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1978 - 1980</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
 
 <span></span>
 

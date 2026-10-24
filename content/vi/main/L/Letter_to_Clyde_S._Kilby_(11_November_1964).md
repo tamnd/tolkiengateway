@@ -16,7 +16,7 @@ sort_keys:
   "Letters": "Kilby, Clyde S. (1964-11-11)"
 ---
 
-Vào [11 tháng 11](../_/11_November.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Clyde S. Kilby](../C/Clyde_S._Kilby.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [11 tháng 11](../_/11_November.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Clyde S. Kilby](../C/Clyde_S._Kilby.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** Trả lời câu hỏi về việc lấy bản thảo về [Trung tâm Marion E. Wade](../M/Marion_E._Wade_Center.md). Doanh số *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* tại Hoa Kỳ.
 - **Xuất bản:** Các đoạn trích từ bức thư đã được xuất bản trong [*SEVEN*, Tập 27](../S/SEVEN_27.md) (trang 48–9).

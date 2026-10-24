@@ -46,9 +46,9 @@ categories:
 <li><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lowdham%27s_Report_on_the_Adunaic_Language&amp;action=edit&amp;redlink=1" title="Lowdham&#39;s Report on the Adunaic Language (page does not exist)">Lowdham&#39;s Report on the Adunaic Language</a></li></ol>
 </td></tr></tbody></table>
 
-<b><i>Bài viết của Câu lạc bộ Notion</i> Phần thứ hai</b> là một chương có trong *[Sauron Defeated](../S/Sauron_Defeated.md)*, là phần thứ hai của *[The Notion Club Papers](The_Notion_Club_Papers.md)*.
+<b><i>The Notion Club Papers</i> Phần thứ hai</b> là một chương có trong *[Sauron Defeated](../S/Sauron_Defeated.md)*, là phần thứ hai của *[The Notion Club Papers](The_Notion_Club_Papers.md)*.
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) chia Bài viết thành hai phần ở một số điểm trong cấu trúc của nó, nhưng cuối cùng ông bác bỏ sự phân chia này và loại bỏ tiêu đề của mỗi phần; tuy nhiên, [Christopher Tolkien](../C/Christopher_Tolkien.md) vẫn giữ nguyên cách phân chia đó vì lý do biên tập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tiêu đề của Phần Hai được viết trong một trang tiêu đề riêng của Bản thảo E:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã chia các Bài viết thành hai phần ở một số điểm trong cấu trúc của nó, nhưng cuối cùng ông đã bác bỏ sự phân chia này và loại bỏ tiêu đề của mỗi phần; tuy nhiên [Christopher Tolkien](../C/Christopher_Tolkien.md) vẫn giữ nguyên cách phân chia đó vì lý do biên tập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tiêu đề của Phần Hai được viết trong một trang tiêu đề riêng của Bản thảo E:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <center>&#34;Leaves from the Notion Club Papers<br/>[Part] II<br/>The Strange Case of Arundel Lowdham&#34;</center>
 

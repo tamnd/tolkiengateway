@@ -16,23 +16,23 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_462.md" title="First Age 462">462</a><a href="First_Age_463.md" title="First Age 463">463</a><a href="First_Age_464.md" title="First Age 464">464</a><a class="mw-selflink selflink">465</a><a href="First_Age_466.md" title="First Age 466">466</a><a href="First_Age_467.md" title="First Age 467">467</a><a href="First_Age_468.md" title="First Age 468">468</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 465** (viết tắt là **F.A. 465**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 465 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 465** (viết tắt là **F.A. 465**) là năm [thứ 465 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Mùa xuân {#Spring}
 
-- [Beren](../B/Beren.md) nghe thấy [Lúthien](../L/Lúthien.md) hát và tỉnh dậy sau cơn xuất thần. Họ yêu nhau.<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
-- [Thingol](../T/Thingol.md) ra lệnh cho [Beren](../B/Beren.md) quay trở lại với [Silmaril](../S/Silmaril.md) để đổi lấy [Lúthien](../L/Lúthien.md) kết hôn. [Truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md).<sup id="cite_ref-Beren_1-1" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- [Beren](../B/Beren.md) nghe thấy [Lúthien](../L/Lúthien.md) tiếng hát và tỉnh dậy sau cơn hôn mê. Họ yêu nhau.<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- [Thingol](../T/Thingol.md) ra lệnh cho [Beren](../B/Beren.md) quay lại với một [Silmaril](../S/Silmaril.md) để đổi lấy [Lúthien](../L/Lúthien.md) bàn tay kết hôn. [Cuộc truy tìm Silmaril](../Q/Quest_for_the_Silmaril.md).<sup id="cite_ref-Beren_1-1" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
 ## Mùa thu {#Autumn}
 
-- [Beren](../B/Beren.md) khởi hành [Nargothrond](../N/Nargothrond.md) cùng với [Finrod](Finrod.md) và mười người bạn đồng hành (bao gồm [Edrahil](../E/Edrahil.md)). Finrod bổ nhiệm [Orodreth](../O/Orodreth.md) làm nhiếp chính.<sup id="cite_ref-Beren_1-2" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
-- Đến [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md), Beren, Finrod và những người bạn đồng hành bị [Sauron](../S/Sauron.md) bắt giữ.<sup id="cite_ref-Beren_1-3" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
-- [Lúthien](../L/Lúthien.md) rời [Doriath](../D/Doriath.md) tìm kiếm [Beren](../B/Beren.md); cô gặp [Celegorm](../C/Celegorm.md) và [Curufin](../C/Curufin.md), những người đưa cô đến [Nargothrond](../N/Nargothrond.md). Cô trốn thoát khỏi Nargothrond với sự trợ giúp của [Huan](../H/Huan.md).<sup id="cite_ref-Beren_1-4" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
-- Cái chết của [Finrod](Finrod.md) và mười người bạn đồng hành của ông ta ở Tol-in-Gaurhoth.<sup id="cite_ref-Beren_1-5" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
-- [Huan](../H/Huan.md) và [Lúthien](../L/Lúthien.md) đến [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md). Huân giết [Draugluin](../D/Draugluin.md) và đánh bại sói-Sauron trong trận chiến; Sauron chạy trốn trong hình dạng [ma cà rồng](../V/Vampires.md) và đi tới <a class="mw-redirect mw-disambig" href="../T/Taur-nu-Fuin.md" title="Taur-nu-Fuin">Taur-nu-Fuin</a>.<sup id="cite_ref-Beren_1-6" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
-- [Celegorm](../C/Celegorm.md) và [Curufin](../C/Curufin.md) bị trục xuất khỏi [Nargothrond](../N/Nargothrond.md) và sau đó tấn công Beren và Lúthien. Huân phản bội chủ nhân vì yêu Lúthien. Beren rời đi [Angband](../A/Angband.md).<sup id="cite_ref-Beren_1-7" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- [Beren](../B/Beren.md) khởi hành [Nargothrond](../N/Nargothrond.md) cùng với [Finrod](Finrod.md) và mười người đồng hành (bao gồm [Edrahil](../E/Edrahil.md)). Finrod bổ nhiệm [Orodreth](../O/Orodreth.md) làm nhiếp chính.<sup id="cite_ref-Beren_1-2" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- Đến [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md), Beren, Finrod và đồng đội bị [Sauron](../S/Sauron.md) bắt giữ.<sup id="cite_ref-Beren_1-3" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- [Lúthien](../L/Lúthien.md) rời khỏi [Doriath](../D/Doriath.md) tìm kiếm [Beren](../B/Beren.md); cô gặp [Celegorm](../C/Celegorm.md) và [Curufin](../C/Curufin.md) những người đưa cô đến [Nargothrond](../N/Nargothrond.md). Cô trốn thoát Nargothrond với sự trợ giúp của [Huan](../H/Huan.md).<sup id="cite_ref-Beren_1-4" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- Cái chết của [Finrod](Finrod.md) và mười người bạn đồng hành của ông ta trong Tol-in-Gaurhoth.<sup id="cite_ref-Beren_1-5" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- [Huan](../H/Huan.md) và [Lúthien](../L/Lúthien.md) đến [Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md). Huan giết [Draugluin](../D/Draugluin.md) và đánh bại sói-Sauron trong trận chiến; Sauron bỏ trốn trong hình dạng [ma cà rồng](../V/Vampires.md) và đi đến <a class="mw-redirect mw-disambig" href="../T/Taur-nu-Fuin.md" title="Taur-nu-Fuin">Taur-nu-Fuin</a>.<sup id="cite_ref-Beren_1-6" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- [Celegorm](../C/Celegorm.md) và [Curufin](../C/Curufin.md) bị trục xuất khỏi [Nargothrond](../N/Nargothrond.md) và sau đó tấn công Beren and Lúthien. Huan phản bội chủ nhân vì yêu Lúthien. Beren khởi hành cho [Angband](../A/Angband.md).<sup id="cite_ref-Beren_1-7" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
 ## Không xác định {#Unknown}
 

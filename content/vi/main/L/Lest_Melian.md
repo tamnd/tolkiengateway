@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Girdle of Melian"
 ---
 
-Chuyển hướng tới [Dây đai Melian](../G/Girdle_of_Melian.md).
+Chuyển hướng đến [Vành đai Melian](../G/Girdle_of_Melian.md).

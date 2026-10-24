@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Cusack, Sorcha"
 ---
 
-**Sorcha Cusack** ([9 tháng 4](../_/9_April.md), [1949](../_/1949.md)) là một nữ diễn viên người Ireland, em gái của <a class="extiw" href="http://en.wikipedia.org/wiki/Sin%C3%A9ad_Cusack" title="wikipedia:Sinéad Cusack">Sinéad Cusack</a>. Cô đóng vai [Goldberry](../G/Goldberry.md) trong hai tập phim "Những cuộc phiêu lưu của Tom Bombadil", được phát sóng như một phần của [*Tales from the Perilous Realm* (loạt phim phát thanh năm 1992)](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
+**Sorcha Cusack** ([9 tháng 4](../_/9_April.md), [1949](../_/1949.md)) là một nữ diễn viên người Ireland, em gái của <a class="extiw" href="http://en.wikipedia.org/wiki/Sin%C3%A9ad_Cusack" title="wikipedia:Sinéad Cusack">Sinéad Cusack</a>. Cô đóng [Goldberry](../G/Goldberry.md) trong hai tập của "The Adventures of Tom Bombadil", được phát sóng như một phần của [*Tales from the Perilous Realm* (loạt phim phát thanh năm 1992)](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

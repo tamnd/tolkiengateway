@@ -28,7 +28,7 @@ images:
   - "Disambig.png"
 ---
 
-**Siriondil** có nghĩa là "Tận hiến cho [Sirion](Sirion.md)" trong [Quenya](../Q/Quenya.md) (từ *[Sirion](Sirion.md)* và *[-ndil](../_/-ndil.md)*, "người bạn, người yêu, tận tâm") và có thể tham khảo:
+**Siriondil** có nghĩa là "Tận hiến cho [Sirion](Sirion.md)" trong [Quenya](../Q/Quenya.md) (từ *[Sirion](Sirion.md)* và *[-ndil](../_/-ndil.md)*, "bạn bè, người yêu, tận tâm") và có thể tham khảo:
 
 - [Siriondil](<Siriondil_(King_of_Gondor).md>) ([T.A.](../T/Third_Age.md) [570](../T/Third_Age_570.md) - [830](../T/Third_Age_830.md)), [Vua](../K/Kings_of_Gondor.md) thứ mười một của [Gondor](../G/Gondor.md).
 - [Siriondil](<Siriondil_(son_of_Calimmacil).md>) (chết trước [T.A.](../T/Third_Age.md) [1945](../T/Third_Age_1945.md)), con trai của [Calimmacil](../C/Calimmacil.md) và là cha của [Eärnil II](../E/Eärnil_II.md).

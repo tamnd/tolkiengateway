@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Lane, Greg"
 ---
 
-**Greg Lane** là diễn viên đóng thế người New Zealand. Anh đóng nhiều vai [orc](../O/Orcs.md) và [Uruk-Hai](../U/Uruk-Hai~9489.md) (bao gồm cả người cầm đuốc ở [Helm's Deep](../B/Battle_of_the_Hornburg.md)), đồng thời là người đóng thế cho [Saruman](../S/Saruman.md) và [Isildur](../I/Isildur.md).
+**Greg Lane** là diễn viên đóng thế New Zealand. Anh đóng nhiều vai [orc](../O/Orcs.md) và [Uruk-Hai](../U/Uruk-Hai~9489.md) (bao gồm cả người cầm đuốc ở [Helm's Deep](../B/Battle_of_the_Hornburg.md)), đồng thời là người đóng thế kép cho [Saruman](../S/Saruman.md) và [Isildur](../I/Isildur.md).
 
 ## Liên kết ngoài {#External_links}
 

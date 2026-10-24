@@ -18,9 +18,9 @@ sort_keys:
   "Tolkien Family": "Tolkien, Rachel"
 ---
 
-**Rachel Clare Reuel Tolkien** (sinh [13 tháng 2](../_/13_February.md) [1971](../_/1971.md)) là con gái của [Baillie Tolkien](../B/Baillie_Tolkien.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md), anh chị em của [Adam Tolkien](../A/Adam_Tolkien.md). Điều này khiến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trở thành ông nội của cô.
+**Rachel Clare Reuel Tolkien** (sinh [13 tháng 2](../_/13_February.md) [1971](../_/1971.md)) là con gái của [Baillie Tolkien](../B/Baillie_Tolkien.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md), anh chị em của [Adam Tolkien](../A/Adam_Tolkien.md). Điều này khiến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trở thành ông của bà.
 
-Rachel Tolkien đã tham dự buổi ra mắt thế giới của *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)* tại Toronto vào năm 2006. Bà nói rằng "bối cảnh thật đáng kinh ngạc, trang phục rất đẹp" và rằng "\[e\]đối với tôi, điều quan trọng nhất và cảm động nhất trong cuốn sách, họ đã xuất hiện trên sân khấu".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Lần xuất hiện trước công chúng cuối cùng của cô trùng hợp với cuộc triển lãm Tolkien của Pháp ở Paris, <a class="external text" href="https://www.lamontagne.fr/aubusson-23200/loisirs/lambassade-de-grande-bretagne-avant-la-bnf_13653111/" rel="noreferrer noopener" target="_blank">đến thăm Đại sứ quán Vương quốc Anh</a> cùng với mẹ cô là Baillie ở đâu một trong những tấm thảm Aubusson đã được trưng bày.
+Rachel Tolkien đã tham dự buổi ra mắt thế giới của *[The Lord of the Rings (musical)](<../T/The_Lord_of_the_Rings_(musical).md>)* tại Toronto vào năm 2006. Cô nói rằng "bối cảnh thật tuyệt vời, trang phục rất đẹp" và rằng "\[e\]đối với tôi, điều quan trọng nhất và cảm động nhất trong cuốn sách là họ đã lên sân khấu".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Lần xuất hiện trước công chúng gần đây nhất của cô trùng với cuộc triển lãm Tolkien Pháp ở Paris, <a class="external text" href="https://www.lamontagne.fr/aubusson-23200/loisirs/lambassade-de-grande-bretagne-avant-la-bnf_13653111/" rel="noreferrer noopener" target="_blank">đến thăm Đại sứ quán Vương quốc Anh</a> cùng mẹ cô Baillie nơi trưng bày một trong những tấm thảm Aubusson.
 
 ## Cây phả hệ {#Family_Tree}
 

@@ -35,7 +35,7 @@ infobox:
 
 **Earissë** là con gái của [Lindo](../L/Lindo.md) và là vợ của [Ælfwine](../_/Ælfwine.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Bà là mẹ của [Heorrenda](../H/Heorrenda.md) và [Hlúdwine](../H/Hlúdwine.md).<sup id="cite_ref-Ear_2-0" class="reference"><a href="#cite_note-Ear-2">[1]</a></sup>
 
-Earissë chỉ xuất hiện trong hai ghi chú trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Notebook_C&amp;action=edit&amp;redlink=1" title="Notebook C (page does not exist)">Sổ ghi chép C</a></i>,<sup id="cite_ref-Ear_2-1" class="reference"><a href="#cite_note-Ear-2">[1]</a></sup> một cuốn sổ tay nhỏ mà [Tolkien](../T/Tolkien.md) dùng để ghi chú và gợi ý khi viết *The Book of Lost Tales*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Earissë chỉ xuất hiện trong hai ghi chú trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Notebook_C&amp;action=edit&amp;redlink=1" title="Notebook C (page does not exist)">Sổ ghi chép C</a></i>,<sup id="cite_ref-Ear_2-1" class="reference"><a href="#cite_note-Ear-2">[1]</a></sup> một cuốn sổ nhỏ bỏ túi [Tolkien](../T/Tolkien.md) dùng để ghi chú và gợi ý khi viết *The Book of Lost Tales*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 Không có gì khác được biết về bà.
 
@@ -59,12 +59,12 @@ Dạng trước đây của tên này là *Eadissë*.<sup id="cite_ref-Ear_2-4" 
 
 ## Xem thêm {#See_also}
 
-- [Naimi](../N/Naimi.md), vợ thứ hai của [Eriol](Eriol.md) theo phác thảo trước đó của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*
+- [Naimi](../N/Naimi.md), người vợ thứ hai của [Eriol](Eriol.md) theo phác thảo trước đó của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Earissë chỉ được đề cập là con gái của Lindo mà không có bất kỳ đề cập rõ ràng nào về vợ ông - nhưng chúng tôi biết từ các văn bản liên quan trước đó trong <i>Cuốn sách về những câu chuyện đã mất</i> rằng vợ ông tên là Vairë.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Earissë chỉ được đề cập là con gái của Lindo mà không có bất kỳ đề cập rõ ràng nào về vợ ông - nhưng chúng tôi biết từ các văn bản liên quan trước đó trong <i>The Book of Lost Tales</i> rằng vợ ông có tên là Vairë.</span>
 </li>
 </ol></div></span>
 

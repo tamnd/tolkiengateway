@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã nhận xét về các tập đầu tiên của [bản chuyển thể trên radio](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đang phát sóng vào thời điểm đó. Tolkien không mấy vui vẻ. Ông gọi [Norman Shelley](../N/Norman_Shelley.md) miêu tả [Tom Bombadil](../T/Tom_Bombadil.md) là "khủng khiếp", nhưng tệ hơn nữa là [Goldberry](../G/Goldberry.md) được xác định là con gái ông ta, và [Willowman](../O/Old_Man_Willow.md) là đồng minh của [Mordor](../M/Mordor.md). <br>
+Tolkien đã bình luận về các tập đầu tiên của [bản chuyển thể trên radio](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đang phát sóng vào thời điểm đó. Tolkien không mấy vui vẻ. Ông gọi vai diễn [Tom Bombadil](../T/Tom_Bombadil.md) của [Norman Shelley](../N/Norman_Shelley.md) là "khủng khiếp", nhưng tệ hơn nữa là [Goldberry](../G/Goldberry.md) được xác định là con gái ông, và [Willowman](../O/Old_Man_Willow.md) là đồng minh của [Mordor](../M/Mordor.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

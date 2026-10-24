@@ -21,11 +21,11 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Ba Trưởng lão của Yêu tinh**<sup id="cite_ref-nature_1-0" class="reference"><a href="#cite_note-nature-1">[1]</a></sup> là vợ chồng của ba [Cha Yêu tinh](../E/Elf-fathers.md) nằm trong số [đầu tiên](../E/Eru-begotten.md) 144 [Yêu tinh](../E/Elves.md) [thức tỉnh](../A/Awakening_of_the_Elves.md) bởi vịnh [Cuiviénen](../C/Cuiviénen.md) trên đất liền [Biển of Helcar](../S/Sea_of_Helcar.md). Tên của họ là [Iminyë](../I/Iminyë.md), [Tatië](Tatië.md) và [Enelyë](../E/Enelyë.md). Chồng của họ (lần lượt là) [Imin](../I/Imin.md), [Tata](Tata.md) và [Enel](../E/Enel.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ba Trưởng lão của Tiên tộc**<sup id="cite_ref-nature_1-0" class="reference"><a href="#cite_note-nature-1">[1]</a></sup> là vợ của ba [Tiên người cha](../E/Elf-fathers.md) nằm trong số [đầu tiên](../E/Eru-begotten.md) 144 [Tiên tộc](../E/Elves.md) được [đánh thức](../A/Awakening_of_the_Elves.md) bởi vịnh [Cuiviénen](../C/Cuiviénen.md) trên đất liền [Biển Helcar](../S/Sea_of_Helcar.md). Tên của họ là [Iminyë](../I/Iminyë.md), [Tatië](Tatië.md) và [Enelyë](../E/Enelyë.md). Chồng của họ (lần lượt) là [Imin](../I/Imin.md), [Tata](Tata.md) và [Enel](../E/Enel.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Vào *[The Nature of Middle-earth](The_Nature_of_Middle-earth.md)*, [Oromë](../O/Oromë.md) đã mang đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Western_Corn&amp;action=edit&amp;redlink=1" title="Western Corn (page does not exist)">Hạt giống ngô phương Tây</a> được sử dụng trong nghệ thuật làm món lembas. Ông ấy đã dạy nghệ thuật này cho Ba Bà Trưởng Lão của Tiên, chứ không phải cho [Yavannildi](../Y/Yavannildi.md).<sup id="cite_ref-nature_1-1" class="reference"><a href="#cite_note-nature-1">[1]</a></sup>
+Vào *[The Nature of Middle-earth](The_Nature_of_Middle-earth.md)*, [Oromë](../O/Oromë.md) đã mang đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=Western_Corn&amp;action=edit&amp;redlink=1" title="Western Corn (page does not exist)">Hạt giống ngô phương Tây</a> được sử dụng trong nghệ thuật làm món lembas. Ông đã dạy nghệ thuật này cho Ba Bà Cả của Tiên tộc, chứ không phải cho [Yavannildi](../Y/Yavannildi.md).<sup id="cite_ref-nature_1-1" class="reference"><a href="#cite_note-nature-1">[1]</a></sup>
 
 <span></span>
 

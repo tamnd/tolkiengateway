@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dark Lord"
 ---
 
-Chuyển hướng tới [Chúa tể bóng tối](../D/Dark_Lord.md).
+Chuyển hướng đến [Chúa tể Bóng tối](../D/Dark_Lord.md).

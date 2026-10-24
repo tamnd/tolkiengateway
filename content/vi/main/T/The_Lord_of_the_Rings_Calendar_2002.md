@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Calendar_2002.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/53/The_Lord_of_the_Rings_Calendar_2002.jpg/300px-The_Lord_of_the_Rings_Calendar_2002.jpg" decoding="async" loading="lazy" width="300" height="302" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/53/The_Lord_of_the_Rings_Calendar_2002.jpg 1.5x" data-file-width="348" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Lịch Chúa tể của những chiếc nhẫn 2002** là một cuốn lịch Ý do Idea Libri sản xuất và có hình minh họa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Anton_Spazzapan&amp;action=edit&amp;redlink=1" title="Anton Spazzapan (page does not exist)">Anton Spazzapan</a>.
+**The Lord of the Rings Lịch 2002** là một cuốn lịch của Ý do Idea Libri sản xuất và có hình ảnh minh họa của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Anton_Spazzapan&amp;action=edit&amp;redlink=1" title="Anton Spazzapan (page does not exist)">Anton Spazzapan</a>.
 
 - <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/887082733X">ISBN 88-7082-733-X</a>
 - Kích thước: 15 3/4 x 15 3/4 inch

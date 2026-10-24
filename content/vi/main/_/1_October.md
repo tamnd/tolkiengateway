@@ -67,11 +67,11 @@ Sự kiện xảy ra vào ngày 1 tháng 10
 - **[1924](1924.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu làm Giáo sư Ngôn ngữ Anh tại [Đại học Leeds](../U/University_of_Leeds.md).
 - **[1941](1941.md)** - Tác giả [Glen GoodKnight](../G/Glen_GoodKnight.md) ra đời.
 - **[1969](1969.md)** - Diễn viên [Charles Edwards](../C/Charles_Edwards.md) ra đời.
-- **[1976](1976.md)** - [Oxonmoot 1976](../O/Oxonmoot_1976.md) tại The Welsh Pony.
+- **[1976](1976.md)** - [Oxonmoot 1976](../O/Oxonmoot_1976.md) tại The tiếng Wales Pony.
 - **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Bữa tiệc bất ngờ" được phát sóng trên [BBC](../B/BBC.md).
 - **[1999](1999.md)** - Diễn viên lồng tiếng [Noel Johnson](../N/Noel_Johnson.md) qua đời.
 - **[2003](2003.md)** - *[The Gospel According to Tolkien](../T/The_Gospel_According_to_Tolkien.md)* được xuất bản.
-- <b><a href="2007.md" title="2007">2007</a> - Phiên bản thứ hai và mở rộng của <i><a href="../T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien On Fairy-stories</a></i> được xuất bản.</b>
+- <b><a href="2007.md" title="2007">2007</a> - Ấn bản thứ hai và mở rộng của <i><a href="../T/Tolkien_On_Fairy-stories~23734.md" title="Tolkien On Fairy-stories">Tolkien Về truyện cổ tích</a></i> được xuất bản.</b>
 - **[2007](2007.md)** – Phiên bản đóng hộp được thiết kế lại của *[Mr. Bliss](../M/Mr._Bliss.md)* được xuất bản.
 - **[2010](2010.md)** - *[Middle-earth: Visions of a Modern Myth](../M/Middle-earth%253A_Visions_of_a_Modern_Myth.md)* được xuất bản.
 - **[2010](2010.md)** - Năm Thánh dành cho [Mithlond, Hiệp hội Gothenburg Tolkien](../M/Mithlond,_Göteborgs_Tolkiensällskap.md) của Thụy Điển.
@@ -79,8 +79,8 @@ Sự kiện xảy ra vào ngày 1 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi tới [Weathertop](../W/Weathertop.md).
-    - [Gandalf](../G/Gandalf.md) rời [Bree](../B/Bree.md).
+    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi về phía [Weathertop](../W/Weathertop.md).
+    - [Gandalf](../G/Gandalf.md) rời đi [Bree](../B/Bree.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
     - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

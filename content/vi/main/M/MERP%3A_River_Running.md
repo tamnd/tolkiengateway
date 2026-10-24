@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "River Running (book)"
 ---
 
-Chuyển hướng tới [Sông chảy (sách)](<../R/River_Running_(book).md>).
+Chuyển hướng đến [River Running (sách)](<../R/River_Running_(book).md>).

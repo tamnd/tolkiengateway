@@ -28,7 +28,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/utumno.html" rel="noreferrer noopener" target="_blank">Utumno tại Tolkien Games</a>
+- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/utumno.html" rel="noreferrer noopener" target="_blank">Utumno tại Tolkien Trò chơi</a>
 
 <span></span>
 

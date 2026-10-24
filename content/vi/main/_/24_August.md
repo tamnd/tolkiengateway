@@ -66,20 +66,20 @@ Sự kiện xảy ra vào ngày 24 tháng 8
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [Edith Tolkien](../E/Edith_Tolkien.md) viết bức thư đầu tiên cho chồng mình tại Brooklands Officers' từ Cheltenham.
+- **[1917](1917.md)** - [Edith Tolkien](../E/Edith_Tolkien.md) viết lá thư đầu tiên cho chồng mình tại Brooklands Officers' từ Cheltenham.
 - **[1951](1951.md)** - Tác giả [Orson Scott Card](../O/Orson_Scott_Card.md) ra đời.
 - **[1957](1957.md)** - Diễn viên [Stephen Fry](../S/Stephen_Fry.md) ra đời.
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 275a](../L/Letter_275a.md).
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho [Rayner Unwin](../R/Rayner_Unwin.md) mượn bản đọc của *[The End of Bovadium](../T/The_End_of_Bovadium.md)*.
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) cho mượn [Rayner Unwin](../R/Rayner_Unwin.md) bản đọc của *[The End of Bovadium](../T/The_End_of_Bovadium.md)*.
 - **[1973](1973.md)** - Nữ diễn viên [Grey DeLisle](../G/Grey_DeLisle.md) ra đời.
 - **[1974](1974.md)** - [Mythcon 5](../M/Mythcon_5.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Scripps_College" title="wikipedia:Scripps College">Scripps College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[1992](1992.md)** - [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) và [Mythcon](../M/Mythcon.md).
+- **[1992](1992.md)** - [Tolkien Hội nghị trăm năm](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) và [Mythcon](../M/Mythcon.md).
 - **[1998](1998.md)** - *[CarolinaCon Regional MECCG Newsletter](../C/CarolinaCon_Regional_MECCG_Newsletter.md)* số 2 được xuất bản.
-- **[2006](2006.md)** - [Hội nghị Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
+- **[2006](2006.md)** - [Hội thảo Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
 - **[2007](2007.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The City of Kings" được phát hành ở Châu Âu.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

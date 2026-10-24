@@ -23,7 +23,7 @@ images:
 
 **Những thứ của Morgoth** là một nhóm sinh vật hoặc sinh vật không xác định có liên quan đến [Morgoth](../M/Morgoth.md).<sup id="cite_ref-name_1-0" class="reference"><a href="#cite_note-name-1">[1]</a></sup>
 
-Sau [Trận chiến của những giọt nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những thứ của Morgoth lang thang tự do cùng với "[những người cưỡi sói](../W/Wolf-riders.md) và lang thang [Orc](../O/Orcs.md)" khắp [Beleriand](../B/Beleriand.md).<sup id="cite_ref-name_1-1" class="reference"><a href="#cite_note-name-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau [Trận chiến của những giọt nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những thứ của Morgoth lang thang tự do bên cạnh "[những kẻ cưỡi sói](../W/Wolf-riders.md) và lang thang [Orc](../O/Orcs.md)" xuyên suốt [Beleriand](../B/Beleriand.md).<sup id="cite_ref-name_1-1" class="reference"><a href="#cite_note-name-1">[1]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -25,15 +25,15 @@ Vào [17 tháng 1](../_/17_January.md) [1964](../_/1964.md), [J.R.R. Tolkien](..
 
 ## Từ cuộc đấu giá {#From_the_auction}
 
-Chữ ký và một phần thư đánh máy có chữ ký ("J.R.R. Tolkien"), gửi cô A. Mountfield trường Eltham Green, cảm ơn cô đã gửi lá thư của một trong những đứa trẻ trong lớp của cô, điều này khiến cô rất vui ("...*[The Hobbit](../T/The_Hobbit.md)* có vẻ mọi chuyện ở trường diễn ra rất suôn sẻ; tôi đã nhận được vài lá thư kể về các hoạt động trong lớp bắt nguồn từ sự quan tâm đến nó. Không phải tất cả đều được viết hay như thế này...") nhưng cũng nói thêm rằng ông hy vọng "nó sẽ không phải là món quà duy nhất dành cho bạn từ [Oxford](../O/Oxford.md)"; tự viết thêm: "để bạn truyền đạt" và nhận xét: "Tất cả việc giảng dạy đều mệt mỏi, chán nản và người ta hiếm khi được an ủi khi biết khi nào một phương pháp nào đó đã có tác dụng. Tôi ước gì bây giờ tôi có thể kể lại một số điều của tôi (từ lâu) về việc tôi nhớ họ như thế nào và những điều họ đã nói, mặc dù tôi (có vẻ như chỉ) đang nhìn ra ngoài cửa sổ hoặc cười khúc khích với người hàng xóm của mình".<sup id="cite_ref-Bonhams_1-2" class="reference"><a href="#cite_note-Bonhams-1">[1]</a></sup>
+Chữ ký và một phần thư đánh máy có chữ ký ("J.R.R. Tolkien"), gửi cô A. Mountfield trường Eltham Green, cảm ơn cô đã gửi thư bởi một trong những đứa trẻ trong lớp của cô, điều này khiến cô rất vui ("...*[The Hobbit](../T/The_Hobbit.md)* có vẻ mọi việc ở trường diễn ra rất suôn sẻ; tôi đã nhận được vài lá thư kể về các hoạt động trong lớp xuất phát từ sự quan tâm đến nó. Không phải tất cả đều được viết hay như thế này...") nhưng cũng nói thêm rằng ông hy vọng "nó sẽ không phải là món quà duy nhất dành cho bạn từ [Oxford](../O/Oxford.md)"; tự viết thêm: "để bạn truyền đạt" và nhận xét: "Tất cả việc giảng dạy đều mệt mỏi, chán nản và người ta hiếm khi được an ủi khi biết khi nào một phương pháp nào đó đã có tác dụng. Tôi ước gì bây giờ tôi có thể kể lại một số điều của tôi (từ lâu) về việc tôi nhớ họ như thế nào và những điều họ đã nói, mặc dù tôi (có vẻ như chỉ) đang nhìn ra ngoài cửa sổ hoặc cười khúc khích với người hàng xóm của mình".<sup id="cite_ref-Bonhams_1-2" class="reference"><a href="#cite_note-Bonhams-1">[1]</a></sup>
 
 ## Phiên âm {#Transcription}
 
 Kính gửi bà Mountfield,
 
-Bức thư bạn gửi từ một trong những đứa trẻ trong lớp của bạn đã làm tôi rất vui. Anh chàng Hobbit có vẻ học rất tốt ở trường; Tôi đã nhận được vài lá thư kể cho tôi nghe về các hoạt động của lớp xuất phát từ sự quan tâm đến nó. Không phải tất cả đều được viết tốt như thế này.
+Bức thư bạn gửi từ một trong những đứa trẻ trong lớp của bạn đã làm tôi rất vui. The Hobbit có vẻ học tập tốt ở trường; Tôi đã nhận được vài lá thư kể cho tôi nghe về các hoạt động của lớp xuất phát từ sự quan tâm đến nó. Không phải tất cả đều được viết tốt như thế này.
 
-Dù sao đi nữa, tôi hy vọng nó sẽ không phải là món quà duy nhất từ ​​Oxford dành cho bạn để bạn trao tặng. Tất cả việc giảng dạy đều mệt mỏi và chán nản và người ta hiếm khi được an ủi khi biết khi nào mình đã đạt được hiệu quả nào đó. Tôi ước gì bây giờ tôi có thể kể lại một số điều của tôi (từ lâu) tôi nhớ họ như thế nào và những điều họ nói, mặc dù tôi (chỉ, như có vẻ như vậy) đang nhìn ra ngoài cửa sổ hoặc cười khúc khích với người hàng xóm của mình.
+Dù sao đi nữa, tôi hy vọng nó sẽ không phải là món quà duy nhất từ ​​ Oxford dành cho bạn để bạn trao tặng. Tất cả việc giảng dạy đều mệt mỏi và chán nản và người ta hiếm khi được an ủi khi biết khi nào mình đã đạt được hiệu quả nào đó. Tôi ước gì bây giờ tôi có thể kể lại một số điều của tôi (từ lâu) tôi nhớ họ như thế nào và những điều họ nói, mặc dù tôi (chỉ, như có vẻ như vậy) đang nhìn ra ngoài cửa sổ hoặc cười khúc khích với người hàng xóm của mình.
 
 Trân trọng,
 

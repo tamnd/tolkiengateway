@@ -30,9 +30,9 @@ infobox:
 
 <i><b>Văn học, lịch sử, sách, tranh minh họa và ảnh dành cho trẻ em của Sotheby's Ngày 8 tháng 7 năm 2004</b></i> là một danh mục đấu giá của [Sotheby's](Sotheby's.md) (London). Danh mục này bao gồm một số lô liên quan đến [Tolkien](../J/J.R.R._Tolkien.md), trong đó đáng chú ý nhất là:
 
-- 379 (tr. 232) - Lô hàng này bao gồm [mười hai bức thư từ Tolkien gửi Dorothy "Ding" Wood](../L/Letters_to_Dorothy_Wood.md), có niên đại từ năm 1960 đến năm 1973. Mô tả lô hàng bao gồm các đoạn trích từ nhiều bức thư. Lô hàng cũng bao gồm các bức thư của [Edith](../E/Edith_Tolkien.md) và [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
+- 379 (tr. 232) - Lô này bao gồm [mười hai bức thư từ Tolkien gửi Dorothy "Ding" Wood](../L/Letters_to_Dorothy_Wood.md), có niên đại từ năm 1960 đến năm 1973. Mô tả lô bao gồm các đoạn trích từ nhiều bức thư. Lô hàng còn bao gồm các bức thư của [Edith](../E/Edith_Tolkien.md) và [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
 - 381 (tr. 234) - Bản sao chứng minh *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* có niên đại từ [1953](../_/1953.md). Phần mô tả lô hàng trích dẫn một phiên bản trước đó của câu thơ Chiếc nhẫn ("...và trong bóng tối trói buộc họ") và tiếp tục ghi lại một số điểm khác biệt giữa bản sao kiểm chứng và cuốn sách đã xuất bản. Trang tiêu đề được sao chép dưới dạng ảnh.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- 383 (tr. 236) - Lô bao gồm các bản sao của ấn bản bìa mềm được ủy quyền đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (được xuất bản bởi [Ballantine Books](../B/Ballantine_Books.md)), từ thư viện của J.R.R. Tolkien. Phần mô tả lô mô tả ngắn gọn các chú thích của Tolkien trong sách và trích dẫn một chìa khóa do Tolkien viết.
+- 383 (tr. 236) - Lô bao gồm các bản sao của ấn bản bìa mềm được ủy quyền đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (được xuất bản bởi [Ballantine Books](../B/Ballantine_Books.md)), từ thư viện của J.R.R. Tolkien. Mô tả lô mô tả ngắn gọn các chú thích của Tolkien trong sách và trích dẫn khóa được viết bởi Tolkien.
 
 <span></span>
 

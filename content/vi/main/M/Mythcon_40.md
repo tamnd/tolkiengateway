@@ -40,5 +40,5 @@ infobox:
 - <a class="external text" href="https://www.mythsoc.org/mythcon.htm" rel="noreferrer noopener" target="_blank">Trang web Mythcon</a>
     - <a class="external text" href="https://www.mythsoc.org/mythcon/mythcon-40.htm" rel="noreferrer noopener" target="_blank">Trang web Mythcon 40</a>
     - Báo cáo:
-        - <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?post=204973" rel="noreferrer noopener" target="_blank">Báo cáo Mythcon 40 của Voronwë the Faithful</a> trên [TheOneRing.net](../T/TheOneRing.net.md)
+        - <a class="external text" href="http://newboards.theonering.net/forum/gforum/perl/gforum.cgi?post=204973" rel="noreferrer noopener" target="_blank">Voronwë báo cáo Mythcon 40 của Faithful</a> trên [TheOneRing.net](../T/TheOneRing.net.md)
 - <a class="external text" href="http://www.mythsoc.org/" rel="noreferrer noopener" target="_blank">Trang web của Hội Thần thoại</a>

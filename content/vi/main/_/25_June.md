@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 25 tháng 6
 - **[1937](1937.md)** - Tác giả [Timothy J. Wheeler](../T/Timothy_J._Wheeler.md) ra đời.
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 200](../L/Letter_200.md).
 - **[1963](1963.md)** - J.R.R. Tolkien viết [Thư 245](../L/Letter_245.md).
-- **[1989](1989.md)** – Cuộc họp đầu tiên của các thành viên [Hiệp hội ngôn ngữ học Elvish](../E/Elvish_Linguistic_Fellowship.md) diễn ra tại nơi ở của [Bill Welden](../B/Bill_Welden.md).
+- **[1989](1989.md)** – Cuộc họp đầu tiên của các thành viên [Elvish Hiệp hội Ngôn ngữ](../E/Elvish_Linguistic_Fellowship.md) diễn ra tại nơi ở của [Bill Welden](../B/Bill_Welden.md).
 - **[2001](2001.md)** - Nữ diễn viên [Pauline Letts](../P/Pauline_Letts.md) qua đời.
 
 ## Trong Arda {#In_Arda}
@@ -77,7 +77,7 @@ Sự kiện xảy ra vào ngày 25 tháng 6
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Có sự mâu thuẫn rõ ràng về ngày tháng: chương <i><a href="../T/The_Steward_and_the_King.md" title="The Steward and the King">Quản gia và nhà vua</a></i> nói rằng "khi tháng 6 bước vào [cây non] đã nở đầy hoa", ở đây gợi ý rằng Aragorn đã tìm thấy và trồng nó <i>trước</i> Tháng Sáu đã bắt đầu.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Có sự mâu thuẫn rõ ràng về ngày tháng: chương <i><a href="../T/The_Steward_and_the_King.md" title="The Steward and the King">Người Quản Lý và chương Vua</a></i> nói rằng "khi tháng Sáu bước vào [cây non] đã trĩu nặng hoa", ở đây gợi ý rằng Aragorn đã tìm thấy và trồng nó <i>trước khi</i> tháng 6 bắt đầu.</span>
 </li>
 </ol></div></span>
 

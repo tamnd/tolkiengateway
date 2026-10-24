@@ -49,15 +49,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Lída_Holubová_-_Bottle.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/71/L%C3%ADda_Holubov%C3%A1_-_Bottle.jpg/320px-L%C3%ADda_Holubov%C3%A1_-_Bottle.jpg" decoding="async" loading="lazy" width="320" height="434" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/71/L%C3%ADda_Holubov%C3%A1_-_Bottle.jpg/480px-L%C3%ADda_Holubov%C3%A1_-_Bottle.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/71/L%C3%ADda_Holubov%C3%A1_-_Bottle.jpg/640px-L%C3%ADda_Holubov%C3%A1_-_Bottle.jpg 2x" data-file-width="1024" data-file-height="1388"/></a><figcaption>&#34;Bottle&#34; by <a href="../../category/I/Images_by_Lída_Holubová.md" title="Category:Images by Lída Holubová">Lída Holubová</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../S/Silvan_Elves.md" title="Silvan Elves">Silvan Elf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Galion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data">Butler</td></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">King&#39;s butler</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../E/Elvenking&#39;s_Halls.md" title="Elvenking&#39;s Halls">Elvenking&#39;s Halls</a>, <a href="../W/Woodland_Realm.md" title="Woodland Realm">Woodland Realm</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../E/Elves_of_Mirkwood.md" title="Elves of Mirkwood">Elves of Mirkwood</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../S/Silvan_Elvish.md" title="Silvan Elvish">Silvan Elvish</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Galion.md" title="Category:Images of Galion">Images of Galion</a></td></tr></tbody></table>
 
-**Galion** là một [Yêu tinh rừng](../S/Silvan_Elves.md) phục vụ với tư cách là quản gia của nhà vua trong [các đại sảnh](../T/Thranduil.md) [của Thranduil](../E/Elvenking's_Halls.md) ở [Vương quốc Rừng](../W/Woodland_Realm.md) phía đông bắc [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-barrels_1-0" class="reference"><a href="#cite_note-barrels-1">[1]</a></sup>
+**Galion** là một [Wood-Tiên](../S/Silvan_Elves.md) từng là quản gia của nhà vua trong [Thranduil s](../T/Thranduil.md) [đại sảnh](../E/Elvenking's_Halls.md) ở [Vương quốc Rừng](../W/Woodland_Realm.md) phía đông bắc [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-barrels_1-0" class="reference"><a href="#cite_note-barrels-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Galion phục vụ Vua [Thranduil](../T/Thranduil.md) và có lẽ là con trai của Thranduil, [Legolas](../L/Legolas.md). Một buổi tối ở [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, Galion và đội trưởng đội cận vệ quyết định nếm thử một ít rượu mới mới được chuyển đến để "*xem nó có phù hợp với bàn ăn của nhà vua không*". Trò chơi cổ điển mạnh mẽ từ [Dorwinion](../D/Dorwinion.md) nhanh chóng khiến hai Yêu tinh chìm vào giấc ngủ, điều này tạo cơ hội cho [Bilbo Baggins](../B/Bilbo_Baggins.md) giải thoát [Thorin](../T/Thorin.md) và [những Người lùn khác](../T/Thorin_and_Company.md), tất cả đều đã bị giam giữ trong ngục tối của Thranduil trong [Quest of Erebor](../Q/Quest_of_Erebor.md). Sử dụng chìa khóa của người bảo vệ trưởng và [Chiếc nhẫn ma thuật](../O/One_Ring.md) của mình, Bilbo đã giải thoát [Người lùn](../D/Dwarves.md) và giấu họ vào một số thùng rỗng. Khi các Yêu tinh khác đến để đẩy những chiếc thùng xuống [Sông Rừng](../F/Forest_River.md) - chảy qua [Sảnh của Vua Elven](../E/Elvenking's_Halls.md) và cuối cùng dẫn đến [Hồ Dài](../L/Long_Lake.md) - họ đã tìm thấy Galion và đánh thức ông ta. Nhận thấy sức nặng của một số thùng "rỗng", Galion gầm gừ với công nhân và ra lệnh cho họ đẩy thùng xuống nước.<sup id="cite_ref-barrels_1-1" class="reference"><a href="#cite_note-barrels-1">[1]</a></sup>
+Galion phục vụ Vua [Thranduil](../T/Thranduil.md) và có lẽ là con trai của Thranduil, [Legolas](../L/Legolas.md). Một buổi tối ở [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>, Galion và đội trưởng đội cận vệ quyết định nếm thử một ít rượu mới mới được chuyển đến để "*xem nó có phù hợp với bàn ăn của nhà vua không*". Trò chơi cổ điển mạnh mẽ của [Dorwinion](../D/Dorwinion.md) nhanh chóng khiến cả hai Tiên tộc chìm vào giấc ngủ, điều này tạo cơ hội cho [Bilbo Baggins](../B/Bilbo_Baggins.md) anh giải thoát [Thorin](../T/Thorin.md) và [người còn lại Người Lùn](../T/Thorin_and_Company.md), tất cả đều đã bị giam trong ngục tối của Thranduil trong [Nhiệm vụ của Erebor](../Q/Quest_of_Erebor.md). Sử dụng chìa khóa của người bảo vệ trưởng và [Chiếc nhẫn ma thuật](../O/One_Ring.md) của ông ta, Bilbo đã giải phóng [Người Lùn](../D/Dwarves.md) và giấu chúng vào một số thùng rỗng. Khi những Tiên tộc khác đến để đẩy những chiếc thùng vào [Forest River](../F/Forest_River.md) - chảy qua Sảnh của [Vua Tiên](../E/Elvenking's_Halls.md) và cuối cùng dẫn đến [Long Lake](../L/Long_Lake.md) - họ tìm thấy Galion và đánh thức ông ta. Nhận thấy sức nặng của một số thùng "rỗng", Galion gầm gừ với công nhân và ra lệnh cho họ đẩy thùng xuống nước.<sup id="cite_ref-barrels_1-1" class="reference"><a href="#cite_note-barrels-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Galion* được cho là *not* [Sindarin](../S/Sindarin.md), mặc dù có lẽ có hình dạng "'Sindarized'".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+Tên *Galion* được cho là *not* [Sindarin](../S/Sindarin.md), mặc dù có lẽ có hình dạng "'Sindar hóa'.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -85,11 +85,11 @@ Tên *Galion* được cho là *not* [Sindarin](../S/Sindarin.md), mặc dù có
 		</li>
 </ul>
 
-<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>Người Hobbit</i> (loạt phim phát thanh năm 1968)</a>:</b>
+<b>1968: <a href="../T/The_Hobbit_(1968_radio_series).md" title="The Hobbit (1968 radio series)"><i>The Hobbit</i> (loạt phim phát thanh 1968)</a>:</b>
 
 <dl><dd><a class="new" href="https://tolkiengateway.net/w/index.php?title=Peter_Baldwin&amp;action=edit&amp;redlink=1" title="Peter Baldwin (page does not exist)">Peter Baldwin</a> provided the voice of Galion.</dd></dl>
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>Galion is not explicitly identified. Instead, he is one of two elves whom Bilbo observes getting drunk.</dd></dl>
 
@@ -97,19 +97,19 @@ Tên *Galion* được cho là *not* [Sindarin](../S/Sindarin.md), mặc dù có
 
 <dl><dd>Galion is played by Heinz Theo Branding.</dd></dl>
 
-<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
+<b>1982: <a href="../T/The_Hobbit_(1982_video_game).md" title="The Hobbit (1982 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 1982)</a>:</b>
 
 <dl><dd>The game features an NPC simply known as &#34;Butler&#34; that appears in the Elvenking&#39;s halls, where he empties wine barrels to send back down the river, but he will throw the party members in the dungeons if he spots them. It is also possible for him to be killed, either by the player or one of their companions.</dd></dl>
 
-<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>Người Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
+<b>2003: <a href="../T/The_Hobbit_(2003_video_game).md" title="The Hobbit (2003 video game)"><i>The Hobbit</i> (trò chơi điện tử năm 2003)</a>:</b>
 
 <dl><dd>This video game depicts only Galion, and not the Captain of the Guard. The butler does not succumb to drunkenness, but because Bilbo puts three herbs - Moonleaf, Willowweed and Spider&#39;s Bane - in his mug. This change was possibly made to ensure a more favourable <a class="extiw" href="http://en.wikipedia.org/wiki/Video_game_content_rating_system" title="wikipedia:Video game content rating system">game rating</a>.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">Người Hobbit: Sự tàn phá của Smaug</a>:</i></b>
+<b>2013: <i><a href="../T/The_Hobbit%253A_The_Desolation_of_Smaug.md" title="The Hobbit: The Desolation of Smaug">The Hobbit: The Desolation of Smaug</a>:</i></b>
 
 <dl><dd>Galion is portrayed by Craig Hall. He is briefly seen by <a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo</a> (while he&#39;s wearing <a href="../T/The_One_Ring.md" title="The One Ring">the One Ring</a>) in the cellars of the <a href="../E/Elvenking&#39;s_Halls.md" title="Elvenking&#39;s Halls">Elvenking&#39;s Halls</a> praising the selections of wine. He invites <a href="../C/Chief_of_the_guards.md" title="Chief of the guards">Elros</a> to drink with him, and they both end up passing out, allowing Bilbo and the <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Dwarves</a> to escape through the cellars.</dd></dl>
 
-<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2017: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Galion can be found in King <a href="../T/Thranduil.md" title="Thranduil">Thranduil&#39;s</a> <a href="../E/Elvenking&#39;s_Halls.md" title="Elvenking&#39;s Halls">halls of Felegoth</a>.</dd></dl>
 

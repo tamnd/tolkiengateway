@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lost Realm of Cardolan"
 ---
 
-Chuyển hướng tới [Vương quốc Cardolan đã mất](../L/Lost_Realm_of_Cardolan.md).
+Chuyển hướng đến [Vương quốc đã mất của Cardolan](../L/Lost_Realm_of_Cardolan.md).

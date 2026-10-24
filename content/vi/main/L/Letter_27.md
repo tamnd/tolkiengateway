@@ -34,15 +34,15 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Houghton Mifflin dường như đã yêu cầu Tolkien vẽ các bức vẽ về người Hobbit cho một số ấn bản *[The Hobbit](../T/The_Hobbit.md)* trong tương lai. Sau đây tóm tắt một đoạn trích từ một lá thư dường như được gửi cho họ.
+Houghton Mifflin dường như đã yêu cầu Tolkien bản vẽ của Hobbit cho một phiên bản tương lai của *[The Hobbit](../T/The_Hobbit.md)*. Sau đây tóm tắt một đoạn trích từ một lá thư dường như được gửi cho họ.
 
-Tolkien nói rằng những bức vẽ như vậy nên được giao cho người có thể vẽ và nói rằng những bức tranh của chính ông là một hướng dẫn không an toàn. Sau đó, ông đưa ra hướng dẫn bằng lời nói cho các họa sĩ minh họa, cảnh báo rằng người hobbit khá giống con người chứ không phải là một con thỏ “thần tiên”. Họ nên được miêu tả với cái bụng béo, đôi chân ngắn, khuôn mặt tròn và vui vẻ, đôi tai hơi nhọn và mái tóc ngắn uốn xoăn màu nâu. Bàn chân của chúng phải được phủ lông từ mắt cá chân trở xuống. Quần áo hobbit điển hình (dành cho nam giới) đã được mô tả. Kích thước, quan trọng nếu các vật thể khác được hiển thị, phải cao từ 3 đến 3 feet rưỡi. Trong [bức tranh của chính Tolkien](<../../file/J/J.R.R._Tolkien_-_Conversation_with_Smaug_(large).jpg.md>) về [Bilbo](../B/Bilbo_Baggins.md) trong kho vàng, người hobbit được vẽ quá lớn, nhưng lý do cơ bản là ông ta ở trong một "mặt phẳng" riêng biệt, vô hình.
+Tolkien tuyên bố rằng những bức vẽ như vậy nên được giao cho người có thể vẽ và nói rằng những bức tranh của chính ông ta là một hướng dẫn không an toàn. Sau đó, ông đưa ra hướng dẫn bằng lời nói cho các họa sĩ minh họa, cảnh báo rằng người hobbit khá giống con người chứ không phải là một con thỏ “thần tiên”. Họ nên được miêu tả với cái bụng béo, đôi chân ngắn, khuôn mặt tròn và vui vẻ, đôi tai hơi nhọn và mái tóc ngắn uốn xoăn màu nâu. Bàn chân của chúng phải được phủ lông từ mắt cá chân trở xuống. Quần áo hobbit điển hình (dành cho nam giới) đã được mô tả. Kích thước, quan trọng nếu các vật thể khác được hiển thị, phải cao từ 3 đến 3 feet rưỡi. Trong bức tranh của chính [Tolkien](<../../file/J/J.R.R._Tolkien_-_Conversation_with_Smaug_(large).jpg.md>) chụp [Bilbo](../B/Bilbo_Baggins.md) trong kho vàng, người hobbit được vẽ quá lớn, nhưng lý do cơ bản là ông ta ở trong một "mặt phẳng" riêng biệt, vô hình.
 
-Tolkien cũng nói rằng mặc dù không đề cập đến việc Bilbo đi ủng trong văn bản, nhưng ông đã mua được chúng ở [Rivendell](../R/Rivendell.md) và chỉ không mang giày trở lại sau khi rời Rivendell trên đường về nhà. Tuy nhiên, Tolkien đã nói rằng vì việc cởi giày là một tính năng thiết yếu của người Hobbit nên Bilbo phải xuất hiện ở trạng thái không khởi động, ngoại trừ trong các hình minh họa đặc biệt của các tập phim.
+Tolkien cũng tuyên bố rằng mặc dù không đề cập đến việc Bilbo đi ủng trong văn bản, nhưng ông đã mua chúng ở [Rivendell](../R/Rivendell.md) và chỉ không mang giày nữa sau khi rời khỏi Rivendell trên đường về nhà. Tuy nhiên, Tolkien đã nói rằng vì việc tháo ổ cắm là một tính năng thiết yếu của người hobbit nên Bilbo phải có vẻ như chưa được khởi động ngoại trừ trong các hình minh họa đặc biệt của các tập phim.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Cuối thư Tolkien cảm ơn vì đã nhận thêm sáu bản *The Hobbit*, và cả bản sao quảng cáo.
+Cuối thư Tolkien cảm ơn vì đã nhận thêm sáu bản *The Hobbit*, và cả một bản quảng cáo.
 
 <br>
 

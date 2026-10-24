@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_116.md" title="First Age 116">116</a><a href="First_Age_150.md" title="First Age 150">150</a><a href="First_Age_155.md" title="First Age 155">155</a><a class="mw-selflink selflink">260</a><a href="First_Age_262.md" title="First Age 262">262</a><a href="First_Age_272.md" title="First Age 272">272</a><a href="First_Age_282.md" title="First Age 282">282</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 260** (viết tắt là **F.A. 260**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 260 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 260** (viết tắt là **F.A. 260**) là năm [thứ 260 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Glaurung](../G/Glaurung.md) lần đầu tiên xuất hiện từ [Angband](../A/Angband.md), nhưng bị [Fingon](Fingon.md) đẩy lùi.<sup id="cite_ref-GA260_1-0" class="reference"><a href="#cite_note-GA260-1">[1]</a></sup> [Hòa bình lâu dài](../L/Long_Peace.md) bắt đầu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- Vào khoảng thời gian này, [Telchar](../T/Telchar.md) rèn [Mũ trụ rồng](../D/Dragon-helm_of_Dor-lómin.md) cho chúa tể người lùn [Azaghâl](../A/Azaghâl.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- [Glaurung](../G/Glaurung.md) lần đầu tiên xuất hiện từ [Angband](../A/Angband.md), nhưng bị [Fingon](Fingon.md) đẩy lùi.<sup id="cite_ref-GA260_1-0" class="reference"><a href="#cite_note-GA260-1">[1]</a></sup> [Thời kỳ Hòa bình Dài lâu](../L/Long_Peace.md) bắt đầu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Vào khoảng thời gian này, [Telchar](../T/Telchar.md) rèn [Mũ Rồng](../D/Dragon-helm_of_Dor-lómin.md) cho chúa tể người lùn [Azaghâl](../A/Azaghâl.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

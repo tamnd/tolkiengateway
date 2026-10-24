@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Sau quyết định xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [Allen & Unwin](../A/Allen_and_Unwin.md), Tolkien đã viết rằng ông không thể thực hiện được trước thời hạn đã thỏa thuận ([25 tháng 3](../_/25_March.md)). [Edith](../E/Edith_Tolkien.md) bị ốm, và phần lớn thời gian của Giáo sư dành cho việc tìm cho cô một ngôi nhà trên đất cao, khô ráo và yên tĩnh. Sau đó, Tolkien gợi ý rằng ông có thể gửi cuốn sách đầu tiên và vì ông có thêm thời gian trong những tháng tiếp theo nên hãy sắp xếp phần còn lại sau.
+Sau quyết định xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của [Allen &amp; Unwin](../A/Allen_and_Unwin.md), Tolkien đã viết rằng ông không thể thực hiện được trước thời hạn đã thỏa thuận ([Ngày 25 tháng 3](../_/25_March.md)). [Edith](../E/Edith_Tolkien.md) bị ốm, và phần lớn thời gian của Giáo sư dành cho việc tìm cho cô một ngôi nhà trên đất cao, khô ráo và yên tĩnh. Tolkien sau đó gợi ý rằng ông có thể gửi cuốn sách đầu tiên, và vì ông có thêm thời gian trong những tháng tiếp theo nên hãy sắp xếp phần còn lại sau.
 
 Trong một bài viết kịch bản, ông đã đề xuất hai bộ tên cho các cuốn sách. Trong tập đầu tiên, tên của sáu cuốn sách sẽ là *The Ring Sets out*, *The Ring Goes South*, *The Treason of Isengard*, *The Ring goes* (sic) *East*, *The War of the Ring* và *The End of the Third Age*. Trong tập thứ hai, tiêu đề dành cho ba tập. Chúng sẽ là *The Shadow Grows*, *The Ring in the Shadow* và đối với tập thứ ba là *The War of the Ring* hoặc *The Return of the King*. Một số tiêu đề này sẽ được sử dụng cho *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*.
 

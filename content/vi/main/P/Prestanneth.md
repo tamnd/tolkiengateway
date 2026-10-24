@@ -14,9 +14,9 @@ categories:
   - "Linguistic terms"
 ---
 
-<i><b>prestanneth</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "tình cảm" của các nguyên âm.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>prestannet</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "tình cảm" của các nguyên âm.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-Từ *prestanneth* thường được sử dụng như một thuật ngữ ngôn ngữ học [Tân Sindarin](../N/Neo-Elvish.md) trong các cuộc thảo luận về hiện tượng [tình cảm nguyên âm](../S/Sindarin.md#Pluralization).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Từ *prestanneth* thường được sử dụng như một thuật ngữ ngôn ngữ [Tân-Sindarin](../N/Neo-Elvish.md) trong các cuộc thảo luận về hiện tượng [nguyên âm tình cảm](../S/Sindarin.md#Pluralization).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

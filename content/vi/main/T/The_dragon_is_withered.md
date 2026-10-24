@@ -38,7 +38,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-“**Con rồng héo úa**” là dòng đầu tiên của bài thơ nằm trong chương “[Giai đoạn cuối cùng](The_Last_Stage.md)” của *[The Hobbit](The_Hobbit.md)*. Bài thơ được hát bởi [Yêu tinh](../E/Elves.md) của [Rivendell](../R/Rivendell.md) khi [Bilbo](../B/Bilbo.md) và [Gandalf](../G/Gandalf.md) trở về [the Shire](The_Shire.md) từ [Erebor](../E/Erebor.md) khi kết thúc cuộc hành trình của họ.
+“**Rồng héo**” là dòng đầu tiên của bài thơ nằm trong chương “[Giai đoạn cuối cùng](The_Last_Stage.md)” của *[The Hobbit](The_Hobbit.md)*. Bài thơ được hát bởi [Tiên tộc](../E/Elves.md) của [Rivendell](../R/Rivendell.md) khi [Bilbo](../B/Bilbo.md) và [Gandalf](../G/Gandalf.md) trở về [the Shire](The_Shire.md) từ [Erebor](../E/Erebor.md) ở cuối cuộc hành trình của họ.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

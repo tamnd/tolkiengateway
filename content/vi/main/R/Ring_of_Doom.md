@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Ring of Doom** là tên được áp dụng cho cả [One Ring](../O/One_Ring.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Máhanaxar](../M/Máhanaxar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Vòng Phán xét** là tên được áp dụng cho cả [One Ring](../O/One_Ring.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [Máhanaxar](../M/Máhanaxar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

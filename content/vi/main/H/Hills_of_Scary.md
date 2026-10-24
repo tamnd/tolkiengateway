@@ -26,11 +26,11 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Hills_of_Scary.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_Online_-_Hills_of_Scary.jpg/300px-The_Lord_of_the_Rings_Online_-_Hills_of_Scary.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_Online_-_Hills_of_Scary.jpg/450px-The_Lord_of_the_Rings_Online_-_Hills_of_Scary.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f4/The_Lord_of_the_Rings_Online_-_Hills_of_Scary.jpg/600px-The_Lord_of_the_Rings_Online_-_Hills_of_Scary.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Hills of Scary in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Những ngọn đồi của Scary** là một dãy đồi nhỏ ở phần phía bắc của [Eastfarthing](../E/Eastfarthing.md) ở [the Shire](../T/The_Shire.md), gần thị trấn [Scary](../S/Scary.md), nơi họ lấy tên như vậy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong [War of the Ring](../W/War_of_the_Ring.md) một nhóm phiến quân [Hobbit](Hobbits.md), bao gồm [Fredegar Bolger](../F/Fredegar_Bolger.md), đã ẩn náu trong [Brockenbores](../B/Brockenbores.md) gần những ngọn đồi ở Scary cho đến khi [Bọn côn đồ](../R/Ruffians.md) tiêu diệt chúng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Những ngọn đồi ** Scary** là một dãy đồi nhỏ ở phần phía bắc của [Eastfarthing](../E/Eastfarthing.md) ở [ Shire](../T/The_Shire.md), gần thị trấn [Scary](../S/Scary.md), nơi họ lấy tên như vậy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) một nhóm phiến quân [Hobbit](Hobbits.md), bao gồm [Fredegar Bolger](../F/Fredegar_Bolger.md), đã ẩn náu trong [Brockenbores](../B/Brockenbores.md) gần những ngọn đồi ở Scary cho đến khi [Ruffians](../R/Ruffians.md) hút hết chúng.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Hills are located around the <a href="../S/Scary.md" title="Scary">Scary</a> and its rock quarry.</dd></dl>
 

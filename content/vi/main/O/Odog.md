@@ -39,7 +39,7 @@ sort_keys:
 
 **odog** là số bảy (7, VII) trong [Sindarin](../S/Sindarin.md).
 
-Trong [Noldorin](../N/Noldorin.md), tiền thân của Sindarin, "bảy" là <i><b>odog</b></i>. Từ này bắt nguồn từ [gốc](../S/Sundocarme.md) OT- (OTOS, OTOK).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong [Noldorin](../N/Noldorin.md), tiền thân của Sindarin, "seven" là <i><b>odog</b></i>. Từ này bắt nguồn từ [gốc](../S/Sundocarme.md) OT- (OTOS, OTOK).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

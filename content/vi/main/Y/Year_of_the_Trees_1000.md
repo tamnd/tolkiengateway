@@ -23,19 +23,19 @@ langlinks:
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Hội đồng [Valar](../V/Valar.md) nắm giữ, dành cho [Yavanna](Yavanna.md) và [Oromë](../O/Oromë.md) báo cáo rằng [Melkor](../M/Morgoth.md) có thể nắm quyền một lần nữa. Họ thảo luận về sự sắp tới của [Những đứa trẻ của Ilúvatar](../C/Children_of_Ilúvatar.md) và liệu có nên mang ánh sáng đến [Trung Địa](../M/Middle-earth.md) hay không.<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
+- Hội đồng [Valar](../V/Valar.md) tổ chức, vì [Yavanna](Yavanna.md) và [Oromë](../O/Oromë.md) báo cáo rằng [Melkor](../M/Morgoth.md) có thể tăng quyền lực một lần nữa. Họ thảo luận về sự sắp tới của [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md) và liệu có nên đưa [Trung Địa](../M/Middle-earth.md) ra ánh sáng hay không.<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 - Trong 50 năm tiếp theo, [Varda](../V/Varda.md) sử dụng ánh sáng từ [Telperion](../T/Telperion.md) để tạo hình các ngôi sao mới và sắp xếp chúng (và những ngôi sao đã được tạo thành) thành các chòm sao. Chòm sao vĩ đại nhất trong số này là [Menelmacar](../M/Menelmacar.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
-- Khoảng một thời gian trước khi [Sự thức tỉnh](../A/Awakening_of_the_Elves.md) của [Yêu tinh](../E/Elves.md), [Aulë](../A/Aulë.md) đã bí mật tạo ra 7 [Người cha](../F/Fathers_of_the_Dwarves.md) của [Người lùn](../D/Dwarves.md) và 6 người phối ngẫu của họ. [Ilúvatar](../I/Ilúvatar.md) nhận nuôi chúng và đưa chúng vào giấc ngủ.<sup id="cite_ref-Dwarves_2-0" class="reference"><a href="#cite_note-Dwarves-2">[2]</a></sup>
+- Khoảng một thời gian trước khi [Sự thức tỉnh](../A/Awakening_of_the_Elves.md) của [Tiên tộc](../E/Elves.md), [Aulë](../A/Aulë.md) đã bí mật tạo ra 7 [Người cha](../F/Fathers_of_the_Dwarves.md) của [Người Lùn](../D/Dwarves.md) và 6 người phối ngẫu của họ. [Ilúvatar](../I/Ilúvatar.md) nhận nuôi chúng và đưa chúng vào giấc ngủ.<sup id="cite_ref-Dwarves_2-0" class="reference"><a href="#cite_note-Dwarves-2">[2]</a></sup>
 
 ## Phiên bản khác của truyền thuyết {#Other_version_of_the_legendarium}
 
-- Một ngày thay thế cho sự [Sự thức tỉnh](../A/Awakening_of_the_Elves.md) của [Yêu tinh](../E/Elves.md), Con đầu lòng [Những đứa con của Ilúvatar](../C/Children_of_Ilúvatar.md), tại bờ biển [Cuiviénen](../C/Cuiviénen.md), theo [phiên bản Thế giới tròn](../R/Round_World_version_of_the_legendarium.md) của *[The Silmarillion](../T/The_Silmarillion.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
-- [Thời đại đầu tiên](../F/First_Age.md) bắt đầu.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+- Một ngày thay thế cho sự [Sự thức tỉnh](../A/Awakening_of_the_Elves.md) của [Tiên tộc](../E/Elves.md), Con đầu lòng [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md), tại bờ biển [Cuiviénen](../C/Cuiviénen.md), theo [phiên bản Thế giới tròn](../R/Round_World_version_of_the_legendarium.md) của *[The Silmarillion](../T/The_Silmarillion.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
+- [Kỷ Đệ Nhất](../F/First_Age.md) bắt đầu.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Trong quan niệm cụ thể này, <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> đã thay đổi độ dài của một <a href="../V/Valian_Years.md" title="Valian Years">Năm Valian</a> thành 144 <a href="Years_of_the_Sun.md" title="Years of the Sun">năm dương lịch</a> (là độ dài của một <i><a href="Yén.md" title="Yén">yén</a></i>, một 'năm dài' của Tiên.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Trong quan niệm cụ thể này, <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> đã thay đổi độ dài của một <a href="../V/Valian_Years.md" title="Valian Years">Năm Valian</a> thành 144 <a href="Years_of_the_Sun.md" title="Years of the Sun">năm dương lịch</a> (là độ dài của một <i><a href="Yén.md" title="Yén">yén</a></i>, một Elvish 'năm dài').</span>
 </li>
 </ol></div></span>
 

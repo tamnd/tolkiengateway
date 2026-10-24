@@ -33,7 +33,7 @@ infobox:
 **Mythcon 29** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 29.
 
 - **Chủ đề: "**[C.S. Lewis](../C/C.S._Lewis.md): Lễ kỷ niệm 100 năm"
-- **Khách mời danh dự:** Paul F. Ford (học giả Lewis) và [Verlyn Flieger](../V/Verlyn_Flieger.md) (học giả Inklings)
+- **Khách mời danh dự:** Paul F. Ford (học giả Lewis) và [Verlyn Flieger](../V/Verlyn_Flieger.md) (học giảInklings)
 - **Chủ tịch:** [Diana Glyer](../D/Diana_Glyer.md)
 
 ## Liên kết ngoài {#External_links}

@@ -47,9 +47,9 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Road_Goes_Ever_On_(1968).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/250px-The_Road_Goes_Ever_On_%281968%29.jpg" decoding="async" loading="lazy" width="250" height="314" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/375px-The_Road_Goes_Ever_On_%281968%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d5/The_Road_Goes_Ever_On_%281968%29.jpg/500px-The_Road_Goes_Ever_On_%281968%29.jpg 2x" data-file-width="804" data-file-height="1011"/></a><figcaption>Cover of <i><a href="../T/The_Road_Goes_Ever_On_(book).md" title="The Road Goes Ever On (book)">The Road Goes Ever On</a></i> including the text of the <i>Namárië</i> with <a href="../T/Tengwar.md" title="Tengwar">Tengwar</a>.</figcaption></figure>
 
-**Namárië**, còn được gọi là **Lời than thở của Galadriel**, **Altariello nainië Lóriendessë** (Quenya cho "Lời than thở của Galadriel ở Lórien"),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và đôi khi **Bài hát của Yêu tinh bên kia biển**, là [Quenya](../Q/Quenya.md) dài nhất văn bản trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+**Namárië**, còn được gọi là Lời than thở của **Galadriel**, **Altariello nainië Lóriendessë** (Quenya cho lời than thở của "Galadriel trong Lórien"),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và đôi khi **Bài hát của Tiên tộc Beyond the Biển**, là văn bản [Quenya](../Q/Quenya.md) dài nhất trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
-Bài thơ đã được [Donald Swann](../D/Donald_Swann.md) phổ nhạc. Bản nhạc và bản ghi âm là một phần của *[The Road Goes Ever On, A Song Cycle](<../T/The_Road_Goes_Ever_On_(book).md>)*.
+Bài thơ đã được phổ nhạc bởi [Donald Swann](../D/Donald_Swann.md). Bản nhạc và bản ghi âm là một phần của *[The Road Goes Ever On, A Song Cycle](<../T/The_Road_Goes_Ever_On_(book).md>)*.
 
 ## Bài thơ {#Poem}
 
@@ -106,7 +106,7 @@ Maybe even thou shalt find it. Farewell!
 
 ## Từ nguyên {#Etymology}
 
-Từ *namárië* có nghĩa là "tạm biệt" trong Quenya.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Từ này có thể được phân tích là *[ná-](Ná-.md)* + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=M%C3%A1ri%C3%AB&amp;action=edit&amp;redlink=1" title="Márië (page does not exist)">márië</a></i>, là một lời chúc phúc và có nghĩa đen là "khỏe mạnh".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Từ *namárië* có nghĩa là "tạm biệt" trong Quenya.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Từ này có thể được phân tích là *[ná-](Ná-.md)* + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=M%C3%A1ri%C3%AB&amp;action=edit&amp;redlink=1" title="Márië (page does not exist)">márië</a></i>, là một lời chúc phúc và có nghĩa đen là "bình an".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -114,20 +114,20 @@ Từ *namárië* có nghĩa là "tạm biệt" trong Quenya.<sup id="cite_ref-2"
 
 <dl><dd>Galadriel (portrayed by Soňa Norisová) sings the song in the sixth and final episode of the first series (season), based on <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i>:</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i>:</b>
 
 <dl><dd>Some verses of the song are used in &#34;<a href="../T/The_Great_River_(soundtrack).md" title="The Great River (soundtrack)">The Great River</a>&#34; track by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a>.</dd></dl>
 
 ## Xem thêm {#See_also}
 
 - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Donald Swann](../D/Donald_Swann.md), *[The Road Goes Ever On](<../T/The_Road_Goes_Ever_On_(book).md>)*
-- [Bài hát của Galadriel](../G/Galadriel's_Song.md)
+Bài hát của - [Galadriel](../G/Galadriel's_Song.md)
 - [Thơ trong *The Lord of the Rings*](../P/Poems_in_The_Lord_of_the_Rings.md)
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://folk.uib.no/hnohf/namarie.htm" rel="noreferrer noopener" target="_blank">Phân tích từng từ</a> của [Ardalambion](../A/Ardalambion.md)
-- “Dòng chữ Quenya: *Sí man i·yulmar men enquantuva?*”: [Lambengolmor](<../L/Lambengolmor_(mailing_list).md>) <a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3605acad32fd587a3a91" rel="noreferrer noopener" target="_blank">tin nhắn #11.34</a> ([Beregond, Anders Stenström](../A/Anders_Stenström.md)) và <a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3605acad32fd587a3a92" rel="noreferrer noopener" target="_blank">tin nhắn #11.35</a> ([Carl F. Hostetter](../C/Carl_F._Hostetter.md)). Bản gốc xuất hiện trong <a class="external text" href="https://web.archive.org/web/20130604060832/http://www.bloomsburyauctions.com/PDF/36055.pdf" rel="noreferrer noopener" target="_blank">danh mục Bán hàng kỷ niệm 30 năm thành lập cuộc đấu giá Bloomsbury</a>, tr. 159
+- “Quenya dòng chữ: *Sí man i·yulmar men enquantuva?*”: [Lambengolmor](<../L/Lambengolmor_(mailing_list).md>) <a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3605acad32fd587a3a91" rel="noreferrer noopener" target="_blank">tin nhắn #11.34</a> ([Beregond, Anders Stenström](../A/Anders_Stenström.md)) và <a class="external text" href="https://tolkienlistsearch.herokuapp.com/message/5e9c3605acad32fd587a3a92" rel="noreferrer noopener" target="_blank">tin nhắn #11.35</a> ([Carl F. Hostetter](../C/Carl_F._Hostetter.md)). Bản gốc xuất hiện trong <a class="external text" href="https://web.archive.org/web/20130604060832/http://www.bloomsburyauctions.com/PDF/36055.pdf" rel="noreferrer noopener" target="_blank">danh mục Bán hàng kỷ niệm 30 năm thành lập cuộc đấu giá Bloomsbury</a>, tr. 159
 
 <span></span>
 

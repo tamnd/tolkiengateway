@@ -16,21 +16,21 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_3018.md" title="Third Age 3018">3018</a><a href="Third_Age_3019.md" title="Third Age 3019">3019</a><a href="Third_Age_3020.md" title="Third Age 3020">3020</a><a class="mw-selflink selflink">3021</a><a href="../F/Fourth_Age_1.md" title="Fourth Age 1">1</a><a href="../F/Fourth_Age_2.md" title="Fourth Age 2">2</a><a href="../F/Fourth_Age_4.md" title="Fourth Age 4">4</a></div></div></div></div></div></div>
 
-**Third Age 3021** (abbreviated to **T.A. 3021**) is the 3021st, and last, [year of the Sun](../Y/Years_of_the_Sun.md) of the [Third Age](Third_Age.md) of [Middle-earth](../M/Middle-earth.md). Third Age 3021 was also known as **S.R. 1421** in [Shire-reckoning](../S/Shire-reckoning.md). In the reckoning of [Gondor](../G/Gondor.md) the [Fourth Age](../F/Fourth_Age.md) began on [25 March](../_/25_March.md); unless otherwise stated, [Tolkien Gateway](Tolkien_Gateway.md) follows Shire-reckoning in that Fourth Age 1 is equivalent to [S.R.](../S/Shire_Reckoning.md) [1422](../F/Fourth_Age_1.md).
+**Kỷ Đệ Tam 3021** (viết tắt là **T.A. 3021**) là năm thứ 3021 và cuối cùng [năm Mặt Trời](../Y/Years_of_the_Sun.md) của [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 3021 còn được gọi là **S.R. 1421** trong [lịch Shire](../S/Shire-reckoning.md). Theo tính toán của [Gondor](../G/Gondor.md) [Kỷ Đệ Tứ](../F/Fourth_Age.md) bắt đầu vào [25 tháng 3](../_/25_March.md); trừ khi có quy định khác, [Tolkien Gateway](Tolkien_Gateway.md) theo sau lịch Shire trong đó Kỷ Đệ Tứ 1 tương đương với [S.R.](../S/Shire_Reckoning.md) [1422](../F/Fourth_Age_1.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Tháng 3 {#March}
 
-- **13** - [Frodo](../F/Frodo_Baggins.md) lại bị ốm do vết thương cũ do [Shelob](../S/Shelob.md) gây ra hai năm trước.<sup id="cite_ref-Chief_1-0" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup>
-- **24** - Ngày cuối cùng của [Thời đại thứ ba](Third_Age.md), theo [Tính toán mới](../N/New_Reckoning.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-Calendars_2-0" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
-- **25** - Con gái [Sam](../S/Samwise_Gamgee.md) [Elanor](../E/Elanor_Gardner.md) chào đời. Sự khởi đầu của [Kỷ nguyên thứ tư](../F/Fourth_Age.md), theo lịch của Gondor.<sup id="cite_ref-Calendars_2-1" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
+- **13** - [Frodo](../F/Frodo_Baggins.md) lại bị bệnh do vết thương cũ do [Shelob](../S/Shelob.md) gây ra hai năm trước.<sup id="cite_ref-Chief_1-0" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup>
+- **24** - Ngày cuối cùng của [Kỷ Đệ Tam](Third_Age.md), theo [Tính toán mới](../N/New_Reckoning.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-Calendars_2-0" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
+- **25** - Con gái của [Sam](../S/Samwise_Gamgee.md) [Elanor](../E/Elanor_Gardner.md) chào đời. Sự khởi đầu của [Kỷ Đệ Tứ](../F/Fourth_Age.md), theo lịch của Gondor.<sup id="cite_ref-Calendars_2-1" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
 
-## Tháng 9 {#September}
+## tháng Chín {#September}
 
-- **21** - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) khởi hành từ [Hobbiton](../H/Hobbiton.md) đến [Grey Havens](../G/Grey_Havens.md).<sup id="cite_ref-Chief_1-1" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup>
-- **22** - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) gặp gỡ [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) ở [Woody End](../W/Woody_End.md).<sup id="cite_ref-Chief_1-2" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup>
-- **29** - Sự khởi hành của [Những người mang nhẫn](../R/Ring-bearers.md) đến [Valinor](../V/Valinor.md). Sự kiện này cũng được cho là đánh dấu sự kết thúc của Thời đại thứ ba.<sup id="cite_ref-Chief_1-3" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup>
+- **21** - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) khởi hành từ [Hobbiton](../H/Hobbiton.md) cho [Cảng Xám](../G/Grey_Havens.md).<sup id="cite_ref-Chief_1-1" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup>
+- **22** - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) gặp [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) trong [Woody End](../W/Woody_End.md).<sup id="cite_ref-Chief_1-2" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup>
+- **29** - Sự khởi hành của [Những người mang nhẫn](../R/Ring-bearers.md) tới [Valinor](../V/Valinor.md). Sự kiện này cũng được cho là đánh dấu sự kết thúc của Kỷ Đệ Tam.<sup id="cite_ref-Chief_1-3" class="reference"><a href="#cite_note-Chief-1">[1]</a></sup>
 
 ## Tháng 10 {#October}
 

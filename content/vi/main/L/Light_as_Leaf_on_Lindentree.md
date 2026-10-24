@@ -11,4 +11,4 @@ redirect_target: "Song of Beren and Lúthien"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng đến [Bài hát của Beren và Lúthien](../S/Song_of_Beren_and_Lúthien.md#Other_versions_of_the_legendarium).
+Chuyển hướng tới [Bài hát của Beren and Lúthien](../S/Song_of_Beren_and_Lúthien.md#Other_versions_of_the_legendarium).

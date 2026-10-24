@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_414.md" title="First Age 414">414</a><a href="First_Age_415.md" title="First Age 415">415</a><a href="First_Age_416.md" title="First Age 416">416</a><a class="mw-selflink selflink">417</a><a href="First_Age_418.md" title="First Age 418">418</a><a href="First_Age_419.md" title="First Age 419">419</a><a href="First_Age_420.md" title="First Age 420">420</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 417** (viết tắt là **F.A. 417**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 417 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 417** (viết tắt là **F.A. 417**) là năm [thứ 417 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Sự ra đời của [Beleth](../B/Beleth.md).<sup id="cite_ref-WJ_1-0" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:231</sup>
-- Sự ra đời của [Galdor Cao lớn](<../G/Galdor_(Lord_of_Dor-lómin).md>).<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:234</sup>
+- Sự ra đời của [Galdor Người Cao](<../G/Galdor_(Lord_of_Dor-lómin).md>).<sup id="cite_ref-WJ_1-1" class="reference"><a href="#cite_note-WJ-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:234</sup>
 
 <span></span>
 

@@ -13,11 +13,11 @@ categories:
   - "Magazines"
 ---
 
-<b><i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Bookseller" title="wikipedia:The Bookseller">The Bookseller</a></i>, ngày 14 tháng 9 năm 1957</b> đăng bài viết "Giải thưởng Fantasy cho Giáo sư Tolkien" (tr. 1074). Bài viết này đưa tin về bữa tiệc trưa trao giải Giả tưởng Quốc tế được tổ chức vào [10 tháng 9](../_/10_September.md) [1957](../_/1957.md), bao gồm một trích dẫn ngắn gọn từ bài phát biểu nhận giải của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), người đã giành được giải thưởng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<b><i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Bookseller" title="wikipedia:The Bookseller">The Bookseller</a></i>, 14 tháng Chín 1957</b> có bài viết "Giải thưởng Fantasy cho Giáo sư Tolkien" (tr. 1074). Bài viết này, tường thuật về bữa tiệc trưa trao giải Giả tưởng Quốc tế được tổ chức vào [10 tháng Chín](../_/10_September.md) [1957](../_/1957.md), bao gồm một trích dẫn ngắn gọn từ bài phát biểu nhận giải của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), người đã giành được giải thưởng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [*Oxford Mail*, ngày 11 tháng 9 năm 1957](../O/Oxford_Mail,_11_September_1957.md)
+- [*Oxford Mail*, 11 tháng Chín 1957](../O/Oxford_Mail,_11_September_1957.md)
 
 <span></span>
 

@@ -40,13 +40,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn43.png.md"><img src="https://tolkiengateway.net/w/images/thumb/8/85/Mallorn43.png/320px-Mallorn43.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/85/Mallorn43.png/480px-Mallorn43.png 1.5x, https://tolkiengateway.net/w/images/thumb/8/85/Mallorn43.png/640px-Mallorn43.png 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 43</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Len Sanford</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../J/July.md" title="July">July</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">64</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_42.md" title="Mallorn 42">Mallorn 42</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_44.md" title="Mallorn 44">Mallorn 44</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 43</b> là số thứ 43 của tạp chí thường niên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào [tháng 7](../J/July.md) [2005](../_/2005.md).
+<b><i>Mallorn</i> 43</b> là số thứ 43 của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào [tháng 7](../J/July.md) [2005](../_/2005.md).
 
 ## Nội dung {#Contents}
 
 - **Bìa trước**
     - Bởi: [Pauline Baynes](../P/Pauline_Baynes.md)
-- **Giới thiệu về [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)**
+- **Giới thiệu [Hội Tolkien](../T/The_Tolkien_Society.md)**
 - **Biên tập**
     - Bởi: Len Sanford
 
@@ -60,15 +60,15 @@ infobox:
     - Bởi: [John Ellison](../J/John_Ellison.md)
 - "Ghi chú thực vật trên [Mallorn](Mallorn.md)"
     - Bởi: Beth Russell
-- "Arthur và [Aragorn](../A/Aragorn.md): Ảnh hưởng của Arthur ở *The Lord of the Rings*"
+- "Arthur và [Aragorn](../A/Aragorn.md): Ảnh hưởng của Arthur trong *The Lord of the Rings*"
     - Bởi: Richard J. Finn
-- "Lịch sử bài hát: Sự truyền tải ký ức ở [Trung Địa](Middle-earth.md)"
+- "Lịch sử bài hát: Sự truyền tải ký ức trong [Trung Địa](Middle-earth.md)"
     - Bởi: Michael Cunningham
-- "Phụ nữ (và đàn ông) của Tolkien: phim và sách"
+- "Tolkien phụ nữ (và nam giới): phim và sách"
     - Bởi: [Jane Chance](../J/Jane_Chance.md)
 - "[Gandalf](../G/Gandalf.md) trong vai kẻ tra tấn: kẻ khủng bố đánh bom tích tắc và thủ tục tố tụng trong *The Lord of the Rings* của J.R.R. Tolkien"
     - Bởi: Adam Rosman
-- "Tập trung vào niềm vui: Cơn sốt Ring, phiêu lưu, bị bỏ qua và không bị bỏ lại phía sau"
+- "Merry trọng tâm: Về cơn sốt Ring, có những cuộc phiêu lưu, bị bỏ qua và không bị bỏ lại phía sau"
     - Bởi: Hilary Longstaff
 - "Tolkien's Burning Briar - một lời giải thích thiên văn"
     - Bởi: [Kristine Larsen](../K/Kristine_Larsen.md)
@@ -86,4 +86,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/44/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/44/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

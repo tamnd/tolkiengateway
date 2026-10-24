@@ -14,7 +14,7 @@ categories:
   - "Third Age characters"
 ---
 
-**Shagram** là một [Orc](../O/Orc.md) của [Kirith Ungol](../C/Cirith_Ungol.md) trong bản nháp của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-War_1-0" class="reference"><a href="#cite_note-War-1">[1]</a></sup> Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), một Orc được gọi là "old Nûzu" trong các bản nháp thậm chí trước đó cũng giống như Shagram.<sup id="cite_ref-War_1-1" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
+**Shagram** là một [Orc](../O/Orc.md) của [Kirith Ungol](../C/Cirith_Ungol.md) trong bản nháp của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-War_1-0" class="reference"><a href="#cite_note-War-1">[1]</a></sup> Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), một Orc được gọi là "old Nûzu" trong các bản nháp trước đó cũng giống như Shagram.<sup id="cite_ref-War_1-1" class="reference"><a href="#cite_note-War-1">[1]</a></sup>
 
 <span></span>
 

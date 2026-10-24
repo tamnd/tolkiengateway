@@ -49,9 +49,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/55/The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg/320px-The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/55/The_Lord_of_the_Rings_Online-_Shadows_of_Angmar_box.jpg 1.5x" data-file-width="340" data-file-height="480"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Online:<br/>Shadows of Angmar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a> (North America and Europe)<br/><a href="../M/Midway_Games.md" title="Midway Games">Midway Games</a><br/><a href="../C/Codemasters.md" title="Codemasters">Codemasters</a> (Europe, till 2010))<br/><a href="../I/IT_Territory.md" title="IT Territory">IT Territory</a> (Russia)<sup id="cite_ref-Korea_and_Russia_1-0" class="reference"><a href="#cite_note-Korea_and_Russia-1">[1]</a></sup><br/><a href="../N/NHN_Corporation.md" title="NHN Corporation">NHN Corporation</a> (South Korea)<sup id="cite_ref-Korea_and_Russia_1-1" class="reference"><a href="#cite_note-Korea_and_Russia-1">[1]</a></sup><br/><a href="../S/Sakura_Internet.md" title="Sakura Internet">Sakura Internet</a> (Japan, till 2009)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/24_April.md" title="24 April">April 24</a>, <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn trực tuyến: Shadows of Angmar</b></i> là phiên bản phát hành ban đầu của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*, đóng vai trò là tập đầu tiên của trò chơi. Ra mắt vào [24 tháng 4](../_/24_April.md) [2007](../_/2007.md), nó bao gồm Tập I của câu chuyện hoành tráng của trò chơi, bao gồm tất cả nội dung và tính năng được giới thiệu qua các bản cập nhật nội dung miễn phí tiếp theo cho đến khi phát hành bản mở rộng *[Moria](The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md)*. [Turbine](Turbine.md) và [Midway Games, Inc.](../M/Midway_Games,_Inc..md) đã ra mắt trò chơi ở Bắc Mỹ, trong khi [Codemasters](../C/Codemasters.md) xử lý phiên bản châu Âu của trò chơi.
+<i><b>The Lord of the Rings Trực tuyến: Shadows of Angmar</b></i> là phiên bản phát hành ban đầu của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*, đóng vai trò là tập đầu tiên của trò chơi. Ra mắt vào [24 tháng 4](../_/24_April.md) [2007](../_/2007.md), nó bao gồm Tập I của câu chuyện hoành tráng của trò chơi, bao gồm tất cả nội dung và tính năng được giới thiệu qua các bản cập nhật nội dung miễn phí tiếp theo cho đến khi phát hành bản mở rộng *[Moria](The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md)*. [Turbine](Turbine.md) và [Midway Games, Inc.](../M/Midway_Games,_Inc..md) đã ra mắt trò chơi ở Bắc Mỹ, trong khi [Codemasters](../C/Codemasters.md) xử lý phiên bản châu Âu của trò chơi.
 
-Câu chuyện bắt đầu từ đầu *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* Quyển I, Chương III "[Ba là Công ty](Three_is_Company.md)" và kết thúc ở cuối Quyển II, Chương II "[Hội đồng Elrond](The_Council_of_Elrond.md)".
+Câu chuyện bắt đầu từ đầu *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)* Quyển I, Chương III "[Ba là Công ty](Three_is_Company.md)" và kết thúc ở cuối Quyển II, Chương II "[The Hội đồng Elrond](The_Council_of_Elrond.md)".
 
 ## Truyền {#Cast}
 
@@ -86,43 +86,43 @@ Phần mở đầu và sách từ một đến tám đã được đưa vào t�
 
 ### Giới thiệu {#Introduction}
 
-Có năm phần giới thiệu khác nhau tùy thuộc vào chủng tộc của người chơi. Phần giới thiệu về Người lùn, Yêu tinh, Người Hobbit và Đàn ông là phần giới thiệu ban đầu. Phần giới thiệu về Beornings đã được giới thiệu trong bản cập nhật *Gondor Aflame*, dành cho High Elves trong bản mở rộng *[Mordor](The_Lord_of_the_Rings_Online%253A_Mordor.md)* và cho Stout-axes trong bản mở rộng *[Minas Morgul](The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md)*. Chúng được liệt kê ở đây vì cuối cùng chúng được xếp lại thành phần mở đầu ban đầu.
+Có năm phần giới thiệu khác nhau tùy thuộc vào chủng tộc của người chơi. Phần giới thiệu về Người Lùn, Tiên tộc, Hobbit và Con Người là phần giới thiệu ban đầu. Phần giới thiệu về Beornings đã được giới thiệu trong bản cập nhật *Gondor Aflame*, cho High Elves trong bản mở rộng *[Mordor](The_Lord_of_the_Rings_Online%253A_Mordor.md)* và cho Stout-axes trong bản mở rộng *[Minas Morgul](The_Lord_of_the_Rings_Online%253A_Minas_Morgul.md)*. Chúng được liệt kê ở đây vì cuối cùng chúng được xếp lại thành phần mở đầu ban đầu.
 
-#### Người Hobbit và Người {#Hobbit_and_Man}
+#### Hobbit và Người {#Hobbit_and_Man}
 
-Phần giới thiệu Hobbit bắt đầu tại một con đường lúc chạng vạng ở Green Hill Country, xuyên qua trang trại Lá của Old Odo đến một nhà tù cướp ở đâu đó. Sau một cuộc giải cứu bất ngờ, người Hobbit cuối cùng cũng đến được Archet. Phần giới thiệu Race of Men bắt đầu trong một nhà tù ở trại cướp ở đâu đó. Sau một cuộc trốn thoát đầy kịch tính và bạo lực, Người đàn ông cuối cùng đã đến Archet. Từ đó phần giới thiệu của hai chủng tộc hợp nhất.
+The Hobbit phần giới thiệu bắt đầu tại một con đường lúc chạng vạng ở Green Hill Country, xuyên qua trang trại Lá của Old Odo đến một nhà tù cướp ở đâu đó. Sau một cuộc giải cứu bất ngờ, Hobbit cuối cùng cũng kết thúc ở Archet. Phần giới thiệu Cuộc đua Con Người bắt đầu trong một nhà tù ở trại cướp ở đâu đó. Sau một cuộc trốn thoát đầy kịch tính và bạo lực, Người đàn ông cuối cùng đã đến Archet. Từ đó phần giới thiệu của hai chủng tộc hợp nhất.
 
-Người chơi cùng với hai người Hobbit đã trốn thoát khỏi nhà tù brigand với sự trợ giúp của Ranger [Strider](../S/Strider.md) và người bạn [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>) của ông ta. Trong quá trình trốn thoát, Amdir bị một trong những Kỵ sĩ đen đâm chết. Ông ta trông rất xanh xao và Strider lo lắng cho ông ta. Strider muốn tìm sự trợ giúp của ông ta và cảnh báo người dân Archet rằng Blackwolds có ý định đột kích thị trấn. Ông cũng đề cập rằng ông cần tìm Mister Baggins trước khi Black Riders làm điều đó.
+Người chơi cùng với hai Hobbit đã trốn thoát khỏi nhà tù brigand với sự trợ giúp của Ranger [Strider](../S/Strider.md) và người bạn [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>) của ông ta. Trong quá trình trốn thoát, Amdir bị một trong những Kỵ sĩ Đen đâm. Ông trông rất xanh xao và Strider lo lắng cho ông. Strider muốn tìm ông ta để giúp đỡ và cảnh báo người dân Archet rằng Blackwolds có ý định đột kích thị trấn. Ông cũng đề cập rằng ông cần tìm một Mister Baggins trước khi Kỵ sĩ Đen làm điều đó.
 
 Người chơi tìm kiếm Thuyền trưởng Brackenbrook và cảnh báo ông ta về mối đe dọa Blackwold. Tuy nhiên, ông không tin tưởng Rangers mà bạn đang ở cùng và không tin người chơi. Người chơi cố gắng cảnh báo những công dân khác, nhưng không ai tin rằng một cuộc tấn công sắp xảy ra. Strider được thông báo rằng người chơi không thể thuyết phục bất cứ ai rằng họ đang gặp nguy hiểm. Strider yêu cầu người chơi trau dồi kỹ năng để chuẩn bị cho trận chiến.
 
-Sau khi người chơi luyện tập xong, Strider yêu cầu người chơi tìm một số [Kingsfoil](../K/Kingsfoil.md) để chữa trị vết thương cho Amdir. Ông ta cũng đề nghị hỗ trợ Thuyền trưởng Brackenbrook để giành được sự ưu ái của ông ta. Đội trưởng sẽ thông báo cho người chơi nơi một số Lá Kings mọc lên. Ông cũng chấp nhận sự giúp đỡ của bạn, bảo bạn hãy giúp đỡ Calder Cob, người đang gặp vấn đề với bầy sói trong trang trại của ông.
+Sau khi người chơi tập luyện xong, Strider yêu cầu người chơi tìm một số [lá vua](../K/Kingsfoil.md) để chữa vết thương cho Amdir. Ông ta cũng đề nghị hỗ trợ Thuyền trưởng Brackenbrook để giành được sự ưu ái của ông ta. Đội trưởng sẽ thông báo cho người chơi nơi một số Lá Kings mọc lên. Ông cũng chấp nhận sự giúp đỡ của bạn, bảo bạn hãy giúp đỡ Calder Cob, người đang gặp vấn đề với bầy sói trong trang trại của ông.
 
-#### Người lùn và yêu tinh {#Dwarf_and_Elf}
+#### Người lùn và Tiên {#Dwarf_and_Elf}
 
-Khi người chơi Yêu tinh đến thăm Nơi ẩn náu của Edhelion, bị [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) và gia tộc của ông ta tấn công. Chủ nhân Talaga của người chơi, để bảo vệ các di tích yêu tinh mà vua lùn đang tìm kiếm, đã đánh sập thư viện Edhelion của cả ông ta và Skorgrím.
+Khi người chơi Tiên đến thăm Nơi ẩn náu của Edhelion, bị [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) và gia tộc của ông ta tấn công. Chủ nhân Talaga của người chơi, để bảo vệ các di tích yêu tinh mà vua lùn đang tìm kiếm, đã đánh sập thư viện Edhelion của cả ông ta và Skorgrím.
 
-Tuy nhiên, người chơi lùn bắt đầu muộn hơn nhiều, tại mỏ Silverdeep. Anh gặp Gandalf ngay trước khi Thorin và Company lên đường tới Shire để gặp Bilbo. Dourhands và Longbeards hiện đang sống cùng nhau.
+Tuy nhiên, người chơi lùn bắt đầu muộn hơn nhiều, tại mỏ Silverdeep. Ông gặp Gandalf ngay trước khi Thorin và Đoàn tùy tùng lên đường tới Shire để gặp Bilbo. Dourhands và Longbeards hiện đang sống cùng nhau.
 
 Cả hai cốt truyện đều hội tụ nhiều năm sau đó, khi căng thẳng xuất hiện trong mối quan hệ giữa hai nhóm Người lùn, đỉnh điểm là xác của vị vua sa ngã của họ được Ivar the Blood-hand nuôi dưỡng như một xác sống.
 
-#### Yêu tinh cao cấp {#High_Elf}
+#### Cao Tiên {#High_Elf}
 
-Trong phần giới thiệu High Elf, người chơi tham gia vào [Cuộc chiến của Liên minh cuối cùng](../W/War_of_the_Last_Alliance.md). Bị thương nặng bởi Vua phù thủy, người chơi phải mất nhiều năm dưới sự chăm sóc của [Rivendell](../R/Rivendell.md) để hồi phục. Cuối cùng khi đã hồi phục, người chơi khởi hành cuộc hành trình tới [Ered Luin](../E/Ered_Luin.md) cùng với [Elladan và Elrohir](../E/Elladan_and_Elrohir.md).
+Trong phần giới thiệu Cao Tiên, người chơi tham gia [Cuộc chiến của Liên minh Cuối cùng](../W/War_of_the_Last_Alliance.md). Bị Vua Phù thủy trọng thương, người chơi phải mất nhiều năm chăm sóc [Rivendell](../R/Rivendell.md) mới lành lại. Cuối cùng khi đã hồi phục, người chơi khởi hành cuộc hành trình tới [Ered Luin](../E/Ered_Luin.md) cùng với [Elladan và Elrohir](../E/Elladan_and_Elrohir.md).
 
 #### Rìu mập mạp {#Stout-axe}
 
-Khi bắt đầu phần giới thiệu Stout-axe, người chơi là nô lệ [Sauron](../S/Sauron.md). Cuối cùng, người chơi có thể chạy trốn trong một cuộc nổi dậy và tìm nơi ẩn náu giữa các Dourhands. Tuy nhiên, sức mạnh của [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) vừa trỗi dậy và người chơi cùng Dourhand đơn độc tên là Nagli là những người duy nhất từ ​​chối lời kêu gọi của ông ta. Họ kết thúc tại Thorin's Hall để tiếp tục phần mở đầu thông thường của Người lùn.
+Khi bắt đầu phần giới thiệu Stout-axe, người chơi là nô lệ [Sauron](../S/Sauron.md). Cuối cùng, người chơi có thể chạy trốn trong một cuộc nổi dậy và tìm nơi ẩn náu giữa Dourhands. Tuy nhiên, sức mạnh của [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) vừa trỗi dậy và người chơi cùng Dourhand đơn độc tên là Nagli là những người duy nhất từ ​​chối lời kêu gọi của ông ta. Họ kết thúc tại Sảnh của Thorin để tiếp tục phần mở đầu Người lùn thông thường.
 
 #### Sáng sớm {#Beorning}
 
-Người chơi đang dành thời gian rảnh rỗi trên bờ sông [Anduin](../A/Anduin.md) cùng với một [Beorn](../B/Beorn.md) khác tên là Sterkist, anh trai của người chơi. Ông suy ngẫm liệu cuộc sống còn có điều gì thú vị hơn việc dành thời gian để ngắm nhìn dòng sông sau khi hoàn thành công việc nhà. Giọng nói của [Radagast](../R/Radagast.md) vang lên từ nhà nghỉ của [Grimbeorn](../G/Grimbeorn.md). Sterkist thắc mắc điều gì đã đưa ông phù thủy đến nhà họ. Ông ta cử bạn đến Varthmath để xem ông ta có biết câu trả lời không. Nếu biết, ông sẽ không nói với người chơi. Ông ta hướng dẫn người chơi lo việc của mình và đưa con bò sữa trở lại chuồng của mình. Sau khi chăn bò, người chơi gặp Ofolmóth, người nhận xét rằng người chơi đã trở nên mềm yếu. Ông ta thách đấu người chơi trong một cuộc đấu tay đôi. Sau khi đã ăn đủ, ông ta bảo bạn hãy săn lùng những con liềm đang hoành hành trong khu vực. Sau khi đánh bại một số người trong số họ, em gái Langhár của người chơi sẽ thu hút sự chú ý của bạn từ cánh đồng cỏ ba lá gần đó. Hai người quay trở lại nhà nghỉ của Grimbeorn. Trên đường đi, người chơi phát hiện ra yêu tinh. Langhár yêu cầu người chơi cảnh báo những người khác ở lối vào nhà nghỉ. Bạn tìm Sterkist và kể cho ông ta nghe về lũ yêu tinh. Thật bất thường khi họ mạo hiểm đến gần nhà như thế này vì họ sợ Beorn. Bạn tình cờ nghe được Radagast nói chuyện với Grimbeorn nói rằng tin tức về hoạt động bất thường này của yêu tinh cần được chuyển đến những người khác có thể tin cậy được. Radagast muốn ông ta gửi tất cả người thân của mình, nhưng Grimbeorn nói rằng ông ta chỉ có thể tha cho một người, người chơi. Đóng gói một số đồ đạc, người chơi cưỡi ngựa tiến về phía những ngọn núi.
+Người chơi đang dành thời gian nhàn rỗi trên bờ sông [Anduin](../A/Anduin.md) cùng với một [Beorn](../B/Beorn.md) khác tên là Sterkist, anh trai của người chơi. Ông suy ngẫm liệu cuộc sống còn có điều gì thú vị hơn việc dành thời gian để ngắm nhìn dòng sông sau khi hoàn thành công việc nhà. Giọng nói của [Radagast](../R/Radagast.md) vang lên từ nhà nghỉ của [Grimbeorn](../G/Grimbeorn.md). Sterkist thắc mắc điều gì đã đưa ông phù thủy đến nhà họ. Ông ta cử bạn đến Varthmath để xem ông ta có biết câu trả lời không. Nếu biết, ông sẽ không nói với người chơi. Ông ta hướng dẫn người chơi lo việc của mình và đưa con bò sữa trở lại chuồng của mình. Sau khi chăn bò, người chơi gặp Ofolmóth, người nhận xét rằng người chơi đã trở nên mềm yếu. Ông ta thách đấu người chơi trong một cuộc đấu tay đôi. Sau khi đã ăn đủ, ông ta bảo bạn hãy săn lùng những con liềm đang hoành hành trong khu vực. Sau khi đánh bại một số người trong số họ, em gái Langhár của người chơi sẽ thu hút sự chú ý của bạn từ cánh đồng cỏ ba lá gần đó. Hai người quay trở lại nhà nghỉ của Grimbeorn. Trên đường đi, người chơi phát hiện ra yêu tinh. Langhár yêu cầu người chơi cảnh báo những người khác ở lối vào nhà nghỉ. Bạn tìm Sterkist và kể cho ông ta nghe về lũ yêu tinh. Việc họ mạo hiểm đến gần nhà như thế này là điều bất thường vì họ sợ Beorn. Bạn tình cờ nghe được Radagast nói chuyện với Grimbeorn nói rằng tin tức về hoạt động bất thường này của lũ yêu tinh cần được chuyển tiếp đến những người khác có thể tin cậy được. Radagast muốn ông ta gửi tất cả người thân của mình, nhưng Grimbeorn nói rằng ông ta chỉ có thể tha cho một người, người chơi. Đóng gói một số đồ đạc, người chơi cưỡi ngựa tiến về phía những ngọn núi.
 
-Sau một hành trình dài, người chơi đến được [Archet](../A/Archet.md). Người chơi hỏi Letty Foxtail liệu bà có biết Ranger [Aragorn](../A/Aragorn.md) đang ở đâu khi nghe nói ông ta đang đi theo hướng này không. Bà nói rằng ông đã đi qua con đường này. Bà bảo người chơi hãy tìm kiếm [Jon Brackenbrook](../J/Jon_Brackenbrook.md) vì ông ta có thể biết nhiều hơn. Jon nói rằng ông không biết Aragorn đã đi đâu. Ông ta thông báo cho người chơi rằng thị trấn đã bị tấn công và gần như bị thiêu rụi bởi bọn cướp [Blackwold](../B/Blackwolds.md). Ông ta nói rằng họ đã giết cha ông ta, thủ lĩnh của Archet và ông ta đang cố gắng xây dựng lại khu định cư.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>. Ông ta yêu cầu sự giúp đỡ của người chơi.
+Sau một hành trình dài, người chơi đến [Archet](../A/Archet.md). Người chơi hỏi Letty Foxtail liệu bà có biết Ranger [Aragorn](../A/Aragorn.md) đang ở đâu khi nghe nói ông ta đang đi theo hướng này không. Bà nói rằng ông đã đi qua con đường này. Bà bảo người chơi hãy tìm kiếm [Jon Brackenbrook](../J/Jon_Brackenbrook.md) vì ông ta có thể biết nhiều hơn. Jon nói rằng ông không biết Aragorn đã đi đâu. Ông ta thông báo cho người chơi rằng thị trấn đã bị tấn công và gần như bị thiêu rụi bởi bọn cướp [Blackwold](../B/Blackwolds.md). Ông ta nói rằng họ đã giết cha ông ta, thủ lĩnh của Archet và ông ta đang cố gắng xây dựng lại khu định cư.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>. Ông ta yêu cầu sự giúp đỡ của người chơi.
 
 ### Mở đầu {#Prologue}
 
-Có bốn đoạn mở đầu khác nhau với đoạn mở đầu của người lùn/rìu mập mạp và yêu tinh/yêu tinh cao hợp nhất tại một điểm. Mặc dù ban đầu họ bị tách biệt bởi chủng tộc, người chơi thuộc bất kỳ chủng tộc nào đều có thể thực hiện bất kỳ phần mở đầu nào.
+Có bốn đoạn mở đầu khác nhau với đoạn mở đầu lùn/rìu mập mạp và Tiên/cao Tiên hợp nhất tại một điểm. Mặc dù ban đầu họ bị tách biệt bởi chủng tộc, người chơi thuộc bất kỳ chủng tộc nào đều có thể thực hiện bất kỳ phần mở đầu nào.
 
 <dl><dd><dl><dd><b>Dwarf and Stout-axe:</b></dd></dl></dd></dl>
 
@@ -134,37 +134,37 @@ Có bốn đoạn mở đầu khác nhau với đoạn mở đầu của ngườ
 
 <dl><dd><dl><dd><b>Man and Beorning:</b></dd></dl></dd></dl>
 
-### Quyển I - Rung động trong bóng tối {#Book_I_-_Stirrings_in_the_Darkness}
+### Quyển I - Những khuấy động trong Bóng Tối {#Book_I_-_Stirrings_in_the_Darkness}
 
-Sau phần mở đầu, người chơi được cử đến gặp [Aragorn](../A/Aragorn.md), người cần sự giúp đỡ của bạn để làm suy yếu Blackwolds, một băng nhóm thù địch ở Breeland, được các đặc vụ của [Angmar](../A/Angmar.md) bí mật hậu thuẫn. Sau khi giúp đỡ Aragorn và [Rangers](../R/Rangers_of_the_North.md), họ cử bạn đến [Tom Bombadil](Tom_Bombadil.md) để tiêu diệt tà ác ở Othrongroth, The Great Barrow của [Barrow-downs](../B/Barrow-downs.md). Mặc dù Wightlord Sambrog bị đánh bại nhưng [Vua phù thủy](../W/Witch-king.md), Ivar và Skorgrim vẫn trốn thoát. Khi quay lại [Bree](../B/Bree.md), bạn phát hiện ra Aragorn đã rời đi cùng [Hobbit](../H/Hobbits.md) và người chơi gặp [Gandalf](../G/Gandalf.md), người đã quá muộn để giúp đỡ. Khi ông rời đi [Rivendell](../R/Rivendell.md), ông sẽ hướng dẫn bạn tìm một trong những người bạn [Istari](../I/Istari.md) của ông.
+Sau phần mở đầu, người chơi được cử đến [Aragorn](../A/Aragorn.md), người cần sự giúp đỡ của bạn để làm suy yếu Blackwolds, một băng đảng thù địch ở Breeland, được hỗ trợ bí mật bởi các đặc vụ của [Angmar](../A/Angmar.md). Sau khi giúp đỡ Aragorn và [Rangers](../R/Rangers_of_the_North.md), họ cử bạn đến [Tom Bombadil](Tom_Bombadil.md) để tiêu diệt tà ác ở Othrongroth, The Great Barrow của [Barrow-downs](../B/Barrow-downs.md). Mặc dù Wightlord Sambrog bị đánh bại nhưng [Vua Phù thủy](../W/Witch-king.md), Ivar và Skorgrim vẫn trốn thoát. Khi quay lại [Bree](../B/Bree.md), bạn phát hiện ra Aragorn đã rời đi cùng với [Hobbit](../H/Hobbits.md) và người chơi gặp [Gandalf](../G/Gandalf.md), người đã quá muộn để giúp đỡ. Khi ông rời đi [Rivendell](../R/Rivendell.md), ông sẽ hướng dẫn bạn tìm một người bạn [Istari](../I/Istari.md) của ông.
 
 ### Quyển II - Cô Hầu Gái Đỏ {#Book_II_-_The_Red_Maid}
 
-[Radagast the Brown](../R/Radagast.md) yêu cầu sự giúp đỡ của bạn trong việc thanh tẩy Garth Agarwen khỏi những thế lực tà ác đang cư ngụ trong đó. Cuối cùng, bạn và Radagast sẽ chiến đấu với Ivar the Bloodhand, thủ lĩnh của họ và là người hầu của Vua phù thủy. Sau khi thành công, bạn được khẩn trương cử đến North Downs để hỗ trợ các Rangers ở đó.
+[Radagast the Brown](../R/Radagast.md) yêu cầu sự giúp đỡ của bạn trong việc thanh lọc Garth Agarwen khỏi những thế lực tà ác đang cư ngụ trong đó. Cuối cùng, bạn và Radagast sẽ chiến đấu với Ivar the Bloodhand, thủ lĩnh của họ và là người hầu của Vua Phù thủy. Sau khi thành công, bạn được khẩn trương cử đến North Downs để hỗ trợ các Rangers ở đó.
 
-### Quyển III - Hội đồng phương Bắc {#Book_III_-_The_Council_of_the_North}
+### Quyển III - Hội đồng Bắc {#Book_III_-_The_Council_of_the_North}
 
-Bạn được [Halbarad](../H/Halbarad.md) yêu cầu hỗ trợ phòng thủ North Downs chống lại lực lượng của Angmar, bằng cách hợp nhất ba đội quân chính của North Downs: Người của Trestlebridge, [Người lùn](../D/Dwarves.md) do [Dori](../D/Dori.md) và Yêu tinh của [Gildor](../G/Gildor.md) chỉ huy. Sau đó, Bạn được đưa đến Rivendell, nơi [Học bổng](../F/Fellowship_of_the_Ring.md) hiện đã đến nơi an toàn.
+Bạn được [Halbarad](../H/Halbarad.md) yêu cầu hỗ trợ phòng thủ North Downs chống lại lực lượng của Angmar, bằng cách hợp nhất ba đội quân chính của North Downs: Con Người của Trestlebridge, [Người Lùn](../D/Dwarves.md) do [Dori](../D/Dori.md) chỉ huy và Tiên tộc của [Gildor](../G/Gildor.md). Sau đó, Bạn được đưa đến Rivendell, nơi [Học bổng](../F/Fellowship_of_the_Ring.md) hiện đã đến nơi an toàn.
 
 ### Quyển IV - Đuổi Bóng {#Book_IV_-_Chasing_Shadows}
 
-[Kỵ sĩ đen](../N/Nazgûl.md) sống sót sau trận lũ [Elrond](../E/Elrond.md) vẫn ở trong [Trollshaws](Trollshaws.md), khiến Hội đồng hành không thể rời đi. Với sự giúp đỡ của [Legolas](../L/Legolas.md), [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md), bạn đuổi theo Nazgûl, tiêu diệt lũ Troll mà hắn đã làm hư hỏng và buộc Ma Nhẫn phải rút lui về [Dãy núi Sương mù](../M/Misty_Mountains.md). Bạn được cử đi truy đuổi hắn, nơi [Glóin](../G/Glóin.md) và [Gimli](../G/Gimli.md) đã dựng trại.
+[Những Kỵ Sĩ Đen](../N/Nazgûl.md) sống sót sau trận lũ lụt [Elrond](../E/Elrond.md) vẫn còn ở trong [Trollshaws](Trollshaws.md), khiến Hiệp hội không thể rời đi. Với sự trợ giúp của [Legolas](../L/Legolas.md), [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md), bạn đuổi theo Nazgûl, tiêu diệt Troll mà hắn đã làm hỏng và buộc Ma Nhẫn phải rút lui về [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Bạn được cử đi truy đuổi hắn, nơi [Glóin](../G/Glóin.md) và [Gimli](../G/Gimli.md) đã dựng trại.
 
 ### Quyển V - Nơi ẩn náu cuối cùng {#Book_V_-_The_Last_Refuge}
 
-Việc tìm kiếm [Nazgûl](../N/Nazgûl.md) sẽ đưa bạn đến thành trì cuối cùng của Skorgrim và Dourhands. Một cuộc tấn công do Gimli chỉ huy sẽ dẫn đến sự sụp đổ của Skorgrim và Dourhands. Nhưng Nazgûl đã chạy trốn đến Helegrod, nơi Rồng cổ đại Thorog đã được hồi sinh để phục vụ [Chúa tể bóng tối](../S/Sauron.md). Bạn đến đúng lúc để ngăn chặn Nazgûl, đánh bại hắn và khiến Rồng trở nên vô hại. Bây giờ Rivendell đã an toàn, đã đến lúc chuyển sang [Angmar](../A/Angmar.md).
+Việc tìm kiếm [Nazgûl](../N/Nazgûl.md) sẽ đưa bạn đến thành trì cuối cùng của Skorgrim và Dourhands. Một cuộc tấn công do Gimli chỉ huy sẽ dẫn đến sự sụp đổ của Skorgrim và Dourhands. Nhưng Nazgûl đã trốn đến Helegrod, nơi Rồng Thorog cổ đại đã được hồi sinh để phục vụ [Chúa tể Bóng tối](../S/Sauron.md). Bạn đến đúng lúc để ngăn chặn Nazgûl, đánh bại hắn và khiến Rồng trở nên vô hại vào lúc này. Bây giờ Rivendell đã an toàn, đã đến lúc chuyển sang [Angmar](../A/Angmar.md).
 
 ### Quyển VI - Hỏa hoạn ở miền Bắc {#Book_VI_-_Fires_in_the_North}
 
-Biệt đội, do Corunir và Golodir chỉ huy, đã đến Angmar và những người bà con của họ muốn biết chuyện gì đã xảy ra với họ. Khi vào Angmar, bạn tìm thấy Corunir an toàn trong một ngôi làng Hillmen thân thiện. Ông ta cầu xin bạn tìm lại người bạn đồng hành đã mất của ông ta, người đã đi qua Rammas Deluon: một loạt bức tượng vĩ đại làm suy yếu (hoặc thậm chí giết chết) những ai đi qua nó. Nhưng sau khi tiêu diệt các linh hồn bên trong họ, bạn có thể chống lại sức mạnh của Rammas Deluon và tìm thấy một khu định cư của người lùn, nơi một phần của nhóm phân tán sinh sống.
+Biệt đội, dẫn đầu bởi Corunir và Golodir, đã đến Angmar và những người bà con của họ muốn biết chuyện gì đã xảy ra với họ. Khi vào Angmar, bạn thấy Corunir an toàn trong một ngôi làng Hillmen thân thiện. Ông ta cầu xin bạn tìm lại người bạn đồng hành đã mất của ông ta, người đã đi qua Rammas Deluon: một loạt bức tượng vĩ đại làm suy yếu (hoặc thậm chí giết chết) những ai đi qua nó. Nhưng sau khi tiêu diệt các linh hồn bên trong họ, bạn có thể chống lại sức mạnh của Rammas Deluon và tìm thấy một khu định cư của người lùn, nơi một phần của nhóm phân tán sinh sống.
 
 ### Quyển VII - Niềm hy vọng tiềm ẩn {#Book_VII_-_The_Hidden_Hope}
 
-Bạn được thông báo rằng Golodir định cư tại Gath Forthnir, xa về phía Bắc. Khi đến đó, Golodir đã biến mất và Rangers được dẫn dắt bởi con gái ông, Lorniel. Lorniel tiết lộ rằng Golodir đã bị bắt bởi [Mordirith](../M/Mordirith.md), Quản gia của Angmar, và bị nhốt trong [Carn Dûm](../C/Carn_Dûm.md). Với tư cách là thủ lĩnh của Rangers còn lại, và với sự giúp đỡ của Laerdan, Lorniel phát động một cuộc tấn công vào Carn Dûm, nơi cô bị giết bởi Mordirith, người sau đó thả Golodir, để tiếp tục tra tấn.
+Bạn được thông báo rằng Golodir định cư tại Gath Forthnir, xa về phía Bắc. Khi đến đó, Golodir đã biến mất và Rangers được dẫn dắt bởi con gái ông, Lorniel. Lorniel tiết lộ rằng Golodir đã bị [Mordirith](../M/Mordirith.md), Quản gia của Angmar bắt giữ và bị nhốt trong [Carn Dûm](../C/Carn_Dûm.md). Với tư cách là thủ lĩnh của Rangers còn lại, và với sự giúp đỡ của Laerdan, Lorniel phát động một cuộc tấn công vào Carn Dûm, nơi cô bị giết bởi Mordirith, người sau đó thả Golodir, để tiếp tục tra tấn.
 
 ### Quyển VIII - Tai họa phương Bắc {#Book_VIII_-_The_Scourge_of_the_North}
 
-Nỗi đau buồn của Golodir về cái chết của con gái gần như đã hủy hoại anh, nhưng anh vẫn nhìn thấy cơ hội để trả thù cho cô. Lấy lại một thanh kiếm cổ, ông ta cùng bạn du hành đến trung tâm [Carn Dûm](../C/Carn_Dûm.md), đánh bại Mordirith bằng lưỡi kiếm. Mordirith đánh rơi *[palantír](../P/Palantír.md)*, một viên đá có khả năng nhìn thấu tuyệt vời, nhanh chóng bị Sara Oakheart bí ẩn lấy đi.
+Nỗi đau buồn của Golodir về cái chết của con gái gần như đã hủy hoại anh, nhưng anh vẫn nhìn thấy cơ hội để trả thù cho cô. Lấy lại một thanh kiếm cổ, ông ta cùng bạn du hành đến trung tâm của [Carn Dûm](../C/Carn_Dûm.md), đánh bại Mordirith bằng lưỡi kiếm. Mordirith đánh rơi *[palantír](../P/Palantír.md)*, một viên đá có khả năng nhìn thấu tuyệt vời, nhanh chóng bị Sara Oakheart bí ẩn lấy đi.
 
 Đây là cốt truyện cuối cùng đi kèm với bản phát hành gốc.
 
@@ -176,14 +176,14 @@ Bạn biết được Sara Oakheart không kém gì [Amarthiel](../A/Amarthiel.m
 
 Cập nhật bao gồm:
 
-- Một vùng mới - [Evendim](../E/Evendim.md) - được thêm vào, bao gồm các địa điểm như [Annúminas](../A/Annúminas.md).<sup id="cite_ref-book9_5-0" class="reference"><a href="#cite_note-book9-5">[4]</a></sup>
+- Một vùng mới - [Evendim](../E/Evendim.md) - được thêm vào, bao gồm các vị trí như [Annúminas](../A/Annúminas.md).<sup id="cite_ref-book9_5-0" class="reference"><a href="#cite_note-book9-5">[4]</a></sup>
 - Một cuộc đột kích 24 người chơi được thêm vào, *Battle for Helegrod*.<sup id="cite_ref-book9_5-1" class="reference"><a href="#cite_note-book9-5">[4]</a></sup>
 
 ### Quyển X: Thành phố của các vị vua {#Book_X:_The_City_of_Kings}
 
 Bản cập nhật nội dung miễn phí thứ hai được phát hành vào ngày 21 tháng 8 năm 2007 tại Bắc Mỹ và vào ngày 24 tháng 8 năm 2007 tại Châu Âu.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
-Một trận chiến lớn ở Annúminas nổ ra, [Yêu tinh](../E/Elves.md) thông thái Laerdan đề nghị phục vụ Calenglad. Một trong những thuyền trưởng của Amarthiel bị bắt, nhưng khi bị giam cầm, ông ta chọc giận Laerdan, khiến Yêu tinh quyết định tự mình chiến đấu với Amarthiel, nhằm bù đắp những sai lầm trong quá khứ. Một lần nữa những Người Tự do lại bị Amarthiel và những người hầu của bà ta lừa. Cùng với Rangers of Evendim, bạn có thể giành được *palantír* khỏi nanh vuốt của Amarthiel, nhưng Laerdan đã bị mất. Nhưng bên trong *palantír*, Amarthiel thoáng nhìn thấy Narchuil, chiếc nhẫn cổ xưa của cô, nằm ở đâu. Bây giờ cô quyết tâm sở hữu sức mạnh của nó một lần nữa.
+Một trận chiến lớn ở Annúminas xảy ra sau đó, [Tiên](../E/Elves.md) Laerdan thông thái đề nghị phục vụ Calenglad. Một trong những thuyền trưởng của Amarthiel bị bắt, nhưng trong khi bị giam cầm, ông ta chọc giận Laerdan, khiến Tiên quyết định tự mình chiến đấu với Amarthiel nhằm bù đắp những lỗi lầm trong quá khứ. Một lần nữa những Người Tự do lại bị Amarthiel và những người hầu của bà ta lừa. Cùng với Rangers of Evendim, bạn có thể giành được *palantír* khỏi nanh vuốt của Amarthiel, nhưng Laerdan đã bị mất. Nhưng bên trong *palantír*, Amarthiel thoáng nhìn thấy Narchuil, chiếc nhẫn cổ xưa của cô, nằm ở đâu. Bây giờ cô quyết tâm sở hữu sức mạnh của nó một lần nữa.
 
 Cập nhật bao gồm:
 
@@ -193,13 +193,13 @@ Cập nhật bao gồm:
 
 Bản cập nhật nội dung miễn phí thứ ba được phát hành vào ngày 24 tháng 10 năm 2007 ở Bắc Mỹ<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup> và ngày 25 tháng 10 ở Châu Âu.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
-Đội trưởng Mordrambor của Amarthiel trốn thoát, giết chết nhiều kiểm lâm viên. Chẳng bao lâu sau, anh dẫn một đội quân ra khỏi [Annúminas](../A/Annúminas.md) để tìm Chiếc nhẫn của Amarthiel, Narchuil. Bạn cố gắng tìm Narchuil trước khi Amarthiel có thể, tìm kiếm tàn tích cổ xưa của [Trollshaws](Trollshaws.md). Sau nhiều lần tìm kiếm, hóa ra Narmeleth, con gái của Laerdan, người ban đầu gây ra sự sụp đổ của Amarthiel ở Fornost, đã bị bà chiếm hữu. Nhưng mọi tìm kiếm dường như vô ích, khi phát hiện Amarthiel đã tìm thấy Narchuil. Tuy nhiên, Elrond không rơi vào mánh khóe của cô nữa, anh nhận ra Narchuil vẫn còn ở ngoài đó, và Laerdan biết ở đâu.
+Đội trưởng Mordrambor của Amarthiel trốn thoát, giết chết nhiều kiểm lâm viên. Chẳng bao lâu sau, anh dẫn một đội quân ra khỏi [Annúminas](../A/Annúminas.md) để tìm Chiếc nhẫn của Amarthiel, Narchuil. Bạn cố gắng tìm Narchuil trước khi Amarthiel có thể, tìm kiếm tàn tích cổ xưa của [Trollshaws](Trollshaws.md). Sau nhiều lần tìm kiếm, hóa ra Narmeleth, con gái của Laerdan, người ban đầu gây ra sự sụp đổ của Amarthiel trong Fornost, đã bị bà chiếm hữu. Nhưng mọi tìm kiếm dường như vô ích, khi phát hiện Amarthiel đã tìm thấy Narchuil. Tuy nhiên, Elrond không rơi vào mánh khóe của cô nữa, anh nhận ra Narchuil vẫn ở ngoài đó, và Laerdan biết ở đâu.
 
 Đã bao gồm các bản cập nhật (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Book_11_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 
 - Nhà ở của người chơi – người chơi sẽ có thể tùy chỉnh ngôi nhà của mình bằng các vật dụng như đồ nội thất và thảm chùi chân.
-- Cuộc đột kích thứ hai có tên "The Rift" – cuộc đột kích 12 người chơi trong đó người chơi chạm trán [Balrog](../B/Balrogs.md) lần đầu tiên. Turbine đã nhấn mạnh rằng đây không phải là [Balrog từ Khazad-dûm](../D/Durin's_Bane.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
-- Hai khu vực mới – Tâl Bruinen trong Trollshaws, nơi [Gollum](../G/Gollum.md) sẽ được giới thiệu lần đầu tiên và thị trấn Goblin ở [Dãy núi sương mù](../M/Misty_Mountains.md), đặc trưng trong *The Hobbit*.
+- Cuộc đột kích thứ hai có tên "The Rift" – cuộc đột kích 12 người chơi trong đó người chơi gặp phải [Balrog](../B/Balrogs.md) lần đầu tiên. Turbine đã nhấn mạnh rằng đây không phải là [Balrog từ Khazad-dûm](../D/Durin's_Bane.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
+- Hai khu vực mới – Tâl Bruinen trong Trollshaws, nơi [Gollum](../G/Gollum.md) sẽ được giới thiệu lần đầu tiên và thị trấn Goblin trong [Dãy Núi Sương Mù](../M/Misty_Mountains.md), đặc trưng trong *The Hobbit*.
 
 ### Quyển XII: Chất thải tro tàn {#Book_XII:_The_Ashen_Wastes}
 
@@ -209,30 +209,30 @@ Amarthiel đã vận chuyển Laerdan đến Angmar, nơi cô biết được t�
 
 Đã bao gồm các bản cập nhật (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Book_12_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 
-- The Delving of Frór - Một khu vực PVE Chơi Quái vật mới (và PVMP trong một số trường hợp nhất định) đã được giới thiệu: Một vùng rộng lớn gồm các hang động và hầm mộ nằm bên dưới Ettenmoors.
-- The Great Angmar Revamp - Bản cải tiến khu vực cấp cao nhất trong 9 khu vực PvE hiện tại của trò chơi. Bản cải tiến bao gồm việc làm lại nhiều nhiệm vụ, khu vực và những thay đổi khác, chẳng hạn như các tuyến đường ngựa mới.
+- Việc khám phá Frór - Một khu vực PVE Chơi Quái vật mới (và PVMP trong một số trường hợp nhất định) đã được giới thiệu: Một khu vực rộng lớn gồm các hang động và hầm mộ nằm bên dưới Ettenmoors.
+- Bản cải tiến Angmar Vĩ đại - Bản cải tiến khu vực cấp cao nhất trong 9 khu vực PvE hiện tại của trò chơi. Bản cải tiến bao gồm việc làm lại nhiều nhiệm vụ, khu vực và những thay đổi khác, chẳng hạn như các tuyến đường ngựa mới.
 
-### Quyển XIII: Sự diệt vong của vị vua cuối cùng {#Book_XIII:_Doom_of_the_Last-King}
+### Quyển XIII: Ngày tận thế-Vua {#Book_XIII:_Doom_of_the_Last-King}
 
 Bản cập nhật nội dung miễn phí thứ năm được phát hành vào ngày 24 tháng 4 năm 2008 tại Bắc Mỹ và vào ngày 1 tháng 5 năm 2008 tại Châu Âu.
 
-Cố gắng tìm hiểu thêm về nửa còn lại của Narchuil, bạn sẽ được đưa đến [Forochel](../F/Forochel.md). Tuy nhiên lực lượng của Amarthiel đã đến và đang tìm kiếm. Trong nỗ lực tìm kiếm chiếc nhẫn trước Angmarim, người chơi nhận được sự giúp đỡ từ Ghost của [Arvedui](../A/Arvedui.md). Trong chương cuối cùng, có vẻ như Mordrambor đã phản bội Amarthiel; cả hai bắt đầu chiến đấu và biến mất khỏi tầm nhìn. Sau đó, người chơi lấy lại nửa sau của Narchuil và trả lại cho Rivendell.
+Đang cố gắng tìm hiểu thêm về nửa còn lại của Narchuil, bạn sẽ được đưa đến [Forochel](../F/Forochel.md). Tuy nhiên lực lượng của Amarthiel đã đến và đang tìm kiếm. Trong nỗ lực tìm kiếm chiếc nhẫn trước Angmarim, người chơi nhận được sự trợ giúp từ Ghost của [Arvedui](../A/Arvedui.md). Trong chương cuối cùng, có vẻ như Mordrambor đã phản bội Amarthiel; cả hai bắt đầu chiến đấu và biến mất khỏi tầm nhìn. Sau đó, người chơi lấy nửa sau của Narchuil và trả lại cho Rivendell.
 
 Đã bao gồm các bản cập nhật (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Book_13_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 
 - Khu vực bản đồ mới có thể chơi được: Vịnh băng của [Forochel](../F/Forochel.md).
 - Câu cá - hệ thống đầu tiên trong *Lord of the Rings Online*, được gọi là 'sở thích'.
-- Lớp chữa lành quái vật PVMP mới - Kẻ phá hoại Orc.
+- Lớp chữa lành quái vật PVMP mới - Orc Defiler.
 
-### Quyển XIV: Các lò rèn vòng của Ezone {#Book_XIV:_The_Ring-forges_of_Eregion}
+### Quyển XIV: Những lò rèn nhẫn của Eregion {#Book_XIV:_The_Ring-forges_of_Eregion}
 
 Bản cập nhật nội dung miễn phí thứ sáu được phát hành vào ngày 22 tháng 7 năm 2008 tại Bắc Mỹ. Nó được phát hành vào ngày 24 tháng 7 năm 2008 tại Châu Âu.
 
-Vẫn đang tìm cách cứu Narmeleth, Laerdan du hành cùng hai nửa Narchuil đến [Ezone](../E/Eregion.md). Amarthiel dụ ông ta vào, đòi lại Narchuil cho riêng mình. Elrond gửi nhiều Sứ giả của Rivendell đến mọi ngóc ngách của [Eriador](../E/Eriador.md) để giúp ông ta tìm kiếm truyền thuyết về Chiếc nhẫn bị thất lạc. Nhưng mọi nỗ lực đều đã quá muộn, vì Narchuil đã được rèn giũa lại khi Người Tự do đến Ezone. Mọi chuyện nhanh chóng trở nên rõ ràng rằng không ai có thể chống lại Narchuil, cho đến khi Mordrambor, người hầu cũ của Amarthiel, đến. Họ đi ra ngoài, nơi Mordirith đến. Mordirith nắm quyền một lần nữa, nhưng Amarthiel không đầu hàng và tin rằng cô có thể đánh bại ông ta bằng Narchuil. Nhưng Mordirith có sức mạnh của Vua phù thủy và đánh bại bà ta. Mordrambor tuyên bố Narchuil là của riêng mình, và khi ông ta chuẩn bị kết liễu Amarthiel thì Laerdan xuất hiện. Bây giờ ông biết Mordirith thực sự là [Eärnur](../E/Eärnur.md), vị vua cuối cùng của [Gondor](../G/Gondor.md). Mordirith ra lệnh cho Mordrambor giết Laerdan, sau đó cả hai rời đi. Amarthiel đang khóc thương cha mình và bị Người Tự do bắt giữ.
+Vẫn đang tìm cách cứu Narmeleth, Laerdan du hành cùng hai nửa Narchuil đến [Eregion](../E/Eregion.md). Amarthiel dụ ông ta vào, đòi lại Narchuil cho riêng mình. Elrond gửi nhiều Sứ giả Rivendell đến mọi ngóc ngách của [Eriador](../E/Eriador.md) để giúp ông ta tìm kiếm truyền thuyết về Chiếc nhẫn bị thất lạc. Nhưng mọi nỗ lực đều đã quá muộn, vì Narchuil đã được rèn luyện lại khi Người Tự do đạt tới Eregion. Mọi chuyện nhanh chóng trở nên rõ ràng rằng không ai có thể chống lại Narchuil, cho đến khi Mordrambor, người hầu cũ của Amarthiel, đến. Họ đi ra ngoài, nơi Mordirith đến. Mordirith nắm quyền một lần nữa, nhưng Amarthiel không đầu hàng và tin rằng cô có thể đánh bại ông ta bằng Narchuil. Nhưng Mordirith có sức mạnh của Vua Phù thủy và đánh bại bà. Mordrambor tuyên bố Narchuil là của riêng mình, và khi ông ta chuẩn bị kết liễu Amarthiel thì Laerdan xuất hiện. Bây giờ ông đã biết Mordirith thực sự là [Eärnur](../E/Eärnur.md), Vua cuối cùng của [Gondor](../G/Gondor.md). Mordirith ra lệnh cho Mordrambor giết Laerdan, sau đó cả hai rời đi. Amarthiel đang khóc thương cha mình và bị Người Tự do bắt giữ.
 
 Đã bao gồm các bản cập nhật (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Book_14_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 
-- Đã thêm các phần đã chọn của [Vùng sinh thái](../E/Eregion.md) (Khu vực dẫn tới Cổng Moria).
+- Đã thêm các phần đã chọn của [Eregion](../E/Eregion.md) (Region dẫn về Cổng Moria).
 
 ### Quyển XV: Con gái xung đột {#Book_XV:_Daughter_of_Strife}
 
@@ -242,7 +242,7 @@ Sau cái chết của cha cô, Narmeleth một lần nữa được giải thoá
 
 Bao gồm các bản cập nhật (<a class="external text" href="http://lorebook.lotro.com/wiki/Category:Epic_-_Vol._I,_Book_15:_Daughter_of_Strife_Quests" rel="noreferrer noopener" target="_blank">Sử thi - Tập I, Quyển 15: Sử thi Daughter of Strife Quests</a>):
 
-- Đã thêm khu vực Ezone mở rộng trên các phần đã chọn từ Quyển 14. Khu vực này không bao gồm Cổng Hollin dẫn đến Hồ Đen.
+- Đã thêm khu vực Eregion mở rộng trên các phần đã chọn từ Quyển 14. Khu vực này không bao gồm Cổng Hollin dẫn đến Hồ Đen.
 
 ## Đoạn giới thiệu {#Trailers}
 

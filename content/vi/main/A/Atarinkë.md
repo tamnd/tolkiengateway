@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Curufin"
 ---
 
-Chuyển hướng tới [Curufin](../C/Curufin.md).
+Chuyển hướng đến [Curufin](../C/Curufin.md).

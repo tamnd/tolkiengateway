@@ -12,7 +12,7 @@ categories:
   - "Conventions"
 ---
 
-**MerpCon III** là hội nghị quốc tế miễn phí thường niên lần thứ ba dành riêng cho trò chơi nhập vai ở [Trung địa](Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Diễn giả khách mời là Bác sĩ Thomas Morwinsky và sự kiện này được tổ chức vào năm 2007 tại Spokane, Washington.
+**MerpCon III** là hội nghị quốc tế miễn phí thường niên lần thứ ba dành riêng cho trò chơi nhập vai trong [Trung Địa](Middle-earth.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Diễn giả khách mời là Bác sĩ Thomas Morwinsky và sự kiện này được tổ chức vào năm 2007 tại Spokane, Washington.
 
 ## Liên kết ngoài {#External_links}
 

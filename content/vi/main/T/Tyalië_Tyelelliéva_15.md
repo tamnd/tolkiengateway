@@ -34,19 +34,19 @@ infobox:
 
 - Biên tập, Sự kiện thiên thể
 - Ý kiến pháp lý của Robert Wade, Esq., về các vấn đề bản quyền, bảng chữ cái và ngôn ngữ, sử dụng hợp pháp, v.v.
-- Thư gửi Biên tập viên của Tiến sĩ [Rhona Beare](../R/Rhona_Beare.md), (về kỹ thuật nông nghiệp của athelas và hobbit); từ Nancy Martsch, (về Bree Moots); từ [Ryszard Derdziński](../R/Ryszard_Derdziński.md), (về nông nghiệp và câu Merin)
-- Sách Mới của Tom Shippey, báo cáo của Lisa Star
-- Tin phim, đám cưới, hội nghị và cập nhật giải thưởng Thơ
-- Nguồn gốc của Gil-galad của Hithlin xứ Barad Eithel, (có thể giải thích cho sự mâu thuẫn rõ ràng)
-- Nông dân Maggot của Ryszard Derdziński, (tác phẩm nghệ thuật)
-- Arwen của Harold Ensle, (bài thơ bằng tiếng Quenya với văn bản tengwar)
-- Aman the Bless của Olivier Alabeatri, (bài thơ ở Quenya)
+- Thư gửi Biên tập viên của Tiến sĩ [Rhona Beare](../R/Rhona_Beare.md), (về kỹ thuật nông nghiệp của athelas và hobbit); từ Nancy Martsch, (khoảng Bree Moots); từ [Ryszard Derdziński](../R/Ryszard_Derdziński.md), (về nông nghiệp và câu Merin)
+- Sách mới của Tom Shippey, báo cáo của Lisa Star
+- Tin phim, đám cưới, hội nghị và cập nhật Giải thưởng Thơ
+- Nguồn gốc Gil-galad của Hithlin của Barad Eithel, (có thể giải thích cho sự mâu thuẫn rõ ràng)
+- Farmer Maggot của Ryszard Derdziński, (tác phẩm nghệ thuật)
+- Arwen của Harold Ensle, (bài thơ trong Quenya với văn bản tengwar)
+- Aman Đấng Chân Phước của Olivier Alabeatrix, (bài thơ trong Quenya)
 - Từ nguyên của Athelas, được đăng trên Internet (điều này cũng được liên kết từ trang Bản thảo chưa xuất bản
-- Bài thơ Elven-Skaldic của Leonid Korablev, (bài thơ bằng tiếng Quenya với thư pháp tengwar và phân tích ngôn ngữ)
-- Bộ sưu tập Tolkien tại Marquette (Phần 1), báo cáo của Lisa Star về tài sản thư viện được các nhà ngôn ngữ học đặc biệt quan tâm
-- Tên Gnomish cho Cây Hạt Dẻ, bài viết của Tiến sĩ Rhona Beare
-- George Allen & Unwin: A Remembrancer, sách của Rayner Unwin, đánh giá của Lisa Star
-- Báo cáo Land O'Hobbit, về một "điểm đến" du lịch ở California (báo cáo)
+- Tiên-Skaldic Verse của Leonid Korablev, (bài thơ trong Quenya với thư pháp tengwar và phân tích ngôn ngữ)
+- Tolkien Bộ sưu tập tại Marquette (Phần 1), báo cáo của Lisa Star về tài sản thư viện được các nhà ngôn ngữ học đặc biệt quan tâm
+- Gnomish Tên các loại cây hạt dẻ, bài viết của Tiến sĩ Rhona Beare
+- George Allen &amp; Unwin: Người tưởng nhớ, sách của Rayner Unwin, đánh giá của Lisa Star
+- Land O'Hobbit Báo cáo, về một "điểm đến" du lịch ở California (báo cáo)
 - [Chân dung tự họa của Jan Boom](../J/Jan_Boom.md) với tư cách là một Ent
 
 <center><a href="Tyalië_Tyelelliéva_14.md" title="Tyalië Tyelelliéva 14">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_16.md" title="Tyalië Tyelelliéva 16">Next Issue</a></center>

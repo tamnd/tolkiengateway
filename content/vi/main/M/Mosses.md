@@ -12,11 +12,11 @@ categories:
   - "Plants"
 ---
 
-**Rêu** là một loại cây nhỏ không có hoa. Nó mọc trên cây ở [Rừng già](../O/Old_Forest.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, trên đá ở thung lũng [Rivendell](../R/Rivendell.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và <a class="mw-redirect mw-disambig" href="../F/Fangorn.md" title="Fangorn">Fangorn</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>, trên bờ [Đầm lầy Chết](../D/Dead_Marshes.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>, cùng nhiều nơi khác ở Trung Địa.
+**Rêu** là một loại cây nhỏ không có hoa. Nó mọc trên cây ở [Khu Rừng Cổ](../O/Old_Forest.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>, trên đá ở thung lũng [Rivendell](../R/Rivendell.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và <a class="mw-redirect mw-disambig" href="../F/Fangorn.md" title="Fangorn">Fangorn</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>, trên bờ [Đầm lầy Chết](../D/Dead_Marshes.md)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>, cùng nhiều nơi khác ở Trung Địa.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i></b>
+<b>1984-1997: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
 <dl><dd>Many different types of mosses are distinguished in the game:</dd></dl>
 

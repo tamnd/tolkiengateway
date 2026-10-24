@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Tuor and his Coming to Gondolin"
 ---
 
-Chuyển hướng đến [Của Tuor và việc ông đến Gondolin](Of_Tuor_and_his_Coming_to_Gondolin.md).
+Chuyển hướng đến [Của Tuor và Sự đến với Gondolin](Of_Tuor_and_his_Coming_to_Gondolin.md) của ông.

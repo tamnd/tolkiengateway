@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Prancing Pony"
 ---
 
-Chuyển hướng đến [Con ngựa chồm lên](../T/The_Prancing_Pony.md).
+Chuyển hướng đến [The Prancing Pony](../T/The_Prancing_Pony.md).

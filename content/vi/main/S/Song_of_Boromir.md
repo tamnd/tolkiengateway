@@ -25,7 +25,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Anke_Eißmann_-_The_departure_of_Boromir.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/250px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg" decoding="async" loading="lazy" width="250" height="191" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/375px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/46/Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg/500px-Anke_Ei%C3%9Fmann_-_The_departure_of_Boromir.jpg 2x" data-file-width="850" data-file-height="648"/></a><figcaption>&#34;The departure of Boromir&#34; by <a href="../A/Anke_Eißmann.md" title="Anke Eißmann">Anke Eißmann</a></figcaption></figure>
 
-**Bài ca của Boromir**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là lời than thở được hát bởi [Aragorn](../A/Aragorn.md) và [Legolas](../L/Legolas.md) khi chiếc thuyền tang lễ của [Boromir](../B/Boromir.md) trôi đi.
+Bài **Bài ca Boromir**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là lời than thở được hát bởi [Aragorn](../A/Aragorn.md) và [Legolas](../L/Legolas.md) khi chiếc thuyền tang lễ của [Boromir](../B/Boromir.md) trôi đi.
 
 ## Bài hát {#Song}
 
@@ -70,7 +70,7 @@ images:
 </p>
 </blockquote>
 
-[Gimli](../G/Gimli.md) sau đó nhận xét rằng họ để gió đông cho ông, nhưng ông sẽ không hát về nó. Aragorn trả lời rằng người dân Gondor chịu đựng gió đông nhưng không hỏi tin tức, bởi vì hướng đó có [Mordor](../M/Mordor.md) và Ác ma ở phía Đông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Gimli](../G/Gimli.md) sau đó nhận xét rằng họ để gió đông cho ông, nhưng ông sẽ không hát về nó. Aragorn đáp rằng người dân Gondor hứng gió đông nhưng không hỏi tin tức, vì hướng đó có [Mordor](../M/Mordor.md) và Ác quỷ ở trong phương Đông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -84,8 +84,8 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=ONMEwDdatSM" rel="noreferrer noopener" target="_blank">Thương tiếc Boromir do Adele McCallister hát</a>
-- <a class="external text" href="https://www.youtube.com/watch?v=kM8KIMYv4os" rel="noreferrer noopener" target="_blank">Bản trình diễn từ loạt phim phát thanh Slovakia những năm 2000</a> *(được hát bởi Richard Stanke trong vai Legolas, Boris Farkaš trong vai Aragorn, Vladimír Hajdu trong vai Gimli)*
+- <a class="external text" href="https://www.youtube.com/watch?v=ONMEwDdatSM" rel="noreferrer noopener" target="_blank">Than tiếc cho Boromir do Adele McCallister hát</a>
+- <a class="external text" href="https://www.youtube.com/watch?v=kM8KIMYv4os" rel="noreferrer noopener" target="_blank">Bản trình diễn từ loạt đài phát thanh Slovakia những năm 2000</a> *(được hát bởi Richard Stanke trong vai Legolas, Boris Farkaš trong vai Aragorn, Vladimír Hajdu trong vai Gimli)*
 - <a class="external text" href="https://www.youtube.com/watch?v=LjPxuY9djhw" rel="noreferrer noopener" target="_blank">Than thở cho Boromir - Phiên bản nâng cao - Clamavi De Profundis</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=vDN1sA3Fpqg" rel="noreferrer noopener" target="_blank">Karliene - Than thở cho Boromir</a>
 

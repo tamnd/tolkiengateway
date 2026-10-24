@@ -19,11 +19,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Raised_Planter_of_Wild_Clover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e3/Raised_Planter_of_Wild_Clover.jpg/320px-Raised_Planter_of_Wild_Clover.jpg" decoding="async" loading="lazy" width="320" height="213" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e3/Raised_Planter_of_Wild_Clover.jpg/480px-Raised_Planter_of_Wild_Clover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/e3/Raised_Planter_of_Wild_Clover.jpg/640px-Raised_Planter_of_Wild_Clover.jpg 2x" data-file-width="744" data-file-height="495"/></a><figcaption>A planter with wild clovers in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Plant</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Clovers</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Middle-earth</td></tr></tbody></table>
 
-**Cỏ ba lá** là một họ thực vật có hoa. Cỏ ba lá có mùi mật ong màu tím và màu trắng mọc ở rìa đồng cỏ [con ong](../B/Bees.md) của [Beorn](../B/Beorn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cỏ ba lá** là một họ thực vật có hoa. Cỏ ba lá có mùi tổ ong, màu tím và màu trắng mọc ở rìa đồng cỏ [con ong](../B/Bees.md) của [Beorn](../B/Beorn.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i></b>
+<b>1984-1997: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i></b>
 
 <dl><dd>The books describe two types of clover:</dd></dl>
 

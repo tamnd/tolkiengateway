@@ -16,11 +16,11 @@ images:
   - "Disambig.png"
 ---
 
-**Sự trở lại của nhà vua** có thể đề cập đến:
+**The Return of the King** có thể tham khảo:
 
 ## Sách {#Books}
 
-- <b><i><a href="The_Return_of_the_King.md" title="The Return of the King">Sự trở lại của Nhà vua</a></i>, là Phần thứ ba của <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></i>.</b>
+- <b><i><a href="The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, là Phần thứ ba của <i><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>.</b>
 - *[The Art of The Return of the King](The_Art_of_The_Return_of_the_King.md)*, sách ảnh gắn liền với phim của [Gary Russell](../G/Gary_Russell.md).
 - *[The Lord of the Rings: The Return of the King Visual Companion](The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md)*, sách ảnh gắn liền với phim của [Jude Fisher](../J/Jude_Fisher.md).
 
@@ -32,8 +32,8 @@ images:
 Trò chơi điện tử     - [*The Lord of the Rings: The Return of the King* (video game)](<The_Lord_of_the_Rings%253A_The_Return_of_the_King_(video_game).md>), [Electronic Arts](../E/Electronic_Arts.md) chuyển thể từ bộ phim năm 2003.
     - *[The Lord of the Rings: The Return of the King - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_Original_Motion_Picture_Soundtrack.md)*
         - *[The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)*
-        - ["Sự trở lại của nhà vua" (nhạc phim)](<The_Return_of_the_King_(soundtrack).md>), một bài hát trong nhạc phim.
-- "Sự trở lại của nhà vua", tập thứ 24 của [*The Lord of the Rings* (loạt phim phát thanh năm 1981)](<The_Lord_of_the_Rings_(1981_radio_series).md>).
+        - ["The Return of the King" (nhạc phim)](<The_Return_of_the_King_(soundtrack).md>), một bài hát trong nhạc phim.
+- "The Return of the King", tập thứ 24 của [*The Lord of the Rings* (loạt phim phát thanh năm 1981)](<The_Lord_of_the_Rings_(1981_radio_series).md>).
 
 <hr style="margin-top:15px;"/>
 

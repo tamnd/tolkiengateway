@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sadoc Brandybuck</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Buckland.md" title="Buckland">Buckland</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2779.md" title="Third Age 2779">1179</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Brandybuck_Family~66350.md" title="Brandybuck Family">Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../G/Gormadoc_Brandybuck.md" title="Gormadoc Brandybuck">Gormadoc Brandybuck</a> and <a href="../M/Malva_Headstrong.md" title="Malva Headstrong">Malva Headstrong</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../M/Madoc_Brandybuck.md" title="Madoc Brandybuck">Madoc</a> and <a href="../M/Marroc_Brandybuck.md" title="Marroc Brandybuck">Marroc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data">two sons and <a href="Salvia_Brandybuck.md" title="Salvia Brandybuck">Salvia</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Sadoc Brandybuck** là một người Hobbit của [Shire](../T/The_Shire.md).
+**Sadoc Brandybuck** là một Hobbit của [the Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -38,13 +38,13 @@ Sadoc là con trai của [Gormadoc Brandybuck](../G/Gormadoc_Brandybuck.md) và 
 
 ## Từ nguyên {#Etymolgy}
 
-Ý nghĩa của tên *Sadoc* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders mang phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
+Ý nghĩa của tên *Sadoc* vẫn chưa được biết. [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng tên của Bucklanders có phong cách [Celtic](../C/Celtic.md) mơ hồ.<sup id="cite_ref-Translation_2-0" class="reference"><a href="#cite_note-Translation-2">[2]</a></sup>
 
 Một hiệp sĩ người Cornish tên là *Sadoc* trở thành Hiệp sĩ Bàn tròn và hiệp sĩ của Orkney tên là *Sadoc* xuất hiện trong *Le Morte Darthur* của Malory. Ngoài ra còn tồn tại tên [tiếng Wales](../W/Welsh.md) *Cadoc* bắt nguồn từ *cad* ("trận chiến").<sup id="cite_ref-Allan_3-0" class="reference"><a href="#cite_note-Allan-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Hai hiệp sĩ được gọi là *Sadoc* đóng một vai trong *Le Morte Darthur* của Malory: một *Sadoc* là hiệp sĩ người Cornish thân thiện với Ngài Tristram và một *Sadoc* là hiệp sĩ của Orkney.<sup id="cite_ref-Allan_3-1" class="reference"><a href="#cite_note-Allan-3">[3]</a></sup> *Cadoc* cũng là tên của một <a class="extiw" href="http://en.wikipedia.org/wiki/Cadoc" title="wikipedia:Cadoc">vị thánh</a>xứ Wales.
+Hai hiệp sĩ được gọi là *Sadoc* đóng một vai trong *Le Morte Darthur* của Malory: một *Sadoc* là hiệp sĩ người Cornish thân thiện với Ngài Tristram và một *Sadoc* là hiệp sĩ của Orkney.<sup id="cite_ref-Allan_3-1" class="reference"><a href="#cite_note-Allan-3">[3]</a></sup> *Cadoc* cũng là tên của một tiếng Wales <a class="extiw" href="http://en.wikipedia.org/wiki/Cadoc" title="wikipedia:Cadoc">vị thánh</a>.
 
 <span></span>
 

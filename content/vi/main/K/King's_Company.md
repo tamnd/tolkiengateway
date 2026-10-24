@@ -12,11 +12,11 @@ categories:
   - "Armies"
 ---
 
-**King's Company**, còn được gọi là **King's Rider**, là [Éored](../_/Éored.md) đầu tiên của [Kỵ sĩ Rohan](../R/Riders_of_Rohan.md), những người đã chiến đấu bên cạnh chính Nhà vua. Vào cuối [Kỷ nguyên thứ ba](../T/Third_Age.md), họ được lãnh đạo bởi [Déorwine](../D/Déorwine.md), người cùng với sáu người khác của Công ty đã gục ngã cùng [vua](../T/Théoden.md) trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó, khi [Éomer](../_/Éomer.md) đến [Minas Tirith](../M/Minas_Tirith.md) để dẫn đầu đám tang của Vua Théoden quay lại [Rohan](../R/Rohan.md), ông mang theo Đoàn quân của Nhà vua.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Đại đội của **Vua**, còn được gọi là Kỵ sĩ của **Vua**, là [Éored](../_/Éored.md) đầu tiên trong số [Kỵ sĩ của Rohan](../R/Riders_of_Rohan.md), những người đã chiến đấu bên cạnh chính Vua. Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), họ được dẫn đầu bởi [Déorwine](../D/Déorwine.md), người cùng với sáu người khác của Công ty đã gục ngã cùng [vua](../T/Théoden.md) ở [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó, khi [Éomer](../_/Éomer.md) đến [Minas Tirith](../M/Minas_Tirith.md) để dẫn đầu đám tang của Vua Théoden quay lại [Rohan](../R/Rohan.md), ông ta đã đưa Công ty của Vua với ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim)</a>:</b>
+<b>2001-03: <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (loạt phim)</a>:</b>
 
 <dl><dd>The King&#39;s Company appear to be the inspiration for the Royal Guard of <a href="../E/Edoras.md" title="Edoras">Edoras</a>. They, unlike other soldiers in Rohan, have a consistent uniform with a long leaf-mail hauberk, a rich green cloak and a helm with a horse-hair crest. <a href="../G/Gamling.md" title="Gamling">Gamling</a>, <a href="../H/Háma.md" title="Háma">Háma</a> and <a href="../G/Grimbold.md" title="Grimbold">Grimbold</a> all wear this same uniform to emphasize their rank. The Royal Guard notably bear the body of <a href="../T/Théodred.md" title="Théodred">Théodred</a> from the Golden Hall during his funeral.</dd></dl>
 

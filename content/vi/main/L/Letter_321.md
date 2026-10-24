@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết rằng ông hài lòng nhất khi Rorke đề cập đến mô tả về "những hang động lấp lánh", điều mà không nhà phê bình nào khác chọn ra để đề cập đặc biệt. Tolkien cho biết ông đã xây dựng chúng dựa trên các hang động ở <a class="extiw" href="http://en.wikipedia.org/wiki/Cheddar_Gorge" title="wikipedia:Cheddar Gorge">Hẻm núi Cheddar</a>. Ông đã đến thăm lại họ vào năm 1940 nhưng ký ức chính của ông là về chuyến thăm trong tuần trăng mật. <br>
+Tolkien viết rằng ông hài lòng nhất khi Rorke đề cập đến mô tả về "những hang động lấp lánh", điều mà không nhà phê bình nào khác chọn ra để đề cập đặc biệt. Tolkien cho biết ông đã dựa vào các hang động ở <a class="extiw" href="http://en.wikipedia.org/wiki/Cheddar_Gorge" title="wikipedia:Cheddar Gorge">Hẻm núi Cheddar</a>. Ông đã đến thăm lại họ vào năm 1940 nhưng ký ức chính của ông là về chuyến thăm trong tuần trăng mật. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

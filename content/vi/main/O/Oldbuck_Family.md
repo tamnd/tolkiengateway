@@ -28,11 +28,11 @@ langlinks:
     url: "https://kontu.wiki/Ik%C3%A4buk"
 ---
 
-**Gia tộc Oldbuck** là một gia đình cổ xưa của người Hobbit ở Shire, họ đã trở thành một trong những gia đình nổi tiếng nhất ở Shire.
+**Gia đình Oldbuck** là một gia đình cổ xưa của Shire hobbit, sau này trở thành một trong những gia đình nổi tiếng nhất Shire.
 
 ## Lịch sử {#History}
 
-Bao gồm chủ yếu là [dòng máu Stoorish](../S/Stoors.md), các thành viên của gia đình thịnh vượng này đến từ [Marish](../M/Marish.md), nơi họ có nguồn gốc di sản từ một [Bucca của Marish](../B/Bucca_of_the_Marish.md), [Thain](../T/Thain.md) đầu tiên của [Shire](../T/The_Shire.md). Thainship thuộc gia đình Oldbuck cho đến [T.A.](../T/Third_Age.md) [2340](../T/Third_Age_2340.md) (S.R. 740).
+Bao gồm chủ yếu là [Stoorish](../S/Stoors.md) huyết thống, các thành viên của gia đình thịnh vượng này đến từ [Marish](../M/Marish.md), nơi họ truy tìm nguồn gốc di sản của mình từ một [Bucca của Marish](../B/Bucca_of_the_Marish.md), [Thain](../T/Thain.md) đầu tiên của [ Shire](../T/The_Shire.md). Thainship thuộc gia đình Oldbuck cho đến [T.A.](../T/Third_Age.md) [2340](../T/Third_Age_2340.md) (S.R. 740).
 
 Vào năm đó, họ định cư trên [Brandywine](../B/Brandywine.md) bởi [Gorhendad Oldbuck](../G/Gorhendad_Oldbuck.md), người sau này đổi họ thành [Brandybuck](../B/Brandybuck_Family~66350.md), theo tên dòng sông Brandywine.
 

@@ -14,7 +14,7 @@ categories:
 
 **-ul** là hậu tố trong [Khuzdul](../K/Khuzdul.md) có nghĩa là "của".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Nó là một phần của từ [Khuzdul](../K/Khuzdul.md), <i>(Ngôn ngữ) <b>của</b> <a href="../D/Dwarves.md" title="Dwarves">Người lùn</a></i>. Nó cũng xuất hiện trong [Balin](../B/Balin.md) [Fundinul](../F/Fundin.md) [uzbad](../U/Uzbad.md) [Khazad-dûmu](../K/Khazad-dûm.md), <i>Balin, (con trai) <b>of</b> Fundin, Lãnh chúa của Moria</i>.
+Nó là một phần của từ [Khuzdul](../K/Khuzdul.md), <i>(Ngôn ngữ) <b>của</b> <a href="../D/Dwarves.md" title="Dwarves">Người Lùn</a></i>. Nó cũng xuất hiện trong [Balin](../B/Balin.md) [Fundinul](../F/Fundin.md) [uzbad](../U/Uzbad.md) [Khazad-dûmu](../K/Khazad-dûm.md), <i>Balin, (son) <b>of</b> Fundin, Chúa tể Moria</i>.
 
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation cite-web"><span class="cite-web-author">The Dwarrow Scholar (25 April 2012)</span>. <span class="cite-web-article"><a class="external text" href="https://thedwarrowscholar.com/khuzdul/" rel="noreferrer noopener" target="_blank">&#34;Khuzdul Lessons &amp; Downloads&#34;</a></span>. <span class="cite-web-website"><a class="external text" href="https://thedwarrowscholar.com/" rel="noreferrer noopener" target="_blank">thedwarrowscholar.com</a></span></cite> (Discussed in responses.)</span>

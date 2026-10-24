@@ -18,7 +18,7 @@ images:
   - "WikimediaUI-ArrowNext-ltr.svg"
 ---
 
-<b><i>Amon Hen</i> 96</b> (xuất bản năm [1989](../_/1989.md)) là số thứ 96 của [tạp chí Amon Hen](<Amon_Hen_(journal).md>) của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
+<b><i>Amon Hen</i> 96</b> (xuất bản trên [1989](../_/1989.md)) là số thứ chín mươi sáu của [Amon Hen tạp chí](<Amon_Hen_(journal).md>) của [Hội Tolkien](../T/The_Tolkien_Society.md).
 
 <br>
 

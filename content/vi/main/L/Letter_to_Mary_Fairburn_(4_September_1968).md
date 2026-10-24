@@ -15,11 +15,11 @@ sort_keys:
   "Letters": "Fairburn, Mary (1968-09-04)"
 ---
 
-Vào [ngày 4 tháng 9](../_/4_September.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Mary Fairburn](../M/Mary_Fairburn.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào ngày [4 tháng Chín](../_/4_September.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Mary Fairburn](../M/Mary_Fairburn.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Nội dung:** Tolkien trả lời rằng ông xin lỗi vì đã khiến Fairburn phải bày tỏ "*anxiety*" vì tai nạn của ông và các vấn đề khác. Tolkien cũng giải thích rằng "*thư viện và giấy tờ của ông chất thành đống như lũ lụt*" trong nhiều tuần. Tuy nhiên, anh rất vui vì những bức tranh minh họa bổ sung mà cô đã gửi cho anh trong ba phong bì, được tìm thấy khi mở gói (nhà xuất bản của anh, [Rayner Unwin](../R/Rayner_Unwin.md), đã không ở Anh và do đó không thể trưng bày những thứ này cho Tolkien). Tuy nhiên, Tolkien nói rằng "*triển vọng về một ấn bản có minh họa \[không\] không hứa hẹn*", nhưng rằng "*Tôi thích những bức tranh — chắc chắn là một vài bức trong số đó — đủ để khiến bạn đưa ra lời đề nghị mua riêng*" và yêu cầu Fairburn đề xuất mức giá.
+- **Nội dung:** Tolkien trả lời rằng ông xin lỗi vì đã khiến Fairburn phải bày tỏ "*anxiety*" vì tai nạn của ông và các vấn đề khác. Tolkien cũng giải thích rằng “*thư viện và giấy tờ của anh chất thành đống như lũ lụt*” trong nhiều tuần. Tuy nhiên, anh rất vui vì những hình minh họa bổ sung mà cô đã gửi cho anh trong ba phong bì, được tìm thấy khi giải nén (nhà xuất bản của anh, [Rayner Unwin](../R/Rayner_Unwin.md), không ở Anh và do đó không thể trưng bày những thứ này cho Tolkien). Tuy nhiên, Tolkien nói rằng "*triển vọng về một ấn bản có minh họa \[không\] không hứa hẹn*", nhưng rằng "*Tôi thích những bức ảnh — chắc chắn là một số trong số đó — đủ để khiến bạn đưa ra lời đề nghị mua riêng*" và yêu cầu Fairburn đề xuất giá.
 - **Mô tả:** Địa chỉ Oxford trong tiêu đề thư được in và phía trên là địa chỉ và số điện thoại mới của ông.
-- **Xuất bản:** [*The Times Literary Supplement* ngày 14 tháng 9 năm 2012](../T/The_Times_Literary_Supplement_14_September_2012.md).
+- **Xuất bản:** [*The Times Literary Supplement* 14 tháng Chín 2012](../T/The_Times_Literary_Supplement_14_September_2012.md).
 
 ## Xem thêm {#See_also}
 

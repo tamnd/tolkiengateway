@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "House of Elros"
 ---
 
-Chuyển hướng tới [Nhà Elros](House_of_Elros.md).
+Chuyển hướng đến [Nhà Elros](House_of_Elros.md).

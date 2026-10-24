@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Black Speech word</b>. For the trees, see <b><a href="Ashes.md" title="Ashes">Ashes</a></b>.</div></div>
 
-<i><b>Ash</b></i> là [Bài phát biểu của người da đen](../B/Black_Speech.md) cho "một".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Tro</b></i> là [Hắc Ngữ](../B/Black_Speech.md) cho "một".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Example}
 

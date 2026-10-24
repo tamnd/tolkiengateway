@@ -21,20 +21,20 @@ images:
 
 **Chỉ mục** có thể tham khảo:
 
-## Cổng Tolkien {#Tolkien_Gateway}
+## Tolkien Gateway {#Tolkien_Gateway}
 
-- **[Portal:Index](../../portal/I/Index.md)**, chỉ mục của các Cổng trên [Cổng Tolkien](../T/Tolkien_Gateway.md)
+- **[Cổng thông tin:Chỉ mục](../../portal/I/Index.md)**, chỉ mục của các Cổng trên [Tolkien Gateway](../T/Tolkien_Gateway.md)
 - **[Danh mục:Chỉ mục](../../category/I/Index.md)**, bao gồm các trang liệt kê nhiều thứ khác nhau
 
 ## Sách {#Books}
 
-- <i><b><a href="../T/The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Chỉ mục Lịch sử Trung Địa</a></b></i>, chỉ mục đầy đủ cho các tập trong *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*
-- <i><b><a href="../T/The_Lord_of_the_Rings_Index.md" title="The Lord of the Rings Index">Danh mục Chúa tể của những chiếc nhẫn</a></b></i> cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
+- <i><b><a href="../T/The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">The History of Middle-earth Chỉ mục</a></b></i>, chỉ mục đầy đủ cho các tập trong *[The History of Middle-earth](../T/The_History_of_Middle-earth.md)*
+- <i><b><a href="../T/The_Lord_of_the_Rings_Index.md" title="The Lord of the Rings Index">The Lord of the Rings Chỉ mục</a></b></i> cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
 
 ## Khác {#Other}
 
 - **[Chỉ mục chưa hoàn thành](../U/Unfinished_index.md)** cho *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*
-- [Chỉ mục Tolkien](../T/Tolkien_Index.md), một trang web
+- [Tolkien Chỉ mục](../T/Tolkien_Index.md), một trang web
 
 <hr style="margin-top:15px;"/>
 

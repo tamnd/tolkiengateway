@@ -39,4 +39,4 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào cuối [Kỷ nguyên thứ hai](../S/Second_Age.md), Norfield Glen là một trong những nơi trú ẩn theo mùa nơi một bộ tộc [Harfoots](../H/Harfoots.md) di cư đến vào giữa mùa hè do những con ốc ăn được được cho là sống ở đó. Harfoots đã tổ chức <a class="new" href="https://tolkiengateway.net/w/index.php?title=Harvest_Festival&amp;action=edit&amp;redlink=1" title="Harvest Festival (page does not exist)">Lễ hội thu hoạch</a> ở đó.
+Vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), Norfield Glen là một trong những nơi trú ẩn theo mùa nơi một bộ tộc [Harfoots](../H/Harfoots.md) di cư đến vào giữa mùa hè do những con ốc ăn được được cho là sống ở đó. Harfoots đã tổ chức <a class="new" href="https://tolkiengateway.net/w/index.php?title=Harvest_Festival&amp;action=edit&amp;redlink=1" title="Harvest Festival (page does not exist)">Lễ hội thu hoạch</a> ở đó.

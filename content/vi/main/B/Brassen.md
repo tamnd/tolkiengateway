@@ -13,7 +13,7 @@ categories:
   - "Noldorin adjectives"
 ---
 
-<i><b>đồng thau</b></i> là một từ [Noldorin lưu vong](../N/Noldorin.md) có nghĩa là "nóng trắng".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+<i><b>đồng thau</b></i> là một từ [Exilic Noldorin](../N/Noldorin.md) có nghĩa là "trắng nóng".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Noldorin lưu vong](../N/Noldorin.md) *[bara](Bara.md)*
+- [Người lưu đày Noldorin](../N/Noldorin.md) *[bara](Bara.md)*
 
 <span></span>
 

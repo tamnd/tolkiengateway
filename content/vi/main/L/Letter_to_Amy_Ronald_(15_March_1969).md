@@ -27,7 +27,7 @@ Vào [15 tháng 3](../_/15_March.md) [1969](../_/1969.md), [J.R.R. Tolkien](../J
 
 - **Chủ đề:** Tolkien cảm ơn Amy Ronald vì đã tặng năm chai đồ uống có cồn.<sup id="cite_ref-TL_2-1" class="reference"><a href="#cite_note-TL-2">[2]</a></sup>
 - **Mô tả:** Viết tay, hai trang, trên giấy có đóng dấu đầu.<sup id="cite_ref-TL_2-2" class="reference"><a href="#cite_note-TL-2">[2]</a></sup>
-- **Xuất bản:** Bức thư được mô tả trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
+- **Ấn bản:** Bức thư được mô tả trong *[The J.R.R. Tolkien Companion and Guide: Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.<sup id="cite_ref-CG_1-1" class="reference"><a href="#cite_note-CG-1">[1]</a></sup>
 
 ## Phiên âm {#Transcription}
 

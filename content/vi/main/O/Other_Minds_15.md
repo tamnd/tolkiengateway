@@ -28,26 +28,26 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 15</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson, Neville Percy, Chris Seeman</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">April <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">166</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 15</b> là số thứ mười lăm của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 4 năm 2015.
+<b><i>Other Minds</i> 15</b> là số thứ mười lăm của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 4 năm 2015.
 
 ## Nội dung {#Contents}
 
 - "Biên tập: Còn một chặng đường dài..."
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "Con Đường Mãi Mãi Đi"
+- "The Road Goes Ever On"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
-- "Trung địa thu nhỏ: Chương 1 - Tổng quan và người Hobbit"
-    - Bởi José Enrique Vacas de la Rosa
-- "Thích ứng HARP với Trung Địa cho các chiến dịch ở Cuối Thời đại Thứ ba (TA 2945 trở đi)"
+- "Trung Địa thu nhỏ: Chương 1 - Tổng quan và Hobbit"
+    - Tác giả José Enrique Vacas de la Rosa
+- "Điều chỉnh HARP thành Trung Địa cho các chiến dịch vào cuối Kỷ Đệ Tam (TA 2945 trở đi)"
     - Bởi Olaf Anguera
-- "Khu định cư ở Rhovanion"
+- "Định cư tại Rhovanion"
     - Bởi Thomas Morwinsky
-- "Hy vọng không lường trước được - Những người đàn ông đến từ Drúwaith Iaur (Phần 2)"
+- "Một niềm hy vọng không lường trước được - Con Người từ Drúwaith Iaur (Phần 2)"
     - Bởi Daniel Bayarri Martinez
-- "Phụ lục A: Bản đồ 'Khu định cư ở Rhovanion'"
-- "Phụ lục B: Bản đồ cho 'Hy vọng không lường trước được - Những người đàn ông đến từ Drúwaith Iaur (Phần 2)'"
+- "Appendix A: Bản đồ cho 'Khu định cư tại Rhovanion'"
+- "Phụ lục B: Bản đồ cho 'Hy vọng không lường trước được - Con Người từ Drúwaith Iaur (Phần 2)'"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**
     - Bởi: Antti Autio, Onur Bakar, Matej Cadil, Nacho Castro, Catherine Karina Chmiel, Jenny Dolfen, Anke Eissmann, Olanda Feng-Surdenas, Wouter Florusse, Daniel Govar, [John Howe](../J/John_Howe.md), Olga Kukhtenkova, Turner Mohan, Abe Papakhian, [Jan Pospíšil](../J/Jan_Pospíšil.md), Tara Rueping

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ghosts of the Southern Anduin"
 ---
 
-Chuyển hướng đến [Những bóng ma phía Nam Anduin](../G/Ghosts_of_the_Southern_Anduin.md).
+Chuyển hướng tới [Bóng ma phương Nam Anduin](../G/Ghosts_of_the_Southern_Anduin.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Council of Gondor"
 ---
 
-Chuyển hướng tới [Hội đồng Gondor](../C/Council_of_Gondor.md).
+Chuyển hướng đến [Hội đồng Gondor](../C/Council_of_Gondor.md).

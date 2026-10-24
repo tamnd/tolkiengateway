@@ -32,8 +32,8 @@ infobox:
 
 **Mythcon 13** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 13.
 
-- **Chủ đề:** "Celtic Con": Ảnh hưởng của Celtic đối với văn học giả tưởng
-- **Khách đặc biệt:** Nancy-Lou Patterson (diễn giả chính), [Marion Zimmer Bradley](Marion_Zimmer_Bradley.md) (tác giả truyện giả tưởng), [Tim Kirk](../T/Tim_Kirk.md) (nghệ sĩ), Katherine Kurtz (tác giả truyện giả tưởng), Kathryn Lindskoog (học giả Lewis), Ataniel Noel (học giả Tolkien), Paul Edwin Zimmer (tác giả truyện giả tưởng), [Bernie Zuber](../B/Bernie_Zuber.md) (người sáng lập Học bổng Tolkien)
+- **Chủ đề:** "Celtic Nhược điểm: Celtic Ảnh hưởng đến văn học giả tưởng
+- **Khách mời đặc biệt:** Nancy-Lou Patterson (diễn giả chính), [Marion Zimmer Bradley](Marion_Zimmer_Bradley.md) (tác giả truyện giả tưởng), [Tim Kirk](../T/Tim_Kirk.md) (nghệ sĩ), Katherine Kurtz (tác giả truyện giả tưởng), Kathryn Lindskoog (học giả Lewis), Ataniel Noel (học giảTolkien), Paul Edwin Zimmer (tác giả truyện giả tưởng), [Bernie Zuber](../B/Bernie_Zuber.md) (học bổng sáng lập Tolkien)
 - **Chủ tịch:** Lisa Cowan
 
 ## Liên kết ngoài {#External_links}

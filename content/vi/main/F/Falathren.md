@@ -13,7 +13,7 @@ categories:
   - "Westron"
 ---
 
-**Falathren** là tên [Sindarin](../S/Sindarin.md) của [Westron](../W/Westron.md). Nó có nguồn gốc từ từ *[falas](Falas.md)*, "bờ", vì những người nói tiếng này đầu tiên định cư ở bờ biển [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Falathren** là tên [Sindarin](../S/Sindarin.md) của [Westron](../W/Westron.md). Nó có nguồn gốc từ từ *[falas](Falas.md)*, "bờ", vì những người nói tiếng đầu tiên định cư ở bờ biển [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

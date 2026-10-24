@@ -63,7 +63,7 @@ Sự kiện xảy ra vào ngày 18 tháng 5
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1912](1912.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [trả phí Thư viện Liên minh Oxford của mình](../../file/O/Oxford_Union_Society_Library_ledger_-_Tolkien_1912_fee.jpg.md).
+- **[1912](1912.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [trả Oxford phí Thư viện Liên minh](../../file/O/Oxford_Union_Society_Library_ledger_-_Tolkien_1912_fee.jpg.md) của mình.
 - **[1972](1972.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 335](../L/Letter_335.md).
 - **[1973](1973.md)** - [R.B. McCallum](../R/R.B._McCallum.md) chết.
 

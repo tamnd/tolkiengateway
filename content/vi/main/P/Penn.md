@@ -14,7 +14,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
 <i><b>penn</b></i>hoặc <i><b>pend</b></i>, là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "độ dốc". Dạng số nhiều của *penn* là <i><b>pinn</b></i> hoặc <i><b>pind</b></i>. Dạng số nhiều tập thể là <i><b>pennath</b></i> (cf. *[-ath](../_/-ath.md)*). Một biến thể (biện chứng hoặc [Númenórean Sindarin](../N/Númenórean_Sindarin.md)) dạng số nhiều là *[pinnath](Pinnath.md)*.<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup><sup id="cite_ref-RC_2-0" class="reference"><a href="#cite_note-RC-2">[2]</a></sup>
 
@@ -24,7 +24,7 @@ categories:
 
 ## Noldorin {#Noldorin}
 
-<i><b>penn</b></i>hoặc <i><b>pend</b></i>, là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "sự suy thoái".<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
+<i><b>penn</b></i>hoặc <i><b>pend</b></i>, là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "sự suy đồi".<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 

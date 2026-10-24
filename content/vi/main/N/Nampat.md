@@ -41,7 +41,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Nampat** là bài hát thứ 23 của *[The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>)*. Bài hát này xuất hiện trong [tập năm](<../U/Udûn_(episode).md>) như một bài thánh ca chiến tranh được "những đứa trẻ" của [Adar](<../A/Adar_(The_Rings_of_Power).md>) sử dụng trong cuộc hành quân đến [Tháp canh Ostirith](../W/Watchtower_of_Ostirith.md) và sau đó một lần nữa trong cuộc hành quân của họ đến [Tirharad](../T/Tirharad.md).
+**Nampat** là bài hát thứ 23 của *[The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>)*. Bài hát này xuất hiện trong [tập năm](<../U/Udûn_(episode).md>) dưới dạng một bài thánh ca chiến tranh được "những đứa trẻ" của [Adar](<../A/Adar_(The_Rings_of_Power).md>) sử dụng trong cuộc hành quân của họ đến [Tháp Canh Ostirith](../W/Watchtower_of_Ostirith.md) và sau đó một lần nữa trong cuộc hành quân của họ đến [Tirharad](../T/Tirharad.md).
 
 ## Lời bài hát {#Lyrics}
 
@@ -167,7 +167,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Nampat* là từ [Bài phát biểu của người da đen](../B/Black_Speech.md) dịch ra từ "Chết".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+*Nampat* là từ [Hắc Ngữ](../B/Black_Speech.md) dịch ra là từ "Chết".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

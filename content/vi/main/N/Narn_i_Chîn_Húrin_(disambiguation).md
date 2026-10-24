@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Narn i Chîn Húrin** ([Sindarin](../S/Sindarin.md) cho "**Truyện kể về những đứa trẻ của Húrin**") có thể đề cập đến:
+**Narn i Chîn Húrin** ([Sindarin](../S/Sindarin.md) for "**Truyện kể về những đứa trẻ Húrin**") có thể đề cập đến:
 
 ## [huyền thoại](../L/Legendarium.md) {#The_legendarium}
 
@@ -24,12 +24,12 @@ images:
 
 ### Sách {#Books}
 
-- <i><b><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">Những đứa con của Húrin</a></b></i>, còn được gọi là <i><b>Narn i Chîn Húrin</b></i>
+- <i><b><a href="../T/The_Children_of_Húrin.md" title="The Children of Húrin">The Children of Húrin</a></b></i>, còn được gọi là <i><b>Narn i Chîn Húrin</b></i>
 
 ### Chương {#Chapters}
 
 - "**[Narn i Hîn Húrin](Narn_i_Hîn_Húrin.md)**", một chương trong *[Unfinished Tales](../U/Unfinished_Tales.md)*
-- "[Việc nằm của những đứa trẻ Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)", một chương trong *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)*
+- "[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)", một chương trong *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)*
 
 <hr style="margin-top:15px;"/>
 

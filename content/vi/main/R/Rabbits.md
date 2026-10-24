@@ -31,11 +31,11 @@ images:
 
 **Thỏ** là loài động vật có tai dài, có lông, còn được gọi là '<a class="extiw" href="http://en.wiktionary.org/wiki/coney" title="wiktionary:coney">coneys</a>'.
 
-Trong [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md), trò chơi [Golf](../G/Golf.md) được phát minh trong [Trận chiến trên những cánh đồng xanh](../B/Battle_of_the_Green_Fields.md) khi [Bandobras Took](../B/Bandobras_Took.md) chặt đầu [Goblin](../O/Orcs.md) Vua [Golfimbul](../G/Golfimbul.md) và đầu của ông ta bay trong không trung và rơi xuống một hố thỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau khi giải cứu [Thorin và đồng đội](../T/Thorin_and_Company.md) [Đại bàng](../E/Eagles.md) mang thỏ đến ăn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vào [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) ở phía bắc [Ithilien](../I/Ithilien.md), [Samwise Gamgee](../S/Samwise_Gamgee.md) yêu cầu [Gollum](../G/Gollum.md) mang cho ông ta một ít thức ăn. Gollum mang cho ông ta hai con thỏ nhỏ mà Sam tiến hành nấu, khiến Gollum cực kỳ không hài lòng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [T.A.](../T/Third_Age.md) [2747](../T/Third_Age_2747.md), trò chơi [Golf](../G/Golf.md) được phát minh trong [Trận chiến trên những cánh đồng xanh](../B/Battle_of_the_Green_Fields.md) khi [Bandobras Took](../B/Bandobras_Took.md) cắt đầu [Goblin](../O/Orcs.md) Vua [Golfimbul](../G/Golfimbul.md) và đầu của ông ta bay trong không khí và rơi xuống một cái hố thỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau khi giải cứu [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) [Đại Bàng](../E/Eagles.md) mang thỏ đi ăn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Vào ngày [7 tháng 3](../_/7_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md) ở phía bắc [Ithilien](../I/Ithilien.md), [Samwise Gamgee](../S/Samwise_Gamgee.md) yêu cầu [Gollum](../G/Gollum.md) mang cho ông ta một ít thức ăn. Gollum mang cho ông ta hai con thỏ nhỏ Sam tiến hành nấu, trước sự không hài lòng tột độ của Gollum.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong một bản viết tay ngôn ngữ từ những năm 1930, xuất hiện bóng [Quenya](../Q/Quenya.md) <i><b>lopo</b></i> ("thỏ").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong [Qenya](../Q/Qenya.md) trước đó, đó là *lapatte*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong một bản thảo ngôn ngữ từ những năm 1930, xuất hiện [Quenya](../Q/Quenya.md) độ bóng <i><b>lopo</b></i> ("thỏ").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Trong [Qenya](../Q/Qenya.md) trước đó, nó là *lapatte*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -58,11 +58,11 @@ Trong một bản viết tay ngôn ngữ từ những năm 1930, xuất hiện b
 		</li>
 </ul>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>While they camp in <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a>, <a href="../G/Gollum.md" title="Gollum">Gollum</a> brings <a class="mw-redirect" href="../F/Frodo.md" title="Frodo">Frodo</a> and <a class="mw-redirect" href="../S/Sam.md" title="Sam">Sam</a> a pair of freshly caught rabbits. Sam is appalled at Gollum&#39;s suggestion that they eat the rabbits raw and replies &#34;There&#39;s only one way to eat a brace of coneys...&#34; Sam is then seen making rabbit stew in his cooking pot. Gollum wails at this, crying that by cooking them the fresh rabbit has been ruined.</dd></dl>
 
-<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>Người Hobbit</i> (loạt phim)</a>:</b>
+<b>2012-14: <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a>:</b>
 
 <dl><dd><a href="Radagast.md" title="Radagast">Radagast</a> drives a sled pulled by large rabbits, referred to as &#34;<a href="Rhosgobel.md" title="Rhosgobel">Rhosgobel</a> Rabbits&#34;.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 

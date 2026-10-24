@@ -28,12 +28,12 @@ infobox:
 ## Danh sách bản nhạc {#Track_listing}
 
 1. Sự sụp đổ của Gondolin - *07:11*
-2. Kìa Vua Yêu Tinh - *06:58*
+2. Hãy nhìn xem Vua Của Tiên tộc - *06:58*
 3. Trong hang động chúng tôi thám hiểm - *06:23*
-4. Mỏ Nargothrond - *04:42*
-5. Sảnh Thranduil - *05:35*
+4. Mìn Nargothrond - *04:42*
+5. Hội Trường Thranduil - *05:35*
 6. Telperion Và Laurelin - *07:29*
-7. Rèn Vương Miện Sắt - *05:02*
-8. Mũ Rồng Của Dor-lómin - *04:45*
-9. Glaurung The Golden - *07:44*
-10. Yêu tinh bóng tối của Nan Elmoth - *06:40*
+7. Rèn Vương miện Sắt - *05:02*
+8. Số Rồng Helm Của Dor-lómin - *04:45*
+9. Glaurung Vàng - *07:44*
+10. Bóng tối Tiên Của Nan Elmoth - *06:40*

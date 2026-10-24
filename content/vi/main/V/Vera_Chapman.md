@@ -36,9 +36,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vera_Chapman.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4c/Vera_Chapman.jpg/320px-Vera_Chapman.jpg" decoding="async" loading="lazy" width="320" height="417" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Vera_Chapman.jpg/480px-Vera_Chapman.jpg 1.5x, https://tolkiengateway.net/w/images/4/4c/Vera_Chapman.jpg 2x" data-file-width="509" data-file-height="663"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vera Chapman</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/8_May.md" title="8 May">8 May</a>, <a href="../_/1898.md" title="1898">1898</a></td></tr><tr><th scope="row" class="tg-infobox-label">Died</th><td class="tg-infobox-data"><a href="../_/14_May.md" title="14 May">14 May</a>, <a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Author</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="mw-redirect" href="../U/United_Kingdom.md" title="United Kingdom">United Kingdom</a></td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external free" href="http://www.tolkiensociety.org" rel="noreferrer noopener" target="_blank">http://www.tolkiensociety.org</a></td></tr></tbody></table>
 
-**Vera Ivy May Chapman** (nhũ danh **Fogerty**) ([8 tháng 5](../_/8_May.md), [1898](../_/1898.md) - [14 tháng 5](../_/14_May.md), [1996](../_/1996.md), 98 tuổi) là người sáng lập [Hiệp hội Tolkien](../T/The_Tolkien_Society.md), được biết đến với bút danh *"Belladonna Took"*. Cô cũng là tác giả của một số cuốn sách giả lịch sử và giả tưởng về thời Arthurian.
+**Vera Ivy May Chapman** (nhũ danh **Fogerty**) ([8 tháng 5](../_/8_May.md), [1898](../_/1898.md) - [14 tháng 5](../_/14_May.md), [1996](../_/1996.md), 98 tuổi) là người sáng lập [Hội Tolkien](../T/The_Tolkien_Society.md), được biết đến với bút danh *"Belladonna Took"*. Cô cũng là tác giả của một số cuốn sách giả lịch sử và giả tưởng về thời Arthurian.
 
-Vera sinh ra ở [Bournemouth](../B/Bournemouth.md) và sống ở [Nam Phi](../S/South_Africa.md) cho đến khi cô đến [Oxford](../O/Oxford.md). Cô học tại Lady Margaret Hall, [Đại học Oxford](../U/University_of_Oxford.md) và là sinh viên của Pr. [Joseph Wright](../J/Joseph_Wright.md). Năm 1969, bà thành lập [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) mà bà là Thư ký từ năm 1969 đến năm 1976 và thuyết phục [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trở thành Chủ tịch danh dự của Hiệp hội vào ngày 27 tháng 6 năm 1972.
+Vera sinh ra ở [Bournemouth](../B/Bournemouth.md) và sống ở [Nam Phi](../S/South_Africa.md) cho đến khi cô đến [Oxford](../O/Oxford.md). Cô học tại Lady Margaret Hall, [Đại học Oxford](../U/University_of_Oxford.md) và là sinh viên của Pr. [Joseph Wright](../J/Joseph_Wright.md). Năm 1969, bà thành lập [Hội Tolkien](../T/The_Tolkien_Society.md), giữ chức vụ Thư ký từ năm 1969 đến năm 1976 và thuyết phục [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trở thành Chủ tịch danh dự của Hội vào ngày 27/6/1972.
 
 Vera đã viết suốt cuộc đời mình, cố gắng xuất bản trong nhiều năm nhưng không thành công, nhưng điều này không làm cô nản lòng. Mặc dù bà thích nói rằng bà *"đã thu thập đủ phiếu từ chối để dán cả một căn phòng!"* trước khi xuất bản cuốn sách đầu tiên, bà chưa bao giờ bỏ cuộc. Cuốn tiểu thuyết đầu tiên của bà, *"The Green Knight"*, một câu chuyện thời vua Arthur, được xuất bản vào năm [1975](../_/1975.md), và bà tiếp tục viết cho đến khi qua đời vào năm [1996](../_/1996.md). Nhiều câu chuyện của cô vẫn chưa được xuất bản, bao gồm một *"Fate of Jerusalem"*hoành tráng, một bối cảnh giả tưởng trong thời kỳ Thập tự chinh. Nhân vật nổi tiếng nhất của cô là Abbess of Shaston, nữ anh hùng trong bộ sưu tập *"The Notorious Abbess"*đã xuất bản của cô, người cũng xuất hiện trong *The Fate of Jerusalem*.
 
@@ -52,17 +52,17 @@ Vera đã viết suốt cuộc đời mình, cố gắng xuất bản trong nhi�
     - "*Hippies or Hobbits*"
 - [*Mallorn* 3](../M/Mallorn_3.md)
     - "*The Religion of a Hobbit*"
-    - "*Hippy so với Hobbit, câu trả lời cho “Thay mặt cho một nửa Hippy*”, của A.R. (Faramir) Fallone, trong Mallorn 2"
+    - "*Hippy Versus Hobbit, câu trả lời cho “Thay mặt cho một nửa Hippy*”, bởi A.R. (Faramir) Fallone, trong Mallorn 2"
 - [*Mallorn 4*](../M/Mallorn_4.md)
     - "*Bài đánh giá sách về “The Wood Beyond the World”*, của William Morris, được tái bản trong Bộ truyện giả tưởng dành cho người lớn Ballantine"
 - [1972](../_/1972.md): [*Mallorn* 6](../M/Mallorn_6.md)
-    - "*Belladonna Goes to a Party*, hồi tưởng về cuộc gặp với Tolkien, Rayner Unwin, cũng như Ian và Betty Ballantine, những nhà xuất bản người Mỹ"
+    - "*Belladonna Goes to a Party*, hồi tưởng về cuộc gặp với Tolkien, Rayner Unwin, cũng như Ian và Betty Ballantine, các nhà xuất bản Mỹ"
 - [1973](../_/1973.md): [*Mallorn* 7](../M/Mallorn_7.md)
-    - "*Namárië*, hồi ức cá nhân của Tolkien"
+    - "*Namárië*, hồi ức cá nhân về Tolkien"
 - *[Mallorn 1-6](../M/Mallorn.md)*
     - "*Belladonna's Postbag*"
 - *[Mallorn 7](../M/Mallorn_7.md)*
-    - "*Đánh giá sách về “Những huyền thoại tò mò thời Trung Cổ”*, của Sabine Baring-Gould"
+    - "*Đánh giá sách về “Những huyền thoại tò mò ở miền Trung Kỷ nguyên”*, của Sabine Baring-Gould"
 - [1982](../_/1982.md): [*Amon Hen* 54](../A/Amon_Hen_54.md)
     - " *[Shelob](../S/Shelob.md) in North London*"
     - "*Beowulf*"
@@ -75,11 +75,11 @@ Vera đã viết suốt cuộc đời mình, cố gắng xuất bản trong nhi�
     - "*Leaves from the Party Tree*"
     - "Sách Tuổi Thơ Của Tôi"
 - [1992](../_/1992.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
-    - "*Hồi tưởng: Oxford năm 1920, gặp Tolkien và trở thành tác giả ở tuổi 77*"
+    - "*Hồi tưởng: Oxford năm 1920, Gặp gỡ Tolkien và trở thành tác giả ở tuổi 77*"
 - [2002](../_/2002.md): [*The Best of Amon Hen* Phần 2](../T/The_Best_of_Amon_Hen.md)
     - "*Leaves from the Party Tree*"
 
-### Tiểu thuyết liên quan đến Tolkien {#Tolkien-related_fiction}
+### Tolkien tiểu thuyết liên quan {#Tolkien-related_fiction}
 
 - [1975](../_/1975.md): *[Mallorn 9](../M/Mallorn_9.md)*
     - "*A Dwarf Wives' Tale, Part 1"*
@@ -95,18 +95,18 @@ Vera đã viết suốt cuộc đời mình, cố gắng xuất bản trong nhi�
 - Mùa thu [1987](../_/1987.md): [*Weathertop* 5](../W/Weathertop_5.md)
     - *"Belladonna của Belladonna", phần 3 và 4*
 
-### Tiểu thuyết không liên quan đến Tolkien {#Non-Tolkien-related_fiction}
+### Tiểu thuyết không liên quanTolkien {#Non-Tolkien-related_fiction}
 
 - [1972](../_/1972.md): [*Mallorn* 5](../M/Mallorn_5.md)
     - "*Sir John de Creke, Nhiệm vụ của ông, Phần 1 và 2"*
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Vera Chapman và Hiệp hội Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md) (thư của Tolkien)
+- [Thư gửi Vera Chapman và Hội Tolkien](../L/Letter_to_Vera_Chapman_and_the_Tolkien_Society.md) (thư từ Tolkien)
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://web.archive.org/web/20070208180112/http://www.tolkiensociety.org/ts_info/folk/vera-chapman.html" rel="noreferrer noopener" target="_blank">Vera Chapman tại Hiệp hội Tolkien</a> Lưu trữ web
+- <a class="external text" href="https://web.archive.org/web/20070208180112/http://www.tolkiensociety.org/ts_info/folk/vera-chapman.html" rel="noreferrer noopener" target="_blank">Vera Chapman tại Tolkien Hội</a> Lưu trữ web
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Vera_Chapman" title="wikipedia:Vera Chapman">Vera Chapman</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 - <a class="external text" href="https://www.fantasticfiction.co.uk/c/vera-chapman/" rel="noreferrer noopener" target="_blank">Danh sách tác phẩm tại Fantastic Fiction</a>
 - <a class="external text" href="https://druidry.org/resources/vera-chapman" rel="noreferrer noopener" target="_blank">Vera Chapman</a> tại Druidry

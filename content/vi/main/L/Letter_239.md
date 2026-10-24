@@ -31,18 +31,18 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã viết thư cho [Alina Dadlez](../A/Alina_Dadlez.md) tại [Allen & Unwin](../A/Allen_and_Unwin.md) liên quan đến bản dịch tiếng Tây Ban Nha của *[The Hobbit](../T/The_Hobbit.md)*. Một điểm khiến Tolkien quan tâm là việc sử dụng *gnomos* làm bản dịch của "[Người lùn](../D/Dwarves.md)" và "[Gnomes](../N/Noldor.md)". Ông giải thích rằng ban đầu ông kết nối từ <i><a class="extiw" href="http://en.wikipedia.org/wiki/gnome" title="wikipedia:gnome">gnome</a></i> với tiếng Hy Lạp *wisdom*, nhưng đã bỏ nó vì nó được sử dụng phổ biến hơn cho *pygmaeus* ("pygmy").
+Tolkien đã viết thư cho [Alina Dadlez](../A/Alina_Dadlez.md) tại [Allen &amp; Unwin](../A/Allen_and_Unwin.md) liên quan đến bản dịch tiếng Tây Ban Nha của *[The Hobbit](../T/The_Hobbit.md)*. Một điểm cần quan tâm đối với Tolkien là việc sử dụng *gnomos* làm bản dịch của "[Người Lùn](../D/Dwarves.md)" và "[Gnomes](../N/Noldor.md)". Ông giải thích rằng ban đầu ông kết nối từ <i><a class="extiw" href="http://en.wikipedia.org/wiki/gnome" title="wikipedia:gnome">gnome</a></i> với tiếng Hy Lạp *wisdom*, nhưng đã bỏ nó vì nó được sử dụng phổ biến hơn cho *pygmaeus* ("pygmy").
 
-(Bản dịch tiếng Tây Ban Nha cuối cùng đã sử dụng <i><a class="extiw" href="http://en.wiktionary.org/wiki/enanos" title="wiktionary:enanos">enanos</a></i> cho Người lùn; không rõ liệu gợi ý thứ hai có được tuân theo hay không.)
+(Bản dịch tiếng Tây Ban Nha cuối cùng đã sử dụng <i><a class="extiw" href="http://en.wiktionary.org/wiki/enanos" title="wiktionary:enanos">enanos</a></i> cho Người Lùn; không biết liệu gợi ý thứ hai có được tuân theo hay không.)
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong đoạn trước, Tolkien nói rằng ông mong muốn *hobbit* không được dịch, (để ngăn chặn một trường hợp khác chẳng hạn như bản dịch tiếng Thụy Điển trái phép *Hompen*,) và rằng ông đã đồng ý sử dụng một số dạng nhập tịch như *hobitos*, (như với *elfos*), rất may là phù hợp với hậu tố nhỏ bé tiếng Tây Ban Nha.
+Trong đoạn trước Tolkien nói rằng ông muốn *hobbit* không được dịch, (để ngăn chặn một trường hợp khác chẳng hạn như bản dịch tiếng Thụy Điển trái phép *Hompen*,) và rằng ông đã đồng ý sử dụng một số dạng nhập tịch như *hobitos*, (như với *elfos*,) may mắn là phù hợp với hậu tố nhỏ bé tiếng Tây Ban Nha.
 
 ## Xem thêm {#See_also}
 
 - [Thư gửi Alina Dadlez (20 tháng 7 năm 1962)](<Letter_to_Alina_Dadlez_(20_July_1962).md>)
-- [Thư gửi Alina Dadlez (19 tháng 9 năm 1962)](<Letter_to_Alina_Dadlez_(19_September_1962).md>)
+- [Thư gửi Alina Dadlez (19 tháng Chín 1962)](<Letter_to_Alina_Dadlez_(19_September_1962).md>)
 
 <span></span>
 

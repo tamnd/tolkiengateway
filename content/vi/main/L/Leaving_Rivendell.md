@@ -24,7 +24,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Leaving_Rivendell_album_cover.png.md"><img src="https://tolkiengateway.net/w/images/1/12/Leaving_Rivendell_album_cover.png" decoding="async" loading="lazy" width="316" height="316" class="mw-file-element" data-file-width="316" data-file-height="316"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Leaving Rivendell</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Studio album by Tolkien Ensemble</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Classical</td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">69:00</td></tr></tbody></table>
 
-<i><b>Rời Rivendell</b></i> là album thứ tư của [Tolkien Ensemble](../T/Tolkien_Ensemble.md).
+<i><b>Rời đi Rivendell</b></i> là album thứ tư của [Tolkien Ensemble](../T/Tolkien_Ensemble.md).
 
 ## Danh sách bài hát {#Tracks_listing}
 

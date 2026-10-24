@@ -16,7 +16,7 @@ categories:
 
 ## Ilkorin {#Ilkorin}
 
-<i><b>esgar</b></i> là từ [Ilkorin](../I/Ilkorin.md) có nghĩa là "lưới sậy".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>esgar</b></i> là một từ [Ilkorin](../I/Ilkorin.md) có nghĩa là "lưới sậy".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
@@ -26,9 +26,9 @@ categories:
 
 - *[Esgaroth](../L/Lake-town.md#Etymology)*<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-## Người Tiên {#Elvish}
+## Elvish {#Elvish}
 
-<i><b>esgar</b></i> có nghĩa là "bờ biển", trong một ngôn ngữ [Elvish](Elvish.md) không xác định.<sup id="cite_ref-VT46_2-0" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
+<i><b>esgar</b></i> có nghĩa là "bờ biển", trong [Elvish](Elvish.md) ngôn ngữ không xác định.<sup id="cite_ref-VT46_2-0" class="reference"><a href="#cite_note-VT46-2">[2]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 

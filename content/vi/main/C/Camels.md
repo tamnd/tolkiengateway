@@ -22,7 +22,7 @@ images:
 
 <figure typeof="mw:File/Frame"><a class="mw-file-description" href="../../file/P/Pauline_Baynes_-_Camels_(excerpt).png.md"><img src="https://tolkiengateway.net/w/images/5/56/Pauline_Baynes_-_Camels_%28excerpt%29.png" decoding="async" loading="lazy" width="286" height="182" class="mw-file-element" data-file-width="286" data-file-height="182"/></a><figcaption>Excerpt from <a href="../P/Pauline_Baynes.md" title="Pauline Baynes">Pauline Baynes</a>&#39;s <i><a href="../A/A_Map_of_Middle-earth.md" title="A Map of Middle-earth">A Map of Middle-earth</a></i></figcaption></figure>
 
-**Lạc đà** là loài động vật có nguồn gốc từ [vùng đất phía Nam](../../category/S/Southern_lands.md) và do đó xuất hiện được minh họa trên [bản đồ Trung Địa](<../../file/P/Pauline_Baynes_-_A_Map_of_Middle-earth_(color)_2.jpg.md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Mặt khác, những loài động vật này chỉ xuất hiện trong các văn bản ngôn ngữ có niên đại từ các phiên bản đầu tiên của [truyền thuyết](../L/Legendarium.md).<sup id="cite_ref-PE12_2-0" class="reference"><a href="#cite_note-PE12-2">[1]</a></sup><sup id="cite_ref-PE14_3-0" class="reference"><a href="#cite_note-PE14-3">[2]</a></sup>
+**Lạc đà** là loài động vật có nguồn gốc từ [vùng đất phía Nam](../../category/S/Southern_lands.md) và do đó xuất hiện được minh họa trên [bản đồ của Trung Địa](<../../file/P/Pauline_Baynes_-_A_Map_of_Middle-earth_(color)_2.jpg.md>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Mặt khác, những loài động vật này chỉ xuất hiện trong các văn bản ngôn ngữ có niên đại từ các phiên bản đầu tiên của [truyền thuyết](../L/Legendarium.md).<sup id="cite_ref-PE12_2-0" class="reference"><a href="#cite_note-PE12-2">[1]</a></sup><sup id="cite_ref-PE14_3-0" class="reference"><a href="#cite_note-PE14-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -56,7 +56,7 @@ Tên [Qenya](../Q/Qenya.md) của "lạc đà" là <i><b>ulun(t)</b></i>.<sup id
 		</li>
 </ul>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Camels, level 4 animals, are called <i>devevi</i> (sing. <i>deve</i>) in Apysaic (a language of south-western Endor). There are both one- and two-humped variants of the beast.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Staibir is the name of a War Camel appearing in an adventure set in Southwestern Middle-earth.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup></dd></dl>
 
@@ -64,7 +64,7 @@ Tên [Qenya](../Q/Qenya.md) của "lạc đà" là <i><b>ulun(t)</b></i>.<sup id
 
 <dl><dd>A camel was released as part of the 32mm scale figure &#34;Haradrian Champion on War Camel&#34;.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup></dd></dl>
 
-<b>2001-: <i><a class="mw-redirect" href="../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md" title="The Lord of the Rings Strategy Battle Game">Trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2001-: <i><a class="mw-redirect" href="../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md" title="The Lord of the Rings Strategy Battle Game">The Lord of the Rings Trò chơi chiến đấu chiến lược</a></i>:</b>
 
 <dl><dd>Camels are used as mounts by the Mahud Raiders of the barren lands of the Nafarat.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup></dd></dl>
 

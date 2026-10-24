@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Knudson, Rebecca"
 ---
 
-- Rebecca Knudson đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Rebecca_Knudson.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Rebecca Knudson đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Rebecca_Knudson.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 3 tháng 10 năm 2025
 - Người dùng đã xin phép qua email: [BrandonEchols](https://tolkiengateway.net/wiki/User:BrandonEchols)

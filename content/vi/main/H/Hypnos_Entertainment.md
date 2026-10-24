@@ -22,7 +22,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Hypnos Entertainment** là nhà phát triển trò chơi điện tử. Họ đã phát triển cổng GameCube cho [The Two Towers](../E/EA's_The_Two_Towers.md) của EA.
+**Hypnos Entertainment** là nhà phát triển trò chơi điện tử. Họ đã phát triển cổng GameCube cho [EA's The Two Towers](../E/EA's_The_Two_Towers.md).
 
 ## Liên kết ngoài {#External_links}
 

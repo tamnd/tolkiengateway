@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien mô tả quá trình hồi phục của ông sau đợt nhiễm virus nghiêm trọng mà ông mắc phải vào tháng 9. Ông giải thích rằng căn bệnh của ông cần phải được bác sĩ lo lắng đến thăm khám hàng ngày trong một tháng và khiến ông suy yếu nghiêm trọng. Ông không thể đi lại trong 8 tuần và chỉ trở về nhà sau đó. Vợ anh đã phải gánh một gánh nặng đáng kể trong thời gian này, phải chăm sóc anh bất chấp tình trạng bệnh khớp của cô, cho đến khi họ chuyển đến Bournemouth để được một bác sĩ đáng tin cậy khác chăm sóc. <br>
+Tolkien mô tả quá trình hồi phục của ông sau khi bị nhiễm vi-rút nghiêm trọng mà ông mắc phải trong tháng Chín. Ông giải thích rằng căn bệnh của ông cần phải được bác sĩ lo lắng đến thăm khám hàng ngày trong một tháng và khiến ông suy yếu nghiêm trọng. Ông không thể đi lại trong 8 tuần và chỉ trở về nhà sau đó. Vợ anh đã phải gánh một gánh nặng đáng kể trong thời gian này, phải chăm sóc anh bất chấp tình trạng bệnh khớp của cô, cho đến khi họ chuyển đến Bournemouth để được một bác sĩ đáng tin cậy khác chăm sóc. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

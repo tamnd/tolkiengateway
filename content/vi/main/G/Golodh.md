@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Golodhrim"
 ---
 
-<i><b>golodh</b></i> (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈɡoloð]</span>), số nhiều <i><b>gelydh</b></i> (<span title="Pronunciation in IPA" class="IPA">[ˈɡelyð]</span>, sau <span title="Pronunciation in IPA" class="IPA">[ˈɡelið]</span>) hoặc cũ hơn <i><b>gœlydh</b></i> (<span title="Pronunciation in IPA" class="IPA">[ˈɡølyð]</span>), là từ [Sindarin](../S/Sindarin.md) để chỉ "một trong những người thông thái", a *Noldo*, pl. *[Noldor](../N/Noldor.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>golodh</b></i> (phát âm <span title="Pronunciation in IPA" class="IPA">[ˈɡoloð]</span>), số nhiều <i><b>gelydh</b></i> (<span title="Pronunciation in IPA" class="IPA">[ˈɡelyð]</span>, sau <span title="Pronunciation in IPA" class="IPA">[ˈɡelið]</span>) hoặc cũ hơn <i><b>gœlydh</b></i> (<span title="Pronunciation in IPA" class="IPA">[ˈɡølyð]</span>), là từ [Sindarin](../S/Sindarin.md) chỉ "một trong những người thông thái", a *Noldo*, pl. *[Noldor](../N/Noldor.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Dạng số nhiều của lớp <i><b>Golodhrim</b></i> (pron. <span title="Pronunciation in IPA" class="IPA">[ɡoˈloðrim]</span>) chứa *[-rim](../R/Rim.md)* dưới dạng đuôi số nhiều tập thể.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -31,7 +31,7 @@ Dạng số nhiều của lớp <i><b>Golodhrim</b></i> (pron. <span title="Pron
 
 ## Ví dụ {#Examples}
 
-- <i><a href="../A/Annon-in-Gelydh.md" title="Annon-in-Gelydh">Annon-in-<b>Gelydh</b></a></i> = "Cổng của Noldor"
+- <i><a href="../A/Annon-in-Gelydh.md" title="Annon-in-Gelydh">Annon-in-<b>Gelydh</b></a></i> = "Cổng Noldor"
 - <i><a href="../P/Pengolodh.md" title="Pengolodh">Bút<b>golodh</b></a></i> = "Dạy hiền"
 
 ## Có cùng nguồn gốc {#Cognates}
@@ -42,7 +42,7 @@ Dạng số nhiều của lớp <i><b>Golodhrim</b></i> (pron. <span title="Pron
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Bài phát biểu của người da đen](../B/Black_Speech.md) *[golug](Golug.md)*
+- [Hắc Ngữ](../B/Black_Speech.md) *[golug](Golug.md)*
 
 <span></span>
 

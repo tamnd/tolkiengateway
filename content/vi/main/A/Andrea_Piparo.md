@@ -26,9 +26,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Andrea Piparo</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Andrea Piparo** là một họa sĩ minh họa giả tưởng người Ý. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), ông đã sáng tạo nghệ thuật cho các bản mở rộng [Tales of Middle-earth](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md)<sup id="cite_ref-Reddit_2-0" class="reference"><a href="#cite_note-Reddit-2">[2]</a></sup>. Ông cũng làm việc về tác phẩm nghệ thuật cho [War of the Ring: The Card Game](../W/War_of_the_Ring%253A_The_Card_Game.md).
+**Andrea Piparo** là một họa sĩ minh họa giả tưởng người Ý. Với tư cách là một nghệ sĩ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md), ông đã sáng tạo nghệ thuật cho các bản mở rộng [Tales of Trung Địa](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và [The Hobbit](../M/Magic%253A_The_Gathering_-_The_Hobbit.md)<sup id="cite_ref-Reddit_2-0" class="reference"><a href="#cite_note-Reddit-2">[2]</a></sup>. Ông cũng làm việc về tác phẩm nghệ thuật cho [War of the Ring: The Card Game](../W/War_of_the_Ring%253A_The_Card_Game.md).
 
-Ngoài tác phẩm dựa trên Tolkien, anh còn vẽ ảnh bìa cho *Against the DarkMaster*, một sản phẩm kế thừa tinh thần của [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Ngoài tác phẩm dựa trên Tolkien của mình, anh còn vẽ ảnh bìa cho *Against the DarkMaster*, người kế thừa tinh thần của [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

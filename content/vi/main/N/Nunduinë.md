@@ -18,11 +18,11 @@ sort_keys:
   "Rivers": "Nunduine"
 ---
 
-**Nunduinë** là con sông [Númenor](Númenor.md), dài thứ hai sau [Siril](../S/Siril.md). Nó chảy về phía tây ra khỏi khu vực trung tâm của hòn đảo và khi đến gần biển, nước của nó lan rộng tạo thành hồ thơm [Nísinen](Nísinen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Miệng của nó nằm ở nơi trú ẩn của [Eldalondë](../E/Eldalondë.md), trên bờ [Vịnh Eldanna](../B/Bay_of_Eldanna.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Nunduinë** là con sông có [Númenor](Númenor.md), dài thứ hai sau [Siril](../S/Siril.md). Nó chảy về phía tây ra khỏi khu vực trung tâm của hòn đảo và khi đến gần biển, nước của nó lan rộng tạo thành hồ thơm [Nísinen](Nísinen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Miệng của nó nằm ở nơi trú ẩn của [Eldalondë](../E/Eldalondë.md), trên bờ [Vịnh Eldanna](../B/Bay_of_Eldanna.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã gợi ý rằng *Nunduinë* là tên [Quenya](../Q/Quenya.md) có nghĩa là "Sông phía Tây", bao gồm *nún-* ("tây") + [*-duinë*](../L/Luine.md) ("sông").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Patrick H. Wynne](../P/Patrick_H._Wynne.md) đã gợi ý rằng *Nunduinë* là tên [Quenya](../Q/Quenya.md) có nghĩa là "Sông phía Tây", bao gồm *nún-* ("miền Tây") + [*-duinë*](../L/Luine.md) ("sông").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

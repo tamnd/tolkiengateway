@@ -46,23 +46,23 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- Hội thảo Tolkien 2007:
-    - "Cuộc hành trình của nhà vua: Những bài đọc của Tolkien về vương quyền của vua Arthur" của [Vincent Ferré](../V/Vincent_Ferré.md)
+- Tolkien Hội thảo năm 2007:
+    - "Lộ trình của Vua: Các bài đọc của Tolkien về Vương quyền của vua Arthur" của [Vincent Ferré](../V/Vincent_Ferré.md)
     - "Nói chuyện với động vật: Niềm khao khát nằm trong trái tim của Thần tiên" của Guglielmo Spirito
     - "Die Metaphysical der Zweitschöpfung. Zur Ontologie von Mythopoeia" của Frank Weinreich
-    - "Tác phẩm phụ của Tolkiens – Die kleinen Werke als truyện cổ tích?" của [Thomas Fornet-Ponse](../T/Thomas_Fornet-Ponse.md)
+    - "Tác phẩm phụ của Tolkiens – Die kleinen Werke als truyện cổ tích?" bởi [Thomas Fornet-Ponse](../T/Thomas_Fornet-Ponse.md)
     - "*Smith of Wootton Major* cũng là văn bản tôn giáo" của Martin Sternberg
     - "*Farmer Giles of Ham*: nguyên mẫu chính của Drachengeschichte trong Truyền thống hài hước" của Friedhelm Schneidewind
     - "Das Drachenmotiv bei Tolkien als Poelogisches Konzept zur Genese des Episch-Historischen" của Patrick A. Brückner
-    - ""Tom Bombadil: Những tội lỗi thời tuổi trẻ" của Allan Turner
-    - "Chiếc lá của Tolkien?" của Fabian Geier
+    - ""Tom Bombadil: Những tội lỗi của tuổi trẻ" của Allan Turner
+    - "Lá bởi Tolkien?" của Fabian Geier
     - "Blatt von Tüftler: eine Liteturkritische Untersuchung" của Heidi Krüger
     - "Hành trình trong bóng tối" của Margaret Hiley
-    - "Ngôi sao trên cột buồm: Tolkien, Thần tiên và cuộc đào thoát vĩ đại" của Anna Slack
+    - "Một ngôi sao trên cột buồm: Tolkien, Thần tiên và cuộc đào thoát vĩ đại" của Anna Slack
 
 - Ghi chú
     - "Zwischen Genie und Wahnsinn: Gedanken eines Künstlers über Muschelklang und Elbenstern" của Friedhelm Schneidewind
-    - "*The Children of Húrin*: Công dụng của nó đối với Học bổng Tolkien" của Thomas Fornet-Ponse
+    - "*The Children of Húrin*: Công dụng của nó cho học bổng Tolkien" của Thomas Fornet-Ponse
 
 - Rezensionen
 

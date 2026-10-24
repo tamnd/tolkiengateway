@@ -68,23 +68,23 @@ Sự kiện xảy ra vào ngày 3 tháng 10
 
 - **[1896](1896.md)** - [William Morris](../W/William_Morris.md), nghệ sĩ và tác giả có ảnh hưởng đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), qua đời.
 - **[1911](1911.md)** - Diễn viên lồng tiếng [Michael Hordern](../M/Michael_Hordern.md) ra đời.
-- **[1936](1936.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kết thúc việc gõ lại *[The Hobbit](../T/The_Hobbit.md)*.
+- **[1936](1936.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gõ lại xong *[The Hobbit](../T/The_Hobbit.md)*.
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 16](../L/Letter_16.md).
 - **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đăng [một bức thư gửi Eileen Elgar](<../L/Letter_to_Eileen_Elgar_(September_1963).md>).
-- **[1976](1976.md)** - [Oxonmoot 1976](../O/Oxonmoot_1976.md) tại The Welsh Pony.
-- **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Những câu đố trong bóng tối" được phát sóng trên [BBC](../B/BBC.md).
+- **[1976](1976.md)** - [Oxonmoot 1976](../O/Oxonmoot_1976.md) tại The tiếng Wales Pony.
+- **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Những câu đố trong bóng tối" được phát sóng trên kênh [BBC](../B/BBC.md).
 - **[1998](1998.md)** - Diễn viên lồng tiếng [Roddy McDowall](../R/Roddy_McDowall.md) qua đời.
 - **[2009](2009.md)** - Tác giả [Gisbert Kranz](../G/Gisbert_Kranz.md) qua đời.
 - **[2009](2009.md)** - [Ring\*Con 2009](../R/Ring%252ACon_2009.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2010](2010.md)** - Năm Thánh dành cho [Mithlond, Hiệp hội Gothenburg Tolkien](../M/Mithlond,_Göteborgs_Tolkiensällskap.md) của Thụy Điển.
+- **[2010](2010.md)** - Năm Thánh [Mithlond, Hiệp hội Gothenburg Tolkien](../M/Mithlond,_Göteborgs_Tolkiensällskap.md) của Thụy Điển.
 - **[2014](2014.md)** - [Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md) được phát hành ở Châu Âu.
 - **[2022](2022.md)** - Quá trình sản xuất phần thứ hai của loạt phim [The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md) bắt đầu ở Vương quốc Anh.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) đến [Weathertop](../W/Weathertop.md) và đánh dấu một hòn đá. Vào ban đêm, ông ta bị [Kỵ sĩ đen](../N/Nazgûl.md) tấn công ở đó. Ông ta trốn thoát được với bốn Kỵ sĩ phía sau.
-    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi tới [Weathertop](../W/Weathertop.md). Họ nhìn thấy những tia sáng từ trận chiến tại Weathertop khi rời khỏi [Đầm lầy Midwater](../M/Midgewater_Marshes.md).
+    - [Gandalf](../G/Gandalf.md) đến [Weathertop](../W/Weathertop.md) và đánh dấu một hòn đá. Vào ban đêm, ông ta bị tấn công ở đó bởi [Kỵ sĩ Đen](../N/Nazgûl.md). Ông ta trốn thoát được với bốn Kỵ sĩ phía sau.
+    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi về hướng [Weathertop](../W/Weathertop.md). Họ nhìn thấy những tia sáng từ trận chiến tại Weathertop khi họ rời khỏi [Đầm lầy Midwater](../M/Midgewater_Marshes.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
     - Quý I<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

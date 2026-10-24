@@ -46,7 +46,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Gimilzagar* là tên [Adûnaic](../A/Adûnaic.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng nó có thể có nghĩa là "Thanh kiếm của các vì sao", là sự kết hợp của *[gimil](Gimil.md)* ("các ngôi sao") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Zagar&amp;action=edit&amp;redlink=1" title="Zagar (page does not exist)">zagar</a></i> ("thanh kiếm").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Gimilzagar* là tên [Adûnaic](../A/Adûnaic.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý rằng nó có thể có nghĩa là "Thanh kiếm của các vì sao", là sự kết hợp của *[gimil](Gimil.md)* ("các ngôi sao") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Zagar&amp;action=edit&amp;redlink=1" title="Zagar (page does not exist)">zagar</a></i> ("thanh kiếm").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -18,7 +18,7 @@ sort_keys:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcuts:<br/><a class="mw-redirect" href="CHAT~47570.md" title="Tolkien Gateway:CHAT">TG:CHAT</a><br/><a class="mw-redirect" href="../I/IRC.md" title="Tolkien Gateway:IRC">TG:IRC</a></small></th></tr></tbody></table>
 
-[Tolkien Gateway](../../main/T/Tolkien_Gateway.md)'s **official chat** or **IRC** (Internet Relay Chat) was an old platform where any editor, user, or members of the public could chat with other like-minded folk about [Tolkien Gateway](../../main/T/Tolkien_Gateway.md), [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md), or anything they wish. The purpose of the IRC was to enable editors to discuss Tolkien Gateway as well as meet fellow Tolkien enthusiasts. As the active users of the wiki decreased, the chat became eventually obsolete and its platform was never updated.
+**Trò chuyện chính thức** hoặc **IRC** (Trò chuyện chuyển tiếp Internet) của [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) là một nền tảng cũ nơi bất kỳ biên tập viên, người dùng hoặc thành viên nào của công chúng đều có thể trò chuyện với những người có cùng quan điểm về [Tolkien Gateway](../../main/T/Tolkien_Gateway.md), [J.R.R. Tolkien](../../main/J/J.R.R._Tolkien.md) hoặc bất kỳ điều gì họ muốn. Mục đích của IRC là tạo điều kiện cho các biên tập viên thảo luận về Tolkien Gateway cũng như gặp gỡ những người bạn cùng đam mê Tolkien. Khi số lượng người dùng tích cực của wiki giảm đi, cuộc trò chuyện cuối cùng trở nên lỗi thời và nền tảng của nó không bao giờ được cập nhật.
 
 Người dùng không cần đăng ký và không cần cài đặt bất cứ thứ gì vì họ có thể truy cập trò chuyện qua Mibbit. <b><a class="external text" href="http://widget.mibbit.com/?server=irc.tolkiengateway.net&amp;channel=%23TolkienGateway" rel="noreferrer noopener" target="_blank">Để trò chuyện ngay bây giờ, hãy nhấp vào đây</a></b> hoặc đọc hướng dẫn bên dưới.
 
@@ -65,23 +65,23 @@ Trên Windows, chương trình xchat chính thức là phần mềm chia sẻ v�
 - **#Civ4** - để thảo luận về <a class="extiw" href="http://en.wikipedia.org/wiki/Civilization_IV" title="wikipedia:Civilization IV">Nền văn minh IV</a>
 - **#EoI** - Kênh chính thức của ElvesofImladris.com
 - **#GeneralTrivia** - Kênh đố vui tổng hợp
-- **#HangHobbit** - Trò chơi treo cổ Tolkien
+- **#HangHobbit** - Tolkien trò chơi treo cổ
 - **#Imladris** - Kênh chính thức của Imladris.dk
 - **#IRPG** - Trò chơi RPG nhàn rỗi
 - **#Kontu** - Kênh chính thức của Kontu.info <small>(<a class="extiw" href="http://en.wikipedia.org/wiki/Finnish_language" title="wikipedia:Finnish language">Kênh Phần Lan</a>)</small>
-- **#Lore** - Thảo luận nâng cao về truyền thuyết của Tolkien
+- **#Lore** - Thảo luận nâng cao về huyền thoại của Tolkien
 - **#LotRMMORPG** - Kênh chính thức của LotRMMORPG.com
 - **#LotroSource** - Kênh chính thức của LotroSource.com
 - **#MinasTirith** - Kênh không chính thức của MinasTirith.com
 - **#Rosie** - Kênh cá nhân của Rosie
 - **#SA** - Kênh chính thức của SA-Guild.com
 - **#SSF** - Kênh chính thức của SideshowCollectors.com
-- **#TolkienAudio** - Luồng âm thanh/nhạc Tolkien
-- **#Trivia** - Kênh đố vui Tolkien
+- **#TolkienAudio** - Tolkien luồng âm thanh/âm nhạc
+- **#Trivia** - Tolkien kênh đố vui
 - **#tshgame** - Kênh chính thức của tshgame.com
 - **#Westeros** - Bài hát của băng và lửa - George R.R. Martin
 - **#WotR** - Kênh chính thức của WaroftheRing.net
 
 ## Xem thêm {#See_also}
 
-- [Cổng Tolkien:Các cuộc họp](../M/Meetings.md), được tổ chức trên kênh <code>#wiki</code> của cuộc trò chuyện.
+- [Tolkien Gateway:Các cuộc họp](../M/Meetings.md) được tổ chức trên kênh <code>#wiki</code> của cuộc trò chuyện.

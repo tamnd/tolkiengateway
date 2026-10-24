@@ -33,13 +33,13 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Osgiliath_Fords.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cb/The_Lord_of_the_Rings_Online_-_Osgiliath_Fords.jpg/300px-The_Lord_of_the_Rings_Online_-_Osgiliath_Fords.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cb/The_Lord_of_the_Rings_Online_-_Osgiliath_Fords.jpg/450px-The_Lord_of_the_Rings_Online_-_Osgiliath_Fords.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cb/The_Lord_of_the_Rings_Online_-_Osgiliath_Fords.jpg/600px-The_Lord_of_the_Rings_Online_-_Osgiliath_Fords.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Osgiliath Fords in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Osgiliath Fords**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một khu vực ở thành phố [Osgiliath](Osgiliath.md) nơi một số cây cầu được xây dựng. Một trong số họ có [Vòm sao](../D/Dome_of_Stars.md).<sup id="cite_ref-rings_2-0" class="reference"><a href="#cite_note-rings-2">[2]</a></sup> Con sông mà họ băng qua là [Anduin](../A/Anduin.md) một con sông lớn và hùng vĩ.
+**Osgiliath Fords**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một khu vực ở thành phố [Osgiliath](Osgiliath.md) nơi có một số cây cầu được xây dựng. Một trong số họ có [Vòm sao](../D/Dome_of_Stars.md).<sup id="cite_ref-rings_2-0" class="reference"><a href="#cite_note-rings-2">[2]</a></sup> Con sông mà họ băng qua là [Anduin](../A/Anduin.md) một con sông lớn và hùng vĩ.
 
-Cuối cùng, những khúc cạn và cây cầu này cùng với phần còn lại của thành phố đã bị bỏ hoang khi [Sauron](../S/Sauron.md) phát động một cuộc tấn công toàn diện.
+Cuối cùng, những pháo đài và cây cầu này cùng với phần còn lại của thành phố đã bị bỏ hoang khi [Sauron](../S/Sauron.md) tiến hành một cuộc tấn công toàn diện.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>A series of fords both north and south of the ruined Great Bridge provide a way across the <a href="../A/Anduin.md" title="Anduin">Anduin</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

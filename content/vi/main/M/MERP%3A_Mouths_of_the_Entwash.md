@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mouths of the Entwash"
 ---
 
-Chuyển hướng đến [Miệng Entwash](Mouths_of_the_Entwash.md).
+Chuyển hướng đến [Miệng của Entwash](Mouths_of_the_Entwash.md).

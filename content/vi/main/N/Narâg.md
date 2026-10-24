@@ -14,7 +14,7 @@ sort_keys:
   "Khuzdul words": "Narag"
 ---
 
-<i><b>Narâg</b></i> là một từ [Khuzdul](../K/Khuzdul.md) có nguồn gốc từ gốc NRG ("đen"), có lúc được nêu ra về nguồn gốc có thể có của tên sông *[Narog](Narog.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Narâg</b></i> là một từ [Khuzdul](../K/Khuzdul.md) có nguồn gốc từ gốc NRG ("đen"), được nêu ở một điểm về nguồn gốc có thể có của tên sông *[Narog](Narog.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Example}
 

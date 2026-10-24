@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>bragol</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "đột ngột".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>bragol</b></i> là [Sindarin](../S/Sindarin.md) từ có nghĩa là "đột ngột".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Example}
 

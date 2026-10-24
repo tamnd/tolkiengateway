@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2021.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/71/Tolkien_Calendar_2021.jpg/320px-Tolkien_Calendar_2021.jpg" decoding="async" loading="lazy" width="320" height="321" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/71/Tolkien_Calendar_2021.jpg/480px-Tolkien_Calendar_2021.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/71/Tolkien_Calendar_2021.jpg/640px-Tolkien_Calendar_2021.jpg 2x" data-file-width="1600" data-file-height="1606"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2021</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/John_Howe.md" title="John Howe">John Howe</a>, <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a> and <a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_September.md" title="1 September">1 September</a> <a href="../_/2020.md" title="2020">2020</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0063022171" title="Special:BookSources/978-0063022171">978-0063022171</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2020.md" title="Tolkien Calendar 2020">Tolkien Calendar 2020</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2022.md" title="Tolkien Calendar 2022">Tolkien Calendar 2022</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2021</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [1 tháng 9](../_/1_September.md) [2020](../_/2020.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md), [Alan Lee](../A/Alan_Lee.md) và [Ted Nasmith](Ted_Nasmith.md) gắn liền với việc xuất bản ấn bản minh họa kỷ niệm 40 năm *[Unfinished Tales](../U/Unfinished_Tales.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+Lịch <i><b>Tolkien 2021</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [1 tháng Chín](../_/1_September.md) [2020](../_/2020.md). Nó có tác phẩm nghệ thuật của [John Howe](../J/John_Howe.md), [Alan Lee](../A/Alan_Lee.md) và [Ted Nasmith](Ted_Nasmith.md) gắn liền với việc xuất bản ấn bản minh họa kỷ niệm 40 năm *[Unfinished Tales](../U/Unfinished_Tales.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -48,17 +48,17 @@ infobox:
 ## Minh họa {#Illustrations}
 
 - Tháng 1 - "[Taniquetil](../../file/T/Ted_Nasmith_-_Taniquetil.jpg.md)" của Ted Nasmith
-- Tháng 2 - "[Beleg tiếp cận Amon Rûdh](../../file/J/John_Howe_-_Beleg_Approaches_Amon_Rûdh.jpg.md)" của John Howe
+- Tháng 2 - "[Beleg Tiếp cận Amon Rûdh](../../file/J/John_Howe_-_Beleg_Approaches_Amon_Rûdh.jpg.md)" của John Howe
 - Tháng 3 - "[Eldalondë the Green](../../file/A/Alan_Lee_-_Eldalondë_the_Green.jpg.md)" của Alan Lee
 - Tháng 4 - "[Glaurung và Azaghâl](../../file/J/John_Howe_-_Glaurung_and_Azaghal.jpg.md)" của John Howe
-- Tháng 5 - "[Aldarion trở về sau chuyến du hành đầu tiên](../../file/T/Ted_Nasmith_-_Aldarion_Returns_From_His_First_Voyage.jpg.md)" của Ted Nasmith
+- Tháng 5 - "[Aldarion Trở về sau chuyến hành trình đầu tiên](../../file/T/Ted_Nasmith_-_Aldarion_Returns_From_His_First_Voyage.jpg.md)" của Ted Nasmith
 - Tháng 6 - "[Amroth và Nimrodel](../../file/A/Alan_Lee_-_Amroth_and_Nimrodel.jpg.md)" của Alan Lee
-- Tháng 7 - "[Trận Dagorlad](../../file/J/John_Howe_-_The_Battle_of_Dagorlad.jpg.md)" của John Howe
+- Tháng 7 - "[The Trận Dagorlad](../../file/J/John_Howe_-_The_Battle_of_Dagorlad.jpg.md)" của John Howe
 - Tháng 8 - "[Một cuộc gặp gỡ tình cờ](../../file/A/Alan_Lee_-_A_Chance_Meeting.jpg.md)" của Alan Lee
-- Tháng 9 - "[Lời thề của Cirion và Eorl](../../file/T/Ted_Nasmith_-_The_Oathtaking_of_Cirion_and_Eorl_2020.jpg.md)" của Ted Nasmith
+- tháng Chín - "[Lời thề của Cirion và Eorl](../../file/T/Ted_Nasmith_-_The_Oathtaking_of_Cirion_and_Eorl_2020.jpg.md)" của Ted Nasmith
 - Tháng 10 - "Cuộc săn tìm chiếc nhẫn" của John Howe
-- Tháng 11 - "[Glaurung khởi hành Nargothrond](../../file/A/Alan_Lee_-_Glaurung_Departs_Nargothrond.jpg.md)" của Alan Lee
-- Tháng 12 - "[Ông nhìn thấy hình ảnh Gondolin giữa tuyết](../../file/T/Ted_Nasmith_-_He_Beheld_a_Vision_of_Gondolin_Amid_the_Snow.jpg.md)" của Ted Nasmith
+- Tháng 11 - "[Glaurung Khởi hành Nargothrond](../../file/A/Alan_Lee_-_Glaurung_Departs_Nargothrond.jpg.md)" của Alan Lee
+- Tháng 12 - "[Ông nhìn thấy hình ảnh Gondolin Giữa Tuyết](../../file/T/Ted_Nasmith_-_He_Beheld_a_Vision_of_Gondolin_Amid_the_Snow.jpg.md)" của Ted Nasmith
 
 ## Xem thêm {#See_also}
 

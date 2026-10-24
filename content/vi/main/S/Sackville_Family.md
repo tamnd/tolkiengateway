@@ -13,15 +13,15 @@ categories:
   - "Sackville"
 ---
 
-**Gia đình Sackville** là một gia đình hobbit ở [Quận](../T/The_Shire.md).
+**Gia đình Sackville** là một gia đình hobbit của [gia đình Shire](../T/The_Shire.md).
 
-[Camellia Sackville](../C/Camellia_Sackville.md) là thành viên duy nhất được biết đến trong gia đình;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ngoài cô ra hầu như không có thông tin gì về họ, ngoại trừ việc họ được mô tả là một trong những gia đình giàu có hơn ở Shire.
+[Camellia Sackville](../C/Camellia_Sackville.md) là thành viên duy nhất được biết đến trong gia đình;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ngoài cô ra hầu như không có thông tin gì về họ, ngoại trừ việc họ được mô tả là một trong những gia đình giàu có hơn của Shire.
 
-Để biết thêm về họ, hãy xem [Gia đình Sackville-Baggins](Sackville-Baggins_Family.md)
+Để biết thêm về họ, hãy xem [Sackville-Baggins Family](Sackville-Baggins_Family.md)
 
 ## Từ nguyên {#Etymology}
 
-Cái tên Sackville nhằm mục đích mang tính quý tộc hơn [Baggins](../B/Baggins.md). [Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng "túi" và "bao" có ý nghĩa tương tự nhau là có chủ đích.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
+Cái tên Sackville nhằm mục đích mang tính liên tưởng quý tộc hơn [Baggins](../B/Baggins.md). [Tolkien](../J/J.R.R._Tolkien.md) lưu ý rằng "túi" và "bao" có ý nghĩa tương tự nhau là có chủ đích.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
 
 Sackville là họ tiếng Anh ngoài đời thực.<sup id="cite_ref-Nomen_2-1" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beleg"
 ---
 
-Chuyển hướng tới [Beleg](Beleg.md).
+Chuyển hướng đến [Beleg](Beleg.md).

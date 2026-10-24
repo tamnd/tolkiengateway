@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battle of the Field of Celebrant"
 ---
 
-Chuyển hướng tới [Trận chiến trên cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md).
+Chuyển hướng đến [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md).

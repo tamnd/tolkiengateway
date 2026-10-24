@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway"
 ---
 
-Chuyển hướng đến [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+Chuyển hướng đến [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).

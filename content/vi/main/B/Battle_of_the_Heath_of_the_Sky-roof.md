@@ -12,17 +12,17 @@ categories:
   - "Conflicts in The Book of Lost Tales"
 ---
 
-**Trận chiến trên mái nhà trên bầu trời** diễn ra trong [Faring Forth](../F/Faring_Forth.md), cuộc thám hiểm vĩ đại của [Yêu tinh](../E/Elves.md) của [Tol Eressëa](../T/Tol_Eressëa.md) để giải cứu [người thân đã mất](../I/Ilkorindi.md) của họ ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một số nội dung phác thảo cho phần tiếp theo của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Sky_1-0" class="reference"><a href="#cite_note-Sky-1">[1]</a></sup>
+**Trận chiến trên mái nhà bầu trời** diễn ra trong [Faring Forth](../F/Faring_Forth.md), cuộc thám hiểm vĩ đại của [Tiên tộc](../E/Elves.md) của [Tol Eressëa](../T/Tol_Eressëa.md) để giải cứu [người thân đã mất](../I/Ilkorindi.md) của họ ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một số phác thảo về việc tiếp tục của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Sky_1-0" class="reference"><a href="#cite_note-Sky-1">[1]</a></sup>
 
 Không có tường thuật đầy đủ, chi tiết nào về trận chiến được đưa ra vì nó chỉ được đề cập thoáng qua trong *Lost Tales*.
 
 ## Lịch sử {#History}
 
-Nó diễn ra tại [Heath of the Sky-roof](../H/Heath_of_the_Sky-roof.md), không xa [Tavrobel](../T/Tavrobel.md), và là cuộc chiến giữa hai nhóm [Đàn ông](../M/Men.md) khác nhau, sau cuộc xâm lược Tol Eressëa của họ. Nó kết thúc trong thất bại đối với Con người thân thiện với Yêu tinh, và những Yêu tinh còn lại chạy trốn qua các con sông [Afros](../A/Afros.md) và [Gruir](../G/Gruir.md), với hy vọng thoát khỏi những kẻ xâm lược.<sup id="cite_ref-Sky_1-1" class="reference"><a href="#cite_note-Sky-1">[1]</a></sup>
+Nó diễn ra tại [Heath of the Sky-roof](../H/Heath_of_the_Sky-roof.md), không xa [Tavrobel](../T/Tavrobel.md) và là cuộc chiến giữa hai nhóm [Con Người](../M/Men.md) khác nhau sau cuộc xâm lược Tol Eressëa của họ. Trận chiến kết thúc trong thất bại đối với Con Người trận giao hữu với Tiên tộc, và những Tiên tộc còn lại chạy trốn qua sông [Afros](../A/Afros.md) và [Gruir](../G/Gruir.md), với hy vọng thoát khỏi quân xâm lược.<sup id="cite_ref-Sky_1-1" class="reference"><a href="#cite_note-Sky-1">[1]</a></sup>
 
-Theo một bản phác thảo, thủy thủ người Mannish [Eriol](../E/Eriol.md) đã chứng kiến ​​trận chiến và cuối cùng chạy trốn cùng Yêu tinh, đồng thời viết những lời cuối cùng của *[Golden Book](../G/Golden_Book.md)* trong đống đổ nát của Tavrobel.<sup id="cite_ref-High_2-0" class="reference"><a href="#cite_note-High-2">[2]</a></sup>
+Theo một phác thảo, thủy thủ người Mannish [Eriol](../E/Eriol.md) đã chứng kiến ​​trận chiến và cuối cùng bỏ chạy cùng với Tiên tộc, đồng thời viết những lời cuối cùng của *[Golden Book](../G/Golden_Book.md)* trong đống đổ nát của Tavrobel.<sup id="cite_ref-High_2-0" class="reference"><a href="#cite_note-High-2">[2]</a></sup>
 
-Sau trận chiến, tàn tích cuối cùng của Yêu tinh ở Tol Eressëa và Vùng đất vĩ đại đã ẩn náu, cuối cùng mờ dần và không còn được nhìn thấy đối với hầu hết Con người.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Sau trận chiến, tàn tích cuối cùng của Tiên tộc của Tol Eressëa và Vùng Đất Lớn đã ẩn náu, cuối cùng mờ dần và không còn hiển thị với hầu hết Con Người.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
@@ -30,7 +30,7 @@ Trận chiến còn được gọi là <i><b>Trận chiến trên High Heath</b>
 
 ## Xem thêm {#See_also}
 
-- [Tiến lên](../F/Faring_Forth.md)
+- [Faring Forth](../F/Faring_Forth.md)
 - [Trận Rôs](Battle_of_Rôs.md)
 
 <span></span>

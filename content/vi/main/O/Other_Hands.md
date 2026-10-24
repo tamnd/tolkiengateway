@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/O/Other_hands.gif.md"><img src="https://tolkiengateway.net/w/images/e/e9/Other_hands.gif" decoding="async" loading="lazy" width="150" height="81" class="mw-file-element" data-file-width="150" data-file-height="81"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Other Hands</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../C/Chris_Seeman.md" title="Chris Seeman">Chris Seeman</a></td></tr><tr><th scope="row" class="tg-infobox-label">Latest issue</th><td class="tg-infobox-data"><a href="Other_Hands_33%252F34.md" title="Other Hands 33/34">33/34</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1081-8359</td></tr></tbody></table>
 
-**Những bàn tay khác** là tạp chí chính thức dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*. Tạp chí do [Chris Seeman](../C/Chris_Seeman.md) biên tập và tiếp tục được xuất bản cho đến năm 2001, hai năm sau khi [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) mất giấy phép tạo ra các sản phẩm trò chơi liên quan đến huyền thoại của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong thời gian sản xuất gần đây nhất, *Other Hands* chỉ được xuất bản dưới dạng tài nguyên internet trên trang web của tạp chí.
+**Những bàn tay khác** là tạp chí chính thức dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*. Tạp chí do [Chris Seeman](../C/Chris_Seeman.md) biên tập và tiếp tục được xuất bản cho đến năm 2001, hai năm sau khi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) mất giấy phép tạo ra các sản phẩm trò chơi liên quan đến huyền thoại của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Trong thời gian sản xuất cuối cùng, *Other Hands* chỉ được xuất bản dưới dạng tài nguyên internet trên trang web của mình.
 
 ## Vấn đề {#Issues}
 
@@ -50,15 +50,15 @@ infobox:
 - [1997](../_/1997.md) - [*Other Hands* #18 - "Những người vợ hiệp sĩ"](Other_Hands_18.md)
 - [1997](../_/1997.md) - [*Other Hands* #19 - "Phép thuật"](Other_Hands_19.md)
 - [1998](../_/1998.md) - [*Other Hands* #20 - "Từ nước Anh đến Eglamar"](Other_Hands_20.md)
-- [1998](../_/1998.md) - [*Other Hands* #21 - "Edain thời thứ hai"](Other_Hands_21.md)
-- [1998](../_/1998.md) - [*Other Hands* #22 - "The Balrogs"](Other_Hands_22.md)
-- [1998](../_/1998.md) - [*Other Hands* #23 - "Những chú rồng phương Bắc"](Other_Hands_23.md)
+- [1998](../_/1998.md) - [*Other Hands* #21 - "Kỷ Đệ Nhị Edain"](Other_Hands_21.md)
+- [1998](../_/1998.md) - [*Other Hands* #22 - "The Balrog"](Other_Hands_22.md)
+- [1998](../_/1998.md) - [*Other Hands* #23 - "Rồng của miền Bắc"](Other_Hands_23.md)
 - [1999](../_/1999.md) - [*Other Hands* #24 - "Những kẻ phá lời thề và cho vay nặng lãi"](Other_Hands_24.md)
-- [1999](../_/1999.md) - [*Other Hands* #25 - "Người lùn vùng núi xanh"](Other_Hands_25.md)
+- [1999](../_/1999.md) - [*Other Hands* #25 - "Người Lùn của Dãy Núi Xanh"](Other_Hands_25.md)
 - [1999](../_/1999.md) - [*Other Hands* #26 - "Dark Undead"](Other_Hands_26.md)
-- [1999](../_/1999.md) - [*Other Hands* #27 - "Phép thuật thời thứ ba"](Other_Hands_27.md)
-- [2000](../_/2000.md) - [*Other Hands* #28 - "Yêu tinh vùng Mirkwood"](Other_Hands_28.md)
-- [2000](../_/2000.md) - [*Other Hands* #29/30 - "Miền Trung Địa"](Other_Hands_29%252F30.md)
+- [1999](../_/1999.md) - [*Other Hands* #27 - "Phép thuật trong Kỷ Đệ Tam"](Other_Hands_27.md)
+- [2000](../_/2000.md) - [*Other Hands* #28 - "Tiên tộc của Mirkwood"](Other_Hands_28.md)
+- [2000](../_/2000.md) - [*Other Hands* #29/30 - "Miền Nam Trung Địa"](Other_Hands_29%252F30.md)
 - [2001](../_/2001.md) - [*Other Hands* #31/32 - "Tộc Ác"](Other_Hands_31%252F32.md)
 - [2001](../_/2001.md) - [*Other Hands* #33/34 - "Chiến tranh!"](Other_Hands_33%252F34.md)
 

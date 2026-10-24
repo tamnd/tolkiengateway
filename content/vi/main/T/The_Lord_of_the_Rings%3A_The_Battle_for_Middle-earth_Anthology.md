@@ -14,7 +14,7 @@ categories:
   - "The Lord of the Rings: The Battle for Middle-earth (video game series)"
 ---
 
-**Chúa tể của những chiếc nhẫn: Trận chiến cho tuyển tập Trung Địa** là một bộ hộp gồm ba trò chơi điện tử dành cho PC của [Electronic Arts](../E/Electronic_Arts.md). Bộ trò chơi này được phát hành vào [ngày 1 tháng 3](../_/1_March.md), [2007](../_/2007.md) và bao gồm các trò chơi sau:
+**The Lord of the Rings: The Battle for Trung Địa Anthology** là một bộ hộp gồm ba trò chơi điện tử dành cho PC của [Electronic Arts](../E/Electronic_Arts.md). Bộ trò chơi này được phát hành vào [ngày 1 tháng 3](../_/1_March.md), [2007](../_/2007.md) và bao gồm các trò chơi sau:
 
 - [The Lord of the Rings:The Battle for Middle-earth](../E/EA's_The_Battle_for_Middle-earth.md)
 - [The Lord of the Rings:The Battle for Middle-earth II](../E/EA's_The_Battle_for_Middle-earth_II.md)

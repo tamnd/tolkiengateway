@@ -50,27 +50,27 @@ infobox:
 
 <dl><dt>Historical Perspectives</dt></dl>
 
-- Robin Anne Reid, "Lịch sử nghiên cứu về các nhân vật nữ trong Legendarium của J. R. R. Tolkien: Một tiểu luận thư mục về nữ quyền"
-- Sharin Schroeder, "Cô-người-không-được-bỏ qua: Giới tính và Thể loại trong *The Lord of the Rings* và Sách dành cho nam sinh thời Victoria"
+- Robin Anne Reid, "Lịch sử học bổng về các nhân vật nữ trong J. R. R. Tolkien's Legendarium: Một tiểu luận thư mục về nữ quyền"
+- Sharin Schroeder, "Cô-người-không-được-bỏ qua: Giới tính và thể loại trong *The Lord of the Rings* và Sách dành cho nam thời Victoria"
 - [John D. Rateliff](../J/John_D._Rateliff.md), "Những người phụ nữ mất tích: Sự hỗ trợ suốt đời của J. R. R. Tolkien cho giáo dục đại học của phụ nữ"
 
 <dl><dt>Power of Gender</dt></dl>
 
 - Melanie A. Rawls, "Nguyên tắc nữ tính trong Tolkien"
-- Nancy Enright, "Những người phụ nữ của Tolkien và sự xác định quyền lực"
+- Nancy Enright, "Phụ nữ củaTolkien và sự xác định quyền lực"
 - Edith L. Crowe, "Sức mạnh trong Arda: Nguồn, Cách sử dụng và Lạm dụng"
 
 <dl><dt>Specific Characters</dt></dl>
 
-- Romuald I. Lakowski, "Sự sụp đổ và sự ăn năn của Galadriel"
-- Cami D. Agan, "Lúthien Tinúviel và dục vọng thể xác trong cuộc sống của Leithian"
-- [Kristine Larsen](../K/Kristine_Larsen.md), "Sức mạnh của lòng thương hại và nước mắt: Sự tiến hóa của Nienna trong truyền thuyết"
-- Melissa A. Smith, "Trong và ngoài nước: Éowyn đóng vai Cô dâu chiến tranh hai lần trong *The Lord of the Rings*"
+- Romuald I. Lakowski, "Sự sa ngã và ăn năn của Galadriel"
+- Cami D. Agan, "Lúthien Tinúviel và Ham muốn thể xác trong Lay of Leithian"
+- [Kristine Larsen](../K/Kristine_Larsen.md), "Sức mạnh của lòng thương hại và nước mắt: Sự tiến hóa của Nienna trong Legendarium"
+- Melissa A. Smith, "Trong và ngoài nước: Éowyn hình dung hai lần vai Cô dâu chiến tranh trong *The Lord of the Rings*"
 
 <dl><dt>Earlier Literary Contexts</dt></dl>
 
 - Leslie A. Donovan, "Phản xạ Valkyrie trong *The Lord of the Rings* của J.R.R. Tolkien: Galadriel, Shelob, Éowyn và Arwen"
-- Phoebe C. Linton, "Lời nói và sự im lặng trong Chúa tể của những chiếc nhẫn: Lãng mạn thời Trung cổ và sự chuyển đổi của Éowyn"
+- Phoebe C. Linton, "Lời nói và sự im lặng trong The Lord of the Rings: Lãng mạn thời Trung cổ và những chuyển đổi của Éowyn"
 - Maureen Thum, "Ẩn dưới cái nhìn đơn giản: Chiến lược hóa tính độc đáo trong chân dung phụ nữ của Shakespeare và Tolkien"
 
 <dl><dt>Women Readers</dt></dl>

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói rằng đề xuất của dì anh về một cuốn sách nhỏ có [Tom Bombadil](../T/Tom_Bombadil.md) là một ý tưởng hay mặc dù anh cảm thấy không muốn viết thêm gì về ông. Ông nghĩ bài thơ gốc, nếu được minh họa bởi [Pauline Baynes](../P/Pauline_Baynes.md), sẽ tạo thành một tập sách nhỏ đẹp. Nếu dì của anh không có bài thơ gốc, anh sẽ cố gắng làm một bản sao cho bà. <br>
+Tolkien nói rằng việc dì anh gợi ý về một cuốn sách nhỏ có nội dung [Tom Bombadil](../T/Tom_Bombadil.md) là một ý tưởng hay mặc dù anh cảm thấy không muốn viết thêm gì về ông nữa. Anh nghĩ bài thơ gốc nếu được minh họa bởi [Pauline Baynes](../P/Pauline_Baynes.md) sẽ tạo thành một tập sách nhỏ rất đẹp. Nếu dì của anh không có bài thơ gốc, anh sẽ cố gắng làm một bản sao cho bà. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

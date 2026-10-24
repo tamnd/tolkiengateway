@@ -39,7 +39,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Council Of Elrond** là ca khúc thứ mười trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Trong đó có bài hát "[Aníron](../A/Aníron.md) (Theme For Aragorn And Arwen)" do [Enya](../E/Enya.md) sáng tác và trình bày.
+**Bài Hội đồng của Elrond** là bài hát thứ mười trong *[The Lord of the Rings: The Fellowship of the Ring - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md). Trong đó có bài hát "[Aníron](../A/Aníron.md) (Theme For Aragorn And Arwen)" do [Enya](../E/Enya.md) sáng tác và trình bày.
 
 ## Lời bài hát {#Lyrics}
 

@@ -37,7 +37,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/CCG_Maps.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/21/CCG_Maps.png/320px-CCG_Maps.png" decoding="async" loading="lazy" width="320" height="358" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/2/21/CCG_Maps.png 1.5x" data-file-width="424" data-file-height="475"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Middle-earth CCG Maps</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Jo Hartwig</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1996.md" title="1996">1996</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">6</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1558062912" title="Special:BookSources/1558062912">1558062912</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">3338</td></tr><tr><th scope="row" class="tg-infobox-label">Cover price</th><td class="tg-infobox-data">$16.00</td></tr></tbody></table>
 
-<i><b>Bản đồ CCG ở Trung Địa</b></i> là sách bản đồ dành cho [Trò chơi sưu tập thẻ bài ở Trung Địa](Middle-earth_Collectible_Card_Game.md).
+<i><b>Trung Địa CCG Maps</b></i> là sách bản đồ dành cho [Trung Địa Trò chơi sưu tập thẻ bài](Middle-earth_Collectible_Card_Game.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -45,7 +45,7 @@ Trong bộ này, bạn nhận được một bản đồ 17" X 11,5" (được k
 
 ## Từ bìa sau {#From_the_back_cover}
 
-Mỗi bản đồ trong số hai bản đồ đầy màu sắc trong sản phẩm này có thể được sử dụng làm bảng trò chơi hấp dẫn và công cụ tham khảo cho người chơi *Middle-earth Collectible Card Game*. Sử dụng chúng làm bề mặt chơi và giúp người chơi nắm vững cả chuyển động trong khu vực và địa lý Trung Địa.
+Mỗi bản đồ trong số hai bản đồ đầy màu sắc trong sản phẩm này có thể được sử dụng làm bảng trò chơi hấp dẫn và công cụ tham khảo cho người chơi *Middle-earth Collectible Card Game*. Sử dụng chúng làm bề mặt chơi và giúp người chơi nắm vững cả chuyển động trong khu vực và Trung Địa địa lý.
 
 • Cả hai bản đồ đều được in trên giấy nhựa bền có khả năng chống lại các vết bẩn cũng như sự hao mòn thông thường.
 

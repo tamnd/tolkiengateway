@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Fall of Gondolin (disambiguation)"
 ---
 
-Chuyển hướng tới [Sự sụp đổ của Gondolin (định hướng)](<The_Fall_of_Gondolin_(disambiguation).md>).
+Chuyển hướng đến [The Fall of Gondolin (định hướng)](<The_Fall_of_Gondolin_(disambiguation).md>).

@@ -33,7 +33,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>The Shadow Lies Frozen on the Hills</b></i> là ca khúc thứ tám trong album [Stronghold](../S/Stronghold.md) của ban nhạc [Summoning](../S/Summoning.md). Lời bài hát bị ảnh hưởng bởi các chương [Một âm mưu bị vạch trần](../A/A_Conspiracy_Unmasked.md) và [Nhiều cuộc gặp gỡ](../M/Many_Meetings.md) trong [Hiệp hội nhẫn thần](The_Fellowship_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>The Bóng Tối Lies Frozen on the Hills</b></i> là ca khúc thứ tám trong album [Stronghold](../S/Stronghold.md) của ban nhạc [Summoning](../S/Summoning.md). Lời bài hát bị ảnh hưởng bởi các chương [Một âm mưu bị vạch trần](../A/A_Conspiracy_Unmasked.md) và [Nhiều cuộc gặp gỡ](../M/Many_Meetings.md) trong [The Fellowship of the Ring](The_Fellowship_of_the_Ring.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inklings"
 ---
 
-Chuyển hướng tới [Inklings](../I/Inklings.md).
+Chuyển hướng đến [Inklings](../I/Inklings.md).

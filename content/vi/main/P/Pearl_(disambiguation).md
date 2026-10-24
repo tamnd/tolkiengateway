@@ -21,7 +21,7 @@ images:
 
 **Pearl** là <a class="extiw" href="http://en.wikipedia.org/wiki/Pearl_(poem)" title="wikipedia:Pearl (poem)">bản thảo tiếng Anh trung cổ</a>. Nó cũng có thể đề cập đến:
 
-- *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)*, một tập thơ gồm ba bài thơ do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dịch và [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập
+- *[Sir Gawain and the Green Knight, Pearl and Sir Orfeo](../S/Sir_Gawain_and_the_Green_Knight,_Pearl_and_Sir_Orfeo.md)*, tuyển tập ba bài thơ do [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) dịch và [Christopher Tolkien](../C/Christopher_Tolkien.md) biên tập
     - <i><b><a class="mw-redirect mw-disambig" href="Pearl.md" title="Pearl">Pearl</a></b></i>, bài thơ tiếng Anh Trung cổ được dịch bởi J.R.R. Tolkien
 - *[Pearl](<Pearl_(E.V._Gordon).md>)*, được chỉnh sửa bởi [E.V. Gordon](../E/E.V._Gordon.md), bao gồm cả sự đóng góp bằng văn bản của J.R.R. Tolkien
 - [*Pearl and Sir Orfeo* (sách nói)](<Pearl_and_Sir_Orfeo_(audiobook).md>)

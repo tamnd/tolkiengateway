@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sea of Núrnen"
 ---
 
-Chuyển hướng đến [Biển Núrnen](Sea_of_Núrnen.md).
+Chuyển hướng tới [Biển của Núrnen](Sea_of_Núrnen.md).

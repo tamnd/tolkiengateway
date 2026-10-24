@@ -16,15 +16,15 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1015.md" title="Third Age 1015">1015</a><a href="Third_Age_1029.md" title="Third Age 1029">1029</a><a href="Third_Age_1049.md" title="Third Age 1049">1049</a><a class="mw-selflink selflink">1050</a><a href="Third_Age_1058.md" title="Third Age 1058">1058</a><a href="Third_Age_1062.md" title="Third Age 1062">1062</a><a href="Third_Age_1100.md" title="Third Age 1100">1100</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 1050** (viết tắt là **T.A. 1050**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1050 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Tam 1050** (viết tắt là **T.A. 1050**) là năm [thứ 1050 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Hyarmendacil](../H/Hyarmendacil_I.md) chinh phục [Harad](../H/Harad.md).<sup id="cite_ref-AppB_1-0" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
 - [Gondor](../G/Gondor.md) đạt đến đỉnh cao quyền lực.<sup id="cite_ref-AppB_1-1" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
-- Vào khoảng thời gian này, một [bóng](../S/Shadow.md) đổ xuống [Greenwood](../M/Mirkwood.md) và [đàn ông](../M/Men.md) bắt đầu gọi nó là [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-AppB_1-2" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
-- Vào khoảng thời gian này [Linh hồn của Sauron](../S/Sauron.md) di chuyển một số [Easterlings](../E/Easterlings.md) vào [Rhovanion](../R/Rhovanion.md) đến [Vales of Anduin](../V/Vales_of_Anduin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- Được cảnh báo bởi cái bóng của [Dol Guldur](../D/Dol_Guldur.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Periannath](../P/Periannath.md) bắt đầu [di cư về phía tây](../W/Wandering_Days.md). Họ lần đầu tiên được nhắc đến trong hồ sơ khi [Harfoots](../H/Harfoots.md) đến [Eriador](../E/Eriador.md).<sup id="cite_ref-AppB_1-3" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
+- Vào khoảng thời gian này, một [bóng](../S/Shadow.md) đổ xuống [Rừng Xanh](../M/Mirkwood.md) và [đàn ông](../M/Men.md) bắt đầu gọi nó là [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-AppB_1-2" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
+- Vào khoảng thời gian này, linh hồn của [Sauron](../S/Sauron.md) di chuyển một số [Phục sinh](../E/Easterlings.md) vào [Rhovanion](../R/Rhovanion.md) cho đến [Thung lũng Anduin](../V/Vales_of_Anduin.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Được cảnh báo bởi bóng tối của [Dol Guldur](../D/Dol_Guldur.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Periannath](../P/Periannath.md) bắt đầu [di cư về phía tây](../W/Wandering_Days.md). Chúng lần đầu tiên được đề cập trong hồ sơ khi [Harfoots](../H/Harfoots.md) đến [Eriador](../E/Eriador.md).<sup id="cite_ref-AppB_1-3" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
 
 <span></span>
 

@@ -22,21 +22,21 @@ sort_keys:
 
 ## Thư mục {#Bibliography}
 
-- [2005](../_/2005.md): "Sự tương đồng giữa ngôn ngữ tự nhiên và Eldarin của Tolkien"
+- [2005](../_/2005.md): "Sự tương đồng giữa ngôn ngữ tự nhiên và Tolkien của Eldarin"
 - [2005](../_/2005.md): "Truy vấn về ngôn ngữ Telerin"
 - [2005](../_/2005.md): "Tal-Elmar và cái lưỡi của Drughu"
 - [2006](../_/2006.md): "Sự thống nhất của tính từ trong Quenya"
-- [2006](../_/2006.md): "Tên từ *Sự trở lại của bóng tối, Sự phản bội của Isengard* và *The War of the Ring*"
-- [2007](../_/2007.md): "Cách tiếp cận có hệ thống đối với việc dịch tên Tiên"
+- [2006](../_/2006.md): "Tên từ *The Return of the Shadow, The Treason of Isengard* và *The War of the Ring*"
+- [2007](../_/2007.md): "Phương pháp tiếp cận có hệ thống đối với Elvish dịch tên"
 - [2007](../_/2007.md): "Âm vị học lịch sử của Goldogrin"
-- [2008](../_/2008.md): "Thì quá khứ Noldorin sớm"
-- [2008](../_/2008.md): "Về nguyên âm đôi *ei, ai* ở Noldorin và Sindarin"
-- [2008](../_/2008.md): "Âm vị lịch sử của Ilkorin, Telerin và Noldorin vào khoảng năm 1923"
+- [2008](../_/2008.md): "Thì quá khứ sớm Noldorin"
+- [2008](../_/2008.md): "Trên các nguyên âm đôi *ei, ai* trong Noldorin và Sindarin"
+- [2008](../_/2008.md): "Âm vị lịch sử của Ilkorin, Telerin và Noldorin khoảng năm 1923"
 - [2008](../_/2008.md): "Về các dạng khác nhau của 'chúng tôi' trong Eldarin"
 - [2009](../_/2009.md): "Phương ngữ Mithrimin của Sindarin"
 - [2013](../_/2013.md): [Arda Ngữ văn 4](../A/Arda_Philology_4.md)
-    - "Biểu tượng âm thanh trong Elvish" (trình bày tại [Omentielva Cantea](../O/Omentielva.md) ở [2011](../_/2011.md))
-- [2013](../_/2013.md): "Thống kê từ điển Sindarin"
-- [2015](../_/2015.md): [Arda Ngữ văn 5](../A/Arda_Philology_5.md)
-    - "Phân tích từ vựng tiếng Tiên và giải thích từ *hobbit*" (trình bày tại [Omentielva Lempea](../O/Omentielva.md) trong [2013](../_/2013.md))
-- [2015](../_/2015.md): "Sự lặp lại của Sindarin qua thời gian"
+    - "Biểu tượng âm thanh trong Elvish" (được trình bày tại [Omentielva Cantea](../O/Omentielva.md) trong [2011](../_/2011.md))
+- [2013](../_/2013.md): "Sindarin thống kê từ điển"
+- [2015](../_/2015.md): [Arda Ngữ Văn 5](../A/Arda_Philology_5.md)
+    - "Phân tích Elvish từ vựng và giải thích từ *hobbit*" (trình bày tại [Omentielva Lempea](../O/Omentielva.md) trong [2013](../_/2013.md))
+- [2015](../_/2015.md): "Tính tuần hoàn của Sindarin xuyên thời gian"

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Andram"
 ---
 
-Chuyển hướng tới [Andram](../A/Andram.md).
+Chuyển hướng đến [Andram](../A/Andram.md).

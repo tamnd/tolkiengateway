@@ -75,7 +75,7 @@ Sự kiện xảy ra vào ngày 22 tháng 1.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).
 Đội quân của     - [Uglúk](../U/Uglúk.md) tiếp cận [Moria](../M/Moria.md) và tập hợp một nhóm [Orc](../O/Orcs.md) ở đó.
     - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

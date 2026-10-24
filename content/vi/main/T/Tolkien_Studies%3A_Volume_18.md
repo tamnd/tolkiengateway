@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Studies_18.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b0/Tolkien_Studies_18.jpeg/318px-Tolkien_Studies_18.jpeg" decoding="async" loading="lazy" width="318" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b0/Tolkien_Studies_18.jpeg/477px-Tolkien_Studies_18.jpeg 1.5x, https://tolkiengateway.net/w/images/b/b0/Tolkien_Studies_18.jpeg 2x" data-file-width="496" data-file-height="749"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Studies: Volume 18</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/David_Bratman.md" title="David Bratman">David Bratman</a>, <a href="../M/Michael_D.C._Drout.md" title="Michael D.C. Drout">Michael D.C. Drout</a>, <a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">West Virginia University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">October, <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback; electronic</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">352</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1547-3155</td></tr></tbody></table>
 
-<b><i>Nghiên cứu của Tolkien</i>: Tập 18</b>, xuất bản trong [2021](../_/2021.md), là tập thứ mười tám của tạp chí đánh giá hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
+<b><i>Tolkien Nghiên cứu</i>: Tập 18</b>, xuất bản trong [2021](../_/2021.md), là tập thứ mười tám của tổng kết hàng năm *[Tolkien Studies](<Tolkien_Studies_(journal).md>)*.
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 17</div></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_17.md" title="Tolkien Studies: Volume 17">Tolkien Studies: Volume 17</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 18</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Tolkien Studies: Volume 19</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Tolkien_Studies%253A_Volume_19.md" title="Tolkien Studies: Volume 19">Tolkien Studies: Volume 19</a></div></div></div>
 
@@ -61,19 +61,19 @@ infobox:
     - Amber Dunai, "*Wið* hay *mid*? Một cái nhìn thoáng qua về góc nhìn lịch đại của Treebeard"
 
 - Đánh giá sách
-    - *[Thế giới J.R.R. Tolkien](The_Worlds_of_J.R.R._Tolkien.md): Những nơi truyền cảm hứng cho Trung Địa*, của John Garth, được đánh giá bởi Matthew A. Fisher
-    - *[Cách đọc hiện đại của Tolkien](Tolkien's_Modern_Reading.md): Middle-earth Beyond the Middle Ages*, của Holly Ordway, Zachary đánh giá D. Schmoll
-    - *Chủ đề không tưởng và viễn tưởng trong Tolkien's Legendarium* của Mark Doyle, Jay Rimmer đánh giá
-    - *Tolkien's Cosmology: Divine Beings and Middle-earth*, của Sam McBride, được đánh giá bởi Alyssa House-Thomas
+    - *[Thế giới của J.R.R. Tolkien](The_Worlds_of_J.R.R._Tolkien.md): Những nơi truyền cảm hứng Trung Địa*, bởi John Garth, được đánh giá bởi Matthew A. Fisher
+    - *[Tolkien Đọc hiện đại](Tolkien's_Modern_Reading.md): Trung Địa Beyond the Middle Kỷ nguyên*, bởi Holly Ordway, được Zachary đánh giá D. Schmoll
+    - *Chủ đề không tưởng và đen tối trong Tolkien's Legendarium* của Mark Doyle, được Jay Rimmer đánh giá
+    - *Tolkien's Cosmology: Divine Beings and Middle-earth*, bởi Sam McBride, được đánh giá bởi Alyssa House-Thomas
     - *[Music in Tolkien's Work and Beyond](../M/Music_in_Tolkien's_Work_and_Beyond.md)*, do Julian Eilmann và Friedhelm Schneidewind biên tập, David Bratman xem xét
     - *J.R.R. Tolkien: Hướng dẫn dành cho người bối rối*, của Toby Widdicombe, được David Bratman đánh giá
 
-- David Bratman, Kate Neville, Jennifer Rogers, Robin Anne Reid, Jason Fisher, John Wm. Houghton và John Magoun, "Công việc của năm trong nghiên cứu Tolkien 2018"
+- David Bratman, Kate Neville, Jennifer Rogers, Robin Anne Reid, Jason Fisher, John Wm. Houghton và John Magoun, "Công trình nghiên cứu Tolkien của năm 2018"
 - David Bratman, "Thư mục (bằng tiếng Anh) cho năm 2019"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://muse.jhu.edu/issue/46309" rel="noreferrer noopener" target="_blank"><i>Nghiên cứu về Tolkien</i>: Tập 18</a> tại Project Muse
+- <a class="external text" href="https://muse.jhu.edu/issue/46309" rel="noreferrer noopener" target="_blank"><i>Tolkien Nghiên cứu</i>: Tập 18</a> tại Project Muse
 
 <br clear="all"/>
 

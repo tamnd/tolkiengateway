@@ -15,7 +15,7 @@ sort_keys:
   "Podcasts": "Tolkien and Old Norse"
 ---
 
-<i><b>Tolkien và Old Norse</b></i> là một podcast do Brent Landon tổ chức, khám phá những ảnh hưởng của Old Norse đối với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Tolkien và tiếng Bắc Âu cổ</b></i> là một podcast do Brent Landon tổ chức nhằm khám phá những ảnh hưởng của tiếng Bắc Âu cổ đối với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Liên kết ngoài {#External_links}
 

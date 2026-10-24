@@ -29,11 +29,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư này gửi cho nhà xuất bản của Tolkien, [Allen & Unwin](../A/Allen_&_Unwin.md), ông thảo luận về những vấn đề phức tạp mà ông gặp phải khi kiểm tra các phần còn lại của [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) cho *[The Return of the King](../T/The_Return_of_the_King.md)*, cụ thể là bảng [Angerthas](../A/Angerthas.md) trong [Phụ lục E](../A/Appendix_E.md). Anh thừa nhận rằng quá trình này đã trở nên rối loạn, một phần do bản thân còn thiếu kinh nghiệm. Tolkien gợi ý rằng có thể tiết kiệm được thời gian và tiền bạc nếu ông có thể gặp nhóm sản xuất trước khi tài liệu được gửi đến máy in.
+Trong thư này gửi cho nhà xuất bản của Tolkien, [Allen &amp; Unwin](../A/Allen_&_Unwin.md), ông thảo luận về những vấn đề phức tạp mà ông gặp phải khi kiểm tra các phần còn lại của [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md) cho *[The Return of the King](../T/The_Return_of_the_King.md)*, cụ thể là bảng [Angerthas](../A/Angerthas.md) trong [Phụ lục E](../A/Appendix_E.md). Anh thừa nhận rằng quá trình này đã trở nên rối loạn, một phần do bản thân còn thiếu kinh nghiệm. Tolkien gợi ý rằng lẽ ra ông ta có thể tiết kiệm được thời gian và tiền bạc nếu ông ta có thể gặp nhóm sản xuất trước khi tài liệu được gửi đến nhà in.
 
 Tolkien giải thích rằng một trang cụ thể được dùng làm chìa khóa cho các chữ rune trang trí mà không làm gián đoạn hình thức của các Angerthas được vẽ cẩn thận hơn. Những ký hiệu mà ông chọn không hoàn toàn theo ngữ âm mà nằm trong phạm vi của một 'phông chữ không chuyên dụng'. Trang ông gửi chỉ nhằm mục đích hướng dẫn in ấn chứ không phải là bản in cuối cùng và điều này dẫn đến vẻ ngoài lôi thôi và kém hấp dẫn.
 
-Do gửi tài liệu quá vội vàng nên Tolkien không có bản ghi chính xác về những thay đổi của mình. Ông ta yêu cầu được xem những bằng chứng cuối cùng trước khi sửa chữa thêm. Tolkien cũng bày tỏ lo ngại về câu chuyện của Tập III, vì những bằng chứng mà ông nhận được không bao gồm những thay đổi muộn màng được thực hiện vào tháng 4 năm nay và ông đặt câu hỏi tại sao những thay đổi này không được đưa vào. <br>
+Do gửi tài liệu vội nên Tolkien thiếu hồ sơ chính xác về những thay đổi của mình. Ông ta yêu cầu được xem những bằng chứng cuối cùng trước khi sửa chữa thêm. Tolkien cũng bày tỏ lo ngại về phần tường thuật của Tập III, vì các bằng chứng mà ông nhận được không bao gồm những thay đổi muộn màng được thực hiện vào tháng 4 năm nay và ông đặt câu hỏi tại sao những thay đổi này không được đưa vào. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

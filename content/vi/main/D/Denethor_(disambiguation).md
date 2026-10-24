@@ -25,9 +25,9 @@ images:
 
 **Denethor** có thể đề cập đến ba ký tự:
 
-- [Denethor](<Denethor_(Nando).md>), con trai của [Lenwë](../L/Lenwë.md) và là thủ lĩnh của [Laiquendi](../L/Laiquendi.md) người đã bị giết trong [Trận chiến Beleriand đầu tiên](../F/First_Battle_of_Beleriand.md).
-- [Denethor I](Denethor_I.md) ([T.A.](../T/Third_Age.md) [2375](../T/Third_Age_2375.md) - [2477](../T/Third_Age_2477.md)), [Quản lý cai trị](../R/Ruling_Steward.md) thứ mười của [Gondor](../G/Gondor.md).
-- **[Denethor II](Denethor.md) ([T.A.](../T/Third_Age.md) [2930](../T/Third_Age_2930.md)- [3019](../T/Third_Age_3019.md)), Quản lý thứ 26 của Gondor trong [Chiến tranh Nhẫn](../W/War_of_the_Ring.md), và là cha của [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md).**
+- [Denethor](<Denethor_(Nando).md>), con trai của [Lenwë](../L/Lenwë.md) và là thủ lĩnh của [Laiquendi](../L/Laiquendi.md) đã bị giết trong [Trận chiến thứ nhất của Beleriand](../F/First_Battle_of_Beleriand.md).
+- [Denethor Tôi](Denethor_I.md) ([T.A.](../T/Third_Age.md) [2375](../T/Third_Age_2375.md) - [2477](../T/Third_Age_2477.md)), [Người quản lý cầm quyền](../R/Ruling_Steward.md) thứ mười của [Gondor](../G/Gondor.md).
+- **[Denethor II](Denethor.md) ([T.A.](../T/Third_Age.md) [2930](../T/Third_Age_2930.md)- [3019](../T/Third_Age_3019.md)), Người quản lý cầm quyền thứ hai mươi sáu của Gondor trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), và là cha của [Boromir](../B/Boromir.md) và [Faramir](../F/Faramir.md).**
 
 <hr style="margin-top:15px;"/>
 

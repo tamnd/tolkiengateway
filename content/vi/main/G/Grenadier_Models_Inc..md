@@ -30,10 +30,10 @@ Các sản phẩm được chọn liên quan đến Trung Địa.
 
 Nhà điêu khắc: Andrew Chernak và John Dennett
 
-- 7501 Hiệp hội Nhẫn
-- 7502 Bóng tối của Sauron
+- 7501 Đoàn Hộ Nhẫn
+- 7502 Sauron Bóng tối
 - 7503 Hang ổ của Shelob
-- 7504 Hillmen of the Trollshaws (cho *[Hillmen of the Trollshaws](../H/Hillmen_of_the_Trollshaws.md)*)
+- 7504 Hillmen của Trollshaws (cho *[Hillmen of the Trollshaws](../H/Hillmen_of_the_Trollshaws.md)*)
 - 7505 Isengard (cho *[Isengard and Northern Gondor](../I/Isengard_and_Northern_Gondor.md)*)
 
 ### Danh mục {#Catalogues}
@@ -44,7 +44,7 @@ Nhà điêu khắc: Andrew Chernak và John Dennett
 
 Chúa Tể Những Chiếc Nhẫn™
 
-Trung Địa - Vương quốc huyền thoại của Pháp sư và Người Hobbit, nguy hiểm và kỳ diệu, chủ nghĩa anh hùng tỏa sáng và tà ác đen tối. Trải nghiệm thế giới phép thuật của J.R.R. Tolkien với loạt phim thu nhỏ Lord OF THE RINGS MIDDLE EARTH™ mới của Grenadier. Được ủy quyền để sử dụng với trò chơi MIDDLE EARTH™ ROLE PLAYING của I.C.E., những nhân vật vô cùng chi tiết này thể hiện một cách trung thực tinh thần thực sự của thế giới giả tưởng của Tolkien. Những nhân vật này cũng tương thích với nhiều game nhập vai giả tưởng khác. Cuộc phiêu lưu trong tưởng tượng vĩ đại nhất trong tất cả. Hành trình đến TRUNG ĐỊA™.
+Trung Địa — Vương quốc huyền thoại của Pháp sư và Hobbit, nguy hiểm và kỳ diệu, chủ nghĩa anh hùng tỏa sáng và cái ác đen tối. Trải nghiệm thế giới phép thuật của J.R.R. Tolkien với loạt phim thu nhỏ Lord OF THE RINGS MIDDLE EARTH™ mới của Grenadier. Được ủy quyền để sử dụng với trò chơi NHẬP VAI TRUNG TÂM™ của I.C.E., những nhân vật vô cùng chi tiết này thể hiện một cách trung thực tinh thần thực sự của thế giới giả tưởng của Tolkien. Những nhân vật này cũng tương thích với nhiều game nhập vai giả tưởng khác. Cuộc phiêu lưu trong tưởng tượng vĩ đại nhất trong tất cả. Hành trình đến TRUNG ĐỊA™.
 
 ## Liên kết ngoài {#External_links}
 

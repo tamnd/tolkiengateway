@@ -25,7 +25,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Reeve&#39;s_Tale_(J.R.R._Tolkien).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/54/The_Reeve%27s_Tale_%28J.R.R._Tolkien%29.jpg/250px-The_Reeve%27s_Tale_%28J.R.R._Tolkien%29.jpg" decoding="async" loading="lazy" width="250" height="401" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/54/The_Reeve%27s_Tale_%28J.R.R._Tolkien%29.jpg 1.5x" data-file-width="312" data-file-height="500"/></a><figcaption><i>The Reeve&#39;s Tale: Version Prepared for Recitation at the &#39;Summer Diversions&#39; </i></figcaption></figure>
 
-<i><b>Câu chuyện của Reeve: Phiên bản được chuẩn bị để kể lại tại 'Cuộc giải trí mùa hè' </b></i> là phiên bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Chaucer</a>'s <a class="extiw" href="http://en.wikipedia.org/wiki/The_Reeve%27s_Tale" title="wikipedia:The Reeve&#39;s Tale"><i>Câu chuyện của Reeve</i></a>, nó được in riêng dưới dạng tập sách nhỏ trong [1939](../_/1939.md) ở Oxford.
+<i><b>Câu chuyện của Reeve: Phiên bản được chuẩn bị để kể lại tại 'Giải trí mùa hè' </b></i> là phiên bản [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) của <a class="extiw" href="http://en.wikipedia.org/wiki/Geoffrey_Chaucer" title="wikipedia:Geoffrey Chaucer">Chaucer</a>'s <a class="extiw" href="http://en.wikipedia.org/wiki/The_Reeve%27s_Tale" title="wikipedia:The Reeve&#39;s Tale"><i>Câu chuyện của Reeve</i></a>, nó được in riêng dưới dạng tập sách nhỏ trong [1939](../_/1939.md) ở Oxford.
 
 Nó có phần giới thiệu dài hai trang và phần văn bản *The Reeve's Tale* được Chaucer làm lại.
 

@@ -23,9 +23,9 @@ infobox:
 
 <i><b>Secret Lair</b></i> là một loạt các bộ *[Magic: The Gathering](../M/Magic%253A_The_Gathering.md)* nhỏ có các bản tái bản nghệ thuật thay thế hướng đến người sưu tập, có cả phiên bản không giấy bạc và giấy bạc. Một số bộ này dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Hobbit](../T/The_Hobbit.md)*.<sup id="cite_ref-more_1-0" class="reference"><a href="#cite_note-more-1">[1]</a></sup><sup id="cite_ref-mathoms_2-0" class="reference"><a href="#cite_note-mathoms-2">[2]</a></sup>
 
-## Thêm những cuộc phiêu lưu ở Trung Địa {#More_Adventures_in_Middle-earth}
+## Thêm những cuộc phiêu lưu trong Trung Địa {#More_Adventures_in_Middle-earth}
 
-<i><b>Những cuộc phiêu lưu khác ở Trung Địa</b></i> được phát hành vào [26 tháng 6](../_/26_June.md) [2023](../_/2023.md). Nó bao gồm các thẻ được in lại từ [The Lord of the Rings: Tales of Middle-earth](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md), với tác phẩm nghệ thuật thay thế từ [bộ phim năm 1978](<../T/The_Lord_of_the_Rings_(1978_film).md>).<sup id="cite_ref-more_1-1" class="reference"><a href="#cite_note-more-1">[1]</a></sup>
+<i><b>Những cuộc phiêu lưu khác trong Trung Địa</b></i> được phát hành vào [26 tháng 6](../_/26_June.md) [2023](../_/2023.md). Nó bao gồm các thẻ được in lại từ [The Lord of the Rings: Tales of Middle-earth](../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md), với tác phẩm nghệ thuật thay thế từ [bộ phim năm 1978](<../T/The_Lord_of_the_Rings_(1978_film).md>).<sup id="cite_ref-more_1-1" class="reference"><a href="#cite_note-more-1">[1]</a></sup>
 
 Các thẻ in lại là<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>:
 
@@ -36,7 +36,7 @@ Các thẻ in lại là<sup id="cite_ref-3" class="reference"><a href="#cite_not
 
 ## Bữa sáng thứ hai và hơn thế nữa {#Second_Breakfast_and_Beyond}
 
-<i><b>Bữa sáng thứ hai và hơn thế nữa</b></i> phát hành vào [17 tháng 8](../_/17_August.md) [2026](../_/2026.md). Nó bao gồm 7 mã thông báo Thực phẩm, được minh họa bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Raymond_Bonilla&amp;action=edit&amp;redlink=1" title="Raymond Bonilla (page does not exist)">Raymond Bonilla</a>, [Randy Gallegos](../R/Randy_Gallegos.md) và [Ben Wootten](../B/Ben_Wootten.md). Mỗi thẻ đều có chủ đề sau bữa ăn của người Hobbit.<sup id="cite_ref-mathoms_2-1" class="reference"><a href="#cite_note-mathoms-2">[2]</a></sup>
+<i><b>Bữa sáng thứ hai và hơn thế nữa</b></i> phát hành vào [17 tháng 8](../_/17_August.md) [2026](../_/2026.md). Nó bao gồm 7 mã thông báo Thực phẩm, được minh họa bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Raymond_Bonilla&amp;action=edit&amp;redlink=1" title="Raymond Bonilla (page does not exist)">Raymond Bonilla</a>, [Randy Gallegos](../R/Randy_Gallegos.md) và [Ben Wootten](../B/Ben_Wootten.md). Mỗi thẻ đều có chủ đề sau bữa ăn Hobbit.<sup id="cite_ref-mathoms_2-1" class="reference"><a href="#cite_note-mathoms-2">[2]</a></sup>
 
 ## Bên kia chốn hoang dã {#Over_the_Edge_of_the_Wild}
 
@@ -50,7 +50,7 @@ Các thẻ in lại là<sup id="cite_ref-3" class="reference"><a href="#cite_not
 
 <h2><span id="Smaug.27s_Spoils"></span><span class="mw-headline" id="Smaug&#39;s_Spoils">Smaug&#39;s Spoils</span></h2>
 
-<i><b>Smaug's Spoils</b></i> phát hành vào [17 tháng 8](../_/17_August.md) [2026](../_/2026.md). Các họa sĩ minh họa của bộ này là <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Astruga&amp;action=edit&amp;redlink=1" title="David Astruga (page does not exist)">David Astruga</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Brandon_L._Hunt&amp;action=edit&amp;redlink=1" title="Brandon L. Hunt (page does not exist)">Brandon L. Hunt</a>và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gaboleps&amp;action=edit&amp;redlink=1" title="Gaboleps (page does not exist)">Gaboleps</a>. Nó bao gồm các thẻ sau:<sup id="cite_ref-mathoms_2-3" class="reference"><a href="#cite_note-mathoms-2">[2]</a></sup>
+Spoils của <i><b>Smaug</b></i> phát hành vào [17 tháng 8](../_/17_August.md) [2026](../_/2026.md). Các họa sĩ minh họa của bộ này là <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Astruga&amp;action=edit&amp;redlink=1" title="David Astruga (page does not exist)">David Astruga</a>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Brandon_L._Hunt&amp;action=edit&amp;redlink=1" title="Brandon L. Hunt (page does not exist)">Brandon L. Hunt</a>và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Gaboleps&amp;action=edit&amp;redlink=1" title="Gaboleps (page does not exist)">Gaboleps</a>. Nó bao gồm các thẻ sau:<sup id="cite_ref-mathoms_2-3" class="reference"><a href="#cite_note-mathoms-2">[2]</a></sup>
 
 - *Erebor Heirloom*<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup>
 - *Lightning Greaves*

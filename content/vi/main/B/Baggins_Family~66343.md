@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Baggins family"
 ---
 
-Chuyển hướng đến [gia đình Baggins](Baggins_family.md).
+Chuyển hướng đến [Baggins gia đình](Baggins_family.md).

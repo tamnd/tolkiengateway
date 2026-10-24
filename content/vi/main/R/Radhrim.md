@@ -19,11 +19,11 @@ langlinks:
     url: "https://kontu.wiki/Radhrim"
 ---
 
-**Radhrim** (Raðrim) là một khu vực có rừng ở phía đông [Doriath](../D/Doriath.md), nằm giữa sông [Aros](../A/Aros.md) và [Celon](../C/Celon.md).<sup id="cite_ref-WJBeleriand_1-0" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup><sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup> Mặc dù khu vực có vẻ giống nhau nhưng cũng được gọi là [Arthórien](../A/Arthórien.md),<sup id="cite_ref-WJBeleriand_1-1" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup> không biết liệu hai khu vực này có giống nhau hay không (hoặc một khu vực là nằm trong cái khác).
+**Radhrim** (Raðrim) là một vùng rừng ở phía đông [Doriath](../D/Doriath.md), nằm giữa sông [Aros](../A/Aros.md) và [Celon](../C/Celon.md).<sup id="cite_ref-WJBeleriand_1-0" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup><sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup> Mặc dù những vùng có vẻ giống nhau cũng được gọi là [Arthórien](../A/Arthórien.md),<sup id="cite_ref-WJBeleriand_1-1" class="reference"><a href="#cite_note-WJBeleriand-1">[1]</a></sup> không biết liệu hai vùng này có giống nhau hay không (hoặc liệu vùng này có nằm trong vùng kia hay không).
 
 ## Từ nguyên {#Etymology}
 
-Trong [*Etymologies*](../T/The_Etymologies.md), tên [Doriathrin](../D/Doriathrin.md) *Radhrim* được gọi là "East-march".<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+Trong [*Etymologies*](../T/The_Etymologies.md), tên [Doriathrin](../D/Doriathrin.md) *Radhrim* được đánh bóng là "phương Đông-march".<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

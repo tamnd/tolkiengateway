@@ -43,11 +43,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Chica Chubb</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">c. <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2864.md" title="Third Age 2864">1264</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="Chubb_Family~66359.md" title="Chubb Family">Chubb</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../B/Bingo_Baggins.md" title="Bingo Baggins">Bingo Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../F/Falco_Chubb-Baggins.md" title="Falco Chubb-Baggins">Falco Chubb-Baggins</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**Chica Baggins, nhũ danh Chubb**, là một [Hobbit](../H/Hobbit.md) của [Shire](../T/The_Shire.md).
+**Chica Baggins, nhũ danh Chubb**, là [Hobbit](../H/Hobbit.md) của [the Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Chica là con gái của người đứng đầu gia đình Chubb. Vì họ của cô đã bị mất sau khi kết hôn với [Bingo Baggins](../B/Bingo_Baggins.md) nên con cái của cô nhận được họ kép,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Chubb-Baggins](Chubb-Baggins.md). Con trai của họ [Falco](../F/Falco_Chubb-Baggins.md) là người đầu tiên mang cái tên đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Chica là con gái của người đứng đầu gia đình Chubb. Vì họ của cô sẽ bị mất sau khi kết hôn với [Bingo Baggins](../B/Bingo_Baggins.md) nên con cái của cô nhận được họ kép,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Chubb-Baggins](Chubb-Baggins.md). Con trai của họ [Falco](../F/Falco_Chubb-Baggins.md) là người đầu tiên mang cái tên đó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

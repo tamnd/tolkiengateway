@@ -35,7 +35,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Joy Hill](../J/Joy_Hill.md) đã đề nghị Tolkien xóa số điện thoại của ông khỏi danh bạ. Tolkien cảm ơn bà và nói rằng ông sẽ xem xét. Việc loại bỏ có vẻ tốt hơn phương pháp của [W.H. Lewis](../W/W.H._Lewis.md) trong việc bảo vệ [anh trai mình](../C/C.S._Lewis.md) là trả lời liên tục "Đơn vị xử lý nước thải Oxford" cho đến khi người gọi đi mất. <br>
+[Joy Hill](../J/Joy_Hill.md) đã đề nghị Tolkien xóa số điện thoại của ông khỏi danh bạ. Tolkien cảm ơn cô và nói sẽ xem xét. Việc loại bỏ có vẻ tốt hơn phương pháp của [W.H. Lewis](../W/W.H._Lewis.md) trong việc bảo vệ [anh trai](../C/C.S._Lewis.md) là trả lời liên tục "Oxford Đơn vị xử lý nước thải" cho đến khi người gọi đi mất. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

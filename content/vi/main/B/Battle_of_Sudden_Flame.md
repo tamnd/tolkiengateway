@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dagor Bragollach"
 ---
 
-Chuyển hướng tới [Dagor Bragollach](../D/Dagor_Bragollach.md).
+Chuyển hướng đến [Dagor Bragollach](../D/Dagor_Bragollach.md).

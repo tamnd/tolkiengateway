@@ -69,23 +69,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Fall_of_Númenor.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/The_Fall_of_N%C3%BAmenor.jpg/309px-The_Fall_of_N%C3%BAmenor.jpg" decoding="async" loading="lazy" width="309" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/The_Fall_of_N%C3%BAmenor.jpg/463px-The_Fall_of_N%C3%BAmenor.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/The_Fall_of_N%C3%BAmenor.jpg/617px-The_Fall_of_N%C3%BAmenor.jpg 2x" data-file-width="1733" data-file-height="2694"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Fall of Númenor:<br/><small>and Other Tales from the Second Age of Middle-earth</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../B/Brian_Sibley.md" title="Brian Sibley">Brian Sibley</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/15_November.md" title="15 November">15 November</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; deluxe edition</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">352</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0008537836" title="Special:BookSources/0008537836">0008537836</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Nature_of_Middle-earth.md" title="The Nature of Middle-earth">The Nature of Middle-earth</a> (2021)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Battle_of_Maldon%253A_together_with_The_Homecoming_of_Beorhtnoth.md" title="The Battle of Maldon: together with The Homecoming of Beorhtnoth">The Battle of Maldon</a> (2023)</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data">The Fall of Númenor editions</td></tr></tbody></table>
 
-<i><b>Sự sụp đổ của Númenor: và những câu chuyện khác từ thời đại thứ hai của Trung Địa</b></i> là tuyển tập các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do [Brian Sibley](../B/Brian_Sibley.md) biên tập thành một cuốn sách duy nhất và xuất bản trong [2022](../_/2022.md). Nó thu thập tất cả các tài liệu đã xuất bản liên quan đến [Thời đại thứ hai](../S/Second_Age.md) của [Trung địa](../M/Middle-earth.md), lần đầu tiên trình bày chúng trong một tập duy nhất.
+<i><b>The Fall of Númenor: và Những câu chuyện khác từ Kỷ Đệ Nhị của Trung Địa</b></i> là tập hợp các bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), do [Brian Sibley](../B/Brian_Sibley.md) biên tập thành một cuốn sách duy nhất và xuất bản trong [2022](../_/2022.md). Nó thu thập tất cả các tài liệu đã xuất bản liên quan đến [Kỷ Đệ Nhị](../S/Second_Age.md) của [Trung Địa](../M/Middle-earth.md), trình bày chúng lần đầu tiên trong một tập duy nhất.
 
-Thay vì [bản đồ Trung địa](The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md) thông thường, nó bao gồm bản sao của [Bản đồ chung về Trung địa](../G/General_Map_of_Middle-earth.md) cũ hơn, hiển thị Cảng [Umbar](../U/Umbar.md) và Mũi [Forochel](../F/Forochel.md). Bản đồ này là phiên bản [Allen & Unwin](../A/Allen_and_Unwin.md) sau năm 1970, lấy [Glanduin](../G/Glanduin.md) và [Swanfleet](../S/Swanfleet.md) từ [Bản đồ Pauline Baynes](../A/A_Map_of_Middle-earth.md) và áp dụng sai chúng cho dòng phía trên của [Isen](../I/Isen.md) (thay vì một nhánh của [Gwathló](../G/Gwathló.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Thay vì [bản đồ thông thường của Trung Địa](The_West_of_Middle-earth_at_the_End_of_the_Third_Age.md), nó bao gồm bản sao của [Bản đồ chung của Trung Địa](../G/General_Map_of_Middle-earth.md) cũ hơn, hiển thị Bến cảng [Umbar](../U/Umbar.md) và Mũi [Forochel](../F/Forochel.md). Bản đồ này là phiên bản [Allen &amp; Unwin](../A/Allen_and_Unwin.md) sau năm 1970, lấy [Glanduin](../G/Glanduin.md) và [Swanfleet](../S/Swanfleet.md) từ [Pauline Baynes Bản đồ](../A/A_Map_of_Middle-earth.md) và áp dụng sai chúng cho dòng trên của [Isen](../I/Isen.md) (thay vì một nhánh của [Gwathló](../G/Gwathló.md)).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Các văn bản này trước đây đã được xuất bản trong *[The Silmarillion](The_Silmarillion.md)*, *[Unfinished Tales](../U/Unfinished_Tales.md)*, *[The History of Middle-earth](The_History_of_Middle-earth.md)* và *[The Nature of Middle-earth](The_Nature_of_Middle-earth.md)*, được biên tập bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md). Không có [tài liệu mới](../U/Unpublished_material.md) nào của Tolkien được trình bày trong cuốn sách này. Cuốn sách được minh họa bởi [Alan Lee](../A/Alan_Lee.md).
+Các văn bản trước đây đã được xuất bản trong *[The Silmarillion](The_Silmarillion.md)*, *[Unfinished Tales](../U/Unfinished_Tales.md)*, *[The History of Middle-earth](The_History_of_Middle-earth.md)* và *[The Nature of Middle-earth](The_Nature_of_Middle-earth.md)*, được biên tập bởi [Christopher Tolkien](../C/Christopher_Tolkien.md) và [Carl F. Hostetter](../C/Carl_F._Hostetter.md). Không có [tài liệu mới](../U/Unpublished_material.md) nào của Tolkien được trình bày trong cuốn sách này. Cuốn sách được minh họa bởi [Alan Lee](../A/Alan_Lee.md).
 
 ## Nội dung {#Contents}
 
 - Giới thiệu về cuốn sách này
 - Giới thiệu: Câu chuyện về 'Thời kỳ đen tối'
-- Trước thời đại thứ hai
+- Trước Kỷ Đệ Nhị
 
-- **Chuyện năm tháng (Niên đại miền Tây)**
+- **The Tale of Years (Niên đại miền Tây)**
 
 - Phụ lục:
-    - A: Biên niên sử tóm tắt về thời đại thứ ba của Trung Địa
-    - B: Các chương của Númenórean từ *[The Lost Road](The_Lost_Road.md)*
+    - A: Biên niên sử tóm tắt về Kỷ Đệ Tam của Trung Địa
+    - B: Các chương Númenórean từ *[The Lost Road](The_Lost_Road.md)*
 
 - Ghi chú
 
@@ -155,7 +155,7 @@ Các văn bản này trước đây đã được xuất bản trong *[The Silma
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/" rel="noreferrer noopener" target="_blank">Cuốn sách Tolkien mới: <i>Sự sụp đổ của Númenor</i> sẽ được xuất bản</a> trên Tolkiensociety.org
+- <a class="external text" href="http://www.tolkiensociety.org/2022/06/new-tolkien-book-the-fall-of-numenor-to-be-published/" rel="noreferrer noopener" target="_blank">Sách Tolkien mới: <i>The Fall of Númenor</i> sẽ được xuất bản</a> trên Tolkiensociety.org
 
 <br>
 

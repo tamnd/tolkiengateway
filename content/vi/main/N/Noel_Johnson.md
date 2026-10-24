@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Johnson, Noel"
 ---
 
-**Noel Johnson** ([28 tháng 12](../_/28_December.md), [1916](../_/1916.md) - [1 tháng 10](../_/1_October.md), [1999](../_/1999.md)) là một diễn viên người Anh. Ông chơi [Éomer](../_/Éomer.md) trong [*The Lord of the Rings* (loạt phim phát thanh năm 1955)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).
+**Noel Johnson** ([28 tháng 12](../_/28_December.md), [1916](../_/1916.md) - [1 tháng 10](../_/1_October.md), [1999](../_/1999.md)) là một diễn viên người Anh. Ông đã chơi [Éomer](../_/Éomer.md) trong [*The Lord of the Rings* (loạt phim phát thanh năm 1955)](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>).
 
 ## Liên kết ngoài {#External_links}
 

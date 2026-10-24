@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Children of Ilúvatar"
 ---
 
-Chuyển hướng tới [Những đứa trẻ của Ilúvatar](../C/Children_of_Ilúvatar.md).
+Chuyển hướng đến [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md).

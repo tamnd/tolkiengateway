@@ -24,7 +24,7 @@ Một hình ảnh của Vương miện được đặt phía trên cột giữa 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [Câu chuyện đã mất](../T/The_Book_of_Lost_Tales%253A_Part_Two.md) của [Sự sụp đổ của Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>), người ta thấy Turgon đội một chiếc vương miện có gắn ngọc hồng lựu trên đầu. Và sau đó trong [cuộc tấn công vào thành phố](../F/Fall_of_Gondolin.md), nhà vua đã ném vương miện của mình vào tận gốc rễ của [Glingol](../G/Glingal_and_Belthil.md). [Galdor of the Tree](<../G/Galdor_(elf_of_Gondolin).md>) đã nhặt nó với ý định trả lại cho Turgon, nhưng nhà vua đã từ chối. Với chiếc vương miện thuộc quyền sở hữu của Galdor, nó sẽ thoát khỏi sự tàn phá của thành phố.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Lost Tale](../T/The_Book_of_Lost_Tales%253A_Part_Two.md) của [The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>), Turgon được nhìn thấy đội một chiếc vương miện có đính ngọc hồng lựu trên đầu. Và sau đó trong [cuộc tấn công vào thành phố](../F/Fall_of_Gondolin.md), nhà vua đã ném vương miện của mình vào tận gốc rễ của [Glingol](../G/Glingal_and_Belthil.md). [Galdor của Cây](<../G/Galdor_(elf_of_Gondolin).md>) đã nhặt nó lên với ý định trả lại cho Turgon nhưng nhà vua đã từ chối. Với chiếc vương miện mà Galdor sở hữu, nó sẽ thoát khỏi sự tàn phá của thành phố.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

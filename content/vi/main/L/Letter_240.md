@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bà Gasch ([Pauline Baynes](../P/Pauline_Baynes.md)) đang minh họa *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* và đã được đưa cho cả bản đánh máy và bản in thử các bài thơ. Tuy nhiên, người đầu tiên đề cập đến [Tom Bombadil](../T/Tom_Bombadil.md) đội một "lông công" trên mũ, còn người sau có "lông cánh thiên nga". Tolkien nói với bà rằng con công là phần còn sót lại từ một bản nháp cũ và sẽ phải ra đi. Bombadil lúc đầu có một chiếc lông thiên nga, và sau đó trong câu chuyện có một chiếc lông [chim bói cá](../K/Kingfishers.md) màu xanh lam.
+Bà Gasch ([Pauline Baynes](../P/Pauline_Baynes.md)) đang minh họa cho *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* và đã được cung cấp cả bản đánh máy và bản in thử các bài thơ. Tuy nhiên, người trước đề cập đến việc [Tom Bombadil](../T/Tom_Bombadil.md) đội mũ "lông công" và người sau có "lông cánh thiên nga". Tolkien nói với cô rằng con công là thứ còn sót lại từ một bản nháp cũ và sẽ phải ra đi. Bombadil lúc đầu có một chiếc lông thiên nga, và sau đó trong câu chuyện có một chiếc lông [chim bói cá](../K/Kingfishers.md) màu xanh lam.
 
-Tiếp theo là một chuyên luận ngắn về từ nguyên của "chim bói cá", và vị trí đối thủ của [thiên nga](../S/Swans.md) là tài sản quý giá nhất của một vị Vua; trong trường hợp này là Bombadil. Tolkien bảo cô đừng bận tâm quá nhiều, vì hầu hết chi tiết chỉ là "niềm vui riêng". Tolkien rất mong nhận được lời giải thích của bà Gasch. <br>
+Tiếp theo là một chuyên luận ngắn về từ nguyên của "chim bói cá" và vị trí đối thủ của [thiên nga](../S/Swans.md) là tài sản quý giá nhất của Vua; trong trường hợp này là Bombadil. Tolkien dặn cô đừng bận tâm quá, vì chi tiết nào cũng chỉ là “thú vui riêng”. Tolkien rất mong nhận được lời giải thích của bà Gasch. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

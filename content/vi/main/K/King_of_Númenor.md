@@ -29,7 +29,7 @@ langlinks:
     url: "https://kontu.wiki/N%C3%BAmenorin_hallitsijat"
 ---
 
-**Vua của Númenor** là tước hiệu của 22 người cai trị [Númenor](../N/Númenor.md) (cũng có ba [Nữ hoàng cai trị](../R/Ruling_Queens_of_Númenor.md)). Bắt đầu với [Elros Tar-Minyatur](../E/Elros.md) ở [S.A.](../S/Second_Age.md) [32](../S/Second_Age_32.md), dòng dõi các vị vua kéo dài 3.287 năm, cho đến khi [Ar-Pharazôn](../A/Ar-Pharazôn.md) gây ra [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Vua của Númenor** là tước hiệu của 22 người cai trị của [Númenor](../N/Númenor.md) (cũng có ba [Nữ hoàng cai trị](../R/Ruling_Queens_of_Númenor.md)). Bắt đầu với [Elros Tar-Minyatur](../E/Elros.md) ở [S.A.](../S/Second_Age.md) [32](../S/Second_Age_32.md), dòng dõi các vị vua kéo dài 3.287 năm, cho đến khi [Ar-Pharazôn](../A/Ar-Pharazôn.md) mang lại [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](../Q/Quenya.md) *[Tar](../T/Tar.md)* hoặc tiền tố [Adûnaic](../A/Adûnaic.md) *[Ar](../A/Ar.md)* trước tên hoàng gia của họ. Cả hai tiền tố đều có nghĩa là "Cao".
 
@@ -207,11 +207,11 @@ Tất cả các vị vua của Númenor đều sử dụng tiền tố [Quenya](
 
 Tiêu đề được hiển thị là <i><b>Ârû 'nAdûnâi</b></i> ("Vua của người Anadunians") trong [Adûnaic](../A/Adûnaic.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Thuật ngữ **Vua của người Númenóreans** đã được chứng thực một lần trong danh sách các vị vua.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Thuật ngữ này sau đó được [Arwen](../A/Arwen.md) áp dụng cho Vua [Aragorn](../A/Aragorn.md) trong lúc hấp hối,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> có lẽ mang ý nghĩa thơ ca, vì Aragorn đã khôi phục lại vinh quang của dòng dõi Númenórean và đang hấp hối theo phong tục hoàng gia cũ của Númenor.
+Thuật ngữ **Vua của người Númenor** đã được chứng thực một lần trong danh sách các vị Vua.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau đó, nó được [Arwen](../A/Arwen.md) áp dụng cho Vua [Aragorn](../A/Aragorn.md) trên giường bệnh của ông,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> có lẽ theo nghĩa thi ca, vì Aragorn đã khôi phục lại vinh quang của dòng dõi Númenórean và đang lụi tàn theo phong tục hoàng gia cũ của Númenor.
 
 ## Xem thêm {#See_also}
 
-Để biết về phả hệ của những người cai trị Númenor và mối quan hệ của họ, hãy xem **[Nhà Elros](../H/House_of_Elros.md)**.
+Để biết về cây phả hệ của những người cai trị Númenor và mối quan hệ của họ, hãy xem **[Nhà Elros](../H/House_of_Elros.md)**.
 
 <span></span>
 

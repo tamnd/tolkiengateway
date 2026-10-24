@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_58.gif.md"><img src="https://tolkiengateway.net/w/images/c/ce/Mythlore_58.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 58</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_57.md" title="Mythlore 57">Mythlore 57</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_59.md" title="Mythlore 59">Mythlore 59</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 58</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol15/iss4/" rel="noreferrer noopener" target="_blank">Tập 15, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 58</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol15/iss4/" rel="noreferrer noopener" target="_blank">Tập 15, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -69,7 +69,7 @@ infobox:
 
 #### Đánh giá {#Reviews}
 
-- *Sự trở lại của bóng tối: Lịch sử Chúa tể của những chiếc nhẫn, Phần một.* J.R.R. Tolkien. Được đánh giá bởi Wayne G. Hammond.
+- *The Return of the Shadow: The History of The Lord of the Rings, Phần thứ nhất.* J.R.R. Tolkien. Được đánh giá bởi Wayne G. Hammond.
 - *Hương vị quả dứa: Các bài tiểu luận về C.S. Lewis với tư cách là Người đọc, Nhà phê bình và Nhà văn giàu trí tưởng tượng.* Bruce L. Edwards, ed. Được đánh giá bởi Nancy-Lou Patterson.
 - *The C.S. Lewis Hoax.* Kathryn Lindskoog. Được đánh giá bởi Nancy-Lou Patterson.
 - *The C.S. Lewis Hoax.* Kathryn Lindskoog. Được đánh giá bởi John D. Rateliff.

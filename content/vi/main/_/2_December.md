@@ -66,22 +66,22 @@ Sự kiện xảy ra vào ngày 2 tháng 12
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia cuộc kiểm tra của hội đồng quân y và được đưa đến Great Haywood để hồi phục sức khỏe.
+- **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia cuộc kiểm tra của hội đồng quân y và được đưa đến Great Haywood để hồi phục.
 - **[1933](1933.md)** - [Ông già Noel](../F/Father_Christmas.md) viết [thư](../L/Letters_from_Father_Christmas.md) cho các con của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nộp *[The Homecoming of Beorhtnoth Beorhthelm's Son](../T/The_Homecoming_of_Beorhtnoth.md)* để xuất bản.
+- **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gửi *[The Homecoming of Beorhtnoth Beorhthelm's Son](../T/The_Homecoming_of_Beorhtnoth.md)* để xuất bản.
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 142](../L/Letter_142.md).
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 158](../L/Letter_158.md).
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết xong [một lá thư gửi Rayner Heppenstall](<../L/Letter_to_Rayner_Heppenstall_(1-2_December_1954).md>).
-- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Elizabeth Jennings](../L/Letter_to_Elizabeth_Jennings.md).
-- **[1956](1956.md)** - Tập thứ ba của [loạt phim phát thanh năm 1956](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* phát sóng trên [BBC](../B/BBC.md) Chương trình thứ ba.
-- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư](<../L/Letter_to_Rayner_Unwin_(2_December_1968).md>) gửi [Rayner Unwin](../R/Rayner_Unwin.md), bình luận rằng dù *[The End of Bovadium](../T/The_End_of_Bovadium.md)* nằm trong danh sách các tác phẩm chưa được xuất bản nhưng ông "không có ý định xuất bản" nó để ngăn cản ông làm việc trên *[The Silmarillion](../T/The_Silmarillion.md)*.
-- **[1989](1989.md)** - Giáo sư Oxford [Norman Davis](../N/Norman_Davis.md) qua đời.
+- **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Elizabeth Jennings](../L/Letter_to_Elizabeth_Jennings.md).
+- **[1956](1956.md)** - Tập thứ ba của [loạt phim phát thanh năm 1956](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* phát sóng trên Chương trình thứ ba [BBC](../B/BBC.md).
+- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư](<../L/Letter_to_Rayner_Unwin_(2_December_1968).md>) gửi [Rayner Unwin](../R/Rayner_Unwin.md), bình luận rằng, dù *[The End of Bovadium](../T/The_End_of_Bovadium.md)* có nằm trong danh sách tác phẩm chưa xuất bản nhưng ông "không có ý định xuất bản" nó để tránh cản trở việc ông tiếp tục nghiên cứu *[The Silmarillion](../T/The_Silmarillion.md)*.
+- **[1989](1989.md)** - Oxford Giáo sư [Norman Davis](../N/Norman_Davis.md) qua đời.
 - **[2021](2021.md)** - Diễn viên [Antony Sher](../A/Antony_Sher.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
     - Quý I<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>

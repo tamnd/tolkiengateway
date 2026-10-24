@@ -23,7 +23,7 @@ sort_keys:
 
 **Mark A. Latham** là nhà thiết kế trò chơi, nhà văn và biên tập viên người Anh.
 
-Sự tham gia chuyên nghiệp của Latham với Trung địa bắt đầu tại Games Workshop, nơi anh làm biên tập viên và cuối cùng là biên tập viên cho tạp chí hợp tác *[Battle Games in Middle-earth](../B/Battle_Games_in_Middle-earth.md)*. Sau đó, anh trở thành biên tập viên của tạp chí *[White Dwarf](../W/White_Dwarf.md)* và biên tập viên quản lý bộ phận phát triển trò chơi của Games Workshop, giám sát nhiều dự án khác nhau bao gồm [The Lord of the Rings Strategy Battle Game](Middle-earth_Strategy_Battle_Game.md) cho đến khi rời công ty để theo đuổi sự nghiệp tự do.<sup id="cite_ref-About_1-0" class="reference"><a href="#cite_note-About-1">[1]</a></sup>
+Sự tham gia chuyên nghiệp của Latham với Trung Địa bắt đầu tại Games Workshop, nơi anh làm biên tập viên và cuối cùng là biên tập viên cho tạp chí hợp tác *[Battle Games in Middle-earth](../B/Battle_Games_in_Middle-earth.md)*. Sau đó, anh trở thành biên tập viên của tạp chí *[White Dwarf](../W/White_Dwarf.md)* và biên tập viên quản lý bộ phận phát triển trò chơi của Games Workshop, giám sát nhiều dự án khác nhau bao gồm [The Lord of the Rings Strategy Battle Game](Middle-earth_Strategy_Battle_Game.md) cho đến khi rời công ty để theo đuổi sự nghiệp tự do.<sup id="cite_ref-About_1-0" class="reference"><a href="#cite_note-About-1">[1]</a></sup>
 
 Ngoài công việc tại Games Workshop, Latham còn là người viết nền cho *[Erebor: The Lonely Mountain](<../E/Erebor_(The_One_Ring_role-playing_game).md>)*, một phần bổ sung cho *[The One Ring](<../T/The_One_Ring_(role-playing_game).md>)* trò chơi nhập vai.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 

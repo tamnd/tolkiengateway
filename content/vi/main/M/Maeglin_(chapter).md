@@ -48,11 +48,11 @@ images:
 <dl><dd>Appendix: <a href="../C/Cuivienyarna.md" title="Cuivienyarna">The legend of the Awaking of the Quendi</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Maeglin** là một chương trong cuốn sách [Cuộc chiến của những viên ngọc](../T/The_War_of_the_Jewels.md), phần thứ mười một của bộ [The History of Middle-earth](../T/The_History_of_Middle-earth.md).
+**Maeglin** là một chương trong cuốn [The War of the Jewels](../T/The_War_of_the_Jewels.md), chương thứ mười một của bộ [The History of Middle-earth](../T/The_History_of_Middle-earth.md).
 
-Trong chương này, [Christopher Tolkien](../C/Christopher_Tolkien.md) mô tả cách [cha](../J/J.R.R._Tolkien.md) của anh viết câu chuyện về [Isfin](../A/Aredhel.md), hay Aredhel, chồng cô, [Eöl](../E/Eöl.md) và con trai của họ, [Maeglin](Maeglin.md). Trong chương này, Christopher Tolkien đã nói về bản thảo và quá trình xây dựng câu chuyện về Maeglin.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+Trong chương này, [Christopher Tolkien](../C/Christopher_Tolkien.md) mô tả cách [cha](../J/J.R.R._Tolkien.md) của anh viết câu chuyện về [Isfin](../A/Aredhel.md), hay Aredhel, chồng cô, [Eöl](../E/Eöl.md), và con trai của họ, [Maeglin](Maeglin.md). Trong chương này, Christopher Tolkien đã nói về bản thảo và quá trình xây dựng câu chuyện Maeglin.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
-Sau đó, Christopher Tolkien chia nhỏ câu chuyện, kể chi tiết J. R. R. Tolkien đã thay đổi bản thảo, chỉnh sửa tên và lịch sử như thế nào. Ông lưu ý rằng lịch sử của Eöl đã được chỉnh sửa rất nhiều và J. R. R. Tolkien đã phải chỉnh sửa các bản đồ mà ông đã tạo trước đó như thế nào.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
+Sau đó, Christopher Tolkien phân tích câu chuyện, trình bày chi tiết J. R. R. Tolkien đã thay đổi bản thảo, chỉnh sửa tên và lịch sử như thế nào. Ông lưu ý rằng có rất nhiều điều đã được chỉnh sửa trong lịch sử của Eöl và J. R. R. Tolkien đã phải chỉnh sửa những bản đồ mà ông đã tạo trước đó như thế nào.<sup id="cite_ref-:0_1-1" class="reference"><a href="#cite_note-:0-1">[1]</a></sup>
 
 <br>
 

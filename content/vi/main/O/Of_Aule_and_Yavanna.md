@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of Aulë and Yavanna"
 ---
 
-Chuyển hướng tới [Của Aulë và Yavanna](Of_Aulë_and_Yavanna.md).
+Chuyển hướng đến [Của Aulë và Yavanna](Of_Aulë_and_Yavanna.md).

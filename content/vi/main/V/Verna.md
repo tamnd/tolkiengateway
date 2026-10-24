@@ -13,17 +13,17 @@ categories:
   - "Quenya locations"
 ---
 
-**Verna** là một địa điểm ít người biết đến ở phía tây nam [Beleriand](../B/Beleriand.md) gần [Miệng Sirion](../M/Mouths_of_Sirion.md).
+**Verna** là một địa điểm ít người biết đến ở phía tây nam [Beleriand](../B/Beleriand.md) gần [Cửa sông Sirion](../M/Mouths_of_Sirion.md).
 
 [Arvernien](../A/Arvernien.md) được đặt theo tên của nó.
 
 ## Cảm hứng {#Inspiration}
 
-Verna không xuất hiện trong lời tường thuật hoặc bất kỳ bản đồ nào của Beleriand; [Tolkien](../J/J.R.R._Tolkien.md) dường như đã phát minh ra cái tên này để giải thích từ nguyên của *Arvernien*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vì Tolkien giải thích Arvernien là "Vùng đất bên cạnh Verna", về mặt địa lý, Verna có thể đề cập đến các khu vực lân cận như rừng [Nimbrethil](../N/Nimbrethil.md) hoặc [Lisgardh](../L/Lisgardh.md).
+Verna không xuất hiện trong lời tường thuật hoặc bất kỳ bản đồ nào của Beleriand; [Tolkien](../J/J.R.R._Tolkien.md) dường như đã phát minh ra cái tên này để giải thích từ nguyên của *Arvernien*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vì Tolkien giải thích Arvernien là "Vùng đất bên cạnh Verna", về mặt địa lý, Verna có thể ám chỉ các khu vực lân cận như rừng [Nimbrethil](../N/Nimbrethil.md) hoặc [Lisgardh](../L/Lisgardh.md).
 
 ## Từ nguyên {#Etymology}
 
-Verna có thể liên quan đến [Quenya](../Q/Quenya.md) *[feren](../F/Feren.md)* có nghĩa là "bạch dương, cây sồi", và nếu vậy, nó có thể ám chỉ khu rừng Nimbrethil ("(rừng) bạch dương bạc").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một khả năng khác là nó ám chỉ một con sông, rõ ràng là [Sirion](../S/Sirion.md) và xuất phát từ [Root](../S/Sundocarmë.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=WER&amp;action=edit&amp;redlink=1" title="WER (page does not exist)">WER</a></i>, "quanh co" (do đó, "Dòng sông quanh co").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Verna có thể liên quan đến [Quenya](../Q/Quenya.md) *[feren](../F/Feren.md)* có nghĩa là "bạch dương, cây sồi", và nếu vậy, nó có thể ám chỉ khu rừng Nimbrethil ("(rừng) bạch dương bạc").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một khả năng khác là nó ám chỉ một con sông, rõ ràng là [Sirion](../S/Sirion.md) và xuất phát từ [Gốc](../S/Sundocarmë.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=WER&amp;action=edit&amp;redlink=1" title="WER (page does not exist)">WER</a></i>, "quanh co" (do đó, "Dòng sông uốn lượn").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

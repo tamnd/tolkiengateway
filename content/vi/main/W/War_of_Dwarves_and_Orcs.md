@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "War of the Dwarves and Orcs"
 ---
 
-Chuyển hướng đến [Cuộc chiến của người lùn và Orc](War_of_the_Dwarves_and_Orcs.md).
+Chuyển hướng đến [Cuộc chiến giữa Người lùn và Orc](War_of_the_Dwarves_and_Orcs.md).

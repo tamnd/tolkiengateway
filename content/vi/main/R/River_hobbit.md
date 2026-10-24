@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Stoors"
 ---
 
-Chuyển hướng đến [Cửa hàng](../S/Stoors.md).
+Chuyển hướng đến [Stoors](../S/Stoors.md).

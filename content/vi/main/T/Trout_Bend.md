@@ -35,7 +35,7 @@ Trout Bend được đặt tên theo khúc cua của một con sông có tên kh
 
 ## Lịch sử {#History}
 
-Vào cuối [Thời đại thứ hai](../S/Second_Age.md), Trout Bend là địa điểm mà một [cộng đồng Harfoot](../H/Harfoots.md) nhất định đã đi qua khi di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác, đặc biệt là từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
+Vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), Trout Bend là địa điểm mà một [cộng đồng Harfoot](../H/Harfoots.md) nhất định đã đi qua khi di cư từ nơi trú ẩn theo mùa này sang nơi trú ẩn theo mùa khác, đặc biệt là từ [Norfield Glen](../N/Norfield_Glen.md) đến [Grove](../G/Grove.md).
 
 Trong một lần di cư như vậy, gia đình Brandyfoot, [Poppy Proudfellow](../P/Poppy_Proudfellow.md) và [The Stranger](The_Stranger.md) đã vượt qua thác nước theo sau đoàn lữ hành chính của cộng đồng Harfoot đã đi trước họ rất xa.
 

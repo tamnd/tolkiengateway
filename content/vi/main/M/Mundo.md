@@ -13,7 +13,7 @@ categories:
   - "Elvish words"
 ---
 
-<i><b>mundo</b></i> là một từ [Elvish](../E/Elvish.md) có nghĩa là "[bull](../C/Cows.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dạng *-mund* của nó có thể tạo ra các từ ghép cùng với các tiền tố (xem Từ ghép).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>mundo</b></i> là một từ [Elvish](../E/Elvish.md) có nghĩa là "[bull](../C/Cows.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dạng *-mund* của nó có thể tạo ra các từ ghép cùng với tiền tố (xem Từ ghép).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -16,7 +16,7 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- *[Narquelië](Narquelië.md)* = "Nắng nhạt dần" (một tháng)<sup id="cite_ref-K3_2-1" class="reference"><a href="#cite_note-K3-2">[2]</a></sup>
+- *[Narquelië](Narquelië.md)* = "Mặt Trời-mờ dần" (một tháng)<sup id="cite_ref-K3_2-1" class="reference"><a href="#cite_note-K3-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 26 tháng 6
 - **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 305](../L/Letter_305.md).
 - **[2007](2007.md)** - *[Tree of Tales](../T/Tree_of_Tales.md)* được xuất bản.
 - **[2010](2010.md)** - [Simon Tolkien](../S/Simon_Tolkien.md) đăng bài viết "[Theo bước chân ông nội tôi](../I/In_My_Grandfather's_Footsteps.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- **[2010](2010.md)** - [Hội thảo Bắc bán cầu của Hiệp hội Tolkien](../T/The_Tolkien_Society.md): "Tolkien & [Birmingham](../B/Birmingham.md)".
+- **[2010](2010.md)** - Hội thảo Bắc bán cầu của [Hội Tolkien](../T/The_Tolkien_Society.md): "Tolkien & [Birmingham](../B/Birmingham.md)".
 - **[2012](2012.md)** - *[Tolkien and Welsh](../T/Tolkien_and_Welsh.md)* của [Mark T. Hooker](../M/Mark_T._Hooker.md) được xuất bản.
 - **[2016](2016.md)** - Học giả [John Ellison](../J/John_Ellison.md) qua đời.
 

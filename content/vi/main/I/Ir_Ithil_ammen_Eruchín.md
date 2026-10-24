@@ -35,9 +35,9 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../V/Varda.md" title="Varda">Varda</a></td></tr>
 </tbody></table>
 
-"<i><b>Ir Ithil ammen Eruchín</b></i>" là dòng đầu tiên của bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản sau khi di cảo ở *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)* năm [1985](../_/1985.md).<sup id="cite_ref-song_1-0" class="reference"><a href="#cite_note-song-1">[1]</a></sup>
+"<i><b>Ir Ithil ammen Eruchín</b></i>" là dòng đầu tiên của một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản sau khi di cảo tại *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)* năm [1985](../_/1985.md).<sup id="cite_ref-song_1-0" class="reference"><a href="#cite_note-song-1">[1]</a></sup>
 
-Mặc dù Tolkien chưa bao giờ đặt tên cho bài thơ nhưng nó được một số người gọi là **[Bài hát của Lúthien](../L/Lúthien.md)**<sup id="cite_ref-eldamo_2-0" class="reference"><a href="#cite_note-eldamo-2">[2]</a></sup>, một thuật ngữ được sử dụng lần đầu tiên bởi [Patrick H. Wynne](../P/Patrick_H._Wynne.md), người đã phân tích bài thơ trong [1990](../_/1990.md).<sup id="cite_ref-first_3-0" class="reference"><a href="#cite_note-first-3">[3]</a></sup> Bài thơ cũng được [David Salo](../D/David_Salo.md) phân tích trong cuốn sách [2004](../_/2004.md) của ông, *[A Gateway to Sindarin](../A/A_Gateway_to_Sindarin.md)*.<sup id="cite_ref-gateway_4-0" class="reference"><a href="#cite_note-gateway-4">[4]</a></sup>
+Mặc dù Tolkien chưa bao giờ đặt tên cho bài thơ, nhưng nó được một số người gọi là Bài hát của **[Lúthien](../L/Lúthien.md)**<sup id="cite_ref-eldamo_2-0" class="reference"><a href="#cite_note-eldamo-2">[2]</a></sup>, một thuật ngữ được sử dụng lần đầu tiên bởi [Patrick H. Wynne](../P/Patrick_H._Wynne.md), người đã phân tích bài thơ trong [1990](../_/1990.md).<sup id="cite_ref-first_3-0" class="reference"><a href="#cite_note-first-3">[3]</a></sup> Bài thơ cũng được [David Salo](../D/David_Salo.md) phân tích trong cuốn sách [2004](../_/2004.md) của ông, *[A Gateway to Sindarin](../A/A_Gateway_to_Sindarin.md)*.<sup id="cite_ref-gateway_4-0" class="reference"><a href="#cite_note-gateway-4">[4]</a></sup>
 
 ## Bài thơ {#Poem}
 

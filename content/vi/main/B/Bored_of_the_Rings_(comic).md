@@ -146,7 +146,7 @@ Tên vị trí và tên đã thay đổi, theo thứ tự bảng chữ cái.
 </td></tr>
 </tbody></table>
 
-[Gríma](../G/Gríma.md), [Éowyn](../_/Éowyn.md), [Treebeard](../T/Treebeard.md), [Théoden](../T/Théoden.md), [Durin's Bane](../D/Durin's_Bane.md), [Haldir](../H/Haldir.md), [Denethor](../D/Denethor.md) và [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>) cũng xuất hiện nhưng không được đặt tên
+[Gríma](../G/Gríma.md), [Éowyn](../_/Éowyn.md), [Treebeard](../T/Treebeard.md), [Théoden](../T/Théoden.md), [Tai họa của Durin](../D/Durin's_Bane.md), [Haldir](../H/Haldir.md), [Denethor](../D/Denethor.md) và [Gothmog](<../G/Gothmog_(Lieutenant_of_Morgul).md>) cũng xuất hiện nhưng không được đặt tên
 
 ## Liên kết ngoài {#External_links}
 

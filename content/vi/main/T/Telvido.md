@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tevildo"
 ---
 
-Chuyển hướng tới [Tevildo](Tevildo.md).
+Chuyển hướng đến [Tevildo](Tevildo.md).

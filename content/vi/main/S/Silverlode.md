@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Celebrant"
 ---
 
-Chuyển hướng tới [Người tổ chức lễ](../C/Celebrant.md).
+Chuyển hướng đến [Celebrant](../C/Celebrant.md).

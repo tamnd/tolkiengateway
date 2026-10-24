@@ -23,15 +23,15 @@ langlinks:
     url: "https://kontu.wiki/Konnunallikko"
 ---
 
-**Shirebourn** là một con sông nhỏ hơn của [Shire](../T/The_Shire.md)'s [Eastfarthing](../E/Eastfarthing.md). Nguồn của nó nằm ở vùng cao của [Green Hill Country](../G/Green_Hill_Country.md), từ đó nó chảy về phía nam rồi đến đông nam, nơi nó trùng với ranh giới với [Southfarthing](Southfarthing.md). Tại [Willowbottom](../W/Willowbottom.md), nó gặp [Thistle Brook](../T/Thistle_Brook.md) rồi chảy về phía đông.
+**Shirebourn** là con sông nhỏ hơn của [con Shire](../T/The_Shire.md) [Eastfarthing](../E/Eastfarthing.md). Nguồn của nó nằm ở vùng cao của [Green Hill Country](../G/Green_Hill_Country.md), từ đó nó chảy về phía nam rồi đến đông nam, nơi nó trùng với ranh giới với [Southfarthing](Southfarthing.md). Tại [Willowbottom](../W/Willowbottom.md), nó gặp [Thistle Brook](../T/Thistle_Brook.md) rồi chảy về phía đông.
 
 Shirebourn chảy vào Brandywine bên dưới [Deephallow](../D/Deephallow.md) và tại miệng sông tạo thành vùng lầy lội được gọi là [Đầm lầy Overbourn](../O/Overbourn_Marshes.md), đối diện với [đầu phía nam](../H/Haysend.md) của [High Hay](../H/High_Hay.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dòng chảy ra của nó là [Mithe](../M/Mithe.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Shirebourn* có nghĩa là "Dòng sáng". Từ nguyên phải là [Tiếng Anh cổ](../O/Old_English.md) *Scire-burna* từ *scïr* "sáng, trong, thuần khiết" + *burna* "stream".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Shirebourn* có nghĩa là "Dòng sáng". Từ nguyên phải là [tiếng Anh cổ](../O/Old_English.md) *Scire-burna* từ *scïr* "sáng, trong, tinh khiết" + *burna* "stream".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Mặc dù cái tên này không liên quan gì đến *Shire*, nhưng trong hầu hết các bản dịch, nó được dịch là "Sông Shire".<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Mặc dù cái tên này không liên quan gì đến *Shire*, nhưng trong hầu hết các bản dịch, nó được dịch là "Dòng sông Shire".<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 ## Cảm hứng {#Inspiration}
 

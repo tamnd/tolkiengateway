@@ -29,9 +29,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Michael_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/70/Michael_Tolkien.jpg/300px-Michael_Tolkien.jpg" decoding="async" loading="lazy" width="300" height="439" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/70/Michael_Tolkien.jpg/450px-Michael_Tolkien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/70/Michael_Tolkien.jpg/600px-Michael_Tolkien.jpg 2x" data-file-width="1287" data-file-height="1883"/></a><figcaption>Michael Tolkien at <a href="../T/The_Return_of_the_Ring.md" title="The Return of the Ring">The Return of the Ring</a>, 2012</figcaption></figure>
 
-**Michael George Reuel Tolkien** (sinh [11 tháng 1](../_/11_January.md) [1943](../_/1943.md)) là cháu trai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), là con trai của [Michael H.R. Tolkien](Michael_Tolkien.md). Michael sinh ra ở [Birmingham](../B/Birmingham.md), lớn lên tại một cộng đồng nông thôn ở Chiltern Hills và sau đó chuyển đi nhiều lần do cha anh thay đổi công việc.
+**Michael George Reuel Tolkien** (sinh [11 tháng 1](../_/11_January.md) [1943](../_/1943.md)) là cháu trai của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), là con trai của [Michael H.R. Tolkien](Michael_Tolkien.md). Michael sinh năm [Birmingham](../B/Birmingham.md), lớn lên tại một cộng đồng nông thôn ở Chiltern Hills và sau đó chuyển đi nhiều lần do cha anh thay đổi công việc.
 
-Michael là một nhà thơ và là tác giả của nhiều cuốn sách. Ông nghỉ hưu năm 1994 vì sức khỏe yếu. Ông đã kết hôn ba lần kể từ năm 1967 và có hai con gái, Catherine và Ruth. Michael là thành viên hội đồng quản trị của [Tolkien Estate](../T/Tolkien_Estate.md).
+Michael là nhà thơ và là tác giả của nhiều cuốn sách. Ông nghỉ hưu năm 1994 vì sức khỏe yếu. Ông đã kết hôn ba lần kể từ năm 1967 và có hai con gái, Catherine và Ruth. Michael là thành viên hội đồng quản trị của [Tolkien Estate](../T/Tolkien_Estate.md).
 
 ## Thư mục {#Bibliography}
 
@@ -42,7 +42,7 @@ Michael là một nhà thơ và là tác giả của nhiều cuốn sách. Ông 
 - [1999](../_/1999.md): [*Mallorn* 37](Mallorn_37.md)
     - *[Tolkien: Man and Myth](../T/Tolkien%253A_Man_and_Myth.md)* (đánh giá)
 - [2001](../_/2001.md): *[Digging Potatoes, Growing Trees - Volume 3](../D/Digging_Potatoes,_Growing_Trees.md)*
-    - "Eden, Fall, Exile and Beyond" \[Bài phát biểu tại bữa tối thường niên của Hiệp hội Tolkien 1998\]
+    - "Eden, Fall, Exile and Beyond" \[Bài phát biểu tại bữa tối thường niên của Hội Tolkien 1998\]
 
 ## Cây phả hệ {#Family_Tree}
 
@@ -60,5 +60,5 @@ Michael là một nhà thơ và là tác giả của nhiều cuốn sách. Ông 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://michaeltolkien.com/" rel="noreferrer noopener" target="_blank">Trang web của Michael Tolkien</a>
+Trang web của - <a class="external text" href="https://michaeltolkien.com/" rel="noreferrer noopener" target="_blank">Michael Tolkien</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=LZ-FE4m8DDE" rel="noreferrer noopener" target="_blank">Suy ngẫm của cháu trai về J.R.R. Tolkien</a>

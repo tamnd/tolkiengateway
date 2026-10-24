@@ -46,11 +46,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Một ngày nọ, Radagast phát hiện ra một căn bệnh ập đến với [Greenwood Đại đế](../M/Mirkwood.md) khi đang ở ngay bên ngoài [nhà](../R/Rhosgobel.md) của mình, ông nhìn thấy một số loài thực vật và động vật đã chết hoặc sắp chết—Sebastian là một trong số đó. Ông ta mang con nhím trở lại với nỗ lực hồi sinh nó, nhưng không có biện pháp khắc phục tại nhà nào có tác dụng. Trong quá trình này, một số [nhện](Spiders.md) lớn bắt đầu lao xuống [Rhosgobel](../R/Rhosgobel.md). Radagast quyết định sử dụng [phép thuật](../M/Magic.md) của mình lên Sebastian, và khi ông ta đọc xong câu thần chú của mình, những con nhện quay trở lại [nơi](../D/Dol_Guldur.md) nơi chúng đến. Trong khi đó, câu thần chú đã chữa khỏi cho Sebastian và ông dường như hoàn toàn trở lại bình thường.
+Radagast phát hiện ra một căn bệnh ập đến [Greenwood the Great](../M/Mirkwood.md) khi đang ở ngay bên ngoài [nhà](../R/Rhosgobel.md) của mình một ngày nọ, anh nhìn thấy một số loài thực vật và động vật đã chết hoặc sắp chết—Sebastian là một trong số đó. Ông ta mang con nhím trở lại với nỗ lực hồi sinh nó, nhưng không có biện pháp khắc phục tại nhà nào có tác dụng. Trong quá trình này, một số [nhện](Spiders.md) lớn bắt đầu lao xuống [Rhosgobel](../R/Rhosgobel.md). Radagast quyết định sử dụng [phép thuật](../M/Magic.md) của mình lên Sebastian, và khi ông ta đọc xong câu thần chú của mình, những con nhện quay trở lại [nơi](../D/Dol_Guldur.md) nơi chúng đến. Trong khi đó, câu thần chú đã chữa khỏi cho Sebastian và ông dường như hoàn toàn trở lại bình thường.
 
 ## Phiên bản khác {#Other_versions}
 
-<b>2012-2014: <i><a href="../M/Middle-earth_Strategy_Battle_Game.md" title="Middle-earth Strategy Battle Game">Trò chơi chiến đấu chiến lược Hobbit</a></i>:</b>
+<b>2012-2014: <i><a href="../M/Middle-earth_Strategy_Battle_Game.md" title="Middle-earth Strategy Battle Game">The Hobbit Trò chơi chiến đấu chiến lược</a></i>:</b>
 
 <dl><dd>Sebastian is featured in the figurine &#34;Radagast the Brown with Sebastian&#34;, displayed hiding by the feet of Radagast.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

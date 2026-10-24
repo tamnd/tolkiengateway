@@ -22,13 +22,13 @@ sort_keys:
 
 **Thomas Mastakouris** (tiếng Hy Lạp: Θωμάς Μαστακούρης) là một tác giả, nhà văn và dịch giả người Hy Lạp. Lĩnh vực chuyên môn của ông là giả tưởng, kinh dị và khoa học viễn tưởng. Ngoài lĩnh vực văn học, ông còn viết (đôi khi với tư cách cộng tác viên) về các chủ đề như thuyết âm mưu, thuyết huyền bí của Đức Quốc xã, mật mã học, tinh thể học và [chữ rune](../R/Runes.md).
 
-Ông đã dịch một số cuốn sách của [Tolkien](../J/J.R.R._Tolkien.md) cũng như những cuốn sách liên quan đến ông hoặc [Trung địa](../M/Middle-earth.md). Ông cũng là tác giả của ít nhất một cuốn sách liên quan đến [huyền thoại](../L/Legendarium.md) của Tolkien.
+Ông đã dịch một số cuốn sách của [Tolkien](../J/J.R.R._Tolkien.md) cũng như những cuốn sách liên quan đến ông hoặc [Trung Địa](../M/Middle-earth.md). Ông cũng là tác giả của ít nhất một cuốn sách liên quan đến [huyền thoại](../L/Legendarium.md) của Tolkien.
 
 Ông là thành viên của [Hiệp hội Tolkien Hy Lạp](../G/Greek_Tolkien_Society.md).
 
 ## Thư mục {#Bibliography}
 
-- *Τζ. Ρ. Ρ. Τόλκιν - Ρίζες και φύλλα του Δέντρου της Μέσης-γης* (*Rễ và lá của cây Trung địa*)
+- *Τζ. Ρ. Ρ. Τόλκιν - Ρίζες και φύλλα του Δέντρου της Μέσης-γης* (*Rễ và lá của cây Trung Địa*)
 
 ### Bản dịch sang tiếng Hy Lạp {#Translations_into_Greek}
 
@@ -40,9 +40,9 @@ Hoạt động bởi J.R.R. Tolkien:
 - *[Unfinished Tales](../U/Unfinished_Tales.md)* (Ατελείωτες Ιστορίες)
 - *[The Legend of Sigurd and Gudrún](The_Legend_of_Sigurd_and_Gudrún.md)* (Ο Θρύλος του Σίγκουρντ και της Γκούντρουν)
 
-Tác phẩm về Tolkien và Trung địa:
+Hoạt động về Tolkien và Trung Địa:
 
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Coren&amp;action=edit&amp;redlink=1" title="Michael Coren (page does not exist)">Michael Coren</a>, *[J.R.R. Tolkien: The Man Who Created the Lord of the Rings](../J/J.R.R._Tolkien%253A_The_Man_Who_Created_the_Lord_of_the_Rings.md)*
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Coren&amp;action=edit&amp;redlink=1" title="Michael Coren (page does not exist)">Michael Lõi</a>, *[J.R.R. Tolkien: The Man Who Created the Lord of the Rings](../J/J.R.R._Tolkien%253A_The_Man_Who_Created_the_Lord_of_the_Rings.md)*
 - [Jude Fisher](../J/Jude_Fisher.md), *[The Fellowship of the Ring Visual Companion](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_Visual_Companion.md)*
 - [Jude Fisher](../J/Jude_Fisher.md), *[The Two Towers Visual Companion](The_Lord_of_the_Rings%253A_The_Two_Towers_Visual_Companion.md)*
 - [Jude Fisher](../J/Jude_Fisher.md), *[The Return of the King Visual Companion](The_Lord_of_the_Rings%253A_The_Return_of_the_King_Visual_Companion.md)*

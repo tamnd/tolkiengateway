@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết cho con trai mình [Michael](../M/Michael_Tolkien.md) và cộng sự Joan, mô tả những thách thức khi bắt đầu học kỳ, điều mà ông cho là ký ức tồi tệ nhất do phải làm việc nhiều bên ngoài và sự phức tạp của việc tìm nhà. Anh kể về những đêm thức khuya, thường xuyên thức đến 2 giờ sáng và có lần đến 5 giờ sáng. Dù có vấn đề về sức khỏe nhưng anh vẫn cố gắng vượt qua.
+Tolkien viết cho con trai ông [Michael](../M/Michael_Tolkien.md) và người bạn đời Joan, mô tả những thách thức khi bắt đầu học kỳ mà ông cho là ký ức tồi tệ nhất do phải làm việc nhiều bên ngoài và sự phức tạp của việc tìm nhà. Anh kể về những đêm thức khuya, thường xuyên thức đến 2 giờ sáng và có lần đến 5 giờ sáng. Dù có vấn đề về sức khỏe nhưng anh vẫn cố gắng vượt qua.
 
 Ông hy vọng sẽ sớm xác nhận việc họ chuyển đến [76 Sandfield Road](../_/76_Sandfield_Road.md), gần [Dr. Havard](../R/Robert_Havard.md), dự định tổ chức vào mùa xuân, nhưng muốn giữ bí mật với <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Trường đại học</a> vào lúc này. <br>
 

@@ -18,7 +18,7 @@ langlinks:
     url: "https://kontu.wiki/Huomenkoi"
 ---
 
-**Morrowdim** là [The Shire](../T/The_Shire.md) tên của ánh hoàng hôn của bình minh, được [Yêu tinh](../E/Elves.md) gọi là [minuial](Minuial.md) hoặc [tindómë](../T/Tindómë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Morrowdim** là tên [The Shire](../T/The_Shire.md) của ánh bình minh chạng vạng, được [Tiên tộc](../E/Elves.md) gọi là [minuial](Minuial.md) hoặc [tindómë](../T/Tindómë.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

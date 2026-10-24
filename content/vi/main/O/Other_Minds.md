@@ -38,12 +38,12 @@ images:
 - [2007](../_/2007.md) - [*Other Minds* 1](Other_Minds_1.md)
 - [2008](../_/2008.md) - [*Other Minds* 2](Other_Minds_2.md) - Chủ đề trọng tâm: Númenor
 - [2008](../_/2008.md) - [*Other Minds* 3](Other_Minds_3.md)
-- [2008](../_/2008.md) - [*Other Minds* 4](Other_Minds_4.md) - Chủ đề trọng tâm: Người lùn
+- [2008](../_/2008.md) - [*Other Minds* 4](Other_Minds_4.md) - Chủ đề trọng tâm: Người Lùn
 - [2009](../_/2009.md) - [*Other Minds* 5](Other_Minds_5.md)
 - [2009](../_/2009.md) - [*Other Minds* 6](Other_Minds_6.md)
 - [2009](../_/2009.md) - [*Other Minds* 7](Other_Minds_7.md)
 - [2009](../_/2009.md) - [*Other Minds* 8](Other_Minds_8.md) - Chủ đề trọng tâm: Phép thuật
-- [2010](../_/2010.md) - [*Other Minds* 9](Other_Minds_9.md) - Chủ đề trọng tâm: Thời đại thứ tư
+- [2010](../_/2010.md) - [*Other Minds* 9](Other_Minds_9.md) - Chủ đề trọng tâm: Kỷ Đệ Tứ
 - [2010](../_/2010.md) - [*Other Minds* 10](Other_Minds_10.md)
 - [2011](../_/2011.md) - [*Other Minds* 11](Other_Minds_11.md)
 - [2011](../_/2011.md) - [*Other Minds* 12](Other_Minds_12.md)

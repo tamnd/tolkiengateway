@@ -35,15 +35,15 @@ infobox:
 
 [Naomi Mitchison](../N/Naomi_Mitchison.md) đã có một số câu hỏi về hai tập đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
-Tolkien bắt đầu bức thư bằng cách cảm ơn bà vì tất cả những bức thư của bà và xin lỗi vì đã không trả lời chúng. Ông nói rằng một số câu hỏi đã được trả lời trong *[The Silmarillion](../T/The_Silmarillion.md)*, nhưng vì nhà xuất bản không xuất bản cuốn sách nên ông cần viết phụ lục cho tập thứ ba để giải quyết một số vấn đề.
+Tolkien bắt đầu bức thư bằng việc cảm ơn bà về tất cả những bức thư và xin lỗi vì đã không trả lời chúng. Ông nói rằng một số câu hỏi đã được trả lời trong *[The Silmarillion](../T/The_Silmarillion.md)*, nhưng vì nhà xuất bản không xuất bản cuốn sách nên ông cần viết phụ lục cho tập thứ ba để giải quyết một số vấn đề.
 
-Tolkien giải thích rằng [Westron](../W/Westron.md) là Ngôn ngữ chung của [Thời đại thứ ba](../T/Third_Age.md) của [Trung địa](../M/Middle-earth.md) và những từ này đã được dịch sang tiếng Anh. Ông đã biến những hình thức nói liên quan đến phương Tây thành những hình thức nói liên quan đến tiếng Anh. Ông tuyên bố rằng đối với [ngôn ngữ](../R/Rohanese.md) của [Rohirrim](../R/Rohirrim.md) ông đã sử dụng phiên bản sửa đổi của [tiếng Anh cổ](../O/Old_English.md), trong khi [ngôn ngữ](Language_of_Dale.md) của [Dale](../D/Dale.md) và [Esgaroth](Lake-town.md) là [tiếng Scandinavi](../N/North_Germanic_languages.md) được sửa đổi.
+Tolkien giải thích rằng [Westron](../W/Westron.md) là Ngôn ngữ Chung của [Kỷ Đệ Tam](../T/Third_Age.md) của [Trung Địa](../M/Middle-earth.md) và những từ này đã được dịch sang tiếng Anh. Các dạng nói liên quan đến Westron ông đã chuyển sang các dạng nói liên quan đến tiếng Anh. Ông tuyên bố rằng đối với [ngôn ngữ](../R/Rohanese.md) của [Rohirrim](../R/Rohirrim.md) ông đã sử dụng phiên bản sửa đổi của [tiếng Anh cổ](../O/Old_English.md), trong khi [ngôn ngữ](Language_of_Dale.md) của [Dale](../D/Dale.md) và [Esgaroth](Lake-town.md) là [Scandinavian](../N/North_Germanic_languages.md) được sửa đổi.
 
-Hơn nữa, Tolkien đã mô tả các ngôn ngữ Yêu tinh của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*: [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md). Quenya được lấy cảm hứng về mặt ngữ pháp từ tiếng Latin, tiếng Phần Lan và tiếng Hy Lạp. Tiếng Sindarin có đặc điểm ngôn ngữ tương tự như tiếng Anh-xứ Wales.
+Hơn nữa, Tolkien đã mô tả ngôn ngữ Tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*: [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md). Quenya được lấy cảm hứng về mặt ngữ pháp từ tiếng Latin, tiếng Phần Lan và tiếng Hy Lạp. Sindarin có đặc điểm ngôn ngữ tương tự như tiếng Anh-tiếng Wales.
 
-Tolkien cũng giải thích rằng [Quendi](../Q/Quendi.md) có ngoại hình tương tự như Đàn ông với khả năng thẩm mỹ và sáng tạo được nâng cao đáng kể, vẻ đẹp đẹp hơn và tuổi thọ cao hơn. Có hai loại Quendi: [Eldar](../E/Eldar.md) nghe thấy lời triệu tập để thực hiện [Great Journey](../G/Great_Journey.md) và Lesser Elves không trả lời. Bản thân Eldar cũng chia thành hai loại khác nhau: [Noldor](../N/Noldor.md) hay Yêu tinh cao cấp và [Sindar](../S/Sindar.md) hay Yêu tinh xám. Người Noldor vào thời điểm *The Lord of the Rings* là những người lưu vong.
+Tolkien cũng giải thích rằng [Quendi](../Q/Quendi.md) có hình dáng tương tự Con Người với khả năng thẩm mỹ và sáng tạo được nâng cao đáng kể, vẻ đẹp cao hơn và tuổi thọ cao hơn. Có hai loại Quendi: [Eldar](../E/Eldar.md) đã nghe lệnh triệu tập [Đại Hành Trình](../G/Great_Journey.md) và Tiên tộc cấp dưới không trả lời. Bản thân Eldar đã phân nhánh thành hai loại khác nhau: [Noldor](../N/Noldor.md) hoặc High Elves và [Sindar](../S/Sindar.md) hoặc Grey-Tiên tộc. Noldor tại thời điểm *The Lord of the Rings* là những người lưu vong.
 
-Trong bức thư đó, Tolkien cũng thảo luận ngắn gọn về 'nỗi sợ hãi' của mình rằng [Entives](../E/Entwives.md) trên thực tế có thể đã bị [Sauron](../S/Sauron.md) tiêu diệt.
+Trong bức thư đó, Tolkien cũng thảo luận ngắn gọn về 'nỗi lo sợ' của anh rằng [Entwives](../E/Entwives.md) trên thực tế có thể đã bị [Sauron](../S/Sauron.md) phá hủy.
 
 ## Ghi chú {#Notes}
 

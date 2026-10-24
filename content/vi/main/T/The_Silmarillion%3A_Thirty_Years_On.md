@@ -56,8 +56,8 @@ infobox:
 
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Allan_Turner&amp;action=edit&amp;redlink=1" title="Allan Turner (page does not exist)">Allan Turner</a> — "Lời nói đầu"
 - [Rhona Beare](../R/Rhona_Beare.md) — "Thần thoại cho nước Anh"
-- [Michael Drout](../M/Michael_Drout.md) — "Suy ngẫm về ba mươi năm đọc sách *The Silmarillion*"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Anna_Slack&amp;action=edit&amp;redlink=1" title="Anna Slack (page does not exist)">Anna Slack</a> — "Di chuyển Mandos: Động lực của sự sáng tạo phụ trong 'Của Beren và Luthien'"
+- [Michael Drout](../M/Michael_Drout.md) — "Suy ngẫm về Ba mươi năm đọc sách *The Silmarillion*"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Anna_Slack&amp;action=edit&amp;redlink=1" title="Anna Slack (page does not exist)">Anna Slack</a> — "Di chuyển Mandos: Động lực của sự sáng tạo con trong 'Của Beren và Luthien'"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Michael_Devaux&amp;action=edit&amp;redlink=1" title="Michael Devaux (page does not exist)">Michael Devaux</a> — "Nguồn gốc của *Ainulindalë*: Hiện trạng nghiên cứu"
 - [Jason Fisher](../J/Jason_Fisher.md) — "Từ thần thoại đến thần thoại: Tolkien, Lonnrot và Jerome"
 - [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md) — "Quan điểm, khán giả và văn bản bị thất lạc trong *The Silmarillion*"

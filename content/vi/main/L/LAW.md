@@ -12,23 +12,23 @@ categories:
   - "Roots"
 ---
 
-**LAW** (cũng xuất hiện ở dạng mở rộng **LAWAR**) là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị màu vàng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**LAW** (cũng xuất hiện ở dạng mở rộng **LAWAR**) là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị màu vàng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Common Eldarin](../C/Common_Eldarin.md): *lawā* ("growing, blooming...used for a sun-year")
-    - [Quenya](../Q/Quenya.md): *löa* ("growing, blooming...used for a sun-year")
+- [Common Eldarin](../C/Common_Eldarin.md): *lawā* ("sinh trưởng, nở hoa...dùng cho năm nắng")
+    - [Quenya](../Q/Quenya.md): *löa* ("đang lớn, nở hoa...dùng cho năm nắng")
 
-- [tiếng Sindarin](../S/Sindarin.md): *glaw-* ("nắng")
+- [Sindarin](../S/Sindarin.md): *glaw-* ("nắng")
 
-- [Quenya](../Q/Quenya.md): *löar*, *lávar* ("(golden) blossom"); *[laure](Laurë.md)* ("màu vàng của nắng hay hoa vàng")
-- [Tiếng Sindarin](../S/Sindarin.md): *glawar*, *glaur-*
+- [Quenya](../Q/Quenya.md): *löar*, *lávar* ("(vàng) nở hoa"); *[laure](Laurë.md)* ("màu vàng của nắng hay hoa vàng")
+- [Sindarin](../S/Sindarin.md): *glawar*, *glaur-*
 
 ## Phiên bản khác {#Other_versions}
 
 Trong *Qenya Lexicon* xuất hiện từ gốc LAURE ("vàng") và LAWA ("có sự sống...nhưng dùng làm rau").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện các gốc LÁWAR- ([Noldorin](../N/Noldorin.md) biến thể: GLÁWAR-), từ đó bắt nguồn từ Quendian Nguyên thủy \**laurē* ("(ánh sáng của Cây vàng *[Laurelin](Laurelin.md)*) vàng \[màu sắc, xem [SMAL](../S/SMAL.md)\]".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong *[Etymologies](../T/The_Etymologies.md)* xuất hiện các gốc LÁWAR- ([Noldorin](../N/Noldorin.md) biến thể: GLÁWAR-), từ đó bắt nguồn từ Primitive Quendian \**laurē* ("(ánh sáng của Cây vàng *[Laurelin](Laurelin.md)*) vàng \[màu sắc, cf. [SMAL](../S/SMAL.md)\]".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Waterfall</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Falls of Sirion</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../A/Aelin-uial.md" title="Aelin-uial">Aelin-uial</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Waterfall</td></tr><tr><th scope="row" class="tg-infobox-label">Description</th><td class="tg-infobox-data">Waterfall of the River <a href="../S/Sirion.md" title="Sirion">Sirion</a></td></tr></tbody></table>
 
-**Thác Sirion** là thác sấm sét hùng vĩ của Sông [Sirion](../S/Sirion.md). Được hình thành ở điểm cực nam của [Aelin-uial](../A/Aelin-uial.md), phần đáy của nó thoát nước để chảy dưới những ngọn đồi của [Andram](../A/Andram.md) trong ba giải đấu trước khi nổi lên trở lại tại [Cổng Sirion](../G/Gates_of_Sirion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Thác Sirion** là thác sấm sét hùng vĩ của Sông [Sirion](../S/Sirion.md). Được hình thành ở cực nam của [Aelin-uial](../A/Aelin-uial.md), phần đáy của nó thoát nước để chảy dưới những ngọn đồi của [Andram](../A/Andram.md) trong ba giải đấu trước khi nổi lên trở lại tại [Cổng Sirion](../G/Gates_of_Sirion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

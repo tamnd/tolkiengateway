@@ -15,15 +15,15 @@ sort_keys:
   "Parma Nölé": "Parma Nole 13-14"
 ---
 
-<b><i>Parma Nölé</i> 13-14</b> là số thứ mười ba/mười bốn do [Hiệp hội Tolkien Đông Bắc xuất bản](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, phát hành vào Mùa hè năm 2005 dưới dạng số kép.
+<b><i>Parma Nölé</i> 13-14</b> là số thứ mười ba/mười bốn do [North phương Đông Tolkien Society](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)* xuất bản, phát hành vào Mùa hè năm 2005 dưới dạng số kép.
 
 ## Nội dung {#Contents}
 
 - Thư của Biên tập viên
 - Melissa S. Gibson: "Ngôn ngữ & Văn học, Sự tán tỉnh của Valinor và Iceland"
-- [Mark T. Hooker](../M/Mark_T._Hooker.md): "Frodo Quartermain"
+- [Mark T. Hooker](../M/Mark_T._Hooker.md): "Frodo Quý chính"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deborah_Singer&amp;action=edit&amp;redlink=1" title="Deborah Singer (page does not exist)">Deborah Singer</a>: "Phỏng vấn ban nhạc [Hobbit](<../H/Hobbit_(band).md>)"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deborah_Singer&amp;action=edit&amp;redlink=1" title="Deborah Singer (page does not exist)">Ca sĩ Deborah</a>: "Ký ức về Marquette"
-- Namiko Hitosubashi: "Quý cô Rohan"
-- Kristyna Lavicka: "Làm thế nào để tiếp tục"
+- Namiko Hitosubashi: "Quý cô của Rohan"
+- Kristyna Lavicka: "Tiếp tục thế nào"
 - Aravis: "Khám phá Rammoth"

@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Broken_Scythe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/97/The_Broken_Scythe.jpg/320px-The_Broken_Scythe.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/97/The_Broken_Scythe.jpg/480px-The_Broken_Scythe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/97/The_Broken_Scythe.jpg/640px-The_Broken_Scythe.jpg 2x" data-file-width="907" data-file-height="1360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Foreword by</th><td class="tg-infobox-data"><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Roberto Arduini and Claudio A. Testi</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/9_June.md" title="9 June">9 June</a> <a href="../_/2012.md" title="2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">256</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-26-9" title="Special:BookSources/978-3-905703-26-9">978-3-905703-26-9</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../W/Wagner_and_Tolkien.md" title="Wagner and Tolkien">Wagner and Tolkien: Mythmakers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../S/Sub-creating_Middle-earth.md" title="Sub-creating Middle-earth">Sub-creating Middle-earth</a></td></tr></tbody></table>
 
-<i><b>The Broken Scythe: Death and Immortality in the Works of J.R.R. Tolkien</b></i> là tập hợp các bài tiểu luận về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 26 trong [Sê-ri Cormarë](../C/Cormarë_Series.md).
+<i><b>Lưỡi hái gãy: Cái chết và sự bất tử trong tác phẩm của J.R.R. Tolkien</b></i> là tập hợp các bài tiểu luận về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 26 trong [Sê-ri Cormarë](../C/Cormarë_Series.md).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -54,15 +54,15 @@ infobox:
 ## Nội dung {#Contents}
 
 - Lời nói đầu
-    - của [Verlyn Flieger](../V/Verlyn_Flieger.md)
+    - bởi [Verlyn Flieger](../V/Verlyn_Flieger.md)
 
 - Giới thiệu
     - của Roberto Arduini & Claudio A. Testi
 
-- "Bài điếu văn về sự hữu hạn: Nhân chủng học, Mạt thế học và Triết học Lịch sử ở Tolkien"
+- "Bài điếu văn về tính hữu hạn: Nhân chủng học, Mạt thế học và Triết học Lịch sử trong Tolkien"
     - bởi Franco Manni
 
-- "Truyền thuyết của Tolkien như một xác chết thiền định"
+- "Tolkien's Legendarium như một xác chết thiền định"
     - bởi Claudio A. Testi
 
 - "Tolkien, Cái chết và thời gian: Câu chuyện cổ tích trong bức tranh"
@@ -74,16 +74,16 @@ infobox:
 - "Con đường sai lầm của người sáng tạo phụ: Từ sa ngã vào máy móc và thoát khỏi cái chết"
     - bởi Alberto Ladavas
 
-- "'In the Mounds of Mundburg': Cái chết, chiến tranh và ký ức ở Trung Địa"
+- "'Trong gò đất Mundburg': Cái chết, chiến tranh và ký ức ở Trung Địa"
     - bởi Simone Bonechi
 
 - "Cái chết, sự bất tử và những lối thoát: Ký ức và sự trường thọ"
     - bởi Andrea Monda
 
-- "Logic và thần học trong thần học của Tolkien"
+- "Logic và Thần học trong Thần học của Tolkien"
     - bởi Claudio A. Testi
 
-- "Một sự ghen tị không đúng chỗ: Sự tương đồng và khác biệt giữa Yêu tinh và Con người về ý tưởng về nỗi đau"
+- "Một sự ghen tị không đúng chỗ: Sự tương đồng và khác biệt giữa Tiên tộc và Con Người về ý tưởng về nỗi đau"
 - bởi Giampaolo Canzonieri
 
 ## Liên kết ngoài {#External_links}

@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "ndil"
 ---
 
-<i><b>-ndil, -nil, -dil</b></i> là hậu tố [Quenya](../Q/Quenya.md) được thêm vào tên để biểu thị tình bạn, tình yêu hoặc sự tận tâm đối với một đối tượng, ý tưởng, nhóm, khóa học, nghề nghiệp hoặc tinh thần ([Ainur](../A/Ainur.md)) mà một người cống hiến vì chính nó<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>-ndil, -nil, -dil</b></i> là hậu tố [Quenya](../Q/Quenya.md) được thêm vào tên để biểu thị tình bạn, tình yêu hoặc sự tận tâm đối với một đối tượng, ý tưởng, nhóm, đường lối, nghề nghiệp hoặc tinh thần ([Ainur](../A/Ainur.md)) mà một người cống hiến vì lợi ích riêng của mình<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -28,7 +28,7 @@ Từ dạng dài hơn -(n)dildo,<sup id="cite_ref-2" class="reference"><a href="
 - [Amandil](../T/Tar-Amandil.md) = "Bạn của [Aman](../A/Aman.md)"
 - [Ornendil](../O/Ornendil.md) = "Người bạn của [Cây](../T/Trees.md)"
 - [Valandil](<../V/Valandil_(Lord_of_Andúnië).md>) = "Cống hiến cho [Valar](../V/Valar.md)"
-- [Elendil](../E/Elendil.md) = "Người bạn của các vì sao", còn được hiểu là "[Người bạn yêu tinh](../E/Elf-friend.md)"
+- [Elendil](../E/Elendil.md) = "Người bạn của các vì sao", còn được hiểu là "[Bạn của Tiên tộc](../E/Elf-friend.md)"
 - \*[Vardilmë](../V/Vardilmë.md) = Có thể là dạng nữ, nghĩa là "Bạn của [Varda](../V/Varda.md)"
 - <a class="mw-redirect mw-disambig" href="../A/Aulendil.md" title="Aulendil">Aulendil</a> = "Bạn của [Aulë](../A/Aulë.md)"
 - Nó cũng xuất hiện trong [Sindarin](../S/Sindarin.md) *[Edennil](../E/Edennil.md)* (adan) và *[Enerdhil](../E/Enerdhil.md)* (anar)

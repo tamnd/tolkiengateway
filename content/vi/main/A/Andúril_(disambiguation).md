@@ -16,15 +16,15 @@ images:
   - "Disambig.png"
 ---
 
-**Andúril** có thể đề cập đến:
+**Andúril** có thể tham khảo:
 
 ## [Arda](Arda.md) {#Arda}
 
-- **[Andúril](Andúril.md)**, tên thanh kiếm của [Aragorn](Aragorn.md), thanh Narsil được rèn lại
+- **[Andúril](Andúril.md)**, tên thanh kiếm của [Aragorn](Aragorn.md), Narsil được rèn lại
 
 ## [Thế giới thực](../../category/R/Real-world.md) {#Real-world}
 
-- *[Andúril](<Andúril_(UK).md>)*, một ấn phẩm của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)
+- *[Andúril](<Andúril_(UK).md>)*, ấn phẩm của [Hội Tolkien](../T/The_Tolkien_Society.md)
 - *[Anduril](<Anduril_(USA).md>)*, một ấn phẩm được biên tập bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Paul_Zimmer&amp;action=edit&amp;redlink=1" title="Paul Zimmer (page does not exist)">Paul Zimmer</a>, [Marion Zimmer Bradley](../M/Marion_Zimmer_Bradley.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Bradley&amp;action=edit&amp;redlink=1" title="David Bradley (page does not exist)">David Bradley</a>
 
 ## Các bản chuyển thể {#Adaptations}

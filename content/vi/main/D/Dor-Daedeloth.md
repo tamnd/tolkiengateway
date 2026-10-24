@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dor Daedeloth"
 ---
 
-Chuyển hướng tới [Dor Daedeloth](Dor_Daedeloth.md).
+Chuyển hướng đến [Dor Daedeloth](Dor_Daedeloth.md).

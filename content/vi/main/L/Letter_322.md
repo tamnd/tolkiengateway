@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với William Cater rằng công việc của ông trên *[The Silmarillion](../T/The_Silmarillion.md)* tiến triển tốt hơn trước và ông có thể gửi [Allen & Unwin](../A/Allen_and_Unwin.md) một phần vào cuối năm đó.
+Tolkien nói với William Cater rằng công việc của ông trên *[The Silmarillion](../T/The_Silmarillion.md)* tiến triển tốt hơn trước và ông có thể gửi [Allen &amp; Unwin](../A/Allen_and_Unwin.md) một bộ phận vào cuối năm đó.
 
 <br>
 

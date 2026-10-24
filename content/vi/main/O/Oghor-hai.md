@@ -26,7 +26,7 @@ langlinks:
     url: "https://kontu.wiki/Oghor-hai"
 ---
 
-**Oghor-hai** là tên được [Orc](Orcs.md) sử dụng để mô tả chủng tộc [Đàn ông](../M/Men.md) còn được gọi là [Drúedain](../D/Drúedain.md) hoặc [Woses](../W/Woses.md). Họ được loài Orc tin rằng sở hữu [sức mạnh ma thuật](../M/Magic.md), và do đó họ vô cùng sợ hãi Oghor-hai.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Oghor-hai** là tên được [Orc](Orcs.md) sử dụng để mô tả chủng tộc [Con Người](../M/Men.md) hay còn gọi là [Drúedain](../D/Drúedain.md) hoặc [Woses](../W/Woses.md). Họ được Orc tin rằng sở hữu [sức mạnh ma thuật](../M/Magic.md), và do đó họ vô cùng sợ hãi Oghor-hai.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

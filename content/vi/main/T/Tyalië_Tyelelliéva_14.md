@@ -33,7 +33,7 @@ infobox:
 ## Nội dung {#Contents}
 
 - Biên tập, Sự kiện thiên thể
-- Shadow Falls ở Munich của [Helge Fauskanger](../H/Helge_Fauskanger.md), (báo cáo về nhật thực)
+- Bóng Tối Rơi xuống Munich [Helge Fauskanger](../H/Helge_Fauskanger.md), (báo cáo về nhật thực)
 - Thông báo người đoạt giải thơ, Báo cáo hội nghị, Tin tức phim LotR
 - Goblin Graffiti của Tiến sĩ [Rhona Beare](../R/Rhona_Beare.md), (báo cáo về nguồn gốc bảng chữ cái yêu tinh của Tolkien)
 - Aerlinn Tella nDagor của Alessio, (một bài thơ Quenya)
@@ -41,16 +41,16 @@ infobox:
 - Cyerme Nienna Tarinna của Arandil Elenion, (một bài thơ Quenya)
 - Rantar của Arandil Elenion, (một bài thơ Quenya)
 - Oma Vaiyeva (Macalaure) của Arandil Elenion, (một bài thơ Quenya)
-- Tennath i Dur-Gyrf của Galadorn Elvellon (hay còn gọi là Richard Derdzinski), (Bài thơ Chiếc nhẫn bằng tiếng Sindarin trong tengwar, có lời bình)
-- A Adarem của Galadorn Elvellon (hay còn gọi là Ryszard Derdziński), (Lời cầu nguyện của Chúa bằng tiếng Sindarin trong tengwar, có bình luận)
+- Tennath i Dur-Gyrf của Galadorn Elvellon (hay còn gọi là Richard Derdzinski), (Bài thơ Chiếc nhẫn trong Sindarin ở tengwar, có lời bình)
+- A Adarem của Galadorn Elvellon (hay còn gọi là Ryszard Derdziński), (Lời cầu nguyện của Chúa trong Sindarin ở tengwar, có bình luận)
 - Adanion ah Elleth của Philip Jonsson, tác phẩm nghệ thuật
 - Câu Merin do Michael Dawson cung cấp, phân tích của Lisa Star
-- Phương pháp nông nghiệp ở Hobbiton của Lisa Star, (nghiên cứu kỹ thuật)
-- Phông chữ Cirth của Dan Smith được đánh giá bởi Derek Ferguson
-- Bài đánh giá về Qenya Lexicon của Helge Fauskanger
-- "She" and the Ruins of Kor, của Lisa Star, (bài viết về ảnh hưởng của Haggard đối với Tolkien)
+- Phương pháp nông nghiệp trong Hobbiton của Lisa Star, (nghiên cứu kỹ thuật)
+- Phông chữ Cirth của Dan Smith được Derek Ferguson đánh giá
+- Qenya Đánh giá từ vựng của Helge Fauskanger
+- "Bà" và tàn tích Kor, của Lisa Star, (bài viết về ảnh hưởng của Haggard đối với Tolkien)
 - Por Los Hispanohablantes por Josu Gomez, ấn phẩm tiếng Tây Ban Nha
-- Các đánh giá và báo cáo khác (thư pháp, tem và trò chơi)
-- Bài tập về nhà ở Bas de l'Afrique, luyện tập với các câu và câu hỏi của người Quenya (văn bản của Lisa Star)
+- Đánh giá và báo cáo khác (thư pháp, tem và trò chơi)
+- Bài tập về nhà ở Bas de l'Afrique, luyện tập với Quenya câu và câu nghi vấn (văn bản của Lisa Star)
 
 <center><a href="Tyalië_Tyelelliéva_13.md" title="Tyalië Tyelelliéva 13">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_15.md" title="Tyalië Tyelelliéva 15">Next Issue</a></center>

@@ -14,7 +14,7 @@ sort_keys:
   "Letters": "Shaw, Roger"
 ---
 
-Vào [7 tháng 1](../_/7_January.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Roger Shaw**.
+Vào [ngày 7 tháng 1](../_/7_January.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Roger Shaw**.
 
 - **Nội dung:** Tolkien trả lời gợi ý rằng phong cảnh của *The Lord of the Rings* là của Iceland.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - **Mô tả:** Đánh máy, 1 trang, 8vo, Oxford

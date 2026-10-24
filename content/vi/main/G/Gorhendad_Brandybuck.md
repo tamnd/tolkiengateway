@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gorhendad Oldbuck"
 ---
 
-Chuyển hướng đến [Gorendad Oldbuck](Gorhendad_Oldbuck.md).
+Chuyển hướng đến [Gorhendad Oldbuck](Gorhendad_Oldbuck.md).

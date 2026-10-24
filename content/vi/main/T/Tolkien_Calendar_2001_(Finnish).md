@@ -13,4 +13,4 @@ categories:
   - "Calendars (real-world)"
 ---
 
-Lịch Tolkien được [Hiệp hội Tolkien Phần Lan](../F/Finnish_Tolkien_Society.md) xuất bản vào năm 2001. Lịch này có hình minh họa bằng bút và mực của nhiều nghệ sĩ khác nhau. Không có chi tiết nào khác được biết.
+Lịch Tolkien được [Hiệp hội Tolkien Phần Lan](../F/Finnish_Tolkien_Society.md) xuất bản vào năm 2001, có các hình minh họa bằng bút và mực của nhiều nghệ sĩ khác nhau. Không có chi tiết nào khác được biết.

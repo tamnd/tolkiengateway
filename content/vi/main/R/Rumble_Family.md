@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-[Tolkien](../J/J.R.R._Tolkien.md) đề cập rằng "rumble" không phải là một từ có ý nghĩa trong [Hobbitish](../H/Hobbitish.md) của thời đại đó.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup> <span></span>
+[Tolkien](../J/J.R.R._Tolkien.md) đề cập rằng "rumble" không phải là một từ có ý nghĩa trong [Hobbitish](../H/Hobbitish.md) thời đại đó.<sup id="cite_ref-Nomen_2-0" class="reference"><a href="#cite_note-Nomen-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

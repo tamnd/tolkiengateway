@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin nouns": "Cul"
 ---
 
-<i><b>cûl</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "tải".<sup id="cite_ref-N_1-0" class="reference"><a href="#cite_note-N-1">[1]</a></sup>
+<i><b>cûl</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "tải".<sup id="cite_ref-N_1-0" class="reference"><a href="#cite_note-N-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

@@ -12,9 +12,9 @@ categories:
   - "Elven titles"
 ---
 
-**Chúa tể Nargothrond** là tước hiệu của người cai trị [Nargothrond](../N/Nargothrond.md), tên khác của [Vua Nargothrond](../K/King_of_Nargothrond.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Chúa tể Nargothrond** là tước hiệu của người cai trị [Nargothrond](../N/Nargothrond.md), tên khác của [Vua của Nargothrond](../K/King_of_Nargothrond.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Lưu ý rằng các quý tộc nhỏ khác cũng được gọi là "chúa tể của Nargothrond": [Guilin](../G/Guilin.md) và/hoặc các con trai của ông, [Gelmir](<../G/Gelmir_(son_of_Guilin).md>) và [Gwindor](../G/Gwindor.md) cũng được nhắc đến như vậy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Lưu ý rằng các tiểu quý tộc khác cũng được gọi là "chúa tể của Nargothrond": [Quế Lâm](../G/Guilin.md) và/hoặc các con trai của ông, [Gelmir](<../G/Gelmir_(son_of_Guilin).md>) và [Gwindor](../G/Gwindor.md) cũng được nhắc đến như vậy.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -20,7 +20,7 @@ langlinks:
     url: "https://kontu.wiki/Bur%C3%A1rum"
 ---
 
-<i><b>burárum</b></i> là một âm thanh hoặc từ [Entish](../E/Entish.md) do [Treebeard](../T/Treebeard.md) phát ra khi ông ấy nói về [Orc](../O/Orcs.md). Từ này được mô tả là "âm thanh ầm ầm trầm trầm giống như sự bất hòa trên một cây đàn organ lớn", biểu thị sự ghê tởm của Treebeard khi nghĩ đến những sinh vật này. Nó được gọi là "tiếng ồn ghê tởm của Entish".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>burárum</b></i> là một âm thanh hoặc từ [Entish](../E/Entish.md) do [Treebeard](../T/Treebeard.md) phát ra khi ông nói về [Orc](../O/Orcs.md). Từ này được mô tả là "âm thanh ầm ầm trầm trầm giống như sự bất hòa trên một cây đàn organ lớn", biểu thị sự ghê tởm của Treebeard khi nghĩ đến những sinh vật này. Nó được gọi là "tiếng ồn ghê tởm của Entish".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

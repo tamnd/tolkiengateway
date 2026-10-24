@@ -39,7 +39,7 @@ Trong bản thảo của *[A Conspiracy Unmasked](../A/A_Conspiracy_Unmasked.md)
 
 Tên này có nghĩa là "Đào đá", từ [tiếng Anh cổ](../O/Old_English.md) *stán* "đá" và *delf* "đào hoặc đào hang".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[David Salo](../D/David_Salo.md) gợi ý dạng "Hobbitish cổ" của tên này là *Stangedelf*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[David Salo](../D/David_Salo.md) gợi ý dạng "Cũ Hobbitish" của tên là *Stangedelf*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

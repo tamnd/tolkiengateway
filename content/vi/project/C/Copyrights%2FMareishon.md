@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Mareishon"
 ---
 
-- Mareishon đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Mareishon.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
-- Ngày: 14 tháng 9 năm 2012
+- Mareishon đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Mareishon.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ngày: 14 tháng Chín năm 2012
 - Người dùng đã xin phép qua DeviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

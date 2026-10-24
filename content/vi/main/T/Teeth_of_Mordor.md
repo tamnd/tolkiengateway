@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Towers of the Teeth"
 ---
 
-Chuyển hướng tới [Tháp Răng](Towers_of_the_Teeth.md).
+Chuyển hướng đến [Tháp Răng](Towers_of_the_Teeth.md).

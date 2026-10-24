@@ -15,11 +15,11 @@ sort_keys:
   "Noldorin nouns": "Rhi"
 ---
 
-<i><b>rhî</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "vương miện".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>rhî</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "vương miện".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Noldorin *rhî* là dạng hậu duệ của [Noldorin cũ](../K/Kornoldorin.md) *ríge*, bắt nguồn từ gốc [RIG](RIG.md#Other_versions).<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+Noldorin *rhî* là dạng con của [Old Noldorin](../K/Kornoldorin.md) *ríge*, xuất phát từ gốc [RIG](RIG.md#Other_versions).<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
@@ -28,7 +28,7 @@ Noldorin *rhî* là dạng hậu duệ của [Noldorin cũ](../K/Kornoldorin.md)
 
 ## Xem thêm {#See_also}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[rî](Rî.md)*
+- [Sindarin](../S/Sindarin.md) *[rî](Rî.md)*
 - [Quenya](../Q/Quenya.md)/[Telerin](../T/Telerin.md) *[ría](Ría.md)*
 
 <span></span>

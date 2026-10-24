@@ -14,7 +14,7 @@ categories:
   - "Telerin adjectives"
 ---
 
-**paianya** là từ [Telerin](../T/Telerin.md) cho "thứ mười"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**paianya** là từ [Telerin](../T/Telerin.md) chỉ "thứ mười"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

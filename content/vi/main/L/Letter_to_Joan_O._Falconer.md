@@ -16,7 +16,7 @@ sort_keys:
 
 Vào [24 tháng 1](../_/24_January.md) [1965](../_/1965.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Joan O. Falconer**.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
-- **Nội dung:** Trả lời thư của Falconer ngày [ngày 17 tháng 1](../_/17_January.md), Tolkien thảo luận về nhân vật của [Sam Gamgee](../S/Samwise_Gamgee.md) trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup><sup id="cite_ref-TB_2-0" class="reference"><a href="#cite_note-TB-2">[2]</a></sup>
+- **Nội dung:** Trả lời thư của Falconer ngày [ngày 17 tháng 1](../_/17_January.md), Tolkien bàn về nhân vật của [Sam Gamgee](../S/Samwise_Gamgee.md) trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup><sup id="cite_ref-TB_2-0" class="reference"><a href="#cite_note-TB-2">[2]</a></sup>
 - **Xuất bản:** Các đoạn trích đã được xuất bản trong [*Mythprint* (Tập 8, Số 3)](<../M/Mythprint_(Vol.8,_No.3).md>) và trong *[Tolkien and The Silmarillion](../T/Tolkien_and_The_Silmarillion.md)*.<sup id="cite_ref-TB_2-1" class="reference"><a href="#cite_note-TB-2">[2]</a></sup>
 - **Lưu trữ:** Bức thư được lưu giữ tại Thư viện Tưởng niệm Raynor tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 

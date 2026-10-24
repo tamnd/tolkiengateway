@@ -24,9 +24,9 @@ langlinks:
     url: "https://kontu.wiki/Ernil_i_Pheriannath"
 ---
 
-**Ernil i Pheriannath** ("Hoàng tử của loài Halflings") là danh hiệu do người dân của [Minas Tirith](../M/Minas_Tirith.md) trao cho [Peregrin "Pippin" Took](../P/Peregrin_Took.md). Có tin đồn rằng Pippin sẽ trung thành với Gondor và 5.000 [Halflings](../H/Halflings.md) để [bảo vệ thành phố](../S/Siege_of_Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ernil i Pheriannath** ("Thân vương của Halflings") là danh hiệu được người dân [Minas Tirith](../M/Minas_Tirith.md) trao cho [Peregrin "Pippin" Took](../P/Peregrin_Took.md). Có tin đồn rằng Pippin sẽ trung thành với Gondor và 5.000 [Halflings](../H/Halflings.md) để [bảo vệ thành phố](../S/Siege_of_Gondor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Mặc dù [Người Gondorian](../G/Gondorians.md) chưa bao giờ tiếp xúc với [Người Hobbit](../H/Hobbits.md) trước [Chiến tranh Chiếc nhẫn](../W/War_of_the_Ring.md), nhưng họ biết về "[Halflings](../H/Halflings.md)" từ những người anh em họ phía bắc của họ, [Dúnedain xứ Arnor](../D/Dúnedain_of_Arnor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tin đồn rằng Pippin là "Hoàng tử" của họ, có lẽ đã dấy lên bởi sự đặc biệt của Phương ngữ [Hobbitish](../H/Hobbitish.md) do Pippin nói, giúp anh có thể nói bằng một hình thức quen thuộc với bất kỳ ai, kể cả [Denethor](../D/Denethor.md), bất kể cấp bậc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
+Mặc dù [người Gondor](../G/Gondorians.md) chưa bao giờ tương tác với [Hobbit](../H/Hobbits.md) trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), nhưng họ biết về "[Halflings](../H/Halflings.md)" từ những người anh em họ phía bắc của họ, [Dúnedain của Arnor](../D/Dúnedain_of_Arnor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tin đồn rằng Pippin là "Thân vương" của họ, có lẽ đã dấy lên bởi đặc thù của phương ngữ [Hobbitish](../H/Hobbitish.md) được nói bởi Pippin, cho phép ông ta nói chuyện bằng một hình thức quen thuộc với bất kỳ ai, kể cả [Denethor](../D/Denethor.md), bất kể cấp bậc.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

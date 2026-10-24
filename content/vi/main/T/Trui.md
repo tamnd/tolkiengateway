@@ -15,13 +15,13 @@ categories:
   - "Locations in The Book of Lost Tales"
 ---
 
-**Trui** là thành phố của [Con người](../M/Men.md) ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Nó được xác định là thành phố <a class="extiw" href="http://en.wikipedia.org/wiki/Troy" title="wikipedia:Troy">Troy</a>.<sup id="cite_ref-Tro_1-0" class="reference"><a href="#cite_note-Tro-1">[1]</a></sup>
+**Trui** là một thành phố của [Con Người](../M/Men.md) ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*. Nó được xác định là thành phố <a class="extiw" href="http://en.wikipedia.org/wiki/Troy" title="wikipedia:Troy">Troy</a>.<sup id="cite_ref-Tro_1-0" class="reference"><a href="#cite_note-Tro-1">[1]</a></sup>
 
 Thành phố này đã được nhắc đến trong câu chuyện *[the Fall of Gondolin](<The_Fall_of_Gondolin_(chapter).md>)* của [Littleheart](../L/Littleheart.md), trong đó ông đã so sánh [sự sụp đổ](../F/Fall_of_Gondolin.md) của nó thậm chí còn tệ hơn cả Trui.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Trui* có trong [Gnomish](../G/Gnomish.md), theo [Paul Strack](../P/Paul_Strack.md), nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, nó có thể là sự bắt chước âm vị học của *Troy*.
+Tên *Trui* có trong [Gnomish](../G/Gnomish.md), theo [Paul Strack](../P/Paul_Strack.md), nhưng ý nghĩa của nó không rõ ràng.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tuy nhiên, nó có thể là sự bắt chước âm vị của *Troy*.
 
 <span></span>
 

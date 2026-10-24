@@ -22,19 +22,19 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Matěj_Čadil_-_Reading_Tolkien.jpg.md"><img alt="Reading Tolkien" src="https://tolkiengateway.net/w/images/thumb/7/7b/Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg/300px-Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg" decoding="async" loading="lazy" width="300" height="392" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7b/Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg/450px-Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7b/Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg/600px-Mat%C4%9Bj_%C4%8Cadil_-_Reading_Tolkien.jpg 2x" data-file-width="1080" data-file-height="1412"/></a><figcaption>Reading Tolkien – an illustration for the Tolkien Reading Day by <a href="../M/Matěj_Čadil.md" title="Matěj Čadil">Matěj Čadil</a></figcaption></figure>
 
-**Ngày đọc sách Tolkien** là một sự kiện thường niên được tổ chức vào [25 tháng 3](../_/25_March.md) để tôn vinh và quảng bá các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được thành lập bởi [Hiệp hội Tolkien](The_Tolkien_Society.md).<sup id="cite_ref-TS1_1-0" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup>
+**Tolkien Ngày đọc sách** là một sự kiện thường niên được tổ chức vào [25 tháng 3](../_/25_March.md) để tôn vinh và quảng bá các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được thành lập bởi [Hội Tolkien](The_Tolkien_Society.md).<sup id="cite_ref-TS1_1-0" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Vào cuối [2002](../_/2002.md), nhà báo Sean Kirst đã liên hệ với [Hiệp hội Tolkien](The_Tolkien_Society.md) để hỏi "có ngày nào được dành một cách không chính thức để đọc từ bộ ba phim, giống như cách 'Ngày nở hoa' dành cho Joyce không?"<sup id="cite_ref-TS1_1-1" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup> Mặc dù Kirst đã xuất bản bài báo trên *The Post-Standard* của Syracuse,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Ủy ban của Hiệp hội Tolkien](The_Tolkien_Society.md) thích ý tưởng này đến mức họ đã thông báo rằng [25 tháng 3](../_/25_March.md) [2003](../_/2003.md) sẽ là "Ngày đọc Tolkien" đầu tiên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó được tổ chức hàng năm kể từ đó.<sup id="cite_ref-TS1_1-2" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup>
+Vào cuối [2002](../_/2002.md), nhà báo Sean Kirst đã liên hệ với [Hội Tolkien](The_Tolkien_Society.md) để hỏi "có ngày nào được dành một cách không chính thức cho các bài đọc trong bộ ba phim, giống như cách 'Ngày Blooms' được dành cho Joyce không?"<sup id="cite_ref-TS1_1-1" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup> Mặc dù Kirst đã xuất bản bài báo trên *The Post-Standard* của Syracuse, ủy ban<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Hội Tolkien](The_Tolkien_Society.md) thích ý tưởng này đến mức họ đã thông báo rằng [25 tháng 3](../_/25_March.md) [2003](../_/2003.md) sẽ là ngày diễn ra "Tolkien Ngày đọc sách" đầu tiên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Nó đã được tổ chức hàng năm kể từ đó.<sup id="cite_ref-TS1_1-2" class="reference"><a href="#cite_note-TS1-1">[1]</a></sup>
 
 ## Ngày {#Date}
 
-Ngày [25 tháng 3](../_/25_March.md) được [Hiệp hội](The_Tolkien_Society.md) chọn là ngày "tốt lành" cho sự hủy diệt của [Chiếc Nhẫn Chúa](The_One_Ring.md) và Sự sụp đổ của [Sauron](../S/Sauron.md) như được ghi trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Ngày [25 tháng 3](../_/25_March.md) được [Hội](The_Tolkien_Society.md) chọn là ngày "tốt lành" cho sự hủy diệt của [Chiếc Nhẫn Chúa](The_One_Ring.md) và Sự sụp đổ của [Sauron](../S/Sauron.md) như được ghi trong *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Chủ đề {#Themes}
 
-Chủ đề của Ngày đọc sách Tolkien được Hiệp hội Tolkien chọn hàng năm. Trong những năm gần đây, chủ đề là:
+Chủ đề của Ngày đọc sách Tolkien được Hội Tolkien lựa chọn hàng năm. Trong những năm gần đây, chủ đề là:
 
 - [2013](../_/2013.md): phong cảnh của Tolkien
 - [2014](../_/2014.md): Hy vọng
@@ -42,7 +42,7 @@ Chủ đề của Ngày đọc sách Tolkien được Hiệp hội Tolkien chọ
 - [2016](../_/2016.md): Sự sống, cái chết và sự bất tử
 - [2017](../_/2017.md): Thơ và Ca
 - [2018](../_/2018.md): Nhà và Lò sưởi
-- [2019](../_/2019.md): Tolkien và Người bí ẩn
+- [2019](../_/2019.md): Tolkien và Sự huyền bí
 - [2020](../_/2020.md): Thiên nhiên và Công nghiệp
 - [2021](../_/2021.md): Hy vọng và lòng dũng cảm
 - [2022](../_/2022.md): Tình yêu và tình bạn
@@ -54,7 +54,7 @@ Chủ đề của Ngày đọc sách Tolkien được Hiệp hội Tolkien chọ
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://steadyhq.com/en/thetolkienist/posts/a34aab0e-1939-4c78-99cb-64bd28eadeaf" rel="noreferrer noopener" target="_blank">Nghe bài viết này</a> như một phần của loạt bài <a class="new" href="https://tolkiengateway.net/w/index.php?title=Asleep_in_Arda&amp;action=edit&amp;redlink=1" title="Asleep in Arda (page does not exist)">Asleep in Arda</a> của [Marcel Bülles](../M/Marcel_Bülles.md)
-- <b><a class="external text" href="http://www.tolkiensociety.org/society/events/reading-day/" rel="noreferrer noopener" target="_blank">Ngày đọc sách Tolkien</a></b> trên trang web [Hiệp hội Tolkien](The_Tolkien_Society.md)
+- <b><a class="external text" href="http://www.tolkiensociety.org/society/events/reading-day/" rel="noreferrer noopener" target="_blank">Tolkien Ngày đọc sách</a></b> trên trang web [Hội Tolkien](The_Tolkien_Society.md)
 
 <span></span>
 

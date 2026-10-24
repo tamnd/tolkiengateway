@@ -40,11 +40,11 @@ images:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd><i>Gorcrows</i> are said to have 4 ft. wingspan and to be smaller cousins of the <i><a href="../C/Crebain.md" title="Crebain">crebain</a></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> and to be attracted to shiny things.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> The <i>northern gorcrow</i>, living in <a class="mw-redirect" href="../F/Forodwaith_(lands).md" title="Forodwaith (lands)">Forodwaith</a>, is described as a larger version of the common gorcrow. The <a href="../L/Lossoth.md" title="Lossoth">Lossoth</a> are said to regard the northern gorcrows as birds of ill-omen.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd><i>Gore-crows</i> are a type of crebain native to the <a href="../L/Lone-lands.md" title="Lone-lands">Lone-lands</a>. They also appear in great number in Mordor.</dd></dl>
 

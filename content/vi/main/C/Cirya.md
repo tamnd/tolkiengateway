@@ -32,7 +32,7 @@ Cả hai nghĩa đều bắt nguồn từ [gốc](../R/Root.md) *KIR*, liên qua
 
 ## Cùng nguồn gốc {#Cognate}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[cirith](Cirith.md)*
+- [Sindarin](../S/Sindarin.md) *[cirith](Cirith.md)*
 
 ## Xem thêm {#See_also}
 

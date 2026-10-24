@@ -76,5 +76,5 @@ Sự kiện xảy ra vào ngày 25 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Vào khoảng giữa trưa [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) đi qua [Argonath](../A/Argonath.md) và đến [Nen Hithoel](../N/Nen_Hithoel.md); họ cắm trại ở [Parth Galen](../P/Parth_Galen.md).
-    - [Trận chiến đầu tiên của dòng sông Isen](../F/First_Battle_of_the_Fords_of_Isen.md). [Théodred](../T/Théodred.md) con trai của [Théoden](../T/Théoden.md) đã bị giết.
+    - Vào khoảng giữa trưa, [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) vượt qua [Argonath](../A/Argonath.md) và đến [Nen Hithoel](../N/Nen_Hithoel.md); họ cắm trại ở [Parth Galen](../P/Parth_Galen.md).
+    - [Trận chiến thứ nhất của Fords Isen](../F/First_Battle_of_the_Fords_of_Isen.md). [Théodred](../T/Théodred.md) con trai của [Théoden](../T/Théoden.md) bị giết.

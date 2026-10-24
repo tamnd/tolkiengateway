@@ -22,12 +22,12 @@ langlinks:
 
 <i><b>tharni</b></i> là một từ [Westron](../W/Westron.md) có nghĩa là "một phần tư". Tùy thuộc vào nơi nó được nói, nó có hai ý nghĩa:
 
-- Một bộ phận của [Quận](The_Shire.md). Nó đã được dịch *[Farthing](../F/Farthings.md)* trong văn bản.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
-- Ở [Gondor](../G/Gondor.md), đó là một đồng xu bạc ([Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Canath&amp;action=edit&amp;redlink=1" title="Canath (page does not exist)">canath</a></i>), có giá trị bằng 1/4 [Castar](../C/Castar.md) hoặc *Mirian*.<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- Một bộ phận của [ Shire](The_Shire.md). Nó đã được dịch *[Farthing](../F/Farthings.md)* trong văn bản.<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- Trong [Gondor](../G/Gondor.md), đó là một đồng xu bạc ([Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Canath&amp;action=edit&amp;redlink=1" title="Canath (page does not exist)">canath</a></i>), có giá trị bằng 1/4 [Castar](../C/Castar.md) hoặc *Mirian*.<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Nó có dạng cũ hơn <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tharant%C4%ABn&amp;action=edit&amp;redlink=1" title="Tharantīn (page does not exist)">tharantīn</a></i>,<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">[1]</a></sup> có thể từ [Adûnaic](../A/Adûnaic.md) \**tharan* "four".<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+Nó có dạng cũ hơn <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tharant%C4%ABn&amp;action=edit&amp;redlink=1" title="Tharantīn (page does not exist)">tharantīn</a></i>,<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">[1]</a></sup> từ có thể [Adûnaic](../A/Adûnaic.md) \**tharan* "four".<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
 
 <span></span>
 

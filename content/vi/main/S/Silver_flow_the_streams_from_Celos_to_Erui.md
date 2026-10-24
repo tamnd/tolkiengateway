@@ -22,7 +22,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-“**Dòng bạc từ Celos tới Erui**” là bài thơ được hát bởi [Legolas](../L/Legolas.md) trong chương "[Cuộc tranh luận cuối cùng](../T/The_Last_Debate.md)".
+“**Dòng bạc từ Celos tới Erui**” là bài thơ được hát bởi [Legolas](../L/Legolas.md) trong chương “[Cuộc tranh luận cuối cùng](../T/The_Last_Debate.md)”.
 
 ## Văn bản {#Text}
 

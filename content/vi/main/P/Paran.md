@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>paran</b></i> trong [Sindarin](../S/Sindarin.md) có nghĩa là "cạo trọc, nhẵn nhụi (đối với những ngọn đồi ?không có cây)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>paran</b></i> trong [Sindarin](../S/Sindarin.md) có nghĩa là "cạo trọc, bằng phẳng (đối với đồi ?không có cây)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

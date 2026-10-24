@@ -15,21 +15,21 @@ sort_keys:
   "Quenya nouns": "Ear"
 ---
 
-<i><b>ëar</b></i> có nghĩa là "biển" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi viết hoa, <i><b>Eär</b></i> đề cập đến "Great Sea",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> tức là *[Belegaer](../B/Belegaer.md)*.
+<i><b>ëar</b></i> có nghĩa là "biển" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Khi được viết hoa, <i><b>Eär</b></i> đề cập đến "Đại Hải",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> tức là *[Belegaer](../B/Belegaer.md)*.
 
 ## Ví dụ {#Examples}
 
-- <i><a href="Eämbar.md" title="Eämbar"><b>Eä</b>mbar</a></i> = "Ở biển"
-- <i><a href="Eärendil.md" title="Eärendil"><b>Eär</b>endil</a></i> = "Người bạn biển"
+- <i><a href="Eämbar.md" title="Eämbar"><b>Eä</b>mbar</a></i> = "Biển-ở"
+- <i><a href="Eärendil.md" title="Eärendil"><b>Eär</b>endil</a></i> = "Biển-bạn"
     - <i><a href="Eärnil_I.md" title="Eärnil I"><b>Eär</b>nil</a></i> (co lại)
-- *[Eärendur](<Eärendur_(Lord_of_Andúnië).md>)* = "Người hầu biển"
+- *[Eärendur](<Eärendur_(Lord_of_Andúnië).md>)* = "Biển-người hầu"
     - *[Eärnur](Eärnur.md)* (co lại)
-- <i><a href="Eärrámë.md" title="Eärrámë"><b>Eär</b>rámë</a></i> = "Cánh biển"
-- <i><a href="Eärwen.md" title="Eärwen"><b>Eär</b>wen</a></i> = "Tiên nữ biển"
+- <i><a href="Eärrámë.md" title="Eärrámë"><b>Eär</b>rámë</a></i> = "Biển-wing"
+- <i><a href="Eärwen.md" title="Eärwen"><b>Eär</b>wen</a></i> = "Biển-thời con gái"
 
 ## Cùng nguồn gốc {#Cognate}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[aer](../A/Aer.md)*
+- [Sindarin](../S/Sindarin.md) *[aer](../A/Aer.md)*
 
 <span></span>
 

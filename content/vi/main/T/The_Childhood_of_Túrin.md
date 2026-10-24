@@ -47,18 +47,18 @@ images:
 <li><a href="The_Death_of_Túrin.md" title="The Death of Túrin">The Death of Túrin</a></li></ol>
 </td></tr></tbody></table>
 
-**Turin tuổi thơ** là chương đầu tiên của *[The Children of Húrin](The_Children_of_Húrin.md)*.
+**Tuổi thơ của Túrin** là chương đầu tiên của *[The Children of Húrin](The_Children_of_Húrin.md)*.
 
 ## Tóm tắt {#Synopsis}
 
-[Húrin](../H/Húrin.md) sinh ra [Galdor](<../G/Galdor_(Lord_of_Dor-lómin).md>) và [Hareth](../H/Hareth.md) và là anh trai của [Huor](../H/Huor.md). Khi còn trẻ, [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) đã tham gia vào một cuộc giao tranh với lũ Orc và bị quân Orc tràn ngập. Họ được cứu bởi ân sủng của [Ulmo](../U/Ulmo.md) và được [đại bàng](../E/Eagles.md) đưa đến thành phố ẩn giấu [Gondolin](../G/Gondolin.md), nơi họ ở lại trong một năm và biết được truyền thuyết về [Elven](../E/Elves.md). Họ sớm khao khát đồng bào của mình và được phép trở về quê hương; tuy nhiên họ buộc phải thề không bao giờ tiết lộ bí mật của Gondolin.
+[Húrin](../H/Húrin.md) được sinh ra bởi [Galdor](<../G/Galdor_(Lord_of_Dor-lómin).md>) và [Hareth](../H/Hareth.md) và là anh trai của [Huor](../H/Huor.md). Ở tuổi trưởng thành trẻ, [Húrin](../H/Húrin.md) và [Huor](../H/Huor.md) đã tham gia vào một cuộc giao tranh với lũ Orc và bị áp đảo. Họ đã được cứu bởi ân sủng của [Ulmo](../U/Ulmo.md) và được [đại bàng](../E/Eagles.md) đưa đến thành phố ẩn giấu [Gondolin](../G/Gondolin.md), nơi họ ở lại một năm và biết được truyền thuyết về [Tiên](../E/Elves.md). Họ sớm khao khát đồng bào của mình và được phép trở về quê hương; tuy nhiên họ buộc phải thề không bao giờ tiết lộ bí mật của Gondolin.
 
-Khi trở về, Húrin kết hôn với [Morwen](../M/Morwen.md), và không lâu sau khi [Túrin](Túrin.md) và [Lalaith](../L/Lalaith.md) ra đời.
+Khi trở về, Húrin kết hôn với [Morwen](../M/Morwen.md) và không lâu sau khi [Túrin](Túrin.md) và [Lalaith](../L/Lalaith.md) chào đời.
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Alan_Lee_-_The_Childhood_of_Túrin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/29/Alan_Lee_-_The_Childhood_of_T%C3%BArin.jpg/300px-Alan_Lee_-_The_Childhood_of_T%C3%BArin.jpg" decoding="async" loading="lazy" width="300" height="156" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/29/Alan_Lee_-_The_Childhood_of_T%C3%BArin.jpg/450px-Alan_Lee_-_The_Childhood_of_T%C3%BArin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/29/Alan_Lee_-_The_Childhood_of_T%C3%BArin.jpg/600px-Alan_Lee_-_The_Childhood_of_T%C3%BArin.jpg 2x" data-file-width="1358" data-file-height="708"/></a><figcaption><i>The Childhood of Túrin</i> by <a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></figcaption></figure>
 
 Khi Túrin lớn lên, anh ít được yêu thương hơn chị gái và trưởng thành nhanh chóng; ông có tính khí nóng nảy giống cha mình nhưng cũng dễ thương xót. Đáng buồn thay, Lalaith nhanh chóng bị [Hơi thở Ác ma](../E/Evil_Breath.md) tiêu diệt và bỏ mạng, mặc dù vẻ đẹp của cô vẫn không bị lãng quên.
 
-Húrin còn nhỏ ở nhà, còn Morwen thì nghiêm khắc với các con, nên Túrin nhìn về phía người bạn [Sador](../S/Sador.md) của mình để tìm sự an ủi, người còn được gọi là [Hopafoot](../H/Hopafoot.md) vì bàn chân của ông đã bị mất do một cú đánh rìu lệch. Sador là một người hầu thấp hèn mà Túrin đã học được nhiều điều mà lẽ ra anh phải học hỏi từ mẹ mình; nhưng bà là một người phụ nữ mạnh mẽ và lạnh lùng trong tình cảm.
+Húrin ít ở nhà và Morwen nghiêm khắc với con cái nên Túrin nhìn về phía người bạn [Sador](../S/Sador.md) để tìm sự an ủi, người còn được gọi là [Hopafoot](../H/Hopafoot.md) vì bàn chân của ông đã bị mất do một cú đánh rìu lệch. Sador là một người hầu thấp kém mà Túrin đã học được nhiều điều mà lẽ ra ông ta nên học hỏi từ mẹ mình; nhưng bà là một người phụ nữ mạnh mẽ và lạnh lùng trong tình cảm.
 
-Khi [Kẻ thù lớn](../G/Great_Enemy.md) lớn mạnh, Húrin bắt đầu gây chiến với [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) rời bỏ gia đình mình.
+Khi [Great Kẻ Thù](../G/Great_Enemy.md) lớn lên, Húrin bắt đầu gây chiến khi [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md) rời bỏ gia đình mình.

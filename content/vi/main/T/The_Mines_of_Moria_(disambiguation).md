@@ -16,23 +16,23 @@ images:
   - "Disambig.png"
 ---
 
-**Mỏ Moria** có thể đề cập đến:
+**Các mỏ Moria** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Khazad-dûm](../M/Moria.md) hay Moria, một thành phố [người lùn](../D/Dwarves.md) ở [Dãy núi sương mù](../M/Misty_Mountains.md).**
+- **[Khazad-dûm](../M/Moria.md) hoặc Moria, một thành phố [người lùn](../D/Dwarves.md) ở [Dãy Núi Sương Mù](../M/Misty_Mountains.md).**
 
 ## Chương {#Chapters}
 
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(1):_The_Lord_of_Moria&amp;action=edit&amp;redlink=1" title="The Mines of Moria (1): The Lord of Moria (page does not exist)">Khu mỏ Moria (1): Chúa tể Moria</a></i>, chương chín của *[The Treason of Isengard](The_Treason_of_Isengard.md)*.
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(2):_The_Bridge&amp;action=edit&amp;redlink=1" title="The Mines of Moria (2): The Bridge (page does not exist)">Khu mỏ Moria (2): Cây cầu</a></i>, chương 10 của *[The Treason of Isengard](The_Treason_of_Isengard.md)*.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(1):_The_Lord_of_Moria&amp;action=edit&amp;redlink=1" title="The Mines of Moria (1): The Lord of Moria (page does not exist)">Mỏ của Moria (1): Chúa tể Moria</a></i>, chương chín của *[The Treason of Isengard](The_Treason_of_Isengard.md)*.
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(2):_The_Bridge&amp;action=edit&amp;redlink=1" title="The Mines of Moria (2): The Bridge (page does not exist)">Mỏ của Moria (2): Cây cầu</a></i>, chương 10 của *[The Treason of Isengard](The_Treason_of_Isengard.md)*.
 
 ## Các bản chuyển thể {#Adaptations}
 
 - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(1979_episode)&amp;action=edit&amp;redlink=1" title="The Mines of Moria (1979 episode) (page does not exist)">The Mines of Moria (tập 1979)</a>", tập thứ bảy của [*The Lord of the Rings* (loạt phim phát thanh năm 1979)](<The_Lord_of_the_Rings_(1979_radio_series).md>).
 - "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(1981_episode)&amp;action=edit&amp;redlink=1" title="The Mines of Moria (1981 episode) (page does not exist)">The Mines of Moria (tập 1981)</a>", tập thứ tám của [*The Lord of the Rings* (loạt phim phát thanh năm 1981)](<The_Lord_of_the_Rings_(1981_radio_series).md>).
 - *[The Mines of Moria (video game)](<The_Mines_of_Moria_(video_game).md>)*, một trò chơi [1985](../_/1985.md) của [Eamon](<../E/Eamon_(video_game).md>).
-- *[Mines of Moria (video game series)](<../M/Mines_of_Moria_(video_game_series).md>)*, một bộ [1999](../_/1999.md) của [Trò chơi sốt cà chua](../K/Ketchup_Games.md)
+- *[Mines of Moria (video game series)](<../M/Mines_of_Moria_(video_game_series).md>)*, bộ truyện [1999](../_/1999.md) của [Ketchup Games](../K/Ketchup_Games.md)
     - *[Mines of Moria](<../M/Mines_of_Moria_(video_game).md>)*
     - *[Mines of Moria II: The Escape Out](../M/Mines_of_Moria_II%253A_The_Escape_Out.md)*
     - *[Mines of Moria 3](../M/Mines_of_Moria_3.md)*
@@ -40,7 +40,7 @@ images:
     - *[The Lord of the Rings Online: Mines of Moria (soundtrack)](<The_Lord_of_the_Rings_Online%253A_Mines_of_Moria_(soundtrack).md>)*, nhạc nền liên quan.
     - *[Mines of Moria](The_Lord_of_the_Rings_Online%253A_Mines_of_Moria.md#Synopsis)*, tập thứ hai của [The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md).
 - *[Mines of Moria](<../M/Mines_of_Moria_(Middle-earth_Quest_book).md>)*, cuốn sách cuối cùng trong số bốn cuốn sách trò chơi của *[Middle-earth Quest](../M/Middle-earth_Quest.md)*.
-- Bộ [Thẻ giải mã](../D/Decipher_Cards.md) thứ hai, "Mines of Moria", được phát hành vào [ngày 6 tháng 3](../_/6_March.md), [2002](../_/2002.md).
+- Bộ [Thẻ giải mã](../D/Decipher_Cards.md) thứ hai, "Mỏ Moria", được phát hành vào [ngày 6 tháng 3](../_/6_March.md), [2002](../_/2002.md).
 - *[Mines of Moria (2005 boxed set)](<../M/Mines_of_Moria_(2005_boxed_set).md>)*, một bộ đóng hộp [2005](../_/2005.md) dành cho *[The Lord of the Rings Strategy Battle Game](The_Lord_of_the_Rings_Strategy_Battle_Game.md)*
 
 ## Phương tiện truyền thông đại chúng {#Popular_media}

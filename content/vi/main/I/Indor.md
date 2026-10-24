@@ -41,7 +41,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Edain.md" title="Edain">Adan</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Indor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../D/Dor-lómin.md" title="Dor-lómin">Dor-lómin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">First Age</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">First Age</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../A/Aerin.md" title="Aerin">Aerin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Indor** là [Người của Dor-lómin](../D/Dor-lómin.md) và là cha của [Aerin](../A/Aerin.md) ở [Thời đại thứ nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Indor** là [Người của Dor-lómin](../D/Dor-lómin.md) và là cha của [Aerin](../A/Aerin.md) ở [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -53,7 +53,7 @@ infobox:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong [phiên bản đầu tiên](../T/The_Book_of_Lost_Tales.md) của [huyền thoại](../L/Legendarium.md), **Indor** là cha của [Peleg](../P/Peleg.md), sau đó là cha của [Tuor](../T/Tuor.md). Vì vậy, giống như Tuor, ông có lẽ thuộc về [Nhà Thiên Nga](../H/House_of_the_Swan.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong *[The Silmarillion](../T/The_Silmarillion.md)*, ông nội của Tuor là [Galdor the Tall](<../G/Galdor_(Lord_of_Dor-lómin).md>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [các phiên bản đầu tiên](../T/The_Book_of_Lost_Tales.md) của [huyền thoại](../L/Legendarium.md), **Indor** là cha của [Peleg](../P/Peleg.md), đến lượt là cha của [Tuor](../T/Tuor.md). Vì vậy, giống như Tuor ông ta có lẽ thuộc về [Nhà Thiên Nga](../H/House_of_the_Swan.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong *[The Silmarillion](../T/The_Silmarillion.md)* Tuor ông nội của ông ta là [Galdor Người Cao](<../G/Galdor_(Lord_of_Dor-lómin).md>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

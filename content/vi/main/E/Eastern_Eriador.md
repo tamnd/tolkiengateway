@@ -13,7 +13,7 @@ categories:
   - "Regions"
 ---
 
-**Đông Eriador** là tên được sử dụng cho vùng đất hoang dã ở phía đông [Eriador](Eriador.md) ở phía tây của [Dãy núi sương mù](../M/Misty_Mountains.md). Tên [Hobbit](../H/Hobbitish.md) *Wilderland* dành cho vùng đất ở phía đông của Dãy núi Sương mù, được gọi là [Rhovanion](../R/Rhovanion.md) ở [Sindarin](../S/Sindarin.md), thường được sử dụng để bao gồm Đông Eriador.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Miền Đông Eriador** là tên dùng cho vùng đất hoang dã ở phía đông [Eriador](Eriador.md) ở phía tây của [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Tên [Hobbit](../H/Hobbitish.md) *Wilderland* dành cho các vùng đất ở phía đông của Dãy Núi Sương Mù, được gọi là [Rhovanion](../R/Rhovanion.md) trong [Sindarin](../S/Sindarin.md), thường được sử dụng để bao gồm miền Đông Eriador.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

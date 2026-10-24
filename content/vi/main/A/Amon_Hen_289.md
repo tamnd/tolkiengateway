@@ -41,7 +41,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 289</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Cate Billing, Mathew Suta, Ana Demartino</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Elizaveta Klochkova</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">June <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">35</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_288.md" title="Amon Hen 288">Amon Hen 288</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_290.md" title="Amon Hen 290">Amon Hen 290</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 289</b> là số thứ hai trăm tám mươi chín của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 6 [2021](../_/2021.md).
+<b><i>Amon Hen</i> 289</b> là số thứ hai trăm tám mươi chín của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 6 [2021](../_/2021.md).
 
 ## Nội dung {#Contents}
 
@@ -51,11 +51,11 @@ infobox:
     - Bởi: Cate Palmer-Billing, Mathew Suta, Ana Demartino
 - Về quỹ đạo dao động và hình dáng cơ thể
     - Bởi: Martin Beech
-Đánh giá - [Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md) & [Tolkien: Kho báu](../T/Tolkien%253A_Treasures.md)
+- [Tolkien: Maker of Middle-earth](../T/Tolkien%253A_Maker_of_Middle-earth.md) & [Tolkien: Đánh giá kho báu](../T/Tolkien%253A_Treasures.md)
     - Bởi: Emilio Patavini
 - Đi xe
     - Bởi: Eryn Goetz
-- Kho bạc Tolkien
+- Tolkien Kho bạc
     - Bởi: Clare Moore
 - Giữa: *Telperion*
     - Bởi: Chiara Biancheri/lindelokse
@@ -63,7 +63,7 @@ infobox:
     - Bởi: Ian Collier
 - Oxenmoot 2021
 - Đại hội thường niên - Tóm tắt
-- Đánh giá về chiếc Sừng Gondor
+- Đánh giá Sừng Gondor
     - Bởi: [Shaun Gunner](../S/Shaun_Gunner.md)
 - Quan điểm trữ tình về vũ trụ của Tolkien: Di sản của thần thoại Hy Lạp?
     - Bởi: Hugo Glineur

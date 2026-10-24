@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inland Sea (disambiguation)"
 ---
 
-Chuyển hướng đến [Biển nội địa (định hướng)](<Inland_Sea_(disambiguation).md>).
+Chuyển hướng đến [Nội địa Biển (định hướng)](<Inland_Sea_(disambiguation).md>).

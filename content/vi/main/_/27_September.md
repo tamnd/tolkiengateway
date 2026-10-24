@@ -58,7 +58,7 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 27 tháng 9
+Sự kiện xảy ra vào ngày 27 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
@@ -66,8 +66,8 @@ Sự kiện xảy ra vào ngày 27 tháng 9
 - **[1936](1936.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Giáo sư A. Pompen](../L/Letter_to_Aurelius_Pompen.md).
 - **[1980](1980.md)** - [Oxonmoot 1980](../O/Oxonmoot_1980.md) tại The Turf Tavern.
 - **[1981](1981.md)** - [Oxonmoot 1981](../O/Oxonmoot_1981.md) tại The Turf Tavern.
-- **[1985](1985.md)** - [Oxonmoot 1985](../O/Oxonmoot_1985.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
-- **[1987](1987.md)** - [Oxonmoot 1987](../O/Oxonmoot_1987.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1985](1985.md)** - [Oxonmoot 1985](../O/Oxonmoot_1985.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
+- **[1987](1987.md)** - [Oxonmoot 1987](../O/Oxonmoot_1987.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
 - **[1996](1996.md)** - *[Realms of Tolkien](../R/Realms_of_Tolkien.md)* được xuất bản.
 - **[1998](1998.md)** - [Oxonmoot 1998](../O/Oxonmoot_1998.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
 - **[2004](2004.md)** - *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* số [15](../P/Parma_Eldalamberon_15.md) được xuất bản.
@@ -78,7 +78,7 @@ Sự kiện xảy ra vào ngày 27 tháng 9
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành của mình qua đêm thứ hai với [Tom Bombadil](../T/Tom_Bombadil.md) vì trời mưa. Trong khi thảo luận với ông về [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), Frodo đã đeo nó lần đầu tiên.
+    - [Frodo](../F/Frodo_Baggins.md) và những người bạn đồng hành qua đêm thứ hai với [Tom Bombadil](../T/Tom_Bombadil.md) vì trời mưa. Trong khi thảo luận với ông về [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), Frodo đã đeo nó lần đầu tiên.
     - [Gandalf](../G/Gandalf.md) vượt qua [Greyflood](../G/Greyflood.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
     - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>

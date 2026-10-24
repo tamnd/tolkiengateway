@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Ông Wrigley đã dự đoán rằng các học giả sẽ bận rộn với việc tìm kiếm nguồn *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* trong nhiều thế hệ. Tolkien lo sợ rằng mình đúng, nhưng coi việc sử dụng cụ thể trong một tình huống cụ thể của bất kỳ động cơ nào, dù được phát minh, cố tình mượn hay ghi nhớ một cách vô thức là thú vị nhất. <br>
+Ông Wrigley đã dự đoán rằng các học giả sẽ bận rộn với việc tìm kiếm nguồn *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* trong nhiều thế hệ. Tolkien sợ rằng mình đúng, nhưng coi việc sử dụng cụ thể trong một tình huống cụ thể của bất kỳ động cơ nào, dù là bịa ra, cố tình mượn hay ghi nhớ một cách vô thức là thú vị nhất. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

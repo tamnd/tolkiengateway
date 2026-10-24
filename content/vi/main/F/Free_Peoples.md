@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Free peoples"
 ---
 
-Chuyển hướng tới [Những người tự do](Free_peoples~19934.md).
+Chuyển hướng đến [các Dân tộc Tự do](Free_peoples~19934.md).

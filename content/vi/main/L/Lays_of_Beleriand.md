@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lays of Beleriand"
 ---
 
-Chuyển hướng tới [The Lays of Beleriand](../T/The_Lays_of_Beleriand.md).
+Chuyển hướng đến [The Lays of Beleriand](../T/The_Lays_of_Beleriand.md).

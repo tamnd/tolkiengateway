@@ -39,7 +39,7 @@ infobox:
 
 ## Cảm hứng {#Inspiration}
 
-Nhân vật Watol được dựa trên vị vua huyền thoại Weatla, người có con trai, theo biên niên sử người Anh <a class="extiw" href="http://en.wikipedia.org/wiki/Florence_of_Worcester" title="wikipedia:Florence of Worcester">Florence of Worcester</a>, đã xây dựng <a class="extiw" href="http://en.wikipedia.org/wiki/Watling_Street" title="wikipedia:Watling Street">phố Watling</a> vào năm <a class="extiw" href="http://en.wikipedia.org/wiki/1013" title="wikipedia:1013">1013 sau Công Nguyên</a>; Florence của Worcester cũng cho biết tên *Watling Street* sau đó đã được áp dụng cho <a class="extiw" href="http://en.wikipedia.org/wiki/Milky_Way" title="wikipedia:Milky Way">Dải Ngân Hà</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nhân vật Watol được dựa trên Vua huyền thoại Weatla, người có con trai, theo biên niên sử người Anh <a class="extiw" href="http://en.wikipedia.org/wiki/Florence_of_Worcester" title="wikipedia:Florence of Worcester">Florence of Worcester</a>, đã xây dựng <a class="extiw" href="http://en.wikipedia.org/wiki/Watling_Street" title="wikipedia:Watling Street">Phố Watling</a> vào năm <a class="extiw" href="http://en.wikipedia.org/wiki/1013" title="wikipedia:1013">1013 sau Công Nguyên</a>; Florence của Worcester cũng cho biết tên *Watling Street* sau đó đã được áp dụng cho <a class="extiw" href="http://en.wikipedia.org/wiki/Milky_Way" title="wikipedia:Milky Way">Dải Ngân Hà</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

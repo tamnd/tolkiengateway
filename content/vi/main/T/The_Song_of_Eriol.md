@@ -15,11 +15,11 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>Bài hát của Eriol</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1917](../_/1917.md). Bài thơ được viết lần đầu vào tháng 3 năm [1916](../_/1916.md), ban đầu có tên là <i><b>Lòng trung thành của kẻ lang thang</b></i> trước khi được đổi thành <i><b>Thành phố buồn</b></i>. Dạng bài thơ này đã được xuất bản trong *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bài thơ cuối cùng đã được làm lại thành *The Song of Eriol*, mặc dù đoạn mở đầu của phiên bản gốc vẫn còn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Bài hát của Eriol</b></i> là một bài thơ được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết trong [1917](../_/1917.md). Bài thơ được viết lần đầu vào tháng 3 năm [1916](../_/1916.md), ban đầu có tên là <i><b>Lòng trung thành của kẻ lang thang</b></i> trước khi được đổi thành <i><b>Thành phố buồn</b></i>. Dạng bài thơ này đã được xuất bản trong *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Bài thơ cuối cùng đã được làm lại thành *The Song of Eriol*, mặc dù đoạn mở đầu của phiên bản gốc vẫn còn.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Bài thơ ngoại trừ {#Poem_except}
 
-Eriol đã sáng tác một bài hát trong Room of the Tale-fire kể về đôi chân của ông theo giáo phái lang thang, để cuối cùng ông đã tìm thấy [Đảo cô đơn](../L/Lonely_Isle.md) và thị trấn công bằng nhất [Kortirion](../K/Kortirion.md).
+Eriol đã sáng tác một bài hát trong Room of the Tale-fire kể về việc đôi chân của ông bị giáo phái lang thang như thế nào, để cuối cùng ông đã tìm thấy [Hòn đảo cô đơn](../L/Lonely_Isle.md) và thị trấn công bằng nhất đó [Kortirion](../K/Kortirion.md).
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>In unknown days my fathers&#39; sires<br/>

@@ -74,16 +74,16 @@ Sự kiện xảy ra vào ngày 6 tháng 3
 - **[1969](1969.md)** - Học giả [Gergely Nagy](../G/Gergely_Nagy.md) ra đời.
 - **[1973](1973.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 348](../L/Letter_348.md).
 - **[1996](1996.md)** - Diễn viên lồng tiếng [Simon Cadell](../S/Simon_Cadell.md) qua đời.
-- **[2002](2002.md)** – Trang web dành cho người hâm mộ <a class="external text" href="http://www.councilofelrond.com/" rel="noreferrer noopener" target="_blank">Hội đồng Elrond</a> lên mạng.
-- **[2002](2002.md)** - "Mines of Moria", bộ thứ hai trong [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md), được phát hành.
+- **[2002](2002.md)** – Trang web dành cho người hâm mộ <a class="external text" href="http://www.councilofelrond.com/" rel="noreferrer noopener" target="_blank">Hội đồng Elrond</a> trực tuyến.
+- **[2002](2002.md)** - "Mỏ Moria", bộ thứ hai trong [The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md), được phát hành.
 - **[2004](2004.md)** - Ngày thứ hai của "[RingCon IV](../R/RingCon.md)" tại <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle" title="wikipedia:Seattle">Seattle</a>.
-- **[2010](2010.md)** - [Ngày [Smials](../S/Smials.md#In_real_world) của Hiệp hội Tolkien](../T/The_Tolkien_Society.md) ở [Leeds](../L/Leeds.md).
+- **[2010](2010.md)** - Ngày [Smials](../S/Smials.md#In_real_world) của [Hội Tolkien](../T/The_Tolkien_Society.md) ở [Leeds](../L/Leeds.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) đi về hướng [Ithilien](../I/Ithilien.md).
-    - [Gandalf](../G/Gandalf.md) đi cùng [Pippin](../P/Peregrin_Took.md) dọc theo [Dãy núi Trắng](../W/White_Mountains.md) hướng tới [Minas Tirith](../M/Minas_Tirith.md).
+    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) di chuyển về phía [Ithilien](../I/Ithilien.md).
+    - [Gandalf](../G/Gandalf.md) di chuyển với [Pippin](../P/Peregrin_Took.md) dọc theo [Dãy Núi Trắng](../W/White_Mountains.md) hướng tới [Minas Tirith](../M/Minas_Tirith.md).
     - [Aragorn](../A/Aragorn.md) bị [Grey Company](../G/Grey_Company.md) vượt qua gần [Dol Baran](../D/Dol_Baran.md) vào đầu giờ.
-    - [Aragorn](../A/Aragorn.md) sử dụng [Orthanc-stone](../O/Orthanc-stone.md) và lộ diện trước [kẻ thù](../S/Sauron.md).
-    - [Théoden](../T/Théoden.md) và [éoherë](Éoherë.md) rời [Hornburg](../H/Hornburg.md) đến [Harrowdale](../H/Harrowdale.md) và du hành dưới bóng của [Dãy núi Trắng](../W/White_Mountains.md) của [Rohan](../R/Rohan.md). Aragorn rời đi muộn hơn nhưng đi nhanh hơn qua vùng đồng bằng Rohan.
+    - [Aragorn](../A/Aragorn.md) sử dụng [Orthanc-đá](../O/Orthanc-stone.md) và lộ diện trước [kẻ thù](../S/Sauron.md).
+    - [Théoden](../T/Théoden.md) và [éoherë](Éoherë.md) rời khỏi [Hornburg](../H/Hornburg.md) tới [Harrowdale](../H/Harrowdale.md) và di chuyển dưới bóng của [Dãy Núi Trắng](../W/White_Mountains.md) của [Rohan](../R/Rohan.md). Aragorn khởi hành muộn hơn nhưng đi nhanh hơn qua vùng đồng bằng Rohan.

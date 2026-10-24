@@ -35,7 +35,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../C/Cold-drakes.md" title="Cold-drakes">cold-drakes</a>, <a href="../D/Dragons.md" title="Dragons">Dragons</a>, <a href="../F/Fire-drakes.md" title="Fire-drakes">fire-drakes</a>, <a href="../L/Long-worms.md" title="Long-worms">long-worms</a>, <a href="Scatha.md" title="Scatha">Scatha</a></td></tr>
 </tbody></table>
 
-<i><b>Scatha the Worm</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về [con sâu dài](../L/Long-worms.md) [rồng](../D/Dragons.md) [Scatha](Scatha.md).<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
+<i><b>Scatha con sâu</b></i> là bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết về [con sâu](../L/Long-worms.md) [rồng](../D/Dragons.md) [Scatha](Scatha.md).<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -53,9 +53,9 @@ infobox:
 
 ## Nền {#Background}
 
-Vào khoảng năm [1954](../_/1954.md), sau khi viết cảnh trong Quyển VI của *The Lord of the Rings* nơi [Éowyn](../_/Éowyn.md) trao [Horn of the Mark](../H/Horn_of_the_Mark.md) cổ xưa cho [Holdwine](../M/Meriadoc_Brandybuck.md) của [The Shire](../T/The_Shire.md), Tolkien đã viết một bài thơ ngắn "theo nhiều phong cách" bên dưới tiêu đề *Scatha the Worm*, đây chỉ là tựa đề rõ ràng cho phiên bản thứ hai và thứ ba của bộ truyện. bài thơ.<sup id="cite_ref-collectedpoems_1-2" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
+Vào khoảng năm [1954](../_/1954.md), sau khi viết xong cảnh trong Quyển VI của *The Lord of the Rings* nơi [Éowyn](../_/Éowyn.md) đưa [Horn of the Mark](../H/Horn_of_the_Mark.md) cổ xưa cho [Holdwine](../M/Meriadoc_Brandybuck.md) của [The Shire](../T/The_Shire.md), Tolkien đã viết một bài thơ ngắn "theo nhiều phong cách" bên dưới tiêu đề *Scatha the Worm*, đây chỉ là tựa đề rõ ràng cho phiên bản thứ hai và thứ ba của bài thơ.<sup id="cite_ref-collectedpoems_1-2" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
 
-Có thể chi tiết một số con rồng có màu xanh lục liên quan đến một câu chuyện hoặc bài thơ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> mà Tolkien đã cố gắng viết về “một con rồng xanh vĩ đại” khi mới 7 tuổi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-BII_4-0" class="reference"><a href="#cite_note-BII-4">[4]</a></sup>
+Có thể chi tiết một số con rồng có màu xanh lục liên quan đến một câu chuyện hoặc bài thơ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> mà Tolkien đã cố gắng viết về "một con rồng xanh vĩ đại" khi mới 7 tuổi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-BII_4-0" class="reference"><a href="#cite_note-BII-4">[4]</a></sup>
 
 Toàn bộ bài thơ được xuất bản lần đầu tiên ở mục 177 trong *[The Collected Poems of J.R.R. Tolkien](../T/The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-collectedpoems_1-3" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
 

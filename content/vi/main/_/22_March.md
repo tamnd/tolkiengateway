@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 22 tháng 3
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1916](1916.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kết hôn với [Edith Bratt](../E/Edith_Tolkien.md) tại nhà thờ St Mary Immaculate ở [Warwick](../K/Kortirion.md).
+- **[1916](1916.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) kết hôn [Edith Bratt](../E/Edith_Tolkien.md) tại nhà thờ St Mary Immaculate ở [Warwick](../K/Kortirion.md).
 - **[1968](1968.md)** - *The Daily Telegraph* đăng [cuộc phỏng vấn](../T/The_Man_Who_Understands_Hobbits.md) của Charlotte và Denis Plimmer với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1981](1981.md)** - Tập thứ ba của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1996](1996.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [8](../T/Tyalië_Tyelelliéva_8.md) được xuất bản.
@@ -79,7 +79,7 @@ Sự kiện xảy ra vào ngày 22 tháng 3
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
     - [Borondir](../B/Borondir.md) đang trên đường tìm kiếm [Éothéod](Éothéod.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Chủ nhà của phương Tây](../A/Army_of_the_West.md) tiến về [Cổng đen](../B/Black_Gate.md).
+    - Đội [Đạo quân Phương Tây](../A/Army_of_the_West.md) tiến về phía [Cổng Đen](../B/Black_Gate.md).
     - [cuộc tấn công](../A/Assaults_on_Lothlórien.md) thứ ba vào [Lothlórien](../L/Lothlórien.md).
     - Màn đêm buông xuống khủng khiếp.
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) rời đường và rẽ về phía nam đến [Mount Doom](../M/Mount_Doom.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) rời đường và rẽ về phía nam tới [Núi Diệt Vong](../M/Mount_Doom.md).

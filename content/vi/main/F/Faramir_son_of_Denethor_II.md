@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faramir"
 ---
 
-Chuyển hướng tới [Faramir](Faramir.md).
+Chuyển hướng đến [Faramir](Faramir.md).

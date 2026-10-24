@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Gebel, Jonathan"
 ---
 
-- Jonathan Gebel đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jonathan_Gebel.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Jonathan Gebel đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jonathan_Gebel.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 11 tháng 8 năm 2022
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

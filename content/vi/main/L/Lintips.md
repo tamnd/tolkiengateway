@@ -12,13 +12,13 @@ categories:
   - "Other races"
 ---
 
-**Lintips** là những sinh vật bí ẩn chỉ được nhắc đến trong thơ. Chúng xuất hiện vào ban đêm dưới ánh trăng; Tom tự hỏi liệu họ trượt xuống từ [Mặt trăng](../M/Moon.md) hay đến trong nháy mắt [sao](../S/Star.md). Có vẻ như chúng rất nhỏ và có mùi chuột.
+**Lintips** là những sinh vật bí ẩn chỉ được nhắc đến trong thơ. Chúng xuất hiện vào ban đêm dưới ánh trăng; Tom tự hỏi liệu họ trượt xuống từ [Mặt Trăng](../M/Moon.md) hay đến trong nháy mắt [ngôi sao](../S/Star.md). Có vẻ như chúng rất nhỏ và có mùi chuột.
 
 [Tom](../T/Tom_Bombadil.md) ngửi thấy mùi của chúng để ý thấy, một đêm nọ chúng đến quá sớm; Ngài bảo họ hãy uống sương trên cỏ nhưng hãy để ý đến đôi chân của Ngài. Họ chỉ bỏ chạy và cười nhạo ông trước sự thất vọng của Tom, người đã mong họ ở lại, để lại ông phàn nàn rằng họ là những thứ duy nhất không nói chuyện với ông và tự hỏi liệu họ có giấu điều gì không.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Như trong trường hợp của [Mewlips](../M/Mewlips.md), [độc giả](../T/Tolkien_fandom.md) đã "không xác định được nguồn gốc của 'lintips'".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Rhona Beare](../R/Rhona_Beare.md) đã gợi ý rằng các lintips tương ứng với " [linh hồn](../S/Spirits.md) lấp lánh" nhảy múa và nhấm nháp ánh sáng rực rỡ từ hoa mao lương, trong bài thơ trước đó của Tolkien *[An Evening in Tavrobel](../A/An_Evening_in_Tavrobel.md)*, bài thơ này có lẽ là cơ sở của *Once upon a Time*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Như trong trường hợp của [Mewlips](../M/Mewlips.md), [độc giả](../T/Tolkien_fandom.md) đã "không xác định được nguồn gốc của 'lintips'".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Rhona Beare](../R/Rhona_Beare.md) đã gợi ý rằng những lintips tương ứng với " [linh hồn](../S/Spirits.md)" lấp lánh nhảy múa và nhấm nháp ánh sáng rực rỡ từ hoa mao lương, trong bài thơ trước đó của Tolkien *[An Evening in Tavrobel](../A/An_Evening_in_Tavrobel.md)*, có lẽ là cơ sở của *Once upon a Time*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -26,21 +26,21 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Stock_Road.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/48/The_Lord_of_the_Rings_Online_-_Stock_Road.jpg/300px-The_Lord_of_the_Rings_Online_-_Stock_Road.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/48/The_Lord_of_the_Rings_Online_-_Stock_Road.jpg/450px-The_Lord_of_the_Rings_Online_-_Stock_Road.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/48/The_Lord_of_the_Rings_Online_-_Stock_Road.jpg/600px-The_Lord_of_the_Rings_Online_-_Stock_Road.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Stock Road in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Đường Stock** là một con đường ở [Quận](../T/The_Shire.md).
+Đường **Stock** là đường ở [the Shire](../T/The_Shire.md).
 
 Nó bắt đầu từ làng [Stock](Stock.md), đi qua [Woody End](../W/Woody_End.md) và [Green Hills](../G/Green_Hills.md).
 
-Vào cuối [Thời đại thứ ba](../T/Third_Age.md) ([22 tháng 9](../_/22_September.md), [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md)), [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](Samwise_Gamgee.md) gặp [Những người giữ ba chiếc nhẫn](../K/Keepers_of_the_Three_Rings.md) ở Woody End, đang đợi trên Đường Stock.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi kết thúc [Kỷ Đệ Tam](../T/Third_Age.md) ([22 tháng Chín](../_/22_September.md), [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md)), [Frodo Baggins](../F/Frodo_Baggins.md) và [Samwise Gamgee](Samwise_Gamgee.md) đã gặp [Những người canh giữ Ba Chiếc Nhẫn](../K/Keepers_of_the_Three_Rings.md) ở Woody End, đang đợi trên Đường Stock.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nhận dạng {#Identification}
 
-Đường không được đánh dấu trên bản đồ *[A Part of the Shire](../A/A_Part_of_the_Shire.md)*. Tuy nhiên, có một con đường không tên nối [Tuckborough](../T/Tuckborough.md) với Stock qua Green Hill Country và Woody End. [Karen Fontad](../K/Karen_Fonstad.md) xác định con đường này là Đường Stock.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Đường không được đánh dấu trên bản đồ *[A Part of the Shire](../A/A_Part_of_the_Shire.md)*. Tuy nhiên, có một con đường không tên nối [Tuckborough](../T/Tuckborough.md) với Stock qua Green Hill Country và Woody End. [Karen Fonstad](../K/Karen_Fonstad.md) xác định đường này là Đường Stock.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Theo [Robert Foster](../R/Robert_Foster.md), Đường Stock nối với [Đường Đông](../E/East_Road.md) ở phía tây [Bywater](../B/Bywater.md) nhưng không có con đường nào như vậy xuất hiện trên bản đồ nói trên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Theo [Robert Foster](../R/Robert_Foster.md), Đường Stock nối với Đường [phương Đông](../E/East_Road.md) phía tây [Bywater](../B/Bywater.md) nhưng không có con đường nào như vậy trên bản đồ nói trên.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Stock Road runs from <a href="Stock.md" title="Stock">Stock</a> to <a href="../W/Woodhall.md" title="Woodhall">Woodhall</a> and then to <a href="../T/Tuckborough.md" title="Tuckborough">Tuckborough</a>.</dd></dl>
 

@@ -26,9 +26,9 @@ langlinks:
     url: "https://kontu.wiki/Arandor"
 ---
 
-**Arandor**, còn được gọi là **Kingsland**, là khu vực trung tâm quan trọng của [Númenor](../N/Númenor.md), xung quanh thủ đô của hòn đảo là [Armenelos](Armenelos.md) giữa [Meneltarma](../M/Meneltarma.md) gần trung tâm hòn đảo và cảng [Rómenna](../R/Rómenna.md) trên bờ biển phía đông của hòn đảo. Arandor tạo thành phần phía đông của [Mittalmar](../M/Mittalmar.md), tên của toàn bộ khu vực trung tâm của Númenor. Nó gần như không giáp biển nhưng gặp biển ở phía đông xa, nơi có cảng lớn [Rómenna](../R/Rómenna.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ đó, một con đường chạy về phía tây đến [Armenelos](Armenelos.md) rồi đến [Meneltarma](../M/Meneltarma.md) ở biên giới phía tây của Arandor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Arandor**, còn được gọi là **Kingsland**, là khu vực trung tâm quan trọng của [Númenor](../N/Númenor.md), xung quanh thủ đô của hòn đảo tại [Armenelos](Armenelos.md) giữa [Meneltarma](../M/Meneltarma.md) gần trung tâm hòn đảo và cảng [Rómenna](../R/Rómenna.md) trên bờ biển phía đông của hòn đảo. Arandor chiếm phần phía đông của [Mittalmar](../M/Mittalmar.md), là tên của toàn bộ khu vực trung tâm của Númenor. Nó gần như không giáp biển, nhưng lại gặp Biển ở phía đông xa, nơi có cảng lớn [Rómenna](../R/Rómenna.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Từ đó, một con đường chạy về phía tây đến [Armenelos](Armenelos.md) rồi đến [Meneltarma](../M/Meneltarma.md) ở biên giới phía tây của Arandor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vào [Thời đại thứ ba](../T/Third_Age.md), **Arandor** cũng là một trong những tên thay thế cho [Arnor](Arnor.md).
+Trong [Kỷ Đệ Tam](../T/Third_Age.md), **Arandor** cũng là một trong những tên thay thế cho [Arnor](Arnor.md).
 
 <span></span>
 

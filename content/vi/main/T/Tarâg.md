@@ -23,7 +23,7 @@ Cấp tiến \*T-R-G
 
 ## Ví dụ {#Example}
 
-- <i>Dấu hiệu-<b>tarâg</b></i> = "[Râu dài](../L/Longbeards.md)"
+- <i>Ký hiệu-<b>tarâg</b></i> = "[Longbeards](../L/Longbeards.md)"
 
 <span></span>
 

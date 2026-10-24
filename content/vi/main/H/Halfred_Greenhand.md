@@ -50,7 +50,7 @@ Halfred là một người làm vườn giống như cha mình và là người 
 
 ## Từ nguyên {#Etymology}
 
-Cái tên này bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *healfrēad* "nửa đỏ, hơi đỏ" hoặc từ *healfrǣd* "nửa lời khuyên".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Tên xuất phát từ [tiếng Anh cổ](../O/Old_English.md) *healfrēad* "nửa đỏ, hơi đỏ" hoặc từ *healfrǣd* "nửa lời khuyên".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

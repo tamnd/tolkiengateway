@@ -23,7 +23,7 @@ Vào [2 tháng 6](../_/2_June.md) [1945](../_/1945.md), [J.R.R. Tolkien](../J/J.
 
 - **Mô tả:** Thư viết tay.
 - **Xuất bản:** Không có.
-- **Chủ đề:** Bình luận về truyện do Maegraith viết, gửi tới Tolkien.
+- **Chủ đề:** Bình luận về các câu chuyện do Maegraith viết, gửi tới Tolkien.
 
 ## Hình ảnh {#Images}
 
@@ -52,7 +52,7 @@ Vào [2 tháng 6](../_/2_June.md) [1945](../_/1945.md), [J.R.R. Tolkien](../J/J.
 
 ## Phiên âm {#Transcription}
 
-Lẽ ra tôi phải xác nhận gói tin của bạn ngay lập tức; nhưng tôi nghĩ bạn muốn lấy lại nó sớm cùng với một vài nhận xét. Tuy nhiên, mọi thứ diễn ra khá khó khăn trong suốt tháng 5, với vô số những công việc làm thêm nhỏ nhặt, thi cử và cả cái chết. Đặc biệt là cái chết đột ngột của người bạn rất thân yêu của tôi [Charles Williams](../C/Charles_Williams.md), tác giả, người đã khiến tất cả cộng đồng nhỏ bé của chúng ta rơi vào nỗi đau buồn sâu sắc\[.\] Các giáo sư cũng dường như sắp chết hoặc nghỉ hưu ở khắp mọi nơi, và vì tôi hiện nay (với tư cách là người sống sót) là đại cử tri hoặc cố vấn ở nửa tá nơi, nên tôi có rất nhiều thư để viết.
+Lẽ ra tôi phải xác nhận gói tin của bạn ngay lập tức; nhưng tôi nghĩ bạn muốn lấy lại nó sớm cùng với một vài nhận xét. Tuy nhiên, mọi thứ diễn ra khá khó khăn trong suốt tháng 5, với vô số những công việc làm thêm nhỏ nhặt, thi cử và cả cái chết. Đặc biệt là cái chết đột ngột của người bạn rất thân yêu của tôi [Charles Williams](../C/Charles_Williams.md), tác giả, người đã khiến tất cả cộng đồng nhỏ bé của chúng tôi rơi vào nỗi đau buồn sâu sắc\[.\] Các giáo sư cũng dường như sắp chết hoặc nghỉ hưu ở khắp mọi nơi, và vì tôi hiện tại (với tư cách là người sống sót) là một đại cử tri hoặc cố vấn ở nửa tá nơi, nên tôi có rất nhiều thư để viết.
 
 Tôi không biết rằng mình có thể làm hay nói nhiều điều hữu ích, vì tôi không phải là nhà phê bình chuyên nghiệp, chỉ là một nhà văn không thường xuyên - và loại người đó chỉ đơn giản là có xu hướng cảm nhận những gì ông ta (với phong cách và thói quen của riêng mình) sẽ làm ở một nơi như vậy: không phải lúc nào cũng là điều tốt trong tác phẩm của người khác. Và trong mọi trường hợp, bạn nói rằng bạn không muốn xuất bản chỉ để giải trí cho bản thân (và bạn bè). Chà, để nói bất cứ điều gì, tôi phải tưởng tượng những thứ này được đưa ra để xuất bản và ẩn danh. Với những điều kiện đó: Tôi nên nói rằng các ý tưởng, nói chung và cụ thể, đều tốt: Ý tôi là ý tưởng chung về một loạt câu chuyện đáng kinh ngạc do ông già sot Major kể là một mắt xích tuyệt vời; và ý tưởng trung tâm của mỗi câu chuyện trong số ba câu chuyện đều phù hợp cho một bộ truyện như vậy. (???? BBC ?type ?cái nào????? "thiết lập" để đưa nó vào hoạt động)
 
@@ -74,7 +74,7 @@ Tôi e rằng nội dung này sẽ khó đọc được—nhưng tôi đã phả
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://tolkienletter.blogspot.com/" rel="noreferrer noopener" target="_blank">Thư 'Chúa tể những chiếc nhẫn' của Tolkien</a>
+- <a class="external text" href="http://tolkienletter.blogspot.com/" rel="noreferrer noopener" target="_blank">Tolkien Lá thư 'Chúa tể những chiếc nhẫn'</a>
 
 <span></span>
 

@@ -29,11 +29,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Tolkien](../T/Tolkien.md) đã được gửi một bản đánh máy của *[The Hobbit](../T/The_Hobbit.md)* để đọc thử trước khi xuất bản và nhận xét rằng có "rất ít điểm khác biệt so với bản sao".
+[Tolkien](../T/Tolkien.md) đã được gửi một bản đánh máy của *[The Hobbit](../T/The_Hobbit.md)* để đọc kiểm tra trước khi xuất bản và nhận xét rằng có "rất ít điểm khác biệt so với bản sao".
 
-Ông đề cập đến [Bản đồ của Thrór](../T/Thrór's_Map.md#The_illustration_of_the_Map) và rằng ông đã chọn vị trí đặt hai hình minh họa trong cuốn sách.
+Ông đề cập đến [Bản đồ của Thrór](../T/Thrór's_Map.md#The_illustration_of_the_Map) và ông đã chọn vị trí đặt hai hình minh họa trong cuốn sách.
 
-Ông thừa nhận đã sửa lại một phần đáng kể của câu chuyện mà ông có "sự nhầm lẫn giữa câu chuyện và địa lý", khoảng 16 trang thay đổi mà ông gửi lại cho [Allen & Unwin](../A/Allen_&_Unwin.md) cùng với danh sách những thay đổi của mình.
+Anh thừa nhận đã sửa lại một phần đáng kể của câu chuyện, trong đó anh có "sự nhầm lẫn giữa tường thuật và địa lý", khoảng 16 trang thay đổi, anh gửi lại cho [Allen &amp; Unwin](../A/Allen_&_Unwin.md) kèm theo danh sách những thay đổi của mình.
 
 Anh kết thúc bức thư bằng lời xin lỗi C. A. Furth vì đã là người chủ nhà tồi khi anh đến thăm lần trước, vì anh không được khỏe nhưng giờ anh cảm thấy như được “hồi sinh”.
 

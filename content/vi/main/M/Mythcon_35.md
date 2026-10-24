@@ -33,7 +33,7 @@ infobox:
 **Mythcon 35** là hội nghị thường niên lần thứ 35 của [Hiệp hội thần thoại](Mythopoeic_Society.md).
 
 - **Chủ đề:** "Những cây cầu dẫn đến những thế giới khác: Ba mươi lăm năm học bổng thần thoại"
-- **Khách mời danh dự:** Charles Huttar (học giả Charles Williams) và Neil Gaiman (tác giả truyện giả tưởng)
+- **Khách mời danh dự:** Charles Huttar (Charles Williams học giả) và Neil Gaiman (tác giả truyện giả tưởng)
 - **Chủ tịch:** Marion Van Loo và Judith Kollmann
 
 ## Liên kết ngoài {#External_links}

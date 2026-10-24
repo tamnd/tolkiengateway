@@ -55,17 +55,17 @@ infobox:
 
 ## Lịch sử {#History}
 
-Khi Araval lên ngôi, Arthedain đã chiến tranh với [Angmar](Angmar.md) trong 400 năm, và [Dúnedain](../D/Dúnedain.md) đã đạt được rất ít thành tựu trong việc ngăn chặn sức mạnh của kẻ thù cũ này lan rộng.
+Khi Araval lên ngôi Arthedain đã chiến tranh với [Angmar](Angmar.md) suốt 400 năm và [Dúnedain](../D/Dúnedain.md) đạt được rất ít thành tựu trong việc ngăn chặn sức mạnh của kẻ thù cũ này lan rộng.
 
-Araval, liên minh với [Yêu tinh](../E/Elves.md) của [Lindon](../L/Lindon.md) và [Rivendell](../R/Rivendell.md), đã chiến đấu với lực lượng của Angmar tại [T.A.](../T/Third_Age.md) [1851](../T/Third_Age_1851.md) và giành chiến thắng trở về. Sau chiến thắng này, Araval cố gắng chiếm lại [Cardolan](../C/Cardolan.md), nhưng "những [ác quỷ](../W/Wights.md)" độc ác (có thể ám chỉ [Barrow-wights](../B/Barrow-wights.md)) khiến bất kỳ ai cố gắng sống ở đó khiếp sợ.<sup id="cite_ref-Elendil_2-1" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
+Araval, liên minh với [Tiên tộc](../E/Elves.md) của [Lindon](../L/Lindon.md) và [Rivendell](../R/Rivendell.md), đã chiến đấu với lực lượng của Angmar tại [T.A.](../T/Third_Age.md) [1851](../T/Third_Age_1851.md) và giành chiến thắng trở về. Sau chiến thắng này, Araval đã cố gắng chiếm lại [Cardolan](../C/Cardolan.md), nhưng "những [ác quỷ](../W/Wights.md)" độc ác (có thể ám chỉ đến [Barrow-wight](../B/Barrow-wights.md)) đã khiến bất kỳ ai cố gắng trú ngụ ở đó phải khiếp sợ.<sup id="cite_ref-Elendil_2-1" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
 
-Thật không may, chiến thắng của Araval không có tác dụng lâu dài: dưới sự chỉ đạo của [Araphant](Araphant.md), con trai của Araval, Angmar đã hồi phục và tiếp tục tấn công Arnor; và dưới sự chỉ huy của [Arvedui](Arvedui.md), cháu trai của Araval, Angmar cuối cùng đã đánh bại Arthedain, khiến Arnor bị tàn phá và phân tán tàn dư của người Dúnedain.
+Thật không may, chiến thắng của Araval không có tác dụng lâu dài: dưới sự chỉ đạo của con trai [Araphant](Araphant.md), Araval, Angmar đã hồi phục và tiếp tục tấn công Arnor; và dưới quyền [Arvedui](Arvedui.md), cháu trai của Araval, Angmar cuối cùng đã đánh bại Arthedain, khiến Arnor bị lãng phí và phân tán tàn dư của Dúnedain.
 
-Araval cai trị Arthedain trong bảy mươi tám năm, và được con trai ông là [Araphant](Araphant.md) kế vị sau khi ông qua đời vào năm 1891.<sup id="cite_ref-North_1-1" class="reference"><a href="#cite_note-North-1">[1]</a></sup><sup id="cite_ref-Elendil_2-2" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
+Araval cai trị Arthedain trong bảy mươi tám năm, và được con trai ông [Araphant](Araphant.md) kế vị sau khi ông qua đời vào năm 1891.<sup id="cite_ref-North_1-1" class="reference"><a href="#cite_note-North-1">[1]</a></sup><sup id="cite_ref-Elendil_2-2" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Araval* là [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được bóng bẩy. Nó có thể có nghĩa là "Vua vàng"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> hoặc "Vua vàng".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Paul Strack giải thích rằng thành phần đầu tiên trong tên của ông là [ara](Ara.md) ("quý tộc") và thành phần cuối cùng của nó có thể là dạng [lenited](../L/Lenition.md) *val* của [malt](../M/Malt.md) ("vàng") (theo gợi ý của David Salo).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> [tên trước đó](#Other_versions_of_the_legendarium) *Arvallen*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> có thể chứa *mallen* ("vàng") và có ý nghĩa tương tự. Nó có thể so sánh với <i><a class="mw-disambig" href="Argeleb_(disambiguation).md" title="Argeleb (disambiguation)">Argeleb</a></i> ("Chúa tể Bạc").
+*Araval* là [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được bóng bẩy. Nó có thể có nghĩa là "Vàng Vua"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> hoặc "Vua của Vàng".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Paul Strack giải thích rằng thành phần nội bộ trong tên của ông là [ara](Ara.md) ("cao quý") và thành phần cuối cùng của nó có thể là dạng [lenited](../L/Lenition.md) *val* của [malt](../M/Malt.md) ("vàng") (như được đề xuất bởi David Salo).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> [Tên trước đó](#Other_versions_of_the_legendarium) *Arvallen*<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> của ông có thể chứa *mallen* ("vàng") và có ý nghĩa tương tự. Nó có thể so sánh với <i><a class="mw-disambig" href="Argeleb_(disambiguation).md" title="Argeleb (disambiguation)">Argeleb</a></i> ("Chúa tể Bạc").
 
 ## Phả hệ {#Genealogy}
 
@@ -83,7 +83,7 @@ Araval cai trị Arthedain trong bảy mươi tám năm, và được con trai �
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một bản thảo khác, Araval được cho là đã đánh đuổi lũ ác quỷ về phía bắc. Tên ban đầu của Araval là *Arvallen*.<sup id="cite_ref-Elendil_2-3" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
+Trong một bản thảo khác, Araval được cho là đã xua đuổi lũ xác sống tà ác về phía bắc. Tên ban đầu của Araval là *Arvallen*.<sup id="cite_ref-Elendil_2-3" class="reference"><a href="#cite_note-Elendil-2">[2]</a></sup>
 
 <span></span>
 

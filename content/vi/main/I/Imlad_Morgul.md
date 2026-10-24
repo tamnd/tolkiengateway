@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Morgul Vale"
 ---
 
-Chuyển hướng tới [Thung lũng Morgul](../M/Morgul_Vale.md).
+Chuyển hướng đến [Thung lũng Morgul](../M/Morgul_Vale.md).

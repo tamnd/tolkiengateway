@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Arossiach"
 ---
 
-Chuyển hướng tới [Arossiach](../A/Arossiach.md).
+Chuyển hướng đến [Arossiach](../A/Arossiach.md).

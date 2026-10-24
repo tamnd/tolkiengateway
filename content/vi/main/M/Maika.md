@@ -22,7 +22,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [tiếng Sindarin](../S/Sindarin.md) *[maeg](Maeg.md)*<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
+- [Sindarin](../S/Sindarin.md) *[maeg](Maeg.md)*<sup id="cite_ref-SApp_1-1" class="reference"><a href="#cite_note-SApp-1">[1]</a></sup>
 
 <span></span>
 

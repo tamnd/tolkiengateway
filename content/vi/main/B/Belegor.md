@@ -40,7 +40,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Belegor là con trai thứ hai của [Boron](Boron.md) và là em trai của [Boromir](<Boromir_(Lord_of_Ladros).md>). Ông có thể truy tìm trực tiếp tổ tiên của mình đến [Bëor](Bëor.md), ông cố của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Belegor là con trai thứ hai của [Boron](Boron.md) và là em trai của [Boromir](<Boromir_(Lord_of_Ladros).md>). Ông ta có thể truy tìm trực tiếp tổ tiên của mình đến [Bëor](Bëor.md), ông cố của ông ta.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

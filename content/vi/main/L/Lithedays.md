@@ -25,7 +25,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the feast days of the <a href="../S/Shire_Calendar.md" title="Shire Calendar">Shire Calendar</a></b>. For the month in the <a href="../B/Bree_Calendar.md" title="Bree Calendar">Bree Calendar</a>, see <b><a href="Lithe.md" title="Lithe">Lithe</a></b>.</div></div>
 
-**Ngày Lithe** hay chỉ **Ngày Lithe** đề cập đến ba (đôi khi là bốn) ngày lễ giữa các tháng [Forelithe](../F/Forelithe.md) và [Afterlithe](../A/Afterlithe.md) của [Lịch Shire](../S/Shire_Calendar.md); về mục đích và chức năng, Lithedays tương đương với *[enderi](../E/Enderi.md)* của [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md).
+**Ngày Lithe** hay chỉ **Ngày Lithe** đề cập đến ba (đôi khi là bốn) ngày lễ giữa các tháng [Forelithe](../F/Forelithe.md) và [Afterlithe](../A/Afterlithe.md) của [Lịch Shire](../S/Shire_Calendar.md); về mục đích và chức năng, Lithedays tương đương với *[enderi](../E/Enderi.md)* của [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md).
 
 Họ là:
 
@@ -34,7 +34,7 @@ Họ là:
     - [Overlithe](../O/Overlithe.md) (chỉ quan sát được vào những năm nhuận)
 - 2 uyển chuyển
 
-Họ được gọi là [Summerdays](../S/Summerdays.md) ở [Bree](../B/Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Họ được gọi là [Những ngày hè](../S/Summerdays.md) ở [Bree](../B/Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Các sự kiện xảy ra trên 1 Lithe:
 
@@ -44,13 +44,13 @@ Các sự kiện xảy ra trên 1 Lithe:
     - [mặt trăng](../M/Moon.md) là "hình lưỡi liềm bạc rộng".
     - [Elrond](../E/Elrond.md) phát hiện ra [các chữ cái mặt trăng](../M/Moon-letters.md) trên [Bản đồ của Thrór](../T/Thrór's_Map.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Elrond](../E/Elrond.md), [Glorfindel](../G/Glorfindel.md), [Erestor](../E/Erestor.md), [Elladan](../E/Elladan.md), [Elrohir](../E/Elrohir.md), [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) đến cùng [Arwen](../A/Arwen.md) đến [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+    - [Elrond](../E/Elrond.md), [Glorfindel](../G/Glorfindel.md), [Erestor](../E/Erestor.md), [Elladan](../E/Elladan.md), [Elrohir](../E/Elrohir.md), [Celeborn](../C/Celeborn.md) và [Galadriel](../G/Galadriel.md) đến với [Arwen](../A/Arwen.md) đến [Minas Tirith](../M/Minas_Tirith.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Mỗi đêm giữa hè, [Old Took](../G/Gerontius_Took.md) tổ chức các bữa tiệc, trong đó [Gandalf](../G/Gandalf.md) gây ấn tượng với [hobbit](../H/Hobbits.md) bằng pháo hoa.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[Tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/li%C3%BEa" title="wiktionary:liþa">líða</a></i>, là tên cũ của tháng Sáu và tháng Bảy.<sup id="cite_ref-Nomen_5-0" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup> Nó có lẽ ám chỉ ngày trăng non đầu tiên vào khoảng ngày hạ chí.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+[tiếng Anh cổ](../O/Old_English.md) <i><a class="extiw" href="http://en.wiktionary.org/wiki/li%C3%BEa" title="wiktionary:liþa">líða</a></i>, là tên cũ của tháng Sáu và tháng Bảy.<sup id="cite_ref-Nomen_5-0" class="reference"><a href="#cite_note-Nomen-5">[5]</a></sup> Có lẽ nó ám chỉ ngày trăng non đầu tiên vào khoảng ngày hạ chí.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 <span></span>
 

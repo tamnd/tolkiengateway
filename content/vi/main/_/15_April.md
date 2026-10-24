@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 15 tháng 4.
 
 - **[1917](1917.md)** - Diễn viên lồng tiếng [Hans Conried](../H/Hans_Conried.md) ra đời.
 - **[1937](1937.md)** - Charles Furth viết [thư gửi J.R.R. Tolkien](<../L/Letter_to_Charles_Furth_(25_April_1937).md>).
-- **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giảng [W.P. Ker Bài giảng](../W/W.P._Ker_Lecture.md) tại Đại học Glasgow về chủ đề tôn giáo ngoại tình, cám dỗ và ăn năn trong <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Sir Gawain và Hiệp sĩ xanh</a></i>.
+- **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giảng [W.P. Ker Bài giảng](../W/W.P._Ker_Lecture.md) tại Đại học Glasgow về chủ đề tôn giáo ngoại tình, cám dỗ và ăn năn trong <i><a class="mw-redirect mw-disambig" href="../S/Sir_Gawain_and_the_Green_Knight.md" title="Sir Gawain and the Green Knight">Ngài Gawain và Hiệp sĩ xanh</a></i>.
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 143e](../L/Letter_143e.md).
 - **[1962](1962.md)** - Diễn viên lồng tiếng [Tom Kane](../T/Tom_Kane.md) ra đời.
 - **[1968](1968.md)** - Diễn viên [Richard Whiteside](../R/Richard_Whiteside.md) ra đời.
@@ -79,8 +79,8 @@ Sự kiện xảy ra vào ngày 15 tháng 4.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Trận chiến trên cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md):
-        - [Balchoth](../B/Balchoth.md) và một lượng lớn [Orc](../O/Orcs.md) tấn công đội quân kém hơn [Gondor](../G/Gondor.md) trên [Field of Celebrant](../F/Field_of_Celebrant.md).
-        - Mọi thứ dường như đã mất đối với Gondor cho đến khi [Éothéod](Éothéod.md) dưới sự lãnh đạo của [Eorl](../E/Eorl.md) đến trợ giúp.
+    - [Trận chiến trên Cánh đồng Celebrant](../B/Battle_of_the_Field_of_Celebrant.md):
+        - [Balchoth](../B/Balchoth.md) và một lượng lớn [Orc](../O/Orcs.md) tấn công máy chủ kém hơn của [Gondor](../G/Gondor.md) trên [Trường Celebrant](../F/Field_of_Celebrant.md).
+        - Tất cả dường như đã mất trong Gondor cho đến khi [Éothéod](Éothéod.md) dưới sự lãnh đạo của [Eorl](../E/Eorl.md) đến trợ giúp.
         - Cái chết của [Borondir Udalraph](../B/Borondir.md).
-        - Cùng với [Éothéod](Éothéod.md) [Gondor](../G/Gondor.md) giành chiến thắng và [Cirion](../C/Cirion.md), người quản lý của [Gondor](../G/Gondor.md), trao [Calenardhon](../C/Calenardhon.md) cho [Eorl](../E/Eorl.md) người sau này trở thành [Rohan](../R/Rohan.md).
+        - Cùng với [Éothéod](Éothéod.md) [Gondor](../G/Gondor.md) giành chiến thắng và [Cirion](../C/Cirion.md), người quản lý của [Gondor](../G/Gondor.md), trao [Calenardhon](../C/Calenardhon.md) cho [Eorl](../E/Eorl.md) trở thành [Rohan](../R/Rohan.md) sau này.

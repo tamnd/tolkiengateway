@@ -28,4 +28,4 @@ images:
 
 **Về dịch thơ** (đôi khi được gọi là *Essay on Translation of poetry*) là một tiểu luận chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nói về suy nghĩ của ông về dịch thơ. Viết năm 1963 sau khi đọc *Poems from the Old English* (1960) do Burton Raffel dịch.
 
-Các đoạn trích đã được xuất bản trên <a class="external text" href="https://www.tolkienestate.com/scholarship/j-r-r-tolkien-thoughts-on-translation-beowulf/" rel="noreferrer noopener" target="_blank">trang web Tolkien Estate</a> và trong *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* p. 770 ([2006](../_/2006.md)).
+Các trích đoạn đã được xuất bản trên <a class="external text" href="https://www.tolkienestate.com/scholarship/j-r-r-tolkien-thoughts-on-translation-beowulf/" rel="noreferrer noopener" target="_blank">Tolkien Estate trang web</a> và trong *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)* tr. 770 ([2006](../_/2006.md)).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven-rope"
 ---
 
-Chuyển hướng đến [Dây yêu tinh](Elven-rope.md).
+Chuyển hướng tới [Tiên-rope](Elven-rope.md).

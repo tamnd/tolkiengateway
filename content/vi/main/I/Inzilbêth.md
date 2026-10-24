@@ -66,13 +66,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cô là con gái của [Lindórië](../L/Lindórië.md), em gái của [Eärendur](<../E/Eärendur_(Lord_of_Andúnië).md>), [Lãnh chúa của Andúnië](../L/Lords_of_Andúnië.md) thứ mười lăm,<sup id="cite_ref-Akallabeth_2-0" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup> và là hậu duệ của [Tar-Calmacil](../T/Tar-Calmacil.md).<sup id="cite_ref-Ar-Gimilzor_3-0" class="reference"><a href="#cite_note-Ar-Gimilzor-3">[3]</a></sup>
+Cô là con gái của [Lindórië](../L/Lindórië.md), em gái của [Eärendur](<../E/Eärendur_(Lord_of_Andúnië).md>), [Lãnh chúa Andúnië](../L/Lords_of_Andúnië.md),<sup id="cite_ref-Akallabeth_2-0" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup> thứ mười lăm và là hậu duệ của [Tar-Calmacil](../T/Tar-Calmacil.md).<sup id="cite_ref-Ar-Gimilzor_3-0" class="reference"><a href="#cite_note-Ar-Gimilzor-3">[3]</a></sup>
 
-Gia đình cô [tín ngưỡng](../F/Faithful.md) và cô đã được mẹ dạy dỗ. Như vậy, khi [Ar-Gimilzôr](../A/Ar-Gimilzôr.md) ngỏ lời cầu hôn cô, cô đã từ chối nhưng Ar-Gimilzôr không cho phép từ chối mong muốn của anh.<sup id="cite_ref-Akallabeth_2-1" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup> Giữa Inzilbêth và chồng cô cũng như giữa các con trai của cô không có tình yêu. Con trai lớn của bà [Inziladûn](Inziladûn.md), người sẽ lấy tước hiệu hoàng gia là [Tar-Palantir](../T/Tar-Palantir.md), đã tuân theo lời dạy của bà thay vì của cha mình khi ông trở thành Vua của Númenor. Tuy nhiên, đứa con trai nhỏ [Gimilkhâd](../G/Gimilkhâd.md) của bà sẽ nối bước cha mình.<sup id="cite_ref-Akallabeth_2-2" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup><sup id="cite_ref-Ar-Gimilzor_3-1" class="reference"><a href="#cite_note-Ar-Gimilzor-3">[3]</a></sup>
+Gia đình cô [tín ngưỡng](../F/Faithful.md) và cô đã được mẹ dạy dỗ. Như vậy, khi [Ar-Gimilzôr](../A/Ar-Gimilzôr.md) ngỏ lời cầu hôn cô, cô đã từ chối nhưng Ar-Gimilzôr không cho phép từ chối mong muốn của anh.<sup id="cite_ref-Akallabeth_2-1" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup> Giữa Inzilbêth và chồng cô cũng như giữa các con trai của cô không có tình yêu. Con trai lớn của bà [Inziladûn](Inziladûn.md), người sẽ lấy tước hiệu hoàng gia [Tar-Palantir](../T/Tar-Palantir.md), đã làm theo lời dạy của bà thay vì của cha mình khi ông trở thành Vua của Númenor. Tuy nhiên, đứa con trai út của bà [Gimilkhâd](../G/Gimilkhâd.md) sẽ nối bước cha mình.<sup id="cite_ref-Akallabeth_2-2" class="reference"><a href="#cite_note-Akallabeth-2">[2]</a></sup><sup id="cite_ref-Ar-Gimilzor_3-1" class="reference"><a href="#cite_note-Ar-Gimilzor-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Inzilbêth* là tên [Adûnaic](../A/Adûnaic.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng nó có nghĩa là "Từ hoa" và là sự kết hợp của *[inzil](Inzil.md)* ("hoa") và *[bêth](../B/Bêth.md)* ("từ").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Inzilbêth* là tên [Adûnaic](../A/Adûnaic.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "Từ hoa" và là sự kết hợp của *[inzil](Inzil.md)* ("hoa") và *[bêth](../B/Bêth.md)* ("từ").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Calendar_of_Numenor_for_1978.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1e/The_Calendar_of_Numenor_for_1978.jpg/300px-The_Calendar_of_Numenor_for_1978.jpg" decoding="async" loading="lazy" width="300" height="226" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/1e/The_Calendar_of_Numenor_for_1978.jpg 1.5x" data-file-width="399" data-file-height="300"/></a><figcaption></figcaption></figure>
 
-**Lịch Numenor năm 1978** được sản xuất bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Permanent_Press&amp;action=edit&amp;redlink=1" title="Permanent Press (page does not exist)">Permanent Press</a>, một bộ phận của [Thorin and Co.](Thorin_and_Co..md). Các hình minh họa đen trắng được tạo ra bởi tám nghệ sĩ khác nhau.
+**Lịch Numenor năm 1978** được sản xuất bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Permanent_Press&amp;action=edit&amp;redlink=1" title="Permanent Press (page does not exist)">Permanent Press</a>, một bộ phận của [Thorin và Co.](Thorin_and_Co..md). Các hình minh họa đen trắng được tạo ra bởi tám nghệ sĩ khác nhau.
 
 - Kích thước: 11 x 8,5 inch
 - Dập ghim khi gập

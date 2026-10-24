@@ -25,11 +25,11 @@ langlinks:
     url: "https://kontu.wiki/Postimestari"
 ---
 
-**Người quản lý bưu điện** của [the Shire](../T/The_Shire.md) là người đứng đầu [Dịch vụ đưa tin](../M/Messenger_Service.md). Văn phòng trực thuộc [Chức thị trưởng của Michel Delving](../M/Mayor_of_Michel_Delving.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Người quản lý bưu điện** của [ Shire](../T/The_Shire.md) là người đứng đầu [Dịch vụ tin nhắn](../M/Messenger_Service.md). Văn phòng trực thuộc [Chức thị trưởng của Michel Delving](../M/Mayor_of_Michel_Delving.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Position is occupied by &#34;Postmaster Proudfoot&#34;, who is found in <a href="../M/Michel_Delving.md" title="Michel Delving">Michel Delving</a> appropriately right next to <a href="../M/Mayor_of_Michel_Delving.md" title="Mayor of Michel Delving">Mayor</a> <a href="../W/Will_Whitfoot.md" title="Will Whitfoot">Will Whitfoot</a> and is involved in multiple quests involving the services of the <a href="../Q/Quick_Post.md" title="Quick Post">Quick Post</a>.</dd></dl>
 

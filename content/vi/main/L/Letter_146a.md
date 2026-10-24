@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong một bức thư gửi cho nhà xuất bản [Allen & Unwin](../A/Allen_&_Unwin.md) của mình, Tolkien giải quyết các thắc mắc của người đọc về bằng chứng của *[The Two Towers](../T/The_Two_Towers.md)*. Tolkien bày tỏ lòng biết ơn và sự ngạc nhiên trước sự chú ý tỉ mỉ đến từng chi tiết và cách diễn đạt của câu chuyện của người đọc. Ông lưu ý rằng ông đã chấp nhận gần như tất cả các thay đổi được đề xuất, bao gồm cả việc thay thế "thuốc lá" bằng "[cỏ tẩu](../P/Pipe-weed.md)". <br>
+Trong một bức thư gửi nhà xuất bản [Allen &amp; Unwin](../A/Allen_&_Unwin.md) của mình, Tolkien giải quyết các thắc mắc của người đọc đầu về bằng chứng của *[The Two Towers](../T/The_Two_Towers.md)*. Tolkien bày tỏ lòng biết ơn và sự ngạc nhiên trước sự chú ý tỉ mỉ đến từng chi tiết và cách diễn đạt của câu chuyện của người đọc. Ông lưu ý rằng ông đã chấp nhận gần như tất cả các thay đổi được đề xuất, bao gồm cả việc thay thế "thuốc lá" bằng "[cỏ tẩu](../P/Pipe-weed.md)". <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

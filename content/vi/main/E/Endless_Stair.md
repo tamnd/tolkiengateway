@@ -28,9 +28,9 @@ images:
   - "The_Lord_of_the_Rings_Online_-_Endless_Stair.jpg"
 ---
 
-**Cầu thang vô tận** là cầu thang quanh co dẫn từ sảnh sâu nhất của [Khazad-dûm](../M/Moria.md) lên tới [Tháp Durin](../D/Durin's_Tower.md) trên đỉnh [Celebdil](../C/Celebdil.md). Nó cực kỳ dài nên mới có tên như vậy.
+**Cầu thang vô tận** là cầu thang quanh co dẫn từ các sảnh sâu nhất của [Khazad-dûm](../M/Moria.md) lên tới [Tháp Durin](../D/Durin's_Tower.md) trên đỉnh [Celebdil](../C/Celebdil.md). Nó cực kỳ dài nên mới có tên như vậy.
 
-Vào cuối [Kỷ thứ ba](../T/Third_Age.md), người ta cho rằng nó đã bị mất hoặc bị phá hủy, thậm chí một số [Người lùn](../D/Dwarves.md) còn cho rằng nó là huyền thoại. [Gandalf](../G/Gandalf.md) đã chứng minh điều đó không phải như vậy khi anh truy đuổi [Durin's Bane](../D/Durin's_Bane.md) lên đến đỉnh, nhưng trong [trận chiến](../B/Battle_of_the_Peak.md) tòa tháp đã sụp đổ và lối vào cầu thang bị phá hủy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), người ta cho rằng nó đã bị mất hoặc bị phá hủy, thậm chí một số [Người Lùn](../D/Dwarves.md) còn cho rằng nó là huyền thoại. [Gandalf](../G/Gandalf.md) đã chứng minh điều đó không phải như vậy khi anh truy đuổi [Tai họa của Durin](../D/Durin's_Bane.md) lên đến đỉnh, nhưng trong [trận chiến](../B/Battle_of_the_Peak.md) tòa tháp đã bị đổ và lối vào cầu thang bị phá hủy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -46,7 +46,7 @@ Vào cuối [Kỷ thứ ba](../T/Third_Age.md), người ta cho rằng nó đã 
 		</li>
 </ul>
 
-<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2008: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Endless Stair can be observed from many locations within <a href="../M/Moria.md" title="Moria">Moria</a>, creating an appearance of various altitude levels on the geometrically flat game environment. Players can access the bottom of the Stair in the Foundations of Stone and climb several flights, only to find the further passage blocked by the destruction left in the Balrog&#39;s wake.</dd></dl>
 

@@ -74,9 +74,9 @@ Sự kiện xảy ra vào ngày 9 tháng 2.
 - **[1972](1972.md)** - Diễn viên lồng tiếng [Crispin Freeman](../C/Crispin_Freeman.md) ra đời.
 - **[1980](1980.md)** - Diễn viên lồng tiếng [Heron Carvic](../H/Heron_Carvic.md) qua đời.
 - **[1991](1991.md)** - Cuộc họp chính thức đầu tiên của [Sociedad Tolkien Española](../S/Sociedad_Tolkien_Española.md).
-- **[2008](2008.md)** - hội thảo "C.S. Lewis, Inklings, và Lời kêu gọi đến Cộng đồng Cơ đốc giáo", có sự tham gia của [Tom Shippey](../T/Tom_Shippey.md).
+- **[2008](2008.md)** - hội nghị "C.S. Lewis, Inklings và Lời kêu gọi đến với Cộng đồng Kitô giáo", có [Tom Shippey](../T/Tom_Shippey.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Nhóm [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) nằm ở [Lothlórien](../L/Lothlórien.md).
+    - [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nằm trong [Lothlórien](../L/Lothlórien.md).

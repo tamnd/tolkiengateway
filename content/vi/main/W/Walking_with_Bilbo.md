@@ -33,7 +33,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Walking_with_Bilbo.jpg.md"><img src="https://tolkiengateway.net/w/images/6/6f/Walking_with_Bilbo.jpg" decoding="async" loading="lazy" width="250" height="400" class="mw-file-element" data-file-width="250" data-file-height="400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Walking with Bilbo:<br/><small>A Devotional Adventure Through The Hobbit</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Sarah Arthur</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Tyndale House Publishers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">February <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">224</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1414301316" title="Special:BookSources/1414301316">1414301316</a></td></tr></tbody></table>
 
-**Đi dạo cùng Bilbo** là một cuốn sách tôn sùng của Sarah Arthur.
+**Đi cùng Bilbo** là một cuốn sách tâm linh của Sarah Arthur.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

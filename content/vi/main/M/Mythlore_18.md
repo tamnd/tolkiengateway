@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_18.gif.md"><img src="https://tolkiengateway.net/w/images/b/b0/Mythlore_18.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 18</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gracia Fay Ellwood</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_17.md" title="Mythlore 17">Mythlore 17</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_19.md" title="Mythlore 19">Mythlore 19</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 18</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol5/iss2/" rel="noreferrer noopener" target="_blank">Tập 5, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
+<b><i>Mythlore</i> 18</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol5/iss2/" rel="noreferrer noopener" target="_blank">Tập 5, Số 2</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -59,7 +59,7 @@ infobox:
 
 - Thư. 25+.
 - Colvin, George. “Good Work — and Great Fun.” Review of Middle Earth (game). 30-31.
-- Patterson, Nancy-Lou. “Sarehole to Shire: Tolkien dứt khoát.” Đánh giá *J.R.R. Tolkien: A Biography* của Humphrey Carpenter; *Niềm khao khát một hình thức: Tiểu luận về tiểu thuyết C.S. Lewis*, do Peter J. Schakel biên tập. 31-33.
+- Patterson, Nancy-Lou. “Sarehole tới Shire: Sự dứt khoát Tolkien.” Đánh giá của *J.R.R. Tolkien: A Biography* bởi Humphrey Carpenter; *Khát khao một hình thức: Tiểu luận về tiểu thuyết C.S. Lewis*, do Peter J. Schakel biên tập. 31-33.
 - Speth, Lee. “Review.” Review of *Wonderful Wizard, Marvelous Land* by Raylyn Moore. 33, 36, 46.
 - Ellwood, Gracia Fay. Biên tập. 38+.
 - Christopher, Joe R. “An Inklings Bibliography (7).” 43-46.
@@ -78,7 +78,7 @@ infobox:
 - Bonnie GoodKnight: 11, 24, 27, 39
 - Annette Harper: bìa, 12, 32
 - Mary Ann Hodge: 46; Thư pháp: 6
-- Michael Logan: 30
+- Michael quả nhãn: 30
 - R. Patrick McCabe: 20, 34, bìa sau
 - Thadara Ottobris: 16, 17, 18, 31, 38, 40
 - Diana Paxson: 25, 26, 42

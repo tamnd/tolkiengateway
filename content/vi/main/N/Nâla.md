@@ -15,7 +15,7 @@ sort_keys:
   "Khuzdul words": "Nala"
 ---
 
-<i><b>nâla</b></i> là một từ [Khuzdul](../K/Khuzdul.md). Trong một trường hợp, [Tolkien](../J/J.R.R._Tolkien.md) dịch *nâla* là "kênh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó, ông nói rằng không rõ nghĩa nhưng gợi ý rằng nó có thể có nghĩa là "con đường, hướng đi, dòng sông hoặc lòng sông", một nghĩa mà nó sẽ chia sẻ với [Sindarin](../S/Sindarin.md) *[rant](../R/Rant.md)* của *[Celebrant](../C/Celebrant.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>nâla</b></i> là một từ [Khuzdul](../K/Khuzdul.md). Trong một trường hợp, [Tolkien](../J/J.R.R._Tolkien.md) dịch *nâla* là "kênh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó ông ta nói rằng ý nghĩa đó chưa được biết nhưng gợi ý rằng nó có thể có nghĩa là "con đường, hướng đi, dòng sông hoặc lòng sông", một ý nghĩa mà nó sẽ chia sẻ với [Sindarin](../S/Sindarin.md) *[rant](../R/Rant.md)* của *[Celebrant](../C/Celebrant.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

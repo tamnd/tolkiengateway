@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen244.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/69/AmonHen244.png/320px-AmonHen244.png" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/69/AmonHen244.png/480px-AmonHen244.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/69/AmonHen244.png/640px-AmonHen244.png 2x" data-file-width="1381" data-file-height="1953"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 244</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_243.md" title="Amon Hen 243">Amon Hen 243</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_245.md" title="Amon Hen 245">Amon Hen 245</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 244</b> là số thứ 244 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [2013](../_/2013.md).
+<b><i>Amon Hen</i> 244</b> là số thứ 244 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 11 [2013](../_/2013.md).
 
 ## Nội dung {#Contents}
 
@@ -61,17 +61,17 @@ infobox:
     - Bởi: Lynn Forest-Hill
 - Tất cả Bran
     - Bởi: Ian Spittlehouse
-- The Burning Palantír 4
+- Sự đốt cháy Palantír 4
     - Bởi: Ian Collier
 - Báo cáo: Oxonmoot 2013
     - Bởi: Juan Manuel Grijalvo
 - Báo cáo: Oxonmoot 2013
     - Bởi: Maggie Bailey
-- Isengard nướng bánh
+- Isengard Nướng bánh
     - Bởi: Sunny Solomons
-- Báo cáo: Đường lên núi mù sương
+- Báo cáo: Đường tới Dãy Núi Sương Mù
     - Bởi: [Alex Lewis](Alex_Lewis.md)
-- Báo cáo: Bài giảng Bóng dáng quá khứ
+- Báo cáo: Bóng Tối của bài giảng trước đây
     - Bởi: Jessica Yates
 - Báo cáo: Hình ảnh này: Ấn bản minh họa kinh điển dành cho trẻ em
     - Bởi: Jessica Yates
@@ -92,13 +92,13 @@ infobox:
     - Bởi: Carol Brownlow
 - Toán học
     - Bởi: Jan Boom
-- Những nụ cười của Hiệp hội Tolkien: Những nụ cười ở Anh
-- Đoạn cắt của Christopher
+- Những nụ cười của Hội Tolkien: Những nụ cười ở Anh
+Đoạn cắt của - Christopher
     - Bởi: Christopher Kreuzer
 - Thành viên mới
 - Hồ sơ thành viên
     - Bởi: Liz Lock
-- Ngày ghi nhật ký của bạn
+- Ngày cho Nhật ký của bạn
 - Tác phẩm nghệ thuật: *Goblins*
     - Bởi: Jef Murray
 - Ủy ban

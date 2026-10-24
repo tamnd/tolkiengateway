@@ -20,11 +20,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>a river in the early legendarium</b>. For the Sindarin word, see <b><a href="Nen.md" title="Nen">nen</a></b>.</div></div>
 
-**Nen** là tên của một con sông lớn ở [Valinor](../V/Valinor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) liên quan đến *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin nào khác về nó, cũng như không có con sông tương đương trong huyền thoại sau này.
+**Nen** là tên của một con sông lớn [Valinor](../V/Valinor.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin nào khác về nó, cũng như không có con sông tương đương trong huyền thoại sau này.
 
 ## Từ nguyên {#Etymology}
 
-Tên *Nen* ở [Qenya](../Q/Qenya.md). Có nghĩa là “sông, nước”.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Nen* nằm trong [Qenya](../Q/Qenya.md). Có nghĩa là “sông, nước”.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)* xuất hiện [gốc](../R/Root.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=NENE&amp;action=edit&amp;redlink=1" title="NENE (page does not exist)">NENE</a> ("dòng chảy?"), từ đó bắt nguồn từ *nen*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

@@ -68,9 +68,9 @@ Sự kiện xảy ra vào ngày 11 tháng 12
 
 - **[1955](1955.md)** - Tập thứ năm của [loạt phim phát thanh năm 1955](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* phát sóng trên Chương trình thứ ba [BBC](../B/BBC.md).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho George và Moira Sayer](<../L/Letter_to_George_and_Moira_Sayer_(11_December_1971).md>).
-- **[2014](2014.md)** - <b><i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i> được phát hành tại New Zealand.</b>
+- **[2014](2014.md)** - <b><i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i> được phát hành vào New Zealand.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

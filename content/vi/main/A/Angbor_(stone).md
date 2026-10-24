@@ -18,15 +18,15 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the stone within the <a class="new" href="https://tolkiengateway.net/w/index.php?title=Moot-ring&amp;action=edit&amp;redlink=1" title="Moot-ring (page does not exist)">Moot-ring</a> of the <a class="mw-redirect" href="../F/Forest_of_Brethil.md" title="Forest of Brethil">Forest of Brethil</a></b>. For the lord in the <a href="../T/Third_Age.md" title="Third Age">Third Age</a>, see <b><a href="Angbor.md" title="Angbor">Angbor</a></b>.</div></div>
 
-**Angbor** hay **Doom-rock** là một tảng đá phẳng lớn trong [Rừng Brethil](../F/Forest_of_Brethil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Angbor** hay **Doom-rock** là một tảng đá phẳng lớn ở [Khu rừng Brethil](../F/Forest_of_Brethil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Angbor là một hòn đá nằm ở trung tâm của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Moot-ring&amp;action=edit&amp;redlink=1" title="Moot-ring (page does not exist)">Vòng tranh luận</a>, nơi [Haladin](../H/Haladin.md) tổ chức <a class="new" href="https://tolkiengateway.net/w/index.php?title=Folkmoot_for_Judgment&amp;action=edit&amp;redlink=1" title="Folkmoot for Judgment (page does not exist)">các cuộc họp</a> phán xét. Trong những cuộc gặp gỡ này, [Halad](../H/Halad.md) sẽ ngồi trên chính hòn đá. Trong phiên tòa xét xử [Húrin](../H/Húrin.md) về tội tấn công Halad, cuộc họp đã biến thành một cuộc bạo loạn, phần lớn chấm dứt sự tồn tại của Haladin như một dân tộc gắn kết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Angbor là một hòn đá nằm ở trung tâm của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Moot-ring&amp;action=edit&amp;redlink=1" title="Moot-ring (page does not exist)">Vòng tranh luận</a>, nơi [Haladin](../H/Haladin.md) tổ chức <a class="new" href="https://tolkiengateway.net/w/index.php?title=Folkmoot_for_Judgment&amp;action=edit&amp;redlink=1" title="Folkmoot for Judgment (page does not exist)">các cuộc họp</a> phán xét. Trong những cuộc gặp gỡ này, [Halad](../H/Halad.md) sẽ ngồi trên chính hòn đá. Trong phiên tòa xét xử [Húrin](../H/Húrin.md) về tội tấn công Halad, cuộc họp đã trở thành một cuộc bạo loạn, phần lớn chấm dứt sự tồn tại của Haladin như một dân tộc gắn kết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Hòn đá Erech](../S/Stone_of_Erech.md)
+- [Tảng đá Erech](../S/Stone_of_Erech.md)
 
 <br> <span></span>
 

@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Michael không khỏe vì cảm lạnh và phải nằm trên giường, Tolkien nói rằng đây là "nơi tốt nhất để trị cảm lạnh" và sau đó tiếp tục xin lỗi vì đã bỏ qua việc gửi thêm thư gần đây. Ông nói rằng ông rất bận rộn nhưng hy vọng Michael sẽ tận hưởng năm cuối cùng ở trường cùng với bạn bè, bất chấp cái bóng của kỳ thi vào tháng Bảy.
+Michael không khỏe vì bị cảm và phải nằm trên giường, Tolkien nói rằng đây là "nơi tốt nhất để bị cảm" và sau đó tiếp tục xin lỗi vì đã bỏ bê việc gửi nhiều thư gần đây. Cậu ấy nói rằng mình rất bận nhưng hy vọng Michael sẽ được tận hưởng năm cuối cùng ở trường cùng bạn bè, bất chấp bóng đen của kỳ thi vào tháng Bảy.
 
-Tolkien đề cập đến việc đi du lịch đến Scotland vào đầu tuần tới để giảng một bài giảng mà ông vẫn chưa viết, nhưng kết thúc bằng việc nói rằng ông hy vọng Michael sẽ sớm khỏe lại và cảm thấy tốt hơn.
+Tolkien đề cập đến việc đi du lịch đến Scotland vào đầu tuần tới để giảng bài mà ông chưa viết, nhưng kết thúc bằng việc nói rằng ông hy vọng Michael sẽ sớm khỏe lại và cảm thấy khỏe hơn.
 
 <br>
 

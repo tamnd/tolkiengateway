@@ -31,4 +31,4 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.tolkiensociety.org/society/events/oxonmoot/" rel="noreferrer noopener" target="_blank">Trang web Oxonmoot</a>
-- <a class="external text" href="http://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">Trang web của Hiệp hội Tolkien</a>
+- <a class="external text" href="http://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">Hội Tolkien trang web</a>

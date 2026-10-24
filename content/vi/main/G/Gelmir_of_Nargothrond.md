@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gelmir (son of Guilin)"
 ---
 
-Chuyển hướng tới [Gelmir (con trai Quế Lâm)](<Gelmir_(son_of_Guilin).md>).
+Chuyển hướng đến [Gelmir (con trai Quế Lâm)](<Gelmir_(son_of_Guilin).md>).

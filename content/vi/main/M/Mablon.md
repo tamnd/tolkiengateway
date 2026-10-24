@@ -14,7 +14,7 @@ categories:
   - "Ilkorindi"
 ---
 
-**Mablon** Ilkorin là một [Yêu tinh](../E/Elf.md) của [Ngày của Người cao tuổi](../E/Elder_Days.md). Ông ta được ghi nhận vì sự hy sinh quên mình trong [Trận chiến của những giọt nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md) khi ông ta thách thức một loạt [Balrogs](../B/Balrogs.md) để cứu những người còn lại của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mablon** Ilkorin là một [Tiên](../E/Elf.md) của [Ngày của người cao tuổi](../E/Elder_Days.md). Ông ta được ghi nhận vì sự hy sinh quên mình trong [Trận chiến của những giọt nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md) khi ông ta thách thức một đội quân [Balrog](../B/Balrogs.md) để cứu những người còn lại của mình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

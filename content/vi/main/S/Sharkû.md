@@ -19,7 +19,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>an <a href="../O/Orkish.md" title="Orkish">Orkish</a> word</b>. For the orc from <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>, see <b><a href="Sharku.md" title="Sharku">Sharku</a></b>.</div></div>
 
-<i><b>sharkû</b></i> là một từ [tiếng Ork](../O/Orkish.md) có nghĩa là "ông già".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Được sửa đổi để phù hợp với [Ngôn ngữ chung](../W/Westron.md) (và được Anh hóa trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*), nó được hiển thị là "[Sharkey](Sharkey.md)", được sử dụng bởi [Orc](../O/Orcs.md) và [Những người đàn ông](../M/Men.md) của [Isengard](../I/Isengard.md) là biệt danh dành cho thủ lĩnh của họ, [Pháp sư](../W/Wizards.md) [Saruman](Saruman.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+<i><b>sharkû</b></i> là một từ [tiếng Orkish](../O/Orkish.md) có nghĩa là "ông già".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> Được sửa đổi để phù hợp với [Ngôn ngữ Chung](../W/Westron.md) (và được Anh hóa trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*), nó được hiển thị là "[Sharkey](Sharkey.md)", được sử dụng bởi [Orc](../O/Orcs.md) và [Con Người](../M/Men.md) của [Isengard](../I/Isengard.md) làm biệt danh cho thủ lĩnh của họ, người [Pháp sư](../W/Wizards.md) [Saruman](Saruman.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -28,7 +28,7 @@ Andreas Möhn đã gợi ý rằng *sharkû* có thể bắt nguồn từ [Manni
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a> đã sử dụng biểu mẫu <i>sharkú</i> trong <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">Hướng dẫn đầy đủ về Trung Địa</a></i> của mình (xem mục về <i>Cá mập</i>).</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a href="../R/Robert_Foster.md" title="Robert Foster">Robert Foster</a> đã sử dụng biểu mẫu <i>sharkú</i> trong <i><a href="../T/The_Complete_Guide_to_Middle-earth.md" title="The Complete Guide to Middle-earth">Hướng dẫn đầy đủ về Trung Địa</a></i> của mình (xem mục dành cho <i>Sharkey</i>).</span>
 </li>
 </ol></div></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Legolas/Disputes"
 ---
 
-Chuyển hướng tới [Legolas/Tranh chấp](Legolas%252FDisputes.md).
+Chuyển hướng đến [Legolas/Tranh chấp](Legolas%252FDisputes.md).

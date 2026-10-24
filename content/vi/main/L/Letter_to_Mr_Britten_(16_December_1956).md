@@ -20,8 +20,8 @@ images:
 
 Vào [5 tháng 12](../_/5_December.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho ông Britten**.<sup id="cite_ref-TS_1-0" class="reference"><a href="#cite_note-TS-1">[1]</a></sup><sup id="cite_ref-BBC_2-0" class="reference"><a href="#cite_note-BBC-2">[2]</a></sup>
 
-- **Nội dung:** Trong thư, Tolkien dường như chủ yếu thảo luận về bức chân dung tại <a class="extiw" href="http://en.wikipedia.org/wiki/King%27s_College,_Cambridge" title="wikipedia:King&#39;s College, Cambridge">King's College</a>, [Cambridge](../C/Cambridge.md).<sup id="cite_ref-TS_1-1" class="reference"><a href="#cite_note-TS-1">[1]</a></sup><sup id="cite_ref-BBC_2-1" class="reference"><a href="#cite_note-BBC-2">[2]</a></sup>
-- **Mô tả:** Thư viết tay, một trang.<sup id="cite_ref-TS_1-2" class="reference"><a href="#cite_note-TS-1">[1]</a></sup><sup id="cite_ref-BBC_2-2" class="reference"><a href="#cite_note-BBC-2">[2]</a></sup>
+- **Nội dung:** Trong thư, Tolkien dường như chủ yếu thảo luận về bức chân dung tại trường <a class="extiw" href="http://en.wikipedia.org/wiki/King%27s_College,_Cambridge" title="wikipedia:King&#39;s College, Cambridge">Vua's College</a>, [Cambridge](../C/Cambridge.md).<sup id="cite_ref-TS_1-1" class="reference"><a href="#cite_note-TS-1">[1]</a></sup><sup id="cite_ref-BBC_2-1" class="reference"><a href="#cite_note-BBC-2">[2]</a></sup>
+- **Mô tả:** Thư viết tay một trang.<sup id="cite_ref-TS_1-2" class="reference"><a href="#cite_note-TS-1">[1]</a></sup><sup id="cite_ref-BBC_2-2" class="reference"><a href="#cite_note-BBC-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

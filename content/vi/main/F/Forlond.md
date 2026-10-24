@@ -33,11 +33,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Harbour</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Forlond</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../L/Lindon.md" title="Lindon">Lindon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Harbour</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../E/Elves_of_Lindon.md" title="Elves of Lindon">Elves of Lindon</a></td></tr></tbody></table>
 
-**Forlond** là một bến cảng nằm trên bờ phía bắc của [Vịnh Lune](../G/Gulf_of_Lune.md), ở vùng đất [Elvish](../E/Elves.md) của [Forlindon](Forlindon.md). Nó có một bản sao ở bờ phía nam: [Harlond](<../H/Harlond_(Lindon).md>).
+**Forlond** là một bến cảng nằm trên bờ phía bắc của [Vịnh Lune](../G/Gulf_of_Lune.md), trên vùng đất [Elvish](../E/Elves.md) của [Forlindon](Forlindon.md). Nó có một bản sao ở bờ phía nam: [Harlond](<../H/Harlond_(Lindon).md>).
 
-Forlond nằm ở cửa của một con sông không tên chảy qua Forlindon, cách [Grey Havens](../G/Grey_Havens.md) khoảng 200 dặm về phía tây bắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Forlond nằm ở cửa một con sông không tên chảy qua Forlindon, cách [Cảng Xám](../G/Grey_Havens.md) khoảng 200 dặm về phía tây bắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Khi các con tàu của [Gondorian](../G/Gondorians.md) tướng [Eärnur](../E/Eärnur.md) đến [Lindon](../L/Lindon.md) trong [Chiến tranh Angmar](../A/Angmar_War.md), người ta kể rằng họ đã tràn ngập Forlond, Harlond và [Grey Havens](../G/Grey_Havens.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi tàu của [Gondor](../G/Gondorians.md) tướng [Eärnur](../E/Eärnur.md) đến [Lindon](../L/Lindon.md) trong [Cuộc chiến Angmar](../A/Angmar_War.md), người ta kể rằng họ đã lấp đầy Forlond, Harlond và [Cảng Xám](../G/Grey_Havens.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -45,7 +45,7 @@ Theo [Robert Foster](../R/Robert_Foster.md), *Forlond* là tên [Sindarin](../S/
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng trên [Bản đồ đầu tiên của Chúa tể những chiếc nhẫn](../T/The_First_Map_of_The_Lord_of_the_Rings.md) là *Forlorn*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tên được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng trên [Bản đồ đầu tiên của The Lord of the Rings](../T/The_First_Map_of_The_Lord_of_the_Rings.md) là *Forlorn*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -19,7 +19,7 @@ sort_keys:
   "The Tolkien Society": "Tolkien Society Bulletin, The"
 ---
 
-<i><b>Bản tin của Hiệp hội Tolkien</b></i> là bản tin đầu tiên của [Bản tin của Hiệp hội Tolkien](The_Tolkien_Society.md). Cả bốn số đều do Phil Spencer biên tập. Tiếp theo là *[Andúril](<../A/Andúril_(UK).md>)*, tiền thân của *[Amon Hen](../A/Amon_Hen.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Hội Tolkien Bản tin</b></i> là bản tin đầu tiên của [Hội Tolkien](The_Tolkien_Society.md). Cả bốn số đều do Phil Spencer biên tập. Tiếp theo là *[Andúril](<../A/Andúril_(UK).md>)*, tiền thân của *[Amon Hen](../A/Amon_Hen.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Vấn đề {#Issues}
 
@@ -27,7 +27,7 @@ sort_keys:
 
 - Xuất bản: Tháng 10 [1970](../_/1970.md)
 
-### *Bản tin của Hiệp hội Tolkien*2 {#The_Tolkien_Society_Bulletin2}
+### *Hội Tolkien Bản tin*2 {#The_Tolkien_Society_Bulletin2}
 
 - Xuất bản: Tháng 11 năm 1970
 

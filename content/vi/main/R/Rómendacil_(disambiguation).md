@@ -27,7 +27,7 @@ images:
   - "Disambig.png"
 ---
 
-**Rómendacil**, [Quenya](../Q/Quenya.md) nghĩa là "Người chiến thắng phía Đông", có thể ám chỉ hai vị vua [Gondorian](../G/Gondorians.md):
+**Rómendacil**, [Quenya](../Q/Quenya.md) nghĩa là "phương Đông-victor", có thể ám chỉ hai vị vua [Gondor](../G/Gondorians.md):
 
 - [Rómendacil I](Rómendacil_I.md) ([T.A.](../T/Third_Age.md) [310](../T/Third_Age_310.md) - [541](../T/Third_Age_541.md)), sinh ra [Tarostar](../T/Tarostar.md), [Vua](../K/Kings_of_Gondor.md) thứ tám của [Gondor](../G/Gondor.md).
 - [Rómendacil II](Rómendacil_II.md) ([T.A.](../T/Third_Age.md) [1126](../T/Third_Age_1126.md) - [1366](../T/Third_Age_1366.md)), sinh ra [Minalcar](../M/Minalcar.md), [Vua](../K/Kings_of_Gondor.md) thứ mười chín của [Gondor](../G/Gondor.md).

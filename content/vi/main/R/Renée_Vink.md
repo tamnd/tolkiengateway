@@ -42,9 +42,9 @@ Ngoài việc dịch sách, cô còn là một dịch giả đàm thoại với 
 - [1990](../_/1990.md): *[Elrond's Holy Round Table](../E/Elrond's_Holy_Round_Table.md)*
     - "Bức tranh không khung"
     - "Hình ảnh của Người sáng tạo"
-- [1994](../_/1994.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lembas_Extra_1993/1994&amp;action=edit&amp;redlink=1" title="Lembas Extra 1993/1994 (page does not exist)"><i>Lembas Extra</i> 1993/1994</a>
+- [1994](../_/1994.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lembas_Extra_1993/1994&amp;action=edit&amp;redlink=1" title="Lembas Extra 1993/1994 (page does not exist)"><i>Lembas Thêm</i> 1993/1994</a>
     - "Những rắc rối dịch thuật của một tác giả"
-- [2004](../_/2004.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lembas_Extra_2004&amp;action=edit&amp;redlink=1" title="Lembas Extra 2004 (page does not exist)"><i>Lembas bổ sung</i> 2004</a>
+- [2004](../_/2004.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Lembas_Extra_2004&amp;action=edit&amp;redlink=1" title="Lembas Extra 2004 (page does not exist)"><i>Lembas Bổ sung</i> 2004</a>
     - "Tin Mừng Người Phụ Nữ Thông Thái"
 - [2008](../_/2008.md): *[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference](../T/The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md)*
     - "Sự bất tử và cái chết của tình yêu: J.R.R Tolkien và Simone de Beauvoir"
@@ -52,19 +52,19 @@ Ngoài việc dịch sách, cô còn là một dịch giả đàm thoại với 
     - "In de Ban van de Ring - Những kiểu dịch thuật cũ và mới"
 - [2009](../_/2009.md): *[Tolkien in Poetry and Song](../T/Tolkien_in_Poetry_and_Song.md)*
     - "Tên của cái cây - Thần thoại và Khu vườn Proserpina"
-    - "A Fading Voice – một bài hát của Maglor" (thơ)
+    - "Một giọng nói nhạt dần – một bài hát Maglor" (thơ)
 - [2011](../_/2011.md): [*Lembas Extra* 2011](../L/Lembas_Extra_2011.md)
     - "Tolkien đấu với Wagner"
 - [2012](../_/2012.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_8&amp;action=edit&amp;redlink=1" title="Hither Shore 8 (page does not exist)"><i>Bờ này</i> 8</a>
-    - "Mặt trời sắp tàn - Chiếc nhẫn của Wagner và Truyền thuyết về Tolkien"
+    - "Cái chết Mặt Trời - Chiếc nhẫn của Wagner và Truyền thuyết về Tolkien"
 - [2012](../_/2012.md): [*Lembas Extra* 2012](../L/Lembas_Extra_2012.md)
     - "Nguồn gốc của Gil-galad - lịch sử văn bản"
 - [2013](../_/2013.md): [*Tolkien Studies*: Tập 10](../T/Tolkien_Studies%253A_Volume_10.md)
-    - "Người lùn 'Do Thái': Tolkien và khuôn mẫu bài Do Thái"
+    - "'Do Thái' Người Lùn: Tolkien và định kiến bài Do Thái"
 - [2014](../_/2014.md): <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hither_Shore_10&amp;action=edit&amp;redlink=1" title="Hither Shore 10 (page does not exist)"><i>Bờ này</i> 10</a>
     - "Người hâm mộ tiểu thuyết là lời phê bình"
-- 2015: Bổ đề 169:
-    - Tolkien ở Zuid-Afrika.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- 2015: Lembas 169:
+    - Tolkien ở Zuid-Châu Phi.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - [2019](../_/2019.md): *[Music in Tolkien's Work and Beyond](../M/Music_in_Tolkien's_Work_and_Beyond.md)*
     - "Vũ điệu và bài hát: 'The Lay of Leithian' giữa 'The Tale of Tinúviel' và 'Of Beren and Lúthien'"
 - [2019](../_/2019.md): *[Sub-creating Arda](../S/Sub-creating_Arda.md)*

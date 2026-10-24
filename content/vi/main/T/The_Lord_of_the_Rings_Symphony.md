@@ -17,7 +17,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the work by Howard Shore</b>. For the work by Johann de Meij, see <b><a href="../S/Symphony_No._1,_%2522The_Lord_of_the_Rings%2522.md" title="Symphony No. 1, &#34;The Lord of the Rings&#34;">Symphony No. 1, &#34;The Lord of the Rings&#34;</a></b>.</div></div>
 
-Sau khi [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>) ra rạp, [Howard Shore](../H/Howard_Shore.md) đã làm lại điểm phim của bộ ba thành một tác phẩm sáu chương có cấu trúc chặt chẽ hơn dành cho dàn nhạc và dàn hợp xướng, có tựa đề đại khái là **Bản giao hưởng Chúa tể của những chiếc nhẫn**.
+Sau khi ra rạp [*The Lord of the Rings* (loạt phim)](<The_Lord_of_the_Rings_(film_series).md>), [Howard Shore](../H/Howard_Shore.md) đã làm lại điểm phim của bộ ba phim thành một tác phẩm sáu chương có cấu trúc chặt chẽ hơn dành cho dàn nhạc và dàn hợp xướng, có tựa đề đại khái là **The Lord of the Rings Bản giao hưởng**.
 
 Nó đã được biểu diễn ở nhiều phòng hòa nhạc khác nhau trên khắp thế giới, kèm theo buổi biểu diễn nghệ thuật ánh sáng và thị giác của [Alan Lee](../A/Alan_Lee.md) và [John Howe](../J/John_Howe.md).
 
@@ -32,7 +32,7 @@ Bản ghi âm được <a class="external text" href="https://howardshore.com/wo
 - Ngày 13 tháng 7, Philadelphia, PA, Trung tâm Mann
 - 15–17 tháng 7, Seattle, WA, S.Mark Thính phòng Taper/Hội trường Benaroya
 - 29–31 tháng 7, Pittsburgh, PA, Heinz Hall
-- Ngày 18–19 tháng 9, Hartford, CT, Mortensen Hall
+- tháng Chín 18–19, Hartford, CT, Hội trường Mortensen
 - Ngày 8–9 tháng 10, Chicago, IL, Nhà hát Thính phòng
 - Ngày 12 tháng 10, Milwaukee, WI
 - Ngày 3–4 tháng 12, Newark, NJ,

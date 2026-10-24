@@ -13,7 +13,7 @@ categories:
   - "Arda"
 ---
 
-**Dây đai Arda** chỉ đơn giản là đường biểu thị bán cầu bắc và bán cầu nam của [Arda](../A/Arda.md). Người ta nói rằng Vành đai Arda chạy thẳng qua trung tâm của [Taniquetil](../T/Taniquetil.md).<sup id="cite_ref-" class="reference"><a href="#cite_note-">[1]</a></sup> Sau này vào [Thời đại thứ ba](../T/Third_age~29089.md) nó được biết đến nhiều hơn với tên gọi Xích đạo.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> <span></span>
+Đường viền **của Arda** chỉ đơn giản là đường biểu thị bán cầu bắc và bán cầu nam của [Arda](../A/Arda.md). Người ta nói rằng Vành đai Arda chạy thẳng qua tâm của [Taniquetil](../T/Taniquetil.md).<sup id="cite_ref-" class="reference"><a href="#cite_note-">[1]</a></sup> Sau này vào [Thời thứ ba](../T/Third_age~29089.md) nó được biết đến nhiều hơn với tên gọi Xích đạo.<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

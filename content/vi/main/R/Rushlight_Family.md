@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Vihvil%C3%A4valo"
 ---
 
-Gia đình **Rushlight** là gia đình gồm [Đàn ông](../B/Bree-men.md) của [Bree](../B/Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Dòng **Rushlight** là dòng [Con Người](../B/Bree-men.md) của [Bree](../B/Bree.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

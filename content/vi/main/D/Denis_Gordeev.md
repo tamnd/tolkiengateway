@@ -41,9 +41,9 @@ Từ lớp 5 cấp hai, Gordeev đồng thời học tại một trường ngh�
 
 Năm 1983, ông được đưa vào quân đội. Sau khi hoàn thành nghĩa vụ quân sự, anh tiếp tục học tại Viện (xưởng của Tahir Salahov), nơi anh tốt nghiệp năm 1990.
 
-Sau khi tốt nghiệp, anh bắt đầu nghiên cứu đồ họa sách. Cuốn sách đầu tiên ông minh họa là *[Tree and Leaf](../T/Tree_and_Leaf.md)* của Tolkien, được Nhà xuất bản Gnosis xuất bản năm 1991.
+Sau khi tốt nghiệp, anh bắt đầu nghiên cứu đồ họa sách. Cuốn sách đầu tiên ông minh họa là *[Tree and Leaf](../T/Tree_and_Leaf.md)* của Tolkien, do Nhà xuất bản Gnosis xuất bản năm 1991.
 
-Gordeev nổi tiếng sau khi minh họa bộ sử thi giả tưởng *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của Tolkien, được Nhà xuất bản Severo-Zapad xuất bản năm 1992. Đây là một trong những ấn bản đầu tiên của bộ ba với số lượng phát hành khổng lồ khoảng một triệu bản.
+Gordeev nổi tiếng sau khi minh họa cho bộ sử thi giả tưởng *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* của Tolkien, được Nhà xuất bản Severo-Zapad xuất bản năm 1992. Đây là một trong những ấn bản đầu tiên của bộ ba với số lượng phát hành khổng lồ khoảng một triệu bản.
 
 Kể từ đó, Gordeev đã minh họa nhiều cuốn sách cho người lớn và trẻ em ở nhiều nhà xuất bản khác nhau. Những minh họa của ông cho các tác phẩm C. Gozzi, E. T. A. Hoffmann, O. Wilde, R. Kipling, R. L. Stevenson, A. Dumas, J. Verne, A. Sapkowski, R. Zelazny được biết đến rộng rãi.
 

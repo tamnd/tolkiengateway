@@ -20,9 +20,9 @@ sort_keys:
 
 **Isaac Asimov** (tiếng Nga: **Исак Озимов**) (c. [Ngày 2 tháng 1](../_/2_January.md), [1920](../_/1920.md) - [Ngày 6 tháng 4](../_/6_April.md), [1992](../_/1992.md)) là một tác giả khoa học viễn tưởng và nhà bút chiến giỏi. Vì vậy, một số bài viết của ông thảo luận về chủ đề của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), đặc biệt là [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
 
-Trong một bức thư viết cho Charlotte và Denis Plimmer vào năm 1967, Tolkien nói rằng ông hiếm khi tìm thấy bất kỳ cuốn sách hiện đại nào có thể thu hút sự chú ý của ông. Tuy nhiên, có một ngoại lệ là truyện khoa học viễn tưởng của Isaac Asimov mà Tolkien nói rằng ông rất thích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong một lá thư viết cho Charlotte và Denis Plimmer năm 1967, Tolkien nói rằng ông hiếm khi tìm được cuốn sách hiện đại nào có thể thu hút được sự chú ý của ông. Tuy nhiên, có một ngoại lệ là truyện khoa học viễn tưởng của Isaac Asimov mà Tolkien nói rằng ông rất thích.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong một cuộc phỏng vấn được thực hiện trên [1988](../_/1988.md), Asimov nói rằng ông "thích" Tolkien và ông đã "đọc nó năm lần" (có thể ám chỉ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong một cuộc phỏng vấn được thực hiện trên [1988](../_/1988.md), Asimov nói rằng ông "thích" Tolkien và ông đã "đọc nó năm lần" (có thể là ám chỉ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Thư mục {#Bibliography}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great West Road"
 ---
 
-Chuyển hướng đến [Đường Great West](../G/Great_West_Road.md).
+Chuyển hướng đến [Great West Road](../G/Great_West_Road.md).

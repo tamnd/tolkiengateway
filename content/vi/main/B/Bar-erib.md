@@ -36,15 +36,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Stronghold</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Bar-erib</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">North of <a href="../A/Andram.md" title="Andram">Andram</a>, south of <a href="../A/Amon_Rûdh.md" title="Amon Rûdh">Amon Rûdh</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Stronghold</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../E/Elves.md" title="Elves">Elves</a> and <a href="../M/Men.md" title="Men">Men</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Created</th><td class="tg-infobox-data">Sometime between <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_487.md" title="First Age 487">487</a> and <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_489.md" title="First Age 489">489</a></td></tr><tr><th scope="row" class="tg-infobox-label">Destroyed</th><td class="tg-infobox-data">Possibly <a href="../F/First_Age.md" title="First Age">F.A.</a> <a href="../F/First_Age_489.md" title="First Age 489">489</a></td></tr></tbody></table>
 
-**Bar-erib** (còn được đánh vần là **Bar Erib**<sup id="cite_ref-ListOfNames_2-0" class="reference"><a href="#cite_note-ListOfNames-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>) là thành trì của [Dor-Cúarthol](../D/Dor-Cúarthol.md) cách [Amon Rûdh](../A/Amon_Rûdh.md) vài dặm về phía nam.
+**Bar-erib** (còn được đánh vần là **Bar Erib**<sup id="cite_ref-ListOfNames_2-0" class="reference"><a href="#cite_note-ListOfNames-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup>) là một thành trì của [Dor-Cúarthol](../D/Dor-Cúarthol.md) cách vài giải đấu phía nam [Amon Rûdh](../A/Amon_Rûdh.md).
 
 ## Lịch sử {#History}
 
-Thành trì Bar-erib là một trong nhiều trại và pháo đài được canh gác được thành lập xung quanh [Echad i Sedryn](../H/House_of_Ransom.md), trong thời kỳ tồn tại ngắn ngủi của [Dor-Cúarthol](../D/Dor-Cúarthol.md), vương quốc được cai trị bởi [Hai thuyền trưởng](../T/Two_Captains.md). Bar-erib nằm trong *"vùng đất màu mỡ một thời giữa [Narog](../N/Narog.md) và [Meres of Sirion](../F/Fens_of_Sirion.md)."* Người ta nói rằng từ Bar-erib, có tầm nhìn về phía bắc, nơi có thể nhìn thấy đỉnh Amon Rûdh và có thể nhận lệnh cũng như tin nhắn đến và đi từ cả hai địa điểm thông qua tín hiệu.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Thành trì Bar-erib là một trong nhiều trại và pháo đài được canh gác được thiết lập xung quanh [Echad i Sedryn](../H/House_of_Ransom.md), trong thời gian tồn tại ngắn ngủi của [Dor-Cúarthol](../D/Dor-Cúarthol.md), vương quốc được cai trị bởi [Hai thuyền trưởng](../T/Two_Captains.md). Bar-erib nằm trong *"vùng đất màu mỡ một thời giữa [Narog](../N/Narog.md) và [Meres của Sirion](../F/Fens_of_Sirion.md)."* Người ta nói rằng từ Bar-erib, có tầm nhìn về phía bắc, nơi có thể nhìn thấy đỉnh Amon Rûdh và có thể nhận lệnh cũng như tin nhắn đến và đi từ cả hai địa điểm thông qua tín hiệu.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Bar-erib* là [Sindarin](../S/Sindarin.md) của "Nơi ở của những người cô đơn",<sup id="cite_ref-ListOfNames_2-1" class="reference"><a href="#cite_note-ListOfNames-2">[2]</a></sup> từ *[bâr](Bar.md)* ("nhà, nhà, nơi ở") + *[erib](../E/Ereb.md)* ("độc thân, một mình, cô đơn") (pl.).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+*Bar-erib* là [Sindarin](../S/Sindarin.md) dành cho "Nơi ở của những người cô đơn",<sup id="cite_ref-ListOfNames_2-1" class="reference"><a href="#cite_note-ListOfNames-2">[2]</a></sup> từ *[bâr](Bar.md)* ("nhà, nhà, nơi ở") + *[erib](../E/Ereb.md)* ("độc thân, một mình, cô đơn") (pl.).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -53,7 +53,7 @@ Thành trì Bar-erib là một trong nhiều trại và pháo đài được can
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Cách viết này được đưa ra trong Danh sách tên trong Truyện những đứa trẻ của Húrin, mặc dù không rõ đây là do nhầm lẫn hay được thực hiện có chủ đích vì một lý do nào đó.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Cách viết này được đưa ra trong Danh sách tên trong Truyện kể về những đứa trẻ của Húrin, mặc dù không rõ đây là do nhầm lẫn hay được thực hiện có chủ đích vì một lý do nào đó.</span>
 </li>
 </ol></div></span>
 

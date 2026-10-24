@@ -27,13 +27,13 @@ categories:
 <li><a href="Highday.md" title="Highday">Highday</a></li></ol>
 </td></tr></tbody></table>
 
-**Hevensday** (hoặc **Hensday**; dạng cổ xưa *Hevenesdei*) là ngày thứ năm trong tuần trong [Lịch Shire](../S/Shire_Calendar.md). Nó đại diện cho ngày [Númenórean](../N/Númenórean.md) *[Ormenel](../O/Ormenel.md)*, dành riêng cho *[Menel](../M/Menel.md)*, thiên đường.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+**Hevensday** (hoặc **Hensday**; dạng cổ *Hevenesdei*) là ngày thứ năm trong tuần ở [Lịch Shire](../S/Shire_Calendar.md). Nó đại diện cho [Númenórean](../N/Númenórean.md) ngày *[Ormenel](../O/Ormenel.md)*, dành riêng cho *[Menel](../M/Menel.md)*, thiên đường.<sup id="cite_ref-cal_1-0" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 Sau cuộc cải cách [Isengrim Took II](../I/Isengrim_Took_II.md),<sup id="cite_ref-cal_1-1" class="reference"><a href="#cite_note-cal-1">[1]</a></sup> những ngày như [ngày 1 tháng 6](../_/1_June.md) và [ngày 1 tháng 12](../_/1_December.md) luôn rơi vào Ngày Hevensday.
 
 ## Từ nguyên {#Etymology}
 
-*Hevensday* đại diện cho một dạng [Hobbitish](Hobbitish.md) cổ xưa "Hevenesdei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
+*Hevensday* đại diện cho dạng [Hobbitish](Hobbitish.md) cổ "Hevenesdei", một từ được lưu giữ trong [Yellowskin](../Y/Yellowskin.md).<sup id="cite_ref-cal_1-2" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 
 *Hevensday* được dịch là "Thứ Tư" trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.<sup id="cite_ref-cal_1-3" class="reference"><a href="#cite_note-cal-1">[1]</a></sup>
 

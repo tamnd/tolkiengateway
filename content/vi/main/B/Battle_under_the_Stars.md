@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dagor-nuin-Giliath"
 ---
 
-Chuyển hướng tới [Dagor-nuin-Giliath](../D/Dagor-nuin-Giliath.md).
+Chuyển hướng đến [Dagor-nuin-Giliath](../D/Dagor-nuin-Giliath.md).

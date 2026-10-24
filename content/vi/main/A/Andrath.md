@@ -32,19 +32,19 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Andrath.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7a/The_Lord_of_the_Rings_Online_-_Andrath.jpg/250px-The_Lord_of_the_Rings_Online_-_Andrath.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7a/The_Lord_of_the_Rings_Online_-_Andrath.jpg/375px-The_Lord_of_the_Rings_Online_-_Andrath.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/7/7a/The_Lord_of_the_Rings_Online_-_Andrath.jpg/500px-The_Lord_of_the_Rings_Online_-_Andrath.jpg 2x" data-file-width="2560" data-file-height="1440"/></a><figcaption>Andrath in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Andrath** là một vùng ô nhiễm nằm giữa [Barrow-downs](../B/Barrow-downs.md) (ở phía tây) và [South Downs](../S/South_Downs.md) (ở phía đông) ở [Eriador](../E/Eriador.md). Qua con đường hẹp này ngay phía nam [Bree](../B/Bree.md) đã đi qua [Đường Bắc-Nam](../N/North-South_Road.md) ([Greenway](../G/Greenway.md)).<sup id="cite_ref-Ind_1-0" class="reference"><a href="#cite_note-Ind-1">[1]</a></sup>
+**Andrath** là một ô nhiễm giữa [Barrow-downs](../B/Barrow-downs.md) (ở phía tây) và [South Downs](../S/South_Downs.md) (ở phía đông) ở [Eriador](../E/Eriador.md). Qua con đường hẹp này ngay phía nam [Bree](../B/Bree.md) đã vượt qua [Con đường Bắc-Nam](../N/North-South_Road.md) ([Greenway](../G/Greenway.md)).<sup id="cite_ref-Ind_1-0" class="reference"><a href="#cite_note-Ind-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Khi [Kỵ sĩ áo đen](../N/Nazgûl.md) đến Greenway để tìm kiếm [Chiếc nhẫn duy nhất](../T/The_One_Ring.md), [Thuyền trưởng áo đen](../W/Witch-king.md) đã thành lập một trại ở Andrath. Từ đó ông cử một số Kỵ sĩ đi tuần tra trong khi ông đến thăm Barrow-down.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi [Kỵ sĩ Đen](../N/Nazgûl.md) đến Greenway để tìm kiếm [Một chiếc nhẫn](../T/The_One_Ring.md), [Thuyền trưởng Áo đen](../W/Witch-king.md) đã thành lập trại tại Andrath. Từ đó, ông cử một số Kỵ sĩ đi tuần tra trong khi ông đến thăm Barrow-downs.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Andrath* có nghĩa là "Long Climb",<sup id="cite_ref-Ind_1-1" class="reference"><a href="#cite_note-Ind-1">[1]</a></sup> dường như bao gồm các phần tử [Sindarin](../S/Sindarin.md) *[and](And.md)* + *[rath](../R/Rath.md#Sindarin)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Andrath* có nghĩa là "Trèo dài",<sup id="cite_ref-Ind_1-1" class="reference"><a href="#cite_note-Ind-1">[1]</a></sup> dường như bao gồm các phần tử [Sindarin](../S/Sindarin.md) *[and](And.md)* + *[rath](../R/Rath.md#Sindarin)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Andrath is a prominent area within <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> and contains the prominent &#34;Halecatch Lake&#34;. The &#34;South-guard Ruins&#34; on the <a href="../G/Greenway.md" title="Greenway">Greenway</a> divide into norther and southern Andrath, the latter belonging to the in-game <a href="../C/Cardolan.md" title="Cardolan">Cardolan</a> region.</dd></dl>
 

@@ -14,11 +14,11 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>rhosc</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "nâu".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> Từ này (mặc dù có thể có cách đánh vần là *rhusc*) cũng được hiểu là "màu nâu đỏ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>rhosc</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "nâu".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> Từ này (mặc dù có thể có cách đánh vần là *rhusc*) cũng được hiểu là có nghĩa là "màu nâu đỏ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ [Noldorin già](../O/Old_Noldorin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ruska&amp;action=edit&amp;redlink=1" title="Ruska (page does not exist)">ruska</a></i> < [Gốc](../S/Sundocarme.md) [RUSKĀ](RUSKĀ.md)<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+Từ [Old Noldorin](../O/Old_Noldorin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ruska&amp;action=edit&amp;redlink=1" title="Ruska (page does not exist)">ruska</a></i> < [Gốc](../S/Sundocarme.md) [RUSKĀ](RUSKĀ.md)<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -26,7 +26,7 @@ Từ [Noldorin già](../O/Old_Noldorin.md) <i><a class="new" href="https://tolki
 
 ## Xem thêm {#See_also}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[baran](<../B/Baran_(Sindarin).md>)*
+- [Sindarin](../S/Sindarin.md) *[baran](<../B/Baran_(Sindarin).md>)*
 
 <span></span>
 

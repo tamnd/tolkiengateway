@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Things of Morgoth"
 ---
 
-Chuyển hướng tới [Những điều ở Morgoth](Things_of_Morgoth.md).
+Chuyển hướng đến [Những thứ của Morgoth](Things_of_Morgoth.md).

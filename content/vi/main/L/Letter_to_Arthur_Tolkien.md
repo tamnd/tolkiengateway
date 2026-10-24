@@ -18,11 +18,11 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Arthur_Tolkien_14_February_1896.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6f/Arthur_Tolkien_14_February_1896.jpg/300px-Arthur_Tolkien_14_February_1896.jpg" decoding="async" loading="lazy" width="300" height="289" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6f/Arthur_Tolkien_14_February_1896.jpg 1.5x" data-file-width="398" data-file-height="383"/></a><figcaption></figcaption></figure>
 
-Vào [14 tháng 2](../_/14_February.md) [1896](../_/1896.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bốn tuổi đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Arthur Tolkien](../A/Arthur_Tolkien.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào [14 tháng 2](../_/14_February.md) [1896](../_/1896.md), một [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bốn tuổi đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [Arthur Tolkien](../A/Arthur_Tolkien.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Mô tả:** Bức thư được Tolkien viết cho y tá của ông, nhưng chưa bao giờ được gửi kể từ khi mẹ ông [Mabel](../M/Mabel_Suffield.md) nhận được một bức điện vào cùng ngày nói rằng Arthur bị <a class="extiw" href="http://en.wikipedia.org/wiki/Bleeding" title="wikipedia:Bleeding">xuất huyết</a> (ông qua đời vào ngày hôm sau). Đây là bức thư sớm nhất được biết đến do Tolkien sáng tác.<sup id="cite_ref-Life_2-0" class="reference"><a href="#cite_note-Life-2">[2]</a></sup>
+- **Mô tả:** Bức thư được Tolkien viết cho y tá của ông, nhưng chưa bao giờ được gửi kể từ khi mẹ ông [Mabel](../M/Mabel_Suffield.md) nhận được một bức điện cùng ngày nói rằng Arthur bị <a class="extiw" href="http://en.wikipedia.org/wiki/Bleeding" title="wikipedia:Bleeding">xuất huyết</a> (ông qua đời vào ngày hôm sau). Đây là bức thư sớm nhất được biết đến được sáng tác bởi Tolkien.<sup id="cite_ref-Life_2-0" class="reference"><a href="#cite_note-Life-2">[2]</a></sup>
 - **Xuất bản:** Bức thư được trích dẫn trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* (tr. 16). Bản sao của bức thư xuất hiện trong *[J.R.R. Tolkien: Life and Legend](../J/J.R.R._Tolkien%253A_Life_and_Legend.md)* (tr. 11).
-- **Lưu trữ:** [Thư viện Bodleian](../B/Bodleian_Library.md) (Bài báo gia đình 33/1(9)).<sup id="cite_ref-Life_2-1" class="reference"><a href="#cite_note-Life-2">[2]</a></sup>
+- **Lưu trữ:** [Thư viện Bodleian](../B/Bodleian_Library.md) (Giấy tờ gia đình 33/1(9)).<sup id="cite_ref-Life_2-1" class="reference"><a href="#cite_note-Life-2">[2]</a></sup>
 
 ## Trích {#Excerpt}
 

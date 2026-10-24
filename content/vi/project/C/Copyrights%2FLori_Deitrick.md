@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Deitrick, Lori"
 ---
 
-- Lori Deitrick đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật liên quan đến Tolkien](../../category/I/Images_by_Lori_Deitrick.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Lori Deitrick đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật liên quan đến Tolkien của mình](../../category/I/Images_by_Lori_Deitrick.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 31 tháng 12 năm 2014
 - Người dùng đã xin phép qua email: [Morgan](https://tolkiengateway.net/wiki/User:Morgan)

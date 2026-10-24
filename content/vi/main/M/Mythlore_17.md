@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_17.gif.md"><img src="https://tolkiengateway.net/w/images/8/88/Mythlore_17.gif" decoding="async" loading="lazy" width="225" height="283" class="mw-file-element" data-file-width="225" data-file-height="283"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 17</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">May <a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_16.md" title="Mythlore 16">Mythlore 16</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_18.md" title="Mythlore 18">Mythlore 18</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 17</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol5/iss1/" rel="noreferrer noopener" target="_blank">Tập 5, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
+<b><i>Mythlore</i> 17</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol5/iss1/" rel="noreferrer noopener" target="_blank">Tập 5, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -60,7 +60,7 @@ infobox:
 - Patterson, Nancy-Lou. "Mận và bánh quy." Đánh giá *C.S. Lewis: Danh sách kiểm tra có chú thích các bài viết về ông và các tác phẩm của ông* của Joe R. Christopher và Joan K. Ostling. 29.
 - Patterson, Nancy-Lou. "Hướng tới bờ bụi ngọc trai." Đánh giá về *A Speculation on the Silmarillion* của Jim Allan. 29-30.
 - Christopher, Joe R. "Let Us Go a-Carrolling." Review of *Lewis Carroll Observed*, edited by Edward Guiliano; *The Rectory Magazine*, edited by Lewis Carroll; *Lewis Carroll as I Knew Him* by Isa Bowman. 29-30.
-- Một số tác phẩm Tolkien. 31.
+- Một số Tolkien Nghệ thuật. 31.
 - Nhận xét về Một số Bức ảnh. 32+.
 - Christopher, Joe R. "An Inklings Bibliography (6)." 40-46.
 - *Mythprint*. 47.
@@ -80,7 +80,7 @@ infobox:
 - R. Patrick McCabe: 28
 - Robin McCabe: bìa sau
 - Peter Thorpe: 37
-- Bìa: Bonnie GoodKnight, "Mandos đưa ra sự diệt vong của Noldor từ *The Silmarillion*."
+- Bìa: Bonnie GoodKnight, "Mandos đưa ra Sự diệt vong của Noldor từ *The Silmarillion*."
 - Bìa sau: Robin McCabe, "Earendil trên tàu Vingilot."
 - Trang 17: Michael Logan, "Theoden."
 - Trang 21: Elzabeth Best, "Chuyến bay tới chiếc Ford."

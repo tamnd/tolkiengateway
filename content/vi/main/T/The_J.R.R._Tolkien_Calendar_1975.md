@@ -37,22 +37,22 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_J.R.R._Tolkien_Calendar_1975.jpg.md"><img src="https://tolkiengateway.net/w/images/4/49/The_J.R.R._Tolkien_Calendar_1975.jpg" decoding="async" loading="lazy" width="224" height="216" class="mw-file-element" data-file-width="224" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The J.R.R. Tolkien Calendar 1975</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="Tim_Kirk.md" title="Tim Kirk">Tim Kirk</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../B/Ballantine_Books.md" title="Ballantine Books">Ballantine Books</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1974.md" title="1974">1974</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Stapled calendar with mailer (13 x 12<sup>1</sup>⁄<sub>4</sub> inches)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/345-20061-6-395" title="Special:BookSources/345-20061-6-395">345-20061-6-395</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_J.R.R._Tolkien_Calendar_1974.md" title="The J.R.R. Tolkien Calendar 1974">The J.R.R. Tolkien Calendar 1974</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../_/1976_J.R.R._Tolkien_Calendar.md" title="1976 J.R.R. Tolkien Calendar">1976 J.R.R. Tolkien Calendar</a></td></tr></tbody></table>
 
-<i><b>Lịch J.R.R. Tolkien 1975</b></i> là lịch Tolkien chính thức được xuất bản bởi [Ballantine Books](../B/Ballantine_Books.md) trong [1974](../_/1974.md). Nó có tác phẩm nghệ thuật của [Tim Kirk](Tim_Kirk.md) dựa trên *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+<i><b>Lịch J.R.R. Tolkien 1975</b></i> là lịch Tolkien chính thức được xuất bản bởi [Ballantine Books](../B/Ballantine_Books.md) vào [1974](../_/1974.md). Nó có tác phẩm nghệ thuật của [Tim Kirk](Tim_Kirk.md) dựa trên *[The Hobbit](The_Hobbit.md)* và *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Minh họa {#Illustrations}
 
-- Tháng 1 - "[Smaug](../../file/T/Tim_Kirk_-_Smaug.jpg.md)"
+- Tháng Giêng - "[Smaug](../../file/T/Tim_Kirk_-_Smaug.jpg.md)"
 - Tháng 2 - "[Trò chơi đố vui](../../file/T/Tim_Kirk_-_Riddle_Game.jpg.md)"
 - Tháng 3 - "[Lửa và Nước](../../file/T/Tim_Kirk_-_Fire_and_Water.jpg.md)"
 - Tháng 4 - "[Frodo Thiền định"](../../file/T/Tim_Kirk_-_Frodo_Meditates.jpg.md)
 - Tháng 5 - "[Trang trại của Maggot](../../file/T/Tim_Kirk_-_Maggot's_Farm.jpg.md)"
-- Tháng 6 - "[Giếng ở Moria](../../file/T/Tim_Kirk_-_Well_in_Moria.jpg.md)"
-- Trung tâm - "[Gandalf và Bilbo](../../file/T/Tim_Kirk_-_Gandalf_and_Bilbo.jpg.md)"
-- Tháng 7 - "[Tấm gương](../../file/T/Tim_Kirk_-_The_Mirrormere.jpg.md)"
+- Tháng 6 - "[Cái giếng ở Moria](../../file/T/Tim_Kirk_-_Well_in_Moria.jpg.md)"
+- Giữa - "[Gandalf và Bilbo](../../file/T/Tim_Kirk_-_Gandalf_and_Bilbo.jpg.md)"
+- Tháng 7 - "[ Mirrormere](../../file/T/Tim_Kirk_-_The_Mirrormere.jpg.md)"
 - Tháng 8 - "[Galadriel](../../file/T/Tim_Kirk_-_Galadriel.jpg.md)"
-- Tháng 9 - "[Con đường đến Minas Tirith](../../file/T/Tim_Kirk_-_The_Road_to_Minas_Tirith.jpg.md)"
-- Tháng 10 - "[Hai con Orc](../../file/T/Tim_Kirk_-_Two_Orcs.jpg.md)"
-- Tháng 11 - "[Vết nứt diệt vong](../../file/T/Tim_Kirk_-_The_Cracks_of_Doom.jpg.md)"
+- tháng Chín - "[Con Đường Về Minas Tirith](../../file/T/Tim_Kirk_-_The_Road_to_Minas_Tirith.jpg.md)"
+- Tháng 10 - "[Hai Orc](../../file/T/Tim_Kirk_-_Two_Orcs.jpg.md)"
+- Tháng 11 - "[Ngày Cracks of Doom](../../file/T/Tim_Kirk_-_The_Cracks_of_Doom.jpg.md)"
 - Tháng 12 - "[Bờ biển cuối cùng](../../file/T/Tim_Kirk_-_Last_Shore.jpg.md)"
 
 ## Biến thể {#Variants}
@@ -69,7 +69,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://tolkiencalendars.com/1969_1977.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1969 - 1977</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1969_1977.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1969 - 1977</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

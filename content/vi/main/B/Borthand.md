@@ -54,7 +54,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau khi theo cha mình đến [Beleriand](Beleriand.md), Borthand phục vụ [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia tiêu diệt [Ulfang](../U/Ulfang.md) con trai trước khi chính ông bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau khi theo cha mình vào [Beleriand](Beleriand.md), Borthand phục vụ [Maedhros](../M/Maedhros.md) và [Maglor](../M/Maglor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Anh chiến đấu trong [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md), và trung thành với [Noldor](../N/Noldor.md), tham gia giết các con trai của [Ulfang](../U/Ulfang.md) trước khi chính anh bị giết.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

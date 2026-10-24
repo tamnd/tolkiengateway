@@ -13,9 +13,9 @@ categories:
   - "Sindarin verbs"
 ---
 
-<i><b>linnon</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) xuất hiện trong "The [Lay of Leithian](Lay_of_Leithian.md) Recommenced" (ca. [1950](../_/1950.md)).<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
+<i><b>linnon</b></i> là một từ [Sindarin](../S/Sindarin.md) xuất hiện trong "The [Lay of Leithian](Lay_of_Leithian.md) Recommenced" (ca. [1950](../_/1950.md)).<sup id="cite_ref-LB_1-0" class="reference"><a href="#cite_note-LB-1">[1]</a></sup>
 
-[Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng *linnon* là ứng cử viên tổng thống đầu tiên. dạng ("Tôi hát") của một động từ không được chứng thực *linna-* ("hát").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng *linnon* là lần đầu tiên. dạng ("Tôi hát") của một động từ không được chứng thực *linna-* ("hát").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Cụm từ {#Phrases}
 

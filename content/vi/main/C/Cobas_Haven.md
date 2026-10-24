@@ -17,11 +17,11 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg/300px-The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg/450px-The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/04/The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg/600px-The_Lord_of_the_Rings_Online_-_Dol_Amroth.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Dol Amroth with Cobas Haven to the left in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Cobas Haven** là một vịnh nhỏ mở ra [Vịnh Belfalas](../B/Bay_of_Belfalas.md) giữa [Anfalas](../A/Anfalas.md) ở phía bắc và mỏm đất [Dol Amroth](../D/Dol_Amroth.md) ở phía nam. Sông [Morthond](../M/Morthond.md) (với nước tập trung của [Ciril](Ciril.md) và [Ringló](../R/Ringló.md)) đổ vào Cobas Haven từ phía đông bắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cobas Haven** là một vịnh mở vào [Vịnh Belfalas](../B/Bay_of_Belfalas.md) giữa [Anfalas](../A/Anfalas.md) về phía bắc và doi đất [Dol Amroth](../D/Dol_Amroth.md) về phía nam. Sông [Morthond](../M/Morthond.md) (với nước tập trung của [Ciril](Ciril.md) và [Ringló](../R/Ringló.md)) đổ vào Cobas Haven từ phía đông bắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Thiên đường [Edhellond](../E/Edhellond.md), phía tây nam nơi giao nhau của Morthond và Ringló, được thành lập bởi Yêu tinh Sindarin, những người đã chạy trốn [Beleriand](../B/Beleriand.md) vào [Thời đại thứ nhất](../F/First_Age.md). Vào [Kỷ nguyên thứ hai](../S/Second_Age.md) [Númenóreans](../N/Númenóreans.md) nhận thấy bờ Vịnh Belfalas không có người ở ngoại trừ khu định cư nhỏ của [Yêu tinh](../E/Elves.md) vẫn sống ở thiên đường này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những Yêu tinh cuối cùng đã khởi hành vào [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Để đến được đại dương rộng mở, tất cả Yêu tinh khởi hành sẽ phải có để đi qua vùng biển Cobas Haven.
+Nơi ẩn náu của [Edhellond](../E/Edhellond.md), phía tây nam nơi giao nhau của Morthond và Ringló, được thiết lập bởi Sindarin Tiên tộc, người đã bỏ trốn [Beleriand](../B/Beleriand.md) trong [Kỷ Đệ Nhất](../F/First_Age.md). Trong [Kỷ Đệ Nhị](../S/Second_Age.md) [người Númenor](../N/Númenóreans.md) tìm thấy bờ biển của Vịnh Belfalas không có người ở ngoại trừ khu định cư nhỏ của [Tiên tộc](../E/Elves.md) vẫn sống ở thiên đường này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Những Tiên tộc cuối cùng đã khởi hành vào [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Để đến được đại dương rộng lớn, tất cả những Tiên tộc khởi hành sẽ phải đi qua vùng biển Cobas Haven.
 
 ## Từ nguyên {#Etymology}
 
@@ -29,7 +29,7 @@ Thiên đường [Edhellond](../E/Edhellond.md), phía tây nam nơi giao nhau c
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Cobas Haven contains a smaller island of Tol Aduial located north of Dol Amroth and a larger island Tol Fennas directly west of the city.</dd></dl>
 

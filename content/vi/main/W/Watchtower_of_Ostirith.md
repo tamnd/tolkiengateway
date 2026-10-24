@@ -45,23 +45,23 @@ infobox:
 
 ## Lịch sử {#History}
 
-Trong [Những ngày của Người cao tuổi](../E/Elder_Days.md), Tháp canh Ostirith ban đầu được xây dựng bởi [Những người đàn ông](<../E/Easterlings_(First_Age).md>) đi theo [Morgoth](../M/Morgoth.md), trong đó, người ta nói rằng tòa tháp vẫn sở hữu sức mạnh dành cho những người bị [Bóng tối](../S/Shadow.md) làm vấy bẩn. Tháp canh cũng là nơi lưu giữ bức tượng được chạm khắc bằng đá của [Sauron](../S/Sauron.md), trung úy của Morgoth. Tác phẩm điêu khắc này che giấu một thiết bị phức tạp có thể giải phóng ngọn lửa của [Orodruin](../M/Mount_Doom.md).
+Trong [Những ngày của Người cao tuổi](../E/Elder_Days.md), Tháp Canh Ostirith ban đầu được xây dựng bởi [Con Người](<../E/Easterlings_(First_Age).md>) những người đi theo [Morgoth](../M/Morgoth.md), trong đó, người ta nói rằng tòa tháp vẫn sở hữu sức mạnh dành cho những người bị nhiễm [Bóng Tối](../S/Shadow.md). Tháp canh còn có tượng được chạm khắc bằng đá của [Sauron](../S/Sauron.md), trung úy của Morgoth. Tác phẩm điêu khắc này ẩn chứa một thiết bị phức tạp có thể giải phóng ngọn lửa của [Orodruin](../M/Mount_Doom.md).
 
-Một thời gian sau [Wars of Beleriand](Wars_of_Beleriand.md), một đơn vị đồn trú của [Silvan](../S/Silvan.md) [Yêu tinh](../E/Elves.md) dưới sự chỉ huy của [Watchwarden Revion](../R/Revion.md) đã sử dụng tòa tháp trong 79 năm cảnh giác đối với nhiều ngôi làng ở [Southlands](../M/Mordor.md). Lực lượng đồn trú này bao gồm [Yêu tinh](../E/Elves.md) như [Arondir](../A/Arondir.md) và [Médhor](../M/Médhor.md).
+Một thời gian sau [Chiến tranh Beleriand](Wars_of_Beleriand.md), một đơn vị đồn trú của [Silvan](../S/Silvan.md) [Tiên tộc](../E/Elves.md) dưới sự chỉ huy của [Watchwarden Revion](../R/Revion.md) đã sử dụng tòa tháp này trong 79 năm cảnh giác đối với nhiều ngôi làng ở [Southlands](../M/Mordor.md). Lực lượng đồn trú này bao gồm [Tiên tộc](../E/Elves.md) như [Arondir](../A/Arondir.md) và [Médhor](../M/Médhor.md).
 
-Vào cuối [Thời đại thứ hai](../S/Second_Age.md), các yêu tinh đóng quân tại Ostirith đã bị bắt giữ bởi một nhóm [Orc](../O/Orcs.md) hoạt động trong [Southlands](../M/Mordor.md) của [Trung Địa](../M/Middle-earth.md). Cùng lúc đó, [Bronwyn](../B/Bronwyn.md) dẫn dân làng [Tirharad](../T/Tirharad.md) tìm nơi trú ẩn tại tòa tháp. Nhiều người tị nạn khác cũng chạy trốn đến đó, chẳng hạn như dân làng [Iorbad](../I/Iorbad.md).
+Vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), quân Tiên tộc đóng tại Ostirith đã bị một nhóm [Orc](../O/Orcs.md) hoạt động trong [Southlands](../M/Mordor.md) của [Trung Địa](../M/Middle-earth.md) bắt giữ. Cùng lúc đó, [Bronwyn](../B/Bronwyn.md) dẫn dân làng [Tirharad](../T/Tirharad.md) tìm nơi trú ẩn tại tòa tháp. Nhiều người tị nạn khác cũng chạy trốn đến đó, chẳng hạn như dân làng [Iorbad](../I/Iorbad.md).
 
-Cuối cùng, Arondir được thả ra khỏi trại Orc theo sự cho phép của thủ lĩnh lũ Orc, [Adar](../A/Adar.md), để yêu cầu [Những người đàn ông](../M/Men.md) tại Tháp Canh thề trung thành với ông ta hoặc rời khỏi Southlands.
+Cuối cùng, Arondir được thả ra khỏi trại Orc theo sự cho phép của thủ lĩnh Orc, [Adar](../A/Adar.md), để yêu cầu [Con Người](../M/Men.md) tại Tháp Canh thề trung thành với ông ta hoặc rời khỏi Southlands.
 
-Khi Arondir gửi thông điệp, một số dân làng, bao gồm [Rowan](<../R/Rowan_(The_Rings_of_Power).md>) và [Waldreg](Waldreg.md), rời khỏi Tháp Canh cũ để quỳ gối trước Adar. Những dân làng còn lại dưới quyền Bronwyn lên kế hoạch chiến đấu khi lũ Orc chắc chắn sẽ đến tấn công họ.
+Khi Arondir gửi thông điệp, một số dân làng, bao gồm [Rowan](<../R/Rowan_(The_Rings_of_Power).md>) và [Waldreg](Waldreg.md), rời khỏi Tháp Canh cũ để quỳ gối trước Adar. Những dân làng còn lại dưới quyền Bronwyn lên kế hoạch chiến đấu khi Orc chắc chắn sẽ đến tấn công họ.
 
 Vài giờ sau, Adar dẫn quân của mình thẳng vào một cái bẫy mà Arondir đã gây ra sự sụp đổ của Tháp Canh. Sự sụp đổ đã tiêu diệt phần lớn quân đội, bao gồm cả <a class="new" href="https://tolkiengateway.net/w/index.php?title=Bazur&amp;action=edit&amp;redlink=1" title="Bazur (page does not exist)">Bazur</a>, nhưng không giết được Adar.
 
-Sau đó, theo lệnh của Adar, Waldreg quay trở lại tàn tích của Tháp Canh Ostirith và sử dụng [Orc Sigil Hilt](../O/Orc_Sigil_Hilt.md) làm chìa khóa để kích hoạt cơ chế mở con đập giữ nước hồ. Những dòng nước này chảy vào một hang động bên trong [Orodruin](../M/Mount_Doom.md), đánh thức nó khỏi trạng thái ngủ đông. Vụ phun trào sau đó đã khiến Tirharad và những gì còn lại của Tháp Canh Ostirith bị hủy hoại.
+Sau đó, theo lệnh của Adar, Waldreg quay trở lại tàn tích của Tháp Canh Ostirith và sử dụng [Orc Sigil Hilt](../O/Orc_Sigil_Hilt.md) làm chìa khóa để kích hoạt cơ chế mở con đập giữ nước hồ. Những dòng nước này chảy vào một hang động bên trong [Orodruin](../M/Mount_Doom.md), đánh thức nó khỏi trạng thái ngủ đông. Vụ phun trào tiếp theo đã khiến Tirharad và những gì còn lại của Tháp Canh Ostirith bị hủy hoại.
 
 ## Từ nguyên {#Etymology}
 
-*Ostirith* là sự kết hợp của các từ [Sindarin](../S/Sindarin.md) *[ost](../O/Ost.md)* ("bao vây; pháo đài, thành trì; thị trấn kiên cố; pháo đài hoặc thành trì")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[tirith](../T/Tirith.md)* ("canh, phường, canh gác; canh chừng, canh giữ")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
+*Ostirith* là sự kết hợp của các từ [Sindarin](../S/Sindarin.md) *[ost](../O/Ost.md)* ("bao vây; pháo đài, thành trì; thị trấn kiên cố; pháo đài hoặc thành trì")<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và *[tirith](../T/Tirith.md)* ("canh chừng, phường, canh gác; canh chừng, canh gác")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
 
 <span></span>
 

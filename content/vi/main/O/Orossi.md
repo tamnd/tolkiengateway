@@ -15,7 +15,7 @@ categories:
 
 **Orossi** là [fays](../F/Fays.md) của những ngọn núi, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Họ đến thế giới cùng với [Aulë](../A/Aulë.md) và [Yavanna](../Y/Yavanna.md), cùng với nhiều loại tiên khác.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Họ đến thế giới cùng với [Aulë](../A/Aulë.md) và [Yavanna](../Y/Yavanna.md), cùng với nhiều loại thần tiên khác.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

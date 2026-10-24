@@ -32,8 +32,8 @@ infobox:
 
 **Mythcon 12** là hội nghị [Hiệp hội thần thoại](Mythopoeic_Society.md) thường niên lần thứ 12.
 
-- **Chủ đề:** "Lễ hội ở thần tiên"
-- **Khách mời danh dự:** Elizabeth M. Pope (tác giả và học giả truyện giả tưởng) và Joe R. Christopher (học giả Lewis và người viết thư mục Inklings)
+- **Chủ đề:** "Lễ hội ở Faerie"
+- **Khách mời danh dự:** Elizabeth M. Pope (tác giả và học giả truyện giả tưởng) và Joe R. Christopher (học giả Lewis và Inklings người viết thư mục)
 - **Chủ tịch:** Diana L. Paxson
 
 ## Liên kết ngoài {#External_links}

@@ -19,7 +19,7 @@ images:
 
 **Nan Ungol** là một thung lũng ở phía đông bắc của [Ephel Dúath](../E/Ephel_Dúath.md) ở góc tây nam của [Mordor](../M/Mordor.md).
 
-Nó xuất hiện lần đầu trên bản đồ hàng hóa của Mordor cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* do [Daniel Reeve](../D/Daniel_Reeve.md)<sup id="cite_ref-reeve-site_1-0" class="reference"><a href="#cite_note-reeve-site-1">[1]</a></sup> vẽ vào năm 2003<sup id="cite_ref-reeve-mail_2-0" class="reference"><a href="#cite_note-reeve-mail-2">[2]</a></sup>.
+Nó xuất hiện lần đầu trên bản đồ hàng hóa Mordor dành cho *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)* do [Daniel Reeve](../D/Daniel_Reeve.md)<sup id="cite_ref-reeve-site_1-0" class="reference"><a href="#cite_note-reeve-site-1">[1]</a></sup> vẽ vào năm 2003<sup id="cite_ref-reeve-mail_2-0" class="reference"><a href="#cite_note-reeve-mail-2">[2]</a></sup>.
 
 Trong *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md)* có đề cập rằng trong khi một số trẻ em của [Shelob](../S/Shelob.md) đi du lịch về phía nam, có
 
@@ -32,7 +32,7 @@ Trong *[Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.
 
 ## Từ nguyên {#Etymology}
 
-*Nan Ungol* có vẻ là tên [Sindarin](../S/Sindarin.md), có nghĩa là "Thung lũng nhện", vì bản đồ hiển thị mạng nhện giữa hai ngọn núi và một con nhện gần với nhãn "Nan Ungol". Dường như nó chứa các phần tử <i><a class="mw-redirect mw-disambig" href="Nan.md" title="Nan">nan</a></i> ("vale", "valley")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và *[ungol](../S/Spiders.md#Names)* ("spider")<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>.
+*Nan Ungol* có vẻ là tên [Sindarin](../S/Sindarin.md), có nghĩa là "Thung lũng Nhện", vì bản đồ hiển thị một mạng nhện giữa hai ngọn núi và một con nhện gần với nhãn "Nan Ungol". Dường như nó chứa các phần tử <i><a class="mw-redirect mw-disambig" href="Nan.md" title="Nan">nan</a></i> ("vale", "valley")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> và *[ungol](../S/Spiders.md#Names)* ("spider")<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>.
 
 ## Thư viện {#Gallery}
 

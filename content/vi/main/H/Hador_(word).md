@@ -19,9 +19,9 @@ images:
 
 <i><b>hador</b></i> hoặc <i><b>hadron</b></i> là một từ [Noldorin](../N/Noldorin.md) có nghĩa là "người ném giáo hoặc phi tiêu". Từ này cũng có thể xuất hiện dưới dạng tên cá nhân, <i><a class="mw-disambig" href="Hador_(disambiguation).md" title="Hador (disambiguation)">Hador</a></i>.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-[Tolkien](../J/J.R.R._Tolkien.md) tiếp tục sử dụng tên *Hador* trong các tác phẩm của [huyền thoại](../L/Legendarium.md) sau quá trình tiến hóa từ Noldorin thành [Sindarin](../S/Sindarin.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> mặc dù không biết liệu ông có ý định giữ lại ý nghĩa của Noldorin hay không.
+[Tolkien](../J/J.R.R._Tolkien.md) tiếp tục sử dụng tên *Hador* trong các bài viết của [huyền thoại](../L/Legendarium.md) sau quá trình phát triển từ Noldorin thành [Sindarin](../S/Sindarin.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> mặc dù không biết liệu ông ta có ý định giữ lại ý nghĩa Noldorin hay không.
 
-Trong cả danh sách từ [Neo-Sindarin](../N/Neo-Elvish.md) của [David Salo](../D/David_Salo.md) và [Didier Willis](../D/Didier_Willis.md), *hador* và *hadron* ("người ném") đều xuất hiện dưới dạng dạng Sindarin hợp lệ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong cả danh sách từ [Neo-Sindarin](../N/Neo-Elvish.md) của [David Salo](../D/David_Salo.md) và [Didier Willis](../D/Didier_Willis.md), *hador* và *hadron* ("người ném") xuất hiện dưới dạng biểu mẫu Sindarin hợp lệ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

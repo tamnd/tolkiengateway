@@ -25,11 +25,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 254a</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/8_February.md" title="8 February">8 February</a> <a href="../_/1964.md" title="1964">1964</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Evil winds, sex and marriage</td></tr></tbody></table>
 
-**Thư 254a** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 254a** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết cho con trai mình [Christopher](../C/Christopher_Tolkien.md) và nói về khái niệm 'gió ác' và tác động của chúng đối với cuộc sống, đồng thời khẳng định rằng mặc dù gió có thể lạnh và cay đắng nhưng việc nhận thức chúng là ác quỷ phụ thuộc vào phản ứng của bạn. Ông lưu ý rằng vận may rõ ràng cuối cùng có thể bị hủy hoại và những cơn gió thử thách nhất thường được coi là hậu quả của những hành động hoặc sai lầm của chúng ta.
+Tolkien viết cho con trai mình [Christopher](../C/Christopher_Tolkien.md) và nói về khái niệm 'gió ác' và tác động của chúng đối với cuộc sống, khẳng định rằng tuy gió có thể lạnh và cay đắng nhưng việc nhận thức chúng là ác quỷ phụ thuộc vào phản ứng của bạn. Ông lưu ý rằng vận may rõ ràng cuối cùng có thể bị hủy hoại và những cơn gió thử thách nhất thường được coi là hậu quả của những hành động hoặc sai lầm của chúng ta.
 
 Tolkien cũng thảo luận về chủ đề tình dục và hôn nhân, mô tả chúng là những vấn đề nan giải làm nổi bật "sự rối loạn sâu sắc trong tâm lý con người". Ông phản ánh về sự lạm dụng và nhầm lẫn trong lịch sử xung quanh tình dục, thừa nhận sức mạnh tự nhiên mạnh mẽ và thường áp đảo của tình dục. Ông thảo luận về phản ứng lịch sử của Cơ đốc giáo đối với tình trạng vô đạo đức tình dục, bị ảnh hưởng bởi các tập tục ghê tởm của thế giới Địa Trung Hải cổ đại, và nhận xét về việc thương mại đã làm băng hoại các giá trị, bao gồm cả nghệ thuật và tình dục.
 

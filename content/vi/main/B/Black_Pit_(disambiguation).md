@@ -17,7 +17,7 @@ images:
 <i><b>Hố đen</b></i> có thể đề cập đến:
 
 - [Moria](../M/Moria.md); tên được dịch là *The Black Chasm* hoặc *The Black Pit*.
-- [Hố đen](Black_Pits.md), ngục tối dày vò dưới Barad-dûr.
+- Những [Hố đen](Black_Pits.md), ngục tối dày vò dưới Barad-dûr.
 
 <hr style="margin-top:15px;"/>
 

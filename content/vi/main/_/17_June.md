@@ -62,10 +62,10 @@ Sự kiện xảy ra vào ngày 17 tháng 6
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1968](1968.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ngã xuống cầu thang [76 đường Sandfield](76_Sandfield_Road.md) và gãy chân.
+- **[1968](1968.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ngã cầu thang [76 Sandfield Road](76_Sandfield_Road.md) và gãy chân.
 - **[2009](2009.md)** - *[The Hobbitonian Anthology‎](../T/The_Hobbitonian_Anthology.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Nhóm của Arwen](../A/Arwen.md) đi tới [Minas Tirith](../M/Minas_Tirith.md).
+Nhóm của     - [Arwen](../A/Arwen.md) đi về hướng [Minas Tirith](../M/Minas_Tirith.md).

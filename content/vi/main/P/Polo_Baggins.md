@@ -46,7 +46,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Polo Baggins</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Pola Labingi</i> (<a href="../H/Hobbitish.md" title="Hobbitish">H</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2860.md" title="Third Age 2860">1260</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Baggins_Family~66343.md" title="Baggins Family">Baggins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Ponto_Baggins_I.md" title="Ponto Baggins I">Ponto Baggins</a> and <a href="../M/Mimosa_Bunce.md" title="Mimosa Bunce">Mimosa Bunce</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../R/Rosa_Baggins.md" title="Rosa Baggins">Rosa</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Posco_Baggins.md" title="Posco Baggins">Posco</a> and <a href="Prisca_Baggins.md" title="Prisca Baggins">Prisca</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Polo Baggins** là một người Hobbit của [Quận](../T/The_Shire.md).
+**Polo Baggins** là Hobbit của [ Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -54,7 +54,7 @@ Polo là con thứ hai và là con trai duy nhất của [Ponto Baggins](Ponto_B
 
 ## Từ nguyên {#Etymology}
 
-Cái tên *Polo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương đại. Nó đại diện cho một tên gốc *Pola*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Cái tên *Polo* là vô nghĩa trong [Hobbitish](../H/Hobbitish.md) [Westron](../W/Westron.md) đương thời. Nó đại diện cho một tên gốc *Pola*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

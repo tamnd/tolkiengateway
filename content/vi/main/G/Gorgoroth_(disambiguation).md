@@ -16,14 +16,14 @@ images:
 
 **Gorgoroth** có thể đề cập đến:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - [Ered Gorgoroth](../E/Ered_Gorgoroth.md), dãy núi ở [Beleriand](../B/Beleriand.md)
 - **[Cao nguyên Gorgoroth](../P/Plateau_of_Gorgoroth.md)**, một địa điểm ở [Mordor](../M/Mordor.md)
 
 ## Các tác phẩm chuyển thể và sách {#Adaptations_and_books}
 
-- *[Gorgoroth (book)](<Gorgoroth_(book).md>)*, một trò chơi bổ sung dành cho [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md)
+- *[Gorgoroth (book)](<Gorgoroth_(book).md>)*, trò chơi bổ sung dành cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)
 
 ## Văn hóa đại chúng {#Popular_culture}
 

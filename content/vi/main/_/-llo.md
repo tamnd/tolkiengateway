@@ -14,13 +14,13 @@ sort_keys:
   "Quenya suffixes": "llo"
 ---
 
-<i><b>-llo</b></i> là đuôi [Quenya](../Q/Quenya.md) có nghĩa là "từ" hoặc "ngoài".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:72</sup>
+<i><b>-llo</b></i> là đuôi kết thúc [Quenya](../Q/Quenya.md) có nghĩa là "từ" hoặc "ngoài".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:72</sup>
 
 ## Ví dụ {#Examples}
 
 - <a class="mw-redirect" href="../S/Sindanórie.md" title="Sindanórie"><i>Sindanórie<b>llo</b></i></a> = "từ vùng đất xám" <sup id="cite_ref-PE17_1-1" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - <a href="../R/Rómen.md" title="Rómen"><i>Róme<b>llo</b></i></a> "những người đến từ phương Đông"<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:74</sup>
-- <a class="mw-redirect" href="../E/Ear.md" title="Ear"><i>Eäre<b>llo</b></i></a> = "ngoài [Biển Lớn](../B/Belegaer.md)"<sup id="cite_ref-PE17_1-3" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:103</sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- <a class="mw-redirect" href="../E/Ear.md" title="Ear"><i>Eäre<b>llo</b></i></a> = "ngoài [Đại Hải](../B/Belegaer.md)"<sup id="cite_ref-PE17_1-3" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:103</sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

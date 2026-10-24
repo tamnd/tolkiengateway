@@ -33,13 +33,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/Darth_Gandalf_-_Logo.jpg.md"><img src="https://tolkiengateway.net/w/images/5/50/Darth_Gandalf_-_Logo.jpg" decoding="async" loading="lazy" width="176" height="176" class="mw-file-element" data-file-width="176" data-file-height="176"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Website</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Darth Gandalf</span></th></tr><tr><th scope="row" class="tg-infobox-label">URL</th><td class="tg-infobox-data"><a class="external text" href="https://www.youtube.com/@DarthGandalfYT" rel="noreferrer noopener" target="_blank">YouTube Channel</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Launch Date</th><td class="tg-infobox-data"><a class="mw-redirect" href="../A/April_1.md" title="April 1">April 1st</a>, <a href="../_/2019.md" title="2019">2019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Status</th><td class="tg-infobox-data">Active</td></tr></tbody></table>
 
-**Darth Gandalf** là kênh Youtube về chủ đề Tolkien. Ông làm các bài luận video ngắn và dài về [Trung Địa](../M/Middle-earth.md).
+**Darth Gandalf** là kênh Youtube về chủ đề Tolkien. Ông làm các bài luận video dài và ngắn về [Trung Địa](../M/Middle-earth.md).
 
-Ông có một loạt phim tên là *War in Middle-earth*, nơi ông nói về tất cả những xung đột (lớn) từng xảy ra ở Arda. Một loạt phim khác của ông có tên là *Middle-earth Mysteries*, trong đó ông nói về những điều mà Tolkien còn bỏ ngỏ, chẳng hạn như [Blue Wizards](../B/Blue_Wizards.md).
+Ông có một loạt bài tên là *War in Middle-earth*, trong đó ông nói về tất cả những xung đột (lớn) từng xảy ra trong Arda. Một loạt bài khác của ông có tên là *Middle-earth Mysteries*, trong đó ông nói về những điều Tolkien còn bỏ ngỏ, chẳng hạn như [Blue Pháp sư](../B/Blue_Wizards.md).
 
-Ông cũng nói rằng ông sử dụng [Cổng Tolkien](../T/Tolkien_Gateway.md) rất nhiều.
+Ông cũng nói rằng ông sử dụng [Tolkien Gateway](../T/Tolkien_Gateway.md) rất nhiều.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.youtube.com/@DarthGandalfYT" rel="noreferrer noopener" target="_blank">Kênh Youtube của Darth Gandalf</a>
+- <a class="external text" href="https://www.youtube.com/@DarthGandalfYT" rel="noreferrer noopener" target="_blank">Darth Gandalf Kênh Youtube</a>
 - <a class="external text" href="https://www.patreon.com/darthgandalf" rel="noreferrer noopener" target="_blank">Darth Gandalf Patreon</a>

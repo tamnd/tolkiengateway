@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Ordway, Holly"
 ---
 
-**Holly Ordway** là một học giả văn học và nhà biện hộ [Cơ đốc giáo](../C/Christianity.md) tập trung vào [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và những [Inklings](../I/Inklings.md) khác.
+**Holly Ordway** là một nhà biện hộ học thuật văn học và [Cơ đốc giáo](../C/Christianity.md) tập trung vào [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Inklings](../I/Inklings.md) khác.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -33,8 +33,8 @@ sort_keys:
 
 ### Bài viết {#Articles}
 
-- [2018](../_/2018.md): *[The Inklings và Vua Arthur](../T/The_Inklings_and_King_Arthur.md): J.R.R. Tolkien, Charles Williams, C.S. Lewis, và Owen Barfield về vấn đề nước Anh*
-    - "Các nguồn tài liệu thời Trung cổ của Arthur dành cho những người mơ hồ: Tổng quan"
+- [2018](../_/2018.md): *[ Inklings và Vua Arthur](../T/The_Inklings_and_King_Arthur.md): J.R.R. Tolkien, Charles Williams, C.S. Lewis và Owen Barfield về vấn đề nước Anh*
+    - "Các nguồn thời Trung cổ của Arthur cho Inklings: Tổng quan"
 - [2019](../_/2019.md): *Câu chuyện của vũ trụ: Thiên đường tuyên bố vinh quang của Chúa như thế nào*
     - "Khôi phục tầm nhìn của vũ trụ: Tường thuật về sự sáng tạo của Tolkien"
 

@@ -36,7 +36,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Gilbarad* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý rằng nó chứa các yếu tố *[gil](Gil.md)* ("ngôi sao; (sáng) tia lửa, ánh bạc, ánh sáng lấp lánh") và *[barad](../B/Barad.md)* ("tháp, tòa nhà cao chót vót").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Gilbarad* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được làm rõ, nhưng Paul Strack gợi ý rằng nó chứa các yếu tố *[gil](Gil.md)* ("ngôi sao; (sáng) tia lửa, ánh bạc, ánh sáng lấp lánh") và *[barad](../B/Barad.md)* ("tháp, tòa nhà cao chót vót").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với bà Ehrardt rằng ông không hiểu mong muốn của bà gắn tên ông với TOLK, một thông dịch viên hoặc người phát ngôn. Một từ có nguồn gốc Slavonic, được sử dụng trong tiếng Litva (TULKAS), tiếng Phần Lan (TULKKI) và các ngôn ngữ Scandinavia, trên khắp miền Bắc nước Đức và cuối cùng sang tiếng Hà Lan (TOLK). Tuy nhiên, nó chưa bao giờ được chuyển sang tiếng Anh. <br>
+Tolkien nói với bà Ehrardt rằng anh không hiểu mong muốn của bà gắn tên anh với TOLK, một thông dịch viên hoặc người phát ngôn. Một từ có nguồn gốc Slavonic, được sử dụng trong tiếng Litva (TULKAS), tiếng Phần Lan (TULKKI) và các ngôn ngữ Scandinavia, trên khắp miền Bắc nước Đức và cuối cùng sang tiếng Hà Lan (TOLK). Tuy nhiên, nó chưa bao giờ được chuyển sang tiếng Anh. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

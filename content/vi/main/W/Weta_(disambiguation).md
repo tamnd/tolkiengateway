@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Weta** là một <a class="extiw" href="http://en.wikipedia.org/wiki/Weta" title="wikipedia:Weta">phân loài côn trùng có nguồn gốc từ New Zealand</a>, nhưng có thể tham khảo:
+**Weta** là một phân loài <a class="extiw" href="http://en.wikipedia.org/wiki/Weta" title="wikipedia:Weta">côn trùng thuộc bộ New Zealand</a>, nhưng có thể đề cập đến:
 
 - [Sideshow Collectibles](../S/Sideshow_Collectibles.md), đôi khi là Sideshow Weta, một công ty có trụ sở tại California chuyên kinh doanh đồ sưu tầm.
 - [Wētā FX](Wētā_FX.md), trước đây gọi là Weta Digital, một công ty [New Zealand](../N/New_Zealand.md) chuyên tạo ra các hiệu ứng đặc biệt cho [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lake-town (book)"
 ---
 
-Chuyển hướng tới [Thị trấn hồ (sách)](<../L/Lake-town_(book).md>).
+Chuyển hướng đến [Thị trấn Hồ (sách)](<../L/Lake-town_(book).md>).

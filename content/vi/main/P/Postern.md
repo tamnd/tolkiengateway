@@ -14,7 +14,7 @@ categories:
   - "British businesses"
 ---
 
-**Postern** là công ty phát hành trò chơi điện tử *[Shadowfax](<../S/Shadowfax_(video_game).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Mike Singleton](../M/Mike_Singleton.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và Sean Logan làm việc cho Postern.
+**Postern** là công ty phát hành trò chơi điện tử *[Shadowfax](<../S/Shadowfax_(video_game).md>)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Mike Austin Singleton](../M/Mike_Singleton.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và Sean Logan làm việc cho Postern.
 
 <span></span>
 

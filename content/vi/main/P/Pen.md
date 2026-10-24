@@ -20,7 +20,7 @@ images:
 
 ## Quenya {#Quenya}
 
-<i><b>pen</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "không có, không có".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+<i><b>pen</b></i> là từ [Quenya](../Q/Quenya.md) mang ý nghĩa "không có, không có".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
@@ -28,7 +28,7 @@ images:
 
 ### Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md): *[pen-](Pen-.md)*
+- [Sindarin](../S/Sindarin.md): *[pen-](Pen-.md)*
 
 ### Xem thêm {#See_also}
 
@@ -36,11 +36,11 @@ images:
 
 ## Telerin {#Telerin}
 
-<i><b>pen</b></i> trong [Telerin](../T/Telerin.md) có nghĩa là "người" (như một đại từ khách quan)<sup id="cite_ref-QE_2-0" class="reference"><a href="#cite_note-QE-2">[2]</a></sup>, dường như tương tự như *man* tiếng Đức (cũng được sử dụng trong tiếng Anh cổ) và calque tiếng Pháp *on* của nó.
+<i><b>pen</b></i> trong [Telerin](../T/Telerin.md) có nghĩa là "người" (như một đại từ khách quan)<sup id="cite_ref-QE_2-0" class="reference"><a href="#cite_note-QE-2">[2]</a></sup>, rõ ràng là tương tự như *man* tiếng Đức (cũng được sử dụng trong tiếng Anh cổ) và calque tiếng Pháp *on* của nó.
 
 ### Từ nguyên {#Etymology_2}
 
-Từ này là dạng hậu duệ của dạng [Quendian nguyên thủy](Primitive_Quendian.md) *kwene* > [Eldarin thông thường](../C/Common_Eldarin.md) *kwēn*, bắt nguồn từ [gốc](../S/Sundocarme.md) [KWENE](../K/KWENE.md).<sup id="cite_ref-QE_2-1" class="reference"><a href="#cite_note-QE-2">[2]</a></sup>
+Từ này là dạng con cháu của dạng [Primitive Quendian](Primitive_Quendian.md) *kwene* > [Common Eldarin](../C/Common_Eldarin.md) *kwēn*, xuất phát từ [gốc](../S/Sundocarme.md) [KWENE](../K/KWENE.md).<sup id="cite_ref-QE_2-1" class="reference"><a href="#cite_note-QE-2">[2]</a></sup>
 
 ### Có cùng nguồn gốc {#Cognates_2}
 

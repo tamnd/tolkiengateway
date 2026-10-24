@@ -27,11 +27,11 @@ images:
   - "Disambig.png"
 ---
 
-Thuật ngữ **Kinslaying** đề cập đến những trường hợp [Yêu tinh](../E/Elves.md) chiến đấu và giết chết những Yêu tinh khác. Điều này chỉ xảy ra ba lần trong lịch sử và tất cả đều được thực hiện bởi [Noldor](../N/Noldor.md) trong nhiệm vụ thu hồi [Silmarils](../S/Silmarils.md):
+Thuật ngữ **Giết người thân** đề cập đến những trường hợp [Tiên tộc](../E/Elves.md) chiến đấu và giết chết Tiên tộc người khác. Điều này chỉ xảy ra ba lần trong lịch sử và tất cả đều được thực hiện bởi [Noldor](../N/Noldor.md) trong nhiệm vụ khôi phục [Silmaril](../S/Silmarils.md):
 
-- Cuộc **Cuộc tàn sát họ hàng đầu tiên**, còn được gọi là [Cuộc tàn sát họ hàng tại Alqualondë](Kinslaying_at_Alqualondë.md), trong đó [Yêu tinh Telerin](../T/Teleri.md) đã bị giết vì sử dụng tàu của họ.
-- Vụ **[Cuộc tàn sát họ hàng lần thứ hai](../S/Second_Kinslaying.md)**, góp phần vào sự sụp đổ của [Doriath](../D/Doriath.md), đã diễn ra vì [Silmaril](../S/Silmaril.md) của [Dior](../D/Dior.md).
-- **[Vụ sát hại họ hàng thứ ba](../T/Third_Kinslaying.md)** xảy ra tại [Miệng của Sirion](../M/Mouths_of_Sirion.md) và được tranh giành [Elwing](../E/Elwing.md) (con gái của Dior) [Silmaril](../S/Silmaril.md). Vụ Kinslaying thứ ba được coi là tồi tệ nhất trong ba vụ.
+- **Vụ tàn sát họ hàng đầu tiên**, còn được gọi là [Vụ tàn sát họ hàng tại Alqualondë](Kinslaying_at_Alqualondë.md), trong đó [Telerin Tiên tộc](../T/Teleri.md) đã bị giết vì sử dụng tàu của họ.
+- Vụ **[Tàn sát họ hàng lần thứ hai](../S/Second_Kinslaying.md)** góp phần vào sự sụp đổ của [Doriath](../D/Doriath.md), đã xảy ra vì [Silmaril](../S/Silmaril.md) của [Dior](../D/Dior.md).
+- Vụ **[Cuộc tàn sát đồng tộc lần thứ ba](../T/Third_Kinslaying.md)** xảy ra tại [Cửa sông Sirion](../M/Mouths_of_Sirion.md) và được tranh giành [Elwing](../E/Elwing.md)(con gái củaDior) [Silmaril](../S/Silmaril.md). Cuộc tàn sát đồng tộc lần thứ ba được coi là tệ nhất trong ba loại.
 
 <hr style="margin-top:15px;"/>
 

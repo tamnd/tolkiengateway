@@ -13,7 +13,7 @@ categories:
   - "Telerin words"
 ---
 
-**ye** trong [Telerin](../T/Telerin.md) được sử dụng cho biểu thức "và"; có thể được sử dụng như thường lệ theo cặp (hoặc tiền tố) và cũng xuất hiện trước mỗi mục của danh sách<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**ye** trong [Telerin](../T/Telerin.md) được dùng cho biểu thức "và"; có thể được sử dụng như thường lệ theo cặp (hoặc tiền tố) và cũng xuất hiện trước mỗi mục của danh sách<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

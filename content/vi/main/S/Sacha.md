@@ -16,7 +16,7 @@ categories:
 
 **Sacha** là tên của một "lửa-[fay](../F/Fay.md)", theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Say_1-0" class="reference"><a href="#cite_note-Say-1">[1]</a></sup>
 
-Mặc dù không có thông tin cụ thể nào khác về nhân vật này, nhưng trong phần phụ lục của văn bản <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Creatures_of_the_Earth&amp;action=edit&amp;redlink=1" title="The Creatures of the Earth (page does not exist)">Các sinh vật trên Trái đất</a></i>, các fay/linh hồn liên quan đến [Valar](../V/Valar.md) lớn hơn được chia thành bốn nhóm nguyên tố:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Mặc dù không có thông tin cụ thể nào khác về nhân vật này, nhưng trong phần phụ lục của văn bản <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Creatures_of_the_Earth&amp;action=edit&amp;redlink=1" title="The Creatures of the Earth (page does not exist)">Các sinh vật trên Trái đất</a></i>, các vị thần/linh hồn liên quan đến [Valar](../V/Valar.md) lớn hơn được chia thành bốn nhóm nguyên tố:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - Không khí (bao gồm [manir](../M/Manir.md) và [súruli](Súruli.md))
 - Trái đất (bao gồm [tavari](../T/Tavari.md), [nermir](../N/Nermir.md), v.v.)
@@ -27,7 +27,7 @@ Có thể Sacha thuộc về một loại tiên/linh hồn nào đó có liên q
 
 ## Từ nguyên {#Etymology}
 
-Tên *Sacha* có trong [Gnomish](../G/Gnomish.md). Theo [Paul Strack](../P/Paul_Strack.md), nó có thể là dẫn xuất của gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SAH(Y)A&amp;action=edit&amp;redlink=1" title="SAH(Y)A (page does not exist)">SAH(Y)A</a> ("be hot").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Sáya</b></i>.<sup id="cite_ref-Say_1-1" class="reference"><a href="#cite_note-Say-1">[1]</a></sup>
+Tên *Sacha* nằm trong [Gnomish](../G/Gnomish.md). Theo [Paul Strack](../P/Paul_Strack.md), nó có thể là dẫn xuất của gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SAH(Y)A&amp;action=edit&amp;redlink=1" title="SAH(Y)A (page does not exist)">SAH(Y)A</a> ("be hot").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Sáya</b></i>.<sup id="cite_ref-Say_1-1" class="reference"><a href="#cite_note-Say-1">[1]</a></sup>
 
 <span></span>
 

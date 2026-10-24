@@ -40,15 +40,15 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư này, Tolkien gửi kèm một bản sao của *[A Long-expected Party](../A/A_Long-expected_Party.md)*, chương đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (có lẽ là để [Rayner Unwin xem xét](Letter_21.md)).
+Trong thư này, Tolkien kèm theo một bản sao của *[A Long-expected Party](../A/A_Long-expected_Party.md)*, chương đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* (có lẽ để [xem xét bởi Rayner Unwin](Letter_21.md)).
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/C.A._Furth_4_February_1938.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ec/C.A._Furth_4_February_1938.png/250px-C.A._Furth_4_February_1938.png" decoding="async" loading="lazy" width="250" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/ec/C.A._Furth_4_February_1938.png 1.5x" data-file-width="370" data-file-height="473"/></a><figcaption></figcaption></figure>
 
-Ông cũng đề cập đến việc nhận được một lá thư từ một độc giả trẻ với danh sách *errata* được tìm thấy trong *[The Hobbit](../T/The_Hobbit.md)*. Sau đó, ông đã giao nhiệm vụ cho cậu con trai út [Christopher](../C/Christopher_Tolkien.md), lúc đó đang nằm trên giường vì bệnh tim, tìm kiếm thêm, trả cho cậu hai xu cho mỗi sai sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Tolkien đính kèm cả hai danh sách với hy vọng rằng một ngày nào đó chúng có thể được yêu cầu.
+Ông cũng đề cập đến việc nhận được một lá thư từ một độc giả trẻ với danh sách *errata* được tìm thấy trong *[The Hobbit](../T/The_Hobbit.md)*. Sau đó, ông giao cho cậu con trai út [Christopher](../C/Christopher_Tolkien.md), lúc đó đang nằm liệt giường vì bệnh tim, tìm kiếm thêm, trả cho cậu hai xu cho mỗi sai sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Tolkien kèm theo cả hai danh sách, với hy vọng rằng một ngày nào đó chúng sẽ được yêu cầu.
 
 <dl><dt>In the expanded edition</dt></dl>
 
-Trong một câu, Tolkien xác nhận rằng ông đã nhận được bản sao của *The Hobbit* mà ông đã yêu cầu trong bức thư trước.
+Trong một câu Tolkien xác nhận anh đã nhận được bản sao của *The Hobbit* mà anh đã yêu cầu ở bức thư trước.
 
 ## Ghi chú {#Notes}
 

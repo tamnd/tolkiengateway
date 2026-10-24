@@ -37,6 +37,6 @@ sort_keys:
 </p>
 </td></tr></tbody></table>
 
-**ýneg** là số mười hai (12, XII) trong [Sindarin](../S/Sindarin.md). Trong khi [Yêu tinh](../E/Elves.md) có hệ thập lục phân, [Đàn ông](../M/Men.md) thì không và không sử dụng thuật ngữ này.
+**ýneg** là số mười hai (12, XII) trong [Sindarin](../S/Sindarin.md). Trong khi [Tiên tộc](../E/Elves.md) có hệ thập nhị phân, [Con Người](../M/Men.md) thì không và không sử dụng thuật ngữ này.
 
 Bản thân từ này được hình thành từ \*<i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Yuneke&amp;action=edit&amp;redlink=1" title="Yuneke (page does not exist)">yuneke</a></i>trước đó, có nghĩa là "hai số sáu".

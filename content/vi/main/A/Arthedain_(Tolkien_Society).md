@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/A/Arthedain_(Tolkien_Society).png.md"><img src="https://tolkiengateway.net/w/images/9/9b/Arthedain_%28Tolkien_Society%29.png" decoding="async" loading="lazy" width="200" height="200" class="mw-file-element" data-file-width="200" data-file-height="200"/></a><figcaption></figcaption></figure>
 
-**Arthedain - Norges Tolkienforening** là [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) của Na Uy, được thành lập vào [ngày 16 tháng 9](../_/16_September.md), [1981](../_/1981.md) tại Oslo, Na Uy. Arthedain có 71 thành viên vào năm 2003<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và 55 thành viên vào năm 2008.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Arthedain - Norges Tolkienforening** là [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) của Na Uy, được thành lập vào ngày [tháng Chín 16](../_/16_September.md), [1981](../_/1981.md) ở Oslo, Na Uy. Arthedain có 71 thành viên năm 2003<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và 55 thành viên năm 2008.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ấn phẩm {#Publications}
 
@@ -25,17 +25,17 @@ Bản tin *Angerthas* của hội được xuất bản đều đặn, khoảng 
 
 ## Các chi hội địa phương {#Local_Chapters}
 
-Talath Aer, chi nhánh Oslo, tổ chức một số cuộc họp mỗi năm. Mithlond, chi hội Bergen, đã không hoạt động trong nhiều năm. [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md) là thành viên nổi bật và là người sáng lập Arthedain.
+Talath Aer, chi nhánh Oslo, tổ chức một số cuộc họp mỗi năm. Mithlond, chi hội Bergen, đã không hoạt động trong nhiều năm. [Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md) là thành viên nổi bật và là người sáng lập của Arthedain.
 
 ## Sự kiện {#Events}
 
-Năm 1997, Arthedain tổ chức Lễ hội Tolkien phương Bắc lần thứ hai tại khuôn viên Đại học Oslo ở Oslo. Các diễn giả đáng chú ý là: Kaj André Apeland, [Nils Ivar Agøy](../N/Nils_Ivar_Agoy.md), [Marjorie Burns](../M/Marjorie_Burns.md), [Verlyn Flieger](../V/Verlyn_Flieger.md), Maria Kuteeva và Daniel Timmons. Kỷ yếu tố tụng sau đó đã được xuất bản trên *[Between Faith and Fiction](../B/Between_Faith_and_Fiction.md)*, do Nils Ivar Agøy biên tập.
+Năm 1997 Arthedain tổ chức Lễ hội miền Bắc Tolkien lần thứ hai tại khuôn viên trường Đại học Oslo ở Oslo. Các diễn giả đáng chú ý là: Kaj André Apeland, [Nils Ivar Agøy](../N/Nils_Ivar_Agoy.md), [Marjorie Burns](../M/Marjorie_Burns.md), [Verlyn Flieger](../V/Verlyn_Flieger.md), Maria Kuteeva và Daniel Timmons. Kỷ yếu tố tụng sau đó đã được xuất bản trên *[Between Faith and Fiction](../B/Between_Faith_and_Fiction.md)*, do Nils Ivar Agøy biên tập.
 
-Năm 2009, Arthedain đã cố gắng tổ chức Lễ hội Tolkien phương Bắc lần thứ tư ở Fredrikstad, Na Uy. Thật không may, sự kiện đã bị hủy do thiếu người đăng ký.
+Năm 2009 Arthedain đã cố gắng tổ chức Lễ hội Kỷ Đệ Tứ Miền Bắc Tolkien ở Fredrikstad, Na Uy. Thật không may, sự kiện đã bị hủy do thiếu người đăng ký.
 
 ## Đố vui {#Trivia}
 
-Arthedain gọi Unquendor (Hiệp hội Tolkien Hà Lan) là hiệp hội chị em của cô kể từ khi cả hai hiệp hội được thành lập vào năm 1981.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Arthedain coi Unquendor (Hội Tolkien Hà Lan) là hội chị em của cô kể từ khi cả hai hội được thành lập vào năm 1981.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Tài liệu tham khảo {#References}
 

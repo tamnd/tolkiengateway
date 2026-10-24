@@ -13,9 +13,9 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>kuluma</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "quả cam".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>kuluma</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "quả cam".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *culuma* (giữ nguyên nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Elvish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng dạng *culuma* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Quenya](../N/Neo-Elvish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

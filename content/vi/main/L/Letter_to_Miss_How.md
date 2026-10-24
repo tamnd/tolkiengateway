@@ -16,8 +16,8 @@ sort_keys:
 
 Vào [12 tháng 11](../_/12_November.md) [1949](../_/1949.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho cô How**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Mô tả:** Tolkien viết rằng ông có "hai tác phẩm quy mô rất lớn đã được chấp nhận và gần hoàn thành".
-- **Ấn bản:** *[Sotheby's Catalogue of Valuable Autograph Letters, Literary Manuscripts and Historical Documents 21-22 July 1980](../S/Sotheby's_Catalogue_of_Valuable_Autograph_Letters,_Literary_Manuscripts_and_Historical_Documents_21-22_July_1980.md)*, tr. 338.
+- **Mô tả:** Tolkien viết rằng anh có "hai tác phẩm có quy mô rất lớn đã được nghiệm thu và sắp hoàn thành".
+- **Xuất bản:** *[Sotheby's Catalogue of Valuable Autograph Letters, Literary Manuscripts and Historical Documents 21-22 July 1980](../S/Sotheby's_Catalogue_of_Valuable_Autograph_Letters,_Literary_Manuscripts_and_Historical_Documents_21-22_July_1980.md)*, tr. 338.
 
 <span></span>
 

@@ -35,13 +35,13 @@ categories:
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[adar](Adar.md)*
+- [Sindarin](../S/Sindarin.md) *[adar](Adar.md)*
 
 ## Cảm hứng {#Inspiration}
 
 *Atar* có thể được so sánh với tiếng Hy Lạp/Latinh *pater*.
 
-Ở nhánh Celtic, p- ban đầu của Indoeuropean đã bị mất nên chúng ta có các dạng tương tự như *atar*, giống như tiếng Ireland *athair* (từ Proto-Celtic <i>*ɸatīr</i>).
+Trong nhánh Celtic, p- ban đầu của Indoeuropean đã bị mất nên chúng ta có các dạng tương tự như *atar*, giống như tiếng Ireland *athair* (từ Proto-Celtic <i>*ɸatīr</i>).
 
 Cũng lưu ý tiếng Thổ Nhĩ Kỳ *atto*. <span></span>
 

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Clarke, Cam"
 ---
 
-**Cameron A. Clarke** ([Ngày 6 tháng 11](../_/6_November.md), [1957](../_/1957.md)) là một diễn viên lồng tiếng người Mỹ. Ông lồng tiếng cho [King Arveleg](../A/Arveleg_I.md) trong *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)* và cung cấp thêm giọng nói trong *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*.
+**Cameron A. Clarke** ([Ngày 6 tháng 11](../_/6_November.md), [1957](../_/1957.md)) là một diễn viên lồng tiếng người Mỹ. Ông lồng tiếng cho [Vua Arveleg](../A/Arveleg_I.md) trong *[EA's The Battle for Middle-earth II: The Rise of the Witch-king](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md)* và cung cấp thêm giọng nói trong *[The Hobbit](<../T/The_Hobbit_(2003_video_game).md>)*.
 
 ## Liên kết ngoài {#External_links}
 

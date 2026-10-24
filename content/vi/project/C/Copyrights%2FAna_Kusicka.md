@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kusicka, Ana"
 ---
 
-- Ana Kusicka đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ana_Kusicka.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ana Kusicka đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ana_Kusicka.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 22 tháng 5 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

@@ -14,9 +14,9 @@ categories:
   - "The Shire"
 ---
 
-Ban đầu, kiểu sống ưa thích của [Hobbit](Hobbits.md) là những cái hố chôn trên sườn đồi, vùng trũng và bờ sông. Vào cuối [Kỷ nguyên thứ ba](../T/Third_Age.md), những ngôi nhà này phần lớn đã được thay thế bằng các tòa nhà bằng gỗ hoặc gạch, nhưng các hố hobbit vẫn được sử dụng bởi các gia đình Hobbit lâu đời hơn ở [the Shire](../T/The_Shire.md), được gọi là *[smials](../S/Smials.md)* (ví dụ: tại [Bag End](../B/Bag_End.md) và [Great Smials](../G/Great_Smials.md)), hoặc bởi những người nghèo nhất "tiếp tục sống trong những hang ổ kiểu nguyên thủy nhất, thực ra chỉ là những cái lỗ, chỉ có một cửa sổ hoặc không có gì".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ban đầu, kiểu nhà [Hobbit](Hobbits.md) ưa thích là những cái hố được chôn trên sườn đồi, vùng đất thấp và bờ sông. Vào cuối [Kỷ Đệ Tam](../T/Third_Age.md), những ngôi nhà này phần lớn đã được thay thế bằng các tòa nhà bằng gỗ hoặc gạch, nhưng các hố hobbit vẫn được sử dụng bởi các gia đình Hobbit lâu đời hơn của [nhóm Shire](../T/The_Shire.md), được gọi là *[smials](../S/Smials.md)* (ví dụ: tại [Bag End](../B/Bag_End.md) và [Great Smials](../G/Great_Smials.md)), hoặc bởi những người nghèo nhất "tiếp tục sống trong những hang động thuộc loại nguyên thủy nhất, thực ra chỉ là những cái hang, chỉ có một cửa sổ." hoặc không có".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Bree-hobbit](../B/Bree-hobbits.md) đã đào hang Hobbit ở [Bree-hill](../B/Bree-hill.md).
+[Bree-hobbit](../B/Bree-hobbits.md) đã đào hang Hobbit trong [Bree-hill](../B/Bree-hill.md).
 
 <span></span>
 

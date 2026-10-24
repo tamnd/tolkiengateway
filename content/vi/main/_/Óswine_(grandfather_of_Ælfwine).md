@@ -29,7 +29,7 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Óswine* bằng [tiếng Anh cổ](../O/Old_English.md). Nó chứa các phần tử *os* ("thần") + *wine* ("bạn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên *Óswine* nằm trong [tiếng Anh cổ](../O/Old_English.md). Nó chứa các phần tử *os* ("thần") + *wine* ("bạn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

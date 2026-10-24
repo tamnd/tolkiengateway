@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orodreth (Steward of Gondor)"
 ---
 
-Chuyển hướng đến [Orodreth (Người quản lý Gondor)](<Orodreth_(Steward_of_Gondor).md>).
+Chuyển hướng tới [Orodreth (Người quản lý của Gondor)](<Orodreth_(Steward_of_Gondor).md>).

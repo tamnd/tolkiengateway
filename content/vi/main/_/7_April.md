@@ -66,20 +66,20 @@ Sự kiện xảy ra vào ngày 7 tháng 4.
 ## Trên Trái đất {#On_Earth}
 
 - **[1896](1896.md)** - [Hugo Dyson](../H/Hugo_Dyson.md) ra đời.
-- **[1928](1928.md)** - *The Tablet* tường thuật về bài viết "[The Chill Barbarians of the North](../T/The_Chill_Barbarians_of_the_North.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)".
+- **[1928](1928.md)** - *The Tablet* tường thuật về bài viết của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)"[Những kẻ man rợ phương Bắc](../T/The_Chill_Barbarians_of_the_North.md)".
 - **[1948](1948.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 114](../L/Letter_114.md).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Randy Trimmer](../L/Letter_to_Randy_Trimmer.md).
 - **[1987](1987.md)** - Diễn viên [Ismael Cruz Córdova](../I/Ismael_Cruz_Córdova.md) ra đời.
 - **[2006](2006.md)** - [Tolkien Ensemble](../T/Tolkien_Ensemble.md) xuất bản tác phẩm đã sưu tầm của họ, *[Complete Songs &amp; Poems](../C/Complete_Songs_and_Poems.md)*.
-- <b><a href="2016.md" title="2016">2016</a> - <i><a href="../A/A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md" title="A Secret Vice: Tolkien on Invented Languages">Phó bí mật: Tolkien về các ngôn ngữ được phát minh</a></i> được xuất bản.</b>
+- <b><a href="2016.md" title="2016">2016</a> - <i><a href="../A/A_Secret_Vice%253A_Tolkien_on_Invented_Languages.md" title="A Secret Vice: Tolkien on Invented Languages">Phó bí mật: Tolkien về Ngôn ngữ được phát minh</a></i> được xuất bản.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) đi tới [Field of Celebrant](../F/Field_of_Celebrant.md).
+    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) di chuyển về phía [Trường Celebrant](../F/Field_of_Celebrant.md).
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, an nghỉ ở [Ithilien](../I/Ithilien.md).
-    - Trăng tròn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).
+    - Đầy đủ Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

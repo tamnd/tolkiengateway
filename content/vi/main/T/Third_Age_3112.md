@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fourth Age 91"
 ---
 
-Chuyển hướng đến [Tuổi thứ tư 91](../F/Fourth_Age_91.md).
+Chuyển hướng tới [Kỷ Đệ Tứ 91](../F/Fourth_Age_91.md).

@@ -16,9 +16,9 @@ images:
 
 **Bob** có thể đề cập đến:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Bob](Bob.md), một [Hobbit](../H/Hobbits.md) đến từ [Bree](Bree.md) và là người hầu của [Barliman Butterbur](Barliman_Butterbur.md).**
+- **[Bob](Bob.md), một [Hobbit](../H/Hobbits.md) từ [Bree](Bree.md) và là người hầu của [Barliman Butterbur](Barliman_Butterbur.md).**
 
 ## Thế giới thực {#Real_world}
 

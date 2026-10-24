@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Finwë"
 ---
 
-Chuyển hướng tới [Finwë](../F/Finwë.md).
+Chuyển hướng đến [Finwë](../F/Finwë.md).

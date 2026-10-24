@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Ghül</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Derby, Derbyshire, England</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">Black metal</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">2023–present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://ghuluk.bandcamp.com/music" rel="noreferrer noopener" target="_blank">Bandcamp</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Abghül</td></tr></tbody></table>
 
-**Ghül** là một ban nhạc black metal đến từ Derby, Derbyshire, Anh, được thành lập vào năm 2023.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các bản phát hành của nhóm bao gồm những bản phát hành mang tên [Minas Morgul](../M/Minas_Morgul.md), [Thangorodrim](../T/Thangorodrim.md) và [Nazgûl](../N/Nazgûl.md).
+**Ghül** là một ban nhạc black metal đến từ Derby, Derbyshire, Anh, được thành lập vào năm 2023.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Các bản phát hành của nhóm bao gồm các bản phát hành có tên sau [Minas Morgul](../M/Minas_Morgul.md), [Thangorodrim](../T/Thangorodrim.md) và [Nazgûl](../N/Nazgûl.md).
 
 ## Thành viên {#Members}
 
@@ -40,20 +40,20 @@ infobox:
 - "Fuin Eriol Na-Gúl" (2023, đĩa đơn)
 - *Fuin Eriol Na-Gúl* (2023, bản thử nghiệm)
     1. Gwathren Hir
-    2. Pháp sư chiêu hồn
+    2. Necromancer
     3. Trận chiến bất ngờ bùng cháy
     4. Fuin Eriol Na-Gúl
 - *Land of Shadow* (2023, đầy đủ)
     1. Dưới ngọn cờ của Vùng đất đen
     2. Nơi bóng tối nằm
-    3. Mặt trăng trong hồ tối
+    3. Cái Mặt Trăng ở Hồ Tối
     4. Gánh nặng của nỗi buồn mãi mãi
-    5. Dưới bóng tối của sự bất hòa
+    5. Dưới sự Bóng Tối của sự bất hòa
     6. Sự phấn chấn theo sau cơn bão
 - "Nunduhirion" (2023, đĩa đơn)
 - "Thangorodrim" (2023, đĩa đơn)
 - *Stormcrow* (2024, đầy đủ)
-    1. Stormcrow: Phần thứ nhất
+    1. Stormcrow: Phần một
     2. Stormcrow: Phần thứ hai
     3. Stormcrow: Phần thứ ba
 - "Noldolantë" (2024, đĩa đơn)
@@ -65,15 +65,15 @@ infobox:
 - *Fuin Na Hain* (2024, EP)
     1. Gwathren Neder
     2. Fuin Na Hain
-    3. Dúr Rochben
+    3. Dúr Rocheben
 - *Minas Morgul* (2024, EP)
-    1. Minas Morgul I
+    1. Minas Morgul Tôi
     2. Minas Morgul II
     3. Minas Morgul III
     4. Minas Morgul IV
 - *Lord of Carrion* (2024, EP)
     1. Chúa tể của xác sống
-    2. Thung lũng bóng tối
+    2. Bóng Tối Giá trị
     3. Sự cô độc
     4. Fuin Eriol Na-Gúl (trực tiếp)
 - *Iconoclast* (2024, EP)
@@ -93,10 +93,10 @@ infobox:
     4. Chùa (nhạc cụ)
     5. Con đường (nhạc cụ)
 - *Shadow of Grief* (2026, đầy đủ)
-    1. Trong bóng tối của suy nghĩ của tôi
-    2. Mũ bảo hiểm đáng sợ
+    1. Trong Bóng Tối Suy nghĩ của tôi
+    2. Sợ hãi Helm
     3. Vết máu, đứa con của số phận bệnh tật
-    4. Sự xuất hiện của con sâu khổng lồ
+    4. Sự xuất hiện của loài sâu lớn
     5. Sự im lặng sẽ phục vụ tất cả mục đích của chúng ta
 
 ## Tài liệu tham khảo {#References}

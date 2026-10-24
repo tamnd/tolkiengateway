@@ -71,14 +71,14 @@ Sự kiện xảy ra vào ngày 21 tháng 8
 - **[1957](1957.md)** – Nghệ sĩ [John Howe](../J/John_Howe.md) ra đời.
 - **[1961](1961.md)** – Một [cuộc phỏng vấn](../../index/I/Interviews_with_J.R.R._Tolkien.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) ("[Den besynnerlige Professor Tolkien](../D/Den_besynnerlige_professor_Tolkien.md)") được xuất bản bằng tiếng Thụy Điển.
 - **[1982](1982.md)** – Tập thứ sáu phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
-- <b><a href="1986.md" title="1986">1986</a> – <i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaped of Middle-earth</a></i> được xuất bản ở Anh.</b>
-- **[1992](1992.md)** – [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
+- <b><a href="1986.md" title="1986">1986</a> – <i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> được xuất bản ở Anh.</b>
+- **[1992](1992.md)** – [Tolkien Hội nghị Thế kỷ](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
 - **[2000](2000.md)** – [Mythcon 31](../M/Mythcon_31.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hawaii" title="wikipedia:Hawaii">Hawaii</a>.
-- **[2006](2006.md)** – [Hội nghị Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
+- **[2006](2006.md)** – [Hội thảo Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
 - **[2007](2007.md)** – Cuốn sách thứ mười của [The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md), "Hy vọng tiềm ẩn", được phát hành ở Bắc Mỹ.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

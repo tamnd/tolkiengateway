@@ -15,7 +15,7 @@ categories:
 
 <i><b>tinw</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "tia lửa, [ngôi sao](../S/Stars.md) nhỏ".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-[David Salo](../D/David_Salo.md) đã gợi ý rằng dạng *tinu* (giữ nguyên nghĩa) có thể hợp lệ [Neo-Sindarin](../N/Neo-Elvish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+[David Salo](../D/David_Salo.md) đã gợi ý rằng dạng *tinu* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Sindarin](../N/Neo-Elvish.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -33,7 +33,7 @@ categories:
 ## Xem thêm {#See_also}
 
 - *[tinnu](Tinnu.md)*
-- [tiếng Sindarin](../S/Sindarin.md) *[tîn](Tîn.md#Noun)*
+- [Sindarin](../S/Sindarin.md) *[tîn](Tîn.md#Noun)*
 
 <span></span>
 

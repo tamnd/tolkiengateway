@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-*Out on the Water* là ca khúc thứ mười chín trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md).
+*Out on the Water* là ca khúc thứ mười chín trong album chủ đề Tolkien của [Người giám hộ mù quáng](../B/Blind_Guardian.md), [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md).
 
 ## Lời bài hát {#Lyrics}
 

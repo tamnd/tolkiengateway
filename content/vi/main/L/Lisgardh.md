@@ -18,7 +18,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Lisgardh"
 ---
 
-**Lisgardh** là một vùng đất fenland tại [Miệng Sirion](../M/Mouths_of_Sirion.md) bao gồm các khu vực rộng lớn nơi [sậy](../R/Reeds.md) và cói mọc cao ngang người.<sup id="cite_ref-Tuor_1-0" class="reference"><a href="#cite_note-Tuor-1">[1]</a></sup>
+**Lisgardh** là một vùng đất fenland ở [Cửa sông Sirion](../M/Mouths_of_Sirion.md) bao gồm các khu vực rộng lớn nơi [sậy](../R/Reeds.md) và cói mọc cao ngang người.<sup id="cite_ref-Tuor_1-0" class="reference"><a href="#cite_note-Tuor-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -26,9 +26,9 @@ langlinks:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)*, *Lisgardh* được gọi là <i><b>Arlisgion</b></i> trong [Gnomish](../G/Gnomish.md), cũng có nghĩa là "nơi lau sậy".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó được mô tả là nằm ở phía nam của [Dor Lómin](../D/Dor-lómin.md) nhưng được ngăn cách với nó bởi [Núi Bóng tối](../E/Ered_Wethrin.md). [Tuor](../T/Tuor.md) ở lại đó một thời gian trước khi khởi hành đến [Xứ sở của những cây liễu](../N/Nan-tathren.md) "nhưng đáng yêu hơn".
+Trong *[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)*, *Lisgardh* được gọi là <i><b>Arlisgion</b></i> trong [Gnomish](../G/Gnomish.md), cũng có nghĩa là "nơi lau sậy".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó được mô tả là nằm ở phía nam của [Dor Lómin](../D/Dor-lómin.md) nhưng được ngăn cách với nó bởi [Dãy Núi Bóng Tối](../E/Ered_Wethrin.md). [Tuor](../T/Tuor.md) ở lại đó một thời gian trước khi khởi hành đến [Xứ Liễu](../N/Nan-tathren.md) "nhưng đáng yêu hơn".
 
-Biến thể khác của tên Gnomish là <i><b>Garlisgion</b></i>và tên cùng nguồn gốc [Qenya](../Q/Qenya.md) của nó là <i><b>Ardaliskea</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Biến thể khác của tên Gnomish là <i><b>Garlisgion</b></i>và [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Ardaliskea</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

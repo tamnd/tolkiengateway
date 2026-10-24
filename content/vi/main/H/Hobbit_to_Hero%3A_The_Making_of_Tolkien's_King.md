@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hobbit to Hero"
 ---
 
-Chuyển hướng đến [Hobbit thành Anh hùng](Hobbit_to_Hero.md).
+Chuyển hướng tới [Hobbit tới Anh hùng](Hobbit_to_Hero.md).

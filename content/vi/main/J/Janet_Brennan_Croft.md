@@ -41,55 +41,55 @@ infobox:
 ### Bài viết {#Articles}
 
 - [2002](../_/2002.md): [*Mythlore* 90](../M/Mythlore_90.md), Tập 23, Số 4
-    - "Đại chiến và Ký ức của Tolkien: xem xét các chủ đề về Thế chiến thứ nhất trong *The Hobbit* và *The Lord of the Rings*" (trang 4–21)
+    - "Cuộc chiến vĩ đại và ký ức của Tolkien: xem xét các chủ đề của Thế chiến thứ nhất trong *The Hobbit* và *The Lord of the Rings*" (trang 4–21)
 - [2003](../_/2003.md): [*Mallorn* 41](../M/Mallorn_41.md) (Tháng 7 năm 2003)
     - "'Đọc *Lord of the Rings*: Nỗ lực cuối cùng': phân tích cộng đồng web" (trang 26–33)
 - [2003](../_/2003.md): *Kỷ yếu của Hiệp hội Văn hóa Đại chúng và Hoa Kỳ Tây Nam/Texas* (SW/TEX PCA/ACA) Năm 2000-2003
     - "'Sự lãng phí chiến tranh hoàn toàn ngu ngốc': J.R.R. Tolkien trong Thế chiến thứ hai"
-    - "Các mỏ Moria: 'Dự đoán' và 'Làm phẳng' trong *The Fellowship of the Ring* của Peter Jackson"
+    - "Mỏ của Moria: 'Dự đoán' và 'Làm phẳng' trong *The Fellowship of the Ring* của Peter Jackson"
 - [2004](../_/2004.md): *World Literature Today*, Tháng 1–tháng 4 năm 2004
     - "Ngoài *The Hobbit*: Các tác phẩm khác dành cho trẻ em của J.R.R. Tolkien" (trang 67–70)
 - [2004](../_/2004.md): [*Mallorn* 42](../M/Mallorn_42.md) (Tháng 8 năm 2004)
-    - "Đạo đức lãnh đạo quân sự trong *The Lord of the Rings* của J.R.R. Tolkien" (trang 47–50)
+    - "Đạo đức lãnh đạo quân sự ở J.R.R. Tolkien's *The Lord of the Rings*" (trang 47–50)
 - [2004](../_/2004.md): [*Mythlore* 92](../M/Mythlore_92.md) (Hè/Thu 2004)
     - "'The Young Perish và Old Linger, Withering': Thế chiến thứ hai trong tác phẩm của J.R.R. Tolkien" (trang 58–71)
 - [2004](../_/2004.md): [*SEVEN: An Anglo-American Literary Review*, Tập 21](../S/SEVEN_21.md)
     - "Ra giá cho cây bỏ gốc đất của mình": Chủ đề từ *Macbeth* trong *The Lord of the Rings*" (trang 47-60)
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
-    - "Nông dân Giles of Ham", "Gríma (Wormtongue)", "Haigh, Walter E. (1856-1931)", "Merry", "Pippin", "Rankin/Bass Productions, Inc.", "Shakespeare"
+    - "Farmer Giles of Ham", "Gríma (Wormtongue)", "Haigh, Walter E. (1856-1931)", "Merry", "Pippin", "Rankin/Bass Productions, Inc.", "Shakespeare"
 - [2007](../_/2007.md): *Fantasy Fiction Into Film* (Ed. Leslie Stratyner và James R. Keller)
-    - "Ba chiếc nhẫn cho Hollywood: Kịch bản cho *The Lord of the Rings* của Zimmerman, Boorman và Beagle." (trang 7–20)
+    - "Ba Chiếc Nhẫn dành cho Hollywood: Kịch bản cho *The Lord of the Rings* của Zimmerman, Boorman và Beagle." (trang 7–20)
 - [2007](../_/2007.md): [*Silver Leaves*, Số 1](../S/Silver_Leaves_1.md)
-    - "Tôi đã tìm hiểu thêm về người Hobbit như thế nào"
+    - "Tôi đã tìm hiểu thêm về Hobbit như thế nào"
 - [2007](../_/2007.md): *[Tolkien and Shakespeare: Essays on Shared Themes and Language](../T/Tolkien_and_Shakespeare%253A_Essays_on_Shared_Themes_and_Language.md)*
     - "'Trả giá cho cái cây bỏ gốc rễ gắn liền với Trái đất của mình': Chủ đề từ *Macbeth* trong *The Lord of the Rings*"
 - [2007](../_/2007.md): [*Tolkien Studies*: Tập 4](../T/Tolkien_Studies%253A_Volume_4.md)
     - "Ghi chú và tài liệu: Walter E. Haigh, Tác giả của Bảng thuật ngữ mới về phương ngữ Huddersfield" (trang 184–188)
 - [2009](../_/2009.md): [*Mythlore* 107/108](../M/Mythlore_107%252F108.md), Tập 28, Số 1/2
-    - "Đặt tên cho kẻ ác: Chiến lược dị thường ở Tolkien và Rowling" (trang 149–164)
+    - "Đặt tên cho kẻ ác: Chiến lược dị thường trong Tolkien và Rowling" (trang 149–164)
 - [2011](../_/2011.md): [*Mythlore* 113/114](../M/Mythlore_113%252F114.md), Tập 29, Số 3/4
-    - "Túrin và Aragorn: Ôm lấy và trốn tránh số phận"
+    - "Túrin và Aragorn: Đón nhận và trốn tránh số phận"
 - [2011](../_/2011.md): [*Tolkien Studies*: Tập 8](../T/Tolkien_Studies%253A_Volume_8.md)
     - "Con gà đẻ trứng: Tolkien và Đoàn huấn luyện sĩ quan"
-- [2011](../_/2011.md): [*Picturing Tolkien: Essays on Peter Jackson's* Chúa tể của những chiếc nhẫn *Film Trilogy*](../P/Picturing_Tolkien.md)
-    - "Jackson's Aragorn và siêu anh hùng Monomyth của Mỹ"
+- [2011](../_/2011.md): [*Picturing Tolkien: Essays on Peter Jackson's* The Lord of the Rings *Film Trilogy*](../P/Picturing_Tolkien.md)
+    - "Jackson Aragorn và siêu anh hùng Monomyth của Mỹ"
 - [2012](../_/2012.md): [*Mallorn* 53](../M/Mallorn_53.md)
-    - "Về nguồn gốc của ý tưởng" (đánh giá *[Tolkien and the Study of His Sources](../T/Tolkien_and_the_Study_of_His_Sources.md)*)
+    - "Về nguồn gốc của ý tưởng" (đánh giá về *[Tolkien and the Study of His Sources](../T/Tolkien_and_the_Study_of_His_Sources.md)*)
 - [2014](../_/2014.md): [*Mythlore* 124](../M/Mythlore_124.md)
-    - "Vở kịch Faërian của Tolkien: Nguồn gốc và định giá"
+    - "Tolkien Vở kịch Faërian: Nguồn gốc và định giá"
 - [2015](../_/2015.md): [*Mythlore* 127](../M/Mythlore_127.md)
-    - "Noms de Guerre: Sức mạnh của việc đặt tên trong chiến tranh và xung đột ở Trung địa."
+    - "Noms de Guerre: Sức mạnh của việc đặt tên trong chiến tranh và xung đột ở Trung Địa."
 - [2016](../_/2016.md): *[Journal of Tolkien Research](Journal_of_Tolkien_Research.md)* (tập 3, số 1)
-    - "<a class="external text" href="http://scholar.valpo.edu/journaloftolkienresearch/vol3/iss1/2/" rel="noreferrer noopener" target="_blank">Tài nguyên thư mục cho tìm kiếm văn học trên J.R.R Tolkien</a>"
+    - "<a class="external text" href="http://scholar.valpo.edu/journaloftolkienresearch/vol3/iss1/2/" rel="noreferrer noopener" target="_blank">Tài nguyên thư mục cho tìm kiếm tài liệu trên J.R.R Tolkien</a>"
 - [2016](../_/2016.md): *[The Return Of The Ring: Proceedings of the Tolkien Society Conference 2012](../T/The_Return_Of_The_Ring%253A_Proceedings_of_the_Tolkien_Society_Conference_2012~62335.md)*
-    - "Vở kịch Faërian của Tolkien: Nguồn gốc và định giá"
+    - "Phim truyền hình Faërian củaTolkien: Nguồn gốc và định giá"
 - [2018](../_/2018.md): [*Tolkien Studies*: Tập 15](../T/Tolkien_Studies%253A_Volume_15.md)
-    - "Cánh cửa vào gò yêu tinh: Lời giới thiệu, Lời nói đầu và Lời nói đầu của J.R.R. Tolkien"
+    - "Cửa vào Tiên-gò: Lời giới thiệu, Lời nói đầu và Lời nói đầu của J.R.R. Tolkien"
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://middle-earth.xenite.org/an-interview-with-janet-brennan-croft/" rel="noreferrer noopener" target="_blank">Bài phỏng vấn Janet Brennan Croft</a> của [Michael Martinez](../M/Michael_Martinez.md)
-- <a class="external text" href="https://www.post-gazette.com/ae/movies/2013/01/06/Person-of-Interest-Janet-Brennan-Croft-Tolkien-scholar/stories/201301060230" rel="noreferrer noopener" target="_blank">Người quan tâm: Janet Brennan Croft, học giả Tolkien</a>
+- <a class="external text" href="https://www.post-gazette.com/ae/movies/2013/01/06/Person-of-Interest-Janet-Brennan-Croft-Tolkien-scholar/stories/201301060230" rel="noreferrer noopener" target="_blank">Người quan tâm: Janet Brennan Croft, Tolkien học giả</a>
 - <a class="external text" href="https://www.youtube.com/watch?v=WDz3Hvn7i5U" rel="noreferrer noopener" target="_blank">"Văn học giả tưởng của Anh & Thế chiến thứ nhất"</a> tại Thư viện Bang OK.
 
 <span></span>

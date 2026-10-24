@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_21.gif.md"><img src="https://tolkiengateway.net/w/images/f/f1/Mythlore_21.gif" decoding="async" loading="lazy" width="225" height="293" class="mw-file-element" data-file-width="225" data-file-height="293"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 21</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Gracia Fay Ellwood</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1979.md" title="1979">1979</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">47</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_20.md" title="Mythlore 20">Mythlore 20</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_22.md" title="Mythlore 22">Mythlore 22</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 21</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol6/iss3/" rel="noreferrer noopener" target="_blank">Tập 6, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 21</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol6/iss3/" rel="noreferrer noopener" target="_blank">Tập 6, Số 3</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -60,7 +60,7 @@ infobox:
 - Patterson, Nancy-Lou. “Kỳ lạ và nặng nề.” Mục sư của Sayers, Dorothy L. The Cơ đốc giáo hay thay đổi. 14-15.
 - Patterson, Nancy-Lou. “Một thế giới trong một hạt cát.” Mục sư của Kilby, Clyde S. Images của Salvation trong Tiểu thuyết C.S. Lewis. 15.
 - Patterson, Nancy-Lou. “Bước lên đường: Đạo đức Kitô giáo của C.S. Lewis.” Mục sư của Meilander, Gilbert. Sở thích của người khác: Tư tưởng xã hội và đạo đức của C.S. Lewis. 16.
-- Patterson, Nancy-Lou. “Tình chị em và chiếc chăn rơm.” Linh mục của Dale, Alzina Stone. Người sáng tạo và người thợ thủ công: Câu chuyện về Dorothy L. Sayers. 16-17.
+- Patterson, Nancy-Lou. “Tình chị em và chiếc chăn rơm.” Mục sư của Dale, Alzina Stone. Người sáng tạo và người thợ thủ công: Câu chuyện về Dorothy L. Sayers. 16-17.
 - Colvin, George. “An Ever-Diverse Pair.” Rev. of McCaffrey, Anne. Dragondrums. Allan, Jim. An Introduction to Elvish. 17, 37.
 - Speth, Lee. “Cavalier Treatment: Those Shakespearean Hags.” 18, 38.
 - Ellwood, Gracia Fay. “Consort, Virgin, Adventurer.” 26, 37.
@@ -79,7 +79,7 @@ infobox:
 - Annette Harper: 21, 22, 23
 - Joanne Gari: 16
 - Mary Janis Johnson: 12, 41, 44
-- Michael Logan: 24-25, 47
+- Michael Lan: 24-25, 47
 - Gary Meyers: 9
 - Thadara Ottobris: 5
 - Nancy-Lou Patterson: bìa

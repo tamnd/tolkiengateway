@@ -29,15 +29,15 @@ images:
 
 **Dietrich Ebert** (sinh [1948](../_/1948.md)) là một nhà thiết kế và họa sĩ minh họa người Đức.
 
-Dietrich Ebert sinh ra ở St. Peter, bang <a class="extiw" href="http://en.wikipedia.org/wiki/Schleswig-Holstein" title="wikipedia:Schleswig-Holstein">Schleswig-Holstein</a>của Đức. Là một nhà thiết kế đồ họa, Dietrich Ebert làm việc cho một số công ty quảng cáo và các công ty công nghiệp. Trong hơn 25 năm, Ebert đã thiết kế bìa sách cho công ty xuất bản [Klett-Cotta](../K/Klett-Cotta.md). Trong [1985](../_/1985.md) Klett-Cotta xuất bản cùng với *[Der Tolkien Kalender 1986](<../T/The_Tolkien_Calendar_1986_(German).md>)* Lịch Tolkien của Đức với 12 hình minh họa màu về [Trung Địa](../M/Middle-earth.md) do Dietrich Ebert thực hiện. Dietrich Ebert sống và làm việc tại <a class="extiw" href="http://en.wikipedia.org/wiki/Reutlingen" title="wikipedia:Reutlingen">Reutlingen</a>, Đức.
+Dietrich Ebert sinh ra ở St. Peter, bang <a class="extiw" href="http://en.wikipedia.org/wiki/Schleswig-Holstein" title="wikipedia:Schleswig-Holstein">Schleswig-Holstein</a>của Đức. Là một nhà thiết kế đồ họa, Dietrich Ebert làm việc cho một số công ty quảng cáo và các công ty công nghiệp. Trong hơn 25 năm, Ebert đã thiết kế bìa sách cho công ty xuất bản [Klett-Cotta](../K/Klett-Cotta.md). Trong [1985](../_/1985.md) Klett-Cotta xuất bản cùng với *[Der Tolkien Kalender 1986](<../T/The_Tolkien_Calendar_1986_(German).md>)* một cuốn Lịch Tolkien tiếng Đức với 12 hình minh họa màu về [Trung Địa](../M/Middle-earth.md) do Dietrich Ebert thực hiện. Dietrich Ebert sống và làm việc tại <a class="extiw" href="http://en.wikipedia.org/wiki/Reutlingen" title="wikipedia:Reutlingen">Reutlingen</a>, Đức.
 
-## Thiết kế và minh họa bìa liên quan đến Tolkien {#Tolkien_related_cover_designs_and_illustrations}
+## Tolkien thiết kế và minh họa bìa liên quan {#Tolkien_related_cover_designs_and_illustrations}
 
-Các ấn bản tiếng Đức sau đây của các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được thiết kế hoặc minh họa bởi Dietrich Ebert:
+Các ấn bản tiếng Đức sau đây của tác phẩm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được thiết kế hoặc minh họa bởi Dietrich Ebert:
 
 - *Die Abenteuer des Tom Bombadil* (*[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*) của J.R.R. Tolkien, Klett-Cotta [1984](../_/1984.md).
-- *Nachrichten aus Mittelerde* (*[Unfinished Tales of Númenor and Middle-earth](../U/Unfinished_Tales_of_Númenor_and_Middle-earth.md)*) của J.R.R. Tolkien (Christopher Tolkien), Klett-Cotta [1996](../_/1996.md).
-- *Das Silmarillion* (*[The Silmarillion](../T/The_Silmarillion.md)*) của J.R.R. Tolkien ([Christopher Tolkien](../C/Christopher_Tolkien.md)), Klett-Cotta [1997](../_/1997.md).
+- *Nachrichten aus Mittelerde* (*[Unfinished Tales of Númenor and Middle-earth](../U/Unfinished_Tales_of_Númenor_and_Middle-earth.md)*) bởi J.R.R. Tolkien (Christopher Tolkien), Klett-Cotta [1996](../_/1996.md).
+- *Das Silmarillion* (*[The Silmarillion](../T/The_Silmarillion.md)*) bởi J.R.R. Tolkien ([Christopher Tolkien](../C/Christopher_Tolkien.md)), Klett-Cotta [1997](../_/1997.md).
 - *Das Buch der Verschollenen Geschichten* (*[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*) (Phần 1 và 2) của J.R.R. Tolkien (Christopher Tolkien), Klett-Cotta [1999](../_/1999.md).
 - *Der Herr der Ringe* (*[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*) của J. R. R. Tolkien, thành một tập (ấn bản màu đỏ), Klett-Cotta [2000](../_/2000.md).
 - *Der Herr der Ringe* của J.R.R. Tolkien, gồm ba tập (ấn bản xanh), Klett-Cotta [2000](../_/2000.md).

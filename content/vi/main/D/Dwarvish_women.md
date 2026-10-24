@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dwarf-women"
 ---
 
-Chuyển hướng đến [Phụ nữ lùn](Dwarf-women.md).
+Chuyển hướng đến [Người lùn-phụ nữ](Dwarf-women.md).

@@ -22,10 +22,10 @@ images:
   - "Disambig.png"
 ---
 
-<i><b>Turambar</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "Bậc thầy của sự diệt vong", từ *[tur](Tur.md)* ("chủ nhân, chúa tể") + *[ambar](../A/Ambar.md)* ("sự diệt vong") và có thể tham khảo:
+<i><b>Turambar</b></i> là [Quenya](../Q/Quenya.md) dành cho "Master of Doom", từ *[tur](Tur.md)* ("master, Lord") + *[ambar](../A/Ambar.md)* ("doom") và có thể tham khảo:
 
-- **[Turambar](Túrin.md) ([F.A.](../F/First_Age.md) [464](../F/First_Age_464.md) - [499](../F/First_Age_499.md)), tên được lấy bởi [con trai](Túrin.md) của [Húrin](../H/Húrin.md) khi anh sống giữa [Haladin](../H/Haladin.md) của [Khu rừng Brethil](../F/Forest_of_Brethil.md).**
-- [Turambar](<Turambar_(King_of_Gondor).md>) ([T.A.](Third_Age.md) [397](Third_Age_397.md) - [667](Third_Age_667.md)), [Vua](../K/Kings_of_Gondor.md) thứ chín của [Gondor](../G/Gondor.md), người đã mở rộng lãnh thổ của Gondor thành [Rhûn](../R/Rhûn.md).
+- **[Turambar](Túrin.md) ([F.A.](../F/First_Age.md) [464](../F/First_Age_464.md) - [499](../F/First_Age_499.md)), tên được lấy bởi [con trai](Túrin.md) của [Húrin](../H/Húrin.md) khi ông ta sống giữa [Haladin](../H/Haladin.md) của [Khu rừng Brethil](../F/Forest_of_Brethil.md).**
+- [Turambar](<Turambar_(King_of_Gondor).md>) ([T.A.](Third_Age.md) [397](Third_Age_397.md) - [667](Third_Age_667.md)), [Vua](../K/Kings_of_Gondor.md) thứ chín của [Gondor](../G/Gondor.md) đã mở rộng lãnh thổ của Gondor thành [Rhûn](../R/Rhûn.md).
 
 ## Có cùng nguồn gốc {#Cognates}
 

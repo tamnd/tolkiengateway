@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bard"
 ---
 
-Chuyển hướng tới [Bard](Bard.md).
+Chuyển hướng đến [Bard](Bard.md).

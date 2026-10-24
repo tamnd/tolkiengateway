@@ -42,7 +42,7 @@ Helmut W. Pesch sinh ra và lớn lên ở <a class="extiw" href="http://en.wiki
 
 Từ [1984](../_/1984.md) đến [1986](../_/1986.md), ông là biên tập viên phụ cho Khoa học-Fiction và Fantasy tại công ty xuất bản Bastei-Lübbe của Đức, kể từ đó ông làm việc ở đó với tư cách là biên tập viên cho tiểu thuyết. Ông cũng là thành viên Hội đồng Cố vấn Học thuật cho [Nhà xuất bản Cây biết đi](../W/Walking_Tree_Publishers.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Pesch đã viết một số tiểu thuyết lấy cảm hứng từ chủ đề thần thoại. Trong quá trình nghiên cứu về thể loại giả tưởng và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), Helmut W. Pesch đã xuất bản một số bài tiểu luận và tuyển tập phê bình về những câu chuyện của Tolkien và nguồn cảm hứng của nó. Với kiến ​​thức về các ngôn ngữ [Elvish](../E/Elvish.md), ông đã viết một cuốn từ điển tiếng Elvish gồm hai phần.
+Pesch đã viết một số tiểu thuyết lấy cảm hứng từ chủ đề thần thoại. Trong quá trình nghiên cứu về truyện giả tưởng và [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), Helmut W. Pesch đã xuất bản một số tiểu luận và tuyển tập phê bình về những câu chuyện của Tolkien và nguồn cảm hứng của nó. Với kiến ​​thức về [Elvish](../E/Elvish.md) ngôn ngữ của mình, ông đã viết được một cuốn từ điển thần tiên gồm hai phần.
 
 Hiện Pesch sống cùng vợ và con gái gần Cologne.
 
@@ -51,16 +51,16 @@ Hiện Pesch sống cùng vợ và con gái gần Cologne.
 ### Bản dịch {#Translations}
 
 - [1991](../_/1991.md): [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md), [Phụ lục E (I)](../A/Appendix_E.md) (*Anhang E (I): Aussprache*, xuất bản lần đầu trong ấn bản tiếng Đức năm 1991)
-- [2002](../_/2002.md): [Hướng dẫn đầy đủ về Trung địa](../T/The_Complete_Guide_to_Middle-earth.md) (*Das große Mittelerde-Lexikon* (phiên bản sửa đổi))
+- [2002](../_/2002.md): [Hướng dẫn đầy đủ về Trung Địa](../T/The_Complete_Guide_to_Middle-earth.md) (*Das große Mittelerde-Lexikon* (phiên bản sửa đổi))
 - [2007](../_/2007.md): [The Children of Húrin](../T/The_Children_of_Húrin.md) (*Die Kinder Húrins*) (đồng dịch [Hans J. Schütz](Hans_J._Schütz.md))
-- [2008](../_/2008.md): [Con đường đến Trung Địa](../T/The_Road_to_Middle-earth.md) (*Der Weg nach Mittelerde*)
+- [2008](../_/2008.md): [Con đường dẫn tới Trung Địa](../T/The_Road_to_Middle-earth.md) (*Der Weg nach Mittelerde*)
 
 ### Tác phẩm gốc {#Original_Works}
 
 - [1984](../_/1984.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J._R._R._Tolkien:_Der_Mythensch%C3%B6pfer&amp;action=edit&amp;redlink=1" title="J. R. R. Tolkien: Der Mythenschöpfer (page does not exist)">J. R. R. Tolkien: Der Mythenschöpfer</a></i> (Tuyển tập)
 - [1994](../_/1994.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Das_Licht_von_Mittelerde&amp;action=edit&amp;redlink=1" title="Das Licht von Mittelerde (page does not exist)">Das Licht von Mittelerde</a></i> (Tuyển tập bài giảng và tiểu luận)
 - [2001](../_/2001.md)/[2004](../_/2004.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elbisch-W%C3%B6rterbuch&amp;action=edit&amp;redlink=1" title="Elbisch-Wörterbuch (page does not exist)">Elbisch-Wörterbuch</a></i> và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Elbisch_-_Lern-_und_%C3%9Cbungsaufgaben&amp;action=edit&amp;redlink=1" title="Elbisch - Lern- und Übungsaufgaben (page does not exist)">Elbisch - Lern- und Übungsaufgaben</a></i> (Từ điển yêu tinh hai phần có bài tập)
-- [2009](../_/2009.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Das_gro%C3%9Fe_Elbisch-Buch&amp;action=edit&amp;redlink=1" title="Das große Elbisch-Buch (page does not exist)">Das große Elbisch-Buch</a></i> (Từ điển Elvish)
+- [2009](../_/2009.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Das_gro%C3%9Fe_Elbisch-Buch&amp;action=edit&amp;redlink=1" title="Das große Elbisch-Buch (page does not exist)">Das große Elbisch-Buch</a></i> (Elvish-dictionary)
 
 <span></span>
 

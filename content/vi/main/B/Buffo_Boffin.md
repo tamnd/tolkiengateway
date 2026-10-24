@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Buffo Boffin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Yale.md" title="The Yale">The Yale</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="Boffin_Family~66342.md" title="Boffin Family">Boffin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../I/Ivy_Goodenough.md" title="Ivy Goodenough">Ivy Goodenough</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Bosco_Boffin.md" title="Bosco Boffin">Bosco</a>, <a href="Basso_Boffin.md" title="Basso Boffin">Basso</a>, <a href="Briffo_Boffin.md" title="Briffo Boffin">Briffo</a> and <a class="mw-redirect" href="Berylla_Baggins.md" title="Berylla Baggins">Berylla</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Buffo Boffin** là một người Hobbit và là tộc trưởng của [Gia đình Boffin](Boffin_Family~66342.md).
+**Buffo Boffin** là Hobbit và là tộc trưởng của [Gia đình Boffin](Boffin_Family~66342.md).
 
 ## Lịch sử {#History}
 

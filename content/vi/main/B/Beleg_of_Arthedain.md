@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beleg (King of Arthedain)"
 ---
 
-Chuyển hướng tới [Beleg (Vua của Arthedain)](<Beleg_(King_of_Arthedain).md>).
+Chuyển hướng đến [Beleg (Vua của Arthedain)](<Beleg_(King_of_Arthedain).md>).

@@ -14,9 +14,9 @@ images:
   - "Disambig.png"
 ---
 
-**Moria** có thể đề cập đến:
+**Moria** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - **[Moria](Moria.md)**, tên của [Khazad-dûm](Moria.md).
 
@@ -25,7 +25,7 @@ images:
 - *[Moria (video game)](<Moria_(video_game).md>)*, trò chơi điện tử năm 1982
 - *[Moria: The Dwarven City](Moria%253A_The_Dwarven_City.md)*, trò chơi bổ sung dành cho *[Middle-earth Role Playing](Middle-earth_Role_Playing.md)*.
 - *[Moria (1994 book)](<Moria_(1994_book).md>)*, trò chơi bổ sung dành cho *[Middle-earth Role Playing](Middle-earth_Role_Playing.md)*.
-- "[Moria](<Moria_(scene).md>)", một cảnh trong bộ phim [2001](../_/2001.md) *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- "[Moria](<Moria_(scene).md>)", một cảnh trong phim [2001](../_/2001.md) *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 - *[Moria (2003 book)](<Moria_(2003_book).md>)*, trò chơi bổ sung dành cho *[The Lord of the Rings Roleplaying Game](../T/The_Lord_of_the_Rings_Roleplaying_Game.md)*.
 
 ## Xem thêm {#See_also}

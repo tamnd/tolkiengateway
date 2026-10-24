@@ -16,13 +16,13 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1332.md" title="Third Age 1332">1332</a><a href="Third_Age_1344.md" title="Third Age 1344">1344</a><a href="Third_Age_1349.md" title="Third Age 1349">1349</a><a class="mw-selflink selflink">1356</a><a href="Third_Age_1366.md" title="Third Age 1366">1366</a><a href="Third_Age_1391.md" title="Third Age 1391">1391</a><a href="Third_Age_1409.md" title="Third Age 1409">1409</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 1356** (viết tắt là **T.A. 1356**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1356 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Tam 1356** (viết tắt là **T.A. 1356**) là năm [thứ 1356 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Vua](../K/Kings_of_Arthedain.md) [Argeleb I](../A/Argeleb_I.md) của [Arthedain](../A/Arthedain.md) bị giết trong trận chiến với [Rhudaur](../R/Rhudaur.md)<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup> và [Angmar](../A/Angmar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Vua](../K/Kings_of_Arthedain.md) [Argeleb I](../A/Argeleb_I.md) trong số [Arthedain](../A/Arthedain.md) tử trận trong trận chiến với [Rhudaur](../R/Rhudaur.md)<sup id="cite_ref-AppB2_1-0" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup> và [Angmar](../A/Angmar.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Con trai của Argeleb, [Arveleg I](../A/Arveleg_I.md), trở thành [Vua](../K/Kings_of_Arthedain.md) của [Arthedain](../A/Arthedain.md).<sup id="cite_ref-AppA1_3-0" class="reference"><a href="#cite_note-AppA1-3">[3]</a></sup>
-- Vào khoảng thời gian này, [Các tầng](../S/Stoors.md) rời khỏi [Góc](../A/Angle_of_Eriador.md) và một số quay trở lại [Wilderland](../R/Rhovanion.md).<sup id="cite_ref-AppB2_1-1" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
+- Vào khoảng thời gian này, [Stoors](../S/Stoors.md) rời khỏi [Angle](../A/Angle_of_Eriador.md) và một số quay trở lại [Wilderland](../R/Rhovanion.md).<sup id="cite_ref-AppB2_1-1" class="reference"><a href="#cite_note-AppB2-1">[1]</a></sup>
 
 <span></span>
 

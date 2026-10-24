@@ -28,9 +28,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Lise Myhre** (sinh [1 tháng 11](../_/1_November.md) [1975](../_/1975.md)) là một họa sĩ truyện tranh người Na Uy. Phim hoạt hình *Nemi* của cô có nhiều tài liệu tham khảo về [các câu chuyện về Trung Địa](Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Lise Myhre** (sinh [1 tháng 11](../_/1_November.md) [1975](../_/1975.md)) là một họa sĩ truyện tranh người Na Uy. Phim hoạt hình *Nemi* của cô bao gồm nhiều tài liệu tham khảo về [Trung Địa câu chuyện](Legendarium.md) của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Lise_Myhre" title="wikipedia:Lise Myhre">Lise Myhre</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- "<a class="external text" href="http://greyhavensgroup.wordpress.com/2012/06/08/nemi-a-piece-of-scandinavian-nerd-culture-tapping-into-the-world-of-tolkein/" rel="noreferrer noopener" target="_blank">Nemi – một phần của nền văn hóa mọt sách Scandinavia khai thác thế giới Tolkien</a>" tại <a class="external text" href="http://greyhavensgroup.wordpress.com/" rel="noreferrer noopener" target="_blank">The Grey Havens Group</a>
+- "<a class="external text" href="http://greyhavensgroup.wordpress.com/2012/06/08/nemi-a-piece-of-scandinavian-nerd-culture-tapping-into-the-world-of-tolkein/" rel="noreferrer noopener" target="_blank">Nemi – một phần của nền văn hóa mọt sách Scandinavia khai thác thế giới Tolkien</a>" tại <a class="external text" href="http://greyhavensgroup.wordpress.com/" rel="noreferrer noopener" target="_blank">Nhóm Cảng Xám</a>

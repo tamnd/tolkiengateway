@@ -49,7 +49,7 @@ Gelekas đã sáng tạo nghệ thuật từ khi còn nhỏ và bắt đầu v�
 
 ### Triển lãm trực tuyến {#Online_Exhibition}
 
-- <a class="external text" href="https://www.spirosgelekas.com/middle-earth" rel="noreferrer noopener" target="_blank">Câu chuyện của Spiros Gelekas từ Trung Địa</a>
+- <a class="external text" href="https://www.spirosgelekas.com/middle-earth" rel="noreferrer noopener" target="_blank">Truyện Spiros Gelekas từ Trung Địa</a>
 
 ## Xem thêm {#See_also}
 

@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi chủ hiệu sách người Hà Lan <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cees_Ouboter&amp;action=edit&amp;redlink=1" title="Cees Ouboter (page does not exist)">Cees Ouboter</a>, Tolkien bày tỏ lòng biết ơn về sự sắp xếp chu đáo và nhiệt tình cho lễ hội sắp tới, sự kiện quốc tế đầu tiên mà ông nhận lời sau khi phát hành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Bất chấp sự mong đợi của mình, Tolkien đề cập đến việc lo lắng về việc trở thành trung tâm của sự chú ý, cảm thấy giống một người hobbit khiêm tốn hơn là một tác giả nổi tiếng.
+Trong bức thư gửi chủ hiệu sách người Hà Lan <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cees_Ouboter&amp;action=edit&amp;redlink=1" title="Cees Ouboter (page does not exist)">Cees Ouboter</a>, Tolkien bày tỏ lòng biết ơn về sự sắp xếp chu đáo và nhiệt tình cho lễ hội sắp tới, sự kiện quốc tế đầu tiên mà ông chấp nhận sau khi phát hành *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Bất chấp sự mong đợi của ông, Tolkien đề cập đến việc lo lắng về việc trở thành trung tâm của sự chú ý, cảm thấy giống một người hobbit khiêm tốn hơn là một tác giả nổi tiếng.
 
-Ông lưu ý rằng mình không thể nói hoặc hiểu nhiều tiếng Hà Lan, thừa nhận rằng ông không thoải mái với ngôn ngữ nói mặc dù là một nhà ngữ văn. Tolkien cũng hỏi về độ dài thích hợp cho bài phát biểu của mình và nói rằng ông đang cân nhắc việc trình bày nó theo phong cách bài phát biểu của [Bilbo Baggins](../B/Bilbo_Baggins.md) tại [bữa tiệc sinh nhật lần thứ 111](../B/Bilbo's_Farewell_Party.md) của ông, có thể bao gồm một số câu thơ và các đoạn khác.
+Ông lưu ý rằng mình không thể nói hoặc hiểu nhiều tiếng Hà Lan, thừa nhận rằng ông không thoải mái với ngôn ngữ nói mặc dù là một nhà ngữ văn. Tolkien cũng hỏi về độ dài thích hợp cho bài phát biểu của ông và nói rằng ông đang cân nhắc việc trình bày nó theo phong cách bài phát biểu của [Bilbo Baggins](../B/Bilbo_Baggins.md) tại [bữa tiệc sinh nhật lần thứ 111](../B/Bilbo's_Farewell_Party.md) của mình, có thể bao gồm một số câu thơ và các đoạn khác.
 
 Cuối cùng, ông suy ngẫm về trang phục phù hợp cho sự kiện, cân nhắc giữa trang phục trang trọng truyền thống và trang phục thoải mái hơn lấy cảm hứng từ người Hobbit. <br>
 

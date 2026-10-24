@@ -35,9 +35,9 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-**Con lợn rừng lớn của Everholt** là một [con lợn rừng](../B/Boars.md) khổng lồ sinh sống ở [Everholt](../E/Everholt.md), một phần của [Rừng Firien](../F/Firien_Wood.md),<sup id="cite_ref-Folca_1-0" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup> xung quanh chân [Halifirien](../H/Halifirien.md) ở [White Mountains](../W/White_Mountains.md).
+**Con lợn rừng lớn của Everholt** là một [con lợn rừng](../B/Boars.md) khổng lồ sinh sống ở [Everholt](../E/Everholt.md), một phần của [Rừng Firien](../F/Firien_Wood.md),<sup id="cite_ref-Folca_1-0" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup> xung quanh chân [Halifirien](../H/Halifirien.md) ở [Dãy Núi Trắng](../W/White_Mountains.md).
 
-[Folca](../F/Folca.md), [Vua của Rohan](../K/King_of_Rohan.md) thứ mười ba, cũng là một thợ săn nổi tiếng, đã quyết tâm truy lùng và tiêu diệt con quái vật. Ông ta đã thành công, nhưng đã chết trong quá trình đó do vết thương do con lợn rừng gây ra từ ngà voi trong [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md).<sup id="cite_ref-Folca_1-1" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup>
+[Folca](../F/Folca.md), [Vua Rohan](../K/King_of_Rohan.md) thứ mười ba, cũng là một thợ săn nổi tiếng, đã quyết tâm săn lùng và tiêu diệt con thú. Ông ta đã thành công, nhưng đã chết trong quá trình đó do vết thương do con lợn rừng gây ra từ ngà voi trong [T.A.](../T/Third_Age.md) [2864](../T/Third_Age_2864.md).<sup id="cite_ref-Folca_1-1" class="reference"><a href="#cite_note-Folca-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -67,11 +67,11 @@ images:
 		</li>
 </ul>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>A tapestry recounting Folca&#39;s hunt of the <b>Boar of Everholt</b> hangs at <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>.</dd></dl>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>A flashback sequence shows King <a href="../F/Folca.md" title="Folca">Folca</a>&#39;s hunt and his mutual kill with the <b>Boar of Everholt</b>. A tapestry depicting it is also found in <a href="../M/Meduseld.md" title="Meduseld">Meduseld</a>. A group of <a href="../W/White_Mountains.md" title="White Mountains">White Mountains</a> <a href="../O/Orcs.md" title="Orcs">orcs</a> witnesses the event and, impressed by the creature that slayed their greatest foe, begin styling themselves after the boar, incorporating boar tusks and bones into their armor.</dd></dl>
 

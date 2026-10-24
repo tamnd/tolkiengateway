@@ -19,7 +19,7 @@ images:
 
 **Osgiliath, Västerås Tolkiensällskap** là Hiệp hội Tolkien Thụy Điển của <a class="extiw" href="http://en.wikipedia.org/wiki/V%C3%A4ster%C3%A5s" title="wikipedia:Västerås">Västerås</a>. Kể từ năm 2024, hiệp hội dường như không hoạt động (<a class="external text" href="http://www.hacke.saeab.se/osgiliath/calendar.html" rel="noreferrer noopener" target="_blank">lịch của họ</a> không hiển thị các sự kiện đã qua năm 2009).
 
-Các hoạt động ở Osgiliath được cho là bao gồm nhập vai trực tiếp, đấu kiếm, nghiên cứu các tác phẩm và ngôn ngữ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), khiêu vũ thời Trung cổ, thủ công mỹ nghệ, v.v.
+Các hoạt động trong Osgiliath được cho là liên quan đến việc nhập vai trực tiếp, đấu kiếm, nghiên cứu các tác phẩm và ngôn ngữ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), khiêu vũ thời Trung cổ, thủ công mỹ nghệ, v.v.
 
 ## Liên kết ngoài {#External_links}
 

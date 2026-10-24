@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Flói"
 ---
 
-Chuyển hướng tới [Flói](Flói.md).
+Chuyển hướng đến [Flói](Flói.md).

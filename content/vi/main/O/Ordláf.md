@@ -20,7 +20,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ordláf* có trong [tiếng Anh cổ](Old_English.md), vì nó được dịch bởi [Ælfwine](../_/Ælfwine.md), nhưng không có [Elvish](../E/Elvish.md) tương đương.<sup id="cite_ref-Ord_1-1" class="reference"><a href="#cite_note-Ord-1">[1]</a></sup> Trong tiếng Anh hiện đại, điều này có thể có nghĩa là "Spear-remainder" ("ord" nghĩa là "giáo",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và "láf" nghĩa là "phần còn lại"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).
+Tên *Ordláf* có trong [tiếng Anh cổ](Old_English.md), vì nó được dịch bởi [Ælfwine](../_/Ælfwine.md), nhưng không có [Elvish](../E/Elvish.md) tương đương nào được đưa ra.<sup id="cite_ref-Ord_1-1" class="reference"><a href="#cite_note-Ord-1">[1]</a></sup> Trong tiếng Anh hiện đại, điều này có thể có nghĩa là "Spear-remainder" ("ord" nghĩa là "giáo",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và "láf" nghĩa là "phần còn lại"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>).
 
 ## Phả hệ {#Genealogy}
 

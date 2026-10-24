@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Featured quotes/Archive"
 ---
 
-Chuyển hướng đến [Cổng Tolkien:Trích dẫn nổi bật/Lưu trữ](Featured_quotes%252FArchive.md).
+Chuyển hướng tới [Tolkien Gateway:Trích dẫn nổi bật/Lưu trữ](Featured_quotes%252FArchive.md).

@@ -62,11 +62,11 @@ Sự kiện xảy ra vào ngày 15 tháng 11
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1892](1892.md)** - [Arthur](../A/Arthur_Tolkien.md), [Mabel](../M/Mabel_Suffield.md), hai người hầu trong gia đình và y tá bế [Ronald](../J/J.R.R._Tolkien.md) tạo dáng chụp ảnh trong khu vườn ở Bank House. Bức ảnh được sử dụng trong thiệp Giáng sinh Tolkien gửi cho gia đình và bạn bè. Hình ảnh được tái tạo ở định dạng *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* và *[The Tolkien Family Album](../T/The_Tolkien_Family_Album.md)*.
-- **[1937](1937.md)** - Tolkien gửi cho [Allen & Unwin](../A/Allen_&_Unwin.md) một tập bản thảo bao gồm *[The Lay of Leithian](../T/The_Lay_of_Leithian.md)* ("Bài thơ dài"); *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)*, *[Ainulindalë](<../A/Ainulindalë_(Lost_Road).md>)*, *[Ambarkanta](../A/Ambarkanta.md)* và *[The Fall of Númenor (chapter)](<../T/The_Fall_of_Númenor_(chapter).md>)* ("Vật liệu của Gnomes"); [Con đường đã mất](../T/The_Lost_Road.md); và *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* và *[Mr. Bliss](../M/Mr._Bliss.md)*. Họ cũng thảo luận về *[Beowulf](../B/Beowulf_and_the_Finnsburg_Fragment.md)*.
+- **[1892](1892.md)** - [Arthur](../A/Arthur_Tolkien.md), [Mabel](../M/Mabel_Suffield.md), hai người hầu trong gia đình và y tá bế [Ronald](../J/J.R.R._Tolkien.md) tạo dáng chụp ảnh trong khu vườn ở Bank House. Bức ảnh được sử dụng trong Tolkien thiệp Giáng sinh gửi cho gia đình và bạn bè. Hình ảnh được tái tạo ở định dạng *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* và *[The Tolkien Family Album](../T/The_Tolkien_Family_Album.md)*.
+- **[1937](1937.md)** - Tolkien nộp cho [Allen &amp; Unwin](../A/Allen_&_Unwin.md) một tập bản thảo bao gồm *[The Lay of Leithian](../T/The_Lay_of_Leithian.md)* ("Bài thơ dài"); *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)*, *[Ainulindalë](<../A/Ainulindalë_(Lost_Road).md>)*, *[Ambarkanta](../A/Ambarkanta.md)* và *[The Fall of Númenor (chapter)](<../T/The_Fall_of_Númenor_(chapter).md>)* ("Vật liệu Gnomes"); [The Lost Road](../T/The_Lost_Road.md); và *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* và *[Mr. Bliss](../M/Mr._Bliss.md)*. Họ cũng thảo luận về *[Beowulf](../B/Beowulf_and_the_Finnsburg_Fragment.md)*.
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 233](../L/Letter_233.md).
 - **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Jane Neave](<../L/Letter_to_Jane_Neave_(15_November_1961).md>).
-- <b><a href="1978.md" title="1978">1978</a> - Bộ phim hoạt hình <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">1978</a> của <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></i> công chiếu tại Hoa Kỳ.</b>
+- <b><a href="1978.md" title="1978">1978</a> - Bộ phim hoạt hình <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)">1978</a> của <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> công chiếu tại Hoa Kỳ.</b>
 - **[1983](1983.md)** - Diễn viên [John Le Mesurier](../J/John_Le_Mesurier.md) qua đời.
 - **[1983](1983.md)** - Họa sĩ minh họa [Eric Fraser](../E/Eric_Fraser.md) qua đời.
 - **[1991](1991.md)** - *[After the King: Stories In Honor of J.R.R. Tolkien](../A/After_the_King.md)* được xuất bản.
@@ -74,12 +74,12 @@ Sự kiện xảy ra vào ngày 15 tháng 11
 - **[2010](2010.md)** - *[Parma Eldalamberon](../P/Parma_Eldalamberon.md)* số [19](../P/Parma_Eldalamberon_19.md) được xuất bản.
 - **[2014](2014.md)** - *[War of Words: Soldier-Poets of the Somme](../W/War_of_Words%253A_Soldier-Poets_of_the_Somme.md)* được phát sóng.
 - **[2014](2014.md)** - *[ArdaCraft](../A/ArdaCraft.md)* bắt đầu xây dựng Trung Địa.
-- <b><a href="2022.md" title="2022">2022</a> - <i><a class="mw-redirect" href="../T/The_Fall_of_Númenor_(book).md" title="The Fall of Númenor (book)">Sự sụp đổ của Númenor</a></i> được xuất bản.</b>
+- <b><a href="2022.md" title="2022">2022</a> - <i><a class="mw-redirect" href="../T/The_Fall_of_Númenor_(book).md" title="The Fall of Númenor (book)">The Fall of Númenor</a></i> được xuất bản.</b>
 - **[2022](2022.md)** - *[The Lord of the Rings Online: Before the Shadow](../T/The_Lord_of_the_Rings_Online%253A_Before_the_Shadow.md)* được phát hành trực tuyến.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

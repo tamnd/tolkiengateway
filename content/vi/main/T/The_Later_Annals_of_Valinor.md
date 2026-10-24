@@ -50,4 +50,4 @@ images:
 <dl><dd><a href="The_Etymologies.md" title="The Etymologies">The Etymologies</a></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Biên niên sử sau của Valinor** là chương thứ hai của phần thứ hai, 'Phần thứ hai: Valinor và Trung địa trước *The Lord of the Rings*', của *[The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md)*.
+**The Later Annals of Valinor** là chương thứ hai của phần thứ hai, 'Phần thứ hai: Valinor và Trung Địa trước *The Lord of the Rings*', của *[The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md)*.

@@ -14,7 +14,7 @@ categories:
   - "Qenya locations"
 ---
 
-**Ninwi** là thành phố của [Đàn ông](../M/Men.md) ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Nó được xác định là thành phố <a class="extiw" href="http://en.wikipedia.org/wiki/Nineveh" title="wikipedia:Nineveh">Nineveh</a>.<sup id="cite_ref-Nin_1-0" class="reference"><a href="#cite_note-Nin-1">[1]</a></sup>
+**Ninwi** là một thành phố của [Con Người](../M/Men.md) ở [Great Lands](../G/Great_Lands.md), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Nó được xác định là thành phố <a class="extiw" href="http://en.wikipedia.org/wiki/Nineveh" title="wikipedia:Nineveh">Nineveh</a>.<sup id="cite_ref-Nin_1-0" class="reference"><a href="#cite_note-Nin-1">[1]</a></sup>
 
 Nó đã được nhắc đến trong câu chuyện về *[the Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)* của [Littleheart](../L/Littleheart.md), trong đó ông so sánh [sự sụp đổ](../F/Fall_of_Gondolin.md) của nó thậm chí còn tệ hơn cả của Ninwi.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

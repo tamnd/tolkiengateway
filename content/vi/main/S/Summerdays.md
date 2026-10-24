@@ -14,7 +14,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**Những ngày hè** là những ngày bổ sung giữa các tháng [Lithe](../L/Lithe.md) và [Mede](../M/Mede.md) trong [Lịch Bree](../B/Bree_Calendar.md), tương đương với *[enderi](../E/Enderi.md)*. Trong [Lịch Quận](Shire_Calendar.md), chúng được gọi là [Ngày Lithe](../L/Lithedays.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ngày hè** là những ngày bổ sung giữa các tháng [Lithe](../L/Lithe.md) và [Mede](../M/Mede.md) trong [Bree Lịch](../B/Bree_Calendar.md), tương đương với *[enderi](../E/Enderi.md)*. Trong [Lịch Shire](Shire_Calendar.md), chúng được gọi là [Lithedays](../L/Lithedays.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../E/Enderi.md" title="Enderi">Enderi</a></div></div>
 

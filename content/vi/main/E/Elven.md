@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves"
 ---
 
-Chuyển hướng đến [Yêu tinh](Elves.md).
+Chuyển hướng đến [Tiên tộc](Elves.md).

@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - Philip Kerst đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Philip_Kerst.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 4 tháng 9 năm 2020
+- Ngày: 4 tháng Chín năm 2020
 - Người dùng đã xin phép qua Tumblr: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

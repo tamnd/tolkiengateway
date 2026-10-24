@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien thú nhận rằng sự chua chát trong bức thư ngày 23 tháng 2 của ông ([Thư 284](Letter_284.md)) là do *New Yorker* bài báo về cuộc họp của Hiệp hội Tolkien ở New York và những nhận xét của Auden về ông. Ông cũng khó chịu về <a class="extiw" href="http://en.wikipedia.org/wiki/Peter_H._Salus" title="wikipedia:Peter H. Salus">Peter Salus</a> những điều vô nghĩa về hình dạng của [Trung địa](../M/Middle-earth.md). Ông ta đính kèm một bản sao đề phòng Auden bỏ sót.
+Tolkien thú nhận rằng sự chua chát trong bức thư ngày 23 tháng 2 của ông ([Thư 284](Letter_284.md)) là do *New Yorker* bài báo về cuộc họp của Hiệp hội Tolkien ở New York và những nhận xét của Auden về ông. Ông cũng khó chịu về <a class="extiw" href="http://en.wikipedia.org/wiki/Peter_H._Salus" title="wikipedia:Peter H. Salus">Peter Salus'</a> vô nghĩa về hình dạng của [Trung Địa](../M/Middle-earth.md). Ông ta đính kèm một bản sao đề phòng Auden bỏ sót.
 
-Những nhận xét này có phạm vi rộng đến mức Tolkien sẽ phải viết thư dài để có thể sửa chữa đầy đủ. Thật không may, báo chí, với khuynh hướng chế nhạo, đã chú ý đến những nhận xét của Auden về ngôi nhà và những bức ảnh của anh, khiến vợ và anh bị chế giễu. <br>
+Những nhận xét này quá rộng đến nỗi Tolkien sẽ phải viết thư dài dòng mới có thể sửa chữa đầy đủ. Thật không may, báo chí, với khuynh hướng chế nhạo, đã chú ý đến những nhận xét của Auden về ngôi nhà và những bức ảnh của anh, khiến vợ và anh bị chế giễu. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

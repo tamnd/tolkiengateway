@@ -20,21 +20,21 @@ sort_keys:
   "People by name": "Moorman, Charles"
 ---
 
-**Charles W. Moorman III** ([1925](../_/1925.md) – [3 tháng 5](../_/3_May.md) [1996](../_/1996.md)) là một tác giả và học giả người Mỹ. Ông làm việc tại Khoa Tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Southern_Mississippi" title="wikipedia:University of Southern Mississippi">Đại học Nam Mississipi</a>và viết nhiều về [Tiếng Anh trung đại](../M/Middle_English.md), Văn học thời Trung cổ, Truyền thuyết Arthurian và [Inklings](../I/Inklings.md).
+**Charles W. Moorman III** ([1925](../_/1925.md) – [3 tháng 5](../_/3_May.md) [1996](../_/1996.md)) là một tác giả và học giả người Mỹ. Ông làm việc tại Khoa Tiếng Anh tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Southern_Mississippi" title="wikipedia:University of Southern Mississippi">Đại học Nam Mississipi</a>và viết nhiều về [Tiếng Anh trung đại](../M/Middle_English.md), Văn học Trung cổ, Truyền thuyết về vua Arthur và [Inklings](../I/Inklings.md).
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
 ### Sách {#Books}
 
-- [1960](../_/1960.md): *Bộ ba tác phẩm Arthurian: Tư liệu thần thoại ở Charles Williams, C.S. Lewis và T.S. Eliot*
+- [1960](../_/1960.md): *Bộ ba hình Arthurian: Chất liệu thần thoại trong Charles Williams, C.S. Lewis và T.S. Eliot*
 - [1965](../_/1965.md): *[The Book of Kyng Arthur: The Unity of Malory's Morte Darthur](../T/The_Book_of_Kyng_Arthur.md)*
 
 ### Bài viết {#Articles}
 
-- [1966](../_/1966.md): *Khu vực Felicity: Thành phố Agustinian của những người theo đạo Thiên chúa Oxford*
-    - "Quận, Mordor và Minas Tirith" (trang 86–100)
+- [1966](../_/1966.md): *Khu vực hạnh phúc: Thành phố Agustinian của Oxford những người theo đạo Thiên chúa*
+    - "The Shire, Mordor và Minas Tirith" (trang 86–100)
 - [1968](../_/1968.md): *[Tolkien and the Critics: Essays on J.R.R. Tolkien's The Lord of the Rings](../T/Tolkien_and_the_Critics.md)*
-    - "Quận, Mordor và Minas Tirith"
+    - "The Shire, Mordor và Minas Tirith"
 
 ## Liên kết ngoài {#External_links}
 

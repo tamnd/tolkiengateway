@@ -31,7 +31,7 @@ Trước khi xuất bản, một trích dẫn từ bức thư đã xuất hiện
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết thư cảm ơn ông Cees Ouboter về chuyến thăm Hà Lan của ông. Ông nói rằng ông có thể quay lại đó càng sớm thì càng tốt. <span></span>
+Tolkien viết thư cảm ơn ông Cees Ouboter về chuyến thăm Hà Lan. Ông nói rằng ông có thể quay lại đó càng sớm thì càng tốt. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

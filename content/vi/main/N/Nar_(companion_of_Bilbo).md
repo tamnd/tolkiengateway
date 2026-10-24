@@ -32,17 +32,17 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../B/Bilbo_Baggins.md" title="Bilbo Baggins">Bilbo Baggins</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Nar** là một trong những [Người lùn](../D/Dwarves.md) đã giúp đỡ [Bilbo Baggins](../B/Bilbo_Baggins.md) chuẩn bị cho [bữa tiệc sinh nhật lớn](../B/Bilbo's_Farewell_Party.md) của ông.
+**Nar** là một trong những người [Người Lùn](../D/Dwarves.md) đã giúp [Bilbo Baggins](../B/Bilbo_Baggins.md) chuẩn bị cho [bữa tiệc sinh nhật lớn](../B/Bilbo's_Farewell_Party.md) của ông.
 
 ## Lịch sử {#History}
 
-Bilbo đã đặt mua quà từ [Erebor](../E/Erebor.md) và [Dale](../D/Dale.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và vào [tháng 9](../S/September.md) những người lùn có bộ râu dài và đội mũ trùm đầu sâu lái một chiếc xe kéo đã đến [Hobbiton](../H/Hobbiton.md). Một số người trong số họ ở lại [Bag End](../B/Bag_End.md) những ngày tiếp theo để chuẩn bị.
+Bilbo đã đặt mua quà từ [Erebor](../E/Erebor.md) và [Dale](../D/Dale.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> và trong [tháng Chín](../S/September.md) những người lùn có bộ râu dài và mũ trùm đầu sâu lái xe kéo đã đến [Hobbiton](../H/Hobbiton.md). Một số người ở lại [Bag End](../B/Bag_End.md) những ngày tiếp theo để chuẩn bị.
 
-Sau thủ đoạn biến mất của Bilbo, ông ta trở lại vô hình ở Bag End trong khi những người lùn đang làm việc ở nhiều phòng khác nhau, đóng gói và dán nhãn những món quà chia tay của Bilbo. Bilbo lấy đồ của mình và cãi nhau với Gandalf về việc bỏ lại [chiếc nhẫn ma thuật](../O/One_Ring.md) của mình. Sau cuộc đối thoại, Bilbo huýt sáo và Nar, [Anar](<../A/Anar_(dwarf).md>) và [Hannar](../H/Hannar.md), đến và nói rằng mọi thứ đã sẵn sàng và đã được dán nhãn. Sau đó họ cất cánh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Sau thủ đoạn biến mất của Bilbo, ông ta trở lại vô hình với Bag End trong khi những người lùn đang làm việc ở nhiều phòng khác nhau, đóng gói và dán nhãn quà chia tay cho Bilbo. Bilbo lấy đồ và cãi nhau với Gandalf về việc bỏ lại [chiếc nhẫn thần kỳ](../O/One_Ring.md). Sau cuộc đối thoại, Bilbo huýt sáo và Nar, [Anar](<../A/Anar_(dwarf).md>) và [Hannar](../H/Hannar.md), đến và nói rằng mọi thứ đã sẵn sàng và đã được dán nhãn. Sau đó họ cất cánh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên của Nar, Anar và Hannar xuất hiện trong phần viết đầu của chương "[Bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)", nơi Nar được đưa ra một số đoạn hội thoại và phát triển thêm một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi quyết định và không tiết lộ tên của họ trong cuốn sách đã xuất bản cũng như không đưa ra bất kỳ lời thoại nào cho ông ta; cái tên [Nár](Nár.md) được đặt cho một người lùn khác trong tác phẩm cuối cùng.
+Tên của Nar, Anar và Hannar xuất hiện trong phần viết đầu của chương "[Bữa tiệc được mong đợi từ lâu](../A/A_Long-expected_Party.md)", nơi Nar được đưa ra một số đoạn hội thoại và phát triển thêm một chút. Tuy nhiên, [Tolkien](../J/J.R.R._Tolkien.md) sau đó đã thay đổi ý định và không tiết lộ tên của họ trong cuốn sách đã xuất bản cũng như không đưa ra bất kỳ lời thoại nào cho ông ta; cái tên [Nár](Nár.md) đã được đặt cho một người lùn khác trong tác phẩm cuối cùng.
 
 Cũng trong văn bản ban đầu đó, ngoại trừ ba người lùn đi cùng Bilbo, còn có người lùn thứ tư, [Lofar](../L/Lofar.md), người ở lại, nhưng không có dấu vết hay đề cập đến ông ta trong cuốn sách đã xuất bản.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
@@ -53,7 +53,7 @@ Cũng trong văn bản ban đầu đó, ngoại trừ ba người lùn đi cùng
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Như vậy, Nar và những người bạn đồng hành của ông ta có lẽ <a href="../D/Dwarves_of_Erebor.md" title="Dwarves of Erebor">Người lùn của Erebor</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Như vậy, Nar và đồng bọn có lẽ là <a href="../D/Dwarves_of_Erebor.md" title="Dwarves of Erebor">Người Lùn Erebor</a>.</span>
 </li>
 </ol></div></span>
 

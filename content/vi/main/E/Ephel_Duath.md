@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ephel Dúath"
 ---
 
-Chuyển hướng tới [Ephel Dúath](Ephel_Dúath.md).
+Chuyển hướng đến [Ephel Dúath](Ephel_Dúath.md).

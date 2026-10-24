@@ -17,7 +17,7 @@ sort_keys:
 
 Trên c. [12 tháng 4](../_/12_April.md) [1970](../_/1970.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi [Tom Shippey](../T/Tom_Shippey.md)**. Shippey đã nhận được thư vào [13 tháng 4](../_/13_April.md) [1970](../_/1970.md).<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup><sup id="cite_ref-Guide_2-0" class="reference"><a href="#cite_note-Guide-2">[2]</a></sup>
 
-- **Chủ đề:** Bình luận về bài viết "Tác giả với tư cách là nhà ngữ văn" của Shippey (được Shippey gửi tới Tolkien).<sup id="cite_ref-C_1-1" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
+- **Chủ đề:** Bình luận về bài viết "Tác giả là nhà ngữ văn" của Shippey (được Shippey gửi tới Tolkien).<sup id="cite_ref-C_1-1" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 - **Xuất bản:** Các trích dẫn từ bức thư đã được xuất bản trên *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Shippey cũng mô tả ngắn gọn về bức thư trong "Sự tiến hóa lâu dài: *The History of Middle-earth* và giá trị của nó" (trong [*Arda*](<../A/Arda_(annual).md>) 1987, Tập VII, trang 29)<sup id="cite_ref-Guide_2-1" class="reference"><a href="#cite_note-Guide-2">[2]</a></sup> và trong *[Roots and Branches](../R/Roots_and_Branches.md)*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>

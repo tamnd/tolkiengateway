@@ -18,7 +18,7 @@ images:
   - "WikimediaUI-ArrowNext-ltr.svg"
 ---
 
-<b><i>Amon Hen</i> 15</b> là số thứ mười lăm của [*Amon Hen* tạp chí](<Amon_Hen_(journal).md>) của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Nó được xuất bản vào tháng 4 [1975](../_/1975.md).
+<b><i>Amon Hen</i> 15</b> là số thứ mười lăm của [*Amon Hen* tạp chí](<Amon_Hen_(journal).md>) của [Hội Tolkien](../T/The_Tolkien_Society.md). Nó được xuất bản vào tháng 4 [1975](../_/1975.md).
 
 <br>
 

@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Roger_Lancelyn_Green"
 ---
 
-**Roger Lancelyn Green** ([2 tháng 11](../_/2_November.md) [1918](../_/1918.md) – [8 tháng 10](../_/8_October.md) [1987](../_/1987.md)) là bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông cũng thành công trong vai trò là người viết tiểu sử, viết tác phẩm về [C.S. Lewis](../C/C.S._Lewis.md) (giáo viên của ông tại [Đại học Oxford](../U/University_of_Oxford.md)), [Lewis Carroll](../L/Lewis_Carroll.md) và Hans Christian Andersen. Ông cũng tự mình viết nhiều truyện thiếu nhi; đây chủ yếu là những câu chuyện kể lại về thần thoại Bắc Âu, Hy Lạp và Ai Cập cũng như sử thi Arthur và Robin Hood.
+**Roger Lancelyn Green** ([2 tháng 11](../_/2_November.md) [1918](../_/1918.md) – [8 tháng 10](../_/8_October.md) [1987](../_/1987.md)) là bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông cũng thành công trong vai trò là người viết tiểu sử, viết tác phẩm về [C.S. Lewis](../C/C.S._Lewis.md) (giáo viên của ông tại [Đại học Oxford](../U/University_of_Oxford.md)), [Lewis Carroll](../L/Lewis_Carroll.md) và Hans Christian Andersen. Ông cũng tự mình viết nhiều truyện thiếu nhi; đây chủ yếu là những câu chuyện kể lại Bắc Âu, thần thoại Hy Lạp và Ai Cập cũng như sử thi Arthur và Robin Hood.
 
 Ông cũng là một diễn viên, người sáng lập Hiệp hội Lewis Carroll và Phó thủ thư tại Oxford.
 
@@ -42,7 +42,7 @@ langlinks:
 
 ## Giải thưởng {#Awards}
 
-- [1971](../_/1971.md) - **[Giải thưởng Thần thoại](../M/Mythopoeic_Society.md)**, Giải thưởng Học bổng Thần thoại cho Nghiên cứu về Inklings, *[C.S. Lewis: A Biography](<../C/C.S._Lewis%253A_A_Biography_(1974_book).md>)*
+- [1971](../_/1971.md) - **[Giải thưởng Huyền thoại](../M/Mythopoeic_Society.md)**, Giải thưởng Học thuật Mythopoeic cho Nghiên cứu về nhóm Inklings, *[C.S. Lewis: A Biography](<../C/C.S._Lewis%253A_A_Biography_(1974_book).md>)*
 
 ## Xem thêm {#See_also}
 

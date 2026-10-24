@@ -24,11 +24,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>elf in <a href="../T/The_Tale_of_Tinúviel.md" title="The Tale of Tinúviel">The Tale of Tinúviel</a></b>. For the the dwarf in <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, see <b><a href="Gimli.md" title="Gimli">Gimli</a></b>.</div></div>
 
-**Gimli** là một [Gnome](Gnome.md) trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Ông đã được giải phóng khỏi sự thống trị của [Tevildo](../T/Tevildo.md) cùng với [Beren](../B/Beren.md). Việc bị giam cầm đã khiến ông bị mù nhưng thính giác rất nhạy bén.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gimli** là một [Gnome](Gnome.md) trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Anh đã được giải thoát khỏi sự nô lệ của [Tevildo](../T/Tevildo.md) cùng với [Beren](../B/Beren.md). Việc bị giam cầm đã khiến ông bị mù nhưng thính giác rất nhạy bén.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ [Gnomish](Gnomish.md) *gimli* ("thính giác") rõ ràng có liên quan đến cái tên này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Từ [Gnomish](Gnomish.md) *gimli* ("thính giác") rõ ràng có liên quan đến tên này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

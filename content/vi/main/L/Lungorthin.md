@@ -57,7 +57,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Lays_of_Beleriand.md" title="The Lays of Beleriand">The Lays of Beleriand</a></i>, <i><a href="../T/The_Lay_of_the_Children_of_Húrin.md" title="The Lay of the Children of Húrin">The Lay of the Children of Húrin</a></i>, Lines 96-100</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Lungorthin** là [Chúa tể của Balrogs](Lord_of_Balrogs.md) theo phiên bản đầu tiên của [huyền thoại](Legendarium.md).
+**Lungorthin** là [Chúa tể của Balrog](Lord_of_Balrogs.md) theo phiên bản đầu tiên của [huyền thoại](Legendarium.md).
 
 ## Lịch sử {#History}
 
@@ -65,7 +65,7 @@ Lungorthin chỉ được nhắc đến một lần trong *[The Lay of the Child
 
 ## Từ nguyên {#Etymology}
 
-Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungorthin không phải là tên gọi khác của <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a>, như cái tên Gothmog đã được nhắc đến trong các tác phẩm sớm nhất ở Trung Địa, cũng như phiên bản cuối cùng của thần thoại Tolkien.
+Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), có khả năng Lungorthin không phải là tên gọi khác của <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a>, như tên Gothmog đã được đề cập trong các tác phẩm Trung Địa sớm nhất, cũng như phiên bản cuối cùng của thần thoại Tolkien.
 
 <blockquote class="tg-quote noexcerpt">
 <p>The <i>thane of Morgoth</i> who smote him on the mouth (version I, 59) now becomes <i>Lungorthin</i>, <i>Lord of Balrogs</i> (96)——which is probably to be interpreted as ‘a Balrog lord’, since Gothmog, reappears in the ‘Silmarillion’ tradition.
@@ -77,9 +77,9 @@ Tên <i><b>Lungorthin</b></i> có trong [Noldorin](../N/Noldorin.md), theo *[Eld
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phiên bản đầu tiên của *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)* của Tolkien, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%BArin_son_of_H%C3%BArin_%26_Glorund_the_Dragon&amp;action=edit&amp;redlink=1" title="Túrin son of Húrin &amp; Glorund the Dragon (page does not exist)">Túrin con trai của Húrin & Glorund the Dragon</a></i>, "Lungorthin, Chúa tể của Balrogs" không có tên và chủng tộc, thay vào đó được gọi là một *thane of Morgoth* vô danh, người đã đánh vào miệng Húrin.
+Trong phiên bản đầu tiên của Tolkien của *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%BArin_son_of_H%C3%BArin_%26_Glorund_the_Dragon&amp;action=edit&amp;redlink=1" title="Túrin son of Húrin &amp; Glorund the Dragon (page does not exist)">Túrin con trai của Húrin & Glorund the Rồng</a></i>, "Lungorthin, Chúa tể của Balrog" không có tên và chủng tộc, thay vào đó được gọi là một *thane of Morgoth* vô danh, kẻ đã đánh Húrin vào miệng.
 
-Không có tài liệu tham khảo nào về Lungorthin trong [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [huyền thoại](Legendarium.md) sau này và do đó, Lungorthin có thể đã bị bỏ rơi vì ông chưa bao giờ xuất hiện trong bất kỳ tác phẩm nào của Tolkien sau *The Lay of the Children of Húrin*.
+Không có tài liệu tham khảo nào về Lungorthin trong [J.R.R. Tolkien's](../J/J.R.R._Tolkien.md) sau này [huyền thoại](Legendarium.md) và do đó, Lungorthin có thể đã bị loại bỏ vì ông ta chưa bao giờ xuất hiện trong bất kỳ bài viết nào của Tolkien sau *The Lay of the Children of Húrin*.
 
 <span></span>
 

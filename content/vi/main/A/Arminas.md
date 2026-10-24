@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gelmir and Arminas"
 ---
 
-Chuyển hướng tới [Gelmir và Arminas](../G/Gelmir_and_Arminas.md).
+Chuyển hướng đến [Gelmir và Arminas](../G/Gelmir_and_Arminas.md).

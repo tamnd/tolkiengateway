@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Jero, Simona Brunilde"
 ---
 
-- Simona Brunilde Jero đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Simona_Brunilde_Jero.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Simona Brunilde Jero đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Simona_Brunilde_Jero.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 31 tháng 3 năm 2015
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

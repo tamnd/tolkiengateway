@@ -83,7 +83,7 @@ Vào năm 2012, môi trường Hobbit "Wilderland" đã được xuất bản (x
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1982_video_game)_-_Dale_ruins.gif.md"><img src="https://tolkiengateway.net/w/images/d/d3/The_Hobbit_%281982_video_game%29_-_Dale_ruins.gif" decoding="async" loading="lazy" width="288" height="224" class="mw-file-element" data-file-width="288" data-file-height="224"/></a><figcaption>The Ruins of <a href="../D/Dale.md" title="Dale">Dale</a>.</figcaption></figure>
 
-Người chơi điều khiển [Bilbo Baggins](../B/Bilbo_Baggins.md) - nhân vật chính - trong hành trình tới [Ngọn núi Cô đơn](../L/Lonely_Mountain.md), cùng với [Người lùn](../D/Dwarves.md) [Thorin](Thorin.md). Trên đường đi, họ gặp những nhân vật như [Gandalf](../G/Gandalf.md) và [Gollum](../G/Gollum.md) và đối đầu với [Trolls](Trolls.md), [Wargs](../W/Wargs.md) và [Goblins](../G/Goblins.md). Cuối cùng Bilbo và Thorin cũng đến được Ngọn núi Cô đơn và cướp bóc hang ổ của [Smaug](../S/Smaug.md).<sup id="cite_ref-Review_p._76_3-3" class="reference"><a href="#cite_note-Review_p._76-3">[3]</a></sup><sup id="cite_ref-Review_p._78_6-0" class="reference"><a href="#cite_note-Review_p._78-6">[6]</a></sup>
+Người chơi điều khiển [Bilbo Baggins](../B/Bilbo_Baggins.md) - nhân vật chính - trong hành trình tìm kiếm [ Ngọn Núi Cô Đơn](../L/Lonely_Mountain.md), cùng với [Người lùn](../D/Dwarves.md) [Thorin](Thorin.md). Trên đường đi, họ gặp những nhân vật như [Gandalf](../G/Gandalf.md) và [Gollum](../G/Gollum.md) và đối đầu với [Troll](Trolls.md), [Warg](../W/Wargs.md) và [Goblin](../G/Goblins.md). Cuối cùng Bilbo và Thorin đến được Ngọn Núi Cô Đơn và cướp bóc hang ổ của [Smaug](../S/Smaug.md).<sup id="cite_ref-Review_p._76_3-3" class="reference"><a href="#cite_note-Review_p._76-3">[3]</a></sup><sup id="cite_ref-Review_p._78_6-0" class="reference"><a href="#cite_note-Review_p._78-6">[6]</a></sup>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_(1982_video_game)_-_trolls&#39;_cave.gif.md"><img src="https://tolkiengateway.net/w/images/5/56/The_Hobbit_%281982_video_game%29_-_trolls%27_cave.gif" decoding="async" loading="lazy" width="240" height="224" class="mw-file-element" data-file-width="240" data-file-height="224"/></a><figcaption>The <a href="Trolls.md" title="Trolls">Trolls</a>&#39; Cave.</figcaption></figure>
 
@@ -94,15 +94,15 @@ Người chơi điều khiển [Bilbo Baggins](../B/Bilbo_Baggins.md) - nhân v�
 - [Gandalf](../G/Gandalf.md)<sup id="cite_ref-Review_p._76_3-6" class="reference"><a href="#cite_note-Review_p._76-3">[3]</a></sup>
 - [Gollum](../G/Gollum.md)<sup id="cite_ref-Review_p._78_6-1" class="reference"><a href="#cite_note-Review_p._78-6">[6]</a></sup>
 - [Smaug](../S/Smaug.md)<sup id="cite_ref-Review_p._76_3-7" class="reference"><a href="#cite_note-Review_p._76-3">[3]</a></sup>
-- [Cung thủ Bard](../B/Bard_the_Bowman.md)
+- [Bard the Bowman](../B/Bard_the_Bowman.md)
 - [Elrond](../E/Elrond.md)
 
 ## Vị trí nổi bật {#Featured_Locations}
 
-- [Cuối túi](../B/Bag_End.md)
+- [Bag End](../B/Bag_End.md)
 - [Vùng đất cô độc](../L/Lone-lands.md)
 - Hang của [Quỷ khổng lồ](Trolls.md)
-- [Núi sương mù](../M/Misty_Mountains.md)<sup id="cite_ref-Review_p._76_3-8" class="reference"><a href="#cite_note-Review_p._76-3">[3]</a></sup>
+- [Dãy Núi Sương Mù](../M/Misty_Mountains.md)<sup id="cite_ref-Review_p._76_3-8" class="reference"><a href="#cite_note-Review_p._76-3">[3]</a></sup>
 - [Mirkwood](../M/Mirkwood.md)
 - [Dale](../D/Dale.md)
 
@@ -121,10 +121,10 @@ Trong <a class="extiw" href="http://en.wikipedia.org/wiki/Golden_Joystick_Awards
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.giantbomb.com/the-hobbit/61-9936/" rel="noreferrer noopener" target="_blank">Người Hobbit</a> tại <a class="external text" href="http://www.giantbomb.com" rel="noreferrer noopener" target="_blank">Bomb khổng lồ</a>
-- <a class="external text" href="http://www.mobygames.com/game/hobbit" rel="noreferrer noopener" target="_blank">Người Hobbit</a> tại <a class="external text" href="http://www.mobygames.com" rel="noreferrer noopener" target="_blank">MobyGames</a>
-- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/hobbit.html" rel="noreferrer noopener" target="_blank">Người Hobbit</a> tại <a class="external text" href="http://www.lysator.liu.se/" rel="noreferrer noopener" target="_blank">Trò chơi Tolkien</a>
-- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Hobbit_(1982_video_game)" title="wikipedia:The Hobbit (1982 video game)">Người Hobbit (trò chơi điện tử năm 1982)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="http://www.giantbomb.com/the-hobbit/61-9936/" rel="noreferrer noopener" target="_blank">The Hobbit</a> tại <a class="external text" href="http://www.giantbomb.com" rel="noreferrer noopener" target="_blank">Bomb khổng lồ</a>
+- <a class="external text" href="http://www.mobygames.com/game/hobbit" rel="noreferrer noopener" target="_blank">The Hobbit</a> tại <a class="external text" href="http://www.mobygames.com" rel="noreferrer noopener" target="_blank">MobyGames</a>
+- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/hobbit.html" rel="noreferrer noopener" target="_blank">The Hobbit</a> tại <a class="external text" href="http://www.lysator.liu.se/" rel="noreferrer noopener" target="_blank">Tolkien Trò chơi</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/The_Hobbit_(1982_video_game)" title="wikipedia:The Hobbit (1982 video game)">The Hobbit (trò chơi điện tử năm 1982)</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 Trình mô phỏng - <a class="external text" href="http://members.aon.at/~ehesch1/wl/wl.htm" rel="noreferrer noopener" target="_blank">Wilderland</a>, hiển thị những gì đang diễn ra trong nền của trò chơi
 
 <span></span>

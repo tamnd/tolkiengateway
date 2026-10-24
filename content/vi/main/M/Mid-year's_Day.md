@@ -28,11 +28,11 @@ images:
 
 **Ngày giữa năm** là ngày giữa năm gần tương ứng với ngày hạ chí hoặc **Giữa hè**.
 
-Vào [Kỷ nguyên thứ nhất](../F/First_Age.md), [Gondolindrim](../G/Gondolindrim.md) đã tổ chức [Cánh cổng mùa hè](../G/Gates_of_Summer.md).
+Trong [Kỷ Đệ Nhất](../F/First_Age.md), [Gondolindrim](../G/Gondolindrim.md) đã tổ chức [Cánh cổng mùa hè](../G/Gates_of_Summer.md).
 
-Trong lịch [Yêu tinh](../E/Elves.md), ngày giữa của [loa](../L/Loa.md) (năm) được đặt tên là *[Loëndë](../L/Loëndë.md)* trong [Quenya](../Q/Quenya.md) và là ngày thứ hai trong ba [Enderi](../E/Enderi.md).
+Trong ngữ cảnh của các lịch [Tiên](../E/Elves.md), ngày giữa của [loa](../L/Loa.md) (năm) được đặt tên là *[Loëndë](../L/Loëndë.md)* trong [Quenya](../Q/Quenya.md) và là ngày thứ hai trong ba [Enderi](../E/Enderi.md).
 
-Trong bối cảnh [Tính toán quận](../S/Shire-reckoning.md), ngày giữa là ngày thứ hai của [Lithedays](../L/Lithedays.md), nằm giữa [1 Lithe](../_/1_Lithe.md) và [2 Lithe](../_/2_Lithe.md) và (như [Overlithe](../O/Overlithe.md)) không có tên ngày trong tuần. Tại [the Shire](../T/The_Shire.md), [Hội chợ Tự do](../F/Free_Fair.md) được tổ chức ở [White Downs](../W/White_Downs.md) trong những ngày Lithe này.
+Trong ngữ cảnh của [lịch Shire](../S/Shire-reckoning.md), ngày giữa là ngày thứ hai của [Lithedays](../L/Lithedays.md), nằm giữa [1 Lithe](../_/1_Lithe.md) và [2 Lithe](../_/2_Lithe.md) và (như [Overlithe](../O/Overlithe.md)) không có tên ngày trong tuần. Tại [the Shire](../T/The_Shire.md), [Hội chợ Tự do](../F/Free_Fair.md) được tổ chức ở [White Downs](../W/White_Downs.md) trong những ngày Lithe này.
 
 Các sự kiện xảy ra vào ngày giữa năm:
 

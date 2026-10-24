@@ -47,19 +47,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tom_Loback_-_Ecthelion_slays_Orcobal.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7f/Tom_Loback_-_Ecthelion_slays_Orcobal.jpg/320px-Tom_Loback_-_Ecthelion_slays_Orcobal.jpg" decoding="async" loading="lazy" width="320" height="439" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/7/7f/Tom_Loback_-_Ecthelion_slays_Orcobal.jpg 1.5x" data-file-width="437" data-file-height="600"/></a><figcaption>&#34;Ecthelion slays Orcobal&#34; by <a href="../T/Tom_Loback.md" title="Tom Loback">Tom Loback</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Orcs.md" title="Orcs">Orc</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Orcobal</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data">Champion of the <a href="Orcs.md" title="Orcs">Orcs</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../M/Morgoth.md" title="Morgoth">Melko</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">Slain by <a href="../E/Ecthelion.md" title="Ecthelion">Ecthelion</a> during the <a href="../F/Fall_of_Gondolin.md" title="Fall of Gondolin">Fall of Gondolin</a><br/><a href="../G/Gondolin.md" title="Gondolin">Gondolin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Orcobal.md" title="Category:Images of Orcobal">Images of Orcobal</a></td></tr></tbody></table>
 
-**Orcobal** là *"champion of the [Orcs](Orcs.md)"* đã bị giết bởi [Ecthelion](../E/Ecthelion.md) ở [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Orcobal** là *"champion of the [Orcs](Orcs.md)"* đã bị [Ecthelion](../E/Ecthelion.md) giết trong [Gondolin](../G/Gondolin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Orcobal là nhà vô địch của lũ Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrogs](../B/Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Orcobal cuối cùng đã bị giết bởi Ecthelion of the Fountain, kẻ sau khi giết hai thủ lĩnh yêu tinh, *"đã chặt đầu Orcobal, nhà vô địch chính của họ"* trước cổng [Gondolin](../G/Gondolin.md).<sup id="cite_ref-LT2Gondolin_2-0" class="reference"><a href="#cite_note-LT2Gondolin-2">[2]</a></sup>
+Trong [Sự sụp đổ của Gondolin](../F/Fall_of_Gondolin.md), Orcobal là nhà vô địch của những Orc đã tấn công [Gondothlim](../G/Gondothlim.md) cùng với [Balrog](../B/Balrogs.md) khi [Drakes](../D/Dragons.md) xuất hiện. Orcobal cuối cùng đã bị giết bởi Ecthelion của Đài phun nước, kẻ sau khi giết hai thủ lĩnh yêu tinh, *"đã chặt đầu Orcobal, nhà vô địch chính của họ"* trước cổng [Gondolin](../G/Gondolin.md).<sup id="cite_ref-LT2Gondolin_2-0" class="reference"><a href="#cite_note-LT2Gondolin-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Orcobal* rõ ràng là [Gnomish](../G/Gnomish.md), nhưng nó không được đánh bóng.
+*Orcobal* rõ ràng là [Gnomish](../G/Gnomish.md), nhưng nó không được làm bóng.
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Orcobal chưa bao giờ xuất hiện trong bất kỳ tác phẩm nào của Tolkien sau "[Sự sụp đổ của Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)" trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+Orcobal chưa bao giờ xuất hiện trong bất kỳ bài viết nào của Tolkien sau "[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)" trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 ## Xem thêm {#See_also}
 

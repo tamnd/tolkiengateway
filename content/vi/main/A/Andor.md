@@ -26,11 +26,11 @@ langlinks:
     url: "https://www.tolkiendil.com/encyclo:geographie:eaux:iles:andor"
 ---
 
-**Andor** hoặc **Yôzâyan** trong [Adûnaic](Adûnaic.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là tên của hòn đảo [Elenna](../E/Elenna.md) hoặc [Númenor](../N/Númenor.md), có nghĩa là 'Vùng đất của quà tặng'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Andor** hay **Yôzâyan** trong [Adûnaic](Adûnaic.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là tên của đảo [Elenna](../E/Elenna.md) hoặc [Númenor](../N/Númenor.md), nghĩa là 'Vùng đất quà tặng'.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên là [Quenya](../Q/Quenya.md) và chứa các phần tử *[anna](Anna.md)* "gift" + *[dor](../D/Dor.md)* "land".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên là [Quenya](../Q/Quenya.md) và chứa các phần tử *[anna](Anna.md)* "quà tặng" + *[dor](../D/Dor.md)* "đất".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Tương tự, tên bản địa Yôzâyan dường như cũng chứa từ Adûnaic *zâyan* "đất".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 

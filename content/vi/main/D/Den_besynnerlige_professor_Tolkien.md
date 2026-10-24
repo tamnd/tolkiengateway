@@ -28,7 +28,7 @@ Phiên bản tiếng Anh của cuộc phỏng vấn, do John-Henri Holmberg dị
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://larsgustafssonblog.blogspot.se/2012/02/interview-with-r-r-tolkien-from-oxford.html" rel="noreferrer noopener" target="_blank">Bản dịch tiếng Anh tạm thời bài phỏng vấn tại blog của Lars Gustafsson</a>
-- "<a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=235718&amp;OB=DESC" rel="noreferrer noopener" target="_blank">Sách 'nước ngoài' trên Tolkien</a>" tại <a class="external text" href="http://www.lotrplaza.com" rel="noreferrer noopener" target="_blank">Lotrplaza.com</a>
+- "<a class="external text" href="http://www.lotrplaza.com/forum/forum_posts.asp?TID=235718&amp;OB=DESC" rel="noreferrer noopener" target="_blank">Sách 'Nước ngoài' về Tolkien</a>" tại <a class="external text" href="http://www.lotrplaza.com" rel="noreferrer noopener" target="_blank">Lotrplaza.com</a>
 
 <span></span>
 

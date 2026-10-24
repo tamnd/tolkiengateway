@@ -47,11 +47,11 @@ Trong [1935](../_/1935.md) nhà xuất bản mỹ thuật vùng Bavaria F.A. Ack
 - *Waldmärchen* (Truyện cổ tích khu rừng),
 - <i><a class="extiw" href="http://en.wikipedia.org/wiki/Hubertus" title="wikipedia:Hubertus">Hubertushirsch</a></i> (Hubert's Hart)
 
-và cuối cùng là tái hiện lại *[Der Berggeist](../D/Der_Berggeist.md)* ("The Mountain-spirit"), [J.R.R. Tolkien](J.R.R._Tolkien.md) được ví như nhân vật [Gandalf](../G/Gandalf.md) [pháp sư](../W/Wizards.md).
+và cuối cùng là tái tạo *[Der Berggeist](../D/Der_Berggeist.md)* ("Thần núi"), [J.R.R. Tolkien](J.R.R._Tolkien.md) được ví như nhân vật [Gandalf](../G/Gandalf.md) [phù thủy](../W/Wizards.md).
 
-[Humphrey Carpenter](../H/Humphrey_Carpenter.md) kể trong [Tiểu sử của tác giả](J.R.R._Tolkien%253A_A_Biography.md) rằng Tolkien đã giữ tấm bưu thiếp này an toàn và sau đó viết 'Nguồn gốc của Gandalf' trên phong bì của tấm thiệp.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Humphrey Carpenter](../H/Humphrey_Carpenter.md) trong [Tiểu sử của tác giả](J.R.R._Tolkien%253A_A_Biography.md) kể rằng Tolkien đã cất giữ tấm bưu thiếp này an toàn và sau đó viết 'Xuất xứ Gandalf' trên phong bì của tấm thiệp.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Mặc dù Carpenter suy đoán rằng Tolkien đã mua tấm bưu thiếp này vào kỳ nghỉ hè [1911](../_/1911.md), khi ông ở Thụy Sĩ. Suy đoán này không chính xác: theo giải thích của [Manfred Zimmermann](../M/Manfred_Zimmermann.md), phiên bản bưu thiếp của *Der Berggeist* đã được xuất bản vào cuối những năm hai mươi. Phỏng vấn con gái của họa sĩ (tên khai sinh [1910](../_/1910.md)), cô cũng cho biết ngày xuất xứ của bức tranh sau đó, vì cô có thể nhớ được thời điểm cha anh vẽ nó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Mặc dù Carpenter suy đoán, nhưng Tolkien đã mua tấm bưu thiếp này vào kỳ nghỉ hè [1911](../_/1911.md), khi ông ở Thụy Sĩ. Suy đoán này không chính xác: theo giải thích của [Manfred Zimmermann](../M/Manfred_Zimmermann.md), phiên bản bưu thiếp của *Der Berggeist* đã được xuất bản vào cuối những năm hai mươi. Phỏng vấn con gái của họa sĩ (tên khai sinh [1910](../_/1910.md)), cô cũng cho biết ngày xuất xứ của bức tranh sau đó, vì cô có thể nhớ được thời điểm cha anh vẽ nó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Bức tranh gốc đến Mỹ sau Thế chiến thứ hai và sau đó nó được phát hiện lại. Trong [2005](../_/2005.md) nó đã được bán tại Sotheby's với giá £84000.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

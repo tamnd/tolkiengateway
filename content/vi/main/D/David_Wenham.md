@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/David_Wenham.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9c/David_Wenham.jpg/320px-David_Wenham.jpg" decoding="async" loading="lazy" width="320" height="427" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9c/David_Wenham.jpg/480px-David_Wenham.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9c/David_Wenham.jpg/640px-David_Wenham.jpg 2x" data-file-width="768" data-file-height="1024"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>David Wenham</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/21_September.md" title="21 September">September 21</a>, <a href="../_/1965.md" title="1965">1965</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../F/Faramir.md" title="Faramir">Faramir</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="http://www.imdb.com/name/nm0920992/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-Nam diễn viên người Úc **David Wenham** (sinh năm 1965) đóng vai [Faramir](../F/Faramir.md) trong bộ ba phim [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
+Diễn viên người Úc **David Wenham** (sinh năm 1965) đóng [Faramir](../F/Faramir.md) trong bộ ba phim [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Trích dẫn {#Quotes}
 
@@ -67,8 +67,8 @@ Nam diễn viên người Úc **David Wenham** (sinh năm 1965) đóng vai [Fara
 - [2003](../_/2003.md) - <b><a class="external text" href="http://ofcs.rottentomatoes.com/" rel="noreferrer noopener" target="_blank">Giải OFCS</a></b>, Dàn nhạc xuất sắc nhất, *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*
 - 2003 - <b><a class="external text" href="http://www.cinemaclips.com/PFCS.htm" rel="noreferrer noopener" target="_blank">Giải thưởng PFCS</a></b>, Dàn diễn xuất xuất sắc nhất, *Peter Jackson's The Two Towers*
 - [2004](../_/2004.md) - <b><a class="external text" href="http://www.bfca.org/" rel="noreferrer noopener" target="_blank">Giải Sự lựa chọn của các nhà phê bình</a></b>, Dàn diễn viên xuất sắc nhất, *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
-- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Diễn xuất xuất sắc nhất của một nhóm, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, *Sự trở lại của nhà vua của Peter Jackson*
+- 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Dàn diễn viên xuất sắc nhất, The Return of the King* của *Peter Jackson
+- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, The Return of the King* của *Peter Jackson
 
 ## Liên kết ngoài {#External_links}
 

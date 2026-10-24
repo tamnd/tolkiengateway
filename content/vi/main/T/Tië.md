@@ -17,16 +17,16 @@ sort_keys:
   "Quenya nouns": "Tie"
 ---
 
-<i><b>tië</b></i> (pl. *tier*) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "con đường; đường, lối đi; hướng, đường, phương hướng".<sup id="cite_ref-Namarie_1-0" class="reference"><a href="#cite_note-Namarie-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-Ety_3-0" class="reference"><a href="#cite_note-Ety-3">[3]</a></sup>
+<i><b>tië</b></i> (pl. *tier*) là một từ [Quenya](../Q/Quenya.md) có nghĩa là "con đường; con đường, lối đi; đường đi, đường, phương hướng".<sup id="cite_ref-Namarie_1-0" class="reference"><a href="#cite_note-Namarie-1">[1]</a></sup><sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-Ety_3-0" class="reference"><a href="#cite_note-Ety-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Te%C8%9D%C4%93&amp;action=edit&amp;redlink=1" title="Teȝē (page does not exist)">teȝē</a></i>, từ [root](../S/Sundocarme.md) [TEȜ](TEN.md). Lưu ý rằng gốc này đã được [Tolkien](../J/J.R.R._Tolkien.md) thay đổi thành [TEÑ](TEÑ.md).<sup id="cite_ref-Ety_3-1" class="reference"><a href="#cite_note-Ety-3">[3]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Te%C8%9D%C4%93&amp;action=edit&amp;redlink=1" title="Teȝē (page does not exist)">teȝē</a></i>, từ [root](../S/Sundocarme.md) [TEȜ](TEN.md). Lưu ý rằng thân này đã được thay đổi bởi [Tolkien](../J/J.R.R._Tolkien.md) thành [TEÑ](TEÑ.md).<sup id="cite_ref-Ety_3-1" class="reference"><a href="#cite_note-Ety-3">[3]</a></sup>
 
 ## Ví dụ {#Examples}
 
 - <i><a href="../N/Namárië.md" title="Namárië">ilyë<b>tier</b> undulávë lumbulë</a></i> = "tất cả **con đường** chìm sâu trong bóng tối"
-- <i><a href="../A/Anar_kaluva_tielyanna.md" title="Anar kaluva tielyanna">Anar kaluva <b>tie</b>lyanna</a></i> = " [Mặt trời](../S/Sun.md) sẽ chiếu sáng trên **con đường** của bạn"
+- <i><a href="../A/Anar_kaluva_tielyanna.md" title="Anar kaluva tielyanna">Anar kaluva <b>tie</b>lyanna</a></i> = " [Mặt Trời](../S/Sun.md) sẽ tỏa sáng trên **con đường** của bạn"
 
 ## Cảm hứng {#Inspiration}
 
@@ -34,7 +34,7 @@ Từ này dường như được vay mượn trực tiếp từ [Tiếng Phần 
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *Qenya Lexicon* xuất hiện từ [Qenya](../Q/Qenya.md) *tie* ("tuyến, hướng, tuyến, đường").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong phần *Qenya Lexicon* xuất hiện từ [Qenya](../Q/Qenya.md) *tie* ("tuyến, hướng, lộ trình, đường").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

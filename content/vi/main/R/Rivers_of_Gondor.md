@@ -12,49 +12,49 @@ categories:
   - "Rivers"
 ---
 
-**Các dòng sông Gondor** có thể được phân thành hai nhóm chồng chéo.
+Các **Các con sông Gondor** có thể được phân thành hai nhóm chồng chéo.
 
-## Những dòng sông Gondor {#Rivers_of_Gondor}
+## Sông Gondor {#Rivers_of_Gondor}
 
 *Five Rivers of Gondor* được đặt tên theo thứ tự miệng từ đông sang tây:<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 1. [Erui](../E/Erui.md), chảy từ [Lossarnach](../L/Lossarnach.md) và vào [Anduin](../A/Anduin.md);
-2. [Sirith](../S/Sirith.md), phát sinh từ [Dãy núi Trắng](../W/White_Mountains.md) và nhập vào sông Anduin tại [Pelargir](../P/Pelargir.md);
+2. [Sirith](../S/Sirith.md), phát sinh từ [Dãy Núi Trắng](../W/White_Mountains.md) và nối với Anduin tại [Pelargir](../P/Pelargir.md);
 3. [Serni](../S/Serni.md), gặp [Vịnh Belfalas](../B/Bay_of_Belfalas.md) ngay bên dưới [Linhir](../L/Linhir.md);
-4. [Morthond](../M/Morthond.md), được nối với [Ringló](Ringló.md) và [Ciril](../C/Ciril.md), nó chảy vào [Cobas Haven](../C/Cobas_Haven.md);
+4. [Morthond](../M/Morthond.md), được nối bởi [Ringló](Ringló.md) và [Ciril](../C/Ciril.md) nó chảy vào [Cobas Haven](../C/Cobas_Haven.md);
 5. [Lefnui](../L/Lefnui.md), con sông thứ năm tạo thành ranh giới giữa [Gondor](../G/Gondor.md) và [Drúwaith Iaur](../D/Drúwaith_Iaur.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong ghi chú trước đây của [Tolkien](../J/J.R.R._Tolkien.md) về việc tạo [bản đồ](../G/General_Map_of_Middle-earth.md) của [Trung địa](../M/Middle-earth.md) - bao gồm cả *[The Treason of Isengard](../T/The_Treason_of_Isengard.md)* và *[The War of the Ring](../T/The_War_of_the_Ring.md)* - [Christopher Tolkien](../C/Christopher_Tolkien.md) cho thấy danh sách mở rộng ban đầu về các Sông Gondor cũng bao gồm [Anduin](../A/Anduin.md), [Duin Morghul](../M/Morgulduin.md), [Poros](../P/Poros.md) và [Calenhir](../C/Calenhir.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong các bản thảo trước đó của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* có một số đề cập đến cả "Vùng đất của bảy dòng suối" và "Bảy dòng suối" (với một trong [Bài hát của Boromir](../S/Song_of_Boromir.md) đã xuất bản: "*Tôi đã thấy ông cưỡi ngựa vượt qua bảy con suối, băng qua vùng biển rộng lớn và màu xám*");<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mặc dù Christopher Tolkien coi đây là một "câu đố", một ghi chú của Tolkien trên bản đồ nêu tên bảy con sông (năm con sông ở trên và thêm hai con sông nữa):<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong ghi chú trước đây của [Tolkien](../J/J.R.R._Tolkien.md) về việc tạo [bản đồ](../G/General_Map_of_Middle-earth.md) của [Trung Địa](../M/Middle-earth.md) - được bao gồm trong cả *[The Treason of Isengard](../T/The_Treason_of_Isengard.md)* và *[The War of the Ring](../T/The_War_of_the_Ring.md)* - [Christopher Tolkien](../C/Christopher_Tolkien.md) cho thấy rằng danh sách mở rộng ban đầu của các Sông Gondor cũng bao gồm [Anduin](../A/Anduin.md), [Duin Morghul](../M/Morgulduin.md), [Poros](../P/Poros.md) và [Calenhir](../C/Calenhir.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong các bản thảo trước đó của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* có một số tham chiếu đến cả "Vùng đất của bảy dòng suối" và "Bảy dòng suối" (với một trong [Bài hát đã xuất bản của Boromir](../S/Song_of_Boromir.md): "*Tôi đã thấy ông cưỡi ngựa vượt qua bảy con suối, trên mặt nước rộng và xám xịt*");<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> mặc dù Christopher Tolkien coi đây là một "câu đố", ghi chú từ Tolkien trên bản đồ đặt tên cho bảy con sông (năm con sông ở trên có thêm hai con sông nữa):<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <ol start="6">
 <li><a href="../I/Isen.md" title="Isen">Isen</a>, flowing westward to <a href="../B/Belegaer.md" title="Belegaer">Belegaer</a> from <a href="../I/Isengard.md" title="Isengard">Isengard</a>;</li>
 <li><a href="../G/Gwathló.md" title="Gwathló">Gwathló</a>, representing the boundary of <a href="../A/Arnor.md" title="Arnor">Arnor</a>, passing through the port of <a href="../T/Tharbad.md" title="Tharbad">Tharbad</a> and joining the sea at <a href="../L/Lond_Daer.md" title="Lond Daer">Lond Daer</a>.</li>
 </ol>
 
-Tuy nhiên, bài thơ “[Con tàu cuối cùng](../T/The_Last_Ship.md)” trong *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* có nhắc đến “Bảy con sông”<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> được xác định là:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Tuy nhiên, bài thơ “[The Con Tàu Cuối Cùng](../T/The_Last_Ship.md)” trong *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* lại nhắc đến “Bảy con sông”<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> được xác định là:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-1. [Lefnui](../L/Lefnui.md), con sông đầu tiên chảy từ tây sang đông, tạo thành ranh giới phía tây của [Gondor](../G/Gondor.md);
+1. [Lefnui](../L/Lefnui.md), con sông đầu tiên chảy từ Tây sang Đông, tạo thành ranh giới phía Tây của [Gondor](../G/Gondor.md);
 2. [Morthond](../M/Morthond.md), bắt đầu từ gần lối vào phía nam của [Con đường của người chết](../P/Paths_of_the_Dead.md) nó đi qua [Erech](../E/Erech.md) để đến vùng biển phía trên [Dol Amroth](../D/Dol_Amroth.md)
-3. [Kiril](../C/Ciril.md), một nhánh của Morthond chảy từ Dãy núi Trắng qua thị trấn [Calembel](../C/Calembel.md);
-4. [Ringló](Ringló.md), một nhánh khác của Morthond đi qua khúc cạn [Ethring](../E/Ethring.md);
+3. [Kiril](../C/Ciril.md), một nhánh của Morthond chảy từ Dãy Núi Trắng qua thị trấn [Calembel](../C/Calembel.md);
+4. [Ringló](Ringló.md), một nhánh khác của Morthond đi qua chỗ cạn [Ethring](../E/Ethring.md);
 5. [Gilrain](../G/Gilrain.md), nhập vào sông Serni tại [Linhir](../L/Linhir.md);
 6. [Serni](../S/Serni.md) - ban đầu được đánh vần là "Sernui" - và gia nhập Gilrain tại Linhir;
-7. [Anduin](../A/Anduin.md), Sông Lớn chảy từ [Rhovanion](Rhovanion.md), qua [Rauros](Rauros.md), qua [Osgiliath](../O/Osgiliath.md) và đổ ra biển sau [Pelargir](../P/Pelargir.md).
+7. [Anduin](../A/Anduin.md), Sông Lớn chảy từ [Rhovanion](Rhovanion.md), qua [Rauros](Rauros.md), qua [Osgiliath](../O/Osgiliath.md) và ra biển sau [Pelargir](../P/Pelargir.md).
 
-## Năm dòng sông Lebennin {#Five_Rivers_of_Lebennin}
+## Năm con sông Lebennin {#Five_Rivers_of_Lebennin}
 
-[Lebennin](../L/Lebennin.md) là khu vực phía nam [Minas Tirith](../M/Minas_Tirith.md) giữa [Dãy núi Trắng](../W/White_Mountains.md) và [Ethir Anduin](../E/Ethir_Anduin.md). Tên của nó có nghĩa là "Năm con sông" và *Five Rivers of Lebennin* như sau:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+[Lebennin](../L/Lebennin.md) là vùng phía nam [Minas Tirith](../M/Minas_Tirith.md) giữa [Dãy Núi Trắng](../W/White_Mountains.md) và [Ethir Anduin](../E/Ethir_Anduin.md). Tên của nó có nghĩa là "Năm con sông" và *Five Rivers of Lebennin* như sau:<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-1. [Erui](../E/Erui.md), tạo thành ranh giới truyền thống giữa Lebennin và [Anórien](../A/Anórien.md);
+1. [Erui](../E/Erui.md), hình thành ranh giới truyền thống giữa Lebennin và [Anórien](../A/Anórien.md);
 2. [Celos](../C/Celos.md), một nhánh nhỏ của [Sirith](../S/Sirith.md);
-3. [Sirith](../S/Sirith.md), phát sinh từ [Dãy núi Trắng](../W/White_Mountains.md) và nhập vào sông Anduin tại [Pelargir](../P/Pelargir.md);
-4. [Gilrain](../G/Gilrain.md), khởi đầu là hai nhánh không tên ở Dãy núi Trắng và chảy về phía nam gặp Serni tại [Linhir](../L/Linhir.md);
+3. [Sirith](../S/Sirith.md), phát sinh từ [Dãy Núi Trắng](../W/White_Mountains.md) và nối với Anduin tại [Pelargir](../P/Pelargir.md);
+4. [Gilrain](../G/Gilrain.md), khởi đầu là hai nhánh không tên ở Dãy Núi Trắng và chảy về phía nam gặp Serni tại [Linhir](../L/Linhir.md);
 5. [Serni](../S/Serni.md), gặp Vịnh [Belfalas](../B/Belfalas.md) ngay bên dưới Linhir và phía trên [Ethir Anduin](../E/Ethir_Anduin.md).
 
 ## Xem thêm {#See_also}
 
 - [Ossiriand](../O/Ossiriand.md), "Vùng đất bảy dòng sông"
-- [Poros](../P/Poros.md), con sông biên giới giữa [Nam Ithilien](../S/South_Ithilien.md) và [Nam Gondor](../S/South_Gondor.md)
+- [Poros](../P/Poros.md), con sông biên giới giữa [South Ithilien](../S/South_Ithilien.md) và [South Gondor](../S/South_Gondor.md)
 
 <span></span>
 

@@ -39,13 +39,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Parma_Eldalamberon_2.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bf/Parma_Eldalamberon_2.png/320px-Parma_Eldalamberon_2.png" decoding="async" loading="lazy" width="320" height="414" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bf/Parma_Eldalamberon_2.png/480px-Parma_Eldalamberon_2.png 1.5x, https://tolkiengateway.net/w/images/thumb/b/bf/Parma_Eldalamberon_2.png/640px-Parma_Eldalamberon_2.png 2x" data-file-width="1236" data-file-height="1600"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Parma Eldalamberon 2</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a>, <a href="Paula_Marmor.md" title="Paula Marmor">Paula Marmor</a>, Jim Carleton, Jim Vibber</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Bonnie GoodKnight (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../M/Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1972.md" title="1972">1972</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">16</td></tr></tbody></table>
 
-<i><b>Parma Eldalamberon 2</b></i> là số thứ hai của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ và tên gọi của người Tiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Parma Eldalamberon 2</b></i> là số thứ hai của *[Parma Eldalamberon](Parma_Eldalamberon.md)*, tạp chí nghiên cứu ngôn ngữ học về các ngôn ngữ Elvish và tên gọi trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 1</div></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_1.md" title="Parma Eldalamberon 1">Parma Eldalamberon 1</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 2</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Parma Eldalamberon 3</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Parma_Eldalamberon_3.md" title="Parma Eldalamberon 3">Parma Eldalamberon 3</a></div></div></div>
 
 ## Nội dung {#Contents}
 
-- Bìa: "Dæron tặng Angerthas Cirith cho Vua Thingol" — Bonnie GoodKnight
+- Bìa: "Dæron giới thiệu Angerthas Cirith cho Vua Thingol" — Bonnie GoodKnight
 
 - Cột
     - "*Beth-Luis-Nion*" — [Paula Marmor](Paula_Marmor.md)
@@ -55,8 +55,8 @@ infobox:
 
 - Bài viết
     - "Nguồn cho Tengwar của Tolkien?" — [Jim Allan](../J/Jim_Allan.md)
-    - "Dòng chữ đen" — Don Keller
-    - "Ghi chú về các hạt chỉ thị trong tiếng Quenya và tiếng Phần Lan" — Paula Marmor
+    - "Dòng chữ trên chiếc nhẫn Hắc Ngữ" — Don Keller
+    - "Ghi chú về các hạt chỉ thị bằng tiếng Quenya và tiếng Phần Lan" — Paula Marmor
     - "Một từ 'Mới' trong [Gothic](../G/Gothic.md)" — Larry Krieg
     - "Lịch sử của các hình thức" — Martha Krieg
 

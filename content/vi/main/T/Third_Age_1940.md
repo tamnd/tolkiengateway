@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1934.md" title="Third Age 1934">1934</a><a href="Third_Age_1936.md" title="Third Age 1936">1936</a><a href="Third_Age_1938.md" title="Third Age 1938">1938</a><a class="mw-selflink selflink">1940</a><a href="Third_Age_1944.md" title="Third Age 1944">1944</a><a href="Third_Age_1945.md" title="Third Age 1945">1945</a><a href="Third_Age_1950.md" title="Third Age 1950">1950</a></div></div></div></div></div></div>
 
-**Thời đại thứ ba 1940** (viết tắt là **T.A. 1940**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1940 của [Thời đại thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba năm 1940 còn được gọi là **S.R. 340** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 1940** (viết tắt là **T.A. 1940**) là năm [năm 1940 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1940 còn được gọi là **S.R. 340** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Gondor](../G/Gondor.md) và [Arnor](../A/Arnor.md) nối lại liên lạc và thành lập một liên minh. [Arvedui](../A/Arvedui.md) kết hôn với [Fíriel](../F/Fíriel.md) con gái của [Ondoher](../O/Ondoher.md) xứ Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Gondor](../G/Gondor.md) và [Arnor](../A/Arnor.md) đổi mới liên lạc và thành lập một liên minh. [Arvedui](../A/Arvedui.md) cưới [Fíriel](../F/Fíriel.md) con gái của [Ondoher](../O/Ondoher.md) của Gondor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -31,55 +31,55 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg/320px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg/480px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/9f/The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg/640px-The_Lord_of_the_Rings_-_The_Fellowship_of_the_Ring_-_The_Complete_Recordings.jpg 2x" data-file-width="2400" data-file-height="2400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings</span></th></tr><tr><td colspan="2" class="tg-infobox-caption">Soundtrack by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/13_December.md" title="13 December">13 December</a>, <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Length</th><td class="tg-infobox-data">180:35</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data">English</td></tr><tr><th scope="row" class="tg-infobox-label">Label</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Reprise_Records" title="wikipedia:Reprise Records">Reprise Records</a></td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn: The Fellowship of the Ring - The Complete Recordings</b></i> là một album của [Howard Shore](../H/Howard_Shore.md), bao gồm nhạc nền từ [phiên bản mở rộng](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>) của *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+<i><b>The Lord of the Rings: The Fellowship of the Ring - The Complete Recordings</b></i> là một album của [Howard Shore](../H/Howard_Shore.md), bao gồm nhạc nền từ [phiên bản mở rộng](<The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md>) của *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 
 ## Nội dung {#Contents}
 
 ### Đĩa 1 {#Disc_1}
 
 1. [Prologue: One Ring to Rule Them All](../P/Prologue%253A_One_Ring_to_Rule_Them_All.md)
-2. [Quận](<The_Shire_(soundtrack).md>)
-3. [Cuối túi](<../B/Bag_End_(soundtrack).md>)
+2. [The Shire](<The_Shire_(soundtrack).md>)
+3. [Bag End](<../B/Bag_End_(soundtrack).md>)
 4. [Những người bạn rất cũ](<../V/Very_Old_Friends_(soundtrack).md>)
 5. [Mái tóc đỏ rực](../F/Flaming_Red_Hair.md)
-6. [Tạm biệt Bilbo thân yêu](<../F/Farewell_Dear_Bilbo_(soundtrack).md>)
+6. [Tạm biệt em yêu Bilbo](<../F/Farewell_Dear_Bilbo_(soundtrack).md>)
 7. [Giữ bí mật, giữ an toàn](../K/Keep_It_Secret,_Keep_It_Safe.md)
 8. [Một âm mưu bị vạch trần](<../A/A_Conspiracy_Unmasked_(soundtrack).md>)
-9. [Công ty Ba Là](<Three_Is_Company_(soundtrack).md>)
-10. [Sự ra đi của Yêu tinh](The_Passing_of_the_Elves.md)
-11. [Saruman Trắng](../S/Saruman_the_White.md)
-12. [Con đường tắt đến nấm](<../A/A_Shortcut_to_Mushrooms_(soundtrack).md>)
-13. [Người bước chân](<../S/Strider_(soundtrack).md>)
-14. [Bọn Nazgûl](The_Nazgûl.md)
+9. [Công ty ba là](<Three_Is_Company_(soundtrack).md>)
+10. [Sự ra đi của Tiên tộc](The_Passing_of_the_Elves.md)
+11. [Saruman quân Trắng](../S/Saruman_the_White.md)
+12. [Đường tắt đến nấm](<../A/A_Shortcut_to_Mushrooms_(soundtrack).md>)
+13. [Strider](<../S/Strider_(soundtrack).md>)
+14. [Cái Nazgûl](The_Nazgûl.md)
 
 ### Đĩa 2 {#Disc_2}
 
-1. [Thời tiết](<../W/Weathertop_(soundtrack).md>)
+1. [Weathertop](<../W/Weathertop_(soundtrack).md>)
 2. [Hang động Isengard](The_Caverns_of_Isengard.md)
 3. [Hãy từ bỏ Halfling](../G/Give_Up_the_Halfling.md)
 4. [Orthanc](<../O/Orthanc_(soundtrack).md>)
 5. [Rivendell](<../R/Rivendell_(soundtrack).md>)
 6. [Thanh kiếm đã gãy](The_Sword_That_Was_Broken~45926.md)
-7. [Hội đồng Elrond tập hợp](The_Council_of_Elrond_Assembles.md) (feat. "Aníron (Chủ đề cho Aragorn và Arwen)," sáng tác và biểu diễn bởi [Enya](../E/Enya.md))
+7. [The Hội đồng Elrond Assembles](The_Council_of_Elrond_Assembles.md) (feat. "Aníron (Chủ đề cho Aragorn và Arwen)," sáng tác và biểu diễn bởi [Enya](../E/Enya.md))
 8. [Con mắt vĩ đại](The_Great_Eye.md)
-9. [Đài tưởng niệm Gilraen](<../G/Gilraen's_Memorial_(soundtrack).md>)
-10. [Đèo Caradhras](<The_Pass_of_Caradhras_(soundtrack).md>)
+Lễ tưởng niệm 9. [Gilraen](<../G/Gilraen's_Memorial_(soundtrack).md>)
+10. [Thẻ Caradhras](<The_Pass_of_Caradhras_(soundtrack).md>)
 11. [Cánh cửa Durin](The_Doors_Of_Durin.md)
 12. [Moria](<../M/Moria_(soundtrack).md>)
 13. [Gollum](<../G/Gollum_(soundtrack).md>)
-14. [Lăng mộ Balin](<../B/Balin's_Tomb_(soundtrack).md>)
+Lăng mộ của 14. [Balin](<../B/Balin's_Tomb_(soundtrack).md>)
 
 ### Đĩa 3 {#Disc_3}
 
 1. [Khazad-Dûm](<../K/Khazad-Dûm_(soundtrack).md>)
-2. [Caras Galadhon](<../C/Caras_Galadhon_(soundtrack).md>) (feat. "Lament for Gandalf," do Elizabeth Fraser trình diễn)
+2. [Caras Galadhon](<../C/Caras_Galadhon_(soundtrack).md>) (feat. "Lament for Gandalf," do Elizabeth Fraser trình bày)
 3. [Tấm gương của Galadriel](<The_Mirror_of_Galadriel_(soundtrack).md>)
 4. [Trận chiến Uruk-Hai](The_Fighting_Uruk-Hai~45938.md)
 5. [Parth Galen](<../P/Parth_Galen_(soundtrack).md>)
 6. [Sự khởi hành của Boromir](The_Departure_Of_Boromir~69147.md)
 7. [Con Đường Mãi Mãi Đi ... Pt. 1](The_Road_Goes_Ever_on_..._Pt._1.md)
 8. [May It Be](../M/May_It_Be.md#tabber-Complete_Recordings) (sáng tác & trình bày bởi Enya)
-9. [Con Đường Mãi Mãi Đi ... Pt. 2](The_Road_Goes_Ever_On_..._Pt._2.md) (feat. "In Dreams," do Edward Ross trình bày)
+9. [The Road Goes Ever On ... Pt. 2](The_Road_Goes_Ever_On_..._Pt._2.md) (feat. "In Dreams," do Edward Ross trình bày)
 
 ### Đĩa 4 {#Disc_4}
 
@@ -98,8 +98,8 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.lordoftherings-soundtrack.com/" rel="noreferrer noopener" target="_blank">Trang web nhạc phim chính thức</a>
-    - <a class="external text" href="http://www.lordoftherings-soundtrack.com/fotr_complete.html" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn - Bản ghi âm hoàn chỉnh</i></a>
-- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/FOTR/FOTRcr.htm" rel="noreferrer noopener" target="_blank"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn - Bản ghi âm hoàn chỉnh</i></a> về <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">Tổ chim ác là</a>
+    - <a class="external text" href="http://www.lordoftherings-soundtrack.com/fotr_complete.html" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings: The Fellowship of the Ring - Bản ghi hoàn chỉnh</i></a>
+- <a class="external text" href="http://www.amagpiesnest.com/cd_editions/FOTR/FOTRcr.htm" rel="noreferrer noopener" target="_blank"><i>The Lord of the Rings: The Fellowship of the Ring - Bản ghi hoàn chỉnh</i></a> về <a class="external text" href="http://www.amagpiesnest.com/" rel="noreferrer noopener" target="_blank">Tổ chim ác là</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

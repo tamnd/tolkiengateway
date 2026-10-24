@@ -12,13 +12,13 @@ source: Tolkien Gateway
 
 TỪ Daniel Cossi Jundiaí, SP, Brasil Ngày 17 tháng 2 năm 2012
 
-Đến Cổng Tolkien
+Tới Tolkien Gateway
 
 Nó có thể quan tâm đến ai:
 
 Tên tôi là Daniel Cossi và qua đây tôi đồng ý bằng văn bản cho phép Tolkien Gateway phát hành và hiển thị Logo cũng như thông tin về Sociedade de Tolkien Brasileira.
 
-Tôi gửi thư này để cấp quyền truy cập vào bất kỳ thông tin nào được phê duyệt và trình bày trên trang web này, như Lịch sử, Tác phẩm, Liên kết Midia xã hội của chúng tôi và các thông tin khác liên quan đến Sociedade de Tolkien Brasileira mà tôi biết về nội dung của nó kể từ ngày 16 tháng 2 năm 2012. Mục đích của việc truy cập này chỉ nên giới hạn ở mục đích duy nhất là cung cấp thông tin và truyền bá các tác phẩm của STB về J.R.R. Tolkien.
+Tôi gửi thư này để cấp quyền truy cập vào bất kỳ thông tin nào được phê duyệt và trình bày trên trang web này, như Lịch sử, Tác phẩm, Liên kết Social Midia của chúng tôi và các thông tin khác liên quan đến Sociedade de Tolkien Brasileira mà tôi biết về nội dung của nó kể từ ngày 16 tháng 2 năm 2012. Mục đích của việc truy cập này chỉ nên giới hạn ở mục đích duy nhất là cung cấp thông tin và truyền bá các tác phẩm của STB về J.R.R. Tolkien.
 
 Tuy nhiên, tôi thông báo rằng việc tiết lộ thông tin STB này không được vì bất kỳ mục đích nào khác ngoài mục đích này.
 

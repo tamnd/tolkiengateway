@@ -14,7 +14,7 @@ categories:
   - "Quenya adverbs"
 ---
 
-<i><b>tenna</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đến",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc "'đối với đối tượng' do đó 'lên tới, tới (đạt được), xa như'", được cho là một "giới từ ban đầu là trạng từ".<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-C_3-0" class="reference"><a href="#cite_note-C-3">[3]</a></sup>
+<i><b>tenna</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đến",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc "'với đối tượng' do đó 'lên tới, tới (đạt được), xa như'", được cho là một "giới từ ban đầu là trạng từ".<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup><sup id="cite_ref-C_3-0" class="reference"><a href="#cite_note-C-3">[3]</a></sup>
 
 Khi theo sau là một từ bắt đầu bằng một nguyên âm tương tự, *tenna* có dạng <a class="extiw" href="http://en.wikipedia.org/wiki/Elision" title="wikipedia:Elision">elided</a> (*tenn’*).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

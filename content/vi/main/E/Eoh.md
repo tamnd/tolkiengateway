@@ -42,19 +42,19 @@ Eoh sống ở đâu đó vào <a class="extiw" href="http://en.wikipedia.org/wi
 
 Ông có một người con trai tên là Ottor, sau này được biết đến với cái tên *Eriol*, thừa hưởng niềm khao khát đi biển của tổ tiên.<sup id="cite_ref-Sea_3-1" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup>
 
-Tuy nhiên, vào một thời điểm nào đó trong thời thơ ấu của Eriol, nhà của Eoh đã bị anh trai [Beorn](<../B/Beorn_(son_of_Heden).md>) tấn công, khiến cả mẹ của Eriol<sup id="cite_ref-Sea_3-2" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup> và Eoh đều chết, Eoh bị chính Beorn giết chết<sup id="cite_ref-Eoh_1-3" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup> trong một "cuộc chiến cay đắng quanh các bức tường".<sup id="cite_ref-Sea_3-3" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Các cháu trai của ông, [Hengest](../H/Hengest.md) và [Horsa](../H/Horsa.md), sau này đã trả thù cho cái chết của ông.<sup id="cite_ref-Eoh_1-4" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup>
+Tuy nhiên, vào một thời điểm nào đó trong thời thơ ấu của Eriol, nhà của Eoh đã bị anh trai [Beorn](<../B/Beorn_(son_of_Heden).md>)tấn công, khiến cả mẹ Eriol<sup id="cite_ref-Sea_3-2" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup> và Eoh đều chết, Eoh bị chính Beorn giết chết<sup id="cite_ref-Eoh_1-3" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup> trong một "cuộc chiến cay đắng quanh các bức tường".<sup id="cite_ref-Sea_3-3" class="reference"><a href="#cite_note-Sea-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Các cháu trai của ông, [Hengest](../H/Hengest.md) và [Horsa](../H/Horsa.md), sau này đã trả thù cho cái chết của mình.<sup id="cite_ref-Eoh_1-4" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Eoh* trong [tiếng Anh cổ](../O/Old_English.md), là một từ đầy chất thơ có nghĩa là "ngựa".<sup id="cite_ref-Eoh_1-5" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup>
+Tên *Eoh* có trong [tiếng Anh cổ](../O/Old_English.md), là một từ đầy chất thơ cho "con ngựa".<sup id="cite_ref-Eoh_1-5" class="reference"><a href="#cite_note-Eoh-1">[1]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Tên của Eoh trong [Qenya](../Q/Qenya.md) là <i><b>Évar</b></i>, với <i><b>Echos</b></i> tương đương với [Gnomish](../G/Gnomish.md).
+Tên của Eoh trong [Qenya](../Q/Qenya.md) là <i><b>Évar</b></i>, với <i><b>Echos</b></i> là [Gnomish](../G/Gnomish.md) tương đương.
 
-Nhân vật này còn được gọi là <i><b>Elvas</b></i> trong [Gothic](../G/Gothic.md), *Elvas* có lẽ là một dạng phương ngữ hoặc cổ xưa của từ Gothic *aílvs* ("ngựa") - từ đó có lẽ các từ tương đương Qenya và Gnomish của cái tên này có lẽ bắt nguồn từ đó.
+Nhân vật này còn được gọi là <i><b>Elvas</b></i> trong [Gothic](../G/Gothic.md), *Elvas* có lẽ là một dạng phương ngữ hoặc cổ xưa của từ Gothic *aílvs* ("ngựa") - từ đó các từ tương đương Qenya và Gnomish của tên này có lẽ bắt nguồn từ đó.
 
-Một tên Qenya thay thế cho Eoh là <i><b>Eqar</b></i>.<sup id="cite_ref-Elv_6-0" class="reference"><a href="#cite_note-Elv-6">[5]</a></sup>
+Tên Qenya thay thế cho Eoh là <i><b>Eqar</b></i>.<sup id="cite_ref-Elv_6-0" class="reference"><a href="#cite_note-Elv-6">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -75,7 +75,7 @@ Một tên Qenya thay thế cho Eoh là <i><b>Eqar</b></i>.<sup id="cite_ref-Elv
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một bản phác thảo ban đầu bị từ chối, một phiên bản phức tạp hơn của cuộc tấn công vào nhà của Eoh đã được đưa ra, trong đó Beorn tấn công lâu đài của anh trai mình và giết chết ông ta, *and* bắt giữ Eriol - từ đó Eriol cuối cùng đã trốn thoát.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Trong một bản phác thảo ban đầu bị từ chối, một phiên bản phức tạp hơn của cuộc tấn công vào nhà của Eoh đã được đưa ra, trong đó Beorn tấn công lâu đài của anh trai ông ta và giết chết ông ta, *and* bắt giữ Eriol - từ đó Eriol cuối cùng đã trốn thoát.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
 ## Ghi chú {#Notes}
 

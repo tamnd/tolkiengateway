@@ -24,7 +24,7 @@ infobox:
 
 **Poldor** là một [Númenórean](../N/Númenórean.md) [người đàn ông](../M/Men.md) theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Lost Road](../T/The_Lost_Road.md)*.
 
-Ông ta là bạn bè của [Herendil](../H/Herendil.md), người đã phàn nàn với cha mình [Elendil](../E/Elendil.md) rằng Poldor đã gọi ông ta *[Eärendel](../E/Eärendil.md)* ngày hôm trước với mục đích khinh miệt hoặc chế nhạo.<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup> Tuy nhiên, trong bản dự thảo mới nhất, Poldor đã bị lược bỏ và thay thế bằng nhiều đồng nghiệp ẩn danh của Herendil, Herendil nói với cha anh rằng các đồng nghiệp của anh gọi anh bằng những cái tên như *Terendul* (có nghĩa là "mảnh mai và đen tối") và buộc tội ông ta là "nửa Noldo."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ông ta là bạn bè của [Herendil](../H/Herendil.md), người đã phàn nàn với cha mình [Elendil](../E/Elendil.md) rằng Poldor đã gọi ông ta *[Eärendel](../E/Eärendil.md)* ngày hôm trước với thái độ khinh miệt hoặc chế nhạo.<sup id="cite_ref-P1_1-0" class="reference"><a href="#cite_note-P1-1">[1]</a></sup> Tuy nhiên, trong bản dự thảo mới nhất, Poldor đã bị bỏ qua và thay thế bằng nhiều đồng nghiệp ẩn danh của Herendil, Herendil nói với cha anh rằng các đồng nghiệp của anh gọi anh bằng những cái tên như *Terendul* (có nghĩa là "mảnh mai và đen tối") và buộc tội anh là người như vậy một "nửa-Noldo."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

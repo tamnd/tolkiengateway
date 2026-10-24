@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen240.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c5/AmonHen240.jpg/320px-AmonHen240.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c5/AmonHen240.jpg/480px-AmonHen240.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c5/AmonHen240.jpg/640px-AmonHen240.jpg 2x" data-file-width="1240" data-file-height="1755"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 240</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../M/March.md" title="March">March</a> <a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_239.md" title="Amon Hen 239">Amon Hen 239</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_241.md" title="Amon Hen 241">Amon Hen 241</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 240</b> là số thứ hai trăm bốn mươi của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 3](../M/March.md) [2013](../_/2013.md).
+<b><i>Amon Hen</i> 240</b> là số thứ hai trăm bốn mươi của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 3](../M/March.md) [2013](../_/2013.md).
 
 ## Nội dung {#Contents}
 
@@ -62,7 +62,7 @@ infobox:
     - Bởi: Lynn Forest-Hill
 - Tác phẩm nghệ thuật: *Galadriel*
     - Bởi: Jef Murray
-- Báo cáo: Buổi ra mắt phim Hobbit: Niềm vui bất ngờ
+- Báo cáo: The Hobbit Buổi ra mắt: Niềm vui bất ngờ
     - Bởi: [Shaun Gunner](../S/Shaun_Gunner.md)
 - Báo cáo: TolkienCon Praha
     - Bởi: [Alex Lewis](Alex_Lewis.md)
@@ -70,14 +70,14 @@ infobox:
     - Bởi: [Charles E. Noad](../C/Charles_E._Noad.md)
 - Cáo phó: Dinah Hazell
     - Bởi: Ruth McLauchlan
-- Giáo sư Tolkien, Pints và cuộc chiến giữa Thiện và Ác
-    - Bởi: Christopher Power
+- Giáo sư Tolkien, Pints và cuộc chiến Thiện và Ác
+    - Bởi: Christopher Quyền lực
 - Tác phẩm nghệ thuật: *Death of Thorin Oakenshield*
     - Bởi: Jef Murray
 - Phía sau cánh cửa kính
     - Bởi: [Alex Lewis](Alex_Lewis.md)
 - Thư
-- Sao chép-sai
+- Sao chép sai
     - Bởi: [Alex Lewis](Alex_Lewis.md)
 - Đánh giá: *The J.R.R. Tolkien Miscellany*
     - Bởi: Jessica Yates
@@ -85,7 +85,7 @@ infobox:
     - Bởi: [Charles E. Noad](../C/Charles_E._Noad.md)
 - Tin tức từ [Fangorn](../F/Fangorn_Forest.md)
     - Bởi: Carol Brownlow
-- Đoạn cắt của Christopher
+Đoạn cắt của - Christopher
     - Bởi: Christopher Kreuzer
 - Thành viên mới
 - Ngày ghi Nhật ký/Ủy ban của bạn

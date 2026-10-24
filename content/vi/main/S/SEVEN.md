@@ -25,7 +25,7 @@ images:
 
 Tạp chí được thành lập tại [1980](../_/1980.md) bởi Tiến sĩ [Clyde S. Kilby](../C/Clyde_S._Kilby.md), Tiến sĩ Barbara Reynolds và Tiến sĩ Beatrice Batson, và được xuất bản bởi [Trung tâm Marion E. Wade](../M/Marion_E._Wade_Center.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tạp chí đã xuất bản 40 số.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Mặc dù hầu hết các tập bao gồm ít nhất một bài viết liên quan đến Tolkien, nhưng có hai vấn đề đáng chú ý vì có [trích dẫn chưa được xuất bản](../../index/U/Unpublished_material.md) trước đây từ [các bài viết của Tolkien](../../index/W/Writings_by_J.R.R._Tolkien.md):
+Mặc dù hầu hết các tập bao gồm ít nhất một bài viết liên quan đến Tolkien, nhưng có hai vấn đề đáng chú ý vì có chứa [các trích dẫn chưa được xuất bản trước đây](../../index/U/Unpublished_material.md) từ [các bài viết của Tolkien](../../index/W/Writings_by_J.R.R._Tolkien.md):
 
 - [VII: An Anglo-American Literary Review, Volume 17](SEVEN_17.md) ([2000](../_/2000.md))
 - [VII: An Anglo-American Literary Review, Volume 27](SEVEN_27.md) ([2010](../_/2010.md))

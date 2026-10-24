@@ -14,7 +14,7 @@ categories:
   - "Sindarin pronouns"
 ---
 
-**hen** là một từ [tiếng Sindarin](../S/Sindarin.md) có nhiều nghĩa:
+**hen** là từ [Sindarin](../S/Sindarin.md) có nhiều nghĩa:
 
 1. Đạo hàm của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=He&amp;action=edit&amp;redlink=1" title="He (page does not exist)">he</a></i>
 2. "mắt", như trong *[Amon Hen](../A/Amon_Hen.md)*

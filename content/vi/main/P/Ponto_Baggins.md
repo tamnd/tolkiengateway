@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ponto Baggins (disambiguation)"
 ---
 
-Chuyển hướng tới [Ponto Baggins (định hướng)](<Ponto_Baggins_(disambiguation).md>).
+Chuyển hướng đến [Ponto Baggins (định hướng)](<Ponto_Baggins_(disambiguation).md>).

@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen51.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e8/AmonHen51.png/320px-AmonHen51.png" decoding="async" loading="lazy" width="320" height="455" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e8/AmonHen51.png/480px-AmonHen51.png 1.5x, https://tolkiengateway.net/w/images/thumb/e/e8/AmonHen51.png/640px-AmonHen51.png 2x" data-file-width="704" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 51</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Jenny Smith</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Kevin Grindley</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">10 July <a href="../_/1981.md" title="1981">1981</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_50.md" title="Amon Hen 50">Amon Hen 50</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_52.md" title="Amon Hen 52">Amon Hen 52</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 51</b> là số thứ 51 của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào ngày 10 tháng 7 [1981](../_/1981.md).
+<b><i>Amon Hen</i> 51</b> là số thứ 51 của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản ngày 10 tháng 7 [1981](../_/1981.md).
 
 ## Nội dung {#Contents}
 
@@ -54,9 +54,9 @@ infobox:
 - Trễ hè
 - Lễ kỷ niệm Forodrim
     - Bởi: Mary Woffinden
-- Gothmog và người Numenorean đen
+- Gothmog và Numenorean đen
     - Bởi: Alan Bough
-- Một sự đánh giá cao
+- Một lời tri ân
     - Bởi: Brendan Conroy
 - Nhận xét: *[Journeys of Frodo](../J/Journeys_of_Frodo.md)*
     - Bởi: [Helen Armstrong](../H/Helen_Armstrong.md)
@@ -67,7 +67,7 @@ infobox:
 - Đánh giá: Garner và Le Guin
     - Bởi: Jessica Yates
 - Hãy mỉm cười
-- Truyện dân gian
+- Truyện dân ca
 - Thư
 - Góc của Jessica
     - Bởi: Jessica Yates

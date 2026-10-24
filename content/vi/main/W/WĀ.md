@@ -14,7 +14,7 @@ sort_keys:
   "Roots": "WA"
 ---
 
-**WĀ** (WAWA, WAIWA) là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "thổi; âm thanh, tiếng ồn của gió".<sup id="cite_ref-Ety397_1-0" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**WĀ** (WAWA, WAIWA) là một [Elvish](../E/Elvish.md) [gốc](../S/Sundocarme.md) biểu thị "cú thổi; âm thanh, tiếng ồn của gió".<sup id="cite_ref-Ety397_1-0" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -28,7 +28,7 @@ sort_keys:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *Qenya Lexicon* xuất hiện từ gốc GWĀ-, với đạo hàm [Qenya](../Q/Qenya.md) *wā* ("gió").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong *Qenya Lexicon* xuất hiện từ gốc GWĀ-, với dẫn xuất [Qenya](../Q/Qenya.md) *wā* ("gió").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

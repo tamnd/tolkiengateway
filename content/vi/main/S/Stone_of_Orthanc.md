@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orthanc-stone"
 ---
 
-Chuyển hướng đến [Orthanc-stone](../O/Orthanc-stone.md).
+Chuyển hướng tới [Orthanc-stone](../O/Orthanc-stone.md).

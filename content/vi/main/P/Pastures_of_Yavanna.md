@@ -22,7 +22,7 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jenny_Dolfen_-_Fields_of_Gold.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/15/Jenny_Dolfen_-_Fields_of_Gold.jpg/250px-Jenny_Dolfen_-_Fields_of_Gold.jpg" decoding="async" loading="lazy" width="250" height="185" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/15/Jenny_Dolfen_-_Fields_of_Gold.jpg/375px-Jenny_Dolfen_-_Fields_of_Gold.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/15/Jenny_Dolfen_-_Fields_of_Gold.jpg/500px-Jenny_Dolfen_-_Fields_of_Gold.jpg 2x" data-file-width="650" data-file-height="482"/></a><figcaption><i>Fields of Gold</i> by <a href="../J/Jenny_Dolfen.md" title="Jenny Dolfen">Jenny Dolfen</a></figcaption></figure>
 
-**Đồng cỏ của [Yavanna](../Y/Yavanna.md)** nằm ở [Valinor](../V/Valinor.md), ở phần phía nam của vùng đất. Về phía đông lần lượt là [Rừng Oromë](../W/Woods_of_Oromë.md), [Hyamentir](../H/Hyamentir.md) và vùng đất hẹp [Avathar](../A/Avathar.md). Những đồng cỏ này vàng óng với lúa mì cao lớn của các vị thần.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Các đồng cỏ của [Yavanna](../Y/Yavanna.md)** nằm ở [Valinor](../V/Valinor.md), ở phần phía nam của vùng đất. Về phía đông lần lượt là [Rừng Oromë](../W/Woods_of_Oromë.md), [Hyamentir](../H/Hyamentir.md) và vùng đất hẹp [Avathar](../A/Avathar.md). Những đồng cỏ này vàng óng với lúa mì cao lớn của các vị thần.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

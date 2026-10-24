@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - Người giữ bản quyền [Jane Chance](../../main/J/Jane_Chance.md) cấp quyền sử dụng tệp [Jane Chance.jpg](../../file/J/Jane_Chance.jpg.md) trên Tolkien Gateway.
-- Ngày: 16 tháng 9 năm 2013.
+- Ngày: 16 tháng Chín năm 2013.
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

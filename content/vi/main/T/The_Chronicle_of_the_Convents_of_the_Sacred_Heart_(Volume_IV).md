@@ -33,7 +33,7 @@ infobox:
 
 <b><i>Biên niên sử các Tu viện Thánh Tâm</i> (Tập IV)</b> là một ấn phẩm văn học; nó có lẽ được cấp bởi trường Công giáo La Mã "Tu viện Thánh Tâm" nằm ở Roehampton vào những năm 1930 (hiện được đổi tên thành <a class="extiw" href="http://en.wikipedia.org/wiki/Woldingham_School" title="wikipedia:Woldingham School">Trường Woldingham</a> và nằm ở Surrey).
 
-Tập thứ tư bao gồm bài thơ "[Firiel](<../F/Firiel_(poem).md>)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (trang 30–2). Bài thơ được minh họa bởi một họa sĩ không rõ danh tính.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Tập thứ tư bao gồm bài thơ "[Firiel](<../F/Firiel_(poem).md>)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(trang 30–2). Bài thơ được minh họa bởi một họa sĩ không rõ danh tính.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

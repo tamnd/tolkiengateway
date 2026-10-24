@@ -39,19 +39,19 @@ infobox:
 
 ## Nội dung {#Contents}
 
-- "Kỷ niệm 100 năm của Charles Williams"
+- "Kỷ niệm 100 năm Charles Williams"
     - Bởi: Charles A. Huttar
-- "Mực ở Đức"
-    - Bởi: Christopher Dean
+- "Inklings ở Đức"
+    - Bởi: Christopher Trưởng khoa
 - "Chuyến thăm Beatrice"
     - Bởi: [Owen Barfield](../O/Owen_Barfield.md)
 - "Đi vào tầm nhìn: Góc nhìn của một tiểu thuyết gia về *Phantastes*"
     - Bởi: Sylvia Bruce
 - "'La Trahison des Clercs' trong Truyện ngụ ngôn dành cho những người cải cách xã hội của Chesterton"
     - Bởi: Denis J. Conlon
-- "Bóng ma thành phố T.S. Eliot trong tiểu thuyết của Charles Williams"
+- "Những bóng ma của thành phố T.S. Eliot trong tiểu thuyết Charles Williams"
     - Bởi: Donald G. Keesee
-- "Nhận thức giữa thế kỷ về các dân tộc Celtic cổ đại ở 'Anh'"
+- "Nhận thức giữa thế kỷ về các dân tộc Celtic cổ đại của 'Anh'"
     - Bởi: [J.S. Ryan](../J/John_Ryan.md)
 - "Tiếng vang thời đại từ thế giới J.R.R. Tolkien"
     - Bởi: E.L. Edmonds
@@ -59,7 +59,7 @@ infobox:
     - Bởi: Philip L. Scowcroft
 - "C.S. Lewis về Chủ nghĩa duy lý: (Ghi chú chưa xuất bản)"
     - Bởi: Patience Fetherston
-- "'Kiến thức' trong Tư tưởng Hậu Chuyển đổi của C.S. Lewis: Phương pháp Nhận thức luận của Ông"
+- "'Kiến thức' trong Tư duy Hậu Chuyển đổi của C.S. Lewis: Phương pháp Nhận thức luận của Ông"
     - Bởi: Stephen Thorson
 - Bài luận ôn tập:
     - "Tóm tắt: Lãi và lỗ trong việc hiện đại hóa George MacDonald"

@@ -58,19 +58,19 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 19 tháng 9
+Sự kiện xảy ra vào ngày 19 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1916](1916.md)** - Nhà văn [Terence Tiller](../T/Terence_Tiller.md) ra đời.
-- **[1931](1931.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](../C/C.S._Lewis.md) và [Hugo Dyson](../H/Hugo_Dyson.md) ăn tối, sau đó là cuộc trò chuyện kéo dài đến 4 giờ sáng [sáng hôm sau](20_September.md) vốn rất cần thiết cho việc Lewis chuyển đổi sang [Cơ đốc giáo](../C/Christianity.md).
+- **[1931](1931.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [C.S. Lewis](../C/C.S._Lewis.md) và [Hugo Dyson](../H/Hugo_Dyson.md) ăn tối, sau đó là cuộc trò chuyện kéo dài đến 4 giờ sáng [sáng hôm sau](20_September.md) rất cần thiết cho việc Lewis chuyển đổi sang [Cơ đốc giáo](../C/Christianity.md).
 - **[1943](1943.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 49e](../L/Letter_49e.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 80a](../L/Letter_80a.md).
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Terence Tiller](<../L/Letter_to_Terence_Tiller_(19_September_1956).md>).
 - **[1962](1962.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Alina Dadlez](<../L/Letter_to_Alina_Dadlez_(19_September_1962).md>).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 277a](../L/Letter_277a.md).
 - **[1982](1982.md)** - Bài viết “[Sự trở lại của Tolkien](../T/The_Sunday_Times_Magazine_19_September_1982.md)” được đăng trên *The Sunday Times Magazine*.
-- **[1986](1986.md)** - [Oxonmoot 1986](../O/Oxonmoot_1986.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Tòa thị chính Oxford</a>.
+- **[1986](1986.md)** - [Oxonmoot 1986](../O/Oxonmoot_1986.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_Town_Hall" title="wikipedia:Oxford Town Hall">Oxford Tòa thị chính</a>.
 - **[1993](1993.md)** - [Oxonmoot 1993](../O/Oxonmoot_1993.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[1997](1997.md)** - [Oxonmoot 1997](../O/Oxonmoot_1997.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College</a>.
 - **[2003](2003.md)** - [Oxonmoot 2003](../O/Oxonmoot_2003.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Hugh%27s_College,_Oxford" title="wikipedia:St Hugh&#39;s College, Oxford">Đại học St Hugh</a>.
@@ -81,5 +81,5 @@ Sự kiện xảy ra vào ngày 19 tháng 9
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) đến [Edoras](../E/Edoras.md) nhưng không được phép vào.
+    - [Gandalf](../G/Gandalf.md) đến [Edoras](../E/Edoras.md) nhưng không được vào.
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

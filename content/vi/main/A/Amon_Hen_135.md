@@ -45,7 +45,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen135.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/45/AmonHen135.jpg/320px-AmonHen135.jpg" decoding="async" loading="lazy" width="320" height="463" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/45/AmonHen135.jpg/480px-AmonHen135.jpg 1.5x, https://tolkiengateway.net/w/images/4/45/AmonHen135.jpg 2x" data-file-width="567" data-file-height="821"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 135</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Richard Fraser Overton</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Howard J. Bates</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Centurian Press, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_134.md" title="Amon Hen 134">Amon Hen 134</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_136.md" title="Amon Hen 136">Amon Hen 136</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 135</b> là số một trăm ba mươi lăm của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 9 [1995](../_/1995.md).
+<b><i>Amon Hen</i> 135</b> là số một trăm ba mươi lăm của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản trên tháng Chín [1995](../_/1995.md).
 
 ## Nội dung {#Contents}
 
@@ -57,20 +57,20 @@ infobox:
 - Tin từ Bưu điện Bywater và Cửa hàng tổng hợp
     - Bởi: Malcolm Lindley
 - Quảng cáo
-- Ngôi sao của Tolkien & Những người thừa kế của Tolkien
+Ngôi sao của - Tolkien& Người thừa kế của Tolkien
     - Bởi: [Ruth Lacon](../R/Ruth_Lacon.md)
-- Uống rượu ở Trung địa
+- Uống rượu trong Trung Địa
     - Bởi: Andrew Wells
 - Giải ô chữ
 - Đói
     - Bởi: Gordon Palmer
 - Tác phẩm nghệ thuật: *Galadriel*
     - Bởi: Juliette Cresswell
-- Chủ đề về Ent, Entives & Huorn trong Rừng Cũ
+- Chủ đề của Ent, Entwives & Huorn trong Khu Rừng Cổ
     - Bởi: Timothy M. Farr
 - Terry, Tolkien & Mạng
     - Bởi: Kevin Nicholas
-- Suy nghĩ của một chàng tiên sắp ra đi
+- Suy nghĩ của người ra đi Tiên
     - Bởi: Timothy M. Farr
 - Tác phẩm nghệ thuật: *Gandalf at Orthanc*
     - Bởi: Gordon Palmer
@@ -78,8 +78,8 @@ infobox:
     - Bởi: Jason Finch
 - Lẻ Một Lần
     - Bởi: Paul Cockburn
-- Thư gửi Ban biên tập
-- Một nửa con gà mái Amon của Hildifons
+- Thư gửi Biên tập viên
+Một nửa của - Hildifons của Amon Hen
     - Bởi: [Gary Hunnewell](../S/Sumner_Gary_Hunnewell.md)
 - Truyện dân ca
 - Ủy ban

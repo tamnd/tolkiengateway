@@ -41,11 +41,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Vào thời của [Quản lý](../R/Ruling_Steward.md) [Túrin II](../T/Túrin_II.md), hầu hết những người còn lại của Ithilien đã rời đi do sự tràn vào của [Mordor-orc](../M/Mordor-orcs.md).<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">[2]</a></sup> Để đáp lại, ông đã cho xây dựng nhiều tiền đồn và nơi trú ẩn bí mật cho [binh lính của mình](../R/Rangers_of_Ithilien.md) và ở [T.A.](../T/Third_Age.md) [2901](../T/Third_Age_2901.md) Henneth Annûn đã được xây dựng.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2">[2]</a></sup> Nó vẫn được duy trì. được canh gác và quản lý lâu nhất.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vào thời của [Quản lý](../R/Ruling_Steward.md) [Túrin II](../T/Túrin_II.md), phần lớn những người còn lại của Ithilien đã rời đi do sự tràn vào của [Mordor-orc](../M/Mordor-orcs.md).<sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2">[2]</a></sup> Để ứng phó, ông đã cho xây dựng nhiều tiền đồn và nơi ẩn náu bí mật cho [binh lính của mình](../R/Rangers_of_Ithilien.md) và ở [T.A.](../T/Third_Age.md) [2901](../T/Third_Age_2901.md) Henneth Annûn nó đã được xây dựng lâu nhất.<sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2">[2]</a></sup> Nó vẫn là lâu nhất được canh gác và có người trực.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Biệt động quân quyết liệt bảo vệ bí mật nơi ẩn náu của mình. Bản thân hồ bơi không có gì đặc biệt tuy nhiên nó được coi là một trong những ranh giới của nó nên bơi trong đó bị coi là xâm phạm thành trì và phải chịu án tử hình.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong khi [Frodo](Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đang ở Henneth Annûn, [Gollum](../G/Gollum.md), đang tìm kiếm cá thì vô tình tìm thấy hồ bơi. Frodo thuyết phục Faramir tha cho ông ta và thay vào đó để ông ta đi xuống và giải cứu ông ta.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong khi [Frodo](Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) đang ở trong Henneth Annûn, [Gollum](../G/Gollum.md) đang tìm cá thì tình cờ tìm thấy bể bơi. Frodo thuyết phục Faramir tha cho ông ta và thay vào đó để ông ta xuống cứu ông ta.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

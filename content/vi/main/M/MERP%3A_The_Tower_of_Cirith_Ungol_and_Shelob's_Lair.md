@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tower of Cirith Ungol and Shelob's Lair"
 ---
 
-Chuyển hướng đến [Tháp Cirith Ungol và Hang ổ của Shelob](../T/The_Tower_of_Cirith_Ungol_and_Shelob's_Lair.md).
+Chuyển hướng đến [ Tháp Cirith Ungol và Hang ổ của Shelob](../T/The_Tower_of_Cirith_Ungol_and_Shelob's_Lair.md).

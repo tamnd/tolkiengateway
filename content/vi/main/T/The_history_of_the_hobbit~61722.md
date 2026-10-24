@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The History of The Hobbit"
 ---
 
-Chuyển hướng tới [Lịch sử người Hobbit](The_History_of_The_Hobbit.md).
+Chuyển hướng đến [The History of The Hobbit](The_History_of_The_Hobbit.md).

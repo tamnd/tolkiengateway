@@ -26,7 +26,7 @@ images:
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/D/Deutsche_Tolkien_Gesellschaft.png.md"><img src="https://tolkiengateway.net/w/images/f/fe/Deutsche_Tolkien_Gesellschaft.png" decoding="async" loading="lazy" width="280" height="280" class="mw-file-element" data-file-width="280" data-file-height="280"/></a><figcaption></figcaption></figure>
 
-**Deutsche Tolkien Gesellschaft e.V.** (rút gọn **DTG**) (tiếng Đức: "Hiệp hội Tolkien Đức (xã hội hợp nhất)") là [xã hội Tolkien](../T/Tolkien_Societies~67099.md) của Đức.
+**Deutsche Tolkien Gesellschaft e.V.** (rút ngắn **DTG**) (tiếng Đức: "Hiệp hội Tolkien Đức (xã hội hợp nhất)") là [Tolkien xã hội](../T/Tolkien_Societies~67099.md) của Đức.
 
 ## Lịch sử {#History}
 
@@ -34,12 +34,12 @@ DTG được thành lập vào ngày [1 tháng 8](../_/1_August.md), [1997](../_
 
 ## Tụ họp {#Gatherings}
 
-DTG tổ chức một số sự kiện Tolkien:
+DTG tổ chức một số Tolkien sự kiện:
 
-- *[Tolkien Thing](../T/Tolkien_Thing.md)* ("Tolkien Moot") - Cuộc gặp gỡ của các thành viên DTG. (mỗi năm một lần)
-- *Tolkien Tage* ("Những ngày của Tolkien") - Một ngày cuối tuần với các buổi hội thảo, bài giảng, trò chơi, buổi biểu diễn và các hoạt động khác dành cho tất cả những người hâm mộ Tolkien.
-- *Tolkien Seminar* (kể từ [2004](../_/2004.md)) - Một dạng hội nghị học thuật nào đó, nơi các chuyên gia Tolkien người Đức giảng bài và sau đó thảo luận với những người tham gia khác về một chủ đề chung, dựa trên các tác phẩm của Tolkien. (mỗi năm một lần)
-- *Tolkien Stammtisch* ("Bàn của người chơi chính quy Tolkien") - Một sự kiện khu vực. Các cuộc họp ("Stammtische") diễn ra thường xuyên (thường mỗi tháng một lần). *Tolkien Stammtisch* giống như đại diện khu vực của DTG và cho phép các thành viên tiềm năng tiếp xúc lần đầu với hiệp hội.
+- *[Tolkien Thing](../T/Tolkien_Thing.md)* ("Tolkien Moot") - Cuộc họp của các thành viên DTG. (mỗi năm một lần)
+- *Tolkien Tage* ("Tolkien Ngày") - Một ngày cuối tuần với các buổi hội thảo, bài giảng, trò chơi, biểu diễn và các hoạt động khác dành cho tất cả người hâm mộ Tolkien.
+- *Tolkien Seminar* (kể từ [2004](../_/2004.md)) - Một dạng quy ước học thuật nào đó, nơi các chuyên gia Tolkien người Đức giảng bài và sau đó thảo luận với những người tham gia khác về một chủ đề chung, dựa trên các tác phẩm của Tolkien. (mỗi năm một lần)
+- *Tolkien Stammtisch* ("Tolkien bàn chính quy") - Một sự kiện khu vực. Các cuộc họp ("Stammtische") diễn ra thường xuyên (thường mỗi tháng một lần). *Tolkien Stammtisch* giống như đại diện khu vực của DTG và cho phép các thành viên tiềm năng tiếp xúc lần đầu với hiệp hội.
 
 ## Ấn phẩm {#Publications}
 

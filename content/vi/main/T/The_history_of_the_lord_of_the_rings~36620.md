@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The History of The Lord of the Rings"
 ---
 
-Chuyển hướng tới [Lịch sử Chúa tể những chiếc nhẫn](The_History_of_The_Lord_of_the_Rings.md).
+Chuyển hướng đến [The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md).

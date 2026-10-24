@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Nom the Wise** là ca khúc thứ 17 trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), [Nightfall in Middle-Earth](Nightfall_in_Middle-Earth.md).
+**Nom the Wise** là ca khúc thứ 70 trong album chủ đề Tolkien của [Blind Guardian](../B/Blind_Guardian.md), [Nightfall in Middle-Earth](Nightfall_in_Middle-Earth.md).
 
 ## Lời bài hát {#Lyrics}
 

@@ -36,7 +36,7 @@ infobox:
 
 <i><b>Thror's Ring</b></i> là một trò chơi phiêu lưu văn bản, được xuất bản bởi [Eamon](<../E/Eamon_(video_game).md>)<sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup> và được viết bởi [Tom Zuchowski](Tom_Zuchowski.md).<sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Mục tiêu của trò chơi là tìm [Chiếc nhẫn của Thrór](../R/Ring_of_Thrór.md) ở sâu trong [Moria](../M/Moria.md).<sup id="cite_ref-Tolkien_Games_1-2" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
+Mục tiêu của trò chơi là tìm Chiếc nhẫn của [Thrór](../R/Ring_of_Thrór.md) ở độ sâu của [Moria](../M/Moria.md).<sup id="cite_ref-Tolkien_Games_1-2" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
 
 <span></span>
 

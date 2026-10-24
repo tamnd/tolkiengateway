@@ -16,21 +16,21 @@ images:
   - "Disambig.png"
 ---
 
-**Cầu Khazad-dûm** có thể tham khảo như sau:
+**Số Cầu Khazad-dûm** có thể tham khảo như sau:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 - ** [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md), tuyến phòng thủ của [Moria](../M/Moria.md).**
 
 ## Sách {#Books}
 
-- <b><i><a href="The_Bridge_of_Khazad-dûm.md" title="The Bridge of Khazad-dûm">Cây cầu Khazad-dûm</a></i>, chương thứ năm của cuốn thứ hai của <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">Hiệp hội của những chiếc nhẫn</a></i>.</b>
-- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(2):_The_Bridge&amp;action=edit&amp;redlink=1" title="The Mines of Moria (2): The Bridge (page does not exist)">Khu mỏ Moria (2): Cây cầu</a></i>, chương thứ mười của *[The Treason of Isengard](The_Treason_of_Isengard.md)*.
+- <b><i><a href="The_Bridge_of_Khazad-dûm.md" title="The Bridge of Khazad-dûm">Chương Cầu Khazad-dûm</a></i>, chương thứ năm của cuốn sách thứ hai của <i><a href="The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>.</b>
+- <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Mines_of_Moria_(2):_The_Bridge&amp;action=edit&amp;redlink=1" title="The Mines of Moria (2): The Bridge (page does not exist)">Mỏ của Moria (2): Cây cầu</a></i>, chương thứ mười của *[The Treason of Isengard](The_Treason_of_Isengard.md)*.
 
 ## Các bản chuyển thể {#Adaptations}
 
-- "[Cầu Khazad-dûm](<The_Bridge_of_Khazad-dûm_(scene).md>)", một cảnh trong bộ phim [2001](../_/2001.md) *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
-- *[The Bridge of Khazad-dûm](<The_Bridge_of_Khazad-dûm_(soundtrack).md>)*, bài hát thứ mười ba của [Nhạc phim gốc](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md) đến *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- "[The Cầu Khazad-dûm](<The_Bridge_of_Khazad-dûm_(scene).md>)", một cảnh trong bộ phim [2001](../_/2001.md) *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
+- *[The Bridge of Khazad-dûm](<The_Bridge_of_Khazad-dûm_(soundtrack).md>)*, bài hát thứ mười ba của [Nhạc gốc](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_-_Original_Motion_Picture_Soundtrack.md) đến *[The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*.
 
 <hr style="margin-top:15px;"/>
 

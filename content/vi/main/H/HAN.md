@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**HAN** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "thêm vào, tăng cường, nâng cao, tôn vinh (đặc biệt là bằng quà tặng)".<sup id="cite_ref-VT43_1-0" class="reference"><a href="#cite_note-VT43-1">[1]</a></sup>
+**HAN** là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "thêm, tăng, nâng cao, tôn vinh (đặc biệt bằng quà tặng)".<sup id="cite_ref-VT43_1-0" class="reference"><a href="#cite_note-VT43-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

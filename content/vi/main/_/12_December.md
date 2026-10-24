@@ -73,11 +73,11 @@ Sự kiện xảy ra vào ngày 12 tháng 12
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 292](../L/Letter_292.md).
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 299](../L/Letter_299.md).
 - **[1972](1972.md)** - *[Writers for the 70's: J.R.R. Tolkien](<../J/J.R.R._Tolkien_(Writers_for_the_70's).md>)* được phát hành.
-- **[2011](2011.md)** - [Bản cập nhật 5: Quân đội của Isengard](../T/The_Lord_of_the_Rings_Online.md#Update_5:_Armies_of_Isengard), bản cập nhật miễn phí thứ năm của *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*, được phát hành.
+- **[2011](2011.md)** - [Bản cập nhật 5: Đội quân Isengard](../T/The_Lord_of_the_Rings_Online.md#Update_5:_Armies_of_Isengard), bản cập nhật miễn phí thứ năm của *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*, được phát hành.
 - <b><a href="2012.md" title="2012">2012</a> - <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i> được phát hành tại New Zealand, Nam Phi, Scandinavia </b>(trừ Iceland)**, Hà Lan, Bỉ và Pháp.**
 - **[2014](2014.md)** - <b><i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i> được phát hành tại Vương quốc Anh.</b>
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

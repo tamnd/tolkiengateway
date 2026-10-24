@@ -15,9 +15,9 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>Ides Ælfscýne</b></i> là một bài hát [Tiếng Anh cổ](../O/Old_English.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *Daddy Neptune*. Nó được xuất bản dưới dạng bài hát thứ 12 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
+<i><b>Ides Ælfscýne</b></i> là một bài hát [tiếng Anh cổ](../O/Old_English.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *Daddy Neptune*. Nó được xuất bản dưới dạng bài hát thứ 12 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
 
-Bài hát được tái bản với bản dịch tiếng Anh hiện đại "Elf-fair Lady" trong *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)* bởi [T.A. Shippey](../T/T.A._Shippey.md). Những sửa chữa do chính Tolkien thực hiện (sau khi in *Songs*) được ghi chú bên dưới.
+Bài hát được tái bản với bản dịch tiếng Anh hiện đại "Tiên-fair Lady" trong *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)* bởi [T.A. Shippey](../T/T.A._Shippey.md). Những sửa chữa do chính Tolkien thực hiện (sau khi in *Songs*) được ghi chú bên dưới.
 
 Nó đề cập đến một số điều *might* mở đầu cho [huyền thoại](../L/Legendarium.md): *elf*, *dwarf*, *exile*, *a great gem in the sky*.
 

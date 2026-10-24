@@ -73,7 +73,7 @@ Sự kiện xảy ra vào ngày 3 tháng 3
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) băng qua vùng đồng bằng giữa [Đầm lầy chết](../D/Dead_Marshes.md) và [Cổng đen](../B/Black_Gate.md).
-    - [Ceorl](../C/Ceorl.md) gặp nhóm của [Théoden](../T/Théoden.md) và kể về thất bại trong [Trận chiến sông cạn Isen lần thứ hai](../S/Second_Battle_of_the_Fords_of_Isen.md).
-    - [Gandalf](../G/Gandalf.md) đi đến [Isengard](../I/Isengard.md) và [Théoden](../T/Théoden.md) rút lui về [Helm's Deep](../H/Helm's_Deep.md), nơi diễn ra [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md).
-    - [Trận Isengard](../B/Battle_of_Isengard.md); [Ent](../E/Ents.md), dẫn đầu bởi [Treebeard](../T/Treebeard.md), thay đổi hướng đi của [Isen](../I/Isen.md) và hoàn thành việc tiêu diệt [Isengard](../I/Isengard.md).
+    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) băng qua vùng đồng bằng giữa [Đầm lầy Chết](../D/Dead_Marshes.md) và [Cổng Đen](../B/Black_Gate.md).
+    - [Ceorl](../C/Ceorl.md) gặp ban nhạc của [Théoden](../T/Théoden.md) và kể về thất bại trong [Trận chiến thứ hai của Fords Isen](../S/Second_Battle_of_the_Fords_of_Isen.md).
+    - [Gandalf](../G/Gandalf.md) đi đến [Isengard](../I/Isengard.md) và [Théoden](../T/Théoden.md) rút về [Helm's Deep](../H/Helm's_Deep.md), nơi xảy ra [Trận Hornburg](../B/Battle_of_the_Hornburg.md).
+    - [Trận Isengard](../B/Battle_of_Isengard.md); [Ent](../E/Ents.md), do [Treebeard](../T/Treebeard.md) dẫn đầu, thay đổi hướng đi của [Isen](../I/Isen.md) và hoàn thành việc tiêu diệt [Isengard](../I/Isengard.md).

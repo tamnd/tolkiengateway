@@ -12,14 +12,14 @@ categories:
   - "Roots"
 ---
 
-**UB** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../R/Root.md) với ý nghĩa "cân nhắc; có trong đầu; suy ngẫm".<sup id="cite_ref-VT48_1-0" class="reference"><a href="#cite_note-VT48-1">[1]</a></sup>
+**UB** là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../R/Root.md) với ý nghĩa "cân nhắc; cân nhắc; suy ngẫm".<sup id="cite_ref-VT48_1-0" class="reference"><a href="#cite_note-VT48-1">[1]</a></sup>
 
 Nó là nguồn gốc của hậu tố tương lai [Quenya](../Q/Quenya.md) *-uva*.<sup id="cite_ref-VT48_1-1" class="reference"><a href="#cite_note-VT48-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- Quenya: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Avie&amp;action=edit&amp;redlink=1" title="Úvie (page does not exist)">úvie</a></i> ("xem xét một vấn đề (để đưa ra quyết định)")<sup id="cite_ref-VT48_1-2" class="reference"><a href="#cite_note-VT48-1">[1]</a></sup>
-- [Ông già Noldorin](../K/Kornoldorin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C5%AAba-&amp;action=edit&amp;redlink=1" title="Ūba- (page does not exist)">ūba-</a></i> ("ngẫm nghĩ, suy ngẫm")<sup id="cite_ref-VT48_1-3" class="reference"><a href="#cite_note-VT48-1">[1]</a></sup>
+- Quenya: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C3%9Avie&amp;action=edit&amp;redlink=1" title="Úvie (page does not exist)">úvie</a></i> ("xem xét một vấn đề (để quyết định)")<sup id="cite_ref-VT48_1-2" class="reference"><a href="#cite_note-VT48-1">[1]</a></sup>
+- [Old Noldorin](../K/Kornoldorin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=%C5%AAba-&amp;action=edit&amp;redlink=1" title="Ūba- (page does not exist)">ūba-</a></i> ("ngẫm nghĩ, suy ngẫm")<sup id="cite_ref-VT48_1-3" class="reference"><a href="#cite_note-VT48-1">[1]</a></sup>
 
 <span></span>
 

@@ -15,14 +15,14 @@ sort_keys:
   "Vanyar": " "
 ---
 
-**Miniel** (pl. *Mínil*) ([S](../S/Sindarin.md). 'First elf') là tên [Vanyar](../V/Vanyar.md) được gọi ở [Beleriand](../B/Beleriand.md).
+**Miniel** (pl. *Mínil*) ([S](../S/Sindarin.md). 'Đầu tiên Tiên') là tên [Vanyar](../V/Vanyar.md) được gọi trong [Beleriand](../B/Beleriand.md).
 
 ## Từ nguyên {#Etymology}
 
-Từ này bao gồm *[min](Min.md)* = "đầu tiên" và *[el](../E/Edhel.md)* = "elf"
+Từ này bao gồm *[min](Min.md)* = "đầu tiên" và *[el](../E/Edhel.md)* = "Tiên"
 
 ## Tài liệu tham khảo {#References}
 
 <ul><li class="mw-empty-elt"></li></ul>
 
-[J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (ed.), *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*, "Phần thứ tư. [Quendi và Eldar](../Q/Quendi_and_Eldar.md)", pgs. 363-364; 383.
+[J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) (ed.), *[The War of the Jewels](../T/The_War_of_the_Jewels.md)*, "Phần thứ tư. [Quendi and Eldar](../Q/Quendi_and_Eldar.md)", pgs. 363-364; 383.

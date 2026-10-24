@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-<i><b>Kệ sách của Giáo sư</b></i> là bộ sưu tập các ấn phẩm của công ty *Leaves of Gold Press*. Mục đích của họ là xuất bản các tựa văn học cổ điển được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) yêu thích, các tác giả là cha đẻ của tiểu thuyết giả tưởng hiện đại và [lấy cảm hứng](../J/J.R.R._Tolkien's_inspirations.md) tác phẩm của Tolkien. Mục đích là bao gồm các hình minh họa gốc của các nghệ sĩ đương đại của Tolkien mà ông ngưỡng mộ.
+<i><b>Kệ sách của Giáo sư</b></i> là bộ sưu tập các ấn phẩm của công ty *Leaves of Gold Press*. Mục đích của họ là xuất bản các tựa văn học cổ điển được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) yêu thích, của các tác giả là cha đẻ của tiểu thuyết giả tưởng hiện đại và các tác phẩm của [được truyền cảm hứng](../J/J.R.R._Tolkien's_inspirations.md) Tolkien. Mục đích là bao gồm các hình minh họa gốc của các nghệ sĩ đương đại của Tolkien mà ông ngưỡng mộ.
 
 Tác giả truyện giả tưởng Cecilia Dart-Thornton ký tên giới thiệu từng cuốn sách.
 

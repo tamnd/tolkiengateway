@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Falto, Angel"
 ---
 
-- Angel Falto đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Angel_Falto.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Angel Falto đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Angel_Falto.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 3 tháng 3 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

@@ -19,10 +19,10 @@ images:
   - "Disambig.png"
 ---
 
-**Taur-nu-Fuin** có nghĩa là "Khu rừng bóng tối" trong [Sindarin](../S/Sindarin.md) (*[taur](Taur.md)*, "rừng"; *[nu](../N/Nu.md)*, "dưới"; *[fuin](../F/Fuin.md)*, "đêm, bóng tối"); trong *[Lay of Leithian](../L/Lay_of_Leithian.md)*, nó được dịch là "Khu rừng bóng đêm". Nó có thể đề cập đến:
+**Taur-nu-Fuin** có nghĩa là "Rừng Bóng Tối" trong [Sindarin](../S/Sindarin.md) (*[taur](Taur.md)*, "rừng"; *[nu](../N/Nu.md)*, "dưới"; *[fuin](../F/Fuin.md)*, "đêm, bóng tối"); trong *[Lay of Leithian](../L/Lay_of_Leithian.md)*, nó được dịch là "Khu rừng bóng đêm". Nó có thể đề cập đến:
 
-- **[Taur-nu-Fuin](<Taur-nu-Fuin_(Dorthonion).md>), Khu rừng [Dorthonion](../D/Dorthonion.md) ở [Beleriand](../B/Beleriand.md) tồn tại ở [Thời đại thứ nhất](../F/First_Age.md).**
-- [Taur-nu-Fuin](../M/Mirkwood.md), tên của Khu rừng [Mirkwood](../M/Mirkwood.md) ở [Rhovanion](../R/Rhovanion.md) vào [Thời đại thứ ba](Third_Age.md), trước khi được đổi tên thành *[Eryn Lasgalen](../E/Eryn_Lasgalen.md)*.
+- **[Taur-nu-Fuin](<Taur-nu-Fuin_(Dorthonion).md>), Rừng [Dorthonion](../D/Dorthonion.md) ở [Beleriand](../B/Beleriand.md) tồn tại ở [Kỷ Đệ Nhất](../F/First_Age.md).**
+- [Taur-nu-Fuin](../M/Mirkwood.md), tên của Rừng [Mirkwood](../M/Mirkwood.md) ở [Rhovanion](../R/Rhovanion.md) trong [Kỷ Đệ Tam](Third_Age.md), trước khi được đổi tên thành *[Eryn Lasgalen](../E/Eryn_Lasgalen.md)*.
 
 <hr style="margin-top:15px;"/>
 

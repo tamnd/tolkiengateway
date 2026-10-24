@@ -39,15 +39,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Lost_in_Free-domains.png.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/Ted_Nasmith_-_Lost_in_Free-domains.png/320px-Ted_Nasmith_-_Lost_in_Free-domains.png" decoding="async" loading="lazy" width="320" height="269" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/58/Ted_Nasmith_-_Lost_in_Free-domains.png 1.5x" data-file-width="400" data-file-height="336"/></a><figcaption>&#34;Lost in Free-domains&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Stream</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Stock-brook</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Stockbrook</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../E/Eastfarthing.md" title="Eastfarthing">Eastfarthing</a>, bordering the <a href="../M/Marish.md" title="Marish">Marish</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Stream</td></tr></tbody></table>
 
-**The Stock-brook** hay **Stockbrook** là một con suối của [the Shire](../T/The_Shire.md)'s [Eastfarthing](../E/Eastfarthing.md) và là một nhánh nhỏ của Sông [Brandywine](../B/Brandywine.md). Nó mọc lên trên những ngọn đồi có rừng phía trên [Woody End](../W/Woody_End.md) và từ đó chảy theo hướng đông bắc ra các cánh đồng của [Marish](../M/Marish.md). Nó đi qua đầu phía nam của ngôi làng [Stock](Stock.md), nơi lấy tên của nó, trước khi đổ vào Brandywine cách [Bucklebury Ferry](../B/Bucklebury_Ferry.md) vài dặm về phía bắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+** Stock-brook** hay **Stockbrook** là một con suối của [của Shire](../T/The_Shire.md) [Eastfarthing](../E/Eastfarthing.md) và là một nhánh nhỏ của Sông [Brandywine](../B/Brandywine.md). Nó mọc lên từ những ngọn đồi có rừng phía trên [Woody End](../W/Woody_End.md), và từ đó chảy theo hướng đông bắc ra cánh đồng [Marish](../M/Marish.md). Nó đi qua đầu phía nam của ngôi làng [Stock](Stock.md), nơi lấy tên của nó, trước khi đổ vào Brandywine cách [Bến phà Bucklebury](../B/Bucklebury_Ferry.md) vài dặm về phía bắc.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào [25 tháng 9](../_/25_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Frodo](../F/Frodo_Baggins.md), [Pippin](../P/Peregrin_Took.md) và [Sam](Samwise_Gamgee.md) băng qua Stock-brook trên hành trình đến nhà của [Farmer Maggot](../F/Farmer_Maggot.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [25 tháng Chín](../_/25_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Frodo](../F/Frodo_Baggins.md), [Pippin](../P/Peregrin_Took.md) và [Sam](Samwise_Gamgee.md) đã vượt qua Stock-brook trên hành trình đến nhà của [Farmer Maggot](../F/Farmer_Maggot.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[David Salo](../D/David_Salo.md) suggested the name represents a possible "[Old Hobbitish](../O/Old_English.md)" *Se Stocbroc*.
+[David Salo](../D/David_Salo.md) đề xuất tên có thể đại diện cho "[Cũ Hobbitish](../O/Old_English.md)" *Se Stocbroc*.
 
-Vì nó được đặt tên theo làng Stock, nên ý nghĩa của nó là "con suối chảy qua Stock".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vì nó được đặt tên theo ngôi làng Stock nên ý nghĩa của nó là "con suối chảy qua Stock".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -68,7 +68,7 @@ Vì nó được đặt tên theo làng Stock, nên ý nghĩa của nó là "con
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Stockbrook drops in a waterfall after passing <a href="../W/Woody_End.md" title="Woody End">Woody End</a> and flows south of <a href="Stock.md" title="Stock">Stock</a> itself rather than directly through it.</dd></dl>
 

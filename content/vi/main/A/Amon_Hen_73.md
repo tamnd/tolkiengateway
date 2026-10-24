@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen73.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/bb/AmonHen73.jpg/320px-AmonHen73.jpg" decoding="async" loading="lazy" width="320" height="447" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/bb/AmonHen73.jpg/480px-AmonHen73.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/bb/AmonHen73.jpg/640px-AmonHen73.jpg 2x" data-file-width="716" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 73</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Colin Davey</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../K/Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">May <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">24</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_72.md" title="Amon Hen 72">Amon Hen 72</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_74.md" title="Amon Hen 74">Amon Hen 74</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 73</b> là số thứ bảy mươi ba của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 5 [1985](../_/1985.md).
+<b><i>Amon Hen</i> 73</b> là số thứ bảy mươi ba của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 5 [1985](../_/1985.md).
 
 ## Nội dung {#Contents}
 
@@ -54,15 +54,15 @@ infobox:
 - Oxonmoot 1985
 - Thông báo
 - Phía sau cánh cửa kính
-- Berghest là nguồn có thể có cho Yêu tinh và Bóng ma của Tolkien
+- Nguồn tốt nhất có thể cho Goblin của Tolkien và Ring-wraith
     - Bởi: [J.S. Ryan](../J/John_Ryan.md)
 - Danh sách nụ cười
 - Thông báo
 - Góc của Jessica
     - Bởi: Jessica Yates
 - Thư
-- Truyện dân gian
-- Báo chí nhỏ
+- Truyện dân ca
+- Máy ép nhỏ
 - Bởi: Anne Haward
 - Các loại của Anne
     - Bởi: Ann Haward

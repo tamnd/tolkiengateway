@@ -25,7 +25,7 @@ infobox:
 
 **Fluithuin** là một [con hổ cái](../O/Ogres.md) theo phiên bản đầu tiên của [Legendarium](../L/Legendarium.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-[Gothmog](<../G/Gothmog_(balrog).md#Other_versions_of_the_legendarium>) được mô tả là con trai của [Melko](../M/Melko.md) và yêu tinh Fluithuin hay Ulbandi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cả 'ogresses' và ý tưởng rằng [Valar](../V/Valar.md) có [con](../V/Valarindi.md) đều bị Tolkien loại bỏ từ khá sớm.
+[Gothmog](<../G/Gothmog_(balrog).md#Other_versions_of_the_legendarium>) được mô tả là con trai của [Melko](../M/Melko.md) và nữ yêu tinh Fluithuin hoặc Ulbandi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Cả 'những nữ yêu tinh' và ý tưởng rằng [Valar](../V/Valar.md) có [con](../V/Valarindi.md) đều bị Tolkien loại bỏ từ khá sớm.
 
 ## Phả hệ {#Genealogy}
 

@@ -70,9 +70,9 @@ Sự kiện xảy ra vào ngày 4 tháng 4.
 - **[1960](1960.md)** - Diễn viên [Hugo Weaving](../H/Hugo_Weaving.md) ra đời.
 - **[1976](1976.md)** - [Gervase Mathew](../G/Gervase_Mathew.md), [Mơ hồ](../I/Inklings.md), qua đời.
 - **[1998](1998.md)** - *[Tyalië Tyelelliéva](../T/Tyalië_Tyelelliéva.md)* số [12](../T/Tyalië_Tyelelliéva_12.md) được xuất bản.
-- **[2009](2009.md)** - Đại hội đồng lần thứ tư của [Sociedad Tolkien Peruana](../S/Sociedad_Tolkien_Peruana.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lima" title="wikipedia:Lima">Lima, Peru</a>.
+- **[2009](2009.md)** - Kỷ Đệ Tứ Grand Hội đồng của [Sociedad Tolkien Peruana](../S/Sociedad_Tolkien_Peruana.md) được tổ chức tại <a class="extiw" href="http://en.wikipedia.org/wiki/Lima" title="wikipedia:Lima">Lima, Peru</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi ở [Ithilien](../I/Ithilien.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).

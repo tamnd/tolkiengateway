@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angainor"
 ---
 
-Chuyển hướng tới [Angainor](Angainor.md).
+Chuyển hướng đến [Angainor](Angainor.md).

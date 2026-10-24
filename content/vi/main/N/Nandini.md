@@ -15,11 +15,11 @@ categories:
 
 **Nandini** (hoặc <b><a class="extiw" href="http://en.wikipedia.org/wiki/Dryads" title="wikipedia:Dryads">dryads</a></b>) là [fays](../F/Fays.md) của các thung lũng,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><sup id="cite_ref-Ndr_2-0" class="reference"><a href="#cite_note-Ndr-2">[1]</a></sup> theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
-Họ đến thế giới cùng với [Aulë](../A/Aulë.md) và [Yavanna](../Y/Yavanna.md), cùng với nhiều loại tiên khác.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Họ đến thế giới cùng với [Aulë](../A/Aulë.md) và [Yavanna](../Y/Yavanna.md), cùng với nhiều loại thần tiên khác.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Nandini* có trong [Qenya](../Q/Qenya.md), là dạng số nhiều của *nandin* ("dryad");<sup id="cite_ref-Nan_5-0" class="reference"><a href="#cite_note-Nan-5">[4]</a></sup> từ cùng nguồn gốc [Gnomish](../G/Gnomish.md) của *nandin* là <i><b>nandir</b></i>.<sup id="cite_ref-Ndr_2-1" class="reference"><a href="#cite_note-Ndr-2">[1]</a></sup>
+Tên *Nandini* có trong [Qenya](../Q/Qenya.md), là dạng số nhiều của *nandin* ("dryad");<sup id="cite_ref-Nan_5-0" class="reference"><a href="#cite_note-Nan-5">[4]</a></sup> [Gnomish](../G/Gnomish.md) cùng nguồn gốc của *nandin* là <i><b>nandir</b></i>.<sup id="cite_ref-Ndr_2-1" class="reference"><a href="#cite_note-Ndr-2">[1]</a></sup>
 
 Từ *nandin* rất có thể liên quan đến từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nan(d)&amp;action=edit&amp;redlink=1" title="Nan(d) (page does not exist)">nan(d)</a></i> ("woodland"), có nguồn gốc từ gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=NA%C5%98A&amp;action=edit&amp;redlink=1" title="NAŘA (page does not exist)">NAŘA</a>.<sup id="cite_ref-Nan_5-1" class="reference"><a href="#cite_note-Nan-5">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> Xem thêm các từ Gnomish liên quan <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nand_(Gnomish_word)&amp;action=edit&amp;redlink=1" title="Nand (Gnomish word) (page does not exist)">nand</a></i> hoặc <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nann&amp;action=edit&amp;redlink=1" title="Nann (page does not exist)">nann</a></i> ("một mẫu đất").<sup id="cite_ref-Ndr_2-2" class="reference"><a href="#cite_note-Ndr-2">[1]</a></sup>
 

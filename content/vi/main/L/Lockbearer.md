@@ -25,7 +25,7 @@ langlinks:
 <p class="tg-quote-footer"><cite>Gandalf passing on Galadriel&#39;s message<sup id="cite_ref-Rider_1-0" class="reference"><a href="#cite_note-Rider-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Người giữ khóa** là tên mà [Galadriel](../G/Galadriel.md) sử dụng cho [Gimli](../G/Gimli.md) trong tin nhắn do [Gandalf](../G/Gandalf.md) gửi trong [Rừng Fangorn](../F/Fangorn_Forest.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> được chọn như vậy vì Galadriel đã tặng [ba sợi tóc vàng](../H/Hair_of_Galadriel.md) cho Gimli như một món quà chia tay (theo yêu cầu của ông) vào năm [Lothlórien](Lothlórien.md).<sup id="cite_ref-Rider_1-1" class="reference"><a href="#cite_note-Rider-1">[1]</a></sup>
+**Người giữ khóa** là tên mà [Galadriel](../G/Galadriel.md) sử dụng cho [Gimli](../G/Gimli.md) trong tin nhắn do [Gandalf](../G/Gandalf.md) gửi vào [Rừng Fangorn](../F/Fangorn_Forest.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> được chọn vì Galadriel đã tặng [ba sợi tóc vàng](../H/Hair_of_Galadriel.md) cho Gimli như một món quà chia tay (theo yêu cầu của ông) vào [Lothlórien](Lothlórien.md).<sup id="cite_ref-Rider_1-1" class="reference"><a href="#cite_note-Rider-1">[1]</a></sup>
 
 <span></span>
 

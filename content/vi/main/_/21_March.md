@@ -70,10 +70,10 @@ Sự kiện xảy ra vào ngày 21 tháng 3
 - **[1956](1956.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi E. Rasdall](../L/Letter_to_E._Rasdall.md).
 - **[1957](1957.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 196](../L/Letter_196.md).
 - **[1966](1966.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho George Sayer](<../L/Letter_to_George_Sayer_(21_March_1966).md>).
-- **[1967](1967.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Humphrey Carpenter](../L/Letter_to_Humphrey_Carpenter.md).
+- **[1967](1967.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Humphrey Carpenter](../L/Letter_to_Humphrey_Carpenter.md).
 - **[1968](1968.md)** – Diễn viên [Greg Ellis](../G/Greg_Ellis.md) ra đời.
 - **[1974](1974.md)** – Diễn viên [Joseph Mawle](../J/Joseph_Mawle.md) ra đời.
-- **[2007](2007.md)** – *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The City of Kings" được phát hành ở Bắc Mỹ.
+- **[2007](2007.md)** – *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "The City of Kings" được phát hành tại Bắc Mỹ.
 - **[2011](2011.md)** – [Bản cập nhật 2: Echoes of the Dead](../T/The_Lord_of_the_Rings_Online.md#Update_2:_Echoes_of_the_Dead), bản cập nhật thứ hai của *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*, được phát hành ở Bắc Mỹ.
 - <b><a href="2011.md" title="2011">2011</a> – Chụp ảnh chính cho <a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (loạt phim)</a><i> bắt đầu.</i></b><i></i>
 
@@ -84,9 +84,9 @@ Sự kiện xảy ra vào ngày 21 tháng 3
 - [T.A.](../T/Third_Age.md) [3017](../T/Third_Age_3017.md):
     - [Aragorn](../A/Aragorn.md) giao [Gollum](../G/Gollum.md) làm tù nhân cho [Thranduil](../T/Thranduil.md) của Mirkwood.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Chủ nhà của phương Tây](../A/Army_of_the_West.md) tiến về [Cổng đen](../B/Black_Gate.md).
+    - Đội [Đạo quân Phương Tây](../A/Army_of_the_West.md) tiến về phía [Cổng Đen](../B/Black_Gate.md).
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) tiếp tục cuộc hành trình dọc theo con đường đến [Barad-dûr](../B/Barad-dûr.md).
-    - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Mới Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

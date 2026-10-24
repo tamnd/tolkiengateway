@@ -11,4 +11,4 @@ redirect_target: "War of the Ring (2004 board game)"
 redirect_fragment: "Battles of the Third Age"
 ---
 
-Chuyển hướng tới [War of the Ring (trò chơi board game năm 2004)](<../W/War_of_the_Ring_(2004_board_game).md#Battles_of_the_Third_Age>).
+Chuyển hướng tới [Cuộc chiến Nhẫn (trò chơi board game năm 2004)](<../W/War_of_the_Ring_(2004_board_game).md#Battles_of_the_Third_Age>).

@@ -60,7 +60,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Giống như tất cả các Gamgees, Marigold thân thiết với [Gia đình Cotton](../C/Cotton_Family~66362.md). Cô kết hôn với [Young Tom Cotton](../T/Tolman_Cotton_Junior.md), con trai cả của [Nông dân Bông](../T/Tolman_Cotton_Senior.md). Anh trai của Marigold, [Sam](../S/Samwise_Gamgee.md), kết hôn với em gái của Tom [Rose](../R/Rose_Cotton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Giống như tất cả các Gamgees, Marigold thân thiết với [Gia đình Cotton](../C/Cotton_Family~66362.md). Cô kết hôn với [Young Tom Cotton](../T/Tolman_Cotton_Junior.md), con trai cả của [Nông dân Bông](../T/Tolman_Cotton_Senior.md). Anh trai của Marigold, [Sam](../S/Samwise_Gamgee.md), đã cưới em gái của Tom [Rose](../R/Rose_Cotton.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Sam dường như có mối quan hệ thân thiết với bà, than thở về viễn cảnh không thể gặp lại bà trong thời gian ông ở [Mordor](Mordor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
@@ -68,7 +68,7 @@ Sam dường như có mối quan hệ thân thiết với bà, than thở về v
 
 "Cúc vạn thọ" (từ *Mary* + *gold*) dùng để chỉ <i><a class="extiw" href="http://en.wikipedia.org/wiki/Tagetes" title="wikipedia:Tagetes">Tagetes</a></i> cây hàng năm thuộc họ cúc.
 
-[Tolkien](../J/J.R.R._Tolkien.md) chọn cái tên này vì nó chứa "vàng" và ám chỉ một bông hoa vàng, gợi ý chủng [Fallohide](../F/Fallohides.md) trong gia đình Sam — chủng tộc này càng tăng lên nhờ sự ưu ái của [Galadriel](../G/Galadriel.md), và đã trở nên đáng chú ý ở các con của ông.<sup id="cite_ref-Nomen_3-0" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) chọn cái tên này vì nó chứa "vàng" và ám chỉ một bông hoa vàng, gợi ý chủng [Fallohide](../F/Fallohides.md) trong gia đình của Sam— càng tăng lên nhờ sự ưu ái của [Galadriel](../G/Galadriel.md), đã trở nên đáng chú ý ở các con của ông.<sup id="cite_ref-Nomen_3-0" class="reference"><a href="#cite_note-Nomen-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -84,7 +84,7 @@ Sam dường như có mối quan hệ thân thiết với bà, than thở về v
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Marigold is not a regular NPC present in the game, but rather appears during a single quest available only when the game&#39;s annual Yule-festival is active. She appears in front of <a class="mw-redirect" href="../B/Bag-End.md" title="Bag-End">Bag-End</a> to sign a petition to remove <a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville-Baggins</a> from her position as the Yule-planner.</dd></dl>
 

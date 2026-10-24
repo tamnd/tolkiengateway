@@ -23,7 +23,7 @@ images:
 
 - **[Lời mở đầu](../T/The_Hobbit_Preface.md)**, lời nói đầu không có tiêu đề cho *[The Hobbit](../T/The_Hobbit.md)*
 - **[Lời nói đầu](Preface.md)**, phần mở đầu *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)*
-- **[Nhận xét mở đầu về bản dịch văn xuôi của 'Beowulf'](Prefatory_Remarks_on_Prose_Translation_of_'Beowulf'.md)**, lời nói đầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tới *[Beowulf and the Finnsburg Fragment](../B/Beowulf_and_the_Finnsburg_Fragment.md)* năm 1940
+- **[Nhận xét mở đầu về bản dịch văn xuôi của 'Beowulf'](Prefatory_Remarks_on_Prose_Translation_of_'Beowulf'.md)**, lời nói đầu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đến *[Beowulf and the Finnsburg Fragment](../B/Beowulf_and_the_Finnsburg_Fragment.md)* năm 1940
 
 <hr style="margin-top:15px;"/>
 

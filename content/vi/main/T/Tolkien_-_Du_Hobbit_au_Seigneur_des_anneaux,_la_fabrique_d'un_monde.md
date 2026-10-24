@@ -31,7 +31,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien - Du Hobbit au Seigneur des anneaux, la fabrique d&#39;un monde</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Alexis Brocas, <a href="../V/Vincent_Ferré.md" title="Vincent Ferré">Vincent Ferré</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Le Magazine Littéraire</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2013.md" title="2013">2013</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">13 cm x 20 cm x 1.2 cm</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">172</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/9791091530132" title="Special:BookSources/9791091530132">9791091530132</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data">Collection Nouveaux regards, Nouveaux regards, ISSN 2267-4179</td></tr></tbody></table>
 
-<i><b>Tolkien - Du Hobbit au Seigneur des anneaux, la fabrique d'un monde</b></i> ("Tolkien - Từ Người Hobbit đến Chúa tể của những chiếc nhẫn, việc tạo nên một thế giới") là một cuốn sách bằng tiếng Pháp về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Tolkien - Du Hobbit au Seigneur des anneaux, la fabrique d'un monde</b></i> ("Tolkien - Từ The Hobbit đến The Lord of the Rings, việc tạo nên một thế giới") là một cuốn sách bằng tiếng Pháp về [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Nội dung {#Contents}
 
@@ -48,7 +48,7 @@ infobox:
     - Le triomphe de Sisyphe - Sébastien Hoët
 - **2. L'Œuvre**
     - Le seigneur des Cycle - [Anne Besson](../A/Anne_Besson.md)
-    - Alliage et Spirales de l'anneau - Charles Delattre
+    - Liên minh và xoắn ốc của l'anneau - Charles Delattre
     - Des chủng tộc đỉnh - Tatjana Silec
     - Công giáo, mais syncrétique - [Leo Carruthers](../L/Leo_Carruthers.md)
     - De tous les diables - Grégory Bouak
@@ -58,7 +58,7 @@ infobox:
     - La place du du - Émeric Moriau
     - La creation spéculaire - Alexis Brocas
     - Bạn có công việc gì hay không? - [Anne Besson](../A/Anne_Besson.md)
-    - Nhà cách tân cổ điển - [Isabelle Pantin](../I/Isabelle_Pantin.md)
+    - Nhà cách tân cổ xưa - [Isabelle Pantin](../I/Isabelle_Pantin.md)
     - Thông dịch viên người Pháp gốc Pháp - Daniel Lauzon
     - Nhà bác học không rõ ràng và rêveur - Vincent Ferré
     - Agonie et lấy lại du merveilleux - Gil Bartholeyns
@@ -69,7 +69,7 @@ infobox:
     - Tolkien, d'Oxford à la Sorbonne - [Vincent Ferré](../V/Vincent_Ferré.md)
     - Guerres de l'Œil - Hervé Aubron
     - Người hobbit tham dự - Sébastien Marlair
-    - Le Hobbit trong bộ ba bộ trang phục - Alexis Brocas
+    - Le Hobbit trong trang phục ba mảnh - Alexis Brocas
 - **4. Repères**
 - Trình tự thời gian
 - Thư mục

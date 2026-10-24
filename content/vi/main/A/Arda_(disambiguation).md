@@ -16,20 +16,20 @@ images:
 
 **Arda** đề cập đến nhiều hơn một khái niệm:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Arda](Arda.md)**, cư trú của [Những đứa trẻ của Ilúvatar](../C/Children_of_Ilúvatar.md) trong [Eä](../E/Eä.md).
-    - [Arda chưa kết hôn](Arda_Unmarred.md)
+- **[Arda](Arda.md)**, cư trú của [Những Người Con của Ilúvatar](../C/Children_of_Ilúvatar.md) trong [Eä](../E/Eä.md).
+    - [Arda Unmarred](Arda_Unmarred.md)
     - [Arda Marred](Arda_Marred.md)
-    - [Arda đã được chữa lành](Arda_Healed.md)
-- *[arda](Arda.md#Tengwa)*, chữ cái thứ 26 của bảng chữ cái [Tengwar](../T/Tengwar.md).
-- *Arda Valarwa*, tên [Qenya](../Q/Qenya.md) cho [Nơi của các vị thần](../P/Place_of_the_Gods.md).
-- *[Ardaranye](Ardaranye.md)*, Vương quốc Arda (Hệ Mặt trời) trong phiên bản [Thế giới tròn](../R/Round_World.md) của [huyền thoại](../L/Legendarium.md).
+    - [Arda Đã lành](Arda_Healed.md)
+- *[arda](Arda.md#Tengwa)*, chữ cái thứ hai mươi sáu của bảng chữ cái [Tengwar](../T/Tengwar.md).
+- *Arda Valarwa*, tên [Qenya](../Q/Qenya.md) của [Nơi của các vị thần](../P/Place_of_the_Gods.md).
+- *[Ardaranye](Ardaranye.md)*, Vương quốc Arda (Hệ mặt trời) trong phiên bản [Thế giới tròn](../R/Round_World.md) của [huyền thoại](../L/Legendarium.md).
 
 ## Văn học {#Literature}
 
 - *[Arda](<Arda_(annual).md>)*, hàng năm của Hiệp hội Tolkien [Forodrim](../F/Forodrim.md)
-    - [Tài liệu tham khảo cấu trúc Arda](../S/Structural_references.md), một hệ thống trích dẫn được tạp chí quảng bá
+    - [Arda Tài liệu tham khảo về cấu trúc](../S/Structural_references.md), một hệ thống trích dẫn được tạp chí quảng bá
     - *[Arda Philology](Arda_Philology.md)*, loạt bài đặc biệt về ngôn ngữ học
 - *[Arda Inhabited](Arda_Inhabited.md)*, sách của Susan Jeffers
 - *[Arda Reconstructed: The Creation of the Published Silmarillion](Arda_Reconstructed%253A_The_Creation_of_the_Published_Silmarillion.md)*, sách của [Douglas C. Kane](../D/Douglas_C._Kane.md)

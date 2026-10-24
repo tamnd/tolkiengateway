@@ -24,7 +24,7 @@ Vào một ngày không xác định, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) �
 
 \[Đoạn trích dưới đây đã được xuất bản trên Diễn đàn Spero, một diễn đàn dựa trên web dành cho Thảo luận về Baptist, Tin lành và Công giáo. Từ thành viên "liễu", posted 06/09/2009:\]
 
-Trong ghi chú của mình về 'Athrabeth Finrod ah Andreth', ông tuyên bố rằng quan niệm của ông, dựa trên 'vẻ đẹp, uy nghiêm và giản dị' xuất phát từ sự hiểu biết của ông về Mary. Viết trong một bức thư chưa xuất bản gửi cho Clyde Kilby, Tolkien đề cập đến những người không chấp nhận hoàn toàn 'tất cả' hậu quả của câu chuyện Nhập thể như đã kể trong Kinh thánh. 'Có điều gì đó còn thiếu trong bất kỳ loại tư tưởng Kitô giáo nào có thể tạo ra sự thiếu sót như vậy.'<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Trong ghi chú của mình về 'Athrabeth Finrod ah Andreth', ông khẳng định rằng quan niệm của ông, dựa trên 'vẻ đẹp, sự uy nghiêm và sự giản dị' xuất phát từ sự hiểu biết của ông về Đức Maria. Viết trong một bức thư chưa công bố gửi cho Clyde Kilby, Tolkien ám chỉ những người không chấp nhận đầy đủ ‘tất cả’ hậu quả của câu chuyện Nhập Thể như đã kể trong Kinh thánh. 'Có điều gì đó còn thiếu trong bất kỳ loại tư tưởng Kitô giáo nào có thể tạo ra sự thiếu sót như vậy.'<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Art of The Hobbit"
 ---
 
-Chuyển hướng đến [Nghệ thuật của người Hobbit](The_Art_of_The_Hobbit.md).
+Chuyển hướng đến [Nghệ thuật The Hobbit](The_Art_of_The_Hobbit.md).

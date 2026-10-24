@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gelion"
 ---
 
-Chuyển hướng tới [Gelion](Gelion.md).
+Chuyển hướng đến [Gelion](Gelion.md).

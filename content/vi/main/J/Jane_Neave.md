@@ -42,13 +42,13 @@ images:
 
 <b>Emily Jane Neave (<i>nhũ danh</i> Suffield)</b> ([tháng 6](June.md) [1872](../_/1872.md) - [22 tháng 2](../_/22_February.md) [1963](../_/1963.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là em gái của [Mabel Tolkien](../M/Mabel_Tolkien.md), và do đó là một trong những dì của [J.R.R. Tolkien](J.R.R._Tolkien.md).
 
-Jane Neave làm giáo viên và cậu bé J.R.R. Tolkien thỉnh thoảng ở với dì của mình và chồng của bà là Edvin Neave trong khi [Mabel Tolkien](../M/Mabel_Tolkien.md) phải nhập viện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trang trại của Jane Neave được người dân địa phương ở Dormston, Worcestershire gọi là Bag End.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Jane Neave làm giáo viên, và cậu bé J.R.R. Tolkien thỉnh thoảng ở với dì của mình và chồng của bà là Edvin Neave trong khi [Mabel Tolkien](../M/Mabel_Tolkien.md) nhập viện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trang trại của Jane Neave được người dân địa phương ở Dormston, Worcestershire gọi là Bag End.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Nhờ sự gợi ý của Jane Neave, J.R.R. Tolkien đã xuất bản cuốn sách *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* tại [1962](../_/1962.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Jane Neave (22 tháng 9 năm 1937)](<../L/Letter_to_Jane_Neave_(22_September_1937).md>)
+- [Thư gửi Jane Neave (22 tháng Chín 1937)](<../L/Letter_to_Jane_Neave_(22_September_1937).md>)
 - [Thư gửi Jane Neave (15 tháng 11 năm 1961)](<../L/Letter_to_Jane_Neave_(15_November_1961).md>)
 - [Trang trại cừu, Gedling](../L/Lamb's_Farm,_Gedling.md)
 

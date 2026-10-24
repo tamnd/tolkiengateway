@@ -34,29 +34,29 @@ images:
 <p class="tg-quote-footer"><cite><a href="../T/Tom_Bombadil.md" title="Tom Bombadil">Tom Bombadil</a>, <i><a href="../T/The_Fellowship_of_the_Ring.md" title="The Fellowship of the Ring">The Fellowship of the Ring</a></i>, &#34;<a href="../F/Fog_on_the_Barrow-downs.md" title="Fog on the Barrow-downs">Fog on the Barrow-downs</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Khoảng trống vượt thời gian**, còn được gọi là **Khoảng trống bên ngoài**, **Bóng tối cổ xưa** và **Bóng tối bên ngoài**, là những thuật ngữ được sử dụng theo nhiều cách khác nhau.
+**Vượt thời gian Hư Không**, còn được gọi là **Bên ngoài Hư Không**, **Cổ đại Bóng Tối** và **Bóng tối bên ngoài**, là những thuật ngữ được sử dụng theo nhiều cách khác nhau.
 
 ## Lịch sử {#History}
 
-Về mặt vũ trụ, Khoảng trống là không gian không có người ở bên ngoài [Thời gian](../T/Time.md) và [Sáng tạo](../E/Eä.md), sự vắng mặt của [Ngọn lửa bất diệt](../F/Flame_Imperishable.md). Người ta kể rằng [Melkor](../M/Morgoth.md) từng lang thang trong Hư không để tìm kiếm Ngọn lửa Bất diệt trong vô vọng.<sup id="cite_ref-Ainu_1-0" class="reference"><a href="#cite_note-Ainu-1">[1]</a></sup>
+Về mặt vũ trụ học, Hư Không là không gian không có người ở bên ngoài [Thời gian](../T/Time.md) và [Sáng tạo](../E/Eä.md), sự vắng mặt của [Ngọn Lửa Bất Diệt](../F/Flame_Imperishable.md). Người ta kể rằng [Melkor](../M/Morgoth.md) đã từng lang thang trong Hư Không để tìm kiếm Ngọn Lửa Bất Diệt trong vô vọng.<sup id="cite_ref-Ainu_1-0" class="reference"><a href="#cite_note-Ainu-1">[1]</a></sup>
 
-[Hội trường vượt thời gian](../T/Timeless_Halls.md) của [Ilúvatar](../I/Ilúvatar.md) nằm ngoài Hư không; [Eä](../E/Eä.md) được tạo ra giữa Khoảng trống nhưng không phải là một phần của nó.<sup id="cite_ref-Ainu_1-1" class="reference"><a href="#cite_note-Ainu-1">[1]</a></sup>
+[Hội trường vượt thời gian](../T/Timeless_Halls.md) của [Ilúvatar](../I/Ilúvatar.md) nằm ngoài Hư Không; [Eä](../E/Eä.md) được tạo giữa Hư Không nhưng không phải là một phần của nó.<sup id="cite_ref-Ainu_1-1" class="reference"><a href="#cite_note-Ainu-1">[1]</a></sup>
 
-Sau thất bại trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), [Morgoth](../M/Morgoth.md) bị đày vào Khoảng trống Vô tận thông qua [Cánh cửa Bóng đêm](../D/Door_of_Night.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và do đó bị đưa ra ngoài Thời gian và Không gian, hoàn toàn bên ngoài Eä;<sup id="cite_ref-MT_3-0" class="reference"><a href="#cite_note-MT-3">[3]</a></sup> tuy nhiên, các truyền thuyết dự đoán rằng hắn sẽ quay trở lại Thế giới và gây ra [Sự kết thúc](../D/Dagor_Dagorath.md) của nó.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> 'Hư không' trong bối cảnh đó đề cập đến trạng thái Không tồn tại, tồn tại trước khi tạo ra [Eä](../E/Eä.md) và sau khi được tạo ra, ở bên ngoài nó. Quan niệm này thường bị [Đàn ông](../M/Men.md) và thậm chí cả [Yêu tinh](../E/Elves.md) nhầm lẫn với quan niệm về không gian rộng lớn bên trong Eä, đặc biệt là những quan niệm nói dối về [Vương quốc Arda](../A/Arda.md) bị bao vây.<sup id="cite_ref-MT_3-1" class="reference"><a href="#cite_note-MT-3">[3]</a></sup>
+Sau thất bại trong [Chiến tranh Phẫn nộ](../W/War_of_Wrath.md), [Morgoth](../M/Morgoth.md) bị đày vào Hư Không Vượt thời gian thông qua [Cánh Cửa Đêm](../D/Door_of_Night.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và do đó bị đưa ra ngoài Thời gian và Không gian, hoàn toàn bên ngoài Eä;<sup id="cite_ref-MT_3-0" class="reference"><a href="#cite_note-MT-3">[3]</a></sup> tuy nhiên, các truyền thuyết dự đoán rằng ông ta sẽ quay trở lại Thế giới và gây ra [Ngày tận thế](../D/Dagor_Dagorath.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> 'Hư Không' trong bối cảnh đó đề cập đến trạng thái Không tồn tại, tồn tại trước khi tạo ra [Eä](../E/Eä.md) và sau khi được tạo ra, ở bên ngoài nó. Quan niệm này thường bị [Con Người](../M/Men.md) và thậm chí [Tiên tộc](../E/Elves.md) nhầm lẫn với quan niệm về không gian rộng lớn bên trong Eä, đặc biệt là những quan niệm nói dối về [Vương quốc Arda](../A/Arda.md) bị bao vây.<sup id="cite_ref-MT_3-1" class="reference"><a href="#cite_note-MT-3">[3]</a></sup>
 
-Sau thất bại hoàn toàn rõ ràng trong [Cuộc chiến của chiếc nhẫn](../W/War_of_the_Ring.md), linh hồn suy yếu của [Sauron](../S/Sauron.md) bị ràng buộc trong giới hạn của thế giới, bước vào con đường dẫn đến bất lực giống như Morgoth khi bị đày xuống Hư Không.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Sau thất bại hoàn toàn rõ ràng trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), tinh thần suy yếu của [Sauron](../S/Sauron.md) bị ràng buộc trong giới hạn của thế giới, bước vào con đường dẫn đến bất lực giống như Morgoth khi bị đày đến Hư Không .<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Cũng có thể [linh hồn của Gandalf](../G/Gandalf.md) đã vượt qua Khoảng trống và đi vào [Hội trường vượt thời gian](../T/Timeless_Halls.md) sau khi chết trong [trận chiến](../B/Battle_of_the_Peak.md) với [Balrog of Moria](../D/Durin's_Bane.md), vì ông "đã hết suy nghĩ và thời gian."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Cũng có thể linh hồn của [Gandalf](../G/Gandalf.md) đã vượt qua Hư Không và đi vào [Hội trường vượt thời gian](../T/Timeless_Halls.md) sau khi ông ta chết trong [trận chiến](../B/Battle_of_the_Peak.md) với [Balrog của Moria](../D/Durin's_Bane.md), vì ông ta "đã hết suy nghĩ và thời gian."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Tên khác {#Other_names}
 
-The Void còn được gọi là:
+Hư Không còn được gọi là:
 
 - Tiếng Anh
     - **Bóng tối lớn nhất**<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:§12</sup>
-    - **Bóng tối bên ngoài** (hay Bóng tối bên ngoài)
+    - **Bóng tối bên ngoài** (hoặc Bên ngoài Bóng Tối)
     - **Bóng tối vĩnh cửu**
-    - **Bóng tối cổ xưa**
+    - **Cổ đại Bóng Tối**
 - [Qenya](../Q/Qenya.md)
     - *Avakúma*
     - *Oiakúma*<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>

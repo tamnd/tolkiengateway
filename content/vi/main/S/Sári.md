@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sun"
 ---
 
-Chuyển hướng đến [Mặt trời](Sun.md).
+Chuyển hướng đến [Mặt Trời](Sun.md).

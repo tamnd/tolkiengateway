@@ -35,13 +35,13 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Rayner Unwin](../R/Rayner_Unwin.md) vừa đến thăm Tolkien và ông cảm ơn Rayner vì đã đến và giải quyết mọi chuyện. Chỉ sau khi Rayner rời đi, Tolkien mới nhận ra rằng vị khách của mình chưa bao giờ uống bia hay đồ uống giải khát nào khác. Ông xin lỗi vì những tiêu chuẩn thấp hơn của người hobbit.
+[Rayner Unwin](../R/Rayner_Unwin.md) vừa ghé thăm Tolkien và ông cảm ơn Rayner đã đến và dọn dẹp mọi thứ. Chỉ sau khi Rayner rời đi Tolkien mới nhận ra rằng vị khách của mình chưa bao giờ uống bia hay đồ uống giải khát nào khác. Ông xin lỗi vì những tiêu chuẩn thấp hơn của người hobbit.
 
-Đối với các tập của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* Tolkien đã đề xuất "[Hiệp hội của chiếc nhẫn](../T/The_Fellowship_of_the_Ring.md)", "[Hai tòa tháp](../T/The_Two_Towers.md)" và "Cuộc chiến của chiếc nhẫn", hoặc nếu Rayner vẫn thích, "[Sự trở lại của nhà vua](../T/The_Return_of_the_King.md)". Tiêu đề đầu tiên phù hợp, đặc biệt vì chương cuối cùng trong tập là "[Sự tan vỡ tình bạn](../T/The_Breaking_of_the_Fellowship.md)". Tiêu đề thứ hai càng gần càng tốt để đề cập đến Sách 3 và 4 khác nhau nhiều. Danh tính của hai tòa tháp có nghĩa là gì có thể vẫn còn mơ hồ. Đối với tập thứ ba, ông nghĩ "Cuộc chiến trên chiếc nhẫn" hay hơn. Nó lại đề cập đến [chiếc nhẫn](../T/The_One_Ring.md) và mang tính chất không cam kết hơn, ít tiết lộ diễn biến của câu chuyện hơn.
+Đối với các tập *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* Tolkien được đề xuất "[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)", "[The Two Towers](../T/The_Two_Towers.md)" và "The Cuộc chiến Nhẫn" hoặc nếu Rayner vẫn thích, "[The Return of the King](../T/The_Return_of_the_King.md)". Tiêu đề đầu tiên phù hợp, đặc biệt vì chương cuối cùng trong tập là "[Sự tan vỡ tình bạn](../T/The_Breaking_of_the_Fellowship.md)". Tiêu đề thứ hai càng gần càng tốt để đề cập đến Sách 3 và 4 khác nhau nhiều. Danh tính của hai tòa tháp có nghĩa là gì có thể vẫn còn mơ hồ. Đối với tập thứ ba, ông nghĩ "The Cuộc chiến Nhẫn" hay hơn. Nó lại đề cập đến [chiếc nhẫn](../T/The_One_Ring.md) và mang tính chất không cam kết hơn, ít tiết lộ diễn biến của câu chuyện hơn.
 
-Tolkien nghi ngờ liệu các chữ cái màu đỏ có đủ quan trọng để dòng chữ trên Chiếc nhẫn đảm bảo chi phí sửa đổi hay không. Ông đề xuất đưa vào trang cuối cùng của [Sách Mazarbul](../B/Book_of_Mazarbul.md) vì nó liên quan chặt chẽ đến câu chuyện.
+Tolkien nghi ngờ liệu những chữ cái màu đỏ có đủ quan trọng để khắc dòng chữ trên Chiếc nhẫn để đảm bảo chi phí sửa đổi hay không. Ông đề xuất thêm trang cuối cùng của [Sách Mazarbul](../B/Book_of_Mazarbul.md) vì nó liên quan chặt chẽ đến câu chuyện.
 
-Vào ngày 1 tháng 9, Tolkien cho biết ông sẽ đích thân mang bản sao của Tập II, đã được sắp xếp sẵn sàng. Ông đang chuyển sang Bản đồ và Lời nói đầu.
+Ngày 1 tháng Chín Tolkien cho biết ông sẽ đích thân mang bản sao của Tập II đến, đã rất ngăn nắp. Ông đang chuyển sang Bản đồ và Lời nói đầu.
 
 Tolkien yêu cầu Rayner thứ lỗi cho việc đánh máy màu đỏ. Ông đang tiết kiệm tiền bằng cách sử dụng máy in loại có màu đen đã qua sử dụng nhưng hiếm khi sử dụng màu đỏ.
 

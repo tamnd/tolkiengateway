@@ -34,11 +34,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Velindo được [Aulë](../A/Aulë.md) cử đến [thế giới](../M/Middle-earth.md) để lấy "một số loại vàng đỏ nặng của [người lùn](../D/Dwarves.md)". Tuy nhiên, ở đó, anh trở nên kiêu ngạo trước sự tôn thờ của Người lùn và [Đàn ông](../M/Men.md) nhờ kỹ năng thủ công của mình.
+Velindo được [Aulë](../A/Aulë.md) cử đến [thế giới](../M/Middle-earth.md) để lấy "một số loại vàng đỏ nặng của [người lùn](../D/Dwarves.md)". Tuy nhiên, ở đó anh trở nên kiêu ngạo vì sự ngưỡng mộ của Người Lùn và [Con Người](../M/Men.md) nhờ kỹ năng của một nghệ nhân.
 
-Vì vậy, ông ta không bao giờ quay trở lại Aulë mà tự mình thành lập - và ông ta trở nên nổi tiếng, nhưng khi [Yêu tinh](../E/Elves.md) lụi tàn, quyền lực và danh tiếng của chính ông ta cũng suy yếu, nhưng ông ta không bao giờ trở nên độc ác.
+Vì vậy, ông ta không bao giờ quay trở lại Aulë mà tự mình thành lập - và ông ta trở nên nổi tiếng, nhưng khi [Tiên tộc](../E/Elves.md) quyền lực và danh tiếng của chính ông ta lụi tàn, nhưng ông ta không bao giờ trở nên độc ác.
 
-Nhiều năm sau, thủy thủ [Eriol](../E/Eriol.md) hỏi [Rúmil](<../R/Rúmil_(elf_of_Tirion).md#Other_versions_of_the_legendarium>), một Yêu tinh của [Tol Eressëa](../T/Tol_Eressëa.md), liệu người của <a class="extiw" href="http://en.wikipedia.org/wiki/Wayland_the_Smith" title="wikipedia:Wayland the Smith">Wéland</a> (một thợ rèn nổi tiếng trong truyền thuyết người Đức) có giống với Aulë hay không, nhưng Rúmil đã sửa lại và nói rằng *Wéland* thực ra là Velindo.<sup id="cite_ref-Veli_1-1" class="reference"><a href="#cite_note-Veli-1">[1]</a></sup>
+Kỷ nguyên sau đó, thủy thủ [Eriol](../E/Eriol.md) hỏi [Rúmil](<../R/Rúmil_(elf_of_Tirion).md#Other_versions_of_the_legendarium>), một Tiên của [Tol Eressëa](../T/Tol_Eressëa.md), liệu người của <a class="extiw" href="http://en.wikipedia.org/wiki/Wayland_the_Smith" title="wikipedia:Wayland the Smith">Wéland</a> (một thợ rèn nổi tiếng trong truyền thuyết người Đức) có giống với Aulë không, nhưng Rúmil đã sửa lại, nói đúng hơn rằng *Wéland* thực ra là Velindo.<sup id="cite_ref-Veli_1-1" class="reference"><a href="#cite_note-Veli-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -48,11 +48,11 @@ Tên của Velindo trong [tiếng Anh cổ](../O/Old_English.md) là <i><b>Wéla
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một văn bản đương đại khác, thợ rèn người Đức Wéland thay vào đó được đồng nhất với [Gnome](../G/Gnomes.md) [Fëanor](../F/Fëanor.md).
+Trong một văn bản đương đại khác, thợ rèn người Đức Wéland thay vào đó được xác định bằng [Gnome](../G/Gnomes.md) [Fëanor](../F/Fëanor.md).
 
-Văn bản đó mô tả tóm tắt một câu chuyện diễn ra trong cuộc chiến giữa Yêu tinh với [Melko](../M/Melko.md), trong đó Fëanor bị bắt bởi một người đàn ông tên là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ni%C3%B0ad&amp;action=edit&amp;redlink=1" title="Niðad (page does not exist)">Niðad</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> Vua của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Niaroth&amp;action=edit&amp;redlink=1" title="Niaroth (page does not exist)">Niaroth</a>. Tuy nhiên, Fëanor đã giết các con trai của Niðad<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup> và trốn thoát bằng cách chế tạo đôi cánh nhân tạo cho chính mình; ông ta cũng làm tình với con gái của nhà vua <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beaduhilde&amp;action=edit&amp;redlink=1" title="Beaduhilde (page does not exist)">Beaduhilde</a> và bỏ trốn cùng bà, nhưng cuối cùng lại lạc mất bà trong rừng.
+Văn bản đó mô tả tóm tắt một câu chuyện lấy bối cảnh trong cuộc chiến giữa Tiên tộc với [Melko](../M/Melko.md), trong đó Fëanor bị bắt bởi một người đàn ông tên là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Ni%C3%B0ad&amp;action=edit&amp;redlink=1" title="Niðad (page does not exist)">Niðad</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup> Vua của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Niaroth&amp;action=edit&amp;redlink=1" title="Niaroth (page does not exist)">Niaroth</a>. Tuy nhiên, Fëanor đã giết các con trai của Niðad<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[note 2]</a></sup> và trốn thoát bằng cách chế tạo đôi cánh nhân tạo cho chính mình; ông ta cũng làm tình với con gái của nhà vua <a class="new" href="https://tolkiengateway.net/w/index.php?title=Beaduhilde&amp;action=edit&amp;redlink=1" title="Beaduhilde (page does not exist)">Beaduhilde</a> và bỏ trốn cùng bà, nhưng cuối cùng lại lạc mất bà trong rừng.
 
-Cuối cùng, Beaduhilde (lúc này đang mang thai) đã tha thứ cho Fëanor, và bất chấp sự phẫn nộ của cha cô khi cô mang thai, cô vẫn cố gắng nhận được lời chúc phúc của Niðad dành cho con trai mình.<sup id="cite_ref-Fea_3-1" class="reference"><a href="#cite_note-Fea-3">[3]</a></sup>
+Cuối cùng, Beaduhilde (lúc này đang mang thai) đã tha thứ Fëanor, và bất chấp sự phẫn nộ của cha cô khi cô mang thai, cô vẫn cố gắng nhận được lời chúc phúc của Niðad dành cho con trai mình.<sup id="cite_ref-Fea_3-1" class="reference"><a href="#cite_note-Fea-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -60,14 +60,14 @@ Cuối cùng, Beaduhilde (lúc này đang mang thai) đã tha thứ cho Fëanor,
 
 ## Liên kết ngoài {#External_links}
 
-- "<a class="external text" href="https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1381&amp;context=journaloftolkienresearch" rel="noreferrer noopener" target="_blank">Những thợ rèn lành nghề và Hoàng tử của Yêu tinh: Truyền thuyết Wayland và Thời đại đầu tiên của Trung Địa</a>" của Lillian Hammen trong số thứ hai của Tập 9 của Tạp chí Nghiên cứu Tolkien
+- "<a class="external text" href="https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1381&amp;context=journaloftolkienresearch" rel="noreferrer noopener" target="_blank">Những thợ rèn và hoàng tử lành nghề của Tiên tộc: Truyền thuyết Wayland và Kỷ Đệ Nhất của Trung Địa</a>" của Lillian Hammen trong số thứ hai của Tập 9 của Tạp chí Nghiên cứu Tolkien
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Trong văn bản như được viết ban đầu, <i>Niðad</i> là sự thay thế cho <i>Melko</i>và <i>Naroth</i> cho <i>Orc</i>.</span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Trong văn bản gốc, Fëanor đã giết "đội trưởng tộc Orc" của Melko, thay vì các con trai của Niðad.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Trong văn bản gốc, Fëanor đã giết "thuyền trưởng loài orc" của Melko thay vì các con trai của Niðad.</span>
 </li>
 </ol></div></span>
 

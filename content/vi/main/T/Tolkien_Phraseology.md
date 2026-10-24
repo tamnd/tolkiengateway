@@ -27,11 +27,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Phraseology: A Companion to A Tolkien Thesaurus</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../R/Richard_E._Blackwelder.md" title="Richard E. Blackwelder">Richard E. Blackwelder</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Milwaukee, Wisc.: <a href="../M/Marquette_University.md" title="Marquette University">Marquette University</a> Archives (Tolkien Archives Fund)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1990.md" title="1990">1990</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Booklet</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">15</td></tr></tbody></table>
 
-<i><b>Cụm từ Tolkien: Người đồng hành với Từ điển đồng nghĩa Tolkien</b></i>, được viết bởi [Richard E. Blackwelder](../R/Richard_E._Blackwelder.md), là tập sách nhỏ đồng hành với *[A Tolkien Thesaurus](../A/A_Tolkien_Thesaurus.md)*.
+<i><b>Tolkien Cụm từ: Đồng hành với A Tolkien Từ điển đồng nghĩa</b></i>, được viết bởi [Richard E. Blackwelder](../R/Richard_E._Blackwelder.md), là tập sách nhỏ đồng hành với *[A Tolkien Thesaurus](../A/A_Tolkien_Thesaurus.md)*.
 
 ## Từ trang bìa {#From_the_cover}
 
-"Được thiết kế để bổ sung cho phần giới thiệu về Từ điển đồng nghĩa Tolkien"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+"Được thiết kế để bổ sung cho phần giới thiệu về Một Tolkien từ điển đồng nghĩa"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -43,6 +43,6 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Khi [Hiệp hội chiếc nhẫn](../F/Fellowship_of_the_Ring.md) sẵn sàng khởi hành [Rivendell](../R/Rivendell.md), [Elrond](../E/Elrond.md) nhắc lại nhiệm vụ của [Người mang chiếc nhẫn](../F/Frodo.md) là tới [Mount Doom](../M/Mount_Doom.md) và rằng những người đi cùng ông ta không có nghĩa vụ phải đi xa hơn họ mong muốn. Ông chúc phúc cho cuộc hành trình của họ và [Gandalf](../G/Gandalf.md) sau đó nói với [Frodo](../F/Frodo.md) rằng họ đã sẵn sàng rời đi. Anh chàng hobbit nhìn xung quanh có phần lo lắng khi hỏi "[Mordor](../M/Mordor.md) Gandalf, nó ở bên trái hay bên phải?" Đáp lại, thuật sĩ nói với ông ta "Trái".
+Khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) sẵn sàng khởi hành [Rivendell](../R/Rivendell.md), [Elrond](../E/Elrond.md) lặp lại nhiệm vụ của [Người Mang Nhẫn](../F/Frodo.md) dành cho [Núi Diệt Vong](../M/Mount_Doom.md) và rằng những người đi cùng ông ta không có nghĩa vụ phải đi xa hơn họ mong muốn. Ông chúc phúc cho cuộc hành trình của họ và [Gandalf](../G/Gandalf.md) sau đó nói với [Frodo](../F/Frodo.md) họ đã sẵn sàng rời đi. Anh chàng hobbit nhìn xung quanh có phần lo lắng khi hỏi "[Mordor](../M/Mordor.md) Gandalf, nó ở bên trái hay bên phải?" Đáp lại, thuật sĩ nói với ông ta "Trái".
 
-[Aragorn](../A/Aragorn.md) nhìn thật lâu với [Arwen](../A/Arwen.md) trước khi anh gật đầu nhẹ với cô và mỉm cười rồi đi theo những người còn lại trong [Học bổng](../F/Fellowship.md) qua cây cầu ra khỏi Rivendell.
+[Aragorn](../A/Aragorn.md) nhìn thật lâu với [Arwen](../A/Arwen.md) trước khi anh gật đầu nhẹ và mỉm cười rồi đi theo phần còn lại của [Học bổng](../F/Fellowship.md) qua cây cầu ra khỏi Rivendell.

@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Kuma"
 ---
 
-<i><b>Kúma</b></i> là một thuật ngữ [Quenya](../Q/Quenya.md) liên quan đến [Void](../V/Void.md), là Đêm không có hình dạng hoặc thời gian trong đó [thế giới](../E/Eä.md) được thiết lập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+<i><b>Kúma</b></i> là một thuật ngữ [Quenya](../Q/Quenya.md) liên quan đến [Hư Không](../V/Void.md), là Đêm không có hình dạng hoặc thời gian, trong đó [thế giới](../E/Eä.md) được thiết lập.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

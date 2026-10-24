@@ -17,7 +17,7 @@ hidden_categories:
 
 <i><b>Sự đấu thầu của Minstrel, từ Lay of Eärendel</b></i>, là một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Đây là một trong những bài thơ đầu tiên liên quan đến [Eärendel](../E/Eärendil.md) được xuất bản trên *[The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md)*.<sup id="cite_ref-LT_1-0" class="reference"><a href="#cite_note-LT-1">[1]</a></sup>
 
-Bài thơ ngắn (36 dòng trong phiên bản cuối cùng) bao gồm lời khuyến khích kể lại câu chuyện "Eärendel lang thang" - có lẽ đề cập đến *[Éalá Éarendel Engla Beorhtast](../_/Éalá_Éarendel_Engla_Beorhtast.md)* được sáng tác vào đầu năm đó - và câu trả lời từ người hát rong cùng tên. Bốn bản thảo được viết tại [Phố St John](../_/59_St_John_Street.md), [Oxford](../O/Oxford.md) vào mùa đông năm [1914](../_/1914.md). Các tiêu đề trước đó là *The Minstrel renounces the song* và *The Lay of Eärendel*.
+Bài thơ ngắn (36 dòng trong phiên bản cuối cùng) bao gồm một lời khích lệ kể lại câu chuyện về "Eärendel người lang thang" - có lẽ đề cập đến *[Éalá Éarendel Engla Beorhtast](../_/Éalá_Éarendel_Engla_Beorhtast.md)* được sáng tác vào đầu năm đó - và một câu trả lời từ người hát rong cùng tên. Bốn bản thảo được viết tại [Phố St John](../_/59_St_John_Street.md), [Oxford](../O/Oxford.md) vào mùa đông năm [1914](../_/1914.md). Các tiêu đề trước đó là *The Minstrel renounces the song* và *The Lay of Eärendel*.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

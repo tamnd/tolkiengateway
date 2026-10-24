@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fëanor"
 ---
 
-Chuyển hướng tới [Fëanor](Fëanor.md).
+Chuyển hướng đến [Fëanor](Fëanor.md).

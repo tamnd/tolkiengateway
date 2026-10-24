@@ -16,10 +16,10 @@ categories:
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Eldarin thông thường](../C/Common_Eldarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nasag&amp;action=edit&amp;redlink=1" title="Nasag (page does not exist)">nasag</a></i> > *nazg-* ("ép buộc, ràng buộc"); <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nazgw%C4%93&amp;action=edit&amp;redlink=1" title="Nazgwē (page does not exist)">nazgwē</a></i> ("sự trói buộc, sự chịu đựng")<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+- [Common Eldarin](../C/Common_Eldarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nasag&amp;action=edit&amp;redlink=1" title="Nasag (page does not exist)">nasag</a></i> > *nazg-* ("ép buộc, ràng buộc"); <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nazgw%C4%93&amp;action=edit&amp;redlink=1" title="Nazgwē (page does not exist)">nazgwē</a></i> ("sự trói buộc, sự chịu đựng")<sup id="cite_ref-PE19_1-1" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
     - [Quenya](../Q/Quenya.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Naxa&amp;action=edit&amp;redlink=1" title="Naxa (page does not exist)">naxa</a></i> ("ràng buộc, xiềng xích"); <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nasque&amp;action=edit&amp;redlink=1" title="Nasque (page does not exist)">nasque</a></i> ("sự trói buộc, sự chịu đựng")<sup id="cite_ref-PE19_1-2" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
     - [Sindarin](../S/Sindarin.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nadha&amp;action=edit&amp;redlink=1" title="Nadha (page does not exist)">nadha</a></i> ("xiềng xích")<sup id="cite_ref-PE19_1-3" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
-    - [Bài phát biểu của người da đen](../B/Black_Speech.md): *[nazg](Nazg.md)*<sup id="cite_ref-PE19_1-4" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
+    - [Hắc Ngữ](../B/Black_Speech.md): *[nazg](Nazg.md)*<sup id="cite_ref-PE19_1-4" class="reference"><a href="#cite_note-PE19-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 

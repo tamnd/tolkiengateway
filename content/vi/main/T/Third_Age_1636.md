@@ -21,17 +21,17 @@ langlinks:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1633.md" title="Third Age 1633">1633</a><a href="Third_Age_1634.md" title="Third Age 1634">1634</a><a href="Third_Age_1635.md" title="Third Age 1635">1635</a><a class="mw-selflink selflink">1636</a><a href="Third_Age_1637.md" title="Third Age 1637">1637</a><a href="Third_Age_1640.md" title="Third Age 1640">1640</a><a href="Third_Age_1670.md" title="Third Age 1670">1670</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 1636** (viết tắt là **T.A. 1636**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1636 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba năm 1636 còn được gọi là **S.R. 36** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 1636** (viết tắt là **T.A. 1636**) là năm [thứ 1636 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1636 còn được gọi là **S.R. 36** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Đại dịch](../G/Great_Plague.md) tàn phá [Gondor](../G/Gondor.md), đặc biệt là [Osgiliath](../O/Osgiliath.md). Xem trên [Mordor](../M/Mordor.md) đã ngừng.<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-gondor_2-0" class="reference"><a href="#cite_note-gondor-2">[2]</a></sup>
+- [Đại Dịch](../G/Great_Plague.md) tàn phá [Gondor](../G/Gondor.md), đặc biệt là [Osgiliath](../O/Osgiliath.md). Xem trên [Mordor](../M/Mordor.md) dừng.<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup><sup id="cite_ref-gondor_2-0" class="reference"><a href="#cite_note-gondor-2">[2]</a></sup>
 - Cái chết của Vua [Telemnar](Telemnar.md) và các con của ông.<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- [Tarondor](<Tarondor_(King_of_Gondor).md>), cháu trai của [Telemnar](Telemnar.md), trở thành [Vua](../K/Kings_of_Gondor.md) thứ 27 của [Gondor](../G/Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- [Cây Trắng](../W/White_Tree_of_Gondor.md) chết ở [Minas Anor](../M/Minas_Anor.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- Dịch bệnh lan rộng về phía bắc và phía tây, tấn công [Shire](The_Shire.md) và nhiều vùng của [Eriador](../E/Eriador.md) trở nên hoang tàn.<sup id="cite_ref-TA_1-3" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- Cùng lúc đó, [Bóng tối](../S/Shadow.md) ở [Greenwood](../G/Greenwood.md) ngày càng sâu hơn và những điều xấu xa lại xuất hiện.<sup id="cite_ref-gondor_2-1" class="reference"><a href="#cite_note-gondor-2">[2]</a></sup>
-- Cùng lúc đó [Vua phù thủy](../W/Witch-king.md) cử [Barrow-wights](../B/Barrow-wights.md) ám ảnh những ngọn đồi,<sup id="cite_ref-eriador_4-0" class="reference"><a href="#cite_note-eriador-4">[4]</a></sup> ngăn cản mọi hoạt động tái định cư.
+- [Tarondor](<Tarondor_(King_of_Gondor).md>), cháu trai của [Telemnar](Telemnar.md), trở thành [Vua](../K/Kings_of_Gondor.md) thứ hai mươi bảy của [Gondor](../G/Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Người [Cây Trắng](../W/White_Tree_of_Gondor.md) chết trong [Minas Anor](../M/Minas_Anor.md).<sup id="cite_ref-TA_1-2" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- Dịch hạch lây lan về phía bắc và phía tây, tấn công [ Shire](The_Shire.md) và nhiều nơi [Eriador](../E/Eriador.md) trở nên hoang tàn.<sup id="cite_ref-TA_1-3" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- Cùng lúc đó, [Bóng Tối](../S/Shadow.md) trong [Rừng Xanh](../G/Greenwood.md) ngày càng sâu sắc hơn và những điều xấu xa lại xuất hiện.<sup id="cite_ref-gondor_2-1" class="reference"><a href="#cite_note-gondor-2">[2]</a></sup>
+- Cùng lúc đó, [Vua Phù thủy](../W/Witch-king.md) gửi [Barrow-wight](../B/Barrow-wights.md) ám ảnh những ngọn đồi,<sup id="cite_ref-eriador_4-0" class="reference"><a href="#cite_note-eriador-4">[4]</a></sup> ngăn cản mọi hoạt động tái định cư.
 
 <span></span>
 

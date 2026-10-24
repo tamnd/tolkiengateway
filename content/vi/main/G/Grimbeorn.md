@@ -46,13 +46,13 @@ infobox:
 
 ## Lịch sử {#History}
 
-Grimbeorn đã trở thành một lãnh chúa vĩ đại theo đúng nghĩa của mình. Giống như cha mình, ông là thủ lĩnh của [Beornings](../B/Beornings.md) và ông sống ở cùng vùng của [Vales of Anduin](../V/Vales_of_Anduin.md). Trong thời gian của ông, [Đèo Cao](../H/High_Pass.md) và [Ford of Carrock](../F/Ford_of_Carrock.md) vẫn được mở và không có [Orc](../O/Orcs.md) hay [Warg](../W/Wargs.md) nào dám vào vùng đất của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Grimbeorn đã trở thành một lãnh chúa vĩ đại theo đúng nghĩa của mình. Giống như cha mình, ông là thủ lĩnh của [Beornings](../B/Beornings.md) và ông sống ở cùng vùng của [Thung lũng Anduin](../V/Vales_of_Anduin.md). Trong thời gian của ông, [Đèo Cao](../H/High_Pass.md) và [Ford của Carrock](../F/Ford_of_Carrock.md) luôn được mở và không có [Orc](../O/Orcs.md) hay [Warg](../W/Wargs.md) nào dám vào vùng đất của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 **Grimbeorn** là tên [tiếng Anh cổ](../O/Old_English.md),<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> có nghĩa là "chiến binh hung dữ" hoặc "hoàng tử nghiêm khắc"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>.
 
-*Grim* (như trong [tiếng Anh hiện đại](../M/Modern_English.md)) có nghĩa là "dữ dội" hoặc "nghiêm trọng" trong tiếng Anh cổ.<sup id="cite_ref-BT_4-0" class="reference"><a href="#cite_note-BT-4">[4]</a></sup> Để biết ý nghĩa của *beorn* hãy tham khảo [Beorn - Từ nguyên](../B/Beorn.md#Etymology).
+*Grim* (như trong [tiếng Anh hiện đại](../M/Modern_English.md)) có nghĩa là "dữ dội" hoặc "nghiêm trọng" trong tiếng Anh cổ.<sup id="cite_ref-BT_4-0" class="reference"><a href="#cite_note-BT-4">[4]</a></sup> Để biết nghĩa của *beorn* hãy tham khảo [Beorn - Từ nguyên](../B/Beorn.md#Etymology).
 
 ## Phả hệ {#Genealogy}
 
@@ -90,11 +90,11 @@ Grimbeorn đã trở thành một lãnh chúa vĩ đại theo đúng nghĩa củ
 		</li>
 </ul>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Trò chơi thẻ bài Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
 <dl><dd>Despite not featuring in <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> film series</a>, Decipher produced a card depicting the character. He was portrayed by sword smith Peter Lyon.</dd></dl>
 
-<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2014: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Grimbeorn is the lord of all Beornings and lives at his home, the <a href="../B/Beorn&#39;s_Hall.md" title="Beorn&#39;s Hall">Beorninghús</a>, with his wife Gírta and three children: the eldest daughter Langhár, the middle son Sterkist and the youngest, who becomes the <a class="mw-redirect" href="../B/Beorning.md" title="Beorning">Beorning</a> player&#39;s character after Grimbeorn sends them to find the Ranger <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> at the urging of <a href="../R/Radagast.md" title="Radagast">Radagast</a>. During the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a> Grimbeorn visits the camp of Vindurhal in the <a href="../H/High_Pass.md" title="High Pass">High Pass</a> of the <a href="../M/Misty_Mountains.md" title="Misty Mountains">Misty Mountains</a>, but returns home soon after. After the destruction of <a href="../T/The_One_Ring.md" title="The One Ring">The One Ring</a>, Grimbeorn is visited by <a href="Gandalf.md" title="Gandalf">Gandalf</a>, <a href="../L/Legolas.md" title="Legolas">Legolas</a> and the player on their journey back to <a href="Gondor.md" title="Gondor">Gondor</a> after a brief visit to the northern lands. Already annoyed by a number of visitors, Grimbeorn is then forced to host a much larger procession when <a href="../E/Elrond.md" title="Elrond">Elrond</a> and much of his house stay at his lodge on their way to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Minas Tirith</a> for <a href="../A/Arwen.md" title="Arwen">Arwen</a>&#39;s wedding.</dd></dl>
 

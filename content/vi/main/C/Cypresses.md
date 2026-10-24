@@ -21,13 +21,13 @@ langlinks:
     url: "https://kontu.wiki/Py%C3%B6kki"
 ---
 
-**Cây bách** là một loại cây mọc ở vùng phía bắc của [Ithilien](../I/Ithilien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Cây bách** là một loại cây mọc ở các vùng phía bắc của [Ithilien](../I/Ithilien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong thời gian [Berúthiel](../B/Berúthiel.md) làm [vợ](../Q/Queen_of_Gondor.md) của [Vua](../K/King_of_Gondor.md) [Tarannon](../T/Tarannon.md) của [Gondor](../G/Gondor.md), bà đã trang trí các khu vườn của [Nhà vua](../K/King's_House.md) ở [Osgiliath](../O/Osgiliath.md) "bằng những tác phẩm điêu khắc đau khổ bên dưới những cây bách và [đúng vậy](../Y/Yews.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong thời gian [Berúthiel](../B/Berúthiel.md) làm [vợ](../Q/Queen_of_Gondor.md) của [Vua](../K/King_of_Gondor.md) [Tarannon](../T/Tarannon.md) của [Gondor](../G/Gondor.md), cô đã trang trí các khu vườn của Ngôi nhà của [Vua](../K/King's_House.md) ở [Osgiliath](../O/Osgiliath.md) "với những tác phẩm điêu khắc đau khổ bên dưới cây bách và [cây thủy tùng](../Y/Yews.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
+<b>1994: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a>—<a href="../T/Treasures_of_Middle-earth_(2nd_edition).md" title="Treasures of Middle-earth (2nd edition)">Kho báu của Trung Địa</a></i></b>
 
 <dl><dd>A type of cypress, <i><b>Black Cypress</b></i>, is described as the largest evergreen growing in southeastern <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a>, growing up to 200 ft. Its trunk was black and the scale-like leaves were dark green. Its hard to work wood was used for shipbuilding.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

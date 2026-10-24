@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hithlum"
 ---
 
-Chuyển hướng tới [Hithlum](../H/Hithlum.md).
+Chuyển hướng đến [Hithlum](../H/Hithlum.md).

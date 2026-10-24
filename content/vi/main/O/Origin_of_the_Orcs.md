@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Orcs/Origin"
 ---
 
-Chuyển hướng đến [Orcs/Origin](Orcs%252FOrigin.md).
+Chuyển hướng đến [Orc/Xuất xứ](Orcs%252FOrigin.md).

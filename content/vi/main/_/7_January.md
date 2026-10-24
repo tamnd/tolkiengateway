@@ -67,15 +67,15 @@ Sự kiện xảy ra vào ngày 7 tháng 1.
 ## Trên Trái đất {#On_Earth}
 
 - **[1913](1913.md)** - Diễn viên lồng tiếng [Francis de Wolff](../F/Francis_de_Wolff.md) ra đời.
-- **[1937](1937.md)** - Theo yêu cầu của [cha mình](../S/Stanley_Unwin.md), chàng trai trẻ [Rayner Unwin](../R/Rayner_Unwin.md) viết báo cáo về cuốn sách *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*.
+- **[1937](1937.md)** - Theo yêu cầu của [bố](../S/Stanley_Unwin.md), chàng trai trẻ [Rayner Unwin](../R/Rayner_Unwin.md) viết báo cáo về cuốn sách *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*.
 - **[1945](1945.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 94a](../L/Letter_94a.md).
 - **[1948](1948.md)** - Diễn viên lồng tiếng [Jarion Monroe](../J/Jarion_Monroe.md) ra đời.
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 283](../L/Letter_283.md).
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Roger Shaw](../L/Letter_to_Roger_Shaw.md).
-- **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho cháu trai Michael George Tolkien](<../L/Letter_to_Michael_George_Tolkien_(7_January_1970).md>).
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Roger Shaw](../L/Letter_to_Roger_Shaw.md).
+- **[1970](1970.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi cháu ngoại Michael George Tolkien](<../L/Letter_to_Michael_George_Tolkien_(7_January_1970).md>).
 - **[2004](2004.md)** - Dịch giả người Hà Lan [Willy Wielek-Berg](../W/Willy_Wielek-Berg.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Hiệp hội Nhẫn thần](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).

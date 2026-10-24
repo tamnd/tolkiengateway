@@ -37,7 +37,7 @@ infobox:
 
 ## Khóa học {#Course}
 
-Sông Greylin dâng lên ở phía tây [Dãy núi Grey](Grey_Mountains.md) và chảy về phía tây nam để gặp [Langwell](../L/Langwell.md) và chúng cùng nhau tạo thành nguồn của Sông Lớn, [Anduin](../A/Anduin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sông Greylin dâng lên ở phía tây [Dãy Núi Xám](Grey_Mountains.md) và chảy theo hướng tây nam để gặp [Langwell](../L/Langwell.md) và chúng cùng nhau tạo thành nguồn của Sông Lớn, [Anduin](../A/Anduin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
@@ -45,11 +45,11 @@ Giữa hai con sông là [Éothéod](../_/Éothéod.md) được xây dựng [Fr
 
 ## Từ nguyên {#Etymology}
 
-Thành phần thứ hai của tên bắt nguồn từ [Tiếng Anh cổ](../O/Old_English.md) *hlynn* hoặc "torrent", mặc dù nghĩa đen của nó có lẽ là "kẻ ồn ào".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Thành phần thứ hai của tên bắt nguồn từ [tiếng Anh cổ](../O/Old_English.md) *hlynn* hoặc "torrent", mặc dù nghĩa đen của nó có lẽ là "kẻ ồn ào".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong chuyển thể {#Portrayals_in_adaptations}
 
-<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2020: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Greylin originates in the region of &#34;Elderslade&#34; which lies to the east of <a href="Gundabad.md" title="Gundabad">Gundabad</a>. It flows south through several waterfalls, the largest of them being &#34;the Reikfoss of Greylin&#34;. Along with the two falls of <a href="../L/Langwell.md" title="Langwell">Langwell</a> from the same height, the Reikfoss raises a large cloud of mist into the air, giving the surrounding area its name: &#34;Misthallow&#34;. The two rivers join past <a href="../F/Framsburg.md" title="Framsburg">Framsburg</a>, forming the Great River.</dd></dl>
 

@@ -65,14 +65,14 @@ Sự kiện xảy ra vào ngày 10 tháng 4
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham dự buổi khám của hội đồng y tế. Ông ta được cho là phù hợp với công việc chung.
+- **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham gia hội đồng y tế khám. Ông ta được cho là phù hợp với công việc chung.
 - **[1943](1943.md)** - Nhạc sĩ [Bo Hansson](../B/Bo_Hansson.md) ra đời.
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 208](../L/Letter_208.md).
 - **[1969](1969.md)** - J.R.R. Tolkien viết [thư cho bà Mroczkowska](<../L/Letter_to_Mrs_Mroczkowska_(10_April_1969).md>).
-- **[1991](1991.md)** – Phiên bản sửa đổi của [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)* được xuất bản.
-- **[2018](2018.md)** - [HarperCollins](../H/HarperCollins.md) thông báo rằng *[The Fall of Gondolin](../T/The_Fall_of_Gondolin.md)* sẽ được xuất bản vào [30 tháng 8](30_August.md) [2018](2018.md).
+- **[1991](1991.md)** – Phiên bản sửa đổi của [Karen Wynn Fonstad](../K/Karen_Wynn_Fonstad.md) của *[The Atlas of Middle-earth](../T/The_Atlas_of_Middle-earth.md)* được xuất bản.
+- **[2018](2018.md)** - [HarperCollins](../H/HarperCollins.md) thông báo *[The Fall of Gondolin](../T/The_Fall_of_Gondolin.md)* sẽ được xuất bản vào [30 tháng 8](30_August.md) [2018](2018.md).
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [2510](../T/Third_Age_2510.md):
-    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) đi tới [Field of Celebrant](../F/Field_of_Celebrant.md).
+    - [Eorl the Young](../E/Eorl.md) và [Éothéod](Éothéod.md) di chuyển về phía [Trường Celebrant](../F/Field_of_Celebrant.md).

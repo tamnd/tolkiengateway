@@ -12,7 +12,7 @@ categories:
   - "Collectibles"
 ---
 
-**Kiệt tác Chúa tể của những chiếc nhẫn** là những lá bài có thể giao dịch được sản xuất bởi Topps.
+**The Lord of the Rings Kiệt tác** là những lá bài có thể giao dịch được sản xuất bởi Topps.
 
 ## Nghệ sĩ {#Artists}
 
@@ -51,7 +51,7 @@ categories:
 - Mary Hoàng (175)
 - Lee Kohse (306)
 - Jim Kyle (150)
-- Mike Lilly (xxx)
+- Mike Austin Lily (xxx)
 - Leah Mangue (856)
 - John McCrea (50)
 - Brandon McKinney (150)
@@ -61,7 +61,7 @@ categories:
 - Jake Myler (300)
 - Steve Oatney (100)
 - Jon Ocampo (100)
-- Mike Oeming (100)
+- Mike Austin Đang hoạt động (100)
 - William O'Neill (300)
 - Sean Pence (125)
 - Connie Persampieir (350)

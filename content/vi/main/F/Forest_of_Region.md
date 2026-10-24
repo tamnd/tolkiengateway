@@ -43,19 +43,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/Christopher_Tolkien_-_Forest_of_Region.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/fb/Christopher_Tolkien_-_Forest_of_Region.jpg/320px-Christopher_Tolkien_-_Forest_of_Region.jpg" decoding="async" loading="lazy" width="320" height="187" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/fb/Christopher_Tolkien_-_Forest_of_Region.jpg 1.5x" data-file-width="432" data-file-height="253"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Forest</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Region</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Doriath</td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Forest</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../I/Iathrim.md" title="Iathrim">Iathrim</a></td></tr></tbody></table>
 
-**Rừng của vùng** là một khu rừng, chủ yếu được tạo thành từ [nhựa ruồi](../H/Holly.md). Đầu [Kỷ nguyên thứ nhất](First_Age.md), [Tatyar](../T/Tatyar.md) đã yên nghỉ trong rừng của nó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Rừng Region** là một khu rừng, chủ yếu được tạo thành từ [nhựa ruồi](../H/Holly.md). Vào đầu [Kỷ Đệ Nhất](First_Age.md), [Tatyar](../T/Tatyar.md) đã nghỉ ngơi trong rừng.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Với dân cư là [Sindar](../S/Sindar.md), Vùng hình thành nên phần phía nam và phần lớn hơn của Vương quốc [Doriath](../D/Doriath.md). Nó được bao bọc bởi các con sông [Aros](../A/Aros.md) và [Esgalduin](../E/Esgalduin.md), phía nam [Dor Dínen](../D/Dor_Dínen.md) và [Girdle of Melian](../G/Girdle_of_Melian.md). [Menegroth](../M/Menegroth.md) nằm trong khu rừng của nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Với dân số [Sindar](../S/Sindar.md), Region hình thành nên phần phía nam và phần lớn hơn của Vương quốc [Doriath](../D/Doriath.md). Nó được bao bọc bởi các con sông [Aros](../A/Aros.md) và [Esgalduin](../E/Esgalduin.md), phía nam [Dor Dínen](../D/Dor_Dínen.md) và [Vành đai Melian](../G/Girdle_of_Melian.md). [Menegroth](../M/Menegroth.md) nằm trong rừng của nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Region* được cho là [Doriathrin](../D/Doriathrin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Cơ sở là từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Reg&amp;action=edit&amp;redlink=1" title="Reg (page does not exist)">reg</a></i> ("cây nhựa ruồi"), có lẽ có đuôi địa danh *[-ion](../_/-nd.md)* (\*"holly-land") hoặc đuôi sở hữu cách số nhiều *[-ion](../_/-ion.md)* (như trong [Quenya](../Q/Quenya.md)), có ý nghĩa \*"(Vùng đất) của Hollies".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Region* được cho là [Doriathrin](../D/Doriathrin.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Cơ sở là từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Reg&amp;action=edit&amp;redlink=1" title="Reg (page does not exist)">reg</a></i> ("cây nhựa ruồi"), có lẽ có đuôi địa danh *[-ion](../_/-nd.md)* (\*"holly-land") hoặc đuôi sở hữu cách số nhiều *[-ion](../_/-ion.md)* (như trong [Quenya](../Q/Quenya.md)), có nghĩa \*"(Land) của Hoa huệ".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Lưu ý rằng tên này không liên quan đến từ tiếng Anh "khu vực (đất)" và do đó được phát âm bằng *g* cứng.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Vùng sinh thái](../E/Eregion.md)
+- [Eregion](../E/Eregion.md)
 
 <span></span>
 

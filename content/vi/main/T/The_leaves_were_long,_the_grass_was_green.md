@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Song of Beren and Lúthien"
 ---
 
-Chuyển hướng đến [Bài hát của Beren và Lúthien](../S/Song_of_Beren_and_Lúthien.md).
+Chuyển hướng tới [Bài hát của Beren and Lúthien](../S/Song_of_Beren_and_Lúthien.md).

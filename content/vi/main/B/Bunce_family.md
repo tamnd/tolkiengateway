@@ -24,7 +24,7 @@ langlinks:
     url: "https://kontu.wiki/Bans"
 ---
 
-**Gia đình Bunce** là một gia đình của [Người Hobbit](../H/Hobbits.md). [Mimosa Bunce](../M/Mimosa_Bunce.md) là thành viên duy nhất được ghi nhận trong gia đình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Gia đình Bunce** là gia đình của [Hobbit](../H/Hobbits.md). [Mimosa Bunce](../M/Mimosa_Bunce.md) là thành viên duy nhất được ghi nhận trong gia đình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 However, according to [Samwise Gamgee](../S/Samwise_Gamgee.md)'s poem *[Perry-the-Winkle](../P/Perry-the-Winkle.md)*, there was an "old [Mrs. Bunce](../M/Mrs._Bunce.md)" living in [Michel Delving](../M/Michel_Delving.md); this character might have been based on an actual Hobbit, or just a character in the Hobbit folklore poetry.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 

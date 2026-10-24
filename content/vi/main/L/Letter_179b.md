@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết cho cháu gái của ông <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joan_Anne_Tolkien&amp;action=edit&amp;redlink=1" title="Joan Anne Tolkien (page does not exist)">Joanna</a>, người vừa mới tổ chức sinh nhật lần thứ 11 của mình. Anh bày tỏ sự thích thú với bữa tiệc sinh nhật của cô và gửi những lời chúc tốt đẹp nhất cho một Giáng sinh vui vẻ khi cô chuẩn bị đến thăm Birmingham. Tolkien tặng kèm một món quà nhỏ trị giá 10 shilling, gợi ý rằng bà có thể tìm thấy thứ gì đó thú vị để tiêu nó trong những ngày nghỉ lễ, đồng thời gợi nhớ lại niềm yêu thích đồ ngọt thời thơ ấu của ông.
+Tolkien viết cho cháu gái <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joan_Anne_Tolkien&amp;action=edit&amp;redlink=1" title="Joan Anne Tolkien (page does not exist)">Joanna</a>, người vừa mới tổ chức sinh nhật lần thứ 11 của mình. Ông bày tỏ sự thích thú với bữa tiệc sinh nhật của bà và gửi những lời chúc tốt đẹp nhất cho một Giáng sinh vui vẻ khi bà chuẩn bị đến thăm Birmingham. Tolkien bao gồm một món quà nhỏ bổ sung trị giá 10 shilling, gợi ý rằng bà có thể tìm thấy thứ gì đó thú vị để tiêu nó trong những ngày nghỉ lễ, gợi nhớ lại niềm yêu thích đồ ngọt thời thơ ấu của ông.
 
 Ông lưu ý rằng bà đang lớn lên bao nhiêu, dự đoán rằng bà có thể sẽ sớm đủ cao để hôn lên đỉnh đầu ông. <br>
 

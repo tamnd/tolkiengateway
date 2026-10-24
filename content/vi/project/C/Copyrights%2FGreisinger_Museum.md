@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Greisinger Museum"
 ---
 
-- Quyền do [Bảo tàng Greisinger](../../main/G/Greisinger_Museum.md) cấp thông qua người giữ bản quyền Bernd Greisinger để sử dụng tuyển tập các hình ảnh xuất hiện trên trang web <a class="external text" href="http://www.gmec.ch/en/index.html" rel="noreferrer noopener" target="_blank">Gmec.ch</a> trên Tolkien Gateway.
+- Sự cho phép do [Bảo tàng Greisinger](../../main/G/Greisinger_Museum.md) cấp thông qua người giữ bản quyền Bernd Greisinger để sử dụng tuyển tập các hình ảnh xuất hiện trên trang web <a class="external text" href="http://www.gmec.ch/en/index.html" rel="noreferrer noopener" target="_blank">Gmec.ch</a> trên Tolkien Gateway.
 - Ngày: 24 tháng 2 năm 2014
 - Người dùng đã xin phép: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan)

@@ -33,7 +33,7 @@ infobox:
 
 <i><a class="extiw" href="http://en.wikipedia.org/wiki/Oxford_English_Dictionary" title="wikipedia:Oxford English Dictionary">Từ điển tiếng Anh Oxford</a></i> đã đề xuất đưa từ "hobbit" vào một phần bổ sung mới. Tolkien tuyên bố rằng ông phải biện minh cho tuyên bố của mình rằng đã phát minh ra từ này. Tuyên bố của ông dựa trên khẳng định không được hỗ trợ của ông rằng khi ông phát minh ra nó, ông không biết *then* về bất kỳ trường hợp nào trước hoặc gần trường hợp nào. Trích dẫn những từ bắt đầu bằng *hob-*, Tolkien lưu ý rằng tuyên bố của ông rằng *[hobgoblins](../H/Hobgoblins.md)* là "một loại lớn hơn" là trái ngược với sự thật. Từ duy nhất có ảnh hưởng là "lỗ"; việc troll dùng từ "thỏ" chỉ là một sự xúc phạm.
 
-Tolkien nói rằng sự nghi ngờ về nguồn gốc của từ này đã được đưa ra vào năm 1938 khi một bài đánh giá trên *The Observer*, ký tên "Thói quen", cho rằng từ này đã được sử dụng trong một "câu chuyện cổ tích" cũ 20 năm trước. Cả việc yêu cầu thông tin từ người đánh giá cũng như nghiên cứu sâu rộng đều không phát hiện ra trường hợp trước đó. Tolkien kết thúc bằng câu nói, "Ôi, chúng ta đã dệt nên một mạng lưới rối rắm khi cố gắng hình thành một từ mới!" <br>
+Tolkien nói rằng nghi ngờ về nguồn gốc của từ này đã được đưa ra vào năm 1938 khi một bài đánh giá trên *The Observer*, ký tên "Thói quen", tuyên bố rằng từ này đã được sử dụng trong một "câu chuyện cổ tích" cũ 20 năm trước. Cả việc yêu cầu thông tin từ người đánh giá cũng như nghiên cứu sâu rộng đều không phát hiện ra trường hợp trước đó. Tolkien kết thúc bằng câu nói: "Ôi, chúng ta đã dệt nên một mạng lưới rối rắm khi cố nghĩ ra một từ mới!" <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

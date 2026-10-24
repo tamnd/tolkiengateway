@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Men</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lenglinn</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../R/Rangers_of_the_North.md" title="Rangers of the North">Ranger of the North</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Weaponry</th><td class="tg-infobox-data">Sword</td></tr></tbody></table>
 
-**Lenglinn** là ký tự được tạo riêng cho *[The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*. Ông là [Ranger of the North](../R/Rangers_of_the_North.md) và là thành viên của [Aragorn](../A/Aragorn.md) đại đội đã giúp bảo vệ người Hobbit ở [Buckland](../B/Buckland.md), cụ thể là [Mr. Dưới dốc](../M/Mr._Underhill.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Lenglinn** là ký tự được tạo riêng cho *[The Lord of the Rings Online: Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*. Ông là [Biệt đội miền Bắc](../R/Rangers_of_the_North.md) và là thành viên trong đại đội của [Aragorn](../A/Aragorn.md) đã giúp bảo vệ Hobbit ở [Buckland](../B/Buckland.md), cụ thể là [Mr. Underhill](../M/Mr._Underhill.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

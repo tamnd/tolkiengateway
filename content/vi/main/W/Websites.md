@@ -25,10 +25,10 @@ Trang này đóng vai trò là hướng dẫn cho nhiều **trang web** hữu í
 
 ## Các hiệp hội chính thức {#Official_associations}
 
-### Bất động sản Tolkien {#Tolkien_Estate}
+### Tolkien Estate {#Tolkien_Estate}
 
-- [Di sản Tolkien](../T/Tolkien_Estate.md) — <a class="external free" href="https://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">https://www.tolkienestate.com/</a>
-- [Tolkien Trust](../T/Tolkien_Trust.md) — <a class="external free" href="https://www.tolkientrust.org/" rel="noreferrer noopener" target="_blank">https://www.tolkientrust.org/</a>
+- [Tolkien Estate](../T/Tolkien_Estate.md) — <a class="external free" href="https://www.tolkienestate.com/" rel="noreferrer noopener" target="_blank">https://www.tolkienestate.com/</a>
+- [Tolkien Tin cậy](../T/Tolkien_Trust.md) — <a class="external free" href="https://www.tolkientrust.org/" rel="noreferrer noopener" target="_blank">https://www.tolkientrust.org/</a>
 
 ### Nhà xuất bản {#Publishers}
 
@@ -47,11 +47,11 @@ Trang này đóng vai trò là hướng dẫn cho nhiều **trang web** hữu í
 
 ### Wiki và tài liệu tham khảo {#Wikis_and_references}
 
-- [Cổng Tolkien](../T/Tolkien_Gateway.md) — <a class="external free" href="https://tolkiengateway.net/" rel="noreferrer noopener" target="_blank">https://tolkiengateway.net/</a>
-- Cuốn sách của Thain — <a class="external free" href="https://thainsbook.minastirith.cz/" rel="noreferrer noopener" target="_blank">https://thainsbook.minastirith.cz/</a>
-- [Bách khoa toàn thư về Arda](../E/Encyclopedia_of_Arda.md) — <a class="external free" href="https://www.glyphweb.com/arda/" rel="noreferrer noopener" target="_blank">https://www.glyphweb.com/arda/</a>
+- [Tolkien Gateway](../T/Tolkien_Gateway.md) — <a class="external free" href="https://tolkiengateway.net/" rel="noreferrer noopener" target="_blank">https://tolkiengateway.net/</a>
+- Sách của Thain— <a class="external free" href="https://thainsbook.minastirith.cz/" rel="noreferrer noopener" target="_blank">https://thainsbook.minastirith.cz/</a>
+- [Bách khoa toàn thư Arda](../E/Encyclopedia_of_Arda.md) — <a class="external free" href="https://www.glyphweb.com/arda/" rel="noreferrer noopener" target="_blank">https://www.glyphweb.com/arda/</a>
 - Trung tâm nghiên cứu Henneth Annun — <a class="external free" href="http://henneth-annun.net/" rel="noreferrer noopener" target="_blank">http://henneth-annun.net/</a>
-- Chúa tể của những chiếc nhẫn Wiki — <a class="external free" href="https://lotr.fandom.com/" rel="noreferrer noopener" target="_blank">https://lotr.fandom.com/</a>
+- The Lord of the Rings Wiki — <a class="external free" href="https://lotr.fandom.com/" rel="noreferrer noopener" target="_blank">https://lotr.fandom.com/</a>
 - Fenopaedia - bách khoa toàn thư tiếng Tây Ban Nha của [Elfenomeno.com](../E/Elfenomeno.com.md) - <a class="external free" href="https://www.elfenomeno.com/menu/top/fenopaedia/" rel="noreferrer noopener" target="_blank">https://www.elfenomeno.com/menu/top/fenopaedia/</a>
 
 ### Thư mục {#Bibliographies}
@@ -62,28 +62,28 @@ Trang này đóng vai trò là hướng dẫn cho nhiều **trang web** hữu í
 
 ### Sưu tập và kinh doanh sách {#Book_collecting_and_trading}
 
-- Thư viện Tolkien <a class="external free" href="https://tolkienlibrary.com/" rel="noreferrer noopener" target="_blank">https://tolkienlibrary.com/</a>
-- Hướng dẫn sưu tầm Tolkien <a class="external free" href="https://www.tolkienguide.com/" rel="noreferrer noopener" target="_blank">https://www.tolkienguide.com/</a>
+- Tolkien Thư viện <a class="external free" href="https://tolkienlibrary.com/" rel="noreferrer noopener" target="_blank">https://tolkienlibrary.com/</a>
+- Tolkien Hướng dẫn sưu tầm <a class="external free" href="https://www.tolkienguide.com/" rel="noreferrer noopener" target="_blank">https://www.tolkienguide.com/</a>
 
 ### Ngôn ngữ học {#Linguistics}
 
 - Amanye Tenceli — <a class="external free" href="https://at.boktypografen.se/" rel="noreferrer noopener" target="_blank">https://at.boktypografen.se/</a>
 - [Ardalambion](../A/Ardalambion.md) — <a class="external free" href="http://ardalambion.net/" rel="noreferrer noopener" target="_blank">http://ardalambion.net/</a>
 - [Eldamo](../E/Eldamo.md) — <a class="external free" href="https://eldamo.org/" rel="noreferrer noopener" target="_blank">https://eldamo.org/</a>
-- [Học bổng ngôn ngữ Elf](../E/Elvish_Linguistic_Fellowship.md) — <a class="external free" href="https://www.elvish.org/" rel="noreferrer noopener" target="_blank">https://www.elvish.org/</a>
+- [Elvish Học bổng ngôn ngữ](../E/Elvish_Linguistic_Fellowship.md) — <a class="external free" href="https://www.elvish.org/" rel="noreferrer noopener" target="_blank">https://www.elvish.org/</a>
 - Hiệp hội Ngôn ngữ Thế giới (WELA) — <a class="external free" href="https://www.facebook.com/eldalambe" rel="noreferrer noopener" target="_blank">https://www.facebook.com/eldalambe</a>
 - Lambendili (TS Tây Ban Nha) — <a class="external free" href="http://lambendili.sociedadtolkien.org/" rel="noreferrer noopener" target="_blank">http://lambendili.sociedadtolkien.org/</a>
 
 ## Tổ chức người hâm mộ {#Fan_organizations}
 
-### [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) {#Tolkien_Societies}
+### [Tolkien Xã hội](../T/Tolkien_Societies~67099.md) {#Tolkien_Societies}
 
-- [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) — <a class="external free" href="https://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">https://www.tolkiensociety.org/</a>
+- [Hội Tolkien](../T/The_Tolkien_Society.md) — <a class="external free" href="https://www.tolkiensociety.org/" rel="noreferrer noopener" target="_blank">https://www.tolkiensociety.org/</a>
 - [Hiệp hội Tolkien Tây Ban Nha](../S/Spanish_Tolkien_Society.md) — <a class="external free" href="https://www.sociedadtolkien.org/" rel="noreferrer noopener" target="_blank">https://www.sociedadtolkien.org/</a>
 - [Hội thần thoại](../M/Mythopoeic_Society.md) - <a class="external free" href="https://www.mythsoc.org/" rel="noreferrer noopener" target="_blank">https://www.mythsoc.org/</a>
-    - Sáp nhập với [Hiệp hội Tolkien Hoa Kỳ](../T/Tolkien_Society_of_America.md) tại [1972](../_/1972.md)
+    - Đã hợp nhất với [Tolkien Society of America](../T/Tolkien_Society_of_America.md) trong [1972](../_/1972.md)
 - [Arthedain (Norges Tolkienforeninn)](<../A/Arthedain_(Tolkien_Society).md>) - <a class="external free" href="https://www.arthedain.org/" rel="noreferrer noopener" target="_blank">https://www.arthedain.org/</a>
-- [Tolkiendil (xã hội Tolkien)](<../T/Tolkiendil_(Tolkien_society).md>) - <a class="external free" href="https://www.tolkiendil.com/" rel="noreferrer noopener" target="_blank">https://www.tolkiendil.com/</a>
+- [Tolkiendil (Tolkien xã hội)](<../T/Tolkiendil_(Tolkien_society).md>) - <a class="external free" href="https://www.tolkiendil.com/" rel="noreferrer noopener" target="_blank">https://www.tolkiendil.com/</a>
 
 ### Tin tức? {#News?}
 
@@ -100,18 +100,18 @@ Trang này đóng vai trò là hướng dẫn cho nhiều **trang web** hữu í
 ### Chỉ mục và tài liệu tham khảo {#Indexes_and_references}
 
 - [Dự án Tolkien kỹ thuật số](../D/Digital_Tolkien_Project.md) — <a class="external free" href="https://digitaltolkien.com/" rel="noreferrer noopener" target="_blank">https://digitaltolkien.com/</a>
-- Chỉ mục nghệ thuật Tolkien — <a class="external free" href="https://tai.tolkienists.org/" rel="noreferrer noopener" target="_blank">https://tai.tolkienists.org/</a>
+- Tolkien Mục lục nghệ thuật — <a class="external free" href="https://tai.tolkienists.org/" rel="noreferrer noopener" target="_blank">https://tai.tolkienists.org/</a>
 
 ## Kênh YouTube độc ​​lập {#Independent_YouTube_channels}
 
-- Con đường Ælfwine — <a class="external free" href="https://www.youtube.com/@lfwinesroad3399" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@lfwinesroad3399</a>
-- [Hội đồng Nhẫn](../C/Council_of_the_Rings.md) - <a class="external free" href="https://www.youtube.com/@counciloftherings" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@counciloftherings</a>
+Đường của - Ælfwine— <a class="external free" href="https://www.youtube.com/@lfwinesroad3399" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@lfwinesroad3399</a>
+- [Hội đồng của những chiếc Nhẫn](../C/Council_of_the_Rings.md) - <a class="external free" href="https://www.youtube.com/@counciloftherings" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@counciloftherings</a>
 - [Darth Gandalf](../D/Darth_Gandalf.md) — <a class="external free" href="https://www.youtube.com/@DarthGandalfYT" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@DarthGandalfYT</a>
 - GirlNextGondor — <a class="external free" href="https://www.youtube.com/@GirlNextGondor" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@GirlNextGondor</a>
 - Trong Deep Geek — <a class="external free" href="https://www.youtube.com/@InDeepGeek" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@InDeepGeek</a>
-- [Jess of the Shire](../J/Jess_of_the_Shire.md) — <a class="external free" href="https://www.youtube.com/@Jess_of_the_Shire" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@Jess_of_the_Shire</a>
+- [Jess của Shire](../J/Jess_of_the_Shire.md) — <a class="external free" href="https://www.youtube.com/@Jess_of_the_Shire" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@Jess_of_the_Shire</a>
 - Chúa Tể Reings — <a class="external free" href="https://www.youtube.com/@TehLurdOfTehReings" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@TehLurdOfTehReings</a>
 - [Kẻ mọt sách](../N/Nerd_of_the_Rings.md) - <a class="external free" href="https://www.youtube.com/@NerdoftheRings" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@NerdoftheRings</a>
-- Sổ đỏ — <a class="external free" href="https://www.youtube.com/@TheRedBook" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@TheRedBook</a>
+- Sách Đỏ — <a class="external free" href="https://www.youtube.com/@TheRedBook" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@TheRedBook</a>
 - Câu chuyện về những chiếc nhẫn — <a class="external free" href="https://www.youtube.com/@TalesoftheRings" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@TalesoftheRings</a>
-- [Trà với Tolkien](../T/Tea_with_Tolkien.md) — <a class="external free" href="https://www.youtube.com/@teawithtolkien" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@teawithtolkien</a>
+- [Trà có Tolkien](../T/Tea_with_Tolkien.md) — <a class="external free" href="https://www.youtube.com/@teawithtolkien" rel="noreferrer noopener" target="_blank">https://www.youtube.com/@teawithtolkien</a>

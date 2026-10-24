@@ -17,7 +17,7 @@ sort_keys:
 Vào [8 tháng 2](../_/8_February.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho David L. Sands**.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 - **Mô tả:** Thư viết tay.<sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
-- **Chủ đề:** Tolkien bày tỏ sự chấp thuận đối với bản dịch sang tiếng Tây Ban Nha các tác phẩm của ông được đề xuất.
+- **Chủ đề:** Tolkien bày tỏ sự chấp thuận đối với bản dịch sang tiếng Tây Ban Nha các tác phẩm của mình.
 - **Xuất bản:** Không có.
 - **Lưu trữ:** Bản sao của bức thư đánh máy gốc do [Eduardo Segura](../E/Eduardo_Segura.md) tặng, được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 

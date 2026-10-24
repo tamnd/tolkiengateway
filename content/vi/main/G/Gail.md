@@ -13,4 +13,4 @@ categories:
   - "Sindarin adjectives"
 ---
 
-**Gail** là một tính từ trong ngôn ngữ [Sindarin](../S/Sindarin.md), có nghĩa là 'ánh sáng' hoặc 'sáng sủa'.
+**Gail** là tính từ trong ngôn ngữ [Sindarin](../S/Sindarin.md), có nghĩa là 'ánh sáng' hoặc 'sáng sủa'.

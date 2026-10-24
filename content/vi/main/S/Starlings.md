@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Kottarainen"
 ---
 
-**Sáo đá** là một trong nhiều loài chim được tìm thấy ở [Trung địa](../M/Middle-earth.md). Sau cái chết của [Smaug](Smaug.md), nhiều loài chim đã tụ tập quanh [Erebor](../E/Erebor.md). [Thorin](../T/Thorin.md) nhìn thấy trong số đó có "những đàn sáo và đàn [chim sẻ](../F/Finches.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Sáo đá** là một trong nhiều loài chim được tìm thấy ở [Trung Địa](../M/Middle-earth.md). Sau cái chết của [Smaug](Smaug.md), nhiều loài chim đã tụ tập xung quanh [Erebor](../E/Erebor.md). [Thorin](../T/Thorin.md) thấy trong số đó có "những đàn sáo và đàn [chim sẻ](../F/Finches.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-[Tom Bombadil](../T/Tom_Bombadil.md) đề cập đến chim sáo đá trong bài hát *[Hey dol! merry dol! ring a dong dillo!](../H/Hey_dol!_merry_dol!_ring_a_dong_dillo!.md)* ở [Old Forest](../O/Old_Forest.md): "*Ánh sáng đi theo gió và chim sáo đá.*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bản thân ông được so sánh với một con sáo đá khi bước vào căn phòng trong ngôi nhà nơi [hobbit](../H/Hobbits.md) đang ngủ: "Tom đi khắp phòng và huýt sáo như một sáo."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Tom Bombadil](../T/Tom_Bombadil.md) đề cập đến chim sáo đá trong bài hát *[Hey dol! merry dol! ring a dong dillo!](../H/Hey_dol!_merry_dol!_ring_a_dong_dillo!.md)* của ông trong [Khu Rừng Cổ](../O/Old_Forest.md): "*Ánh sáng đi theo gió và chim sáo đá.*"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Bản thân ông được so sánh với một con sáo đá khi bước vào căn phòng trong ngôi nhà của mình nơi các [hobbit](../H/Hobbits.md) đang ngủ: "Tom đang di chuyển trong phòng và huýt sáo như một con sáo đá."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -42,16 +42,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen205.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/AmonHen205.jpg/320px-AmonHen205.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/AmonHen205.jpg/480px-AmonHen205.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/AmonHen205.jpg/640px-AmonHen205.jpg 2x" data-file-width="707" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 205</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Steve Lines</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../M/May.md" title="May">May</a> <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_204.md" title="Amon Hen 204">Amon Hen 204</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_206.md" title="Amon Hen 206">Amon Hen 206</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 205</b> là số thứ hai trăm lẻ năm của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 5](../M/May.md) [2007](../_/2007.md).
+<b><i>Amon Hen</i> 205</b> là số thứ hai trăm lẻ năm của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào [tháng 5](../M/May.md) [2007](../_/2007.md).
 
 ## Nội dung {#Contents}
 
-- Bìa: Chưa có tiêu đề ([Black Rider](../N/Nazgûl.md) trong [Mordor](../M/Mordor.md))
+- Bìa: Chưa có tiêu đề ([Kỵ Sĩ Đen](../N/Nazgûl.md) trong [Mordor](../M/Mordor.md))
     - Bởi: Steve Lines
 - Biên tập
     - Bởi: [Andrew Butler](Andrew_Butler.md)
 - Nội dung
-Thông báo - [Bywater](../B/Bywater.md)
+- [Bywater](../B/Bywater.md) Thông báo
     - Bởi: Malcolm Lindley
 - Thông báo
 - Ngày ghi nhật ký của bạn
@@ -78,11 +78,11 @@ Thông báo - [Oxonmoot](../O/Oxonmoot.md)
     - Bởi: *[Faramir](../F/Faramir.md) (standing in for [B](../B/Beruthiel.md)P)*
 - Phía sau cánh cửa kính
     - Bởi: [Sally Kennett](../S/Sally_Kennett.md)
-- [Aldarion và Erendis](Aldarion_and_Erendis%253A_The_Mariner's_Wife.md) Vợ của người thủy quân lục chiến
+- [Aldarion và Erendis](Aldarion_and_Erendis%253A_The_Mariner's_Wife.md) Vợ của thủy thủ
     - Bởi: Maddalena Tarallo
 - Tác phẩm nghệ thuật: *[Gwaihir](../G/Gwaihir.md) the Windlord...*
     - Bởi: Sandra Blizzard
-- Đánh giá: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lembas_for_the_Soul&amp;action=edit&amp;redlink=1" title="Lembas for the Soul (page does not exist)">Lembas cho tâm hồn</a></i>
+- Đánh giá: <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lembas_for_the_Soul&amp;action=edit&amp;redlink=1" title="Lembas for the Soul (page does not exist)">Lembas cho Tâm hồn</a></i>
     - Bởi: Hilary V. Longstaff
 - Thư
 - Bài thơ: *[Cuiviénen](../C/Cuiviénen.md)*

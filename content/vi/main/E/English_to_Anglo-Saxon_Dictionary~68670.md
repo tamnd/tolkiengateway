@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "English to Anglo-Saxon dictionary"
 ---
 
-Chuyển hướng tới [Từ điển tiếng Anh sang tiếng Anglo-Saxon](English_to_Anglo-Saxon_dictionary.md).
+Chuyển hướng đến [từ điển tiếng Anh sang Anglo-Saxon](English_to_Anglo-Saxon_dictionary.md).

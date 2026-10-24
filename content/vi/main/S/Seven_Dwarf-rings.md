@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Seven Rings"
 ---
 
-Chuyển hướng tới [Bảy chiếc nhẫn](Seven_Rings.md).
+Chuyển hướng đến [Bảy Chiếc Nhẫn](Seven_Rings.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beren (son of Belemir)"
 ---
 
-Chuyển hướng đến [Beren (con trai của Belemir)](<Beren_(son_of_Belemir).md>).
+Chuyển hướng tới [Beren (con trai của Belemir)](<Beren_(son_of_Belemir).md>).

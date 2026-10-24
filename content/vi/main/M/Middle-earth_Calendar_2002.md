@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Calendar_2002.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/eb/Middle-earth_Calendar_2002.jpg/300px-Middle-earth_Calendar_2002.jpg" decoding="async" loading="lazy" width="300" height="214" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/eb/Middle-earth_Calendar_2002.jpg/450px-Middle-earth_Calendar_2002.jpg 1.5x, https://tolkiengateway.net/w/images/e/eb/Middle-earth_Calendar_2002.jpg 2x" data-file-width="490" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Lịch Trung Địa 2002** do [Hiệp hội Tolkien Phần Lan](../F/Finnish_Tolkien_Society.md) sản xuất và có hình minh họa của nhiều nghệ sĩ khác nhau.
+**Trung Địa Lịch 2002** được sản xuất bởi [Hiệp hội Tolkien Phần Lan](../F/Finnish_Tolkien_Society.md) và có hình minh họa của nhiều nghệ sĩ khác nhau.
 
 - Kích thước: 11 5/8 x 8,25 inch
 - Dập ghim

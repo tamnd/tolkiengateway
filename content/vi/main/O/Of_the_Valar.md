@@ -54,4 +54,4 @@ images:
 <dd><b>Part Five: <a href="../M/Myths_Transformed.md" title="Myths Transformed">Myths Transformed</a></b></dd></dl>
 </td></tr></tbody></table>
 
-**Of the Valar** là chương đầu tiên của giai đoạn đầu tiên của [The Later *Quenta Silmarillion*](../T/The_Later_Quenta_Silmarillion.md), được bao gồm trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*.
+**Của Valar** là chương đầu tiên của giai đoạn đầu tiên của [Phần sau *Quenta Silmarillion*](../T/The_Later_Quenta_Silmarillion.md), được bao gồm trong *[Morgoth's Ring](../M/Morgoth's_Ring.md)*.

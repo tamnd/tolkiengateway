@@ -61,7 +61,7 @@ images:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 18 tháng 9
+Sự kiện xảy ra vào ngày 18 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 18 tháng 9
 - **[1955](1955.md)** - Diễn viên lồng tiếng [Bob Papenbrook](../B/Bob_Papenbrook.md) ra đời.
 - **[1963](1963.md)** - Nhà văn [Gary Russell](../G/Gary_Russell.md) ra đời.
 - **[1967](1967.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Elsie Honeybourne](<../L/Letter_to_Elsie_Honeybourne_(18_September_1967).md>).
-- **[1981](1981.md)** - Trích từ "[The Name Coventry](../T/The_Name_Coventry.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản trên *[The Catholic Herald](<../T/The_Catholic_Herald_(18_September_1981).md>)*.
+- **[1981](1981.md)** - Trích từ "[The Name Coventry](../T/The_Name_Coventry.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được xuất bản trong *[The Catholic Herald](<../T/The_Catholic_Herald_(18_September_1981).md>)*.
 - **[1982](1982.md)** - Tập thứ mười của phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1993](1993.md)** - [Oxonmoot 1993](../O/Oxonmoot_1993.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[1994](1994.md)** - [Oxonmoot 1994](../O/Oxonmoot_1994.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
@@ -85,9 +85,9 @@ Sự kiện xảy ra vào ngày 18 tháng 9
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gwaihir](../G/Gwaihir.md) giải cứu [Gandalf](../G/Gandalf.md) khỏi đỉnh cao của [Orthanc](../O/Orthanc.md) vào những giờ đầu.
-    - Các [Kỵ sĩ áo đen](../N/Nazgûl.md) vượt qua [Cạnh cạn Isen](../F/Fords_of_Isen.md).
-    - Các kỵ sĩ đen đến thăm [Saruman](../S/Saruman.md), người nói dối rằng Gandalf đã "thú nhận" và chỉ đường cho họ đến [Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Gwaihir](../G/Gwaihir.md) giải cứu [Gandalf](../G/Gandalf.md) khỏi đỉnh điểm của [Orthanc](../O/Orthanc.md) vào đầu giờ.
+    - Con [Kỵ sĩ Đen](../N/Nazgûl.md) vượt qua [Cạnh cạn Isen](../F/Fords_of_Isen.md).
+    - Người Kỵ sĩ Đen đến thăm [Saruman](../S/Saruman.md) nói dối rằng Gandalf đã "thú tội" và chỉ đường cho [ Shire](../T/The_Shire.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 
 <span></span>

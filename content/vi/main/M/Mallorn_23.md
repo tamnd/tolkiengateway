@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn_23.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/31/Mallorn_23.jpg/320px-Mallorn_23.jpg" decoding="async" loading="lazy" width="320" height="465" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/Mallorn_23.jpg/480px-Mallorn_23.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/31/Mallorn_23.jpg/640px-Mallorn_23.jpg 2x" data-file-width="2359" data-file-height="3425"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 23</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Denis Bridoux</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://hanwayprint.com/" rel="noreferrer noopener" target="_blank">Hanway Print Centre</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1986.md" title="1986">1986</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">40</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_22.md" title="Mallorn 22">Mallorn 22</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_24.md" title="Mallorn 24">Mallorn 24</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 23</b> là số thứ 23 của tạp chí thường niên [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, được xuất bản vào mùa hè năm [1986](../_/1986.md). Số báo có bài thơ *[Goblin Feet](../G/Goblin_Feet.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<b><i>Mallorn</i> 23</b> là số thứ 23 của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào mùa hè năm [1986](../_/1986.md). Số báo có bài thơ *[Goblin Feet](../G/Goblin_Feet.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Nội dung {#Contents}
 
@@ -66,13 +66,13 @@ infobox:
     - Bởi: [Christina Scull](../C/Christina_Scull.md)
 - *[Goblin Feet](../G/Goblin_Feet.md)*
     - Bởi: [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
-- Thư Mallorn: Thư gửi Biên tập viên
+- Mallorn Thư: Thư gửi Ban biên tập
 - Nghệ thuật: Khu vườn Irmo
     - Bởi: Howard Bates
-- *Bài hát cuối cùng của Yêu tinh vào ngày tận thế*
+- *Bài hát cuối cùng của Tiên vào lúc kết thúc*
     - Bởi: Jeremy Morgan
 - Viết ở đâu
-- [Hiệp hội Tolkien](../T/The_Tolkien_Society.md)
+- [Hội Tolkien](../T/The_Tolkien_Society.md)
 
 - Nghệ thuật bên trong
     - Bởi: Steve Lines, [Ted Nasmith](../T/Ted_Nasmith.md), Howard Bates, [Brian Sibley](../B/Brian_Sibley.md), Denis Bridoux, Timo Raittila, [Kay Woollard](../K/Kay_Woollard.md)
@@ -81,4 +81,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/24/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/24/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

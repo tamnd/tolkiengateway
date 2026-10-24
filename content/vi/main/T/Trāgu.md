@@ -19,7 +19,7 @@ langlinks:
     url: "https://kontu.wiki/Tr%C4%81gu"
 ---
 
-<i><b>Trāgu</b></i> là tên của [rồng](../D/Dragons.md) [Smaug](../S/Smaug.md) trong [ngôn ngữ của Dale](../L/Language_of_Dale.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Trāgu</b></i> là tên của [rồng](../D/Dragons.md) [Smaug](../S/Smaug.md) trong [ngôn ngữ Dale](../L/Language_of_Dale.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -27,9 +27,9 @@ Có ý kiến ​​​​cho rằng từ này dường như xuất phát từ [
 
 ## Các từ liên quan {#Related_words}
 
-- [Người Mannish phía Bắc](../N/Northern_Mannish.md) *[trahald](Trahald.md)* "[Sméagol](../S/Sméagol.md)"
-- [Tiếng Rohan](../R/Rohanese.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Trahan&amp;action=edit&amp;redlink=1" title="Trahan (page does not exist)">trahan</a></i> "hang"
-- [Hobbit](../H/Hobbitish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tr%C3%A2n&amp;action=edit&amp;redlink=1" title="Trân (page does not exist)">trân</a></i> "[smial](../S/Smial.md)"
+- [Người Mannish miền Bắc](../N/Northern_Mannish.md) *[trahald](Trahald.md)* "[Sméagol](../S/Sméagol.md)"
+- [Rohanese](../R/Rohanese.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Trahan&amp;action=edit&amp;redlink=1" title="Trahan (page does not exist)">trahan</a></i> "hang"
+- [Hobbitish](../H/Hobbitish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tr%C3%A2n&amp;action=edit&amp;redlink=1" title="Trân (page does not exist)">trân</a></i> "[mỉm](../S/Smial.md)"
 
 <span></span>
 

@@ -13,7 +13,7 @@ categories:
   - "Quenya verbs"
 ---
 
-<i><b>sil-</b></i> có nghĩa là "tỏa sáng" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó ám chỉ ánh sáng trắng hoặc bạc, thường được sử dụng khi mô tả [các ngôi sao](Stars.md) hoặc [Mặt trăng](../M/Moon.md).<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
+<i><b>sil-</b></i> có nghĩa là "tỏa sáng" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó ám chỉ ánh sáng trắng hoặc bạc, thường được sử dụng khi mô tả [các ngôi sao](Stars.md) hoặc [Mặt Trăng](../M/Moon.md).<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

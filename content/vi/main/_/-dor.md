@@ -29,7 +29,7 @@ images:
 - <i><a href="../G/Gildor.md" title="Gildor">Gil<b>dor</b></a></i> = "Chúa tể ngôi sao"
 - <i><a href="../G/Gwindor.md" title="Gwindor">Gwin<b>dor</b></a></i> = "Lãnh chúa mới"
 - <i><a href="../M/Meneldor.md" title="Meneldor">Menel<b>dor</b></a></i> = "Chúa tể của thiên đường"
-- <i><a href="../T/Thorondor.md" title="Thorondor">Thoron<b>dor</b></a></i> = "Vua đại bàng"
+- <i><a href="../T/Thorondor.md" title="Thorondor">Thoron<b>dor</b></a></i> = "Vua của Đại Bàng"
 
 <span></span>
 

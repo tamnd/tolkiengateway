@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éowyn"
 ---
 
-Chuyển hướng tới [Éowyn](../_/Éowyn.md).
+Chuyển hướng đến [Éowyn](../_/Éowyn.md).

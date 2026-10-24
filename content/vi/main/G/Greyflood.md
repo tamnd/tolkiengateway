@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gwathló"
 ---
 
-Chuyển hướng tới [Gwathló](Gwathló.md).
+Chuyển hướng đến [Gwathló](Gwathló.md).

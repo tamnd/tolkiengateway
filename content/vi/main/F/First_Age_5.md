@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="../Y/Year_of_the_Trees_1500.md" title="Year of the Trees 1500">1500</a><a href="First_Age_1.md" title="First Age 1">1</a><a href="First_Age_2.md" title="First Age 2">2</a><a class="mw-selflink selflink">5</a><a href="First_Age_6.md" title="First Age 6">6</a><a href="First_Age_7.md" title="First Age 7">7</a><a href="First_Age_20.md" title="First Age 20">20</a></div></div></div></div></div></div>
 
-**Kỷ thứ nhất 5** (viết tắt là **F.A. 5**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 5 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 5** (viết tắt là **F.A. 5**) là [năm thứ 5 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Fingon](Fingon.md), với sự giúp đỡ của [Thorondor](../T/Thorondor.md), giải cứu [Maedhros](../M/Maedhros.md) khỏi [Thangorodrim](../T/Thangorodrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
-- Mối thù hận giữa [Nhà Fëanor](../H/House_of_Fëanor.md) và [Nhà Fingolfin](../H/House_of_Fingolfin.md) đã được xoa dịu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Fingon](Fingon.md), với sự trợ giúp của [Thorondor](../T/Thorondor.md), giải cứu [Maedhros](../M/Maedhros.md) khỏi [Thangorodrim](../T/Thangorodrim.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Mối thù hận giữa [Nhà Fëanor](../H/House_of_Fëanor.md) và [Gia tộc Fingolfin](../H/House_of_Fingolfin.md) đã được xoa dịu.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -29,13 +29,13 @@ langlinks:
     url: "https://kontu.wiki/Entuless%C3%AB"
 ---
 
-**Entulessë** là một con tàu được chèo lái bởi thủy thủ [Númenórean](../N/Númenóreans.md) vĩ đại [Vëantur](../V/Vëantur.md), người [Thuyền trưởng các con tàu của Nhà vua](../C/Captain_of_the_King's_Ships.md) vào thời [Tar-Elendil](../T/Tar-Elendil.md), vị Vua thứ tư của [Númenor](../N/Númenor.md). Sau gần sáu trăm năm, Entulessë là con tàu Númenórean đầu tiên thực hiện hành trình quay trở lại [Trung Địa](../M/Middle-earth.md) băng qua [Biển Lớn](../B/Belegaer.md).
+**Entulessë** là một con tàu được điều khiển bởi thủy thủ [Númenórean](../N/Númenóreans.md) vĩ đại [Vëantur](../V/Vëantur.md), người là [Thuyền trưởng của các con tàu Vua](../C/Captain_of_the_King's_Ships.md) vào thời [Tar-Elendil](../T/Tar-Elendil.md), con tàu Vua thứ tư của [Númenor](../N/Númenor.md). Sau gần sáu trăm năm, Entulessë là con tàu Númenórean đầu tiên thực hiện hành trình quay trở lại [Trung Địa](../M/Middle-earth.md) băng qua [Đại Hải](../B/Belegaer.md).
 
-Theo lịch sử của Númenor, Vëantur đã lái con tàu vào bến cảng [Grey Havens](../G/Grey_Havens.md) vào mùa xuân [S.A.](../S/Second_Age.md) [600](../S/Second_Age_600.md). [Gil-galad](../G/Gil-galad.md) vẫn còn là Vua ở [Lindon](../L/Lindon.md) vào thời điểm đó, và Vëantur vẫn ở lại vùng đất của ông ấy trong vài tháng. Khi năm sau chuyển sang mùa thu, Entulessë lại ra khơi, bắt đầu cuộc hành trình dài về nhà Númenor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Theo lịch sử của Númenor, Vëantur đã đưa con tàu vào bến cảng [Cảng Xám](../G/Grey_Havens.md) vào mùa xuân năm [S.A.](../S/Second_Age.md) [600](../S/Second_Age_600.md). [Gil-galad](../G/Gil-galad.md) vẫn còn Vua ở [Lindon](../L/Lindon.md) vào thời điểm đó, và Vëantur vẫn ở lại vùng đất của mình trong vài tháng. Khi năm sau chuyển sang mùa thu, Entulessë lại ra khơi, bắt đầu cuộc hành trình dài về nhà Númenor.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên của nó có nghĩa là 'Sự trở lại' trong [Quenya](../Q/Quenya.md), ám chỉ chuyến hành trình nổi tiếng của nó về phía đông tới [Trung Địa](../M/Middle-earth.md). Nó kết hợp *[en-](En-.md)* "lại" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%BBl&amp;action=edit&amp;redlink=1" title="Tûl (page does not exist)">Tûl</a></i> "đến" cũng như đuôi danh từ *[-sse](../_/-sse.md)*. <span></span>
+Tên của nó có nghĩa là trong [Quenya](../Q/Quenya.md) 'Trở về', ám chỉ chuyến hành trình nổi tiếng của nó về phía đông tới [Trung Địa](../M/Middle-earth.md). Nó kết hợp *[en-](En-.md)* "lại" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=T%C3%BBl&amp;action=edit&amp;redlink=1" title="Tûl (page does not exist)">Tûl</a></i> "đến" cũng như đuôi danh từ *[-sse](../_/-sse.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

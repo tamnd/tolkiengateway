@@ -62,7 +62,7 @@ Vào năm 2014, [Cubicle 7 Entertainment](../C/Cubicle_7_Entertainment.md) đã 
 
 ## Lễ tân {#Reception}
 
-Trong bài đánh giá cho [Other Minds 13](../O/Other_Minds_13.md), Neville Percy nhận thấy rằng trò chơi này đã tạo nên sự khác biệt so với những nỗ lực trước đó khi được thiết kế ngay từ đầu như một trò chơi nhập vai ở Trung Địa và bằng cách nuôi dưỡng "phong cách chơi kể chuyện và hợp tác".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+Trong bài đánh giá cho [Other Minds 13](../O/Other_Minds_13.md), Neville Percy nhận thấy rằng trò chơi này đã tạo nên sự khác biệt so với những nỗ lực trước đó bằng cách được thiết kế ngay từ đầu như một trò chơi nhập vai Trung Địa và bằng cách nuôi dưỡng "phong cách chơi kể chuyện và hợp tác".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

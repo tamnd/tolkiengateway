@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elves of Nargothrond"
 ---
 
-Chuyển hướng đến [Yêu tinh Nargothrond](../E/Elves_of_Nargothrond.md).
+Chuyển hướng đến [Các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md).

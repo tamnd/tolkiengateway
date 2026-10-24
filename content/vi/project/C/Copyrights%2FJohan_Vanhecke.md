@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - Người giữ bản quyền [Johan Vanhecke](../../main/J/Johan_Vanhecke.md) cấp quyền sử dụng tệp [Johan Vanhecke.jpg](../../file/J/Johan_Vanhecke.jpg.md) trên Tolkien Gateway.
-- Ngày: 16 tháng 9 năm 2013.
+- Ngày: 16 tháng Chín năm 2013.
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

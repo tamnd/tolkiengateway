@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Rasmussen, Kip"
 ---
 
-- Kip Rasmussen đã vui lòng cho phép ông sử dụng tác phẩm nghệ thuật được chọn trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Kip Rasmussen đã vui lòng cho phép ông sử dụng tác phẩm nghệ thuật được chọn trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 15 tháng 8 năm 2015
 - Người dùng đã xin phép qua tin nhắn riêng tư: [Người dùng:Orvol cinats](https://tolkiengateway.net/wiki/User:Orvol_cinats)

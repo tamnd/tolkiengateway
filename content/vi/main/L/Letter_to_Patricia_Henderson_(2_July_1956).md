@@ -13,7 +13,7 @@ categories:
   - "Letters"
 ---
 
-Vào [2 tháng 7](../_/2_July.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md)** gửi **Patricia Henderson**.
+Vào [2 tháng 7](../_/2_July.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md)** cho **Patricia Henderson**.
 
 - **Chủ đề:** Tolkien từ chối lời mời đến nói chuyện tại Cambridge với "*greatest regret*" vì ông là "*absolutely loaded up with work*". Ông ta nói rằng ông ta có "*wasted \[his\] time for years*", bỏ qua "*long long overdue philological stuff*".
 - **Xuất bản:** Không có.
@@ -21,4 +21,4 @@ Vào [2 tháng 7](../_/2_July.md) [1956](../_/1956.md), [J.R.R. Tolkien](../J/J.
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.tolkienguide.com/guide/letters/246" rel="noreferrer noopener" target="_blank">Thư gửi Patricia Henderson</a> trên TolkienGuide.com
-- <a class="external text" href="https://vm.tiktok.com/ZM2qPLsJ7/" rel="noreferrer noopener" target="_blank">Video và đoạn đọc ngắn từ bức thư</a> của Reid Moon trên TikTok
+- <a class="external text" href="https://vm.tiktok.com/ZM2qPLsJ7/" rel="noreferrer noopener" target="_blank">Video và đoạn đọc ngắn lá thư</a> của Reid Mặt Trăng trên TikTok

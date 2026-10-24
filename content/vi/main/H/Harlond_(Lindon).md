@@ -42,17 +42,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Harbour</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Harlond</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../L/Lindon.md" title="Lindon">Lindon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Harbour</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../E/Elves_of_Lindon.md" title="Elves of Lindon">Elves of Lindon</a></td></tr></tbody></table>
 
-**Harlond** là thiên đường của [Yêu tinh](../E/Elves.md) trên bờ biển phía nam của [Vịnh Lhûn](../G/Gulf_of_Lune.md). Nó nằm ở một vịnh nhỏ cách [Mithlond](../G/Grey_Havens.md) khoảng 150 dặm về phía tây nam, bên hông [Harlindon](Harlindon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Harlond** là thiên đường của [Tiên tộc](../E/Elves.md) trên bờ biển phía nam của [Vịnh Lhûn](../G/Gulf_of_Lune.md). Nó nằm ở một vịnh nhỏ cách [Mithlond](../G/Grey_Havens.md) khoảng 150 dặm về phía tây nam, bên hông [Harlindon](Harlindon.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Người ta kể rằng hạm đội [Eärnur](../E/Eärnur.md) đến [Lindon](../L/Lindon.md) trong [Chiến tranh Angmar](../A/Angmar_War.md), đã lấp đầy các bến cảng Harlond, [Forlond](../F/Forlond.md) và [Grey Havens](../G/Grey_Havens.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Người ta kể rằng hạm đội [Eärnur](../E/Eärnur.md) đến [Lindon](../L/Lindon.md) trong [Cuộc chiến Angmar](../A/Angmar_War.md), lấp đầy các bến cảng Harlond, [Forlond](../F/Forlond.md) và [Cảng Xám](../G/Grey_Havens.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên [Sindarin](../S/Sindarin.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> *Harlond* được dịch là "Southhaven".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> *Harlond* dường như bao gồm *[harn](Harn.md)* ("nam") + *[lond](../L/Lond.md)* ("haven").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Tên [Sindarin](../S/Sindarin.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> *Harlond* được dịch là "Southhaven".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> *Harlond* dường như bao gồm *[harn](Harn.md)* ("south") + *[lond](../L/Lond.md)* ("haven").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng trên [Bản đồ đầu tiên của Chúa tể những chiếc nhẫn](../T/The_First_Map_of_The_Lord_of_the_Rings.md) là *Harlorn*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Tên được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng trên [Bản đồ đầu tiên của The Lord of the Rings](../T/The_First_Map_of_The_Lord_of_the_Rings.md) là *Harlorn*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Xem thêm {#See_also}
 

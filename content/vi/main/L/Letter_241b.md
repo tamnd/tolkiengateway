@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien phản hồi việc [Rayner Unwin](../R/Rayner_Unwin.md) thừa nhận tham gia vào việc tạo ra <a class="extiw" href="http://en.wikipedia.org/wiki/Festschrift" title="wikipedia:Festschrift">Festschrift</a> để vinh danh ông. Tolkien gọi nỗ lực này một cách hài hước là một "âm mưu thuốc súng" được phát hiện gần như vào dịp kỷ niệm <a class="external text" href="https://en.wikipedia.org/wiki/Gunpowder%20Plot" rel="noreferrer noopener" target="_blank">Âm mưu thuốc súng</a>lịch sử. Bất chấp sự cảnh giác thường ngày của mình, Tolkien không hề hay biết về kế hoạch nhằm mục đích "cho nổ tung ông ta" bằng lời khen ngợi hơn là làm hại.
+Tolkien phản hồi việc [Rayner Unwin](../R/Rayner_Unwin.md) thừa nhận tham gia vào việc tạo ra <a class="extiw" href="http://en.wikipedia.org/wiki/Festschrift" title="wikipedia:Festschrift">Festschrift</a> để vinh danh ông. Tolkien gọi một cách hài hước nỗ lực này là một "âm mưu thuốc súng" được phát hiện gần như vào dịp kỷ niệm <a class="external text" href="https://en.wikipedia.org/wiki/Gunpowder%20Plot" rel="noreferrer noopener" target="_blank">Âm mưu thuốc súng</a>lịch sử. Bất chấp sự cảnh giác thường ngày của mình, Tolkien không hề hay biết về kế hoạch nhằm mục đích "thổi bay ông ta" bằng lời khen hơn là làm hại.
 
-Việc tiết lộ rằng ông ta sẽ được vinh danh là một cú sốc thú vị đối với ông ta. Anh bày tỏ sự vui mừng và biết ơn khi dự án được [Allen & Unwin](../A/Allen_&_Unwin.md) đảm nhận và gọi đây là một hành động cao cả. <br>
+Việc tiết lộ rằng ông ta sẽ được vinh danh là một cú sốc thú vị đối với ông ta. Anh bày tỏ sự vui mừng và biết ơn khi dự án được [Allen &amp; Unwin](../A/Allen_&_Unwin.md) đảm nhận và gọi đây là một hành động cao cả. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

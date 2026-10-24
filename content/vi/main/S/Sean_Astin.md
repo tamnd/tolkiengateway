@@ -46,13 +46,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Sean_Astin.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/be/Sean_Astin.jpg/320px-Sean_Astin.jpg" decoding="async" loading="lazy" width="320" height="443" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/be/Sean_Astin.jpg/480px-Sean_Astin.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/be/Sean_Astin.jpg/640px-Sean_Astin.jpg 2x" data-file-width="936" data-file-height="1297"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Sean Astin</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/25_February.md" title="25 February">25 February</a> <a href="../_/1971.md" title="1971">1971</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="Samwise_Gamgee.md" title="Samwise Gamgee">Sam</a> in:<br/><a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0000276/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Sean Patrick Astin** (tên khai sinh [1971](../_/1971.md)) là một diễn viên điện ảnh người Mỹ từng đóng vai [Samwise Gamgee](Samwise_Gamgee.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>) và một số trò chơi gắn liền với nhượng quyền thương mại.
+**Sean Patrick Astin** (tên khai sinh [1971](../_/1971.md)) là một diễn viên điện ảnh người Mỹ từng đóng [Samwise Gamgee](Samwise_Gamgee.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>) và một số trò chơi gắn liền với nhượng quyền thương mại.
 
 ## Lịch sử {#History}
 
 Điều thú vị là ông luôn đếm tỉ mỉ những lần được đeo *hobbit feet* và sau đó đôi chân không bao giờ "trong tầm bắn".
 
-Ông bị chấn thương khi quay cảnh ở [Parth Galen](../P/Parth_Galen.md) khi Sam chạy xuống sông sau [Frodo](../F/Frodo_Baggins.md) — có một mảnh thủy tinh ở lòng sông và bàn chân của Astin bị đâm thủng và chảy rất nhiều máu. Bất chấp chấn thương, ông đã trở lại phim trường vào ngày hôm sau.
+Ông bị thương khi quay cảnh [Parth Galen](../P/Parth_Galen.md) khi Sam chạy xuống sông sau [Frodo](../F/Frodo_Baggins.md) - lòng sông có một mảnh kính vỡ và bàn chân của Astin bị đâm thủng và chảy máu rất nhiều. Bất chấp chấn thương, ông đã trở lại phim trường vào ngày hôm sau.
 
 Cha mẹ anh đều làm việc trong lĩnh vực điện ảnh: cha anh John Astin đã tạo ra nhân vật Gomez Addams trong bộ phim truyền hình "The Addams Family" trong khi mẹ anh, Patty Duke, đã giành được giải Oscar cho vai diễn trong "The Miracle Worker".
 
@@ -68,7 +68,7 @@ Cha mẹ anh đều làm việc trong lĩnh vực điện ảnh: cha anh John As
 - [2003](../_/2003.md): *[The Long and Short of It](../T/The_Long_and_Short_of_It.md)* (giám đốc)
 - [2002](../_/2002.md): *[The Making of The Lord of the Rings](../T/The_Making_of_The_Lord_of_the_Rings.md)*: Chính mình
 - [2002](../_/2002.md): *[The Lord of the Rings: The Two Towers](../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md)*: Samwise Gamgee
-- [2002](../_/2002.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Day_in_the_Life_of_a_Hobbit&amp;action=edit&amp;redlink=1" title="A Day in the Life of a Hobbit (page does not exist)">Một ngày trong cuộc đời của một người Hobbit</a></i>: Chính mình
+- [2002](../_/2002.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A_Day_in_the_Life_of_a_Hobbit&amp;action=edit&amp;redlink=1" title="A Day in the Life of a Hobbit (page does not exist)">Một ngày trong cuộc đời của một Hobbit</a></i>: Chính mình
 - [2001](../_/2001.md): *[Beyond the Movie: The Fellowship of the Ring](../B/Beyond_the_Movie%253A_The_Fellowship_of_the_Ring.md)*: Chính mình
 - [2001](../_/2001.md): *[The Lord of the Rings: The Fellowship of the Ring](../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md)*: Samwise Gamgee
 - [2001](../_/2001.md): *[Quest for the Ring](../Q/Quest_for_the_Ring.md)*: Chính mình
@@ -105,12 +105,12 @@ Cha mẹ anh đều làm việc trong lĩnh vực điện ảnh: cha anh John As
 - 2003 - <b><a class="external text" href="http://www.vesawards.com/awards/" rel="noreferrer noopener" target="_blank">Giải thưởng VES</a></b>, Diễn xuất xuất sắc của nam hoặc nữ diễn viên trong phim hiệu ứng, *Peter Jackson's The Two Towers*
 - 2003 - <b><a class="external text" href="http://www.mtv.com/" rel="noreferrer noopener" target="_blank">Giải thưởng điện ảnh MTV</a></b>, Đội ngũ xuất sắc nhất trên màn ảnh, *Peter Jackson's The Two Towers*
 - 2003 - <b><a class="extiw" href="http://en.wikipedia.org/wiki/Seattle_Film_Critics_Awards_2003" title="wikipedia:Seattle Film Critics Awards 2003">Giải thưởng SFC</a></b>, Nam diễn viên phụ xuất sắc nhất, *[The Lord of the Rings: The Return of the King](../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*
-- [2004](../_/2004.md) - <b><a class="external text" href="http://www.lvfcs.org/" rel="noreferrer noopener" target="_blank">Giải thưởng Sierra</a></b>, Nam diễn viên phụ xuất sắc nhất, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - <b><a class="external text" href="http://www.bfca.org/" rel="noreferrer noopener" target="_blank">Giải thưởng Sự lựa chọn của các nhà phê bình</a></b>, Dàn diễn viên xuất sắc nhất, *Sự trở lại của nhà vua của Peter Jackson*
+- [2004](../_/2004.md) - <b><a class="external text" href="http://www.lvfcs.org/" rel="noreferrer noopener" target="_blank">Giải thưởng Sierra</a></b>, Nam diễn viên phụ xuất sắc nhất, The Return of the King* của *Peter Jackson
+- 2004 - <b><a class="external text" href="http://www.bfca.org/" rel="noreferrer noopener" target="_blank">Giải thưởng Sự lựa chọn của Nhà phê bình</a></b>, Dàn diễn viên xuất sắc nhất, The Return of the King* của *Peter Jackson
 - 2004 - <b><a class="external text" href="http://www.nbrmp.org/" rel="noreferrer noopener" target="_blank">Giải thưởng NBR</a></b>, Nhóm diễn xuất xuất sắc nhất (được chia sẻ với phần trước)
-- 2004 - **Giải thưởng VES**, Diễn xuất xuất sắc nhất của nam diễn viên trong phim hiệu ứng, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, *Sự trở lại của nhà vua của Peter Jackson*
-- 2004 - <b><a class="external text" href="http://www.saturnawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng Sao Thổ</a></b>, Nam diễn viên phụ xuất sắc nhất, *Sự trở lại của nhà vua của Peter Jackson*
+- 2004 - **Giải thưởng VES**, Diễn xuất xuất sắc nhất của nam diễn viên trong phim hiệu ứng, *Peter Jackson's The Return of the King*
+- 2004 - <b><a class="external text" href="http://www.sagawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng SAG</a></b>, Diễn xuất xuất sắc của dàn diễn viên trong phim điện ảnh, The Return of the King* của *Peter Jackson
+- 2004 - <b><a class="external text" href="http://www.saturnawards.org/" rel="noreferrer noopener" target="_blank">Giải thưởng Sao Thổ</a></b>, Nam diễn viên phụ xuất sắc nhất, The Return of the King* của *Peter Jackson
 
 ## Liên kết ngoài {#External_links}
 

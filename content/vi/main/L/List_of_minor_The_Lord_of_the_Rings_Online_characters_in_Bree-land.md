@@ -60,19 +60,19 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Aldred Cartwright {#Aldred_Cartwright}
 
-**Aldred Cartwright** là huấn luyện viên vô địch trong [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-0" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Trong phần Giới thiệu Bree-land, [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>) cử người chơi vô địch đến gặp ông để ông có thể cải thiện kỹ năng của người chơi.<sup id="cite_ref-ReferenceB_2-0" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
+**Aldred Cartwright** là huấn luyện viên vô địch ở [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-0" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Trong phần Bree-land Giới thiệu, [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>) cử người chơi vô địch đến gặp ông để ông có thể cải thiện kỹ năng của người chơi.<sup id="cite_ref-ReferenceB_2-0" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
 
 ## Ann Granger {#Ann_Granger}
 
-**Ann Granger** là một phụ nữ của [Archet](../A/Archet.md) được tìm thấy gần Hunter's Lodge.<sup id="cite_ref-ReferenceA_1-1" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ban đầu bà nắm giữ một trang trại ở Archet-Dale nhưng bị [Blackwolds](../B/Blackwolds.md) đuổi ra ngoài và gia nhập đội thợ săn của [Jon Brackenbrook](../J/Jon_Brackenbrook.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Ann Granger** là một phụ nữ của [Archet](../A/Archet.md) được tìm thấy gần Hunter's Lodge.<sup id="cite_ref-ReferenceA_1-1" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ban đầu bà nắm giữ một trang trại ở Archet-Dale nhưng bị [Blackwolds](../B/Blackwolds.md) đuổi ra ngoài và gia nhập nhóm thợ săn của [Jon Brackenbrook](../J/Jon_Brackenbrook.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Aran Greyfeather {#Aran_Greyfeather}
 
-**Aran Greyfeather** là cung thủ của [Archet](../A/Archet.md). Ông bán sản phẩm của mình ở phía tây khu vực đào tạo của Archet.<sup id="cite_ref-ReferenceA_1-2" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
+**Aran Greyfeather** là một cung thủ của [Archet](../A/Archet.md). Ông bán sản phẩm của mình ở phía tây khu vực đào tạo của Archet.<sup id="cite_ref-ReferenceA_1-2" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
 
 ## Argirion {#Argirion}
 
-**Argirion** là thuyền phó của Gilminuial, con tàu của [Rangers](../R/Rangers_of_the_North.md) cung cấp cho [Wardens of Annúminas](../W/Wardens_of_Annúminas.md).<sup id="cite_ref-shipwrecked_mariners_4-0" class="reference"><a href="#cite_note-shipwrecked_mariners-4">[4]</a></sup> Khi một cơn bão phá hủy con tàu, Argirion và <a class="mw-selflink-fragment" href="#Mindambeth">Mindambeth</a>, người chỉ huy khu phố, đã bị chết đuối gần [Buckland](../B/Buckland.md). Ông ta yêu cầu bạn đi theo [Baranduin](../B/Baranduin.md) về phía bắc để tìm con tàu bị chết đuối và tìm hiểu số phận của các thủy thủ đoàn khác, đặc biệt là [Aranhir](List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Evendim.md#Aranhir), thuyền trưởng của Gilminuial.<sup id="cite_ref-shipwrecked_mariners_4-1" class="reference"><a href="#cite_note-shipwrecked_mariners-4">[4]</a></sup>
+**Argirion** là thuyền phó của Gilminuial, con tàu của [Rangers](../R/Rangers_of_the_North.md) cung cấp cho [Wardens của Annúminas](../W/Wardens_of_Annúminas.md).<sup id="cite_ref-shipwrecked_mariners_4-0" class="reference"><a href="#cite_note-shipwrecked_mariners-4">[4]</a></sup> Khi một cơn bão phá hủy con tàu, Argirion và <a class="mw-selflink-fragment" href="#Mindambeth">Mindambeth</a>, người chỉ huy khu phố, đã bị chết đuối gần [Buckland](../B/Buckland.md). Ông ta yêu cầu bạn đi theo [Baranduin](../B/Baranduin.md) về phía bắc để tìm con tàu bị chết đuối và tìm hiểu số phận của các thuyền viên khác, đặc biệt là [Aranhir](List_of_minor_The_Lord_of_the_Rings_Online_characters_in_Evendim.md#Aranhir), thuyền trưởng của tàu Gilminuial.<sup id="cite_ref-shipwrecked_mariners_4-1" class="reference"><a href="#cite_note-shipwrecked_mariners-4">[4]</a></sup>
 
 ## Cal Sprigley {#Cal_Sprigley}
 
@@ -80,43 +80,43 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Cây kế len {#Constable_Thistlewool}
 
-**Constable Thistlewool** là cảnh sát của [Archet](../A/Archet.md) và có thể được tìm thấy tại cơ sở huấn luyện của tổ chức này.<sup id="cite_ref-ReferenceA_1-4" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông ta là bạn của <a class="mw-selflink-fragment" href="#Cal_Sprigley">Cal Sprigley</a>, một nông dân ở phía nam Archet-Dale.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+**Constable Thistlewool** là cảnh sát của [Archet](../A/Archet.md) và có thể được tìm thấy tại cơ sở huấn luyện của nó.<sup id="cite_ref-ReferenceA_1-4" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông ta là bạn của <a class="mw-selflink-fragment" href="#Cal_Sprigley">Cal Sprigley</a>, một nông dân ở phía nam Archet-Dale.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Cuthbert Rook {#Cuthbert_Rook}
 
-**Cuthbert Rook** là huấn luyện viên bậc thầy về truyền thuyết của [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-5" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Trong phần Giới thiệu Bree-land, ông cải thiện kỹ năng của người chơi theo yêu cầu của [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>).<sup id="cite_ref-ReferenceB_2-1" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
+**Cuthbert Rook** là huấn luyện viên bậc thầy về truyền thuyết của [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-5" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Trong phần giới thiệu Bree-land, ông cải thiện kỹ năng của người chơi theo yêu cầu của [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>).<sup id="cite_ref-ReferenceB_2-1" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
 
 ## Daren Mills {#Daren_Mills}
 
-**Daren Mills** là huấn luyện viên thợ săn trong [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-6" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông đã cải thiện kỹ năng của người chơi trong phần Giới thiệu Bree-land.<sup id="cite_ref-ReferenceB_2-2" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
+**Daren Mills** là huấn luyện viên thợ săn trong [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-6" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông đã cải thiện kỹ năng của người chơi trong phần Bree-land Giới thiệu.<sup id="cite_ref-ReferenceB_2-2" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
 
 ## Gạch bùn Dirk {#Dirk_Mudbrick}
 
-**Dirk Mudbrick** là thành viên đồn trú của [Archet](../A/Archet.md). Vị trí ban đầu của ông là ở Cổng Tây của Archet nhưng vì ông có quá nhiều bình luận về chiến lược của [Thuyền trưởng Brackenbrook](../C/Captain_Brackenbrook.md) nên ông đã bị chuyển đến một trang trại ở Archet-Dale.<sup id="cite_ref-Spies_8-0" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Trong khi ông đang bảo vệ trang trại cừu chống lại bầy sói, ông nhìn thấy nhiều [Blackwolds](../B/Blackwolds.md) đi qua thung lũng.<sup id="cite_ref-Spies_8-1" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Ông cử người chơi vào Archet-Dale để giết một trong số chúng và mang chúng về đơn đặt hàng. Một trong những mệnh lệnh này mô tả hành vi phản bội của [Calder Cob](../C/Calder_Cob.md) và một cuộc đột kích đã được lên kế hoạch chống lại Archet.<sup id="cite_ref-Spies_8-2" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Ông ta ngay lập tức gửi các mệnh lệnh Blackwold cho Thuyền trưởng Brackenbrook và chiến đấu trong cuộc tấn công của Archet.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Khi quân đồn trú của Archet đánh đuổi quân Blackwold quay trở lại Blackwold Roost, ông ta là một trong những người đã bị giết.<sup id="cite_ref-ReferenceC_10-0" class="reference"><a href="#cite_note-ReferenceC-10">[10]</a></sup>
+**Dirk Mudbrick** là thành viên đồn trú của [Archet](../A/Archet.md). Vị trí ban đầu của ông là ở Cổng Phương Tây của Archet nhưng vì ông bình luận quá nhiều về chiến lược của [Thuyền trưởng Brackenbrook](../C/Captain_Brackenbrook.md) nên ông đã bị chuyển đến một trang trại ở Archet-Dale.<sup id="cite_ref-Spies_8-0" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Trong khi ông đang bảo vệ trang trại cừu chống lại bầy sói, ông đã nhìn thấy nhiều [Blackwolds](../B/Blackwolds.md) đi qua thung lũng.<sup id="cite_ref-Spies_8-1" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Ông cử người chơi đến vào Archet-Dale để giết một trong số họ và mang lại mệnh lệnh cho họ. Một trong những mệnh lệnh này mô tả hành vi phản bội của [Calder Cob](../C/Calder_Cob.md) và một cuộc đột kích theo kế hoạch chống lại Archet.<sup id="cite_ref-Spies_8-2" class="reference"><a href="#cite_note-Spies-8">[8]</a></sup> Ông ta ngay lập tức gửi các mệnh lệnh Blackwold cho Thuyền trưởng Brackenbrook và chiến đấu trong cuộc tấn công của Archet.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Khi quân đồn trú của Archet đẩy quân Blackwold trở lại Blackwold Roost, ông ta là một trong những người đã bị giết.<sup id="cite_ref-ReferenceC_10-0" class="reference"><a href="#cite_note-ReferenceC-10">[10]</a></sup>
 
 ## Edgar Standish {#Edgar_Standish}
 
-**Edgar Standish** là huấn luyện viên đội trưởng trong [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-7" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông dạy cho người chơi đội trưởng cách sử dụng class của mình trong phần Giới thiệu Bree-land.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+**Edgar Standish** là huấn luyện viên đội trưởng trong [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-7" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông dạy cho người chơi đội trưởng cách sử dụng lớp của mình trong Bree-land Phần giới thiệu.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
-## hang nhanh {#Fastred_Burrows}
+## Fastred Hang {#Fastred_Burrows}
 
-**Fastred Burrows** là người huấn luyện trộm trong [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-8" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Theo yêu cầu của [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>), ông ta dạy người chơi thêm về lớp học của mình trong phần Giới thiệu Bree-land.<sup id="cite_ref-ReferenceB_2-3" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
+**Fastred Burrows** là người huấn luyện trộm ở [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-8" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Theo yêu cầu của [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>), ông ta dạy người chơi thêm về lớp học của mình trong phần Bree-land Giới thiệu.<sup id="cite_ref-ReferenceB_2-3" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
 
 ## Fenton Marshly {#Fenton_Marshly}
 
-**Fenton Marshly** là một trong những thợ săn của [Jon Brackenbrook](../J/Jon_Brackenbrook.md).<sup id="cite_ref-ReferenceA_1-9" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông ta bắt đầu trò chơi săn bắn ngay khi đủ khỏe để sử dụng cung.<sup id="cite_ref-Fento_12-0" class="reference"><a href="#cite_note-Fento-12">[12]</a></sup> Khi [Blackwolds](../B/Blackwolds.md) bắt đầu tấn công [Archet](../A/Archet.md), ông ta đóng quân tại Hunter's Lodge.<sup id="cite_ref-Fento_12-1" class="reference"><a href="#cite_note-Fento-12">[12]</a></sup>
+**Fenton Marshly** là một trong những thợ săn của [Jon Brackenbrook](../J/Jon_Brackenbrook.md).<sup id="cite_ref-ReferenceA_1-9" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Ông bắt đầu trò chơi săn bắn ngay khi đủ khỏe để sử dụng cung.<sup id="cite_ref-Fento_12-0" class="reference"><a href="#cite_note-Fento-12">[12]</a></sup> Khi [Blackwolds](../B/Blackwolds.md) bắt đầu tấn công [Archet](../A/Archet.md), ông đóng quân tại Hunter's Lodge.<sup id="cite_ref-Fento_12-1" class="reference"><a href="#cite_note-Fento-12">[12]</a></sup>
 
 ## Godwig Lười biếng {#Godwig_the_Lazy}
 
-**Godwig the Lazy** là một người đàn ông đến từ [Archet](../A/Archet.md), người có thể được tìm thấy trong Nhà tù của Archet.<sup id="cite_ref-ReferenceA_1-10" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
+**Godwig the Lazy** là một người đàn ông đến từ [Archet](../A/Archet.md), người này có thể được tìm thấy trong Nhà tù của Archet.<sup id="cite_ref-ReferenceA_1-10" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
 
 ## Hodor Thornberry {#Hodor_Thornberry}
 
-**Hodor Thornberry** là một [Hobbit](../H/Hobbits.md) buôn bán vũ khí từ [Archet](../A/Archet.md). Ông ta bán cả hai tay làm vũ khí hai tay.<sup id="cite_ref-ReferenceA_1-11" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
+**Hodor Thornberry** là một [Hobbit](../H/Hobbits.md) người buôn bán vũ khí đến từ [Archet](../A/Archet.md). Ông ta bán cả hai tay làm vũ khí hai tay.<sup id="cite_ref-ReferenceA_1-11" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
 
 ## Holey Sprigley {#Holey_Sprigley}
 
-**Holey Sprigley** là vợ của <a class="mw-selflink-fragment" href="#Cal_Sprigley">Cal Sprigley</a>,<sup id="cite_ref-Reason_13-0" class="reference"><a href="#cite_note-Reason-13">[13]</a></sup> một nông dân ở phía nam [Archet](../A/Archet.md)-Dale.<sup id="cite_ref-ReferenceA_1-12" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Khi trang trại của họ bị tàn phá, họ chạy trốn đến Archet.<sup id="cite_ref-Reason_13-1" class="reference"><a href="#cite_note-Reason-13">[13]</a></sup>
+**Holey Sprigley** là vợ của <a class="mw-selflink-fragment" href="#Cal_Sprigley">Cal Sprigley</a>,<sup id="cite_ref-Reason_13-0" class="reference"><a href="#cite_note-Reason-13">[13]</a></sup> một nông dân ở miền nam [Archet](../A/Archet.md)-Dale.<sup id="cite_ref-ReferenceA_1-12" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Khi trang trại của họ bị tàn phá, họ chạy trốn đến Archet.<sup id="cite_ref-Reason_13-1" class="reference"><a href="#cite_note-Reason-13">[13]</a></sup>
 
 ## Jasper Greensmith {#Jasper_Greensmith}
 
@@ -128,7 +128,7 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Đuổi ruồi dịu nhẹ {#Mildred_Catchfly}
 
-**Mildred Catchfly** là thợ rèn hạng trung trong [Archet](../A/Archet.md). Bà được tìm thấy ở phía tây sân tập.<sup id="cite_ref-ReferenceA_1-15" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
+**Mildred Catchfly** là thợ rèn hạng trung ở [Archet](../A/Archet.md). Bà được tìm thấy ở phía tây sân tập.<sup id="cite_ref-ReferenceA_1-15" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup>
 
 ## Mindambeth {#Mindambeth}
 
@@ -144,23 +144,23 @@ Danh sách này chứa tất cả các ký tự phụ trong [Bree-land](../B/Bre
 
 ## Otto tên cướp {#Otto_the_Brigand}
 
-**Otto the Brigand** là thủ lĩnh của [brigands](../B/Blackwolds.md) đã tấn công [Archet](../A/Archet.md).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Ông ta bị [Calder Cob](../C/Calder_Cob.md) giam giữ nhưng được giải thoát trong Assault of Archet nơi ông ta bắt Amdir làm tù nhân đến nơi ẩn náu của họ.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Khi người chơi và [Aragorn](../A/Aragorn.md) tấn công Blackwolds ở Ost Baranor ông ta bị [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md) biến thành hồn ma.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
+**Otto the Brigand** là thủ lĩnh của [bọn cướp](../B/Blackwolds.md) đã tấn công [Archet](../A/Archet.md).<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> Ông ta bị giam giữ bởi [Calder Cob](../C/Calder_Cob.md) nhưng được giải thoát trong Cuộc tấn công Archet nơi ông ta bắt Amdir làm tù nhân đến nơi ẩn náu của họ.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> Khi người chơi và [Aragorn](../A/Aragorn.md) tấn công Blackwolds ở Ost Baranor, ông ta bị biến thành một bóng ma của [Skorgrím Dourhand](../S/Skorgrím_Dourhand.md).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>
 
 ## Máy cắt tỉa chốt {#Peg_Pruner}
 
-**Peg Pruner** là [người cung cấp dịch vụ của Archet](../A/Archet.md)<sup id="cite_ref-ReferenceA_1-17" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> và [chỉ huy quân sự của Thuyền trưởng Brackenbrook](../C/Captain_Brackenbrook.md).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Bà là vợ của [Ned Pruner](../N/Ned_Pruner.md).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
+**Peg Pruner** là người cung cấp của [Archet](../A/Archet.md)<sup id="cite_ref-ReferenceA_1-17" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> và là người quản lý hậu cần của [Thuyền trưởng Brackenbrook](../C/Captain_Brackenbrook.md).<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> Bà là vợ của [Ned Pruner](../N/Ned_Pruner.md).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>
 
 ## Trung sĩ Redroot {#Sergeant_Redroot}
 
-**Trung sĩ Redroot** là thành viên đồn trú của [Đại úy Brackenbrook](../C/Captain_Brackenbrook.md). Ban đầu ông ta được bố trí ở cổng [Archet](../A/Archet.md)<sup id="cite_ref-ReferenceA_1-18" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> nhưng đã được đưa ra con đường giữa Archet và [Combe](../C/Combe.md).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
+**Trung sĩ Redroot** là thành viên đồn trú của [Đại úy Brackenbrook](../C/Captain_Brackenbrook.md). Ban đầu ông ta được bố trí ở cổng [Archet](../A/Archet.md)<sup id="cite_ref-ReferenceA_1-18" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> nhưng đã bị đưa ra đường giữa Archet và [Combe](../C/Combe.md).<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>
 
 ## Bộ yên ngựa màu xanh lam {#Teal_Saddler}
 
-**Teal Saddler** là một huấn luyện viên giám hộ có thể được tìm thấy ở phía tây sân tập của [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-19" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Bà cải thiện kỹ năng của người chơi trong phần Giới thiệu Bree-land.<sup id="cite_ref-ReferenceB_2-4" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
+**Teal Saddler** là một huấn luyện viên giám hộ có thể được tìm thấy ở phía tây sân tập của [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-19" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Bà cải thiện kỹ năng của người chơi trong Bree-land Giới thiệu.<sup id="cite_ref-ReferenceB_2-4" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
 
 ## Tolman Gardner {#Tolman_Gardner}
 
-**Tolman Gardner** là huấn luyện viên hát rong trong [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-20" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Trong phần Giới thiệu Bree-land, ông dạy người chơi cách sử dụng lớp của mình.<sup id="cite_ref-ReferenceB_2-5" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
+**Tolman Gardner** là huấn luyện viên hát rong ở [Archet](../A/Archet.md).<sup id="cite_ref-ReferenceA_1-20" class="reference"><a href="#cite_note-ReferenceA-1">[1]</a></sup> Trong phần giới thiệu Bree-land, ông dạy người chơi cách sử dụng lớp của mình.<sup id="cite_ref-ReferenceB_2-5" class="reference"><a href="#cite_note-ReferenceB-2">[2]</a></sup>
 
 ## Will Wheatley {#Will_Wheatley}
 

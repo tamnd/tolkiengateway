@@ -12,13 +12,13 @@ categories:
   - "Telerin nouns"
 ---
 
-**Pendi** là tên [Telerin](../T/Telerin.md) của (toàn bộ chủng tộc) [Yêu tinh](../E/Elves.md). Nó không có số ít và là "một từ uyên bác của các sử gia"<sup id="cite_ref-QE_1-0" class="reference"><a href="#cite_note-QE-1">[1]</a></sup>
+**Pendi** là tên [Telerin](../T/Telerin.md) của (toàn bộ chủng tộc) của [Tiên tộc](../E/Elves.md). Nó không có số ít và là "một từ uyên bác của các sử gia"<sup id="cite_ref-QE_1-0" class="reference"><a href="#cite_note-QE-1">[1]</a></sup>
 
 Từ này sau đó đã bị loại bỏ vì bị nhầm lẫn với nghĩa là "thiếu, kém" (gốc [PEN](PEN~34927.md))<sup id="cite_ref-QE_1-1" class="reference"><a href="#cite_note-QE-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này xuất phát từ [Tiên nguyên thủy](Primitive_Elvish.md) *[kwendî](../K/Kwende.md)* (số ít *kwende*),<sup id="cite_ref-QE_1-2" class="reference"><a href="#cite_note-QE-1">[1]</a></sup> [Gốc](../S/Sundocarmë.md) [KWE](../K/KWE.md)NE. Xem thêm *[pen](Pen.md)*.
+Từ này xuất phát từ [Nguyên thủy Elvish](Primitive_Elvish.md) *[kwendî](../K/Kwende.md)* (số ít *kwende*),<sup id="cite_ref-QE_1-2" class="reference"><a href="#cite_note-QE-1">[1]</a></sup> [Gốc](../S/Sundocarmë.md) [KWE](../K/KWE.md)NE. Xem thêm *[pen](Pen.md)*.
 
 ## Có cùng nguồn gốc {#Cognates}
 

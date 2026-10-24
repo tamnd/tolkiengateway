@@ -13,7 +13,7 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>vanwa</b></i> là tính từ [Quenya](../Q/Quenya.md) có nghĩa là "bị mất".<sup id="cite_ref-WAN_1-0" class="reference"><a href="#cite_note-WAN-1">[1]</a></sup>
+<i><b>vanwa</b></i> là tính từ [Quenya](../Q/Quenya.md) có nghĩa là "mất".<sup id="cite_ref-WAN_1-0" class="reference"><a href="#cite_note-WAN-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
@@ -22,7 +22,7 @@ categories:
 ## Ví dụ {#Examples}
 
 - <i><a class="mw-redirect" href="../M/Mar_Vanwa_Tyaliéva.md" title="Mar Vanwa Tyaliéva">Mar <b>Vanwa</b> Tyaliéva</a></i> = "Ngôi nhà của niềm vui lạc lối"
-- <i>Si <b>vanwa</b> ná, Rómello <b>vanwa</b>, Valimar!</i> = "Bây giờ **mất**, **mất** vào tay những người phương Đông là Valimar!"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- <i>Si <b>vanwa</b> ná, Rómello <b>vanwa</b>, Valimar!</i> = "Bây giờ **thua**, **thua** trước những người của phương Đông là Valimar!"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

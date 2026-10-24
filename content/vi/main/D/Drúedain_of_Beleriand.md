@@ -25,9 +25,9 @@ langlinks:
     url: "https://kontu.wiki/Dr%C3%BAedain"
 ---
 
-**Drúedain của Beleriand** là những [Drúedain](Drúedain.md) đã theo tổ tiên của [Haladin](../H/Haladin.md) từ [Dãy núi Trắng](../W/White_Mountains.md) đến <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Tây</a> và đến [Beleriand](../B/Beleriand.md). Ở đó, họ sống và chiến đấu với tư cách là đồng minh của [Edain](../E/Edain.md) vào cuối [Kỷ nguyên thứ nhất](../F/First_Age.md). Một số, như [Aghan](../A/Aghan.md), sống ở vùng [Rừng Brethil](../F/Forest_of_Brethil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Những **Drúedain của Beleriand** là những người [Drúedain](Drúedain.md) đã nối bước tổ tiên của [Haladin](../H/Haladin.md) từ [Dãy Núi Trắng](../W/White_Mountains.md) đến <a class="mw-redirect mw-disambig" href="../W/West.md" title="West">Phương Tây</a> và đạt tới [Beleriand](../B/Beleriand.md). Ở đó, họ sống và chiến đấu với tư cách là đồng minh của [Edain](../E/Edain.md) vào cuối [Kỷ Đệ Nhất](../F/First_Age.md). Một số, như [Aghan](../A/Aghan.md), sống ở vùng [Khu rừng Brethil](../F/Forest_of_Brethil.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Giống như Edain, những người sống sót sau [War of Wrath](../W/War_of_Wrath.md) được chuyển đến [Elenna](../E/Elenna.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Giống như Edain, những người sống sót sau [War of Wrath](../W/War_of_Wrath.md) đã được chuyển đến [Elenna](../E/Elenna.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

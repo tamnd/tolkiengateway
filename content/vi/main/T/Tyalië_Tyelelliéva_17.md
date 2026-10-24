@@ -43,13 +43,13 @@ infobox:
 - Arien của Sergi Oliva Valls
 - Elenya Calima của Anna Jivilo
 - Altariello Nainie Mistalondesse (có thư pháp và giải thích) của Ryszard Derdziński
-- Những chú én của Tolkien của Tiến sĩ Rhona Beare
+Những chú én của - Tolkien của Tiến sĩ Rhona Beare
 - Sôval Phâre Giới thiệu, Ngữ pháp và Tengwar của Lisa Star
-- Ngôn ngữ của Rohan và Dale của Lisa Star
+- Ngôn ngữ Rohan và Dale của Lisa Star
 - Bộ sưu tập Tolkien tại Marquette, Phần 4 (sic! Phần 3 sẽ được đăng trên TT 19)
-- The Shire Post (Bài tập về nhà trên trang cơ bản của bạn)
-- Danh sách từ tiếng Anh Sôval Phâre
+- The Shire Bài đăng (Bài tập về nhà trên trang cơ bản của bạn)
+- Sôval Phâre-Danh sách từ tiếng Anh
 - Danh sách từ tiếng Anh-Sôval Phâre
-- Rất nhiều tác phẩm nghệ thuật chủ yếu về thỏ và một số dòng chữ bí ẩn mà Tolkien chưa từng thấy.
+- Rất nhiều tác phẩm nghệ thuật chủ yếu về thỏ và một số dòng chữ bí ẩn Tolkien chưa từng thấy.
 
 <center><a href="Tyalië_Tyelelliéva_16.md" title="Tyalië Tyelelliéva 16">Previous Issue</a> <b>||</b> <a href="Tyalië_Tyelelliéva_18.md" title="Tyalië Tyelelliéva 18">Next Issue</a></center>

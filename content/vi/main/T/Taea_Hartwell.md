@@ -18,4 +18,4 @@ sort_keys:
   "People by name": "Hartwell, Taea"
 ---
 
-**Taea Hartwell** đóng vai cô gái [Hobbit](../H/Hobbits.md) trong [The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md).
+**Taea Hartwell** đóng vai một cô gái [Hobbit](../H/Hobbits.md) trong [The Lord of the Rings: The Fellowship of the Ring](The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md).

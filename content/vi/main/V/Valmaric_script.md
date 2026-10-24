@@ -12,15 +12,15 @@ categories:
   - "Writing systems"
 ---
 
-**[Chữ viết Valmaric](Valmar.md)** là chữ viết ban đầu được [Tolkien](../J/J.R.R._Tolkien.md) sử dụng từ khoảng [1922](../_/1922.md) đến [1925](../_/1925.md) và trông giống như điểm giữa giữa [Sarati](../S/Sarati.md) và [Tengwar](../T/Tengwar.md); Tolkien đã thử nghiệm một số kịch bản tương tự nhưng Valmaric là kịch bản duy nhất được xuất bản cho đến nay.
+Tập lệnh **[Valmaric](Valmar.md)** là tập lệnh ban đầu [Tolkien](../J/J.R.R._Tolkien.md) được sử dụng từ khoảng [1922](../_/1922.md) đến [1925](../_/1925.md) và trông giống như điểm giữa giữa [Sarati](../S/Sarati.md) và [Tengwar](../T/Tengwar.md); Tolkien đã thử nghiệm một số tập lệnh tương tự nhưng Valmaric là tập lệnh duy nhất được xuất bản cho đến nay.
 
-Ông gọi những chữ viết đó là "[Qenya](../Q/Qenya.md) viết", "Qenyatic" và "Qenyarinwa". Ông cũng mô tả các mẫu của mình đại diện cho ba giai đoạn khác nhau (Cổ, Trung và Hậu).
+Ông gọi những chữ viết đó là "[Qenya](../Q/Qenya.md) chữ viết", "Qenyatic" và "Qenyarinwa". Ông cũng mô tả các mẫu của mình đại diện cho ba giai đoạn khác nhau (Cổ, Trung và Hậu).
 
 Nó có nhiều hình dạng tengwar, nguyên âm cố hữu \[a\] được tìm thấy trong một số dạng tengwar. Valmaric là tập lệnh <a class="extiw" href="http://en.wikipedia.org/wiki/abugida" title="wikipedia:abugida">abugida</a>. Các chữ cái đại diện cho phụ âm, trong khi các nguyên âm được thể hiện bằng các dấu hiệu xung quanh các chữ cái (như [tehtar](../T/Tehtar.md) sau này)
 
 Tất cả các âm tiết vốn đều chứa nguyên âm *a*, có nghĩa là bất kỳ phụ âm đơn nào theo định nghĩa đều được theo sau bởi *a*. Đó là, trừ khi dấu của một nguyên âm khác được gắn vào chữ cái. Để chỉ ra rằng phụ âm không được theo sau bởi *a* hoặc bất kỳ nguyên âm nào khác (ví dụ: trong cụm phụ âm hoặc trong các từ kết thúc bằng phụ âm), một dấu chấm được đặt bên dưới chữ cái.
 
-Các bảng trong mẫu V12 và V13 thể hiện sự sắp xếp rất giống với một trong những bảng tengwar chính trong "chế độ" Quenya cổ điển.
+Các bảng trong mẫu V12 và V13 hiển thị cách sắp xếp rất giống với bảng trong các tengwar chính trong "chế độ" cổ điển Quenya.
 
 Ví dụ về Valmaric được thấy trong <a class="external text" href="http://www.forodrim.org/daeron/mdtci.html#DTS27" rel="noreferrer noopener" target="_blank">DTS 27</a> và <a class="external text" href="http://www.forodrim.org/daeron/mdtci.html#DTS61" rel="noreferrer noopener" target="_blank">DTS 61</a>, bản vẽ "Phong cảnh mặt trăng" cho *[Roverandom](../R/Roverandom.md)*.
 

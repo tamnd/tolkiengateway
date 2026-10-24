@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Middle-earth Play-By-Mail"
 ---
 
-Chuyển hướng tới [Play-By-Mail ở Trung địa](Middle-earth_Play-By-Mail.md).
+Chuyển hướng đến [Trung Địa Play-By-Mail](Middle-earth_Play-By-Mail.md).

@@ -15,11 +15,11 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**I-tình cảm** hoặc <b><a class="extiw" href="http://en.wikipedia.org/wiki/Germanic_umlaut" title="wikipedia:Germanic umlaut">Umlaut</a></b> là một hiện tượng âm vị học là một phần không thể thiếu của ngôn ngữ [Sindarin](../S/Sindarin.md).
+**Tôi-tình cảm** hay <b><a class="extiw" href="http://en.wikipedia.org/wiki/Germanic_umlaut" title="wikipedia:Germanic umlaut">Umlaut</a></b> là một hiện tượng âm vị học là một phần không thể thiếu của ngôn ngữ [Sindarin](../S/Sindarin.md).
 
-Hiện tượng này đề cập đến việc các nguyên âm của một từ bị 'trượt' cao hơn và đứng trước một âm thanh khác, thường là *e*, được rút ra do có *i* theo sau (thường ở gần cuối từ) theo kiểu <a class="extiw" href="http://en.wikipedia.org/wiki/vowel_harmony" title="wikipedia:vowel harmony">hòa âm nguyên âm</a>. Điều này bắt đầu xảy ra sau màn có tên "[Old Sindarin](../O/Old_Sindarin.md)".
+Hiện tượng này đề cập đến việc các nguyên âm của một từ bị 'trượt' cao hơn và đứng trước một âm thanh khác, thường là *e*, được rút ra do có *i* theo sau (thường ở gần cuối từ) theo kiểu <a class="extiw" href="http://en.wikipedia.org/wiki/vowel_harmony" title="wikipedia:vowel harmony">hòa âm nguyên âm</a>. Điều này bắt đầu xảy ra sau giai đoạn có tên "[Old Sindarin](../O/Old_Sindarin.md)".
 
-Umlaut có ý nghĩa ngữ pháp trong tiếng Sindarin vì đó là cách hình thành số nhiều của danh từ.
+Âm sắc có ý nghĩa ngữ pháp trong Sindarin vì đó là cách hình thành số nhiều của danh từ.
 
 ## Ví dụ {#Examples}
 
@@ -31,7 +31,7 @@ Các động từ sau đây cho thấy các nguyên âm của thân từ trượ
 
 Hiệu ứng tương tự được thấy với các phần cuối khác như *[-ien](../_/-ien.md)* hoặc *[-ian](../_/-ian.md)(d)* như đã thấy trong
 
-- *[Balar](../B/Balar.md)* một hòn đảo + *[-iand](../_/-iand.md)* > <i><a href="../B/Beleriand.md" title="Beleriand">B<i>e</i>l<i>e</i>r<b>i</b>và</a></i> "Vùng đất Balar"
+- *[Balar](../B/Balar.md)* một hòn đảo + *[-iand](../_/-iand.md)* > <i><a href="../B/Beleriand.md" title="Beleriand">B<i>e</i>l<i>e</i>r<b>i</b>và</a></i> "Vùng đất của Balar"
 
 Một kết thúc khác gây ra âm sắc là *[-il](../_/-il.md)*
 
@@ -49,9 +49,9 @@ Nó cũng có thể được kích hoạt bởi các từ ghép
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../S/Sindarin.md#Pluralization" title="Sindarin">Sindarin#Pluralization</a></div></div>
 
-Đuôi số nhiều [Quendian nguyên thủy](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-%C4%AB&amp;action=edit&amp;redlink=1" title="-ī (page does not exist)">-ī</a></i> được giữ lại trong [Quenya](../Q/Quenya.md) và Old Sindarin. Ở giai đoạn sau, \**-i* ảnh hưởng đến các nguyên âm trước, đặc biệt là nguyên âm trước<sup id="cite_ref-ITE_3-0" class="reference"><a href="#cite_note-ITE-3">[3]</a></sup>
+Đuôi số nhiều [Primitive Quendian](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-%C4%AB&amp;action=edit&amp;redlink=1" title="-ī (page does not exist)">-ī</a></i> được giữ lại trong [Quenya](../Q/Quenya.md) và Old Sindarin. Ở giai đoạn sau, \**-i* ảnh hưởng đến các nguyên âm trước, đặc biệt là nguyên âm trước<sup id="cite_ref-ITE_3-0" class="reference"><a href="#cite_note-ITE-3">[3]</a></sup>
 
-Sau đó, tất cả các nguyên âm cuối đều <a class="new" href="https://tolkiengateway.net/w/index.php?title=Apocope&amp;action=edit&amp;redlink=1" title="Apocope (page does not exist)">được viết tắt</a> trong tiếng Sindarin, bao gồm cả dấu hiệu số nhiều. Tất cả dấu vết của số nhiều chỉ đơn giản là các nguyên âm bị ảnh hưởng.
+Sau đó, tất cả các nguyên âm cuối đều <a class="new" href="https://tolkiengateway.net/w/index.php?title=Apocope&amp;action=edit&amp;redlink=1" title="Apocope (page does not exist)">được viết tắt</a> trong Sindarin, bao gồm cả dấu số nhiều. Tất cả dấu vết của số nhiều chỉ đơn giản là các nguyên âm bị ảnh hưởng.
 
 Để tóm tắt điều này, lịch sử hình dung của từ *[adar](../A/Adar.md)* pl. *edair* sẽ như thế này:
 
@@ -61,7 +61,7 @@ Sau đó, tất cả các nguyên âm cuối đều <a class="new" href="https:/
 
 ## Cảm hứng {#Inspiration}
 
-Hiện tượng này phổ biến trong tiếng Đức và tiếng xứ Wales, dựa trên đó Sindarin. Ví dụ: số nhiều của W. *bard* (< classic \**bardos*) là *beird* (< \**bardoi*)<sup id="cite_ref-ITE_3-1" class="reference"><a href="#cite_note-ITE-3">[3]</a></sup> Quá trình tương tự chịu trách nhiệm cho một số số nhiều trong tiếng Anh, chẳng hạn như *man &gt; men* hoặc *foot &gt; feet*. <span></span>
+Hiện tượng này phổ biến trong tiếng Đức và tiếng Wales, dựa trên đó Sindarin. Ví dụ: số nhiều của W. *bard* (< classic \**bardos*) là *beird* (< \**bardoi*)<sup id="cite_ref-ITE_3-1" class="reference"><a href="#cite_note-ITE-3">[3]</a></sup> Quá trình tương tự chịu trách nhiệm cho một số số nhiều trong tiếng Anh, chẳng hạn như *man &gt; men* hoặc *foot &gt; feet*. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

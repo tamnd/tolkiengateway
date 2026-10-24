@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drúedain"
 ---
 
-Chuyển hướng tới [Drúedain](Drúedain.md).
+Chuyển hướng đến [Drúedain](Drúedain.md).

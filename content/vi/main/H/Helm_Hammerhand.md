@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Helm"
 ---
 
-Chuyển hướng tới [Helm](Helm.md).
+Chuyển hướng đến [Helm](Helm.md).

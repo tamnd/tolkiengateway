@@ -21,7 +21,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="Timeline.md" title="Timeline">Timeline</a></b></div></div>
 
-## [Tuổi thứ hai](../S/Second_Age.md) {#Second_Age}
+## [Kỷ Đệ Nhị](../S/Second_Age.md) {#Second_Age}
 
 <table class="wikitable">
 <tbody><tr>
@@ -682,9 +682,9 @@ images:
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">Trong Phụ lục B Tale of Years, thay vào đó, ngày sinh của Silmariën được ghi là S.A. 548.</span>
 </li>
-<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">Việc Tar-Minastir là Vua hay Người thừa kế của Nhà vua dưới thời trị vì của Tar-Telperiën có sự khác nhau giữa các phiên bản.</span>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text">Cho dù Tar-Minastir là Vua hay Người thừa kế của Vua dưới thời trị vì của Tar-Telperiën thì khác nhau giữa các phiên bản.</span>
 </li>
-<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">Trong Câu chuyện về những năm ở Phụ lục B, cuộc nội chiến này đi đôi với sự ăn năn của Tar-Palantir vào năm 3175.</span>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text">Trong Tale of Years của Phụ lục B, cuộc nội chiến này đi đôi với sự ăn năn của Tar-Palantir vào năm 3175.</span>
 </li>
 </ol></div></span>
 

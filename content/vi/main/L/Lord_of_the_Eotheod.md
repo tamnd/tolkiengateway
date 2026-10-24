@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lord of the Éothéod"
 ---
 
-Chuyển hướng tới [Chúa tể của Éothéod](Lord_of_the_Éothéod.md).
+Chuyển hướng đến [Lãnh chúa của Éothéod](Lord_of_the_Éothéod.md).

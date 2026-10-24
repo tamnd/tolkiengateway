@@ -12,7 +12,7 @@ categories:
   - "Flowers"
 ---
 
-**Evermind** là bản dịch của tên [simbelmynë](../S/Simbelmynë.md), tên trong [Rohan](../R/Rohan.md) để chỉ loài hoa nhỏ màu trắng mọc đặc biệt trên mộ của [Đàn ông](../M/Men.md). Mối liên hệ với người chết này là nguồn gốc tên của loài hoa - 'ký ức vĩnh cửu'.
+**Evermind** là bản dịch của tên [simbelmynë](../S/Simbelmynë.md), tên trong [Rohan](../R/Rohan.md) của loài hoa nhỏ màu trắng mọc đặc biệt trên mộ của [Con Người](../M/Men.md). Mối liên hệ với người chết này là nguồn gốc tên của loài hoa - 'ký ức vĩnh cửu'.
 
 ## Từ nguyên {#Etymology}
 

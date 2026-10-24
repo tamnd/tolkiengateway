@@ -25,11 +25,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 194b</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../R/Rayner_Unwin.md" title="Rayner Unwin">Rayner Unwin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/24_November.md" title="24 November">24 November</a> <a href="../_/1956.md" title="1956">1956</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Dutch translation of the <a class="mw-redirect" href="Lord_of_the_Rings.md" title="Lord of the Rings">Lord of the Rings</a></td></tr></tbody></table>
 
-**Thư 194b** là lá thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
+**Thư 194b** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien: Revised and Expanded edition](../T/The_Letters_of_J.R.R._Tolkien.md#Revised_and_Expanded_edition)*.
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết ông sẽ không có thời gian để xem xét kỹ lưỡng bản dịch và ông tin rằng việc xem xét kỹ lưỡng của ông sẽ không giúp bản dịch được cải thiện. Ông cũng nhắc lại niềm tin của mình rằng việc dịch tên là không chính xác.
+Tolkien cho biết ông sẽ không có thời gian để xem xét kỹ lưỡng bản dịch và ông tin rằng việc xem xét kỹ lưỡng của mình sẽ không mang lại sự cải thiện cho bản dịch. Ông cũng nhắc lại niềm tin của mình rằng việc dịch tên là không chính xác.
 
 <br>
 

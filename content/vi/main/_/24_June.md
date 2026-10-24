@@ -65,7 +65,7 @@ Sự kiện xảy ra vào ngày 24 tháng 6
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho George Sayer](<../L/Letter_to_George_Sayer_(24_June_1953).md>).
 - **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 199](../L/Letter_199.md).
 - **[1985](1985.md)** - Diễn viên lồng tiếng [Valentine Dyall](../V/Valentine_Dyall.md) qua đời.
-- **[2011](2011.md)** - [Chỉ số Tolkien](../T/Tolkien_Index.md) được thành lập.
+- **[2011](2011.md)** - [Tolkien Chỉ mục](../T/Tolkien_Index.md) được thành lập.
 - **[2012](2012.md)** - Diễn viên lồng tiếng [James Grout](../J/James_Grout.md) qua đời.
 - **[2022](2022.md)** - *[The Great Tales Never End: Essays in Memory of Christopher Tolkien](../T/The_Great_Tales_Never_End.md)* được xuất bản.
 

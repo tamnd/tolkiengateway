@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ponto Baggins I"
 ---
 
-Chuyển hướng đến [Ponto Baggins I](Ponto_Baggins_I.md).
+Chuyển hướng tới [Ponto Baggins I](Ponto_Baggins_I.md).

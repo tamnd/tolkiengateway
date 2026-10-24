@@ -31,20 +31,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jane_Chance.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/c9/Jane_Chance.jpg/320px-Jane_Chance.jpg" decoding="async" loading="lazy" width="320" height="238" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/c9/Jane_Chance.jpg/480px-Jane_Chance.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/c9/Jane_Chance.jpg/640px-Jane_Chance.jpg 2x" data-file-width="795" data-file-height="591"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Jane Chance</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/26_October.md" title="26 October">October 26</a>, <a href="../_/1945.md" title="1945">1945</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Andrew W. Mellon Distinguished Professor Emerita of English at Rice University</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Houston, Texas</td></tr></tbody></table>
 
-**Jane Chance Nitzsche** là Andrew W. Mellon Giáo sư danh dự môn tiếng Anh, <a class="extiw" href="http://en.wikipedia.org/wiki/Rice_University" title="wikipedia:Rice University">Đại học Rice</a> (kể từ ngày 13 tháng 9 năm 2013). Mối quan tâm nghiên cứu của cô tập trung vào chủ nghĩa trung cổ hiện đại (đặc biệt là [J.R.R. Tolkien](J.R.R._Tolkien.md)), thần thoại, văn học thời Trung cổ và các nhà văn nữ thời trung cổ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Jane Chance Nitzsche** là Andrew W. Mellon Giáo sư danh dự môn tiếng Anh, <a class="extiw" href="http://en.wikipedia.org/wiki/Rice_University" title="wikipedia:Rice University">Đại học Rice</a> (kể từ ngày 13 tháng Chín năm 2013). Mối quan tâm nghiên cứu của cô tập trung vào chủ nghĩa trung cổ hiện đại (đặc biệt là[J.R.R. Tolkien](J.R.R._Tolkien.md)), thần thoại, văn học Trung Cổ Kỷ nguyên và các nhà văn nữ thời trung cổ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
 ### Sách {#Books}
 
 - [1979](../_/1979.md): *[Tolkien's Art: A Mythology for England](../T/Tolkien's_Art%253A_A_Mythology_for_England.md)*
-- [1992](../_/1992.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Mythology_of_Power&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Mythology of Power (page does not exist)">Chúa tể của những chiếc nhẫn: Thần thoại về sức mạnh</a></i>
-- [2001](../_/2001.md): *Chúa tể của những chiếc nhẫn: Thần thoại về sức mạnh* (ấn bản sửa đổi)
+- [1992](../_/1992.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Mythology_of_Power&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Mythology of Power (page does not exist)">The Lord of the Rings: Thần thoại về sức mạnh</a></i>
+- [2001](../_/2001.md): *The Lord of the Rings: Thần thoại về sức mạnh* (ấn bản sửa đổi)
 - [2001](../_/2001.md): *Tolkien's Art: A Mythology for England* (phiên bản sửa đổi)
 - [2002](../_/2002.md): *[Tolkien the Medievalist](../T/Tolkien_the_Medievalist.md)* (biên tập viên)
 - [2004](../_/2004.md): *[Tolkien and the Invention of Myth: A Reader](../T/Tolkien_and_the_Invention_of_Myth.md)* (biên tập viên)
 - [2005](../_/2005.md): *[Tolkien's Modern Middle Ages](../T/Tolkien's_Modern_Middle_Ages.md)* (biên tập viên)
-- 2016: Tolkien, Bản thân và Người khác: "Sinh vật kỳ lạ này"
+- 2016: Tolkien, Bản thân và người khác: "Sinh vật kỳ lạ này"
 
 ### Bài viết {#Articles}
 

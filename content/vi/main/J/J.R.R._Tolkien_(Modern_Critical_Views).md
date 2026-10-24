@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Modern_critical_views.jpg.md"><img src="https://tolkiengateway.net/w/images/8/89/Modern_critical_views.jpg" decoding="async" loading="lazy" width="311" height="474" class="mw-file-element" data-file-width="311" data-file-height="474"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>J.R.R. Tolkien</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Marold_Bloom" title="wikipedia:Marold Bloom">Harold Bloom</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Chelsea House Publishers, Bloom&#39;s Literary Criticism</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2000.md" title="2000">2000</a> (1st edition), <a href="../_/2008.md" title="2008">2008</a> (2nd edition)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardback, Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">174 (1st edition), 180 (2nd edition)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0791056608_(1st_edition),_978-1604131468_(2nd_edition)" title="Special:BookSources/978-0791056608 (1st edition), 978-1604131468 (2nd edition)">978-0791056608 (1st edition), 978-1604131468 (2nd edition)</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien (Quan điểm phê bình hiện đại)</b></i> hoặc <i><b>Quan điểm phê phán hiện đại: J.R.R. Tolkien</b></i> là cuốn sách được xuất bản trong [2000](../_/2000.md), được biên tập bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Harold_Bloom" title="wikipedia:Harold Bloom">Harold Bloom</a>. Đây là tập hợp nhiều bài tiểu luận và chương sách liên quan đến [J.R.R. Tolkien](J.R.R._Tolkien.md) và [Trung Địa](../M/Middle-earth.md), tất cả đều đã được xuất bản.
+<i><b>J.R.R. Tolkien (Quan điểm phê bình hiện đại)</b></i> hoặc <i><b>Quan điểm phê phán hiện đại: J.R.R. Tolkien</b></i> là cuốn sách được xuất bản trong [2000](../_/2000.md), được biên tập bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Harold_Bloom" title="wikipedia:Harold Bloom">Harold Bloom</a>. Nó là sự tổng hợp của một số bài tiểu luận và chương sách liên quan đến [J.R.R. Tolkien](J.R.R._Tolkien.md) và [Trung Địa](../M/Middle-earth.md), tất cả đều đã được xuất bản.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -57,8 +57,8 @@ infobox:
     - Bởi [Anne C. Petty](../A/Anne_C._Petty.md) (từ *[One Ring to Bind Them All: Tolkien's Mythology](../O/One_Ring_to_Bind_Them_All%253A_Tolkien's_Mythology.md)*)
 - *"A Mythology for England"*
     - Bởi [Paul H. Kocher](../P/Paul_H._Kocher.md) (từ *[A Reader's Guide to The Silmarillion](../A/A_Reader's_Guide_to_The_Silmarillion.md)*)
-- *"Về nhu cầu viết phê bình Tolkien"*
-    - Bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Neil_D._Isaacs&amp;action=edit&amp;redlink=1" title="Neil D. Isaacs (page does not exist)">Neil D. Isaacs</a> (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien:_New_Critical_Perspectives&amp;action=edit&amp;redlink=1" title="Tolkien: New Critical Perspectives (page does not exist)">Tolkien: Những quan điểm phê phán mới</a></i>)
+- *"Về nhu cầu viết lách Tolkien Phê bình"*
+    - Bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Neil_D._Isaacs&amp;action=edit&amp;redlink=1" title="Neil D. Isaacs (page does not exist)">Neil D. Isaacs</a> (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien:_New_Critical_Perspectives&amp;action=edit&amp;redlink=1" title="Tolkien: New Critical Perspectives (page does not exist)">Tolkien: Quan điểm phản biện mới</a></i>)
 - *"Lit. and Lang."*
     - Bởi [Tom Shippey](../T/Tom_Shippey.md) (từ *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)*)
 - *"Myth and Story"*
@@ -85,20 +85,20 @@ infobox:
 - *"The Hobbit"*
     - Bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Stevens&amp;action=edit&amp;redlink=1" title="David Stevens (page does not exist)">David Stevens</a> và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Carol_D._Stevens&amp;action=edit&amp;redlink=1" title="Carol D. Stevens (page does not exist)">Carol D. Stevens</a> (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=J.R.R._Tolkien:_The_Art_of_the_Myth-maker&amp;action=edit&amp;redlink=1" title="J.R.R. Tolkien: The Art of the Myth-maker (page does not exist)">J.R.R. Tolkien: Nghệ thuật của người tạo ra huyền thoại</a></i>)
 - *"Bilbo's Adventures in Wilderland"*
-    - Bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_H._Green&amp;action=edit&amp;redlink=1" title="William H. Green (page does not exist)">William H. Green</a> (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_A_Journey_into_Maturity&amp;action=edit&amp;redlink=1" title="The Hobbit: A Journey into Maturity (page does not exist)">Người Hobbit: Hành trình trưởng thành</a></i>)
+    - Bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=William_H._Green&amp;action=edit&amp;redlink=1" title="William H. Green (page does not exist)">William H. Green</a> (từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Hobbit:_A_Journey_into_Maturity&amp;action=edit&amp;redlink=1" title="The Hobbit: A Journey into Maturity (page does not exist)">The Hobbit: Hành trình trưởng thành</a></i>)
 - *"J.R.R. Tolkien and the True Hero"*
     - Bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=George_Clark&amp;action=edit&amp;redlink=1" title="George Clark (page does not exist)">George Clark</a> (từ [J.R.R. Tolkien và những cộng hưởng văn học của ông](J.R.R._Tolkien_and_His_Literary_Resonances.md)*)*
-- *"Vị vua dưới núi: Truyện thiếu nhi của Tolkien"*
+- *"Câu chuyện trẻ em của Vua Dưới Núi: Tolkien"*
     - Bởi [Jane Chance](Jane_Chance.md) (từ *[Tolkien's Art: A Mythology for England](../T/Tolkien's_Art%253A_A_Mythology_for_England.md)*)
-- *"Nhiệm vụ tìm kiếm cuộc sống hạnh phúc của Sam và Gollum"*
+- *"Sứ mệnh Sam và Gollum cho cuộc sống hạnh phúc"*
     - Bởi Jorge J.E. García (từ *[The Lord of the Rings and Philosophy](../T/The_Lord_of_the_Rings_and_Philosophy.md)*)
 - *"Tolkien in the History of Ideas"*
     - Bởi <a class="extiw" href="http://en.wikipedia.org/wiki/Brian_Rosebury" title="wikipedia:Brian Rosebury">Brian Rosebury</a> (từ *[Tolkien: A Cultural Phenomenon](../T/Tolkien%253A_A_Cultural_Phenomenon.md)*)
 - *"An Unfinished Symphony"*
     - Bởi [Verlyn Flieger](../V/Verlyn_Flieger.md) (từ *[Interrupted Music: The Making of Tolkien's Mythology](../I/Interrupted_Music%253A_The_Making_of_Tolkien's_Mythology.md)*)
-- *"Thay đổi làn da theo nhiều cách: Sự phức tạp của Beorn"*
+- *"Thay đổi làn da theo nhiều nghĩa: Sự phức tạp của Beorn"*
     - Bởi [Marjorie Burns](../M/Marjorie_Burns.md) (từ *[Perilous Realms: Celtic and Norse in Tolkien's Middle-earth](../P/Perilous_Realms%253A_Celtic_and_Norse_in_Tolkien's_Middle-earth.md)*)
-- *"Bằng chứng của những điều chưa từng thấy: Thần thoại phê phán và Chúa tể của những chiếc nhẫn"*
+- *"Bằng chứng về những điều chưa được nhìn thấy: Thần thoại phê phán và The Lord of the Rings"*
     - Tác giả John C. Hunter (từ *Journal of Modern Literature* Tập 29, Số 2)
 - Niên đại
 - Người đóng góp

@@ -14,12 +14,12 @@ sort_keys:
   "Letters": "Havard, Robert"
 ---
 
-Vào [2 tháng 8](../_/2_August.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi [Robert Havard](../R/Robert_Havard.md)**.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+Vào [2 tháng 8](../_/2_August.md) [1968](../_/1968.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho [Robert Havard](../R/Robert_Havard.md)**.<sup id="cite_ref-Marq_1-0" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 - **Mô tả:** Thư viết tay.<sup id="cite_ref-Marq_1-1" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 - **Chủ đề:** Không xác định.
 - **Xuất bản:** Không có.
-- **Lưu trữ:** Bản sao của bức thư gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
+- **Lưu trữ:** Bản sao công văn gốc được lưu giữ tại [Đại học Marquette](../M/Marquette_University.md).<sup id="cite_ref-Marq_1-2" class="reference"><a href="#cite_note-Marq-1">[1]</a></sup>
 
 <span></span>
 

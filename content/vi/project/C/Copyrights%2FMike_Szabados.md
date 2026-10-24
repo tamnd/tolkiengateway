@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Szabados, Mike"
 ---
 
-- <a class="external text" href="https://mikeszabados.artstation.com" rel="noreferrer noopener" target="_blank">Mike Szabados</a> đã vui lòng cấp cho chúng tôi quyền sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Mike_Szabados.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- <a class="external text" href="https://mikeszabados.artstation.com" rel="noreferrer noopener" target="_blank">Mike Austin Szabados</a> đã vui lòng cấp cho chúng tôi quyền sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Mike_Szabados.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 6 tháng 2 năm 2026
 - Người dùng đã xin phép qua email: [Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

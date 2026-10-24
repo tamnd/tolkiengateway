@@ -23,7 +23,7 @@ sort_keys:
 
 ## Xem thêm {#See_also}
 
-- [Eldarin thông thường](../C/Common_Eldarin.md) *[phini-](Phini-.md)*<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Common Eldarin](../C/Common_Eldarin.md) *[phini-](Phini-.md)*<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 <span></span>
 

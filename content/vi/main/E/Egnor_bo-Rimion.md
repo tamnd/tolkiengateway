@@ -11,4 +11,4 @@ redirect_target: "Barahir"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng tới [Barahir](../B/Barahir.md#Other_versions_of_the_legendarium).
+Chuyển hướng đến [Barahir](../B/Barahir.md#Other_versions_of_the_legendarium).

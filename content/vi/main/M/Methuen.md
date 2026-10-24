@@ -13,7 +13,7 @@ categories:
   - "British businesses"
 ---
 
-**Methuen** là một công ty xuất bản của Anh. Chi nhánh ở Canada đã xuất bản một số [lịch Tolkien](../../category/C/Calendars.md) ở Canada. Chúng không khác mấy so với các ấn bản quốc tế của [George Allen & Unwin](../A/Allen_and_Unwin.md).
+**Methuen** là một công ty xuất bản của Anh. Chi nhánh ở Canada đã xuất bản một số [Tolkien lịch](../../category/C/Calendars.md) ở Canada. Chúng khác biệt rất ít so với các phiên bản quốc tế [George Allen &amp; Unwin](../A/Allen_and_Unwin.md).
 
 **Lịch đã xuất bản:**
 

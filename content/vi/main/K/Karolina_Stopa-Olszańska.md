@@ -22,15 +22,15 @@ sort_keys:
   "People by name": "Stopa-Olszanska, Karolina"
 ---
 
-**Karolina Stopa-Olszańska 'Melinir'** là thành viên của [Bộ phận Tolkien của Câu lạc bộ tưởng tượng Silesian](../S/Sekcja_Tolkienowska_ŚKF.md) và là một họa sĩ minh họa có tác phẩm đã được xuất bản trên một số [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [lịch](../../category/C/Calendars.md) của Ba Lan.
+**Karolina Stopa-Olszańska 'Melinir'** là thành viên của [Tolkien Câu lạc bộ Ảo tưởng Silesian](../S/Sekcja_Tolkienowska_ŚKF.md) và là một họa sĩ minh họa có tác phẩm đã được xuất bản trên một số [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) [lịch](../../category/C/Calendars.md) của Ba Lan.
 
 ## Lịch {#Calendars}
 
 - [Lịch Tolkien 1994 (tiếng Ba Lan)](<../T/The_Tolkien_Calendar_1994_(Polish).md>)
-- [Lịch Tolkien 1995 (tiếng Ba Lan)](<../T/Tolkien_Calendar_1995_(Polish).md>)
+- [Tolkien Lịch 1995 (tiếng Ba Lan)](<../T/Tolkien_Calendar_1995_(Polish).md>)
 - [Lịch Simbelmyne 1998 (tiếng Ba Lan)](<../S/Simbelmyne_Calendar_1998_(Polish).md>)
 - [Lịch Simbelmyne 1999 (tiếng Ba Lan)](<../S/Simbelmyne_Calendar_1999_(Polish).md>)
-- [Lịch ngôn ngữ Tiên Xuân 2001 - Chấn động 2002](../E/Elvish_Linguistic_Calendar_Spring_2001_-_Stirring_2002.md)
+- [Elvish Lịch Ngữ Văn Xuân 2001 - Chấn Động 2002](../E/Elvish_Linguistic_Calendar_Spring_2001_-_Stirring_2002.md)
 
 ## Thư mục {#Bibliography}
 
@@ -43,22 +43,22 @@ sort_keys:
 - [2006](../_/2006.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiglos_5&amp;action=edit&amp;redlink=1" title="Aiglos 5 (page does not exist)">Aiglos 5</a></i>
     - "Câu chuyện"
 - [2006](../_/2006.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiglos_6&amp;action=edit&amp;redlink=1" title="Aiglos 6 (page does not exist)">Aiglos 6</a></i>
-    - "Phiên tòa xét xử Maeglin" (với [Catherine Karina Chmiel](../C/Catherine_Karina_Chmiel.md))
+    - "Phiên tòa Maeglin" (với [Catherine Karina Chmiel](../C/Catherine_Karina_Chmiel.md))
 - [2007](../_/2007.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiglos_7&amp;action=edit&amp;redlink=1" title="Aiglos 7 (page does not exist)">Aiglos 7</a></i>
     - "Một vài lời về (Không chỉ) Gandalf"
 - [2008](../_/2008.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiglos_9&amp;action=edit&amp;redlink=1" title="Aiglos 9 (page does not exist)">Aiglos 9</a></i>
-    - "Doom, Destiny, Fate – Xem xét ngắn gọn về vấn đề số phận, ý chí tự do và sự quan phòng trong Chúa tể của những chiếc nhẫn"
+    - "Doom, Destiny, Fate – Xem xét ngắn gọn về vấn đề số phận, ý chí tự do và sự quan phòng trong The Lord of the Rings"
 - [2012](../_/2012.md): *[Aiglos Special Issue II](../A/Aiglos_Special_Issue_II.md)*
-    - "Ngôn ngữ và huyền thoại. Khái niệm 'ý nghĩa' của Tolkien và Barfield"
+    - "Ngôn ngữ và huyền thoại. Các khái niệm về 'ý nghĩa' của Tolkien và Barfield"
 
 <br>
 
 ### Đánh giá {#Reviews}
 
 - [2005](../_/2005.md): *[Aiglos Special Issue](../A/Aiglos_Special_Issue_I.md)*
-    - "Văn hóa Trung địa"
+    - "Văn hóa Trung Địa"
 - [2006](../_/2006.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiglos_6&amp;action=edit&amp;redlink=1" title="Aiglos 6 (page does not exist)">Aiglos 6</a></i>
-    - "T.C.B.S. và cuộc Đại chiến" (đánh giá về *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)* của [John Garth](../J/John_Garth.md))
+    - "T.C.B.S. và cuộc Đại chiến" (đánh giá *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)* của [John Garth](../J/John_Garth.md))
 - [2007](../_/2007.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Aiglos_7&amp;action=edit&amp;redlink=1" title="Aiglos 7 (page does not exist)">Aiglos 7</a></i>
     - "Smith of Wootton Major. Phiên bản mở rộng"
 - [2011](../_/2011.md): *[Aiglos 15](../A/Aiglos_15.md)*
@@ -67,7 +67,7 @@ sort_keys:
     - *Câu chuyện cổ tích và tính truyền miệng trong văn bản của Tolkien* (Adrian Jakuboze, Maria E. Pobieżyńska, Michał Żaczek, *Baśń - oralność - zagadka*)
 - [2015](../_/2015.md): *[Aiglos 20](../A/Aiglos_20.md)*
     - *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* xem xét
-    - "Quái vật, thực vật, sinh vật và những điều kỳ diệu” - đánh giá về *[A Tolkien Bestiary](../A/A_Tolkien_Bestiary.md)* của [David Day](../D/David_Day.md)
+    - "Thú vật, thực vật, sinh vật và những điều kỳ diệu” - đánh giá về *[A Tolkien Bestiary](../A/A_Tolkien_Bestiary.md)* của [David Day](../D/David_Day.md)
 
 ## Liên kết ngoài {#External_links}
 

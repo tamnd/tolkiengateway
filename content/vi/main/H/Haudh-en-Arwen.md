@@ -30,11 +30,11 @@ langlinks:
 
 ## Lịch sử {#History}
 
-Haleth là con gái của [Haldad](Haldad.md) của [Haladin](Haladin.md), người đã dẫn dắt người dân của mình tiến về phía tây băng qua [Beleriand](../B/Beleriand.md) và thành lập khu định cư của [Người](../M/Men.md) trong [Khu rừng Brethil](../F/Forest_of_Brethil.md). Sau khi cô qua đời, [Người dân Haleth](../P/People_of_Haleth.md) - như họ đã biết - đã nuôi một [xe cút kít](../B/Barrows.md) (được gọi là Tûr Haretha hoặc Haudh-en-Arwen) cho cô trong Rừng.<sup id="cite_ref-West_2-0" class="reference"><a href="#cite_note-West-2">[2]</a></sup>
+Haleth là con gái của [Haldad](Haldad.md) của [Haladin](Haladin.md), người đã dẫn dắt người dân của mình tiến về phía tây băng qua [Beleriand](../B/Beleriand.md) và thành lập khu định cư [Con Người](../M/Men.md) tại [Khu rừng Brethil](../F/Forest_of_Brethil.md). Sau khi cô qua đời, [Người dân Haleth](../P/People_of_Haleth.md) - như họ đã biết - đã nuôi một [xe cút kít](../B/Barrows.md) (được gọi là Tûr Haretha hoặc Haudh-en-Arwen) cho cô trong Rừng.<sup id="cite_ref-West_2-0" class="reference"><a href="#cite_note-West-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Thuật ngữ [Sindarin](../S/Sindarin.md) *Haudh-en-Arwen*<sup id="cite_ref-West_2-1" class="reference"><a href="#cite_note-West-2">[2]</a></sup> có thể được dịch đại khái là "**Ladybarrow**". Bản dịch thực tế sẽ là "Mound of the Noble Maiden". Nguyên tố *Arwen* không có mối liên hệ trực tiếp nào với [Arwen Evenstar](../A/Arwen.md), người sống sau thời của Haleth hàng nghìn năm, nhưng nó mang lại cái nhìn sâu sắc về nguồn gốc tên của bà. [Sindarin](../S/Sindarin.md) *arwen* có nghĩa đen là "thiếu nữ cao", và ở đây được dịch là "quý cô" trong 'Ladybarrow'.
+Thuật ngữ [Sindarin](../S/Sindarin.md) *Haudh-en-Arwen*<sup id="cite_ref-West_2-1" class="reference"><a href="#cite_note-West-2">[2]</a></sup> có thể được dịch đại khái là "**Ladybarrow**". Bản dịch thực tế sẽ là "Mound of the Noble Maiden". Phần tử *Arwen* không có mối liên hệ trực tiếp nào với [Arwen Evenstar](../A/Arwen.md), người sống hàng nghìn năm sau thời của Haleth, nhưng nó cung cấp cái nhìn sâu sắc về nguồn gốc tên của bà. [Sindarin](../S/Sindarin.md) *arwen* có nghĩa đen là "thiếu nữ cao", và ở đây được dịch là "quý bà" trong 'Ladybarrow'.
 
 **Tûr Haretha** là tên tiếng Manish của "The Ladybarrow". <span></span>
 

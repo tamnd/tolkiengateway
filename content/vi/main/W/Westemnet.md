@@ -25,13 +25,13 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_-_The_Two_Towers_-_Westemnet_Village.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/31/The_Lord_of_the_Rings_-_The_Two_Towers_-_Westemnet_Village.jpg/250px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Westemnet_Village.jpg" decoding="async" loading="lazy" width="250" height="121" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/31/The_Lord_of_the_Rings_-_The_Two_Towers_-_Westemnet_Village.jpg/375px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Westemnet_Village.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/31/The_Lord_of_the_Rings_-_The_Two_Towers_-_Westemnet_Village.jpg/500px-The_Lord_of_the_Rings_-_The_Two_Towers_-_Westemnet_Village.jpg 2x" data-file-width="813" data-file-height="395"/></a><figcaption>Westemnet Village - <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i></figcaption></figure>
 
-**Westemnet** là vùng đồng bằng phía tây của [Rohan](../R/Rohan.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> phía tây sông [Entwash](../E/Entwash.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó có thể kéo dài đến sông [Isen](../I/Isen.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Westemnet** là vùng đồng bằng phía tây của [Rohan](../R/Rohan.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> phía tây sông [Entwash](../E/Entwash.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó có thể kéo dài đến tận sông [Isen](../I/Isen.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Khu định cư và công sự quan trọng nhất của Rohan nằm ở phía nam Westemnet, nơi [Núi Trắng](White_Mountains.md) mọc lên từ đồng bằng. [Helm's Deep](../H/Helm's_Deep.md) nằm trong số này, và về phía đông nam là trụ sở của [Lãnh chúa đất Mark](../K/Kings_of_Rohan.md), [Edoras](../E/Edoras.md).
+Khu định cư và công sự quan trọng nhất của Rohan nằm ở phía nam của Westemnet, nơi [Dãy Núi Trắng](White_Mountains.md) trỗi dậy từ đồng bằng. [Helm's Deep](../H/Helm's_Deep.md) nằm trong số này, và về phía đông nam là trụ sở của [Lãnh chúa đất Mark](../K/Kings_of_Rohan.md), [Edoras](../E/Edoras.md).
 
 ## Từ nguyên {#Etymology}
 
-*Emnet* có nghĩa là "đơn giản" trong [Tiếng Rohan](../R/Rohanese.md).<sup id="cite_ref-Nomen_4-0" class="reference"><a href="#cite_note-Nomen-4">[4]</a></sup>
+*Emnet* có nghĩa là "đơn giản" trong [Rohanese](../R/Rohanese.md).<sup id="cite_ref-Nomen_4-0" class="reference"><a href="#cite_note-Nomen-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 

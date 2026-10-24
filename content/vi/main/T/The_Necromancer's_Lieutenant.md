@@ -43,11 +43,11 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Mirkwood, khu rừng hùng vĩ từng được mệnh danh là Greenwood Đại đế, trải dài về phía đông từ bờ sông Anduin đến vùng đồng bằng rộng lớn Rhovanion. Ngày xưa, Yêu tinh vui chơi trong những khoảng trống rợp bóng cây, cùng với tiếng suối róc rách và tiếng chim cày xới đất. Sự xuất hiện của Necromancer đã thay đổi đặc tính của khu rừng. Bóng của nó tối hơn và Nhện khổng lồ ẩn nấp trong sâu thẳm của chúng, trong khi lũ Orc rình mò trên những con đường mòn uốn lượn qua những bụi cây ngày càng ẩm ướt của Mirkwood.
+Mirkwood, khu rừng hùng vĩ từng được đặt tên là Greenwood the Great, trải dài về phía đông từ bờ sông Anduin đến vùng đồng bằng rộng lớn Rhovanion. Ngày xưa, Tiên tộc vui chơi trong những trảng cây rợp bóng cây, cùng với tiếng suối róc rách và tiếng chim cày xới. Sự xuất hiện của Necromancer đã thay đổi đặc tính của khu rừng. Bóng của nó tối hơn và Nhện khổng lồ ẩn nấp trong sâu thẳm của chúng, trong khi Orc rình mò trên những con đường mòn xuyên qua những bụi cây ngày càng ẩm ướt của Mirkwood.
 
-Trung úy của Necromancer bao gồm:
+Thiếu úy của Necromancer bao gồm:
 
-- 4 CUỘC PHIÊU LƯU RỦI RO trong bóng tối của Mirkwood - bảo vệ đoàn lữ hành của thương gia khỏi bọn Orc cướp bóc; chiếm giữ một kho báu dành cho Necromancer; quấy rối một đội quân tuân theo kế hoạch đen tối của Dol Guldur; và đánh bại kẻ thù chính của Người Tự do ở Taur-e-Ndaedelos.
-- BẢN ĐỒ CHI TIẾT về các địa điểm hành động, bao gồm cả khu rừng bị lũ Orc chiếm giữ, một tiền đồn bên sườn của Amon Lanc, và các hang động được sử dụng làm trụ sở của trung úy của Necromancer, Skauril - một Easterling phản bội có ý định xua đuổi mọi ánh sáng khỏi Mirkwood.
-- THỐNG KÊ TRÒ CHƠI dành cho Quái thú, Orc và NPC lang thang trên mái hiên Mirkwood.
-- BẢNG TINH THẦN VÀ CHIẾN THẮNG để giải quyết trận chiến giữa Quân đội của Skauril và Yêu tinh của Thranduil.
+- 4 CUỘC PHIÊU LƯU RỦI RO trong bóng tối của Mirkwood - bảo vệ đoàn lữ hành của một thương gia khỏi những kẻ cướp bóc của người Orc; chiếm giữ một kho báu dành cho Necromancer nắm giữ; quấy rối một đội quân có ý đồ đen tối của Dol Guldur; và đánh bại kẻ thù chính của Người Tự do ở Taur-e-Ndaedelos.
+- SƠ ĐỒ CHI TIẾT về các địa điểm hành động, bao gồm đồn trú của Người rừng bị Orc tràn ngập, một tiền đồn ở hai bên sườn của Amon Lanc và các hang động được sử dụng làm trụ sở của trung úy của Necromancer, Skauril - một kẻ phản bội Easterling có ý định xua đuổi mọi ánh sáng từ Mirkwood.
+- THỐNG KÊ TRÒ CHƠI dành cho Quái thú, Orc và các NPC lang thang trên mái hiên của Mirkwood.
+- BẢNG TINH THẦN VÀ CHIẾN THẮNG để giải quyết trận chiến giữa Quân đội của Skauril và Tiên tộc của Thranduil.

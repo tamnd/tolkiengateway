@@ -23,7 +23,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Ilinsor** là một [Vala](../V/Vala.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Ông ta là *[Súru](../S/Sylphs.md)*, một trong những người hầu của [Manwë](../M/Manwë.md) và [Varda](../V/Varda.md), và sau đó được chọn làm người lái tàu [Mặt trăng](../M/Moon.md) vì [Silmo](../S/Silmo.md) không thể làm được điều đó. Độ sáng lớn hơn của Mặt trời khiến anh ghen tị nên anh đã theo đuổi các vì sao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Ilinsor** là [Vala](../V/Vala.md) trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*. Ông ta là *[Súru](../S/Sylphs.md)*, một trong những người hầu của [Manwë](../M/Manwë.md) và [Varda](../V/Varda.md), sau đó được chọn làm người lái chiếc [Mặt Trăng](../M/Moon.md) vì [Silmo](../S/Silmo.md) không thể làm được. Độ sáng lớn hơn của Mặt Trời khiến anh ghen tị nên anh đã theo đuổi các vì sao.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

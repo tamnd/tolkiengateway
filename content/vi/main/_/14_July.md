@@ -68,18 +68,18 @@ Sự kiện xảy ra vào ngày 14 tháng 7.
 
 - **[1916](1916.md)** – Tiểu đoàn 11 Lancashire Fusiliers (bao gồm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)) được cử tham chiến tại mặt trận [Somme](../B/Battle_of_the_Somme.md).
 - **[1931](1931.md)** - Diễn viên lồng tiếng [Robert Stephens](../R/Robert_Stephens.md) ra đời.
-- **[1949](1949.md)** - Học giả và nhà văn Tolkien [Brian Sibley](../B/Brian_Sibley.md) ra đời.
+- **[1949](1949.md)** - Tolkien học giả và nhà văn [Brian Sibley](../B/Brian_Sibley.md) ra đời.
 - **[1956](1956.md)** - Tác giả và họa sĩ minh họa người Thụy Điển, [Inger Edelfeldt](../I/Inger_Edelfeldt.md), ra đời.
 - **[1979](1979.md)** - [Mythcon 10](../M/Mythcon_10.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/San_Jose,_California" title="wikipedia:San Jose, California">San Jose, California</a>.
-- **[2004](2004.md)** - "Mount Doom", bộ thứ mười trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
-- **[2004](2004.md)** - [Tolkien Thing VI](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2006](2006.md)** - [Tolkien Thing VIII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez" title="wikipedia:Diez">Diez, Đức</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2007](2007.md)** - [Tolkien Thing IX](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2011](2011.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2011 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Breuberg" title="wikipedia:Breuberg">Breuberg</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2013](2013.md)** - [Mythcon 44](../M/Mythcon_44.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan_State_University" title="wikipedia:Michigan State University">Đại học bang Michigan</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/East_Lansing,_Michigan" title="wikipedia:East Lansing, Michigan">East Lansing</a>.
+- **[2004](2004.md)** - "Núi Diệt Vong", bộ thứ mười trong *[The Lord of the Rings Trading Card Game](../T/The_Lord_of_the_Rings_Trading_Card_Game.md)*, được phát hành.
+- **[2004](2004.md)** - [Tolkien Điều VI](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2006](2006.md)** - [Tolkien Điều VIII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez" title="wikipedia:Diez">Diez, Đức</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2007](2007.md)** - [Tolkien Điều IX](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2011](2011.md)** - [Tolkien Sự việc](../T/Tolkien_Thing.md) năm 2011 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Breuberg" title="wikipedia:Breuberg">Breuberg</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2013](2013.md)** - [Mythcon 44](../M/Mythcon_44.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan_State_University" title="wikipedia:Michigan State University">Đại học bang Michigan</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/East_Lansing,_Michigan" title="wikipedia:East Lansing, Michigan">phương Đông Lansing</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

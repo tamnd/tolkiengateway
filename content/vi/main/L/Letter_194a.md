@@ -29,11 +29,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien bình luận về việc "những y tá thô tục" gây ra căng thẳng không xác định cho Michael. Ông cho biết rằng ông tin rằng Nhà thờ là nơi duy nhất mà <a class="extiw" href="http://en.wikipedia.org/wiki/Blessed_Sacrament" title="wikipedia:Blessed Sacrament">Bí tích Thánh Thể</a> có thể được tiến hành.
+Tolkien bình luận về việc "các y tá thô tục" gây căng thẳng không xác định cho Michael. Ông cho biết rằng ông tin rằng Nhà thờ là nơi duy nhất mà <a class="extiw" href="http://en.wikipedia.org/wiki/Blessed_Sacrament" title="wikipedia:Blessed Sacrament">Bí tích Thánh Thể</a> có thể được tiến hành.
 
-Ông thảo luận ngắn gọn về <a class="extiw" href="http://en.wikipedia.org/wiki/Suez_Crisis" title="wikipedia:Suez Crisis">Cuộc khủng hoảng Suez</a> và tình trạng bất ổn chính trị xung quanh Thủ tướng lúc bấy giờ <a class="extiw" href="http://en.wikipedia.org/wiki/Anthony_Eden" title="wikipedia:Anthony Eden">Anthony Eden</a>. Ông bày tỏ thái độ khinh thường đối với khả năng có một chính phủ xã hội chủ nghĩa và nói rằng "sẽ không có nơi nào để thoát khỏi làn sóng 'orquerie' đang dâng cao". Ông đề cập đến một lá thư mà một công nhân nhà máy quan tâm đến [Elvish](../E/Elvish.md).
+Ông thảo luận ngắn gọn về <a class="extiw" href="http://en.wikipedia.org/wiki/Suez_Crisis" title="wikipedia:Suez Crisis">Cuộc khủng hoảng Suez</a> và tình trạng bất ổn chính trị xung quanh Thủ tướng lúc bấy giờ <a class="extiw" href="http://en.wikipedia.org/wiki/Anthony_Eden" title="wikipedia:Anthony Eden">Anthony Eden</a>. Ông bày tỏ thái độ khinh thường đối với khả năng có một chính phủ xã hội chủ nghĩa và nói rằng "sẽ không có nơi nào để thoát khỏi làn sóng 'orquerie' đang dâng cao". Ông ta đề cập đến lá thư mà một công nhân nhà máy quan tâm [Elvish](../E/Elvish.md).
 
-Ông cũng bảo Michael đừng lo lắng về tiếng Anh của [Michael George Tolkien](../M/Michael_George_Tolkien.md) (không rõ mối quan tâm cụ thể là gì). Ông kết thúc bức thư với câu nói "Hãy cẩn thận! Tất cả những người cánh tả đều phản đối ngữ văn!"
+Ông cũng khuyên Michael đừng lo lắng về tiếng Anh của [Michael George Tolkien](../M/Michael_George_Tolkien.md) (không rõ mối lo ngại cụ thể là gì). Ông kết thúc bức thư với câu nói "Hãy cẩn thận! Tất cả những người cánh tả đều phản đối ngữ văn!"
 
 <br>
 

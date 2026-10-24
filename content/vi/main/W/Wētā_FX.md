@@ -40,17 +40,17 @@ Vào tháng 11 năm 2021, công ty được bán cho công ty phần mềm trò 
 
 <figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Weta_Digital_-_logo.gif.md"><img src="https://tolkiengateway.net/w/images/c/c1/Weta_Digital_-_logo.gif" decoding="async" loading="lazy" width="151" height="100" class="mw-file-element" data-file-width="151" data-file-height="100"/></a><figcaption>Previous logo of Wētā FX, as Weta Digital</figcaption></figure>
 
-Đến nay, Wētā FX đã giành được sáu Giải Oscar cho Hiệu ứng hình ảnh xuất sắc nhất: Chúa tể của những chiếc nhẫn: Hiệp hội nhẫn (2001), Chúa tể của những chiếc nhẫn: Hai tòa tháp (2002), Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua (2003), King Kong (2005), Avatar (2009) và The Jungle Book (2016).
+Đến nay, Wētā FX đã giành được sáu Giải Oscar cho Hiệu ứng hình ảnh xuất sắc nhất: The Lord of the Rings: The Fellowship of the Ring (2001), The Lord of the Rings: The Two Towers (2002), The Lord of the Rings: The Return of the King (2003), Vua Kong (2005), Avatar (2009) và The Jungle Book (2016).
 
 <h3><span id="Peter_Jackson.27s_The_Middle-earth_Saga"></span><span class="mw-headline" id="Peter_Jackson&#39;s_The_Middle-earth_Saga">Peter Jackson&#39;s <i>The Middle-earth Saga</i></span></h3>
 
-#### *Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn* {#The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring}
+#### *The Lord of the Rings: The Fellowship of the Ring* {#The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring}
 
 - Giải Oscar® cho Hiệu ứng Hình ảnh Xuất sắc nhất: Viện Hàn lâm Điện ảnh, Nghệ thuật và Khoa học
 - BAFTA cho Hiệu ứng hình ảnh xuất sắc nhất: Viện Hàn lâm Nghệ thuật Điện ảnh và Truyền hình Anh
 - Giải thưởng Vệ tinh cho Hiệu ứng Hình ảnh Xuất sắc nhất
 
-#### *Chúa tể của những chiếc nhẫn: Hai tòa tháp* {#The_Lord_of_the_Rings:_The_Two_Towers}
+#### *The Lord of the Rings: The Two Towers* {#The_Lord_of_the_Rings:_The_Two_Towers}
 
 - Giải Oscar® cho Hiệu ứng Hình ảnh Xuất sắc nhất: Viện Hàn lâm Điện ảnh, Nghệ thuật và Khoa học
 - BAFTA cho Hiệu ứng hình ảnh xuất sắc nhất: Viện Hàn lâm Nghệ thuật Điện ảnh và Truyền hình Anh
@@ -63,7 +63,7 @@ Vào tháng 11 năm 2021, công ty được bán cho công ty phần mềm trò 
 - Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Sáng tác Phim hay nhất
 - Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Nam diễn viên trong Phim Hiệu ứng Xuất sắc nhất
 
-#### *Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua* {#The_Lord_of_the_Rings:_The_Return_of_the_King}
+#### *The Lord of the Rings: The Return of the King* {#The_Lord_of_the_Rings:_The_Return_of_the_King}
 
 - Giải Oscar® cho Hiệu ứng Hình ảnh Xuất sắc nhất: Viện Hàn lâm Điện ảnh, Nghệ thuật và Khoa học
 - Giải thưởng Thành tựu Kỹ thuật cho Gollum: Viện Hàn lâm Điện ảnh, Nghệ thuật và Khoa học
@@ -90,7 +90,7 @@ Vào tháng 11 năm 2021, công ty được bán cho công ty phần mềm trò 
 
 - Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Hiệu ứng Hình ảnh Xuất sắc trong Tập phim như thật (dành cho "[Udûn](<../U/Udûn_(episode).md>)")
 - Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Môi trường được tạo dựng xuất sắc trong một tập phim, dự án thương mại hoặc thời gian thực (cho Vụ phá hủy núi lửa trong "[Adar](<../A/Adar_(episode).md>)")
-- Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Mô phỏng Hiệu ứng Xuất sắc trong một Tập, Dự án Thương mại hoặc Thời gian Thực (dành cho Thành phố Númenor trong "Udûn")
+- Giải thưởng của Hiệp hội Hiệu ứng Hình ảnh cho Mô phỏng Hiệu ứng Xuất sắc trong một Tập, Dự án Thương mại hoặc Thời gian Thực (dành cho Númenor Thành phố ở "Udûn")
 
 ## Xem thêm {#See_also}
 

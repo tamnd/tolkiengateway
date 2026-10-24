@@ -165,7 +165,7 @@ sort_keys:
 ## Xem thêm {#See_also}
 
 - [Cổng dòng thời gian](../../portal/T/Timeline.md)
-- [Lịch sử của Arda](../H/History_of_Arda.md)
+- [Lịch sử Arda](../H/History_of_Arda.md)
 - [Dòng thời gian của Aragorn](Timeline_of_Aragorn.md)
 - [Dòng thời gian của Frodo Baggins](Timeline_of_Frodo_Baggins.md)
 - [Dòng thời gian của Galadriel](Timeline_of_Galadriel.md)

@@ -67,15 +67,15 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a></i>, &#34;<a href="Valaquenta.md" title="Valaquenta">Valaquenta</a>: Of the Valar&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Vána**, một trong những [Valier](Valier.md), là em gái của [Yavanna](../Y/Yavanna.md) và là vợ của [Oromë](../O/Oromë.md). Trong số bảy Valier, Vána là người có tên thứ sáu.<sup id="cite_ref-Valar_1-0" class="reference"><a href="#cite_note-Valar-1">[1]</a></sup>
+**Vána**, một trong những [Valier](Valier.md), là em gái của [Yavanna](../Y/Yavanna.md) và là vợ/chồng của [Oromë](../O/Oromë.md). Trong số bảy Valier, Vána là người có tên thứ sáu.<sup id="cite_ref-Valar_1-0" class="reference"><a href="#cite_note-Valar-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Giống như chị gái mình, Vána có ảnh hưởng đến hệ thực vật và động vật ở Trung Địa, "mọi bông hoa đều nở rộ khi cô đi qua và nở hoa nếu cô liếc nhìn; và mọi loài chim đều hót khi cô đến."<sup id="cite_ref-Valar_1-1" class="reference"><a href="#cite_note-Valar-1">[1]</a></sup> Cô có "vẻ đẹp của cả trời và đất trên khuôn mặt và trong mọi tác phẩm của mình."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Giống như chị gái mình, Vána có ảnh hưởng đến hệ thực vật và động vật của Trung Địa, "mọi bông hoa đều nở rộ khi cô đi qua và nở hoa nếu cô liếc nhìn; và mọi loài chim đều hót khi cô đến."<sup id="cite_ref-Valar_1-1" class="reference"><a href="#cite_note-Valar-1">[1]</a></sup> Cô có "vẻ đẹp của cả trời và đất trên khuôn mặt và trong mọi tác phẩm của mình."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Nessa](../N/Nessa.md), em gái của chồng [Oromë](../O/Oromë.md) của Vána, kết hôn với [Tulkas](../T/Tulkas.md) trên [Đảo Almaren](../A/Almaren.md), nơi ở đầu tiên của các Valar. Vana đã mặc hoa cho Nessa trong đám cưới.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Nessa](../N/Nessa.md), em gái của vợ/chồng của Vána [Oromë](../O/Oromë.md), đã kết hôn [Tulkas](../T/Tulkas.md) tại [Đảo Almaren](../A/Almaren.md), nơi ở đầu tiên của Valar. Vana đã mặc hoa cho Nessa trong đám cưới.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Vana sống trong những khu vườn đầy hoa vàng và thường đến các khu rừng ở Oromë. Vào thời [Hai Cây](../T/Two_Trees.md) của [Valinor](Valinor.md), thiếu nữ [Maia](../M/Maia.md), [Arien](../A/Arien.md), đã "chăm sóc những bông hoa vàng của khu vườn Vána bằng cách tưới chúng bằng những giọt sương sáng từ [Laurelin](../L/Laurelin.md)".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Melian](../M/Melian.md) là một Maia khác ban đầu phục vụ Vána và [Estë](../E/Estë.md) trước khi cô khởi hành đến [Trung địa](../M/Middle-earth.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Vâna sống trong những khu vườn đầy hoa vàng và thường đến các khu rừng Oromë. Vào thời [Hai Cây](../T/Two_Trees.md) của [Valinor](Valinor.md), thiếu nữ [Maia](../M/Maia.md), [Arien](../A/Arien.md), "chăm sóc những bông hoa vàng trong vườn Vána bằng cách tưới chúng bằng những giọt sương rực rỡ từ [Laurelin](../L/Laurelin.md)".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Melian](../M/Melian.md) là một Maia khác ban đầu phục vụ Vána và [Estë](../E/Estë.md) trước khi cô khởi hành đến [Trung Địa](../M/Middle-earth.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -94,22 +94,22 @@ Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* bà còn đư�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-### Cuốn sách những câu chuyện đã thất lạc {#The_Book_of_Lost_Tales}
+### The Book of Lost Tales {#The_Book_of_Lost_Tales}
 
-Ở dạng [huyền thoại](../L/Legendarium.md) đầu tiên ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, cô và [Oromë](../O/Oromë.md) có một con gái, [Nielíqui](../N/Nielíqui.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Trong khi bắt đầu câu chuyện về [Hai Cây](../T/Two_Trees.md), Vána đóng một vai trò quan trọng trong sự phát triển của [Laurelin](../L/Laurelin.md):
+Trong hình thức sớm nhất của [huyền thoại](../L/Legendarium.md) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, cô và [Oromë](../O/Oromë.md) có một con gái, [Nielíqui](../N/Nielíqui.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> Trong khi bắt đầu câu chuyện về [Hai Cây](../T/Two_Trees.md), Vána đóng một vai trò hình thành trong sự phát triển của [Laurelin](../L/Laurelin.md):
 
 <blockquote class="tg-quote noexcerpt">
 <p>Then was the pit covered with rich earths that <a class="mw-redirect" href="../P/Palúrien.md" title="Palúrien">Palúrien</a> devised, and Vána came who loveth life and sunlight and at whose song the flowers arise and open, and the murmur of her maidens round her was like to the merry noise of the folk that stir abroad for the first time on a bright morning. There sang she the song of spring upon the mound, and danced about it, and watered it with great streams of that golden light that <a href="../U/Ulmo.md" title="Ulmo">Ulmo</a> had brought from the spilled lakes--yet was <i><a class="mw-redirect" href="../K/Kulullin.md" title="Kulullin">Kulullin</a></i> almost o&#39;erflowing at the end.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 </p>
 </blockquote>
 
-Sau này, khi sức mạnh của Palúrien không thể chữa lành vết thương cho [Hai Cây](../T/Two_Trees.md), tình yêu của Vána dành cho [Laurelin](../L/Laurelin.md) lớn đến mức khiến sự sống còn lại của cái cây xuất hiện lần cuối dưới dạng một quả vàng mà từ đó [Valar](Valar.md) sau này tạo thành [Mặt Trời](../S/Sun.md). Trinh nữ của Vána, [Urwen](../A/Arien.md), sẽ chèo lái con tàu của Mặt trời băng qua bầu trời. Vána, người ăn năn vì đã lên tiếng phản đối việc thu hoạch trái cây cuối cùng của Laurelin, đã cắt tóc ngắn để dệt những lọn tóc làm cánh buồm cho con tàu Mặt trời. Trong số những cái tên khác, Mặt trời được gọi là "Ngọn đèn của Vána" để tưởng nhớ những giọt nước mắt và mái tóc nàng đã dâng hiến.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Sau này, khi sức mạnh của Palúrien không thể chữa lành vết thương cho [Hai Cây](../T/Two_Trees.md), tình yêu của Vána dành cho [Laurelin](../L/Laurelin.md) lớn đến mức khiến sự sống còn lại của cái cây xuất hiện lần cuối dưới dạng một quả vàng mà từ đó [Valar](Valar.md) sau này tạo thành [Mặt Trời](../S/Sun.md). Trinh nữ của Vána, [Urwen](../A/Arien.md), sẽ lèo lái con tàu của Mặt Trời băng qua bầu trời. Vana, người ăn năn vì đã lên tiếng phản đối việc thu hoạch trái cây cuối cùng của Laurelin, đã cắt tóc ngắn để dệt những lọn tóc làm cánh buồm cho con tàu Mặt Trời. Trong số những cái tên khác, Mặt Trời được gọi là "Ngọn đèn của Vána" để tưởng nhớ những giọt nước mắt và mái tóc mà cô đã dâng hiến.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-Sau [Sự tối tăm của Valinor](../D/Darkening_of_Valinor.md) và [cuộc di tản của Noldoli](../E/Exile_of_the_Noldor.md) đến [Great Lands](../G/Great_Lands.md), hầu hết [Valar](Valar.md) đều vui mừng khi hòa bình cổ xưa đã trở lại, không muốn những tin đồn về [Melko](../M/Melko.md) và bạo lực của hắn cũng như tiếng lẩm bẩm của [Noldoli](../N/Noldoli.md) không ngừng nghỉ làm phiền họ lần nữa. Vì những lý do như vậy, họ tìm cách che giấu và bảo vệ vùng đất [Aman](../A/Aman.md) của mình. Người ta nói rằng đặc biệt Vána và [Nessa](../N/Nessa.md) đều có cùng quan điểm trong vấn đề này, giống như hầu hết các Valar khác.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
+Sau [Tối của Valinor](../D/Darkening_of_Valinor.md) và [chuyến bay của Noldoli](../E/Exile_of_the_Noldor.md) đến [Great Lands](../G/Great_Lands.md), hầu hết [Valar](Valar.md) đều vui mừng khi tìm lại được nền hòa bình xa xưa, không muốn những tin đồn về [Melko](../M/Melko.md) và bạo lực của hắn cũng như tiếng lẩm bẩm của [Noldoli](../N/Noldoli.md) bồn chồn làm phiền họ lần nữa. Vì những lý do đó, họ tìm cách che giấu và bảo vệ vùng đất [Aman](../A/Aman.md) của mình. Người ta nói rằng đặc biệt Vána và [Nessa](../N/Nessa.md) đều có cùng quan điểm trong vấn đề này, giống như hầu hết các Valar khác.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>
 
 ### Các phiên bản sau {#Later_versions}
 
-Khi các tác phẩm của Tolkien phát triển, vai trò của Vána bị giảm đi, nên trong *[The Silmarillion](../T/The_Silmarillion.md)* cô không can thiệp vào câu chuyện Mặt trời và Mặt trăng, nước mắt của Nienna là thứ đã rửa sạch cây cối và các bài hát của Yavanna đã mang đến sự nở hoa cuối cùng của Telperion và trái Laurelin.
+Khi các tác phẩm của Tolkien phát triển, vai trò của Vána bị giảm đi, nên trong *[The Silmarillion](../T/The_Silmarillion.md)* cô không can thiệp vào câu chuyện về Mặt Trời và Mặt Trăng, nước mắt của Nienna là thứ đã gột rửa cây cối và các bài hát của Yavanna đã mang đến sự nở hoa cuối cùng của Telperion và trái của Laurelin.
 
 <span></span>
 

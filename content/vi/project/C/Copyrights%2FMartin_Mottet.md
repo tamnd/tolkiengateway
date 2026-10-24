@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Mottet, Martin"
 ---
 
-- Martin Mottet đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Martin_Mottet.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Martin Mottet đã vui lòng cấp phép sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Martin_Mottet.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 8 tháng 7 năm 2024
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

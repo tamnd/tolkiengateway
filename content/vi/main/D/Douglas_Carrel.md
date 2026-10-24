@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Carrel, Douglas"
 ---
 
-**Douglas Carrel** là một họa sĩ minh họa người Scotland. Ông đã minh họa một số cảnh và nhân vật trong [The Hobbit](../T/The_Hobbit.md), bao gồm hình ảnh của [Gandalf](../G/Gandalf.md) cho bộ phim tài liệu *Real Wizards: The Search For Harry's Ancestors*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và troll một đoạn trích trong *Fantasy Tales*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một số hình minh họa đó sau đó đã được sử dụng lại trong [Das Geheimnis der Ringe](Das_Geheimnis_der_Ringe.md).
+**Douglas Carrel** là một họa sĩ minh họa người Scotland. Ông đã minh họa một số cảnh và nhân vật trong [The Hobbit](../T/The_Hobbit.md), bao gồm một bức ảnh [Gandalf](../G/Gandalf.md) cho bộ phim tài liệu *Real Pháp sư: Cuộc tìm kiếm tổ tiên của Harry*<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và những trò troll trong một đoạn trích trong *Fantasy Tales*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một số hình minh họa đó sau đó đã được sử dụng lại trong [Das Geheimnis der Ringe](Das_Geheimnis_der_Ringe.md).
 
 Anh còn vẽ minh họa bìa cho [The Soddit](../T/The_Soddit.md) và [The Sellamillion](../T/The_Sellamillion.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 

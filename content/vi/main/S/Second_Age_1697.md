@@ -16,14 +16,14 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><b>II</b><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Second_Age_1634.md" title="Second Age 1634">1634</a><a href="Second_Age_1693.md" title="Second Age 1693">1693</a><a href="Second_Age_1695.md" title="Second Age 1695">1695</a><a class="mw-selflink selflink">1697</a><a href="Second_Age_1699.md" title="Second Age 1699">1699</a><a href="Second_Age_1700.md" title="Second Age 1700">1700</a><a href="Second_Age_1701.md" title="Second Age 1701">1701</a></div></div></div></div></div></div>
 
-**Kỷ thứ hai 1697** (viết tắt là **S.A. 1697**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1697 của [Kỷ thứ hai](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhị 1697** (viết tắt là **S.A. 1697**) là năm [thứ 1697 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhị](Second_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Vùng sinh thái](../E/Eregion.md) đã gây lãng phí.<sup id="cite_ref-SA_1-0" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
+- [Eregion](../E/Eregion.md) đã bị bỏ hoang.<sup id="cite_ref-SA_1-0" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
 - Cái chết của [Celebrimbor](../C/Celebrimbor.md).<sup id="cite_ref-SA_1-1" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
-- Cánh cổng của [Moria](../M/Moria.md) đã đóng rồi.<sup id="cite_ref-SA_1-2" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
-- [Elrond](../E/Elrond.md) rút lui cùng tàn quân [Noldor](../N/Noldor.md) và thành lập nơi ẩn náu của [Imladris](../R/Rivendell.md).<sup id="cite_ref-SA_1-3" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
+- Cổng [Moria](../M/Moria.md) đã đóng lại.<sup id="cite_ref-SA_1-2" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
+- [Elrond](../E/Elrond.md) rút lui cùng tàn quân của [Noldor](../N/Noldor.md) và thành lập nơi ẩn náu của [Imladris](../R/Rivendell.md).<sup id="cite_ref-SA_1-3" class="reference"><a href="#cite_note-SA-1">[1]</a></sup>
 
 <span></span>
 

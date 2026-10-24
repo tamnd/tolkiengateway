@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Narn i Hîn Húrin"
 ---
 
-Chuyển hướng tới [Narn i Hîn Húrin](../N/Narn_i_Hîn_Húrin.md).
+Chuyển hướng đến [Narn i Hîn Húrin](../N/Narn_i_Hîn_Húrin.md).

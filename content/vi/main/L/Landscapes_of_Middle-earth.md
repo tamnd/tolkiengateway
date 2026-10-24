@@ -13,7 +13,7 @@ categories:
   - "Albums"
 ---
 
-<i><b>Landscapes of Middle-earth</b></i>, cũng được xuất bản dưới tên **Songs Of Middle Earth: A Tribute To Lord Of The Rings**, là một album [2001](../_/2001.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rick_Wakeman&amp;action=edit&amp;redlink=1" title="Rick Wakeman (page does not exist)">Rick Wakeman</a>, cựu thành viên ban nhạc progressive rock <a class="extiw" href="http://en.wikipedia.org/wiki/Yes_(band)" title="wikipedia:Yes (band)">Yes</a>. Nó chứa các bản nhạc được chọn lọc và đổi tên từ các album *The Seven Wonders of the World* và *Heritage* trước đó của ông.
+<i><b>Phong cảnh Trung Địa</b></i>, cũng được xuất bản dưới tên **Songs Of Middle Earth: A Tribute To Lord Of The Rings**, là một album [2001](../_/2001.md) của <a class="new" href="https://tolkiengateway.net/w/index.php?title=Rick_Wakeman&amp;action=edit&amp;redlink=1" title="Rick Wakeman (page does not exist)">Rick Wakeman</a>, cựu thành viên ban nhạc progressive rock <a class="extiw" href="http://en.wikipedia.org/wiki/Yes_(band)" title="wikipedia:Yes (band)">Yes</a>. Nó chứa các bản nhạc được chọn lọc và đổi tên từ các album *The Seven Wonders of the World* và *Heritage* trước đó của ông.
 
 Đĩa CD của album này được đính kèm với bản phát hành DVD của *[Master of the Rings](../M/Master_of_the_Rings%253A_The_Unauthorized_Story_Behind_J.R.R._Tolkien's_'Lord_of_the_Rings'.md)*.
 

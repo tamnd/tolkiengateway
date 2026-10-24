@@ -24,13 +24,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Shire</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/1979.md" title="1979">1979</a><sup id="cite_ref-Tolkien_Games_1-0" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Interactive_fiction" title="wikipedia:Interactive fiction">Text adventure</a><sup id="cite_ref-Tolkien_Games_1-1" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup></td></tr></tbody></table>
 
-**The Shire** là một trò chơi điện tử được tạo cho máy tính lớn hoặc máy tính mini, có thể là <a class="extiw" href="http://en.wikipedia.org/wiki/PLATO_(computer_system)" title="wikipedia:PLATO (computer system)">Hệ thống Plato</a>.<sup id="cite_ref-Tolkien_Games_1-2" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
+**The Shire** là trò chơi điện tử được tạo cho máy tính lớn hoặc máy tính mini, có thể là <a class="extiw" href="http://en.wikipedia.org/wiki/PLATO_(computer_system)" title="wikipedia:PLATO (computer system)">Hệ thống Plato</a>.<sup id="cite_ref-Tolkien_Games_1-2" class="reference"><a href="#cite_note-Tolkien_Games-1">[1]</a></sup>
 
-Đây có lẽ là trò chơi điện tử đầu tiên được tạo ra dựa trên sách của Tolkien.
+Đây có lẽ là trò chơi điện tử đầu tiên được tạo ra chủ yếu dựa trên sách của Tolkien.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/shire.html" rel="noreferrer noopener" target="_blank">Quận</a> tại <a class="external text" href="http://www.lysator.liu.se" rel="noreferrer noopener" target="_blank">Tolkien-Games</a>
+- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/shire.html" rel="noreferrer noopener" target="_blank">The Shire</a> tại <a class="external text" href="http://www.lysator.liu.se" rel="noreferrer noopener" target="_blank">Tolkien-Trò chơi</a>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galdor (man of Rohan)"
 ---
 
-Chuyển hướng tới [Galdor (người đàn ông Rohan)](<../G/Galdor_(man_of_Rohan).md>).
+Chuyển hướng đến [Galdor (người đàn ông của Rohan)](<../G/Galdor_(man_of_Rohan).md>).

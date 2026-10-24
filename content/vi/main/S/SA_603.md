@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 603"
 ---
 
-Chuyển hướng đến [Tuổi thứ hai 603](Second_Age_603.md).
+Chuyển hướng tới [Kỷ Đệ Nhị 603](Second_Age_603.md).

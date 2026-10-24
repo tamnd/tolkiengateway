@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**TARA** là một [Qenya](../Q/Qenya.md) [gốc](../S/Sundocarme.md) có nghĩa là "đập, đập, đánh". Cùng với từ gốc [MALA](../M/MALA~61132.md), TARA tạo nên từ [Maltar](../M/Maltar.md), là tên của chiếc búa [Aulë](../A/Aulë.md).<sup id="cite_ref-Malt_1-0" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup>
+**TARA** là một [Qenya](../Q/Qenya.md) [gốc](../S/Sundocarme.md) biểu thị "đập, đập, đánh". Cùng với từ gốc [MALA](../M/MALA~61132.md), TARA tạo thành từ [Maltar](../M/Maltar.md), là tên chiếc búa của [Aulë](../A/Aulë.md).<sup id="cite_ref-Malt_1-0" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 

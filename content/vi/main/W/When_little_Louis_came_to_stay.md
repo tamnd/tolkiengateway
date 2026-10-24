@@ -42,7 +42,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../C/C.S._Lewis.md" title="C.S. Lewis">C.S. Lewis</a>, <a href="../E/E.V._Gordon.md" title="E.V. Gordon">E.V. Gordon</a>, <a href="../I/I.L._Gordon.md" title="I.L. Gordon">I.L. Gordon</a></td></tr>
 </tbody></table>
 
-"**Khi cậu bé Louis đến ở**"<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> là dòng đầu tiên trong một bài thơ không tựa đề được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-guide_4-0" class="reference"><a href="#cite_note-guide-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+"**Khi bé Louis đến ở**"<sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> là dòng đầu tiên trong một bài thơ không tựa đề được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-guide_4-0" class="reference"><a href="#cite_note-guide-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

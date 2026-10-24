@@ -43,13 +43,13 @@ infobox:
 
 Với hơn 50 bức tranh minh họa, cuốn sách này hướng dẫn những người hâm mộ tưởng tượng cũng như những người đam mê nghệ thuật khám phá tác phẩm nghệ thuật của Jenny, kèm theo những câu chuyện, suy ngẫm và hiểu biết sâu sắc từ chính nghệ sĩ.
 
-Jenny Dolfen được biết đến với việc làm sống động các nhân vật trong truyện thần thoại Celtic, truyền thuyết về J.R.R. Tolkien và những câu chuyện dân gian truyền thống. Làm việc trên các phương tiện truyền thông truyền thống như màu nước và bút chì, kết hợp với phương tiện kỹ thuật số, phong cách nghệ thuật trôi chảy của cô phản ánh sự pha trộn của những ảnh hưởng như phong trào Art Nouveau, minh họa của Arthur Rackham và tính thẩm mỹ của minh họa tiểu thuyết đồ họa đương đại.
+Jenny Dolfen được biết đến với việc làm sống động các nhân vật trong Celtic giả tưởng, truyền thuyết về J.R.R. Tolkien và những câu chuyện dân gian truyền thống. Làm việc trên các phương tiện truyền thông truyền thống như màu nước và bút chì, kết hợp với phương tiện kỹ thuật số, phong cách nghệ thuật trôi chảy của cô phản ánh sự pha trộn của những ảnh hưởng như phong trào Art Nouveau, minh họa của Arthur Rackham và tính thẩm mỹ của minh họa tiểu thuyết đồ họa đương đại.
 
 **Giới thiệu về nghệ sĩ**
 
 Jenny Dolfen là một họa sĩ minh họa tự do và là giáo viên dạy tiếng Latin và tiếng Anh hiện đang sống ở Tây Đức cùng chồng và hai con. Cô hiện đang viết blog về tác phẩm nghệ thuật của mình tại Jenny's Sketchbook.
 
-Cô cũng đã xuất bản cuốn tiểu thuyết minh họa của riêng mình về Trận chiến Cannae, Bóng tối trên Cannae, tái hiện lại trận chiến giữa Hannibal và người La Mã.
+Cô cũng đã xuất bản cuốn tiểu thuyết minh họa của riêng mình về Trận chiến Cannae, Bóng Tối Over Cannae, tái hiện lại trận chiến giữa Hannibal và người La Mã.
 
 ## Liên kết ngoài {#External_links}
 

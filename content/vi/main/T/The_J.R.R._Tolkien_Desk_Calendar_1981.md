@@ -18,7 +18,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_J.R.R._Tolkien_Desk_Calendar_1981.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/1b/The_J.R.R._Tolkien_Desk_Calendar_1981.jpg/300px-The_J.R.R._Tolkien_Desk_Calendar_1981.jpg" decoding="async" loading="lazy" width="300" height="293" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/1b/The_J.R.R._Tolkien_Desk_Calendar_1981.jpg 1.5x" data-file-width="358" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Bộ J.R.R. Tolkien Lịch để bàn 1981** được sản xuất bởi [Ballantine Books](../B/Ballantine_Books.md) với hình ảnh minh họa của [Anh em Hildebrandt](../B/Brothers_Hildebrandt.md).
+**Bộ J.R.R. Tolkien Lịch Để Bàn 1981** được sản xuất bởi [Ballantine Books](../B/Ballantine_Books.md) với hình ảnh minh họa của [Anh em Hildebrandt](../B/Brothers_Hildebrandt.md).
 
 - <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0345291913">ISBN 0-345-29191-3</a>
 - Kích thước: 8 3/8 x 8 inch

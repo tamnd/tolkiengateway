@@ -16,7 +16,7 @@ categories:
 
 **Bot** (có nguồn gốc từ "robot") là tài khoản người dùng tự động hoặc bán tự động thực hiện các tác vụ thông thường và lặp đi lặp lại rất nhanh chóng. Bot có các quyền giống như người chỉnh sửa, lưu ý rằng các chỉnh sửa của chúng không được đánh dấu để không làm gián đoạn những người chỉnh sửa khác.
 
-Bot không phải là <a class="extiw" href="http://en.wikipedia.org/wiki/Sockpuppet_(Internet)" title="wikipedia:Sockpuppet (Internet)">con rối</a>, nhưng chúng thuộc sở hữu của một người dùng khác, người giám sát hiệu suất và lập trình các nhiệm vụ của họ. Một bot trái phép có thể gây ra nhiều thiệt hại cho [Cổng Tolkien](../../main/T/Tolkien_Gateway.md), vì vậy chúng phải được [quan chức](Bureaucrats.md) phê duyệt.
+Bot không phải là <a class="extiw" href="http://en.wikipedia.org/wiki/Sockpuppet_(Internet)" title="wikipedia:Sockpuppet (Internet)">con rối</a>, nhưng chúng thuộc sở hữu của một người dùng khác, người giám sát hiệu suất và lập trình các nhiệm vụ của họ. Một bot trái phép có thể gây ra nhiều thiệt hại cho [Tolkien Gateway](../../main/T/Tolkien_Gateway.md), vì vậy chúng phải được [quan chức](Bureaucrats.md) phê duyệt.
 
 ## Các bot hiện tại {#Current_bots}
 

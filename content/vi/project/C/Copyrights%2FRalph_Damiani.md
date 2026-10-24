@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Damiani, Ralph"
 ---
 
-- Ralph Damiani đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ralph_Damiani.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ralph Damiani đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ralph_Damiani.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 15 tháng 12 năm 2014
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

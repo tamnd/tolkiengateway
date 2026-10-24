@@ -22,7 +22,7 @@ images:
 
 ## Quenya {#Quenya}
 
-<i><b>men</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "địa điểm, vị trí",<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> hoặc "con đường".<sup id="cite_ref-App_2-0" class="reference"><a href="#cite_note-App-2">[2]</a></sup>
+<i><b>men</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "địa điểm, điểm",<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> hoặc "đường đi".<sup id="cite_ref-App_2-0" class="reference"><a href="#cite_note-App-2">[2]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
@@ -36,18 +36,18 @@ Trong [*Etymologies*](../T/The_Etymologies.md), Quenya *men* ("địa điểm, �
 
 - *[mene](Mene.md)* (aorist) "đi"
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
-<i><b>men</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "đường, đường",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc "chúng tôi".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+<i><b>men</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "con đường, con đường",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> hoặc "chúng ta".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ### Ví dụ {#Examples_2}
 
 - *men* ("đường, đường"): *[Men-i-Naugrim](Men-i-Naugrim.md)*
 - *men* ("cho chúng tôi"): *[ammen](../A/Ammen.md)* ("cho chúng tôi")
 
-## Người Tiên {#Elvish}
+## Elvish {#Elvish}
 
-<i><b>men</b></i> là một [người Tiên](../E/Elvish.md) (không có ngôn ngữ)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup> từ có nghĩa là "phương hướng, khu vực".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+<i><b>men</b></i> là một từ [Elvish](../E/Elvish.md) (không có ngôn ngữ)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup> có nghĩa là "phương hướng, khu vực".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 ### Công cụ phái sinh {#Derivatives}
 

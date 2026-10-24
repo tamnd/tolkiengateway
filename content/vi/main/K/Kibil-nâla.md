@@ -37,17 +37,17 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../C/Celebrant.md" title="Celebrant">Celebrant</a></b></div></div>
 
-**Kibil-nâla** là tên [Người lùn](../D/Dwarvish.md) của con sông chảy qua [Lothlórien](../L/Lothlórien.md), được [Yêu tinh](../E/Elves.md) gọi là [Celebrant](../C/Celebrant.md) và được [Con người](../M/Men.md) gọi là [Silverlode](../S/Silverlode.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Kibil-nâla** là tên [Người lùn](../D/Dwarvish.md) của con sông chảy qua [Lothlórien](../L/Lothlórien.md), được [Tiên tộc](../E/Elves.md) gọi là [Celebrant](../C/Celebrant.md) và [Con Người](../M/Men.md) là [Silverlode](../S/Silverlode.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 - *[kibil](Kibil.md)* ("bạc") + *[nâla](../N/Nâla.md)* (?"kênh; đường đi; dòng sông")
 
-Tên của con sông dường như bắt nguồn từ hoạt động của Người lùn, vì dường như họ đã phát hiện ra bạc ở dòng sông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên của con sông dường như bắt nguồn từ hoạt động của Người Lùn, vì dường như họ đã phát hiện ra bạc ở sông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong những bản thảo đầu tiên của [Phụ lục A](../A/Appendix_A.md), tên của con sông được đặt là **Zigil-nâd**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Xét ý nghĩa của *[zigil](../Z/Zigil.md)*, [Edouard Kloczko](../E/Edouard_Kloczko.md) đã đề xuất rằng *Kibil-nâla* không phải là tên của con sông thực tế mà chỉ là "sự tái xuất hiện của dòng sông". Ông ta kết nối *kibil* với [Adûnaic](../A/Adûnaic.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Khibil&amp;action=edit&amp;redlink=1" title="Khibil (page does not exist)">khibil</a></i>, "spring".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Điều này có vẻ khó xảy ra, vì Tolkien đã tuyên bố rõ ràng: "*Silverlode* lùn \[sic\] *Kibilnâla*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
+Trong những bản thảo sớm nhất của [Appendix A](../A/Appendix_A.md), tên của con sông được đặt là **Zigil-nâd**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Xét ý nghĩa của *[zigil](../Z/Zigil.md)*, [Edouard Kloczko](../E/Edouard_Kloczko.md) đã đề xuất rằng *Kibil-nâla* không phải là tên của con sông thực sự mà chỉ là "sự xuất hiện trở lại của dòng sông". Ông ta kết nối *kibil* với [Adûnaic](../A/Adûnaic.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Khibil&amp;action=edit&amp;redlink=1" title="Khibil (page does not exist)">khibil</a></i>, "spring".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Điều này có vẻ khó xảy ra, vì Tolkien đã tuyên bố rõ ràng: "*Silverlode* lùn \[sic\] *Kibilnâla*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

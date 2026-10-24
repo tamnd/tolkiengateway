@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tar-Minastir"
 ---
 
-Chuyển hướng tới [Tar-Minastir](../T/Tar-Minastir.md).
+Chuyển hướng đến [Tar-Minastir](../T/Tar-Minastir.md).

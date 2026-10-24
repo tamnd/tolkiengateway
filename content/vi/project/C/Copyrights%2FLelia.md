@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Lelia"
 ---
 
-- Lelia đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của bà](../../category/I/Images_by_Lelia.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
-- Ngày: 15 tháng 9 năm 2012
+- Lelia đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của bà](../../category/I/Images_by_Lelia.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ngày: 15 tháng Chín năm 2012
 - Người dùng đã xin phép qua DeviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

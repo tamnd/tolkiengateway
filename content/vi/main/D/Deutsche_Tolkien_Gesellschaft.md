@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Deutsche Tolkien Gesellschaft e.V."
 ---
 
-Chuyển hướng đến [Deutsche Tolkien Gesellschaft e.V.](Deutsche_Tolkien_Gesellschaft_e.V..md).
+Chuyển hướng tới [Deutsche Tolkien Gesellschaft e.V.](Deutsche_Tolkien_Gesellschaft_e.V..md).

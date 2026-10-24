@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>athrabeth</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "cuộc trò chuyện (trao đổi từ)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>athrabeth</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "cuộc trò chuyện (trao đổi từ ngữ)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

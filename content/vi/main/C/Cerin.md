@@ -21,7 +21,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- Sindarin *[haudh](../H/Haudh.md)* ("gò tang lễ")
+- Sindarin *[haudh](../H/Haudh.md)* ("gò tang")
 
 <span></span>
 

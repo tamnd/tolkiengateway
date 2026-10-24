@@ -18,21 +18,21 @@ images:
 
 **Chó săn** là [chó](../D/Dogs.md) được nuôi để săn bắn.
 
-Chó săn là một trong những loài động vật yêu thích của [Oromë](../O/Oromë.md).<sup id="cite_ref-vala_1-0" class="reference"><a href="#cite_note-vala-1">[1]</a></sup> Con chó săn vĩ đại nhất trong lịch sử của [Trung địa](../M/Middle-earth.md) là [Huan](Huan.md) Chó săn của [Valinor](../V/Valinor.md), một trong những con Chó săn của Oromë, kẻ đã đánh bại [Sauron](../S/Sauron.md) trong một trận chiến đơn lẻ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Chó săn là một trong những loài động vật yêu thích của [Oromë](../O/Oromë.md).<sup id="cite_ref-vala_1-0" class="reference"><a href="#cite_note-vala-1">[1]</a></sup> Con chó săn vĩ đại nhất trong lịch sử của [Trung Địa](../M/Middle-earth.md) là [Huan](Huan.md) Chó săn của [Valinor](../V/Valinor.md), một trong những Chó săn của Oromë, kẻ đã đánh bại [Sauron](../S/Sauron.md) trong một trận chiến đơn lẻ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Tên khác {#Other_names}
 
 Từ [Sindarin](../S/Sindarin.md) *huan* có nghĩa là "con chó lớn, chó săn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Quenya](../Q/Quenya.md) *ronyo* và [Noldorin](../N/Noldorin.md) *rhŷn* có nghĩa là "'kẻ săn đuổi', kẻ săn đuổi".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Yêu tinh](../E/Elvish.md), từ dành cho "chó săn lớn" là *gobi* hoặc *gôbi*. Từ *saur* có nghĩa là "chó săn, chó hoang".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), từ dành cho "chó săn lớn" là *gobi* hoặc *gôbi*. Từ *saur* có nghĩa là "chó săn, chó hoang".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>The Hound most often refers to &#34;<i>the fierce wolfhound  (S. &#39;huadraug&#39;)</i>&#34;, used by Men or Hobbits, and sometimes found in the wild. In the Elder Days, the Hounds were used by noble Men to hunt Morgoth&#39;s wargs and werewolves.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>&#34;Wild Hounds&#34;, portrayed attacking an orc, is a Resource Faction. &#34;Hounds of Sauron&#34; is a Resource Event, which can be played against hero companies. And the &#34;Noble Hound&#34; is Resource Ally, playable by Hero companies.</dd></dl>
 

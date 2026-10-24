@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "R"
 ---
 
-<i><b>-ro</b></i> hoặc <i><b>-r</b></i> là một phụ tố [Quenya](../Q/Quenya.md), được sử dụng để tạo một <a class="extiw" href="http://en.wikipedia.org/wiki/Agentive_ending" title="wikipedia:Agentive ending">kết thúc tác nhân</a> (để tạo danh từ từ một động từ; so sánh tiếng Anh *speaker*/*speak*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-HF_2-0" class="reference"><a href="#cite_note-HF-2">[2]</a></sup>
+<i><b>-ro</b></i> hoặc <i><b>-r</b></i> là một phụ tố [Quenya](../Q/Quenya.md), dùng để tạo <a class="extiw" href="http://en.wikipedia.org/wiki/Agentive_ending" title="wikipedia:Agentive ending">kết thúc tác nhân</a> (để tạo danh từ từ một động từ; so sánh tiếng Anh *speaker*/*speak*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-HF_2-0" class="reference"><a href="#cite_note-HF-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 

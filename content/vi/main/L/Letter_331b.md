@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi con trai [Michael](../M/Michael_Tolkien.md), Tolkien chia sẻ rằng ông cảm thấy choáng ngợp với nhiều vấn đề kinh doanh khác nhau, chủ yếu xuất phát từ nhu cầu bán nhà và tháo dỡ nhà cửa cũng như không gian làm việc. Ngoài ra, ông còn đề cập đến cuộc đấu tranh của mình với bệnh tật, đặc biệt là virus phế quản và sự tái phát của các triệu chứng kiết lỵ, những vấn đề còn phức tạp hơn.
+Trong thư gửi con trai [Michael](../M/Michael_Tolkien.md), Tolkien chia sẻ rằng ông cảm thấy choáng ngợp với nhiều vấn đề kinh doanh, chủ yếu xuất phát từ nhu cầu bán nhà và tháo dỡ nhà cửa, nơi làm việc. Ngoài ra, ông còn đề cập đến cuộc đấu tranh của mình với bệnh tật, đặc biệt là virus phế quản và sự tái phát của các triệu chứng kiết lỵ, những vấn đề còn phức tạp hơn.
 
-Bất chấp những thử thách này, Tolkien đã truyền tải tình yêu và những lời chúc tốt đẹp nhất nhân dịp Giáng sinh và Năm mới tới Michael và vợ anh, Joan. Ông đề cập đến kế hoạch đến thăm con trai [John](../J/John_Tolkien.md) và sau đó đến thăm em gái [Prisca](../P/Priscilla_Tolkien.md) vào cuối năm nay. Tolkien mô tả mình là người vô gia cư, không có sách và giấy tờ và sống nhờ vali. Tuy nhiên, anh vẫn hy vọng về việc tổ chức một lễ kỷ niệm yên tĩnh vào ngày sinh nhật của mình ở Oxford. <br>
+Bất chấp những thử thách này, Tolkien đã gửi tình yêu và những lời chúc tốt đẹp nhất nhân dịp Giáng sinh và Năm mới tới Michael và vợ anh, Joan. Ông đề cập đến kế hoạch đến thăm con trai [John](../J/John_Tolkien.md) và sau đó đến thăm em gái [Prisca](../P/Priscilla_Tolkien.md) vào cuối năm nay. Tolkien mô tả bản thân là người vô gia cư, không được tiếp cận với sổ sách và giấy tờ và sống nhờ va li. Tuy nhiên, anh vẫn hy vọng sẽ có một lễ kỷ niệm yên tĩnh vào ngày sinh nhật của mình vào Oxford. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

@@ -36,7 +36,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Elfstone</b></i> là ca khúc thứ ba trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Elfstone](Elfstone.md), một món quà từ [Galadriel](../G/Galadriel.md) dành cho [Aragorn](../A/Aragorn.md). Lời bài hát trích dẫn trực tiếp [Câu đố về Strider](../R/Riddle_of_Strider.md) và [Cút đi! Đồ Wight già! Biến mất dưới ánh mặt trời!](../G/Get_Out!_You_old_Wight!_Vanish_in_the_Sunlight!.md)
+<i><b>Elfstone</b></i> là ca khúc thứ ba trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Elfstone](Elfstone.md), quà tặng từ [Galadriel](../G/Galadriel.md) cho [Aragorn](../A/Aragorn.md). Lời bài hát trích dẫn trực tiếp [Câu đố của Strider](../R/Riddle_of_Strider.md) và [Cút đi! Đồ Wight già! Biến mất dưới ánh mặt trời!](../G/Get_Out!_You_old_Wight!_Vanish_in_the_Sunlight!.md)
 
 ## Lời bài hát {#Lyrics}
 

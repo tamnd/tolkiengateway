@@ -15,7 +15,7 @@ categories:
 
 <i><b>uzbad</b></i> có nghĩa là "chúa tể" trong [Khuzdul](../K/Khuzdul.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nó được chứng thực trong tước hiệu *[Uzbad Khazaddûmu](Uzbad_Khazaddûmu.md)* ("Lãnh chúa của Moria"). <span></span>
+Nó được chứng thực trong tiêu đề *[Uzbad Khazaddûmu](Uzbad_Khazaddûmu.md)* ("Chúa tể Moria"). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>taure</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "rừng".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+<i><b>taure</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "rừng".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup><sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Có ý kiến ​​cho rằng cách viết chuẩn của từ này sẽ là *taurë*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
@@ -23,7 +23,7 @@ Có ý kiến ​​cho rằng cách viết chuẩn của từ này sẽ là *ta
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md): *[taur](Taur.md)*
+- [Sindarin](../S/Sindarin.md): *[taur](Taur.md)*
 
 ## Ví dụ {#Examples}
 
@@ -32,7 +32,7 @@ Có ý kiến ​​cho rằng cách viết chuẩn của từ này sẽ là *ta
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[Etymologies](The_Etymologies.md)*, Quenya *taure* được gọi là "khu rừng, khu rừng vĩ đại".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong *[Etymologies](The_Etymologies.md)*, Quenya *taure* được gọi là "gỗ lớn, rừng".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

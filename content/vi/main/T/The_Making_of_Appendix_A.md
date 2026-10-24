@@ -48,4 +48,4 @@ images:
 <li><a href="Tal-Elmar_(chapter).md" title="Tal-Elmar (chapter)">Tal-Elmar</a></li></ol>
 </td></tr></tbody></table>
 
-**Việc xây dựng Phụ lục A** là chương thứ chín của *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)*.
+**Việc tạo ra Appendix A** là chương thứ chín của *[The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md)*.

@@ -21,13 +21,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-**Vua của thế giới** là danh hiệu được [Morgoth](../M/Morgoth.md) tuyên bố sau khi trở về [Trung Địa](../M/Middle-earth.md) vào [Thời đại thứ nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Danh hiệu này sau đó được [Ar-Pharazôn](../A/Ar-Pharazôn.md) sử dụng vào cuối [Thời đại thứ hai](../S/Second_Age.md), trong thời kỳ đỉnh cao quyền lực của ông.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Vua of the World** là danh hiệu được [Morgoth](../M/Morgoth.md) tuyên bố sau khi quay trở lại [Trung Địa](../M/Middle-earth.md) vào [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó sau đó được [Ar-Pharazôn](../A/Ar-Pharazôn.md) sử dụng vào cuối [Kỷ Đệ Nhị](../S/Second_Age.md), trong thời kỳ đỉnh cao quyền lực của mình.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các hình thức khác {#Other_forms}
 
-Dạng [Quenya](../Q/Quenya.md) là <i><b>Tarumbar</b></i>, với dạng bị từ chối *Aran Endór* ("Vua của Trung Địa").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Biểu mẫu [Quenya](../Q/Quenya.md) là <i><b>Tarumbar</b></i>, với biểu mẫu bị từ chối *Aran Endór* ("Vua của Trung Địa").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Sauron](../S/Sauron.md) cũng đã giành được các danh hiệu tương đương **Vua của các vị vua** và **Chúa tể của thế giới**.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
+[Sauron](../S/Sauron.md) cũng đã tuyên bố các danh hiệu tương đương **Vua các vị vua** và **Chúa tể thế giới**.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

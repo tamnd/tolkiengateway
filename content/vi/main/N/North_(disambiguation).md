@@ -16,31 +16,31 @@ images:
 
 **Miền Bắc** có thể tham khảo:
 
-- *[formen](../F/Formen.md)* ([Quenya](../Q/Quenya.md) cho "phía bắc")
-- *[forod](../F/Forod.md)* ([Sindarin](../S/Sindarin.md) cho "phía bắc")
+- *[formen](../F/Formen.md)* ([Quenya](../Q/Quenya.md) cho "hướng bắc")
+- *[forod](../F/Forod.md)* ([Sindarin](../S/Sindarin.md) cho "hướng bắc")
 - [Mũi Bắc](North_Cape.md)
-- [Dốc phía Bắc](North_Downs.md)
+- [North Downs](North_Downs.md)
 - [Miền Bắc](Northlands.md)
-- [Rác thải phía Bắc](Northern_Waste.md)
-- [Đi về hướng bắc](Northfarthing.md)
+- [Northern Waste](Northern_Waste.md)
+- [Northfarthing](Northfarthing.md)
 - [Northililigand](Northiligand.md)
-- [Orc phương Bắc](Northern_Orcs.md)
+- [Miền Bắc Orc](Northern_Orcs.md)
 - [Miền Bắc (Mannish)](Northern_Mannish.md)
 - [Người phương Bắc](Northmen.md)
 - [Bắc Avarin](North_Avarin.md)
 - [Bắc Ithilien](North_Ithilien.md)
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=North_Marches_of_Beleriand&amp;action=edit&amp;redlink=1" title="North Marches of Beleriand (page does not exist)">Các cuộc hành quân phía bắc Beleriand</a>
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=North_Marches_of_Beleriand&amp;action=edit&amp;redlink=1" title="North Marches of Beleriand (page does not exist)">Cuộc hành quân phía Bắc Beleriand</a>
 - [Bắc Moors](North_Moors.md)
-- [Gấu Bắc Cực](North_Polar_Bear.md)
+- [North Polar Bear](North_Polar_Bear.md)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=North_Pole&amp;action=edit&amp;redlink=1" title="North Pole (page does not exist)">Bắc Cực</a>
 - [Bắc Sindarin](North_Sindarin.md)
 - [Đường phía Bắc](North_Road.md)
-- [Đường Bắc Nam](North-South_Road.md)
+- [Con đường Bắc-Nam](North-South_Road.md)
 - [Cầu thang phía Bắc](North_Stair.md)
 - [Gia đình miền Bắc](North-took_Family.md)
 - [Lời tiên tri về phương Bắc](../P/Prophecy_of_the_North~56305.md)
 - [Biệt đội miền Bắc](../R/Rangers_of_the_North.md)
-- [Hội trường thứ 21](../T/Twenty-first_Hall.md) của [North End](North_End.md)
+- [Đại sảnh thứ Hai mươi mốt](../T/Twenty-first_Hall.md) của [Đầu phía Bắc](North_End.md)
 
 ## Các bài viết khác {#Other_writings}
 
@@ -53,9 +53,9 @@ Trong một [bài thơ liên quan](../D/Domine_defende_nos_contra_hos_Motores_bo
 - *[Dark Are the Clouds about the North](../D/Dark_Are_the_Clouds_about_the_North.md)*
 - [Vành trước](../F/Forodrim.md)
 - [Nolan Bắc](Nolan_North.md)
-- [Hiệp hội Tolkien Đông Bắc](North_East_Tolkien_Society.md)
+- [Hội phương Đông Tolkien phía Bắc](North_East_Tolkien_Society.md)
 - [Ngôn ngữ German Bắc](North_Germanic_languages.md)
-- [Bản đồ Beleriand và các vùng đất phía Bắc](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md)
+- [Bản đồ Beleriand và đất phía Bắc](../M/Map_of_Beleriand_and_the_Lands_to_the_North.md)
 - *[Rangers of the North](<../R/Rangers_of_the_North_(book).md>)*
 - *[The Lord of the Rings: War in the North](../T/The_Lord_of_the_Rings%253A_War_in_the_North.md)*
 

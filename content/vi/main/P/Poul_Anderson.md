@@ -33,7 +33,7 @@ Năm 1972, ông là Khách mời danh dự tại [Mythcon 3](../M/Mythcon_3.md).
 - [1991](../_/1991.md): *[After the King: Stories In Honor of J.R.R. Tolkien](../A/After_the_King.md)*
     - "Niềm tin" (với <a class="extiw" href="http://en.wikipedia.org/wiki/Karen_Kruse_Anderson" title="wikipedia:Karen Kruse Anderson">Karen Anderson</a>)
 - [2001](../_/2001.md): *[Meditations on Middle-earth](../M/Meditations_on_Middle-earth.md)*
-    - "Đánh thức yêu tinh"
+    - "Đánh thức Tiên tộc"
 
 ## Liên kết ngoài {#External_links}
 

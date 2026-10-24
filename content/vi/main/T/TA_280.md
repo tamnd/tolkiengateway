@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 280"
 ---
 
-Chuyển hướng đến [Tuổi thứ ba 280](Third_Age_280.md).
+Chuyển hướng tới [Kỷ Đệ Tam 280](Third_Age_280.md).

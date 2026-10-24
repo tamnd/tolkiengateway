@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "High Pass"
 ---
 
-Chuyển hướng tới [Đạt cao](../H/High_Pass.md).
+Chuyển hướng đến [Đèo Cao](../H/High_Pass.md).

@@ -46,11 +46,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Sau khi phát hiện Đại đội [Người lùn](../D/Dwarves.md) đang cắm trại ở [Vùng đất đơn độc](../L/Lone-lands.md), Yazneg đã gửi [Fimbul](../F/Fimbul.md) để thông báo cho Azog rằng họ đã tìm thấy Thorin và Đại đội của ông ta. Sau đó, đoàn quân Orc đuổi kịp Thorin gần [Rivendell](../R/Rivendell.md), nhưng bị phân tâm bởi [Radagast](../R/Radagast.md) và chiếc xe trượt tuyết con thỏ của ông ta. Tuy nhiên, trong cuộc rượt đuổi, một trong những thợ săn đã phát hiện ra nơi Thorin và đồng đội của ông ta đang ẩn náu. Sau đó, lũ Orc bao vây những người lùn và cố gắng tấn công họ, nhưng buộc phải rút lui do một cuộc tấn công bất ngờ của [Elrond](../E/Elrond.md) và lực lượng [Elven](../E/Elves.md) của hắn. Yazneg và Fimbul tay trắng trở về Weathertop, nơi Azog cuối cùng ném Yazneg đến [Wargs](../W/Wargs.md) của bầy để ăn thịt, làm gương cho những người còn lại không làm ông ta thất vọng.
+Sau khi phát hiện Công ty [Người Lùn](../D/Dwarves.md) cắm trại ở [Vùng đất đơn độc](../L/Lone-lands.md), Yazneg đã gửi [Fimbul](../F/Fimbul.md) để thông báo cho Azog rằng họ đã tìm thấy Thorin và Công ty của ông ta. Sau đó, đội quân Orc đuổi kịp Thorin ở gần [Rivendell](../R/Rivendell.md), nhưng bị phân tâm bởi [Radagast](../R/Radagast.md) và chiếc xe trượt tuyết con thỏ của ông ta. Tuy nhiên, trong quá trình rượt đuổi, một trong những thợ săn đã phát hiện ra nơi Thorin và Đại đội của ông ta đang ẩn náu. Sau đó, lũ Orc bao vây những người lùn và cố gắng tấn công họ, nhưng buộc phải rút lui do một cuộc tấn công bất ngờ của [Elrond](../E/Elrond.md) và lực lượng [Tiên](../E/Elves.md) của hắn. Yazneg và Fimbul trở về tay không tại Weathertop, nơi Azog cuối cùng ném Yazneg về [Warg](../W/Wargs.md) của bầy để ăn thịt, như một ví dụ cho những người còn lại không làm ông ta thất vọng.
 
 ## Từ nguyên {#Etymology}
 
-Yazneg không phải là cái tên do Tolkien đặt ra và nguồn gốc của nó không được giải thích trong phim. Tuy nhiên [David Salo](../D/David_Salo.md), người từng làm cố vấn ngôn ngữ cho [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>), đã cung cấp một danh sách từ tiếng Orkish trên blog của mình, trong đó *yaz* là "tên" và *-neg* là "không có".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Yazneg không phải là cái tên được tạo bởi Tolkien và nguồn gốc của nó không được giải thích trong phim. Tuy nhiên [David Salo](../D/David_Salo.md), người từng làm cố vấn ngôn ngữ cho [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>), đã cung cấp một danh sách từ tiếng Orkish trên blog của mình, trong đó bóng *yaz* là "tên" và *-neg* là "không có".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 

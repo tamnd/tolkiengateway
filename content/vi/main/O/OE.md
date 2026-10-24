@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Old English"
 ---
 
-Chuyển hướng sang [Tiếng Anh cổ](Old_English.md).
+Chuyển hướng đến [tiếng Anh cổ](Old_English.md).

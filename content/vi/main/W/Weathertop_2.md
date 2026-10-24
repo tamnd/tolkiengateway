@@ -32,25 +32,25 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Weathertop_2_cover.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b8/Weathertop_2_cover.jpg/320px-Weathertop_2_cover.jpg" decoding="async" loading="lazy" width="320" height="457" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b8/Weathertop_2_cover.jpg/480px-Weathertop_2_cover.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b8/Weathertop_2_cover.jpg/640px-Weathertop_2_cover.jpg 2x" data-file-width="1688" data-file-height="2409"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Weathertop 2</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../D/Denis_Bridoux.md" title="Denis Bridoux">Denis Bridoux</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../K/Kay_Woollard.md" title="Kay Woollard">Kay Woollard</a> (art editor)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Amon Sûl Smial</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Spring <a href="../_/1985.md" title="1985">1985</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0950-3757</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Weathertop_3.md" title="Weathertop 3"><i>Weathertop</i> 3</a></td></tr></tbody></table>
 
-<b><i>Weathertop</i> 2</b> là số thứ hai trên tạp chí của Amon Sûl Smial *[Weathertop](<Weathertop_(journal).md>)*.
+<b><i>Weathertop</i> 2</b> là số thứ hai trong tạp chí Amon Sûl của Smial *[Weathertop](<Weathertop_(journal).md>)*.
 
 ## Nội dung {#Contents}
 
 - Ảnh bìa của [Kay Woollard](../K/Kay_Woollard.md)<br>Thiết kế trung tâm trang bìa: "Fingon" của \[\[Denis Bridoux
-- Bài xã luận và thư từ
+- Bài xã luận và Thư từ
 - Đánh giá sách
-- "Về mùa xuân Arda" của Denis Bridoux
+- "Của Mùa Xuân của Arda" của Denis Bridoux
     - nghệ thuật của Kay Woollard
 - Công thức
     - văn bản và nghệ thuật của Pauline Lee
-- "Cánh Elwing"
+- "Elwing"
     - nghệ thuật của Lynn Close
 - "Sự diệt vong của Undómiel" của Valerie Sutton
     - nghệ thuật của Dora B.
 - Trang Wilmont, của Kay Woollard
-- "Sảnh của Cha Tôi"
+- "Hội trường của cha tôi"
     - văn bản và nghệ thuật của Debra Haigh-Hutchinson
-- "Nhện, xác sống và minotaur" của [Rhona Beare](../R/Rhona_Beare.md)
+- "Nhện, wight và minotaur" của [Rhona Beare](../R/Rhona_Beare.md)
     - tiêu đề của Dora B.
 - Phụ lục và bản sửa đổi cho [Vấn đề số 1](Weathertop_1.md)
 - "Nỗi kinh hoàng của Tatty Walk, Phần Một"

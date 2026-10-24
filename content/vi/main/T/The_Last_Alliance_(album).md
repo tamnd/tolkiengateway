@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Last_Alliance.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/7/7e/The_Last_Alliance.jpg/250px-The_Last_Alliance.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/7e/The_Last_Alliance.jpg/375px-The_Last_Alliance.jpg 1.5x, https://tolkiengateway.net/w/images/7/7e/The_Last_Alliance.jpg 2x" data-file-width="450" data-file-height="450"/></a><figcaption>Cover of <i>The Last Alliance</i><br/> <table class="TGtable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse; margin:0 auto; clear: both;">  <tbody><tr style="text-align: center;"> <td width="30%">Preceded by:<br/><b><a href="../E/Evernight_(album).md" title="Evernight (album)">Evernight</a></b> </td> <td width="40%"><b><a href="../B/Battlelore.md" title="Battlelore">Battlelore</a> discography</b> </td> <td width="30%">Followed by:<br/><b><a href="../D/Doombound_(album).md" title="Doombound (album)">Doombound</a></b> </td></tr></tbody></table></figcaption></figure>
 
-<i><b>The Last Alliance</b></i> là album dài thứ năm của ban nhạc epic metal [Battlelore](../B/Battlelore.md). Nó được phát hành vào ngày 24 tháng 9, [2008](../_/2008.md).
+<i><b>The Liên minh Cuối cùng</b></i> là album dài thứ năm của ban nhạc epic metal [Battlelore](../B/Battlelore.md). Nó được phát hành vào ngày tháng Chín 24, [2008](../_/2008.md).
 
 ## Danh sách bản nhạc {#Track_listing}
 
@@ -31,8 +31,8 @@ images:
 3. "Cuộc Đại Tụ Tập"
 4. "Người bảo vệ"
 5. "Tiếng nói của người sa ngã"
-6. "Con gái của mặt trời"
-7. "Rồng Xanh"
+6. "Con gái của Mặt Trời"
+7. "Xanh Rồng"
 8. "Thức tỉnh"
 9. "Giấc mơ sử thi"
 10. "Tháp Trăng"
@@ -40,7 +40,7 @@ images:
 
 ### DVD thưởng {#Bonus_DVD}
 
-1. "Ghân Rừng"
+1. "Ghân của Rừng"
 2. "Thiên đường của đại dương"
 3. "Vào Thế Giới Mới"
 4. "Nhà trọ của tên cướp biển"

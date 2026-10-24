@@ -31,17 +31,17 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien cho biết tên của ông là *John*, được nhiều người theo đạo Cơ đốc yêu thích và sử dụng. Ông sinh vào Tuần Bát nhật Thánh Gioan Thánh sử và nhận ngài làm bổn mạng của mình. Cha mẹ anh chưa từng nghĩ đến điều gì kiểu Romish như vậy; ông được gọi là John vì phong tục gia đình, trong đó con trai cả của con trai cả được gọi là John.
+Về tên của ông, nó là *John*, được nhiều người theo đạo Cơ đốc yêu thích và sử dụng, Tolkien cho biết. Ông sinh vào Tuần Bát nhật Thánh Gioan Thánh sử và nhận ngài làm bổn mạng của mình. Cha mẹ anh chưa từng nghĩ đến điều gì kiểu Romish như vậy; ông được gọi là John vì phong tục gia đình, trong đó con trai cả của con trai cả được gọi là John.
 
-Cha anh rất quý mến John Benjamin Reuel. Mẹ anh tự tin rằng mình sẽ sinh được một cô con gái nên đã quyết định chọn Rosalind. Khi anh đến sớm và còn là một cậu bé, Ronald được thay ra. Ông sử dụng John, họ hàng gần của ông sử dụng Ronald, bạn bè ở trường sử dụng John hoặc John Ronald hoặc J.R-squared. Đối với một cái tên “Elvish”, ông có thể nghĩ ra một cái tên nhưng ông không và cũng không muốn ở trong lịch sử do mình phát minh ra.
+Cha anh rất quý mến John Benjamin Reuel. Mẹ anh tự tin rằng mình sẽ sinh được một cô con gái nên đã quyết định chọn Rosalind. Khi anh đến sớm và còn là một cậu bé, Ronald được thay ra. Ông sử dụng John, họ hàng gần của ông sử dụng Ronald, bạn bè ở trường sử dụng John hoặc John Ronald hoặc J.R-squared. Đối với cái tên “Elvish”, ông có thể nghĩ ra một cái tên nhưng ông không và cũng không muốn ở trong lịch sử do mình sáng tạo ra.
 
 Về phần Thầy: Ngài không phải là một - trong việc sử dụng cao nó sẽ là tự phụ và báng bổ và trong việc sử dụng thấp nó sẽ là tự phụ. Ông là một "giáo sư", bây giờ là một chức danh xã hội thông thường.
 
 Thế nên có vẻ như John hoặc Ronald không vừa lòng Amy nên họ đành phải quay về với “Giáo sư” (và ông sẽ gọi cô là Lady).
 
-Sau đó còn có *Reuel*, mà Tolkien tin rằng đó là họ của một người bạn của ông nội anh. Gia đình tin rằng đó là người Pháp. Tolkien nghĩ rằng ông sẽ gọi bà là Aimée, cái tên mà ông thích hơn là Anh hóa.
+Sau đó còn có *Reuel* mà Tolkien tin rằng đó là họ của một người bạn của ông nội anh. Gia đình tin rằng đó là người Pháp. Tolkien nghĩ anh sẽ gọi cô là Aimée, cái tên mà anh thích hơn là Anh hoá.
 
-Ở phần tái bút, Tolkien đã thêm vào [một đoạn thơ ngắn](../J/J.R.R._Tolkien_had_a_cat_called_Grimalkin%253A.md).
+Ở phần tái bút, Tolkien đã thêm [một đoạn thơ ngắn](../J/J.R.R._Tolkien_had_a_cat_called_Grimalkin%253A.md).
 
 <br>
 

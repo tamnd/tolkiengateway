@@ -20,4 +20,4 @@ categories:
 
 Tất cả mọi thứ trong [Arda](../A/Arda.md) đều rơi vào cõi Nhìn thấy hoặc [Không nhìn thấy](../U/Unseen.md).
 
-Cái nhìn thấy là những vật thể vật chất và những sinh vật sống, thở. Tuy nhiên, những cá tính mạnh mẽ như [High Elves](../C/Calaquendi.md) cũng có hình dạng khác ở cõi Vô hình.
+Cái nhìn thấy là những vật thể vật chất và những sinh vật sống, thở. Tuy nhiên, những cá tính mạnh mẽ như [High Elves](../C/Calaquendi.md) cũng có một hình dạng khác ở cõi Vô hình.

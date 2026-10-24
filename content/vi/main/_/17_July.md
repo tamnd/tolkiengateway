@@ -67,24 +67,24 @@ Sự kiện xảy ra vào ngày 17 tháng 7.
 - **[1918](1918.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tham dự cuộc kiểm tra của hội đồng y tế ở Kingston-upon-Hull.
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 325](../L/Letter_325.md).
 - **[1981](1981.md)** - *[The Tolkien Quiz Book](<../T/The_Tolkien_Quiz_Book_(by_Robinson_and_Wilson).md>)*, cuốn sách của Robinson và Wilson, được xuất bản.
-- **[1982](1982.md)** - Tập đầu tiên của phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
+- **[1982](1982.md)** - Tập đầu tiên phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1985](1985.md)** - [Robert Havard](../R/Robert_Havard.md), [Mơ hồ](../I/Inklings.md), qua đời.
 - **[1998](1998.md)** - Tác giả [Paul H. Kocher](../P/Paul_H._Kocher.md) qua đời.
 - **[1998](1998.md)** - [Mythcon 29](../M/Mythcon_29.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton,_Illinois" title="wikipedia:Wheaton, Illinois">Wheaton, Illinois</a>.
 - **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle" title="wikipedia:Seattle">Seattle</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Washington_(state)" title="wikipedia:Washington (state)">Washington</a>.
 - **[2009](2009.md)** - [Mythcon 40](../M/Mythcon_40.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Los_Angeles" title="wikipedia:Los Angeles">Los Angeles</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- **[2010](2010.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2010 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bad_Hersfeld" title="wikipedia:Bad Hersfeld">Bad Hersfeld</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2010](2010.md)** - [Tolkien Chuyện](../T/Tolkien_Thing.md) năm 2010 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bad_Hersfeld" title="wikipedia:Bad Hersfeld">Bad Hersfeld</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2010](2010.md)** - [Mythcon 41](../M/Mythcon_41.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Dallas" title="wikipedia:Dallas">Dallas</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Texas" title="wikipedia:Texas">Texas</a>.
-- **[2011](2011.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2011 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Breuberg" title="wikipedia:Breuberg">Breuberg</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2011](2011.md)** - [Tolkien Sự việc](../T/Tolkien_Thing.md) năm 2011 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Breuberg" title="wikipedia:Breuberg">Breuberg</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2011](2011.md)** - [Mythcon 42](../M/Mythcon_42.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico" title="wikipedia:Albuquerque, New Mexico">Albuquerque, New Mexico</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Trăng non<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - Mới Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

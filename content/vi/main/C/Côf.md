@@ -15,7 +15,7 @@ sort_keys:
   "Sindarin nouns": "Cof"
 ---
 
-<i><b>côf</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "bay".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+<i><b>côf</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "bay".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -23,7 +23,7 @@ sort_keys:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một văn bản ban đầu có tên là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Noldorin_Word-lists&amp;action=edit&amp;redlink=1" title="Noldorin Word-lists (page does not exist)">Danh sách từ Noldorin</a></i>, xuất hiện từ <i><b>cú</b></i> ("bay, cove").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong văn bản ban đầu có tên là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Noldorin_Word-lists&amp;action=edit&amp;redlink=1" title="Noldorin Word-lists (page does not exist)">Noldorin Danh sách từ</a></i>, xuất hiện từ <i><b>cú</b></i> ("bay, cove").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

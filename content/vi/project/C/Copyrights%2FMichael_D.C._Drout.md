@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Drout, Michael D.C."
 ---
 
-- Người giữ bản quyền [Michael D.C. Drout](../../main/M/Michael_D.C._Drout.md) cấp quyền sử dụng tệp [Michael D.C. Drout.png](../../file/M/Michael_D.C._Drout.png.md) trên Tolkien Gateway.
+- Quyền được chủ sở hữu bản quyền [Michael D.C. Drout](../../main/M/Michael_D.C._Drout.md) cấp để sử dụng tệp [Michael D.C. Drout.png](../../file/M/Michael_D.C._Drout.png.md) trên Tolkien Gateway.
 - Ngày: 3 tháng 12 năm 2014.
 - Người dùng đã xin phép qua email: [Người dùng:Morgan](https://tolkiengateway.net/wiki/User:Morgan).

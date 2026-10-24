@@ -14,7 +14,7 @@ categories:
   - "Qenya nouns"
 ---
 
-<i><b>otsola</b></i> là tên [Qenya](../Q/Qenya.md) cho "tuần". [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã hình dung tuần [Elvish](../E/Elves.md) này có bảy ngày, giống như tuần của chúng ta và cung cấp tên các ngày trong tuần ở Qenya.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>otsola</b></i> là tên [Qenya](../Q/Qenya.md) của "tuần". [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã hình dung tuần [Elvish](../E/Elves.md) này có bảy ngày, giống như tuần của chúng ta và cung cấp tên của các ngày trong tuần trong Qenya.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <table class="TGtable">
 <tbody><tr>
@@ -62,13 +62,13 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-*Otsola* chứa *[otso](Otso.md)* ("bảy") và *galā* ("ban ngày") (xem sau [Quenya](../Q/Quenya.md) *[cala](../C/Cala.md)*). Bản dịch [Gnomish](../G/Gnomish.md) của nó là <i><b>othlad</b></i>, từ *odin* ("bảy"), và Tolkien lấy nó từ [Primitive Elvish](../P/Primitive_Elvish.md) <i>*ot·g'lāta</i>.<sup id="cite_ref-gl62_2-0" class="reference"><a href="#cite_note-gl62-2">[2]</a></sup>
+*Otsola* chứa *[otso](Otso.md)* ("bảy") và *galā* ("ban ngày") (xem sau [Quenya](../Q/Quenya.md) *[cala](../C/Cala.md)*). Bản dịch [Gnomish](../G/Gnomish.md) của nó là <i><b>othlad</b></i>, từ *odin* ("bảy") và Tolkien bắt nguồn từ [Nguyên thủy Elvish](../P/Primitive_Elvish.md) <i>*ot·g'lāta</i>.<sup id="cite_ref-gl62_2-0" class="reference"><a href="#cite_note-gl62-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
 Tên ban đầu của *otsola* là *otsan*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên Gnomish trước đó là <i><b>ochlad</b></i>.<sup id="cite_ref-gl62_2-1" class="reference"><a href="#cite_note-gl62-2">[2]</a></sup>
 
-Trong *[The Etymologies](../T/The_Etymologies.md)*, Tolkien đã viết về một tuần có năm ngày được gọi là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lemnar&amp;action=edit&amp;redlink=1" title="Lemnar (page does not exist)">lemnar</a></i>. Tuy nhiên, trong nền của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* [Yêu tinh](../E/Elves.md) sử dụng tuần sáu ngày được gọi là *[enquië](../E/Enquië.md)* trong [Quenya](../Q/Quenya.md). [Đàn ông](../M/Men.md) sử dụng tuần bảy ngày,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nhưng thuật ngữ Tiên không được đưa ra. <span></span>
+Trong *[The Etymologies](../T/The_Etymologies.md)*, Tolkien đã viết về tuần có năm ngày được gọi là <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Lemnar&amp;action=edit&amp;redlink=1" title="Lemnar (page does not exist)">lemnar</a></i>. Tuy nhiên, trong nền của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [Tiên tộc](../E/Elves.md) sử dụng tuần sáu ngày được gọi là *[enquië](../E/Enquië.md)* trong [Quenya](../Q/Quenya.md). [Con Người](../M/Men.md) sử dụng tuần bảy ngày,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nhưng thuật ngữ Elvish không được đưa ra. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

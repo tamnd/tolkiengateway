@@ -15,9 +15,9 @@ sort_keys:
   "Noldorin nouns": "Hur"
 ---
 
-<i><b>hûr</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "sẵn sàng hành động, sức sống, tinh thần bốc lửa".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>hûr</b></i> là từ [Noldorin](../N/Noldorin.md) mang ý nghĩa "sẵn sàng hành động, nghị lực, tinh thần bốc lửa".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
-Vẫn giữ nguyên hình thức và ý nghĩa, *hûr* thường được coi là một từ [Tân Sindarin](../N/Neo-Elvish.md) hợp lệ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-Tolkiendil_4-0" class="reference"><a href="#cite_note-Tolkiendil-4">[4]</a></sup>
+Vẫn giữ nguyên hình thức và ý nghĩa, *hûr* thường được coi là một từ [Neo-Sindarin](../N/Neo-Elvish.md) hợp lệ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-Tolkiendil_4-0" class="reference"><a href="#cite_note-Tolkiendil-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -25,7 +25,7 @@ Vẫn giữ nguyên hình thức và ý nghĩa, *hûr* thường được coi l�
 
 ## Ví dụ {#Examples}
 
-- [Hài hước](Huor.md#Etymology)<sup id="cite_ref-Tolkiendil_4-1" class="reference"><a href="#cite_note-Tolkiendil-4">[4]</a></sup>
+- [Huor](Huor.md#Etymology)<sup id="cite_ref-Tolkiendil_4-1" class="reference"><a href="#cite_note-Tolkiendil-4">[4]</a></sup>
 - [Húrin](Húrin.md#Etymology)<sup id="cite_ref-LR_1-2" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 <span></span>

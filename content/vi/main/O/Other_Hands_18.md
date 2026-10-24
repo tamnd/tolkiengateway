@@ -41,6 +41,6 @@ infobox:
 - Những người vợ hiệp sĩ của Calenardhon - Jason Vester
 - Chơi ngựa con: ý tưởng sử dụng ngựa trong chiến dịch Trung Địa của bạn - Bernie Roessler
 - Nhật ký của Rastarin - Bridget Buxton
-- Đánh giá sản phẩm: Arnor: The Land - Jasna Martinovic
-- Đánh giá sản phẩm: Arnor: The People - Gen Larson
-- Đánh giá sản phẩm: Trung địa: Minions bóng tối - Marco Antonio Blanco Navarrete
+- Đánh giá sản phẩm: Arnor: Vùng đất - Jasna Martinovic
+- Đánh giá sản phẩm: Arnor: Con Người - Gen Larson
+- Đánh giá sản phẩm: Trung Địa: Dark Minions - Marco Antonio Blanco Navarrete

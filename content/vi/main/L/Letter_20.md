@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Bức thư này là thư trả lời cho C.A. Furth của [Allen & Unwin](../A/Allen_and_Unwin.md), người đã viết thư để nói với Tolkien về một cuộc khủng hoảng nhỏ ở các nhà xuất bản do số lượng đơn đặt hàng [Giáng sinh](../C/Christmas.md) cho *[The Hobbit](../T/The_Hobbit.md)*. Tolkien cảm ơn ông Furth về lá thư và các bản sao của *The Hobbit* ông đã nhận được [theo yêu cầu](Letter_19.md). Ông thảo luận về một số sửa đổi mà ông muốn thực hiện trong nội dung của ấn bản tiếp theo, sửa một số lỗi đã được chỉ ra bởi 'người hobbit khiêm tốn' Mr <a class="extiw" href="http://en.wikipedia.org/wiki/Arthur_Ransome" title="wikipedia:Arthur Ransome">Arthur Ransome</a> (việc sử dụng *man*/*men* không phù hợp để chỉ người Hobbit và người lùn ở một vài chỗ).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Bức thư này là thư trả lời cho C.A. Furth của [Allen &amp; Unwin](../A/Allen_and_Unwin.md) người đã viết thư để kể cho Tolkien về một cuộc khủng hoảng nhỏ ở nhà xuất bản do số lượng đơn đặt hàng [Giáng sinh](../C/Christmas.md) cho *[The Hobbit](../T/The_Hobbit.md)*. Tolkien cảm ơn ông Furth về lá thư và các bản sao của *The Hobbit* ông đã nhận được [theo yêu cầu](Letter_19.md). Ông thảo luận về một số sửa đổi mà ông muốn thực hiện trong nội dung của ấn bản tiếp theo, sửa một số lỗi đã được chỉ ra bởi 'người hobbit khiêm tốn' Mr <a class="extiw" href="http://en.wikipedia.org/wiki/Arthur_Ransome" title="wikipedia:Arthur Ransome">Arthur Ransome</a> (việc sử dụng *man*/*men* không phù hợp để chỉ người Hobbit và người lùn ở một vài chỗ).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 Mối quan tâm chính về 'lịch sử' là dòng kết thúc:
 

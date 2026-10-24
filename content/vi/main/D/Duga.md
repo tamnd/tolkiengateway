@@ -26,7 +26,7 @@ Tạp chí truyện tranh <i><b>Duga</b></i> (tiếng Bungari: **Дъга**, ph�
 
 ### *The Hobbit* {#The_Hobbit}
 
-Tác giả và họa sĩ minh họa của loạt phim đầu tiên, tên là *Bilbo Baggins hay There and Back Again* (tiếng Bungari: *Билбо Бегинс или Дотам и обратно*, phát âm IPA: \[bilbo bɛgins ili dotam i obratno\]), là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sotir_Gelev&amp;action=edit&amp;redlink=1" title="Sotir Gelev (page does not exist)">Sotir Gelev</a>, một nghệ sĩ và đạo diễn phim nổi tiếng người Bulgaria.
+Tác giả và họa sĩ minh họa của loạt phim đầu tiên, có tên *Bilbo Baggins hoặc There and Back Again* (tiếng Bulgaria: *Билбо Бегинс или Дотам и обратно*, phát âm IPA: \[bilbo bɛgins ili dotam i obratno\]), là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Sotir_Gelev&amp;action=edit&amp;redlink=1" title="Sotir Gelev (page does not exist)">Sotir Gelev</a>, một nghệ sĩ và đạo diễn phim nổi tiếng người Bulgaria.
 
 ### *The Lord of the Rings* {#The_Lord_of_the_Rings}
 

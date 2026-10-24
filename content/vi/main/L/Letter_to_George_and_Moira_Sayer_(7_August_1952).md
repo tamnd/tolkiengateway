@@ -16,7 +16,7 @@ sort_keys:
   "Letters": "Sayer, George (1952-08-07)"
 ---
 
-Vào [7 tháng 8](../_/7_August.md) [1952](../_/1952.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [George và Moira Sayer](../G/George_Sayer.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [7 tháng 8](../_/7_August.md) [1952](../_/1952.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho [George và Moira Sayer](../G/George_Sayer.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - **Chủ đề:** Việc xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 - **Xuất bản:** Đoạn trích từ bức thư xuất hiện trong *[Christie's 20th Century Books and Manuscripts 16 November 2001](../C/Christie's_20th_Century_Books_and_Manuscripts_16_November_2001.md)*. Mô tả của bức thư xuất hiện trong *[The J.R.R. Tolkien Companion and Guide: I. Chronology](../T/The_J.R.R._Tolkien_Companion_and_Guide.md)*.

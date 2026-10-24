@@ -21,11 +21,11 @@ images:
   - "Disambig.png"
 ---
 
-**Voronwë** là [Quenya](../Q/Quenya.md) có nghĩa là "Kiên định" và có thể ám chỉ đến:
+**Voronwë** là [Quenya](../Q/Quenya.md) dành cho "Vững chắc" và có thể tham khảo:
 
-- **[Voronwë](Voronwë.md)**, một [Yêu tinh](../E/Elves.md) của [Thời đại thứ nhất](../F/First_Age.md), người đã dẫn [Tuor](../T/Tuor.md) đến thành phố ẩn giấu [Gondolin](../G/Gondolin.md).
-- [Mardil Voronwë](../M/Mardil.md) ([T.A.](../T/Third_Age.md) [1960](../T/Third_Age_1960.md) - [T.A.](../T/Third_Age.md) [2080](../T/Third_Age_2080.md)), [Quản lý cai trị](../R/Ruling_Steward.md) đầu tiên của [Gondor](../G/Gondor.md).
-- [Voronwë](<Voronwë_(companion_of_Elendil).md>), bạn đồng hành của [Elendil](../E/Elendil.md).
+- **[Voronwë](Voronwë.md)**, một [Tiên](../E/Elves.md) của [Kỷ Đệ Nhất](../F/First_Age.md) đã dẫn [Tuor](../T/Tuor.md) đến thành phố ẩn giấu [Gondolin](../G/Gondolin.md).
+- [Mardil Voronwë](../M/Mardil.md) ([T.A.](../T/Third_Age.md) [1960](../T/Third_Age_1960.md) - [T.A.](../T/Third_Age.md) [2080](../T/Third_Age_2080.md)), [Người quản lý cầm quyền](../R/Ruling_Steward.md) đầu tiên của [Gondor](../G/Gondor.md).
+- [Voronwë](<Voronwë_(companion_of_Elendil).md>), người bạn đồng hành của [Elendil](../E/Elendil.md).
 
 <hr style="margin-top:15px;"/>
 

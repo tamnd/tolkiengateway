@@ -16,7 +16,7 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_322.md" title="First Age 322">322</a><a href="First_Age_336.md" title="First Age 336">336</a><a href="First_Age_337.md" title="First Age 337">337</a><a class="mw-selflink selflink">338</a><a href="First_Age_339.md" title="First Age 339">339</a><a href="First_Age_340.md" title="First Age 340">340</a><a href="First_Age_341.md" title="First Age 341">341</a></div></div></div></div></div></div>
 
-**Kỷ thứ nhất 338** (viết tắt là **F.A. 338**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 338 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 338** (viết tắt là **F.A. 338**) là năm [thứ 338 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
@@ -25,7 +25,7 @@ Các sự kiện đáng chú ý trong năm nay bao gồm:
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Mặc dù bảng ở trang 231 ghi ngày sinh của Boromir là 337, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Ghi chú của Christopher Tolkien</a>nói rằng ngày này đã được đổi thành 338 tại một thời điểm nào đó trong tương lai.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Mặc dù bảng ở trang 231 ghi ngày sinh của Boromir là 337, nhưng ghi chú của <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a>cho biết ngày này đã được đổi thành 338 tại một thời điểm nào đó trong tương lai.</span>
 </li>
 </ol></div></span>
 

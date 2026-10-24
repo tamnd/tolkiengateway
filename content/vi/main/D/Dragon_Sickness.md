@@ -14,7 +14,7 @@ sort_keys:
   "The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition": "211"
 ---
 
-**Dragon Sickness** là bài hát thứ 11 trong đĩa hai của [The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), bởi [Howard Shore](../H/Howard_Shore.md).
+**Rồng Sickness** là ca khúc thứ 11 trong đĩa hai của [The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack - Special Edition](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), bởi [Howard Shore](../H/Howard_Shore.md).
 
 ## Xem thêm {#See_also}
 

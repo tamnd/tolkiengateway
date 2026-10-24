@@ -16,7 +16,7 @@ sort_keys:
   "Númenor": "Queen of Numenor"
 ---
 
-**Nữ hoàng Númenor** là danh hiệu dành cho vợ/chồng của bất kỳ [Vua Númenor](../K/King_of_Númenor.md) nào, hoặc ba [Nữ hoàng cai trị Númenor](../R/Ruling_Queens_of_Númenor.md).
+**Nữ hoàng của Númenor** là danh hiệu của vợ/chồng của bất kỳ [Vua nào của Númenor](../K/King_of_Númenor.md), hoặc ba [Nữ hoàng cai trị của Númenor](../R/Ruling_Queens_of_Númenor.md).
 
 <table rules="all" align="center" style="border:1px solid darkgrey; border-collapse:collapse" cellpadding="3" cellspacing="0">
 <tbody><tr>

@@ -29,13 +29,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Penni</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origins</th><td class="tg-infobox-data"><a href="../N/Nelyar.md" title="Nelyar">Nelyar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Locations</th><td class="tg-infobox-data"><a href="../V/Vales_of_Anduin.md" title="Vales of Anduin">Vales of Anduin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../S/Silvan_Elves.md" title="Silvan Elves">Wood-elves</a></td></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data">One of the many <a href="../A/Avarin.md" title="Avarin">Avarin</a> languages</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data">Immortal</td></tr></tbody></table>
 
-**Penni** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả bản thân họ. Không rõ liệu cái tên "Penni" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari nói chung. Cái tên này đặc biệt được biết đến trong số [Yêu tinh rừng](../S/Silvan_Elves.md) của [Vales of Anduin](../V/Vales_of_Anduin.md).
+**Penni** là thuật ngữ được một số [Avari](../A/Avari.md) sử dụng để mô tả bản thân họ. Không biết tên "Penni" được áp dụng cho một nhóm Avari cụ thể hay cho tất cả Avari nói chung. Cái tên này đặc biệt được biết đến trong số [Tiên rừng](../S/Silvan_Elves.md) của [Thung lũng Anduin](../V/Vales_of_Anduin.md).
 
-Có ý kiến ​​​​cho rằng nhóm Avari tự gọi mình là "Penni" ban đầu thuộc về [Nelyar](../N/Nelyar.md), và sự chuyển đổi [PQ](PQ.md) *kw* sang *p* đã xảy ra giữa [Lindar](../L/Lindar.md) tại [Sự phân chia của Yêu tinh](../S/Sundering_of_the_Elves.md).<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
+Có ý kiến ​​​​cho rằng nhóm Avari tự gọi mình là "Penni" ban đầu thuộc về [Nelyar](../N/Nelyar.md) và sự chuyển đổi [PQ](PQ.md) *kw* sang *p* đã xảy ra giữa [Lindar](../L/Lindar.md) tại [Sự chia cắt của Tiên tộc](../S/Sundering_of_the_Elves.md).<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*penni* là từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Quendian nguyên thủy](Primitive_Quendian.md) *[kwendī](../K/Kwende.md)*.<sup id="cite_ref-Author_1-1" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
+*penni* là từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Primitive Quendian](Primitive_Quendian.md) *[kwendī](../K/Kwende.md)*.<sup id="cite_ref-Author_1-1" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -47,7 +47,7 @@ Có ý kiến ​​​​cho rằng nhóm Avari tự gọi mình là "Penni" ba
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>In this instance it is stated that the Penni joined themselves to the Nandor.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

@@ -74,9 +74,9 @@ Sự kiện xảy ra vào ngày 29 tháng 2.
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Aragorn](../A/Aragorn.md) tới vùng Downs.
-    - Cuộc tấn công [Rohirrim](../R/Rohirrim.md) [](../A/Ambush_at_Fangorn_Forest.md) lúc mặt trời mọc và tiêu diệt lũ Orc; cái chết của [Gárulf](../G/Gárulf.md), [Grishnákh](../G/Grishnákh.md) và [Uglúk](../U/Uglúk.md).
-    - [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) trốn thoát khỏi [Orc](../O/Orcs.md) và gặp [Treebeard](../T/Treebeard.md).
+    - [Aragorn](../A/Aragorn.md) đến được vùng Downs.
+    - Cuộc [Rohirrim](../R/Rohirrim.md) [tấn công](../A/Ambush_at_Fangorn_Forest.md) vào lúc mặt trời mọc và tiêu diệt Orc; cái chết của [Gárulf](../G/Gárulf.md), [Grishnákh](../G/Grishnákh.md) và [Uglúk](../U/Uglúk.md).
+    - [Merry](../M/Meriadoc_Brandybuck.md) và [Pippin](../P/Peregrin_Took.md) thoát khỏi [Orc](../O/Orcs.md) và gặp [Treebeard](../T/Treebeard.md).
     - [Treebeard](../T/Treebeard.md) dẫn những người hobbit đến [Wellinghall](../W/Wellinghall.md) và họ uống [Ent-draft](../E/Ent-draughts.md).
     - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) đi xuống từ [Emyn Muil](../E/Emyn_Muil.md) và gặp [Gollum](../G/Gollum.md).
     - [Faramir](../F/Faramir.md) nhìn thấy thuyền tang lễ của anh trai mình [Boromir](../B/Boromir.md).

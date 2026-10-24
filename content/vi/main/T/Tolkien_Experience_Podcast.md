@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Tolkien Experience"
 ---
 
-Chuyển hướng tới [Trải nghiệm Tolkien](The_Tolkien_Experience.md).
+Chuyển hướng đến [Trải nghiệm Tolkien](The_Tolkien_Experience.md).

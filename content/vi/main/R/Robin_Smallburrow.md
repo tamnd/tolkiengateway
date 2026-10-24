@@ -56,7 +56,7 @@ Sinh ra và lớn lên ở [Hobbiton](../H/Hobbiton.md), Robin là bạn cũ c�
 
 Ban đầu là một trong mười hai người duy nhất<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> dưới triều đại của [Lotho Sackville-Baggins](../L/Lotho_Sackville-Baggins.md), Robin nhận thấy mình đã vượt quá giới hạn của mình. Ông ta được bổ nhiệm lại vào [Đội quân Eastfarthing đầu tiên](../F/First_Eastfarthing_Troop.md) ở [Frogmorton](../F/Frogmorton.md), được giao nhiệm vụ thực thi [Quy tắc](../T/The_Rules.md).
 
-Robin là một trong những Cảnh sát trưởng được cử đi bắt giữ [bốn người Hobbit](../T/Travellers.md) đã xâm nhập trái phép vào Quận tại [Cầu Brandywine](../B/Brandywine_Bridge.md). Đó giống một cuộc hộ tống hơn là một cuộc bắt giữ, vì Robin và quân của ông đang đi bộ và bốn người Hobbit có ngựa con. Tại [Hòn đá ba rắm](../T/Three-Farthing_Stone.md), Cảnh sát trưởng đã bỏ cuộc và để tù nhân của họ tiếp tục mà không có họ.<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> Không rõ liệu ông ta có nằm trong số Cảnh sát trưởng tham gia cuộc nổi dậy hay không.
+Robin là một trong những Cảnh sát trưởng được phái đến để bắt giữ [bốn Hobbit](../T/Travellers.md) những người đã xâm nhập trái phép vào Shire tại [Cầu Brandywine](../B/Brandywine_Bridge.md). Đó giống một cuộc hộ tống hơn là một cuộc bắt giữ, vì Robin và quân của ông đi bộ và bốn Hobbit có ngựa con. Tại [Hòn đá ba rắm](../T/Three-Farthing_Stone.md), Cảnh sát trưởng đã bỏ cuộc và để tù nhân của họ tiếp tục mà không có họ.<sup id="cite_ref-Scouring_1-1" class="reference"><a href="#cite_note-Scouring-1">[1]</a></sup> Không rõ liệu ông ta có nằm trong số Cảnh sát trưởng tham gia cuộc nổi dậy hay không.
 
 ## Từ nguyên {#Etymology}
 
@@ -95,19 +95,19 @@ Cái tên "Smallburrow" có thể ám chỉ Robin xuất thân từ một gia đ
 		</li>
 </ul>
 
-<b>1995: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi bài sưu tầm Trung Địa</a></i>:</b>
+<b>1995: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>A &#34;Robin Smallburrow&#34; card, illustrated by <a href="../A/Angelo_Montanini.md" title="Angelo Montanini">Angelo Montanini</a>, was produced as part of <a href="../_/1995.md" title="1995">1995</a>&#39;s <i><a href="../M/Middle-earth%253A_The_Wizards.md" title="Middle-earth: The Wizards">Middle-earth: The Wizards</a></i> expansion.</dd></dl>
 
-<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Robin Smallburrow can be found at the <a class="mw-redirect" href="../G/Green_Dragon~72852.md" title="Green Dragon">Green Dragon</a>, voiced by an uncredited <a href="../J/James_Arnold_Taylor.md" title="James Arnold Taylor">James Arnold Taylor</a>. <a href="../L/Lobelia_Sackville-Baggins.md" title="Lobelia Sackville-Baggins">Lobelia Sackville-Baggins</a> orders <a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> to ring the town bell to warn Robin that wolves are in the Shire, which Robin will dismiss as being a rumour. Later at night, he is attacked by a wolf on the streets of <a href="../B/Bywater.md" title="Bywater">Bywater</a>. Frodo can either let the wolf kill him, or save him to increase his Purity meter.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Trò chơi thẻ bài Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
 <dl><dd>Despite not featuring in <a href="../T/The_Lord_of_the_Rings_(film_series).md" title="The Lord of the Rings (film series)"><i>The Lord of the Rings</i> film series</a>, Decipher produced a card depicting the character. He was played by <a href="../T/Timothy_Bartlett.md" title="Timothy Bartlett">Timothy Bartlett</a>.</dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Shirriff Robin Smallburrow is found at <i><a href="../T/The_Ivy_Bush.md" title="The Ivy Bush">The Ivy Bush</a></i> tavern in <a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a>. He helps the player to deal with a problem in <a href="../O/Overhill.md" title="Overhill">Overhill</a> and is also involved in several seasonal festivals.</dd></dl>
 

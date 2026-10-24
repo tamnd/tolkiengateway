@@ -95,11 +95,11 @@ Borlas, một người lính của Gondor, được cảnh báo: đèn hiệu đ
 
 #### Được sản xuất với sự tham gia của {#Produced_with_the_participation_of}
 
-- Auvergne di sản của Arda
+Auvergne kế thừa của - Arda
 - Raphael Coudert
 - Adam Rebika
 - David Juillard
-- André-Paul Đạt Lai Lạt Ma hay còn gọi là Dédé
+- André-Paul Đạt Lai Lạt Ma AKA Dédé
 - Vincent Julien
 - Atos de Bayet & Rosalie
 
@@ -173,7 +173,7 @@ Borlas, một người lính của Gondor, được cảnh báo: đèn hiệu đ
 
 #### Lời cảm ơn đặc biệt tới {#Special_Thanks_To}
 
-- Auvergne di sản của Arda
+Auvergne kế thừa của - Arda
 - Jérémie Lalanne
 - Rémy Beisel Frappart
 - Marie Pigache

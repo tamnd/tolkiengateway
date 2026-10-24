@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/Kuninkaitten_Kirja"
 ---
 
-**Sách của các vị vua** là ghi chép về lịch sử của tất cả [các vị vua của Gondor](../K/Kings_of_Gondor.md) và gia đình họ.
+**Book of the Kings** là bản ghi chép về lịch sử của tất cả các [Vị vua của Gondor](../K/Kings_of_Gondor.md) và gia đình họ.
 
-Sau khi [Berúthiel](Berúthiel.md) bị lưu đày khỏi [Gondor](../G/Gondor.md), chồng cô, Vua [Tarannon Falastur](../T/Tarannon_Falastur.md), đã xóa tên cô khỏi Sách về các vị vua. Tuy nhiên, cô và những con mèo của mình vẫn được [Người](../M/Men.md) Gondor nhớ đến nhiều thế kỷ sau.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau khi [Berúthiel](Berúthiel.md) bị đày khỏi [Gondor](../G/Gondor.md), chồng cô, Vua [Tarannon Falastur](../T/Tarannon_Falastur.md), đã xóa tên cô khỏi Book of the Kings. Tuy nhiên, cô và những con mèo của cô vẫn được [Con Người](../M/Men.md) của Gondor thế kỷ sau nhớ đến.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

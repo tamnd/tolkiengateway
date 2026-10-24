@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 700"
 ---
 
-Chuyển hướng tới [700 thời đại thứ hai](Second_Age_700.md).
+Chuyển hướng tới [Kỷ Đệ Nhị 700](Second_Age_700.md).

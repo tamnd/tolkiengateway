@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 1</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data">Hawke Robinson, <a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Chris Seeman, Chris Wade</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">July <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">49</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 1</b> là số đầu tiên của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 7 năm 2007.
+<b><i>Other Minds</i> 1</b> là số đầu tiên của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 7 năm 2007.
 
 ## Nội dung {#Contents}
 
@@ -38,14 +38,14 @@ infobox:
     - Bởi W.A. Hawke Robinson
 - "Cuộc chiến về trò chơi nhập vai"
     - Bởi W.A. Hawke Robinson
-- "Lập bản đồ Arda"
+- "Ánh xạ Arda"
     - Tác giả Thomas Morwinsky, Stéphane Hoerlé, [Gabriele Quaglia](../G/Gabriele_Quaglia.md), Oliver Schick, Christian Schröder
-- "Của bọn tội phạm Barrow - Phần Một"
+- "Của Barrow-wight - Phần Một"
     - Bởi Neville Percy
-- "Phép thuật ở Trung Địa"
+- "Phép thuật trong Trung Địa"
     - Bởi Chris Seeman
-- "Suy nghĩ về Imladris - Phần Một"
+- "Suy Nghĩ Về Imladris - Phần Một"
     - Bởi Thomas Morwinsky
 - "Bản in đẹp"
 - "Giấy phép Creative Commons"
-- "Phụ lục: Bản đồ cho 'Lập bản đồ Arda'"
+- "Phụ lục: Bản đồ cho 'Bản đồ Arda'"

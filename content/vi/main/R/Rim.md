@@ -23,14 +23,14 @@ Từ này thường xuất hiện trong các tên ghép dưới dạng hậu t�
 - <i><a href="../G/Galadhrim.md" title="Galadhrim">Galadh<b>rim</b></a></i>
 - <i><a href="../G/Gondolindrim.md#Etymology" title="Gondolindrim">Gondolind<b>vành</b>‎</a></i>
 - <i><a href="../G/Gonnhirrim.md" title="Gonnhirrim">Gonhir<b>rim</b></a></i>
-- <i><a href="../H/Haradrim.md" title="Haradrim">Harad<b>rim</b></a></i>
+- <i><a href="../H/Haradrim.md" title="Haradrim">Harad<b>vành</b></a></i>
 - <i><a class="mw-redirect" href="../N/Naugrim.md" title="Naugrim">Naug<b>rim</b></a></i>
 - <i><a class="mw-redirect" href="../O/Onodrim.md" title="Onodrim">Onod<b>vành</b></a></i>
 - <i><a href="Rohirrim.md#Etymology" title="Rohirrim">Rohir<b>rim</b></a></i>
 
 ## Xem thêm {#See_also}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[gwaith](../G/Gwaith.md)*
+- [Sindarin](../S/Sindarin.md) *[gwaith](../G/Gwaith.md)*
 
 <span></span>
 

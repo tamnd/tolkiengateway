@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third Age 777"
 ---
 
-Chuyển hướng đến [Thời đại thứ ba 777](Third_Age_777.md).
+Chuyển hướng tới [Kỷ Đệ Tam 777](Third_Age_777.md).

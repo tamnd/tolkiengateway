@@ -36,9 +36,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_The_Old_Grange.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_The_Old_Grange.jpg/320px-J.R.R._Tolkien_-_The_Old_Grange.jpg" decoding="async" loading="lazy" width="320" height="176" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_The_Old_Grange.jpg/480px-J.R.R._Tolkien_-_The_Old_Grange.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a7/J.R.R._Tolkien_-_The_Old_Grange.jpg/640px-J.R.R._Tolkien_-_The_Old_Grange.jpg 2x" data-file-width="716" data-file-height="394"/></a><figcaption>The Old Grange - Detail by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Grange</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Old Grange</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">West of <a href="../H/Hobbiton_Road.md" title="Hobbiton Road">Hobbiton Road</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Grange</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Destroyed</th><td class="tg-infobox-data">Between <a href="../_/22_September.md" title="22 September">22 September</a> and <a href="../_/1_November.md" title="1 November">1 November</a> <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_3019.md" title="Third Age 3019">3019</a></td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_the_Old_Grange.md" title="Category:Images of the Old Grange">Images of the Old Grange</a></td></tr></tbody></table>
 
-**Old Grange** là một vựa lúa nằm ở [Hobbiton](../H/Hobbiton.md) ngay dưới ngọn đồi từ [Bag End](../B/Bag_End.md) về phía bắc [the Water](../T/The_Water.md), phía tây [Đường Hobbiton](../H/Hobbiton_Road.md).
+**Old Grange** là một vựa lúa nằm ở [Hobbiton](../H/Hobbiton.md) ngay dưới ngọn đồi từ [Bag End](../B/Bag_End.md) về phía bắc của [The Water](../T/The_Water.md), phía tây của Đường [Hobbiton](../H/Hobbiton_Road.md).
 
-Grange đã bị phá bỏ trong [War of the Ring](../W/War_of_the_Ring.md) và được thay thế bằng những dãy nhà kho rải nhựa đường.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Grange đã bị phá bỏ trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md) và được thay thế bằng những dãy nhà kho rải nhựa đường.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -52,7 +52,7 @@ Grange đã bị phá bỏ trong [War of the Ring](../W/War_of_the_Ring.md) và 
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Known as simply &#34;the Grange&#34;, the granary is located directly south of the <a href="../P/Party_Field.md" title="Party Field">Party Field</a>.</dd></dl>
 

@@ -35,13 +35,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Quỷ dữ của Saruman**, hay **ngọn lửa của Orthanc**, là một loại chất nổ bí ẩn được cho là do [Saruman](../S/Saruman.md) tạo ra tại [Orthanc](../O/Orthanc.md).<sup id="cite_ref-Helm_1-0" class="reference"><a href="#cite_note-Helm-1">[1]</a></sup>
+**Quỷ dữ Saruman**, hay **ngọn lửa Orthanc**, là một loại chất nổ bí ẩn được cho là được tạo ra bởi [Saruman](../S/Saruman.md) tại [Orthanc](../O/Orthanc.md).<sup id="cite_ref-Helm_1-0" class="reference"><a href="#cite_note-Helm-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Nó được quân đội [Uruk-Hai](../U/Uruk-Hai~9489.md) và [Dunlendings](../D/Dunlendings.md) của Saruman sử dụng để làm nổ tung cống của [Bức tường sâu](../D/Deeping_Wall.md) trong [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md) tại [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-Helm_1-1" class="reference"><a href="#cite_note-Helm-1">[1]</a></sup> Không biết liệu nó chỉ là một chất duy nhất hay nó được tạo thành từ một danh sách các loại chất của các thành phần, rất có thể sẽ bao gồm thuốc súng. Saruman cũng được cho là có thể đã sử dụng nó trong [Trận chiến Isengard](../B/Battle_of_Isengard.md) chống lại [Ent](../E/Ents.md). Nó có thể là nguyên nhân cái chết của [Beechbone](../B/Beechbone.md).
+Nó được đội quân [Uruk-Hai](../U/Uruk-Hai~9489.md) và [Dunlendings](../D/Dunlendings.md) của Saruman sử dụng để làm nổ cống của [Tường sâu](../D/Deeping_Wall.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md) tại [Helm's Deep](../H/Helm's_Deep.md).<sup id="cite_ref-Helm_1-1" class="reference"><a href="#cite_note-Helm-1">[1]</a></sup> Không biết liệu nó chỉ là một chất đơn lẻ hay nó được tạo thành từ một danh sách các loại thành phần mà rất có thể sẽ bao gồm thuốc súng. Saruman cũng được cho là có thể đã sử dụng nó trong [Trận Isengard](../B/Battle_of_Isengard.md) chống lại [Ent](../E/Ents.md). Nó có thể là nguyên nhân cái chết của [Beechbone](../B/Beechbone.md).
 
-Có thể một chất tương tự đã được lực lượng của [Vua phù thủy](../W/Witch-king.md) sử dụng để phá hủy các lỗ hổng trong [Rammas Echor](../R/Rammas_Echor.md) khi bắt đầu [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Người hoang dã](../D/Drúedain.md) khi nói chuyện sau đó với [Rohirrim](../R/Rohirrim.md) cho biết sự phá hủy bức tường là do "sấm sét".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Có thể một chất tương tự đã được lực lượng của [Vua Phù thủy](../W/Witch-king.md) sử dụng để phá hủy các lỗ thủng trong [Rammas Echor](../R/Rammas_Echor.md) khi bắt đầu [Cuộc vây hãm Gondor](../S/Siege_of_Gondor.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Wild Con Người](../D/Drúedain.md) khi nói chuyện sau đó với [Rohirrim](../R/Rohirrim.md) cho biết sự phá hủy bức tường là do "sấm sét".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -97,21 +97,21 @@ Có thể một chất tương tự đã được lực lượng của [Vua phù
 		</li>
 </ul>
 
-<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>Chúa tể của những chiếc nhẫn</i> (phim 1978)</a>:</b>
+<b><a href="../_/1978.md" title="1978">1978</a>: <a href="../T/The_Lord_of_the_Rings_(1978_film).md" title="The Lord of the Rings (1978 film)"><i>The Lord of the Rings</i> (phim 1978)</a>:</b>
 
 <dl><dd>During the <a href="../B/Battle_of_the_Hornburg.md" title="Battle of the Hornburg">Battle of the Hornburg</a>, magical projectiles travel out of <a href="../O/Orthanc.md" title="Orthanc">Orthanc</a> and fly over <a href="../H/Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>. <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> cries out &#34;Fire of Isengard!&#34; and one of the projectiles strikes the outer wall of Helm&#39;s Deep, breaching it and allowing the <a href="../O/Orcs.md" title="Orcs">Orcs</a> to enter. The Eorlings retreat to the <a href="../G/Glittering_Caves.md" title="Glittering Caves">Glittering Caves</a>.</dd></dl>
 
-<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b><a href="../_/2002.md" title="2002">2002</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd>In the <i><a href="../I/Isengard_Unleashed.md" title="Isengard Unleashed">Isengard Unleashed</a></i> scene, <a href="../G/Gríma.md" title="Gríma">Gríma</a> tells <a href="../S/Saruman.md" title="Saruman">Saruman</a> that <a href="../H/Hornburg.md" title="Hornburg">the Hornburg</a> was a weakness in a small culvert in the wall. Saruman fills an orb with powder and Gríma asks him &#34;How can fire undo stone?&#34;. In the scene <i><a href="../T/The_Breach_of_the_Deeping_Wall.md" title="The Breach of the Deeping Wall">The Breach of the Deeping Wall</a></i>, an <a href="../U/Uruk-hai.md" title="Uruk-hai">Uruk-hai</a> place the powder, sealed in a spiked ball, in the culvert. A torch-bearing Uruk runs forward and <a href="../A/Aragorn.md" title="Aragorn">Aragorn</a> orders <a href="../L/Legolas.md" title="Legolas">Legolas</a> to &#34;bring him down&#34;. The Uruk, unfazed by Legolas&#39; arrows,  dives into the culvert, igniting the fire and triggering an explosion that breaches the wall of the fortress.</dd></dl>
 
-<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">Chúa tể của những chiếc nhẫn: Trò chơi bài</a></i>:</b>
+<b><a href="../_/2014.md" title="2014">2014</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Card_Game.md" title="The Lord of the Rings: The Card Game">The Lord of the Rings: Trò chơi bài</a></i>:</b>
 
 <dl><dd>The fire is depicted in the <a href="../_/2015.md" title="2015">2015</a> expansion <i>The Treason of Saruman</i> on the &#34;Devilry of Saruman&#34; card, illustrated by Álvaro Calvo Escudero. The card has the following effects:</dd></dl>
 
-> Khi được tiết lộ: Đặt 3 tiến trình vào nhiệm vụ chính (bỏ qua bất kỳ vị trí hoạt động nào). Cho đến cuối vòng, hãy coi hộp văn bản của mỗi nhân vật như thể nó trống (ngoại trừ Đặc điểm).<br>Bóng tối: Kẻ địch tấn công được +2 Sức tấn công và nhận được Độ dẻo dai 2 cho đến cuối vòng.
+> Khi được tiết lộ: Đặt 3 tiến trình vào nhiệm vụ chính (bỏ qua bất kỳ vị trí hoạt động nào). Cho đến cuối vòng, hãy coi hộp văn bản của mỗi nhân vật như thể nó trống (ngoại trừ Đặc điểm).<br>Bóng Tối: Kẻ địch tấn công được +2 Sức tấn công và nhận được Độ dẻo dai 2 cho đến cuối vòng.
 
-<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">Chúa tể của những chiếc nhẫn: Những câu chuyện về Trung Địa</a></i>:</b>
+<b><a href="../_/2023.md" title="2023">2023</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md" title="The Lord of the Rings: Tales of Middle-earth">The Lord of the Rings: Những câu chuyện về Trung Địa</a></i>:</b>
 
 <dl><dd>The fire is depicted on the &#34;Fire of Orthanc&#34; card, illustrated by Jeremy Paillotin. The card has the following effects:</dd></dl>
 

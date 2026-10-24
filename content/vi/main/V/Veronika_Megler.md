@@ -24,8 +24,8 @@ sort_keys:
 
 - <a class="external text" href="http://www.opensourcetutorials.com/authors/52" rel="noreferrer noopener" target="_blank">Veronika Megler</a> tại OpenSourceTutorials
 - <a class="external text" href="http://www.avventuretestuali.com/interviste/megler-eng" rel="noreferrer noopener" target="_blank">Phỏng vấn</a>
-- <a class="external text" href="http://playitagainproject.org/ruminations-on-the-hobbit-fandom/" rel="noreferrer noopener" target="_blank">Suy ngẫm về cộng đồng người hâm mộ Hobbit</a>
-- "<a class="external text" href="http://www.theregister.co.uk/2012/11/18/hobbit_author_veronika_megler_reminisces/" rel="noreferrer noopener" target="_blank">Tác giả của tác phẩm kinh điển thập niên 80 <i>Người Hobbit</i> không biết trò chơi lại thành công</a>"
+- <a class="external text" href="http://playitagainproject.org/ruminations-on-the-hobbit-fandom/" rel="noreferrer noopener" target="_blank">Suy ngẫm về The Hobbit Fandom</a>
+- "<a class="external text" href="http://www.theregister.co.uk/2012/11/18/hobbit_author_veronika_megler_reminisces/" rel="noreferrer noopener" target="_blank">Tác giả của tác phẩm kinh điển thập niên 80 <i>The Hobbit</i> không biết trò chơi đã thành công</a>"
 
 <span></span>
 

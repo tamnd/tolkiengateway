@@ -85,17 +85,17 @@ infobox:
 <p class="tg-quote-footer"><cite>Háma<sup id="cite_ref-King_1-0" class="reference"><a href="#cite_note-King-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Háma** là Người gác cửa của [Théoden](../T/Théoden.md) và là Đội trưởng Đội cận vệ của nhà vua [Rohan](../R/Rohan.md). Ông là một người trung thành và tận tụy, mặc dù ông thường đoán trước mệnh lệnh của mình.
+**Háma** là Người gác cửa của [Théoden](../T/Théoden.md) và là Đội trưởng Đội cận vệ Vua của [Rohan](../R/Rohan.md). Ông là một người trung thành và tận tụy, mặc dù ông thường đoán trước mệnh lệnh của mình.
 
 ## Lịch sử {#History}
 
-Háma từng là người gác cửa của [Edoras](../E/Edoras.md), nơi ở của [Vua Rohan](../K/Kings_of_Rohan.md). Vào [2 tháng 3](../_/2_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), bốn vị khách đã đến chỗ của ông ta: [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md) và [Gandalf](../G/Gandalf.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông ta tuân thủ các quy tắc của ngôi nhà và ra lệnh cho tất cả họ đầu hàng vũ khí. Ông ta đã tranh cãi rất lâu với Aragorn, người đã từ chối giao [Andúril](../A/Andúril.md) cho bất kỳ ai khác cho đến khi ông ta đồng ý làm như vậy theo mong muốn của Gandalf. Ông cho phép Gandalf giữ quyền trượng của mình, một quyết định có chủ ý sẽ mang tính quyết định trong việc chữa lành vết thương cho vị vua của ông.
+Háma từng là người gác cửa của [Edoras](../E/Edoras.md), nơi ở của [Vua Rohan](../K/Kings_of_Rohan.md). Vào [2 tháng 3](../_/2_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md), bốn vị khách đã đến chỗ ông ta: [Aragorn](../A/Aragorn.md), [Gimli](../G/Gimli.md), [Legolas](../L/Legolas.md) và [Gandalf](../G/Gandalf.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ông ta tuân thủ nội quy của ngôi nhà và ra lệnh cho tất cả họ đầu hàng vũ khí. Ông ta đã tranh cãi rất lâu với Aragorn và người này đã từ chối giao [Andúril](../A/Andúril.md) cho bất kỳ ai khác cho đến khi ông ta đồng ý làm như vậy theo mong muốn của Gandalf. Ông cho phép Gandalf giữ lại cây trượng của mình, một quyết định có chủ ý sẽ mang tính quyết định trong việc chữa lành vết thương cho vị vua của ông.
 
-Vì sự sơ suất này, Háma đã bị [Théoden](../T/Théoden.md) khiển trách và bị cách chức người gác cửa trong một thời gian ngắn. Háma đã thực hiện mệnh lệnh của Chúa mình và cũng thả [Éomer](../_/Éomer.md) khỏi nơi giam cầm. Em gái của Nhà vua đã bị giam giữ bởi [Gríma Wormtongue](../G/Gríma.md), kẻ đã bị lật đổ nhờ sử dụng quyền trượng của Gandalf không lâu trước đó. Háma đã bắt giữ Gríma và tìm thấy nhiều món đồ bị mất tích mà ông ta sở hữu, bao gồm [Herugrim](Herugrim.md), thanh kiếm của Nhà vua.<sup id="cite_ref-King_1-1" class="reference"><a href="#cite_note-King-1">[1]</a></sup>
+Vì sơ suất này, Háma đã bị [Théoden](../T/Théoden.md) khiển trách và bị cách chức người gác cửa trong một thời gian ngắn. Háma đã thực hiện mệnh lệnh của Chúa mình và cũng được thả [Éomer](../_/Éomer.md) khỏi nơi giam cầm. Em gái của Vua đã bị giam giữ bởi [Gríma Wormtongue](../G/Gríma.md), kẻ đã bị lật đổ bằng cách sử dụng quyền trượng của Gandalf không lâu trước đó. Háma đã bắt giữ Gríma và tìm thấy nhiều món đồ bị mất tích mà ông ta sở hữu, bao gồm [Herugrim](Herugrim.md), thanh kiếm của Vua.<sup id="cite_ref-King_1-1" class="reference"><a href="#cite_note-King-1">[1]</a></sup>
 
-Háma cùng Théoden cưỡi ngựa đến [Hornburg](Hornburg.md) và chiến đấu trong [trận chiến](../B/Battle_of_the_Hornburg.md) diễn ra ngay sau đó. Ông ta ngã xuống trước cánh cổng lớn, và cơ thể ông ta bị một đám [Uruks](../U/Uruk-hai.md) chém thành từng mảnh.<sup id="cite_ref-Voice_3-0" class="reference"><a href="#cite_note-Voice-3">[3]</a></sup> Ông ta được vinh dự được chôn cất trong ngôi mộ của chính mình dưới cái bóng của Hornburg. Mặc dù khó chịu với người gác cổng, Théoden rõ ràng có tình cảm với Háma, và đau buồn trước sự sa ngã của ông ta, đến mức đích thân ném trái đất đầu tiên lên mộ ông ta.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Háma cưỡi ngựa cùng Théoden tới [Hornburg](Hornburg.md) và chiến đấu trong [trận chiến](../B/Battle_of_the_Hornburg.md) diễn ra ngay sau đó. Anh ngã xuống trước cánh cổng lớn, và cơ thể anh bị một đám [Uruks](../U/Uruk-hai.md) chém thành từng mảnh.<sup id="cite_ref-Voice_3-0" class="reference"><a href="#cite_note-Voice-3">[3]</a></sup> Anh được vinh dự được chôn cất trong ngôi mộ của chính mình dưới cái bóng của Hornburg. Bất chấp sự khó chịu của ông ta với người gác cửa, Théoden rõ ràng có tình cảm với Háma, và đau buồn trước sự sa ngã của ông ta, đến mức ông ta đã đích thân ném trái đất đầu tiên lên mộ ông ta.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Vào [ngày 5 tháng 3](../_/5_March.md) khi Théoden bác bỏ lời nói của [Saruman](../S/Saruman.md), việc chặt xác Háma trước cổng Hornburg là một trong những lời bất bình mà ông nêu ra.<sup id="cite_ref-Voice_3-1" class="reference"><a href="#cite_note-Voice-3">[3]</a></sup>
+Vào [ngày 5 tháng 3](../_/5_March.md) khi Théoden bác bỏ lời nói của [Saruman](../S/Saruman.md), việc chặt xác Háma trước cổng Hornburg là một trong những bất bình mà ông nêu ra.<sup id="cite_ref-Voice_3-1" class="reference"><a href="#cite_note-Voice-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -122,7 +122,7 @@ Tên *Háma* xuất phát từ [tiếng Anh cổ](../O/Old_English.md) và có n
 		</li>
 </ul>
 
-<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>Chúa tể của những chiếc nhẫn</i> (loạt phim phát thanh năm 1981)</a>:</b>
+<b>1981: <a href="../T/The_Lord_of_the_Rings_(1981_radio_series).md" title="The Lord of the Rings (1981 radio series)"><i>The Lord of the Rings</i> (loạt phim phát thanh 1981)</a>:</b>
 
 <dl><dd><a href="../M/Michael_Spice.md" title="Michael Spice">Michael Spice</a> voiced Háma. On the ride to Orthanc the dialogue of a nameless rider&#39;s suspicions of Gandalf&#39;s motives in the novel is transferred to Háma. In the book the rider is rebuked for these suspicions by Hama, but in this production the rebuke is made by Éomer.</dd></dl>
 
@@ -130,7 +130,7 @@ Tên *Háma* xuất phát từ [tiếng Anh cổ](../O/Old_English.md) và có n
 
 <dl><dd>Háma is played by Dieter Eppler.</dd></dl>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">Chúa tể của những chiếc nhẫn: Hai tòa tháp</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i>:</b>
 
 <dl><dd><a href="../J/John_Leigh.md" title="John Leigh">John Leigh</a> plays Háma. The lengthy dialogue with Aragorn is absent in the movie, since Aragorn is not bearing <a href="../A/Andúril.md" title="Andúril">Andúril</a>. He is killed during a <a href="../W/Wargs.md" title="Wargs">Warg</a>-attack on the road to <a href="Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, rather than in the battle itself.</dd></dl>
 
@@ -140,7 +140,7 @@ Tên *Háma* xuất phát từ [tiếng Anh cổ](../O/Old_English.md) và có n
 
 <dl><dd>The voice of Háma is provided by Dušan Lenczi.</dd></dl>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>First met in <a href="../E/Edoras.md" title="Edoras">Edoras</a>, Háma escorts the player and their companions to an audience with King <a href="../T/Théoden.md" title="Théoden">Théoden</a> on two separate occasions. He later travels to <a href="Helm&#39;s_Deep.md" title="Helm&#39;s Deep">Helm&#39;s Deep</a>, where after the battle a song of his valiant last stand before the gates is sung by King&#39;s minstrel <a href="../G/Gléowine.md" title="Gléowine">Gléowine</a>.</dd></dl>
 

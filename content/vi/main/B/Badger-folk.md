@@ -24,15 +24,15 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Richard_Svensson_-_The_Adventures_of_Tom_Bombadil_part_3.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b6/Richard_Svensson_-_The_Adventures_of_Tom_Bombadil_part_3.jpg/300px-Richard_Svensson_-_The_Adventures_of_Tom_Bombadil_part_3.jpg" decoding="async" loading="lazy" width="300" height="395" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b6/Richard_Svensson_-_The_Adventures_of_Tom_Bombadil_part_3.jpg/450px-Richard_Svensson_-_The_Adventures_of_Tom_Bombadil_part_3.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/b/b6/Richard_Svensson_-_The_Adventures_of_Tom_Bombadil_part_3.jpg/600px-Richard_Svensson_-_The_Adventures_of_Tom_Bombadil_part_3.jpg 2x" data-file-width="616" data-file-height="812"/></a><figcaption><i>The Adventures of Tom Bombadil part 3</i> by Richard Svensson</figcaption></figure>
 
-**Người lửng** là những sinh vật trong truyền thuyết, được đề cập trong câu thơ [Hobbit](../H/Hobbits.md).<sup id="cite_ref-AB_2-0" class="reference"><a href="#cite_note-AB-2">[2]</a></sup> Không có thông tin gì về nguồn gốc hoặc lịch sử của họ.
+**Người lửng** là những sinh vật trong truyền thuyết, được đề cập trong [Hobbit](../H/Hobbits.md) câu thơ.<sup id="cite_ref-AB_2-0" class="reference"><a href="#cite_note-AB-2">[2]</a></sup> Không có thông tin gì về nguồn gốc hay lịch sử của họ.
 
 ## Đặc điểm {#Characteristics}
 
-Theo bài thơ, những người Lửng sống trong những ngôi nhà bí mật được nối với nhau bằng đường hầm dưới một ngọn đồi trong hoặc gần đó [Rừng già](../O/Old_Forest.md). Họ dường như có tri giác và có khả năng nói. Mặc dù [Badger-brock](Badger-brock.md) đã từng cưỡng bức hạ [Tom Bombadil](../T/Tom_Bombadil.md) xuống hang của chúng, nhưng những người Badger-brock không tỏ ra là những sinh vật thực sự xấu xa mà có lẽ khá xảo quyệt hoặc xảo quyệt.<sup id="cite_ref-AB_2-1" class="reference"><a href="#cite_note-AB-2">[2]</a></sup>
+Theo bài thơ, người Lửng sống trong những ngôi nhà bí mật được nối với nhau bằng đường hầm dưới ngọn đồi ở hoặc gần khu [Khu Rừng Cổ](../O/Old_Forest.md). Họ dường như có tri giác và có khả năng nói. Mặc dù [Badger-brock](Badger-brock.md) đã từng cưỡng ép đưa [Tom Bombadil](../T/Tom_Bombadil.md) xuống hang của chúng, nhưng loài Badger-brock không tỏ ra là những sinh vật thực sự xấu xa mà có lẽ khá xảo quyệt hoặc xảo quyệt.<sup id="cite_ref-AB_2-1" class="reference"><a href="#cite_note-AB-2">[2]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Only mentioned briefly, the Badger-folk of the <a href="../W/Withywindle.md" title="Withywindle">Withywindle</a> appear badgerish but live after the manner of <a href="../H/Hobbits.md" title="Hobbits">Hobbits</a>. They are one of the <a href="../F/Fairies.md" title="Fairies">Creatures of Faerië</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd></dl>
 

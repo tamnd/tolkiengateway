@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "u-yasuk"
 ---
 
-- U-yasuk đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_U-yasuk.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- U-yasuk đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_U-yasuk.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 17 tháng 6 năm 2015
 - Người dùng đã xin phép thông qua DeviantArt: [Người dùng:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

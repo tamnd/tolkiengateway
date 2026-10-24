@@ -21,7 +21,7 @@ sort_keys:
   "Tolkien Society members": "Bridges, Keith"
 ---
 
-**Keith Bridges**, sau này được gọi là **Keith Armstrong-Bridges**, là Chủ tịch được bầu đầu tiên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) phục vụ từ năm 1970 đến năm 1973. Ông qua đời vào [11 tháng 1](../_/11_January.md) [2013](../_/2013.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Keith Bridges**, sau này được gọi là **Keith Armstrong-Bridges**, là Chủ tịch được bầu đầu tiên của [Hội Tolkien](../T/The_Tolkien_Society.md) phục vụ từ năm 1970 đến năm 1973. Ông qua đời vào [11 tháng 1](../_/11_January.md) [2013](../_/2013.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -17,7 +17,7 @@ sort_keys:
 
 *angulókë* là danh từ [Quenya](../Q/Quenya.md) có nghĩa là "rồng".<sup id="cite_ref-LR370_1-0" class="reference"><a href="#cite_note-LR370-1">[1]</a></sup>
 
-Theo phong cách Quenya của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nó sẽ được viết là <i>anguló<b>c</b>ë</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Theo kiểu Quenya của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nó sẽ được viết là <i>anguló<b>c</b>ë</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

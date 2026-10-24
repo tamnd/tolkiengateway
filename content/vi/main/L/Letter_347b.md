@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Sterling_E._Lanier" title="wikipedia:Sterling E. Lanier">Sterling E. Lanier</a> này, Tolkien đã thảo luận về tiến độ công việc của mình trên *The Silmarillion*, giải thích rằng những nỗ lực của ông đã bị trì hoãn do [vợ ông](../E/Edith_Tolkien.md) qua đời gần đây và sau đó ông chuyển về [Oxford](../O/Oxford.md). Sự gián đoạn này đã khiến sổ sách và hồ sơ của anh rơi vào tình trạng lộn xộn, ảnh hưởng đến khả năng tập trung chuẩn bị bản thảo để xuất bản của anh.
+Trong bức thư gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Sterling_E._Lanier" title="wikipedia:Sterling E. Lanier">Sterling này E. Lanier</a> Tolkien đã thảo luận về tiến độ công việc của ông trên *The Silmarillion*, giải thích rằng những nỗ lực của ông đã bị trì hoãn do [vợ ông qua đời gần đây](../E/Edith_Tolkien.md) và sau đó ông chuyển về [Oxford](../O/Oxford.md). Sự gián đoạn này đã khiến sổ sách và hồ sơ của anh rơi vào tình trạng lộn xộn, ảnh hưởng đến khả năng tập trung chuẩn bị bản thảo để xuất bản của anh.
 
-Tolkien thừa nhận mối lo ngại của Lanier về giọng điệu của *[The Silmarillion](../T/The_Silmarillion.md)*. Ông thừa nhận rằng các truyền thuyết trong tác phẩm chủ yếu mang tính chất thần thoại và nghiệt ngã, thiếu bất kỳ yếu tố hài kịch nào. Giọng điệu này khiến cuốn sách trở nên khác biệt so với các tác phẩm khác của ông, chẳng hạn như *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, vốn chứa đựng những khoảnh khắc nhẹ nhàng hơn bên cạnh những chủ đề nghiêm túc hơn. <br>
+Tolkien thừa nhận mối quan ngại của Lanier về giọng điệu của *[The Silmarillion](../T/The_Silmarillion.md)*. Ông thừa nhận rằng các truyền thuyết trong tác phẩm chủ yếu mang tính chất thần thoại và nghiệt ngã, thiếu bất kỳ yếu tố hài kịch nào. Giọng điệu này khiến cuốn sách trở nên khác biệt so với các tác phẩm khác của ông, chẳng hạn như *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, vốn chứa đựng những khoảnh khắc nhẹ nhàng hơn bên cạnh những chủ đề nghiêm túc hơn. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

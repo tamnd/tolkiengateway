@@ -45,13 +45,13 @@ infobox:
 ### Bài viết {#Articles}
 
 - [1966](../_/1966.md): *Holiday*
-    - (Tháng 6:) "Chiếc nhẫn ma thuật của Tolkien"
+    - (Tháng 6:) "Chiếc nhẫn ma thuật củaTolkien"
 - [1966](../_/1966.md): *[The Tolkien Reader](../T/The_Tolkien_Reader.md)*
-    - "Chiếc nhẫn ma thuật của Tolkien"
+    - "Chiếc nhẫn ma thuật củaTolkien"
 - [1982](../_/1982.md): *[The Hobbit](../T/The_Hobbit.md)* (ấn bản sửa đổi tại Hoa Kỳ)
     - "Giới thiệu về bộ ba *Lord of the Rings* của J. R. R. Tolkien"
 - [1984](../_/1984.md): *Fantastists on Fantasy*
-    - "Chiếc nhẫn ma thuật của Tolkien"
+    - "Chiếc nhẫn ma thuật củaTolkien"
 
 ## Phim ảnh {#Filmography}
 

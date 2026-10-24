@@ -37,7 +37,7 @@ images:
 ## Bài giảng {#Lectures}
 
 - [Ngày 2 tháng 11](../_/2_November.md), [2002](../_/2002.md): *J.R.R. Tolkien: Người đàn ông đằng sau Chúa tể chiếc nhẫn*
-    - "Những cuộc phiêu lưu của Tom Bombadil: Thơ Hobbit" (<i><a class="external text" href="http://english.clas.asu.edu/video/" rel="noreferrer noopener" target="_blank">RealVideo</a></i>)
+    - "The Adventures of Tom Bombadil: Hobbit Thơ" (<i><a class="external text" href="http://english.clas.asu.edu/video/" rel="noreferrer noopener" target="_blank">RealVideo</a></i>)
 
 ## Liên kết ngoài {#External_links}
 

@@ -13,13 +13,13 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>luin</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "màu xanh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>luin</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "màu xanh".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
 - <i><a href="../T/Tarn_Aeluin.md" title="Tarn Aeluin">Ae<b>luin</b></a></i> = "Hồ xanh"
-- <i><a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered <b>Luin</b></a></i> = "Núi xanh"
-- <i><a href="../B/Blue_Wizards.md" title="Blue Wizards">Ithryn <b>Luin</b></a></i> = "Pháp sư xanh"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- <i><a class="mw-redirect" href="../E/Ered_Luin.md" title="Ered Luin">Ered <b>Luin</b></a></i> = "Dãy Núi Xanh"
+- <i><a href="../B/Blue_Wizards.md" title="Blue Wizards">Ithryn <b>Luin</b></a></i> = "Xanh lam Pháp sư"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - <i><a href="../M/Mindolluin.md" title="Mindolluin">Mindol<b>luin</b></a></i> = "Đầu xanh cao chót vót"
 
 ## Có cùng nguồn gốc {#Cognates}

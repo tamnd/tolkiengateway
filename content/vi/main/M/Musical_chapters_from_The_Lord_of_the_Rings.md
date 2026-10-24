@@ -20,47 +20,47 @@ images:
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-**Các chương nhạc trong Chúa tể của những chiếc nhẫn** là một vở opera dựa trên [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và được sáng tác bởi [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)
+**Các chương nhạc của The Lord of the Rings** là một vở opera dựa trên [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và được sáng tác bởi [Paul Corfield Godfrey](../P/Paul_Corfield_Godfrey.md)
 
 <h2><span id="List_of_Tracks_or_.22Chapters.22"></span><span class="mw-headline" id="List_of_Tracks_or_&#34;Chapters&#34;">List of Tracks or &#34;Chapters&#34;</span></h2>
 
-- **"Phần 1: Bóng dáng quá khứ"**
+- **"Phần 1: Bóng Tối của Quá Khứ"**
     - '"Bữa tiệc được mong đợi từ lâu" - 35 phút
-    - "Sự trở lại của bóng tối" - 45 phút
+    - "The Return of the Shadow" - 45 phút
     - "Tom Bombadil" - 38 phút
-    - "Ngựa chồm lên" - 25 phút
+    - "The Prancing Pony" - 25 phút
     - "Chuyến bay tới chiếc Ford" - 30 phút
-- **"Phần 2: Chiếc nhẫn tiến về phía Nam"**
-    - "Hội đồng Elrond" - 54 phút
+- **"Phần 2: Chiếc nhẫn tiến về phương Nam"**
+    - "The Hội đồng Elrond" - 54 phút
     - "Tạm biệt Rivendell" - 23 phút
     - "Hành trình trong bóng tối" - 23 phút
-    - "Tấm gương của Galadriel" - 49 phút
+    - "Tấm gương Galadriel" - 49 phút
     - "Sự tan vỡ tình bạn" - 23 phút
-- **"Phần 3: Sự phản bội của Isengard"**
+- **"Phần 3: The Treason of Isengard"**
     - "Đồng bằng và rừng" - 33 phút
-    - "Những kỵ sĩ của Rohan" - 32 phút
-    - "Vua điện vàng" - 31 phút
+    - "Những tay đua của Rohan" - 32 phút
+    - "The Vua của Sảnh Vàng" - 31 phút
     - "Hành trình tới Isengard" - 34 phút
     - "Tiếng nói của Saruman" - 29 phút
-- **"Phần 4: Chiếc nhẫn đi về phương Đông"**
-    - "Cổng Đen đã đóng" - 37 phút
-    - "Cửa Sổ Phía Tây" - 39 phút
+- **"Phần 4: Chiếc nhẫn đi phương Đông"**
+    - " Cổng Đen đã đóng" - 37 phút
+    - "Cửa sổ trên Phương Tây" - 39 phút
     - "Cirith Ungol" - 36 phút
-- **"Phần 5: Cuộc chiến trên nhẫn"**
+- **"Phần 5: Cuộc chiến Nhẫn"**
     - "Minas Tirith" - 22 phút
     - "Sự ra đi của Công ty Xám" - 32 phút
-    - "Cuộc vây hãm Gondor" - 26 phút
-    - "Cánh đồng Pelennor" - 29 phút
-    - "Ngôi nhà chữa bệnh" - 35 phút
-    - "Cổng Đen Mở Ra" - 13 phút
-- **"Phần 6: Sự kết thúc của thời đại thứ ba"**
-    - "Núi Định Mệnh" - 45 phút
-    - "Cánh đồng Cormallen" - 26 phút
-    - "Quản gia và nhà vua" - 30 phút
+    - "The Cuộc vây hãm Gondor" - 26 phút
+    - "cánh đồng Pelennor" - 29 phút
+    - "Ngôi nhà chữa lành" - 35 phút
+    - " Cổng Đen Mở" - 13 phút
+- **"Phần 6: Cái kết của Kỷ Đệ Tam"**
+    - "Núi Diệt Vong" - 45 phút
+    - "The Cánh đồng Cormallen" - 26 phút
+    - "Người quản lý và Vua" - 30 phút
     - "Về nhà" - 31 phút
-    - "Cuộc thanh trừng vùng Shire" - 24 phút
-    - "The Grey Havens" - 35 phút
-- **"Phụ lục"** *tài liệu bổ sung hoặc cắt bớt từ "chương nhạc"*
+    - "Sự trừng phạt của Shire" - 24 phút
+    - "The Cảng Xám" - 35 phút
+- **"Phụ lục"** *tài liệu bổ sung hoặc cắt bớt từ "các chương âm nhạc"*
     - Phụ lục I: "The Lay of Luthien"
     - Phụ lục II: "The Lay of Earendil"
     - Phụ lục III: "Sự nằm yên của Durin"

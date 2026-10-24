@@ -11,4 +11,4 @@ redirect_target: "Elves"
 redirect_fragment: "major divisions"
 ---
 
-Chuyển hướng đến [Yêu tinh](../E/Elves.md#major_divisions).
+Chuyển hướng đến [Tiên tộc](../E/Elves.md#major_divisions).

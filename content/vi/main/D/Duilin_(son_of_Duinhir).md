@@ -59,11 +59,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cùng với anh trai [Derufin](Derufin.md), Duilin theo cha đến [Minas Tirith](../M/Minas_Tirith.md) trong [War of the Ring](../W/War_of_the_Ring.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và ở đó họ đã chiến đấu trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Những Người ở thung lũng xa xôi [Morthond](../M/Morthond.md) có kỹ năng bắn cung tuyệt vời, vì vậy Duilin và Derufin đã dẫn cung thủ của họ chống lại [mûmakil](../M/Mûmakil.md), cố gắng bắn ra mắt của lũ quái vật. Dù dũng cảm nhưng cả hai anh em đều thất bại trong trận chiến đó, bị kẻ thù khổng lồ giẫm đạp.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Cùng với anh trai [Derufin](Derufin.md), Duilin theo cha đến [Minas Tirith](../M/Minas_Tirith.md) ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và ở đó họ chiến đấu trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Con Người của thung lũng xa xôi [Morthond](../M/Morthond.md) có kỹ năng bắn cung tuyệt vời, vì vậy Duilin và Derufin đã dẫn cung thủ của họ chống lại [mûmakil](../M/Mûmakil.md), cố gắng bắn vào mắt của lũ quái thú. Dù dũng cảm nhưng cả hai anh em đều thất bại trong trận chiến đó, bị kẻ thù khổng lồ giẫm đạp.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của *Duilin* không rõ ràng. Cả trong [Gnomish](../G/Gnomish.md) và [Noldorin](../N/Noldorin.md) sau này, cái tên này đều có nghĩa là "nuốt",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nhưng trong [Sindarin](../S/Sindarin.md) nó có thể là "Singer by the River" hoặc "Spring-Singer", chứa cùng thành phần *[duin](Duin.md)* "sông" như trong tên của cha anh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Ý nghĩa của *Duilin* không rõ ràng. Cả trong [Gnomish](../G/Gnomish.md) và [Noldorin](../N/Noldorin.md) sau này, tên này đều có nghĩa là "nuốt",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nhưng trong [Sindarin](../S/Sindarin.md) nó có thể là "Singer by the River" hoặc "Spring-Singer", chứa cùng yếu tố *[duin](Duin.md)* "sông" như trong tên của cha anh.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -94,11 +94,11 @@ Cùng với anh trai [Derufin](Derufin.md), Duilin theo cha đến [Minas Tirith
 		</li>
 </ul>
 
-<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Trò chơi thẻ bài trao đổi Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2001-2007: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
 <dl><dd>A Decipher card identifies one of the <a href="../R/Rangers_of_Ithilien.md" title="Rangers of Ithilien">Rangers</a> of <a href="../I/Ithilien.md" title="Ithilien">Ithilien</a> in <i><a href="../T/The_Lord_of_the_Rings%253A_The_Two_Towers.md" title="The Lord of the Rings: The Two Towers">The Lord of the Rings: The Two Towers</a></i> as Duilin.</dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Duilin and <a href="Derufin.md" title="Derufin">his brother</a> were hunting enthusiasts. The brothers accompanied the player into <a href="../O/Osgiliath.md" title="Osgiliath">Osgiliath</a>, and the group succeeded in damaging <a href="../G/Grond_(battering_ram).md" title="Grond (battering ram)">Grond</a> before encountering <a href="../G/Gothmog_(Lieutenant_of_Morgul).md" title="Gothmog (Lieutenant of Morgul)">Gothmog</a> and being forced to retreat. Both brothers die during the <a href="../B/Battle_of_the_Pelennor_Fields.md" title="Battle of the Pelennor Fields">Battle of the Pelennor Fields</a> while leading the mûmakil away from the player.</dd></dl>
 

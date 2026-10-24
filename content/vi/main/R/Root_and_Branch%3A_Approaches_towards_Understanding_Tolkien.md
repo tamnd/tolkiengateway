@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Root and Branch - Approaches towards Understanding Tolkien"
 ---
 
-Chuyển hướng tới [Gốc và Nhánh - Các phương pháp tiếp cận để hiểu Tolkien](Root_and_Branch_-_Approaches_towards_Understanding_Tolkien.md).
+Chuyển hướng tới [Gốc và Nhánh - Các cách tiếp cận để hiểu Tolkien](Root_and_Branch_-_Approaches_towards_Understanding_Tolkien.md).

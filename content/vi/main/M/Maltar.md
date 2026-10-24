@@ -20,11 +20,11 @@ hidden_categories:
 
 ## Từ nguyên {#Etymology}
 
-Tên <i><b>Maltar</b></i> ở [Qenya](../Q/Qenya.md). Nó có lẽ bắt nguồn từ các gốc từ [MALA](MALA~61132.md)- ("nghiền, bóp, bã") và [TARA](../T/TARA.md)- ("đập, đập, đánh").<sup id="cite_ref-Malt_1-1" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup>
+Tên <i><b>Maltar</b></i> có trong [Qenya](../Q/Qenya.md). Nó có lẽ bắt nguồn từ các gốc từ [MALA](MALA~61132.md)- ("nghiền, bóp, bã") và [TARA](../T/TARA.md)- ("đập, đập, đánh").<sup id="cite_ref-Malt_1-1" class="reference"><a href="#cite_note-Malt-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1984-1997: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai Trung Địa</a></i>:</b>
+<b>1984-1997: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Aulë&#39;s hammer was called <i>Echerun</i> (<a href="../S/Sindarin.md" title="Sindarin">S.</a> “Lord Maker”), and it is described as being made of gold and inlaid with black <a href="Metals_in_Middle-earth_Role_Playing.md#eog" title="Metals in Middle-earth Role Playing">eog</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 

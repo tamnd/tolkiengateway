@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Lembas Extra 2009"
 ---
 
-Chuyển hướng đến [Lembas Extra 2009](../L/Lembas_Extra_2009.md).
+Chuyển hướng tới [Lembas Thêm 2009](../L/Lembas_Extra_2009.md).

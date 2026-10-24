@@ -15,9 +15,9 @@ categories:
   - "Solosimpi"
 ---
 
-**Ethlon** là một nhân vật, có thể là một trong những [Solosimpi](../S/Solosimpi.md), chỉ xuất hiện trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một đoạn văn xuôi sau *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+**Ethlon** là một nhân vật, có thể là một trong những [Solosimpi](../S/Solosimpi.md), chỉ xuất hiện trong phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một đoạn văn xuôi tiếp theo *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Ethlon không bao giờ được nhắc đến nữa và không có thông tin nào khác về nhân vật này, ngoại trừ việc họ đã nói "những lời lẽ khôn ngoan" chống lại [Fëanor](../F/Fëanor.md) và những [Gnomes](../G/Gnomes.md) còn lại muốn rời khỏi [Valinor](../V/Valinor.md) sau cái chết của [Hai Cây](../T/Two_Trees.md) và vụ trộm [Silmarils](../S/Silmarils.md).<sup id="cite_ref-Eth_1-0" class="reference"><a href="#cite_note-Eth-1">[1]</a></sup>
+Ethlon không bao giờ được nhắc đến nữa và không có thông tin gì khác về nhân vật này, ngoại trừ việc họ đã nói "những lời lẽ khôn ngoan" chống lại [Fëanor](../F/Fëanor.md) và những [Gnomes](../G/Gnomes.md) còn lại muốn rời đi [Valinor](../V/Valinor.md) sau cái chết của [Hai Cây](../T/Two_Trees.md) và vụ trộm [Silmaril](../S/Silmarils.md).<sup id="cite_ref-Eth_1-0" class="reference"><a href="#cite_note-Eth-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

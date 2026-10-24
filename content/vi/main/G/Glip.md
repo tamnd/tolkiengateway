@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Glip"
 ---
 
-<i><b>Glip</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong bộ truyện [Những câu chuyện và bài hát về Vịnh Bimble](../T/Tales_and_Songs_of_Bimble_Bay.md) của ông. Bài thơ gốc đã được tái bản trong [Douglas A. Anderson](../D/Douglas_A._Anderson.md) *[Người Hobbit được chú thích](../T/The_Annotated_Hobbit.md): Phiên bản sửa đổi và mở rộng*. Anderson tuyên bố rằng bài thơ là tiền thân của [Gollum](Gollum.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>Glip</b></i> là một bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong bộ truyện [Những câu chuyện và bài hát về Vịnh Bimble](../T/Tales_and_Songs_of_Bimble_Bay.md) của ông. Bài thơ gốc đã được tái bản trong [Douglas A. Anderson](../D/Douglas_A._Anderson.md) *[The Annotated Hobbit](../T/The_Annotated_Hobbit.md): Phiên bản sửa đổi và mở rộng*. Anderson cho rằng bài thơ là tiền đề của [Gollum](Gollum.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

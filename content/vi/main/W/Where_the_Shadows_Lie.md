@@ -41,7 +41,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Where the Shadows Lie** là bài hát thứ hai trong [*The Lord of the Rings: The Rings of Power* (Season One: Amazon Original Series Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>). Nó phát trong phần ghi công của *[Alloyed](../A/Alloyed.md)*. Lời bài hát của nó bắt nguồn từ "[câu thơ được biết đến từ lâu trong truyền thuyết Yêu tinh](../R/Ring-inscription.md#Ring-verse)" từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+**Where the Shadows Lie** là ca khúc thứ hai trong [*The Lord of the Rings: The Rings of Power* (Season One: Amazon Original Series Soundtrack)](<../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>). Nó phát trong phần ghi công của *[Alloyed](../A/Alloyed.md)*. Lời bài hát bắt nguồn từ "[câu thơ được biết đến từ lâu trong Tiên-lore](../R/Ring-inscription.md#Ring-verse)" từ *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Lời bài hát {#Lyrics}
 

@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2923.md" title="Third Age 2923">2923</a><a href="Third_Age_2926.md" title="Third Age 2926">2926</a><a href="Third_Age_2928.md" title="Third Age 2928">2928</a><a class="mw-selflink selflink">2929</a><a href="Third_Age_2930.md" title="Third Age 2930">2930</a><a href="Third_Age_2931.md" title="Third Age 2931">2931</a><a href="Third_Age_2932.md" title="Third Age 2932">2932</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 2929** (viết tắt là **T.A. 2929**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2929 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2929 còn được gọi là **S.R. 1329** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2929** (viết tắt là **T.A. 2929**) là năm [thứ 2929 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2929 còn được gọi là **S.R. 1329** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Arathorn](../A/Arathorn_II.md) con trai của [Arador](../A/Arador.md) thuộc [Dúnedain](../D/Dúnedain.md) kết hôn với [Gilraen](../G/Gilraen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Arathorn](../A/Arathorn_II.md) con trai của [Arador](../A/Arador.md) trong đám cưới [Dúnedain](../D/Dúnedain.md) [Gilraen](../G/Gilraen.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

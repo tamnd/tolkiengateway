@@ -17,9 +17,9 @@ langlinks:
     url: "https://kontu.wiki/D%C3%BAnedainin_T%C3%A4hti"
 ---
 
-**Ngôi sao của Dúnedain** là một món quà được [Vua Elessar](../A/Aragorn.md) tặng cho [Samwise Gamgee](Samwise_Gamgee.md) tại [Fo.A.](../F/Fourth_Age.md) [15](../F/Fourth_Age_15.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ngôi sao Dúnedain** là món quà được [Vua Elessar](../A/Aragorn.md) tặng cho [Samwise Gamgee](Samwise_Gamgee.md) vào [Kỷ Đệ Tứ](../F/Fourth_Age.md) [15](../F/Fourth_Age_15.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Rất có thể Ngôi sao của người Dúnedain giống với chiếc trâm cài bạc có hình ngôi sao có tia sáng được [Rangers of the North](../R/Rangers_of_the_North.md) đeo trên áo choàng của họ. Những người này đã đến [Rohan](../R/Rohan.md) để hỗ trợ [Thủ lĩnh](../C/Chieftain_of_the_Dúnedain.md) [Aragorn](../A/Aragorn.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> của họ và ngôi sao bạc được Aragorn đeo trên áo choàng khi ông phục vụ [Quản gia](Steward_of_Gondor.md) [Ecthelion II](../E/Ecthelion_II.md) của [Gondor](../G/Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Rất có khả năng Ngôi sao của Dúnedain giống với chiếc trâm cài bạc có hình dạng như một ngôi sao có tia sáng được [Biệt đội phương Bắc](../R/Rangers_of_the_North.md) đeo trên áo choàng của họ. Những người này đã đến [Rohan](../R/Rohan.md) để hỗ trợ [Thủ lĩnh](../C/Chieftain_of_the_Dúnedain.md) [Aragorn](../A/Aragorn.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> của họ và ngôi sao bạc được Aragorn đeo trên áo choàng của ông ta khi ông ta phục vụ [Quản gia](Steward_of_Gondor.md) [Ecthelion II](../E/Ecthelion_II.md) trong số [Gondor](../G/Gondor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

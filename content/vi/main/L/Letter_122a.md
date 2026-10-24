@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong một bức thư gửi [Pauline Baynes](../P/Pauline_Baynes.md), Tolkien gửi lời chúc Giáng sinh và xin lỗi vì phản hồi chậm trễ, với lý do là do ông tham gia vào các kỳ thi học thuật. Anh bày tỏ sự hài lòng với [những bức minh họa của cô](../../category/I/Images_by_Pauline_Baynes.md) dành cho *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*, đồng thời lưu ý rằng chúng rất nổi tiếng và đề cập rằng [C.S. Lewis](../C/C.S._Lewis.md) rất ấn tượng với tác phẩm của cô và đã liên hệ với cô để minh họa *[The Lion, the Witch, and the Wardrobe](../T/The_Chronicles_of_Narnia.md)*.
+Trong lá thư gửi [Pauline Baynes](../P/Pauline_Baynes.md), Tolkien gửi lời chúc Giáng sinh và xin lỗi vì phản hồi chậm trễ, với lý do là do ông tham gia vào các kỳ thi học thuật. Ông bày tỏ sự hài lòng với [những bức minh họa của bà](../../category/I/Images_by_Pauline_Baynes.md) cho *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)*, lưu ý rằng chúng rất nổi tiếng và đề cập rằng [C.S. Lewis](../C/C.S._Lewis.md) rất ấn tượng với tác phẩm của bà và đã liên hệ với bà để minh họa *[The Lion, the Witch, and the Wardrobe](../T/The_Chronicles_of_Narnia.md)*.
 
-Tolkien gợi ý về [các tác phẩm thần thoại sắp ra mắt](../T/The_Lord_of_the_Rings.md) của mình có thể cần có hình ảnh minh họa và bày tỏ hy vọng được cộng tác với bà trong tương lai, có thể là gặp nhau ở London. <br>
+Tolkien gợi ý về [các tác phẩm thần thoại sắp ra mắt](../T/The_Lord_of_the_Rings.md) của ông có thể cần có hình ảnh minh họa và bày tỏ hy vọng được cộng tác với bà trong tương lai, có thể là gặp nhau ở London. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

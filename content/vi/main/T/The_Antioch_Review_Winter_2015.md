@@ -32,7 +32,7 @@ infobox:
 
 <b><i>The Antioch Review</i> (Mùa đông 2015, Tập 73, Số 1)</b> có bài "Bài hát cho J.R.R. Tolkien" của Sue Parman. Trong bài viết của mình, Parman bao gồm các trích dẫn từ [một lá thư](../L/Letter_to_Sue_Parman.md) cô nhận được từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1964](../_/1964.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Khi còn trẻ, Parman đã chuyển thể một số bài thơ của Tolkien thành nhạc và gửi cho ông một bản ghi âm trên băng. Vào ngày 6 tháng 6 năm 1964, Tolkien gửi cho cô một lá thư viết tay:
+Khi còn trẻ, Parman đã chuyển thể một số bài thơ của Tolkien thành nhạc và gửi cho ông một bản ghi âm trên băng. Ngày 6/6/1964, Tolkien gửi cho bà một lá thư viết tay:
 
 <dl><dd><i>“Mr. Tolkien thanked me for the tape of the songs I’d made from his poems. He regretted that he couldn’t play it because he lacked the proper machine, and wouldn’t be at home when I arrived in England (his wife’s illness required him to go ‘in search of less damp and more warmth’), but the address on Sandfield Road in Oxford would find him eventually”… I re-read Mr. Tolkien’s letter and noticed a few lines I hadn’t paid much attention to before: ‘Also after a period of severe troubles, and personal illness, I am more than short on time, and behind with various contracts. I am also to add to my difficulties at present without a secretary.’”</i></dd></dl>
 

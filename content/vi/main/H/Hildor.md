@@ -30,11 +30,11 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/9/9c/CdxIconArticle.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content"><i>Main article:</i> <b><a href="../M/Men.md" title="Men">Men</a></b></div></div>
 
-**Hildor** là một trong nhiều cái tên trong số [Yêu tinh](../E/Elves.md) dành cho chủng tộc [Đàn ông](../M/Men.md), có nghĩa là "Người đi theo" hoặc "Người đến sau".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-WJ_2-0" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
+**Hildor** là một trong nhiều cái tên trong số [Tiên tộc](../E/Elves.md) dành cho chủng tộc [Con Người](../M/Men.md), có nghĩa là "Người đi theo" hoặc "Người đi sau".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-WJ_2-0" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Hildor* là một từ [Quenya](../Q/Quenya.md) và có ảnh hưởng từ [gốc](../S/Sundocarme.md) [KHILI](../K/KHILI.md) ("theo dõi").<sup id="cite_ref-WJ_2-1" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup> Trong [*Etymologies*](../T/The_Etymologies.md) và trong bản thảo *[Words Phrases and Passages](../P/Parma_Eldalamberon_17.md)*, xuất hiện dạng Quenya <i><b>hildi</b></i> ("những người theo dõi = những người phàm trần"; "người đến sau"), bắt nguồn từ [gốc](../S/Sundocarme.md) [KHIL-](../K/KHILI.md#Other_versions).<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Hildor* là một từ [Quenya](../Q/Quenya.md) và chứa ảnh hưởng từ [gốc](../S/Sundocarme.md) [KHILI](../K/KHILI.md) ("theo dõi").<sup id="cite_ref-WJ_2-1" class="reference"><a href="#cite_note-WJ-2">[2]</a></sup> Trong [*Etymologies*](../T/The_Etymologies.md) và trong bản thảo *[Words Phrases and Passages](../P/Parma_Eldalamberon_17.md)*, xuất hiện dạng Quenya <i><b>hildi</b></i> ("những người đi theo = những người phàm trần"; "những người đi sau"), bắt nguồn từ [gốc](../S/Sundocarme.md) [KHIL-](../K/KHILI.md#Other_versions).<sup id="cite_ref-LR_3-0" class="reference"><a href="#cite_note-LR-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 [Helge Fauskanger](Helge_Fauskanger.md) đã gợi ý rằng dạng số ít chưa được chứng thực của số nhiều *Hildor* phải là *Hildo*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 

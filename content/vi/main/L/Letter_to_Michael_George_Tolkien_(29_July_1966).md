@@ -18,7 +18,7 @@ sort_keys:
 
 Vào [29 tháng 7](../_/29_July.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi [Michael George Tolkien](../M/Michael_George_Tolkien.md)**.
 
-- **Xuất bản:** Bức thư được xuất bản một phần trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* với tên gọi [Thư 289](Letter_289.md). Phần lớn bức thư đã được đăng trên *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*: "Lời mở đầu, 3 (I: 12). Mirkwood".
+- **Xuất bản:** Bức thư được xuất bản một phần trong *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)* với tên [Thư 289](Letter_289.md). Phần lớn bức thư đã được đăng trong *[The Lord of the Rings: A Reader's Companion](../T/The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*: "Lời mở đầu, 3 (I: 12). Mirkwood".
 - **Lưu ý:** Bức thư được lưu giữ tại <a class="extiw" href="http://en.wikipedia.org/wiki/British_Library" title="wikipedia:British Library">Thư viện Anh</a> (MS Add. 71657).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Trích {#Excerpt}

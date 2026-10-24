@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The New Shadow"
 ---
 
-Chuyển hướng đến [Cái bóng mới](../T/The_New_Shadow.md).
+Chuyển hướng đến [Mới Bóng Tối](../T/The_New_Shadow.md).

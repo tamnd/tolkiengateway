@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Second Age 32"
 ---
 
-Chuyển hướng đến [Tuổi thứ hai 32](Second_Age_32.md).
+Chuyển hướng đến [Kỷ Đệ Nhị 32](Second_Age_32.md).

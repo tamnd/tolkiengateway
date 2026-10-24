@@ -53,7 +53,7 @@ infobox:
 
 <i><b>J.R.R. Tolkien: A Biography</b></i> là cuốn sách tiểu sử của [Humphrey Carpenter](../H/Humphrey_Carpenter.md). Đây là tiểu sử chính thức và được ủy quyền của [J.R.R. Tolkien](J.R.R._Tolkien.md). Được xuất bản lần đầu trong [1977](../_/1977.md), Nó đã được tái bản nhiều lần kể từ đó.
 
-Học giả Tolkien [Tom Shippey](../T/Tom_Shippey.md) viết rằng mặc dù cuốn tiểu sử này ra mắt trước hầu hết các ấn phẩm sau khi qua đời do Christopher Tolkien biên tập, nhưng "nó đã cũ rất lâu", kể về "tuổi trẻ buồn bã và đau thương" của Tolkien, đồng thời đưa tin tốt về các giao dịch của ông với [C. S. Lewis](../C/C._S._Lewis.md) và các nhà xuất bản của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Học giả Tolkien [Tom Shippey](../T/Tom_Shippey.md) viết rằng mặc dù cuốn tiểu sử được xuất bản trước hầu hết các ấn phẩm để lại do Christopher Tolkien biên tập, nhưng "nó đã cũ rất lâu", kể về "tuổi trẻ buồn bã và đau thương" của Tolkien, và đưa tin tốt về các giao dịch của ông với [C. S. Lewis](../C/C._S._Lewis.md) và các nhà xuất bản của ông.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Cuốn sách chứa một số lượng lớn các trích đoạn chưa được xuất bản trước đây từ các bức thư, bài thơ và các tác phẩm khác của Tolkien, cùng với bản sao lại một trang bản thảo từ *The Lord of the Rings*.
 
@@ -187,7 +187,7 @@ Cuốn sách chứa một số lượng lớn các trích đoạn chưa được
     - Ấn bản bìa mềm năm 1995, lần in thứ 2 ([1998](../_/1998.md))
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2002](../_/2002.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007132840">ISBN 0007132840</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2016](../_/2016.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008207771">ISBN 0008207771</a>
-- [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp đựng ([2026](../_/2026.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008805296">ISBN 0008805296</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng đựng trong hộp trượt ([2026](../_/2026.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008805296">ISBN 0008805296</a>
 
 ### Từ chối bản thảo đầu tiên {#Rejection_of_the_first_draft}
 

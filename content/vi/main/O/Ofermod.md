@@ -21,7 +21,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-"**Ofermod**"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là bài tiểu luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md); nó khám phá ý nghĩa của từ [tiếng Anh cổ](Old_English.md) *ofermod*, xuất hiện trong đoạn tiếng Anh cổ gốc <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Battle_of_Maldon" title="wikipedia:The Battle of Maldon">Trận chiến Maldon</a></i>. Từ này được dùng để mô tả trạng thái tâm trí của Beorhtnoth tại một thời điểm trong đoạn văn - Tolkien hiểu từ này có nghĩa là Beorhtnoth là nạn nhân của sự kiêu ngạo thái quá (một khuyết điểm về tính cách sẽ xuất hiện trong một số nhân vật sau này của Tolkien, [Fëanor](../F/Fëanor.md) và [Túrin](../T/Túrin.md) có lẽ là những ví dụ điển hình nhất).
+"**Ofermod**"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một bài tiểu luận của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md); nó khám phá ý nghĩa của từ [tiếng Anh cổ](Old_English.md) *ofermod*, xuất hiện trong đoạn tiếng Anh cổ gốc <i><a class="extiw" href="http://en.wikipedia.org/wiki/The_Battle_of_Maldon" title="wikipedia:The Battle of Maldon">Trận chiến Maldon</a></i>. Từ này được dùng để mô tả trạng thái tâm trí của Beorhtnoth tại một thời điểm trong đoạn văn - Tolkien dùng từ này để chỉ Beorhtnoth là nạn nhân của sự kiêu ngạo thái quá (một khuyết điểm về tính cách sẽ xuất hiện trong một số nhân vật sau này của Tolkien, [Fëanor](../F/Fëanor.md) và [Túrin](../T/Túrin.md) có lẽ là những ví dụ điển hình nhất).
 
 ## Lịch sử xuất bản {#Publication_history}
 

@@ -15,6 +15,6 @@ sort_keys:
   "Quenya nouns": "Nalta"
 ---
 
-<i><b>Ñalta</b></i> (sau này <i><b>nalta</b></i>) là [Quenya](../Q/Quenya.md) có nghĩa là "tỏa sáng". So sánh [Telerin](../T/Telerin.md) *[alata](../A/Alata.md)* và [Sindarin](../S/Sindarin.md) *[galad](../G/Galad.md)*. <span></span>
+<i><b>Ñalta</b></i> (sau này <i><b>nalta</b></i>) là [Quenya](../Q/Quenya.md) cho "sự rạng rỡ". So sánh [Telerin](../T/Telerin.md) *[alata](../A/Alata.md)* và [Sindarin](../S/Sindarin.md) *[galad](../G/Galad.md)*. <span></span>
 
 ## Tài liệu tham khảo {#References}

@@ -29,7 +29,7 @@ infobox:
 
 <i><b>Nghiên cứu về tiếng Anh và thời Trung cổ được trình bày cho J.R.R. Tolkien nhân dịp sinh nhật lần thứ 70 của ông</b></i> là một tập hợp [1962](../_/1962.md) các bài tiểu luận, được xuất bản để tưởng nhớ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Tập này có bài thơ “[A Short Ode to a Philologist](../A/A_Short_Ode_to_a_Philologist.md)”, được viết bởi [W.H. Auden](../W/W.H._Auden.md).
 
-Vào tháng 5 [2011](../_/2011.md), [HarperCollins](../H/HarperCollins.md) đã in lại bộ sưu tập dưới dạng sách in theo yêu cầu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào tháng 5 [2011](../_/2011.md), [HarperCollins](../H/HarperCollins.md) tái bản tuyển tập dưới dạng sách in theo yêu cầu.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
@@ -39,10 +39,10 @@ Cuốn sách này bao gồm các bài tiểu luận sau:
 - *The Appreciation of Old English Metre* bởi [A. J. Bliss](../A/Alan_Bliss.md)
 - *King Alfred's Last War* bởi M. E. Griffiths
 - *Sáu câu hỏi về hình thái học tiếng Anh cổ và trung đại* của C. E. Bazell
-- *Các nghiên cứu về quá trình thí nghiệm hoá và khử môi trường ở Tây Saxon muộn* của Pamela Gradon
+- *Các nghiên cứu về quá trình Phương Tây Labialization và Delabialization muộn của người Saxon* của Pamela Gradon
 - *Mảnh Bodmer trong bài giảng của Ælfic cho Chủ nhật Septuagesima* của N. R. Ker
 - *A Neglected Manuscript of British History* bởi [S. R. T. O. d'Ardenne](../S/Simonne_d'Ardenne.md)
-- *ormulum: Những từ được Jan van Vliet sao chép từ những phần hiện đã bị thất lạc* bởi R. W. Burchfield
+- *ormulum: Những từ được Jan van Vliet sao chép từ những phần hiện đã bị mất* bởi R. W. Burchfield
 - *Norse Alliterative Phrases in the Ormulum* bởi E. S. Olszewska
 - *Các liên kết bản thảo của Ancrene Wisse* của E. J. Dobson
 - *Chúa và Con người trong Troilus và Criseyde* của [T. P. Dunning](../T/T.P._Dunning.md)

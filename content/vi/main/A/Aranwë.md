@@ -50,13 +50,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Noldor.md" title="Noldor">Noldo</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Aranwë</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data">Fingolfin</td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../F/Falathrim.md" title="Falathrim">Falathrim</a> lady related to <a href="../C/Círdan.md" title="Círdan">Círdan</a><sup id="cite_ref-Tuor_1-0" class="reference"><a href="#cite_note-Tuor-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../V/Voronwë.md" title="Voronwë">Voronwë</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Aranwë** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[aˈranwe]</span> là một [Yêu tinh](../N/Noldor.md) của [Gia tộc Fingolfin](../H/House_of_Fingolfin.md).
+**Aranwë** ([Q](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[aˈranwe]</span> là một [Tiên](../N/Noldor.md) của [Gia tộc Fingolfin](../H/House_of_Fingolfin.md).
 
-Có thể ông là một quý tộc của [Gondolin](../G/Gondolin.md), vì ý nghĩa của tên ông và vì con trai ông [Voronwë](../V/Voronwë.md) đến từ Gondolin.<sup id="cite_ref-Tuor_1-1" class="reference"><a href="#cite_note-Tuor-1">[1]</a></sup>
+Có thể ông là một quý tộc của [Gondolin](../G/Gondolin.md), vì ý nghĩa của tên ông và vì con trai ông [Voronwë](../V/Voronwë.md) xuất thân từ Gondolin.<sup id="cite_ref-Tuor_1-1" class="reference"><a href="#cite_note-Tuor-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Aranwë* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack cho rằng nó có nghĩa là "Vua-người" và là sự kết hợp của *[aran](Aran.md)* ("vua") và hậu tố tên (chủ yếu là nam tính) *[-wë](../_/-wë.md)* ("đàn ông", "người").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*Aranwë* là tên [Quenya](../Q/Quenya.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Paul Strack gợi ý nó có nghĩa là "Vua-người" và là sự kết hợp của *[aran](Aran.md)* ("vua") và hậu tố tên (chủ yếu là nam tính) *[-wë](../_/-wë.md)* ("đàn ông", "người").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

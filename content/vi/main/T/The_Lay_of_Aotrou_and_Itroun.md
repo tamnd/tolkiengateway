@@ -66,7 +66,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lay_of_Aotrou_and_Itroun.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0e/The_Lay_of_Aotrou_and_Itroun.jpg/307px-The_Lay_of_Aotrou_and_Itroun.jpg" decoding="async" loading="lazy" width="307" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/0e/The_Lay_of_Aotrou_and_Itroun.jpg 1.5x" data-file-width="415" data-file-height="648"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lay of Aotrou and Itroun,<br/><small>together with the Corrigan Poems</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../V/Verlyn_Flieger.md" title="Verlyn Flieger">Verlyn Flieger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">December <a href="../_/1945.md" title="1945">1945</a><br/>Separate book: <a href="../_/3_November.md" title="3 November">3 November</a> <a href="../_/2016.md" title="2016">2016</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">128</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0008202133" title="Special:BookSources/0008202133">0008202133</a></td></tr></tbody></table>
 
-<i><b>The Lay of Aotrou và Itroun, cùng với Những bài thơ Corrigan</b></i> là cuốn sách trình bày một bài thơ dài được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1930](../_/1930.md), xuất bản lần đầu trên *[The Welsh Review](<The_Welsh_Review_(Vol.IV,_No.4).md>)* vào tháng 12 [1945](../_/1945.md). Nó được xuất bản thành tập riêng ở [2016](../_/2016.md), do [Verlyn Flieger](../V/Verlyn_Flieger.md) biên tập, cùng với hai bài thơ ngắn hơn.
+<i><b>The Lay of Aotrou và Itroun, cùng với Những bài thơ Corrigan</b></i> là cuốn sách trình bày một bài thơ dài được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) trong [1930](../_/1930.md), xuất bản lần đầu trên *[The Welsh Review](<The_Welsh_Review_(Vol.IV,_No.4).md>)* vào tháng 12 [1945](../_/1945.md). Nó được xuất bản thành tập riêng trong [2016](../_/2016.md), do [Verlyn Flieger](../V/Verlyn_Flieger.md) biên tập, cùng với hai bài thơ ngắn hơn.
 
 *Aotrou* và *Itroun* là các từ <a class="extiw" href="http://en.wikipedia.org/wiki/Breton_language" title="wikipedia:Breton language">Breton</a> dành cho "chúa tể" và "quý bà". Bài thơ được mô phỏng theo thể loại "<a class="extiw" href="http://en.wikipedia.org/wiki/Breton_lai" title="wikipedia:Breton lai">Breton lay</a>" phổ biến trong văn học Trung Anh thế kỷ 12, và nó khám phá sự xung đột giữa các giá trị anh hùng hoặc hiệp sĩ và Cơ đốc giáo, cũng như mối quan hệ của chúng với thể chế hôn nhân.
 
@@ -112,7 +112,7 @@ infobox:
 
 ## Nguồn {#Sources}
 
-Nguồn chính của bài thơ đã được xác định là bài hát Breton *An Aotrou Nann hag ar Gorigann* (Chúa Nann và nàng tiên), mà Tolkien có lẽ đã biết qua *Văn hóa dân gian trong các bản Ballad Anh và Scotland* của Wimberly (1928).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien thêm vào nguồn của mình một đạo đức nghiêm khắc – phủ nhận mọi giao thông với siêu nhiên.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nguồn chính của bài thơ đã được xác định là bài hát Breton *An Aotrou Nann hag ar Gorigann* (Chúa Nann và nàng tiên), mà Tolkien có lẽ đã biết qua *Văn hóa dân gian trong các bản Ballad Anh và Scotland* của Wimberly (1928).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tolkien thêm vào nguồn của ông một đạo đức nghiêm khắc – phủ nhận mọi giao thông với siêu nhiên.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Chủ đề {#Theme}
 
@@ -142,9 +142,9 @@ Aotrou qua đời sau ba ngày, theo sau là vợ anh với trái tim tan vỡ. 
 
 ## Mối quan hệ với di tích {#Relation_to_the_legendarium}
 
-Mặc dù không nằm trong số các tác phẩm của Tolkien về [huyền thoại](../L/Legendarium.md), *The Lay of Aotrou and Itroun* bao gồm các khía cạnh dường như đã truyền cảm hứng cho câu chuyện của ông về [Arda](../A/Arda.md):
+Mặc dù không nằm trong số các tác phẩm của Tolkien trong [huyền thoại](../L/Legendarium.md), *The Lay of Aotrou and Itroun* bao gồm các khía cạnh dường như đã truyền cảm hứng cho những câu chuyện về [Arda](../A/Arda.md) của ông:
 
-- Người ta lưu ý rằng Tolkien [đã sử dụng lại một cụm từ trong bài thơ](../E/Ere_iron_was_found_or_tree_was_hewn.md#Inspiration) trong *[The Two Towers](The_Two_Towers.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Đã lưu ý rằng Tolkien [đã sử dụng lại một cụm từ trong bài thơ](../E/Ere_iron_was_found_or_tree_was_hewn.md#Inspiration) trong *[The Two Towers](The_Two_Towers.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - *corrigan* đã được công nhận là con trỏ trước của [Galadriel](../G/Galadriel.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
@@ -205,7 +205,7 @@ Bài thơ được xuất bản hoàn toàn bằng tiếng Anh vào ngày 3 thá
 - Snoviđenja: bìa cứng ([2015](../_/2015.md)), trang 287. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/8691884509">ISBN 8691884509</a>
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2016](../_/2016.md)), trang 128. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0008202133">ISBN 0008202133</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2019](../_/2019.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000820215X">ISBN 000820215X</a>
-- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2026](../_/2026.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008795184">ISBN 978-0008795184</a> (hộp) - ([Thần thoại & Huyền thoại](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md) #2)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo khoác chống bụi có thể đảo ngược ([2026](../_/2026.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780008795184">ISBN 978-0008795184</a> (hộp) - ([Thần thoại & Huyền thoại](../C/Christopher_Tolkien_Centenary_Boxed_Sets.md) #2)
 
 ## Xem thêm {#See_also}
 
@@ -214,7 +214,7 @@ Bài thơ được xuất bản hoàn toàn bằng tiếng Anh vào ngày 3 thá
 
 ## Liên kết ngoài {#External_links}
 
-- [Dimitra Fimi](../D/Dimitra_Fimi.md), <a class="external text" href="https://muse.jhu.edu/article/678504" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a>, [Nghiên cứu Tolkien. 14](Tolkien_Studies%253A_Volume_14.md)
+- [Dimitra Fimi](../D/Dimitra_Fimi.md), <a class="external text" href="https://muse.jhu.edu/article/678504" rel="noreferrer noopener" target="_blank">Đánh giá sách</a>, [Tolkien Nghiên cứu. 14](Tolkien_Studies%253A_Volume_14.md)
 - <a class="external text" href="http://ae-lib.org.ua/texts-c/tolkien__the_lay_of_aotrou_and_itroun__en.htm" rel="noreferrer noopener" target="_blank">Cuộc sống của Aotrou và Itroun</a> toàn văn
 - <a class="external text" href="http://lingwe.blogspot.com/2015/08/a-standalone-edition-of-lay-of-aotrou.html" rel="noreferrer noopener" target="_blank">Ấn bản tiếng Serbia/tiếng Anh năm 2015</a> đánh giá
 

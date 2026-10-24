@@ -44,20 +44,20 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-*"Họ đi thành một hàng. Lối vào lối đi giống như một mái vòm dẫn vào một đường hầm u ám được làm bởi hai cái cây lớn nghiêng vào nhau, quá già, bị cây thường xuân siết cổ và bám đầy địa y để mang nhiều hơn một vài chiếc lá đen. Con đường hẹp và ngoằn ngoèo giữa những thân cây. Chẳng mấy chốc, ánh sáng ở cổng giống như một cái lỗ sáng nhỏ ở xa phía sau, và sự yên tĩnh quá sâu đến nỗi chân họ dường như đập thình thịch trong khi tất cả những cái cây nghiêng qua họ và đã lắng nghe."* - Người Hobbit, tr. 139
+*"Họ đi thành một hàng. Lối vào lối vào giống như một mái vòm dẫn vào một đường hầm u ám được tạo bởi hai cái cây lớn nghiêng vào nhau, quá già, bị cây thường xuân siết cổ và bám đầy địa y để mang nhiều hơn một vài chiếc lá đen. Con đường hẹp và ngoằn ngoèo giữa những thân cây. Chẳng mấy chốc, ánh sáng ở cổng giống như một lỗ sáng nhỏ ở xa phía sau, và sự yên tĩnh quá sâu đến nỗi chân họ dường như đập mạnh trong khi tất cả những cái cây nghiêng qua họ và đã lắng nghe."* - The Hobbit, tr. 139
 
-Từng được đặt tên là Greenwood Đại đế, vùng đất trên cây này chứa đựng ánh sao và bài hát dưới mái hiên hình vòm của nó. Giờ đây, chỉ có những khu rừng phía bắc còn lưu giữ được ký ức về thời huy hoàng xưa, và phép thuật của loài yêu tinh bảo vệ biên giới của họ ngày càng trở nên kỳ lạ và nguy hiểm. Tên Necromancer đáng sợ sinh sống ở Dol Guldur ở phía nam Mirkwood rối rắm, và cả khu rừng rúm ró trước Bóng tối của hắn. Những sợi huyết dụ xoắn và những mạng lưới bồ hóng che chở cho lũ tay sai của hắn và những sinh vật hoang dã ngã xuống.
+Sau khi được đặt tên là Greenwood the Great, vùng đất trên cây chứa đựng ánh sao và bài hát dưới mái hiên hình vòm của nó. Giờ đây, chỉ có những khu rừng phía bắc còn lưu giữ được ký ức về thời huy hoàng xưa, và phép thuật của loài yêu tinh bảo vệ biên giới của họ ngày càng trở nên kỳ lạ và nguy hiểm. Kẻ Necromancer đáng sợ cư trú ở Dol Guldur ở miền nam rối rắm Mirkwood, và cả khu rừng rùng mình trước Bóng Tối của hắn. Những sợi huyết dụ xoắn và những mạng lưới bồ hóng che chở cho lũ tay sai của hắn và những sinh vật hoang dã ngã xuống.
 
-Mirkwood là bản tái bản của mô-đun chiến dịch ICE năm 1988 có tựa đề Mirkwood, The Wilds of Rhovanion. Lần tái bản này như một tác phẩm vương quốc có sự xuất sắc của cuốn sách bán chạy nhất trước đó cùng với một số sơ đồ tầng và hình minh họa mới. Mirkwood bao gồm các số liệu thống kê đầy đủ cho MERP, Trò chơi phiêu lưu Chúa tể những chiếc nhẫn và Rolemaster.
+Mirkwood là bản tái bản của mô-đun chiến dịch ICE năm 1988 có tựa đề Mirkwood, The Wilds of Rhovanion. Lần tái bản này như một tác phẩm vương quốc có sự xuất sắc của cuốn sách bán chạy nhất trước đó cùng với một số sơ đồ tầng và hình minh họa mới. Mirkwood bao gồm số liệu thống kê đầy đủ cho MERP, Trò chơi phiêu lưu Chúa tể những chiếc nhẫn và Rolemaster.
 
-Các tính năng của Mirkwood:
+Mirkwood tính năng:
 
-- BẢN ĐỒ MÀU SẮC - hai bản đồ được hiển thị đẹp mắt mô tả phía bắc và phía nam Mirkwood, cũng như những vùng đất đa dạng nằm cạnh khu rừng rộng lớn.
+- BẢN ĐỒ MÀU - hai bản đồ được hiển thị đẹp mắt mô tả miền bắc và miền nam Mirkwood, cũng như những vùng đất đa dạng nằm cạnh khu rừng rộng lớn.
 - RADAGAST & RHOSGOBEL - bậc thầy về hình dạng và màu sắc cũng như ngôi nhà ma thuật của ông với nhiều du khách trong rừng.
-- BẮC - Những người có lãnh chúa thực hành việc thay đổi hình dạng; Sairthéod trong ngôi làng nhà trên cây của họ; Dalemen và Lakemen, hậu duệ của Edain thời kỳ đầu cao quý; Thợ rừng đi rừng theo thị tộc; và Éothraim yêu ngựa, tổ tiên của người Rohirrim.
-- NGƯỜI Lùn CỦA HILLS SẮT - tổ tiên kiên cường của Dáin Ironfoot, người đã đến trợ giúp Thorin Oakenshield tại Erebor vào cuối Thời đại.
-- THẦN YÊU CỦA THRANDUIL'S HALLS - dân gian thông thái về rừng tôn vinh ánh sao, bài hát và cây cối trong rừng bằng tiệc tùng và nhạc đàn hạc trong những thung lũng tuyệt đẹp.
-- SÁNG TẠO BÓNG ĐÁ - Những con rồng từ vùng đất hoang khô héo bay về phía nam để tìm kiếm con mồi; Những con Nhện Lớn và những mạng lưới đen tối của chúng kéo dài từ thân cây này sang thân cây khác; Quỷ đá lang thang ở Emyn-nu-Fuin; và những cái cây tỉnh táo với trái tim ác độc và những cành thù địch.
-- MINION OF THE NECROMANCER - Ma Nhẫn thống trị Naked Hill; lũ quỷ đen đóng vai trò là lãnh chúa của tòa thành; và đám chiến binh Orc đột kích theo lệnh của họ.
+- BẮC - Beornings có các lãnh chúa thực hành việc thay đổi hình dạng; Sairthéod trong ngôi làng nhà trên cây của họ; Dalemen và Lakemen, hậu duệ của Thời đại thứ nhất cao quý Edain; Người Rừng đi lang thang trong rừng theo gia tộc; và Éothraim yêu ngựa, tổ tiên của Rohirrim.
+- WARVES OF THE IRON HILLS - những tổ tiên kiên cường của Dáin Chân Sắt đã đến trợ giúp Thorin Oakenshield tại Erebor sau này trong Thời đại.
+- NHỮNG YÊU CẦU CỦA THRANDUIL'S HALLS - dân gian thông thái về rừng tôn vinh ánh sao, bài hát và cây cối trong rừng bằng tiệc tùng và nhạc đàn hạc trong những thung lũng tuyệt đẹp.
+- SÁNG TẠO BÓNG TỐ - Rồng từ Withered Heath bay về phía nam để tìm kiếm con mồi; Những con Nhện Lớn và những mạng lưới đen tối của chúng kéo dài từ thân cây này sang thân cây khác; Stone Troll lang thang trên Emyn-nu-Fuin; và những cái cây tỉnh táo với trái tim ác độc và những cành thù địch.
+- MINION OF THE NECROMANCER - Ma Nhẫn thống trị Naked Hill; người da đen Troll đóng vai trò là lãnh chúa của tòa thành; và đám Orc-chiến binh đột kích theo lệnh của họ.
 - Sùng bái ĐÊM DÀI - những pháp sư hoạt hình tôn sùng bóng tối và dạy các nguyên lý của nó vào những đêm không trăng.
 - ĐỊA ĐIỂM TỐI - [Sarn Goriwing](../S/Sarn_Goriwing.md), tòa tháp phù thủy thống trị thượng nguồn của Sông Enchanted; Nan Morsereg, một thung lũng chứa đựng những giáo phái đen tối và nỗi kinh hoàng về đêm; và ngôi nhà cao ngất ngưởng của Gloom-spike cho một nhà tiên tri điên cuồng.

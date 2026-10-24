@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Các nhà xuất bản lại xem xét việc xuất bản *[Mr Bliss](../M/Mr_Bliss.md)*, vốn trước đây đã bị trì hoãn do sự phức tạp của các hình minh họa,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng Tolkien không cảm thấy mình có thời gian để đảm nhận việc vẽ lại chúng.
+Các nhà xuất bản lại đang xem xét việc xuất bản *[Mr Bliss](../M/Mr_Bliss.md)*, vốn trước đây đã bị trì hoãn do sự phức tạp của các hình minh họa,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> nhưng Tolkien cảm thấy mình không có thời gian để thực hiện việc vẽ lại chúng.
 
 Ông than thở rằng ông đã không thể vượt qua chương đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, nhận xét:
 

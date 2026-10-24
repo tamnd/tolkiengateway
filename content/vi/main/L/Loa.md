@@ -13,11 +13,11 @@ categories:
   - "Quenya nouns"
 ---
 
-A <i><b>loa</b></i> (hoặc <i><b>löa</b></i>, số nhiều <i><b>löar</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là tên được sử dụng bởi [Yêu tinh](../E/Elves.md) trong một năm; còn được gọi là *[coranar](../C/Coranar.md)*. 144 *löar* tương đương với một *[yén](../Y/Yén.md)*, một 'năm dài' của Tiên.<sup id="cite_ref-Calendars_2-0" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
+A <i><b>loa</b></i> (hoặc <i><b>löa</b></i>, số nhiều <i><b>löar</b></i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) là tên được [Tiên tộc](../E/Elves.md) sử dụng trong một năm; còn được gọi là *[coranar](../C/Coranar.md)*. 144 *löar* tương đương một *[yén](../Y/Yén.md)* một lần, một Elvish 'năm dài'.<sup id="cite_ref-Calendars_2-0" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này được sử dụng đặc biệt ở các phần phía tây bắc của [Westlands](../W/Westlands.md) và (trái ngược với từ "thiên văn" *coranar*) đã được xem xét (như Người Yêu tinh thường làm) những thay đổi theo mùa của thảm thực vật.<sup id="cite_ref-Calendars_2-1" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
+Từ này được sử dụng đặc biệt ở các phần phía tây bắc của [Westlands](../W/Westlands.md) và (trái ngược với từ "thiên văn" *coranar*) đã được xem xét (như Tiên tộc thường làm) những thay đổi theo mùa của thảm thực vật.<sup id="cite_ref-Calendars_2-1" class="reference"><a href="#cite_note-Calendars-2">[2]</a></sup>
 
 Xem: [LAW](LAW.md)
 

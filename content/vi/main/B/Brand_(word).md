@@ -19,7 +19,7 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>an <a href="../E/Elvish.md" title="Elvish">Elvish</a> word</b>. For the character in <i><a href="../T/The_Hobbit.md" title="The Hobbit">The Hobbit</a></i>, see <b><a href="Brand.md" title="Brand">Brand</a></b>.</div></div>
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
 <i><b>thương hiệu</b></i> hoặc <i><b>brann</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "cao chót vót; 'cao và đồ sộ'". Dạng *brand* cũng được cho là có nghĩa là "<a class="extiw" href="http://en.wiktionary.org/wiki/steeple" title="wiktionary:steeple">gác chuông</a>". Các từ *brand*, *brann* cũng xuất hiện mang ý nghĩa "<a class="external text" href="http://en.wiktionary.org/wiki/sublime#English" rel="noreferrer noopener" target="_blank">cao siêu</a>".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
@@ -31,15 +31,15 @@ images:
 
 - *[Tol Brandir](../T/Tol_Brandir.md#Etymology)*<sup id="cite_ref-PE17_1-2" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
-## Noldorin lưu vong {#Exilic_Noldorin}
+## Người lưu đày Noldorin {#Exilic_Noldorin}
 
 <i><b>thương hiệu</b></i> hoặc <i><b>brann</b></i> là một từ [Exilic Noldorin](../N/Noldorin.md) có nghĩa là "cao cả, cao quý, tốt đẹp".<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
-[Tolkien](../J/J.R.R._Tolkien.md) rõ ràng đã sử dụng từ *brann* để dịch "cao" trong cụm từ Noldorin <a class="mw-selflink-fragment" href="#Examples">được ghi trên bản nháp Bản đồ của Thrór</a>.<sup id="cite_ref-AI_3-0" class="reference"><a href="#cite_note-AI-3">[3]</a></sup><sup id="cite_ref-H1_4-0" class="reference"><a href="#cite_note-H1-4">[4]</a></sup><sup id="cite_ref-Th_5-0" class="reference"><a href="#cite_note-Th-5">[5]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) rõ ràng đã sử dụng từ *brann* để dịch "cao" trong cụm từ Noldorin <a class="mw-selflink-fragment" href="#Examples">được ghi trên bản nháp của Bản đồ Thrór</a>.<sup id="cite_ref-AI_3-0" class="reference"><a href="#cite_note-AI-3">[3]</a></sup><sup id="cite_ref-H1_4-0" class="reference"><a href="#cite_note-H1-4">[4]</a></sup><sup id="cite_ref-Th_5-0" class="reference"><a href="#cite_note-Th-5">[5]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 
-Từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *b’randā*, root [BARÁD](BARAT.md#Other_versions_of_the_legendarium).<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+Từ [Primitive Quendian](../P/Primitive_Quendian.md) *b’randā*, gốc [BARÁD](BARAT.md#Other_versions_of_the_legendarium).<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 ### Hợp chất {#Compounds}
 

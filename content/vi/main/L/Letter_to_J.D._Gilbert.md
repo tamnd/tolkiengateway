@@ -20,8 +20,8 @@ images:
 
 Vào [17 tháng 4](../_/17_April.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi J.D. Gilbert**.<sup id="cite_ref-C_1-0" class="reference"><a href="#cite_note-C-1">[1]</a></sup>
 
-- **Chủ đề:** Tolkien gợi ý Gilbert đọc *[The Homecoming of Beorhtnoth](../T/The_Homecoming_of_Beorhtnoth.md)*, bình luận rằng "*Tôi nghĩ một trong những lý do khiến sách đọc thời thơ ấu mất đi sức hấp dẫn sau này là vì nhiều cuốn trong số đó được viết rất kém, và lỗi này không được người đọc thiếu phê phán và thiếu kinh nghiệm (có ý thức) ghi nhận*". Tolkien cũng giải thích rằng ông "*có hợp đồng xuất bản những truyền thuyết và câu chuyện của các thời đại trước [Thời đại thứ ba](../T/Third_Age.md)*" nhưng ông nhận thấy rằng thời gian trôi qua quá nhanh.
-- **Mô tả:** Thư đánh máy có chữ ký bổ sung bằng mực bút máy màu đen (năm từ), trên tiêu đề thư Giáo sư J.R.R. Tolkien của ông, Oxford, 76 Sandfield Road, ngày 17 tháng 4 năm 1967. 7" x 9", 1 trang (chỉ in trực tiếp).
+- **Chủ đề:** Tolkien gợi ý Gilbert đọc *[The Homecoming of Beorhtnoth](../T/The_Homecoming_of_Beorhtnoth.md)*, nhận xét rằng "*Tôi nghĩ một trong những lý do khiến sách đọc lúc còn nhỏ sau này mất đi sức hấp dẫn là vì nhiều cuốn trong số đó được viết rất kém, và lỗi này không được người đọc thiếu phê bình và thiếu kinh nghiệm (có ý thức) ghi nhận*". Tolkien cũng giải thích rằng ông "*có hợp đồng xuất bản những truyền thuyết và câu chuyện của các thời đại trước [Kỷ Đệ Tam](../T/Third_Age.md)*" nhưng ông nhận thấy rằng thời gian trôi qua quá nhanh.
+- **Mô tả:** Thư đánh máy có chữ ký bổ sung bằng mực bút máy đen (năm từ), trên tiêu đề thư Giáo sư J.R.R. Tolkien của ông, Oxford, 76 Sandfield Road, ngày 17 tháng 4 năm 1967. 7" x 9", 1 trang (chỉ in trực tiếp).
 - **Xuất bản:** Mô tả về bức thư đã được xuất bản trong [*The J.R.R. Tolkien Companion and Guide: Chronology*](../T/The_J.R.R._Tolkien_Companion_and_Guide.md) (tr. 696).
 
 <span></span>

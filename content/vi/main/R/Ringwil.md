@@ -26,7 +26,7 @@ langlinks:
     url: "https://kontu.wiki/Ringwil"
 ---
 
-Con sông **Ringwil** là một con sông ngắn và sủi bọt ở [Tây Beleriand](../W/West_Beleriand.md) chảy về phía đông qua vùng đồi núi [High Faroth](../T/Taur-en-Faroth.md) phía bắc [Nargothrond](../N/Nargothrond.md) cho đến khi nối với [Narog](../N/Narog.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nơi nó gặp Narog, một cánh cửa bí mật đã được xây dựng, được [Lúthien](../L/Lúthien.md) sử dụng để trốn thoát khỏi Nargothrond khi Celegorm và [Curufin](../C/Curufin.md) giam giữ cô làm tù nhân.
+Con sông **Ringwil** là một con sông ngắn và sủi bọt [Tây Beleriand](../W/West_Beleriand.md) chảy về phía đông qua vùng đồi [High Faroth](../T/Taur-en-Faroth.md) phía bắc [Nargothrond](../N/Nargothrond.md) cho đến khi nhập vào [Narog](../N/Narog.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nơi nó gặp Narog một cánh cửa bí mật đã được xây dựng, được [Lúthien](../L/Lúthien.md) sử dụng để thoát khỏi Nargothrond khi Celegorm và [Curufin](../C/Curufin.md) giữ bà tù nhân.
 
 <span></span>
 

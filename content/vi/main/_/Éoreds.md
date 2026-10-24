@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Éored"
 ---
 
-Chuyển hướng tới [Éored](Éored.md).
+Chuyển hướng đến [Éored](Éored.md).

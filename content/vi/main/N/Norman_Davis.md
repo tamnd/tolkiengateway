@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Davis, Norman"
 ---
 
-**Norman Davis** ([16 tháng 5](../_/16_May.md) [1913](../_/1913.md) – [2 tháng 12](../_/2_December.md) [1989](../_/1989.md)) là một học giả gốc New Zealand. Ông kế nhiệm [Tolkien](../J/J.R.R._Tolkien.md) làm Giáo sư Ngôn ngữ và Văn học Anh tại [Merton College](../M/Merton_College.md), [Oxford](../U/University_of_Oxford.md), một chức vụ mà ông giữ cho đến khi nghỉ hưu vào năm 1980.
+**Norman Davis** ([16 tháng 5](../_/16_May.md) [1913](../_/1913.md) – [2 tháng 12](../_/2_December.md) [1989](../_/1989.md)) là một học giả sinh ra ở New Zealand. Ông đã kế nhiệm [Tolkien](../J/J.R.R._Tolkien.md) làm Giáo sư Ngôn ngữ và Văn học Anh tại [Merton College](../M/Merton_College.md), [Oxford](../U/University_of_Oxford.md), một chức vụ mà ông giữ cho đến khi nghỉ hưu vào năm 1980.
 
 ## Thư mục {#Bibliography}
 

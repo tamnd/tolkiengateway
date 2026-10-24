@@ -22,4 +22,4 @@ Ví dụ:
 ## Tài liệu tham khảo {#References}
 
 - *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* bởi [Ruth S. Noel](../R/Ruth_S._Noel.md)
-- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> do [Didier Willis biên soạn](../D/Didier_Willis.md)
+- <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindar/dict-sd-en.html" rel="noreferrer noopener" target="_blank">Từ điển Sindarin của Hiswelókë</a> được biên soạn bởi [Didier Willis](../D/Didier_Willis.md)

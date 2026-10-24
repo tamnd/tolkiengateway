@@ -21,7 +21,7 @@ images:
 
 Vào [27 tháng 7](../_/27_July.md) [2016](../_/2016.md), Cubicle thông báo phát hành *[Adventures in Middle-earth](../A/Adventures_in_Middle-earth.md)*.<sup id="cite_ref-Announce_1-0" class="reference"><a href="#cite_note-Announce-1">[1]</a></sup>
 
-Vào [27 tháng 11](../_/27_November.md) [2019](../_/2019.md), công ty đã thông báo rằng, vào nửa đầu [2020](../_/2020.md), họ sẽ ngừng xuất bản The One Ring và Adventures in Middle-earth.<sup id="cite_ref-TORE_2-0" class="reference"><a href="#cite_note-TORE-2">[2]</a></sup>
+Vào [27 tháng 11](../_/27_November.md) [2019](../_/2019.md), công ty đã thông báo rằng, vào nửa đầu [2020](../_/2020.md), họ sẽ ngừng xuất bản The One Ring và Adventures in Trung Địa.<sup id="cite_ref-TORE_2-0" class="reference"><a href="#cite_note-TORE-2">[2]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -17,16 +17,16 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/T/Tolkien_Quest_Logo.png.md" title="Tolkien Quest logo"><img alt="Tolkien Quest logo" src="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_Quest_Logo.png/250px-Tolkien_Quest_Logo.png" decoding="async" loading="lazy" width="250" height="115" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_Quest_Logo.png/375px-Tolkien_Quest_Logo.png 1.5x, https://tolkiengateway.net/w/images/thumb/4/4c/Tolkien_Quest_Logo.png/500px-Tolkien_Quest_Logo.png 2x" data-file-width="880" data-file-height="404"/></a><figcaption><i>Tolkien Quest</i> logo</figcaption></figure>
 
-**Tolkien Quest** (TQ) là một loạt sách bìa mềm phiêu lưu solo dựa trên Hệ thống *QuestGame*, được xuất bản bởi [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md).
+**Tolkien Quest** (TQ) là một loạt sách bìa mềm phiêu lưu solo dựa trên Hệ thống *QuestGame*, được xuất bản bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md).
 
-Sau khi phát hành cuốn thứ hai của bộ truyện, [Allen & Unwin](../A/Allen_&_Unwin.md) tuyên bố [ICE](../I/Iron_Crown_Enterprises.md) và Tolkien Enterprises đã vi phạm hợp đồng của họ. Tất cả các cuốn sách đều phải thu hồi và tiêu hủy, với thiệt hại ước tính từ 2,25 đến 2,5 triệu đô la. ICE đã có thể thương lượng giấy phép sách trò chơi với Allen & Unwin trong [1986](../_/1986.md), dẫn đến loạt *[Middle-earth Quest](../M/Middle-earth_Quest.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sau khi phát hành cuốn thứ hai của bộ truyện, [Allen &amp; Unwin](../A/Allen_&_Unwin.md) cho rằng [ICE](../I/Iron_Crown_Enterprises.md) và Tolkien Enterprises đã vi phạm hợp đồng của họ. Tất cả các cuốn sách đều phải thu hồi và tiêu hủy, với thiệt hại ước tính từ 2,25 đến 2,5 triệu đô la. ICE đã có thể thương lượng giấy phép sách trò chơi với Allen &amp; Unwin trong [1986](../_/1986.md), dẫn đến loạt *[Middle-earth Quest](../M/Middle-earth_Quest.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ấn phẩm {#Publications}
 
 - [1985](../_/1985.md): *[Night of the Nazgûl](../N/Night_of_the_Nazgûl.md)*
 - [1985](../_/1985.md): *[The Legend of Weathertop](The_Legend_of_Weathertop.md)*
 
-Hai cuốn sách tiếp theo đã được lên kế hoạch xuất bản vào tháng 1 và tháng 2 của [1986](../_/1986.md): *[Rescue in Mirkwood](../R/Rescue_in_Mirkwood.md)* (sau này được xuất bản như một phần của bộ [Nhiệm vụ Trung Địa](../M/Middle-earth_Quest.md)) và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Murder_at_Minas_Tirith&amp;action=edit&amp;redlink=1" title="Murder at Minas Tirith (page does not exist)">Murder at Minas Tirith</a></i> chưa bao giờ được xuất bản.
+Hai cuốn sách tiếp theo đã được lên kế hoạch xuất bản vào tháng 1 và tháng 2 của [1986](../_/1986.md): *[Rescue in Mirkwood](../R/Rescue_in_Mirkwood.md)* (sau này được xuất bản như một phần của bộ [Trung Địa Quest](../M/Middle-earth_Quest.md)) và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Murder_at_Minas_Tirith&amp;action=edit&amp;redlink=1" title="Murder at Minas Tirith (page does not exist)">Murder at Minas Tirith</a></i> chưa bao giờ được xuất bản.
 
 ## Thư viện {#Gallery}
 

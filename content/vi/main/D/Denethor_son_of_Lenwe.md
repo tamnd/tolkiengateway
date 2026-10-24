@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Denethor (king of the Laiquendi)"
 ---
 
-Chuyển hướng tới [Denethor (vua của Laiquendi)](<Denethor_(king_of_the_Laiquendi).md>).
+Chuyển hướng đến [Denethor (vua của Laiquendi)](<Denethor_(king_of_the_Laiquendi).md>).

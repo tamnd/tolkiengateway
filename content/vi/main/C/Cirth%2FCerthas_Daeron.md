@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Certhas Daeron"
 ---
 
-Chuyển hướng tới [Certhas Daeron](Certhas_Daeron.md).
+Chuyển hướng đến [Certhas Daeron](Certhas_Daeron.md).

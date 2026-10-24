@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Sindarin names"
 ---
 
-Chuyển hướng đến [Danh mục:Tên Sindarin](../../category/S/Sindarin_names.md).
+Chuyển hướng đến [Danh mục:Sindarin tên](../../category/S/Sindarin_names.md).

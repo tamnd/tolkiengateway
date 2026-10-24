@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Two Lamps"
 ---
 
-Chuyển hướng đến [Hai đèn](../T/Two_Lamps.md).
+Chuyển hướng đến [Hai Ngọn Đèn](../T/Two_Lamps.md).

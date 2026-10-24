@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ravenhill"
 ---
 
-Chuyển hướng tới [Ravenhill](Ravenhill.md).
+Chuyển hướng đến [Ravenhill](Ravenhill.md).

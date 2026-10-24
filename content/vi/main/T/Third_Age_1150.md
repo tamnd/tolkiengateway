@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1126.md" title="Third Age 1126">1126</a><a href="Third_Age_1144.md" title="Third Age 1144">1144</a><a href="Third_Age_1149.md" title="Third Age 1149">1149</a><a class="mw-selflink selflink">1150</a><a href="Third_Age_1191.md" title="Third Age 1191">1191</a><a href="Third_Age_1194.md" title="Third Age 1194">1194</a><a href="Third_Age_1226.md" title="Third Age 1226">1226</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 1150** (viết tắt là **T.A. 1150**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1150 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Tam 1150** (viết tắt là **T.A. 1150**) là năm [thứ 1150 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Vào khoảng thời gian này, [Fallohides](../F/Fallohides.md) tiến vào [Eriador](../E/Eriador.md).<sup id="cite_ref-AppB_1-0" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
-- Vào khoảng thời gian này, [Cửa nhà](../S/Stoors.md) vượt qua [Đèo Redhorn](../C/Caradhras.md#The_Redhorn_Gate) và di chuyển đến [Angle](../A/Angle_of_Eriador.md) hoặc tới [Dunland](../D/Dunland.md).<sup id="cite_ref-AppB_1-1" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
+- Lúc này, [Fallohides](../F/Fallohides.md) nhập [Eriador](../E/Eriador.md).<sup id="cite_ref-AppB_1-0" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
+- Lúc này, [Stoors](../S/Stoors.md) đi qua [Đèo Redhorn](../C/Caradhras.md#The_Redhorn_Gate) và di chuyển đến [Angle](../A/Angle_of_Eriador.md) hoặc tới [Dunland](../D/Dunland.md).<sup id="cite_ref-AppB_1-1" class="reference"><a href="#cite_note-AppB-1">[1]</a></sup>
 
 <span></span>
 

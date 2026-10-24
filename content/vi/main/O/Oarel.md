@@ -12,9 +12,9 @@ categories:
   - "Quenya nouns"
 ---
 
-**Oarel** xin vui lòng. **Oareldi** cũng **Aurel, Aureldi** có nghĩa là "Yêu tinh đi xa" và là tên của [Amanyar](../A/Amanyar.md) [Yêu tinh](../E/Elves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Oarel** xin vui lòng. **Oareldi** cũng **Aurel, Aureldi** có nghĩa là "Đi xa-Tiên" và là tên của [Amanyar](../A/Amanyar.md) [Tiên tộc](../E/Elves.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Mặc dù [Quenya](../Q/Quenya.md), nhưng cái tên này là theo quan điểm của [Sindar](../S/Sindar.md), vì nó ám chỉ những Yêu tinh đã rời khỏi [Beleriand](../B/Beleriand.md) để đến [Aman](../A/Aman.md).
+Mặc dù [Quenya](../Q/Quenya.md), nhưng cái tên này là theo quan điểm [Sindar](../S/Sindar.md), vì nó đề cập đến Tiên tộc người đã khởi hành [Beleriand](../B/Beleriand.md) để đến [Aman](../A/Aman.md).
 
 ## Từ nguyên {#Etymology}
 

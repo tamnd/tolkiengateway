@@ -66,11 +66,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_History_of_The_Hobbit_-_Mr._Baggins.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f1/The_History_of_The_Hobbit_-_Mr._Baggins.jpg/306px-The_History_of_The_Hobbit_-_Mr._Baggins.jpg" decoding="async" loading="lazy" width="306" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f1/The_History_of_The_Hobbit_-_Mr._Baggins.jpg/460px-The_History_of_The_Hobbit_-_Mr._Baggins.jpg 1.5x, https://tolkiengateway.net/w/images/f/f1/The_History_of_The_Hobbit_-_Mr._Baggins.jpg 2x" data-file-width="500" data-file-height="783"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span><i>The History of The Hobbit</i></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/John_D._Rateliff.md" title="John D. Rateliff">John D. Rateliff</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">J.R.R. Tolkien</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">vol.1: <a href="../_/1_May.md" title="1 May">1 May</a> <a href="../_/2007.md" title="2007">2007</a><br/>vol.2: <a href="../_/18_June.md" title="18 June">18 June</a> <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">480 (each volume)</td></tr><tr><th scope="row" class="tg-infobox-label">ISBNs</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0007235550" title="Special:BookSources/0007235550">0007235550</a><br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0007250665" title="Special:BookSources/0007250665">0007250665</a></td></tr></tbody></table>
 
-<i><b>Lịch sử người Hobbit</b></i> là một nghiên cứu gồm hai tập về tiểu thuyết *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), xuất bản năm [2007](../_/2007.md).
+<i><b>The History of The Hobbit</b></i> là một nghiên cứu gồm hai tập về tiểu thuyết *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được xuất bản trên [2007](../_/2007.md).
 
-Nó chứa các bản thảo tiểu thuyết chưa được xuất bản của Tolkien, với lời bình của [John D. Rateliff](../J/John_D._Rateliff.md). Nó cũng trình bày chi tiết các bản sửa đổi khác nhau của Tolkien đối với *The Hobbit*, bao gồm các bản sửa đổi bị bỏ dở cho ấn bản thứ ba chưa được xuất bản của tác phẩm, dự định cho năm 1960, cũng như các bản đồ và hình minh họa gốc chưa được xuất bản trước đó do chính Tolkien vẽ.
+Nó chứa các bản thảo tiểu thuyết chưa được xuất bản của Tolkien, với lời bình của [John D. Rateliff](../J/John_D._Rateliff.md). Nó cũng nêu chi tiết các sửa đổi khác nhau của Tolkien đối với *The Hobbit*, bao gồm các sửa đổi bị bỏ dở cho ấn bản thứ ba chưa được xuất bản của tác phẩm, dự định cho năm 1960, cũng như các bản đồ và hình minh họa gốc chưa được xuất bản trước đây do chính Tolkien vẽ.
 
-Một phiên bản rút gọn đã được xuất bản bởi [HarperCollins](../H/HarperCollins.md) trong [2015](../_/2015.md) dưới dạng <i><b><a href="../A/A_Brief_History_of_The_Hobbit.md" title="A Brief History of The Hobbit">A Brief History of The Hobbit</a></b></i>. Phiên bản này giữ lại văn bản của Tolkien và các ghi chú văn bản do Rateliff cung cấp nhưng bỏ qua các bài tiểu luận của ông về các khía cạnh khác nhau của văn bản.
+Một phiên bản viết tắt đã được [HarperCollins](../H/HarperCollins.md) xuất bản trong [2015](../_/2015.md) dưới dạng <i><b><a href="../A/A_Brief_History_of_The_Hobbit.md" title="A Brief History of The Hobbit">Lịch sử tóm tắt về The Hobbit</a></b></i>. Phiên bản này giữ lại văn bản của Tolkien và các ghi chú văn bản do Rateliff cung cấp nhưng bỏ qua các bài tiểu luận của ông về các khía cạnh khác nhau của văn bản.
 
 ## Ấn bản đầu tiên {#First_edition}
 
@@ -79,7 +79,7 @@ Một phiên bản rút gọn đã được xuất bản bởi [HarperCollins](.
 1. <b>Phần thứ nhất: <i>Mr. Baggins</i></b>
 2. <b>Phần thứ hai: <i>Quay lại cuối túi</i></b>
 
-Đầu tiên là vào tháng 5 và tháng 6 của [2007](../_/2007.md) trong U.K. của HarperCollins, sau đó là vào tháng 9 trong U.S. của Houghton Mifflin, hãng cũng đã phát hành bộ này dưới dạng bộ đóng hộp vào tháng 10. <a class="external text" href="http://www.houghtonmifflinbooks.com/catalog/titledetail.cfm?titleNumber=1022629" rel="noreferrer noopener" target="_blank">Bộ đóng hộp Houghton Mifflin</a> cũng bao gồm một ấn bản mới của *[The Hobbit](The_Hobbit.md)* với phần giới thiệu ngắn của [Christopher Tolkien](../C/Christopher_Tolkien.md), văn bản đặt lại kết hợp các chỉnh sửa cập nhật nhất và tất cả các bản vẽ và hình minh họa màu của chính Tolkien, bao gồm cả tác phẩm hiếm có "Mirkwood".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Đầu tiên là vào tháng 5 và tháng 6 của [2007](../_/2007.md) trong U.K. của HarperCollins, sau đó là trong tháng Chín trong U.S. của Houghton Mifflin, hãng cũng đã phát hành bộ này dưới dạng bộ đóng hộp vào tháng 10. Bộ đóng hộp <a class="external text" href="http://www.houghtonmifflinbooks.com/catalog/titledetail.cfm?titleNumber=1022629" rel="noreferrer noopener" target="_blank">Houghton Mifflin</a> cũng bao gồm một ấn bản mới của *[The Hobbit](The_Hobbit.md)* với phần giới thiệu ngắn của [Christopher Tolkien](../C/Christopher_Tolkien.md), văn bản đặt lại bao gồm các chỉnh sửa cập nhật nhất và tất cả các bản vẽ và hình minh họa màu của chính Tolkien, bao gồm cả phần "Mirkwood" hiếm có.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Trong một cuộc phỏng vấn được thực hiện trước khi xuất bản, Rateliff đã mô tả cam kết này như sau:
 
@@ -93,11 +93,11 @@ Trong một cuộc phỏng vấn được thực hiện trước khi xuất bả
 Vào [24 tháng 3](../_/24_March.md) [2011](../_/2011.md), Rateliff đã thông báo rằng *The History of The Hobbit* sẽ được tái bản cùng với Phụ lục dưới dạng sách một tập.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Cuốn "*Revised edition*" này được phát hành vào [27 tháng 10](../_/27_October.md). Phụ lục bao gồm:<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 - "Dòng thời gian của sự kiện"— dòng thời gian mười lăm ngày sau [Ngày Durin](../D/Durin's_Day.md)
-- "Ghi chú trong một cuộc đàm phán"— mô tả chi tiết về [Cổng trước](../F/Front_Gate.md)
+- "Ghi chú trong cuộc đàm phán"— mô tả chi tiết về [Cổng Trước](../F/Front_Gate.md)
 - "Phản hồi các truy vấn"— mối quan ngại của một số người hiệu đính được giải quyết bởi J.R.R. Tolkien
-- "Personae"— một danh sách thú vị về [Thorin và Company](Thorin_and_Company.md)
+- "Personae"— một danh sách thú vị về [Thorin và Đoàn tùy tùng](Thorin_and_Company.md)
 - "Biểu đồ cổ ngữ"— chi tiết về cách sử dụng [rune](../R/Runes.md) của người lùn
-- "Feanorian Letters"— chi tiết về cách viết bằng [Tengwar](Tengwar.md), bao gồm dấu câu và số
+- "Thư Feanorian"— chi tiết về cách viết bằng [Tengwar](Tengwar.md), bao gồm dấu câu và số
 
 ## Lịch sử xuất bản và thư viện {#Publication_history_and_gallery}
 
@@ -134,8 +134,8 @@ Vào [24 tháng 3](../_/24_March.md) [2011](../_/2011.md), Rateliff đã thông 
 		</li>
 </ul>
 
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2007](../_/2007.md)), trang 480. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007235550">ISBN 0007235550</a>
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2007](../_/2007.md)), trang 480. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007250665">ISBN 0007250665</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2007](../_/2007.md)), trang 480. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007235550">ISBN 0007235550</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([2007](../_/2007.md)), trang 480. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007250665">ISBN 0007250665</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2008](../_/2008.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007266464">ISBN 0007266464</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([2008](../_/2008.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007266472">ISBN 0007266472</a>
 
@@ -177,9 +177,9 @@ Vào [24 tháng 3](../_/24_March.md) [2011](../_/2011.md), Rateliff đã thông 
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.sacnothscriptorium.com/works/errata.html" rel="noreferrer noopener" target="_blank">Lỗi chính thức của <i>Lịch sử người Hobbit</i></a>
+- <a class="external text" href="http://www.sacnothscriptorium.com/works/errata.html" rel="noreferrer noopener" target="_blank">Lỗi chính thức của <i>Lịch sử của Hobbit</i></a>
 - <a class="external text" href="https://muse.jhu.edu/article/240222" rel="noreferrer noopener" target="_blank">Đánh giá cuốn sách</a> của [Tom Shippey](Tom_Shippey.md) trong [*Tolkien Studies* 5](Tolkien_Studies%253A_Volume_5.md)
-- <a class="external text" href="http://www.tolkienlibrary.com/press/history_of_the_hobbit.php" rel="noreferrer noopener" target="_blank">Khám phá nguồn gốc của 'Người Hobbit' cùng John D. Rateliff</a> trên TolkienLibrary.com
+- <a class="external text" href="http://www.tolkienlibrary.com/press/history_of_the_hobbit.php" rel="noreferrer noopener" target="_blank">Khám phá nguồn gốc của 'The Hobbit' cùng John D. Rateliff</a> trên TolkienLibrary.com
 
 <span></span>
 

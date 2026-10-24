@@ -37,7 +37,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data">Sparrows</td></tr>
 </tbody></table>
 
-**Bài ca chim sẻ** là một bài thơ được [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết năm 1914 và được sửa lại vài lần vào năm 1915, kể về chim sẻ hót và tắm rửa.
+**Bài ca chim sẻ** là một bài thơ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết năm 1914 và được sửa lại vài lần vào năm 1915, kể về chim sẻ hót và tắm rửa.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 

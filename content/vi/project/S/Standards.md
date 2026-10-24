@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Manual of Style"
 ---
 
-Chuyển hướng đến [Cổng Tolkien:Sổ tay phong cách](../M/Manual_of_Style.md).
+Chuyển hướng tới [Tolkien Gateway:Sổ tay phong cách](../M/Manual_of_Style.md).

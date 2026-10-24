@@ -26,7 +26,7 @@ langlinks:
     url: "https://kontu.wiki/Balan"
 ---
 
-<i><b>balan</b></i> (pl. *belain*) có nghĩa là "[Vala](../V/Valar.md), sức mạnh thần thánh, thần tính" trong [Exilic Noldorin](../N/Noldorin.md).<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>balan</b></i> (pl. *belain*) có nghĩa là "[Vala](../V/Valar.md), sức mạnh thần thánh, thần thánh" trong [Exilic Noldorin](../N/Noldorin.md).<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 **Balan** cũng là tên ban đầu của [Bëor](Bëor.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 

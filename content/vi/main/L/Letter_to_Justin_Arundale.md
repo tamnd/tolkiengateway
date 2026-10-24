@@ -14,10 +14,10 @@ sort_keys:
   "Letters": "Arundale, Justin"
 ---
 
-Vào [18 tháng 1](../_/18_January.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) gửi Justin Arundale** (10 tuổi).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào [18 tháng 1](../_/18_January.md) [1964](../_/1964.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Justin Arundale** (10 tuổi).<sup id="cite_ref-CG_1-0" class="reference"><a href="#cite_note-CG-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 - **Nội dung:** Việc xuất bản *[The Silmarillion](../T/The_Silmarillion.md)*.
-- **Ấn bản:** Được sao chép dưới dạng fax trong bài viết "Bức thư từ J.R.R.T." của Michael Lightowlers ([1981](../_/1981.md), [*Mallorn* 17](../M/Mallorn_17.md), trang 31–2).
+- **Xuất bản:** Được sao chép dưới dạng fax trong bài viết "Một bức thư từ J.R.R.T." của Michael Lightowlers ([1981](../_/1981.md), [*Mallorn* 17](../M/Mallorn_17.md), trang 31–2).
 
 <span></span>
 

@@ -72,18 +72,18 @@ Sự kiện xảy ra vào ngày 10 tháng 10
 - **[1936](1936.md)** - [Stanley Unwin](../S/Stanley_Unwin.md) đọc bản đánh máy của *[The Hobbit](../T/The_Hobbit.md)*.
 - **[1964](1964.md)** - Tập đầu tiên của [Princess](../P/Princess.md)-serialization của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
 - **[1964](1964.md)** - Diễn viên lồng tiếng [Quinton Flynn](../Q/Quinton_Flynn.md) ra đời.
-- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Mary Fairburn](<../L/Letter_to_Mary_Fairburn_(10_October_1968).md>).
+- **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Mary Fairburn](<../L/Letter_to_Mary_Fairburn_(10_October_1968).md>).
 - **[1969](1969.md)** - Diễn viên [Manu Bennett](../M/Manu_Bennett.md) ra đời.
-- **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Lửa và Nước" được phát sóng trên [BBC](../B/BBC.md).
+- **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Lửa và Nước" được phát sóng trên kênh [BBC](../B/BBC.md).
 - **[2006](2006.md)** - *[J.R.R. Tolkien Encyclopedia](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)* được xuất bản.
-- **[2010](2010.md)** - Mereth Oronnad của Hiệp hội Tolkien Chile.
+- **[2010](2010.md)** - Người Chile Tolkien Mereth Oronnad của Hiệp hội.
 - **[2010](2010.md)** - [Minecraft Middle-Earth](../M/Minecraft_Middle-Earth.md) bắt đầu xây dựng Middle-Earth.
 - **[2017](2017.md)** - *[Middle-earth: Shadow of War](../M/Middle-earth%253A_Shadow_of_War.md)* được phát hành.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm rãi về phía [Rivendell](../R/Rivendell.md).
-    - [Glorfindel](../G/Glorfindel.md) đi về phía [Cây cầu cuối cùng](../L/Last_Bridge.md).
-    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
+    - Với [Frodo](../F/Frodo_Baggins.md) bị thương nặng, [Strider](../A/Aragorn.md) và [bốn hobbit](../T/Travellers.md) di chuyển chậm về phía [Rivendell](../R/Rivendell.md).
+    - [Glorfindel](../G/Glorfindel.md) di chuyển về phía [Cây Cầu Cuối Cùng](../L/Last_Bridge.md).
+    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông ta vào [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

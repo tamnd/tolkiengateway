@@ -12,17 +12,17 @@ categories:
   - "Roots"
 ---
 
-**STAK** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) biểu thị "tách, chèn".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+**STAK** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](Sundocarme.md) biểu thị "tách, chèn".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## Công cụ phái sinh<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup> {#Derivatives[1]}
 
-- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *stankā*, *staknā*
+- [Primitive Quendian](../P/Primitive_Quendian.md): *stankā*, *staknā*
     - [Quenya](../Q/Quenya.md): *sanka* ("khe hở, tách")
-    - [Noldorin già](../K/Kornoldorin.md): *sthanka*
+    - [Old Noldorin](../K/Kornoldorin.md): *sthanka*
         - [Noldorin](../N/Noldorin.md): *[thanc](../T/Thanc.md)*
 
-- [Noldorin Cũ](../K/Kornoldorin.md): *nestak-* ("chèn, dán vào")
-    - [Noldorin lưu vong](../N/Noldorin.md): *[nestegi](../N/Nestegi.md)*
+- [Old Noldorin](../K/Kornoldorin.md): *nestak-* ("chèn, dán vào")
+    - [Người lưu đày Noldorin](../N/Noldorin.md): *[nestegi](../N/Nestegi.md)*
 
 <span></span>
 

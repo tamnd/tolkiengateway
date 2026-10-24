@@ -14,7 +14,7 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "A-denn"
 ---
 
-- A-denn đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_A-denn.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- A-denn đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_A-denn.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 28 tháng 5 năm 2021
 - Người dùng đã xin phép qua DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)
 - Ảnh chụp màn hình bằng chứng về sự cho phép của tác giả:

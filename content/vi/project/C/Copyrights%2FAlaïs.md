@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Alais"
 ---
 
-- Alaïs đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Alaïs.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Alaïs đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Alaïs.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 26 tháng 12 năm 2012
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

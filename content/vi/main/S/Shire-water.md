@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Water"
 ---
 
-Chuyển hướng đến [Nước](../T/The_Water.md).
+Chuyển hướng đến [The Water](../T/The_Water.md).

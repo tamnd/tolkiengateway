@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Samwise Gamgee"
 ---
 
-Chuyển hướng tới [Samwise Gamgee](../S/Samwise_Gamgee.md).
+Chuyển hướng đến [Samwise Gamgee](../S/Samwise_Gamgee.md).

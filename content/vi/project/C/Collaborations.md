@@ -27,21 +27,21 @@ Việc hợp tác được quyết định bởi [quản trị viên](../A/Admin
 ## Đề cử {#Nominations}
 
 - [Frodo Baggins](../../main/F/Frodo_Baggins.md)
-- [Cuộc chiến trên nhẫn](../../main/W/War_of_the_Ring.md)
-    - [Trận chiến sông cạn Isen lần thứ hai](../../main/S/Second_Battle_of_the_Fords_of_Isen.md)
+- [Cuộc chiến Nhẫn](../../main/W/War_of_the_Ring.md)
+    - [Trận vượt cạn thứ hai của Isen](../../main/S/Second_Battle_of_the_Fords_of_Isen.md)
 - [Khazad-dûm](../../main/M/Moria.md)
-- [Cuộc chiến của liên minh cuối cùng](../../main/W/War_of_the_Last_Alliance.md)
+- [Cuộc chiến của Liên minh Cuối cùng](../../main/W/War_of_the_Last_Alliance.md)
     - [Trận Dagorlad](../../main/B/Battle_of_Dagorlad.md)
 - [Théodred](../../main/T/Théodred.md)
 - [Tol Eressëa](../../main/T/Tol_Eressëa.md)
 - [Sự sụp đổ của Nargothrond](../../main/F/Fall_of_Nargothrond.md)
 - [Thảm họa Morannon](../../main/D/Disaster_of_the_Morannon.md)
-- [Bay vùng Ezone](../../main/S/Sack_of_Eregion.md)
+- [Cuộc cướp phá Eregion](../../main/S/Sack_of_Eregion.md)
 - [Sự sụp đổ của Falas](../../main/F/Fall_of_the_Falas.md)
 - [Trận chiến vùng đồng bằng](../../main/B/Battle_of_the_Plains.md)
-- [Bay phá Bar-en-Danwedh](../../main/S/Sack_of_Bar-en-Danwedh.md)
+- [Cuộc cướp phá Bar-en-Danwedh](../../main/S/Sack_of_Bar-en-Danwedh.md)
 
-### Bài viết về người Hobbit {#The_Hobbit_Articles}
+### The Hobbit Bài viết {#The_Hobbit_Articles}
 
 - [Bilbo Baggins](../../main/B/Bilbo_Baggins.md)
 - *[The Hobbit](../../main/T/The_Hobbit.md)*
@@ -58,7 +58,7 @@ Việc hợp tác được quyết định bởi [quản trị viên](../A/Admin
     - "[Giai đoạn cuối cùng](../../main/T/The_Last_Stage.md)"
 - [*The Hobbit* (loạt phim)](<../../main/T/The_Hobbit_(film_series).md>)
 - [Rivendell](../../main/R/Rivendell.md) <small>(xem: <a href="https://tolkiengateway.net/wiki/Forums:Countdown_to_The_Hobbit:_An_Unexpected_Journey_-_Rivendell" title="Forums:Countdown to The Hobbit: An Unexpected Journey - Rivendell">Thảo luận</a>)</small>
-- [Trận chiến của năm đạo quân](../../main/B/Battle_of_Five_Armies.md) <small>(xem: <a href="https://tolkiengateway.net/wiki/Forums:Countdown_to_The_Hobbit:_An_Unexpected_Journey_-_Battle_of_Five_Armies" title="Forums:Countdown to The Hobbit: An Unexpected Journey - Battle of Five Armies">Thảo luận</a>)</small>
+- [Trận chiến Năm Đạo quân](../../main/B/Battle_of_Five_Armies.md) <small>(xem: <a href="https://tolkiengateway.net/wiki/Forums:Countdown_to_The_Hobbit:_An_Unexpected_Journey_-_Battle_of_Five_Armies" title="Forums:Countdown to The Hobbit: An Unexpected Journey - Battle of Five Armies">Thảo luận</a>)</small>
 - [Gollum](../../main/G/Gollum.md) <small>(xem: <a href="https://tolkiengateway.net/wiki/Forums:Countdown_to_The_Hobbit:_An_Unexpected_Journey_-_Gollum" title="Forums:Countdown to The Hobbit: An Unexpected Journey - Gollum">Thảo luận</a>)</small>
 - [Mirkwood](../../main/M/Mirkwood.md) <small>(xem: <a href="https://tolkiengateway.net/wiki/Forums:Countdown_to_The_Hobbit:_An_Unexpected_Journey_-_Mirkwood" title="Forums:Countdown to The Hobbit: An Unexpected Journey - Mirkwood">Thảo luận</a>)</small>
 - [Dol Guldur](../../main/D/Dol_Guldur.md) <small>(xem: <a href="https://tolkiengateway.net/wiki/Forums:Countdown_to_The_Hobbit:_An_Unexpected_Journey_-_Dol_Guldur" title="Forums:Countdown to The Hobbit: An Unexpected Journey - Dol Guldur">Thảo luận</a>)</small>
@@ -67,13 +67,13 @@ Việc hợp tác được quyết định bởi [quản trị viên](../A/Admin
 ## Những lần hợp tác trước đây {#Past_collaborations}
 
 - [Gandalf](../../main/G/Gandalf.md) (15 tháng 4 năm 2007 - 18 tháng 12 năm 2007)
-- [Người Hobbit của Peter Jackson](<../../main/T/The_Hobbit_(film_series).md>) (18 tháng 12 năm 2007 - 25 tháng 4 năm 2008)
-- [Người Hobbit của Guillermo del Toro](<../../main/T/The_Hobbit_(film_series).md>) (25 tháng 4 năm 2008 - 11 tháng 11 năm 2009)
+- [Peter Jackson của The Hobbit](<../../main/T/The_Hobbit_(film_series).md>) (18 tháng 12 năm 2007 - 25 tháng 4 năm 2008)
+- [Guillermo del Toro The Hobbit](<../../main/T/The_Hobbit_(film_series).md>) (25 tháng 4 năm 2008 - 11 tháng 11 năm 2009)
 - [Barad-dûr](../../main/B/Barad-dûr.md) (11 tháng 11 năm 2009 - 7 tháng 3 năm 2010)
 - [Tuor](../../main/T/Tuor.md) (7 tháng 3 năm 2010 - 23 tháng 8 năm 2010)
 - [Glaurung](../../main/G/Glaurung.md) (23 tháng 8 năm 2010 - 2 tháng 1 năm 2011)
 - [Beorn](../../main/B/Beorn.md) (2 tháng 1 năm 2011 - 28 tháng 2 năm 2011)
-- [Nhà nghỉ xếp hàng](../../main/Q/Queer_Lodgings.md) (28 tháng 2 năm 2011 - 28 tháng 3 năm 2011)
+- [Nhà nghỉ dành cho người xếp hàng](../../main/Q/Queer_Lodgings.md) (28 tháng 2 năm 2011 - 28 tháng 3 năm 2011)
 - [Ruồi và Nhện](../../main/F/Flies_and_Spiders.md) (28 tháng 3 năm 2011 - 3 tháng 12 năm 2011)
 - [Gandalf](../../main/G/Gandalf.md) (3 tháng 12 năm 2011 - 5 tháng 1 năm 2012)
 - [Sauron](../../main/S/Sauron.md) (5 tháng 1 năm 2012 - 4 tháng 2 năm 2012)

@@ -30,9 +30,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Robert H. Boyer đã viết thư cho Tolkien để hỏi về mối quan hệ của anh với [W.H. Auden](../W/W.H._Auden.md). Tolkien trả lời rằng họ chưa biết nhau lâu và hầu hết liên lạc của họ đều qua thư. Họ chỉ gặp nhau trực tiếp một vài lần, mặc dù Auden đã tham dự một số bài giảng của Tolkien về [Tiếng Anh cổ](../O/Old_English.md).
+Robert H. Boyer đã viết thư cho Tolkien hỏi anh về mối quan hệ của anh với [W.H. Auden](../W/W.H._Auden.md). Tolkien trả lời rằng họ chưa biết nhau lâu và hầu hết liên lạc của họ đều qua thư. Họ chỉ gặp nhau trực tiếp một vài lần, mặc dù Auden đã tham dự một số bài giảng của Tolkien về [tiếng Anh cổ](../O/Old_English.md).
 
-Tolkien đã cảm ơn Auden vì đã động viên anh trong nỗ lực viết lách và coi anh như một trong những người bạn tốt hơn của mình. Ông cũng đóng góp một [bài thơ](../F/For_W.H.A..md) cho [festschrift nhân kỷ niệm sinh nhật lần thứ 60 của Auden](../S/Shenandoah%253A_A_Tribute_to_Wystan_Hugh_Auden_on_his_Sixtieth_Birthday.md). <br>
+Tolkien đã cảm ơn Auden vì đã khuyến khích nỗ lực viết lách của ông và coi ông như một trong những người bạn tốt hơn của mình. Ông cũng đóng góp một [bài thơ](../F/For_W.H.A..md) cho [festschrift nhân kỷ niệm sinh nhật lần thứ 60 của Auden](../S/Shenandoah%253A_A_Tribute_to_Wystan_Hugh_Auden_on_his_Sixtieth_Birthday.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

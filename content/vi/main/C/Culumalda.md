@@ -26,19 +26,19 @@ langlinks:
     url: "https://kontu.wiki/Culumalda"
 ---
 
-**Culumalda** là một loại cây có hoa màu vàng treo lơ lửng mọc ở [Ithilien](../I/Ithilien.md), và đặc biệt là ở khu rừng xung quanh [Cánh đồng Cormallen](../F/Field_of_Cormallen.md).<sup id="cite_ref-RC_1-0" class="reference"><a href="#cite_note-RC-1">[1]</a></sup><sup id="cite_ref-SApp_2-0" class="reference"><a href="#cite_note-SApp-2">[2]</a></sup>
+**Culumalda** là một loại cây có hoa màu vàng treo lơ lửng mọc ở [Ithilien](../I/Ithilien.md) và đặc biệt là ở các khu rừng xung quanh [Cánh đồng Cormallen](../F/Field_of_Cormallen.md).<sup id="cite_ref-RC_1-0" class="reference"><a href="#cite_note-RC-1">[1]</a></sup><sup id="cite_ref-SApp_2-0" class="reference"><a href="#cite_note-SApp-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
 *Culumalda* được dự định là nguồn gốc của tên *[Cormallen](Cormallen.md#Etymology)*.<sup id="cite_ref-RC_1-1" class="reference"><a href="#cite_note-RC-1">[1]</a></sup><sup id="cite_ref-SApp_2-1" class="reference"><a href="#cite_note-SApp-2">[2]</a></sup>
 
-[Christopher Tolkien](Christopher_Tolkien.md) kết nối *culumalda* với thân cây [Elvish](../E/Elvish.md) *[cul-](../K/KUL.md)* ("vàng-đỏ") và *[mal-](../M/Mal-.md)* ("vàng").<sup id="cite_ref-SApp_2-2" class="reference"><a href="#cite_note-SApp-2">[2]</a></sup>
+[Christopher Tolkien](Christopher_Tolkien.md) kết nối *culumalda* với các thân [Elvish](../E/Elvish.md) *[cul-](../K/KUL.md)* ("vàng-đỏ") và *[mal-](../M/Mal-.md)* ("vàng").<sup id="cite_ref-SApp_2-2" class="reference"><a href="#cite_note-SApp-2">[2]</a></sup>
 
 [Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng *culumalda* là [Quenya](../Q/Quenya.md), bao gồm *[culuma](../K/Kuluma.md)* ("cam") + *[alda](../A/Alda.md)* ("cây").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-[Tolkien](../J/J.R.R._Tolkien.md) chỉ ra rằng cái cây "có lẽ\[ively\] là <a class="extiw" href="http://en.wikipedia.org/wiki/laburnum" title="wikipedia:laburnum">laburnum</a>".<sup id="cite_ref-RC_1-2" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
+[Tolkien](../J/J.R.R._Tolkien.md) chỉ ra rằng cây là "prob\[ively\] a <a class="extiw" href="http://en.wikipedia.org/wiki/laburnum" title="wikipedia:laburnum">laburnum</a>".<sup id="cite_ref-RC_1-2" class="reference"><a href="#cite_note-RC-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

@@ -33,7 +33,7 @@ infobox:
 **Mythcon 10** là hội nghị thường niên lần thứ 10 của [Hiệp hội thần thoại](Mythopoeic_Society.md).
 
 - **Chủ đề:** "The Silmarillicon."
-- **Khách mời danh dự:** Annette Harper (nghệ sĩ giả tưởng) và [Jim Allan](../J/Jim_Allan.md) (nhà ngôn ngữ học Tolkien)
+- **Khách mời danh dự:** Annette Harper (nghệ sĩ giả tưởng) và [Jim Allan](../J/Jim_Allan.md) (Tolkien nhà ngôn ngữ học)
 - **Chủ tịch:** Lisa Deutsch Harrigan
 
 ## Liên kết ngoài {#External_links}

@@ -71,15 +71,15 @@ Sự kiện xảy ra vào ngày 26 tháng 11
 - **[1963](1963.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [James Dundas-Grant](../J/James_Dundas-Grant.md), [Robert Havard](../R/Robert_Havard.md), [Owen Barfield](../O/Owen_Barfield.md) và [Christopher Tolkien](../C/Christopher_Tolkien.md) tham dự tang lễ của [C.S. Lewis](../C/C.S._Lewis.md).
 - **[1963](1963.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 251](../L/Letter_251.md).
 - **[1964](1964.md)** - Cuộc phỏng vấn [1964 của BBC](1964_BBC_Interview.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã được thực hiện.
-- <b><a href="1974.md" title="1974">1974</a> - <i><a class="mw-redirect" href="../B/Bilbo&#39;s_Last_Song.md" title="Bilbo&#39;s Last Song">Bài hát cuối cùng của Bilbo</a></i> được xuất bản dưới dạng áp phích.</b>
-- **[1982](1982.md)** - [Tom Shippey](../T/Tom_Shippey.md) xuất bản cuốn "Blunt Belligerence", bài đánh giá của [Mr. Hạnh phúc](../M/Mr._Bliss.md), *The Times Literary Supplement*.
-- <b><a href="1984.md" title="1984">1984</a> - <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">Cuốn sách về những câu chuyện bị thất lạc Phần thứ hai</a></i> được xuất bản ở Mỹ.</b>
+- <b><a href="1974.md" title="1974">1974</a> - Bài hát cuối cùng của <i><a class="mw-redirect" href="../B/Bilbo&#39;s_Last_Song.md" title="Bilbo&#39;s Last Song">Bilbo</a></i> được xuất bản dưới dạng áp phích.</b>
+- **[1982](1982.md)** - [Tom Shippey](../T/Tom_Shippey.md) đăng bài "Blunt Belligerence", bài đánh giá của [Mr. Hạnh phúc](../M/Mr._Bliss.md), *The Times Literary Supplement*.
+- <b><a href="1984.md" title="1984">1984</a> - <i><a class="mw-redirect" href="../T/The_Book_of_Lost_Tales_Part_Two.md" title="The Book of Lost Tales Part Two">The Book of Lost Tales Part Two</a></i> được xuất bản tại Hoa Kỳ.</b>
 - **[2003](2003.md)** - Diễn viên [Gordon Reid](../G/Gordon_Reid.md) qua đời.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
     - Trăng non<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>

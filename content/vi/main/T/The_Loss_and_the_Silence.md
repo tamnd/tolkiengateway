@@ -58,17 +58,17 @@ infobox:
 
 - Giới thiệu
 
-- Chương Một: Những người theo chủ nghĩa mơ hồ và những người theo chủ nghĩa hiện đại – Bối cảnh chung
+- Chương Một: Inklings và những người theo chủ nghĩa Hiện đại – Bối cảnh chung
     - Phong trào hiện đại
-    - Những người theo chủ nghĩa hiện đại và những người theo chủ nghĩa hiện đại: Những mối liên hệ về tiểu sử
+    - Inklings và những người theo chủ nghĩa hiện đại: Những mối liên hệ về tiểu sử
     - Những mối quan tâm chung về văn học
 
 - Chương 2: Chiến tranh
     - Chiến tranh hiện đại, văn học hiện đại
     - Ảo tưởng và chiến tranh
-    - Những kẻ mơ hồ trong chiến tranh
-    - Charles Williams, David Jones và Vấn đề nước Anh
-    - Văn học thất bại của người Celt
+    - Sự Inklings trong chiến tranh
+    - Charles Williams, David Jones và vấn đề nước Anh
+    - Celtic Văn học thất bại
     - Đất thải
     - Thi thể và xác chết
     - Anh hùng
@@ -76,7 +76,7 @@ infobox:
 
 - Chương Ba: Lịch sử
     - Lịch sử hiện đại: Các mô hình lịch sử của Yeats
-    - Những chu kỳ tuyệt vời: Lịch sử Trung Địa của Tolkien
+    - Chu kỳ tuyệt vời: Lịch sử Trung Địa của Tolkien
     - Huyền thoại và lịch sử
     - Lịch sử dân tộc chủ nghĩa
     - Thoát khỏi lịch sử và thời gian

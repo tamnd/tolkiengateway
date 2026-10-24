@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Prancing Pony Podcast"
 ---
 
-Chuyển hướng đến [Podcast Prancing Pony](../T/The_Prancing_Pony_Podcast.md).
+Chuyển hướng tới [The Prancing Pony Podcast](../T/The_Prancing_Pony_Podcast.md).

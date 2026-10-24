@@ -15,15 +15,15 @@ sort_keys:
   "Quenya nouns": "Hroa"
 ---
 
-<i><b>hröa</b></i> (pl. <i><b>hröar</b></i>) là [Quenya](../Q/Quenya.md) từ để chỉ "cơ thể của một sinh vật nhập thể".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sự kết hợp của [*fëa* và *hröa*](../F/Fëa_and_hröa.md) là đặc điểm cơ bản của [Hồi sinh](../I/Incarnates.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Không giống như *[fëa](../F/Fëa.md)* ("linh hồn"), nó được tạo ra từ các chất của [Arda](../A/Arda.md) và do đó dễ bị ảnh hưởng bởi những tệ nạn của thế giới. Một dạng cũ của từ này là <i><b>hrondo</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+<i><b>hröa</b></i> (pl. <i><b>hröar</b></i>) là từ [Quenya](../Q/Quenya.md) chỉ "cơ thể của một sinh vật nhập thể".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sự kết hợp của [*fëa* và *hröa*](../F/Fëa_and_hröa.md) là đặc điểm cơ bản của [Hồi sinh](../I/Incarnates.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Không giống như *[fëa](../F/Fëa.md)* ("linh hồn"), nó được tạo ra từ các chất của [Arda](../A/Arda.md) và do đó dễ bị ảnh hưởng bởi những tệ nạn của thế giới. Một dạng cũ của từ này là <i><b>hrondo</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này xuất phát từ <i>*srawâ</i>, giống như *hrávë* ("xác thịt"). [Sidarin](../S/Sindarin.md) cùng nguồn gốc cho cả *hröa* và *hrávë* là <i><b>rhaw</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Từ này xuất phát từ <i>*srawâ</i>, giống như *hrávë* ("xác thịt"). [Sindarin](../S/Sindarin.md) cùng nguồn gốc cho cả *hröa* và *hrávë* là <i><b>rhaw</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- *[Fana](../F/Fana.md)*, hình dạng cơ thể tương đương của [Ainur](../A/Ainur.md) trong [Eä](../E/Eä.md)
+- *[Fana](../F/Fana.md)*, dạng vật chất tương đương của [Ainur](../A/Ainur.md) trong [Eä](../E/Eä.md)
 
 <span></span>
 

@@ -13,11 +13,11 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>Nernehta</b></i> là tên [Quenya](../Q/Quenya.md) của đội hình chiến đấu được biết đến ở [Sindarin](../S/Sindarin.md) với cái tên <i><b><a href="../D/Dírnaith.md" title="Dírnaith">Dírnaith</a></b></i>.<sup id="cite_ref-Gladden_1-0" class="reference"><a href="#cite_note-Gladden-1">[1]</a></sup>
+<i><b>Nernehta</b></i> là tên [Quenya](../Q/Quenya.md) của đội hình chiến đấu được biết đến trong [Sindarin](../S/Sindarin.md) với cái tên <i><b><a href="../D/Dírnaith.md" title="Dírnaith">Dírnaith</a></b></i>.<sup id="cite_ref-Gladden_1-0" class="reference"><a href="#cite_note-Gladden-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Nó có nguồn gốc từ các từ Quenya *[Nér](Nér.md)* "người đàn ông" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nehte&amp;action=edit&amp;redlink=1" title="Nehte (page does not exist)">nehte</a>/<a class="new" href="https://tolkiengateway.net/w/index.php?title=Nehta&amp;action=edit&amp;redlink=1" title="Nehta (page does not exist)">nehta</a></i> được áp dụng cho bất kỳ hình dạng hoặc hình chiếu nào thuôn nhọn về một điểm.<sup id="cite_ref-Gladden_1-1" class="reference"><a href="#cite_note-Gladden-1">[1]</a></sup>
+Nó bắt nguồn từ các từ Quenya *[Nér](Nér.md)* "man" và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Nehte&amp;action=edit&amp;redlink=1" title="Nehte (page does not exist)">nehte</a>/<a class="new" href="https://tolkiengateway.net/w/index.php?title=Nehta&amp;action=edit&amp;redlink=1" title="Nehta (page does not exist)">nehta</a></i> được áp dụng cho bất kỳ hình dạng hoặc hình chiếu thuôn nhọn nào về một điểm.<sup id="cite_ref-Gladden_1-1" class="reference"><a href="#cite_note-Gladden-1">[1]</a></sup>
 
 <span></span>
 

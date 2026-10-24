@@ -44,19 +44,19 @@ Esteldín được xây dựng trên tàn tích của thành phố Dolindîr, m�
 - Carnoglin, được thành lập giữa [T.A.](../T/Third_Age.md) [1272](../T/Third_Age_1272.md) và [T.A.](../T/Third_Age.md) [1349](../T/Third_Age_1349.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - Ost Ardúlin, giờ tràn ngập lũ Orc<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Bản thân Khu tị nạn Esteldín đã được thành lập rất lâu sau khi Năm Thị trấn trở thành đống đổ nát, bởi [Ranger](../R/Rangers_of_the_North.md) tên là Arasuil, con trai của Arahad.<sup id="cite_ref-Arthedain_1-1" class="reference"><a href="#cite_note-Arthedain-1">[1]</a></sup> Vào thời điểm diễn ra [Chiến tranh Nhẫn](../W/War_of_the_Ring.md), [Halbarad](../H/Halbarad.md) đang chỉ huy thành phố. Ông cử người chơi đi giúp đỡ cư dân của North Downs và cuối cùng giúp đỡ trong Trận chiến Trestlebridge.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Bản thân Khu tị nạn Esteldín đã được thành lập rất lâu sau khi Năm Thị trấn trở thành đống đổ nát, bởi [Ranger](../R/Rangers_of_the_North.md) tên là Arasuil, con trai của Arahad.<sup id="cite_ref-Arthedain_1-1" class="reference"><a href="#cite_note-Arthedain-1">[1]</a></sup> Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Halbarad](../H/Halbarad.md) nắm quyền chỉ huy thành phố. Ông cử người chơi đi giúp đỡ cư dân của North Downs và cuối cùng giúp đỡ trong Trận chiến Trestlebridge.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Mô tả {#Description}
 
 Esteldín nằm ở vùng núi Kingsfell ở North Downs. Nó được tạo ra trong một thung lũng trên núi và nằm ẩn giấu, thậm chí không được nhắc đến trên bản đồ. Lối vào chính nằm ở phía tây, nơi bạn đến Forecourt sau khi đi bộ xuống con phố khuất. Phía sau Sân trước là Sân trung tâm, nơi có thư viện của Halbarand, và phía sau đó là Sân thợ thủ công, nơi có tất cả các cơ sở chế tạo. Từ đây bạn có thể ra khỏi thành phố bằng lối vào phía đông, dẫn bạn đến Nan Amlug.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Cư dân là [Rangers of Esteldín](../R/Rangers_of_the_North.md), cũng là một phe nổi tiếng trong trò chơi. Họ là tàn dư của người dân [Arthedain](../A/Arthedain.md) và [Arnor](../A/Arnor.md). Họ là thế lực duy nhất, ngoài Yêu tinh ở [Rivendell](../R/Rivendell.md) vẫn có thể chống lại sự trỗi dậy của [Angmar](../A/Angmar.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Cư dân là [Rangers of Esteldín](../R/Rangers_of_the_North.md), cũng là một phe nổi tiếng trong trò chơi. Họ là tàn dư của người dân [Arthedain](../A/Arthedain.md) và [Arnor](../A/Arnor.md). Họ là thế lực duy nhất, bên cạnh Tiên tộc của [Rivendell](../R/Rivendell.md) vẫn có thể chống lại sự trỗi dậy của [Angmar](../A/Angmar.md).<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Esteldín* được cho là có nghĩa là "Hy vọng tiềm ẩn" trong tiếng Sindarin trên LOTRO-Wiki,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> với *estel* nghĩa là "hy vọng" và *dín* có thể đến từ *[din](../D/Din.md)*, nghĩa là "im lặng".
+*Esteldín* được cho là có nghĩa là "Hy vọng tiềm ẩn" trong Sindarin trên LOTRO-Wiki,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> với *estel* nghĩa là "hy vọng" và *dín* có thể đến từ *[din](../D/Din.md)*, nghĩa là "im lặng".
 
-*Dolindîr* là Sindarin được tạo thành từ *dolin*, nghĩa là "ẩn"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> và *dîr*, nghĩa là "người". *dîr* là phần kết thúc tác nhân thường không được sử dụng cho tên địa điểm nhưng có thể được dịch là "Thành phố ẩn giấu của đàn ông".
+*Dolindîr* là Sindarin được tạo thành từ *dolin*, nghĩa là "ẩn"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> và *dîr*, nghĩa là "người đàn ông". *dîr* là kết thúc tác nhân thường không được sử dụng cho tên địa điểm nhưng có thể dịch là "Thành Phố Ẩn Giấu của Con Người".
 
 <span></span>
 
@@ -83,4 +83,4 @@ Cư dân là [Rangers of Esteldín](../R/Rangers_of_the_North.md), cũng là m�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://lotro-wiki.com/wiki/Esteldín" rel="noreferrer noopener" target="_blank">Esteldín</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">Wiki trực tuyến Chúa tể của những chiếc nhẫn</a>
+- <a class="external text" href="https://lotro-wiki.com/wiki/Esteldín" rel="noreferrer noopener" target="_blank">Esteldín</a> trên <a class="external text" href="https://lotro-wiki.com/wiki" rel="noreferrer noopener" target="_blank">The Lord of the Rings Wiki trực tuyến</a>

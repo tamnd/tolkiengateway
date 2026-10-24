@@ -14,21 +14,21 @@ categories:
   - "Telerin verbs"
 ---
 
-## Tiếng Sindarin {#Sindarin}
+## Sindarin {#Sindarin}
 
-<i><b>can-</b></i> có nghĩa là "kêu, hét, gọi" trong [tiếng Sindarin](../S/Sindarin.md).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+<i><b>can-</b></i> có nghĩa là "kêu, hét, gọi" trong [Sindarin](../S/Sindarin.md).<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology}
 
-- [Gốc](../S/Sundocarme.md): [Eldarin thông thường](Common_Eldarin.md) [KAN](../K/KAN.md)<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Gốc](../S/Sundocarme.md): [Common Eldarin](Common_Eldarin.md) [KAN](../K/KAN.md)<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ## Telerin {#Telerin}
 
-<i><b>can-</b></i> có nghĩa là "kêu to, gọi tên" hoặc "gọi tên hoặc gọi tên một người" trong [Telerin](../T/Telerin.md).<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+<i><b>can-</b></i> có nghĩa là "kêu to, gọi điện" hoặc "gọi tên hoặc gọi tên một người" trong [Telerin](../T/Telerin.md).<sup id="cite_ref-PM_1-2" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ### Từ nguyên {#Etymology_2}
 
-- [Gốc](../S/Sundocarme.md): [Eldarin thông thường](Common_Eldarin.md) [KAN](../K/KAN.md)<sup id="cite_ref-PM_1-3" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Gốc](../S/Sundocarme.md): [Common Eldarin](Common_Eldarin.md) [KAN](../K/KAN.md)<sup id="cite_ref-PM_1-3" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 <span></span>
 

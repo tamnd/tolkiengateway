@@ -42,35 +42,35 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/LOTRO_-_Siege_of_Mirkwood.png.md"><img src="https://tolkiengateway.net/w/images/thumb/1/11/LOTRO_-_Siege_of_Mirkwood.png/320px-LOTRO_-_Siege_of_Mirkwood.png" decoding="async" loading="lazy" width="320" height="166" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/11/LOTRO_-_Siege_of_Mirkwood.png/480px-LOTRO_-_Siege_of_Mirkwood.png 1.5x, https://tolkiengateway.net/w/images/1/11/LOTRO_-_Siege_of_Mirkwood.png 2x" data-file-width="625" data-file-height="325"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Lord of the Rings Online:<br/>Siege of Mirkwood</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Turbine.md" title="Turbine">Turbine, Inc</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data"><a href="../_/1_December.md" title="1 December">December 1</a>, <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">MMORPG</td></tr></tbody></table>
 
-<i><b>Chúa tể của những chiếc nhẫn trực tuyến: Cuộc vây hãm Mirkwood</b></i> là bản mở rộng thứ hai của *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
+<i><b>The Lord of the Rings Trực tuyến: Cuộc vây hãm Mirkwood</b></i> là bản mở rộng thứ hai cho *[The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md)*.
 
 ## Nội dung {#Contents}
 
-Cuộc vây hãm Mirkwood mở ra môi trường ở phía nam [Mirkwood](../M/Mirkwood.md). Giới hạn cấp độ được nâng lên 65. Nó cũng bao gồm các đặc điểm, đức tính, kỹ năng và nhiệm vụ đẳng cấp mới. Hệ thống "giao tranh" mới cho phép các trường hợp chiến đấu dựa trên quy mô, ngẫu nhiên và có thể lặp lại, có thể được truy cập từ mọi nơi trong thế giới trò chơi dành cho 3, 6 và 12 người chơi. Đồng thời, một cuộc đột kích mới gồm 12 người chơi sẽ diễn ra ở [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cuộc vây hãm Mirkwood mở ra môi trường ở phía nam [Mirkwood](../M/Mirkwood.md). Giới hạn cấp độ được nâng lên 65. Nó cũng bao gồm các đặc điểm, đức tính, kỹ năng và nhiệm vụ đẳng cấp mới. Hệ thống "giao tranh" mới cho phép các trường hợp chiến đấu dựa trên quy mô, ngẫu nhiên và có thể lặp lại, có thể được truy cập từ mọi nơi trong thế giới trò chơi cho 3, 6 và 12 người chơi và một cuộc đột kích 12 người chơi mới diễn ra trong [Dol Guldur](../D/Dol_Guldur.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tóm tắt {#Synopsis}
 
-Không giống như *Mines of Moria*, trong đó mạch truyện sử thi có cùng tiêu đề với bản mở rộng, mạch truyện sử thi của *Siege of Mirkwood* có tựa đề Tập III: *Allies of the King*. Bản mở rộng cũng bao gồm cuốn sách cuối cùng và phần kết của Tập II.
+Không giống như *Mines of Moria*, trong đó mạch truyện sử thi có cùng tựa đề với bản mở rộng, mạch truyện sử thi của *Siege of Mirkwood'* có tựa đề Tập III: *Allies of the King*. Bản mở rộng cũng bao gồm cuốn sách cuối cùng và phần kết của Tập II.
 
 ### Tập II: Mỏ Moria {#Volume_II:_Mines_of_Moria}
 
 #### Quyển IX - Pháo đài của Nazgul {#Book_IX_-_Fortress_of_the_Nazgul}
 
-Nhóm yêu tinh được gọi là Đội cận vệ ẩn giấu đã vượt sông [Anduin](../A/Anduin.md) vào vùng [Mirkwood](../M/Mirkwood.md), với Mazog là tù nhân của họ. Khi các yêu tinh của [Lothlorien](../L/Lothlórien.md) dựng nhiều trại qua Mirkwood, họ lên kế hoạch tấn công vào pháo đài [Dol Guldur](../D/Dol_Guldur.md). Đội cận vệ ẩn tiếp tục đưa Mazog băng qua khu rừng nguy hiểm vô hình và xuyên qua Scuttledells, nơi Issuriel và Mazog bị thương nặng bởi con nhện nữ hoàng khổng lồ trú ngụ ở những khu vực đó. Yêu tinh Achardor trở nên tức giận khi người bạn đồng hành của mình bị thương và đe dọa tính mạng của Mazog nếu Issuriel ngã xuống. Issuriel nói về một loại thuốc giải độc hiếm có thể chữa khỏi chất độc nhưng sau đó từ chối dùng nó để để Mazog uống. Achardor thậm chí còn phẫn nộ hơn với hành động này nhưng ngay trước khi Issuriel mất mạng, người lùn Broin đã tìm thấy thêm loại thảo mộc quý hiếm và nhiệm vụ tìm kiếm Dol Guldur có thể tiếp tục. Đội cận vệ ẩn nhanh chóng đến cổng Dol Guldur, nơi diễn ra cuộc buôn bán Mazog lấy Bori. Nhưng Gorothul và [Ringwraiths](../N/Nazgûl.md) đến hiện trường và từ chối giao Bori, Broin nhanh chóng cứu các yêu tinh khỏi bị Gorothul giết chết nhưng yêu tinh Achardor chọn cách chống lại [Nazgûl](../N/Nazgûl.md) và bị giết. Mazog được giải thoát và quay trở lại cùng kẻ thù. Yêu tinh của Lothlorien sớm tấn công pháo đài Dol Guldur và giải thoát Bori khỏi phòng giam của hắn. Yêu tinh đã chiếm được các bức tường bên ngoài của Dol Guldur giờ chỉ còn lại tòa tháp để chiếm. Cuộc đột kích vào Dol Guldur tiếp tục diễn ra bên trong tòa tháp bóng tối và khi kết thúc một trận chiến khốc liệt, tên Orc Mazog bị giết bởi chiếc rìu mithril Zigilburk.
+Nhóm Tiên tộc được gọi là Đội cận vệ ẩn giấu đã vượt sông [Anduin](../A/Anduin.md) để vào vùng [Mirkwood](../M/Mirkwood.md), với Mazog là tù nhân của họ. Khi Tiên tộc của [Lothlorien](../L/Lothlórien.md) thiết lập nhiều trại thông qua Mirkwood, họ lên kế hoạch tấn công vào pháo đài [Dol Guldur](../D/Dol_Guldur.md). Đội cận vệ ẩn tiếp tục đưa Mazog băng qua khu rừng nguy hiểm vô hình và xuyên qua Scuttledells, nơi Issuriel và Mazog bị thương nặng bởi con nhện nữ hoàng khổng lồ trú ngụ ở những khu vực đó. Tiên Achardor trở nên tức giận khi người bạn đồng hành của mình bị thương và đe dọa tính mạng của Mazog nếu Issuriel ngã. Issuriel nói về một loại thuốc giải độc hiếm có thể chữa khỏi chất độc nhưng sau đó từ chối dùng nó để để Mazog uống. Achardor thậm chí còn phẫn nộ hơn với hành động này nhưng ngay trước khi Issuriel mất mạng, người lùn Broin đã tìm thấy thêm loại thảo mộc quý hiếm và nhiệm vụ Dol Guldur có thể tiếp tục. Đội cận vệ ẩn nhanh chóng đến cổng Dol Guldur nơi diễn ra cuộc trao đổi Mazog lấy Bori. Nhưng Gorothul và [Nazgûl](../N/Nazgûl.md) đến hiện trường và từ chối giao Bori, Broin nhanh chóng cứu Tiên tộc khỏi bị Gorothul giết nhưng Tiên Achardor chọn cách chống lại [Nazgûl](../N/Nazgûl.md) và bị giết. Mazog được giải thoát và quay trở lại cùng kẻ thù. Tiên tộc của Lothlorien sớm tấn công pháo đài Dol Guldur và giải thoát Bori khỏi phòng giam của hắn. Tiên tộc đã chiếm được các bức tường bên ngoài của Dol Guldur giờ chỉ còn lại tòa tháp để chiếm. Cuộc đột kích vào Dol Guldur tiếp tục diễn ra bên trong tòa tháp bóng tối và khi kết thúc một trận chiến khốc liệt, tên orc Mazog bị giết bởi rìu mithril Zigilburk.
 
-#### Phần kết - Của Yêu tinh và Người lùn {#Epilogue_-_Of_Elves_and_Dwarves}
+#### Phần kết - Của Tiên tộc và Người Lùn {#Epilogue_-_Of_Elves_and_Dwarves}
 
-Yêu tinh và người lùn hoàn thành những công việc cuối cùng trên khắp miền nam [Mirkwood](../M/Mirkwood.md). Chiếc rìu Zigilburk lại được chôn ở nơi người lùn tìm thấy để không bao giờ sử dụng sức mạnh của nó nữa. Yêu tinh Lothlorien cũng tấn công thêm một số đòn vào pháo đài bóng tối, trinh sát ba địa điểm quan trọng và chiếm được một địa điểm. Ngoài ra, Gorothul còn bị thách thức trong một cuộc tấn công khác trong khu vực của ông ta ở Sammath Gul, nơi cuối cùng ông ta bị đánh bại.
+Tiên tộc và những người lùn hoàn thành những công việc cuối cùng trên khắp miền nam [Mirkwood](../M/Mirkwood.md). Chiếc rìu Zigilburk lại được chôn ở nơi người lùn tìm thấy để không bao giờ sử dụng sức mạnh của nó nữa. Tiên tộc của Lothlorien cũng tấn công thêm một số đòn vào pháo đài bóng tối, trinh sát ba địa điểm quan trọng và chiếm được một địa điểm. Ngoài ra, Gorothul còn bị thách thức trong một cuộc tấn công khác trong khu vực của ông ta ở Sammath Gul, nơi cuối cùng ông ta bị đánh bại.
 
-### Tập III: Đồng minh của nhà vua {#Volume_III:_Allies_of_the_King}
+### Tập III: Đồng minh của Vua {#Volume_III:_Allies_of_the_King}
 
-#### Quyển I - Lời thề của biệt đội {#Book_I_-_Oath_of_the_Rangers}
+#### Quyển I - Lời Thề Biệt Đội {#Book_I_-_Oath_of_the_Rangers}
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Oath_of_the_Rangers.png.md"><img src="https://tolkiengateway.net/w/images/thumb/2/2a/The_Lord_of_the_Rings_Online_-_Oath_of_the_Rangers.png/300px-The_Lord_of_the_Rings_Online_-_Oath_of_the_Rangers.png" decoding="async" loading="lazy" width="300" height="188" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/2a/The_Lord_of_the_Rings_Online_-_Oath_of_the_Rangers.png/450px-The_Lord_of_the_Rings_Online_-_Oath_of_the_Rangers.png 1.5x, https://tolkiengateway.net/w/images/2/2a/The_Lord_of_the_Rings_Online_-_Oath_of_the_Rangers.png 2x" data-file-width="460" data-file-height="288"/></a><figcaption></figcaption></figure>
 
 Quyển 1 đã được phát hành vào [1 tháng 3](../_/1_March.md), [2010](../_/2010.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Elrond](../E/Elrond.md) nhận được một tin nhắn bí ẩn từ [Galadriel](../G/Galadriel.md), yêu cầu ông ta tập hợp [Rangers of the North](../R/Rangers_of_the_North.md) và cử họ đến [Rohan](../R/Rohan.md) để giúp đỡ [Aragorn](../A/Aragorn.md). Người chơi được triệu tập đến [Ngôi nhà giản dị cuối cùng](../R/Rivendell.md) và đưa ra danh sách Rangers để chiêu mộ: Radanir, Candaith, Saeradan, Halros, [Halbarad](../H/Halbarad.md), Calenglad, Lothrandir, Corunir và Golodir.
+[Elrond](../E/Elrond.md) nhận được một tin nhắn bí ẩn từ [Galadriel](../G/Galadriel.md), yêu cầu ông ta tập hợp [Biệt đội miền Bắc](../R/Rangers_of_the_North.md) và cử họ đến [Rohan](../R/Rohan.md) để giúp đỡ [Aragorn](../A/Aragorn.md). Người chơi được triệu tập đến [Ngôi nhà giản dị cuối cùng](../R/Rivendell.md) và đưa ra danh sách Rangers để chiêu mộ: Radanir, Candaith, Saeradan, Halros, [Halbarad](../H/Halbarad.md), Calenglad, Lothrandir, Corunir và Golodir.
 
 Các bản cập nhật bao gồm (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Volume_3_Allies_of_the_King_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 
@@ -80,13 +80,13 @@ Các bản cập nhật bao gồm (<a class="external text" href="http://loreboo
 
 #### Quyển II: Chuyến đi của đoàn quân xám {#Book_II:_Ride_of_the_Grey_Company}
 
-Quyển 2 được phát hành vào [10 tháng 9](../_/10_September.md), [2010](../_/2010.md) tại Bắc Mỹ. ([8 tháng 9](../_/8_September.md), [2010](../_/2010.md) dành cho người đăng ký). Phim đã bị trì hoãn ở châu Âu vì lý do hợp đồng và cuối cùng đã được phát hành vào [ngày 2 tháng 11](../_/2_November.md), gần hai tháng sau Bắc Mỹ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Quyển 2 được phát hành vào ngày [10 tháng Chín](../_/10_September.md), [2010](../_/2010.md) tại Bắc Mỹ. ([8 tháng Chín](../_/8_September.md), [2010](../_/2010.md) dành cho người đăng ký). Phim đã bị trì hoãn ở châu Âu vì lý do hợp đồng và cuối cùng đã được phát hành vào [ngày 2 tháng 11](../_/2_November.md), gần hai tháng sau Bắc Mỹ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Công ty Grey](../G/Grey_Company.md) bắt đầu hành trình về phía nam và đến [Enedwaith](../E/Enedwaith.md). [Halbarad](../H/Halbarad.md) đã tạo ra các bản sao giả của [Ring of Barahir](../R/Ring_of_Barahir.md) để câu giờ [Aragorn](../A/Aragorn.md) trong trường hợp một trong những người trong Công ty Xám bị bắt. Tại Enedwaith, họ phát hiện ra một Người lùn già nua và bối rối, [Nár](../N/Nár.md), cha của Ollfardh và là bạn đồng hành của [Thrór](Thrór.md). Trước sự ngạc nhiên của mọi người, ông biết về con đường bí mật mà Công ty đang định đi.
+[Công ty Grey](../G/Grey_Company.md) bắt đầu hành trình về phía nam và đến [Enedwaith](../E/Enedwaith.md). [Halbarad](../H/Halbarad.md) đã tạo ra các bản sao giả của [Chiếc nhẫn Barahir](../R/Ring_of_Barahir.md), để câu giờ [Aragorn](../A/Aragorn.md) trong trường hợp một trong những người trong Công ty Xám bị bắt. Trong Enedwaith, họ phát hiện ra một Người lùn cũ và bối rối, [Nár](../N/Nár.md), cha của Ollfardh và là bạn đồng hành của [Thrór](Thrór.md). Trước sự ngạc nhiên của mọi người, ông biết về con đường bí mật mà Công ty đang định đi.
 
 Đã bao gồm các bản cập nhật (<a class="external text" href="http://lorebook.lotro.com/wiki/Release_Notes_Volume_3_Book_2_Official" rel="noreferrer noopener" target="_blank">ghi chú phát hành đầy đủ</a>):
 
-- Khu vực mới: [Enedwaith](../E/Enedwaith.md).
+- Vùng mới: [Enedwaith](../E/Enedwaith.md).
 - Giới thiệu hệ thống *Free to Play*.
 - Cửa hàng LOTRO, nơi người chơi có thể mua các vật phẩm tiện lợi. Điểm kiếm được thông qua trò chơi, thông qua chương trình VIP hoặc bằng cách mua.
 
@@ -100,11 +100,11 @@ Cập nhật bao gồm:
 
 - Ví trao đổi dành cho điểm giao tranh và mã thông báo kỷ niệm.
 - Mở Moria, Lothlorien, Mirkwood và Enedwaith cho người chơi chơi miễn phí. Tập II và Tập III cũng sẽ có sẵn, cũng như hệ thống vật phẩm huyền thoại và giới hạn cấp độ 65 cho tất cả người chơi chơi miễn phí.
-- Cải tiến kho tiền.
+- Cải tiến Vault.
 - Nhiệm vụ: một loại nhiệm vụ mới cho mọi cấp độ.
 - Cải thiện việc gắn kết danh tiếng.
 - Cập nhật các lớp Lore-master và Rune-keeper.
-- Cải tạo khu vực xuất phát của Ered Luin.
+- Ered Luin cải tạo khu vực xuất phát.
 
 #### Quyển III - Tiếng vọng của người chết {#Book_III_-_Echoes_of_the_Dead}
 
@@ -112,16 +112,16 @@ Cập nhật bao gồm:
 
 Quyển III được phát hành cùng với **Bản cập nhật 2**, phát hành vào [21 tháng 3](../_/21_March.md) tại Hoa Kỳ và [24 tháng 3](../_/24_March.md) tại Châu Âu.
 
-Trong khi điều tra xem ai có thể tin cậy được và ai không thể, [Rangers](../R/Rangers_of_the_North.md) nhận được tin rằng có một nhóm Kẻ phá vỡ lời thề từ Erech ở Enedwaith. Nỗ lực nhắc nhở họ về Lời thề với Isildur đã thất bại thảm hại khi Candaith bị giết. [Halbarad](../H/Halbarad.md) muốn dẫn dắt công ty đến [Dunland](../D/Dunland.md), nhưng khi họ rời [Nár](../N/Nár.md), Người lùn tiết lộ [Saruman the White](../S/Saruman.md) đã nhúng tay vào những sự kiện này từ lâu.
+Trong khi điều tra xem ai có thể tin cậy được và ai không thể, [Rangers](../R/Rangers_of_the_North.md) nhận được tin rằng có một nhóm Kẻ phá lời thề từ Erech ở Enedwaith. Nỗ lực nhắc nhở họ về Lời Thề đến Isildur của họ đã thất bại thảm hại khi Candaith bị giết. [Halbarad](../H/Halbarad.md) muốn dẫn dắt công ty đến [Dunland](../D/Dunland.md), nhưng khi họ rời đi [Nár](../N/Nár.md), Người lùn tiết lộ rằng [Saruman phe Trắng](../S/Saruman.md) đã nhúng tay vào những sự kiện này từ lâu.
 
 Cập nhật bao gồm:
 
 - Hai cuộc đột kích 3 người, hai cuộc đột kích 6 người và 12 người đã được thêm vào cho người chơi cấp 65.
 - Bức xạ đã bị loại bỏ.
 - Tập II đã được cải tiến và có thể solo, bao gồm ba trường hợp đã được chuyển thành các cuộc giao tranh.
-- [Evendim](../E/Evendim.md) đã được cải tiến, với [Annúminas](../A/Annúminas.md) được giảm xuống cấp 40.
+- [Evendim](../E/Evendim.md) đã được cải tiến, với [Annúminas](../A/Annúminas.md) được thu nhỏ xuống cấp 40.
 
-#### Cập nhật 3: Huyền thoại Eriador đã mất {#Update_3:_Lost_Legends_of_Eriador}
+#### Cập nhật 3: Huyền thoại đã mất của Eriador {#Update_3:_Lost_Legends_of_Eriador}
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Update_3_Lost_Legends_of_Eriador.png.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e0/The_Lord_of_the_Rings_Online_-_Update_3_Lost_Legends_of_Eriador.png/300px-The_Lord_of_the_Rings_Online_-_Update_3_Lost_Legends_of_Eriador.png" decoding="async" loading="lazy" width="300" height="163" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/e0/The_Lord_of_the_Rings_Online_-_Update_3_Lost_Legends_of_Eriador.png/450px-The_Lord_of_the_Rings_Online_-_Update_3_Lost_Legends_of_Eriador.png 1.5x, https://tolkiengateway.net/w/images/e/e0/The_Lord_of_the_Rings_Online_-_Update_3_Lost_Legends_of_Eriador.png 2x" data-file-width="480" data-file-height="260"/></a><figcaption></figcaption></figure>
 

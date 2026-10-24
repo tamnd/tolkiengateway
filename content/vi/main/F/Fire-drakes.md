@@ -45,17 +45,17 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Return_of_the_Noldor.md" title="Of the Return of the Noldor">Of the Return of the Noldor</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Những con rồng lửa** ([Quenya](../Q/Quenya.md) *[Urulóki](../U/Urulókë.md)*) là những [Rồng](../D/Dragons.md) thở ra lửa.
+**Những con rồng lửa** ([Quenya](../Q/Quenya.md) *[Urulóki](../U/Urulókë.md)*) đang thở ra lửa [Rồng](../D/Dragons.md).
 
 ## Lịch sử và đặc điểm {#History_and_characteristics}
 
-Rồng lửa mạnh hơn trong hai loại cơ bản của loài rồng (nhóm còn lại là [drakes lạnh](../C/Cold-drakes.md)), giống như tên cho thấy, có khả năng thở ra lửa. [Glaurung](../G/Glaurung.md), [Cha của loài rồng](Father_of_Dragons.md), là loài đầu tiên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông xuất hiện lần đầu vào cuối [Kỷ nguyên thứ nhất](First_Age.md), nhưng người ta biết rằng người Urulóki vẫn sống sót ngay cả sau [sự sụp đổ](../W/War_of_Wrath.md) của Chúa tể bóng tối [Morgoth](../M/Morgoth.md), gây rắc rối cho [Người lùn](../D/Dwarves.md). Một con rồng khác được coi là rồng lửa trong [Ngày của Người cao tuổi](../E/Elder_Days.md) là [Ancalagon the Black](../A/Ancalagon.md).
+Rồng lửa mạnh hơn trong hai loại cơ bản của loài rồng (nhóm còn lại là [drakes lạnh](../C/Cold-drakes.md)), giống như tên cho thấy, có khả năng thở ra lửa. [Glaurung](../G/Glaurung.md), [Cha của Rồng](Father_of_Dragons.md), là loài đầu tiên.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông ta xuất hiện lần đầu vào cuối [Kỷ Đệ Nhất](First_Age.md), nhưng người ta biết rằng Urulóki vẫn sống sót ngay cả sau [sự sụp đổ](../W/War_of_Wrath.md) của Chúa tể Bóng tối [Morgoth](../M/Morgoth.md), gây rắc rối cho [Người Lùn](../D/Dwarves.md). Một con rồng khác được coi là rồng lửa trong [Ngày Người Cao Tuổi](../E/Elder_Days.md) là [Ancalagon Rồng Đen](../A/Ancalagon.md).
 
-[Smaug](../S/Smaug.md), con rồng cuối cùng thực sự mạnh mẽ, đã bị giết bởi [Bard](../B/Bard.md) vào cuối [Thời đại thứ ba](../T/Third_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, chúng ta có thể chắc chắn rằng ông ta không phải là con rồng lửa cuối cùng, bởi vì [Gandalf](../G/Gandalf.md) ám chỉ những con rồng phun lửa vào thời điểm trước [War of the Ring](../W/War_of_the_Ring.md), gần tám mươi nhiều năm sau cái chết của Smaug.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Smaug](../S/Smaug.md), con rồng cuối cùng thực sự mạnh mẽ, đã bị giết bởi [Bard](../B/Bard.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, chúng ta có thể chắc chắn rằng ông ta không phải là con rồng lửa cuối cùng vì [Gandalf](../G/Gandalf.md) ám chỉ những con rồng phun lửa vào thời điểm trước [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), gần 80 năm sau cái chết của Smaug.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong "[Sự sụp đổ của Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)", câu chuyện đầu tiên trong [huyền thoại](../L/Legendarium.md), nhiều con rồng lửa đã được đề cập. Hầu hết chúng ta không rõ liệu chúng có khác với [Rồng sắt](../I/Iron_Dragons.md) hay không, mặc dù một số trong số chúng rõ ràng là những sinh vật sống, chẳng hạn như "sinh vật lửa có [Balrogs](../B/Balrogs.md) ở trên" hay con rồng lửa đã làm khô [Đài phun nước của nhà vua](Fountain_of_the_King.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong "[The Fall of Gondolin](<../T/The_Fall_of_Gondolin_(chapter).md>)", câu chuyện đầu tiên của [huyền thoại](../L/Legendarium.md), nhiều Rồng lửa được đề cập. Hầu hết mọi người đều không rõ liệu chúng có khác với [Sắt Rồng](../I/Iron_Dragons.md) hay không, mặc dù một số trong chúng rõ ràng là những sinh vật sống, chẳng hạn như "sinh vật lửa có [Balrog](../B/Balrogs.md) bên trên" hay con rồng lửa đã làm khô [Đài phun nước của Vua](Fountain_of_the_King.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

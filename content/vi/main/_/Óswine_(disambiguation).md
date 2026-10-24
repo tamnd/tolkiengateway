@@ -21,7 +21,7 @@ images:
 **Óswine** có thể tham khảo:
 
 - [Óswine](<Óswine_(grandfather_of_Ælfwine).md>), ông nội của [Ælfwine](Ælfwine.md) ở *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)*.
-- [Óswine](<Óswine_(Prince_of_Gwar)~61512.md>), Hoàng tử của Gwar ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+- [Óswine](<Óswine_(Prince_of_Gwar)~61512.md>), Thân vương của Gwar ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
 <hr style="margin-top:15px;"/>
 

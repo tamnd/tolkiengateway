@@ -14,7 +14,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>tirith</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "canh chừng, canh gác"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hoặc "bảo vệ",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc "cảnh giác".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Từ [Noldorin](../N/Noldorin.md) <i><b>tirith</b></i> có nghĩa là "quan sát, canh gác".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
+<i><b>tirith</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "canh chừng, đề phòng"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> hay "canh gác",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hay "cảnh giác".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Từ [Noldorin](../N/Noldorin.md) <i><b>tirith</b></i> có nghĩa là "canh chừng, canh gác".<sup id="cite_ref-LR_4-0" class="reference"><a href="#cite_note-LR-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -26,7 +26,7 @@ Trong *[Etymologies](The_Etymologies.md)*, *tirith* xuất phát từ [root](../
 
 ## Xem thêm {#See_also}
 
-Tiền tố - [Quenya](../Q/Quenya.md) *[tir](Tir.md)-*
+- [Quenya](../Q/Quenya.md) tiền tố *[tir](Tir.md)-*
 
 <span></span>
 

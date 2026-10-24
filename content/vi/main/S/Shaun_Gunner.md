@@ -40,13 +40,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Shaun Gunner</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/4_March.md" title="4 March">4 March</a>, <a href="../_/1988.md" title="1988">1988</a><sup id="cite_ref-birthday_1-0" class="reference"><a href="#cite_note-birthday-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Education</th><td class="tg-infobox-data">University of Sussex<sup id="cite_ref-LinkedIn_2-0" class="reference"><a href="#cite_note-LinkedIn-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">CEO of <a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a><sup id="cite_ref-LinkedIn_2-1" class="reference"><a href="#cite_note-LinkedIn-2">[2]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Rustington, United Kingdom<sup id="cite_ref-Arun_3-0" class="reference"><a href="#cite_note-Arun-3">[3]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Website</th><td class="tg-infobox-data"><a class="external text" href="http://www.shaungunner.com" rel="noreferrer noopener" target="_blank">shaungunner.com</a></td></tr></tbody></table>
 
-**Shaun Gunner** là Giám đốc điều hành của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).<sup id="cite_ref-CEO_4-0" class="reference"><a href="#cite_note-CEO-4">[4]</a></sup><sup id="cite_ref-Twitter_5-0" class="reference"><a href="#cite_note-Twitter-5">[5]</a></sup> Gunner trước đây đã giữ chức Chủ tịch Hiệp hội trong hơn 12 năm, khiến ông trở thành Chủ tịch tại vị lâu nhất trong lịch sử Hiệp hội.
+**Shaun Gunner** là Giám đốc điều hành của [Hội Tolkien](../T/The_Tolkien_Society.md).<sup id="cite_ref-CEO_4-0" class="reference"><a href="#cite_note-CEO-4">[4]</a></sup><sup id="cite_ref-Twitter_5-0" class="reference"><a href="#cite_note-Twitter-5">[5]</a></sup> Gunner trước đây đã phục vụ hơn 12 năm với tư cách là Chủ tịch Hiệp hội, khiến ông trở thành Chủ tịch tại nhiệm lâu nhất trong lịch sử của Hiệp hội.
 
 Gunner cũng từng giữ chức vụ quan hệ công chúng của Hiệp hội, từng là Phó Chủ tịch của [The Return of the Ring: Celebrating Tolkien in 2012](../T/The_Return_of_the_Ring.md),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và chịu trách nhiệm về sự kiện [Tolkien 2019](../T/Tolkien_2019.md). Ông cũng có đóng góp cho các tạp chí *[Amon Hen](<../A/Amon_Hen_(journal).md>)*, *[Hither Shore](<../H/Hither_Shore_(journal).md>)*và *[Mallorn](<../M/Mallorn_(journal).md>)*.
 
-Ông là quản trị viên ([Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)) của trang web [Tolkien Gateway](../T/Tolkien_Gateway.md), đồng thời là cố vấn và trợ lý cho [Emil Johansson](../E/Emil_Johansson.md) [The Lord of the Rings Project](../T/The_Lord_of_the_Rings_Project.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Gunner cũng là nhà bình luận thường xuyên về Tolkien và các tác phẩm chuyển thể trên các phương tiện truyền thông, đồng thời là khách mời đồng dẫn chương trình [The Prancing Pony Podcast](../T/The_Prancing_Pony_Podcast.md) vào năm 2022-3 mùa.<sup id="cite_ref-PPP_8-0" class="reference"><a href="#cite_note-PPP-8">[8]</a></sup>
+Ông là quản trị viên ([Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)) của trang web [Tolkien Gateway](../T/Tolkien_Gateway.md), đồng thời là cố vấn và trợ lý cho [Emil Johansson](../E/Emil_Johansson.md) [The Lord of the Rings Project](../T/The_Lord_of_the_Rings_Project.md).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Gunner cũng là nhà bình luận thường xuyên về Tolkien và các bản chuyển thể trên phương tiện truyền thông, đồng thời là khách mời đồng dẫn chương trình [The Prancing Pony Podcast](../T/The_Prancing_Pony_Podcast.md) vào năm 2022-3 mùa.<sup id="cite_ref-PPP_8-0" class="reference"><a href="#cite_note-PPP-8">[8]</a></sup>
 
-Gunner tốt nghiệp chính trị và sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rustington" title="wikipedia:Rustington">Rustington</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sussex" title="wikipedia:Sussex">Sussex</a>.<sup id="cite_ref-Twitter_5-1" class="reference"><a href="#cite_note-Twitter-5">[5]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Ông là ủy viên hội đồng được bầu cho khu vực của mình - giữ chức vụ Lãnh đạo Hội đồng từ năm 2021 đến năm 2023<sup id="cite_ref-ADC_10-0" class="reference"><a href="#cite_note-ADC-10">[10]</a></sup> - và trước đây là chủ tịch tổ chức từ thiện về sức khỏe tâm thần <a class="external text" href="https://mkcharity.org/" rel="noreferrer noopener" target="_blank">Nhân loại</a>.
+Gunner tốt nghiệp chính trị và sống ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rustington" title="wikipedia:Rustington">Rustington</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sussex" title="wikipedia:Sussex">Sussex</a>.<sup id="cite_ref-Twitter_5-1" class="reference"><a href="#cite_note-Twitter-5">[5]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> Ông là ủy viên hội đồng được bầu cho khu vực của mình - giữ chức vụ Lãnh đạo của Hội đồng từ năm 2021 đến năm 2023<sup id="cite_ref-ADC_10-0" class="reference"><a href="#cite_note-ADC-10">[10]</a></sup> - và trước đây là chủ tịch tổ chức từ thiện về sức khỏe tâm thần <a class="external text" href="https://mkcharity.org/" rel="noreferrer noopener" target="_blank">Nhân loại</a>.
 
 ## Thư mục {#Bibliography}
 
@@ -58,9 +58,9 @@ Gunner tốt nghiệp chính trị và sống ở <a class="extiw" href="http://
     - "Dọc Đường - Còn ba tháng nữa"
     - "Hồ sơ thành viên"
 - [2012](../_/2012.md): [*Amon Hen* 236](../A/Amon_Hen_236.md)
-    - "Glorfindel(s), Anh nhớ em!"
+    - "Glorfindel(s), Anh Nhớ Em!"
 - [2013](../_/2013.md): [*Amon Hen* 240](../A/Amon_Hen_240.md)
-    - "Buổi ra mắt phim Hobbit: Niềm vui bất ngờ"
+    - "The Hobbit Buổi ra mắt: Niềm vui bất ngờ"
 - [2013](../_/2013.md): [*Amon Hen* 241](../A/Amon_Hen_241.md)
     - "Cập nhật của Chủ tịch"
 - [2013](../_/2013.md): [*Hither Shore* 9](../H/Hither_Shore_9.md)
@@ -114,19 +114,19 @@ Gunner tốt nghiệp chính trị và sống ở <a class="extiw" href="http://
 ### Phỏng vấn {#Interviews}
 
 - [17 tháng 5](../_/17_May.md), [2012](../_/2012.md): *[Middle-earth Network Specials](../M/Middle-earth_Network_Specials.md)*
-    - <a class="external text" href="http://menetspecials.mymiddleearth.com/podcast/menet-specials-16-the-return-of-the-ring/" rel="noreferrer noopener" target="_blank">Chương trình đặc biệt của Mạng Trung Địa 16: Sự trở lại của chiếc nhẫn</a>
+    - <a class="external text" href="http://menetspecials.mymiddleearth.com/podcast/menet-specials-16-the-return-of-the-ring/" rel="noreferrer noopener" target="_blank">Trung Địa Chương trình đặc biệt của mạng 16: Sự trở lại của chiếc nhẫn</a>
 - [19 tháng 6](../_/19_June.md), [2012](../_/2012.md): <i><a class="external text" href="http://www.aldasaga.com/" rel="noreferrer noopener" target="_blank">Aldasaga</a></i>
-    - <a class="external text" href="http://www.aldasaga.com/shownotes/Tolkien_and_Old_Norse_8.html" rel="noreferrer noopener" target="_blank">Hồ sơ chủng tộc I: của Álfar và Yêu tinh: khách mời nổi bật Shaun Gunner & Ármann Jakobsson</a>
-- [24 tháng 8](../_/24_August.md), [2012](../_/2012.md): [Tin tức về mạng Trung Địa](../M/Middle-earth_Network.md)
+    - <a class="external text" href="http://www.aldasaga.com/shownotes/Tolkien_and_Old_Norse_8.html" rel="noreferrer noopener" target="_blank">Hồ sơ cuộc đua I: của Álfar và Tiên tộc: khách mời nổi bật Shaun Gunner & Ármann Jakobsson</a>
+- [24 tháng 8](../_/24_August.md), [2012](../_/2012.md): [Trung Địa Tin tức mạng](../M/Middle-earth_Network.md)
     - <a class="external text" href="http://news.mymiddleearth.com/2012/08/24/return-of-the-ring-2012-wrap-up-interview/" rel="noreferrer noopener" target="_blank">Phỏng vấn tóm tắt sự trở lại của chiếc nhẫn</a>
-- [22 tháng 9](../_/22_September.md), [2012](../_/2012.md): *[Silver Leaves](<Silver_Leaves_(podcast).md>)*
-    - <a class="external text" href="http://whitetreefund.org/multimedia/silver-leaves-podcast/episode-archive/episode-1/" rel="noreferrer noopener" target="_blank">Những bữa tiệc được mong đợi từ lâu – Lễ kỷ niệm Ngày Hobbit trên toàn thế giới</a>
+- [22 tháng Chín](../_/22_September.md), [2012](../_/2012.md): *[Silver Leaves](<Silver_Leaves_(podcast).md>)*
+    - <a class="external text" href="http://whitetreefund.org/multimedia/silver-leaves-podcast/episode-archive/episode-1/" rel="noreferrer noopener" target="_blank">Những bữa tiệc được mong đợi từ lâu – Hobbit Lễ kỷ niệm ngày trên toàn thế giới</a>
 - [7 tháng 8](../_/7_August.md), [2014](../_/2014.md): *TheOnering.net*
-    - <a class="external text" href="http://www.theonering.net/torwp/2014/08/07/92174-torn-talks-to-shaun-gunner-chairman-of-the-tolkien-society/" rel="noreferrer noopener" target="_blank">TORn trò chuyện với Shaun Gunner, Chủ tịch Hiệp hội Tolkien</a>
-- [13 tháng 9](../_/13_September.md) [2014](../_/2014.md): <i><a class="external text" href="http://theworldofsmart.com/" rel="noreferrer noopener" target="_blank">Thế giới THÔNG MINH</a></i>
-    - <a class="external text" href="http://theworldofsmart.com/interview-with-shaun-gunner-of-the-tolkien-society/" rel="noreferrer noopener" target="_blank">Phỏng vấn Shaun Gunner của Hiệp hội Tolkien</a>
-- [20 tháng 8](../_/20_August.md) [2015](../_/2015.md): <i><a class="external text" href="http://www.scififantasynetwork.com/" rel="noreferrer noopener" target="_blank">Mạng khoa học viễn tưởng và giả tưởng</a></i>
-    - <a class="external text" href="http://www.scififantasynetwork.com/shaun-gunner-on-the-tolkien-society/" rel="noreferrer noopener" target="_blank">Xạ thủ Shaun trong Hiệp hội Tolkien</a>
+    - <a class="external text" href="http://www.theonering.net/torwp/2014/08/07/92174-torn-talks-to-shaun-gunner-chairman-of-the-tolkien-society/" rel="noreferrer noopener" target="_blank">TORn trò chuyện với Shaun Gunner, Chủ tịch của Hội Tolkien</a>
+- [13 tháng Chín](../_/13_September.md) [2014](../_/2014.md): <i><a class="external text" href="http://theworldofsmart.com/" rel="noreferrer noopener" target="_blank">Thế giới THÔNG MINH</a></i>
+    - <a class="external text" href="http://theworldofsmart.com/interview-with-shaun-gunner-of-the-tolkien-society/" rel="noreferrer noopener" target="_blank">Phỏng vấn Shaun Gunner của Hội Tolkien</a>
+- [20 tháng 8](../_/20_August.md) [2015](../_/2015.md): <i><a class="external text" href="http://www.scififantasynetwork.com/" rel="noreferrer noopener" target="_blank">SciFi và Fantasy Network</a></i>
+    - <a class="external text" href="http://www.scififantasynetwork.com/shaun-gunner-on-the-tolkien-society/" rel="noreferrer noopener" target="_blank">Xạ thủ Shaun Bật Hội Tolkien</a>
 - Tháng 11 [2015](../_/2015.md): *[Fan Phenomena: The Lord of the Rings](../F/Fan_Phenomena%253A_The_Lord_of_the_Rings.md)*
     - "Tri ân người hâm mộ - Shaun Gunner"
 - [28 tháng 2](../_/28_February.md) [2020](../_/2020.md): *[The Tolkien Experience Podcast](../T/The_Tolkien_Experience.md)*

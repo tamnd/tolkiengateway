@@ -16,7 +16,7 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File"><a class="mw-file-description" href="../../file/M/Middle-earth_Quest.png.md" title="Middle-earth Quest logo"><img alt="Middle-earth Quest logo" src="https://tolkiengateway.net/w/images/thumb/8/8b/Middle-earth_Quest.png/250px-Middle-earth_Quest.png" decoding="async" loading="lazy" width="250" height="136" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/8b/Middle-earth_Quest.png/375px-Middle-earth_Quest.png 1.5x, https://tolkiengateway.net/w/images/8/8b/Middle-earth_Quest.png 2x" data-file-width="400" data-file-height="218"/></a><figcaption><i>Middle-earth Quest</i> logo</figcaption></figure>
 
-**Nhiệm vụ Trung Địa** (MEQ) là một loạt sách bìa mềm phiêu lưu solo (tương tự như *[Tolkien Quest](../T/Tolkien_Quest.md)*) dựa trên Hệ thống *QuestGame*, được xuất bản bởi [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md). Theo [Terry Amthor](../T/Terry_Kevin_Amthor.md), các cuốn sách trong bộ *Middle-earth Quest* được xem xét kỹ lưỡng hơn so với các phần bổ sung cho *[MERP](Middle-earth_Role_Playing.md)*, liên quan đến [Rayner Unwin](../R/Rayner_Unwin.md) và một "học giả Tolkien tại Oxford".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Trung Địa Quest** (MEQ) là một loạt sách bìa mềm phiêu lưu solo (tương tự như *[Tolkien Quest](../T/Tolkien_Quest.md)*) dựa trên Hệ thống *QuestGame*, được xuất bản bởi [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md). Theo [Terry Amthor](../T/Terry_Kevin_Amthor.md), các cuốn sách trong bộ *Middle-earth Quest* được xem xét kỹ lưỡng hơn so với các phần bổ sung cho *[MERP](Middle-earth_Role_Playing.md)*, liên quan đến [Rayner Unwin](../R/Rayner_Unwin.md) và một "Tolkien học giả tại Oxford".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ấn phẩm {#Publications}
 
@@ -31,7 +31,7 @@ Hai cuốn sách tiếp theo khác đã được hứa hẹn sẽ có (*Search f
 
 HÃY ĐẾN TRUNG ĐỊA!
 
-Thế giới của những Con người dũng cảm và độc ác, Người Hobbit và Yêu tinh, Rồng và Người lùn, Orc và Troll, cũng như Pháp sư cả thiện và ác vẫn tiếp tục tồn tại trong loạt sách trò chơi *Middle-earth Quest* này. Giờ đây, bạn cũng có thể bị cuốn vào tấm thảm giàu trí tưởng tượng phong phú nhất thế giới.
+Thế giới của Con Người, Hobbit và Tiên tộc, Rồng và Người Lùn, Orc và Troll dũng cảm và tàn ác, và Pháp sư cả thiện và ác vẫn tiếp tục tồn tại trong loạt sách trò chơi *Middle-earth Quest* này. Giờ đây, bạn cũng có thể bị cuốn vào tấm thảm giàu trí tưởng tượng phong phú nhất thế giới.
 
 ## Bản dịch {#Translations}
 

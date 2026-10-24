@@ -41,7 +41,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Video game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Hobbit</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Details</span></th></tr><tr><th scope="row" class="tg-infobox-label">Developer</th><td class="tg-infobox-data"><a href="../K/Klik_&amp;_Play.md" title="Klik &amp; Play">Klik &amp; Play</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Platform</th><td class="tg-infobox-data">Microsoft Windows (PC)</td></tr><tr><th scope="row" class="tg-infobox-label">Release Date</th><td class="tg-infobox-data">Unreleased</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Action_games" title="wikipedia:Action games">Action</a></td></tr></tbody></table>
 
-**The Hobbit** là trò chơi điện tử được tạo bởi [Bryce Fitzsimons](../B/Bryce_Fitzsimons.md). Câu chuyện bao gồm *[the Hobbit](The_Hobbit.md)*, trong đó người chơi phải lấy lại kho báu của [Người lùn](../D/Dwarves.md) từ [Smaug](../S/Smaug.md) [Rồng](../D/Dragons.md). Nó được viết bởi [Bryce Fitzsimons](../B/Bryce_Fitzsimons.md).
+**The Hobbit** là trò chơi điện tử được tạo bởi [Bryce Fitzsimons](../B/Bryce_Fitzsimons.md). Câu chuyện bao gồm *[the Hobbit](The_Hobbit.md)*, trong đó người chơi phải lấy lại kho báu của [Người Lùn](../D/Dwarves.md) từ [Smaug](../S/Smaug.md) [Rồng](../D/Dragons.md). Nó được viết bởi [Bryce Fitzsimons](../B/Bryce_Fitzsimons.md).
 
 <span></span>
 

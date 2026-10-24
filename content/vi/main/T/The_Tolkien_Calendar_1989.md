@@ -43,16 +43,16 @@ infobox:
 - Bìa - "[Nơi ẩn náu của Moriondë](../../file/R/Roger_Garland_-_The_Haven_of_Moriondë.jpg.md)"
 - Tháng Giêng - "[Thû, càng sói càng vĩ đại](../../file/R/Roger_Garland_-_Thû,_as_wolf_more_great.jpg.md)"
 - Tháng 2 - "[Moria](<../../file/R/Roger_Garland_-_Middle-earth_Panorama_(Isengard).jpg.md>)"
-- Tháng 3 - "[Sự trở lại của bóng tối](../../file/R/Roger_Garland_-_The_Return_of_the_Shadow.JPG.md)"
+- Tháng 3 - "[The Return of the Shadow](../../file/R/Roger_Garland_-_The_Return_of_the_Shadow.JPG.md)"
 - Tháng 4 - "[Ông già liễu](../../file/R/Roger_Garland_-_Old_Man_Willow.jpg.md)"
-- Tháng 5 - "[Thác Rauros](<../../file/R/Roger_Garland_-_Middle-earth_Panorama_(Rauros).jpg.md>)"
-- Tháng 6 - "[Lúthien trong rừng Neldoreth](../../file/R/Roger_Garland_-_Luthien_in_the_Woods_of_Neldoreth.JPG.md)"
+- Tháng 5 - "[ thác Rauros](<../../file/R/Roger_Garland_-_Middle-earth_Panorama_(Rauros).jpg.md>)"
+- Tháng 6 - "[Lúthien trong Rừng Neldoreth](../../file/R/Roger_Garland_-_Luthien_in_the_Woods_of_Neldoreth.JPG.md)"
 - Tháng 7 - "[Nơi ẩn náu của Moriondë](../../file/R/Roger_Garland_-_The_Haven_of_Moriondë.jpg.md)"
 - Tháng 8 - "[Smaug](../../file/R/Roger_Garland_-_Smaug.JPG.md)"
-- Tháng 9 - "[Hobbiton](<../../file/R/Roger_Garland_-_Middle-earth_Panorama_(Hobbiton).jpg.md>)"
+- tháng Chín - "[Hobbiton](<../../file/R/Roger_Garland_-_Middle-earth_Panorama_(Hobbiton).jpg.md>)"
 - Tháng 10 - "[Eärendil và Elwing](../../file/R/Roger_Garland_-_Earendil_and_Elwing.jpeg.md)"
-- Tháng 11 - "[Pelargir và sông Anduin](<../../file/R/Roger_Garland_-_Middle-earth_Panorama_(Pelargir).jpg.md>)"
-- Tháng 12 - "[Sự sụp đổ của Gondolin](../../file/R/Roger_Garland_-_The_Fall_of_Gondolin.JPG.md)"
+- Tháng 11 - "[Pelargir và Sông Anduin](<../../file/R/Roger_Garland_-_Middle-earth_Panorama_(Pelargir).jpg.md>)"
+- Tháng 12 - "[The Fall of Gondolin](../../file/R/Roger_Garland_-_The_Fall_of_Gondolin.JPG.md)"
 
 ## Xem thêm {#See_also}
 
@@ -61,7 +61,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94210" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1989</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1989_1992.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1989 - 1992</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1989_1992.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1989 - 1992</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde đến Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

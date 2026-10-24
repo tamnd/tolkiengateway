@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Mirkwood (MERP)"
 ---
 
-Chuyển hướng đến [Mirkwood (MERP)](<Mirkwood_(MERP).md>).
+Chuyển hướng tới [Mirkwood (MERP)](<Mirkwood_(MERP).md>).

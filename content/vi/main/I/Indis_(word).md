@@ -15,11 +15,11 @@ categories:
 
 **indis** là một từ trong [Quenya](../Q/Quenya.md) có nghĩa là "người phụ nữ vĩ đại hoặc dũng cảm",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> nhưng cũng được dịch là "cô dâu" hoặc "vợ".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Đáng chú ý nhất là tên của [người vợ thứ hai của Finwë](Indis.md).
+Nổi bật nhất là tên người vợ thứ hai của [Finwë](Indis.md).
 
 ## Lời trước dành cho cô dâu/vợ {#Earlier_words_for_bride_/_wife}
 
-Các từ khác trong từ điển cũ hơn, chẳng hạn như [Qenya](../Q/Qenya.md), có nghĩa là "cô dâu" hoặc "vợ":
+Các từ khác trong từ vựng cũ hơn, chẳng hạn như [Qenya](../Q/Qenya.md), có nghĩa là "cô dâu" hoặc "vợ":
 
 - *acairis*
     - Acairis là tên gọi khác của *Erinti*, nhân vật đã trở thành [Ilmarë](Ilmarë.md)
@@ -28,7 +28,7 @@ Các từ khác trong từ điển cũ hơn, chẳng hạn như [Qenya](../Q/Qen
 
 ## Xem thêm {#See_also}
 
-- *Indis i·Ciryamo*: bản dịch tiếng Quenya của "[Vợ của người thủy quân lục chiến](../A/Aldarion_and_Erendis%253A_The_Mariner's_Wife.md)"
+- *Indis i·Ciryamo*: bản dịch Quenya của "[Vợ của người thủy quân lục chiến](../A/Aldarion_and_Erendis%253A_The_Mariner's_Wife.md)"
 - *[Nessa](../N/Nessa.md)*: còn được gọi là *Indis* trong truyền thuyết trước đó
 
 <span></span>

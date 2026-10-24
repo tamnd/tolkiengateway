@@ -40,11 +40,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../R/Rohirrim.md" title="Rohirrim">Rohir</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gálmód</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../R/Rohanese.md" title="Rohanese">Rohanese</a> and <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Late <a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Gríma.md" title="Gríma">Gríma</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Gálmód** là người của [Rohan](../R/Rohan.md).
+**Gálmód** là một người đàn ông của [Rohan](../R/Rohan.md).
 
 ## Lịch sử {#History}
 
-Gálmód chắc hẳn đã ra đời và phát triển mạnh mẽ vào khoảng thế kỷ 30 của [Thời đại thứ ba](../T/Third_Age.md);<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông là cha của [Gríma Lưỡi Giun](Gríma.md), cố vấn cho [Vua Théoden](../T/Théoden.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Gálmód chắc hẳn đã ra đời và hưng thịnh vào khoảng thế kỷ 30 năm [Kỷ Đệ Tam](../T/Third_Age.md);<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> ông là cha của [Gríma Wormtongue](Gríma.md), cố vấn cho [Vua Théoden](../T/Théoden.md) của [Rohan](../R/Rohan.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Beregond (Steward of Gondor)"
 ---
 
-Chuyển hướng đến [Beregond (Người quản lý Gondor)](<Beregond_(Steward_of_Gondor).md>).
+Chuyển hướng tới [Beregond (Người quản lý của Gondor)](<Beregond_(Steward_of_Gondor).md>).

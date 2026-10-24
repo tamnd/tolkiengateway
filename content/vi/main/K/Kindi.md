@@ -25,11 +25,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/C/C._Domino_-_Kindi_Avari.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/27/C._Domino_-_Kindi_Avari.jpg/277px-C._Domino_-_Kindi_Avari.jpg" decoding="async" loading="lazy" width="277" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/27/C._Domino_-_Kindi_Avari.jpg/415px-C._Domino_-_Kindi_Avari.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/27/C._Domino_-_Kindi_Avari.jpg/554px-C._Domino_-_Kindi_Avari.jpg 2x" data-file-width="1024" data-file-height="1774"/></a><figcaption>&#34;Kindi Avari&#34; by <a href="../../category/I/Images_by_C._Domino.md" title="Category:Images by C. Domino">C. Domino</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Kindi</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data">one of the many <a href="../A/Avarin.md" title="Avarin">Avarin</a> languages</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data">Immortal</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Kindi.md" title="Category:Images of Kindi">Images of Kindi</a></td></tr></tbody></table>
 
-**Kindi** là thuật ngữ được một số người Avari sử dụng để mô tả bản thân họ. Không rõ liệu Tên "Kindi" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari nói chung.
+**Kindi** là thuật ngữ được một số Avari sử dụng để mô tả bản thân họ. Không biết Tên "Kindi" được áp dụng cho một nhóm Avari cụ thể hay cho toàn bộ Avari.
 
 ## Từ nguyên {#Etymology}
 
-Đó là từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *[kwendī](Kwende.md)*.<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
+Đó là một từ [Avarin](../A/Avarin.md) có nghĩa là "Nhân dân". Nó bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) *[kwendī](Kwende.md)*.<sup id="cite_ref-Author_1-0" class="reference"><a href="#cite_note-Author-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

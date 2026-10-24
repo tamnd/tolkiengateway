@@ -45,7 +45,7 @@ images:
 <li><a href="../T/The_Death_of_Túrin.md" title="The Death of Túrin">The Death of Túrin</a></li></ol>
 </td></tr></tbody></table>
 
-**Niënor in Brethil** là chương thứ mười lăm của *[The Children of Húrin](../T/The_Children_of_Húrin.md)*.
+**Niënor trong Brethil** là chương thứ mười lăm của *[The Children of Húrin](../T/The_Children_of_Húrin.md)*.
 
 ## Tóm tắt {#Synopsis}
 
@@ -53,10 +53,10 @@ images:
 
 [Niënor](Niënor.md) chạy cả ngày không nghỉ, xé hết quần áo cho đến khi khỏa thân hoàn toàn. Nhưng vào lúc chạng vạng, cơn điên của cô biến mất và cô ngủ thiếp đi với sự mệt mỏi tột độ. Khi thức dậy vào buổi sáng, mọi thứ dường như mới mẻ đối với cô, cô vừa ngạc nhiên vừa sợ hãi thế giới. Cô lang thang khắp khu rừng cho đến khi màn đêm buông xuống, nơi cô nằm xuống một gò đất xanh, nằm thao thức và trần truồng dưới mưa.
 
-Đêm hôm đó, một nhóm [Men of Brethil](../M/Men_of_Brethil.md) đến gần, cùng với họ là [Turambar](../T/Túrin.md), và họ tìm thấy Niënor đang nằm trên [Haudh-en-Elleth](../H/Haudh-en-Elleth.md). Turambar rất ngạc nhiên nhưng anh quấn cô bằng áo khoác của mình và bế cô về nhà nghỉ của họ. Ở đó, họ cố gắng hỏi người phụ nữ bí ẩn xem bà là ai, điều này khiến bà lo lắng và khóc. Tuy nhiên, Turambar và người phụ nữ có thiện cảm với nhau, và anh đặt tên cho cô là *Níniel*, "Quý cô của nước mắt", và cô chấp nhận việc lặp lại cái tên đó.
+Đêm hôm đó, một nhóm [Con Người Brethil](../M/Men_of_Brethil.md) đến gần, cùng với họ là [Turambar](../T/Túrin.md) và họ tìm thấy Niënor đang nằm trên [Haudh-en-Elleth](../H/Haudh-en-Elleth.md). Turambar rất ngạc nhiên nhưng anh quấn cô bằng áo khoác của mình và bế cô về nhà nghỉ của họ. Ở đó, họ cố gắng hỏi người phụ nữ bí ẩn xem bà là ai, điều này khiến bà lo lắng và khóc. Tuy nhiên, Turambar và người phụ nữ có thiện cảm với nhau, và anh đặt tên cho cô là *Níniel*, "Quý cô của nước mắt", và cô chấp nhận việc lặp lại cái tên đó.
 
 Buổi sáng đoàn quay trở lại [Ephel Brandir](../E/Ephel_Brandir.md). Trên đường đi, họ băng qua cầu [Dimrost](../D/Dimrost.md), và khi Níniel nhìn thấy nước từ cầu, cô bắt đầu run rẩy không kiểm soát được; sau đó thác nước được gọi là *Nen Girith*, "Dòng nước rùng mình". Níniel đã bị ốm khi họ đến Ephel Brandir, và [Brandir](../B/Brandir.md) đã chăm sóc bà với sự giúp đỡ của nhiều phụ nữ, nhưng bà chỉ tỏ ra bình tĩnh khi có Turambar ở bên.
 
 Khi Níniel bình phục, họ phải dạy cô nói, cô thích học những từ mới và đến nhà Brandir để hỏi tên các đồ vật. Vì vậy Brandir bắt đầu yêu cô, nhưng trái tim cô lại dành cho Turambar và cô chỉ hạnh phúc khi ở bên anh.
 
-Sau một năm trôi qua, Brethil đã có được hòa bình nhờ nỗi sợ hãi của lũ Orc đối với Men of Brethil. Níniel đã hoàn toàn bình phục, khỏe mạnh và xinh đẹp, Turambar ngỏ lời cầu hôn cô và cô rất vui. Nhưng khi Brandir biết được điều này, anh đã cảnh báo cô và nói với cô rằng Turambar thực sự là Túrin của [Nhà Hador](../H/House_of_Hador.md), người luôn bị bất hạnh theo đuổi. Rắc rối vì điều này, Níniel đợi đến mùa xuân năm sau, khi Turambar hứa với cô rằng anh sẽ chỉ tham chiến để bảo vệ cô và người dân của họ. Họ kết hôn vào giữa mùa hè với một bữa tiệc lớn và được tặng một ngôi nhà mới ở Amon Obel để làm nơi ở của họ.
+Sau một năm trôi qua, Brethil đã có được hòa bình nhờ nỗi sợ Orc có Con Người của Brethil. Níniel đã hoàn toàn bình phục, khỏe mạnh và xinh đẹp, Turambar ngỏ lời cầu hôn cô và cô rất vui. Nhưng khi Brandir biết được điều này, anh đã cảnh báo cô và nói với cô rằng Turambar thực sự là Túrin của [Nhà Hador](../H/House_of_Hador.md) kẻ luôn bị bất hạnh theo đuổi. Rắc rối vì điều này, Níniel đợi đến mùa xuân năm sau, khi Turambar hứa với cô rằng anh sẽ chỉ tham chiến để bảo vệ cô và người dân của họ. Họ kết hôn vào giữa mùa hè với một bữa tiệc lớn và được tặng một ngôi nhà mới ở Amon Obel để làm nơi ở của họ.

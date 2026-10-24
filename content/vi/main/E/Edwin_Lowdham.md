@@ -43,7 +43,7 @@ infobox:
 
 Edwin là một người giàu có và có niềm đam mê lớn với biển. Ông đã dành rất nhiều thời gian để đi thuyền về <a class="extiw" href="http://en.wikipedia.org/wiki/Norway" title="wikipedia:Norway">Na Uy</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Scotland" title="wikipedia:Scotland">Scotland</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Ireland" title="wikipedia:Ireland">Ireland</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Iceland" title="wikipedia:Iceland">Iceland</a> và đôi khi thậm chí còn đi xa về phía nam tới <a class="extiw" href="http://en.wikipedia.org/wiki/Azores" title="wikipedia:Azores">Azores</a>. Vào năm [1947](../_/1947.md), ông ta ra khơi trên con tàu [Éarendel](../_/Éarendel.md) chỉ có ba thủy thủ đi cùng và không bao giờ được nhìn thấy nữa.<sup id="cite_ref-Edwin_1-0" class="reference"><a href="#cite_note-Edwin-1">[1]</a></sup>
 
-Sau đó, con trai ông là Arundel đã tìm thấy một bản thảo viết bằng [Tengwar](../T/Tengwar.md) trong đó có miêu tả về [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) bằng [tiếng Anh cổ](../O/Old_English.md) do Edwin viết.<sup id="cite_ref-Edwin_1-1" class="reference"><a href="#cite_note-Edwin-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sau đó, con trai ông là Arundel đã tìm thấy một bản thảo viết bằng [Tengwar](../T/Tengwar.md) trong đó có ghi lại phần [Sự sụp đổ của Númenor](../D/Downfall_of_Númenor.md) trong [tiếng Anh cổ](../O/Old_English.md) do Edwin viết.<sup id="cite_ref-Edwin_1-1" class="reference"><a href="#cite_note-Edwin-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Diện mạo {#Appearance}
 
@@ -61,7 +61,7 @@ Sau đó, con trai ông là Arundel đã tìm thấy một bản thảo viết b
 
 ## Từ nguyên {#Etymology}
 
-Tên <a class="extiw" href="http://en.wikipedia.org/wiki/Edwin" title="wikipedia:Edwin">Edwin</a> ([Tiếng Anh cổ](../O/Old_English.md): [Éadwine](../_/Éadwine.md)) chứa các phần tử *ead* "bliss" (cũng thấy trong *[Éadig](../_/Éadig.md)*) và *wine* "friend".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tên <a class="extiw" href="http://en.wikipedia.org/wiki/Edwin" title="wikipedia:Edwin">Edwin</a> ([tiếng Anh cổ](../O/Old_English.md): [Éadwine](../_/Éadwine.md)) chứa các phần tử *ead* "bliss" (cũng thấy trong *[Éadig](../_/Éadig.md)*) và *wine* "friend".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

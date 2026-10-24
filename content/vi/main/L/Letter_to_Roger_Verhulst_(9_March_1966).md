@@ -24,7 +24,7 @@ Vào [9 tháng 3](../_/9_March.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J
 
 - **Nội dung:** Tolkien trả lời ông Verhulst tại Eerdmans, với một số nhận xét liên quan đến mối quan hệ của ông với [Charles Williams](../C/Charles_Williams.md), nhưng có lẽ từ chối bình luận về cuốn sách của Mary Shideler *Charles Williams in Christian Perspective*. Ông giải thích rằng mặc dù ông mang ơn [W.H. Auden](../W/W.H._Auden.md) nhưng ông không nghĩ rằng Auden hiểu ông đủ rõ để viết một cuốn sách về ông.<sup id="cite_ref-Hammond_2-0" class="reference"><a href="#cite_note-Hammond-2">[2]</a></sup>
 - **Xuất bản:** Các trích dẫn từ bức thư đã được cung cấp trong *[Tolkien and The Silmarillion](../T/Tolkien_and_The_Silmarillion.md)*. Bức thư cũng được trích dẫn trong *[W.H. Auden: A Legacy](../W/W.H._Auden%253A_A_Legacy.md)*. Mô tả về bức thư đã xuất hiện trong danh mục *Sách và bản thảo in đẹp của Christie ngày 28 tháng 11 năm 2011* (lô 257) và *[Christie's Fine Printed Books and Manuscripts 19 June 2012](../C/Christie's_Fine_Printed_Books_and_Manuscripts_19_June_2012.md)*.
-- **Mô tả:** Ba trang, 76 Sandfield Road, tiêu đề thư Oxford. Được ký bởi J.R.R. Tolkien.
+- **Mô tả:** Ba trang, 76 Sandfield Road, Oxford tiêu đề thư. Được ký bởi J.R.R. Tolkien.
 
 ## Thư viện hình ảnh {#Image_gallery}
 
@@ -45,7 +45,7 @@ Vào [9 tháng 3](../_/9_March.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J
 
 ## Trích đoạn {#Excerpts}
 
-Tolkien viết để bày tỏ sự phản đối của mình đối với việc W.H. Auden xuất bản một cuốn sách về ông, và trích dẫn bức thư của ông gửi cho Auden về chủ đề này, "*Tôi coi những điều đó là sự xấc xược quá sớm ... Tôi không thể tin rằng chúng hữu ích để biện minh cho sự chán ghét và khó chịu dành cho nạn nhân*", mặc dù ông thừa nhận "*Tôi nợ ông Auden một lời cảm ơn vì sự hào phóng mà ông đã hỗ trợ và khuyến khích tôi kể từ lần xuất hiện đầu tiên của The Lord of những chiếc Nhẫn*"; cũng thảo luận về mối quen biết của ông với tác giả Charles Williams, và tư cách thành viên rộng rãi hơn của 'Inklings', kết thúc bằng sự phân biệt rõ ràng giữa một tập tiểu luận được đề xuất về Williams và một tập về ông, "*một tác giả còn sống có tác phẩm hạn chế hơn nhiều thuộc loại hoàn toàn khác, và người đang cố gắng hoàn thành tác phẩm của mình, trong khi thời gian ngày càng rút ngắn, mà không bị phân tâm bởi những bình luận hoặc phân tích mà về bản chất của vụ án không thể có đủ thông tin*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tolkien viết để bày tỏ sự phản đối của mình đối với việc W.H. Auden xuất bản cuốn sách về ông ta và trích dẫn lá thư của ông ta gửi cho Auden về chủ đề này, "*Tôi coi những điều đó là sự xấc xược quá sớm ... Tôi không thể tin rằng chúng hữu ích để biện minh cho sự chán ghét và khó chịu dành cho nạn nhân*", mặc dù ông ta thừa nhận "*Tôi nợ ông Auden một lời cảm ơn vì sự hào phóng mà ông ấy đã hỗ trợ và khuyến khích tôi kể từ lần xuất hiện đầu tiên." The Lord of the Rings*"; cũng thảo luận về mối quen biết của ông với tác giả Charles Williams, và tư cách thành viên rộng rãi hơn của 'Inklings', kết luận bằng sự phân biệt rõ ràng giữa một tập tiểu luận được đề xuất về Williams và một tập về ông, "*một tác giả còn sống có tác phẩm hạn chế hơn nhiều thuộc loại hoàn toàn khác, và người đang cố gắng hoàn thành tác phẩm của mình, trong khi thời gian ngày càng rút ngắn, mà không bị phân tâm bởi những bình luận hoặc phân tích mà về bản chất của vụ án không thể có đủ thông tin*".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Xem thêm {#See_also}
 

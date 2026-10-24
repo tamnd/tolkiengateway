@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Tolkien criticism"
 ---
 
-Chuyển hướng tới [Danh mục:Những lời phê bình của Tolkien](../../category/T/Tolkien_criticism.md).
+Chuyển hướng đến [Danh mục:Tolkien phê bình](../../category/T/Tolkien_criticism.md).

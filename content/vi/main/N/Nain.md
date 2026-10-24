@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Náin (disambiguation)"
 ---
 
-Chuyển hướng tới [Náin (định hướng)](<Náin_(disambiguation).md>).
+Chuyển hướng đến [Náin (định hướng)](<Náin_(disambiguation).md>).

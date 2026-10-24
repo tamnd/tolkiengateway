@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Third of the Nazgûl"
 ---
 
-Chuyển hướng đến [Thứ ba của Nazgûl](../T/Third_of_the_Nazgûl.md).
+Chuyển hướng tới [Phần thứ ba của Nazgûl](../T/Third_of_the_Nazgûl.md).

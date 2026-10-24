@@ -15,7 +15,7 @@ categories:
 
 **Tavari** là [fays](../F/Fays.md) của rừng, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong *[The Book of Lost Tales](The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Họ đến thế giới cùng với [Aulë](../A/Aulë.md) và [Yavanna](../Y/Yavanna.md), cùng với nhiều loại tiên khác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Họ đến thế giới cùng với [Aulë](../A/Aulë.md) và [Yavanna](../Y/Yavanna.md), cùng với nhiều loại thần tiên khác.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -33,9 +33,9 @@ Các dạng giả định ban đầu của những tên này là <i><b>tawaro</b
 
 ## Cảm hứng {#Inspiration}
 
-Theo [C.S. Lewis](../C/C.S._Lewis.md), [Tolkien](Tolkien.md) đã từng nói với ông rằng theo một nghĩa nào đó, những người trong lịch sử đã không hề tuyên bố sai lầm rằng họ nhìn thấy "[nữ thần](../N/Nymphs.md) trong đài phun nước và rừng cây và cây thần trong rừng", vì việc sản xuất lương thực gắn liền với đất đai và lãnh thổ của chính mình: con người đã tiếp thu thiên nhiên xung quanh họ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Theo [C.S. Lewis](../C/C.S._Lewis.md), [Tolkien](Tolkien.md) đã từng nói với anh rằng theo một nghĩa nào đó, những con người lịch sử không hề tuyên bố sai lầm rằng đã nhìn thấy "[nữ thần](../N/Nymphs.md) trong đài phun nước và rừng cây và thần rừng trong rừng", vì việc sản xuất lương thực gắn liền với đất đai và lãnh thổ của chính mình: con người đã tiếp thu thiên nhiên xung quanh họ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
-Có thể Tolkien đã có lúc lấy cảm hứng từ khái niệm *Tavari* khi tạo ra chủng tộc [Ents](../E/Ents.md), vì trong một lá thư, Tolkien đã khám phá ra khả năng Ent là "[linh hồn](../S/Spirits.md)" được gửi đến để sinh sống trên cây (có sự sống) hoặc trở thành [cây](Trees.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 2]</a></sup>
+Có thể Tolkien đã có lúc lấy cảm hứng từ khái niệm *Tavari* trong khi tạo ra chủng tộc [Ent](../E/Ents.md), vì trong một lá thư, Tolkien khám phá ra khả năng Ent là "[linh hồn](../S/Spirits.md)" được gửi đến để sinh sống trên cây (có sự sống) hoặc trở thành [cây](Trees.md).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[note 2]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -44,7 +44,7 @@ Có thể Tolkien đã có lúc lấy cảm hứng từ khái niệm *Tavari* kh
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Số nhiều thực tế của <i>tavar</i> được nêu trong <i><a class="mw-redirect" href="../Q/Qenya_Lexicon.md" title="Qenya Lexicon">Qenya Lexicon</a></i> là <i><b>tavarni</b></i>.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Số nhiều thực sự của <i>tavar</i> được đưa ra trong <i><a class="mw-redirect" href="../Q/Qenya_Lexicon.md" title="Qenya Lexicon">Qenya Lexicon</a></i> là <i><b>tavarni</b></i>.</span>
 </li>
 <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">Đây chỉ là suy đoán thuần túy.</span>
 </li>

@@ -17,7 +17,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *syalmā*, gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SYAL&amp;action=edit&amp;redlink=1" title="SYAL (page does not exist)">SYAL-</a>.<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+Bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) *syalmā*, gốc <a class="new" href="https://tolkiengateway.net/w/index.php?title=SYAL&amp;action=edit&amp;redlink=1" title="SYAL (page does not exist)">SYAL-</a>.<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 

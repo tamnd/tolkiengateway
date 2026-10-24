@@ -35,4 +35,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Hornburg** là ca khúc thứ mười lăm trong *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md).
+**Bài Hornburg** là bài hát thứ mười lăm trong *[The Lord of the Rings: The Two Towers - Original Motion Picture Soundtrack](The_Lord_of_the_Rings%253A_The_Two_Towers_-_Original_Motion_Picture_Soundtrack.md)* của [Howard Shore](../H/Howard_Shore.md).

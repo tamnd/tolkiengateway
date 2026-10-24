@@ -38,11 +38,11 @@ langlinks:
 <dl><dd><dl><dd><dl><dd>*<small><i>Differ from Shire names.</i></small></dd></dl></dd></dl></dd></dl>
 </td></tr></tbody></table>
 
-**Frery** là tháng đầu tiên của lịch [Bree](../B/Bree.md) và [Eastfarthing](../E/Eastfarthing.md), tương ứng với [Afteryule](../A/Afteryule.md) trong [Lịch Shire](../S/Shire_Calendar.md). Đó là ba mươi ngày ngay sau ngày lễ [Yule](../Y/Yule.md), gần tương ứng với [23 tháng 12](../_/23_December.md) đến [21 tháng 1](../_/21_January.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Frery** là tháng đầu tiên trong lịch [Bree](../B/Bree.md) và [Eastfarthing](../E/Eastfarthing.md), tương ứng với [Afteryule](../A/Afteryule.md) trong [Lịch Shire](../S/Shire_Calendar.md). Đó là ba mươi ngày ngay sau ngày lễ [Yule](../Y/Yule.md), gần tương ứng với [23 tháng 12](../_/23_December.md) đến [21 tháng 1](../_/21_January.md) hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Frery đại diện cho [Tiếng Anh cổ](../O/Old_English.md) *frēorig* có nghĩa là "đóng băng".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Frery đại diện cho [tiếng Anh cổ](../O/Old_English.md) *frēorig* nghĩa là "đóng băng".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

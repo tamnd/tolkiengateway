@@ -34,7 +34,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien vừa trở về sau quá trình sản xuất "<a class="extiw" href="http://en.wikipedia.org/wiki/Arms_and_the_Man" title="wikipedia:Arms and the Man">Arms and the Man</a>" rất kém. Khi ở rạp hát, ông đã nhìn thấy [C. Williams](../C/Charles_Williams.md) cùng với người phụ nữ đang đánh máy Ring và hy vọng sẽ sớm gửi cho Christopher nhiều hơn nữa. Nếu không có Christopher nhìn thấy thì ông không nghĩ mình nên viết thêm mà đang bận sửa lại. Bây giờ nó đã đủ cũ để có một cái nhìn khách quan, ông nghĩ rằng chương "[Vua của Sảnh Vàng](../T/The_King_of_the_Golden_Hall.md)"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khá hay. <span></span>
+Tolkien vừa trở về sau quá trình sản xuất rất tệ bộ phim "<a class="extiw" href="http://en.wikipedia.org/wiki/Arms_and_the_Man" title="wikipedia:Arms and the Man">Arms and the Man</a>". Khi ở rạp hát, ông đã nhìn thấy [C. Williams](../C/Charles_Williams.md) cùng với người phụ nữ đang gõ Ring và hy vọng sẽ sớm gửi thêm Christopher nữa. Nếu không phải vì Christopher nhìn thấy thì anh không nghĩ mình nên viết thêm nữa, đang bận sửa lại. Bây giờ nó đã đủ cũ để có một cái nhìn khách quan, ông nghĩ rằng chương "[Vua của Golden Hall](../T/The_King_of_the_Golden_Hall.md)"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> khá hay. <span></span>
 
 ## Tài liệu tham khảo {#References}
 

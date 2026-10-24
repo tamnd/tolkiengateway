@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kilpatrick, Joel"
 ---
 
-- Joel Kilpatrick đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Joel_Kilpatrick.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Joel Kilpatrick đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Joel_Kilpatrick.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 1 tháng 6 năm 2015
 - Người dùng đã xin phép thông qua DeviantArt: [Người dùng:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

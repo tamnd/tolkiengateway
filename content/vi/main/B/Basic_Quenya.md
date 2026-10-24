@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Basic_Quenya.jpg.md"><img src="https://tolkiengateway.net/w/images/4/40/Basic_Quenya.jpg" decoding="async" loading="lazy" width="154" height="205" class="mw-file-element" data-file-width="154" data-file-height="205"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Basic Quenya</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../N/Nancy_Martsch.md" title="Nancy Martsch">Nancy Martsch</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Beyond Bree/Mensa Tolkien Special Interest Group</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">1st Edition <a href="../_/1992.md" title="1992">1992</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Plastic wrappers</td></tr></tbody></table>
 
-<i><b>Quenya cơ bản</b></i> là tuyển tập 'Bài học ngôn ngữ Quenya' được xuất bản lần đầu vào *[Beyond Bree](Beyond_Bree.md)* 1988-90. Bao gồm 'Phụ lục A - Bức thư của Dick Plotz' - phần này sao chép lại bản thảo "[Sự suy giảm Plotz](../T/The_Plotz_Declension.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và cũng bao gồm một ghi chú bổ sung.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Cơ bản Quenya</b></i> là tuyển tập 'Quenya Bài học ngôn ngữ' được xuất bản lần đầu vào *[Beyond Bree](Beyond_Bree.md)* 1988-90. Bao gồm 'Appendix A - Bức thư Dick Plotz' - phần này sao chép lại bản thảo "[Sự suy giảm Plotz](../T/The_Plotz_Declension.md)" của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và cũng bao gồm một ghi chú bổ sung.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phiên bản {#Editions}
 
@@ -38,11 +38,11 @@ infobox:
 - Ấn tượng đầu tiên - Tháng 3 năm 1993
 - Ấn tượng thứ 2 - Tháng 10 năm 1993
 - Ấn tượng lần thứ 3 - tháng 8 năm 1994
-- Ấn tượng lần thứ 4 - Tháng 9 năm 1995
+- Ấn tượng thứ 4 - tháng Chín 1995
 - Ấn tượng lần thứ 5 - Tháng 5 năm 1996
 - Ấn tượng lần thứ 6 - Tháng 5 năm 1997
-- Ấn tượng lần thứ 7 - Tháng 11 năm 2000
-- Ấn tượng lần thứ 8 - Tháng 9 năm 2002
+- Ấn tượng thứ 7 - Tháng 11 năm 2000
+- Ấn tượng thứ 8 - tháng Chín 2002
 - Ấn tượng lần thứ 9 - Tháng 7 năm 2005
 
 Có khả năng là đã có một số biến thể ràng buộc.

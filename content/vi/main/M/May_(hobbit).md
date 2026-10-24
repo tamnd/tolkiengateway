@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>May</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/Tighfield.md" title="Tighfield">Tighfield</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2928.md" title="Third Age 2928">1328</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Gamgee_Family~66365.md" title="Gamgee Family">Gamgee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../H/Hobson.md" title="Hobson">Roper Gamgee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data"><a href="../A/Andwise_Roper.md" title="Andwise Roper">Andy</a>, <a href="../G/Gaffer_Gamgee.md" title="Gaffer Gamgee">Hamfast</a> and <a href="../H/Halfred_of_Overhill.md" title="Halfred of Overhill">Halfred</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Female</td></tr></tbody></table>
 
-**May** là một [Hobbit](../H/Hobbits.md) của [Shire](../T/The_Shire.md).
+**Tháng 5** là tháng [Hobbit](../H/Hobbits.md) của [ngày Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -47,7 +47,7 @@ May là con gái của [Roper Gamgee](../H/Hobson.md).<sup id="cite_ref-1" class
 
 ## Từ nguyên {#Etymology}
 
-<i><a class="external text" href="http://en.wiktionary.org/wiki/may#Etymology_2" rel="noreferrer noopener" target="_blank">Tháng 5</a></i> có thể ám chỉ hoa táo gai nở rộ, gọi như vậy vì chúng nở vào tháng Năm. Đó là <a class="mw-disambig" href="May_(disambiguation).md" title="May (disambiguation)">tên một cô gái bình thường</a> ở [the Shire](../T/The_Shire.md).
+<i><a class="external text" href="http://en.wiktionary.org/wiki/may#Etymology_2" rel="noreferrer noopener" target="_blank">Tháng 5</a></i> có thể ám chỉ hoa táo gai nở rộ, gọi như vậy vì chúng nở vào tháng Năm. Đó là <a class="mw-disambig" href="May_(disambiguation).md" title="May (disambiguation)">tên một cô gái phổ biến</a> ở [the Shire](../T/The_Shire.md).
 
 <span></span>
 

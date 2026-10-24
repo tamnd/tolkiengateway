@@ -12,15 +12,15 @@ categories:
   - "Roots"
 ---
 
-**BARAT**, **BARATH**, **BARAD**, **BARAS** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "chiều cao vĩ đại kết hợp với sức mạnh, kích thước, sự uy nghiêm". Gốc cũng xuất hiện dưới dạng **BAR-AT/AD**, biểu thị "cao cả, cao cả".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**BARAT**, **BARATH**, **BARAD**, **BARAS** là [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "chiều cao vĩ đại kết hợp với sức mạnh, kích thước, uy nghi". Gốc cũng xuất hiện dưới dạng **BAR-AT/AD**, biểu thị "cao cả, cao cả".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
 - BARAT
-    - [Tiếng Sindarin](../S/Sindarin.md): *[barad](Barad.md)*; *[brand, brann](<Brand_(word).md#Sindarin>)*
+    - [Sindarin](../S/Sindarin.md): *[barad](Barad.md)*; *[brand, brann](<Brand_(word).md#Sindarin>)*
 
 - BARATH
-    - Tiếng Sindarin: *[bereth](Bereth.md)*
+    - Sindarin: *[bereth](Bereth.md)*
 
 - BARAD
     - [Quenya](../Q/Quenya.md): *[Varda](../V/Varda.md)*; *[varanda](../V/Varanda.md)*

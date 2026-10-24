@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Fire of Orthanc"
 ---
 
-Chuyển hướng đến [Ngọn lửa Orthanc](../F/Fire_of_Orthanc.md).
+Chuyển hướng tới [Ngọn lửa Orthanc](../F/Fire_of_Orthanc.md).

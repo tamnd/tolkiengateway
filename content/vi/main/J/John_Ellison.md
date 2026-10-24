@@ -20,7 +20,7 @@ sort_keys:
   "Tolkien Society members": "Ellison, John"
 ---
 
-**John Ellison** ([21 tháng 2](../_/21_February.md) [1932](../_/1932.md) - [26 tháng 6](../_/26_June.md) [2016](../_/2016.md)) là tác giả, biên tập viên và thành viên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Cùng với [Patricia Reynolds](../P/Patricia_Reynolds.md), ông đã biên tập sáu ấn bản tạp chí hàng năm của Hiệp hội *[Mallorn](<../M/Mallorn_(journal).md>)* và trong nhiều năm, ông là người đóng góp thường xuyên cho nhiều tập sách nhỏ và ấn phẩm của Hiệp hội.
+**John Ellison** ([21 tháng 2](../_/21_February.md) [1932](../_/1932.md) - [26 tháng 6](../_/26_June.md) [2016](../_/2016.md)) là tác giả, biên tập viên và thành viên của [Hội Tolkien](../T/The_Tolkien_Society.md). Cùng với [Patricia Reynolds](../P/Patricia_Reynolds.md), ông đã biên tập sáu ấn bản tạp chí hàng năm của Hiệp hội *[Mallorn](<../M/Mallorn_(journal).md>)* và trong nhiều năm, ông là người đóng góp thường xuyên cho nhiều tập sách nhỏ và ấn phẩm của Hiệp hội.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -38,11 +38,11 @@ sort_keys:
 - [1981](../_/1981.md): [*Amon Hen* 52](../A/Amon_Hen_52.md)
     - "Carl Maria von Weber: Âm nhạc của LOTR"
 - [1982](../_/1982.md): [*Amon Hen* 54](../A/Amon_Hen_54.md)
-    - "Hiện thực của Trung địa"
+    - "Thực tế của Trung Địa"
 - [1983](../_/1983.md): [*Amon Hen* 61](../A/Amon_Hen_61.md)
-    - "Âm nhạc liên quan đến Tolkien: Một bài phê bình"
+    - "Âm nhạc liên quan đến Tolkien: Một lời phê bình"
 - [1985](../_/1985.md): [*Mallorn* 22](../M/Mallorn_22.md)
-    - "Shire của Tolkien và Nuremberg của Wagner: một sự so sánh"
+    - "Tolkien Shire và Nuremberg của Wagner: một sự so sánh"
 - [1986](../_/1986.md): [*Amon Hen* 81](../A/Amon_Hen_81.md)
     - "Đánh giá nghệ thuật" (với [Christina Scull](../C/Christina_Scull.md))
 - [1986](../_/1986.md): [*Mallorn* 23](../M/Mallorn_23.md)
@@ -56,40 +56,40 @@ sort_keys:
 - [1991](../_/1991.md): *[Leaves from the Tree](../L/Leaves_from_the_Tree.md)*
     - "Tại sao và như thế nào: Suy ngẫm trên chiếc lá của Niggle"
 - [1991](../_/1991.md): [*Mallorn* 28](../M/Mallorn_28.md)
-    - "Những cảnh tuyệt vời và tiểu thuyết kinh dị: Những cột mốc trên con đường đến Trung địa"
+    - "Những cảnh tuyệt vời và tiểu thuyết kinh dị: Những cột mốc trên con đường tới Trung Địa"
 - [1992](../_/1992.md): *[The First and Second Ages](../T/The_First_and_Second_Ages.md)*
-    - "Từ Fëanor đến Bác sĩ Faustus: Một "người sáng tạo" tự hủy hoại chính mình"
+    - "Từ Fëanor đến Bác sĩ Faustus: Một "người sáng tạo" tự hủy diệt mình"
 - [1992](../_/1992.md): [*Mallorn* 29](../M/Mallorn_29.md)
     - "Tolkien và Beethoven"
 - [1993](../_/1993.md): [*Mallorn* 30](../M/Mallorn_30.md)
-    - "Nghệ thuật của Tolkien"
+    - "Tolkien's Art"
 - [1994](../_/1994.md): [*Mallorn* 31](../M/Mallorn_31.md)
-    - ""Trước những bức tường được bảo vệ": Pháo đài trên đồi và các địa điểm kiên cố ở phía bắc Eriador trong Thời đại thứ hai và thứ ba"
+    - ""Trước những bức tường được bảo vệ": Pháo đài trên đồi và các địa điểm kiên cố ở phía bắc Eriador ở Khu vực thứ hai và Kỷ Đệ Tam"
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
-    - "Baggins đã được ghi nhớ"
+    - "Baggins Đã nhớ"
 - [1996](../_/1996.md): *[Travel and Communication in Tolkien's Worlds](../T/Travel_and_Communication_in_Tolkien's_Worlds.md)*
-    - "Con đường vẫn tiếp tục: Tolkien sử dụng động cơ hành trình trong việc xây dựng Chúa tể của những chiếc nhẫn"
+    - "The Road Goes Ever On: Việc Tolkien sử dụng động cơ hành trình trong việc xây dựng The Lord of the Rings"
 - [1996](../_/1996.md): [*Mallorn* 34](../M/Mallorn_34.md)
     - "Gandalf, Frodo và Sherlock Holmes; huyền thoại và hiện thực được so sánh trong các tác phẩm của Tolkien và Conan Doyle"
 - [1997](../_/1997.md): [*Amon Hen* 148](../A/Amon_Hen_148.md)
     - "Cáo phó: Lester Simons"
 - [1998](../_/1998.md): [*Mallorn* 36](../M/Mallorn_36.md)
-    - "Thế giới của Tolkien và Wagner: âm nhạc của ngôn ngữ và ngôn ngữ của âm nhạc"
+    - "Tolkien Thế giới của và Wagner: âm nhạc của ngôn ngữ và ngôn ngữ của âm nhạc"
 - [1999](../_/1999.md): [*Mallorn* 37](../M/Mallorn_37.md)
     - "Đánh giá âm nhạc - Huyền thoại "Edda" từ Iceland thời trung cổ"
-    - "Lịch sử ảo của Trung địa"
+    - "Lịch sử ảo của Trung Địa"
 - [1999](../_/1999.md): *[Tolkien, the Sea and Scandinavia](../T/Tolkien,_the_Sea_and_Scandinavia.md)*
-    - "Tolkien-on-Sea: Quang cảnh từ bờ biển Trung Địa"
+    - "Tolkien-on-Biển: Quang cảnh từ bờ biển Trung Địa"
 - [2000](../_/2000.md): *[Tolkien: A Mythology for England?](../T/Tolkien%253A_A_Mythology_for_England%253F.md)*
-    - "Thần thoại nước Anh của Tolkien: Quận là 'Cộng đồng địa phương'"
+    - "Tolkien Thần thoại nước Anh: The Shire là 'Cộng đồng địa phương'"
 - [2001](../_/2001.md): [*Mallorn* 39](../M/Mallorn_39.md)
     - "Lịch sử thay thế: Góc nhìn của loài Orc"
 - [2002](../_/2002.md): [*Mallorn* 40](../M/Mallorn_40.md)
-    - "Giọng của Cây Râu"
+    - "Treebeard giọng nói"
 - [2003](../_/2003.md): [*Mallorn* 41](../M/Mallorn_41.md)
     - "Từ Fëanor đến Bác sĩ Faustus: con đường tự hủy diệt của người sáng tạo"
 - [2005](../_/2005.md): [*Mallorn* 43](../M/Mallorn_43.md)
-    - "Con đường vẫn tiếp tục: Tolkien sử dụng động cơ 'Hành trình' trong việc tái hiện Chúa tể của những chiếc nhẫn"
+    - "Con đường vẫn tiếp tục: Tolkien sử dụng động cơ 'Hành trình' trong việc tái thiết The Lord of the Rings"
 - [2006](../_/2006.md): [*Mallorn* 44](../M/Mallorn_44.md)
     - "Tolkien-on-sea: Quang cảnh từ bờ biển Trung Địa"
 - [2008](../_/2008.md): [*Amon Hen* 211](../A/Amon_Hen_211.md)

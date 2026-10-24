@@ -13,7 +13,7 @@ categories:
   - "Khuzdul words"
 ---
 
-<i><b>Vỏ cây</b></i>, xin vui lòng. <i><b>baruk</b></i>, là từ [Khuzdul](../K/Khuzdul.md) có nghĩa là "rìu".
+<i><b>Vỏ cây</b></i>, xin vui lòng. <i><b>baruk</b></i>, là một từ [Khuzdul](../K/Khuzdul.md) có nghĩa là "rìu".
 
 Đó là một ví dụ khác về "số nhiều bị hỏng" trong Khuzdul, tương tự như "khuzd" và "khazâd".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
@@ -25,7 +25,7 @@ It is possible that *baruk* is also a genitive case, meaning "axes of &lt;someth
 
 ## Ví dụ {#Example}
 
-- <i><a href="Baruk_Khazâd!_Khazâd_ai-mênu!.md" title="Baruk Khazâd! Khazâd ai-mênu!"><b>Baruk</b> Khazâd!</a></i> = "Rìu của Người Lùn!"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- <i><a href="Baruk_Khazâd!_Khazâd_ai-mênu!.md" title="Baruk Khazâd! Khazâd ai-mênu!"><b>Baruk</b> Khazâd!</a></i> = "Các trục của Người Lùn!"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

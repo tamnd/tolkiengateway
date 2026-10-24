@@ -28,29 +28,29 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 24</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/2021.md" title="2021">2021</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">78</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 24</b> là số thứ 24 của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 1 năm 2021.
+<b><i>Other Minds</i> 24</b> là số thứ 24 của *[Other Minds](Other_Minds.md)*, một tạp chí dành riêng cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 1 năm 2021.
 
 ## Nội dung {#Contents}
 
 - "Biên tập"
     - Bởi [Thomas Morwinsky](../T/Thomas_Morwinsky.md)
-- "Con Đường Mãi Mãi Đi"
+- "The Road Goes Ever On"
     - Bởi Thomas Morwinsky
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
 - "Máu trong nước"
     - Bởi Christoph Hardebusch
-- "Thời đại thứ tư của Trung Địa"
+- "Kỷ Đệ Tứ của Trung Địa"
     - Bởi Viel Nast
 - "Quạ và Quạ"
     - Bởi Thomas Morwinsky
 - "Hướng dẫn TOR tới vùng đất Lindon"
     - Bởi Andrew Laubacher
-- "Hai chị em và biển cả"
+- "Hai chị em và Biển"
     - Bởi Andrew Laubacher
-- "Hồ ma ám - Cuộc phiêu lưu ở Shire"
+- "Hồ ma ám - Một cuộc phiêu lưu Shire"
     - Bởi Andrew Laubacher
-- "Của ma và yêu tinh"
+- "Của ma và Goblin"
     - Bởi Christoph Hardebusch
 - "Một vụ bắt cóc hàng loạt"
     - Bởi Andreas Erdmann

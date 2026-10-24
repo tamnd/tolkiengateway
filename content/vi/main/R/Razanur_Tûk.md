@@ -13,13 +13,13 @@ categories:
   - "Took"
 ---
 
-**Razanur Tûk** là dạng [Westron](../W/Westron.md) thực sự của cái tên [Hobbitish](../H/Hobbitish.md) được [Tolkien](../J/J.R.R._Tolkien.md) biến thành "[Peregrin Took](../P/Peregrin_Took.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Razanur Tûk** là dạng [Westron](../W/Westron.md) thực tế của tên [Hobbitish](../H/Hobbitish.md) được [Tolkien](../J/J.R.R._Tolkien.md) Anh hóa thành "[Peregrin Took](../P/Peregrin_Took.md)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Trong *[The Peoples of Middle-earth](../T/The_Peoples_of_Middle-earth.md)*, Tolkien nói rằng *Razanur* là tên của một nhà du hành huyền thoại và xuất phát từ *raza* "người lạ" và *razan* "người nước ngoài".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Peregrin Taken - Tên và chức danh](../P/Peregrin_Took.md#Names_and_Titles)
+- [Peregrin Took - Tên và chức danh](../P/Peregrin_Took.md#Names_and_Titles)
 
 <span></span>
 

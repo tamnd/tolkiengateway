@@ -35,9 +35,9 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Oxford** là thành phố mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã dành phần lớn cuộc đời mình để sinh sống. Cả *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đều được viết ở Bắc Oxford.
+**Oxford** là thành phố mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã dành phần lớn cuộc đời mình để sinh sống. Cả *[The Hobbit](../T/The_Hobbit.md)* và *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* đều được viết bằng tiếng Bắc Oxford.
 
-[Gia đình Tolkien](../T/Tolkien_family~43191.md) cư trú tại [20 đường Northmoor](../_/20_Northmoor_Road.md) và vào [tháng 3](../M/March.md) [1947](../_/1947.md) họ chuyển đến [3 đường Manor](../_/3_Manor_Road.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Gia đình [Tolkien](../T/Tolkien_family~43191.md) cư trú tại [20 Đường Northmoor](../_/20_Northmoor_Road.md) và vào [tháng 3](../M/March.md) [1947](../_/1947.md) họ chuyển đến [3 Đường Manor](../_/3_Manor_Road.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <h2><span id="In_Tolkien.27s_writings"></span><span class="mw-headline" id="In_Tolkien&#39;s_writings">In Tolkien&#39;s writings</span></h2>
 
@@ -49,16 +49,16 @@ images:
 
 ### Huyền thoại sau này {#Later_legendarium}
 
-Tolkien ký tên *[Arcastar](../A/Arcastar.md) Mondósaresse* ("Tolkien in Oxford") trong một lá thư năm 1968 gửi nhà sản xuất bộ phim tài liệu BBC *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, <i><b>Mondósar</b></i> là tên [Quenya](../Q/Quenya.md) thích hợp cho "Oxford", có thể là từ ghép của *[mundo](../M/Mundo.md)* ("bull, ox") và [root](../R/Root.md) THAR.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Tolkien được ký là *[Arcastar](../A/Arcastar.md) Mondósaresse* ("Tolkien trong Oxford") trong một lá thư năm 1968 gửi nhà sản xuất bộ phim tài liệu BBC *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Do đó, <i><b>Mondósar</b></i> là tên [Quenya](../Q/Quenya.md) thích hợp cho "Oxford", có thể là từ ghép của *[mundo](../M/Mundo.md)* ("bull, ox") và [gốc](../R/Root.md) THAR.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Tại *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)* bị bỏ hoang, [Câu lạc bộ Notion](../N/Notion_Club.md) và các thành viên của nó có trụ sở tại Oxford.
+Tại *[The Notion Club Papers](../T/The_Notion_Club_Papers.md)* bị bỏ hoang, [Notion Club](../N/Notion_Club.md) và các thành viên của nó có trụ sở tại Oxford.
 
-Theo bản đồ [Trung địa](../M/Middle-earth.md) do Tolkien chú thích, [Hobbiton](../H/Hobbiton.md) có cùng vĩ độ với Oxford.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Theo bản đồ của [Trung Địa](../M/Middle-earth.md) được chú thích bởi Tolkien, [Hobbiton](../H/Hobbiton.md) ở cùng vĩ độ với Oxford.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Đại học Oxford](../U/University_of_Oxford.md)
-- [Từ điển tiếng Anh Oxford](Oxford_English_Dictionary.md)
+- [Oxford Từ điển tiếng Anh](Oxford_English_Dictionary.md)
 
 <span></span>
 

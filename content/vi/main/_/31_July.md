@@ -70,7 +70,7 @@ Sự kiện xảy ra vào ngày 31 tháng 7
 - **[1960](1960.md)** - J.R.R. Tolkien viết [Thư 223](../L/Letter_223.md).
 - **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 274a](../L/Letter_274a.md).
 - **[1969](1969.md)** - J.R.R. Tolkien viết [Thư 311](../L/Letter_311.md) lo lắng cho sức khỏe của ông.
-- **[1982](1982.md)** - Tập thứ ba phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
+- **[1982](1982.md)** - Tập thứ 3 phiên bản mới của loạt phim phát thanh [1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1988](1988.md)** - [Mythcon 19](../M/Mythcon_19.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1989](1989.md)** - [Mythcon 20](../M/Mythcon_20.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_British_Columbia" title="wikipedia:University of British Columbia">Đại học British Columbia</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Vancouver" title="wikipedia:Vancouver">Vancouver</a>.
 - **[1993](1993.md)** - [Roland Adlerberth](../R/Roland_Adlerberth.md) qua đời.

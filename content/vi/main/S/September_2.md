@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "2 September"
 ---
 
-Chuyển hướng đến [ngày 2 tháng 9](../_/2_September.md).
+Chuyển hướng đến [2 tháng Chín](../_/2_September.md).

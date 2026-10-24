@@ -22,7 +22,7 @@ images:
 <p class="tg-quote-footer"><cite><a href="../A/Aragorn.md" title="Aragorn">Aragorn</a></cite></p>
 </blockquote></div></div>
 
-<i><b>On Fairy-Stories</b></i> là một bài tiểu luận được viết bởi [Tolkien](../J/J.R.R._Tolkien.md) kể về người đọc bước vào một thế giới đầy truyện cổ tích. Một đoạn trích được hiển thị dưới đây.
+<i><b>Về Truyện Cổ Tích</b></i> là một bài tiểu luận của tác giả [Tolkien](../J/J.R.R._Tolkien.md) kể về người đọc bước vào thế giới đầy những câu chuyện cổ tích. Một đoạn trích được hiển thị dưới đây.
 
 <blockquote class="tg-quote noexcerpt">
 <p>The realm of fairy-story is wide and deep and high and filled with many things: all manner of beasts and birds are found there; shoreless seas and stars uncounted; beauty that is an enchantment, and an ever-present peril; both joy and sorrow sharp as swords. In that realm a man may, perhaps, count himself fortunate to have wandered, but its very richness and strangeness tie the tongue of the traveller who would report them. And while he is there it is dangerous for him to ask too many questions, lest the gate should be shut and the keys be lost.
@@ -32,13 +32,13 @@ images:
 
 ## Lịch sử xuất bản {#Publication_history}
 
-Ban đầu nó là một bài giảng tại Đại học St. Andrews, vào tháng 3 [1939](../_/1939.md). Tolkien được yêu cầu nói về <a class="extiw" href="http://en.wikipedia.org/wiki/Andrew_Lang" title="wikipedia:Andrew Lang">Andrew Lang</a>, một tác giả nổi tiếng về văn học dân gian ở thế kỷ 19. Tolkien chọn chủ đề “truyện cổ tích”.
+Ban đầu nó là một bài giảng tại Đại học St. Andrews, vào tháng 3 [1939](../_/1939.md). Tolkien được yêu cầu nói về <a class="extiw" href="http://en.wikipedia.org/wiki/Andrew_Lang" title="wikipedia:Andrew Lang">Andrew Lang</a>, một tác giả nổi tiếng về văn học dân gian thế kỷ 19. Tolkien chọn chủ đề “truyện cổ tích”.
 
-Trong những năm tiếp theo, Tolkien mở rộng bài giảng và viết một bài tiểu luận, lần đầu tiên xuất hiện dưới dạng in ở *[Essays Presented to Charles Williams](../E/Essays_Presented_to_Charles_Williams.md)*, [1947](../_/1947.md).
+Trong những năm tiếp theo Tolkien mở rộng bài giảng và viết một bài tiểu luận, lần đầu tiên xuất hiện dưới dạng in ở *[Essays Presented to Charles Williams](../E/Essays_Presented_to_Charles_Williams.md)*, [1947](../_/1947.md).
 
-Trong [1964](../_/1964.md), khi xuất bản *[Tree and Leaf](../T/Tree_and_Leaf.md)*, Tolkien đã tận dụng cơ hội để sửa lại bài luận, mặc dù không đáng kể.
+Trong [1964](../_/1964.md), khi xuất bản *[Tree and Leaf](../T/Tree_and_Leaf.md)*, Tolkien đã có cơ hội sửa lại bài luận, mặc dù không đáng kể.
 
-Trong [1983](../_/1983.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) đã in lại phiên bản năm 1964 trong tuyển tập các bài tiểu luận của cha ông *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics_and_Other_Essays.md)*.
+Trong [1983](../_/1983.md), [Christopher Tolkien](../C/Christopher_Tolkien.md) in lại bản năm 1964 trong tuyển tập tiểu luận của cha ông *[The Monsters and the Critics and Other Essays](../T/The_Monsters_and_the_Critics_and_Other_Essays.md)*.
 
 Trong [2008](../_/2008.md), [Verlyn Flieger](../V/Verlyn_Flieger.md) và [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã cùng nhau chỉnh sửa bản thảo của bài luận và xuất bản [phiên bản mở rộng](../T/Tolkien_On_Fairy-stories~23734.md) của tác phẩm, trong đó họ bình luận về bài luận và theo dõi sự phát triển của nó một cách chi tiết.
 

@@ -71,7 +71,7 @@ Sự kiện xảy ra vào ngày 29 tháng 11
 - **[1943](1943.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 52](../L/Letter_52.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 91](../L/Letter_91.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 91a](../L/Letter_91a.md).
-- **[1955](1955.md)** - Tập thứ ba của [loạt phim phát thanh năm 1955](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* phát sóng trên [BBC](../B/BBC.md) Chương trình thứ ba.
+- **[1955](1955.md)** - Tập thứ ba của [loạt phim phát thanh năm 1955](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* phát sóng trên Chương trình thứ ba [BBC](../B/BBC.md).
 - **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nhờ thư ký của ông, [Joy Hill](../J/Joy_Hill.md), biên soạn danh sách các tác phẩm chưa xuất bản trong đó có *[The End of Bovadium](../T/The_End_of_Bovadium.md)*.
 - **[1971](1971.md)** – [Edith Tolkien](../E/Edith_Tolkien.md) qua đời sau một thời gian ngắn nhưng bị bệnh nặng do viêm túi mật.
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 331](../L/Letter_331.md).
@@ -81,4 +81,4 @@ Sự kiện xảy ra vào ngày 29 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

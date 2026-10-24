@@ -19,9 +19,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Simonne_d&#39;Ardenne_21_September_1937.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/34/Simonne_d%27Ardenne_21_September_1937.png/300px-Simonne_d%27Ardenne_21_September_1937.png" decoding="async" loading="lazy" width="300" height="258" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/3/34/Simonne_d%27Ardenne_21_September_1937.png 1.5x" data-file-width="432" data-file-height="371"/></a><figcaption></figcaption></figure>
 
-Vào [21 tháng 9](../_/21_September.md) [1937](../_/1937.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) gửi [Simonne d'Ardenne](../S/Simonne_d'Ardenne.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào ngày [21 tháng Chín](../_/21_September.md) [1937](../_/1937.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho [Simonne d'Ardenne](../S/Simonne_d'Ardenne.md)**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Mô tả:** bức thư viết tay dài 1 trang, kèm theo bản sao *[The Hobbit](../T/The_Hobbit.md)* (xuất bản vào ngày này) do Tolkien gửi làm quà cho Simonne d'Ardenne.
+- **Mô tả:** lá thư viết tay dài 1 trang, kèm theo bản sao *[The Hobbit](../T/The_Hobbit.md)* (xuất bản ngày hôm nay) do Tolkien gửi làm quà tặng cho Simonne d'Ardenne.
 - **Lưu trữ:** Bức thư được lưu giữ tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a>.<sup id="cite_ref-JRRVF_2-0" class="reference"><a href="#cite_note-JRRVF-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}

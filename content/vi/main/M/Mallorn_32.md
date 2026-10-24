@@ -38,7 +38,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn32.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/c/cc/Mallorn32.jpg/320px-Mallorn32.jpg" decoding="async" loading="lazy" width="320" height="468" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/c/cc/Mallorn32.jpg/480px-Mallorn32.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/c/cc/Mallorn32.jpg/640px-Mallorn32.jpg 2x" data-file-width="4790" data-file-height="6998"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 32</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../P/Patricia_Reynolds.md" title="Patricia Reynolds">Pat Reynolds</a> and <a href="../J/John_Ellison.md" title="John Ellison">John Ellison</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/1995.md" title="1995">1995</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">36</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_31.md" title="Mallorn 31">Mallorn 31</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a class="mw-redirect" href="Mallorn_33.md" title="Mallorn 33">Mallorn 33</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 32</b> là số thứ 32 của tạp chí [The Tolkien Society](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào tháng 9 [1995](../_/1995.md).
+<b><i>Mallorn</i> 32</b> là số thứ 32 của tạp chí [Hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản trên tháng Chín [1995](../_/1995.md).
 
 ## Nội dung {#Contents}
 
@@ -50,7 +50,7 @@ infobox:
     - Bởi: Clive Tolley
 - "Sự sụp đổ từ ân sủng"
     - Bởi: Len Stanford
-- "Một thần tiên được thanh lọc sắc tộc? Tolkien và vấn đề nước Anh"
+- "Một thần tiên được thanh lọc sắc tộc? Tolkien và vấn đề của nước Anh"
     - Bởi: [David Doughan](../D/David_Doughan.md)
 - **Cuộc thi làm thơ chuông**
 - **Thư**
@@ -64,4 +64,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/33/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/33/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

@@ -13,9 +13,9 @@ categories:
   - "Telerin nouns"
 ---
 
-<i><b>tolma</b></i> là một từ [Telerin](Telerin.md) có nghĩa là "núm, tay cầm ngắn, tròn".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>tolma</b></i> là một [Telerin](Telerin.md) từ để chỉ "núm, tay cầm ngắn, tròn".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng từ này (và ý nghĩa của nó) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Helge Fauskanger](../H/Helge_Fauskanger.md) đã gợi ý rằng từ này (và nghĩa của nó) có thể hợp lệ [Neo-Quenya](../N/Neo-Quenya.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

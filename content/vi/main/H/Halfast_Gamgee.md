@@ -48,19 +48,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/320px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg" decoding="async" loading="lazy" width="320" height="318" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/480px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/47/Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg/640px-Miriam_Ellis_-_What_Hal_saw_beyond_the_North_Moors.jpg 2x" data-file-width="1000" data-file-height="994"/></a><figcaption>&#34;What Hal saw beyond <a href="../N/North_Moors.md" title="North Moors">the North Moors</a>&#34; by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Halfast Gamgee</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Hal</td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../O/Overhill.md" title="Overhill">Overhill</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_2972.md" title="Third Age 2972">1372</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Gamgee_Family~66365.md" title="Gamgee Family">Gamgee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Halfred_of_Overhill.md" title="Halfred of Overhill">Halfred of Overhill</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Halfast_Gamgee.md" title="Category:Images of Halfast Gamgee">Images of Halfast Gamgee</a></td></tr></tbody></table>
 
-**Halfast "Hal" Gamgee** là một [Hobbit](Hobbits.md) của [Shire](../T/The_Shire.md).
+**Halfast "Hal" Gamgee** là [Hobbit](Hobbits.md) của [the Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Halfast là con trai của [Halfred](Halfred_of_Overhill.md), chú của [Samwise Gamgee](../S/Samwise_Gamgee.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông làm việc cho [Mr. Boffin](../B/Boffin_Family~66342.md) ở [Overhill](../O/Overhill.md) và thường lên [Northfarthing](../N/Northfarthing.md) để săn bắn.
+Halfast là con trai của [Halfred](Halfred_of_Overhill.md), chú của [Samwise Gamgee](../S/Samwise_Gamgee.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Ông làm việc cho [Mr. Boffin](../B/Boffin_Family~66342.md) ở [Overhill](../O/Overhill.md) và thường lên [Northfarthing](../N/Northfarthing.md) để săn.
 
 Ông ta nổi tiếng với những câu chuyện hoang dã về những điều ông ta nhìn thấy. Theo báo cáo, ông ta đã gặp phải một "[Người cây](../T/Tree-men.md)" khi đi săn bên ngoài [North Moors](../N/North_Moors.md).
 
-Sam đề cập đến tin đồn này với [Ted Sandyman](../T/Ted_Sandyman.md) trong khi thảo luận về những tin tức kỳ lạ được nghe ở [the Shire](../T/The_Shire.md) xung quanh [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sam đã đề cập đến tin đồn này với [Ted Sandyman](../T/Ted_Sandyman.md) trong khi thảo luận về những tin tức kỳ lạ được nghe trong [the Shire](../T/The_Shire.md) xung quanh [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Cái tên này có thể xuất phát từ [tiếng Anh cổ](../O/Old_English.md) *hālfæst* có nghĩa là "mạnh mẽ và chắc chắn".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Cái tên này có thể xuất phát từ [tiếng Anh cổ](../O/Old_English.md) *hālfæst* có nghĩa là "mạnh mẽ và vững chắc".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -83,7 +83,7 @@ Cái tên này có thể xuất phát từ [tiếng Anh cổ](../O/Old_English.m
 		</li>
 </ul>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Hal Gamgee lives in the town of Oatbarton in the <a href="../N/Northfarthing.md" title="Northfarthing">Northfarthing</a> of <a href="../T/The_Shire.md" title="The Shire">The Shire</a>, which in-game is located within <a href="../E/Evendim.md" title="Evendim">Evendim</a> region.</dd></dl>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Barahir"
 ---
 
-Chuyển hướng tới [Barahir](Barahir.md).
+Chuyển hướng đến [Barahir](Barahir.md).

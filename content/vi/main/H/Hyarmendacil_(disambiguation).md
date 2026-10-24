@@ -23,10 +23,10 @@ images:
   - "Disambig.png"
 ---
 
-**Hyarmendacil** có nghĩa là "Người chiến thắng miền Nam" trong [Quenya](../Q/Quenya.md) (từ *[Hyarmen](Hyarmen.md)*, "Miền Nam" và *[dacil](../D/Dacil.md)*, "người chiến thắng") và có thể tham khảo:
+**Hyarmendacil** có nghĩa là "Người chiến thắng miền Nam" trong [Quenya](../Q/Quenya.md) (từ *[Hyarmen](Hyarmen.md)*, "Miền Nam" và *[dacil](../D/Dacil.md)*, "kẻ chiến thắng"), và có thể tham khảo:
 
-- [Hyarmendacil I](Hyarmendacil_I.md) ([T.A.](../T/Third_Age.md) [899](../T/Third_Age_899.md) - [1149](../T/Third_Age_1149.md)), tên khai sinh là Ciryaher, [Vua](../K/Kings_of_Gondor.md) thứ mười lăm của [Gondor](../G/Gondor.md), người đã cai trị trong thời kỳ quyền lực đỉnh cao của [Gondor](../G/Gondor.md).
-- [Hyarmendacil II](Hyarmendacil_II.md) ([T.A.](../T/Third_Age.md) [1391](../T/Third_Age_1391.md) - [1621](../T/Third_Age_1621.md)), tên khai sinh là Vinyarion, [Vua](../K/Kings_of_Gondor.md) thứ 24 của [Gondor](../G/Gondor.md), người đã đánh bại cuộc xâm lược của [Haradrim](Haradrim.md).
+- [Hyarmendacil I](Hyarmendacil_I.md) ([T.A.](../T/Third_Age.md) [899](../T/Third_Age_899.md) - [1149](../T/Third_Age_1149.md)), tên khai sinh là Ciryaher, [Vua](../K/Kings_of_Gondor.md) thứ mười lăm của [Gondor](../G/Gondor.md), người đã cai trị trong thời kỳ đỉnh cao quyền lực của [Gondor](../G/Gondor.md).
+- [Hyarmendacil II](Hyarmendacil_II.md) ([T.A.](../T/Third_Age.md) [1391](../T/Third_Age_1391.md) - [1621](../T/Third_Age_1621.md)), tên khai sinh là Vinyarion, [Vua](../K/Kings_of_Gondor.md) thứ 24 của [Gondor](../G/Gondor.md), người đã đánh bại một cuộc xâm lược [Haradrim](Haradrim.md).
 
 <hr style="margin-top:15px;"/>
 

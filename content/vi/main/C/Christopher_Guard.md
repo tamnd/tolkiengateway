@@ -20,9 +20,9 @@ sort_keys:
   "People by name": "Guard, Christopher"
 ---
 
-**Christopher Guard** ([Ngày 5 tháng 12](../_/5_December.md), [1953](../_/1953.md)) là một diễn viên người Anh. Anh lồng tiếng cho [Frodo Baggins](../F/Frodo_Baggins.md) trong [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>). Ông là anh trai của [Dominic Guard](../D/Dominic_Guard.md), người đóng vai [Peregrin Took](../P/Peregrin_Took.md).
+**Christopher Guard** ([Ngày 5 tháng 12](../_/5_December.md), [1953](../_/1953.md)) là một diễn viên người Anh. Ông lồng tiếng cho [Frodo Baggins](../F/Frodo_Baggins.md) trong [*The Lord of the Rings* (phim 1978)](<../T/The_Lord_of_the_Rings_(1978_film).md>). Ông là anh trai của [Dominic Guard](../D/Dominic_Guard.md), người đã chơi [Peregrin Took](../P/Peregrin_Took.md).
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="extiw" href="http://en.wikipedia.org/wiki/Christopher_Guard" title="wikipedia:Christopher Guard">Christopher Guard</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://www.imdb.com/name/nm0345295/" rel="noreferrer noopener" target="_blank">Christopher Guard</a> tại <a class="external text" href="http://www.imdb.com" rel="noreferrer noopener" target="_blank">IMDb</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Christopher_Guard" title="wikipedia:Christopher Guard">Christopher Bảo vệ</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="external text" href="http://www.imdb.com/name/nm0345295/" rel="noreferrer noopener" target="_blank">Christopher Bảo vệ</a> tại <a class="external text" href="http://www.imdb.com" rel="noreferrer noopener" target="_blank">IMDb</a>

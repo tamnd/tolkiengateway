@@ -43,7 +43,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../Q/Quenta_Silmarillion.md" title="Quenta Silmarillion">Quenta Silmarillion</a></i>, &#34;<a href="../O/Of_the_Voyage_of_Eärendil_and_the_War_of_Wrath.md" title="Of the Voyage of Eärendil and the War of Wrath">Of the Voyage of Eärendil and the War of Wrath</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Cuộc tàn sát người thân thứ ba** là cuộc tấn công thảm khốc vào [Nơi trú ẩn của Sirion](../H/Havens_of_Sirion.md) bởi những [Sons of Fëanor](../S/Sons_of_Fëanor.md) còn sống sót trong [F.A.](../F/First_Age.md) [538](../F/First_Age_538.md).<sup id="cite_ref-Years_1-0" class="reference"><a href="#cite_note-Years-1">[1]</a></sup> Trận chiến được coi là trận chiến tồi tệ nhất trong ba trận <a class="mw-redirect mw-disambig" href="../K/Kinslaying.md" title="Kinslaying">Kinslayings</a>.
+**Cuộc tàn sát đồng tộc lần thứ ba** là cuộc tấn công thảm khốc vào [Các Cảng Sirion](../H/Havens_of_Sirion.md) bởi những [các Con trai của Fëanor](../S/Sons_of_Fëanor.md) còn sống sót trong [F.A.](../F/First_Age.md) [538](../F/First_Age_538.md).<sup id="cite_ref-Years_1-0" class="reference"><a href="#cite_note-Years-1">[1]</a></sup> Trận chiến được coi là trận chiến tồi tệ nhất trong ba trận <a class="mw-redirect mw-disambig" href="../K/Kinslaying.md" title="Kinslaying">Kinslayings</a>.
 
 ## Nền {#Background}
 
@@ -55,11 +55,11 @@ infobox:
 
 ### Mở đầu {#Prelude}
 
-Khi [Maedhros](../M/Maedhros.md) biết rằng [Elwing](../E/Elwing.md) sống sót sau sự hủy diệt của Doriath và cư trú tại Bến cảng cùng với viên Silmaril, ông ta đã rút tay lại nhưng ngay sau đó lời thề đã buộc ông ta phải hành động và gửi lời đến Cảng để đòi viên ngọc. Người dân của Havens cũng như Elwing đã từ chối.<sup id="cite_ref-TSVE_4-0" class="reference"><a href="#cite_note-TSVE-4">[4]</a></sup>
+Khi [Maedhros](../M/Maedhros.md) biết rằng [Elwing](../E/Elwing.md) sống sót sau sự hủy diệt của Doriath và cư trú tại Havens cùng với Silmaril, ông ta đã từ chối bàn tay của mình nhưng ngay sau đó lời thề đã buộc ông ta phải hành động và gửi lời đến Havens để đòi viên ngọc. Người dân của Cảng cũng như Elwing đã từ chối.<sup id="cite_ref-TSVE_4-0" class="reference"><a href="#cite_note-TSVE-4">[4]</a></sup>
 
 ### Trận chiến {#Battle}
 
-Phương sách cuối cùng, Sons of Fëanor đã cướp phá Havens trong nơi được coi là 'vụ <a class="mw-disambig" href="../K/Kinslaying_(disambiguation).md" title="Kinslaying (disambiguation)">tàn ác nhất</a> của Elf bởi Elf'. Một số người Fëanarian đã không tham gia vào cuộc tàn sát và nổi dậy chống lại lãnh chúa của họ giúp đỡ Elwing và đến lượt họ bị giết. Maedhros và [Maglor](../M/Maglor.md) cuối cùng đã giành được chiến thắng nhưng họ không giành được Silmaril vì Elwing đã gieo mình xuống biển cùng với nó. [Amrod](../A/Amrod.md) và [Amras](../A/Amras.md) đã bị giết trong trận chiến, chỉ còn lại Maedhros và Maglor là những người con trai còn lại của Fëanor.<sup id="cite_ref-TSVE_4-1" class="reference"><a href="#cite_note-TSVE-4">[4]</a></sup>
+Phương sách cuối cùng, các Con trai của Fëanor đã cướp phá các Cảng trong nơi được coi là 'vụ tàn ác nhất trong số <a class="mw-disambig" href="../K/Kinslaying_(disambiguation).md" title="Kinslaying (disambiguation)">vụ tàn sát</a> Tiên của Tiên'. Một số người Fëanarian đã không tham gia vào cuộc tàn sát và nổi dậy chống lại sự trợ giúp của lãnh chúa Elwing và đến lượt họ bị giết. Maedhros và [Maglor](../M/Maglor.md) giành chiến thắng cuối cùng nhưng họ không giành được Silmaril vì Elwing đã lao mình xuống biển cùng với nó. [Amrod](../A/Amrod.md) và [Amras](../A/Amras.md) đã bị giết trong trận chiến, chỉ còn lại Maedhros và Maglor là những người con còn lại của Fëanor.<sup id="cite_ref-TSVE_4-1" class="reference"><a href="#cite_note-TSVE-4">[4]</a></sup>
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/Jenny_Dolfen_-_As_little_might_be_thought.jpeg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ab/Jenny_Dolfen_-_As_little_might_be_thought.jpeg/200px-Jenny_Dolfen_-_As_little_might_be_thought.jpeg" decoding="async" loading="lazy" width="200" height="291" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ab/Jenny_Dolfen_-_As_little_might_be_thought.jpeg/300px-Jenny_Dolfen_-_As_little_might_be_thought.jpeg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ab/Jenny_Dolfen_-_As_little_might_be_thought.jpeg/400px-Jenny_Dolfen_-_As_little_might_be_thought.jpeg 2x" data-file-width="700" data-file-height="1018"/></a><figcaption><i>As little might be thought</i> by <a href="../J/Jenny_Dolfen.md" title="Jenny Dolfen">Jenny Dolfen</a></figcaption></figure>
 
@@ -67,15 +67,15 @@ Nhà thơ [Mannish](../M/Men.md) [Dírhavel](../D/Dírhavel.md) cũng nằm tron
 
 ### Hậu quả {#Aftermath}
 
-Khi tin tức về cuộc đột kích của Sons of Fëanor đến [Balar](../B/Balar.md), [Círdan](../C/Círdan.md) và [Gil-galad](../G/Gil-galad.md) đi thuyền đến Cảng nhưng đã quá muộn để giúp đỡ Yêu tinh. Những người sống sót sau cuộc đột kích đã cùng Círdan và Gil-galad đến Đảo Balar. [Elrond](../E/Elrond.md) và [Elros](../E/Elros.md), con trai của [Eärendil](../E/Eärendil.md) và Elwing, đã bị Maedhros và Maglor bắt giữ, mặc dù sau đó Maglor dần yêu quý họ và nhận nuôi họ.<sup id="cite_ref-TSVE_4-2" class="reference"><a href="#cite_note-TSVE-4">[4]</a></sup>
+Khi tin tức về cuộc đột kích của các Con trai của Fëanor truyền đến [Balar](../B/Balar.md), [Círdan](../C/Círdan.md) và [Gil-galad](../G/Gil-galad.md) lên đường đến Cảng nhưng đã quá muộn để giúp đỡ Tiên tộc. Những người sống sót sau cuộc đột kích đã gia nhập Círdan và Gil-galad vào Đảo Balar. [Elrond](../E/Elrond.md) và [Elros](../E/Elros.md), con trai của [Eärendil](../E/Eärendil.md) và Elwing, đã bị Maedhros và Maglor bắt giữ, mặc dù sau này Maglor dần yêu thương và nhận nuôi chúng.<sup id="cite_ref-TSVE_4-2" class="reference"><a href="#cite_note-TSVE-4">[4]</a></sup>
 
-Elwing và Silmaril không bị mất khi [Ulmo](../U/Ulmo.md) bế cô lên khỏi sóng và mang hình dạng một con chim trắng lớn và cô bay qua biển để tìm kiếm Eärendil. Cuối cùng cô đã tìm thấy ông ta và sử dụng Silmaril, cả hai đã đến được [Aman](../A/Aman.md).<sup id="cite_ref-TSVE_4-3" class="reference"><a href="#cite_note-TSVE-4">[4]</a></sup>
+Elwing và Silmaril không bị mất khi [Ulmo](../U/Ulmo.md) nâng cô lên khỏi sóng và mang hình dạng một con chim trắng lớn và cô bay qua biển để tìm kiếm Eärendil. Cuối cùng cô đã tìm thấy ông và sử dụng Silmaril cả hai đã đến được [Aman](../A/Aman.md).<sup id="cite_ref-TSVE_4-3" class="reference"><a href="#cite_note-TSVE-4">[4]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Phiên bản đầu tiên của trận chiến được kể trong ghi chú của *[The Tale of Eärendel](The_Tale_of_Eärendel.md)*, trong phiên bản đầu tiên này, cuộc đột kích được thực hiện bởi [Melko](../M/Morgoth.md) trong đó Elwing bị bắt giữ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Cuộc đột kích này sau đó đã bị hủy bỏ và cuộc đột kích vào Cảng được thực hiện bởi Sons of Fëanor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Lần lặp lại đầu tiên của trận chiến được kể trong ghi chú của *[The Tale of Eärendel](The_Tale_of_Eärendel.md)*, trong phiên bản đầu tiên này, cuộc đột kích được thực hiện bởi [Melko](../M/Morgoth.md) trong đó Elwing bị bắt giữ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Việc này sau đó đã bị hủy bỏ và cuộc đột kích vào Bến cảng được thực hiện bởi các Con trai của Fëanor.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
-Trong *[Annals of Beleriand](../A/Annals_of_Beleriand.md)* có ghi rằng Damrod và Díriel (tên trước đây của Amrod và Amras) dẫn đầu cuộc tấn công vào Cảng với Maidros và Maglor miễn cưỡng hỗ trợ họ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
+Trong *[Annals of Beleriand](../A/Annals_of_Beleriand.md)* có lưu ý rằng Damrod và Díriel (tên trước đó của Amrod và Amras) dẫn đầu cuộc tấn công vào Cảng cùng với Maidros và Maglor miễn cưỡng hỗ trợ họ.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>
 
 <span></span>
 

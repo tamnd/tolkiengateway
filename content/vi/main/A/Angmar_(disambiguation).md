@@ -14,21 +14,21 @@ images:
   - "Disambig.png"
 ---
 
-**Angmar** có thể đề cập đến:
+**Angmar** có thể tham khảo:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Angmar](Angmar.md)**, vương quốc của [Vua phù thủy](../W/Witch-king.md)
+- **[Angmar](Angmar.md)**, vương quốc của [Vua Phù thủy](../W/Witch-king.md)
 
 ## Các tác phẩm chuyển thể và sách {#Adaptations_and_books}
 
-- *[Angmar: Land of the Witch King](Angmar%253A_Land_of_the_Witch_King.md)*, phần bổ sung trò chơi năm 1982 dành cho [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md)
-- *[Angmar (book)](<Angmar_(book).md>)*, phần bổ sung trò chơi năm 1995 dành cho [Nhập vai ở Trung Địa](../M/Middle-earth_Role_Playing.md)
+- *[Angmar: Land of the Witch King](Angmar%253A_Land_of_the_Witch_King.md)*, phần bổ sung trò chơi năm 1982 dành cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)
+- *[Angmar (book)](<Angmar_(book).md>)*, phần bổ sung trò chơi năm 1995 dành cho [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)
 - *[Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, tập I của trò chơi *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md)*
 
 ## Cộng đồng người hâm mộ {#Fandom}
 
-- [Angmar, Malmö Tolkiensällskap](Angmar,_Malmö_Tolkiensällskap.md), Hiệp hội Tolkien Thụy Điển ở Malmö
+- [Angmar, Malmö Tolkiensällskap](Angmar,_Malmö_Tolkiensällskap.md), một Tolkien Hiệp hội Malmö của Thụy Điển
 
 <hr style="margin-top:15px;"/>
 

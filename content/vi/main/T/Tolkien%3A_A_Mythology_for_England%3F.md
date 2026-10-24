@@ -42,16 +42,16 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_-_A_Mythology_for_England.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/e8/Tolkien_-_A_Mythology_for_England.jpg/320px-Tolkien_-_A_Mythology_for_England.jpg" decoding="async" loading="lazy" width="320" height="471" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/e/e8/Tolkien_-_A_Mythology_for_England.jpg 1.5x" data-file-width="340" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien: A Mythology for England?</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Richard Crawshaw</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">C. Raynor</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2000.md" title="2000">2000</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">72</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-905520-16-5" title="Special:BookSources/0-905520-16-5">0-905520-16-5</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../P/Peter_Roe_Memorial_Fund.md" title="Peter Roe Memorial Fund">Peter Roe Memorial Fund</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Ways_of_Creative_Mythologies.md" title="The Ways of Creative Mythologies">The Ways of Creative Mythologies</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Best_of_Amon_Hen.md" title="The Best of Amon Hen">The Best of Amon Hen</a> Part 1</td></tr></tbody></table>
 
-<i><b>Tolkien: A Mythology for England?</b></i> là tuyển tập các kỷ yếu của Hội thảo của Hiệp hội Tolkien lần thứ 13 được tổ chức tại Cambridge vào năm 1999. Cuốn sách được xuất bản bởi [Hiệp hội Tolkien](The_Tolkien_Society.md) tại [2000](../_/2000.md) dưới sự bảo trợ của [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
+<i><b>Tolkien: Thần thoại cho nước Anh?</b></i> là tuyển tập kỷ yếu của Hội thảo Xã hội Tolkien lần thứ 13 được tổ chức tại Cambridge vào năm 1999. Cuốn sách được xuất bản bởi [Hội Tolkien](The_Tolkien_Society.md) tại [2000](../_/2000.md) dưới sự bảo trợ của [Quỹ tưởng niệm Peter Roe](../P/Peter_Roe_Memorial_Fund.md).
 
 ## Nội dung {#Contents}
 
-- "Người La Mã ở Trung Địa: Những tiền lệ cổ điển cho quan niệm ban đầu về thần thoại của Tolkien" của Allan Turner
-- "Quái vật, Maldon và Thánh nữ: Thần thoại có thật của Tolkien dành cho nước Anh" của Andrew Wells
+- "Người La Mã trong Trung Địa: Tiền lệ cổ điển cho quan niệm ban đầu về thần thoại của Tolkien" của Allan Turner
+- "Quái vật, Maldon và Thánh nữ: Thần thoại có thật của Tolkien đối với nước Anh" của Andrew Wells
 - "Suy ngẫm về những câu chuyện cổ tích" của Gwydion M. Williams
 - "Nước Anh? Nước Anh nào?: Khái niệm về tiếng Anh 1982-1954" của [David Doughan](../D/David_Doughan.md)
-- "Một số nhà tạo nên huyền thoại người Anh: Thành công và thất bại trước Tolkien" của Christine Davidson
-- "Thần thoại nước Anh của Tolkien: Quận là 'Cộng đồng địa phương'" của [John Ellison](../J/John_Ellison.md)
+- "Một số người tạo ra huyền thoại người Anh: Thành công và thất bại trước Tolkien" của Christine Davidson
+Thần thoại nước Anh của - "Tolkien: The Shire với tư cách là 'Cộng đồng địa phương'" của [John Ellison](../J/John_Ellison.md)
 
 <br clear="all"/>
 

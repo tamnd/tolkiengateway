@@ -30,11 +30,11 @@ langlinks:
     url: "https://kontu.wiki/Rohanin_kuninkaat"
 ---
 
-**Vua xứ Mark**, thường được người ngoài gọi là **Vua của Rohan**, là tước hiệu cha truyền con nối của các quốc vương thuộc vương quốc [Rohan](../R/Rohan.md), hậu duệ của [Người phương Bắc](../N/Northmen.md).
+**Vua của Mark**, thường được người ngoài gọi là **Vua Rohan**, là tước hiệu cha truyền con nối của các vị vua của vương quốc [Rohan](../R/Rohan.md), hậu duệ của [Người phương Bắc](../N/Northmen.md).
 
 ## Lịch sử {#History}
 
-Tất cả các vị vua đều thuộc cùng một triều đại, [Nhà Eorl](../H/House_of_Eorl.md), được chia thành các dòng riêng biệt khi một vị vua không được kế vị bởi hậu duệ nam trực tiếp của mình (trong cả hai trường hợp, em gái-con trai của nhà vua đều lên ngôi).
+Tất cả các vị vua đều thuộc cùng một triều đại, [Nhà Eorl](../H/House_of_Eorl.md), được chia thành các dòng riêng biệt khi một vị vua không được kế vị bởi hậu duệ nam trực tiếp của mình (trong cả hai trường hợp, em gái của nhà vua đều lên ngôi).
 
 ### Dòng đầu tiên {#First_Line}
 
@@ -193,4 +193,4 @@ Tất cả các vị vua đều thuộc cùng một triều đại, [Nhà Eorl](
 
 ## Xem thêm {#See_also}
 
-- [Nhà Eorl](../H/House_of_Eorl.md)
+- [Nhà của Eorl](../H/House_of_Eorl.md)

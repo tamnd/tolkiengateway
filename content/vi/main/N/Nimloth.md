@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nimloth (disambiguation)"
 ---
 
-Chuyển hướng tới [Nimloth (định hướng)](<Nimloth_(disambiguation).md>).
+Chuyển hướng đến [Nimloth (định hướng)](<Nimloth_(disambiguation).md>).

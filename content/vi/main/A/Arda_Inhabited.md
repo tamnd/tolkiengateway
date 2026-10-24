@@ -31,7 +31,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Arda_Inhabited.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0f/Arda_Inhabited.jpg/314px-Arda_Inhabited.jpg" decoding="async" loading="lazy" width="314" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0f/Arda_Inhabited.jpg/471px-Arda_Inhabited.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0f/Arda_Inhabited.jpg/628px-Arda_Inhabited.jpg 2x" data-file-width="1674" data-file-height="2560"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Arda Inhabited</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Susan Jeffers</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Kent State University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/30_October.md" title="30 October">30 October</a> <a href="../_/2014.md" title="2014">2014</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">128</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-160635201-4" title="Special:BookSources/978-160635201-4">978-160635201-4</a></td></tr></tbody></table>
 
-<i><b>Arda Inhabited</b></i> là một cuốn sách học thuật năm 2014 của Susan Jeffers. Cuốn sách đề cập đến chủ nghĩa môi trường trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và cách các nhân vật tương tác với môi trường của họ.
+<i><b>Arda Người ở</b></i> là cuốn sách mang tính học thuật năm 2014 của Susan Jeffers. Cuốn sách đề cập đến chủ nghĩa môi trường trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và cách các nhân vật tương tác với môi trường của họ.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -42,4 +42,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.kentstateuniversitypress.com/2013/arda-inhabited/" rel="noreferrer noopener" target="_blank"><i>Arda Inhabited</i> tại Nhà xuất bản Đại học Bang Kent</a>
+- <a class="external text" href="http://www.kentstateuniversitypress.com/2013/arda-inhabited/" rel="noreferrer noopener" target="_blank"><i>Arda Cư trú</i> tại Nhà xuất bản Đại học bang Kent</a>

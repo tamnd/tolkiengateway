@@ -24,18 +24,18 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-**Người lùn bị thiêu rụi** là một nhóm [Người lùn](../D/Dwarves.md) được đặt tên sau khi được vinh danh một cách đáng tự hào trong lễ tưởng niệm sau khi thi thể của họ bị người thân của họ đốt cháy sau [Trận chiến Azanulbizar](Battle_of_Azanulbizar.md).<sup id="cite_ref-Burned_1-0" class="reference"><a href="#cite_note-Burned-1">[1]</a></sup>
+Những người **bị thiêu Người Lùn** là một nhóm [Người Lùn](../D/Dwarves.md) được truy tặng đã được vinh danh một cách đầy tự hào để tưởng nhớ sau khi thi thể của họ bị người thân của họ đốt cháy sau [Trận Azanulbizar](Battle_of_Azanulbizar.md).<sup id="cite_ref-Burned_1-0" class="reference"><a href="#cite_note-Burned-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Sau [Trận chiến Azanulbizar](Battle_of_Azanulbizar.md) đẫm máu,<sup id="cite_ref-pyre_2-0" class="reference"><a href="#cite_note-pyre-2">[2]</a></sup> những Người lùn sống sót đã không thể xử lý người chết một cách hợp lý, không có thời gian để xây những ngôi mộ bằng đá và từ chối chôn cất những người đồng đội đã hy sinh của họ dưới lòng đất, điều này trái với truyền thống của họ.<sup id="cite_ref-Burned_1-1" class="reference"><a href="#cite_note-Burned-1">[1]</a></sup> Vì vậy, họ không có lựa chọn nào khác ngoài việc đốt xác trên nhiều giàn thiêu sau khi tước bỏ vũ khí và áo giáp của họ<sup id="cite_ref-pyre_2-1" class="reference"><a href="#cite_note-pyre-2">[2]</a></sup> để ngăn chặn sự xúc phạm đến người thân của họ bằng cách [chim](../../category/B/Birds.md), [thú vật](../K/Kelvar.md) và xác thịt-[orc](../O/Orcs.md).<sup id="cite_ref-Burned_1-2" class="reference"><a href="#cite_note-Burned-1">[1]</a></sup> Khói của vụ cháy này được nhìn thấy xa tới tận [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-pyre_2-2" class="reference"><a href="#cite_note-pyre-2">[2]</a></sup>
+Sau hậu quả của [Trận Azanulbizar](Battle_of_Azanulbizar.md) đẫm máu,<sup id="cite_ref-pyre_2-0" class="reference"><a href="#cite_note-pyre-2">[2]</a></sup> những Người Lùn sống sót đã không thể xử lý người chết một cách hợp lý, không có thời gian để xây dựng những ngôi mộ đá và từ chối chôn cất những người đồng đội đã hy sinh của họ dưới lòng đất, điều này trái với truyền thống của họ.<sup id="cite_ref-Burned_1-1" class="reference"><a href="#cite_note-Burned-1">[1]</a></sup> Vì vậy, họ không có lựa chọn nào khác ngoài việc đốt xác trên nhiều giàn thiêu sau khi tước bỏ vũ khí và áo giáp của họ<sup id="cite_ref-pyre_2-1" class="reference"><a href="#cite_note-pyre-2">[2]</a></sup> để ngăn chặn sự xúc phạm đến người thân của họ bằng cách [chim](../../category/B/Birds.md), [thú vật](../K/Kelvar.md) và xác thịt-[orc](../O/Orcs.md).<sup id="cite_ref-Burned_1-2" class="reference"><a href="#cite_note-Burned-1">[1]</a></sup> Khói của vụ cháy này được nhìn thấy xa tới tận [Lothlórien](../L/Lothlórien.md).<sup id="cite_ref-pyre_2-2" class="reference"><a href="#cite_note-pyre-2">[2]</a></sup>
 
-Cho đến ngày nay, bất kỳ Người lùn nào có người thân bị thiêu rụi tại [Azanulbizar](../A/Azanulbizar.md) sẽ tự hào nói rằng tổ tiên của họ là Người lùn bị thiêu rụi, điều đó đủ để tôn vinh họ.<sup id="cite_ref-Burned_1-3" class="reference"><a href="#cite_note-Burned-1">[1]</a></sup>
+Cho đến ngày nay, bất kỳ Người lùn nào có người thân bị thiêu tại [Azanulbizar](../A/Azanulbizar.md) đều có thể tự hào nói rằng tổ tiên của họ là một Người lùn bị thiêu rụi, điều đó cũng đủ để tôn vinh họ.<sup id="cite_ref-Burned_1-3" class="reference"><a href="#cite_note-Burned-1">[1]</a></sup>
 
-## Người lùn bị đốt cháy được biết đến {#Known_burned_Dwarves}
+## Đã biết đã cháy Người Lùn {#Known_burned_Dwarves}
 
 - [Frerin](../F/Frerin.md)
-- [Tài trợ](../F/Fundin.md)
+- [Fundin](../F/Fundin.md)
 - [Náin](<../N/Náin_(son_of_Grór).md>)
 
 <span></span>

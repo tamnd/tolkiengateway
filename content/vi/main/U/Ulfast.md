@@ -64,9 +64,9 @@ infobox:
 
 Sau khi vào [Beleriand](../B/Beleriand.md), Ulfast cùng với cha và các anh trai của mình gia nhập phục vụ [Caranthir](../C/Caranthir.md).<sup id="cite_ref-Ulf_2-1" class="reference"><a href="#cite_note-Ulf-2">[2]</a></sup>
 
-Tuy nhiên, cuối cùng, mục đích của cha anh, Ulfang ngay từ đầu là phản bội [Yêu tinh](../E/Elves.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> mà ông và các anh em của mình cuối cùng đã làm trong [Trận chiến nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md), dưới sự lãnh đạo của [Uldor](Uldor.md) Kẻ bị nguyền rủa - họ quay lưng lại với các đồng minh của mình, tấn công họ từ phía sau. Tuy nhiên, sự phản bội của họ tỏ ra rất quan trọng trong cuộc chiến chống lại lực lượng của Morgoth và Morgoth đã chiến thắng.<sup id="cite_ref-Nirn_4-0" class="reference"><a href="#cite_note-Nirn-4">[4]</a></sup>
+Tuy nhiên, cuối cùng, mục đích của cha anh Ulfang ngay từ đầu là phản bội [Tiên tộc](../E/Elves.md),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> mà ông và các anh trai của mình cuối cùng đã làm trong [Trận chiến không nước mắt](../B/Battle_of_Unnumbered_Tears.md), dưới sự lãnh đạo của [Uldor](Uldor.md) Kẻ bị nguyền rủa - họ quay lưng lại với đồng minh của mình, tấn công họ từ phía sau. Tuy nhiên, sự phản bội của họ tỏ ra rất quan trọng trong cuộc chiến chống lại lực lượng của Morgoth và Morgoth đã giành chiến thắng.<sup id="cite_ref-Nirn_4-0" class="reference"><a href="#cite_note-Nirn-4">[4]</a></sup>
 
-Tuy nhiên, Ulfast, cũng như anh trai [Ulwarth](Ulwarth.md) của anh đã bị giết bởi các con trai của [Bór](../B/Bór.md), những người vẫn trung thành với các con trai của [Fëanor](../F/Fëanor.md) trong trận chiến - trong khi anh trai của Ulfast là Uldor bị giết bởi [Maglor](../M/Maglor.md).<sup id="cite_ref-Nirn_4-1" class="reference"><a href="#cite_note-Nirn-4">[4]</a></sup>
+Tuy nhiên, Ulfast, cũng như anh trai [Ulwarth](Ulwarth.md) của anh đã bị giết bởi các con trai của [Bór](../B/Bór.md), những người vẫn trung thành với các con trai của [Fëanor](../F/Fëanor.md) trong trận chiến - trong khi anh trai của Ulfast Uldor bị giết bởi [Maglor](../M/Maglor.md).<sup id="cite_ref-Nirn_4-1" class="reference"><a href="#cite_note-Nirn-4">[4]</a></sup>
 
 ## Phả hệ<sup><a class="mw-selflink-fragment" href="#Ulfast&#39;s_year_of_birth">NB</a></sup> {#GenealogyNB}
 
@@ -78,7 +78,7 @@ Tuy nhiên, Ulfast, cũng như anh trai [Ulwarth](Ulwarth.md) của anh đã b�
 
 ## Từ nguyên {#Etymology}
 
-Tên *Ulfast* có lẽ không phải là tên thật của nhân vật, vì nó có vẻ là [Sindarin](../S/Sindarin.md) có nghĩa là "Mái tóc xù xì xấu xí": <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ul-&amp;action=edit&amp;redlink=1" title="Ul- (page does not exist)">ul-</a></i> ("xấu xí") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fast&amp;action=edit&amp;redlink=1" title="Fast (page does not exist)">fast</a></i> ("tóc xù xì").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup>
+Tên *Ulfast* có lẽ không phải là tên thật của nhân vật, vì nó có vẻ là [Sindarin](../S/Sindarin.md) của "mái tóc xù xì xấu xí": <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ul-&amp;action=edit&amp;redlink=1" title="Ul- (page does not exist)">ul-</a></i> ("xấu xí") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Fast&amp;action=edit&amp;redlink=1" title="Fast (page does not exist)">fast</a></i> ("tóc xù xì").<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup>
 
 Một điều gây tò mò về cái tên *Ulfast* là nó vẫn không thay đổi từ khi hình thành cho đến [huyền thoại](../L/Legendarium.md) sau này.
 
@@ -86,9 +86,9 @@ Một điều gây tò mò về cái tên *Ulfast* là nó vẫn không thay đ�
 
 ### Các phiên bản trước của *[Nirnaeth](../N/Nirnaeth.md)* {#Earlier_versions_of_the_Nirnaeth}
 
-Theo phiên bản trước đó của truyền thuyết, thay vì bị giết bởi các con trai của [Bór](../B/Bór.md), cả Ulfast và anh trai Ulwar đều sống sót sau Trận chiến nước mắt không đếm được - trên thực tế, họ chính là những người đã giết Bor và các con trai ông trong trận chiến.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Theo phiên bản trước đó của truyền thuyết, thay vì bị giết bởi các con trai của [Bór](../B/Bór.md), cả Ulfast và anh trai Ulwar đều sống sót sau Trận chiến nước mắt không đếm được - trên thực tế, họ chính là những người đã giết Bor và các con trai ông ta trong trận chiến.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
-Tuy nhiên, mặc dù Morgoth đã cam kết những vùng đất tốt hơn cho Ulfang, cha của Ulfast, nhưng cuối cùng ông ta đã thất hứa và đày những người còn lại của mình (dưới sự lãnh đạo của Ulfast và Ulwar) đến [Hithlum](../H/Hithlum.md), một vùng đất cằn cỗi và hoang tàn; Morgoth cũng cấm họ du hành đến những vùng đất khác.
+Tuy nhiên, mặc dù Morgoth đã cam kết trao những vùng đất tốt hơn cho Ulfang, cha của Ulfast, nhưng cuối cùng ông ta đã thất hứa và đày những người còn lại của mình (dưới sự lãnh đạo của Ulfast và Ulwar) đến [Hithlum](../H/Hithlum.md), một vùng đất cằn cỗi và hoang tàn; Morgoth cũng cấm họ du hành đến những vùng đất khác.
 
 Sau đó, người dân Ulfast và Ulwar đã đàn áp dã man những người dân bản địa còn lại của [Hádor](../H/House_of_Hador.md), những người đã sống ở đó trước khi họ đến.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
@@ -96,14 +96,14 @@ Sau đó, người dân Ulfast và Ulwar đã đàn áp dã man những người
 
 Trong phụ lục *[The Lost Road and Other Writings](../T/The_Lost_Road_and_Other_Writings.md)* trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Genealogies&amp;action=edit&amp;redlink=1" title="The Genealogies (page does not exist)">Gia phả</a></i> (có niên đại từ đầu [1930s](../_/1930.md)) có ghi rằng Ulfast sinh năm 128.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[8]</a></sup>
 
-Khi so sánh ngày tháng trên với văn bản liên quan *[The Earliest Annals of Beleriand](../T/The_Earliest_Annals_of_Beleriand.md)*, Ulfast ra đời 35 năm trước khi [Những người da đen](../S/Swarthy_Men.md) tiến vào Beleriand vào năm 163.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup>
+Khi so sánh ngày tháng trên với văn bản liên quan *[The Earliest Annals of Beleriand](../T/The_Earliest_Annals_of_Beleriand.md)*, Ulfast ra đời 35 năm trước khi [Swarthy Con Người](../S/Swarthy_Men.md) nhập vào Beleriand vào năm 163.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[9]</a></sup>
 
 Ngoài ra, những ngày tháng được tìm thấy trong *The Earliest Annals of Beleriand* nhìn chung đã chuyển về tương lai 300 năm sau vào *[The Grey Annals](../T/The_Grey_Annals.md)* (khoảng đầu [1950](../_/1950.md)), chẳng hạn như một sự kiện xảy ra vào năm 195 ở *The Earliest Annals* hiện đã xảy ra vào năm [495](../F/First_Age_495.md).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[10]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Mặc dù <i><a href="../E/Eldamo.md" title="Eldamo">Eldamo</a></i> coi tên <i>Ulfast</i> là tiếng Sindarin, nhưng các phần cấu thành của nó thực sự nằm trong <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (vốn là ngôn ngữ tiền thân của Sindarin).</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Trong khi <i><a href="../E/Eldamo.md" title="Eldamo">Eldamo</a></i> coi tên <i>Ulfast</i> là Sindarin, các phần cấu thành của nó thực tế nằm trong <a href="../N/Noldorin.md" title="Noldorin">Noldorin</a> (vốn là ngôn ngữ tiền thân của Sindarin).</span>
 </li>
 </ol></div></span>
 

@@ -24,11 +24,11 @@ images:
 
 Tên ban đầu được tạo ra bởi người vẽ bản đồ và nhà thư pháp [Daniel Reeve](../D/Daniel_Reeve.md) khi đang làm việc trên nội dung bản đồ được cấp phép cho bộ ba phim và hàng hóa liên quan.
 
-Lần đầu tiên nó xuất hiện là trong bản đồ [Maps of Middle-earth](../M/Maps_of_Middle-earth.md) dành cho [Decipher](../D/Decipher.md) *[The Lord of the Rings Roleplaying Game](The_Lord_of_the_Rings_Roleplaying_Game.md)*, nơi nó xuất hiện dưới dạng một nhãn nhỏ bên dưới nơi có vẻ như là một pháo đài gần bờ phía tây của [Biển Nurnen](../S/Sea_of_Nurnen.md) mà không cần trình bày thêm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Reeve sau đó đã sử dụng bản đồ Decipher làm mẫu khi được giao nhiệm vụ thiết kế bản đồ hàng hóa mở rộng cho *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.<sup id="cite_ref-reeve-site_2-0" class="reference"><a href="#cite_note-reeve-site-2">[2]</a></sup><sup id="cite_ref-reeve-mail_3-0" class="reference"><a href="#cite_note-reeve-mail-3">[3]</a></sup>
+Lần đầu tiên nó xuất hiện là trong [Maps of Trung Địa](../M/Maps_of_Middle-earth.md) bản đồ dành cho [Decipher](../D/Decipher.md)'s *[The Lord of the Rings Roleplaying Game](The_Lord_of_the_Rings_Roleplaying_Game.md)*, nơi nó xuất hiện dưới dạng một nhãn nhỏ bên dưới nơi có vẻ như là một pháo đài gần bờ phía tây của [Biển Nurnen](../S/Sea_of_Nurnen.md) mà không cần trình bày thêm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Reeve sau đó đã sử dụng bản đồ Decipher làm mẫu khi được giao nhiệm vụ thiết kế bản đồ hàng hóa mở rộng cho *[The Lord of the Rings: The Return of the King](The_Lord_of_the_Rings%253A_The_Return_of_the_King.md)*.<sup id="cite_ref-reeve-site_2-0" class="reference"><a href="#cite_note-reeve-site-2">[2]</a></sup><sup id="cite_ref-reeve-mail_3-0" class="reference"><a href="#cite_note-reeve-mail-3">[3]</a></sup>
 
 ## Các điều chỉnh tiếp theo {#Further_adaptations}
 
-### Trung Địa: Cái bóng của Mordor {#Middle-earth:_Shadow_of_Mordor}
+### Trung Địa: Bóng Tối trong số Mordor {#Middle-earth:_Shadow_of_Mordor}
 
 Thaurband được đề cập trong một mục nhật ký được mã hóa ở [Middle-earth: Shadow of Mordor](../M/Middle-earth%253A_Shadow_of_Mordor.md):<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -37,9 +37,9 @@ Thaurband được đề cập trong một mục nhật ký được mã hóa �
 </p>
 </blockquote>
 
-### Chúa tể của những chiếc nhẫn trực tuyến {#The_Lord_of_the_Rings_Online}
+### The Lord of the Rings Trực tuyến {#The_Lord_of_the_Rings_Online}
 
-Mặc dù địa điểm này không được ghé thăm ở [The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md), Thaurband được nhắc đến trong nhiệm vụ chống lại Gloom of Nurn, [Nazgûl](../N/Nazgûl.md) sống ở đó:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Mặc dù địa điểm này không được ghé thăm ở [The Lord of the Rings Online](The_Lord_of_the_Rings_Online.md), Thaurband được nhắc đến trong nhiệm vụ chiến đấu với Gloom of Nurn, [Nazgûl](../N/Nazgûl.md) sống ở đó:<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <blockquote class="tg-quote noexcerpt">
 <p>He dwelt in Thaurband, a fortress in southern Mordor, not far from the inland Sea. It was from that keep that the fear of him spread, giving him a new title to replace the name he no longer needed. He became the Gloom of Núrn, though he did not stay there, and roved far and wide at Sauron&#39;s command.
@@ -55,11 +55,11 @@ Trang fansite [Thelandofshadow.com](Thelandofshadow.com.md) đã lấy một s�
 </p>
 </blockquote>
 
-Thông tin từ Vùng đất bóng tối đã được đưa vào dưới dạng sửa đổi đôi chút vào quạt *Mordor Gazetteer* của nhóm mô-đun quạt Nhập vai Trung Địa (MERP).
+Thông tin từ The Land of Bóng Tối đã được đưa vào dưới dạng sửa đổi một chút vào quạt *Mordor Gazetteer* của nhóm mô-đun quạt Middle-earth Role Playing (MERP).
 
 ## Từ nguyên {#Etymology}
 
-*Thaurband* có vẻ là tên [Sindarin](../S/Sindarin.md), có nghĩa là "Nhà tù kinh hoàng". Nó dường như chứa các yếu tố *[thaur](Thaur.md)* ("gớm ghiếc", "khủng khiếp")<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và *[band](../B/Band.md)* ("nhà tù", "giam giữ", "cưỡng ép")<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>.
+*Thaurband* có vẻ là một cái tên [Sindarin](../S/Sindarin.md), có nghĩa là "Nhà tù kinh hoàng". Nó dường như chứa các yếu tố *[thaur](Thaur.md)* ("gớm ghiếc", "khủng khiếp")<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> và *[band](../B/Band.md)* ("nhà tù", "giam giữ", "cưỡng ép")<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>.
 
 ## Thư viện {#Gallery}
 

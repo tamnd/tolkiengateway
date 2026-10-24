@@ -33,7 +33,7 @@ infobox:
 
 <i><b>Thiên đường</b></i> là một cuốn tiểu thuyết đồ họa giả tưởng của Micah Harris và Michael Gaydos.
 
-Câu chuyện lấy bối cảnh ở [1938](../_/1938.md) và có lịch sử hư cấu về cuộc đời của ba [Inklings](../I/Inklings.md): [Charles Williams](../C/Charles_Williams.md) (tựa đề "Heaven's War" có thể là một vở kịch dựa trên cuốn tiểu thuyết đầu tiên của Williams, *[War in Heaven](../W/War_in_Heaven.md)*), [Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md).
+Câu chuyện lấy bối cảnh ở [1938](../_/1938.md) và có lịch sử hư cấu về cuộc đời của ba [Inklings](../I/Inklings.md): [Charles Williams](../C/Charles_Williams.md) (tựa đề "Thiên Chiến" có thể là một vở kịch dựa trên tiểu thuyết đầu tiên của Williams, *[War in Heaven](../W/War_in_Heaven.md)*), [Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md).
 
 Williams từng là thành viên của xã hội Hermetic, là nhân vật chính của câu chuyện.
 

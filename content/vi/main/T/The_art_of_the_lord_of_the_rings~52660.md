@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Art of The Lord of the Rings"
 ---
 
-Chuyển hướng đến [Nghệ thuật của Chúa tể những chiếc nhẫn](The_Art_of_The_Lord_of_the_Rings.md).
+Chuyển hướng đến [Nghệ thuật The Lord of the Rings](The_Art_of_The_Lord_of_the_Rings.md).

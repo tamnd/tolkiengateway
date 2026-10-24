@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien viết rằng ông hy vọng [Christopher](../C/Christopher_Tolkien.md), khi đó 15 tuổi và là học sinh tại [The Oratory School](../T/The_Oratory_School.md), gần đây không có bất kỳ cuộc không kích nào và "không có gì thú vị hay thú vị" xảy ra trong tuần trước. Tuy nhiên, một số quả bom đã rơi vào thứ Sáu, một trong số chúng đủ lớn để đánh thức [Priscilla](../P/Priscilla.md) và [Edith](../E/Edith.md), và thời gian <a class="extiw" href="http://en.wikipedia.org/wiki/Blackout_(wartime)#United_Kingdom_2" title="wikipedia:Blackout (wartime)">mất điện</a> sớm thật khó chịu vì nó khiến Tolkien không thể đi đâu vào buổi tối. Tolkien cũng đề cập đến "một cốc bia nhanh với [Lewis](../C/C.S._Lewis.md)". <br>
+Tolkien viết rằng ông hy vọng [Christopher](../C/Christopher_Tolkien.md), khi đó 15 tuổi và là học sinh tại [The Oratory School](../T/The_Oratory_School.md), gần đây không có bất kỳ cuộc không kích nào và "không có gì thú vị hay thú vị" xảy ra trong tuần trước. Tuy nhiên, một số quả bom đã rơi vào thứ Sáu, một trong số chúng đủ lớn để đánh thức [Priscilla](../P/Priscilla.md) và [Edith](../E/Edith.md), và thời gian <a class="extiw" href="http://en.wikipedia.org/wiki/Blackout_(wartime)#United_Kingdom_2" title="wikipedia:Blackout (wartime)">mất điện</a> sớm thật khó chịu vì nó khiến Tolkien không thể đi đâu vào buổi tối. Tolkien cũng đề cập đến "một ly bia nhanh với [Lewis](../C/C.S._Lewis.md)". <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

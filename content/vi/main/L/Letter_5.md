@@ -30,17 +30,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><i><a href="../T/The_Letters_of_J.R.R._Tolkien.md" title="The Letters of J.R.R. Tolkien">The Letters of J.R.R. Tolkien</a></i></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letter 5</span></th></tr><tr><th scope="row" class="tg-infobox-label">Recipient</th><td class="tg-infobox-data"><a href="../G/Geoffrey_Bache_Smith.md" title="Geoffrey Bache Smith">G.B. Smith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Date</th><td class="tg-infobox-data"><a href="../_/12_August.md" title="12 August">12 August</a> <a href="../_/1916.md" title="1916">1916</a></td></tr><tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../T/T.C.B.S..md" title="T.C.B.S.">T.C.B.S.</a><br/><a href="../W/World_War_I.md" title="World War I">World War I</a></td></tr></tbody></table>
 
-**Thư 5** là bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
+**Thư 5** là một bức thư được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và đăng trên *[The Letters of J.R.R. Tolkien](../T/The_Letters_of_J.R.R._Tolkien.md)*.
 
 ## Tóm tắt {#Summary}
 
 [Geoffrey Bache Smith](../G/Geoffrey_Bache_Smith.md) đã viết một lá thư cho Tolkien và kèm theo đó là lá thư của người bạn [Barrovian](../T/T.C.B.S..md) [Christopher Wiseman](../C/Christopher_Wiseman.md).
 
-Tolkien suy ngẫm về cái chết của người bạn chung của họ, [Robert Gilson](../R/Robert_Gilson.md) và bày tỏ sự không đồng tình với cách giải thích của Christopher về sự vĩ đại của Rob. Tolkien tin rằng sự vĩ đại mà Gilson đạt được sau cái chết khác với sự vĩ đại mà họ đã hình dung cho mình với tư cách là thành viên của T.C.B.S.
+Tolkien suy ngẫm về cái chết của người bạn chung của họ, [Robert Gilson](../R/Robert_Gilson.md) và bày tỏ sự không đồng tình với cách giải thích của Christopher về sự vĩ đại của Rob. Tolkien tin rằng sự vĩ đại mà Gilson đạt được khi chết khác với sự vĩ đại mà họ đã hình dung cho mình với tư cách là thành viên của T.C.B.S.
 
-Ông thảo luận về cuộc đấu tranh của mình để dung hòa nguyện vọng của họ với thực tế về cái chết của Gilson và bày tỏ cảm giác mất mát cũng như không chắc chắn về tương lai của nhóm họ; “Thành thật mà nói, tôi cảm thấy rằng TCBS đã kết thúc – nhưng tôi không hoàn toàn chắc chắn rằng đó không phải là cảm giác không đáng tin cậy sẽ biến mất – có lẽ giống như một phép thuật khi chúng ta gặp lại nhau.” Tolkien chia sẻ hy vọng của mình về việc TCBS tiếp tục hoạt động vì tác động của nó đối với cá nhân ông.
+Ông thảo luận về cuộc đấu tranh của mình để dung hòa nguyện vọng của họ với thực tế về cái chết của Gilson và bày tỏ cảm giác mất mát cũng như không chắc chắn về tương lai của nhóm họ; “Thành thật mà nói, tôi cảm thấy rằng TCBS đã kết thúc – nhưng tôi không hoàn toàn chắc chắn rằng đó không phải là cảm giác không đáng tin cậy sẽ biến mất – có lẽ giống như một phép thuật khi chúng ta gặp lại nhau.” Tolkien chia sẻ hy vọng về việc TCBS tiếp tục hoạt động vì tác động của nó đối với cá nhân anh.
 
-Ông kết luận bằng cách thừa nhận sự khó khăn trong việc bày tỏ suy nghĩ của mình một cách rõ ràng giữa sự hỗn loạn của chiến tranh và khuyến khích G.B. Smith chia sẻ bức thư với Christopher.
+Ông kết thúc bằng việc thừa nhận sự khó khăn trong việc bày tỏ suy nghĩ của mình một cách rõ ràng giữa sự hỗn loạn của chiến tranh và khuyến khích G.B. Smith chia sẻ bức thư với Christopher.
 
 <br>
 

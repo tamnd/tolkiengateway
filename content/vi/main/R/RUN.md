@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**RUN** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) với nhiều ý nghĩa khác nhau.
+**RUN** là một [Primitive Quendian](../P/Primitive_Quendian.md) [root](../S/Sundocarme.md) với nhiều ý nghĩa khác nhau.
 
 ## CHẠY<sup>1</sup> {#RUN1}
 
@@ -20,13 +20,13 @@ categories:
 
 - Công cụ phái sinh:
     - [Quenya](../Q/Quenya.md): *runya* ("khe, dấu chân"); *tallune* ("lòng bàn chân")<sup id="cite_ref-Ety_1-1" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
-    - [Noldorin](../N/Noldorin.md): *rhoein*, *rhein* ("khe, dấu chân, dấu vết, dấu chân")<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
+    - [Noldorin](../N/Noldorin.md): *rhoein*, *rhein* ("khe, dấu hiệu, rãnh, dấu chân")<sup id="cite_ref-Ety_1-2" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup>
 
 ## CHẠY<sup>2</sup> {#RUN2}
 
 - Ý nghĩa: "chà, mài, làm mịn, đánh bóng"<sup id="cite_ref-PE17_2-0" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 
-- Từ phái sinh: [Quenya](../Q/Quenya.md) *runda* ("mịn, bóng")<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
+- Đạo hàm: [Quenya](../Q/Quenya.md) *runda* ("mịn, bóng")<sup id="cite_ref-PE17_2-1" class="reference"><a href="#cite_note-PE17-2">[2]</a></sup>
 
 - Xem thêm: [Lebethron#Từ nguyên](../L/Lebethron.md#Etymology)
 

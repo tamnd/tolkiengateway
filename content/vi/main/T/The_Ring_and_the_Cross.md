@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Ring_and_the_Cross.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/5e/The_Ring_and_the_Cross.jpg/320px-The_Ring_and_the_Cross.jpg" decoding="async" loading="lazy" width="320" height="479" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/5/5e/The_Ring_and_the_Cross.jpg 1.5x" data-file-width="334" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Ring and the Cross:<br/><small>Christianity and The Lord of the Rings</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Paul E. Kerry (editor)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Fairleigh Dickinson University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">310</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-1611470642" title="Special:BookSources/978-1611470642">978-1611470642</a></td></tr></tbody></table>
 
-<i><b>Chiếc nhẫn và cây thánh giá: Cơ đốc giáo và Chúa tể của những chiếc nhẫn</b></i> là tuyển tập các tiểu luận mang tính học thuật về ảnh hưởng của [Cơ đốc giáo](../C/Christianity.md) trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Khối lượng đồng hành của nó là *[Light Beyond All Shadow: Religious Experience in Tolkien's Work](../L/Light_Beyond_All_Shadow.md)*.
+<i><b>Chiếc nhẫn và cây thánh giá: Cơ đốc giáo và The Lord of the Rings</b></i> là một tuyển tập các tiểu luận học thuật về ảnh hưởng của [Cơ đốc giáo](../C/Christianity.md) trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Khối lượng đồng hành của nó là *[Light Beyond All Shadow: Religious Experience in Tolkien's Work](../L/Light_Beyond_All_Shadow.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -53,23 +53,23 @@ infobox:
 - Giới thiệu (Paul E. Kerry)
 
 - Phần I: Chiếc Nhẫn
-    - "The Pagan Tolkien" (Ronald Hutton)
-    - "The Christian Tolkien: Phản hồi cho Ronald Hutton" ([Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md))
-    - "The Entives: Điều tra lõi tâm linh của *The Lord of the Rings*" (Stephen Morillo)
+    - "Kẻ ngoại đạo Tolkien" (Ronald Hutton)
+    - "Cơ đốc nhân Tolkien: Phản hồi cho Ronald Hutton" ([Nils Ivar Agøy](../N/Nils_Ivar_Agøy.md))
+    - "The Entwives: Điều tra lõi tâm linh của *The Lord of the Rings*" (Stephen Morillo)
     - "'Like Heathen Kings': Tôn giáo như Palimpsest trong tiểu thuyết của Tolkien" (John R. Holmes)
     - "Đối đầu với sự kỳ lạ của thế giới: *The Children of Húrin* của J. R. R. Tolkien" ([Ralph C. Wood](../R/Ralph_C._Wood.md))
-    - "Eru Đã xóa: Vũ trụ học tối giản của Chúa tể những chiếc nhẫn" (Catherine Madsen)
-    - "Chiếc nhẫn và cây thánh giá: J. R. R. Tolkien Trở thành Nhà văn Cơ đốc như thế nào" (Chris Mooney)
+    - "Eru Đã xóa: Vũ trụ học tối giản của The Lord of the Rings" (Catherine Madsen)
+    - "Chiếc nhẫn và cây thánh giá: Làm thế nào J. R. R. Tolkien trở thành một nhà văn Cơ đốc giáo" (Chris Mooney)
 
 - Phần II: Thập Giá
     - "Đổi tác phẩm phụ" (Carson L. Holloway)
     - "Học giả Công giáo, Nhà sáng tạo phụ Công giáo" (Jason Boffetti)
-    - "'An Age Comes On': J.R.R. Tolkien và ý thức lịch sử của Công giáo Anh" (Michael Tomko)
+    - "'An Age Comes On': J.R.R. Tolkien và ý nghĩa lịch sử của Công giáo Anh" (Michael Tomko)
     - "*The Lord of the Rings* và sự hiểu biết của người Công giáo về cộng đồng" ([Joseph Pearce](../J/Joseph_Pearce.md))
     - "Theo dõi ảnh hưởng của Công giáo ở *The Lord of the Rings*" (Paul E. Kerry)
     - "Những người mẹ thánh thiện và xa cách" ([Marjorie Burns](../M/Marjorie_Burns.md))
-- "'Trận chiến cuối cùng' với tư cách là Johannine Ragnarok: Tolkien và vũ trụ" ([Bradley J. Birzer](../B/Bradley_J._Birzer.md))
+- "'Trận chiến cuối cùng' với tư cách là Johannine Ragnarok: Tolkien và Vũ trụ" ([Bradley J. Birzer](../B/Bradley_J._Birzer.md))
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/989-The_Ring_and_the_Cross.php" rel="noreferrer noopener" target="_blank">Mô tả</a> tại [Thư viện Tolkien](Tolkien_Library.md)
+- <a class="external text" href="http://www.tolkienlibrary.com/press/989-The_Ring_and_the_Cross.php" rel="noreferrer noopener" target="_blank">Mô tả</a> tại [Tolkien Thư viện](Tolkien_Library.md)

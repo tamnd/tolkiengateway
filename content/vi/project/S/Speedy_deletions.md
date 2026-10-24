@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Deletion policy"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Chính sách xóa](../D/Deletion_policy.md).
+Chuyển hướng đến [Tolkien Gateway:Chính sách xóa](../D/Deletion_policy.md).

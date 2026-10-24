@@ -14,15 +14,15 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>hoth</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "chủ nhà, đám đông (gần như luôn có nghĩa xấu)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>hoth</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "chủ nhà, đám đông (hầu như luôn có nghĩa xấu)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Noldorin](../N/Noldorin.md) (phiên bản đầu tiên của Sindarin) từ *hoth* có nghĩa là "chủ nhà, đám đông" và "thường gặp trong tên người". Nó bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) *khotsē* "hội" ([gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KHOTH&amp;action=edit&amp;redlink=1" title="KHOTH (page does not exist)">KHOTH-</a> "thu thập").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Noldorin](../N/Noldorin.md) (phiên bản đầu tiên của Sindarin), từ *hoth* có nghĩa là "chủ nhà, đám đông" và "thường gặp trong tên người". Nó bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) *khotsē* "hội" ([root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=KHOTH&amp;action=edit&amp;redlink=1" title="KHOTH (page does not exist)">KHOTH-</a> "tập hợp").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Ví dụ {#Examples}
 
 - [Balc**hoth**](../B/Balchoth.md)
 - <a href="../G/Gaur.md" title="Gaur"><i>bò tót<b>hoth</b></i></a> ([Tol-in-Gaurhoth](../T/Tol-in-Gaurhoth.md))
-- [Tổn thất](../L/Lossoth.md) (Tổn thất**(h)oth**)
+- [Lossoth](../L/Lossoth.md) (Mất**(h)oth**)
 - <a href="../G/Glamhoth.md" title="Glamhoth"><i>glam<b>hoth</b></i></a>
 - <i><a href="../O/Orcs.md#Orcs_in_Tolkien&#39;s_languages" title="Orcs">Orc<b>hoth</b></a></i>
 

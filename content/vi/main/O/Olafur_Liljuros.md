@@ -12,7 +12,7 @@ categories:
   - "Poems and songs in Songs for the Philologists"
 ---
 
-**Olafur Liljuros** là một bài hát dân gian của Iceland. Nó được xuất bản dưới dạng bài hát thứ bảy trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md). Bài hát kể về một người đàn ông gặp một thiếu nữ Tiên.
+**Olafur Liljuros** là một bài hát dân gian của Iceland. Nó được xuất bản dưới dạng bài hát thứ bảy trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md). Bài hát kể về một chàng trai gặp một thiếu nữ Elvish.
 
 ## Bài hát {#The_song}
 

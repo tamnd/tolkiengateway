@@ -23,7 +23,7 @@ langlinks:
     url: "https://kontu.wiki/George_William_Tolkien"
 ---
 
-**George William Tolkien** (1805 – 1877) là con cả trong số 11 người con của [George Tolkien](George_Tolkien.md) (1784 - 1840) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eliza_Lydia_Murrell&amp;action=edit&amp;redlink=1" title="Eliza Lydia Murrell (page does not exist)">Eliza Lydia Murrell</a> (1787 - 1863). Em trai của ông, [John Benjamin Tolkien](../J/John_Benjamin_Tolkien.md) (1807 – 1896), người lớn thứ hai trong số các anh chị em, là ông nội của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Trong nhiều nguồn, cha của George William, George được gọi là "George William Tolkien", nhưng theo các tài liệu có tên ông xuất hiện thì đây là một sai sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**George William Tolkien** (1805 – 1877) là con cả trong số 11 người con của [George Tolkien](George_Tolkien.md) (1784 - 1840) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Eliza_Lydia_Murrell&amp;action=edit&amp;redlink=1" title="Eliza Lydia Murrell (page does not exist)">Eliza Lydia Murrell</a> (1787 - 1863). Em trai ông, [John Benjamin Tolkien](../J/John_Benjamin_Tolkien.md) (1807 – 1896), người lớn tuổi thứ hai trong số các anh chị em, là ông nội của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Trong nhiều nguồn, cha của George William, George được gọi là "George William Tolkien", nhưng theo các tài liệu có tên ông xuất hiện thì đây là một sai sót.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

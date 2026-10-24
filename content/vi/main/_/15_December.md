@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 15 tháng 12
 ## Trên Trái đất {#On_Earth}
 
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết xong [thư gửi G.E. Selby](<../L/Letter_to_G.E._Selby_(14_December_1937).md>).
-- **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Arthur Ransome](../L/Letter_to_Arthur_Ransome.md).
+- **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Arthur Ransome](../L/Letter_to_Arthur_Ransome.md).
 - **[1943](1943.md)** - J.R.R. Tolkien viết [Thư 53a](../L/Letter_53a.md).
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 195](../L/Letter_195.md).
 - **[1956](1956.md)** – Nhà ngôn ngữ học [Patrick H. Wynne](../P/Patrick_H._Wynne.md) ra đời.
@@ -80,4 +80,4 @@ Sự kiện xảy ra vào ngày 15 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

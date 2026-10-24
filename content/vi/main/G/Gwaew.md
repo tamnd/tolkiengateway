@@ -14,11 +14,11 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gwaew</b></i> là từ [Sindarin](../S/Sindarin.md) (và [Noldorin](../N/Noldorin.md)) cho "gió".<sup id="cite_ref-Ety397_1-0" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup><sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
+<i><b>gwaew</b></i> là từ [Sindarin](../S/Sindarin.md) (và [Noldorin](../N/Noldorin.md)) để chỉ "gió".<sup id="cite_ref-Ety397_1-0" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup><sup id="cite_ref-PE_2-0" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Trong *[The Etymologies](../T/The_Etymologies.md)*, Noldorin *gwaew* bắt nguồn từ [gốc](../S/Sundocarme.md) [WĀ](../W/WĀ.md).<sup id="cite_ref-Ety397_1-1" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup>
+Trong *[The Etymologies](../T/The_Etymologies.md)*, Noldorin *gwaew* xuất phát từ [gốc](../S/Sundocarme.md) [WĀ](../W/WĀ.md).<sup id="cite_ref-Ety397_1-1" class="reference"><a href="#cite_note-Ety397-1">[1]</a></sup>
 
 Trong một bản thảo ngôn ngữ sau này, [Sindarin](../S/Sindarin.md) *gwaew* bắt nguồn từ gốc WAYA ("thổi (như gió)").<sup id="cite_ref-PE_2-1" class="reference"><a href="#cite_note-PE-2">[2]</a></sup>
 

@@ -20,9 +20,9 @@ sort_keys:
   "Religious workers": "Mathew, Gervase"
 ---
 
-**Anthony Gervase Mathew** ([14 tháng 3](../_/14_March.md) [1905](../_/1905.md) – [4 tháng 4](../_/4_April.md) [1976](../_/1976.md)) là bạn đồng hành [Biết rõ](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ông là một linh mục dòng Đa Minh và giảng viên nghiên cứu về Byzantine tại [Đại học Oxford](../U/University_of_Oxford.md).
+**Anthony Gervase Mathew** ([14 tháng 3](../_/14_March.md) [1905](../_/1905.md) – [4 tháng 4](../_/4_April.md) [1976](../_/1976.md)) là bạn đồng hành [Inkling](../I/Inklings.md) với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Ngài là linh mục dòng Đa Minh và giảng viên môn nghiên cứu Byzantine tại [Đại học Oxford](../U/University_of_Oxford.md).
 
-Vào cuối [1949](../_/1949.md) ông đã giới thiệu biên tập viên [Milton Waldman](../M/Milton_Waldman.md) với Tolkien.
+Cuối [1949](../_/1949.md) ông đã giới thiệu biên tập viên [Milton Waldman](../M/Milton_Waldman.md) cho Tolkien.
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

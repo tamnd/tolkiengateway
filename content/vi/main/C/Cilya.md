@@ -26,7 +26,7 @@ categories:
 
 ## Xem thêm {#See_also}
 
-- [Tiếng Sindarin](../S/Sindarin.md): *[cirith](Cirith.md)*
+- [Sindarin](../S/Sindarin.md): *[cirith](Cirith.md)*
 
 <span></span>
 

@@ -20,7 +20,7 @@ sort_keys:
   "People by name": "Hyde, Paul Nolan"
 ---
 
-**Paul Nolan Hyde** là Giáo sư Ngôn ngữ học tại <a class="extiw" href="http://en.wikipedia.org/wiki/Brigham_Young_University" title="wikipedia:Brigham Young University">Đại học Brigham Young</a>. Được giới thiệu với các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào năm 1966, Hyde đã viết nhiều tiểu luận về cả [huyền thoại](../L/Legendarium.md) và lĩnh vực chuyên môn của Tolkien, [Cổ](../O/Old_English.md) và [Tiếng Anh Trung Cổ](../M/Middle_English.md). Hyde có lẽ được biết đến nhiều nhất với chuyên mục "Quenti Lambardillion" trong *[Mythlore](../M/Mythlore.md)* và một số đóng góp cho *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*.
+**Paul Nolan Hyde** là Giáo sư Ngôn ngữ học tại <a class="extiw" href="http://en.wikipedia.org/wiki/Brigham_Young_University" title="wikipedia:Brigham Young University">Đại học Brigham Young</a>. Được giới thiệu với các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào năm 1966, Hyde đã viết nhiều tiểu luận về cả [huyền thoại](../L/Legendarium.md) và lĩnh vực chuyên môn Tolkien, [Cổ](../O/Old_English.md) và [Tiếng Anh Trung Cổ](../M/Middle_English.md). Hyde có lẽ được biết đến nhiều nhất với chuyên mục "Quenti Lambardillion" trong *[Mythlore](../M/Mythlore.md)* và một số đóng góp cho *[Vinyar Tengwar](../V/Vinyar_Tengwar.md)*.
 
 ## Liên kết ngoài {#External_links}
 

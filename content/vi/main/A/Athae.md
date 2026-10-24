@@ -13,11 +13,11 @@ categories:
   - "Sindarin adjectives"
 ---
 
-<i><b>athae</b></i> (cũng là *athe*) là một từ [tiếng Sindarin](../S/Sindarin.md) không được dịch trực tiếp, ngoại trừ những gì có thể được xác định từ từ nguyên của nó.<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> Nó liên quan đến những từ liên quan đến trợ giúp, do đó nó có thể có nghĩa là \*"helpful" or \*"có lợi".
+<i><b>athae</b></i> (cũng là *athe*) là một từ [Sindarin](../S/Sindarin.md) không được dịch trực tiếp, ngoại trừ những gì có thể được xác định từ từ nguyên của nó.<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> Nó liên quan đến những từ liên quan đến trợ giúp, do đó nó có thể có nghĩa là \*"helpful" or \*"có lợi".
 
 ## Từ nguyên {#Etymology}
 
-- [Quendian nguyên thủy](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A%C3%9Eay%C4%81&amp;action=edit&amp;redlink=1" title="AÞayā (page does not exist)">aÞayā</a></i>, từ [root](../S/Sundocarme.md) [ATH](ATH~33243.md)<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
+- [Primitive Quendian](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=A%C3%9Eay%C4%81&amp;action=edit&amp;redlink=1" title="AÞayā (page does not exist)">aÞayā</a></i>, từ [gốc](../S/Sundocarme.md) [ATH](ATH~33243.md)<sup id="cite_ref-PE_1-1" class="reference"><a href="#cite_note-PE-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

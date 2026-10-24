@@ -20,13 +20,13 @@ hidden_categories:
 
 ## Từ nguyên {#Etymology}
 
-*inzil* tương tự như [Valarin](../V/Valarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ini%C3%B0il&amp;action=edit&amp;redlink=1" title="Iniðil (page does not exist)">iniðil</a></i> và [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Indil&amp;action=edit&amp;redlink=1" title="Indil (page does not exist)">indil</a></i> ("hoa huệ hoặc loại hoa đơn lẻ lớn khác").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+*inzil* tương tự như [Valarin](../V/Valarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ini%C3%B0il&amp;action=edit&amp;redlink=1" title="Iniðil (page does not exist)">iniðil</a></i> và [Quenya](../Q/Quenya.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Indil&amp;action=edit&amp;redlink=1" title="Indil (page does not exist)">indil</a></i> ("hoa huệ hoặc hoa đơn lẻ lớn khác").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Ví dụ {#Examples}
 
-- <i><a class="mw-redirect" href="Inziladûn.md" title="Inziladûn"><b>Inzil</b>adûn</a></i> = "Hoa Tây"
+- <i><a class="mw-redirect" href="Inziladûn.md" title="Inziladûn"><b>Inzil</b>adûn</a></i> = "Hoa của Phương Tây"
 - <i><a href="Inzilbêth.md" title="Inzilbêth"><b>Inzil</b>bêth</a></i> = "Lời hoa"
-- <i><a href="../R/Rothinzil.md" title="Rothinzil">Roth<b>inzil</b></a></i> = "Hoa xốp"
+- <i><a href="../R/Rothinzil.md" title="Rothinzil">Roth<b>inzil</b></a></i> = "Bông hoa"
 
 <span></span>
 

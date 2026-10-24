@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Thomas Kidd</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/10_August.md" title="10 August">10 August</a> <a href="../_/1955.md" title="1955">1955</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Tom Kidd** (sinh [10 tháng 8](../_/10_August.md) [1955](../_/1955.md)) là một nghệ sĩ giả tưởng người Mỹ. Vào những năm 1990, ông được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo tác phẩm nghệ thuật cho [Trò chơi sưu tập thẻ bài ở Trung Địa](../M/Middle-earth_Collectible_Card_Game.md).
+**Tom Kidd** (sinh [10 tháng 8](../_/10_August.md) [1955](../_/1955.md)) là một nghệ sĩ giả tưởng người Mỹ. Vào những năm 1990, ông được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo nghệ thuật cho [Trung Địa Trò chơi thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).
 
 Ông cũng thiết kế ít nhất một con dao sưu tầm dựa trên Chúa tể của những chiếc nhẫn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

@@ -71,16 +71,16 @@ Sự kiện xảy ra vào ngày 15 tháng 7.
 - **[1979](1979.md)** - [Mythcon 10](../M/Mythcon_10.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/San_Jose,_California" title="wikipedia:San Jose, California">San Jose, California</a>.
 - **[1998](1998.md)** - [Mythcon 29](../M/Mythcon_29.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton,_Illinois" title="wikipedia:Wheaton, Illinois">Wheaton, Illinois</a>.
 - **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle" title="wikipedia:Seattle">Seattle</a>.
-- **[2004](2004.md)** - [Tolkien Thing VI](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2006](2006.md)** - [Tolkien Thing VIII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2007](2007.md)** - [Tolkien Thing IX](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2010](2010.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2010 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bad_Hersfeld" title="wikipedia:Bad Hersfeld">Bad Hersfeld</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2011](2011.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2011 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Breuberg" title="wikipedia:Breuberg">Breuberg</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2004](2004.md)** - [Tolkien Điều VI](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Hohenahr" title="wikipedia:Hohenahr">Hohensolms, Hohenahr</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2006](2006.md)** - [Tolkien Điều VIII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2007](2007.md)** - [Tolkien Điều IX](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2010](2010.md)** - [Tolkien Chuyện](../T/Tolkien_Thing.md) năm 2010 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bad_Hersfeld" title="wikipedia:Bad Hersfeld">Bad Hersfeld</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2011](2011.md)** - [Tolkien Sự việc](../T/Tolkien_Thing.md) năm 2011 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Breuberg" title="wikipedia:Breuberg">Breuberg</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2011](2011.md)** - [Mythcon 42](../M/Mythcon_42.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico" title="wikipedia:Albuquerque, New Mexico">Albuquerque, New Mexico</a>.
-- **[2013](2013.md)** - [Mythcon 44](../M/Mythcon_44.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan_State_University" title="wikipedia:Michigan State University">Đại học Bang Michigan</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/East_Lansing,_Michigan" title="wikipedia:East Lansing, Michigan">East Lansing</a>.
+- **[2013](2013.md)** - [Mythcon 44](../M/Mythcon_44.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Michigan_State_University" title="wikipedia:Michigan State University">Đại học bang Michigan</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/East_Lansing,_Michigan" title="wikipedia:East Lansing, Michigan">phương Đông Lansing</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien mô tả nguồn cảm hứng của ông cho [the Shire](../T/The_Shire.md); của một ngôi làng Warwickshire vào khoảng thời gian <a class="extiw" href="http://en.wikipedia.org/wiki/Queen_Victoria#Diamond_Jubilee" title="wikipedia:Queen Victoria">Năm Thánh Kim cương của Nữ hoàng Victoria</a> (1897). Nhiều nhà phê bình đã ví nó với North Oxford - chủ yếu dựa trên chức vụ giáo sư của Tolkien - nhưng Tolkien nhận thấy khu vực đó thật chán nản và thiếu cá tính. <br>
+Tolkien mô tả nguồn cảm hứng của mình cho [the Shire](../T/The_Shire.md); của một ngôi làng Warwickshire vào khoảng thời gian <a class="extiw" href="http://en.wikipedia.org/wiki/Queen_Victoria#Diamond_Jubilee" title="wikipedia:Queen Victoria">Năm Thánh Kim cương của Nữ hoàng Victoria</a> (1897). Nhiều người đánh giá đã so sánh nó với miền Bắc Oxford - chủ yếu dựa trên chức vụ giáo sư của Tolkien- nhưng Tolkien nhận thấy khu vực đó buồn tẻ và thiếu cá tính. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

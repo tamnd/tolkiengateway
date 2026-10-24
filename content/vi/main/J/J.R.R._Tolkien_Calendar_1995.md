@@ -42,23 +42,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Calendar_1995.jpg.md"><img src="https://tolkiengateway.net/w/images/e/e0/J.R.R._Tolkien_Calendar_1995.jpg" decoding="async" loading="lazy" width="313" height="350" class="mw-file-element" data-file-width="313" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien Calendar 1995</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="John_Howe.md" title="John Howe">John Howe</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/11_July.md" title="11 July">11 July</a> <a href="../_/1994.md" title="1994">1994</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">14</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10308-3" title="Special:BookSources/0-261-10308-3">0-261-10308-3</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data">UK: <a href="J.R.R._Tolkien_Calendar_1994.md" title="J.R.R. Tolkien Calendar 1994">J.R.R. Tolkien Calendar 1994</a><br/>US: <a href="../T/The_1994_J.R.R._Tolkien_Calendar.md" title="The 1994 J.R.R. Tolkien Calendar">The 1994 J.R.R. Tolkien Calendar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="J.R.R._Tolkien_Calendar_1996.md" title="J.R.R. Tolkien Calendar 1996">J.R.R. Tolkien Calendar 1996</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien Lịch 1995</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [11 tháng 7](../_/11_July.md) [1994](../_/1994.md). Nó có tác phẩm nghệ thuật của [John Howe](John_Howe.md) dựa trên *[The Hobbit](../T/The_Hobbit.md)*, *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Silmarillion](../T/The_Silmarillion.md)*.
+Lịch <i><b>J.R.R. Tolkien 1995</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [11 tháng 7](../_/11_July.md) [1994](../_/1994.md). Nó có tính năng nghệ thuật của [John Howe](John_Howe.md) dựa trên *[The Hobbit](../T/The_Hobbit.md)*, *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và *[The Silmarillion](../T/The_Silmarillion.md)*.
 
 ## Minh họa {#Illustrations}
 
-- Bìa - "[Gandalf đến Thành phố được bảo vệ](../../file/J/John_Howe_-_Gandalf_Approaches_the_Guarded_City.jpg.md)"
-- Tháng 1 - "[Smaug](../../file/J/John_Howe_-_Smaug.jpg.md)"
+- Bìa - "[Gandalf Đến Thành phố được bảo vệ](../../file/J/John_Howe_-_Gandalf_Approaches_the_Guarded_City.jpg.md)"
+- Tháng Giêng - "[Smaug](../../file/J/John_Howe_-_Smaug.jpg.md)"
 - Tháng 2 - "[Trận chiến Gondolin](../../file/J/John_Howe_-_Morgoth's_Force_before_Gondolin.jpg.md)"
-- Tháng 3 - "[Gandalf Đến Thành Phố Được Bảo Vệ](../../file/J/John_Howe_-_Gandalf_Approaches_the_Guarded_City.jpg.md)"
-- Tháng 4 - "[Gandalf đến Hobbiton](../../file/J/John_Howe_-_Gandalf_Returns_to_Hobbiton.jpg.md)"
+- Tháng 3 - "[Gandalf Đến Thành phố được bảo vệ](../../file/J/John_Howe_-_Gandalf_Approaches_the_Guarded_City.jpg.md)"
+- Tháng 4 - "[Gandalf Đến Hobbiton](../../file/J/John_Howe_-_Gandalf_Returns_to_Hobbiton.jpg.md)"
 - Tháng 5 - "[Tháp Trắng Elwing](../../file/J/John_Howe_-_The_White_Tower_of_Elwing.jpg.md)"
-- Tháng 6 - "[Cánh cửa bóng đêm](../../file/J/John_Howe_-_The_Door_of_Night.jpg.md)"
+- Tháng 6 - "[ Cánh Cửa Đêm](../../file/J/John_Howe_-_The_Door_of_Night.jpg.md)"
 - Tháng 7 - "[Minas Tirith](../../file/J/John_Howe_-_The_Watchful_Peace.jpg.md)"
-- Tháng 8 - "[Sự sụp đổ của Gondolin](../../file/J/John_Howe_-_The_Fall_of_Gondolin.jpg.md)"
-- Tháng 9 - "[Ulmo, Chúa tể của nước](../../file/J/John_Howe_-_Ulmo,_Lord_of_the_Waters.jpg.md)"
+- Tháng 8 - "[The Fall of Gondolin](../../file/J/John_Howe_-_The_Fall_of_Gondolin.jpg.md)"
+- tháng Chín - "[Ulmo, Chúa tể của Nước](../../file/J/John_Howe_-_Ulmo,_Lord_of_the_Waters.jpg.md)"
 - Tháng 10 - "[Melkor và Ungoliantë trước Hai Cây](../../file/J/John_Howe_-_The_Killing_of_the_Trees.jpg.md)"
-- Tháng 11 - "[Thử thách của Fingolfin với Morgoth](../../file/J/John_Howe_-_Fingolfin's_Challenge.jpg.md)"
-- Tháng 12 - "[Cuộc vây hãm Angband](../../file/J/John_Howe_-_The_Siege_of_Angband.jpg.md)"
+- Tháng 11 - Thử thách của "[Fingolfin đối với Morgoth](../../file/J/John_Howe_-_Fingolfin's_Challenge.jpg.md)"
+- Tháng 12 - "[Ngày Cuộc vây hãm Angband](../../file/J/John_Howe_-_The_Siege_of_Angband.jpg.md)"
 
 ## Biến thể {#Variants}
 
@@ -89,7 +89,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94270" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien Lịch 1995</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1993_1995.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1993 - 1995</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1993_1995.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1993 - 1995</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

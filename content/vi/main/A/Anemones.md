@@ -20,7 +20,7 @@ langlinks:
     url: "https://www.ardapedia.org/wiki/Anemone"
 ---
 
-**Hải quỳ** là những bông hoa nhỏ có nhiều màu nhạt. [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) tìm thấy hải quỳ trắng và xanh mọc ở vùng đất hoa thơm [Ithilien](../I/Ithilien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Tolkien](../J/J.R.R._Tolkien.md) cũng gợi ý rằng [simbelmynë](../S/Simbelmynë.md) cũng là một loại hải quỳ, hoặc ít nhất là có hình dáng tương tự.
+**Hải quỳ** là những bông hoa nhỏ có nhiều màu nhạt. [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) tìm thấy hải quỳ trắng và xanh mọc ở vùng đất hoa thơm [Ithilien](../I/Ithilien.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Tolkien](../J/J.R.R._Tolkien.md) cũng gợi ý rằng [simbelmynë](../S/Simbelmynë.md) cũng là một loại hải quỳ, hoặc ít nhất là có hình dáng tương tự nhau.
 
 <span></span>
 

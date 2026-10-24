@@ -12,7 +12,7 @@ categories:
   - "Sindarin names"
 ---
 
-**Turamarth** là [Sindarin](../S/Sindarin.md) nghĩa là "Bậc thầy của sự diệt vong", danh hiệu [Túrin](Túrin.md) tự đặt cho mình khi sống trong khu rừng [Brethil](../B/Brethil.md) ở [Thời đại thứ nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Turamarth** là [Sindarin](../S/Sindarin.md) dành cho "Bậc thầy của sự diệt vong", danh hiệu [Túrin](Túrin.md) tự đặt cho mình khi sống trong khu rừng [Brethil](../B/Brethil.md) ở [Kỷ Đệ Nhất](../F/First_Age.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Copyrights"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Bản quyền](Copyrights.md).
+Chuyển hướng tới [Tolkien Gateway:Bản quyền](Copyrights.md).

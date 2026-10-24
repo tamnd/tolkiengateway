@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Golfimbul"
 ---
 
-Chuyển hướng tới [Golfimbul](Golfimbul.md).
+Chuyển hướng đến [Golfimbul](Golfimbul.md).

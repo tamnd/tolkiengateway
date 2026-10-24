@@ -19,7 +19,7 @@ sort_keys:
 
 ## Từ nguyên {#Etymology}
 
-Từ này là một dạng hậu duệ của [Quendian nguyên thủy](../P/Primitive_Quendian.md) *rīgā*, bắt nguồn từ [Common Eldarin](../C/Common_Eldarin.md) [thân](../S/Sundocarme.md) [RIG](RIG.md) ("sợi xe, vòng hoa").<sup id="cite_ref-Shibb_1-1" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup>
+Từ này là dạng hậu duệ của [Primitive Quendian](../P/Primitive_Quendian.md) *rīgā*, xuất phát từ [Common Eldarin](../C/Common_Eldarin.md) [thân](../S/Sundocarme.md) [RIG](RIG.md) ("dây xe, vòng hoa").<sup id="cite_ref-Shibb_1-1" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

@@ -26,4 +26,4 @@ images:
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-**Annie Magdalen Matthews Tolkien** ([4 tháng 1](../_/4_January.md) [1905](../_/1905.md) — [1970](../_/1970.md)) là vợ của [Hilary Tolkien](../H/Hilary_Tolkien.md). Họ kết hôn vào năm 1928 tại Evesham, Worcestershire, Anh. Họ có ba người con - Gabriel, Julian và Paul. Cô là chị dâu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+**Annie Magdalen Matthews Tolkien** ([4 tháng 1](../_/4_January.md) [1905](../_/1905.md) — [1970](../_/1970.md)) là vợ của [Hilary Tolkien](../H/Hilary_Tolkien.md). Họ kết hôn vào năm 1928 tại Evesham, Worcestershire, Anh. Họ có ba người con - Gabriel, Julian và Paul. Bà là chị dâu của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).

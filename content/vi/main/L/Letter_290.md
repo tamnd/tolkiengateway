@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-[Michael George](<../M/Michael_Tolkien_(b._1943).md>), cháu trai của Tolkien, là nghiên cứu sinh ngành văn học Anh tại [Đại học Oxford](../U/University_of_Oxford.md), và dường như đã viết thư cho ông nội để thảo luận về tác phẩm của mình. Chàng trai trẻ Tolkien đã thể hiện quan điểm ngày càng tăng về <a class="extiw" href="http://en.wikipedia.org/wiki/Scientific_Method" title="wikipedia:Scientific Method">"nghiên cứu"</a> khi áp dụng vào văn học hiện đại. Anh cả Tolkien nói rằng ông không thích ảnh hưởng ngày càng tăng của Khoa học đối với Văn học, hay Nghệ thuật nói chung, chỉ để làm cho nó trông đẹp hơn.
+[Michael George](<../M/Michael_Tolkien_(b._1943).md>), cháu trai của Tolkien, là nghiên cứu sinh ngành văn học Anh tại [Đại học Oxford](../U/University_of_Oxford.md) và dường như đã viết thư cho ông nội để thảo luận về công việc của mình. Giới trẻ Tolkien đã thể hiện quan điểm ngày càng tăng về <a class="extiw" href="http://en.wikipedia.org/wiki/Scientific_Method" title="wikipedia:Scientific Method">"nghiên cứu"</a> khi áp dụng vào văn học hiện đại. Anh cả Tolkien nói rằng ông không thích sự ảnh hưởng ngày càng tăng của Khoa học đối với Văn học, hay Nghệ thuật nói chung, chỉ để làm cho nó trông đẹp hơn.
 
-J.R.R. Tolkien sau đó kể về một bài nói chuyện mà lẽ ra ông sẽ tổ chức [vào thứ Tư tuần trước](../_/26_October.md). Đó không phải là một cuộc nói chuyện nhiều, thay vào đó, Tolkien đọc *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* cho một đám đông khoảng 800 người. <br>
+J.R.R. Tolkien sau đó kể về một bài nói chuyện mà lẽ ra ông sẽ tổ chức [vào thứ Tư tuần trước](../_/26_October.md). Đó không phải là một buổi nói chuyện nhiều mà thay vào đó, Tolkien đọc *[Smith of Wootton Major](../S/Smith_of_Wootton_Major.md)* trước một đám đông khoảng 800 người. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

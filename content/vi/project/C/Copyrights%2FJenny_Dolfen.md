@@ -30,5 +30,5 @@ sort_keys:
 
 - [Jenny Dolfen](../../main/J/Jenny_Dolfen.md) đã vui lòng cho phép cô sử dụng các vật phẩm từ <a class="external text" href="http://goldseven.wordpress.com/galleries/tolkien/" rel="noreferrer noopener" target="_blank">phòng trưng bày của cô</a> trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Tuyên bố từ chủ sở hữu bản quyền: *Theo quy định, mọi thứ có ở đây <a class="external text" href="http://goldseven.wordpress.com/galleries/tolkien/" rel="noreferrer noopener" target="_blank">[link]</a> đều có thể được sử dụng.*
-- Ngày: 14 tháng 9 năm 2012
-- Người dùng đã xin phép thông qua DeviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)
+- Ngày: 14 tháng Chín năm 2012
+- Người dùng đã xin phép qua DeviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

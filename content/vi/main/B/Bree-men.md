@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Men of Bree"
 ---
 
-Chuyển hướng đến [Men of Bree](../M/Men_of_Bree.md).
+Chuyển hướng đến [Người Bree](../M/Men_of_Bree.md).

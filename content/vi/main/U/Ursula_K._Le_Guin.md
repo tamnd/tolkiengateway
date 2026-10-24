@@ -26,7 +26,7 @@ images:
 
 Năm 1988, bà là Khách mời danh dự tại [Mythcon 19](../M/Mythcon_19.md).
 
-Cần lưu ý rằng *Kingsfoil*, tên (đã dịch) của *[Athelas](../A/Athelas.md)*, xuất hiện trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Wizard_of_Earthsea" title="wikipedia:A Wizard of Earthsea">A Wizard of Earthsea</a></i>của Le Guin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Cần lưu ý rằng *Kingsfoil*, tên (đã dịch) của *[Athelas](../A/Athelas.md)*, xuất hiện trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/A_Wizard_of_Earthsea" title="wikipedia:A Wizard of Earthsea">A Pháp sư của Earthsea</a></i>của Le Guin.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 
@@ -45,7 +45,7 @@ Cần lưu ý rằng *Kingsfoil*, tên (đã dịch) của *[Athelas](../A/Athel
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Bao gồm thảo luận về sự khác biệt giữa khái niệm cái ác trong các tác phẩm của Lewis và Tolkien.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Bao gồm thảo luận về sự khác biệt giữa khái niệm cái ác trong các bài viết của Lewis và Tolkien.</span>
 </li>
 </ol></div></span>
 

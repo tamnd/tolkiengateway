@@ -15,7 +15,7 @@ sort_keys:
   "Parma Nölé": "Parma Nole 10"
 ---
 
-<b><i>Parma Nölé</i> 10</b> là số thứ mười của tạp chí [Hiệp hội Tolkien Đông Bắc](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, phát hành vào Mùa hè năm 2004.
+<b><i>Parma Nölé</i> 10</b> là số thứ mười của tạp chí [Miền Bắc phương Đông Tolkien Hiệp hội](../N/North_East_Tolkien_Society.md) *[Parma Nölé](Parma_Nölé.md)*, phát hành vào Mùa hè năm 2004.
 
 ## Nội dung {#Contents}
 
@@ -24,9 +24,9 @@ sort_keys:
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Khám phá Rammoth: Cánh tay và Áo giáp của Ancanar"
 - "Cuộc phỏng vấn với [Bradley Birzer](../B/Bradley_J._Birzer.md)
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deborah_Singer&amp;action=edit&amp;redlink=1" title="Deborah Singer (page does not exist)">Deborah Singer</a>: "[The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) ở Atlanta: Chủ đề và các biến thể
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Tại sao lại là Tolkien?"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joe_Piela&amp;action=edit&amp;redlink=1" title="Joe Piela (page does not exist)">Joe Piela</a>: "Tại sao lại là Tolkien? Lời tuyên bố của một nghệ sĩ"
-- [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Tolkien Studies An Annual Academic Review Tập 1 2004"
-- [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Những chú rồng giả tưởng"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "Tại sao Tolkien?"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Joe_Piela&amp;action=edit&amp;redlink=1" title="Joe Piela (page does not exist)">Joe Piela</a>: "Tại sao Tolkien? Tuyên bố của một nghệ sĩ"
+- [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Tolkien Nghiên cứu Đánh giá Học thuật Thường niên Tập 1 2004"
+- [Anthony S. Burdge](../A/Anthony_S._Burdge.md): "Rồng của Fantasy"
 - [Anthony S. Burdge](../A/Anthony_S._Burdge.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Jessica_Burke&amp;action=edit&amp;redlink=1" title="Jessica Burke (page does not exist)">Jessica Burke</a>: "[Understanding The Lord of the Rings: The best of Tolkien Criticism](../U/Understanding_The_Lord_of_the_Rings.md)"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deborah_Singer&amp;action=edit&amp;redlink=1" title="Deborah Singer (page does not exist)">Deborah Singer</a>: "[John Garth](../J/John_Garth.md)'s *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)*: Ngưỡng cửa của Trung địa"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Deborah_Singer&amp;action=edit&amp;redlink=1" title="Deborah Singer (page does not exist)">Deborah Singer</a>: "[John Garth](../J/John_Garth.md) của *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)*: Ngưỡng của Trung Địa"

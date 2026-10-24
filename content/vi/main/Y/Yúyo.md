@@ -15,7 +15,7 @@ sort_keys:
   "Quenya adjectives": "Yuyo"
 ---
 
-<i><b>yúyo</b></i> (<i><b>yú-</b></i>) là một tính từ [Quenya](../Q/Quenya.md) có nghĩa là "cả hai".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong ví dụ duy nhất chúng tôi có, danh từ theo sau *yúyo* không nhận được dấu hiệu số nhiều hoặc kép.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Không rõ liệu nó có thể được sử dụng hay không như một danh từ hoặc một trạng từ.
+<i><b>yúyo</b></i> (<i><b>yú-</b></i>) là một tính từ [Quenya](../Q/Quenya.md) có nghĩa là "cả hai".<sup id="cite_ref-Ety_1-0" class="reference"><a href="#cite_note-Ety-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong ví dụ duy nhất mà chúng tôi có, danh từ theo sau *yúyo* không nhận được dấu hiệu số nhiều hoặc kép.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Không rõ liệu nó có thể được sử dụng như một danh từ hay một danh từ trạng từ.
 
 ## Từ nguyên {#Etymology}
 

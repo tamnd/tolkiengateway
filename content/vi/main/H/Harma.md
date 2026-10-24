@@ -20,19 +20,19 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/H/Harma.gif.md"><img src="https://tolkiengateway.net/w/images/6/64/Harma.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Harma* ( *h* được phát âm là *ch*) cũng là tên bằng tiếng Quenya của chữ cái thứ mười một trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ ba của lớp ba hay [Tyellë](../T/Tyellë.md), chứa "các âm thanh vô thanh" và là chữ cái thứ ba trong chuỗi phụ âm thứ ba.
+*Harma* (chữ *h* được phát âm là *ch*) cũng là tên trong Quenya của chữ cái thứ mười một trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Nó là chữ cái thứ ba của lớp ba hay [Tyellë](../T/Tyellë.md), chứa "các âm thanh vô thanh" và là chữ cái thứ ba trong chuỗi phụ âm thứ ba.
 
-- Đối với chữ viết Quenya, chuỗi thứ ba được sử dụng cho chuỗi *k*, *[Calmatéma](../C/Calmatéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Ban đầu *Harma* đại diện cho âm xát **CH** ở tất cả các vị trí. Theo thời gian, âm thanh ban đầu dịu đi thành hơi thở **H** ở đầu từ (âm thanh mà Quenya ban đầu sử dụng một chữ cái tên là *[Halla](Halla.md)*); chữ *Harma* sau đó chỉ được sử dụng ở các vị trí trung gian, trong đó âm **CH** ban đầu được giữ lại và để phản ánh điều này, nó được đổi tên thành *[Aha](../A/Aha.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+- Đối với Quenya được viết, chuỗi thứ ba được sử dụng cho chuỗi *k*, *[Calmatéma](../C/Calmatéma.md)*.<sup id="cite_ref-Letters_2-0" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Ban đầu *Harma* đại diện cho âm xát **CH** ở tất cả các vị trí. Theo thời gian, âm thanh ban đầu dịu đi thành hơi thở **H** ở đầu từ (âm mà Quenya ban đầu sử dụng một chữ cái có tên *[Halla](Halla.md)*); chữ *Harma* sau đó chỉ được sử dụng ở các vị trí trung gian, trong đó âm **CH** ban đầu được giữ lại và để phản ánh điều này, nó được đổi tên thành *[Aha](../A/Aha.md)*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 - Trong [Sindarin](../S/Sindarin.md) chữ cái này đại diện cho **CH**.
-- Ở [Westron](../W/Westron.md), dãy thứ ba được sử dụng cho nhiều phụ âm khác nhau và chữ cái này đại diện cho **SH**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên tiếng Tâyron của chữ cái này là <i><b>Shé</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+- Trong [Westron](../W/Westron.md), dãy thứ ba được sử dụng cho nhiều phụ âm khác nhau và chữ cái này đại diện cho **SH**.<sup id="cite_ref-Letters_2-1" class="reference"><a href="#cite_note-Letters-2">[2]</a></sup> Tên Westron của chữ cái này là <i><b>Shé</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C6%B7AR&amp;action=edit&amp;redlink=1" title="ƷAR (page does not exist)">ƷAR</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=%C6%B7AR&amp;action=edit&amp;redlink=1" title="ƷAR (page does not exist)">ƷAR</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](Helge_Fauskanger.md)
 
 <span></span>
 

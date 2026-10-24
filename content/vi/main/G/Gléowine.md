@@ -46,11 +46,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tony_Foti_-_Gléowine.jpeg.md"><img src="https://tolkiengateway.net/w/images/3/38/Tony_Foti_-_Gl%C3%A9owine.jpeg" decoding="async" loading="lazy" width="311" height="345" class="mw-file-element" data-file-width="311" data-file-height="345"/></a><figcaption>&#34;Gléowine&#34; by &#39;<a href="../../category/I/Images_by_Tony_Foti.md" title="Category:Images by Tony Foti">Tony Foti</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../R/Rohirrim.md" title="Rohirrim">Rohir</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gléowine</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">Minstrel</td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../R/Rohanese.md" title="Rohanese">Rohanese</a> and <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Gléowine.md" title="Category:Images of Gléowine">Images of Gléowine</a></td></tr></tbody></table>
 
-**Gléowine** là một [minstrel](../M/Minstrels.md) của [Nhà vua](../K/Kings_of_Rohan.md) của [Rohan](../R/Rohan.md) vào cuối [Thời đại thứ ba](../T/Third_Age.md).
+**Gléowine** là [minstrel](../M/Minstrels.md) của [Vua Nhà](../K/Kings_of_Rohan.md) của [Rohan](../R/Rohan.md) vào cuối [Kỷ Đệ Tam](../T/Third_Age.md).
 
 ## Lịch sử {#History}
 
-Gléowine đã sáng tác [một bài hát bất hủ](../O/Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md) về [Théoden](../T/Théoden.md) và tổ tiên của ông sau [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Người ta nói rằng sau đó ông không bao giờ sáng tác bài hát nào nữa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Gléowine đã sáng tác [một bài hát bất hủ](../O/Out_of_doubt,_out_of_dark,_to_the_day’s_rising.md) về [Théoden](../T/Théoden.md) và tổ tiên của ông sau [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Người ta nói rằng sau đó ông không bao giờ sáng tác bài hát nào nữa.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
@@ -75,7 +75,7 @@ Trong những bản thảo đầu tiên, Gléowine được đặt tên là Gleo
 		</li>
 </ul>
 
-<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2013: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Gléowine is first encountered being banished from <a href="../E/Edoras.md" title="Edoras">Edoras</a> at the command of <a href="Gríma.md" title="Gríma">Gríma Wormtongue</a>. The player and Horn later find him drinking his sorrows in the town of <a href="../S/Snowbourn.md" title="Snowbourn">Snowbourn</a>. Gléowine agrees to accompany the player, and they find that the land has been ravaged by the devilry of <a href="../S/Saruman.md" title="Saruman">Saruman</a>. They return after <a href="../T/Théoden.md" title="Théoden">Théoden</a> had been healed by <a href="Gandalf.md" title="Gandalf">Gandalf</a> and the King takes Gléowine at his side on the ride to the <a href="../F/Fords_of_Isen.md" title="Fords of Isen">Fords of Isen</a>. During the <a class="mw-redirect" href="../B/Battle_of_Helm&#39;s_Deep.md" title="Battle of Helm&#39;s Deep">Battle of Helm&#39;s Deep</a>, Gléowine keeps away from the fighting and later composes a song about the last stand of Théoden&#39;s door-warden <a href="../H/Háma.md" title="Háma">Háma</a>. Gléowine again journeys by the King&#39;s side to <a href="../M/Minas_Tirith.md" title="Minas Tirith">Mundburg</a> and sees the King&#39;s death at the hands of the <a href="../W/Witch-king.md" title="Witch-king">Witch-king</a> first-hand.</dd></dl>
 

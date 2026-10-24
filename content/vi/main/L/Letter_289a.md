@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói rằng anh ước mình đã làm theo bản năng của mình và từ chối cuộc phỏng vấn. Ông mong muốn rằng cuộc phỏng vấn sẽ không được xuất bản, nhưng ông cho biết rằng ông muốn nó được sửa đổi nếu nó phải được xuất bản.
+Tolkien nói rằng anh ước gì mình đã làm theo bản năng và từ chối cuộc phỏng vấn. Ông mong muốn rằng cuộc phỏng vấn sẽ không được xuất bản, nhưng ông cho biết rằng ông muốn nó được sửa đổi nếu nó phải được xuất bản.
 
 <br>
 

@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>David Alan Cherry</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Born</th><td class="tg-infobox-data"><a href="../_/14_December.md" title="14 December">14 December</a> <a href="../_/1949.md" title="1949">1949</a></td></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**David A. Cherry** (sinh [14 tháng 12](../_/14_December.md) [1949](../_/1949.md)) là một nghệ sĩ người Mỹ. Lần đầu tiên ông làm họa sĩ minh họa cho những cuốn sách giả tưởng, chuyển sang lĩnh vực nghệ thuật trò chơi vào những năm 1990. Với tư cách đó, anh được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền làm tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
+**David A. Cherry** (sinh [14 tháng 12](../_/14_December.md) [1949](../_/1949.md)) là một nghệ sĩ người Mỹ. Lần đầu tiên ông làm họa sĩ minh họa cho những cuốn sách giả tưởng, chuyển sang lĩnh vực nghệ thuật trò chơi vào những năm 1990. Với vai trò đó, anh được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền làm tác phẩm nghệ thuật thiệp cho *[Middle-earth Collectible Card Game](../M/Middle-earth_Collectible_Card_Game.md)*.<sup id="cite_ref-CCGA_1-0" class="reference"><a href="#cite_note-CCGA-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

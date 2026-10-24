@@ -44,28 +44,28 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../V/Valaquenta.md" title="Valaquenta">Valaquenta</a></i></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Ngọn lửa bí mật**, còn được gọi là **Ngọn lửa bất diệt** và **Ngọn lửa bất diệt**, là sức mạnh sáng tạo bí ẩn của Eru [Ilúvatar](../I/Ilúvatar.md).
+**Ngọn lửa bí mật**, còn được gọi là **Ngọn Lửa Bất Diệt** và **Ngọn lửa bất diệt**, là sức mạnh sáng tạo bí ẩn của Eru [Ilúvatar](../I/Ilúvatar.md).
 
 ## Lịch sử {#History}
 
-Ngọn lửa bí mật là khía cạnh của Eru, là Sức mạnh sáng tạo của ông. Chỉ nhờ Ngọn lửa Bí mật, một vật gì đó có chất liệu hoặc sự sống mới có thể được tạo ra từ hư vô. Chính nhờ Ngọn lửa Bí mật mà Eru đã ban cho [Âm nhạc của người Ainur](../M/Music_of_the_Ainur.md) sự tồn tại thực sự và tồn tại dưới dạng [Eä](../E/Eä.md).
+Ngọn lửa Bí mật là khía cạnh của Eru, là Sức mạnh Sáng tạo của ông. Chỉ nhờ Ngọn lửa Bí mật, một vật gì đó có chất liệu hoặc sự sống mới có thể được tạo ra từ hư vô. Chính nhờ Ngọn lửa Bí mật mà Eru đã tạo ra [Âm nhạc của các Ainur](../M/Music_of_the_Ainur.md) thực thể và sự tồn tại thực sự dưới dạng [Eä](../E/Eä.md).
 
-Eru đã tạo ra tất cả [fëar](../F/Fëa.md), bao gồm cả [Ainur](../A/Ainur.md), [Yêu tinh](../E/Elves.md), [Người lùn](../D/Dwarves.md) và [Con người](../M/Men.md), thông qua Ngọn lửa bí mật và nó là một phần của mỗi người trong số họ. Chỉ sinh vật có Ngọn lửa Bí mật mới có thể có cuộc sống thực sự và ý chí tự do của riêng mình. Không có nó, các sinh vật thiếu khả năng tri giác và suy nghĩ độc lập, mặc dù chúng có thể bị điều khiển bởi một ý chí lớn hơn. Người lùn của Aulë là những người máy như vậy cho đến khi Eru ban cho họ nỗi sợ hãi được sinh ra từ Ngọn lửa Bí mật.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Eru đã tạo ra tất cả [fëar](../F/Fëa.md), bao gồm cả [Ainur](../A/Ainur.md), [Tiên tộc](../E/Elves.md), [Người Lùn](../D/Dwarves.md) và [Con Người](../M/Men.md), thông qua Ngọn lửa Bí mật và nó là một phần của mỗi ngọn lửa đó. Chỉ sinh vật có Ngọn lửa Bí mật mới có thể có cuộc sống thực sự và ý chí tự do của riêng mình. Không có nó, các sinh vật thiếu khả năng tri giác và suy nghĩ độc lập, mặc dù chúng có thể bị điều khiển bởi một ý chí lớn hơn. Người Lùn của Aulë là những người máy như vậy cho đến khi Eru ban cho họ nỗi sợ hãi riêng được sinh ra từ Ngọn lửa Bí mật.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ngay cả trước khi Âm nhạc được cất lên, [Melkor](../M/Morgoth.md) đã ghen tị với sức mạnh này và tìm kiếm nó trong [Void](../V/Void.md), nhưng Ngọn lửa bất diệt đã ở cùng với Eru.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau Âm nhạc, Eru đã gửi nó đi đốt ở trung tâm của [Thế giới](../W/World.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Ngay cả trước khi Âm nhạc được cất lên, [Melkor](../M/Morgoth.md) đã ghen tị với sức mạnh này và tìm kiếm nó trong [Hư Không](../V/Void.md), nhưng Ngọn Lửa Bất Diệt đã ở cùng với Eru.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Sau Âm nhạc, Eru đã gửi nó đi đốt ở trung tâm của [Thế giới](../W/World.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Chỉ Eru với tư cách là Người sáng tạo mới có thể chỉ huy Ngọn lửa Bí mật; không một sinh vật sáng tạo nào có thể khẳng định được sức mạnh này.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Vì điều này, vẫn chưa rõ làm thế nào Melkor có thể "tạo ra" những sinh vật như [Orc](../O/Orcs.md) và [Rồng](../D/Dragons.md) hoặc làm thế nào những sinh vật này có thể hành động theo cách có vẻ hợp lý và tự định hướng như họ đã làm. Xem [Orcs/Origin](../O/Orcs%252FOrigin.md) để có cái nhìn đầy đủ hơn về vấn đề hóc búa này.
+Chỉ Eru với tư cách là Người sáng tạo mới có thể điều khiển Ngọn lửa Bí mật; không một sinh vật sáng tạo nào có thể đòi hỏi sức mạnh này.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Vì điều này, vẫn chưa rõ làm thế nào Melkor có thể "tạo ra" những sinh vật như [Orc](../O/Orcs.md) và [Rồng](../D/Dragons.md) hoặc làm thế nào những sinh vật này có thể hành động theo cách có vẻ hợp lý và tự định hướng như họ đã làm. Xem [Orc/Origin](../O/Orcs%252FOrigin.md) để có cái nhìn đầy đủ hơn về vấn đề hóc búa này.
 
-[Gandalf](../G/Gandalf.md) the Grey nhắc đến cả Ngọn lửa Bí mật và [ngọn lửa của Anor](../F/Flame_of_Anor.md) khi đối mặt với [một Balrog](../D/Durin's_Bane.md) trên Cầu [Khazad-dûm](../M/Moria.md), nói rằng "*Tôi là người hầu của Ngọn lửa Bí mật, người nắm giữ ngọn lửa của Anor.*"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Gandalf](../G/Gandalf.md) Xám nhắc đến cả Ngọn lửa Bí mật và [ngọn lửa Anor](../F/Flame_of_Anor.md) khi đối mặt với [a Balrog](../D/Durin's_Bane.md) trên Cầu [Khazad-dûm](../M/Moria.md), nói rằng "*Tôi là người hầu của Ngọn lửa Bí mật, người nắm giữ ngọn lửa Anor.*"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Đây là tên thay thế của Chúa Thánh Thần trong thần thoại của Tolkien, giống như [Eru](../I/Ilúvatar.md) là tên của Chúa. [Clyde S. Kilby](../C/Clyde_S._Kilby.md) đề cập đến cuộc thảo luận giữa ông với Tolkien: "Giáo sư Tolkien đã nói chuyện với tôi khá lâu về cách sử dụng từ 'thánh' trong *The Silmarillion*. Ông ấy nói rất cụ thể rằng 'Ngọn lửa bí mật được gửi đến để đốt cháy trái tim của Thế giới' ban đầu là [Chúa Thánh Thần](../A/Airefëa.md)."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Đây là tên thay thế của Chúa Thánh Thần trong thần thoại của Tolkien, giống như [Eru](../I/Ilúvatar.md) là tên của Chúa. [Clyde S. Kilby](../C/Clyde_S._Kilby.md) đề cập đến cuộc thảo luận giữa ông với Tolkien: "Giáo sư Tolkien đã nói chuyện với tôi khá lâu về việc sử dụng từ 'thánh' trong *The Silmarillion*. Cụ thể là ông ấy nói với tôi rằng 'Ngọn lửa bí mật được gửi đến để đốt cháy trái tim của Thế giới' ban đầu là [Chúa Thánh Thần](../A/Airefëa.md)."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Fëa và hröa](../F/Fëa_and_hröa.md)
-- [Orc/Nguồn gốc](../O/Orcs%252FOrigin.md)
+- [Orc/Xuất xứ](../O/Orcs%252FOrigin.md)
 - [Airefëa](../A/Airefëa.md)
 
 ## Liên kết ngoài {#External_links}

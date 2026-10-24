@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>gorgor</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "khủng bố, ám ảnh nỗi sợ hãi",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "cực kỳ kinh dị".<sup id="cite_ref-AC_2-0" class="reference"><a href="#cite_note-AC-2">[2]</a></sup>
+<i><b>gorgor</b></i> là một từ [Sindarin](../S/Sindarin.md) mang ý nghĩa "khủng bố, ám ảnh nỗi sợ hãi",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> "cực kỳ kinh dị".<sup id="cite_ref-AC_2-0" class="reference"><a href="#cite_note-AC-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

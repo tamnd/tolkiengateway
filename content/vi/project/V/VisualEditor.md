@@ -12,6 +12,6 @@ categories:
   - "Tolkien Gateway"
 ---
 
-**VisualEditor** cung cấp cho bạn khả năng chỉnh sửa bài viết mà không cần phải học [đánh dấu wikitext](../../help/E/Editing.md). Không giống như công cụ chỉnh sửa nguồn ban đầu, VisualEditor hiển thị văn bản đang được chỉnh sửa gần như thể nó đã được xuất bản. Tuy nhiên, có một số hạn chế, chẳng hạn như VisualEditor chậm hơn đối với các bài viết lớn và không được hỗ trợ trên các trang thảo luận, nhưng đây là trình chỉnh sửa mặc định được đề xuất cho [Cổng Tolkien](../../main/T/Tolkien_Gateway.md), đặc biệt đối với người dùng mới.
+**VisualEditor** cung cấp cho bạn khả năng chỉnh sửa bài viết mà không cần phải học [đánh dấu wikitext](../../help/E/Editing.md). Không giống như công cụ chỉnh sửa nguồn ban đầu, VisualEditor hiển thị văn bản đang được chỉnh sửa gần như thể nó đã được xuất bản. Tuy nhiên, có một số hạn chế, chẳng hạn như VisualEditor chậm hơn đối với các bài viết lớn và không được hỗ trợ trên các trang thảo luận, nhưng đây là trình soạn thảo mặc định được khuyên dùng cho [Tolkien Gateway](../../main/T/Tolkien_Gateway.md), đặc biệt đối với người dùng mới.
 
 Vui lòng xem <a class="external text" href="https://en.wikipedia.org/wiki/Wikipedia:VisualEditor" rel="noreferrer noopener" target="_blank">Cổng soạn thảo trực quan này</a> trên Wikipedia để biết thêm các câu hỏi thường gặp.

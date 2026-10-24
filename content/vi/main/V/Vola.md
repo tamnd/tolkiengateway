@@ -13,7 +13,7 @@ categories:
   - "Telerin nouns"
 ---
 
-<i><b>vola</b></i> là từ [Telerin](../T/Telerin.md) có nghĩa là "con lăn, làn sóng dài".<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+<i><b>vola</b></i> là từ [Telerin](../T/Telerin.md) có nghĩa là "cuộn, sóng dài".<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 

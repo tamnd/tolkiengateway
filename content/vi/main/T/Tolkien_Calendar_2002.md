@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2002.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f5/Tolkien_Calendar_2002.jpg/320px-Tolkien_Calendar_2002.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/f/f5/Tolkien_Calendar_2002.jpg 1.5x" data-file-width="350" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2002</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/4_June.md" title="4 June">4 June</a> <a href="../_/2001.md" title="2001">2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-00-711189-4" title="Special:BookSources/0-00-711189-4">0-00-711189-4</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-621154-9" title="Special:BookSources/0-06-621154-9">0-06-621154-9</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2001.md" title="Tolkien Calendar 2001">Tolkien Calendar 2001</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2003.md" title="Tolkien Calendar 2003">Tolkien Calendar 2003</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2002</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [ngày 4 tháng 6](../_/4_June.md) [2001](../_/2001.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*.
+Lịch <i><b>Tolkien 2002</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [4 tháng 6](../_/4_June.md) [2001](../_/2001.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -54,15 +54,15 @@ infobox:
 ## Minh họa {#Illustrations}
 
 - Tháng 1 - "[Cái nhìn cuối cùng về Hobbiton](../../file/T/Ted_Nasmith_-_Last_Sight_of_Hobbiton.jpg.md)"
-- Tháng 2 - "[Bên kia khu rừng già](../../file/T/Ted_Nasmith_-_Beyond_the_Old_Forest.jpg.md)"
-- Tháng 3 - "[Bài hát trên xe đẩy](../../file/T/Ted_Nasmith_-_A_Song_in_the_Trollshaws.jpg.md)"
+- Tháng 2 - "[Vượt quá Khu Rừng Cổ](../../file/T/Ted_Nasmith_-_Beyond_the_Old_Forest.jpg.md)"
+- Tháng 3 - "[Một bài hát trong Trollshaws](../../file/T/Ted_Nasmith_-_A_Song_in_the_Trollshaws.jpg.md)"
 - Tháng 4 - "[Tại Ford](../../file/T/Ted_Nasmith_-_At_the_Ford.jpg.md)"
-- Tháng 5 - "[Gandalf trốn thoát khỏi Gwaihir](../../file/T/Ted_Nasmith_-_Gandalf_Escapes_Upon_Gwaihir.jpg.md)"
-- Tháng 6 - "[Học bổng rời Rivendell](../../file/T/Ted_Nasmith_-_The_Fellowship_Leaving_Rivendell.jpg.md)"
-- Centrefold - "[Cháy trên đỉnh thời tiết](../../file/T/Ted_Nasmith_-_Fire_on_Weathertop.jpg.md)"
+- Tháng 5 - "[Gandalf Trốn thoát Gwaihir](../../file/T/Ted_Nasmith_-_Gandalf_Escapes_Upon_Gwaihir.jpg.md)"
+- Tháng 6 - "[Học bổng rời đi Rivendell](../../file/T/Ted_Nasmith_-_The_Fellowship_Leaving_Rivendell.jpg.md)"
+- Trung tâm - "[Bắn vào Weathertop](../../file/T/Ted_Nasmith_-_Fire_on_Weathertop.jpg.md)"
 - Tháng 7 - "[Tại Cầu](../../file/T/Ted_Nasmith_-_At_the_Bridge.jpg.md)"
 - Tháng 8 - "[Cây đại thụ ở Caras Galadhon](../../file/T/Ted_Nasmith_-_The_Great_Tree_at_Caras_Galadhon.jpg.md)"
-- Tháng 9 - "[Quý cô Galadriel](../../file/T/Ted_Nasmith_-_Lady_Galadriel.jpg.md)"
+- tháng Chín - "[Quý cô Galadriel](../../file/T/Ted_Nasmith_-_Lady_Galadriel.jpg.md)"
 - Tháng 10 - "[Những trụ cột của các vị vua](../../file/T/Ted_Nasmith_-_The_Pillars_of_the_Kings.jpg.md)"
 - Tháng 11 - "[Boromir](../../file/T/Ted_Nasmith_-_Boromir.jpg.md)"
 - Tháng 12 - "[Tại Thác](../../file/T/Ted_Nasmith_-_At_the_Falls.jpg.md)"
@@ -99,8 +99,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94340" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2002</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/2002_2004.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2002 - 2004</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94340" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2002</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/2002_2004.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2002 - 2004</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

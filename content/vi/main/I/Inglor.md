@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Inglor Felagund"
 ---
 
-Chuyển hướng tới [Inglor Felagund](Inglor_Felagund.md).
+Chuyển hướng đến [Inglor Felagund](Inglor_Felagund.md).

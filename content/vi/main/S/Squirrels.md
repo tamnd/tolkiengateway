@@ -24,17 +24,17 @@ images:
 
 **Sóc** là loài gặm nhấm ăn hạt thường thấy trên cây.
 
-[Númenor](../E/Elenna.md) vào [Thời thứ hai](Second_Age.md) có nhiều sóc trong rừng, chủ yếu là màu đỏ. Giống như tất cả các loài động vật trên đảo, chúng rất thân thiện và dễ thuần hóa. Phụ nữ [Númenórean](../N/Númenóreans.md) rất thích chúng và đôi khi sóc sống gần nhà để đến thăm họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+[Númenor](../E/Elenna.md) trong [Kỷ Đệ Nhị](Second_Age.md) có nhiều sóc trong rừng, chủ yếu là màu đỏ. Giống như tất cả các loài động vật trên đảo, chúng rất thân thiện và dễ thuần hóa. [Númenórean](../N/Númenóreans.md) phụ nữ rất thích chúng và đôi khi sóc sống gần nhà để đến thăm họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Ở [Mirkwood](../M/Mirkwood.md), những con sóc có màu đen.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong cuộc hành trình xuyên qua Mirkwood, [Thorin](../T/Thorin.md) và đồng đội của anh đã giết một con sóc đen để làm thức ăn nhưng nhận thấy nó không thể ăn được.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [Mirkwood](../M/Mirkwood.md), những con sóc có màu đen.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Trong hành trình xuyên qua Mirkwood, [Thorin](../T/Thorin.md) và đồng đội của anh đã giết một con sóc đen để làm thức ăn nhưng nhận thấy nó không ăn được.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Bản chất của sóc đen {#Nature_of_the_black_squirrels}
 
-[John D. Rateliff](../J/John_D._Rateliff.md) đã gợi ý rằng sóc đen là "*dark in coloration*" (giống như những động vật khác mà công ty gặp ở Mirkwood), "*chắc chắn là nhờ ngụy trang bảo vệ trong môi trường thiếu sáng*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Henry Gee, khi thảo luận về chủ đề <a class="extiw" href="http://en.wikipedia.org/wiki/Melanism" title="wikipedia:Melanism">chủ nghĩa hắc tố</a> ở [Trung Địa](../M/Middle-earth.md), chấp nhận sự phức tạp của chủ đề (vì các sinh vật da đen thường có thể làm như vậy được cho là đã được tạo ra hoặc sử dụng bởi [Morgoth](../M/Morgoth.md) và [Sauron](Sauron.md)), nhưng kết luận rằng những sinh vật bóng tối *per se* không phải là "ác quỷ" trong các tác phẩm của Tolkien: "*những sinh vật đen, dù là thiên nga, bướm hay sóc, chỉ đáng chú ý vì có những dạng màu sáng mà chúng có thể tương phản được.*"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[John D. Rateliff](../J/John_D._Rateliff.md) đã gợi ý rằng những con sóc đen là "*dark in coloration*" (giống như những động vật khác mà công ty gặp trong Mirkwood), "*chắc chắn là nhờ ngụy trang bảo vệ trong môi trường thiếu sáng*".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Henry Gee, khi thảo luận về chủ đề <a class="extiw" href="http://en.wikipedia.org/wiki/Melanism" title="wikipedia:Melanism">chủ nghĩa hắc tố</a> trong [Trung Địa](../M/Middle-earth.md), chấp nhận sự phức tạp của chủ đề (vì các sinh vật da đen thường có thể được cho là đã được tạo ra hoặc sử dụng bởi [Morgoth](../M/Morgoth.md) và [Sauron](Sauron.md)), nhưng kết luận rằng những sinh vật bóng tối *per se* không phải là "ác quỷ" trong các tác phẩm của Tolkien: "*những sinh vật đen, dù là thiên nga, bướm hay sóc, chỉ đáng chú ý ở chỗ có những hình dạng màu sáng có thể tương phản với chúng.*"<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1995: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1995: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Black squirrels are described and given role-playing statistics. The creature is portrayed as an ally of the Wood-elves and the Woodmen.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></dd></dl>
 
@@ -42,7 +42,7 @@ images:
 
 <dl><dd>Black squirrels are described and given statistics in the RPG magazine <i>The Hall of Fire</i> (intended for use with <a href="../D/Decipher.md" title="Decipher">Decipher</a>&#39;s <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Roleplaying Game</a></i>). Black squirrels are conceived as having been created by the &#39;dark magics&#39; of, and act as spy for, the <a class="mw-redirect" href="../N/Necromancer.md" title="Necromancer">Necromancer</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Squirrels are found throughout Middle-earth. Lore-masters can also have a non-combat squirrel pet.</dd></dl>
 

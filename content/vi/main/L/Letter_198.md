@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Một nhà làm phim người Mỹ (không rõ danh tính) đã bày tỏ sự quan tâm đến việc làm một bộ phim hoạt hình về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Tolkien hoan nghênh ý tưởng về một bộ phim hoạt hình, ngay cả khi có khả năng thô tục hóa. Khi sắp nghỉ hưu, tiền thêm cũng sẽ được hoan nghênh. Tolkien kết luận với nhận xét rằng ông nhận thấy việc thô tục hóa ít gây đau đớn hơn so với việc làm cho [BBC](../B/BBC.md) đạt được trong [loạt phim phát thanh](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của họ. <br>
+Một nhà làm phim người Mỹ (không rõ danh tính) đã bày tỏ sự quan tâm đến việc làm một bộ phim hoạt hình về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Tolkien hoan nghênh ý tưởng về một bộ phim hoạt hình, ngay cả khi có khả năng thô tục hóa. Khi sắp nghỉ hưu, tiền thêm cũng sẽ được hoan nghênh. Tolkien kết luận với nhận xét rằng ông nhận thấy sự thô tục hóa ít gây đau đớn hơn so với sự ngớ ngẩn hóa mà [BBC](../B/BBC.md) đạt được trong [chuỗi phát thanh](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của họ. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

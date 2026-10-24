@@ -38,9 +38,9 @@ Từ này có thể có phần cuối đại từ như thể một động từ 
 
 ## Phiên bản khác {#Other_versions}
 
-In another conceptual phase of Tolkien's, *lá* had the opposite meaning "yes".<sup id="cite_ref-VT42e_1-1" class="reference"><a href="#cite_note-VT42e-1">[1]</a></sup>
+Trong một giai đoạn khái niệm khác của Tolkien, *lá* có nghĩa ngược lại là "có".<sup id="cite_ref-VT42e_1-1" class="reference"><a href="#cite_note-VT42e-1">[1]</a></sup>
 
-Tolkien considered that the negation could receive tense markers however he later reconsidered it. Các thì mà *la* được chứng thực là:
+Tolkien cho rằng sự phủ định có thể nhận được dấu căng thẳng tuy nhiên sau đó anh đã xem xét lại điều đó. Các thì mà *la* được chứng thực là:
 
 - *la* (aorist)
 - *laia* (hiện tại)
@@ -50,7 +50,7 @@ Tolkien considered that the negation could receive tense markers however he late
 
 ## Cảm hứng {#Inspiration}
 
-Trong tiếng Ả Rập, "không" là *la'a*. [Tolkien](../J/J.R.R._Tolkien.md) said himself that this negative form "<i>appears in <a class="extiw" href="http://en.wikipedia.org/wiki/Semitic_languages" title="wikipedia:Semitic languages">Semitic</a></i>".<sup id="cite_ref-VT42e_1-2" class="reference"><a href="#cite_note-VT42e-1">[1]</a></sup> <span></span>
+Trong tiếng Ả Rập, "không" là *la'a*. [Tolkien](../J/J.R.R._Tolkien.md) tự nói rằng dạng phủ định này "<i>xuất hiện trong <a class="extiw" href="http://en.wikipedia.org/wiki/Semitic_languages" title="wikipedia:Semitic languages">Semitic</a></i>".<sup id="cite_ref-VT42e_1-2" class="reference"><a href="#cite_note-VT42e-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

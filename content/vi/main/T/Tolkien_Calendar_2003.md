@@ -43,7 +43,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2003.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a0/Tolkien_Calendar_2003.jpg/320px-Tolkien_Calendar_2003.jpg" decoding="async" loading="lazy" width="320" height="323" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/a/a0/Tolkien_Calendar_2003.jpg 1.5x" data-file-width="347" data-file-height="350"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2003</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/17_June.md" title="17 June">17 June</a> <a href="../_/2002.md" title="2002">2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-00-711190-8" title="Special:BookSources/0-00-711190-8">0-00-711190-8</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-008656-4" title="Special:BookSources/0-06-008656-4">0-06-008656-4</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2002.md" title="Tolkien Calendar 2002">Tolkien Calendar 2002</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2004.md" title="Tolkien Calendar 2004">Tolkien Calendar 2004</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2003</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [17 tháng 6](../_/17_June.md) [2002](../_/2002.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Two Towers](The_Two_Towers.md)*.
+Lịch <i><b>Tolkien 2003</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [17 tháng 6](../_/17_June.md) [2002](../_/2002.md). Nó có tác phẩm nghệ thuật của [Ted Nasmith](Ted_Nasmith.md) dựa trên *[The Two Towers](The_Two_Towers.md)*.
 
 ## Từ nhà xuất bản {#From_the_publishers}
 
@@ -54,16 +54,16 @@ infobox:
 
 ## Minh họa {#Illustrations}
 
-- Tháng 1 - "[Trận đứng cuối cùng của Boromir](../../file/T/Ted_Nasmith_-_Boromir's_Last_Stand.jpg.md)"
+- Tháng 1 - "Trận đứng cuối cùng của [Boromir](../../file/T/Ted_Nasmith_-_Boromir's_Last_Stand.jpg.md)"
 - Tháng 2 - "[Rừng Fangorn](../../file/T/Ted_Nasmith_-_Fangorn_Forest.jpg.md)"
 - Tháng 3 - "[Những kỵ sĩ của Rohan](../../file/T/Ted_Nasmith_-_The_Riders_of_Rohan.jpg.md)"
 - Tháng 4 - "[Người lạ trong rừng](../../file/T/Ted_Nasmith_-_The_Stranger_in_the_Forest.jpg.md)"
 - Tháng 5 - "[Những người chăn cừu](../../file/T/Ted_Nasmith_-_The_Tree_Shepherds.jpg.md)"
 - Tháng 6 - "[Những lần hiện ra](../../file/T/Ted_Nasmith_-_Apparitions.jpg.md)"
-- Centrefold - "[Sự phẫn nộ của loài Ent](../../file/T/Ted_Nasmith_-_The_Wrath_of_the_Ents.jpg.md)"
+- Centrefold - "[Sự phẫn nộ của Ent](../../file/T/Ted_Nasmith_-_The_Wrath_of_the_Ents.jpg.md)"
 - Tháng 7 - "[Cái nhìn đầu tiên về Ithilien](../../file/T/Ted_Nasmith_-_First_Sight_of_Ithilien.jpg.md)"
 - Tháng 8 - "[Mûmak của Harad](../../file/T/Ted_Nasmith_-_The_Mûmak_of_Harad.jpg.md)"
-- Tháng 9 - "[Sân thượng ở Henneth Annûn](../../file/T/Ted_Nasmith_-_The_Terrace_at_Henneth_Annûn.jpg.md)"
+- tháng Chín - "[Sân thượng ở Henneth Annûn](../../file/T/Ted_Nasmith_-_The_Terrace_at_Henneth_Annûn.jpg.md)"
 - Tháng 10 - "[Tại Ngã Tư](../../file/T/Ted_Nasmith_-_At_the_Cross-roads.jpg.md)"
 - Tháng 11 - "[Tháp Mặt Trăng](../../file/T/Ted_Nasmith_-_The_Tower_of_the_Moon.jpg.md)"
 - Tháng 12 - "[Shelob's Retreat](../../file/T/Ted_Nasmith_-_Shelob's_Retreat.jpg.md)"
@@ -107,8 +107,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94350" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2003</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/2002_2004.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2002 - 2004</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94350" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2003</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/2002_2004.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2002 - 2004</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

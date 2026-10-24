@@ -33,7 +33,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien vừa chuyển đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=21_Merton_Street&amp;action=edit&amp;redlink=1" title="21 Merton Street (page does not exist)">21 Merton Street</a>và vẫn đang trong quá trình chuyển đồ đạc của mình từ [Poole](../W/Woodridings.md). Tolkien nói với [Rayner](../R/Rayner_Unwin.md) rằng ông thích ngôi nhà, đặc biệt là bờ hoa rực rỡ gần đó, do [Đại học](../U/University_of_Oxford.md) sở hữu và điều hành, đồng thời mời vợ chồng Rayner đến chơi. <br>
+Tolkien vừa chuyển đến <a class="new" href="https://tolkiengateway.net/w/index.php?title=21_Merton_Street&amp;action=edit&amp;redlink=1" title="21 Merton Street (page does not exist)">21 Merton Street</a>và vẫn đang trong quá trình di chuyển đồ đạc của mình từ [Poole](../W/Woodridings.md). Tolkien nói với [Rayner](../R/Rayner_Unwin.md) rằng ông thích ngôi nhà, đặc biệt là bờ hoa rực rỡ gần đó, do [Đại học](../U/University_of_Oxford.md) sở hữu và điều hành, đồng thời mời vợ chồng Rayner đến chơi. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

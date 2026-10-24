@@ -148,7 +148,7 @@ langlinks:
 - [2012](../_/2012.md): [*Tolkien Studies*: Tập 9](../T/Tolkien_Studies%253A_Volume_9.md)
     - *[The Ecological Augury in the Works of JRR Tolkien](../T/The_Ecological_Augury_in_the_Works_of_JRR_Tolkien.md)* (sách năm 2011 của [Liam Campbell](../L/Liam_Campbell.md))
 - [2017](../_/2017.md): *[Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md)*: Tập 4
-    - *Tolkien, Bản thân và Người khác: "Sinh vật kỳ lạ này"* (cuốn sách năm 2016 của [Jane Chance](../J/Jane_Chance.md))
+    - *Tolkien, Bản thân và người khác: "This Queer Creature"* (cuốn sách năm 2016 của [Jane Chance](../J/Jane_Chance.md))
 - [2021](../_/2021.md): *Journal of Tolkien Research*: Tập 12
     - *[The Science of Middle-earth](<../T/The_Science_of_Middle-earth_(2021_book).md>)* (Sách năm 2021 do Lehoucq và cộng sự biên tập)
 - [2023](../_/2023.md): *Journal of Tolkien Research*: Tập 16
@@ -157,10 +157,10 @@ langlinks:
 
 ## Giải thưởng {#Awards}
 
-- [2020](../_/2020.md): **[Giải thưởng của Hiệp hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "<a class="external text" href="http://scholar.valpo.edu/journaloftolkienresearch/vol8/iss1/3" rel="noreferrer noopener" target="_blank">Giải mã Ngày của Durin: Khoa học, Tiểu thuyết khoa học dành cho người hâm mộ và Học giả hâm mộ</a>" trong [Tạp chí Nghiên cứu của Tolkien](../J/Journal_of_Tolkien_Research.md): Tập 8
+- [2020](../_/2020.md): **[Giải thưởng của Hội Tolkien](../T/Tolkien_Society_Awards.md): Bài viết hay nhất**, "<a class="external text" href="http://scholar.valpo.edu/journaloftolkienresearch/vol8/iss1/3" rel="noreferrer noopener" target="_blank">Giải mã Ngày Durin: Khoa học, Tiểu thuyết khoa học dành cho người hâm mộ và Học giả hâm mộ</a>" trong [Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md): Tập 8
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://www.physics.ccsu.edu/larsen/" rel="noreferrer noopener" target="_blank">Trang web của Kristine Larsen</a>
-- <a class="external text" href="https://www.physics.ccsu.edu/larsen/tolkien.html" rel="noreferrer noopener" target="_blank">"Thiên văn học của Trung địa" của Kristine Larsen</a>
+- <a class="external text" href="https://www.physics.ccsu.edu/larsen/tolkien.html" rel="noreferrer noopener" target="_blank">"Thiên văn học của Trung Địa"</a> của Kristine Larsen
 - <a class="external text" href="https://www.ccsu.edu/person/kristine-larsen" rel="noreferrer noopener" target="_blank">Kristine Larsen</a> tại <a class="external text" href="https://www.ccsu.edu/" rel="noreferrer noopener" target="_blank">Đại học bang Central Connecticut</a>

@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_1973.md" title="Third Age 1973">1973</a><a href="Third_Age_1974.md" title="Third Age 1974">1974</a><a href="Third_Age_1975.md" title="Third Age 1975">1975</a><a class="mw-selflink selflink">1976</a><a href="Third_Age_1977.md" title="Third Age 1977">1977</a><a href="Third_Age_1979.md" title="Third Age 1979">1979</a><a href="Third_Age_1980.md" title="Third Age 1980">1980</a></div></div></div></div></div></div>
 
-**Tuổi thứ ba 1976** (viết tắt là **T.A. 1976**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 1976 của [Tuổi thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 1976 còn được gọi là **S.R. 376** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 1976** (viết tắt là **T.A. 1976**) là năm [năm 1976 năm Mặt Trời](../Y/Years_of_the_Sun.md) đời [Kỷ Đệ Tam](Third_Age.md) đời [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 1976 còn được gọi là **S.R. 376** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Aranarth](../A/Aranarth.md) lấy danh hiệu [Thủ lĩnh của người Dúnedain](../C/Chieftain_of_the_Dúnedain.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
-- Các vật gia truyền của [Arnor](../A/Arnor.md) (các mảnh của [Narsil](../N/Narsil.md) và [Quyền trượng của Annúminas](../S/Sceptre_of_Annúminas.md)) được giao cho [Elrond](../E/Elrond.md) tại [Rivendell](../R/Rivendell.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- [Aranarth](../A/Aranarth.md) lấy tiêu đề là [Thủ lĩnh của Dúnedain](../C/Chieftain_of_the_Dúnedain.md).<sup id="cite_ref-TA_1-0" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
+- Vật gia truyền của [Arnor](../A/Arnor.md) (các mảnh [Narsil](../N/Narsil.md) và [Vương trượng Annúminas](../S/Sceptre_of_Annúminas.md)) được giao cho [Elrond](../E/Elrond.md) lưu giữ tại [Rivendell](../R/Rivendell.md).<sup id="cite_ref-TA_1-1" class="reference"><a href="#cite_note-TA-1">[1]</a></sup>
 
 <span></span>
 

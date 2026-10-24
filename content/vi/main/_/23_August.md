@@ -66,16 +66,16 @@ Sự kiện xảy ra vào ngày 23 tháng 8
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1925](1925.md)** - Ngày đầu tiên được ghi trong văn bản của [Lay of Leithian](../L/Lay_of_Leithian.md), tại Dòng 557.
+- **[1925](1925.md)** - Ngày đầu tiên được ghi bằng văn bản của [Lay of Leithian](../L/Lay_of_Leithian.md), tại Dòng 557.
 - **[1974](1974.md)** - [Mythcon 5](../M/Mythcon_5.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Scripps_College" title="wikipedia:Scripps College">Scripps College</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Claremont,_California" title="wikipedia:Claremont, California">Claremont</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[1981](1981.md)** - Tập thứ 25 của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
-- <b><a href="1990.md" title="1990">1990</a> - <i><a href="../T/The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> được xuất bản ở Anh.</b>
+- <b><a href="1990.md" title="1990">1990</a> - <i><a href="../T/The_War_of_the_Ring.md" title="The War of the Ring"> Cuộc chiến Nhẫn</a></i> được xuất bản ở Vương quốc Anh.</b>
 - **[1992](1992.md)** - Phần thứ hai của [loạt phim phát thanh năm 1992](<../T/Tales_from_the_Perilous_Realm_(1992_radio_series).md>) của *[Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md)* được phát sóng trên [BBC Radio 5](../B/BBC.md).
-- **[1992](1992.md)** - [Hội nghị trăm năm Tolkien](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
-- **[2006](2006.md)** - [Hội nghị Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
+- **[1992](1992.md)** - [Tolkien Hội nghị Thế kỷ](../T/Tolkien_Centenary_Conference.md), sự kết hợp giữa [Oxonmoot](../O/Oxonmoot.md) 1992 và [Mythcon](../M/Mythcon.md) 23, tại <a class="extiw" href="http://en.wikipedia.org/wiki/Keble_College,_Oxford" title="wikipedia:Keble College, Oxford">Keble College, Oxford</a>.
+- **[2006](2006.md)** - [Hội thảo Oxford Tolkien](../T/The_Oxford_Tolkien_Conference.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Exeter_College,_Oxford" title="wikipedia:Exeter College, Oxford">Exeter College, Oxford</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

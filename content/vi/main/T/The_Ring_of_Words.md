@@ -40,9 +40,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Ring_of_Words_2006.jpeg.md"><img src="https://tolkiengateway.net/w/images/8/87/The_Ring_of_Words_2006.jpeg" decoding="async" loading="lazy" width="254" height="400" class="mw-file-element" data-file-width="254" data-file-height="400"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Ring of Words:<br/><small>Tolkien and the Oxford English Dictionary</small></span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data">Peter Gilliver, Edmund Weiner, Jeremy Marshall</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Oxford University Press</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/19_May.md" title="19 May">19 May</a> <a href="../_/2006.md" title="2006">2006</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">256</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0198610694" title="Special:BookSources/978-0198610694">978-0198610694</a></td></tr></tbody></table>
 
-<i><b>The Ring of Words: Tolkien và Từ điển tiếng Anh Oxford</b></i> là một cuốn sách học thuật được xuất bản trong [2006](../_/2006.md), bởi ba biên tập viên của *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*: Peter Gilliver, Jeremy Marshall và Edmund Weiner.
+<i><b>The Ring of Words: Tolkien và Oxford Từ điển tiếng Anh</b></i> là một cuốn sách học thuật được xuất bản trong [2006](../_/2006.md), bởi ba biên tập viên của *[Oxford English Dictionary](../O/Oxford_English_Dictionary.md)*: Peter Gilliver, Jeremy Marshall và Edmund Weiner.
 
-Cuốn sách đầu tiên xem xét khoảng thời gian ngắn ngủi của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) làm việc với tư cách là người viết từ điển cho *OED* sau Thế chiến thứ nhất, sau đó theo dõi cách ngữ văn của Tolkien đã định hình và nuôi dưỡng cả tác phẩm học thuật và văn học của ông. Phần cuối cùng, chiếm hơn một nửa cuốn sách, xem xét hơn 100 từ riêng lẻ được Tolkien sử dụng hoặc phát minh ra, sắp xếp theo thứ tự bảng chữ cái và thảo luận về nguồn gốc của chúng, các nguồn tiềm năng, cách Tolkien sử dụng chúng và những thay đổi mà ông đã thực hiện đối với ý nghĩa của chúng.
+Cuốn sách đầu tiên xem xét khoảng thời gian ngắn ngủi của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) làm công việc soạn từ điển cho *OED* sau Thế chiến thứ nhất, sau đó theo dõi cách ngữ văn của Tolkien đã định hình và nuôi dưỡng cả tác phẩm học thuật và văn học của ông như thế nào. Phần cuối cùng, chiếm hơn một nửa cuốn sách, xem xét hơn 100 từ riêng lẻ được Tolkien sử dụng hoặc phát minh, sắp xếp theo thứ tự bảng chữ cái và thảo luận về nguồn gốc, nguồn tiềm năng của chúng, cách Tolkien sử dụng chúng và những thay đổi mà ông đã thực hiện đối với ý nghĩa của chúng.
 
 Nhan đề được lấy từ một số câu thơ của R.L. Stevenson, được trích ở trang tựa:
 
@@ -59,13 +59,13 @@ Nhan đề được lấy từ một số câu thơ của R.L. Stevenson, đư�
 - Lời nói đầu
 - Lời cảm ơn
 
-- Phần I: Tolkien với tư cách là nhà soạn từ điển
+- Phần I: Tolkien với tư cách là người viết từ điển
 
 - Phần II: Tolkien với tư cách là nhà soạn thảo văn bản
 
 - Phần III: Nghiên cứu từ ngữ
 
-- Phần kết: Ảnh hưởng của Tolkien đối với ngôn ngữ tiếng Anh
+- Phần kết: Ảnh hưởng của Tolkien tới tiếng Anh
 - Thư mục
 - Chỉ mục
 
@@ -97,13 +97,13 @@ Nhan đề được lấy từ một số câu thơ của R.L. Stevenson, đư�
 		</li>
 </ul>
 
-- Nhà xuất bản Đại học Oxford, bìa cứng ([2006](../_/2006.md)), trang 256. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780198610694">ISBN 978-0198610694</a>
-- Nhà xuất bản Đại học Oxford, bìa mềm ([2009](../_/2009.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780199568369">ISBN 978-0199568369</a>
+- Oxford Nhà xuất bản Đại học, bìa cứng ([2006](../_/2006.md)), trang 256. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780198610694">ISBN 978-0198610694</a>
+- Oxford Nhà xuất bản Đại học, bìa mềm ([2009](../_/2009.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780199568369">ISBN 978-0199568369</a>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://johngarth.co.uk/php/ring_of_words.php" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của [John Garth](../J/John_Garth.md)
-- <a class="external text" href="https://muse.jhu.edu/pub/20/article/215113" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của [Douglas A. Anderson](../D/Douglas_A._Anderson.md), từ [Tolkien Studies vol. 4](Tolkien_Studies%253A_Volume_4.md)
+- <a class="external text" href="https://muse.jhu.edu/pub/20/article/215113" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của [Douglas A. Anderson](../D/Douglas_A._Anderson.md), từ [Tolkien Nghiên cứu tập. 4](Tolkien_Studies%253A_Volume_4.md)
 
 <br>
 

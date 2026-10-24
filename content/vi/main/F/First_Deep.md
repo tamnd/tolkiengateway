@@ -17,7 +17,7 @@ langlinks:
     url: "https://kontu.wiki/Ensimm%C3%A4inen_syvyys"
 ---
 
-**Vực sâu đầu tiên** là tầng ở [Khazad-dûm](../M/Moria.md) ngay bên dưới [Cổng lớn](../G/Great_Gates.md) ở phía đông của [Dãy núi sương mù](../M/Misty_Mountains.md). Sau trận chiến ở [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md), các thành viên của [Học bổng](Fellowship_of_the_Ring.md) chạy xuống bảy tầng cầu thang và đi khoảng một dặm, đến [Sảnh thứ hai](../S/Second_Hall.md) ở First Deep. Trên tầng này có [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Vực sâu thứ nhất** có mực nước ở [Khazad-dûm](../M/Moria.md) ngay bên dưới [Cổng Lớn](../G/Great_Gates.md) ở phía đông của [Dãy Núi Sương Mù](../M/Misty_Mountains.md). Sau trận chiến ở [Phòng Mazarbul](../C/Chamber_of_Mazarbul.md), các thành viên của [Hiệp hội](Fellowship_of_the_Ring.md) chạy xuống bảy tầng cầu thang và đi khoảng một dặm, đến [Sảnh thứ hai](../S/Second_Hall.md) ở First Deep. Chính ở cấp độ này mà [Cầu Khazad-dûm](../B/Bridge_of_Khazad-dûm.md) nằm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

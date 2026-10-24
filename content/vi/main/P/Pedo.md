@@ -13,7 +13,7 @@ categories:
   - "Sindarin verbs"
 ---
 
-**pedo** (gốc [KWETE](../K/KWETE.md)) là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "nói" hoặc "nói" (mệnh lệnh).
+**pedo** (gốc [KWETE](../K/KWETE.md)) là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "nói" hoặc "nói" (mệnh lệnh).
 
 [Cánh cửa Durin](../D/Doors_of_Durin.md) có dòng chữ *Pedo [mellon](../M/Mellon.md) a minno* nghĩa là "Nói 'bạn' và bước vào".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

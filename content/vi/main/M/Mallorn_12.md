@@ -40,9 +40,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn_12.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0a/Mallorn_12.jpg/320px-Mallorn_12.jpg" decoding="async" loading="lazy" width="320" height="453" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/Mallorn_12.jpg/480px-Mallorn_12.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0a/Mallorn_12.jpg/640px-Mallorn_12.jpg 2x" data-file-width="1783" data-file-height="2522"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 12</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Kevin Young</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1978.md" title="1978">1978</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">52</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_11.md" title="Mallorn 11">Mallorn 11</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_13.md" title="Mallorn 13">Mallorn 13</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 12</b> là số thứ mười hai của tạp chí thường niên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, được xuất bản trên [1978](../_/1978.md).
+<b><i>Mallorn</i> 12</b> là số thứ mười hai của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản trên [1978](../_/1978.md).
 
-Số này bao gồm bài đánh giá "Ý kiến ​​của Priscilla Tolkien về tiểu sử" (trang 5–6) và bản in lại bài thơ đầu tiên của J.R.R. Tolkien"[Trận chiến ở cánh đồng phía Đông](../T/The_Battle_of_the_Eastern_Field.md)" (trang 24–28).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Số báo này bao gồm bài đánh giá "Ý kiến ​​của Priscilla Tolkien về Tiểu sử" (trang 5–6) và bản in lại bài thơ đầu tiên của J.R.R. Tolkien"[Trận chiến ở cánh đồng phía Đông](../T/The_Battle_of_the_Eastern_Field.md)" (trang 24–28).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
@@ -54,9 +54,9 @@ Số này bao gồm bài đánh giá "Ý kiến ​​của Priscilla Tolkien v�
     - Bởi: Anne Etkin
 - Minh họa: *Morgoth*
     - Bởi: Stephen Lines
-- Bài thơ: Nazgûl
+- Bài thơ: Cái Nazgûl
     - Bởi: Stuart Kelly
-- Bài viết: Gandalf nằm đây
+- Bài viết: Đây nằm Gandalf
     - Bởi: Archie Mercer
 - Minh họa: *Eärendil*
     - Bởi: Helmut Pesch
@@ -72,14 +72,14 @@ Số này bao gồm bài đánh giá "Ý kiến ​​của Priscilla Tolkien v�
     - Bởi: [Charles Noad](../C/Charles_Noad.md)
 - Truyện ngắn: Kẻ biến hình
     - Bởi: Jim Johnstone
-- Phê bình và đáp trả: Chuyện vợ lùn
+- Phê bình và đáp trả: Câu chuyện của những người vợ Người lùn
     - Bởi: Anthony Gunning
     - Bởi: [Vera Chapman](../V/Vera_Chapman.md)
 - Đánh giá: Khám phá thế giới mới
     - Bởi: Rosemary Haughton
 - Bài thơ: Dragonsnore
     - Bởi: Anne Etkin
-- Bài viết: Lời nguyền của những chú lùn nhỏ mọn
+- Bài viết: Lời nguyền của Người lùn Nhỏ
     - Bởi: Pat Masson
 - Minh họa: Minas Tirith
     - Bởi: John Trippick
@@ -90,7 +90,7 @@ Số này bao gồm bài đánh giá "Ý kiến ​​của Priscilla Tolkien v�
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/13/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/13/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>
 
 <span></span>
 

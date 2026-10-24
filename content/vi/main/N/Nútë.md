@@ -15,7 +15,7 @@ sort_keys:
   "Quenya nouns": "Nute"
 ---
 
-**núte** trong [Quenya](../Q/Quenya.md) có nghĩa là "sự ràng buộc, nút thắt"
+**núte** trong [Quenya](../Q/Quenya.md) có nghĩa là "nút thắt, nút thắt"
 
 ## Từ nguyên {#Etymology}
 

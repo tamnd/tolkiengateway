@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Ithilien"
 ---
 
-Chuyển hướng tới [Ithilien](../I/Ithilien.md).
+Chuyển hướng đến [Ithilien](../I/Ithilien.md).

@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Một thủ thư đã chuẩn bị một danh sách tên, địa điểm và các từ trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và gửi cho Unwin vì họ hy vọng chúng sẽ được đưa vào sách. Tolkien cho biết ông sẽ gửi lại chúng kèm theo những ghi chú nhỏ. Ông cũng cho biết hiện ông đang trong "trạng thái tích cực chuẩn bị" vào ngày *The Silmarillion* nhờ thư ký của ông (không nêu tên trong thư) vào thời điểm đó.
+Một thủ thư đã chuẩn bị một danh sách tên, địa điểm và các từ trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và gửi cho Unwin vì họ hy vọng chúng sẽ được đưa vào sách. Tolkien cho biết anh sẽ gửi lại chúng kèm theo những ghi chú nhỏ. Ông cũng cho biết hiện ông đang trong "trạng thái tích cực chuẩn bị" vào ngày *The Silmarillion* nhờ thư ký của ông (không nêu tên trong thư) vào thời điểm đó.
 
 <br>
 

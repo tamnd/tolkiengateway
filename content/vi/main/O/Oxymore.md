@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "J.R.R. Tolkien"
 ---
 
-Chuyển hướng tới [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+Chuyển hướng đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).

@@ -27,9 +27,9 @@ langlinks:
     url: "https://kontu.wiki/%C3%96rkkikieli"
 ---
 
-**Tiếng Ork** là một thuật ngữ chung để chỉ sự lộn xộn của các ngôn ngữ được sử dụng bởi [Orc](Orcs.md), được tạo thành từ những từ mượn sai lầm từ các ngôn ngữ khác của [Trung Địa](../M/Middle-earth.md). Sự khác biệt trong tiếng Orkish giữa các bộ tộc và chủng tộc Orc khác nhau lớn đến mức nó thường vô dụng trong giao tiếp và do đó cần có một ngôn ngữ tiêu chuẩn. [Sauron](../S/Sauron.md) đã nghĩ ra [Lời nói đen](../B/Black_Speech.md) của mình cho mục đích này ở [Mordor](../M/Mordor.md), nhưng trên thực tế, [Tiếng phổ thông](../W/Westron.md) được sử dụng phổ biến hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tiếng Ork** là thuật ngữ chung để chỉ sự lộn xộn của các ngôn ngữ được sử dụng bởi [Orc](Orcs.md), được tạo thành từ những từ mượn sai lệch từ các ngôn ngữ khác của [Trung Địa](../M/Middle-earth.md). Sự khác biệt trong tiếng Orkish giữa các bộ lạc và chủng loại Orc khác nhau lớn đến mức nó thường vô dụng trong giao tiếp và do đó cần có một ngôn ngữ tiêu chuẩn. [Sauron](../S/Sauron.md) đã nghĩ ra [Hắc Ngữ](../B/Black_Speech.md) của mình cho mục đích này ở [Mordor](../M/Mordor.md), nhưng trên thực tế, [Tiếng phổ thông](../W/Westron.md) được sử dụng phổ biến hơn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Người ta nói rằng chính [Morgoth](../M/Morgoth.md) là người đã phát minh ra cách nói cho loài Orc ngay từ đầu,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> do đó liên quan đến khái niệm trước đó về họ ngôn ngữ [Melkian](../M/Melkian.md).
+Người ta nói rằng chính [Morgoth](../M/Morgoth.md) là người đã phát minh ra cách nói cho Orc ngay từ đầu,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> do đó liên quan đến khái niệm trước đó về họ ngôn ngữ [Melkian](../M/Melkian.md).
 
 ## Xem thêm {#See_also}
 
@@ -37,8 +37,8 @@ Người ta nói rằng chính [Morgoth](../M/Morgoth.md) là người đã phá
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://folk.uib.no/hnohf/orkish.htm" rel="noreferrer noopener" target="_blank">Bài phát biểu của người Ork và người da đen</a> của [Helge Fauskanger](../H/Helge_Fauskanger.md)
-- <a class="external text" href="http://midgardsmal.com/yrksk-ordabok/" rel="noreferrer noopener" target="_blank">Yrksk Orðabók</a> (Danh sách từ tân Orkish từ [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>)) của [David Salo](../D/David_Salo.md)
+- <a class="external text" href="http://folk.uib.no/hnohf/orkish.htm" rel="noreferrer noopener" target="_blank">Tiếng Orkish và Hắc Ngữ</a> của [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://midgardsmal.com/yrksk-ordabok/" rel="noreferrer noopener" target="_blank">Yrksk Orðabók</a> (Danh sách từ tiếng Orkish mới từ [*The Hobbit* loạt phim](<../T/The_Hobbit_(film_series).md>)) của [David Salo](../D/David_Salo.md)
 
 <span></span>
 

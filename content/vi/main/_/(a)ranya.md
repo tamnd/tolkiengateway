@@ -16,7 +16,7 @@ categories:
 
 ## Từ nguyên {#Etymology}
 
-Từ này là dạng hậu duệ của [Quendian nguyên thủy](../P/Primitive_Quendian.md) *(a)raniā*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> bắt nguồn từ [gốc](../S/Sundocarme.md) [RAN](../R/RAN.md#Other_versions).<sup id="cite_ref-Corr_1-1" class="reference"><a href="#cite_note-Corr-1">[1]</a></sup>
+Từ này là dạng con cháu của [Primitive Quendian](../P/Primitive_Quendian.md) *(a)raniā*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 1]</a></sup> bắt nguồn từ [gốc](../S/Sundocarme.md) [RAN](../R/RAN.md#Other_versions).<sup id="cite_ref-Corr_1-1" class="reference"><a href="#cite_note-Corr-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 

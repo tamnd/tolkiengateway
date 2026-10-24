@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>loth</b></i> là một từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "chùm hoa, đầu hoa nhỏ",<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup> "hoa, một bông hoa",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc "một bông hoa (có hình dạng xác định)".<sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
+<i><b>loth</b></i> là một từ [Sindarin](../S/Sindarin.md) có nghĩa là "chùm hoa, đầu hoa nhỏ",<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup> "hoa, một bông hoa",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> hoặc "một bông hoa (có hình dạng xác định)".<sup id="cite_ref-PE17_3-0" class="reference"><a href="#cite_note-PE17-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

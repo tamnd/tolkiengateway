@@ -14,11 +14,11 @@ images:
   - "Disambig.png"
 ---
 
-**Sự tàn phá của Smaug** có thể đề cập đến:
+**Sự hoang tàn của Smaug** có thể đề cập đến:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- [Sự tàn phá của Rồng](Desolation_of_the_Dragon.md) hoặc **Sự tàn phá của Smaug** các vùng đất xung quanh Erebor và Dale trong những ngày của [Smaug](../S/Smaug.md).
+- [Sự hoang tàn của Rồng](Desolation_of_the_Dragon.md) hoặc **Sự hoang tàn của Smaug** các vùng đất xung quanh Erebor và Dale trong những ngày [Smaug](../S/Smaug.md).
 
 ## Sách {#Books}
 
@@ -26,7 +26,7 @@ images:
 
 ## Các bản chuyển thể {#Adaptations}
 
-- *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*, phần thứ hai của [Peter Jackson](../P/Peter_Jackson.md) *[The Hobbit (film series)](<../T/The_Hobbit_(film_series).md>).*
+- *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)*, phần thứ hai trong *[The Hobbit (film series)](<../T/The_Hobbit_(film_series).md>).* của [Peter Jackson](../P/Peter_Jackson.md)
     - [*The Hobbit: The Desolation of Smaug* (phiên bản mở rộng)](<../T/The_Hobbit%253A_The_Desolation_of_Smaug_(extended_edition).md>), một phiên bản của phim có thời lượng thêm 25 phút.
     - *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md)*
         - *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack - Special Edition](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md)*

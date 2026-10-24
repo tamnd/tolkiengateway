@@ -24,15 +24,15 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Mountain range</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mountains of the Wind</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Western border of <a href="../H/Hildórien.md" title="Hildórien">Hildórien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Mountain range</td></tr></tbody></table>
 
-**Núi Gió** là một dãy núi ở giữa [Trung Địa](Middle-earth.md) về phía tây của [Hildórien](../H/Hildórien.md) theo [Ambarkanta](../A/Ambarkanta.md).
+**Dãy Núi Gió** là một dãy núi ở giữa [Trung Địa](Middle-earth.md) về phía tây của [Hildórien](../H/Hildórien.md) theo [Ambarkanta](../A/Ambarkanta.md).
 
 ## Lịch sử {#History}
 
-Do đó, Dãy núi Gió được đặt tên vì những cơn gió mạnh "đến từ phía Đông trước Mặt trời". Dãy núi Gió không còn được nhắc đến trong các phiên bản sau của [huyền thoại](../L/Legendarium.md).
+Do đó, Dãy Núi Gió được đặt tên vì gió mạnh "đến từ phương Đông trước Mặt Trời". Dãy Núi của Gió không còn được nhắc đến trong các phiên bản sau của [huyền thoại](../L/Legendarium.md).
 
 Những điều này có thể tương ứng với "bức tường núi" mà [Nuin](../N/Nuin.md) cuối cùng đã vượt qua sau khi tìm thấy lối đi đưa anh đến [Thung lũng Ngủ](../V/Vale_of_Sleep.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [bản đồ Ambarkanta](../A/Ambarkanta_maps.md), Dãy núi Gió không được hiển thị trên Bản đồ V, được gắn nhãn "Sau [Cuộc chiến của các vị thần](../B/Battle_of_the_Powers.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, chúng xuất hiện trên Bản đồ IV<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>, được gắn nhãn theo chiều dọc là "Mts of the Wind" với hai dãy núi.
+Trong [Ambarkanta bản đồ](../A/Ambarkanta_maps.md), Dãy Núi Gió không được hiển thị trên Bản đồ V, được gắn nhãn "Sau [Cuộc chiến của các vị thần](../B/Battle_of_the_Powers.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Tuy nhiên, chúng xuất hiện trên Bản đồ IV<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>, được gắn nhãn theo chiều dọc là "Mts of the Wind" với hai dãy núi.
 
 <span></span>
 

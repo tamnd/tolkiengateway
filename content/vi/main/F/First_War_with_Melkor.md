@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "First War"
 ---
 
-Chuyển hướng đến [Chiến tranh đầu tiên](First_War.md).
+Chuyển hướng đến [Cuộc Chiến thứ Nhất](First_War.md).

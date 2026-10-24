@@ -33,11 +33,11 @@ Bức thư gốc gồm bốn trang.<sup id="cite_ref-1" class="reference"><a hre
 
 ## Tóm tắt {#Summary}
 
-Tolkien báo cáo rằng ông đã thuyết trình bài giảng mở đầu của Bài giảng O'Donnell mới thành lập về Nghiên cứu Celtic. Đó là một trải nghiệm tồi tệ - đã quá muộn, ông chỉ là người nghiệp dư nhất trong những vấn đề như vậy (đối mặt với các học giả Celtic quan trọng), và ông bị viêm thanh quản.
+Tolkien báo cáo rằng ông đã trình bày bài giảng mở đầu của Bài giảng O'Donnell mới thành lập về Celtic Nghiên cứu. Đó là một trải nghiệm tồi tệ – đã quá muộn, ông chỉ là kẻ nghiệp dư nhất trong những vấn đề như vậy (đối mặt với Celtic học giả phê phán), và ông bị viêm thanh quản.
 
-Ông nghĩ không tốt về các bản chuyển thể phát sóng của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* ngoại trừ một vài chi tiết. Phiên bản [Chương trình thứ ba của BBC](../B/BBC.md) có một số vấn đề về tên. [Gimli](../G/Gimli.md) không quá tệ, mặc dù đã cường điệu hóa. Tolkien coi Người lùn giống như người Do Thái, ở chỗ họ vừa là người bản địa vừa là người xa lạ trong nơi sinh sống của họ, nói ngôn ngữ địa phương nhưng có giọng vì họ có ngôn ngữ riêng.
+Ông nghĩ không tốt về các bản chuyển thể phát sóng của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* ngoại trừ một vài chi tiết. Phiên bản [Chương trình thứ ba của BBC](../B/BBC.md) có một số vấn đề về tên. [Gimli](../G/Gimli.md) không quá tệ, mặc dù có cường điệu hóa. Tolkien nghĩ Người Lùn giống người Do Thái, ở chỗ họ vừa là người bản địa vừa là người xa lạ trong môi trường sống của mình, nói tiếng địa phương nhưng có giọng vì họ có tiếng nói riêng.
 
-Tolkien xin lỗi vì trò đùa trẻ con với số học, chỉ ra rằng lịch Númenórean của ông tốt hơn (chậm 17,2 giây) so với <a class="extiw" href="http://en.wikipedia.org/wiki/Gregorian_calendar" title="wikipedia:Gregorian calendar">Gregorian</a> (nhanh 26 giây). <span></span>
+Tolkien xin lỗi vì trò đùa trẻ con với số học, chỉ ra rằng lịch Númenórean của ông tốt hơn (chậm 17,2 giây) so với lịch <a class="extiw" href="http://en.wikipedia.org/wiki/Gregorian_calendar" title="wikipedia:Gregorian calendar">Gregorian</a> (nhanh 26 giây). <span></span>
 
 ## Tài liệu tham khảo {#References}
 

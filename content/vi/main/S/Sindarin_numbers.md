@@ -14,7 +14,7 @@ sort_keys:
   "Sindarin numbers": " "
 ---
 
-Các **[Số Sindarin](Sindarin.md)** như sau.
+**[Sindarin](Sindarin.md) số** như sau.
 
 - <i><b><a href="../M/Min.md" title="Min">phút</a></b></i> = một
 - <i><b><a href="../T/Tâd.md" title="Tâd">tâd</a></b></i> = hai
@@ -31,4 +31,4 @@ Các **[Số Sindarin](Sindarin.md)** như sau.
 
 ## Xem thêm {#See_also}
 
-- [Số Quenya](../Q/Quenya_numbers.md)
+- [Quenya số](../Q/Quenya_numbers.md)

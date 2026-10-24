@@ -30,11 +30,11 @@ Các sáng tác của Howard Shore cho *The Lord of the Rings* và *The Hobbit*,
 
 Các tác phẩm bao gồm:
 
-1. [The Rings of Power mùa một](<../../category/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>): Chỉ có tựa đề mở đầu ([Howard Shore](../H/Howard_Shore.md)) và bài hát gốc (Kế hoạch 9 và David Long).
-2. [Cuộc chiến của người Rohirrim](The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md) ([Stephen Gallagher](../S/Stephen_Gallagher.md), David Long sử dụng chủ đề của Howard Shore và Kế hoạch 9)
+1. [ Những Chiếc Nhẫn Quyền Năng phần một](<../../category/T/The_Lord_of_the_Rings%253A_The_Rings_of_Power_(Season_One%253A_Amazon_Original_Series_Soundtrack).md>): Chỉ có tựa đề mở đầu ([Howard Shore](../H/Howard_Shore.md)) và bài hát gốc (Plan 9 và David Long).
+2. [Cuộc chiến Rohirrim](The_Lord_of_the_Rings%253A_The_War_of_the_Rohirrim.md) ([Stephen Gallagher](../S/Stephen_Gallagher.md), David Long sử dụng chủ đề của Howard Shore và Kế hoạch 9)
 3. [The Hobbit film trilogy (soundtracks)](<../../category/T/The_Hobbit_(film_series)_soundtracks.md>), bao gồm đoạn giới thiệu thông báo (Shore, Plan 9, Long, Gallagher *et al*)
-4. [The Lord of the Rings film trilogy (soundtracks)](<../../category/T/The_Lord_of_the_Rings_(film_series)_soundtracks.md>), bao gồm trailer Return of the King thứ hai (Shore, Plan 9, Long *et al*)
-5. Các tác phẩm bổ sung cho sân khấu hòa nhạc (Howard Shore) hoặc *in situ* cho bộ Hobbiton (Kế hoạch 9 và David Long).
+4. [The Lord of the Rings film trilogy (soundtracks)](<../../category/T/The_Lord_of_the_Rings_(film_series)_soundtracks.md>), bao gồm cả phần Return thứ hai của trailer Vua (Shore, Plan 9, Long *et al*)
+5. Các tác phẩm bổ sung cho sân khấu hoà nhạc (Howard Shore) hoặc *in situ* cho bộ Hobbiton (Plan 9 và David Long).
 
 ## Dàn nhạc {#Orchestration}
 
@@ -50,7 +50,7 @@ Dàn nhạc của Howard có quy mô khác nhau giữa các phần khác nhau. N
 
 **Bộ gõ:** Hai nghệ sĩ Timpanist. Ít nhất bảy người chơi trống bass, trống snare, trống phụ (hoặc trống trường), bộ trống toms và bass, tam giác, glockenspiel, trống bass chiêng, tambourine, trống taiko (ba kích cỡ: lớn, vừa và nhỏ), chũm chọe (bao gồm chũm chọe cắt thành dải ruy băng, chũm chọe cổ, crotale), chuông hình ống, cây dấu, carillon, tamtam, cồng chiêng, mộc bản, khối chùa, trống gỗ, trống khe, trống dudun, điện thoại nước, máy lắc (bao gồm máy lắc trứng, cabasa, caxixi và leng keng), bát hát Tây Tạng, trống cốc, trống ma sát, trống khung, transceleste, mộc cầm, 2 bodhrain, đĩa chuông, đe, đàn piano "chuẩn bị sẵn", castanets, đạn pháo điều chỉnh, lon, máy gió.
 
-"**Ban nhạc Hobbit**": 3 đàn guitar (6 và 12 dây, bao gồm guitar bass, mandolin đôi, caipira viola, đàn luýt, theorbo), 2 kèn túi (bapipe vùng cao, ống uileann đôi), 2 đàn accordion (mussette, double concertina và harmonium), 1 đàn dulcimer rèn (gấp đôi cimbalom), hurdy-gurdy, banjo (nhân đôi banjolele), euphonium.
+"**Hobbit ban nhạc**": 3 đàn guitar (6 và 12 dây, bao gồm guitar bass, mandolin đôi, caipira viola, đàn luýt, theorbo), 2 kèn túi (bapipe vùng cao, ống uileann đôi), 2 đàn accordion (mussette, double concertina và harmonium), 1 đàn dulcimer búa (gấp đôi cimbalom), hurdy-gurdy, banjo (nhân đôi banjolele), euphonium.
 
 **Gamelan**: 1 kempul (nhân đôi gong ageng), 1 kendhang, 4 người chơi saron, 3 người chơi theo giới tính (nhân đôi slenthem), 4 người chơi kenong (nhân đôi kethuk), 2 người chơi bonang, 1 gambang. Ngoài ra còn tăng gấp đôi rebab, chũm chọe ngón tay, ceng cengs, hyōshigi, kine, chũm chọe Nhật Bản, đàn bầu, tanpura, sarangi (tăng gấp đôi dilruba).
 

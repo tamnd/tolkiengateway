@@ -12,7 +12,7 @@ categories:
   - "Academic institutions"
 ---
 
-**Viện Mythgard** là một tổ chức học thuật cung cấp các khóa học trực tuyến về [nghiên cứu về Tolkien](../T/Tolkien_studies.md) và các tác phẩm văn học giả tưởng khác. Chủ tịch của nó là [Corey Olsen](../C/Corey_Olsen.md).
+**Viện Mythgard** là một tổ chức học thuật cung cấp các khóa học trực tuyến về [Tolkien nghiên cứu](../T/Tolkien_studies.md) và văn học giả tưởng khác. Chủ tịch của nó là [Corey Olsen](../C/Corey_Olsen.md).
 
 ## Liên kết ngoài {#External_links}
 

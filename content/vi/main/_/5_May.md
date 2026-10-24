@@ -66,14 +66,14 @@ Sự kiện xảy ra vào ngày 5 tháng 5
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1917](1917.md)** - [Edith Tolkien](../E/Edith_Tolkien.md) viết bức thư đầu tiên cho chồng tại trại quân đội Cầu Thirtle, gần Withernsea từ nơi ở mới của cô ở Hornsea. Bức thư được chuyển hướng đến Trại lính ngự lâm Hornsea.
+- **[1917](1917.md)** - [Edith Tolkien](../E/Edith_Tolkien.md) viết lá thư đầu tiên cho chồng tại trại quân đội Thirtle Bridge, gần Withernsea từ nơi ở mới của cô ở Hornsea. Bức thư được chuyển hướng đến Trại lính ngự lâm Hornsea.
 - **[1944](1944.md)** - Diễn viên [John Rhys-Davies](../J/John_Rhys-Davies.md) ra đời.
 - **[1947](1947.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 107a](../L/Letter_107a.md).
 - **[1958](1958.md)** - Tác giả [James Branch Cabell](../J/James_Branch_Cabell.md) qua đời.
 - **[1960](1960.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 222f](../L/Letter_222f.md).
 - <b><a href="1977.md" title="1977">1977</a> - <i><a href="../J/J.R.R._Tolkien%253A_A_Biography.md" title="J.R.R. Tolkien: A Biography">J.R.R. Tolkien: Tiểu sử</a></i> được xuất bản lần đầu tiên ở Vương quốc Anh.</b>
 - <b><a href="2009.md" title="2009">2009</a> - <i><a href="../T/The_Legend_of_Sigurd_and_Gudrún.md" title="The Legend of Sigurd and Gudrún">Truyền thuyết về Sigurd và Gudrún</a></i> được xuất bản.</b>
-- **[2010](2010.md)** - Tập <i><a class="extiw" href="http://en.wikipedia.org/wiki/America%27s_Next_Top_Model" title="wikipedia:America&#39;s Next Top Model">America's Next Top Model</a></i> tập "[Hobbit vs. Models](../H/Hobbits_vs._Models.md)" khởi chiếu trên <a class="extiw" href="http://en.wikipedia.org/wiki/The_CW_Television_Network" title="wikipedia:The CW Television Network">The CW</a>.
+- **[2010](2010.md)** - Tập <i><a class="extiw" href="http://en.wikipedia.org/wiki/America%27s_Next_Top_Model" title="wikipedia:America&#39;s Next Top Model">America's Next Top Model</a></i> "[Hobbit vs. Models](../H/Hobbits_vs._Models.md)" khởi chiếu trên <a class="extiw" href="http://en.wikipedia.org/wiki/The_CW_Television_Network" title="wikipedia:The CW Television Network">The CW</a>.
 - **[2011](2011.md)** - *[English and Medieval Studies Presented to J.R.R. Tolkien on the Occasion of his Seventieth Birthday](../E/English_and_Medieval_Studies_Presented_to_J.R.R._Tolkien_on_the_Occasion_of_his_Seventieth_Birthday.md)* được cung cấp dưới dạng ấn bản in theo yêu cầu từ [HarperCollins](../H/HarperCollins.md).
 - **[2024](2024.md)** - Diễn viên [Bernard Hill](../B/Bernard_Hill.md), người đóng vai [Théoden](../T/Théoden.md) trong [*The Lord of the Rings* loạt phim](<../T/The_Lord_of_the_Rings_(film_series).md>), qua đời.
 

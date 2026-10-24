@@ -47,7 +47,7 @@ infobox:
     - Bởi: [Janet Brennan Croft](../J/Janet_Brennan_Croft.md)
 - "Lewis và Morris"
     - Bởi: Robert Boenig
-- "Charles Williams trong vai Người hát rong thời Trung cổ"
+- "Charles Williams với tư cách là Người hát rong thời Trung cổ"
     - Bởi: Joseph Hugh Simmons<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 20</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_20.md" title="SEVEN 20">SEVEN 20</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 21</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 22</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_22.md" title="SEVEN 22">SEVEN 22</a></div></div></div>

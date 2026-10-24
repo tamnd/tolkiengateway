@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Michael Salmon, một độc giả, đã gửi một lá thư tử tế và bày tỏ sự quan tâm đến tác phẩm của Tolkien, đồng thời dường như cũng đã đưa ra một số yêu cầu. Tolkien nói với anh rằng nếu anh muốn hoàn thành *[The Silmarillion](../T/The_Silmarillion.md)* thì anh không có thời gian để trả lời thư của người hâm mộ. <br>
+Michael Salmon, một độc giả, đã gửi một lá thư tử tế và bày tỏ sự quan tâm đến tác phẩm của Tolkien, đồng thời dường như cũng đã đưa ra một số yêu cầu. Tolkien nói với ông rằng nếu muốn hoàn thành *[The Silmarillion](../T/The_Silmarillion.md)* thì ông không có thời gian để trả lời thư của người hâm mộ. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

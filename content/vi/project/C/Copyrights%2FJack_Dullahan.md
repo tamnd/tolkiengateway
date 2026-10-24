@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Dullahan, Jack"
 ---
 
-- Jack Dullahan đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jack_Dullahan.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
-- Ngày: 3 tháng 9 năm 2020
+- Jack Dullahan đã vui lòng cho phép sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Jack_Dullahan.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ngày: 3 tháng Chín năm 2020
 - Người dùng đã xin phép qua DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

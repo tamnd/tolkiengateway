@@ -19,9 +19,9 @@ sort_keys:
 
 ## Ví dụ {#Examples}
 
-- <i><a href="../D/Dor-Cúarthol.md" title="Dor-Cúarthol">Dor-Cúar<b>thol</b></a></i> = "Vùng đất của Cung và Mũ"
+- <i><a href="../D/Dor-Cúarthol.md" title="Dor-Cúarthol">Dor-Cúar<b>thol</b></a></i> = "Vùng đất của cung và Helm"
 - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Castol&amp;action=edit&amp;redlink=1" title="Castol (page does not exist)">cas<b>tol</b></a></i> = "mũ bảo hiểm"
-- <i><a class="mw-redirect" href="../G/Gorthol.md" title="Gorthol">Gor<b>thol</b></a></i> = "Mũ bảo hiểm đáng sợ"
+- <i><a class="mw-redirect" href="../G/Gorthol.md" title="Gorthol">Gor<b>thol</b></a></i> = "Sợ hãi Helm"
 
 <span></span>
 

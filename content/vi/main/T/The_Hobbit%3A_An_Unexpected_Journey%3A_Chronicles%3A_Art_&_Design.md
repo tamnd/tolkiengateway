@@ -53,7 +53,7 @@ Included is a Foreword by Academy Award winner Dan Hennah, 3 foot 7 Production D
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.wetanz.com/the-hobbit-chronicles-an-unexpected-journey/" rel="noreferrer noopener" target="_blank">Biên niên sử Hobbit tại trang web Weta</a>
+- <a class="external text" href="http://www.wetanz.com/the-hobbit-chronicles-an-unexpected-journey/" rel="noreferrer noopener" target="_blank">The Hobbit Biên niên sử tại trang web Weta</a>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

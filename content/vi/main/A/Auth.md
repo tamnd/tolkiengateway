@@ -13,15 +13,15 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>auth</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) có nghĩa là "một hình dạng mờ ảo, [quang phổ](../S/Spectres.md) hoặc sự hiện ra mơ hồ".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
+<i><b>auth</b></i> là từ [Sindarin](../S/Sindarin.md) có nghĩa là "một hình dạng mờ ảo, [quang phổ](../S/Spectres.md) hoặc hiện hình mơ hồ".<sup id="cite_ref-VT42_1-0" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-- [Elvish](../E/Elvish.md) ([Quendian nguyên thủy](../P/Primitive_Quendian.md) hoặc [Eldarin thông thường](../C/Common_Eldarin.md)) *aw'tha* (từ [root](../S/Sundocarme.md) [WATH](../W/WATH.md))<sup id="cite_ref-VT42_1-1" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
+- [Elvish](../E/Elvish.md) ([Primitive Quendian](../P/Primitive_Quendian.md) hoặc [Common Eldarin](../C/Common_Eldarin.md)) *aw'tha* (từ [root](../S/Sundocarme.md) [WATH](../W/WATH.md))<sup id="cite_ref-VT42_1-1" class="reference"><a href="#cite_note-VT42-1">[1]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[gwath](../G/Gwath.md)*
+- [Sindarin](../S/Sindarin.md) *[gwath](../G/Gwath.md)*
 - [Quenya](../Q/Quenya.md) *[auþa, ausa](Ausa.md)*
 
 ## Xem thêm {#See_also}

@@ -16,19 +16,19 @@ images:
 
 **Miền Nam** có thể đề cập đến:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
 ### Vị trí {#Location}
 
-- **[Harad](../H/Harad.md)** (có nghĩa là "Miền Nam" trong [Sindarin](Sindarin.md)), vùng đất phía nam hầu như chưa được biết đến của [Trung Địa](../M/Middle-earth.md).
+- **[Harad](../H/Harad.md)** (có nghĩa là "Miền Nam" trong [Sindarin](Sindarin.md)), vùng đất phía Nam hầu như chưa được biết đến [Trung Địa](../M/Middle-earth.md).
 - [Thể loại:Vùng đất phương Nam](../../category/S/Southern_lands.md)
 
 - [Suối nguồn phía Nam](../F/Fountains_of_the_South.md)
-- [Đường Bắc Nam](../N/North-South_Road.md)
-- [Phía Nam](South_Downs.md)
+- [Con đường Bắc-Nam](../N/North-South_Road.md)
+- [South Downs](South_Downs.md)
 - [Phía Nam](Southfarthing.md)
-- [Nam Gondor](South_Gondor.md)
-- [Nam Ithilien](South_Ithilien.md)
+- [South Gondor](South_Gondor.md)
+- [South Ithilien](South_Ithilien.md)
 - [Vương quốc phía Nam](South-kingdom.md), tên gọi khác của [Gondor](../G/Gondor.md).
 - [Ngõ phía Nam](South_Lane.md)
 - [Vùng sâu phía Nam](South_Undeep.md)
@@ -37,7 +37,7 @@ images:
 
 - [Dúnedain của miền Nam](../D/Dúnedain_of_the_South.md), một bộ phận của [Dúnedain](../D/Dúnedain.md).
 - [Quân đội miền Nam](Southern_Army.md), một sư đoàn của quân đội [Gondor](../G/Gondor.md).
-- [Các thái ấp phía Nam](Southern_Fiefs.md), các tỉnh [Gondor](../G/Gondor.md).
+- [các lãnh địa phía Nam](Southern_Fiefs.md), tỉnh [Gondor](../G/Gondor.md).
 - [Sao Phương Nam](Southern_Star.md), nhiều loại [cỏ ống](../P/Pipe-weed.md).
 
 ## Thế giới thực {#Real_World}

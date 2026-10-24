@@ -41,7 +41,7 @@ infobox:
 
 - "Kỷ niệm 30 năm thành lập Wade Center"
     - Bởi: Christopher W. Mitchell
-- "*Lilith*: Mê cung bóng tối hướng tới ánh sáng"
+- "*Lilith*: Mê cung tối tăm hướng tới ánh sáng"
     - Bởi: Giorgio Spina
 - "Thờ phượng trong Giáo hội Anh giáo"
     - Bởi: Dorothy L. Sayers
@@ -54,7 +54,7 @@ infobox:
 - "Hình ảnh trong gương: Người Mỹ quen biết Wimsey"
     - Bởi: Petra-Angela Wacker
 - Bài luận ôn tập:
-    - "Lịch sử Trung Địa"
+    - "The History of Middle-earth"
         - Bởi: [Wayne G. Hammond](../W/Wayne_G._Hammond.md) và [Christina Scull](../C/Christina_Scull.md)<sup id="cite_ref-vii_3-1" class="reference"><a href="#cite_note-vii-3">[3]</a></sup>
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 11</div></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_11.md" title="SEVEN 11">SEVEN 11</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 12</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">SEVEN 13</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="SEVEN_13.md" title="SEVEN 13">SEVEN 13</a></div></div></div>

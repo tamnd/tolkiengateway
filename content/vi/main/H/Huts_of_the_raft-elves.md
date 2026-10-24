@@ -23,25 +23,25 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_(I).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/4/4e/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg/300px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg" decoding="async" loading="lazy" width="300" height="372" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/4/4e/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg/450px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/4/4e/J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg/600px-J.R.R._Tolkien_-_Bilbo_comes_to_the_Huts_of_the_Raft-elves_%28I%29.jpg 2x" data-file-width="836" data-file-height="1037"/></a><figcaption><i>Bilbo comes to the Huts of the Raft-elves</i> by <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></figcaption></figure>
 
-**Túp lều của các yêu tinh đi bè** là tập hợp những ngôi nhà mà [các yêu tinh đi bè](../R/Raft-elves.md) sinh sống.
+**Chòi bè-Tiên tộc** là tập hợp những ngôi nhà trong đó [bè-Tiên tộc](../R/Raft-elves.md) sinh sống.
 
 ## Lịch sử {#History}
 
-Những túp lều này nằm trên bờ nhô ra của [Sông Rừng](../F/Forest_River.md), gần rìa phía đông của khu rừng [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-H9_1-0" class="reference"><a href="#cite_note-H9-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người ta nói rằng các đối tượng của [Thranduil](../T/Thranduil.md) "có nhà hoặc túp lều trên mặt đất và trên cành cây",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nên có thể những túp lều này nằm trong [Rừng Vương quốc](../W/Woodland_Realm.md).
+Những túp lều này nằm trên bờ nhô ra của [Forest River](../F/Forest_River.md), sát rìa phía đông của khu rừng [Mirkwood](../M/Mirkwood.md).<sup id="cite_ref-H9_1-0" class="reference"><a href="#cite_note-H9-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Người ta nói rằng các đối tượng của [Thranduil](../T/Thranduil.md) "có nhà hoặc chòi trên mặt đất và trên cành",<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> nên có thể những túp lều này nằm trong [Vương quốc Rừng](../W/Woodland_Realm.md).
 
-Những người yêu tinh đi bè đã thu thập những chiếc thùng rỗng từ [Sảnh của Vua Elven](../E/Elvenking's_Halls.md) trong ngôi làng này do dòng chảy của Sông Forest mang đến. Sau đó, những chiếc thùng được buộc lại với nhau và để trôi đến [Thị trấn hồ](../L/Lake-town.md) (từ đó những chiếc thùng chứa đầy hàng hóa ban đầu được đưa lên sông đến Vương quốc Woodland).<sup id="cite_ref-H9_1-1" class="reference"><a href="#cite_note-H9-1">[1]</a></sup>
+Chiếc bè-Tiên tộc đã thu thập các thùng rỗng từ [Vua Tiên Hội trường](../E/Elvenking's_Halls.md) trong ngôi làng này do dòng nước Forest River mang đến. Sau đó, các thùng được buộc lại với nhau và để trôi đến [Thị trấn Hồ](../L/Lake-town.md) (từ nơi các thùng chứa đầy hàng hóa ban đầu được đưa lên sông đến Vương quốc Rừng).<sup id="cite_ref-H9_1-1" class="reference"><a href="#cite_note-H9-1">[1]</a></sup>
 
-[Bilbo Baggins](../B/Bilbo_Baggins.md), bám vào một cái thùng, đã trốn một đêm bên ngoài ngôi làng của những người yêu tinh đi bè trong khi truy đuổi [Thorin và Đồng đội](../T/Thorin_and_Company.md) (những người đang trốn thoát khỏi sự giam cầm của [Yêu tinh gỗ](../E/Elves_of_Mirkwood.md) bên trong những chiếc thùng rỗng).<sup id="cite_ref-H9_1-2" class="reference"><a href="#cite_note-H9-1">[1]</a></sup>
+[Bilbo Baggins](../B/Bilbo_Baggins.md) bám vào thùng, trốn một đêm bên ngoài làng bè-Tiên tộc trong khi truy đuổi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) (những kẻ đang trốn thoát khỏi sự giam cầm của [Tiên rừng](../E/Elves_of_Mirkwood.md) bên trong thùng rỗng).<sup id="cite_ref-H9_1-2" class="reference"><a href="#cite_note-H9-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>The Raft-elves reside in the village of &#34;Celebannon&#34;, which consists of a dozen houses.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Loeglond.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_Loeglond.jpg/250px-The_Lord_of_the_Rings_Online_-_Loeglond.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_Loeglond.jpg/375px-The_Lord_of_the_Rings_Online_-_Loeglond.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/82/The_Lord_of_the_Rings_Online_-_Loeglond.jpg/500px-The_Lord_of_the_Rings_Online_-_Loeglond.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Loeglond in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2018: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Raft-elf village is called &#34;Loeglond&#34;, and is part of Thranduil&#39;s realm. It is overseen by the Elf &#34;Lorndúr&#34;.</dd></dl>
 

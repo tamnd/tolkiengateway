@@ -26,19 +26,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/I/Ice_lotr.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b3/Ice_lotr.png/320px-Ice_lotr.png" decoding="async" loading="lazy" width="320" height="90" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/b3/Ice_lotr.png/480px-Ice_lotr.png 1.5x, https://tolkiengateway.net/w/images/b/b3/Ice_lotr.png 2x" data-file-width="500" data-file-height="140"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Roleplaying game</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lord of the Rings Adventure Game</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Designer</th><td class="tg-infobox-data">Jessica M. Ney and <a href="../P/Pete_Fenlon.md" title="Pete Fenlon">Pete Fenlon</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Release date</th><td class="tg-infobox-data"><a href="../_/1991.md" title="1991">1991</a></td></tr></tbody></table>
 
-**Trò chơi phiêu lưu Chúa tể những chiếc nhẫn** (LOR hoặc LoR) là một trò chơi nhập vai dựa trên tác phẩm của J.R.R. Tolkien (cụ thể là *The Lord of the Rings* và *The Hobbit*) theo giấy phép của Tolkien Enterprises. [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) đã xuất bản trò chơi cho đến khi họ bị mất giấy phép vào ngày 22 tháng 9 năm 1999.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Trò chơi phiêu lưu Chúa tể những chiếc nhẫn** (LOR hoặc LoR) là một trò chơi nhập vai dựa trên tác phẩm của J.R.R. Tolkien (cụ thể là *The Lord of the Rings* và *The Hobbit*) theo giấy phép của Tolkien Enterprises. [Vương miện Sắt Doanh nghiệp](../I/Iron_Crown_Enterprises.md) xuất bản trò chơi cho đến khi mất giấy phép vào ngày 22 tháng Chín năm 1999.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ấn phẩm {#Publications}
 
 - (1991) [Trò chơi phiêu lưu Chúa tể những chiếc nhẫn (Bộ đóng hộp)](<Lord_of_the_Rings_Adventure_Game_(Boxed_Set).md>)
-- (1991) [Tối hơn bóng tối](../D/Darker_than_the_Darkness.md)
-- (1993) [Trên dãy núi mù sương](../O/Over_the_Misty_Mountains_Cold.md)
+- (1991) [Tối hơn Bóng Tối](../D/Darker_than_the_Darkness.md)
+- (1993) [Trên Dãy Núi Sương Mù Lạnh](../O/Over_the_Misty_Mountains_Cold.md)
 
 Hai cuốn sách tiếp theo khác được hứa hẹn sẽ xuất bản (*Before the Goblins* năm 1993 và *Greatest of the Forests* năm 1994), nhưng chưa bao giờ được xuất bản.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Những phát triển tiếp theo {#Further_developments}
 
-Brian Gross đã tạo ra một hệ thống game nhập vai giả tưởng có tên là *Middle-earth Adventure Game* (MEAG), là sự tổng quát hóa và mở rộng các quy tắc do ICE tạo ra cho các cuốn sách [Nhiệm vụ Trung Địa](../M/Middle-earth_Quest.md) và cho Trò chơi phiêu lưu Chúa tể những chiếc nhẫn. MEAG được thiết kế đặc biệt để chơi trò chơi ở Trung Địa dành cho những người chơi nhập vai mới.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Brian Gross đã tạo ra một hệ thống RPG giả tưởng có tên là *Middle-earth Adventure Game* (MEAG), đây là sự khái quát hóa và mở rộng các quy tắc do ICE tạo ra cho các sách [Trung Địa Quest](../M/Middle-earth_Quest.md) và cho Trò chơi phiêu lưu Chúa tể những chiếc nhẫn. MEAG được thiết kế đặc biệt để chơi trò chơi Trung Địa dành cho những người chơi nhập vai mới.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

@@ -42,15 +42,15 @@ Maedhros, Con trai của Fëanor (Baritone): Stephen Wells
 
 Eärendil, Con trai của Tuor và Idril (Giọng nam cao): Simon Crosby Buttle
 
-Eönwë, Sứ giả của các Valar (Giọng nam trung): Philip Lloyd-Evans
+Eönwë, Sứ giả của Valar (Giọng nam trung): Philip Lloyd-Evans
 
-Vua Anh Cả (Bass): George Newton-Fitzgerald
+Anh Cả Vua (Bass): George Newton-Fitzgerald
 
 Mandos, Chúa tể của cái chết (Baritone): Julian Boyce
 
-Sauron, Trung úy của Morgoth (Bass): Jasey Hall
+Sauron, Trung úy Morgoth (Bass): Jasey Hall
 
-Morgoth, kẻ thù (Bass): Laurence Cole
+Morgoth, Kẻ Thù (Bass): Laurence Cole
 
 Elrond, Con trai của Eärendil và Elwing (Giọng nam cao): Simon Crosby Buttle
 
@@ -74,7 +74,7 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 4\. Có một nỗi đau nào đó đang đè nặng lên bạn \[05:16\]
 
-5\. Sau đó Galadriel nói chuyện với Melian of the Silmarils \[00:39\]
+5\. Sau đó Galadriel nói chuyện với Melian của Silmaril \[00:39\]
 
 6\. Bây giờ bạn kể cho tôi nghe nhiều nhé \[02:03\]
 
@@ -82,7 +82,7 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 8\. Bây giờ thế giới đang nhanh chóng đón nhận những tin tức tuyệt vời \[02:45\]
 
-9\. Cảnh thứ ba: Rồi một mùa đông, như thể là thời đại đáng sợ của loài người phàm trần, ập đến với Thingol. \[02:31\]
+9\. Cảnh thứ ba: Rồi một mùa đông, như thể là thời đại khắc nghiệt của loài người, ập đến Thingol. \[02:31\]
 
 10\. Giờ đây khi tiếng còi săn đã yếu dần trong rừng \[03:08\]
 
@@ -92,15 +92,15 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 13\. Rất có thể bạn sẽ không bao giờ gặp lại tôi nữa. \[01:40\]
 
-14\. Ra biển \[03:21\]
+14\. Tới Biển \[03:21\]
 
 15\. Dưới trăng sao anh lang thang xa xôi \[03:24\]
 
-16\. Cảnh thứ năm: Viên Silmaril của Fëanor vẫn cháy trong rừng Nimbrethil \[01:22\]
+16\. Cảnh thứ năm: Một Silmaril Fëanor vẫn cháy trong rừng Nimbrethil \[01:22\]
 
 17\. Qua đêm vô vọng cô đã đến với anh \[01:49\]
 
-18\. San ninqueruvissë hầmier kiryassë Eärendil or vea \[03:04\]
+18\. San ninqueruvissë hầmier kiryassë Eärendil hoặc vea \[03:04\]
 
 <br> Đĩa 2
 
@@ -110,37 +110,37 @@ Julian Boyce/Stephen Wells/Jasey Hall/George Newton-Fitzgerald
 
 3\. Ông ta đã ở lại đó vì sai lầm \[02:43\]
 
-4\. Liệu con người phàm trần có bước lên Vùng đất bất tử mà vẫn sống được không? \[04:39\]
+4\. Liệu phàm nhân bước lên Vùng Đất Bất Tử mà vẫn sống? \[04:39\]
 
 5\. Một con tàu mới họ đóng cho anh \[01:32\]
 
-6\. Chắc chắn đó là viên Silmaril đang tỏa sáng ở phương Tây \[03:49\]
+6\. Chắc chắn đó là một Silmaril đang tỏa sáng trong Phương Tây \[03:49\]
 
 7\. Nhưng cái chết to lớn đã được đặt lên ông ta \[04:15\]
 
-8\. Cảnh bảy: Nhưng Morgoth không hề để ý đến cuộc tấn công xảy ra với mình \[03:54\]
+8\. Cảnh 7: Nhưng Morgoth không để ý đến cuộc tấn công xảy ra với mình \[03:54\]
 
 9\. Sau đó mặt trời mọc và đội quân Valar chiếm ưu thế \[03:45\]
 
-10\. Và chính Morgoth, Valar đẩy cánh cửa bóng đêm \[03:10\]
+10\. Và chính Morgoth là người Valar đâm xuyên qua Cánh Cửa Đêm \[03:10\]
 
-11\. Cảnh 8: Hãy trả lại những viên ngọc mà Fëanor cha chúng ta đã làm ra \[08:00\]
+11\. Cảnh 8: Hãy trả lại những viên ngọc Fëanor cha chúng ta đã làm ra \[08:00\]
 
-12\. Vì vậy, chuyện xảy ra là Silmarils đã tìm thấy ngôi nhà dài của họ \[01:50\]
+12\. Vì vậy, mọi chuyện đã xảy ra khi Silmaril tìm thấy ngôi nhà dài của họ \[01:50\]
 
 13\. Cảnh Chín: Đoạn kết \[00:55\]
 
 14\. Than ôi cho sự yếu đuối của kẻ vĩ đại! \[01:14\]
 
-15\. Ba chiếc nhẫn dành cho các vị vua yêu tinh dưới bầu trời \[02:12\]
+15\. Ba Chiếc Nhẫn dành cho các Vua Tiên dưới bầu trời \[02:12\]
 
-16\. Đoạn kết: Aiya Eärendil \[01:04\]
+16\. Lời kết: Aiya Eärendil \[01:04\]
 
 17\. Một cơn gió trong cỏ! \[02:52\]
 
 18\. Bây giờ những cây du kiêu hãnh cuối cùng cũng bắt đầu run rẩy \[01:48\]
 
-19\. Vào ban đêm, Yêu tinh nhảy múa dưới bầu trời không mái \[02:12\]
+19\. Vào ban đêm Tiên tộc nhảy múa dưới bầu trời không mái \[02:12\]
 
 20\. Trần trụi đã khiến vương quốc của chúng ta trở thành \[01:40\]
 

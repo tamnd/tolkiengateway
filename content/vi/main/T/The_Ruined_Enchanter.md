@@ -39,7 +39,7 @@ infobox:
   <tr><th scope="row" class="tg-infobox-label">Subject(s)</th><td class="tg-infobox-data"><a href="../B/Belmarie.md" title="Belmarie">Belmarye</a>, <a href="../F/Fantasie.md" title="Fantasie">Fantasye</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Semiramis" title="wikipedia:Semiramis">Queen of Babylon</a></td></tr>
 </tbody></table>
 
-<i><b>The Ruined Enchanter</b></i><sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> là bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [ngày 11 tháng 11](../_/11_November.md) ngày [1919](../_/1919.md).<sup id="cite_ref-chronology1919_2-0" class="reference"><a href="#cite_note-chronology1919-2">[2]</a></sup>
+<i><b>The Ruined Enchanter</b></i><sup id="cite_ref-collectedpoems_1-0" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup> là bài thơ được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) vào [11 tháng 11](../_/11_November.md) của [1919](../_/1919.md).<sup id="cite_ref-chronology1919_2-0" class="reference"><a href="#cite_note-chronology1919-2">[2]</a></sup>
 
 ## Khổ đầu tiên {#First_stanza}
 
@@ -54,11 +54,11 @@ infobox:
 
 ## Nền {#Background}
 
-Vào ngày 11 tháng 11 năm 1919, Tolkien viết một bài thơ chưa hoàn thành có tựa đề <i><b>The Ruined Enchanter: A Fairy Ballad</b></i><sup id="cite_ref-chronology_3-0" class="reference"><a href="#cite_note-chronology-3">[3]</a></sup> đối diện với bức thư từ <a class="extiw" href="http://en.wikipedia.org/wiki/Ministry_of_Pensions_and_National_Insurance#Ministry_of_Pensions" title="wikipedia:Ministry of Pensions and National Insurance">Bộ Lương hưu</a>.<sup id="cite_ref-chronology1919_2-1" class="reference"><a href="#cite_note-chronology1919-2">[2]</a></sup>
+Vào ngày 11 tháng 11 năm 1919, Tolkien đã viết một bài thơ chưa hoàn thành có tựa đề <i><b>The Ruined Enchanter: A Fairy Ballad</b></i><sup id="cite_ref-chronology_3-0" class="reference"><a href="#cite_note-chronology-3">[3]</a></sup> đối diện với bức thư của <a class="extiw" href="http://en.wikipedia.org/wiki/Ministry_of_Pensions_and_National_Insurance#Ministry_of_Pensions" title="wikipedia:Ministry of Pensions and National Insurance">Bộ Lương hưu</a>.<sup id="cite_ref-chronology1919_2-1" class="reference"><a href="#cite_note-chronology1919-2">[2]</a></sup>
 
 Tolkien sau đó đã xóa phụ đề của bài thơ trong bản thảo sau này.<sup id="cite_ref-collectedpoems_1-2" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
 
-Vào [tháng 9](../S/September.md) năm [2024](../_/2024.md), bài thơ được xuất bản lần đầu tiên ở mục 62 trong *[The Collected Poems of J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-collectedpoems_1-3" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
+Trong [tháng Chín](../S/September.md) của [2024](../_/2024.md), bài thơ được đăng lần đầu tiên ở mục 62 trong *[The Collected Poems of J.R.R. Tolkien](The_Collected_Poems_of_J.R.R._Tolkien.md)*.<sup id="cite_ref-collectedpoems_1-3" class="reference"><a href="#cite_note-collectedpoems-1">[1]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 

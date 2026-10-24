@@ -13,7 +13,7 @@ categories:
   - "Quenya nouns"
 ---
 
-<i><b>Sandastan</b></i> là từ [Quenya](../Q/Quenya.md) để chỉ đội hình phòng thủ được sử dụng bởi binh lính của [Númenórean Realms](../N/Númenórean_Realms.md), được biết đến nhiều hơn bởi [Sindarin](Sindarin.md) <i><b><a href="../T/Thangail.md" title="Thangail">tangail</a></b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Sandastan</b></i> là từ [Quenya](../Q/Quenya.md) để chỉ đội hình phòng thủ được sử dụng bởi những người lính của [Númenórean Vương quốc](../N/Númenórean_Realms.md), được biết đến nhiều hơn bởi [Sindarin](Sindarin.md) <i><b><a href="../T/Thangail.md" title="Thangail">tangail</a></b></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

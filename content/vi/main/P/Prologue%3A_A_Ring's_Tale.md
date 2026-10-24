@@ -34,11 +34,11 @@ infobox:
 
 ## Tóm tắt {#Synopsis}
 
-Cách đây rất lâu, vào những năm đầu của [Kỷ nguyên thứ hai](../S/Second_Age.md), các thợ rèn [Yêu tinh](../E/Elves.md) đã rèn ra [Những chiếc nhẫn quyền năng](../R/Rings_of_Power.md). [chín cho Nam](../N/Nine_Rings.md), [bảy cho Người lùn](../S/Seven_Rings.md) và [ba](../T/Three_Rings.md) cho các Vua Yêu tinh cao lớn. Sau đó, Chúa tể bóng tối [Sauron](../S/Sauron.md) đã học được nghề chế tạo những chiếc nhẫn và tạo ra [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
+Cách đây rất lâu, vào những năm đầu của [Kỷ Đệ Nhị](../S/Second_Age.md), những người thợ rèn [Tiên](../E/Elves.md) đã rèn ra [Những Chiếc Nhẫn Quyền Năng](../R/Rings_of_Power.md). [chín cho Con Người](../N/Nine_Rings.md), [bảy cho Người Lùn](../S/Seven_Rings.md) và [ba](../T/Three_Rings.md) cho các vị Vua Tiên cao. Sau đó, Chúa tể Bóng tối [Sauron](../S/Sauron.md) đã học nghề chế tạo những chiếc nhẫn và tạo ra [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
 
-Với Chiếc nhẫn, Sauron đã chinh phục hầu hết [Trung Địa](../M/Middle-earth.md). Nhưng khi ông ta nghiền nát [Liên minh cuối cùng của Yêu tinh và Con người](../L/Last_Alliance_of_Elves_and_Men.md), [Hoàng tử Isildur](../I/Isildur.md) đã lao ra từ trong bóng tối và lấy Chiếc nhẫn. Nhưng anh không phá hủy nó. Khi anh đang ngồi chiêm ngưỡng Chiếc nhẫn trên bờ [Anduin](../A/Anduin.md), các cung thủ Orc đã bắn anh, và Chiếc nhẫn bị mất tích trên sông.
+Với Chiếc Nhẫn, Sauron đã chinh phục được hầu hết [Trung Địa](../M/Middle-earth.md). Nhưng khi ông ta nghiền nát [Liên minh Cuối cùng của Tiên tộc và Con Người](../L/Last_Alliance_of_Elves_and_Men.md), [Thân vương Isildur](../I/Isildur.md) đã lao ra từ trong bóng tối và lấy Chiếc Nhẫn. Nhưng anh không phá hủy nó. Khi anh đang ngồi chiêm ngưỡng Chiếc Nhẫn trên bờ [Anduin](../A/Anduin.md), Orc các cung thủ đã bắn anh, và Chiếc Nhẫn đã bị thất lạc trên sông.
 
-Sauron bắt lại Chín người và biến những người đeo họ thành Ma Nhẫn. Ông phái họ đi tìm Chiếc Nhẫn Chúa. Chiếc Nhẫn được tìm thấy, nhưng không phải bởi Sauron: [Déagol](../D/Déagol.md) và [Sméagol](../S/Sméagol.md) đang câu cá thì một con cá kéo Deagol lên khỏi mặt nước. Ở đáy sông, anh tìm thấy chiếc Nhẫn. Trở lại bờ biển, Sméagol mong muốn có được nó - dù sao thì đó cũng là ngày sinh nhật của ông - và đã giết Deagol. Với chiếc Nhẫn, ông ta bắt đầu trộm cắp và làm gián điệp. Dưới sự tra tấn của Chiếc nhẫn, anh trốn vào Dãy núi và trở thành sinh vật [Gollum](../G/Gollum.md). Chiếc Nhẫn biến mất khỏi tầm mắt cho đến khi [Bilbo Baggins](../B/Bilbo_Baggins.md) tình cờ tìm thấy nó vào một ngày nọ trong chuyến hành trình của anh với [những người lùn](../T/Thorin_and_Company.md). Bilbo Baggins đã mang chiếc Nhẫn về [Quận](../T/The_Shire.md), quê hương của ông.
+Sauron chiếm lại Nine và biến người đeo chúng thành Nazgûl. Ông phái họ đi tìm Chiếc Nhẫn Chúa. Chiếc nhẫn được tìm thấy nhưng không phải bởi Sauron: [Déagol](../D/Déagol.md) và [Sméagol](../S/Sméagol.md) đang câu cá thì một con cá kéo Deagol lên khỏi mặt nước. Ở đáy sông, anh tìm thấy chiếc Nhẫn. Trở lại bờ biển, Sméagol ước có được nó - dù sao hôm đó cũng là sinh nhật của ông - và đã giết chết Deagol. Với chiếc Nhẫn, ông ta bắt đầu trộm cắp và làm gián điệp. Dưới sự tra tấn của Chiếc nhẫn, anh trốn vào Dãy Núi và trở thành sinh vật [Gollum](../G/Gollum.md). Chiếc Nhẫn biến mất khỏi tầm mắt cho đến khi [Bilbo Baggins](../B/Bilbo_Baggins.md) tình cờ tìm thấy nó vào một ngày trong chuyến hành trình của anh với [những người lùn](../T/Thorin_and_Company.md). Bilbo Baggins đã mang chiếc Nhẫn về [ Shire](../T/The_Shire.md), nhà của ông.
 
 ## Truyền {#Cast}
 
@@ -74,8 +74,8 @@ Sauron bắt lại Chín người và biến những người đeo họ thành M
 
 ## Sự khác biệt so với nguồn tài liệu {#Differences_from_source_material}
 
-- Việc rèn những chiếc Nhẫn được cho là đã diễn ra vào "những năm đầu của [Thời thứ hai](../S/Second_Age.md)"; nó diễn ra vào khoảng giữa Thời đại thứ hai.
-- Sauron được cho là đã học được truyền thuyết về Chế tạo chiếc nhẫn sau khi Yêu tinh chế tạo những chiếc nhẫn khác, thay vì hỗ trợ [Celebrimbor](../C/Celebrimbor.md) trong quá trình này.
-- [Elendil](../E/Elendil.md) và [Gil-galad](../G/Gil-galad.md) không giết Sauron; đúng hơn, Isildur bước vào từ trong bóng tối và làm ông ta ngạc nhiên.
-- Sauron đã chiếm được [Chín chiếc nhẫn](../N/Nine_Rings.md) và biến người đeo chúng thành [Quỷ nhẫn](../N/Nazgûl.md), trong khi trong sách, chính những chiếc nhẫn đã làm được điều đó. Ngoài ra, Nine được "tạo ra" một cách rõ ràng để tìm kiếm Chiếc nhẫn Chúa.
-- Isildur bị giết khi ông ta ngồi bên bờ sông chạm vào [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và ném nó đi khi ông ta rơi khỏi mũi tên của lũ Orc, thay vì nó phản bội ông ta khi ông ta cố gắng chạy trốn.
+- Việc rèn những chiếc Nhẫn được cho là đã diễn ra vào "những năm đầu của [Kỷ Đệ Nhị](../S/Second_Age.md)"; nó diễn ra vào khoảng giữa Kỷ Đệ Nhị.
+- Sauron được cho là đã học được truyền thuyết về Chế tạo chiếc nhẫn sau khi Tiên tộc chế tạo những chiếc nhẫn khác, thay vì hỗ trợ [Celebrimbor](../C/Celebrimbor.md) trong quá trình này.
+- [Elendil](../E/Elendil.md) và [Gil-galad](../G/Gil-galad.md) không tiêu diệt được Sauron; đúng hơn, Isildur xuất hiện từ trong bóng tối và làm anh ngạc nhiên.
+- Sauron đã chiếm được [Chín chiếc nhẫn](../N/Nine_Rings.md) và biến người đeo chúng thành [Nazgûl](../N/Nazgûl.md), trong khi trong sách, chính những chiếc nhẫn đã làm được điều đó. Ngoài ra, Nine được "tạo ra" một cách rõ ràng để tìm kiếm Chiếc nhẫn Chúa.
+- Isildur bị giết khi ông ta ngồi bên bờ sông chạm vào [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) và ném nó đi khi ông ta rơi khỏi Orc mũi tên, thay vì nó phản bội ông ta khi ông ta cố gắng chạy trốn.

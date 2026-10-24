@@ -28,7 +28,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Other Minds 11</span></th></tr><tr><th scope="row" class="tg-infobox-label">Latest editor</th><td class="tg-infobox-data"><a href="../T/Thomas_Morwinsky.md" title="Thomas Morwinsky">Thomas Morwinsky</a>, Hawke Robinson, Neville Percy, Chris Seeman</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">Other Minds Volunteers</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">January <a href="../_/2011.md" title="2011">2011</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">PDF</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">129</td></tr></tbody></table>
 
-<b><i>Other Minds</i> 11</b> là số thứ 11 của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh ở Trung Địa, được xuất bản vào tháng 1 năm 2011.
+<b><i>Other Minds</i> 11</b> là số thứ 11 của *[Other Minds](Other_Minds.md)*, một tạp chí dành cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)* và các trò chơi nhập vai khác lấy bối cảnh Trung Địa, xuất bản vào tháng 1 năm 2011.
 
 ## Nội dung {#Contents}
 
@@ -37,23 +37,23 @@ infobox:
 - "Thông tin nội bộ"
     - Bởi Thomas Morwinsky
 - "Agazlam"
-    - Bởi Severin, Người thừa kế của Isildur
-- "Trận chiến nhập vai ở Trung Địa"
-    - Bởi José Enrique Vacas de la Rosa
-- "Hệ thống đơn giản hóa-Biên niên sử Trung địa"
+    - Bởi Severin, Người thừa kế Isildur
+- "Trận chiến nhập vai trong Trung Địa"
+    - Tác giả José Enrique Vacas de la Rosa
+- "Hệ thống đơn giản hóa-Biên niên sử của Trung Địa"
     - Bởi Daniel Vacaflores
 - "Số liệu thống kê về nấm mốc cho LotRRPG"
     - Tác giả José Enrique Vacas de la Rosa
 - "Những điều PC nên biết"
     - Bởi Tom Davie
-- "Câu chuyện của năm"
+- "The Tale of Years"
     - Bởi Thomas Giessl
 - "Únati và Axani"
     - Bởi Neville Percy
 - "Bản in đẹp và tuyên bố miễn trừ trách nhiệm"
 - "Giấy phép Creative Commons"
-- "Phụ lục A: Tài liệu 'Những điều PC nên biết'"
-- "Phụ lục B: Bảng ký tự & Danh sách kỹ năng cho 'Biên niên sử hệ thống đơn giản hóa của Trung địa'"
+- "Appendix A: Tài liệu về 'Những điều PC nên biết'"
+- "Phụ lục B: Bảng ký tự & Danh sách kỹ năng cho 'Biên niên sử hệ thống đơn giản hóa của Trung Địa'"
 - "Mục lục: Tạp chí Other Minds, Số 1-11"
 
 - **Tác phẩm nghệ thuật / Bản đồ:**

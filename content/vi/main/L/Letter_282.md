@@ -33,7 +33,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói rằng ông chưa bao giờ tin tưởng nhiều vào công việc của mình, ngay cả khi ông yên tâm rằng nó có giá trị đối với người khác. Nếu không có [C.S. Lewis](../C/C.S._Lewis.md) thì ông sẽ không bao giờ hoàn thành hoặc đề nghị xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. *The Silmarillion* khá khác biệt và nếu tốt thì tốt theo cách khác. Nó bắt đầu trong một bệnh viện và trong thời gian nghỉ ốm ở Thế chiến thứ nhất và đã ở bên anh và làm việc kể từ đó, nhưng vẫn ở trong tình trạng bối rối. Nó cần sự hỗ trợ của một học giả thông cảm, phê phán và thực sự có mặt bên cạnh. Tolkien cho biết anh sẽ có thể tự do quay lại nó vào năm tới, từ tháng 6 đến tháng 8.
+Tolkien nói rằng anh chưa bao giờ tin tưởng nhiều vào công việc của mình, ngay cả khi anh được đảm bảo rằng nó có giá trị cho người khác. Nếu không có [C.S. Lewis](../C/C.S._Lewis.md) ông sẽ không bao giờ hoàn thành hoặc đề nghị xuất bản *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. *The Silmarillion* khá khác biệt và nếu tốt thì tốt theo cách khác. Nó bắt đầu trong một bệnh viện và trong thời gian nghỉ ốm ở Thế chiến thứ nhất và đã ở bên anh và làm việc kể từ đó, nhưng vẫn ở trong tình trạng bối rối. Nó cần sự hỗ trợ của một học giả thông cảm, phê phán và thực sự có mặt bên cạnh. Tolkien cho biết anh sẽ được tự do quay lại đó vào năm tới, từ tháng 6 đến tháng 8.
 
 <br>
 

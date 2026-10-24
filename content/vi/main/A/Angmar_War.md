@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Angmar conflict"
 ---
 
-Chuyển hướng đến [Xung đột Angmar](Angmar_conflict.md).
+Chuyển hướng tới [Angmar xung đột](Angmar_conflict.md).

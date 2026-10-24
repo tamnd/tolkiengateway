@@ -13,15 +13,15 @@ categories:
   - "Quenya texts"
 ---
 
-<i><b>Elen síla lúmenn’ omentielvo</b></i> là lời chào [Quenya](../Q/Quenya.md) được [Frodo](../F/Frodo.md) sử dụng trong cuộc gặp đầu tiên với [Gildor Inglorion](../G/Gildor_Inglorion.md). Nó dịch là "Một ngôi sao tỏa sáng vào giờ chúng ta gặp nhau".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>Elen síla lúmenn’ omentielvo</b></i> là lời chào [Quenya](../Q/Quenya.md) được [Frodo](../F/Frodo.md) sử dụng trong lần gặp đầu tiên với [Gildor Inglorion](../G/Gildor_Inglorion.md). Nó dịch là "Một ngôi sao tỏa sáng vào giờ chúng ta gặp nhau".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Nếu không có sự đồng hóa giọng hát thì sẽ là *[Elen](Elen.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=S%C3%ADl-&amp;action=edit&amp;redlink=1" title="Síl- (page does not exist)">síla</a> [lúmenna](../L/Lúme.md) [omentielvo](../O/Omentie.md)*, mà Tolkien còn dịch là "Một ngôi sao tỏa sáng vào giờ chúng ta gặp nhau".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Nếu không đồng hóa giọng hát thì sẽ là *[Elen](Elen.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=S%C3%ADl-&amp;action=edit&amp;redlink=1" title="Síl- (page does not exist)">síla</a> [lúmenna](../L/Lúme.md) [omentielvo](../O/Omentie.md)*, Tolkien còn dịch là "Một ngôi sao tỏa sáng vào giờ gặp gỡ của con đường chúng ta".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Khi ai đó hỏi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* nói về điều gì và liệu đó có phải là một "câu chuyện ngụ ngôn" hay không, ông giải thích rằng ông chỉ đang cố gắng tạo ra một tình huống trong đó *Elen síla lúmenn’ omentielmo* sẽ là một lời chào thông thường và cụm từ này đã có từ rất lâu trước cuốn sách. (Bức thư có dạng *omentielmo*, dạng ban đầu được sử dụng trong lần xuất bản đầu tiên).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b><a href="../_/2024.md" title="2024">2024</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">Chúa tể của những chiếc nhẫn: Những chiếc nhẫn quyền lực</a></i>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_2&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 2 (page does not exist)">S2.</a><a href="Eldest_(episode).md" title="Eldest (episode)">E4 - Anh cả</a></b>:
+<b><a href="../_/2024.md" title="2024">2024</a>: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i>, <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Lord_of_the_Rings:_The_Rings_of_Power_-_Season_2&amp;action=edit&amp;redlink=1" title="The Lord of the Rings: The Rings of Power - Season 2 (page does not exist)">S2.</a><a href="Eldest_(episode).md" title="Eldest (episode)">E4 - Anh cả</a></b>:
 
 <dl><dd>This sentence is pronounced by <a href="../A/Adar_(The_Rings_of_Power).md" title="Adar (The Rings of Power)">Adar</a> to greet <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a>.</dd></dl>
 

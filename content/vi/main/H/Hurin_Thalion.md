@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Húrin"
 ---
 
-Chuyển hướng tới [Húrin](Húrin.md).
+Chuyển hướng đến [Húrin](Húrin.md).

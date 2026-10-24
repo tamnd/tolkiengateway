@@ -14,25 +14,25 @@ categories:
 
 **Vũ khí tẩm độc** đã được sử dụng bởi các chủng tộc khác nhau trong suốt lịch sử của [Trung Địa](../M/Middle-earth.md).
 
-## Tộc Orc {#Orcs}
+## Orc {#Orcs}
 
-[Orc](../O/Orcs.md) thường xuyên sử dụng lưỡi dao và mũi tên tẩm độc<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. [Huor](../H/Huor.md) của [Dor-lómin](../D/Dor-lómin.md) đã bị giết bởi một mũi tên Orc tẩm độc găm vào mắt ông ta.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Andróg](../A/Andróg.md) bị thương bởi mũi tên Orc tẩm độc, nhưng được chữa lành bởi [Beleg](../B/Beleg.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau đó [Isildur](../I/Isildur.md) bị giết bởi một số người bị nhiễm độc Những mũi tên Orc xuyên qua cổ họng và trái tim ông ta.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Celebrían](../C/Celebrían.md), vợ của [Elrond](../E/Elrond.md), đã nhận một vết thương độc từ [Orc của Dãy núi Sương mù](../O/Orcs_of_the_Misty_Mountains.md) và mặc dù Elrond đã chữa lành cơ thể của bà, bà đã mất hết niềm vui ở Trung Địa và rời đi trên biển.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+[Orc](../O/Orcs.md) thường xuyên sử dụng lưỡi dao tẩm độc<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> và mũi tên. [Huor](../H/Huor.md) trong số [Dor-lómin](../D/Dor-lómin.md) đã bị giết bởi một mũi tên độc Orc găm vào mắt ông ta.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> [Andróg](../A/Andróg.md) bị thương bởi mũi tên Orc độc độc, nhưng được chữa lành bởi [Beleg](../B/Beleg.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Sau đó [Isildur](../I/Isildur.md) bị giết bởi một số mũi tên độc Orc xuyên qua cổ họng và tim của ông ta.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [Celebrían](../C/Celebrían.md), vợ của [Elrond](../E/Elrond.md) bị vết thương nhiễm độc từ [Orc của Dãy Núi Sương Mù](../O/Orcs_of_the_Misty_Mountains.md) và mặc dù Elrond đã chữa lành cơ thể nhưng bà đã mất hết niềm vui trong Trung Địa và bỏ đi trên biển.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-## Yêu tinh {#Elves}
+## Tiên tộc {#Elves}
 
-It is said that [Eldar](../E/Eldar.md) never used any poison against their enemies.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> However, there are some examples of [Elves](../E/Elves.md) who used poisoned weapons. [Eöl](../E/Eöl.md) the Dark Elf had a poisoned javelin, which he threw at [Maeglin](../M/Maeglin.md), but hit [Aredhel](../A/Aredhel.md), who died from that wound shortly after.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> [Elves of Nargothrond](../E/Elves_of_Nargothrond.md) also used poisoned darts to protect their kingdom after the departure of [Finrod](../F/Finrod.md) and before the coming of [Túrin](../T/Túrin.md).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
+Người ta nói rằng [Eldar](../E/Eldar.md) chưa bao giờ sử dụng bất kỳ chất độc nào chống lại kẻ thù của họ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Tuy nhiên, có một số ví dụ về [Tiên tộc](../E/Elves.md) đã sử dụng vũ khí tẩm độc. [Eöl](../E/Eöl.md) Bóng tối Tiên có một mũi lao tẩm độc, hắn ném vào [Maeglin](../M/Maeglin.md), nhưng trúng [Aredhel](../A/Aredhel.md), kẻ này chết vì vết thương đó ngay sau đó.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> [Các Tiên tộc Nargothrond](../E/Elves_of_Nargothrond.md) cũng sử dụng phi tiêu tẩm độc để bảo vệ vương quốc của họ sau sự ra đi của [Finrod](../F/Finrod.md) và trước khi [Túrin](../T/Túrin.md) xuất hiện.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
-## Người lùn {#Dwarves}
+## Người Lùn {#Dwarves}
 
-Thủ lĩnh của [Những người lùn nhỏ](Petty-dwarves.md),<sup id="cite_ref-foundnargo_9-0" class="reference"><a href="#cite_note-foundnargo-9">[9]</a></sup> [Mîm](../M/Mîm.md), sở hữu một "con dao dài" bí mật có "chữ rune nọc độc" trên đó.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
+Thủ lĩnh của [Người lùn Nhỏ](Petty-dwarves.md),<sup id="cite_ref-foundnargo_9-0" class="reference"><a href="#cite_note-foundnargo-9">[9]</a></sup> [Mîm](../M/Mîm.md), sở hữu một "con dao dài" bí mật có "chữ rune chứa nọc độc" trên đó.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>
 
-## Đàn ông {#Men}
+## Con Người {#Men}
 
-[Drúedain](../D/Drúedain.md) nổi tiếng với việc sử dụng mũi tên tẩm độc<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> và phi tiêu,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> mặc dù họ chỉ sử dụng vũ khí tẩm độc khi chiến đấu chống lại lũ Orc<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>.
+[Drúedain](../D/Drúedain.md) nổi tiếng với việc sử dụng mũi tên tẩm độc<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> và phi tiêu,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> mặc dù họ chỉ sử dụng vũ khí tẩm độc khi chiến đấu chống lại Orc<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>.
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://imgur.com/gallery/poisoned-weapons-middle-earth-g96USQ4" rel="noreferrer noopener" target="_blank">Vũ khí tẩm độc ở Trung Địa</a> của Ngugi
+- <a class="external text" href="https://imgur.com/gallery/poisoned-weapons-middle-earth-g96USQ4" rel="noreferrer noopener" target="_blank">Vũ khí tẩm độc trong Trung Địa</a> của Ngugi
 
 <span></span>
 

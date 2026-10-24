@@ -16,13 +16,13 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Feanor_Cover.png.md"><img src="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/300px-Feanor_Cover.png" decoding="async" loading="lazy" width="300" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/450px-Feanor_Cover.png 1.5x, https://tolkiengateway.net/w/images/thumb/7/74/Feanor_Cover.png/600px-Feanor_Cover.png 2x" data-file-width="1387" data-file-height="1477"/></a><figcaption>CD Artwork by permission of Ted Nasmith</figcaption></figure>
 
-Bản ghi demo hoàn chỉnh tác phẩm opera của nhà soạn nhạc Paul Corfield Godfrey [Fëanor, Op. 46 (Opera)](<Fëanor,_Op._46_(Opera).md>) từ chu kỳ *Những cảnh sử thi trong The Silmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và được Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2022.
+Bản ghi demo hoàn chỉnh tác phẩm opera của nhà soạn nhạc Paul Corfield Godfrey [Fëanor, Op. 46 (Opera)](<Fëanor,_Op._46_(Opera).md>) từ chu kỳ *Những cảnh sử thi từ The Silmarillion sau thần thoại J. R. R. Tolkien* do Volante Opera Productions ghi lại và được Prima Facie phát hành dưới dạng CD và bản tải xuống kỹ thuật số vào năm 2022.
 
 <br> **Diễn viên:**
 
-Melkor (sau này là Morgoth) Kẻ thù (Bass): Laurence Cole
+Melkor (sau Morgoth) the Kẻ Thù (Bass): Laurence Cole
 
-Fingolfin, Con trai của Vua Finwë (Baritone): Philip Lloyd-Evans
+Fingolfin, Con trai của Vua Finwë (Giọng nam trung): Philip Lloyd-Evans
 
 Fëanor, Con trai của Vua Finwë  (Giọng nam cao): Simon Crosby Buttle
 
@@ -30,17 +30,17 @@ Mandos, Kẻ thống trị cõi chết (Baritone): Julian Boyce
 
 Elbereth, Nữ hoàng ánh sáng (Giọng nữ cao): Emma Mary Llewellyn
 
-Vị vua lớn tuổi, Chúa tể của các Valar (Bass): George Newton-Fitzgerald
+Trưởng lão Vua, Chúa tể của Valar (Bass): George Newton-Fitzgerald
 
 Maedhros, Con trai của Fëanor (Bass-Baritone): Stephen Wells
 
 Maglor, Con trai của Fëanor (Giọng nam cao): Michael Clifton-Thompson
 
-Celegorm, Son of Fëanor (Giọng nam cao - Giọng nam trung cho bản thu âm này): Philip Lloyd-Evans
+Celegorm, Con trai của Fëanor (Giọng nam cao - Giọng nam trung cho bản thu âm này): Philip Lloyd-Evans
 
-Curufin, Son of Fëanor (Giọng nam cao - Giọng nam trung cho bản thu âm này): Julian Boyce
+Curufin, Con trai của Fëanor (Giọng nam cao - Giọng nam trung cho bản thu âm này): Julian Boyce
 
-Caranthir, Son of Fëanor (Baritone - Bass cho bản thu âm này): George Newton-Fitzgerald
+Caranthir, Con trai của Fëanor (Baritone - Bass cho bản thu âm này): George Newton-Fitzgerald
 
 Amrod, Con trai của Fëanor (Bass): Laurence Cole
 
@@ -50,7 +50,7 @@ Olwë, Vua của Teleri (Giọng nam cao): Michael Clifton-Thompson
 
 <br> **Điệp khúc của những giọng nói vô hình và giọng nói của Ungoliant:**
 
-Paula Greenwood/Emma Mary Llewellyn/Sophie Yelland/Helen Greenaway
+Paula Rừng Xanh/Emma Mary Llewellyn/Sophie Yelland/Helen Greenaway
 
 Michael Clifton-Thompson/Simon Crosby Buttle/Julian Boyce/Jasey Hall
 

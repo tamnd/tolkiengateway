@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven characteristics"
 ---
 
-Chuyển hướng đến [Đặc điểm của Yêu tinh](Elven_characteristics.md).
+Chuyển hướng đến [Tiên đặc điểm](Elven_characteristics.md).

@@ -41,7 +41,7 @@ infobox:
 2. [Phương Nam](../S/South_Away.md) – *6:04*
 3. [Trong những căn phòng rỗng bên dưới Fells](../I/In_Hollow_Halls_Beneath_the_Fells.md) – *8:56*
 4. [Kẻ thù của chúng ta sẽ gục ngã](../O/Our_Foes_Shall_Fall.md) – *7:01*
-5. [Sự trở lại của Vua Núi](<../T/The_Mountain_King's_Return_(song).md>) – *8:53*
+5. [Sự trở lại của ngọn núi Vua](<../T/The_Mountain_King's_Return_(song).md>) – *8:53*
 6. [Cổ ngữ sức mạnh](../R/Runes_of_Power.md) – *5:51*
 7. [Trời lạnh](../A/Ashen_Cold.md) – *6:16*
 8. [Tạm biệt](../F/Farewell.md) – *9:19*

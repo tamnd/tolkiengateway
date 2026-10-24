@@ -31,14 +31,14 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với [Priscilla](../P/Priscilla_Tolkien.md) rằng anh đã đến [Bournemouth](../B/Bournemouth.md) an toàn, nhưng anh phát hiện mình bị mất thẻ ngân hàng khi đến khách sạn Miramar. Trong khi Tiến sĩ Martin Tolhurst, một người bạn của Tolkien, đang tìm kiếm ví của ông, Miramar đã hủy đặt chỗ của ông và đặt cho ông một cái mới, từ ngày 4 tháng 9 đến ngày 11 tháng 9. Ông sẽ ở lại Tolhursts trong thời gian này và đang mong chờ kỳ nghỉ kéo dài. Ông muốn đến thăm [Christopher Wiseman](../C/Christopher_Wiseman.md), lúc đó đang ở Milford. Tolhurst tìm thấy chiếc ví; Tolkien đã để nó ở *The Red Lion* ở Salisbury.
+Tolkien nói với [Priscilla](../P/Priscilla_Tolkien.md) rằng anh đã đến [Bournemouth](../B/Bournemouth.md) an toàn, nhưng anh phát hiện mình bị mất thẻ ngân hàng khi đến khách sạn Miramar. Trong khi Tiến sĩ Martin Tolhurst, một người bạn của Tolkien, đang tìm kiếm ví của ông, Miramar đã hủy đặt chỗ của ông và đặt cho ông một cái mới, từ tháng Chín 4 đến tháng Chín 11. Ông sẽ ở lại Tolhursts trong thời gian này và đang mong chờ kỳ nghỉ kéo dài. Ông muốn đến thăm [Christopher Wiseman](../C/Christopher_Wiseman.md), lúc đó đang ở Milford. Tolhurst tìm thấy chiếc ví; Tolkien đã để nó ở *The Red Lion* ở Salisbury.
 
 ## Ghi chú {#Notes}
 
-- Mặc dù Tolkien đã chấp nhận lời đề nghị của khách sạn Miramar nhưng ông đã không sử dụng nó vì dự định ở đó từ [ngày 4 tháng 9](../_/4_September.md). Ông cũng không đến thăm Christopher Wiseman. John Ronald Reuel Tolkien qua đời vào [2 tháng 9](../_/2_September.md) năm 1973, tại một bệnh viện tư nhân.
-- Tolkien tới Bournemouth với tài xế riêng, ông Causier. Vì họ dừng ở Salisbury nên có lẽ họ đã lái chiếc <a class="extiw" href="http://en.wikipedia.org/wiki/A420_road" title="wikipedia:A420 road">A420</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/A338_road" title="wikipedia:A338 road">A338</a>.
-- Người ta không chỉ rõ Milford Wiseman ở đâu, nhưng có lẽ đó là <a class="extiw" href="http://en.wikipedia.org/wiki/Milford_on_Sea" title="wikipedia:Milford on Sea">Milford on Sea</a>, thị trấn gần nhất tên là Milford.
-- Đây là lá thư cuối cùng có trong *The Letters of J.R.R. Tolkien*. Tolkien qua đời chỉ vài ngày sau đó vào [ngày 2 tháng 9](../_/2_September.md). Có lẽ đây là lá thư cuối cùng anh viết.
+- Mặc dù Tolkien đã chấp nhận lời đề nghị của khách sạn Miramar nhưng ông đã không sử dụng nó vì dự định sẽ ở đó từ [4 tháng Chín](../_/4_September.md). Ông cũng không đến thăm Christopher Wiseman. John Ronald Reuel Tolkien qua đời ngày [2 tháng Chín](../_/2_September.md) năm 1973 tại một bệnh viện tư nhân.
+- Tolkien đến Bournemouth với tài xế riêng, ông Causier. Vì họ dừng ở Salisbury nên có lẽ họ đã lái chiếc <a class="extiw" href="http://en.wikipedia.org/wiki/A420_road" title="wikipedia:A420 road">A420</a> và <a class="extiw" href="http://en.wikipedia.org/wiki/A338_road" title="wikipedia:A338 road">A338</a>.
+- Người ta không chỉ rõ Milford Wiseman ở đâu, nhưng có lẽ đó là <a class="extiw" href="http://en.wikipedia.org/wiki/Milford_on_Sea" title="wikipedia:Milford on Sea">Milford trên Biển</a>, thị trấn gần nhất tên là Milford.
+- Đây là lá thư cuối cùng có trong *The Letters of J.R.R. Tolkien*. Tolkien qua đời chỉ vài ngày sau đó vào [2 tháng Chín](../_/2_September.md). Có lẽ đây là lá thư cuối cùng anh viết.
 
 <br>
 

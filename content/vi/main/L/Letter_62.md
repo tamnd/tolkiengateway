@@ -38,7 +38,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã đọc chương thứ hai của mình, [Passage of the Dead Marshes](../T/The_Passage_of_the_Marshes.md), cho [Lewis](../C/C.S._Lewis.md) và [Williams](../C/Charles_Williams.md) và báo cáo rằng họ đã chấp nhận nó. Ông đã gần hoàn thành chương thứ ba: [Những cánh cổng của Vùng đất bóng tối](../T/The_Black_Gate_is_Closed.md). Ông đã viết ba chương trong khi ông chỉ định viết một chương. Tuy nhiên, chẳng bao lâu nữa anh sẽ phải lao đầu vào giải quyết các bài kiểm tra và bài giảng. <br>
+Tolkien đã đọc chương thứ hai của mình, [Đoạn Đầm lầy Chết](../T/The_Passage_of_the_Marshes.md), gửi cho [Lewis](../C/C.S._Lewis.md) và [Williams](../C/Charles_Williams.md) và báo cáo rằng họ đã chấp thuận nó. Ông đã gần hoàn thành chương thứ ba: [Cánh cổng của vùng đất Bóng Tối](../T/The_Black_Gate_is_Closed.md). Ông đã viết ba chương trong khi ông chỉ định viết một chương. Tuy nhiên, chẳng bao lâu nữa anh sẽ phải lao đầu vào giải quyết các bài kiểm tra và bài giảng. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

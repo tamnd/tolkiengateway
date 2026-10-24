@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**YAN** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "rộng lớn, khổng lồ"; YAN và **YAD** cũng có nghĩa là "rộng". Gốc cũng xuất hiện dưới dạng YANA, YĂN.<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+**YAN** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) biểu thị "rộng lớn, khổng lồ"; YAN và **YAD** cũng có nghĩa là "rộng". Gốc cũng xuất hiện dưới dạng YANA, YĂN.<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
@@ -21,7 +21,7 @@ categories:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *Qenya Lexicon* xuất hiện gốc DẎṆTṆ, với dẫn xuất [Qenya](../Q/Qenya.md) *yanta-* ("phóng to, tăng, thêm vào").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong *Qenya Lexicon* xuất hiện từ gốc DẎṆTṆ, với dẫn xuất [Qenya](../Q/Qenya.md) *yanta-* ("phóng to, tăng, thêm vào").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

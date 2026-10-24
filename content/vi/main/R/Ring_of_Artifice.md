@@ -11,4 +11,4 @@ redirect_target: "Seven Rings"
 redirect_fragment: "The Seven Rings in adaptations"
 ---
 
-Chuyển hướng tới [Bảy chiếc nhẫn](../S/Seven_Rings.md#The_Seven_Rings_in_adaptations).
+Chuyển hướng đến [Bảy Chiếc Nhẫn](../S/Seven_Rings.md#The_Seven_Rings_in_adaptations).

@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_83.gif.md"><img src="https://tolkiengateway.net/w/images/a/a7/Mythlore_83.gif" decoding="async" loading="lazy" width="225" height="292" class="mw-file-element" data-file-width="225" data-file-height="292"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 83</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Autumn <a href="../_/1997.md" title="1997">1997</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">67</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_82.md" title="Mythlore 82">Mythlore 82</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_84.md" title="Mythlore 84">Mythlore 84</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 83</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol22/iss1/" rel="noreferrer noopener" target="_blank">Tập 22, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 83</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol22/iss1/" rel="noreferrer noopener" target="_blank">Tập 22, Số 1</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -64,9 +64,9 @@ infobox:
 
 - *J.R.R. Tolkien: Artist and Illustrator.* Wayne G. Hammond và Christina Scull. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis: Companion and Guide.* Walter Hooper. Được đánh giá bởi Diana Pavlac Glyer.
-- *Lời hùng biện về tầm nhìn: Các tiểu luận về Charles Williams.* Ed. của Charles A. Huttar và Peter J. Schakel. Được đánh giá bởi Nancy-Lou Patterson.
+- *Hùng biện về tầm nhìn: Tiểu luận về Charles Williams.* Ed. của Charles A. Huttar và Peter J. Schakel. Được đánh giá bởi Nancy-Lou Patterson.
 - *Poetry of Dorothy L. Sayers.* Biên tập. của Ralph E. Hone. Được đánh giá bởi Nancy-Lou Patterson.
-- *Những ý niệm mơ hồ về hiện thực: Hướng tới triết lý chữ cái của Cơ đốc giáo.* Donald T. Williams. Được đánh giá bởi Nancy-Lou Patterson.
+- *Inklings về Thực tại: Hướng tới Triết lý Thư tín Kitô giáo.* Donald T. Williams. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis: Mere Christian.* Kathryn Linskoog. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis: Các bài đọc để suy ngẫm và suy ngẫm.* Ed. của Người phục vụ Hooper. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis Mục lục: Tin đồn từ cửa hàng điêu khắc.* Janine Goffar. Được đánh giá bởi Nancy-Lou Patterson.

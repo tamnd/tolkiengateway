@@ -25,7 +25,7 @@ langlinks:
     url: "https://kontu.wiki/Isot_ihmiset"
 ---
 
-**Những Người Lớn** và **Những Người Lớn** là tên dành cho chủng tộc [Đàn ông](../M/Men.md), do [Người Hobbit](../H/Hobbits.md) đặt cho họ, những người mà họ lần lượt gọi là [Người Nhỏ](../L/Little_Folk.md). Thuật ngữ này đặc biệt được sử dụng cho **[Người ở Bree](../M/Men_of_Bree.md)** (q.v.), vì ở [Bree-land](Bree-land.md) hai chủng tộc sống cạnh nhau.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Dân tộc lớn** và **Người lớn** là tên của chủng tộc [Con Người](../M/Men.md), được đặt bởi [Hobbit](../H/Hobbits.md), những người mà họ lần lượt gọi là [Dân tộc nhỏ](../L/Little_Folk.md). Thuật ngữ này đặc biệt được sử dụng cho **[Người Bree](../M/Men_of_Bree.md)** (q.v.), vì trong [Bree-land](Bree-land.md) hai chủng tộc sống cạnh nhau.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

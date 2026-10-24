@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Raft-elves"
 ---
 
-Chuyển hướng tới [Raft-elf](Raft-elves.md).
+Chuyển hướng tới [Raft-Tiên tộc](Raft-elves.md).

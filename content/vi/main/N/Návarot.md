@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nogrod"
 ---
 
-Chuyển hướng tới [Nogrod](Nogrod.md).
+Chuyển hướng đến [Nogrod](Nogrod.md).

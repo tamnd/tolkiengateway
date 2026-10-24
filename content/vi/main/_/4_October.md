@@ -74,6 +74,6 @@ Sự kiện xảy ra vào ngày 4 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi tới [Weathertop](../W/Weathertop.md).
-    - [Gandalf](../G/Gandalf.md) vội vã tiến về [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ áo đen](../N/Nazgûl.md) tấn công ông ta trên [Weathertop](../W/Weathertop.md).
+    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi về phía [Weathertop](../W/Weathertop.md).
+    - [Gandalf](../G/Gandalf.md) lao về phía [Rivendell](../R/Rivendell.md) sau khi [Kỵ sĩ Đen](../N/Nazgûl.md) tấn công ông ta vào [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

@@ -44,8 +44,8 @@ infobox:
 - "Rằng 'thiên tài như vậy phải là một người Mỹ quái đản': C.S. Lewis với tư cách là Nhà phê bình văn học Mỹ"
     - Bởi: Jack L. Knowles
 - "'Norah thân yêu của tôi': Con đường của tình bạn"
-    - Bởi: Christopher Dean
-- "Những chú đại bàng có thái độ: Chaucer và Tolkien"
+    - Bởi: Christopher Trưởng khoa
+- "Đại Bàng với Thái độ: Chaucer và Tolkien"
     - Bởi: Emma B. Hawkins
 - "Tìm kiếm niềm vui: Thư mục toàn diện về các tác phẩm của Joy Davidman"
     - Bởi: Don W. King

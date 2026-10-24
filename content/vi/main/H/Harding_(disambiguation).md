@@ -21,8 +21,8 @@ images:
 
 **Sự cứng rắn** có thể đề cập đến:
 
-- [Harding](<Harding_(rider_of_Rohan).md>) (chết [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), một kỵ sĩ của [Rohan](../R/Rohan.md) thiệt mạng trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
-- [Harding of the Hill](Harding_of_the_Hill.md) (sinh [Fo.A.](../F/Fourth_Age.md) [80](../F/Fourth_Age_80.md)), chắt của [Samwise Gamgee](../S/Samwise_Gamgee.md).
+- [Harding](<Harding_(rider_of_Rohan).md>) (đã chết [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md)), một tay đua [Rohan](../R/Rohan.md) thiệt mạng trong [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md).
+- [Harding of the Hill](Harding_of_the_Hill.md) (sinh [Kỷ Đệ Tứ](../F/Fourth_Age.md) [80](../F/Fourth_Age_80.md)), chắt của [Samwise Gamgee](../S/Samwise_Gamgee.md).
 
 <hr style="margin-top:15px;"/>
 

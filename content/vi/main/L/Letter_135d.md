@@ -29,9 +29,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Trong bức thư gửi [Norman Davis](../N/Norman_Davis.md) này, Tolkien giải thích sự hỗn loạn trong hoàn cảnh hiện tại của anh, được đánh dấu bằng việc sắp chuyển nhà do vấn đề sức khỏe của [vợ](../E/Edith_Tolkien.md) của anh. Ông mô tả cơn ác mộng về hậu cần liên quan đến nhiều luật sư, <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Trường đại học</a>, một hiệp hội xây dựng và nhiều thương nhân khác nhau, tất cả đều làm việc để hướng tới ngày chuyển đi là [28 tháng 3](../_/28_March.md).
+Trong bức thư gửi [Norman Davis](../N/Norman_Davis.md) này, Tolkien giải thích sự hỗn loạn trong hoàn cảnh hiện tại của ông, được đánh dấu bằng việc sắp chuyển nhà do vấn đề sức khỏe của [vợ](../E/Edith_Tolkien.md) của ông. Ông mô tả cơn ác mộng về hậu cần liên quan đến nhiều luật sư, <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Trường đại học</a>, một hiệp hội xây dựng và nhiều thương nhân khác nhau, tất cả đều làm việc để hướng tới ngày chuyển đi là [28 tháng 3](../_/28_March.md).
 
-Bất chấp những phiền nhiễu này, Tolkien vẫn cố gắng chuẩn bị bài giảng của mình về *The Confession of Sir Gawain* và hoàn thiện bản dịch toàn bộ văn bản của mình. Ông bày tỏ sự lo lắng về chất lượng bài giảng của mình nhưng mong có cơ hội đến thăm Glasgow và gặp Davis. Ngoài ra, Tolkien còn đề cập đến áp lực phải hoàn thành và gửi một bản thảo lớn cho [Allen & Unwin](../A/Allen_&_Unwin.md) trước [25 tháng 3](../_/25_March.md). <br>
+Bất chấp những phiền nhiễu này, Tolkien vẫn cố gắng chuẩn bị bài giảng của mình về *The Confession of Sir Gawain* và hoàn thiện bản dịch toàn bộ văn bản của mình. Ông bày tỏ sự lo lắng về chất lượng bài giảng của mình nhưng mong có cơ hội đến thăm Glasgow và gặp Davis. Ngoài ra, Tolkien còn đề cập đến áp lực phải hoàn thành và nộp một bản thảo lớn cho [Allen &amp; Unwin](../A/Allen_&_Unwin.md) trước [25 tháng 3](../_/25_March.md). <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

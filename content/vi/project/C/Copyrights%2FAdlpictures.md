@@ -15,5 +15,5 @@ sort_keys:
 ---
 
 - Adlpictures đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Adlpictures.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
-- Ngày: 15 tháng 9 năm 2012
+- Ngày: 15 tháng Chín năm 2012
 - Người dùng đã xin phép qua DeviantArt: [Người dùng:Amroth](https://tolkiengateway.net/wiki/User:Amroth)

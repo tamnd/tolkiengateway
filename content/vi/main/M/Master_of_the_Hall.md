@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Master of Buckland"
 ---
 
-Chuyển hướng tới [Bậc thầy Buckland](Master_of_Buckland.md).
+Chuyển hướng đến [Master của Buckland](Master_of_Buckland.md).

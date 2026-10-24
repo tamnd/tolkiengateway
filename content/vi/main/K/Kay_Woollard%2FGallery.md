@@ -215,7 +215,7 @@ Minh họa cho [J.R.R. Tolkien Hội nghị trăm năm](../J/J.R.R._Tolkien_Cent
 		</li>
 </ul>
 
-## Thiệp Giáng sinh dành cho [Hiệp hội Tolkien](../T/Tolkien_Society.md) {#Christmas_cards_for_the_Tolkien_Society}
+## Thiệp Giáng sinh dành cho Hội [Tolkien](../T/Tolkien_Society.md) {#Christmas_cards_for_the_Tolkien_Society}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 185px">
@@ -269,7 +269,7 @@ Cả năm bìa đều có cùng một khung do Kay Woollard thiết kế, nhưng
 
 ## *Scenes of the Shire* {#Scenes_of_the_Shire}
 
-Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạng bộ thiệp chúc mừng cho [Hiệp hội Tolkien](../T/Tolkien_Society.md).
+Sáu bộ đầu tiên đã được đặt hàng và xuất bản dưới dạng bộ thiệp chúc mừng dành cho [Tolkien Hội](../T/Tolkien_Society.md).
 
 <h3><span class="mw-headline" id=""></span></h3>
 
@@ -633,7 +633,7 @@ Con mắt của người quan sát được mời gọi đi lang thang, vì mỗ
 		</li>
 </ul>
 
-## Various [Hobbits](../H/Hobbits.md) {#Various_Hobbits}
+## Khác nhau [Hobbit](../H/Hobbits.md) {#Various_Hobbits}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -708,7 +708,7 @@ Con mắt của người quan sát được mời gọi đi lang thang, vì mỗ
 		</li>
 </ul>
 
-## Various [Dwarves](../D/Dwarves.md) {#Various_Dwarves}
+## Khác nhau [Người Lùn](../D/Dwarves.md) {#Various_Dwarves}
 
 Bảy mảnh đầu tiên được trưng bày ở đây thuộc về *Peter Bolton* (đã chết). Mỗi phần riêng lẻ cũng được sao chép riêng biệt.
 
@@ -787,7 +787,7 @@ Một ghi chú tưởng nhớ về Peter đã được thêm vào bộ sưu tậ
 		</li>
 </ul>
 
-## Various [Ents](../E/Ents.md) {#Various_Ents}
+## Khác nhau [Ent](../E/Ents.md) {#Various_Ents}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">
@@ -820,7 +820,7 @@ Một ghi chú tưởng nhớ về Peter đã được thêm vào bộ sưu tậ
 		</li>
 </ul>
 
-## Various [Elves](../E/Elves.md) {#Various_Elves}
+## Khác nhau [Tiên tộc](../E/Elves.md) {#Various_Elves}
 
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 235px">

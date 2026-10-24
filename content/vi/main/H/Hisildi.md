@@ -37,23 +37,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">People</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Hisildi</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Twilight people</i></td></tr><tr><th scope="row" class="tg-infobox-label">Origins</th><td class="tg-infobox-data"><a href="../I/Ilkorindi.md" title="Ilkorindi">Ilkorindi</a> who followed the <a class="mw-redirect" href="../F/Fay.md" title="Fay">fay</a> <a href="../T/Tû_(king_of_the_Hisildi).md" title="Tû (king of the Hisildi)">Tû</a></td></tr><tr><th scope="row" class="tg-infobox-label">Locations</th><td class="tg-infobox-data"><a href="../P/Palisor.md" title="Palisor">Palisor</a><br/><a class="mw-redirect" href="../M/Murmenalda.md" title="Murmenalda">Murmenalda</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../T/Tû_(king_of_the_Hisildi).md" title="Tû (king of the Hisildi)">Tû</a></td></tr><tr><th scope="row" class="tg-infobox-label">Languages</th><td class="tg-infobox-data"><a href="../I/Ilkorin.md" title="Ilkorin">Ilkorin</a></td></tr><tr><th scope="row" class="tg-infobox-label">Members</th><td class="tg-infobox-data"><a href="../N/Nuin.md" title="Nuin">Nuin</a><br/><i>possibly</i> <a href="../T/Tareg.md" title="Tareg">Tareg</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifespan</th><td class="tg-infobox-data"><a class="mw-redirect" href="../I/Immortal.md" title="Immortal">Immortal</a></td></tr><tr><th scope="row" class="tg-infobox-label">Distinctions</th><td class="tg-infobox-data">Very keen eyesight<sup id="cite_ref-Nuin_1-0" class="reference"><a href="#cite_note-Nuin-1">[1]</a></sup></td></tr></tbody></table>
 
-**Hisildi** là tên của [Yêu tinh](../E/Elves.md) đã chọn ở lại [Palisor](../P/Palisor.md) gần [Koivië-néni](../K/Koivië-néni.md), và trở thành tín đồ của [fay](../F/Fay.md) [Tû](<../T/Tû_(king_of_the_Hisildi).md>), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một số phác thảo về tiếp tục *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
+**Hisildi** là tên của [Tiên tộc](../E/Elves.md) đã chọn ở lại [Palisor](../P/Palisor.md) gần [Koivië-néni](../K/Koivië-néni.md), và trở thành tín đồ của [fay](../F/Fay.md) [Tû](<../T/Tû_(king_of_the_Hisildi).md>), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) trong một số phác thảo về việc tiếp tục của *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.
 
-Họ là một tập hợp con của [Ilkorindi](../I/Ilkorindi.md), những Yêu tinh chưa bao giờ chạm tới [Kôr](../K/Kôr.md).<sup id="cite_ref-Nuin_1-1" class="reference"><a href="#cite_note-Nuin-1">[1]</a></sup>
+Họ là một tập hợp con của [Ilkorindi](../I/Ilkorindi.md), Tiên tộc chưa bao giờ đạt tới [Kôr](../K/Kôr.md).<sup id="cite_ref-Nuin_1-1" class="reference"><a href="#cite_note-Nuin-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
 ### Tû và Hisildi {#Tû_and_the_Hisildi}
 
-[fay](../F/Fay.md) [Tû](<../T/Tû_(king_of_the_Hisildi).md>), một pháp sư có khả năng thực hiện [ma thuật](../M/Magic.md) hơn bất kỳ sinh vật nào khác, ngoại trừ những người sống ở [Valinor](../V/Valinor.md), cũng là một kẻ lang thang, và trong một lần đi lang thang, anh đã gặp [Ilkorindi](../I/Ilkorindi.md), [Yêu tinh](../E/Elves.md) của [Palisor](../P/Palisor.md). Những người Yêu tinh sống ở đó ngay lập tức bị thu hút bởi ông ta, vì ông ta đã dạy họ và hướng dẫn họ những kiến ​​​​thức sâu sắc - cuối cùng, ông ta trở thành một vị vua hùng mạnh trong số họ.
+[fay](../F/Fay.md) [Tû](<../T/Tû_(king_of_the_Hisildi).md>), một pháp sư có khả năng thực hiện [ma thuật](../M/Magic.md) hơn bất kỳ sinh vật nào khác, ngoại trừ những người sống ở [Valinor](../V/Valinor.md), cũng là một kẻ lang thang, và trong một lần đi lang thang, ông ta đã tình cờ gặp [Ilkorindi](../I/Ilkorindi.md), [Tiên tộc](../E/Elves.md) của [Palisor](../P/Palisor.md). Những Tiên tộc sống ở đó ngay lập tức bị thu hút bởi ông, như ông đã dạy họ và hướng dẫn họ những kiến ​​thức sâu sắc - cuối cùng, ông đã trở thành một vị vua hùng mạnh trong số họ.
 
-Những câu chuyện về Ilkorin sau này gọi ông là *[Lord of Gloaming](../L/Lord_of_Gloaming.md)*, và tất cả Ilkorindi dưới sự cai trị của ông được gọi là <i><b>Hisildi</b></i> hoặc *twilight people*.<sup id="cite_ref-Nuin_1-2" class="reference"><a href="#cite_note-Nuin-1">[1]</a></sup>
+Những câu chuyện Ilkorin sau này gọi ông là *[Lord of Gloaming](../L/Lord_of_Gloaming.md)*, và tất cả Ilkorindi dưới sự cai trị của ông được gọi là <i><b>Hisildi</b></i> hoặc *twilight people*.<sup id="cite_ref-Nuin_1-2" class="reference"><a href="#cite_note-Nuin-1">[1]</a></sup>
 
-### Nuin và sự thức tỉnh của con người {#Nuin_and_the_Awakening_of_Men}
+### Nuin và sự thức tỉnh của Con Người {#Nuin_and_the_Awakening_of_Men}
 
-Một Hisildë đặc biệt nổi tiếng là một Yêu tinh thông thái tên là [Nuin](../N/Nuin.md). Ông ta là người đã tình cờ gặp những [Người](../M/Men.md) đầu tiên ở [Murmenalda](../M/Murmenalda.md) khi họ vẫn đang ngủ say, chờ đợi [Sự thức tỉnh](../A/Awakening_of_Men.md).<sup id="cite_ref-Nuin_1-3" class="reference"><a href="#cite_note-Nuin-1">[1]</a></sup>
+Một Hisildë đặc biệt nổi tiếng là một Tiên thông thái tên là [Nuin](../N/Nuin.md). Ông là người đã tình cờ gặp [Con Người](../M/Men.md) đầu tiên ở [Murmenalda](../M/Murmenalda.md) khi họ vẫn đang ngủ say, chờ đợi [Sự thức tỉnh](../A/Awakening_of_Men.md).<sup id="cite_ref-Nuin_1-3" class="reference"><a href="#cite_note-Nuin-1">[1]</a></sup>
 
-Ông đóng một vai trò quan trọng trong sự phát triển của nhân loại, vì ông là người cho rằng họ có thể nói được - do đó ông có biệt danh là *Father of Speech*. Ông ta là người đã đánh thức [Ermon](../E/Ermon.md) và [Elmir](../E/Elmir.md), những Người đầu tiên thức tỉnh, sau đó những Người còn lại học nói; và họ lan rộng khắp Palisor, thu thập kiến ​​thức về Hisildi, và từ đó đi đến mọi nơi trên thế giới - và một thời đại vĩ đại đã trôi qua.<sup id="cite_ref-Gil_2-0" class="reference"><a href="#cite_note-Gil-2">[2]</a></sup>
+Ông đóng một vai trò quan trọng trong sự phát triển của nhân loại, vì ông là người cho rằng họ có thể nói được - do đó ông có biệt danh là *Father of Speech*. Ông là người đã đánh thức [Ermon](../E/Ermon.md) và [Elmir](../E/Elmir.md), những người Con Người đầu tiên thức tỉnh, sau đó những người còn lại trong Con Người học nói; và họ lan rộng khắp Palisor, thu thập kiến ​​thức về Hisildi, và từ đó đi đến mọi nơi trên thế giới - và một thời đại vĩ đại đã trôi qua.<sup id="cite_ref-Gil_2-0" class="reference"><a href="#cite_note-Gil-2">[2]</a></sup>
 
 ### Cuộc chiến ở Palisor {#The_War_of_Palisor}
 
@@ -61,21 +61,21 @@ Tuy nhiên, một người hầu của [Melko](../M/Melko.md) tên là [Fankil](
 
 ### Hậu quả {#Aftermath}
 
-May mắn thay, một Ilkorin tên là [Tareg](../T/Tareg.md) rõ ràng đã trốn thoát được và nghe tin đồn về việc [Noldoli](../N/Noldoli.md) trở về chiến đấu với Melko ở Tây Bắc, ông ta ngay lập tức quyết định hành quân đến đó.
+May mắn thay, một Ilkorin tên là [Tareg](../T/Tareg.md) rõ ràng đã trốn thoát được, và nghe tin đồn [Noldoli](../N/Noldoli.md) trở về chiến đấu ở Melko ở Tây Bắc, ông ta ngay lập tức quyết định hành quân đến đó.
 
-Cuối cùng, về Tû, vị vua thần tiên của Hisildi, người ta nói rằng sau sự sinh sôi nảy nở của Con người và sự phát triển về tầm vóc của họ, ông ấy "biến mất trước [Mặt trời](../S/Sun.md) và ẩn náu trong những hang động không đáy".<sup id="cite_ref-Gil_2-2" class="reference"><a href="#cite_note-Gil-2">[2]</a></sup>
+Cuối cùng, về Tû, vị vua thần tiên của Hisildi, người ta nói rằng sau sự sinh sôi nảy nở của Con Người và sự phát triển về tầm vóc của chúng, ông đã "nhạt nhòa trước [Mặt Trời](../S/Sun.md) và ẩn náu trong những hang động không đáy".<sup id="cite_ref-Gil_2-2" class="reference"><a href="#cite_note-Gil-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Hisildi* ở [Qenya](../Q/Qenya.md). Nó được gọi là "Twilight People, Dark Elves", có thể là một bản dựng lại của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=H%C3%ADs%C3%AB&amp;action=edit&amp;redlink=1" title="Hísë (page does not exist)">hísë</a></i> ("hoàng hôn").<sup id="cite_ref-His_4-0" class="reference"><a href="#cite_note-His-4">[3]</a></sup>
+Tên *Hisildi* nằm trong [Qenya](../Q/Qenya.md). Nó được gọi là "Twilight People, Tiên Hắc Ám", có thể là một bản cải tiến của <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=H%C3%ADs%C3%AB&amp;action=edit&amp;redlink=1" title="Hísë (page does not exist)">hísë</a></i> ("chạng vạng").<sup id="cite_ref-His_4-0" class="reference"><a href="#cite_note-His-4">[3]</a></sup>
 
 ## Tên khác {#Other_names}
 
 Trong một số tóm tắt trước đó về câu chuyện của Hisildi, một số tên thay thế khác đã được đặt cho họ: *Humarni*, *Kaliondi* và *Lómëarni*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
-Tên *Humarni* và *Kaliondi* là tiếng Qenya, nhưng ý nghĩa của chúng không rõ ràng.<sup id="cite_ref-His_4-1" class="reference"><a href="#cite_note-His-4">[3]</a></sup>
+Tên *Humarni* và *Kaliondi* đều có trong Qenya nhưng ý nghĩa của chúng không rõ ràng.<sup id="cite_ref-His_4-1" class="reference"><a href="#cite_note-His-4">[3]</a></sup>
 
-Tên *Lómëarni* cũng có ở Qenya. Phần đầu tiên của tên, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3mear&amp;action=edit&amp;redlink=1" title="Lómear (page does not exist)">lómear</a></i>, được gọi là "Đứa trẻ của Gloom" trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, sự kết hợp của *[lómë](../L/Lómë.md)* ("u ám") và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ar_(Qenya_word)&amp;action=edit&amp;redlink=1" title="Ar (Qenya word) (page does not exist)">ar</a></i> ("đứa trẻ"); với *Lómëarni* là dạng số nhiều của *Lómëar*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Tên *Lómëarni* cũng có trong Qenya. Phần đầu tiên của tên, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=L%C3%B3mear&amp;action=edit&amp;redlink=1" title="Lómear (page does not exist)">lómear</a></i>, được gọi là "Đứa trẻ của Gloom" trong *[Qenya Lexicon](../Q/Qenya_Lexicon.md)*, sự kết hợp của *[lómë](../L/Lómë.md)* ("u ám") và <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Ar_(Qenya_word)&amp;action=edit&amp;redlink=1" title="Ar (Qenya word) (page does not exist)">ar</a></i> ("đứa trẻ"); với *Lómëarni* là dạng số nhiều của *Lómëar*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -86,7 +86,7 @@ Tên *Lómëarni* cũng có ở Qenya. Phần đầu tiên của tên, <i><a cla
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Ở giai đoạn đầu của huyền thoại này, Người lùn được miêu tả một cách áp đảo dưới góc nhìn tiêu cực.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Ở giai đoạn đầu của huyền thoại này, Người Lùn được miêu tả một cách áp đảo dưới ánh sáng tiêu cực.</span>
 </li>
 </ol></div></span>
 

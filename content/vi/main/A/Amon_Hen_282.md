@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen282.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3e/AmonHen282.png/320px-AmonHen282.png" decoding="async" loading="lazy" width="320" height="452" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3e/AmonHen282.png/480px-AmonHen282.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3e/AmonHen282.png/640px-AmonHen282.png 2x" data-file-width="869" data-file-height="1228"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 282</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Andrew_Butler.md" title="Andrew Butler">Andrew Butler</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../J/Jef_Murray.md" title="Jef Murray">Jef Murray</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.horshampress.co.uk/" rel="noreferrer noopener" target="_blank">Horsham Press</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">March <a href="../_/2020.md" title="2020">2020</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_281.md" title="Amon Hen 281">Amon Hen 281</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_283.md" title="Amon Hen 283">Amon Hen 283</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 282</b> là số thứ hai trăm tám mươi giây của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 3 [2020](../_/2020.md).
+<b><i>Amon Hen</i> 282</b> là số hai trăm tám mươi giây của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 3 [2020](../_/2020.md).
 
 ## Nội dung {#Contents}
 
@@ -77,8 +77,8 @@ infobox:
     - Bởi: Maggie Bailey
 - Tác phẩm nghệ thuật: *Into the Wild*
     - Bởi: [Jef Murray](../J/Jef_Murray.md)
-- Chuyện linh tinh của Michael
-    - Bởi: Michael Flowers
+Linh tinh của - Michael
+    - Bởi: Michael Hoa
 - Tác phẩm nghệ thuật: *Somewhere in Mordor...*
     - Bởi: Gordon Palmer
 - Ủy ban

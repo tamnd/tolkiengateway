@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Laws and Customs among the Eldar"
 ---
 
-Chuyển hướng tới [Luật lệ và phong tục giữa các Eldar](../L/Laws_and_Customs_among_the_Eldar.md).
+Chuyển hướng tới [Luật và Hải quan giữa Eldar](../L/Laws_and_Customs_among_the_Eldar.md).

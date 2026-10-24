@@ -66,7 +66,7 @@ Sự kiện xảy ra vào ngày 30 tháng 3
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1936](1936.md)** - C.A. Furth (của [George Allen & Unwin Ltd](../A/Allen_and_Unwin.md)) viết thư cho J.R.R. Tolkien.
+- **[1936](1936.md)** - C.A. Furth (của [George Allen &amp; Unwin Ltd](../A/Allen_and_Unwin.md)) viết thư cho J.R.R. Tolkien.
 - **[1940](1940.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 38](../L/Letter_38.md).
 - **[1953](1953.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [Edith](../E/Edith_Tolkien.md) di chuyển đến [76 Đường Sandfield](76_Sandfield_Road.md).
 - **[1968](1968.md)** – Phim tài liệu *[Tolkien in Oxford](../T/Tolkien_in_Oxford.md)* được phát sóng trên [BBC](../B/BBC.md).
@@ -77,8 +77,8 @@ Sự kiện xảy ra vào ngày 30 tháng 3
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi ở [Ithilien](../I/Ithilien.md).
-    - 1/4 tuần trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+    - [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md), được cứu ra khỏi đám cháy, nghỉ ngơi tại [Ithilien](../I/Ithilien.md).
+    - Quý đầu tiên của Mặt Trăng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

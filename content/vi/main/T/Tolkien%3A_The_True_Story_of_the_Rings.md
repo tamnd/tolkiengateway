@@ -43,7 +43,7 @@ infobox:
 
 <i><b>Tolkien: Câu chuyện có thật về những chiếc nhẫn</b></i> là bộ phim tài liệu do StoryHouse phối hợp với kênh tiếng Đức <a class="extiw" href="http://en.wikipedia.org/wiki/ZDF" title="wikipedia:ZDF"> ZDF</a>sản xuất. Phim được phát sóng trên <a class="extiw" href="http://en.wikipedia.org/wiki/Arte" title="wikipedia:Arte"> ArteTV</a> vào [5 tháng 12](../_/5_December.md) [2024](../_/2024.md) và kể từ đó đã có trên trang web của kênh.
 
-Bộ phim tài liệu chủ yếu tập trung vào nguồn cảm hứng ngoài đời thực của Tolkien cho di tích huyền thoại của ông, đặc biệt là chuyến đi đến Thụy Sĩ và [Trận chiến Somme](../B/Battle_of_the_Somme.md). Nó có hai đoạn trong đó [Martin S. Monsch](../S/Switzerland_in_Tolkien's_Middle-Earth.md) và [Annika Röttinger](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) lần lượt đi đến các địa điểm đó.
+Bộ phim tài liệu chủ yếu tập trung vào những nguồn cảm hứng ngoài đời thực của Tolkien cho di tích huyền thoại của ông, đặc biệt là chuyến đi đến Thụy Sĩ và [Trận chiến Somme](../B/Battle_of_the_Somme.md). Nó có hai đoạn trong đó [Martin S. Monsch](../S/Switzerland_in_Tolkien's_Middle-Earth.md) và [Annika Röttinger](../D/Deutsche_Tolkien_Gesellschaft_e.V..md) lần lượt đi đến các địa điểm đó.
 
 <br>
 

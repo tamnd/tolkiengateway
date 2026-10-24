@@ -16,7 +16,7 @@ images:
   - "Disambig.png"
 ---
 
-**Khoa học về Trung địa** có thể đề cập đến hai ấn phẩm:
+**Khoa học Trung Địa** có thể tham khảo hai ấn phẩm:
 
 - *[The Science of Middle-earth](<The_Science_of_Middle-earth_(2004_book).md>)*, một cuốn sách [2004](../_/2004.md) của [Henry Gee](../H/Henry_Gee.md).
 - *[The Science of Middle-earth](<The_Science_of_Middle-earth_(2021_book).md>)*, một cuốn sách [2021](../_/2021.md) do Roland Lehoucq, Loïc Mangin và Jean-Sébastien Steyer biên tập.

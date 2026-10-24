@@ -29,7 +29,7 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/lord.html" rel="noreferrer noopener" target="_blank">CHÚA</a> tại <a class="external text" href="http://www.lysator.liu.se" rel="noreferrer noopener" target="_blank">Tolkien Games</a>
+- <a class="external text" href="http://www.lysator.liu.se/tolkien-games/entry/lord.html" rel="noreferrer noopener" target="_blank">CHÚA</a> tại <a class="external text" href="http://www.lysator.liu.se" rel="noreferrer noopener" target="_blank">Tolkien Trò chơi</a>
 
 <span></span>
 

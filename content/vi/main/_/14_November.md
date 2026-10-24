@@ -65,17 +65,17 @@ Sự kiện xảy ra vào ngày 14 tháng 11
 - **[1904](1904.md)** – Ở tuổi 34, [Mabel Tolkien](../M/Mabel_Suffield.md) qua đời sau sáu ngày trong tình trạng hôn mê do tiểu đường.
 - **[1907](1907.md)** - Tác giả người Thụy Điển [Astrid Lindgren](../A/Astrid_Lindgren.md) ra đời.
 - **[1955](1955.md)** - Tập đầu tiên của [loạt phim phát thanh năm 1955](<../T/The_Lord_of_the_Rings_(1955_radio_series).md>) của *[The Fellowship of the Ring](../T/The_Fellowship_of_the_Ring.md)* phát sóng trên [BBC](../B/BBC.md) Chương trình thứ ba.
-- **[1962](1962.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi H. Cotton Minchin](<../L/Letter_to_H._Cotton_Minchin_(14_November_1962).md>).
+- **[1962](1962.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư cho H. Cotton Minchin](<../L/Letter_to_H._Cotton_Minchin_(14_November_1962).md>).
 - **[1964](1964.md)** - Tập thứ sáu của [Princess](../P/Princess.md)-serialization của *[The Hobbit](../T/The_Hobbit.md)* được xuất bản.
 - **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 307](../L/Letter_307.md).
-- <b><a href="1986.md" title="1986">1986</a> - <i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaped of Middle-earth</a></i> được xuất bản tại Hoa Kỳ.</b>
-- <b><a href="1990.md" title="1990">1990</a> - <i><a href="../T/The_War_of_the_Ring.md" title="The War of the Ring">The War of the Ring</a></i> được xuất bản ở Mỹ.</b>
+- <b><a href="1986.md" title="1986">1986</a> - <i><a href="../T/The_Shaping_of_Middle-earth.md" title="The Shaping of Middle-earth">The Shaping of Middle-earth</a></i> được xuất bản tại Hoa Kỳ.</b>
+- <b><a href="1990.md" title="1990">1990</a> - <i><a href="../T/The_War_of_the_Ring.md" title="The War of the Ring"> Cuộc chiến Nhẫn</a></i> được xuất bản ở Hoa Kỳ.</b>
 - **[2003](2003.md)** - *[Tolkien Through Russian Eyes](../T/Tolkien_Through_Russian_Eyes.md)* được xuất bản.
 - **[2019](2019.md)** - *[The Hobbit Sketchbook](../T/The_Hobbit_Sketchbook.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

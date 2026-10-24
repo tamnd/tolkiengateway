@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>lhaw</b></i> là từ [tiếng Sindarin](../S/Sindarin.md) để chỉ một đôi tai.<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> Xem thêm *[lhewig](Lhewig.md)*.
+<i><b>lhaw</b></i> là từ [Sindarin](../S/Sindarin.md) chỉ một đôi tai.<sup id="cite_ref-PE_1-0" class="reference"><a href="#cite_note-PE-1">[1]</a></sup> Xem thêm *[lhewig](Lhewig.md)*.
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tuor"
 ---
 
-Chuyển hướng tới [Tuor](Tuor.md).
+Chuyển hướng đến [Tuor](Tuor.md).

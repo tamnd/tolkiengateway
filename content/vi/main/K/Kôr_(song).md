@@ -39,7 +39,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Kôr</b></i> là ca khúc thứ năm trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Kôr](Kôr.md), một cái tên bị từ chối của [Túna](../T/Túna.md). Lời bài hát là một dạng chuyển đổi từ bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Kortirion giữa những hàng cây](../T/The_Trees_of_Kortirion.md).
+<i><b>Kôr</b></i> là ca khúc thứ năm trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Kôr](Kôr.md), tên bị từ chối cho [Túna](../T/Túna.md). Lời bài hát là một dạng chuyển thể từ bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), [Kortirion giữa những cái cây](../T/The_Trees_of_Kortirion.md).
 
 ## Lời bài hát {#Lyrics}
 

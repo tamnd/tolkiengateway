@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Earliest 'Silmarillion'"
 ---
 
-Chuyển hướng tới ['Silmarillion' sớm nhất](../T/The_Earliest_'Silmarillion'.md).
+Chuyển hướng đến [The Earliest 'Silmarillion'](../T/The_Earliest_'Silmarillion'.md).

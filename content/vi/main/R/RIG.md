@@ -12,16 +12,16 @@ categories:
   - "Roots"
 ---
 
-**RIG** là một [Eldarin thông thường](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "sợi xe, vòng hoa"<sup id="cite_ref-Shibb_1-0" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup> hoặc "vòng hoa, vòng hoa, vương miện".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một biểu thị chi tiết được đưa ra là "sợi xe, đặc biệt là các vòng hoa, hoặc các loại đá quý, v.v. được làm giống chúng".<sup id="cite_ref-Eld_3-0" class="reference"><a href="#cite_note-Eld-3">[3]</a></sup>
+**RIG** là một [Common Eldarin](../C/Common_Eldarin.md) [gốc](../S/Sundocarme.md) biểu thị "sợi xe, vòng hoa"<sup id="cite_ref-Shibb_1-0" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup> hoặc "vòng hoa, vòng hoa, vương miện".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ý nghĩa chi tiết được đưa ra là "sợi xe, đặc biệt là các vòng hoa, hoặc các loại đá quý, v.v. được làm theo hình ảnh của chúng".<sup id="cite_ref-Eld_3-0" class="reference"><a href="#cite_note-Eld-3">[3]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Quenya](../Q/Quenya.md): *-rīna* ("đeo vòng hoa, đăng quang"); *[rië](Rië.md)* ("vòng hoa"); *riende*<sup id="cite_ref-Eld_3-1" class="reference"><a href="#cite_note-Eld-3">[3]</a></sup>
+- [Quenya](../Q/Quenya.md): *-rīna* ("đeo vòng hoa, đội vương miện"); *[rië](Rië.md)* ("vòng hoa"); *riende*<sup id="cite_ref-Eld_3-1" class="reference"><a href="#cite_note-Eld-3">[3]</a></sup>
 
-- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *rīgā* ("vòng hoa, vòng hoa")<sup id="cite_ref-Shibb_1-1" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup>
+- [Primitive Quendian](../P/Primitive_Quendian.md): *rīgā* ("vòng hoa, vòng hoa")<sup id="cite_ref-Shibb_1-1" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup>
     - [Quenya](../Q/Quenya.md): *[ría](Ría.md)*<sup id="cite_ref-Shibb_1-2" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup>
     - [Telerin](../T/Telerin.md): *[ría](Ría.md)*<sup id="cite_ref-Shibb_1-3" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup>
-    - [Tiếng Sindarin](../S/Sindarin.md): *rî*<sup id="cite_ref-Shibb_1-4" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup>
+    - [Sindarin](../S/Sindarin.md): *rî*<sup id="cite_ref-Shibb_1-4" class="reference"><a href="#cite_note-Shibb-1">[1]</a></sup>
 
 ## Phiên bản khác {#Other_versions}
 

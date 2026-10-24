@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Calacirya"
 ---
 
-Chuyển hướng tới [Calacirya](../C/Calacirya.md).
+Chuyển hướng đến [Calacirya](../C/Calacirya.md).

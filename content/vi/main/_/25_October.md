@@ -66,14 +66,14 @@ Sự kiện xảy ra vào ngày 25 tháng 10
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1893](1893.md)** - [Robert Gilson](../R/Robert_Gilson.md), người bạn thời thơ ấu của Tolkien, ra đời.
+- **[1893](1893.md)** - [Robert Gilson](../R/Robert_Gilson.md), bạn thời thơ ấu của Tolkien, ra đời.
 - **[1924](1924.md)** - Diễn viên [Billy Barty](../B/Billy_Barty.md) ra đời.
 - **[1943](1943.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 50](../L/Letter_50.md).
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 87](../L/Letter_87.md).
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 213](../L/Letter_213.md).
 - **[1960](1960.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) tìm cách (thông qua thư ký <a class="new" href="https://tolkiengateway.net/w/index.php?title=Elisabeth_Lumsden&amp;action=edit&amp;redlink=1" title="Elisabeth Lumsden (page does not exist)">Elisabeth Lumsden</a>) xuất bản "một loại truyện giả tưởng châm biếm") được cho là *[The End of Bovadium](../T/The_End_of_Bovadium.md)* trên tạp chí <i><a class="extiw" href="http://en.wikipedia.org/wiki/Time_and_Tide_(magazine)" title="wikipedia:Time and Tide (magazine)">Thời gian và Thủy triều</a></i>.
 - **[2003](2003.md)** - [RingCon](../R/RingCon.md) III ở <a class="extiw" href="http://en.wikipedia.org/wiki/Tacoma,_Washington" title="wikipedia:Tacoma, Washington">Tacoma, Washington</a>.
-- **[2005](2005.md)** - [Tolkien Ensemble](../T/Tolkien_Ensemble.md) xuất bản album thứ tư của họ, *[Leaving Rivendell](../L/Leaving_Rivendell.md)*.
+- **[2005](2005.md)** - Nhóm [Tolkien Ensemble](../T/Tolkien_Ensemble.md) xuất bản album thứ tư của họ, *[Leaving Rivendell](../L/Leaving_Rivendell.md)*.
 - **[2007](2007.md)** - *[The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md): [Shadows of Angmar](../T/The_Lord_of_the_Rings_Online%253A_Shadows_of_Angmar.md)*, "Prisoner of the Free Peoples" được phát hành ở Châu Âu.
 - **[2010](2010.md)** – Dịch giả người Đức [Walter Scherf](../W/Walter_Scherf.md) qua đời.
 - **[2022](2022.md)** – Họa sĩ hoạt hình [Jules Bass](../J/Jules_Bass.md) qua đời.
@@ -81,7 +81,7 @@ Sự kiện xảy ra vào ngày 25 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Hội đồng Elrond](../C/Council_of_Elrond.md). Người ta quyết định rằng [Chiếc Nhẫn Chúa](../T/The_One_Ring.md) phải đến [Mordor](../M/Mordor.md). [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) nhận nhiệm vụ.
+    - Cái [Hội đồng Elrond](../C/Council_of_Elrond.md). Người ta quyết định rằng [Chiếc nhẫn duy nhất](../T/The_One_Ring.md) phải đến [Mordor](../M/Mordor.md). [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) nhận nhiệm vụ.
     - [Aragorn](../A/Aragorn.md), [Elladan](../E/Elladan.md) và [Elrohir](../E/Elrohir.md) đi trinh sát khu vực lân cận.

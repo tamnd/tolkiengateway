@@ -32,17 +32,17 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/Angus_McBride_-_Mewlips.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/Angus_McBride_-_Mewlips.jpg/250px-Angus_McBride_-_Mewlips.jpg" decoding="async" loading="lazy" width="250" height="195" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/17/Angus_McBride_-_Mewlips.jpg 1.5x" data-file-width="350" data-file-height="273"/></a><figcaption><a href="../A/Angus_McBride.md" title="Angus McBride">Angus McBride</a> - <i>Mewlip</i></figcaption></figure>
 
-**Mewlips** là một chủng tộc huyền thoại gồm những sinh vật tà ác chỉ được nhắc đến trong câu thơ [Hobbit](../H/Hobbits.md). Những sinh vật này có thể là hư cấu, mặc dù chúng có thể được lấy cảm hứng từ [Orc](../O/Orcs.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mewlips** là chủng tộc huyền thoại gồm những sinh vật tà ác chỉ được nhắc đến trong câu [Hobbit](../H/Hobbits.md). Các sinh vật này có thể là hư cấu, mặc dù chúng có thể được lấy cảm hứng từ [Orc](../O/Orcs.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Sống bên ngoài [Dãy núi Merlock](Merlock_Mountains.md) và đầm lầy [Tode](../T/Tode.md), người ta cho rằng chúng ăn thịt người qua đường, thu thập xương của họ cho vào bao tải.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Sống bên ngoài [Merlock Dãy Núi](Merlock_Mountains.md) và đầm lầy [Tode](../T/Tode.md), chúng được cho là đã ăn thịt những người qua đường, thu thập xương của họ cho vào bao tải.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Hobbit](../T/The_Hobbit.md)*, [Bilbo Baggins](../B/Bilbo_Baggins.md) biết được rằng [Đầm lầy dài](../L/Long_Marshes.md) đã phát triển rộng hơn, chiếm nhiều lối đi và mất người.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong ghi chú cốt truyện mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thực hiện khi viết câu chuyện, những người đi bè đã kể những câu chuyện về những chiếc bè, người và thú vật biến mất;<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [John D. Rateliff](../J/John_D._Rateliff.md) gợi ý rằng câu thoại đáng ngại hơn trong ghi chú có thể chỉ ra rằng Tolkien có chút khó chịu trong đầu khi [Thorin và Company](../T/Thorin_and_Company.md) đi vào đầm lầy - có lẽ là gặp Mewlips.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong *[The Hobbit](../T/The_Hobbit.md)*, [Bilbo Baggins](../B/Bilbo_Baggins.md) biết được rằng [Đầm lầy dài](../L/Long_Marshes.md) đã phát triển rộng hơn, chiếm nhiều lối đi và mất người.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Trong ghi chú cốt truyện mà [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết khi viết câu chuyện, những người đi bè đã kể những câu chuyện về những chiếc bè, người và thú dữ biến mất;<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> [John D. Rateliff](../J/John_D._Rateliff.md) gợi ý rằng dòng đáng ngại hơn trong ghi chú có thể cho thấy rằng Tolkien có ý nghĩ khó chịu nào đó [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) đã đi vào đầm lầy - có lẽ là gặp Mewlips.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd><i>Mewlips</i>, described and given statistics in various supplements, are portrayed as undead beings living in swamps and marshes. The race is conceived as having been created by <a href="Morgoth.md" title="Morgoth">Morgoth</a> in the <a href="../E/Elder_Days.md" title="Elder Days">Elder Days</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 

@@ -12,7 +12,7 @@ categories:
   - "Quenya names"
 ---
 
-**Argol**(**do**) là tên [Quenya](../Q/Quenya.md) có nghĩa là "Cao quý [Ñoldo](../_/Ñoldo.md)", chỉ được chứng thực như một ví dụ về thay đổi ngữ âm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin nào khác được đưa ra về tên này.
+**Argol**(**do**) là một cái tên [Quenya](../Q/Quenya.md) có nghĩa là "Cao quý [Ñoldo](../_/Ñoldo.md)", chỉ được chứng thực như một ví dụ về những thay đổi về ngữ âm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Không có thông tin nào khác được đưa ra về nó.
 
 <span></span>
 

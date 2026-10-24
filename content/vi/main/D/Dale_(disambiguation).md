@@ -14,22 +14,22 @@ images:
   - "Disambig.png"
 ---
 
-**Dale** mỗi người có thể đề cập đến:
+**Dale** mỗi cái có thể đề cập đến:
 
 - **[Dale](Dale.md)**, một thung lũng ở [Rhovanion](../R/Rhovanion.md) cũng là tên của một vương quốc và một thị trấn.
-- **[East Dales](../E/Eastfold.md)**, vùng của [Rohan](../R/Rohan.md).
-- **[Người của Dale](../M/Men_of_Dale.md)**, cư dân của Dale.
-- **[Lãnh chúa xứ Dale](../L/Lord_of_Dale.md)**, một danh hiệu [Mannish](../M/Mannish.md).
-- **[Vua xứ Dale](../K/King_of_Dale.md)**, danh hiệu Người Man.
-- **[Ngôn ngữ của Dale](../L/Language_of_Dale.md)**, một ngôn ngữ [Mannish phía Bắc](../N/Northern_Mannish.md).
-- **[Trận chiến Dale](../B/Battle_of_Dale.md)**, một trận chiến trong [War of the Ring](../W/War_of_the_Ring.md).
+- **[phương Đông Dales](../E/Eastfold.md)**, một vùng [Rohan](../R/Rohan.md).
+- **[Người Dale](../M/Men_of_Dale.md)**, cư dân của Dale.
+- **[Chúa tể của Dale](../L/Lord_of_Dale.md)**, một danh hiệu [Mannish](../M/Mannish.md).
+- **[Vua của Dale](../K/King_of_Dale.md)**, một danh hiệu Mannish.
+- **[Ngôn ngữ Dale](../L/Language_of_Dale.md)**, một ngôn ngữ [tiếng Mannish phía Bắc](../N/Northern_Mannish.md).
+- **[Trận Dale](../B/Battle_of_Dale.md)**, một trận chiến trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).
 - <i><b><a href="../T/The_Dale-lands.md" title="The Dale-lands">Vùng đất Dale</a></b></i>, một bài thơ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 ## Các bản chuyển thể {#Adaptations}
 
 - "[Girion, Lord Of Dale](../G/Girion,_Lord_Of_Dale.md)", ca khúc thứ hai của Đĩa 2 trong album *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md)*.
 - "[The Ruins of Dale](../T/The_Ruins_of_Dale.md)", ca khúc thứ năm của Đĩa 1 trong album *[The Hobbit: The Battle of the Five Armies - Original Motion Picture Soundtrack](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies_-_Original_Motion_Picture_Soundtrack.md)*.
-- "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Ruins_of_Dale_(scene)&amp;action=edit&amp;redlink=1" title="The Ruins of Dale (scene) (page does not exist)">The Ruins of Dale</a>", cảnh thứ mười hai trong [Peter Jackson](../P/Peter_Jackson.md)'s *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.
+- "<a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Ruins_of_Dale_(scene)&amp;action=edit&amp;redlink=1" title="The Ruins of Dale (scene) (page does not exist)">Tàn tích của Dale</a>", cảnh thứ mười hai trong *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)* của [Peter Jackson](../P/Peter_Jackson.md).
 
 <hr style="margin-top:15px;"/>
 

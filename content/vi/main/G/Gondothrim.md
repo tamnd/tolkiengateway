@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gondolindrim"
 ---
 
-Chuyển hướng tới [Gondolindrim](Gondolindrim.md).
+Chuyển hướng đến [Gondolindrim](Gondolindrim.md).

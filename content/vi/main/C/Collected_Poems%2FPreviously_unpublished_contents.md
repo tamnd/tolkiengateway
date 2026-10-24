@@ -99,7 +99,7 @@ Trang này ghi lại những bài thơ chưa được xuất bản trước đâ
     - 6 dòng trích trong *[J.R.R. Tolkien: A Biography](../J/J.R.R._Tolkien%253A_A_Biography.md)* (1977)
 
 - \#88.  <a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Tale_of_Beewolf_Son_of_Echgethew&amp;action=edit&amp;redlink=1" title="The Tale of Beewolf Son of Echgethew (page does not exist)">Truyện về Beewolf Son of Echgethew</a> <b>[*chưa được xuất bản đầy đủ]</b>
-    - 19 dòng dùng làm minh họa cho vận luật trong lời tựa của *[Beowulf and the Finnsburg Fragment](../B/Beowulf_and_the_Finnsburg_Fragment.md)* (1940), lời nói đầu được in lại thành "[On Translating Beowulf](../P/Prefatory_Remarks_on_Prose_Translation_of_'Beowulf'.md)" trong *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)* (1983)
+    - 19 dòng dùng làm minh họa cho phép tắc trong lời tựa cuốn *[Beowulf and the Finnsburg Fragment](../B/Beowulf_and_the_Finnsburg_Fragment.md)* (1940), lời tựa được in lại thành "[Về dịch Beowulf](../P/Prefatory_Remarks_on_Prose_Translation_of_'Beowulf'.md)" trong lời tựa *[The Monsters and the Critics, and Other Essays](../T/The_Monsters_and_the_Critics,_and_Other_Essays.md)* (1983)
 
 - \#139.  [Chế độ xem cửa sổ](../V/Visio_de_Doworst.md)
     - một đoạn trích xuất hiện trong *[Monash Review 3](<../M/Monash_Review_3_(1975).md>)* (1975) và *[A Elbereth Gilthoniel! 1, no. 2](../A/A_Elbereth_Gilthoniel!_1,_no._2.md)* (1978)
@@ -107,7 +107,7 @@ Trang này ghi lại những bài thơ chưa được xuất bản trước đâ
 - \#181.  [Gió xoáy một chiếc chong chóng gió](../W/When_winter_first_begins_to_bite.md)
     - Khổ thơ thứ nhất trong lời nói đầu *[The Adventures of Tom Bombadil](../T/The_Adventures_of_Tom_Bombadil.md)* (1962)
 
-- \#185.  [Lời phàn nàn của Mîm Người lùn](../T/The_Complaint_of_Mîm_the_Dwarf.md)
+- \#185.  [Khiếu nại của Mîm của Người lùn](../T/The_Complaint_of_Mîm_the_Dwarf.md)
     - bản dịch tiếng Đức xuất hiện vào năm *[Klett-Cotta: Das erste Jahrzehnt 1977–1987, ein Almanach](../K/Klett-Cotta%253A_Das_erste_Jahrzehnt_1977–1987,_ein_Almanach.md)* (1987)
 
 ### Bài thơ còn lại {#Remaining_poems}

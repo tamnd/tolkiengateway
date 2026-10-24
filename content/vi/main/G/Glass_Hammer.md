@@ -43,10 +43,10 @@ Trong khi nhiều nhạc sĩ đã xuất hiện trong album Glass Hammer trong n
     - Susan Whitacre – viola
     - Rachel Hackenberger – cello
 
-## Danh sách đĩa nhạc liên quan đến Tolkien {#Tolkien-related_discography}
+## Tolkien danh sách đĩa nhạc liên quan {#Tolkien-related_discography}
 
 - [Journey of the Dunadan](../J/Journey_of_the_Dunadan.md) (1993) - "Rock Opera" tiến bộ dựa trên câu chuyện của [The Lord of the Rings](../T/The_Lord_of_the_Rings.md)
-- [Album Trung Địa](../T/The_Middle_Earth_Album.md) (2001) — Một album chủ yếu là âm thanh, "được thu âm trực tiếp tại Prancing Pony in Bree", mở rộng phong cách bài hát dân ca acoustic lấy cảm hứng từ giả tưởng thời Trung cổ có trong một số bài hát trên Journey of the Dunadan
+- [Album Trung Địa](../T/The_Middle_Earth_Album.md) (2001) — Một album chủ yếu là nhạc acoustic, "được thu âm trực tiếp tại Prancing Pony ở Bree," mở rộng theo phong cách bài hát dân ca acoustic lấy cảm hứng từ giả tưởng thời trung cổ có trong một số bài hát trên Journey of the Dunadan
 
 ## Liên kết ngoài {#External_links}
 

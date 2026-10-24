@@ -22,13 +22,13 @@ sort_keys:
   "Tolkien Society members": "Reynolds, Patricia"
 ---
 
-**Patricia Reynolds** đã viết và biên tập sách và bài báo liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Bà cũng là Nhà lưu trữ của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Patricia Reynolds** đã viết và biên tập sách và bài báo liên quan đến [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Bà cũng là Nhà lưu trữ của [Hội Tolkien](../T/The_Tolkien_Society.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục {#Bibliography}
 
 ### Sách {#Books}
 
-- [1992](../_/1992.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien%27s_Birmingham&amp;action=edit&amp;redlink=1" title="Tolkien&#39;s Birmingham (page does not exist)">Birmingham của Tolkien</a></i>
+- [1992](../_/1992.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tolkien%27s_Birmingham&amp;action=edit&amp;redlink=1" title="Tolkien&#39;s Birmingham (page does not exist)">Tolkien của Birmingham</a></i>
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)* (biên tập viên, với [Glen GoodKnight](../G/Glen_GoodKnight.md))
 
 ### Tạp chí (biên tập) {#Journals_(editor)}
@@ -43,27 +43,27 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [1990](../_/1990.md): [*Mallorn* 27](../M/Mallorn_27.md)
-    - "Đá xanh: Con tàu trắng *Oilima Markirya* (Chiếc thuyền cuối cùng)"
+    - "Những tảng đá xanh: Con Tàu Trắng *Oilima Markirya* (Chiếc hòm cuối cùng)"
 - [1991](../_/1991.md): *[Leaves from the Tree](../L/Leaves_from_the_Tree.md)*
-    - "Tom Bombadil đích thực"
+    - "Sự thật Tom Bombadil"
 - [1991](../_/1991.md): [*Mallorn* 28](../M/Mallorn_28.md)
     - "Frithuwold và người nông dân: *Farmer Giles of Ham* và vị trí của ông trong Lịch sử "
 - 199?: *[The Tolkien Collector](../T/The_Tolkien_Collector.md)*, số 2
-    - "Phê bình Tolkien của Ý"
+    - "Lời phê bình Tolkien của Ý"
 - [1996](../_/1996.md): [*Amon Hen* 137](../A/Amon_Hen_137.md)
     - "Công việc của người Ý"
 - [1996](../_/1996.md): [*Amon Hen* 141](../A/Amon_Hen_141.md)
     - "Đồ ăn thức uống, một câu chuyện dang dở"
 - [1996](../_/1996.md): [*Amon Hen* 142](../A/Amon_Hen_142.md)
-    - "Báo cáo: Người Hobbiton"
+    - "Báo cáo: Hobbiton"
 - [1997](../_/1997.md): [*Amon Hen* 145](../A/Amon_Hen_145.md)
     - "Báo cáo ĐHĐCĐ"
 - [1997](../_/1997.md): [*Mallorn* 35](../M/Mallorn_35.md)
-    - "Kiến trúc bản địa của ngọn đồi ở Hobbiton ở quận"
+    - "Ngọn đồi ở Hobbiton' Kiến trúc bản địa trong Shire"
 - [1998](../_/1998.md): [*Amon Hen* 154](../A/Amon_Hen_154.md)
     - "Báo cáo về Hobbiton & Oxonmoot"
 - [1999](../_/1999.md): *[Tolkien, the Sea and Scandinavia](../T/Tolkien,_the_Sea_and_Scandinavia.md)*
-    - "Làn Sóng Vĩ Đại Và Những Giấc Mơ Khác Trong Chúa Tể Những Chiếc Nhẫn"
+    - "Sóng lớn và những giấc mơ khác trong The Lord of the Rings"
 - [2002](../_/2002.md): [*Amon Hen* 174](../A/Amon_Hen_174.md)
     - "Những hình ảnh trong đầu bạn có đẹp hơn không?"
     - "Báo cáo: Lustrum & Estelcon"
@@ -86,7 +86,7 @@ sort_keys:
     - *The 1999 Italian Calendar* (với Trevor Reynolds)
     - *The Italian Middle-earth Diary* (với Trevor Reynolds)
 - [1998](../_/1998.md): [*Mallorn* 36](../M/Mallorn_36.md)
-    - "Tiểu thuyết giả tưởng và thần thoại xứ Wales: Những câu chuyện về sự thuộc về"
+    - "Hư cấu giả tưởng và tiếng Wales Huyền thoại: Những câu chuyện về sự thuộc về"
 - [1999](../_/1999.md): [*Amon Hen* 158](../A/Amon_Hen_158.md)
     - "Bìa mềm Hoa Kỳ *[Roverandom](../R/Roverandom.md)*"
 - [1999](../_/1999.md): [*Amon Hen* 159](../A/Amon_Hen_159.md)
@@ -94,12 +94,12 @@ sort_keys:
 - [2000](../_/2000.md): [*Amon Hen* 165](../A/Amon_Hen_165.md)
     - "Đồng hồ Chúa tể những chiếc nhẫn"
 - [2004](../_/2004.md): [*Amon Hen* 188](../A/Amon_Hen_188.md)
-    - "Beowulf của Tolkien - bản dịch văn xuôi mới"
+    - "Tolkien's Beowulf - một bản dịch văn xuôi mới"
 - [2008](../_/2008.md): [*Mallorn* 45](../M/Mallorn_45.md)
     - "Hành trình vào Tiên giới" (đánh giá về *Explore Fairy Traditions*)
     - "Northern Venture" (đánh giá về phim <a class="extiw" href="http://en.wikipedia.org/wiki/The_Golden_Compass_(film)" title="wikipedia:The Golden Compass (film)"><i>The Golden Compass</i></a>)
 - [2009](../_/2009.md): [*Mallorn* 48](../M/Mallorn_48.md)
-    - "Tên là gì?" (đánh giá về *[The Tolkien Name in History](../T/The_Tolkien_Name_in_History.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Suffield_Name_in_History&amp;action=edit&amp;redlink=1" title="The Suffield Name in History (page does not exist)">Tên Suffield trong lịch sử</a></i> và *Nguồn gốc của [JRR Tolkien](../J/J.R.R._Tolkien.md) trong [Bloemfontein](../B/Bloemfontein.md)*)
+    - "Tên là gì?" (đánh giá về *[The Tolkien Name in History](../T/The_Tolkien_Name_in_History.md)*, <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Suffield_Name_in_History&amp;action=edit&amp;redlink=1" title="The Suffield Name in History (page does not exist)">Tên Suffield trong Lịch sử</a></i> và *Nguồn gốc của [JRR Tolkien](../J/J.R.R._Tolkien.md) trong [Bloemfontein](../B/Bloemfontein.md)*)
 - [2011](../_/2011.md): [*Mallorn* 52](../M/Mallorn_52.md)
     - "Chuyến đi đến Iceland" (đánh giá về *Where the Shadows Lie*)
 

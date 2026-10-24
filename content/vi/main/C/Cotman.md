@@ -58,9 +58,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cotman sinh năm [S.R.](../S/Shire_Reckoning.md) [1260](../T/Third_Age_2860.md), con trai của Cottar. Ông có một người anh tên là [Carl](<Carl_(son_of_Cottar).md>). Họ là tổ tiên của [Cottons](Cotton_Family~66362.md) của [Bywater](../B/Bywater.md).
+Cotman sinh năm [S.R.](../S/Shire_Reckoning.md) [1260](../T/Third_Age_2860.md), con trai của Cottar. Ông có một người anh tên là [Carl](<Carl_(son_of_Cottar).md>). Họ là tổ tiên của [Bông](Cotton_Family~66362.md) của [Bywater](../B/Bywater.md).
 
-Ông kết hôn với [Rose](<../R/Rose_(daughter_of_Holman).md>), con gái của [Holman tay xanh](../H/Holman_the_greenhanded.md), và con trai của họ (còn gọi là [Holman](../H/Holman_Cotton.md)) là người Hobbit đầu tiên sử dụng họ Cotton.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ông kết hôn với [Rose](<../R/Rose_(daughter_of_Holman).md>), con gái của [Holman tay xanh](../H/Holman_the_greenhanded.md), và con trai của họ (còn gọi là [Holman](../H/Holman_Cotton.md)) là Hobbit đầu tiên sử dụng họ Cotton.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

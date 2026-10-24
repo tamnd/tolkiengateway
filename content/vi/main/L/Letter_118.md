@@ -33,7 +33,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a> lời chúc Giáng sinh trong một tờ giấy nhắn có ba dòng chữ. Đầu tiên là một dạng [Angerthas](../A/Angerthas.md) không hoàn toàn giống với rune lùn của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Cái thứ hai là [chữ Fëanorian](../T/Tengwar.md) với *[tehtar](../T/Tehtar.md)* (dấu ở trên các phụ âm) trong khi cái thứ ba là chữ Fëanorian với đầy đủ các chữ cái cho các nguyên âm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Tolkien đã gửi <a class="extiw" href="http://en.wikipedia.org/wiki/Hugh_Brogan" title="wikipedia:Hugh Brogan">Hugh Brogan</a> lời chúc Giáng sinh trong một tờ ghi chú có ba dòng chữ. Đầu tiên là một dạng [Angerthas](../A/Angerthas.md) không hoàn toàn giống với rune lùn của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*. Cái thứ hai là [chữ Fëanorian](../T/Tengwar.md) với *[tehtar](../T/Tehtar.md)* (dấu ở trên các phụ âm) trong khi cái thứ ba là chữ Fëanorian với đầy đủ các chữ cái cho các nguyên âm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
 ## Lưu ý {#Note}
 

@@ -19,7 +19,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Simbelmyne_Calendar_1998_(Polish).jpg.md"><img src="https://tolkiengateway.net/w/images/b/b7/Simbelmyne_Calendar_1998_%28Polish%29.jpg" decoding="async" loading="lazy" width="251" height="350" class="mw-file-element" data-file-width="251" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Lịch Simbelmyne 1998** có 13 hình minh họa đen trắng của [Karolina Stopa](../K/Karolina_Stopa.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Arkadiusz_Kubala&amp;action=edit&amp;redlink=1" title="Arkadiusz Kubala (page does not exist)">Arkadiusz Kubala</a>. Lịch Gregorian được so sánh với cách tính của [Imladris](../R/Reckoning_of_Rivendell.md), [Buckland](../B/Buckland.md), [Gondor](../G/Gondor.md) và [Người lùn](../D/Dwarves.md). Giai đoạn mặt trăng được hiển thị. Từ [Hiệp hội Tolkien Ba Lan](../P/Polish_Tolkien_Society.md).
+**Lịch Simbelmyne 1998** có 13 hình minh họa đen trắng của [Karolina Stopa](../K/Karolina_Stopa.md) và <a class="new" href="https://tolkiengateway.net/w/index.php?title=Arkadiusz_Kubala&amp;action=edit&amp;redlink=1" title="Arkadiusz Kubala (page does not exist)">Arkadiusz Kubala</a>. Lịch Gregory so sánh với các cách tính [Imladris](../R/Reckoning_of_Rivendell.md), [Buckland](../B/Buckland.md), [Gondor](../G/Gondor.md) và [Người Lùn](../D/Dwarves.md). Các giai đoạn Mặt Trăng được hiển thị. Từ [Hiệp hội Tolkien Ba Lan](../P/Polish_Tolkien_Society.md).
 
 - Kích thước: 8 3/8 x 11 5/8 inch
 - Vỏ nhựa trong; ghim lại

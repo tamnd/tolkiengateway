@@ -17,14 +17,14 @@ langlinks:
     url: "https://kontu.wiki/Elfling"
 ---
 
-**Elfling** là danh sách gửi thư dành riêng cho [ngôn ngữ](../L/Languages.md) được tạo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được thành lập vào [7 tháng 9](../_/7_September.md) [1998](../_/1998.md) bởi Dorothea Salo, được Brook Conner duy trì và được kiểm duyệt bởi [David Salo](../D/David_Salo.md).
+**Elfling** là danh sách gửi thư dành riêng cho [ngôn ngữ](../L/Languages.md) được tạo bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được thành lập vào ngày [7 tháng Chín](../_/7_September.md) [1998](../_/1998.md) bởi Dorothea Salo và được Brook Conner duy trì và kiểm duyệt bởi [David Salo](../D/David_Salo.md).
 
-Kể từ ngày 12 tháng 9 năm 2013, Elfling đã bị giải thể nhưng được chuyển thành một diễn đàn do [David Salo](../D/David_Salo.md) duy trì.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Kể từ ngày 12 tháng 9 năm 2013 Elfling đã bị giải thể nhưng chuyển thành một diễn đàn được duy trì bởi [David Salo](../D/David_Salo.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://elfling.midgardsmal.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức (Elfling.midgardsmal.com)</a> (trang web bị sập)
-- <a class="external text" href="https://tolkienlistsearch.herokuapp.com/browse/#elfling" rel="noreferrer noopener" target="_blank">Tìm kiếm danh sách Tolkien</a>: Kho lưu trữ danh sách gửi thư này và các danh sách gửi thư khác.
+- <a class="external text" href="https://tolkienlistsearch.herokuapp.com/browse/#elfling" rel="noreferrer noopener" target="_blank">Tolkien Tìm kiếm danh sách</a>: Một kho lưu trữ danh sách gửi thư này và các danh sách gửi thư khác.
 
 <span></span>
 

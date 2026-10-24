@@ -13,7 +13,7 @@ categories:
   - "The End of Bovadium"
 ---
 
-**Người miền Nam** là một nhóm người không rõ ràng, thường được [Người đổ bộ Bree](../M/Men_of_Bree.md) gọi như vậy. Những người này đi lên từ [Greenway](../G/Greenway.md) vào [Bree](../B/Bree.md) từ những vùng đất ở phía nam xung quanh [Dunland](../D/Dunland.md). Họ đã đến [Vùng đất Bree](../B/Bree-land.md) để tìm kiếm một nơi yên bình khỏi tình trạng bất ổn trong gia đình họ, mặc dù một số ít như [người miền nam mắt lác](Squint-eyed_southerner.md) thực tế là gián điệp của [Saruman](Saruman.md) và không đáng tin cậy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Người miền Nam** là một nhóm người không rõ ràng, thường được [Người đổ bộ Bree](../M/Men_of_Bree.md) gọi như vậy. Những người này đi lên từ [Greenway](../G/Greenway.md) vào [Bree](../B/Bree.md) từ vùng đất phía nam khoảng [Dunland](../D/Dunland.md). Họ đã đến [Vùng đất Bree](../B/Bree-land.md) để tìm kiếm một nơi yên bình khỏi tình trạng bất ổn trong nhà của họ, mặc dù một số ít như [người miền Nam mắt lác](Squint-eyed_southerner.md) thực tế là gián điệp của [Saruman](Saruman.md) và không đáng tin cậy.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các bài viết khác {#Other_writings}
 
@@ -26,7 +26,7 @@ Trong một [bài thơ liên quan](../D/Domine_defende_nos_contra_hos_Motores_bo
 ## Xem thêm {#See_also}
 
 - [Người miền Nam lác mắt](Squint-eyed_southerner.md)
-- [Bọn lưu manh](../R/Ruffians.md)
+- [Ruffians](../R/Ruffians.md)
 - [Cho vay nặng lãi](../D/Dunlendings.md)
 
 <span></span>

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elanor (Tolkien Society)"
 ---
 
-Chuyển hướng tới [Elanor (Hiệp hội Tolkien)](<Elanor_(Tolkien_Society).md>).
+Chuyển hướng tới [Elanor (Tolkien Society)](<Elanor_(Tolkien_Society).md>).

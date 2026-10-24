@@ -41,23 +41,23 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_Calendar_1994.jpg.md"><img src="https://tolkiengateway.net/w/images/b/bc/J.R.R._Tolkien_Calendar_1994.jpg" decoding="async" loading="lazy" width="190" height="216" class="mw-file-element" data-file-width="190" data-file-height="216"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>J.R.R. Tolkien Calendar 1994</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../M/Michael_Kaluta.md" title="Michael Kaluta">Michael Kaluta</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a> (UK)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/12_July.md" title="12 July">12 July</a> <a href="../_/1993.md" title="1993">1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Wire-bound calendar with mailer</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">14</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-261-10286-9" title="Special:BookSources/0-261-10286-9">0-261-10286-9</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Calendar_1993.md" title="The Tolkien Calendar 1993">The Tolkien Calendar 1993</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="J.R.R._Tolkien_Calendar_1995.md" title="J.R.R. Tolkien Calendar 1995">J.R.R. Tolkien Calendar 1995</a></td></tr></tbody></table>
 
-<i><b>J.R.R. Tolkien Lịch 1994</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [12 tháng 7](../_/12_July.md) [1993](../_/1993.md). Nó có tác phẩm nghệ thuật của [Michael Kaluta](../M/Michael_Kaluta.md) dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
+Lịch <i><b>J.R.R. Tolkien 1994</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [12 tháng 7](../_/12_July.md) [1993](../_/1993.md). Nó có tác phẩm nghệ thuật của [Michael Kaluta](../M/Michael_Kaluta.md) dựa trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*.
 
 ## Minh họa {#Illustrations}
 
-- Bìa - "[Arwen và vua Elessar](../../file/M/Michael_Kaluta_-_Arwen_and_King_Elessar.jpg.md)"
-- Tháng 1 - "[Gandalf the Grey đến Hobbiton](../../file/M/Michael_Kaluta_-_Gandalf_Arrives_in_Hobbiton.jpg.md)"
-- Tháng 2 - "[Elrond triệu hồi các vật chủ của Gil-Galad](../../file/M/Michael_Kaluta_-_Elrond_Recalls_the_Host_of_Gilgalad.jpg.md)"
-- Tháng 3 - "[Legolas rút cung của Galadriel](../../file/M/Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg.md)"
+- Bìa - "[Arwen và Vua Elessar](../../file/M/Michael_Kaluta_-_Arwen_and_King_Elessar.jpg.md)"
+- Tháng 1 - "[Gandalf the Grey Đến vào Hobbiton](../../file/M/Michael_Kaluta_-_Gandalf_Arrives_in_Hobbiton.jpg.md)"
+- Tháng 2 - "[Elrond Tưởng nhớ các Thánh thể của Gil-Galad](../../file/M/Michael_Kaluta_-_Elrond_Recalls_the_Host_of_Gilgalad.jpg.md)"
+- Tháng 3 - "[Legolas Rút cung Galadriel](../../file/M/Michael_Kaluta_-_Legolas_Draws_the_Bow_of_Galadriel.jpg.md)"
 - Tháng 4 - "[Cuộc tranh luận](../../file/M/Michael_Kaluta_-_The_Entmoot.jpg.md)"
 - Tháng 5 - "[Éowyn Trước Cánh Cửa Meduseld](../../file/M/Michael_Kaluta_-_Eowyn_Before_the_Gates_of_Meduseld.jpg.md)"
-- Tháng 6 - "[Sét đánh đầu tiên ở Helm's Deep](../../file/M/Michael_Kaluta_-_The_First_Stroke_of_Lightning_at_Helm's_Deep.jpg.md)"
-- Tháng 7 - "[Cổng Đen đã đóng](../../file/M/Michael_Kaluta_-_The_Black_Gate_is_Closed.jpg.md)"
-- Tháng 8 - "[Vua đăng quang](../../file/M/Michael_Kaluta_-_The_King_Recrowned.jpg.md)"
-- Tháng 9 - "[Théoden Theo Dõi Cờ Rắn](../../file/M/Michael_Kaluta_-_Theoden_Espies_the_Serpent_Banner.jpg.md)"
-- Tháng 10 - "[Éowyn và Vua phù thủy xứ Angmar](../../file/M/Michael_Kaluta_-_Eowyn_and_the_Witch-King_of_Angmar.jpg.md)"
+- Tháng 6 - "[Sét đánh đầu tiên vào lúc Helm's Deep](../../file/M/Michael_Kaluta_-_The_First_Stroke_of_Lightning_at_Helm's_Deep.jpg.md)"
+- Tháng 7 - "[ Cổng Đen đã đóng cửa](../../file/M/Michael_Kaluta_-_The_Black_Gate_is_Closed.jpg.md)"
+- Tháng 8 - "[ Vua được đăng quang](../../file/M/Michael_Kaluta_-_The_King_Recrowned.jpg.md)"
+- tháng Chín - "[Théoden Do thám Cờ Rắn](../../file/M/Michael_Kaluta_-_Theoden_Espies_the_Serpent_Banner.jpg.md)"
+- Tháng 10 - "[Éowyn và Phù thủy-Vua của Angmar](../../file/M/Michael_Kaluta_-_Eowyn_and_the_Witch-King_of_Angmar.jpg.md)"
 - Tháng 11 - "[Arwen và Vua Elessar](../../file/M/Michael_Kaluta_-_Arwen_and_King_Elessar.jpg.md)"
-- Tháng 12 - "[Meriadoc Người vĩ đại và những đứa con của Samwise Hamfast](../../file/M/Michael_Kaluta_-_Meriadoc_the_Magnificent_and_the_Children_of_Samwise_Hamfast.jpg.md)"
+- Tháng 12 - "[Meriadoc Người vĩ đại và những đứa trẻ của Samwise Hamfast](../../file/M/Michael_Kaluta_-_Meriadoc_the_Magnificent_and_the_Children_of_Samwise_Hamfast.jpg.md)"
 
 ## Biến thể {#Variants}
 
@@ -85,7 +85,7 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94260" rel="noreferrer noopener" target="_blank">J.R.R. Tolkien Lịch 1994</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/1993_1995.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 1993 - 1995</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://tolkiencalendars.com/1993_1995.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 1993 - 1995</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

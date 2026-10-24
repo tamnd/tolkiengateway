@@ -24,7 +24,7 @@ images:
   - "Disambig.png"
 ---
 
-**Ardamir** ([Quenya](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈardamir]</span>) có nghĩa là "[Arda](Arda.md)-jewel" và có thể ám chỉ:
+**Ardamir** ([Quenya](../Q/Quenya.md), phát âm <span title="Pronunciation in IPA" class="IPA">[ˈardamir]</span>) có nghĩa là "[Arda](Arda.md)-jewel" và có thể tham khảo:
 
 - [Ardamírë](Ardamírë.md), [tên mẹ](Amilessë.md) của [Eärendil](../E/Eärendil.md).
 - [Ardamir](<Ardamir_(son_of_Axantur).md>) (sinh [S.A.](../S/Second_Age.md) [562](../S/Second_Age_562.md)), con trai của [Axantur](Axantur.md) và là thành viên của hoàng gia [Númenórean](../N/Númenóreans.md).

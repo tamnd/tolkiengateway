@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nimrodel"
 ---
 
-Chuyển hướng tới [Nimrodel](Nimrodel.md).
+Chuyển hướng đến [Nimrodel](Nimrodel.md).

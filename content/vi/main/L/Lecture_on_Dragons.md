@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Dragons (lecture)"
 ---
 
-Chuyển hướng đến [Rồng (bài giảng)](<../D/Dragons_(lecture).md>).
+Chuyển hướng tới [Rồng (bài giảng)](<../D/Dragons_(lecture).md>).

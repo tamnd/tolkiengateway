@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>Arda Philology 2</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="Anders_Stenström.md" title="Anders Stenström">Anders Stenström</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">The Arda Society</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1_August.md" title="1 August">1 August</a> <a href="../_/2009.md" title="2009">2009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">113</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-91-973500-2-0" title="Special:BookSources/978-91-973500-2-0">978-91-973500-2-0</a></td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">1654-5737</td></tr></tbody></table>
 
-<i><b>Arda Philology 2</b></i> là tập thứ hai của tạp chí *[Arda Philology](<Arda_(annual).md>)*và chứa kỷ yếu của Hội nghị quốc tế lần thứ hai về các ngôn ngữ được phát minh của Tolkien, <i><a class="external text" href="https://www.omentielva.com/otatya.htm" rel="noreferrer noopener" target="_blank">Omentielva Tatya</a> (<a href="../O/Omentielva.md" title="Omentielva">Omentielva</a>)</i>, được tổ chức tại Antwerp vào tháng 8 [2007](../_/2007.md).
+<i><b>Arda Ngữ văn 2</b></i> là tập thứ hai của tạp chí *[Arda Philology](<Arda_(annual).md>)*, bao gồm kỷ yếu của Hội nghị quốc tế lần thứ hai về các ngôn ngữ được phát minh của Tolkien, <i><a class="external text" href="https://www.omentielva.com/otatya.htm" rel="noreferrer noopener" target="_blank">Omentielva Tatya</a> (<a href="../O/Omentielva.md" title="Omentielva">Omentielva</a>)</i>, được tổ chức tại Antwerp vào tháng 8 [2007](../_/2007.md).
 
 <center><a href="Arda_Philology_1.md" title="Arda Philology 1">Previous Issue</a> || <a href="Arda_Philology_3.md" title="Arda Philology 3">Next Issue</a></center>
 
@@ -41,10 +41,10 @@ infobox:
 - Định vị chỉ mục
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Benct_Philip_Jonsson&amp;action=edit&amp;redlink=1" title="Benct Philip Jonsson (page does not exist)">Benct Philip Jonsson</a>: "Tái thiết và 'Xây dựng cổ điển' bằng các ngôn ngữ [Eldarin](../E/Eldarin.md) của Tolkien"
 - [Helge Fauskanger](../H/Helge_Fauskanger.md): "Tân thực tế-[Quenya](../Q/Quenya.md)"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Karolina_Agata_Kazimierczak&amp;action=edit&amp;redlink=1" title="Karolina Agata Kazimierczak (page does not exist)">Karolina Agata Kazimierczak</a>: "Mở ra Bản giao hưởng ngôn ngữ của Tolkien"
-- [Måns Björkman](../M/Måns_Björkman.md): "Phương thức [Feanorian](../F/Fëanorian_dialect.md) của 'Từ nguyên'"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Karolina_Agata_Kazimierczak&amp;action=edit&amp;redlink=1" title="Karolina Agata Kazimierczak (page does not exist)">Karolina Agata Kazimierczak</a>: "Khai mở Bản giao hưởng ngôn ngữ của Tolkien"
+- [Måns Björkman](../M/Måns_Björkman.md): "Chế độ [Feanorian](../F/Fëanorian_dialect.md) của 'The Etymologies'"
 - [Anders Stenström](Anders_Stenström.md): "Sở thích ngữ âm"
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.omentielva.com/ardaph2.htm" rel="noreferrer noopener" target="_blank">Arda Ngữ văn Tập 2</a>
+- <a class="external text" href="https://www.omentielva.com/ardaph2.htm" rel="noreferrer noopener" target="_blank">Arda Ngữ Văn Tập 2</a>

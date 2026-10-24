@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 26 tháng 7
 ## Trên Trái đất {#On_Earth}
 
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 191](../L/Letter_191.md).
-- **[1973](1973.md)** - <a class="extiw" href="http://en.wikipedia.org/wiki/John_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:John Giffard, 3rd Earl of Halsbury">Lãnh chúa Halsbury</a> đến thăm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+- **[1973](1973.md)** - <a class="extiw" href="http://en.wikipedia.org/wiki/John_Giffard,_3rd_Earl_of_Halsbury" title="wikipedia:John Giffard, 3rd Earl of Halsbury">Lãnh chúa Halsbury</a> thăm [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 - **[1980](1980.md)** - [Mythcon 11](../M/Mythcon_11.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Nevada,_Reno" title="wikipedia:University of Nevada, Reno">Đại học Nevada</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Reno,_Nevada" title="wikipedia:Reno, Nevada">Reno</a>.
 - **[1981](1981.md)** - Tập thứ 21 của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[1985](1985.md)** - [Mythcon 16](../M/Mythcon_16.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton,_Illinois" title="wikipedia:Wheaton, Illinois">Wheaton</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Illinois" title="wikipedia:Illinois">Illinois</a>.
@@ -73,14 +73,14 @@ Sự kiện xảy ra vào ngày 26 tháng 7
 - **[1996](1996.md)** - [Mythcon 27](../M/Mythcon_27.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Colorado_at_Boulder" title="wikipedia:University of Colorado at Boulder">Đại học Colorado</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Boulder,_Colorado" title="wikipedia:Boulder, Colorado">Boulder, Colorado</a>.
 - **[2002](2002.md)** - [Mythcon 33](../M/Mythcon_33.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/Boulder,_Colorado" title="wikipedia:Boulder, Colorado">Boulder</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Colorado" title="wikipedia:Colorado">Colorado</a>.
 - **[2003](2003.md)** - [Mythcon 34](../M/Mythcon_34.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Nashville,_Tennessee" title="wikipedia:Nashville, Tennessee">Nashville</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Tennessee" title="wikipedia:Tennessee">Tennessee</a>.
-- **[2009](2009.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2009 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2009](2009.md)** - [Tolkien Điều](../T/Tolkien_Thing.md) 2009 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Rieneck" title="wikipedia:Rieneck">Rieneck</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2012](2012.md)** - *[The Saga of Hrolf Kraki](../T/The_Saga_of_Hrolf_Kraki.md)*, được dịch bởi [Stella M. Mills](../S/Stella_M._Mills.md), được xuất bản trong ấn bản mới, với Lời nói đầu của [Priscilla Tolkien](../P/Priscilla_Tolkien.md).
-- **[2014](2014.md)** - [Laocoon](../L/Laocoon.md), một trong những cây yêu thích của Tolkien, bị mất hai chi. Sau đó, Vườn Bách thảo Oxford quyết định chặt cây vì lý do an toàn.
+- **[2014](2014.md)** - [Laocoon](../L/Laocoon.md), một trong những cây Tolkien yêu thích, bị cụt hai chi. Sau đó, Vườn Bách Thảo Oxford quyết định phải chặt cây vì lý do an toàn.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn tang vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)
+    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md)

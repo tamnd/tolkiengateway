@@ -52,19 +52,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Arnor.md" title="Arnor">Arnorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Arahael</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="../C/Chieftain_of_the_Dúnedain.md" title="Chieftain of the Dúnedain">Chieftain of the Dúnedain</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../R/Rivendell.md" title="Rivendell">Rivendell</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>, <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2012.md" title="Third Age 2012">2012</a></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2106.md" title="Third Age 2106">2106</a> - <a href="../T/Third_Age_2177.md" title="Third Age 2177">2177</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2177.md" title="Third Age 2177">2177</a> (aged 165)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Isildur.md" title="House of Isildur">House of Isildur</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="Aranarth.md" title="Aranarth">Aranarth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Siblings</th><td class="tg-infobox-data">At least one sibling <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Aranuir.md" title="Aranuir">Aranuir</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Arahael** ([T.A.](../T/Third_Age.md) [2012](../T/Third_Age_2012.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> - [2177](../T/Third_Age_2177.md),<sup id="cite_ref-North_3-0" class="reference"><a href="#cite_note-North-3">[2]</a></sup> qua đời ở tuổi 165) là [Thủ lĩnh của Dúnedain](../C/Chieftain_of_the_Dúnedain.md) thứ hai, kế vị cha mình, [Aranarth](Aranarth.md), khi ông qua đời vào năm 2106.
+**Arahael** ([T.A.](../T/Third_Age.md) [2012](../T/Third_Age_2012.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup> - [2177](../T/Third_Age_2177.md),<sup id="cite_ref-North_3-0" class="reference"><a href="#cite_note-North-3">[2]</a></sup> qua đời ở tuổi 165) là [Thủ lĩnh thứ hai của Dúnedain](../C/Chieftain_of_the_Dúnedain.md), kế vị cha mình, [Aranarth](Aranarth.md), khi ông mất năm 2106.
 
 ## Lịch sử {#History}
 
-Arahael được [Elrond](../E/Elrond.md) nuôi dưỡng ở [Rivendell](../R/Rivendell.md) (cũng như tất cả con cháu của ông) trong khi cha ông bảo vệ [Eriador](../E/Eriador.md) khỏi những tệ nạn của thế giới hoang dã với sự giúp đỡ của các [Rangers](../R/Rangers_of_the_North.md) khác.
+Arahael được nuôi dưỡng bởi [Elrond](../E/Elrond.md) ở [Rivendell](../R/Rivendell.md) (cũng như tất cả con cháu của ông) trong khi cha ông bảo vệ [Eriador](../E/Eriador.md) khỏi những tệ nạn của thế giới hoang dã với sự giúp đỡ của các [Ranger](../R/Rangers_of_the_North.md) khác.
 
-Triều đại của Arahael không mấy yên bình (theo như chúng tôi biết), do tính chất bí mật (và do đó hiện nay ít được biết đến) của [Dúnedain](../D/Dúnedain.md), và [Hòa bình Cảnh giác](../W/Watchful_Peace.md) tồn tại vào thời điểm đó. Có khả năng là Biệt động quân đã đánh những trận chiến nhỏ và giao tranh với [lũ Orc](../O/Orcs.md) để giữ an toàn cho khu vực.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+Triều đại của Arahael không có biến cố (theo như chúng tôi biết), do tính chất bí mật (và do đó hiện nay ít được biết đến) của [Dúnedain](../D/Dúnedain.md) và [Hòa bình thận trọng](../W/Watchful_Peace.md) có vào thời điểm đó. Có khả năng là Biệt động quân đã đánh những trận chiến nhỏ và giao tranh với [lũ Orc](../O/Orcs.md) để giữ an toàn cho khu vực.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
-Arahael mất năm 2177, giữ chức Thủ lĩnh được 65 năm, kế vị là con trai ông, [Aranuir](Aranuir.md).<sup id="cite_ref-North_3-1" class="reference"><a href="#cite_note-North-3">[2]</a></sup>
+Arahael mất năm 2177, thọ Thủ lĩnh được 65 năm, theo sau là con trai ông, [Aranuir](Aranuir.md).<sup id="cite_ref-North_3-1" class="reference"><a href="#cite_note-North-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Arahael* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Hiệp hội Tolkiendil gợi ý nó có nghĩa là "Vị vua thông thái".<sup id="cite_ref-Tolkiendil_5-0" class="reference"><a href="#cite_note-Tolkiendil-5">[4]</a></sup> Nó có thể là sự kết hợp của tiền tố *[ar(a)-](Ar.md)* ("cao quý", "hoàng gia", "cao"), rút ​​gọn ngữ âm của *[aran](Aran.md)* ("vua") và [được cho phép](../L/Lenition.md) từ *hael* của *sael* ("khôn ngoan").<sup id="cite_ref-Tolkiendil_5-1" class="reference"><a href="#cite_note-Tolkiendil-5">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+*Arahael* là tên [Sindarin](../S/Sindarin.md). Ý nghĩa của nó không được giải thích rõ ràng, nhưng Hiệp hội Tolkiendil gợi ý nó có nghĩa là "Khôn ngoan Vua".<sup id="cite_ref-Tolkiendil_5-0" class="reference"><a href="#cite_note-Tolkiendil-5">[4]</a></sup> Nó có thể là sự kết hợp của tiền tố *[ar(a)-](Ar.md)* ("cao quý", "hoàng gia", "cao"), rút ​​gọn ngữ âm của *[aran](Aran.md)* ("vua") và [được cho phép](../L/Lenition.md) từ *hael* của *sael* ("khôn ngoan").<sup id="cite_ref-Tolkiendil_5-1" class="reference"><a href="#cite_note-Tolkiendil-5">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -88,12 +88,12 @@ Arahael mất năm 2177, giữ chức Thủ lĩnh được 65 năm, kế vị l�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong một bản viết tay đầu tiên, tên Arahael là "Arahantil".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Trong một bản thảo đầu tiên Arahael tên là "Arahantil".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Trong <a href="Appendix_A.md" title="Appendix A">Phụ lục A</a>, Dírhael được cho là hậu duệ của một nhánh trẻ hơn của Aranarth, nghĩa là Araheal có ít nhất một anh chị em</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Trong <a href="Appendix_A.md" title="Appendix A">Appendix A</a>, Dírhael được cho là hậu duệ của một nhánh trẻ hơn của Aranarth, nghĩa là Araheal có ít nhất một anh chị em</span>
 </li>
 </ol></div></span>
 

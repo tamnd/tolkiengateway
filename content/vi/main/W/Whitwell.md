@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Settlement</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Whitwell</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../T/The_Shire.md" title="The Shire">The Shire</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Settlement</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../H/Hobbits.md" title="Hobbits">Hobbits</a></td></tr></tbody></table>
 
-**Whitwell** là một khu định cư ở [Quận](../T/The_Shire.md).
+**Whitwell** là một khu định cư ở [the Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
@@ -44,7 +44,7 @@ Whitwell nằm trên [Green Hills](../G/Green_Hill_Country.md), không xa [Tuckb
 
 *Whit* là cách viết tắt của "<a class="extiw" href="http://en.wikipedia.org/wiki/white" title="wikipedia:white">trắng</a>", ám chỉ màu của đất (có lẽ liên quan đến <a class="extiw" href="http://en.wikipedia.org/wiki/chalk" title="wikipedia:chalk">phấn</a> trong đất của Đồi Xanh).<sup id="cite_ref-Nomen_3-0" class="reference"><a href="#cite_note-Nomen-3">[2]</a></sup>
 
-[David Salo](../D/David_Salo.md) gợi ý rằng cái tên này có nghĩa là "suối trắng", đại diện cho [Người Hobbit cổ](../O/Old_English.md) *Hwitwielle*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
+[David Salo](../D/David_Salo.md) gợi ý rằng cái tên này có nghĩa là "mùa xuân trắng", đại diện cho một [ Hobbitish](../O/Old_English.md) *Hwitwielle* cũ.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
@@ -53,7 +53,7 @@ Whitwell nằm trên [Green Hills](../G/Green_Hill_Country.md), không xa [Tuckb
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Trong <i><a href="../T/The_Atlas_of_Middle-earth.md" title="The Atlas of Middle-earth">The Atlas of Middle-earth</a></i> tên của thị trấn này được gắn với một ngôi làng không tên ở phía tây <a href="../T/Tookbank.md" title="Tookbank">Tookbank</a> và phía nam <a href="Waymeet.md" title="Waymeet">Waymeet</a>.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Tại <i><a href="../T/The_Atlas_of_Middle-earth.md" title="The Atlas of Middle-earth">The Atlas of Middle-earth</a></i> tên của thị trấn này được gắn với một ngôi làng không tên ở phía tây <a href="../T/Tookbank.md" title="Tookbank">Tookbank</a> và phía nam <a href="Waymeet.md" title="Waymeet">Waymeet</a>.</span>
 </li>
 </ol></div></span>
 

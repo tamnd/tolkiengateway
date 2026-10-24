@@ -29,7 +29,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><th colspan="2" class="tg-infobox-title"><span>John Tui</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/11_June.md" title="11 June">11 June</a> <a href="../_/1975.md" title="1975">1975</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../B/Bolg.md" title="Bolg">Bolg</a> in:<br/><i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm1732270/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**John Tui** (sinh năm 1975) là một diễn viên người New Zealand gốc Tonga, người đóng vai [Bolg](../B/Bolg.md) trong *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.
+**John Tui** (sinh năm 1975) là một diễn viên New Zealand gốc Tonga, từng đóng vai [Bolg](../B/Bolg.md) trong *[The Hobbit: The Battle of the Five Armies](../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md)*.
 
 ## Liên kết ngoài {#External_links}
 

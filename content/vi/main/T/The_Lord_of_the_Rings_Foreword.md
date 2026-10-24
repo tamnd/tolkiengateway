@@ -28,31 +28,31 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Foreword</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../F/Foreword_(disambiguation).md" title="Foreword (disambiguation)">Foreword (disambiguation)</a></b>.</div></div>
 
-**Lời nói đầu** là phần đầu tiên xuất hiện trong <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></b></i>.
+**Lời nói đầu** là phần đầu tiên xuất hiện trong <i><b><a href="The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></b></i>.
 
-Lời nói đầu nổi tiếng là giới thiệu những tiết lộ nhỏ liên quan đến các sự kiện sau này trong câu chuyện, như thể chúng là những sự thật nổi tiếng. Ví dụ: phiên bản đầu tiên của Forword đã đề cập đến hậu duệ của Master [Samwise Gamgee](../S/Samwise_Gamgee.md), do đó trấn an rằng ông ta sẽ sống sót sau cuộc phiêu lưu. Các tài liệu tham khảo khác bao gồm việc [One Ring](../O/One_Ring.md) sẽ không được sử dụng và gợi ý về sự phản bội của [Saruman](../S/Saruman.md).
+Lời nói đầu nổi tiếng là giới thiệu những tiết lộ nhỏ liên quan đến các sự kiện sau này trong câu chuyện, như thể chúng là những sự thật nổi tiếng. Ví dụ, Forword phiên bản đầu tiên đã đề cập đến hậu duệ của Master [Samwise Gamgee](../S/Samwise_Gamgee.md), do đó trấn an rằng ông ta sẽ sống sót sau cuộc phiêu lưu. Các tài liệu tham khảo khác bao gồm việc [Một chiếc nhẫn](../O/One_Ring.md) sẽ không được sử dụng và gợi ý về sự phản bội của [Saruman](../S/Saruman.md).
 
 ## Ấn bản đầu tiên {#First_edition}
 
 Trong Lời tựa cho ấn bản đầu tiên của *The Lord of the Rings*,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> Tolkien tự nhận mình chỉ là người dịch và biên tập văn bản sắp tới, do đó chia sẻ đặc điểm [trong vũ trụ](../L/Legendarium.md) của [1951](../_/1951.md) [ghi chú mở đầu](The_Hobbit_Preface.md) cho ấn bản thứ hai của *[The Hobbit](The_Hobbit.md)*.
 
-Tolkien không thích văn bản của chính mình, lưu ý rằng nó kết hợp các vấn đề đời thực trong cuộc sống của ông (bao gồm cả việc đề cập đến [Inklings](../I/Inklings.md) và [các con của ông](Tolkien_family~43191.md)) với [bộ máy trong vũ trụ](../S/Secondary_world.md) của Câu chuyện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Tolkien không thích văn bản của chính ông, lưu ý rằng nó kết hợp các vấn đề đời thực trong cuộc sống của ông (bao gồm cả việc đề cập đến [Inklings](../I/Inklings.md) và [những đứa con của ông](Tolkien_family~43191.md)) với [bộ máy" trong vũ trụ](../S/Secondary_world.md) của Câu chuyện.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 Văn bản gốc đầy đủ của Lời nói đầu này có thể được tìm thấy trong *[The Lord of the Rings: A Reader's Companion](The_Lord_of_the_Rings%253A_A_Reader's_Companion.md)*, trong phần "Lời nói đầu cho lần xuất bản thứ hai".
 
 ## Ấn bản thứ hai trở đi {#Second_and_later_editions}
 
-Trong [1965](../_/1965.md) [Ballantine Books](../B/Ballantine_Books.md) cần một văn bản mới để gia hạn bản quyền ở Hoa Kỳ và thách thức những tranh cãi do [Ace Books](../A/Ace_Books.md) nêu ra. Đối với ấn bản đó, Tolkien đã viết Lời tựa mới.<sup id="cite_ref-rc_3-0" class="reference"><a href="#cite_note-rc-3">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxx</sup>
+Trong [1965](../_/1965.md) [Ballantine Books](../B/Ballantine_Books.md) cần một văn bản mới để gia hạn bản quyền ở Hoa Kỳ và thách thức những tranh cãi do [Ace Books](../A/Ace_Books.md) nêu ra. Đối với ấn bản đó Tolkien đã viết Lời nói đầu mới.<sup id="cite_ref-rc_3-0" class="reference"><a href="#cite_note-rc-3">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxx</sup>
 
-Lời nói đầu được viết riêng cho Ballantine kết thúc bằng một đoạn trong đó Tolkien cảm ơn sự lịch sự của độc giả Mỹ và đề cập đến luật bản quyền và ấn bản trái phép (mà ông so sánh nó với điều mà Saruman sẽ làm) và cầu xin họ chỉ thích ấn bản được ông cho phép, dành tặng cuốn sách cho tất cả những ai sẽ thích câu chuyện. Đoạn này không có trong các ấn bản châu Âu.<sup id="cite_ref-rc_3-1" class="reference"><a href="#cite_note-rc-3">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxx</sup>
+Lời nói đầu được viết riêng cho Ballantine kết thúc bằng một đoạn trong đó Tolkien cảm ơn độc giả Mỹ vì sự lịch sự của họ, đồng thời đề cập đến luật bản quyền và ấn bản trái phép (mà ông so sánh nó với điều gì đó mà Saruman sẽ làm) và cầu xin họ chỉ thích ấn bản được ông cho phép, dành tặng cuốn sách cho tất cả những ai sẽ thích câu chuyện. Đoạn này không có trong các ấn bản châu Âu.<sup id="cite_ref-rc_3-1" class="reference"><a href="#cite_note-rc-3">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxx</sup>
 
-Đối với đoạn trước (nơi Tolkien đề cập rằng đã có những thay đổi, chỉnh sửa và bổ sung trong ấn bản đó, như ghi chú và mục lục nhỏ) đôi khi bị lược bỏ hoặc thay thế bằng một văn bản mới mô tả những thay đổi (như thiếu [Phụ lục](../A/Appendices.md)).<sup id="cite_ref-rc_3-2" class="reference"><a href="#cite_note-rc-3">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxix</sup>
+Đối với đoạn trước (trong đó Tolkien đề cập rằng đã có những thay đổi, chỉnh sửa và bổ sung trong lần xuất bản đó, như ghi chú và mục lục nhỏ) đôi khi bị lược bỏ hoặc thay thế bằng một văn bản mới mô tả những thay đổi (chẳng hạn như không có [Phụ lục](../A/Appendices.md)).<sup id="cite_ref-rc_3-2" class="reference"><a href="#cite_note-rc-3">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxix</sup>
 
-Văn bản gốc viết rằng tác phẩm của ông "đã được nhiều người đọc kể từ khi nó xuất hiện trên bản in cách đây mười năm", một con số đã được cập nhật trong những lần in tiếp theo. Số này đã bị lược bỏ trong [1976](../_/1976.md) theo gợi ý của Christopher Tolkien.<sup id="cite_ref-rc_3-3" class="reference"><a href="#cite_note-rc-3">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxiiv</sup>
+Văn bản gốc viết rằng tác phẩm của ông "đã được nhiều người đọc kể từ khi nó xuất hiện trên bản in cách đây mười năm", một con số đã được cập nhật trong những lần in tiếp theo. Số đã bị bỏ qua trong [1976](../_/1976.md) theo đề xuất của Christopher Tolkien.<sup id="cite_ref-rc_3-3" class="reference"><a href="#cite_note-rc-3">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:p. lxxiiv</sup>
 
 ### Sai lầm {#Mistakes}
 
-Nhớ lại việc viết cuốn sách 25 năm trước, các tham chiếu về ngày tháng và tiến trình viết là không chính xác (có thể là ký ức sai), mâu thuẫn với những bức thư chi tiết hơn mà Tolkien đã viết khi sáng tác câu chuyện.
+Nhớ lại việc viết cuốn sách 25 năm trước, các tham chiếu về ngày tháng và tiến trình viết là không chính xác (có thể là ký ức sai), mâu thuẫn với những bức thư chi tiết hơn mà Tolkien đã viết khi sáng tác truyện.
 
 Ví dụ: Tolkien tuyên bố rằng ông bắt đầu viết *The Lord of the Rings* ngay sau khi hoàn thành *The Hobbit*; và khi *[The Silmarillion](The_Silmarillion.md)* bị từ chối, ông đã "quay lại phần tiếp theo". Trên thực tế, đúng vào thời điểm đó, tháng 12 [1937](../_/1937.md), khi ông *started* viết cuốn sách.<sup id="cite_ref-rc_3-4" class="reference"><a href="#cite_note-rc-3">[2]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:pp. lxxi-lxxii</sup>
 
@@ -65,7 +65,7 @@ Một ví dụ khác là sự gián đoạn trong [1940](../_/1940.md), sau khi 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Được in lại "phần lớn" trong <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> (trang 25-6), và toàn bộ trong <i><a href="The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">Chúa tể của những chiếc nhẫn: Của một độc giả Đồng hành</a></i> (trang lxviii-lxx).</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Được in lại "phần lớn" trong <i><a href="The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> (trang 25-6) và toàn bộ trong <i><a href="The_Lord_of_the_Rings%253A_A_Reader&#39;s_Companion.md" title="The Lord of the Rings: A Reader&#39;s Companion">The Lord of the Rings: Người bạn đồng hành của độc giả</a></i> (trang lxviii-lxx).</span>
 </li>
 </ol></div></span>
 

@@ -14,19 +14,19 @@ sort_keys:
   "Sindarin nouns": "Dru"
 ---
 
-**Drû** (pl. **Drúin**, coll. **Drúath**) là [Sindarin](../S/Sindarin.md) tên dành cho những người bí ẩn của [Đàn ông](../M/Men.md) được biết đến với cái tên [Woses](../W/Woses.md) ở [Thời đại thứ ba](../T/Third_Age.md).
+**Drû** (pl. **Drúin**, coll. **Drúath**) là [Sindarin](../S/Sindarin.md) tên của những người bí ẩn [Con Người](../M/Men.md), những người được biết đến với cái tên [Woses](../W/Woses.md) trong [Kỷ Đệ Tam](../T/Third_Age.md).
 
 ## Cách sử dụng số nhiều {#Usage_of_plural}
 
 - *Drúin* là số nhiều đơn giản của từ này.
-- Tập thể *Drúath* đã được sửa đổi ngay từ [Kỷ nguyên đầu tiên](../F/First_Age.md) khi người ta biết rằng họ là kẻ thù của loài Orc. Sau này dùng để chỉ một số lượng lớn Drúedain.
+- Tập thể *Drúath* đã được sửa đổi ngay từ [Kỷ Đệ Nhất](../F/First_Age.md) khi người ta biết rằng họ là kẻ thù của loài Orc. Sau này dùng để chỉ số lượng lớn các Drúedain.
 - *[Drúedain](Drúedain.md)* đề cập đến toàn bộ cuộc đua.
 
 ## Từ nguyên {#Etymology}
 
-Từ Sindarin này xuất phát từ *[Drughu](Drughu.md)* tên riêng của [Drúedain](Drúedain.md).
+Từ Sindarin này xuất phát từ tên riêng của *[Drughu](Drughu.md)* [Drúedain](Drúedain.md).
 
-Vì các ngôn ngữ [Elvish](../E/Elvish.md) không có *gh* nên nó có nguồn gốc là *drughu > dru'u > druu > drû*
+Vì [Elvish](../E/Elvish.md) ngôn ngữ không có *gh* nên nó có nguồn gốc là *drughu > dru'u > druu > drû*
 
 ## Ví dụ {#Examples}
 
@@ -36,4 +36,4 @@ Vì các ngôn ngữ [Elvish](../E/Elvish.md) không có *gh* nên nó có ngu�
 ## Có cùng nguồn gốc {#Cognates}
 
 - [Quenya](../Q/Quenya.md) *[Rú](../R/Rú.md)*
-- [Tiếng Rohan](../R/Rohanese.md) *[Róg](../R/Róg.md)*
+- [Rohanese](../R/Rohanese.md) *[Róg](../R/Róg.md)*

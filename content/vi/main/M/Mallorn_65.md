@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn65.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/8/83/Mallorn65.jpg/320px-Mallorn65.jpg" decoding="async" loading="lazy" width="320" height="444" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/8/83/Mallorn65.jpg/480px-Mallorn65.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/8/83/Mallorn65.jpg/640px-Mallorn65.jpg 2x" data-file-width="2552" data-file-height="3541"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 65</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Luke Shelton</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter 2024</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_64.md" title="Mallorn 64">Mallorn 64</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 65</b> là số thứ 65 của tạp chí thường niên [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2024](../_/2024.md).
+<b><i>Mallorn</i> 65</b> là số thứ sáu mươi lăm của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2024](../_/2024.md).
 
 ## Nội dung {#Contents}
 
@@ -40,10 +40,10 @@ infobox:
     - "Nỗi kinh hoàng của những điều không được kể trong *The Lord of the Rings*: Những hàm ý cho độc giả của Tolkien" của Yvette Kisor
     - "Adam bất bại: Giải mã bí ẩn [Bombadil](../B/Bombadil.md)" của Stephen Joy
     - "'Và họ đã qua đời từ lâu' – Tưởng tượng từ bỏ sự bất tử và tình yêu ở thế giới bên kia" của Giovanni Carmine Costible
-    - "On Nothing: Tolkien, [Ungoliant](../U/Ungoliant.md), và Tư tưởng Anselmian" của Perry Neil Harrison
+    - "Không có gì: Tolkien, [Ungoliant](../U/Ungoliant.md) và Tư tưởng Anselmian" của Perry Neil Harrison
 - **Đánh giá**
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mapping_Middle-earth:_Environmental_and_Political_Narratives_in_J.R.R._Tolkien%27s_Cartographies&amp;action=edit&amp;redlink=1" title="Mapping Middle-earth: Environmental and Political Narratives in J.R.R. Tolkien&#39;s Cartographies (page does not exist)">Lập bản đồ Trung địa: Những câu chuyện về môi trường và chính trị trong bản đồ của J.R.R. Tolkien</a></i> của Anahit Behrooz (được đánh giá bởi Erik Mueller-Harder)
-    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pity,_Power,_and_Tolkien%27s_Ring&amp;action=edit&amp;redlink=1" title="Pity, Power, and Tolkien&#39;s Ring (page does not exist)">Sự thương hại, sức mạnh và chiếc nhẫn của Tolkien</a></i> của Thomas P. Hillman (được đánh giá bởi Mercury Natis)
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mapping_Middle-earth:_Environmental_and_Political_Narratives_in_J.R.R._Tolkien%27s_Cartographies&amp;action=edit&amp;redlink=1" title="Mapping Middle-earth: Environmental and Political Narratives in J.R.R. Tolkien&#39;s Cartographies (page does not exist)">Lập bản đồ Trung Địa: Những câu chuyện về môi trường và chính trị trong Bản đồ của J.R.R. Tolkien</a></i> của Anahit Behrooz (được Erik Mueller-Harder đánh giá)
+    - <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pity,_Power,_and_Tolkien%27s_Ring&amp;action=edit&amp;redlink=1" title="Pity, Power, and Tolkien&#39;s Ring (page does not exist)">Sự thương hại, sức mạnh và chiếc nhẫn Tolkien</a></i> của Thomas P. Hillman (được đánh giá bởi Mercury Natis)
     - *[Tolkien's Transformative Women: Art in Triptych](../T/Tolkien's_Transformative_Women%253A_Art_in_Triptych.md)* của Annie Brust (được đánh giá bởi Clare Moore)
     - *[Theology and Tolkien: Practical Theology](../T/Theology_and_Tolkien%253A_Practical_Theology.md)* được chỉnh sửa bởi Douglas Estes (được Christian đánh giá S. Trenk)
 - **Lỗi**
@@ -55,4 +55,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/66/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/66/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

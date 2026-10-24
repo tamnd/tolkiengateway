@@ -33,13 +33,13 @@ images:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i>, <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a href="../T/The_Battle_of_the_Pelennor_Fields.md" title="The Battle of the Pelennor Fields">The Battle of the Pelennor Fields</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-"**Half-troll**" là thuật ngữ dùng để mô tả ngoại hình của những người đàn ông đến từ [Far Harad](../F/Far_Harad.md), những người đã chiến đấu cho [Sauron](../S/Sauron.md) tại [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Những [Những người đàn ông](../M/Men.md) này được cho là có nước da đen, mắt trắng và lưỡi đỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó trong trận chiến, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Swan-knights&amp;action=edit&amp;redlink=1" title="Swan-knights (page does not exist)">các hiệp sĩ</a> của [Dol Amroth](../D/Dol_Amroth.md) được cho là đã dẫn đầu "những người troll, Variag và Orc" trước họ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+"**Half-troll**" là thuật ngữ dùng để mô tả ngoại hình của những người đàn ông đến từ [Xa Harad](../F/Far_Harad.md) đã chiến đấu vì [Sauron](../S/Sauron.md) tại [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md). Những [Con Người](../M/Men.md) này được cho là có làn da đen, mắt trắng và lưỡi đỏ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Sau đó trong trận chiến, <a class="new" href="https://tolkiengateway.net/w/index.php?title=Swan-knights&amp;action=edit&amp;redlink=1" title="Swan-knights (page does not exist)">các hiệp sĩ</a> của [Dol Amroth](../D/Dol_Amroth.md) được cho là đã dẫn đầu trước chúng "những kẻ troll, Variag và Orc."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Không có tài liệu nào khác đề cập đến "bán troll" trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), vì vậy không thể biết liệu chúng có thực sự tồn tại trong [Arda](../A/Arda.md) hay không, thậm chí là văn hóa dân gian. Nếu "nửa quỷ lùn" thực sự tồn tại, liệu nguồn gốc của họ có điểm tương đồng nào với [nửa quỷ dữ](Half-orcs.md) hay không chỉ có thể là vấn đề suy đoán.
+Không có tài liệu nào khác đề cập đến "những kẻ nửa troll" trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), vì vậy không thể biết liệu chúng có thực sự tồn tại trong [Arda](../A/Arda.md) hay không, ngay cả dưới dạng văn hóa dân gian. Nếu "nửa quỷ lùn" thực sự tồn tại, liệu nguồn gốc của họ có điểm tương đồng nào với [nửa quỷ dữ](Half-orcs.md) hay không chỉ có thể là vấn đề suy đoán.
 
 ## Cảm hứng {#Inspiration}
 
-Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), một nhân vật trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Legends_about_Theodoric_the_Great#The_Thidrekssaga" title="wikipedia:Legends about Theodoric the Great">Thiðrekssaga</a></i> (một tác phẩm thế kỷ 13 chịu ảnh hưởng của *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)*), là con của một phụ nữ và một <a class="extiw" href="http://en.wikipedia.org/wiki/incubus" title="wikipedia:incubus">incubus</a>, có vẻ ngoài "giống quỷ khổng lồ" và "toàn thân đen tối, với mái tóc đen và bộ râu đen".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), một nhân vật trong <i><a class="extiw" href="http://en.wikipedia.org/wiki/Legends_about_Theodoric_the_Great#The_Thidrekssaga" title="wikipedia:Legends about Theodoric the Great">Thiðrekssaga</a></i> (một tác phẩm thế kỷ 13 có ảnh hưởng đến *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)*), là con của một phụ nữ và một <a class="extiw" href="http://en.wikipedia.org/wiki/incubus" title="wikipedia:incubus">incubus</a>, có vẻ ngoài "giống troll" và "toàn bóng tối, với tóc đen và râu đen".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -69,23 +69,23 @@ Theo [Christopher Tolkien](../C/Christopher_Tolkien.md), một nhân vật trong
 		</li>
 </ul>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Half-trolls (Sindarin <i>Pirtereg</i>, sing. <i>Pertorog</i>) were bred by Sauron, from a union of Olog-hai and Variags or Men from Khand. They are about seven feet tall and have black skin.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 
-<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trò chơi thẻ bài sưu tầm ở Trung Địa</a></i>:</b>
+<b>1995-8: <i><a href="../M/Middle-earth_Collectible_Card_Game.md" title="Middle-earth Collectible Card Game">Trung Địa Trò chơi bài sưu tầm</a></i>:</b>
 
 <dl><dd>&#34;Half-trolls of Far Harad&#34; is a creature, able to inflict two strikes on a player. &#34;Half-trolls&#34; is a Troll Faction, playable at Cirith Ungol or Barad-dûr.</dd></dl>
 
-<b>2001-: <i><a class="mw-redirect" href="../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md" title="The Lord of the Rings Strategy Battle Game">Trò chơi chiến đấu chiến lược Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2001-: <i><a class="mw-redirect" href="../T/The_Lord_of_the_Rings_Strategy_Battle_Game.md" title="The Lord of the Rings Strategy Battle Game">The Lord of the Rings Trò chơi chiến đấu chiến lược</a></i>:</b>
 
 <dl><dd>The <i>Half Trolls</i> are &#34;Mahûd men&#34; of Far Harad who were altered to the size and strength of the Olog-hai of Sauron. During the end of the Third Age, when Sauron was destroyed, their powers diminished and they too fell into darkness.<sup id="cite_ref-WP_6-0" class="reference"><a href="#cite_note-WP-6">[6]</a></sup> Units include &#34;Half Troll Warband&#34; and &#34;Half Troll of Far Harad&#34;.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></dd></dl>
 
-<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">Chúa tể của những chiếc nhẫn: Trận chiến vì Trung địa II</a></i>:</b>
+<b>2006: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md" title="The Lord of the Rings: The Battle for Middle-earth II">The Lord of the Rings: Trận chiến vì Trung Địa II</a></i>:</b>
 
 <dl><dd><i>Half-Troll Marauders</i> are crossbreeds of Trolls and an Orcs. These creatures serve as the pikemen unit for the Goblin faction.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In <a href="../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II%253A_The_Rise_of_the_Witch-king.md" title="The Lord of the Rings: The Battle for Middle-earth II: The Rise of the Witch-king">a later expansion pack</a>, <i>Half Troll Swordsmen</i> are available.<sup id="cite_ref-WP_6-1" class="reference"><a href="#cite_note-WP-6">[6]</a></sup></dd></dl>
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Half-trolls appear as a type of Troll-kind creature crossed with the blood of <a href="../M/Men.md" title="Men">Men</a>. They have the strength and appearance of <a href="../T/Trolls.md" title="Trolls">Trolls</a> yet are also cunning and intelligent. <a href="../S/Sauron.md" title="Sauron">Sauron</a> bestowed Half-trolls onto the Haradrim as a gift. Half-trolls can be found throughout the various regions of <a href="../G/Gondor.md" title="Gondor">Gondor</a> and <a href="../A/Anórien.md" title="Anórien">Anórien</a>, fighting alongside Men of <a href="Harad.md" title="Harad">Harad</a> and the <a class="mw-redirect" href="../C/Corsairs.md" title="Corsairs">Corsairs</a> of <a href="../U/Umbar.md" title="Umbar">Umbar</a>.</dd></dl>
 

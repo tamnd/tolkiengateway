@@ -37,13 +37,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Lake_Helevorn.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3d/Ted_Nasmith_-_Lake_Helevorn.jpg/320px-Ted_Nasmith_-_Lake_Helevorn.jpg" decoding="async" loading="lazy" width="320" height="178" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3d/Ted_Nasmith_-_Lake_Helevorn.jpg/480px-Ted_Nasmith_-_Lake_Helevorn.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/3d/Ted_Nasmith_-_Lake_Helevorn.jpg/640px-Ted_Nasmith_-_Lake_Helevorn.jpg 2x" data-file-width="1024" data-file-height="570"/></a><figcaption>Mount Rerir in <i>Lake Helevorn</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Mountain</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mount Rerir</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>General Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data">Northern <a href="../B/Blue_Mountains.md" title="Blue Mountains">Blue Mountains</a></td></tr><tr><th scope="row" class="tg-infobox-label">Type</th><td class="tg-infobox-data">Mountain</td></tr><tr><th colspan="2" class="tg-infobox-header"><span>People and History</span></th></tr><tr><th scope="row" class="tg-infobox-label">Inhabitants</th><td class="tg-infobox-data"><a href="../E/Elves.md" title="Elves">Elves</a></td></tr></tbody></table>
 
-**Núi Rerir** là một ngọn núi ở phía tây của [Ered Luin](../E/Ered_Luin.md), ở [Thargelion](../T/Thargelion.md) (một vùng của [Beleriand](../B/Beleriand.md)) ở phía bắc [Hồ Helevorn](../H/Helevorn.md) và là một trong những nguồn của [Gelion](../G/Gelion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Núi Rerir** là một ngọn núi ở phía tây của [Ered Luin](../E/Ered_Luin.md), trong [Thargelion](../T/Thargelion.md) (một vùng [Beleriand](../B/Beleriand.md)) về phía bắc của [Hồ Helevorn](../H/Helevorn.md) và là một trong những nguồn của [Gelion](../G/Gelion.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Vùng đất xung quanh ngọn núi thuộc về [Caranthir](../C/Caranthir.md), người đã xây dựng một pháo đài trên sườn phía tây của nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Pháo đài đã bị mất trong [Dagor Bragollach](../D/Dagor_Bragollach.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Lực lượng Yêu tinh có thể đã rút khỏi khu vực sau trận chiến, và chắc chắn nhất là sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Vùng đất xung quanh núi thuộc về [Caranthir](../C/Caranthir.md), người đã xây dựng một pháo đài trên sườn phía tây của nó.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Pháo đài đã bị mất trong [Dagor Bragollach](../D/Dagor_Bragollach.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tiên lực lượng có thể đã rút khỏi khu vực sau trận chiến, và chắc chắn nhất là sau [Nirnaeth Arnoediad](../N/Nirnaeth_Arnoediad.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Sau [War of Wrath](../W/War_of_Wrath.md), Rerir rõ ràng đã bị hư hại nặng nề và từ [Thời đại thứ hai](../S/Second_Age.md) trở đi, nó chỉ còn là cái bóng của kích thước trước đây.
+Sau [War of Wrath](../W/War_of_Wrath.md), Rerir rõ ràng đã bị hư hại nặng nề và từ [Kỷ Đệ Nhị](../S/Second_Age.md) trở đi, nó chỉ còn là cái bóng của kích thước trước đây.
 
 ## Từ nguyên {#Etymology}
 
@@ -53,7 +53,7 @@ Sau [War of Wrath](../W/War_of_Wrath.md), Rerir rõ ràng đã bị hư hại n�
 
 ## Cảm hứng {#Inspiration}
 
-Có lẽ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã sử dụng lại một cái tên xuất hiện trong thần thoại Bắc Âu: trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)*, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Rerir" title="wikipedia:Rerir">Rerir</a></i> là tên cháu trai của <a class="extiw" href="http://en.wikipedia.org/wiki/Odin" title="wikipedia:Odin">Ódin</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Có lẽ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã sử dụng lại một tên xuất hiện trong thần thoại Bắc Âu: trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)*, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Rerir" title="wikipedia:Rerir">Rerir</a></i> là tên cháu trai của <a class="extiw" href="http://en.wikipedia.org/wiki/Odin" title="wikipedia:Odin">Ódin</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 <span></span>
 

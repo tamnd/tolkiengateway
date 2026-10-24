@@ -11,4 +11,4 @@ redirect_target: "Daeron"
 redirect_fragment: "Other versions of the legendarium"
 ---
 
-Chuyển hướng tới [Daeron](../D/Daeron.md#Other_versions_of_the_legendarium).
+Chuyển hướng đến [Daeron](../D/Daeron.md#Other_versions_of_the_legendarium).

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Austin, Nick"
 ---
 
-**Nick Austin** cùng với [Pete](../P/Pete_Austin.md) và [Mike Austin](../M/Mike_Austin.md) là tác giả của [Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md), [Nhiệm vụ phiêu lưu](../A/Adventure_Quest.md) và [Cuộc phiêu lưu trong ngục tối](../D/Dungeon_Adventure.md) là một phần của [Bộ ba Trung Địa](../T/The_Middle-Earth_Trilogy.md) (được sao chép dưới dạng *"The Jewels of Darkness"*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Nick Austin** cùng với [Pete](../P/Pete_Austin.md) và [Mike Austin Austin](../M/Mike_Austin.md) là tác giả của [Cuộc phiêu lưu khổng lồ](../C/Colossal_Adventure.md), [Nhiệm vụ phiêu lưu](../A/Adventure_Quest.md) và [Cuộc phiêu lưu trong ngục tối](../D/Dungeon_Adventure.md) là một phần của [Bộ ba Trung Địa](../T/The_Middle-Earth_Trilogy.md) (được sao chép dưới dạng *"The Jewels of Darkness"*).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

@@ -13,4 +13,4 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Gwilith** là từ [Sindarin](../S/Sindarin.md) có nghĩa là "bầu trời" hoặc "không khí".
+**Gwilith** là từ [Sindarin](../S/Sindarin.md) chỉ "bầu trời" hoặc "không khí".

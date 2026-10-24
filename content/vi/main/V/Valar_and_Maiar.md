@@ -41,38 +41,38 @@ infobox:
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-*"...Nhưng không phải lũ troll đã khiến tộc Elf khiếp sợ. Hàng ngũ lũ orc đã mở ra, và chúng chen chúc nhau đi, như thể chính chúng cũng sợ hãi. Có thứ gì đó đang tiến đến phía sau họ. Thứ đó không thể nhìn thấy được: nó giống như một cái bóng vĩ đại, ở giữa đó là một hình thể đen tối, có thể có hình dạng con người, nhưng lớn hơn; và dường như có một sức mạnh và nỗi kinh hoàng ở trong đó và đi trước nó."* - The Fellowship of the Ring
+*"...Nhưng không phải lũ troll đã khiến Tiên khiếp sợ. Hàng ngũ lũ orc đã mở ra, và chúng chen chúc nhau bỏ đi, như thể chính chúng đang sợ hãi. Có thứ gì đó đang tiến đến phía sau chúng. Không thể nhìn thấy thứ đó: nó giống như một cái bóng lớn, ở giữa đó là một hình thể đen tối, có lẽ có hình dạng con người, nhưng lớn hơn; và dường như có một sức mạnh và nỗi kinh hoàng ở trong đó và đi trước nó."* - The Fellowship of the Ring
 
-Hãy tưởng tượng, sau khi nghe tất cả những truyền thuyết khủng khiếp, cuối cùng phải đối mặt với một linh hồn đáng sợ sinh ra từ Ác ma vĩ đại của Ngày xưa, một con quỷ bất tử thức dậy từ giấc ngủ nguyên thủy của mình. Hãy tưởng tượng gặp một Balrog.
+Hãy tưởng tượng, sau khi nghe tất cả những truyền thuyết khủng khiếp, cuối cùng phải đối mặt với một linh hồn đáng sợ sinh ra từ Ác ma vĩ đại của Ngày xưa, một con quỷ bất tử thức dậy từ giấc ngủ nguyên thủy của mình. Hãy tưởng tượng bạn gặp một Balrog.
 
-Trong Valar & Maiar, bạn tìm hiểu về Balrogs, cũng như tất cả các linh hồn lớn hơn khác (thiện và ác) sinh sống trong thế giới kỳ diệu của J.R.R. Tolkien. Những sinh vật bất tử này, Ainur hùng mạnh, đã giúp hình thành Trung Địa - nơi mà Yêu tinh gọi là Endor. Câu chuyện của họ chi phối phần lớn lịch sử rắc rối của lục địa. Ainur sa ngã, Morgoth, Sauron và Balrogs, mãi mãi ám ảnh vùng đất, bóp méo các dân tộc của Endor và làm biến dạng chính trị của nó. Những valar trung thành, như Oromë và Aulë, đóng vai trò là người bảo trợ cho các Dân tộc Tự do. Wise Maiar, giống như Gandalf và Tom Bombadil, đóng vai trò là người chăm sóc Sự cân bằng của vạn vật. Mỗi người đều có một vị trí trong kế hoạch của Eru và mỗi người đều có một câu chuyện tô điểm cho câu chuyện vĩ đại của Trung Địa.
+Trong Valar & Maiar bạn tìm hiểu về Balrog, cũng như tất cả các linh hồn lớn hơn khác (thiện và ác) sinh sống trong thế giới kỳ diệu của J.R.R. Tolkien. Những sinh vật bất tử này, những Ainur hùng mạnh, đã giúp hình thành nên Trung Địa - nơi mà Tiên tộc gọi là Endor. Câu chuyện của họ chi phối phần lớn lịch sử rắc rối của lục địa. Ainur, Morgoth, Sauron và Balrog sa ngã, mãi mãi ám ảnh vùng đất, bóp méo các dân tộc của Endor và làm biến dạng nền chính trị của nó. Những dũng sĩ trung thành, như Oromë và Aulë, đóng vai trò là người bảo trợ cho các Dân tộc Tự do. Wise Maiar, giống như Gandalf và Tom Bombadil, đóng vai trò là người chăm sóc Sự cân bằng của vạn vật. Mỗi người đều có một vị trí trong kế hoạch của Eru và mỗi người có một câu chuyện tô điểm cho câu chuyện vĩ đại về Trung Địa.
 
-Bên trong, bạn sẽ tìm thấy danh sách theo thứ tự bảng chữ cái bao gồm ngoại hình, động lực, đặc điểm và lý lịch của từng Valar và Maiar nổi bật: Tổng quan mô tả bản chất và lịch sử chung của tất cả các "Thánh nhân", Ainur bất tử, bao gồm cả những linh hồn sa ngã được gọi là Kẻ thù lớn.
+Bên trong, bạn sẽ tìm thấy danh sách theo thứ tự bảng chữ cái bao gồm hình dáng, động cơ, đặc điểm và lý lịch của từng Valar và Maiar nổi bật: Tổng quan mô tả bản chất và lịch sử chung của tất cả các "Thánh nhân", Ainur bất tử, bao gồm cả những linh hồn sa ngã được gọi là Kẻ thù lớn.
 
 - Valar, hay "quyền lực", những người bảo vệ cấp cao của thế giới:
-    - Manwë, "Người thở", Người tạo ra gió, Chúa tể bầu trời và Vua của các Valar.
+    - Manwë, "Người thở", Người tạo ra gió, Chúa tể bầu trời và Vua của Valar.
     - Varda, Elbereth Gilthoniel, Nữ hoàng của các vì sao được tôn vinh.
     - Oromë, "Thợ săn", bậc thầy sử dụng vũ khí vĩ đại nhất thế giới.
-    - Tulkas, sinh vật "Mạnh mẽ" mạnh nhất ở Arda.
+    - Tulkas, sinh vật "Mạnh mẽ" mạnh nhất trong Arda.
 - Maiar, hay "Đôi tay", những người hầu bất tử của Valar:
-    - Tom Bombadil, chủ nhân của Rừng Cũ và là người Ainur già nhất ở Trung Địa.
-    - Eönwë, Sứ giả hùng mạnh của các Valar và lãnh chúa Maia vĩ đại nhất.
-    - Melian, Maia đã kết hôn với Vua Yêu tinh và trở thành Nữ hoàng của Doriath.
-    - Goldberry, vị thần Nước xinh đẹp có âm nhạc quyến rũ dòng chảy bất diệt của Sông Withywindle.
-    - Các pháp sư - Alatar, Gandalf, Pallando, Radagast và Saruman - năm sứ giả Maia được cử đến Trung Địa vào Thời đại thứ ba.
-- Người Ainur sa ngã, như:
-    - Morgoth, "Kẻ thù đen", Vala xuất chúng, người đã trở thành nguồn gốc của mọi Ác ma.
-    - Sauron, "Chúa tể của những chiếc nhẫn", Maia vĩ đại từng là người hầu cấp cao của Morgoth.
-    - Gothmog, "Vua của các Balrog", tinh linh lửa thất lạc dẫn đầu Đội chủ của Angband.
-    - Ungoliant, "Con quỷ hư không" đáng sợ, kẻ đã đầu độc Hai Cây mang lại ánh sáng cho Thế giới.
+    - Tom Bombadil, bậc thầy của Khu Rừng Cổ và là người lớn tuổi nhất trong số Ainur ở Trung Địa.
+    - Eönwë, Sứ giả hùng mạnh của Valar và lãnh chúa vĩ đại nhất trong số Maia.
+    - Melian, Maia đã kết hôn với một vị vua Tiên và trở thành Nữ hoàng của Doriath.
+    - Goldberry, vị thần Nước xinh đẹp có âm nhạc quyến rũ dòng chảy bất diệt của Dòng sông Withywindle.
+    - Pháp sư - Alatar, Gandalf, Pallando, Radagast, và Saruman - năm Maia sứ giả được cử đến Trung Địa trong Kỷ Đệ Tam.
+- Rơi Ainur, như:
+    - Morgoth, "Black Kẻ Thù", Vala xuất chúng đã trở thành nguồn gốc của mọi Ác ma.
+    - Sauron, "Chúa tể của những chiếc nhẫn", Maia vĩ đại từng là người hầu cao cấp của Morgoth.
+    - Gothmog, "Vua của Balrog," Hỏa Tinh Linh đã mất dẫn dắt Chủ nhân của Angband.
+    - Ungoliant, "Ác quỷ của Hư Không" đáng sợ, kẻ đã đầu độc Hai Cây mang lại ánh sáng cho Thế giới.
 
-Hoàn thành số liệu thống kê về nhân vật cho các hệ thống [Nhập vai Trung Địa](../M/Middle-earth_Role_Playing.md), Rolemaster và [Trò chơi phiêu lưu Chúa tể những chiếc nhẫn](../L/Lord_of_the_Rings_Adventure_Game.md) của ICE, cũng như các điều khoản để điều chỉnh nhân vật cho phù hợp với các trò chơi phiêu lưu khác.
+Hoàn thiện số liệu thống kê về nhân vật cho các hệ thống [Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md), Rolemaster và [Trò chơi phiêu lưu Chúa tể những chiếc nhẫn](../L/Lord_of_the_Rings_Adventure_Game.md) của ICE, cũng như các điều khoản để điều chỉnh nhân vật cho phù hợp với các trò chơi phiêu lưu khác.
 
-Valar & Maiar là tựa game đầu tiên trong loạt trò chơi phiêu lưu Peoples of Middle-Earth của ICE. Mỗi tác phẩm trong bộ sưu tập này ghi lại một chủng tộc hoặc nhóm cụ thể được tìm thấy ở Trung Địa của Tolkien. Các tập khác bao gồm Người lùn, Người Hobbit, Orc, Quỷ lùn, v.v. Mỗi tập là một bản tóm tắt toàn diện mô tả tất cả các nhân vật đáng chú ý từ một trong các chủng tộc khác nhau của Endor.
+Valar & Maiar là tựa game đầu tiên trong loạt trò chơi phiêu lưu Peoples of Trung Địa của ICE. Mỗi tác phẩm trong bộ sưu tập này ghi lại một chủng tộc hoặc nhóm cụ thể được tìm thấy trong Trung Địa của Tolkien. Các tập khác bao gồm Người Lùn, Hobbit, Orc, Troll, v.v. Mỗi tập là một bản tóm tắt toàn diện mô tả tất cả các nhân vật đáng chú ý từ một trong các chủng tộc khác nhau của Endor.
 
 ## Các hiện vật đáng chú ý {#Notable_artefacts}
 
-Vì mỗi Valar và Maiar đều được mô tả là các nhân vật, có đầy đủ số liệu thống kê về nhân vật và trang bị, ICE đã đưa ra các đồ tạo tác mới để lấp đầy những khoảng trống.
+Vì mỗi Valar và Maiar đều được mô tả dưới dạng ký tự, có đầy đủ số liệu thống kê về nhân vật và trang bị, ICE đã đưa ra các tạo tác mới để lấp đầy khoảng trống.
 
 <table class="wikitable sortable">
 <tbody><tr>

@@ -20,7 +20,7 @@ sort_keys:
   "Quenya names": "Parmaite"
 ---
 
-**Parmaitë** là biệt danh của **[Tar-Elendil](../T/Tar-Elendil.md)**, [Vua của Númenor](../K/King_of_Númenor.md) thứ tư. Cái tên này xuất phát từ sở thích làm sách của anh từ những ghi chú về truyền thuyết và truyền thuyết do ông nội anh, [Vardamir Nólimon](../V/Vardamir.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thu thập.
+**Parmaitë** là biệt danh của **[Tar-Elendil](../T/Tar-Elendil.md)**, [Vua thứ tư của Númenor](../K/King_of_Númenor.md). Cái tên này xuất phát từ sở thích làm sách của anh từ những ghi chú về truyền thuyết và truyền thuyết do ông nội anh, [Vardamir Nólimon](../V/Vardamir.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> thu thập.
 
 Tên của ông có nghĩa là "Người cầm sách" trong [Quenya](../Q/Quenya.md) (từ *[parma](Parma.md)* = "cuốn sách" và *-[maitë](../M/Maitë.md)* = "tay").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 

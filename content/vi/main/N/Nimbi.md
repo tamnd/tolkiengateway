@@ -13,11 +13,11 @@ categories:
   - "Telerin adjectives"
 ---
 
-<i><b>nimbi</b></i> là từ [Telerin](../T/Telerin.md) có nghĩa là "trắng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>nimbi</b></i> là [Telerin](../T/Telerin.md) từ dành cho "màu trắng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Đạo hàm {#Derivation}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[nim](Nim.md)*
+- [Sindarin](../S/Sindarin.md) *[nim](Nim.md)*
 
 <span></span>
 

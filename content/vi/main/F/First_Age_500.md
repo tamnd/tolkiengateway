@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_497.md" title="First Age 497">497</a><a href="First_Age_498.md" title="First Age 498">498</a><a href="First_Age_499.md" title="First Age 499">499</a><a class="mw-selflink selflink">500</a><a href="First_Age_501.md" title="First Age 501">501</a><a href="First_Age_502.md" title="First Age 502">502</a><a href="First_Age_503.md" title="First Age 503">503</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 500** (viết tắt là **F.A. 500**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 500 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 500** (viết tắt là **F.A. 500**) là năm [thứ 500 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sau cái chết của những đứa con của mình, [Morgoth](../M/Morgoth.md) thả [Húrin](../H/Húrin.md) khỏi nơi giam cầm. [Húrin](../H/Húrin.md) đi đến [Hithlum](../H/Hithlum.md).<sup id="cite_ref-Hurin_1-0" class="reference"><a href="#cite_note-Hurin-1">[1]</a></sup>
-- Sự ra đời của [Eluréd](../E/Eluréd.md) và [Elurín](../E/Elurín.md), con trai sinh đôi của [Dior](../D/Dior.md).<sup id="cite_ref-Hurin_1-1" class="reference"><a href="#cite_note-Hurin-1">[1]</a></sup>
+- Sau cái chết của những đứa con của mình, [Morgoth](../M/Morgoth.md) thả [Húrin](../H/Húrin.md) khỏi nơi giam cầm. [Húrin](../H/Húrin.md) chuyển đến [Hithlum](../H/Hithlum.md).<sup id="cite_ref-Hurin_1-0" class="reference"><a href="#cite_note-Hurin-1">[1]</a></sup>
+- Sinh đôi [Eluréd](../E/Eluréd.md) và [Elurín](../E/Elurín.md), hai con trai sinh đôi của [Dior](../D/Dior.md).<sup id="cite_ref-Hurin_1-1" class="reference"><a href="#cite_note-Hurin-1">[1]</a></sup>
 
 <span></span>
 

@@ -12,7 +12,7 @@ categories:
   - "Songs"
 ---
 
-**Mang thịt về** là một bài hát được hát bởi những đứa trẻ ở [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md) trong bữa tối nhân chuyến thăm của thủy thủ [Eriol](../E/Eriol.md). Sau khi bài hát được hát, chủ nhân của ngôi nhà, [Lindo](../L/Lindo.md), chúc phúc cho bữa ăn và cả nhóm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Mang thịt về** là bài hát được hát bởi bọn trẻ ở [Ngôi nhà của Lost Play](../C/Cottage_of_Lost_Play.md) trong bữa tối khi người thủy thủ [Eriol](../E/Eriol.md) đến thăm. Sau khi bài hát được hát, chủ nhân của ngôi nhà, [Lindo](../L/Lindo.md), chúc phúc cho bữa ăn và cả nhóm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

@@ -14,7 +14,7 @@ sort_keys:
   "Quenya suffixes": "rya"
 ---
 
-<i><b>-rya</b></i> là đuôi đầu [Quenya](../Q/Quenya.md) có nghĩa là "của ông, của bà"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> trong **máryat** "bàn tay của bà", **ómaryo** "của giọng nói của bà" (sáng tạo của \***ómarya** "giọng của bà"), **súmaryassë** "trong ngực bà" (vị trí của **súmarya** "trong ngực bà"); với ý nghĩa "của ông" cf. **coarya** "nhà của ông".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+<i><b>-rya</b></i> là đuôi đầu [Quenya](../Q/Quenya.md) có nghĩa là "his, her"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> trong **máryat** "bàn tay của bà", **ómaryo** "của giọng nói của bà" (sáng tạo của \***ómarya** "giọng nói của bà"), **súmaryassë** "trong ngực bà" (vị trí của **súmarya** "trong ngực bà"); với ý nghĩa "của ông" cf. **coarya** "nhà của ông".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

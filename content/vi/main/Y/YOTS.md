@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Years of the Sun"
 ---
 
-Chuyển hướng đến [Năm Mặt Trời](Years_of_the_Sun.md).
+Chuyển hướng đến [Năm của Mặt Trời](Years_of_the_Sun.md).

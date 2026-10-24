@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elven cloaks"
 ---
 
-Chuyển hướng đến [Áo choàng yêu tinh](Elven_cloaks.md).
+Chuyển hướng tới [Tiên áo choàng](Elven_cloaks.md).

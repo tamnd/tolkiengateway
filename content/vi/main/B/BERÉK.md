@@ -14,13 +14,13 @@ sort_keys:
   "Roots": "BEREK"
 ---
 
-**BERÉK** là [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có bất kỳ ý nghĩa nào, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+**BERÉK** là một [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có bất kỳ ý nghĩa nào, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó.<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-- [Quendian nguyên thủy](../P/Primitive_Quendian.md): *berékā-* ("hoang dã")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Primitive Quendian](../P/Primitive_Quendian.md): *berékā-* ("hoang dã")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
     - [Quenya](../Q/Quenya.md): *verka* ("hoang dã")
-    - [Noldorin lưu đày](../N/Noldorin.md): *[bregol](Bregol.md)* ("bạo lực, bất ngờ"); *breged* ("bạo lực, đột ngột"); *breitho* ("bùng phát đột ngột")
+    - [Exilic Noldorin](../N/Noldorin.md): *[bregol](Bregol.md)* ("bạo lực, đột ngột"); *breged* ("bạo lực, đột ngột"); *breitho* ("bùng phát đột ngột")
 
 <span></span>
 

@@ -27,7 +27,7 @@ images:
 
 ## Trong *The Silmarillion* {#In_The_Silmarillion}
 
-Một phần của bài hát được đưa vào Chương 19 "[Of Beren và Lúthien](../O/Of_Beren_and_Lúthien.md)" của *[The Silmarillion](../T/The_Silmarillion.md)*. Bài hát này cũng có trong ấn bản thứ ba của [*The Road Goes Ever On*](<../T/The_Road_Goes_Ever_On_(book).md>), là bài hát thứ 9, với phần nhạc của [Donald Swann](../D/Donald_Swann.md).
+Một phần của bài hát được đưa vào Chương 19 "[Of Beren and Lúthien](../O/Of_Beren_and_Lúthien.md)" của *[The Silmarillion](../T/The_Silmarillion.md)*. Bài hát này cũng có trong ấn bản thứ ba của [*The Road Goes Ever On*](<../T/The_Road_Goes_Ever_On_(book).md>), là bài hát thứ 9, có nhạc của [Donald Swann](../D/Donald_Swann.md).
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/e/e5/Christopher_Tolkien_-_Song_of_Parting.wav" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_Song_of_Parting.wav">https://tolkiengateway.net/wiki/File:Christopher_Tolkien_-_Song_of_Parting.wav</a></audio><figcaption><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> reads The Song of Parting</figcaption></figure>
 
@@ -51,7 +51,7 @@ that Lúthien on a time should be!
 
 ## Trong *The Lays of Beleriand* {#In_The_Lays_of_Beleriand}
 
-Toàn bộ bài hát được đưa vào *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)*, phần III "[The Lay of Leithian](../T/The_Lay_of_Leithian.md): [Canto XI](../L/Lay_of_Leithian_Canto_XI.md)".
+Toàn bộ bài hát được đưa ra ở *[The Lays of Beleriand](../T/The_Lays_of_Beleriand.md)*, phần III "[The Lay of Leithian](../T/The_Lay_of_Leithian.md): [Canto XI](../L/Lay_of_Leithian_Canto_XI.md)".
 
 <div style="font-style:italic; margin-left:20px;" class="poem">
 <p>    Farewell now here, ye leaves of trees,<br/>

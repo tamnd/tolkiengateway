@@ -41,11 +41,11 @@ infobox:
 <p class="tg-quote-footer"><cite><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-<i><b>Hompen, eller En resa dit och Tillbaksigen</b></i> ("Người Hobbit, hay Cuộc hành trình đến đó và quay lại"), được dịch sang tiếng Thụy Điển bởi [Tore Zetterholm](../T/Tore_Zetterholm.md), là ấn bản không phải tiếng Anh đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (và do đó là bản dịch xuất bản đầu tiên của bất kỳ tác phẩm nào của Tolkien).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> The cuốn sách được minh họa bởi Torbjörn Zetterholm (hình minh họa bên trong) và Charles Sjöblom (bìa và bản đồ).<sup id="cite_ref-Beregond_3-0" class="reference"><a href="#cite_note-Beregond-3">[3]</a></sup>
+<i><b>Hompen, eller En resa dit och Tillbaksigen</b></i> ("The Hobbit, hay Hành trình tới đó và quay lại"), được dịch sang tiếng Thụy Điển bởi [Tore Zetterholm](../T/Tore_Zetterholm.md), là ấn bản không phải tiếng Anh đầu tiên của *[The Hobbit](../T/The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(và do đó là bản dịch xuất bản đầu tiên của bất kỳ tác phẩm nào của Tolkien).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Cuốn sách này đã được xuất bản lần đầu tiên được minh họa bởi Torbjörn Zetterholm (hình minh họa bên trong) và Charles Sjöblom (bìa và bản đồ).<sup id="cite_ref-Beregond_3-0" class="reference"><a href="#cite_note-Beregond-3">[3]</a></sup>
 
 ## Tolkien trên *Hompen* {#Tolkien_on_Hompen}
 
-Về công việc dịch *The Hobbit* sang tiếng Thụy Điển, bản thân Tolkien không tham gia. Viết cho [Allen & Unwin](../G/George_Allen_and_Unwin.md) vào năm 1956 về bản dịch tiếng Hà Lan của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien nói:
+Về công việc dịch thuật *The Hobbit* sang tiếng Thụy Điển, bản thân Tolkien không tham gia. Viết cho [Allen &amp; Unwin](../G/George_Allen_and_Unwin.md) năm 1956 trên bản dịch tiếng Hà Lan của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien nói:
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>I wish to avoid a repetition of my experience with the Swedish translation of The Hobbit. I discovered that this had taken unwarranted liberties with the text and other details, without consultation or approval; it was also unfavourably criticized in general by a Swedish expert, familiar with the original, to whom I submitted it.
@@ -53,7 +53,7 @@ Về công việc dịch *The Hobbit* sang tiếng Thụy Điển, bản thân T
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Cuối năm đó và viết về cùng chủ đề, Tolkien chỉ ra cụ thể hơn nguyên nhân không thích *Hompen* đối với [Rayner Unwin](../R/Rayner_Unwin.md):
+Cuối năm đó và viết về cùng chủ đề, Tolkien chỉ ra cụ thể hơn nguồn gốc của việc không thích *Hompen* đến [Rayner Unwin](../R/Rayner_Unwin.md):
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
 <p>May I say now at once that I will not tolerate any similar tinkering with the personal nomenclature. Nor with the name/word Hobbit. I will not have any more Hompen (in which I was not consulted), nor any Hobbel or what not.
@@ -61,9 +61,9 @@ Cuối năm đó và viết về cùng chủ đề, Tolkien chỉ ra cụ thể 
 <p class="tg-quote-footer"><cite>J.R.R. Tolkien<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-Việc dịch tên 'Hobbit' thành 'Hompe'<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup> không phải là điều duy nhất khiến Tolkien khó chịu về ấn bản này. Ngay từ năm 1948, ông đã viết cho Rosemary, một người hâm mộ trẻ tuổi, rằng *"hình ảnh Gollum trong ấn bản The Hobbit của Thụy Điển khiến ông ấy trông to lớn."*<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Việc dịch tên 'Hobbit' sang 'Hompe'<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[note 1]</a></sup> không phải là điều duy nhất khiến Tolkien khó chịu về phiên bản này. Vào năm 1948, ông đã viết cho Rosemary, một người hâm mộ trẻ tuổi, rằng *"hình ảnh Gollum trong ấn bản tiếng Thụy Điển của The Hobbit khiến ông ấy trông to lớn."*<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
-Một số điều tò mò khác về bản dịch của Zetterholm là cách ông dịch từ 'Bilbo' thành 'Bimbo' (!), 'elf' thành 'älva' (bỏ qua mối liên hệ từ nguyên, 'älva' mang hàm ý trong tiếng Thụy Điển nên dịch nó thành 'tiên') và 'goblin' thành 'svartalf' ("darkelf").<sup id="cite_ref-Beregond_3-1" class="reference"><a href="#cite_note-Beregond-3">[3]</a></sup>
+Một số điều tò mò khác về bản dịch của Zetterholm là cách ông dịch 'Bilbo' thành 'Bimbo' (!), 'Tiên' thành 'älva' (bỏ qua mối liên hệ từ nguyên, 'älva' mang hàm ý trong tiếng Thụy Điển nên dịch nó thành 'tiên') và 'goblin' thành 'svartalf' ("darkelf").<sup id="cite_ref-Beregond_3-1" class="reference"><a href="#cite_note-Beregond-3">[3]</a></sup>
 
 ## Trích {#Excerpt}
 

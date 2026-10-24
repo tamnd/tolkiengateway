@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Lay of the Children of Húrin"
 ---
 
-Chuyển hướng tới [Sự sống của những đứa trẻ Húrin](../T/The_Lay_of_the_Children_of_Húrin.md).
+Chuyển hướng đến [The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md).

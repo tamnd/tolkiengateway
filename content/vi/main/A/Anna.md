@@ -16,11 +16,11 @@ images:
   - "Anna.gif"
 ---
 
-<i><b>anna</b></i> là danh từ có nghĩa là "món quà" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-Names_1-0" class="reference"><a href="#cite_note-Names-1">[1]</a></sup>
+<i><b>anna</b></i> là danh từ có nghĩa là "quà tặng" trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-Names_1-0" class="reference"><a href="#cite_note-Names-1">[1]</a></sup>
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/A/Anna.gif.md"><img src="https://tolkiengateway.net/w/images/d/dd/Anna.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Anna* cũng là tên bằng tiếng Quenya của chữ cái thứ hai mươi ba trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ ba của lớp sáu hay [Tyellë](../T/Tyellë.md), chứa các phụ âm "bán giọng" và là chữ cái thứ năm trong chuỗi phụ âm thứ ba. Chữ cái này thường được sử dụng cho phụ âm **Y**,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ngoại trừ trong [Chế độ Beleriand](../M/Mode_of_Beleriand.md). Như đã thấy trong [Cổng phía Tây](../W/West-gate.md) của dòng chữ [Moria](../M/Moria.md), *Anna* ở chế độ "viết đầy đủ" này được sử dụng cho **O**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên [Westron](../W/Westron.md) cho bức thư này là <i><b>Yé</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+*Anna* cũng là tên trong Quenya của chữ cái thứ hai mươi ba của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Nó là chữ cái thứ ba của lớp sáu hay [Tyellë](../T/Tyellë.md), chứa các phụ âm "bán thanh âm" và là chữ cái thứ năm trong chuỗi phụ âm thứ ba. Chữ cái này thường được sử dụng cho phụ âm **Y**,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> ngoại trừ ở [Chế độ Beleriand](../M/Mode_of_Beleriand.md). Như đã thấy ở [Phương Tây-gate](../W/West-gate.md) của dòng chữ [Moria](../M/Moria.md), *Anna* ở chế độ "viết đầy đủ" này được sử dụng cho **O**.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Tên [Westron](../W/Westron.md) cho bức thư này là <i><b>Yé</b></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -31,11 +31,11 @@ images:
 
 ## Từ nguyên {#Etymology}
 
-Từ này bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [ANA](ANA.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Từ này bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) [ANA](ANA.md).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

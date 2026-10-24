@@ -31,9 +31,9 @@ infobox:
 
 **Mundo Sackville-Baggins** là nhân vật được tạo riêng cho [The Lord of the Rings Online](../T/The_Lord_of_the_Rings_Online.md).
 
-Ông ta bị [Blackwolds](../B/Blackwolds.md) xác định nhầm là Người Hobbit mang chiếc Nhẫn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mà họ đang tìm kiếm và đưa đến [Bree-land](../B/Bree-land.md) với hy vọng bán ông ta cho [Nazgûl](../N/Nazgûl.md). Anh được cứu bởi [Strider](../S/Strider.md) và [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>), trong đó Amdir bị Nazgûl đâm. Sau khi Nazgûl bị đánh đuổi, họ chạy tới [Archet](../A/Archet.md) để hồi phục. Ngay sau đó, Archet bị Blackwolds tấn công và thiêu rụi. Sau đó, Amdir bị Nazgûl bắt để trở thành <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cargul&amp;action=edit&amp;redlink=1" title="Cargul (page does not exist)">Cargul</a>.
+Ông ta đã bị [Blackwolds](../B/Blackwolds.md) xác định nhầm là Hobbit mang chiếc Nhẫn<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> mà họ đang tìm kiếm và đưa đến [Bree-land](../B/Bree-land.md) với hy vọng bán ông ta cho [Nazgûl](../N/Nazgûl.md). Anh được [Strider](../S/Strider.md) và [Amdir](<../A/Amdir_(Shadows_of_Angmar).md>) giải cứu, trong đó Amdir bị Nazgûl đâm. Sau khi chiếc Nazgûl bị đánh đuổi, chúng bỏ chạy về [Archet](../A/Archet.md) để hồi phục. Ngay sau đó, Archet bị Blackwolds tấn công và thiêu rụi. Sau đó, Amdir đã bị Nazgûl bắt để trở thành <a class="new" href="https://tolkiengateway.net/w/index.php?title=Cargul&amp;action=edit&amp;redlink=1" title="Cargul (page does not exist)">Cargul</a>.
 
-Khi quay trở lại [Shire](../T/The_Shire.md), ông đã yêu cầu Thị trưởng [Michel Delving](Michel_Delving.md), [Will Whitfoot](../W/Will_Whitfoot.md) bồi thường cho việc điều trị tại Archet.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Khi quay trở lại [ Shire](../T/The_Shire.md), ông đã yêu cầu Thị trưởng của [Michel Delving](Michel_Delving.md), [Will Whitfoot](../W/Will_Whitfoot.md) bồi thường cho việc điều trị tại Archet.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 Ông là cháu trai của [Lobelia Sackville-Baggins](../L/Lobelia_Sackville-Baggins.md).
 

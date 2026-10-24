@@ -27,9 +27,9 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Mithe.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/3/33/The_Lord_of_the_Rings_Online_-_Mithe.jpg/250px-The_Lord_of_the_Rings_Online_-_Mithe.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/33/The_Lord_of_the_Rings_Online_-_Mithe.jpg/375px-The_Lord_of_the_Rings_Online_-_Mithe.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/3/33/The_Lord_of_the_Rings_Online_-_Mithe.jpg/500px-The_Lord_of_the_Rings_Online_-_Mithe.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>The Mithe in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-**Mithe** là một vùng nước ở [Shire](../T/The_Shire.md), dòng chảy của sông [Shirebourn](../S/Shirebourn.md).
+**Mithe** là vùng nước ở [ Shire](../T/The_Shire.md), dòng chảy ra của sông [Shirebourn](../S/Shirebourn.md).
 
-Tại Mithe có một bến đỗ tên là [Mithe Steps](Mithe_Steps.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> từ đó có một làn đường chạy đến [Deephallow](../D/Deephallow.md) và tiếp tục đến con đường [Causeway](../C/Causeway.md) đi qua [Rushey](../R/Rushey.md) và [Stock](../S/Stock.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tại Mithe có một bến đỗ tên là [Mithe Steps](Mithe_Steps.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> từ đó có một làn chạy đến [Deephallow](../D/Deephallow.md) và tiếp tục đến đường [Causeway](../C/Causeway.md) đi qua [Rushey](../R/Rushey.md) và [Stock](../S/Stock.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -37,7 +37,7 @@ Tại Mithe có một bến đỗ tên là [Mithe Steps](Mithe_Steps.md),<sup id
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The river Shirebourn itself is currently inaccessible, as the <a href="../S/Southfarthing.md" title="Southfarthing">Southfarthing</a> of the <a class="mw-redirect" href="../S/Shire.md" title="Shire">Shire</a> is not present in the game. The Mithe however can be accessed from the <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a> side.</dd></dl>
 

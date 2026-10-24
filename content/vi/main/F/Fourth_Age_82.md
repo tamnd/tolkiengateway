@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><b>IV</b><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Fourth_Age_63.md" title="Fourth Age 63">63</a><a href="Fourth_Age_67.md" title="Fourth Age 67">67</a><a href="Fourth_Age_80.md" title="Fourth Age 80">80</a><a class="mw-selflink selflink">82</a><a href="Fourth_Age_91.md" title="Fourth Age 91">91</a><a href="Fourth_Age_95.md" title="Fourth Age 95">95</a><a href="Fourth_Age_120.md" title="Fourth Age 120">120</a></div></div></div></div></div></div>
 
-**Thời đại thứ tư 82** (viết tắt là **Fo.A. 82** hoặc **F.O.**) là [năm Mặt trời](../Y/Years_of_the_Sun.md) thứ 82 của [Thời đại thứ tư](Fourth_Age.md) của [Trung Địa](../M/Middle-earth.md). Trừ khi có quy định khác, [Tolkien Gateway](../T/Tolkien_Gateway.md) tuân theo cách sử dụng [Shire](../T/The_Shire.md) trong [Phụ lục B](../A/Appendix_B.md) để tính những năm thuộc Kỷ Đệ Tứ: Kỷ thứ 82 còn được gọi là **S.R. 1503** trong [Tính toán Quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tứ 82** (viết tắt là **Kỷ Đệ Tứ 82** hoặc **F.O.**) là [năm thứ 82 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tứ](Fourth_Age.md) của [Trung Địa](../M/Middle-earth.md). Trừ khi có quy định khác, [Tolkien Gateway](../T/Tolkien_Gateway.md) tuân theo cách sử dụng [Shire](../T/The_Shire.md) trong [Phụ lục B](../A/Appendix_B.md) để tính Kỷ Đệ Tứ năm: Kỷ Đệ Tứ 82 còn được gọi là **S.R. 1503** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Cái chết của [Faramir](Faramir.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Hoàng tử](../P/Prince_of_Ithilien.md) của [Ithilien](../I/Ithilien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
-- [Elboron](../E/Elboron.md), con trai của Faramir,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trở thành Hoàng tử thứ hai của Ithilien.
+- Cái chết của [Faramir](Faramir.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Thân vương](../P/Prince_of_Ithilien.md) của [Ithilien](../I/Ithilien.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Elboron](../E/Elboron.md), con trai của Faramir,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> trở thành Thân vương thứ hai của Ithilien.
 
 <span></span>
 

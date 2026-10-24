@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pirates of Pelargir"
 ---
 
-Chuyển hướng tới [Cướp biển Pelargir](../P/Pirates_of_Pelargir.md).
+Chuyển hướng đến [Cướp biển Pelargir](../P/Pirates_of_Pelargir.md).

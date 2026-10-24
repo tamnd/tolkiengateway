@@ -21,13 +21,13 @@ sort_keys:
   "Quenya names": "Erulaitale"
 ---
 
-<i><b>Erulaitalë</b></i> là một trong [Ba lời cầu nguyện](../T/Three_Prayers.md) mà [Các vị vua](../K/King_of_Númenor.md) và [Nữ hoàng](../R/Ruling_Queen_of_Númenor.md) của [Númenor](../N/Númenor.md) và người dân của họ gửi đến [Eru](../I/Ilúvatar.md). Nó được quan sát thấy vào [Giữa mùa hè](../M/Midsummer.md). *Erulaitalë* là một buổi lễ nhằm khen ngợi Eru vì những tác phẩm của cậu. Trong buổi lễ này, người cai trị Númenor và người dân của ông ta đã lên [Meneltarma](../M/Meneltarma.md) và thực hiện lễ hiến tế không đổ máu trên đỉnh núi.
+<i><b>Erulaitalë</b></i> là một trong [Ba lời cầu nguyện](../T/Three_Prayers.md) mà [Các vị vua](../K/King_of_Númenor.md) và [Các nữ hoàng](../R/Ruling_Queen_of_Númenor.md) của [Númenor](../N/Númenor.md) và người dân của họ đã thực hiện [Eru](../I/Ilúvatar.md). Nó được quan sát thấy vào [Giữa mùa hè](../M/Midsummer.md). *Erulaitalë* là một buổi lễ khen ngợi Eru vì những tác phẩm của ông. Trong buổi lễ này, người cai trị Númenor và người dân của ông ta đã lên [Meneltarma](../M/Meneltarma.md) và thực hiện lễ hiến tế không đổ máu trên đỉnh của nó.
 
-Trong buổi cầu nguyện, ba con Đại bàng lớn sẽ bay lượn trên Ngọn núi phía trên mọi người. Người Númenórean gọi họ là [Nhân chứng của Manwë](../W/Witnesses_of_Manwë.md) và tin rằng sự hiện diện của họ thể hiện sự chấp thuận của [Vị Vua Trưởng Lão](Elder_King.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong buổi cầu nguyện, ba Đại Bàng vĩ đại sẽ bay lượn trên Ngọn Núi phía trên mọi người. người Númenor gọi họ là [Nhân chứng của Manwë](../W/Witnesses_of_Manwë.md) và tin rằng sự hiện diện của họ thể hiện sự chấp thuận của [Trưởng lão Vua](Elder_King.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ *Erulaitalë* có nghĩa là "Ca ngợi Eru" trong [Quenya](../Q/Quenya.md), từ động từ *[laita-](../L/Laita-.md)* ("ca ngợi") + hậu tố danh nghĩa *[-lë](../_/-lë.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Từ *Erulaitalë* có nghĩa là "Khen ngợi Eru" trong [Quenya](../Q/Quenya.md), từ động từ *[laita-](../L/Laita-.md)* ("khen ngợi") + hậu tố danh nghĩa *[-lë](../_/-lë.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

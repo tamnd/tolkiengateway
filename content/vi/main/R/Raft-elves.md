@@ -21,23 +21,23 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/D/David_T._Wenzel_-_Raft-elves.jpg.md"><img src="https://tolkiengateway.net/w/images/7/76/David_T._Wenzel_-_Raft-elves.jpg" decoding="async" loading="lazy" width="287" height="300" class="mw-file-element" data-file-width="287" data-file-height="300"/></a><figcaption>A raft-elf portrayed by <a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a></figcaption></figure>
 
-**Yêu tinh đi bè** có lẽ là một nhóm [Yêu tinh trong rừng tối](../E/Elves_of_Mirkwood.md) sống trong một tập hợp các [túp lều](../H/Huts_of_the_raft-elves.md).<sup id="cite_ref-H9_1-0" class="reference"><a href="#cite_note-H9-1">[1]</a></sup>
+**bè-Tiên tộc** có lẽ là một nhóm [Mirkwood Tiên tộc](../E/Elves_of_Mirkwood.md) sống trong một tập hợp các [túp lều](../H/Huts_of_the_raft-elves.md).<sup id="cite_ref-H9_1-0" class="reference"><a href="#cite_note-H9-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Các yêu tinh đi bè đã chở hàng hóa trên [Sông Rừng](../F/Forest_River.md) giữa [Vương quốc Rừng](../W/Woodland_Realm.md) và [Esgaroth](../L/Lake-town.md). Những hàng hóa này được đựng trong các thùng buộc lại với nhau rồi cột hoặc chèo lên sông. Đôi khi họ còn dùng thuyền phẳng để chở hàng.<sup id="cite_ref-H9_1-1" class="reference"><a href="#cite_note-H9-1">[1]</a></sup>
+Chiếc bè-Tiên tộc chở hàng trên [Forest River](../F/Forest_River.md) giữa [Vương quốc Rừng](../W/Woodland_Realm.md) và [Esgaroth](../L/Lake-town.md). Những hàng hóa này được đựng trong các thùng buộc lại với nhau rồi cột hoặc chèo lên sông. Đôi khi họ còn dùng thuyền phẳng để chở hàng.<sup id="cite_ref-H9_1-1" class="reference"><a href="#cite_note-H9-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>The Raft-elves are a separate tribe of Nando and Sindar Elves, residing in the village of Celebannon upon the Forest River.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></dd></dl>
 
-<b>1989: <i><a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)">Người Hobbit</a></i>:</b>
+<b>1989: <i><a href="../T/The_Hobbit_(comic_book).md" title="The Hobbit (comic book)">The Hobbit</a></i>:</b>
 
 <dl><dd><a href="../D/David_T._Wenzel.md" title="David T. Wenzel">David T. Wenzel</a> portrayed the raft-elves as sturdy elves wearing garments in various tones of green.</dd></dl>
 
-<b>2007- : <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007- : <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Raft-elves live in the elven-settlement known as &#34;Loeglond&#34;, which continued to ferry goods from the <a href="../E/Elvenking&#39;s_Halls.md" title="Elvenking&#39;s Halls">Elvenking&#39;s Halls</a> of Felegoth, to the new <a href="../L/Lake-town.md" title="Lake-town">Lake-town</a> throughout and after the events of the <a href="../W/War_of_the_Ring.md" title="War of the Ring">War of the Ring</a>.</dd></dl>
 

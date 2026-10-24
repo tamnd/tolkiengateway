@@ -23,7 +23,7 @@ images:
 
 **Người tuyết** là dân tộc ở Bắc Cực, là dân tộc duy nhất sống gần gũi với [Ông già Noel](../F/Father_Christmas.md). Người làm vườn của ông, [Người Tuyết](Snow_Man.md), là anh cả trong số họ. Tất nhiên, họ không phải là người tuyết làm từ tuyết, như Cha Giáng sinh đã giải thích rõ ràng trong một bức thư; tuy nhiên trong một bức thư khác, ông nói rằng Người Tuyết đã tự làm gãy mình và ông đã dùng những gì còn lại của mình để vẽ một bức tranh màu trắng.
 
-Con cái của họ, Những cậu bé người tuyết thường giúp đỡ Ông già Noel, như một lần khi họ chiến đấu với [Yêu tinh](../G/Goblins.md). Một lần [Gấu Bắc Cực](../N/North_Polar_Bear.md) quá lười đóng gói quà và nó đã gọi các cậu bé Tuyết đến giúp đỡ dưới hầm (mặc dù họ không được phép vào đó) và bắt đầu chơi đùa, khiến lông của nó bị đốt cháy bởi bánh quy.
+Con cái của họ, những cậu bé Người Tuyết thường giúp đỡ Ông già Noel, như một lần khi họ chiến đấu với [Goblin](../G/Goblins.md). Một lần, [North Polar Bear](../N/North_Polar_Bear.md) quá lười đóng gói quà và cậu đã gọi các cậu bé Tuyết đến giúp đỡ dưới hầm (mặc dù họ không được phép vào đó) và bắt đầu chơi, khiến lông của cậu bị đốt cháy bởi bánh quy.
 
 <table style="margin:0 auto;" class="collapsible toccolours" align="center">
 <tbody><tr>

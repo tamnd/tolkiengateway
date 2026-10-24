@@ -73,7 +73,7 @@ Sự kiện xảy ra vào ngày 24 tháng 11
 - **[1948](1948.md)** - Nghệ sĩ [John Alvin](../J/John_Alvin.md) ra đời.
 - **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư 194b](../L/Letter_194b.md).
 - **[1959](1959.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 221](../L/Letter_221.md).
-- **[1964](1964.md)** - Robert Graves, [Giáo sư Thơ của Oxford](../U/University_of_Oxford.md), giới thiệu [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) với <a class="extiw" href="http://en.wikipedia.org/wiki/Ava_Gardner" title="wikipedia:Ava Gardner">Ava Gardner</a>. Họ chưa bao giờ nghe nói đến nhau và cả hai đều không biết tại sao người kia lại nổi tiếng.
+- **[1964](1964.md)** - Robert Graves, Giáo sư Thơ của [Oxford](../U/University_of_Oxford.md), giới thiệu [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) về <a class="extiw" href="http://en.wikipedia.org/wiki/Ava_Gardner" title="wikipedia:Ava Gardner">Ava Gardner</a>. Họ chưa bao giờ nghe nói đến nhau và cả hai đều không biết tại sao người kia lại nổi tiếng.
 - **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Harry C. Bauer](../L/Letter_to_Harry_C._Bauer.md).
 - **[2002](2002.md)** - [Ring\*Con 2002](../R/Ring%252ACon_2002.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2016](2016.md)** - *[Laughter in Middle-earth](../L/Laughter_in_Middle-earth.md)* được xuất bản.
@@ -81,4 +81,4 @@ Sự kiện xảy ra vào ngày 24 tháng 11
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

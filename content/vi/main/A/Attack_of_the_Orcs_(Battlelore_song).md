@@ -12,7 +12,7 @@ categories:
   - "Songs by Summoning"
 ---
 
-<i><b>Attack of the Orcs</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md). Nó xuất hiện trong album dài thứ hai của họ, [Sword's Song](../S/Sword's_Song.md), phát hành vào năm [2003](../_/2003.md).
+<i><b>Attack of the Orc</b></i> là một bài hát của ban nhạc epic metal [Battlelore](../B/Battlelore.md). Nó xuất hiện trong album dài thứ hai của họ, [Sword's Song](../S/Sword's_Song.md), phát hành vào năm [2003](../_/2003.md).
 
 ## Lời bài hát {#Lyrics}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Pwyll Prince of Dyved"
 ---
 
-Chuyển hướng tới [Pwyll Prince of Dyved](Pwyll_Prince_of_Dyved.md).
+Chuyển hướng đến [Pwyll Thân vương của Dyved](Pwyll_Prince_of_Dyved.md).

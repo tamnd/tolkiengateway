@@ -17,7 +17,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Middle-earth_Calendar_1999_(Finnish).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/9a/Middle-earth_Calendar_1999_%28Finnish%29.jpg/300px-Middle-earth_Calendar_1999_%28Finnish%29.jpg" decoding="async" loading="lazy" width="300" height="220" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/9a/Middle-earth_Calendar_1999_%28Finnish%29.jpg/450px-Middle-earth_Calendar_1999_%28Finnish%29.jpg 1.5x, https://tolkiengateway.net/w/images/9/9a/Middle-earth_Calendar_1999_%28Finnish%29.jpg 2x" data-file-width="478" data-file-height="350"/></a><figcaption></figcaption></figure>
 
-**Lịch Trung Địa 1999** do [Hiệp hội Tolkien Phần Lan](../F/Finnish_Tolkien_Society.md) sản xuất và bao gồm các hình minh họa bằng bút và mực của nhiều nghệ sĩ khác nhau.
+**Trung Địa Lịch 1999** do [Hiệp hội Tolkien Phần Lan](../F/Finnish_Tolkien_Society.md) sản xuất và bao gồm các hình minh họa bằng bút và mực của nhiều nghệ sĩ khác nhau.
 
 - Kích thước: 11 5/8 x 8,25 inch
 - Dập ghim

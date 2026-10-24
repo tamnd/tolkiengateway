@@ -13,7 +13,7 @@ categories:
   - "Sindarin nouns"
 ---
 
-**Hithui** là tên [Sindarin](../S/Sindarin.md) cho tháng thứ 11 trong năm, tương đương với [Quenya](../Q/Quenya.md) [Hísimë](Hísimë.md) và có thể so sánh với [Shire-hobbit](../S/Shire-hobbits.md)' [Blotmath](../B/Blotmath.md) và tháng 11 hiện đại. Tên của nó bắt nguồn từ từ tiếng Elf có nghĩa là 'sương mù' và nó đánh dấu sự kết thúc của mùa đông trên [Trung Địa](../M/Middle-earth.md). Sau khi Hithui bắt đầu, không có chuyến hành trình dài nào được thực hiện ở [Northlands](../N/Northlands.md) cho đến khi mùa xuân năm sau đến.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Hithui** là tên [Sindarin](../S/Sindarin.md) của tháng thứ 11 trong năm, tương đương với [Quenya](../Q/Quenya.md) [Hísimë](Hísimë.md) và có thể so sánh với [Shire-hobbit](../S/Shire-hobbits.md)' [Blotmath](../B/Blotmath.md) và tháng 11 hiện đại. Tên của nó xuất phát từ từ Elvish có nghĩa là 'sương mù' và nó đánh dấu sự xuống dốc của mùa đông vào [Trung Địa](../M/Middle-earth.md). Sau khi Hithui bắt đầu, không có chuyến hành trình dài nào được thực hiện ở [Northlands](../N/Northlands.md) cho đến khi mùa xuân năm sau đến.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

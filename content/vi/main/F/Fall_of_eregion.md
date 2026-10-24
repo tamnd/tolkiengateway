@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Sack of Eregion"
 ---
 
-Chuyển hướng tới [Bao phá Ekhu vực](../S/Sack_of_Eregion.md).
+Chuyển hướng đến [Cuộc cướp phá Eregion](../S/Sack_of_Eregion.md).

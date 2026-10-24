@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "West (disambiguation)"
 ---
 
-Chuyển hướng tới [Tây (định hướng)](<West_(disambiguation).md>).
+Chuyển hướng đến [Phương Tây (định hướng)](<West_(disambiguation).md>).

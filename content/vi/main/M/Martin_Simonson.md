@@ -42,17 +42,17 @@ images:
 ### Bài viết {#Articles}
 
 - [2005](../_/2005.md): Cormarë 8: *[Reconsidering Tolkien](../R/Reconsidering_Tolkien.md)*
-    - "Chúa tể của những chiếc nhẫn sau cuộc đại chiến: Chiến tranh, thơ ca, chủ nghĩa hiện đại và huyền thoại mỉa mai"
+    - "The Lord of the Rings sau cuộc đại chiến: Chiến tranh, thơ ca, chủ nghĩa hiện đại và huyền thoại mỉa mai"
 - [2006](../_/2006.md): *[Tolkien Studies: Volume 3](../T/Tolkien_Studies%253A_Volume_3.md)*
-    - "Ba là công ty: Tiểu thuyết, Truyện cổ tích và Lãng mạn trên hành trình xuyên Shire"
+    - "Ba là công ty: Tiểu thuyết, Truyện cổ tích và Lãng mạn trên hành trình xuyên qua Shire"
 - [2006](../_/2006.md): *[Tolkien and Modernity 2](../T/Tolkien_and_Modernity_2.md)*
     - "Giới thiệu về Động lực của Đối thoại Liên truyền thống trong *The Lord of the Rings*: Sự tiến hóa anh hùng của Aragorn"
 - [2007](../_/2007.md): *[Myth and Magic: Art according to the Inklings](Myth_and_Magic%253A_Art_according_to_the_Inklings.md)*
-    - "Khôi phục 'Vùng đất hoàn toàn xa lạ': Tolkien và chủ nghĩa siêu nghiệm"
+    - "Khôi phục 'Vùng đất hoàn toàn xa lạ': Tolkien và Chủ nghĩa siêu việt"
 - [2008](../_/2008.md): *[Tolkien's Shorter Works](../T/Tolkien's_Shorter_Works.md)*
     - "Định nghĩa lại người anh hùng lãng mạn: Đọc Smith của Wootton Major dưới ánh sáng Der Runenberg của Ludwig Tieck"
 - [2012](../_/2012.md): Cormarë 27: *[Sub-creating Middle-earth](../S/Sub-creating_Middle-earth.md)*
-    - "Cân bằng ba mặt của Tolkien: Một mô hình cứu chuộc của chủ nghĩa anh hùng cho thế kỷ XX"
+    - "Tolkien Cân bằng ba mặt: Một mô hình cứu chuộc của chủ nghĩa anh hùng cho thế kỷ XX"
 
 ## Liên kết ngoài {#External_links}
 

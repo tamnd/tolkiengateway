@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Hazards of the Harad Wood"
 ---
 
-Chuyển hướng tới [Mối nguy hiểm của rừng Harad](../H/Hazards_of_the_Harad_Wood.md).
+Chuyển hướng tới [Mối nguy hiểm của Harad Gỗ](../H/Hazards_of_the_Harad_Wood.md).

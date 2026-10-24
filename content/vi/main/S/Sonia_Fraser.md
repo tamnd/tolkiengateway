@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Fraser, Sonia"
 ---
 
-**Sonia Fraser** là nữ diễn viên đài phát thanh và đạo diễn sân khấu người Anh. Trong những năm 1980, bà là thành viên nòng cốt của [Công ty Phát thanh Quốc gia](../B/BBC.md). Vì vậy, cô đã lồng tiếng cho vai [Arwen](../A/Arwen.md) trong [*The Lord of the Rings* loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC 4.
+**Sonia Fraser** là nữ diễn viên đài phát thanh và đạo diễn sân khấu người Anh. Trong những năm 1980, bà là thành viên nòng cốt của [Công ty Phát thanh Quốc gia](../B/BBC.md). Vì vậy, cô đã lồng tiếng cho phần [Arwen](../A/Arwen.md) trong [*The Lord of the Rings* loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) phát sóng trên BBC 4.
 
 ## Liên kết ngoài {#External_links}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien, the Sea and Scandinavia"
 ---
 
-Chuyển hướng đến [Tolkien, Biển và Scandinavia](Tolkien,_the_Sea_and_Scandinavia.md).
+Chuyển hướng tới [Tolkien, Biển và Scandinavia](Tolkien,_the_Sea_and_Scandinavia.md).

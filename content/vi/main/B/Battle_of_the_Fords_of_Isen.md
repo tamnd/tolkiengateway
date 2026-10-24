@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Battles of the Fords of Isen"
 ---
 
-Chuyển hướng đến [Trận chiến sông Isen](Battles_of_the_Fords_of_Isen.md).
+Chuyển hướng đến [Trận chiến vượt cạn Isen](Battles_of_the_Fords_of_Isen.md).

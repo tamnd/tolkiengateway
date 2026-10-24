@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Faramir (son of Ondoher)"
 ---
 
-Chuyển hướng đến [Faramir (con trai của Ondoher)](<Faramir_(son_of_Ondoher).md>).
+Chuyển hướng tới [Faramir (con trai của Ondoher)](<Faramir_(son_of_Ondoher).md>).

@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Wain, John"
 ---
 
-**John Barrington Wain** ([14 tháng 3](../_/14_March.md), [1925](../_/1925.md) – [24 tháng 5](../_/24_May.md), [1994](../_/1994.md)) là một nhà thơ, tiểu thuyết gia và nhà phê bình người Anh, gắn liền với nhóm văn học The Movement. Ông là học sinh của [C.S. Lewis](../C/C.S._Lewis.md) và có một thời gian ngắn liên kết với [Inklings](../I/Inklings.md), nhưng không tham gia cùng họ.
+**John Barrington Wain** ([14 tháng 3](../_/14_March.md), [1925](../_/1925.md) – [24 tháng 5](../_/24_May.md), [1994](../_/1994.md)) là một nhà thơ, tiểu thuyết gia và nhà phê bình người Anh, gắn liền với nhóm văn học The Movement. Ông ta là sinh viên của [C.S. Lewis](../C/C.S._Lewis.md) và có một thời gian ngắn gắn bó với [Inklings](../I/Inklings.md), nhưng không tham gia cùng họ.
 
 ## Xem thêm {#See_also}
 

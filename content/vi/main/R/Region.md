@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Forest of Region"
 ---
 
-Chuyển hướng đến [Rừng của khu vực](../F/Forest_of_Region.md).
+Chuyển hướng đến [Rừng Region](../F/Forest_of_Region.md).

@@ -26,7 +26,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Ralph_Damiani_-_Meneltarma.png.md"><img src="https://tolkiengateway.net/w/images/thumb/6/64/Ralph_Damiani_-_Meneltarma.png/300px-Ralph_Damiani_-_Meneltarma.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/64/Ralph_Damiani_-_Meneltarma.png/450px-Ralph_Damiani_-_Meneltarma.png 1.5x, https://tolkiengateway.net/w/images/thumb/6/64/Ralph_Damiani_-_Meneltarma.png/600px-Ralph_Damiani_-_Meneltarma.png 2x" data-file-width="2133" data-file-height="1200"/></a><figcaption><i>Meneltarma</i> by <a href="../../category/I/Images_by_Ralph_Damiani.md" title="Category:Images by Ralph Damiani">Ralph Damiani</a></figcaption></figure>
 
-**Tarmasundar** hay "Rễ của các cột trụ", là năm đỉnh núi tạo nên chân của [Meneltarma](../M/Meneltarma.md), một ngọn núi ở giữa đảo [Númenor](../N/Númenor.md). Mỗi gốc kéo dài theo hướng năm mũi đất của hòn đảo đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Tarmasundar**, hay "Rễ của các cột", là năm rặng núi tạo nên chân của [Meneltarma](../M/Meneltarma.md), một ngọn núi ở giữa đảo [Númenor](../N/Númenor.md). Mỗi gốc kéo dài theo hướng năm mũi đất của hòn đảo đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -34,7 +34,7 @@ Tên này xuất phát từ các từ [Quenya](../Q/Quenya.md) <i><a class="new"
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh Meneltarma](../../category/I/Images_of_Meneltarma.md)
+- [Hình ảnh của Meneltarma](../../category/I/Images_of_Meneltarma.md)
 
 <span></span>
 

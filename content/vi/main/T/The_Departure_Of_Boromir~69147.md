@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Departure Of Boromir (soundtrack)"
 ---
 
-Chuyển hướng tới [Sự khởi hành của Boromir (nhạc phim)](<The_Departure_Of_Boromir_(soundtrack).md>).
+Chuyển hướng đến [Sự ra đi của Boromir (nhạc phim)](<The_Departure_Of_Boromir_(soundtrack).md>).

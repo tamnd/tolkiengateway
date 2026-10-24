@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Souza Aguirre, Francisco"
 ---
 
-- Francisco Souza Aguirre đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Francisco_Souza_Aguirre.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Francisco Souza Aguirre đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Francisco_Souza_Aguirre.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 12 tháng 5 năm 2023
 - Người dùng đã xin phép: [Người dùng:Yoritomito](https://tolkiengateway.net/wiki/User:Yoritomito)

@@ -25,7 +25,7 @@ Cũng có thể nó bắt nguồn từ [Old Sindarin](../O/Old_Sindarin.md) từ
 
 - <i><a href="../A/Amon_Ereb.md" title="Amon Ereb">Amon <b>Ereb</b></a></i> = "Ngọn đồi cô đơn"
 - <i><a href="../B/Bar-erib.md" title="Bar-erib">Bar <b>Erib</b></a></i> = "Ngôi nhà của những người cô đơn"
-- <i><a class="mw-redirect" href="Erebor.md" title="Erebor"><b>Ereb</b>hoặc</a></i> = "Ngọn núi cô đơn"
+- <i><a class="mw-redirect" href="Erebor.md" title="Erebor"><b>Ereb</b>hoặc</a></i> = "Ngọn Núi Cô Đơn"
 
 <span></span>
 

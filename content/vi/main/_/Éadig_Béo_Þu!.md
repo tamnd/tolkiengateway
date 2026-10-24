@@ -17,7 +17,7 @@ sort_keys:
   "Poems and songs in Songs for the Philologists": "Eadig Beo Þu"
 ---
 
-<i><b>Éadig Béo Þu!</b></i> là một bài hát [Tiếng Anh cổ](../O/Old_English.md) được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *Twinkle, Twinkle, Little Star*. Nó được xuất bản dưới dạng bài hát thứ 14 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](1936.md).
+<i><b>Éadig Béo Þu!</b></i> là bài hát [tiếng Anh cổ](../O/Old_English.md) được sáng tác bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của *Twinkle, Twinkle, Little Star*. Nó được xuất bản dưới dạng bài hát thứ 14 trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](1936.md).
 
 Bài hát được tái bản với bản dịch tiếng Anh hiện đại "Good Luck to You" trong *[The Road to Middle-earth](../T/The_Road_to_Middle-earth.md)* bởi [T.A. Shippey](../T/T.A._Shippey.md). Những sửa chữa do chính Tolkien thực hiện (sau khi in *Songs*) được ghi chú bên dưới.
 

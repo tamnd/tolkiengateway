@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_(Super_Cinema_Card).png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0d/The_Lord_of_the_Rings_%28Super_Cinema_Card%29.png/300px-The_Lord_of_the_Rings_%28Super_Cinema_Card%29.png" decoding="async" loading="lazy" width="300" height="373" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/0d/The_Lord_of_the_Rings_%28Super_Cinema_Card%29.png 1.5x" data-file-width="364" data-file-height="453"/></a><figcaption>Front of the card</figcaption></figure>
 
-<i><b>Chúa tể của những chiếc nhẫn</b></i> là một tấm thẻ kỷ niệm phim của [Ralph Bakshi](../R/Ralph_Bakshi.md) *[The Lord of the Rings](<The_Lord_of_the_Rings_(1978_film).md>)*. Thẻ được phát hành tại Ý vào khoảng [1993](../_/1993.md)-[1994](../_/1994.md) trong bộ *Super Cinema Cards* bởi một công ty tên là Due Emme Publishing. Tổng cộng có 144 thẻ đã được phát hành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>The Lord of the Rings</b></i> là thẻ kỷ niệm phim của [Ralph Bakshi](../R/Ralph_Bakshi.md) *[The Lord of the Rings](<The_Lord_of_the_Rings_(1978_film).md>)*. Thẻ được phát hành tại Ý vào khoảng [1993](../_/1993.md)-[1994](../_/1994.md) trong bộ *Super Cinema Cards* bởi một công ty tên là Due Emme Publishing. Tổng cộng có 144 thẻ đã được phát hành.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 Mặt trước của tấm thiệp tái hiện poster của bộ phim. Chữ viết ở mặt sau của tấm thiệp bằng tiếng Anh, trong đó ghi rõ đạo diễn, nhà sản xuất, biên kịch, nhà soạn nhạc và dàn diễn viên cũng như năm phát hành của bộ phim. Thẻ có kích thước 4 x 3 1/4" (10 x 8 cm).
 

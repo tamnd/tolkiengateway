@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Drúadan Forest"
 ---
 
-Chuyển hướng tới [Rừng Drúadan](Drúadan_Forest.md).
+Chuyển hướng đến [Rừng Drúadan](Drúadan_Forest.md).

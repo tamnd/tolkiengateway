@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../D/Dragons.md" title="Dragons">Dragon</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Lhamthanc</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data">Iamthanc</td></tr><tr><th scope="row" class="tg-infobox-label">Appeared</th><td class="tg-infobox-data">Unknown</td></tr></tbody></table>
 
-**Lhamthanc**, là tên của một [con rắn](../S/Serpents.md), loài mà hầu như không được biết đến ngoại trừ việc chúng có tên là rắn.<sup id="cite_ref-lhamthanc_1-0" class="reference"><a href="#cite_note-lhamthanc-1">[1]</a></sup> Có khả năng là trong trường hợp này, từ rắn thực sự có thể ám chỉ một trong những [rồng](../D/Dragons.md) của [Morgoth](../M/Morgoth.md) vì Tolkien thường mô tả rồng là sâu và rắn và Lhamthanc được nhắc đến bên cạnh [Gostir](../G/Gostir.md) ở *[The Etymologies](../T/The_Etymologies.md)*. Lhamthanc không được nhắc đến trong bất kỳ câu chuyện nào được biết đến.
+**Lhamthanc**, là tên của một [con rắn](../S/Serpents.md), loài mà hầu như không được biết đến ngoại trừ việc chúng có tên là rắn.<sup id="cite_ref-lhamthanc_1-0" class="reference"><a href="#cite_note-lhamthanc-1">[1]</a></sup> Có khả năng là trong trường hợp này, từ rắn thực sự có thể ám chỉ một trong những [rồng](../D/Dragons.md) của [Morgoth](../M/Morgoth.md) vì Tolkien thường mô tả rồng là sâu và rắn và Lhamthanc được đề cập bên cạnh [Gostir](../G/Gostir.md) ở *[The Etymologies](../T/The_Etymologies.md)*. Lhamthanc không được nhắc đến trong bất kỳ câu chuyện nào được biết đến.
 
 ## Từ nguyên {#Etymology}
 
@@ -38,7 +38,7 @@ infobox:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Lhamthanc ban đầu được gọi là <i><b>Iamthanc</b></i>, một tên Noldorin thời kỳ đầu có nghĩa là "rắn, (thắp) lưỡi chẻ", từ *lham(b)* ("lưỡi") và *thanc* (" sứt, chia, chẻ, chẻ, chẻ, chẻ; sứt, gãy, thủng").<sup id="cite_ref-iamthanc_2-0" class="reference"><a href="#cite_note-iamthanc-2">[2]</a></sup> Tuy nhiên, Tolkien cuối cùng đã chọn Lhamthanc cho tên.<sup id="cite_ref-lhamthanc_1-2" class="reference"><a href="#cite_note-lhamthanc-1">[1]</a></sup>
+Lhamthanc ban đầu được gọi là <i><b>Iamthanc</b></i>, một cái tên ban đầu Noldorin có nghĩa là "rắn, (thắp) lưỡi chẻ", từ *lham(b)* ("lưỡi") và *thanc* (" sứt, chia, chẻ, chẻ, chẻ, chẻ; chẻ, gãy, thủng").<sup id="cite_ref-iamthanc_2-0" class="reference"><a href="#cite_note-iamthanc-2">[2]</a></sup> Tuy nhiên, Tolkien cuối cùng đã chọn Lhamthanc cho trận đấu tên.<sup id="cite_ref-lhamthanc_1-2" class="reference"><a href="#cite_note-lhamthanc-1">[1]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 

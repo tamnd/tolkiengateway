@@ -37,7 +37,7 @@ infobox:
 
 **Andvír**, con trai của [Andróg](Andróg.md), là một [Người](../M/Men.md). Cùng với cha mình, anh là một kẻ sống ngoài vòng pháp luật trong ban nhạc có tên [Gaurwaith](../G/Gaurwaith.md) mà [Túrin Turambar](../T/Túrin.md) tham gia và sau đó lãnh đạo. Khi [Orc](../O/Orcs.md) tấn công nơi ẩn náu của Gaurwaith tại [Amon Rûdh](Amon_Rûdh.md), chỉ có ba người sống sót: Túrin (bị lũ Orc bắt giữ), [Beleg](../B/Beleg.md) (người mà Túrin vô tình giết sau khi Beleg sau đó giải cứu ông ta), và Andvír, người đã cùng những người tị nạn khác tìm đường đến Cảng.
 
-Khi đã rất già, ông đã cung cấp cho nhà thơ [Dírhaval](../D/Dírhaval.md) câu chuyện về Túrin và Gaurwaith, lấp đầy khoảng trống trong lịch sử của Túrin giữa chuyến bay từ [Doriath](../D/Doriath.md) và đến [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Khi đã rất già, ông đã cung cấp cho nhà thơ [Dírhaval](../D/Dírhaval.md) câu chuyện về Túrin và Gaurwaith, lấp đầy khoảng trống trong lịch sử của Túrin từ chuyến bay của ông từ [Doriath](../D/Doriath.md) đến khi ông đến [Nargothrond](../N/Nargothrond.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

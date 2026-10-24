@@ -37,7 +37,7 @@ infobox:
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i></b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i></b>
 
 <dl><dd>Though unidentified, a trio of Uruk-hai are encountered by Samwise Gamgee on the stairs of the tower after the battle. Since only one Uruk (<a class="mw-redirect" href="../S/Snaga_(Orc_of_Mordor)~50564.md" title="Snaga (Orc of Mordor)">Snaga</a>) was encountered by Sam on the stairs in the novel, it is likely that the other two are meant to be <a href="../L/Lagduf.md" title="Lagduf">Lagduf</a> and Muzgash.</dd></dl>
 

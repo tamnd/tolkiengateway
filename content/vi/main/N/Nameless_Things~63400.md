@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Nameless things"
 ---
 
-Chuyển hướng đến [Những thứ không tên](Nameless_things.md).
+Chuyển hướng đến [Kẻ Vô Danh thứ](Nameless_things.md).

@@ -36,7 +36,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/S/Stephen_Fry.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d6/Stephen_Fry.jpg/320px-Stephen_Fry.jpg" decoding="async" loading="lazy" width="320" height="255" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d6/Stephen_Fry.jpg/480px-Stephen_Fry.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d6/Stephen_Fry.jpg/640px-Stephen_Fry.jpg 2x" data-file-width="2392" data-file-height="1904"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Stephen John Fry</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Lifetime</th><td class="tg-infobox-data"><a href="../_/24_August.md" title="24 August">August 24</a>, <a href="../_/1957.md" title="1957">1957</a></td></tr><tr><th scope="row" class="tg-infobox-label">Portrayed</th><td class="tg-infobox-data"><a href="../M/Master_of_Lake-town.md" title="Master of Lake-town">Master of Lake-town</a> in:<br/><a href="../T/The_Hobbit_(film_series).md" title="The Hobbit (film series)"><i>The Hobbit</i> (film series)</a></td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/name/nm0000410/" rel="noreferrer noopener" target="_blank">Profile</a></td></tr></tbody></table>
 
-**Stephen John Fry** (b. [24 tháng 8](../_/24_August.md), [1957](../_/1957.md)) là một diễn viên, nhà biên kịch, tác giả, nhà viết kịch, nhà báo, nhà thơ, diễn viên hài, người dẫn chương trình truyền hình và đạo diễn phim người Anh. Anh đóng vai [Bậc thầy của Lake-town](../M/Master_of_Lake-town.md) trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
+**Stephen John Fry** (b. [24 tháng 8](../_/24_August.md), [1957](../_/1957.md)) là một diễn viên, nhà biên kịch, tác giả, nhà viết kịch, nhà báo, nhà thơ, diễn viên hài, người dẫn chương trình truyền hình và đạo diễn phim người Anh. Anh đóng vai [Bậc thầy Thị trấn Hồ](../M/Master_of_Lake-town.md) trong [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>).
 
 ## Trích dẫn {#Quotes}
 
@@ -66,7 +66,7 @@ infobox:
 
 ## Vai trò {#Roles}
 
-- [2013](../_/2013.md) - [2014](../_/2014.md): [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>): [Bậc thầy thị trấn hồ](../M/Master_of_Lake-town.md)
+- [2013](../_/2013.md) - [2014](../_/2014.md): [*The Hobbit* (loạt phim)](<../T/The_Hobbit_(film_series).md>): [Bậc thầy Thị trấn Hồ](../M/Master_of_Lake-town.md)
 
 ## Liên kết ngoài {#External_links}
 

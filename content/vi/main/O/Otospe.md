@@ -12,7 +12,7 @@ categories:
   - "Telerin numbers"
 ---
 
-**otospe** là số [Telerin](../T/Telerin.md) "eventeen"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**otosp** là số [Telerin](../T/Telerin.md) "eventeen"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

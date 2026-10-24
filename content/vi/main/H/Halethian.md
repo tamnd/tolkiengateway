@@ -25,15 +25,15 @@ images:
   - "CdxIconEdit.svg"
 ---
 
-Ngôn ngữ **Halethian** là [ngôn ngữ](../M/Mannish.md) của [Dân tộc Haleth](../F/Folk_of_Haleth.md), Gia tộc thứ hai của [Edain](../E/Edain.md).<sup id="cite_ref-Ros_1-0" class="reference"><a href="#cite_note-Ros-1">[1]</a></sup>
+Ngôn ngữ **Halethian** là [ngôn ngữ](../M/Mannish.md) của [Dân tộc Haleth](../F/Folk_of_Haleth.md), Ngôi nhà thứ hai của [Edain](../E/Edain.md).<sup id="cite_ref-Ros_1-0" class="reference"><a href="#cite_note-Ros-1">[1]</a></sup>
 
 Có rất ít thông tin về nó và nó đã biến mất hoàn toàn vào khoảng thời gian từ [F.A.](../F/First_Age.md) [501](../F/First_Age_501.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> đến [542](../F/First_Age_542.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Lịch sử {#History}
 
-Không giống như ngôn ngữ của [Dân tộc Hador](../F/Folk_of_Hador.md) và [Bëor](../F/Folk_of_Bëor.md), vốn có phần dễ hiểu với nhau, ngôn ngữ Halethian hoàn toàn không liên quan đến hai ngôn ngữ này, hoặc ở mức độ nào đó, nó đã tách ra khỏi tổ tiên của hai ngôn ngữ trước đây từ rất lâu trước khi Dân tộc Haleth đến [Beleriand](../B/Beleriand.md).<sup id="cite_ref-Haleth_6-0" class="reference"><a href="#cite_note-Haleth-6">[5]</a></sup>
+Không giống như ngôn ngữ của [Dân tộc Hador](../F/Folk_of_Hador.md) và [Bëor](../F/Folk_of_Bëor.md), vốn có phần dễ hiểu với nhau, ngôn ngữ Halethian hoàn toàn không liên quan đến hai ngôn ngữ này, hoặc, ở mức độ nào đó, nó đã tách ra khỏi tổ tiên của hai ngôn ngữ trước từ rất lâu trước khi Dân tộc Haleth đạt đến [Beleriand](../B/Beleriand.md).<sup id="cite_ref-Haleth_6-0" class="reference"><a href="#cite_note-Haleth-6">[5]</a></sup>
 
-Ngôn ngữ này đã tuyệt chủng ngay cả trước khi [Túrin Turambar](../T/Túrin_Turambar.md), một anh hùng bi thảm của [Thời đại thứ nhất](../F/First_Age.md), đến [Brethil](../B/Brethil.md) ở [F.A.](../F/First_Age.md) [496](../F/First_Age_496.md).<sup id="cite_ref-Ros_1-1" class="reference"><a href="#cite_note-Ros-1">[1]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+Ngôn ngữ này đã tuyệt chủng ngay cả trước khi [Túrin Turambar](../T/Túrin_Turambar.md), một anh hùng bi thảm của [Kỷ Đệ Nhất](../F/First_Age.md), đến [Brethil](../B/Brethil.md) ở [F.A.](../F/First_Age.md) [496](../F/First_Age_496.md).<sup id="cite_ref-Ros_1-1" class="reference"><a href="#cite_note-Ros-1">[1]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 ## Từ nguyên và tên gọi khác {#Etymology_and_other_names}
 
@@ -43,9 +43,9 @@ Ngôn ngữ này đã tuyệt chủng ngay cả trước khi [Túrin Turambar](.
 <p class="tg-quote-footer"><cite><a href="../G/Gandalf.md" title="Gandalf">Gandalf</a></cite></p>
 </blockquote></div></div>
 
-Thuật ngữ *Halethian* có thể là sự kết hợp của tên *[Haleth](Haleth.md)* (vị thủ lĩnh huyền thoại của Haladin trong Thời đại thứ nhất) + hậu tố *-ian* ("từ, liên quan đến hoặc giống"): cuối cùng có nguồn gốc từ [tiếng Latin](../L/Latin.md) *-iānnus*, tạo thành các tính từ thuộc về hoặc có nguồn gốc từ một danh từ.
+Thuật ngữ *Halethian* có thể là sự kết hợp của tên *[Haleth](Haleth.md)* (nữ thủ lĩnh huyền thoại của Haladin trong Kỷ Đệ Nhất) + hậu tố *-ian* ("từ, liên quan đến hoặc giống như"): cuối cùng có nguồn gốc từ [tiếng Latin](../L/Latin.md) *-iānnus*, tạo thành các tính từ thuộc về hoặc nguồn gốc từ một danh từ.
 
-Ngôn ngữ Halethian còn được gọi là ngôn ngữ <i><b>của Dân gian Haleth</b></i>.
+Ngôn ngữ Halethian còn được gọi là ngôn ngữ <i><b>của Dân tộc Haleth</b></i>.
 
 ## Danh sách từ {#Wordlist}
 
@@ -59,11 +59,11 @@ Ngôn ngữ Halethian còn được gọi là ngôn ngữ <i><b>của Dân gian 
 <p class="tg-quote-footer"><cite><a href="../G/Glóin.md" title="Glóin">Glóin</a></cite></p>
 </blockquote></div></div>
 
-Ban đầu, cái tên "[Taliska](../T/Taliska.md)" dùng để chỉ ngôn ngữ của Nhà [Bëor](House_of_Bëor.md) và *Haleth* trong khi [Nhà Hador](House_of_Hador.md) nói một ngôn ngữ khác, ngôn ngữ này cuối cùng được coi là [Adûnaic](../A/Adûnaic.md). Trong một văn bản ban đầu của Tolkien, một số từ mà ông gọi là Taliska đề cập đến các thuật ngữ mà trong phiên bản sau sẽ được [Haladin](Haladin.md) sử dụng. Tuy nhiên, sau này, trong bài tiểu luận "[Of Dwarves and Men](../O/Of_Dwarves_and_Men.md)" (xuất bản năm *[The Peoples of Middle-Earth](../T/The_Peoples_of_Middle-Earth~21908.md)*), Tolkien đã viết rằng người Bëor và người Halethian không nói các ngôn ngữ liên quan: Người Hadorian vẫn nói "tiếng Adûnaic cổ", và người Bëorian có một ngôn ngữ liên quan chặt chẽ; đó là ngôn ngữ của người Halethia không liên quan đến cả hai ngôn ngữ này (xem [tiền Númenorean](../P/Pre-Númenorean.md)).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Ban đầu, cái tên "[Taliska](../T/Taliska.md)" dùng để chỉ ngôn ngữ của Nhà [Bëor](House_of_Bëor.md) và *Haleth* trong khi đó [Nhà Hador](House_of_Hador.md) nói một ngôn ngữ khác, ngôn ngữ này cuối cùng sẽ được hình thành là [Adûnaic](../A/Adûnaic.md). Trong văn bản ban đầu của Tolkien, một số từ được anh gắn nhãn là Taliska đề cập đến các thuật ngữ mà trong phiên bản sau này sẽ được [Haladin](Haladin.md) sử dụng. Tuy nhiên, sau này, trong bài tiểu luận "[Of Dwarves and Men](../O/Of_Dwarves_and_Men.md)" (xuất bản năm *[The Peoples of Middle-Earth](../T/The_Peoples_of_Middle-Earth~21908.md)*), Tolkien đã viết rằng người Bëor và người Halethian không nói các ngôn ngữ liên quan: Người Hadorian vẫn nói "cổ Adûnaic", và người Bëorian có ngôn ngữ liên quan chặt chẽ; đó là ngôn ngữ của người Halethia không liên quan đến cả hai ngôn ngữ này (xem [tiền Númenorean](../P/Pre-Númenorean.md)).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- Một số ngôn ngữ [Tiền Númenóre](../P/Pre-Númenórean.md) (bao gồm [Dunlendish](../D/Dunlendish.md), hậu duệ trực tiếp của chúng ở [Kỷ nguyên thứ ba](../T/Third_Age.md)), gần giống với ngôn ngữ Halethian
+- Một số ngôn ngữ [TiềnNúmenórean](../P/Pre-Númenórean.md) (bao gồm [Dunlendish](../D/Dunlendish.md), hậu duệ trực tiếp của chúng trong [Kỷ Đệ Tam](../T/Third_Age.md)), gần giống với ngôn ngữ Halethian
 
 ## Ghi chú {#Notes}
 

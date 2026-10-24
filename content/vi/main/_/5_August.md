@@ -69,15 +69,15 @@ Sự kiện xảy ra vào ngày 5 tháng 8
 - **[1906](1906.md)** - Diễn viên [John Huston](../J/John_Huston.md) ra đời.
 - **[1937](1937.md)** - Diễn viên [Alan Howard](../A/Alan_Howard.md) ra đời.
 - **[1948](1948.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 116](../L/Letter_116.md).
-- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [hai bức thư gửi Jerome W. Archer](../L/Letters_to_Jerome_W._Archer.md), Giám đốc Thư viện tại [Đại học Marquette](../M/Marquette_University.md).
+- **[1957](1957.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [hai bức thư cho Jerome W. Archer](../L/Letters_to_Jerome_W._Archer.md), Giám đốc Thư viện tại [Đại học Marquette](../M/Marquette_University.md).
 - **[1969](1969.md)** - Nữ diễn viên [Kim Mai Guest](../K/Kim_Mai_Guest.md) ra đời.
 - **[1975](1975.md)** - Biên tập viên [Jabez Olssen](../J/Jabez_Olssen.md) ra đời.
 - **[1990](1990.md)** - [Mythcon 21](../M/Mythcon_21.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/California_State_University" title="wikipedia:California State University">Đại học bang California</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/Long_Beach,_California" title="wikipedia:Long Beach, California">Long Beach</a>.
 - **[1994](1994.md)** - [Mythcon 25](../M/Mythcon_25.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/American_University" title="wikipedia:American University">Đại học Mỹ</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Washington,_D.C." title="wikipedia:Washington, D.C.">Washington, D.C.</a>
 - **[1995](1995.md)** - [Mythcon 26](../M/Mythcon_26.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
 - **[2001](2001.md)** - [Mythcon 32](../M/Mythcon_32.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
-- <b><a href="2002.md" title="2002">2002</a> - <i><a href="../T/The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">Lịch sử Chỉ số Trung Địa</a></i> được xuất bản.</b>
-- **[2005](2005.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Minya</a> - Hội nghị quốc tế lần thứ nhất về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sweden" title="wikipedia:Sweden">Thụy Điển</a>.
+- <b><a href="2002.md" title="2002">2002</a> - <i><a href="../T/The_History_of_Middle-earth_Index.md" title="The History of Middle-earth Index">The History of Middle-earth Chỉ mục</a></i> được xuất bản.</b>
+- **[2005](2005.md)** - <a class="external text" href="http://omentielva.com/" rel="noreferrer noopener" target="_blank">Omentielva Minya</a> - Hội nghị quốc tế lần thứ 1 về các ngôn ngữ được phát minh của [Tolkien](../J/J.R.R._Tolkien.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Stockholm" title="wikipedia:Stockholm">Stockholm</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Sweden" title="wikipedia:Sweden">Thụy Điển</a>.
 - **[2005](2005.md)** - *[Perilous Realms: Celtic and Norse in Tolkien's Middle-earth](../P/Perilous_Realms%253A_Celtic_and_Norse_in_Tolkien's_Middle-earth.md)* được xuất bản.
 - **[2006](2006.md)** - [Mythcon 37](../M/Mythcon_37.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Oklahoma" title="wikipedia:University of Oklahoma">Đại học Oklahoma</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Norman,_Oklahoma" title="wikipedia:Norman, Oklahoma">Norman</a>.
 - **[2007](2007.md)** - [Mythcon 38](../M/Mythcon_38.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Berkeley,_California" title="wikipedia:Berkeley, California">Berkeley</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/California" title="wikipedia:California">California</a>.
@@ -86,7 +86,7 @@ Sự kiện xảy ra vào ngày 5 tháng 8
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - Đoàn tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).
+    - Đoàn rước tang lễ của vua [Théoden](../T/Théoden.md) đi về hướng [Edoras](../E/Edoras.md).

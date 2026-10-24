@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Great Gates"
 ---
 
-Chuyển hướng đến [Cổng lớn](Great_Gates.md).
+Chuyển hướng đến [Cổng Lớn](Great_Gates.md).

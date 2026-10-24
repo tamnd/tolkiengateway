@@ -12,7 +12,7 @@ categories:
   - "Elves"
 ---
 
-**Các thiếu nữ** chỉ được nhắc đến trong một bài hát được hát bởi [Yêu tinh](Elves.md) của [Rivendell](../R/Rivendell.md) khi [Bilbo](../B/Bilbo_Baggins.md) dừng lại ở đó trên đường về nhà sau chuyến phiêu lưu trong [Quest of Erebor](../Q/Quest_of_Erebor.md). Thuật ngữ này được dùng để mô tả những yêu tinh chưa lập gia đình.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Tiên-thiếu nữ** chỉ được nhắc đến trong một bài hát được hát bởi [Tiên tộc](Elves.md) của [Rivendell](../R/Rivendell.md) khi [Bilbo](../B/Bilbo_Baggins.md) dừng lại ở đó trên đường về nhà sau chuyến phiêu lưu trong [Nhiệm vụ của Erebor](../Q/Quest_of_Erebor.md). Thuật ngữ này được dùng để mô tả Tiên tộc chưa kết hôn.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

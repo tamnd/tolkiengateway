@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Bardings"
 ---
 
-Chuyển hướng tới [Thẻ bài](Bardings.md).
+Chuyển hướng đến [Bardings](Bardings.md).

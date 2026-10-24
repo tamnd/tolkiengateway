@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gimilkhâd"
 ---
 
-Chuyển hướng tới [Gimilkhâd](Gimilkhâd.md).
+Chuyển hướng đến [Gimilkhâd](Gimilkhâd.md).

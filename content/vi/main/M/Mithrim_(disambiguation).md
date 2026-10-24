@@ -14,13 +14,13 @@ images:
   - "Disambig.png"
 ---
 
-**Mithrim** có thể đề cập đến:
+**Mithrim** có thể tham khảo:
 
-- **[Mithrim](Mithrim.md)**, vùng đất ở phía bắc [Beleriand](../B/Beleriand.md)
-- **[Yêu tinh của Mithrim](../E/Elves_of_Mithrim.md)**, cư dân Tiên của Mithrim
+- **[Mithrim](Mithrim.md)**, một vùng đất phía Bắc [Beleriand](../B/Beleriand.md)
+- **[Tiên tộc của Mithrim](../E/Elves_of_Mithrim.md)**, Elvish cư dân của Mithrim
 - **[Hồ Mithrim](../L/Lake_Mithrim.md)**
-- **[Núi Mithrim](Mountains_of_Mithrim.md)**
-- **[Mithrimin](../N/North_Sindarin.md)**, ngôn ngữ của Yêu tinh Mithrim
+- **[Dãy Núi trong số Mithrim](Mountains_of_Mithrim.md)**
+- **[Mithrimin](../N/North_Sindarin.md)**, ngôn ngữ của Tiên tộc của Mithrim
 
 <hr style="margin-top:15px;"/>
 

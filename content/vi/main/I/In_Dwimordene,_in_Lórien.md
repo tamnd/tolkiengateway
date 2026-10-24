@@ -19,7 +19,7 @@ images:
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/73/CdxIconInfoFilled.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article describes a concept which is mentioned in <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s works, but was never given a definite name.
 </div></div>
 
-**In Dwimordene, in Lórien** được hát bởi [Gandalf](../G/Gandalf.md) ở [Meduseld](../M/Meduseld.md) vào [2 tháng 3](../_/2_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> như một câu trả lời cho tuyên bố xúc phạm của [Gríma Wormtongue](../G/Gríma.md) rằng "những mạng lưới lừa dối đã từng được dệt nên [Dwimorden](../D/Dwimordene.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**In Dwimordene, in Lórien** được [Gandalf](../G/Gandalf.md) hát trong [Meduseld](../M/Meduseld.md) vào ngày [2 tháng 3](../_/2_March.md) [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> như một câu trả lời cho tuyên bố xúc phạm của [Gríma Wormtongue](../G/Gríma.md) rằng "các mạng lưới lừa dối đã từng được dệt bằng [Dwimordene](../D/Dwimordene.md)".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Bài hát {#Song}
 

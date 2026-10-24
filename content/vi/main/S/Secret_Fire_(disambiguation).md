@@ -16,10 +16,10 @@ images:
 
 **Ngọn lửa bí mật** đề cập đến nhiều hơn một khái niệm:
 
-## Trung địa {#Middle-earth}
+## Trung Địa {#Middle-earth}
 
-- **[Ngọn lửa bí mật](Secret_Fire.md)**, sức mạnh sáng tạo của Ilúvatar, còn được gọi là **Ngọn lửa bất diệt**.
-- [Ngọn lửa Anor](../F/Flame_of_Anor.md), ánh sáng thuần khiết của Mặt trời, được đặt tên bởi [Gandalf](../G/Gandalf.md) cùng với Ngọn lửa Bí mật.
+- **[Ngọn lửa bí mật](Secret_Fire.md)**, sức mạnh sáng tạo của Ilúvatar hay còn gọi là **Ngọn Lửa Bất Diệt**.
+- [Ngọn lửa Anor](../F/Flame_of_Anor.md), ánh sáng thuần khiết của Mặt Trời, được đặt tên bởi [Gandalf](../G/Gandalf.md) cùng với Ngọn lửa Bí mật.
 
 ## Văn học {#Literature}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Rorimac Brandybuck"
 ---
 
-Chuyển hướng tới [Rorimac Brandybuck](Rorimac_Brandybuck.md).
+Chuyển hướng đến [Rorimac Brandybuck](Rorimac_Brandybuck.md).

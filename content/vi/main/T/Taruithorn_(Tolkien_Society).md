@@ -14,11 +14,11 @@ categories:
   - "Tolkien Societies"
 ---
 
-**Taruithorn, Hiệp hội Tolkien Oxford** là một [hội Tolkien](Tolkien_Societies~67099.md) ở Anh.
+**Taruithorn, Hội Oxford Tolkien** là một [Tolkien hội](Tolkien_Societies~67099.md) ở Anh.
 
 ## Lịch sử {#History}
 
-Taruithorn được thành lập vào năm 1990<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> tại Oxford, Anh. Đây vừa là một [Hiệp hội Tolkien](Tolkien_Society.md) vừa là một xã hội Tolkien độc lập dành cho sinh viên [Đại học Oxford](../O/Oxford_University.md).
+Taruithorn được thành lập vào năm 1990<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> tại Oxford, Anh. Đó vừa là một [Tolkien Hội](Tolkien_Society.md) vừa là một xã hội Tolkien độc lập dành cho sinh viên [Oxford Đại học](../O/Oxford_University.md).
 
 ## Sự kiện {#Events}
 

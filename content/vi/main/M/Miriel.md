@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Míriel (disambiguation)"
 ---
 
-Chuyển hướng tới [Míriel (định hướng)](<Míriel_(disambiguation).md>).
+Chuyển hướng đến [Míriel (định hướng)](<Míriel_(disambiguation).md>).

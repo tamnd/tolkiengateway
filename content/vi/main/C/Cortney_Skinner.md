@@ -26,7 +26,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Person</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Cortney Skinner</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Occupation</th><td class="tg-infobox-data">Artist</td></tr></tbody></table>
 
-**Cortney Skinner** là một nghệ sĩ giả tưởng người Mỹ. Vào những năm 1990, ông được [Iron Crown Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo tác phẩm nghệ thuật cho [Trò chơi sưu tập thẻ bài ở Trung Địa](../M/Middle-earth_Collectible_Card_Game.md).
+**Cortney Skinner** là một nghệ sĩ giả tưởng người Mỹ. Vào những năm 1990, ông được [Vương miện Sắt Enterprises](../I/Iron_Crown_Enterprises.md) ủy quyền sáng tạo nghệ thuật cho [Trung Địa Trò chơi thẻ sưu tập](../M/Middle-earth_Collectible_Card_Game.md).
 
 ## Xem thêm {#See_also}
 

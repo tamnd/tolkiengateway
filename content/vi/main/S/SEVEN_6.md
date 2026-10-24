@@ -47,7 +47,7 @@ infobox:
     - Bởi: Ralph E. Hone
 - "Giới thiệu về Chủ nghĩa Nhập thể và Thơ *Taliessin* của Charles Williams"
     - Bởi: John-Manuel Andriote
-- "*The Silmarillion* và sự trỗi dậy của cái ác: Nỗi đau khai sinh của Trung Địa"
+- "*The Silmarillion* và sự trỗi dậy của cái ác: Nỗi đau sinh ra của Trung Địa"
     - Bởi: Thomas M. Egan
 - Bài luận ôn tập:
     - "Tôi viết nó chỉ để cho vui"

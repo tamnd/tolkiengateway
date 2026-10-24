@@ -45,4 +45,4 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://eprints.whiterose.ac.uk/78192/1/Hall%26Kaislaniemi_editorille.pdf" rel="noreferrer noopener" target="_blank">"Bạn cám dỗ tôi một cách đau lòng bằng một bài tiểu luận thần thoại" (phiên bản trực tuyến)</a> tại Nghiên cứu Hoa Hồng Trắng trực tuyến
-- <a class="external text" href="http://dimitrafimi.com/on-hobbits-and-poetry-musings-on-newly-published-letters-by-tolkien/" rel="noreferrer noopener" target="_blank">Về người Hobbit và thơ ca: Suy nghĩ về những bức thư mới xuất bản của Tolkien</a> của [Dimitra Fimi](../D/Dimitra_Fimi.md)
+- <a class="external text" href="http://dimitrafimi.com/on-hobbits-and-poetry-musings-on-newly-published-letters-by-tolkien/" rel="noreferrer noopener" target="_blank">Về Hobbit và Thơ: Suy ngẫm về những lá thư mới xuất bản của Tolkien</a> của [Dimitra Fimi](../D/Dimitra_Fimi.md)

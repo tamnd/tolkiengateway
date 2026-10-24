@@ -57,7 +57,7 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-*Hiril* có nghĩa là "quý cô" trong [Sindarin](../S/Sindarin.md) (*[Hîr](Hîr.md)* + *[-il](../_/-il.md)*).
+*Hiril* có nghĩa là "quý bà" trong [Sindarin](../S/Sindarin.md) (*[Hîr](Hîr.md)* + *[-il](../_/-il.md)*).
 
 ## Phả hệ {#Genealogy}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien Gateway:Image policy"
 ---
 
-Chuyển hướng tới [Cổng Tolkien:Chính sách hình ảnh](Image_policy.md).
+Chuyển hướng tới [Tolkien Gateway:Chính sách hình ảnh](Image_policy.md).

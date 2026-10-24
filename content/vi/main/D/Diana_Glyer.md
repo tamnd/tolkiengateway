@@ -35,7 +35,7 @@ infobox:
 
 ## Cuộc sống {#Life}
 
-Glyer được giới thiệu với [Inklings](../I/Inklings.md) ở trường trung học. Cô đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và bắt đầu thấy hứng thú với tình bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md). Bà sẽ dành hai mươi năm để nghiên cứu mối quan hệ của họ, tập trung chủ yếu vào tính đầy đủ của các nguồn chính.
+Glyer được làm quen với [Inklings](../I/Inklings.md) ở trường trung học. Cô đọc *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và bắt đầu thấy hứng thú với tình bạn của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) và [C.S. Lewis](../C/C.S._Lewis.md). Bà sẽ dành hai mươi năm để nghiên cứu mối quan hệ của họ, tập trung chủ yếu vào tính đầy đủ của các nguồn chính.
 
 Năm 1997, Glyer nhận được *[Clyde S. Kilby](../C/Clyde_S._Kilby.md) Research Grant*. Giải thưởng ưu đãi này được Ban chỉ đạo của Trung tâm <a class="external text" href="http://www.wheaton.edu/wadecenter/" rel="noreferrer noopener" target="_blank">Marion E. Wade</a> trao tặng hàng năm cho một học giả tham gia vào một dự án có thể xuất bản liên quan đến một trong bảy tác giả mà Trung tâm tập trung vào. Mục đích của giải thưởng là để ghi nhận những đóng góp học thuật và cũng để hỗ trợ công việc của những người sử dụng tài nguyên của Trung tâm Wade. Khoản tài trợ này cho phép cô xuất bản <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=The_Company_They_Keep:_C.S._Lewis_and_J.R.R._Tolkien_as_Writers_in_Community&amp;action=edit&amp;redlink=1" title="The Company They Keep: C.S. Lewis and J.R.R. Tolkien as Writers in Community (page does not exist)">Công ty họ giữ: C.S. Lewis và J.R.R. Tolkien với tư cách là Nhà văn trong cộng đồng</a></i> trong [2006](../_/2006.md).
 
@@ -50,17 +50,17 @@ Năm 1997, Glyer nhận được *[Clyde S. Kilby](../C/Clyde_S._Kilby.md) Resea
 
 - [1995](../_/1995.md): *[Proceedings of the J.R.R. Tolkien Centenary Conference](../P/Proceedings_of_the_J.R.R._Tolkien_Centenary_Conference.md)*
     - "Hơn cả một Bandersnatch: Ảnh hưởng của Inklings tới Trung Địa của Tolkien"
-- [2003](../_/2003.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tollers_and_Jack:_A_Comparative_Look_at_the_Lives_and_works_of_J.R.R._Tolkien_and_C.S._Lewis&amp;action=edit&amp;redlink=1" title="Tollers and Jack: A Comparative Look at the Lives and works of J.R.R. Tolkien and C.S. Lewis (page does not exist)">Tollers và Jack: Cái nhìn so sánh về cuộc đời và tác phẩm của J.R.R. Tolkien và C.S. Lewis</a></i>
+- [2003](../_/2003.md): <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Tollers_and_Jack:_A_Comparative_Look_at_the_Lives_and_works_of_J.R.R._Tolkien_and_C.S._Lewis&amp;action=edit&amp;redlink=1" title="Tollers and Jack: A Comparative Look at the Lives and works of J.R.R. Tolkien and C.S. Lewis (page does not exist)">Tollers và Jack: Một cái nhìn so sánh về cuộc đời và tác phẩm của J.R.R. Tolkien và C.S. Lewis</a></i>
     - Lời nói đầu
 - [2007](../_/2007.md): [*Mythlore* 99/100](../M/Mythlore_99%252F100.md)
-    - "Trung tâm của những điều mơ hồ: Lewis? Tolkien? Barfield? Williams?"
+    - "Trung tâm của Inklings: Lewis? Tolkien? Barfield? Williams?"
 - [2007](../_/2007.md): [Huyền thoại 37](../M/Mythcon_37.md)
-    - "Thành thạo về học bổng: Đồng minh và trở ngại trong lĩnh vực nghiên cứu về những điều mơ hồ"
+    - "Thành thạo học bổng: Đồng minh và trở ngại trong lĩnh vực nghiên cứu Inklings"
 
 ## Giải thưởng {#Awards}
 
-- [2008](../_/2008.md) - **[Giải thưởng Học bổng Thần thoại trong Nghiên cứu về Inklings](../M/Mythopoeic_Society.md)** - *The Company They Keep*
-- [2007](../_/2007.md) - **[Giải thưởng Ngọn lửa bất diệt](../I/Imperishable_Flame_Award.md)**, Học bổng Tolkien/Inklings, *The Company They Keep*
+- [2008](../_/2008.md) - **[Giải thưởng học bổng thần thoại trong Inklings nghiên cứu](../M/Mythopoeic_Society.md)** - *The Company They Keep*
+- [2007](../_/2007.md) - **[Giải thưởng Ngọn lửa bất diệt](../I/Imperishable_Flame_Award.md)**, Tolkien/Inklings Học bổng, *The Company They Keep*
 
 ## Xem thêm {#See_also}
 

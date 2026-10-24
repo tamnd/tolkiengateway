@@ -67,19 +67,19 @@ Sự kiện xảy ra vào ngày 2 tháng 3
 ## Trên Trái đất {#On_Earth}
 
 - **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 4](../L/Letter_4.md).
-- **[1935](1935.md)** - Diễn viên người Anh [Stephen Thorne](../S/Stephen_Thorne.md) ra đời.
+- **[1935](1935.md)** - Nam diễn viên người Anh [Stephen Thorne](../S/Stephen_Thorne.md) ra đời.
 - **[1955](1955.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một lá thư cho Derrick Parnum](../L/Letter_to_Derrick_Parnum.md).
-- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khảo sát luận điểm của [Brian Miller](../B/Brian_Miller.md) về [Tiếng Anh Trung Cổ](../M/Middle_English.md) *Dame Sirith*.
-- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được phỏng vấn cho bài viết "[The Hobbit-forming World of J.R.R. Tolkien](../T/The_Hobbit-forming_World_of_J.R.R._Tolkien.md)".
+- **[1956](1956.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) khảo sát luận án của [Brian Miller](../B/Brian_Miller.md) về [Tiếng Anh Trung cổ](../M/Middle_English.md) *Dame Sirith*.
+- **[1966](1966.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được phỏng vấn về bài viết "[The Hobbit-forming World of J.R.R. Tolkien](../T/The_Hobbit-forming_World_of_J.R.R._Tolkien.md)".
 - **[2006](2006.md)** - *[The Lord of the Rings: The Battle for Middle-earth II](../T/The_Lord_of_the_Rings%253A_The_Battle_for_Middle-earth_II.md)* được phát hành trên PC và Xbox 360.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3019](../T/Third_Age_3019.md):
-    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) đi đến cuối [Đầm lầy Chết](../D/Dead_Marshes.md).
-    - [Gandalf](../G/Gandalf.md) đến [Edoras](../E/Edoras.md) và chữa lành cho [Théoden](../T/Théoden.md). [Éomer](Éomer.md) được thả ra và Théoden lại giữ [thanh kiếm của mình](../H/Herugrim.md).
-    - [Wormtongue](../G/Gríma.md) bị trục xuất và sau đó được nhìn thấy đang dẫn lũ Orc tiến về phía bắc.
-    - Gandalf được mệnh danh là chúa tể của [Rohan](../R/Rohan.md) và [Shadowfax](../S/Shadowfax.md) chính thức chuyển giao cho ông ta. [Rohirrim](../R/Rohirrim.md) tiến về phía tây chống lại [Saruman](../S/Saruman.md).
-    - [Trận chiến sông cạn Isen lần thứ hai](../S/Second_Battle_of_the_Fords_of_Isen.md), [Erkenbrand](../E/Erkenbrand.md) bị đánh bại.
+    - [Frodo](../F/Frodo_Baggins.md), [Sam](../S/Samwise_Gamgee.md) và [Gollum](../G/Gollum.md) nằm ở cuối [Đầm lầy Chết](../D/Dead_Marshes.md).
+    - [Gandalf](../G/Gandalf.md) đến [Edoras](../E/Edoras.md) và chữa lành [Théoden](../T/Théoden.md). [Éomer](Éomer.md) được thả ra và Théoden lại giữ [thanh kiếm của ông ta](../H/Herugrim.md).
+    - [Wormtongue](../G/Gríma.md) bị trục xuất và sau đó được nhìn thấy dẫn Orc về phía bắc.
+    - Gandalf được mệnh danh là chúa tể của [Rohan](../R/Rohan.md) và [Shadowfax](../S/Shadowfax.md) chính thức chuyển giao cho ông ta. [Rohirrim](../R/Rohirrim.md) đi về phía tây chống lại [Saruman](../S/Saruman.md).
+    - [Trận vượt sông thứ hai của Isen](../S/Second_Battle_of_the_Fords_of_Isen.md), [Erkenbrand](../E/Erkenbrand.md) bị đánh bại.
     - [Entmoot](../E/Entmoot.md) kết thúc vào buổi chiều.
-    - Các [Ent](../E/Ents.md) hành quân đến [Isengard](../I/Isengard.md) và đến đó vào ban đêm.
+    - Cuộc hành quân [Ent](../E/Ents.md) vào [Isengard](../I/Isengard.md) và đến đó vào ban đêm.

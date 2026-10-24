@@ -16,7 +16,7 @@ sort_keys:
   "Qenya locations": "Ponorir"
 ---
 
-**Ponórir** là tên của phần phía bắc của [Great Lands](../G/Great_Lands.md), sau này được gọi là <a class="extiw" href="http://en.wikipedia.org/wiki/Scandinavia" title="wikipedia:Scandinavia">Scandinavia</a> (với **Ponórë** là tên [Qenya](../Q/Qenya.md) của <a class="extiw" href="http://en.wikipedia.org/wiki/Norway" title="wikipedia:Norway">Na Uy</a>), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) được liên kết với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Pon_1-0" class="reference"><a href="#cite_note-Pon-1">[1]</a></sup>
+**Ponórir** là tên của phần phía bắc của [Great Lands](../G/Great_Lands.md), sau này được gọi là <a class="extiw" href="http://en.wikipedia.org/wiki/Scandinavia" title="wikipedia:Scandinavia">Scandinavia</a> (với **Ponórë** là [Qenya](../Q/Qenya.md) tên của <a class="extiw" href="http://en.wikipedia.org/wiki/Norway" title="wikipedia:Norway">Na Uy</a>), theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*.<sup id="cite_ref-Pon_1-0" class="reference"><a href="#cite_note-Pon-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cemendur (King of Gondor)"
 ---
 
-Chuyển hướng tới [Cemendur (Vua Gondor)](<Cemendur_(King_of_Gondor).md>).
+Chuyển hướng đến [Cemendur (Vua Gondor)](<Cemendur_(King_of_Gondor).md>).

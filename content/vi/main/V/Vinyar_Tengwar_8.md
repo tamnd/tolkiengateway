@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/V/Vinyar_Tengwar_8.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0e/Vinyar_Tengwar_8.png/296px-Vinyar_Tengwar_8.png" decoding="async" loading="lazy" width="296" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/0e/Vinyar_Tengwar_8.png 1.5x" data-file-width="309" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Vinyar Tengwar 8</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../J/Jorge_Quiñónez.md" title="Jorge Quiñónez">Jorge Quiñónez</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a class="mw-redirect" href="../E/Edouard_Kloczko.md" title="Edouard Kloczko">Edouard Kloczko</a> (front cover)</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../E/Elvish_Linguistic_Fellowship.md" title="Elvish Linguistic Fellowship">Elvish Linguistic Fellowship</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">November <a href="../_/1989.md" title="1989">1989</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback journal</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">16</td></tr></tbody></table>
 
-<i><b>Vinyar Tengwar 8</b></i> là số thứ tám của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>Vinyar Tengwar 8</b></i> là số thứ tám của *[Vinyar Tengwar](Vinyar_Tengwar.md)*, một tạp chí chuyên nghiên cứu học thuật về các ngôn ngữ được phát minh ra của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 7</div></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_7.md" title="Vinyar Tengwar 7">Vinyar Tengwar 7</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 8</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">Vinyar Tengwar 9</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="Vinyar_Tengwar_9.md" title="Vinyar Tengwar 9">Vinyar Tengwar 9</a></div></div></div>
 
@@ -52,10 +52,10 @@ infobox:
 - E.L.F. News
 - Thư gửi *VT*
 
-- "Quan điểm về Tiên" — Edouard Kloczko
+- "Lượt xem trên Elvish" — Edouard Kloczko
 - "*Essitalmar*: Địa danh của Beleriand" (cột, có bản đồ gập) — Tom Loback
-- "Chuyển đổi trong bản dịch: Người lùn Bồ Đào Nha" (cột) — Arden R. Smith
-- "Thời kỳ của nhà triết học cổ đại" - Paul Nolan Hyde
+- "Chuyển đổi trong bản dịch: Tiếng Bồ Đào Nha Gnome" (cột) — Arden R. Smith
+- "Thời kỳ của nhà triết học cổ đại" — Paul Nolan Hyde
 
 <small>✫ chứa tài liệu chưa được xuất bản trước đây</small>
 

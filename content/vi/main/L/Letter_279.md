@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói với cháu trai của mình rằng khó có khả năng họ sẽ chuyển đến từ Oxford. Bất cứ thứ gì gần biển đều quá đắt. Ông ta không "lăn vàng" nhưng bằng cách tiếp tục làm việc, ông ta đã có thu nhập cao hơn nhu cầu của mình. Nếu không có may mắn từ công việc "không chuyên nghiệp" của mình, ông sẽ phải sống một cuộc sống bần hàn với mức lương chỉ bằng một phần tư. Một tác giả bán bất kỳ quyền nào đều coi số tiền thu được của mình bị đánh thuế là thu nhập, không giống như các tài sản khác. Ông ta không đủ khả năng chi trả *thousands* số tiền cần thiết cho một căn hộ hoặc một ngôi nhà gỗ gần biển.
+Tolkien nói với cháu trai rằng khó có khả năng họ sẽ chuyển đi khỏi Oxford. Bất cứ thứ gì gần biển đều quá đắt. Ông ta không "lăn vàng" nhưng bằng cách tiếp tục làm việc, ông ta đã có thu nhập cao hơn nhu cầu của mình. Nếu không có may mắn từ công việc "không chuyên nghiệp" của mình, ông sẽ phải sống một cuộc sống bần hàn với mức lương chỉ bằng một phần tư. Một tác giả bán bất kỳ quyền nào đều coi số tiền thu được của mình bị đánh thuế là thu nhập, không giống như các tài sản khác. Ông ta không đủ khả năng chi trả *thousands* số tiền cần thiết cho một căn hộ hoặc một ngôi nhà gỗ gần biển.
 
-Về mặt thu nhập, mọi việc diễn ra tốt đẹp. [Ace Books](../A/Ace_Books.md) đã bán được nhiều ấn bản lậu nhưng bị phát hiện in xấu và in sai, khiến nhiều tổ chức phải cấm sản phẩm của họ. Rumpus đã cung cấp quảng cáo miễn phí và Tolkien kỳ vọng rằng bìa mềm "được ủy quyền" sẽ bán được nhiều bản hơn nhờ nó. <br>
+Về mặt thu nhập, mọi việc diễn ra tốt đẹp. [Ace Books](../A/Ace_Books.md) đã bán được nhiều ấn bản lậu nhưng bị phát hiện in xấu và in sai, khiến nhiều tổ chức phải cấm sản phẩm của họ. Rumpus cung cấp quảng cáo miễn phí và Tolkien mong đợi rằng bìa mềm "được ủy quyền" sẽ bán được nhiều bản hơn nhờ nó. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

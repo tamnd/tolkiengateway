@@ -17,13 +17,13 @@ sort_keys:
 
 Vào [18 tháng 1](../_/18_January.md) [1948](../_/1948.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Rosemary**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-- **Chủ đề**: Tolkien trả lời thư cảm ơn *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* từ Rosemary.
-- **Ấn bản:** Được đề cập trong *[Người đồng hành và Hướng dẫn J.R.R. Tolkien](../T/The_J.R.R._Tolkien_Companion_and_Guide.md): Niên đại* (tr. 328) và một bản fax đã được xuất bản trong [Mallorn 36](../M/Mallorn_36.md)
+- **Chủ đề**: Tolkien trả lời thư cảm ơn của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* từ Rosemary.
+- **Ấn bản:** Được đề cập trong *[The J.R.R. Tolkien Companion and Guide](../T/The_J.R.R._Tolkien_Companion_and_Guide.md): Niên đại* (tr. 328) và một bản fax đã được xuất bản trong [Mallorn 36](../M/Mallorn_36.md)
 - **Mô tả:** Hai trang, viết tay, ký tên.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Thư gửi Rosemary (30 tháng 9 năm 1947)](<Letter_to_Rosemary_(30_September_1947).md>)
+- [Thư gửi Rosemary (30 tháng Chín 1947)](<Letter_to_Rosemary_(30_September_1947).md>)
 
 <span></span>
 

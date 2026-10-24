@@ -35,4 +35,4 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Wyrmvater Glaurung</b></i> là ca khúc thứ sáu trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Glaurung](../G/Glaurung.md), con đầu tiên của [những con rồng](../D/Dragons.md) và là một trong những trung úy hàng đầu của [Morgoth](../M/Morgoth.md) trong [Thời đại đầu tiên](../F/First_Age.md).
+<i><b>Wyrmvater Glaurung</b></i> là ca khúc thứ sáu trong album [Dol Guldur](<../D/Dol_Guldur_(album).md>) của ban nhạc [Summoning](../S/Summoning.md). Tên bài hát được lấy từ [Glaurung](../G/Glaurung.md), người đầu tiên của [những con rồng](../D/Dragons.md) và là một trong những trung úy hàng đầu của [Morgoth](../M/Morgoth.md) trong [Kỷ Đệ Nhất](../F/First_Age.md).

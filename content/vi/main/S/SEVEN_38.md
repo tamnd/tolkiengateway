@@ -39,18 +39,18 @@ infobox:
 
 - "Một bức thư đáng ngạc nhiên: Cách trao đổi thư từ giữa Karl Barth và Dorothy L. Sayers làm mẫu cho bài diễn văn thần học duyên dáng"
     - Bởi: David W. McNutt
-- "Tolkien như một câu chuyện ngụ ngôn: Một nghiên cứu về Smith của Wooton Major"
+- "Tolkien như câu chuyện ngụ ngôn: Một nghiên cứu về Smith của Wooton Major"
     - Bởi: Graham Shea
 - "Owen Barfield về Khoa học, Công nghệ và Cuộc khủng hoảng ý nghĩa hiện đại"
     - Bởi: Landon Loftin
-- "Coleridge, Tolkien và sức mạnh của sự ám chỉ trong chiếc lá của Niggle"
+- "Coleridge, Tolkien, và Sức mạnh của sự ám chỉ trong chiếc lá của Niggle"
     - Bởi: Doug Jackson
 - "C.S. Lewis's Tháp bóng tối và tên bạo chúa bên trong"
     - Bởi: David Rozema
 - Đánh giá sách:
     - "Đánh giá về C.S. Lewis của Stewart Goetz"
         - Bởi: James Beitler
-    - "Đánh giá về Hậu nhân loại: Hướng dẫn về C.S. Lewis Sự bãi bỏ con người của Michael Ward"
+    - "Đánh giá về Hậu nhân loại: Hướng dẫn về Sự bãi bỏ con người của C.S. Lewis bởi Michael Ward"
         - Bởi: Louis Markos
     - "Nhìn lại việc theo đuổi tâm linh trần thế: C.S. Lewis và Đức tin nhập thể của Gary Selby"
         - Bởi: Trang Kristen
@@ -58,7 +58,7 @@ infobox:
         - Bởi: Đọc Schuchardt
     - "Đánh giá về những tưởng tượng trẻ em của George MacDonald và trí tưởng tượng thần thánh của Colin Manlove"
         - Bởi: Christiana N. Peterson
-    - "Đánh giá về Hiệp hội ngưỡng mộ lẫn nhau: Dorothy L. Sayers và Hội Oxford của bà đã tái tạo thế giới cho phụ nữ như thế nào của Mo Moulton"
+    - "Đánh giá về Hiệp hội ngưỡng mộ lẫn nhau: Dorothy L. Sayers và Vòng tròn Oxford của bà đã tái tạo thế giới cho phụ nữ như thế nào của Mo Moulton"
         - Bởi: Crystal L. Downing
     - "Đánh giá về một câu chuyện mơ hồ bằng tiếng Do Thái: C. S. Lewis về Judaisim và người Do Thái của P. H. Brazier"
         - Bởi: Andrew Barron
@@ -72,18 +72,18 @@ infobox:
         - Bởi: Carrie Care
     - "Đánh giá về Tolkien & Thế giới cổ điển của Hamish Williams"
         - Bởi: Joel D. Ruark
-    - "Đánh giá về pháp luật, chính phủ và xã hội trong tác phẩm J.R.R. Tolkien của José María Miranda Boto"
+    - "Đánh giá về luật pháp, chính phủ và xã hội trong tác phẩm J.R.R. Tolkien của José María Miranda Boto"
         - Bởi: David Llewellyn Dodds
-    - "Đánh giá về Charles Williams và C.S. Lewis: Những người bạn đồng gắn kết của Paul S. Fiddes"
+    - "Đánh giá về Charles Williams và C.S. Lewis: Những người bạn đồng liên kết của Paul S. Fiddes"
         - Bởi: Brian Horne
 - Sách ghi chú
-    - Perelandra huyền bí: Tôi đọc C.S. Lewis suốt đời và cuốn sách yêu thích của ông
+    - Perelandra huyền bí: Tôi đọc C.S. Lewis cả đời và cuốn sách yêu thích của ông
         - Bởi: James Como
     - Sự lãnh đạo của C.S. Lewis: Mười đặc điểm khuyến khích thay đổi và phát triển
         - Bởi: Crystal Hurd
-    - Tình bạn trong Chúa tể của những chiếc nhẫn
+    - Tình bạn trong The Lord of the Rings
         - Bởi: Cristina Casagrande
-    - Cảm giác về những câu chuyện chưa được kể: Khám phá các góc cạnh của bức vẽ văn học của Tolkien
+    - Cảm giác về những câu chuyện chưa kể: Khám phá các khía cạnh của bức tranh văn học của Tolkien
         - Bởi: Peter Grybauskas
     - Loremasters và Thư viện trong khoa học viễn tưởng và giả tưởng: Một Gedenkschrift dành cho David D. Oberhelman
         - Bởi: Jason Fisher và Janet Brennan Croft, biên tập.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>

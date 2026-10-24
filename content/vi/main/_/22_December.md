@@ -78,4 +78,4 @@ Sự kiện xảy ra vào ngày 22 tháng 12
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Chiếc nhẫn duy nhất](../T/The_One_Ring.md).
+    - Các [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho [nhiệm vụ](../Q/Quest_of_the_Ring.md) tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

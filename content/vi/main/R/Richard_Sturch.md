@@ -22,7 +22,7 @@ sort_keys:
   "Tolkien Society members": "Sturch, Richard"
 ---
 
-Tiến sĩ **Richard Sturch** là một linh mục Anh giáo, Thư ký của <a class="external text" href="http://www.charleswilliamssociety.org.uk/index.html" rel="noreferrer noopener" target="_blank">Hiệp hội Charles Williams</a>và cũng hoạt động tích cực trong [Hiệp hội Tolkien](../T/The_Tolkien_Society.md). Ông đã viết nhiều tiểu luận và sách về [Cơ đốc giáo](../C/Christianity.md) và [Inklings](../I/Inklings.md).
+Tiến sĩ **Richard Sturch** là một linh mục Anh giáo, Thư ký của Hội <a class="external text" href="http://www.charleswilliamssociety.org.uk/index.html" rel="noreferrer noopener" target="_blank">Charles Williams Hội</a>, và cũng hoạt động trong lĩnh vực [Hội Tolkien](../T/The_Tolkien_Society.md). Ông đã viết nhiều tiểu luận và sách về [Kitô giáo](../C/Christianity.md) và [Inklings](../I/Inklings.md).
 
 ## Thư mục {#Bilbiography}
 
@@ -37,9 +37,9 @@ Tiến sĩ **Richard Sturch** là một linh mục Anh giáo, Thư ký của <a 
 - [1979](../_/1979.md): [*Amon Hen* 41](../A/Amon_Hen_41.md)
     - "Ký ức sống cuối cùng"
 - [1980](../_/1980.md): [*Amon Hen* 46](../A/Amon_Hen_46.md)
-    - "Về loài Orc và những điều kỳ lạ khác"
+    - "Của Orc và những điều kỳ lạ khác"
 - [2008](../_/2008.md): *[The Ring Goes Ever On: Proceedings of the Tolkien 2005 Conference](../T/The_Ring_Goes_Ever_On%253A_Proceedings_of_the_Tolkien_2005_Conference.md)*
-    - "Về Tolkien, và Williams, và Tolkien trên Williams"
+    - "Trên Tolkien, và Williams, và Tolkien trên Williams"
 - [2012](../_/2012.md): *VATES - Tạp chí Thơ Latinh Mới*
     - "2 bài hát từ Erus Anulorum"
 

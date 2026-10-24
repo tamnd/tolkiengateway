@@ -13,12 +13,12 @@ categories:
   - "Quenya adjectives"
 ---
 
-<i><b>ancalima</b></i> là [Quenya](../Q/Quenya.md) có nghĩa là "rất sáng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>ancalima</b></i> là [Quenya](../Q/Quenya.md) dành cho "rất sáng".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Examples}
 
-- <i><a href="Aiya_Eärendil_elenion_ancalima!.md" title="Aiya Eärendil elenion ancalima!">Aiya Eärendil elenion <b>ancalima</b>!</a></i> = "Kính chào Eärendil **sáng nhất** của các vì sao!"
-- <i><a href="Aiya.md" title="Aiya">Aiya</a> <a href="../E/Elen.md" title="Elen">elenion</a> <b>ancalima</b>!</i> = "Mưa đá **sáng nhất** của các vì sao!"
+- <i><a href="Aiya_Eärendil_elenion_ancalima!.md" title="Aiya Eärendil elenion ancalima!">Aiya Eärendil elenion <b>ancalima</b>!</a></i> = "Mưa đá Eärendil **sáng nhất** của các vì sao!"
+- <i><a href="Aiya.md" title="Aiya">Aiya</a> <a href="../E/Elen.md" title="Elen">elenion</a> <b>ancalima</b>!</i> = "Mưa đá **sáng nhất** của các ngôi sao!"
 
 <span></span>
 

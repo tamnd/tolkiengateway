@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Grey Havens"
 ---
 
-Chuyển hướng đến [Grey Havens](../G/Grey_Havens.md).
+Chuyển hướng đến [Cảng Xám](../G/Grey_Havens.md).

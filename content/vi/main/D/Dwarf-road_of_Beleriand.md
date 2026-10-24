@@ -26,20 +26,20 @@ images:
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article is about <b>the Dwarf-road through Beleriand</b>. For the the Dwarf-road through Mirkwood, see <b><a href="../O/Old_Forest_Road.md" title="Old Forest Road">Old Forest Road</a></b>.</div></div>
 
-**Con đường dành cho người lùn** là con đường được [Người lùn vùng núi xanh](Dwarves_of_the_Blue_Mountains.md) xây dựng làm tuyến đường thương mại đến [Yêu tinh](../E/Elves.md) của [Beleriand](../B/Beleriand.md) và [Doriath](Doriath.md).<sup id="cite_ref-Doriath_1-0" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup> Từ các thành phố [Nogrod](../N/Nogrod.md) và [Belegost](../B/Belegost.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nó đi qua dưới vai của [Núi Dolmed](Dolmed.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> rồi chạy về phía tây dọc theo bờ bắc của [Sông Ascar](../A/Ascar.md) nhiều dặm và đi vào [Đông Beleriand](../E/East_Beleriand.md) nơi nó vượt qua [Sông Gelion](../G/Gelion.md) tại Khúc cua [Sarn Athrad](../S/Sarn_Athrad.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Người lùn-đường** là con đường được xây dựng bởi [Người Lùn của Dãy Núi Xanh](Dwarves_of_the_Blue_Mountains.md) làm tuyến đường thương mại đến [Tiên tộc](../E/Elves.md) [Beleriand](../B/Beleriand.md) và [Doriath](Doriath.md).<sup id="cite_ref-Doriath_1-0" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup> Từ các thành phố [Nogrod](../N/Nogrod.md) và [Belegost](../B/Belegost.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> nó đi qua vai [Núi Dolmed](Dolmed.md)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> rồi chạy về phía tây dọc theo phía bắc bờ [Sông Ascar](../A/Ascar.md) nhiều dặm và vào [Đông Beleriand](../E/East_Beleriand.md) nơi nó vượt qua [Sông Gelion](../G/Gelion.md) tại Khúc cạn [Sarn Athrad](../S/Sarn_Athrad.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Lịch sử {#History}
 
-[Finrod Felagund](../F/Finrod_Felagund.md) đã sử dụng Đường dành cho Người lùn để băng qua Gelion tại Sarn Athrad trước khi băng qua phần thượng lưu của Sông [Ascar](../A/Ascar.md) ngay trước khi anh phát hiện ra những [Người](../M/Men.md) đầu tiên (người dân [Bëor](../B/Bëor.md)) để đi về phía tây bên ngoài [Ered Lindon](../B/Blue_Mountains.md). Chẳng bao lâu sau, những Người đàn ông khác đã sử dụng Đường dành cho người lùn để vào vùng đất phía tây: Đầu tiên là [Haladin](../H/Haladin.md), người đã rẽ về phía bắc thành [Thargelion](../T/Thargelion.md). Tiếp theo, [Marach](../M/Marach.md) đưa người của mình xuống con đường Người Lùn để định cư ở phía nam và phía đông nơi ở của [Baran](../B/Baran.md) con trai Bëor.
+[Finrod Felagund](../F/Finrod_Felagund.md) đã sử dụng đường Người lùn để băng qua Gelion tại Sarn Athrad trước khi băng qua thượng nguồn sông [Ascar](../A/Ascar.md) ngay trước khi anh phát hiện ra [Con Người](../M/Men.md) đầu tiên (người dân của [Bëor](../B/Bëor.md)) đi về phía tây vượt qua [Ered Lindon](../B/Blue_Mountains.md). Chẳng bao lâu sau, Con Người khác đã sử dụng đường Người lùn để vào vùng đất phía tây: Đầu tiên là [Haladin](../H/Haladin.md), họ rẽ về hướng bắc vào [Thargelion](../T/Thargelion.md). Tiếp theo, [Marach](../M/Marach.md) đưa người của mình xuôi theo con đường Người lùn đến định cư ở phía nam và phía đông nơi ở của [Baran](../B/Baran.md) con trai Bëor.
 
-Đúng lúc [Morgoth](../M/Morgoth.md), quyết định tấn công những Người đàn ông này, đã cử một cuộc đột kích của lũ Orc về phía đông, sau đó sử dụng những con đường của Người lùn để tấn công Haladin.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Đúng lúc [Morgoth](../M/Morgoth.md), quyết định tấn công những Con Người này, đã gửi một cuộc đột kích Orc về phía đông, sau đó sử dụng các lối đi của đường Người lùn để tấn công Haladin.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
-Sau cuộc bao vây [Menegroth](../M/Menegroth.md) Người lùn đang hành quân về phía đông trên con đường Người lùn thì họ bị tấn công trong [Trận chiến Sarn Athrad](../B/Battle_of_Sarn_Athrad.md).<sup id="cite_ref-Doriath_1-1" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
+Sau bao tải [Menegroth](../M/Menegroth.md) quân Người Lùn đang hành quân về phía đông trên đường Người lùn thì họ bị tấn công ở [Trận Sarn Athrad](../B/Battle_of_Sarn_Athrad.md).<sup id="cite_ref-Doriath_1-1" class="reference"><a href="#cite_note-Doriath-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
-- [Đường Nam Cũ (Beleriand)](<../O/Old_South_Road_(Beleriand).md>)
-- [Đường Đông (Beleriand)](<../E/East_Road_(Beleriand).md>)
+- [Đường Nam cũ (Beleriand)](<../O/Old_South_Road_(Beleriand).md>)
+- [phương Đông Đường (Beleriand)](<../E/East_Road_(Beleriand).md>)
 
 <span></span>
 

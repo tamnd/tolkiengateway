@@ -44,19 +44,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Representations_of_Nature_in_Middle-earth.jpg.md"><img src="https://tolkiengateway.net/w/images/5/55/Representations_of_Nature_in_Middle-earth.jpg" decoding="async" loading="lazy" width="280" height="420" class="mw-file-element" data-file-width="280" data-file-height="420"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Representations of Nature in Middle-earth</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Martin Simonson</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/7_July.md" title="7 July">7 July</a> <a href="../_/2015.md" title="2015">2015</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">235</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-3-905703-34-4" title="Special:BookSources/978-3-905703-34-4">978-3-905703-34-4</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../D/Deep_Roots_in_a_Time_of_Frost.md" title="Deep Roots in a Time of Frost">Deep Roots in a Time of Frost</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../L/Laughter_in_Middle-earth.md" title="Laughter in Middle-earth">Laughter in Middle-earth</a></td></tr></tbody></table>
 
-<i><b>Những biểu hiện của thiên nhiên ở Trung địa</b></i> là tập hợp các bài tiểu luận do Martin Simonson biên tập nghiên cứu về thiên nhiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 34 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
+<i><b>Những biểu hiện của thiên nhiên trong Trung Địa</b></i> là tập hợp các bài tiểu luận do Martin Simonson biên tập xem xét thiên nhiên trong các tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Nó được xuất bản ở vị trí thứ 34 trong *[Cormarë Series](../C/Cormarë_Series.md)*.
 
 ## Nội dung {#Contents}
 
-- "'Biến đổi những cây vững chắc': Chủ nghĩa sinh học Sylvan trong Chúa tể của những chiếc nhẫn" của Andrea Denekamp
-- "'Khi chúng ta đến gần những ngọn núi': Thiên nhiên và vẻ đẹp trong trái tim người lùn" của Jessica Seymour
-- "'Sau tấm màn mưa xám': Nước, nỗi buồn và sự chữa lành trong Chúa tể của những chiếc nhẫn" của Gabriela Silva Rivero
-- "Eru sẽ bước vào Ëa: Niềm hy vọng sáng tạo-Cánh chung của J.R.R. Tolkien" bởi Yannick Imbert
+- "'Biến đổi những cây vững chắc': Chủ nghĩa sinh học Sylvan trong The Lord of the Rings" của Andrea Denekamp
+- "'Khi chúng ta đến gần những ngọn núi': Thiên nhiên và vẻ đẹp trong trái tim Người Lùn" của Jessica Seymour
+- "'Sau tấm màn mưa xám': Nước, Nỗi buồn và Sự chữa lành trong The Lord of the Rings" của Gabriela Silva Rivero
+- "Eru sẽ tham gia Ëa: Niềm hy vọng sáng tạo-Cánh chung của J.R.R. Tolkien" của Yannick Imbert
 - "Suy nghĩ với các yếu tố: Sinh thái học và bản thể học hướng đối tượng của J.R.R. Tolkien" của Christopher Roman
-- "Trên những cái cây ở Trung địa: Sự sáng tạo thần thoại của J.R.R. Tolkien" của Magdalena Mączyńska
-- "Trong ký ức sống động: Cây cối và phong cảnh Sylvan của Tolkien như những ẩn dụ về ký ức văn hóa" của Doris McGonagill
-- "Một góc nhìn của New Zealand về kiến tạo ở Trung Địa" của Peter Hodder
-- "'Lá vàng ở đó mọc lên': Lothlórien, Chủ nghĩa hậu thuộc địa và Sinh thái" của Gabriel Ertsgaard
+- "Trên cây của Trung Địa: Sự sáng tạo thần thoại của J.R.R. Tolkien" của Magdalena Mączyńska
+- "Trong Ký ức Sống: Cây cối và Phong cảnh Sylvan của Tolkien như những ẩn dụ về Ký ức Văn hóa" của Doris McGonagill
+- "Một góc nhìn New Zealand về kiến tạo Trung Địa" của Peter Hodder
+- "'Leaves of Gold There Grew': Lothlórien, Chủ nghĩa hậu thuộc địa và Sinh thái" của Gabriel Ertsgaard
 
 ## Từ nhà xuất bản {#From_the_publisher}
 

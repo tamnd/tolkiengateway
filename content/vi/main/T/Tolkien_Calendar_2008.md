@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien_Calendar_2008.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/5/58/Tolkien_Calendar_2008.jpg/320px-Tolkien_Calendar_2008.jpg" decoding="async" loading="lazy" width="320" height="316" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/5/58/Tolkien_Calendar_2008.jpg/480px-Tolkien_Calendar_2008.jpg 1.5x, https://tolkiengateway.net/w/images/5/58/Tolkien_Calendar_2008.jpg 2x" data-file-width="500" data-file-height="493"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien Calendar 2008</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data"><a href="../A/Alan_Lee.md" title="Alan Lee">Alan Lee</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../H/HarperCollins.md" title="HarperCollins">HarperCollins</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2_July.md" title="2 July">2 July</a> <a href="../_/2007.md" title="2007">2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Calendar</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-00-725602-7" title="Special:BookSources/0-00-725602-7">0-00-725602-7</a> (UK)<br/><a href="https://tolkiengateway.net/wiki/Special:BookSources/0-06-133815-X" title="Special:BookSources/0-06-133815-X">0-06-133815-X</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2007.md" title="Tolkien Calendar 2007">Tolkien Calendar 2007</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Tolkien_Calendar_2009.md" title="Tolkien Calendar 2009">Tolkien Calendar 2009</a></td></tr></tbody></table>
 
-<i><b>Lịch Tolkien 2008</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [2 tháng 7](../_/2_July.md) [2007](../_/2007.md). Nó có tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) dựa trên *[The Children of Húrin](The_Children_of_Húrin.md)*.
+Lịch <i><b>Tolkien năm 2008</b></i> là lịch Tolkien chính thức được xuất bản bởi [HarperCollins](../H/HarperCollins.md) vào [2 tháng 7](../_/2_July.md) [2007](../_/2007.md). Nó có tác phẩm nghệ thuật của [Alan Lee](../A/Alan_Lee.md) dựa trên *[The Children of Húrin](The_Children_of_Húrin.md)*.
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -51,16 +51,16 @@ infobox:
 
 ## Minh họa {#Illustrations}
 
-- Tháng 1 - "[Húrin và Húor được đưa tới Gondolin](../../file/A/Alan_Lee_-_Húrin_and_Huor_are_Carried_to_Gondolin.jpg.md)"
-- Tháng 2 - "[Cánh cổng của Angband](../../file/A/Alan_Lee_-_Battle_of_Sudden_Flame.jpg.md)"
-- Tháng 3 - "[Lời của Húrin và Morgoth](../../file/A/Alan_Lee_-_The_Words_of_Húrin_and_Morgoth.jpg.md)"
-- Tháng 4 - "[Beleg khởi hành từ Menegroth](../../file/A/Alan_Lee_-_Beleg_Departs_from_Menegroth.jpg.md)"
+- Tháng 1 - "[Húrin và Húor được chuyển đến Gondolin](../../file/A/Alan_Lee_-_Húrin_and_Huor_are_Carried_to_Gondolin.jpg.md)"
+- Tháng 2 - "[Ngày Cổng Angband](../../file/A/Alan_Lee_-_Battle_of_Sudden_Flame.jpg.md)"
+- Tháng 3 - "[Lời nói của Húrin và Morgoth](../../file/A/Alan_Lee_-_The_Words_of_Húrin_and_Morgoth.jpg.md)"
+- Tháng 4 - "[Beleg Khởi hành từ Menegroth](../../file/A/Alan_Lee_-_Beleg_Departs_from_Menegroth.jpg.md)"
 - Tháng 5 - "[Amon Rûdh](../../file/A/Alan_Lee_-_Amon_Rûdh.jpg.md)"
-- Tháng 6 - "[Túrin, Lãnh chúa Dor-Cúarthol](../../file/A/Alan_Lee_-_Túrin_Turambar_Tall.jpg.md)"
-- Tháng 7 - "[Sự rèn luyện lại Anglachel](../../file/A/Alan_Lee_-_The_Reforging_of_Anglachel.jpg.md)"
-- Tháng 8 - "[Turin trở thành Brethil](../../file/A/Alan_Lee_-_The_Coming_of_Túrin_into_Brethil.jpg.md)"
-- Tháng 9 - "[Hành trình của Morwen và Níenor tới Nargothrond](../../file/A/Alan_Lee_-_The_Journey_of_Morwen_and_Níenor_to_Nargothrond.jpg.md)"
-- Tháng 10 - "[Mablung tiến đến cánh cửa Nargothrond](../../file/A/Alan_Lee_-_Fall_of_Nargothrond.jpg.md)"
+- Tháng Sáu - "[Túrin, Chúa tể của Dor-Cúarthol](../../file/A/Alan_Lee_-_Túrin_Turambar_Tall.jpg.md)"
+- Tháng 7 - "[Việc rèn lại Anglachel](../../file/A/Alan_Lee_-_The_Reforging_of_Anglachel.jpg.md)"
+- Tháng 8 - "[Sự xuất hiện của Túrin thành Brethil](../../file/A/Alan_Lee_-_The_Coming_of_Túrin_into_Brethil.jpg.md)"
+- tháng Chín - "[Hành trình của Morwen và Níenor tới Nargothrond](../../file/A/Alan_Lee_-_The_Journey_of_Morwen_and_Níenor_to_Nargothrond.jpg.md)"
+- Tháng 10 - "[Mablung Tiến đến cánh cửa Nargothrond](../../file/A/Alan_Lee_-_Fall_of_Nargothrond.jpg.md)"
 - Tháng 11 - "[Sự xuất hiện của Glaurung](../../file/A/Alan_Lee_-_The_Coming_of_Glaurung.jpg.md)"
 - Tháng 12 - "[Cái chết của Túrin](../../file/A/Alan_Lee_-_The_Death_of_Túrin.jpg.md)"
 
@@ -82,8 +82,8 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94400" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2008 - Những đứa con của Húrin</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
-- <a class="external text" href="http://tolkiencalendars.com/2008_2009.html" rel="noreferrer noopener" target="_blank">Lịch Tolkien 2008 - 2009</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde to Tolkien Calendars</a>
+- <a class="external text" href="http://www.tolkienbooks.net/php/caldetails.php?reference=94400" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2008 - The Children of Húrin</a> tại <a class="external text" href="http://www.tolkienbooks.net" rel="noreferrer noopener" target="_blank">TolkienBooks.net</a>
+- <a class="external text" href="http://tolkiencalendars.com/2008_2009.html" rel="noreferrer noopener" target="_blank">Tolkien Lịch 2008 - 2009</a> tại <a class="external text" href="http://tolkiencalendars.com/" rel="noreferrer noopener" target="_blank">The Compleat Gyde tới Tolkien Lịch</a>
 
 <table style="margin:0 auto;" class="collapsible toccolours" width="100%" align="center">
 <tbody><tr>

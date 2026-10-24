@@ -13,7 +13,7 @@ categories:
   - "Parodies"
 ---
 
-**RiffTrax** là các bài bình luận bằng âm thanh có thể tải xuống, trong đó nhà văn <a class="extiw" href="http://en.wikipedia.org/wiki/Michael_J._Nelson" title="wikipedia:Michael J. Nelson">Mike Nelson</a> và những vị khách thỉnh thoảng xem các bộ phim bom tấn (hoặc "riff"). Ý tưởng này được lấy từ chương trình trước đó của Nelson, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mystery_Science_Theater_3000" title="wikipedia:Mystery Science Theater 3000">Mystery Science Theater 3000</a></i>, trong đó những bộ phim hạng B cũ hoặc dở sẽ bị chê bai. Vì lý do bản quyền, ý tưởng mới của Nelson được bán trực tuyến dưới dạng tệp âm thanh có thể phát qua DVD.
+**RiffTrax** là những bài bình luận bằng âm thanh có thể tải xuống, trong đó nhà văn <a class="extiw" href="http://en.wikipedia.org/wiki/Michael_J._Nelson" title="wikipedia:Michael J. Nelson">Mike Austin Nelson</a> và những vị khách không thường xuyên xem những bộ phim bom tấn (hoặc "riff"). Ý tưởng này được lấy từ chương trình trước đó của Nelson, <i><a class="extiw" href="http://en.wikipedia.org/wiki/Mystery_Science_Theater_3000" title="wikipedia:Mystery Science Theater 3000">Mystery Science Theater 3000</a></i>, trong đó những bộ phim hạng B cũ hoặc dở sẽ bị chê bai. Vì lý do bản quyền, ý tưởng mới của Nelson được bán trực tuyến dưới dạng tệp âm thanh có thể phát qua DVD.
 
 Các đoạn riff được tạo từ cả ba bản chiếu rạp của *[the movie trilogy](<../T/The_Lord_of_the_Rings_(film_series).md>)*:
 
@@ -24,6 +24,6 @@ Các đoạn riff được tạo từ cả ba bản chiếu rạp của *[the mo
 ## Liên kết ngoài {#External_links}
 
 - <b><a class="external text" href="http://www.rifftrax.com/" rel="noreferrer noopener" target="_blank">Trang web chính thức</a></b>
-    - <a class="external text" href="http://www.rifftrax.com/rifftrax/lord-rings-fellowship-ring" rel="noreferrer noopener" target="_blank">Hiệp hội nhẫn</a>
-    - <a class="external text" href="http://www.rifftrax.com/rifftrax/lord-rings-two-towers" rel="noreferrer noopener" target="_blank">Hai tòa tháp</a>
+    - <a class="external text" href="http://www.rifftrax.com/rifftrax/lord-rings-fellowship-ring" rel="noreferrer noopener" target="_blank">The Fellowship of the Ring</a>
+    - <a class="external text" href="http://www.rifftrax.com/rifftrax/lord-rings-two-towers" rel="noreferrer noopener" target="_blank">The Two Towers</a>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/RiffTrax" title="wikipedia:RiffTrax">RiffTrax</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>

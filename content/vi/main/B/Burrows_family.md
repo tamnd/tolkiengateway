@@ -24,13 +24,13 @@ langlinks:
     url: "https://kontu.wiki/Onkaloinen"
 ---
 
-**Gia đình Burrows** là một gia đình [Hobbit](../H/Hobbits.md) quan trọng của [Shire](../T/The_Shire.md).
+Gia đình **Burrows** là một gia đình [Hobbit](../H/Hobbits.md) quan trọng của [gia đình Shire](../T/The_Shire.md).
 
 Số nhiều đúng của tên là "Burrowses".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Có một mối liên hệ gia đình giữa Burrowses và [Bagginses](Baggins_family.md): Anh họ xa của Bilbo [Peony Baggins](../P/Peony_Baggins.md) đã kết hôn với [Milo Burrows](../M/Milo_Burrows.md) và họ có với nhau bốn người con.<sup id="cite_ref-Baggins_2-0" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup>
+Có một mối liên hệ gia đình giữa Hang Sóc và [Bagginses](Baggins_family.md): Anh họ xa của Bilbo là [Peony Baggins](../P/Peony_Baggins.md) đã kết hôn với [Milo Burrows](../M/Milo_Burrows.md) và họ có với nhau bốn người con.<sup id="cite_ref-Baggins_2-0" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup>
 
 Công ty [Messrs Grubb, Grubb và Burrowes](../M/Messrs_Grubb,_Grubb_and_Burrowes.md) chịu trách nhiệm bán đấu giá tài sản của Bilbo.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
@@ -40,7 +40,7 @@ Một số thành viên đã có mặt tại [Bữa tiệc chia tay](Bilbo's_Far
 
 ## Phả hệ {#Genealogy}
 
-Hiển thị các thành viên nổi bật của tộc Burrows.<sup id="cite_ref-Baggins_2-2" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> Những con số sau tên là những con số ngày sinh. Một đường đứt nét biểu thị hôn nhân. Những cái tên trong *italics* biểu thị những người đã tham dự [Bữa tiệc chia tay của Bilbo](Bilbo's_Farewell_Party.md) vào [22 tháng 9](../_/22_September.md) [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).
+Hiển thị các thành viên nổi bật của tộc Burrows.<sup id="cite_ref-Baggins_2-2" class="reference"><a href="#cite_note-Baggins-2">[2]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup> Những con số sau tên là những con số ngày sinh. Một đường đứt nét biểu thị hôn nhân. Những cái tên trong *italics* biểu thị những người đã tham dự [Tiệc chia tay của Bilbo](Bilbo's_Farewell_Party.md) vào ngày [22 tháng Chín](../_/22_September.md) [S.R.](../S/Shire_Reckoning.md) [1401](../T/Third_Age_3001.md).
 
 <div class="tg-familytree"><table class="citizen-overflow" cellspacing="0" cellpadding="0" border="0" align="center" style="">
 <tbody><tr align="center"><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../D/Druda_Burrows.md" title="Druda Burrows">Druda Burrows</a></td><td colspan="2" class="tg-familytree-connector tg-familytree-connector--bottom tg-familytree-connector--dotted"><div style="width: 2em; height: 1em;"></div></td><td class="tg-familytree-member" colspan="6" rowspan="2" style=""><a href="../R/Rollo_Boffin.md" title="Rollo Boffin">Rollo Boffin</a></td><td rowspan="2" colspan="2"><div style="width: 2em; height: 2em;"></div></td></tr><tr align="center"><td class="tg-familytree-connector tg-familytree-connector--right"><div style="width: 1em; height: 1em;"></div></td><td><div style="width: 1em; height: 1em;"></div></td></tr>
@@ -56,7 +56,7 @@ Hiển thị các thành viên nổi bật của tộc Burrows.<sup id="cite_ref
 
 <span><div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Tiêu đề này thể hiện cách viết khác của tên "Burrows", nhưng mục đích của nó là giống nhau. Xem 
-<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">Sự trở lại của bóng tối</a></i>, "Giai đoạn đầu tiên: I. <a href="../A/A_Long-expected_Party_(chapter_in_The_Return_of_the_Shadow).md" title="A Long-expected Party (chapter in The Return of the Shadow)">Bữa tiệc được mong đợi từ lâu</a>, (i) Phiên bản đầu tiên"</span>
+<a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>, <a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a> (ed.), <i><a href="../T/The_Return_of_the_Shadow.md" title="The Return of the Shadow">The Return of the Shadow</a></i>, "Giai đoạn đầu tiên: I. <a href="../A/A_Long-expected_Party_(chapter_in_The_Return_of_the_Shadow).md" title="A Long-expected Party (chapter in The Return of the Shadow)">Một bữa tiệc được mong đợi từ lâu</a>, (i) Phiên bản đầu tiên"</span>
 </li>
 </ol></div></span>
 

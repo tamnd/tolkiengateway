@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Annúminas-stone"
 ---
 
-Chuyển hướng tới [Annúminas-stone](../A/Annúminas-stone.md).
+Chuyển hướng đến [Viên đá Annúminas](../A/Annúminas-stone.md).

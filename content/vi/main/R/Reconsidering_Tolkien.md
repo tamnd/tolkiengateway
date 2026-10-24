@@ -39,19 +39,19 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Reconsidering_Tolkien.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/64/Reconsidering_Tolkien.jpg/320px-Reconsidering_Tolkien.jpg" decoding="async" loading="lazy" width="320" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/64/Reconsidering_Tolkien.jpg 1.5x" data-file-width="333" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Reconsidering Tolkien</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../T/Thomas_M._Honegger.md" title="Thomas M. Honegger">Thomas M. Honegger</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../W/Walking_Tree_Publishers.md" title="Walking Tree Publishers">Walking Tree Publishers</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/15_April.md" title="15 April">15 April</a> <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">212</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/3905703009" title="Special:BookSources/3905703009">3905703009</a></td></tr><tr><th scope="row" class="tg-infobox-label">Series</th><td class="tg-infobox-data"><a href="../C/Cormarë_Series.md" title="Cormarë Series">Cormarë Series</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Recovery_and_Transcendence_for_the_Contemporary_Mythmaker.md" title="Recovery and Transcendence for the Contemporary Mythmaker">Recovery and Transcendence for the Contemporary Mythmaker</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../T/Tolkien_and_Modernity_1.md" title="Tolkien and Modernity 1">Tolkien and Modernity 1</a></td></tr></tbody></table>
 
-<i><b>Xem xét lại Tolkien</b></i> là cuốn thứ tám trong bộ *[Cormarë Series](../C/Cormarë_Series.md)* của Walking Tree. Đó là một tập hợp của một số bài tiểu luận.
+<i><b>Xem xét lại Tolkien</b></i> là cuốn thứ tám trong bộ *[Cormarë Series](../C/Cormarë_Series.md)* của Cây biết đi. Đó là một tập hợp của một số bài tiểu luận.
 
 ## Nội dung {#Contents}
 
-- Marion Gymnich: "Xem xét lại ngôn ngữ học của Trung Địa: Ngôn ngữ được phát minh và các đặc điểm ngôn ngữ khác trong Chúa tể của những chiếc nhẫn của J.R.R. Tolkien"
-- [Eduardo Segura](../E/Eduardo_Segura.md) và Guillermo Peris: "Tolkien với tư cách là nhà ghi chép triết học"
-- [Thomas M. Honegger](../T/Thomas_M._Honegger.md): "Tolkien qua con mắt của một nhà thời Trung cổ"
-- Paul E. Kerry: "Suy nghĩ về Chúa tể của những chiếc nhẫn và lịch sử của J.R.R. Tolkien"
-- [Nataša Tučev](../N/Nataša_Tučev.md): "Con dao, vết chích và chiếc răng: Những biểu hiện của bóng tối trong Chúa tể của những chiếc nhẫn"
+- Marion Gymnich: "Xem xét lại ngôn ngữ học của Trung Địa: Ngôn ngữ được phát minh và các đặc điểm ngôn ngữ khác trong J.R.R. Tolkien của The Lord of the Rings"
+- [Eduardo Segura](../E/Eduardo_Segura.md) và Guillermo Peris: "Tolkien với tư cách là Philo-Logist"
+- [Thomas M. Honegger](../T/Thomas_M._Honegger.md): "Tolkien Qua con mắt của một nhà thời Trung Cổ"
+- Paul E. Kerry: "Suy nghĩ về The Lord of the Rings của J.R.R. Tolkien và Lịch sử"
+- [Nataša Tučev](../N/Nataša_Tučev.md): "Con dao, Sting và Răng: Biểu hiện của Bóng Tối trong The Lord of the Rings"
 - Jean-Christophe Dufau: "Không gian thần thoại trong tác phẩm của Tolkien"
-- Dirk Vanderbeke: "Ngôn ngữ, kiến thức và học tập trong Chúa tể những chiếc nhẫn"
-- [Martin Simonson](../M/Martin_Simonson.md): "Chúa tể của những chiếc nhẫn sau cuộc đại chiến: Chiến tranh, Thơ ca, Chủ nghĩa hiện đại và Huyền thoại mỉa mai"
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Connie_Veugen&amp;action=edit&amp;redlink=1" title="Connie Veugen (page does not exist)">Connie Veugen</a>: "'Một người đàn ông gầy, đen, cao': Aragorn được nhìn qua các phương tiện truyền thông khác nhau". Bài luận này có thể được đọc <i><a class="external text" href="http://dare.ubvu.vu.nl/bitstream/1871/10975/1/Aragorn_Final.pdf" rel="noreferrer noopener" target="_blank">tại đây</a></i>.
+- Dirk Vanderbeke: "Ngôn ngữ, kiến thức và học tập trong The Lord of the Rings"
+- [Martin Simonson](../M/Martin_Simonson.md): "The Lord of the Rings sau cuộc đại chiến: Chiến tranh, thơ ca, chủ nghĩa hiện đại và huyền thoại mỉa mai"
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Connie_Veugen&amp;action=edit&amp;redlink=1" title="Connie Veugen (page does not exist)">Connie Veugen</a>: "'Một người đàn ông gầy, da ngăm, cao': Aragorn Được nhìn qua các phương tiện truyền thông khác nhau". Bài luận này có thể được đọc <i><a class="external text" href="http://dare.ubvu.vu.nl/bitstream/1871/10975/1/Aragorn_Final.pdf" rel="noreferrer noopener" target="_blank">tại đây</a></i>.
 
 <br clear="all"/>
 

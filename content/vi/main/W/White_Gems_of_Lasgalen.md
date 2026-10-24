@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Necklace of Girion"
 ---
 
-Chuyển hướng tới [Vòng cổ của Girion](../N/Necklace_of_Girion.md).
+Chuyển hướng đến [Vòng cổ của Girion](../N/Necklace_of_Girion.md).

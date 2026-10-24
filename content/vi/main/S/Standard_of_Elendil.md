@@ -11,4 +11,4 @@ redirect_target: "Livery of the heirs of Elendil"
 redirect_fragment: "Standard of Elendil"
 ---
 
-Chuyển hướng tới [Trang phục của những người thừa kế Elendil](../L/Livery_of_the_heirs_of_Elendil.md#Standard_of_Elendil).
+Chuyển hướng tới [Bộ đồ của những người thừa kế Elendil](../L/Livery_of_the_heirs_of_Elendil.md#Standard_of_Elendil).

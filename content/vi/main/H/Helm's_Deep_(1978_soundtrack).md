@@ -39,7 +39,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-<i><b>Helm's Deep</b></i> là ca khúc thứ mười sáu của [*Chúa tể của những chiếc nhẫn - Nhạc phim gốc*](<../T/The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack).md>). Bài hát có đoạn tụng kinh hoành tráng của [Orc](../O/Orcs.md) trong [Trận chiến Hornburg](../B/Battle_of_the_Hornburg.md). Nó chứa mô típ chính của nhạc phim.
+<i><b>Helm's Deep</b></i> là ca khúc thứ mười sáu của [*Chúa tể của những chiếc nhẫn - Nhạc phim gốc*](<../T/The_Lord_Of_The_Rings_(Original_Motion_Picture_Soundtrack).md>). Bản nhạc có câu hát thánh ca từ [Orc](../O/Orcs.md) trong [Trận Hornburg](../B/Battle_of_the_Hornburg.md). Nó chứa mô típ chính của nhạc phim.
 
 ## Lời bài hát {#Lyrics}
 

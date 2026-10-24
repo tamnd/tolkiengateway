@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "White, Campbell"
 ---
 
-- Campbell White đã vui lòng cấp cho họ quyền sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Campbell_White.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Campbell White đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của họ](../../category/I/Images_by_Campbell_White.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: [Ngày 2 tháng 6](../../main/J/June_2.md), [2023](../../main/_/2023.md)
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

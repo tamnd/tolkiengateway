@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Frodo Gardner"
 ---
 
-Chuyển hướng tới [Frodo Gardner](../F/Frodo_Gardner.md).
+Chuyển hướng tới [Frodo Người làm vườn](../F/Frodo_Gardner.md).

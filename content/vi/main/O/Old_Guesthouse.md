@@ -28,7 +28,7 @@ images:
 
 **Nhà khách cũ** hay **Sennas Iaur**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là một quán trọ ở [Minas Tirith](../M/Minas_Tirith.md). Nó nằm ở tầng một, trên [Phố Thợ đèn](../L/Lampwrights'_Street.md) (*Rath Celerdain*). Nó được bao quanh ba mặt bởi một bãi cỏ, và mặt thứ tư thông thoáng, dẫn ra đường.
 
-Trong [Cuộc chiến nhẫn](../W/War_of_the_Ring.md), [Pippin](../P/Peregrin_Took.md) đã gặp [Bergil](../B/Bergil.md) tại đây. Hiện chưa rõ số phận của quán trọ nhưng có thể nó đã bị phá hủy trong [Cuộc vây hãm Minas Tirith](../S/Siege_of_Minas_Tirith.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), [Pippin](../P/Peregrin_Took.md) đã gặp [Bergil](../B/Bergil.md) tại đây. Hiện chưa rõ số phận của quán trọ nhưng có thể nó đã bị phá hủy trong [Cuộc vây hãm Minas Tirith](../S/Siege_of_Minas_Tirith.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -36,7 +36,7 @@ Trong [Cuộc chiến nhẫn](../W/War_of_the_Ring.md), [Pippin](../P/Peregrin_T
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2015: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>The Old Guesthouse is one of more than fifteen inns and taverns of Minas Tirith. It is only lightly damaged during the siege.</dd></dl>
 

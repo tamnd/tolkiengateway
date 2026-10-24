@@ -85,38 +85,38 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/F/Father_Christmas_1976.png.md"><img src="https://tolkiengateway.net/w/images/thumb/b/b1/Father_Christmas_1976.png/320px-Father_Christmas_1976.png" decoding="async" loading="lazy" width="320" height="431" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/b/b1/Father_Christmas_1976.png 1.5x" data-file-width="371" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Letters from Father Christmas</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../B/Baillie_Tolkien.md" title="Baillie Tolkien">Baillie Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">J.R.R. Tolkien</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../A/Allen_&amp;_Unwin.md" title="Allen &amp; Unwin">George Allen &amp; Unwin</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/2_September.md" title="2 September">2 September</a> <a href="../_/1976.md" title="1976">1976</a> (UK)<br/><a href="../_/19_October.md" title="19 October">19 October</a> 1976 (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback; deluxe edition</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">48</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0048231304" title="Special:BookSources/0048231304">0048231304</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="../S/Sir_Gawain_and_the_Green_Knight,_Pearl,_and_Sir_Orfeo.md" title="Sir Gawain and the Green Knight, Pearl, and Sir Orfeo">Sir Gawain and the Green Knight, Pearl, and Sir Orfeo</a> (1975)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="../T/The_Silmarillion.md" title="The Silmarillion">The Silmarillion</a> (1977)</td></tr></tbody></table>
 
-<i><b>Những bức thư từ Ông già Noel</b></i>, còn được gọi là <i><b>Những bức thư của Ông già Noel</b></i> trong các phiên bản trước, là tập hợp các bức thư được viết và minh họa bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giữa [1920](../_/1920.md) và [1943](../_/1943.md) dành cho các con của ông, từ [Ông già Noel](../F/Father_Christmas.md).
+<i><b>Letters from Father Christmas</b></i>, còn được gọi là <i><b>Những bức thư Giáng sinh của Cha</b></i> trong các phiên bản trước, là tập hợp các bức thư được viết và minh họa bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) giữa [1920](../_/1920.md) và [1943](../_/1943.md) dành cho các con của ông, từ [Ông già Noel](../F/Father_Christmas.md).
 
-Nó được phát hành sau khi chết vào [2 tháng 9](../_/2_September.md) [1976](../_/1976.md), ngày kỷ niệm ba năm ngày mất của Tolkien và được biên tập bởi [Baillie Tolkien](../B/Baillie_Tolkien.md), vợ của [Christopher Tolkien](../C/Christopher_Tolkien.md).
+Nó được phát hành sau khi [2 tháng Chín](../_/2_September.md) [1976](../_/1976.md), ngày kỷ niệm ba năm ngày mất của Tolkien và được chỉnh sửa bởi [Baillie Tolkien](../B/Baillie_Tolkien.md), vợ của [Christopher Tolkien](../C/Christopher_Tolkien.md).
 
-Ở đây nó chép lại những bức thư này và sao chép chúng cùng với phong bì của chúng dưới dạng fax. Nhiều phong bì trong số này có tem vẽ tay của Tolkien và nhiều chữ cái có kèm theo tác phẩm nghệ thuật toàn trang. Tác phẩm được các nhà phê bình đón nhận nồng nhiệt và có ý kiến ​​​​cho rằng một số yếu tố đã được chuyển sang [huyền thoại](Legendarium.md).
+Ở đây nó chép lại những bức thư này và sao chép chúng cùng với phong bì của chúng dưới dạng fax. Nhiều phong bì trong số này có tem vẽ tay của Tolkien trên đó và nhiều lá thư có kèm ảnh minh họa nguyên trang. Tác phẩm được các nhà phê bình đón nhận nồng nhiệt và có ý kiến ​​​​cho rằng một số yếu tố đã được chuyển sang [huyền thoại](Legendarium.md).
 
 ## Tổng quan {#Overview}
 
-Các câu chuyện được kể dưới dạng những bức thư, chủ yếu được viết bởi Ông già Noel, với những bức thư hoặc các phần của bức thư được viết bởi [Gấu Bắc Cực](../N/North_Polar_Bear.md) và thư ký Elven [Ilbereth](../I/Ilbereth.md) của ông. Những bức thư ghi lại những cuộc phiêu lưu và những rủi ro bất hạnh của Ông già Noel và những người giúp đỡ ông, bao gồm cả Gấu Bắc Cực hay bị tai nạn và các cháu trai, [Paksu](../P/Paksu.md) và [Valkotukka](../V/Valkotukka.md). Nhiều bức thư có hình ảnh minh họa do Ông già Noel vẽ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Các câu chuyện được kể dưới dạng những bức thư, chủ yếu được viết bởi Ông già Noel, với những bức thư hoặc các phần của bức thư được viết bởi [North Polar Bear](../N/North_Polar_Bear.md) và Tiên thư ký [Ilbereth](../I/Ilbereth.md) của ông. Những bức thư ghi lại những cuộc phiêu lưu và bất hạnh của Ông già Noel và những người giúp đỡ ông, bao gồm cả North Polar Bear và các cháu trai dễ bị tai nạn, [Paksu](../P/Paksu.md) và [Valkotukka](../V/Valkotukka.md). Nhiều bức thư có hình ảnh minh họa do Ông già Noel vẽ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Bản thân những bức thư này đã được viết trong hơn 20 năm để giải trí cho lũ trẻ của Tolkien vào mỗi dịp Giáng sinh. Bức thư đầu tiên được viết vào [1920](../_/1920.md) khi con trai lớn của Tolkien, [John](../J/John_Tolkien.md), được ba tuổi, sau khi cậu bé hỏi về Ông già Noel và nơi ông sống.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Mỗi bức thư bao gồm tem Bắc Cực và nhãn bưu chính do Tolkien thiết kế.
+Bản thân những bức thư này đã được viết trong hơn 20 năm để giải trí cho trẻ em Tolkien vào mỗi dịp Giáng sinh. Bức thư đầu tiên được viết bằng [1920](../_/1920.md) khi con trai lớn của Tolkien, [John](../J/John_Tolkien.md), được ba tuổi, sau khi cậu bé hỏi về Ông già Noel và nơi ông sống.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Mỗi bức thư bao gồm tem Bắc Cực và nhãn bưu chính do Tolkien thiết kế.
 
 ## Xuất bản {#Publication}
 
-Ấn bản đầu tiên được xuất bản bởi [Allen & Unwin](../A/Allen_&_Unwin.md), dưới tên *The Father Christmas Letters*, vào [2 tháng 9](../_/2_September.md) [1976](../_/1976.md), ba năm sau cái chết của Tolkien. Tác phẩm nghệ thuật từ Những bức thư từ *The Father Christmas Letters* lần đầu tiên được trưng bày tại [1976](../_/1976.md)-[1976](../_/1976.md) tại Bảo tàng Ashmolean để đánh dấu ngày phát hành cuốn sách.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ấn bản [Houghton Mifflin](../H/Houghton_Mifflin.md) được phát hành vào cuối năm đó vào [19 tháng 10](../_/19_October.md).
+Ấn bản đầu tiên được xuất bản bởi [Allen &amp; Unwin](../A/Allen_&_Unwin.md), dưới tên *The Father Christmas Letters*, vào ngày [2 tháng Chín](../_/2_September.md) [1976](../_/1976.md), ba năm sau khi Tolkien qua đời. Tác phẩm nghệ thuật từ Những bức thư từ *The Father Christmas Letters* lần đầu tiên được trưng bày tại [1976](../_/1976.md)-[1976](../_/1976.md) tại Bảo tàng Ashmolean để đánh dấu ngày phát hành cuốn sách.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Ấn bản [Houghton Mifflin](../H/Houghton_Mifflin.md) được phát hành vào cuối năm đó vào [19 tháng 10](../_/19_October.md).
 
 Cuốn sách đã được sửa đổi trong [1999](../_/1999.md) và được đổi tên thành *Letters from Father Christmas*, ấn bản này bao gồm thêm một số bức thư và tác phẩm nghệ thuật chưa được xuất bản trước đó. Các phiên bản [2012](../_/2012.md), [2019](../_/2019.md) và các phiên bản tiếp theo cũng vậy. Để so sánh chi tiết nội dung giữa các phiên bản, hãy xem <a class="external text" href="https://www.tolkienguide.com/modules/wiwimod/index.php?page=Letters%20From%20Father%20Christmas" rel="noreferrer noopener" target="_blank">đánh giá này</a>.
 
 ## Lễ tân {#Reception}
 
-Sự đón nhận đối với ấn bản gốc của *The Father Christmas Letters* đã được đón nhận rất tích cực mặc dù Judith A. Johnson, trong cuốn sách *J.R.R. Tolkien: Six Decades of Criticism* của cô đã gợi ý rằng điều này có thể một phần là do cái chết gần đây của Tolkien, nhận thấy rằng phản hồi đối với *The Father Christmas Letters* đã được đo lường và cân bằng hơn nhiều.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Sự đón nhận đối với ấn phẩm ban đầu của *The Father Christmas Letters* đã được đón nhận rất tích cực mặc dù Judith A. Johnson, trong cuốn sách *J.R.R. Tolkien: Six Decades of Criticism* của cô đã gợi ý rằng điều này có thể một phần là do cái chết gần đây của Tolkien, nhận thấy rằng phản hồi đối với *The Father Christmas Letters* đã được đo lường và cân bằng hơn nhiều.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 Jessica Kemball-Cook gợi ý trong cuốn sách *Twentieth Century Children's Writers* của mình rằng nó sẽ được biết đến như một tác phẩm kinh điển của văn học thiếu nhi, trong khi Nancy Willard cho *The New York Times Book Review* cũng đón nhận cuốn sách một cách tích cực khi nói rằng "Ông già Noel sống. Và không bao giờ vui vẻ hơn trên những trang này." Năm 2002, một bài báo trên *The Independent on Sunday* đã mô tả tác phẩm này là đối thủ của "*The Lord of the Rings* vì niềm vui tưởng tượng tuyệt đối".
 
 ## Mối quan hệ với di tích {#Relation_to_the_legendarium}
 
-Mặc dù *Letters from Father Christmas* không phải là một phần trong truyền thuyết của Tolkien, nhưng có thể lưu ý một số yếu tố chung:
+Mặc dù *Letters from Father Christmas* không phải là một phần trong huyền thoại của Tolkien, nhưng có thể lưu ý một số thành phần chung:
 
-- Thư ký yêu tinh của ông già Noel [Ilbereth](../I/Ilbereth.md) (gợi nhớ đến [Elbereth](../E/Elbereth_Gilthoniel.md)?)<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
-- những cái nhìn thoáng qua về cách viết [Elvish](../E/Elvish.md) và [Bảng chữ cái Goblin](../G/Goblin_Alphabet.md)
-- [Quenya "Bắc Cực"](../A/Arktik.md)
-- [Người đàn ông trên mặt trăng](../M/Man_in_the_Moon.md)
+- Ông già Noel' Tiên-thư ký [Ilbereth](../I/Ilbereth.md) (gợi nhớ đến [Elbereth](../E/Elbereth_Gilthoniel.md)?)<sup class="noprint" style="line-height: 0.4em;">[<a href="../../help/R/References.md" title="Help:References"><i>source?</i></a>]</sup>
+- hình ảnh thoáng qua [Elvish](../E/Elvish.md) cách viết và [Bảng chữ cái Goblin](../G/Goblin_Alphabet.md)
+- ["Bắc Cực" Quenya](../A/Arktik.md)
+- [Người đàn ông trong Mặt Trăng](../M/Man_in_the_Moon.md)
 
 Kris Swank đã thảo luận về những điểm tương đồng giữa *[The Hobbit](../T/The_Hobbit.md)* và *Letters from Father Christmas*, lưu ý rằng chúng có chung một số yếu tố câu chuyện và cả hai tác phẩm đều "chứa các yếu tố câu chuyện có nguồn gốc chung từ [Những câu chuyện bị mất](../T/The_Book_of_Lost_Tales.md) và những bài thơ đầu tiên của Tolkien".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
@@ -204,7 +204,7 @@ Kris Swank đã thảo luận về những điểm tương đồng giữa *[The 
 		</li>
 </ul>
 
-- [George Allen & Unwin](../A/Allen_&_Unwin.md), bìa cứng ([1976](../_/1976.md)), trang 48. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231304">ISBN 0048231304</a> - (ấn bản đầu tiên)
+- [George Allen &amp; Unwin](../A/Allen_&_Unwin.md), bìa cứng ([1976](../_/1976.md)), trang 48. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231304">ISBN 0048231304</a> - (ấn bản đầu tiên)
 - [Giải phóng sách bìa mềm](../U/Unwin_Paperbacks.md), sách bìa mềm ([1978](../_/1978.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0048231487">ISBN 0048231487</a>
 - [HarperCollins](../H/HarperCollins.md) bìa mềm ([1993](../_/1993.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261102559">ISBN 0261102559</a>
 - Sách thiếu nhi Collins, bìa cứng ([1995](../_/1995.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/000137463X">ISBN 000137463X</a>
@@ -251,12 +251,12 @@ Kris Swank đã thảo luận về những điểm tương đồng giữa *[The 
 </ul>
 
 - [HarperCollins](../H/HarperCollins.md) ba bìa cứng đựng trong một hộp đựng ([1994](../_/1994.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103172">ISBN 0261103172</a> (bộ)
-- [HarperCollins](../H/HarperCollins.md) bìa cứng ([1998](../_/1998.md)), trang 96. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103695">ISBN 0261103695</a>
+- [HarperCollins](../H/HarperCollins.md) bìa cứng ([1998](../_/1998.md)), trang 96. <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0261103695">ISBN 0261103695</a>
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="https://www.tolkienestate.com/writing/baillie-tolkien-letters-from-father-christmas/" rel="noreferrer noopener" target="_blank">Thư từ ông già Noel</a> của [Baillie Tolkien](../B/Baillie_Tolkien.md)
-- <a class="external text" href="http://wayneandchristina.wordpress.com/2012/11/06/the-father-christmas-letters-4/" rel="noreferrer noopener" target="_blank">Những bức thư 'Ông già Noel'</a> của [Christina Scull](../C/Christina_Scull.md)
+- <a class="external text" href="https://www.tolkienestate.com/writing/baillie-tolkien-letters-from-father-christmas/" rel="noreferrer noopener" target="_blank">Letters from Father Christmas</a> của [Baillie Tolkien](../B/Baillie_Tolkien.md)
+- <a class="external text" href="http://wayneandchristina.wordpress.com/2012/11/06/the-father-christmas-letters-4/" rel="noreferrer noopener" target="_blank">Những lá thư 'Ông già Noel'</a> của [Christina Scull](../C/Christina_Scull.md)
 - <a class="external text" href="https://www.tolkienguide.com/modules/wiwimod/index.php?page=Letters%20From%20Father%20Christmas" rel="noreferrer noopener" target="_blank">Bảng so sánh tất cả các ấn bản của cuốn sách</a> trên Tolkienguide.com
 
 <span></span>

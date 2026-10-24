@@ -14,13 +14,13 @@ categories:
   - "Valinor"
 ---
 
-**Ngôi nhà của Oromë** là nơi ở của [Oromë](../O/Oromë.md) ở [Valinor](../V/Valinor.md). Một số chi tiết về ngôi nhà này được kể trong *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*, ngoại trừ việc nó đã được [Celegorm](../C/Celegorm.md) đến thăm, người ở đó "*có kiến ​​thức sâu rộng về chim và thú*" và thậm chí còn học được "*all their tongues*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Ngôi nhà **của Oromë** là nơi ở của [Oromë](../O/Oromë.md) tại [Valinor](../V/Valinor.md). Một số chi tiết về ngôi nhà này được kể trong *[Quenta Silmarillion](../Q/Quenta_Silmarillion.md)*, ngoại trừ việc nó đã được [Celegorm](../C/Celegorm.md) đến thăm, người ở đó "*có kiến ​​thức sâu rộng về các loài chim và thú*" và thậm chí còn học được "*all their tongues*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
 <small>"<i>...cổng và đại sảnh có cây chống đỡ, thần rừng</i>"</small><sup id="cite_ref-LB_2-0" class="reference"><a href="#cite_note-LB-2">[2]</a></sup>
 
-Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), ngôi nhà của Oromë còn được gọi là **đại sảnh của Oromë**. Nó nằm ở [Valmar](../V/Valmar.md), thành phố của [Valar](../V/Valar.md) ở [Valinor](../V/Valinor.md). Các hội trường là "*wide and low*", với tường và sàn được trang trí lộng lẫy bằng "*skins and pelts*" và "*spears and bows and knives*". Một cái cây mọc ở giữa mỗi phòng (nơi người dân Oromë sinh sống, mặc đồ màu xanh lá cây và màu nâu), chống đỡ mái nhà.<sup id="cite_ref-LB_2-1" class="reference"><a href="#cite_note-LB-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong các phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md), ngôi nhà của Oromë còn được gọi là **đại sảnh của Oromë**. Nó nằm ở [Valmar](../V/Valmar.md), thành phố [Valar](../V/Valar.md) ở [Valinor](../V/Valinor.md). Các hội trường là "*wide and low*", với tường và sàn được trang trí lộng lẫy bằng "*skins and pelts*" và "*spears and bows and knives*". Một cái cây mọc ở giữa mỗi phòng (nơi dân Oromë ở, phủ màu xanh và nâu), chống đỡ mái nhà.<sup id="cite_ref-LB_2-1" class="reference"><a href="#cite_note-LB-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

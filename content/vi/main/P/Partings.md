@@ -56,17 +56,17 @@ infobox:
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="../A/Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Chia tay** là tập thứ năm trong loạt phim truyền hình [Amazon Studios](../A/Amazon_Studios.md), *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, phát hành vào [23 tháng 9](../_/23_September.md), [2022](../_/2022.md).
+**Chia tay** là tập thứ năm của bộ phim truyền hình [Amazon Studios](../A/Amazon_Studios.md) *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)*, được phát hành vào ngày [23 tháng Chín](../_/23_September.md), [2022](../_/2022.md).
 
 ## Tóm tắt {#Synopsis}
 
 ### Miền Nam {#The_Southlands}
 
-### Số {#Númenor}
+### Númenor {#Númenor}
 
 ### Lindon {#Lindon}
 
-### Bọn Harfoot {#The_Harfoots}
+### Cái Harfoots {#The_Harfoots}
 
 ## Truyền {#Cast}
 
@@ -268,21 +268,21 @@ infobox:
 
 Dưới đây là danh sách các câu đố từ tính năng "X-Ray" của Amazon đi kèm với tập phim.
 
-- Cảnh 2 - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến người Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi du khách dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
-- Cảnh 6 - "[Halflings](../H/Halflings.md) không đi giày vì chân của họ có đế bằng da cứng, được bao phủ bởi lớp lông dày uốn cong và họ có thể chịu đựng được hầu hết mọi địa hình. (Liên quan đến người Hobbit)"
-- Cảnh 8 - "Khả năng chịu đựng ánh nắng mặt trời của Adar cho thấy rằng ông ta không phải là orc - hoặc không hoàn toàn - vì ông ta dường như sở hữu một số năng khiếu của yêu tinh: Sự bất tử và khả năng đứng dưới ánh sáng ban ngày mà không gặp khó khăn. Con cái của ông ta, loài orc, tránh những ánh nhìn đau đớn của nó bằng cách sử dụng áo choàng chống nắng để ngăn tia nắng chiếu vào da."
-- Cảnh 10 - "Númenor sử dụng sách thay vì cuộn giấy để dễ dàng truyền tải thông tin từ thế hệ này sang thế hệ khác. Ban đầu, họ viết bằng chữ viết của yêu tinh, Tengwar, nhưng theo thời gian, nó đã thay đổi để phù hợp với ngôn ngữ của họ và trở thành một chữ viết độc đáo của riêng họ."
-- Cảnh 20 - "Những [những con sói](../W/Wolves.md) đói khát ở Trung Địa là một trong những mối đe dọa đáng sợ nhất đối với Harfoots, những người có rất ít lựa chọn để chống trả và các phương pháp ẩn náu thông thường của họ ở nơi dễ thấy không giúp chống lại những kẻ săn mồi như vậy."
-- Cảnh 24 - "Pharazôn là anh họ của Míriel, và là cháu của vị Vua hiện tại. Ở Númenor, luật quy định rằng con cả của Nhà vua, không phân biệt giới tính, sẽ là người kế vị. (Phụ lục A)"
+- Cảnh 2 - "Hầu hết các chi tiết và chi tiết được nêu ở đây đều bắt nguồn từ '[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)', phần mở đầu có tựa đề '[Liên quan đến Hobbit](../C/Concerning_Hobbits.md)' và [Phụ lục](../A/Appendices.md), [A](../A/Appendix_A.md) đến [F](../A/Appendix_F.md), nơi người du hành dũng cảm có thể hành trình khám phá những chân trời xa hơn nữa."
+- Cảnh 6 - "[Halflings](../H/Halflings.md) không đi giày vì chân của chúng có đế bằng da cứng, được bao phủ bởi lớp lông dày uốn cong và chúng có thể chịu đựng được hầu hết mọi địa hình. (Liên quan đến Hobbit)"
+- Cảnh 8 - "Khả năng chịu đựng ánh nắng mặt trời của Adar gợi ý rằng ông ta không phải là orc - hoặc không hoàn toàn - vì ông ta dường như sở hữu một số món quà của Tiên tộc: Sự bất tử và khả năng đứng dưới ánh sáng ban ngày mà không gặp khó khăn. Con cái của ông ta, loài orc, tránh những ánh nhìn đau đớn của nó bằng cách sử dụng áo choàng chống nắng để ngăn tia nắng chiếu vào da."
+- Cảnh 10 - "Númenor sử dụng sách thay vì cuộn giấy để dễ dàng truyền tải thông tin từ thế hệ này sang thế hệ tiếp theo. Ban đầu, họ viết bằng chữ viết của yêu tinh, Tengwar, nhưng theo thời gian, nó đã thay đổi để phù hợp với ngôn ngữ của họ và trở thành một chữ viết độc đáo của riêng họ."
+- Cảnh 20 - "Những Trung Địa [những con sói](../W/Wolves.md) đói khát là một trong những mối đe dọa đáng sợ nhất đối với Harfoots, những kẻ có ít lựa chọn để chống trả và các phương pháp ẩn náu thông thường của chúng ở nơi dễ thấy không giúp chống lại những kẻ săn mồi như vậy."
+- Cảnh 24 - "Pharazôn là em họ của Míriel, và là cháu của Vua hiện tại. Ở Númenor, luật quy định con cả của Vua, không phân biệt giới tính, sẽ là người kế vị. (Appendix A)"
 - Cảnh 27 - "Lindon là một vùng rừng được xây dựng dọc theo bờ sông Lhûn và giáp biển. Những gì được xây dựng ở đó có cảm giác gần như liền mạch với thiên nhiên bao quanh nó. (Phụ lục B)"
-- Cảnh 28 - "Chỉ ngoại trừ Sauron, Balrog là tay sai nguy hiểm nhất của Morgoth – những sinh vật của bóng tối và ngọn lửa mà ngay cả yêu tinh cũng phải sợ hãi. (Quyển II, Chương 7)"
-- Cảnh 29 - "Những người đàn ông và phụ nữ Númenor sử dụng nước Biển rất hiệu quả - họ tiến bộ đến mức có hệ thống kênh rạch và âu thuyền chạy khắp thành phố. Vì vậy, một chiếc thuyền không bao giờ xa."
-- Cảnh 35 - "Thủ đô của Númenor được xây dựng chứ không phải bị loại bỏ. Thành tựu của Edain được xây dựng trên nền tảng mà các yêu tinh đã giúp tạo ra - những nền tảng mà họ thay thế bằng nỗ lực không ngừng hướng tới sự tiến bộ."
-- Cảnh 37 - "Họ không phải là người lùn hay thợ rèn yêu tinh của Ezone, nhưng ngay cả về mặt nghề rèn, những tiến bộ của Númenor là đỉnh cao trong thành tựu của con người trong lịch sử Trung Địa. Trong những ngày sau này, các công trình của họ ở Trung Địa dường như không được xây dựng bằng thủ công mà được chạm khắc từ xương của trái đất bởi bàn tay của những người khổng lồ. (Quyển V, Chương 1)"
-- Cảnh 40 - "Dưới sự thống trị của Thế lực Hắc ám, Con người thường trở nên tôn thờ cái ác thống trị họ, bị trói buộc bởi kiến thức và quyền lực mà chúng mang lại. (Quyển V, Chương 10)"
-- Cảnh 42 - "Gắn liền với những yêu tinh đồn trú ở đó, [Tháp Canh Ostirith](../W/Watchtower_of_Ostirith.md) tuy nhiên ban đầu được xây dựng bởi những người theo chân Morgoth. Việc yêu tinh chiếm đóng nó là một phần trong nỗ lực cảnh giác thường xuyên của họ đối với sự trở lại của cái ác – nhưng người ta rỉ tai nhau rằng bản thân tòa tháp này chứa đựng dấu vết của một thế lực đen tối được tạo ra bởi những người theo Morgoth trong Ngày xưa."
-- Cảnh 44 - "[Aulë](../A/Aulë.md), cái tên mà người lùn thường gợi lên, là tên của người mà họ tin là đấng sáng tạo. Trong trái tim họ, ngọn lửa cổ xưa của ông ấy được cho là vẫn đang cháy. (Phụ lục F)"
-- Cảnh 47 - "Cánh tay và áo giáp của Númenor phản ánh thế giới mà họ biết - áo giáp của họ có vảy giống như sinh vật biển bao quanh hòn đảo của họ, và những con ngựa tô điểm cho chuôi kiếm của họ, với những chiếc đuôi lông ngựa trên mũ."
+- Cảnh 28 - "Chỉ cứu Sauron mình, Balrog là những đầy tớ nguy hiểm nhất của Morgoth – những sinh vật của bóng tối và ngọn lửa mà ngay cả Tiên tộc cũng phải sợ hãi. (Quyển II, Chương 7)"
+- Cảnh 29 - "Những người đàn ông và phụ nữ Númenor sử dụng nước của Biển rất hiệu quả – họ tiến bộ đến mức có hệ thống kênh rạch và âu thuyền chạy khắp thành phố. Như vậy, một chiếc thuyền không bao giờ xa."
+- Cảnh 35 - "Thủ đô của Númenor được xây dựng chứ không phải ra ngoài. Thành tựu của Edain được xây dựng dựa trên nền tảng mà Tiên tộc đã giúp tạo ra – những nền tảng mà họ thay thế bằng nỗ lực không ngừng hướng tới sự tiến bộ."
+- Cảnh 37 - "Họ không phải là người lùn hay thợ rèn yêu tinh của Eregion, nhưng ngay cả về mặt nghề rèn, những tiến bộ của Númenor là đỉnh cao thành tựu của con người trong lịch sử Trung Địa. Trong những ngày sau này, các tác phẩm của họ trong Trung Địa dường như không được xây dựng bằng thủ công mà được chạm khắc từ xương của trái đất bởi bàn tay của những người khổng lồ. (Quyển V, Chương 1)"
+- Cảnh 40 - "Dưới sự thống trị của Thế lực Hắc ám, Con Người thường trở nên tôn sùng cái ác thống trị họ, bị trói buộc bởi kiến thức và quyền lực mà chúng mang lại. (Quyển V, Chương 10)"
+- Cảnh 42 - "Đã gắn bó lâu dài với Tiên tộc đồn trú ở đó, [Tháp Canh Ostirith](../W/Watchtower_of_Ostirith.md) dù sao cũng được xây dựng ban đầu bởi những người đi theo Morgoth. Việc yêu tinh chiếm đóng nó là một phần trong quá trình họ thường xuyên cảnh giác trước sự trở lại của cái ác – nhưng người ta rỉ tai nhau rằng bản thân tòa tháp này chứa dấu vết của một thế lực đen tối được tạo ra bởi những người đi theo Morgoth trong Ngày xưa."
+- Cảnh 44 - "[Aulë](../A/Aulë.md), cái tên mà những người lùn thường nhắc đến, là tên của người mà họ tin là đấng sáng tạo. Trong trái tim họ, ngọn lửa cổ xưa của ông ấy được cho là vẫn đang cháy. (Phụ lục F)"
+- Cảnh 47 - "Cánh tay và áo giáp củaNúmenor phản ánh thế giới mà họ biết – áo giáp của họ có quy mô giống như sinh vật biển bao quanh hòn đảo của họ và những con ngựa tô điểm cho chuôi kiếm của họ, với những chiếc đuôi lông ngựa trên mũ."
 
 ## Sản xuất {#Production}
 

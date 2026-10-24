@@ -39,7 +39,7 @@ Sau khi được đề cử, một bài báo sẽ nhận được năm phiếu b
 
 Đó là một bài viết khá ấn tượng và xứng đáng với nhân vật tôi yêu thích và một điều thú vị như vậy. nhân vật.--<small><span style="border: 1px solid #3380CC"><a href="https://tolkiengateway.net/wiki/User:KingAragorn" title="User:KingAragorn"><b><span style="background-color:White; color:#3380CC"> KingAragorn </span></b></a><a href="https://tolkiengateway.net/wiki/User_talk:KingAragorn" title="User talk:KingAragorn"><span style="background-color:#3380CC; color:white"> thảo luận </span></a><a href="https://tolkiengateway.net/wiki/Special:Contributions/KingAragorn" title="Special:Contributions/KingAragorn"><span style="background-color:#3380CC; color:white"> đóng góp </span></a><a href="https://tolkiengateway.net/wiki/Special:Editcount/KingAragorn" title="Special:Editcount/KingAragorn"><span style="background-color:#3380CC; color:white"> chỉnh sửa </span></a><a href="https://tolkiengateway.net/wiki/Special:EmailUser/KingAragorn" title="Special:EmailUser/KingAragorn"><span style="background-color:#3380CC; color:white"> email </span></a></span></small> 07:14, ngày 6 tháng 6 năm 2008 (EDT)
 
-- **Đồng ý**. Nếu tôi không nhầm thì Gandalf đã từng là FA rồi. Điều đó không có nghĩa là không thể quay lại nhưng nó đã ở gần cuối hàng đợi. Ồ, **đồng ý**, nhân tiện. nhưng nguồn cung ứng cần phải tốt hơn một chút. -- [Ederchil](https://tolkiengateway.net/wiki/User:Ederchil) 08:01, ngày 6 tháng 6 năm 2008 (EDT)
+- **Đồng ý**. Nếu tôi không nhầm thì Gandalf đã bị FA một lần rồi. Điều đó không có nghĩa là không thể quay lại nhưng nó đã ở gần cuối hàng đợi. Ồ, **đồng ý**, nhân tiện. nhưng nguồn cung ứng cần phải tốt hơn một chút. -- [Ederchil](https://tolkiengateway.net/wiki/User:Ederchil) 08:01, ngày 6 tháng 6 năm 2008 (EDT)
 
 - **Đồng ý**. Bài viết này rất phong phú, có vẻ đầy đủ, được tham khảo đầy đủ và được minh họa rất phong phú. Đó là một ví dụ điển hình về việc một FA nên như thế nào.--[Theoden1](https://tolkiengateway.net/wiki/User:Theoden1) 13:31, ngày 7 tháng 6 năm 2008 (EDT)
 
@@ -51,9 +51,9 @@ Sau khi được đề cử, một bài báo sẽ nhận được năm phiếu b
 
 - **Đồng ý**. Sau khi đọc nó, tôi phải thừa nhận đây là bài viết hay nhất mà chúng tôi có.--<tt><sup><font color="#7BA05B"><a href="https://tolkiengateway.net/wiki/User:Odysseas-spartan-53" title="User:Odysseas-spartan-53">Odysseas</a>-<a href="https://tolkiengateway.net/wiki/User_talk:Odysseas-spartan-53" title="User talk:Odysseas-spartan-53">Spartan</a></font></sup><a href="https://tolkiengateway.net/wiki/Special:Contributions/Odysseas-spartan-53" title="Special:Contributions/Odysseas-spartan-53"><font color="#4B5320"><font size="5">53</font></font></a></tt> 10:50, ngày 23 tháng 5 năm 2009 (UTC)
 
-- **Đồng ý**. Olorin, Mithrandir, Gandalf, pháp sư, istar, maiar hùng mạnh, có rất nhiều điều để kể về người bất tử yêu thích của tôi. Elvenshieldmaiden
+- **Đồng ý**. Olorin, Mithrandir, Gandalf, pháp sư, istar, maiar hùng mạnh, có quá nhiều điều để kể về người bất tử yêu thích của tôi. Elvenshieldmaiden
 
-- **Đồng ý**. Bài viết tuyệt vời! Ngoài ra, Gandalf còn là trung tâm trong tác phẩm của Tolkien. Bài viết của ông xứng đáng được giới thiệu. [mthomas](https://tolkiengateway.net/wiki/User:Mthomas) 12:30, ngày 7 tháng 6 năm 2009 (UTC)
+- **Đồng ý**. Bài viết tuyệt vời! Ngoài ra, Gandalf còn là trọng tâm trong công việc của Tolkien. Bài viết của ông xứng đáng được giới thiệu. [mthomas](https://tolkiengateway.net/wiki/User:Mthomas) 12:30, ngày 7 tháng 6 năm 2009 (UTC)
 
 - **Đồng ý**. Điều đầu tiên mà người dùng mới nhìn thấy là trang chính và nhìn chung mọi người quen thuộc nhất với Gandalf. --Yurpee
 
@@ -63,17 +63,17 @@ Sau khi được đề cử, một bài báo sẽ nhận được năm phiếu b
 
 - **Đồng ý**. Nó chắc chắn xứng đáng được giới thiệu, nhưng tôi nghĩ sau này, sau khi việc chỉnh sửa hoàn tất vì các bộ phim Hobbit sắp ra mắt. <small>—<i>Nhận xét chưa được ký bởi</i> <a href="https://tolkiengateway.net/wiki/User:Lilybell" title="User:Lilybell">Lilybell</a> (<a href="https://tolkiengateway.net/wiki/User_talk:Lilybell" title="User talk:Lilybell">thảo luận</a>  <a href="https://tolkiengateway.net/wiki/Special:Contributions/Lilybell" title="Special:Contributions/Lilybell">đóng góp</a>).</small>
 
-- **Đồng ý**. Đó là một bài viết hay, hình ảnh chính phù hợp và có rất ít liên kết màu đỏ. Bài viết này giới thiệu tuyệt vời về Gandalf cho những người chưa quen với các tác phẩm của Tolkien. Thêm vào đó, nhân vật này hoàn toàn tuyệt vời. --[Joszyboom](https://tolkiengateway.net/wiki/User:Joszyboom)
+- **Đồng ý**. Đó là một bài viết hay, hình ảnh chính phù hợp và có rất ít liên kết màu đỏ. Bài viết này giới thiệu tuyệt vời về Gandalf cho những người mới làm quen với các tác phẩm của Tolkien. Thêm vào đó, nhân vật này hoàn toàn tuyệt vời. --[Joszyboom](https://tolkiengateway.net/wiki/User:Joszyboom)
 
 - **Đồng ý**. Tôi nghĩ một sự thật quan trọng là Gandalf là một Miar chứ không chỉ là một con người có sức mạnh. Tôi không nghĩ rằng nhiều người sẽ biết điều đó, nhưng nó quan trọng và điều này sẽ giúp ích. -- quark
 
-- **Đồng ý**. Tôi nhớ khi mới bắt đầu đọc tác phẩm của Tolkien năm lớp 6 với The Hobbit và chưa biết Gandalf là ai thì tôi đã đến LOTR và Gandalf với cuốn "You Shall Not Pass". Tôi rất ngạc nhiên và bắt đầu tìm hiểu sâu hơn nhưng đó là sáng kiến ​​của riêng tôi nếu bài viết này được đưa lên trang chủ thì bất kỳ độc giả Tolkien mới nào cũng vào đọc và học được một lượng kiến ​​thức đáng kể. -- Aragorn thật tuyệt vời
+- **Đồng ý**. Tôi nhớ khi mới bắt tay vào làm các tác phẩm của Tolkien hồi lớp 6 với The Hobbit và chưa biết Gandalf là ai thì tôi đã lên LOTR và Gandalf với "You Shall Not Pass". Tôi rất ngạc nhiên và bắt đầu tìm hiểu sâu hơn nhưng đó là sáng kiến ​​của riêng tôi nếu bài viết này được đưa lên trang chủ thì bất kỳ độc giả Tolkien mới nào cũng sẽ vào đọc và học được một lượng kiến ​​thức đáng kể. -- Aragorn thật tuyệt vời
 
 - **Đồng ý**. Tuy nhiên, mọi người quá hào hứng với việc chỉnh sửa bài viết của ông đến nỗi quên mất phần trích dẫn...--[Erónèhire](https://tolkiengateway.net/wiki/User:Er%C3%B3n%C3%A8hire) 02:33, ngày 10 tháng 3 năm 2021 (UTC)
 
 - **Đồng ý**. Đây là một bài viết khá lớn và bao gồm tất cả thông tin như lịch sử chi tiết cũng như nhiều hình ảnh.--Shivam 07:38, ngày 9 tháng 4 năm 2021 (UTC)
 
-- **Không đồng ý**. Cần thêm tài liệu tham khảo và vấn đề tên của ông là một mớ hỗn độn. Khi vấn đề này được giải quyết, tôi sẽ ưu tiên giới thiệu Gandalf. --[LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB) 11:00, ngày 13 tháng 4 năm 2022 (UTC)
+- **Không đồng ý**. Cần thêm tài liệu tham khảo và vấn đề tên của ông là một mớ hỗn độn. Khi vấn đề này được giải quyết, tôi sẽ ưu tiên Gandalf làm nổi bật. --[LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB) 11:00, ngày 13 tháng 4 năm 2022 (UTC)
 
 - **Đồng ý**. Vì mối quan tâm ở trên hiện đã được giải quyết, tôi bỏ phiếu cho bài viết này cuối cùng đã được đưa vào bài viết nổi bật. --[JR Snow](https://tolkiengateway.net/wiki/User:JR_Snow) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:JR_Snow)) 15:50, ngày 28 tháng 6 năm 2025 (UTC)
 
@@ -81,7 +81,7 @@ Sau khi được đề cử, một bài báo sẽ nhận được năm phiếu b
 
 ### [Dwalin](../../main/D/Dwalin.md) {#Dwalin}
 
-Vì Smaug đã được giới thiệu gần chín tháng nên tôi nghĩ đã đến lúc tìm kiếm một bài báo nổi bật mới. Cá nhân tôi nghĩ [Dwalin](../../main/D/Dwalin.md) có thể là một lựa chọn tốt. Nó được viết tốt, có nguồn gốc, không có mẫu bảo trì và chỉ có một liên kết màu đỏ. Mặc dù Dwalin không dài như các bài viết nổi bật trước đó nhưng nó bao gồm (gần như) tất cả thông tin có thể tìm thấy trong sách. Và với [*The Hobbit* (loạt phim)](<../../main/T/The_Hobbit_(film_series).md>) sắp ra mắt trong năm nay, mọi người sẽ tìm kiếm thêm thông tin về Người Hobbit và các nhân vật/địa điểm. Vì vậy sẽ thật tốt nếu một bài viết liên quan đến The Hobbit xuất hiện trên trang chính. --[Amroth](https://tolkiengateway.net/wiki/User:Amroth) 19:57, ngày 9 tháng 3 năm 2012 (UTC)
+Vì Smaug đã được giới thiệu gần chín tháng nên tôi nghĩ đã đến lúc tìm kiếm một bài viết nổi bật mới. Cá nhân tôi nghĩ [Dwalin](../../main/D/Dwalin.md) có thể là một lựa chọn tốt. Nó được viết tốt, có nguồn gốc, không có mẫu bảo trì và chỉ có một liên kết màu đỏ. Mặc dù Dwalin không dài như các bài viết nổi bật trước đó nhưng nó bao gồm (gần như) tất cả thông tin có thể tìm thấy trong sách. Và với [*The Hobbit* (loạt phim)](<../../main/T/The_Hobbit_(film_series).md>) sắp ra mắt trong năm nay, mọi người sẽ tìm kiếm thêm thông tin về Hobbit và các nhân vật/địa điểm. Vì vậy sẽ rất tốt nếu một bài viết liên quan đến The Hobbit xuất hiện trên trang chính. --[Amroth](https://tolkiengateway.net/wiki/User:Amroth) 19:57, ngày 9 tháng 3 năm 2012 (UTC)
 
 <dl><dd>+1.--<a href="https://tolkiengateway.net/wiki/User:Morgan" title="User:Morgan">Morgan</a> 20:07, 9 March 2012 (UTC)</dd></dl>
 
@@ -93,9 +93,9 @@ Vì Smaug đã được giới thiệu gần chín tháng nên tôi nghĩ đã �
 
 <dl><dd><dl><dd><dl><dd><dl><dd>Why not an image from The Hobbit film?--<a href="https://tolkiengateway.net/wiki/User:Er%C3%B3n%C3%A8hire" title="User:Erónèhire">Erónèhire</a> 02:31, 10 March 2021 (UTC)</dd></dl></dd></dl></dd></dl></dd></dl>
 
-### [Thi sĩ](../../main/B/Bard.md) {#Bard}
+### [Bard](../../main/B/Bard.md) {#Bard}
 
-Mặc dù Gondolin chỉ mới xuất hiện được hơn 3 tháng nhưng tôi nghĩ rằng bài viết nổi bật nên được cập nhật thường xuyên hơn. Tôi cảm thấy [Bard](../../main/B/Bard.md) là một lựa chọn tuyệt vời, vì đôi khi tôi nghĩ ông bị đánh giá thấp. Ông đóng một vai trò quan trọng trong Trận chiến của năm cánh quân và là Vua của [Dale](../../main/D/Dale.md) trong một thời gian khá lâu. --[BrandonEchols](https://tolkiengateway.net/wiki/User:BrandonEchols) 00:01, ngày 10 tháng 4 năm 2023 (UTC)
+Mặc dù Gondolin mới chỉ xuất hiện được hơn 3 tháng nhưng tôi nghĩ rằng bài viết nổi bật cần được cập nhật thường xuyên hơn. Tôi cảm thấy [Bard](../../main/B/Bard.md) là một lựa chọn tuyệt vời, vì đôi khi tôi nghĩ ông bị đánh giá thấp. Ông đóng một vai trò quan trọng trong Trận chiến của năm đạo quân và là Vua của [Dale](../../main/D/Dale.md) trong một thời gian khá lâu. --[BrandonEchols](https://tolkiengateway.net/wiki/User:BrandonEchols) 00:01, ngày 10 tháng 4 năm 2023 (UTC)
 
 - **Đồng ý**. Đó là một bài viết tốt. Tuy nhiên, tôi không đồng ý với việc cập nhật mọi thứ thường xuyên hơn. Tôi đã quyết tâm cập nhật toàn bộ Trang chính đúng hai lần một năm, vào ngày đến hạn.--[LorenzoCB](https://tolkiengateway.net/wiki/User:LorenzoCB) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:LorenzoCB)) 12:07, ngày 11 tháng 4 năm 2023 (UTC)
 
@@ -120,4 +120,4 @@ Nhưng, tất nhiên, mọi người ở đây sẽ là người đánh giá xem
 
 Vì câu chuyện này sẽ được xuất bản vào tuần tới nên tôi cảm thấy sẽ rất tốt nếu nó được giới thiệu trong tuần đó. Ngoài ra, trang còn chứa nhiều thông tin tham khảo từ nhiều nguồn.[Dour1234](https://tolkiengateway.net/wiki/User:Dour1234) ([talk](https://tolkiengateway.net/wiki/User_talk:Dour1234)) 10:48, ngày 4 tháng 10 năm 2025 (UTC)
 
-- Không đồng ý: Tôi đánh giá cao lập luận kịp thời mà bạn đưa ra vào thời điểm đó và nỗ lực rõ ràng mà bạn đã bỏ ra cho bài viết. Tôi cũng nghĩ rằng việc có một số sự hiện diện không phải huyền thoại trên trang chính sẽ giúp nâng cao sự hiểu biết của khách truy cập bình thường rằng đây là một trang Tolkien, không phải một trang huyền thoại. Tuy nhiên, để trở thành một bài viết nổi bật, tôi đề nghị các liên kết màu đỏ cần được giải quyết và phần Nền được làm lại, có thể tách thành các phần tử trong đó, ví dụ: Sáng tạo, Chủ đề và Ý định; Lịch sử xuất bản và bình luận. Hoặc một cái gì đó. [Bunt](https://tolkiengateway.net/wiki/User:Bunt) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:Bunt))
+- Không đồng ý: Tôi đánh giá cao lập luận kịp thời mà bạn đưa ra vào thời điểm đó và nỗ lực rõ ràng mà bạn đã bỏ ra cho bài viết. Tôi cũng nghĩ rằng việc có một số hiện diện không phải huyền thoại trên trang chính sẽ giúp nâng cao sự hiểu biết của khách truy cập ngẫu nhiên rằng đây là một trang web Tolkien, không phải một trang web huyền thoại. Tuy nhiên, để trở thành một bài viết nổi bật, tôi đề nghị các liên kết màu đỏ cần được giải quyết và phần Nền được làm lại, có thể tách thành các phần tử trong đó, ví dụ: Sáng tạo, Chủ đề và Ý định; Lịch sử xuất bản và bình luận. Hoặc một cái gì đó. [Bunt](https://tolkiengateway.net/wiki/User:Bunt) ([thảo luận](https://tolkiengateway.net/wiki/User_talk:Bunt))

@@ -60,11 +60,11 @@ infobox:
 
 ## Lịch sử {#History}
 
-Farin là một trong những [Người lùn vùng dãy núi Xám](../D/Dwarves_of_the_Grey_Mountains.md). Khi chú của anh là Vua [Dáin I](../D/Dáin_I.md) và anh họ [Frór](Frór.md) bị giết bởi [Cold-drake](../C/Cold-drakes.md), người dân của anh buộc phải chạy trốn khỏi [con rồng](../D/Dragons.md) đang bị tàn phá bởi [Grey Mountains](../G/Grey_Mountains.md) khi anh mới 29 tuổi. Cha của Farin, [Borin](../B/Borin.md), đã gia nhập [Thrór](../T/Thrór.md) khi ông xây dựng lại [Vương quốc dưới ngọn núi](../L/Lonely_Mountain.md) ở [2590](../T/Third_Age_2590.md).<sup id="cite_ref-Durin_3-0" class="reference"><a href="#cite_note-Durin-3">[2]</a></sup>
+Farin là một trong những [Người Lùn của Dãy Núi Xám](../D/Dwarves_of_the_Grey_Mountains.md). Khi chú Vua [Dáin I](../D/Dáin_I.md) và anh họ [Frór](Frór.md) của anh bị giết bởi [Cold-drake](../C/Cold-drakes.md), người dân của anh buộc phải chạy trốn khỏi [con rồng](../D/Dragons.md) đang bị tai hại [Dãy Núi Xám](../G/Grey_Mountains.md) khi anh mới 29 tuổi. Cha của Farin, [Borin](../B/Borin.md), đã tham gia [Thrór](../T/Thrór.md) khi ông xây dựng lại [Vương quốc dưới Núi](../L/Lonely_Mountain.md) ở [2590](../T/Third_Age_2590.md).<sup id="cite_ref-Durin_3-0" class="reference"><a href="#cite_note-Durin-3">[2]</a></sup>
 
-Farin là cha của [Fundin](Fundin.md) và [Gróin](../G/Gróin.md), và do đó là tổ tiên của cả [Balin](../B/Balin.md) của [Thorin and Company](../T/Thorin_and_Company.md) và [Gimli Elf-friend](../G/Gimli.md), một trong những [Fellowship of the Ring](Fellowship_of_the_Ring.md).<sup id="cite_ref-Durin_3-1" class="reference"><a href="#cite_note-Durin-3">[2]</a></sup>
+Farin là cha của [Fundin](Fundin.md) và [Gróin](../G/Gróin.md), và do đó là tổ tiên của cả [Balin](../B/Balin.md) của [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) và [Gimli Bạn của Tiên tộc](../G/Gimli.md), một trong những [Đoàn Hộ Nhẫn](Fellowship_of_the_Ring.md).<sup id="cite_ref-Durin_3-1" class="reference"><a href="#cite_note-Durin-3">[2]</a></sup>
 
-Trong [2770](../T/Third_Age_2770.md) con rồng [Smaug](../S/Smaug.md) [đã cướp phá Ngọn núi Cô đơn](../S/Sack_of_Erebor.md), khiến người dân nơi đây phải lưu vong.
+Trong [2770](../T/Third_Age_2770.md) con rồng [Smaug](../S/Smaug.md) [đã cướp phá Ngọn Núi Cô Đơn](../S/Sack_of_Erebor.md), khiến người dân nơi đây phải lưu vong.
 
 ## Từ nguyên {#Etymology}
 
@@ -88,14 +88,14 @@ Trong [2770](../T/Third_Age_2770.md) con rồng [Smaug](../S/Smaug.md) [đã cư
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2021: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Farin appears in an extended flashback depicting the <a href="../B/Battle_of_Azanulbizar.md" title="Battle of Azanulbizar">Battle of Azanulbizar</a>, in which he fights alongside his sons and grandsons.</dd></dl>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Người ta nói trong <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">Các dân tộc ở Trung Địa</a></i> rằng phụ nữ người lùn hiếm khi được nêu tên trong gia phả nhưng nếu con trai được coi là trẻ hơn cha mình 110 tuổi thì điều này thường chỉ ra con gái lớn.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Người ta nói trong <i><a href="../T/The_Peoples_of_Middle-earth.md" title="The Peoples of Middle-earth">The Peoples of Middle-earth</a></i> rằng phụ nữ người lùn hiếm khi được nêu tên trong gia phả nhưng nếu con trai được coi là trẻ hơn cha mình 110 tuổi thì điều này thường chỉ ra con gái lớn.</span>
 </li>
 </ol></div></span>
 

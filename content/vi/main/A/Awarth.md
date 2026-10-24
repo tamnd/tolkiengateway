@@ -13,6 +13,6 @@ categories:
   - "Sindarin nouns"
 ---
 
-<i><b>awarth</b></i> là danh từ [Sindarin](../S/Sindarin.md) có nghĩa là *abandonment*. Xem thêm dạng động từ *[awartha-](Awartha-.md)*.
+<i><b>awarth</b></i> là một danh từ [Sindarin](../S/Sindarin.md) có nghĩa là *abandonment*. Xem thêm dạng động từ *[awartha-](Awartha-.md)*.
 
 [Didier Willis](../D/Didier_Willis.md) (ed.), *[Hiswelókë's Sindarin dictionary](../H/Hiswelókë.md)*, <a class="external text" href="http://www.jrrvf.com/hisweloke/sindar/online/sindarin.html" rel="noreferrer noopener" target="_blank">Phiên bản 1.9.1 (Lexicon 0.9952)</a>

@@ -16,7 +16,7 @@ images:
   - "WikimediaUI-ArrowNext-ltr.svg"
 ---
 
-<b><i>L'Arc et le Heaume</i> (Số đặc biệt) n°2</b> (*Conversations avec J.R.R. Tolkien*) là số đặc biệt đầu tiên của fanzine <i><a class="external text" href="https://www.tolkiendil.com/asso/mag" rel="noreferrer noopener" target="_blank">L'Arc et le Heaume</a></i> của hiệp hội [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>) Pháp. Nó được xuất bản vào tháng 9 [2020](../_/2020.md) và được dành riêng cho các cuộc phỏng vấn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<b><i>L'Arc et le Heaume</i> (Số đặc biệt) n°2</b> (*Conversations avec J.R.R. Tolkien*) là số đặc biệt đầu tiên của fanzine <i><a class="external text" href="https://www.tolkiendil.com/asso/mag" rel="noreferrer noopener" target="_blank">L'Arc et le Heaume</a></i> của hiệp hội [Tolkiendil](<../T/Tolkiendil_(Tolkien_society).md>) Pháp. Nó được xuất bản trên tháng Chín [2020](../_/2020.md) và được dành riêng cho các cuộc phỏng vấn với [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 <div class="template-prevnext"><div class="template-prevnext__prev template-prevnext__link"><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/8/81/WikimediaUI-ArrowPrevious-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume  6</div></div><div class="template-prevnext__linkoverlay"><a href="L&#39;Arc_et_le_Heaume_6.md" title="L&#39;Arc et le Heaume 6">L&#39;Arc et le Heaume  6</a></div></div><div class="template-prevnext__current"><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume (Special Issue) 2</div></div></div><div class="template-prevnext__next template-prevnext__link"><div class="template-prevnext__content"><div class="template-prevnext__title">L&#39;Arc et le Heaume  7</div></div><div class="template-prevnext__icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/7/7b/WikimediaUI-ArrowNext-ltr.svg" decoding="async" loading="lazy" width="14" height="14" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="template-prevnext__linkoverlay"><a href="L&#39;Arc_et_le_Heaume_7.md" title="L&#39;Arc et le Heaume 7">L&#39;Arc et le Heaume  7</a></div></div></div>
 
@@ -25,14 +25,14 @@ images:
 - Vivien Stocker - Biên tập
 - Phỏng vấn J.R.R. Tolkien. Réalisée par Denys Gueroult và Janvier 1965 trên đài phát thanh BBC.
 - Một cuộc phỏng vấn với Tolkien. Réalisée vào tháng 3 năm 1966 bởi Henry Resnick cho người hâm mộ tạp chí Niekas.
-- “Tolkien ở Oxford” (BBC, 1968) : Tái thiết Une. Article de Stuart D. Lee pour Tolkien Studies présentant l'intégralité de l'interview de Tolkien réalisée pour le documentaire télévisé « Tolkien in Oxford » của BBC năm 1968.
+- >Tolkien trong Oxford» (BBC, 1968) : Tái thiết Une. Article de Stuart D. Lee pour Tolkien Studies présentant l'intégralité de l'interview de Tolkien réalisée pour le documentaire télévisé « Tolkien in Oxford » của BBC năm 1968.
 
 ## Bản dịch tiếng Anh {#English_translation}
 
 - Vivien Stocker - Biên tập
 - Phỏng vấn J.R.R. Tolkien. Do Denys Gueroult đạo diễn vào tháng 1 năm 1965 cho đài BBC.
-- Một cuộc phỏng vấn với Tolkien. Được sản xuất vào tháng 3 năm 1966 bởi Henry Resnick cho fanzine Niekas.
-- "Tolkien ở Oxford" (BBC, 1968): Tái thiết. Bài viết của Stuart D. Lee cho Tolkien Studies bao gồm toàn bộ cuộc phỏng vấn Tolkien được thực hiện cho bộ phim tài liệu truyền hình 'Tolkien in Oxford' của BBC năm 1968.
+- Cuộc phỏng vấn với Tolkien. Được sản xuất vào tháng 3 năm 1966 bởi Henry Resnick cho fanzine Niekas.
+- "Tolkien trong Oxford" (BBC, 1968): Một sự tái thiết. Bài viết của Stuart D. Lee cho Tolkien Nghiên cứu bao gồm cuộc phỏng vấn đầy đủ Tolkien được thực hiện cho bộ phim tài liệu truyền hình năm 1968 của BBC 'Tolkien ở Oxford'.
 
 ## Liên kết ngoài {#External_links}
 

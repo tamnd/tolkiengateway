@@ -13,7 +13,7 @@ categories:
   - "Fanzines"
 ---
 
-**i-Palantir** là một fanzine được xuất bản bởi nhóm Tolkien có tổ chức đầu tiên, *[The Fellowship of the Ring](<../T/The_Fellowship_of_the_Ring_(fangroup).md>)*. Họ đã xuất bản bốn số báo trước khi tổ chức này bị giải tán. [Ted Johnstone](../T/Ted_Johnstone.md) là người sáng lập.
+**i-Palantir** là một fanzine được xuất bản bởi nhóm Tolkien được tổ chức đầu tiên, *[The Fellowship of the Ring](<../T/The_Fellowship_of_the_Ring_(fangroup).md>)*. Họ đã xuất bản bốn số báo trước khi tổ chức này bị giải tán. [Ted Johnstone](../T/Ted_Johnstone.md) là người sáng lập.
 
 ## Xem thêm {#See_also}
 

@@ -16,7 +16,7 @@ images:
 
 <table class="noprint" style="float: right; border:var(--tg-border-base); background:var(--tg-color-surface-2); margin: .3em .3em .3em 1em; padding: 10px; text-align: center;border-radius:var(--tg-border-radius-large);"><tbody><tr><th style="border: none; background: transparent;" class="plainlist"><small>Shortcuts:<br/><a class="mw-redirect" href="AD.md" title="Tolkien Gateway:AD">TG:AD</a><br/><a class="mw-redirect" href="ADMIN.md" title="Tolkien Gateway:ADMIN">TG:ADMIN</a></small></th></tr></tbody></table>
 
-**Quản trị viên**, còn được gọi là **quản trị viên** hoặc **sysops** (<a class="extiw" href="http://en.wikipedia.org/wiki/sysop" title="wikipedia:sysop"><b>sys</b>tem <b>op</b>erator<b>s</b></a>), là những biên tập viên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đã được cấp khả năng kỹ thuật để thực hiện một số công việc nhất định nhiệm vụ, bao gồm khả năng [chặn và bỏ chặn người dùng](https://tolkiengateway.net/wiki/Special:BlockList), [xóa và phục hồi các trang](https://tolkiengateway.net/wiki/Special:Log/delete) cũng như khôi phục các chỉnh sửa.
+**Quản trị viên**, còn được gọi là **quản trị viên** hoặc **sysops** (<a class="extiw" href="http://en.wikipedia.org/wiki/sysop" title="wikipedia:sysop"><b>sys</b>tem <b>op</b>erator<b>s</b></a>), là những biên tập viên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md) đã được cấp khả năng kỹ thuật để thực hiện một số nhiệm vụ nhất định, bao gồm khả năng thực hiện [chặn và bỏ chặn người dùng](https://tolkiengateway.net/wiki/Special:BlockList), [xóa và phục hồi các trang](https://tolkiengateway.net/wiki/Special:Log/delete) cũng như khôi phục các chỉnh sửa.
 
 Quản trị viên là những tình nguyện viên sử dụng *judgement* của chính mình để thực hiện khả năng của mình vì lợi ích tốt nhất của Tolkien Gateway. Hiện tại có 7 quản trị viên.
 
@@ -58,7 +58,7 @@ Quản trị viên được bổ nhiệm theo [yêu cầu quyền quản trị](
 5. Họ thường xuyên giao dịch với những người dùng khác một cách công bằng, kiềm chế và mang tính xây dựng.
 6. Họ đã thể hiện sự hiểu biết về các chính sách và thủ tục của cộng đồng.
 
-Trong những yêu cầu như vậy, việc bỏ phiếu phải được nhất trí ủng hộ. Quản trị viên cần có được sự tin tưởng và tín nhiệm của cộng đồng nên quản trị viên thường là những biên tập viên có kinh nghiệm đáng kể (hiện tại, sáu quản trị viên là sáu trong số bảy [biên tập viên hàng đầu](../T/Top_Editors.md)). Các quản trị viên tiềm năng cũng cần phải hiểu rõ về [các chính sách](../P/Policy.md), [hướng dẫn về phong cách](../M/Manual_of_Style.md) và [các quy trình](../../help/E/Editing.md) của Tolkien Gateway.
+Trong những yêu cầu như vậy, việc bỏ phiếu phải được nhất trí ủng hộ. Quản trị viên cần có được sự tin tưởng và tín nhiệm của cộng đồng nên quản trị viên thường là những biên tập viên có kinh nghiệm đáng kể (hiện tại, sáu quản trị viên là sáu trong số bảy [biên tập viên hàng đầu](../T/Top_Editors.md)). Quản trị viên tiềm năng cũng cần phải hiểu rõ về [chính sách](../P/Policy.md), [hướng dẫn phong cách](../M/Manual_of_Style.md) và [thủ tục](../../help/E/Editing.md) của Tolkien Gateway.
 
 ## Xem thêm {#See_also}
 

@@ -12,7 +12,7 @@ categories:
   - "Activities"
 ---
 
-**Ninepins**, còn được gọi là *Skittles*, là tổ tiên của môn bowling hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Bilbo Baggins](../B/Bilbo_Baggins.md) rất giỏi trong trò chơi này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+**Ninepins**, còn được gọi là *Skittles*, là tổ tiên của môn bowling hiện đại.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> [Bilbo Baggins](../B/Bilbo_Baggins.md) rất giỏi trò chơi này.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

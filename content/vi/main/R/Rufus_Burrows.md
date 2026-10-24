@@ -34,11 +34,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rufus Burrows</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../H/Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">after <a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../T/Third_Age_3001.md" title="Third Age 3001">1401</a><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../B/Burrows_Family~66358.md" title="Burrows Family">Burrows</a></td></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../A/Asphodel_Brandybuck.md" title="Asphodel Brandybuck">Asphodel Brandybuck</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../M/Milo_Burrows.md" title="Milo Burrows">Milo</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Rufus Burrows** là một người Hobbit của [Quận](../T/The_Shire.md).
+**Rufus Burrows** là một Hobbit của [ Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
-Rufus kết hôn với [Asphodel Brandybuck](../A/Asphodel_Brandybuck.md) và có một con, [Milo](../M/Milo_Burrows.md). Họ đã tham dự [Bữa tiệc sinh nhật của Bilbo](../B/Bilbo's_Farewell_Party.md) cùng với các con của Milo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Rufus kết hôn với [Asphodel Brandybuck](../A/Asphodel_Brandybuck.md) và có một con, [Milo](../M/Milo_Burrows.md). Họ đã tham dự Bữa tiệc sinh nhật của [Bilbo](../B/Bilbo's_Farewell_Party.md) cùng với các con của Milo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

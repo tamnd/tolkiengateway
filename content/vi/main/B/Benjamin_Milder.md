@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Milder, Benjamin"
 ---
 
-**Benjamin Milder** là nhà thiết kế trò chơi, người đã làm việc trên [Bilbo Slider Puzzle](Bilbo_Slider_Puzzle.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Baidu_2-0" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup> và [Tolkien WordSearch](../T/Tolkien_WordSearch.md).<sup id="cite_ref-Baidu_2-1" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+**Benjamin Milder** là nhà thiết kế trò chơi, người đã làm việc trên [Bilbo Câu đố trượt](Bilbo_Slider_Puzzle.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-Baidu_2-0" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup> và [Tolkien Tìm kiếm từ](../T/Tolkien_WordSearch.md).<sup id="cite_ref-Baidu_2-1" class="reference"><a href="#cite_note-Baidu-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

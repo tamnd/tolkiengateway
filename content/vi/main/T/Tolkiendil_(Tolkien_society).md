@@ -16,11 +16,11 @@ sort_keys:
   "Tolkien Societies": "Tolkien dil"
 ---
 
-**L'Assocation Tolkiendil** là một [hội Tolkien](Tolkien_Societies~67099.md) ở Pháp được thành lập tại [2003](../_/2003.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tổ chức phi lợi nhuận này chuyên quảng bá các tác phẩm của J.R.R. Tolkien tại các quốc gia nói tiếng Pháp.
+**L'Assocation Tolkiendil** là một [Tolkien hiệp hội](Tolkien_Societies~67099.md) ở Pháp được thành lập tại [2003](../_/2003.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tổ chức phi lợi nhuận này chuyên quảng bá các tác phẩm của J.R.R. Tolkien tại các quốc gia nói tiếng Pháp.
 
 ## Ấn phẩm {#Publications}
 
-Các ấn phẩm bao gồm *[L'Arc et le Heaume](../L/L'Arc_et_le_Heaume.md)*. Tolkiendil tổ chức nhiều sự kiện Tolkien khác nhau và cũng tham dự các sự kiện liên quan đến Fantasy trong suốt cả năm.
+Các ấn phẩm bao gồm *[L'Arc et le Heaume](../L/L'Arc_et_le_Heaume.md)*. Tolkiendil tổ chức nhiều Tolkien sự kiện khác nhau và cũng tham dự các sự kiện liên quan đến Fantasy trong suốt cả năm.
 
 ## Liên kết ngoài {#External_links}
 

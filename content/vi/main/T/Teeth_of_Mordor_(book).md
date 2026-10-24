@@ -38,20 +38,20 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Merp_Teeth_of_Mordor.jpg.md"><img src="https://tolkiengateway.net/w/images/9/95/Merp_Teeth_of_Mordor.jpg" decoding="async" loading="lazy" width="283" height="364" class="mw-file-element" data-file-width="283" data-file-height="364"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Teeth of Mordor</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="Terry_Kevin_Amthor.md" title="Terry Kevin Amthor">Terry Kevin Amthor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../I/Iron_Crown_Enterprises.md" title="Iron Crown Enterprises">Iron Crown Enterprises</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/1988.md" title="1988">1988</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">32</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/1-55806-96-5" title="Special:BookSources/1-55806-96-5">1-55806-96-5</a></td></tr><tr><th scope="row" class="tg-infobox-label">ICE stock no.</th><td class="tg-infobox-data">8202</td></tr></tbody></table>
 
-<i><b>Teeth of Mordor</b></i> là phần bổ sung (trong sê-ri *Fortresses of Middle-earth*) cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
+<i><b>Răng Mordor</b></i> là phần bổ sung (trong bộ *Fortresses of Middle-earth*) cho *[Middle-earth Role Playing](../M/Middle-earth_Role_Playing.md)*, Phiên bản đầu tiên.
 
 ## Văn bản bìa/áo khoác {#Cover/Jacket_Text}
 
-Hai trong số những tòa tháp đáng sợ nhất ở Trung Địa, Răng Mordor bảo vệ lối vào Mordor, vùng đất của Sauron. Những pháo đài được Gondor dựng lên nhằm ngăn chặn những sinh vật tà ác quay trở lại Vùng Đất Đen. Sau Đại dịch hạch, nó được tái sinh bởi chính loài Orc và Troll mà nó được thiết kế để ngăn cấm.
+Hai trong số những tòa tháp đáng sợ nhất trong Trung Địa, Răng của Mordor bảo vệ lối vào Mordor, vùng đất của Sauron. Những pháo đài được Gondor dựng lên nhằm ngăn chặn những sinh vật tà ác quay trở lại Vùng Đất Đen. Sau Đại Dịch, nó đã được tái tạo lại bởi chính Orc và Troll mà nó được thiết kế để cấm.
 
-Cao gần 200 feet, Răng được gọi riêng là Carchost (s. "Fang-fort") và Narchost (s. "Fire-fort"). Những tòa tháp này và thành lũy nối liền của chúng tạo nên khoảng cách giữa Dãy núi Tro và Dãy núi Bóng tối. Được đục bằng xỉ mịn và trong như thủy tinh, chúng phun trào từ vùng đồng bằng bị tra tấn giống như những chiếc hàm khổng lồ bằng gỗ mun sẵn sàng áp sát kẻ xâm nhập ngu ngốc.
+Cao gần 200 feet, Răng được gọi riêng là Carchost (s. "Fang-fort") và Narchost (s. "Fire-fort"). Những tòa tháp này và thành lũy nối liền của chúng tạo ra khoảng cách giữa Dãy Núi của Ash và Dãy Núi Bóng Tối. Được đục bằng xỉ mịn và trong như thủy tinh, chúng phun trào từ vùng đồng bằng bị tra tấn giống như những chiếc hàm khổng lồ bằng gỗ mun sẵn sàng áp sát kẻ xâm nhập ngu ngốc.
 
 Các tính năng của TEETH OF MORDOR:
 
 - Hơn 20 trang bố cục, phối cảnh và hình minh họa.
 - Bố cục đa cấp, hoàn chỉnh cho Carchost, Narchhost và khu phức hợp cổng trung tâm.
-- Dữ liệu đồn trú của cả lực lượng Gondorian và Sauronic.
-- Số liệu thống kê và thông tin cơ bản về Mouth of Sauron và Dwar of Waw, chỉ huy Nazgul của Morannon.
+- Dữ liệu đồn trú cho cả lực lượng Gondor và Sauronic.
+- Số liệu thống kê và thông tin cơ bản về Miệng của Sauron và Người lùn xứ Waw, chỉ huy Nazgul của Morannon.
 
 ## Xem thêm {#See_also}
 

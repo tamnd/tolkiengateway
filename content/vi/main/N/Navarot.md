@@ -11,4 +11,4 @@ redirect_target: "Nogrod"
 redirect_fragment: "Etymology"
 ---
 
-Chuyển hướng tới [Nogrod](Nogrod.md#Etymology).
+Chuyển hướng đến [Nogrod](Nogrod.md#Etymology).

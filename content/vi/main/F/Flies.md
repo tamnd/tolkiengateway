@@ -18,13 +18,13 @@ langlinks:
     url: "https://kontu.wiki/K%C3%A4rp%C3%A4set"
 ---
 
-**Ruồi** là loài côn trùng bay mệt mỏi. Khi [Frodo](Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) cố gắng tiến về phía bắc xuyên qua khe hở của [Morgai](../M/Morgai.md) ở [Mordor](../M/Mordor.md), họ gặp phải ruồi, màu nâu sẫm hoặc xám hoặc đen, được đánh dấu giống [Orc](../O/Orcs.md) với một đốm hình [mắt đỏ](../E/Eye_of_Sauron.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Ruồi** là loài côn trùng bay mệt mỏi. Khi [Frodo](Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) cố gắng tiến về phía bắc qua các khe hẹp của [Morgai](../M/Morgai.md) ở [Mordor](../M/Mordor.md), họ gặp phải ruồi, màu nâu sẫm hoặc xám hoặc đen, được đánh dấu giống như [Orc](../O/Orcs.md) với một đốm hình [mắt đỏ](../E/Eye_of_Sauron.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Tên khác {#Other_names}
 
-Tên [Quenya](../Q/Quenya.md) của "côn trùng nhỏ bay" là *pī*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tên [Quenya](../Q/Quenya.md) của "côn trùng nhỏ, ruồi" là *pī*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Yêu tinh](../E/Elvish.md), từ "ruồi" là *sitha*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Tên [Qenya](../Q/Qenya.md) cho "ruồi nhỏ" là *mí*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Tên [Common Từ Eldarin](../C/Common_Eldarin.md) cho "ruồi lớn" là *buzbō*, với các từ phái sinh là [Telerin](../T/Telerin.md) *buspo*, [Quenya](../Q/Quenya.md) *puspo, pupso* và [Sindarin](../S/Sindarin.md) *buðu*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Trong [Gnomish](../G/Gnomish.md), một trong những quan niệm ban đầu của [Tolkien](../J/J.R.R._Tolkien.md) về ngôn ngữ [Tiên](../E/Elvish.md), từ "ruồi" là *sitha*.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> Tên [Qenya](../Q/Qenya.md) cho "ruồi nhỏ" là *mí*.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup> Từ [Common Eldarin](../C/Common_Eldarin.md) cho "ruồi lớn" là *buzbō*, với các từ phái sinh là [Telerin](../T/Telerin.md) *buspo*, [Quenya](../Q/Quenya.md) *puspo, pupso* và [Sindarin](../S/Sindarin.md) *buðu*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 ## Liên kết ngoài {#External_links}
 

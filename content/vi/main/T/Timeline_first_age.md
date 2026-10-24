@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Timeline/First Age"
 ---
 
-Chuyển hướng đến [Dòng thời gian/Thời đại đầu tiên](Timeline%252FFirst_Age.md).
+Chuyển hướng đến [Dòng thời gian/Kỷ Đệ Nhất](Timeline%252FFirst_Age.md).

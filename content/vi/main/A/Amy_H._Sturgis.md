@@ -43,20 +43,20 @@ infobox:
     - "Cuộc phỏng vấn với Búa Thủy Tinh"
 - [2004](../_/2004.md): *[Parma Nölé 9](../P/Parma_Nölé_9.md)*
     - "Nhìn lại và nhìn lại: Sự tập hợp của tình bằng hữu"
-- [2004](../_/2004.md): *Tolkien trên phim: Các tiểu luận về Chúa tể của những chiếc nhẫn của Peter Jackson*
-    - "Make Mine 'Movieverse': Cộng đồng người hâm mộ tiểu thuyết Tolkien đã học cách ngừng lo lắng và yêu mến Peter Jackson như thế nào"
+- [2004](../_/2004.md): *Tolkien về Phim: Các bài tiểu luận về The Lord of the Rings* của Peter Jackson
+    - "Tạo ra 'Movieverse' của tôi: Cộng đồng người hâm mộ tiểu thuyết Tolkien đã học cách ngừng lo lắng và yêu thương như thế nào Peter Jackson"
 - [2006](../_/2006.md): *[Mythlore 93/94](../M/Mythlore_93%252F94.md)*
-    - "Tái hiện lại bông hồng: Miêu tả bông hồng Rosie của Tolkien trong tiểu thuyết của người hâm mộ thế kỷ 21"
+    - "Tái hiện lại bông hồng: Miêu tả Rosie Cotton của Tolkien trong tiểu thuyết của người hâm mộ thế kỷ 21"
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](../J/J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
-    - "Tiểu thuyết dành cho người hâm mộ"
+    - "Tiểu thuyết của người hâm mộ"
     - "Chúa tể của những chiếc nhẫn, The"
-    - "Định hình Trung địa"
+    - "Định hình Trung Địa"
 - [2008](../_/2008.md) *Phụ nữ trong khoa học viễn tưởng và giả tưởng: Bách khoa toàn thư*
     - "J.R.R. Tolkien"
 - [2009](../_/2009.md): *Cuộc trò chuyện của Đầu Heo: Các bài tiểu luận về Harry Potter*
     - "Khi Harry gặp Thần tiên: Trường Hogwarts của Rowling, Truyện cổ tích của Tolkien và Câu hỏi về độc giả"
 - [2010](../_/2010.md): *[Middle-earth Minstrel](../M/Middle-earth_Minstrel.md)*
-    - "'Tolkien là gió và con đường': Giá trị giáo dục của âm nhạc thế giới lấy cảm hứng từ Tolkien"
+    - "'Tolkien là Gió và Con Đường': Giá trị giáo dục của Tolkien-Âm nhạc Thế giới lấy cảm hứng"
 
 ## Giải thưởng {#Awards}
 

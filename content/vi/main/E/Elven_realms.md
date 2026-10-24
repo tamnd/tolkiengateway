@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Category:Elven realms"
 ---
 
-Chuyển hướng đến [Danh mục:Vương quốc yêu tinh](../../category/E/Elven_realms.md).
+Chuyển hướng đến [Danh mục:Tiên vương quốc](../../category/E/Elven_realms.md).

@@ -36,11 +36,11 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Miriam_Ellis_-_Old_Noakes.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/14/Miriam_Ellis_-_Old_Noakes.jpg/320px-Miriam_Ellis_-_Old_Noakes.jpg" decoding="async" loading="lazy" width="320" height="353" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/1/14/Miriam_Ellis_-_Old_Noakes.jpg 1.5x" data-file-width="375" data-file-height="414"/></a><figcaption>Old Noakes - Detail by <a href="../M/Miriam_Ellis.md" title="Miriam Ellis">Miriam Ellis</a></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../H/Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Old Noakes</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../B/Bywater.md" title="Bywater">Bywater</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">late <a href="../T/Third_Age.md" title="Third Age">Third Age</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Gallery</th><td class="tg-infobox-data"><a href="../../category/I/Images_of_Old_Noakes.md" title="Category:Images of Old Noakes">Images of Old Noakes</a></td></tr></tbody></table>
 
-**Old Noakes** là một [Hobbit](../H/Hobbits.md) đến từ [Bywater](../B/Bywater.md).
+**Old Noakes** là [Hobbit](../H/Hobbits.md) từ [Bywater](../B/Bywater.md).
 
 ## Lịch sử {#History}
 
-Noakes là khách quen của [Ivy Bush](../I/Ivy_Bush.md) và là bạn của [the Gaffer](../G/Gaffer_Gamgee.md). Ông đã có mặt tại bữa tiệc của mình ngay trước [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md). Hỏi Gaffer về [Frodo Baggins](../F/Frodo_Baggins.md), ông ta nghĩ rằng ông ta phải hơn một nửa [một Brandybuck](../B/Brandybuck_Family~66350.md), công khai thắc mắc tại sao [bất kỳ ai](../D/Drogo_Baggins.md) nên tìm [một người vợ](../P/Primula_Brandybuck.md) ở [Buckland](../B/Buckland.md). Khi Gaffer đề cập đến tai nạn của cha mẹ Frodo, Noakes nói rằng ông nghe nói họ đi chơi sau bữa tối và chính trọng lượng của Drogo Baggins đã làm chìm thuyền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Noakes là khách quen của [Ivy Bush](../I/Ivy_Bush.md) và là bạn của [the Gaffer](../G/Gaffer_Gamgee.md). Ông đã có mặt tại bữa tiệc của mình ngay trước [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md). Hỏi Gaffer về [Frodo Baggins](../F/Frodo_Baggins.md), ông ta nghĩ rằng mình phải hơn một nửa [một Brandybuck](../B/Brandybuck_Family~66350.md), công khai thắc mắc tại sao [bất kỳ ai](../D/Drogo_Baggins.md) nên tìm [một người vợ](../P/Primula_Brandybuck.md) ở [Buckland](../B/Buckland.md). Khi Gaffer đề cập đến tai nạn của cha mẹ Frodo, Noakes đề cập rằng ông nghe nói họ đi chơi sau bữa tối vào ban đêm và chính trọng lượng của Drogo Baggins' đã làm chìm thuyền.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -48,7 +48,7 @@ Noake(s) hay Noke(s) là một họ có thật trong tiếng Anh, có lẽ bắt
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản nháp đầu tiên, Noakes đã hỏi về [Bingo Baggins](../F/Frodo_Baggins.md) và đề cập rằng ông sẽ trưởng thành vào cùng ngày với [Bữa tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong bản nháp đầu tiên, Noakes đã hỏi về [Bingo Baggins](../F/Frodo_Baggins.md) và đề cập rằng ông sẽ trưởng thành cùng ngày với [Tiệc chia tay của Bilbo](../B/Bilbo's_Farewell_Party.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
@@ -87,20 +87,20 @@ Trong bản nháp đầu tiên, Noakes đã hỏi về [Bingo Baggins](../F/Frod
 
 <dl><dd>Old Noakes is played by Wolfgang Laugwitz.</dd></dl>
 
-<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
+<b>2001: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring.md" title="The Lord of the Rings: The Fellowship of the Ring">The Lord of the Rings: The Fellowship of the Ring</a></i> (<a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(extended_edition).md" title="The Lord of the Rings: The Fellowship of the Ring (extended edition)">Phiên bản mở rộng</a>)</b>
 
 <dl><dd></dd>
 <dd>Old Noakes is present at the Gaffer&#39;s conversation, though the setting is moved from the Ivy Bush to the Green Dragon. When the Gaffer mentions that strange folk have been seen in the Shire, Noakes shakes his head and says &#34;War&#39;s brewing. The mountains are fair teeming with goblins.&#34; He is played by <a href="../W/William_Johnson.md" title="William Johnson">William Johnson</a>.</dd></dl>
 
-<b>2002: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">Trò chơi thẻ bài Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2002: <i><a href="../T/The_Lord_of_the_Rings_Trading_Card_Game.md" title="The Lord of the Rings Trading Card Game">The Lord of the Rings Trò chơi đánh bài</a></i>:</b>
 
 <dl><dd>Contrary to the film, <a href="../D/Decipher.md" title="Decipher">Decipher</a> identifies a different Hobbit from Bilbo&#39;s Party as Old Noakes.</dd></dl>
 
-<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>Chúa tể của những chiếc nhẫn: Hiệp hội những chiếc nhẫn</i> (trò chơi điện tử)</a>:</b>
+<b>2002: <a href="../T/The_Lord_of_the_Rings%253A_The_Fellowship_of_the_Ring_(video_game).md" title="The Lord of the Rings: The Fellowship of the Ring (video game)"><i>The Lord of the Rings: The Fellowship of the Ring</i> (trò chơi điện tử)</a>:</b>
 
 <dl><dd>Old Noakes sits on a bench just beyond Bywater. <a href="../S/Sancho_Proudfoot.md" title="Sancho Proudfoot">Sancho Proudfoot</a> stole his medicinal herbs; retrieving them is a side mission.</dd></dl>
 
-<b>2025: <i><a href="../T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Tales of the Shire: Trò chơi "Chúa tể của những chiếc nhẫn"</a></i>:</b>
+<b>2025: <i><a href="../T/Tales_of_the_Shire%253A_A_%2522The_Lord_of_the_Rings%2522_Game.md" title="Tales of the Shire: A &#34;The Lord of the Rings&#34; Game">Câu chuyện về Shire: Trò chơi "The Lord of the Rings"</a></i>:</b>
 
 <dl><dd>Old Noakes is an interactive character. He can be invited to meals and, after reaching a milestone, can trade with the player.</dd></dl>
 

@@ -31,11 +31,11 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien đã được gửi một danh sách [bản dịch](../T/Translated_names.md) theo danh pháp cho bản dịch đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, sang tiếng Hà Lan bởi [Max Schuchart](../M/Max_Schuchart.md). Tolkien viết rằng ông phản đối việc dịch thuật ngữ danh pháp cá nhân; [the Shire](../T/The_Shire.md) được dựa trên (hoặc, như ông tự gọi nó là "sự nhại lại") vùng nông thôn nước Anh; Thêm vào đó, địa danh của Quận hoàn toàn khác với Hà Lan.
+Tolkien đã được gửi một danh sách [bản dịch](../T/Translated_names.md) vào danh pháp cho bản dịch đầu tiên của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, sang tiếng Hà Lan bởi [Max Schuchart](../M/Max_Schuchart.md). Tolkien viết rằng ông phản đối việc dịch thuật ngữ danh pháp cá nhân; [bộ Shire](../T/The_Shire.md) dựa trên (hoặc, như chính ông gọi nó là "sự nhại lại") vùng nông thôn nước Anh; hơn nữa, địa danh của Shire hoàn toàn khác với địa danh của Hà Lan.
 
-Về bản đồ "*[A Part of the Shire](../A/A_Part_of_the_Shire.md)*", Tolkien nghĩ dịch nó sang "*Een deel von* (sic) *'The Shire'*" là đủ. Do không dịch [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md), Người dịch (từ này được viết hoa xuyên suốt bức thư) đã tự gặp rắc rối; Tiếng Anglo-Saxon không giống tiếng Hà Lan như Schuchart đã dịch, nó có liên quan đến tiếng Anh.
+Về bản đồ "*[A Part of the Shire](../A/A_Part_of_the_Shire.md)*", Tolkien nghĩ dịch nó sang "*Een deel von* (sic) *'The Shire'*" là đủ. Do không dịch [Phụ lục](../T/The_Lord_of_the_Rings_Appendices.md), Người dịch (từ này được viết hoa xuyên suốt bức thư) đã tự gặp rắc rối; Anglo-Saxon không giống tiếng Hà Lan như Schuchart đã dịch, nó liên quan đến tiếng Anh.
 
-Tolkien đã gửi lại một lá thư có bình luận chi tiết và đề nghị không dịch các bản đồ và để nguyên danh pháp cá nhân càng nhiều càng tốt. Ông ta có thể cung cấp một danh sách các từ nguyên có thể được đưa vào.
+Tolkien đã gửi lại một lá thư có bình luận chi tiết và đề nghị không dịch các bản đồ và giữ nguyên danh pháp cá nhân càng nhiều càng tốt. Ông ta có thể cung cấp một danh sách các từ nguyên có thể được đưa vào.
 
 Yêu cầu quan trọng nhất của Tolkien là từ [hobbit](../H/Hobbits.md) không được thay đổi; không còn "[Hompen](../H/Hompen.md)".
 
@@ -45,7 +45,7 @@ Yêu cầu quan trọng nhất của Tolkien là từ [hobbit](../H/Hobbits.md) 
 
 - Schuchart đã dịch các địa danh.
 - *Poupette à l'épingle* có nghĩa tương đương với "Con rối trên một chiếc ghim".
-- Để chứng tỏ rằng việc dịch Shirenames là không cần thiết, Tolkien đã dịch một số thành phố của Hà Lan sang tiếng Anh. Có hai dạng khó hiểu: *Hedge*, bản dịch của *'s Gravenhage*, thay vì \**Count's Hedge* (thành phố này thường được gọi là <a class="extiw" href="http://en.wikipedia.org/wiki/The_Hague" title="wikipedia:The Hague">The Hague</a>) và *Applethorn*, bản dịch theo nghĩa đen của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Apeldoorn" title="wikipedia:Apeldoorn">Apeldoorn</a></i>, trong đó \**Appledores* sẽ chính xác hơn.
+- Để chứng minh rằng việc dịch Shirenames là không cần thiết, Tolkien đã dịch một số thành phố của Hà Lan sang tiếng Anh. Có hai dạng khó hiểu: *Hedge*, bản dịch của *'s Gravenhage*, thay vì \**Count's Hedge* (thành phố này thường được gọi là <a class="extiw" href="http://en.wikipedia.org/wiki/The_Hague" title="wikipedia:The Hague">The Hague</a>) và *Applethorn*, bản dịch theo nghĩa đen của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Apeldoorn" title="wikipedia:Apeldoorn">Apeldoorn</a></i>, trong đó \**Appledores* sẽ chính xác hơn.
 
 <br>
 

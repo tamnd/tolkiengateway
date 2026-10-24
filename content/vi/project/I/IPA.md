@@ -15,11 +15,11 @@ sort_keys:
   "Linguistics": "IPA"
 ---
 
-Đây là các biểu đồ để phát âm một số [ngôn ngữ](../../main/L/Languages.md) chính của [Arda](../../main/A/Arda.md) bằng cách sử dụng <a class="extiw" href="http://en.wikipedia.org/wiki/International_Phonetic_Alphabet" title="wikipedia:International Phonetic Alphabet">Bảng chữ cái phiên âm quốc tế</a>. Nhiều cách phát âm IPA trong số này sẽ không đạt 100% *exact* (không có bản ghi âm trong phòng thí nghiệm nào về bài phát biểu của [Eldar](../../main/E/Eldar.md) ngoài đời thực, vì chúng là hư cấu), nhưng chúng là âm vị.
+Đây là các biểu đồ để phát âm một số [ngôn ngữ](../../main/L/Languages.md) chính của [Arda](../../main/A/Arda.md) bằng cách sử dụng <a class="extiw" href="http://en.wikipedia.org/wiki/International_Phonetic_Alphabet" title="wikipedia:International Phonetic Alphabet">Bảng chữ cái phiên âm quốc tế</a>. Nhiều cách phát âm IPA trong số này sẽ không đạt 100% *exact* (không có bản ghi âm trong phòng thí nghiệm nào về lời nói của đời thực [Eldar](../../main/E/Eldar.md), vì chúng là hư cấu), nhưng chúng là âm vị.
 
 ## Biểu đồ {#Charts}
 
-### [Quảng cáo](../../main/A/Adûnaic.md) {#Adûnaic}
+### [Adûnaic](../../main/A/Adûnaic.md) {#Adûnaic}
 
 <table class="wikitable">
 <tbody><tr>
@@ -1044,12 +1044,12 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 
 #### ghi chú bổ sung {#additional_notes}
 
-- Trọng âm tiết không phải là âm vị trong tiếng Quenya, nhưng ngôn ngữ này có trọng âm âm tiết được xác định rõ ràng và khá dễ đoán.
+- Trọng âm tiết không phải là âm vị trong Quenya, nhưng ngôn ngữ này có trọng âm âm tiết được xác định rõ ràng và khá dễ đoán.
     - Trong những từ có hai âm tiết, âm tiết thứ nhất được nhấn mạnh.
     - Trong những từ có ba âm tiết trở lên, âm tiết trước (thứ ba đến cuối) được nhấn mạnh *usually*. Tuy nhiên:
     - Nếu âm tiết áp chót (từ thứ hai đến cuối) là nguyên âm dài, nguyên âm đôi hoặc kết thúc bằng cụm phụ âm (bao gồm **x**) thì âm tiết này được nhấn mạnh.
 
-### [Tiếng Sindarin](../../main/S/Sindarin.md) {#Sindarin}
+### [Sindarin](../../main/S/Sindarin.md) {#Sindarin}
 
 <table class="wikitable">
 <tbody><tr>
@@ -1315,7 +1315,7 @@ Lưu ý rằng không có **p** hoặc **ph** trong Khuzdul.
 
 #### ghi chú bổ sung {#additional_notes_2}
 
-- Sindarin có kiểu nhấn âm tiết rất dễ đoán, gần giống với kiểu của [Quenya](#Quenya).
+- Sindarin có kiểu nhấn âm tiết rất dễ đoán, hầu như giống với [Quenya](#Quenya).
 
 ## Tài liệu tham khảo {#References}
 

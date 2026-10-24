@@ -12,9 +12,9 @@ categories:
   - "Unpublished material"
 ---
 
-**Elvish time** là một bài tiểu luận chưa được xuất bản một phần và chưa hoàn thành của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Văn bản được giấu trong các bản thảo của thời kỳ *[The Lost Road](../T/The_Lost_Road.md)* (thập niên 1930).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Phần viết chủ yếu tập trung giải thích các khái niệm của con người liên quan đến thời gian chứ không đi sâu vào giải thích quan điểm của Yêu tinh.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Elvish time** là một bài tiểu luận chưa được xuất bản một phần và chưa hoàn thành của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md). Văn bản được giấu trong các bản viết tay thời kỳ *[The Lost Road](../T/The_Lost_Road.md)* (thập niên 1930).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Phần viết chủ yếu tập trung giải thích các khái niệm của con người liên quan đến thời gian, không đi sâu vào giải thích góc nhìn Tiên.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Đoạn trích từ bài tiểu luận được xuất bản lần đầu trong *[A Question of Time: J.R.R. Tolkien's Road to Faërie](../A/A_Question_of_Time.md)*, bởi [Verlyn Flieger](../V/Verlyn_Flieger.md) (1997). Chúng đã được tái bản cùng với một số văn bản liên quan khác trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*, do [Carl F. Hostetter](../C/Carl_F._Hostetter.md) biên tập (2021).
+Các đoạn trích từ bài tiểu luận được xuất bản lần đầu trong *[A Question of Time: J.R.R. Tolkien's Road to Faërie](../A/A_Question_of_Time.md)*, bởi [Verlyn Flieger](../V/Verlyn_Flieger.md) (1997). Chúng đã được tái bản cùng với một số văn bản liên quan khác trong *[The Nature of Middle-earth](../T/The_Nature_of_Middle-earth.md)*, do [Carl F. Hostetter](../C/Carl_F._Hostetter.md) biên tập (2021).
 
 ## Trích xuất {#Extract}
 

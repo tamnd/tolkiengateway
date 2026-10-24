@@ -42,7 +42,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/A/AmonHen69.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/2/23/AmonHen69.jpg/320px-AmonHen69.jpg" decoding="async" loading="lazy" width="320" height="460" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/2/23/AmonHen69.jpg/480px-AmonHen69.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/2/23/AmonHen69.jpg/640px-AmonHen69.jpg 2x" data-file-width="695" data-file-height="1000"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Amon Hen 69</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Colin Davey</td></tr><tr><th scope="row" class="tg-infobox-label">Illustrator</th><td class="tg-infobox-data">Matthew Leys</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data">Hanway Print Centre, London</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">September <a href="../_/1984.md" title="1984">1984</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A5 stapled paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">28</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0306-8781</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Amon_Hen_68.md" title="Amon Hen 68">Amon Hen 68</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Amon_Hen_70.md" title="Amon Hen 70">Amon Hen 70</a></td></tr></tbody></table>
 
-<b><i>Amon Hen</i> 69</b> là số thứ sáu mươi chín của tạp chí hai tháng một lần của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, xuất bản vào tháng 9 [1984](../_/1984.md).
+<b><i>Amon Hen</i> 69</b> là số thứ sáu mươi chín của tạp chí hai tháng một lần của [Hội Tolkien](../T/The_Tolkien_Society.md) *[Amon Hen](<Amon_Hen_(journal).md>)*, được xuất bản trên tháng Chín [1984](../_/1984.md).
 
 ## Nội dung {#Contents}
 
@@ -53,16 +53,16 @@ infobox:
     - Bởi: Colin Davey
 - Thông báo
 - Đánh giá
-- Của Vùng Đất Bóng Tối
+- Của Đất Bóng Tối
     - Bởi: [Ted Nasmith](../T/Ted_Nasmith.md)
 - Trao sự sống
     - Bởi: Brennan McKenzie
-- Một yêu tinh kỳ lạ
+- Một điều kỳ lạ Tiên
     - Bởi: Linda Heard
 - Góc của Jessica
     - Bởi: Jessica Yates
 - Hãy mỉm cười
-- Truyện dân ca
+- Truyện dân gian
 - Thư
 - Các loại của Anne
     - Bởi: Anne Haward

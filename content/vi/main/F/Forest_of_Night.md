@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Taur-nu-Fuin (Dorthonion)"
 ---
 
-Chuyển hướng đến [Taur-nu-Fuin (Dorthonion)](<../T/Taur-nu-Fuin_(Dorthonion).md>).
+Chuyển hướng tới [Taur-nu-Fuin (Dorthonion)](<../T/Taur-nu-Fuin_(Dorthonion).md>).

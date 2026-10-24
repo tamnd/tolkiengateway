@@ -62,13 +62,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Return_of_the_Shadow_1988.png.md"><img src="https://tolkiengateway.net/w/images/thumb/0/01/Return_of_the_Shadow_1988.png/309px-Return_of_the_Shadow_1988.png" decoding="async" loading="lazy" width="309" height="480" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/0/01/Return_of_the_Shadow_1988.png 1.5x" data-file-width="322" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>The Return of the Shadow</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Author</th><td class="tg-infobox-data"><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../C/Christopher_Tolkien.md" title="Christopher Tolkien">Christopher Tolkien</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../U/Unwin_Hyman.md" title="Unwin Hyman">Unwin Hyman</a> (UK)<br/><a class="mw-redirect" href="../H/Houghton_Mifflin.md" title="Houghton Mifflin">Houghton Mifflin</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/25_August.md" title="25 August">25 August</a> <a href="../_/1988.md" title="1988">1988</a> (UK)<br/><a href="../_/5_January.md" title="5 January">5 January</a> <a href="../_/1989.md" title="1989">1989</a> (US)</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Hardcover; paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">480</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/0044401620" title="Special:BookSources/0044401620">0044401620</a></td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="The_Lost_Road_and_Other_Writings.md" title="The Lost Road and Other Writings">The Lost Road and Other Writings</a> (1987)</td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="The_Treason_of_Isengard.md" title="The Treason of Isengard">The Treason of Isengard</a> (1989)</td></tr></tbody></table>
 
-<i><b>Sự trở lại của bóng tối</b></i>, xuất bản năm [1988](../_/1988.md), là tập thứ sáu trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
+<i><b>The Return of the Shadow</b></i>, xuất bản trong [1988](../_/1988.md), là tập thứ sáu trong bộ sách 12 tập của [Christopher Tolkien](../C/Christopher_Tolkien.md), *[The History of Middle-earth](The_History_of_Middle-earth.md)*, trong đó ông phân tích các bản thảo chưa xuất bản của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
 Đây cũng là tập đầu tiên của *[The History of The Lord of the Rings](The_History_of_The_Lord_of_the_Rings.md)*, ghi lại quá trình viết của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
-Cuốn sách này bao gồm một phần lớn nội dung của *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*. Nó bao gồm *TLotR's* ba giai đoạn sáng tác ban đầu hoặc, như Christopher Tolkien gọi chúng là "các giai đoạn", bao gồm cả cái mà sau này Tolkien gọi là "chương quan trọng" thiết lập cốt truyện trung tâm, "*[The Shadow of the Past](The_Shadow_of_the_Past.md)*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó kết thúc với việc [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) tiến vào [Mỏ Moria](../M/Moria.md).
+Cuốn sách này bao gồm một phần lớn nội dung của *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*. Nó bao gồm *TLotR's* ba giai đoạn sáng tác ban đầu hoặc, như Christopher Tolkien gọi chúng là "các giai đoạn", bao gồm cả cái mà Tolkien sau này gọi là "chương quan trọng" thiết lập cốt truyện trung tâm, "*[The Shadow of the Past](The_Shadow_of_the_Past.md)*".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó kết thúc bằng việc [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) đi vào [Mỏ của Moria](../M/Moria.md).
 
-Tiêu đề *The Return of the Shadow* là tiêu đề bị loại bỏ cho *The Fellowship of the Ring*. Tolkien cũng đặt tên cho mỗi cuốn trong số sáu cuốn *TLotR*, sau đó ông đã loại bỏ. Một số trong số này đã được sử dụng làm tiêu đề cho các tập tiếp theo.
+Tiêu đề *The Return of the Shadow* là tiêu đề bị loại bỏ cho *The Fellowship of the Ring*. Tolkien cũng đặt tên cho mỗi cuốn trong số sáu cuốn sách của *TLotR*, sau đó ông đã loại bỏ. Một số trong số này đã được sử dụng làm tiêu đề cho các tập tiếp theo.
 
 ## Nội dung {#Contents}
 
@@ -76,42 +76,42 @@ Tiêu đề *The Return of the Shadow* là tiêu đề bị loại bỏ cho *The
 
 - **Giai đoạn đầu tiên**
     - Tôi. "[Bữa tiệc được mong đợi từ lâu](<../A/A_Long-expected_Party_(chapter_in_The_Return_of_the_Shadow).md>)"
-    - II. "[Từ Hobbiton đến đầu rừng](../F/From_Hobbiton_to_the_Woody_End.md)"
-    - III. "[Của Gollum và chiếc nhẫn](../O/Of_Gollum_and_the_Ring.md)"
+    - II. "[Từ Hobbiton đến Woody End](../F/From_Hobbiton_to_the_Woody_End.md)"
+    - III. "[Của Gollum và Chiếc Nhẫn](../O/Of_Gollum_and_the_Ring.md)"
     - IV. "[Tới trang trại của Maggot và Buckland](To_Maggot's_Farm_and_Buckland.md)"
-    - V. "[Rừng già và gió lùa](The_Old_Forest_and_the_Withywindle.md)"
+    - V. "[Cái Khu Rừng Cổ và cái Withywindle](The_Old_Forest_and_the_Withywindle.md)"
     - VI. "[Tom Bombadil](<Tom_Bombadil_(chapter).md>)"
     - VII. "[Barrow-wight](The_Barrow-wight.md)"
-    - VII. "[Đến Bree](../A/Arrival_at_Bree.md)"
-    - IX. "[Trotter và hành trình đến đỉnh thời tiết](Trotter_and_the_Journey_to_Weathertop.md)"
+    - VII. "[Đến lúc Bree](../A/Arrival_at_Bree.md)"
+    - IX. "[Nước kiệu và hành trình tới Weathertop](Trotter_and_the_Journey_to_Weathertop.md)"
     - X. "[Cuộc tấn công vào Weathertop](The_Attack_on_Weathertop.md)"
-    - XI. "[Từ Weathertop đến Ford](../F/From_Weathertop_to_the_Ford.md)"
+    - XI. "[Từ Weathertop tới Ford](../F/From_Weathertop_to_the_Ford.md)"
     - XII. "[Tại Rivendell](../A/At_Rivendell.md)"
     - XIII. "[Truy vấn và thay đổi](../Q/Queries_and_Alterations.md)"
 
 - **Giai đoạn thứ hai**
-    - XIV. "[Trở lại Hobbiton](../R/Return_to_Hobbiton.md)"
+    - XIV. "[Quay lại Hobbiton](../R/Return_to_Hobbiton.md)"
     - XV. "Lịch sử cổ đại"
     - XVI. “Sự chậm trễ là nguy hiểm”
-    - XVIII. "Một đường cắt ngắn cho nấm"
-    - XVIII. "Một lần nữa từ Buckland đến Withywindle"
+    - XVII. "Một đường cắt ngắn cho nấm"
+    - XVIII. "Lại từ Buckland đến Withywindle"
 
 - **Giai đoạn thứ ba**
-    - XIX. "Hành trình đến Bree"
-    - XX. "Tại dấu hiệu của ngựa chồm"
+    - XIX. "Hành trình tới Bree"
+    - XX. "Tại dấu hiệu của Prancing Pony"
     - XXI. "Tới Weathertop và Rivendell"
     - XXII. “Những điều không chắc chắn mới và những dự đoán mới”
 
 - **Câu chuyện tiếp tục**
-    - XXIII. "Trong ngôi nhà của Elrond"
+    - XXIII. "Tại ngôi nhà của Elrond"
     - XXIV. "Chiếc nhẫn đi về phía Nam"
-    - XXV. "Mỏ Moria"
+    - XXV. "Mỏ của Moria"
 
 - Chỉ mục
 
 ## Chữ khắc {#Inscriptions}
 
-Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung cuốn sách. Dòng chữ trong Quyển VI có nội dung:
+Có một dòng chữ bằng ký tự [Tengwar](Tengwar.md) ở những trang đầu tiên của mỗi tập *History of Middle-earth*, do Christopher Tolkien viết và mô tả nội dung của cuốn sách. Dòng chữ trong Quyển VI có nội dung:
 
 <dl><dd>&#34;<i>In the Return of the Shadow are traced the first forms of the story of the Lord of the Rings; herein the journey of the Hobbit who bore the Great Ring, at first named Bingo but afterwards Frodo, is followed from Hobbiton in the Shire through the Old Forest to Weathertop and Rivendel, and ends in this volume before the <a href="../B/Balin&#39;s_Tomb.md" title="Balin&#39;s Tomb">Tomb of Balin</a>, the Dwarf-lord of Moria.</i>&#34;</dd></dl>
 
@@ -195,7 +195,7 @@ The book comes complete with reproductions of the first maps and facsimile pages
     - Ấn bản bìa mềm năm 1994, đặt lại ở [2002](../_/2002.md), sau đó ở [2015](../_/2015.md)
 - [HarperCollins](../H/HarperCollins.md) bìa cứng ([2010](../_/2010.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/0007365306">ISBN 0007365306</a>
     - Ấn bản bìa mềm năm 2015, lần in thứ 33 ([2024](../_/2024.md))
-- [HarperCollins](../H/HarperCollins.md) bìa cứng với áo khoác chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp Centenary](../C/Centenary_Boxed_Sets.md) #3)
+- [HarperCollins](../H/HarperCollins.md) bìa cứng có áo chống bụi có thể đảo ngược ([2024](../_/2024.md)), <a class="internal mw-magiclink-isbn" href="https://tolkiengateway.net/wiki/Special:BookSources/9780063390843">ISBN 978-0063390843</a> (bộ) - ([Bộ đóng hộp thế kỷ](../C/Centenary_Boxed_Sets.md) #3)
 
 ## Liên kết ngoài {#External_links}
 

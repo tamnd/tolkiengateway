@@ -33,7 +33,7 @@ infobox:
 
 **Stephen Tyrone Colbert** là một nhà châm biếm chính trị, nhà văn, diễn viên, diễn viên hài và người dẫn chương trình truyền hình người Mỹ của *The Colbert Report* và CBS *The Late Show with Stephen Colbert*. Ông đã xuất hiện trong *[The Hobbit: The Desolation of Smaug](../T/The_Hobbit%253A_The_Desolation_of_Smaug.md)* với tư cách là một trong những <a class="new" href="https://tolkiengateway.net/w/index.php?title=Laketown_Spies&amp;action=edit&amp;redlink=1" title="Laketown Spies (page does not exist)">Điệp viên Laketown</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Học giả Tolkien [John D. Rateliff](../J/John_D._Rateliff.md) đã gợi ý rằng Colbert đã đưa ra một phần hiểu biết sâu sắc mang tính học thuật trước đây chưa được ghi lại về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, theo gợi ý của Colbert rằng "*[Gandalf](../G/Gandalf.md) biết [Frodo](../F/Frodo.md) sẽ thất bại trong nỗ lực phá hủy [Chiếc nhẫn](../T/The_One_Ring.md), bởi vì ông đã tận mắt chứng kiến ​​rằng Frodo không thể ném chiếc nhẫn vào tay mình bắn vào [Bag-End](../B/Bag-End.md)*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Tolkien học giả [John D. Rateliff](../J/John_D._Rateliff.md) đã gợi ý rằng Colbert đã đưa ra một phần hiểu biết sâu sắc mang tính học thuật trước đây chưa được ghi lại về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, theo gợi ý của học giả sau rằng "*[Gandalf](../G/Gandalf.md) biết [Frodo](../F/Frodo.md) sẽ thất bại trong nỗ lực phá hủy [Chiếc nhẫn](../T/The_One_Ring.md), bởi vì ông đã tận mắt chứng kiến rằng Frodo không thể ném chiếc nhẫn vào lửa của chính mình. [Cuối túi](../B/Bag-End.md)*".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Vai trò {#Roles}
 
@@ -44,7 +44,7 @@ Học giả Tolkien [John D. Rateliff](../J/John_D._Rateliff.md) đã gợi ý r
 - <b><a class="external text" href="http://www.cbs.com/shows/the-late-show-with-stephen-colbert/" rel="noreferrer noopener" target="_blank">Buổi diễn muộn với Stephen Colbert</a></b>
 - <b><a class="external text" href="http://thecolbertreport.cc.com/" rel="noreferrer noopener" target="_blank">Báo cáo của Colbert</a></b>
 - <a class="extiw" href="http://en.wikipedia.org/wiki/Stephen_Colbert" title="wikipedia:Stephen Colbert">Stephen Colbert</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
-- <a class="external text" href="http://www.tolkiensociety.org/2014/08/stephen-colbert-reveals-his-tolkien-credentials/" rel="noreferrer noopener" target="_blank">Stephen Colbert tiết lộ thông tin xác thực Tolkien của mình</a> tại TolkienSociety.org
+- <a class="external text" href="http://www.tolkiensociety.org/2014/08/stephen-colbert-reveals-his-tolkien-credentials/" rel="noreferrer noopener" target="_blank">Stephen Colbert tiết lộ Tolkien thông tin đăng nhập</a> của mình tại TolkienSociety.org
 
 <span></span>
 

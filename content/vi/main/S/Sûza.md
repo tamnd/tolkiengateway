@@ -22,7 +22,7 @@ sort_keys:
 
 ## Cảm hứng {#Inspiration}
 
-> *"\[...\] thực ra là [Tiếng Bắc Âu cổ](../O/Old_Norse.md) và tiếng Iceland mod.* <a class="extiw" href="http://en.wikipedia.org/wiki/s%C3%BDsla" title="wikipedia:sýsla">sýsla</a> *(Swed.* <a class="extiw" href="http://en.wiktionary.org/wiki/syssla#Swedish" title="wiktionary:syssla">syssla</a>*, Dan.* <a class="extiw" href="http://en.wiktionary.org/wiki/syssel#Danish" title="wiktionary:syssel">syssel</a>*, now obsolete in sense* amt*, nhưng xuất hiện trong tên địa danh) đã có ý nghĩ khi tôi nói rằng cái thật Tên chưa được dịch của Quận là* Súza *\[...\] do đó người ta cũng nói \[...\] rằng đây là một 'quận kinh doanh có trật tự*'*."*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+> *"\[...\] thực ra là [tiếng Bắc Âu cổ](../O/Old_Norse.md) và mod. Tiếng Iceland* <a class="extiw" href="http://en.wikipedia.org/wiki/s%C3%BDsla" title="wikipedia:sýsla">sýsla</a> *(Swed.* <a class="extiw" href="http://en.wiktionary.org/wiki/syssla#Swedish" title="wiktionary:syssla">syssla</a>*, Dan.* <a class="extiw" href="http://en.wiktionary.org/wiki/syssel#Danish" title="wiktionary:syssel">syssel</a>*, now obsolete in sense* amt*, nhưng xuất hiện trong các địa danh) đã nghĩ đến khi tôi nói rằng tên thật chưa được dịch của Shire là* Súza *\[...\] do đó người ta cũng nói \[...\] rằng đây là một 'quận kinh doanh có trật tự*'*."*<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

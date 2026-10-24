@@ -12,9 +12,9 @@ categories:
   - "Encyclopedia websites"
 ---
 
-**Biên niên sử của Arda** là một trang web Bách khoa toàn thư và Cây gia phả được thành lập vào khoảng [2000](../_/2000.md). Tất cả đều được thực hiện bởi một người có trụ sở tại Đan Mạch.
+**Biên niên sử của Arda** là một trang web Bách khoa toàn thư và Cây phả hệ được thành lập vào khoảng [2000](../_/2000.md). Tất cả đều được thực hiện bởi một người có trụ sở tại Đan Mạch.
 
-Nó được thiết kế để có thể tìm thấy bất kỳ thông tin nào về bất kỳ đồ vật, địa điểm, tên, sự kiện và/hoặc mối quan hệ nào. Có các danh mục tiêu đề **Valar, Maiar, Yêu tinh, Con người, Người lùn, Người Hobbit, Orc, Khác, Đồ vật, Trận chiến, Bản đồ, Địa điểm** và **Khác**.
+Nó được thiết kế để có thể tìm thấy bất kỳ thông tin nào về bất kỳ đồ vật, địa điểm, tên, sự kiện và/hoặc mối quan hệ nào. Có các danh mục tiêu đề **Valar, Maiar, Tiên tộc, Con người, Người Lùn, Hobbit, Orc, Khác, Đối tượng, Trận chiến, Bản đồ, Địa điểm** và **Khác**.
 
 Những cập nhật lớn gần đây nhất được thực hiện vào năm 2005. Sau đó, có một số cập nhật gần đây liên quan đến mã trang web và một số tuyên bố từ chối trách nhiệm về bản quyền trang web, *[Children of Húrin](../C/Children_of_Húrin.md)* và rằng quản trị viên web sẽ không thể tiếp tục công việc với tốc độ như cũ.
 

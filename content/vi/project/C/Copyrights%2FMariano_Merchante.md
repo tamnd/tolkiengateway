@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Merchante, Mariano"
 ---
 
-- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mariano_Merchante&amp;action=edit&amp;redlink=1" title="Mariano Merchante (page does not exist)">Mariano Merchante</a> đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Mariano_Merchante.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- <a class="new" href="https://tolkiengateway.net/w/index.php?title=Mariano_Merchante&amp;action=edit&amp;redlink=1" title="Mariano Merchante (page does not exist)">Mariano Merchante</a> đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Mariano_Merchante.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 20 tháng 7 năm 2022
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

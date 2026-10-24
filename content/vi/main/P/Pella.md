@@ -13,7 +13,7 @@ categories:
   - "Quenya prepositions"
 ---
 
-<i><b>pella</b></i> là từ [Quenya](../Q/Quenya.md) có nghĩa là "vượt quá".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+<i><b>pella</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "vượt quá".<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

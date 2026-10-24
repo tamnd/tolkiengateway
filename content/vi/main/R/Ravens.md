@@ -26,13 +26,13 @@ images:
 
 **Quạ** là loài chim lớn màu đen,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> gắn liền với tin dữ về cái chết,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và được biết đến với giọng nói gay gắt.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Những con quạ thông minh của [Ravenhill](Ravenhill.md) gần [Erebor](../E/Erebor.md) có thể sống rất lâu và một số thậm chí còn có thể nói được [Westron](../W/Westron.md) và thân thiện với [Người lùn ở Erebor](../D/Dwarves_of_Erebor.md). [Carc](../C/Carc.md) là một trong số đó, và con trai ông [Roäc](Roäc.md) là thủ lĩnh của bầy quạ ở Erebor vào khoảng [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), khi [Thorin và đồng đội](../T/Thorin_and_Company.md) chiếm lại ngọn núi từ [Smaug](../S/Smaug.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Những con quạ thông minh của [Ravenhill](Ravenhill.md) gần [Erebor](../E/Erebor.md), có thể sống rất lâu và một số thậm chí có thể nói [Westron](../W/Westron.md) và thân thiện với [Người Lùn Erebor](../D/Dwarves_of_Erebor.md). [Carc](../C/Carc.md) từng là một trong số đó, và con trai ông [Roäc](Roäc.md) là thủ lĩnh của bầy quạ Erebor xung quanh [T.A.](../T/Third_Age.md) [2941](../T/Third_Age_2941.md), khi [Thorin và Đoàn tùy tùng](../T/Thorin_and_Company.md) giành lại ngọn núi từ [Smaug](../S/Smaug.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Khi [Peregrin Took](../P/Peregrin_Took.md) trở thành một trong những [Người bảo vệ Thành cổ](../G/Guards_of_the_Citadel.md), trang phục mới của ông bao gồm một "*mũ bảo hiểm có vương miện cao với đôi cánh quạ nhỏ ở hai bên*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Khi [Peregrin Took](../P/Peregrin_Took.md) trở thành một trong những [Đội Cận vệ Thành Trì](../G/Guards_of_the_Citadel.md), trang phục mới của ông bao gồm một "*mũ bảo hiểm có vương miện cao với đôi cánh quạ nhỏ ở hai bên*".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Cảm hứng {#Inspiration}
 
-Có ý kiến ​​​​cho rằng việc sử dụng quạ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gợi nhớ đến hai con quạ đưa tin của <a class="extiw" href="http://en.wikipedia.org/wiki/Odin" title="wikipedia:Odin">Odin</a> <a class="extiw" href="http://en.wikipedia.org/wiki/Huginn_and_Muninn" title="wikipedia:Huginn and Muninn">Huginn và Muninn</a> trong thần thoại Bắc Âu, xuất hiện trong *[Poetic Edda](../P/Poetic_Edda.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> *See also: [Roäc: Inspiration](Roäc.md#Inspiration)*
+Có ý kiến ​​​​cho rằng việc sử dụng quạ của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) gợi nhớ đến hai con quạ đưa tin của <a class="extiw" href="http://en.wikipedia.org/wiki/Odin" title="wikipedia:Odin">Odin</a> <a class="extiw" href="http://en.wikipedia.org/wiki/Huginn_and_Muninn" title="wikipedia:Huginn and Muninn">Huginn và Muninn</a> của thần thoại Bắc Âu, xuất hiện trong *[Poetic Edda](../P/Poetic_Edda.md)*.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> *See also: [Roäc: Inspiration](Roäc.md#Inspiration)*
 
 Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.md)*, chúa tể của loài quạ là <a class="extiw" href="http://en.wikipedia.org/wiki/Rerir" title="wikipedia:Rerir">Rerir</a>, cháu trai của Ódin.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Quạ còn gắn liền với sự xuất hiện của cái chết.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>
 
@@ -40,19 +40,19 @@ Trong *[The Legend of Sigurd and Gudrún](../T/The_Legend_of_Sigurd_and_Gudrún.
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/R/Raven_(MERP).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/b/ba/Raven_%28MERP%29.jpg/150px-Raven_%28MERP%29.jpg" decoding="async" loading="lazy" width="150" height="128" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/b/ba/Raven_%28MERP%29.jpg/225px-Raven_%28MERP%29.jpg 1.5x, https://tolkiengateway.net/w/images/b/ba/Raven_%28MERP%29.jpg 2x" data-file-width="300" data-file-height="255"/></a><figcaption>Raven portrayed in <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">MERP</a></i></figcaption></figure>
 
-<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Nhập vai ở Trung Địa</a></i>:</b>
+<b>1982-97: <i><a href="../M/Middle-earth_Role_Playing.md" title="Middle-earth Role Playing">Middle-earth Role Playing</a></i>:</b>
 
 <dl><dd>Ravens, level 4 birds, are enchanted and intelligent, friends of the Free Peoples. They are reputedly the messengers of the Vala <a href="../M/Mandos.md" title="Mandos">Mandos</a>, and are able to speak many Mannish and Elvish tongues.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 
-<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">Trò chơi nhập vai Chúa tể của những chiếc nhẫn</a></i>:</b>
+<b>2002-5: <i><a href="../T/The_Lord_of_the_Rings_Roleplaying_Game.md" title="The Lord of the Rings Roleplaying Game">The Lord of the Rings Trò chơi nhập vai</a></i>:</b>
 
 <dl><dd>&#34;Ravens of the North&#34; are &#34;<i>creatures of especially powerful magic</i>&#34;, being able to understand Westron and having extraordinarily long lives.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></dd></dl>
 
-<b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">Người Hobbit: Trận chiến của năm đội quân</a></i>:</b>
+<b>2014: <i><a href="../T/The_Hobbit%253A_The_Battle_of_the_Five_Armies.md" title="The Hobbit: The Battle of the Five Armies">The Hobbit: The Battle of the Five Armies</a></i>:</b>
 
 <dl><dd>Many ravens are seen returning to the <a href="../L/Lonely_Mountain.md" title="Lonely Mountain">Lonely Mountain</a> after <a href="../S/Smaug.md" title="Smaug">Smaug</a> is slain. One is later seen setting out for the <a href="../I/Iron_Hills.md" title="Iron Hills">Iron Hills</a>, and then returning just as <a href="../D/Dáin_Ironfoot.md" title="Dáin Ironfoot">Dáin Ironfoot</a>&#39;s army arrives. It is possible this raven could be serving the role of <a href="Roäc.md" title="Roäc">Roäc</a>, but it is never confirmed. Despite the fact that real-life ravens can mimic human speech, they do not speak at all, as with all other birds in <a href="../P/Peter_Jackson.md" title="Peter Jackson">Peter Jackson</a>&#39;s <a href="../M/Middle-earth.md" title="Middle-earth">Middle-earth</a> films.</dd></dl>
 
-<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">Chúa tể của những chiếc nhẫn: Trở lại Moria</a></i>:</b>
+<b>2023: <i><a href="../T/The_Lord_of_the_Rings%253A_Return_to_Moria.md" title="The Lord of the Rings: Return to Moria">The Lord of the Rings: Trở về Moria</a></i>:</b>
 
 <dl><dd><a href="../A/Aric.md" title="Aric">Aric</a> is a raven of Erebor who appears periodically in the game to push the story forward, and to give quests to the player.</dd></dl>
 

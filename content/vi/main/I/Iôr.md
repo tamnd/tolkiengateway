@@ -19,11 +19,11 @@ sort_keys:
 
 [Didier Willis](../D/Didier_Willis.md) đã gợi ý rằng *iôr* là một danh từ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[David Salo](../D/David_Salo.md) đã gợi ý rằng dạng *ŷr* (giữ nguyên nghĩa) có thể hợp lệ [Neo-Sindarin](../N/Neo-Elvish.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[David Salo](../D/David_Salo.md) đã gợi ý rằng dạng *ŷr* (giữ nguyên ý nghĩa) có thể hợp lệ [Neo-Sindarin](../N/Neo-Elvish.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-- [Noldorin cũ](../O/Old_Noldorin.md) *yura*, [root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YUR&amp;action=edit&amp;redlink=1" title="YUR (page does not exist)">YUR</a> ("chạy")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+- [Old Noldorin](../O/Old_Noldorin.md) *yura*, [root](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=YUR&amp;action=edit&amp;redlink=1" title="YUR (page does not exist)">YUR</a> ("chạy")<sup id="cite_ref-LR_1-1" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 

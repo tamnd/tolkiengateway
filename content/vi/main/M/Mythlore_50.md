@@ -39,9 +39,9 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_50.gif.md"><img src="https://tolkiengateway.net/w/images/5/51/Mythlore_50.gif" decoding="async" loading="lazy" width="225" height="295" class="mw-file-element" data-file-width="225" data-file-height="295"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 50</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Summer <a href="../_/1987.md" title="1987">1987</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">63</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_49.md" title="Mythlore 49">Mythlore 49</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_51.md" title="Mythlore 51">Mythlore 51</a></td></tr></tbody></table>
 
-<b><i>Thần thoại</i> 50</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol13/iss4/" rel="noreferrer noopener" target="_blank">Tập 13, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
+<b><i>Mythlore</i> 50</b> (<a class="external text" href="https://dc.swosu.edu/mythlore/vol13/iss4/" rel="noreferrer noopener" target="_blank">Tập 13, Số 4</a>) là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
-Trong một bức thư đăng trên tạp chí (tr. 41), [L. Sprague de Camp](../L/L._Sprague_de_Camp.md) trích dẫn từ [một bức thư năm 1964 của Tolkien](../L/Letter_to_L._Sprague_de_Camp.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trong một bức thư đăng trên tạp chí (tr. 41), [L. Sprague de Camp](../L/L._Sprague_de_Camp.md) trích dẫn [một bức thư năm 1964 của Tolkien](../L/Letter_to_L._Sprague_de_Camp.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Nội dung {#Contents}
 
@@ -73,7 +73,7 @@ Trong một bức thư đăng trên tạp chí (tr. 41), [L. Sprague de Camp](.
 
 #### Đánh giá {#Reviews}
 
-- *Người Hobbit, hay Ở đó và quay lại.* J.R.R. Tolkien, Minh họa bởi tác giả, Lời tựa của Christopher Tolkien. Được đánh giá bởi Nancy-Lou Patterson.
+- *The Hobbit, hoặc There and Back Again.* J.R.R. Tolkien, Minh họa bởi tác giả, Lời nói đầu của Christopher Tolkien. Được đánh giá bởi Nancy-Lou Patterson.
 - *C.S. Lewis.* Joe R. Christopher. Được đánh giá bởi Nancy-Lou Patterson.
 - *Daughter of Regals &amp; Other Tales.* Stephen R. Donaldson. Được đánh giá bởi Thomas M. Egan.
 - *Elfquest — Dòng máu của mười thủ lĩnh, Tập một.* Biên tập bởi Richard Pini, Robert Asprin và Lynn Abby. Được đánh giá bởi David Bratman.

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Frór"
 ---
 
-Chuyển hướng tới [Frór](Frór.md).
+Chuyển hướng đến [Frór](Frór.md).

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Elrond"
 ---
 
-Chuyển hướng tới [Elrond](Elrond.md).
+Chuyển hướng đến [Elrond](Elrond.md).

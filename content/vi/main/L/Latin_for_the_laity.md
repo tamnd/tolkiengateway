@@ -12,7 +12,7 @@ categories:
   - "Lectures by J.R.R. Tolkien"
 ---
 
-**Tiếng Latinh dành cho giáo dân** là chủ đề và tựa đề của bài giảng mà Tolkien đưa ra cho giáo xứ <a class="new" href="https://tolkiengateway.net/w/index.php?title=St._Anthony_of_Padua_(Church)&amp;action=edit&amp;redlink=1" title="St. Anthony of Padua (Church) (page does not exist)">St. Anthony xứ Padua</a> vào cuối những năm 1950.<sup id="cite_ref-reference_1-0" class="reference"><a href="#cite_note-reference-1">[1]</a></sup>
+**Tiếng Latinh dành cho giáo dân** là chủ đề và tựa đề của bài giảng Tolkien tại giáo xứ <a class="new" href="https://tolkiengateway.net/w/index.php?title=St._Anthony_of_Padua_(Church)&amp;action=edit&amp;redlink=1" title="St. Anthony of Padua (Church) (page does not exist)">St. Anthony xứ Padua</a> vào cuối những năm 1950.<sup id="cite_ref-reference_1-0" class="reference"><a href="#cite_note-reference-1">[1]</a></sup>
 
 Theo [Michäel Devaux](../M/Michaël_Devaux.md), Tolkien nhằm mục đích giúp các giáo dân của mình hiểu rõ hơn về [các yếu tố Latin](Latin.md) cơ bản của Thánh lễ và đưa ra nhiều lý do tại sao điều này sẽ hữu ích cho việc sùng kính của họ. Bài giảng này cho thấy ông là một thành viên tích cực của giáo xứ, và cũng có những lý do chính đáng mà ông có thể trình bày rõ ràng để đánh giá cao tiếng Latinh, nhấn mạnh rằng tình yêu của ông đối với Thánh lễ bằng tiếng Latinh không chỉ đơn thuần là hoài niệm.<sup id="cite_ref-reference_1-1" class="reference"><a href="#cite_note-reference-1">[1]</a></sup>
 

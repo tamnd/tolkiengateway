@@ -52,7 +52,7 @@ sort_keys:
 <li><a href="../B/Beyond_The_Forest.md" title="Beyond The Forest">Beyond The Forest</a></li></ol>
 </td></tr></tbody></table>
 
-**The Woodland Realm** là bài hát thứ sáu của đĩa một trong *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack](The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md)* và là bài hát thứ bảy của đĩa một trong [nhạc phim phiên bản đặc biệt](The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
+** Vương quốc Rừng** là bài hát thứ sáu của đĩa một trong *[The Hobbit: The Desolation of Smaug - Original Motion Picture Soundtrack](The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack.md)* và là bài hát thứ bảy của đĩa một trong [nhạc phim phiên bản đặc biệt](The_Hobbit%253A_The_Desolation_of_Smaug_-_Original_Motion_Picture_Soundtrack_-_Special_Edition.md), của [Howard Shore](../H/Howard_Shore.md).
 
 ## Xem thêm {#See_also}
 

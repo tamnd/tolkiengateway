@@ -13,7 +13,7 @@ categories:
   - "Ilkorin words"
 ---
 
-**Dem** là thuật ngữ [Ilkorin](../I/Ilkorin.md) có nghĩa là "buồn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Dem** là thuật ngữ [Ilkorin](../I/Ilkorin.md) mang ý nghĩa "buồn".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ví dụ {#Example}
 

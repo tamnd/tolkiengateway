@@ -34,7 +34,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/P/Picturing_Tolkien.png.md"><img src="https://tolkiengateway.net/w/images/1/1c/Picturing_Tolkien.png" decoding="async" loading="lazy" width="279" height="420" class="mw-file-element" data-file-width="279" data-file-height="420"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Picturing Tolkien: Essays on Peter Jackson&#39;s <i>The Lord of the Rings</i> Film Trilogy</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Janice M. Bogstad, Philip E. Kaveny</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data">McFarland</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/31_July.md" title="31 July">31 July</a> <a href="../_/2011.md" title="2011">2011</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Softcover (6 x 9)</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">302</td></tr><tr><th scope="row" class="tg-infobox-label">ISBN</th><td class="tg-infobox-data"><a href="https://tolkiengateway.net/wiki/Special:BookSources/978-0786446360" title="Special:BookSources/978-0786446360">978-0786446360</a></td></tr></tbody></table>
 
-<i><b>Hình dung Tolkien: Các bài luận về</b></i> **Chúa tể của những chiếc nhẫn** <i><b>Bộ ba phim</b></i> của Peter Jackson là một tập hợp [2011](../_/2011.md) các bài tiểu luận mang tính học thuật về [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
+<i><b>Hình ảnh Tolkien: Các bài luận về</b></i> **The Lord of the Rings** <i><b>Bộ ba phim</b></i> của Peter Jackson là một tập hợp [2011](../_/2011.md) các bài tiểu luận mang tính học thuật về [*The Lord of the Rings* (loạt phim)](<../T/The_Lord_of_the_Rings_(film_series).md>).
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -50,24 +50,24 @@ infobox:
 - Giới thiệu (5)
 
 - I. Techniques Câu Chuyện và Cấu Trúc
-    - "Gollum tự nói chuyện với chính mình: Các vấn đề và giải pháp trong bộ phim chuyển thể *The Lord of the Rings* của Peter Jackson" (Kristin Thompson; 25)
+    - "Gollum Tự nói chuyện với chính mình: Vấn đề và giải pháp trong Phim chuyển thể Peter Jackson của *The Lord of the Rings*" (Kristin Thompson; 25)
     - "Đôi khi một lời nói đáng giá cả ngàn bức ảnh" ([Verlyn Flieger](../V/Verlyn_Flieger.md); 46)
-    - "Hai loại vắng mặt: Bỏ qua và Loại trừ trong *The Lord of the Rings* của Peter Jackson" ([John D. Rateliff](../J/John_D._Rateliff.md); 54)
-    - "Sự phản kháng tuyến tính của Tolkien: Tường thuật *The Lord of the Rings* trong tiểu thuyết và phim" (E.L. Risden; 70)
+    - "Hai loại vắng mặt: Loại bỏ và Loại trừ trong *The Lord of the Rings* của Peter Jackson" ([John D. Rateliff](../J/John_D._Rateliff.md); 54)
+    - "Tolkien Chống lại tính tuyến tính: Kể chuyện *The Lord of the Rings* trong tiểu thuyết và phim" (E.L. Risden; 70)
     - "Quay phim văn hóa dân gian: Chuyển thể giả tưởng lên màn ảnh rộng thông qua *The Lord of the Rings* của Peter Jackson" ([Dimitra Fimi](../D/Dimitra_Fimi.md); 84)
-    - "Tạo kết nối trên trang và màn hình trong *The Lord of the Rings* của Tolkien và Jackson" (Yvette Kisor; 102)
+    - "Tạo kết nối trên trang và màn hình trong Tolkien và *The Lord of the Rings* của Jackson" (Yvette Kisor; 102)
     - "'Nó còn sống!': Quái vật trên màn ảnh của Tolkien" (Sharin Schroeder; 116)
-    - "Vật liệu của Trung địa: Vũ khí và Áo giáp trong Bộ ba phim điện ảnh *The Lord of the Rings* của Peter Jackson" (Robert C. Woosnam-Savage; 139)
+    - "Vật liệu của Trung địa: Vũ khí và Áo giáp trong *The Lord of the Rings* Bộ ba phim điện ảnh của Peter Jackson" (Robert C. Woosnam-Savage; 139)
 
 - II. Kỹ thuật về tính cách và văn hóa
-    - "Về phía Tây: Xứ xanh xa hay Bóng trên mặt nước?" (Judy Ann Ford và Robin Anne Reid; 169)
-    - "Frodo sống nhưng Gollum đã chuộc lại dòng máu của các vị vua" (Philip E. Kaveny; 183)
+    - "Into the West: Xứ Xanh Xa Hay Bóng Tối Trên Biển?" (Judy Ann Ford và Robin Anne Reid; 169)
+    - "Frodo Sống nhưng Gollum Chuộc lại dòng máu của các vị vua" (Philip E. Kaveny; 183)
     - "Người hành hương xám: Gandalf và những thách thức về việc mô tả tính cách ở Trung Địa" (Brian D. Walter; 194)
-    - "Jackson's Aragorn và siêu anh hùng Mỹ Monomyth" ([Janet Brennan Croft](../J/Janet_Brennan_Croft.md); 216)
-    - "Không phải Bóng tối cũng không phải Hoàng hôn: Chuyện tình của Aragorn và Arwen trong Văn học và Điện ảnh" ([Richard C. West](../R/Richard_C._West.md); 227)
+    - "Jackson Aragorn và siêu anh hùng Monomyth của Mỹ" ([Janet Brennan Croft](../J/Janet_Brennan_Croft.md); 216)
+    - "Không phải Bóng Tối cũng không phải Chạng vạng: Chuyện tình Aragorn và Arwen trong Văn học và Điện ảnh" ([Richard C. West](../R/Richard_C._West.md); 227)
     - "Liên quan đến Ngựa: Thiết lập bối cảnh văn hóa từ Tolkien đến Jackson" (Janice M. Bogstad; 238)
     - "Người Rohirrim, người Anglo-Saxon và vấn đề của Phụ lục F: Sự mơ hồ, sự tương tự và tài liệu tham khảo trong sách của Tolkien và phim của Jackson" ([Michael D.C. Drout](../M/Michael_D.C._Drout.md); 248)
-    - "Quay phim Numinous: Số phận của Lothlórien trong *The Lord of the Rings* của Peter Jackson" (Joseph Ricke và Catherine Barnett; 264)
+    - "Quay phim thần thánh: Số phận của Lothlórien trong *The Lord of the Rings* của Peter Jackson" (Joseph Ricke và Catherine Barnett; 264)
 
 - Giới thiệu về người đóng góp (287)
 - Chỉ mục (291)

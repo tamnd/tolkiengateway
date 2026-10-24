@@ -64,7 +64,7 @@ Sự kiện xảy ra vào ngày 4 tháng 5.
 ## Trên Trái đất {#On_Earth}
 
 - **[1944](1944.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 65](../L/Letter_65.md).
-- **[1944](1944.md)** - Trong khi viết trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thấy một nhân vật mới xuất hiện tại hiện trường. Sau đó ông [bình luận](../L/Letter_66.md): "*(Tôi chắc chắn rằng tôi không phát minh ra ông, tôi thậm chí không muốn ông, mặc dù tôi thích ông, nhưng ở đó ông đã bước vào khu rừng của [Ithilien](../I/Ithilien.md)): [Faramir](../F/Faramir.md), anh trai của [Boromir](../B/Boromir.md)*".
+- **[1944](1944.md)** - Khi đang viết trên *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) thấy một nhân vật mới xuất hiện tại hiện trường. Sau đó ông [bình luận](../L/Letter_66.md): "*(Tôi chắc chắn rằng tôi không phát minh ra ông, tôi thậm chí không muốn ông, mặc dù tôi thích ông, nhưng ở đó ông đã bước vào khu rừng của [Ithilien](../I/Ithilien.md)): [Faramir](../F/Faramir.md), anh trai của [Boromir](../B/Boromir.md)*".
 - **[1958](1958.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 209](../L/Letter_209.md).
 - **[1981](1981.md)** - Diễn viên [Trystan Gravelle](../T/Trystan_Gravelle.md) ra đời.
 - **[2003](2003.md)** - Nghệ sĩ [Ben Lee](../B/Ben_Lee.md) qua đời.

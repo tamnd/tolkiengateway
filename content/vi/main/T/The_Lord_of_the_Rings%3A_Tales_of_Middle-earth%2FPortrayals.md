@@ -12,7 +12,7 @@ categories:
   - "Lists"
 ---
 
-Sau đây là danh sách tất cả các bản miêu tả có trong bộ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md) [Tales of Middle-earth](The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md), bao gồm bộ cơ sở, sản phẩm Chỉ huy, bản in lại của các thẻ Ma thuật trước đó và các bản in lại được đặt tên khác duy nhất cho bản mở rộng này.
+Sau đây là danh sách tất cả các mô tả có trong bộ [Magic: The Gathering](../M/Magic%253A_The_Gathering.md) [Tales of Trung Địa](The_Lord_of_the_Rings%253A_Tales_of_Middle-earth.md), bao gồm bộ cơ sở, sản phẩm Chỉ huy, bản in lại của các thẻ Ma thuật trước đó và các bản in lại được đặt một tên khác duy nhất cho bản mở rộng này.
 
 Mỗi thẻ được sắp xếp theo trọng tâm chính của tác phẩm nghệ thuật. Nếu nó (và lá bài) chỉ mô tả một cá nhân thì nó được sắp xếp như mô tả họ. Nếu tác phẩm nghệ thuật (và cùng với bối cảnh của lá bài) mô tả một cảnh cụ thể thì nó sẽ được sắp xếp theo sự kiện cụ thể.
 
@@ -182,7 +182,7 @@ Mỗi thẻ được sắp xếp theo trọng tâm chính của tác phẩm ngh�
 <li><a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621400" rel="noreferrer noopener" target="_blank">Wayfarer&#39;s Bauble</a></li></ul></li></ul>
 </td></tr></tbody></table>
 
-# Dân cư & Địa điểm (theo Khu vực) {#Inhabitants_&_Locations_(by_Region)}
+# Cư dân & Địa điểm (bởi Region) {#Inhabitants_&_Locations_(by_Region)}
 
 <table style="margin:0 auto;" width="100%" align="center">
 <tbody><tr style="vertical-align: top;">
@@ -1002,9 +1002,9 @@ Mỗi thẻ được sắp xếp theo trọng tâm chính của tác phẩm ngh�
 - [Bài hát tắm](../B/Bath-songs.md)
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616870" rel="noreferrer noopener" target="_blank">Bài hát tắm</a>
 - [Sự sụp đổ của Gil-galad](The_Fall_of_Gil-galad.md)
-    - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616995" rel="noreferrer noopener" target="_blank">Sự thất thủ của Gil-galad</a>
-- [Danh sách dài các Ent](../L/Long_List_of_the_Ents.md)
-    - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=617004" rel="noreferrer noopener" target="_blank">Danh sách dài các Ent</a>
+    - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616995" rel="noreferrer noopener" target="_blank">Sự sụp đổ của Gil-galad</a>
+- [Danh sách dài Ent](../L/Long_List_of_the_Ents.md)
+    - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=617004" rel="noreferrer noopener" target="_blank">Danh sách dài Ent</a>
 - [Bài hát của Eärendil](../S/Song_of_Eärendil.md)
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636353" rel="noreferrer noopener" target="_blank">Kêu gọi cơn bão</a>
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=621296" rel="noreferrer noopener" target="_blank">Cá voi khổng lồ</a>
@@ -1012,7 +1012,7 @@ Mỗi thẻ được sắp xếp theo trọng tâm chính của tác phẩm ngh�
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=620755" rel="noreferrer noopener" target="_blank">Bài hát của Eärendil</a>
 - [Ở đó và quay lại](There_and_Back_Again.md)
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616981" rel="noreferrer noopener" target="_blank">Ở đó và quay lại</a>
-- [Câu chuyện về Tinúviel](The_Tale_of_Tinúviel.md)
+- [The Tale of Tinúviel](The_Tale_of_Tinúviel.md)
     - <a class="external text" href="https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=616864" rel="noreferrer noopener" target="_blank">Câu chuyện về Tinúviel</a>
 
 <span></span>

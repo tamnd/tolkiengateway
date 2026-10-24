@@ -26,7 +26,7 @@ sort_keys:
   "Singers": "Yarbrough, Glenn"
 ---
 
-**Glenn Yarbrough** ([12 tháng 1](../_/12_January.md), [1930](../_/1930.md) - [11 tháng 8](../_/11_August.md), [2016](../_/2016.md)) là nhà soạn nhạc và biểu diễn âm nhạc của [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>) và *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)*. Các bài hát của anh bao gồm "[Cuộc phiêu lưu vĩ đại nhất](../T/The_Greatest_Adventure.md)", "[Frodo of the Nine Fingers](../F/Frodo_of_the_Nine_Fingers.md)" và "[Where There's a Whip, There's a Way](../W/Where_There's_a_Whip,_There's_a_Way.md)". Trong *The Return of the King*, anh cũng là người lồng tiếng cho "[Minstrel of Gondor](../M/Minstrel_of_Gondor.md)", một nhân vật hát câu chuyện trong phim cho [Bilbo](../B/Bilbo_Baggins.md) và [Elrond](../E/Elrond.md) trong [Rivendell](../R/Rivendell.md).
+**Glenn Yarbrough** ([12 tháng 1](../_/12_January.md), [1930](../_/1930.md) - [11 tháng 8](../_/11_August.md), [2016](../_/2016.md)) là nhà soạn nhạc và biểu diễn âm nhạc của [*The Hobbit* (phim 1977)](<../T/The_Hobbit_(1977_film).md>) và *[The Return of the King](<../T/The_Return_of_the_King_(1980_film).md>)*. Các bài hát của anh bao gồm "[Cuộc phiêu lưu vĩ đại nhất](../T/The_Greatest_Adventure.md)", "[Frodo of the Nine Fingers](../F/Frodo_of_the_Nine_Fingers.md)" và "[Where There a Whip, There's a Way](../W/Where_There's_a_Whip,_There's_a_Way.md)". Trong *The Return of the King*, anh cũng là người lồng tiếng cho "[Minstrel of Gondor](../M/Minstrel_of_Gondor.md)", một nhân vật hát câu chuyện của bộ phim cho [Bilbo](../B/Bilbo_Baggins.md) và [Elrond](../E/Elrond.md) trong [Rivendell](../R/Rivendell.md).
 
 ## Danh sách đĩa {#Discography}
 
@@ -37,13 +37,13 @@ sort_keys:
     - "[Đường](<../R/Roads_(song).md>)"
 - "[Con nhện già béo](../O/Old_Fat_Spider.md)"
 - [1980](../_/1980.md): *[The Return of the King: Soundtrack](../T/The_Return_of_the_King%253A_A_Story_of_the_Hobbits.md)*
-    - "[Frodo Chín Ngón](../F/Frodo_of_the_Nine_Fingers.md)"
+    - "[Frodo của Cửu Ngón](../F/Frodo_of_the_Nine_Fingers.md)"
     - "[Thật dễ dàng để không thử](../I/It's_So_Easy_Not_to_Try.md)"
     - "[Hãy rời đi cho đến ngày mai](../L/Leave_Tomorrow_Till_It_Comes.md)"
     - "[Ít hơn có thể nhiều hơn](../L/Less_Can_Be_More.md)"
     - "[Ở đâu có roi ở đó có con đường](../W/Where_There's_a_Whip,_There's_a_Way.md)"
     - "[Người mang chiếc nhẫn, Người đeo chiếc nhẫn](../T/The_Bearer_of_the_Ring,_the_Wearer_of_the_Ring.md)"
-    - "[Sự kết thúc của chiếc nhẫn, sự trở lại của nhà vua](../T/The_End_of_the_Ring,_the_Return_of_the_King.md)"
+    - "[Sự kết thúc của chiếc nhẫn, sự trở lại của Vua](../T/The_End_of_the_Ring,_the_Return_of_the_King.md)"
     - "[Những con đường đi mãi, mãi mãi](../R/Roads_Go_Ever,_Ever_On~44338.md)"
 
 ## Liên kết ngoài {#External_links}

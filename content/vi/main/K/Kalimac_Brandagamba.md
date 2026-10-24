@@ -18,7 +18,7 @@ categories:
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong bản thảo của [Phụ lục](../A/Appendices.md), Tolkien đặt tên phương Tây **Khilimanzar/Cilimanzar** với dạng rút gọn **Khilik/Cilic**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Trong bản thảo của [Phụ lục](../A/Appendices.md), Tolkien ghi tên Westron **Khilimanzar/Cilimanzar** với dạng rút gọn **Khilik/Cilic**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

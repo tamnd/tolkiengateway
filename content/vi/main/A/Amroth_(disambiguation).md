@@ -14,14 +14,14 @@ images:
   - "Disambig.png"
 ---
 
-**Amroth** có thể đề cập đến:
+**Amroth** có thể tham khảo:
 
-- **[Amroth](Amroth.md) (đã chết [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md)), một [Yêu tinh](../E/Elves.md) của [Lothlórien](../L/Lothlórien.md).**
+- **[Amroth](Amroth.md) (đã chết [T.A.](../T/Third_Age.md) [1981](../T/Third_Age_1981.md)), một [Tiên](../E/Elves.md) của [Lothlórien](../L/Lothlórien.md).**
     - [Cerin Amroth](../C/Cerin_Amroth.md), một ngọn đồi ở Lórien.
-    - [Dol Amroth](../D/Dol_Amroth.md), [vương quốc](../P/Prince.md) ở Gondor.
-        - [Các hoàng tử của Dol Amroth](../P/Princes_of_Dol_Amroth.md).
+    - [Dol Amroth](../D/Dol_Amroth.md), [công quốc](../P/Prince.md) ở Gondor.
+        - [Thân vương Dol Amroth](../P/Princes_of_Dol_Amroth.md).
         - [Amrothos](Amrothos.md), con trai của [Imrahil](../I/Imrahil.md).
-    - [Edhellond](../E/Edhellond.md) hoặc Amroth's Haven.
+    - [Edhellond](../E/Edhellond.md) hoặc Haven của Amroth.
 
 <hr style="margin-top:15px;"/>
 

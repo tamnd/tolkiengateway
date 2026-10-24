@@ -31,9 +31,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/W/Warren_Lewis.png.md"><img src="https://tolkiengateway.net/w/images/d/d5/Warren_Lewis.png" decoding="async" loading="lazy" width="174" height="244" class="mw-file-element" data-file-width="174" data-file-height="244"/></a><figcaption>Warren Lewis</figcaption></figure>
 
-**Thiếu tá Warren Hamilton "Warnie" Lewis** ([16 tháng 6](../_/16_June.md), [1895](../_/1895.md) – [9 tháng 4](../_/9_April.md), [1973](../_/1973.md)), còn được gọi là **W.H. Lewis**, là một quân nhân và nhà sử học, đồng thời là anh trai của nhà văn và học giả người Anh [C.S. Lewis](../C/C.S._Lewis.md). Warren Lewis là sĩ quan hậu cần của quân đội Anh trong và sau [Chiến tranh thế giới thứ nhất](World_War_I.md). Sau khi nghỉ hưu ở [1932](../_/1932.md) để sống cùng anh trai ở [Oxford](../O/Oxford.md), ông là một trong những thành viên sáng lập của [Inklings](../I/Inklings.md). Ông viết về lịch sử nước Pháp.
+**Thiếu tá Warren Hamilton "Warnie" Lewis** ([16 tháng 6](../_/16_June.md), [1895](../_/1895.md) – [9 tháng 4](../_/9_April.md), [1973](../_/1973.md)), còn được gọi là **W.H. Lewis**, là một người lính và nhà sử học, đồng thời là anh trai của nhà văn và học giả người Anh [C.S. Lewis](../C/C.S._Lewis.md). Warren Lewis là sĩ quan hậu cần của quân đội Anh trong và sau [Chiến tranh thế giới thứ nhất](World_War_I.md). Sau khi nghỉ hưu ở [1932](../_/1932.md) để sống cùng anh trai ở [Oxford](../O/Oxford.md), ông là một trong những thành viên sáng lập của [Inklings](../I/Inklings.md). Ông viết về lịch sử nước Pháp.
 
-<br> Ông làm thư ký cho anh trai mình trong những năm cuối đời của C.S. Lewis. Để bảo vệ ông khỏi những cuộc điện thoại làm phiền của người hâm mộ, ông đã liên tục trả lời "Đơn vị xử lý nước thải Oxford" cho đến khi người gọi rời đi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<br> Ông làm thư ký cho anh trai mình trong những năm cuối đời của C.S. Lewis. Để bảo vệ ông khỏi những cuộc điện thoại làm phiền của người hâm mộ, ông đã liên tục trả lời "Oxford Đơn vị xử lý nước thải" cho đến khi người gọi rời đi.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Thư mục, đã chọn {#Bibliography,_selected}
 

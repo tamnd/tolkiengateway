@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Lady Elleth"
 ---
 
-- Quý cô Elleth đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Lady_Elleth.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Quý cô Elleth đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Lady_Elleth.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 1 tháng 6 năm 2015
 - Người dùng đã xin phép thông qua DeviantArt: [Người dùng:Woolly Mammoth](https://tolkiengateway.net/wiki/User:Woolly_Mammoth)

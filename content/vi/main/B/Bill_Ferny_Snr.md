@@ -11,4 +11,4 @@ redirect_target: "Bill Ferny"
 redirect_fragment: "Portrayal in adaptations"
 ---
 
-Chuyển hướng tới [Bill Ferny](Bill_Ferny.md#Portrayal_in_adaptations).
+Chuyển hướng đến [Bill Ferny](Bill_Ferny.md#Portrayal_in_adaptations).

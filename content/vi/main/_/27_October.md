@@ -66,25 +66,25 @@ Sự kiện xảy ra vào ngày 27 tháng 10
 
 ## Trên Trái đất {#On_Earth}
 
-- **[1916](1916.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bị <a class="external text" href="http://en.wikipedia.org/wiki/Trench_fever" rel="noreferrer noopener" target="_blank">cơn sốt chiến hào</a>tấn công, khiến sự đóng góp của anh cho [chiến tranh](../W/World_War_I.md) chỉ sau 5 tháng.
+- **[1916](1916.md)** – [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bị <a class="external text" href="http://en.wikipedia.org/wiki/Trench_fever" rel="noreferrer noopener" target="_blank">cơn sốt chiến hào</a>tấn công, khiến sự đóng góp của ông cho [cuộc chiến](../W/World_War_I.md) chỉ sau 5 tháng.
 - **[1938](1938.md)** - [Lascelles Abercrombie](../L/Lascelles_Abercrombie.md) qua đời.
 - **[1943](1943.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 51](../L/Letter_51.md).
-- <b><a href="1966.md" title="1966">1966</a> - Ấn bản thứ hai của <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">Chúa tể của những chiếc nhẫn</a></i> được xuất bản.</b>
+- <b><a href="1966.md" title="1966">1966</a> - Ấn bản thứ hai của <i><a href="../T/The_Lord_of_the_Rings.md" title="The Lord of the Rings">The Lord of the Rings</a></i> được xuất bản.</b>
 - **[1968](1968.md)** - *Barrels out of Bond*, tập thứ năm của [loạt phim phát thanh năm 1968](<../T/The_Hobbit_(1968_radio_series).md>) của *[The Hobbit](../T/The_Hobbit.md)*, được phát sóng trên [Đài BBC](../B/BBC.md).
-- <b><a href="1983.md" title="1983">1983</a> - <i><a href="../T/The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Part One</a></i> được xuất bản ở Anh.</b>
+- <b><a href="1983.md" title="1983">1983</a> - <i><a href="../T/The_Book_of_Lost_Tales%253A_Part_One.md" title="The Book of Lost Tales: Part One">The Book of Lost Tales: Phần Một</a></i> được xuất bản ở Anh.</b>
 - **[1986](1986.md)** - Nghệ sĩ [Jemima Catlin](../J/Jemima_Catlin.md) ra đời.
-- <b><a href="1992.md" title="1992">1992</a> - <i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> được xuất bản ở Mỹ.</b>
+- <b><a href="1992.md" title="1992">1992</a> - <i><a href="../S/Sauron_Defeated.md" title="Sauron Defeated">Sauron Defeated</a></i> được xuất bản tại Hoa Kỳ.</b>
 - <b><a href="1992.md" title="1992">1992</a> - <i><a href="../P/Pictures_by_J.R.R._Tolkien.md" title="Pictures by J.R.R. Tolkien">Ảnh của J.R.R. Tolkien</a></i> (ấn bản sửa đổi) được xuất bản.</b>
 - <b><a href="1995.md" title="1995">1995</a> - <i><a href="../J/J.R.R._Tolkien%253A_Artist_and_Illustrator.md" title="J.R.R. Tolkien: Artist and Illustrator">J.R.R. Tolkien: Nghệ sĩ và họa sĩ minh họa</a></i> được xuất bản.</b>
 - **[2005](2005.md)** - *[Tolkien's Modern Middle Ages](../T/Tolkien's_Modern_Middle_Ages.md)* được xuất bản.
 - **[2009](2009.md)** - Tiểu thuyết giả tưởng *[The Shadow Dragons](../T/The_Shadow_Dragons.md)*, có [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) là một nhân vật hư cấu, được xuất bản.
-- <b><a href="2011.md" title="2011">2011</a> - <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">Lịch sử Người Hobbit</a></i> (ấn bản một tập có sửa đổi) được xuất bản.</b>
-- <b><a href="2011.md" title="2011">2011</a> - <i><a href="../T/The_Art_of_The_Hobbit.md" title="The Art of The Hobbit">Nghệ thuật của người Hobbit</a></i> được xuất bản.</b>
+- <b><a href="2011.md" title="2011">2011</a> - <i><a href="../T/The_History_of_The_Hobbit.md" title="The History of The Hobbit">The History of The Hobbit</a></i> (ấn bản một tập có sửa đổi) được xuất bản.</b>
+- <b><a href="2011.md" title="2011">2011</a> - <i><a href="../T/The_Art_of_The_Hobbit.md" title="The Art of The Hobbit">Nghệ thuật The Hobbit</a></i> được xuất bản.</b>
 - **[2011](2011.md)** - *[From Elvish to Klingon: Exploring Invented Languages](../F/From_Elvish_to_Klingon.md)* được xuất bản.
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

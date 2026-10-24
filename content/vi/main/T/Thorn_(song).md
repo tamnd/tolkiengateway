@@ -35,7 +35,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**Thorn** là ca khúc thứ mười lăm trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](../B/Blind_Guardian.md). Bài hát kể về [Maeglin](../M/Maeglin.md), con trai của [Eöl](../E/Eöl.md). Maeglin suy nghĩ về vị trí của mình trên thế giới và quyết định phản bội vị trí của thành phố ẩn giấu [Gondolin](../G/Gondolin.md) cho [Morgoth](../M/Morgoth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Thorn** là ca khúc thứ mười lăm trong album chủ đề [Tolkien](../J/J.R.R._Tolkien.md) [Nightfall in Middle-Earth](../N/Nightfall_in_Middle-Earth.md) của [Blind Guardian](../B/Blind_Guardian.md). Bài hát kể về [Maeglin](../M/Maeglin.md), con trai của [Eöl](../E/Eöl.md). Maeglin phản ánh về vị trí của mình trên thế giới và quyết định phản bội vị trí của thành phố ẩn giấu [Gondolin](../G/Gondolin.md) cho [Morgoth](../M/Morgoth.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lời bài hát {#Lyrics}
 

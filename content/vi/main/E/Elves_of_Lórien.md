@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galadhrim"
 ---
 
-Chuyển hướng tới [Galadhrim](../G/Galadhrim.md).
+Chuyển hướng đến [Galadhrim](../G/Galadhrim.md).

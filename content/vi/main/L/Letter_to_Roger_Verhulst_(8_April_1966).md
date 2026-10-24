@@ -20,9 +20,9 @@ images:
 
 Vào [8 tháng 4](../_/8_April.md) [1966](../_/1966.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_%2522The_Letters_of_J.R.R._Tolkien%2522.md) cho Roger Verhulst**.<sup id="cite_ref-Hammond_1-0" class="reference"><a href="#cite_note-Hammond-1">[1]</a></sup>
 
-- **Nội dung:** Tolkien phản đối (và từ chối) tham gia vào dự án sách của Eerdmans. Bức thư cũng đề cập đến dự án sách của Charles Williams và vợ của Charles Williams. Tolkien nói về The Silmarillion, đề cập đến C.S. Lewis là một trong số ít người đã đọc các phần của bản thảo và rằng trở ngại chính cho việc xuất bản nó là khối lượng thư từ của Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- **Nội dung:** Tolkien phản đối (và từ chối) tham gia vào dự án sách của Eerdmans. Bức thư cũng đề cập đến dự án sách Charles Williams và vợ của Charles Williams. Tolkien nói về The Silmarillion, đề cập đến C.S. Lewis là một trong số ít người đã đọc các phần của bản thảo và rằng trở ngại chính cho việc xuất bản nó là số lượng lớn thư từ của Tolkien.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **Xuất bản:** Các trích dẫn từ bức thư đã được cung cấp trong *[Tolkien and The Silmarillion](../T/Tolkien_and_The_Silmarillion.md)* và trong *[W.H. Auden: A Legacy](../W/W.H._Auden%253A_A_Legacy.md)*. Mô tả về bức thư đã xuất hiện trong danh mục *Những cuốn sách và bản thảo in đẹp của Christie ngày 28 tháng 11 năm 2011* (lô 258).
-- **Mô tả:** Một trang, 76 Sandfield Road, do Tolkien viết và Phyllis ký M. Jenkinson (trợ lý của Tolkien)
+- **Mô tả:** Một trang, 76 Sandfield Road, do Tolkien viết và có chữ ký của Phyllis M. Jenkinson (trợ lý củaTolkien)
 
 ## Thư viện hình ảnh {#Image_gallery}
 

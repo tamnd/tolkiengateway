@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Darkness"
 ---
 
-Chuyển hướng tới [Bóng tối](../T/The_Darkness.md).
+Chuyển hướng đến [The Bóng Tối](../T/The_Darkness.md).

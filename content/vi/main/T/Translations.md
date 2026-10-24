@@ -18,9 +18,9 @@ sort_keys:
 
 Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) sang các ngôn ngữ khác nhau.
 
-## [Những cuộc phiêu lưu của Tom Bombadil và những câu thơ khác trong Sách Đỏ](The_Adventures_of_Tom_Bombadil_and_Other_Verses_from_the_Red_Book.md) {#The_Adventures_of_Tom_Bombadil_and_Other_Verses_from_the_Red_Book}
+## [The Adventures of Tom Bombadil và các câu thơ khác trong Sách Đỏ](The_Adventures_of_Tom_Bombadil_and_Other_Verses_from_the_Red_Book.md) {#The_Adventures_of_Tom_Bombadil_and_Other_Verses_from_the_Red_Book}
 
-- Tiếng Bungari, tiếng Trung, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Do Thái, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Ba Tư, tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Serbia, tiếng Tây Ban Nha, tiếng Thụy Điển.
+- Tiếng Bungari, tiếng Trung, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hebrew, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Ba Tư, tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Serbia, tiếng Tây Ban Nha, tiếng Thụy Điển.
 
 ## [Beowulf: The Monsters and the Critics](../B/Beowulf%253A_The_Monsters_and_the_Critics.md) {#Beowulf:_The_Monsters_and_the_Critics}
 
@@ -34,7 +34,7 @@ Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien]
 
 - Tiếng Hà Lan, Tiếng Phần Lan, Tiếng Pháp, Tiếng Đức, Tiếng Ý, Tiếng Nhật, Tiếng Bồ Đào Nha (Brazil), Tiếng Nga.
 
-## [Cuốn sách về những câu chuyện bị thất lạc Phần thứ nhất](The_Book_of_Lost_Tales_Part_One.md) và [Cuốn sách về những câu chuyện bị thất lạc Phần thứ hai](The_Book_of_Lost_Tales_Part_Two.md) {#The_Book_of_Lost_Tales_Part_One_and_The_Book_of_Lost_Tales_Part_Two}
+## [The Book of Lost Tales Part One](The_Book_of_Lost_Tales_Part_One.md) và [The Book of Lost Tales Part Two](The_Book_of_Lost_Tales_Part_Two.md) {#The_Book_of_Lost_Tales_Part_One_and_The_Book_of_Lost_Tales_Part_Two}
 
 - Séc, Pháp, Đức, Hungary, Ý, Ba Lan, Bồ Đào Nha (Brazil), Nga, Tây Ban Nha, Thụy Điển.
 
@@ -54,21 +54,21 @@ Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien]
 
 - Tiếng Hà Lan, tiếng Pháp, tiếng Ý, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Bồ Đào Nha), tiếng Tây Ban Nha.
 
-## [Nông dân Giles của Ham](../F/Farmer_Giles_of_Ham.md) {#Farmer_Giles_of_Ham}
+## [Farmer Giles of Ham](../F/Farmer_Giles_of_Ham.md) {#Farmer_Giles_of_Ham}
 
-- Tiếng Aragon, tiếng Basque, tiếng Bulgaria, tiếng Catalan, tiếng Trung Quốc, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Estonia, tiếng Faero, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Do Thái, tiếng Hungary, tiếng Iceland, tiếng Indonesia, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Serbia, tiếng Slovenia, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thổ Nhĩ Kỳ, tiếng Valencian.
+- Tiếng Aragon, tiếng Basque, tiếng Bungari, tiếng Catalan, tiếng Trung, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Estonia, tiếng Faero, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Hebrew, tiếng Hungary, tiếng Iceland, tiếng Indonesia, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Serbia, tiếng Slovenia, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thổ Nhĩ Kỳ, tiếng Valencian.
 
-## Nông dân Giles of Ham (phiên bản văn bản trước đó) {#Farmer_Giles_of_Ham_(earlier_version_of_text)}
+## Farmer Giles of Ham (phiên bản văn bản cũ hơn) {#Farmer_Giles_of_Ham_(earlier_version_of_text)}
 
 - tiếng Pháp
 
-## Farmer Giles of Ham (ấn bản kỷ niệm 50 năm, với phiên bản sớm nhất và tóm tắt cho phần tiếp theo) {#Farmer_Giles_of_Ham_(50th_anniversary_edition,_with_earliest_version_and_synopsis_for_sequel)}
+## Farmer Giles of Ham (Ấn bản kỷ niệm 50 năm, với phiên bản sớm nhất và tóm tắt cho phần tiếp theo) {#Farmer_Giles_of_Ham_(50th_anniversary_edition,_with_earliest_version_and_synopsis_for_sequel)}
 
 - Ý, Bồ Đào Nha (Brazil).
 
 ## [Những lá thư Giáng sinh của Cha](The_Father_Christmas_Letters.md) (định dạng 1976) {#The_Father_Christmas_Letters_(1976_format)}
 
-- Séc, Đan Mạch, Hà Lan, Pháp, Đức, Hy Lạp, Ý, Nhật Bản, Hàn Quốc, Ba Lan, Nga, Tây Ban Nha, Thụy Điển. Xem thêm Những lá thư từ Ông già Noel.
+- Séc, Đan Mạch, Hà Lan, Pháp, Đức, Hy Lạp, Ý, Nhật Bản, Hàn Quốc, Ba Lan, Nga, Tây Ban Nha, Thụy Điển. Xem thêm Letters from Father Christmas.
 
 ## [Bàn chân yêu tinh](../G/Goblin_Feet.md) {#Goblin_Feet}
 
@@ -90,23 +90,23 @@ Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien]
 
 - Tiếng Nga, tiếng Serbia.
 
-## [Các công trình của Beleriand](The_Lays_of_Beleriand.md) {#The_Lays_of_Beleriand}
+## [The Lays of Beleriand](The_Lays_of_Beleriand.md) {#The_Lays_of_Beleriand}
 
 - Pháp, Ý, Bồ Đào Nha (Brazil), Tây Ban Nha.
 
 ## [Lá của Niggle](../L/Leaf_by_Niggle.md) {#Leaf_by_Niggle}
 
-- Tiếng Bulgaria, tiếng Catalan, tiếng Trung Quốc, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Estonia, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Do Thái, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Tư, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Serbia, tiếng Slovenia, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thổ Nhĩ Kỳ.
+- Tiếng Bulgaria, tiếng Catalan, tiếng Trung Quốc, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Estonia, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Hebrew, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Tư, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Serbia, tiếng Slovenia, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thổ Nhĩ Kỳ.
 
-## Thư của Ông già Noel (edn. có fax) {#Letters_from_Father_Christmas_(edn._with_facsimiles)}
+## Letters from Father Christmas (edn. with fax) {#Letters_from_Father_Christmas_(edn._with_facsimiles)}
 
 - Nhật Bản, Bồ Đào Nha (Brazil).
 
-## Thư từ Ông già Noel (bản mở rộng 1995) {#Letters_from_Father_Christmas_(enlarged_edn._1995)}
+## Letters from Father Christmas (ấn bản mở rộng 1995) {#Letters_from_Father_Christmas_(enlarged_edn._1995)}
 
 - Tiếng Ba Lan.
 
-## Thư từ Ông già Noel (2004 edn.) {#Letters_from_Father_Christmas_(2004_edn.)}
+## Letters from Father Christmas (ấn bản năm 2004) {#Letters_from_Father_Christmas_(2004_edn.)}
 
 - Hà Lan, Phần Lan, Pháp, Đức, Thổ Nhĩ Kỳ.
 
@@ -116,9 +116,9 @@ Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien]
 
 ## [The Lord of the Rings](The_Lord_of_the_Rings.md) {#The_Lord_of_the_Rings}
 
-- Tiếng Nam Phi, tiếng Albania, tiếng Ả Rập, tiếng Armenia (chỉ Hiệp hội chiếc nhẫn), tiếng Asturian (chỉ Hiệp hội chiếc nhẫn và hai tòa tháp), tiếng Azerbaijan, tiếng Basque, tiếng Belarus, tiếng Bengali (Bangladeshi), tiếng Bengali (tiếng Ấn Độ, chỉ hiệp hội chiếc nhẫn và hai tòa tháp), tiếng Bulgaria, tiếng Catalan, tiếng Trung (Phồn thể và giản thể), tiếng Croatia, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Esperanto, tiếng Estonia, tiếng Faroe, tiếng Phần Lan, Tiếng Pháp, tiếng Frisian (chỉ The Fellowship of the Ring & The Two Towers), tiếng Galicia, tiếng Gruzia, tiếng Đức, tiếng Hy Lạp, tiếng Do Thái, tiếng Hungary, tiếng Iceland, tiếng Indonesia, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Latvia, tiếng Litva, tiếng Macedonia, tiếng Marathi, tiếng Mông Cổ, tiếng Na Uy (Bokmål), tiếng Na Uy (Nynorsk), tiếng Ba Tư, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Romania, tiếng Nga, tiếng Serbia, tiếng Sinhala (chỉ The Fellowship of the Ring & The Two Towers), Slovak, Tiếng Slovenia, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thái, tiếng Thổ Nhĩ Kỳ, tiếng Ukraina, tiếng Uzbek (chỉ The Fellowship of the Ring), tiếng Việt, tiếng Yiddish
+- Tiếng Afrikaans, tiếng Albania, tiếng Ả Rập, tiếng Armenia (The Fellowship of the Ring), tiếng Asturian (chỉThe Fellowship of the Ring và The Two Towers), tiếng Azerbaijan, tiếng Basque, tiếng Belarus, tiếng Bengali (Bangladeshi), tiếng Bengali (chỉ tiếng Ấn Độ, The Fellowship of the Ring và The Two Towers), tiếng Bulgaria, tiếng Catalan, tiếng Trung (Phồn thể và giản thể), tiếng Croatia, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Esperanto, tiếng Estonia, tiếng Faroe, tiếng Phần Lan, Tiếng Pháp, tiếng Frisian (The Fellowship of the Ring & The Two Towers), tiếng Galicia, tiếng Gruzia, tiếng Đức, tiếng Hy Lạp, tiếng Hebrew, tiếng Hungary, tiếng Iceland, tiếng Indonesia, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Latvia, tiếng Litva, tiếng Macedonia, tiếng Marathi, tiếng Mông Cổ, tiếng Na Uy (Bokmål), tiếng Na Uy (Nynorsk), tiếng Ba Tư, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Rumani, tiếng Nga, tiếng Serbia, tiếng Sinhala (chỉThe Fellowship of the Ring & The Two Towers), Tiếng Slovak, tiếng Slovenia, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thái, tiếng Thổ Nhĩ Kỳ, tiếng Ukraina, tiếng Uzbek (chỉThe Fellowship of the Ring), tiếng Việt, tiếng Yiddish
 
-## [Con đường đã mất và những bài viết khác](The_Lost_Road_and_Other_Writings.md) {#The_Lost_Road_and_Other_Writings}
+## [The Lost Road and Other Writings](The_Lost_Road_and_Other_Writings.md) {#The_Lost_Road_and_Other_Writings}
 
 - Pháp, Ý, Bồ Đào Nha (Brazil), Tây Ban Nha.
 
@@ -126,9 +126,9 @@ Dưới đây là danh sách **bản dịch** tác phẩm của [J.R.R. Tolkien]
 
 - Tiếng Trung, tiếng Đan Mạch, tiếng Hà Lan, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Ba Tư, tiếng Bồ Đào Nha (Brazil), tiếng Tây Ban Nha, tiếng Thụy Điển.
 
-## [Những con quái vật, những nhà phê bình và những tiểu luận khác](The_Monsters_and_the_Critics_and_Other_Essays.md) {#The_Monsters_and_the_Critics_and_Other_Essays}
+## [The Monsters and the Critics and Other Essays](The_Monsters_and_the_Critics_and_Other_Essays.md) {#The_Monsters_and_the_Critics_and_Other_Essays}
 
-Xem phần cấu thành: Beowulf: The Monsters and the Critics; Nhận xét mở đầu về bản dịch văn xuôi của 'Beowulf' (= Về việc dịch Beowulf); Ngài Gawain và Hiệp sĩ xanh; Về truyện cổ tích; tiếng Anh và tiếng xứ Wales; Một phó bí mật; Địa chỉ có giá trị.
+Xem phần cấu thành: Beowulf: Quái vật và Nhà phê bình; Lời mở đầu về dịch văn xuôi của 'Beowulf' (= Về dịch Beowulf); Ngài Gawain và Hiệp sĩ xanh; Về truyện cổ tích; Tiếng Anh và tiếng Wales; Một phó bí mật; Địa chỉ có giá trị.
 
 <h2><span id="Morgoth.27s_Ring"></span><span class="mw-headline" id="Morgoth&#39;s_Ring"><a href="../M/Morgoth&#39;s_Ring.md" title="Morgoth&#39;s Ring">Morgoth&#39;s Ring</a></span></h2>
 
@@ -136,25 +136,25 @@ Xem phần cấu thành: Beowulf: The Monsters and the Critics; Nhận xét mở
 
 ## [Thần thoại](../M/Mythopoeia.md) {#Mythopoeia}
 
-- Tiếng Đan Mạch, Tiếng Phần Lan, Tiếng Pháp, Tiếng Do Thái, Tiếng Hungary, Tiếng Ý, Tiếng Nhật, Tiếng Na Uy, Tiếng Ba Lan, Tiếng Nga, Tiếng Serbia, Tiếng Tây Ban Nha.
+- Tiếng Đan Mạch, Tiếng Phần Lan, Tiếng Pháp, tiếng Hebrew, Tiếng Hungary, Tiếng Ý, Tiếng Nhật, Tiếng Na Uy, Tiếng Ba Lan, Tiếng Nga, Tiếng Serbia, Tiếng Tây Ban Nha.
 
 ## [Về truyện cổ tích](../O/On_Fairy-Stories.md) {#On_Fairy-Stories}
 
-- Séc, Đan Mạch, Hà Lan, Phần Lan, Pháp, Đức, Hy Lạp, Do Thái, Hungary, Ý, Nhật Bản, Na Uy, Ba Lan, Bồ Đào Nha (Brazil), Nga, Serbia, Tây Ban Nha, Thụy Điển.
+- Séc, Đan Mạch, Hà Lan, Phần Lan, Pháp, Đức, Hy Lạp, tiếng Hebrew, Hungary, Ý, Nhật Bản, Na Uy, Ba Lan, Bồ Đào Nha (Brazil), Nga, Serbia, Tây Ban Nha, Thụy Điển.
 
 ## [Về dịch Beowulf](../P/Prefatory_Remarks_on_Prose_Translation_of_'Beowulf'.md) {#On_Translating_Beowulf}
 
 - Pháp, Đức, Ý, Ba Lan, Nga, Tây Ban Nha, Thụy Điển.
 
-## [Các dân tộc ở Trung Địa](The_Peoples_of_Middle-earth.md) {#The_Peoples_of_Middle-earth}
+## [The Peoples of Middle-earth](The_Peoples_of_Middle-earth.md) {#The_Peoples_of_Middle-earth}
 
 - Tiếng Tây Ban Nha.
 
-## [Ảnh của J.R.R. Tolkien](../P/Pictures_by_J.R.R._Tolkien.md) {#Pictures_by_J.R.R._Tolkien}
+## [Pictures by J.R.R. Tolkien](../P/Pictures_by_J.R.R._Tolkien.md) {#Pictures_by_J.R.R._Tolkien}
 
 - Pháp, Ý, Tây Ban Nha.
 
-## [Sự trở lại của bóng tối](The_Return_of_the_Shadow.md) {#The_Return_of_the_Shadow}
+## [The Return of the Shadow](The_Return_of_the_Shadow.md) {#The_Return_of_the_Shadow}
 
 - Tiếng Tây Ban Nha.
 
@@ -166,7 +166,7 @@ Xem phần cấu thành: Beowulf: The Monsters and the Critics; Nhận xét mở
 
 - Tiếng Bungari, tiếng Catalan, tiếng Trung Quốc, tiếng Croatia, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Estonia, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Latvia, tiếng Na Uy, tiếng Ba Tư, tiếng Ba Lan, tiếng Bồ Đào Nha (tiếng Brazil), tiếng Rumani, tiếng Nga, tiếng Serbia, tiếng Tây Ban Nha, tiếng Thổ Nhĩ Kỳ.
 
-## [Sauron bị đánh bại](../S/Sauron_Defeated.md) {#Sauron_Defeated}
+## [Sauron Defeated](../S/Sauron_Defeated.md) {#Sauron_Defeated}
 
 - Tiếng Tây Ban Nha (gồm hai tập).
 
@@ -174,13 +174,13 @@ Xem phần cấu thành: Beowulf: The Monsters and the Critics; Nhận xét mở
 
 - Pháp, Đức, Ý, Ba Lan, Nga, Tây Ban Nha.
 
-## [Sự hình thành của Trung địa](The_Shaping_of_Middle-earth.md) {#The_Shaping_of_Middle-earth}
+## [The Shaping of Middle-earth](The_Shaping_of_Middle-earth.md) {#The_Shaping_of_Middle-earth}
 
 - Pháp, Ý, Bồ Đào Nha (Brazil), Tây Ban Nha.
 
 ## [The Silmarillion](The_Silmarillion.md) {#The_Silmarillion}
 
-- Tiếng Bulgaria, tiếng Catalan, tiếng Trung Quốc, tiếng Croatia, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Estonia, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Do Thái, tiếng Hungary, tiếng Iceland, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Rumani, tiếng Nga, tiếng Serbia, tiếng Slovak, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thổ Nhĩ Kỳ.
+- Tiếng Bungari, tiếng Catalan, tiếng Trung, tiếng Croatia, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Estonia, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Hebrew, tiếng Hungary, tiếng Iceland, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Rumani, tiếng Nga, tiếng Serbia, tiếng Slovak, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thổ Nhĩ Kỳ.
 
 ## [Ngài Gawain và Hiệp sĩ xanh](../W/W.P._Ker_Lecture.md) (bài giảng) {#Sir_Gawain_and_the_Green_Knight_(lecture)}
 
@@ -192,7 +192,7 @@ Xem phần cấu thành: Beowulf: The Monsters and the Critics; Nhận xét mở
 
 ## [Smith của Wootton Thiếu tá](../S/Smith_of_Wootton_Major.md) {#Smith_of_Wootton_Major}
 
-- Tiếng Nam Phi, tiếng Bulgaria, tiếng Catalan, tiếng Trung, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Estonia, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Do Thái, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Lan, tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Serbia, tiếng Slovenia, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thổ Nhĩ Kỳ, tiếng Valencian.
+- Tiếng Nam Phi, tiếng Bulgaria, tiếng Catalan, tiếng Trung, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Estonia, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Hebrew, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Lan, tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Serbia, tiếng Slovenia, tiếng Tây Ban Nha, tiếng Thụy Điển, tiếng Thổ Nhĩ Kỳ, tiếng Valencian.
 
 ## Smith of Wootton Major (ấn bản mở rộng năm 2005) {#Smith_of_Wootton_Major_(2005_expanded_edn.)}
 
@@ -202,7 +202,7 @@ Xem phần cấu thành: Beowulf: The Monsters and the Critics; Nhận xét mở
 
 - Phần Lan, Ý.
 
-## [Sự phản bội của Isengard](The_Treason_of_Isengard.md) {#The_Treason_of_Isengard}
+## [The Treason of Isengard](The_Treason_of_Isengard.md) {#The_Treason_of_Isengard}
 
 - Tiếng Tây Ban Nha.
 
@@ -212,17 +212,17 @@ Xem phần cấu thành: Beowulf: The Monsters and the Critics; Nhận xét mở
 
 ## [Unfinished Tales](../U/Unfinished_Tales.md) {#Unfinished_Tales}
 
-- Tiếng Bungari, tiếng Catalan, tiếng Trung Quốc, tiếng Croatia, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Do Thái, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Tây Ban Nha, tiếng Thụy Điển.
+- Tiếng Bungari, tiếng Catalan, tiếng Trung Quốc, tiếng Croatia, tiếng Séc, tiếng Đan Mạch, tiếng Hà Lan, tiếng Phần Lan, tiếng Pháp, tiếng Đức, tiếng Hy Lạp, tiếng Hebrew, tiếng Hungary, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Na Uy, tiếng Ba Lan, tiếng Bồ Đào Nha (Brazil), tiếng Bồ Đào Nha (Châu Âu), tiếng Nga, tiếng Tây Ban Nha, tiếng Thụy Điển.
 
-## Bài phát biểu tại trường Đại học Oxford (phiên bản Quái vật và phê bình) {#Valedictory_Address_to_the_University_of_Oxford_(Monsters_and_the_Critics_version)}
+## Địa chỉ thủ khoa cho Đại học Oxford (Phiên bản quái vật và phê bình) {#Valedictory_Address_to_the_University_of_Oxford_(Monsters_and_the_Critics_version)}
 
 - Pháp, Đức, Ý, Ba Lan, Tây Ban Nha.
 
-## [Cuộc chiến tranh châu báu](The_War_of_the_Jewels.md) {#The_War_of_the_Jewels}
+## [The War of the Jewels](The_War_of_the_Jewels.md) {#The_War_of_the_Jewels}
 
 - tiếng Tây Ban Nha
 
-## [Cuộc chiến trên chiếc nhẫn](The_War_of_the_Ring.md) {#The_War_of_the_Ring}
+## [Cái Cuộc chiến Nhẫn](The_War_of_the_Ring.md) {#The_War_of_the_Ring}
 
 - Tiếng Tây Ban Nha.
 

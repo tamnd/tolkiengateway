@@ -24,7 +24,7 @@ images:
 
 - Biên tập — [Damien Bador](../D/Damien_Bador.md)
 - Tolkien et la prière : phiên âm và phiên âm — [Leo Carruthers](Leo_Carruthers.md)
-- Les tengwar tôn giáo của Tolkien — [Arden R. Smith](../A/Arden_R._Smith.md)
+- Les tengwar tôn giáo Tolkien — [Arden R. Smith](../A/Arden_R._Smith.md)
 - Trình bày các thư pháp trong « bảng chữ cái qenya » — Arden Smith & [Damien Bador](../D/Damien_Bador.md)
 - >> Paroles de Joie » : Cinq prières catholiques en quenya — [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
     - [*Átaremma (Pater Noster)*](../_/Átaremma.md)
@@ -39,18 +39,18 @@ images:
 ## Bản dịch tiếng Anh {#English_translation}
 
 - Biên tập — [Damien Bador](../D/Damien_Bador.md)
-- Tolkien và lời cầu nguyện: Phiên âm và dịch thuật — [Leo Carruthers](Leo_Carruthers.md)
-- Tengwar tôn giáo của Tolkien — [Arden R. Smith](../A/Arden_R._Smith.md)
-- Trình bày về thư pháp bằng “bảng chữ cái Qenya” — Arden Smith & [Damien Bador](../D/Damien_Bador.md)
-- “Lời vui”: Năm lời cầu nguyện Công giáo ở Quenya — [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
+- Tolkien và Cầu nguyện: Phiên âm và dịch thuật — [Leo Carruthers](Leo_Carruthers.md)
+Tengwar tôn giáo của - Tolkien— [Arden R. Smith](../A/Arden_R._Smith.md)
+- Trình bày thư pháp bằng “Qenya bảng chữ cái” — Arden Smith & [Damien Bador](../D/Damien_Bador.md)
+- “Lời Vui”: Năm lời cầu nguyện Công giáo trong Quenya — [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
     - [*Átaremma (Pater Noster)*](../_/Átaremma.md)
     - [*Aia Maria (Ave Maria)*](../A/Aia_María.md)
     - [*Alcar i Ataren (Gloria Patri)*](../A/Alcar_i_Ataren.md)
     - [*Ortírielyanna (Sub Tuum Praesidium)*](../O/Ortírielyanna.md)
     - [Kinh cầu Loreto](Litany_of_Loreto.md)
-- [*Ae Adar Nín*: Kinh Lạy Cha bằng tiếng Sindarin](../A/Ae_Adar_Nín.md) — [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
-- [*Alcar mi Tarmenel na Erun*: *Gloria in Excelsis Deo* ở Quenya](../A/Alcar_mi_Tarmenel_na_Erun.md) — [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
-- Tolkien và Chuỗi Mân Côi: Yêu tinh có liên quan gì đến Chúa Kitô — [Michaël Devaux](../M/Michaël_Devaux.md)
+- [*Ae Adar Nín*: Kinh Lạy Cha trong Sindarin](../A/Ae_Adar_Nín.md) — [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
+- [*Alcar mi Tarmenel na Erun*: *Gloria in Excelsis Deo* trong Quenya](../A/Alcar_mi_Tarmenel_na_Erun.md) — [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
+- Tolkien và Kinh Mân Côi: Tiên tộc liên quan gì đến Chúa Kitô — [Michaël Devaux](../M/Michaël_Devaux.md)
 
 ## Liên kết ngoài {#External_links}
 

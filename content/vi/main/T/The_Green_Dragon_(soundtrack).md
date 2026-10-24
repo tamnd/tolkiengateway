@@ -36,7 +36,7 @@ infobox:
 <p class="mw-empty-elt"></p>
 </figure></td></tr></tbody></table>
 
-**The Green Dragon** là ca khúc thứ bảy trong đĩa một của *[The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md). Nó được sáng tác bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Plan_9&amp;action=edit&amp;redlink=1" title="Plan 9 (page does not exist)">Plan 9</a> với <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Long&amp;action=edit&amp;redlink=1" title="David Long (page does not exist)">David Long</a> và được biểu diễn bởi [Billy Boyd](../B/Billy_Boyd.md) và [Dominic Monaghan](../D/Dominic_Monaghan.md).
+**The Green Rồng** là ca khúc thứ bảy trong đĩa một trong *[The Lord of the Rings: The Return of the King - The Complete Recordings](The_Lord_of_the_Rings%253A_The_Return_of_the_King_-_The_Complete_Recordings.md)* của [Howard Shore](../H/Howard_Shore.md). Nó được sáng tác bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Plan_9&amp;action=edit&amp;redlink=1" title="Plan 9 (page does not exist)">Plan 9</a> với <a class="new" href="https://tolkiengateway.net/w/index.php?title=David_Long&amp;action=edit&amp;redlink=1" title="David Long (page does not exist)">David Long</a> và được biểu diễn bởi [Billy Boyd](../B/Billy_Boyd.md) và [Dominic Monaghan](../D/Dominic_Monaghan.md).
 
 ## Lời bài hát {#Lyrics}
 

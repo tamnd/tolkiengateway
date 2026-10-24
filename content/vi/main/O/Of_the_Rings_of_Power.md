@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Of the Rings of Power and the Third Age"
 ---
 
-Chuyển hướng đến [Những chiếc nhẫn quyền lực và Thời đại thứ ba](Of_the_Rings_of_Power_and_the_Third_Age.md).
+Chuyển hướng đến [Trong số Những Chiếc Nhẫn Quyền Năng và Kỷ Đệ Tam](Of_the_Rings_of_Power_and_the_Third_Age.md).

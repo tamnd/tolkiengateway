@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Kinslaying at Alqualondë"
 ---
 
-Chuyển hướng đến [Tàn sát người thân ở Alqualondë](Kinslaying_at_Alqualondë.md).
+Chuyển hướng đến [Tàn sát tại Alqualondë](Kinslaying_at_Alqualondë.md).

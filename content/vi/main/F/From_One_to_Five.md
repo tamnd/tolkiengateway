@@ -15,7 +15,7 @@ hidden_categories:
   - "Pages with short description"
 ---
 
-<i><b>From One to Five</b></i> là bài hát được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Three_Wise_Men_of_Gotham" title="wikipedia:Three Wise Men of Gotham">Ba nhà thông thái của Gotham</a></i>. Nó được xuất bản dưới dạng bài hát thứ tám trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
+<i><b>From One to Five</b></i> là một bài hát được viết bởi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md), được hát theo giai điệu của <i><a class="extiw" href="http://en.wikipedia.org/wiki/Three_Wise_Men_of_Gotham" title="wikipedia:Three Wise Men of Gotham">Three Wise Con Người của Gotham</a></i>. Nó được xuất bản dưới dạng bài hát thứ tám trong *[Songs for the Philologists](../S/Songs_for_the_Philologists.md)* trong [1936](../_/1936.md).
 
 Bài hát đã được sửa lại để bỏ đi những tham chiếu trực tiếp đến [Đại học Leeds](../L/Leeds_University.md), cho phù hợp với Đại học College, London.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 

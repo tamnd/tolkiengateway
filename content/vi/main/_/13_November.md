@@ -67,14 +67,14 @@ Sự kiện xảy ra vào ngày 13 tháng 11
 
 - **[1944](1944.md)** - J.R.R. Tolkien viết [Thư 89a](../L/Letter_89a.md).
 - **[1952](1952.md)** - [C. S. Lewis](../C/C._S._Lewis.md) viết thư cho [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
-- **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Paul Barnetson](../L/Letter_to_Paul_Barnetson.md).
-- **[1997](1997.md)** - [Peter Jackson](../P/Peter_Jackson.md) gửi một bưu kiện chứa <i><a class="external text" href="http://www.imdb.com/title/tt0116344/" rel="noreferrer noopener" target="_blank">Bạc bị lãng quên</a></i> và <i><a class="external text" href="http://www.imdb.com/title/tt0110005/" rel="noreferrer noopener" target="_blank">Sinh vật trên trời</a></i> kèm theo một lá thư giải thích [một dự án phim sắp ra mắt](<../T/The_Lord_of_the_Rings_(film_series).md>) tới [Alan Lee](../A/Alan_Lee.md).
-- **[2002](2002.md)** - Tập *South Park* "[Sự trở lại của Hiệp hội Chiếc nhẫn với Hai tòa tháp](../T/The_Return_of_the_Fellowship_of_the_Ring_to_the_Two_Towers.md)" được truyền hình trực tiếp.
+- **[1961](1961.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Paul Barnetson](../L/Letter_to_Paul_Barnetson.md).
+- **[1997](1997.md)** - [Peter Jackson](../P/Peter_Jackson.md) gửi một bưu kiện chứa <i><a class="external text" href="http://www.imdb.com/title/tt0116344/" rel="noreferrer noopener" target="_blank">Bạc bị lãng quên</a></i> và <i><a class="external text" href="http://www.imdb.com/title/tt0110005/" rel="noreferrer noopener" target="_blank">Sinh vật trên trời</a></i> kèm theo một lá thư giải thích [một dự án phim sắp ra mắt](<../T/The_Lord_of_the_Rings_(film_series).md>) tới [Alan Lý](../A/Alan_Lee.md).
+- **[2002](2002.md)** - Tập *South Park* "[Sự trở lại của Đoàn Hộ Nhẫn hai tòa tháp](../T/The_Return_of_the_Fellowship_of_the_Ring_to_the_Two_Towers.md)" được truyền hình trực tiếp.
 - **[2017](2017.md)** - [Amazon](../A/Amazon.com_Incorporated.md) mua bản quyền truyền hình toàn cầu cho sách [The Lord of the Rings](../T/The_Lord_of_the_Rings.md) và [The Hobbit](../T/The_Hobbit.md).
 
 ## Trong Arda {#In_Arda}
 
 - [F.A.](../F/First_Age.md) [495](../F/First_Age_495.md):
-    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), đi đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
+    - [Tuor](../T/Tuor.md), được hướng dẫn bởi [Voronwë](../V/Voronwë.md), di chuyển đến [Gondolin](../G/Gondolin.md) để chuyển thông điệp của [Ulmo](../U/Ulmo.md) tới [Turgon](../T/Turgon.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi tại [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).
+    - [Frodo](../F/Frodo_Baggins.md) và [Samwise](../S/Samwise_Gamgee.md) nghỉ ngơi ở [Rivendell](../R/Rivendell.md) và chuẩn bị cho nhiệm vụ tiêu diệt [Chiếc Nhẫn Chúa](../T/The_One_Ring.md).

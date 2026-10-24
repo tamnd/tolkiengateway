@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Óin"
 ---
 
-Chuyển hướng tới [Óin](../_/Óin.md).
+Chuyển hướng đến [Óin](../_/Óin.md).

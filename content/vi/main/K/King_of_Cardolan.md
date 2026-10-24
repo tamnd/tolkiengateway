@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Cardolan"
 ---
 
-Chuyển hướng tới [Cardolan](../C/Cardolan.md).
+Chuyển hướng đến [Cardolan](../C/Cardolan.md).

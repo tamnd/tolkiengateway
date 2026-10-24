@@ -64,9 +64,9 @@ infobox:
 
 ## Lịch sử {#History}
 
-Baran là con trai lớn nhất của [Bëor Già](Bëor.md) và là anh trai của [Belen](Belen.md).<sup id="cite_ref-WJBeor_2-0" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup> Anh nắm quyền lãnh đạo [Nhà Bëor](../H/House_of_Bëor.md) ở [Estolad](../E/Estolad.md) khi cha anh rời đi để làm chư hầu cho [Finrod Felagund](../F/Finrod.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Baran là con trai lớn nhất của [Bëor Lão già](Bëor.md) và là anh trai của [Belen](Belen.md).<sup id="cite_ref-WJBeor_2-0" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup> Anh nắm quyền lãnh đạo [Nhà Bëor](../H/House_of_Bëor.md) vào [Estolad](../E/Estolad.md) khi cha anh rời đi để làm chư hầu cho [Finrod Felagund](../F/Finrod.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Trong thời gian cai trị của ông, [Haladin](../H/Haladin.md), [người dân Marach](../H/House_of_Hador.md) và [Easterlings](../E/Easterlings.md) đã vượt qua [Dãy núi Xanh](Blue_Mountains.md) vào [Beleriand](Beleriand.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Trong thời gian ông cai trị, [Haladin](../H/Haladin.md), [người dân Marach](../H/House_of_Hador.md) và [Người phương Đông](../E/Easterlings.md) đã vượt qua [Dãy Núi Xanh](Blue_Mountains.md) vào [Beleriand](Beleriand.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -85,9 +85,9 @@ Trong thời gian cai trị của ông, [Haladin](../H/Haladin.md), [người d�
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong phần giới thiệu về *[The Grey Annals](../T/The_Grey_Annals.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) nói rằng chúng được viết vào những năm 1930.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tác phẩm này được gác lại trong khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết *The Lord of the Rings*, sau đó ông quay lại với công việc của mình vào những ngày xa xưa. Trong các tác phẩm sau này của mình, Tolkien đã xác định lại sự xuất hiện của [Edain](../E/Edain.md) trên [Blue Mountains](Blue_Mountains.md) gần một thế kỷ trước đó, dẫn đến một cuộc đại tu quy mô lớn về niên đại và phả hệ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong phần giới thiệu *[The Grey Annals](../T/The_Grey_Annals.md)*, [Christopher Tolkien](../C/Christopher_Tolkien.md) nói rằng chúng được viết vào những năm 1930.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> Tác phẩm này bị gác lại trong khi [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết *The Lord of the Rings*, sau đó ông quay lại với công việc của mình vào những ngày trước. Trong các bài viết sau này của ông, Tolkien đã xác định lại sự xuất hiện của [Edain](../E/Edain.md) so với [Dãy Núi Xanh](Blue_Mountains.md) gần một thế kỷ trước đó, điều này dẫn đến một cuộc cải tổ quy mô lớn về niên đại và phả hệ.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
-Ở *Grey Annals* lớn hơn, theo sau Bëor là các con trai của ông là [Bregolas](Bregolas.md) và [Barahir](Barahir.md). Trong phiên bản mới, bốn thế hệ (*Baran*, Boron, Boromir và Bregor) được thêm vào sau Bëor, với Bregor là cha của Bregolas và Barahir.<sup id="cite_ref-WJBeor_2-1" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
+Ở *Grey Annals* Bëor lớn hơn, tiếp theo là các con trai của ông [Bregolas](Bregolas.md) và [Barahir](Barahir.md). Trong phiên bản mới, bốn thế hệ (*Baran*, Boron, Boromir và Bregor) đã được chèn sau Bëor, với Bregor là cha của Bregolas và Barahir.<sup id="cite_ref-WJBeor_2-1" class="reference"><a href="#cite_note-WJBeor-2">[2]</a></sup>
 
 <span></span>
 

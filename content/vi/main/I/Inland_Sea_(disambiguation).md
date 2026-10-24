@@ -14,13 +14,13 @@ images:
   - "Disambig.png"
 ---
 
-**Biển nội địa** có thể tham khảo:
+**Nội địa Biển** có thể tham khảo:
 
-- [Biển Helcar](../S/Sea_of_Helcar.md), một vùng biển nội địa ở phía bắc Trung Địa
-- [Biển Ringil](../S/Sea_of_Ringil.md), một vùng biển nội địa ở trung nam Trung Địa
-- [Biển Núrnen](../S/Sea_of_Núrnen.md), biển nội địa ở Mordor
-- [Biển Rhûn](../S/Sea_of_Rhûn.md), một vùng biển nội địa ở biên giới phía tây của Rhûn
-- [Biển nội địa](<Inland_Sea_(The_Book_of_Lost_Tales).md>) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*
+- [Biển Helcar](../S/Sea_of_Helcar.md), một vùng biển nội địa ở Bắc Trung Bộ Trung Địa
+- [Biển Ringil](../S/Sea_of_Ringil.md), biển nội địa Nam Trung Bộ Trung Địa
+- [Biển của Núrnen](../S/Sea_of_Núrnen.md), một vùng biển nội địa ở Mordor
+- [Biển Rhûn](../S/Sea_of_Rhûn.md), một vùng biển nội địa ở biên giới phía Tây của Rhûn
+- [Nội địa Biển](<Inland_Sea_(The_Book_of_Lost_Tales).md>) ở *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*
 
 <hr style="margin-top:15px;"/>
 

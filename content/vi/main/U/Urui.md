@@ -22,7 +22,7 @@ langlinks:
     url: "https://kontu.wiki/Urui"
 ---
 
-**Urui** là tháng thứ 8 theo lịch của [Dúnedain](../D/Dúnedain.md). Nó còn được gọi là [Úrimë](../_/Úrimë.md) trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thành phần đầu tiên của tên, *Ur-*, bắt nguồn từ tiếng Sindarin *ûr* "lửa, nhiệt".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Thành phần thứ hai *-ui* là đuôi tính từ phổ biến,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cũng xuất hiện trong các tên tiếng Sindarin khác của các tháng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+**Urui** là tháng thứ 8 theo lịch của [Dúnedain](../D/Dúnedain.md). Nó còn được gọi là [Úrimë](../_/Úrimë.md) trong [Quenya](../Q/Quenya.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Thành phần đầu tiên của tên, *Ur-*, bắt nguồn từ Sindarin *ûr* "lửa, nhiệt".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Thành phần thứ hai *-ui* là đuôi tính từ phổ biến,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> cũng xuất hiện trong Sindarin tên khác của các tháng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

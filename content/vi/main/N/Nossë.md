@@ -21,20 +21,20 @@ sort_keys:
 
 <i><b>nossë</b></i> là một từ [Quenya](../Q/Quenya.md) có nghĩa là "đồng loại, gia đình".<sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
-Trong Quenya của [*Etymologies*](../T/The_Etymologies.md), *nosse* được gọi là "gia tộc, gia đình, 'ngôi nhà'", bắt nguồn từ [gốc](../S/Sundocarme.md) [NŌ](../O/ONO.md#Other_versions) ("beget").<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+Trong Quenya của [*Etymologies*](../T/The_Etymologies.md), *nosse* được hiểu là "dòng tộc, gia đình, 'nhà'", bắt nguồn từ [gốc](../S/Sundocarme.md) [NŌ](../O/ONO.md#Other_versions) ("beget").<sup id="cite_ref-LR_2-0" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 
 ### Có cùng nguồn gốc {#Cognates}
 
-- [tiếng Sindarin](../S/Sindarin.md) *[nos](Nos.md)*<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
+- [Sindarin](../S/Sindarin.md) *[nos](Nos.md)*<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup>
 
 ### Ví dụ {#Examples}
 
-- *Nos Finrod* ("Nhà của [Finrod](../F/Finrod.md)")<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
+- *Nos Finrod* ("Ngôi nhà của [Finrod](../F/Finrod.md)")<sup id="cite_ref-LR_2-1" class="reference"><a href="#cite_note-LR-2">[2]</a></sup>
 - *Nos Feanor* ("[Nhà Feanor](../H/House_of_Fëanor.md)")<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Qenya {#Qenya}
 
-<i><b>nosse</b></i> (hoặc *nossë*) là danh từ [Qenya](../Q/Qenya.md) có nghĩa là "dân gian, họ hàng, con người".<sup id="cite_ref-LT1_4-0" class="reference"><a href="#cite_note-LT1-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-PE_6-0" class="reference"><a href="#cite_note-PE-6">[6]</a></sup>
+<i><b>nosse</b></i> (hoặc *nossë*) là một danh từ [Qenya](../Q/Qenya.md) có nghĩa là "dân gian, họ hàng, con người".<sup id="cite_ref-LT1_4-0" class="reference"><a href="#cite_note-LT1-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-PE_6-0" class="reference"><a href="#cite_note-PE-6">[6]</a></sup>
 
 ### Từ nguyên {#Etymology}
 

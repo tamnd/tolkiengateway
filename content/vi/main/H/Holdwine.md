@@ -23,11 +23,11 @@ langlinks:
     url: "https://kontu.wiki/Holdwine"
 ---
 
-**Holdwine of the Shire** là tên được Vua [Éomer](../_/Éomer.md) đặt cho [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) trong số [Rohirrim](../R/Rohirrim.md) và được họ sử dụng để ghi lại những việc làm của ông trong biên niên sử của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Holdwine của Shire** là tên được đặt cho [Meriadoc Brandybuck](../M/Meriadoc_Brandybuck.md) trong số [Rohirrim](../R/Rohirrim.md) bởi Vua [Éomer](../_/Éomer.md) và được họ sử dụng để ghi lại những việc làm của ông ta trong biên niên sử của họ.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ này là [tiếng Anh cổ](../O/Old_English.md) nhưng nghĩa của nó không bao giờ được đưa ra một cách rõ ràng; và có nhiều cách giải thích, trong đó có một cách hiểu là "người bạn chung thủy". Tên *Holdwine* được tạo thành từ các yếu tố [Tiếng Anh cổ](../O/Old_English.md) *hold* ("trung thành" hoặc "trung thành") và *wine* ("bạn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
+Từ đó là [tiếng Anh cổ](../O/Old_English.md) nhưng nghĩa của nó không bao giờ được đưa ra một cách rõ ràng; và có nhiều cách giải thích, trong đó có một cách hiểu là "người bạn chung thủy". Tên *Holdwine* được tạo thành từ các phần tử [tiếng Anh cổ](../O/Old_English.md) *hold* ("trung thành" hoặc "trung thành") và *wine* ("bạn").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Eärendur (Lord of Andúnië)"
 ---
 
-Chuyển hướng tới [Eärendur (Chúa tể của Andúnië)](<Eärendur_(Lord_of_Andúnië).md>).
+Chuyển hướng tới [Eärendur (Lãnh chúa Andúnië)](<Eärendur_(Lord_of_Andúnië).md>).

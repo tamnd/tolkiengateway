@@ -34,7 +34,7 @@ sort_keys:
 ### Bài viết {#Articles}
 
 - [1999](../_/1999.md): *[Tolkien: A Celebration](../T/Tolkien%253A_A_Celebration.md)*
-    - "Tolkien và sự hồi sinh văn học Công giáo"
+    - "Tolkien và sự phục hưng văn học Công giáo"
 - [2002](../_/2002.md): *[J.R.R. Tolkien's Sanctifying Myth](J.R.R._Tolkien's_Sanctifying_Myth.md)*
     - Lời nói đầu
 - [2003](../_/2003.md): [*Christian History* 78](../C/Christian_History_78.md)
@@ -42,7 +42,7 @@ sort_keys:
 - [2003](../_/2003.md): *[J.R.R. Tolkien: Myth, Morality and Religion](J.R.R._Tolkien%253A_Myth,_Morality_and_Religion.md)*
     - Lời nói đầu
 - [2006](../_/2006.md): *[J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment](J.R.R._Tolkien_Encyclopedia%253A_Scholarship_and_Critical_Assessment.md)*
-    - "Chúa Kitô", "Nhà thờ Anh", "Bóng tối", "Thiên đường", "Sự nhập thể", "Morgoth và Melkor", "Sự cứu chuộc", "Các vị thánh"
+    - "Chúa Kitô", "Nhà thờ Anh", "Bóng Tối", "Thiên đường", "Sự nhập thể", "Morgoth và Melkor", "Sự cứu chuộc", "Các vị thánh"
 - [2011](../_/2011.md): *[The Ring and the Cross](../T/The_Ring_and_the_Cross.md)*
     - "*The Lord of the Rings* và sự hiểu biết của người Công giáo về cộng đồng"
 

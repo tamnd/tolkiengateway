@@ -38,17 +38,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Hobbits.md" title="Hobbits">Hobbit</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Holfast Gardner</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="Hobbiton.md" title="Hobbiton">Hobbiton</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a class="mw-redirect" href="../S/Shire_Reckoning.md" title="Shire Reckoning">S.R.</a> <a href="../F/Fourth_Age_41.md" title="Fourth Age 41">1462</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Family</th><td class="tg-infobox-data"><a class="mw-redirect" href="../G/Gardner_Family~66367.md" title="Gardner Family">Gardner</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../F/Frodo_Gardner.md" title="Frodo Gardner">Frodo Gardner</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Harding_of_the_Hill.md" title="Harding of the Hill">Harding of the Hill</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Holfast Gardner** là một [Hobbit](Hobbits.md) của [Shire](../T/The_Shire.md).
+**Holfast Gardner** là [Hobbit](Hobbits.md) của [ Shire](../T/The_Shire.md).
 
 ## Lịch sử {#History}
 
 Holfast là con trai của [Frodo Gardner](../F/Frodo_Gardner.md) và trở thành người đứng đầu [Gia đình Gardner](../G/Gardner_Family~66367.md). Ông ấy là cha của [Harding of the Hill](Harding_of_the_Hill.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Có lẽ ông ta sống ở [Bag End](../B/Bag_End.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Có lẽ ông sống ở [Bag End](../B/Bag_End.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-[Tiếng Anh cổ](../O/Old_English.md) *holfæst* có nghĩa là "người ở trong lỗ" hoặc "người sống trong lỗ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[tiếng Anh cổ](../O/Old_English.md) *holfæst* có nghĩa là "người ở trong lỗ" hoặc "người ở trong lỗ".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 <span></span>
 

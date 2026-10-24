@@ -51,13 +51,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../G/Gondorians.md" title="Gondorians">Gondorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Siriondil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../G/Gondor.md" title="Gondor">Gondor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Before <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1883.md" title="Third Age 1883">1883</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data">Before or around <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_1944.md" title="Third Age 1944">1944</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup><br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Anárion.md" title="House of Anárion">House of Anárion</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../C/Calimmacil.md" title="Calimmacil">Calimmacil</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../E/Eärnil_II.md" title="Eärnil II">Eärnil II</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Siriondil** là một quý tộc [Gondorian](../G/Gondorians.md).
+**Siriondil** là một nhà quý tộc [Gondor](../G/Gondorians.md).
 
 ## Lịch sử {#History}
 
-Siriondil là con trai của [Calimmacil](../C/Calimmacil.md), và là cháu trai của Vua [Narmacil II](../N/Narmacil_II.md) (mất. [T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md)) và do đó, là anh em họ xa của Vua [Ondoher](../O/Ondoher.md) của Gondor. Có lẽ ông ta được đặt theo tên tổ tiên của mình [Siriondil](<Siriondil_(King_of_Gondor).md>), cựu Vua của [Gondor](../G/Gondor.md). Ở [T.A.](../T/Third_Age.md) [1883](../T/Third_Age_1883.md) ông có một con trai, [Earnil](../E/Eärnil_II.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Siriondil là con trai của [Calimmacil](../C/Calimmacil.md), và là cháu trai của Vua [Narmacil II](../N/Narmacil_II.md) (d. [T.A.](../T/Third_Age.md) [1856](../T/Third_Age_1856.md)) và do đó, là anh em họ xa của Vua [Ondoher](../O/Ondoher.md) của Gondor. Có lẽ ông ta được đặt theo tên của tổ tiên [Siriondil](<Siriondil_(King_of_Gondor).md>), một cựu Vua của [Gondor](../G/Gondor.md). Ở [T.A.](../T/Third_Age.md) [1883](../T/Third_Age_1883.md) ông có một con trai, [Earnil](../E/Eärnil_II.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
-Sau khi [Ondoher](../O/Ondoher.md) và các con trai của ông ta bị giết trong trận chiến chống lại [Wainriders](../W/Wainriders.md) ở [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md), [năm sau](../T/Third_Age_1945.md) Eärnil được bầu làm Vua Gondor thứ 32.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
+Sau khi [Ondoher](../O/Ondoher.md) và các con trai của ông bị giết trong trận chiến chống lại [Wainriders](../W/Wainriders.md) ở [T.A.](../T/Third_Age.md) [1944](../T/Third_Age_1944.md), [năm sau](../T/Third_Age_1945.md) Eärnil đã được bầu làm Vua Gondor thứ ba mươi hai.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -82,7 +82,7 @@ Sau khi [Ondoher](../O/Ondoher.md) và các con trai của ông ta bị giết t
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Dựa trên niên đại cuộc đời của Earnil, Siriondil hẳn đã phát triển mạnh mẽ vào khoảng thế kỷ 19 của Thời đại thứ ba. Việc con trai ông trở thành Vua thay ông vào năm 1944 cho thấy rằng Siriondil đã không còn tồn tại hoặc đã chết vào thời điểm đó.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Dựa trên niên đại cuộc đời của Earnil, Siriondil hẳn đã phát triển mạnh mẽ vào khoảng thế kỷ 19 của Kỷ Đệ Tam. Việc con trai ông trở thành Vua thay ông vào năm 1944, cho thấy rằng Siriondil đã không còn tồn tại hoặc đã chết vào thời điểm đó.</span>
 </li>
 </ol></div></span>
 

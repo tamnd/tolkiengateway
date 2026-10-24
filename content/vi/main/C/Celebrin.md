@@ -13,7 +13,7 @@ categories:
   - "Sindarin adjectives"
 ---
 
-**celebrin** là một tính từ [Sindarin](../S/Sindarin.md) có nghĩa là "giống như bạc (về màu sắc hoặc giá trị)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó bao gồm danh từ *[celeb](Celeb.md)* ("bạc") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-ren&amp;action=edit&amp;redlink=1" title="-ren (page does not exist)">-ren</a></i>, một hậu tố tính từ.<sup id="cite_ref-Eld_2-0" class="reference"><a href="#cite_note-Eld-2">[2]</a></sup>
+**celebrin** là một tính từ [Sindarin](../S/Sindarin.md) có nghĩa là "như bạc (về màu sắc hoặc giá trị)".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Nó được cấu tạo từ danh từ *[celeb](Celeb.md)* ("bạc") + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=-ren&amp;action=edit&amp;redlink=1" title="-ren (page does not exist)">-ren</a></i>, một hậu tố tính từ.<sup id="cite_ref-Eld_2-0" class="reference"><a href="#cite_note-Eld-2">[2]</a></sup>
 
 ## Có cùng nguồn gốc {#Cognates}
 

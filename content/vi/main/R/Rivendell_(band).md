@@ -30,7 +30,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle">Band</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rivendell</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Background Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Origin</th><td class="tg-infobox-data">Hallwang, Austria</td></tr><tr><th scope="row" class="tg-infobox-label">Genre</th><td class="tg-infobox-data">epic black metal with folk influences</td></tr><tr><th scope="row" class="tg-infobox-label">Years active</th><td class="tg-infobox-data">1998-present</td></tr><tr><th scope="row" class="tg-infobox-label">website</th><td class="tg-infobox-data"><a class="external text" href="https://rivendell.bandcamp.com/" rel="noreferrer noopener" target="_blank">Bandcamp</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Members</span></th></tr><tr><th scope="row" class="tg-infobox-label">Current Members</th><td class="tg-infobox-data">Falagar</td></tr></tbody></table>
 
-**Rivendell** là một ban nhạc black metal hoành tráng mang âm hưởng dân gian từ Hallwang, Áo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dự án solo của Gerold Laimer (Falagar), ban nhạc được thành lập vào năm 1998 dưới tên Fangorn và lấy tên hiện tại cùng năm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ban nhạc lấy tên từ [Rivendell](Rivendell.md), thung lũng ẩn giấu của [Elrond](../E/Elrond.md) ở [Trung địa](../M/Middle-earth.md). Lần đầu ra mắt năm 2000 *The Ancient Glory* có các bài hát được đặt theo tên của [Nimrodel](../N/Nimrodel.md), [Théoden](../T/Théoden.md) và [Aragorn](../A/Aragorn.md).
+**Rivendell** là một ban nhạc black metal hoành tráng mang âm hưởng dân gian đến từ Hallwang, Áo.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Dự án solo của Gerold Laimer (Falagar), ban nhạc được thành lập vào năm 1998 với tên Fangorn và lấy tên hiện tại cùng năm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Ban nhạc lấy tên từ [Rivendell](Rivendell.md), thung lũng ẩn giấu của [Elrond](../E/Elrond.md) ở [Trung Địa](../M/Middle-earth.md). Lần đầu ra mắt năm 2000 *The Ancient Glory* có các bài hát được đặt theo tên [Nimrodel](../N/Nimrodel.md), [Théoden](../T/Théoden.md) và [Aragorn](../A/Aragorn.md).
 
 ## Thành viên {#Members}
 
@@ -38,30 +38,30 @@ infobox:
 
 ## Danh sách đĩa {#Discography}
 
-- Thơ về núi rừng (Demo, 1998; với tên Fangorn)
+- Thơ Dãy Núi và Rừng (Demo, 1998; as Fangorn)
     1. Hành trình bắt đầu (nhạc cụ)
-    2. Vua Dưới Núi
+    2. Vua Bên dưới Dãy Núi
     3. Quay lại vùng đất chúng ta từng biết
     4. Hồ bị lãng quên từ lâu
-    5. Trận chiến gần dãy núi sương mù
+    5. Trận chiến gần Dãy Núi Sương Mù
     6. Những hang động cổ
 - Vinh Quang Cổ Xưa (Trọn bộ, 2000)
     1. Giới thiệu (nhạc cụ)
-    2. Vua Dưới Núi
-    3. Lời của nhà tiên tri Malbeth
-    4. Bài hát của Nimrodel: Phần I
-    5. Bài hát của Nimrodel: Phần II
+    2. Vua Bên dưới Dãy Núi
+    3. Malbeth Lời của Nhà tiên tri
+    4. Bài hát Nimrodel: Phần I
+    5. Bài hát Nimrodel: Phần II
     6. Sảnh Durin
     7. Theoden
     8. Aragorn Con trai của Arathorn
-- Nước mắt yêu tinh (Trọn bộ, 2003)
+- Tiên Nước mắt (Trọn bộ, 2003)
     1. Thung lũng ảo ảnh (nhạc cụ)
     2. Bài hát của Eldamar
-    3. Núi mù sương
+    3. Dãy Núi Sương Mù
     4. Mithrandir
     5. Sự sụp đổ của Finrod
-    6. Hang ổ rồng
-    7. Chiến thắng của nhà vua
+Hang ổ của     6. Rồng
+    7. Chiến thắng của Vua
     8. Luthien
 - Tạm biệt: Bình minh cuối cùng (Trọn bộ, 2005)
     1. Rivendell
@@ -71,18 +71,18 @@ infobox:
     5. Bài hát uống rượu
     6. Quay lại vùng đất mà chúng ta đã từng biết
     7. Tinúviel
-- Grey Havens (Đĩa đơn, 2022)
+- Cảng Xám (Đĩa đơn, 2022)
 - Chuyến Du Hành (Đĩa đơn, 2023)
 - Những câu chuyện chưa được kể (Trọn bộ, 2024)
     1. Những Con Đường Vẫn Mãi Mãi (nhạc cụ)
-    2. Sự nằm của Leithian
+    2. The Lay of Leithian
     3. Than thở
     4. Nimrod
     5. Chuyến hành trình
     6. Vương miện
-    7. Những thiên đường xám
-- Fangorn: Những bài thơ về núi và rừng (EP, 2024; phát hành lại bản demo Fangorn năm 1998)
-- The Shadow-Folk (Đĩa đơn, 2025)
+    7. Cảng Xám
+- Fangorn: Những bài thơ về Dãy Núi và Rừng (EP, 2024; phát hành lại bản demo Fangorn năm 1998)
+- The Bóng Tối-Folk (Đĩa đơn, 2025)
 - Vùng đất ẩn giấu (Đĩa đơn, 2025)
 
 ## Tài liệu tham khảo {#References}
@@ -97,8 +97,8 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="https://rivendell.bandcamp.com/" rel="noreferrer noopener" target="_blank">Trại tập thể</a>
-- <a class="external text" href="https://rivendell.bandcamp.com/album/poems-of-mountains-and-forests-fangorn-demo" rel="noreferrer noopener" target="_blank">Bandcamp (bản demo của Fangorn)</a>
-- <a class="external text" href="https://gollumstreasures.bandcamp.com/album/unsung-tales" rel="noreferrer noopener" target="_blank">Kho báu của Gollum (Bandcamp)</a>
+- <a class="external text" href="https://rivendell.bandcamp.com/album/poems-of-mountains-and-forests-fangorn-demo" rel="noreferrer noopener" target="_blank">Bandcamp (Fangorn demo)</a>
+Kho báu của - <a class="external text" href="https://gollumstreasures.bandcamp.com/album/unsung-tales" rel="noreferrer noopener" target="_blank">Gollum(Bandcamp)</a>
 - <a class="external text" href="https://www.instagram.com/rivendell.official/" rel="noreferrer noopener" target="_blank">Instagram</a>
 - <a class="external text" href="https://open.spotify.com/artist/1JZCU1lkoPdJsw0OlGSBUf" rel="noreferrer noopener" target="_blank">Spotify</a>
 - <a class="external text" href="https://music.apple.com/ao/album/farewell-the-last-dawn/1486865313" rel="noreferrer noopener" target="_blank">Apple Music</a>

@@ -22,4 +22,4 @@ sort_keys:
 
 ## Tài liệu tham khảo {#References}
 
-- *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)* của [John Garth](../J/John_Garth.md).
+- *[Tolkien and the Great War](../T/Tolkien_and_the_Great_War.md)* bởi [John Garth](../J/John_Garth.md).

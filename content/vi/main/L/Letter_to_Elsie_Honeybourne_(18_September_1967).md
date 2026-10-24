@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/J/J.R.R._Tolkien_to_Elise_Honeybourne_(back).jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/d/d2/J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg/300px-J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg" decoding="async" loading="lazy" width="300" height="393" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/d/d2/J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg/450px-J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/d/d2/J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg/600px-J.R.R._Tolkien_to_Elise_Honeybourne_%28back%29.jpg 2x" data-file-width="800" data-file-height="1047"/></a><figcaption></figcaption></figure>
 
-Vào [18 tháng 9](../_/18_September.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Elsie Honeybourne**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vào ngày [18 tháng Chín](../_/18_September.md) [1967](../_/1967.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho Elsie Honeybourne**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Ấn bản:** Mô tả và ảnh của bức thư được đính kèm trong *[Bloomsbury Modern First Editions, Manuscripts and Autograph Letters, English and Continental Literature and History 24 May 2007](../B/Bloomsbury_Modern_First_Editions,_Manuscripts_and_Autograph_Letters,_English_and_Continental_Literature_and_History_24_May_2007.md)*.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 - **Mô tả:** Một trang hai mặt (viết tay), 5,5 x 7, tiêu đề thư cá nhân.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
@@ -40,7 +40,7 @@ Vào [18 tháng 9](../_/18_September.md) [1967](../_/1967.md), [J.R.R. Tolkien](
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.tolkienlibrary.com/press/Tolkien_Letter_for_sale.php" rel="noreferrer noopener" target="_blank">Thư viện Tolkien</a>
+- <a class="external text" href="http://www.tolkienlibrary.com/press/Tolkien_Letter_for_sale.php" rel="noreferrer noopener" target="_blank">Tolkien Thư viện</a>
 
 <span></span>
 

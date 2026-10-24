@@ -68,12 +68,12 @@ Sự kiện xảy ra vào ngày 2 tháng 10
 
 - **[1901](1901.md)** - Nhà thơ [Roy Campbell](../R/Roy_Campbell.md) ra đời.
 - **[1937](1937.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 15b](../L/Letter_15b.md).
-- **[1937](1937.md)** - [C.S. Lewis](../C/C.S._Lewis.md) đăng [đánh giá](../A/A_World_for_Children.md) về *[The Hobbit](../T/The_Hobbit.md)* trong *The Times Literary Supplement*.
+- **[1937](1937.md)** - [C.S. Lewis](../C/C.S._Lewis.md) công bố [đánh giá](../A/A_World_for_Children.md) về *[The Hobbit](../T/The_Hobbit.md)* trong *The Times Literary Supplement*.
 - **[1947](1947.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi A.W. Riddle](<../L/Letter_to_A.W._Riddle_(2_October_1947).md>).
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) nhận bằng tiến sĩ danh dự của <a class="extiw" href="http://en.wikipedia.org/wiki/University_of_Li%C3%A8ge" title="wikipedia:University of Liège">Đại học Liège</a>.
-- **[1976](1976.md)** - [Oxonmoot 1976](../O/Oxonmoot_1976.md) tại The Welsh Pony.
+- **[1976](1976.md)** - [Oxonmoot 1976](../O/Oxonmoot_1976.md) tại The tiếng Wales Pony.
 - **[1979](1979.md)** - Tập *[Jackanory](../J/Jackanory.md)* "Over Hill and Under Hill" được phát sóng trên kênh [BBC](../B/BBC.md).
-- <b><a href="1980.md" title="1980">1980</a> - <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Những câu chuyện dang dở</a></i> được xuất bản lần đầu tiên ở Anh.</b>
+- <b><a href="1980.md" title="1980">1980</a> - <i><a href="../U/Unfinished_Tales.md" title="Unfinished Tales">Unfinished Tales</a></i> được xuất bản lần đầu tiên ở Vương quốc Anh.</b>
 - **[1982](1982.md)** - Tập thứ 12 phiên bản mới của [loạt phim phát thanh năm 1981](<../T/The_Lord_of_the_Rings_(1981_radio_series).md>) của *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* được phát sóng trên [BBC Radio 4](../B/BBC.md).
 - **[2009](2009.md)** - [Ring\*Con 2009](../R/Ring%252ACon_2009.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bonn" title="wikipedia:Bonn">Bonn</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2010](2010.md)** - Năm Thánh dành cho [Mithlond, Hiệp hội Gothenburg Tolkien](../M/Mithlond,_Göteborgs_Tolkiensällskap.md) của Thụy Điển.
@@ -81,6 +81,6 @@ Sự kiện xảy ra vào ngày 2 tháng 10
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi tới [Weathertop](../W/Weathertop.md). Họ tiến vào [Đầm lầy Midwater](../M/Midgewater_Marshes.md).
-    - [Gandalf](../G/Gandalf.md) cũng đi tới [Weathertop](../W/Weathertop.md).
+    - Cùng với [Strider](../A/Aragorn.md) [bốn hobbit](../T/Travellers.md) đi về phía [Weathertop](../W/Weathertop.md). Họ tiến vào [Đầm lầy Midwater](../M/Midgewater_Marshes.md).
+    - [Gandalf](../G/Gandalf.md) cũng di chuyển về phía [Weathertop](../W/Weathertop.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

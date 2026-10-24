@@ -29,9 +29,9 @@ images:
 
 <figure class="mw-halign-right" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/B/Blake_Henriksen_-_Grip,_Grab!_Pinch,_Nab!.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/a5/Blake_Henriksen_-_Grip%2C_Grab%21_Pinch%2C_Nab%21.jpg/250px-Blake_Henriksen_-_Grip%2C_Grab%21_Pinch%2C_Nab%21.jpg" decoding="async" loading="lazy" width="250" height="250" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/a5/Blake_Henriksen_-_Grip%2C_Grab%21_Pinch%2C_Nab%21.jpg/375px-Blake_Henriksen_-_Grip%2C_Grab%21_Pinch%2C_Nab%21.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/a5/Blake_Henriksen_-_Grip%2C_Grab%21_Pinch%2C_Nab%21.jpg/500px-Blake_Henriksen_-_Grip%2C_Grab%21_Pinch%2C_Nab%21.jpg 2x" data-file-width="800" data-file-height="800"/></a><figcaption>&#34;Grip, Grab! Pinch, Nab!&#34; by <a href="../../category/I/Images_by_Blake_Henriksen.md" title="Category:Images by Blake Henriksen">Blake Henriksen</a></figcaption></figure>
 
-**Vỗ tay! Chụp! vết nứt đen!** là bài hát được hát bởi các [yêu tinh](../O/Orcs_of_the_Misty_Mountains.md) khi chúng đi xuống [Thị trấn yêu tinh](../G/Goblin-town.md) sau khi bắt giữ [Thorin](../T/Thorin.md), những người lùn và [Bilbo Baggins](../B/Bilbo_Baggins.md) (nhưng không phải [Gandalf](../G/Gandalf.md)). Lũ yêu tinh đếm thời gian bằng cách đập đôi bàn chân bẹt xuống nền đá của hành lang. Khi hát, họ mang theo những chiếc roi để buộc những người lùn và người hobbit phải chạy nhanh nhất có thể.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Vỗ tay! Chụp! vết nứt đen!** là bài hát được hát bởi [yêu tinh](../O/Orcs_of_the_Misty_Mountains.md) khi chúng đi xuống [Thị trấn yêu tinh](../G/Goblin-town.md) sau khi bắt giữ [Thorin](../T/Thorin.md), người lùn và [Bilbo Baggins](../B/Bilbo_Baggins.md) (nhưng không phải [Gandalf](../G/Gandalf.md)). Lũ yêu tinh đếm thời gian bằng cách đập đôi bàn chân bẹt xuống nền đá của hành lang. Khi hát, họ mang theo những chiếc roi để buộc những người lùn và người hobbit phải chạy nhanh nhất có thể.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Khổ thơ đầu tiên đề cập đến việc bắt giữ nhóm của Thorin trong "[Hiên nhà](../F/Front_Porch.md)" của họ, một hang động có vẻ nhỏ mà nhóm này đã trú ẩn khi băng qua [những ngọn núi](../M/Misty_Mountains.md). Khổ thơ thứ hai và thứ ba chỉ ra rằng những người bị giam giữ sẽ bị biến thành nô lệ chăm chỉ của lũ yêu tinh ở sâu trong núi.
+Khổ thơ đầu tiên đề cập đến việc bắt giữ đoàn tùy tùng của Thorin trong "[Hiên nhà](../F/Front_Porch.md) của họ", một hang động có vẻ nhỏ mà đại đội đã trú ẩn khi băng qua [ngọn núi](../M/Misty_Mountains.md). Khổ thơ thứ hai và thứ ba chỉ ra rằng những người bị giam giữ sẽ bị biến thành nô lệ chăm chỉ của lũ yêu tinh ở sâu trong núi.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -45,7 +45,7 @@ And down down to Goblin-town<br/>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>Người Hobbit</i> (phim 1977)</a>:</b>
+<b>1977: <a href="../T/The_Hobbit_(1977_film).md" title="The Hobbit (1977 film)"><i>The Hobbit</i> (phim 1977)</a>:</b>
 
 <dl><dd>When the <a href="../O/Orcs.md" title="Orcs">Goblins</a> ambush <a href="../T/Thorin_and_Company.md" title="Thorin and Company">Thorin and Company</a> in the cave, they sing a version of the song. It is titled on <a href="../T/The_Hobbit%253A_The_Complete_Original_Soundtrack.md" title="The Hobbit: The Complete Original Soundtrack">the soundtrack</a> &#34;<a href="../D/Down,_Down,_To_Goblin_Town.md" title="Down, Down, To Goblin Town">Down, Down, To Goblin Town</a>&#34;.</dd></dl>
 
@@ -82,11 +82,11 @@ Ho, ho! my lad!
 </p>
 </div>
 
-<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>Người Hobbit</i> (phim truyền hình 1985)</a></b>
+<b>1985: <a href="../T/The_Hobbit_(1985_television_film).md" title="The Hobbit (1985 television film)"><i>The Hobbit</i> (phim truyền hình 1985)</a></b>
 
 <dl><dd>The song is sang by the goblins as they capture the company. It has minor differences from the version written in the book translation that the film is based upon,</dd></dl>
 
-<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">Người Hobbit: Hành trình bất ngờ</a></i>:</b>
+<b>2012: <i><a href="../T/The_Hobbit%253A_An_Unexpected_Journey.md" title="The Hobbit: An Unexpected Journey">The Hobbit: An Unexpected Journey</a></i>:</b>
 
 <dl><dd>In the Extended Edition, the Great Goblin is introduced singing the song with the rest of his subjects as the Dwarves arrive, just before he interrogates them. Once he finishes, he asks the Dwarves what they think of his composition. <a href="../B/Balin.md" title="Balin">Balin</a> retorts that it isn&#39;t a song, but an &#34;abomination&#34;.</dd></dl>
 
@@ -127,7 +127,7 @@ Down in the deep of Goblin-town!
 
 ## Xem thêm {#See_also}
 
-- [Bài thơ trong Người Hobbit](../P/Poems_in_The_Hobbit.md)
+- [Bài thơ trong The Hobbit](../P/Poems_in_The_Hobbit.md)
 
 <span></span>
 

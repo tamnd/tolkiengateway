@@ -54,7 +54,7 @@ infobox:
 <p class="tg-quote-footer"><cite><i><a href="../T/The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, <a href="../T/The_Departure_of_Boromir.md" title="The Departure of Boromir">The Departure of Boromir</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Thác Rauros**, còn được gọi là **Thác Rauros** hay đơn giản là **Rauros**, là thác lớn của Sông [Anduin](../A/Anduin.md) bên dưới [Nen Hithoel](../N/Nen_Hithoel.md), nơi dòng sông đổ từ [Emyn Muil](../E/Emyn_Muil.md) đến vùng đất ngập nước [Nindalf](../N/Nindalf.md).
+**Rauros thác**, còn được gọi là **thác Rauros** hoặc đơn giản là **Rauros**, là thác lớn của Sông [Anduin](../A/Anduin.md) bên dưới [Nen Hithoel](../N/Nen_Hithoel.md), nơi dòng sông đổ từ [Emyn Muil](../E/Emyn_Muil.md) xuống vùng đất ngập nước [Nindalf](../N/Nindalf.md).
 
 ## Lịch sử {#History}
 
@@ -62,13 +62,13 @@ infobox:
 
 <figure class="mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_At_the_Falls.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/9/90/Ted_Nasmith_-_At_the_Falls.jpg/200px-Ted_Nasmith_-_At_the_Falls.jpg" decoding="async" loading="lazy" width="200" height="155" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/9/90/Ted_Nasmith_-_At_the_Falls.jpg/300px-Ted_Nasmith_-_At_the_Falls.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/9/90/Ted_Nasmith_-_At_the_Falls.jpg/400px-Ted_Nasmith_-_At_the_Falls.jpg 2x" data-file-width="1600" data-file-height="1242"/></a><figcaption>&#34;At the Falls&#34; by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-Khi [Fellowship of the Ring](../F/Fellowship_of_the_Ring.md) bị phá vỡ, [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) chèo thuyền từ bờ tây sông sang phía đông ngay phía trên thác và phải dùng hết sức lực để tránh bị dòng nước cuốn qua thác. Ngay sau đó thi thể của [Boromir](../B/Boromir.md) được đặt vào một chiếc thuyền khác bởi [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md), những người đã đưa nó qua Thác nước. Aragorn đã tuyên bố trong [Bài hát của Boromir](../S/Song_of_Boromir.md) rằng kể từ sau [Tháp canh gác](../T/Tower_of_Guard.md) sẽ nhìn chằm chằm vào "*với Rauros, Rauros vàng sẽ rơi cho đến ngày tận thế*".
+Khi [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) bị vỡ, [Frodo](../F/Frodo_Baggins.md) và [Sam](../S/Samwise_Gamgee.md) chèo thuyền từ bờ tây sông sang phía đông ngay phía trên thác và phải dùng hết sức lực để tránh bị dòng nước cuốn qua thác. Ngay sau đó thi thể của [Boromir](../B/Boromir.md) được đặt trên một chiếc thuyền khác bởi [Aragorn](../A/Aragorn.md), [Legolas](../L/Legolas.md) và [Gimli](../G/Gimli.md), những người đã đưa nó vượt qua Thác nước. Aragorn đã tuyên bố trong [Bài hát của Boromir](../S/Song_of_Boromir.md) rằng kể từ sau [Tháp canh gác](../T/Tower_of_Guard.md) sẽ nhìn chằm chằm vào "*tới Rauros, Rauros vàng sẽ rơi cho đến cuối ngày*".
 
-Nhưng có vẻ như nó vẫn sống sót sau cú ngã; dù sao đi nữa, ngay sau đó anh trai [Faramir](../F/Faramir.md) của anh đã nhìn thấy nó ở hạ lưu sông Anduin trong cảm giác đối với anh giống như một giấc mơ nhưng không thể thức dậy, và hai nửa chiếc sừng chẻ đôi của Boromir đã được lấy ra riêng biệt (Faramir cũng không).
+Nhưng có vẻ như nó vẫn sống sót sau cú ngã; dù sao đi nữa, ngay sau đó anh trai [Faramir](../F/Faramir.md) của anh đã nhìn thấy nó ở phần dưới của Anduin trong cảm giác đối với anh giống như một giấc mơ nhưng không thể thức dậy, và hai nửa chiếc sừng chẻ đôi của Boromir đã được lấy ra riêng biệt (không phải bởi Faramir).
 
 ## Từ nguyên {#Etymology}
 
-Trong [chỉ mục chưa hoàn thành](../U/Unfinished_index.md) của mình, [Tolkien](../J/J.R.R._Tolkien.md) đã đánh bóng cái tên *Rauros* là "phun gầm".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một chú thích bằng bút chì trong một bản thảo cũng có bản dịch là "Mưa ào ạt" hoặc "Mưa gầm".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Trong [mục lục chưa hoàn thành](../U/Unfinished_index.md) của mình, [Tolkien](../J/J.R.R._Tolkien.md) đã đánh bóng cái tên *Rauros* là "phun gầm".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Một chú thích bằng bút chì trong một bản thảo cũng có dịch là "Mưa ào ạt" hoặc "Mưa gầm".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 Trong một bản thảo khác, cái tên *Rauros(se)* được cho là bao gồm <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Raw&amp;action=edit&amp;redlink=1" title="Raw (page does not exist)">raw</a></i> và *[ros](Ros.md)*, và có nghĩa là "mưa ầm ầm". Cần lưu ý rằng sự lặp lại của *r* trong tên thường được giữ lại ở những tên có "ý nghĩa ngữ âm hoặc từ tượng thanh".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
@@ -76,7 +76,7 @@ Trong một bản thảo khác, cái tên *Rauros(se)* được cho là bao gồ
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_Online_-_Rauros.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/1/17/The_Lord_of_the_Rings_Online_-_Rauros.jpg/250px-The_Lord_of_the_Rings_Online_-_Rauros.jpg" decoding="async" loading="lazy" width="250" height="141" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/1/17/The_Lord_of_the_Rings_Online_-_Rauros.jpg/375px-The_Lord_of_the_Rings_Online_-_Rauros.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/1/17/The_Lord_of_the_Rings_Online_-_Rauros.jpg/500px-The_Lord_of_the_Rings_Online_-_Rauros.jpg 2x" data-file-width="1920" data-file-height="1080"/></a><figcaption>Rauros in <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Online</a></i></figcaption></figure>
 
-<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2012: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>From the <a href="../N/Nen_Hithoel.md" title="Nen Hithoel">Nen Hithoel</a> in the <a href="Rhovanion.md" title="Rhovanion">Rhovanion</a> landmass the upper part of Rauros is visible. Taking the <a href="../N/North_Stair.md" title="North Stair">North Stair</a> south will transition the player to the <a href="../G/Gondor.md" title="Gondor">Gondor</a> landmass, from where Rauros can be observed in full.</dd></dl>
 

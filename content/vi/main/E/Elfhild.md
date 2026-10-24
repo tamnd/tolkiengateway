@@ -42,7 +42,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Elfhild chết khi sinh con, để lại Théoden góa vợ và [Théodred](../T/Théodred.md) mồ côi mẹ. Vào thời điểm [Chiến tranh Nhẫn](../W/War_of_the_Ring.md), Rohan đã không có nữ hoàng trong bốn mươi năm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Elfhild chết khi sinh con, để lại Théoden góa vợ và [Théodred](../T/Théodred.md) mồ côi mẹ. Vào thời điểm [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md), Rohan đã không có nữ hoàng trong bốn mươi năm.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

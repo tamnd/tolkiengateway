@@ -22,7 +22,7 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Hobbit_Glyn_Robbins.JPG.md"><img src="https://tolkiengateway.net/w/images/a/a3/The_Hobbit_Glyn_Robbins.JPG" decoding="async" loading="lazy" width="263" height="320" class="mw-file-element" data-file-width="263" data-file-height="320"/></a><figcaption></figcaption></figure>
 
-<i><b>The Hobbit</b></i> là bản chuyển thể sân khấu từ tác phẩm *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) do [Glyn Robbins](../G/Glyn_Robbins.md) viết. Vở kịch được công chiếu lần đầu tiên từ [28 tháng 11](../_/28_November.md) [2001](../_/2001.md) đến [9 tháng 2](../_/9_February.md) [2002](../_/2002.md), tại <a class="external text" href="http://www.queens-theatre.co.uk/" rel="noreferrer noopener" target="_blank">Queen's Theater</a> ở London. Vở kịch được biểu diễn theo giấy phép của [Middle-earth Enterprises](../M/Middle-earth_Enterprises.md).
+<i><b>The Hobbit</b></i> là bản chuyển thể sân khấu từ tác phẩm *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) do [Glyn Robbins](../G/Glyn_Robbins.md) viết. Vở kịch được công chiếu lần đầu tiên từ [28 tháng 11](../_/28_November.md) [2001](../_/2001.md) đến [9 tháng 2](../_/9_February.md) [2002](../_/2002.md), tại <a class="external text" href="http://www.queens-theatre.co.uk/" rel="noreferrer noopener" target="_blank">Queen's Theater</a> ở London. Vở kịch được biểu diễn theo giấy phép của [Trung Địa Enterprises](../M/Middle-earth_Enterprises.md).
 
 ## Thông cáo báo chí {#Press_Release}
 
@@ -37,12 +37,12 @@ images:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://www.theguardian.com/stage/2000/dec/21/theatre.artsfeatures1" rel="noreferrer noopener" target="_blank">Đánh giá lại Giai đoạn Hobbit</a> tại người giám hộ.
+- <a class="external text" href="http://www.theguardian.com/stage/2000/dec/21/theatre.artsfeatures1" rel="noreferrer noopener" target="_blank">Xem xét The Hobbit Giai đoạn</a> tại người giám hộ.
 - <a class="external text" href="http://www.londontheatre.co.uk/londontheatre/reviews/hobbit01.htm" rel="noreferrer noopener" target="_blank">Đánh giá của Darren Dalglish</a>
 - <a class="external text" href="http://www.allgigs.co.uk/view/artist/61903/The_Hobbit_Glyn_Robbins.html" rel="noreferrer noopener" target="_blank">Thông cáo báo chí</a>
-- <a class="external text" href="https://www.youtube.com/watch?v=H09k0o5Z668" rel="noreferrer noopener" target="_blank">Rơ moóc Phần Lan</a>
+- <a class="external text" href="https://www.youtube.com/watch?v=H09k0o5Z668" rel="noreferrer noopener" target="_blank">Đoạn giới thiệu Phần Lan</a>
 - <a class="external text" href="http://www.theonering.net/torwp/2011/04/19/43646-the-hobbit-%E2%80%93-hope-players/" rel="noreferrer noopener" target="_blank">The Hobbit – Người chơi hy vọng</a>
-- <a class="external text" href="http://www.lancashiretelegraph.co.uk/leisure/latest/8187028.Review__The_Hobbit___Palace_Theatre__Manchester/" rel="noreferrer noopener" target="_blank">Đánh giá: The Hobbit @ Palace Theater, Manchester</a>
+- <a class="external text" href="http://www.lancashiretelegraph.co.uk/leisure/latest/8187028.Review__The_Hobbit___Palace_Theatre__Manchester/" rel="noreferrer noopener" target="_blank">Đánh giá: The Hobbit @ Nhà hát Palace, Manchester</a>
 
 <span></span>
 

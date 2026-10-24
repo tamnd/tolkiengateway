@@ -13,7 +13,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>gwathel</b></i> (pl. <i><b>gwethil</b></i>) là một danh từ có nghĩa là "chị (đã tuyên thệ)" hoặc "cộng sự nữ" trong [Noldorin](../N/Noldorin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+<i><b>gwathel</b></i> (pl. <i><b>gwethil</b></i>) là danh từ có nghĩa là "chị (đã tuyên thệ)" hoặc "cộng sự nữ" trong [Noldorin](../N/Noldorin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2758.md" title="Third Age 2758">2758</a><a href="Third_Age_2759.md" title="Third Age 2759">2759</a><a href="Third_Age_2760.md" title="Third Age 2760">2760</a><a class="mw-selflink selflink">2763</a><a href="Third_Age_2767.md" title="Third Age 2767">2767</a><a href="Third_Age_2769.md" title="Third Age 2769">2769</a><a href="Third_Age_2770.md" title="Third Age 2770">2770</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 2763** (viết tắt là **T.A. 2763**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2763 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2763 còn được gọi là **S.R. 1163** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2763** (viết tắt là **T.A. 2763**) là năm [thứ 2763 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2763 còn được gọi là **S.R. 1163** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- Sự ra đời của [Balin](../B/Balin.md), con trai lớn của [Fundin](../F/Fundin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- Sinh [Balin](../B/Balin.md), con trai lớn của [Fundin](../F/Fundin.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Cái chết của [Người quản lý cầm quyền](../R/Ruling_Steward.md) [Beren](<../B/Beren_(Steward_of_Gondor).md>) của [Gondor](../G/Gondor.md).<sup id="cite_ref-South_2-0" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 - [Beregond](<../B/Beregond_(Steward_of_Gondor).md>), con trai của Beren, trở thành Quản gia cầm quyền thứ hai mươi.<sup id="cite_ref-South_2-1" class="reference"><a href="#cite_note-South-2">[2]</a></sup>
 

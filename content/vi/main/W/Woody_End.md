@@ -30,15 +30,15 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_Elves_in_the_Woody_End.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/0/0a/Ted_Nasmith_-_Elves_in_the_Woody_End.jpg/300px-Ted_Nasmith_-_Elves_in_the_Woody_End.jpg" decoding="async" loading="lazy" width="300" height="194" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/0/0a/Ted_Nasmith_-_Elves_in_the_Woody_End.jpg/450px-Ted_Nasmith_-_Elves_in_the_Woody_End.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/0/0a/Ted_Nasmith_-_Elves_in_the_Woody_End.jpg/600px-Ted_Nasmith_-_Elves_in_the_Woody_End.jpg 2x" data-file-width="1280" data-file-height="826"/></a><figcaption><a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a> - <i>Elves in the Woody End</i></figcaption></figure>
 
-**Woody End** là một vùng rừng cao nguyên thuộc [Eastfarthing](../E/Eastfarthing.md) của [the Shire](../T/The_Shire.md), nằm giữa [Green Hill Country](../G/Green_Hill_Country.md) ở phía tây và [Marish](../M/Marish.md) ở phía đông. Rừng của nó là nguồn gốc của [Stock-brook](../S/Stock-brook.md) và [Thistle Brook](../T/Thistle_Brook.md). Một trong những mái hiên phía bắc của vùng là [Woodhall](Woodhall.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Woody End** là vùng rừng núi cao của [Eastfarthing](../E/Eastfarthing.md) [ Shire](../T/The_Shire.md), nằm giữa [Green Hill Country](../G/Green_Hill_Country.md) ở phía tây và [Marish](../M/Marish.md) ở phía đông. Rừng của nó là nguồn gốc của [Stock-brook](../S/Stock-brook.md) và [Thistle Brook](../T/Thistle_Brook.md). Một trong những mái hiên phía bắc của vùng là [Woodhall](Woodhall.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Vào tối [24 tháng 9](../_/24_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Frodo](../F/Frodo_Baggins.md), [Pippin](../P/Peregrin_Took.md) và [Sam](../S/Samwise_Gamgee.md) đã gặp [Gildor Inglorion](../G/Gildor_Inglorion.md) và nhóm yêu tinh lang thang của ông ta ở Woody End.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Vào tối [24 tháng Chín](../_/24_September.md) [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md), [Frodo](../F/Frodo_Baggins.md), [Pippin](../P/Peregrin_Took.md), và [Sam](../S/Samwise_Gamgee.md) đã gặp [Gildor Inglorion](../G/Gildor_Inglorion.md) và nhóm lang thang Tiên tộc của ông ta trong Woody End.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Vào [22 tháng 9](../_/22_September.md) [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md) [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) đi từ Woody End trên đường đến [Grey Havens](../G/Grey_Havens.md), và họ có sự tham gia của Frodo và Sam.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+Vào [22 tháng Chín](../_/22_September.md) [T.A.](../T/Third_Age.md) [3021](../T/Third_Age_3021.md) [Chuyến cưỡi ngựa cuối cùng của những người giữ những chiếc nhẫn](../L/Last_Riding_of_the_Keepers_of_the_Rings.md) đi qua Woody End trên đường đến [Cảng Xám](../G/Grey_Havens.md) và có sự tham gia của Frodo và Sam.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Theo [David Salo](../D/David_Salo.md) cái tên này có nghĩa là "đặt ở một đầu của một khu rừng", có thể đại diện cho [người Hobbit cổ](../O/Old_English.md) *Wudig Ende*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Theo [David Salo](../D/David_Salo.md) cái tên này có nghĩa là "đặt ở một đầu của một khu rừng", đại diện cho một [Cũ Hobbitish](../O/Old_English.md) *Wudig Ende*.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

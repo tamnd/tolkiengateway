@@ -16,7 +16,7 @@ images:
   - "Disambig.png"
 ---
 
-**Núi Doom** có thể đề cập đến:
+**Núi Diệt Vong** có thể đề cập đến:
 
 ## Địa điểm {#Locations}
 

@@ -16,12 +16,12 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2790.md" title="Third Age 2790">2790</a><a href="Third_Age_2793.md" title="Third Age 2793">2793</a><a href="Third_Age_2795.md" title="Third Age 2795">2795</a><a class="mw-selflink selflink">2798</a><a href="Third_Age_2799.md" title="Third Age 2799">2799</a><a href="Third_Age_2800.md" title="Third Age 2800">2800</a><a href="Third_Age_2801.md" title="Third Age 2801">2801</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 2798** (viết tắt là **T.A. 2798**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2798 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2798 còn được gọi là **S.R. 1198** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2798** (viết tắt là **T.A. 2798**) là năm [thứ 2798 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2798 còn được gọi là **S.R. 1198** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - Cái chết của [Vua](../K/Kings_of_Rohan.md) [Fréaláf](../F/Fréaláf.md).<sup id="cite_ref-Mark_1-0" class="reference"><a href="#cite_note-Mark-1">[1]</a></sup>
-- [Brytta](../B/Brytta.md), con trai của Fréaláf, trở thành vị vua thứ mười một của [Rohan](../R/Rohan.md).<sup id="cite_ref-Mark_1-1" class="reference"><a href="#cite_note-Mark-1">[1]</a></sup>
+- [Brytta](../B/Brytta.md), con trai của Fréaláf, trở thành Vua thứ mười một của [Rohan](../R/Rohan.md).<sup id="cite_ref-Mark_1-1" class="reference"><a href="#cite_note-Mark-1">[1]</a></sup>
 
 <span></span>
 

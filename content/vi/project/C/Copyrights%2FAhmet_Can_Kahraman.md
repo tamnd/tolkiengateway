@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Kahraman, Ahmet Can"
 ---
 
-- Ahmet Can Kahraman đã vui lòng cho phép anh sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ahmet_Can_Kahraman.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Ahmet Can Kahraman đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Ahmet_Can_Kahraman.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 23 tháng 8 năm 2020
 - Người dùng đã xin phép qua DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

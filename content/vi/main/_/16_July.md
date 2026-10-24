@@ -72,14 +72,14 @@ Sự kiện xảy ra vào ngày 16 tháng 7.
 - **[1986](1986.md)** - Diễn viên [Calum Gittins](../C/Calum_Gittins.md) ra đời.
 - **[1998](1998.md)** - [Mythcon 29](../M/Mythcon_29.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Wheaton,_Illinois" title="wikipedia:Wheaton, Illinois">Wheaton, Illinois</a>.
 - **[2004](2004.md)** - [The Lord of the Rings Symphony](../T/The_Lord_of_the_Rings_Symphony.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Seattle" title="wikipedia:Seattle">Seattle</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Washington_(state)" title="wikipedia:Washington (state)">Washington</a>.
-- **[2006](2006.md)** - [Tolkien Thing VIII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
-- **[2010](2010.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2010 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bad_Hersfeld" title="wikipedia:Bad Hersfeld">Bad Hersfeld</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2006](2006.md)** - [Tolkien Điều VIII](../T/Tolkien_Thing.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Diez,_Germany" title="wikipedia:Diez, Germany">Diez</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2010](2010.md)** - [Tolkien Chuyện](../T/Tolkien_Thing.md) năm 2010 ở <a class="extiw" href="http://en.wikipedia.org/wiki/Bad_Hersfeld" title="wikipedia:Bad Hersfeld">Bad Hersfeld</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2010](2010.md)** - [Mythcon 41](../M/Mythcon_41.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Dallas" title="wikipedia:Dallas">Dallas</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Texas" title="wikipedia:Texas">Texas</a>.
-- **[2011](2011.md)** - [Tolkien Thing](../T/Tolkien_Thing.md) 2011 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Breuberg" title="wikipedia:Breuberg">Breuberg</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
+- **[2011](2011.md)** - [Tolkien Sự việc](../T/Tolkien_Thing.md) năm 2011 tại <a class="extiw" href="http://en.wikipedia.org/wiki/Breuberg" title="wikipedia:Breuberg">Breuberg</a>, <a class="extiw" href="http://en.wikipedia.org/wiki/Germany" title="wikipedia:Germany">Đức</a>.
 - **[2011](2011.md)** - [Mythcon 42](../M/Mythcon_42.md) ở <a class="extiw" href="http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico" title="wikipedia:Albuquerque, New Mexico">Albuquerque, New Mexico</a>.
 
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

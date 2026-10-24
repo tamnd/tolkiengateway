@@ -67,7 +67,7 @@ Sự kiện xảy ra vào ngày 4 tháng 6
 
 - **[1916](1916.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) được chuyển hàng đi Pháp.
 - **[1938](1938.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 28](../L/Letter_28.md).
-- **[1949](1949.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho Pauline Baynes](../L/Letter_to_Pauline_Baynes.md).
+- **[1949](1949.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi Pauline Baynes](../L/Letter_to_Pauline_Baynes.md).
 - **[1954](1954.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 146](../L/Letter_146.md).
 - **[1968](1968.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [Thư 304](../L/Letter_304.md).
 - **[1971](1971.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) bắt đầu viết [Thư 324](../L/Letter_324.md).

@@ -30,11 +30,11 @@ images:
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File"><a class="mw-file-description" href="../../file/F/Formen.gif.md"><img src="https://tolkiengateway.net/w/images/1/16/Formen.gif" decoding="async" loading="lazy" width="53" height="65" class="mw-file-element" data-file-width="53" data-file-height="65"/></a><figcaption></figcaption></figure>
 
-*Formen* cũng là tên bằng tiếng Quenya của chữ cái thứ mười trong bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ hai của lớp ba hay [Tyellë](../T/Tyellë.md), chứa "các âm thanh vô thanh" và là chữ cái thứ ba trong chuỗi phụ âm môi hay *p*, *[Parmatéma](../P/Parmatéma.md)*. Trong tất cả các chế độ, *Formen* đại diện cho **F**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Nó là một trong những từ được biết đến và sử dụng rộng rãi nhất trong tất cả các chữ Tengwar vì nó biểu thị "phía bắc" ngay cả trong các ngôn ngữ sử dụng thuật ngữ rất khác.<sup id="cite_ref-Names_1-2" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Tên tiếng Tâyron cho chữ cái này là <i><b>Fí</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+*Formen* cũng là tên trong Quenya chữ cái thứ mười của bảng chữ cái [Tengwar](../T/Tengwar.md).<sup id="cite_ref-Names_1-1" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Đây là chữ cái thứ hai của lớp ba hay [Tyellë](../T/Tyellë.md), chứa "các âm xát vô thanh" và nó là chữ cái thứ ba trong chuỗi phụ âm môi hay *p*, *[Parmatéma](../P/Parmatéma.md)*. Trong tất cả các chế độ, *Formen* đại diện cho **F**.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Đây là một trong những Tengwar được biết đến và sử dụng rộng rãi nhất vì nó biểu thị "hướng bắc" ngay cả trong các ngôn ngữ sử dụng thuật ngữ rất khác.<sup id="cite_ref-Names_1-2" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Tên Westron cho chữ cái này là <i><b>Fí</b></i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ở các vùng đất phía Tây của [Trung địa](../M/Middle-earth.md) bốn hướng chính là *[Númen](../N/Númen.md), [Hyarmen](../H/Hyarmen.md), [Rómen](../R/Rómen.md),* và *Formen*, và chúng được đặt tên theo thứ tự này, bắt đầu bằng (và quay mặt về phía tây). *Hyarmen* có nghĩa là vùng bên trái và *Formen* có nghĩa là vùng bên phải.<sup id="cite_ref-Names_1-3" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Do đó, từ "phía bắc" bắt nguồn từ [Quendian nguyên thủy](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PHOR&amp;action=edit&amp;redlink=1" title="PHOR (page does not exist)">PHOR</a>, có nghĩa là "tay phải", cộng với [MEN](../M/MEN~35108.md) biểu thị hướng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Ở vùng đất Phương Tây của [Trung Địa](../M/Middle-earth.md), bốn hướng chính là *[Númen](../N/Númen.md), [Hyarmen](../H/Hyarmen.md), [Rómen](../R/Rómen.md),* và *Formen*, và chúng được đặt tên theo thứ tự này, bắt đầu bằng (và quay mặt về phía tây). *Hyarmen* nghĩa là vùng bên trái và *Formen* nghĩa là vùng bên phải.<sup id="cite_ref-Names_1-3" class="reference"><a href="#cite_note-Names-1">[1]</a></sup> Do đó, từ "hướng bắc" bắt nguồn từ [Primitive Quendian](../P/Primitive_Quendian.md) [gốc](../S/Sundocarme.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PHOR&amp;action=edit&amp;redlink=1" title="PHOR (page does not exist)">PHOR</a>, nghĩa là "tay phải", cộng với [MEN](../M/MEN~35108.md) biểu thị hướng.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -42,7 +42,7 @@ images:
 
 ## Xem thêm {#See_also}
 
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
 
 <span></span>
 

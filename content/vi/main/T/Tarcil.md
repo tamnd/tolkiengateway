@@ -39,13 +39,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../A/Arnor.md" title="Arnor">Arnorian</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tarcil</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Titles</th><td class="tg-infobox-data"><a href="../K/King_of_Arnor.md" title="King of Arnor">King of Arnor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../A/Arnor.md" title="Arnor">Arnor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a>, <a href="../W/Westron.md" title="Westron">Westron</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_280.md" title="Third Age 280">280</a><sup id="cite_ref-PM_1-0" class="reference"><a href="#cite_note-PM-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Rule</th><td class="tg-infobox-data"><a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_435.md" title="Third Age 435">435</a> - <a href="Third_Age_515.md" title="Third Age 515">515</a></td></tr><tr><th scope="row" class="tg-infobox-label">Death</th><td class="tg-infobox-data"><a href="Third_Age.md" title="Third Age">T.A.</a> <a href="Third_Age_515.md" title="Third Age 515">515</a><sup id="cite_ref-App_2-0" class="reference"><a href="#cite_note-App-2">[2]</a></sup> (aged 235)<br/></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">House</th><td class="tg-infobox-data"><a href="../H/House_of_Isildur.md" title="House of Isildur">House of Isildur</a></td></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a href="../A/Arantar.md" title="Arantar">Arantar</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="Tarondor_(King_of_Arnor).md" title="Tarondor (King of Arnor)">Tarondor</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Tarcil** ([T.A.](Third_Age.md) [280](Third_Age_280.md)<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup> – [515](Third_Age_515.md),<sup id="cite_ref-App_2-1" class="reference"><a href="#cite_note-App-2">[2]</a></sup> 235 tuổi) là [Vua của Arnor](../K/King_of_Arnor.md) thứ sáu.
+**Tarcil** ([T.A.](Third_Age.md) [280](Third_Age_280.md)<sup id="cite_ref-PM_1-1" class="reference"><a href="#cite_note-PM-1">[1]</a></sup> – [515](Third_Age_515.md),<sup id="cite_ref-App_2-1" class="reference"><a href="#cite_note-App-2">[2]</a></sup> 235 tuổi) là [Vua thứ sáu của Arnor](../K/King_of_Arnor.md).
 
 ## Lịch sử {#History}
 
-Tarcil kế vị cha mình, [Arantar](../A/Arantar.md), khi ông qua đời vào [Tuổi thứ ba năm 435](Third_Age_435.md). Tarcil là chắt của [Isildur](../I/Isildur.md).
+Tarcil kế vị cha mình, [Arantar](../A/Arantar.md), khi ông qua đời vào năm [Kỷ Đệ Tam 435](Third_Age_435.md). Tarcil là chắt của [Isildur](../I/Isildur.md).
 
-Tarcil cai trị một cách yên bình trong 80 năm và được kế vị bởi con trai ông, [Tarondor](<Tarondor_(King_of_Arnor).md>), sau khi ông qua đời vào [Tuổi thứ ba năm 515](Third_Age_515.md).<sup id="cite_ref-App_2-2" class="reference"><a href="#cite_note-App-2">[2]</a></sup>
+Tarcil cai trị một cách yên bình trong 80 năm và được con trai ông là [Tarondor](<Tarondor_(King_of_Arnor).md>) kế vị sau khi ông qua đời vào năm [Kỷ Đệ Tam 515](Third_Age_515.md).<sup id="cite_ref-App_2-2" class="reference"><a href="#cite_note-App-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
@@ -53,7 +53,7 @@ Tarcil cai trị một cách yên bình trong 80 năm và được kế vị b�
 
 Dựa trên từ nguyên của nó, nó có nghĩa là "[Người đàn ông cao cấp](../H/High_Man.md)" hoặc "Númenorean" và là từ ghép của *[tar-](Tar.md)* ("cao") và rút gọn từ *[Hildo](../H/Hildo.md)* ("Người đàn ông").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Xem *[tarkil](Tarkil.md)* để biết thêm.
 
-Trong những bản thảo đầu tiên, "the Tarkil" là biệt danh của [Aragorn](../A/Aragorn.md) trước khi được thay thế bằng "the Dúnadan".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
+Trong những bản nháp đầu tiên, "the Tarkil" là biệt danh của [Aragorn](../A/Aragorn.md) trước khi được thay thế bằng "the Dúnadan".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

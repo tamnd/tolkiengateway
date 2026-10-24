@@ -85,7 +85,7 @@ images:
   - "LEGO_-_The_Lord_of_the_Rings_-_The_Video_Game.jpg"
 ---
 
-Danh mục hộp người dùng có sẵn tại đây trên Tolkien Gateway.
+Danh mục hộp người dùng có tại đây trên Tolkien Gateway.
 
 ## Các phe phái {#Factions}
 

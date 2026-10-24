@@ -53,26 +53,26 @@ infobox:
 - I TCBS và bi kịch du kích
 - Hiệp hội chuyên môn
 - Il viaggio ở Ý
-- Tolkien "l'italiano": văn hóa Belpaese nel vissuto umano và letterario of Professore di Oxford
+- Tolkien "l'italiano": văn hóa Belpaese nel vissuto umano e letterario del Professore di Oxford
     - *Adriano Monti Buzzetti Colella*
 - Croce, Tolkien và "cristiani" của Oxford
     - *Emma Giammattei*
 
 **2. GIÁO SƯ**
 
-- 2\.1 Giáo sư Tolkien: hồ sơ và cronologia
-- 2\.2 Cuộc sống ở Oxford
+- 2\.1 Tolkien giáo sư: hồ sơ và cronologia
+- 2\.2 Cuộc sống của bạn Oxford
 - Eärendil e i gatti della regina Berúthiel: Tolkien e l'estetica della creazione letteraria
     - *Giuseppe Pezzini*
 - 2\.3 L'amore per la parola
 - Lingue delle Terra di Mezzo
     - *Gianluca Comastri*
-- 2\.4 Lo studio của Tolkien
+- 2\.4 Lo studio di Tolkien
 - *Amici, colleghi e non solo...*
 
 **3. TỰ ĐỘNG**
 
-- 3\.1 Tác giả Tolkien
+- 3\.1 Tolkien tự động
 - Tolkien, l'Autore
     - *Claudio Mattia Serafin*
 - *Il Signore degli Anelli*: un viaggio nel cuore della tenebra
@@ -82,7 +82,7 @@ infobox:
 - *Tolkien e gli editori Italiani: una story a lieto Fine*
 - La singolare loại *Il Signore degli Anelli* ở Ý
     - *Gianfranco de Turris*
-- Vita di società: i first incontri degli appassionati di Tolkien in Italia
+- Vita di società: tôi bắt đầu tham gia vào quá trình ứng dụng Tolkien ở Ý
     - *Paolo Paron*, *Domenico "Ninni" Dimichino*
 
 **4. L'EREDITÀ**
@@ -96,7 +96,7 @@ infobox:
     - *Salvatore Santangelo*
 - Il figli di Tolkien (una simbologia grafica)
     - *Fabio Celoni*
-- Tolkien e giochi da tavolo
+- Tolkien và thế giới tavolo
     - *Roberto Di Meglio*, *Franceso Nepitello*
 
 <br>
@@ -118,6 +118,6 @@ infobox:
 ## Liên kết ngoài {#External_links}
 
 - <i><a class="external text" href="https://www.skira.net/books/tolkien/" rel="noreferrer noopener" target="_blank">Trang web chính thức của nhà xuất bản</a>'</i>
-- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol18/iss2/3/" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của Ivano Sassanelli trong [Tạp chí Nghiên cứu Tolkien](../J/Journal_of_Tolkien_Research.md), Tập. 18: Iss. 2
+- <a class="external text" href="https://scholar.valpo.edu/journaloftolkienresearch/vol18/iss2/3/" rel="noreferrer noopener" target="_blank">Đánh giá sách</a> của Ivano Sassanelli trong [Journal of Tolkien Research](../J/Journal_of_Tolkien_Research.md), Tập. 18: Iss. 2
 - <a class="external text" href="https://cultura.gov.it/comunicato/25492" rel="noreferrer noopener" target="_blank">Thông tin triển lãm</a> tại trang web của Bộ Văn hóa Ý
-- <a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=52868#forumpost52868" rel="noreferrer noopener" target="_blank">Thảo luận</a> về [Hướng dẫn dành cho Người sưu tập Tolkien](Tolkien_Collector's_Guide.md)
+- <a class="external text" href="https://www.tolkienguide.com/modules/newbb/viewtopic.php?post_id=52868#forumpost52868" rel="noreferrer noopener" target="_blank">Thảo luận</a> về [Tolkien Hướng dẫn sưu tầm](Tolkien_Collector's_Guide.md)

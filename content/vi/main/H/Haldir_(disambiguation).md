@@ -27,11 +27,11 @@ images:
   - "Disambig.png"
 ---
 
-**Haldir** có thể đề cập đến:
+**Haldir** có thể tham khảo:
 
-- [Haldir](<Haldir_(son_of_Orodreth).md>), một khái niệm bị bỏ rơi của một người con trai của [Orodreth](../O/Orodreth.md).
+- [Haldir](<Haldir_(son_of_Orodreth).md>), một ý niệm bị bỏ rơi của đứa con [Orodreth](../O/Orodreth.md).
 - [Haldir](<Haldir_(Chieftain_of_the_Haladin).md>) ([F.A.](../F/First_Age.md) [414](../F/First_Age_414.md) - [472](../F/First_Age_472.md)), Thủ lĩnh của [Nhà Haleth](House_of_Haleth.md).
-- **[Haldir](Haldir.md) ([Thời đại thứ ba](../T/Third_Age.md)), một người cai ngục Elven của [Lothlórien](../L/Lothlórien.md) trong [War of the Ring](../W/War_of_the_Ring.md).**
+- **[Haldir](Haldir.md) ([Kỷ Đệ Tam](../T/Third_Age.md)), một Tiên lính canh của [Lothlórien](../L/Lothlórien.md) trong [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).**
 
 <hr style="margin-top:15px;"/>
 

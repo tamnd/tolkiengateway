@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Náli"
 ---
 
-Chuyển hướng tới [Náli](Náli.md).
+Chuyển hướng đến [Náli](Náli.md).

@@ -39,7 +39,7 @@ infobox:
 
 ## Lịch sử {#History}
 
-Cwén kết hôn với Eriol (khi đó được gọi là *Ottor*) sau khi anh định cư trên đảo <a class="extiw" href="http://en.wikipedia.org/wiki/Heligoland" title="wikipedia:Heligoland">Heligoland</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/North_Sea" title="wikipedia:North Sea">Biển Bắc</a>, ở [Great Lands](../G/Great_Lands.md).
+Cwén kết hôn Eriol (khi đó được gọi là *Ottor*) sau khi định cư trên đảo <a class="extiw" href="http://en.wikipedia.org/wiki/Heligoland" title="wikipedia:Heligoland">Heligoland</a> ở <a class="extiw" href="http://en.wikipedia.org/wiki/North_Sea" title="wikipedia:North Sea">Bắc Biển</a>, ở [Great Lands](../G/Great_Lands.md).
 
 Cùng nhau, họ có hai người con trai tên là [Hengest](../H/Hengest.md) và [Horsa](../H/Horsa.md), được đặt tên như vậy để vinh danh ông nội [Eoh](../E/Eoh.md) (vì các tên này có cùng ý nghĩa).
 
@@ -47,7 +47,7 @@ Một thời gian sau, khi Hengest và Horsa vẫn còn nhỏ, Cwén qua đời,
 
 ## Từ nguyên {#Etymology}
 
-Tên *Cwén* trong [tiếng Anh cổ](../O/Old_English.md), có nghĩa là "người phụ nữ, người vợ".<sup id="cite_ref-Cwe_1-3" class="reference"><a href="#cite_note-Cwe-1">[1]</a></sup>
+Tên *Cwén* trong [tiếng Anh cổ](../O/Old_English.md) có nghĩa là "người phụ nữ, người vợ".<sup id="cite_ref-Cwe_1-3" class="reference"><a href="#cite_note-Cwe-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 

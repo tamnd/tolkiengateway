@@ -13,7 +13,7 @@ categories:
   - "Noldorin nouns"
 ---
 
-<i><b>rhandir</b></i> là từ [Noldorin](../N/Noldorin.md) có nghĩa là "kẻ lang thang, kẻ hành hương".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
+<i><b>rhandir</b></i> là một từ [Noldorin](../N/Noldorin.md) mang ý nghĩa "kẻ lang thang, kẻ hành hương".<sup id="cite_ref-LR_1-0" class="reference"><a href="#cite_note-LR-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

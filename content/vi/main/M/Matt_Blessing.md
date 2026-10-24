@@ -18,7 +18,7 @@ sort_keys:
   "People by name": "Blessing, Matt"
 ---
 
-**Matthew T. Blessing** (Tháng 9 [1962](../_/1962.md)) là nguyên Trưởng phòng Bộ sưu tập Đặc biệt và Lưu trữ Đại học tại [Đại học Marquette](Marquette_University.md). Ông chịu trách nhiệm về Bộ sưu tập Tolkien tại trường đại học, nơi chứa các hiện vật Tolkien lớn nhất và hiếm nhất trên thế giới, từ năm 1999 đến năm 2012. Kể từ năm 2012, ông là <a class="external text" href="https://www.wisconsinhistory.org/Records/Article/CS3543" rel="noreferrer noopener" target="_blank">Nhà lưu trữ Tiểu bang và Quản trị viên Bộ phận tại Hiệp hội Lịch sử Wisconsin</a>.
+**Matthew T. Blessing** (tháng Chín [1962](../_/1962.md)) là nguyên Trưởng phòng Thu thập Đặc biệt và Lưu trữ Đại học tại [Đại học Marquette](Marquette_University.md). Ông chịu trách nhiệm về Bộ sưu tập Tolkien tại trường đại học, nơi chứa các hiện vật Tolkien lớn nhất và hiếm nhất trên thế giới, từ năm 1999 đến năm 2012. Kể từ năm 2012, ông là <a class="external text" href="https://www.wisconsinhistory.org/Records/Article/CS3543" rel="noreferrer noopener" target="_blank">Nhà lưu trữ Tiểu bang và Quản trị viên Ban tại Hiệp hội Lịch sử Wisconsin</a>.
 
 ## Xem thêm {#See_also}
 

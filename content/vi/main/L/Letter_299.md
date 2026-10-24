@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Green đã xem xét *Smith of Wootton Major* và viết "Tìm ý nghĩa là cắt đôi quả bóng để tìm độ nảy của nó". Tolkien cảm ơn Green vì đánh giá của ông và đặc biệt là nhận xét về độ nảy. Tolkien cũng nói rằng câu chuyện không dành cho trẻ em. <br>
+Green đã xem xét *Smith of Wootton Major* và viết "Tìm ý nghĩa là cắt đôi quả bóng để tìm độ nảy của nó". Tolkien cảm ơn Green đã đánh giá và đặc biệt là nhận xét về việc thoát. Tolkien cũng cho biết truyện không dành cho trẻ em. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

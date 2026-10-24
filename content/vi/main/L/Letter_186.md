@@ -31,9 +31,9 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Joanna De Bortadano đã hỏi Tolkien liệu *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* có phải là một câu chuyện ngụ ngôn về Sức mạnh nguyên tử hay không. Tolkien nói với bà là không phải vậy; nếu có bất kỳ chủ đề nào liên quan đến quyền lực trong cuốn sách thì thà đó là sự từ bỏ quyền lực: chỉ vì một việc có thể làm được không có nghĩa là nó phải được làm. Ông nói với cô rằng chủ đề thực sự của cuốn sách là Cái chết và sự bất tử: Yêu tinh "phải chịu số phận" phải rời đi và Đàn ông "phải chịu số phận" không được rời đi.
+Joanna De Bortadano đã hỏi Tolkien liệu *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* có phải là một câu chuyện ngụ ngôn về Sức mạnh nguyên tử hay không. Tolkien nói với bà là không phải vậy; nếu có bất kỳ chủ đề nào liên quan đến quyền lực trong cuốn sách thì thà đó là sự từ bỏ quyền lực: chỉ vì một việc có thể làm được không có nghĩa là nó phải được làm. Chủ đề thực sự của cuốn sách, anh nói với cô, là Cái chết và sự bất tử: Tiên tộc bị "định mệnh" phải rời đi và Con Người bị "định mệnh" không thể rời đi.
 
-Tolkien tiếp tục nói rằng ông không phải là một "nhà dân chủ", bởi vì các khái niệm chính của nó, sự khiêm tốn và bình đẳng, đã mất đi ý nghĩa khi cố gắng cơ giới hóa và chính thức hóa chúng. Điều này sẽ dẫn đến sự vĩ đại và kiêu hãnh hơn là nhỏ bé và khiêm tốn, và biến thành nô lệ khi "một số [Orc](../O/Orcs.md) nắm giữ [chiếc nhẫn Quyền lực](../R/Rings_of_Power.md)".
+Tolkien tiếp tục tuyên bố rằng ông không phải là một "nhà dân chủ", bởi vì các khái niệm chính của nó, sự khiêm tốn và bình đẳng, đã mất đi ý nghĩa khi cố gắng cơ giới hóa và chính thức hóa chúng. Điều này sẽ dẫn đến sự vĩ đại và kiêu hãnh hơn là nhỏ bé và khiêm tốn, và biến thành nô lệ khi "một số [Orc](../O/Orcs.md) nắm giữ [chiếc nhẫn Quyền lực](../R/Rings_of_Power.md)".
 
 Đoạn văn kết thúc với một số chi tiết ngắn gọn về chi phí sản xuất *The Lord of the Rings*: £4000 sau khi nó rời khỏi tay anh. Ông đã tiết kiệm được 200 bảng bằng cách tự mình đánh máy.
 

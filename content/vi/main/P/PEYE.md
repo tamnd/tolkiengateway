@@ -12,7 +12,7 @@ categories:
   - "Roots"
 ---
 
-**PEYE** là [Quendian nguyên thủy](Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có bất kỳ ý nghĩa nào, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó.<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
+**PEYE** là một [Primitive Quendian](Primitive_Quendian.md) [gốc](../S/Sundocarme.md) không có bất kỳ ý nghĩa nào, ngoại trừ những gì có thể được xác định từ các dẫn xuất của nó.<sup id="cite_ref-PE17_1-0" class="reference"><a href="#cite_note-PE17-1">[1]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 

@@ -30,7 +30,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien nói rằng *[Narnia](../T/The_Chronicles_of_Narnia.md)* và tất cả phần công việc đó của C.S. Lewis vẫn nằm ngoài tầm cảm thông của ông, vì phần lớn công việc của ông là dành cho Lewis. Tolkien gọi *Letters to Malcolm* của Lewis là đáng lo ngại và kinh hoàng. <br>
+Tolkien nói rằng *[Narnia](../T/The_Chronicles_of_Narnia.md)* và tất cả phần công việc đó của C.S. Lewis vẫn nằm ngoài tầm cảm thông của ông, vì phần lớn công việc của ông là dành cho Lewis. Tolkien gọi *Letters to Malcolm* của Lewis là đau khổ và kinh hoàng. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

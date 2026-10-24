@@ -40,7 +40,7 @@ infobox:
 
 <i><b>Phim ca nhạc trong trường học</b></i> là cuốn sách do Malcolm John biên tập, xuất bản lần đầu vào năm [1971](../_/1971.md).
 
-Đưa "Phương pháp tiếp cận trường dự bị" (trang 1–19) của [Paul Drayton](../P/Paul_Drayton.md) và [Humphrey Carpenter](../H/Humphrey_Carpenter.md) vào [vở kịch âm nhạc The Hobbit](<../T/The_Hobbit_(1967_stage_adaptation).md>). Drayton nhận xét về âm nhạc với nhiều ví dụ về điểm số và Carpenter nhận xét về bản chuyển thể và sản xuất. Phản ứng của Tolkien cũng được ghi nhận.
+Đưa "Phương pháp tiếp cận trường dự bị" (trang 1–19) của [Paul Drayton](../P/Paul_Drayton.md) và [Humphrey Carpenter](../H/Humphrey_Carpenter.md) vào [kịch kịch âm nhạc The Hobbit](<../T/The_Hobbit_(1967_stage_adaptation).md>). Drayton nhận xét về âm nhạc với nhiều ví dụ về điểm số và Carpenter nhận xét về bản chuyển thể và sản xuất. Phản ứng của Tolkien cũng được ghi nhận.
 
 ## Xem thêm {#See_also}
 

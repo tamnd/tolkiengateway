@@ -15,19 +15,19 @@ categories:
   - "Quenya verbs"
 ---
 
-**palta** là động từ [Quenya](../Q/Quenya.md) và [Telerin](../T/Telerin.md) có nghĩa là "cảm nhận bằng bàn tay, đưa lòng bàn tay nhạy cảm (*[plata](Plata.md)*) lên một bề mặt: cảm nhận bằng bàn tay".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+**palta** là một động từ [Quenya](../Q/Quenya.md) và [Telerin](../T/Telerin.md) có nghĩa là "cảm nhận bằng bàn tay, đưa lòng bàn tay nhạy cảm (*[plata](Plata.md)*) lên một bề mặt: cảm nhận bằng bàn tay".<sup id="cite_ref-VT_1-0" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Từ [Tiên nguyên thủy](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%27t%C3%A2&amp;action=edit&amp;redlink=1" title="Pal&#39;tâ (page does not exist)">pal'tâ</a></i> [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
+Từ [Nguyên thủy Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%27t%C3%A2&amp;action=edit&amp;redlink=1" title="Pal&#39;tâ (page does not exist)">pal'tâ</a></i> [Root](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
 
 ---
 
-**palta** là một từ Quenya có nghĩa là "bàn tay phẳng, bàn tay giơ lên ​​hoặc hướng về phía trước, phẳng và căng (với các ngón tay và ngón cái khép lại hoặc xòe ra)"<sup id="cite_ref-VT_1-1" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
+**palta** là một từ Quenya có nghĩa là "bàn tay phẳng, bàn tay giơ lên ​​trên hoặc hướng về phía trước, phẳng và căng (với các ngón tay và ngón cái khép lại hoặc xòe ra)"<sup id="cite_ref-VT_1-1" class="reference"><a href="#cite_note-VT-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology_2}
 
-Nó bắt nguồn từ [Tiên nguyên thủy](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%C3%A1ta&amp;action=edit&amp;redlink=1" title="Paláta (page does not exist)">paláta</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
+Nó bắt nguồn từ [Nguyên thủy Elvish](Primitive_Elvish.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Pal%C3%A1ta&amp;action=edit&amp;redlink=1" title="Paláta (page does not exist)">paláta</a></i> [Gốc](../S/Sundocarmë.md) <a class="new" href="https://tolkiengateway.net/w/index.php?title=PAL&amp;action=edit&amp;redlink=1" title="PAL (page does not exist)">PAL</a>
 
 ## Có cùng nguồn gốc {#Cognates}
 

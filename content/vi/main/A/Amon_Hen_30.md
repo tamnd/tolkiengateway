@@ -18,7 +18,7 @@ images:
   - "WikimediaUI-ArrowNext-ltr.svg"
 ---
 
-<b><i>Amon Hen</i> 30</b> là số thứ 30 của [tạp chí Amon Hen](<Amon_Hen_(journal).md>) của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md).
+<b><i>Amon Hen</i> 30</b> là số thứ 30 của [Amon Hen tạp chí](<Amon_Hen_(journal).md>) của [Hội Tolkien](../T/The_Tolkien_Society.md).
 
 <br>
 

@@ -36,7 +36,7 @@ infobox:
 
 <i><b>Tales Before Tolkien</b></i> là tuyển tập tiểu thuyết giả tưởng lấy cảm hứng từ [J.R.R. Tolkien](../J/J.R.R._Tolkien.md).
 
-Biên tập viên [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã lưu ý rằng tựa đề *Tales before Tolkien* là do nhà xuất bản gợi ý; tựa ban đầu của ông là *Roots of the Mountain: Fantasy before Tolkien*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Biên tập viên [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã lưu ý rằng tựa đề *Tales before Tolkien* là do nhà xuất bản gợi ý; Tên ban đầu của ông trước đây là *Roots of the Mountain: Fantasy Tolkien*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nhà xuất bản {#From_the_publisher}
 
@@ -48,7 +48,7 @@ Biên tập viên [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã lưu �
 
 ## Nội dung {#Contents}
 
-- "Yêu tinh" của Ludwig Tieck
+- "The Tiên tộc" của Ludwig Tieck
 - "Chìa khóa vàng" của George Macdonald
 - "Puss-Cat Mew" của E. H. Knatchbull-Hugessen
 - "The Griffin và Minor Canon" của Frank R. Stockton
@@ -56,7 +56,7 @@ Biên tập viên [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã lưu �
 - "Câu chuyện về Sigurd" của Andrew Lang
 - "Dân gian cửa núi" của William Morris
 - "Trái tim đen và trái tim trắng" của H. Rider Haggard
-- "Người thuần hóa rồng" của E. Nesbit
+- "Người thuần hóa Rồng" của E. Nesbit
 - "Quần đảo xa xôi" của John Buchan
 - "Mũi tên rút ra" của Clemence Housman
 - "Con trâu bị phù phép" của L. Frank Baum
@@ -64,7 +64,7 @@ Biên tập viên [Douglas A. Anderson](../D/Douglas_A._Anderson.md) đã lưu �
 - "Vụ nổ Baumhoff" của William Hope Hodgson
 - "Người nhiếp chính phương Bắc" của Kenneth Morris
 - "Sự xuất hiện của nỗi kinh hoàng" của Arthur Machen
-- "Bẫy yêu tinh" của Francis Stevens
+- "Cái bẫy Tiên" của Francis Stevens
 - "Nữ hoàng gầy gò của Elfhame" của James Branch Cabell
 - "Người đàn bà trong rừng" của A. Merritt
 - "Golithos the Ogre" của E. A. Wyke-Smith

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Tolkien and The Silmarillion"
 ---
 
-Chuyển hướng tới [Tolkien và The Silmarillion](Tolkien_and_The_Silmarillion.md).
+Chuyển hướng đến [Tolkien và The Silmarillion](Tolkien_and_The_Silmarillion.md).

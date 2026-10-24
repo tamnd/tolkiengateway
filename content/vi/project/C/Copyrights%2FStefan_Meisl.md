@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Meisl, Stefan"
 ---
 
-- Stefan Meisl đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Stefan_Meisl.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- Stefan Meisl đã vui lòng cho phép ông sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Stefan_Meisl.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 31 tháng 3 năm 2015
 - Người dùng đã xin phép qua email: [Người dùng: Mith](https://tolkiengateway.net/wiki/User:Mith)

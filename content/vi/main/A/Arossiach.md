@@ -40,17 +40,17 @@ infobox:
 
 ## Địa lý {#Geography}
 
-Sông [Aros](Aros.md) có nguồn gốc từ hai dòng suối chảy về phía nam từ những ngọn đồi của [Dorthonion](../D/Dorthonion.md). Nơi những dòng suối đó gặp nhau, một con đường đông tây cổ xưa bắc qua thượng nguồn sông tại một bến cạn. Ford đánh dấu ranh giới giữa hai khu vực. Về phía đông là [Himlad](../H/Himlad.md) và các vùng đất khác do các con trai của [Fëanor](../F/Fëanor.md) nắm giữ. Về phía tây là [Dor Dínen](../D/Dor_Dínen.md), xa hơn nữa là thung lũng nguy hiểm [Nan Dungortheb](../N/Nan_Dungortheb.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Sông [Aros](Aros.md) có nguồn từ hai dòng chảy về phía nam từ vùng đồi [Dorthonion](../D/Dorthonion.md). Nơi những dòng suối đó gặp nhau, một con đường đông tây cổ xưa bắc qua thượng nguồn sông tại một bến cạn. Ford đánh dấu ranh giới giữa hai khu vực. Phía đông là [Himlad](../H/Himlad.md), các vùng đất khác do con cháu của [Fëanor](../F/Fëanor.md) nắm giữ. Về phía tây là [Dor Dínen](../D/Dor_Dínen.md), xa hơn nữa là thung lũng nguy hiểm [Nan Dungortheb](../N/Nan_Dungortheb.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Khúc cạn Aros dường như đã có từ những ngày trước khi bắt đầu [Năm Mặt Trời](../Y/Years_of_the_Sun.md), khi những con đường về phía bắc [Doriath](../D/Doriath.md) còn an toàn để đi lại. Sau sự xuất hiện của [Ungoliant](../U/Ungoliant.md) và sự trỗi dậy của [Dây đai Melian](../G/Girdle_of_Melian.md), vùng đất phía tây Arossiach đã trở thành một nơi bị ma ám và nguy hiểm, và vào cuối [Kỷ nguyên thứ nhất](../F/First_Age.md) Fords chỉ được sử dụng bởi những du khách dũng cảm nhất hoặc tuyệt vọng nhất.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Những chiếc Fords của Aros dường như đã có từ những ngày trước khi bắt đầu [Những năm Mặt Trời](../Y/Years_of_the_Sun.md), khi những con đường phía bắc của [Doriath](../D/Doriath.md) còn an toàn để đi lại. Sau sự xuất hiện của [Ungoliant](../U/Ungoliant.md) và sự trỗi dậy của [Vành đai Melian](../G/Girdle_of_Melian.md), vùng đất phía tây Arossiach đã trở thành một nơi bị ma ám và nguy hiểm, và vào cuối [Kỷ Đệ Nhất](../F/First_Age.md) Fords chỉ được sử dụng bởi những du khách dũng cảm nhất hoặc tuyệt vọng nhất.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-[Aredhel](Aredhel.md), sau khi rời bỏ anh trai mình [Turgon](../T/Turgon.md) và thành phố [Gondolin](../G/Gondolin.md), mong muốn được gặp các con trai của [Fëanor](../F/Fëanor.md). Bị từ chối vào [Doriath](../D/Doriath.md), cô đi theo con đường phía bắc của Vương quốc ẩn giấu và băng qua Aros tại Arossiach trong hành trình đến Himlad.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[Aredhel](Aredhel.md), sau khi rời xa anh trai [Turgon](../T/Turgon.md) và thành phố [Gondolin](../G/Gondolin.md), mong muốn được gặp lại các con trai của [Fëanor](../F/Fëanor.md). Bị từ chối vào [Doriath](../D/Doriath.md), cô đi theo con đường phía bắc của Vương quốc Ẩn giấu và băng qua Aros tại Arossiach trên hành trình vào Himlad.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*Arossiach* là tên [Sindarin](../S/Sindarin.md) có nghĩa là "Fords of Aros", từ *[Aros](Aros.md)* + *[iach](../I/Iach.md)* ("ford").
+*Arossiach* là tên [Sindarin](../S/Sindarin.md) có nghĩa là "Ford của Aros", từ *[Aros](Aros.md)* + *[iach](../I/Iach.md)* ("ford").
 
 <span></span>
 

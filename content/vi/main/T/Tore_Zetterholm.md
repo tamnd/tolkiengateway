@@ -25,7 +25,7 @@ langlinks:
 
 **Xé Ulf Axel Zetterholm** ([4 tháng 10](../_/4_October.md), [1915](../_/1915.md) - [9 tháng 11](../_/9_November.md), [2001](../_/2001.md)) là một nhà văn Thụy Điển (tác giả của 28 cuốn tiểu thuyết), nhà sử học văn học, nhà báo và dịch giả.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
-Trong [1947](../_/1947.md), Zetterholm đã xuất bản bản dịch *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) (bản dịch đầu tiên của bất kỳ tác phẩm nào của Tolkien sang bất kỳ ngôn ngữ nào), gọi nó là *[Hompen](../H/Hompen.md)*.<sup id="cite_ref-Bere_2-0" class="reference"><a href="#cite_note-Bere-2">[2]</a></sup>
+Trong [1947](../_/1947.md), Zetterholm đã xuất bản bản dịch *[The Hobbit](The_Hobbit.md)* của [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)(bản dịch đầu tiên của bất kỳ tác phẩm nào của Tolkien sang bất kỳ ngôn ngữ nào), gọi nó là *[Hompen](../H/Hompen.md)*.<sup id="cite_ref-Bere_2-0" class="reference"><a href="#cite_note-Bere-2">[2]</a></sup>
 
 Có lẽ do một cơ hội kỳ lạ, Zetterholm là một trong những người nhận được giải thưởng văn học danh giá hàng năm do <i><a class="extiw" href="http://en.wikipedia.org/wiki/Svenska_Dagbladet" title="wikipedia:Svenska Dagbladet">Svenska Dagbladet</a></i> trao tặng vào năm 1950, khi [Britt G. Hallqvist](../B/Britt_G._Hallqvist.md), dịch giả sau này của *The Hobbit*, nhận được giải thưởng văn học thiếu nhi cùng năm bởi cùng một tờ báo.<sup id="cite_ref-Bere_2-1" class="reference"><a href="#cite_note-Bere-2">[2]</a></sup>
 

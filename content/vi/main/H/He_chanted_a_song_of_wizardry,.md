@@ -30,9 +30,9 @@ images:
 
 <figure class="mw-default-size" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/K/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/f/f3/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg/300px-KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg" decoding="async" loading="lazy" width="300" height="378" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/f/f3/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg/450px-KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/f/f3/KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg/600px-KuraiGeijutsu_-_And_Finrod_fell_before_the_Throne.jpg 2x" data-file-width="796" data-file-height="1003"/></a><figcaption><i>And Finrod fell before the Throne</i> by <a href="../../category/I/Images_by_KuraiGeijutsu.md" title="Category:Images by KuraiGeijutsu">Kurai Geijutsu</a></figcaption></figure>
 
-**Ông hát một bài hát về phép thuật,**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là dòng đầu tiên trong số hai bài thơ trong Silmarillion, và là một đoạn trích cho [Lay of Leithian](../L/Lay_of_Leithian.md) theo dòng cuối cùng trước bài thơ. Đó là trận chiến giữa Sauron và Finrod Felagund.
+**Ông hát một bài hát về phép thuật,**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> là dòng đầu tiên trong số hai bài thơ trong Silmarillion, và là một đoạn trích cho [Lay of Leithian](../L/Lay_of_Leithian.md) theo dòng cuối cùng trước bài thơ. Đó là cuộc chiến giữa Sauron và Finrod Felagund.
 
-[Clamavi De Profundis](../C/Clamavi_De_Profundis.md) đã sáng tác một bài hát từ đó. và thêm một số yêu tinh vào giữa một số dòng. Họ đặt tên bài hát là: **Trận chiến của Sauron và Finrod Felagund**.
+[Clamavi De Profundis](../C/Clamavi_De_Profundis.md) đã sáng tác một bài hát từ đó. và thêm một số yêu tinh vào giữa một số dòng. Họ đặt tên bài hát là: **Trận chiến Sauron và Finrod Felagund**.
 
 ## Trích đoạn thơ {#Poem_excerpt}
 
@@ -57,7 +57,7 @@ The prison opening, the chain that snaps.
 
 ## Liên kết ngoài {#External_Links}
 
-- <a class="external text" href="https://www.youtube.com/watch?v=9eWZCYuYR6s" rel="noreferrer noopener" target="_blank">| Bìa của Clamavi De Profundis Trận chiến của Sauron và Finrod Felagund</a>
+- <a class="external text" href="https://www.youtube.com/watch?v=9eWZCYuYR6s" rel="noreferrer noopener" target="_blank">| Ảnh bìa của Clamavi De Profundis Trận chiến Sauron và Finrod Felagund</a>
 
 <span></span>
 

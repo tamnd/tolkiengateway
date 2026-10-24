@@ -35,13 +35,13 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../N/Númenóreans.md" title="Númenóreans">Númenórean</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Beregar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../N/Númenor.md" title="Númenor">Númenor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data">Before <a href="../S/Second_Age.md" title="Second Age">S.A.</a> <a href="../S/Second_Age_771.md" title="Second Age 771">771</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Spouse</th><td class="tg-infobox-data"><a href="../N/Núneth.md" title="Núneth">Núneth</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../E/Erendis.md" title="Erendis">Erendis</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Beregar** là một quý tộc của [Númenor](../N/Númenor.md), xuất thân từ [Nhà Bëor](../H/House_of_Bëor.md).
+**Beregar** là một quý tộc [Númenor](../N/Númenor.md), xuất thân từ [Nhà Bëor](../H/House_of_Bëor.md).
 
 ## Lịch sử {#History}
 
-Beregar là hậu duệ của [Beleth](Beleth.md), con gái của [Bregolas](Bregolas.md), thuộc [Nhà Bëor](../H/House_of_Bëor.md).<sup id="cite_ref-WJBeor_1-0" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
+Beregar là hậu duệ của [Beleth](Beleth.md), con gái của [Bregolas](Bregolas.md), của [Nhà Bëor](../H/House_of_Bëor.md).<sup id="cite_ref-WJBeor_1-0" class="reference"><a href="#cite_note-WJBeor-1">[1]</a></sup>
 
-Ông sống ở vùng [Andustar](../A/Andustar.md) của Númenor. Beregar kết hôn với [Núneth](../N/Núneth.md) và họ có một cô con gái tên là [Erendis](../E/Erendis.md), Beregar đã đưa cô đến dự bữa tiệc được tổ chức khi con trai của [Tar-Meneldur](../T/Tar-Meneldur.md) được tuyên bố là người thừa kế của ông. Ở đó Erendis say mê [Aldarion](../T/Tar-Aldarion.md) và cuối cùng trở thành nữ hoàng của ông ta. Aldarion và Erendis có một cô con gái riêng, và vì vậy Beregar trở thành ông nội của [Nữ hoàng cai trị Númenor](../R/Ruling_Queen_of_Númenor.md) đầu tiên, [Tar-Ancalimë](../T/Tar-Ancalimë.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ông sống ở vùng [Andustar](../A/Andustar.md) của Númenor. Beregar kết hôn với [Núneth](../N/Núneth.md) và họ có một cô con gái tên là [Erendis](../E/Erendis.md), Beregar đã đưa cô đến dự bữa tiệc được tổ chức khi con trai của [Tar-Meneldur](../T/Tar-Meneldur.md) được tuyên bố là người thừa kế của ông. Ở đó Erendis say mê [Aldarion](../T/Tar-Aldarion.md) và cuối cùng trở thành nữ hoàng của ông ta. Aldarion và Erendis có một cô con gái riêng, và vì vậy Beregar trở thành ông nội của [Nữ hoàng cai trị đầu tiên của Númenor](../R/Ruling_Queen_of_Númenor.md), [Tar-Ancalimë](../T/Tar-Ancalimë.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

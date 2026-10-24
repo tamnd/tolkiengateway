@@ -18,11 +18,11 @@ langlinks:
     url: "https://kontu.wiki/Minuial"
 ---
 
-**minuial** là tên [Sindarin](../S/Sindarin.md) chỉ hoàng hôn của bình minh, khi các vì sao mờ dần; một thời điểm quan trọng đối với [Yêu tinh](../E/Elves.md). Người ta đặt tên cho ánh hoàng hôn là *[aduial](../A/Aduial.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**minuial** là tên [Sindarin](../S/Sindarin.md) của ánh bình minh chạng vạng, khi những ngôi sao mờ dần; một thời điểm quan trọng đối với [Tiên tộc](../E/Elves.md). Người ta đặt tên cho ánh hoàng hôn là *[aduial](../A/Aduial.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Như [Paul Strack](../P/Paul_Strack.md) giải thích, *minuial* bao gồm *[min](Min.md)* ("một") + *[uial](../U/Uial.md)* ("chạng vạng, buổi tối").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Như [Paul Strack](../P/Paul_Strack.md) giải thích, *minuial* bao gồm *[min](Min.md)* ("một") + *[uial](../U/Uial.md)* ("chạng vạng, thậm chí").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Xem thêm {#See_also}
 

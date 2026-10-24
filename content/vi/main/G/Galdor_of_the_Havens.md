@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Galdor (elf of the Havens)"
 ---
 
-Chuyển hướng đến [Galdor (yêu tinh của bến cảng)](<Galdor_(elf_of_the_Havens).md>).
+Chuyển hướng đến [Galdor (Tiên của Cảng)](<Galdor_(elf_of_the_Havens).md>).

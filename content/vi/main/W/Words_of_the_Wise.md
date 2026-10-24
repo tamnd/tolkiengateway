@@ -37,7 +37,7 @@ infobox:
 
 ## Mô tả chính thức {#Official_description}
 
-*Khi vùng đất của Người rừng bị đe dọa, công ty phải thực hiện lời khuyên của những người khôn ngoan trong hành trình tìm kiếm viện trợ. Thành công phụ thuộc vào hành động của họ cũng như thông điệp họ truyền tải và thậm chí còn có nhiều mối đe dọa hơn họ nhận ra.*
+*Khi vùng đất của Người Rừng bị đe dọa, công ty phải thực hiện lời khuyên của những người khôn ngoan để tìm kiếm sự trợ giúp. Thành công phụ thuộc vào hành động của họ cũng như thông điệp họ truyền tải và thậm chí còn có nhiều mối đe dọa hơn họ nhận ra.*
 
 *Words for the Wise* là một kịch bản phiêu lưu dành cho *The One Ring: Adventures over the Edge of the Wild*™, lấy bối cảnh trong thế giới của *The Hobbit*™ và *The Lord of the Rings*™ của JRR Tolkien.<sup id="cite_ref-RPGnow_1-1" class="reference"><a href="#cite_note-RPGnow-1">[1]</a></sup>
 

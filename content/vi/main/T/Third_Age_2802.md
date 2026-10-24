@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2799.md" title="Third Age 2799">2799</a><a href="Third_Age_2800.md" title="Third Age 2800">2800</a><a href="Third_Age_2801.md" title="Third Age 2801">2801</a><a class="mw-selflink selflink">2802</a><a href="Third_Age_2803.md" title="Third Age 2803">2803</a><a href="Third_Age_2804.md" title="Third Age 2804">2804</a><a href="Third_Age_2805.md" title="Third Age 2805">2805</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 2802** (viết tắt là **T.A. 2802**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2802 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ nguyên thứ ba 2802 còn được gọi là **S.R. 1202** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2802** (viết tắt là **T.A. 2802**) là năm [thứ 2802 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2802 còn được gọi là **S.R. 1202** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Thráin II](Thráin.md) và [Thorin](Thorin.md) định cư ở phía nam [Ered Luin](../E/Ered_Luin.md) (bên kia sông [Lune](../L/Lune.md) và [Shire](The_Shire.md)) và thành lập [đại sảnh của họ](Thorin's_Halls.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+- [Thráin II](Thráin.md) và [Thorin](Thorin.md) định cư ở phía nam [Ered Luin](../E/Ered_Luin.md) (ngoài sông [Lune](../L/Lune.md) và [ Shire](The_Shire.md)) và thành lập [hội trường của họ](Thorin's_Halls.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <span></span>
 

@@ -12,7 +12,7 @@ categories:
   - "Organizations"
 ---
 
-**Người giữ ba chiếc nhẫn** là những người nắm giữ [Ba chiếc nhẫn](../T/Three_Rings.md) của [Yêu tinh](../E/Elves.md) sau khi tạo ra chúng, trong suốt hơn 4.000 năm của Thời đại [Thứ hai](../S/Second_Age.md) và [Thứ ba](../T/Third_Age.md). Ban đầu, ba Người canh giữ là [Gil-galad](../G/Gil-galad.md), [Galadriel](../G/Galadriel.md) và [Círdan](../C/Círdan.md). Gil-galad trao Chiếc nhẫn của mình cho [Elrond](../E/Elrond.md) và Círdan trao chiếc nhẫn của mình cho [Gandalf](../G/Gandalf.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào cuối Thời đại thứ ba, khi [Những chiếc nhẫn](../R/Rings_of_Power.md) cuối cùng mất đi sức mạnh và bị đưa đến [phương Tây](../A/Aman.md), những Người canh giữ là Elrond, Galadriel và Gandalf.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+**Người giữ Ba Chiếc Nhẫn** là những người nắm giữ [Ba Chiếc Nhẫn](../T/Three_Rings.md) của [Tiên tộc](../E/Elves.md) sau khi được tạo ra, trong hơn 4.000 năm của [Thứ hai](../S/Second_Age.md) và [Thứ ba](../T/Third_Age.md) Kỷ nguyên. Ban đầu, ba Người canh giữ là [Gil-galad](../G/Gil-galad.md), [Galadriel](../G/Galadriel.md) và [Círdan](../C/Círdan.md). Gil-galad đã trao Chiếc nhẫn của mình cho [Elrond](../E/Elrond.md) và Círdan đưa Chiếc nhẫn của mình cho [Gandalf](../G/Gandalf.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Vào cuối Kỷ Đệ Tam, khi [Những chiếc nhẫn](../R/Rings_of_Power.md) cuối cùng mất đi sức mạnh và được đưa vào [ Phương Tây](../A/Aman.md), các Người canh giữ là Elrond, Galadriel và Gandalf.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -35,7 +35,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Tolkien2005.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/6d/Tolkien2005.jpg/320px-Tolkien2005.jpg" decoding="async" loading="lazy" width="320" height="319" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/6/6d/Tolkien2005.jpg 1.5x" data-file-width="361" data-file-height="360"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Tolkien 2005: The Ring Goes Ever On</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Convention Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a class="extiw" href="http://en.wikipedia.org/wiki/Aston_University" title="wikipedia:Aston University">Aston University</a>, <a href="../B/Birmingham.md" title="Birmingham">Birmingham</a></td></tr><tr><th scope="row" class="tg-infobox-label">Organizer</th><td class="tg-infobox-data"><a href="The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Dates</th><td class="tg-infobox-data"><a href="../_/11_August.md" title="11 August">11</a>-<a href="../_/15_August.md" title="15 August">15 August</a>, <a href="../_/2005.md" title="2005">2005</a></td></tr><tr><th scope="row" class="tg-infobox-label">Attendees</th><td class="tg-infobox-data">c. 750<sup id="cite_ref-Souvenir_1-0" class="reference"><a href="#cite_note-Souvenir-1">[1]</a></sup></td></tr><tr><th scope="row" class="tg-infobox-label">Previous</th><td class="tg-infobox-data"><a href="../M/Mythcon_35.md" title="Mythcon 35">Mythcon 35</a></td></tr><tr><th scope="row" class="tg-infobox-label">Next</th><td class="tg-infobox-data"><a href="../M/Mythcon_37.md" title="Mythcon 37">Mythcon 37</a></td></tr></tbody></table>
 
-**Tolkien 2005: The Ring Goes Ever On** là một hội nghị được tổ chức bởi [Hiệp hội Tolkien](The_Tolkien_Society.md) kết hợp với [Hiệp hội thần thoại](../M/Mythopoeic_Society.md). Nó được tổ chức tại Đại học Aston (Birmingham, Anh) [11](../_/11_August.md)-[15 tháng 8](../_/15_August.md), [2005](../_/2005.md). Hội nghị đánh dấu kỷ niệm 50 năm xuất bản đầy đủ *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
+**Tolkien 2005: The Ring Goes Ever On** là một hội nghị được tổ chức bởi [Hội Tolkien](The_Tolkien_Society.md) kết hợp với [Hiệp hội Thần thoại](../M/Mythopoeic_Society.md). Nó được tổ chức tại Đại học Aston (Birmingham, Anh) [11](../_/11_August.md)-[15 tháng 8](../_/15_August.md), [2005](../_/2005.md). Hội nghị đánh dấu kỷ niệm 50 năm xuất bản đầy đủ *[The Lord of the Rings](The_Lord_of_the_Rings.md)*.
 
 ## Khách {#Guests}
 
@@ -54,7 +54,7 @@ infobox:
 - [Tom Shippey](Tom_Shippey.md)
 - Viv Wilkes
 
-Do bận rộn với công việc nên [John Howe](../J/John_Howe.md) và [Brian Sibley](../B/Brian_Sibley.md) không thể tham dự.<sup id="cite_ref-Souvenir2_2-0" class="reference"><a href="#cite_note-Souvenir2-2">[2]</a></sup>
+Do bận công việc nên [John Howe](../J/John_Howe.md) và [Brian Sibley](../B/Brian_Sibley.md) không thể tham dự.<sup id="cite_ref-Souvenir2_2-0" class="reference"><a href="#cite_note-Souvenir2-2">[2]</a></sup>
 
 ## Ấn phẩm {#Publications}
 

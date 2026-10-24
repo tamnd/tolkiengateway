@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Himring"
 ---
 
-Chuyển hướng tới [Himring](Himring.md).
+Chuyển hướng đến [Himring](Himring.md).

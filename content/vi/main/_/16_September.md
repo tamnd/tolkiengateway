@@ -58,14 +58,14 @@ langlinks:
 </div><div class="template-month__footer"><div class="tg-button"><a href="../J/January.md" title="January">Jan</a></div><div class="tg-button"><a href="../F/February.md" title="February">Feb</a></div><div class="tg-button"><a href="../M/March.md" title="March">Mar</a></div><div class="tg-button"><a href="../A/April.md" title="April">Apr</a></div><div class="tg-button"><a href="../M/May.md" title="May">May</a></div><div class="tg-button"><a href="../J/June.md" title="June">Jun</a></div><div class="tg-button"><a href="../J/July.md" title="July">Jul</a></div><div class="tg-button"><a href="../A/August.md" title="August">Aug</a></div><div class="tg-button"><a href="../S/September.md" title="September">Sep</a></div><div class="tg-button"><a href="../O/October.md" title="October">Oct</a></div><div class="tg-button"><a href="../N/November.md" title="November">Nov</a></div><div class="tg-button"><a href="../D/December.md" title="December">Dec</a></div></div>
 </div>
 
-Sự kiện xảy ra vào ngày 16 tháng 9
+Sự kiện xảy ra vào ngày 16 tháng Chín.
 
 ## Trên Trái đất {#On_Earth}
 
 - **[1914](1914.md)** - Tác giả và thủ thư [William Ready](../W/William_Ready.md) ra đời.
 - **[1935](1935.md)** - Họa sĩ hoạt hình [Jules Bass](../J/Jules_Bass.md) ra đời.
-- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [một bức thư cho cháu trai Michael George Tolkien](<../L/Letter_to_Michael_George_Tolkien_(16_September_1965).md>).
-- **[1981](1981.md)** – *[Arthedain](<../A/Arthedain_(Tolkien_Society).md>)*, [Hiệp hội Tolkien](../T/Tolkien_Societies~67099.md) của Na Uy, được thành lập tại Oslo.
+- **[1965](1965.md)** - [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết [thư gửi cháu trai Michael George Tolkien](<../L/Letter_to_Michael_George_Tolkien_(16_September_1965).md>).
+- **[1981](1981.md)** – *[Arthedain](<../A/Arthedain_(Tolkien_Society).md>)*, [Tolkien Hiệp hội](../T/Tolkien_Societies~67099.md) của Na Uy, được thành lập tại Oslo.
 - **[1994](1994.md)** - [Oxonmoot 1994](../O/Oxonmoot_1994.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[1995](1995.md)** - [Oxonmoot 1995](../O/Oxonmoot_1995.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/University_College,_Oxford" title="wikipedia:University College, Oxford">Đại học Cao đẳng</a>.
 - **[2005](2005.md)** - [Oxonmoot 2005](../O/Oxonmoot_2005.md) tại <a class="extiw" href="http://en.wikipedia.org/wiki/St_Peter%27s_College,_Oxford" title="wikipedia:St Peter&#39;s College, Oxford">Đại học St Peter</a>.
@@ -76,5 +76,5 @@ Sự kiện xảy ra vào ngày 16 tháng 9
 ## Trong Arda {#In_Arda}
 
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - [Gandalf](../G/Gandalf.md) bị [Saruman](../S/Saruman.md) giam giữ trên đỉnh [Orthanc](../O/Orthanc.md).
+    - [Gandalf](../G/Gandalf.md) bị giam giữ bởi [Saruman](../S/Saruman.md) trên đỉnh của [Orthanc](../O/Orthanc.md).
     - [Boromir](../B/Boromir.md) đi tới [Rivendell](../R/Rivendell.md) để xin lời khuyên.

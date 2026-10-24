@@ -39,7 +39,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mythlore_4.gif.md"><img src="https://tolkiengateway.net/w/images/e/e6/Mythlore_4.gif" decoding="async" loading="lazy" width="225" height="290" class="mw-file-element" data-file-width="225" data-file-height="290"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mythlore 4</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data"><a href="../G/Glen_GoodKnight.md" title="Glen GoodKnight">Glen GoodKnight</a></td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="Mythopoeic_Society.md" title="Mythopoeic Society">Mythopoeic Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">October, <a href="../_/1969.md" title="1969">1969</a></td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">Paperback</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">58</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mythlore_3.md" title="Mythlore 3">Mythlore 3</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mythlore_5.md" title="Mythlore 5">Mythlore 5</a></td></tr></tbody></table>
 
-<i><b>Thần thoại</b></i> 4 <a class="external text" href="https://dc.swosu.edu/mythlore/vol1/iss4/" rel="noreferrer noopener" target="_blank">(Tập 1, Số 4)</a> là số của tạp chí *[Mythlore](Mythlore.md)*, được xuất bản bởi [Hiệp hội Thần thoại](Mythopoeic_Society.md).
+<i><b>Mythlore</b></i> 4 <a class="external text" href="https://dc.swosu.edu/mythlore/vol1/iss4/" rel="noreferrer noopener" target="_blank">(Tập 1, Số 4)</a> là số của tạp chí *[Mythlore](Mythlore.md)*, do [Hiệp hội Thần thoại](Mythopoeic_Society.md) xuất bản.
 
 ## Nội dung {#Contents}
 
@@ -49,7 +49,7 @@ infobox:
 - Hannay, Margaret P. "The Mythology of *Out of the Silent Planet*." 11-14.
 - Ring, David. "Report on Westercon XXII." 15+.
 - Carnell, Corbin. "C.S. Lewis: An Appraisal." 18+.
-- "Bữa tiệc sinh nhật của Bilbo và Frodo, do Elrond Peredhil tường thuật." 21.
+Bữa tiệc sinh nhật của - "Bilbo và Frodo, được báo cáo bởi Elrond Peredhil." 21.
 - Juhren, Marcella. "Mileage in Middle Earth." 22.
 - McMenomy, Bruce. "Song of Joy." 41+.
 - Wilson, Simone. "The Empire of Charles Williams." 50-53.
@@ -59,7 +59,7 @@ infobox:
 - GoodKnight, Glen. "The Council of Elrond." 2+.
 - Zuber, Bernie. "Across the Brandywine." 4+.
 - Ballif, Sandra. "A Sindarin-Quenya Dictionary, More or Less, Listing All Elvish Words Found in *The Lord of the Rings*, *The Hobbit*, and *The Road Goes Ever On* by J.R.R. Tolkien (Part 3)." 23-26.
-- "Những sứ điệp về thần thoại." 27+.
+- "Công văn tới Mythlore." 27+.
 - Zuber, Bernie. "World of Fanzines." 38+.
 - Kuhl, Rand. "Lore of Logres: Arrows from a Twisted Bow: Misunderstanding Tolkien." Review of *Understanding Tolkien and The Lord of the Rings* by William Ready." 45-49.
 - Biên tập: "Sự hợm hĩnh theo thời gian." 56+.

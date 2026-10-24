@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Common Eldarin"
 ---
 
-Chuyển hướng tới [Eldarin thông thường](Common_Eldarin.md).
+Chuyển hướng đến [Common Eldarin](Common_Eldarin.md).

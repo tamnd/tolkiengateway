@@ -17,13 +17,13 @@ langlinks:
     url: "https://kontu.wiki/Haeren"
 ---
 
-**Haeren** là một địa điểm ở phía tây [Gondor](../G/Gondor.md), ngay dưới [White Mountains](../W/White_Mountains.md).
+**Haeren** là một địa điểm ở phía tây của [Gondor](../G/Gondor.md), ngay dưới [Dãy Núi Trắng](../W/White_Mountains.md).
 
-Vị trí không được đề cập trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và bản chất của nó không được biết. Tên của địa điểm chỉ xuất hiện dưới dạng phần bổ sung viết tay của [Tolkien](../J/J.R.R._Tolkien.md) trên phiên bản cuối cùng của *[General Map of Middle-earth](../G/General_Map_of_Middle-earth.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Vị trí không được đề cập trong *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)* và bản chất của nó không được biết. Tên của địa điểm chỉ xuất hiện dưới dạng bổ sung viết tay bởi [Tolkien](../J/J.R.R._Tolkien.md) trên phiên bản cuối cùng của *[General Map of Middle-earth](../G/General_Map_of_Middle-earth.md)*.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Ý nghĩa của cái tên vẫn chưa được biết, nhưng phần đầu *hae-* có thể chứa tính từ [Sindarin](../S/Sindarin.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hae&amp;action=edit&amp;redlink=1" title="Hae (page does not exist)">hae</a></i> "rất xa" (so sánh *[Haerast](Haerast.md)* "Far Shore").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Ý nghĩa của cái tên vẫn chưa được biết, nhưng phần đầu *hae-* có thể chứa [Sindarin](../S/Sindarin.md) tính từ <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Hae&amp;action=edit&amp;redlink=1" title="Hae (page does not exist)">hae</a></i> "rất xa" (so sánh *[Haerast](Haerast.md)* "Far Shore").<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/Girithron"
 ---
 
-**Girithron** là tên [Sindarin](../S/Sindarin.md) cho tháng 12 trong năm, tiếp theo [Hithui](../H/Hithui.md), theo lịch của [Dunedain](../D/Dunedain.md). *Girithron* trong [Kings'](../K/Kings'_Reckoning.md) và [Stewards' Reckoning](../S/Stewards'_Reckoning.md) tương ứng với [Foreyule](../F/Foreyule.md) trong [Lịch Quận](../S/Shire_Calendar.md) (khoảng [21 tháng 11](../_/21_November.md) đến [20 tháng 12](../_/20_December.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Girithron** là tên [Sindarin](../S/Sindarin.md) của tháng 12 trong năm, tiếp theo [Hithui](../H/Hithui.md), theo lịch của [Dunedain](../D/Dunedain.md). *Girithron* trong [Kings'](../K/Kings'_Reckoning.md) và [Stewards' Reckoning](../S/Stewards'_Reckoning.md) tương ứng với [Foreyule](../F/Foreyule.md) trong [Lịch Shire](../S/Shire_Calendar.md) (khoảng [21 tháng 11](../_/21_November.md) đến [20 tháng 12](../_/20_December.md) hiện đại).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 

@@ -50,7 +50,7 @@ infobox:
 
 **Phần I: Giới thiệu**
 
-1. Giải thích và hợp pháp hóa các câu hỏi nghiên cứu trong phạm vi nghiên cứu của Tolkien
+1. Giải thích và hợp pháp hóa các câu hỏi nghiên cứu trong phạm vi Tolkien nghiên cứu
 2. Cơ sở phương pháp nghiên cứu
 3. Phương pháp nghiên cứu
 
@@ -60,22 +60,22 @@ infobox:
     1. Chủ nghĩa lãng mạn: Tiếp cận một thuật ngữ gây tranh cãi
     2. Chủ nghĩa lãng mạn như một hiện tượng châu Âu
     3. Khát khao cái vô hạn: Bản chất của chủ nghĩa lãng mạn
-2. <b><i>Tất cả đá quý đều biến thành hoa</i>: Tolkien và thơ lãng mạn</b>
+2. <b><i>Tất cả đá quý đều biến thành hoa</i>: Tolkien và Thơ lãng mạn</b>
     1. *A Window into the Infinite*: Thơ lãng mạn
-    2. *Colonies of Paradise*: Giấc mơ về một thần thoại mới trong chủ nghĩa lãng mạn và Tolkien
-    3. *Regaining of a Clear View:* Thơ lãng mạn trong lý thuyết giả tưởng của Tolkien
+    2. *Colonies of Paradise*: Giấc mơ về một thần thoại mới trong chủ nghĩa lãng mạn và trong Tolkien
+    3. *Regaining of a Clear View:* Thơ lãng mạn trong lý thuyết hư cấu của Tolkien
     4. *When We are Enchanted*: Sự tái hiện thế giới theo chủ nghĩa lãng mạn
 3. <b><i>Đắm chìm trong ma thuật</i>: Ảo mộng lãng mạn của thế kỷ 19 và đầu thế kỷ 20</b>
-    1. *Kho tàng của mọi điều lãng mạn*: Con gái của Vua xứ Elfland của Lãnh chúa Dunsany
+    1. *Kho tàng của mọi điều lãng mạn*: Vua Con gái của Elfland của Lãnh chúa Dunsany
     2. *Beauty beyond Time*: "Sion ap Siencyn" của Kenneth Morris
-    3. *The Voiceless Longing of My Heart*: *Phantastes* của George MacDonald và *Smith of Wootton Major* của Tolkien
+    3. *The Voiceless Longing of My Heart*: *Phantastes* của George MacDonald và Tolkien của *Smith of Wootton Major*
         1. *Achieving Stories of Power and Beauty*: Sự tiếp nhận MacDonald của Tolkien trong phạm vi thu hút và ác cảm
         2. *Cái nhìn sâu sắc về bản chất của sự vật*: Ảo mộng lãng mạn trong thơ ca của MacDonald và Tolkien
         3. *A Gush of Wonderment and Longing*: *Phantastes* của George MacDonald
         4. *A Poet Without Words*: Câu chuyện trong câu chuyện của Cosmo von Wehrstahl trong *Phantastes*
-4. <b><i>Trái tim anh bừng cháy khát vọng tươi sáng</i>: Mô típ lãng mạn trong tác phẩm của Tolkien</b>
+4. <b><i>Trái tim anh bừng cháy khát vọng tươi sáng</i>: Họa tiết lãng mạn trong tác phẩm của Tolkien</b>
     1. *Vì ngôi sao tỏa sáng trên trán ông*: Họa tiết lãng mạn trong *Smith of Wootton Major*
-    2. *Unquenchable Longing*: Eriol, chàng trai lãng mạn nơi xứ sở thần tiên
+    2. *Unquenchable Longing*: Eriol, Lãng mạn nơi xứ sở thần tiên
         1. *A Fair House and Magic Gardens*: Phong cảnh lãng mạn ở *The Book of Lost Tales*
         2. *Happy Wonderment*: Eriol, Người lãng mạn trong vương quốc thần tiên
     3. *Some Other Dearer Thing*: Nỗi nhớ lãng mạn trong tác phẩm của Tolkien
@@ -87,23 +87,23 @@ infobox:
 
 **Phần III: Nhà thơ**
 
-1. <b><i>Nhà thơ hơn nhà thơ</i>: Thơ của Tolkien trong phạm vi nghiên cứu</b>
-2. *Appetite for Music and Poetry*: Bài hát và Thơ ca như một phần của giao tiếp văn hóa ở Trung Địa
+1. <b><i>Nhà thơ hơn nhà thơ</i>: Những bài thơ của Tolkien trong phạm vi nghiên cứu</b>
+2. *Appetite for Music and Poetry*: Bài hát và Thơ như một phần của giao tiếp văn hóa trong Trung Địa
     1. *He Rode Singing in the Sun*: Nói trong Bài hát
-    2. *The Right Song for the Occasion*: Dân ca, Thơ thỉnh thoảng và Bài hát đi bộ đường dài ở Trung Địa
-3. <b><i>Bên trong một bài hát</i>: Bài hát, Thơ ca và Phép thuật ở Trung Địa</b>
+    2. *The Right Song for the Occasion*: Dân ca, Thơ thỉnh thoảng và Hát đi bộ trong Trung Địa
+3. <b><i>Bên trong một bài hát</i>: Bài hát, Thơ ca và Phép thuật trong Trung Địa</b>
     1. *Words that Take Shape*: Sức mạnh sáng tạo của thơ ca
-    2. *A Merry Fellow*: Tom Bombadil và Nguồn gốc của mọi Thơ ca
-    3. *Songs of Power*: Về mối quan hệ giữa Bài hát, Phép thuật và Nghệ thuật ở Trung Địa
+    2. *A Merry Fellow*: Tom Bombadil và Nguồn gốc của mọi bài thơ
+    3. *Songs of Power*: Về mối quan hệ giữa ca hát, ảo thuật và nghệ thuật trong Trung Địa
         1. *Chúa và Thần của sự sáng tạo riêng tư của Ngài*: Về mối quan hệ giữa phép thuật và bài hát
-        2. *A Song of Surpassing Loveliness*: Bài hát Siren của Lúthien Tinúviel
+        2. *A Song of Surpassing Loveliness*: Lúthien Bài hát Siren của Tinúviel
         3. *Contempt for Things Save Himself*: Nghệ sĩ biến thái
         4. Tóm tắt và triển vọng
     4. *Music that Turns into Running Water*: Trải nghiệm siêu việt đầy chất thơ
-4. <b><i>Tra-la-la-lally</i>: Bài hát và bài thơ trong Người Hobbit</b>
+4. <b><i>Tra-la-la-lally</i>: Bài hát và bài thơ trong The Hobbit</b>
     1. *Chúng ta phải đi trước giờ nghỉ*: Dân ca và truyền thống ca hát tập thể
-    2. *The Lakes Shall Shine and Burn*: Chức năng chính trị của bài hát và sự truyền tải thơ ca
-    3. *Trong khoảnh khắc vô cùng lúng túng*: Thỉnh thoảng có thơ trong Người Hobbit
+    2. *The Lakes Shall Shine and Burn*: Chức năng Chính trị của Bài hát và Truyền tải Thơ ca
+    3. *Trong khoảnh khắc vô cùng lúng túng*: Thỉnh thoảng có thơ trong The Hobbit
     4. *Far Over the Misty Mountains Cold*: Trình bày đầy chất thơ của tiểu thuyết
     5. Tóm tắt
 

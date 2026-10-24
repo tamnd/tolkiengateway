@@ -28,21 +28,21 @@ images:
 <p class="tg-quote-footer"><cite><a href="../S/Samwise_Gamgee.md" title="Samwise Gamgee">Samwise Gamgee</a> in <i><a href="The_Two_Towers.md" title="The Two Towers">The Two Towers</a></i>, &#34;<a href="../J/Journey_to_the_Cross-Roads.md" title="Journey to the Cross-Roads">Journey to the Cross-Roads</a>&#34;</cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
 
-**Trà** là đồ uống mà [Người Hobbit](../H/Hobbits.md) (cụ thể là [Người Hobbit ở Quận](../S/Shire-hobbits.md)) thưởng thức một mình hoặc giao lưu.
+**Trà** là đồ uống mà [Hobbit](../H/Hobbits.md) (cụ thể là [Shire-hobbit](../S/Shire-hobbits.md)) thưởng thức một mình hoặc giao lưu.
 
 Là thời gian nghỉ ngơi và thư giãn, **giờ uống trà**<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> được coi là một bữa ăn riêng, giữa bữa trưa và bữa tối.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> Theo phong tục, việc mời khách một tách trà.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-[Bilbo Baggins](../B/Bilbo_Baggins.md) mời [Gandalf](../G/Gandalf.md) uống một tách trà thì ông ta bất ngờ đến [Bag End](../B/Bag_End.md). Sau lời mời, Gandalf xuất hiện cùng với [Thorin và đồng đội](Thorin_and_Company.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+[Bilbo Baggins](../B/Bilbo_Baggins.md) mời [Gandalf](../G/Gandalf.md) uống tách trà thì anh bất ngờ đến [Bag End](../B/Bag_End.md). Sau lời mời, Gandalf xuất hiện cùng với [Thorin và Đoàn tùy tùng](Thorin_and_Company.md).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
-Trong [một bài thơ](../P/Perry-the-Winkle.md) được viết bởi [Samwise Gamgee](../S/Samwise_Gamgee.md), [Quỷ cô đơn](../L/Lonely_Troll.md) phục vụ [Perry-the-Winkle](<../P/Perry-the-Winkle_(hobbit).md>) một ít "trà ngon" và hai người bạn thường xuyên gặp nhau trong các buổi trà hàng tuần.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+Trong [một bài thơ](../P/Perry-the-Winkle.md) được viết bởi [Samwise Gamgee](../S/Samwise_Gamgee.md), [Quỷ cô đơn](../L/Lonely_Troll.md) phục vụ [Perry-the-Winkle](<../P/Perry-the-Winkle_(hobbit).md>) một số "trà ngon" và hai người bạn thường xuyên gặp nhau trong các buổi trà hàng tuần.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 ## Tên {#Names}
 
-Trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), [Tolkien](Tolkien.md) đã tạo ra hai từ [Elvish](../E/Elvish.md) cho "trà": trong [Qenya](../Q/Qenya.md) <i><b>tyé</b></i> (được chuyển thể rõ ràng từ tiếng Anh),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và trong [Gnomish](../G/Gnomish.md) <i><b>suithlas</b></i> (nghĩa đen là "lá uống").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
+Trong giai đoạn đầu của [huyền thoại](../L/Legendarium.md), [Tolkien](Tolkien.md) đã tạo ra hai [Elvish](../E/Elvish.md) từ cho "trà": trong [Qenya](../Q/Qenya.md) <i><b>tyé</b></i> (chuyển thể rõ ràng từ tiếng Anh),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> và trong [Gnomish](../G/Gnomish.md) <i><b>suithlas</b></i> (nghĩa đen "uống lá").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007-: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007-: <i><a href="The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Tea leaves can be grown by farmers, and characters with the cooking craft can produce several varieties of tea (including Black, Green, Red, and White Tea).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> In the introductory quest &#34;Sweet Bilberry Tea&#34;, <a href="../C/Celandine_Brandybuck.md#Portrayal_in_adaptations" title="Celandine Brandybuck">Celandine Brandybuck</a> asks the player to collect <a class="extiw" href="http://en.wikipedia.org/wiki/Bilberry" title="wikipedia:Bilberry">bilberries</a> for her medicinal tea.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></dd></dl>
 

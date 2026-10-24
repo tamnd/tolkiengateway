@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Isildur"
 ---
 
-Chuyển hướng tới [Isildur](Isildur.md).
+Chuyển hướng đến [Isildur](Isildur.md).

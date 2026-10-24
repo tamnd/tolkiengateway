@@ -43,17 +43,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="../E/Elves.md" title="Elves">Elf</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Rían</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../D/Dúrnost.md" title="Dúrnost">Dúrnost</a>, <a href="../L/Lindon.md" title="Lindon">Lindon</a>, and <a href="../V/Valinor.md" title="Valinor">Valinor</a></td></tr><tr><th scope="row" class="tg-infobox-label">Affiliation</th><td class="tg-infobox-data"><a href="../G/Galadriel.md" title="Galadriel">Galadriel&#39;s company</a></td></tr><tr><th scope="row" class="tg-infobox-label">Language</th><td class="tg-infobox-data"><a href="../S/Sindarin.md" title="Sindarin">Sindarin</a> and <a href="../Q/Quenya.md" title="Quenya">Quenya</a></td></tr><tr><th scope="row" class="tg-infobox-label">Birth</th><td class="tg-infobox-data"><a href="../F/First_Age.md" title="First Age">First Age</a></td></tr><tr><th scope="row" class="tg-infobox-label">Sailed west</th><td class="tg-infobox-data">Late <a href="../S/Second_Age.md" title="Second Age">Second Age</a><br/></td></tr><tr><th scope="row" class="tg-infobox-label">Notable for</th><td class="tg-infobox-data">Accompanying <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> in the hunt for <a href="../S/Sauron.md" title="Sauron">Sauron</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr><tr><th scope="row" class="tg-infobox-label">Hair colour</th><td class="tg-infobox-data">Blond</td></tr></tbody></table>
 
-**Rían** là một [Yêu tinh](../E/Elves.md) của [Lindon](../L/Lindon.md). Rían được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md) và anh được miêu tả bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kip_Chapman&amp;action=edit&amp;redlink=1" title="Kip Chapman (page does not exist)">Kip Chapman</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Rían** là [Tiên](../E/Elves.md) của [Lindon](../L/Lindon.md). Rían được phát minh cho *[The Lord of the Rings: The Rings of Power](../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md)* bởi [Amazon Studios](../A/Amazon_Studios.md) và ông được miêu tả bởi <a class="new" href="https://tolkiengateway.net/w/index.php?title=Kip_Chapman&amp;action=edit&amp;redlink=1" title="Kip Chapman (page does not exist)">Kip Chapman</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Trong suốt [Kỷ thứ hai](../S/Second_Age.md), Rían đã đồng hành cùng [Galadriel](../G/Galadriel.md) trong cuộc săn tìm [Sauron](../S/Sauron.md) của cô.
+Trong suốt [Kỷ Đệ Nhị](../S/Second_Age.md), Rían đã đồng hành cùng [Galadriel](../G/Galadriel.md) trong cuộc săn tìm [Sauron](../S/Sauron.md) của cô.
 
 Nhiệm vụ mới nhất là nhiệm vụ mà họ phải tìm một [pháo đài](../D/Dúrnost.md) nào đó trong [Forodwaith](../N/Northern_Waste.md). Khi tìm thấy và bắt đầu điều tra ở đó, Rían là người đầu tiên nhận thấy [Hristorco](../S/Snow-troll.md) đang rình rập, hét lên cảnh báo những người còn lại trong công ty.
 
 Sau khi Hristorco bị giết, Rían đã cùng với [Thondir](../T/Thondir.md) và những người còn lại trong công ty yêu cầu Galadriel quay trở lại [Lindon](../L/Lindon.md).
 
-Khi trở về Lindon, Rían, giống như những người còn lại trong công ty, đã được Vua tối cao [Gil-Galad](../G/Gil-Galad~20494.md) vinh danh trong một buổi lễ trọng đại. Như vậy, anh đã được phép quay trở lại [Valinor](../V/Valinor.md).
+Khi trở về Lindon, Rían, giống như những người còn lại trong công ty, đã được vinh danh trong một buổi lễ trọng thể bởi Vua tối cao [Gil-Galad](../G/Gil-Galad~20494.md). Như vậy, anh đã được phép quay trở lại [Valinor](../V/Valinor.md).
 
 <span></span>
 

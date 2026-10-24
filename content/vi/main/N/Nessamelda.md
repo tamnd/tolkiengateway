@@ -27,11 +27,11 @@ langlinks:
     url: "https://kontu.wiki/Nessamelda"
 ---
 
-**Nessamelda** là một trong những [Cây Thơm](../F/Fragrant_Trees.md) mọc ở [Nísimaldar](Nísimaldar.md) trên đảo [Númenor](Númenor.md), được [Yêu tinh](../E/Elves.md) của [Eressëa](../E/Eressëa.md) mang đến đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Nessamelda** là một trong những [Cây thơm](../F/Fragrant_Trees.md) mọc ở [Nísimaldar](Nísimaldar.md) trên đảo [Númenor](Númenor.md), được [Tiên tộc](../E/Elves.md) của [Eressëa](../E/Eressëa.md) mang đến đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-*nessamelda* là [Quenya](../Q/Quenya.md) cho "Người yêu dấu của Nessa",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> từ *[Nessa](Nessa.md)* + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Melda&amp;action=edit&amp;redlink=1" title="Melda (page does not exist)">melda</a></i> ("người yêu dấu").
+*nessamelda* là [Quenya](../Q/Quenya.md) dành cho "Người yêu dấu của Nessa",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> từ *[Nessa](Nessa.md)* + <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Melda&amp;action=edit&amp;redlink=1" title="Melda (page does not exist)">melda</a></i> ("người yêu dấu").
 
 <span></span>
 

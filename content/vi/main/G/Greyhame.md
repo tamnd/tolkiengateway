@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gandalf"
 ---
 
-Chuyển hướng tới [Gandalf](Gandalf.md).
+Chuyển hướng đến [Gandalf](Gandalf.md).

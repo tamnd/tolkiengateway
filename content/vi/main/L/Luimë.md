@@ -23,7 +23,7 @@ Có thể có [PQ](../P/PQ.md) dạng \**luimê* từ [Root](../S/Sundocarmë.md
 
 ## Phiên bản khác {#Other_versions}
 
-Tolkien cũng coi đó là thuật ngữ "nước lũ, đất ngập nước" nhưng chúng đã bị loại bỏ.
+Tolkien cũng được coi là thuật ngữ “nước lũ, đất ngập” nhưng đã bị loại bỏ.
 
 <span></span>
 

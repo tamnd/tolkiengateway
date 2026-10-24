@@ -29,7 +29,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Philip Unwin đã viết thư cho Tolkien khuyên ông rằng có lẽ nên trì hoãn công việc trên Beowulf do tình trạng thiếu giấy do sự bùng nổ của <a class="extiw" href="http://en.wikipedia.org/wiki/World_War_II" title="wikipedia:World War II">chiến tranh ở Châu Âu</a>. Tolkien trả lời bằng cách gợi ý rằng các trường học có thể sẽ tiếp tục hoạt động bình thường trong một thời gian và do đó, có thể vẫn có nhu cầu, mặc dù nhu cầu đã giảm.
+Philip Unwin đã viết thư cho Tolkien khuyên ông rằng có lẽ nên trì hoãn công việc trên Beowulf do tình trạng thiếu giấy do sự bùng nổ của <a class="extiw" href="http://en.wikipedia.org/wiki/World_War_II" title="wikipedia:World War II">chiến tranh ở Châu Âu</a>. Tolkien phản hồi bằng cách gợi ý rằng các trường học có thể sẽ tiếp tục hoạt động bình thường trong một thời gian và do đó, nhu cầu có thể vẫn còn, mặc dù nhu cầu đã giảm.
 
 Tolkien xin lỗi vì đã không cập nhật cho Philip sớm hơn về mối quan tâm của ông đối với phần tiếp theo của *The Hobbit* và thậm chí còn nói "Tôi không cho rằng điều này còn khiến bạn quan tâm nữa" trước khi nói rằng ông thực sự đã viết được 3/4 câu chuyện rồi. Sau đó, ông đề cập rằng năm nay ông không có nhiều thời gian vì bệnh tật và chấn thương; bị chấn động do tai nạn khi đang làm việc trên “đất”.
 

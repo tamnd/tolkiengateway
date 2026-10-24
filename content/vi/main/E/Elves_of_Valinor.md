@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Amanyar"
 ---
 
-Chuyển hướng tới [Amanyar](../A/Amanyar.md).
+Chuyển hướng đến [Amanyar](../A/Amanyar.md).

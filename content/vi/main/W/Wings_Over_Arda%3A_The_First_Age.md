@@ -147,7 +147,7 @@ infobox:
 <td>Zack Fitzsimmons<br/>Kim Wicks<br/>Amelia Hoffman<br/>Nikki Notaro
 </td></tr></tbody></table>
 
-Danh sách diễn viên không bao gồm các diễn viên đóng vai [Beren](../B/Beren.md), [Elu Thingol](../T/Thingol.md), [Sindar](../S/Sindar.md) và [Easterlings](../E/Easterlings.md) chưa được đặt tên.
+Danh sách diễn viên không bao gồm các diễn viên đóng vai [Beren](../B/Beren.md), [Elu Thingol](../T/Thingol.md), [Sindar](../S/Sindar.md) chưa được đặt tên và [Easterlings](../E/Easterlings.md).
 
 ## Phi hành đoàn {#Crew}
 

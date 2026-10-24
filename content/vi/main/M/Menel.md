@@ -19,7 +19,7 @@ langlinks:
     url: "https://kontu.wiki/Menel"
 ---
 
-**Menel** là tên [Elvish](../E/Elvish.md) (cả [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md)) cho các vùng [không khí](<../V/Vilya_(word).md>) phía trên [Ambar](../A/Ambar.md#Ambar), một cái tên thường có nghĩa là "nền vững chắc, thiên đường" hoặc "thiên đường".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đôi khi từ này đồng nghĩa đơn giản với [the bầu trời](../I/Ilmen.md), nhưng trong các mục đích sử dụng khác, nó có ý nghĩa như một sự ám chỉ cao siêu hơn đến lãnh địa của [các ngôi sao](../S/Stars.md) và các thiên thể.
+**Menel** là tên [Elvish](../E/Elvish.md) (cả [Quenya](../Q/Quenya.md) và [Sindarin](../S/Sindarin.md)) cho các vùng [không khí](<../V/Vilya_(word).md>) phía trên [Ambar](../A/Ambar.md#Ambar), một cái tên thường có nghĩa là "nền trời, thiên đường" hoặc "thiên đường".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Đôi khi từ này đồng nghĩa đơn giản với [bầu trời](../I/Ilmen.md), nhưng trong các cách sử dụng khác, nó có nghĩa là một tham chiếu cao siêu hơn đến miền của [các ngôi sao](../S/Stars.md) và các thiên thể.
 
 Menel là một địa điểm vật chất trong [Arda](../A/Arda.md), mặc dù được cho là linh thiêng vì đây là vị trí của [các ngôi sao](../S/Stars.md) của <a class="mw-redirect mw-disambig" href="../E/Elbereth.md" title="Elbereth">Elbereth</a>.
 
@@ -29,7 +29,7 @@ Từ này được hiểu là *[men](<Men_(Elvish).md>)* “hướng về” + *
 
 Bậc thầy truyền thuyết [Quennar](../Q/Quennar.md) được cho là đã nghĩ ra từ *Menel* ("thiên đường, bầu trời").<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[note 1]</a></sup>
 
-Khi viết *[Átaremma](../_/Átaremma.md)*, Tolkien đã sử dụng *menel* để dịch "Thiên đường", nhưng ở dạng cuối cùng, ông thích *ëa han ëa* "ngoài [Sáng tạo](../E/Ea~22487.md)"; phân biệt *menel* (thiên đường, như bầu trời vật chất) với Thiên đường siêu hình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
+Khi viết *[Átaremma](../_/Átaremma.md)*, Tolkien đã sử dụng *menel* để dịch "Thiên đường", nhưng ở dạng cuối cùng ông thích *ëa han ëa* "ngoài [Sáng tạo](../E/Ea~22487.md)"; phân biệt *menel* (thiên đường, như bầu trời vật chất) với Thiên đường siêu hình.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Ví dụ {#Examples}
 
@@ -37,11 +37,11 @@ Menel được nhìn thấy trong nhiều tên cá nhân và địa danh, bao g�
 
 Nó cũng xuất hiện trong *[A Elbereth Gilthoniel](../A/A_Elbereth_Gilthoniel.md)* "*o menel [aglar](../A/Aglar.md) [elen](../E/Elen.md)[ath](../_/-ath.md)*" ("từ vinh quang của các vì sao trên thiên đường").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
-[Sam](../S/Samwise_Gamgee.md) đã sử dụng nó trong lời kêu gọi của ông từ [Cirith Ungol](../C/Cirith_Ungol.md): "*o menel [palan](../P/Palan.md)-[diriel](../T/Tir.md)*" ("từ thiên đường nhìn ra xa").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
+[Sam](../S/Samwise_Gamgee.md) đã sử dụng nó trong lời cầu nguyện của mình từ [Cirith Ungol](../C/Cirith_Ungol.md): "*o menel [palan](../P/Palan.md)-[diriel](../T/Tir.md)*" ("từ thiên đường nhìn xa").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
 ## Công cụ phái sinh {#Derivatives}
 
-Nó đã tồn tại trong [Avarin](../A/Avarin.md) và vẫn tồn tại trong [Adûnaic](../A/Adûnaic.md) *minal*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
+Nó đã tồn tại trong [Avarin](../A/Avarin.md) và vẫn tồn tại như vậy trong [Adûnaic](../A/Adûnaic.md) *minal*.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[7]</a></sup>
 
 ## Xem thêm {#See_also}
 
@@ -50,7 +50,7 @@ Nó đã tồn tại trong [Avarin](../A/Avarin.md) và vẫn tồn tại trong 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Tuy nhiên, trong các trường hợp khác, Tolkien đã viết rằng menel có nguồn gốc từ <a class="mw-redirect" href="../P/Primitive_Elvish.md" title="Primitive Elvish">Người Tiên nguyên thủy</a>, vì nó được tìm thấy ở cả tiếng Sindarin và Adûnaic. Xem <a href="#Derivatives">#Đạo hàm</a>.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">Tuy nhiên, trong các trường hợp khác Tolkien đã viết rằng menel có nguồn gốc từ <a class="mw-redirect" href="../P/Primitive_Elvish.md" title="Primitive Elvish">Nguyên thủy Elvish</a>, vì nó được tìm thấy ở cả Sindarin và Adûnaic. Xem <a href="#Derivatives">#Đạo hàm</a>.</span>
 </li>
 </ol></div></span>
 

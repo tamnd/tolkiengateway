@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Maedhros"
 ---
 
-Chuyển hướng tới [Maedhros](../M/Maedhros.md).
+Chuyển hướng đến [Maedhros](../M/Maedhros.md).

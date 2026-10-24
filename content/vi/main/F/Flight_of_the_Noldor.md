@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Exile of the Noldor"
 ---
 
-Chuyển hướng đến [Sự lưu đày của Noldor](../E/Exile_of_the_Noldor.md).
+Chuyển hướng đến [Cuộc Lưu đày của Noldor](../E/Exile_of_the_Noldor.md).

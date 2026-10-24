@@ -31,7 +31,7 @@ infobox:
 
 ## Tóm tắt {#Summary}
 
-Tolkien được yêu cầu đóng góp cho một hội nghị chuyên đề được đăng trên tờ New Statesman. Ông ta được đưa cho một danh sách các câu hỏi mà họ hy vọng ông ta sẽ cân nhắc. Tolkien bắt đầu trả lời dài để giải quyết nhiều câu hỏi của họ, nhưng quyết định chỉ gửi lời hối tiếc của mình trong một đoạn ghi chú ngắn.
+Tolkien được yêu cầu đóng góp cho một hội nghị chuyên đề được đăng trên tờ New Statesman. Ông ta được đưa cho một danh sách các câu hỏi mà họ hy vọng ông ta sẽ cân nhắc. Tolkien bắt đầu trả lời một cách dài dòng để giải quyết nhiều câu hỏi của họ, nhưng quyết định chỉ gửi lời hối tiếc của mình trong một bức thư ngắn.
 
 ### Thư đã gửi {#The_sent_letter}
 
@@ -47,7 +47,7 @@ Tolkien bắt đầu bằng việc nói rằng tất cả những gì ông phả
 
 Mối liên hệ của *The Hobbit* với phần tiếp theo là vì *The Hobbit* là bài tiểu luận đầu tiên của ông về một câu chuyện phức tạp đã ấp ủ trong tâm trí ông trong nhiều năm. Nó được gửi đến trẻ em chỉ vì anh có con và được nuôi dạy để tin rằng có một mối liên hệ đặc biệt giữa trẻ em và truyện cổ tích. Ông nghi ngờ về mối liên hệ nhưng quy ước rất mạnh mẽ. *The Hobbit* bắt đầu theo một cách kỳ lạ, thậm chí hài hước nhưng dần dần chuyển sang một điều gì đó nghiêm túc, quan trọng, nhất quán và mang tính lịch sử hơn.
 
-Tolkien trả lời các câu hỏi cho hội nghị chuyên đề: Hỏi “trẻ em” là gì, văn hóa gì, độ tuổi nào, mức độ thông minh như thế nào? Thị hiếu của trẻ em cũng khác với người lớn. Cuộc sống, Tolkien tuyên bố, vượt quá thước đo của tất cả chúng ta và tất cả chúng ta đều cần văn học trên thước đo của mình. Vì vậy người ta không bao giờ nên viết thư cho Trẻ em hoặc bất cứ ai. <br>
+Tolkien đặt ra các câu hỏi cho hội thảo: Hỏi “trẻ em” là gì, văn hóa ra sao, lứa tuổi nào, trí thông minh ở mức độ nào? Thị hiếu của trẻ em cũng khác với người lớn. Cuộc sống, được tuyên bố là Tolkien, vượt quá tầm đo của tất cả chúng ta và tất cả chúng ta đều cần văn học vượt quá tầm đo của mình. Vì vậy người ta không bao giờ nên viết thư cho Trẻ em hoặc bất cứ ai. <br>
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>

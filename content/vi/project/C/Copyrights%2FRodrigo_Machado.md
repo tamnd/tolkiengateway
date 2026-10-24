@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Machado, Rodrigo"
 ---
 
-- [Rodrigo Machado](../../main/R/Rodrigo_Machado.md) đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của ông](../../category/I/Images_by_Rodrigo_Machado.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
+- [Rodrigo Machado](../../main/R/Rodrigo_Machado.md) đã vui lòng cho phép họ sử dụng [tác phẩm nghệ thuật của ông](../../category/I/Images_by_Rodrigo_Machado.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
 - Ngày: 7 tháng 8 năm 2022
 - Người dùng đã xin phép qua email: [Người dùng:Hyarion](https://tolkiengateway.net/wiki/User:Hyarion)

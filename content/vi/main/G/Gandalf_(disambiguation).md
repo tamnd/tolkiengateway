@@ -14,7 +14,7 @@ images:
   - "Disambig.png"
 ---
 
-**Gandalf** có thể đề cập đến:
+**Gandalf** có thể tham khảo:
 
 ## Arda {#Arda}
 
@@ -25,8 +25,8 @@ images:
 
 ### Sưu tập {#Collectibles}
 
-- [Bức tượng bán thân bằng đá polystone Gandalf the Grey](Gandalf_the_Grey_polystone_bust.md)
-- [Tượng bằng đá polystone Gandalf màu xám](Gandalf_the_Grey_polystone_statue.md)
+- [Gandalf the Grey tượng bán thân bằng đá poly](Gandalf_the_Grey_polystone_bust.md)
+- [Gandalf the Grey tượng bằng đá poly](Gandalf_the_Grey_polystone_statue.md)
 
 ## Cộng đồng người hâm mộ {#Fandom}
 
@@ -35,7 +35,7 @@ images:
 ## Âm nhạc {#Music}
 
 - [Gandalf](<Gandalf_(Finnish_band).md>), ban nhạc death metal Phần Lan
-- [Gandalf](<Gandalf_(US_band).md>), ban nhạc rock ảo giác có trụ sở tại Hoa Kỳ
+- [Gandalf](<Gandalf_(US_band).md>), một ban nhạc rock ảo giác có trụ sở tại Hoa Kỳ
 
 <hr style="margin-top:15px;"/>
 

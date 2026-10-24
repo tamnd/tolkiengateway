@@ -16,18 +16,18 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2999.md" title="Third Age 2999">2999</a><a href="Third_Age_3000.md" title="Third Age 3000">3000</a><a href="Third_Age_3001.md" title="Third Age 3001">3001</a><a class="mw-selflink selflink">3002</a><a href="Third_Age_3003.md" title="Third Age 3003">3003</a><a href="Third_Age_3004.md" title="Third Age 3004">3004</a><a href="Third_Age_3005.md" title="Third Age 3005">3005</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 3002** (viết tắt là **T.A. 3002**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 3002 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 3002 còn được gọi là **S.R. 1402** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 3002** (viết tắt là **T.A. 3002**) là năm [thứ 3002 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 3002 còn được gọi là **S.R. 1402** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 - [Bilbo](../B/Bilbo_Baggins.md) trở thành khách của [Elrond](../E/Elrond.md) và định cư tại [Rivendell](../R/Rivendell.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 - Sự bất cẩn của [Pearl Took](../P/Pearl_Took.md) gây ra cái chết của [Lalia Đại đế](../L/Lalia_Clayhanger.md)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> và sự thăng thiên của [Ferumbras](../F/Ferumbras_Took_III.md) lên vị trí người đứng đầu [Gia đình Took](Took_Family.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
-- Cái chết của [Éomund](../_/Éomund.md) khi chiến đấu với lũ Orc tại [Emyn Muil](../E/Emyn_Muil.md).<sup id="cite_ref-Mark_4-0" class="reference"><a href="#cite_note-Mark-4">[4]</a></sup>
+- Cái chết của [Éomund](../_/Éomund.md) khi chiến đấu với Orc tại [Emyn Muil](../E/Emyn_Muil.md).<sup id="cite_ref-Mark_4-0" class="reference"><a href="#cite_note-Mark-4">[4]</a></sup>
 - Cái chết của [Théodwyn](Théodwyn.md).<sup id="cite_ref-Mark_4-1" class="reference"><a href="#cite_note-Mark-4">[4]</a></sup>
 
-## Tháng 9 {#September}
+## tháng Chín {#September}
 
-- **[22](../_/22_September.md)** - [Frodo Baggins](../F/Frodo_Baggins.md) tổ chức sinh nhật của mình và [Bilbo](../B/Bilbo.md) với 20 khách mời, gọi đây là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hundredweight_Feast&amp;action=edit&amp;redlink=1" title="Hundredweight Feast (page does not exist)">Bữa tiệc trăm cân</a> để vinh danh sinh nhật lần thứ 112 của Bilbo. Ông tiếp tục tổ chức sinh nhật cho Bilbo cùng với sinh nhật của mình trong những năm tiếp theo.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
+- **[22](../_/22_September.md)** - [Frodo Baggins](../F/Frodo_Baggins.md) tổ chức sinh nhật của ông và [Bilbo](../B/Bilbo.md) với 20 khách mời, gọi đây là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Hundredweight_Feast&amp;action=edit&amp;redlink=1" title="Hundredweight Feast (page does not exist)">Bữa tiệc trăm cân</a> để vinh danh sinh nhật lần thứ 112 của Bilbo. Ông tiếp tục tổ chức sinh nhật cho Bilbo cùng với sinh nhật của mình trong những năm tiếp theo.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>
 
 <span></span>
 

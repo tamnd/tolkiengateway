@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Déor (father of Ælfwine)"
 ---
 
-Chuyển hướng tới [Déor (cha của Ælfwine)](<Déor_(father_of_Ælfwine).md>).
+Chuyển hướng đến [Déor (cha đẻ của Ælfwine)](<Déor_(father_of_Ælfwine).md>).

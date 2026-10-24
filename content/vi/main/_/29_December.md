@@ -82,4 +82,4 @@ Sự kiện xảy ra vào ngày 29 tháng 12
 
 - Ngày này đánh dấu sự bắt đầu của lễ hội [Yuletide](../Y/Yuletide.md) kéo dài sáu ngày trong [Lịch Shire](../S/Shire_Calendar.md).
 - [T.A.](../T/Third_Age.md) [3018](../T/Third_Age_3018.md):
-    - Nhóm [Hiệp hội Nhẫn](../F/Fellowship_of_the_Ring.md) đi về phía nam dọc theo [Dãy núi Sương mù](../M/Misty_Mountains.md).
+    - Con [Đoàn Hộ Nhẫn](../F/Fellowship_of_the_Ring.md) di chuyển về phía nam dọc theo [Dãy Núi Sương Mù](../M/Misty_Mountains.md).

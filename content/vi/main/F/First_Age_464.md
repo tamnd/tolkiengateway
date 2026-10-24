@@ -16,17 +16,17 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="First_Age_460.md" title="First Age 460">460</a><a href="First_Age_462.md" title="First Age 462">462</a><a href="First_Age_463.md" title="First Age 463">463</a><a class="mw-selflink selflink">464</a><a href="First_Age_465.md" title="First Age 465">465</a><a href="First_Age_466.md" title="First Age 466">466</a><a href="First_Age_467.md" title="First Age 467">467</a></div></div></div></div></div></div>
 
-**Kỷ nguyên thứ nhất 464** (viết tắt là **F.A. 464**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 464 của [Kỷ nguyên thứ nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
+**Kỷ Đệ Nhất 464** (viết tắt là **F.A. 464**) là năm [thứ 464 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Nhất](First_Age.md) của [Trung Địa](../M/Middle-earth.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
 ## Mùa đông {#Winter}
 
-- [Sauron](../S/Sauron.md) áp đảo [Dorthonion](../D/Dorthonion.md) với [bóng ma](../W/Wraiths.md), [người sói](../W/Werewolves.md) và những sinh vật hôi hám khác. Với cái giá phải trả, [Beren](../B/Beren.md) buộc phải chạy trốn khỏi Dorthonion và đến [Doriath](../D/Doriath.md).<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
+- [Sauron](../S/Sauron.md) chạy quá mức [Dorthonion](../D/Dorthonion.md) với [bóng ma](../W/Wraiths.md), [người sói](../W/Werewolves.md) và các sinh vật hôi hám khác. Với cái giá phải trả trên đầu, [Beren](../B/Beren.md) buộc phải chạy trốn Dorthonion và đến [Doriath](../D/Doriath.md).<sup id="cite_ref-Beren_1-0" class="reference"><a href="#cite_note-Beren-1">[1]</a></sup>
 
 ## Mùa xuân {#Spring}
 
-- Cuộc hôn nhân của [Húrin](../H/Húrin.md) và [Morwen](../M/Morwen.md). [Túrin](../T/Túrin.md) sinh vào cuối năm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- Hôn nhân của [Húrin](../H/Húrin.md) và [Morwen](../M/Morwen.md). [Túrin](../T/Túrin.md) sinh vào cuối năm.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Mùa hè {#Summer}
 

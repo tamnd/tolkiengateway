@@ -20,12 +20,12 @@ langlinks:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="../T/Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><b>I</b><a href="../S/Second_Age.md" title="Second Age">II</a><a href="../T/Third_Age.md" title="Third Age">III</a><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Trees</div><div class="tg-timelinenav-links"><a href="Year_of_the_Trees_1050.md" title="Year of the Trees 1050">1050</a><a href="Year_of_the_Trees_1080.md" title="Year of the Trees 1080">1080</a><a href="Year_of_the_Trees_1085.md" title="Year of the Trees 1085">1085</a><a class="mw-selflink selflink">1086</a><a class="new" href="https://tolkiengateway.net/w/index.php?title=Year_of_the_Trees_1088&amp;action=edit&amp;redlink=1" title="Year of the Trees 1088 (page does not exist)">1088</a><a href="Year_of_the_Trees_1090.md" title="Year of the Trees 1090">1090</a><a href="Year_of_the_Trees_1092.md" title="Year of the Trees 1092">1092</a></div></div></div></div></div></div>
 
-**Năm Cây 1086** (viết tắt là **Y.T. 1086**) là [năm Cây](Years_of_the_Trees.md) thứ 1086 trong [Kỷ nguyên thứ nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1086 cũng là **V.Y. 4586** trong [Năm Valian](../V/Valian_Years.md).
+**Năm Cây 1086** (viết tắt là **Y.T. 1086**) là [năm Cây](Years_of_the_Trees.md) thứ 1086 trong [Kỷ Đệ Nhất](../F/First_Age.md) của [Arda](../A/Arda.md). Năm Cây 1086 cũng là **V.Y. 4586** trong [Năm Valian](../V/Valian_Years.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Oromë](../O/Oromë.md) quay trở lại [Valinor](../V/Valinor.md) và nói với [Valar](../V/Valar.md) về [Những đứa trẻ của Ilúvatar](../F/Firstborn.md).<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
-- Trong khi các Valar tổ chức hội đồng, Oromë quay trở lại [Trung địa](../M/Middle-earth.md) để sống giữa các [Yêu tinh](../E/Elves.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
+- [Oromë](../O/Oromë.md) quay lại [Valinor](../V/Valinor.md) và thông báo cho [Valar](../V/Valar.md) về [Những Người Con của Ilúvatar](../F/Firstborn.md).<sup id="cite_ref-Annals_1-0" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
+- Trong khi Valar tổ chức hội đồng, Oromë quay trở lại [Trung Địa](../M/Middle-earth.md) để sống giữa [Tiên tộc](../E/Elves.md).<sup id="cite_ref-Annals_1-1" class="reference"><a href="#cite_note-Annals-1">[1]</a></sup>
 
 <span></span>
 

@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "Gildor"
 ---
 
-Chuyển hướng tới [Gildor](../G/Gildor.md).
+Chuyển hướng đến [Gildor](../G/Gildor.md).

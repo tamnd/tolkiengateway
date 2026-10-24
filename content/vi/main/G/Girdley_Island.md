@@ -35,17 +35,17 @@ infobox:
 
 ## Từ nguyên {#Etymology}
 
-[David Salo](../D/David_Salo.md) gợi ý một từ nguyên [Người Hobbit cổ](../O/Old_English.md) có thể có từ \**Gyrdlieg* "girdle-island".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> "Girdle" có lẽ ám chỉ việc nó được 'dây đai' (bao bọc) giữa các nhánh sông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
+[David Salo](../D/David_Salo.md) gợi ý một từ nguyên [Cũ Hobbitish](../O/Old_English.md) từ \**Gyrdlieg* "đảo vành đai".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> "Girdle" có lẽ ám chỉ việc nó được 'dây đai' (bao bọc) giữa các nhánh sông.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>
 
-Như trong [Rushey](../R/Rushey.md), đuôi <i><a class="extiw" href="http://en.wiktionary.org/wiki/ey#Old_Norse" title="wiktionary:ey">-ey</a></i> có nghĩa là "hòn đảo" trong [tiếng Bắc Âu cổ](../O/Old_Norse.md) và được tìm thấy trong tên đảo tiếng Anh (xem <a class="extiw" href="http://en.wikipedia.org/wiki/Gurnsey#Etymology" title="wikipedia:Gurnsey">Gurnsey</a>).
+Như trong [Rushey](../R/Rushey.md), phần cuối <i><a class="extiw" href="http://en.wiktionary.org/wiki/ey#Old_Norse" title="wiktionary:ey">-ey</a></i> có nghĩa là "đảo" trong [tiếng Bắc Âu cổ](../O/Old_Norse.md) và được tìm thấy trong tên các đảo trong tiếng Anh (xem <a class="extiw" href="http://en.wikipedia.org/wiki/Gurnsey#Etymology" title="wikipedia:Gurnsey">Gurnsey</a>).
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">Chúa tể của những chiếc nhẫn trực tuyến</a></i>:</b>
+<b>2007: <i><a href="../T/The_Lord_of_the_Rings_Online.md" title="The Lord of the Rings Online">The Lord of the Rings Trực tuyến</a></i>:</b>
 
 <dl><dd>Girdley Island was once a beacon-hill of <a href="../A/Arnor.md" title="Arnor">Arnor</a>, but was abandoned after the founding of the <a href="../T/The_Shire.md" title="The Shire">Shire</a>. It is located on the border with the in-game region of <a href="../B/Bree-land.md" title="Bree-land">Bree-land</a>. While identified as a point of interest, no quests take place there, nor are there any enemies.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></dd></dl>
 
-<b>2025: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../H/Hobbit_Tales.md" title="Hobbit Tales">Truyện Hobbit</a></i>:</b>
+<b>2025: <i><a href="../T/The_One_Ring_(role-playing_game).md" title="The One Ring (role-playing game)">Chiếc nhẫn duy nhất</a> — <a href="../H/Hobbit_Tales.md" title="Hobbit Tales">Hobbit Truyện</a></i>:</b>
 
 <dl><dd>Sometime before <a href="../T/Third_Age.md" title="Third Age">T.A.</a> <a href="../T/Third_Age_2960.md" title="Third Age 2960">2960</a>, the <a href="../R/Rangers_of_the_North.md" title="Rangers of the North">Rangers of the North</a> established a secret refuge on the island. This led to Hobbits believing the place to be haunted.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></dd></dl>
 

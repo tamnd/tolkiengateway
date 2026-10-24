@@ -26,13 +26,13 @@ Vào [11 tháng 3](../_/11_March.md) [1949](../_/1949.md), [J.R.R. Tolkien](../J
 
 ## Nội dung {#Contents}
 
-\[Mô tả:\] Thư có chữ ký gửi cho Cô R. Turnbull, báo cáo việc hoàn thành "Chúa tể của những chiếc nhẫn", đưa ra mô tả về *magnum opus* của ông, khẳng định đây là phần tiếp theo được cải tiến nhiều của *The Hobbit*, bày tỏ sự nghi ngờ về việc liệu nó có được xuất bản hay không và hứa sẽ gửi bản sao của cả *The Lord of the Rings* và tập in gần đây của ông, *Father Giles of Ham* \[sic\], khi chúng xuất hiện; Tolkien cũng cảm ơn cô vì đã khen ngợi công việc của anh và nhờ cô sắp xếp một số bông hoa để gửi cho Mẹ May Michael, một nữ tu đã kết bạn với hin \[sic\] vào năm 1917.
+\[Mô tả:\] Thư có chữ ký gửi cho Cô R. Turnbull, báo cáo việc hoàn thành "The Lord of the Rings", đưa ra mô tả về *magnum opus* của ông, khẳng định đây là phần tiếp theo được cải tiến nhiều của *The Hobbit*, bày tỏ sự nghi ngờ về việc liệu nó có được xuất bản hay không và hứa sẽ gửi bản sao của cả *The Lord of the Rings* và tập in gần đây của ông, *Father Giles of Ham* \[sic\], khi chúng xuất hiện; Tolkien cũng cảm ơn cô đã khen ngợi công việc của anh và nhờ cô sắp xếp vài bông hoa để gửi cho Mẹ May Michael, một nữ tu đã kết bạn với hin \[sic\] vào năm 1917.
 
 \[Đoạn trích\]:
 
-*Tôi có một truyện cổ tích ngắn khác sắp ra mắt (nội dung là Oxfordshire vào một khoảng thời gian cách đây đã lâu). Nhưng sau 12 năm làm việc, tôi chỉ mới hoàn thành và hiện đang đánh máy phần tiếp theo khổng lồ của "The Hobbit". Nó dài gấp ba lần cuốn đầu tiên, hay hơn rất nhiều (tôi nghĩ vậy), và tôi tự hỏi liệu mình có bao giờ nhìn thấy nó trên bản in hay không.*
+*Tôi có một truyện cổ tích ngắn khác sắp ra mắt (điểm là Oxfordshire vào một thời kỳ cách đây đã lâu). Nhưng sau 12 năm làm việc, tôi chỉ mới hoàn thành và hiện đang đánh máy phần tiếp theo khổng lồ của "The Hobbit". Nó dài gấp ba lần cuốn đầu tiên, hay hơn rất nhiều (tôi nghĩ vậy), và tôi tự hỏi liệu mình có bao giờ nhìn thấy nó trên bản in hay không.*
 
-*Tuy nhiên, tôi sẽ gửi cho bạn một bản sao của cả "Farmer Giles of Ham" và phần tiếp theo "Chúa tể của những chiếc nhẫn", khi chúng xuất hiện.*
+*Tuy nhiên, tôi sẽ gửi cho bạn một bản sao của cả "Farmer Giles of Ham" và Phần tiếp theo "The Lord of the Rings", khi chúng xuất hiện.*
 
 *Bây giờ tôi xin bạn giúp tôi một việc. Tôi hy vọng điều đó sẽ không có vẻ kỳ quặc đối với tôi hoặc làm phiền bạn nhiều. Tôi có một người bạn cũ rất thân, một trong các nữ tu dòng Mercy of Hull (cũng có một ngôi nhà ở Whitby). Tôi biết bà kể từ khi bà kết bạn với tôi trong bệnh viện với tư cách là một người lính cô đơn vào năm 1917. Bà hiện đã rất già và sắp kỷ niệm Năm Thánh Kim cương với tư cách là một nữ tu (60 tuổi!) vào ngày 15 tháng 3.*
 

@@ -16,11 +16,11 @@ sort_keys:
 
 <div class="tg-card tg-timelinenav floatright" style=""><div class="tg-card-header"><a href="Timeline.md" title="Timeline">Timeline</a> of <a href="../A/Arda.md" title="Arda">Arda</a></div><div class="tg-card-content"><div class="tg-card-body"><div class="tg-timelinenav-content"><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Age</div><div class="tg-timelinenav-links"><a href="../F/First_Age.md" title="First Age">I</a><a href="../S/Second_Age.md" title="Second Age">II</a><b>III</b><a href="../F/Fourth_Age.md" title="Fourth Age">IV</a><a href="../L/Later_Ages.md" title="Later Ages">V-VII</a></div></div><div class="tg-timelinenav-row citizen-overflow"><div class="tg-timelinenav-label">Year of the Sun</div><div class="tg-timelinenav-links"><a href="Third_Age_2670.md" title="Third Age 2670">2670</a><a href="Third_Age_2671.md" title="Third Age 2671">2671</a><a href="Third_Age_2680.md" title="Third Age 2680">2680</a><a class="mw-selflink selflink">2683</a><a href="Third_Age_2685.md" title="Third Age 2685">2685</a><a href="Third_Age_2691.md" title="Third Age 2691">2691</a><a href="Third_Age_2693.md" title="Third Age 2693">2693</a></div></div></div></div></div></div>
 
-**Kỷ thứ ba 2683** (viết tắt là **T.A. 2683**) là [năm Mặt Trời](../Y/Years_of_the_Sun.md) thứ 2683 của [Kỷ thứ ba](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Thời đại thứ ba 2683 còn được gọi là **S.R. 1083** trong [Tính toán quận](../S/Shire-reckoning.md).
+**Kỷ Đệ Tam 2683** (viết tắt là **T.A. 2683**) là năm [thứ 2683 của Mặt Trời](../Y/Years_of_the_Sun.md) thuộc [Kỷ Đệ Tam](Third_Age.md) của [Trung Địa](../M/Middle-earth.md). Kỷ Đệ Tam 2683 còn được gọi là **S.R. 1083** trong [lịch Shire](../S/Shire-reckoning.md).
 
 Các sự kiện đáng chú ý trong năm nay bao gồm:
 
-- [Isengrim Took II](../I/Isengrim_Took_II.md) trở thành [Thain](Thain.md) thứ mười (thuộc [Took](Took_Family.md) dòng<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) và bắt đầu khai quật [Great Smials](../G/Great_Smials.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+- [Isengrim Took II](../I/Isengrim_Took_II.md) trở thành [Thain](Thain.md) thứ mười (của dòng [Took](Took_Family.md)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>) và bắt đầu khai quật [Great Smials](../G/Great_Smials.md).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 <span></span>
 

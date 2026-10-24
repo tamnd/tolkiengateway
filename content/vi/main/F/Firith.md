@@ -20,7 +20,7 @@ images:
   - "CdxIconArticleDisambiguation.svg"
 ---
 
-**Firith** là tên [Sindarin](../S/Sindarin.md) để chỉ mùa cuối thu và được gọi là [Quellë](../Q/Quellë.md) trong [Quenya](../Q/Quenya.md). Trong [Tính toán Rivendell](../R/Reckoning_of_Rivendell.md), đây là mùa thứ tư trong sáu "mùa" và ít nhiều tương ứng với 54 ngày nằm trong khoảng từ [7 tháng 10](../_/7_October.md) đến [30 tháng 11](../_/30_November.md) trong [Lịch Quận](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+**Firith** là tên [Sindarin](../S/Sindarin.md) chỉ mùa cuối thu và được gọi là [Quellë](../Q/Quellë.md) trong [Quenya](../Q/Quenya.md). Trong [Tính toán của Rivendell](../R/Reckoning_of_Rivendell.md) nó là mùa thứ tư trong sáu "mùa" và ít nhiều tương ứng với 54 ngày nằm trong khoảng từ [7 tháng 10](../_/7_October.md) đến [30 tháng 11](../_/30_November.md) trong [Lịch Shire](../S/Shire_Calendar.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 <div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">See also: <a href="../N/Narbeleth.md" title="Narbeleth">Narbeleth</a></div></div>
 

@@ -35,17 +35,17 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-subtitle"><a href="Gnomes.md" title="Gnomes">Gnome</a></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Gelmir</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Biographical Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Other names</th><td class="tg-infobox-data"><i>Nelmer</i> (<a href="../Q/Qenya.md" title="Qenya">Q</a>)</td></tr><tr><th scope="row" class="tg-infobox-label">Position</th><td class="tg-infobox-data">King of the <a href="Gnomes.md" title="Gnomes">Gnomes</a></td></tr><tr><th scope="row" class="tg-infobox-label">Location</th><td class="tg-infobox-data"><a href="../V/Valinor.md" title="Valinor">Valinor</a><br/><a class="mw-redirect" href="Great_Lands.md" title="Great Lands">Great Lands</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Family</span></th></tr><tr><th scope="row" class="tg-infobox-label">Parentage</th><td class="tg-infobox-data"><a class="mw-redirect" href="Golfinweg.md" title="Golfinweg">Golfinweg</a></td></tr><tr><th scope="row" class="tg-infobox-label">Children</th><td class="tg-infobox-data"><a href="../F/Fingolfin.md" title="Fingolfin">Fingolfin</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Physical Description</span></th></tr><tr><th scope="row" class="tg-infobox-label">Gender</th><td class="tg-infobox-data">Male</td></tr></tbody></table>
 
-**Gelmir** là con trai của [Golfinweg](Golfinweg.md), Vua [Gnome](Gnomes.md) đầu tiên, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* và *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*.<sup id="cite_ref-Gel_1-0" class="reference"><a href="#cite_note-Gel-1">[1]</a></sup>
+**Gelmir** là con trai của [Golfinweg](Golfinweg.md), [Gnome](Gnomes.md) Vua đầu tiên, theo phiên bản đầu tiên của [huyền thoại](../L/Legendarium.md) gắn liền với *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)* và *[The Lay of the Children of Húrin](../T/The_Lay_of_the_Children_of_Húrin.md)*.<sup id="cite_ref-Gel_1-0" class="reference"><a href="#cite_note-Gel-1">[1]</a></sup>
 
 ## Lịch sử {#History}
 
-Sau cái chết của cha mình, Gelmir dẫn dắt người Gnomes đến [Great Lands](Great_Lands.md). Ông đã bị giết trong [Trận chiến của những giọt nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md#Other_versions_of_the_legendarium), và con trai ông [Fingolfin](../F/Fingolfin.md) chết khi cố gắng cứu [Fëanor](../F/Fëanor.md), người bị bắt và bị tra tấn sau trận chiến.<sup id="cite_ref-Gel_1-1" class="reference"><a href="#cite_note-Gel-1">[1]</a></sup>
+Sau cái chết của cha mình, Gelmir dẫn Gnomes đến [Great Lands](Great_Lands.md). Ông đã bị giết trong [Trận chiến nước mắt không đếm được](../B/Battle_of_Unnumbered_Tears.md#Other_versions_of_the_legendarium), và con trai ông [Fingolfin](../F/Fingolfin.md) chết khi cố gắng cứu [Fëanor](../F/Fëanor.md), người bị bắt và bị tra tấn sau trận chiến.<sup id="cite_ref-Gel_1-1" class="reference"><a href="#cite_note-Gel-1">[1]</a></sup>
 
 Chỉ có [Turgon](../T/Turgon.md), cháu trai của Gelmir, cùng với những người còn sót lại của ông, cũng như [các con trai của Fëanor](../S/Sons_of_Fëanor.md), trốn thoát được khỏi trận chiến.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Gelmir* có trong [Noldorin](../N/Noldorin.md), nhưng ý nghĩa của nó không rõ ràng. [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Nelmer</b></i>.<sup id="cite_ref-Gel_1-2" class="reference"><a href="#cite_note-Gel-1">[1]</a></sup>
+Tên *Gelmir* có trong [Noldorin](../N/Noldorin.md) nhưng ý nghĩa của nó không rõ ràng. [Qenya](../Q/Qenya.md) cùng nguồn gốc của nó là <i><b>Nelmer</b></i>.<sup id="cite_ref-Gel_1-2" class="reference"><a href="#cite_note-Gel-1">[1]</a></sup>
 
 ## Phả hệ {#Genealogy}
 
@@ -61,7 +61,7 @@ Tên *Gelmir* có trong [Noldorin](../N/Noldorin.md), nhưng ý nghĩa của nó
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Tên *Gelmir* cũng được áp dụng cho [Finwë](../F/Finwë.md), vị vua đầu tiên của người Gnomes, tại một số điểm trong truyền thuyết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
+Tên *Gelmir* cũng được áp dụng cho [Finwë](../F/Finwë.md), vị vua đầu tiên của Gnomes, tại một số điểm trong truyền thuyết.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>
 
 <span></span>
 

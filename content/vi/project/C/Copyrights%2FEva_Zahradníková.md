@@ -14,6 +14,6 @@ sort_keys:
   "Evidence of permission granted by copyright holders": "Zahradnikova, Eva"
 ---
 
-- Eva Zahradníková đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Eva_Zahradníková.md) trên [Cổng Tolkien](../../main/T/Tolkien_Gateway.md).
-- Ngày: 4 tháng 9 năm 2020
+- Eva Zahradníková đã vui lòng cho phép cô sử dụng [tác phẩm nghệ thuật của mình](../../category/I/Images_by_Eva_Zahradníková.md) trên [Tolkien Gateway](../../main/T/Tolkien_Gateway.md).
+- Ngày: 4 tháng Chín năm 2020
 - Người dùng đã xin phép qua DeviantArt: [IvarTheBoneless](https://tolkiengateway.net/wiki/User:IvarTheBoneless)

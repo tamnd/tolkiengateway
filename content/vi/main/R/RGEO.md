@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Road Goes Ever On (book)"
 ---
 
-Chuyển hướng đến [Con đường vẫn tiếp tục (sách)](<../T/The_Road_Goes_Ever_On_(book).md>).
+Chuyển hướng đến [The Road Goes Ever On (sách)](<../T/The_Road_Goes_Ever_On_(book).md>).

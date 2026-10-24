@@ -22,13 +22,13 @@ Nó được coi là *mori-* trong các hợp chất (xem từ nguyên bên dư�
 
 ## Từ nguyên {#Etymology}
 
-[Quendian nguyên thủy](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mori&amp;action=edit&amp;redlink=1" title="Mori (page does not exist)">mori</a></i> (trận chung kết ngắn *-i* trở thành *-e* trong màn [Common Eldarin](../C/Common_Eldarin.md))<sup id="cite_ref-HF_2-1" class="reference"><a href="#cite_note-HF-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Root](../S/Sundocarmë.md) [MOR](MOR~34024.md).<sup id="cite_ref-L297_1-1" class="reference"><a href="#cite_note-L297-1">[1]</a></sup>
+[Primitive Quendian](../P/Primitive_Quendian.md) <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Mori&amp;action=edit&amp;redlink=1" title="Mori (page does not exist)">mori</a></i> (trận chung kết ngắn *-i* trở thành *-e* ở màn [Common Eldarin](../C/Common_Eldarin.md))<sup id="cite_ref-HF_2-1" class="reference"><a href="#cite_note-HF-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> [Root](../S/Sundocarmë.md) [MOR](MOR~34024.md).<sup id="cite_ref-L297_1-1" class="reference"><a href="#cite_note-L297-1">[1]</a></sup>
 
 ## Xem thêm {#See_also}
 
 - [Morwe](Morwe.md)
-- [Morifinwë](Morifinwë.md)/<a class="new" href="https://tolkiengateway.net/w/index.php?title=Moryo&amp;action=edit&amp;redlink=1" title="Moryo (page does not exist)">Moryo</a> = "Vây đen tối"
-- [Moriquendi](Moriquendi.md)/[Moripendi](Moripendi.md) = "Yêu tinh bóng tối"
+- [Morifinwë](Morifinwë.md)/<a class="new" href="https://tolkiengateway.net/w/index.php?title=Moryo&amp;action=edit&amp;redlink=1" title="Moryo (page does not exist)">Moryo</a> = "Tối Finwë"
+- [Moriquendi](Moriquendi.md)/[Moripendi](Moripendi.md) = "Tiên Hắc Ám"
 - <a class="new" href="https://tolkiengateway.net/w/index.php?title=Morimait%C3%AB&amp;action=edit&amp;redlink=1" title="Morimaitë (page does not exist)">morimaitë</a> = "tay đen"
 - [Moringotto](Moringotto.md) = "Kẻ thù đen"
 - [Morion](Morion.md) = "kẻ đen tối"
@@ -37,7 +37,7 @@ Nó được coi là *mori-* trong các hợp chất (xem từ nguyên bên dư�
 
 ## Có cùng nguồn gốc {#Cognates}
 
-- [Tiếng Sindarin](../S/Sindarin.md) *[môr](Môr.md)*
+- [Sindarin](../S/Sindarin.md) *[môr](Môr.md)*
 
 <span></span>
 
@@ -53,4 +53,4 @@ Nó được coi là *mori-* trong các hợp chất (xem từ nguyên bên dư�
 </ol></div>
 
 - *[The Languages of Tolkien's Middle-earth](../T/The_Languages_of_Tolkien's_Middle-earth.md)* bởi [Ruth S. Noel](../R/Ruth_S._Noel.md)
-- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Danh sách từ Quenya Corpus</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)
+- <a class="external text" href="http://www.uib.no/People/hnohf/qlist.htm" rel="noreferrer noopener" target="_blank">Quenya Danh sách từ ngữ liệu</a> được chỉnh sửa bởi [Helge Fauskanger](../H/Helge_Fauskanger.md)

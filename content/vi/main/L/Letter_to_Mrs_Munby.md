@@ -19,7 +19,7 @@ images:
 Vào [21 tháng 10](../_/21_October.md) [1963](../_/1963.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết **[một lá thư](Letters_not_published_in_The_Letters_of_J.R.R._Tolkien.md) cho bà Munby**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 - **Chủ đề:** Viết cho bà Munby để trả lời một số câu hỏi do con trai bà Stephen đặt ra về *[The Lord of the Rings](../T/The_Lord_of_the_Rings.md)*, Tolkien thảo luận về nhiều chủ đề khác nhau.
-- **Mô tả:** 6 trang, 8vo, Hotel Miramar, Bournemouth và [76 Sandfield Road](../_/76_Sandfield_Road.md), Oxford, ngày 21 tháng 10 năm 1963, viết bằng mực đen và sau đó được làm rõ bằng chữ viết tay của Tolkien bằng mực đỏ.<sup id="cite_ref-Sotheby_2-0" class="reference"><a href="#cite_note-Sotheby-2">[2]</a></sup>
+- **Mô tả:** 6 trang, 8vo, Hotel Miramar, Bournemouth và [76 Sandfield Road](../_/76_Sandfield_Road.md), Oxford, ngày 21 tháng 10 năm 1963, viết bằng mực đen và sau này được làm rõ bằng chữ viết tay của Tolkien bằng mực đỏ.<sup id="cite_ref-Sotheby_2-0" class="reference"><a href="#cite_note-Sotheby-2">[2]</a></sup>
 - **Xuất bản:** Các đoạn trích và mô tả bức thư xuất hiện trong *[Sotheby's Literature and Illustration 11-12 July 2002](../S/Sotheby's_Literature_and_Illustration_11-12_July_2002.md)* và trong <i><a class="new" href="https://tolkiengateway.net/w/index.php?title=Sotheby%27s_Literature,_History_and_Children%27s_Books_12_December_2002&amp;action=edit&amp;redlink=1" title="Sotheby&#39;s Literature, History and Children&#39;s Books 12 December 2002 (page does not exist)">Sotheby's Văn học, Lịch sử và Sách thiếu nhi ngày 12 tháng 12 năm 2002</a></i>. Một đoạn trích từ bức thư đã được [Josh B. Long](../J/Josh_B._Long.md) đăng trong bài viết của mình trên [*Mythlore* 121/122](../M/Mythlore_121%252F122.md) (trang 35).
 
 ## Trích đoạn {#Excerpts}
@@ -53,7 +53,7 @@ Nhận xét từ [Sotheby's](../S/Sotheby's.md):<sup id="cite_ref-Sotheby_2-1" c
 ## Liên kết ngoài {#External_links}
 
 - <a class="external text" href="http://greenbooks.theonering.net/guest/files/041305.html" rel="noreferrer noopener" target="_blank">Sách Xanh (TheOneRing.net)</a>
-- <a class="external text" href="http://middle-earth.xenite.org/2011/12/08/what-is-the-munby-letter/" rel="noreferrer noopener" target="_blank">Bức thư Munby là gì?</a> của [Michael Martinez](../M/Michael_Martinez.md)
+- <a class="external text" href="http://middle-earth.xenite.org/2011/12/08/what-is-the-munby-letter/" rel="noreferrer noopener" target="_blank">Thư Munby là gì?</a> của [Michael Martinez](../M/Michael_Martinez.md)
 
 <span></span>
 

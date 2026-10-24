@@ -14,14 +14,14 @@ categories:
   - "Valinor"
 ---
 
-**Nhà của Tulkas** là nơi ở của [Tulkas](../T/Tulkas.md) ở [Valmar](../V/Valmar.md), thành phố của [Valar](../V/Valar.md) ở [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
+Ngôi nhà **của Tulkas** là nơi ở của [Tulkas](../T/Tulkas.md) ở [Valmar](../V/Valmar.md), thành phố của [Valar](../V/Valar.md) ở [Valinor](../V/Valinor.md).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup>
 
-Ngôi nhà được cho là đã "*cao lên không trung với nhiều tầng*" và có "*tháp đồng và các cột đồng trong một mái vòm rộng*". Nhà của Tulkas cũng có một sân, nơi các nhà vô địch tham gia các trò chơi thể thao. Thường có [Nessa](../N/Nessa.md), vợ của Tulkas, xuất hiện để mang những cốc rượu và đồ uống cho các cầu thủ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
+Ngôi nhà được cho là đã "*cao lên không trung với nhiều tầng*" và có "*tháp đồng và các cột đồng trong một mái vòm rộng*". Nhà của Tulkas còn có sân, nơi các nhà vô địch tham gia các trò chơi thể thao. Thường có [Nessa](../N/Nessa.md), vợ của Tulkas, xuất hiện để mang cốc rượu và đồ uống cho các cầu thủ.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[1]</a></sup>
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Khái niệm về việc Tulkas có một ngôi nhà ở Valmar chỉ xuất hiện trong phiên bản sớm nhất của <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a>, trong đó <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> thường bao gồm những mô tả phức tạp hơn về Valar so với các bản thảo của ông những năm sau đó.</span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Khái niệm Tulkas có một ngôi nhà ở Valmar chỉ xuất hiện trong phiên bản đầu tiên của <a href="../L/Legendarium.md" title="Legendarium">huyền thoại</a>, trong đó <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">Tolkien</a> thường bao gồm những mô tả phức tạp hơn về Valar so với các bản thảo sau này của ông năm.</span>
 </li>
 </ol></div></span>
 

@@ -40,7 +40,7 @@ infobox:
 
 <table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/M/Mallorn61.png.md"><img src="https://tolkiengateway.net/w/images/thumb/3/3e/Mallorn61.png/320px-Mallorn61.png" decoding="async" loading="lazy" width="320" height="449" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/3/3e/Mallorn61.png/480px-Mallorn61.png 1.5x, https://tolkiengateway.net/w/images/thumb/3/3e/Mallorn61.png/640px-Mallorn61.png 2x" data-file-width="1701" data-file-height="2386"/></a><figcaption></figcaption></figure></td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Mallorn 61</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Publication Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Editor</th><td class="tg-infobox-data">Luke Shelton</td></tr><tr><th scope="row" class="tg-infobox-label">Publisher</th><td class="tg-infobox-data"><a href="../T/The_Tolkien_Society.md" title="The Tolkien Society">The Tolkien Society</a></td></tr><tr><th scope="row" class="tg-infobox-label">Printer</th><td class="tg-infobox-data"><a class="external text" href="http://www.printedword.co.uk/" rel="noreferrer noopener" target="_blank">The Printed Word</a>, Horsham, UK</td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data">Winter 2020</td></tr><tr><th scope="row" class="tg-infobox-label">Format</th><td class="tg-infobox-data">A4 stapled paperback, glossy</td></tr><tr><th scope="row" class="tg-infobox-label">Pages</th><td class="tg-infobox-data">48</td></tr><tr><th scope="row" class="tg-infobox-label">ISSN</th><td class="tg-infobox-data">0308-6674</td></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><a href="Mallorn_60.md" title="Mallorn 60">Mallorn 60</a></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><a href="Mallorn_62.md" title="Mallorn 62">Mallorn 62</a></td></tr></tbody></table>
 
-<b><i>Mallorn</i> 61</b> là số thứ 61 của tạp chí thường niên của [Hiệp hội Tolkien](../T/The_Tolkien_Society.md) *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2020](../_/2020.md).
+<b><i>Mallorn</i> 61</b> là số thứ 61 của tạp chí thường niên [Hội Tolkien](../T/The_Tolkien_Society.md) của *[Mallorn](<Mallorn_(journal).md>)*, xuất bản vào Mùa đông [2020](../_/2020.md).
 
 ## Nội dung {#Contents}
 
@@ -51,18 +51,18 @@ infobox:
     - "Nhìn trước, nhìn sau"
         - Bởi: Luke Shelton
 - **Bài viết**
-    - " *Fantasy Landscape* của Tolkien"
+    - "Tolkien của *Fantasy Landscape*"
         - Bởi: Nancy Bunting và [Elizabeth Currie](../R/Ruth_Lacon.md)
-    - "Thách thức và xác định bóng tối"
+    - "Thách thức và xác định Bóng Tối"
         - Bởi: [Verlyn Flieger](../V/Verlyn_Flieger.md)
-    - "Nhà nghỉ Queer: Giới tính và Tình dục trong *The Lord of the Rings* - In lại với Lời giới thiệu mới của Tác giả"
+    - "Queer Lodgings: Giới tính và Tình dục trong *The Lord of the Rings* - In lại với Lời giới thiệu mới của Tác giả"
         - Bởi: David Craig
 - **Ghi chú**
     - "Kỷ niệm 'Nhà nghỉ dành cho người đồng tính'"
         - Bởi: Robin Anne Reid
     - "Oxford, Thành phố New York, Paris: Triển lãm Tolkien 2018-2020"
         - Bởi: [Marcel Aubron-Bülles](Marcel_Bülles.md)
-    - "Tolkien ở King's Heath"
+    - "Tolkien trong Vua's Heath"
         - Bởi: [Bob Blackham](../R/Robert_S._Blackham.md)
 - **Đánh giá**
     - *The Canons of Fantasy*
@@ -76,7 +76,7 @@ infobox:
     - *Tolkien’s Cosmology: Divine Beings and Middle-earth*
         - Bởi: Kate Neville
 - **Bài gửi**
-    - Thư gửi Ban biên tập
+    - Thư gửi Biên tập viên
     - Hướng dẫn dành cho tác giả
 - **Nghệ thuật nội tâm**
     - Bởi: [Soni Alcorn-Hender](../S/Soni_Alcorn-Hender.md), Tamsin Barlow, [Jenny Dolfen](../J/Jenny_Dolfen.md), [Anke Eissmann](../A/Anke_Eissmann.md), Wenjin Lu, [Ted Nasmith](../T/Ted_Nasmith.md), [J.R.R. Tolkien](../J/J.R.R._Tolkien.md)
@@ -85,4 +85,4 @@ infobox:
 
 ## Liên kết ngoài {#External_links}
 
-- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/62/" rel="noreferrer noopener" target="_blank">Số này tại trang web của The Tolkien Society</a>
+- <a class="external text" href="http://journals.tolkiensociety.org/mallorn/issue/view/62/" rel="noreferrer noopener" target="_blank">Vấn đề này tại trang web Hội Tolkien</a>

@@ -12,7 +12,7 @@ categories:
   - "Published articles"
 ---
 
-"**Các vị thần trở lại Trái đất**" là tựa đề bài phê bình văn học đầu tiên của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Nó được viết bởi [C.S. Lewis](../C/C.S._Lewis.md) và được xuất bản lần đầu trên *Time and Tide* vào [14 tháng 8](../_/14_August.md) [1954](../_/1954.md) (tr. 1082) khi xem xét *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*.
+"**Các vị thần trở lại Trái đất**" là tựa đề bài phê bình văn học đầu tiên của *[The Lord of the Rings](The_Lord_of_the_Rings.md)*. Nó được viết bởi [C.S. Lewis](../C/C.S._Lewis.md) và được xuất bản lần đầu trên *Time and Tide* vào [14 tháng 8](../_/14_August.md) [1954](../_/1954.md) (tr. 1082) khi đánh giá *[The Fellowship of the Ring](The_Fellowship_of_the_Ring.md)*.
 
 Trong bài viết, Lewis đã ví cuốn sách như một “tia chớp giữa bầu trời trong xanh” và so sánh nó với <a class="extiw" href="http://en.wikipedia.org/wiki/William_Blake" title="wikipedia:William Blake"></a> <i><a class="extiw" href="http://en.wikipedia.org/wiki/Songs_of_Innocence" title="wikipedia:Songs of Innocence">Những bài hát ngây thơ</a></i>của Blake. Đối với ông, nó đánh dấu sự trở lại đầy thắng lợi và nhẹ nhõm của thể loại lãng mạn anh hùng trong thời đại phản lãng mạn, đồng thời là một tác phẩm mang tính cách mạng trong thể loại đó.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 

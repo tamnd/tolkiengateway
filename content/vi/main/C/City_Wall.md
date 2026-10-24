@@ -38,17 +38,17 @@ infobox:
 
 ## Lịch sử {#History}
 
-Thành phố Minas Anor (sau này là Minas Tirith) có lẽ được xây dựng sau khi thành lập vương quốc [Gondor](../G/Gondor.md) ở [S.A.](../S/Second_Age.md) [3320](../S/Second_Age_3320.md) trước [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Minas Anor được xây dựng như một pháo đài nhỏ trên đỉnh Amon Anor chủ yếu để bảo vệ [Rath Dínen](../R/Rath_Dínen.md), Lăng mộ của các vị vua và ban đầu ít quan trọng hơn phía đông của nó đối tác [Minas Ithil](../M/Minas_Ithil.md) ([S.](../S/Sindarin.md) 'Tháp Mặt Trăng').<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Do đó, có thể Minas Anor không có đủ bảy cấp độ ở giai đoạn đầu và Tường Thành được xây dựng sau đó.
+Thành phố Minas Anor (sau này Minas Tirith) có lẽ được xây dựng sau khi thành lập vương quốc [Gondor](../G/Gondor.md) ở [S.A.](../S/Second_Age.md) [3320](../S/Second_Age_3320.md) trước [S.A.](../S/Second_Age.md) [3429](../S/Second_Age_3429.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> Minas Anor được xây dựng như một pháo đài nhỏ trên đỉnh Amon Anor chủ yếu để bảo vệ [Rath Dínen](../R/Rath_Dínen.md), Lăng mộ của các vị vua và ban đầu ít quan trọng hơn so với pháo đài phía đông của nó [Minas Ithil](../M/Minas_Ithil.md) ([S.](../S/Sindarin.md) 'Tháp Mặt Trăng').<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Do đó, có thể Minas Anor không có đủ bảy cấp độ ở giai đoạn đầu và Tường Thành được xây dựng sau đó.
 
-Trong [Trận chiến trên cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) vĩ đại vào [15 tháng 3](../_/15_March.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> đội quân của [Sauron](../S/Sauron.md) đã không cố gắng chọc thủng Tường Thành; thay vào đó họ tập trung vào việc phá Cổng Lớn.<sup id="cite_ref-Siege_6-0" class="reference"><a href="#cite_note-Siege-6">[6]</a></sup>
+Trong trận [Trận chiến trên Cánh đồng Pelennor](../B/Battle_of_the_Pelennor_Fields.md) lớn vào [15 tháng 3](../_/15_March.md) [3019](../T/Third_Age_3019.md),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> chủ nhà của [Sauron](../S/Sauron.md) đã không cố gắng chọc thủng Tường Thành; thay vào đó họ tập trung vào việc phá Cổng Lớn.<sup id="cite_ref-Siege_6-0" class="reference"><a href="#cite_note-Siege-6">[6]</a></sup>
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trên sơ đồ của Minas Tirith, được vẽ ở mặt sau của trang đánh máy, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) đã viết "**Othram** hoặc Tường thành" ở bên trái từ "Cổng lớn".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Mặc dù cụm từ "Tường thành" đã được sử dụng trong *[The Return of the King](../T/The_Return_of_the_King.md)*,<sup id="cite_ref-Tirith_1-1" class="reference"><a href="#cite_note-Tirith-1">[1]</a></sup> từ [Sindarin](../S/Sindarin.md) *Othram* không được đưa vào.
+Trên sơ đồ Minas Tirith, được vẽ ở mặt sau của trang đánh máy, [J.R.R. Tolkien](../J/J.R.R._Tolkien.md) viết "**Othram** hoặc Tường thành" ở bên trái từ "Cổng lớn".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> Mặc dù cụm từ "Tường thành" đã được sử dụng trong *[The Return of the King](../T/The_Return_of_the_King.md)*,<sup id="cite_ref-Tirith_1-1" class="reference"><a href="#cite_note-Tirith-1">[1]</a></sup> từ [Sindarin](../S/Sindarin.md) *Othram* không được đưa vào.
 
 ## Miêu tả trong các tác phẩm chuyển thể {#Portrayal_in_adaptations}
 
-<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">Chúa tể của những chiếc nhẫn: Sự trở lại của nhà vua</a></i>:</b>
+<b>2003: <i><a href="../T/The_Lord_of_the_Rings%253A_The_Return_of_the_King.md" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i>:</b>
 
 <dl><dd>Although the text of <i>The Return of the King</i> states that the outer wall of Minas Tirith was &#34;dark&#34; (see quotation above) in the movie, as in other depictions of the City, the wall is white.</dd></dl>
 

@@ -29,13 +29,13 @@ images:
 
 <figure typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/L/Luis_F._Bejarano_-_The_Gate_of_Wood.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/e/ea/Luis_F._Bejarano_-_The_Gate_of_Wood.jpg/250px-Luis_F._Bejarano_-_The_Gate_of_Wood.jpg" decoding="async" loading="lazy" width="250" height="183" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/e/ea/Luis_F._Bejarano_-_The_Gate_of_Wood.jpg/375px-Luis_F._Bejarano_-_The_Gate_of_Wood.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/e/ea/Luis_F._Bejarano_-_The_Gate_of_Wood.jpg/500px-Luis_F._Bejarano_-_The_Gate_of_Wood.jpg 2x" data-file-width="800" data-file-height="584"/></a><figcaption><i>The Gate of Wood</i> by <a href="../L/Luis_F._Bejarano.md" title="Luis F. Bejarano">Luis F. Bejarano</a></figcaption></figure>
 
-**Bảy cánh cổng Gondolin** là bảy cánh cổng hùng mạnh bảo vệ [Orfalch Echor](../O/Orfalch_Echor.md), một khe núi mà [Gondolin](../G/Gondolin.md) có thể tiếp cận qua [Tumladen](../T/Tumladen.md).
+**Bảy Cánh Cổng của Gondolin** là bảy cánh cổng hùng mạnh bảo vệ [Orfalch Echor](../O/Orfalch_Echor.md), một khe núi mà [Gondolin](../G/Gondolin.md) có thể tiếp cận qua [Tumladen](../T/Tumladen.md).
 
 ## Lịch sử {#History}
 
-Bảy Cổng được xây dựng bởi [Vua](../K/King_of_Gondolin.md) [Turgon](../T/Turgon.md) để bảo vệ Gondolin khỏi sự xâm lược. Chính qua những cánh cổng này mà [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) đã đi qua để vào Tumladen.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tuy nhiên, không phải qua những cánh cổng này mà đội quân của [Morgoth](../M/Morgoth.md) đã tiến vào và [vây hãm](../F/Fall_of_Gondolin.md) Gondolin, vì sau khi nghe [lời cảnh báo của Ulmo](../U/Ulmo's_warning.md), Turgon đã đóng cửa lại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
+Bảy Cánh Cổng được [Vua](../K/King_of_Gondolin.md) [Turgon](../T/Turgon.md) chế tạo để bảo vệ Gondolin khỏi sự xâm lược. Chính qua những cánh cổng này mà [Tuor](../T/Tuor.md) và [Voronwë](../V/Voronwë.md) đi qua để vào Tumladen.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> Tuy nhiên, không phải qua những cánh cổng này mà chủ quân của [Morgoth](../M/Morgoth.md) đã tiến vào và [vây hãm](../F/Fall_of_Gondolin.md) Gondolin, vì sau khi nghe thấy [Ulmo cảnh báo](../U/Ulmo's_warning.md), Turgon đã đóng cửa lại.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>
 
-Mỗi Bảy Cổng đều có các sư đoàn và đơn vị bảo vệ riêng, chẳng hạn như [Đội cận vệ bóng tối](../D/Dark_Guard.md),<sup id="cite_ref-SilmMaeglin_3-0" class="reference"><a href="#cite_note-SilmMaeglin-3">[3]</a></sup> được chỉ huy bởi các đội trưởng hoặc thủ lĩnh khác nhau, chẳng hạn như [Elemmakil](../E/Elemmakil.md). Các cổng, được liệt kê từ cuối Orfalch, xa nhất từ ​​Gondolin đến điểm cuối dẫn vào Tumladen, là:
+Mỗi Bảy Cánh Cổng đều có các sư đoàn và đơn vị bảo vệ riêng, chẳng hạn như [Đội cận vệ bóng tối](../D/Dark_Guard.md),<sup id="cite_ref-SilmMaeglin_3-0" class="reference"><a href="#cite_note-SilmMaeglin-3">[3]</a></sup> được chỉ huy bởi các đội trưởng hoặc thủ lĩnh khác nhau, chẳng hạn như [Elemmakil](../E/Elemmakil.md). Các cổng, được liệt kê từ cuối Orfalch xa nhất từ ​​ Gondolin đến điểm cuối mở vào Tumladen, là:
 
 - [Cổng gỗ](../G/Gate_of_Wood.md)
 - [Cổng đá](../G/Gate_of_Stone.md)
@@ -47,7 +47,7 @@ Mỗi Bảy Cổng đều có các sư đoàn và đơn vị bảo vệ riêng, 
 
 ## Xem thêm {#See_also}
 
-- [Hình ảnh Bảy cánh cổng](../../category/I/Images_of_the_Seven_Gates.md)
+- [Hình ảnh của Bảy Cánh Cổng](../../category/I/Images_of_the_Seven_Gates.md)
 
 <span></span>
 

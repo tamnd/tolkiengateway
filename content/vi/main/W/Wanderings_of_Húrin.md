@@ -10,4 +10,4 @@ redirect: true
 redirect_target: "The Wanderings of Húrin"
 ---
 
-Chuyển hướng đến [Chuyến lang thang của Húrin](../T/The_Wanderings_of_Húrin.md).
+Chuyển hướng đến [Những chuyến lang thang của Húrin](../T/The_Wanderings_of_Húrin.md).

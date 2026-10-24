@@ -21,7 +21,7 @@ images:
 
 ## Quy ước đặt tên {#Naming_conventions}
 
-Những ngọn núi của Titan (được gọi là *montes*)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> được đặt tên theo những ngọn núi ở [Trung Địa](../M/Middle-earth.md) trong khi *colles*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> được đặt tên theo các nhân vật do [Tolkien](Tolkien.md) tạo ra.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup>
+Các ngọn núi của Titan (được gọi là *montes*)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[note 1]</a></sup> được đặt tên theo các ngọn núi trong [Trung Địa](../M/Middle-earth.md) trong khi *colles*,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[note 2]</a></sup> được đặt tên theo các ký tự được tạo bởi [Tolkien](Tolkien.md).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[1]</a></sup>
 
 ## Mont {#Montes}
 
@@ -46,7 +46,7 @@ Những ngọn núi của Titan (được gọi là *montes*)<sup id="cite_ref-1
 - [Bilbo](../B/Bilbo.md) Colles
 - [Faramir](../F/Faramir.md) Colles
 - [Gandalf](../G/Gandalf.md) Colles
-Colles - [Handir](../H/Handir.md)
+- [Handir](../H/Handir.md) Colles
 - [Nimloth](../N/Nimloth_of_Doriath.md) Colles
 
 ## Liên kết ngoài {#External_links}

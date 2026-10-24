@@ -19,7 +19,7 @@ langlinks:
     url: "https://kontu.wiki/Menelya"
 ---
 
-**Menelya** là tên [Quenya](../Q/Quenya.md) của ngày thứ năm trong tuần lễ sáu ngày [Eldarin](../E/Eldar.md) (và của tuần lễ bảy ngày [Númenórean](../N/Númenóreans.md)), tên của nó ám chỉ [Thiên đường](Menel.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Ormenel**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Menelya** là tên [Quenya](../Q/Quenya.md) của ngày thứ năm trong tuần [Eldarin](../E/Eldar.md) sáu ngày (và của [Númenórean](../N/Númenóreans.md) tuần bảy ngày), tên của nó ám chỉ [Thiên đường](Menel.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Ormenel**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

@@ -21,7 +21,7 @@ langlinks:
     url: "https://kontu.wiki/E%C3%A4renya"
 ---
 
-**Eärenya** ("Ngày biển") là tên [Quenya](../Q/Quenya.md) của ngày thứ sáu trong tuần bảy ngày [Númenórean](../N/Númenóreans.md), tên của nó ám chỉ [Biển](../B/Belegaer.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Oraearon**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
+**Eärenya** ("Biển-day") là tên [Quenya](../Q/Quenya.md) của ngày thứ sáu trong tuần [Númenórean](../N/Númenóreans.md) bảy ngày, tên của nó đề cập đến [Biển](../B/Belegaer.md). Tên [Sindarin](../S/Sindarin.md) của nó là **Oraearon**.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup> <span></span>
 
 ## Tài liệu tham khảo {#References}
 

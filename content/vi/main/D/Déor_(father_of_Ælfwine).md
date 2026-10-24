@@ -44,15 +44,15 @@ infobox:
 
 ## Lịch sử {#History}
 
-Déor đến từ một nơi nào đó ở phía nam [Lúthien](../L/Luthany.md), mặc dù anh cũng đã dành một thời gian ở [Lionesse](../L/Lionesse.md) nơi anh gặp vợ mình, người mà anh gọi là [Éadgifu](../_/Éadgifu.md).
+Déor đến từ một nơi nào đó ở phía nam [Lúthien](../L/Luthany.md), mặc dù ông cũng đã dành một thời gian ở [Lionesse](../L/Lionesse.md) nơi ông gặp vợ mình, người mà ông gọi là [Éadgifu](../_/Éadgifu.md).
 
-Sau đó, anh chuyển đến thành phố [Kortirion](../K/Kortirion.md#Other_versions_of_the_legendarium),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> được cai trị bởi [Hoàng tử Gwar](../P/Prince_of_Gwar.md) tên là [Óswine](<../_/Óswine_(prince_of_Gwar).md>), vì anh mong muốn được gần gũi với [Yêu tinh](../E/Elves.md), những người vẫn sống quanh thành phố vì Óswine rất thân thiện với họ. Ở đó, Éadgifu sinh ra đứa con trai Ælfwine của họ, cậu bé thừa hưởng niềm khao khát biển cả không nguôi của mẹ cô.<sup id="cite_ref-Deo_2-1" class="reference"><a href="#cite_note-Deo-2">[2]</a></sup>
+Sau đó, anh chuyển đến thành phố [Kortirion](../K/Kortirion.md#Other_versions_of_the_legendarium),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[note 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup> được cai trị bởi [Thân vương của Gwar](../P/Prince_of_Gwar.md) tên là [Óswine](<../_/Óswine_(prince_of_Gwar).md>), vì anh muốn được ở gần [Tiên tộc](../E/Elves.md), người vẫn sống quanh thành phố vì Óswine rất thân thiện với họ. Tại đây, Éadgifu sinh ra đứa con trai Ælfwine, cậu bé thừa hưởng niềm khao khát biển cả không nguôi của mẹ cô.<sup id="cite_ref-Deo_2-1" class="reference"><a href="#cite_note-Deo-2">[2]</a></sup>
 
 Tuy nhiên, khi Ælfwine vẫn còn là một cậu bé, một dân tộc hung dữ được gọi là <a class="new" href="https://tolkiengateway.net/w/index.php?title=Forodwaith_(The_Book_of_Lost_Tales)&amp;action=edit&amp;redlink=1" title="Forodwaith (The Book of Lost Tales) (page does not exist)">Forodwaith</a> (tức là <a class="extiw" href="http://en.wikipedia.org/wiki/Vikings" title="wikipedia:Vikings">Người Viking</a>) đã tấn công Kortirion và bao vây nó, trong đó Déor chết khi dẫn đầu một "cuộc tấn công tuyệt vọng" trước bức tường,<sup id="cite_ref-Deo_2-2" class="reference"><a href="#cite_note-Deo-2">[2]</a></sup> bị giết bởi [Orm](../O/Orm.md) thuyền trưởng biển của Chờ đợi.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>
 
 ## Từ nguyên {#Etymology}
 
-Tên *Déor* theo [tiếng Anh cổ](../O/Old_English.md), có nghĩa là "dũng cảm, táo bạo".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
+Tên *Déor* có trong [tiếng Anh cổ](../O/Old_English.md), nghĩa là "dũng cảm, táo bạo".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[5]</a></sup>
 
 Trong một lần xuất hiện, ký tự này được gọi là *Heorrenda* trước khi được đổi lại thành *Déor*.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[6]</a></sup>
 
@@ -71,12 +71,12 @@ Nhân vật Déor có lẽ được lấy cảm hứng từ bài thơ tiếng An
 ## Xem thêm {#See_also}
 
 - [Éadwine](../_/Éadwine.md), cha đẻ của Ælfwine trong [huyền thoại](../L/Legendarium.md) sau này
-- [Eoh](../E/Eoh.md), cha của [Eriol](../E/Eriol.md) trong truyền thuyết trước đó
+- [Eoh](../E/Eoh.md), cha đẻ của [Eriol](../E/Eriol.md) trong truyền thuyết trước đó
 
 ## Ghi chú {#Notes}
 
 <span><div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Kortirion là tên <a href="../Q/Qenya.md" title="Qenya">Elvish</a> của thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick" title="wikipedia:Warwick">Warwick</a>.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Kortirion là <a href="../Q/Qenya.md" title="Qenya">Elvish</a> tên của thị trấn <a class="extiw" href="http://en.wikipedia.org/wiki/Warwick" title="wikipedia:Warwick">Warwick</a>.</span>
 </li>
 </ol></div></span>
 

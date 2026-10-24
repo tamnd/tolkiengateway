@@ -26,7 +26,7 @@ images:
 
 Nhiều **bộ xúc xắc** khác nhau đã được phát hành cho *[The One Ring](<The_One_Ring_(role-playing_game).md>)* trò chơi nhập vai.
 
-Trái ngược với các trò chơi như *[Dungeons and Dragons](../D/Dungeons_and_Dragons.md)* và *Lord of the Rings* phiên bản chuyển thể *[Adventures in Middle-earth](../A/Adventures_in_Middle-earth.md)* và *[The Lord of the Rings Roleplaying](The_Lord_of_the_Rings_Roleplaying.md)* của nó, sử dụng [nhiều loại xúc xắc hơn](../R/RPG_Dice.md), *The One Ring* chỉ sử dụng xúc xắc sáu mặt và mười hai mặt. Cả hai viên xúc xắc đều có các dấu hiệu dành riêng cho trò chơi: xúc xắc sáu mặt có thêm một chữ cái [Lambë](../L/Lambë.md) trên sáu mặt, trong khi trên xúc xắc mười hai mặt, mười một mặt thể hiện [Con mắt của Sauron](../E/Eye_of_Sauron.md) và mười hai mặt thể hiện chữ rune của Gandalf.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
+Trái ngược với các trò chơi như *[Dungeons and Dragons](../D/Dungeons_and_Dragons.md)* và *Lord of the Rings* phiên bản chuyển thể *[Adventures in Middle-earth](../A/Adventures_in_Middle-earth.md)* và *[The Lord of the Rings Roleplaying](The_Lord_of_the_Rings_Roleplaying.md)* của nó, sử dụng [nhiều loại xúc xắc hơn](../R/RPG_Dice.md), *The One Ring* chỉ sử dụng xúc xắc sáu mặt và mười hai mặt. Cả hai viên xúc xắc đều có các dấu hiệu dành riêng cho trò chơi: xúc xắc sáu mặt có thêm một chữ cái [Lambë](../L/Lambë.md) trên sáu mặt, trong khi trên xúc xắc mười hai mặt, số mười một hiển thị [Con Mắt của Sauron](../E/Eye_of_Sauron.md) và mười hai mặt hiển thị chữ rune của Gandalf.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 
 ## Ấn bản đầu tiên {#First_Edition}
 
