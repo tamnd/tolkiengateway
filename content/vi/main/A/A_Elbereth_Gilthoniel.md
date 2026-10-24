@@ -31,16 +31,16 @@ images:
   - "J.R.R._Tolkien_-_A_Elbereth_Gilthoniel.mp3"
 ---
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/b/b4/CdxIconBold-f.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">This article displays one of <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>&#39;s <a href="../../category/W/Writing_systems.md" title="Category:Writing systems">writing systems</a>. For optimal viewing, install the following font: <b><a class="external text" href="https://online-fonts.com/fonts/tengwar-parmaite" rel="noreferrer noopener" target="_blank">Tengwar Parmaite</a> by <a href="../M/Måns_Björkman.md" title="Måns Björkman">Måns Björkman</a></b>.
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/b/b4/CdxIconBold-f.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Bài viết này hiển thị một trong các <a href="../../category/W/Writing_systems.md" title="Category:Writing systems">hệ thống chữ viết</a> của <a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a>. Để xem tối ưu, hãy cài đặt phông chữ sau: <b><a class="external text" href="https://online-fonts.com/fonts/tengwar-parmaite" rel="noreferrer noopener" target="_blank">Tengwar Parmaite</a> của <a href="../M/Måns_Björkman.md" title="Måns Björkman">Måns Björkman</a></b>.
 </div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Elbereth</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="../E/Elbereth_(disambiguation).md" title="Elbereth (disambiguation)">Elbereth (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Elbereth</b> đề cập đến nhiều nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="../E/Elbereth_(disambiguation).md" title="Elbereth (disambiguation)">Elbereth (định hướng)</a></b>.</div></div>
 
 **A Elbereth Gilthoniel** hoặc **Aerlinn in edhil o Imladris** là một *[aerlinn](Aerlinn.md)* (bài thơ) của [Rivendell](../R/Rivendell.md), hướng tới [Varda](../V/Varda.md), được hát bằng [Sindarin](../S/Sindarin.md) theo thể tứ bộ iambic. Khổ thơ đầu tiên, cũng là khổ duy nhất được biết đến, gieo vần theo sơ đồ: *aababcc*.
 
 ## Bài thơ {#Poem}
 
-<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/5/53/J.R.R._Tolkien_-_A_Elbereth_Gilthoniel.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_A_Elbereth_Gilthoniel.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_A_Elbereth_Gilthoniel.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> reads A Elbereth Gilthoniel</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><audio src="https://tolkiengateway.net/w/images/5/53/J.R.R._Tolkien_-_A_Elbereth_Gilthoniel.mp3" width="300" class="mw-file-element" style="max-width: 100%; width: 300px;" controls=""><a href="https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_A_Elbereth_Gilthoniel.mp3">https://tolkiengateway.net/wiki/File:J.R.R._Tolkien_-_A_Elbereth_Gilthoniel.mp3</a></audio><figcaption><a href="../J/J.R.R._Tolkien.md" title="J.R.R. Tolkien">J.R.R. Tolkien</a> đọc A Elbereth Gilthoniel</figcaption></figure>
 
 <table>
 <tbody><tr>
@@ -56,7 +56,7 @@ images:
 <tr>
 <td><em style="font: normal 1.7em/1.5em &#39;Tengwar Annatar&#39;, &#39;Tengwar Quenya&#39;, &#39;Tengwar Sindarin&#39;, &#39;Tengwar Formal&#39;, &#39;Tengwar Parmaite&#39;, &#39;Tengwar Elfica&#39;">h yl6lj ]sj]7 ljl6]3Á</em>
 </td>
-<td><i>o menel aglar elenath!</i>
+<td><i>ôi menel aglar elenath!</i>
 </td></tr>
 <tr>
 <td><em style="font: normal 1.7em/1.5em &#39;Tengwar Annatar&#39;, &#39;Tengwar Quenya&#39;, &#39;Tengwar Sindarin&#39;, &#39;Tengwar Formal&#39;, &#39;Tengwar Parmaite&#39;, &#39;Tengwar Elfica&#39;">6]d]Ý7l2 q]j]62`V7`lj</em>
@@ -66,7 +66,7 @@ images:
 <tr>
 <td><em style="font: normal 1.7em/1.5em &#39;Tengwar Annatar&#39;, &#39;Tengwar Quenya&#39;, &#39;Tengwar Sindarin&#39;, &#39;Tengwar Formal&#39;, &#39;Tengwar Parmaite&#39;, &#39;Tengwar Elfica&#39;">h s]j]47lt`6 l5h7]3=</em>
 </td>
-<td><i>o galadhremmin ennorath, </i>
+<td><i>ôi galadhremmin ennorath, </i>
 </td></tr>
 <tr>
 <td><em style="font: normal 1.7em/1.5em &#39;Tengwar Annatar&#39;, &#39;Tengwar Quenya&#39;, &#39;Tengwar Sindarin&#39;, &#39;Tengwar Formal&#39;, &#39;Tengwar Parmaite&#39;, &#39;Tengwar Elfica&#39;">e]6.Õjh8= jl j`5]3h6</em>
@@ -81,14 +81,14 @@ images:
 
 ### Bản dịch {#Translation}
 
-<dl><dd><i>O Elbereth Starkindler<br/>(white) glittering slants down<br/>sparkling like jewels<br/>from [the] firmament [the] glory [of] the star-host!<br/>To-remote distance far-having gazed <br/>from [the] tree-tangled middle-lands,<br/><a class="mw-redirect" href="../F/Fanuilos.md" title="Fanuilos">Fanuilos</a>, to thee I will chant<br/>on this side of ocean, here on this side of the Great Ocean!</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></dd></dl>
+<dl><dd><i>Hỡi Elbereth Starkindler<br/>(màu trắng) lấp lánh nghiêng xuống<br/>lấp lánh như những viên ngọc<br/>từ [the] bầu trời [the] vinh quang [của] vật chủ ngôi sao!<br/>Từ xa đến xa nhìn về <br/>từ [the] vùng trung du rợp bóng cây,<br/><a class="mw-redirect" href="../F/Fanuilos.md" title="Fanuilos">Fanuilos</a>, tôi sẽ đến với ngươi tụng kinh<br/>ở bên này đại dương, ở bên này Đại Dương!</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></dd></dl>
 
 Phần còn lại không được lưu lại, nhưng có thể *[Oh Snow-white](../E/Elven_Hymn_to_Elbereth.md)* là bản dịch hoặc biến thể bằng [Westron](../W/Westron.md) của aerlinn này. Các biến thể của bài thánh ca này được hát xuyên suốt cuốn sách, chẳng hạn như bài cuối cùng được chép lại:
 
 <blockquote class="tg-quote noexcerpt">
-<p>...and as if in answer, from down below, coming up the road out of the valley, voices sang:
+<p>...và như để trả lời, từ phía dưới, trên con đường dẫn ra khỏi thung lũng, có những giọng hát vang lên:
 </p>
-<dl><dd>A! Elbereth Gilthoniel!<br/>silivren penna míriel<br/>o menel aglar elenath,<br/>Gilthoniel, A! Elbereth!<br/>We still remember, we who dwell<br/>In this far land beneath the trees<br/>The starlight on the Western Seas.</dd></dl>
+<dl><dd>MỘT! Elbereth Gilthoniel!<br/>silivren penna míriel<br/>o menel aglar elenath,<br/>Gilthoniel, A! Elbereth!<br/>Chúng ta vẫn nhớ, chúng ta, những người sống<br/>Ở vùng đất xa xôi dưới tán cây<br/>Ánh sáng sao trên Biển Tây.</dd></dl>
 <p class="tg-quote-footer"><cite><a href="../F/Frodo_Baggins.md" title="Frodo Baggins">Frodo Baggins</a> in <i><a href="../T/The_Return_of_the_King.md" title="The Return of the King">The Return of the King</a></i>, &#34;<a class="mw-redirect" href="../T/The_Grey_Havens.md" title="The Grey Havens">The Grey Havens</a>&#34;</cite></p>
 </blockquote>
 

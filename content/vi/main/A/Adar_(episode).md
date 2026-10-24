@@ -39,18 +39,18 @@ infobox:
     value: "The Great Wave"
 ---
 
-<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Incomplete</div></div><div class="ext-floatingui-content">This article or section is in the early stages of construction and should not be viewed as complete, or even close to being finished.<blockquote class="tg-quote noexcerpt">
-<p>We have a long way to go, and there is time ahead for thought.
+<div class="t-maintenance metadata t-maintenance--yellow"><div class="ext-floatingui-reference"><div class="t-maintenance-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/2/2c/Material_icon_-_Construction.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="t-maintenance-label">Chưa hoàn chỉnh</div></div><div class="ext-floatingui-content">Bài viết hoặc phần này đang trong giai đoạn xây dựng ban đầu và không được coi là hoàn chỉnh hoặc thậm chí sắp hoàn thành.<blockquote class="tg-quote noexcerpt">
+<p>Chúng ta còn một chặng đường dài phía trước và vẫn còn thời gian để suy nghĩ.
 </p>
 <p class="tg-quote-footer"><cite><a href="../T/Treebeard.md" title="Treebeard">Treebeard</a></cite></p>
 </blockquote></div></div>
 
-<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">The name <b>Adar</b> refers to more than one character, item or concept. For a list of other meanings, see <b><a class="mw-disambig" href="Adar_(disambiguation).md" title="Adar (disambiguation)">Adar (disambiguation)</a></b>.</div></div>
+<div class="tg-hatnote metadata noprint"><div class="tg-hatnote-icon"><span typeof="mw:File"><span><img src="https://tolkiengateway.net/w/images/c/c6/CdxIconArticleDisambiguation.svg" decoding="async" loading="lazy" width="16" height="16" class="mw-file-element" data-file-width="20" data-file-height="20"/></span></span></div><div class="tg-hatnote-content">Tên <b>Adar</b> đề cập đến nhiều hơn một nhân vật, vật phẩm hoặc khái niệm. Để biết danh sách các ý nghĩa khác, xem <b><a class="mw-disambig" href="Adar_(disambiguation).md" title="Adar (disambiguation)">Adar (định hướng)</a></b>.</div></div>
 
-<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg 1.5x, https://tolkiengateway.net/w/images/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Episode</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Adar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Information</span></th></tr><tr><th scope="row" class="tg-infobox-label">Director</th><td class="tg-infobox-data"><a href="../W/Wayne_Che_Yip.md" title="Wayne Che Yip">Wayne Che Yip</a></td></tr><tr><th scope="row" class="tg-infobox-label">Writer</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Cahill&amp;action=edit&amp;redlink=1" title="Jason Cahill (page does not exist)">Jason Cahill</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justin_Doble&amp;action=edit&amp;redlink=1" title="Justin Doble (page does not exist)">Justin Doble</a></td></tr><tr><th scope="row" class="tg-infobox-label">Music</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Studio</th><td class="tg-infobox-data"><a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Released</th><td class="tg-infobox-data"><a href="../_/9_September.md" title="9 September">9 September</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">69 minutes</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt11609034" rel="noreferrer noopener" target="_blank">Profile</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Navigation</span></th></tr><tr><th scope="row" class="tg-infobox-label">Preceded by</th><td class="tg-infobox-data"><i><a href="Adrift.md" title="Adrift">Adrift</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Followed by</th><td class="tg-infobox-data"><i><a href="../T/The_Great_Wave.md" title="The Great Wave">The Great Wave</a></i></td></tr></tbody></table>
+<table class="tg-infobox floatright"><tbody><tr><td colspan="2" class="tg-infobox-image"><figure class="mw-halign-center" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg/320px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg" decoding="async" loading="lazy" width="320" height="320" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg/480px-The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg 1.5x, https://tolkiengateway.net/w/images/6/61/The_Lord_of_the_Rings_The_Rings_of_Power_-_Adar.jpg 2x" data-file-width="500" data-file-height="500"/></a><figcaption></figcaption></figure></td></tr><tr><td colspan="2" class="tg-infobox-subtitle">Tập phim</td></tr><tr><th colspan="2" class="tg-infobox-title"><span>Adar</span></th></tr><tr><th colspan="2" class="tg-infobox-header"><span>Thông tin</span></th></tr><tr><th scope="row" class="tg-infobox-label">Đạo diễn</th><td class="tg-infobox-data"><a href="../W/Wayne_Che_Yip.md" title="Wayne Che Yip">Wayne Che Yip</a></td></tr><tr><th scope="row" class="tg-infobox-label">Tác giả</th><td class="tg-infobox-data"><a class="new" href="https://tolkiengateway.net/w/index.php?title=Jason_Cahill&amp;action=edit&amp;redlink=1" title="Jason Cahill (page does not exist)">Jason Cahill</a><br/><a class="new" href="https://tolkiengateway.net/w/index.php?title=Justin_Doble&amp;action=edit&amp;redlink=1" title="Justin Doble (page does not exist)">Justin Doble</a></td></tr><tr><th scope="row" class="tg-infobox-label">Âm nhạc</th><td class="tg-infobox-data"><a href="../B/Bear_McCreary.md" title="Bear McCreary">Bear McCreary</a><br/>Main Title by <a href="../H/Howard_Shore.md" title="Howard Shore">Howard Shore</a></td></tr><tr><th scope="row" class="tg-infobox-label">Hãng phim</th><td class="tg-infobox-data"><a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></td></tr><tr><th scope="row" class="tg-infobox-label">Phát hành</th><td class="tg-infobox-data"><a href="../_/9_September.md" title="9 September">9 September</a> <a href="../_/2022.md" title="2022">2022</a></td></tr><tr><th scope="row" class="tg-infobox-label">Runtime</th><td class="tg-infobox-data">69 phút</td></tr><tr><th scope="row" class="tg-infobox-label">IMDb</th><td class="tg-infobox-data"><a class="external text" href="https://www.imdb.com/title/tt11609034" rel="noreferrer noopener" target="_blank">Hồ sơ</a></td></tr><tr><th colspan="2" class="tg-infobox-header"><span>Điều hướng</span></th></tr><tr><th scope="row" class="tg-infobox-label">Trước đó</th><td class="tg-infobox-data"><i><a href="Adrift.md" title="Adrift">Adrift</a></i></td></tr><tr><th scope="row" class="tg-infobox-label">Tiếp theo</th><td class="tg-infobox-data"><i><a href="../T/The_Great_Wave.md" title="The Great Wave">The Great Wave</a></i></td></tr></tbody></table>
 
 <div class="tg-quote-container"><div class="tg-section-divider"><span>”</span></div><blockquote class="tg-quote noexcerpt">
-<p><a href="Arondir.md" title="Arondir">Arondir</a> finds himself a captive; <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> and <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> explore a legendary <a href="../N/Númenor.md" title="Númenor">kingdom</a>; <a href="../E/Elendil.md" title="Elendil">Elendil</a> is given a new assignment; <a href="../N/Nori.md" title="Nori">Nori</a> faces the consequences.
+<p><a href="Arondir.md" title="Arondir">Arondir</a> thấy mình bị giam cầm; <a href="../G/Galadriel.md" title="Galadriel">Galadriel</a> và <a href="../H/Halbrand.md" title="Halbrand">Halbrand</a> khám phá một <a href="../N/Númenor.md" title="Númenor">vương quốc</a> huyền thoại; <a href="../E/Elendil.md" title="Elendil">Elendil</a> được giao nhiệm vụ mới; <a href="../N/Nori.md" title="Nori">Nori</a> phải đối mặt với hậu quả.
 </p>
 <p class="tg-quote-footer"><cite>Official Synopsis, <a class="mw-redirect" href="Amazon_Studios.md" title="Amazon Studios">Amazon Studios</a></cite></p>
 </blockquote><div class="tg-section-divider"></div></div>
@@ -83,12 +83,12 @@ Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots
 
 ## Truyền {#Cast}
 
-<dl><dd><i>In order of appearance</i> (in episode credits)</dd></dl>
+<dl><dd><i>In order of appearance</i> (trong phần ghi công của tập)</dd></dl>
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td><a href="../I/Ismael_Cruz_Córdova.md" title="Ismael Cruz Córdova">Ismael Cruz Córdova</a></td>
@@ -116,7 +116,7 @@ Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots
 </td></tr>
 <tr>
 <td><a href="../C/Cynthia_Addai-Robinson.md" title="Cynthia Addai-Robinson">Cynthia Addai-Robinson</a></td>
-<td><a href="../T/Tar-Míriel.md" title="Tar-Míriel">Queen Regent Míriel</a>
+<td><a href="../T/Tar-Míriel.md" title="Tar-Míriel">Nhiếp chính vương hậu Míriel</a>
 </td></tr>
 <tr>
 <td><a href="../T/Trystan_Gravelle.md" title="Trystan Gravelle">Trystan Gravelle</a></td>
@@ -164,7 +164,7 @@ Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots
 </td></tr>
 <tr>
 <td><a href="../D/Daniel_Weyman.md" title="Daniel Weyman">Daniel Weyman</a></td>
-<td><a href="../T/The_Stranger.md" title="The Stranger">The Stranger</a>
+<td><a href="../T/The_Stranger.md" title="The Stranger">Kẻ lạ mặt</a>
 </td></tr>
 <tr>
 <td><a class="new" href="https://tolkiengateway.net/w/index.php?title=Thusitha_Jayasundera&amp;action=edit&amp;redlink=1" title="Thusitha Jayasundera (page does not exist)">Thusitha Jayasundera</a></td>
@@ -235,24 +235,24 @@ Buổi tối trước chuyến di cư tiếp theo của [Harfoots](../H/Harfoots
 
 <table class="wikitable">
 <tbody><tr bgcolor="#CCCCCC">
-<th>Actor</th>
-<th>Role
+<th>Diễn viên</th>
+<th>Vai trò
 </th></tr>
 <tr>
 <td>Amand Weaver</td>
 <td><a href="../M/Men.md" title="Men">Imprisoned Farmer</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>
 </td></tr>
 <tr>
-<td>Unknown actor</td>
+<td>Diễn viên vô danh</td>
 <td><a href="../I/Imrahil_(The_Rings_of_Power).md" title="Imrahil (The Rings of Power)">Imrahil</a>
 </td></tr>
 <tr>
-<td>Unknown horse</td>
+<td>Con ngựa không rõ</td>
 <td><a href="../B/Berek~63586.md" title="Berek">Berek</a>
 </td></tr>
 <tr>
 <td>Ken Blackburn</td>
-<td><a href="../T/Tar-Palantir.md" title="Tar-Palantir">Tar-Palantir</a> (Off-camera, but in-scene)
+<td><a href="../T/Tar-Palantir.md" title="Tar-Palantir">Tar-Palantir</a> (Ngoài camera, nhưng trong cảnh)
 </td></tr></tbody></table>
 
 ## Đố vui {#Trivia}
@@ -318,20 +318,20 @@ Không chắc rằng Durin III và Durin IV thực sự là cha con như trong p
 
 <table style="margin:0 auto;" class="mw-collapsible mw-collapsed toccolours" width="100%" align="center">
 <tbody><tr>
-<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> episodes
+<th align="center" style="background:var(--tg-color-surface-5)" colspan="2"><i><a href="../T/The_Lord_of_the_Rings%253A_The_Rings_of_Power.md" title="The Lord of the Rings: The Rings of Power">The Lord of the Rings: The Rings of Power</a></i> tập
 </th></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season One
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ nhất
 </th>
 <td style="font-size: 90%; padding-left: 4px;"><a href="A_Shadow_of_the_Past.md" title="A Shadow of the Past">1. A Shadow of the Past</a> <b>·</b> <a href="Adrift.md" title="Adrift">2. Adrift</a> <b>·</b> <a class="mw-selflink selflink">3. Adar</a> <b>·</b> <a href="../T/The_Great_Wave.md" title="The Great Wave">4. The Great Wave</a> <b>·</b> <a href="../P/Partings.md" title="Partings">5. Partings</a> <b>·</b> <a href="../U/Udûn_(episode).md" title="Udûn (episode)">6. Udûn</a> <b>·</b> <a href="../T/The_Eye.md" title="The Eye">7. The Eye</a> <b>·</b> <a href="Alloyed.md" title="Alloyed">8. Alloyed</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Two
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ hai
 </th>
-<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Elven Kings Under the Sky</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Where the Stars are Strange</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. The Eagle and the Sceptre</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Eldest</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Halls of Stone</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Where Is He?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Doomed to Die</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Shadow and Flame</a>
+<td style="font-size: 90%; padding-left: 4px;"><a href="../E/Elven_Kings_Under_the_Sky.md" title="Elven Kings Under the Sky">9. Tiên Những vị vua dưới bầu trời</a> <b>·</b> <a href="../W/Where_the_Stars_are_Strange.md" title="Where the Stars are Strange">10. Nơi những vì sao kỳ lạ</a> <b>·</b> <a href="../T/The_Eagle_and_the_Sceptre.md" title="The Eagle and the Sceptre">11. Đại bàng và vương trượng</a> <b>·</b> <a href="../E/Eldest_(episode).md" title="Eldest (episode)">12. Anh cả</a> <b>·</b> <a href="../H/Halls_of_Stone.md" title="Halls of Stone">13. Sảnh Đá</a> <b>·</b> <a href="../W/Where_Is_He%253F.md" title="Where Is He?">14. Ông ở đâu?</a> <b>·</b> <a href="../D/Doomed_to_Die.md" title="Doomed to Die">15. Định mệnh phải chết</a> <b>·</b> <a href="../S/Shadow_and_Flame_(episode).md" title="Shadow and Flame (episode)">16. Bóng Tối và Ngọn lửa</a>
 </td></tr>
 <tr>
-<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Season Three
+<th align="right" style="background:var(--tg-color-surface-3); padding-right: 4px;">Mùa thứ ba
 </th>
 <td style="font-size: 90%; padding-left: 4px;">TBD <b>·</b>
 </td></tr></tbody></table>

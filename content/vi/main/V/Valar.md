@@ -100,7 +100,7 @@ Valar, sau khi bước vào Arda, bị ràng buộc vào vòng đời của Arda
 
 ## Tên, thứ bậc và mối quan hệ {#Names,_hierarchy_and_relationships}
 
-Đây là tên của Valar như chúng được biết đến với [Eldar](../E/Eldar.md):
+Đây là tên gọi của các Valar theo cách [Eldar](../E/Eldar.md) biết đến họ:
 
 ### Các vị chúa tể của Valar {#Lords_of_the_Valar}
 
@@ -180,7 +180,7 @@ Người [Edain](../E/Edain.md) đã phải chịu nhiều đau khổ trong các
 
 <figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a class="mw-file-description" href="../../file/T/Ted_Nasmith_-_The_Eagles_of_Manwë.jpg.md"><img src="https://tolkiengateway.net/w/images/thumb/a/ad/Ted_Nasmith_-_The_Eagles_of_Manw%C3%AB.jpg/300px-Ted_Nasmith_-_The_Eagles_of_Manw%C3%AB.jpg" decoding="async" loading="lazy" width="300" height="440" class="mw-file-element" srcset="https://tolkiengateway.net/w/images/thumb/a/ad/Ted_Nasmith_-_The_Eagles_of_Manw%C3%AB.jpg/450px-Ted_Nasmith_-_The_Eagles_of_Manw%C3%AB.jpg 1.5x, https://tolkiengateway.net/w/images/thumb/a/ad/Ted_Nasmith_-_The_Eagles_of_Manw%C3%AB.jpg/600px-Ted_Nasmith_-_The_Eagles_of_Manw%C3%AB.jpg 2x" data-file-width="1090" data-file-height="1600"/></a><figcaption><i>The Eagles of Manwë</i> by <a href="../T/Ted_Nasmith.md" title="Ted Nasmith">Ted Nasmith</a></figcaption></figure>
 
-Những đám mây bão hình đại bàng, được gọi là "Đại Bàng của Chúa tể Phương Tây", được gửi bởi Manwë khi ông ta cố gắng lý luận hoặc đe dọa người Númenor. Sau nhiều thế hệ, [Númenor](../N/Númenor.md) rơi vào ảnh hưởng hư hỏng của [Sauron](../S/Sauron.md), kẻ cuối cùng đã đảm bảo với Vua [Ar-Pharazôn](../A/Ar-Pharazôn.md) rằng nếu đạt đến Aman thì ông ta sẽ trở thành bất tử. Ông ta tập hợp một [một lượng lớn tàu](../G/Great_Armament.md) và lên đường phá hủy Lệnh cấm của Valar và gây chiến với chúng. Nhưng Manwë đã biết chuyện gì đã xảy ra, và Valar sau đó đã từ bỏ Quyền giám hộ của Arda. Ilúvatar phản ứng bằng cách thay đổi hình dạng của Arda một cách thảm khốc. Sau khi [Númenor](../N/Númenor.md) bị phá hủy, Vùng Đất Bất Tử đã bị loại khỏi Arda nên Con Người không thể tiếp cận chúng và chỉ Tiên tộc mới có thể đến đó bằng [Con Đường Thẳng](../S/Straight_Road.md) và trên những con tàu có khả năng đi ra khỏi Quả cầu của trái đất.<sup id="cite_ref-S|Akallabeth_22-0" class="reference"><a href="#cite_note-S|Akallabeth-22">[22]</a></sup>
+Những đám mây giông mang hình đại bàng, được gọi là “Đại Bàng của các Chúa tể Phương Tây”, do Manwë sai đến khi ông tìm cách thuyết phục hoặc đe dọa người Númenor. Sau nhiều thế hệ, [Númenor](../N/Númenor.md) chịu ảnh hưởng tha hóa của [Sauron](../S/Sauron.md), kẻ cuối cùng đã quả quyết với Vua [Ar-Pharazôn](../A/Ar-Pharazôn.md) rằng nếu đặt chân đến Aman, nhà vua sẽ trở nên bất tử. Nhà vua tập hợp một [hạm đội hùng hậu](../G/Great_Armament.md) và ra khơi nhằm phá bỏ Lệnh cấm của Valar và gây chiến với các vị. Nhưng Manwë đã biết rõ những gì đang diễn ra, và Valar sau đó chấm dứt việc bảo hộ Arda. Ilúvatar đáp lại bằng cách làm biến đổi Arda một cách thảm khốc. Sau khi [Númenor](../N/Númenor.md) bị hủy diệt, Vùng Đất Bất Tử bị tách khỏi Arda để Con Người không thể đến đó; chỉ Tiên tộc mới có thể tới nơi bằng [Con Đường Thẳng](../S/Straight_Road.md) và những con tàu có thể vượt ra ngoài các Khối Cầu của thế giới.<sup id="cite_ref-S|Akallabeth_22-0" class="reference"><a href="#cite_note-S|Akallabeth-22">[22]</a></sup>
 
 Đến [Kỷ Đệ Tam](../T/Third_Age.md), Valar lo lắng về sự phát triển ngày càng [Bóng Tối](../S/Shadow.md) của Sauron và họ đã đưa ra lời khuyên. Họ cử một số Maiar đến vùng đất phàm trần trong lốt những ông già, một phần của một số hạn chế áp đặt lên họ. Họ thành lập Hội [Pháp sư](../W/Wizards.md) và phản đối Sauron cho đến khi ông qua đời ở [Cuộc chiến Nhẫn](../W/War_of_the_Ring.md).<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>
 
@@ -225,13 +225,13 @@ Tiên tộc ở Valinor khẳng định rằng khi không mặc áo và không c
 
 ## Các phiên bản khác của truyền thuyết {#Other_versions_of_the_legendarium}
 
-Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, Valar được liên kết chặt chẽ hơn với thần thoại ngoại giáo. Ngoài việc kết hôn, họ còn có thể có con. [Fionwe](../F/Fionwe.md) và [Ilmare](../I/Ilmare.md) lần đầu tiên được hình thành là con của Manwë và Varda và <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a> là con trai của Melko. Một số *[Valarindi](Valarindi.md)* ("Con cháu của Valar") đã được tạo ra Maiar trong [huyền thoại](../L/Legendarium.md) sau này.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
+Trong *[The Book of Lost Tales](../T/The_Book_of_Lost_Tales.md)*, Valar gắn bó mật thiết hơn với các thần thoại ngoại giáo. Ngoài việc kết hôn, họ còn có thể sinh con. [Fionwe](../F/Fionwe.md) và [Ilmare](../I/Ilmare.md) ban đầu được hình dung là con của Manwë và Varda, còn <a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Gothmog</a> là con trai của Melko. Một số *[Valarindi](Valarindi.md)* (“Con cháu của Valar”) được chuyển thành Maiar trong [Legendarium](../L/Legendarium.md) về sau.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup>
 
-Trong những quan niệm trước đó, từ *Vala* được liên kết với các từ [Qenya](../Q/Qenya.md) chỉ hạnh phúc và sự may mắn, như đã thấy trong các từ *valin* và *valimo* ("hạnh phúc"). Vì thế từ Valar có nghĩa là "Những người hạnh phúc" trước khi được hiểu lại là gắn liền với quyền lực. Dạng Qenya đề cập cụ thể đến Vala nam là *Valu*, trong khi dạng Vala nữ là *Valde* hoặc *Valis*.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
+Trong những quan niệm ban đầu, từ *Vala* gắn với các từ trong [Qenya](../Q/Qenya.md) chỉ hạnh phúc và phúc lành, như thể hiện qua các từ *valin* và *valimo* (“hạnh phúc”). Vì thế, Valar có nghĩa là “Những đấng Hạnh phúc” trước khi được định nghĩa lại theo nghĩa gắn với quyền năng. Dạng Qenya dùng riêng cho Vala nam là *Valu*, trong khi dạng giống cái của Vala là *Valde* hoặc *Valis*.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup>
 
-Trong *[Etymologies](../E/Etymologies.md),* có nói rằng từ này không có dạng nữ, và Vala nữ được gọi là *Valatári* hoặc "Nữ hoàng của Valar".<sup id="cite_ref-Ety_25-1" class="reference"><a href="#cite_note-Ety-25">[25]</a></sup> Trong *[The Silmarillion](../T/The_Silmarillion.md),* dạng nữ là *Valie*.
+Trong *[Etymologies](../E/Etymologies.md)*, tác phẩm ghi rằng từ này không có dạng giống cái, và một Vala giống cái được gọi là *Valatári* hoặc “Nữ hoàng của Valar”.<sup id="cite_ref-Ety_25-1" class="reference"><a href="#cite_note-Ety-25">[25]</a></sup> Trong *[The Silmarillion](../T/The_Silmarillion.md)*, dạng giống cái là *Valie*.
 
-*Wanwavoisi* là tên của cả [Varda](Varda.md) và [Manwë](../M/Manwë.md), theo phiên bản đầu tiên của truyền thuyết trong *The Book of Lost Tales*. Đó là một cái tên [Qenya](../Q/Qenya.md), nhưng từ nguyên của nó không rõ ràng, mặc dù nó có thể chứa phần tử *wanwa* ("cơn gió lớn").<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>
+*Wanwavoisi* là tên gọi chung của [Varda](Varda.md) và [Manwë](../M/Manwë.md), theo phiên bản đầu tiên của Legendarium trong *The Book of Lost Tales*. Đây là một tên gọi trong tiếng [Qenya](../Q/Qenya.md), nhưng từ nguyên chưa rõ, dù tên này có lẽ chứa yếu tố *wanwa* (“cơn gió mạnh”).<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup>
 
 ### Các khái niệm Valar bị bỏ rơi {#Abandoned_Valar_concepts}
 
@@ -245,7 +245,7 @@ Có một số Valar được nêu tên nhưng không xuất hiện trong các p
 - [Ómar](../_/Ómar.md), còn được gọi là *Amillo,* người trẻ nhất trong số Valar,<sup id="cite_ref-:4_39-3" class="reference"><a href="#cite_note-:4-39">[39]</a></sup> bậc thầy về [ngôn ngữ](../L/Languages.md) và bài hát<sup id="cite_ref-:9_41-0" class="reference"><a href="#cite_note-:9-41">[41]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:47</sup>
 - [Telimektar](../T/Telimektar.md), con trai của [Tulkas](../T/Tulkas.md), còn được gọi là *Mordo*<sup id="cite_ref-:5_37-1" class="reference"><a href="#cite_note-:5-37">[37]</a></sup> và *Telmaithron*<sup id="cite_ref-:8_38-3" class="reference"><a href="#cite_note-:8-38">[38]</a></sup><sup class="references" style="margin: 0;line-height: 0.4em; padding-top: 0px !important; font-size: 70%;">:13</sup>
 
-Một số Ainur, chẳng hạn như [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md) ban đầu được coi là Valar, nhưng sau đó được đổi thành [Maiar](../M/Maiar.md).<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>
+Một số Ainur, chẳng hạn như [Ossë](../O/Ossë.md) và [Uinen](../U/Uinen.md), ban đầu được xem là các Vala, nhưng sau đó được xếp lại thành [Maiar](../M/Maiar.md).<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">[42]</a></sup>
 
 ### Những đứa con của Valar {#Children_of_the_Valar}
 
@@ -255,8 +255,8 @@ Một số Ainur, chẳng hạn như [Ossë](../O/Ossë.md) và [Uinen](../U/Uin
 - Aulë và Yavanna: [Oromë](../O/Oromë.md), [Nessa](../N/Nessa.md)<sup id="cite_ref-:6_36-1" class="reference"><a href="#cite_note-:6-36">[36]</a></sup>
 - Oromë và Vána: Nielíqui<sup id="cite_ref-:6_36-2" class="reference"><a href="#cite_note-:6-36">[36]</a></sup>
 - Tulkas và Nessa: Telimektar<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup>
-- [Melko](../M/Melko.md) và [ogress](../O/Ogres.md) [Ulbandi](../U/Ulbandi.md): [Kalimbo](../K/Kalimbo.md)/<a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Kosomot</a><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup>
-- [Túrin Turambar](../T/Túrin_Turambar.md) được mệnh danh là con trai của các vị thần trong cả *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)*<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> và *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)* của [1937](../_/1937.md),<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> mặc dù sau đó nó đã bị xóa cùng với khái niệm này.
+- [Melko](../M/Melko.md) và [nữ quỷ khổng lồ](../O/Ogres.md) [Ulbandi](../U/Ulbandi.md): [Kalimbo](../K/Kalimbo.md)/<a class="mw-redirect mw-disambig" href="../G/Gothmog.md" title="Gothmog">Kosomot</a><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">[45]</a></sup>
+- [Túrin Turambar](../T/Túrin_Turambar.md) được liệt kê trong số các con trai của các vị thần trong cả *[Quenta Noldorinwa](../Q/Quenta_Noldorinwa.md)*<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup> và *[Quenta Silmarillion](<../Q/Quenta_Silmarillion_(Lost_Road).md>)* năm [1937](../_/1937.md),<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup> dù về sau chi tiết này bị loại bỏ cùng với chính quan niệm đó.
 
 <span></span>
 

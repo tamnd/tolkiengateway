@@ -105,7 +105,7 @@ Có thể tìm hiểu thêm về hình dung của Tolkien về legendarium của
 
 ## Liên kết ngoài {#External_links}
 
-Bảo tàng huyền thoại của - <a class="extiw" href="http://en.wikipedia.org/wiki/Tolkien%27s_legendarium" title="wikipedia:Tolkien&#39;s legendarium">Tolkien</a> tại <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
+- <a class="extiw" href="http://en.wikipedia.org/wiki/Tolkien%27s_legendarium" title="wikipedia:Tolkien&#39;s legendarium">Huyền thoại hệ Tolkien của Tolkien</a> trên <a class="extiw" href="http://en.wikipedia.org/wiki/Main_Page" title="wikipedia:Main Page">Wikipedia</a>
 
 <span></span>
 

@@ -22,7 +22,7 @@ images:
 Sau đây là trích đoạn bức thư Tolkien gửi cho một nhóm học sinh tiểu học ở Acocks Green:
 
 <blockquote class="tg-quote noexcerpt">
-<p>I lived till I was 8 at Sarehole and used to walk to A[cocks] G[reen] to see my uncle. It was all &#39;country&#39; then ...
+<p>Tôi sống đến năm 8 tuổi ở Sarehole và thường đi bộ đến A[cocks] G[reen] để gặp chú tôi. Lúc đó tất cả đều là 'đất nước' ...
 </p>
 <p class="tg-quote-footer"><cite><a href="../L/Letter_to_a_Primary_School_in_Acocks_Green.md" title="Letter to a Primary School in Acocks Green">Letter to a Primary School in Acocks Green</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></cite></p>
 </blockquote>
